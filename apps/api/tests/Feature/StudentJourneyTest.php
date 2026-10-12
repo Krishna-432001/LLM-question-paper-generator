@@ -92,6 +92,34 @@ final class StudentJourneyTest extends TestCase
         $this->actingAs($this->student)->getJson('/api/v1/me/profile')->assertJsonPath('data.target_exam.id', $this->exam->getKey());
     }
 
+    public function test_a_timed_attempt_ends_in_the_future_not_hours_ago(): void
+    {
+        $testId = $this->actingAs($this->student)
+            ->postJson('/api/v1/tests', [
+                'exam_id' => $this->exam->getKey(),
+                'language_id' => $this->english(),
+                'type' => 'daily',
+                'question_count' => 5,
+                'duration_minutes' => 20,
+                'difficulty_mix' => ['easy' => 1.0],
+            ])
+            ->assertCreated()
+            ->json('data.id');
+
+        $attemptId = $this->actingAs($this->student)->postJson("/api/v1/tests/{$testId}/attempt")->json('data.attempt_id');
+
+        // Read back through the database, as a reload does. When the DB
+        // session timezone differed from the app's, this came back 5½ hours
+        // in the past and the runner submitted the moment it opened.
+        $expires = \Carbon\CarbonImmutable::parse(
+            $this->actingAs($this->student)->getJson("/api/v1/attempts/{$attemptId}")->json('data.expires_at')
+        );
+        $minutesLeft = now()->diffInMinutes($expires, false);
+
+        $this->assertGreaterThan(19, $minutesLeft);
+        $this->assertLessThanOrEqual(20, $minutesLeft);
+    }
+
     public function test_a_reload_resumes_the_attempt_instead_of_starting_again(): void
     {
         [, $attempt] = $this->startTest();

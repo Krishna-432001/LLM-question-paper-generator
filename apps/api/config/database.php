@@ -97,6 +97,13 @@ return [
             'prefix_indexes' => true,
             'search_path' => 'public',
             'sslmode' => env('DB_SSLMODE', 'prefer'),
+            // Laravel writes timestamps without an offset, in the app timezone.
+            // Postgres reads an offset-less literal in the *session* timezone,
+            // which defaults to the server's (Asia/Calcutta on an Indian
+            // Windows install). The two must match, or every saved time is off
+            // by 5½ hours — a test's expires_at lands in the past and the
+            // runner submits the moment it opens.
+            'timezone' => env('DB_TIMEZONE', env('APP_TIMEZONE', 'UTC')),
         ],
 
         'sqlsrv' => [

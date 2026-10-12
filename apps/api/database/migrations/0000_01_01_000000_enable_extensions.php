@@ -66,6 +66,27 @@ return new class extends Migration
                 RETURN coalesce(current_setting('app.is_platform_admin', true), 'off') = 'on';
             END;
             $$ LANGUAGE plpgsql STABLE;
+
+            -- Defined here, not only in the later RLS migration, because the
+            -- question and review tables (February migrations) already use
+            -- them in their policies. On an empty database those migrations
+            -- failed with "function rls_bypass() does not exist"; existing
+            -- databases only worked because migrate:fresh drops tables but
+            -- leaves functions behind. The RLS migration redefines both with
+            -- CREATE OR REPLACE, identically.
+            CREATE OR REPLACE FUNCTION current_user_id() RETURNS uuid AS $$
+            BEGIN
+                RETURN nullif(current_setting('app.user_id', true), '')::uuid;
+            EXCEPTION WHEN others THEN
+                RETURN NULL;
+            END;
+            $$ LANGUAGE plpgsql STABLE;
+
+            CREATE OR REPLACE FUNCTION rls_bypass() RETURNS boolean AS $$
+            BEGIN
+                RETURN coalesce(current_setting('app.bypass_rls', true), 'off') = 'on';
+            END;
+            $$ LANGUAGE plpgsql STABLE;
         SQL);
     }
 
