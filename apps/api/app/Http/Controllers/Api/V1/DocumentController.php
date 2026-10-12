@@ -31,8 +31,14 @@ final class DocumentController extends Controller
 
     public function index(Request $request): JsonResponse
     {
+        $user = $request->user();
+        $seesAll = $user->isPlatformAdmin() || $user->can('documents.download.org');
+
         $documents = GeneratedDocument::query()
             ->when($request->filled('type'), fn ($q) => $q->where('type', $request->string('type')))
+            // A student's list is their own papers, not the whole institute's.
+            ->when(! $seesAll, fn ($q) => $q->where('user_id', $user->getKey()))
+            ->when($request->filled('subject_id'), fn ($q) => $q->where('documentable_id', $request->string('subject_id')))
             ->where('status', 'ready')
             ->latest('created_at')
             ->limit(100)
@@ -69,6 +75,8 @@ final class DocumentController extends Controller
             default => StudyPlan::query()->findOrFail($subjectId),
         };
 
+        abort_unless($this->canAccess($request, $subject), 404, 'Not found');
+
         $format = (string) $request->input('format', 'pdf');
 
         abort_unless(
@@ -86,20 +94,22 @@ final class DocumentController extends Controller
         return response()->json(['data' => $documents], 201);
     }
 
-    public function show(string $documentId): JsonResponse
+    public function show(Request $request, string $documentId): JsonResponse
     {
-        return response()->json([
-            'data' => $this->shape(GeneratedDocument::query()->findOrFail($documentId)),
-        ]);
+        $document = GeneratedDocument::query()->findOrFail($documentId);
+        $this->assertCanDownload($request, $document);
+
+        return response()->json(['data' => $this->shape($document)]);
     }
 
     /**
      * Serves the stored bytes. Re-serving never re-renders and never re-runs
      * AI, which is why unlimited downloads are free.
      */
-    public function download(string $documentId): StreamedResponse
+    public function download(Request $request, string $documentId): StreamedResponse
     {
         $document = GeneratedDocument::query()->findOrFail($documentId);
+        $this->assertCanDownload($request, $document);
 
         abort_unless($document->isReady(), 409, 'This document is not ready yet.');
 
@@ -116,6 +126,42 @@ final class DocumentController extends Controller
             // Word then refuses to open.
             ['Content-Type' => self::MIME_TYPES[$document->format] ?? 'application/pdf'],
         );
+    }
+
+    /**
+     * A test's papers belong to whoever may sit the test; a plan's PDF to the
+     * student it was made for. Staff who assign tests or plans in the
+     * organization see them all. Tenant scope already kept other
+     * organizations out; this keeps one student out of another's.
+     */
+    private function canAccess(Request $request, Test|StudyPlan $subject): bool
+    {
+        $user = $request->user();
+
+        if ($user->isPlatformAdmin()) {
+            return true;
+        }
+
+        return $subject instanceof Test
+            ? $subject->created_by === $user->getKey() || $subject->is_shared || $user->can('tests.create.org')
+            : $subject->user_id === $user->getKey() || $user->can('plans.create.org');
+    }
+
+    private function assertCanDownload(Request $request, GeneratedDocument $document): void
+    {
+        if ($document->user_id === $request->user()->getKey()) {
+            return;
+        }
+
+        // Rendering is content-addressed, so the stored row may name whoever
+        // rendered it first; access follows the subject, not that user.
+        $subject = match ($document->documentable_type) {
+            Test::class => Test::query()->find($document->documentable_id),
+            StudyPlan::class => StudyPlan::query()->find($document->documentable_id),
+            default => null,
+        };
+
+        abort_unless($subject !== null && $this->canAccess($request, $subject), 404, 'Not found');
     }
 
     private function filename(GeneratedDocument $document): string

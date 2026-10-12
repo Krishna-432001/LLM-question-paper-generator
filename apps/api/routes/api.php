@@ -17,6 +17,7 @@ use App\Http\Controllers\Api\V1\PyqController;
 use App\Http\Controllers\Api\V1\QuestionController;
 use App\Http\Controllers\Api\V1\ReviewController;
 use App\Http\Controllers\Api\V1\StructureController;
+use App\Http\Controllers\Api\V1\StudentController;
 use App\Http\Controllers\Api\V1\StudyPlanController;
 use App\Http\Controllers\Api\V1\SyllabusController;
 use App\Http\Controllers\Api\V1\TestController;
@@ -42,6 +43,14 @@ Route::prefix('v1')->group(function (): void {
         Route::post('auth/logout', [AuthController::class, 'logout']);
 
         Route::get('me', [MeController::class, 'show']);
+
+        // The student's own surface: profile, history, resume, progress.
+        Route::get('me/profile', [StudentController::class, 'profileShow']);
+        Route::patch('me/profile', [StudentController::class, 'updateProfile']);
+        Route::get('me/tests', [StudentController::class, 'tests']);
+        Route::get('me/attempts', [StudentController::class, 'attempts']);
+        Route::get('me/progress', [StudentController::class, 'progress']);
+        Route::get('attempts/{attempt}', [StudentController::class, 'attempt']);
         Route::get('me/organizations', [MeController::class, 'organizations']);
 
         // One aggregated call: a dashboard that issues a query per card

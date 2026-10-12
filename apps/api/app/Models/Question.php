@@ -122,4 +122,21 @@ class Question extends Model
     {
         return $this->translations->firstWhere('language_id', $languageId);
     }
+
+    /**
+     * The text a student reads in a given language: a validated translation
+     * if there is one, otherwise the master. Selection already restricts a
+     * paper to questions available in its language, so the fallback is only
+     * reached for older papers.
+     */
+    public function textIn(string $languageId): ?QuestionTranslation
+    {
+        $translation = $this->translationIn($languageId);
+
+        if ($translation !== null && in_array($translation->translation_status, ['AI_VALIDATED', 'HUMAN_APPROVED'], true)) {
+            return $translation;
+        }
+
+        return $this->translations->firstWhere('is_master', true) ?? $this->master;
+    }
 }

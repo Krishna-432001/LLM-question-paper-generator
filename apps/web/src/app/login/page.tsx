@@ -3,6 +3,7 @@
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { ApiError, auth, setToken } from "@/lib/api";
+import { homeFor } from "@/lib/routing";
 
 export default function LoginPage() {
   const router = useRouter();
@@ -19,7 +20,8 @@ export default function LoginPage() {
     try {
       const { data } = await auth.login(email, password);
       setToken(data.token);
-      router.push("/review");
+      const { data: me } = await auth.me();
+      router.push(homeFor(me));
     } catch (e) {
       setError(
         e instanceof ApiError
@@ -38,7 +40,7 @@ export default function LoginPage() {
       >
         <div>
           <h1 className="text-xl font-semibold text-slate-100">ExamForge</h1>
-          <p className="mt-1 text-sm text-slate-400">Reviewer console</p>
+          <p className="mt-1 text-sm text-slate-400">Sign in to continue</p>
         </div>
 
         <label className="block space-y-1.5">
@@ -76,6 +78,13 @@ export default function LoginPage() {
         >
           {busy ? "Signing in…" : "Sign in"}
         </button>
+
+        <p className="text-center text-xs text-slate-400">
+          New here?{" "}
+          <a href="/register" className="text-sky-400 hover:underline">
+            Create a student account
+          </a>
+        </p>
       </form>
     </main>
   );

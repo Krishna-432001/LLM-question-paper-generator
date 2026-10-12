@@ -41,15 +41,17 @@ class TopicMastery extends Model
         }
 
         $observed = $correct / $attempted;
+        $mastery = round((self::ALPHA * $observed) + ((1 - self::ALPHA) * (float) $this->mastery), 4);
 
         $this->forceFill([
             'attempts' => $this->attempts + $attempted,
             'correct' => $this->correct + $correct,
-            'mastery' => round(
-                (self::ALPHA * $observed) + ((1 - self::ALPHA) * (float) $this->mastery),
-                4,
-            ),
+            'mastery' => $mastery,
             'last_practiced_at' => now(),
+            // Spaced repetition: a shaky topic comes back tomorrow, a mastered
+            // one in about two weeks. Squared so the interval only stretches
+            // once mastery is genuinely high.
+            'next_review_at' => now()->addDays(max(1, (int) round(1 + 13 * $mastery ** 2))),
         ])->save();
     }
 }

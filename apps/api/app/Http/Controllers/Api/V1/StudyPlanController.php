@@ -71,6 +71,8 @@ final class StudyPlanController extends Controller
         return response()->json([
             'data' => $this->summary($plan) + [
                 'days' => $plan->days->map(fn (StudyPlanDay $day) => [
+                    'id' => $day->getKey(),
+                    'test_id' => $day->test_id,
                     'day_number' => $day->day_number,
                     'date' => $day->plan_date->toDateString(),
                     'role' => $day->day_role,
@@ -101,6 +103,8 @@ final class StudyPlanController extends Controller
 
         return response()->json([
             'data' => [
+                'id' => $day->getKey(),
+                'test_id' => $day->test_id,
                 'day_number' => $day->day_number,
                 'date' => $day->plan_date->toDateString(),
                 'role' => $day->day_role,

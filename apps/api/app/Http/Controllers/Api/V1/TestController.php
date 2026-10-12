@@ -46,6 +46,7 @@ final class TestController extends Controller
     public function show(string $testId): JsonResponse
     {
         $test = Test::query()->with('questions')->findOrFail($testId);
+        $this->assertCanUse($test);
 
         return response()->json(['data' => $this->shape($test)]);
     }
@@ -57,7 +58,8 @@ final class TestController extends Controller
      */
     public function attempt(Request $request, string $testId): JsonResponse
     {
-        $test = Test::query()->with('questions.question.master')->findOrFail($testId);
+        $test = Test::query()->with('questions.question.translations')->findOrFail($testId);
+        $this->assertCanUse($test);
         $context = app(TenantContext::class);
 
         $attempt = TestAttempt::query()->create([
@@ -83,8 +85,9 @@ final class TestController extends Controller
                     'test_question_id' => $tq->getKey(),
                     'sequence' => $tq->sequence,
                     'marks' => $tq->marks,
-                    'question_text' => $tq->question->master?->question_text,
-                    'options' => $tq->question->master?->optionMap(),
+                    // In the paper's own language, not the bank's master.
+                    'question_text' => $tq->question->textIn($test->language_id)?->question_text,
+                    'options' => $tq->question->textIn($test->language_id)?->optionMap(),
                     // The correct option is never sent to the client.
                 ])->all(),
             ],
@@ -126,20 +129,28 @@ final class TestController extends Controller
     }
 
     /** Solutions are released only after submission, with their citations. */
-    public function solutions(string $attemptId): JsonResponse
+    public function solutions(Request $request, string $attemptId): JsonResponse
     {
         $attempt = TestAttempt::query()->findOrFail($attemptId);
 
+        // Another student's solutions reveal their answers; only the student
+        // and those who assign tests (teachers, admins) may see them.
+        abort_unless(
+            $attempt->user_id === app(TenantContext::class)->userId || $request->user()->can('tests.create.org'),
+            404,
+            'Not found',
+        );
         abort_unless($attempt->isSubmitted(), 409, 'Submit the attempt before viewing solutions.');
 
-        $test = $attempt->test()->with('questions.question.master', 'questions.question.sources.chunk')->first();
+        $test = $attempt->test()->with('questions.question.translations', 'questions.question.options', 'questions.question.sources.chunk')->first();
 
         return response()->json([
             'data' => $test->questions->map(fn ($tq) => [
                 'sequence' => $tq->sequence,
-                'question_text' => $tq->question->master?->question_text,
+                'question_text' => $tq->question->textIn($test->language_id)?->question_text,
+                'options' => $tq->question->textIn($test->language_id)?->optionMap(),
                 'correct_option' => $tq->question->correctOptionKey(),
-                'explanation' => $tq->question->master?->explanation,
+                'explanation' => $tq->question->textIn($test->language_id)?->explanation,
                 // Every solution shows where the answer comes from. This is
                 // what a student can take to a teacher and check.
                 'sources' => $tq->question->sources->map(fn ($s) => [
@@ -148,6 +159,25 @@ final class TestController extends Controller
                 ])->all(),
             ])->all(),
         ]);
+    }
+
+    /**
+     * A test is usable by whoever made it, by anyone when shared, and by the
+     * people who assign tests in the organization. Tenant scope has already
+     * kept other organizations out; this keeps one student out of another's.
+     */
+    private function assertCanUse(Test $test): void
+    {
+        $user = request()->user();
+
+        abort_unless(
+            $test->created_by === $user?->getKey()
+                || $test->is_shared
+                || $user?->can('tests.create.org')
+                || $user?->isPlatformAdmin(),
+            404,
+            'Not found',
+        );
     }
 
     /** @return array<string, mixed> */

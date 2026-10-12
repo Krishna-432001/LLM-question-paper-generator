@@ -103,6 +103,7 @@ export interface Me {
   id: string;
   name: string;
   email: string;
+  is_platform_admin?: boolean;
   roles: string[];
   organization: { id: string; name: string | null; plan: string | null };
 }
@@ -876,4 +877,210 @@ export const audit = {
         Object.entries(params).map(([k, v]) => [k, String(v)]),
       )}`,
     ),
+};
+
+// ------------------------------------------------------------ student app
+
+export interface StudentProfile {
+  id: string;
+  name: string;
+  email: string;
+  timezone: string;
+  locale: string;
+  preferred_language_id: string | null;
+  target_exam: { id: string; code: string; name: string } | null;
+}
+
+export interface MyTestRow {
+  id: string;
+  title: string;
+  type: string;
+  question_count: number;
+  duration_minutes: number | null;
+  created_at: string | null;
+  attempts: number;
+  best_score: number | null;
+  best_accuracy: number | null;
+  open_attempt_id: string | null;
+}
+
+export interface AttemptRow {
+  attempt_id: string;
+  test_id: string;
+  title: string;
+  type: string;
+  status: string;
+  started_at: string;
+  submitted_at: string | null;
+  total_questions: number | null;
+  correct: number | null;
+  wrong: number | null;
+  final_score: number | null;
+  accuracy: number | null;
+  time_taken_seconds: number | null;
+}
+
+export interface PaperQuestion {
+  test_question_id: string;
+  sequence: number;
+  marks: number;
+  question_text: string | null;
+  options: Record<string, string> | null;
+}
+
+export interface OpenAttempt {
+  attempt_id: string;
+  status: "in_progress";
+  test: { id: string; title: string; duration_minutes: number | null };
+  started_at: string | null;
+  expires_at: string | null;
+  questions: PaperQuestion[];
+}
+
+export interface AttemptResult {
+  attempt_id: string;
+  status: "submitted";
+  test: { id: string; title: string | null };
+  submitted_at: string | null;
+  result: {
+    total_questions: number;
+    attempted: number;
+    correct: number;
+    wrong: number;
+    unattempted: number;
+    final_score: number;
+    accuracy: number;
+    time_taken_seconds: number | null;
+    topics: Array<{ topic: string; attempted: number; correct: number; accuracy?: number }>;
+    difficulty: Record<string, { attempted: number; correct: number; accuracy?: number }>;
+  } | null;
+}
+
+export interface Solution {
+  sequence: number;
+  question_text: string | null;
+  correct_option: string | null;
+  explanation: string | null;
+  sources: Array<{ citation: string; supporting_quote: string | null }>;
+}
+
+export interface MasteryRow {
+  canonical_topic_id: string;
+  topic: string;
+  attempts: number;
+  correct: number;
+  mastery: number;
+  last_practiced_at: string | null;
+  review_due: boolean;
+}
+
+export interface Progress {
+  exam_id: string;
+  totals: { tests: number; questions_answered: number; accuracy: number | null; topics_practised: number };
+  streak_days: number;
+  weak_topics: MasteryRow[];
+  strong_topics: MasteryRow[];
+  review_due: number;
+  mastery: MasteryRow[];
+  trend: Array<{ date: string; tests: number; accuracy: number | null }>;
+}
+
+export type PlanMode = "daily" | "three-day" | "weekly" | "monthly" | "model-test";
+
+export interface PlanSummary {
+  id: string;
+  mode: string;
+  status: string;
+  start_date: string;
+  end_date: string;
+  exam_date: string | null;
+  hours_per_day: number;
+  day_count: number;
+  coverage_percent: number | null;
+  dropped_topics: unknown;
+}
+
+export interface PlanItem {
+  id: string;
+  type: string;
+  topic: string | null;
+  exam_topic_id: string | null;
+  minutes: number;
+  question_count: number | null;
+  is_revision: boolean;
+  completed_at: string | null;
+}
+
+export interface PlanDay {
+  id?: string;
+  day_number: number;
+  date: string;
+  role: string;
+  target_minutes: number;
+  completion_pct?: number;
+  items: PlanItem[];
+}
+
+export interface PlanDetail extends PlanSummary {
+  days: PlanDay[];
+}
+
+export const authApi = {
+  register: (payload: { name: string; email: string; password: string; password_confirmation: string }) =>
+    api.post<Envelope<{ user: { id: string; name: string }; token: string }>>("/auth/register", payload),
+  logout: () => api.post<unknown>("/auth/logout"),
+};
+
+export const student = {
+  profile: () => api.get<Envelope<StudentProfile>>("/me/profile"),
+  updateProfile: (payload: Partial<{ name: string; preferred_language_id: string | null; target_exam_id: string | null }>) =>
+    api.patch<Envelope<StudentProfile>>("/me/profile", payload),
+  tests: (examId?: string) => api.get<Envelope<MyTestRow[]>>(`/me/tests${examId ? `?exam_id=${examId}` : ""}`),
+  attempts: (examId?: string, limit = 50) =>
+    api.get<Envelope<AttemptRow[]>>(`/me/attempts?limit=${limit}${examId ? `&exam_id=${examId}` : ""}`),
+  progress: (examId: string, days = 30) =>
+    api.get<Envelope<Progress>>(`/me/progress?exam_id=${examId}&days=${days}`),
+  attempt: (attemptId: string) => api.get<Envelope<OpenAttempt | AttemptResult>>(`/attempts/${attemptId}`),
+};
+
+export const testsApi = {
+  create: (payload: {
+    exam_id: string;
+    language_id: string;
+    type: string;
+    question_count: number;
+    title?: string;
+    duration_minutes?: number;
+    difficulty_mix?: Record<string, number>;
+  }) => api.post<Envelope<{ id: string; title: string; question_count: number }>>("/tests", payload),
+  start: (testId: string) =>
+    api.post<Envelope<{ attempt_id: string; expires_at: string | null; questions: PaperQuestion[] }>>(
+      `/tests/${testId}/attempt`,
+    ),
+  submit: (attemptId: string, answers: Array<{ test_question_id: string; selected_option: string | null; time_spent_seconds?: number }>) =>
+    api.post<Envelope<{ attempt_id: string; final_score: number; accuracy: number }>>(
+      `/attempts/${attemptId}/submit`,
+      { answers },
+    ),
+  solutions: (attemptId: string) => api.get<Envelope<Solution[]>>(`/results/${attemptId}/solutions`),
+};
+
+export const plansApi = {
+  list: () => api.get<Envelope<PlanSummary[]>>("/study-plans"),
+  create: (
+    mode: PlanMode,
+    payload: { exam_id: string; language_id: string; start_date?: string; exam_date?: string; hours_per_day?: number; off_days?: number[] },
+  ) => api.post<Envelope<PlanSummary>>(`/study-plans/${mode}`, payload),
+  show: (id: string) => api.get<Envelope<PlanDetail>>(`/study-plans/${id}`),
+  today: (id: string) => api.get<Envelope<PlanDay | null> & { meta?: { message: string } }>(`/study-plans/${id}/today`),
+  complete: (planId: string, itemId: string) =>
+    api.post<Envelope<{ item_id: string; day_completion_pct: number }>>(`/study-plans/${planId}/items/${itemId}/complete`),
+  dayTest: (planId: string, dayId: string) =>
+    api.post<Envelope<{ test_id: string; created: boolean }>>(`/study-plans/${planId}/days/${dayId}/test`),
+};
+
+export const documentsApi = {
+  list: (subjectId?: string) => api.get<Envelope<DocumentRow[]>>(`/documents${subjectId ? `?subject_id=${subjectId}` : ""}`),
+  generate: (subjectType: "tests" | "study-plans", subjectId: string, types?: string[]) =>
+    api.post<Envelope<DocumentRow[]>>(`/${subjectType}/${subjectId}/documents`, types ? { types } : {}),
 };
