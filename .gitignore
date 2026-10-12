@@ -1,0 +1,16 @@
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets - every app keeps its own .env out of git as well
+.env
+.env.*
+!.env.example
+
+# Build output and dependencies (also ignored per app)
+node_modules/
+vendor/
+.next/
+*.tsbuildinfo

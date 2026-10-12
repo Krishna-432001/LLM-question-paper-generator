@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "question_text": "Which organ pumps blood throughout the human body?",
+      "options": {
+        "A": "Lungs",
+        "B": "Heart",
+        "C": "Kidney",
+        "D": "Liver"
+      },
+      "correct_option": "B",
+      "explanation": "The heart is a muscular organ that pumps blood to all parts of the body through blood vessels.",
+      "difficulty": "easy",
+      "bloom_level": "remember",
+      "topic": "Circulatory System",
+      "subtopic": "Heart",
+      "source_refs": [
+        "S1"
+      ],
+      "supporting_quote": "It pumps blood through blood vessels called arteries",
+      "confidence": 0.96,
+      "format": "mcq4"
+    },
+    {
+      "question_text": "How many chambers are present in the human heart?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Six"
+      },
+      "correct_option": "C",
+      "explanation": "The human heart has four chambers: two atria and two ventricles.",
+      "difficulty": "easy",
+      "bloom_level": "remember",
+      "topic": "Circulatory System",
+      "subtopic": "Heart",
+      "source_refs": [
+        "S1"
+      ],
+      "supporting_quote": "The human heart has four chambers: two atria and two",
+      "confidence": 0.94,
+      "format": "mcq4"
+    },
+    {
+      "question_text": "Where is the heart located in the human body?",
+      "options": {
+        "A": "Slightly to the left of the chest cavity",
+        "B": "Behind the stomach",
+        "C": "Above the diaphragm on the right",
+        "D": "Within the abdominal cavity"
+      },
+      "correct_option": "A",
+      "explanation": "The heart is a muscular organ located slightly to the left of the chest cavity.",
+      "difficulty": "medium",
+      "bloom_level": "understand",
+      "topic": "Circulatory System",
+      "subtopic": "Heart",
+      "source_refs": [
+        "S1"
+      ],
+      "supporting_quote": "located slightly to the left of the",
+      "confidence": 0.91,
+      "format": "mcq4"
+    },
+    {
+      "question_text": "Blood is carried away from the heart mainly through which vessels?",
+      "options": {
+        "A": "Veins",
+        "B": "Arteries",
+        "C": "Nerves",
+        "D": "Glands"
+      },
+      "correct_option": "B",
+      "explanation": "Arteries carry blood away from the heart, while veins return blood to it.",
+      "difficulty": "medium",
+      "bloom_level": "understand",
+      "topic": "Circulatory System",
+      "subtopic": "Blood vessels",
+      "source_refs": [
+        "S1"
+      ],
+      "supporting_quote": "blood vessels called arteries",
+      "confidence": 0.89,
+      "format": "mcq4"
+    },
+    {
+      "question_text": "Which statement best describes the function of the circulatory system?",
+      "options": {
+        "A": "It digests food into simpler substances",
+        "B": "It carries blood to every part of the body",
+        "C": "It filters waste from the bloodstream only",
+        "D": "It controls voluntary muscle movement"
+      },
+      "correct_option": "B",
+      "explanation": "The circulatory system carries blood, and therefore oxygen and nutrients, to every part of the body.",
+      "difficulty": "hard",
+      "bloom_level": "analyse",
+      "topic": "Circulatory System",
+      "subtopic": "Function",
+      "source_refs": [
+        "S1"
+      ],
+      "supporting_quote": "The circulatory system carries blood to every part of the body",
+      "confidence": 0.88,
+      "format": "mcq4"
+    }
+  ]
+}

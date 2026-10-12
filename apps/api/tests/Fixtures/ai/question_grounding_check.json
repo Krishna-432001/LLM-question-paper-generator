@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "ref": "Q1",
+      "supported": true,
+      "support_span": "It pumps blood through blood vessels called arteries",
+      "answer_correct": true,
+      "model_choice": "B",
+      "single_correct": true,
+      "options_valid": true,
+      "suggested_difficulty": "easy",
+      "issues": [],
+      "confidence": 0.97
+    },
+    {
+      "ref": "Q2",
+      "supported": true,
+      "support_span": "The human heart has four chambers",
+      "answer_correct": true,
+      "model_choice": "C",
+      "single_correct": true,
+      "options_valid": true,
+      "suggested_difficulty": "easy",
+      "issues": [],
+      "confidence": 0.95
+    },
+    {
+      "ref": "Q3",
+      "supported": true,
+      "support_span": "located slightly to the left of the chest cavity",
+      "answer_correct": true,
+      "model_choice": "A",
+      "single_correct": true,
+      "options_valid": true,
+      "suggested_difficulty": "medium",
+      "issues": [],
+      "confidence": 0.92
+    },
+    {
+      "ref": "Q4",
+      "supported": true,
+      "support_span": "blood vessels called arteries and veins",
+      "answer_correct": true,
+      "model_choice": "B",
+      "single_correct": true,
+      "options_valid": true,
+      "suggested_difficulty": "medium",
+      "issues": [],
+      "confidence": 0.9
+    },
+    {
+      "ref": "Q5",
+      "supported": true,
+      "support_span": "The circulatory system carries blood to every part of the body",
+      "answer_correct": false,
+      "model_choice": "A",
+      "single_correct": true,
+      "options_valid": true,
+      "suggested_difficulty": "hard",
+      "issues": ["ANSWER_MISMATCH"],
+      "confidence": 0.71
+    }
+  ]
+}
