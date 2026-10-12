@@ -50,7 +50,7 @@ Route::prefix('v1')->group(function (): void {
 
         Route::get('exams', [CatalogueController::class, 'exams']);
         Route::post('exams', [ExamController::class, 'store']);
-        Route::get('exams/{exam}', [CatalogueController::class, 'exam']);
+        Route::get('exams/{exam}', [ExamController::class, 'show']);
         Route::patch('exams/{exam}', [ExamController::class, 'update']);
         Route::patch('exams/{exam}/papers/{paper}', [ExamController::class, 'updatePaper']);
         Route::get('exams/{exam}/syllabus', [ExamController::class, 'syllabus']);

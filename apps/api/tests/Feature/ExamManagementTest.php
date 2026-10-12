@@ -140,6 +140,9 @@ final class ExamManagementTest extends TestCase
         // Switched off, it leaves the public catalogue but managers still see it.
         $this->actingAs($admin)->getJson('/api/v1/exams')->assertJsonMissing(['id' => $id]);
         $this->actingAs($admin)->getJson('/api/v1/exams?include_inactive=1')->assertJsonFragment(['id' => $id]);
+
+        // The detail endpoint serves the same shape the edits return.
+        $this->actingAs($admin)->getJson("/api/v1/exams/{$id}")->assertOk()->assertJsonPath('data.is_active', false);
     }
 
     public function test_a_paper_can_only_be_edited_through_its_own_exam(): void

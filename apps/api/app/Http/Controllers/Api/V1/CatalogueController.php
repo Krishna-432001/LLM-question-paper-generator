@@ -58,41 +58,4 @@ final class CatalogueController extends Controller
             ])->all(),
         ]);
     }
-
-    public function exam(string $examId): JsonResponse
-    {
-        $exam = Exam::query()->with(['versions.stages.papers.subjects'])->findOrFail($examId);
-        $version = $exam->activeVersion();
-
-        return response()->json([
-            'data' => [
-                'id' => $exam->getKey(),
-                'code' => $exam->code,
-                'name' => $exam->name,
-                'conducting_body' => $exam->conducting_body,
-                'active_version' => $version === null ? null : [
-                    'id' => $version->getKey(),
-                    'label' => $version->version_label,
-                    'exam_date' => $version->exam_date?->toDateString(),
-                    'stages' => $version->stages->map(fn ($stage) => [
-                        'id' => $stage->getKey(),
-                        'name' => $stage->name,
-                        'papers' => $stage->papers->map(fn ($paper) => [
-                            'id' => $paper->getKey(),
-                            'name' => $paper->name,
-                            'duration_minutes' => $paper->duration_minutes,
-                            'total_questions' => $paper->total_questions,
-                            'negative_marking' => $paper->negative_marking,
-                            'subjects' => $paper->subjects->map(fn ($s) => [
-                                'id' => $s->getKey(),
-                                'name' => $s->name,
-                                'weight' => $s->weight,
-                                'question_count' => $s->question_count,
-                            ])->all(),
-                        ])->all(),
-                    ])->all(),
-                ],
-            ],
-        ]);
-    }
 }

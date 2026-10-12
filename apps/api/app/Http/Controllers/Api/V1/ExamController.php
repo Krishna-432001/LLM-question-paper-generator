@@ -27,6 +27,11 @@ use Illuminate\Validation\ValidationException;
  */
 final class ExamController extends Controller
 {
+    public function show(string $examId): JsonResponse
+    {
+        return response()->json(['data' => $this->shape(Exam::query()->findOrFail($examId))]);
+    }
+
     public function store(Request $request, CreateExamAction $action): JsonResponse
     {
         $this->authorizeManage($request, null);

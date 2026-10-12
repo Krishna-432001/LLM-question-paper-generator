@@ -430,6 +430,116 @@ export const catalogue = {
   exams: () => api.get<Envelope<Exam[]>>("/exams"),
 };
 
+// ------------------------------------------------------------ exam admin
+
+export interface ExamRow extends Exam {
+  conducting_body: string | null;
+  state: string | null;
+  category: string | null;
+  level: string | null;
+  is_active: boolean;
+  is_platform: boolean;
+}
+
+export interface ExamSubjectRow {
+  id: string;
+  name: string;
+  question_count: number | null;
+  weight: number;
+}
+
+export interface ExamPaperRow {
+  id: string;
+  stage: string;
+  name: string;
+  duration_minutes: number | null;
+  total_questions: number | null;
+  total_marks: number | null;
+  negative_marking: number;
+  subjects: ExamSubjectRow[];
+}
+
+export interface ExamDetail extends ExamRow {
+  country: string;
+  description: string | null;
+  active_version: {
+    id: string;
+    label: string;
+    notification_date: string | null;
+    exam_date: string | null;
+    languages: Array<{ id: string; code: string; name: string; is_default: boolean }>;
+    papers: ExamPaperRow[];
+  } | null;
+}
+
+export interface SyllabusTopicNode {
+  id: string;
+  parent_id: string | null;
+  name: string;
+  weight: number;
+  estimated_minutes: number;
+  canonical_topic_id: string | null;
+  canonical_slug: string | null;
+}
+
+export interface SyllabusUnitNode {
+  id: string;
+  subject_id: string;
+  subject: string;
+  code: string | null;
+  name: string;
+  weight: number;
+  topics: SyllabusTopicNode[];
+}
+
+export interface SyllabusVersionRow {
+  id: string;
+  version_number: number;
+  status: "draft" | "active" | "superseded" | "archived";
+  effective_from: string | null;
+  published_at: string | null;
+}
+
+export interface SyllabusTree {
+  exam_id: string;
+  versions: SyllabusVersionRow[];
+  selected_version_id: string | null;
+  units: SyllabusUnitNode[];
+}
+
+export interface CreateExamPayload {
+  code: string;
+  name: string;
+  conducting_body?: string | null;
+  state?: string | null;
+  category?: string | null;
+  level?: string | null;
+  platform?: boolean;
+  exam_date?: string | null;
+  language_ids?: string[];
+  paper: {
+    duration_minutes: number;
+    total_questions: number;
+    total_marks?: number;
+    negative_marking?: number;
+  };
+  subjects?: Array<{ name: string; question_count?: number }>;
+}
+
+export const examAdmin = {
+  list: () => api.get<Envelope<ExamRow[]>>("/exams?include_inactive=1"),
+  show: (id: string) => api.get<Envelope<ExamDetail>>(`/exams/${id}`),
+  create: (payload: CreateExamPayload) => api.post<Envelope<ExamDetail>>("/exams", payload),
+  update: (id: string, payload: Record<string, unknown>) =>
+    api.patch<Envelope<ExamDetail>>(`/exams/${id}`, payload),
+  updatePaper: (id: string, paperId: string, payload: Record<string, unknown>) =>
+    api.patch<Envelope<ExamDetail>>(`/exams/${id}/papers/${paperId}`, payload),
+  syllabus: (id: string, versionId?: string) =>
+    api.get<Envelope<SyllabusTree>>(
+      `/exams/${id}/syllabus${versionId ? `?version_id=${versionId}` : ""}`,
+    ),
+};
+
 /**
  * The download route requires the bearer token, so a plain <a href> gets a
  * 401. Fetch the bytes, then hand the browser an object URL.

@@ -1,4 +1,17 @@
+import { networkInterfaces } from "node:os";
 import type { NextConfig } from "next";
+
+/**
+ * This machine's own IPv4 addresses, read when the dev server starts. DHCP
+ * moves the LAN address, and a hard-coded IP silently stops working the day
+ * it changes; restarting `npm run dev` picks up the new one.
+ */
+function localAddresses(): string[] {
+  return Object.values(networkInterfaces())
+    .flat()
+    .filter((i) => i && i.family === "IPv4" && !i.internal)
+    .map((i) => i!.address);
+}
 
 const nextConfig: NextConfig = {
   /**
@@ -9,7 +22,7 @@ const nextConfig: NextConfig = {
    *
    * Development only — production builds serve static assets normally.
    */
-  allowedDevOrigins: ["10.155.71.54", "localhost", "127.0.0.1"],
+  allowedDevOrigins: ["localhost", "127.0.0.1", ...localAddresses()],
 };
 
 export default nextConfig;
