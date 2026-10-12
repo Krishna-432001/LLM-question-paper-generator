@@ -5,8 +5,10 @@ declare(strict_types=1);
 return [
 
     /*
-    | fake — deterministic hash vectors, no model server
-    | http — self-hosted multilingual-e5-large behind an HTTP endpoint
+    | fake   — deterministic hash vectors, no model server
+    | ollama — a local Ollama embedding model (bge-m3 recommended: 1024-d,
+    |          multilingual including Tamil)
+    | http   — self-hosted multilingual-e5-large behind an HTTP endpoint
     */
     'driver' => env('EMBEDDING_DRIVER', 'fake'),
 

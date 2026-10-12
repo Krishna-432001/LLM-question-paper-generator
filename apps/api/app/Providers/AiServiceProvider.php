@@ -13,6 +13,7 @@ use App\Domain\Ai\ResponseCache;
 use App\Domain\Ai\SchemaValidator;
 use App\Infrastructure\Ai\Providers\ClaudeClient;
 use App\Infrastructure\Ai\Providers\FakeLlmClient;
+use App\Infrastructure\Ai\Providers\OllamaClient;
 use App\Infrastructure\Ai\Providers\OpenAiClient;
 use Illuminate\Http\Client\Factory as HttpFactory;
 use Illuminate\Support\ServiceProvider;
@@ -25,6 +26,15 @@ final class AiServiceProvider extends ServiceProvider
         $this->app->singleton(LlmClient::class, function (): LlmClient {
             return match (config('ai.driver')) {
                 'fake' => new FakeLlmClient(config('ai.fixture_path')),
+                'ollama' => new OllamaClient(
+                    http: $this->app->make(HttpFactory::class),
+                    baseUrl: (string) config('ai.providers.ollama.base_url'),
+                    defaultModel: (string) config('ai.providers.ollama.default_model'),
+                    modelMap: (array) config('ai.providers.ollama.model_map'),
+                    timeout: (int) config('ai.providers.ollama.timeout_seconds'),
+                    contextWindow: (int) config('ai.providers.ollama.context_window'),
+                    keepAlive: config('ai.providers.ollama.keep_alive'),
+                ),
                 'openai' => new OpenAiClient(
                     http: $this->app->make(HttpFactory::class),
                     apiKey: (string) config('ai.providers.openai.api_key'),

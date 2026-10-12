@@ -16,6 +16,7 @@ use App\Domain\Ingestion\StructureDetector;
 use App\Domain\Ingestion\TextNormalizer;
 use App\Infrastructure\Embeddings\FakeEmbeddingProvider;
 use App\Infrastructure\Embeddings\HttpEmbeddingProvider;
+use App\Infrastructure\Embeddings\OllamaEmbeddingProvider;
 use App\Infrastructure\Ocr\FakeOcrEngine;
 use App\Infrastructure\Ocr\PopplerTextExtractor;
 use App\Infrastructure\Ocr\TesseractOcrEngine;
@@ -59,6 +60,12 @@ final class IngestionServiceProvider extends ServiceProvider
 
         $this->app->singleton(EmbeddingProvider::class, fn (): EmbeddingProvider => match (config('embeddings.driver')) {
             'fake' => new FakeEmbeddingProvider((int) config('embeddings.dimensions')),
+            'ollama' => new OllamaEmbeddingProvider(
+                http: $this->app->make(\Illuminate\Http\Client\Factory::class),
+                baseUrl: (string) config('ai.providers.ollama.base_url'),
+                model: (string) config('embeddings.model'),
+                dimensions: (int) config('embeddings.dimensions'),
+            ),
             'http' => new HttpEmbeddingProvider(
                 endpoint: config('embeddings.endpoint'),
                 model: config('embeddings.model'),

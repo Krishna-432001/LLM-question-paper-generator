@@ -6,8 +6,9 @@ return [
 
     /*
     | fake   — deterministic, offline, zero cost. Default everywhere except prod.
-    | openai — the real provider.
-    | claude — kept working; switching back is one env var.
+    | ollama — a local model on this machine (https://ollama.com). Free, private.
+    | openai — hosted provider.
+    | claude — hosted provider; switching is one env var.
     */
     'driver' => env('AI_DRIVER', 'fake'),
 
@@ -31,6 +32,31 @@ return [
             ],
 
             'default_model' => env('OPENAI_MODEL', 'gpt-4o'),
+        ],
+
+        'ollama' => [
+            'base_url' => env('OLLAMA_BASE_URL', 'http://127.0.0.1:11434'),
+
+            /*
+            | One local model does everything by default. Larger machines can
+            | give generation (premium tier) a bigger model and keep the
+            | checking and classification tiers on a smaller, faster one.
+            | Gemma 3 is the default for its Tamil coverage; any Ollama model
+            | that follows JSON schemas works.
+            */
+            'default_model' => env('OLLAMA_MODEL', 'gemma3:12b'),
+            'model_map' => [
+                'claude-opus-5' => env('OLLAMA_MODEL_PREMIUM', env('OLLAMA_MODEL', 'gemma3:12b')),
+                'claude-sonnet-5' => env('OLLAMA_MODEL_MID', env('OLLAMA_MODEL', 'gemma3:12b')),
+                'claude-haiku-4-5' => env('OLLAMA_MODEL_CHEAP', env('OLLAMA_MODEL', 'gemma3:12b')),
+                'claude-haiku-4-5-20251001' => env('OLLAMA_MODEL_CHEAP', env('OLLAMA_MODEL', 'gemma3:12b')),
+            ],
+
+            // Tokens of context. Generation prompts carry source passages,
+            // so the 2–4k Ollama default is far too small.
+            'context_window' => (int) env('OLLAMA_NUM_CTX', 16384),
+            'timeout_seconds' => (int) env('OLLAMA_TIMEOUT', 900),
+            'keep_alive' => env('OLLAMA_KEEP_ALIVE', '30m'),
         ],
 
         'claude' => [

@@ -54,6 +54,30 @@ final class AiModelSeeder extends Seeder
             );
         }
 
+        // Local Ollama models cost nothing per token. Registered so the AI
+        // history shows which local model answered each call.
+        $local = array_unique(array_merge(
+            [(string) config('ai.providers.ollama.default_model')],
+            array_values((array) config('ai.providers.ollama.model_map')),
+        ));
+
+        foreach ($local as $tag) {
+            AiModel::query()->updateOrCreate(
+                ['model_key' => $tag],
+                [
+                    'provider' => 'ollama',
+                    'display_name' => "{$tag} (local)",
+                    'tier' => 'premium',
+                    'context_window' => (int) config('ai.providers.ollama.context_window'),
+                    'input_price_per_mtok' => 0,
+                    'output_price_per_mtok' => 0,
+                    'cached_input_price_per_mtok' => 0,
+                    'supports_structured_output' => true,
+                    'is_active' => true,
+                ],
+            );
+        }
+
         // Self-hosted embeddings: recurring per-chunk cost, so we own it.
         AiModel::query()->updateOrCreate(
             ['model_key' => 'multilingual-e5-large'],
