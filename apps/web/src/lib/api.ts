@@ -87,6 +87,11 @@ export const api = {
       method: "PATCH",
       body: payload === undefined ? undefined : JSON.stringify(payload),
     }),
+  put: <T>(path: string, payload?: unknown) =>
+    request<T>(path, {
+      method: "PUT",
+      body: payload === undefined ? undefined : JSON.stringify(payload),
+    }),
   delete: <T>(path: string) => request<T>(path, { method: "DELETE" }),
 };
 
@@ -525,6 +530,76 @@ export interface CreateExamPayload {
   };
   subjects?: Array<{ name: string; question_count?: number }>;
 }
+
+export interface CanonicalTopicRow {
+  id: string;
+  slug: string;
+  name: string;
+  domain: string;
+}
+
+export interface LessonTopicRow {
+  lesson_id: string;
+  chapter: string;
+  lesson: string;
+  canonical_topic_id: string | null;
+  topic: string | null;
+  topic_slug: string | null;
+  confidence: number | null;
+  mapped_by: "lexical" | "ai" | "human" | null;
+  needs_review: boolean;
+}
+
+export interface SyllabusDiff {
+  base_version: number;
+  target_version: number;
+  units_added: Array<{ unit: string; weight: number; topics: string[] }>;
+  units_removed: Array<{ unit: string; weight: number; topics: string[] }>;
+  weight_changes: Array<{ unit: string; from: number; to: number }>;
+  topics_added: Array<{ unit: string; topic: string }>;
+  topics_removed: Array<{ unit: string; topic: string }>;
+  unchanged: boolean;
+}
+
+export const topicsApi = {
+  canonical: (q = "", limit = 200) =>
+    api.get<Envelope<CanonicalTopicRow[]>>(
+      `/canonical-topics?limit=${limit}${q ? `&q=${encodeURIComponent(q)}` : ""}`,
+    ),
+  lessons: (sourceId: string) =>
+    api.get<Envelope<LessonTopicRow[]> & { meta: { lessons: number; mapped: number; needs_review: number } }>(
+      `/sources/${sourceId}/topic-mappings`,
+    ),
+  assign: (sourceId: string, lessonId: string, canonicalTopicId: string | null) =>
+    api.put<Envelope<{ questions_refiled: number }>>(`/sources/${sourceId}/lessons/${lessonId}/topic`, {
+      canonical_topic_id: canonicalTopicId,
+    }),
+  remap: (sourceId: string) =>
+    api.post<Envelope<{ job_id: string; status: string }>>(`/sources/${sourceId}/map-topics`),
+};
+
+export const syllabusAdmin = {
+  createDraft: (examId: string) =>
+    api.post<Envelope<SyllabusVersionRow>>(`/exams/${examId}/syllabus/drafts`, {}),
+  discard: (versionId: string) => api.post<Envelope<SyllabusVersionRow>>(`/syllabus-versions/${versionId}/discard`),
+  publish: (versionId: string) => api.post<Envelope<SyllabusVersionRow>>(`/syllabus-versions/${versionId}/publish`),
+  diff: (versionId: string) => api.get<Envelope<SyllabusDiff>>(`/syllabus-versions/${versionId}/diff`),
+  addUnit: (versionId: string, payload: { exam_subject_id: string; name: string; weight?: number }) =>
+    api.post<Envelope<unknown>>(`/syllabus-versions/${versionId}/units`, payload),
+  updateUnit: (versionId: string, unitId: string, payload: Record<string, unknown>) =>
+    api.patch<Envelope<unknown>>(`/syllabus-versions/${versionId}/units/${unitId}`, payload),
+  removeUnit: (versionId: string, unitId: string) =>
+    api.delete<unknown>(`/syllabus-versions/${versionId}/units/${unitId}`),
+  addTopic: (versionId: string, unitId: string, payload: { name: string; canonical_topic_id?: string | null }) =>
+    api.post<Envelope<unknown>>(`/syllabus-versions/${versionId}/units/${unitId}/topics`, payload),
+  removeTopic: (versionId: string, topicId: string) =>
+    api.delete<unknown>(`/syllabus-versions/${versionId}/topics/${topicId}`),
+  importText: (versionId: string, payload: { exam_subject_id: string; text: string; replace: boolean }) =>
+    api.post<Envelope<{ units: number; topics: number; weighted_by_counts: boolean }>>(
+      `/syllabus-versions/${versionId}/import`,
+      payload,
+    ),
+};
 
 export const examAdmin = {
   list: () => api.get<Envelope<ExamRow[]>>("/exams?include_inactive=1"),

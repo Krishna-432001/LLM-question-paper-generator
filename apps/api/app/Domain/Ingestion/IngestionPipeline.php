@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace App\Domain\Ingestion;
 
+use App\Domain\Topics\LessonTopicMapper;
 use App\Domain\Ingestion\Contracts\EmbeddingProvider;
 use App\Domain\Ingestion\Contracts\OcrEngine;
 use App\Domain\Ingestion\DTOs\Chunk;
@@ -308,13 +309,13 @@ final class IngestionPipeline
      */
     public function mapToSyllabus(Source $source): array
     {
-        // Full vector mapping lands with the retrieval work in Phase 2b. For
-        // now every lesson is recorded as indexed so the pipeline completes
-        // honestly rather than claiming mappings it has not made.
+        // Each lesson onto a canonical topic, so the questions generated from
+        // it count towards the backlog and carry blueprint weight.
         $book = $this->bookFor($source);
+        $result = app(LessonTopicMapper::class)->mapBook($book);
         $book->forceFill(['is_indexed' => true])->save();
 
-        return ['mapped' => 0];
+        return $result;
     }
 
     private function bookFor(Source $source): Book

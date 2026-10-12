@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Domain\Pyq;
 
 use App\Domain\Ai\AiGateway;
+use App\Domain\Topics\TopicPhrases;
 use App\Models\CanonicalTopic;
 use App\Models\PreviousYearQuestion;
 use Illuminate\Support\Collection;
@@ -109,26 +110,17 @@ final class TopicMapper
      */
     private function lexicalMatch(string $stem, Collection $topics): ?array
     {
-        $haystack = ' '.$this->normalise($stem).' ';
+        $haystack = TopicPhrases::normalise($stem);
         $best = null;
 
         foreach ($topics as $topic) {
-            foreach ($this->phrasesFor($topic) as $phrase) {
-                $needle = $this->normalise($phrase);
-
-                // Two words minimum, or a long single word. "Indian Polity"
-                // is evidence; "history" on its own is not.
-                $words = count(explode(' ', $needle));
-
-                if ($words < 2 && mb_strlen($needle) < 9) {
+            // Only distinctive phrases come back: two words, or one long one.
+            foreach (TopicPhrases::for($topic) as $needle) {
+                if (TopicPhrases::occurrences($haystack, $needle) === 0) {
                     continue;
                 }
 
-                if (! str_contains($haystack, ' '.$needle.' ')) {
-                    continue;
-                }
-
-                $score = $words >= 2 ? 0.92 : 0.80;
+                $score = TopicPhrases::words($needle) >= 2 ? 0.92 : 0.80;
 
                 if ($best === null || $score > $best['confidence']) {
                     $best = ['topic_id' => $topic->getKey(), 'confidence' => $score];
@@ -204,31 +196,5 @@ final class TopicMapper
             // and so a later sweep can revisit only the model's guesses.
             'mapping_source' => $confidence < self::REVIEW_THRESHOLD ? "{$source}_review" : $source,
         ])->save();
-    }
-
-    /** @return list<string> */
-    private function phrasesFor(CanonicalTopic $topic): array
-    {
-        $aliases = is_array($topic->aliases) ? $topic->aliases : [];
-
-        // Topic names here are compound ("Physics: Force, Motion and Energy"),
-        // so each clause is a candidate phrase in its own right.
-        $parts = preg_split('/[:,()\/]|\band\b/u', $topic->name) ?: [];
-
-        return array_values(array_filter(array_map(
-            static fn ($p): string => trim((string) $p),
-            [...$parts, ...$aliases, $topic->name],
-        )));
-    }
-
-    private function normalise(string $text): string
-    {
-        $lower = mb_strtolower($text);
-
-        return trim((string) preg_replace(
-            '/\s+/u',
-            ' ',
-            (string) preg_replace('/[^\p{L}\p{N}\s]+/u', ' ', $lower),
-        ));
     }
 }

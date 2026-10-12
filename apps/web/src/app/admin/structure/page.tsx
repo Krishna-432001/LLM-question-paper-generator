@@ -6,6 +6,9 @@ import {
   ApiError,
   getToken,
   structure,
+  topicsApi,
+  type CanonicalTopicRow,
+  type LessonTopicRow,
   type ChapterNode,
   type LessonNode,
   type PageRow,
@@ -43,7 +46,7 @@ function StructureEditor() {
   const [tree, setTree] = useState<StructureTree | null>(null);
   const [pages, setPages] = useState<PageRow[]>([]);
   const [needsReview, setNeedsReview] = useState(0);
-  const [tab, setTab] = useState<"structure" | "pages">("structure");
+  const [tab, setTab] = useState<"structure" | "pages" | "topics">("structure");
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [note, setNote] = useState<string | null>(null);
@@ -84,7 +87,9 @@ function StructureEditor() {
       router.replace("/login");
       return;
     }
-    void load();
+    void (async () => {
+      await load();
+    })();
   }, [router, load]);
 
   async function saveLesson(lesson: LessonNode, changes: Record<string, unknown>) {
@@ -231,7 +236,12 @@ function StructureEditor() {
         <Tab active={tab === "pages"} onClick={() => setTab("pages")}>
           Pages {needsReview > 0 && <span className="text-red-400">({needsReview} to check)</span>}
         </Tab>
+        <Tab active={tab === "topics"} onClick={() => setTab("topics")}>
+          Syllabus topics
+        </Tab>
       </div>
+
+      {tab === "topics" && <LessonTopics sourceId={sourceId} />}
 
       {tab === "structure" && tree && (
         <div className="space-y-4">
@@ -489,6 +499,131 @@ function EditableRow({
       <button onClick={() => setOpen(false)} className="rounded-md border border-slate-700 px-4 py-2 text-sm text-slate-200 hover:border-slate-600">
         Cancel
       </button>
+    </div>
+  );
+}
+
+/**
+ * Which syllabus topic each lesson is filed under. That topic is what the
+ * lesson's questions count towards in the backlog and the blueprint, so a
+ * wrong one quietly mis-weights every paper built from this book.
+ */
+function LessonTopics({ sourceId }: { sourceId: string }) {
+  const [rows, setRows] = useState<LessonTopicRow[]>([]);
+  const [meta, setMeta] = useState<{ lessons: number; mapped: number; needs_review: number } | null>(null);
+  const [topics, setTopics] = useState<CanonicalTopicRow[]>([]);
+  const [note, setNote] = useState<string | null>(null);
+  const [error, setError] = useState<string | null>(null);
+
+  const load = useCallback(async () => {
+    try {
+      const [mapped, all] = await Promise.all([topicsApi.lessons(sourceId), topicsApi.canonical()]);
+      setRows(mapped.data);
+      setMeta(mapped.meta);
+      setTopics(all.data);
+    } catch (e) {
+      setError(e instanceof ApiError ? (e.detail ?? e.message) : "Could not load lesson topics.");
+    }
+  }, [sourceId]);
+
+  useEffect(() => {
+    void (async () => {
+      await load();
+    })();
+  }, [load]);
+
+  async function assign(row: LessonTopicRow, topicId: string) {
+    setError(null);
+    try {
+      const { data } = await topicsApi.assign(sourceId, row.lesson_id, topicId === "" ? null : topicId);
+      setNote(`Saved. ${data.questions_refiled} question(s) re-filed under the new topic.`);
+      await load();
+    } catch (e) {
+      setError(e instanceof ApiError ? (e.detail ?? e.message) : "Could not save.");
+    }
+  }
+
+  async function remap() {
+    setError(null);
+    try {
+      await topicsApi.remap(sourceId);
+      setNote("Re-mapping in the background. Your own choices are kept. Refresh in a few seconds.");
+      setTimeout(() => void load(), 6000);
+    } catch (e) {
+      setError(e instanceof ApiError ? (e.detail ?? e.message) : "Could not start re-mapping.");
+    }
+  }
+
+  return (
+    <div className="space-y-3">
+      <div className="flex flex-wrap items-center gap-2">
+        {meta && (
+          <>
+            <span className="rounded bg-slate-800 px-2 py-1 font-mono text-[11px] text-slate-400">
+              {meta.mapped} of {meta.lessons} lessons mapped
+            </span>
+            {meta.needs_review > 0 && (
+              <span className="rounded bg-amber-950/50 px-2 py-1 font-mono text-[11px] text-amber-300">
+                {meta.needs_review} low-confidence
+              </span>
+            )}
+          </>
+        )}
+        <button
+          onClick={remap}
+          className="ml-auto rounded-md border border-slate-700 px-3 py-1.5 text-xs text-slate-300 hover:bg-slate-800"
+        >
+          Re-map automatically
+        </button>
+      </div>
+
+      {note && <p className="text-xs text-emerald-400">{note}</p>}
+      {error && <p className="text-xs text-red-400">{error}</p>}
+
+      <ul className="divide-y divide-slate-800/70 rounded-xl border border-slate-800 bg-slate-900">
+        {rows.map((row) => (
+          <li key={row.lesson_id} className="flex flex-wrap items-center gap-3 px-4 py-3">
+            <div className="min-w-0 flex-1">
+              <p className="truncate text-sm text-slate-200">{row.lesson}</p>
+              <p className="truncate text-[11px] text-slate-500">{row.chapter}</p>
+            </div>
+
+            <span
+              className={`rounded px-1.5 py-0.5 font-mono text-[10px] ${
+                row.mapped_by === "human"
+                  ? "bg-emerald-950/60 text-emerald-300"
+                  : row.needs_review
+                    ? "bg-amber-950/50 text-amber-300"
+                    : row.mapped_by
+                      ? "bg-slate-800 text-slate-400"
+                      : "bg-red-950/50 text-red-300"
+              }`}
+            >
+              {row.mapped_by === null
+                ? "unmapped"
+                : row.mapped_by === "human"
+                  ? "set by hand"
+                  : `${row.mapped_by} ${Math.round((row.confidence ?? 0) * 100)}%`}
+            </span>
+
+            <select
+              value={row.canonical_topic_id ?? ""}
+              onChange={(e) => void assign(row, e.target.value)}
+              className="w-72 max-w-full rounded-md border border-slate-700 bg-slate-950 px-2 py-1.5 text-xs text-slate-200"
+            >
+              <option value="">— no topic —</option>
+              {topics.map((t) => (
+                <option key={t.id} value={t.id}>
+                  {t.name}
+                </option>
+              ))}
+            </select>
+          </li>
+        ))}
+        {rows.length === 0 && (
+          <li className="px-4 py-8 text-center text-sm text-slate-500">No lessons yet. Process the book first.</li>
+        )}
+      </ul>
     </div>
   );
 }

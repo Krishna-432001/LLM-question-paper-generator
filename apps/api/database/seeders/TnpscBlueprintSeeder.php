@@ -36,13 +36,20 @@ final class TnpscBlueprintSeeder extends Seeder
      * unit names carry roman numerals and em-dashes that are easy to drift.
      */
     private const BLUEPRINT = [
-        'General Science' => 5,
-        'Geography' => 5,
-        'Culture of India' => 10,
-        'Indian Polity' => 15,
-        'Development Administration' => 20,
-        'Socio-Political Movements' => 20,
-        'Aptitude' => 25,
+        // Part A: 100 questions across three sections the scheme does not
+        // split, so evenly. Written and generated in Tamil.
+        'Tamil Grammar' => [33, 'ta'],
+        'Tamil Literature' => [33, 'ta'],
+        'Tamil Scholars' => [34, 'ta'],
+        // Part B. Unit-wise counts as published by TNPSC coaching sources;
+        // the official scheme lists topic areas but not counts.
+        'General Science' => [5, 'en'],
+        'Geography' => [5, 'en'],
+        'Culture of India' => [10, 'en'],
+        'Indian Polity' => [15, 'en'],
+        'Development Administration' => [20, 'en'],
+        'Socio-Political Movements' => [20, 'en'],
+        'Aptitude' => [25, 'en'],
     ];
 
     /**
@@ -63,13 +70,7 @@ final class TnpscBlueprintSeeder extends Seeder
                 return;
             }
 
-            $language = Language::byCode('en');
-
-            if ($language === null) {
-                return;
-            }
-
-            $total = array_sum(self::BLUEPRINT);
+            $total = array_sum(array_column(self::BLUEPRINT, 0));
             $created = 0;
 
             // Only this exam's units: a fragment like "Geography" would
@@ -83,10 +84,11 @@ final class TnpscBlueprintSeeder extends Seeder
 
             $scoredUnitIds = [];
 
-            foreach (self::BLUEPRINT as $fragment => $questionsPerPaper) {
+            foreach (self::BLUEPRINT as $fragment => [$questionsPerPaper, $languageCode]) {
                 $unit = $units->first(static fn ($u): bool => str_contains($u->name, $fragment));
+                $language = Language::byCode($languageCode);
 
-                if ($unit === null) {
+                if ($unit === null || $language === null) {
                     continue;
                 }
 

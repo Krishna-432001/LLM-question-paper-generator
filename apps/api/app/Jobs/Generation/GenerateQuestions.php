@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace App\Jobs\Generation;
 
+use App\Domain\Topics\LessonTopicMapper;
 use App\Domain\Ai\AiGateway;
 use App\Domain\Questions\DTOs\QuestionCandidate;
 use App\Domain\Questions\DuplicateDetector;
@@ -187,7 +188,7 @@ final class GenerateQuestions extends TrackedJob
         $detector->deduplicateAgainstBank(
             $candidates,
             $policy,
-            $lesson->canonical_topic_id ?? null,
+            app(LessonTopicMapper::class)->topicForLesson($lesson->getKey()),
             $job->organization_id,
         );
 
@@ -215,7 +216,9 @@ final class GenerateQuestions extends TrackedJob
         $meta = [
             'organization_id' => $source->organization_id,
             'language_id' => $languageId,
-            'canonical_topic_id' => null,
+            // The lesson's syllabus topic, so the backlog counts these and
+            // the blueprint weights reach them.
+            'canonical_topic_id' => app(LessonTopicMapper::class)->topicForLesson($lesson->getKey()),
             'ai_job_id' => $job->getKey(),
             'user_id' => $job->user_id,
             // Without an exam mapping an approved question is unreachable by

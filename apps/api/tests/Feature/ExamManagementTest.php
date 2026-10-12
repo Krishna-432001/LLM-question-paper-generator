@@ -177,7 +177,7 @@ final class ExamManagementTest extends TestCase
             ->json('data.units');
 
         $polity = collect($units)->firstWhere('name', 'Unit IV — Indian Polity');
-        $this->assertEqualsWithDelta(0.15, $polity['weight'], 0.0001);
+        $this->assertEqualsWithDelta(15 / 200, $polity['weight'], 0.0001);
         $this->assertCount(4, $polity['topics']);
         $this->assertNotNull($polity['topics'][0]['canonical_slug']);
     }

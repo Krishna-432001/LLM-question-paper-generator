@@ -23,6 +23,7 @@ export default function AdminLayout({ children }: { children: ReactNode }) {
             <NavLink href="/admin/dashboard">Overview</NavLink>
             <NavLink href="/admin">Books</NavLink>
             <NavLink href="/admin/exams">Exams</NavLink>
+            <NavLink href="/admin/syllabus">Syllabus</NavLink>
             <NavLink href="/admin/pyq">Past papers</NavLink>
             <NavLink href="/admin/backlog">Backlog</NavLink>
             <NavLink href="/admin/ai">AI history</NavLink>

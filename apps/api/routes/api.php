@@ -18,6 +18,7 @@ use App\Http\Controllers\Api\V1\QuestionController;
 use App\Http\Controllers\Api\V1\ReviewController;
 use App\Http\Controllers\Api\V1\StructureController;
 use App\Http\Controllers\Api\V1\StudyPlanController;
+use App\Http\Controllers\Api\V1\SyllabusController;
 use App\Http\Controllers\Api\V1\TestController;
 use App\Http\Controllers\Api\V1\SourceController;
 use Illuminate\Support\Facades\Route;
@@ -54,6 +55,23 @@ Route::prefix('v1')->group(function (): void {
         Route::patch('exams/{exam}', [ExamController::class, 'update']);
         Route::patch('exams/{exam}/papers/{paper}', [ExamController::class, 'updatePaper']);
         Route::get('exams/{exam}/syllabus', [ExamController::class, 'syllabus']);
+        Route::post('exams/{exam}/syllabus/drafts', [SyllabusController::class, 'createDraft']);
+
+        // Syllabus versions. Only a draft can change; publishing supersedes
+        // the version in force in one transaction.
+        Route::get('canonical-topics', [SyllabusController::class, 'canonicalTopics']);
+        Route::prefix('syllabus-versions/{version}')->group(function (): void {
+            Route::post('discard', [SyllabusController::class, 'discard']);
+            Route::post('units', [SyllabusController::class, 'storeUnit']);
+            Route::patch('units/{unit}', [SyllabusController::class, 'updateUnit']);
+            Route::delete('units/{unit}', [SyllabusController::class, 'destroyUnit']);
+            Route::post('units/{unit}/topics', [SyllabusController::class, 'storeTopic']);
+            Route::patch('topics/{topic}', [SyllabusController::class, 'updateTopic']);
+            Route::delete('topics/{topic}', [SyllabusController::class, 'destroyTopic']);
+            Route::post('import', [SyllabusController::class, 'import'])->middleware('throttle:30,1');
+            Route::get('diff', [SyllabusController::class, 'diff']);
+            Route::post('publish', [SyllabusController::class, 'publish']);
+        });
 
         Route::get('sources', [SourceController::class, 'index']);
         Route::post('sources', [SourceController::class, 'store'])
@@ -83,6 +101,10 @@ Route::prefix('v1')->group(function (): void {
             Route::patch('pages/{page}', [StructureController::class, 'correctPage']);
             // Repair proportional to the damage: one page, not the book.
             Route::post('pages/{page}/retry', [StructureController::class, 'retryPage']);
+            Route::get('topic-mappings', [SyllabusController::class, 'lessonTopics']);
+            Route::put('lessons/{lesson}/topic', [SyllabusController::class, 'assignLessonTopic']);
+            Route::post('map-topics', [SyllabusController::class, 'remapTopics'])
+                ->middleware('throttle:20,60');
             Route::post('reprocess', [StructureController::class, 'reprocess'])
                 ->middleware('throttle:20,60');
         });

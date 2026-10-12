@@ -101,9 +101,11 @@ return Application::configure(basePath: dirname(__DIR__))
                     // Never distinguish "does not exist" from "not yours":
                     // that difference is itself a cross-tenant information leak.
                     404 => 'Not found',
+                    400 => 'Bad request',
                     409 => 'Conflict',
+                    422 => 'Request cannot be processed',
                     429 => 'Too many requests',
-                    default => 'Server error',
+                    default => $status >= 500 ? 'Server error' : 'Request failed',
                 },
                 'status' => $status,
                 'detail' => $status === 500 && ! config('app.debug')

@@ -125,6 +125,9 @@ final class AssembleTestAction
             // exam_id lives on syllabi, not on the version row.
             ->join('syllabi as s', 's.id', '=', 'v.syllabus_id')
             ->where('s.exam_id', $examId)
+            // Only the syllabus in force: a superseded version's weights would
+            // otherwise be averaged in with the current ones.
+            ->where('v.status', 'active')
             ->whereNotNull('t.canonical_topic_id')
             ->select('t.canonical_topic_id', 'u.weight')
             ->get();

@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Models;
 
 use App\Models\Concerns\HasUuidV7;
+use App\Support\Database\PostgresArray;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
@@ -24,7 +25,9 @@ class CanonicalTopic extends Model
 
     protected function casts(): array
     {
-        return ['aliases' => 'array'];
+        // text[] in Postgres: the JSON 'array' cast writes "[...]", which is
+        // not a valid array literal, so every alias write failed.
+        return ['aliases' => PostgresArray::class];
     }
 
     public function parent(): BelongsTo

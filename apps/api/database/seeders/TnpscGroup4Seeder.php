@@ -38,6 +38,33 @@ final class TnpscGroup4Seeder extends Seeder
      * weighted zero by TnpscBlueprintSeeder) rather than deleted.
      */
     private const SYLLABUS = [
+        // Part A, from the official scheme (revised 27.01.2022): three
+        // sections, 100 questions in Tamil. The scheme sets no per-section
+        // count, so TnpscBlueprintSeeder splits them evenly.
+        'Part A — Tamil Eligibility-cum-Scoring Test' => [
+            'Part A I — இலக்கணம் · Tamil Grammar' => [
+                'Tamil Grammar: Word Meaning and Matching',
+                'Tamil Grammar: Word Splitting, Joining and Root Words',
+                'Tamil Grammar: Error Correction and Sentence Types',
+                'Tamil Grammar: Antonyms and English Equivalents',
+                'Tamil Proverbs, Similes and Prosody',
+            ],
+            'Part A II — இலக்கியம் · Tamil Literature' => [
+                'Thirukkural: Chapters and Couplets',
+                'Tamil Ethical Literature',
+                'Sangam Literature',
+                'Tamil Epics and Kambaramayanam',
+                'Tamil Devotional and Minor Literature',
+                'Folk Songs, Siddhar Songs and Religious Pioneers',
+            ],
+            'Part A III — தமிழ் அறிஞர்களும் தமிழ்த் தொண்டும் · Tamil Scholars and Contributions' => [
+                'Modern Tamil Poets',
+                'Tamil Prose, Letters and Short Stories',
+                'Tamil Scholars and Their Service to Tamil',
+                'Social Reformers and Women of Tamil Nadu',
+                'Antiquity of Tamil, Arts and Heritage',
+            ],
+        ],
         'General Studies' => [
             'Unit I — General Science' => [
                 'Scientific Knowledge and Scientific Temper',
@@ -91,6 +118,50 @@ final class TnpscGroup4Seeder extends Seeder
                 'Logical Reasoning and Series',
             ],
         ],
+    ];
+
+    /**
+     * Words State Board lessons are titled with, per canonical topic. The
+     * lesson mapper matches these against a lesson's own title only, so
+     * "Plants and Photosynthesis" files under botany without a model call.
+     * Kept to lesson-title vocabulary: a body-text match needs the topic's
+     * own distinctive phrases.
+     */
+    private const ALIASES = [
+        'Scientific Knowledge and Scientific Temper' => ['scientific method', 'scientists', 'inventions', 'measurement', 'measurements'],
+        'Physics: Force, Motion and Energy' => ['force', 'motion', 'energy', 'light', 'sound', 'heat', 'electricity', 'magnetism', 'gravitation', 'pressure', 'work and energy', 'simple machines', 'electric current', 'optics', 'ஒளி', 'ஒலி', 'வெப்பம்', 'மின்னியல்', 'விசை', 'இயக்கம்'],
+        'Chemistry: Elements and Compounds' => ['matter', 'atoms', 'molecules', 'acids', 'bases', 'salts', 'chemical reactions', 'metals', 'periodic table', 'states of matter', 'water and its states', 'mixtures', 'carbon', 'polymers', 'fibres', 'பருப்பொருள்', 'அமிலங்கள்', 'தனிமங்கள்'],
+        'Botany: Plant Kingdom' => ['plants', 'plant', 'photosynthesis', 'plant cell', 'plant tissues', 'transpiration', 'seeds', 'flowers', 'leaf', 'தாவரங்கள்', 'ஒளிச்சேர்க்கை'],
+        'Zoology: Human Physiology' => ['human body', 'human skeleton', 'skeleton', 'digestive system', 'respiration', 'circulation', 'nervous system', 'blood', 'heart', 'animals', 'cell', 'tissues', 'health and hygiene', 'diseases', 'microorganisms', 'heredity', 'nutrition', 'மனித உடல்', 'விலங்குகள்', 'நோய்கள்'],
+        'Physical Features and Climate' => ['solar system', 'universe', 'earth', 'planets', 'atmosphere', 'climate', 'weather', 'landforms', 'rocks', 'soil', 'rivers', 'oceans', 'continents', 'monsoon', 'indian geography', 'physical features', 'lithosphere', 'hydrosphere', 'புவி', 'சூரியக் குடும்பம்', 'காலநிலை'],
+        'Natural Resources and Agriculture' => ['resources', 'natural resources', 'agriculture', 'forests', 'minerals', 'crops', 'irrigation', 'water resources', 'வேளாண்மை', 'வளங்கள்'],
+        'Transport and Communication' => ['transport', 'communication', 'population', 'settlements', 'industries', 'trade', 'போக்குவரத்து'],
+        'Disaster Management' => ['disasters', 'disaster management', 'floods', 'earthquakes', 'cyclones', 'பேரிடர்'],
+        'Indus Valley Civilization' => ['indus valley', 'harappa', 'harappan civilization', 'early man', 'stone age', 'prehistoric', 'சிந்துவெளி'],
+        'Mauryan and Gupta Empires' => ['mauryas', 'guptas', 'ancient india', 'vedic period', 'jainism', 'buddhism', 'empires', 'kingdoms'],
+        'Indian National Movement' => ['national movement', 'freedom struggle', 'british rule', 'independence', 'colonialism', 'revolt of 1857', 'விடுதலைப் போராட்டம்'],
+        'Art, Culture and Heritage' => ['art', 'architecture', 'culture', 'heritage', 'temples', 'festivals', 'பண்பாடு'],
+        'Constitution of India' => ['constitution', 'preamble', 'democracy', 'citizenship', 'அரசியலமைப்பு', 'மக்களாட்சி'],
+        'Fundamental Rights and Duties' => ['rights', 'fundamental rights', 'duties', 'human rights', 'உரிமைகள்'],
+        'Union and State Executive' => ['parliament', 'president', 'prime minister', 'state government', 'judiciary', 'legislature', 'executive', 'elections', 'தேர்தல்'],
+        'Local Self Government' => ['panchayat', 'panchayat raj', 'local government', 'local bodies', 'municipality', 'உள்ளாட்சி'],
+        'Nature of Indian Economy and Planning' => ['economy', 'economics', 'planning', 'money', 'banking', 'taxation', 'budget', 'five year plans', 'பொருளாதாரம்'],
+        'Social Justice and Welfare Schemes' => ['welfare schemes', 'social justice', 'reservation'],
+        'Education and Health in Tamil Nadu' => ['education', 'health', 'public health'],
+        'e-Governance in Tamil Nadu' => ['e governance', 'digital india'],
+        'History of Tamil Society and Archaeological Discoveries' => ['tamil society', 'sangam age', 'keezhadi', 'archaeology', 'சங்க காலம்', 'கீழடி'],
+        'Thirukkural and Tamil Literature' => ['thirukkural', 'திருக்குறள்'],
+        'Role of Tamil Nadu in the Freedom Struggle' => ['freedom struggle in tamil nadu', 'vellore mutiny', 'poligars'],
+        'Socio-Political Movements in Tamil Nadu' => ['dravidian movement', 'self respect movement', 'social reformers', 'periyar', 'justice party', 'சுயமரியாதை'],
+        'Tamil Grammar: Word Meaning and Matching' => ['இலக்கணம்', 'grammar'],
+        'Sangam Literature' => ['சங்க இலக்கியம்', 'புறநானூறு', 'அகநானூறு'],
+        'Tamil Epics and Kambaramayanam' => ['சிலப்பதிகாரம்', 'மணிமேகலை', 'கம்பராமாயணம்'],
+        'Modern Tamil Poets' => ['பாரதியார்', 'பாரதிதாசன்', 'கவிதை'],
+        'Tamil Scholars and Their Service to Tamil' => ['தமிழ் அறிஞர்கள்', 'தமிழ்த் தொண்டு'],
+        'Simplification and Percentage' => ['simplification', 'percentage', 'fractions', 'decimals', 'numbers'],
+        'Ratio, Proportion and Averages' => ['ratio', 'proportion', 'averages', 'profit and loss', 'interest'],
+        'Time, Work and Distance' => ['time and work', 'time and distance', 'speed'],
+        'Logical Reasoning and Series' => ['reasoning', 'series', 'puzzles', 'number series'],
     ];
 
     /**
@@ -177,10 +248,11 @@ final class TnpscGroup4Seeder extends Seeder
             ],
         );
 
-        // Paper I is 200 questions: Part A (Tamil eligibility-cum-scoring, 100)
-        // plus these two. Part A is not modelled here yet.
-        $subjectWeights = ['General Studies' => 0.75, 'Aptitude and Mental Ability' => 0.25];
-        $subjectCounts = ['General Studies' => 75, 'Aptitude and Mental Ability' => 25];
+        // Paper I is 200 questions: Part A (Tamil, 100), General Studies (75)
+        // and Aptitude (25). Weights are shares of the whole paper.
+        $partA = 'Part A — Tamil Eligibility-cum-Scoring Test';
+        $subjectWeights = [$partA => 0.50, 'General Studies' => 0.375, 'Aptitude and Mental Ability' => 0.125];
+        $subjectCounts = [$partA => 100, 'General Studies' => 75, 'Aptitude and Mental Ability' => 25];
         $sequence = 0;
 
         foreach (self::RENAMED_UNITS as $from => $to) {
@@ -259,7 +331,11 @@ final class TnpscGroup4Seeder extends Seeder
      */
     private function canonicalTopic(string $name, string $subject): CanonicalTopic
     {
-        $domain = str_contains($subject, 'Aptitude') ? 'aptitude' : 'general_studies';
+        $domain = match (true) {
+            str_contains($subject, 'Aptitude') => 'aptitude',
+            str_contains($subject, 'Tamil') => 'language',
+            default => 'general_studies',
+        };
         $slug = Str::slug($name);
 
         return CanonicalTopic::query()->updateOrCreate(
@@ -269,6 +345,7 @@ final class TnpscGroup4Seeder extends Seeder
                 'domain' => $domain,
                 'path' => $domain.'.'.Str::slug($name, '_'),
                 'depth' => 2,
+                'aliases' => self::ALIASES[$name] ?? [],
             ],
         );
     }

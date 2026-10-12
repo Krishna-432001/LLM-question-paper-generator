@@ -52,13 +52,33 @@ final class TnpscBlueprintTest extends TestCase
             ->pluck('weight', 'name')
             ->mapWithKeys(static fn ($w, $n): array => [$n => (float) $w]));
 
-        // 75 General Studies + 25 Aptitude. The earlier seed summed to 85
-        // because the Tamil Nadu heritage unit was missing entirely.
+        // All 200 questions of Paper I: Part A 100, General Studies 75,
+        // Aptitude 25. The earlier seed summed to 85 of the 100 Part B
+        // questions because the Tamil Nadu heritage unit was missing.
         $this->assertEqualsWithDelta(1.0, $weights->sum(), 0.001);
 
         $heritage = $weights->first(fn ($w, $n): bool => str_contains($n, 'Socio-Political Movements'));
         $this->assertNotNull($heritage, 'The Tamil Nadu history and heritage unit must exist.');
-        $this->assertEqualsWithDelta(0.20, $heritage, 0.0001);
+        $this->assertEqualsWithDelta(20 / 200, $heritage, 0.0001);
+    }
+
+    public function test_part_a_is_half_the_paper_and_ordered_in_tamil(): void
+    {
+        TenantContext::withoutTenancy(function (): void {
+            $partA = DB::table('exam_units')->where('name', 'like', 'Part A %')->get();
+
+            $this->assertCount(3, $partA);
+            $this->assertEqualsWithDelta(0.5, $partA->sum('weight'), 0.001);
+
+            $tamil = \App\Models\Language::byCode('ta')->getKey();
+            $topicIds = DB::table('exam_topics')->whereIn('exam_unit_id', $partA->pluck('id'))->pluck('canonical_topic_id');
+            $targets = QuestionGenerationTarget::query()->whereIn('canonical_topic_id', $topicIds)->get();
+
+            // Part A is answered in Tamil, so its questions must be written in
+            // Tamil: an English target here would order the wrong language.
+            $this->assertGreaterThan(0, $targets->count());
+            $this->assertTrue($targets->every(fn ($t): bool => $t->language_id === $tamil));
+        });
     }
 
     public function test_current_events_is_kept_but_neither_weighted_nor_ordered(): void

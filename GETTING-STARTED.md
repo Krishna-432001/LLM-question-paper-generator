@@ -46,8 +46,13 @@ Phase 1 (Foundation) of the [architecture](README.md) is implemented in `apps/ap
 | **Generation targets** — order the shortfall, never the whole number | ✅ Complete, 8 tests |
 | **TNPSC blueprint** — real mark distribution as unit weights + backlog | ✅ Complete, 5 tests |
 | **PYQ frequency analysis** — frequency + recency scoring, trend detection | ✅ Complete, 6 tests |
-| Translation engine | ⛔ Phase 4+ |
-| Student UI | ⛔ **Out of scope** — the product is the admin paper builder |
+| **Malware scan on upload** — ClamAV (clamd INSTREAM), quarantine, permanent failure | ✅ Complete, 7 tests |
+| **Exam management** — create/edit exams, papers, dates; `/admin/exams` | ✅ Complete, 9 tests |
+| **Syllabus editor** — drafts, text import, compare, publish; `/admin/syllabus` | ✅ Complete, 9 tests |
+| **Lesson → topic mapping** — lexical + aliases + constrained model, human override | ✅ Complete, 9 tests |
+| TNPSC Group IV Part A (Tamil, 100 questions) in syllabus and blueprint | ✅ Complete |
+| Translation engine | ⛔ In progress |
+| Student UI | ⛔ In progress |
 
 ## The product flow
 
@@ -112,6 +117,44 @@ Time: 30 min          TNPSC Group IV                     Marks: 25
    (A) distillation      (B) atmosphere
    (C) experiences       (D) terrestrial
 ```
+
+## Syllabus versions
+
+A published syllabus never changes in place: plans and tests point at its id.
+Change goes through a draft, at `/admin/syllabus`:
+
+```
+POST /api/v1/exams/{exam}/syllabus/drafts        copy the live version into a draft
+POST /api/v1/syllabus-versions/{v}/import        paste a notification's text into it
+GET  /api/v1/syllabus-versions/{v}/diff          what changed against the live version
+POST /api/v1/syllabus-versions/{v}/publish       supersede the live version
+```
+
+Import is a parser, not a model. `UNIT I : GENERAL SCIENCE (5 Questions)` starts
+a unit and its count becomes the weight; `(i)`, `1.` or `;` separate topics.
+Publishing refuses a draft whose weights do not add up to 100%, a unit with no
+topics, or a topic not linked to the question bank. A topic typed by name joins
+the existing canonical topic of the same name, so re-typing "Indian Polity"
+never forks the bank.
+
+## Lesson → topic mapping
+
+Until this existed every generated question had no topic, so the backlog never
+counted them and blueprint weights never reached them. The ingestion `map`
+stage now files each lesson under a canonical topic, and generation passes the
+topic on to every question:
+
+1. **Lexical** — topic phrases in the lesson or chapter title, recurring in the
+   text, or a curated **alias** naming the lesson ("Plants and Photosynthesis"
+   → Botany). Aliases are seeded for State Board Std 6–10 vocabulary.
+2. **Model** — constrained classification for the rest; it cannot invent a
+   topic or answer for a lesson it was not asked about.
+3. **Human** — the *Syllabus topics* tab of `/admin/structure`. A person's
+   choice survives every re-run and re-files the lesson's questions.
+
+On `AI_DRIVER=fake` only steps 1 and 3 work: on the development database the
+English science books map fully, and the Tamil reader is left unmapped until a
+real model runs.
 
 ## Previous-year paper analysis
 
