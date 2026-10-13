@@ -26,6 +26,7 @@ const NAV: Array<[string, MessageKey]> = [
   ["/app/tests", "nav.tests"],
   ["/app/progress", "nav.progress"],
   ["/app/downloads", "nav.downloads"],
+  ["/app/papers", "nav.papers"],
 ];
 
 function Shell({ children }: { children: ReactNode }) {

@@ -4,6 +4,8 @@ import { useEffect, useState } from "react";
 import { student, testsApi, type AttemptResult, type Solution } from "@/lib/api";
 import { useI18n } from "@/lib/i18n";
 import { CARD, GHOST, errorText, useQueryParam } from "../student-context";
+// Practice papers: says "not scored" for questions whose paper had no answer key.
+import { UnscoredNote } from "../papers/unscored-note";
 
 /**
  * A finished attempt: the score, where it was lost, and every solution with
@@ -58,6 +60,9 @@ export default function ResultPage() {
         <Stat label={t("result.wrong")} value={`${r.wrong}`} tone="text-rose-700" />
         <Stat label={t("result.skipped")} value={`${r.unattempted}`} tone="text-slate-500" />
       </section>
+
+      {/* Practice papers: unkeyed questions are unscored, not wrong. Owned by the papers feature. */}
+      {attemptId && <UnscoredNote attemptId={attemptId} />}
 
       {r.topics.length > 0 && (
         <section className={`${CARD} p-5`}>
