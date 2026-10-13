@@ -10,7 +10,6 @@ import {
   jobs,
   questions,
   sources,
-  type DocumentRow,
   type Exam,
   type JobRow,
   type Language,
@@ -841,11 +840,24 @@ export default function AdminPage() {
                             <option value="both">Both</option>
                           </select>
                         </Field>
+                        <Field label="File">
+                          <select
+                            value={format}
+                            onChange={(e) => setFormat(e.target.value)}
+                            className={FIELD}
+                            title="PDF to print. Word to edit. Excel or JSON to reuse the questions, options and answers elsewhere."
+                          >
+                            <option value="pdf">PDF</option>
+                            <option value="docx">Word</option>
+                            <option value="xlsx">Excel</option>
+                            <option value="json">JSON</option>
+                          </select>
+                        </Field>
                         <button
                           disabled={busy !== null}
                           className={`${BTN} bg-emerald-600 hover:bg-emerald-500`}
                         >
-                          {busy === "paper" ? "Building…" : "Build PDF"}
+                          {busy === "paper" ? "Building…" : `Build ${format === "pdf" ? "PDF" : format.toUpperCase()}`}
                         </button>
                       </div>
 
@@ -888,7 +900,7 @@ export default function AdminPage() {
                         </span>
                         <button
                           onClick={() =>
-                            downloadDocument(d.id, `${d.document_code}.pdf`).catch(fail)
+                            downloadDocument(d.id, `${d.document_code}.${d.format ?? "pdf"}`).catch(fail)
                           }
                           className={`shrink-0 ${BTN} bg-emerald-600 py-1.5 hover:bg-emerald-500`}
                         >

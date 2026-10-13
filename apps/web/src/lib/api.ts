@@ -630,7 +630,8 @@ export async function downloadDocument(id: string, filename: string): Promise<vo
 
   const response = await fetch(`${BASE}/documents/${id}/download`, {
     headers: {
-      Accept: "application/pdf",
+      // Any stored format: PDF, Word, Excel or JSON.
+      Accept: "*/*",
       ...(token ? { Authorization: `Bearer ${token}` } : {}),
     },
   });

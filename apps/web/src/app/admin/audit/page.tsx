@@ -68,9 +68,13 @@ export default function AuditPage() {
       return;
     }
 
-    load("").catch((e) => {
-      if (e instanceof ApiError && e.status === 401) router.replace("/login");
-    });
+    void (async () => {
+      try {
+        await load("");
+      } catch (e) {
+        if (e instanceof ApiError && e.status === 401) router.replace("/login");
+      }
+    })();
   }, [router, load]);
 
   // One admin action can write several rows; they share a request id.

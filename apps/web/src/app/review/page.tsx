@@ -39,8 +39,9 @@ export default function ReviewPage() {
   const [correctOverride, setCorrectOverride] = useState<string | null>(null);
 
   // Time-on-task feeds the throughput metric that gates auto-approval, so it
-  // is measured rather than estimated.
-  const startedAt = useRef<number>(Date.now());
+  // is measured rather than estimated. Set when each item loads (render must
+  // stay pure, so no clock read here).
+  const startedAt = useRef<number>(0);
 
   const loadNext = useCallback(async () => {
     setLoading(true);
@@ -73,7 +74,9 @@ export default function ReviewPage() {
       router.push("/login");
       return;
     }
-    void loadNext();
+    void (async () => {
+      await loadNext();
+    })();
   }, [loadNext, router]);
 
   const decide = useCallback(
