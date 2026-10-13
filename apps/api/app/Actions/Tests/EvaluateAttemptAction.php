@@ -16,6 +16,11 @@ use Illuminate\Support\Facades\DB;
  * The answer key is read from question_options — never from a translation —
  * so a student sitting the Tamil paper is marked against exactly the same
  * truth as one sitting the English paper.
+ *
+ * A question with no correct option at all (an uploaded past paper whose key
+ * was never printed) is unscored: answered or not, it counts as neither right
+ * nor wrong. Marking it wrong would turn "we do not know the answer" into
+ * "you got it wrong", which is a false statement about the student.
  */
 final class EvaluateAttemptAction
 {
@@ -39,6 +44,9 @@ final class EvaluateAttemptAction
             $timeTaken = 0;
             $byTopic = [];
             $byDifficulty = [];
+            $unscored = $test->questions
+                ->filter(static fn ($testQuestion): bool => $testQuestion->question->correctOptionKey() === null)
+                ->count();
 
             foreach ($answers as $answer) {
                 $testQuestion = $byId->get($answer['test_question_id']);
@@ -50,21 +58,28 @@ final class EvaluateAttemptAction
                 /** @var Question $question */
                 $question = $testQuestion->question;
                 $selected = $answer['selected_option'] ?? null;
-                $isCorrect = $selected !== null && $selected === $question->correctOptionKey();
-
-                $isCorrect ? $correct++ : ($selected !== null ? $wrong++ : null);
+                $key = $question->correctOptionKey();
+                $isCorrect = $selected !== null && $selected === $key;
                 $timeTaken += (int) ($answer['time_spent_seconds'] ?? 0);
 
+                // The choice is still recorded, with is_correct left null, so
+                // the student's answer survives for when a key is added.
                 DB::table('test_answers')->insert([
                     'id' => (string) \Illuminate\Support\Str::uuid7(),
                     'test_attempt_id' => $attempt->getKey(),
                     'test_question_id' => $testQuestion->getKey(),
                     'question_id' => $question->getKey(),
                     'selected_option' => $selected,
-                    'is_correct' => $selected === null ? null : $isCorrect,
+                    'is_correct' => $selected === null || $key === null ? null : $isCorrect,
                     'time_spent_seconds' => (int) ($answer['time_spent_seconds'] ?? 0),
                     'answered_at' => now(),
                 ]);
+
+                if ($key === null) {
+                    continue;   // unscored: no evidence for the score, the topic or the difficulty
+                }
+
+                $isCorrect ? $correct++ : ($selected !== null ? $wrong++ : null);
 
                 $topic = $question->canonical_topic_id;
 
@@ -81,6 +96,8 @@ final class EvaluateAttemptAction
 
             $total = $test->questions->count();
             $attempted = $correct + $wrong;
+            // Left blank is counted only among questions that could be marked.
+            $scorable = $total - $unscored;
             $marks = (float) ($test->questions->first()->marks ?? 1);
             $rawScore = $correct * $marks;
             $negative = $wrong * (float) $test->negative_marking;
@@ -91,7 +108,8 @@ final class EvaluateAttemptAction
                 'attempted' => $attempted,
                 'correct' => $correct,
                 'wrong' => $wrong,
-                'unattempted' => $total - $attempted,
+                'unattempted' => max(0, $scorable - $attempted),
+                'unscored' => $unscored,
                 'raw_score' => $rawScore,
                 'negative_score' => $negative,
                 'final_score' => $rawScore - $negative,
