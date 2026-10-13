@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useState } from "react";
 import { student, testsApi, type MyTestRow } from "@/lib/api";
 import { useI18n } from "@/lib/i18n";
-import { PaperLanguagePicker, languageLabel, usePaperLanguage } from "../paper-language";
+import { PaperLanguagePicker, creationErrorText, languageLabel, usePaperLanguage } from "../paper-language";
 import { BUTTON, CARD, FIELD, GHOST, errorText, useStudent } from "../student-context";
 
 const TYPES = ["topic_practice", "daily", "weekly", "model", "diagnostic"] as const;
@@ -41,6 +41,7 @@ export default function TestsPage() {
     if (!examId || !paperLanguage.request) return;
     setBusy(true);
     setError(null);
+    let testId: string;
     try {
       const { data: test } = await testsApi.create({
         exam_id: examId,
@@ -49,13 +50,19 @@ export default function TestsPage() {
         question_count: Number(form.count),
         duration_minutes: Number(form.minutes) || undefined,
       });
-      const { data: attempt } = await testsApi.start(test.id);
+      testId = test.id;
+    } catch (e) {
+      // Only the server's refusal of a bilingual paper gets the "not enough
+      // in both languages" line; other failures say what they are.
+      setError(creationErrorText(e, paperLanguage.choice, t));
+      setBusy(false);
+      return;
+    }
+    try {
+      const { data: attempt } = await testsApi.start(testId);
       router.push(`/app/take?attempt=${attempt.attempt_id}`);
     } catch (e) {
-      // A bilingual refusal names how many questions each language has; the
-      // localized line says what to do about it.
-      const detail = errorText(e, t("tests.noQuestions"));
-      setError(paperLanguage.choice === "both" ? `${t("paper.notEnoughBoth")} (${detail})` : detail);
+      setError(errorText(e, t("common.error")));
       setBusy(false);
     }
   }

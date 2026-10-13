@@ -16,6 +16,21 @@ final class CreateTestRequest extends FormRequest
             || $this->user()?->can('tests.create.org');
     }
 
+    /**
+     * Language ids are lower-cased before validation. Postgres compares
+     * uuids case-insensitively and PHP compares strings exactly, so "the
+     * same language in capitals" passed different:language_id and then
+     * failed the database's own check as a 500.
+     */
+    protected function prepareForValidation(): void
+    {
+        foreach (['language_id', 'secondary_language_id'] as $field) {
+            if (is_string($this->input($field))) {
+                $this->merge([$field => strtolower($this->input($field))]);
+            }
+        }
+    }
+
     /** @return array<string, mixed> */
     public function rules(): array
     {

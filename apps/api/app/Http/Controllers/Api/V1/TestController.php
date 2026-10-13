@@ -61,7 +61,9 @@ final class TestController extends Controller
      */
     public function attempt(Request $request, string $testId): JsonResponse
     {
-        $test = Test::query()->with('questions.question.translations')->findOrFail($testId);
+        // The pinned rows: the runner shows exactly the text the paper was
+        // assembled with, which is also what its PDF prints.
+        $test = Test::query()->with(PaperText::RELATIONS)->findOrFail($testId);
         $this->assertCanUse($test);
         $context = app(TenantContext::class);
         $languages = $test->paperLanguages();
@@ -91,14 +93,11 @@ final class TestController extends Controller
                     'test_question_id' => $tq->getKey(),
                     'sequence' => $tq->sequence,
                     'marks' => $tq->marks,
-                    // In the paper's own language, not the bank's master.
-                    'question_text' => $tq->question->textIn($test->language_id)?->question_text,
-                    'options' => $tq->question->textIn($test->language_id)?->optionMap(),
-                    // Every language the paper is shown in, primary first. A
-                    // single-language paper carries just its own.
-                    'texts' => PaperText::byLanguage($tq->question, $languages),
-                    // The correct option is never sent to the client.
-                ])->all(),
+                    // In the paper's own languages, not the bank's master:
+                    // question_text/options for the primary, `texts` for
+                    // every language, primary first. The correct option is
+                    // never sent to the client.
+                ] + PaperText::payloadFor($tq, $languages))->all(),
             ],
         ], 201);
     }
@@ -151,26 +150,30 @@ final class TestController extends Controller
         );
         abort_unless($attempt->isSubmitted(), 409, 'Submit the attempt before viewing solutions.');
 
-        $test = $attempt->test()->with('questions.question.translations', 'questions.question.options', 'questions.question.sources.chunk')->first();
+        $test = $attempt->test()->with([...PaperText::RELATIONS, 'questions.question.options', 'questions.question.sources.chunk'])->first();
         $languages = $test->paperLanguages();
 
         return response()->json([
-            'data' => $test->questions->map(fn ($tq) => [
-                'sequence' => $tq->sequence,
-                'question_text' => $tq->question->textIn($test->language_id)?->question_text,
-                'options' => $tq->question->textIn($test->language_id)?->optionMap(),
-                'correct_option' => $tq->question->correctOptionKey(),
-                'explanation' => $tq->question->textIn($test->language_id)?->explanation,
-                // A bilingual paper's solutions are bilingual too: the student
-                // reads the explanation in the language they answered in.
-                'texts' => PaperText::byLanguage($tq->question, $languages, withExplanation: true),
-                // Every solution shows where the answer comes from. This is
-                // what a student can take to a teacher and check.
-                'sources' => $tq->question->sources->map(fn ($s) => [
-                    'citation' => $s->citation(),
-                    'supporting_quote' => $s->supporting_quote,
-                ])->all(),
-            ])->all(),
+            'data' => $test->questions->map(function ($tq) use ($languages): array {
+                // The same pinned text the student answered. A bilingual
+                // paper's solutions are bilingual too, explanation included.
+                $text = PaperText::payloadFor($tq, $languages, withExplanation: true);
+
+                return [
+                    'sequence' => $tq->sequence,
+                    'question_text' => $text['question_text'],
+                    'options' => $text['options'],
+                    'correct_option' => $tq->question->correctOptionKey(),
+                    'explanation' => $text['explanation'],
+                    'texts' => $text['texts'],
+                    // Every solution shows where the answer comes from. This
+                    // is what a student can take to a teacher and check.
+                    'sources' => $tq->question->sources->map(fn ($s) => [
+                        'citation' => $s->citation(),
+                        'supporting_quote' => $s->supporting_quote,
+                    ])->all(),
+                ];
+            })->all(),
             // Alongside the list rather than inside it, so a client that reads
             // data as an array of solutions keeps working.
             'meta' => [

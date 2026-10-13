@@ -4,10 +4,10 @@ declare(strict_types=1);
 
 namespace App\Domain\Documents;
 
-use App\Models\Language;
-use App\Models\Question;
+use App\Domain\Tests\PaperText;
 use App\Models\StudyPlan;
 use App\Models\Test;
+use App\Models\TestQuestion;
 use Illuminate\Support\Collection;
 
 /**
@@ -17,7 +17,8 @@ use Illuminate\Support\Collection;
  * all already in the database, so composing a paper is string building. That
  * is why a download costs nothing and can be repeated indefinitely.
  *
- * A paper prints in its test's own languages. A single-language test prints
+ * A paper prints in its test's own languages, from the translation rows the
+ * test was assembled with (see PaperText). A single-language test prints
  * every question in tests.language_id; a bilingual one prints each question
  * twice, primary first and the second language beneath it, the way TNPSC sets
  * its papers. Before language modes every paper printed the bank's master
@@ -44,6 +45,9 @@ final class DocumentComposer
             'negative' => 'Negative marking: :n mark per wrong answer.',
             'answer' => 'Answer',
             'source' => 'Source',
+            'answer_key' => 'Answer Key',
+            'explanations' => 'Explanations',
+            'unavailable' => 'English text unavailable',
         ],
         'ta' => [
             'time' => 'நேரம்',
@@ -56,8 +60,14 @@ final class DocumentComposer
             'negative' => 'தவறான ஒவ்வொரு விடைக்கும் :n மதிப்பெண் கழிக்கப்படும்.',
             'answer' => 'விடை',
             'source' => 'ஆதாரம்',
+            'answer_key' => 'விடைக்குறிப்பு',
+            'explanations' => 'விளக்கங்கள்',
+            'unavailable' => 'தமிழ் மொழிபெயர்ப்பு கிடைக்கவில்லை',
         ],
     ];
+
+    /** For a language with no labels of its own. */
+    private const UNAVAILABLE_FALLBACK = 'Translation unavailable (:code)';
 
     /**
      * Options longer than this go one to a row. Two narrow columns of long
@@ -67,18 +77,30 @@ final class DocumentComposer
     private const SINGLE_COLUMN_OPTION_LENGTH = 40;
 
     /**
+     * Estimated printed lines above which an item may break across pages.
+     * A short item is kept on one page; holding a long one together would
+     * push it whole to the next page and leave most of a page blank — or,
+     * past a full page, make the renderer shrink it to unreadable type.
+     */
+    private const KEEP_TOGETHER_LINES = 24;
+
+    /** Rough characters per printed line, for the estimate above. */
+    private const CHARS_PER_LINE = 95;
+
+    /**
      * @return array{payload: array<string, mixed>, html: string, title: string}
      */
     public function questionPaper(Test $test, string $documentCode): array
     {
-        $test->loadMissing(['questions.question.translations', 'exam', 'language']);
+        $test->loadMissing([...PaperText::RELATIONS, 'exam', 'language']);
         $languages = $test->paperLanguages();
+        $codes = $languages->pluck('code')->all();
 
         $payload = [
             'template' => 'question_paper',
-            'locale' => $languages->first()->code ?? 'en',
+            'locale' => $codes[0] ?? 'en',
             'language_mode' => $test->language_mode,
-            'languages' => $languages->pluck('code')->all(),
+            'languages' => $codes,
             'meta' => [
                 'title' => $test->title,
                 'exam' => $test->exam->name ?? '',
@@ -87,16 +109,19 @@ final class DocumentComposer
                 'total_questions' => $test->question_count,
                 'negative_marking' => (float) $test->negative_marking,
                 'document_code' => $documentCode,
+                // The furniture in the paper's languages, so the DOCX export
+                // prints the same headings as the PDF instead of English.
+                'labels' => $this->labelSet($codes, ['time', 'minutes', 'questions', 'marks', 'answer_key']),
             ],
-            'questions' => $test->questions->map(function ($tq) use ($languages): array {
-                $texts = $this->textsFor($tq->question, $languages);
-                $primary = reset($texts) ?: ['text' => null, 'options' => []];
+            'questions' => $test->questions->map(function (TestQuestion $tq) use ($languages): array {
+                $texts = $this->textsFor($tq, $languages);
+                $primary = reset($texts) ?: ['text' => null, 'options' => [], 'available' => false];
 
                 return [
                     'number' => $tq->sequence,
                     // The primary language stays at the top level, so the DOCX,
                     // XLSX and JSON exports keep reading the keys they always
-                    // have.
+                    // have. Null when the primary has nothing printable.
                     'text' => $primary['text'],
                     'options' => $primary['options'],
                     'marks' => (float) $tq->marks,
@@ -148,6 +173,7 @@ final class DocumentComposer
     public function answerKey(Test $test, string $documentCode): array
     {
         $test->loadMissing(['questions.question.options', 'exam']);
+        $codes = $test->paperLanguages()->pluck('code')->all();
 
         $rows = $test->questions->map(fn ($tq) => [
             'number' => $tq->sequence,
@@ -160,9 +186,9 @@ final class DocumentComposer
         $payload = [
             'template' => 'answer_key',
             'language_mode' => $test->language_mode,
-            'languages' => $test->paperLanguages()->pluck('code')->all(),
+            'languages' => $codes,
             'meta' => [
-                'title' => $test->title.' — Answer Key',
+                'title' => $test->title.' — '.$this->joined($codes, 'answer_key'),
                 'exam' => $test->exam->name ?? '',
                 'document_code' => $documentCode,
             ],
@@ -185,30 +211,32 @@ final class DocumentComposer
     public function explanations(Test $test, string $documentCode): array
     {
         $test->loadMissing([
-            'questions.question.translations',
+            ...PaperText::RELATIONS,
             'questions.question.options',
             'questions.question.sources.chunk',
         ]);
         $languages = $test->paperLanguages();
+        $codes = $languages->pluck('code')->all();
 
         $payload = [
             'template' => 'explanations',
             'language_mode' => $test->language_mode,
-            'languages' => $languages->pluck('code')->all(),
+            'languages' => $codes,
             'meta' => [
-                'title' => $test->title.' — Explanations',
+                'title' => $test->title.' — '.$this->joined($codes, 'explanations'),
                 'document_code' => $documentCode,
             ],
-            'items' => $test->questions->map(function ($tq) use ($languages): array {
+            'items' => $test->questions->map(function (TestQuestion $tq) use ($languages): array {
                 $question = $tq->question;
                 $answer = $question->correctOptionKey();
                 $texts = [];
 
-                foreach ($this->textsFor($question, $languages, withExplanation: true) as $code => $text) {
+                foreach ($this->textsFor($tq, $languages, withExplanation: true) as $code => $text) {
                     $texts[$code] = [
                         'text' => $text['text'],
                         'answer_text' => $text['options'][$answer] ?? '',
                         'explanation' => $text['explanation'],
+                        'available' => $text['available'],
                     ];
                 }
 
@@ -236,24 +264,23 @@ final class DocumentComposer
 
     /**
      * One question's wording per paper language, keyed by language code in
-     * print order. Question::textIn is the rule: the validated translation,
-     * or the master when there is none, so a paper assembled before its
-     * translation was withdrawn still prints rather than leaving a blank.
+     * print order, read from the rows the test was assembled with. A
+     * language with nothing printable is marked unavailable, never filled
+     * with another language's text.
      *
-     * @param  Collection<int, Language>  $languages
-     * @return array<string, array{text: ?string, options: array<string, string>, explanation?: ?string}>
+     * @param  Collection<int, \App\Models\Language>  $languages
+     * @return array<string, array{text: ?string, options: array<string, string>, available: bool, explanation?: ?string}>
      */
-    private function textsFor(Question $question, Collection $languages, bool $withExplanation = false): array
+    private function textsFor(TestQuestion $testQuestion, Collection $languages, bool $withExplanation = false): array
     {
         $texts = [];
 
-        foreach ($languages as $language) {
-            $translation = $question->textIn($language->getKey());
-
-            $texts[(string) $language->code] = [
-                'text' => $translation?->question_text,
-                'options' => $translation?->optionMap() ?? [],
-            ] + ($withExplanation ? ['explanation' => $translation?->explanation] : []);
+        foreach (PaperText::forQuestion($testQuestion, $languages, $withExplanation) as $code => $text) {
+            $texts[$code] = [
+                'text' => $text['question_text'],
+                'options' => $text['options'],
+                'available' => $text['available'],
+            ] + ($withExplanation ? ['explanation' => $text['explanation']] : []);
         }
 
         return $texts;
@@ -309,24 +336,18 @@ final class DocumentComposer
         $codes = $this->codesOf($p);
         $questions = '';
 
-        foreach ($p['questions'] as $q) {
-            [$primary, $others] = $this->versions($q, ['text', 'options']);
+        foreach (array_values($p['questions']) as $index => $q) {
+            $versions = $this->versions($q, $codes, ['text', 'options']);
 
             // The second language sits beneath the first, never beside it:
             // side by side halves the width of both, and a long Tamil stem
             // wraps into a column of single words.
-            $body = '<div class="stem">'.$this->lines($primary['text']).'</div>';
+            $rows = [...$this->textRows($versions, 'text', 'stem'), ...$this->optionRows($versions)];
 
-            foreach ($others as $other) {
-                $body .= $this->alternate($primary['text'], $other['text'], 'div', 'stem alt');
-            }
-
-            $body .= '<table class="opts">'.$this->optionRows($primary['options'], $others).'</table>';
-
-            $questions .= $this->numbered($q['number'], $body);
+            $questions .= $this->item($q['number'], $rows, first: $index === 0);
         }
 
-        $labels = fn (string $key): string => $this->esc(implode(' / ', $this->labels($codes, $key)));
+        $labels = fn (string $key): string => $this->esc($this->joined($codes, $key));
         $instructions = '';
 
         foreach (['equal_marks', 'choose', 'negative'] as $line) {
@@ -358,46 +379,75 @@ final class DocumentComposer
 
     /**
      * Option rows: the letter in its own narrow cell so every line of the
-     * option — the wrapped primary and the second language beneath it — hangs
+     * option — the wrapped first language and the second beneath it — hangs
      * aligned under the text rather than under the letter.
      *
      * Two options to a row unless any of them, in any language, is long.
-     * Rows are built as complete units rather than by inserting separators
-     * mid-stream, which once left a trailing empty row on every question.
+     * Each pair is its own table row, so a long question can break between
+     * rows of options instead of being kept whole.
      *
-     * @param  array<string, string>  $options
-     * @param  list<array<string, mixed>>  $others
+     * @param  list<array<string, mixed>>  $versions
+     * @return list<array{html: string, lines: int}>
      */
-    private function optionRows(array $options, array $others): string
+    private function optionRows(array $versions): array
     {
+        $shown = array_values(array_filter($versions, static fn (array $v): bool => $v['available']));
+
+        if ($shown === []) {
+            return [];
+        }
+
+        $keys = [];
         $longest = 0;
 
-        foreach ([['options' => $options], ...$others] as $version) {
-            foreach ($version['options'] ?? [] as $text) {
+        foreach ($shown as $version) {
+            foreach ($version['options'] as $key => $text) {
+                $keys[$key] = true;
                 $longest = max($longest, mb_strlen((string) $text));
             }
         }
 
+        ksort($keys);
         $perRow = $longest > self::SINGLE_COLUMN_OPTION_LENGTH ? 1 : 2;
-        $width = $perRow === 1 ? '95%' : '45%';
+        $width = $perRow === 1 ? 45 : 85;
+        [$first, $others] = [$shown[0], array_slice($shown, 1)];
         $cells = [];
 
-        foreach ($options as $key => $text) {
-            $cell = nl2br($this->esc($text));
+        foreach (array_keys($keys) as $key) {
+            $text = (string) ($first['options'][$key] ?? '');
+            $html = nl2br($this->esc($text));
+            $lines = (int) ceil(max(1, mb_strlen($text)) / $width);
 
             foreach ($others as $other) {
-                $cell .= $this->alternate($text, $other['options'][$key] ?? null, 'span', 'alt', '<br>');
+                $alt = (string) ($other['options'][$key] ?? '');
+
+                if ($alt !== '' && trim($alt) !== trim($text)) {
+                    $html .= '<br><span class="alt">'.nl2br($this->esc($alt)).'</span>';
+                    $lines += (int) ceil(mb_strlen($alt) / $width);
+                }
             }
 
-            $cells[] = '<td width="5%" class="ok">('.$key.')</td><td width="'.$width.'" class="opt">'.$cell.'</td>';
+            $cells[] = ['key' => $key, 'html' => $html, 'lines' => $lines];
         }
 
-        $rows = '';
+        $rows = [];
 
         foreach (array_chunk($cells, $perRow) as $group) {
+            $html = '';
+
+            foreach ($group as $cell) {
+                $html .= '<td width="5%" class="ok">('.$this->esc($cell['key']).')</td>'
+                    .($perRow === 1
+                        ? '<td colspan="3" class="opt">'.$cell['html'].'</td>'
+                        : '<td width="42.5%" class="opt">'.$cell['html'].'</td>');
+            }
+
             // Pad a short final row so the table stays rectangular.
-            $rows .= '<tr>'.implode('', $group)
-                .str_repeat('<td width="5%"></td><td width="'.$width.'"></td>', $perRow - count($group)).'</tr>';
+            if ($perRow === 2 && count($group) === 1) {
+                $html .= '<td width="5%"></td><td width="42.5%"></td>';
+            }
+
+            $rows[] = ['html' => $html, 'lines' => max(array_column($group, 'lines'))];
         }
 
         return $rows;
@@ -434,41 +484,42 @@ final class DocumentComposer
     {
         $m = $p['meta'];
         $codes = $this->codesOf($p);
-        $answerLabel = $this->esc(implode(' / ', $this->labels($codes, 'answer')));
-        $sourceLabel = $this->esc(implode(' / ', $this->labels($codes, 'source')));
+        $answerLabel = $this->esc($this->joined($codes, 'answer'));
+        $sourceLabel = $this->esc($this->joined($codes, 'source'));
         $body = '';
 
-        foreach ($p['items'] as $item) {
-            [$primary, $others] = $this->versions($item, ['text', 'answer_text', 'explanation']);
+        foreach (array_values($p['items']) as $index => $item) {
+            $versions = $this->versions($item, $codes, ['text', 'answer_text', 'explanation']);
+            $shown = array_values(array_filter($versions, static fn (array $v): bool => $v['available']));
+            $answerText = (string) ($shown[0]['answer_text'] ?? '');
 
-            $block = '<div class="stem">'.$this->lines($primary['text']).'</div>';
+            $rows = $this->textRows($versions, 'text', 'stem');
 
-            foreach ($others as $other) {
-                $block .= $this->alternate($primary['text'], $other['text'], 'div', 'stem alt');
+            $rows[] = $this->row(
+                '<td colspan="4" class="ans">'.$answerLabel.': <b>'.$this->esc($item['answer']).'</b>'
+                    .($answerText !== '' ? ' &mdash; '.$this->esc($answerText) : '').'</td>',
+                $answerText,
+            );
+
+            foreach (array_slice($shown, 1) as $other) {
+                $alt = (string) $other['answer_text'];
+
+                if ($alt !== '' && trim($alt) !== trim($answerText)) {
+                    $rows[] = $this->row('<td colspan="4" class="ans alt">'.$this->esc($alt).'</td>', $alt);
+                }
             }
 
-            $block .= '<p class="ans">'.$answerLabel.': <b>'.$item['answer'].'</b> &mdash; '
-                .$this->esc($primary['answer_text']);
-
-            foreach ($others as $other) {
-                $block .= $this->alternate($primary['answer_text'], $other['answer_text'], 'span', 'alt', '<br>');
-            }
-
-            $block .= '</p><p class="exp">'.$this->lines($primary['explanation']).'</p>';
-
-            foreach ($others as $other) {
-                $block .= $this->alternate($primary['explanation'], $other['explanation'], 'p', 'exp alt');
-            }
+            $rows = [...$rows, ...$this->textRows($shown, 'explanation', 'exp')];
 
             if ($item['quote']) {
-                $block .= '<p class="quote">&ldquo;'.$this->esc((string) $item['quote']).'&rdquo;</p>';
+                $rows[] = $this->row('<td colspan="4" class="quote">&ldquo;'.$this->esc((string) $item['quote']).'&rdquo;</td>', (string) $item['quote']);
             }
 
             if ($item['citation']) {
-                $block .= '<p class="cite">'.$sourceLabel.': '.$this->esc((string) $item['citation']).'</p>';
+                $rows[] = $this->row('<td colspan="4" class="cite">'.$sourceLabel.': '.$this->esc((string) $item['citation']).'</td>', '');
             }
 
-            $body .= $this->numbered($item['number'], $block);
+            $body .= $this->item($item['number'], $rows, first: $index === 0);
         }
 
         return $this->shell($m['title'], '<div class="head"><h2>'.$this->esc($m['title'])
@@ -530,63 +581,121 @@ final class DocumentComposer
 
     /**
      * One numbered item: the number in its own column, so a stem that wraps,
-     * its second language and its options all hang aligned to the right of it.
-     * One table per item also lets the renderer keep an item on one page — a
-     * Tamil stem at the foot of one page with its English and options on the
-     * next is a question nobody can read.
+     * its second language and its options all hang aligned to the right of
+     * it. Every line of text and every pair of options is its own table row,
+     * because a row is the unit a page can break between.
      *
-     * autosize="1" forbids mPDF from shrinking an item to squeeze it into the
-     * space left at the foot of a page. Without it the last question on a
-     * page came out in visibly smaller type than the rest; with it, the
-     * question moves to the next page at full size.
+     * A short item is kept on one page — a Tamil stem at the foot of one page
+     * with its English and options on the next is a question nobody can read.
+     * A long one may break, and the first item never waits for page two: it
+     * starts under the instructions rather than leaving page one blank.
+     * autosize="1" forbids shrinking an item to squeeze it into the space
+     * left on a page; the last question on a page used to come out in
+     * visibly smaller type than the rest.
+     *
+     * @param  list<array{html: string, lines: int}>  $rows
      */
-    private function numbered(int|string $number, string $body): string
+    private function item(int|string $number, array $rows, bool $first): string
     {
-        return '<table class="q" autosize="1"><tr><td class="num">'.$this->esc($number).'.</td>'
-            .'<td class="qb">'.$body.'</td></tr></table>';
-    }
+        $keep = ! $first && array_sum(array_column($rows, 'lines')) <= self::KEEP_TOGETHER_LINES;
+        $html = '';
 
-    /**
-     * The same text in another language, set lighter beneath the primary.
-     * Nothing when it is missing or identical — a paper assembled before its
-     * translation existed falls back to the master in both slots, and printing
-     * the same sentence twice helps nobody.
-     */
-    private function alternate(?string $primary, ?string $other, string $tag, string $class, string $before = ''): string
-    {
-        if ($other === null || trim($other) === '' || trim($other) === trim((string) $primary)) {
-            return '';
+        foreach (array_values($rows) as $i => $row) {
+            $html .= '<tr>'
+                .($i === 0 ? '<td width="5%" class="num">'.$this->esc($number).'.</td>' : '<td width="5%"></td>')
+                .$row['html'].'</tr>';
         }
 
-        return $before.'<'.$tag.' class="'.$class.'">'.$this->lines($other).'</'.$tag.'>';
+        return '<table class="q'.($keep ? ' keep' : '').'" autosize="1">'.$html.'</table>';
     }
 
     /**
-     * The primary version of an item and the others, in print order. Payloads
-     * stored before language modes carry no `texts`, so the top-level fields
-     * stand in as the only version.
+     * Rows for one field across the paper's languages: the first language
+     * that has text in full, any other beneath it in the lighter style, and a
+     * marked gap for a language with nothing printable. Text identical to the
+     * first is not repeated.
+     *
+     * @param  list<array<string, mixed>>  $versions
+     * @return list<array{html: string, lines: int}>
+     */
+    private function textRows(array $versions, string $field, string $class): array
+    {
+        $rows = [];
+        $first = null;
+
+        foreach ($versions as $version) {
+            if (! $version['available']) {
+                $rows[] = $this->row('<td colspan="4" class="na">'.$this->esc($this->unavailable($version['code'])).'</td>', '');
+
+                continue;
+            }
+
+            $text = trim((string) $version[$field]);
+
+            // An explanation may be missing in one language; a stem always
+            // gets its row so the number has somewhere to sit.
+            if ($text === '' && ($field !== 'text' || $first !== null)) {
+                continue;
+            }
+
+            if ($first !== null && $text === $first) {
+                continue;
+            }
+
+            $style = $first === null ? $class : $class.' alt';
+            $first ??= $text;
+
+            foreach (preg_split('/\R/u', $text) ?: [''] as $line) {
+                $rows[] = $this->row(
+                    '<td colspan="4" class="'.$style.'">'.($line === '' ? '&nbsp;' : $this->esc($line)).'</td>',
+                    $line,
+                );
+            }
+        }
+
+        return $rows;
+    }
+
+    /** @return array{html: string, lines: int} */
+    private function row(string $html, string $text): array
+    {
+        return ['html' => $html, 'lines' => max(1, (int) ceil(mb_strlen($text) / self::CHARS_PER_LINE))];
+    }
+
+    /**
+     * Every version of an item in print order, with its language code and
+     * whether it has printable text. Payloads stored before language modes
+     * carry no `texts`; the top-level fields stand in as the only version.
      *
      * @param  array<string, mixed>  $item
+     * @param  list<string>  $codes
      * @param  list<string>  $fields
-     * @return array{0: array<string, mixed>, 1: list<array<string, mixed>>}
+     * @return list<array<string, mixed>>
      */
-    private function versions(array $item, array $fields): array
+    private function versions(array $item, array $codes, array $fields): array
     {
-        $versions = array_values($item['texts'] ?? []);
+        $versions = [];
 
-        if ($versions === []) {
-            $versions = [array_intersect_key($item, array_flip($fields))];
+        foreach ($item['texts'] ?? [] as $code => $text) {
+            $versions[] = ['code' => (string) $code, 'available' => $text['available'] ?? true]
+                + $text + array_fill_keys($fields, null);
         }
 
-        $versions = array_map(
-            static fn (array $v): array => $v + array_fill_keys($fields, null),
-            $versions,
-        );
+        if ($versions === []) {
+            $versions[] = ['code' => $codes[0] ?? 'en', 'available' => true]
+                + array_intersect_key($item, array_flip($fields)) + array_fill_keys($fields, null);
+        }
 
-        $primary = array_shift($versions);
-        $primary['options'] ??= [];
+        foreach ($versions as &$version) {
+            $version['options'] ??= [];
+        }
 
-        return [$primary, $versions];
+        return $versions;
+    }
+
+    private function unavailable(string $code): string
+    {
+        return self::LABELS[$code]['unavailable'] ?? strtr(self::UNAVAILABLE_FALLBACK, [':code' => $code]);
     }
 
     /**
@@ -617,14 +726,20 @@ final class DocumentComposer
         return array_values(array_unique($labels));
     }
 
-    /**
-     * nl2br, not plain escaping: statement-based, assertion-reason and
-     * match-the-following stems carry their layout in newlines, and HTML
-     * would otherwise collapse them into one run-on line.
-     */
-    private function lines(?string $text): string
+    /** @param  list<string>  $codes */
+    private function joined(array $codes, string $key): string
     {
-        return nl2br($this->esc((string) $text));
+        return implode(' / ', $this->labels($codes, $key));
+    }
+
+    /**
+     * @param  list<string>  $codes
+     * @param  list<string>  $keys
+     * @return array<string, string>
+     */
+    private function labelSet(array $codes, array $keys): array
+    {
+        return array_combine($keys, array_map(fn (string $key): string => $this->joined($codes, $key), $keys));
     }
 
     private function shell(string $title, string $body, string $code): string
@@ -644,22 +759,22 @@ final class DocumentComposer
           .c { text-align: center; } .r { text-align: right; }
           .instr { font-size: 9pt; border: 0.4pt solid #999; padding: 4pt 8pt; margin-bottom: 10pt; }
           .instr ol { margin: 3pt 0 0 12pt; padding: 0; }
-          table.q { width: 100%; margin-bottom: 7pt; border-collapse: collapse; page-break-inside: avoid; }
-          td.num { width: 22pt; padding: 0; vertical-align: top; font-weight: bold; }
-          td.qb { padding: 0; vertical-align: top; }
-          .stem { margin: 0 0 2pt; }
+          table.q { width: 100%; margin-bottom: 7pt; border-collapse: collapse; }
+          table.keep { page-break-inside: avoid; }
+          table.q td { vertical-align: top; padding: 0; }
+          td.num { font-weight: bold; }
+          td.stem { padding: 0 0 1pt; }
           .alt { color: #444; font-size: 9.5pt; }
-          div.alt { margin: 0 0 3pt; }
-          .opts { width: 100%; font-size: 10pt; border-collapse: collapse; }
-          .ok { padding: 1pt 0; vertical-align: top; }
-          .opt { padding: 1pt 6pt 2pt 0; vertical-align: top; }
+          td.na { color: #777; font-size: 9pt; padding: 0 0 2pt; }
+          td.ok { font-size: 10pt; padding: 1pt 0; }
+          td.opt { font-size: 10pt; padding: 1pt 6pt 2pt 0; }
           .keys { width: 100%; font-size: 10pt; }
           .key { padding: 3pt; border: 0.3pt solid #ccc; text-align: center; }
-          .ans { margin: 2pt 0; color: #056; }
-          .exp { margin: 2pt 0; font-size: 9.5pt; }
-          .quote { margin: 2pt 0; font-size: 9pt; font-style: italic; color: #555;
-                   border-left: 2pt solid #c90; padding-left: 5pt; }
-          .cite { margin: 1pt 0 0; font-size: 8pt; color: #777; }
+          td.ans { padding: 2pt 0 1pt; color: #056; }
+          td.exp { padding: 1pt 0; font-size: 9.5pt; }
+          td.quote { font-size: 9pt; font-style: italic; color: #555;
+                     border-left: 2pt solid #c90; padding: 1pt 0 1pt 5pt; }
+          td.cite { font-size: 8pt; color: #777; padding: 1pt 0 0; }
           .plan { width: 100%; border-collapse: collapse; font-size: 9.5pt; }
           .plan td { border: 0.3pt solid #bbb; padding: 4pt 6pt; vertical-align: top; }
           .day { width: 88pt; }

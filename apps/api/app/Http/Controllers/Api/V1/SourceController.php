@@ -128,9 +128,12 @@ final class SourceController extends Controller
             'These questions are not mapped to any exam, so a paper cannot be assembled. Pass exam_id explicitly.',
         );
 
-        $languageId = $validated['language_id'] ?? $source->language_id;
+        // Lower-cased: Postgres treats uuids case-insensitively and PHP does
+        // not, so the same language typed in capitals would otherwise slip
+        // past the comparison below and fail the database's check as a 500.
+        $languageId = strtolower((string) ($validated['language_id'] ?? $source->language_id));
         $bilingual = ($validated['language_mode'] ?? Test::MODE_SINGLE) === Test::MODE_BILINGUAL;
-        $secondaryId = $bilingual ? $validated['secondary_language_id'] : null;
+        $secondaryId = $bilingual ? strtolower((string) $validated['secondary_language_id']) : null;
 
         abort_if(
             $secondaryId !== null && $secondaryId === $languageId,

@@ -51,6 +51,11 @@ final class JsonExporter implements DocumentExporter
                 'schema_version' => self::SCHEMA_VERSION,
                 'exported_at' => now()->toIso8601String(),
                 'document' => $payload['template'] ?? 'question_paper',
+                // Additive, so no schema bump: which languages the paper is
+                // in and in what order, without inferring it from the key
+                // order of each question's `texts`.
+                'language_mode' => $payload['language_mode'] ?? 'single',
+                'languages' => $payload['languages'] ?? [$payload['locale'] ?? 'en'],
                 'meta' => $payload['meta'] ?? [],
                 'questions' => $payload['questions'] ?? [],
                 // Present only on a bundle that includes the key. A paper

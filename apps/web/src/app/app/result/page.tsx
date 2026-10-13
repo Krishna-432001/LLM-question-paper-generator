@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { student, testsApi, type AttemptResult, type PaperLanguage, type Solution } from "@/lib/api";
 import { useI18n } from "@/lib/i18n";
-import { Alternate, versionsOf } from "../paper-language";
+import { MultiText, OptionText, versionsOf } from "../paper-language";
 import { CARD, GHOST, errorText, useQueryParam } from "../student-context";
 
 /**
@@ -96,47 +96,31 @@ export default function ResultPage() {
         <h2 className="font-semibold">{t("result.solutions")}</h2>
         <ol className="mt-3 space-y-4">
           {solutions.map((s) => {
-            const [primary, ...others] = versionsOf(s, languages);
+            // The same languages the paper was taken in; a language with no
+            // text is marked rather than filled with another language.
+            const versions = versionsOf(s, languages);
             const key = s.correct_option;
-            const answerText = key ? primary.options[key] : undefined;
-            const explained = [primary, ...others].some((v) => v.explanation);
+            const explained = versions.some((v) => v.available && v.explanation);
 
             return (
               <li key={s.sequence} className="rounded-xl border border-slate-200 p-4">
-                <p lang={primary.code ?? undefined} className="whitespace-pre-line text-sm leading-relaxed">
+                <p className="whitespace-pre-line text-sm leading-relaxed">
                   <span className="mr-2 font-semibold text-slate-500">{s.sequence}.</span>
-                  {primary.question_text}
-                  {others.map((other) =>
-                    other.question_text && other.question_text !== primary.question_text ? (
-                      <Alternate key={other.code} code={other.code}>
-                        {other.question_text}
-                      </Alternate>
-                    ) : null,
-                  )}
+                  <MultiText versions={versions} field="question_text" />
                 </p>
                 <p className="mt-2 text-sm">
                   <span className="font-semibold text-emerald-700">
                     {t("result.answer")}: {s.correct_option}
                   </span>
-                  {answerText && <span lang={primary.code ?? undefined}> — {answerText}</span>}
-                  {others.map((other) =>
-                    key && other.options[key] && other.options[key] !== answerText ? (
-                      <Alternate key={other.code} code={other.code}>
-                        {other.options[key]}
-                      </Alternate>
-                    ) : null,
+                  {key && (
+                    <span className="ml-1 inline-block align-top">
+                      — <OptionText versions={versions} optionKey={key} />
+                    </span>
                   )}
                 </p>
                 {explained && (
-                  <p lang={primary.code ?? undefined} className="mt-1 text-sm text-slate-600">
-                    {primary.explanation}
-                    {others.map((other) =>
-                      other.explanation && other.explanation !== primary.explanation ? (
-                        <Alternate key={other.code} code={other.code}>
-                          {other.explanation}
-                        </Alternate>
-                      ) : null,
-                    )}
+                  <p className="mt-1 whitespace-pre-line text-sm text-slate-600">
+                    <MultiText versions={versions} field="explanation" />
                   </p>
                 )}
                 {s.sources.map((src, i) => (

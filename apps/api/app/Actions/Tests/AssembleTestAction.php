@@ -6,12 +6,14 @@ namespace App\Actions\Tests;
 
 use App\Domain\Pyq\PyqAnalyzer;
 use App\Domain\Tests\DTOs\SelectionSpec;
+use App\Domain\Tests\PaperText;
 use App\Domain\Tests\SelectionEngine;
 use App\Models\Language;
 use App\Models\Question;
 use App\Models\Test;
 use App\Models\TestQuestion;
 use App\Models\TopicMastery;
+use Illuminate\Database\Eloquent\Collection as EloquentCollection;
 use Illuminate\Support\Facades\DB;
 use Symfony\Component\HttpKernel\Exception\UnprocessableEntityHttpException;
 
@@ -52,6 +54,10 @@ final class AssembleTestAction
         return DB::transaction(function () use ($attributes, $selection, $spec): Test {
             $questions = $selection['questions'];
 
+            // Every translation row, so each paper language can be pinned to
+            // the row it is assembled from.
+            (new EloquentCollection($questions->all()))->load('translations');
+
             $test = Test::query()->create([
                 'organization_id' => $attributes['organization_id'] ?? null,
                 'created_by' => $attributes['user_id'] ?? null,
@@ -83,7 +89,14 @@ final class AssembleTestAction
                     // Pinned so a later edit cannot change a paper already
                     // handed out.
                     'question_version' => $question->current_version,
-                    'question_translation_id' => $question->translationIn($spec->languageId)?->getKey(),
+                    // The rows each language is printed from. The runner, the
+                    // solutions and every document read these pins, so what
+                    // a student answered and what was printed cannot drift
+                    // apart when a translation is later revised.
+                    'question_translation_id' => PaperText::usableTranslation($question, $spec->languageId)?->getKey(),
+                    'secondary_question_translation_id' => $spec->secondaryLanguageId === null
+                        ? null
+                        : PaperText::usableTranslation($question, $spec->secondaryLanguageId)?->getKey(),
                     'sequence' => $sequence++,
                     'marks' => (float) ($attributes['marks_per_question'] ?? 1),
                 ]);
@@ -121,7 +134,9 @@ final class AssembleTestAction
     {
         return new SelectionSpec(
             testType: $attributes['type'] ?? 'custom',
-            languageId: $attributes['language_id'],
+            // Lower-cased: PHP compares uuids as strings, Postgres does not,
+            // and the two must agree on whether two ids are the same.
+            languageId: strtolower((string) $attributes['language_id']),
             questionCount: (int) ($attributes['question_count'] ?? 0),
             examId: $attributes['exam_id'] ?? null,
             userId: $attributes['user_id'] ?? null,
@@ -162,13 +177,13 @@ final class AssembleTestAction
             return null;
         }
 
-        $secondary = (string) ($attributes['secondary_language_id'] ?? '');
+        $secondary = strtolower((string) ($attributes['secondary_language_id'] ?? ''));
 
         if ($secondary === '') {
             throw new UnprocessableEntityHttpException('A bilingual paper needs a second language (secondary_language_id).');
         }
 
-        if ($secondary === (string) $attributes['language_id']) {
+        if ($secondary === strtolower((string) $attributes['language_id'])) {
             throw new UnprocessableEntityHttpException("A bilingual paper's second language must differ from its main language.");
         }
 

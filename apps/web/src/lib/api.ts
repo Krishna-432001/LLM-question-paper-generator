@@ -1143,4 +1143,9 @@ export interface QuestionText {
   question_text: string | null;
   options: Record<string, string>;
   explanation?: string | null;
+  /**
+   * False when the paper has no printable text in this language. The text is
+   * then null — never another language's text under this language's code.
+   */
+  available?: boolean;
 }

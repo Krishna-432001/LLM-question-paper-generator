@@ -421,6 +421,285 @@ final class PaperLanguageModeTest extends TestCase
             ->assertJsonPath('detail', fn (string $d): bool => str_contains($d, 'must differ'));
     }
 
+    public function test_a_stale_translation_does_not_turn_a_tamil_paper_english(): void
+    {
+        $this->translateToTamil(range(0, 7));
+        $testId = $this->createTest(['language_id' => $this->tamil->getKey()])->assertCreated()->json('data.id');
+        $first = $this->firstQuestionOf($testId);
+
+        // Any edit to the English master marks every translation STALE.
+        $this->reviseTamil($first, ['translation_status' => 'STALE']);
+
+        $paper = $this->render($testId, 'question_paper');
+        $attempt = $this->actingAs($this->student)->postJson("/api/v1/tests/{$testId}/attempt")->assertCreated()->json('data');
+
+        // The paper prints the Tamil it was assembled with, not the English
+        // master filed under Tamil — and the runner shows the same words.
+        $this->assertStringStartsWith('தமிழ் வினா', $paper->render_payload['questions'][0]['text']);
+        $this->assertSame($paper->render_payload['questions'][0]['text'], $attempt['questions'][0]['question_text']);
+    }
+
+    public function test_a_revised_translation_rebuilds_the_paper_and_the_runner_agrees(): void
+    {
+        $this->translateToTamil(range(0, 7));
+        $testId = $this->createTest(['language_id' => $this->tamil->getKey()])->assertCreated()->json('data.id');
+        $first = $this->firstQuestionOf($testId);
+
+        $before = $this->render($testId, 'question_paper');
+
+        $this->reviseTamil($first, [
+            'question_text' => 'திருத்திய தமிழ் வினா: எந்தச் செயல்முறை நடைபெறுகிறது?',
+            'translation_status' => 'HUMAN_APPROVED',
+        ]);
+
+        $after = $this->render($testId, 'question_paper');
+        $attempt = $this->actingAs($this->student)->postJson("/api/v1/tests/{$testId}/attempt")->assertCreated()->json('data');
+
+        // The stored file is not reused once the words it printed changed.
+        $this->assertNotSame($before->content_hash, $after->content_hash);
+        $this->assertNotSame($before->getKey(), $after->getKey());
+        $this->assertStringStartsWith('திருத்திய', $after->render_payload['questions'][0]['text']);
+        $this->assertStringStartsWith('திருத்திய', $attempt['questions'][0]['question_text']);
+    }
+
+    public function test_retranslation_keeps_an_assembled_paper_as_it_was(): void
+    {
+        $this->translateToTamil(range(0, 7));
+        $testId = $this->createTest([
+            'language_id' => $this->english->getKey(),
+            'language_mode' => 'bilingual',
+            'secondary_language_id' => $this->tamil->getKey(),
+        ])->assertCreated()->json('data.id');
+        $first = $this->firstQuestionOf($testId);
+        $original = $this->tamilRowOf($first);
+
+        // Both languages are pinned to the rows the paper was assembled from.
+        $this->assertSame($original->getKey(), $first->secondary_question_translation_id);
+
+        // Re-translation writes a new version and retires the old one.
+        TenantContext::withoutTenancy(function () use ($first, $original): void {
+            QuestionTranslation::query()->create([
+                'question_id' => $first->question_id,
+                'language_id' => $this->tamil->getKey(),
+                'is_master' => false,
+                'translation_version' => 2,
+                'question_text' => 'புதிய பதிப்பு வினா',
+                'option_a' => 'புதிய அ', 'option_b' => 'புதிய ஆ', 'option_c' => 'புதிய இ', 'option_d' => 'புதிய ஈ',
+                'translation_status' => 'HUMAN_APPROVED',
+            ]);
+            $original->forceFill(['translation_status' => 'STALE'])->save();
+        });
+
+        $paper = $this->render($testId, 'question_paper');
+        $attempt = $this->actingAs($this->student)->postJson("/api/v1/tests/{$testId}/attempt")->assertCreated()->json('data');
+
+        $this->assertSame($original->question_text, $paper->render_payload['questions'][0]['texts']['ta']['text']);
+        $this->assertSame($original->question_text, $attempt['questions'][0]['texts']['ta']['question_text']);
+    }
+
+    public function test_a_language_with_nothing_printable_is_marked_unavailable_not_filled_with_english(): void
+    {
+        $this->translateToTamil(range(0, 7));
+        $testId = $this->createTest([
+            'language_id' => $this->english->getKey(),
+            'language_mode' => 'bilingual',
+            'secondary_language_id' => $this->tamil->getKey(),
+        ])->assertCreated()->json('data.id');
+        $first = $this->firstQuestionOf($testId);
+        $english = TenantContext::withoutTenancy(fn () => QuestionTranslation::query()
+            ->where('question_id', $first->question_id)->where('is_master', true)->value('question_text'));
+
+        // A reviewer rejects the only Tamil this question had.
+        $this->reviseTamil($first, ['translation_status' => 'REJECTED']);
+
+        $question = $this->actingAs($this->student)->postJson("/api/v1/tests/{$testId}/attempt")
+            ->assertCreated()->json('data.questions.0');
+
+        $this->assertSame($english, $question['texts']['en']['question_text']);
+        $this->assertTrue($question['texts']['en']['available']);
+        $this->assertNull($question['texts']['ta']['question_text']);
+        $this->assertFalse($question['texts']['ta']['available']);
+
+        $paper = $this->render($testId, 'question_paper');
+        $this->assertFalse($paper->render_payload['questions'][0]['texts']['ta']['available']);
+        $this->assertNull($paper->render_payload['questions'][0]['texts']['ta']['text']);
+
+        // In a Tamil-only paper the gap is marked in print rather than
+        // replaced by English under a Tamil heading.
+        $tamilOnly = $this->createTest(['language_id' => $this->tamil->getKey(), 'question_count' => 5])
+            ->assertCreated()->json('data.id');
+        $rejected = $this->firstQuestionOf($tamilOnly);
+        $this->reviseTamil($rejected, ['translation_status' => 'REJECTED']);
+
+        $composed = TenantContext::withoutTenancy(
+            fn () => app(DocumentComposer::class)->questionPaper(Test::query()->findOrFail($tamilOnly), 'QP-TEST'),
+        );
+        $master = TenantContext::withoutTenancy(fn () => QuestionTranslation::query()
+            ->where('question_id', $rejected->question_id)->where('is_master', true)->value('question_text'));
+
+        $this->assertNull($composed['payload']['questions'][0]['text']);
+        $this->assertStringContainsString('தமிழ் மொழிபெயர்ப்பு கிடைக்கவில்லை', $composed['html']);
+        $this->assertStringNotContainsString(e($master), $composed['html']);
+    }
+
+    public function test_language_ids_differing_only_in_letter_case_are_the_same_language(): void
+    {
+        $this->translateToTamil(range(0, 7));
+
+        // Postgres reads these as one uuid; PHP used to read them as two, and
+        // the request then failed the database's own check as a 500.
+        $this->createTest([
+            'language_mode' => 'bilingual',
+            'secondary_language_id' => strtoupper($this->english->getKey()),
+        ])
+            ->assertStatus(422)
+            ->assertJsonValidationErrors('secondary_language_id');
+
+        $this->createTest([
+            'language_id' => strtoupper($this->english->getKey()),
+            'language_mode' => 'bilingual',
+            'secondary_language_id' => $this->tamil->getKey(),
+        ])->assertCreated();
+
+        [$admin, $book] = $this->adminWithBook();
+
+        $this->actingAs($admin)
+            ->postJson("/api/v1/sources/{$book->getKey()}/paper", [
+                'language_mode' => 'bilingual',
+                'secondary_language_id' => strtoupper($this->english->getKey()),
+            ])
+            ->assertStatus(422)
+            ->assertJsonPath('detail', fn (string $d): bool => str_contains($d, 'must differ'));
+    }
+
+    public function test_long_questions_may_break_across_pages_and_the_first_starts_on_page_one(): void
+    {
+        $this->translateToTamil(range(0, 7));
+        $testId = $this->createTest(['question_count' => 5])->assertCreated()->json('data.id');
+        $long = $this->firstQuestionOf($testId, sequence: 3);
+
+        TenantContext::withoutTenancy(fn () => QuestionTranslation::query()
+            ->where('question_id', $long->question_id)->where('is_master', true)
+            ->update(['question_text' => implode("\n", array_map(
+                fn (int $n): string => "Statement {$n}: a long passage line describing the specimen in considerable detail for reading.",
+                range(1, 40),
+            ))]));
+
+        $html = TenantContext::withoutTenancy(
+            fn () => app(DocumentComposer::class)->questionPaper(Test::query()->findOrFail($testId), 'QP-TEST')['html'],
+        );
+
+        preg_match_all('/<table class="(q[^"]*)"[^>]*>(.*?)<\/table>/s', $html, $items, PREG_SET_ORDER);
+        $classes = array_map(fn (array $m): string => $m[1], $items);
+
+        $this->assertCount(5, $items);
+        // The first question starts under the instructions, not on page two.
+        $this->assertSame('q', $classes[0]);
+        // A question longer than half a page may break between its rows...
+        $this->assertSame('q', $classes[2]);
+        // ...and has rows to break between: one per line of the passage.
+        $this->assertGreaterThanOrEqual(40, substr_count($items[2][2], '<tr>'));
+        // Short questions are still kept on one page.
+        $this->assertSame('q keep', $classes[1]);
+        $this->assertSame('q keep', $classes[4]);
+
+        // And the renderer lets a kept question that cannot fit a page break
+        // rather than shrinking it.
+        $config = (new \ReflectionMethod(\App\Infrastructure\Pdf\MpdfRenderer::class, 'config'))
+            ->invoke(new \App\Infrastructure\Pdf\MpdfRenderer(sys_get_temp_dir()), []);
+        $this->assertTrue($config['tableMinSizePriority']);
+    }
+
+    public function test_key_explanation_and_docx_headings_follow_the_paper_language(): void
+    {
+        $this->translateToTamil(range(0, 7));
+        $tamil = $this->createTest(['language_id' => $this->tamil->getKey(), 'duration_minutes' => 30])
+            ->assertCreated()->json('data.id');
+        $both = $this->createTest([
+            'language_id' => $this->tamil->getKey(),
+            'language_mode' => 'bilingual',
+            'secondary_language_id' => $this->english->getKey(),
+        ])->assertCreated()->json('data.id');
+
+        $key = $this->render($tamil, 'answer_key');
+        $explanations = $this->render($tamil, 'explanations');
+
+        $this->assertStringEndsWith('விடைக்குறிப்பு', $key->title);
+        $this->assertStringNotContainsString('Answer Key', $key->title);
+        $this->assertStringEndsWith('விளக்கங்கள்', $explanations->title);
+        $this->assertStringEndsWith('விடைக்குறிப்பு / Answer Key', $this->render($both, 'answer_key')->title);
+
+        $docx = $this->render($tamil, 'question_paper', 'docx');
+        $xml = $this->docxText(Storage::disk('local')->get($docx->storage_path));
+
+        $this->assertStringContainsString('நேரம்', $xml);
+        $this->assertStringContainsString('விடைக்குறிப்பு', $xml);
+        $this->assertStringNotContainsString('Time:', $xml);
+    }
+
+    public function test_the_json_export_states_its_languages_and_their_order(): void
+    {
+        $this->translateToTamil(range(0, 7));
+        $testId = $this->createTest([
+            'language_id' => $this->tamil->getKey(),
+            'language_mode' => 'bilingual',
+            'secondary_language_id' => $this->english->getKey(),
+        ])->assertCreated()->json('data.id');
+
+        $json = json_decode(
+            Storage::disk('local')->get($this->render($testId, 'question_paper', 'json')->storage_path),
+            true,
+        );
+
+        $this->assertSame('bilingual', $json['language_mode']);
+        $this->assertSame(['ta', 'en'], $json['languages']);
+    }
+
+    private function render(string $testId, string $type, string $format = 'pdf'): GeneratedDocument
+    {
+        // A fresh model each time, as a request would load it.
+        return TenantContext::withoutTenancy(
+            fn () => app(RenderDocumentAction::class)->execute(Test::query()->findOrFail($testId), $type, null, $format),
+        );
+    }
+
+    private function firstQuestionOf(string $testId, int $sequence = 1): TestQuestion
+    {
+        return TenantContext::withoutTenancy(
+            fn () => TestQuestion::query()->where('test_id', $testId)->where('sequence', $sequence)->firstOrFail(),
+        );
+    }
+
+    private function tamilRowOf(TestQuestion $testQuestion): QuestionTranslation
+    {
+        return TenantContext::withoutTenancy(fn () => QuestionTranslation::query()
+            ->where('question_id', $testQuestion->question_id)
+            ->where('language_id', $this->tamil->getKey())
+            ->orderBy('translation_version')
+            ->firstOrFail());
+    }
+
+    /** @param  array<string, mixed>  $attributes */
+    private function reviseTamil(TestQuestion $testQuestion, array $attributes): void
+    {
+        $row = $this->tamilRowOf($testQuestion);
+
+        TenantContext::withoutTenancy(fn () => $row->forceFill($attributes)->save());
+    }
+
+    private function docxText(string $bytes): string
+    {
+        $path = tempnam(sys_get_temp_dir(), 'ef-docx-test-');
+        file_put_contents($path, $bytes);
+        $zip = new \ZipArchive;
+        $zip->open($path);
+        $xml = (string) $zip->getFromName('word/document.xml');
+        $zip->close();
+        @unlink($path);
+
+        return $xml;
+    }
+
     /** @param  array<string, mixed>  $overrides */
     private function createTest(array $overrides = []): \Illuminate\Testing\TestResponse
     {

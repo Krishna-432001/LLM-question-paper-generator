@@ -1,9 +1,9 @@
 "use client";
 
 import { useState, type ReactNode } from "react";
-import type { LanguageMode, PaperLanguage, QuestionText } from "@/lib/api";
+import { ApiError, type LanguageMode, type PaperLanguage, type QuestionText } from "@/lib/api";
 import { useI18n } from "@/lib/i18n";
-import { useStudent } from "./student-context";
+import { errorText, useStudent } from "./student-context";
 
 /**
  * Which language a new paper is printed in: English, Tamil, or both — each
@@ -58,6 +58,23 @@ export function usePaperLanguage(): {
   return { choice, setChoice: setPicked, request };
 }
 
+/**
+ * The message for a failed test creation. Only the server's refusal of a
+ * bilingual paper — a 422 carrying a detail, not field errors — gets the
+ * "not enough in both languages" line; a dropped connection or a bad
+ * question count must not be blamed on the languages.
+ */
+export function creationErrorText(
+  e: unknown,
+  choice: PaperChoice,
+  t: (key: "paper.notEnoughBoth" | "tests.noQuestions") => string,
+): string {
+  const detail = errorText(e, t("tests.noQuestions"));
+  const bilingualRefusal = choice === "both" && e instanceof ApiError && e.status === 422 && !e.errors;
+
+  return bilingualRefusal ? `${t("paper.notEnoughBoth")} (${detail})` : detail;
+}
+
 export function PaperLanguagePicker({
   value,
   onChange,
@@ -96,18 +113,26 @@ export function PaperLanguagePicker({
   );
 }
 
+export type Version = QuestionText & { code: string | null; available: boolean };
+
 /**
  * A question's wording in print order: the primary first, then any other
  * language of the paper. Falls back to the single-language fields an older
  * server sends, so the runner never shows a blank question.
  */
 export function versionsOf(
-  item: { question_text: string | null; options?: Record<string, string> | null; explanation?: string | null; texts?: Record<string, QuestionText> },
+  item: {
+    question_text: string | null;
+    options?: Record<string, string> | null;
+    explanation?: string | null;
+    texts?: Record<string, QuestionText>;
+  },
   languages: PaperLanguage[] | undefined,
-): Array<QuestionText & { code: string | null }> {
-  const fromTexts = (languages ?? [])
-    .map((l) => (item.texts?.[l.code] ? { ...item.texts[l.code], code: l.code } : null))
-    .filter((v): v is QuestionText & { code: string } => v !== null);
+): Version[] {
+  const fromTexts = (languages ?? []).flatMap((l) => {
+    const text = item.texts?.[l.code];
+    return text ? [{ ...text, code: l.code, available: text.available !== false }] : [];
+  });
 
   if (fromTexts.length > 0) return fromTexts;
 
@@ -117,8 +142,79 @@ export function versionsOf(
       question_text: item.question_text,
       options: item.options ?? {},
       explanation: item.explanation,
+      available: true,
     },
   ];
+}
+
+/**
+ * One field across a paper's languages: the first language that has it in
+ * full, any other beneath it in the lighter style, and — for the question
+ * itself — a visible note where a language has no text, rather than another
+ * language's text passed off as it.
+ */
+export function MultiText({ versions, field }: { versions: Version[]; field: "question_text" | "explanation" }) {
+  const { t } = useI18n();
+  const leadIndex = versions.findIndex((v) => v.available && (v[field] ?? "") !== "");
+  const lead = leadIndex >= 0 ? (versions[leadIndex][field] ?? "") : "";
+
+  return (
+    <>
+      {versions.map((v, i) => {
+        const key = `${v.code ?? "x"}-${i}`;
+
+        if (!v.available) {
+          return field === "question_text" ? (
+            <span key={key} className="mt-0.5 block text-[0.85em] italic text-amber-700">
+              {languageLabel(v.code ? [v.code] : [])} — {t("paper.unavailable")}
+            </span>
+          ) : null;
+        }
+
+        const text = v[field] ?? "";
+        if (i === leadIndex) {
+          return (
+            <span key={key} lang={v.code ?? undefined}>
+              {text}
+            </span>
+          );
+        }
+        if (text === "" || text === lead) return null;
+
+        return (
+          <Alternate key={key} code={v.code}>
+            {text}
+          </Alternate>
+        );
+      })}
+    </>
+  );
+}
+
+/** Option letters across every language that has text, in order. */
+export function optionKeysOf(versions: Version[]): string[] {
+  return [...new Set(versions.filter((v) => v.available).flatMap((v) => Object.keys(v.options ?? {})))].sort();
+}
+
+/** One option's text: the first language that has it, others beneath. */
+export function OptionText({ versions, optionKey }: { versions: Version[]; optionKey: string }) {
+  const shown = versions.filter((v) => v.available && (v.options?.[optionKey] ?? "") !== "");
+  const [lead, ...rest] = shown;
+  if (!lead) return null;
+  const leadText = lead.options[optionKey];
+
+  return (
+    <span lang={lead.code ?? undefined}>
+      {leadText}
+      {rest.map((other) =>
+        other.options[optionKey] !== leadText ? (
+          <Alternate key={other.code} code={other.code}>
+            {other.options[optionKey]}
+          </Alternate>
+        ) : null,
+      )}
+    </span>
+  );
 }
 
 /** The second language of a bilingual paper, set lighter beneath the first. */
