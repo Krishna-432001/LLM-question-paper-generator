@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Http\Controllers\Api\V1;
 
 use App\Actions\Jobs\DispatchTrackedJobAction;
+use App\Domain\PracticePapers\PracticePaper;
 use App\Domain\Questions\TargetPlanner;
 use App\Domain\Tenancy\TenantContext;
 use App\Http\Controllers\Controller;
@@ -100,6 +101,8 @@ final class QuestionController extends Controller
     public function index(Request $request): JsonResponse
     {
         $questions = Question::query()
+            // A student's uploaded practice paper, answers included, is theirs alone.
+            ->tap(fn ($q) => PracticePaper::hidePrivateQuestions($q, $request->user()))
             ->with(['options', 'master', 'sources'])
             ->when($request->filled('status'), fn ($q) => $q->where('status', $request->string('status')))
             // Scoped to one book: the admin console reviews what a single
@@ -120,6 +123,7 @@ final class QuestionController extends Controller
     public function show(string $questionId): JsonResponse
     {
         $question = Question::query()
+            ->tap(fn ($q) => PracticePaper::hidePrivateQuestions($q, request()->user()))
             ->with(['options', 'translations', 'sources.chunk', 'validations'])
             ->findOrFail($questionId);
 

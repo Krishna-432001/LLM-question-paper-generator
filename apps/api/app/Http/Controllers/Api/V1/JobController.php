@@ -6,6 +6,7 @@ namespace App\Http\Controllers\Api\V1;
 
 use App\Http\Controllers\Controller;
 use App\Models\AiJob;
+use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 
@@ -18,7 +19,7 @@ final class JobController extends Controller
 {
     public function index(Request $request): JsonResponse
     {
-        $jobs = AiJob::query()
+        $jobs = $this->visible($request)
             ->when($request->filled('type'), fn ($q) => $q->where('type', $request->string('type')))
             ->when($request->filled('status'), fn ($q) => $q->where('status', $request->string('status')))
             ->whereNull('parent_job_id')
@@ -29,9 +30,9 @@ final class JobController extends Controller
         return response()->json(['data' => $jobs->map($this->shape(...))->all()]);
     }
 
-    public function show(string $jobId): JsonResponse
+    public function show(Request $request, string $jobId): JsonResponse
     {
-        $job = AiJob::query()->with('children')->findOrFail($jobId);
+        $job = $this->visible($request)->with('children')->findOrFail($jobId);
 
         return response()->json([
             'data' => $this->shape($job) + [
@@ -45,15 +46,32 @@ final class JobController extends Controller
         ]);
     }
 
-    public function cancel(string $jobId): JsonResponse
+    public function cancel(Request $request, string $jobId): JsonResponse
     {
-        $job = AiJob::query()->findOrFail($jobId);
+        $job = $this->visible($request)->findOrFail($jobId);
 
         abort_if($job->isFinished(), 409, 'This job has already finished.');
 
         $job->cancel();
 
         return response()->json(['data' => $this->shape($job->fresh())]);
+    }
+
+    /**
+     * Staff see the organization's jobs; a student sees their own. A job's
+     * input and output can name someone else's upload and what was read
+     * from it, which is theirs.
+     *
+     * @return Builder<AiJob>
+     */
+    private function visible(Request $request): Builder
+    {
+        $user = $request->user();
+
+        return AiJob::query()->when(
+            ! ($user->isPlatformAdmin() || $user->can('sources.view')),
+            fn (Builder $q) => $q->where('user_id', $user->getKey()),
+        );
     }
 
     /** @return array<string, mixed> */

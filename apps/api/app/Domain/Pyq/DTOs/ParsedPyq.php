@@ -12,6 +12,10 @@ namespace App\Domain\Pyq\DTOs;
  * each version the parser could read in full, keyed by language code with the
  * first-printed one first. A question printed once has one entry, so callers
  * can always iterate it without special-casing monolingual papers.
+ *
+ * `number` is the number printed in the paper. A paper in parts that each
+ * start again at 1 has its parts told apart by `section`, counted from 1, so
+ * an answer key can still be matched to the right "question 3".
  */
 final class ParsedPyq
 {
@@ -29,6 +33,7 @@ final class ParsedPyq
         public readonly ?string $correctOption,
         public readonly string $language = 'en',
         array $translations = [],
+        public readonly int $section = 1,
     ) {
         $this->translations = $translations !== []
             ? $translations
@@ -44,6 +49,20 @@ final class ParsedPyq
             $option,
             $this->language,
             $this->translations,
+            $this->section,
+        );
+    }
+
+    public function inSection(int $section): self
+    {
+        return new self(
+            $this->number,
+            $this->stem,
+            $this->options,
+            $this->correctOption,
+            $this->language,
+            $this->translations,
+            $section,
         );
     }
 

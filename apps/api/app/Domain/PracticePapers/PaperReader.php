@@ -110,9 +110,7 @@ final class PaperReader
             pages: $reading->pages,
             warnings: [
                 ...$reading->warnings,
-                'OCR was unsure of page '.implode(', ', $doubtful)
-                    .'. Check the questions from '.(count($doubtful) === 1 ? 'that page' : 'those pages')
-                    .' against the printed paper before trusting a score.',
+                PaperWarning::make('ocr_unsure', ['pages' => implode(', ', $doubtful)]),
             ],
             looksScanned: $reading->looksScanned,
             ocr: true,
@@ -123,7 +121,8 @@ final class PaperReader
     private function read(array $pages, bool $ocr): PaperReading
     {
         $normalized = $this->normalizer->normalizePages(array_map($this->keepQuestionNumbers(...), $pages));
-        $questions = $this->parser->parse($normalized);
+        $paper = $this->parser->read($normalized);
+        $questions = $paper->questions;
 
         $blank = [];
         $characters = 0;
@@ -137,14 +136,18 @@ final class PaperReader
             }
         }
 
-        $warnings = [];
+        // What the parser noticed: parts numbered separately, a key that
+        // could only be matched to some of them.
+        $warnings = array_map(
+            static fn (array $note): array => PaperWarning::make($note['code'], $note['params']),
+            $paper->notes,
+        );
 
         // Some pages read and some did not: a paper partly scanned, or with
         // its last pages as images. Whatever was on them is missing, and the
         // student should know before they wonder where question 80 went.
         if ($questions !== [] && $blank !== [] && count($blank) < count($normalized)) {
-            $warnings[] = 'Page '.implode(', ', $blank).' had no readable text, so any questions on '
-                .(count($blank) === 1 ? 'it were' : 'them were').' not read.';
+            $warnings[] = PaperWarning::make('pages_unreadable', ['pages' => implode(', ', $blank)]);
         }
 
         return new PaperReading(

@@ -35,15 +35,23 @@ final class OcrPracticePaper extends TrackedJob
         app(SourceScanner::class)->ensureScanned($source);
         $source->refresh();
 
-        $job->progressTo(10, 'Reading the scanned pages…');
-        $reading = app(PaperReader::class)->fromOcr($source);
+        try {
+            $job->progressTo(10, 'Reading the scanned pages…');
+            $reading = app(PaperReader::class)->fromOcr($source);
 
-        if ($reading->questions === []) {
-            throw PracticePaperException::noQuestions(afterOcr: true);
+            if ($reading->questions === []) {
+                throw PracticePaperException::noQuestions(afterOcr: true);
+            }
+
+            $job->progressTo(90, 'Building the test…');
+
+            return app(BuildPracticeTestAction::class)->execute($source, $reading, $settings);
+        } catch (PracticePaperException $e) {
+            // The job ledger keeps only the exception's class as its error
+            // code; the reason the page translates is kept beside it.
+            $job->forceFill(['output' => ['error' => ['code' => $e->reason, 'message' => $e->getMessage()]]])->save();
+
+            throw $e;
         }
-
-        $job->progressTo(90, 'Building the test…');
-
-        return app(BuildPracticeTestAction::class)->execute($source, $reading, $settings);
     }
 }

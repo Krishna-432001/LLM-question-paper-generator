@@ -6,6 +6,7 @@ namespace App\Http\Controllers\Api\V1;
 
 use App\Actions\Tests\AssembleTestAction;
 use App\Actions\Tests\EvaluateAttemptAction;
+use App\Domain\PracticePapers\PracticePaper;
 use App\Domain\Tenancy\TenantContext;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Tests\CreateTestRequest;
@@ -134,9 +135,15 @@ final class TestController extends Controller
         $attempt = TestAttempt::query()->findOrFail($attemptId);
 
         // Another student's solutions reveal their answers; only the student
-        // and those who assign tests (teachers, admins) may see them.
+        // and those who assign tests (teachers, admins) may see them. A
+        // practice paper someone uploaded is not a test anyone assigned, so
+        // there it is the uploader (or a platform admin) only.
+        $practice = $attempt->test !== null && PracticePaper::is($attempt->test);
         abort_unless(
-            $attempt->user_id === app(TenantContext::class)->userId || $request->user()->can('tests.create.org'),
+            $attempt->user_id === app(TenantContext::class)->userId
+                || ($practice
+                    ? PracticePaper::canManage($attempt->test, $request->user())
+                    : $request->user()->can('tests.create.org')),
             404,
             'Not found',
         );
@@ -169,6 +176,13 @@ final class TestController extends Controller
     private function assertCanUse(Test $test): void
     {
         $user = request()->user();
+
+        // An uploaded practice paper is its uploader's, whatever role is asking.
+        if (PracticePaper::is($test)) {
+            abort_unless($user !== null && PracticePaper::canManage($test, $user), 404, 'Not found');
+
+            return;
+        }
 
         abort_unless(
             $test->created_by === $user?->getKey()

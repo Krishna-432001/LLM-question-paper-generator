@@ -101,7 +101,7 @@ final class PracticePaperController extends Controller
                 language: $request->filled('language') ? $request->string('language')->toString() : null,
             );
         } catch (PracticePaperException $e) {
-            abort(422, $e->getMessage());
+            return $this->problem($request, $e);
         }
 
         if ($result['status'] === 'queued') {
@@ -132,7 +132,7 @@ final class PracticePaperController extends Controller
         try {
             $result = $setKey->execute($test, $key);
         } catch (PracticePaperException $e) {
-            abort(422, $e->getMessage());
+            return $this->problem($request, $e);
         }
 
         return response()->json(['data' => $result]);
@@ -164,6 +164,23 @@ final class PracticePaperController extends Controller
                 'scored' => $result === null ? null : $result->total_questions - (int) $result->unscored,
             ],
         ]);
+    }
+
+    /**
+     * The same RFC 7807 shape every API error has, plus `code`: the student
+     * app shows these in Tamil as well as English, and translates by code.
+     */
+    private function problem(Request $request, PracticePaperException $e): JsonResponse
+    {
+        return response()->json([
+            'type' => 'https://api.examforge.in/problems/practice-paper',
+            'title' => 'Request cannot be processed',
+            'status' => 422,
+            'detail' => $e->getMessage(),
+            'code' => $e->reason,
+            'instance' => $request->path(),
+            'meta' => ['request_id' => (string) $request->header('X-Request-Id', (string) Str::uuid7())],
+        ], 422);
     }
 
     private function paperFor(Request $request, string $testId): Test

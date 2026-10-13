@@ -38,53 +38,70 @@ final class SetAnswerKeyAction
      */
     public function execute(Test $test, string|array $key): array
     {
-        $answers = is_string($key) ? $this->parser->readAnswerKey($key) : $this->fromMap($key);
+        // A paper in parts that each start at 1 takes a key that starts again
+        // at 1 for each part, matched to the parts in order. A map names
+        // numbers only, so it answers the first part.
+        $keySections = is_string($key)
+            ? $this->parser->readAnswerKeySections($key)
+            : [$this->fromMap($key)];
+        $keySections = array_values(array_filter($keySections));
 
-        if ($answers === []) {
+        if ($keySections === []) {
             throw PracticePaperException::unreadableKey();
         }
 
         $numbers = PracticePaper::questionNumbers($test);
+        $sectionOf = PracticePaper::questionSections($test);
+        $paperSections = max([1, ...array_values($sectionOf)]);
         $byNumber = [];
 
         foreach ($test->questions()->with('question.options')->get() as $testQuestion) {
-            $byNumber[$numbers[$testQuestion->sequence] ?? $testQuestion->sequence] = $testQuestion->question;
+            $sequence = $testQuestion->sequence;
+            $byNumber[$sectionOf[$sequence] ?? 1][$numbers[$sequence] ?? $sequence] = $testQuestion->question;
         }
+
+        $answers = $paperSections === 1
+            ? [1 => array_replace(...$keySections)]
+            : array_combine(range(1, count($keySections)), $keySections);
+        $entries = array_sum(array_map('count', $answers));
 
         $updated = [];
         $unchanged = 0;
         $unmatched = [];
 
-        DB::transaction(function () use ($answers, $byNumber, &$updated, &$unchanged, &$unmatched, $test): void {
-            foreach ($answers as $number => $option) {
-                $question = $byNumber[$number] ?? null;
+        DB::transaction(function () use ($answers, $byNumber, $paperSections, $entries, &$updated, &$unchanged, &$unmatched, $test): void {
+            foreach ($answers as $section => $entriesInSection) {
+                foreach ($entriesInSection as $number => $option) {
+                    $label = $paperSections > 1 ? "{$section}.{$number}" : $number;
+                    $question = $byNumber[$section][$number] ?? null;
 
-                if ($question === null || $question->origin !== 'previous_paper') {
-                    $unmatched[] = $number;
+                    if ($question === null || $question->origin !== 'previous_paper') {
+                        $unmatched[] = $label;
 
-                    continue;
+                        continue;
+                    }
+
+                    if ($question->correctOptionKey() === $option) {
+                        $unchanged++;
+
+                        continue;
+                    }
+
+                    // Cleared then set inside one transaction: the one-correct-
+                    // option trigger is deferred to commit, so it only ever sees
+                    // the finished state.
+                    QuestionOption::query()->where('question_id', $question->getKey())->update(['is_correct' => false]);
+                    QuestionOption::query()
+                        ->where('question_id', $question->getKey())
+                        ->where('option_key', $option)
+                        ->update(['is_correct' => true]);
+
+                    $updated[] = $label;
                 }
-
-                if ($question->correctOptionKey() === $option) {
-                    $unchanged++;
-
-                    continue;
-                }
-
-                // Cleared then set inside one transaction: the one-correct-
-                // option trigger is deferred to commit, so it only ever sees
-                // the finished state.
-                QuestionOption::query()->where('question_id', $question->getKey())->update(['is_correct' => false]);
-                QuestionOption::query()
-                    ->where('question_id', $question->getKey())
-                    ->where('option_key', $option)
-                    ->update(['is_correct' => true]);
-
-                $updated[] = $number;
             }
 
             $this->audit->record('practice_paper.answer_key_set', $test, [
-                'entries' => count($answers),
+                'entries' => $entries,
                 'updated' => $updated,
                 'unchanged' => $unchanged,
                 'unmatched' => $unmatched,
@@ -104,6 +121,7 @@ final class SetAnswerKeyAction
             'unmatched' => $unmatched,
             'keyed' => $keyed,
             'question_count' => $test->question_count,
+            'sections' => $paperSections,
             'rescored' => false,
             'message' => 'Answer key saved. Earlier attempts are not re-scored: they keep the marks they were '
                 .'given. Start a new attempt to be scored against this key.',

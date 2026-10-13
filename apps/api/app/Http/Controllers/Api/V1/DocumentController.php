@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Http\Controllers\Api\V1;
 
 use App\Actions\Documents\RenderDocumentAction;
+use App\Domain\PracticePapers\PracticePaper;
 use App\Http\Controllers\Controller;
 use App\Models\GeneratedDocument;
 use App\Models\StudyPlan;
@@ -140,6 +141,11 @@ final class DocumentController extends Controller
 
         if ($user->isPlatformAdmin()) {
             return true;
+        }
+
+        // An uploaded practice paper — and its answer key — is its uploader's alone.
+        if ($subject instanceof Test && PracticePaper::is($subject)) {
+            return PracticePaper::canManage($subject, $user);
         }
 
         return $subject instanceof Test
