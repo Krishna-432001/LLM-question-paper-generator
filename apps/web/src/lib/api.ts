@@ -1218,3 +1218,159 @@ export const practicePapers = {
     api.get<Envelope<AttemptScoring>>(`/practice-papers/attempts/${attemptId}/scoring`),
 };
 // ------------------------------------------------- end practice papers
+
+// ------------------------------------------------------ translation engine
+
+export type TranslationStatus =
+  | "MACHINE"
+  | "AI_VALIDATED"
+  | "NEEDS_REVIEW"
+  | "HUMAN_APPROVED"
+  | "STALE"
+  | "REJECTED";
+
+export interface TranslationStats {
+  language: { id: string; code: string; name: string };
+  exam_id: string | null;
+  approved: number;
+  available: number;
+  mastered_in_language: number;
+  translated_usable: number;
+  needs_translation: number;
+  coverage: number;
+  by_status: Record<TranslationStatus, number>;
+  has_prompt: boolean;
+  running_job_id: string | null;
+}
+
+export interface TranslationCheck {
+  passed: boolean;
+  problems?: string[];
+  missing?: Array<{ source: string; expected: string }>;
+  meaning_score?: number | null;
+  expected?: string | null;
+  model_choice?: string | null;
+  skipped?: boolean;
+  script_ratio?: number | null;
+  length_ratio?: number | null;
+  [key: string]: unknown;
+}
+
+export interface TranslationText {
+  question_text: string | null;
+  options: Record<string, string>;
+  explanation: string | null;
+}
+
+export interface TranslationReviewItem {
+  id: string;
+  question_id: string;
+  language: string | null;
+  source_language: string | null;
+  status: TranslationStatus;
+  translation_version: number;
+  source_question_version: number;
+  question_version: number | null;
+  quality_score: number | null;
+  failures: string[];
+  validation_report: {
+    failures?: string[];
+    checks?: Record<string, TranslationCheck>;
+    back_translation?: string | null;
+    notes?: string[];
+    protected_spans?: Array<{ kind: string; text: string }>;
+    [key: string]: unknown;
+  };
+  correct_option: string | null;
+  source: TranslationText;
+  translation: TranslationText;
+  reviewed_by: string | null;
+  reviewed_at: string | null;
+  created_at: string | null;
+}
+
+export interface TranslationJob extends JobRow {
+  output?: {
+    language?: string;
+    requested?: number;
+    translated?: number;
+    validated?: number;
+    needs_review?: number;
+    failed?: number;
+    skipped?: number;
+    errors?: string[];
+  } | null;
+}
+
+export interface GlossaryEntry {
+  id: string;
+  source_language_id: string;
+  target_language_id: string;
+  kind: "term" | "name";
+  domain: string | null;
+  source_term: string;
+  target_term: string;
+  notes: string | null;
+  is_active: boolean;
+  updated_at: string | null;
+}
+
+export interface TranslationEdits {
+  question_text?: string;
+  options?: Partial<Record<"A" | "B" | "C" | "D", string>>;
+  explanation?: string | null;
+}
+
+export const translationsApi = {
+  start: (payload: { language_id: string; exam_id?: string; test_id?: string; question_ids?: string[]; limit?: number }) =>
+    api.post<Envelope<{ job_id: string; status: string; poll_url: string; reused: boolean }>>("/translations", payload),
+  stats: (languageId: string, examId?: string) =>
+    api.get<Envelope<TranslationStats>>(
+      `/translations/stats?language_id=${languageId}${examId ? `&exam_id=${examId}` : ""}`,
+    ),
+  review: (params: { language_id: string; status?: TranslationStatus; exam_id?: string; limit?: number; offset?: number }) => {
+    const query = new URLSearchParams(
+      Object.entries(params)
+        .filter(([, v]) => v !== undefined && v !== "")
+        .map(([k, v]) => [k, String(v)]),
+    );
+    return api.get<Envelope<TranslationReviewItem[]> & { meta: { total: number } }>(`/translations/review?${query}`);
+  },
+  decide: (id: string, payload: { decision: "approve" | "reject"; reason?: string; edits?: TranslationEdits }) =>
+    api.post<Envelope<TranslationReviewItem>>(`/translations/${id}/decide`, payload),
+  job: (id: string) => api.get<Envelope<TranslationJob>>(`/jobs/${id}`),
+};
+
+export const glossaryApi = {
+  list: (params: {
+    source_language_id?: string;
+    target_language_id?: string;
+    q?: string;
+    kind?: "term" | "name";
+    domain?: string;
+    include_inactive?: boolean;
+    limit?: number;
+    offset?: number;
+  }) => {
+    const query = new URLSearchParams(
+      Object.entries(params)
+        .filter(([, v]) => v !== undefined && v !== "" && v !== false)
+        .map(([k, v]) => [k, v === true ? "1" : String(v)]),
+    );
+    return api.get<Envelope<GlossaryEntry[]> & { meta: { total: number; domains: string[] } }>(`/glossary?${query}`);
+  },
+  create: (payload: {
+    source_language_id: string;
+    target_language_id: string;
+    source_term: string;
+    target_term: string;
+    kind?: "term" | "name";
+    domain?: string | null;
+    notes?: string | null;
+  }) => api.post<Envelope<GlossaryEntry>>("/glossary", payload),
+  update: (id: string, payload: Partial<Pick<GlossaryEntry, "source_term" | "target_term" | "kind" | "domain" | "notes" | "is_active">>) =>
+    api.patch<Envelope<GlossaryEntry>>(`/glossary/${id}`, payload),
+  deactivate: (id: string) => api.delete<Envelope<GlossaryEntry>>(`/glossary/${id}`),
+  importCsv: (payload: { source_language_id: string; target_language_id: string; csv: string }) =>
+    api.post<Envelope<{ created: number; updated: number; skipped: number; errors: string[] }>>("/glossary/import", payload),
+};

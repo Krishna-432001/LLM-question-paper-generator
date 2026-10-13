@@ -232,5 +232,29 @@ Route::prefix('v1')->group(function (): void {
             Route::get('attempts/{attempt}/scoring', [\App\Http\Controllers\Api\V1\PracticePaperController::class, 'scoring']);
         });
         // End practice papers.
+
+        /*
+        | ---- Translation engine -------------------------------------------
+        | Approved questions translated master → target directly, checked by
+        | V1–V5, and anything the checks doubt queued for a person. The
+        | glossary is the board's vocabulary the checks enforce; removing a
+        | term deactivates it rather than deleting it.
+        */
+        Route::prefix('translations')->group(function (): void {
+            Route::post('/', [\App\Http\Controllers\Api\V1\TranslationController::class, 'store'])
+                ->middleware('throttle:30,1');
+            Route::get('stats', [\App\Http\Controllers\Api\V1\TranslationController::class, 'stats']);
+            Route::get('review', [\App\Http\Controllers\Api\V1\TranslationController::class, 'review']);
+            Route::post('{translation}/decide', [\App\Http\Controllers\Api\V1\TranslationController::class, 'decide']);
+        });
+        Route::prefix('glossary')->group(function (): void {
+            Route::get('/', [\App\Http\Controllers\Api\V1\GlossaryController::class, 'index']);
+            Route::post('/', [\App\Http\Controllers\Api\V1\GlossaryController::class, 'store']);
+            Route::post('import', [\App\Http\Controllers\Api\V1\GlossaryController::class, 'import'])
+                ->middleware('throttle:30,1');
+            Route::patch('{term}', [\App\Http\Controllers\Api\V1\GlossaryController::class, 'update']);
+            Route::delete('{term}', [\App\Http\Controllers\Api\V1\GlossaryController::class, 'destroy']);
+        });
+        // ---- end translation engine ----------------------------------------
     });
 });
