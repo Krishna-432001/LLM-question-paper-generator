@@ -6,6 +6,7 @@ namespace App\Domain\Tests;
 
 use App\Domain\Tests\DTOs\SelectionSpec;
 use App\Models\Question;
+use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\DB;
 
@@ -116,15 +117,60 @@ final class SelectionEngine
     /**
      * Eligible questions only: approved, mapped to this exam, and actually
      * available in the requested language. A paper that cannot be rendered in
-     * the language the student asked for is not a paper.
+     * the language the student asked for is not a paper — and a bilingual
+     * paper needs every question in both of its languages, or it is a
+     * single-language paper with gaps.
      *
      * @return Collection<int, Question>
      */
     private function candidatePool(SelectionSpec $spec): Collection
     {
+        return $this->eligible($spec)
+            ->availableIn($spec->languageId)
+            ->when($spec->secondaryLanguageId, fn ($q, string $secondary) => $q->availableIn($secondary))
+            ->with('canonicalTopic')
+            ->limit(2000)
+            ->get();
+    }
+
+    /**
+     * How many eligible questions exist in each of the paper's languages and
+     * in both together, before any are chosen.
+     *
+     * This is what a refusal quotes. "Not enough questions" leaves a student
+     * guessing; "40 in English, 12 in Tamil, 12 in both" tells them to ask
+     * for 12 or to drop to one language.
+     *
+     * @return array{primary: int, secondary: int|null, both: int|null}
+     */
+    public function availability(SelectionSpec $spec): array
+    {
+        $primary = $this->eligible($spec)->availableIn($spec->languageId)->count();
+
+        if ($spec->secondaryLanguageId === null) {
+            return ['primary' => $primary, 'secondary' => null, 'both' => null];
+        }
+
+        return [
+            'primary' => $primary,
+            'secondary' => $this->eligible($spec)->availableIn($spec->secondaryLanguageId)->count(),
+            'both' => $this->eligible($spec)
+                ->availableIn($spec->languageId)
+                ->availableIn($spec->secondaryLanguageId)
+                ->count(),
+        ];
+    }
+
+    /**
+     * Everything that makes a question eligible except its language, so the
+     * pool and the availability counts can never disagree about the rest.
+     *
+     * @return Builder<Question>
+     */
+    private function eligible(SelectionSpec $spec): Builder
+    {
         return Question::query()
             ->approved()
-            ->availableIn($spec->languageId)
             ->when($spec->examId, fn ($q) => $q->whereHas(
                 'examMappings',
                 fn ($m) => $m->where('exam_id', $spec->examId)->where('is_active', true),
@@ -136,10 +182,7 @@ final class SelectionEngine
                 'sources',
                 fn ($s) => $s->where('source_id', $spec->sourceId),
             ))
-            ->when($spec->excludeQuestionIds, fn ($q) => $q->whereNotIn('id', $spec->excludeQuestionIds))
-            ->with('canonicalTopic')
-            ->limit(2000)
-            ->get();
+            ->when($spec->excludeQuestionIds, fn ($q) => $q->whereNotIn('id', $spec->excludeQuestionIds));
     }
 
     /**

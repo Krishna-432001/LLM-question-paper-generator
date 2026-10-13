@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Infrastructure\Pdf;
 
 use App\Domain\Documents\Contracts\PdfRenderer;
+use Mpdf\Config\FontVariables;
 use Mpdf\Mpdf;
 use RuntimeException;
 
@@ -92,6 +93,13 @@ final class MpdfRenderer implements PdfRenderer
             // every Tamil glyph, depending on which font it found.
             'autoScriptToLang' => true,
             'autoLangToFont' => true,
+            // FreeSerif has Tamil in its regular face only, so Tamil goes to
+            // a regular-only family and bold or italic Tamil falls back to
+            // upright instead of printing nothing. See UprightTamilFont.
+            'languageToFont' => new UprightTamilFont,
+            // Passing fontdata replaces mPDF's table rather than extending
+            // it, so the defaults are carried over explicitly.
+            'fontdata' => (new FontVariables)->getDefaults()['fontdata'] + UprightTamilFont::fontData(),
         ];
 
         return $config;

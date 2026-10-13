@@ -116,6 +116,8 @@ final class RenderDocumentAction
                 'type' => $type,
                 'format' => $format,
                 'content_hash' => $hash,
+                // Which languages it went out in is part of "what went out".
+                'languages' => $composed['payload']['languages'] ?? null,
             ]);
 
             $document->forceFill([
@@ -185,6 +187,13 @@ final class RenderDocumentAction
         ];
 
         if ($subject instanceof Test) {
+            // The language mode, and the second language with it: a bilingual
+            // paper and a single-language one over the same questions are
+            // different bytes, and serving one for the other hands a student
+            // a paper in the wrong language. The primary is already part of
+            // the hash through $languageId.
+            $parts[] = 'mode:'.($subject->language_mode ?? Test::MODE_SINGLE)
+                .':'.($subject->secondary_language_id ?? '-');
             $subject->loadMissing('questions');
             // Question VERSIONS, not ids: an edited question changes the hash,
             // so the paper is rebuilt rather than silently going out of date.
