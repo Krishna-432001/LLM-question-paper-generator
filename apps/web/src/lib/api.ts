@@ -1144,3 +1144,77 @@ export interface QuestionText {
   options: Record<string, string>;
   explanation?: string | null;
 }
+// ------------------------------------------------- practice papers (PDF to timed test)
+// Appended block owned by the practice-paper feature. Sitting the paper and
+// reading its solutions use testsApi; only upload, list and key live here.
+
+/** What was read from an uploaded paper. Also the output of its OCR job. */
+export interface PracticePaperReport {
+  test_id: string;
+  title: string;
+  question_count: number;
+  duration_minutes: number;
+  parsed: number;
+  skipped: number;
+  keyed: number;
+  pages: number;
+  languages_detected: string[];
+  language: string;
+  ocr: boolean;
+  warnings: string[];
+}
+
+/** A scanned PDF: the paper is being read by OCR; poll the job for the report. */
+export interface PracticePaperQueued {
+  job_id: string;
+  status: "queued";
+  message: string;
+}
+
+export interface PracticePaperRow {
+  test_id: string;
+  title: string;
+  question_count: number;
+  keyed: number;
+  duration_minutes: number | null;
+  languages_detected: string[];
+  skipped: number;
+  created_at: string | null;
+  attempts: number;
+  best_score: number | null;
+  best_accuracy: number | null;
+  open_attempt_id: string | null;
+}
+
+export interface AnswerKeyResult {
+  test_id: string;
+  updated: number;
+  unchanged: number;
+  unmatched: number[];
+  keyed: number;
+  question_count: number;
+  rescored: boolean;
+  message: string;
+}
+
+export interface AttemptScoring {
+  attempt_id: string;
+  submitted: boolean;
+  total_questions: number | null;
+  unscored: number;
+  scored: number | null;
+}
+
+export type PracticePaperJob = JobRow & { output: PracticePaperReport | null };
+
+export const practicePapers = {
+  list: () => api.get<Envelope<PracticePaperRow[]>>("/practice-papers"),
+  upload: (form: FormData) =>
+    upload<Envelope<PracticePaperReport | PracticePaperQueued>>("/practice-papers", form),
+  job: (jobId: string) => api.get<Envelope<PracticePaperJob>>(`/jobs/${jobId}`),
+  setAnswerKey: (testId: string, key: string | Record<string, string>) =>
+    api.post<Envelope<AnswerKeyResult>>(`/practice-papers/${testId}/answer-key`, { key }),
+  scoring: (attemptId: string) =>
+    api.get<Envelope<AttemptScoring>>(`/practice-papers/attempts/${attemptId}/scoring`),
+};
+// ------------------------------------------------- end practice papers

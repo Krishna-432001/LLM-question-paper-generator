@@ -216,5 +216,21 @@ Route::prefix('v1')->group(function (): void {
         Route::get('jobs', [JobController::class, 'index']);
         Route::get('jobs/{job}', [JobController::class, 'show']);
         Route::post('jobs/{job}/cancel', [JobController::class, 'cancel']);
+
+        /*
+        | Practice papers (PDF to timed test). A student uploads a question
+        | paper and sits it straight away; the questions stay private to them
+        | and are never mapped to an exam, so no generated paper can draw on
+        | them. Sitting and submitting use the ordinary /tests endpoints.
+        | Fully-qualified so this block merges without touching the imports.
+        */
+        Route::prefix('practice-papers')->group(function (): void {
+            Route::get('/', [\App\Http\Controllers\Api\V1\PracticePaperController::class, 'index']);
+            Route::post('/', [\App\Http\Controllers\Api\V1\PracticePaperController::class, 'store'])
+                ->middleware('throttle:30,60');
+            Route::post('{test}/answer-key', [\App\Http\Controllers\Api\V1\PracticePaperController::class, 'answerKey']);
+            Route::get('attempts/{attempt}/scoring', [\App\Http\Controllers\Api\V1\PracticePaperController::class, 'scoring']);
+        });
+        // End practice papers.
     });
 });
