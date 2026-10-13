@@ -856,7 +856,7 @@ function Test-PdfTools {
             $fix += '  PDFTOPPM_BIN="C:/poppler/Library/bin/pdftoppm.exe"'
             if (Test-Path -LiteralPath $gitCopy -PathType Leaf) {
                 $fix += "Stopgap: Git ships an older xpdf pdftotext at $gitCopy."
-                $fix += "  It also works: PDFTOTEXT_BIN=`"$(ConvertTo-EnvPath $gitCopy)`""
+                $fix += "  It runs, but check Tamil text it reads: PDFTOTEXT_BIN=`"$(ConvertTo-EnvPath $gitCopy)`""
             }
         }
         Add-Check FAIL 'pdftotext (reads PDF books)' "'$configured' was not found" $fix
