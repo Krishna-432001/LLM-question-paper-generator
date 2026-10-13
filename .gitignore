@@ -14,3 +14,7 @@ node_modules/
 vendor/
 .next/
 *.tsbuildinfo
+
+# Local run state and tool folders
+scripts/.local-pids.json
+.claude/

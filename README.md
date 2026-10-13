@@ -2,6 +2,9 @@
 
 **Architecture & Engineering Specification v1.0**
 
+> **Run it on your PC:** set it up once with [docs/LOCAL-SETUP.md](docs/LOCAL-SETUP.md),
+> then double-click `scripts\start-local.bat` each day (and `scripts\stop-local.bat` to stop).
+
 A multi-tenant SaaS platform that converts approved source material (textbooks, official
 syllabi, previous-year papers) into a **source-grounded knowledge base**, a **centralized
 master question bank**, and every downstream artifact a candidate needs: study plans,
