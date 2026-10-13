@@ -118,9 +118,18 @@ class Question extends Model
         return $this->options->firstWhere('is_correct', true)?->option_key;
     }
 
+    /**
+     * The current rendering in a language: the master if the question is
+     * mastered in it, otherwise the newest translation version. Re-translating
+     * a stale or rejected translation adds a version instead of overwriting
+     * the old one, so the first row found is not necessarily the live one.
+     */
     public function translationIn(string $languageId): ?QuestionTranslation
     {
-        return $this->translations->firstWhere('language_id', $languageId);
+        return $this->translations
+            ->where('language_id', $languageId)
+            ->sortByDesc(static fn (QuestionTranslation $t): int => ($t->is_master ? 1_000_000 : 0) + (int) $t->translation_version)
+            ->first();
     }
 
     /**
