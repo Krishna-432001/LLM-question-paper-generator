@@ -12,13 +12,15 @@ import {
   type Progress,
 } from "@/lib/api";
 import { useI18n } from "@/lib/i18n";
+import { PaperLanguagePicker, usePaperLanguage } from "./paper-language";
 import { BUTTON, CARD, GHOST, errorText, useStudent } from "./student-context";
 
 export default function StudentHome() {
   const { t } = useI18n();
   const router = useRouter();
-  const { profile, contentLanguageId } = useStudent();
+  const { profile } = useStudent();
   const examId = profile?.target_exam?.id ?? null;
+  const paperLanguage = usePaperLanguage();
 
   const [plan, setPlan] = useState<PlanSummary | null>(null);
   const [today, setToday] = useState<PlanDay | null>(null);
@@ -50,13 +52,13 @@ export default function StudentHome() {
   }, [examId, t]);
 
   async function quickTest() {
-    if (!examId || !contentLanguageId) return;
+    if (!examId || !paperLanguage.request) return;
     setStarting(true);
     setError(null);
     try {
       const { data: test } = await testsApi.create({
         exam_id: examId,
-        language_id: contentLanguageId,
+        ...paperLanguage.request,
         type: "topic_practice",
         question_count: 20,
         title: t("home.quickTest"),
@@ -65,7 +67,8 @@ export default function StudentHome() {
       const { data: attempt } = await testsApi.start(test.id);
       router.push(`/app/take?attempt=${attempt.attempt_id}`);
     } catch (e) {
-      setError(errorText(e, t("tests.noQuestions")));
+      const detail = errorText(e, t("tests.noQuestions"));
+      setError(paperLanguage.choice === "both" ? `${t("paper.notEnoughBoth")} (${detail})` : detail);
       setStarting(false);
     }
   }
@@ -136,6 +139,9 @@ export default function StudentHome() {
         <section className={`${CARD} flex flex-col p-5`}>
           <h2 className="font-semibold">{t("home.quickTest")}</h2>
           <p className="mt-1 text-sm text-slate-500">{t("home.quickTestHint")}</p>
+          <div className="my-4">
+            <PaperLanguagePicker value={paperLanguage.choice} onChange={paperLanguage.setChoice} />
+          </div>
           <button className={`${BUTTON} mt-auto`} disabled={starting} onClick={quickTest}>
             {starting ? t("common.loading") : t("tests.create")}
           </button>

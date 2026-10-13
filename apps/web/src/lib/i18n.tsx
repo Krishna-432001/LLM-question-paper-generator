@@ -117,6 +117,11 @@ const STRINGS = {
     "auth.confirm": "Confirm password",
     "auth.passwordHint": "At least 10 characters, with letters and numbers.",
     "auth.haveAccount": "Already have an account? Log in",
+    "paper.language": "Paper language",
+    "paper.both": "Both",
+    "paper.bothHint": "Every question in both languages, the app's language first.",
+    "paper.notEnoughBoth": "Not enough questions exist in both languages yet. Choose one language or ask for fewer questions.",
+    "downloads.languageNote": "Each PDF is printed in its test's own language — both languages for a bilingual test.",
   },
   ta: {
     "nav.today": "இன்று",
@@ -222,6 +227,11 @@ const STRINGS = {
     "auth.confirm": "கடவுச்சொல்லை உறுதிப்படுத்து",
     "auth.passwordHint": "குறைந்தது 10 எழுத்துகள், எழுத்துகளும் எண்களும் கலந்து.",
     "auth.haveAccount": "ஏற்கெனவே கணக்கு உள்ளதா? உள்நுழைக",
+    "paper.language": "வினாத்தாள் மொழி",
+    "paper.both": "இரண்டும்",
+    "paper.bothHint": "ஒவ்வொரு வினாவும் இரு மொழிகளிலும்; செயலியின் மொழி முதலில்.",
+    "paper.notEnoughBoth": "இரு மொழிகளிலும் போதுமான வினாக்கள் இன்னும் இல்லை. ஒரு மொழியைத் தேர்ந்தெடுக்கவும் அல்லது குறைவான வினாக்களைக் கேட்கவும்.",
+    "downloads.languageNote": "ஒவ்வொரு PDF-உம் அந்தத் தேர்வின் மொழியிலேயே அச்சிடப்படும்; இருமொழித் தேர்வுக்கு இரு மொழிகளிலும்.",
   },
 } as const;
 

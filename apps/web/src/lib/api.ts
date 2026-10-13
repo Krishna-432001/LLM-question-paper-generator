@@ -293,6 +293,11 @@ export interface PaperResult {
   test_id: string;
   question_count: number;
   requested_count: number;
+  /** Absent from servers older than paper language modes. */
+  language_mode?: LanguageMode;
+  languages?: string[];
+  /** Approved questions this book has in the paper's language(s). */
+  availability?: { primary: number; secondary: number | null; both: number | null };
   documents: DocumentRow[];
 }
 
@@ -897,6 +902,9 @@ export interface MyTestRow {
   type: string;
   question_count: number;
   duration_minutes: number | null;
+  language_mode?: LanguageMode;
+  /** Language codes in print order, primary first. */
+  languages?: string[];
   created_at: string | null;
   attempts: number;
   best_score: number | null;
@@ -924,14 +932,20 @@ export interface PaperQuestion {
   test_question_id: string;
   sequence: number;
   marks: number;
+  /** The primary language, kept for older clients; `texts` has every language. */
   question_text: string | null;
   options: Record<string, string> | null;
+  /** Keyed by language code, one entry per language of the paper. */
+  texts?: Record<string, QuestionText>;
 }
 
 export interface OpenAttempt {
   attempt_id: string;
   status: "in_progress";
-  test: { id: string; title: string; duration_minutes: number | null };
+  test: { id: string; title: string; duration_minutes: number | null; language_mode?: LanguageMode };
+  language_mode?: LanguageMode;
+  /** Print order: the primary first. */
+  languages?: PaperLanguage[];
   started_at: string | null;
   expires_at: string | null;
   questions: PaperQuestion[];
@@ -959,8 +973,11 @@ export interface AttemptResult {
 export interface Solution {
   sequence: number;
   question_text: string | null;
+  options?: Record<string, string> | null;
   correct_option: string | null;
   explanation: string | null;
+  /** Keyed by language code; each carries its own explanation. */
+  texts?: Record<string, QuestionText>;
   sources: Array<{ citation: string; supporting_quote: string | null }>;
 }
 
@@ -1052,17 +1069,38 @@ export const testsApi = {
     title?: string;
     duration_minutes?: number;
     difficulty_mix?: Record<string, number>;
-  }) => api.post<Envelope<{ id: string; title: string; question_count: number }>>("/tests", payload),
+    language_mode?: LanguageMode;
+    /** Required when language_mode is bilingual; must differ from language_id. */
+    secondary_language_id?: string;
+  }) =>
+    api.post<
+      Envelope<{
+        id: string;
+        title: string;
+        question_count: number;
+        language_mode?: LanguageMode;
+        languages?: PaperLanguage[];
+      }>
+    >("/tests", payload),
   start: (testId: string) =>
-    api.post<Envelope<{ attempt_id: string; expires_at: string | null; questions: PaperQuestion[] }>>(
-      `/tests/${testId}/attempt`,
-    ),
+    api.post<
+      Envelope<{
+        attempt_id: string;
+        expires_at: string | null;
+        language_mode?: LanguageMode;
+        languages?: PaperLanguage[];
+        questions: PaperQuestion[];
+      }>
+    >(`/tests/${testId}/attempt`),
   submit: (attemptId: string, answers: Array<{ test_question_id: string; selected_option: string | null; time_spent_seconds?: number }>) =>
     api.post<Envelope<{ attempt_id: string; final_score: number; accuracy: number }>>(
       `/attempts/${attemptId}/submit`,
       { answers },
     ),
-  solutions: (attemptId: string) => api.get<Envelope<Solution[]>>(`/results/${attemptId}/solutions`),
+  solutions: (attemptId: string) =>
+    api.get<Envelope<Solution[]> & { meta?: { language_mode: LanguageMode; languages: PaperLanguage[] } }>(
+      `/results/${attemptId}/solutions`,
+    ),
 };
 
 export const plansApi = {
@@ -1084,3 +1122,25 @@ export const documentsApi = {
   generate: (subjectType: "tests" | "study-plans", subjectId: string, types?: string[]) =>
     api.post<Envelope<DocumentRow[]>>(`/${subjectType}/${subjectId}/documents`, types ? { types } : {}),
 };
+
+// ------------------------------------------------- paper language modes
+
+/**
+ * single: every question in the test's language. bilingual: every question in
+ * the test's language and again in its second language beneath it.
+ */
+export type LanguageMode = "single" | "bilingual";
+
+export interface PaperLanguage {
+  id: string;
+  code: string;
+  name: string;
+  native_name: string | null;
+}
+
+/** One question in one language. `explanation` is present on solutions only. */
+export interface QuestionText {
+  question_text: string | null;
+  options: Record<string, string>;
+  explanation?: string | null;
+}

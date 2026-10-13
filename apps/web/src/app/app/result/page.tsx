@@ -1,8 +1,9 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { student, testsApi, type AttemptResult, type Solution } from "@/lib/api";
+import { student, testsApi, type AttemptResult, type PaperLanguage, type Solution } from "@/lib/api";
 import { useI18n } from "@/lib/i18n";
+import { Alternate, versionsOf } from "../paper-language";
 import { CARD, GHOST, errorText, useQueryParam } from "../student-context";
 
 /**
@@ -15,6 +16,9 @@ export default function ResultPage() {
   const attemptId = useQueryParam("attempt");
   const [result, setResult] = useState<AttemptResult | null>(null);
   const [solutions, setSolutions] = useState<Solution[]>([]);
+  // The paper's languages in print order; a bilingual paper's solutions are
+  // shown in both, as the paper was.
+  const [languages, setLanguages] = useState<PaperLanguage[]>([]);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
@@ -28,7 +32,9 @@ export default function ResultPage() {
           return;
         }
         setResult(data as AttemptResult);
-        setSolutions((await testsApi.solutions(attemptId)).data);
+        const answers = await testsApi.solutions(attemptId);
+        setSolutions(answers.data);
+        setLanguages(answers.meta?.languages ?? []);
       } catch (e) {
         setError(errorText(e, t("common.error")));
       }
@@ -89,26 +95,59 @@ export default function ResultPage() {
       <section className={`${CARD} p-5`}>
         <h2 className="font-semibold">{t("result.solutions")}</h2>
         <ol className="mt-3 space-y-4">
-          {solutions.map((s) => (
-            <li key={s.sequence} className="rounded-xl border border-slate-200 p-4">
-              <p className="whitespace-pre-line text-sm leading-relaxed">
-                <span className="mr-2 font-semibold text-slate-500">{s.sequence}.</span>
-                {s.question_text}
-              </p>
-              <p className="mt-2 text-sm">
-                <span className="font-semibold text-emerald-700">
-                  {t("result.answer")}: {s.correct_option}
-                </span>
-              </p>
-              {s.explanation && <p className="mt-1 text-sm text-slate-600">{s.explanation}</p>}
-              {s.sources.map((src, i) => (
-                <blockquote key={i} className="mt-2 border-l-2 border-indigo-200 pl-3 text-xs text-slate-500">
-                  <span className="font-medium text-slate-600">{t("result.source")}:</span> {src.citation}
-                  {src.supporting_quote && <span className="block italic">“{src.supporting_quote}”</span>}
-                </blockquote>
-              ))}
-            </li>
-          ))}
+          {solutions.map((s) => {
+            const [primary, ...others] = versionsOf(s, languages);
+            const key = s.correct_option;
+            const answerText = key ? primary.options[key] : undefined;
+            const explained = [primary, ...others].some((v) => v.explanation);
+
+            return (
+              <li key={s.sequence} className="rounded-xl border border-slate-200 p-4">
+                <p lang={primary.code ?? undefined} className="whitespace-pre-line text-sm leading-relaxed">
+                  <span className="mr-2 font-semibold text-slate-500">{s.sequence}.</span>
+                  {primary.question_text}
+                  {others.map((other) =>
+                    other.question_text && other.question_text !== primary.question_text ? (
+                      <Alternate key={other.code} code={other.code}>
+                        {other.question_text}
+                      </Alternate>
+                    ) : null,
+                  )}
+                </p>
+                <p className="mt-2 text-sm">
+                  <span className="font-semibold text-emerald-700">
+                    {t("result.answer")}: {s.correct_option}
+                  </span>
+                  {answerText && <span lang={primary.code ?? undefined}> — {answerText}</span>}
+                  {others.map((other) =>
+                    key && other.options[key] && other.options[key] !== answerText ? (
+                      <Alternate key={other.code} code={other.code}>
+                        {other.options[key]}
+                      </Alternate>
+                    ) : null,
+                  )}
+                </p>
+                {explained && (
+                  <p lang={primary.code ?? undefined} className="mt-1 text-sm text-slate-600">
+                    {primary.explanation}
+                    {others.map((other) =>
+                      other.explanation && other.explanation !== primary.explanation ? (
+                        <Alternate key={other.code} code={other.code}>
+                          {other.explanation}
+                        </Alternate>
+                      ) : null,
+                    )}
+                  </p>
+                )}
+                {s.sources.map((src, i) => (
+                  <blockquote key={i} className="mt-2 border-l-2 border-indigo-200 pl-3 text-xs text-slate-500">
+                    <span className="font-medium text-slate-600">{t("result.source")}:</span> {src.citation}
+                    {src.supporting_quote && <span className="block italic">“{src.supporting_quote}”</span>}
+                  </blockquote>
+                ))}
+              </li>
+            );
+          })}
         </ol>
       </section>
     </div>
