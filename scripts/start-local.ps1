@@ -981,6 +981,8 @@ function Test-Ai {
     }
     $wanted = @($wanted | Where-Object { $_ } | Select-Object -Unique)
 
+    if ($driver -eq 'ollama') { Test-ModelFitsMemory $main }
+
     $tags = Invoke-LocalHttp -Url "$baseUrl/api/tags" -TimeoutMs 5000
     if (-not $tags -or $tags.Status -ne 200) {
         $detail = "not reachable at $baseUrl"
@@ -1022,6 +1024,43 @@ function Test-Ai {
         $fix += 'Each download is several GB and only needed once.'
         Add-Check FAIL 'Ollama models' "not downloaded yet: $($missing -join ', ')" $fix
     }
+}
+
+# Rough memory a local model needs, from the size in its tag ("gemma3:12b"
+# -> 12 billion parameters). Ollama's default 4-bit models take about 0.6 GB
+# per billion parameters plus about 1.5 GB of working memory. The rest of
+# ExamForge (PostgreSQL, Redis, PHP, the web server) needs about 2.5 GB more.
+# A model that does not fit spills to disk and becomes unusably slow, so this
+# is said plainly before the first generation rather than discovered after.
+function Test-ModelFitsMemory([string]$Model) {
+    if (-not $Model) { return }
+    $match = [regex]::Match($Model.ToLowerInvariant(), ':(\d+(?:\.\d+)?)b')
+    if (-not $match.Success) { return }
+    $billions = [double]::Parse($match.Groups[1].Value, [System.Globalization.CultureInfo]::InvariantCulture)
+    $modelGb = [math]::Round($billions * 0.6 + 1.5, 1)
+    $neededGb = [math]::Round($modelGb + 2.5, 1)
+
+    $totalGb = $null
+    try {
+        $bytes = (Get-CimInstance -ClassName Win32_ComputerSystem -ErrorAction Stop).TotalPhysicalMemory
+        $totalGb = [math]::Round($bytes / 1GB, 1)
+    } catch {
+        return
+    }
+
+    if ($totalGb -ge $neededGb) {
+        Add-Check OK 'Memory for the AI model' "$Model needs about $modelGb GB; this PC has $totalGb GB"
+        return
+    }
+
+    $fix = @(
+        "This PC has $totalGb GB of memory; $Model plus ExamForge needs about $neededGb GB.",
+        'Choose one of these in apps\api\.env:',
+        '  A smaller local model:   OLLAMA_MODEL=gemma3:4b   (then: ollama pull gemma3:4b)',
+        '  The Claude API instead:  AI_DRIVER=claude and ANTHROPIC_API_KEY=your-key',
+        'The Claude API gives better Tamil and more reliable answers, and needs no local memory.'
+    )
+    Add-Check WARN 'Memory for the AI model' "$Model needs about $neededGb GB with ExamForge; this PC has $totalGb GB" $fix
 }
 
 function Test-PortsAndState {
