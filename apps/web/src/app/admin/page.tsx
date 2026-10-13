@@ -320,6 +320,24 @@ export default function AdminPage() {
     setBusy("paper");
 
     const form = new FormData(event.currentTarget);
+    const choice = String(form.get("paper_language") ?? "");
+    const english = languages.find((l) => l.code === "en");
+    const tamil = languages.find((l) => l.code === "ta");
+    // "Both" prints the book's own language first and the other beneath it,
+    // so a Tamil book reads Tamil-first as a TNPSC paper does.
+    const bookIsTamil = languages.find((l) => l.id === selected.language_id)?.code === "ta";
+    const language =
+      choice === "both" && english && tamil
+        ? {
+            language_id: (bookIsTamil ? tamil : english).id,
+            language_mode: "bilingual",
+            secondary_language_id: (bookIsTamil ? english : tamil).id,
+          }
+        : choice === "ta" && tamil
+          ? { language_id: tamil.id, language_mode: "single" }
+          : choice === "en" && english
+            ? { language_id: english.id, language_mode: "single" }
+            : {};
 
     try {
       const { data } = await sources.paper(selected.id, {
@@ -329,13 +347,18 @@ export default function AdminPage() {
         include_answer_key: withKey,
         include_explanations: withExplanations,
         format,
+        ...language,
       });
 
       setPaper(data);
 
       if (data.question_count < data.requested_count) {
+        const a = data.availability;
         setNote(
-          `Asked for ${data.requested_count}, produced ${data.question_count} — the bank ran out of distinct approved questions.`,
+          `Asked for ${data.requested_count}, produced ${data.question_count} — ` +
+            (data.language_mode === "bilingual" && a
+              ? `only ${a.both} of this book's approved questions exist in both languages (${a.primary} / ${a.secondary}).`
+              : "the bank ran out of distinct approved questions in that language."),
         );
       }
     } catch (e) {
@@ -804,6 +827,20 @@ export default function AdminPage() {
                             className={`w-24 ${FIELD}`}
                           />
                         </Field>
+                        <Field label="Paper language">
+                          <select
+                            name="paper_language"
+                            defaultValue={
+                              languages.find((l) => l.id === selected.language_id)?.code === "ta" ? "ta" : "en"
+                            }
+                            className={FIELD}
+                            title="Both prints every question twice: the book's language first, the other beneath it. Only questions with a validated translation can go on a Tamil or bilingual paper."
+                          >
+                            <option value="en">English</option>
+                            <option value="ta">Tamil</option>
+                            <option value="both">Both</option>
+                          </select>
+                        </Field>
                         <button
                           disabled={busy !== null}
                           className={`${BTN} bg-emerald-600 hover:bg-emerald-500`}
@@ -829,6 +866,13 @@ export default function AdminPage() {
                 <section className="rounded-xl border border-emerald-800 bg-emerald-950/30 p-5">
                   <h3 className="text-sm font-semibold text-emerald-100">
                     Paper ready — {paper.question_count} questions
+                    {paper.languages?.length ? (
+                      <span className="ml-2 font-normal text-emerald-300/80">
+                        {paper.languages
+                          .map((code) => languages.find((l) => l.code === code)?.name ?? code)
+                          .join(" + ")}
+                      </span>
+                    ) : null}
                   </h3>
                   <ul className="mt-3 space-y-2">
                     {paper.documents.map((d) => (

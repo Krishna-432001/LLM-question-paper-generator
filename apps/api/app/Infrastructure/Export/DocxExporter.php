@@ -69,8 +69,28 @@ final class DocxExporter implements DocumentExporter
                 ['spaceAfter' => 60],
             );
 
+            // A bilingual paper's other language, beneath the primary as on
+            // the PDF. Only the versions after the first: the first is the
+            // primary already printed above.
+            $others = array_slice(array_values($question['texts'] ?? []), 1);
+
+            foreach ($others as $other) {
+                if (($other['text'] ?? '') !== '' && $other['text'] !== $question['text']) {
+                    $section->addText('     '.$other['text'], ['color' => '444444'], ['spaceAfter' => 60]);
+                }
+            }
+
             foreach ($question['options'] ?? [] as $key => $text) {
-                $section->addText("     ({$key}) {$text}", [], ['spaceAfter' => 0]);
+                $alternates = array_filter(
+                    array_map(static fn (array $o): ?string => $o['options'][$key] ?? null, $others),
+                    static fn (?string $v): bool => $v !== null && $v !== '' && $v !== $text,
+                );
+
+                $section->addText(
+                    "     ({$key}) {$text}".($alternates === [] ? '' : ' / '.implode(' / ', $alternates)),
+                    [],
+                    ['spaceAfter' => 0],
+                );
             }
 
             $section->addTextBreak();

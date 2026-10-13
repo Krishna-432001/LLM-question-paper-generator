@@ -28,5 +28,10 @@ final class SelectionSpec
         public readonly array $masteryByTopic = [],
         public readonly array $predictionByTopic = [],
         public readonly array $syllabusWeightByTopic = [],
+        /**
+         * Set for a bilingual paper: every question must also be readable in
+         * this language, not only in $languageId.
+         */
+        public readonly ?string $secondaryLanguageId = null,
     ) {}
 }

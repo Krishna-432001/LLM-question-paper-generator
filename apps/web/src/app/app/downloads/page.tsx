@@ -11,6 +11,7 @@ import {
   type PlanSummary,
 } from "@/lib/api";
 import { useI18n, type MessageKey } from "@/lib/i18n";
+import { languageLabel } from "../paper-language";
 import { CARD, GHOST, errorText, useStudent } from "../student-context";
 
 const TYPE_LABEL: Record<string, MessageKey> = {
@@ -92,10 +93,18 @@ export default function DownloadsPage() {
 
       <section className={`${CARD} p-5`}>
         <h2 className="font-semibold">{t("downloads.make")}</h2>
+        {/* No choice to make here: the server prints each test in the
+            language mode it was created with. */}
+        <p className="mt-1 text-xs text-slate-500">{t("downloads.languageNote")}</p>
         <ul className="mt-3 divide-y divide-slate-100">
           {tests.slice(0, 15).map((test) => (
             <li key={test.id} className="flex items-center gap-3 py-2.5 text-sm">
-              <span className="flex-1 truncate">{test.title}</span>
+              <span className="flex-1 truncate">
+                {test.title}
+                {test.languages?.length ? (
+                  <span className="ml-2 text-xs text-slate-500">{languageLabel(test.languages)}</span>
+                ) : null}
+              </span>
               <button className={GHOST} disabled={busy === test.id} onClick={() => void make("tests", test.id)}>
                 {busy === test.id ? t("common.loading") : `${t("downloads.paper")} + ${t("downloads.key")}`}
               </button>

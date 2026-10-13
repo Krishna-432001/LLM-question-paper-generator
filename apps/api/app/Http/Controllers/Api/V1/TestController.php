@@ -7,6 +7,7 @@ namespace App\Http\Controllers\Api\V1;
 use App\Actions\Tests\AssembleTestAction;
 use App\Actions\Tests\EvaluateAttemptAction;
 use App\Domain\Tenancy\TenantContext;
+use App\Domain\Tests\PaperText;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Tests\CreateTestRequest;
 use App\Http\Requests\Tests\SubmitAttemptRequest;
@@ -26,6 +27,8 @@ final class TestController extends Controller
             'user_id' => $context->userId,
             'exam_id' => $request->string('exam_id')->toString(),
             'language_id' => $request->string('language_id')->toString(),
+            'language_mode' => $request->input('language_mode', Test::MODE_SINGLE),
+            'secondary_language_id' => $request->input('secondary_language_id'),
             'type' => $request->string('type')->toString(),
             'question_count' => $request->integer('question_count'),
             'title' => $request->input('title', 'Practice Test'),
@@ -61,6 +64,7 @@ final class TestController extends Controller
         $test = Test::query()->with('questions.question.translations')->findOrFail($testId);
         $this->assertCanUse($test);
         $context = app(TenantContext::class);
+        $languages = $test->paperLanguages();
 
         $attempt = TestAttempt::query()->create([
             'organization_id' => $context->organizationId,
@@ -81,6 +85,8 @@ final class TestController extends Controller
             'data' => [
                 'attempt_id' => $attempt->getKey(),
                 'expires_at' => $attempt->expires_at?->toIso8601String(),
+                'language_mode' => $test->language_mode,
+                'languages' => PaperText::languagesOf($test),
                 'questions' => $test->questions->map(fn ($tq) => [
                     'test_question_id' => $tq->getKey(),
                     'sequence' => $tq->sequence,
@@ -88,6 +94,9 @@ final class TestController extends Controller
                     // In the paper's own language, not the bank's master.
                     'question_text' => $tq->question->textIn($test->language_id)?->question_text,
                     'options' => $tq->question->textIn($test->language_id)?->optionMap(),
+                    // Every language the paper is shown in, primary first. A
+                    // single-language paper carries just its own.
+                    'texts' => PaperText::byLanguage($tq->question, $languages),
                     // The correct option is never sent to the client.
                 ])->all(),
             ],
@@ -143,6 +152,7 @@ final class TestController extends Controller
         abort_unless($attempt->isSubmitted(), 409, 'Submit the attempt before viewing solutions.');
 
         $test = $attempt->test()->with('questions.question.translations', 'questions.question.options', 'questions.question.sources.chunk')->first();
+        $languages = $test->paperLanguages();
 
         return response()->json([
             'data' => $test->questions->map(fn ($tq) => [
@@ -151,6 +161,9 @@ final class TestController extends Controller
                 'options' => $tq->question->textIn($test->language_id)?->optionMap(),
                 'correct_option' => $tq->question->correctOptionKey(),
                 'explanation' => $tq->question->textIn($test->language_id)?->explanation,
+                // A bilingual paper's solutions are bilingual too: the student
+                // reads the explanation in the language they answered in.
+                'texts' => PaperText::byLanguage($tq->question, $languages, withExplanation: true),
                 // Every solution shows where the answer comes from. This is
                 // what a student can take to a teacher and check.
                 'sources' => $tq->question->sources->map(fn ($s) => [
@@ -158,6 +171,12 @@ final class TestController extends Controller
                     'supporting_quote' => $s->supporting_quote,
                 ])->all(),
             ])->all(),
+            // Alongside the list rather than inside it, so a client that reads
+            // data as an array of solutions keeps working.
+            'meta' => [
+                'language_mode' => $test->language_mode,
+                'languages' => PaperText::languagesOf($test),
+            ],
         ]);
     }
 
@@ -189,6 +208,10 @@ final class TestController extends Controller
             'type' => $test->type,
             'status' => $test->status,
             'question_count' => $test->question_count,
+            'language_id' => $test->language_id,
+            'language_mode' => $test->language_mode,
+            'secondary_language_id' => $test->secondary_language_id,
+            'languages' => PaperText::languagesOf($test),
             'total_marks' => $test->total_marks,
             'duration_minutes' => $test->duration_minutes,
             'negative_marking' => $test->negative_marking,

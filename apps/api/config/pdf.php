@@ -20,6 +20,6 @@ return [
     | with the new layout. Old rows keep their payload, so a paper handed out
     | last term can still be reproduced exactly as it was.
     */
-    'template_version' => 2,
+    'template_version' => 3,
 
 ];

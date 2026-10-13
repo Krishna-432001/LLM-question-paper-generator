@@ -14,12 +14,15 @@ use App\Domain\Tenancy\TenantContext;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Sources\StoreSourceRequest;
 use App\Jobs\Ingestion\ProcessSource;
+use App\Models\Language;
 use App\Models\Question;
 use App\Models\Review;
 use App\Models\Source;
+use App\Models\Test;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Validation\Rule;
 use Throwable;
 
 final class SourceController extends Controller
@@ -83,7 +86,19 @@ final class SourceController extends Controller
         $validated = $request->validate([
             'question_count' => ['sometimes', 'integer', 'min:1', 'max:200'],
             'title' => ['sometimes', 'string', 'max:200'],
-            'language_id' => ['sometimes', 'uuid'],
+            // The paper's language. Defaults to the book's own; a different
+            // one draws only the questions validated in it.
+            'language_id' => ['sometimes', 'uuid', 'exists:languages,id'],
+            // bilingual prints every question in language_id and again in
+            // secondary_language_id beneath it. Omitted, the paper is single
+            // language, exactly as before language modes existed.
+            'language_mode' => ['sometimes', Rule::in(Test::LANGUAGE_MODES)],
+            'secondary_language_id' => [
+                'nullable',
+                'required_if:language_mode,'.Test::MODE_BILINGUAL,
+                'uuid',
+                'exists:languages,id',
+            ],
             'exam_id' => ['sometimes', 'nullable', 'uuid'],
             'duration_minutes' => ['sometimes', 'integer', 'min:1', 'max:600'],
             'marks_per_question' => ['sometimes', 'numeric', 'min:0.25', 'max:10'],
@@ -113,15 +128,46 @@ final class SourceController extends Controller
             'These questions are not mapped to any exam, so a paper cannot be assembled. Pass exam_id explicitly.',
         );
 
-        $test = $assemble->execute([
+        $languageId = $validated['language_id'] ?? $source->language_id;
+        $bilingual = ($validated['language_mode'] ?? Test::MODE_SINGLE) === Test::MODE_BILINGUAL;
+        $secondaryId = $bilingual ? $validated['secondary_language_id'] : null;
+
+        abort_if(
+            $secondaryId !== null && $secondaryId === $languageId,
+            422,
+            "A bilingual paper's second language must differ from its main language (the book's own language unless language_id is given).",
+        );
+
+        $selection = [
             'organization_id' => $source->organization_id,
             'user_id' => $context->userId,
             'exam_id' => $examId,
             'source_id' => $source->getKey(),
             'type' => 'topic_practice',
+            'language_id' => $languageId,
+            'language_mode' => $bilingual ? Test::MODE_BILINGUAL : Test::MODE_SINGLE,
+            'secondary_language_id' => $secondaryId,
+        ];
+
+        // Approved is not the same as printable: a question approved in
+        // English but never translated cannot go on a Tamil paper, nor on a
+        // bilingual one. Sizing to what is printable keeps "asking for 50
+        // gives the 12 there are" true in every language.
+        $available = $assemble->availability($selection);
+        $printable = $bilingual ? (int) $available['both'] : $available['primary'];
+
+        if (! $bilingual && $printable === 0) {
+            $language = Language::query()->whereKey($languageId)->value('name') ?? 'that language';
+
+            abort(422, "None of this book's {$counts['approved']} approved questions are available in {$language} yet. "
+                .'Print it in the language the questions were written in, or approve translations first.');
+        }
+
+        // A bilingual request with nothing printable in both languages is
+        // refused inside the action, with the per-language counts.
+        $test = $assemble->execute($selection + [
             'title' => $validated['title'] ?? $source->title,
-            'language_id' => $validated['language_id'] ?? $source->language_id,
-            'question_count' => min($requested, $counts['approved']),
+            'question_count' => min($requested, $counts['approved'], $printable),
             'duration_minutes' => $validated['duration_minutes'] ?? null,
             'marks_per_question' => $validated['marks_per_question'] ?? 1,
         ]);
@@ -166,6 +212,11 @@ final class SourceController extends Controller
                 // Surfaced, not hidden: asking for 50 from a bank of 12 gives
                 // 12, and the caller is told so.
                 'requested_count' => $requested,
+                'language_mode' => $test->language_mode,
+                'languages' => $test->paperLanguages()->pluck('code')->all(),
+                // How many of this book's questions each language could have
+                // supplied, so a short bilingual paper explains itself.
+                'availability' => $available,
                 'documents' => $documents,
             ],
         ], 201);

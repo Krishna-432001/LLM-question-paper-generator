@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Http\Controllers\Api\V1;
 
 use App\Domain\Tenancy\TenantContext;
+use App\Domain\Tests\PaperText;
 use App\Http\Controllers\Controller;
 use App\Models\Exam;
 use App\Models\Language;
@@ -60,6 +61,7 @@ final class StudentController extends Controller
         $userId = app(TenantContext::class)->userId;
 
         $tests = Test::query()
+            ->with(['language', 'secondaryLanguage'])
             ->where(fn ($q) => $q->where('created_by', $userId)->orWhere('is_shared', true))
             ->when($request->filled('exam_id'), fn ($q) => $q->where('exam_id', $request->string('exam_id')))
             ->latest('created_at')
@@ -86,6 +88,10 @@ final class StudentController extends Controller
                     'type' => $test->type,
                     'question_count' => $test->question_count,
                     'duration_minutes' => $test->duration_minutes,
+                    // So the list can say "Tamil + English" and a download
+                    // button can promise the format it will produce.
+                    'language_mode' => $test->language_mode,
+                    'languages' => $test->paperLanguages()->pluck('code')->all(),
                     'created_at' => $test->created_at?->toIso8601String(),
                     'attempts' => $mine->count(),
                     'best_score' => $best?->final_score === null ? null : (float) $best->final_score,
@@ -138,11 +144,22 @@ final class StudentController extends Controller
 
         if (! $attempt->isSubmitted()) {
             $test = Test::query()->with('questions.question.translations')->findOrFail($attempt->test_id);
+            $languages = $test->paperLanguages();
 
+            // Resuming must show the paper exactly as it was started: a
+            // bilingual paper that came back single-language after a reload
+            // would change under the student mid-test.
             return response()->json(['data' => [
                 'attempt_id' => $attempt->getKey(),
                 'status' => $attempt->status,
-                'test' => ['id' => $test->getKey(), 'title' => $test->title, 'duration_minutes' => $test->duration_minutes],
+                'test' => [
+                    'id' => $test->getKey(),
+                    'title' => $test->title,
+                    'duration_minutes' => $test->duration_minutes,
+                    'language_mode' => $test->language_mode,
+                ],
+                'language_mode' => $test->language_mode,
+                'languages' => PaperText::languagesOf($test),
                 'started_at' => $attempt->started_at?->toIso8601String(),
                 'expires_at' => $attempt->expires_at?->toIso8601String(),
                 'questions' => $test->questions->map(fn ($tq) => [
@@ -151,6 +168,7 @@ final class StudentController extends Controller
                     'marks' => $tq->marks,
                     'question_text' => $tq->question->textIn($test->language_id)?->question_text,
                     'options' => $tq->question->textIn($test->language_id)?->optionMap(),
+                    'texts' => PaperText::byLanguage($tq->question, $languages),
                 ])->all(),
             ]]);
         }

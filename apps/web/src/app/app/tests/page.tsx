@@ -4,6 +4,7 @@ import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useState } from "react";
 import { student, testsApi, type MyTestRow } from "@/lib/api";
 import { useI18n } from "@/lib/i18n";
+import { PaperLanguagePicker, languageLabel, usePaperLanguage } from "../paper-language";
 import { BUTTON, CARD, FIELD, GHOST, errorText, useStudent } from "../student-context";
 
 const TYPES = ["topic_practice", "daily", "weekly", "model", "diagnostic"] as const;
@@ -12,8 +13,9 @@ const TYPES = ["topic_practice", "daily", "weekly", "model", "diagnostic"] as co
 export default function TestsPage() {
   const { t } = useI18n();
   const router = useRouter();
-  const { profile, contentLanguageId } = useStudent();
+  const { profile } = useStudent();
   const examId = profile?.target_exam?.id ?? null;
+  const paperLanguage = usePaperLanguage();
 
   const [tests, setTests] = useState<MyTestRow[]>([]);
   const [form, setForm] = useState({ type: "topic_practice", count: "20", minutes: "20" });
@@ -36,13 +38,13 @@ export default function TestsPage() {
   }, [load, t]);
 
   async function startNew() {
-    if (!examId || !contentLanguageId) return;
+    if (!examId || !paperLanguage.request) return;
     setBusy(true);
     setError(null);
     try {
       const { data: test } = await testsApi.create({
         exam_id: examId,
-        language_id: contentLanguageId,
+        ...paperLanguage.request,
         type: form.type,
         question_count: Number(form.count),
         duration_minutes: Number(form.minutes) || undefined,
@@ -50,7 +52,10 @@ export default function TestsPage() {
       const { data: attempt } = await testsApi.start(test.id);
       router.push(`/app/take?attempt=${attempt.attempt_id}`);
     } catch (e) {
-      setError(errorText(e, t("tests.noQuestions")));
+      // A bilingual refusal names how many questions each language has; the
+      // localized line says what to do about it.
+      const detail = errorText(e, t("tests.noQuestions"));
+      setError(paperLanguage.choice === "both" ? `${t("paper.notEnoughBoth")} (${detail})` : detail);
       setBusy(false);
     }
   }
@@ -66,6 +71,9 @@ export default function TestsPage() {
 
       <section className={`${CARD} p-5`}>
         <h2 className="font-semibold">{t("tests.new")}</h2>
+        <div className="mt-3">
+          <PaperLanguagePicker value={paperLanguage.choice} onChange={paperLanguage.setChoice} />
+        </div>
         <div className="mt-3 grid gap-3 sm:grid-cols-4">
           <label className="text-sm">
             <span className="mb-1 block text-xs text-slate-500">{t("tests.type")}</span>
@@ -114,6 +122,7 @@ export default function TestsPage() {
                   <p className="text-xs text-slate-500">
                     {test.question_count} {t("common.questions")}
                     {test.duration_minutes ? ` · ${test.duration_minutes} ${t("common.minutes")}` : ""}
+                    {test.languages?.length ? ` · ${languageLabel(test.languages)}` : ""}
                     {test.best_accuracy !== null && ` · ${t("tests.best")} ${Math.round(test.best_accuracy)}%`}
                   </p>
                 </div>

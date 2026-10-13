@@ -7,11 +7,13 @@ namespace App\Actions\Tests;
 use App\Domain\Pyq\PyqAnalyzer;
 use App\Domain\Tests\DTOs\SelectionSpec;
 use App\Domain\Tests\SelectionEngine;
+use App\Models\Language;
 use App\Models\Question;
 use App\Models\Test;
 use App\Models\TestQuestion;
 use App\Models\TopicMastery;
 use Illuminate\Support\Facades\DB;
+use Symfony\Component\HttpKernel\Exception\UnprocessableEntityHttpException;
 
 /**
  * Builds a test from the bank. No model call, no cost, sub-second — because
@@ -29,32 +31,21 @@ final class AssembleTestAction
      */
     public function execute(array $attributes): Test
     {
-        $spec = new SelectionSpec(
-            testType: $attributes['type'],
-            languageId: $attributes['language_id'],
-            questionCount: (int) $attributes['question_count'],
-            examId: $attributes['exam_id'] ?? null,
-            userId: $attributes['user_id'] ?? null,
-            sourceId: $attributes['source_id'] ?? null,
-            difficultyMix: $attributes['difficulty_mix'] ?? [],
-            canonicalTopicIds: $attributes['canonical_topic_ids'] ?? null,
-            excludeQuestionIds: $attributes['exclude_question_ids'] ?? [],
-            masteryByTopic: $this->masteryFor($attributes),
-            // Every selection profile has reserved a prediction weight since
-            // the engine was written, and it has been fed an empty array the
-            // whole time. This is what finally supplies it: how often, and
-            // how recently, the real exam has asked about each topic.
-            predictionByTopic: isset($attributes['exam_id'])
-                ? $this->pyq->weightsFor((string) $attributes['exam_id'])
-                : [],
-            // The other weight that has always defaulted to 0.5. Falling back
-            // to a constant says every unit is worth the same share of the
-            // paper, which for TNPSC Group IV is wrong by a factor of three
-            // between Polity and General Science.
-            syllabusWeightByTopic: isset($attributes['exam_id'])
-                ? $this->syllabusWeights((string) $attributes['exam_id'])
-                : [],
-        );
+        $spec = $this->specFor($attributes);
+
+        // A bilingual paper is refused rather than shortened. A student who
+        // asks for 20 questions in Tamil and English and silently gets 6 has
+        // no way to know the other 14 exist in only one language; the counts
+        // in the refusal tell them what to ask for instead.
+        if ($spec->secondaryLanguageId !== null) {
+            $available = $this->engine->availability($spec);
+
+            if ($available['both'] < max(1, $spec->questionCount)) {
+                throw new UnprocessableEntityHttpException(
+                    $this->bilingualShortfall($spec, $available),
+                );
+            }
+        }
 
         $selection = $this->engine->select($spec);
 
@@ -70,6 +61,8 @@ final class AssembleTestAction
                 'type' => $spec->testType,
                 'title' => $attributes['title'] ?? 'Practice Test',
                 'language_id' => $spec->languageId,
+                'language_mode' => $spec->secondaryLanguageId !== null ? Test::MODE_BILINGUAL : Test::MODE_SINGLE,
+                'secondary_language_id' => $spec->secondaryLanguageId,
                 'question_count' => $questions->count(),
                 'total_marks' => $questions->count() * (float) ($attributes['marks_per_question'] ?? 1),
                 'duration_minutes' => $attributes['duration_minutes'] ?? null,
@@ -106,6 +99,103 @@ final class AssembleTestAction
 
             return $test->fresh(['questions']);
         });
+    }
+
+    /**
+     * How many eligible questions exist in the requested language(s), before
+     * any are chosen. Book-to-paper uses it to size a paper to what can
+     * actually be printed in the languages asked for.
+     *
+     * @param  array<string, mixed>  $attributes
+     * @return array{primary: int, secondary: int|null, both: int|null}
+     */
+    public function availability(array $attributes): array
+    {
+        return $this->engine->availability($this->specFor($attributes, withWeights: false));
+    }
+
+    /**
+     * @param  array<string, mixed>  $attributes
+     */
+    private function specFor(array $attributes, bool $withWeights = true): SelectionSpec
+    {
+        return new SelectionSpec(
+            testType: $attributes['type'] ?? 'custom',
+            languageId: $attributes['language_id'],
+            questionCount: (int) ($attributes['question_count'] ?? 0),
+            examId: $attributes['exam_id'] ?? null,
+            userId: $attributes['user_id'] ?? null,
+            sourceId: $attributes['source_id'] ?? null,
+            difficultyMix: $attributes['difficulty_mix'] ?? [],
+            canonicalTopicIds: $attributes['canonical_topic_ids'] ?? null,
+            excludeQuestionIds: $attributes['exclude_question_ids'] ?? [],
+            masteryByTopic: $withWeights ? $this->masteryFor($attributes) : [],
+            // Every selection profile has reserved a prediction weight since
+            // the engine was written, and it has been fed an empty array the
+            // whole time. This is what finally supplies it: how often, and
+            // how recently, the real exam has asked about each topic.
+            predictionByTopic: $withWeights && isset($attributes['exam_id'])
+                ? $this->pyq->weightsFor((string) $attributes['exam_id'])
+                : [],
+            // The other weight that has always defaulted to 0.5. Falling back
+            // to a constant says every unit is worth the same share of the
+            // paper, which for TNPSC Group IV is wrong by a factor of three
+            // between Polity and General Science.
+            syllabusWeightByTopic: $withWeights && isset($attributes['exam_id'])
+                ? $this->syllabusWeights((string) $attributes['exam_id'])
+                : [],
+            secondaryLanguageId: $this->secondaryLanguageFor($attributes),
+        );
+    }
+
+    /**
+     * The second language of a bilingual paper, or null for a single-language
+     * one. Requests are validated at the edge, but this action is also called
+     * from book-to-paper and study plans, so the rule is enforced here too
+     * rather than trusted.
+     *
+     * @param  array<string, mixed>  $attributes
+     */
+    private function secondaryLanguageFor(array $attributes): ?string
+    {
+        if (($attributes['language_mode'] ?? Test::MODE_SINGLE) !== Test::MODE_BILINGUAL) {
+            return null;
+        }
+
+        $secondary = (string) ($attributes['secondary_language_id'] ?? '');
+
+        if ($secondary === '') {
+            throw new UnprocessableEntityHttpException('A bilingual paper needs a second language (secondary_language_id).');
+        }
+
+        if ($secondary === (string) $attributes['language_id']) {
+            throw new UnprocessableEntityHttpException("A bilingual paper's second language must differ from its main language.");
+        }
+
+        return $secondary;
+    }
+
+    /**
+     * @param  array{primary: int, secondary: int|null, both: int|null}  $available
+     */
+    private function bilingualShortfall(SelectionSpec $spec, array $available): string
+    {
+        $names = Language::query()
+            ->whereIn('id', [$spec->languageId, $spec->secondaryLanguageId])
+            ->pluck('name', 'id');
+
+        $primary = $names[$spec->languageId] ?? 'the main language';
+        $secondary = $names[$spec->secondaryLanguageId] ?? 'the second language';
+        $counts = "{$primary}: {$available['primary']}, {$secondary}: {$available['secondary']}, both: {$available['both']}";
+
+        if ($available['both'] === 0) {
+            return "No approved questions are available in both {$primary} and {$secondary} yet ({$counts}). "
+                .'Choose a single language, or approve translations first.';
+        }
+
+        return "Only {$available['both']} approved questions are available in both {$primary} and {$secondary}, "
+            ."but {$spec->questionCount} were asked for ({$counts}). "
+            ."Ask for {$available['both']} or fewer, or choose a single language.";
     }
 
     /**
