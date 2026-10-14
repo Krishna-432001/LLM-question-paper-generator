@@ -12,7 +12,7 @@ import {
   type Progress,
 } from "@/lib/api";
 import { useI18n } from "@/lib/i18n";
-import { PaperLanguagePicker, usePaperLanguage } from "./paper-language";
+import { PaperLanguagePicker, creationErrorText, usePaperLanguage } from "./paper-language";
 import { BUTTON, CARD, GHOST, errorText, useStudent } from "./student-context";
 
 export default function StudentHome() {
@@ -55,6 +55,7 @@ export default function StudentHome() {
     if (!examId || !paperLanguage.request) return;
     setStarting(true);
     setError(null);
+    let testId: string;
     try {
       const { data: test } = await testsApi.create({
         exam_id: examId,
@@ -64,11 +65,17 @@ export default function StudentHome() {
         title: t("home.quickTest"),
         duration_minutes: 20,
       });
-      const { data: attempt } = await testsApi.start(test.id);
+      testId = test.id;
+    } catch (e) {
+      setError(creationErrorText(e, paperLanguage.choice, t));
+      setStarting(false);
+      return;
+    }
+    try {
+      const { data: attempt } = await testsApi.start(testId);
       router.push(`/app/take?attempt=${attempt.attempt_id}`);
     } catch (e) {
-      const detail = errorText(e, t("tests.noQuestions"));
-      setError(paperLanguage.choice === "both" ? `${t("paper.notEnoughBoth")} (${detail})` : detail);
+      setError(errorText(e, t("common.error")));
       setStarting(false);
     }
   }

@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "react";
 import { student, testsApi, type OpenAttempt } from "@/lib/api";
 import { useI18n } from "@/lib/i18n";
-import { Alternate, versionsOf } from "../paper-language";
+import { MultiText, OptionText, optionKeysOf, versionsOf } from "../paper-language";
 import { BUTTON, CARD, GHOST, errorText, useQueryParam } from "../student-context";
 
 /**
@@ -173,7 +173,8 @@ export default function TakeTest() {
   const question = paper.questions[saved.current];
   // A bilingual paper shows every question in both of its languages, the
   // primary first and the other beneath it; a single-language paper has one.
-  const [primary, ...others] = question ? versionsOf(question, paper.languages) : [];
+  // A language with no text says so rather than showing another language.
+  const versions = question ? versionsOf(question, paper.languages) : [];
   const answered = Object.keys(saved.answers).length;
   const total = paper.questions.length;
   const clock =
@@ -212,19 +213,12 @@ export default function TakeTest() {
           <p className="text-xs font-medium uppercase tracking-wide text-slate-500">
             {t("take.question")} {saved.current + 1} {t("take.of")} {total}
           </p>
-          <p lang={primary?.code ?? undefined} className="mt-3 whitespace-pre-line text-base leading-relaxed">
-            {primary?.question_text}
-            {others.map((other) =>
-              other.question_text && other.question_text !== primary?.question_text ? (
-                <Alternate key={other.code} code={other.code}>
-                  {other.question_text}
-                </Alternate>
-              ) : null,
-            )}
+          <p className="mt-3 whitespace-pre-line text-base leading-relaxed">
+            <MultiText versions={versions} field="question_text" />
           </p>
 
           <div className="mt-5 space-y-2">
-            {Object.entries(primary?.options ?? {}).map(([key, text]) => {
+            {optionKeysOf(versions).map((key) => {
               const chosen = saved.answers[question.test_question_id] === key;
               return (
                 <button
@@ -243,15 +237,8 @@ export default function TakeTest() {
                   >
                     {key}
                   </span>
-                  <span lang={primary?.code ?? undefined} className="pt-0.5">
-                    {text}
-                    {others.map((other) =>
-                      other.options[key] && other.options[key] !== text ? (
-                        <Alternate key={other.code} code={other.code}>
-                          {other.options[key]}
-                        </Alternate>
-                      ) : null,
-                    )}
+                  <span className="pt-0.5">
+                    <OptionText versions={versions} optionKey={key} />
                   </span>
                 </button>
               );

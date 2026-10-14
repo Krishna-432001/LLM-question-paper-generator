@@ -30,4 +30,16 @@ class TestQuestion extends Model
     {
         return $this->belongsTo(Question::class);
     }
+
+    /** The translation the paper's primary language was assembled from. */
+    public function translation(): BelongsTo
+    {
+        return $this->belongsTo(QuestionTranslation::class, 'question_translation_id');
+    }
+
+    /** The translation a bilingual paper's second language was assembled from. */
+    public function secondaryTranslation(): BelongsTo
+    {
+        return $this->belongsTo(QuestionTranslation::class, 'secondary_question_translation_id');
+    }
 }

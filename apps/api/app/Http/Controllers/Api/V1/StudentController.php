@@ -143,7 +143,7 @@ final class StudentController extends Controller
         abort_unless($attempt->user_id === app(TenantContext::class)->userId, 404, 'Not found');
 
         if (! $attempt->isSubmitted()) {
-            $test = Test::query()->with('questions.question.translations')->findOrFail($attempt->test_id);
+            $test = Test::query()->with(PaperText::RELATIONS)->findOrFail($attempt->test_id);
             $languages = $test->paperLanguages();
 
             // Resuming must show the paper exactly as it was started: a
@@ -166,10 +166,7 @@ final class StudentController extends Controller
                     'test_question_id' => $tq->getKey(),
                     'sequence' => $tq->sequence,
                     'marks' => $tq->marks,
-                    'question_text' => $tq->question->textIn($test->language_id)?->question_text,
-                    'options' => $tq->question->textIn($test->language_id)?->optionMap(),
-                    'texts' => PaperText::byLanguage($tq->question, $languages),
-                ])->all(),
+                ] + PaperText::payloadFor($tq, $languages))->all(),
             ]]);
         }
 

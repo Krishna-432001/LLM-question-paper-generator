@@ -100,6 +100,11 @@ final class MpdfRenderer implements PdfRenderer
             // Passing fontdata replaces mPDF's table rather than extending
             // it, so the defaults are carried over explicitly.
             'fontdata' => (new FontVariables)->getDefaults()['fontdata'] + UprightTamilFont::fontData(),
+            // A question is a table kept on one page where it fits. When one
+            // cannot fit even a whole page, mPDF's default is to shrink it
+            // until it does — a long passage question came out in 5pt type.
+            // This lets it break across pages at full size instead.
+            'tableMinSizePriority' => true,
         ];
 
         return $config;

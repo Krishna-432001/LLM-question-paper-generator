@@ -161,6 +161,7 @@ const STRINGS = {
     "papers.chooseFile": "Choose a PDF first.",
     "papers.lang.en": "English",
     "papers.lang.ta": "Tamil",
+    "paper.unavailable": "translation unavailable",
   },
   ta: {
     "nav.today": "இன்று",
@@ -310,6 +311,7 @@ const STRINGS = {
     "papers.chooseFile": "முதலில் ஒரு PDF-ஐத் தேர்ந்தெடுக்கவும்.",
     "papers.lang.en": "ஆங்கிலம்",
     "papers.lang.ta": "தமிழ்",
+    "paper.unavailable": "மொழிபெயர்ப்பு கிடைக்கவில்லை",
   },
 } as const;
 

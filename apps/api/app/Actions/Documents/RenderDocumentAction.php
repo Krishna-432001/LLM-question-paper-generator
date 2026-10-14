@@ -9,6 +9,7 @@ use App\Domain\Documents\Contracts\DocumentExporter;
 use App\Domain\Documents\Contracts\PdfRenderer;
 use App\Domain\Documents\DocumentComposer;
 use App\Domain\Tenancy\TenantContext;
+use App\Domain\Tests\PaperText;
 use App\Models\GeneratedDocument;
 use App\Models\StudyPlan;
 use App\Models\Test;
@@ -194,11 +195,15 @@ final class RenderDocumentAction
             // the hash through $languageId.
             $parts[] = 'mode:'.($subject->language_mode ?? Test::MODE_SINGLE)
                 .':'.($subject->secondary_language_id ?? '-');
-            $subject->loadMissing('questions');
-            // Question VERSIONS, not ids: an edited question changes the hash,
-            // so the paper is rebuilt rather than silently going out of date.
+            $subject->loadMissing(PaperText::RELATIONS);
+            $languages = $subject->paperLanguages();
+            // Question VERSIONS, not ids, and the identity, status and text of
+            // every translation row the paper prints from. A translation
+            // edited, re-approved or rejected changes the printed words, so it
+            // must change the hash too — otherwise the old file keeps being
+            // served while the runner shows the new text.
             $parts[] = $subject->questions
-                ->map(fn ($q) => $q->question_id.':'.$q->question_version)
+                ->map(fn ($q) => $q->question_id.':'.$q->question_version.':'.PaperText::fingerprint($q, $languages))
                 ->implode(',');
             $parts[] = (string) $subject->updated_at;
         }

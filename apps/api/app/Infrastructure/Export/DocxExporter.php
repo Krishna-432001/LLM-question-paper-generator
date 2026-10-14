@@ -50,10 +50,14 @@ final class DocxExporter implements DocumentExporter
         $section->addText((string) ($meta['exam'] ?? ''), ['bold' => true, 'size' => 13], ['alignment' => 'center']);
         $section->addText((string) ($meta['title'] ?? ''), ['bold' => true, 'size' => 15], ['alignment' => 'center']);
 
+        // Headings in the paper's own language(s), as the composer supplies
+        // them; English for payloads stored before it did.
+        $label = static fn (string $key, string $english): string => (string) ($meta['labels'][$key] ?? $english);
+
         $line = array_filter([
-            isset($meta['duration_minutes']) ? "Time: {$meta['duration_minutes']} min" : null,
-            isset($meta['total_questions']) ? "Questions: {$meta['total_questions']}" : null,
-            isset($meta['total_marks']) ? 'Marks: '.(float) $meta['total_marks'] : null,
+            isset($meta['duration_minutes']) ? $label('time', 'Time').": {$meta['duration_minutes']} ".$label('minutes', 'min') : null,
+            isset($meta['total_questions']) ? $label('questions', 'Questions').": {$meta['total_questions']}" : null,
+            isset($meta['total_marks']) ? $label('marks', 'Marks').': '.(float) $meta['total_marks'] : null,
         ]);
 
         if ($line !== []) {
@@ -64,7 +68,9 @@ final class DocxExporter implements DocumentExporter
 
         foreach ($payload['questions'] ?? [] as $question) {
             $section->addText(
-                $question['number'].'. '.(string) ($question['text'] ?? ''),
+                // A primary with no printable text is marked, never left as a
+                // bare number nor filled from another language.
+                $question['number'].'. '.(string) ($question['text'] ?? '[translation unavailable]'),
                 ['bold' => false],
                 ['spaceAfter' => 60],
             );
@@ -98,7 +104,7 @@ final class DocxExporter implements DocumentExporter
 
         if (! empty($payload['answers'])) {
             $section->addPageBreak();
-            $section->addText('Answer Key', ['bold' => true, 'size' => 14]);
+            $section->addText($label('answer_key', 'Answer Key'), ['bold' => true, 'size' => 14]);
 
             foreach ($payload['answers'] as $answer) {
                 $section->addText("{$answer['number']}. {$answer['answer']}", [], ['spaceAfter' => 0]);
