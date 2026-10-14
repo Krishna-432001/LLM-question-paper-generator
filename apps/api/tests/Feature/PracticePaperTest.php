@@ -427,6 +427,34 @@ final class PracticePaperTest extends TestCase
         $this->assertTrue($answers->every(fn ($a): bool => $a->is_correct === null && $a->selected_option !== null));
     }
 
+    public function test_an_unkeyed_paper_downloads_its_questions_but_not_a_blank_answer_key(): void
+    {
+        Storage::fake('local');
+        $this->textLayer(self::ENGLISH_PAPER);
+        $testId = $this->upload()->assertCreated()->assertJsonPath('data.keyed', 0)->json('data.test_id');
+
+        // Asked for by name: refused with the way out, not a key of blanks.
+        $this->actingAs($this->student)
+            ->postJson("/api/v1/tests/{$testId}/documents", ['types' => ['answer_key']])
+            ->assertStatus(422)
+            ->assertJsonPath('detail', fn (string $d): bool => str_contains($d, 'no answer key yet'));
+
+        // Asked for everything: the question paper alone.
+        $types = $this->actingAs($this->student)
+            ->postJson("/api/v1/tests/{$testId}/documents")
+            ->assertCreated()
+            ->json('data.*.type');
+        $this->assertSame(['question_paper'], $types);
+
+        // Once a key is added, the key downloads.
+        $this->actingAs($this->student)
+            ->postJson("/api/v1/practice-papers/{$testId}/answer-key", ['key' => '1-A 2-B 3-B 4-C 5-A'])
+            ->assertOk();
+        $this->actingAs($this->student)
+            ->postJson("/api/v1/tests/{$testId}/documents", ['types' => ['answer_key']])
+            ->assertCreated();
+    }
+
     public function test_a_bank_question_still_needs_exactly_one_correct_option(): void
     {
         $question = $this->makeQuestion(1, 'APPROVED');

@@ -12,6 +12,7 @@ use App\Models\StudyPlan;
 use App\Models\Test;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Storage;
 use Symfony\Component\HttpFoundation\StreamedResponse;
 
@@ -77,6 +78,22 @@ final class DocumentController extends Controller
         };
 
         abort_unless($this->canAccess($request, $subject), 404, 'Not found');
+
+        // An uploaded paper whose PDF had no key would print an answer key of
+        // blanks. Asked for by name, that is refused with the way out; as part
+        // of "everything", the key and explanations are simply left out so the
+        // question paper itself still downloads.
+        if ($subject instanceof Test && PracticePaper::is($subject) && ! $this->hasAnyKey($subject)) {
+            $keyed = array_values(array_intersect($requested, ['answer_key', 'explanations']));
+
+            abort_if(
+                $keyed !== [] && $request->has('types'),
+                422,
+                'This paper has no answer key yet. Add it on the Upload paper page, then download the key.',
+            );
+
+            $requested = array_values(array_diff($requested, ['answer_key', 'explanations']));
+        }
 
         $format = (string) $request->input('format', 'pdf');
 
@@ -151,6 +168,14 @@ final class DocumentController extends Controller
         return $subject instanceof Test
             ? $subject->created_by === $user->getKey() || $subject->is_shared || $user->can('tests.create.org')
             : $subject->user_id === $user->getKey() || $user->can('plans.create.org');
+    }
+
+    private function hasAnyKey(Test $test): bool
+    {
+        return DB::table('question_options')
+            ->whereIn('question_id', DB::table('test_questions')->where('test_id', $test->getKey())->select('question_id'))
+            ->where('is_correct', true)
+            ->exists();
     }
 
     private function assertCanDownload(Request $request, GeneratedDocument $document): void
