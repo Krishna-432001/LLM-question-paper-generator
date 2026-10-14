@@ -120,6 +120,31 @@ final class StudentJourneyTest extends TestCase
         $this->assertLessThanOrEqual(20, $minutesLeft);
     }
 
+    public function test_asking_for_a_tamil_test_too_early_starts_translating_the_missing_questions(): void
+    {
+        $this->seed(\Database\Seeders\AiModelSeeder::class);
+        $this->seed(\Database\Seeders\PromptSeeder::class);
+        \Illuminate\Support\Facades\Queue::fake();
+
+        $ask = fn () => $this->actingAs($this->student)->postJson('/api/v1/tests', [
+            'exam_id' => $this->exam->getKey(),
+            'language_id' => Language::byCode('ta')->getKey(),
+            'type' => 'daily',
+            'question_count' => 5,
+        ]);
+
+        // The bank holds only English questions: refused, but not a dead end.
+        $first = $ask()->assertStatus(422)->json();
+        $this->assertStringContainsString('Translation of the missing questions has started', $first['detail']);
+        $this->assertCount(1, $first['meta']['translation_jobs']);
+        \Illuminate\Support\Facades\Queue::assertPushed(\App\Jobs\Translation\TranslateQuestions::class, 1);
+
+        // Asking again while it runs reuses the same job.
+        $second = $ask()->assertStatus(422)->json();
+        $this->assertSame($first['meta']['translation_jobs'][0]['job_id'], $second['meta']['translation_jobs'][0]['job_id']);
+        \Illuminate\Support\Facades\Queue::assertPushed(\App\Jobs\Translation\TranslateQuestions::class, 1);
+    }
+
     public function test_a_reload_resumes_the_attempt_instead_of_starting_again(): void
     {
         [, $attempt] = $this->startTest();

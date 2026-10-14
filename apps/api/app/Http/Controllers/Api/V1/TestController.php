@@ -8,7 +8,9 @@ use App\Actions\Tests\AssembleTestAction;
 use App\Actions\Tests\EvaluateAttemptAction;
 use App\Domain\PracticePapers\PracticePaper;
 use App\Domain\Tenancy\TenantContext;
+use App\Domain\Tests\Exceptions\NotEnoughQuestions;
 use App\Domain\Tests\PaperText;
+use App\Domain\Translation\TranslationRequester;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Tests\CreateTestRequest;
 use App\Http\Requests\Tests\SubmitAttemptRequest;
@@ -23,28 +25,76 @@ final class TestController extends Controller
     {
         $context = app(TenantContext::class);
 
-        $test = $assemble->execute([
-            'organization_id' => $context->organizationId,
-            'user_id' => $context->userId,
-            'exam_id' => $request->string('exam_id')->toString(),
-            'language_id' => $request->string('language_id')->toString(),
-            'language_mode' => $request->input('language_mode', Test::MODE_SINGLE),
-            'secondary_language_id' => $request->input('secondary_language_id'),
-            'type' => $request->string('type')->toString(),
-            'question_count' => $request->integer('question_count'),
-            'title' => $request->input('title', 'Practice Test'),
-            'difficulty_mix' => $request->array('difficulty_mix'),
-            'duration_minutes' => $request->input('duration_minutes'),
-            'negative_marking' => $request->input('negative_marking', 0),
-        ]);
+        try {
+            $test = $assemble->execute([
+                'organization_id' => $context->organizationId,
+                'user_id' => $context->userId,
+                'exam_id' => $request->string('exam_id')->toString(),
+                'language_id' => $request->string('language_id')->toString(),
+                'language_mode' => $request->input('language_mode', Test::MODE_SINGLE),
+                'secondary_language_id' => $request->input('secondary_language_id'),
+                'type' => $request->string('type')->toString(),
+                'question_count' => $request->integer('question_count'),
+                'title' => $request->input('title', 'Practice Test'),
+                'difficulty_mix' => $request->array('difficulty_mix'),
+                'duration_minutes' => $request->input('duration_minutes'),
+                'negative_marking' => $request->input('negative_marking', 0),
+            ]);
+        } catch (NotEnoughQuestions $e) {
+            return $this->shortage($request, $e->getMessage());
+        }
 
-        abort_if(
-            $test->status === 'failed',
-            422,
-            'The question bank has no approved questions matching that request yet.',
-        );
+        if ($test->status === 'failed') {
+            return $this->shortage($request, 'The question bank has no approved questions matching that request yet.');
+        }
 
         return response()->json(['data' => $this->shape($test)], 201);
+    }
+
+    /**
+     * Too few questions in the paper's language(s). Refused — a short paper
+     * would mislead — but the missing translations are queued in the same
+     * breath, so asking again later succeeds instead of failing the same way.
+     * Translating is idempotent per exam and language: repeated requests
+     * return the job already running rather than starting another.
+     */
+    private function shortage(CreateTestRequest $request, string $detail): JsonResponse
+    {
+        $languages = array_values(array_unique(array_filter([
+            strtolower($request->string('language_id')->toString()),
+            $request->input('language_mode') === Test::MODE_BILINGUAL
+                ? strtolower((string) $request->input('secondary_language_id'))
+                : null,
+        ])));
+
+        $requester = app(TranslationRequester::class);
+        $jobs = [];
+
+        foreach ($languages as $languageId) {
+            $job = $requester->queueMissing(
+                $request->string('exam_id')->toString(),
+                $languageId,
+                max(20, 2 * $request->integer('question_count')),
+                app(TenantContext::class)->userId,
+            );
+
+            if ($job !== null) {
+                $jobs[] = ['job_id' => $job->getKey(), 'language_id' => $languageId, 'status' => $job->status->value];
+            }
+        }
+
+        if ($jobs !== []) {
+            $detail .= ' Translation of the missing questions has started; try again in a few minutes.';
+        }
+
+        return response()->json([
+            'type' => 'https://api.examforge.in/problems/not-enough-questions',
+            'title' => 'Not enough questions',
+            'status' => 422,
+            'detail' => $detail,
+            'instance' => $request->path(),
+            'meta' => ['translation_jobs' => $jobs],
+        ], 422);
     }
 
     public function show(string $testId): JsonResponse

@@ -15,6 +15,7 @@ use App\Models\TestQuestion;
 use App\Models\TopicMastery;
 use Illuminate\Database\Eloquent\Collection as EloquentCollection;
 use Illuminate\Support\Facades\DB;
+use App\Domain\Tests\Exceptions\NotEnoughQuestions;
 use Symfony\Component\HttpKernel\Exception\UnprocessableEntityHttpException;
 
 /**
@@ -43,7 +44,7 @@ final class AssembleTestAction
             $available = $this->engine->availability($spec);
 
             if ($available['both'] < max(1, $spec->questionCount)) {
-                throw new UnprocessableEntityHttpException(
+                throw new NotEnoughQuestions(
                     $this->bilingualShortfall($spec, $available),
                 );
             }
