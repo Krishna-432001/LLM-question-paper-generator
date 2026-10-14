@@ -315,7 +315,16 @@ final class TranslationValidator
      */
     private function digits(array $fields): array
     {
-        preg_match_all('/\d+/u', $this->joined($fields), $m);
+        // Subscript and superscript digits are numbers too: CO₂ written back
+        // as CO has lost one.
+        $text = strtr($this->joined($fields), [
+            '₀' => '0', '₁' => '1', '₂' => '2', '₃' => '3', '₄' => '4',
+            '₅' => '5', '₆' => '6', '₇' => '7', '₈' => '8', '₉' => '9',
+            '⁰' => '0', '¹' => '1', '²' => '2', '³' => '3', '⁴' => '4',
+            '⁵' => '5', '⁶' => '6', '⁷' => '7', '⁸' => '8', '⁹' => '9',
+        ]);
+
+        preg_match_all('/\d+/u', $text, $m);
 
         $runs = array_map(static fn (string $d): string => ltrim($d, '0') === '' ? '0' : ltrim($d, '0'), $m[0]);
         sort($runs, SORT_STRING);

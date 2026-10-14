@@ -221,27 +221,32 @@ final class ProtectedSpanMasker
         usort($names, static fn (array $a, array $b): int => mb_strlen($b['source']) <=> mb_strlen($a['source']));
 
         $targets = [];
-        $alternatives = [];
+        $byEdge = [];
 
         foreach ($names as $name) {
-            $targets[mb_strtolower($name['source'])] ??= $name['target'];
-            $alternatives[] = preg_quote($name['source'], '/');
+            $targets[$name['source']] ??= $name['target'];
+
+            // Grouped by the right edge their script needs — a strict word
+            // end for English, a word end or a case ending for Tamil, so
+            // சேரர் never matches inside சேர்மம் — with one edge per group,
+            // not per name, to keep the pattern within PCRE's size limit.
+            $byEdge[WordEdges::after($name['source'])][] = preg_quote($name['source'], '/');
         }
 
-        // Latin names need a boundary on both sides. Tamil inflects by
-        // suffixing the noun (சென்னை → சென்னையில்), so there only the left
-        // edge is fixed and the case ending stays outside the token.
-        $latin = preg_match('/^\P{L}*\p{Latin}/u', $names[0]['source']) === 1;
-        $right = $latin ? '(?![\p{L}\p{M}\p{N}])' : '';
+        $groups = [];
 
-        $pattern = '/(?<![\p{L}\p{M}\p{N}_])(?:'.implode('|', $alternatives).')'.$right.'/iu';
+        foreach ($byEdge as $edge => $alternatives) {
+            $groups[] = '(?:'.implode('|', $alternatives).')'.$edge;
+        }
+
+        // No /i: matched exactly as written, capitals included. "Erode" is a
+        // town; "erode" is what rivers do to rocks.
+        $pattern = '/(?<![\p{L}\p{M}\p{N}_])(?:'.implode('|', $groups).')/u';
 
         return (string) preg_replace_callback(
             $pattern,
             function (array $m) use (&$map, $targets): string {
-                $restore = $targets[mb_strtolower($m[0])] ?? $m[0];
-
-                return $this->issue($m[0], $restore, 'name', $map);
+                return $this->issue($m[0], $targets[$m[0]] ?? $m[0], 'name', $map);
             },
             $text,
         );
@@ -327,19 +332,25 @@ final class ProtectedSpanMasker
         $short = $quote($single);
 
         // Indian grouping (1,26,000) before Western (126,000) before plain.
-        $digits = '(?:\d{1,3}(?:,\d{2})+,\d{3}|\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?';
-        $number = "(?:[₹$]\s?)?{$digits}(?:\/\d+)?(?:(?:\s?(?:{$long})|\s(?:{$short}))(?![\p{L}\p{N}]))?";
+        // A leading sign or decimal point belongs to the number: masking
+        // "5" out of "-5 °C" would let a translation that dropped the minus
+        // pass every check.
+        $digits = '(?:(?:\d{1,3}(?:,\d{2})+,\d{3}|\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?|\.\d+)';
+        $number = "(?:[₹$]\s?)?(?:[-−+](?=[.\d]))?{$digits}(?:\/\d+)?(?:(?:\s?(?:{$long})|\s(?:{$short}))(?![\p{L}\p{N}]))?";
 
         $date = '(?:\d{1,2}[\/.\-]\d{1,2}[\/.\-]\d{2,4}|\d{4}-\d{2}-\d{2}|\d{4}\s?[–\-]\s?\d{2,4})';
 
         $before = '(?<![\p{L}\p{M}\p{N}_])';
-        $after = '(?![\p{L}\p{M}\p{N}])';
+
+        // A formula may be followed straight away by a Tamil case ending
+        // (CO₂வின்), but never by more Latin letters or digits.
+        $chemistryAfter = '(?![\p{Latin}\p{N}_])';
 
         return $this->pattern = '/'
             .'(?<url>(?:https?:\/\/|www\.)[^\s<>"]+)'
-            ."|{$before}(?<equation>{$equation}){$after}"
+            ."|{$before}(?<equation>{$equation}){$chemistryAfter}"
             ."|{$before}(?<date>{$date})(?!\p{N})"
-            ."|{$before}(?<formula>{$formula}){$after}"
+            ."|{$before}(?<formula>{$formula}){$chemistryAfter}"
             ."|{$before}(?<number>{$number})(?!\p{N})"
             .'/u';
     }

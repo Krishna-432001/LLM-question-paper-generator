@@ -56,7 +56,7 @@ final class GlossarySeeder extends Seeder
             ['focal length', 'குவியத் தொலைவு'], ['electric current', 'மின்னோட்டம்'],
             ['potential difference', 'மின்னழுத்த வேறுபாடு'], ['voltage', 'மின்னழுத்தம்'],
             ['electrical resistance', 'மின்தடை'], ['resistor', 'மின்தடையாக்கி'],
-            ['conductor', 'கடத்தி'], ['insulator', 'காப்பான்'], ['semiconductor', 'குறைகடத்தி'],
+            ['conductor', 'கடத்தி'], ['semiconductor', 'குறைகடத்தி'], ['solar cell', 'சூரிய மின்கலம்'],
             ['electric charge', 'மின்னூட்டம்'], ['electric circuit', 'மின்சுற்று'],
             ['electric cell', 'மின்கலம்'], ['dry cell', 'உலர் மின்கலம்'], ['fuse', 'மின் உருகி'],
             ['generator', 'மின்னியற்றி'], ['transformer', 'மின்மாற்றி'], ['electric motor', 'மின் மோட்டார்'],
@@ -176,7 +176,9 @@ final class GlossarySeeder extends Seeder
             ['Attorney General', 'தலைமை வழக்கறிஞர்'], ['Finance Commission', 'நிதி ஆணையம்'],
             ['writ', 'நீதிப்பேராணை'], ['right to equality', 'சமத்துவ உரிமை'],
             ['right to education', 'கல்வி உரிமை'], ['right to information', 'தகவல் அறியும் உரிமை'],
-            ['human rights', 'மனித உரிமைகள்'], ['money bill', 'நிதி மசோதா'],
+            // Money Bill (Art. 110) is பண மசோதா; நிதி மசோதா is a Finance Bill.
+            ['human rights', 'மனித உரிமைகள்'], ['money bill', 'பண மசோதா'],
+            ['adjournment motion', 'ஒத்திவைப்புத் தீர்மானம்'],
             ['ordinance', 'அவசரச் சட்டம்'], ['no-confidence motion', 'நம்பிக்கையில்லாத் தீர்மானம்'],
             ['Planning Commission', 'திட்டக் குழு'], ['political party', 'அரசியல் கட்சி'],
             ['opposition party', 'எதிர்க்கட்சி'], ['constituency', 'தொகுதி'], ['ballot', 'வாக்குச்சீட்டு'],
@@ -194,8 +196,9 @@ final class GlossarySeeder extends Seeder
             ['monsoon', 'பருவக்காற்று'], ['south-west monsoon', 'தென்மேற்குப் பருவக்காற்று'],
             ['north-east monsoon', 'வடகிழக்குப் பருவக்காற்று'], ['climate', 'காலநிலை'],
             ['weather', 'வானிலை'], ['rainfall', 'மழைப்பொழிவு'], ['humidity', 'ஈரப்பதம்'],
-            ['atmosphere', 'வளிமண்டலம்'], ['troposphere', 'அடிவளிமண்டலம்'],
-            ['stratosphere', 'மீவளிமண்டலம்'], ['lithosphere', 'நிலக்கோளம்'],
+            // The atmosphere and earth layers (troposphere, stratosphere,
+            // lithosphere) are left out until their Std 9 terms are checked.
+            ['atmosphere', 'வளிமண்டலம்'],
             ['hydrosphere', 'நீர்க்கோளம்'], ['biosphere', 'உயிர்க்கோளம்'],
             ['earthquake', 'நிலநடுக்கம்'], ['volcano', 'எரிமலை'], ['tsunami', 'ஆழிப்பேரலை'],
             ['cyclone', 'புயல்'], ['flood', 'வெள்ளம்'], ['drought', 'வறட்சி'], ['soil', 'மண்'],
@@ -231,6 +234,7 @@ final class GlossarySeeder extends Seeder
             ['Civil Disobedience Movement', 'சட்டமறுப்பு இயக்கம்'],
             ['Quit India Movement', 'வெள்ளையனே வெளியேறு இயக்கம்'],
             ['Salt Satyagraha', 'உப்புச் சத்தியாகிரகம்'], ['Dandi March', 'தண்டி யாத்திரை'],
+            ['Salt March', 'உப்பு யாத்திரை'],
             ['Swadeshi Movement', 'சுதேசி இயக்கம்'], ['Partition of Bengal', 'வங்கப் பிரிவினை'],
             ['Self-Respect Movement', 'சுயமரியாதை இயக்கம்'], ['Sepoy Mutiny', 'சிப்பாய் கலகம்'],
             ['Governor-General', 'தலைமை ஆளுநர்'], ['Viceroy', 'வைஸ்ராய்'],
@@ -259,8 +263,7 @@ final class GlossarySeeder extends Seeder
             ['balance of payments', 'செலுத்துநிலைச் சமநிலை'], ['globalisation', 'உலகமயமாக்கல்'],
             ['liberalisation', 'தாராளமயமாக்கல்'], ['privatisation', 'தனியார்மயமாக்கல்'],
             ['public sector', 'பொதுத்துறை'], ['private sector', 'தனியார் துறை'],
-            ['primary sector', 'முதன்மைத் துறை'], ['secondary sector', 'இரண்டாம் நிலைத் துறை'],
-            ['tertiary sector', 'சார்புத் துறை'], ['self-help group', 'சுய உதவிக் குழு'],
+            ['primary sector', 'முதன்மைத் துறை'], ['self-help group', 'சுய உதவிக் குழு'],
             ['cooperative society', 'கூட்டுறவுச் சங்கம்'],
             ['public distribution system', 'பொது விநியோக முறை'], ['ration card', 'குடும்ப அட்டை'],
             ['minimum support price', 'குறைந்தபட்ச ஆதரவு விலை'], ['microfinance', 'நுண்கடன்'],
@@ -300,6 +303,12 @@ final class GlossarySeeder extends Seeder
         'exam' => [
             ['statement', 'கூற்று'], ['assertion', 'கூற்று'], ['match the following', 'பொருத்துக'],
             ['none of the above', 'மேற்கண்ட எதுவுமில்லை'], ['all of the above', 'மேற்கண்ட அனைத்தும்'],
+        ],
+        // Phrases that apply in any subject. Each one also stops a subject's
+        // single word from being forced inside it ("force" in Air Force,
+        // "mass" in mass media).
+        'general' => [
+            ['Air Force', 'விமானப்படை'], ['mass media', 'மக்கள் ஊடகங்கள்'],
         ],
     ];
 
@@ -346,8 +355,10 @@ final class GlossarySeeder extends Seeder
             ['Muthulakshmi Reddy', 'முத்துலட்சுமி ரெட்டி'], ['Vallalar', 'வள்ளலார்'],
         ],
         'dynasty' => [
-            ['Cholas', 'சோழர்கள்'], ['Chola', 'சோழ'], ['Pandyas', 'பாண்டியர்கள்'], ['Pandya', 'பாண்டிய'],
-            ['Cheras', 'சேரர்கள்'], ['Chera', 'சேர'], ['Pallavas', 'பல்லவர்கள்'], ['Pallava', 'பல்லவ'],
+            // Whole nouns, never bare stems: சேர alone is the start of
+            // சேர்மம் and சேர்ந்தவர், and would be matched inside them.
+            ['Cholas', 'சோழர்கள்'], ['Chola', 'சோழர்'], ['Pandyas', 'பாண்டியர்கள்'], ['Pandya', 'பாண்டியர்'],
+            ['Cheras', 'சேரர்கள்'], ['Chera', 'சேரர்'], ['Pallavas', 'பல்லவர்கள்'], ['Pallava', 'பல்லவர்'],
         ],
         'literature' => [
             ['Thirukkural', 'திருக்குறள்'], ['Silappathikaram', 'சிலப்பதிகாரம்'],

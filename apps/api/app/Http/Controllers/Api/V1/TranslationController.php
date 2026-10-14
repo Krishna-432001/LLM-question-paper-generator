@@ -234,6 +234,12 @@ final class TranslationController extends Controller
         // Through the question, so a hidden question's translation is a 404.
         $question = Question::query()->with(['options', 'master'])->findOrFail($translation->question_id);
 
+        // A platform question's translation is read by every tenant, so
+        // deciding it is platform curation, not an organisation's own edit.
+        if ($question->isPlatformOwned()) {
+            $this->authorizeCurator($request, 'Only a platform reviewer can approve or reject translations of shared questions.');
+        }
+
         $data = $request->validate([
             'decision' => ['required', 'in:approve,reject'],
             'reason' => ['nullable', 'string', 'max:1000'],
@@ -246,14 +252,6 @@ final class TranslationController extends Controller
 
         abort_if($translation->is_master, 422, 'This is the master text. Change it through question review, not translation review.');
 
-        abort_if($translation->translation_status === 'STALE', 409,
-            'This translation is stale: its master question changed after it was made. Translate it again rather than approving the old text.');
-
-        $latest = $this->store->latest($question->getKey(), $translation->language_id);
-
-        abort_if($latest !== null && $latest->getKey() !== $translation->getKey(), 409,
-            'A newer version of this translation exists. Review that one instead.');
-
         $edits = $data['edits'] ?? [];
         $decision = $data['decision'];
 
@@ -262,7 +260,22 @@ final class TranslationController extends Controller
 
         $reviewer = $request->user();
 
-        $translation = DB::transaction(function () use ($translation, $edits, $decision, $data, $reviewer, $audit): QuestionTranslation {
+        $translation = DB::transaction(function () use ($translation, $question, $edits, $decision, $data, $reviewer, $audit): QuestionTranslation {
+            // The same lock a machine save takes, and the checks repeated
+            // under it: otherwise a new version can be written between the
+            // check and this decision, leaving an approved older version
+            // behind a newer one under review.
+            $this->store->lock($question->getKey(), $translation->language_id);
+            $translation = $translation->fresh() ?? abort(404);
+
+            abort_if($translation->translation_status === 'STALE', 409,
+                'This translation is stale: its master question changed after it was made. Translate it again rather than approving the old text.');
+
+            $latest = $this->store->latest($question->getKey(), $translation->language_id);
+
+            abort_if($latest !== null && $latest->getKey() !== $translation->getKey(), 409,
+                'A newer version of this translation exists. Review that one instead.');
+
             $from = (string) $translation->translation_status;
             $edited = [];
 
@@ -373,6 +386,18 @@ final class TranslationController extends Controller
             $user !== null && ($user->isPlatformAdmin() || $user->can('questions.edit')),
             403,
             'You do not have permission to manage translations.',
+        );
+    }
+
+    /** Platform content: a platform admin or a platform reviewer only. */
+    private function authorizeCurator(Request $request, string $message): void
+    {
+        $user = $request->user();
+
+        abort_unless(
+            $user !== null && ($user->isPlatformAdmin() || $user->can('questions.approve.platform')),
+            403,
+            $message,
         );
     }
 }

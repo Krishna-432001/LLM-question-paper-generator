@@ -6,6 +6,7 @@ namespace App\Domain\Translation;
 
 use App\Domain\Ai\AiGateway;
 use App\Domain\Ai\Exceptions\SchemaValidationException;
+use App\Domain\Translation\Exceptions\TranslationDiscarded;
 use App\Models\AiJob;
 use App\Models\Language;
 use App\Models\Question;
@@ -39,6 +40,7 @@ final class QuestionTranslator
         private readonly TranslationValidator $validator,
         private readonly TranslationStore $store,
         private readonly TranslationPrompts $prompts,
+        private readonly SubjectDomains $subjects,
     ) {}
 
     /**
@@ -87,9 +89,12 @@ final class QuestionTranslator
     ): array {
         $stats = ['translated' => 0, 'validated' => 0, 'needs_review' => 0, 'failed' => 0, 'skipped' => 0, 'errors' => []];
 
-        $names = $this->glossary->namesFor($source->getKey(), $target->getKey());
         $prepared = [];
         $promptTerms = [];
+
+        // Which subjects each question belongs to decides which of the
+        // glossary's subject-specific senses apply to it.
+        $subjects = $this->subjects->forQuestions($questions);
 
         foreach ($questions as $i => $question) {
             $master = $this->masterOf($question);
@@ -99,6 +104,9 @@ final class QuestionTranslator
 
                 continue;
             }
+
+            $questionSubjects = $subjects[$question->getKey()] ?? null;
+            $names = $this->glossary->namesFor($source->getKey(), $target->getKey(), $questionSubjects);
 
             $original = [
                 'question_text' => (string) $master->question_text,
@@ -120,13 +128,15 @@ final class QuestionTranslator
                 implode("\n", [$original['question_text'], ...array_values($original['options']), $original['explanation']]),
                 $source->getKey(),
                 $target->getKey(),
+                $questionSubjects,
             );
 
+            $ref = 'Q'.($i + 1);
+
             foreach ($terms as $term) {
-                $promptTerms[mb_strtolower($term['source'])] = $term;
+                $promptTerms[$term['source']."\u{1F}".$term['target']][] = $ref;
             }
 
-            $ref = 'Q'.($i + 1);
             $previous = $this->store->latest($question->getKey(), $target->getKey());
 
             $item = [
@@ -135,13 +145,21 @@ final class QuestionTranslator
                 'options' => array_intersect_key($masked['fields'], array_flip(self::OPTION_KEYS)),
                 'explanation' => $masked['fields']['explanation'],
                 'placeholders' => array_keys($masked['map']),
+                // Per item, because the same English word can need a
+                // different board term in two questions of one batch.
+                'terminology' => (object) array_column($terms, 'target', 'source'),
             ];
 
-            // A reviewer threw the last attempt out. Saying so changes the
-            // request, so the response cache cannot hand back the very text
-            // that was rejected.
+            // A reviewer threw the last attempt out. The rejected text and
+            // its version go into the request: the model learns what not to
+            // repeat, and each rejection makes the request new, so the
+            // response cache can never hand the same text back.
             if ($previous?->translation_status === 'REJECTED') {
-                $item['note'] = 'A reviewer rejected the previous translation of this item. Translate it afresh, carefully.';
+                $item['note'] = "A reviewer rejected version {$previous->translation_version} of this translation (shown in rejected_translation). Translate it afresh and do not repeat that wording.";
+                $item['rejected_translation'] = [
+                    'question_text' => $previous->question_text,
+                    'options' => $previous->optionMap(),
+                ];
             }
 
             $prepared[$ref] = [
@@ -150,6 +168,10 @@ final class QuestionTranslator
                 'masked' => $masked,
                 'terms' => $terms,
                 'item' => $item,
+                // What was actually translated, pinned so the store can tell
+                // if the master changed while the model was working.
+                'version' => (int) $question->current_version,
+                'fingerprint' => TranslationStore::masterFingerprint($master),
             ];
         }
 
@@ -165,7 +187,7 @@ final class QuestionTranslator
 
         try {
             $reply = $this->ai->structured($promptName, [
-                'glossary' => $this->glossaryBlock(array_values($promptTerms)),
+                'glossary' => $this->glossaryBlock($promptTerms),
                 'items' => array_values(array_column($prepared, 'item')),
                 'source_language' => $source->name,
                 'target_language' => $target->name,
@@ -248,15 +270,27 @@ final class QuestionTranslator
                 )),
             ];
 
-            $saved = $this->store->save(
-                question: $question,
-                languageId: $target->getKey(),
-                fields: $unmasked[$ref],
-                status: $verdict['status'],
-                qualityScore: $verdict['quality_score'],
-                report: $report,
-                jobId: $job?->getKey(),
-            );
+            try {
+                $saved = $this->store->save(
+                    question: $question,
+                    languageId: $target->getKey(),
+                    fields: $unmasked[$ref],
+                    status: $verdict['status'],
+                    qualityScore: $verdict['quality_score'],
+                    report: $report,
+                    jobId: $job?->getKey(),
+                    sourceVersion: $entry['version'],
+                    sourceFingerprint: $entry['fingerprint'],
+                );
+            } catch (TranslationDiscarded $e) {
+                // A master edited mid-flight will be translated again on the
+                // next request; a repeat of rejected text is the model's
+                // failure, and needs a person to write it instead.
+                $stats[$e->reason === TranslationDiscarded::MASTER_CHANGED ? 'skipped' : 'failed']++;
+                $stats['errors'][] = $e->getMessage();
+
+                continue;
+            }
 
             if ($saved === null) {
                 // Became usable while this batch was in flight (a reviewer
@@ -337,16 +371,34 @@ final class QuestionTranslator
         return $question->translations->firstWhere('is_master', true) ?? $question->master;
     }
 
-    /** @param  list<array{source: string, target: string}>  $terms */
+    /**
+     * The batch's terminology, one line per term. When the same word needs
+     * different board terms in different items of one batch, each line says
+     * which items it is for; every item also carries its own list.
+     *
+     * @param  array<string, list<string>>  $terms  "source\x1Ftarget" => item refs
+     */
     private function glossaryBlock(array $terms): string
     {
         if ($terms === []) {
             return '(no listed terms occur in these items)';
         }
 
-        return implode("\n", array_map(
-            static fn (array $t): string => "{$t['source']} => {$t['target']}",
-            $terms,
-        ));
+        $targetsPerSource = [];
+
+        foreach (array_keys($terms) as $key) {
+            $source = mb_strtolower(explode("\u{1F}", (string) $key, 2)[0]);
+            $targetsPerSource[$source] = ($targetsPerSource[$source] ?? 0) + 1;
+        }
+
+        $lines = [];
+
+        foreach ($terms as $key => $refs) {
+            [$source, $target] = explode("\u{1F}", (string) $key, 2);
+            $lines[] = "{$source} => {$target}"
+                .($targetsPerSource[mb_strtolower($source)] > 1 ? ' (only in '.implode(', ', $refs).')' : '');
+        }
+
+        return implode("\n", $lines);
     }
 }

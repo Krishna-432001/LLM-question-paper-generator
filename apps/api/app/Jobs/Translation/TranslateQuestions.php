@@ -12,7 +12,6 @@ use App\Models\AiJob;
 use App\Models\Language;
 use App\Models\Question;
 use App\Models\TestQuestion;
-use Illuminate\Support\Collection;
 
 /**
  * Translates approved questions into one language, ten at a time.
@@ -61,7 +60,7 @@ final class TranslateQuestions extends TrackedJob
             'skipped' => $skipped,
         ];
 
-        if ($candidates->isEmpty()) {
+        if ($candidates === []) {
             $job->progressTo(100, $requested === 0
                 ? 'No approved questions matched the request.'
                 : 'Nothing to translate: every question is already available or awaiting review.');
@@ -69,36 +68,52 @@ final class TranslateQuestions extends TrackedJob
             return $output;
         }
 
-        $batches = $candidates->chunk(self::BATCH_SIZE)->values();
+        $batches = array_chunk($candidates, self::BATCH_SIZE);
         $errors = [];
         $translator = app(QuestionTranslator::class);
+        $store = app(TranslationStore::class);
 
         $job->progressTo(2, sprintf(
             'Translating %d question%s into %s in %d batch%s',
-            $candidates->count(), $candidates->count() === 1 ? '' : 's',
-            $language->name, $batches->count(), $batches->count() === 1 ? '' : 'es',
+            count($candidates), count($candidates) === 1 ? '' : 's',
+            $language->name, count($batches), count($batches) === 1 ? '' : 'es',
         ));
 
-        foreach ($batches as $index => $batch) {
+        foreach ($batches as $index => $ids) {
             // Cancellation is cooperative: checked between batches, so a
             // cancelled job stops after the call already in flight.
             if ($job->refresh()->isCancelled()) {
                 break;
             }
 
-            $result = $translator->translate($batch->values(), $language, $job);
+            // Loaded now, not when the job started: a run of a thousand
+            // questions takes long enough for masters to be edited, approved
+            // translations to appear, or questions to be retired meanwhile.
+            // Whatever no longer needs translating is skipped.
+            $batch = $store->needingTranslation($language->getKey())
+                ->whereIn('id', $ids)
+                ->with(['options', 'translations', 'master'])
+                ->get()
+                ->sortBy(fn (Question $q): int => (int) array_search($q->getKey(), $ids, true))
+                ->values();
 
-            foreach (['translated', 'validated', 'needs_review', 'failed', 'skipped'] as $key) {
-                $output[$key] += $result[$key];
+            $output['skipped'] += count($ids) - $batch->count();
+
+            if ($batch->isNotEmpty()) {
+                $result = $translator->translate($batch, $language, $job);
+
+                foreach (['translated', 'validated', 'needs_review', 'failed', 'skipped'] as $key) {
+                    $output[$key] += $result[$key];
+                }
+
+                $errors = [...$errors, ...$result['errors']];
             }
 
-            $errors = [...$errors, ...$result['errors']];
-
             $job->progressTo(
-                2 + (int) (96 * ($index + 1) / $batches->count()),
+                2 + (int) (96 * ($index + 1) / count($batches)),
                 sprintf(
                     'Batch %d/%d · %d validated · %d need review · %d failed',
-                    $index + 1, $batches->count(), $output['validated'], $output['needs_review'], $output['failed'],
+                    $index + 1, count($batches), $output['validated'], $output['needs_review'], $output['failed'],
                 ),
             );
         }
@@ -111,28 +126,27 @@ final class TranslateQuestions extends TrackedJob
     }
 
     /**
+     * Ids only, in the order they should be translated. The questions
+     * themselves are loaded batch by batch, just before each is translated.
+     *
      * @param  array<string, mixed>  $input
-     * @return array{0: Collection<int, Question>, 1: int, 2: int}  candidates, requested, skipped
+     * @return array{0: list<string>, 1: int, 2: int}  candidate ids, requested, skipped
      */
     private function candidates(array $input, Language $language): array
     {
         $store = app(TranslationStore::class);
-        $with = ['options', 'translations', 'master'];
 
         if (! empty($input['question_ids']) || ! empty($input['test_id'])) {
             $ids = ! empty($input['question_ids'])
                 ? array_values(array_unique(array_map('strval', (array) $input['question_ids'])))
                 : TestQuestion::query()->where('test_id', $input['test_id'])->orderBy('sequence')->pluck('question_id')->unique()->values()->all();
 
-            $wanted = $store->needingTranslation($language->getKey())
-                ->whereIn('id', $ids)
-                ->with($with)
-                ->get()
-                // Keep the caller's order: a paper is translated top to bottom.
-                ->sortBy(fn (Question $q): int => (int) array_search($q->getKey(), $ids, true))
-                ->values();
+            $wanted = $store->needingTranslation($language->getKey())->whereIn('id', $ids)->pluck('id')->all();
 
-            return [$wanted, count($ids), count($ids) - $wanted->count()];
+            // Keep the caller's order: a paper is translated top to bottom.
+            $ordered = array_values(array_filter($ids, static fn (string $id): bool => in_array($id, $wanted, true)));
+
+            return [$ordered, count($ids), count($ids) - count($ordered)];
         }
 
         if (! empty($input['exam_id'])) {
@@ -141,15 +155,16 @@ final class TranslateQuestions extends TrackedJob
             // Best first: if the run is cut short, the questions most likely
             // to appear on a paper are the ones already done.
             $wanted = $store->needingTranslationForExam((string) $input['exam_id'], $language->getKey())
-                ->with($with)
                 ->orderByRaw('quality_score DESC NULLS LAST')
                 ->orderBy('id')
                 ->limit($limit)
-                ->get();
+                ->pluck('id')
+                ->map(static fn ($id): string => (string) $id)
+                ->all();
 
-            return [$wanted, $wanted->count(), 0];
+            return [$wanted, count($wanted), 0];
         }
 
-        return [new Collection, 0, 0];
+        return [[], 0, 0];
     }
 }

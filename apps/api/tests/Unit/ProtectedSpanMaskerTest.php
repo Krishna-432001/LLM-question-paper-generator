@@ -4,7 +4,9 @@ declare(strict_types=1);
 
 namespace Tests\Unit;
 
+use App\Domain\Translation\Glossary;
 use App\Domain\Translation\ProtectedSpanMasker;
+use App\Domain\Translation\TranslationValidator;
 use PHPUnit\Framework\TestCase;
 
 /**
@@ -152,6 +154,44 @@ final class ProtectedSpanMaskerTest extends TestCase
         $this->assertSame(['__PH_2__', '__PH_3__'], $problems['missing']);
         $this->assertSame(['__PH_1__'], $problems['duplicated']);
         $this->assertSame(['__PH_9__'], $problems['unexpected']);
+    }
+
+    /** Review finding m2. */
+    public function test_a_sign_or_leading_point_stays_with_its_number(): void
+    {
+        $this->assertSame(['-5 °C', '.5', '−3'], array_values($this->spans('It fell to -5 °C, then .5 more, then −3.')));
+
+        // A minus between two numbers is subtraction, not a sign.
+        $this->assertSame(['10', '5'], array_values($this->spans('Find 10-5.')));
+    }
+
+    /** Review finding m2. */
+    public function test_a_formula_may_carry_a_tamil_case_ending(): void
+    {
+        $this->masker->reset();
+
+        $this->assertSame('__PH_1__வின் அளவு', $this->masker->mask('CO₂வின் அளவு')['text']);
+    }
+
+    /** Review finding m2: CO₂ written back as CO has lost a number. */
+    public function test_subscript_digits_count_as_numbers(): void
+    {
+        $validator = new TranslationValidator($this->masker, new Glossary);
+        $tamil = ['question_text' => 'எந்த வாயு CO?', 'options' => ['A' => 'ஒன்று', 'B' => 'இரண்டு', 'C' => 'மூன்று', 'D' => 'நான்கு'], 'explanation' => ''];
+
+        $verdict = $validator->validate(
+            source: ['question_text' => 'Which gas is CO₂?', 'options' => ['A' => 'one', 'B' => 'two', 'C' => 'three', 'D' => 'four'], 'explanation' => ''],
+            translated: $tamil,
+            maskedTranslated: ['question_text' => $tamil['question_text']] + $tamil['options'] + ['explanation' => ''],
+            owners: [],
+            terms: [],
+            verification: ['back_translation' => 'Which gas is CO?', 'meaning_score' => 0.95, 'model_choice' => 'A', 'confidence' => 0.9],
+            correctOption: 'A',
+            targetScript: 'Taml',
+        );
+
+        $this->assertContains('V1_STRUCTURE', $verdict['report']['failures']);
+        $this->assertContains('The numbers differ from the source.', $verdict['report']['checks']['V1']['problems']);
     }
 
     public function test_markdown_mangled_tokens_are_repaired_not_lost(): void
