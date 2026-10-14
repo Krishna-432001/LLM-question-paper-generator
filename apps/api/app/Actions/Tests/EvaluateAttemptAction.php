@@ -113,7 +113,11 @@ final class EvaluateAttemptAction
                 'raw_score' => $rawScore,
                 'negative_score' => $negative,
                 'final_score' => $rawScore - $negative,
-                'accuracy' => $attempted > 0 ? round($correct / $attempted * 100, 2) : 0,
+                // Nothing could be marked (no key for anything answered): an
+                // accuracy of 0% would claim every answer was wrong.
+                'accuracy' => $attempted > 0
+                    ? round($correct / $attempted * 100, 2)
+                    : ($unscored > 0 ? null : 0),
                 'time_taken_seconds' => $timeTaken,
                 'topic_breakdown' => $this->withAccuracy($byTopic),
                 'difficulty_breakdown' => $this->withAccuracy($byDifficulty),

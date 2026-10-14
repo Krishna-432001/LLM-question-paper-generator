@@ -9,6 +9,7 @@ use App\Domain\Audit\AuditRecorder;
 use App\Actions\Jobs\DispatchTrackedJobAction;
 use App\Actions\Sources\CreateSourceAction;
 use App\Actions\Tests\AssembleTestAction;
+use App\Domain\PracticePapers\PracticePaper;
 use App\Domain\Review\ReviewWorkflow;
 use App\Domain\Tenancy\TenantContext;
 use App\Http\Controllers\Controller;
@@ -30,6 +31,8 @@ final class SourceController extends Controller
     public function index(Request $request): JsonResponse
     {
         $sources = Source::query()
+            // A paper a student uploaded to practise on is not the institute's.
+            ->tap(fn ($q) => PracticePaper::hidePrivateSources($q, $request->user()))
             ->when($request->filled('kind'), fn ($q) => $q->where('kind', $request->string('kind')))
             ->when($request->filled('status'), fn ($q) => $q->where('status', $request->string('status')))
             ->latest('created_at')
@@ -56,7 +59,9 @@ final class SourceController extends Controller
 
     public function show(string $sourceId): JsonResponse
     {
-        $source = Source::query()->findOrFail($sourceId);
+        $source = Source::query()
+            ->tap(fn ($q) => PracticePaper::hidePrivateSources($q, request()->user()))
+            ->findOrFail($sourceId);
 
         return response()->json([
             'data' => $this->shape($source) + [

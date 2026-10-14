@@ -14,7 +14,7 @@ final class PaperReading
 {
     /**
      * @param  list<ParsedPyq>  $questions
-     * @param  list<string>  $warnings
+     * @param  list<array{code: string, params: array<string, int|string>, message: string}>  $warnings
      */
     public function __construct(
         public readonly array $questions,
@@ -24,4 +24,12 @@ final class PaperReading
         public readonly bool $looksScanned,
         public readonly bool $ocr = false,
     ) {}
+
+    /** How many parts the paper numbers separately. */
+    public function sections(): int
+    {
+        return $this->questions === []
+            ? 0
+            : max(array_map(static fn (ParsedPyq $q): int => $q->section, $this->questions));
+    }
 }

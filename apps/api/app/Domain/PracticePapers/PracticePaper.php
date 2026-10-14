@@ -6,6 +6,7 @@ namespace App\Domain\PracticePapers;
 
 use App\Models\Test;
 use App\Models\User;
+use Illuminate\Database\Eloquent\Builder;
 
 /**
  * What marks a test as an uploaded practice paper, and who may touch one.
@@ -40,6 +41,49 @@ final class PracticePaper
     }
 
     /**
+     * Practice-paper questions are the uploader's, answers included. Every
+     * other question in the bank stays as visible as it was.
+     */
+    public static function hidePrivateQuestions(Builder $query, ?User $user): Builder
+    {
+        if ($user?->isPlatformAdmin()) {
+            return $query;
+        }
+
+        return $query->where(fn (Builder $q) => $q
+            ->where('questions.origin', '!=', 'previous_paper')
+            ->orWhere('questions.created_by', $user?->getKey()));
+    }
+
+    /**
+     * A previous-paper upload is visible to the person who uploaded it. Staff
+     * still see the papers the institute uploaded for PYQ analysis — just not
+     * one a student uploaded to practise on.
+     */
+    public static function hidePrivateSources(Builder $query, ?User $user): Builder
+    {
+        if ($user?->isPlatformAdmin()) {
+            return $query;
+        }
+
+        $staff = $user?->can('sources.view') ?? false;
+
+        return $query->where(function (Builder $q) use ($user, $staff): void {
+            $q->where('sources.kind', '!=', 'previous_paper')
+                ->orWhere('sources.uploaded_by', $user?->getKey());
+
+            if ($staff) {
+                $q->orWhereNotExists(fn ($tests) => $tests
+                    ->selectRaw('1')
+                    ->from('tests')
+                    ->where('tests.type', 'custom')
+                    ->whereRaw("tests.selection_profile->>'kind' = ?", [self::KIND])
+                    ->whereRaw("tests.selection_profile->>'source_id' = sources.id::text"));
+            }
+        });
+    }
+
+    /**
      * @return array<int, int>  sequence => the question's number in the printed paper
      */
     public static function questionNumbers(Test $test): array
@@ -49,6 +93,21 @@ final class PracticePaper
 
         foreach (array_values($numbers) as $i => $number) {
             $bySequence[$i + 1] = (int) $number;
+        }
+
+        return $bySequence;
+    }
+
+    /**
+     * @return array<int, int>  sequence => which part of the paper the question is in (1 when it has one)
+     */
+    public static function questionSections(Test $test): array
+    {
+        $sections = $test->selection_profile['question_sections'] ?? [];
+        $bySequence = [];
+
+        foreach (array_keys(self::questionNumbers($test)) as $sequence) {
+            $bySequence[$sequence] = (int) ($sections[$sequence - 1] ?? 1);
         }
 
         return $bySequence;

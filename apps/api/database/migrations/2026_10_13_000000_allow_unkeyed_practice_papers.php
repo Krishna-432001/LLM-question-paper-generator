@@ -18,6 +18,8 @@ use Illuminate\Support\Facades\DB;
  *   2. Scoring counted every question with no matching option as wrong. A
  *      result now records how many questions had no key at all, so they can
  *      be left out of the score instead of quietly marking the student down.
+ *      When nothing answered could be marked, accuracy is NULL — unknown —
+ *      rather than a 0% that says every answer was wrong.
  */
 return new class extends Migration
 {
@@ -44,6 +46,7 @@ return new class extends Migration
             END $$ LANGUAGE plpgsql;
 
             ALTER TABLE test_results ADD COLUMN IF NOT EXISTS unscored int NOT NULL DEFAULT 0;
+            ALTER TABLE test_results ALTER COLUMN accuracy DROP NOT NULL;
         SQL);
     }
 
@@ -51,6 +54,8 @@ return new class extends Migration
     {
         DB::unprepared(<<<'SQL'
             ALTER TABLE test_results DROP COLUMN IF EXISTS unscored;
+            UPDATE test_results SET accuracy = 0 WHERE accuracy IS NULL;
+            ALTER TABLE test_results ALTER COLUMN accuracy SET NOT NULL;
 
             CREATE OR REPLACE FUNCTION assert_single_correct_option() RETURNS trigger AS $$
             DECLARE

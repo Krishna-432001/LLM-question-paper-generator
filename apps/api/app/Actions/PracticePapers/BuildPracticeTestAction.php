@@ -7,6 +7,7 @@ namespace App\Actions\PracticePapers;
 use App\Domain\Audit\AuditRecorder;
 use App\Domain\PracticePapers\DTOs\PaperReading;
 use App\Domain\PracticePapers\DTOs\PaperSettings;
+use App\Domain\PracticePapers\PaperWarning;
 use App\Domain\PracticePapers\PracticePaper;
 use App\Domain\Pyq\DTOs\ParsedPyq;
 use App\Models\Language;
@@ -60,7 +61,8 @@ final class BuildPracticeTestAction
         }
 
         $keyed = count(array_filter($questions, static fn (ParsedPyq $q): bool => $q->correctOption !== null));
-        $missing = $this->missingNumbers($questions);
+        $sections = $reading->sections();
+        $missing = $this->missingNumbers($questions, $sections);
 
         $report = [
             'parsed' => count($questions),
@@ -72,6 +74,7 @@ final class BuildPracticeTestAction
             'languages_detected' => $detected,
             'language' => $testLanguage,
             'ocr' => $reading->ocr,
+            'sections' => $sections,
             'warnings' => $this->warnings($reading, $questions, $missing, $keyed, $testLanguage),
         ];
 
@@ -98,6 +101,9 @@ final class BuildPracticeTestAction
                     // The printed number of each question, in sequence order,
                     // so a key typed later as "7-B" finds question 7.
                     'question_numbers' => array_map(static fn (ParsedPyq $q): int => $q->number, $questions),
+                    // Which part each number belongs to, for papers whose parts
+                    // each start again at 1.
+                    'question_sections' => array_map(static fn (ParsedPyq $q): int => $q->section, $questions),
                     'report' => $report,
                 ],
             ]);
@@ -206,7 +212,9 @@ final class BuildPracticeTestAction
             'source_id' => $source->getKey(),
             'is_primary' => true,
             // The citation a solution shows: which paper, which question.
-            'breadcrumb' => "{$settings->title} — Q{$parsed->number}",
+            'breadcrumb' => $parsed->section > 1
+                ? "{$settings->title} — part {$parsed->section}, Q{$parsed->number}"
+                : "{$settings->title} — Q{$parsed->number}",
         ]);
 
         return [
@@ -216,25 +224,35 @@ final class BuildPracticeTestAction
     }
 
     /**
-     * Numbers the paper must have printed but the parser could not read.
+     * Numbers the paper must have printed but the parser could not read,
+     * part by part, written "3" or, in a paper with parts, "2.3".
      *
-     * Counted from 1, unless the paper starts well past it: a PDF holding
-     * questions 101-200 is the second part of a longer paper, not one that
+     * Counted from 1, unless a part starts well past it: a PDF holding
+     * questions 101-200 is the second half of a longer paper, not one that
      * lost a hundred questions.
      *
      * @param  list<ParsedPyq>  $questions
-     * @return list<int>
+     * @return list<string>
      */
-    private function missingNumbers(array $questions): array
+    private function missingNumbers(array $questions, int $sections): array
     {
-        if ($questions === []) {
-            return [];
+        $bySection = [];
+
+        foreach ($questions as $question) {
+            $bySection[$question->section][] = $question->number;
         }
 
-        $numbers = array_map(static fn (ParsedPyq $q): int => $q->number, $questions);
-        $lowest = min($numbers);
+        $missing = [];
 
-        return array_values(array_diff(range($lowest <= 5 ? 1 : $lowest, max($numbers)), $numbers));
+        foreach ($bySection as $section => $numbers) {
+            $lowest = min($numbers);
+
+            foreach (array_diff(range($lowest <= 5 ? 1 : $lowest, max($numbers)), $numbers) as $number) {
+                $missing[] = $sections > 1 ? "{$section}.{$number}" : (string) $number;
+            }
+        }
+
+        return $missing;
     }
 
     /**
@@ -276,47 +294,43 @@ final class BuildPracticeTestAction
 
     /**
      * @param  list<ParsedPyq>  $questions
-     * @param  list<int>  $missing
-     * @return list<string>
+     * @param  list<string>  $missing
+     * @return list<array{code: string, params: array<string, int|string>, message: string}>
      */
     private function warnings(PaperReading $reading, array $questions, array $missing, int $keyed, string $testLanguage): array
     {
         $warnings = $reading->warnings;
 
         if ($missing !== []) {
-            $listed = implode(', ', array_slice($missing, 0, self::LISTED_NUMBERS))
-                .(count($missing) > self::LISTED_NUMBERS ? ', …' : '');
-
-            $warnings[] = count($missing).' question'.(count($missing) === 1 ? '' : 's')
-                ." could not be read and {$this->were(count($missing))} left out (numbers {$listed}). "
-                .'A question is skipped rather than guessed when its four options cannot all be found.';
+            $warnings[] = PaperWarning::make('skipped', [
+                'count' => count($missing),
+                'numbers' => implode(', ', array_slice($missing, 0, self::LISTED_NUMBERS))
+                    .(count($missing) > self::LISTED_NUMBERS ? ', …' : ''),
+            ]);
         }
 
         if ($keyed === 0) {
-            $warnings[] = 'No answer key was found in the PDF. You can sit the test now, but answers will not be '
-                .'scored until you add the key (for example "1-A 2-C 3-B").';
+            $warnings[] = PaperWarning::make('no_key');
         } elseif ($keyed < count($questions)) {
-            $unkeyed = count($questions) - $keyed;
-            $warnings[] = "The answer key covers {$keyed} of ".count($questions).' questions; the other '
-                ."{$unkeyed} will not be scored until you add their answers.";
+            $warnings[] = PaperWarning::make('partial_key', [
+                'keyed' => $keyed,
+                'total' => count($questions),
+                'unkeyed' => count($questions) - $keyed,
+            ]);
         }
 
-        $notInLanguage = array_values(array_map(
-            static fn (ParsedPyq $q): int => $q->number,
-            array_filter($questions, static fn (ParsedPyq $q): bool => ! isset($q->translations[$testLanguage])),
-        ));
+        $notInLanguage = array_filter(
+            $questions,
+            static fn (ParsedPyq $q): bool => ! isset($q->translations[$testLanguage]),
+        );
 
         if ($notInLanguage !== [] && count($notInLanguage) < count($questions)) {
-            $warnings[] = count($notInLanguage).' question'.(count($notInLanguage) === 1 ? ' was' : 's were')
-                .' not printed in '.($testLanguage === 'ta' ? 'Tamil' : 'English')
-                .' (or could not be read in it) and will show in the language they were printed in.';
+            $warnings[] = PaperWarning::make('not_in_language', [
+                'count' => count($notInLanguage),
+                'language' => $testLanguage,
+            ]);
         }
 
         return $warnings;
-    }
-
-    private function were(int $count): string
-    {
-        return $count === 1 ? 'was' : 'were';
     }
 }

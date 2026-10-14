@@ -18,13 +18,20 @@ final class StorePracticePaperRequest extends FormRequest
         return $this->user() !== null;
     }
 
+    /**
+     * A question paper is tens of pages, not a 600-page textbook. The cap is
+     * well above any real paper and well below what would tie up a scan and
+     * an OCR run for nothing.
+     */
+    public const MAX_KILOBYTES = 50 * 1024;
+
     /** @return array<string, mixed> */
     public function rules(): array
     {
         return [
             'file' => [
                 'required', 'file',
-                'max:'.(int) (config('examforge.uploads.max_bytes') / 1024),
+                'max:'.self::MAX_KILOBYTES,
                 // The sniffed type, not the extension: a renamed file fails.
                 'mimetypes:application/pdf',
             ],
@@ -41,6 +48,7 @@ final class StorePracticePaperRequest extends FormRequest
         return [
             'file.mimetypes' => 'Upload the question paper as a PDF.',
             'file.required' => 'Choose the question paper PDF to upload.',
+            'file.max' => 'A question paper PDF can be at most 50 MB.',
         ];
     }
 }

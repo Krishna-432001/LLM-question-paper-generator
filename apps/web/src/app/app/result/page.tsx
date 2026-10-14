@@ -6,7 +6,7 @@ import { useI18n } from "@/lib/i18n";
 import { MultiText, OptionText, versionsOf } from "../paper-language";
 import { CARD, GHOST, errorText, useQueryParam } from "../student-context";
 // Practice papers: says "not scored" for questions whose paper had no answer key.
-import { UnscoredNote } from "../papers/unscored-note";
+import { UnscoredNote, useScoring } from "../papers/unscored-note";
 
 /**
  * A finished attempt: the score, where it was lost, and every solution with
@@ -16,6 +16,8 @@ import { UnscoredNote } from "../papers/unscored-note";
 export default function ResultPage() {
   const { t } = useI18n();
   const attemptId = useQueryParam("attempt");
+  // Practice papers: how many questions had no key (owned by the papers feature).
+  const scoring = useScoring(attemptId);
   const [result, setResult] = useState<AttemptResult | null>(null);
   const [solutions, setSolutions] = useState<Solution[]>([]);
   // The paper's languages in print order; a bilingual paper's solutions are
@@ -48,6 +50,9 @@ export default function ResultPage() {
   }
 
   const r = result.result;
+  // Practice papers: with no key for anything answered, a 0 score and 0%
+  // would say every answer was wrong. Show a dash instead.
+  const nothingScored = (scoring?.unscored ?? 0) > 0 && r.attempted === 0;
 
   return (
     <div className="space-y-4">
@@ -60,15 +65,15 @@ export default function ResultPage() {
       </header>
 
       <section className="grid grid-cols-2 gap-3 sm:grid-cols-5">
-        <Stat label={t("result.score")} value={`${r.final_score}`} accent />
-        <Stat label={t("result.accuracy")} value={`${Math.round(r.accuracy)}%`} />
+        <Stat label={t("result.score")} value={nothingScored ? "—" : `${r.final_score}`} accent />
+        <Stat label={t("result.accuracy")} value={nothingScored ? "—" : `${Math.round(r.accuracy)}%`} />
         <Stat label={t("result.correct")} value={`${r.correct}`} tone="text-emerald-700" />
         <Stat label={t("result.wrong")} value={`${r.wrong}`} tone="text-rose-700" />
         <Stat label={t("result.skipped")} value={`${r.unattempted}`} tone="text-slate-500" />
       </section>
 
       {/* Practice papers: unkeyed questions are unscored, not wrong. Owned by the papers feature. */}
-      {attemptId && <UnscoredNote attemptId={attemptId} />}
+      <UnscoredNote scoring={scoring} />
 
       {r.topics.length > 0 && (
         <section className={`${CARD} p-5`}>
@@ -115,7 +120,8 @@ export default function ResultPage() {
                 </p>
                 <p className="mt-2 text-sm">
                   <span className="font-semibold text-emerald-700">
-                    {t("result.answer")}: {s.correct_option}
+                    {/* Practice papers: a question with no key says so instead of a blank. */}
+                    {t("result.answer")}: {s.correct_option ?? t("papers.noKey")}
                   </span>
                   {key && (
                     <span className="ml-1 inline-block align-top">

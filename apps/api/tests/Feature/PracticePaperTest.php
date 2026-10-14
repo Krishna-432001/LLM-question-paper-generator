@@ -153,7 +153,7 @@ final class PracticePaperTest extends TestCase
 
         return $this->actingAs($as ?? $this->student)->post(
             '/api/v1/practice-papers',
-            ['file' => $file, 'title' => 'Group IV 2022'] + $fields,
+            $fields + ['file' => $file, 'title' => 'Group IV 2022'],
             ['Accept' => 'application/json'],
         );
     }
@@ -190,11 +190,11 @@ final class PracticePaperTest extends TestCase
             ->json('data');
     }
 
-    private function otherStudent(): User
+    private function otherStudent(string $role = 'student', string $email = 'other-paper@example.test'): User
     {
-        return TenantContext::withoutTenancy(function (): User {
+        return TenantContext::withoutTenancy(function () use ($role, $email): User {
             $user = User::query()->create([
-                'name' => 'Other', 'email' => 'other-paper@example.test', 'password' => 'secret-pass',
+                'name' => 'Other', 'email' => $email, 'password' => 'secret-pass',
             ]);
             // Same organization, so tenant scope alone would let them through.
             $orgId = OrganizationUser::query()->where('user_id', $this->student->getKey())->value('organization_id');
@@ -203,7 +203,7 @@ final class PracticePaperTest extends TestCase
                 'organization_id' => $orgId, 'user_id' => $user->getKey(), 'status' => 'active', 'is_default' => true,
             ]);
             app(PermissionRegistrar::class)->setPermissionsTeamId($orgId);
-            $user->assignRole('student');
+            $user->assignRole($role);
 
             return $user;
         });
@@ -243,6 +243,16 @@ final class PracticePaperTest extends TestCase
         );
         $this->assertSame('Who wrote Silappathikaram?', $attempt['questions'][4]['question_text']);
         $this->assertSame('Carbon dioxide', $attempt['questions'][3]['options']['C']);
+
+        // The key page follows question 5 and once ended up inside its option
+        // D, showing every answer on screen during the test.
+        $this->assertSame('Bharathi', $attempt['questions'][4]['options']['D']);
+
+        foreach ($attempt['questions'] as $question) {
+            $shown = json_encode([$question['question_text'], $question['options']], JSON_UNESCAPED_UNICODE);
+            $this->assertStringNotContainsStringIgnoringCase('answer key', $shown);
+            $this->assertDoesNotMatchRegularExpression('/\b\d\s*-\s*[A-D]\b/', $shown);
+        }
         $this->assertArrayNotHasKey('correct_option', $attempt['questions'][0]);
         $this->assertNotNull($attempt['expires_at'], 'A practice paper is timed.');
 
@@ -387,7 +397,7 @@ final class PracticePaperTest extends TestCase
             ->assertJsonPath('data.keyed', 0)
             ->json('data');
 
-        $this->assertStringContainsString('No answer key', implode(' ', $report['warnings']));
+        $this->assertContains('no_key', array_column($report['warnings'], 'code'));
 
         // The commit-time trigger, run now: a printed paper with no key yet is
         // allowed to have no correct option.
@@ -455,7 +465,8 @@ final class PracticePaperTest extends TestCase
             ->assertJsonPath('data.keyed', 0)
             ->json('data');
 
-        $this->assertStringContainsString('numbers 3', implode(' ', $report['warnings']));
+        $skipped = collect($report['warnings'])->firstWhere('code', 'skipped');
+        $this->assertSame(['count' => 1, 'numbers' => '3'], $skipped['params']);
         $testId = $report['test_id'];
 
         $first = $this->start($testId);
@@ -620,5 +631,168 @@ final class PracticePaperTest extends TestCase
         $this->upload(['exam_id' => '0190f3a2-0000-7000-8000-000000000000'])
             ->assertStatus(422)
             ->assertJsonPath('detail', 'That exam does not exist or is not active.');
+    }
+
+    // ------------------------------------------------- review regressions
+
+    public function test_practice_questions_sources_and_jobs_are_hidden_from_another_student(): void
+    {
+        Queue::fake();
+        $this->textLayer('', '');
+        $this->ocrEngine(true, self::ENGLISH_PAPER, self::ANSWER_KEY_PAGE);
+
+        $jobId = $this->upload()->assertStatus(202)->json('data.job_id');
+        TenantContext::withoutTenancy(fn () => (new OcrPracticePaper($jobId))->handle());
+
+        [$questionId, $sourceId] = TenantContext::withoutTenancy(fn (): array => [
+            (string) Question::query()->where('origin', 'previous_paper')->value('id'),
+            (string) AiJob::query()->findOrFail($jobId)->subject_id,
+        ]);
+
+        $other = $this->otherStudent();
+
+        // Questions, with their answers.
+        $listed = array_column($this->actingAs($other)->getJson('/api/v1/questions?limit=100')->assertOk()->json('data'), 'id');
+        $this->assertNotContains($questionId, $listed);
+        $this->actingAs($other)->getJson("/api/v1/questions/{$questionId}")->assertNotFound();
+        $this->actingAs($this->student)->getJson("/api/v1/questions/{$questionId}")->assertOk();
+
+        // The uploaded PDF.
+        $this->actingAs($other)->getJson('/api/v1/sources?kind=previous_paper')->assertOk()->assertJsonCount(0, 'data');
+        $this->actingAs($other)->getJson("/api/v1/sources/{$sourceId}")->assertNotFound();
+        $this->actingAs($this->student)->getJson('/api/v1/sources?kind=previous_paper')->assertJsonCount(1, 'data');
+
+        // The OCR job, whose output names the paper and its test.
+        $this->assertNotContains($jobId, array_column($this->actingAs($other)->getJson('/api/v1/jobs')->assertOk()->json('data'), 'id'));
+        $this->actingAs($other)->getJson("/api/v1/jobs/{$jobId}")->assertNotFound();
+        $this->actingAs($this->student)->getJson("/api/v1/jobs/{$jobId}")->assertOk();
+    }
+
+    public function test_a_teacher_cannot_open_sit_or_download_someone_elses_practice_paper(): void
+    {
+        $this->textLayer(self::ENGLISH_PAPER, self::ANSWER_KEY_PAGE);
+        $testId = $this->upload()->assertCreated()->json('data.test_id');
+        $attempt = $this->start($testId);
+        $this->submit($attempt, [1 => 'A']);
+
+        // tests.create.org: may open any test the organization assigns.
+        $teacher = $this->otherStudent('teacher', 'teacher-paper@example.test');
+
+        $this->actingAs($teacher)->getJson("/api/v1/tests/{$testId}")->assertNotFound();
+        $this->actingAs($teacher)->postJson("/api/v1/tests/{$testId}/attempt")->assertNotFound();
+        $this->actingAs($teacher)
+            ->postJson("/api/v1/tests/{$testId}/documents", ['types' => ['answer_key']])
+            ->assertNotFound();
+        $this->actingAs($teacher)->getJson("/api/v1/results/{$attempt['attempt_id']}/solutions")->assertNotFound();
+
+        // The uploader still can.
+        $this->actingAs($this->student)->getJson("/api/v1/results/{$attempt['attempt_id']}/solutions")->assertOk();
+    }
+
+    public function test_an_attempt_with_nothing_scorable_has_no_accuracy_rather_than_zero(): void
+    {
+        $this->textLayer(self::ENGLISH_PAPER);
+        $testId = $this->upload()->assertCreated()->json('data.test_id');
+
+        $result = $this->submit($this->start($testId), [1 => 'A', 2 => 'B']);
+
+        $this->assertNull($result['accuracy'], 'With no key, 0% would say every answer was wrong.');
+        $this->actingAs($this->student)->getJson('/api/v1/me/attempts')->assertJsonPath('data.0.accuracy', null);
+    }
+
+    public function test_warnings_and_refusals_carry_codes_the_app_can_translate(): void
+    {
+        $this->textLayer(self::ENGLISH_PAPER);
+
+        $warning = collect($this->upload()->assertCreated()->json('data.warnings'))->firstWhere('code', 'no_key');
+        $this->assertSame([], $warning['params']);
+        $this->assertStringContainsString('No answer key', $warning['message']);
+
+        $this->textLayer('', '');
+        $this->ocrEngine(false);
+
+        $this->upload()
+            ->assertStatus(422)
+            ->assertJsonPath('code', 'scanned_without_ocr')
+            ->assertJsonPath('detail', fn (string $d): bool => str_contains($d, 'no text layer'));
+    }
+
+    public function test_the_same_file_uploaded_by_another_student_is_still_their_own_paper(): void
+    {
+        $bytes = '%PDF-1.7 the same paper, twice';
+        $this->textLayer(self::ENGLISH_PAPER, self::ANSWER_KEY_PAGE);
+        $this->upload(['title' => 'First copy'], $bytes)->assertCreated();
+
+        $other = $this->otherStudent();
+        $report = $this->upload(['title' => 'Second copy'], $bytes, $other)
+            ->assertCreated()
+            ->assertJsonPath('data.title', 'Second copy')
+            ->json('data');
+
+        $attempt = $this->start($report['test_id'], $other);
+        $this->actingAs($other)
+            ->postJson("/api/v1/attempts/{$attempt['attempt_id']}/submit", ['answers' => [
+                ['test_question_id' => $attempt['questions'][0]['test_question_id'], 'selected_option' => 'A'],
+            ]])
+            ->assertOk();
+
+        $this->assertSame(
+            'Second copy — Q1',
+            $this->actingAs($other)->getJson("/api/v1/results/{$attempt['attempt_id']}/solutions")->json('data.0.sources.0.citation'),
+        );
+
+        // Nothing about the first upload is shown to, or rewritten by, the second.
+        $this->actingAs($other)->getJson('/api/v1/sources?kind=previous_paper')->assertJsonCount(0, 'data');
+        TenantContext::withoutTenancy(function (): void {
+            $source = \App\Models\Source::query()->where('kind', 'previous_paper')->sole();
+            $this->assertSame('First copy', $source->title);
+            $this->assertSame($this->student->getKey(), $source->uploaded_by);
+        });
+    }
+
+    public function test_a_paper_over_fifty_megabytes_is_refused(): void
+    {
+        $this->actingAs($this->student)
+            ->post('/api/v1/practice-papers', [
+                'file' => UploadedFile::fake()->create('huge.pdf', 51 * 1024, 'application/pdf'),
+                'title' => 'Too big',
+            ], ['Accept' => 'application/json'])
+            ->assertStatus(422)
+            ->assertJsonValidationErrors('file');
+    }
+
+    public function test_a_paper_in_parts_takes_a_typed_key_part_by_part(): void
+    {
+        $this->textLayer(<<<'TXT'
+        PART A - GENERAL STUDIES
+        1. Which planet is closest to the Sun?
+        (A) Venus (B) Mercury (C) Mars (D) Earth
+        2. Which gas do plants absorb?
+        (A) Oxygen (B) Nitrogen (C) Carbon dioxide (D) Helium
+        PART B - GENERAL ENGLISH
+        1. Choose the synonym of 'happy'.
+        (A) Sad (B) Glad (C) Angry (D) Tired
+        2. Choose the antonym of 'tall'.
+        (A) Short (B) High (C) Long (D) Big
+        TXT);
+
+        $report = $this->upload()
+            ->assertCreated()
+            ->assertJsonPath('data.parsed', 4)
+            ->assertJsonPath('data.sections', 2)
+            ->json('data');
+
+        $this->assertContains('sections', array_column($report['warnings'], 'code'));
+
+        $this->actingAs($this->student)
+            ->postJson("/api/v1/practice-papers/{$report['test_id']}/answer-key", ['key' => '1-B 2-C 1-B 2-A'])
+            ->assertOk()
+            ->assertJsonPath('data.updated', 4)
+            ->assertJsonPath('data.sections', 2);
+
+        $result = $this->submit($this->start($report['test_id']), [1 => 'B', 2 => 'C', 3 => 'B', 4 => 'B']);
+
+        $this->assertSame(3, $result['correct']);
+        $this->assertSame(1, $result['wrong']);
     }
 }
