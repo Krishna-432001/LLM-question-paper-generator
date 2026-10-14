@@ -10,7 +10,9 @@ use App\Domain\Ai\DTOs\LlmResponse;
 use App\Domain\Tenancy\TenantContext;
 use App\Domain\Translation\Exceptions\TranslationUnavailable;
 use App\Domain\Translation\Glossary;
+use App\Domain\Translation\ProtectedSpanMasker;
 use App\Domain\Translation\QuestionTranslator;
+use App\Domain\Translation\SubjectDomains;
 use App\Domain\Translation\TranslationPrompts;
 use App\Domain\Translation\TranslationRequester;
 use App\Domain\Translation\TranslationStore;
@@ -152,18 +154,11 @@ final class TranslationEngineTest extends TestCase
                 if ($request->operation === 'translation_verify') {
                     $data = ['verifications' => array_map($this->verify, $items)];
                 } else {
-                    $glossary = [];
-
-                    if (preg_match('/<TERMINOLOGY>(.*?)<\/TERMINOLOGY>/s', $request->userPrompt, $g)) {
-                        foreach (preg_split('/\n/', trim($g[1])) ?: [] as $line) {
-                            if (str_contains($line, ' => ')) {
-                                [$from, $to] = explode(' => ', trim($line), 2);
-                                $glossary[$from] = $to;
-                            }
-                        }
-                    }
-
-                    $data = ['translations' => array_map(fn (array $item): array => ($this->translate)($item, $glossary), $items)];
+                    // Each item carries the board terms that apply to it.
+                    $data = ['translations' => array_map(
+                        fn (array $item): array => ($this->translate)($item, (array) ($item['terminology'] ?? [])),
+                        $items,
+                    )];
                 }
 
                 return new LlmResponse($data, $request->modelKey, 10, 10);
@@ -514,17 +509,133 @@ final class TranslationEngineTest extends TestCase
         $this->assertSame($second->getKey(), $fresh->translationIn($this->tamil->getKey())->getKey());
     }
 
-    public function test_a_rejected_translation_is_retried_with_the_rejection_in_the_request(): void
+    /**
+     * Review finding C2: with the response cache on, a translation rejected
+     * twice came back from the cache — byte-identical request, zero model
+     * calls — and its cached verification passed it as AI_VALIDATED.
+     */
+    public function test_a_twice_rejected_translation_is_never_replayed_from_the_cache(): void
     {
+        config(['ai.cache_enabled' => true]);
+
         $question = $this->approved(1);
-        $this->translate([$question]);
-        TenantContext::withoutTenancy(fn () => QuestionTranslation::query()->whereKey($this->tamilOf($question)->getKey())->update(['translation_status' => 'REJECTED']));
+        $calls = 0;
 
-        $this->requests = [];
-        $this->translate([$question]);
+        // The first reply has one wording; every later reply has another.
+        $this->model(translate: function (array $item, array $glossary) use (&$calls): array {
+            $calls++;
+            $out = $this->tamilItem($item, $glossary);
 
+            if ($calls > 1) {
+                $out['question_text'] .= ' மறுமுறை';
+            }
+
+            return $out;
+        });
+
+        $reject = fn () => TenantContext::withoutTenancy(fn () => QuestionTranslation::query()
+            ->whereKey($this->tamilOf($question)->getKey())
+            ->update(['translation_status' => 'REJECTED']));
+
+        $this->translate([$question]);                        // v1
+        $reject();
+        $this->translate([$question]);                        // v2, new wording
         $this->assertSame(2, $this->tamilOf($question)->translation_version);
-        $this->assertStringContainsString('rejected the previous translation', $this->requests[0]->userPrompt);
+        $this->assertStringContainsString('rejected version 1', collect($this->requests)->where('operation', 'translation_ta')->last()->userPrompt);
+
+        $reject();
+        $stats = $this->translate([$question]);              // the model repeats v2's wording
+
+        // The model was really asked again — not answered from the cache.
+        $this->assertSame(3, $calls);
+        $this->assertStringContainsString('rejected version 2', collect($this->requests)->where('operation', 'translation_ta')->last()->userPrompt);
+
+        // And the repeat of rejected text was not stored, let alone served.
+        $this->assertSame(1, $stats['failed']);
+        $this->assertSame(2, $this->tamilOf($question)->translation_version);
+        $this->assertSame('REJECTED', $this->tamilOf($question)->translation_status);
+        $this->assertFalse(TenantContext::withoutTenancy(fn () => QuestionTranslation::query()
+            ->where('question_id', $question->getKey())->whereIn('translation_status', ['AI_VALIDATED', 'HUMAN_APPROVED'])->where('is_master', false)->exists()));
+    }
+
+    /**
+     * Review finding C1: a master edited while the model was working was
+     * stored as AI_VALIDATED with the old number and served.
+     */
+    public function test_a_master_edited_during_translation_is_discarded_not_served(): void
+    {
+        $bumped = $this->approved(1, 'The district had 1,25,000 voters in the last census survey of marker1.');
+        $reworded = $this->approved(2, 'The river carried 4,500 boats across the delta region of marker2.');
+
+        // Mid-call, the way ReviewWorkflow::applyEdits changes a master:
+        // new text, and for one of them a new version number.
+        $this->model(translate: function (array $item, array $glossary) use ($bumped, $reworded): array {
+            static $edited = false;
+
+            if (! $edited) {
+                $edited = true;
+                QuestionTranslation::query()->where('question_id', $bumped->getKey())->where('is_master', true)
+                    ->update(['question_text' => 'The district had 1,00,000 voters in the last census survey of marker1.']);
+                Question::query()->whereKey($bumped->getKey())->update(['current_version' => 2]);
+                QuestionTranslation::query()->where('question_id', $reworded->getKey())->where('is_master', true)
+                    ->update(['question_text' => 'The river carried 9,000 boats across the delta region of marker2.']);
+            }
+
+            return $this->tamilItem($item, $glossary);
+        });
+
+        $stats = $this->translate([$bumped, $reworded]);
+
+        $this->assertSame(0, $stats['validated']);
+        $this->assertSame(2, $stats['skipped']);
+        $this->assertNull($this->tamilOf($bumped));
+        $this->assertNull($this->tamilOf($reworded));
+
+        // A Tamil paper falls back to the current master, never the old text.
+        $served = TenantContext::withoutTenancy(fn () => Question::query()->with('translations')->find($bumped->getKey())->textIn($this->tamil->getKey()));
+        $this->assertTrue($served->is_master);
+        $this->assertStringContainsString('1,00,000', $served->question_text);
+    }
+
+    /** Review finding C1: each batch is loaded just before it is translated. */
+    public function test_a_later_batch_is_translated_from_the_master_as_it_is_by_then(): void
+    {
+        // Eleven questions: ten in batch one, the lowest-quality one alone in
+        // batch two.
+        $late = $this->approved(0);
+
+        foreach (range(1, 10) as $i) {
+            $this->approved($i);
+        }
+
+        $newStem = 'Which edited process now governs 1,00,000 grains within marker0?';
+        $this->answers[$newStem] = 'A';
+        $calls = 0;
+
+        $this->model(translate: function (array $item, array $glossary) use (&$calls, $late, $newStem): array {
+            // The job runs as the admin's tenant, where row-level security
+            // would quietly drop a write to a platform question.
+            if (++$calls === 1) {
+                TenantContext::withoutTenancy(function () use ($late, $newStem): void {
+                    QuestionTranslation::query()->where('question_id', $late->getKey())->where('is_master', true)->update(['question_text' => $newStem]);
+                    Question::query()->whereKey($late->getKey())->update(['current_version' => 2]);
+                });
+            }
+
+            return $this->tamilItem($item, $glossary);
+        });
+
+        $jobId = $this->actingAs($this->admin)
+            ->postJson('/api/v1/translations', ['language_id' => $this->tamil->getKey(), 'exam_id' => $this->exam->getKey(), 'limit' => 11])
+            ->assertStatus(202)
+            ->json('data.job_id');
+
+        $output = TenantContext::withoutTenancy(fn () => AiJob::query()->find($jobId)->output);
+        $this->assertSame(11, $output['validated']);
+
+        $tamil = $this->tamilOf($late);
+        $this->assertStringContainsString('1,00,000', $tamil->question_text);
+        $this->assertSame(2, $tamil->source_question_version);
     }
 
     public function test_a_language_without_a_prompt_fails_clearly(): void
@@ -711,10 +822,198 @@ final class TranslationEngineTest extends TestCase
         $this->assertSame('Tamil Nadu', $reverse['தமிழ்நாடு']['target']);
         $this->assertSame('name', $reverse['தமிழ்நாடு']['kind']);
 
+        // Review finding m1: corrected or withdrawn entries.
+        $value = fn (string $source): ?string => TenantContext::withoutTenancy(fn () => GlossaryTerm::query()->where('source_term', $source)->value('target_term'));
+        $this->assertSame('பண மசோதா', $value('money bill'));
+        $this->assertSame('சேரர்', $value('Chera'));
+        $this->assertSame('சோழர்', $value('Chola'));
+        $this->assertNull($value('troposphere'));
+        $this->assertNull($value('stratosphere'));
+
         // Re-seeding never overwrites a reviewer's correction.
         TenantContext::withoutTenancy(fn () => GlossaryTerm::query()->where('source_term', 'photosynthesis')->update(['target_term' => 'ஒளிச்சேர்க்கை (திருத்தம்)']));
         $this->seed(\Database\Seeders\GlossarySeeder::class);
         $this->assertSame('ஒளிச்சேர்க்கை (திருத்தம்)', TenantContext::withoutTenancy(fn () => GlossaryTerm::query()->where('source_term', 'photosynthesis')->value('target_term')));
+    }
+
+    // ------------------------------------------- glossary matching (review)
+
+    private function seededGlossary(): Glossary
+    {
+        $this->seed(\Database\Seeders\GlossarySeeder::class);
+
+        return app(Glossary::class);
+    }
+
+    /**
+     * @param  list<array{source: string, target: string}>  $names
+     * @return list<string>  "original => restored" for each masked name
+     */
+    private function nameSpans(string $text, array $names): array
+    {
+        $masker = new ProtectedSpanMasker;
+        $masker->reset();
+
+        return array_values(array_map(
+            static fn (array $e): string => "{$e['original']} => {$e['restore']}",
+            array_filter($masker->mask($text, $names)['map'], static fn (array $e): bool => $e['kind'] === 'name'),
+        ));
+    }
+
+    /** Review finding M1. */
+    public function test_tamil_names_never_match_inside_ordinary_tamil_words(): void
+    {
+        $names = $this->seededGlossary()->namesFor($this->tamil->getKey(), $this->english->getKey());
+
+        // சேர்மம் (compound), சேர்ந்தவர் (belonging to), நேரும் (happens).
+        $this->assertSame([], $this->nameSpans('சேர்மம் ஒன்றைச் சேர்ந்தவர் நேரும் போது வந்தார்.', $names));
+
+        // Real names, bare or with a case ending, are still pinned.
+        $this->assertSame(
+            ['நேரு => Nehru', 'சேரர்கள் => Cheras', 'சென்னை => Chennai'],
+            $this->nameSpans('நேருவின் காலத்தில் சேரர்கள் பற்றி சென்னையில் பேசினார்.', $names),
+        );
+    }
+
+    /** Review finding M2. */
+    public function test_english_names_match_only_with_their_capitals(): void
+    {
+        $names = $this->seededGlossary()->namesFor($this->english->getKey(), $this->tamil->getKey());
+
+        $this->assertSame([], $this->nameSpans('Which agent does not erode rocks?', $names));
+        $this->assertSame(['Erode => ஈரோடு'], $this->nameSpans('Erode is known for turmeric.', $names));
+    }
+
+    /** Review finding M3, with the reviewer's own examples. */
+    public function test_tamil_to_english_lookups_do_not_force_wrong_senses(): void
+    {
+        $glossary = $this->seededGlossary();
+        $every = ['physics', 'chemistry', 'biology', 'environment', 'polity', 'geography', 'history', 'economy', 'aptitude'];
+        $found = fn (string $text): array => array_column(
+            $glossary->termsIn($text, $this->tamil->getKey(), $this->english->getKey(), $every),
+            'target',
+        );
+
+        // Planets are not weekdays, and வெள்ளி is not only Friday.
+        $this->assertSame([], array_values(array_intersect(
+            ['Thursday', 'Saturday', 'Tuesday', 'Wednesday', 'Friday', 'silver'],
+            $found('சூரியனுக்கு அருகிலுள்ள கோள் எது? (A) வியாழன் (B) சனி (C) செவ்வாய் (D) புதன். வெள்ளி ஒளிரும்.'),
+        )));
+
+        foreach ([
+            'சொற்களை வரிசைப்படுத்துக' => 'tax',
+            'வண்டி ஊருக்குச் செல்கிறது' => 'cell',
+            'இந்தியாவின் கனிம வளங்கள்' => 'fruit',
+            'அவர் சட்டத்தை நிறைவேற்றினார்' => 'mass',
+            'ஆரம்பக் கல்வி இலவசம்' => 'radius',
+            'ஆயிரங்கால் மண்டபம்' => 'soil',
+            'அவர் சாதித்தது பெரியது' => 'caste',
+        ] as $text => $wrong) {
+            $this->assertNotContains($wrong, $found($text), "'{$wrong}' was forced on: {$text}");
+        }
+
+        // A real occurrence with its case ending still counts.
+        $this->assertContains('photosynthesis', $found('ஒளிச்சேர்க்கையின் போது ஆக்ஸிஜன் வெளிவிடப்படுகிறது'));
+    }
+
+    /** Review finding M4. */
+    public function test_english_terms_follow_the_questions_subject_and_phrases_beat_words(): void
+    {
+        $glossary = $this->seededGlossary();
+        $terms = fn (string $text, ?array $subjects): array => array_column(
+            $glossary->termsIn($text, $this->english->getKey(), $this->tamil->getKey(), $subjects),
+            'target',
+            'source',
+        );
+
+        $this->assertSame(['Air Force' => 'விமானப்படை'], $terms('The Indian Air Force was formed in 1932.', null));
+        $this->assertSame(['adjournment motion' => 'ஒத்திவைப்புத் தீர்மானம்'], $terms('Who admits an adjournment motion?', ['polity']));
+        $this->assertSame(['mass media' => 'மக்கள் ஊடகங்கள்'], $terms('Mass media shapes public opinion.', null));
+        $this->assertSame(['solar cell' => 'சூரிய மின்கலம்'], $terms('A solar cell converts sunlight.', ['physics']));
+        $this->assertSame(['Salt March' => 'உப்பு யாத்திரை'], $terms('Who led the Salt March?', ['history']));
+        $this->assertSame(['equation' => 'சமன்பாடு'], $terms('Find the roots of the equation.', ['aptitude']));
+        $this->assertArrayNotHasKey('President', $terms('Who was the President of the Indian National Congress in 1938?', ['history']));
+
+        // A subject's single words apply in that subject only, and not at
+        // all when the subject is unknown.
+        $this->assertSame([], $terms('A force acts on the body in motion.', null));
+        $this->assertEquals(['force' => 'விசை', 'motion' => 'இயக்கம்'], $terms('A force acts on the body in motion.', ['physics']));
+
+        // A reviewer's polity sense is used for polity questions.
+        TenantContext::withoutTenancy(fn () => GlossaryTerm::query()->create([
+            'source_language_id' => $this->english->getKey(), 'target_language_id' => $this->tamil->getKey(),
+            'source_term' => 'motion', 'target_term' => 'தீர்மானம்', 'kind' => 'term', 'domain' => 'polity', 'is_active' => true,
+        ]));
+        $glossary->flush();
+
+        $this->assertSame(['motion' => 'தீர்மானம்'], $terms('The motion was adopted by the House.', ['polity']));
+        $this->assertSame(['motion' => 'இயக்கம்'], $terms('The motion was adopted by the House.', ['physics']));
+    }
+
+    /** Review finding M4: the subject comes from the question's topic. */
+    public function test_a_questions_subject_is_read_from_its_topic(): void
+    {
+        $topic = $this->makeTopic('union-and-state-executive', 'Union and State Executive');
+        $question = $this->approved(1);
+        TenantContext::withoutTenancy(fn () => Question::query()->whereKey($question->getKey())->update(['canonical_topic_id' => $topic->getKey()]));
+
+        $subjects = app(SubjectDomains::class);
+        $domains = TenantContext::withoutTenancy(fn () => $subjects->forQuestions(Question::query()->whereKey($question->getKey())->get()));
+
+        $this->assertSame(['polity'], $domains[$question->getKey()]);
+        $this->assertSame(['physics'], $subjects->domainsIn('Physics: Force, Motion and Energy'));
+        $this->assertNull($subjects->domainsIn('Miscellany'));
+    }
+
+    /** Review finding m3. */
+    public function test_only_the_newest_version_decides_availability(): void
+    {
+        $question = $this->approved(1);
+
+        TenantContext::withoutTenancy(function () use ($question): void {
+            foreach ([[1, 'HUMAN_APPROVED'], [2, 'NEEDS_REVIEW']] as [$version, $status]) {
+                QuestionTranslation::query()->create([
+                    'question_id' => $question->getKey(), 'language_id' => $this->tamil->getKey(), 'is_master' => false,
+                    'question_text' => "பதிப்பு {$version}", 'option_a' => 'அ', 'option_b' => 'ஆ', 'option_c' => 'இ', 'option_d' => 'ஈ',
+                    'translation_version' => $version, 'translation_status' => $status,
+                ]);
+            }
+        });
+
+        [$available, $served] = TenantContext::withoutTenancy(fn () => [
+            Question::query()->availableIn($this->tamil->getKey())->whereKey($question->getKey())->exists(),
+            Question::query()->with('translations')->find($question->getKey())->textIn($this->tamil->getKey()),
+        ]);
+
+        // Selection and printing agree: the newest version is under review,
+        // so the question is not available in Tamil and falls back.
+        $this->assertFalse($available);
+        $this->assertTrue($served->is_master);
+    }
+
+    /** Review finding m4. */
+    public function test_an_organisation_admin_cannot_decide_shared_translations_or_change_the_glossary(): void
+    {
+        $orgAdmin = $this->makeAdmin('org@example.test', 'organization_admin', platformAdmin: false);
+        $reviewer = $this->makeAdmin('reviewer@example.test', 'content_reviewer', platformAdmin: false);
+        $question = $this->approved(1); // platform-owned
+        $this->model(verify: fn (array $item): array => [
+            'ref' => $item['ref'], 'back_translation' => 'x', 'meaning_score' => 0.95, 'model_choice' => 'D', 'confidence' => 0.9,
+        ]);
+        $this->translate([$question]);
+        $tamil = $this->tamilOf($question);
+        $pair = ['source_language_id' => $this->english->getKey(), 'target_language_id' => $this->tamil->getKey()];
+
+        $this->actingAs($orgAdmin)->getJson("/api/v1/translations/review?language_id={$this->tamil->getKey()}")->assertOk();
+        $this->actingAs($orgAdmin)->postJson("/api/v1/translations/{$tamil->getKey()}/decide", ['decision' => 'approve'])->assertForbidden();
+        $this->actingAs($orgAdmin)->getJson('/api/v1/glossary')->assertOk();
+        $this->actingAs($orgAdmin)->postJson('/api/v1/glossary', $pair + ['source_term' => 'a', 'target_term' => 'b'])->assertForbidden();
+        $this->actingAs($orgAdmin)->postJson('/api/v1/glossary/import', $pair + ['csv' => 'a,b'])->assertForbidden();
+        $this->assertSame('NEEDS_REVIEW', $this->tamilOf($question)->translation_status);
+
+        // A platform reviewer may.
+        $this->actingAs($reviewer)->postJson("/api/v1/translations/{$tamil->getKey()}/decide", ['decision' => 'approve'])->assertOk();
+        $this->assertSame('HUMAN_APPROVED', $this->tamilOf($question)->translation_status);
     }
 
     // ----------------------------------------------------------- requester

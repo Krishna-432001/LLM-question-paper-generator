@@ -103,13 +103,23 @@ class Question extends Model
         return $query->whereIn('status', ['AI_VALIDATED', 'PENDING_REVIEW']);
     }
 
-    /** Only questions that actually exist in the requested language. */
+    /**
+     * Only questions that actually exist in the requested language. As in
+     * translationIn(), only the master or the newest translation version
+     * counts: an older approved version behind a newer one under review is
+     * not what a paper would print.
+     */
     public function scopeAvailableIn(Builder $query, string $languageId): Builder
     {
         return $query->whereHas(
             'translations',
             fn (Builder $q) => $q->where('language_id', $languageId)
                 ->whereIn('translation_status', ['AI_VALIDATED', 'HUMAN_APPROVED'])
+                ->where(fn (Builder $w) => $w->where('is_master', true)->orWhereRaw(
+                    'translation_version = (SELECT max(t2.translation_version) FROM question_translations t2
+                        WHERE t2.question_id = question_translations.question_id
+                          AND t2.language_id = question_translations.language_id AND NOT t2.is_master)'
+                ))
         );
     }
 

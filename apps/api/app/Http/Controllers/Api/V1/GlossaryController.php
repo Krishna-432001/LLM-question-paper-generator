@@ -73,7 +73,7 @@ final class GlossaryController extends Controller
 
     public function store(Request $request): JsonResponse
     {
-        $this->authorizeEditor($request);
+        $this->authorizeCurator($request);
 
         $data = $request->validate([
             'source_language_id' => ['required', 'uuid', 'exists:languages,id'],
@@ -123,7 +123,7 @@ final class GlossaryController extends Controller
 
     public function update(Request $request, string $termId): JsonResponse
     {
-        $this->authorizeEditor($request);
+        $this->authorizeCurator($request);
 
         $term = GlossaryTerm::query()->findOrFail($termId);
 
@@ -168,7 +168,7 @@ final class GlossaryController extends Controller
     /** Deactivates. A term is never deleted; see the class comment. */
     public function destroy(Request $request, string $termId): JsonResponse
     {
-        $this->authorizeEditor($request);
+        $this->authorizeCurator($request);
 
         $term = GlossaryTerm::query()->findOrFail($termId);
 
@@ -191,7 +191,7 @@ final class GlossaryController extends Controller
      */
     public function import(Request $request): JsonResponse
     {
-        $this->authorizeEditor($request);
+        $this->authorizeCurator($request);
 
         $data = $request->validate([
             'source_language_id' => ['required', 'uuid', 'exists:languages,id'],
@@ -350,7 +350,23 @@ final class GlossaryController extends Controller
         abort_unless(
             $user !== null && ($user->isPlatformAdmin() || $user->can('questions.edit')),
             403,
-            'You do not have permission to edit the glossary.',
+            'You do not have permission to view the glossary.',
+        );
+    }
+
+    /**
+     * The glossary is shared by every tenant and enforced on every shared
+     * question, so changing it is platform curation: a platform admin or a
+     * platform reviewer, not an organisation's own editor.
+     */
+    private function authorizeCurator(Request $request): void
+    {
+        $user = $request->user();
+
+        abort_unless(
+            $user !== null && ($user->isPlatformAdmin() || $user->can('questions.approve.platform')),
+            403,
+            'Only a platform reviewer can change the shared glossary.',
         );
     }
 }
