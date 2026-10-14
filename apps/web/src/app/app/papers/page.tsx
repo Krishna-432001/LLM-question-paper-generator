@@ -3,9 +3,11 @@
 import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useRef, useState, type FormEvent } from "react";
 import {
+  PaperApiError,
   practicePapers,
   testsApi,
   type AnswerKeyResult,
+  type PaperWarning,
   type PracticePaperReport,
   type PracticePaperRow,
 } from "@/lib/api";
@@ -14,6 +16,64 @@ import { BUTTON, CARD, FIELD, GHOST, errorText } from "../student-context";
 
 /** How often a scanned paper's OCR job is checked. OCR takes minutes, not seconds. */
 const POLL_MS = 3000;
+
+/** Queued this long without starting: say the worker may not be running. */
+const QUEUED_NOTICE_MS = 60_000;
+
+/** Stop polling after this; the job carries on and the paper shows up in the list. */
+const POLL_LIMIT_MS = 30 * 60_000;
+
+/** Server titles are capped at 200 characters; a long file name must fit. */
+const TITLE_MAX = 200;
+
+const WARNING_CODES = new Set([
+  "pages_unreadable",
+  "ocr_unsure",
+  "skipped",
+  "no_key",
+  "partial_key",
+  "not_in_language",
+  "sections",
+  "key_first_section_only",
+  "key_sections_mismatch",
+]);
+
+const ERROR_CODES = new Set([
+  "no_text_reader",
+  "scanned_without_ocr",
+  "no_questions",
+  "no_questions_after_ocr",
+  "no_exam",
+  "exam_not_available",
+  "unreadable_key",
+]);
+
+type Translate = (key: MessageKey) => string;
+
+function titleFrom(name: string): string {
+  return name.replace(/\.pdf$/i, "").slice(0, TITLE_MAX);
+}
+
+/** A warning in the reader's language, from its code; the server's English otherwise. */
+function warningText(warning: PaperWarning, t: Translate): string {
+  const template = WARNING_CODES.has(warning.code)
+    ? t(`papers.warn.${warning.code}` as MessageKey)
+    : warning.message;
+
+  return template.replace(/\{(\w+)\}/g, (whole: string, name: string) => {
+    const value = warning.params[name];
+    if (value === undefined) return whole;
+    if (name === "language" && (value === "en" || value === "ta")) return t(`papers.lang.${value}` as MessageKey);
+    return String(value);
+  });
+}
+
+/** A refusal in the reader's language when the server gave a code we know. */
+function failureText(e: unknown, t: Translate, code?: string): string {
+  const reason = code ?? (e instanceof PaperApiError ? e.code : undefined);
+  if (reason && ERROR_CODES.has(reason)) return t(`papers.err.${reason}` as MessageKey);
+  return errorText(e, t("papers.failed"));
+}
 
 /**
  * Upload a question paper and sit it as a timed test.
@@ -34,6 +94,7 @@ export default function PapersPage() {
   const [minutes, setMinutes] = useState("");
   const [busy, setBusy] = useState(false);
   const [ocr, setOcr] = useState(false);
+  const [queuedTooLong, setQueuedTooLong] = useState(false);
   const [report, setReport] = useState<PracticePaperReport | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [keyFor, setKeyFor] = useState<string | null>(null);
@@ -62,16 +123,26 @@ export default function PapersPage() {
   }, [load, t]);
 
   async function waitForJob(jobId: string): Promise<PracticePaperReport | null> {
+    const startedAt = Date.now();
+
     for (;;) {
       await new Promise((resolve) => setTimeout(resolve, POLL_MS));
       if (!mounted.current) return null;
 
       const { data } = await practicePapers.job(jobId);
+      const output = data.output;
 
-      if (data.status === "COMPLETED" && data.output) return data.output;
+      if (data.status === "COMPLETED" && output && "test_id" in output) return output;
       if (data.status === "FAILED" || data.status === "CANCELLED") {
-        throw new Error(data.error?.message ?? t("papers.failed"));
+        const code = output && "error" in output ? output.error.code : undefined;
+        throw new Error(failureText(new Error(data.error?.message ?? t("papers.failed")), t, code));
       }
+
+      // Nothing picks up a job when no queue worker runs; polling would
+      // otherwise spin forever with no hint why.
+      const waited = Date.now() - startedAt;
+      if (data.status === "QUEUED" && waited > QUEUED_NOTICE_MS) setQueuedTooLong(true);
+      if (waited > POLL_LIMIT_MS) throw new Error(t("papers.timedOut"));
     }
   }
 
@@ -86,10 +157,11 @@ export default function PapersPage() {
     setBusy(true);
     setError(null);
     setReport(null);
+    setQueuedTooLong(false);
 
     const form = new FormData();
     form.append("file", file);
-    form.append("title", title.trim() || file.name.replace(/\.pdf$/i, ""));
+    form.append("title", (title.trim() || titleFrom(file.name)).slice(0, TITLE_MAX));
     if (minutes.trim()) form.append("duration_minutes", minutes.trim());
     // Sit it in the interface language when the paper was printed in it.
     form.append("language", locale);
@@ -109,7 +181,7 @@ export default function PapersPage() {
       setReport(result);
       await load();
     } catch (e) {
-      if (mounted.current) setError(errorText(e, t("papers.failed")));
+      if (mounted.current) setError(failureText(e, t));
     } finally {
       if (mounted.current) {
         setBusy(false);
@@ -148,14 +220,14 @@ export default function PapersPage() {
             onChange={(e) => {
               const chosen = e.target.files?.[0] ?? null;
               setFile(chosen);
-              if (chosen && !title.trim()) setTitle(chosen.name.replace(/\.pdf$/i, ""));
+              if (chosen && !title.trim()) setTitle(titleFrom(chosen.name));
             }}
           />
         </label>
         <div className="grid gap-3 sm:grid-cols-3">
           <label className="text-sm sm:col-span-2">
             <span className="mb-1 block text-xs text-slate-500">{t("papers.paperTitle")}</span>
-            <input className={FIELD} value={title} maxLength={200} onChange={(e) => setTitle(e.target.value)} />
+            <input className={FIELD} value={title} maxLength={TITLE_MAX} onChange={(e) => setTitle(e.target.value)} />
           </label>
           <label className="text-sm">
             <span className="mb-1 block text-xs text-slate-500">{t("papers.minutes")}</span>
@@ -172,6 +244,9 @@ export default function PapersPage() {
           {busy ? t("papers.reading") : t("papers.upload")}
         </button>
         {ocr && <p className="rounded-xl bg-indigo-50 px-4 py-3 text-sm text-indigo-800">{t("papers.ocr")}</p>}
+        {ocr && queuedTooLong && (
+          <p className="rounded-xl bg-amber-50 px-4 py-3 text-sm text-amber-800">{t("papers.stillQueued")}</p>
+        )}
         {error && <p className="rounded-xl bg-red-50 px-4 py-3 text-sm text-red-700">{error}</p>}
       </form>
 
@@ -201,7 +276,7 @@ export default function PapersPage() {
               <p className="font-semibold">{t("papers.warnings")}</p>
               <ul className="mt-1 list-disc space-y-1 pl-5">
                 {report.warnings.map((warning) => (
-                  <li key={warning}>{warning}</li>
+                  <li key={warning.code}>{warningText(warning, t)}</li>
                 ))}
               </ul>
             </div>
@@ -289,7 +364,7 @@ function KeyEditor({ testId, onSaved }: { testId: string; onSaved: () => Promise
       setResult(data);
       await onSaved();
     } catch (e) {
-      setError(errorText(e, t("common.error")));
+      setError(failureText(e, t));
     } finally {
       setBusy(false);
     }

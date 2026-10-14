@@ -1089,6 +1089,16 @@ export const documentsApi = {
 // Appended block owned by the practice-paper feature. Sitting the paper and
 // reading its solutions use testsApi; only upload, list and key live here.
 
+/**
+ * Something to check about an uploaded paper. `code` and `params` are what
+ * the app translates (papers.warn.<code>); `message` is the server's English.
+ */
+export interface PaperWarning {
+  code: string;
+  params: Record<string, string | number>;
+  message: string;
+}
+
 /** What was read from an uploaded paper. Also the output of its OCR job. */
 export interface PracticePaperReport {
   test_id: string;
@@ -1099,10 +1109,11 @@ export interface PracticePaperReport {
   skipped: number;
   keyed: number;
   pages: number;
+  sections: number;
   languages_detected: string[];
   language: string;
   ocr: boolean;
-  warnings: string[];
+  warnings: PaperWarning[];
 }
 
 /** A scanned PDF: the paper is being read by OCR; poll the job for the report. */
@@ -1131,9 +1142,11 @@ export interface AnswerKeyResult {
   test_id: string;
   updated: number;
   unchanged: number;
-  unmatched: number[];
+  /** Paper numbers with no question; "2.3" style when the paper has parts. */
+  unmatched: Array<number | string>;
   keyed: number;
   question_count: number;
+  sections: number;
   rescored: boolean;
   message: string;
 }
@@ -1146,15 +1159,63 @@ export interface AttemptScoring {
   scored: number | null;
 }
 
-export type PracticePaperJob = JobRow & { output: PracticePaperReport | null };
+/** A failed OCR job keeps the reason code beside the ledger's own error. */
+export type PracticePaperJob = JobRow & {
+  output: PracticePaperReport | { error: { code: string; message: string } } | null;
+};
+
+/** An API refusal that also says why in a code the app can translate. */
+export class PaperApiError extends ApiError {
+  constructor(
+    message: string,
+    status: number,
+    detail?: string,
+    errors?: Record<string, string[]>,
+    readonly code?: string,
+  ) {
+    super(message, status, detail, errors);
+  }
+}
+
+/**
+ * The practice-paper calls go through here rather than request()/upload()
+ * only so the `code` on a refusal survives to the page.
+ */
+async function paperCall<T>(path: string, init: RequestInit): Promise<T> {
+  const token = getToken();
+  const response = await fetch(`${BASE}${path}`, {
+    ...init,
+    headers: {
+      Accept: "application/json",
+      ...(init.body instanceof FormData ? {} : { "Content-Type": "application/json" }),
+      ...(token ? { Authorization: `Bearer ${token}` } : {}),
+    },
+  });
+  const body = await response.json().catch(() => null);
+
+  if (!response.ok) {
+    throw new PaperApiError(
+      body?.title ?? "Request failed",
+      response.status,
+      body?.detail,
+      body?.errors ?? undefined,
+      typeof body?.code === "string" ? body.code : undefined,
+    );
+  }
+
+  return body as T;
+}
 
 export const practicePapers = {
   list: () => api.get<Envelope<PracticePaperRow[]>>("/practice-papers"),
   upload: (form: FormData) =>
-    upload<Envelope<PracticePaperReport | PracticePaperQueued>>("/practice-papers", form),
+    paperCall<Envelope<PracticePaperReport | PracticePaperQueued>>("/practice-papers", { method: "POST", body: form }),
   job: (jobId: string) => api.get<Envelope<PracticePaperJob>>(`/jobs/${jobId}`),
   setAnswerKey: (testId: string, key: string | Record<string, string>) =>
-    api.post<Envelope<AnswerKeyResult>>(`/practice-papers/${testId}/answer-key`, { key }),
+    paperCall<Envelope<AnswerKeyResult>>(`/practice-papers/${testId}/answer-key`, {
+      method: "POST",
+      body: JSON.stringify({ key }),
+    }),
   scoring: (attemptId: string) =>
     api.get<Envelope<AttemptScoring>>(`/practice-papers/attempts/${attemptId}/scoring`),
 };

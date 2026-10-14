@@ -1,30 +1,29 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { practicePapers } from "@/lib/api";
+import { practicePapers, type AttemptScoring } from "@/lib/api";
 import { useI18n } from "@/lib/i18n";
 
 /**
- * Shown on a result whose paper had questions with no answer key.
+ * How many questions on a submitted attempt had no answer key.
  *
- * Without it, a paper uploaded with no key reads as a score of zero, which
- * says the student got everything wrong when the truth is that nothing could
- * be marked. Kept here, beside the upload page, so the result screen carries
- * a single line for it.
+ * The result screen needs it twice: to say those questions were not scored,
+ * and to stop showing a score and accuracy of 0 when nothing could be
+ * marked — a 0 there says every answer was wrong, which nobody knows.
  */
-export function UnscoredNote({ attemptId }: { attemptId: string }) {
-  const { t } = useI18n();
-  const [unscored, setUnscored] = useState(0);
+export function useScoring(attemptId: string | null | undefined): AttemptScoring | null {
+  const [scoring, setScoring] = useState<AttemptScoring | null>(null);
 
   useEffect(() => {
+    if (!attemptId) return;
     let live = true;
 
     void (async () => {
       try {
         const { data } = await practicePapers.scoring(attemptId);
-        if (live) setUnscored(data.unscored);
+        if (live) setScoring(data);
       } catch {
-        // Only a note: the result above is still right without it.
+        // Only a refinement: the result is still right without it.
       }
     })();
 
@@ -33,11 +32,18 @@ export function UnscoredNote({ attemptId }: { attemptId: string }) {
     };
   }, [attemptId]);
 
-  if (unscored === 0) return null;
+  return scoring;
+}
+
+/** Kept beside the upload page so the result screen carries one line for it. */
+export function UnscoredNote({ scoring }: { scoring: AttemptScoring | null }) {
+  const { t } = useI18n();
+
+  if (!scoring || scoring.unscored === 0) return null;
 
   return (
     <p className="rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-800">
-      <span className="font-semibold">{t("papers.unscored")}.</span> {unscored} {t("papers.unscoredCount")}
+      <span className="font-semibold">{t("papers.unscored")}.</span> {scoring.unscored} {t("papers.unscoredCount")}
     </p>
   );
 }
