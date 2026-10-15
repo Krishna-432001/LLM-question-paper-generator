@@ -655,6 +655,36 @@ final class PaperLanguageModeTest extends TestCase
         $this->assertSame(['ta', 'en'], $json['languages']);
     }
 
+    public function test_the_excel_export_carries_both_languages_in_their_own_columns(): void
+    {
+        $this->translateToTamil(range(0, 7));
+        $testId = $this->createTest([
+            'language_id' => $this->tamil->getKey(),
+            'language_mode' => 'bilingual',
+            'secondary_language_id' => $this->english->getKey(),
+        ])->assertCreated()->json('data.id');
+
+        $path = tempnam(sys_get_temp_dir(), 'ef-test-').'.xlsx';
+        file_put_contents($path, Storage::disk('local')->get($this->render($testId, 'question_paper', 'xlsx')->storage_path));
+
+        try {
+            $sheet = \PhpOffice\PhpSpreadsheet\IOFactory::load($path)->getActiveSheet();
+
+            // Columns A–H unchanged for existing readers; English follows.
+            $this->assertSame(
+                ['#', 'Question', 'A', 'B', 'C', 'D', 'Answer', 'Marks', 'Question (en)', 'A (en)', 'B (en)', 'C (en)', 'D (en)'],
+                $sheet->rangeToArray('A1:M1')[0],
+            );
+
+            // The primary stem is the Tamil one, the extra columns English.
+            $this->assertMatchesRegularExpression('/[\x{0B80}-\x{0BFF}]/u', (string) $sheet->getCell('B2')->getValue());
+            $this->assertDoesNotMatchRegularExpression('/[\x{0B80}-\x{0BFF}]/u', (string) $sheet->getCell('I2')->getValue());
+            $this->assertNotSame('', (string) $sheet->getCell('J2')->getValue());
+        } finally {
+            @unlink($path);
+        }
+    }
+
     private function render(string $testId, string $type, string $format = 'pdf'): GeneratedDocument
     {
         // A fresh model each time, as a request would load it.
