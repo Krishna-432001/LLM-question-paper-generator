@@ -113,21 +113,35 @@ final class TenantContext
      */
     public static function withoutTenancy(callable $callback): mixed
     {
+        // Set on every entry, not only the outermost: a transaction that
+        // ended inside an outer call took a transaction-local setting with it.
         self::setVar('app.bypass_rls', 'on');
+        self::$bypassDepth++;
 
         try {
             return $callback();
         } finally {
-            // If the callback aborted the transaction, this cleanup query
-            // cannot run — and throwing here would replace the real exception
-            // with a meaningless "transaction is aborted". Cleanup must never
-            // mask the cause. The setting is transaction-scoped anyway, so a
-            // rollback discards it.
-            try {
-                self::setVar('app.bypass_rls', 'off');
-            } catch (\Throwable) {
-                // Intentionally ignored.
+            self::$bypassDepth--;
+
+            // Only the outermost call turns it off. An inner one ending — a
+            // helper that bypasses for one lookup, like the job dispatcher's
+            // idempotency check — must not strip the bypass from the caller
+            // that is still running inside the outer one.
+            if (self::$bypassDepth === 0) {
+                // If the callback aborted the transaction, this cleanup query
+                // cannot run — and throwing here would replace the real
+                // exception with a meaningless "transaction is aborted".
+                // Cleanup must never mask the cause. The setting is
+                // transaction-scoped anyway, so a rollback discards it.
+                try {
+                    self::setVar('app.bypass_rls', 'off');
+                } catch (\Throwable) {
+                    // Intentionally ignored.
+                }
             }
         }
     }
+
+    /** How many withoutTenancy calls are running, one inside another. */
+    private static int $bypassDepth = 0;
 }

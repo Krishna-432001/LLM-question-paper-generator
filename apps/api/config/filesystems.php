@@ -54,6 +54,15 @@ return [
             'report' => false,
         ],
 
+        // A folder of downloaded textbooks, read where they lie by
+        // `php artisan books:import` instead of copied (TEXTBOOKS_ROOT).
+        'textbooks' => [
+            'driver' => 'local',
+            'root' => env('TEXTBOOKS_ROOT', storage_path('app/textbooks')),
+            'throw' => false,
+            'report' => false,
+        ],
+
         'public' => [
             'driver' => 'local',
             'root' => storage_path('app/public'),

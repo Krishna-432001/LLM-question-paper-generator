@@ -270,6 +270,37 @@ After you change `apps\api\.env`, stop and start again. The settings are read at
 
 ---
 
+## Adding a folder of downloaded textbooks
+
+If the Tamil Nadu textbooks are downloaded into one folder with an `index.csv`
+(for example `D:\TN-Textbooks`), add them all in one go instead of uploading
+each book. They are read where they are; nothing is copied.
+
+1. In `apps\api\.env`, add: `TEXTBOOKS_ROOT=D:/TN-Textbooks`
+2. Open PowerShell in the `apps\api` folder.
+3. See what will be added (changes nothing):
+
+   ```
+   C:\xampp\php\php.exe artisan books:import --dry-run
+   ```
+
+4. Add them:
+
+   ```
+   C:\xampp\php\php.exe artisan books:import
+   ```
+
+5. To also start reading them, start ExamForge first, then run the same command
+   with `--process`. Large books take a while; the worker window shows progress.
+
+The default set is the low-cost one for TNPSC Group IV: Std 6–10 Tamil books
+(Part A) and the English-medium Mathematics, Science and Social Science books
+(Part B). Each subject is read once, in one medium. Use `--preset=all` for every
+downloaded book, and `--classes=6-12` for other standards. Running it again
+adds only what is new.
+
+---
+
 ## Opening from a phone or tablet
 
 1. Connect the phone to the **same Wi-Fi** as the PC.
