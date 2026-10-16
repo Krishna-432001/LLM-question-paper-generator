@@ -126,28 +126,44 @@ final class SyllabusEditor
     }
 
     /**
-     * @param  array{name: string, canonical_topic_id?: string|null, weight?: float, estimated_minutes?: int}  $data
+     * A topic of the unit, or — with parent_id — a sub-topic of one of its
+     * topics. A topic with sub-topics is no longer a leaf, so plans schedule
+     * its sub-topics instead of it; a topic-wise test on it still takes them
+     * all, through the path.
+     *
+     * @param  array{name: string, parent_id?: string|null, canonical_topic_id?: string|null, weight?: float, estimated_minutes?: int}  $data
      */
     public function addTopic(ExamUnit $unit, array $data): ExamTopic
     {
         $draft = $unit->syllabusVersion;
         $this->assertDraft($draft);
 
+        $parent = isset($data['parent_id'])
+            ? ExamTopic::query()->where('exam_unit_id', $unit->getKey())->findOrFail($data['parent_id'])
+            : null;
+
         $canonicalId = $data['canonical_topic_id'] ?? $this->canonicalFor($data['name'], $unit)->getKey();
         $sequence = ((int) ExamTopic::query()->where('exam_unit_id', $unit->getKey())->max('sequence')) + 1;
 
-        return ExamTopic::query()->create([
-            'syllabus_version_id' => $draft->getKey(),
-            'exam_unit_id' => $unit->getKey(),
-            'canonical_topic_id' => $canonicalId,
-            'name' => $data['name'],
-            'path' => $this->path($unit->name, $data['name'], $sequence),
-            'depth' => 1,
-            'is_leaf' => true,
-            'weight' => $data['weight'] ?? 0,
-            'estimated_minutes' => $data['estimated_minutes'] ?? 45,
-            'sequence' => $sequence,
-        ]);
+        return DB::transaction(function () use ($draft, $unit, $parent, $canonicalId, $sequence, $data): ExamTopic {
+            $parent?->forceFill(['is_leaf' => false])->save();
+
+            return ExamTopic::query()->create([
+                'syllabus_version_id' => $draft->getKey(),
+                'exam_unit_id' => $unit->getKey(),
+                'parent_id' => $parent?->getKey(),
+                'canonical_topic_id' => $canonicalId,
+                'name' => $data['name'],
+                'path' => $parent === null
+                    ? $this->path($unit->name, $data['name'], $sequence)
+                    : $parent->path.'.'.$this->label($data['name'], 'sub_'.$sequence),
+                'depth' => $parent === null ? 1 : (int) $parent->depth + 1,
+                'is_leaf' => true,
+                'weight' => $data['weight'] ?? 0,
+                'estimated_minutes' => $data['estimated_minutes'] ?? 45,
+                'sequence' => $sequence,
+            ]);
+        });
     }
 
     /** @param  array<string, mixed>  $data */
@@ -162,7 +178,19 @@ final class SyllabusEditor
     public function removeTopic(ExamTopic $topic): void
     {
         $this->assertDraft($topic->syllabusVersion);
-        $topic->delete();
+
+        DB::transaction(function () use ($topic): void {
+            $parentId = $topic->parent_id;
+
+            // Its own sub-topics go with it (the foreign key cascades).
+            $topic->delete();
+
+            // A parent left with no sub-topics is a leaf again, so plans
+            // schedule it once more.
+            if ($parentId !== null && ! ExamTopic::query()->where('parent_id', $parentId)->exists()) {
+                ExamTopic::query()->whereKey($parentId)->update(['is_leaf' => true]);
+            }
+        });
     }
 
     /**
@@ -352,14 +380,18 @@ final class SyllabusEditor
             $copy->save();
 
             // Topics keep their canonical ids: that is what keeps the bank's
-            // questions reachable through the new version.
-            $topics = ExamTopic::query()->where('exam_unit_id', $unit->getKey())->whereNull('parent_id')->orderBy('sequence')->get();
+            // questions reachable through the new version. Sub-topics come
+            // too, parents first, each pointed at its parent's copy.
+            $topics = ExamTopic::query()->where('exam_unit_id', $unit->getKey())->orderBy('depth')->orderBy('sequence')->get();
+            $copied = [];
 
             foreach ($topics as $topic) {
                 $t = $topic->replicate(['id', 'created_at', 'updated_at']);
                 $t->syllabus_version_id = $to->getKey();
                 $t->exam_unit_id = $copy->getKey();
+                $t->parent_id = $topic->parent_id === null ? null : ($copied[$topic->parent_id] ?? null);
                 $t->save();
+                $copied[$topic->getKey()] = $t->getKey();
             }
         }
     }
@@ -417,9 +449,15 @@ final class SyllabusEditor
 
     private function path(string $unitName, string $topicName, int $sequence): string
     {
-        $label = static fn (string $s, string $fallback): string => ($l = substr(str_replace('-', '_', Str::slug($s)), 0, 60)) !== '' ? $l : $fallback;
+        return $this->label($unitName, 'unit').'.'.$this->label($topicName, 'topic_'.$sequence);
+    }
 
-        return $label($unitName, 'unit').'.'.$label($topicName, 'topic_'.$sequence);
+    /** One ltree label: the name as a slug, or the fallback for a name with no Latin letters (Tamil). */
+    private function label(string $name, string $fallback): string
+    {
+        $label = substr(str_replace('-', '_', Str::slug($name)), 0, 60);
+
+        return $label !== '' ? $label : $fallback;
     }
 
     /** @return array<string, array{name: string, weight: float, topics: array<string, string>}> */

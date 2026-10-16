@@ -192,6 +192,52 @@ final class SyllabusEditorTest extends TestCase
             ->assertJsonFragment(['title' => 'Request cannot be processed']);
     }
 
+    public function test_a_sub_topic_sits_under_its_topic_and_survives_the_next_draft(): void
+    {
+        $draft = $this->draft();
+        $parent = TenantContext::withoutTenancy(fn () => DB::table('exam_topics as t')
+            ->join('exam_units as u', 'u.id', '=', 't.exam_unit_id')
+            ->where('t.syllabus_version_id', $draft['id'])
+            ->where('u.name', 'like', '%Polity%')
+            ->select('t.id', 't.path', 't.exam_unit_id')
+            ->first());
+
+        $sub = $this->actingAs($this->admin)
+            ->postJson("/api/v1/syllabus-versions/{$draft['id']}/units/{$parent->exam_unit_id}/topics", [
+                'name' => 'Fundamental Duties',
+                'parent_id' => $parent->id,
+            ])
+            ->assertCreated()
+            ->json('data');
+
+        $this->assertSame($parent->id, $sub['parent_id']);
+        $this->assertSame(2, $sub['depth']);
+        $this->assertStringStartsWith($parent->path.'.', $sub['path']);
+        $this->assertFalse(TenantContext::withoutTenancy(fn () => (bool) DB::table('exam_topics')->where('id', $parent->id)->value('is_leaf')),
+            'A topic with sub-topics is studied through them.');
+
+        // Published and drafted again: the sub-topic comes along, under the copy of its parent.
+        $this->actingAs($this->admin)->postJson("/api/v1/syllabus-versions/{$draft['id']}/publish")->assertOk();
+        $next = $this->draft();
+
+        $copied = TenantContext::withoutTenancy(fn () => DB::table('exam_topics as s')
+            ->join('exam_topics as p', 'p.id', '=', 's.parent_id')
+            ->where('s.syllabus_version_id', $next['id'])
+            ->where('s.name', 'Fundamental Duties')
+            ->select('s.id', 'p.syllabus_version_id as parent_version', 'p.is_leaf as parent_leaf')
+            ->first());
+
+        $this->assertNotNull($copied);
+        $this->assertSame($next['id'], $copied->parent_version, 'Pointed at the parent in the new draft, not the old one.');
+        $this->assertFalse((bool) $copied->parent_leaf);
+
+        // Removing the only sub-topic makes its parent a leaf again.
+        $this->actingAs($this->admin)->deleteJson("/api/v1/syllabus-versions/{$next['id']}/topics/{$copied->id}")->assertSuccessful();
+        $this->assertTrue(TenantContext::withoutTenancy(fn () => (bool) DB::table('exam_topics')
+            ->where('syllabus_version_id', $next['id'])->where('canonical_topic_id', DB::table('exam_topics')->where('id', $parent->id)->value('canonical_topic_id'))
+            ->value('is_leaf')));
+    }
+
     public function test_a_typed_topic_joins_the_existing_canonical_topic(): void
     {
         $draft = $this->draft();

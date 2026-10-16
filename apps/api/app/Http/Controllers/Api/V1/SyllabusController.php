@@ -124,6 +124,8 @@ final class SyllabusController extends Controller
 
         $data = $request->validate([
             'name' => ['required', 'string', 'max:200'],
+            // A sub-topic of one of this unit's topics.
+            'parent_id' => ['sometimes', 'nullable', 'uuid'],
             'canonical_topic_id' => ['sometimes', 'nullable', 'uuid', 'exists:canonical_topics,id'],
             'weight' => ['sometimes', 'numeric', 'between:0,1'],
             'estimated_minutes' => ['sometimes', 'integer', 'between:5,600'],

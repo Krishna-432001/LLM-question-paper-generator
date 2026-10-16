@@ -4,14 +4,36 @@ import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import {
   ApiError,
+  catalogue,
   examAdmin,
   getToken,
+  sources,
   syllabusAdmin,
   type ExamDetail,
   type ExamRow,
   type SyllabusDiff,
+  type SyllabusTopicNode,
   type SyllabusTree,
 } from "@/lib/api";
+
+/**
+ * A unit's topics in tree order: each topic followed by its sub-topics, with
+ * how deep it sits. A topic whose parent is not in the list is shown at the top.
+ */
+function inTreeOrder(topics: SyllabusTopicNode[]): Array<{ topic: SyllabusTopicNode; depth: number }> {
+  const ids = new Set(topics.map((t) => t.id));
+  const children = new Map<string, SyllabusTopicNode[]>();
+  for (const t of topics) {
+    if (t.parent_id && ids.has(t.parent_id)) children.set(t.parent_id, [...(children.get(t.parent_id) ?? []), t]);
+  }
+  const out: Array<{ topic: SyllabusTopicNode; depth: number }> = [];
+  const walk = (t: SyllabusTopicNode, depth: number) => {
+    out.push({ topic: t, depth });
+    for (const c of children.get(t.id) ?? []) walk(c, depth + 1);
+  };
+  for (const t of topics) if (!t.parent_id || !ids.has(t.parent_id)) walk(t, 0);
+  return out;
+}
 
 /**
  * The syllabus editor.
@@ -202,13 +224,32 @@ export default function SyllabusPage() {
       {editable && selected && subjects.length > 0 && (
         <ImportPanel
           subjects={subjects}
-          onImport={(subjectId, text, replace) =>
+          onImport={(subjectId, text, replace, file) =>
             run(async () => {
-              const { data } = await syllabusAdmin.importText(selected.id, {
-                exam_subject_id: subjectId,
-                text,
-                replace,
-              });
+              let data: { units: number; topics: number; weighted_by_counts: boolean };
+
+              if (file) {
+                // The PDF is stored and virus-scanned like any upload, then read.
+                const english = (await catalogue.languages()).data.find((l) => l.code === "en");
+                const form = new FormData();
+                form.append("file", file);
+                form.append("title", `${exam?.name ?? "Exam"} syllabus`);
+                form.append("kind", "syllabus");
+                form.append("language_id", english?.id ?? "");
+                form.append("rights_basis", "govt_open");
+                const { data: source } = await sources.upload(form);
+                ({ data } = await syllabusAdmin.importSource(selected.id, {
+                  exam_subject_id: subjectId,
+                  source_id: source.id,
+                  replace,
+                }));
+              } else {
+                ({ data } = await syllabusAdmin.importText(selected.id, {
+                  exam_subject_id: subjectId,
+                  text,
+                  replace,
+                }));
+              }
               await reload();
               setNote(
                 `Imported ${data.units} units and ${data.topics} topics` +
@@ -287,14 +328,34 @@ export default function SyllabusPage() {
                 </div>
 
                 <ul className="mt-2 flex flex-wrap gap-1.5">
-                  {unit.topics.map((topic) => (
+                  {inTreeOrder(unit.topics).map(({ topic, depth }) => (
                     <li
                       key={topic.id}
-                      className="flex items-center gap-1 rounded bg-slate-800 px-2 py-0.5 text-xs text-slate-300"
+                      className={`flex items-center gap-1 rounded px-2 py-0.5 text-xs ${
+                        depth > 0 ? "bg-slate-800/60 text-slate-400" : "bg-slate-800 text-slate-300"
+                      }`}
                       title={topic.canonical_slug ?? "not linked to the question bank"}
                     >
+                      {depth > 0 && <span className="text-slate-500">{"↳".repeat(depth)}</span>}
                       {topic.name}
                       {!topic.canonical_topic_id && <span className="text-amber-400">•</span>}
+                      {editable && selected && (
+                        <button
+                          className="ml-1 text-slate-500 hover:text-sky-300"
+                          aria-label={`Add a sub-topic under ${topic.name}`}
+                          title="Add a sub-topic"
+                          onClick={() => {
+                            const name = window.prompt(`Sub-topic under “${topic.name}”:`)?.trim();
+                            if (name)
+                              void run(async () => {
+                                await syllabusAdmin.addTopic(selected.id, unit.id, { name, parent_id: topic.id });
+                                await reload();
+                              });
+                          }}
+                        >
+                          +
+                        </button>
+                      )}
                       {editable && selected && (
                         <button
                           className="ml-1 text-slate-500 hover:text-red-300"
@@ -397,33 +458,44 @@ function ImportPanel({
   onImport,
 }: {
   subjects: Array<{ id: string; name: string }>;
-  onImport: (subjectId: string, text: string, replace: boolean) => void;
+  onImport: (subjectId: string, text: string, replace: boolean, file: File | null) => void;
 }) {
   const [open, setOpen] = useState(false);
   const [subjectId, setSubjectId] = useState(subjects[0]?.id ?? "");
   const [text, setText] = useState("");
+  const [file, setFile] = useState<File | null>(null);
   const [replace, setReplace] = useState(true);
 
   if (!open) {
     return (
       <button className={`${GHOST} mb-4`} onClick={() => setOpen(true)}>
-        Import from notification text…
+        Import the syllabus (PDF or text)…
       </button>
     );
   }
 
   return (
     <section className={`${PANEL} mb-4 p-4`}>
-      <h2 className="mb-1 text-sm font-semibold text-slate-100">Import from notification text</h2>
+      <h2 className="mb-1 text-sm font-semibold text-slate-100">Import the syllabus</h2>
       <p className="mb-3 text-xs text-slate-500">
-        Paste the syllabus. Each unit should start on its own line (“UNIT I : GENERAL SCIENCE (5 Questions)”);
-        numbered or semicolon-separated items become topics. Review the result before publishing.
+        Upload the notification PDF, or paste its text. Each unit should start on its own line (“UNIT I : GENERAL
+        SCIENCE (5 Questions)”); numbered or semicolon-separated items become topics. Review the result before
+        publishing.
       </p>
-      <textarea
-        className={`${FIELD} h-48 w-full font-mono text-xs`}
-        value={text}
-        onChange={(e) => setText(e.target.value)}
+      <input
+        type="file"
+        accept="application/pdf,.pdf"
+        className="mb-2 block w-full text-xs text-slate-400 file:mr-3 file:rounded-md file:border-0 file:bg-slate-800 file:px-3 file:py-1.5 file:text-xs file:text-slate-200"
+        onChange={(e) => setFile(e.target.files?.[0] ?? null)}
       />
+      {!file && (
+        <textarea
+          className={`${FIELD} h-48 w-full font-mono text-xs`}
+          placeholder="…or paste the syllabus text here"
+          value={text}
+          onChange={(e) => setText(e.target.value)}
+        />
+      )}
       <div className="mt-3 flex flex-wrap items-center gap-3">
         <select className={FIELD} value={subjectId} onChange={(e) => setSubjectId(e.target.value)}>
           {subjects.map((s) => (
@@ -439,7 +511,11 @@ function ImportPanel({
         <button className={`ml-auto ${GHOST}`} onClick={() => setOpen(false)}>
           Cancel
         </button>
-        <button className={BUTTON} disabled={!text.trim()} onClick={() => onImport(subjectId, text, replace)}>
+        <button
+          className={BUTTON}
+          disabled={!file && !text.trim()}
+          onClick={() => onImport(subjectId, text, replace, file)}
+        >
           Import
         </button>
       </div>
