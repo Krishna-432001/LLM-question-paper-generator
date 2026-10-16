@@ -36,6 +36,10 @@ return [
     'tesseract' => [
         'binary' => env('TESSERACT_BIN', 'tesseract'),
         'dpi' => 300,
+        // Page images of the PDF being read, deleted when it is done. A
+        // 300-page book at 300 dpi is over a gigabyte for a while, so on a
+        // nearly full system drive point this at another one.
+        'work_dir' => env('OCR_WORK_DIR'),
     ],
 
     /*

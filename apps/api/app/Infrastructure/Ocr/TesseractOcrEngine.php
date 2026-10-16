@@ -212,7 +212,8 @@ final class TesseractOcrEngine implements OcrEngine
 
     private function makeWorkDir(): string
     {
-        $dir = sys_get_temp_dir().'/examforge-ocr-'.bin2hex(random_bytes(8));
+        $base = rtrim((string) (config('ingestion.tesseract.work_dir') ?: sys_get_temp_dir()), '/\\');
+        $dir = $base.'/examforge-ocr-'.bin2hex(random_bytes(8));
         mkdir($dir, 0700, true);
 
         return $dir;

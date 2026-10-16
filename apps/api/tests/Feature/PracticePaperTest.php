@@ -824,6 +824,20 @@ final class PracticePaperTest extends TestCase
         $this->assertSame(1, $result['wrong']);
     }
 
+    public function test_uploads_are_kept_on_the_sources_disk_so_books_can_live_on_another_drive(): void
+    {
+        Storage::fake('books');
+        config(['filesystems.sources_disk' => 'books']);
+        $this->textLayer(self::ENGLISH_PAPER, self::ANSWER_KEY_PAGE);
+
+        $this->upload()->assertCreated();
+
+        $source = TenantContext::withoutTenancy(fn () => DB::table('sources')->first());
+        $this->assertSame('books', $source->storage_disk);
+        Storage::disk('books')->assertExists($source->storage_path);
+        $this->assertSame([], Storage::disk('local')->allFiles(), 'Nothing is written to the system drive.');
+    }
+
     public function test_a_paper_with_text_can_be_read_from_its_page_images_on_request(): void
     {
         Queue::fake();

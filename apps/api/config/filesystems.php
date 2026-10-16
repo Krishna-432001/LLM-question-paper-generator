@@ -28,12 +28,28 @@ return [
     |
     */
 
+    /*
+    | Where uploaded books and papers are kept. A whole syllabus of textbooks
+    | runs to several gigabytes, so on a PC whose system drive is nearly full
+    | they belong on another drive: FILESYSTEM_SOURCES_DISK=books with
+    | BOOKS_STORAGE_ROOT=D:/ExamForge-storage. Each upload records the disk it
+    | was stored on, so files already stored elsewhere keep being found.
+    */
+    'sources_disk' => env('FILESYSTEM_SOURCES_DISK', env('FILESYSTEM_DISK', 'local')),
+
     'disks' => [
 
         'local' => [
             'driver' => 'local',
             'root' => storage_path('app/private'),
             'serve' => true,
+            'throw' => false,
+            'report' => false,
+        ],
+
+        'books' => [
+            'driver' => 'local',
+            'root' => env('BOOKS_STORAGE_ROOT', storage_path('app/private')),
             'throw' => false,
             'report' => false,
         ],

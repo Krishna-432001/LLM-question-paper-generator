@@ -47,14 +47,16 @@ final class CreateSourceAction
 
         // Uploads land in a quarantine prefix and are promoted only after the
         // scan stage passes, so an unscanned object is never in the read path.
+        // On the sources disk, which can sit on a drive with room for books.
+        $disk = (string) config('filesystems.sources_disk', config('filesystems.default'));
         $path = $file->store(
             config('examforge.uploads.quarantine_prefix').'/'.substr($hash, 0, 2),
-            config('filesystems.default'),
+            $disk,
         );
 
         return DB::transaction(function () use (
             $file, $kind, $title, $languageId, $rightsBasis, $meta,
-            $organizationId, $hash, $path, $context
+            $organizationId, $hash, $path, $context, $disk
         ): Source {
             $source = new Source([
                 'organization_id' => $organizationId,
@@ -65,7 +67,7 @@ final class CreateSourceAction
                 'publisher' => $meta['publisher'] ?? null,
                 'edition' => $meta['edition'] ?? null,
                 'publication_year' => $meta['publication_year'] ?? null,
-                'storage_disk' => config('filesystems.default'),
+                'storage_disk' => $disk,
                 'storage_path' => $path,
                 'original_filename' => $file->getClientOriginalName(),
                 'mime_type' => $file->getClientMimeType(),
