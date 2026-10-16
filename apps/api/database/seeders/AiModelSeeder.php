@@ -24,8 +24,14 @@ final class AiModelSeeder extends Seeder
      */
     private const MODELS = [
         ['anthropic', 'claude-opus-5', 'Claude Opus 5', 'premium', 1_000_000, 5.00, 25.00, 0.50],
-        ['anthropic', 'claude-sonnet-5', 'Claude Sonnet 5', 'mid', 1_000_000, 3.00, 15.00, 0.30],
+        ['anthropic', 'claude-sonnet-5', 'Claude Sonnet 5', 'mid', 1_000_000, 2.00, 10.00, 0.20],
         ['anthropic', 'claude-haiku-4-5', 'Claude Haiku 4.5', 'cheap', 200_000, 1.00, 5.00, 0.10],
+        // What the tiers call by default (ai.providers.claude.model_map). The
+        // ledger prices each call by the model that answered, so these rows
+        // are what make a run's cost show up at all.
+        ['anthropic', 'claude-opus-5-5', 'Claude Opus 5.5', 'premium', 1_000_000, 4.00, 20.00, 0.20],
+        ['anthropic', 'claude-sonnet-5-5', 'Claude Sonnet 5.5', 'premium', 1_000_000, 2.00, 10.00, 0.20],
+        ['anthropic', 'claude-haiku-5-5', 'Claude Haiku 5.5', 'cheap', 1_000_000, 0.10, 0.50, 0.01],
 
         ['openai', 'gpt-4o', 'GPT-4o', 'premium', 128_000, 2.50, 10.00, 1.25],
         ['openai', 'gpt-4o-mini', 'GPT-4o mini', 'cheap', 128_000, 0.15, 0.60, 0.075],

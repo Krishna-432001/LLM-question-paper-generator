@@ -125,6 +125,12 @@ If your PC is small, read [Which model for which PC](#which-model-for-which-pc) 
 Claude is faster and often better. But your book text is sent to Anthropic, and
 each call costs money.
 
+For one person's question bank, the low-cost setup is the default: Sonnet 5.5
+writes and translates questions, Haiku 5.5 checks them. A full TNPSC Group IV
+bank of 1,000–2,000 questions costs roughly ₹1,000–2,000. Buy a small amount of
+credit first (about $10–15), process one book, and check the real cost in the
+console before buying more.
+
 ---
 
 ## 2. Create the database (once)
@@ -182,7 +188,17 @@ EMBEDDING_DIMENSIONS=1024
 
 4. Change `DB_PASSWORD` to your password from step 2.
 5. No Tesseract? Use `OCR_DRIVER=fake` instead.
-6. Save the file.
+6. Is drive C: nearly full? Keep the books on another drive. A full set of
+   textbooks is several gigabytes, and a full C: stops the database. Add:
+
+   ```
+   FILESYSTEM_SOURCES_DISK=books
+   BOOKS_STORAGE_ROOT=D:/ExamForge-storage
+   OCR_WORK_DIR=D:/ExamForge-storage/tmp
+   ```
+
+   Create those two folders on D: first.
+7. Save the file.
 
 Paths in this file use forward slashes `/`. Put paths with spaces in double quotes.
 
@@ -289,9 +305,21 @@ Both are set in `apps\api\.env`. Change the line at the end of the file.
 AI_DRIVER=claude
 ANTHROPIC_API_KEY=sk-ant-your-key
 AI_DAILY_BUDGET_INR=2000
+CLAUDE_MAX_EFFORT=medium
 ```
 
 `AI_DAILY_BUDGET_INR` stops all AI calls for the day once that much is spent.
+`CLAUDE_MAX_EFFORT=medium` limits how long Claude "thinks" on each call. Thinking
+is billed, so this keeps the cost down.
+
+Which Claude model each job uses (the defaults are the low-cost choice):
+
+| Setting | Job | Default | Best quality |
+|---|---|---|---|
+| `CLAUDE_MODEL_PREMIUM` | Writing and translating questions | `claude-sonnet-5-5` | `claude-opus-5-5` (about 2× the cost) |
+| `CLAUDE_MODEL_MID` | Checking answers against the book | `claude-haiku-5-5` | `claude-sonnet-5-5` |
+| `CLAUDE_MODEL_CHEAP` | Sorting lessons into syllabus topics | `claude-haiku-5-5` | — |
+
 Embeddings can stay on Ollama (`EMBEDDING_DRIVER=ollama`). Then Ollama must still run.
 
 **To go back to Ollama:**

@@ -30,7 +30,12 @@ final class ClaudeClient implements LlmClient
     private const NO_SAMPLING_PARAMS = [
         'claude-opus-5', 'claude-fable-5', 'claude-mythos-5',
         'claude-sonnet-5', 'claude-opus-4-8', 'claude-opus-4-7',
+        'claude-opus-5-5', 'claude-sonnet-5-5', 'claude-haiku-5-5',
+        'claude-fable-5-1', 'claude-mythos-5-1',
     ];
+
+    /** Effort levels, least thinking first. */
+    private const EFFORTS = ['low', 'medium', 'high', 'xhigh', 'max'];
 
     public function __construct(private readonly Client $client) {}
 
@@ -39,14 +44,7 @@ final class ClaudeClient implements LlmClient
         $startedAt = microtime(true);
 
         try {
-            $message = $this->client->messages->create(
-                maxTokens: (int) ($request->params['max_tokens'] ?? 16000),
-                messages: [['role' => 'user', 'content' => $request->userPrompt]],
-                model: $request->modelKey,
-                outputConfig: $this->outputConfig($request),
-                system: $this->system($request),
-                temperature: $this->temperature($request),
-            );
+            $message = $this->client->messages->create(...$this->requestFor($request));
         } catch (APIException $e) {
             throw new RuntimeException(
                 "Anthropic API call failed for {$request->operation}: {$e->getMessage()}",
@@ -88,9 +86,31 @@ final class ClaudeClient implements LlmClient
         );
     }
 
+    /** The Claude model this request really calls: the tier's mapped model, else the key itself. */
     public function modelKey(LlmRequest $request): string
     {
-        return $request->modelKey;
+        $map = (array) config('ai.providers.claude.model_map', []);
+
+        return (string) ($map[$request->modelKey] ?? $request->modelKey);
+    }
+
+    /**
+     * The Messages API arguments for one request, named as the SDK takes them.
+     *
+     * @return array<string, mixed>
+     */
+    public function requestFor(LlmRequest $request): array
+    {
+        $model = $this->modelKey($request);
+
+        return [
+            'maxTokens' => (int) ($request->params['max_tokens'] ?? 16000),
+            'messages' => [['role' => 'user', 'content' => $request->userPrompt]],
+            'model' => $model,
+            'outputConfig' => $this->outputConfig($request),
+            'system' => $this->system($request),
+            'temperature' => $this->temperature($request, $model),
+        ];
     }
 
     /**
@@ -107,10 +127,20 @@ final class ClaudeClient implements LlmClient
         ];
 
         if (isset($request->params['effort'])) {
-            $config['effort'] = (string) $request->params['effort'];
+            $config['effort'] = $this->cappedEffort((string) $request->params['effort']);
         }
 
         return $config;
+    }
+
+    /** A prompt's effort, lowered to the configured ceiling when it asks for more. */
+    private function cappedEffort(string $effort): string
+    {
+        $cap = config('ai.providers.claude.max_effort');
+        $asked = array_search($effort, self::EFFORTS, true);
+        $ceiling = is_string($cap) ? array_search($cap, self::EFFORTS, true) : false;
+
+        return $asked !== false && $ceiling !== false && $asked > $ceiling ? $cap : $effort;
     }
 
     /**
@@ -134,9 +164,9 @@ final class ClaudeClient implements LlmClient
      * is a 400, and a prompt version carried over from an older model will
      * still have temperature in its params.
      */
-    private function temperature(LlmRequest $request): ?float
+    private function temperature(LlmRequest $request, string $model): ?float
     {
-        if (in_array($request->modelKey, self::NO_SAMPLING_PARAMS, true)) {
+        if (in_array($model, self::NO_SAMPLING_PARAMS, true)) {
             return null;
         }
 

@@ -63,6 +63,27 @@ return [
             'api_key' => env('ANTHROPIC_API_KEY'),
             'base_url' => env('ANTHROPIC_BASE_URL', 'https://api.anthropic.com'),
             'version' => '2023-06-01',
+
+            /*
+            | Prompt versions name a tier's model in this platform's registry;
+            | this picks the Claude model each tier really calls. The defaults
+            | are the low-cost choice for one person's question bank: Sonnet
+            | writes and translates, Haiku checks and classifies. For the best
+            | Tamil set CLAUDE_MODEL_PREMIUM=claude-opus-5-5 (about twice the
+            | cost of Sonnet).
+            */
+            'model_map' => [
+                'claude-opus-5' => env('CLAUDE_MODEL_PREMIUM', 'claude-sonnet-5-5'),
+                'claude-sonnet-5' => env('CLAUDE_MODEL_MID', 'claude-haiku-5-5'),
+                'claude-haiku-4-5' => env('CLAUDE_MODEL_CHEAP', 'claude-haiku-5-5'),
+                'claude-haiku-4-5-20251001' => env('CLAUDE_MODEL_CHEAP', 'claude-haiku-5-5'),
+            ],
+
+            // The most thinking any call may ask for (low, medium, high,
+            // xhigh, max). Thinking is billed as output, so capping the
+            // prompts that ask for "high" at "medium" is the next lever after
+            // the model. Unset: each prompt's own effort.
+            'max_effort' => env('CLAUDE_MAX_EFFORT'),
         ],
     ],
 
