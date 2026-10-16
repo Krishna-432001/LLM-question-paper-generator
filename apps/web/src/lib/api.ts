@@ -602,8 +602,18 @@ export const syllabusAdmin = {
     api.patch<Envelope<unknown>>(`/syllabus-versions/${versionId}/units/${unitId}`, payload),
   removeUnit: (versionId: string, unitId: string) =>
     api.delete<unknown>(`/syllabus-versions/${versionId}/units/${unitId}`),
-  addTopic: (versionId: string, unitId: string, payload: { name: string; canonical_topic_id?: string | null }) =>
-    api.post<Envelope<unknown>>(`/syllabus-versions/${versionId}/units/${unitId}/topics`, payload),
+  /** A topic of the unit, or with parent_id a sub-topic of one of its topics. */
+  addTopic: (
+    versionId: string,
+    unitId: string,
+    payload: { name: string; canonical_topic_id?: string | null; parent_id?: string | null },
+  ) => api.post<Envelope<unknown>>(`/syllabus-versions/${versionId}/units/${unitId}/topics`, payload),
+  /** Import from an uploaded syllabus PDF (a source of kind "syllabus"). */
+  importSource: (versionId: string, payload: { exam_subject_id: string; source_id: string; replace: boolean }) =>
+    api.post<Envelope<{ units: number; topics: number; weighted_by_counts: boolean }>>(
+      `/syllabus-versions/${versionId}/import`,
+      payload,
+    ),
   removeTopic: (versionId: string, topicId: string) =>
     api.delete<unknown>(`/syllabus-versions/${versionId}/topics/${topicId}`),
   importText: (versionId: string, payload: { exam_subject_id: string; text: string; replace: boolean }) =>
