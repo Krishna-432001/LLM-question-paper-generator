@@ -89,6 +89,12 @@ final class TextNormalizer
     {
         $text = (string) preg_replace('/\x{FFFD}/u', '', $text);
 
+        // A vowel sign or pulli printed twice ("அமைச்்சரவை", "கொொண்்ட"):
+        // some fonts draw one mark with two glyphs and each maps to the same
+        // codepoint. Correct Tamil never repeats a dependent sign, so the
+        // second is always extraction damage.
+        $text = (string) preg_replace('/([\x{0BBE}-\x{0BCD}\x{0BD7}])\1+/u', '$1', $text);
+
         // Rejoin only where three or more single characters run together, so
         // ordinary short words are never welded onto their neighbours.
         $text = (string) preg_replace_callback(

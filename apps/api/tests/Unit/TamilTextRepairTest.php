@@ -49,6 +49,14 @@ final class TamilTextRepairTest extends TestCase
         $this->assertSame($text, (new TextNormalizer)->normalizePage($text));
     }
 
+    public function test_a_sign_printed_twice_is_kept_once(): void
+    {
+        $this->assertSame(
+            'அமைச்சரவைக் குழு கொண்ட நோக்கங்கள்',
+            (new TextNormalizer)->normalizePage('அமைச்்சரவைக் குழு கொொண்்ட நோோக்்கங்்கள்'),
+        );
+    }
+
     public function test_the_joiner_ocr_writes_after_every_pulli_is_dropped(): void
     {
         $this->assertSame(
