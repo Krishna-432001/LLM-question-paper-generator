@@ -18,7 +18,9 @@ use App\Jobs\TrackedJob;
 use App\Models\AiJob;
 use App\Models\Book;
 use App\Models\BookLesson;
+use App\Models\Exam;
 use App\Models\GenerationPolicy;
+use App\Models\Language;
 use App\Models\Source;
 use Illuminate\Support\Facades\DB;
 use RuntimeException;
@@ -55,7 +57,19 @@ final class GenerateQuestions extends TrackedJob
             throw new RuntimeException('No indexed lessons found; run ingestion first.');
         }
 
-        $plan = $this->planBatches($lessons, $rawTarget, (int) $policy->batch_size);
+        // The prompt must ask for the language the questions are filed under:
+        // told "English", a Tamil request came back in English and was stored
+        // as Tamil.
+        $context = [
+            'language' => (string) (Language::query()->whereKey($languageId)->value('name') ?? 'English'),
+            'exam_name' => (string) (isset($input['exam_id']) ? Exam::query()->whereKey($input['exam_id'])->value('name') : null)
+                ?: 'General',
+        ];
+
+        $plan = array_map(
+            static fn (array $batch): array => $batch + $context,
+            $this->planBatches($lessons, $rawTarget, (int) $policy->batch_size),
+        );
 
         $job->progressTo(5, sprintf(
             'Planned %d batches for %d raw candidates (target %d approved)',

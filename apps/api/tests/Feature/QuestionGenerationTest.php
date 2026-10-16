@@ -4,6 +4,9 @@ declare(strict_types=1);
 
 namespace Tests\Feature;
 
+use App\Domain\Ai\Contracts\LlmClient;
+use App\Domain\Ai\DTOs\LlmRequest;
+use App\Domain\Ai\DTOs\LlmResponse;
 use App\Domain\Jobs\JobStatus;
 use App\Domain\Tenancy\TenantContext;
 use App\Jobs\Generation\GenerateQuestions;
@@ -162,6 +165,52 @@ final class QuestionGenerationTest extends TestCase
         $this->assertNotEmpty($job->output['coverage_skipped']);
 
         $this->assertSame(0, TenantContext::withoutTenancy(fn () => Question::query()->count()));
+    }
+
+    public function test_the_prompt_asks_for_the_language_the_questions_are_filed_in(): void
+    {
+        // Record what generation asks for; the fake still answers.
+        $prompts = new \ArrayObject;
+        $this->app->instance(LlmClient::class, new class($this->app->make(LlmClient::class), $prompts) implements LlmClient
+        {
+            public function __construct(private readonly LlmClient $inner, private readonly \ArrayObject $prompts) {}
+
+            public function complete(LlmRequest $request): LlmResponse
+            {
+                $this->prompts[] = [$request->operation, $request->userPrompt];
+
+                return $this->inner->complete($request);
+            }
+
+            public function modelKey(LlmRequest $request): string
+            {
+                return $this->inner->modelKey($request);
+            }
+        });
+
+        $source = $this->ingestedSource();
+
+        TenantContext::withoutTenancy(function () use ($source): void {
+            $job = AiJob::query()->create([
+                'type' => 'generation', 'queue' => 'generate',
+                'subject_type' => Source::class, 'subject_id' => $source->getKey(),
+                'input' => [
+                    'source_id' => $source->getKey(),
+                    'language_id' => Language::byCode('ta')->getKey(),
+                    'target_count' => 2,
+                ],
+            ]);
+
+            (new GenerateQuestions($job->getKey()))->handle();
+        });
+
+        $generation = array_values(array_filter(
+            $prompts->getArrayCopy(),
+            static fn (array $p): bool => str_contains($p[1], 'multiple-choice questions for'),
+        ));
+
+        $this->assertNotEmpty($generation, 'no generation prompt was sent');
+        $this->assertStringContainsString('Language: Tamil.', $generation[0][1]);
     }
 
     private function ingestedSource(): Source
