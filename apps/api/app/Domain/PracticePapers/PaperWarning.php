@@ -17,6 +17,9 @@ final class PaperWarning
     private const MESSAGES = [
         'pages_unreadable' => 'No readable text on page {pages}, so any questions there were not read.',
         'ocr_unsure' => 'OCR was unsure of page {pages}. Check those questions against the printed paper before trusting a score.',
+        'tamil_repaired' => 'The Tamil text in this PDF was stored out of order and has been put right, but PDFs like this '
+            .'often lose some joined letters (such as கு or டி). If any Tamil words look broken, upload the paper '
+            .'again with "Read as a scanned paper (OCR)" ticked.',
         'skipped' => '{count} question(s) could not be read and were left out (numbers {numbers}). '
             .'A question is skipped rather than guessed when its four options cannot all be found.',
         'no_key' => 'No answer key was found in the PDF. You can sit the test now, but answers will not be '

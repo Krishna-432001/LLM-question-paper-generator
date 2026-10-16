@@ -23,8 +23,9 @@ use Illuminate\Http\UploadedFile;
  *
  * The order is the safety: the file is stored in quarantine, scanned, and only
  * then read. A paper with a text layer becomes a test inside this request —
- * pdftotext and the parser take well under a second. A scanned paper is
- * handed to the OCR queue and the caller gets a job to poll instead.
+ * pdftotext and the parser take well under a second. A scanned paper — or
+ * one the uploader asks to have read as a scan — is handed to the OCR queue
+ * and the caller gets a job to poll instead.
  */
 final class CreatePracticePaperAction
 {
@@ -46,12 +47,18 @@ final class CreatePracticePaperAction
         ?int $durationMinutes = null,
         ?string $examId = null,
         ?string $language = null,
+        bool $readAsScan = false,
     ): array {
         $context = app(TenantContext::class);
 
-        // Before the upload is stored: a paper with nowhere to belong should
-        // fail before it costs a scan.
+        // Before the upload is stored: a paper with nowhere to belong, or one
+        // asked to be read by an OCR that is not there, should fail before it
+        // costs a scan.
         $exam = $this->examFor($user, $examId);
+
+        if ($readAsScan && ! $this->reader->ocrAvailable()) {
+            throw PracticePaperException::ocrNotInstalled();
+        }
         $preferred = $language ?? $this->preferredLanguage($user);
 
         $source = $this->sources->execute(
@@ -80,20 +87,24 @@ final class CreatePracticePaperAction
             language: $preferred,
         );
 
-        $reading = $this->reader->fromTextLayer($source);
+        // Asked to read the page images: the text layer is there but its Tamil
+        // came out broken, and the pictures of the letters are still right.
+        if (! $readAsScan) {
+            $reading = $this->reader->fromTextLayer($source);
 
-        if ($reading->questions !== []) {
-            return ['status' => 'created', 'report' => $this->build->execute($source, $reading, $settings)];
-        }
+            if ($reading->questions !== []) {
+                return ['status' => 'created', 'report' => $this->build->execute($source, $reading, $settings)];
+            }
 
-        // Text everywhere but no questions: not a paper this tool can read,
-        // and OCR would only read the same text again.
-        if (! $reading->looksScanned) {
-            throw PracticePaperException::noQuestions();
-        }
+            // Text everywhere but no questions: not a paper this tool can
+            // read, and OCR would only read the same text again.
+            if (! $reading->looksScanned) {
+                throw PracticePaperException::noQuestions();
+            }
 
-        if (! $this->reader->ocrAvailable()) {
-            throw PracticePaperException::scannedWithoutOcr();
+            if (! $this->reader->ocrAvailable()) {
+                throw PracticePaperException::scannedWithoutOcr();
+            }
         }
 
         $job = $this->dispatch->execute(

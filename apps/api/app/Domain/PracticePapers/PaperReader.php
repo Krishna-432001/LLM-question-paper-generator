@@ -150,6 +150,14 @@ final class PaperReader
             $warnings[] = PaperWarning::make('pages_unreadable', ['pages' => implode(', ', $blank)]);
         }
 
+        // The normaliser put the vowel signs back in order, but a PDF that
+        // stores Tamil in drawing order usually also stores some joined
+        // letters (கு, டி) as shapes with no text behind them, and those
+        // are simply gone. Only the page images still have them.
+        if (! $ocr && $questions !== [] && array_filter($pages, $this->normalizer->tamilInVisualOrder(...)) !== []) {
+            $warnings[] = PaperWarning::make('tamil_repaired');
+        }
+
         return new PaperReading(
             questions: $questions,
             pages: count($normalized),

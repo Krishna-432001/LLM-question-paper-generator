@@ -32,6 +32,12 @@ final class TextNormalizer
      */
     private const HEADING_GUARD = '/^\s*(unit|chapter|lesson|section|இயல்|பாடம்)\b/iu';
 
+    /** ெ ே ை — the Tamil vowel signs drawn before their consonant. */
+    private const PRE_BASE_SIGNS = '\x{0BC6}-\x{0BC8}';
+
+    /** க … ஹ, the Tamil consonants (grantha letters included). */
+    private const CONSONANTS = '\x{0B95}-\x{0BB9}';
+
     /**
      * @param  list<string>  $pages  raw page texts, in order
      * @return list<string>  normalized page texts, in order
@@ -74,6 +80,10 @@ final class TextNormalizer
      *    extractor renders as "இ ல க ் க ண". Runs of single Tamil characters
      *    separated by single spaces are rejoined; genuine word gaps are two
      *    or more columns wide and survive.
+     *
+     * 3. Visual order. ெ ே ை are drawn to the left of their consonant, and a
+     *    PDF that stores glyphs in drawing order yields "ேதசிய" for "தேசிய"
+     *    and "ெசன்ைன" for "சென்னை". See tamilInVisualOrder().
      */
     private function repairIndicExtraction(string $text): string
     {
@@ -81,11 +91,50 @@ final class TextNormalizer
 
         // Rejoin only where three or more single characters run together, so
         // ordinary short words are never welded onto their neighbours.
-        return (string) preg_replace_callback(
+        $text = (string) preg_replace_callback(
             '/(?:[\x{0B80}-\x{0BFF}] ){2,}[\x{0B80}-\x{0BFF}]/u',
             static fn (array $m): string => str_replace(' ', '', $m[0]),
             $text,
         );
+
+        if (! $this->tamilInVisualOrder($text)) {
+            return $text;
+        }
+
+        // On a page in visual order every one of these signs belongs after
+        // the consonant that follows it — the legal-looking "தைல" of "தலை"
+        // included. NFC, which runs next, then fuses ெ/ே + ா into ொ/ோ.
+        return (string) preg_replace(
+            '/(['.self::PRE_BASE_SIGNS.'])(['.self::CONSONANTS.'](?:\x{0BCD}\x{0BB7})?)/u',
+            '$2$1',
+            $text,
+        );
+    }
+
+    /**
+     * Whether this text's Tamil was stored in drawing order, not Unicode order.
+     *
+     * Unicode only ever puts a vowel sign after a consonant, so ெ ே ை opening
+     * a word, or following ் or another sign, cannot happen in correct text —
+     * and is everywhere in visual-order text, where every word that starts
+     * with "தே" or "செ" starts with the sign. A quarter of the signs stranded
+     * like that is the threshold: correct text has none, and a stray one from
+     * a damaged glyph must not flip the order of a whole page.
+     */
+    public function tamilInVisualOrder(string $text): bool
+    {
+        $signs = (int) preg_match_all('/['.self::PRE_BASE_SIGNS.']/u', $text);
+
+        if ($signs === 0) {
+            return false;
+        }
+
+        $stranded = (int) preg_match_all(
+            '/(?<!['.self::CONSONANTS.'])['.self::PRE_BASE_SIGNS.'](?=['.self::CONSONANTS.'])/u',
+            $text,
+        );
+
+        return $stranded > 0 && $stranded / $signs >= 0.25;
     }
 
     /**
@@ -136,6 +185,11 @@ final class TextNormalizer
         // scripts need them (between a virama and a consonant).
         $text = preg_replace('/(?<!\x{0BCD})\x{200D}/u', '', $text) ?? $text;
         $text = str_replace("\u{200B}", '', $text);
+
+        // Tesseract's Tamil model writes a zero-width non-joiner after every
+        // pulli ("இந்தியாவின்‌"). Tamil forms no conjunct for it to prevent,
+        // so it only ever stops a word matching its clean spelling.
+        $text = preg_replace('/(?<=\x{0BCD})\x{200C}/u', '', $text) ?? $text;
 
         // Canonicalise the Tamil sri ligature, which OCR emits three ways.
         return str_replace(["\u{0BB6}\u{0BCD}\u{0BB0}\u{0BC0}"], "\u{0BB8}\u{0BCD}\u{0BB0}\u{0BC0}", $text);

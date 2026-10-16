@@ -823,4 +823,83 @@ final class PracticePaperTest extends TestCase
         $this->assertSame(3, $result['correct']);
         $this->assertSame(1, $result['wrong']);
     }
+
+    public function test_a_paper_with_text_can_be_read_from_its_page_images_on_request(): void
+    {
+        Queue::fake();
+        // A text layer that would make a test on the spot, were it read.
+        $this->textLayer(self::ENGLISH_PAPER, self::ANSWER_KEY_PAGE);
+        $this->ocrEngine(true, self::ENGLISH_PAPER, self::ANSWER_KEY_PAGE);
+
+        $jobId = $this->upload(['ocr' => '1'])
+            ->assertStatus(202)
+            ->assertJsonPath('data.status', 'queued')
+            ->json('data.job_id');
+
+        $this->assertSame([], $this->readPaths, 'Asked for OCR, the text layer is not read at all.');
+        Queue::assertPushedOn('ocr', OcrPracticePaper::class);
+
+        $job = TenantContext::withoutTenancy(function () use ($jobId): AiJob {
+            (new OcrPracticePaper($jobId))->handle();
+
+            return AiJob::query()->findOrFail($jobId);
+        });
+
+        $this->assertSame(JobStatus::Completed, $job->status);
+        $this->assertTrue($job->output['ocr']);
+        $this->assertSame(5, $job->output['parsed']);
+        $this->assertSame(5, $job->output['keyed']);
+    }
+
+    public function test_asking_for_ocr_with_no_ocr_engine_is_refused_before_the_upload_is_kept(): void
+    {
+        $this->textLayer(self::ENGLISH_PAPER);
+        $this->ocrEngine(false);
+
+        $this->upload(['ocr' => '1'])
+            ->assertStatus(422)
+            ->assertJsonPath('code', 'ocr_not_installed');
+
+        $this->assertSame(0, TenantContext::withoutTenancy(fn () => DB::table('sources')->count()));
+    }
+
+    public function test_tamil_stored_in_drawing_order_is_put_right_and_flagged(): void
+    {
+        // A PDF that keeps glyphs in drawing order: ே ெ ை ahead of their letter.
+        $this->textLayer(<<<'TXT'
+        1. Which is the national animal of India?
+        இந்தியாவின் ேதசிய விலங்கு எது?
+        (A) Lion
+        (B) Tiger
+        (C) Elephant
+        (D) Peacock
+        (A) சிங்கம்
+        (B) புலி
+        (C) யாைன
+        (D) மயில்
+        2. What is the capital of Tamil Nadu?
+        தமிழ்நாட்டின் தைலநகரம் எது?
+        (A) Madurai
+        (B) Coimbatore
+        (C) Chennai
+        (D) Salem
+        (A) மதுைர
+        (B) ேகாயம்புத்தூர்
+        (C) ெசன்ைன
+        (D) ேசலம்
+        TXT, "ANSWER KEY\n1 - B   2 - C");
+
+        $report = $this->upload(['language' => 'ta'])->assertCreated()->json('data');
+
+        $this->assertContains('tamil_repaired', array_column($report['warnings'], 'code'));
+        $this->assertSame(['en', 'ta'], $report['languages_detected']);
+
+        $questions = $this->start($report['test_id'])['questions'];
+
+        $this->assertSame('இந்தியாவின் தேசிய விலங்கு எது?', $questions[0]['question_text']);
+        $this->assertSame('யானை', $questions[0]['options']['C']);
+        $this->assertSame('தமிழ்நாட்டின் தலைநகரம் எது?', $questions[1]['question_text']);
+        $this->assertSame('கோயம்புத்தூர்', $questions[1]['options']['B'], 'ே + க + ா is the single letter கோ.');
+        $this->assertSame('சென்னை', $questions[1]['options']['C']);
+    }
 }

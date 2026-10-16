@@ -69,6 +69,18 @@ powershell -ExecutionPolicy Bypass -File scripts\install-deps.ps1
 
 ### Poppler (pdftotext)
 
+The quickest way is one command in a terminal:
+
+```
+winget install --id oschwartz10612.Poppler -e --scope user
+```
+
+The programs then live in a folder like
+`C:\Users\<you>\AppData\Local\Microsoft\WinGet\Packages\oschwartz10612.Poppler_...\poppler-25.07.0\Library\bin`.
+Use that folder in the two `.env` lines in step 3.
+
+Or by hand:
+
 1. Go to https://github.com/oschwartz10612/poppler-windows/releases.
 2. Download the newest `Release-....zip`.
 3. Unzip it. Inside is a folder such as `poppler-24.08.0`.

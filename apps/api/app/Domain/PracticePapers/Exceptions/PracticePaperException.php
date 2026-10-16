@@ -42,6 +42,16 @@ final class PracticePaperException extends RuntimeException implements Permanent
         );
     }
 
+    public static function ocrNotInstalled(): self
+    {
+        return new self(
+            'Reading a paper as a scan needs an OCR engine, and none is available. '
+            .'Install Tesseract with the Tamil language data and set OCR_DRIVER=tesseract, '
+            .'or upload the paper without asking for OCR.',
+            'ocr_not_installed',
+        );
+    }
+
     public static function noQuestions(bool $afterOcr = false): self
     {
         return new self(

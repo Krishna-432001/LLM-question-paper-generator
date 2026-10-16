@@ -36,11 +36,13 @@ const WARNING_CODES = new Set([
   "sections",
   "key_first_section_only",
   "key_sections_mismatch",
+  "tamil_repaired",
 ]);
 
 const ERROR_CODES = new Set([
   "no_text_reader",
   "scanned_without_ocr",
+  "ocr_not_installed",
   "no_questions",
   "no_questions_after_ocr",
   "no_exam",
@@ -92,6 +94,8 @@ export default function PapersPage() {
   const [file, setFile] = useState<File | null>(null);
   const [title, setTitle] = useState("");
   const [minutes, setMinutes] = useState("");
+  // Read the page images even though the PDF has text: its Tamil came out broken.
+  const [readAsScan, setReadAsScan] = useState(false);
   const [busy, setBusy] = useState(false);
   const [ocr, setOcr] = useState(false);
   const [queuedTooLong, setQueuedTooLong] = useState(false);
@@ -165,6 +169,7 @@ export default function PapersPage() {
     if (minutes.trim()) form.append("duration_minutes", minutes.trim());
     // Sit it in the interface language when the paper was printed in it.
     form.append("language", locale);
+    if (readAsScan) form.append("ocr", "1");
 
     try {
       const { data } = await practicePapers.upload(form);
@@ -240,10 +245,26 @@ export default function PapersPage() {
             />
           </label>
         </div>
+        <label className="flex items-start gap-2 text-sm">
+          <input
+            type="checkbox"
+            className="mt-0.5 h-4 w-4 rounded border-slate-300"
+            checked={readAsScan}
+            onChange={(e) => setReadAsScan(e.target.checked)}
+          />
+          <span>
+            {t("papers.readAsScan")}
+            <span className="block text-xs text-slate-500">{t("papers.readAsScanHint")}</span>
+          </span>
+        </label>
         <button type="submit" className={BUTTON} disabled={busy}>
           {busy ? t("papers.reading") : t("papers.upload")}
         </button>
-        {ocr && <p className="rounded-xl bg-indigo-50 px-4 py-3 text-sm text-indigo-800">{t("papers.ocr")}</p>}
+        {ocr && (
+          <p className="rounded-xl bg-indigo-50 px-4 py-3 text-sm text-indigo-800">
+            {t(readAsScan ? "papers.ocrRequested" : "papers.ocr")}
+          </p>
+        )}
         {ocr && queuedTooLong && (
           <p className="rounded-xl bg-amber-50 px-4 py-3 text-sm text-amber-800">{t("papers.stillQueued")}</p>
         )}

@@ -39,6 +39,8 @@ final class StorePracticePaperRequest extends FormRequest
             'duration_minutes' => ['sometimes', 'nullable', 'integer', 'min:1', 'max:600'],
             'exam_id' => ['sometimes', 'nullable', 'uuid'],
             'language' => ['sometimes', 'nullable', 'in:en,ta'],
+            // Read the page images even though the PDF has text: its Tamil came out broken.
+            'ocr' => ['sometimes', 'boolean'],
         ];
     }
 

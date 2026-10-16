@@ -97,10 +97,29 @@ final class TesseractOcrEngine implements OcrEngine
             $languageHints,
         ));
 
+        $page = $this->run($image, $pageNumber, $languages);
+
+        // Automatic layout analysis drops short lines it takes for noise —
+        // on an MCQ page, "(B) Tiger" while keeping "(A) Lion". Uneven option
+        // labels give that away, so only such a page pays for a second pass
+        // as one column; a two-column sheet the first pass read whole keeps
+        // its first reading, which the second could only splice.
+        if (! self::optionLabelsUneven($page->text)) {
+            return $page;
+        }
+
+        $column = $this->run($image, $pageNumber, $languages, ['--psm', '4']);
+
+        return self::optionLabelCount($column->text) > self::optionLabelCount($page->text) ? $column : $page;
+    }
+
+    /** @param  list<string>  $layout  extra Tesseract arguments */
+    private function run(string $image, int $pageNumber, string $languages, array $layout = []): ExtractedPage
+    {
         // TSV output carries a per-word confidence, which is what lets us
         // quarantine a page rather than trust it blindly.
         $process = new Process([
-            $this->binary, $image, 'stdout', '-l', $languages, '--dpi', (string) $this->dpi, 'tsv',
+            $this->binary, $image, 'stdout', '-l', $languages, '--dpi', (string) $this->dpi, ...$layout, 'tsv',
         ]);
         $process->setTimeout(300);
         $process->run();
@@ -110,6 +129,38 @@ final class TesseractOcrEngine implements OcrEngine
         }
 
         return $this->parseTsv($process->getOutput(), $pageNumber);
+    }
+
+    /**
+     * Option labels per slot: (A)/அ) count as the first option, and so on.
+     *
+     * @return array{int, int, int, int}
+     */
+    public static function optionLabels(string $text): array
+    {
+        $slots = ['A' => 0, 'B' => 1, 'C' => 2, 'D' => 3, 'அ' => 0, 'ஆ' => 1, 'இ' => 2, 'ஈ' => 3];
+        $counts = [0, 0, 0, 0];
+
+        preg_match_all('/(?:^|\s)\(?\s*([A-Dஅஆஇஈ])\s*\)/u', $text, $matches);
+
+        foreach ($matches[1] as $label) {
+            $counts[$slots[$label]]++;
+        }
+
+        return $counts;
+    }
+
+    public static function optionLabelCount(string $text): int
+    {
+        return array_sum(self::optionLabels($text));
+    }
+
+    /** Some question on the page lost an option line: a slot fell behind. */
+    public static function optionLabelsUneven(string $text): bool
+    {
+        $counts = self::optionLabels($text);
+
+        return max($counts) > 0 && min($counts) !== max($counts);
     }
 
     private function parseTsv(string $tsv, int $pageNumber): ExtractedPage

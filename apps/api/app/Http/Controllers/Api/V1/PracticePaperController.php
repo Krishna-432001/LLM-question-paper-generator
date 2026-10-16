@@ -99,6 +99,7 @@ final class PracticePaperController extends Controller
                 durationMinutes: $request->filled('duration_minutes') ? $request->integer('duration_minutes') : null,
                 examId: $request->filled('exam_id') ? $request->string('exam_id')->toString() : null,
                 language: $request->filled('language') ? $request->string('language')->toString() : null,
+                readAsScan: $request->boolean('ocr'),
             );
         } catch (PracticePaperException $e) {
             return $this->problem($request, $e);
@@ -109,7 +110,9 @@ final class PracticePaperController extends Controller
                 'data' => [
                     'job_id' => $result['job_id'],
                     'status' => 'queued',
-                    'message' => 'This PDF is a scan, so its pages are being read with OCR. '
+                    'message' => ($request->boolean('ocr')
+                        ? 'As asked, the pages are being read from their images with OCR. '
+                        : 'This PDF is a scan, so its pages are being read with OCR. ')
                         .'The test will be ready when the job completes.',
                 ],
             ], 202);
