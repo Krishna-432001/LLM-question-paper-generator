@@ -166,6 +166,7 @@ final class StudentController extends Controller
                     'test_question_id' => $tq->getKey(),
                     'sequence' => $tq->sequence,
                     'marks' => $tq->marks,
+                    'section' => $tq->section,
                 ] + PaperText::payloadFor($tq, $languages))->all(),
             ]]);
         }
@@ -187,8 +188,10 @@ final class StudentController extends Controller
                 'wrong' => $result->wrong,
                 'unattempted' => $result->unattempted,
                 'final_score' => (float) $result->final_score,
-                'accuracy' => (float) $result->accuracy,
+                // Null when nothing could be marked; 0 would claim every answer was wrong.
+                'accuracy' => $result->accuracy === null ? null : (float) $result->accuracy,
                 'time_taken_seconds' => $result->time_taken_seconds,
+                'sections' => json_decode((string) ($result->section_breakdown ?? '[]'), true) ?: [],
                 'topics' => collect(json_decode((string) $result->topic_breakdown, true) ?: [])
                     ->map(fn ($v, $id) => ['topic' => $topicNames[$id] ?? 'Other'] + (array) $v)
                     ->values()->all(),

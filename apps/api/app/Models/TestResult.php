@@ -22,6 +22,7 @@ class TestResult extends Model
         return [
             'topic_breakdown' => 'array',
             'difficulty_breakdown' => 'array',
+            'section_breakdown' => 'array',
             'weak_topics' => PostgresArray::class,
             'strong_topics' => PostgresArray::class,
             'raw_score' => 'float',

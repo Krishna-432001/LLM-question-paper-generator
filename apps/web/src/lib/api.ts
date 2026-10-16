@@ -38,6 +38,10 @@ export class ApiError extends Error {
     readonly status: number,
     readonly detail?: string,
     readonly errors?: Record<string, string[]>,
+    /** A stable reason the page can act on, when the server sends one. */
+    readonly code?: string,
+    /** Anything else the refusal carries, e.g. the counts per part of a mock. */
+    readonly meta?: Record<string, unknown>,
   ) {
     super(message);
   }
@@ -69,6 +73,8 @@ async function request<T>(
       response.status,
       body?.detail,
       body?.errors ?? undefined,
+      body?.code ?? undefined,
+      body?.meta ?? undefined,
     );
   }
 
@@ -933,6 +939,8 @@ export interface PaperQuestion {
   test_question_id: string;
   sequence: number;
   marks: number;
+  /** The part of a mock in parts ("Part A — …"); absent or null otherwise. */
+  section?: string | null;
   /** The primary language, kept for older clients; `texts` has every language. */
   question_text: string | null;
   options: Record<string, string> | null;
@@ -964,10 +972,13 @@ export interface AttemptResult {
     wrong: number;
     unattempted: number;
     final_score: number;
-    accuracy: number;
+    /** Null when nothing could be marked (an unkeyed paper). */
+    accuracy: number | null;
     time_taken_seconds: number | null;
     topics: Array<{ topic: string; attempted: number; correct: number; accuracy?: number }>;
     difficulty: Record<string, { attempted: number; correct: number; accuracy?: number }>;
+    /** A mock in parts: the score per part, in paper order. */
+    sections?: SectionScore[];
   } | null;
 }
 
@@ -1061,7 +1072,52 @@ export const student = {
   attempt: (attemptId: string) => api.get<Envelope<OpenAttempt | AttemptResult>>(`/attempts/${attemptId}`),
 };
 
+/** One part of an exam's pattern, as a refusal reports it: what it needs and what the bank has. */
+export interface PatternPartCount {
+  name: string;
+  needed: number;
+  available: number;
+  units?: Array<{ name: string; needed: number; available: number }>;
+}
+
+/** A part of a mock in parts, as a test reports it. */
+export interface TestSection {
+  name: string;
+  questions: number;
+  marks: number;
+}
+
+/** A part's score: marks against its maximum, and its qualifying mark where it has one. */
+export interface SectionScore {
+  name: string;
+  questions: number;
+  attempted: number;
+  correct: number;
+  wrong: number;
+  marks: number;
+  max_marks: number;
+  qualifying_marks: number | null;
+  qualified: boolean | null;
+}
+
 export const testsApi = {
+  /**
+   * A full mock in the exam's own pattern. Refused with code
+   * "exam_pattern_short" and meta.sections (PatternPartCount[]) when the bank
+   * cannot fill it; allow_short builds the shorter mock instead.
+   */
+  createExamPattern: (payload: {
+    exam_id: string;
+    language_id: string;
+    type: "model" | "prediction";
+    allow_short?: boolean;
+    language_mode?: LanguageMode;
+    secondary_language_id?: string;
+  }) =>
+    api.post<Envelope<{ id: string; title: string; question_count: number; duration_minutes: number | null; sections: TestSection[] }>>(
+      "/tests/exam-pattern",
+      payload,
+    ),
   create: (payload: {
     exam_id: string;
     language_id: string;

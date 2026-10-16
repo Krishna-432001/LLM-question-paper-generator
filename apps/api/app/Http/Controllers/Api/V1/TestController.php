@@ -4,14 +4,17 @@ declare(strict_types=1);
 
 namespace App\Http\Controllers\Api\V1;
 
+use App\Actions\Tests\AssembleExamPatternTestAction;
 use App\Actions\Tests\AssembleTestAction;
 use App\Actions\Tests\EvaluateAttemptAction;
 use App\Domain\PracticePapers\PracticePaper;
 use App\Domain\Tenancy\TenantContext;
+use App\Domain\Tests\Exceptions\ExamPatternShortfall;
 use App\Domain\Tests\Exceptions\NotEnoughQuestions;
 use App\Domain\Tests\PaperText;
 use App\Domain\Translation\TranslationRequester;
 use App\Http\Controllers\Controller;
+use App\Http\Requests\Tests\CreateExamPatternTestRequest;
 use App\Http\Requests\Tests\CreateTestRequest;
 use App\Http\Requests\Tests\SubmitAttemptRequest;
 use App\Models\Test;
@@ -52,13 +55,50 @@ final class TestController extends Controller
     }
 
     /**
+     * A full mock in the exam's pattern: its parts, counts, marks and time.
+     * When the bank cannot fill every part yet, the refusal carries the count
+     * for each part and whether a shorter mock can be built from what exists.
+     */
+    public function storeExamPattern(CreateExamPatternTestRequest $request, AssembleExamPatternTestAction $assemble): JsonResponse
+    {
+        $context = app(TenantContext::class);
+
+        try {
+            $test = $assemble->execute([
+                'organization_id' => $context->organizationId,
+                'user_id' => $context->userId,
+                'exam_id' => $request->string('exam_id')->toString(),
+                'language_id' => $request->string('language_id')->toString(),
+                'language_mode' => $request->input('language_mode', Test::MODE_SINGLE),
+                'secondary_language_id' => $request->input('secondary_language_id'),
+                'type' => $request->input('type', 'model'),
+                'title' => $request->input('title'),
+                'allow_short' => $request->boolean('allow_short'),
+            ]);
+        } catch (ExamPatternShortfall $e) {
+            $response = $this->shortage($request, $e->getMessage(), 200);
+            $body = $response->getData(true);
+            $body['code'] = 'exam_pattern_short';
+            $body['meta'] += ['sections' => $e->sections, 'available_total' => $e->availableTotal()];
+
+            return response()->json($body, 422);
+        }
+
+        if ($test->status === 'failed') {
+            return $this->shortage($request, 'The question bank has no approved questions matching that request yet.', 200);
+        }
+
+        return response()->json(['data' => $this->shape($test->load('questions'))], 201);
+    }
+
+    /**
      * Too few questions in the paper's language(s). Refused — a short paper
      * would mislead — but the missing translations are queued in the same
      * breath, so asking again later succeeds instead of failing the same way.
      * Translating is idempotent per exam and language: repeated requests
      * return the job already running rather than starting another.
      */
-    private function shortage(CreateTestRequest $request, string $detail): JsonResponse
+    private function shortage(CreateTestRequest|CreateExamPatternTestRequest $request, string $detail, ?int $wanted = null): JsonResponse
     {
         $languages = array_values(array_unique(array_filter([
             strtolower($request->string('language_id')->toString()),
@@ -74,7 +114,7 @@ final class TestController extends Controller
             $job = $requester->queueMissing(
                 $request->string('exam_id')->toString(),
                 $languageId,
-                max(20, 2 * $request->integer('question_count')),
+                max(20, 2 * ($wanted ?? $request->integer('question_count'))),
                 app(TenantContext::class)->userId,
             );
 
@@ -144,6 +184,8 @@ final class TestController extends Controller
                     'test_question_id' => $tq->getKey(),
                     'sequence' => $tq->sequence,
                     'marks' => $tq->marks,
+                    // The part of the paper it belongs to (null outside a mock in parts).
+                    'section' => $tq->section,
                     // In the paper's own languages, not the bank's master:
                     // question_text/options for the primary, `texts` for
                     // every language, primary first. The correct option is
@@ -181,6 +223,7 @@ final class TestController extends Controller
                 'time_taken_seconds' => $result->time_taken_seconds,
                 'topic_breakdown' => $result->topic_breakdown,
                 'difficulty_breakdown' => $result->difficulty_breakdown,
+                'section_breakdown' => $result->section_breakdown ?? [],
                 'weak_topics' => $result->weak_topics,
                 'solutions_url' => "/api/v1/results/{$attempt->getKey()}/solutions",
             ],
@@ -218,6 +261,7 @@ final class TestController extends Controller
 
                 return [
                     'sequence' => $tq->sequence,
+                    'section' => $tq->section,
                     'question_text' => $text['question_text'],
                     'options' => $text['options'],
                     'correct_option' => $tq->question->correctOptionKey(),
@@ -283,6 +327,19 @@ final class TestController extends Controller
             'duration_minutes' => $test->duration_minutes,
             'negative_marking' => $test->negative_marking,
             'selection_profile' => $test->selection_profile,
+            'blueprint_id' => $test->blueprint_id,
+            // A mock in parts, as the paper lays them out: name, questions, marks.
+            'sections' => $test->questions
+                ->filter(static fn ($tq): bool => $tq->section !== null)
+                ->sortBy('sequence')
+                ->groupBy('section')
+                ->map(static fn ($questions, string $name): array => [
+                    'name' => $name,
+                    'questions' => $questions->count(),
+                    'marks' => (float) $questions->sum('marks'),
+                ])
+                ->values()
+                ->all(),
         ];
     }
 }

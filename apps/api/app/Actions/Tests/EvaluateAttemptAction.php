@@ -4,7 +4,9 @@ declare(strict_types=1);
 
 namespace App\Actions\Tests;
 
+use App\Models\BlueprintSection;
 use App\Models\Question;
+use App\Models\Test;
 use App\Models\TestAttempt;
 use App\Models\TestResult;
 use App\Models\TopicMastery;
@@ -44,6 +46,8 @@ final class EvaluateAttemptAction
             $timeTaken = 0;
             $byTopic = [];
             $byDifficulty = [];
+            // test question id => 'correct' | 'wrong'; anything absent was left blank.
+            $outcomes = [];
             $unscored = $test->questions
                 ->filter(static fn ($testQuestion): bool => $testQuestion->question->correctOptionKey() === null)
                 ->count();
@@ -81,6 +85,10 @@ final class EvaluateAttemptAction
 
                 $isCorrect ? $correct++ : ($selected !== null ? $wrong++ : null);
 
+                if ($selected !== null) {
+                    $outcomes[$testQuestion->getKey()] = $isCorrect ? 'correct' : 'wrong';
+                }
+
                 $topic = $question->canonical_topic_id;
 
                 if ($topic !== null) {
@@ -98,8 +106,10 @@ final class EvaluateAttemptAction
             $attempted = $correct + $wrong;
             // Left blank is counted only among questions that could be marked.
             $scorable = $total - $unscored;
-            $marks = (float) ($test->questions->first()->marks ?? 1);
-            $rawScore = $correct * $marks;
+            // Each question's own marks: a paper in parts can weigh them differently.
+            $rawScore = (float) $test->questions
+                ->filter(static fn ($tq): bool => ($outcomes[$tq->getKey()] ?? null) === 'correct')
+                ->sum('marks');
             $negative = $wrong * (float) $test->negative_marking;
 
             $result = TestResult::query()->create([
@@ -121,6 +131,7 @@ final class EvaluateAttemptAction
                 'time_taken_seconds' => $timeTaken,
                 'topic_breakdown' => $this->withAccuracy($byTopic),
                 'difficulty_breakdown' => $this->withAccuracy($byDifficulty),
+                'section_breakdown' => $this->bySection($test, $outcomes),
                 'weak_topics' => $this->topicsBelow($byTopic, self::WEAK_THRESHOLD),
                 'strong_topics' => $this->topicsAbove($byTopic, self::STRONG_THRESHOLD),
             ]);
@@ -158,6 +169,61 @@ final class EvaluateAttemptAction
 
             $mastery->updateWith($counts['correct'], $counts['attempted']);
         }
+    }
+
+    /**
+     * The score per part of a paper in parts, in paper order — empty for a
+     * paper without parts.
+     *
+     * A part with a qualifying mark says whether it was reached. In TNPSC
+     * Group IV a candidate below 40% of Part A does not have Part B evaluated
+     * at all; a mock reports that rather than hiding the rest of the score.
+     *
+     * @param  array<string, string>  $outcomes  test question id => correct|wrong
+     * @return list<array<string, mixed>>
+     */
+    private function bySection(Test $test, array $outcomes): array
+    {
+        if ($test->questions->every(static fn ($tq): bool => $tq->section === null)) {
+            return [];
+        }
+
+        $qualifying = $test->blueprint_id === null
+            ? collect()
+            : BlueprintSection::query()
+                ->where('blueprint_id', $test->blueprint_id)
+                ->whereNotNull('qualifying_percent')
+                ->pluck('qualifying_percent', 'name');
+
+        $negative = (float) $test->negative_marking;
+
+        return $test->questions
+            ->sortBy('sequence')
+            ->groupBy(static fn ($tq): string => (string) $tq->section)
+            ->map(function ($questions, string $name) use ($outcomes, $qualifying, $negative): array {
+                // Only questions with a key can earn or lose marks.
+                $scorable = $questions->filter(static fn ($tq): bool => $tq->question->correctOptionKey() !== null);
+                $correct = $scorable->filter(static fn ($tq): bool => ($outcomes[$tq->getKey()] ?? null) === 'correct');
+                $wrong = $scorable->filter(static fn ($tq): bool => ($outcomes[$tq->getKey()] ?? null) === 'wrong');
+                $maxMarks = (float) $scorable->sum('marks');
+                $marks = (float) $correct->sum('marks') - $wrong->count() * $negative;
+                $percent = $qualifying[$name] ?? null;
+                $needed = $percent === null ? null : round($maxMarks * (float) $percent / 100, 2);
+
+                return [
+                    'name' => $name,
+                    'questions' => $questions->count(),
+                    'attempted' => $correct->count() + $wrong->count(),
+                    'correct' => $correct->count(),
+                    'wrong' => $wrong->count(),
+                    'marks' => round($marks, 2),
+                    'max_marks' => round($maxMarks, 2),
+                    'qualifying_marks' => $needed,
+                    'qualified' => $needed === null ? null : $marks >= $needed,
+                ];
+            })
+            ->values()
+            ->all();
     }
 
     /**

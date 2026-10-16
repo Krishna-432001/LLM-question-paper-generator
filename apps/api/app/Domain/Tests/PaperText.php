@@ -51,8 +51,25 @@ final class PaperText
     public const RELATIONS = [
         'questions.translation',
         'questions.secondaryTranslation',
+        'questions.fixedLanguage',
         'questions.question.translations',
     ];
+
+    /**
+     * The languages one question prints in: the paper's, unless its part is
+     * set in one language whatever the paper's (TNPSC Group IV Part A is
+     * Tamil). Such a question prints in that language alone — not as Tamil
+     * filed under English, and not as "not available in English" either.
+     *
+     * @param  Collection<int, Language>  $languages  the paper's, print order
+     * @return Collection<int, Language>
+     */
+    public static function languagesFor(TestQuestion $testQuestion, Collection $languages): Collection
+    {
+        $fixed = $testQuestion->fixed_language_id !== null ? $testQuestion->fixedLanguage : null;
+
+        return $fixed !== null ? new Collection([$fixed]) : $languages;
+    }
 
     /**
      * The row to assemble a question from in one language: its master when
@@ -116,7 +133,7 @@ final class PaperText
     {
         $texts = [];
 
-        foreach ($languages->values() as $slot => $language) {
+        foreach (self::languagesFor($testQuestion, $languages)->values() as $slot => $language) {
             $translation = self::resolve($testQuestion, $language, $slot);
 
             $entry = [
@@ -169,7 +186,7 @@ final class PaperText
     {
         $parts = [];
 
-        foreach ($languages->values() as $slot => $language) {
+        foreach (self::languagesFor($testQuestion, $languages)->values() as $slot => $language) {
             $t = self::resolve($testQuestion, $language, $slot);
 
             $parts[] = $t === null

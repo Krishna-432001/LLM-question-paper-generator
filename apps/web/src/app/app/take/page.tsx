@@ -210,6 +210,8 @@ export default function TakeTest() {
 
       <div className="grid gap-4 md:grid-cols-[1fr_220px]">
         <section className={`${CARD} p-5`}>
+          {/* A mock in parts says which part this question is in, as the real paper does. */}
+          {question.section && <p className="mb-1 text-xs font-semibold text-indigo-700">{question.section}</p>}
           <p className="text-xs font-medium uppercase tracking-wide text-slate-500">
             {t("take.question")} {saved.current + 1} {t("take.of")} {total}
           </p>

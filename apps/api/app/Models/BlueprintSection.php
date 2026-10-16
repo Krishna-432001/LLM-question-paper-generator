@@ -22,7 +22,14 @@ class BlueprintSection extends Model
             'topic_weights' => 'array',
             'difficulty_mix' => 'array',
             'marks_per_question' => 'float',
+            'qualifying_percent' => 'float',
         ];
+    }
+
+    /** The one language this part is printed in, whatever the paper's; null when it follows the paper. */
+    public function language(): BelongsTo
+    {
+        return $this->belongsTo(Language::class);
     }
 
     public function blueprint(): BelongsTo

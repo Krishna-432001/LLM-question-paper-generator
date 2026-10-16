@@ -119,6 +119,8 @@ final class DocumentComposer
 
                 return [
                     'number' => $tq->sequence,
+                    // The part of the paper it belongs to; null outside a mock in parts.
+                    'section' => $tq->section,
                     // The primary language stays at the top level, so the DOCX,
                     // XLSX and JSON exports keep reading the keys they always
                     // have. Null when the primary has nothing printable.
@@ -336,8 +338,17 @@ final class DocumentComposer
         $codes = $this->codesOf($p);
         $questions = '';
 
+        $section = null;
+
         foreach (array_values($p['questions']) as $index => $q) {
             $versions = $this->versions($q, $codes, ['text', 'options']);
+
+            // A mock in parts prints each part's name where it begins, as
+            // the real paper does.
+            if (($q['section'] ?? null) !== null && $q['section'] !== $section) {
+                $section = $q['section'];
+                $questions .= '<div class="part">'.$this->esc($section).'</div>';
+            }
 
             // The second language sits beneath the first, never beside it:
             // side by side halves the width of both, and a long Tamil stem
@@ -759,6 +770,8 @@ final class DocumentComposer
           .c { text-align: center; } .r { text-align: right; }
           .instr { font-size: 9pt; border: 0.4pt solid #999; padding: 4pt 8pt; margin-bottom: 10pt; }
           .instr ol { margin: 3pt 0 0 12pt; padding: 0; }
+          .part { font-weight: bold; font-size: 11pt; text-align: center; border-bottom: 0.4pt solid #999;
+                  padding: 2pt 0; margin: 6pt 0 6pt; page-break-after: avoid; }
           table.q { width: 100%; margin-bottom: 7pt; border-collapse: collapse; }
           table.keep { page-break-inside: avoid; }
           table.q td { vertical-align: top; padding: 0; }

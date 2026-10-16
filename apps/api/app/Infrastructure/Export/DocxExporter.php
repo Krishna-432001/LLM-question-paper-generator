@@ -65,8 +65,15 @@ final class DocxExporter implements DocumentExporter
         }
 
         $section->addTextBreak();
+        $part = null;
 
         foreach ($payload['questions'] ?? [] as $question) {
+            // A mock in parts names each part where it begins, as on the PDF.
+            if (($question['section'] ?? null) !== null && $question['section'] !== $part) {
+                $part = $question['section'];
+                $section->addText((string) $part, ['bold' => true, 'size' => 12], ['alignment' => 'center', 'spaceBefore' => 120, 'spaceAfter' => 120]);
+            }
+
             $section->addText(
                 // A primary with no printable text is marked, never left as a
                 // bare number nor filled from another language.

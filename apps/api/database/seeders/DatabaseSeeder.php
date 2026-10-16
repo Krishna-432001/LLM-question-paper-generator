@@ -26,6 +26,8 @@ final class DatabaseSeeder extends Seeder
                 // After the syllabus exists: it rewrites unit weights and
                 // orders the content backlog against them.
                 TnpscBlueprintSeeder::class,
+                // The parts of the paper the full mock is built in.
+                TnpscGroup4PatternSeeder::class,
                 // Translation engine: starter en → ta terminology and proper
                 // nouns. Only adds missing entries, so reviewer edits survive.
                 GlossarySeeder::class,

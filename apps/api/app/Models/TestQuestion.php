@@ -42,4 +42,14 @@ class TestQuestion extends Model
     {
         return $this->belongsTo(QuestionTranslation::class, 'secondary_question_translation_id');
     }
+
+    /**
+     * Set on a question from a part printed in one language whatever the
+     * paper's (TNPSC Group IV Part A is Tamil): it prints in that language
+     * alone, from its primary pin.
+     */
+    public function fixedLanguage(): BelongsTo
+    {
+        return $this->belongsTo(Language::class, 'fixed_language_id');
+    }
 }

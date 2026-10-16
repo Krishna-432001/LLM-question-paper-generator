@@ -186,6 +186,8 @@ Route::prefix('v1')->group(function (): void {
 
         // Test assembly, attempts and results. No LLM on any of these paths.
         Route::post('tests', [TestController::class, 'store'])->middleware('throttle:30,1');
+        // A full mock in the exam's own pattern (parts, counts, marks, time).
+        Route::post('tests/exam-pattern', [TestController::class, 'storeExamPattern'])->middleware('throttle:30,1');
         Route::get('tests/{test}', [TestController::class, 'show']);
         Route::post('tests/{test}/attempt', [TestController::class, 'attempt']);
         Route::post('attempts/{attempt}/submit', [TestController::class, 'submit']);

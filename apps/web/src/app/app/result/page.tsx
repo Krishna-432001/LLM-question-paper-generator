@@ -66,7 +66,7 @@ export default function ResultPage() {
 
       <section className="grid grid-cols-2 gap-3 sm:grid-cols-5">
         <Stat label={t("result.score")} value={nothingScored ? "—" : `${r.final_score}`} accent />
-        <Stat label={t("result.accuracy")} value={nothingScored ? "—" : `${Math.round(r.accuracy)}%`} />
+        <Stat label={t("result.accuracy")} value={nothingScored ? "—" : `${Math.round(r.accuracy ?? 0)}%`} />
         <Stat label={t("result.correct")} value={`${r.correct}`} tone="text-emerald-700" />
         <Stat label={t("result.wrong")} value={`${r.wrong}`} tone="text-rose-700" />
         <Stat label={t("result.skipped")} value={`${r.unattempted}`} tone="text-slate-500" />
@@ -74,6 +74,35 @@ export default function ResultPage() {
 
       {/* Practice papers: unkeyed questions are unscored, not wrong. Owned by the papers feature. */}
       <UnscoredNote scoring={scoring} />
+
+      {/* A mock in parts: marks per part, and the qualifying mark where a part has one. */}
+      {(r.sections?.length ?? 0) > 0 && (
+        <section className={`${CARD} p-5`}>
+          <h2 className="font-semibold">{t("mock.parts")}</h2>
+          <ul className="mt-3 space-y-3">
+            {r.sections!.map((part) => (
+              <li key={part.name} className="text-sm">
+                <div className="flex flex-wrap items-baseline gap-2">
+                  <span className="font-medium">{part.name}</span>
+                  <span className="ml-auto tabular-nums">
+                    {part.marks} / {part.max_marks}
+                  </span>
+                </div>
+                <p className="text-xs text-slate-500">
+                  {part.correct} {t("result.correct")} · {part.wrong} {t("result.wrong")} · {part.questions}{" "}
+                  {t("common.questions")}
+                </p>
+                {part.qualified === true && <p className="text-xs text-emerald-700">{t("mock.qualified")}</p>}
+                {part.qualified === false && (
+                  <p className="mt-1 rounded-lg bg-amber-50 px-3 py-2 text-xs text-amber-900">
+                    {t("mock.notQualified").replace("{marks}", String(part.qualifying_marks))}
+                  </p>
+                )}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       {r.topics.length > 0 && (
         <section className={`${CARD} p-5`}>

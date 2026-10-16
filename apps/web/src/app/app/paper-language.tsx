@@ -136,6 +136,15 @@ export function versionsOf(
 
   if (fromTexts.length > 0) return fromTexts;
 
+  // A question set in one language whatever the paper's (Part A of a mock is
+  // Tamil on an English paper): its own languages, labelled as what they are.
+  const own = Object.entries(item.texts ?? {}).map(([code, text]) => ({
+    ...text,
+    code,
+    available: text.available !== false,
+  }));
+  if (own.length > 0) return own;
+
   return [
     {
       code: languages?.[0]?.code ?? null,
