@@ -1014,7 +1014,7 @@ export interface Progress {
   trend: Array<{ date: string; tests: number; accuracy: number | null }>;
 }
 
-export type PlanMode = "daily" | "three-day" | "weekly" | "monthly" | "model-test";
+export type PlanMode = "exam-prep" | "daily" | "three-day" | "weekly" | "monthly" | "model-test";
 
 export interface PlanSummary {
   id: string;
@@ -1032,6 +1032,8 @@ export interface PlanSummary {
 export interface PlanItem {
   id: string;
   type: string;
+  /** A test item: daily | weekly | monthly | three_day | model | mock. */
+  test_kind?: string | null;
   topic: string | null;
   exam_topic_id: string | null;
   minutes: number;
@@ -1129,6 +1131,9 @@ export const testsApi = {
     language_mode?: LanguageMode;
     /** Required when language_mode is bilingual; must differ from language_id. */
     secondary_language_id?: string;
+    /** A topic-wise test: whole syllabus units and/or single topics (with their sub-topics). */
+    exam_unit_ids?: string[];
+    exam_topic_ids?: string[];
   }) =>
     api.post<
       Envelope<{

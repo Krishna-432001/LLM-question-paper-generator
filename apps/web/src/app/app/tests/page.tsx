@@ -2,7 +2,15 @@
 
 import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useState } from "react";
-import { ApiError, student, testsApi, type MyTestRow, type PatternPartCount } from "@/lib/api";
+import {
+  ApiError,
+  examAdmin,
+  student,
+  testsApi,
+  type MyTestRow,
+  type PatternPartCount,
+  type SyllabusUnitNode,
+} from "@/lib/api";
 import { useI18n } from "@/lib/i18n";
 import { PaperLanguagePicker, creationErrorText, languageLabel, usePaperLanguage } from "../paper-language";
 import { BUTTON, CARD, FIELD, GHOST, errorText, useStudent } from "../student-context";
@@ -19,6 +27,10 @@ export default function TestsPage() {
 
   const [tests, setTests] = useState<MyTestRow[]>([]);
   const [form, setForm] = useState({ type: "topic_practice", count: "20", minutes: "20" });
+  // A topic-wise test: chosen units and single topics; none chosen = the whole syllabus.
+  const [units, setUnits] = useState<SyllabusUnitNode[]>([]);
+  const [chosenUnits, setChosenUnits] = useState<string[]>([]);
+  const [chosenTopics, setChosenTopics] = useState<string[]>([]);
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -37,6 +49,20 @@ export default function TestsPage() {
     })();
   }, [load, t]);
 
+  // The syllabus, for choosing topics; loaded once, only when it is needed.
+  useEffect(() => {
+    if (!examId || form.type !== "topic_practice" || units.length > 0) return;
+    void (async () => {
+      try {
+        setUnits((await examAdmin.syllabus(examId)).data.units);
+      } catch {
+        // Without the syllabus the test is simply on the whole syllabus.
+      }
+    })();
+  }, [examId, form.type, units.length]);
+
+  const toggle = (list: string[], id: string) => (list.includes(id) ? list.filter((x) => x !== id) : [...list, id]);
+
   async function startNew() {
     if (!examId || !paperLanguage.request) return;
     setBusy(true);
@@ -49,6 +75,9 @@ export default function TestsPage() {
         type: form.type,
         question_count: Number(form.count),
         duration_minutes: Number(form.minutes) || undefined,
+        ...(form.type === "topic_practice" && (chosenUnits.length > 0 || chosenTopics.length > 0)
+          ? { exam_unit_ids: chosenUnits, exam_topic_ids: chosenTopics }
+          : {}),
       });
       testId = test.id;
     } catch (e) {
@@ -116,6 +145,44 @@ export default function TestsPage() {
             {busy ? t("common.loading") : t("tests.create")}
           </button>
         </div>
+        {form.type === "topic_practice" && units.length > 0 && (
+          <div className="mt-3">
+            <p className="mb-1 text-xs text-slate-500">{t("tests.topics")}</p>
+            <div className="max-h-72 space-y-1 overflow-y-auto rounded-xl border border-slate-200 p-2 text-sm">
+              {units.map((unit) => (
+                <details key={unit.id} className="rounded-lg px-2 py-1 open:bg-slate-50">
+                  <summary className="flex cursor-pointer items-center gap-2">
+                    <input
+                      type="checkbox"
+                      className="h-4 w-4 accent-indigo-600"
+                      checked={chosenUnits.includes(unit.id)}
+                      onChange={() => setChosenUnits(toggle(chosenUnits, unit.id))}
+                      onClick={(e) => e.stopPropagation()}
+                    />
+                    <span className="font-medium">{unit.name}</span>
+                    <span className="ml-auto text-xs text-slate-400">{unit.subject}</span>
+                  </summary>
+                  <ul className="mt-1 space-y-0.5 pl-6">
+                    {unit.topics.map((topic) => (
+                      <li key={topic.id} className={topic.parent_id ? "pl-4" : ""}>
+                        <label className="flex items-center gap-2">
+                          <input
+                            type="checkbox"
+                            className="h-3.5 w-3.5 accent-indigo-600"
+                            disabled={chosenUnits.includes(unit.id)}
+                            checked={chosenUnits.includes(unit.id) || chosenTopics.includes(topic.id)}
+                            onChange={() => setChosenTopics(toggle(chosenTopics, topic.id))}
+                          />
+                          <span>{topic.name}</span>
+                        </label>
+                      </li>
+                    ))}
+                  </ul>
+                </details>
+              ))}
+            </div>
+          </div>
+        )}
         {error && <p className="mt-3 rounded-xl bg-red-50 px-4 py-3 text-sm text-red-700">{error}</p>}
       </section>
 

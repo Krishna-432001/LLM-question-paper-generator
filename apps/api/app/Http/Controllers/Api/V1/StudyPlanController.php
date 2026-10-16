@@ -5,8 +5,10 @@ declare(strict_types=1);
 namespace App\Http\Controllers\Api\V1;
 
 use App\Actions\Plans\GenerateStudyPlanAction;
+use App\Actions\Tests\AssembleExamPatternTestAction;
 use App\Actions\Tests\AssembleTestAction;
 use App\Domain\Tenancy\TenantContext;
+use App\Domain\Tests\Exceptions\ExamPatternShortfall;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Plans\CreateStudyPlanRequest;
 use App\Models\StudyPlan;
@@ -50,6 +52,14 @@ final class StudyPlanController extends Controller
     public function modelTest(CreateStudyPlanRequest $r, GenerateStudyPlanAction $a): JsonResponse
     {
         return $this->generate($r, $a, 'model_test');
+    }
+
+    /** From the student's start date to the exam, with every kind of test on it. */
+    public function examPrep(CreateStudyPlanRequest $r, GenerateStudyPlanAction $a): JsonResponse
+    {
+        abort_unless($r->filled('exam_date'), 422, 'An exam preparation plan needs the exam date (exam_date).');
+
+        return $this->generate($r, $a, 'exam_prep');
     }
 
     public function index(Request $request): JsonResponse
@@ -147,8 +157,12 @@ final class StudyPlanController extends Controller
      * so a 30-day plan does not assemble 30 papers up front — most of which
      * the student would never open.
      */
-    public function dayTest(string $planId, string $dayId, AssembleTestAction $assemble): JsonResponse
-    {
+    public function dayTest(
+        string $planId,
+        string $dayId,
+        AssembleTestAction $assemble,
+        AssembleExamPatternTestAction $mock,
+    ): JsonResponse {
         $plan = StudyPlan::query()->findOrFail($planId);
         $day = $plan->days()->with('items')->findOrFail($dayId);
 
@@ -161,19 +175,62 @@ final class StudyPlanController extends Controller
         abort_if($testItem === null, 404, 'No test is scheduled on this day.');
 
         $context = app(TenantContext::class);
-
-        $test = $assemble->execute([
+        $base = [
             'organization_id' => $context->organizationId,
             'user_id' => $context->userId,
             'exam_id' => $plan->exam_id,
             'language_id' => $plan->language_id,
-            'type' => $plan->mode === 'model_test' ? 'model' : $plan->mode,
-            'question_count' => $testItem->question_count ?? 20,
-            'title' => "Day {$day->day_number} test",
             'study_plan_id' => $plan->getKey(),
             'study_plan_day_id' => $day->getKey(),
-            'duration_minutes' => $testItem->target_minutes,
-        ]);
+        ];
+        $kind = $testItem->test_kind;
+        $name = match ($kind) {
+            'daily' => 'Daily test',
+            'weekly' => 'Weekly test',
+            'monthly' => 'Monthly test',
+            'three_day' => '3-day test',
+            'model' => 'Model examination',
+            'mock' => 'Full mock test',
+            default => 'test',
+        };
+
+        if ($kind === 'mock') {
+            // The real paper's pattern, built from whatever the bank holds by
+            // then: a plan's mock is never refused for being short.
+            try {
+                $test = $mock->execute($base + [
+                    'type' => 'model',
+                    'allow_short' => true,
+                    'title' => "Day {$day->day_number} — {$name}",
+                ]);
+            } catch (ExamPatternShortfall) {
+                abort(422, 'The question bank has no approved questions for this plan yet.');
+            }
+        } else {
+            $attributes = $base + [
+                'type' => match (true) {
+                    in_array($kind, ['daily', 'three_day', 'weekly', 'monthly', 'model'], true) => $kind,
+                    $plan->mode === 'model_test' => 'model',
+                    in_array($plan->mode, ['daily', 'three_day', 'weekly', 'monthly'], true) => $plan->mode,
+                    default => 'daily',
+                },
+                'question_count' => $testItem->question_count ?? 20,
+                'title' => "Day {$day->day_number} — {$name}",
+                'duration_minutes' => $testItem->target_minutes,
+            ];
+
+            // On the topics this stretch of the plan studied; the whole bank
+            // when none of them has questions yet, rather than no test at all.
+            $topics = $this->topicsStudied($plan, $day->day_number, $testItem->scope_days);
+            $test = $topics === []
+                ? $assemble->execute($attributes)
+                : $assemble->execute($attributes + ['canonical_topic_ids' => $topics]);
+
+            if ($test->status === 'failed' && $topics !== []) {
+                $test->delete();
+                $test = $assemble->execute($attributes);
+            }
+        }
 
         abort_if(
             $test->status === 'failed',
@@ -229,12 +286,39 @@ final class StudyPlanController extends Controller
         ];
     }
 
+    /**
+     * The topics studied or revised over the $scopeDays days ending on day
+     * $dayNumber — what a daily, weekly or monthly test is drawn from. Empty
+     * for a test on the whole syllabus.
+     *
+     * @return list<string>
+     */
+    private function topicsStudied(StudyPlan $plan, int $dayNumber, ?int $scopeDays): array
+    {
+        if ($scopeDays === null || $scopeDays <= 0) {
+            return [];
+        }
+
+        return StudyPlanItem::query()
+            ->whereIn('item_type', ['study', 'revise'])
+            ->whereNotNull('canonical_topic_id')
+            ->whereHas('day', fn ($d) => $d
+                ->where('study_plan_id', $plan->getKey())
+                ->whereBetween('day_number', [$dayNumber - $scopeDays + 1, $dayNumber]))
+            ->distinct()
+            ->pluck('canonical_topic_id')
+            ->map(static fn ($id): string => (string) $id)
+            ->all();
+    }
+
     /** @return array<string, mixed> */
     private function item(StudyPlanItem $item): array
     {
         return [
             'id' => $item->getKey(),
             'type' => $item->item_type,
+            // A test item: daily | weekly | monthly | model | mock.
+            'test_kind' => $item->test_kind,
             'topic' => $item->canonicalTopic?->name,
             'exam_topic_id' => $item->exam_topic_id,
             'minutes' => $item->target_minutes,

@@ -58,8 +58,31 @@ final class PlanBlueprintSeeder extends Seeder
             'mode' => 'model_test', 'name' => 'Model Test Plan', 'horizon_days' => 0,
             'structure' => ['simulation' => true],
             'test_config' => ['cycle_days' => 7, 'cycle_questions' => 100, 'cycle_minutes' => 180,
-                'cycle_test_name' => 'Model examination'],
+                'cycle_test_name' => 'Model examination', 'cycle_kind' => 'model'],
             'documents' => ['question_paper', 'answer_key', 'explanations'],
+        ],
+        [
+            // From the student's start date to the exam: a daily test on the
+            // day's topics, a weekly and a monthly test on what those weeks
+            // covered, and full mocks in the exam's pattern through the
+            // revision weeks at the end.
+            'mode' => 'exam_prep', 'name' => 'Exam Preparation Plan', 'horizon_days' => 0,
+            'structure' => ['to_exam' => true],
+            'test_config' => [
+                'daily_questions' => 15, 'daily_minutes' => 12,
+                'cycles' => [
+                    // Checked in this order: a day that is both closes the month.
+                    ['every' => 30, 'kind' => 'monthly', 'name' => 'Monthly test', 'questions' => 100, 'minutes' => 90],
+                    ['every' => 7, 'kind' => 'weekly', 'name' => 'Weekly test', 'questions' => 75, 'minutes' => 60],
+                ],
+                'mock_every' => 3,
+                'mock_name' => 'Full mock test',
+                // For the schedule's arithmetic only: the paper itself takes
+                // its counts and time from the exam's pattern.
+                'mock_questions' => 200,
+                'mock_minutes' => 180,
+            ],
+            'documents' => ['study_plan', 'question_paper', 'answer_key'],
         ],
     ];
 

@@ -21,15 +21,23 @@ use App\Models\Test;
 use App\Models\TestAttempt;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 final class TestController extends Controller
 {
     public function store(CreateTestRequest $request, AssembleTestAction $assemble): JsonResponse
     {
         $context = app(TenantContext::class);
+        $topics = $this->topicScope($request);
+
+        // Topics chosen, none of them filed in the bank: refused, rather than
+        // quietly widened to the whole syllabus.
+        if ($topics === []) {
+            return $this->shortage($request, 'None of the chosen topics has any questions linked to it yet.');
+        }
 
         try {
-            $test = $assemble->execute([
+            $test = $assemble->execute(($topics === null ? [] : ['canonical_topic_ids' => $topics]) + [
                 'organization_id' => $context->organizationId,
                 'user_id' => $context->userId,
                 'exam_id' => $request->string('exam_id')->toString(),
@@ -52,6 +60,43 @@ final class TestController extends Controller
         }
 
         return response()->json(['data' => $this->shape($test)], 201);
+    }
+
+    /**
+     * The bank topics a topic-wise test is drawn from: every syllabus topic
+     * of the chosen units, and each chosen topic with its sub-topics. Null
+     * when none was chosen (the whole syllabus); empty when the choices map
+     * to nothing in the bank.
+     *
+     * @return list<string>|null
+     */
+    private function topicScope(CreateTestRequest $request): ?array
+    {
+        $unitIds = array_map('strtolower', $request->array('exam_unit_ids'));
+        $topicIds = array_map('strtolower', $request->array('exam_topic_ids'));
+
+        if ($unitIds === [] && $topicIds === []) {
+            return null;
+        }
+
+        $chosen = DB::table('exam_topics')->whereIn('id', $topicIds)->get(['syllabus_version_id', 'path']);
+
+        return DB::table('exam_topics as t')
+            ->where(function ($q) use ($unitIds, $chosen): void {
+                $q->whereIn('t.exam_unit_id', $unitIds);
+
+                foreach ($chosen as $topic) {
+                    // A topic covers its sub-topics: everything under its path.
+                    $q->orWhere(fn ($w) => $w
+                        ->where('t.syllabus_version_id', $topic->syllabus_version_id)
+                        ->whereRaw('t.path <@ ?::ltree', [$topic->path]));
+                }
+            })
+            ->whereNotNull('t.canonical_topic_id')
+            ->distinct()
+            ->pluck('t.canonical_topic_id')
+            ->map(static fn ($id): string => (string) $id)
+            ->all();
     }
 
     /**

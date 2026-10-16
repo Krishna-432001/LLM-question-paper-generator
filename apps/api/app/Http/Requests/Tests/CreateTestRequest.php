@@ -52,6 +52,12 @@ final class CreateTestRequest extends FormRequest
                 'prediction', 'topic_practice', 'custom', 'diagnostic',
             ])],
             'question_count' => ['required', 'integer', 'between:5,200'],
+            // A topic-wise test: whole syllabus units, single topics (each
+            // with its sub-topics), or both. Omitted: the whole syllabus.
+            'exam_unit_ids' => ['sometimes', 'array', 'max:50'],
+            'exam_unit_ids.*' => ['uuid'],
+            'exam_topic_ids' => ['sometimes', 'array', 'max:300'],
+            'exam_topic_ids.*' => ['uuid'],
             'title' => ['sometimes', 'string', 'max:160'],
             'duration_minutes' => ['sometimes', 'integer', 'between:5,300'],
             'negative_marking' => ['sometimes', 'numeric', 'between:0,2'],

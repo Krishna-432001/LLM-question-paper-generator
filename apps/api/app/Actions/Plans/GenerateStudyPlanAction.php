@@ -86,6 +86,9 @@ final class GenerateStudyPlanAction
                         'canonical_topic_id' => $item['canonical_topic_id'] ?? null,
                         'target_minutes' => $item['minutes'] ?? 0,
                         'question_count' => $item['question_count'] ?? null,
+                        // A test item: which kind of paper, on how many days' topics.
+                        'test_kind' => $item['test_kind'] ?? null,
+                        'scope_days' => $item['scope_days'] ?? null,
                         'sequence' => $sequence,
                     ]);
                 }

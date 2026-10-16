@@ -270,39 +270,154 @@ final class PlanScheduler
     private function injectAssessments(array $days, PlanRequest $request): array
     {
         $config = $request->testConfig;
-
-        $cycle = (int) ($config['cycle_days'] ?? 0);
+        $cycles = $this->cyclesOf($config);
+        $mockDays = $this->mockDays($days, (int) ($config['mock_every'] ?? 0));
 
         foreach ($days as $day) {
-            $isCycleDay = $cycle > 0 && $day->dayNumber % $cycle === 0;
-
-            if ($isCycleDay) {
-                // A cycle-test day carries the cycle test only. Stacking the
-                // daily test on top would put 90 questions on one day, which
-                // is how a plan stops being followed.
+            // The revision weeks rehearse the real paper: a full mock in the
+            // exam's pattern, with nothing else stacked on that day.
+            if (isset($mockDays[$day->dayNumber])) {
                 $day->role = 'test';
                 $day->items[] = [
                     'type' => 'test',
-                    'name' => $config['cycle_test_name'] ?? 'Cycle test',
-                    'minutes' => (int) ($config['cycle_minutes'] ?? 45),
-                    'question_count' => (int) ($config['cycle_questions'] ?? 50),
+                    'test_kind' => 'mock',
+                    'name' => $config['mock_name'] ?? 'Full mock test',
+                    'minutes' => (int) ($config['mock_minutes'] ?? 180),
+                    'question_count' => isset($config['mock_questions']) ? (int) $config['mock_questions'] : null,
+                    'scope_days' => null,
                 ];
 
                 continue;
             }
 
-            // Daily check: short, on every day that has new material.
+            $cycle = null;
+
+            foreach ($cycles as $candidate) {
+                if ($day->dayNumber % $candidate['every'] === 0) {
+                    $cycle = $candidate;
+
+                    break;
+                }
+            }
+
+            if ($cycle !== null) {
+                // A cycle-test day carries the cycle test only. Stacking the
+                // daily test on top would put 90 questions on one day, which
+                // is how a plan stops being followed. It covers what the
+                // cycle studied.
+                $day->role = 'test';
+                $day->items[] = [
+                    'type' => 'test',
+                    'test_kind' => $cycle['kind'],
+                    'name' => $cycle['name'],
+                    'minutes' => $cycle['minutes'],
+                    'question_count' => $cycle['questions'],
+                    // A model examination covers the whole syllabus.
+                    'scope_days' => $cycle['kind'] === 'model' ? null : $cycle['every'],
+                ];
+
+                continue;
+            }
+
+            // Daily check: short, on every day that has material, and on
+            // that day's topics.
             if (($config['daily_questions'] ?? 0) > 0 && $day->items !== []) {
                 $day->items[] = [
                     'type' => 'test',
+                    'test_kind' => 'daily',
                     'name' => 'Daily test',
                     'minutes' => (int) ($config['daily_minutes'] ?? 15),
                     'question_count' => (int) $config['daily_questions'],
+                    'scope_days' => 1,
                 ];
             }
         }
 
         return $days;
+    }
+
+    /**
+     * The cycle tests a mode sets, longest cycle first so a day that closes
+     * both a month and a week gets the monthly test. A mode written with a
+     * single cycle_days keeps meaning what it always did.
+     *
+     * @param  array<string, mixed>  $config
+     * @return list<array{every: int, kind: string, name: string, questions: int, minutes: int}>
+     */
+    private function cyclesOf(array $config): array
+    {
+        $cycles = $config['cycles'] ?? [];
+
+        if ($cycles === [] && (int) ($config['cycle_days'] ?? 0) > 0) {
+            $every = (int) $config['cycle_days'];
+            $cycles = [[
+                'every' => $every,
+                'kind' => $config['cycle_kind'] ?? match ($every) {
+                    3 => 'three_day',
+                    7 => 'weekly',
+                    default => 'weekly',
+                },
+                'name' => $config['cycle_test_name'] ?? 'Cycle test',
+                'questions' => (int) ($config['cycle_questions'] ?? 50),
+                'minutes' => (int) ($config['cycle_minutes'] ?? 45),
+            ]];
+        }
+
+        $cycles = array_values(array_filter(
+            array_map(static fn (array $c): array => [
+                'every' => (int) $c['every'],
+                'kind' => (string) $c['kind'],
+                'name' => (string) ($c['name'] ?? 'Cycle test'),
+                'questions' => (int) ($c['questions'] ?? 50),
+                'minutes' => (int) ($c['minutes'] ?? 45),
+            ], $cycles),
+            static fn (array $c): bool => $c['every'] > 0,
+        ));
+
+        usort($cycles, static fn (array $a, array $b): int => $b['every'] <=> $a['every']);
+
+        return $cycles;
+    }
+
+    /**
+     * The days of the final revision stretch — after the last new topic —
+     * that hold a full mock: every $every-th of them. A plan too short to
+     * have such a stretch still ends with one mock on its last day.
+     *
+     * @param  list<ScheduledDay>  $days
+     * @return array<int, true>  day number => true
+     */
+    private function mockDays(array $days, int $every): array
+    {
+        if ($every <= 0 || $days === []) {
+            return [];
+        }
+
+        $lastStudy = 0;
+
+        foreach ($days as $day) {
+            foreach ($day->items as $item) {
+                if ($item['type'] === 'study') {
+                    $lastStudy = $day->dayNumber;
+                }
+            }
+        }
+
+        $tail = array_values(array_filter($days, static fn (ScheduledDay $d): bool => $d->dayNumber > $lastStudy));
+
+        if ($tail === []) {
+            return [end($days)->dayNumber => true];
+        }
+
+        $mocks = [];
+
+        foreach ($tail as $position => $day) {
+            if (($position + 1) % $every === 0) {
+                $mocks[$day->dayNumber] = true;
+            }
+        }
+
+        return $mocks ?: [end($tail)->dayNumber => true];
     }
 
     /**

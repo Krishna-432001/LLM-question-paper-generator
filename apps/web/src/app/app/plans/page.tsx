@@ -6,7 +6,14 @@ import { plansApi, testsApi, type PlanDetail, type PlanMode, type PlanSummary } 
 import { useI18n, type MessageKey } from "@/lib/i18n";
 import { BUTTON, CARD, FIELD, GHOST, errorText, useQueryParam, useStudent } from "../student-context";
 
-const MODES: PlanMode[] = ["daily", "three-day", "weekly", "monthly", "model-test"];
+const MODES: PlanMode[] = ["exam-prep", "daily", "three-day", "weekly", "monthly", "model-test"];
+const TEST_KINDS = ["daily", "weekly", "monthly", "three_day", "model", "mock"];
+
+/** Today in the student's own time zone, as the date inputs and the server read it. */
+function localToday(): string {
+  const now = new Date();
+  return new Date(now.getTime() - now.getTimezoneOffset() * 60_000).toISOString().slice(0, 10);
+}
 const WEEKDAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
 /** Study plans: make one, then work through it day by day. */
@@ -23,7 +30,8 @@ function PlanList({ t }: { t: (key: MessageKey) => string }) {
   const router = useRouter();
   const { profile, contentLanguageId } = useStudent();
   const [plans, setPlans] = useState<PlanSummary[]>([]);
-  const [mode, setMode] = useState<PlanMode>("weekly");
+  const [mode, setMode] = useState<PlanMode>("exam-prep");
+  const [startDate, setStartDate] = useState(localToday);
   const [examDate, setExamDate] = useState("");
   const [hours, setHours] = useState("3");
   const [offDays, setOffDays] = useState<number[]>([0]);
@@ -40,12 +48,17 @@ function PlanList({ t }: { t: (key: MessageKey) => string }) {
 
   async function create() {
     if (!profile?.target_exam || !contentLanguageId) return;
+    if (mode === "exam-prep" && !examDate) {
+      setError(t("plans.examDateNeeded"));
+      return;
+    }
     setBusy(true);
     setError(null);
     try {
       const { data } = await plansApi.create(mode, {
         exam_id: profile.target_exam.id,
         language_id: contentLanguageId,
+        start_date: startDate || undefined,
         exam_date: examDate || undefined,
         hours_per_day: Number(hours) || 3,
         off_days: offDays,
@@ -77,9 +90,22 @@ function PlanList({ t }: { t: (key: MessageKey) => string }) {
             </button>
           ))}
         </div>
-        <div className="mt-4 grid gap-3 sm:grid-cols-3">
+        {mode === "exam-prep" && <p className="mt-2 text-sm text-slate-500">{t("plans.mode.exam-prepHint")}</p>}
+        <div className="mt-4 grid gap-3 sm:grid-cols-4">
           <label className="text-sm">
-            <span className="mb-1 block text-xs text-slate-500">{t("plans.examDate")}</span>
+            <span className="mb-1 block text-xs text-slate-500">{t("plans.startDate")}</span>
+            <input
+              type="date"
+              className={FIELD}
+              min={localToday()}
+              value={startDate}
+              onChange={(e) => setStartDate(e.target.value)}
+            />
+          </label>
+          <label className="text-sm">
+            <span className="mb-1 block text-xs text-slate-500">
+              {mode === "exam-prep" ? t("plans.examDateRequired") : t("plans.examDate")}
+            </span>
             <input type="date" className={FIELD} value={examDate} onChange={(e) => setExamDate(e.target.value)} />
           </label>
           <label className="text-sm">
@@ -205,7 +231,9 @@ function PlanView({ planId }: { planId: string }) {
                   aria-label={t("plans.markDone")}
                 />
                 <span className={`flex-1 ${item.completed_at ? "text-slate-400 line-through" : ""}`}>
-                  {item.topic ?? item.type}
+                  {item.type === "test" && item.test_kind && TEST_KINDS.includes(item.test_kind)
+                    ? t(`plans.test.${item.test_kind}` as MessageKey)
+                    : (item.topic ?? item.type)}
                   {item.is_revision && <span className="ml-2 text-[11px] text-sky-700">{t("plans.revision")}</span>}
                 </span>
                 <span className="text-xs text-slate-400">{item.minutes}′</span>

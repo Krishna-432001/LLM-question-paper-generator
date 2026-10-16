@@ -178,6 +178,7 @@ Route::prefix('v1')->group(function (): void {
             Route::post('weekly', [StudyPlanController::class, 'weekly']);
             Route::post('monthly', [StudyPlanController::class, 'monthly']);
             Route::post('model-test', [StudyPlanController::class, 'modelTest']);
+            Route::post('exam-prep', [StudyPlanController::class, 'examPrep']);
             Route::get('{plan}', [StudyPlanController::class, 'show']);
             Route::get('{plan}/today', [StudyPlanController::class, 'today']);
             Route::post('{plan}/items/{item}/complete', [StudyPlanController::class, 'completeItem']);

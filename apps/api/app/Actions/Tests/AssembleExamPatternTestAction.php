@@ -69,7 +69,8 @@ final class AssembleExamPatternTestAction
 
         $type = (string) ($attributes['type'] ?? 'model');
         $examName = (string) Exam::query()->whereKey($examId)->value('name');
-        $title = $attributes['title'] ?? $examName.' — '.($type === 'prediction' ? 'Prediction Mock Test' : 'Full Mock Test')
+        // A shorter mock says so in its title, whoever named it.
+        $title = ($attributes['title'] ?? $examName.' — '.($type === 'prediction' ? 'Prediction Mock Test' : 'Full Mock Test'))
             .($isShort ? " ({$shortfall->availableTotal()} of {$total} questions)" : '');
 
         // One part per unit; the units of a part share its name, so the

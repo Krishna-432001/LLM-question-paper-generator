@@ -57,6 +57,23 @@ const RIGHTS = [
   ["fair_use", "Fair use"],
 ] as const;
 
+/** Tamil Nadu school standards whose books feed the exams. */
+const STANDARDS = ["6", "7", "8", "9", "10", "11", "12"] as const;
+
+/** Suggestions only: any subject name can be typed. */
+const SUBJECTS = [
+  "Tamil",
+  "English",
+  "Mathematics",
+  "Science",
+  "Social Science",
+  "History",
+  "Geography",
+  "Political Science",
+  "Economics",
+  "Ethics and Indian Culture",
+] as const;
+
 /**
  * Question shapes a real paper uses. All four are four options with exactly
  * one correct answer, so the answer key and the PDF are identical whichever
@@ -432,6 +449,31 @@ export default function AdminPage() {
                   </option>
                 ))}
               </select>
+              {/* Which book this is: kept with it, and shown wherever its questions are listed. */}
+              <div className="grid grid-cols-2 gap-2">
+                <select name="meta[standard]" defaultValue="" className={FIELD} aria-label="Standard">
+                  <option value="">Standard…</option>
+                  {STANDARDS.map((s) => (
+                    <option key={s} value={s}>
+                      Std {s}
+                    </option>
+                  ))}
+                </select>
+                <input
+                  name="meta[subject_name]"
+                  list="book-subjects"
+                  placeholder="Subject"
+                  maxLength={120}
+                  className={FIELD}
+                  aria-label="Subject"
+                />
+                <datalist id="book-subjects">
+                  {SUBJECTS.map((s) => (
+                    <option key={s} value={s} />
+                  ))}
+                </datalist>
+              </div>
+              <input type="hidden" name="meta[board]" value="Tamil Nadu State Board" />
               <button disabled={busy === "upload"} className={`w-full ${BTN} bg-sky-600 hover:bg-sky-500`}>
                 {busy === "upload" ? "Uploading…" : "Upload"}
               </button>
