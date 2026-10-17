@@ -95,6 +95,44 @@ final class ImportQuestionsTest extends TestCase
         });
     }
 
+    public function test_a_tamil_language_question_is_written_in_tamil_alone(): void
+    {
+        $question = $this->question(['topic' => 'modern-tamil-poets', 'answer' => 'A']);
+        unset($question['en']);
+        $question['ta'] = [
+            'q' => '‘தென்மொழி’ இதழின் வாயிலாகத் தமிழுணர்வைப் பரப்பியவர் யார்?',
+            'options' => ['பெருஞ்சித்திரனார்', 'பாரதிதாசன்', 'தேவநேயப் பாவாணர்', 'திரு.வி.க.'],
+            'explanation' => 'பாவலரேறு பெருஞ்சித்திரனார் தென்மொழி, தமிழ்ச்சிட்டு இதழ்களை நடத்தினார்.',
+        ];
+        $file = $this->file([$question]);
+
+        $this->artisan('questions:import', ['file' => $file])->expectsOutputToContain('1 added to the review queue')->assertSuccessful();
+        $this->artisan('questions:import', ['file' => $file])->expectsOutputToContain('1 already in the bank')->assertSuccessful();
+
+        TenantContext::withoutTenancy(function (): void {
+            $question = Question::query()->with('translations')->sole();
+            $tamil = Language::byCode('ta')->getKey();
+
+            $this->assertSame($tamil, $question->master_language_id);
+            $this->assertSame('A', $question->correctOptionKey());
+
+            $master = $question->translations->sole();
+            $this->assertTrue($master->is_master);
+            $this->assertSame($tamil, $master->language_id);
+            $this->assertSame('பெருஞ்சித்திரனார்', $master->option_a);
+        });
+    }
+
+    public function test_a_question_with_neither_language_is_refused(): void
+    {
+        $question = $this->question();
+        unset($question['en'], $question['ta']);
+
+        $this->artisan('questions:import', ['file' => $this->file([$question])])
+            ->expectsOutputToContain('Question 1: the question needs an en or a ta version')
+            ->assertFailed();
+    }
+
     public function test_loading_the_file_again_adds_nothing(): void
     {
         $file = $this->file([$this->question()]);

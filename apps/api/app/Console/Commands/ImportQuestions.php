@@ -39,7 +39,11 @@ use JsonException;
  *     }]
  *   }
  *
- * A question whose English wording is already in the bank is skipped, so a
+ * A question about the Tamil language itself (Group IV Part A: grammar,
+ * literature, Tamil scholars) has no English version worth writing. Give it
+ * "ta" alone and Tamil becomes its master.
+ *
+ * A question whose master wording is already in the bank is skipped, so a
  * file can be loaded again after it is extended.
  */
 final class ImportQuestions extends Command
@@ -48,7 +52,7 @@ final class ImportQuestions extends Command
         {file : JSON file of written questions}
         {--dry-run : Check the file and report, change nothing}';
 
-    protected $description = 'Load written questions (English with Tamil) into the review queue, each citing its book page';
+    protected $description = 'Load written questions (English with Tamil, or Tamil alone) into the review queue, each citing its book page';
 
     private const FORMATS = ['mcq4', 'statement_based', 'assertion_reason', 'match_the_following', 'true_false'];
 
@@ -106,7 +110,7 @@ final class ImportQuestions extends Command
             foreach ($questions as $i => $q) {
                 $already = DB::table('question_translations')
                     ->where('is_master', true)
-                    ->where('question_text', trim($q['en']['q']))
+                    ->where('question_text', trim(($q['en'] ?? $q['ta'])['q']))
                     ->exists();
 
                 if ($already) {
@@ -124,14 +128,15 @@ final class ImportQuestions extends Command
                 DB::transaction(function () use ($q, $i, $writer, $review, $exam, $source, $book, $versionId, $english, $tamil, $data): void {
                     $letters = ['A', 'B', 'C', 'D'];
                     $topic = CanonicalTopic::query()->where('slug', $q['topic'])->firstOrFail();
+                    $master = $q['en'] ?? $q['ta'];
 
                     $question = $writer->write(
                         new QuestionCandidate(
                             ref: 'Q'.($i + 1),
-                            questionText: trim($q['en']['q']),
-                            options: array_combine($letters, array_map('trim', $q['en']['options'])),
+                            questionText: trim($master['q']),
+                            options: array_combine($letters, array_map('trim', $master['options'])),
                             correctOption: $q['answer'],
-                            explanation: trim($q['en']['explanation']),
+                            explanation: trim($master['explanation'] ?? ''),
                             difficulty: $q['difficulty'],
                             bloomLevel: $q['bloom'] ?? 'remember',
                             topic: $topic->name,
@@ -144,7 +149,7 @@ final class ImportQuestions extends Command
                         'PENDING_REVIEW',
                         [
                             'organization_id' => null,
-                            'language_id' => $english->getKey(),
+                            'language_id' => isset($q['en']) ? $english->getKey() : $tamil->getKey(),
                             'canonical_topic_id' => $topic->getKey(),
                             'exam_ids' => [$exam->getKey()],
                             'syllabus_version_id' => $versionId,
@@ -163,7 +168,7 @@ final class ImportQuestions extends Command
                         'is_primary' => true,
                     ]);
 
-                    if (isset($q['ta'])) {
+                    if (isset($q['en'], $q['ta'])) {
                         QuestionTranslation::query()->create([
                             'question_id' => $question->getKey(),
                             'language_id' => $tamil->getKey(),
@@ -229,8 +234,12 @@ final class ImportQuestions extends Command
             $problems[] = 'the supporting quote from the book is missing';
         }
 
+        if (! isset($q['en']) && ! isset($q['ta'])) {
+            $problems[] = 'the question needs an en or a ta version';
+        }
+
         foreach (['en', 'ta'] as $language) {
-            if ($language === 'ta' && ! isset($q['ta'])) {
+            if (! isset($q[$language])) {
                 continue;
             }
 
