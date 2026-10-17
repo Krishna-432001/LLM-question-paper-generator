@@ -50,7 +50,8 @@ final class ImportQuestions extends Command
 {
     protected $signature = 'questions:import
         {file : JSON file of written questions}
-        {--dry-run : Check the file and report, change nothing}';
+        {--dry-run : Check the file and report, change nothing}
+        {--max=50 : Refuse a file with more questions than this (one file is one chapter); 0 for no limit}';
 
     protected $description = 'Load written questions (English with Tamil, or Tamil alone) into the review queue, each citing its book page';
 
@@ -89,6 +90,11 @@ final class ImportQuestions extends Command
 
             $questions = $data['questions'] ?? [];
             $problems = [];
+            $max = (int) $this->option('max');
+
+            if ($max > 0 && count($questions) > $max) {
+                $problems[] = sprintf('The file has %d questions; a chapter may have at most %d (use --max to change).', count($questions), $max);
+            }
 
             foreach ($questions as $i => $q) {
                 foreach ($this->problemsWith($q) as $problem) {

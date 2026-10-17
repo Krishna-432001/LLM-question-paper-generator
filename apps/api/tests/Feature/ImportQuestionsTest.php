@@ -133,6 +133,24 @@ final class ImportQuestionsTest extends TestCase
             ->assertFailed();
     }
 
+    public function test_a_file_over_the_chapter_limit_is_refused_whole(): void
+    {
+        $questions = [];
+        foreach (range(1, 3) as $n) {
+            $questions[] = $this->question(['en' => ['q' => "Question number {$n}?", 'options' => ['w', 'x', 'y', 'z'], 'explanation' => 'e']]);
+        }
+
+        $this->artisan('questions:import', ['file' => $this->file($questions), '--max' => 2])
+            ->expectsOutputToContain('The file has 3 questions; a chapter may have at most 2')
+            ->assertFailed();
+
+        $this->assertSame(0, TenantContext::withoutTenancy(fn () => Question::query()->count()));
+
+        $this->artisan('questions:import', ['file' => $this->file($questions), '--max' => 0])
+            ->expectsOutputToContain('3 added to the review queue')
+            ->assertSuccessful();
+    }
+
     public function test_loading_the_file_again_adds_nothing(): void
     {
         $file = $this->file([$this->question()]);
