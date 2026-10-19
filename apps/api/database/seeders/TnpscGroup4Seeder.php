@@ -83,6 +83,7 @@ final class TnpscGroup4Seeder extends Seeder
                 'Indus Valley Civilization',
                 'Mauryan and Gupta Empires',
                 'Indian National Movement',
+                'World History',
                 'Art, Culture and Heritage',
             ],
             'Unit IV — Indian Polity' => [
@@ -139,6 +140,7 @@ final class TnpscGroup4Seeder extends Seeder
         'Disaster Management' => ['disasters', 'disaster management', 'floods', 'earthquakes', 'cyclones', 'பேரிடர்'],
         'Indus Valley Civilization' => ['indus valley', 'harappa', 'harappan civilization', 'early man', 'stone age', 'prehistoric', 'சிந்துவெளி'],
         'Mauryan and Gupta Empires' => ['mauryas', 'guptas', 'ancient india', 'vedic period', 'jainism', 'buddhism', 'empires', 'kingdoms'],
+        'World History' => ['world war', 'league of nations', 'united nations', 'cold war', 'russian revolution', 'fascism', 'nazism', 'உலக வரலாறு', 'உலகப் போர்'],
         'Indian National Movement' => ['national movement', 'freedom struggle', 'british rule', 'independence', 'colonialism', 'revolt of 1857', 'விடுதலைப் போராட்டம்'],
         'Art, Culture and Heritage' => ['art', 'architecture', 'culture', 'heritage', 'temples', 'festivals', 'பண்பாடு'],
         'Constitution of India' => ['constitution', 'preamble', 'democracy', 'citizenship', 'அரசியலமைப்பு', 'மக்களாட்சி'],
