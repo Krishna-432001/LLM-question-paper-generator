@@ -1,0 +1,322 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 10 Social Science Term-Full (English)",
+  "breadcrumb": "Std 10 Social Science (English) — Economics Unit 4: Government and Taxes",
+  "questions": [
+    {
+      "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 321,
+      "quote": "Direct taxes are levied on income of the persons and the indirect taxes are levied on goods and services",
+      "answer": "A",
+      "en": {"q": "Direct taxes are levied on", "options": ["income of persons", "goods and services", "imports only", "entertainment only"], "explanation": "Indirect taxes are levied on goods and services."},
+      "ta": {"q": "நேர்முக வரிகள் எதன் மீது விதிக்கப்படுகின்றன?", "options": ["நபர்களின் வருமானம்", "பொருள்களும் சேவைகளும்", "இறக்குமதி மட்டும்", "பொழுதுபோக்கு மட்டும்"], "explanation": "மறைமுக வரிகள் பொருள்கள், சேவைகள் மீது விதிக்கப்படுகின்றன."}
+    },
+    {
+      "topic": "union-and-state-executive", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 321,
+      "quote": "Defence: This is an essential security function to protect our nation from our enemies. The Union government is responsible for creating and maintaining defence forces.",
+      "answer": "B",
+      "en": {"q": "Which government is responsible for creating and maintaining the defence forces of India?", "options": ["State government", "Union government", "Local government", "District administration"], "explanation": "Defence is an essential security function of the Union."},
+      "ta": {"q": "இந்தியப் பாதுகாப்புப் படைகளை உருவாக்கிப் பராமரிக்கும் பொறுப்பு எந்த அரசுக்கு உண்டு?", "options": ["மாநில அரசு", "ஒன்றிய அரசு", "உள்ளாட்சி அரசு", "மாவட்ட நிர்வாகம்"], "explanation": "பாதுகாப்பு ஒன்றிய அரசின் அடிப்படைப் பணி."}
+    },
+    {
+      "topic": "union-and-state-executive", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 321,
+      "quote": "To settle disputes, the Union government has a vibrant judicial system. State governments take the responsibility for administering the police force in respective states.",
+      "answer": "C",
+      "en": {"q": "According to the text, who takes the responsibility for administering the police force?", "options": ["Union government", "Local bodies", "State governments", "Election Commission"], "explanation": "Law and order is maintained by laws of both the Union and the states."},
+      "ta": {"q": "பாடநூலின்படி காவல்துறையை நிர்வகிக்கும் பொறுப்பு யாருக்கு?", "options": ["ஒன்றிய அரசு", "உள்ளாட்சி அமைப்புகள்", "மாநில அரசுகள்", "தேர்தல் ஆணையம்"], "explanation": "ஒன்றிய, மாநில அரசுகளின் சட்டங்கள் சட்டம் ஒழுங்கைப் பேணுகின்றன."}
+    },
+    {
+      "topic": "local-self-government", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 321,
+      "quote": "The local governments provide public goods like local roads, drainage, drinking water and waste collection and disposal.",
+      "answer": "D",
+      "en": {"q": "Which public good is provided by local governments according to the text?", "options": ["Defence", "Foreign policy", "Money supply", "Drinking water and drainage"], "explanation": "Local governments also provide local roads and waste collection."},
+      "ta": {"q": "பாடநூலின்படி உள்ளாட்சி அரசுகள் வழங்கும் பொதுப் பொருள் எது?", "options": ["பாதுகாப்பு", "வெளியுறவுக் கொள்கை", "பண அளிப்பு", "குடிநீர், வடிகால்"], "explanation": "உள்ளூர்ச் சாலைகள், குப்பை சேகரிப்பையும் உள்ளாட்சிகள் வழங்குகின்றன."}
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 322,
+      "quote": "The Union government, through the Reserve Bank of India, controls money supply and controls the interest rate, inflation and foreign exchange rate.",
+      "answer": "A",
+      "en": {"q": "Through which institution does the Union government control money supply, interest rates and the foreign exchange rate?", "options": ["Reserve Bank of India", "SEBI", "Competition Commission of India", "Finance Commission"], "explanation": "It also regulates the economy through SEBI and the Competition Commission."},
+      "ta": {"q": "எந்த அமைப்பின் மூலம் ஒன்றிய அரசு பண அளிப்பு, வட்டி விகிதம், அந்நியச் செலாவணி விகிதத்தைக் கட்டுப்படுத்துகிறது?", "options": ["இந்திய ரிசர்வ் வங்கி", "செபி", "இந்தியப் போட்டி ஆணையம்", "நிதி ஆணையம்"], "explanation": "செபி, போட்டி ஆணையம் மூலமும் பொருளாதாரத்தை ஒழுங்குபடுத்துகிறது."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 322,
+      "quote": "Which is the role of government and development policies? a) Defence b) Foreign policy c) Regulate the economy d) all of above",
+      "answer": "B",
+      "en": {"q": "Which of the following are roles of government in development policies?", "options": ["Defence only", "Defence, foreign policy and regulating the economy", "Foreign policy only", "None of these"], "explanation": "Elections, law and order, public administration and redistribution of income are other roles."},
+      "ta": {"q": "மேம்பாட்டுக் கொள்கைகளில் அரசின் பங்குகள் எவை?", "options": ["பாதுகாப்பு மட்டும்", "பாதுகாப்பு, வெளியுறவுக் கொள்கை, பொருளாதார ஒழுங்குமுறை", "வெளியுறவுக் கொள்கை மட்டும்", "இவற்றில் எதுவுமில்லை"], "explanation": "தேர்தல், சட்டம் ஒழுங்கு, பொது நிர்வாகம், வருமான மறுபகிர்வு பிற பங்குகள்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 322,
+      "quote": "The origin of the word \"tax\" is from \"taxation,\" which means an estimate.",
+      "answer": "C",
+      "en": {"q": "According to the text, the word 'tax' originates from 'taxation', which means", "options": ["a gift", "a penalty", "an estimate", "a duty"], "explanation": "Taxation is how governments finance their expenditure."},
+      "ta": {"q": "பாடநூலின்படி 'tax' என்ற சொல் 'taxation' என்பதிலிருந்து வந்தது; அதன் பொருள் என்ன?", "options": ["அன்பளிப்பு", "தண்டம்", "மதிப்பீடு", "கடமை"], "explanation": "வரிவிதிப்பு மூலம் அரசுகள் தங்கள் செலவுக்கு நிதி திரட்டுகின்றன."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 322,
+      "quote": "Prof. Seligman also defined a tax as \"a compulsory contribution from a person to the government to defray the expenses incurred in the common interest of all, without reference to special benefits conferred.\"",
+      "answer": "D",
+      "en": {"q": "Who defined tax as 'a compulsory contribution from a person to the government to defray the expenses incurred in the common interest of all, without reference to special benefits conferred'?", "options": ["Adam Smith", "J.S. Mill", "Dalton", "Prof. Seligman"], "explanation": "Taxes are compulsory payments without expectation of direct return."},
+      "ta": {"q": "'சிறப்பு நன்மை குறித்துக் கருதாமல் அனைவரின் பொது நலனுக்கான செலவை ஈடுகட்ட ஒருவர் அரசுக்குச் செலுத்தும் கட்டாயப் பங்களிப்பே வரி' என வரையறுத்தவர் யார்?", "options": ["ஆடம் ஸ்மித்", "ஜே.எஸ். மில்", "டால்டன்", "பேராசிரியர் செலிக்மேன்"], "explanation": "வரி நேரடிப் பயனை எதிர்பாராமல் செலுத்தும் கட்டாயச் செலுத்தம்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 322,
+      "quote": "Canon of equity: Since tax is a compulsory payment, all economists agree that equity is the cardinal principle in designing the tax system. The rich should pay more tax revenue to government than the poor",
+      "answer": "A",
+      "en": {"q": "The canon of taxation which says that the rich should pay more tax than the poor is the", "options": ["Canon of equity", "Canon of certainty", "Canon of convenience", "Canon of elasticity"], "explanation": "Equity is the cardinal principle in designing the tax system."},
+      "ta": {"q": "ஏழைகளை விடப் பணக்காரர்கள் அதிக வரி செலுத்த வேண்டும் என்னும் வரி விதி எது?", "options": ["சம நீதி விதி", "உறுதித்தன்மை விதி", "வசதி விதி", "நெகிழ்ச்சி விதி"], "explanation": "வரி அமைப்பை வடிவமைப்பதில் சம நீதியே முதன்மைக் கொள்கை."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 322,
+      "quote": "Canon of Certainty: Government should announce in advance the tax system so that every tax payer will be able to calculate how much tax amount one may have to pay during a year",
+      "answer": "B",
+      "en": {"q": "The canon that requires the government to announce the tax system in advance so taxpayers can calculate their tax is the", "options": ["Canon of productivity", "Canon of certainty", "Canon of equity", "Canon of economy"], "explanation": "Every taxpayer should know how much tax is payable during a year."},
+      "ta": {"q": "வரி செலுத்துவோர் தம் வரியைக் கணக்கிட அரசு வரி அமைப்பை முன்கூட்டியே அறிவிக்க வேண்டும் என்னும் விதி எது?", "options": ["உற்பத்தித்திறன் விதி", "உறுதித்தன்மை விதி", "சம நீதி விதி", "சிக்கன விதி"], "explanation": "ஓராண்டில் எவ்வளவு வரி செலுத்த வேண்டும் என ஒவ்வொருவரும் அறிய வேண்டும்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 322,
+      "quote": "Further, tax should be collected from a person at the time he gets enough money to pay the tax. This is called canon of convenience.",
+      "answer": "C",
+      "en": {"q": "Collecting tax from a person at the time when he has enough money to pay it follows the", "options": ["Canon of equity", "Canon of elasticity", "Canon of convenience", "Canon of certainty"], "explanation": "A convenient tax reduces the cost of collecting tax."},
+      "ta": {"q": "ஒருவரிடம் வரி செலுத்தப் போதிய பணம் இருக்கும் நேரத்தில் வரி வசூலிப்பது எந்த விதியைப் பின்பற்றுகிறது?", "options": ["சம நீதி விதி", "நெகிழ்ச்சி விதி", "வசதி விதி", "உறுதித்தன்மை விதி"], "explanation": "வசதியான வரி வசூல் செலவைக் குறைக்கிறது."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 322,
+      "quote": "the tax system should be designed in such a way that the people automatically pay more tax revenue if their incomes grow. This is called canon of elasticity.",
+      "answer": "D",
+      "en": {"q": "A tax system designed so that people automatically pay more tax as their incomes grow follows the", "options": ["Canon of productivity", "Canon of certainty", "Canon of economy", "Canon of elasticity"], "explanation": "Choosing a few taxes that fetch more revenue is the canon of productivity."},
+      "ta": {"q": "வருமானம் உயரும்போது மக்கள் தானாகவே அதிக வரி செலுத்தும்படி அமைந்த வரி அமைப்பு எந்த விதியைப் பின்பற்றுகிறது?", "options": ["உற்பத்தித்திறன் விதி", "உறுதித்தன்மை விதி", "சிக்கன விதி", "நெகிழ்ச்சி விதி"], "explanation": "அதிக வருவாய் தரும் சில வரிகளைத் தேர்வது உற்பத்தித்திறன் விதி."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 322,
+      "quote": "From Adam Smith, many economists have given lists of canons of taxation.",
+      "answer": "A",
+      "en": {"q": "According to the text, lists of canons of taxation have been given by many economists starting from", "options": ["Adam Smith", "Karl Marx", "J.M. Keynes", "Amartya Sen"], "explanation": "Canons include equity, certainty, economy, convenience, productivity and elasticity."},
+      "ta": {"q": "பாடநூலின்படி யாரிலிருந்து தொடங்கிப் பல பொருளியலாளர்கள் வரி விதிகளைப் பட்டியலிட்டுள்ளனர்?", "options": ["ஆடம் ஸ்மித்", "கார்ல் மார்க்ஸ்", "ஜே.எம். கீன்ஸ்", "அமர்த்தியா சென்"], "explanation": "சம நீதி, உறுதி, சிக்கனம், வசதி, உற்பத்தித்திறன், நெகிழ்ச்சி ஆகியவை விதிகள்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 323,
+      "quote": "A government's ability to raise taxes is called its fiscal capacity.",
+      "answer": "B",
+      "en": {"q": "A government's ability to raise taxes is called its", "options": ["fiscal deficit", "fiscal capacity", "monetary policy", "public debt"], "explanation": "When expenditure exceeds tax revenue, a government accumulates debt."},
+      "ta": {"q": "வரிகளைத் திரட்டும் அரசின் திறன் எவ்வாறு அழைக்கப்படுகிறது?", "options": ["நிதிப் பற்றாக்குறை", "நிதித் திறன் (fiscal capacity)", "பணக் கொள்கை", "பொதுக் கடன்"], "explanation": "செலவு வரி வருவாயை மிஞ்சினால் அரசுக்குக் கடன் சேர்கிறது."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 323,
+      "quote": "A tax imposed on an individual or organisation, which is paid directly, is a direct tax. The burden of a direct tax cannot be shifted to others.",
+      "answer": "C",
+      "en": {"q": "The burden of which type of tax cannot be shifted to others?", "options": ["Indirect tax", "GST", "Direct tax", "Excise duty"], "explanation": "Income tax and corporation tax are direct taxes."},
+      "ta": {"q": "எந்த வகை வரியின் சுமையைப் பிறருக்கு மாற்ற இயலாது?", "options": ["மறைமுக வரி", "சரக்கு மற்றும் சேவை வரி", "நேர்முக வரி", "ஆயத்தீர்வை"], "explanation": "வருமான வரி, நிறுவன வரி நேர்முக வரிகள்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 323,
+      "quote": "J.S. Mill defines a direct tax as \"one which is demanded from the very persons who it is intended or desired should pay it.\"",
+      "answer": "D",
+      "en": {"q": "Who defined a direct tax as 'one which is demanded from the very persons who it is intended or desired should pay it'?", "options": ["Adam Smith", "Prof. Seligman", "Dadabhai Naoroji", "J.S. Mill"], "explanation": "The burden of a direct tax cannot be shifted."},
+      "ta": {"q": "'யார் செலுத்த வேண்டும் என நோக்கப்படுகிறதோ அவர்களிடமே கோரப்படும் வரி நேர்முக வரி' என வரையறுத்தவர் யார்?", "options": ["ஆடம் ஸ்மித்", "பேராசிரியர் செலிக்மேன்", "தாதாபாய் நௌரோஜி", "ஜே.எஸ். மில்"], "explanation": "நேர்முக வரியின் சுமையை மாற்ற இயலாது."}
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 323,
+      "quote": "In India, Income Tax was introduced for the first time in 1860 by Sir James Wilson in order to meet the losses sustained by the Government on account of the Mutiny of 1857.",
+      "answer": "A",
+      "en": {"q": "Income tax was introduced in India for the first time in 1860 by", "options": ["Sir James Wilson", "Lord Dalhousie", "Lord Ripon", "Lord Curzon"], "explanation": "It was introduced to meet the losses caused by the revolt of 1857."},
+      "ta": {"q": "1860இல் இந்தியாவில் முதன்முதலில் வருமான வரியை அறிமுகப்படுத்தியவர் யார்?", "options": ["சர் ஜேம்ஸ் வில்சன்", "டல்ஹௌசி பிரபு", "ரிப்பன் பிரபு", "கர்சன் பிரபு"], "explanation": "1857 புரட்சியால் ஏற்பட்ட இழப்பை ஈடுகட்ட அறிமுகப்படுத்தப்பட்டது."}
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 323,
+      "quote": "In India, Income Tax was introduced for the first time in 1860",
+      "answer": "B",
+      "en": {"q": "In which year was income tax introduced in India for the first time?", "options": ["1850", "1860", "1870", "1880"], "explanation": "Sir James Wilson introduced it after the revolt of 1857."},
+      "ta": {"q": "இந்தியாவில் வருமான வரி முதன்முதலில் அறிமுகமான ஆண்டு எது?", "options": ["1850", "1860", "1870", "1880"], "explanation": "1857 புரட்சிக்குப் பின் சர் ஜேம்ஸ் வில்சன் அறிமுகப்படுத்தினார்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 323,
+      "quote": "Income tax is the most common and most important tax levied on an individual in India. It is charged directly based on the income of a person.",
+      "answer": "C",
+      "en": {"q": "The most common and most important tax levied on an individual in India is", "options": ["Service tax", "Excise duty", "Income tax", "Central sales tax"], "explanation": "Its rate varies with the level of income."},
+      "ta": {"q": "இந்தியாவில் தனிநபர் மீது விதிக்கப்படும் மிகப் பொதுவான, முக்கியமான வரி எது?", "options": ["சேவை வரி", "ஆயத்தீர்வை", "வருமான வரி", "மத்திய விற்பனை வரி"], "explanation": "வருமான அளவைப் பொறுத்து வரி விகிதம் மாறுபடும்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 323,
+      "quote": "Corporate tax: This tax is levied on companies that exist as separate entities from their shareholders.",
+      "answer": "D",
+      "en": {"q": "The tax levied on companies that exist as separate entities from their shareholders is", "options": ["Income tax", "Stamp duty", "Entertainment tax", "Corporate tax"], "explanation": "Foreign companies are taxed on income arising in India."},
+      "ta": {"q": "பங்குதாரர்களிடமிருந்து தனி அமைப்பாக இருக்கும் நிறுவனங்கள் மீது விதிக்கப்படும் வரி எது?", "options": ["வருமான வரி", "முத்திரைத் தாள் வரி", "பொழுதுபோக்கு வரி", "நிறுவன வரி"], "explanation": "வெளிநாட்டு நிறுவனங்களுக்கு இந்தியாவில் ஈட்டும் வருமானத்திற்கு வரி."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 323,
+      "quote": "In India almost all the direct taxes are collected by the Union governments. Taxes on goods and services are collected by both Union and State governments. The taxes on properties are collected by local governments.",
+      "answer": "A",
+      "en": {"q": "According to the text, taxes on properties in India are collected by", "options": ["local governments", "the Union government", "the Reserve Bank", "the Election Commission"], "explanation": "Almost all direct taxes are collected by the Union; taxes on goods and services by both Union and states."},
+      "ta": {"q": "பாடநூலின்படி இந்தியாவில் சொத்து வரிகளை வசூலிப்பது யார்?", "options": ["உள்ளாட்சி அரசுகள்", "ஒன்றிய அரசு", "ரிசர்வ் வங்கி", "தேர்தல் ஆணையம்"], "explanation": "பெரும்பாலான நேர்முக வரிகளை ஒன்றிய அரசும், பொருள், சேவை வரிகளை ஒன்றிய மாநில அரசுகள் இரண்டும் வசூலிக்கின்றன."}
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 323,
+      "quote": "In India we collect more tax revenue through indirect taxes than through direct taxes. The major indirect taxes in India are customs duty and GST.",
+      "answer": "B",
+      "en": {"q": "According to the text, India collects more tax revenue through", "options": ["direct taxes", "indirect taxes", "property taxes", "wealth taxes"], "explanation": "The major indirect taxes are customs duty and GST."},
+      "ta": {"q": "பாடநூலின்படி இந்தியா அதிக வரி வருவாயை எதன் மூலம் வசூலிக்கிறது?", "options": ["நேர்முக வரிகள்", "மறைமுக வரிகள்", "சொத்து வரிகள்", "செல்வ வரிகள்"], "explanation": "சுங்கவரி, சரக்கு மற்றும் சேவை வரி முக்கிய மறைமுக வரிகள்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 324,
+      "quote": "If the burden of the tax can be shifted to others, it is an indirect tax. The impact is on one person while the incidence is on the another person. Therefore, in the case of indirect taxes, the tax payer is not the tax bearer.",
+      "answer": "C",
+      "en": {"q": "Which statement about indirect taxes is correct?", "options": ["The burden cannot be shifted", "The taxpayer and tax bearer are always the same", "The impact is on one person and the incidence on another", "They are levied only on income"], "explanation": "In indirect taxes the taxpayer is not the tax bearer."},
+      "ta": {"q": "மறைமுக வரிகள் குறித்த சரியான கூற்று எது?", "options": ["சுமையை மாற்ற இயலாது", "வரி செலுத்துபவரும் சுமப்பவரும் எப்போதும் ஒருவரே", "தாக்கம் ஒருவர் மீது, சுமை மற்றொருவர் மீது", "வருமானத்தின் மீது மட்டும் விதிக்கப்படும்"], "explanation": "மறைமுக வரியில் செலுத்துபவர் சுமப்பவர் அல்லர்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 324,
+      "quote": "Some indirect taxes are stamp duty, entertainment tax, excise duty and goods and service tax (GST).",
+      "answer": "D",
+      "en": {"q": "Which of the following is NOT an indirect tax?", "options": ["Stamp duty", "Entertainment tax", "Excise duty", "Income tax"], "explanation": "Income tax is a direct tax."},
+      "ta": {"q": "பின்வருவனவற்றுள் மறைமுக வரி அல்லாதது எது?", "options": ["முத்திரைத் தாள் வரி", "பொழுதுபோக்கு வரி", "ஆயத்தீர்வை", "வருமான வரி"], "explanation": "வருமான வரி நேர்முக வரி."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 324,
+      "quote": "Stamp duty is a tax that is paid on official documents like marriage registration or documents related to a property and in some contractual agreements.",
+      "answer": "A",
+      "en": {"q": "The tax paid on official documents like marriage registration or property documents is", "options": ["Stamp duty", "Excise duty", "Entertainment tax", "Customs duty"], "explanation": "It is also paid on some contractual agreements."},
+      "ta": {"q": "திருமணப் பதிவு, சொத்து ஆவணங்கள் போன்ற அதிகாரப்பூர்வ ஆவணங்களுக்குச் செலுத்தப்படும் வரி எது?", "options": ["முத்திரைத் தாள் வரி", "ஆயத்தீர்வை", "பொழுதுபோக்கு வரி", "சுங்க வரி"], "explanation": "சில ஒப்பந்தங்களுக்கும் செலுத்தப்படுகிறது."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 324,
+      "quote": "An excise tax is any duty on manufactured goods levied at the movement of manufacture, rather than at sale.",
+      "answer": "B",
+      "en": {"q": "Excise duty is levied on manufactured goods at the time of", "options": ["sale", "manufacture", "import", "export"], "explanation": "Excise is typically imposed in addition to an indirect tax such as sales tax."},
+      "ta": {"q": "உற்பத்திப் பொருள்கள் மீது ஆயத்தீர்வை எப்போது விதிக்கப்படுகிறது?", "options": ["விற்பனையின்போது", "உற்பத்தியின்போது", "இறக்குமதியின்போது", "ஏற்றுமதியின்போது"], "explanation": "விற்பனை வரி போன்ற மறைமுக வரியுடன் கூடுதலாக விதிக்கப்படுகிறது."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 324,
+      "quote": "Entertainment tax is a duty that is charged by the government on any source of entertainment provided. This tax can be charged on movie tickets, tickets to amusement parks, exhibitions and even sports events.",
+      "answer": "C",
+      "en": {"q": "A tax charged on movie tickets and tickets to amusement parks is called", "options": ["Stamp duty", "Wealth tax", "Entertainment tax", "Corporate tax"], "explanation": "It can also be charged on exhibitions and sports events."},
+      "ta": {"q": "திரைப்படச் சீட்டு, கேளிக்கைப் பூங்காச் சீட்டு மீது விதிக்கப்படும் வரி எது?", "options": ["முத்திரைத் தாள் வரி", "செல்வ வரி", "பொழுதுபோக்கு வரி", "நிறுவன வரி"], "explanation": "கண்காட்சி, விளையாட்டு நிகழ்வுகளுக்கும் விதிக்கப்படலாம்."}
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 324,
+      "quote": "The GST was passed in Parliament on 29 March 2017. The act came into effect on 1 July 2017. The motto is one nation, one market, one tax.",
+      "answer": "D",
+      "en": {"q": "The Goods and Services Tax (GST) Act came into effect on", "options": ["29 March 2017", "1 April 2017", "1 January 2018", "1 July 2017"], "explanation": "It was passed in Parliament on 29 March 2017."},
+      "ta": {"q": "சரக்கு மற்றும் சேவை வரிச் சட்டம் நடைமுறைக்கு வந்த நாள் எது?", "options": ["29 மார்ச் 2017", "1 ஏப்ரல் 2017", "1 ஜனவரி 2018", "1 ஜூலை 2017"], "explanation": "இது 29 மார்ச் 2017இல் நாடாளுமன்றத்தில் நிறைவேறியது."}
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 324,
+      "quote": "The motto is one nation, one market, one tax.",
+      "answer": "A",
+      "en": {"q": "The motto of GST is", "options": ["One nation, one market, one tax", "One nation, one ration card", "One nation, one election", "Tax for all, growth for all"], "explanation": "GST is an indirect tax that unified the tax structure."},
+      "ta": {"q": "சரக்கு மற்றும் சேவை வரியின் குறிக்கோள் வாசகம் எது?", "options": ["ஒரே நாடு, ஒரே சந்தை, ஒரே வரி", "ஒரே நாடு, ஒரே குடும்ப அட்டை", "ஒரே நாடு, ஒரே தேர்தல்", "அனைவருக்கும் வரி, அனைவருக்கும் வளர்ச்சி"], "explanation": "GST வரி அமைப்பை ஒருங்கிணைத்த மறைமுக வரி."}
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 324,
+      "quote": "The GST was passed in Parliament on 29 March 2017.",
+      "answer": "B",
+      "en": {"q": "The GST was passed in Parliament on", "options": ["1 July 2017", "29 March 2017", "8 November 2016", "1 April 2016"], "explanation": "It came into effect on 1 July 2017."},
+      "ta": {"q": "சரக்கு மற்றும் சேவை வரி நாடாளுமன்றத்தில் நிறைவேறிய நாள் எது?", "options": ["1 ஜூலை 2017", "29 மார்ச் 2017", "8 நவம்பர் 2016", "1 ஏப்ரல் 2016"], "explanation": "1 ஜூலை 2017இல் நடைமுறைக்கு வந்தது."}
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 324,
+      "quote": "France was the first country to implement GST in 1954.",
+      "answer": "C",
+      "en": {"q": "Which was the first country to implement GST, in 1954?", "options": ["Canada", "Germany", "France", "Australia"], "explanation": "India implemented GST from 1 July 2017."},
+      "ta": {"q": "1954இல் சரக்கு மற்றும் சேவை வரியை முதன்முதலில் செயல்படுத்திய நாடு எது?", "options": ["கனடா", "ஜெர்மனி", "பிரான்ஸ்", "ஆஸ்திரேலியா"], "explanation": "இந்தியா 1 ஜூலை 2017 முதல் GSTயைச் செயல்படுத்தியது."}
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 324,
+      "quote": "Integrated Goods and Service Tax (IGST): Inter state (integrated GST)",
+      "answer": "D",
+      "en": {"q": "Which component of GST applies to inter-state supply of goods and services?", "options": ["CGST", "SGST", "UTGST", "IGST"], "explanation": "CGST and SGST apply to intra-state (within the state) supplies."},
+      "ta": {"q": "மாநிலங்களுக்கு இடையிலான பொருள், சேவை வழங்கலுக்குப் பொருந்தும் GST கூறு எது?", "options": ["CGST", "SGST", "UTGST", "IGST"], "explanation": "CGST, SGST மாநிலத்திற்குள்ளான வழங்கலுக்குப் பொருந்தும்."}
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 324,
+      "quote": "State Goods and Service Tax (SGST): Intra state (within the state) VAT/sales tax, purchase tax, entertainment tax, luxury tax, lottery tax and state surcharge and cesses",
+      "answer": "A",
+      "en": {"q": "Which of the following earlier taxes was subsumed in the State GST (SGST)?", "options": ["VAT / sales tax", "Central excise duty", "Service tax", "Additional duty of customs"], "explanation": "Central excise, service tax and additional customs duty were subsumed in CGST."},
+      "ta": {"q": "மாநில GST (SGST)இல் இணைக்கப்பட்ட பழைய வரி எது?", "options": ["மதிப்புக் கூட்டு வரி / விற்பனை வரி", "மத்திய ஆயத்தீர்வை", "சேவை வரி", "கூடுதல் சுங்க வரி"], "explanation": "மத்திய ஆயத்தீர்வை, சேவை வரி, கூடுதல் சுங்க வரி CGSTயில் இணைந்தன."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 324,
+      "quote": "Progressive tax rate is one in which the rate of taxation increases (multiplier) as the tax base increases (multiplicand). In the case of a progressive tax, When income increases, the tax rate also increases.",
+      "answer": "B",
+      "en": {"q": "In a progressive tax, as income increases the tax rate", "options": ["decreases", "increases", "remains the same", "becomes zero"], "explanation": "Income tax is an example of a progressive tax."},
+      "ta": {"q": "வளர்வீத வரியில் வருமானம் உயரும்போது வரி விகிதம் என்னவாகும்?", "options": ["குறையும்", "உயரும்", "மாறாது", "பூஜ்யமாகும்"], "explanation": "வருமான வரி வளர்வீத வரிக்கு எடுத்துக்காட்டு."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 324,
+      "quote": "Tax levied on goods and service in a fixed portion is known as proportionate taxes. All tax payers contribute the same proportion of their incomes.",
+      "answer": "C",
+      "en": {"q": "A tax at which all taxpayers contribute the same proportion of their incomes is a", "options": ["progressive tax", "regressive tax", "proportionate tax", "indirect tax"], "explanation": "Example: 10% tax on ₹10,000, ₹20,000 and ₹30,000 alike."},
+      "ta": {"q": "அனைத்து வரி செலுத்துவோரும் தம் வருமானத்தில் ஒரே விகிதத்தைச் செலுத்தும் வரி எது?", "options": ["வளர்வீத வரி", "குறைவுவீத வரி", "ஒரேவீத வரி", "மறைமுக வரி"], "explanation": "எ.கா. ₹10,000, ₹20,000, ₹30,000 அனைத்திற்கும் 10% வரி."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 325,
+      "quote": "Regressive Taxes It implies that higher the rate of tax lower the income groups than in the case of higher income groups. It is a very opposite of progressive taxation.",
+      "answer": "D",
+      "en": {"q": "A tax that takes a higher rate from lower income groups than from higher income groups is a", "options": ["progressive tax", "proportionate tax", "direct tax", "regressive tax"], "explanation": "It is the opposite of progressive taxation."},
+      "ta": {"q": "உயர் வருமானப் பிரிவினரை விடக் குறைந்த வருமானப் பிரிவினரிடம் அதிக விகிதத்தில் வசூலிக்கும் வரி எது?", "options": ["வளர்வீத வரி", "ஒரேவீத வரி", "நேர்முக வரி", "குறைவுவீத வரி"], "explanation": "இது வளர்வீத வரிக்கு நேர் எதிரானது."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 325,
+      "quote": "Black money is funds earned on the black market on which income and other taxes have not been paid. The unaccounted money that is concealed from the tax administrator is called black money.",
+      "answer": "A",
+      "en": {"q": "Unaccounted money concealed from the tax administrator is called", "options": ["Black money", "Fiat money", "Plastic money", "Hot money"], "explanation": "Income and other taxes have not been paid on it."},
+      "ta": {"q": "வரி நிர்வாகியிடமிருந்து மறைக்கப்பட்ட கணக்கில் வராத பணம் எவ்வாறு அழைக்கப்படுகிறது?", "options": ["கருப்புப் பணம்", "ஆணைப் பணம்", "நெகிழிப் பணம்", "சூடான பணம்"], "explanation": "அதற்கு வருமான வரி உள்ளிட்ட வரிகள் செலுத்தப்படவில்லை."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 325,
+      "quote": "Causes of Black Money ... 1. Shortage of goods 2. Licensing proceeding 3. Contribution of the industrial sector 4. Smuggling 5. Tax structure",
+      "answer": "B",
+      "en": {"q": "Which of the following is listed in the text as a cause of black money?", "options": ["Universal PDS", "Smuggling", "Minimum Support Price", "Noon meal scheme"], "explanation": "Other causes are shortage of goods, licensing, the industrial sector and the tax structure."},
+      "ta": {"q": "பாடநூலில் கருப்புப் பணத்திற்கான காரணமாகக் குறிப்பிடப்படுவது எது?", "options": ["அனைவருக்குமான பொது விநியோக முறை", "கடத்தல்", "குறைந்தபட்ச ஆதரவு விலை", "மதிய உணவுத் திட்டம்"], "explanation": "பொருள் பற்றாக்குறை, உரிம நடைமுறை, தொழில் துறை, வரி அமைப்பு பிற காரணங்கள்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 325,
+      "quote": "Tax evasion is the illegal evasion of taxes by individuals, corporations and trusts. Tax evasion activities included Underreporting income Inflating deductions or expenses Hiding money Hiding interest in offshore accounts",
+      "answer": "C",
+      "en": {"q": "Which of the following is NOT a tax evasion activity listed in the text?", "options": ["Underreporting income", "Inflating deductions or expenses", "Filing returns on time", "Hiding interest in offshore accounts"], "explanation": "Tax evasion is the illegal evasion of taxes."},
+      "ta": {"q": "பாடநூலில் வரி ஏய்ப்புச் செயலாகக் குறிப்பிடப்படாதது எது?", "options": ["வருமானத்தைக் குறைத்துக் காட்டுதல்", "கழிவுகள், செலவுகளை மிகைப்படுத்துதல்", "உரிய நேரத்தில் வரி அறிக்கை தாக்கல்", "வெளிநாட்டுக் கணக்குகளில் வட்டியை மறைத்தல்"], "explanation": "வரி ஏய்ப்பு என்பது சட்டவிரோதமாக வரியைத் தவிர்த்தல்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 325,
+      "quote": "If a person wilfully commits the act of tax evasion, he may face felony charges. Tax evasion penalties include imprisonment of up to five years and high amount as fines.",
+      "answer": "D",
+      "en": {"q": "According to the text, tax evasion penalties include imprisonment of up to", "options": ["one year", "two years", "three years", "five years"], "explanation": "Heavy fines and the costs of prosecution may also be imposed."},
+      "ta": {"q": "பாடநூலின்படி வரி ஏய்ப்புக்கான தண்டனையில் எத்தனை ஆண்டுகள் வரை சிறை உண்டு?", "options": ["ஓராண்டு", "இரண்டு ஆண்டுகள்", "மூன்று ஆண்டுகள்", "ஐந்து ஆண்டுகள்"], "explanation": "பெரும் அபராதமும் வழக்குச் செலவும் விதிக்கப்படலாம்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 325,
+      "quote": "Social welfare: Taxation generates social welfare. Social welfare is generated due to higher taxes on certain undesirable products like alcoholic products.",
+      "answer": "A",
+      "en": {"q": "Higher taxes on undesirable products like alcohol serve which role of taxation in development?", "options": ["Social welfare", "Regional development", "Foreign exchange", "Resource mobilisation"], "explanation": "Taxation thus discourages harmful consumption."},
+      "ta": {"q": "மதுபானம் போன்ற விரும்பத்தகாத பொருள்கள் மீதான உயர் வரி வளர்ச்சியில் வரியின் எந்தப் பங்கைச் செய்கிறது?", "options": ["சமூக நலன்", "பிராந்திய வளர்ச்சி", "அந்நியச் செலாவணி", "வள திரட்டல்"], "explanation": "வரிவிதிப்பு தீங்கான நுகர்வைக் குறைக்கிறது."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 325,
+      "quote": "Regional development: Taxation plays an important role in regional development, Tax incentives such as tax holidays for setting up industries in backward regions",
+      "answer": "B",
+      "en": {"q": "Tax holidays for setting up industries in backward regions are an example of taxation promoting", "options": ["control of inflation", "regional development", "social welfare", "foreign exchange"], "explanation": "They induce firms to set up industries in such regions."},
+      "ta": {"q": "பின்தங்கிய பகுதிகளில் தொழில் தொடங்க வழங்கப்படும் வரி விடுமுறை வரிவிதிப்பின் எந்தப் பங்குக்கு எடுத்துக்காட்டு?", "options": ["பணவீக்கக் கட்டுப்பாடு", "பிராந்திய வளர்ச்சி", "சமூக நலன்", "அந்நியச் செலாவணி"], "explanation": "இது அப்பகுதிகளில் தொழில் தொடங்க நிறுவனங்களைத் தூண்டுகிறது."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 325,
+      "quote": "Foreign exchange: Taxation encourages exports and restricts imports, Generally developing countries and even the developed countries do not impose taxes on export items.",
+      "answer": "C",
+      "en": {"q": "How does taxation help earn foreign exchange, according to the text?", "options": ["By taxing exports heavily", "By abolishing customs duty on imports", "By encouraging exports and restricting imports", "By taxing foreign tourists"], "explanation": "Countries generally do not tax export items."},
+      "ta": {"q": "பாடநூலின்படி வரிவிதிப்பு அந்நியச் செலாவணி ஈட்ட எவ்வாறு உதவுகிறது?", "options": ["ஏற்றுமதிக்கு அதிக வரி", "இறக்குமதி சுங்க வரி நீக்கம்", "ஏற்றுமதியை ஊக்குவித்து இறக்குமதியைக் கட்டுப்படுத்துதல்", "வெளிநாட்டுப் பயணிகளுக்கு வரி"], "explanation": "பொதுவாக நாடுகள் ஏற்றுமதிப் பொருள்களுக்கு வரி விதிப்பதில்லை."}
+    },
+    {
+      "topic": "economics-and-development", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 326,
+      "quote": "Tax is a compulsory payment / Fee is a voluntary payment. ... Fee payer can get direct benefit for paying fee. Examples: stamp fee, driving license fee, government registration fee",
+      "answer": "D",
+      "en": {"q": "Which statement correctly distinguishes a fee from a tax?", "options": ["A fee is compulsory; a tax is voluntary", "A taxpayer gets a direct benefit; a fee payer does not", "Both are compulsory with no benefit", "A fee is voluntary and the payer gets a direct benefit"], "explanation": "Examples of fees: driving licence fee, registration fee."},
+      "ta": {"q": "கட்டணத்தையும் (fee) வரியையும் சரியாக வேறுபடுத்தும் கூற்று எது?", "options": ["கட்டணம் கட்டாயம்; வரி விருப்பம்", "வரி செலுத்துபவர் நேரடிப் பயன் பெறுவார்; கட்டணம் செலுத்துபவர் பெறமாட்டார்", "இரண்டும் கட்டாயம், பயனில்லை", "கட்டணம் விருப்பமானது; செலுத்துபவர் நேரடிப் பயன் பெறுவார்"], "explanation": "எ.கா. ஓட்டுநர் உரிமக் கட்டணம், பதிவுக் கட்டணம்."}
+    },
+    {
+      "topic": "economics-and-development", "format": "match_the_following", "difficulty": "medium", "bloom": "remember", "page": 327,
+      "quote": "Income Tax - Direct tax; Excise duty - Indirect tax; GST - 1 July 2017; Black money - Smuggling",
+      "answer": "A",
+      "en": {"q": "Match: (a) Income tax (b) Excise duty (c) GST (d) Black money — (1) Direct tax (2) Indirect tax (3) 1 July 2017 (4) Smuggling", "options": ["a-1, b-2, c-3, d-4", "a-2, b-1, c-4, d-3", "a-3, b-4, c-1, d-2", "a-4, b-3, c-2, d-1"], "explanation": "Income tax is direct, excise is indirect, GST began on 1 July 2017 and smuggling is a cause of black money."},
+      "ta": {"q": "பொருத்துக: (a) வருமான வரி (b) ஆயத்தீர்வை (c) GST (d) கருப்புப் பணம் — (1) நேர்முக வரி (2) மறைமுக வரி (3) 1 ஜூலை 2017 (4) கடத்தல்", "options": ["a-1, b-2, c-3, d-4", "a-2, b-1, c-4, d-3", "a-3, b-4, c-1, d-2", "a-4, b-3, c-2, d-1"], "explanation": "வருமான வரி நேர்முகம், ஆயத்தீர்வை மறைமுகம், GST 1 ஜூலை 2017, கடத்தல் கருப்புப் பணத்தின் காரணம்."}
+    }
+  ]
+}
