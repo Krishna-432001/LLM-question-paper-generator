@@ -1,0 +1,308 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 9 Science Term-Full (English)",
+  "breadcrumb": "Std 9 Science (English) — Unit 1: Measurement",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 1,
+      "quote": "Quantities which cannot be expressed in terms of any other physical quantities are called fundamental quantities. Example: Length, mass, time, temperature etc. Quantities which can be expressed in terms of fundamental quantities are called derived quantities. Example: Area, volume, density etc.",
+      "answer": "A",
+      "en": {"q": "Which of the following is a derived quantity?", "options": ["Density", "Length", "Mass", "Time"], "explanation": "Density = mass / volume, so it is expressed in terms of fundamental quantities."},
+      "ta": {"q": "பின்வருவனவற்றுள் வழி அளவு எது?", "options": ["அடர்த்தி", "நீளம்", "நிறை", "காலம்"], "explanation": "அடர்த்தி = நிறை / பருமன்; இது அடிப்படை அளவுகளால் குறிக்கப்படுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 2,
+      "quote": "Hence, SI (International System of Units) system of units was developed and recommended by General Conference on Weights and Measures at Paris in 1960 for international usage.",
+      "answer": "B",
+      "en": {"q": "The SI system of units was recommended by the General Conference on Weights and Measures at Paris in", "options": ["1950", "1960", "1971", "1945"], "explanation": "After the Second World War a worldwide system of measurement was needed."},
+      "ta": {"q": "SI அலகு முறை பாரிஸில் நடந்த எடைகள், அளவுகள் பொது மாநாட்டால் எந்த ஆண்டு பரிந்துரைக்கப்பட்டது?", "options": ["1950", "1960", "1971", "1945"], "explanation": "இரண்டாம் உலகப் போருக்குப் பின் உலகளாவிய அளவீட்டு முறை தேவைப்பட்டது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 2,
+      "quote": "There are seven fundamental units in the SI system of units. They are also known as base units",
+      "answer": "C",
+      "en": {"q": "How many fundamental (base) units are there in the SI system?", "options": ["Three", "Five", "Seven", "Nine"], "explanation": "Metre, kilogram, second, kelvin, ampere, candela and mole."},
+      "ta": {"q": "SI முறையில் எத்தனை அடிப்படை அலகுகள் உள்ளன?", "options": ["மூன்று", "ஐந்து", "ஏழு", "ஒன்பது"], "explanation": "மீட்டர், கிலோகிராம், வினாடி, கெல்வின், ஆம்பியர், கேண்டிலா, மோல்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 2,
+      "quote": "Luminous intensity ... candela cd ... Amount of substance ... mole mol",
+      "answer": "D",
+      "en": {"q": "The SI unit of luminous intensity is", "options": ["mole", "kelvin", "ampere", "candela"], "explanation": "The mole is the unit of amount of substance."},
+      "ta": {"q": "ஒளிச்செறிவின் SI அலகு எது?", "options": ["மோல்", "கெல்வின்", "ஆம்பியர்", "கேண்டிலா"], "explanation": "மோல் பொருளின் அளவின் அலகு."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 11,
+      "quote": "1. The SI unit of electric current is kilogram.",
+      "answer": "A",
+      "en": {"q": "The SI unit of electric current is", "options": ["ampere", "kilogram", "volt", "coulomb"], "explanation": "The kilogram is the unit of mass, not current."},
+      "ta": {"q": "மின்னோட்டத்தின் SI அலகு எது?", "options": ["ஆம்பியர்", "கிலோகிராம்", "வோல்ட்", "கூலும்"], "explanation": "கிலோகிராம் நிறையின் அலகு; மின்னோட்டத்தின் அலகு அல்ல."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 2,
+      "quote": "8 Pressure force / area Nm-2 or Pa",
+      "answer": "B",
+      "en": {"q": "Force per unit area is pressure. Its SI unit is", "options": ["joule", "pascal (N m⁻²)", "newton", "watt"], "explanation": "Energy is measured in joules and force in newtons."},
+      "ta": {"q": "ஓரலகுப் பரப்பில் செயல்படும் விசை அழுத்தம். அதன் SI அலகு எது?", "options": ["ஜூல்", "பாஸ்கல் (N m⁻²)", "நியூட்டன்", "வாட்"], "explanation": "ஆற்றல் ஜூலிலும் விசை நியூட்டனிலும் அளக்கப்படுகின்றன."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 2,
+      "quote": "5 Momentum mass × velocity kgms-1",
+      "answer": "C",
+      "en": {"q": "Which derived quantity is the product of mass and velocity, with unit kg m s⁻¹?", "options": ["Force", "Acceleration", "Momentum", "Pressure"], "explanation": "Force is mass × acceleration (kg m s⁻² or N)."},
+      "ta": {"q": "நிறை, திசைவேகத்தின் பெருக்கற்பலனான, kg m s⁻¹ அலகுடைய வழி அளவு எது?", "options": ["விசை", "முடுக்கம்", "உந்தம்", "அழுத்தம்"], "explanation": "விசை = நிறை × முடுக்கம் (kg m s⁻² அல்லது N)."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 2,
+      "quote": "10 Surface tension force / length Nm-1",
+      "answer": "D",
+      "en": {"q": "Surface tension is force per unit length. Its SI unit is", "options": ["N m⁻²", "N m", "J", "N m⁻¹"], "explanation": "N m⁻² is the unit of pressure and N m (J) of energy."},
+      "ta": {"q": "பரப்பு இழுவிசை என்பது ஓரலகு நீளத்திலுள்ள விசை. அதன் SI அலகு எது?", "options": ["N m⁻²", "N m", "J", "N m⁻¹"], "explanation": "N m⁻² அழுத்தத்தின் அலகு; N m (J) ஆற்றலின் அலகு."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 3,
+      "quote": "Astronomical unit (AU): It is the mean distance of the centre of the Sun from the centre of the Earth. 1 AU = 1.496 × 10^11 m",
+      "answer": "A",
+      "en": {"q": "The mean distance of the centre of the Sun from the centre of the Earth is called", "options": ["one astronomical unit", "one light year", "one parsec", "one fermi"], "explanation": "1 AU = 1.496 × 10¹¹ m."},
+      "ta": {"q": "சூரியனின் மையத்திலிருந்து புவியின் மையம் வரையிலான சராசரித் தொலைவு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["ஒரு வானியல் அலகு", "ஓர் ஒளி ஆண்டு", "ஒரு பார்செக்", "ஒரு ஃபெர்மி"], "explanation": "1 AU = 1.496 × 10¹¹ மீ."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 3,
+      "quote": "Light year: It is the distance travelled by light in one year in vacuum and it is equal to 9.46 × 10^15 m.",
+      "answer": "B",
+      "en": {"q": "One light year is equal to", "options": ["1.496 × 10¹¹ m", "9.46 × 10¹⁵ m", "3.08 × 10¹⁶ m", "3 × 10⁸ m"], "explanation": "A light year is a unit of distance, not time."},
+      "ta": {"q": "ஓர் ஒளி ஆண்டு எதற்குச் சமம்?", "options": ["1.496 × 10¹¹ மீ", "9.46 × 10¹⁵ மீ", "3.08 × 10¹⁶ மீ", "3 × 10⁸ மீ"], "explanation": "ஒளி ஆண்டு தொலைவின் அலகு; காலத்தின் அலகு அல்ல."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 3,
+      "quote": "Parsec: Parsec is the unit of distance used to measure astronomical objects outside the solar system. 1 Parsec = 3.26 light year.",
+      "answer": "C",
+      "en": {"q": "One parsec is equal to about", "options": ["1 light year", "1.496 light years", "3.26 light years", "9.46 light years"], "explanation": "It measures astronomical objects outside the solar system; 1 pc = 3.08 × 10¹⁶ m."},
+      "ta": {"q": "ஒரு பார்செக் ஏறக்குறைய எதற்குச் சமம்?", "options": ["1 ஒளி ஆண்டு", "1.496 ஒளி ஆண்டு", "3.26 ஒளி ஆண்டு", "9.46 ஒளி ஆண்டு"], "explanation": "இது சூரியக் குடும்பத்துக்கு வெளியே உள்ளவற்றை அளக்கிறது; 1 pc = 3.08 × 10¹⁶ மீ."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 3,
+      "quote": "Parsec (pc) 3.08 × 10^16 m ... Light year (ly) 9.46 × 10^15 m ... Astronomical unit (AU) 1.496 × 10^11 m ... Kilometre (km) 10^3 m",
+      "answer": "D",
+      "en": {"q": "Arrange in increasing order of size: parsec, light year, astronomical unit, kilometre.", "options": ["Parsec < light year < AU < km", "AU < km < light year < parsec", "Light year < parsec < AU < km", "km < AU < light year < parsec"], "explanation": "km = 10³ m, AU ≈ 1.5 × 10¹¹ m, ly ≈ 9.46 × 10¹⁵ m, pc ≈ 3.08 × 10¹⁶ m."},
+      "ta": {"q": "ஏறுவரிசையில் அமைக்க: பார்செக், ஒளி ஆண்டு, வானியல் அலகு, கிலோமீட்டர்.", "options": ["பார்செக் < ஒளி ஆண்டு < AU < கி.மீ", "AU < கி.மீ < ஒளி ஆண்டு < பார்செக்", "ஒளி ஆண்டு < பார்செக் < AU < கி.மீ", "கி.மீ < AU < ஒளி ஆண்டு < பார்செக்"], "explanation": "கி.மீ = 10³ மீ, AU ≈ 1.5 × 10¹¹ மீ, ஒளி ஆண்டு ≈ 9.46 × 10¹⁵ மீ, பார்செக் ≈ 3.08 × 10¹⁶ மீ."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 3,
+      "quote": "To measure small distances such as distance between two atoms in a molecule, size of the nucleus and wavelength etc. we use submultiples of ten. These quantities are measured in Angstrom unit ... Angstrom (A°)* 10^-10 m",
+      "answer": "A",
+      "en": {"q": "One angstrom (Å) is equal to", "options": ["10⁻¹⁰ m", "10⁻¹⁵ m", "10⁻⁹ m", "10⁻⁶ m"], "explanation": "It is used for distances between atoms and wavelengths; 1 fermi = 10⁻¹⁵ m."},
+      "ta": {"q": "ஓர் ஆங்ஸ்ட்ராம் (Å) எதற்குச் சமம்?", "options": ["10⁻¹⁰ மீ", "10⁻¹⁵ மீ", "10⁻⁹ மீ", "10⁻⁶ மீ"], "explanation": "இது அணுக்களுக்கு இடையிலான தொலைவு, அலைநீளம் ஆகியவற்றுக்குப் பயன்படுகிறது; 1 ஃபெர்மி = 10⁻¹⁵ மீ."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 3,
+      "quote": "Fermi (f) * 10^-15 m",
+      "answer": "B",
+      "en": {"q": "Which small unit of length is equal to 10⁻¹⁵ m?", "options": ["Angstrom", "Fermi", "Nanometre", "Micron"], "explanation": "The diameter of a nucleus is of the order of 10⁻¹⁵ m."},
+      "ta": {"q": "10⁻¹⁵ மீக்குச் சமமான சிறு நீள அலகு எது?", "options": ["ஆங்ஸ்ட்ராம்", "ஃபெர்மி", "நானோமீட்டர்", "மைக்ரான்"], "explanation": "உட்கருவின் விட்டம் ஏறக்குறைய 10⁻¹⁵ மீ."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 3,
+      "quote": "1 quintal = 100 × 1 kg = 100 kg 1 metric tonne = 1000 × 1 kg = 10 quintal",
+      "answer": "C",
+      "en": {"q": "One metric tonne is equal to", "options": ["100 quintals", "1/10 quintal", "10 quintals", "1/100 quintal"], "explanation": "1 quintal = 100 kg and 1 metric tonne = 1000 kg."},
+      "ta": {"q": "ஒரு மெட்ரிக் டன் எதற்குச் சமம்?", "options": ["100 குவிண்டால்", "1/10 குவிண்டால்", "10 குவிண்டால்", "1/100 குவிண்டால்"], "explanation": "1 குவிண்டால் = 100 கி.கி; 1 மெட்ரிக் டன் = 1000 கி.கி."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 4,
+      "quote": "Mass of a proton, neutron and electron can be determined using atomic mass unit (amu). 1 amu = (1/12)th of the mass of C12 atom.",
+      "answer": "D",
+      "en": {"q": "One atomic mass unit (amu) is equal to", "options": ["the mass of one hydrogen atom", "1/16 of the mass of an oxygen atom", "the mass of one electron", "1/12 of the mass of a carbon-12 atom"], "explanation": "It is used for the masses of protons, neutrons and electrons."},
+      "ta": {"q": "ஓர் அணு நிறை அலகு (amu) எதற்குச் சமம்?", "options": ["ஒரு ஹைட்ரஜன் அணுவின் நிறை", "ஆக்சிஜன் அணு நிறையின் 1/16", "ஓர் எலக்ட்ரானின் நிறை", "கார்பன்-12 அணு நிறையின் 1/12"], "explanation": "இது புரோட்டான், நியூட்ரான், எலக்ட்ரான் நிறைகளுக்குப் பயன்படுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 4,
+      "quote": "More to Know Mass of 1 ml of water = 1g Mass of 1l of water = 1kg",
+      "answer": "A",
+      "en": {"q": "The mass of one litre of water is about", "options": ["1 kg", "1 g", "100 g", "10 kg"], "explanation": "1 ml of water has a mass of 1 g."},
+      "ta": {"q": "ஒரு லிட்டர் நீரின் நிறை ஏறக்குறைய எவ்வளவு?", "options": ["1 கி.கி", "1 கி", "100 கி", "10 கி.கி"], "explanation": "1 மி.லி நீரின் நிறை 1 கி."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 4,
+      "quote": "SI unit of temperature is kelvin (K). One kelvin is the fraction (1/273.16) of the thermodynamic temperature of the triple point of water ... Zero kelvin (0 K) is commonly known as absolute zero.",
+      "answer": "B",
+      "en": {"q": "Zero kelvin (0 K) is commonly known as", "options": ["triple point", "absolute zero", "freezing point", "dew point"], "explanation": "The kelvin is the SI unit of temperature."},
+      "ta": {"q": "பூஜ்ஜியம் கெல்வின் (0 K) பொதுவாக எவ்வாறு அழைக்கப்படுகிறது?", "options": ["முப்புள்ளி", "தனிச்சுழி வெப்பநிலை", "உறைநிலை", "பனிநிலை"], "explanation": "கெல்வின் வெப்பநிலையின் SI அலகு."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 4,
+      "quote": "(The temperature at which saturated water vapour, pure water and melting ice are in equilibrium)",
+      "answer": "C",
+      "en": {"q": "The temperature at which saturated water vapour, pure water and melting ice are in equilibrium is called the", "options": ["boiling point of water", "absolute zero", "triple point of water", "critical point"], "explanation": "One kelvin is 1/273.16 of the thermodynamic temperature of this point."},
+      "ta": {"q": "நிறைவுற்ற நீராவி, தூய நீர், உருகும் பனிக்கட்டி ஆகியவை சமநிலையிலிருக்கும் வெப்பநிலை எவ்வாறு அழைக்கப்படுகிறது?", "options": ["நீரின் கொதிநிலை", "தனிச்சுழி", "நீரின் முப்புள்ளி", "மாறுநிலைப் புள்ளி"], "explanation": "ஒரு கெல்வின் என்பது இப்புள்ளியின் வெப்ப இயக்கவியல் வெப்பநிலையின் 1/273.16 பங்கு."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 4,
+      "quote": "10^15 peta P 10^12 tera T 10^9 giga G 10^6 mega M",
+      "answer": "D",
+      "en": {"q": "The unit prefix 'giga' stands for", "options": ["10³", "10⁶", "10¹²", "10⁹"], "explanation": "Mega = 10⁶, giga = 10⁹, tera = 10¹², peta = 10¹⁵."},
+      "ta": {"q": "'ஜிகா' என்ற அலகு முன்னொட்டு எதைக் குறிக்கிறது?", "options": ["10³", "10⁶", "10¹²", "10⁹"], "explanation": "மெகா = 10⁶, ஜிகா = 10⁹, டெரா = 10¹², பெட்டா = 10¹⁵."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 4,
+      "quote": "10^-9 nano n 10^-12 pico p 10^-15 femto f",
+      "answer": "A",
+      "en": {"q": "Which unit prefix stands for 10⁻¹²?", "options": ["pico", "nano", "femto", "micro"], "explanation": "Nano = 10⁻⁹, pico = 10⁻¹², femto = 10⁻¹⁵."},
+      "ta": {"q": "10⁻¹² ஐக் குறிக்கும் அலகு முன்னொட்டு எது?", "options": ["பைக்கோ", "நானோ", "ஃபெம்டோ", "மைக்ரோ"], "explanation": "நானோ = 10⁻⁹, பைக்கோ = 10⁻¹², ஃபெம்டோ = 10⁻¹⁵."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 5,
+      "quote": "5. The symbols of the units are not expressed in plural form. E.g. 10 kg not as 10 kgs.",
+      "answer": "B",
+      "en": {"q": "Which of the following is written correctly as per SI conventions?", "options": ["10 kgs", "10 kg", "10 Kg.", "10 KG"], "explanation": "Unit symbols are not written in plural form or with full stops."},
+      "ta": {"q": "SI மரபுகளின்படி சரியாக எழுதப்பட்டது எது?", "options": ["10 kgs", "10 kg", "10 Kg.", "10 KG"], "explanation": "அலகுக் குறியீடுகள் பன்மையிலோ முற்றுப்புள்ளியுடனோ எழுதப்படுவதில்லை."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 4,
+      "quote": "1. The units named after scientists are not written with a capital initial letter. E.g. newton, henry, ampere and watt. 2. The symbols of the units named after scientists should be written by the initial capital letter. E.g. N for newton",
+      "answer": "C",
+      "en": {"q": "As per SI conventions, the unit named after Isaac Newton is written as", "options": ["Newton, with symbol n", "NEWTON, with symbol Nw", "newton, with symbol N", "Newton, with symbol N."], "explanation": "Unit names after scientists start with a small letter, but their symbols take a capital letter."},
+      "ta": {"q": "SI மரபுகளின்படி ஐசக் நியூட்டனின் பெயரிலான அலகு எவ்வாறு எழுதப்படுகிறது?", "options": ["Newton, குறியீடு n", "NEWTON, குறியீடு Nw", "newton, குறியீடு N", "Newton, குறியீடு N."], "explanation": "அறிவியலாளர் பெயரிலான அலகுப் பெயர்கள் சிறிய எழுத்தில் தொடங்கும்; அவற்றின் குறியீடுகள் பெரிய எழுத்தில்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 5,
+      "quote": "6. When temperature is expressed in kelvin, the degree sign is omitted. E.g. 283 K not as 283° K",
+      "answer": "D",
+      "en": {"q": "Which of the following temperatures is written correctly as per SI conventions?", "options": ["283° K", "283 °K", "100 C", "283 K"], "explanation": "The degree sign is omitted with kelvin but included with Celsius (100 °C)."},
+      "ta": {"q": "SI மரபுகளின்படி சரியாக எழுதப்பட்ட வெப்பநிலை எது?", "options": ["283° K", "283 °K", "100 C", "283 K"], "explanation": "கெல்வினுடன் டிகிரி குறி இல்லை; செல்சியஸுடன் உண்டு (100 °C)."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 5,
+      "quote": "The smallest length which can be measured by metre scale is called least count. Usually the least count of a scale is 1 mm. ... By using Vernier caliper we can have an accuracy of 0.1 mm and with screw gauge we can have an accuracy of 0.01 mm.",
+      "answer": "A",
+      "en": {"q": "The accuracy of a screw gauge is", "options": ["0.01 mm", "0.1 mm", "1 mm", "1 cm"], "explanation": "A metre scale reads to 1 mm and a Vernier caliper to 0.1 mm."},
+      "ta": {"q": "திருகு அளவியின் துல்லியம் எவ்வளவு?", "options": ["0.01 மி.மீ", "0.1 மி.மீ", "1 மி.மீ", "1 செ.மீ"], "explanation": "மீட்டர் அளவுகோல் 1 மி.மீ வரையும் வெர்னியர் 0.1 மி.மீ வரையும் அளக்கும்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 5,
+      "quote": "The lower jaws are used to measure the external dimensions and the upper jaws are used to measure the internal dimensions of the objects. The thin bar attached to the right side of the Vernier scale is used to measure the depth of hollow objects.",
+      "answer": "B",
+      "en": {"q": "In a Vernier caliper, the depth of a hollow object is measured using the", "options": ["lower jaws", "thin bar (depth probe)", "upper jaws", "main scale only"], "explanation": "Lower jaws measure external and upper jaws internal dimensions."},
+      "ta": {"q": "வெர்னியர் அளவியில் உள்ளீடற்ற பொருளின் ஆழம் எதனால் அளக்கப்படுகிறது?", "options": ["கீழ்த் தாடைகள்", "மெல்லிய கம்பி (ஆழ அளவி)", "மேல் தாடைகள்", "முதன்மை அளவுகோல் மட்டும்"], "explanation": "கீழ்த் தாடைகள் வெளிப்புற அளவுகளையும் மேல் தாடைகள் உட்புற அளவுகளையும் அளக்கின்றன."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 6,
+      "quote": "If a vernier is shifted to the right of main scale, it is called positive error. ... So, positive zero error = +5 × LC = +5 × 0.01 = 0.05 cm and the zero correction is negative.",
+      "answer": "C",
+      "en": {"q": "In a Vernier caliper, if the zero of the vernier scale lies to the right of the main-scale zero, the zero error and zero correction are", "options": ["negative error, negative correction", "negative error, positive correction", "positive error, negative correction", "no error"], "explanation": "With a positive error the reading is more than actual, so the correction is negative."},
+      "ta": {"q": "வெர்னியர் அளவியில் வெர்னியர் சுழி முதன்மை அளவுகோல் சுழிக்கு வலப்புறம் இருந்தால் சுழிப்பிழையும் சுழித்திருத்தமும் எவை?", "options": ["எதிர்ப் பிழை, எதிர்த் திருத்தம்", "எதிர்ப் பிழை, நேர்த் திருத்தம்", "நேர்ப் பிழை, எதிர்த் திருத்தம்", "பிழை இல்லை"], "explanation": "நேர்ப் பிழையில் அளவீடு உண்மையை விட அதிகம்; எனவே திருத்தம் எதிர்க்குறி."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 6,
+      "quote": "Calculate the correct reading, if the main scale reading is 8 cm, vernier coincidence is 4 and positive zero error is 0.05 cm. Solution: Correct reading = 8 cm + (4 × 0.01cm) − 0.05 cm = 8 + 0.04 − 0.05 = 7.99 cm",
+      "answer": "D",
+      "en": {"q": "A Vernier caliper (least count 0.01 cm) shows main scale reading 8 cm and vernier coincidence 4, with a positive zero error of 0.05 cm. The correct reading is", "options": ["8.09 cm", "8.04 cm", "8.01 cm", "7.99 cm"], "explanation": "8 + (4 × 0.01) − 0.05 = 7.99 cm."},
+      "ta": {"q": "வெர்னியர் அளவியில் (மீச்சிற்றளவு 0.01 செ.மீ) முதன்மை அளவுகோல் அளவு 8 செ.மீ, வெர்னியர் ஒன்றிப்பு 4, நேர்ச் சுழிப்பிழை 0.05 செ.மீ. சரியான அளவு எது?", "options": ["8.09 செ.மீ", "8.04 செ.மீ", "8.01 செ.மீ", "7.99 செ.மீ"], "explanation": "8 + (4 × 0.01) − 0.05 = 7.99 செ.மீ."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 7,
+      "quote": "The screw gauge works on the principal that when a screw rotates in a nut, the distance moved by the tip of the screw is directly proportional to the number of rotations.",
+      "answer": "A",
+      "en": {"q": "A screw gauge works on the principle that the distance moved by the tip of a screw rotating in a nut is", "options": ["directly proportional to the number of rotations", "inversely proportional to the number of rotations", "independent of the rotations", "proportional to the square of the rotations"], "explanation": "The pitch is the distance moved for one complete rotation, typically 1 mm."},
+      "ta": {"q": "திருகு அளவி எந்தத் தத்துவத்தில் இயங்குகிறது? நட்டில் சுழலும் திருகின் முனை நகரும் தொலைவு...", "options": ["சுழற்சிகளின் எண்ணிக்கைக்கு நேர்விகிதத்தில் இருக்கும்", "சுழற்சிகளின் எண்ணிக்கைக்கு எதிர்விகிதத்தில் இருக்கும்", "சுழற்சிகளைச் சாராதது", "சுழற்சிகளின் வர்க்கத்துக்கு விகிதத்தில் இருக்கும்"], "explanation": "ஒரு முழுச் சுழற்சிக்கு நகரும் தொலைவே புரியிடைத்தூரம்; வழக்கமாக 1 மி.மீ."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 7,
+      "quote": "The head of the sleeve (Thimble) is divided into 100 divisions and it is called the Head scale. ... LC = 1/100 = 0.01 mm",
+      "answer": "B",
+      "en": {"q": "In a typical screw gauge with pitch 1 mm and 100 head-scale divisions, the least count is", "options": ["0.1 mm", "0.01 mm", "1 mm", "0.001 mm"], "explanation": "LC = pitch ÷ number of head-scale divisions = 1/100 mm."},
+      "ta": {"q": "1 மி.மீ புரியிடைத்தூரமும் 100 தலைக்கோல் பிரிவுகளும் உள்ள திருகு அளவியின் மீச்சிற்றளவு எவ்வளவு?", "options": ["0.1 மி.மீ", "0.01 மி.மீ", "1 மி.மீ", "0.001 மி.மீ"], "explanation": "மீச்சிற்றளவு = புரியிடைத்தூரம் ÷ தலைக்கோல் பிரிவுகள் = 1/100 மி.மீ."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 7,
+      "quote": "The screw head is provided with a ratchat arrangement (safety device) to prevent the user from exerting undue pressure.",
+      "answer": "C",
+      "en": {"q": "In a screw gauge, the ratchet arrangement on the screw head is meant to", "options": ["increase the least count", "measure depth", "prevent the user from exerting undue pressure", "remove zero error"], "explanation": "It is a safety device."},
+      "ta": {"q": "திருகு அளவியின் தலையிலுள்ள இராட்சட் அமைப்பின் பயன் என்ன?", "options": ["மீச்சிற்றளவை அதிகரித்தல்", "ஆழத்தை அளத்தல்", "பயனர் அதிக அழுத்தம் தருவதைத் தடுத்தல்", "சுழிப்பிழையை நீக்குதல்"], "explanation": "இது ஒரு பாதுகாப்புச் சாதனம்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 7,
+      "quote": "With the screw gauge it is possible to measure the diameter of a thin wire and thickness of thin metallic plates.",
+      "answer": "D",
+      "en": {"q": "Which instrument is best suited to measure the radius of a thin wire?", "options": ["Metre scale", "Measuring tape", "Spring balance", "Screw gauge"], "explanation": "A screw gauge measures up to 0.01 mm."},
+      "ta": {"q": "மெல்லிய கம்பியின் ஆரத்தை அளக்க மிகப் பொருத்தமான கருவி எது?", "options": ["மீட்டர் அளவுகோல்", "அளவு நாடா", "சுருள்வில் தராசு", "திருகு அளவி"], "explanation": "திருகு அளவி 0.01 மி.மீ வரை அளக்கும்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 8,
+      "quote": "A beam balance compares the sample mass with a standard reference mass ... This balance can measure mass accurately up to 5 g",
+      "answer": "A",
+      "en": {"q": "According to the text, a common beam balance can measure mass accurately up to", "options": ["5 g", "1 mg", "10 mg", "1 kg"], "explanation": "A physical balance is far more sensitive and is used in labs."},
+      "ta": {"q": "பாடநூலின்படி பொதுத் தராசு எவ்வளவு துல்லியமாக நிறையை அளக்கும்?", "options": ["5 கி", "1 மி.கி", "10 மி.கி", "1 கி.கி"], "explanation": "இயற்பியல் தராசு அதைவிட நுட்பமானது; ஆய்வகங்களில் பயன்படுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 9,
+      "quote": "Spring balance This balance helps us to find the weight of an object. ... It works by `Hooke's law' which states that the addition of weight produces a proportional increase in the length of the spring",
+      "answer": "B",
+      "en": {"q": "A spring balance works on", "options": ["Archimedes' principle", "Hooke's law", "Pascal's law", "Newton's law of gravitation"], "explanation": "Added weight produces a proportional increase in the length of the spring."},
+      "ta": {"q": "சுருள்வில் தராசு எந்த விதியின் அடிப்படையில் இயங்குகிறது?", "options": ["ஆர்க்கிமிடிஸ் தத்துவம்", "ஹூக் விதி", "பாஸ்கல் விதி", "நியூட்டனின் ஈர்ப்பு விதி"], "explanation": "சேர்க்கப்படும் எடை சுருள்வில்லின் நீளத்தை அதற்கு விகிதமாக அதிகரிக்கிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 11,
+      "quote": "4. Which among the following is not a device to measure mass? a. Spring balance b. Beam balance c. Physical balance d. Digital balance",
+      "answer": "C",
+      "en": {"q": "Which among the following is NOT a device to measure mass?", "options": ["Beam balance", "Physical balance", "Spring balance", "Digital balance"], "explanation": "A spring balance measures weight."},
+      "ta": {"q": "பின்வருவனவற்றுள் நிறையை அளக்கும் கருவி அல்லாதது எது?", "options": ["பொதுத் தராசு", "இயற்பியல் தராசு", "சுருள்வில் தராசு", "மின்னணுத் தராசு"], "explanation": "சுருள்வில் தராசு எடையை அளக்கிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 10,
+      "quote": "Mass ... It is a fundamental quantity ... It has magnitude alone − scalar quantity ... Weight ... It is a derived quantity. It has magnitude and direction − vector quantity.",
+      "answer": "D",
+      "en": {"q": "Which statement about mass and weight is correct?", "options": ["Mass is a vector and weight is a scalar", "Both are measured in newton", "Mass varies from place to place", "Mass is a scalar; weight is a vector measured in newton"], "explanation": "Mass stays the same everywhere and is measured in kilogram."},
+      "ta": {"q": "நிறை, எடை பற்றிய சரியான கூற்று எது?", "options": ["நிறை வெக்டர்; எடை ஸ்கேலர்", "இரண்டும் நியூட்டனில் அளக்கப்படுகின்றன", "நிறை இடத்துக்கு இடம் மாறும்", "நிறை ஸ்கேலர்; எடை நியூட்டனில் அளக்கப்படும் வெக்டர்"], "explanation": "நிறை எங்கும் மாறாது; கிலோகிராமில் அளக்கப்படுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 9,
+      "quote": "If a man has a mass 50 kg on the earth, then what is his weight? ... His weight = 50 × 9.8 w = 490 newton",
+      "answer": "A",
+      "en": {"q": "A man has a mass of 50 kg on the Earth (g = 9.8 m s⁻²). His weight is", "options": ["490 N", "50 N", "5 N", "4900 N"], "explanation": "Weight w = mg = 50 × 9.8 = 490 N."},
+      "ta": {"q": "புவியில் ஒருவரின் நிறை 50 கி.கி (g = 9.8 மீ/வி²). அவரது எடை எவ்வளவு?", "options": ["490 N", "50 N", "5 N", "4900 N"], "explanation": "எடை w = mg = 50 × 9.8 = 490 N."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 12,
+      "quote": "4. Find the mass of an object weighing 98 N.",
+      "answer": "B",
+      "en": {"q": "An object weighs 98 N on the Earth (g = 9.8 m s⁻²). Its mass is", "options": ["98 kg", "10 kg", "9.8 kg", "960 kg"], "explanation": "m = w / g = 98 / 9.8 = 10 kg."},
+      "ta": {"q": "புவியில் ஒரு பொருளின் எடை 98 N (g = 9.8 மீ/வி²). அதன் நிறை எவ்வளவு?", "options": ["98 கி.கி", "10 கி.கி", "9.8 கி.கி", "960 கி.கி"], "explanation": "m = w / g = 98 / 9.8 = 10 கி.கி."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 9,
+      "quote": "Acceleration due to gravity on the Moon = 1.63 ms-2 If the mass of a man is 70 kg then his weight on the Earth is 686 N and on the Moon is 114 N. But his mass is still 70 kg on the Moon.",
+      "answer": "C",
+      "en": {"q": "A man has a mass of 70 kg on the Earth. What is his mass on the Moon?", "options": ["About 11.7 kg", "About 114 kg", "70 kg", "Zero"], "explanation": "Mass is the same everywhere; only his weight falls, from 686 N to about 114 N."},
+      "ta": {"q": "புவியில் ஒருவரின் நிறை 70 கி.கி. நிலவில் அவரது நிறை எவ்வளவு?", "options": ["ஏறக்குறைய 11.7 கி.கி", "ஏறக்குறைய 114 கி.கி", "70 கி.கி", "பூஜ்ஜியம்"], "explanation": "நிறை எங்கும் ஒன்றே; எடை மட்டும் 686 N இலிருந்து ஏறக்குறைய 114 N ஆகக் குறையும்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 10,
+      "quote": "SI Unit of volume is cubic metre or m3. Generally volume is represented in litre (l). 1ml=1cm3.",
+      "answer": "D",
+      "en": {"q": "One millilitre (ml) is equal to", "options": ["1 m³", "10 cm³", "1 dm³", "1 cm³"], "explanation": "The SI unit of volume is the cubic metre (m³)."},
+      "ta": {"q": "ஒரு மில்லிலிட்டர் (மி.லி) எதற்குச் சமம்?", "options": ["1 மீ³", "10 செ.மீ³", "1 டெ.மீ³", "1 செ.மீ³"], "explanation": "பருமனின் SI அலகு கன மீட்டர் (மீ³)."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 11,
+      "quote": "Second [s] Length of time taken for 9192631770 periods of vibration of the Caesium-133 atom to occur.",
+      "answer": "A",
+      "en": {"q": "In the SI glossary, one second is defined using the vibrations of which atom?", "options": ["Caesium-133", "Carbon-12", "Krypton-86", "Hydrogen-1"], "explanation": "It is the time for 9,192,631,770 periods of vibration of the caesium-133 atom."},
+      "ta": {"q": "SI சொற்களஞ்சியத்தில் ஒரு வினாடி எந்த அணுவின் அதிர்வுகளைக் கொண்டு வரையறுக்கப்படுகிறது?", "options": ["சீசியம்-133", "கார்பன்-12", "கிரிப்டான்-86", "ஹைட்ரஜன்-1"], "explanation": "இது சீசியம்-133 அணுவின் 9,192,631,770 அதிர்வுக் காலங்களுக்கான நேரம்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 11,
+      "quote": "1. Choose the correct one. a. mm< cm < m < km",
+      "answer": "B",
+      "en": {"q": "Choose the correct order of length units.", "options": ["mm > cm > m > km", "mm < cm < m < km", "km < m < cm < mm", "mm > m > cm > km"], "explanation": "1 km = 1000 m; 1 m = 100 cm; 1 cm = 10 mm."},
+      "ta": {"q": "நீள அலகுகளின் சரியான வரிசையைத் தேர்ந்தெடு.", "options": ["மி.மீ > செ.மீ > மீ > கி.மீ", "மி.மீ < செ.மீ < மீ < கி.மீ", "கி.மீ < மீ < செ.மீ < மி.மீ", "மி.மீ > மீ > செ.மீ > கி.மீ"], "explanation": "1 கி.மீ = 1000 மீ; 1 மீ = 100 செ.மீ; 1 செ.மீ = 10 மி.மீ."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 8,
+      "quote": "The shell of an egg is 12% of its mass. A blue whale can weigh as much as 30 elephants and it is as long as 3 large tour buses.",
+      "answer": "C",
+      "en": {"q": "According to the text, a blue whale can weigh as much as about how many elephants?", "options": ["3", "12", "30", "100"], "explanation": "It is also as long as three large tour buses."},
+      "ta": {"q": "பாடநூலின்படி ஒரு நீலத் திமிங்கிலம் ஏறக்குறைய எத்தனை யானைகளின் எடைக்குச் சமம்?", "options": ["3", "12", "30", "100"], "explanation": "அது மூன்று பெரிய சுற்றுலாப் பேருந்துகளின் நீளமும் உடையது."}
+    }
+  ]
+}
