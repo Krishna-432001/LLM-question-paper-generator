@@ -1,0 +1,273 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 9 Science Term-Full (English)",
+  "breadcrumb": "Std 9 Science (English) — Unit 3: Fluids",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 26,
+      "quote": "This force acting perpendicular to the surface is called thrust.",
+      "answer": "A",
+      "en": {"q": "The force acting perpendicular to a surface is called", "options": ["thrust", "pressure", "friction", "tension"], "explanation": "Thrust per unit area is pressure; the SI unit of thrust is the newton."},
+      "ta": {"q": "ஒரு பரப்புக்குச் செங்குத்தாகச் செயல்படும் விசை எவ்வாறு அழைக்கப்படுகிறது?", "options": ["உந்துவிசை", "அழுத்தம்", "உராய்வு", "இழுவிசை"], "explanation": "ஓரலகுப் பரப்பிலுள்ள உந்துவிசையே அழுத்தம்; உந்துவிசையின் SI அலகு நியூட்டன்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 27,
+      "quote": "For the same given force, if the area is large pressure is low and vice versa.",
+      "answer": "B",
+      "en": {"q": "Why do cutting tools have sharp edges?", "options": ["A sharp edge increases the force", "A smaller area gives a greater pressure for the same force", "A sharp edge reduces the mass", "A larger area gives a greater pressure"], "explanation": "Pressure = thrust / area of contact."},
+      "ta": {"q": "வெட்டும் கருவிகளுக்குக் கூர்மையான முனை இருப்பது ஏன்?", "options": ["கூர்முனை விசையை அதிகரிக்கிறது", "அதே விசைக்குச் சிறிய பரப்பு அதிக அழுத்தம் தருகிறது", "கூர்முனை நிறையைக் குறைக்கிறது", "பெரிய பரப்பு அதிக அழுத்தம் தருகிறது"], "explanation": "அழுத்தம் = உந்துவிசை / தொடுபரப்பு."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 27,
+      "quote": "In the honour of the great French scientist, Blaise Pascal, 1 newton per square metre is called as 1 pascal denoted as Pa. 1 Pa = 1 N m-2",
+      "answer": "C",
+      "en": {"q": "One pascal (Pa) is equal to", "options": ["1 N m", "1 N m⁻¹", "1 N m⁻²", "1 kg m⁻³"], "explanation": "The unit is named after the French scientist Blaise Pascal."},
+      "ta": {"q": "ஒரு பாஸ்கல் (Pa) எதற்குச் சமம்?", "options": ["1 N m", "1 N m⁻¹", "1 N m⁻²", "1 kg m⁻³"], "explanation": "இவ்வலகு பிரெஞ்சு அறிவியலாளர் பிளைஸ் பாஸ்கல் பெயரால் அழைக்கப்படுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 27,
+      "quote": "How is it possible for people to lie down on a bed of nails, still remain unhurt? It is because, area of contact is more.",
+      "answer": "D",
+      "en": {"q": "A person can lie on a bed of nails without getting hurt because", "options": ["the nails are blunt", "the person's weight decreases", "the nails exert no force", "the large area of contact lowers the pressure"], "explanation": "The same weight is spread over many nails."},
+      "ta": {"q": "ஒருவர் ஆணிப் படுக்கையில் காயமின்றிப் படுக்க முடிவது ஏன்?", "options": ["ஆணிகள் மழுங்கியவை", "அவரது எடை குறைகிறது", "ஆணிகள் விசை செலுத்துவதில்லை", "அதிகத் தொடுபரப்பு அழுத்தத்தைக் குறைக்கிறது"], "explanation": "அதே எடை பல ஆணிகளில் பரவுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 27,
+      "quote": "A man whose mass is 90 kg stands on his feet on a floor. The total area of contact of his two feet with the floor is 0.036 m2 (Take, g = 10 ms-2). ... Pressure, P = 900 N / 0.036 m2 = 25000 Pa",
+      "answer": "A",
+      "en": {"q": "A 90 kg man stands on a floor with a total foot contact area of 0.036 m² (g = 10 m s⁻²). The pressure he exerts is", "options": ["25,000 Pa", "2,500 Pa", "32.4 Pa", "250 Pa"], "explanation": "Thrust = mg = 900 N; P = 900 / 0.036 = 25,000 Pa."},
+      "ta": {"q": "90 கி.கி நிறையுடைய ஒருவர் 0.036 மீ² மொத்தப் பாதப் பரப்புடன் தரையில் நிற்கிறார் (g = 10 மீ/வி²). அவர் செலுத்தும் அழுத்தம் எவ்வளவு?", "options": ["25,000 Pa", "2,500 Pa", "32.4 Pa", "250 Pa"], "explanation": "உந்துவிசை = mg = 900 N; P = 900 / 0.036 = 25,000 Pa."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 28,
+      "quote": "Pressure exerted by a liquid at a point is determined by, (i) depth of the liquid (h) (ii) density of the liquid (ρ) (iii) acceleration due to gravity (g).",
+      "answer": "B",
+      "en": {"q": "The pressure exerted by a liquid at a point does NOT depend on", "options": ["the depth of the liquid", "the area of the container's base", "the density of the liquid", "the acceleration due to gravity"], "explanation": "P = hρg has no area term."},
+      "ta": {"q": "ஒரு புள்ளியில் திரவம் செலுத்தும் அழுத்தம் எதைச் சார்ந்திருப்பதில்லை?", "options": ["திரவத்தின் ஆழம்", "கொள்கலனின் அடிப்பரப்பு", "திரவத்தின் அடர்த்தி", "புவியீர்ப்பு முடுக்கம்"], "explanation": "P = hρg இல் பரப்பு இல்லை."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 28,
+      "quote": "The water may just dribble out from the top hole, but with increased speed at the bottom holes as depth causes the water to squirt out with more pressure.",
+      "answer": "C",
+      "en": {"q": "Water spurts out farthest from the lowest hole of a can punched with holes in a vertical line. This shows that liquid pressure", "options": ["decreases with depth", "is the same at all depths", "increases with depth", "acts only downward"], "explanation": "At a particular depth, pressure is the same in all directions."},
+      "ta": {"q": "செங்குத்து வரிசையில் துளையிட்ட கலனின் கீழ்த் துளையிலிருந்து நீர் மிகத் தொலைவு பீய்ச்சுகிறது. இது திரவ அழுத்தம் பற்றி எதைக் காட்டுகிறது?", "options": ["ஆழத்துடன் குறைகிறது", "எல்லா ஆழங்களிலும் சமம்", "ஆழத்துடன் அதிகரிக்கிறது", "கீழ்நோக்கி மட்டும் செயல்படுகிறது"], "explanation": "ஒரு குறிப்பிட்ட ஆழத்தில் அழுத்தம் எல்லாத் திசைகளிலும் சமம்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 29,
+      "quote": "Calculate the pressure exerted by a column of water of height 0.85 m (density of water, ρw = 1000 kg m-3) ... Pressure due to water = hρwg = 0.85 m × 1000 kg m-3 × 10 m s-2 = 8500 Pa.",
+      "answer": "D",
+      "en": {"q": "What pressure does a 0.85 m column of water exert (density 1000 kg m⁻³, g = 10 m s⁻²)?", "options": ["850 Pa", "6800 Pa", "85,000 Pa", "8500 Pa"], "explanation": "P = hρg = 0.85 × 1000 × 10 = 8500 Pa; kerosene (800 kg m⁻³) would give 6800 Pa."},
+      "ta": {"q": "0.85 மீ உயர நீர்த்தம்பம் செலுத்தும் அழுத்தம் எவ்வளவு (அடர்த்தி 1000 கி.கி/மீ³, g = 10 மீ/வி²)?", "options": ["850 Pa", "6800 Pa", "85,000 Pa", "8500 Pa"], "explanation": "P = hρg = 0.85 × 1000 × 10 = 8500 Pa; மண்ணெண்ணெய் (800 கி.கி/மீ³) 6800 Pa தரும்."}
+    },
+    {
+      "topic": "geography-and-environment", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 29,
+      "quote": "Figure 3.5 shows that air gets 'thinner' with increasing altitude. Hence, the atmospheric pressure decreases as we go up in mountains.",
+      "answer": "A",
+      "en": {"q": "Why do mountain climbers carry oxygen cylinders at great altitudes?", "options": ["Atmospheric pressure falls as altitude increases", "Atmospheric pressure rises with altitude", "Air becomes heavier at altitude", "Gravity is stronger on mountains"], "explanation": "The human lung is adapted to sea-level pressure (101.3 kPa)."},
+      "ta": {"q": "மலையேறுபவர்கள் அதிக உயரத்தில் ஆக்சிஜன் உருளைகளை எடுத்துச் செல்வது ஏன்?", "options": ["உயரம் அதிகரிக்க வளிமண்டல அழுத்தம் குறைகிறது", "உயரத்துடன் வளிமண்டல அழுத்தம் அதிகரிக்கிறது", "உயரத்தில் காற்று கனமாகிறது", "மலைகளில் ஈர்ப்பு அதிகம்"], "explanation": "மனித நுரையீரல் கடல்மட்ட அழுத்தத்துக்கு (101.3 kPa) ஏற்றது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 29,
+      "quote": "The instrument used to measure atmospheric pressure is called barometer. A mercury barometer, first designed by an Italian Physicist Torricelli",
+      "answer": "B",
+      "en": {"q": "The mercury barometer was first designed by", "options": ["Blaise Pascal", "Torricelli", "Archimedes", "Galileo"], "explanation": "A barometer measures atmospheric pressure."},
+      "ta": {"q": "பாதரசக் காற்றழுத்தமானியை முதலில் வடிவமைத்தவர் யார்?", "options": ["பிளைஸ் பாஸ்கல்", "டாரிசெல்லி", "ஆர்க்கிமிடிஸ்", "கலிலியோ"], "explanation": "காற்றழுத்தமானி வளிமண்டல அழுத்தத்தை அளக்கிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 30,
+      "quote": "On a typical day at sea level, the height of the mercury column is 760 mm.",
+      "answer": "C",
+      "en": {"q": "On a typical day at sea level, the height of the mercury column in a barometer is", "options": ["100 mm", "732 mm", "760 mm", "1013 mm"], "explanation": "This equals one atmospheric pressure, 1.013 × 10⁵ Pa."},
+      "ta": {"q": "கடல்மட்டத்தில் ஒரு வழக்கமான நாளில் காற்றழுத்தமானியின் பாதரசத் தம்ப உயரம் எவ்வளவு?", "options": ["100 மி.மீ", "732 மி.மீ", "760 மி.மீ", "1013 மி.மீ"], "explanation": "இது ஒரு வளிமண்டல அழுத்தம், 1.013 × 10⁵ Pa."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 30,
+      "quote": "1 atm = 1.013 × 10^5 Pa. 1 bar = 1 × 10^5 Pa. Hence, 1 atm = 1.013 bar.",
+      "answer": "D",
+      "en": {"q": "One atmosphere (1 atm) is equal to", "options": ["1 × 10⁵ Pa", "1 bar exactly", "760 Pa", "1.013 × 10⁵ Pa"], "explanation": "1 bar = 10⁵ Pa, so 1 atm = 1.013 bar."},
+      "ta": {"q": "ஒரு வளிமண்டல அழுத்தம் (1 atm) எதற்குச் சமம்?", "options": ["1 × 10⁵ Pa", "சரியாக 1 பார்", "760 Pa", "1.013 × 10⁵ Pa"], "explanation": "1 பார் = 10⁵ Pa; எனவே 1 atm = 1.013 பார்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 30,
+      "quote": "absolute pressure is zero-referenced against a perfect vacuum and gauge pressure is zero-referenced against atmospheric pressure. For pressures higher than atmospheric pressure, absolute pressure = atmospheric pressure + gauge pressure",
+      "answer": "A",
+      "en": {"q": "Tyre pressure gauges show gauge pressure. For pressures above atmospheric, absolute pressure is", "options": ["atmospheric pressure + gauge pressure", "atmospheric pressure − gauge pressure", "gauge pressure alone", "gauge pressure ÷ atmospheric pressure"], "explanation": "Gauge pressure is measured relative to atmospheric pressure; absolute pressure relative to a vacuum."},
+      "ta": {"q": "டயர் அழுத்தமானிகள் அளவி அழுத்தத்தைக் காட்டுகின்றன. வளிமண்டல அழுத்தத்துக்கு மேலான அழுத்தங்களுக்குத் தனி அழுத்தம் என்ன?", "options": ["வளிமண்டல அழுத்தம் + அளவி அழுத்தம்", "வளிமண்டல அழுத்தம் − அளவி அழுத்தம்", "அளவி அழுத்தம் மட்டும்", "அளவி அழுத்தம் ÷ வளிமண்டல அழுத்தம்"], "explanation": "அளவி அழுத்தம் வளிமண்டலத்தைக் குறிப்பாகவும் தனி அழுத்தம் வெற்றிடத்தைக் குறிப்பாகவும் கொண்டது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 30,
+      "quote": "So the pressure inside the sea will be more. ... Parts of our body, especially blood vessels and soft tissues cannot withstand such high pressure. Hence, scuba divers always wear special suits and equipment to protect them",
+      "answer": "B",
+      "en": {"q": "Scuba divers wear special suits mainly because", "options": ["sea water is cold", "pressure deep in the sea is very high", "there is no oxygen in water", "salt water is acidic"], "explanation": "Blood vessels and soft tissues cannot withstand such high pressure."},
+      "ta": {"q": "நீர்மூழ்கு வீரர்கள் சிறப்பு உடைகளை அணிவதற்கு முக்கியக் காரணம் என்ன?", "options": ["கடல்நீர் குளிர்ந்தது", "கடலின் ஆழத்தில் அழுத்தம் மிக அதிகம்", "நீரில் ஆக்சிஜன் இல்லை", "உப்புநீர் அமிலத்தன்மை உடையது"], "explanation": "இரத்தக் குழாய்களும் மென்திசுக்களும் அத்தகைய உயர் அழுத்தத்தைத் தாங்காது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 31,
+      "quote": "The law states that the external pressure applied on an incompressible liquid is transmitted uniformly throughout the liquid.",
+      "answer": "C",
+      "en": {"q": "'External pressure applied on an incompressible liquid is transmitted uniformly throughout the liquid.' This is", "options": ["Archimedes' principle", "Hooke's law", "Pascal's law", "the law of flotation"], "explanation": "Pascal's law is the working principle of the hydraulic press and lift."},
+      "ta": {"q": "'அமுக்க இயலாத திரவத்தின் மீது செலுத்தப்படும் புற அழுத்தம் திரவம் முழுவதும் சீராகப் பரவுகிறது.' இது எந்த விதி?", "options": ["ஆர்க்கிமிடிஸ் தத்துவம்", "ஹூக் விதி", "பாஸ்கல் விதி", "மிதத்தல் விதி"], "explanation": "பாஸ்கல் விதியே நீரியல் அழுத்தி, தூக்கியின் செயல்பாட்டுத் தத்துவம்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 31,
+      "quote": "Since, the ratio A2/A1 is greater than 1, the force F2 that acts on the larger piston is greater than the force F1 acting on the smaller piston. Hydraulic systems working in this way are known as force multipliers.",
+      "answer": "D",
+      "en": {"q": "Hydraulic systems such as the hydraulic press are known as", "options": ["pressure reducers", "speed multipliers", "energy creators", "force multipliers"], "explanation": "F₂ = F₁ × A₂/A₁, so a small force on the small piston lifts a large load."},
+      "ta": {"q": "நீரியல் அழுத்தி போன்ற நீரியல் அமைப்புகள் எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["அழுத்தக் குறைப்பான்கள்", "வேகப் பெருக்கிகள்", "ஆற்றல் உருவாக்கிகள்", "விசைப் பெருக்கிகள்"], "explanation": "F₂ = F₁ × A₂/A₁; சிறிய பிஸ்டனில் சிறு விசை பெரிய சுமையைத் தூக்குகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 31,
+      "quote": "A hydraulic system is used to lift a 2000 kg vehicle in an auto garage. If the vehicle sits on a piston of area 0.5 m2, and a force is applied to a piston of area 0.03 m2, what is the minimum force ... F2 = (2000 × 9.8) × 0.03 / 0.5 = 1176 N",
+      "answer": "A",
+      "en": {"q": "A 2000 kg vehicle sits on a hydraulic piston of area 0.5 m². What minimum force on a piston of area 0.03 m² will lift it (g = 9.8 m s⁻²)?", "options": ["1176 N", "19,600 N", "588 N", "11,760 N"], "explanation": "F = (2000 × 9.8) × 0.03 / 0.5 = 1176 N."},
+      "ta": {"q": "2000 கி.கி வாகனம் 0.5 மீ² பரப்புள்ள நீரியல் பிஸ்டன் மீது உள்ளது. 0.03 மீ² பிஸ்டனில் அதைத் தூக்கத் தேவையான குறைந்தபட்ச விசை எவ்வளவு (g = 9.8 மீ/வி²)?", "options": ["1176 N", "19,600 N", "588 N", "11,760 N"], "explanation": "F = (2000 × 9.8) × 0.03 / 0.5 = 1176 N."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 32,
+      "quote": "The result 1 g/cm3 and 0.8 g cm3 are the densities of water and kerosene respectively. Therefore, the density of a substance is the mass per unit volume of a given substance.",
+      "answer": "B",
+      "en": {"q": "According to the text, the density of kerosene is about", "options": ["1 g cm⁻³", "0.8 g cm⁻³", "13.6 g cm⁻³", "2.5 g cm⁻³"], "explanation": "Water is 1 g cm⁻³; density = mass per unit volume."},
+      "ta": {"q": "பாடநூலின்படி மண்ணெண்ணெயின் அடர்த்தி ஏறக்குறைய எவ்வளவு?", "options": ["1 கி/செ.மீ³", "0.8 கி/செ.மீ³", "13.6 கி/செ.மீ³", "2.5 கி/செ.மீ³"], "explanation": "நீர் 1 கி/செ.மீ³; அடர்த்தி = ஓரலகுப் பருமனின் நிறை."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 37,
+      "quote": "3. The density of water is 1 g cm-3. What is its density in S.I. units?",
+      "answer": "C",
+      "en": {"q": "The density of water is 1 g cm⁻³. In SI units this is", "options": ["1 kg m⁻³", "10 kg m⁻³", "1000 kg m⁻³", "100 kg m⁻³"], "explanation": "1 g cm⁻³ = 1000 kg m⁻³."},
+      "ta": {"q": "நீரின் அடர்த்தி 1 கி/செ.மீ³. SI அலகில் இது எவ்வளவு?", "options": ["1 கி.கி/மீ³", "10 கி.கி/மீ³", "1000 கி.கி/மீ³", "100 கி.கி/மீ³"], "explanation": "1 கி/செ.மீ³ = 1000 கி.கி/மீ³."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 35,
+      "quote": "Relative density is the ratio between the density of a substance and density of water. Relative density of a body is a pure number and has no unit.",
+      "answer": "D",
+      "en": {"q": "The density of mercury is 13,600 kg m⁻³. Its relative density is", "options": ["13,600 kg m⁻³", "1.36", "136", "13.6, with no unit"], "explanation": "Relative density = density of substance ÷ density of water at 4 °C (1000 kg m⁻³)."},
+      "ta": {"q": "பாதரசத்தின் அடர்த்தி 13,600 கி.கி/மீ³. அதன் ஒப்படர்த்தி என்ன?", "options": ["13,600 கி.கி/மீ³", "1.36", "136", "13.6, அலகு இல்லை"], "explanation": "ஒப்படர்த்தி = பொருளின் அடர்த்தி ÷ 4 °C நீரின் அடர்த்தி (1000 கி.கி/மீ³)."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 32,
+      "quote": "Relative density can be measured using Pycnometer also called density bottle.",
+      "answer": "A",
+      "en": {"q": "A pycnometer, used to measure relative density, is also called a", "options": ["density bottle", "barometer", "lactometer", "hydrometer"], "explanation": "Its stopper has a fine hole so it always holds the same volume."},
+      "ta": {"q": "ஒப்படர்த்தியை அளக்கப் பயன்படும் பிக்னோமீட்டர் வேறு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["அடர்த்திக் குடுவை", "காற்றழுத்தமானி", "பால்மானி", "நீர்மானி"], "explanation": "அதன் அடைப்பானில் மெல்லிய துளை இருப்பதால் அது எப்போதும் ஒரே பருமனைக் கொள்கிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 33,
+      "quote": "You have a block of a mystery material, 12 cm long, 11 cm wide and 3.5 cm thick. Its mass is 1155 grams. ... = 2.5 g cm-3 (b)The mystery material is denser than the water. So it sinks.",
+      "answer": "B",
+      "en": {"q": "A block 12 cm × 11 cm × 3.5 cm has a mass of 1155 g. Its density and behaviour in water are", "options": ["0.4 g cm⁻³; it floats", "2.5 g cm⁻³; it sinks", "2.5 g cm⁻³; it floats", "1 g cm⁻³; it stays suspended"], "explanation": "Volume = 462 cm³; density = 1155/462 = 2.5 g cm⁻³, which is more than water."},
+      "ta": {"q": "12 செ.மீ × 11 செ.மீ × 3.5 செ.மீ கட்டையின் நிறை 1155 கி. அதன் அடர்த்தியும் நீரில் அதன் நடத்தையும் என்ன?", "options": ["0.4 கி/செ.மீ³; மிதக்கும்", "2.5 கி/செ.மீ³; மூழ்கும்", "2.5 கி/செ.மீ³; மிதக்கும்", "1 கி/செ.மீ³; நடுவில் நிற்கும்"], "explanation": "பருமன் = 462 செ.மீ³; அடர்த்தி = 1155/462 = 2.5 கி/செ.மீ³; இது நீரை விட அதிகம்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 33,
+      "quote": "A direct-reading instrument used for measuring the density or relative density of the liquid is called hydrometer. ... The lower spherical bulb is partially filled with lead shots or mercury. This helps hydrometer to float or stand vertically in liquids.",
+      "answer": "C",
+      "en": {"q": "The bulb of a hydrometer is partly filled with lead shots or mercury so that it", "options": ["sinks completely", "measures temperature", "floats or stands vertically in the liquid", "becomes lighter"], "explanation": "A hydrometer directly reads the relative density of a liquid."},
+      "ta": {"q": "நீர்மானியின் குமிழ் பகுதியளவு காரீயக் குண்டுகளால் அல்லது பாதரசத்தால் நிரப்பப்படுவது ஏன்?", "options": ["அது முழுவதும் மூழ்க", "வெப்பநிலையை அளக்க", "திரவத்தில் செங்குத்தாக மிதக்க", "அது இலகுவாக"], "explanation": "நீர்மானி திரவத்தின் ஒப்படர்த்தியை நேரடியாகக் காட்டுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "match_the_following", "difficulty": "medium", "bloom": "remember", "page": 33,
+      "quote": "Hydrometers may be calibrated for different uses such as lactometers for measuring the density (creaminess) of milk, saccharometer for measuring the density of sugar in a liquid and alcoholometer for measuring higher levels of alcohol in spirits.",
+      "answer": "D",
+      "en": {"q": "Match the instrument with what it measures:\na) Lactometer\nb) Saccharometer\nc) Alcoholometer\nd) Barometer\n1. Sugar in a liquid\n2. Atmospheric pressure\n3. Alcohol in spirits\n4. Density (creaminess) of milk", "options": ["a-1, b-4, c-3, d-2", "a-4, b-3, c-1, d-2", "a-3, b-1, c-4, d-2", "a-4, b-1, c-3, d-2"], "explanation": "Lactometer, saccharometer and alcoholometer are calibrated hydrometers."},
+      "ta": {"q": "கருவியை அது அளப்பதுடன் பொருத்துக:\na) பால்மானி\nb) சர்க்கரைமானி\nc) ஆல்கஹால்மானி\nd) காற்றழுத்தமானி\n1. திரவத்திலுள்ள சர்க்கரை\n2. வளிமண்டல அழுத்தம்\n3. மதுவிலுள்ள ஆல்கஹால்\n4. பாலின் அடர்த்தி (கொழுப்பு)", "options": ["a-1, b-4, c-3, d-2", "a-4, b-3, c-1, d-2", "a-3, b-1, c-4, d-2", "a-4, b-1, c-3, d-2"], "explanation": "பால்மானி, சர்க்கரைமானி, ஆல்கஹால்மானி ஆகியவை அளவீடு செய்யப்பட்ட நீர்மானிகள்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 33,
+      "quote": "The correct lactometer reading is obtained only at the temperature of 60 °F. A lactometer measures the cream content of milk. More the cream, lower the lactometer floats in the milk. The average reading of normal milk is 32.",
+      "answer": "A",
+      "en": {"q": "According to the text, the average lactometer reading of normal milk is", "options": ["32", "15", "45", "60"], "explanation": "The scale runs from 15 at the top to 45 at the bottom; correct readings are taken at 60 °F."},
+      "ta": {"q": "பாடநூலின்படி சாதாரணப் பாலின் சராசரிப் பால்மானி அளவீடு என்ன?", "options": ["32", "15", "45", "60"], "explanation": "அளவுகோல் மேலே 15 முதல் கீழே 45 வரை; சரியான அளவீடு 60 °F இல்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 34,
+      "quote": "This pressure difference causes a force on the object and pushes it upward. This force is called buoyant force and the phenomenon is called buoyancy",
+      "answer": "B",
+      "en": {"q": "The upward force exerted by a fluid on an object immersed in it is called", "options": ["thrust", "buoyant force (upthrust)", "centripetal force", "friction"], "explanation": "It arises because pressure is greater at the bottom of the object than at the top."},
+      "ta": {"q": "திரவத்தில் மூழ்கிய பொருளின் மீது திரவம் செலுத்தும் மேல்நோக்கு விசை எவ்வாறு அழைக்கப்படுகிறது?", "options": ["உந்துவிசை", "மிதப்பு விசை (மேலுந்துவிசை)", "மையநோக்கு விசை", "உராய்வு"], "explanation": "பொருளின் மேற்பகுதியை விட அடிப்பகுதியில் அழுத்தம் அதிகமாக இருப்பதால் இது தோன்றுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 34,
+      "quote": "Salt water provides more buoyant force than fresh water, because, buoyant force depends as much on the density of fluids as on the volume displaced.",
+      "answer": "C",
+      "en": {"q": "It is easier to swim in sea water than in river water because", "options": ["sea water is warmer", "sea water has waves", "salt water is denser and gives more buoyant force", "river water has more oxygen"], "explanation": "Buoyant force depends on the density of the fluid and the volume displaced."},
+      "ta": {"q": "ஆற்றுநீரை விடக் கடல்நீரில் நீந்துவது எளிது. ஏன்?", "options": ["கடல்நீர் வெதுவெதுப்பானது", "கடலில் அலைகள் உண்டு", "உப்புநீர் அடர்த்தி அதிகம்; மிதப்பு விசை அதிகம்", "ஆற்றுநீரில் ஆக்சிஜன் அதிகம்"], "explanation": "மிதப்பு விசை திரவத்தின் அடர்த்தியையும் இடம்பெயர்ந்த பருமனையும் பொறுத்தது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 34,
+      "quote": "Cartesian diver is an experiment that demonstrates the principle of buoyancy.",
+      "answer": "D",
+      "en": {"q": "Which experiment demonstrates the principle of buoyancy using a pen cap with clay in a bottle of water?", "options": ["Torricelli's experiment", "Pascal's vessel", "Hydraulic press", "Cartesian diver"], "explanation": "Pressing the bottle forces water into the diver, raising its density so it sinks."},
+      "ta": {"q": "நீர் நிரம்பிய புட்டியில் களிமண் ஒட்டிய பேனா மூடியைக் கொண்டு மிதப்புத் தத்துவத்தை விளக்கும் சோதனை எது?", "options": ["டாரிசெல்லி சோதனை", "பாஸ்கல் கலன்", "நீரியல் அழுத்தி", "கார்டீசியன் மூழ்கி"], "explanation": "புட்டியை அழுத்தும்போது நீர் உள்ளே புகுந்து அடர்த்தி அதிகரிப்பதால் அது மூழ்குகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 34,
+      "quote": "Archimedes principle states that `a body immersed in a fluid experiences a vertical upward buoyant force equal to the weight of the fluid it displaces'.",
+      "answer": "A",
+      "en": {"q": "According to Archimedes' principle, the upthrust on a body immersed in a fluid equals", "options": ["the weight of the fluid it displaces", "the mass of the body", "the volume of the body", "the density of the fluid"], "explanation": "Legend says Archimedes ran through the town shouting 'eureka' after this discovery."},
+      "ta": {"q": "ஆர்க்கிமிடிஸ் தத்துவத்தின்படி திரவத்தில் மூழ்கிய பொருளின் மீதான மேலுந்துவிசை எதற்குச் சமம்?", "options": ["அது இடம்பெயர்க்கும் திரவத்தின் எடை", "பொருளின் நிறை", "பொருளின் பருமன்", "திரவத்தின் அடர்த்தி"], "explanation": "இதைக் கண்டறிந்த ஆர்க்கிமிடிஸ் 'யுரேகா' என்று கூவியபடி நகரில் ஓடினார் என்பது கதை."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 35,
+      "quote": "Apparent weight of an object = True weight of an object in air − Upthrust (weight of water displaced)",
+      "answer": "B",
+      "en": {"q": "A body immersed in a liquid appears to weigh", "options": ["more than its actual weight", "less than its actual weight", "the same as its actual weight", "zero always"], "explanation": "Apparent weight = true weight − upthrust."},
+      "ta": {"q": "திரவத்தில் மூழ்கிய பொருளின் எடை எவ்வாறு தோன்றும்?", "options": ["உண்மையான எடையை விட அதிகம்", "உண்மையான எடையை விடக் குறைவு", "உண்மையான எடைக்குச் சமம்", "எப்போதும் சுழி"], "explanation": "தோற்ற எடை = உண்மையான எடை − மேலுந்துவிசை."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 35,
+      "quote": "Laws of flotation are: 1. The weight of a floating body in a fluid is equal to the weight of the fluid displaced by the body. 2. The centre of gravity of the floating body and the centre of buoyancy are in the same vertical line.",
+      "answer": "C",
+      "en": {"q": "According to the laws of flotation, for a floating body", "options": ["its weight is more than the weight of fluid displaced", "the centre of gravity is always below the fluid", "its weight equals the weight of the fluid displaced", "the centre of buoyancy is always above the centre of gravity horizontally"], "explanation": "Also, the centre of gravity and centre of buoyancy lie on the same vertical line."},
+      "ta": {"q": "மிதத்தல் விதிகளின்படி மிதக்கும் பொருளுக்கு", "options": ["அதன் எடை இடம்பெயர்ந்த திரவ எடையை விட அதிகம்", "ஈர்ப்பு மையம் எப்போதும் திரவத்துக்குக் கீழே", "அதன் எடை இடம்பெயர்ந்த திரவத்தின் எடைக்குச் சமம்", "மிதப்பு மையம் கிடைமட்டமாக ஈர்ப்பு மையத்துக்கு மேலே"], "explanation": "மேலும் ஈர்ப்பு மையமும் மிதப்பு மையமும் ஒரே செங்குத்துக் கோட்டில் இருக்கும்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 37,
+      "quote": "4. Calculate the apparent weight of wood floating on water if it weighs 100g in air.",
+      "answer": "D",
+      "en": {"q": "A piece of wood weighs 100 g in air and floats on water. Its apparent weight while floating is", "options": ["100 g", "50 g", "200 g", "zero"], "explanation": "A floating body displaces fluid equal to its own weight, so upthrust cancels its weight."},
+      "ta": {"q": "காற்றில் 100 கி எடையுள்ள மரத்துண்டு நீரில் மிதக்கிறது. மிதக்கும்போது அதன் தோற்ற எடை என்ன?", "options": ["100 கி", "50 கி", "200 கி", "சுழி"], "explanation": "மிதக்கும் பொருள் தன் எடைக்குச் சமமான திரவத்தை இடம்பெயர்க்கிறது; மேலுந்துவிசை எடையைச் சமன்செய்கிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 36,
+      "quote": "3. In a pressure cooker, the food is cooked faster because ... (b) increased pressure raises the boiling point.",
+      "answer": "A",
+      "en": {"q": "Food is cooked faster in a pressure cooker because", "options": ["increased pressure raises the boiling point", "increased pressure lowers the boiling point", "decreased pressure raises the boiling point", "increased pressure lowers the melting point"], "explanation": "Water boils at a higher temperature under higher pressure."},
+      "ta": {"q": "அழுத்தச் சமையற்கலனில் உணவு விரைவாக வேகுவது ஏன்?", "options": ["அதிக அழுத்தம் கொதிநிலையை உயர்த்துகிறது", "அதிக அழுத்தம் கொதிநிலையைக் குறைக்கிறது", "குறைந்த அழுத்தம் கொதிநிலையை உயர்த்துகிறது", "அதிக அழுத்தம் உருகுநிலையைக் குறைக்கிறது"], "explanation": "அதிக அழுத்தத்தில் நீர் அதிக வெப்பநிலையில் கொதிக்கிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 36,
+      "quote": "1. The size of an air bubble rising up in water (a) decreases (b) increases (c) remains same (d) may increase or decrease",
+      "answer": "B",
+      "en": {"q": "As an air bubble rises up in water, its size", "options": ["decreases", "increases", "remains the same", "first decreases then increases"], "explanation": "Water pressure falls as depth decreases, so the bubble expands."},
+      "ta": {"q": "நீரில் மேலெழும் காற்றுக் குமிழின் அளவு எவ்வாறு மாறும்?", "options": ["குறையும்", "அதிகரிக்கும்", "மாறாது", "முதலில் குறைந்து பின் அதிகரிக்கும்"], "explanation": "ஆழம் குறையக் குறைய நீர் அழுத்தம் குறைவதால் குமிழ் விரிவடைகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 36,
+      "quote": "3. The foundations of high-rise buildings are kept wide so that they may exert more pressure on the ground.",
+      "answer": "C",
+      "en": {"q": "The foundations of high-rise buildings are kept wide so that they", "options": ["exert more pressure on the ground", "weigh less", "exert less pressure on the ground", "absorb more water"], "explanation": "A larger area spreads the same weight and lowers the pressure."},
+      "ta": {"q": "உயரமான கட்டடங்களின் அடித்தளம் அகலமாக அமைக்கப்படுவது ஏன்?", "options": ["தரையில் அதிக அழுத்தம் செலுத்த", "எடை குறைய", "தரையில் குறைந்த அழுத்தம் செலுத்த", "அதிக நீரை உறிஞ்ச"], "explanation": "பெரிய பரப்பு அதே எடையைப் பரப்பி அழுத்தத்தைக் குறைக்கிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 36,
+      "quote": "4. A drinking straw works on the existence of ________.",
+      "answer": "D",
+      "en": {"q": "A drinking straw works because of the existence of", "options": ["buoyant force", "surface tension", "magnetism", "atmospheric pressure"], "explanation": "Sucking lowers the pressure inside the straw, and atmospheric pressure pushes the liquid up."},
+      "ta": {"q": "உறிஞ்சு குழல் (ஸ்ட்ரா) எதன் இருப்பால் செயல்படுகிறது?", "options": ["மிதப்பு விசை", "பரப்பு இழுவிசை", "காந்தவியல்", "வளிமண்டல அழுத்தம்"], "explanation": "உறிஞ்சும்போது குழலினுள் அழுத்தம் குறைகிறது; வளிமண்டல அழுத்தம் திரவத்தை மேலே தள்ளுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 36,
+      "quote": "2. Clouds float in atmosphere because of their low (a) density (b) pressure (c ) velocity (d) mass",
+      "answer": "A",
+      "en": {"q": "Clouds float in the atmosphere because of their low", "options": ["density", "pressure", "velocity", "temperature"], "explanation": "Things less dense than the surrounding fluid float."},
+      "ta": {"q": "மேகங்கள் வளிமண்டலத்தில் மிதப்பதற்குக் காரணம் அவற்றின் குறைந்த", "options": ["அடர்த்தி", "அழுத்தம்", "திசைவேகம்", "வெப்பநிலை"], "explanation": "சூழ்ந்துள்ள பாய்மத்தை விட அடர்த்தி குறைந்தவை மிதக்கின்றன."}
+    },
+    {
+      "topic": "natural-resources-and-agriculture", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 36,
+      "quote": "5. Hydraulic press is used in the extraction of oil from oil seeds.",
+      "answer": "B",
+      "en": {"q": "Which machine based on Pascal's law is used to extract oil from oilseeds?", "options": ["Barometer", "Hydraulic press", "Lactometer", "Pycnometer"], "explanation": "A hydraulic press multiplies force to squeeze the seeds."},
+      "ta": {"q": "எண்ணெய் வித்துகளிலிருந்து எண்ணெய் பிழியப் பயன்படும், பாஸ்கல் விதியில் இயங்கும் இயந்திரம் எது?", "options": ["காற்றழுத்தமானி", "நீரியல் அழுத்தி", "பால்மானி", "பிக்னோமீட்டர்"], "explanation": "நீரியல் அழுத்தி விசையைப் பெருக்கி வித்துகளைப் பிழிகிறது."}
+    }
+  ]
+}
