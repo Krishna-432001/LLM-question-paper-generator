@@ -1,0 +1,252 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 9 Science Term-Full (English)",
+  "breadcrumb": "Std 9 Science (English) — Unit 12: Periodic Classification of Elements",
+  "questions": [
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 138,
+      "quote": "In 1800, there were only 31 known elements. By 1865, their number became 63. Now 118 elements have been discovered.",
+      "answer": "A",
+      "en": {"q": "According to the text, how many elements were known in 1800?", "options": ["31", "63", "56", "118"], "explanation": "By 1865 there were 63; now 118 are known."},
+      "ta": {"q": "பாடநூலின்படி 1800இல் அறியப்பட்ட தனிமங்கள் எத்தனை?", "options": ["31", "63", "56", "118"], "explanation": "1865இல் 63; இப்போது 118."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 138,
+      "quote": "Dobereiner showed that when the three elements in a triad are arranged in the ascending order of their atomic masses, the atomic mass of the middle element is nearly the same as average of atomic masses of other two elements.",
+      "answer": "B",
+      "en": {"q": "In Dobereiner's triads, the atomic mass of the middle element is nearly the", "options": ["sum of the other two", "average of the other two", "product of the other two", "difference of the other two"], "explanation": "E.g. Na: (6.9 + 39.1)/2 = 23."},
+      "ta": {"q": "டாபரீனரின் மும்மைகளில் நடுத் தனிமத்தின் அணு நிறை ஏறக்குறைய", "options": ["மற்ற இரண்டின் கூட்டுத்தொகை", "மற்ற இரண்டின் சராசரி", "மற்ற இரண்டின் பெருக்கல்", "மற்ற இரண்டின் வேறுபாடு"], "explanation": "எ.கா. Na: (6.9 + 39.1)/2 = 23."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 138,
+      "quote": "In 1817, Johann Wolfgang Dobereiner, a German chemist, suggested a method of grouping elements based on their relative atomic masses.",
+      "answer": "C",
+      "en": {"q": "Dobereiner, who proposed the law of triads in 1817, was a", "options": ["Russian chemist", "English physicist", "German chemist", "French chemist"], "explanation": "He grouped elements in threes by relative atomic mass."},
+      "ta": {"q": "1817இல் மும்மை விதியை முன்மொழிந்த டாபரீனர் யார்?", "options": ["ரஷ்ய வேதியியலாளர்", "ஆங்கில இயற்பியலாளர்", "ஜெர்மானிய வேதியியலாளர்", "பிரெஞ்சு வேதியியலாளர்"], "explanation": "அவர் தனிமங்களை ஒப்பு அணு நிறைப்படி மூன்று மூன்றாகக் குழுவாக்கினார்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 139,
+      "quote": "Triad Group (2) Element Atomic Mass Cl 35.5 Br 79.9 I 126.9",
+      "answer": "D",
+      "en": {"q": "Which of the following is one of Dobereiner's triads?", "options": ["H, He, Li", "Na, Mg, Al", "C, N, O", "Cl, Br, I"], "explanation": "Other triads: Li, Na, K and Ca, Sr, Ba."},
+      "ta": {"q": "பின்வருவனவற்றுள் டாபரீனரின் மும்மைகளில் ஒன்று எது?", "options": ["H, He, Li", "Na, Mg, Al", "C, N, O", "Cl, Br, I"], "explanation": "பிற மும்மைகள்: Li, Na, K மற்றும் Ca, Sr, Ba."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 139,
+      "quote": "In 1866, John Newlands arranged 56 known elements in the increasing order of their atomic mass. He observed that every eighth element had properties similar to those of the first element like the eighth note in an octave of music is similar to the first.",
+      "answer": "A",
+      "en": {"q": "If Dobereiner is related to the 'law of triads', Newlands is related to the", "options": ["law of octaves", "modern periodic law", "Hund's rule", "Pauli's exclusion principle"], "explanation": "Every eighth element resembled the first, like the octave in music."},
+      "ta": {"q": "டாபரீனர் 'மும்மை விதி'யுடன் தொடர்புடையவர் எனில் நியூலேண்ட்ஸ் எதனுடன் தொடர்புடையவர்?", "options": ["எண்ம விதி", "நவீன ஆவர்த்தன விதி", "ஹுண்ட் விதி", "பாலி தவிர்க்கைத் தத்துவம்"], "explanation": "இசையின் எண்மம்போல ஒவ்வொரு எட்டாவது தனிமமும் முதலாவதை ஒத்திருந்தது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 139,
+      "quote": "The law of octaves was not valid for elements that had atomic masses higher than that of calcium. ... Newlands' table was restricted to only 56 elements and did not leave any room for new elements.",
+      "answer": "B",
+      "en": {"q": "Which of the following is a limitation of Newlands' law of octaves?", "options": ["It was based on atomic number", "It was not valid for elements heavier than calcium", "It left gaps for undiscovered elements", "It placed isotopes separately"], "explanation": "It also put Co and Ni in one slot and left no room for new elements."},
+      "ta": {"q": "நியூலேண்ட்ஸின் எண்ம விதியின் குறைபாடு எது?", "options": ["அது அணு எண் அடிப்படையிலானது", "கால்சியத்தை விடக் கனமான தனிமங்களுக்குப் பொருந்தவில்லை", "கண்டறியப்படாத தனிமங்களுக்கு இடம் விட்டது", "ஐசோடோப்புகளைத் தனியாக வைத்தது"], "explanation": "அது Co, Ni ஐ ஒரே இடத்தில் வைத்தது; புதிய தனிமங்களுக்கு இடம் விடவில்லை."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 139,
+      "quote": "In 1869, Russian chemist, Dmitri Mendeleev observed that the elements of similar properties repeat at regular intervals when the elements are arranged in the order of their atomic masses. Based on this, he proposed the law of periodicity",
+      "answer": "C",
+      "en": {"q": "Mendeleev's law of periodicity (1869) states that the properties of elements are periodic functions of their", "options": ["atomic numbers", "valencies", "atomic masses", "densities"], "explanation": "The modern periodic law uses atomic numbers instead."},
+      "ta": {"q": "மெண்டலீவின் ஆவர்த்தன விதி (1869)ப்படி தனிமங்களின் பண்புகள் அவற்றின் எதன் ஆவர்த்தனச் சார்புகள்?", "options": ["அணு எண்கள்", "இணைதிறன்கள்", "அணு நிறைகள்", "அடர்த்திகள்"], "explanation": "நவீன ஆவர்த்தன விதி அதற்குப் பதில் அணு எண்களைப் பயன்படுத்துகிறது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 139,
+      "quote": "It has eight vertical columns called `groups' and seven horizontal rows called `period'. Each group has two subgroups `A' and `B'.",
+      "answer": "D",
+      "en": {"q": "Mendeleev's (short form) periodic table had", "options": ["18 groups and 7 periods", "7 groups and 8 periods", "9 groups and 9 periods", "8 groups and 7 periods"], "explanation": "Each group had subgroups A and B."},
+      "ta": {"q": "மெண்டலீவின் (குறு வடிவ) ஆவர்த்தன அட்டவணையில் இருந்தவை", "options": ["18 தொகுதிகள், 7 வரிசைகள்", "7 தொகுதிகள், 8 வரிசைகள்", "9 தொகுதிகள், 9 வரிசைகள்", "8 தொகுதிகள், 7 வரிசைகள்"], "explanation": "ஒவ்வொரு தொகுதிக்கும் A, B உட்தொகுதிகள் இருந்தன."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 140,
+      "quote": "Eg: The atomic mass of beryllium was known to be 14. Mendeleev reassessed it as 9 and assigned beryllium a proper place.",
+      "answer": "A",
+      "en": {"q": "Mendeleev corrected the atomic mass of beryllium from 14 to", "options": ["9", "7", "12", "4"], "explanation": "Wrongly determined atomic masses were corrected to fit elements into proper groups."},
+      "ta": {"q": "மெண்டலீவ் பெரிலியத்தின் அணு நிறையை 14 இலிருந்து எவ்வளவாகத் திருத்தினார்?", "options": ["9", "7", "12", "4"], "explanation": "தனிமங்களைச் சரியான தொகுதிகளில் வைக்கத் தவறான அணு நிறைகள் திருத்தப்பட்டன."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 140,
+      "quote": "Mendeleev gave names Eka Aluminium and Eka Silicon to those elements which were to be placed below Aluminium and Silicon respectively in the periodic table and predicted their properties. The discovery of Germanium later on, during his life time, proved him correct.",
+      "answer": "B",
+      "en": {"q": "The element Mendeleev called 'eka-silicon', whose later discovery proved his predictions correct, is", "options": ["Gallium", "Germanium", "Scandium", "Tin"], "explanation": "He predicted an atomic mass of about 72; the actual value is 72.59."},
+      "ta": {"q": "மெண்டலீவ் 'ஏகா-சிலிக்கான்' என்றழைத்து, பின்னர் கண்டறியப்பட்டு அவரது முன்னறிவிப்பை உறுதிப்படுத்திய தனிமம் எது?", "options": ["காலியம்", "ஜெர்மானியம்", "ஸ்காண்டியம்", "வெள்ளீயம்"], "explanation": "அவர் அணு நிறையை ஏறக்குறைய 72 என முன்னறிவித்தார்; உண்மை மதிப்பு 72.59."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 141,
+      "quote": "No proper position could be given to the element hydrogen. ... The increasing order of atomic mass was not strictly followed throughout. Eg. Co & Ni, Te & I. No place for isotopes in the periodic table.",
+      "answer": "C",
+      "en": {"q": "Which of the following is a limitation of Mendeleev's periodic table?", "options": ["It left gaps for undiscovered elements", "It corrected wrong atomic masses", "It had no place for isotopes", "It grouped similar elements together"], "explanation": "Hydrogen's position and the order of Co–Ni and Te–I were also problems."},
+      "ta": {"q": "மெண்டலீவ் ஆவர்த்தன அட்டவணையின் குறைபாடு எது?", "options": ["கண்டறியப்படாத தனிமங்களுக்கு இடம் விட்டது", "தவறான அணு நிறைகளைத் திருத்தியது", "ஐசோடோப்புகளுக்கு இடம் இல்லை", "ஒத்த தனிமங்களை ஒன்றாக வைத்தது"], "explanation": "ஹைட்ரஜனின் இடமும் Co–Ni, Te–I வரிசையும் சிக்கல்களாக இருந்தன."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 141,
+      "quote": "In 1913, the English Physicist Henry Moseley, through his X-ray diffraction experiments, proved that the properties of elements depend on the atomic number and not on the atomic mass.",
+      "answer": "D",
+      "en": {"q": "Who proved through X-ray diffraction experiments (1913) that the properties of elements depend on atomic number?", "options": ["Mendeleev", "Newlands", "Dobereiner", "Henry Moseley"], "explanation": "This led to the modern (long form) periodic table."},
+      "ta": {"q": "தனிமங்களின் பண்புகள் அணு எண்ணைச் சார்ந்தவை என்பதை எக்ஸ்-கதிர் விளிம்பு விளைவுச் சோதனைகளால் (1913) நிரூபித்தவர் யார்?", "options": ["மெண்டலீவ்", "நியூலேண்ட்ஸ்", "டாபரீனர்", "ஹென்றி மோஸ்லே"], "explanation": "இது நவீன (நீள் வடிவ) ஆவர்த்தன அட்டவணைக்கு வழிவகுத்தது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 141,
+      "quote": "The horizontal rows are called periods. There are seven periods in the periodic table. ... There are 18 groups in the periodic table.",
+      "answer": "A",
+      "en": {"q": "The modern periodic table has", "options": ["18 groups and 7 periods", "7 groups and 18 periods", "8 groups and 7 periods", "17 groups and 8 periods"], "explanation": "Elements are placed in periods by the number of shells."},
+      "ta": {"q": "நவீன ஆவர்த்தன அட்டவணையில் உள்ளவை", "options": ["18 தொகுதிகள், 7 வரிசைகள்", "7 தொகுதிகள், 18 வரிசைகள்", "8 தொகுதிகள், 7 வரிசைகள்", "17 தொகுதிகள், 8 வரிசைகள்"], "explanation": "கூடுகளின் எண்ணிக்கைப்படி தனிமங்கள் வரிசைகளில் வைக்கப்படுகின்றன."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 141,
+      "quote": "The elements are placed in periods based on the number of shells in their atoms.",
+      "answer": "B",
+      "en": {"q": "In the modern periodic table, an element's period is decided by its", "options": ["number of valence electrons", "number of shells", "atomic mass", "number of neutrons"], "explanation": "Groups are vertical columns of elements with similar properties."},
+      "ta": {"q": "நவீன ஆவர்த்தன அட்டவணையில் ஒரு தனிமத்தின் வரிசை எதனால் தீர்மானிக்கப்படுகிறது?", "options": ["இணைதிற எலக்ட்ரான்களின் எண்ணிக்கை", "கூடுகளின் எண்ணிக்கை", "அணு நிறை", "நியூட்ரான்களின் எண்ணிக்கை"], "explanation": "தொகுதிகள் ஒத்த பண்புள்ள தனிமங்களின் செங்குத்து நிரல்கள்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "match_the_following", "difficulty": "medium", "bloom": "remember", "page": 141,
+      "quote": "1 Alkali metals 2 Alkaline earth metals 3 to 12 Transition metals ... 16 Oxygen Family (or) Chalcogen Family 17 Halogens 18 Noble gases",
+      "answer": "C",
+      "en": {"q": "Match the group number with its family:\na) Group 1\nb) Group 2\nc) Group 16\nd) Group 17\n1. Chalcogens (oxygen family)\n2. Halogens\n3. Alkali metals\n4. Alkaline earth metals", "options": ["a-4, b-3, c-2, d-1", "a-3, b-4, c-2, d-1", "a-3, b-4, c-1, d-2", "a-1, b-2, c-3, d-4"], "explanation": "Groups 3–12 are transition metals and group 18 noble gases."},
+      "ta": {"q": "தொகுதி எண்ணை அதன் குடும்பத்துடன் பொருத்துக:\na) தொகுதி 1\nb) தொகுதி 2\nc) தொகுதி 16\nd) தொகுதி 17\n1. சால்கோஜன்கள் (ஆக்சிஜன் குடும்பம்)\n2. ஹாலஜன்கள்\n3. கார உலோகங்கள்\n4. காரமண் உலோகங்கள்", "options": ["a-4, b-3, c-2, d-1", "a-3, b-4, c-2, d-1", "a-3, b-4, c-1, d-2", "a-1, b-2, c-3, d-4"], "explanation": "தொகுதி 3–12 இடைநிலை உலோகங்கள்; தொகுதி 18 மந்த வாயுக்கள்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 143,
+      "quote": "The elements of group 1 (except hydrogen) are metals. They react with water to form solutions that change the colour of a litmus paper from red to blue. These solutions are said to be highly alkaline or basic. Hence they are called alkali metals.",
+      "answer": "D",
+      "en": {"q": "Group 1 elements are called alkali metals because", "options": ["they are gases", "they form acids with water", "they are found only in the Earth's crust", "they form highly alkaline solutions with water"], "explanation": "Their solutions turn red litmus blue."},
+      "ta": {"q": "தொகுதி 1 தனிமங்கள் கார உலோகங்கள் எனப்படுவது ஏன்?", "options": ["அவை வாயுக்கள்", "அவை நீருடன் அமிலங்களைத் தருகின்றன", "அவை புவியோட்டில் மட்டுமே உள்ளன", "அவை நீருடன் அதிகக் காரக் கரைசல்களைத் தருகின்றன"], "explanation": "அவற்றின் கரைசல்கள் சிவப்பு லிட்மஸை நீலமாக்குகின்றன."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 143,
+      "quote": "The elements of group 2 are also metals. They combine with oxygen to form oxides, formerly called 'earths', and these oxides produce alkaline solutions when they are dissolved in water. Hence, these elements are called alkaline earth metals.",
+      "answer": "A",
+      "en": {"q": "Group 2 elements are called alkaline earth metals because", "options": ["their oxides, formerly called 'earths', give alkaline solutions in water", "they are found only in soil", "they are the heaviest metals", "they do not react with oxygen"], "explanation": "They are s-block metals along with group 1."},
+      "ta": {"q": "தொகுதி 2 தனிமங்கள் காரமண் உலோகங்கள் எனப்படுவது ஏன்?", "options": ["முன்பு 'மண்கள்' எனப்பட்ட அவற்றின் ஆக்சைடுகள் நீரில் காரக் கரைசல்களைத் தருகின்றன", "அவை மண்ணில் மட்டுமே கிடைக்கின்றன", "அவை மிகக் கனமான உலோகங்கள்", "அவை ஆக்சிஜனுடன் வினைபுரிவதில்லை"], "explanation": "அவை தொகுதி 1 உடன் s-தொகுப்பு உலோகங்கள்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 143,
+      "quote": "The p-block is home to the biggest variety of elements and is the only block that contains all three types of elements: metals, nonmetals, and metalloids.",
+      "answer": "B",
+      "en": {"q": "Which block of the periodic table is the only one containing metals, non-metals and metalloids?", "options": ["s-block", "p-block", "d-block", "f-block"], "explanation": "The p-block covers groups 13 to 18."},
+      "ta": {"q": "உலோகங்கள், அலோகங்கள், உலோகப்போலிகள் மூன்றையும் கொண்ட ஒரே தொகுப்பு எது?", "options": ["s-தொகுப்பு", "p-தொகுப்பு", "d-தொகுப்பு", "f-தொகுப்பு"], "explanation": "p-தொகுப்பு தொகுதி 13 முதல் 18 வரை."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 143,
+      "quote": "d-Block Elements: It includes group 3 to group 12 elements. They are found in the centre of the periodic table. Their properties are intermediate to that of s block and p block elements and so they are called transition elements.",
+      "answer": "C",
+      "en": {"q": "Elements of groups 3 to 12, whose properties are intermediate between s- and p-block elements, are called", "options": ["representative elements", "noble gases", "transition elements", "inner transition elements"], "explanation": "They are the d-block elements in the centre of the table."},
+      "ta": {"q": "s, p தொகுப்புகளுக்கு இடைப்பட்ட பண்புகள் உடைய தொகுதி 3 முதல் 12 வரையிலான தனிமங்கள் எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["பிரதிநிதித் தனிமங்கள்", "மந்த வாயுக்கள்", "இடைநிலைத் தனிமங்கள்", "உள் இடைநிலைத் தனிமங்கள்"], "explanation": "அவை அட்டவணையின் மையத்திலுள்ள d-தொகுப்புத் தனிமங்கள்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 143,
+      "quote": "f − Block Elements: It includes 14 elements after (Lanthanum) La (57), called Lanthanoides and 14 elements after (Actinium) Ac (89), called Actinoides. They are placed at the bottom of the periodic table. They are also called as inner Transition elements.",
+      "answer": "D",
+      "en": {"q": "Lanthanoids and actinoids, placed at the bottom of the periodic table, are also called", "options": ["alkali metals", "halogens", "representative elements", "inner transition elements"], "explanation": "They are the f-block elements: 14 after La (57) and 14 after Ac (89)."},
+      "ta": {"q": "ஆவர்த்தன அட்டவணையின் அடியில் வைக்கப்பட்டுள்ள லாந்தனாய்டுகளும் ஆக்டினாய்டுகளும் வேறு எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["கார உலோகங்கள்", "ஹாலஜன்கள்", "பிரதிநிதித் தனிமங்கள்", "உள் இடைநிலைத் தனிமங்கள்"], "explanation": "அவை f-தொகுப்புத் தனிமங்கள்: La (57) க்குப் பின் 14, Ac (89) க்குப் பின் 14."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 144,
+      "quote": "Sub shell 1s 2s 2p 3s 3p 3d 4s 4p 4d 4f ... 2 2 6 2 6 10 2 6 10 14",
+      "answer": "A",
+      "en": {"q": "The maximum number of electrons that a d-subshell can hold is", "options": ["10", "2", "6", "14"], "explanation": "s holds 2, p holds 6, d holds 10 and f holds 14."},
+      "ta": {"q": "ஒரு d-துணைக்கூட்டில் இருக்கக்கூடிய அதிகபட்ச எலக்ட்ரான்கள் எத்தனை?", "options": ["10", "2", "6", "14"], "explanation": "s இல் 2, p இல் 6, d இல் 10, f இல் 14."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 144,
+      "quote": "Hydrogen can lose its only one electron to form a hydrogen ion (H+) like alkali metals. It can also gain one electron to form the hydride ion (H-) like halogens. ... Hence the position of hydrogen in the modern periodic table is still under debate",
+      "answer": "B",
+      "en": {"q": "The position of hydrogen in the periodic table is debated because it", "options": ["has no electrons", "behaves like both alkali metals and halogens", "is a noble gas", "is the heaviest element"], "explanation": "It can lose an electron (H⁺) or gain one (H⁻)."},
+      "ta": {"q": "ஆவர்த்தன அட்டவணையில் ஹைட்ரஜனின் இடம் விவாதத்துக்குரியது ஏன்?", "options": ["அதற்கு எலக்ட்ரான்கள் இல்லை", "அது கார உலோகங்கள்போலவும் ஹாலஜன்கள்போலவும் நடந்துகொள்கிறது", "அது மந்த வாயு", "அது மிகக் கனமான தனிமம்"], "explanation": "அது ஒரு எலக்ட்ரானை இழக்கவும் (H⁺) பெறவும் (H⁻) செய்யும்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 144,
+      "quote": "The elements Helium, Neon, Argon, Krypton, Xenon and Radon of group 18 in the periodic table are called as Noble gases or Rare gases. They are monoatomic gases and do not react with other substances easily, due to completely filled subshells.",
+      "answer": "C",
+      "en": {"q": "Noble gases do not react easily with other substances because they have", "options": ["very large atoms", "no electrons", "completely filled subshells", "only one shell"], "explanation": "They are monoatomic and found in very small quantities (hence 'rare gases')."},
+      "ta": {"q": "மந்த வாயுக்கள் பிற பொருள்களுடன் எளிதில் வினைபுரியாதது ஏன்?", "options": ["மிகப் பெரிய அணுக்கள்", "எலக்ட்ரான்கள் இல்லை", "முழுமையாக நிரம்பிய துணைக்கூடுகள்", "ஒரே ஒரு கூடு"], "explanation": "அவை ஓரணு வாயுக்கள்; மிகக் குறைந்த அளவில் கிடைப்பதால் 'அரிய வாயுக்கள்'."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 144,
+      "quote": "Except mercury, most of the metals are solids at room temperature.",
+      "answer": "D",
+      "en": {"q": "Which metal is a liquid at room temperature?", "options": ["Sodium", "Gallium only", "Lead", "Mercury"], "explanation": "Most metals are solids at room temperature."},
+      "ta": {"q": "அறை வெப்பநிலையில் திரவமாக உள்ள உலோகம் எது?", "options": ["சோடியம்", "காலியம் மட்டும்", "காரீயம்", "பாதரசம்"], "explanation": "பெரும்பாலான உலோகங்கள் அறை வெப்பநிலையில் திண்மங்கள்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 144,
+      "quote": "Metals are typically hard, shiny, malleable (can be made as sheet), fusible and ductile (can be drawn into wire) with good electrical and thermal conductivity.",
+      "answer": "A",
+      "en": {"q": "The property of a metal that allows it to be drawn into wires is called", "options": ["ductility", "malleability", "fusibility", "brittleness"], "explanation": "Malleability is the property of being beaten into sheets."},
+      "ta": {"q": "ஓர் உலோகத்தைக் கம்பியாக இழுக்க உதவும் பண்பு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["கம்பியாகும் தன்மை", "தகடாகும் தன்மை", "உருகும் தன்மை", "நொறுங்கும் தன்மை"], "explanation": "தகடாகும் தன்மை என்பது அடித்துத் தகடாக்கக்கூடிய பண்பு."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 144,
+      "quote": "Elements which have the properties of both metals and non-metals are called as metalloids. (eg) Boron, Arsenic.",
+      "answer": "B",
+      "en": {"q": "Elements that have properties of both metals and non-metals, such as boron and arsenic, are called", "options": ["alloys", "metalloids", "noble gases", "halogens"], "explanation": "Silicon and germanium are other examples."},
+      "ta": {"q": "போரான், ஆர்செனிக் போல உலோக, அலோகப் பண்புகள் இரண்டும் உடைய தனிமங்கள் எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["உலோகக் கலவைகள்", "உலோகப்போலிகள்", "மந்த வாயுக்கள்", "ஹாலஜன்கள்"], "explanation": "சிலிக்கான், ஜெர்மானியம் பிற எடுத்துக்காட்டுகள்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 144,
+      "quote": "During 3500 BC(BCE), people used an alloy named `bronze'. The idea of making an alloy was quite old.",
+      "answer": "C",
+      "en": {"q": "According to the text, which alloy was used by people as early as 3500 BCE?", "options": ["Steel", "Brass", "Bronze", "Solder"], "explanation": "Most metallic substances used today are alloys."},
+      "ta": {"q": "பாடநூலின்படி கி.மு. 3500 அளவிலேயே மக்கள் பயன்படுத்திய உலோகக் கலவை எது?", "options": ["எஃகு", "பித்தளை", "வெண்கலம்", "பற்றாசு"], "explanation": "இன்று பயன்படும் பெரும்பாலான உலோகப் பொருள்கள் உலோகக் கலவைகள்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 145,
+      "quote": "Some alloys have lower melting point than pure metals (Example: Solder is an alloy of lead and tin which has lower melting point than each of the metals).",
+      "answer": "D",
+      "en": {"q": "Solder, an alloy with a lower melting point than its constituent metals, is made of", "options": ["copper and zinc", "copper and tin", "iron and carbon", "lead and tin"], "explanation": "Brass is copper and zinc."},
+      "ta": {"q": "தன் உட்கூறு உலோகங்களை விடக் குறைந்த உருகுநிலை உடைய உலோகக் கலவையான பற்றாசு எவற்றால் ஆனது?", "options": ["செம்பு, துத்தநாகம்", "செம்பு, வெள்ளீயம்", "இரும்பு, கார்பன்", "காரீயம், வெள்ளீயம்"], "explanation": "பித்தளை செம்பும் துத்தநாகமும்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 145,
+      "quote": "When metal is alloyed with mercury, it is called amalgam.",
+      "answer": "A",
+      "en": {"q": "An alloy of a metal with mercury is called", "options": ["an amalgam", "a solder", "a bronze", "a brass"], "explanation": "Mercury is the only metal liquid at room temperature."},
+      "ta": {"q": "பாதரசத்துடன் கலந்த உலோகக் கலவை எவ்வாறு அழைக்கப்படுகிறது?", "options": ["இரசக்கலவை", "பற்றாசு", "வெண்கலம்", "பித்தளை"], "explanation": "அறை வெப்பநிலையில் திரவமான ஒரே உலோகம் பாதரசம்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 145,
+      "quote": "They have less conductance than pure metals (Example: Copper is good conductor of heat and electricity where as brass and bronze are not good conductors).",
+      "answer": "B",
+      "en": {"q": "Which of the following is NOT an advantage of alloys mentioned in the text?", "options": ["They corrode less", "They conduct electricity better than pure metals", "They are harder and stronger", "Some have lower melting points"], "explanation": "Alloys generally have less conductance than pure metals."},
+      "ta": {"q": "பாடநூலில் குறிப்பிடப்படும் உலோகக் கலவைகளின் நன்மைகளில் இல்லாதது எது?", "options": ["அவை குறைவாக அரிக்கப்படும்", "அவை தூய உலோகங்களை விட மின்சாரத்தை நன்கு கடத்தும்", "அவை கடினமானவை, வலிமையானவை", "சிலவற்றின் உருகுநிலை குறைவு"], "explanation": "உலோகக் கலவைகளின் கடத்துதிறன் பொதுவாகத் தூய உலோகங்களை விடக் குறைவு."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 145,
+      "quote": "They are harder and stronger than pure metals (Example: Gold is mixed with copper and it is harder than pure gold).",
+      "answer": "C",
+      "en": {"q": "Gold used in jewellery is mixed with copper mainly to", "options": ["make it shinier", "make it softer", "make it harder and stronger", "make it a better conductor"], "explanation": "Alloys are harder and stronger than pure metals."},
+      "ta": {"q": "நகைகளுக்கான தங்கத்தில் செம்பு கலக்கப்படுவதற்கு முக்கியக் காரணம்", "options": ["மேலும் பளபளக்க", "மேலும் மென்மையாக்க", "கடினமாகவும் வலிமையாகவும் ஆக்க", "சிறந்த கடத்தியாக்க"], "explanation": "உலோகக் கலவைகள் தூய உலோகங்களை விடக் கடினமானவை, வலிமையானவை."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 143,
+      "quote": "One position for all isotopes of an element is justified, since the isotopes have the same atomic number.",
+      "answer": "D",
+      "en": {"q": "In the modern periodic table, all isotopes of an element occupy one position because they have the same", "options": ["mass number", "number of neutrons", "density", "atomic number"], "explanation": "The modern table is based on atomic number."},
+      "ta": {"q": "நவீன ஆவர்த்தன அட்டவணையில் ஒரு தனிமத்தின் எல்லா ஐசோடோப்புகளும் ஒரே இடத்தில் இருப்பதற்குக் காரணம் அவற்றுக்கு ஒரே", "options": ["நிறை எண்", "நியூட்ரான் எண்ணிக்கை", "அடர்த்தி", "அணு எண்"], "explanation": "நவீன அட்டவணை அணு எண் அடிப்படையிலானது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 143,
+      "quote": "The table completely separates metals from nonmetals. The nonmetals are present in upper right corners of the periodic table.",
+      "answer": "A",
+      "en": {"q": "In the modern periodic table, non-metals are found mainly in the", "options": ["upper right corner", "lower left corner", "centre", "bottom rows"], "explanation": "All non-metals are in the p-block."},
+      "ta": {"q": "நவீன ஆவர்த்தன அட்டவணையில் அலோகங்கள் முக்கியமாக எங்கு உள்ளன?", "options": ["மேல் வலது மூலை", "கீழ் இடது மூலை", "மையம்", "அடி வரிசைகள்"], "explanation": "எல்லா அலோகங்களும் p-தொகுப்பில் உள்ளன."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 140,
+      "quote": "Elements with large difference in properties were included in the same group. Eg: Hard metals like copper (Cu) and silver (Ag) were included along with soft metals like sodium (Na) and potassium (K).",
+      "answer": "B",
+      "en": {"q": "In Mendeleev's table, hard metals like copper and silver were placed in the same group as soft metals like", "options": ["iron and cobalt", "sodium and potassium", "gold and platinum", "calcium and barium"], "explanation": "This grouping of dissimilar elements was a limitation."},
+      "ta": {"q": "மெண்டலீவ் அட்டவணையில் செம்பு, வெள்ளி போன்ற கடின உலோகங்கள் எந்த மென்மையான உலோகங்களுடன் ஒரே தொகுதியில் வைக்கப்பட்டன?", "options": ["இரும்பு, கோபால்ட்", "சோடியம், பொட்டாசியம்", "தங்கம், பிளாட்டினம்", "கால்சியம், பேரியம்"], "explanation": "வேறுபட்ட தனிமங்களை ஒன்றாக வைத்தது ஒரு குறைபாடு."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 146,
+      "quote": "Statement: Elements in a group generally possess similar properties but elements along a period have different properties. Reason: The difference in electronic configuration makes the element differ in their chemical properties along a period.",
+      "answer": "C",
+      "en": {"q": "Elements along a period have different properties mainly because they differ in", "options": ["number of shells", "colour", "electronic configuration (valence electrons)", "state at room temperature"], "explanation": "Elements in a group have similar valence configurations and similar properties."},
+      "ta": {"q": "ஒரு வரிசையிலுள்ள தனிமங்கள் வேறுபட்ட பண்புகள் கொண்டிருப்பதற்கு முக்கியக் காரணம் அவை எதில் வேறுபடுகின்றன?", "options": ["கூடுகளின் எண்ணிக்கை", "நிறம்", "எலக்ட்ரான் அமைப்பு (இணைதிற எலக்ட்ரான்கள்)", "அறை வெப்பநிலையில் நிலை"], "explanation": "ஒரு தொகுதியிலுள்ள தனிமங்களின் இணைதிற அமைப்பு ஒத்திருப்பதால் பண்புகளும் ஒத்திருக்கின்றன."}
+    }
+  ]
+}
