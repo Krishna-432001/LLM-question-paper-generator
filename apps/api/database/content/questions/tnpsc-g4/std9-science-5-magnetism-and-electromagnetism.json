@@ -1,0 +1,259 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 9 Science Term-Full (English)",
+  "breadcrumb": "Std 9 Science (English) — Unit 5: Magnetism and Electromagnetism",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 52,
+      "quote": "The strongest natural magnet is lodestone magnetite. The magnetic property in the natural magnets is permanent. ... The lodestones were used to make compasses in the olden days.",
+      "answer": "A",
+      "en": {"q": "The strongest natural magnet, used to make compasses in olden days, is", "options": ["lodestone (magnetite)", "haematite", "bauxite", "galena"], "explanation": "The magnetic property of natural magnets is permanent."},
+      "ta": {"q": "பழங்காலத்தில் திசைகாட்டி செய்யப் பயன்பட்ட, மிக வலிமையான இயற்கைக் காந்தம் எது?", "options": ["காந்தக்கல் (மேக்னடைட்)", "ஹேமடைட்", "பாக்சைட்", "கலினா"], "explanation": "இயற்கைக் காந்தங்களின் காந்தப் பண்பு நிலையானது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 53,
+      "quote": "Thus, magnetic field is the region around the magnet where its magnetic influence can be felt. It is denoted by B and its unit is Tesla.",
+      "answer": "B",
+      "en": {"q": "The SI unit of magnetic field (magnetic induction) B is", "options": ["weber", "tesla", "gauss per metre", "henry"], "explanation": "The weber is the unit of magnetic flux."},
+      "ta": {"q": "காந்தப்புலத்தின் (காந்தத் தூண்டல்) B இன் SI அலகு எது?", "options": ["வெபர்", "டெஸ்லா", "காஸ்/மீட்டர்", "ஹென்றி"], "explanation": "வெபர் காந்தப் பாயத்தின் அலகு."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 53,
+      "quote": "Magnetic flux is the number of magnetic field lines passing through a given area. It is denoted by Φ and its unit is weber (Wb).",
+      "answer": "C",
+      "en": {"q": "The number of magnetic field lines passing through a given area is called", "options": ["magnetic field", "magnetic moment", "magnetic flux", "magnetic pole"], "explanation": "Magnetic flux Φ is measured in weber (Wb)."},
+      "ta": {"q": "கொடுக்கப்பட்ட பரப்பின் வழியே செல்லும் காந்தப்புலக் கோடுகளின் எண்ணிக்கை எவ்வாறு அழைக்கப்படுகிறது?", "options": ["காந்தப்புலம்", "காந்தத் திருப்புத்திறன்", "காந்தப் பாயம்", "காந்த முனை"], "explanation": "காந்தப் பாயம் Φ வெபரில் (Wb) அளக்கப்படுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 53,
+      "quote": "The number of magnetic field lines crossing unit area kept normal to the direction of field lines is called magnetic flux density. ... Its unit is Wb/m2",
+      "answer": "D",
+      "en": {"q": "The unit of magnetic flux density is", "options": ["weber", "weber/metre", "weber·metre²", "weber/metre²"], "explanation": "It is the number of field lines crossing a unit area held normal to them."},
+      "ta": {"q": "காந்தப் பாய அடர்த்தியின் அலகு எது?", "options": ["வெபர்", "வெபர்/மீட்டர்", "வெபர்·மீட்டர்²", "வெபர்/மீட்டர்²"], "explanation": "இது புலக் கோடுகளுக்குச் செங்குத்தான ஓரலகுப் பரப்பைக் கடக்கும் கோடுகளின் எண்ணிக்கை."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 54,
+      "quote": "Magnetic lines of force are closed, continuous curves, extending through the body of the magnet. Magnetic lines of force start from the North Pole and end at the South Pole. Magnetic lines of force never intersect. The Magnetic field strength will be maximum at the poles than at the equator.",
+      "answer": "A",
+      "en": {"q": "Which of the following is NOT a property of magnetic lines of force?", "options": ["They intersect each other near the poles", "They are closed continuous curves", "Outside the magnet they start at the north pole and end at the south pole", "The field is strongest at the poles"], "explanation": "Magnetic lines of force never intersect."},
+      "ta": {"q": "பின்வருவனவற்றுள் காந்த விசைக் கோடுகளின் பண்பு அல்லாதது எது?", "options": ["அவை முனைகளுக்கு அருகில் ஒன்றையொன்று வெட்டும்", "அவை மூடிய தொடர் வளைகோடுகள்", "காந்தத்துக்கு வெளியே அவை வட முனையில் தொடங்கித் தென் முனையில் முடியும்", "புலம் முனைகளில் வலிமை மிக்கது"], "explanation": "காந்த விசைக் கோடுகள் ஒருபோதும் வெட்டிக்கொள்வதில்லை."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 53,
+      "quote": "Some sea turtles (loggerhead sea turtle) return to their birth beach many decades after they were born, to nest and lay eggs. In a research, it is suggested that the turtles can perceive variations in magnetic parameters of Earth",
+      "answer": "B",
+      "en": {"q": "According to the text, loggerhead sea turtles return to their birth beach decades later by sensing", "options": ["sea temperature", "the Earth's magnetic field", "moonlight", "the smell of sand"], "explanation": "They perceive and remember variations in the Earth's magnetic field intensity."},
+      "ta": {"q": "பாடநூலின்படி லாகர்ஹெட் கடலாமைகள் பல பத்தாண்டுகள் கழித்துத் தாம் பிறந்த கடற்கரைக்கு எதை உணர்ந்து திரும்புகின்றன?", "options": ["கடல் வெப்பநிலை", "புவியின் காந்தப்புலம்", "நிலவொளி", "மணலின் மணம்"], "explanation": "அவை புவிக் காந்தப்புலச் செறிவின் மாறுபாடுகளை உணர்ந்து நினைவில் வைக்கின்றன."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 54,
+      "quote": "It was on 21st April 1820, Hans Christian Oersted, a Danish Physicist was giving a lecture. ... Accidentally, he noticed the needle of the magnetic compass that was on the table. It deflected whenever he switched on and the current was flowing through the wire.",
+      "answer": "C",
+      "en": {"q": "Hans Christian Oersted, who discovered the magnetic effect of current in 1820, was a", "options": ["British chemist", "German mathematician", "Danish physicist", "French engineer"], "explanation": "He noticed a compass needle deflect whenever current flowed in a wire."},
+      "ta": {"q": "1820இல் மின்னோட்டத்தின் காந்த விளைவைக் கண்டறிந்த ஹான்ஸ் கிறிஸ்டியன் ஆர்ஸ்டெட் யார்?", "options": ["பிரிட்டிஷ் வேதியியலாளர்", "ஜெர்மானியக் கணிதவியலாளர்", "டேனிஷ் இயற்பியலாளர்", "பிரெஞ்சுப் பொறியாளர்"], "explanation": "கம்பியில் மின்னோட்டம் பாயும்போதெல்லாம் திசைகாட்டி ஊசி விலகுவதை அவர் கவனித்தார்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 54,
+      "quote": "Hold the wire with four fingers of your right hand with thumbs-up position. If the direction of the current is towards the thumb then the magnetic lines curl in the same direction as your other four fingers",
+      "answer": "D",
+      "en": {"q": "The direction of magnetic field lines around a straight current-carrying wire is given by", "options": ["Fleming's left hand rule", "Fleming's right hand rule", "Lenz's law", "the right hand thumb rule"], "explanation": "The thumb points along the current and the curled fingers show the field."},
+      "ta": {"q": "மின்னோட்டம் பாயும் நேர்க்கம்பியைச் சுற்றியுள்ள காந்தப்புலக் கோடுகளின் திசையைத் தருவது எது?", "options": ["பிளெமிங் இடக்கை விதி", "பிளெமிங் வலக்கை விதி", "லென்ஸ் விதி", "வலக்கைப் பெருவிரல் விதி"], "explanation": "பெருவிரல் மின்னோட்டத் திசையையும் மடங்கிய விரல்கள் புலத்தையும் காட்டும்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 54,
+      "quote": "The strength of the magnetic field at a point due to current carrying wire depends on: (i) the current in the wire, (ii) distance of the point from the wire, (iii) the orientation of the point from the wire and (iv) the magnetic nature of the medium.",
+      "answer": "A",
+      "en": {"q": "The strength of the magnetic field at a point due to a current-carrying wire does NOT depend on", "options": ["the colour of the wire's insulation", "the current in the wire", "the distance of the point from the wire", "the magnetic nature of the medium"], "explanation": "The field is stronger near the wire and weaker farther away."},
+      "ta": {"q": "மின்னோட்டம் பாயும் கம்பியால் ஒரு புள்ளியிலுள்ள காந்தப்புல வலிமை எதைச் சார்ந்திருப்பதில்லை?", "options": ["கம்பிக் காப்புறையின் நிறம்", "கம்பியிலுள்ள மின்னோட்டம்", "கம்பியிலிருந்து புள்ளியின் தொலைவு", "ஊடகத்தின் காந்தத் தன்மை"], "explanation": "புலம் கம்பிக்கு அருகில் வலிமையாகவும் விலகிச் செல்லச் செல்ல வலுவிழந்தும் இருக்கும்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 55,
+      "quote": "H.A.Lorentz found that a charge moving in a magnetic field, in a direction other than the direction of magnetic field, experiences a force. It is called the magnetic Lorentz force.",
+      "answer": "B",
+      "en": {"q": "The force on a charge moving in a magnetic field (in a direction other than the field) is called the", "options": ["Coulomb force", "magnetic Lorentz force", "centripetal force", "buoyant force"], "explanation": "It was found by H.A. Lorentz."},
+      "ta": {"q": "காந்தப்புலத்தில் (புலத் திசை அல்லாத திசையில்) நகரும் மின்னூட்டம் உணரும் விசை எவ்வாறு அழைக்கப்படுகிறது?", "options": ["கூலும் விசை", "காந்த லாரன்ஸ் விசை", "மையநோக்கு விசை", "மிதப்பு விசை"], "explanation": "இதைக் கண்டறிந்தவர் எச்.ஏ. லாரன்ஸ்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 55,
+      "quote": "In 1821, Michael Faraday discovered that a current carrying conductor also gets deflected when it is placed in a magnetic field.",
+      "answer": "C",
+      "en": {"q": "Who discovered in 1821 that a current-carrying conductor gets deflected when placed in a magnetic field?", "options": ["Oersted", "Lorentz", "Michael Faraday", "Fleming"], "explanation": "The fields of the magnet and the conductor interact to produce a force."},
+      "ta": {"q": "மின்னோட்டம் பாயும் கடத்தி காந்தப்புலத்தில் வைக்கப்படும்போது விலகுகிறது என்று 1821இல் கண்டறிந்தவர் யார்?", "options": ["ஆர்ஸ்டெட்", "லாரன்ஸ்", "மைக்கேல் ஃபாரடே", "பிளெமிங்"], "explanation": "காந்தத்தின் புலமும் கடத்தியின் புலமும் இடைவினைபுரிந்து விசையை உருவாக்குகின்றன."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 56,
+      "quote": "When the conductor is perpendicular to the magnetic field, the force will be maximum (=BIL). When it is parallel to the magnetic field, the force will be zero.",
+      "answer": "D",
+      "en": {"q": "The force on a current-carrying conductor in a magnetic field is zero when the conductor is", "options": ["perpendicular to the field", "at 45° to the field", "carrying maximum current", "parallel to the field"], "explanation": "The force is maximum (F = BIL) when the conductor is perpendicular to the field."},
+      "ta": {"q": "காந்தப்புலத்திலுள்ள மின்னோட்டக் கடத்தியின் மீதான விசை எப்போது சுழியாகும்?", "options": ["புலத்துக்குச் செங்குத்தாக இருக்கும்போது", "புலத்துக்கு 45° இல் இருக்கும்போது", "பெரும மின்னோட்டம் பாயும்போது", "புலத்துக்கு இணையாக இருக்கும்போது"], "explanation": "கடத்தி புலத்துக்குச் செங்குத்தாக இருக்கும்போது விசை பெருமம் (F = BIL)."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 56,
+      "quote": "A conductor of length 50 cm carrying a current of 5 A is placed perpendicular to a magnetic field of induction 2×10-3 T. Find the force on the conductor. Solution: Force on the conductor = ILB = 5 × 50 × 10-2 × 2 ×10-3 = 5 × 10-3 N",
+      "answer": "A",
+      "en": {"q": "A 50 cm conductor carrying 5 A is placed perpendicular to a magnetic field of 2 × 10⁻³ T. The force on it is", "options": ["5 × 10⁻³ N", "5 × 10⁻¹ N", "500 N", "2 × 10⁻³ N"], "explanation": "F = ILB = 5 × 0.5 × 2 × 10⁻³ = 5 × 10⁻³ N."},
+      "ta": {"q": "5 A மின்னோட்டம் பாயும் 50 செ.மீ கடத்தி 2 × 10⁻³ T காந்தப்புலத்துக்குச் செங்குத்தாக வைக்கப்படுகிறது. அதன் மீதான விசை எவ்வளவு?", "options": ["5 × 10⁻³ N", "5 × 10⁻¹ N", "500 N", "2 × 10⁻³ N"], "explanation": "F = ILB = 5 × 0.5 × 2 × 10⁻³ = 5 × 10⁻³ N."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 56,
+      "quote": "What will be the force if the current is increased four times, length is halved and magnetic field is tripled? Solution: F = I L B = (4I) × ( L/2) × (3 B) = 6 F",
+      "answer": "B",
+      "en": {"q": "A conductor perpendicular to a magnetic field feels a force F. If the current is made four times, the length halved and the field tripled, the new force is", "options": ["12F", "6F", "3F", "2F"], "explanation": "F = ILB, so (4I)(L/2)(3B) = 6F."},
+      "ta": {"q": "காந்தப்புலத்துக்குச் செங்குத்தான கடத்தி F விசையை உணர்கிறது. மின்னோட்டம் நான்கு மடங்காகி, நீளம் பாதியாகி, புலம் மூன்று மடங்கானால் புதிய விசை என்ன?", "options": ["12F", "6F", "3F", "2F"], "explanation": "F = ILB; (4I)(L/2)(3B) = 6F."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 56,
+      "quote": "if the direction of the current is denoted by the middle finger of the left hand and the second finger is for direction of the magnetic field, then the thumb of the left hand denotes the direction of the force or movement of the conductor",
+      "answer": "C",
+      "en": {"q": "In Fleming's left hand rule, the thumb indicates the direction of", "options": ["current", "magnetic field", "force or motion of the conductor", "induced e.m.f."], "explanation": "The forefinger shows the field and the middle finger the current."},
+      "ta": {"q": "பிளெமிங் இடக்கை விதியில் பெருவிரல் எதன் திசையைக் காட்டுகிறது?", "options": ["மின்னோட்டம்", "காந்தப்புலம்", "கடத்தியின் விசை அல்லது இயக்கம்", "தூண்டப்பட்ட மின்னியக்கு விசை"], "explanation": "சுட்டுவிரல் புலத்தையும் நடுவிரல் மின்னோட்டத்தையும் காட்டும்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 57,
+      "quote": "the direction of the force on each wire would be towards each other when the current in both of them are flowing in the same direction, i.e., the wires would experience an attractive force. However, if the direction of the flow of current is in opposite direction, then the force on each of the wire will be in opposite direction.",
+      "answer": "D",
+      "en": {"q": "Two parallel wires carry current in the same direction. They will", "options": ["repel each other", "feel no force", "rotate", "attract each other"], "explanation": "Wires with currents in opposite directions repel each other."},
+      "ta": {"q": "இரு இணைக் கம்பிகளில் ஒரே திசையில் மின்னோட்டம் பாய்கிறது. அவை என்ன செய்யும்?", "options": ["ஒன்றையொன்று விலக்கும்", "விசை உணராது", "சுழலும்", "ஒன்றையொன்று ஈர்க்கும்"], "explanation": "எதிர்த் திசைகளில் மின்னோட்டம் பாயும் கம்பிகள் ஒன்றையொன்று விலக்கும்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 57,
+      "quote": "Only in the twentieth century, we understood that the magnetic property arises due to the motion of electrons in the lodestone.",
+      "answer": "A",
+      "en": {"q": "According to the text, the magnetic property of a lodestone arises from", "options": ["the motion of electrons around the nucleus", "electric current from a battery", "neutrons in the nucleus", "the iron's colour"], "explanation": "Each orbiting electron acts like a tiny current loop."},
+      "ta": {"q": "பாடநூலின்படி காந்தக்கல்லின் காந்தப் பண்பு எதனால் தோன்றுகிறது?", "options": ["உட்கருவைச் சுற்றும் எலக்ட்ரான்களின் இயக்கம்", "மின்கலத்திலிருந்து வரும் மின்னோட்டம்", "உட்கருவிலுள்ள நியூட்ரான்கள்", "இரும்பின் நிறம்"], "explanation": "சுற்றும் ஒவ்வொரு எலக்ட்ரானும் ஒரு சிறு மின்னோட்டச் சுற்றுபோலச் செயல்படுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 58,
+      "quote": "An electric motor is a device which converts electrical energy into mechanical energy. Electric motors are crucial in modern life. They are used in water pump, fan, washing machine, grinder etc.",
+      "answer": "B",
+      "en": {"q": "Which device converts electrical energy into mechanical energy?", "options": ["Generator", "Electric motor", "Battery", "Transformer"], "explanation": "Motors are used in fans, water pumps, washing machines and grinders."},
+      "ta": {"q": "மின்னாற்றலை இயந்திர ஆற்றலாக மாற்றும் கருவி எது?", "options": ["மின்னியற்றி", "மின் மோட்டார்", "மின்கலம்", "மின்மாற்றி"], "explanation": "மின்விசிறி, நீரேற்றி, சலவை இயந்திரம், அரவை இயந்திரங்களில் மோட்டார் பயன்படுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 58,
+      "quote": "To change the direction of the current, a small device called split ring commutator is used.",
+      "answer": "C",
+      "en": {"q": "In a dc electric motor, the device that reverses the direction of current in the coil every half rotation is the", "options": ["slip ring", "armature", "split ring commutator", "field magnet"], "explanation": "This keeps the coil rotating continuously in one direction."},
+      "ta": {"q": "dc மின் மோட்டாரில் ஒவ்வொரு அரைச் சுழற்சியிலும் சுருளில் மின்னோட்டத் திசையை மாற்றும் கருவி எது?", "options": ["நழுவு வளையம்", "சுழலி (ஆர்மேச்சர்)", "பிளவு வளைய திசைமாற்றி", "புலக் காந்தம்"], "explanation": "இது சுருள் ஒரே திசையில் தொடர்ந்து சுழல உதவுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 59,
+      "quote": "The speed of rotation of coil can be increased by: i. increasing the strength of current in the coil. ii. increasing the number of turns in the coil. iii. increasing the area of the coil and iv. increasing the strength of the magnetic field.",
+      "answer": "D",
+      "en": {"q": "The speed of rotation of an electric motor can be increased by", "options": ["decreasing the area of the coil", "decreasing the current", "reducing the number of turns", "increasing the strength of the magnetic field"], "explanation": "More current, more turns, a larger coil area and a stronger field all increase speed."},
+      "ta": {"q": "மின் மோட்டாரின் சுழற்சி வேகத்தை எவ்வாறு அதிகரிக்கலாம்?", "options": ["சுருளின் பரப்பைக் குறைத்து", "மின்னோட்டத்தைக் குறைத்து", "சுற்றுகளின் எண்ணிக்கையைக் குறைத்து", "காந்தப்புல வலிமையை அதிகரித்து"], "explanation": "அதிக மின்னோட்டம், அதிகச் சுற்றுகள், பெரிய சுருள் பரப்பு, வலிமையான புலம் அனைத்தும் வேகத்தை அதிகரிக்கும்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 59,
+      "quote": "In 1831, Michael Faraday explained the possibility of producing an e.m.f across the conductor when the magnetic flux linked with the conductor is changed.",
+      "answer": "A",
+      "en": {"q": "Electromagnetic induction was explained by Michael Faraday in", "options": ["1831", "1820", "1821", "1867"], "explanation": "An e.m.f. is induced when the magnetic flux linked with a conductor changes."},
+      "ta": {"q": "மைக்கேல் ஃபாரடே மின்காந்தத் தூண்டலை விளக்கிய ஆண்டு எது?", "options": ["1831", "1820", "1821", "1867"], "explanation": "கடத்தியுடன் இணைந்த காந்தப் பாயம் மாறும்போது மின்னியக்கு விசை தூண்டப்படுகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 59,
+      "quote": "whenever there is a change in the magnetic flux linked with a closed circuit an emf is produced and the amount of emf induced varies directly as the rate at which the flux changes. This emf is known as induced emf and the phenomenon ... is known as electromagnetic induction.",
+      "answer": "B",
+      "en": {"q": "The production of an induced e.m.f. due to a change in magnetic flux linked with a closed circuit is called", "options": ["electrolysis", "electromagnetic induction", "magnetic effect of current", "Joule heating"], "explanation": "The induced e.m.f. varies directly with the rate of change of flux."},
+      "ta": {"q": "மூடிய சுற்றுடன் இணைந்த காந்தப் பாயம் மாறுவதால் மின்னியக்கு விசை தூண்டப்படுவது எவ்வாறு அழைக்கப்படுகிறது?", "options": ["மின்னாற்பகுப்பு", "மின்காந்தத் தூண்டல்", "மின்னோட்டத்தின் காந்த விளைவு", "ஜூல் வெப்பமாதல்"], "explanation": "தூண்டப்பட்ட மின்னியக்கு விசை பாய மாற்ற வீதத்துக்கு நேர்விகிதத்தில் இருக்கும்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 59,
+      "quote": "The direction of the induced current was given by Lenz's law, which states that the induced current in the coil flows in such a direction as to oppose the change that causes it.",
+      "answer": "C",
+      "en": {"q": "According to Lenz's law, the induced current flows in a direction that", "options": ["supports the change causing it", "is always clockwise", "opposes the change causing it", "is parallel to the magnetic field"], "explanation": "Its direction can also be found by Fleming's right hand rule."},
+      "ta": {"q": "லென்ஸ் விதியின்படி தூண்டப்பட்ட மின்னோட்டம் எந்தத் திசையில் பாயும்?", "options": ["அதை உருவாக்கும் மாற்றத்துக்கு உதவும் திசையில்", "எப்போதும் கடிகாரச் சுற்றில்", "அதை உருவாக்கும் மாற்றத்தை எதிர்க்கும் திசையில்", "காந்தப்புலத்துக்கு இணையாக"], "explanation": "அதன் திசையைப் பிளெமிங் வலக்கை விதியாலும் கண்டறியலாம்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 60,
+      "quote": "If the fore finger indicates the direction of magnetic field and the thumb indicates the direction of motion of the conductor, then the middle finger will indicate the direction of induced current. Fleming's Right hand rule is also called 'generator rule'.",
+      "answer": "D",
+      "en": {"q": "Fleming's right hand rule is also called the", "options": ["motor rule", "thumb rule", "corkscrew rule", "generator (dynamo) rule"], "explanation": "Its middle finger gives the direction of the induced current."},
+      "ta": {"q": "பிளெமிங் வலக்கை விதி வேறு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["மோட்டார் விதி", "பெருவிரல் விதி", "திருகு விதி", "மின்னியற்றி (டைனமோ) விதி"], "explanation": "அதன் நடுவிரல் தூண்டப்பட்ட மின்னோட்டத் திசையைத் தருகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 60,
+      "quote": "Michael Faraday (22nd Sep,1791–25th Aug, 1867) was a British Scientist who contributed to the study of electromagnetism and electrochemistry. His main discoveries include the principles underlying electromagnetic induction, diamagnetism and electrolysis.",
+      "answer": "A",
+      "en": {"q": "Which of the following is NOT listed among Michael Faraday's main discoveries?", "options": ["Radioactivity", "Electromagnetic induction", "Diamagnetism", "Electrolysis"], "explanation": "Faraday was a British scientist in electromagnetism and electrochemistry."},
+      "ta": {"q": "பின்வருவனவற்றுள் மைக்கேல் ஃபாரடேயின் முக்கியக் கண்டுபிடிப்புகளில் குறிப்பிடப்படாதது எது?", "options": ["கதிரியக்கம்", "மின்காந்தத் தூண்டல்", "டயாகாந்தவியல்", "மின்னாற்பகுப்பு"], "explanation": "ஃபாரடே மின்காந்தவியல், மின்வேதியியலில் பங்களித்த பிரிட்டிஷ் அறிவியலாளர்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 60,
+      "quote": "An alternating current (AC) generator ... consists of a rotating rectangular coil ABCD called armature placed between the two poles of a permanent magnet. The two ends of this coil are connected to two slip rings S1 and S2.",
+      "answer": "B",
+      "en": {"q": "In an AC generator, the ends of the armature coil are connected to", "options": ["a split ring commutator", "slip rings", "a rheostat", "a fuse"], "explanation": "A DC generator uses a split ring commutator instead."},
+      "ta": {"q": "ac மின்னியற்றியில் சுழலிச் சுருளின் முனைகள் எவற்றுடன் இணைக்கப்படுகின்றன?", "options": ["பிளவு வளைய திசைமாற்றி", "நழுவு வளையங்கள்", "மின்தடை மாற்றி", "உருகி"], "explanation": "dc மின்னியற்றி அதற்குப் பதில் பிளவு வளைய திசைமாற்றியைப் பயன்படுத்துகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 63,
+      "quote": "Electric generator is a device used to convert mechanical energy into electrical energy. Electric generator works on the principle of electromagnetic induction.",
+      "answer": "C",
+      "en": {"q": "An electric generator converts", "options": ["electrical energy into mechanical energy", "chemical energy into electrical energy", "mechanical energy into electrical energy", "heat energy into light"], "explanation": "It works on the principle of electromagnetic induction."},
+      "ta": {"q": "மின்னியற்றி எதை எதுவாக மாற்றுகிறது?", "options": ["மின்னாற்றலை இயந்திர ஆற்றலாக", "வேதி ஆற்றலை மின்னாற்றலாக", "இயந்திர ஆற்றலை மின்னாற்றலாக", "வெப்ப ஆற்றலை ஒளியாக"], "explanation": "இது மின்காந்தத் தூண்டல் தத்துவத்தில் இயங்குகிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 61,
+      "quote": "A transformer cannot be used with the direct current (DC) source because, current in the primary coil is constant (ie. DC). Then there will be no change in the number of magnetic field lines linked with the secondary coil and hence no emf will be induced in the secondary coil.",
+      "answer": "D",
+      "en": {"q": "A transformer works on", "options": ["DC only", "both AC and DC", "neither AC nor DC", "AC only"], "explanation": "With DC the flux does not change, so no e.m.f. is induced in the secondary."},
+      "ta": {"q": "மின்மாற்றி எதில் இயங்கும்?", "options": ["dc-இல் மட்டும்", "ac, dc இரண்டிலும்", "இரண்டிலும் இல்லை", "ac-இல் மட்டும்"], "explanation": "dc-இல் பாயம் மாறாததால் துணைச் சுருளில் மின்னியக்கு விசை தூண்டப்படுவதில்லை."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 61,
+      "quote": "Step up transformer: The transformer used to change a low alternativing voltage to a high alternating voltage is called a step up transformer. ie Vs > Vp. In a step up transformer, the number of turns in the secondary coil is more than the number of turns in the primary coil (Ns > Np).",
+      "answer": "A",
+      "en": {"q": "In a step-up transformer,", "options": ["the secondary coil has more turns than the primary", "the primary coil has more turns than the secondary", "both coils have equal turns", "the current increases along with voltage"], "explanation": "A step-up transformer increases voltage but decreases current."},
+      "ta": {"q": "ஏற்றுமின்மாற்றியில்", "options": ["துணைச் சுருளில் முதன்மைச் சுருளை விட அதிகச் சுற்றுகள்", "முதன்மைச் சுருளில் துணைச் சுருளை விட அதிகச் சுற்றுகள்", "இரு சுருள்களிலும் சம சுற்றுகள்", "மின்னழுத்தத்துடன் மின்னோட்டமும் அதிகரிக்கும்"], "explanation": "ஏற்றுமின்மாற்றி மின்னழுத்தத்தை அதிகரித்து மின்னோட்டத்தைக் குறைக்கிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 62,
+      "quote": "The primary coil of a transformer has 800 turns and the secondary coil has 8 turns. It is connected to a 220 V ac supply. What will be the output voltage? ... = 8/800 × 220 = 220/100 = 2.2 volt",
+      "answer": "B",
+      "en": {"q": "A transformer has 800 turns in the primary and 8 turns in the secondary, connected to a 220 V ac supply. The output voltage is", "options": ["22,000 V", "2.2 V", "22 V", "0.22 V"], "explanation": "Es = (Ns/Np) × Ep = (8/800) × 220 = 2.2 V."},
+      "ta": {"q": "மின்மாற்றியின் முதன்மைச் சுருளில் 800, துணைச் சுருளில் 8 சுற்றுகள்; அது 220 V ac உடன் இணைக்கப்பட்டுள்ளது. வெளியீட்டு மின்னழுத்தம் என்ன?", "options": ["22,000 V", "2.2 V", "22 V", "0.22 V"], "explanation": "Es = (Ns/Np) × Ep = (8/800) × 220 = 2.2 V."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 64,
+      "quote": "7. A portable radio has a built in transformer so that it can work from the mains instead of batteries. Is this a step up or step down transformer? Give reason.",
+      "answer": "C",
+      "en": {"q": "A portable radio has a built-in transformer so it can run on the 220 V mains instead of low-voltage batteries. This transformer is", "options": ["a step-up transformer", "not a transformer", "a step-down transformer", "a DC generator"], "explanation": "It must lower the mains voltage to the radio's low working voltage."},
+      "ta": {"q": "கையடக்க வானொலி குறைந்த மின்னழுத்த மின்கலங்களுக்குப் பதில் 220 V வீட்டு மின்சாரத்தில் இயங்க உள்ளமைந்த மின்மாற்றியைக் கொண்டுள்ளது. அது எவ்வகை?", "options": ["ஏற்றுமின்மாற்றி", "மின்மாற்றி அல்ல", "இறக்குமின்மாற்றி", "dc மின்னியற்றி"], "explanation": "அது வீட்டு மின்னழுத்தத்தை வானொலியின் குறைந்த மின்னழுத்தத்துக்குக் குறைக்க வேண்டும்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 62,
+      "quote": "Inside the speaker, an electromagnet is placed in front of a permanent magnet. The permanent magnet is fixed firmly in position whereas the electromagnet is mobile.",
+      "answer": "D",
+      "en": {"q": "Inside a loudspeaker, which part is mobile and vibrates to produce sound?", "options": ["The permanent magnet", "The iron casing", "The plastic stand", "The electromagnet attached to a cone"], "explanation": "Changing current makes the electromagnet attract and repel the fixed permanent magnet."},
+      "ta": {"q": "ஒலிபெருக்கியினுள் ஒலியை உருவாக்க அதிர்வுறும் நகரும் பகுதி எது?", "options": ["நிலைக் காந்தம்", "இரும்பு உறை", "பிளாஸ்டிக் தாங்கி", "கூம்புடன் இணைந்த மின்காந்தம்"], "explanation": "மாறும் மின்னோட்டம் மின்காந்தத்தை நிலைக் காந்தத்தால் ஈர்க்கவும் விலக்கவும் செய்கிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 62,
+      "quote": "Magnetic levitation (Maglev) is a method by which an object is suspended with no support other than magnetic fields. In maglev trains two sets of magnets are used, one set to repel and push the train up off the track, then another set to move the floating train ahead at great speed without friction.",
+      "answer": "A",
+      "en": {"q": "Maglev trains move at great speed mainly because", "options": ["they float on magnetic fields without friction with the track", "they use jet engines", "they run on steel wheels", "they use steam power"], "explanation": "One set of magnets lifts the train and another pushes it ahead."},
+      "ta": {"q": "மேக்லெவ் இரயில்கள் அதிவேகத்தில் செல்வதற்கு முக்கியக் காரணம் என்ன?", "options": ["அவை தண்டவாளத்துடன் உராய்வின்றிக் காந்தப்புலத்தில் மிதக்கின்றன", "அவை ஜெட் இயந்திரம் பயன்படுத்துகின்றன", "அவை எஃகுச் சக்கரங்களில் ஓடுகின்றன", "அவை நீராவி ஆற்றல் பயன்படுத்துகின்றன"], "explanation": "ஒரு தொகுதிக் காந்தங்கள் இரயிலைத் தூக்கவும் மற்றொரு தொகுதி முன்னே தள்ளவும் செய்கின்றன."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 62,
+      "quote": "Nowadays electromagnetic fields play a key role in advanced medical equipments such as hyperthermia treatments for cancer, implants and magnetic resonance imaging (MRI).",
+      "answer": "B",
+      "en": {"q": "In medical equipment, MRI stands for", "options": ["Magnetic Radio Imaging", "Magnetic Resonance Imaging", "Medical Ray Instrument", "Micro Resonance Indicator"], "explanation": "MRI uses electromagnetism to image the internal parts of the body."},
+      "ta": {"q": "மருத்துவக் கருவியான MRI என்பதன் விரிவு என்ன?", "options": ["Magnetic Radio Imaging", "Magnetic Resonance Imaging", "Medical Ray Instrument", "Micro Resonance Indicator"], "explanation": "MRI மின்காந்தவியல் மூலம் உடலின் உள்ளுறுப்புகளைப் படமெடுக்கிறது."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "match_the_following", "difficulty": "medium", "bloom": "remember", "page": 64,
+      "quote": "1. Magnetic material (a) Oersted 2. Non-magnetic material (b) Iron 3. Current and magnetism (c) Induction 4. Electromagnetic induction (d) Wood (e) Faraday",
+      "answer": "C",
+      "en": {"q": "Match the following:\na) Magnetic material\nb) Non-magnetic material\nc) Current and magnetism\nd) Electromagnetic induction\n1. Oersted\n2. Faraday\n3. Iron\n4. Wood", "options": ["a-4, b-3, c-1, d-2", "a-3, b-4, c-2, d-1", "a-3, b-4, c-1, d-2", "a-1, b-4, c-3, d-2"], "explanation": "Iron is magnetic, wood is not; Oersted linked current and magnetism; Faraday discovered induction."},
+      "ta": {"q": "பொருத்துக:\na) காந்தப் பொருள்\nb) காந்தமல்லாப் பொருள்\nc) மின்னோட்டமும் காந்தவியலும்\nd) மின்காந்தத் தூண்டல்\n1. ஆர்ஸ்டெட்\n2. ஃபாரடே\n3. இரும்பு\n4. மரம்", "options": ["a-4, b-3, c-1, d-2", "a-3, b-4, c-2, d-1", "a-3, b-4, c-1, d-2", "a-1, b-4, c-3, d-2"], "explanation": "இரும்பு காந்தப் பொருள், மரம் அல்ல; ஆர்ஸ்டெட் மின்னோட்டத்தையும் காந்தவியலையும் இணைத்தார்; ஃபாரடே தூண்டலைக் கண்டறிந்தார்."}
+    },
+    {
+      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 57,
+      "quote": "Before 18th century people thought that magnetism and electricity were separate subjects of study. After Oersted's experiment the electricity and magnetism were united and became a single subject called `Electromagnetism'.",
+      "answer": "D",
+      "en": {"q": "After whose experiment were electricity and magnetism united into a single subject called electromagnetism?", "options": ["Newton", "Torricelli", "Archimedes", "Oersted"], "explanation": "His experiment showed a current-carrying conductor behaves like a magnet."},
+      "ta": {"q": "யாருடைய சோதனைக்குப் பின் மின்சாரமும் காந்தவியலும் இணைந்து மின்காந்தவியல் என்ற ஒரே பாடமாயின?", "options": ["நியூட்டன்", "டாரிசெல்லி", "ஆர்க்கிமிடிஸ்", "ஆர்ஸ்டெட்"], "explanation": "மின்னோட்டம் பாயும் கடத்தி காந்தம்போலச் செயல்படுவதை அவரது சோதனை காட்டியது."}
+    }
+  ]
+}
