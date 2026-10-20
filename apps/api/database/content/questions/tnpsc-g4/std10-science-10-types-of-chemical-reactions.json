@@ -1,0 +1,350 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 10 Science Term-Full (English)",
+  "breadcrumb": "Std 10 Science (English) — Unit 10: Types of Chemical Reactions",
+  "questions": [
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 138,
+      "quote": "Old chemical bonds between atoms are broken and new chemical bonds are formed. Bond breaking absorbs energy whereas bond formation releases energy",
+      "answer": "A",
+      "en": {"q": "In a chemical reaction, bond breaking", "options": ["absorbs energy while bond formation releases energy", "releases energy while bond formation absorbs energy", "neither absorbs nor releases energy", "always produces light"], "explanation": "Atoms are rearranged to form new molecules."},
+      "ta": {"q": "வேதிவினையில் பிணைப்பு உடைதல்", "options": ["ஆற்றலை உறிஞ்சும்; பிணைப்பு உருவாதல் ஆற்றலை வெளியிடும்", "ஆற்றலை வெளியிடும்; பிணைப்பு உருவாதல் ஆற்றலை உறிஞ்சும்", "ஆற்றலை உறிஞ்சவோ வெளியிடவோ செய்யாது", "எப்போதும் ஒளியை உருவாக்கும்"], "explanation": "அணுக்கள் மறுசீரமைக்கப்பட்டுப் புதிய மூலக்கூறுகள் உருவாகின்றன."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 138,
+      "quote": "the law of conservation of matter states that matter cannot be created or destroyed. ... So, in a chemical equation, the number of atoms of the reactants and that of the products must be equal.",
+      "answer": "B",
+      "en": {"q": "A chemical equation must be balanced because of the law of", "options": ["definite proportions", "conservation of matter", "multiple proportions", "mass action"], "explanation": "Matter cannot be created or destroyed, so atom counts must be equal on both sides."},
+      "ta": {"q": "வேதிச் சமன்பாடு சமன்செய்யப்பட வேண்டியது எந்த விதியால்?", "options": ["மாறா விகித விதி", "பொருள் அழியா விதி", "பெருக்கல் விகித விதி", "நிறை வினை விதி"], "explanation": "பொருளை உருவாக்கவோ அழிக்கவோ இயலாது; எனவே இருபுறமும் அணு எண்ணிக்கை சமமாக இருக்க வேண்டும்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 138,
+      "quote": "Symbol Phase or physical state s Solid l Liquid g Gas aq Aqueous Solution",
+      "answer": "C",
+      "en": {"q": "In a chemical equation, the symbol '(aq)' indicates", "options": ["a gas", "a liquid", "an aqueous solution", "a solid"], "explanation": "(s) solid, (l) liquid, (g) gas, (aq) aqueous solution."},
+      "ta": {"q": "வேதிச் சமன்பாட்டில் '(aq)' குறியீடு எதைக் குறிக்கிறது?", "options": ["வாயு", "திரவம்", "நீர்க்கரைசல்", "திண்மம்"], "explanation": "(s) திண்மம், (l) திரவம், (g) வாயு, (aq) நீர்க்கரைசல்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 139,
+      "quote": "A combination reaction is a reaction in which two or more reactants combine to form a compound. It is otherwise called 'synthesis reaction' or 'composition reaction'.",
+      "answer": "D",
+      "en": {"q": "A combination reaction is otherwise called a", "options": ["metathesis reaction", "photolysis", "thermolysis", "synthesis reaction"], "explanation": "It is also called a composition reaction: A + B → AB."},
+      "ta": {"q": "சேர்க்கை வினை வேறு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["இரட்டை இடப்பெயர்ச்சி வினை", "ஒளிச்சிதைவு", "வெப்பச்சிதைவு", "தொகுப்பு வினை"], "explanation": "இது கூட்டு வினை எனவும் அழைக்கப்படும்: A + B → AB."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 139,
+      "quote": "In the following reaction, silicon dioxide reacts with calcium oxide to form calcium silicate. SiO2(s) + CaO(s) → CaSiO3(s)",
+      "answer": "A",
+      "en": {"q": "SiO₂ + CaO → CaSiO₃ is an example of which type of combination reaction?", "options": ["Compound + Compound → Compound", "Element + Element → Compound", "Compound + Element → Compound", "Compound → Elements"], "explanation": "PCl₃ + Cl₂ → PCl₅ is compound + element."},
+      "ta": {"q": "SiO₂ + CaO → CaSiO₃ எவ்வகைச் சேர்க்கை வினைக்கு எடுத்துக்காட்டு?", "options": ["சேர்மம் + சேர்மம் → சேர்மம்", "தனிமம் + தனிமம் → சேர்மம்", "சேர்மம் + தனிமம் → சேர்மம்", "சேர்மம் → தனிமங்கள்"], "explanation": "PCl₃ + Cl₂ → PCl₅ என்பது சேர்மம் + தனிமம்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 139,
+      "quote": "Most of the combination reactions are exothermic in nature. Because, they involve the formation of new bonds, which releases a huge amount of energy in the form of heat.",
+      "answer": "B",
+      "en": {"q": "Most combination reactions are", "options": ["endothermic", "exothermic", "photochemical", "reversible only"], "explanation": "Formation of new bonds releases heat."},
+      "ta": {"q": "பெரும்பாலான சேர்க்கை வினைகள்", "options": ["வெப்பம் கொள் வினைகள்", "வெப்பம் உமிழ் வினைகள்", "ஒளிவேதி வினைகள்", "மீள் வினைகள் மட்டும்"], "explanation": "புதிய பிணைப்புகள் உருவாகும்போது வெப்பம் வெளியாகிறது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 140,
+      "quote": "Calcium hydroxide reacts slowly with the carbon dioxide in air to form a thin layer of calcium carbonate on the walls. Calcium carbonate is formed after two to three days of white washing and gives a shiny finish to the walls.",
+      "answer": "C",
+      "en": {"q": "The shiny finish on walls two to three days after whitewashing is due to the formation of", "options": ["calcium oxide", "calcium hydroxide", "calcium carbonate", "calcium sulphate"], "explanation": "Slaked lime reacts with CO₂ in air: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O."},
+      "ta": {"q": "வெள்ளையடித்த இரண்டு மூன்று நாள்களுக்குப் பின் சுவர்களில் பளபளப்பு ஏற்படுவது எதன் உருவாக்கத்தால்?", "options": ["கால்சியம் ஆக்சைடு", "கால்சியம் ஹைட்ராக்சைடு", "கால்சியம் கார்பனேட்", "கால்சியம் சல்பேட்"], "explanation": "நீற்றுச் சுண்ணாம்பு காற்றிலுள்ள CO₂ உடன் வினைபுரிகிறது: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 140,
+      "quote": "In a decomposition reaction, a single compound splits into two or more simpler substances under suitable conditions. It is the opposite of the combination reaction.",
+      "answer": "D",
+      "en": {"q": "A reaction in which a single compound splits into two or more simpler substances is a", "options": ["combination reaction", "displacement reaction", "neutralisation reaction", "decomposition reaction"], "explanation": "It is the opposite of a combination reaction."},
+      "ta": {"q": "ஒரு சேர்மம் இரண்டு அல்லது அதற்கு மேற்பட்ட எளிய பொருள்களாகப் பிரியும் வினை எது?", "options": ["சேர்க்கை வினை", "இடப்பெயர்ச்சி வினை", "நடுநிலையாக்கல் வினை", "சிதைவு வினை"], "explanation": "இது சேர்க்கை வினைக்கு எதிரானது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 140,
+      "quote": "on heating mercury (II) oxide is decomposed into mercury metal and oxygen gas. As the molecule is dissociated by the absorption of heat, it is otherwise called 'Thermolysis'.",
+      "answer": "A",
+      "en": {"q": "Thermal decomposition reactions are otherwise called", "options": ["thermolysis", "photolysis", "electrolysis", "hydrolysis"], "explanation": "E.g. 2HgO → 2Hg + O₂ on heating."},
+      "ta": {"q": "வெப்பச் சிதைவு வினைகள் வேறு எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["வெப்பச்சிதைவு (தெர்மோலிசிஸ்)", "ஒளிச்சிதைவு", "மின்னாற்பகுப்பு", "நீராற்பகுப்பு"], "explanation": "எ.கா. சூடாக்கும்போது 2HgO → 2Hg + O₂."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 140,
+      "quote": "when calcium carbonate is heated, it breaks down in to calcium oxide and carbon dioxide. ... In thermal decomposition reaction, heat is supplied to break the bonds. Such reactions, in which heat is absorbed, are called 'Endothermic reactions'.",
+      "answer": "B",
+      "en": {"q": "When calcium carbonate is heated, it decomposes into", "options": ["calcium and carbon", "calcium oxide and carbon dioxide", "calcium hydroxide and carbon monoxide", "calcium carbide and oxygen"], "explanation": "Thermal decomposition absorbs heat, so it is endothermic."},
+      "ta": {"q": "கால்சியம் கார்பனேட்டைச் சூடாக்கினால் அது எவையாகச் சிதைகிறது?", "options": ["கால்சியம், கார்பன்", "கால்சியம் ஆக்சைடு, கார்பன் டைஆக்சைடு", "கால்சியம் ஹைட்ராக்சைடு, கார்பன் மோனாக்சைடு", "கால்சியம் கார்பைடு, ஆக்சிஜன்"], "explanation": "வெப்பச் சிதைவு வெப்பத்தை உறிஞ்சுவதால் வெப்பம் கொள் வினை."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 141,
+      "quote": "when silver bromide is exposed to light, it breaks down into silver metal and bromine gas. As the decomposition is caused by light, this kind of reaction is also called 'Photolysis'. ... The yellow coloured silver bromide turns into grey coloured silver metal.",
+      "answer": "C",
+      "en": {"q": "Yellow silver bromide turning grey on exposure to light is an example of", "options": ["thermolysis", "electrolysis", "photolysis", "combustion"], "explanation": "2AgBr → 2Ag + Br₂ in the presence of light."},
+      "ta": {"q": "ஒளியில் மஞ்சள் நிற சில்வர் புரோமைடு சாம்பல் நிறமாவது எதற்கு எடுத்துக்காட்டு?", "options": ["வெப்பச்சிதைவு", "மின்னாற்பகுப்பு", "ஒளிச்சிதைவு", "எரிதல்"], "explanation": "ஒளியின் முன்னிலையில் 2AgBr → 2Ag + Br₂."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 141,
+      "quote": "If zinc metal is placed in hydrochloric acid, hydrogen gas is evolved. Here, hydrogen is displaced by zinc metal and zinc chloride is formed. Zn(s) + 2HCl(aq) → ZnCl2(aq) + H2(g)",
+      "answer": "D",
+      "en": {"q": "Zn + 2HCl → ZnCl₂ + H₂ is an example of", "options": ["double displacement", "decomposition", "combination", "single displacement"], "explanation": "Zinc displaces hydrogen from hydrochloric acid."},
+      "ta": {"q": "Zn + 2HCl → ZnCl₂ + H₂ எதற்கு எடுத்துக்காட்டு?", "options": ["இரட்டை இடப்பெயர்ச்சி", "சிதைவு", "சேர்க்கை", "ஒற்றை இடப்பெயர்ச்சி"], "explanation": "துத்தநாகம் ஹைட்ரோகுளோரிக் அமிலத்திலிருந்து ஹைட்ரஜனை இடம்பெயர்க்கிறது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 141,
+      "quote": "If an iron nail is placed in an aqueous solution of copper (II) sulphate ... the iron displaces copper from its aqueous solution and the so formed copper deposits over the iron nail.",
+      "answer": "A",
+      "en": {"q": "When an iron nail is placed in copper sulphate solution, copper is deposited on the nail because", "options": ["iron is more reactive than copper", "copper is more reactive than iron", "iron is a non-metal", "copper sulphate decomposes on its own"], "explanation": "Fe + CuSO₄ → FeSO₄ + Cu."},
+      "ta": {"q": "காப்பர் சல்பேட் கரைசலில் இரும்பு ஆணியை வைத்தால் ஆணியில் தாமிரம் படிவது ஏன்?", "options": ["இரும்பு தாமிரத்தை விட வினைத்திறன் மிக்கது", "தாமிரம் இரும்பை விட வினைத்திறன் மிக்கது", "இரும்பு அலோகம்", "காப்பர் சல்பேட் தானாகச் சிதைகிறது"], "explanation": "Fe + CuSO₄ → FeSO₄ + Cu."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 141,
+      "quote": "2NaF(aq) + Cl2(g) → 2NaCl(aq) + F2(g) ... the second reaction will not occur. Because, fluorine is more active than chlorine and occupies the upper position in the periodic table.",
+      "answer": "B",
+      "en": {"q": "Chlorine cannot displace fluorine from sodium fluoride because", "options": ["chlorine is a metal", "fluorine is more active than chlorine", "NaF is insoluble", "chlorine is an inert gas"], "explanation": "More active elements displace less active ones."},
+      "ta": {"q": "சோடியம் ஃபுளூரைடிலிருந்து குளோரின் ஃபுளூரினை இடம்பெயர்க்க இயலாதது ஏன்?", "options": ["குளோரின் ஓர் உலோகம்", "ஃபுளூரின் குளோரினை விட வினைத்திறன் மிக்கது", "NaF கரையாதது", "குளோரின் மந்த வாயு"], "explanation": "அதிக வினைத்திறன் தனிமங்கள் குறைந்தவற்றை இடம்பெயர்க்கும்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 141,
+      "quote": "Please Potassium (K) Most reactive ... Penguin Platinum (Pt) Least reactive",
+      "answer": "C",
+      "en": {"q": "According to the activity series in the text, the most reactive metal is", "options": ["sodium", "calcium", "potassium", "lithium"], "explanation": "Platinum is the least reactive in the series."},
+      "ta": {"q": "பாடநூலின் வினைத்திறன் வரிசைப்படி மிக அதிக வினைத்திறன் கொண்ட உலோகம் எது?", "options": ["சோடியம்", "கால்சியம்", "பொட்டாசியம்", "லித்தியம்"], "explanation": "வரிசையில் பிளாட்டினம் மிகக் குறைந்த வினைத்திறன் கொண்டது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 141,
+      "quote": "Which of the metals displaces hydrogen gas from hydrochloric acid? Silver or Zinc. ... Lovely Lead (Pb) Hot Hydrogen (H) Countries Copper (Cu) Signed Silver (Ag)",
+      "answer": "D",
+      "en": {"q": "Which of the following metals can displace hydrogen from hydrochloric acid?", "options": ["Silver", "Gold", "Copper", "Zinc"], "explanation": "Zinc is above hydrogen in the activity series; copper, silver and gold are below it."},
+      "ta": {"q": "பின்வரும் உலோகங்களில் ஹைட்ரோகுளோரிக் அமிலத்திலிருந்து ஹைட்ரஜனை இடம்பெயர்க்கக்கூடியது எது?", "options": ["வெள்ளி", "தங்கம்", "தாமிரம்", "துத்தநாகம்"], "explanation": "வினைத்திறன் வரிசையில் துத்தநாகம் ஹைட்ரஜனுக்கு மேல்; தாமிரம், வெள்ளி, தங்கம் கீழ்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 142,
+      "quote": "When two compounds react, if their ions are interchanged, then the reaction is called double displacement reaction. ... This reaction is also called 'Metathesis Reaction'.",
+      "answer": "A",
+      "en": {"q": "A double displacement reaction is also called", "options": ["metathesis reaction", "synthesis reaction", "photolysis", "thermolysis"], "explanation": "Ions of the two compounds are interchanged: AB + CD → AD + CB."},
+      "ta": {"q": "இரட்டை இடப்பெயர்ச்சி வினை வேறு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["மெட்டாதெசிஸ் வினை", "தொகுப்பு வினை", "ஒளிச்சிதைவு", "வெப்பச்சிதைவு"], "explanation": "இரு சேர்மங்களின் அயனிகள் இடமாற்றம் அடைகின்றன: AB + CD → AD + CB."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 142,
+      "quote": "When the clear aqueous solutions of potassium iodide and lead (II) nitrate are mixed ... form a yellow precipitate of lead (II) iodide",
+      "answer": "B",
+      "en": {"q": "Mixing solutions of lead (II) nitrate and potassium iodide forms a", "options": ["white precipitate of potassium nitrate", "yellow precipitate of lead (II) iodide", "blue solution of lead iodide", "colourless gas"], "explanation": "Pb(NO₃)₂ + 2KI → PbI₂↓ + 2KNO₃ is a precipitation reaction."},
+      "ta": {"q": "லெட் (II) நைட்ரேட், பொட்டாசியம் அயோடைடு கரைசல்களைக் கலக்கும்போது உருவாவது", "options": ["பொட்டாசியம் நைட்ரேட்டின் வெள்ளை வீழ்படிவு", "லெட் (II) அயோடைடின் மஞ்சள் வீழ்படிவு", "லெட் அயோடைடின் நீலக் கரைசல்", "நிறமற்ற வாயு"], "explanation": "Pb(NO₃)₂ + 2KI → PbI₂↓ + 2KNO₃ வீழ்படிவாக்கல் வினை."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 143,
+      "quote": "the acid reacts with the base to form a salt and water. It is called 'neutralization reaction' as both acid and base neutralize each other. Acid + Base → Salt + Water",
+      "answer": "C",
+      "en": {"q": "The reaction of an acid with a base to form salt and water is called", "options": ["precipitation", "combustion", "neutralisation", "decomposition"], "explanation": "E.g. NaOH + HCl → NaCl + H₂O."},
+      "ta": {"q": "அமிலம் காரத்துடன் வினைபுரிந்து உப்பும் நீரும் உருவாகும் வினை எவ்வாறு அழைக்கப்படும்?", "options": ["வீழ்படிவாக்கல்", "எரிதல்", "நடுநிலையாக்கல்", "சிதைவு"], "explanation": "எ.கா. NaOH + HCl → NaCl + H₂O."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 143,
+      "quote": "A combustion reaction is one in which the reactant rapidly combines with oxygen to form one or more oxides and energy (heat). ... LPG is a mixture of hydrocarbon gases like propane, butane, propylene, etc.",
+      "answer": "D",
+      "en": {"q": "LPG, burned for cooking through combustion, is a mixture of hydrocarbon gases like", "options": ["methane and ethane only", "hydrogen and oxygen", "carbon monoxide and hydrogen", "propane, butane and propylene"], "explanation": "Combustion is an exothermic oxidation forming CO₂ and water."},
+      "ta": {"q": "சமையலுக்கு எரிக்கப்படும் LPG எத்தகைய ஹைட்ரோகார்பன் வாயுக்களின் கலவை?", "options": ["மீத்தேன், ஈத்தேன் மட்டும்", "ஹைட்ரஜன், ஆக்சிஜன்", "கார்பன் மோனாக்சைடு, ஹைட்ரஜன்", "புரொப்பேன், பியூட்டேன், புரொப்பிலீன்"], "explanation": "எரிதல் வெப்பம் உமிழ் ஆக்சிஜனேற்றம்; CO₂, நீர் உருவாகும்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 143,
+      "quote": "Our mobile phone gets energy from its lithium ion battery by chemical reactions. It is called discharging. On recharging the mobile, these chemical reactions are reversed.",
+      "answer": "A",
+      "en": {"q": "Recharging of a mobile phone's lithium-ion battery is an example of", "options": ["a reversible chemical reaction", "an irreversible reaction", "photolysis", "combustion"], "explanation": "Burning of wood, in contrast, is irreversible."},
+      "ta": {"q": "கைபேசியின் லித்தியம் அயனி மின்கலத்தை மீண்டும் மின்னேற்றம் செய்வது எதற்கு எடுத்துக்காட்டு?", "options": ["மீள் வேதிவினை", "மீளா வினை", "ஒளிச்சிதைவு", "எரிதல்"], "explanation": "மாறாக, மரம் எரிதல் மீளா வினை."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 144,
+      "quote": "Consider the combustion of coal into carbon dioxide ... As the product is a gas, as soon as it is formed it escapes out of the reaction container. ... So, it is an irreversible reaction.",
+      "answer": "B",
+      "en": {"q": "The burning of coal in air is an irreversible reaction because", "options": ["it needs a catalyst", "the gaseous product escapes and cannot easily be turned back into coal", "it is endothermic", "it reaches equilibrium"], "explanation": "Irreversible reactions proceed only in the forward direction."},
+      "ta": {"q": "காற்றில் நிலக்கரி எரிதல் மீளா வினை; ஏனெனில்", "options": ["வினையூக்கி தேவை", "வாயு விளைபொருள் வெளியேறுவதால் அதை மீண்டும் நிலக்கரியாக்க இயலாது", "வெப்பம் கொள் வினை", "சமநிலையை அடைகிறது"], "explanation": "மீளா வினைகள் முன்னோக்கி மட்டுமே நிகழும்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 144,
+      "quote": "PCl5(g) ⇌ PCl3(g) + Cl2(g) The forward reaction is the decomposition of PCl5 and the backward reaction is the combination of PCl3 and Cl2.",
+      "answer": "C",
+      "en": {"q": "In the reversible reaction PCl₅ ⇌ PCl₃ + Cl₂, the backward reaction is", "options": ["the decomposition of PCl₅", "the combustion of PCl₃", "the combination of PCl₃ and Cl₂", "the displacement of chlorine"], "explanation": "The forward reaction is the decomposition of PCl₅."},
+      "ta": {"q": "PCl₅ ⇌ PCl₃ + Cl₂ என்ற மீள் வினையில் பின்னோக்கு வினை எது?", "options": ["PCl₅ சிதைவு", "PCl₃ எரிதல்", "PCl₃, Cl₂ சேர்க்கை", "குளோரின் இடப்பெயர்ச்சி"], "explanation": "முன்னோக்கு வினை PCl₅ சிதைவு."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 145,
+      "quote": "\"Rate of a reaction is the change in the amount or concentration of any one of the reactants or products per unit time\".",
+      "answer": "D",
+      "en": {"q": "The rate of a reaction is", "options": ["the total mass of the products", "the temperature at which a reaction starts", "the number of reactants", "the change in concentration of a reactant or product per unit time"], "explanation": "Rate = −d[A]/dt = +d[B]/dt."},
+      "ta": {"q": "வினைவேகம் என்பது", "options": ["விளைபொருள்களின் மொத்த நிறை", "வினை தொடங்கும் வெப்பநிலை", "வினைபடு பொருள்களின் எண்ணிக்கை", "ஓரலகு நேரத்தில் வினைபடு அல்லது விளைபொருளின் செறிவு மாற்றம்"], "explanation": "வேகம் = −d[A]/dt = +d[B]/dt."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 146,
+      "quote": "The reaction of sodium with hydrochloric acid is faster than that with acetic acid. ... Hydrochloric acid is a stronger acid than acetic acid and thus more reactive. So, the nature of the reactants influence the reaction rate.",
+      "answer": "A",
+      "en": {"q": "Sodium reacts faster with hydrochloric acid than with acetic acid. This shows the effect of", "options": ["nature of the reactants", "pressure", "catalyst", "surface area"], "explanation": "HCl is a stronger acid than acetic acid."},
+      "ta": {"q": "சோடியம் அசிட்டிக் அமிலத்தை விட ஹைட்ரோகுளோரிக் அமிலத்துடன் வேகமாக வினைபுரிகிறது. இது எதன் விளைவைக் காட்டுகிறது?", "options": ["வினைபடு பொருள்களின் தன்மை", "அழுத்தம்", "வினையூக்கி", "பரப்பளவு"], "explanation": "HCl அசிட்டிக் அமிலத்தை விட வலிமையான அமிலம்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 146,
+      "quote": "Granulated zinc reacts faster with 2M hydrochloric acid than 1M hydrochloric acid.",
+      "answer": "B",
+      "en": {"q": "Granulated zinc reacts faster with 2M HCl than with 1M HCl. This is due to", "options": ["temperature", "concentration of the reactants", "catalyst", "pressure"], "explanation": "More concentration means more particles per volume."},
+      "ta": {"q": "துகள் துத்தநாகம் 1M HCl ஐ விட 2M HCl உடன் வேகமாக வினைபுரிவது எதனால்?", "options": ["வெப்பநிலை", "வினைபடு பொருள்களின் செறிவு", "வினையூக்கி", "அழுத்தம்"], "explanation": "அதிகச் செறிவு என்றால் ஓரலகு கனஅளவில் அதிகத் துகள்கள்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 146,
+      "quote": "Food kept at room temperature spoils faster than that kept in the refrigerator. In the refrigerator, the temperature is lower than the room temperature and hence the reaction rate is less.",
+      "answer": "C",
+      "en": {"q": "Food kept in a refrigerator spoils more slowly because", "options": ["pressure is higher", "a catalyst is removed", "lower temperature reduces the reaction rate", "surface area is increased"], "explanation": "Most reactions go faster at higher temperature."},
+      "ta": {"q": "குளிர்பதனப் பெட்டியில் வைத்த உணவு மெதுவாகக் கெடுவது ஏன்?", "options": ["அழுத்தம் அதிகம்", "வினையூக்கி நீக்கப்படுகிறது", "குறைந்த வெப்பநிலை வினைவேகத்தைக் குறைக்கிறது", "பரப்பளவு அதிகரிக்கிறது"], "explanation": "பெரும்பாலான வினைகள் அதிக வெப்பநிலையில் வேகமாக நிகழும்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 146,
+      "quote": "A catalyst is a substance which increases the reaction rate without being consumed in the reaction. ... on heating potassium chlorate, it decomposes into potassium chloride and oxygen gas, but at a slower rate. If manganese dioxide is added, it increases the reaction rate.",
+      "answer": "D",
+      "en": {"q": "In the decomposition of potassium chlorate, manganese dioxide acts as a", "options": ["reactant", "product", "inhibitor", "catalyst"], "explanation": "A catalyst increases the rate without being consumed."},
+      "ta": {"q": "பொட்டாசியம் குளோரேட் சிதைவில் மாங்கனீசு டைஆக்சைடு எவ்வாறு செயல்படுகிறது?", "options": ["வினைபடு பொருள்", "விளைபொருள்", "தடுப்பான்", "வினையூக்கி"], "explanation": "வினையூக்கி தான் நுகரப்படாமல் வினைவேகத்தை அதிகரிக்கும்."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 146,
+      "quote": "powdered calcium carbonate reacts more readily with hydrochloric acid than marble chips. Because, powdering of the reactants increases the surface area",
+      "answer": "A",
+      "en": {"q": "Powdered calcium carbonate reacts faster with HCl than marble chips because of greater", "options": ["surface area", "concentration", "pressure", "temperature"], "explanation": "Powdering increases the surface area of the reactant."},
+      "ta": {"q": "சலவைக்கல் துண்டுகளை விடத் தூளாக்கிய கால்சியம் கார்பனேட் HCl உடன் வேகமாக வினைபுரிவது எதன் அதிகரிப்பால்?", "options": ["பரப்பளவு", "செறிவு", "அழுத்தம்", "வெப்பநிலை"], "explanation": "தூளாக்குதல் வினைபடு பொருளின் பரப்பளவை அதிகரிக்கிறது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 146,
+      "quote": "When the rate of the forward reaction becomes equal to the rate of backward reaction, then no more product is formed. This stage of the reaction is called 'equilibrium state'.",
+      "answer": "B",
+      "en": {"q": "Chemical equilibrium is reached when", "options": ["all reactants are used up", "the rate of the forward reaction equals the rate of the backward reaction", "the reaction stops completely", "only products remain"], "explanation": "There is then no net change in amounts of reactants and products."},
+      "ta": {"q": "வேதிச் சமநிலை எப்போது அடையப்படுகிறது?", "options": ["அனைத்து வினைபடு பொருள்களும் தீரும்போது", "முன்னோக்கு வினைவேகம் பின்னோக்கு வினைவேகத்திற்குச் சமமாகும்போது", "வினை முழுமையாக நிற்கும்போது", "விளைபொருள்கள் மட்டும் இருக்கும்போது"], "explanation": "அப்போது வினைபடு, விளைபொருள்களின் அளவில் நிகர மாற்றம் இல்லை."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 147,
+      "quote": "The chemical equilibrium is a dynamic equilibrium, because both the forward and backward reactions continue to occur even though it appears static externally.",
+      "answer": "C",
+      "en": {"q": "Chemical equilibrium is called a dynamic equilibrium because", "options": ["the reaction has stopped", "only the forward reaction continues", "both forward and backward reactions continue though it appears static", "the concentrations keep changing"], "explanation": "Observable properties remain unchanged with time."},
+      "ta": {"q": "வேதிச் சமநிலை இயக்கச் சமநிலை எனப்படுவது ஏன்?", "options": ["வினை நின்றுவிட்டது", "முன்னோக்கு வினை மட்டும் தொடர்கிறது", "வெளியே நிலையாகத் தோன்றினாலும் முன்னோக்கு, பின்னோக்கு வினைகள் தொடர்கின்றன", "செறிவுகள் தொடர்ந்து மாறுகின்றன"], "explanation": "காணக்கூடிய பண்புகள் நேரத்துடன் மாறாது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 147,
+      "quote": "When water kept in a closed vessel evaporates ... when the rate of this condensation becomes equal to that of vapourisation, the process attains equilibrium. ... Since it is a physical change, the equilibrium attained is called 'Physical Equilibrium'.",
+      "answer": "D",
+      "en": {"q": "Water evaporating and condensing at equal rates in a closed vessel is an example of", "options": ["chemical equilibrium", "irreversible reaction", "neutralisation", "physical equilibrium"], "explanation": "In physical equilibrium the volume of all phases remains constant."},
+      "ta": {"q": "மூடிய கலனில் நீர் சம வீதத்தில் ஆவியாகி மீண்டும் குளிர்வது எதற்கு எடுத்துக்காட்டு?", "options": ["வேதிச் சமநிலை", "மீளா வினை", "நடுநிலையாக்கல்", "இயற்பியல் சமநிலை"], "explanation": "இயற்பியல் சமநிலையில் அனைத்து நிலைகளின் கனஅளவும் மாறாது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 148,
+      "quote": "The product of the concentration of the hydronium ion and the hydroxyl ion is called 'ionic product of water'. It is denoted as 'Kw'. ... Its unit is mol2 dm-6. At 25° C, its value is 1.00 × 10-14.",
+      "answer": "A",
+      "en": {"q": "The value of the ionic product of water (Kw) at 25°C is", "options": ["1.00 × 10⁻¹⁴ mol² dm⁻⁶", "1.00 × 10⁻⁷ mol² dm⁻⁶", "1.00 × 10¹⁴ mol² dm⁻⁶", "7 mol² dm⁻⁶"], "explanation": "Kw = [H₃O⁺][OH⁻] due to self-ionisation of water."},
+      "ta": {"q": "25°C இல் நீரின் அயனிப் பெருக்கத்தின் (Kw) மதிப்பு என்ன?", "options": ["1.00 × 10⁻¹⁴ mol² dm⁻⁶", "1.00 × 10⁻⁷ mol² dm⁻⁶", "1.00 × 10¹⁴ mol² dm⁻⁶", "7 mol² dm⁻⁶"], "explanation": "நீரின் தன்னயனியாக்கத்தால் Kw = [H₃O⁺][OH⁻]."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 148,
+      "quote": "The 'p' in pH stands for 'Potenz' in German meaning 'power'. pH notation was devised by the Danish biochemist Sorensen in 1909.",
+      "answer": "B",
+      "en": {"q": "The pH notation was devised in 1909 by the Danish biochemist", "options": ["Arrhenius", "Sorensen", "Lowry", "Bronsted"], "explanation": "The 'p' stands for the German 'Potenz', meaning power."},
+      "ta": {"q": "1909இல் pH குறியீட்டை உருவாக்கிய டேனிஷ் உயிர்வேதியியலாளர் யார்?", "options": ["அர்ஹீனியஸ்", "சோரென்சன்", "லௌரி", "பிரான்ஸ்டெட்"], "explanation": "'p' என்பது ஜெர்மன் 'Potenz' – திறன் என்பதைக் குறிக்கிறது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 148,
+      "quote": "Acids have pH less than 7 Bases have pH greater than 7 A neutral solution has pH equal to 7",
+      "answer": "C",
+      "en": {"q": "A solution with pH greater than 7 is", "options": ["acidic", "neutral", "basic", "always pure water"], "explanation": "Acids have pH below 7 and neutral solutions pH 7."},
+      "ta": {"q": "pH 7 ஐ விட அதிகமுள்ள கரைசல்", "options": ["அமிலத்தன்மை", "நடுநிலை", "காரத்தன்மை", "எப்போதும் தூய நீர்"], "explanation": "அமிலங்கள் pH 7க்குக் கீழ்; நடுநிலைக் கரைசல் pH 7."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 148,
+      "quote": "Lemon juice 2 ... Blood plasma 7.4 ... Milk of magnesia 10 ... Tomato juice 4.2",
+      "answer": "D",
+      "en": {"q": "According to the pH table in the text, which of these has a pH of about 10?", "options": ["Lemon juice", "Blood plasma", "Tomato juice", "Milk of magnesia"], "explanation": "Lemon juice 2, tomato juice 4.2, blood plasma 7.4, milk of magnesia 10."},
+      "ta": {"q": "பாடநூல் pH அட்டவணைப்படி இவற்றுள் pH ஏறக்குறைய 10 கொண்டது எது?", "options": ["எலுமிச்சைச் சாறு", "இரத்தப் பிளாஸ்மா", "தக்காளிச் சாறு", "மில்க் ஆஃப் மெக்னீசியா"], "explanation": "எலுமிச்சை 2, தக்காளி 4.2, இரத்தப் பிளாஸ்மா 7.4, மில்க் ஆஃப் மெக்னீசியா 10."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 148,
+      "quote": "The pH is the negative logarithm of the hydrogen ion concentration i.e pH = –log10[H+]",
+      "answer": "A",
+      "en": {"q": "pH is defined as", "options": ["−log₁₀[H⁺]", "log₁₀[H⁺]", "−log₁₀[OH⁻]", "[H⁺] × [OH⁻]"], "explanation": "pOH = −log₁₀[OH⁻]."},
+      "ta": {"q": "pH இன் வரையறை என்ன?", "options": ["−log₁₀[H⁺]", "log₁₀[H⁺]", "−log₁₀[OH⁻]", "[H⁺] × [OH⁻]"], "explanation": "pOH = −log₁₀[OH⁻]."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 149,
+      "quote": "pH of blood is ranging from 7.35 to 7.45. Any increase or decrease in this value leads to diseases. The ideal pH for blood is 7.4.",
+      "answer": "B",
+      "en": {"q": "The ideal pH of human blood is", "options": ["7.0", "7.4", "6.8", "8.0"], "explanation": "Blood pH normally ranges from 7.35 to 7.45."},
+      "ta": {"q": "மனித இரத்தத்தின் உகந்த pH என்ன?", "options": ["7.0", "7.4", "6.8", "8.0"], "explanation": "இரத்த pH பொதுவாக 7.35 முதல் 7.45 வரை."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 149,
+      "quote": "White enamel coating of our teeth is calcium phosphate, the hardest substance in our body. When the pH of the mouth saliva falls below 5.5, the enamel gets weathered.",
+      "answer": "C",
+      "en": {"q": "Tooth enamel starts to get weathered when the pH of saliva falls below", "options": ["7.5", "6.5", "5.5", "4.0"], "explanation": "Enamel is calcium phosphate; basic toothpastes neutralise excess acid."},
+      "ta": {"q": "உமிழ்நீரின் pH எதற்குக் கீழ் குறையும்போது பல் எனாமல் அரிக்கப்படுகிறது?", "options": ["7.5", "6.5", "5.5", "4.0"], "explanation": "எனாமல் கால்சியம் பாஸ்பேட்; காரத்தன்மை கொண்ட பற்பசைகள் அதிக அமிலத்தை நடுநிலையாக்குகின்றன."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 149,
+      "quote": "White enamel coating of our teeth is calcium phosphate, the hardest substance in our body.",
+      "answer": "D",
+      "en": {"q": "The hardest substance in the human body, tooth enamel, is made of", "options": ["calcium carbonate", "calcium oxide", "sodium phosphate", "calcium phosphate"], "explanation": "It weathers when mouth pH falls below 5.5."},
+      "ta": {"q": "மனித உடலின் கடினமான பொருளான பல் எனாமல் எதனால் ஆனது?", "options": ["கால்சியம் கார்பனேட்", "கால்சியம் ஆக்சைடு", "சோடியம் பாஸ்பேட்", "கால்சியம் பாஸ்பேட்"], "explanation": "வாயின் pH 5.5க்குக் கீழ் குறையும்போது அரிக்கப்படுகிறது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 149,
+      "quote": "our stomach produces hydrochloric acid. It helps in the digestion of food without harming the stomach. ... pH of the stomach fluid is approximately 2.0.",
+      "answer": "A",
+      "en": {"q": "The approximate pH of the stomach fluid is", "options": ["2.0", "7.0", "5.5", "8.0"], "explanation": "The stomach produces hydrochloric acid to help digestion."},
+      "ta": {"q": "இரைப்பை நீரின் ஏறக்குறைய pH என்ன?", "options": ["2.0", "7.0", "5.5", "8.0"], "explanation": "செரிமானத்திற்கு உதவ இரைப்பை ஹைட்ரோகுளோரிக் அமிலத்தைச் சுரக்கிறது."}
+    },
+    {
+      "topic": "natural-resources-and-agriculture", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 149,
+      "quote": "Citrus fruits require slightly alkaline soil, while rice requires acidic soil and sugarcane requires neutral soil.",
+      "answer": "B",
+      "en": {"q": "According to the text, which crop requires acidic soil?", "options": ["Citrus fruits", "Rice", "Sugarcane", "Cotton"], "explanation": "Citrus needs slightly alkaline soil and sugarcane neutral soil."},
+      "ta": {"q": "பாடநூலின்படி அமிலத்தன்மை மண் தேவைப்படும் பயிர் எது?", "options": ["சிட்ரஸ் பழங்கள்", "நெல்", "கரும்பு", "பருத்தி"], "explanation": "சிட்ரஸுக்குச் சிறிது காரத்தன்மை மண்ணும் கரும்புக்கு நடுநிலை மண்ணும் தேவை."}
+    },
+    {
+      "topic": "geography-and-environment", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 149,
+      "quote": "If the atmospheric air is polluted with oxide gases of sulphur and nitrogen, they get dissolved in the rain water and make its pH less than 7. ... When acid rain flows into the rivers it lowers the pH of the river water also.",
+      "answer": "C",
+      "en": {"q": "Acid rain is caused when rain water dissolves", "options": ["oxygen and nitrogen", "carbon monoxide only", "oxides of sulphur and nitrogen", "water vapour"], "explanation": "Acid rain lowers the pH of rivers and harms aquatic life."},
+      "ta": {"q": "மழைநீர் எவற்றைக் கரைத்துக்கொள்ளும்போது அமில மழை ஏற்படுகிறது?", "options": ["ஆக்சிஜன், நைட்ரஜன்", "கார்பன் மோனாக்சைடு மட்டும்", "கந்தகம், நைட்ரஜனின் ஆக்சைடுகள்", "நீராவி"], "explanation": "அமில மழை ஆறுகளின் pH ஐக் குறைத்து நீர்வாழ் உயிர்களைப் பாதிக்கிறது."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 150,
+      "quote": "Calculate the pH of 0.01 M HNO3? ... pH = 2",
+      "answer": "D",
+      "en": {"q": "The pH of a 0.01 M HNO₃ solution is", "options": ["1", "0.01", "12", "2"], "explanation": "[H⁺] = 10⁻², so pH = 2."},
+      "ta": {"q": "0.01 M HNO₃ கரைசலின் pH என்ன?", "options": ["1", "0.01", "12", "2"], "explanation": "[H⁺] = 10⁻²; pH = 2."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 150,
+      "quote": "The pH and pOH of a water solution at 25oC are related by the following equation. pH + pOH = 14",
+      "answer": "A",
+      "en": {"q": "A solution has pOH 11.76 at 25°C. Its pH is", "options": ["2.24", "11.76", "25.76", "7"], "explanation": "pH = 14 − pOH = 14 − 11.76 = 2.24."},
+      "ta": {"q": "25°C இல் ஒரு கரைசலின் pOH 11.76. அதன் pH என்ன?", "options": ["2.24", "11.76", "25.76", "7"], "explanation": "pH = 14 − pOH = 14 − 11.76 = 2.24."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 150,
+      "quote": "What would be the pH of an aqueous solution of sulphuric acid which is 5 × 10–5 mol litre–1 in concentration. ... [H+] = 1.0 × 10–4 mol litre–1 ... pH = 4",
+      "answer": "B",
+      "en": {"q": "The pH of a 5 × 10⁻⁵ M sulphuric acid solution is", "options": ["5", "4", "3", "4.3"], "explanation": "Each H₂SO₄ gives 2 H⁺, so [H⁺] = 10⁻⁴ and pH = 4."},
+      "ta": {"q": "5 × 10⁻⁵ M கந்தக அமிலக் கரைசலின் pH என்ன?", "options": ["5", "4", "3", "4.3"], "explanation": "ஒவ்வொரு H₂SO₄ உம் 2 H⁺ தரும்; [H⁺] = 10⁻⁴; pH = 4."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 151,
+      "quote": "Calculate the pH of 1 × 10–4 molar solution of NaOH. ... pOH = 4 ... pH = 14 – pOH = 14 – 4 = 10",
+      "answer": "C",
+      "en": {"q": "The pH of a 1 × 10⁻⁴ M NaOH solution is", "options": ["4", "14", "10", "7"], "explanation": "pOH = 4, so pH = 14 − 4 = 10."},
+      "ta": {"q": "1 × 10⁻⁴ M NaOH கரைசலின் pH என்ன?", "options": ["4", "14", "10", "7"], "explanation": "pOH = 4; pH = 14 − 4 = 10."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 148,
+      "quote": "pH scale is a scale for measuring the hydrogen ion concentration in a solution. ... The pH of a solution can be determined by using a universal indicator. It contains a mixture of dyes.",
+      "answer": "D",
+      "en": {"q": "A universal indicator used to measure pH contains", "options": ["a single dye", "pure litmus only", "phenolphthalein only", "a mixture of dyes"], "explanation": "It comes as a solution or as pH paper; values obtained are approximate."},
+      "ta": {"q": "pH அளக்கப் பயன்படும் பொது நிறங்காட்டியில் உள்ளது", "options": ["ஒரே ஒரு சாயம்", "தூய லிட்மஸ் மட்டும்", "ஃபீனால்ஃப்தலீன் மட்டும்", "சாயங்களின் கலவை"], "explanation": "இது கரைசலாகவோ pH தாளாகவோ கிடைக்கும்; பெறப்படும் மதிப்புகள் தோராயமானவை."}
+    },
+    {
+      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 145,
+      "quote": "It attains equilibrium. / Equilibrium is not attained. The reactants cannot be completely converted into products. / The reactants can be completely converted into products.",
+      "answer": "A",
+      "en": {"q": "Which statement about reversible reactions is correct?", "options": ["They attain equilibrium and reactants are not completely converted into products", "They proceed only in the forward direction", "Reactants are always completely converted", "They never reach equilibrium"], "explanation": "Irreversible reactions are unidirectional and can go to completion."},
+      "ta": {"q": "மீள் வினைகள் குறித்த சரியான கூற்று எது?", "options": ["சமநிலையை அடையும்; வினைபடு பொருள்கள் முழுமையாக விளைபொருளாக மாறாது", "முன்னோக்கி மட்டும் நிகழும்", "வினைபடு பொருள்கள் எப்போதும் முழுமையாக மாறும்", "சமநிலையை அடையாது"], "explanation": "மீளா வினைகள் ஒருதிசை; முழுமையடையலாம்."}
+    }
+  ]
+}
