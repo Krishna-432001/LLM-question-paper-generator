@@ -1,0 +1,315 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 10 Science Term-Full (English)",
+  "breadcrumb": "Std 10 Science (English) — Unit 15: Nervous System",
+  "questions": [
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 218,
+      "quote": "In animals including human the coordination between the various cells and organs is essential for their diverse activities to maintain physiological balance called homeostasis.",
+      "answer": "A",
+      "en": {"q": "The maintenance of physiological balance in the body is called", "options": ["homeostasis", "coordination", "metabolism", "reflex"], "explanation": "Coordination between cells and organs is essential to maintain it."},
+      "ta": {"q": "உடலில் உடலியல் சமநிலையைப் பேணுதல் எவ்வாறு அழைக்கப்படுகிறது?", "options": ["உடல் சமநிலை (ஹோமியோஸ்டாசிஸ்)", "ஒருங்கிணைப்பு", "வளர்சிதை மாற்றம்", "அனிச்சை"], "explanation": "இதைப் பேணச் செல்கள், உறுப்புகளிடையே ஒருங்கிணைப்பு அவசியம்."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 218,
+      "quote": "The nervous system is made up of nervous tissues. It is formed of three distinct components namely the neurons, neuroglia and nerve fibres.",
+      "answer": "B",
+      "en": {"q": "Which of the following is NOT a component of the nervous system named in the text?", "options": ["Neurons", "Nephrons", "Neuroglia", "Nerve fibres"], "explanation": "Nephrons are units of the kidney."},
+      "ta": {"q": "பாடநூலில் நரம்பு மண்டலத்தின் கூறாகக் குறிப்பிடப்படாதது எது?", "options": ["நியூரான்கள்", "நெஃப்ரான்கள்", "நியூரோகிளியா", "நரம்பு இழைகள்"], "explanation": "நெஃப்ரான்கள் சிறுநீரகத்தின் அலகுகள்."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 219,
+      "quote": "A neuron or nerve cell is the structural and functional unit of the nervous system. It is the longest cell of the human body with a length of over 100mm.",
+      "answer": "C",
+      "en": {"q": "The longest cell in the human body is the", "options": ["muscle cell", "red blood cell", "neuron", "bone cell"], "explanation": "It is the structural and functional unit of the nervous system."},
+      "ta": {"q": "மனித உடலின் மிக நீளமான செல் எது?", "options": ["தசைச் செல்", "சிவப்பணு", "நியூரான்", "எலும்புச் செல்"], "explanation": "இது நரம்பு மண்டலத்தின் அமைப்பு, செயல் அலகு."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 219,
+      "quote": "Neuroglia are also called as glial cells. They are non-exciting, supporting cell of the nervous system. They do not initiate or conduct nerve impulses.",
+      "answer": "D",
+      "en": {"q": "Neuroglia (glial cells) are", "options": ["the main impulse-conducting cells", "cells that produce hormones", "parts of the axon", "non-exciting supporting cells that do not conduct impulses"], "explanation": "Neurons conduct nerve impulses."},
+      "ta": {"q": "நியூரோகிளியா (கிளியல் செல்கள்) என்பவை", "options": ["முக்கியத் தூண்டல் கடத்தும் செல்கள்", "ஹார்மோன் உருவாக்கும் செல்கள்", "ஆக்சானின் பகுதிகள்", "தூண்டலைக் கடத்தாத துணைச் செல்கள்"], "explanation": "நியூரான்கள் நரம்புத் தூண்டல்களைக் கடத்துகின்றன."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 219,
+      "quote": "Cyton is also called cell body or perikaryon. ... The cytoplasm has large granular body called Nissl's granules ... Neurons do not have the ability to divide.",
+      "answer": "A",
+      "en": {"q": "Large granular bodies found in the cytoplasm of the cyton are called", "options": ["Nissl's granules", "Nodes of Ranvier", "synaptic knobs", "Schwann cells"], "explanation": "The cyton is also called the cell body or perikaryon."},
+      "ta": {"q": "சைட்டானின் சைட்டோபிளாசத்தில் உள்ள பெரிய துகள் அமைப்புகள் எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["நிசில் துகள்கள்", "ரான்வியர் கணுக்கள்", "இணைப்புக் குமிழ்கள்", "ஷ்வான் செல்கள்"], "explanation": "சைட்டான் செல் உடல் அல்லது பெரிகேரியான் எனவும் அழைக்கப்படும்."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 219,
+      "quote": "Dendrites ... They conduct nerve impulses towards the cyton. ... Axon ... It carries impulses away from the cyton.",
+      "answer": "B",
+      "en": {"q": "Dendrites transmit impulses ______ the cell body and the axon transmits impulses ______ the cell body.", "options": ["away from, away from", "towards, away from", "towards, towards", "away from, towards"], "explanation": "Dendrites receive signals; the axon carries them away."},
+      "ta": {"q": "டென்ட்ரைட்டுகள் தூண்டலை செல் உடலை ______ கடத்துகின்றன; ஆக்சான் செல் உடலிலிருந்து ______ கடத்துகிறது.", "options": ["விட்டு விலகி, விட்டு விலகி", "நோக்கி, விட்டு விலகி", "நோக்கி, நோக்கி", "விட்டு விலகி, நோக்கி"], "explanation": "டென்ட்ரைட்டுகள் சமிக்ஞைகளைப் பெறுகின்றன; ஆக்சான் அவற்றை எடுத்துச் செல்கிறது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 219,
+      "quote": "The plasma membrane of axon is called axolemma, while the cytoplasm is called axoplasm.",
+      "answer": "C",
+      "en": {"q": "The plasma membrane of the axon is called", "options": ["neurilemma", "axoplasm", "axolemma", "sarcolemma"], "explanation": "The cytoplasm of the axon is called axoplasm."},
+      "ta": {"q": "ஆக்சானின் பிளாஸ்மா சவ்வு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["நியூரிலெம்மா", "ஆக்சோபிளாசம்", "ஆக்சோலெம்மா", "சார்கோலெம்மா"], "explanation": "ஆக்சானின் சைட்டோபிளாசம் ஆக்சோபிளாசம்."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 219,
+      "quote": "Myelin sheath breaks at intervals by depressions called Nodes of Ranvier. ... Myelin sheath acts as insulator and ensures rapid transmission of nerve impulses.",
+      "answer": "D",
+      "en": {"q": "Nodes of Ranvier are found in", "options": ["muscles", "dendrites", "the cyton", "axons"], "explanation": "They are breaks in the myelin sheath of axons."},
+      "ta": {"q": "ரான்வியர் கணுக்கள் எங்கு காணப்படுகின்றன?", "options": ["தசைகள்", "டென்ட்ரைட்டுகள்", "சைட்டான்", "ஆக்சான்கள்"], "explanation": "இவை ஆக்சான்களின் மையலின் உறையில் உள்ள இடைவெளிகள்."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 219,
+      "quote": "Myelin sheath acts as insulator and ensures rapid transmission of nerve impulses.",
+      "answer": "A",
+      "en": {"q": "Impulses travel rapidly in myelinated neurons because the myelin sheath", "options": ["acts as an insulator", "produces neurotransmitters", "divides the cell", "stores food"], "explanation": "It is covered by a layer of Schwann cells called neurilemma."},
+      "ta": {"q": "மையலின் உறை கொண்ட நியூரான்களில் தூண்டல் வேகமாகச் செல்வது ஏன்?", "options": ["மையலின் உறை காப்பானாகச் செயல்படுவதால்", "நரம்புக்கடத்திகளை உருவாக்குவதால்", "செல்லைப் பிரிப்பதால்", "உணவைச் சேமிப்பதால்"], "explanation": "இது நியூரிலெம்மா எனும் ஷ்வான் செல் அடுக்கால் மூடப்பட்டுள்ளது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 219,
+      "quote": "Synapse: A junction between synaptic knob of axon of one neuron and dendron of next neuron is called synaptic junction. Information from one neuron can pass to another neuron through these junctions with the release of chemicals known as neurotransmitters",
+      "answer": "B",
+      "en": {"q": "The junction between the synaptic knob of one neuron and the dendron of the next is called a", "options": ["node of Ranvier", "synapse", "reflex arc", "ganglion"], "explanation": "Information passes across it through neurotransmitters."},
+      "ta": {"q": "ஒரு நியூரானின் இணைப்புக் குமிழுக்கும் அடுத்த நியூரானின் டென்ட்ரானுக்கும் இடையிலான சந்திப்பு எது?", "options": ["ரான்வியர் கணு", "நரம்பிணைப்பு (சினாப்ஸ்)", "அனிச்சை வில்", "நரம்புத்திரள்"], "explanation": "நரம்புக்கடத்திகள் மூலம் தகவல் இதைக் கடக்கிறது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 220,
+      "quote": "Bipolar: Found in retina of eye and olfactory epithelium of nasal chambers ... Multipolar Found in cerebral cortex of brain ... Unipolar Found in early embryos but not in adult",
+      "answer": "C",
+      "en": {"q": "Bipolar neurons are found in the", "options": ["cerebral cortex", "early embryo only", "retina of the eye", "spinal cord muscles"], "explanation": "They are also found in the olfactory epithelium; multipolar neurons are in the cerebral cortex."},
+      "ta": {"q": "இருமுனை நியூரான்கள் எங்கு காணப்படுகின்றன?", "options": ["பெருமூளைப் புறணி", "தொடக்கக் கருவில் மட்டும்", "கண்ணின் விழித்திரை", "முதுகுத்தண்டுத் தசைகள்"], "explanation": "நுகர்ச்சி எபிதீலியத்திலும் உள்ளன; பல்முனை நியூரான்கள் பெருமூளைப் புறணியில் உள்ளன."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 220,
+      "quote": "Motor or efferent neurons which carry impulses from the central nervous system to effector organ such as the muscle fibre or the gland.",
+      "answer": "D",
+      "en": {"q": "Neurons that carry impulses from the central nervous system to a muscle fibre are", "options": ["afferent neurons", "association neurons", "unipolar neurons", "efferent (motor) neurons"], "explanation": "Afferent (sensory) neurons carry impulses from sense organs to the CNS."},
+      "ta": {"q": "மைய நரம்பு மண்டலத்திலிருந்து தசை இழைக்குத் தூண்டலைக் கொண்டு செல்லும் நியூரான்கள் எவை?", "options": ["உட்செல் நியூரான்கள்", "இணைப்பு நியூரான்கள்", "ஒருமுனை நியூரான்கள்", "வெளிச்செல் (இயக்க) நியூரான்கள்"], "explanation": "உட்செல் (உணர்வு) நியூரான்கள் உணர்வுறுப்புகளிலிருந்து CNS க்குத் தூண்டலைக் கொண்டு செல்கின்றன."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 220,
+      "quote": "Myelinated and non-myelinated nerve fibres form the white matter and grey matter of the brain.",
+      "answer": "A",
+      "en": {"q": "In the central nervous system, myelinated fibres form the", "options": ["white matter", "grey matter", "meninges", "cerebrospinal fluid"], "explanation": "Non-myelinated fibres form the grey matter."},
+      "ta": {"q": "மைய நரம்பு மண்டலத்தில் மையலின் உறை கொண்ட இழைகள் எதை உருவாக்குகின்றன?", "options": ["வெண்பொருள்", "சாம்பல் பொருள்", "மூளையுறைகள்", "மூளைத்தண்டுவட நீர்"], "explanation": "மையலின் உறையற்ற இழைகள் சாம்பல் பொருளை உருவாக்குகின்றன."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 221,
+      "quote": "Neurotransmitters are the chemicals which allow the transmission of nerve impulse ... The important neurotransmitter released by neurons is called Acetylcholine.",
+      "answer": "B",
+      "en": {"q": "The important neurotransmitter released by neurons is", "options": ["adrenaline", "acetylcholine", "insulin", "hirudin"], "explanation": "Neurotransmitters carry the impulse across the synapse."},
+      "ta": {"q": "நியூரான்களால் வெளியிடப்படும் முக்கிய நரம்புக்கடத்தி எது?", "options": ["அட்ரினலின்", "அசிட்டைல்கோலின்", "இன்சுலின்", "ஹிருடின்"], "explanation": "நரம்புக்கடத்திகள் நரம்பிணைப்பைக் கடந்து தூண்டலைக் கடத்துகின்றன."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 221,
+      "quote": "Each neuron can transmit 1,000 nerve impulses per second and make as many as ten thousands of synaptic contacts with other neurons.",
+      "answer": "C",
+      "en": {"q": "According to the text, each neuron can transmit how many nerve impulses per second?", "options": ["10", "100", "1,000", "10,000"], "explanation": "It can make as many as ten thousand synaptic contacts."},
+      "ta": {"q": "பாடநூலின்படி ஒவ்வொரு நியூரானும் வினாடிக்கு எத்தனை நரம்புத் தூண்டல்களைக் கடத்தும்?", "options": ["10", "100", "1,000", "10,000"], "explanation": "இது பத்தாயிரம் வரை நரம்பிணைப்புத் தொடர்புகளை ஏற்படுத்தும்."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 221,
+      "quote": "Duramater (dura: tough; mater: membrane) is the outermost thick fibrous membrane",
+      "answer": "D",
+      "en": {"q": "The outermost of the three cranial meninges is the", "options": ["arachnoid membrane", "piamater", "myelin sheath", "duramater"], "explanation": "Piamater is the innermost, richly supplied with blood."},
+      "ta": {"q": "மூன்று மூளையுறைகளில் வெளிப்புறமானது எது?", "options": ["அராக்னாய்டு சவ்வு", "பையா மேட்டர்", "மையலின் உறை", "டியூரா மேட்டர்"], "explanation": "பையா மேட்டர் உட்புறமானது; இரத்தம் மிகுந்தது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 222,
+      "quote": "Meningitis is an inflammation of the meninges. ... The most common causes of meningitis are viral and bacterial infections.",
+      "answer": "A",
+      "en": {"q": "Meningitis is an inflammation of the", "options": ["meninges", "liver", "lungs", "spinal nerves"], "explanation": "It is most commonly caused by viral and bacterial infections."},
+      "ta": {"q": "மூளைக்காய்ச்சல் (மெனிஞ்சைடிஸ்) எதன் அழற்சி?", "options": ["மூளையுறைகள்", "கல்லீரல்", "நுரையீரல்கள்", "முதுகுத்தண்டு நரம்புகள்"], "explanation": "பொதுவாக வைரஸ், பாக்டீரியாத் தொற்றுகளால் ஏற்படும்."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 222,
+      "quote": "Cerebrum It is the largest portion forming nearly two-third of the brain.",
+      "answer": "B",
+      "en": {"q": "The largest part of the human brain, forming nearly two-thirds of it, is the", "options": ["cerebellum", "cerebrum", "medulla oblongata", "thalamus"], "explanation": "The cerebellum is the second largest part."},
+      "ta": {"q": "மனித மூளையில் ஏறக்குறைய மூன்றில் இரண்டு பங்கை உருவாக்கும் மிகப்பெரிய பகுதி எது?", "options": ["சிறுமூளை", "பெருமூளை", "முகுளம்", "தலாமஸ்"], "explanation": "சிறுமூளை இரண்டாவது பெரிய பகுதி."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 222,
+      "quote": "The cortex is extremely folded forming elevations called gyri with depressions between them termed as sulci that increase its surface area.",
+      "answer": "C",
+      "en": {"q": "The surface area of the cerebrum is increased by", "options": ["meninges and CSF", "dendrites and axons", "gyri and sulci", "pons and medulla"], "explanation": "Gyri are elevations and sulci are depressions of the folded cortex."},
+      "ta": {"q": "பெருமூளையின் பரப்பை அதிகரிப்பவை எவை?", "options": ["மூளையுறைகள், மூளைத்தண்டுவட நீர்", "டென்ட்ரைட்டுகள், ஆக்சான்கள்", "மடிப்புகள் (கைரி), பள்ளங்கள் (சல்சி)", "பான்ஸ், முகுளம்"], "explanation": "மடிந்த புறணியின் மேடுகள் கைரி, பள்ளங்கள் சல்சி."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 222,
+      "quote": "Each cerebral hemisphere is divisble into a frontal lobe, a parietal lobe, a temporal lobe and an occipital lobe.",
+      "answer": "D",
+      "en": {"q": "Which of the following is NOT a lobe of the cerebral hemisphere?", "options": ["Frontal lobe", "Parietal lobe", "Temporal lobe", "Optic lobe"], "explanation": "The fourth cerebral lobe is the occipital lobe."},
+      "ta": {"q": "பின்வருவனவற்றுள் பெருமூளை அரைக்கோளத்தின் மடல் அல்லாதது எது?", "options": ["முன் மடல்", "சுவர் மடல்", "பக்க மடல்", "பார்வை மடல்"], "explanation": "நான்காவது பெருமூளை மடல் பின் மடல்."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 222,
+      "quote": "The cerebrum is responsible for the thinking, intelligence, consciousness, memory, imagination, reasoning and willpower.",
+      "answer": "A",
+      "en": {"q": "Thinking, intelligence, memory, reasoning and willpower are controlled by the", "options": ["cerebrum", "cerebellum", "medulla oblongata", "hypothalamus"], "explanation": "The cerebrum also controls voluntary actions."},
+      "ta": {"q": "சிந்தனை, அறிவுத்திறன், நினைவாற்றல், பகுத்தறிவு, மன உறுதி ஆகியவற்றைக் கட்டுப்படுத்துவது எது?", "options": ["பெருமூளை", "சிறுமூளை", "முகுளம்", "ஹைப்போதலாமஸ்"], "explanation": "பெருமூளை தன்னிச்சைச் செயல்களையும் கட்டுப்படுத்துகிறது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 222,
+      "quote": "Thalamus present in cerebral medulla is a major conducting centre for sensory and motor signalling. It acts as a relay centre.",
+      "answer": "B",
+      "en": {"q": "The part of the human brain that acts as a relay centre is the", "options": ["hypothalamus", "thalamus", "cerebellum", "pons"], "explanation": "It is a major conducting centre for sensory and motor signals."},
+      "ta": {"q": "மனித மூளையில் அஞ்சல் நிலையமாகச் செயல்படும் பகுதி எது?", "options": ["ஹைப்போதலாமஸ்", "தலாமஸ்", "சிறுமூளை", "பான்ஸ்"], "explanation": "இது உணர்வு, இயக்கச் சமிக்ஞைகளுக்கான முக்கியக் கடத்து மையம்."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 222,
+      "quote": "Hypothalamus ... controls involuntary functions like hunger, thirst, sleep, sweating, sexual desire, anger, fear, water balance, blood pressure etc. It acts as a thermoregulatory (temperature control) center of the body.",
+      "answer": "C",
+      "en": {"q": "A person who lost control of body temperature, water balance and hunger after an accident most likely has damage to the", "options": ["medulla oblongata", "cerebrum", "hypothalamus", "pons"], "explanation": "The hypothalamus is the thermoregulatory centre and controls hunger and thirst."},
+      "ta": {"q": "விபத்துக்குப் பின் உடல் வெப்பநிலை, நீர்ச் சமநிலை, பசி ஆகியவற்றின் கட்டுப்பாட்டை இழந்தவருக்கு எந்தப் பகுதி பாதிக்கப்பட்டிருக்கும்?", "options": ["முகுளம்", "பெருமூளை", "ஹைப்போதலாமஸ்", "பான்ஸ்"], "explanation": "ஹைப்போதலாமஸ் வெப்பநிலைக் கட்டுப்பாட்டு மையம்; பசி, தாகத்தையும் கட்டுப்படுத்துகிறது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 222,
+      "quote": "It controls the secretion of hormones from anterior pituitary gland and is an important link between nervous system and endocrine system.",
+      "answer": "D",
+      "en": {"q": "Which part of the brain acts as the link between the nervous system and the endocrine system?", "options": ["Cerebellum", "Thalamus", "Medulla oblongata", "Hypothalamus"], "explanation": "It controls hormone secretion from the anterior pituitary."},
+      "ta": {"q": "நரம்பு மண்டலத்திற்கும் நாளமில்லாச் சுரப்பி மண்டலத்திற்கும் இணைப்பாகச் செயல்படும் மூளைப் பகுதி எது?", "options": ["சிறுமூளை", "தலாமஸ்", "முகுளம்", "ஹைப்போதலாமஸ்"], "explanation": "இது முன் பிட்யூட்டரியின் ஹார்மோன் சுரப்பைக் கட்டுப்படுத்துகிறது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 222,
+      "quote": "The dorsal portion of the mid brain consists of four rounded bodies called corpora quadrigemina that control visual and auditory (hearing) reflexes.",
+      "answer": "A",
+      "en": {"q": "The four rounded bodies of the midbrain that control visual and auditory reflexes are called", "options": ["corpora quadrigemina", "corpus callosum", "gyri", "vermis"], "explanation": "The midbrain lies between the thalamus and hindbrain."},
+      "ta": {"q": "பார்வை, கேட்டல் அனிச்சைகளைக் கட்டுப்படுத்தும் நடுமூளையின் நான்கு உருண்டை அமைப்புகள் எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["கார்போரா குவாட்ரிஜெமினா", "கார்பஸ் கலோசம்", "கைரி", "வெர்மிஸ்"], "explanation": "நடுமூளை தலாமஸுக்கும் பின்மூளைக்கும் இடையே உள்ளது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 222,
+      "quote": "Hindbrain It is formed of three parts cerebellum, pons and medulla oblongata.",
+      "answer": "B",
+      "en": {"q": "Which of the following is NOT a part of the hindbrain?", "options": ["Cerebellum", "Thalamus", "Pons", "Medulla oblongata"], "explanation": "The thalamus is part of the forebrain (diencephalon)."},
+      "ta": {"q": "பின்வருவனவற்றுள் பின்மூளையின் பகுதி அல்லாதது எது?", "options": ["சிறுமூளை", "தலாமஸ்", "பான்ஸ்", "முகுளம்"], "explanation": "தலாமஸ் முன்மூளையின் (டயன்செஃபலான்) பகுதி."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 223,
+      "quote": "Cerebellum It is second largest part of the brain ... It coordinates voluntary movements and also maintains body balance.",
+      "answer": "C",
+      "en": {"q": "Body balance and coordination of voluntary movements are maintained by the", "options": ["cerebrum", "hypothalamus", "cerebellum", "thalamus"], "explanation": "It has two hemispheres and a middle vermis."},
+      "ta": {"q": "உடல் சமநிலையையும் தன்னிச்சை இயக்க ஒருங்கிணைப்பையும் பேணுவது எது?", "options": ["பெருமூளை", "ஹைப்போதலாமஸ்", "சிறுமூளை", "தலாமஸ்"], "explanation": "இதில் இரு அரைக்கோளங்களும் நடுவில் வெர்மிஸும் உள்ளன."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 223,
+      "quote": "'Pons' a latin word meaning bridge. ... It controls respiration and sleep cycle.",
+      "answer": "D",
+      "en": {"q": "The word 'pons' is Latin for", "options": ["balance", "relay", "seat", "bridge"], "explanation": "Pons helps regulate respiration and the sleep cycle."},
+      "ta": {"q": "'பான்ஸ்' என்ற இலத்தீன் சொல்லின் பொருள் என்ன?", "options": ["சமநிலை", "அஞ்சல்", "இருக்கை", "பாலம்"], "explanation": "பான்ஸ் சுவாசம், உறக்கச் சுழற்சியை ஒழுங்குபடுத்த உதவுகிறது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 223,
+      "quote": "Medulla oblongata ... has cardiac centres, respiratory centres, vasomotor centres to control heart beat, respiration and contractions of blood vessels respectively. It also regulates vomiting and salivation.",
+      "answer": "A",
+      "en": {"q": "The vomiting centre is located in the", "options": ["medulla oblongata", "stomach", "cerebrum", "hypothalamus"], "explanation": "It also has cardiac, respiratory and vasomotor centres."},
+      "ta": {"q": "வாந்தி மையம் எங்குள்ளது?", "options": ["முகுளம்", "இரைப்பை", "பெருமூளை", "ஹைப்போதலாமஸ்"], "explanation": "இதில் இதய, சுவாச, இரத்தக்குழாய் இயக்க மையங்களும் உள்ளன."}
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 223,
+      "quote": "Electroencephalogram (EEG) is an instrument which records the electrical impulses of brain. An EEG can detect abnormalities in the brain waves and help in diagnoses of seizures, epilepsy, brain tumors, head injuries,etc.",
+      "answer": "B",
+      "en": {"q": "The instrument that records the electrical impulses of the brain is the", "options": ["ECG", "EEG", "sphygmomanometer", "stethoscope"], "explanation": "It helps diagnose seizures, epilepsy and brain tumours."},
+      "ta": {"q": "மூளையின் மின் தூண்டல்களைப் பதிவு செய்யும் கருவி எது?", "options": ["ECG", "EEG", "ஸ்பிக்மோமானோமீட்டர்", "ஸ்டெதஸ்கோப்"], "explanation": "இது வலிப்பு, கால்-கை வலிப்பு, மூளைக் கட்டிகளைக் கண்டறிய உதவுகிறது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 223,
+      "quote": "The human brain constitutes nearly 60 percent of fat. The most crucial molecules that determine our brain's integrity and the ability are Essential Fatty Acids (EFAs). ... Fish, green leafy vegetables, almond, walnut are rich sources of EFAs.",
+      "answer": "C",
+      "en": {"q": "According to the text, the human brain is made up of nearly 60 percent", "options": ["water", "protein", "fat", "sugar"], "explanation": "Essential fatty acids must be obtained from food like fish, almonds and walnuts."},
+      "ta": {"q": "பாடநூலின்படி மனித மூளையில் ஏறக்குறைய 60 சதவீதம் எது?", "options": ["நீர்", "புரதம்", "கொழுப்பு", "சர்க்கரை"], "explanation": "அத்தியாவசியக் கொழுப்பு அமிலங்களை மீன், பாதாம், வால்நட் போன்ற உணவிலிருந்து பெற வேண்டும்."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 223,
+      "quote": "It extends from the lower end of medulla oblongata to the first lumbar vertebra. The posterior most region of spinal cord tapers into a thin fibrous thread like structure called filum terminale.",
+      "answer": "D",
+      "en": {"q": "The thread-like posterior end of the spinal cord is called the", "options": ["central canal", "corpus callosum", "dorsal root", "filum terminale"], "explanation": "The spinal cord extends from the medulla to the first lumbar vertebra."},
+      "ta": {"q": "முதுகுத்தண்டின் இழை போன்ற பின்முனை எவ்வாறு அழைக்கப்படுகிறது?", "options": ["மையக் கால்வாய்", "கார்பஸ் கலோசம்", "முதுகு வேர்", "ஃபைலம் டெர்மினேல்"], "explanation": "முதுகுத்தண்டு முகுளம் முதல் முதல் இடுப்பு முள்ளெலும்பு வரை நீண்டுள்ளது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 223,
+      "quote": "The grey matter of spinal cord is 'H' shaped.",
+      "answer": "A",
+      "en": {"q": "The shape of the grey matter in the spinal cord is", "options": ["H", "V", "Y", "O"], "explanation": "The white matter lies outside and has bundles of nerve tracts."},
+      "ta": {"q": "முதுகுத்தண்டின் சாம்பல் பொருளின் வடிவம் என்ன?", "options": ["H", "V", "Y", "O"], "explanation": "வெண்பொருள் வெளியே உள்ளது; நரம்புப் பாதைக் கற்றைகள் கொண்டது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 224,
+      "quote": "Functions: (i) It acts as shock absorbing fluid ... (ii) It supplies nutrients to the brain. (iii) It collects and removes wastes from the brain. (iv) It is also responsible for maintaining a constant pressure inside the cranium.",
+      "answer": "B",
+      "en": {"q": "The fluid that maintains a constant pressure inside the cranium and acts as a shock absorber for the brain is", "options": ["lymph", "cerebrospinal fluid", "pericardial fluid", "blood plasma"], "explanation": "CSF also supplies nutrients to the brain and removes wastes."},
+      "ta": {"q": "மண்டையோட்டினுள் நிலையான அழுத்தத்தைப் பேணி மூளைக்கு அதிர்ச்சித் தாங்கியாகச் செயல்படும் திரவம் எது?", "options": ["நிணநீர்", "மூளைத்தண்டுவட நீர்", "இதய உறை நீர்", "இரத்தப் பிளாஸ்மா"], "explanation": "CSF மூளைக்கு ஊட்டமளித்துக் கழிவுகளையும் நீக்குகிறது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 224,
+      "quote": "Simple or basic reflexes: These reflexes are inbuilt and unlearned responses. ... e.g., winking of eyes when any dust particles enters, sneezing, coughing, yawning",
+      "answer": "C",
+      "en": {"q": "Which of the following is a simple (basic) reflex?", "options": ["Playing harmonium by seeing a music note", "Riding a bicycle", "Sneezing", "Typing on a keyboard"], "explanation": "Simple reflexes are inbuilt and unlearned."},
+      "ta": {"q": "பின்வருவனவற்றுள் எளிய (அடிப்படை) அனிச்சை எது?", "options": ["இசைக்குறிப்பைப் பார்த்து ஆர்மோனியம் வாசித்தல்", "மிதிவண்டி ஓட்டுதல்", "தும்மல்", "விசைப்பலகையில் தட்டச்சு"], "explanation": "எளிய அனிச்சைகள் பிறவியிலேயே உள்ளவை; கற்றுக்கொள்ளாதவை."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 224,
+      "quote": "Acquired or conditioned reflexes: These reflexes are the result of practice and learning. Playing harmonium by striking a particular key on seeing a music note is an example of conditioned reflexes",
+      "answer": "D",
+      "en": {"q": "Conditioned (acquired) reflexes are", "options": ["inbuilt from birth", "controlled only by the medulla", "always involuntary like coughing", "the result of practice and learning"], "explanation": "Playing harmonium on seeing a note is an example."},
+      "ta": {"q": "ஆக்கநிலை (பெறப்பட்ட) அனிச்சைகள் என்பவை", "options": ["பிறப்பிலிருந்தே உள்ளவை", "முகுளத்தால் மட்டும் கட்டுப்படுத்தப்படுபவை", "இருமல் போல எப்போதும் தன்னிச்சையற்றவை", "பயிற்சி, கற்றலின் விளைவு"], "explanation": "இசைக்குறிப்பைப் பார்த்து ஆர்மோனியம் வாசித்தல் எடுத்துக்காட்டு."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 224,
+      "quote": "The pathway taken by nerve impulse to accomplish reflex action is called reflex arc. ... Most of the reflex actions are monitored and controlled by the spinal cord, hence also known as spinal reflexes.",
+      "answer": "A",
+      "en": {"q": "In a reflex action, the reflex arc is formed by", "options": ["receptor, spinal cord, muscle", "brain, spinal cord, muscle", "muscle, receptor, brain", "receptor, brain, gland only"], "explanation": "Most reflexes are controlled by the spinal cord."},
+      "ta": {"q": "அனிச்சைச் செயலில் அனிச்சை வில் எவற்றால் ஆனது?", "options": ["உணர்வேற்பி, முதுகுத்தண்டு, தசை", "மூளை, முதுகுத்தண்டு, தசை", "தசை, உணர்வேற்பி, மூளை", "உணர்வேற்பி, மூளை, சுரப்பி மட்டும்"], "explanation": "பெரும்பாலான அனிச்சைகள் முதுகுத்தண்டால் கட்டுப்படுத்தப்படுகின்றன."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 224,
+      "quote": "When we touch a very hot pan, the stimulus is the heat which is sensed by receptor called as heat receptors or thermoreceptors in our hand.",
+      "answer": "B",
+      "en": {"q": "When we touch a hot pan, the heat is sensed by", "options": ["photoreceptors", "thermoreceptors", "chemoreceptors", "mechanoreceptors"], "explanation": "The arm muscle acts as the effector organ that withdraws the hand."},
+      "ta": {"q": "சூடான பாத்திரத்தைத் தொடும்போது வெப்பத்தை உணர்வது எது?", "options": ["ஒளி ஏற்பிகள்", "வெப்ப ஏற்பிகள்", "வேதி ஏற்பிகள்", "இயக்க ஏற்பிகள்"], "explanation": "கையின் தசை கையை விலக்கும் செயல்விளைவு உறுப்பாகச் செயல்படுகிறது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 225,
+      "quote": "In man, there are 12 pairs of cranial nerves. ... There are 31 pairs of spinal nerves.",
+      "answer": "C",
+      "en": {"q": "In humans there are ______ pairs of cranial nerves and ______ pairs of spinal nerves.", "options": ["31, 12", "12, 13", "12, 31", "12, 37"], "explanation": "Each spinal nerve has a dorsal sensory and a ventral motor root."},
+      "ta": {"q": "மனிதனில் ______ இணை மூளை நரம்புகளும் ______ இணை முதுகுத்தண்டு நரம்புகளும் உள்ளன.", "options": ["31, 12", "12, 13", "12, 31", "12, 37"], "explanation": "ஒவ்வொரு முதுகுத்தண்டு நரம்பிற்கும் முதுகு உணர்வு வேர், வயிற்றுப்புற இயக்க வேர் உண்டு."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 225,
+      "quote": "Each spinal nerve has a dorsal sensory root and the ventral motor root. The direction of impulses in dorsal spinal root is towards the spinal cord and in ventral spinal root away from the spinal cord.",
+      "answer": "D",
+      "en": {"q": "In a spinal nerve, impulses in the ventral root travel", "options": ["towards the spinal cord", "towards the brain only", "in both directions", "away from the spinal cord"], "explanation": "The dorsal (sensory) root carries impulses towards the spinal cord."},
+      "ta": {"q": "முதுகுத்தண்டு நரம்பின் வயிற்றுப்புற வேரில் தூண்டல்கள் எத்திசையில் செல்கின்றன?", "options": ["முதுகுத்தண்டை நோக்கி", "மூளையை நோக்கி மட்டும்", "இருதிசைகளிலும்", "முதுகுத்தண்டிலிருந்து விலகி"], "explanation": "முதுகு (உணர்வு) வேர் தூண்டலை முதுகுத்தண்டை நோக்கிக் கொண்டு செல்கிறது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 225,
+      "quote": "Autonomic nervous system (ANS) is also called as visceral nervous system as it regulates the function of internal visceral organs of our body through its two antagonistic (opposite) components sympathetic and parasympathetic systems.",
+      "answer": "A",
+      "en": {"q": "The two antagonistic components of the autonomic nervous system are", "options": ["sympathetic and parasympathetic", "cranial and spinal", "afferent and efferent", "brain and spinal cord"], "explanation": "ANS is also called the visceral nervous system and controls involuntary functions."},
+      "ta": {"q": "தன்னியக்க நரம்பு மண்டலத்தின் இரு எதிர்ச்செயல் கூறுகள் எவை?", "options": ["பரிவு, இணைப்பரிவு", "மூளை, முதுகுத்தண்டு நரம்புகள்", "உட்செல், வெளிச்செல்", "மூளை, முதுகுத்தண்டு"], "explanation": "ANS உள்ளுறுப்பு நரம்பு மண்டலம் எனவும் அழைக்கப்படும்; தன்னிச்சையற்ற செயல்களைக் கட்டுப்படுத்துகிறது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 221,
+      "quote": "The CNS acts as centre for information processing and control. It consists of the brain and the spinal cord. The PNS is made up of the nerves which connect the brain and spinal cord to all parts of the body.",
+      "answer": "B",
+      "en": {"q": "The central nervous system consists of", "options": ["cranial and spinal nerves", "the brain and spinal cord", "sympathetic and parasympathetic nerves", "all nerves of the body"], "explanation": "PNS consists of nerves connecting the CNS to body parts."},
+      "ta": {"q": "மைய நரம்பு மண்டலம் எவற்றைக் கொண்டது?", "options": ["மூளை, முதுகுத்தண்டு நரம்புகள்", "மூளை, முதுகுத்தண்டு", "பரிவு, இணைப்பரிவு நரம்புகள்", "உடலின் அனைத்து நரம்புகள்"], "explanation": "புற நரம்பு மண்டலம் CNS ஐ உடல் பகுதிகளுடன் இணைக்கும் நரம்புகளைக் கொண்டது."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 219,
+      "quote": "Neurons do not have the ability to divide.",
+      "answer": "C",
+      "en": {"q": "Which statement about neurons is correct according to the text?", "options": ["They divide rapidly", "They lack a nucleus", "They do not have the ability to divide", "They are the shortest cells"], "explanation": "Neurons have a central nucleus and Nissl's granules in the cyton."},
+      "ta": {"q": "பாடநூலின்படி நியூரான்கள் குறித்த சரியான கூற்று எது?", "options": ["வேகமாகப் பிளவுபடும்", "உட்கரு இல்லை", "பிளவுபடும் திறன் இல்லை", "மிகக் குறுகிய செல்கள்"], "explanation": "சைட்டானில் மைய உட்கருவும் நிசில் துகள்களும் உள்ளன."}
+    },
+    {
+      "topic": "zoology-human-physiology", "format": "match_the_following", "difficulty": "medium", "bloom": "remember", "page": 227,
+      "quote": "Nissil's granules – Cyton; Hypothalamus – Forebrain; Cerebellum – Hindbrain; Schwann cell – Peripheral Nervous system",
+      "answer": "D",
+      "en": {"q": "Match: (a) Nissl's granules (b) Hypothalamus (c) Cerebellum (d) Schwann cell — (1) Peripheral nervous system (2) Hindbrain (3) Forebrain (4) Cyton", "options": ["a-1, b-2, c-3, d-4", "a-2, b-1, c-4, d-3", "a-3, b-4, c-1, d-2", "a-4, b-3, c-2, d-1"], "explanation": "Nissl's granules are in the cyton; hypothalamus is in the forebrain; cerebellum in the hindbrain."},
+      "ta": {"q": "பொருத்துக: (a) நிசில் துகள்கள் (b) ஹைப்போதலாமஸ் (c) சிறுமூளை (d) ஷ்வான் செல் — (1) புற நரம்பு மண்டலம் (2) பின்மூளை (3) முன்மூளை (4) சைட்டான்", "options": ["a-1, b-2, c-3, d-4", "a-2, b-1, c-4, d-3", "a-3, b-4, c-1, d-2", "a-4, b-3, c-2, d-1"], "explanation": "நிசில் துகள்கள் சைட்டானில்; ஹைப்போதலாமஸ் முன்மூளையில்; சிறுமூளை பின்மூளையில்."}
+    }
+  ]
+}
