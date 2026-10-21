@@ -85,6 +85,7 @@ final class TnpscGroup4Seeder extends Seeder
                 'Indian National Movement',
                 'World History',
                 'Art, Culture and Heritage',
+                'Medieval India',
             ],
             'Unit IV — Indian Polity' => [
                 'Constitution of India',
@@ -143,6 +144,7 @@ final class TnpscGroup4Seeder extends Seeder
         'World History' => ['world war', 'league of nations', 'united nations', 'cold war', 'russian revolution', 'fascism', 'nazism', 'உலக வரலாறு', 'உலகப் போர்'],
         'Indian National Movement' => ['national movement', 'freedom struggle', 'british rule', 'independence', 'colonialism', 'revolt of 1857', 'விடுதலைப் போராட்டம்'],
         'Art, Culture and Heritage' => ['art', 'architecture', 'culture', 'heritage', 'temples', 'festivals', 'பண்பாடு'],
+        'Medieval India' => ['medieval india', 'delhi sultanate', 'delhi sultans', 'mughals', 'mughal empire', 'marathas', 'vijayanagar', 'bahmani', 'rajputs', 'இடைக்கால இந்தியா', 'டெல்லி சுல்தான்கள்', 'முகலாயர்'],
         'Constitution of India' => ['constitution', 'preamble', 'democracy', 'citizenship', 'அரசியலமைப்பு', 'மக்களாட்சி'],
         'Fundamental Rights and Duties' => ['rights', 'fundamental rights', 'duties', 'human rights', 'உரிமைகள்'],
         'Union and State Executive' => ['parliament', 'president', 'prime minister', 'state government', 'judiciary', 'legislature', 'executive', 'elections', 'தேர்தல்'],
