@@ -29,6 +29,7 @@ export default function AdminLayout({ children }: { children: ReactNode }) {
             <NavLink href="/admin/translations">Translations</NavLink>
             <NavLink href="/admin/ai">AI history</NavLink>
             <NavLink href="/admin/audit">Audit</NavLink>
+            <NavLink href="/admin/chapters">Approve by chapter</NavLink>
             <NavLink href="/review">Review queue</NavLink>
           </div>
         </div>

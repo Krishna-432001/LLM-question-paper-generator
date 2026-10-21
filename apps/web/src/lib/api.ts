@@ -1512,3 +1512,45 @@ export const glossaryApi = {
   importCsv: (payload: { source_language_id: string; target_language_id: string; csv: string }) =>
     api.post<Envelope<{ created: number; updated: number; skipped: number; errors: string[] }>>("/glossary/import", payload),
 };
+
+// ---- Chapter review -------------------------------------------------------
+// Written questions approved a chapter at a time, on a spot-checked sample.
+
+export interface ChapterRow {
+  key: string;
+  source: string;
+  breadcrumb: string;
+  pending: number;
+  approved: number;
+  rejected: number;
+}
+
+export interface ChapterSampleQuestion {
+  question_id: string;
+  review_id: string | null;
+  format: string;
+  difficulty: string;
+  topic: string | null;
+  page: number | null;
+  quote: string | null;
+  correct_option: string | null;
+  master: { question_text: string | null; options: Record<string, string> | null; explanation: string | null };
+  /** Absent for Tamil-language chapters, whose master is already Tamil. */
+  tamil: { question_text: string | null; options: Record<string, string> | null; explanation: string | null } | null;
+}
+
+export const chapterReviews = {
+  list: () =>
+    api.get<Envelope<ChapterRow[]> & { meta: { chapters: number; pending: number } }>("/chapter-reviews"),
+  sample: (key: string, size = 5) =>
+    api.get<Envelope<{ chapter: ChapterRow; questions: ChapterSampleQuestion[] }>>(
+      `/chapter-reviews/${key}/sample?size=${size}`,
+    ),
+  /** One batch; call again while `remaining` is above zero. */
+  approve: (key: string, checkedQuestionIds: string[]) =>
+    api.post<Envelope<{ approved: number; skipped: number; remaining: number }>>(
+      `/chapter-reviews/${key}/approve`,
+      { checked_question_ids: checkedQuestionIds },
+    ),
+};
+// ---- end chapter review ---------------------------------------------------

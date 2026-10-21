@@ -259,5 +259,19 @@ Route::prefix('v1')->group(function (): void {
             Route::delete('{term}', [\App\Http\Controllers\Api\V1\GlossaryController::class, 'destroy']);
         });
         // ---- end translation engine ----------------------------------------
+
+        /*
+        | ---- Chapter review --------------------------------------------------
+        | Written questions approved a chapter at a time: read a random sample
+        | of the chapter's waiting questions, then approve the chapter on it.
+        */
+        Route::prefix('chapter-reviews')->group(function (): void {
+            Route::get('/', [\App\Http\Controllers\Api\V1\ChapterReviewController::class, 'index']);
+            Route::get('{key}/sample', [\App\Http\Controllers\Api\V1\ChapterReviewController::class, 'sample'])
+                ->where('key', '[0-9a-f]{32}');
+            Route::post('{key}/approve', [\App\Http\Controllers\Api\V1\ChapterReviewController::class, 'approve'])
+                ->where('key', '[0-9a-f]{32}');
+        });
+        // ---- end chapter review ----------------------------------------------
     });
 });
