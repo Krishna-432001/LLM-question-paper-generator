@@ -118,6 +118,8 @@ final class TnpscGroup4Seeder extends Seeder
                 'Ratio, Proportion and Averages',
                 'Time, Work and Distance',
                 'Logical Reasoning and Series',
+                'HCF and LCM',
+                'Area and Volume',
             ],
         ],
     ];
@@ -166,6 +168,8 @@ final class TnpscGroup4Seeder extends Seeder
         'Ratio, Proportion and Averages' => ['ratio', 'proportion', 'averages', 'profit and loss', 'interest'],
         'Time, Work and Distance' => ['time and work', 'time and distance', 'speed'],
         'Logical Reasoning and Series' => ['reasoning', 'series', 'puzzles', 'number series'],
+        'HCF and LCM' => ['hcf', 'lcm', 'highest common factor', 'least common multiple', 'factors', 'multiples', 'மீ.பெ.கா', 'மீ.சி.ம'],
+        'Area and Volume' => ['area', 'perimeter', 'volume', 'surface area', 'mensuration', 'circle', 'cylinder', 'cone', 'sphere', 'பரப்பளவு', 'கனஅளவு'],
     ];
 
     /**

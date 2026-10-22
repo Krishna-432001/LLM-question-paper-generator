@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace App\Domain\Review;
 
-use App\Domain\Questions\Aptitude\AptitudeGenerator;
+use App\Domain\Questions\Aptitude\AptitudeBooks;
 use App\Models\Language;
 use App\Models\Question;
 use App\Models\Review;
@@ -145,7 +145,7 @@ final class ChapterReview
 
         // The bank keeps at most 50 questions per book chapter; the extras are
         // rejected, not approved. Generated aptitude sets are exempt.
-        if ($chapter['breadcrumb'] !== AptitudeGenerator::BREADCRUMB
+        if (! AptitudeBooks::isGenerated($chapter['breadcrumb'])
             && $chapter['approved'] + $chapter['pending'] > self::MAX_PER_CHAPTER) {
             throw new RuntimeException(sprintf(
                 'Approving this chapter would give it %d approved questions; a book chapter keeps at most %d. Reject the extras first.',
