@@ -1,0 +1,1225 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 7 Science Term-II (English)",
+  "breadcrumb": "Std 7 Science Term-II (English) — Unit 2: Electricity",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 15,
+      "quote": "Before the discovery of electrons, scientists believed that an electric current consisted of moving positive charges. This movement of positive charges is called conventional current.",
+      "answer": "A",
+      "en": {
+        "q": "The movement of positive charges, which scientists once believed to be the electric current, is called",
+        "options": [
+          "conventional current",
+          "electron flow",
+          "alternating current",
+          "static charge"
+        ],
+        "explanation": "Before electrons were discovered, current was thought to be a flow of positive charges; this is called conventional current."
+      },
+      "ta": {
+        "q": "மின்னோட்டம் என்பது நேர்மின்னூட்டங்களின் நகர்வே என அறிவியலாளர்கள் முன்பு நம்பினர்; நேர்மின்னூட்டங்களின் இந்த நகர்வு எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "மரபு மின்னோட்டம்",
+          "எலக்ட்ரான் ஓட்டம்",
+          "மாறுதிசை மின்னோட்டம்",
+          "நிலை மின்னூட்டம்"
+        ],
+        "explanation": "எலக்ட்ரான் கண்டுபிடிக்கப்படும் முன் மின்னோட்டம் நேர்மின்னூட்டங்களின் நகர்வு என எண்ணப்பட்டது; இது மரபு மின்னோட்டம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 15,
+      "quote": "After the electrons were discovered, it was known that electron flow actually takes place from the negative terminal to the positive terminal of the battery.",
+      "answer": "B",
+      "en": {
+        "q": "Electron flow in a circuit actually takes place from the",
+        "options": [
+          "positive terminal to the negative terminal of the battery",
+          "negative terminal to the positive terminal of the battery",
+          "switch to the bulb only",
+          "bulb to the switch only"
+        ],
+        "explanation": "Electrons leave the negative terminal and travel to the positive terminal; conventional current is shown in the opposite direction."
+      },
+      "ta": {
+        "q": "ஒரு மின்சுற்றில் எலக்ட்ரான் ஓட்டம் உண்மையில் எத்திசையில் நிகழ்கிறது?",
+        "options": [
+          "மின்கலத்தின் நேர்முனையிலிருந்து எதிர்முனைக்கு",
+          "மின்கலத்தின் எதிர்முனையிலிருந்து நேர்முனைக்கு",
+          "சுவிட்சிலிருந்து பல்புக்கு மட்டும்",
+          "பல்பிலிருந்து சுவிட்சுக்கு மட்டும்"
+        ],
+        "explanation": "எலக்ட்ரான்கள் எதிர்முனையிலிருந்து நேர்முனைக்குச் செல்கின்றன; மரபு மின்னோட்டத்தின் திசை இதற்கு எதிரானது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 14,
+      "quote": "If 30 coulomb of electric charge flows through a wire in two minutes, calculate the current in the wire? ... Time (t) = 2 min x 60s = 120 s ... Current I = q/t = 30C/120s = 0.25 A",
+      "answer": "C",
+      "en": {
+        "q": "If 30 coulomb of charge flows through a wire in two minutes, the current in the wire is",
+        "options": [
+          "60 A",
+          "15 A",
+          "0.25 A",
+          "4 A"
+        ],
+        "explanation": "I = q/t with t = 2 × 60 = 120 s, so I = 30/120 = 0.25 A."
+      },
+      "ta": {
+        "q": "30 கூலூம் மின்னூட்டம் ஒரு கம்பி வழியே இரண்டு நிமிடத்தில் பாய்கிறது எனில், கம்பியில் பாயும் மின்னோட்டம்",
+        "options": [
+          "60 A",
+          "15 A",
+          "0.25 A",
+          "4 A"
+        ],
+        "explanation": "I = q/t; t = 2 × 60 = 120 s; எனவே I = 30/120 = 0.25 A."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 15,
+      "quote": "If 0.002A current flows through a circuit, then convert the current in terms of micro ampere? ... 1 A = 10^6 µA ... 0.002A = 2000 µA",
+      "answer": "D",
+      "en": {
+        "q": "A current of 0.002 A is equal to",
+        "options": [
+          "20 000 µA",
+          "2 µA",
+          "200 µA",
+          "2000 µA"
+        ],
+        "explanation": "1 A = 10⁶ µA, so 0.002 A = 0.002 × 10⁶ = 2000 µA."
+      },
+      "ta": {
+        "q": "0.002 A மின்னோட்டம் என்பது",
+        "options": [
+          "20 000 µA",
+          "2 µA",
+          "200 µA",
+          "2000 µA"
+        ],
+        "explanation": "1 A = 10⁶ µA; எனவே 0.002 A = 0.002 × 10⁶ = 2000 µA."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 32,
+      "quote": "Small amounts of electrical current are measured in milliampere (mA). How many milliampere are there in 0.25 A ? ... 1 milliampere (mA) = 10-3 ampere.",
+      "answer": "A",
+      "en": {
+        "q": "The number of milliampere in 0.25 A is",
+        "options": [
+          "250 mA",
+          "25 mA",
+          "2.5 mA",
+          "2500 mA"
+        ],
+        "explanation": "1 mA = 10⁻³ A, so 1 A = 1000 mA and 0.25 A = 250 mA."
+      },
+      "ta": {
+        "q": "0.25 A என்பது எத்தனை மில்லி ஆம்பியர்?",
+        "options": [
+          "250 mA",
+          "25 mA",
+          "2.5 mA",
+          "2500 mA"
+        ],
+        "explanation": "1 mA = 10⁻³ A; எனவே 1 A = 1000 mA; 0.25 A = 250 mA."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 32,
+      "quote": "In the circuit diagram below, 10 units of electric charge move past point x every second .What is the current in the circuit?",
+      "answer": "B",
+      "en": {
+        "q": "If 10 coulomb of charge move past a point in a circuit every second, the current is",
+        "options": [
+          "1 A",
+          "10 A",
+          "10 V",
+          "1 V"
+        ],
+        "explanation": "I = q/t = 10 C / 1 s = 10 A; current is measured in ampere, not volt."
+      },
+      "ta": {
+        "q": "ஒரு மின்சுற்றில் ஒரு புள்ளியைக் கடந்து ஒவ்வோர் விநாடியும் 10 கூலூம் மின்னூட்டம் செல்கிறது எனில், மின்னோட்டம்",
+        "options": [
+          "1 A",
+          "10 A",
+          "10 V",
+          "1 V"
+        ],
+        "explanation": "I = q/t = 10 C / 1 s = 10 A; மின்னோட்டத்தின் அலகு ஆம்பியர் (வோல்ட் அல்ல)."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 15,
+      "quote": "The potential difference between any two points in the circuit is the amount of energy needed to move one unit of electric charge from one point to the other.",
+      "answer": "C",
+      "en": {
+        "q": "The potential difference between two points in a circuit is the energy needed to",
+        "options": [
+          "store one unit of electric charge in a cell",
+          "produce one unit of resistance",
+          "move one unit of electric charge from one point to the other",
+          "stop the flow of one unit of current"
+        ],
+        "explanation": "Potential difference (voltage) is measured in volt by a voltmeter."
+      },
+      "ta": {
+        "q": "ஒரு மின்சுற்றில் இரு புள்ளிகளுக்கு இடையிலான மின்னழுத்த வேறுபாடு என்பது",
+        "options": [
+          "ஓர் அலகு மின்னூட்டத்தை மின்கலத்தில் சேமிக்கத் தேவையான ஆற்றல்",
+          "ஓர் அலகு மின்தடையை உருவாக்கத் தேவையான ஆற்றல்",
+          "ஓர் அலகு மின்னூட்டத்தை ஒரு புள்ளியிலிருந்து மற்றொரு புள்ளிக்கு நகர்த்தத் தேவையான ஆற்றல்",
+          "ஓர் அலகு மின்னோட்டத்தை நிறுத்தத் தேவையான ஆற்றல்"
+        ],
+        "explanation": "மின்னழுத்த வேறுபாட்டின் அலகு வோல்ட்; அதை வோல்ட்மீட்டரால் அளக்கலாம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 15,
+      "quote": "Water always flows from higher to lower ground. Similarly an electric charge always flows from a point at higher potential to a point at lower potential.",
+      "answer": "D",
+      "en": {
+        "q": "Like water flowing from higher to lower ground, an electric charge always flows from a point at",
+        "options": [
+          "equal potential to another point at equal potential",
+          "lower potential to a point at higher potential",
+          "zero potential to a point at higher potential",
+          "higher potential to a point at lower potential"
+        ],
+        "explanation": "A potential difference is needed to drive charges, just as a height difference drives water."
+      },
+      "ta": {
+        "q": "நீர் உயர்ந்த இடத்திலிருந்து தாழ்ந்த இடத்திற்குப் பாய்வதைப் போல, மின்னூட்டம் எப்போதும் பாய்வது",
+        "options": [
+          "சம மின்னழுத்தம் உள்ள ஒரு புள்ளியிலிருந்து மற்றொன்றுக்கு",
+          "தாழ் மின்னழுத்தப் புள்ளியிலிருந்து உயர் மின்னழுத்தப் புள்ளிக்கு",
+          "சுழி மின்னழுத்தப் புள்ளியிலிருந்து உயர் மின்னழுத்தப் புள்ளிக்கு",
+          "உயர் மின்னழுத்தப் புள்ளியிலிருந்து தாழ் மின்னழுத்தப் புள்ளிக்கு"
+        ],
+        "explanation": "நீரை உயர வேறுபாடு பாயச் செய்வது போல, மின்னூட்டங்களைப் பாயச் செய்வது மின்னழுத்த வேறுபாடு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 16,
+      "quote": "Resistance of a component is the ratio of the potential difference across it to the current flowing through it. R = V / I. The SI unit of resistance is ohm",
+      "answer": "A",
+      "en": {
+        "q": "The resistance of a component is the ratio of",
+        "options": [
+          "the potential difference across it to the current flowing through it",
+          "the current flowing through it to the potential difference across it",
+          "the charge on it to the time taken",
+          "the length of the wire to its area of cross-section"
+        ],
+        "explanation": "R = V/I; the greater the ratio of V to I, the greater the resistance."
+      },
+      "ta": {
+        "q": "ஒரு கூறின் மின்தடை என்பது எதன் விகிதமாகும்?",
+        "options": [
+          "அதன் குறுக்கே உள்ள மின்னழுத்த வேறுபாட்டிற்கும் அதன் வழியே பாயும் மின்னோட்டத்திற்கும் உள்ள விகிதம்",
+          "அதன் வழியே பாயும் மின்னோட்டத்திற்கும் அதன் குறுக்கே உள்ள மின்னழுத்த வேறுபாட்டிற்கும் உள்ள விகிதம்",
+          "அதிலுள்ள மின்னூட்டத்திற்கும் எடுத்துக்கொண்ட நேரத்திற்கும் உள்ள விகிதம்",
+          "கம்பியின் நீளத்திற்கும் குறுக்குவெட்டுப் பரப்பிற்கும் உள்ள விகிதம்"
+        ],
+        "explanation": "R = V/I; V/I விகிதம் அதிகமாக இருந்தால் மின்தடையும் அதிகம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 16,
+      "quote": "It is commonly represented by the Greek letter σ (sigma) The SI Unit of electrical conductivity is Siemens/meter(S/m)",
+      "answer": "B",
+      "en": {
+        "q": "The SI unit of electrical conductivity is",
+        "options": [
+          "ohm metre (Ω m)",
+          "siemens per metre (S/m)",
+          "ohm (Ω)",
+          "ampere per second"
+        ],
+        "explanation": "Conductivity (σ) is the ability of a material to conduct current; resistivity is measured in ohm-metre."
+      },
+      "ta": {
+        "q": "மின் கடத்துத்திறனின் SI அலகு",
+        "options": [
+          "ஓம்-மீட்டர் (Ω m)",
+          "சீமென்ஸ்/மீட்டர் (S/m)",
+          "ஓம் (Ω)",
+          "ஆம்பியர்/விநாடி"
+        ],
+        "explanation": "மின் கடத்துத்திறனின் (σ) SI அலகு S/m; மின்தடைத்திறனின் (resistivity) அலகு ஓம்-மீட்டர்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 17,
+      "quote": "The pressure is like the voltage generated by the battery which drives electrons through the electric circuit.",
+      "answer": "C",
+      "en": {
+        "q": "In the water-flow analogy of an electric circuit, the pressure generated by the pump is like the",
+        "options": [
+          "current in the wire",
+          "resistance of the wire",
+          "voltage generated by the battery",
+          "switch in the circuit"
+        ],
+        "explanation": "The pipe is like the wire, the pump like the battery and the pressure like the voltage that drives electrons."
+      },
+      "ta": {
+        "q": "மின்சுற்றை நீர்ப்பாய்வுடன் ஒப்பிடும்போது, பம்ப் உருவாக்கும் அழுத்தம் எதனை ஒத்தது?",
+        "options": [
+          "கம்பியிலுள்ள மின்னோட்டம்",
+          "கம்பியின் மின்தடை",
+          "மின்கலம் உருவாக்கும் மின்னழுத்தம்",
+          "மின்சுற்றிலுள்ள சுவிட்ச்"
+        ],
+        "explanation": "குழாய் கம்பியைப் போன்றது; பம்ப் மின்கலத்தைப் போன்றது; அழுத்தம் எலக்ட்ரான்களைச் செலுத்தும் மின்னழுத்தத்தைப் போன்றது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 17,
+      "quote": "Suppose, there are some dust and rust that plug up the pipe and slow the flow of water, creating a pressure difference from one end to the other end of the pipe. In similar way, the resistance in the electric circuit resists the flow of electrons",
+      "answer": "D",
+      "en": {
+        "q": "In the water-pipe analogy, dust and rust plugging the pipe and slowing the water correspond to",
+        "options": [
+          "the electric charge",
+          "voltage of the battery",
+          "the switch of the circuit",
+          "resistance in the electric circuit"
+        ],
+        "explanation": "Resistance opposes the flow of electrons and creates a voltage drop; the energy lost appears as heat."
+      },
+      "ta": {
+        "q": "நீர்க்குழாயில் தூசியும் துருவும் அடைத்து நீரின் ஓட்டத்தைத் தடுப்பது, மின்சுற்றில் எதற்கு ஒப்பாகும்?",
+        "options": [
+          "மின்னூட்டம்",
+          "மின்கலத்தின் மின்னழுத்தம்",
+          "மின்சுற்றின் சுவிட்ச்",
+          "மின்சுற்றிலுள்ள மின்தடை"
+        ],
+        "explanation": "மின்தடை எலக்ட்ரான்களின் ஓட்டத்தைத் தடுத்து மின்னழுத்த இறக்கத்தை ஏற்படுத்தும்; இழந்த ஆற்றல் வெப்பமாக வெளிப்படும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 17,
+      "quote": "Electric cell converts chemical energy into electrical energy",
+      "answer": "A",
+      "en": {
+        "q": "An electric cell converts",
+        "options": [
+          "chemical energy into electrical energy",
+          "electrical energy into chemical energy",
+          "heat energy into sound energy",
+          "light energy into chemical energy"
+        ],
+        "explanation": "A chemical reaction inside the cell produces charge at its two terminals."
+      },
+      "ta": {
+        "q": "மின்கலம் எந்த ஆற்றலை எந்த ஆற்றலாக மாற்றுகிறது?",
+        "options": [
+          "வேதி ஆற்றலை மின் ஆற்றலாக",
+          "மின் ஆற்றலை வேதி ஆற்றலாக",
+          "வெப்ப ஆற்றலை ஒலி ஆற்றலாக",
+          "ஒளி ஆற்றலை வேதி ஆற்றலாக"
+        ],
+        "explanation": "மின்கலத்தினுள் நிகழும் வேதிவினை அதன் இரு முனைகளிலும் மின்னூட்டத்தை உருவாக்குகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 18,
+      "quote": "The dry cell commonly used in torches is an example of a primary cell. It cannot be recharged after use.",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following is a primary cell?",
+        "options": [
+          "Lead accumulator",
+          "The dry cell used in torches",
+          "Edison accumulator",
+          "Nickel-iron accumulator"
+        ],
+        "explanation": "A dry cell cannot be recharged after use; lead, Edison and nickel-iron accumulators are secondary cells."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் எது முதன்மை மின்கலம் (primary cell)?",
+        "options": [
+          "ஈய அடுக்கு மின்கலம் (lead accumulator)",
+          "டார்ச்சுகளில் பயன்படும் உலர் மின்கலம்",
+          "எடிசன் அடுக்கு மின்கலம்",
+          "நிக்கல்-இரும்பு அடுக்கு மின்கலம்"
+        ],
+        "explanation": "உலர் மின்கலத்தை மீண்டும் மின்னேற்ற முடியாது; ஈய, எடிசன், நிக்கல்-இரும்பு அடுக்கு மின்கலங்கள் இரண்டாம்நிலை மின்கலங்கள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 18,
+      "quote": "Secondary cells are used in automobiles and generators. The chemical reaction in them can be reversed, hence they can be recharged.",
+      "answer": "C",
+      "en": {
+        "q": "A secondary cell can be recharged because the chemical reaction inside it is",
+        "options": [
+          "absent",
+          "irreversible",
+          "reversible",
+          "explosive"
+        ],
+        "explanation": "In a primary cell the reaction is irreversible, so it cannot be recharged; in a secondary cell it can be reversed."
+      },
+      "ta": {
+        "q": "இரண்டாம்நிலை மின்கலத்தை மீண்டும் மின்னேற்ற இயல்வதற்குக் காரணம், அதனுள் நிகழும் வேதிவினை",
+        "options": [
+          "நிகழாதது",
+          "மீளாவினை",
+          "மீள்வினை (தலைகீழாக்கக் கூடியது)",
+          "வெடிக்கும் தன்மை உடையது"
+        ],
+        "explanation": "முதன்மை மின்கலத்தில் வேதிவினை மீளாவினை; இரண்டாம்நிலை மின்கலத்தில் தலைகீழாக்க முடியும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "It consists of zinc vessel which acts as a negative electrode or anode.",
+      "answer": "D",
+      "en": {
+        "q": "In a dry cell, the zinc vessel acts as the",
+        "options": [
+          "depolarizer",
+          "positive electrode (cathode)",
+          "electrolyte",
+          "negative electrode (anode)"
+        ],
+        "explanation": "The zinc vessel is the negative electrode; the carbon rod with a brass cap is the positive electrode."
+      },
+      "ta": {
+        "q": "உலர் மின்கலத்தில் துத்தநாகக் கலன் எவ்வாறு செயல்படுகிறது?",
+        "options": [
+          "முனைவு நீக்கி",
+          "நேர்மின்முனை (கேதோடு)",
+          "மின்பகுளி",
+          "எதிர்மின்முனை (ஆனோடு)"
+        ],
+        "explanation": "துத்தநாகக் கலன் எதிர்மின்முனை; பித்தளைத் தொப்பியுடன் கூடிய கார்பன் கம்பி நேர்மின்முனை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "The vessel contains a moist paste of saw dust saturated with a solution of ammonium chloride and zinc chloride. The ammonium chloride acts as an electrolyte.",
+      "answer": "A",
+      "en": {
+        "q": "In a dry cell, the substance that acts as the electrolyte is",
+        "options": [
+          "ammonium chloride",
+          "manganese dioxide",
+          "zinc chloride",
+          "carbon"
+        ],
+        "explanation": "Ammonium chloride is the electrolyte; zinc chloride keeps the paste moist and MnO₂ is the depolarizer."
+      },
+      "ta": {
+        "q": "உலர் மின்கலத்தில் மின்பகுளியாகச் செயல்படும் பொருள்",
+        "options": [
+          "அம்மோனியம் குளோரைடு",
+          "மாங்கனீசு டைஆக்சைடு",
+          "துத்தநாகக் குளோரைடு",
+          "கார்பன்"
+        ],
+        "explanation": "அம்மோனியம் குளோரைடு மின்பகுளி; துத்தநாகக் குளோரைடு பசையை ஈரமாக வைக்கிறது; MnO₂ முனைவு நீக்கி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 19,
+      "quote": "The purpose of zinc chloride is to maintain the moistness of the paste being highly hygroscopic.",
+      "answer": "B",
+      "en": {
+        "q": "In a dry cell, zinc chloride is added to",
+        "options": [
+          "act as the positive electrode",
+          "keep the paste moist",
+          "remove the gases formed",
+          "seal the zinc vessel"
+        ],
+        "explanation": "Zinc chloride is highly hygroscopic (absorbs moisture), so the paste does not dry out."
+      },
+      "ta": {
+        "q": "உலர் மின்கலத்தில் துத்தநாகக் குளோரைடு சேர்க்கப்படுவதன் நோக்கம்",
+        "options": [
+          "நேர்மின்முனையாகச் செயல்பட",
+          "பசையை ஈரமாகவே வைத்திருக்க",
+          "உருவாகும் வாயுக்களை அகற்ற",
+          "துத்தநாகக் கலனை மூட"
+        ],
+        "explanation": "துத்தநாகக் குளோரைடு ஈரம் உறிஞ்சும் தன்மை மிக்கது; எனவே பசை உலர்ந்துவிடாது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "Here MnO2 acts as depolarizer.",
+      "answer": "C",
+      "en": {
+        "q": "In a dry cell, manganese dioxide (MnO₂) acts as the",
+        "options": [
+          "negative electrode",
+          "electrolyte",
+          "depolarizer",
+          "sealing material"
+        ],
+        "explanation": "MnO₂ is packed with charcoal around the carbon rod in a muslin bag and works as depolarizer."
+      },
+      "ta": {
+        "q": "உலர் மின்கலத்தில் மாங்கனீசு டைஆக்சைடு (MnO₂) எவ்வாறு செயல்படுகிறது?",
+        "options": [
+          "எதிர்மின்முனையாக",
+          "மின்பகுளியாக",
+          "முனைவு நீக்கியாக (depolarizer)",
+          "அடைப்புப் பொருளாக"
+        ],
+        "explanation": "கார்பன் கம்பியைச் சுற்றி கரித்தூளுடன் மஸ்லின் பையில் அடைக்கப்பட்ட MnO₂ முனைவு நீக்கியாகச் செயல்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "Batteries are a collection of one or more cells whose chemical reactions create a flow of electrons in a circuit. All batteries are made up of three basic components",
+      "answer": "D",
+      "en": {
+        "q": "All batteries are made up of three basic components, namely",
+        "options": [
+          "a cathode, a resistor and a voltmeter",
+          "a switch, a bulb and a wire",
+          "an anode, a diaphragm and a fuse",
+          "an anode, a cathode and an electrolyte"
+        ],
+        "explanation": "A battery has two electrodes (anode and cathode) and an electrolyte that reacts chemically with them."
+      },
+      "ta": {
+        "q": "எல்லா மின்கலத் தொகுதிகளும் (batteries) மூன்று அடிப்படைக் கூறுகளால் ஆனவை; அவை",
+        "options": [
+          "கேதோடு, மின்தடையம், வோல்ட்மீட்டர்",
+          "சுவிட்ச், பல்பு, கம்பி",
+          "ஆனோடு, டயபிராம், மின்உருகி",
+          "ஆனோடு, கேதோடு, மின்பகுளி"
+        ],
+        "explanation": "மின்கலத் தொகுதியில் இரு மின்முனைகளும் (ஆனோடு, கேதோடு) அவற்றுடன் வேதிவினை புரியும் மின்பகுளியும் உண்டு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "One fateful day in 1780, Italian physicist, physician, biologist, and philosopher, Luigi Galvani, was dissecting a frog attached to a brass hook. As he touched the frog's leg with an iron scapel, the leg twitched.",
+      "answer": "A",
+      "en": {
+        "q": "Which Italian scientist noticed in 1780 that a dissected frog's leg twitched when touched with an iron scalpel?",
+        "options": [
+          "Luigi Galvani",
+          "Alessandro Volta",
+          "Thomas Alva Edison",
+          "Hans Christian Oersted"
+        ],
+        "explanation": "Galvani thought the energy came from the leg itself; his fellow scientist Volta believed otherwise."
+      },
+      "ta": {
+        "q": "1780-ஆம் ஆண்டில், இரும்புக் கத்தியால் தொட்டபோது தவளையின் கால் துடிப்பதை அவதானித்த இத்தாலிய அறிவியலாளர் யார்?",
+        "options": [
+          "லூய்கி கால்வானி",
+          "அலெசாண்ட்ரோ வோல்ட்டா",
+          "தாமஸ் ஆல்வா எடிசன்",
+          "ஹான்ஸ் கிறிஸ்டியன் ஆயர்ஸ்டெட்"
+        ],
+        "explanation": "ஆற்றல் காலிலிருந்தே வருகிறது என கால்வானி கருதினார்; அவரது சக அறிவியலாளர் வோல்ட்டா வேறுபடக் கருதினார்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 20,
+      "quote": "Volta published his findings in 1791 and later created the first battery, the voltaic pile, in 1800. The invention of the modern battery is often attributed to Alessandro Volta.",
+      "answer": "B",
+      "en": {
+        "q": "The first battery, the voltaic pile, was created in 1800 by",
+        "options": [
+          "Luigi Galvani",
+          "Alessandro Volta",
+          "Thomas Alva Edison",
+          "Michael Faraday"
+        ],
+        "explanation": "The invention of the modern battery is often attributed to Alessandro Volta."
+      },
+      "ta": {
+        "q": "1800-ஆம் ஆண்டில் முதல் மின்கலத் தொகுதியான வோல்ட்டா அடுக்கை (voltaic pile) உருவாக்கியவர்",
+        "options": [
+          "லூய்கி கால்வானி",
+          "அலெசாண்ட்ரோ வோல்ட்டா",
+          "தாமஸ் ஆல்வா எடிசன்",
+          "மைக்கேல் ஃபாரடே"
+        ],
+        "explanation": "நவீன மின்கலத் தொகுதியின் கண்டுபிடிப்பு பெரும்பாலும் அலெசாண்ட்ரோ வோல்ட்டாவையே சாரும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 21,
+      "quote": "Closed: Electric current flows in the electric circuit. Bulb lights up. Open: No electric current flows in the electric circuit. Bulb does not light up",
+      "answer": "C",
+      "en": {
+        "q": "A bulb connected to a cell through an open switch does not light up because in an open circuit",
+        "options": [
+          "the bulb has high resistance",
+          "the cell loses its charge",
+          "no electric current flows",
+          "the electrons flow in the opposite direction"
+        ],
+        "explanation": "Current flows only in a closed circuit; opening the switch breaks the path."
+      },
+      "ta": {
+        "q": "திறந்த சுவிட்சுடன் மின்கலத்தோடு இணைக்கப்பட்ட பல்பு ஒளிராததற்குக் காரணம், திறந்த மின்சுற்றில்",
+        "options": [
+          "பல்பின் மின்தடை அதிகமாகிறது",
+          "மின்கலம் தன் மின்னூட்டத்தை இழக்கிறது",
+          "மின்னோட்டம் பாய்வதில்லை",
+          "எலக்ட்ரான்கள் எதிர்த்திசையில் பாய்கின்றன"
+        ],
+        "explanation": "மூடிய மின்சுற்றில் மட்டுமே மின்னோட்டம் பாயும்; சுவிட்சைத் திறந்தால் பாதை துண்டிக்கப்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 23,
+      "quote": "Series Circuit: Single loop connection; Bulbs dimmer; Bulbs share power; All bulbs go out if one goes out. Parallel Circuit: Connected by branches; Bulbs brighter; Each bulb fully powered; All bulbs stay lit if one goes out",
+      "answer": "D",
+      "en": {
+        "q": "Which of the following is true of bulbs connected in a parallel circuit?",
+        "options": [
+          "All of them go out if one bulb goes out",
+          "They share the power and glow dimmer",
+          "They are connected in a single loop",
+          "They glow brighter as each bulb is fully powered"
+        ],
+        "explanation": "In a parallel circuit the bulbs are on separate branches, so each gets full power and the others stay lit if one goes out."
+      },
+      "ta": {
+        "q": "பக்க இணைப்பு (parallel) மின்சுற்றில் இணைக்கப்பட்ட பல்புகள் பற்றிய சரியான கூற்று எது?",
+        "options": [
+          "ஒரு பல்பு அணைந்தால் அனைத்தும் அணையும்",
+          "ஆற்றலைப் பகிர்ந்துகொள்வதால் மங்கலாக ஒளிரும்",
+          "அவை ஒரே வளையத்தில் இணைக்கப்பட்டுள்ளன",
+          "ஒவ்வொரு பல்புக்கும் முழு ஆற்றல் கிடைப்பதால் அவை பிரகாசமாக ஒளிரும்"
+        ],
+        "explanation": "பக்க இணைப்பில் பல்புகள் தனித்தனிக் கிளைகளில் இருப்பதால் ஒவ்வொன்றும் முழு ஆற்றலைப் பெறும்; ஒன்று அணைந்தாலும் மற்றவை ஒளிரும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 23,
+      "quote": "A short circuit is simply a low resistance connection between the two conductors supplying electrical power to any circuit.",
+      "answer": "A",
+      "en": {
+        "q": "A short circuit is a",
+        "options": [
+          "low resistance connection between the two conductors supplying electrical power",
+          "high resistance connection between two bulbs",
+          "circuit with only one bulb",
+          "circuit containing no switch"
+        ],
+        "explanation": "In a short circuit the current takes an easy low-resistance path, which can produce sparks and heat."
+      },
+      "ta": {
+        "q": "குறுக்குச் சுற்று (short circuit) என்பது",
+        "options": [
+          "மின்னாற்றலை அளிக்கும் இரு கடத்திகளுக்கிடையே ஏற்படும் குறைந்த மின்தடை இணைப்பு",
+          "இரு பல்புகளுக்கிடையே ஏற்படும் அதிக மின்தடை இணைப்பு",
+          "ஒரே ஒரு பல்பு உள்ள மின்சுற்று",
+          "சுவிட்ச் இல்லாத மின்சுற்று"
+        ],
+        "explanation": "குறுக்குச் சுற்றில் மின்னோட்டம் குறைந்த மின்தடைப் பாதையில் செல்வதால் தீப்பொறியும் வெப்பமும் ஏற்படலாம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 23,
+      "quote": "Arc welding is a common example of the practical application of the heating due to a short circuit.",
+      "answer": "B",
+      "en": {
+        "q": "A common practical application of the heating due to a short circuit is",
+        "options": [
+          "electroplating",
+          "arc welding",
+          "telephone",
+          "electric bell"
+        ],
+        "explanation": "Arc welding uses the intense heat and spark produced by a short circuit."
+      },
+      "ta": {
+        "q": "குறுக்குச் சுற்றினால் ஏற்படும் வெப்பத்தின் பொதுவான நடைமுறைப் பயன்பாடு",
+        "options": [
+          "மின்முலாம் பூசுதல்",
+          "வில் பற்றவைப்பு (arc welding)",
+          "தொலைபேசி",
+          "மின்மணி"
+        ],
+        "explanation": "வில் பற்றவைப்பில் குறுக்குச் சுற்றினால் உண்டாகும் கடும் வெப்பமும் தீப்பொறியும் பயன்படுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 23,
+      "quote": "in conductors (such as all metals) there are lots of particles that are not held to any particular atom but are free to wander around randomly in the metal. These are called 'free charge'.",
+      "answer": "C",
+      "en": {
+        "q": "Why are metals good conductors of electricity?",
+        "options": [
+          "Their electrons are all tightly bound to the nucleus",
+          "Their atoms have no electrons",
+          "They have a large number of free charges that are not held to any particular atom",
+          "They have no atoms in the space between particles"
+        ],
+        "explanation": "A good conductor has lots of free charges (free electrons) which drift in one direction when a voltage is applied."
+      },
+      "ta": {
+        "q": "உலோகங்கள் மின்சாரத்தை நன்கு கடத்துவது ஏன்?",
+        "options": [
+          "அவற்றின் எலக்ட்ரான்கள் அனைத்தும் அணுக்கருவுடன் இறுக்கமாகப் பிணைந்துள்ளன",
+          "அவற்றின் அணுக்களில் எலக்ட்ரான்களே இல்லை",
+          "எந்த ஒரு அணுவிடமும் பிணைக்கப்படாத ஏராளமான தனித்த மின்னூட்டங்கள் அவற்றில் உள்ளன",
+          "அவற்றின் துகள்களுக்கிடையே அணுக்களே இல்லை"
+        ],
+        "explanation": "நல்ல கடத்தியில் தனித்த மின்னூட்டங்கள் (தனி எலக்ட்ரான்கள்) அதிகம்; மின்னழுத்தம் அளிக்கப்படும்போது அவை ஒரே திசையில் நகர்கின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 25,
+      "quote": "Those materials which don't have enough 'free electrons' are not good at conducting electricity or we can say that they would be 'poor conductors' of electricity and they are called insulators.",
+      "answer": "D",
+      "en": {
+        "q": "Insulators do not conduct electricity well because they",
+        "options": [
+          "are all non-metals that dissolve in water",
+          "have too many free electrons",
+          "are always hot",
+          "do not have enough free electrons"
+        ],
+        "explanation": "Rubber, glass, air and many plastics are insulators, having high resistance to the flow of charge."
+      },
+      "ta": {
+        "q": "காப்புப் பொருள்கள் (insulators) மின்சாரத்தை நன்கு கடத்தாததற்குக் காரணம், அவற்றில்",
+        "options": [
+          "அவை அனைத்தும் நீரில் கரையும் அலோகங்கள்",
+          "தனி எலக்ட்ரான்கள் மிக அதிகம்",
+          "அவை எப்போதும் சூடாக இருக்கின்றன",
+          "போதுமான தனி எலக்ட்ரான்கள் இல்லை"
+        ],
+        "explanation": "ரப்பர், கண்ணாடி, காற்று, பல நெகிழிகள் காப்புப் பொருள்கள்; இவை மின்னூட்டப் பாய்வுக்கு அதிக மின்தடை அளிக்கின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 25,
+      "quote": "The chip which are used in SIM Cards, Computers, and ATM cards are made up of semiconductors namely, silicon and germanium because of their electrical conductivity lies between a conductor and an insulator.",
+      "answer": "A",
+      "en": {
+        "q": "The chips used in SIM cards, computers and ATM cards are made of semiconductors such as",
+        "options": [
+          "silicon and germanium",
+          "copper and silver",
+          "rubber and glass",
+          "iron and nichrome"
+        ],
+        "explanation": "The electrical conductivity of a semiconductor lies between that of a conductor and an insulator."
+      },
+      "ta": {
+        "q": "சிம் அட்டைகள், கணினிகள், ஏடிஎம் அட்டைகளில் பயன்படும் சில்லுகள் எந்தக் குறைகடத்திகளால் ஆனவை?",
+        "options": [
+          "சிலிக்கான், ஜெர்மானியம்",
+          "செம்பு, வெள்ளி",
+          "ரப்பர், கண்ணாடி",
+          "இரும்பு, நிக்ரோம்"
+        ],
+        "explanation": "குறைகடத்தியின் மின் கடத்துத்திறன் கடத்திக்கும் காப்புப் பொருளுக்கும் இடையில் அமையும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "Copper wires are used to carry current in households. These wires are in turn enclosed in electrical insulators, or materials of high electrical resistance. These materials are usually made of flexible plastic.",
+      "answer": "B",
+      "en": {
+        "q": "Copper wires used to carry current in households are enclosed in",
+        "options": [
+          "another layer of silver",
+          "electrical insulators, usually made of flexible plastic",
+          "iron sheets",
+          "wet cloth"
+        ],
+        "explanation": "Copper has very low resistance, so it carries the current; the plastic insulation protects people from shock."
+      },
+      "ta": {
+        "q": "வீடுகளில் மின்னோட்டத்தைக் கடத்தும் செப்புக் கம்பிகள் எதனால் சூழப்பட்டுள்ளன?",
+        "options": [
+          "வெள்ளியின் மற்றோர் அடுக்கு",
+          "பொதுவாக நெகிழ்வான நெகிழியால் ஆன மின்காப்புப் பொருள்",
+          "இரும்புத் தகடுகள்",
+          "ஈரத் துணி"
+        ],
+        "explanation": "செம்பின் மின்தடை மிகக் குறைவு; எனவே அது மின்னோட்டத்தைக் கடத்துகிறது; நெகிழிக் காப்பு மின்தாக்குதலிலிருந்து காக்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "There are 3 main effects of electricity as, Heating effect, Magnetic effect (Magnetism), Chemical effect",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following is NOT one of the three main effects of electric current described in the book?",
+        "options": [
+          "Magnetic effect",
+          "Heating effect",
+          "Radioactive effect",
+          "Chemical effect"
+        ],
+        "explanation": "The three main effects of electric current are the heating, magnetic and chemical effects."
+      },
+      "ta": {
+        "q": "நூலில் கூறப்பட்டுள்ள மின்னோட்டத்தின் மூன்று முக்கிய விளைவுகளில் பின்வருவனவற்றுள் எது இடம்பெறாது?",
+        "options": [
+          "காந்த விளைவு",
+          "வெப்ப விளைவு",
+          "கதிரியக்க விளைவு",
+          "வேதி விளைவு"
+        ],
+        "explanation": "மின்னோட்டத்தின் மூன்று முக்கிய விளைவுகள் வெப்ப, காந்த, வேதி விளைவுகளாகும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 26,
+      "quote": "The electric bulb, geyser, iron box, immersible water heater are based on this effect. ... Electro magnets are used in many appliances ... namely, electric bell, cranes and telephone.",
+      "answer": "D",
+      "en": {
+        "q": "Which of the following appliances is NOT based on the heating effect of electric current?",
+        "options": [
+          "Immersible water heater",
+          "Geyser",
+          "Iron box",
+          "Electric bell"
+        ],
+        "explanation": "The electric bell works on the magnetic effect (electromagnet); geyser, iron box and immersion heater use heating coils of high resistance."
+      },
+      "ta": {
+        "q": "பின்வரும் கருவிகளில் மின்னோட்டத்தின் வெப்ப விளைவை அடிப்படையாகக் கொண்டிராதது எது?",
+        "options": [
+          "நீரில் மூழ்கும் நீர் சூடேற்றி",
+          "வெப்பநீர்க் கலன் (geyser)",
+          "துணி அழுத்தும் மின்பெட்டி",
+          "மின்மணி (electric bell)"
+        ],
+        "explanation": "மின்மணி மின்காந்த (காந்த) விளைவில் இயங்குகிறது; மற்றவை அதிக மின்தடை கொண்ட வெப்பமேற்றும் சுருள்களைப் பயன்படுத்துகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "Factors affecting Heating Effect of current: 1. Electric Current 2. Resistance 3. Time for which current flows",
+      "answer": "A",
+      "en": {
+        "q": "The heating effect of an electric current depends on",
+        "options": [
+          "the electric current, the resistance and the time for which current flows",
+          "only the colour of the wire",
+          "the mass of the cell and the length of the room",
+          "the magnetic field and the colour of the bulb"
+        ],
+        "explanation": "More current, greater resistance and longer time all increase the heat produced."
+      },
+      "ta": {
+        "q": "மின்னோட்டத்தின் வெப்ப விளைவு எவற்றைப் பொறுத்தது?",
+        "options": [
+          "மின்னோட்டம், மின்தடை, மின்னோட்டம் பாயும் நேரம்",
+          "கம்பியின் நிறம் மட்டும்",
+          "மின்கலத்தின் நிறை, அறையின் நீளம்",
+          "காந்தப்புலம், பல்பின் நிறம்"
+        ],
+        "explanation": "மின்னோட்டம், மின்தடை, நேரம் ஆகியவை அதிகரிக்கும்போது உண்டாகும் வெப்பமும் அதிகரிக்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 26,
+      "quote": "The fuse wire melts whenever there is overload of the current in the wire. This breaks the circuit and helps in preventing damage to costly appliances and to the wiring.",
+      "answer": "B",
+      "en": {
+        "q": "What happens to the fuse wire when there is an overload of current in the wiring?",
+        "options": [
+          "It becomes a magnet",
+          "It melts and breaks the circuit, protecting the appliances",
+          "It conducts better and lets more current pass",
+          "It changes the current into voltage"
+        ],
+        "explanation": "The melting of the fuse wire opens the circuit and prevents damage to costly appliances and wiring."
+      },
+      "ta": {
+        "q": "மின்சுற்றில் மிகை மின்னோட்டம் பாயும்போது மின்உருகிக் கம்பிக்கு என்ன நிகழ்கிறது?",
+        "options": [
+          "அது காந்தமாகிறது",
+          "உருகி மின்சுற்றைத் துண்டித்து, கருவிகளைப் பாதுகாக்கிறது",
+          "மேலும் நன்றாகக் கடத்தி அதிக மின்னோட்டத்தைப் பாயவிடுகிறது",
+          "மின்னோட்டத்தை மின்னழுத்தமாக மாற்றுகிறது"
+        ],
+        "explanation": "உருகிக் கம்பி உருகுவதால் மின்சுற்று துண்டிக்கப்பட்டு விலை உயர்ந்த கருவிகளும் மின்இணைப்பும் சேதமடையாமல் காக்கப்படுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 28,
+      "quote": "The electric fuse has a big practical problem. Whenever the wire fuses, one needs to replace the wire to resume electric supply. ... Miniature circuit breakers break the circuit automatically. One just needs to switch it on to resume the electric supply.",
+      "answer": "C",
+      "en": {
+        "q": "MCBs have been replacing electric fuses at most places because an MCB",
+        "options": [
+          "needs a new wire every time it trips",
+          "never allows any current to flow",
+          "breaks the circuit automatically and only needs to be switched on again to resume supply",
+          "works only with a battery"
+        ],
+        "explanation": "After a fuse blows its wire must be replaced; an MCB just needs to be switched on again."
+      },
+      "ta": {
+        "q": "பெரும்பாலான இடங்களில் மின்உருகிகளுக்குப் பதிலாக MCB பயன்படுத்தப்படுவதற்குக் காரணம், MCB",
+        "options": [
+          "ஒவ்வொரு முறையும் புதிய கம்பி தேவைப்படுகிறது",
+          "எந்த மின்னோட்டத்தையும் அனுமதிப்பதில்லை",
+          "தானாகவே மின்சுற்றைத் துண்டிக்கும்; மின்சாரத்தை மீண்டும் பெற சுவிட்சை இயக்கினால் போதும்",
+          "மின்கலத்துடன் மட்டுமே இயங்கும்"
+        ],
+        "explanation": "மின்உருகி உருகினால் கம்பியை மாற்ற வேண்டும்; MCB-யை மீண்டும் இயக்கினால் போதும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 28,
+      "quote": "When the electric current is switched off the coil generally loses its magnetism. Such coils are called as electromagnets.",
+      "answer": "D",
+      "en": {
+        "q": "A coil of insulated wire wound around an iron nail attracts pins when current flows. When the current is switched off, the coil generally",
+        "options": [
+          "melts",
+          "becomes a permanent magnet",
+          "attracts more pins",
+          "loses its magnetism"
+        ],
+        "explanation": "Such a coil is an electromagnet; it is a magnet only while current flows."
+      },
+      "ta": {
+        "q": "இரும்பு ஆணியைச் சுற்றிய காப்பிடப்பட்ட கம்பிச் சுருள் மின்னோட்டம் பாயும்போது குண்டூசிகளைக் கவர்கிறது. மின்னோட்டத்தை நிறுத்தினால் அச்சுருள் பொதுவாக",
+        "options": [
+          "உருகுகிறது",
+          "நிலைக்காந்தமாகிறது",
+          "மேலும் அதிக குண்டூசிகளைக் கவர்கிறது",
+          "காந்தத்தன்மையை இழக்கிறது"
+        ],
+        "explanation": "இத்தகைய சுருள் மின்காந்தம்; மின்னோட்டம் பாயும்போது மட்டுமே காந்தமாகச் செயல்படும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 28,
+      "quote": "Electromagnets are also used to remove splinters of steel or iron in hospitals dealing with eye injuries.",
+      "answer": "A",
+      "en": {
+        "q": "Electromagnets are used in hospitals to remove splinters of steel or iron in cases of",
+        "options": [
+          "eye injuries",
+          "bone fractures",
+          "tooth decay",
+          "skin allergies"
+        ],
+        "explanation": "The strong, controllable magnetic effect of electric current draws out iron or steel splinters."
+      },
+      "ta": {
+        "q": "மருத்துவமனைகளில் எஃகு அல்லது இரும்புத் துகள்களை அகற்ற மின்காந்தங்கள் எந்த நிலையில் பயன்படுகின்றன?",
+        "options": [
+          "கண் காயங்கள்",
+          "எலும்பு முறிவுகள்",
+          "பல் சொத்தை",
+          "தோல் ஒவ்வாமை"
+        ],
+        "explanation": "மின்னோட்டத்தின் வலிய, கட்டுப்படுத்தக்கூடிய காந்த விளைவு இரும்பு அல்லது எஃகுத் துகள்களை வெளியே இழுக்க உதவுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 28,
+      "quote": "In telephones, a changing magnetic effect causes a thin sheet of metal (diaphragm) to vibrate. The diaphragm is made up a metal that can be attracted to magnets.",
+      "answer": "B",
+      "en": {
+        "q": "In a telephone, a thin sheet of metal that vibrates because of the changing magnetic effect is called the",
+        "options": [
+          "fuse",
+          "diaphragm",
+          "filament",
+          "terminal"
+        ],
+        "explanation": "The diaphragm is attracted by the electromagnet and vibrates in the earpiece, producing sound."
+      },
+      "ta": {
+        "q": "தொலைபேசியில் மாறும் காந்த விளைவால் அதிர்வுறும் மெல்லிய உலோகத் தகடு",
+        "options": [
+          "மின்உருகி",
+          "டயபிராம் (மென்தகடு)",
+          "இழை",
+          "முனை"
+        ],
+        "explanation": "மின்காந்தத்தால் கவரப்படும் டயபிராம் காதுப்பகுதியில் அதிர்வுற்று ஒலியை உருவாக்குகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 31,
+      "quote": "Chemical reactions happens, when electricity passes through various conducting liquids. This is known as chemical effects of electricity.",
+      "answer": "C",
+      "en": {
+        "q": "Chemical reactions taking place when electricity passes through conducting liquids are known as",
+        "options": [
+          "the magnetic effect of electricity",
+          "the heating effect of electricity",
+          "the chemical effect of electricity",
+          "short circuiting"
+        ],
+        "explanation": "This is the third main effect of electric current, studied in higher classes."
+      },
+      "ta": {
+        "q": "மின்சாரம் கடத்தும் திரவங்கள் வழியே செல்லும்போது நிகழும் வேதிவினைகள் எவ்வாறு அழைக்கப்படுகின்றன?",
+        "options": [
+          "மின்சாரத்தின் காந்த விளைவு",
+          "மின்சாரத்தின் வெப்ப விளைவு",
+          "மின்சாரத்தின் வேதி விளைவு",
+          "குறுக்குச் சுற்று"
+        ],
+        "explanation": "இது மின்னோட்டத்தின் மூன்றாவது முக்கிய விளைவு; மேல் வகுப்புகளில் விரிவாகப் படிப்பீர்கள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 30,
+      "quote": "Thomas Alva Edison invented a commercially viable electric bulb.",
+      "answer": "D",
+      "en": {
+        "q": "Which scientist invented a commercially viable electric bulb?",
+        "options": [
+          "Hans Christian Oersted",
+          "Alessandro Volta",
+          "Luigi Galvani",
+          "Thomas Alva Edison"
+        ],
+        "explanation": "Edison, an American scientist and industrialist, also invented the electric motor and kinetoscope."
+      },
+      "ta": {
+        "q": "வணிக ரீதியாக வெற்றிகரமான மின்விளக்கைக் கண்டுபிடித்த அறிவியலாளர் யார்?",
+        "options": [
+          "ஹான்ஸ் கிறிஸ்டியன் ஆயர்ஸ்டெட்",
+          "அலெசாண்ட்ரோ வோல்ட்டா",
+          "லூய்கி கால்வானி",
+          "தாமஸ் ஆல்வா எடிசன்"
+        ],
+        "explanation": "அமெரிக்க அறிவியலாளரும் தொழிலதிபருமான எடிசன் மின்மோட்டார், கைனெட்டோஸ்கோப் ஆகியவற்றையும் கண்டுபிடித்தார்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "IV. Match the following: Cell - A device which converts chemical energy into electrical energy; Switch - used to open or close a circuit; Circuit - A complete path for the flow of an electric current; Fuse - safety device used in electric circuit",
+      "answer": "A",
+      "en": {
+        "q": "Match the term with its description.\na. Cell\nb. Switch\nc. Circuit\nd. Fuse\n1. A complete path for the flow of an electric current\n2. A safety device used in an electric circuit\n3. Converts chemical energy into electrical energy\n4. Used to open or close a circuit",
+        "options": [
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-2, d-1",
+          "a-3, b-1, c-4, d-2",
+          "a-2, b-4, c-1, d-3"
+        ],
+        "explanation": "A cell converts chemical energy to electrical energy, a switch opens or closes a circuit, a circuit is a complete path, and a fuse is a safety device."
+      },
+      "ta": {
+        "q": "சொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.\na. மின்கலம்\nb. சுவிட்ச்\nc. மின்சுற்று\nd. மின்உருகி\n1. மின்னோட்டம் பாய்வதற்கான முழுமையான பாதை\n2. மின்சுற்றில் பயன்படும் பாதுகாப்புச் சாதனம்\n3. வேதி ஆற்றலை மின் ஆற்றலாக மாற்றுகிறது\n4. மின்சுற்றைத் திறக்க அல்லது மூடப் பயன்படுகிறது",
+        "options": [
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-2, d-1",
+          "a-3, b-1, c-4, d-2",
+          "a-2, b-4, c-1, d-3"
+        ],
+        "explanation": "மின்கலம் வேதி ஆற்றலை மின் ஆற்றலாக மாற்றும்; சுவிட்ச் சுற்றைத் திறக்கும்/மூடும்; மின்சுற்று முழுமையான பாதை; மின்உருகி பாதுகாப்புச் சாதனம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 32,
+      "quote": "Parallel Circuit -- A circuit in which there are multiple paths for electricity to flow. ... Series Circuit -- A circuit in which there is only one path for electricity to flow. ... Short Circuit -- When one part of an electric circuit comes in contact with another part of the same circuit",
+      "answer": "B",
+      "en": {
+        "q": "Match the circuit with its description.\na. Series circuit\nb. Parallel circuit\nc. Short circuit\nd. Open circuit\n1. Has multiple paths, each load receiving the full circuit voltage\n2. Has only one path for electricity to flow\n3. One part of the circuit touches another part, diverting the current from its path\n4. No current flows through it",
+        "options": [
+          "a-1, b-2, c-3, d-4",
+          "a-2, b-1, c-3, d-4",
+          "a-2, b-1, c-4, d-3",
+          "a-3, b-2, c-1, d-4"
+        ],
+        "explanation": "Series has one path; parallel has multiple paths with full voltage on each load; a short circuit diverts current from its desired path; an open circuit carries no current."
+      },
+      "ta": {
+        "q": "மின்சுற்றுகளை அவற்றின் விளக்கங்களுடன் பொருத்துக.\na. தொடர் இணைப்பு மின்சுற்று\nb. பக்க இணைப்பு மின்சுற்று\nc. குறுக்குச் சுற்று\nd. திறந்த மின்சுற்று\n1. பல பாதைகள் உண்டு; ஒவ்வொரு சுமையும் முழு மின்னழுத்தத்தைப் பெறும்\n2. மின்சாரம் பாய ஒரே ஒரு பாதை மட்டுமே உண்டு\n3. மின்சுற்றின் ஒரு பகுதி மற்றொரு பகுதியுடன் தொடர்புகொண்டு மின்னோட்டத்தை வழிமாற்றுகிறது\n4. மின்னோட்டம் பாயாது",
+        "options": [
+          "a-1, b-2, c-3, d-4",
+          "a-2, b-1, c-3, d-4",
+          "a-2, b-1, c-4, d-3",
+          "a-3, b-2, c-1, d-4"
+        ],
+        "explanation": "தொடர் இணைப்பில் ஒரே பாதை; பக்க இணைப்பில் பல பாதைகள், ஒவ்வொன்றிலும் முழு மின்னழுத்தம்; குறுக்குச் சுற்று மின்னோட்டத்தை வழிமாற்றும்; திறந்த சுற்றில் மின்னோட்டம் இல்லை."
+      }
+    }
+  ]
+}
