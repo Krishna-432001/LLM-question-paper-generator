@@ -1,0 +1,471 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Geography Term-Full (English)",
+  "breadcrumb": "Std 12 Geography (English) — Unit 10: Map Projection",
+  "questions": [
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "A Map projection means the representation of latitude and longitude of the globe on a flat sheet of paper. The network thus formed is called graticule.",
+      "answer": "A",
+      "en": {
+        "q": "The network of latitudes and longitudes represented on a flat sheet in a map projection is called a",
+        "options": [
+          "graticule",
+          "contour",
+          "isoline",
+          "legend"
+        ],
+        "explanation": "A map projection is a mathematical expression that represents the three-dimensional surface of the earth on a two-dimensional plane."
+      },
+      "ta": {
+        "q": "வரைபடத் தளக்கோட்டுச் சட்டத்தில் (Map projection) தட்டையான தாளில் வரையப்படும் அட்ச, தீர்க்கக் கோடுகளின் வலையமைப்பு",
+        "options": [
+          "கிரேட்டிக்யூல் (Graticule)",
+          "சம உயரக் கோடு",
+          "சம மதிப்புக் கோடு",
+          "விளக்கக் குறிப்பு"
+        ],
+        "explanation": "வரைபடத் தளக்கோட்டுச் சட்டம் புவியின் முப்பரிமாண மேற்பரப்பை இருபரிமாணத் தளத்தில் குறிக்கும் கணிதக் கோவை."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "The process of projection results in distortion of one or more map properties such as shape, size, area or direction.",
+      "answer": "B",
+      "en": {
+        "q": "The process of map projection results in distortion of which map properties?",
+        "options": [
+          "Colour, scale or legend",
+          "Shape, size, area or direction",
+          "Title, source or direction only",
+          "Latitude and longitude only"
+        ],
+        "explanation": "Map projections are classified by method of construction, development surface, properties and position of light source."
+      },
+      "ta": {
+        "q": "தளக்கோட்டுச் சட்ட உருவாக்கத்தின்போது எந்த வரைபடப் பண்புகளில் திரிபு ஏற்படுகிறது?",
+        "options": [
+          "நிறம், அளவுத்திட்டம் அல்லது விளக்கக் குறிப்பு",
+          "வடிவம், அளவு, பரப்பு அல்லது திசை",
+          "தலைப்பு, மூலம் அல்லது திசை மட்டும்",
+          "அட்சமும் தீர்க்கமும் மட்டும்"
+        ],
+        "explanation": "வரைபடத் தளக்கோட்டுச் சட்டங்கள் அமைப்பு முறை, விரிகள மேற்பரப்பு, பண்புகள், ஒளி மூலத்தின் நிலை ஆகியவற்றால் வகைப்படுத்தப்படுகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "a). Perspective Projections: These projections are made with the help of shadow cast from an illuminated globe on to a developable surface.",
+      "answer": "C",
+      "en": {
+        "q": "Projections made with the help of the shadow cast from an illuminated globe on to a developable surface are called",
+        "options": [
+          "equal area projections",
+          "non-perspective projections",
+          "perspective projections",
+          "true scale projections"
+        ],
+        "explanation": "In non-perspective projections, a developable surface is only assumed to cover the globe and construction is done by mathematical calculations."
+      },
+      "ta": {
+        "q": "ஒளியூட்டப்பட்ட உருண்டையின் நிழலை விரிகள மேற்பரப்பில் விழச்செய்து உருவாக்கப்படும் தளக்கோட்டுச் சட்டங்கள்",
+        "options": [
+          "சமபரப்புச் சட்டங்கள்",
+          "காட்சியற்ற (Non-perspective) சட்டங்கள்",
+          "காட்சிப் (Perspective) தளக்கோட்டுச் சட்டங்கள்",
+          "உண்மை அளவுச் சட்டங்கள்"
+        ],
+        "explanation": "காட்சியற்ற சட்டங்களில் விரிகள மேற்பரப்பு உருண்டையை மூடுவதாகக் கருதப்பட்டு கணிதக் கணக்கீடுகளால் உருவாக்கப்படுகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "Length of equator on the cylinder is equal to the length of the equator, therefore, it is suitable for showing equatorial regions.",
+      "answer": "D",
+      "en": {
+        "q": "Cylindrical projections are suitable for showing",
+        "options": [
+          "a single hemisphere only",
+          "polar regions",
+          "middle latitudes only",
+          "equatorial regions"
+        ],
+        "explanation": "In cylindrical projections the longitudes and latitudes appear as straight lines."
+      },
+      "ta": {
+        "q": "உருளைத் தளக்கோட்டுச் சட்டங்கள் எந்தப் பகுதிகளைக் காட்டச் சிறந்தவை?",
+        "options": [
+          "ஓர் அரைக்கோளம் மட்டும்",
+          "துருவப் பகுதிகள்",
+          "நடு அட்சப் பகுதிகள் மட்டும்",
+          "நிலநடுக்கோட்டுப் பகுதிகள்"
+        ],
+        "explanation": "உருளைச் சட்டங்களில் தீர்க்கக்கோடுகளும் அட்சக்கோடுகளும் நேர்க்கோடுகளாகத் தோன்றும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 166,
+      "quote": "It is suitable for representing middle latitudes.",
+      "answer": "A",
+      "en": {
+        "q": "Conical projections are suitable for representing",
+        "options": [
+          "middle latitudes",
+          "equatorial regions",
+          "polar regions",
+          "the whole world at once"
+        ],
+        "explanation": "In a conical projection, parallels appear as arcs and meridians as straight lines converging to the same point."
+      },
+      "ta": {
+        "q": "கூம்புத் தளக்கோட்டுச் சட்டங்கள் எந்தப் பகுதிகளைக் காட்டச் சிறந்தவை?",
+        "options": [
+          "நடு அட்சப் பகுதிகள்",
+          "நிலநடுக்கோட்டுப் பகுதிகள்",
+          "துருவப் பகுதிகள்",
+          "முழு உலகத்தையும் ஒரே நேரத்தில்"
+        ],
+        "explanation": "கூம்புச் சட்டத்தில் அட்சக்கோடுகள் வளைவுகளாகவும் தீர்க்கக்கோடுகள் ஒரே புள்ளியில் குவியும் நேர்க்கோடுகளாகவும் தோன்றும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 166,
+      "quote": "Secant: when the cone is not big enough to cover the curvature of earth, it intersects the earth twice at two parallels.",
+      "answer": "B",
+      "en": {
+        "q": "In a conical projection, when the cone intersects the earth at two parallels, it is called a",
+        "options": [
+          "tangent cone",
+          "secant cone",
+          "oblique cone",
+          "normal cone"
+        ],
+        "explanation": "In a tangent conical projection, the cone touches only one parallel, the standard parallel."
+      },
+      "ta": {
+        "q": "கூம்புத் தளக்கோட்டுச் சட்டத்தில் கூம்பு புவியை இரு அட்சங்களில் வெட்டினால் அது",
+        "options": [
+          "தொடு கூம்பு (Tangent)",
+          "வெட்டுக் கூம்பு (Secant)",
+          "சாய்வுக் கூம்பு",
+          "இயல்புக் கூம்பு"
+        ],
+        "explanation": "தொடு கூம்புச் சட்டத்தில் கூம்பு ஓர் அட்சத்தை, அதாவது நிலையான அட்சத்தை மட்டும் தொடும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 166,
+      "quote": "Suitable for showing polar areas",
+      "answer": "C",
+      "en": {
+        "q": "The azimuthal (zenithal) projection, visualised as a flat sheet of paper tangent to a point on the globe, is suitable for showing",
+        "options": [
+          "middle latitudes",
+          "equatorial areas",
+          "polar areas",
+          "only the Tropics"
+        ],
+        "explanation": "Its aspects are equatorial, oblique and polar zenithal."
+      },
+      "ta": {
+        "q": "பூகோளத்தின் ஒரு புள்ளியைத் தொடும் தட்டையான தாளாகக் கருதப்படும் தளப் (Zenithal) தளக்கோட்டுச் சட்டம் எந்தப் பகுதிகளைக் காட்டச் சிறந்தது?",
+        "options": [
+          "நடு அட்சப் பகுதிகள்",
+          "நிலநடுக்கோட்டுப் பகுதிகள்",
+          "துருவப் பகுதிகள்",
+          "அயன மண்டலம் மட்டும்"
+        ],
+        "explanation": "இதன் வகைகள் நடுக்கோட்டுத் தளச் சட்டம், சாய்வுத் தளச் சட்டம், துருவத் தளச் சட்டம்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 167,
+      "quote": "Equal area projection: It is also known as homolographic projections. The areas of different parts of earth are correctly represented by such projections.",
+      "answer": "D",
+      "en": {
+        "q": "A projection that correctly represents the areas of different parts of the earth is called",
+        "options": [
+          "a gnomonic projection",
+          "a true shape (orthomorphic) projection",
+          "an equidistant projection",
+          "an equal area (homolographic) projection"
+        ],
+        "explanation": "A true shape projection, also called orthomorphic, correctly represents the shapes of different parts of the earth."
+      },
+      "ta": {
+        "q": "புவியின் பல்வேறு பகுதிகளின் பரப்பளவைச் சரியாகக் காட்டும் தளக்கோட்டுச் சட்டம்",
+        "options": [
+          "கினோமானிக் சட்டம்",
+          "உண்மை வடிவ (Orthomorphic) சட்டம்",
+          "சம தூரச் சட்டம்",
+          "சமபரப்புச் (Homolographic) சட்டம்"
+        ],
+        "explanation": "உண்மை வடிவச் சட்டம் (Orthomorphic) புவியின் பல்வேறு பகுதிகளின் வடிவங்களைச் சரியாகக் காட்டுகிறது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 167,
+      "quote": "True shape projection: It is also known as orthomorphic projections.",
+      "answer": "A",
+      "en": {
+        "q": "Orthomorphic projections are also known as",
+        "options": [
+          "true shape projections",
+          "equal area projections",
+          "true scale projections",
+          "perspective projections"
+        ],
+        "explanation": "Equal area projections are also known as homolographic projections."
+      },
+      "ta": {
+        "q": "'ஆர்த்தோமார்பிக்' (Orthomorphic) சட்டங்கள் வேறு எவ்வாறு அழைக்கப்படுகின்றன?",
+        "options": [
+          "உண்மை வடிவச் சட்டங்கள்",
+          "சமபரப்புச் சட்டங்கள்",
+          "உண்மை அளவுச் சட்டங்கள்",
+          "காட்சிச் சட்டங்கள்"
+        ],
+        "explanation": "சமபரப்புச் சட்டங்கள் 'ஹோமோலோகிராஃபிக்' எனவும் அழைக்கப்படுகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 167,
+      "quote": "Gnomonic projection: when the source of light is placed at the centre of the globe",
+      "answer": "B",
+      "en": {
+        "q": "In which projection is the source of light placed at the centre of the globe?",
+        "options": [
+          "Stereographic projection",
+          "Gnomonic projection",
+          "Orthographic projection",
+          "Mercator projection"
+        ],
+        "explanation": "In the stereographic projection the light source is at the periphery of the globe, and in the orthographic projection at infinity."
+      },
+      "ta": {
+        "q": "ஒளி மூலம் புவியுருண்டையின் மையத்தில் வைக்கப்படும் தளக்கோட்டுச் சட்டம்",
+        "options": [
+          "ஸ்டீரியோகிராஃபிக் சட்டம்",
+          "கினோமானிக் சட்டம்",
+          "ஆர்த்தோகிராஃபிக் சட்டம்",
+          "மெர்கேட்டர் சட்டம்"
+        ],
+        "explanation": "ஸ்டீரியோகிராஃபிக் சட்டத்தில் ஒளி மூலம் புவியின் விளிம்பிலும் ஆர்த்தோகிராஃபிக்கில் முடிவிலியிலும் இருக்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 168,
+      "quote": "It is devised by JH Lambert in 1772. It is a normal perspective projection onto a cylinder tangent at the equator.",
+      "answer": "C",
+      "en": {
+        "q": "The cylindrical equal area projection was devised in 1772 by",
+        "options": [
+          "Marinus of Tyre",
+          "Gerardus Mercator",
+          "J.H. Lambert",
+          "Ptolemy"
+        ],
+        "explanation": "In it the scale is true along the equator but exaggerated along other parallels."
+      },
+      "ta": {
+        "q": "உருளைச் சமபரப்புத் தளக்கோட்டுச் சட்டத்தை 1772இல் உருவாக்கியவர்",
+        "options": [
+          "டயரின் மரினஸ்",
+          "ஜெரார்டஸ் மெர்கேட்டர்",
+          "ஜே.எச். லாம்பர்ட்",
+          "தாலமி"
+        ],
+        "explanation": "இதில் அளவுத்திட்டம் நிலநடுக்கோட்டில் உண்மையாகவும் பிற அட்சங்களில் மிகைப்படுத்தப்பட்டும் இருக்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 168,
+      "quote": "The distance between parallels decreases toward the poles but meridians are equally spaced.",
+      "answer": "D",
+      "en": {
+        "q": "In the cylindrical equal area projection, the distance between parallels",
+        "options": [
+          "is zero at the equator",
+          "increases towards the poles",
+          "remains the same throughout",
+          "decreases towards the poles"
+        ],
+        "explanation": "Meridians are equally spaced and cut parallels at right angles."
+      },
+      "ta": {
+        "q": "உருளைச் சமபரப்புச் சட்டத்தில் அட்சக்கோடுகளுக்கு இடையிலான தூரம்",
+        "options": [
+          "நிலநடுக்கோட்டில் பூஜ்ஜியம்",
+          "துருவங்களை நோக்கிச் செல்லச் செல்ல அதிகரிக்கிறது",
+          "எங்கும் ஒரே அளவில் இருக்கும்",
+          "துருவங்களை நோக்கிச் செல்லச் செல்லக் குறைகிறது"
+        ],
+        "explanation": "தீர்க்கக்கோடுகள் சம இடைவெளியில் அமைந்து அட்சக்கோடுகளைச் செங்கோணத்தில் வெட்டுகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 169,
+      "quote": "Divide the line EE’ into to 12 equal parts (360/30) with the distance of EB. This line represents the Equator.",
+      "answer": "A",
+      "en": {
+        "q": "In constructing a cylindrical equal area projection with a 30° interval, the equator line is divided into how many equal parts?",
+        "options": [
+          "12",
+          "6",
+          "18",
+          "36"
+        ],
+        "explanation": "The number of parts is 360 divided by 30 = 12."
+      },
+      "ta": {
+        "q": "30° இடைவெளியுடன் உருளைச் சமபரப்புச் சட்டத்தை வரையும்போது நிலநடுக்கோடு எத்தனை சம பகுதிகளாகப் பிரிக்கப்படுகிறது?",
+        "options": [
+          "12",
+          "6",
+          "18",
+          "36"
+        ],
+        "explanation": "பகுதிகளின் எண்ணிக்கை 360 ÷ 30 = 12."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 170,
+      "quote": "This is a Projection on to a cylinder which is tangent to the equator. It is believed to be invented by Marinus of Tyre, about C.E. 100.",
+      "answer": "B",
+      "en": {
+        "q": "The cylindrical equidistant projection is believed to have been invented about CE 100 by",
+        "options": [
+          "J.H. Lambert",
+          "Marinus of Tyre",
+          "Mercator",
+          "Gall"
+        ],
+        "explanation": "In it the scale is true along all meridians and along the equator."
+      },
+      "ta": {
+        "q": "உருளைச் சம தூரத் தளக்கோட்டுச் சட்டத்தைப் பொ.ஆ. 100 வாக்கில் உருவாக்கியதாகக் கருதப்படுபவர்",
+        "options": [
+          "ஜே.எச். லாம்பர்ட்",
+          "டயரின் மரினஸ்",
+          "மெர்கேட்டர்",
+          "கால்"
+        ],
+        "explanation": "இதில் அளவுத்திட்டம் அனைத்துத் தீர்க்கக்கோடுகளிலும் நிலநடுக்கோட்டிலும் உண்மையாக இருக்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 172,
+      "quote": "Used for preparing political and distribution maps of Polar Regions. It can also be used for preparing general purpose maps of large areas in Northern Hemisphere.",
+      "answer": "C",
+      "en": {
+        "q": "The polar zenithal equal area projection (Lambert's equal area projection) is used for preparing",
+        "options": [
+          "maps of the Tropics",
+          "maps of the equatorial region",
+          "political and distribution maps of polar regions",
+          "topographical sheets"
+        ],
+        "explanation": "In it the pole is the centre of the projection and parallels are concentric circles."
+      },
+      "ta": {
+        "q": "துருவத் தளச் சமபரப்புச் சட்டம் (லாம்பர்ட் சமபரப்புச் சட்டம்) எதற்காகப் பயன்படுகிறது?",
+        "options": [
+          "அயன மண்டல வரைபடங்கள் தயாரிக்க",
+          "நிலநடுக்கோட்டுப் பகுதி வரைபடங்கள் தயாரிக்க",
+          "துருவப் பகுதிகளின் அரசியல், பரவல் வரைபடங்கள் தயாரிக்க",
+          "தாள்படங்கள் (Topographical sheets) தயாரிக்க"
+        ],
+        "explanation": "இதில் துருவம் சட்டத்தின் மையமாகவும் அட்சக்கோடுகள் ஒருமைய வட்டங்களாகவும் இருக்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 174,
+      "quote": "The spacing between the parallels represent true distances, therefore the scale along the meridians is correct.",
+      "answer": "D",
+      "en": {
+        "q": "In the polar zenithal equidistant projection, the scale is correct along the",
+        "options": [
+          "tropics only",
+          "parallels",
+          "equator only",
+          "meridians"
+        ],
+        "explanation": "The scale along the parallels increases away from the centre of the projection."
+      },
+      "ta": {
+        "q": "துருவத் தளச் சம தூரச் சட்டத்தில் அளவுத்திட்டம் எவற்றின் வழியே சரியாக இருக்கும்?",
+        "options": [
+          "வெப்பமண்டலக் கோடுகளில் மட்டும்",
+          "அட்சக்கோடுகளில்",
+          "நிலநடுக்கோட்டில் மட்டும்",
+          "தீர்க்கக்கோடுகளில்"
+        ],
+        "explanation": "மையத்திலிருந்து விலகச் செல்லச் செல்ல அட்சக்கோடுகளில் அளவுத்திட்டம் அதிகரிக்கிறது."
+      }
+    }
+  ]
+}
