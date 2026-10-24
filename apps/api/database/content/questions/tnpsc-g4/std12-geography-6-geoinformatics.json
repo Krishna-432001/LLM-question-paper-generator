@@ -1,0 +1,790 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Geography Term-Full (English)",
+  "breadcrumb": "Std 12 Geography (English) — Unit 6: Geoinformatics",
+  "questions": [
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 110,
+      "quote": "Geoinformatics has three major components namely remote sensing, GIS and GNSS.",
+      "answer": "A",
+      "en": {
+        "q": "Geoinformatics integrates which three major components?",
+        "options": [
+          "Remote sensing, GIS and GNSS",
+          "Cartography, surveying and statistics",
+          "Photogrammetry, GPS and GIS only",
+          "Remote sensing, GPS and thematic mapping"
+        ],
+        "explanation": "Geoinformatics deals with spatial information and has changed surveying and map making."
+      },
+      "ta": {
+        "q": "புவித்தகவலியல் (Geoinformatics) எந்த மூன்று முதன்மைக் கூறுகளை ஒருங்கிணைக்கிறது?",
+        "options": [
+          "தொலையுணர்வு, GIS, GNSS",
+          "நிலவரைவியல், அளவையியல், புள்ளியியல்",
+          "ஒளிப்படஅளவையியல், GPS, GIS மட்டும்",
+          "தொலையுணர்வு, GPS, கருப்பொருள் வரைபடம்"
+        ],
+        "explanation": "புவித்தகவலியல் இடம்சார் தகவலைக் கையாண்டு அளவை, வரைபடம் தயாரிப்பில் மாற்றங்களை உண்டாக்கியுள்ளது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 112,
+      "quote": "Active sensor generates and uses its own energy to illuminate the target and records the reflected energy. It operates in the microwave regions of the electromagnetic spectrum.",
+      "answer": "B",
+      "en": {
+        "q": "A sensor that generates and uses its own energy to illuminate the target and operates in the microwave region is called",
+        "options": [
+          "a passive sensor",
+          "an active sensor",
+          "a ground sensor",
+          "an optical sensor"
+        ],
+        "explanation": "Passive remote sensing depends on solar radiation to illuminate the target, like taking a picture with an ordinary camera."
+      },
+      "ta": {
+        "q": "தனக்கான ஆற்றலை உருவாக்கி இலக்கை ஒளியூட்டி, நுண்ணலைப் பகுதியில் செயல்படும் உணரி",
+        "options": [
+          "செயலற்ற உணரி (Passive sensor)",
+          "செயல்மிகு உணரி (Active sensor)",
+          "தரைவழி உணரி",
+          "ஒளியியல் உணரி"
+        ],
+        "explanation": "செயலற்ற தொலையுணர்வு சூரிய ஒளியையே சார்ந்தது; இது சாதாரண கேமராவில் படம் எடுப்பதைப் போன்றது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 113,
+      "quote": "Some examples of active sensors are Fluorosensor and Synthetic Aperture Radar (SAR).",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following is an example of an active sensor?",
+        "options": [
+          "A photographic plate in sunlight",
+          "An ordinary camera with film",
+          "Synthetic Aperture Radar (SAR)",
+          "A solar-illuminated optical scanner"
+        ],
+        "explanation": "Passive sensors record reflected solar radiation and can capture data only during daylight hours."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் செயல்மிகு உணரிக்கு எடுத்துக்காட்டு எது?",
+        "options": [
+          "சூரிய ஒளியில் ஒளிப்படத் தகடு",
+          "ஃபிலிம் கொண்ட சாதாரண கேமரா",
+          "செயற்கை துளை ரேடார் (SAR)",
+          "சூரிய ஒளியால் ஒளியூட்டப்படும் ஒளியியல் வருடி"
+        ],
+        "explanation": "செயலற்ற உணரிகள் சூரிய ஒளி எதிரொளிப்பைப் பதிவு செய்வதால் பகல் நேரத்தில் மட்டுமே தரவு சேகரிக்கின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 113,
+      "quote": "The elements of image interpretation such as image tone, shape, size, pattern, image texture, shadow and association are helpful to identify the exact target and to analyse.",
+      "answer": "D",
+      "en": {
+        "q": "Which of the following is NOT an element of image interpretation?",
+        "options": [
+          "Shadow and association",
+          "Image tone",
+          "Shape and size",
+          "Image latitude"
+        ],
+        "explanation": "Tone, shape, size, pattern, texture, shadow and association help identify the exact target."
+      },
+      "ta": {
+        "q": "படவிளக்கத்தின் (Image interpretation) கூறுகளில் ஒன்றல்லாதது எது?",
+        "options": [
+          "நிழலும் தொடர்பும்",
+          "பட நிறச்செறிவு (Tone)",
+          "வடிவமும் அளவும்",
+          "பட அட்சம்"
+        ],
+        "explanation": "நிறச்செறிவு, வடிவம், அளவு, அமைப்பு, தன்மை, நிழல், தொடர்பு ஆகியவை இலக்கை அடையாளம் காண உதவும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 114,
+      "quote": "Based on the altitude above the earth surface, the platform can be classified as Ground borne platform, Air borne platform and Space borne platform.",
+      "answer": "A",
+      "en": {
+        "q": "Based on the altitude above the earth's surface, remote sensing platforms are classified as",
+        "options": [
+          "ground borne, air borne and space borne platforms",
+          "low, medium and high sensors",
+          "active, passive and spy platforms",
+          "balloon, drone and rocket platforms"
+        ],
+        "explanation": "A platform is a stage to mount the camera or sensor."
+      },
+      "ta": {
+        "q": "புவிமேற்பரப்பிலிருந்து உயரத்தின் அடிப்படையில் தொலையுணர்வு மேடைகள் எவ்வாறு வகைப்படுத்தப்படுகின்றன?",
+        "options": [
+          "தரைவழி, வான்வழி, விண்வெளி மேடைகள்",
+          "தாழ், நடு, உயர் உணரிகள்",
+          "செயல்மிகு, செயலற்ற, உளவு மேடைகள்",
+          "பலூன், ஆளிலா விமானம், ராக்கெட் மேடைகள்"
+        ],
+        "explanation": "மேடை என்பது கேமரா அல்லது உணரியைப் பொருத்தும் தளமாகும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 115,
+      "quote": "Drone is a miniature remotely piloted aircraft. It is designed to fulfil requirements for a low cost platform, with long endurance, moderate payload capacity and capability to operate without a runway or small runway.",
+      "answer": "B",
+      "en": {
+        "q": "A miniature remotely piloted aircraft, designed as a low-cost, long-endurance platform that can operate without a runway or with a small runway, is a",
+        "options": [
+          "balloon",
+          "drone",
+          "geostationary satellite",
+          "spy satellite"
+        ],
+        "explanation": "Drones can provide both night and day data and use a satellite communication link."
+      },
+      "ta": {
+        "q": "தொலைவிலிருந்து இயக்கப்படும் சிறு வானூர்தியாக, குறைந்த செலவில் நீண்ட நேரம் பறந்து, ஓடுதளமின்றி அல்லது சிறிய ஓடுதளத்தில் இயங்கும் மேடை",
+        "options": [
+          "பலூன்",
+          "ஆளிலா வானூர்தி (Drone)",
+          "புவிநிலைச் செயற்கைக்கோள்",
+          "உளவுச் செயற்கைக்கோள்"
+        ],
+        "explanation": "ஆளிலா வானூர்திகள் இரவிலும் பகலிலும் தரவு தர இயலும்; செயற்கைக்கோள் தொடர்பு இணைப்பைப் பயன்படுத்துகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 115,
+      "quote": "Geostationary Satellite is an equatorial west to east satellite orbiting the earth at an altitude of 35000 km",
+      "answer": "C",
+      "en": {
+        "q": "A satellite orbiting the equatorial plane from west to east at about 35,000 km altitude, making one revolution in 24 hours, is a",
+        "options": [
+          "spy satellite",
+          "sun-synchronous satellite",
+          "geostationary satellite",
+          "polar orbiting satellite"
+        ],
+        "explanation": "One geostationary satellite can view about one-third of the globe, covering 70 degrees N to 70 degrees S."
+      },
+      "ta": {
+        "q": "நிலநடுக்கோட்டுத் தளத்தில் மேற்கிலிருந்து கிழக்காக ஏறத்தாழ 35,000 கி.மீ உயரத்தில் 24 மணி நேரத்தில் ஒருமுறை சுற்றும் செயற்கைக்கோள்",
+        "options": [
+          "உளவுச் செயற்கைக்கோள்",
+          "சூரியஒத்தியங்கு செயற்கைக்கோள்",
+          "புவிநிலைச் செயற்கைக்கோள் (Geostationary)",
+          "துருவச் சுற்றுப்பாதைச் செயற்கைக்கோள்"
+        ],
+        "explanation": "ஒரு புவிநிலைச் செயற்கைக்கோள் உலகின் மூன்றில் ஒரு பங்கைக் காணும்; 70°வ முதல் 70°தெ வரை உள்ளடக்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 116,
+      "quote": "On June 19, 1981 India launched its first geostationary satellite called APPLE.",
+      "answer": "D",
+      "en": {
+        "q": "India's first geostationary satellite, an experimental communication satellite launched on 19 June 1981, was",
+        "options": [
+          "Rohini",
+          "Aryabhata",
+          "Bhaskara",
+          "APPLE"
+        ],
+        "explanation": "The Ariane Passenger Payload Experiment (APPLE) was ISRO's first indigenous experimental communication satellite."
+      },
+      "ta": {
+        "q": "1981 ஜூன் 19 அன்று இந்தியா ஏவிய முதல் புவிநிலைச் செயற்கைக்கோளான சோதனைத் தொடர்புச் செயற்கைக்கோள்",
+        "options": [
+          "ரோகிணி",
+          "ஆர்யபட்டா",
+          "பாஸ்கரா",
+          "ஆப்பிள் (APPLE)"
+        ],
+        "explanation": "ஏரியேன் பயணப்பொருள் சோதனை (APPLE) இஸ்ரோவின் முதல் உள்நாட்டுச் சோதனைத் தொடர்புச் செயற்கைக்கோள்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 117,
+      "quote": "All the remote sensing resource satellites may be grouped in this category. Few of these satellites are LANDSAT series, SPOT series, IRS series, NOAA SEASAT, TIROS, HCMM, SKYLAB, and SPACE SHUTTLE etc.",
+      "answer": "A",
+      "en": {
+        "q": "Which of the following is NOT a polar orbiting (sun-synchronous) satellite?",
+        "options": [
+          "METEOSAT",
+          "LANDSAT",
+          "IRS",
+          "NOAA"
+        ],
+        "explanation": "METEOSAT, GOES, INTELSAT and INSAT are geostationary satellites used for communication and meteorology."
+      },
+      "ta": {
+        "q": "துருவச் சுற்றுப்பாதை (சூரியஒத்தியங்கு) செயற்கைக்கோளாக இல்லாதது எது?",
+        "options": [
+          "மெட்டியோசாட்",
+          "லேண்ட்சாட்",
+          "IRS",
+          "NOAA"
+        ],
+        "explanation": "மெட்டியோசாட், GOES, இன்டெல்சாட், இன்சாட் ஆகியவை தொடர்பு, வானிலைக்கான புவிநிலைச் செயற்கைக்கோள்கள்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 117,
+      "quote": "Spy satellites are observational platforms that orbit the Earth in order to image its surface and to record radio signals for military and political purposes.",
+      "answer": "B",
+      "en": {
+        "q": "Observational platforms that orbit the Earth to image its surface and record radio signals for military and political purposes are",
+        "options": [
+          "geostationary satellites",
+          "spy satellites",
+          "weather satellites",
+          "communication satellites"
+        ],
+        "explanation": "Spy satellites have been essential in verifying arms control treaties such as SALT I and SALT II."
+      },
+      "ta": {
+        "q": "இராணுவ, அரசியல் நோக்கங்களுக்காகப் புவிமேற்பரப்பைப் படம் பிடித்து ரேடியோ சமிக்ஞைகளைப் பதிவு செய்யும் செயற்கைக்கோள்கள்",
+        "options": [
+          "புவிநிலைச் செயற்கைக்கோள்கள்",
+          "உளவுச் செயற்கைக்கோள்கள்",
+          "வானிலைச் செயற்கைக்கோள்கள்",
+          "தகவல் தொடர்புச் செயற்கைக்கோள்கள்"
+        ],
+        "explanation": "SALT I, SALT II போன்ற ஆயுதக் கட்டுப்பாட்டு ஒப்பந்தங்களைச் சரிபார்க்க உளவுச் செயற்கைக்கோள்கள் உதவியுள்ளன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 118,
+      "quote": "India once again broke a global space record by launching the world's lightest satellite weighing a mere 64 grams, called Kalamsat. It was designed and developed not by professional space scientists and engineers, but by 18-year-old Tamil Nadu student Rifath Sharook",
+      "answer": "C",
+      "en": {
+        "q": "The 64-gram satellite 'Kalamsat', flown in June 2017, was designed by a Tamil Nadu student named",
+        "options": [
+          "Sivan",
+          "Srimathy Kesan",
+          "Rifath Sharook",
+          "Mylswamy Annadurai"
+        ],
+        "explanation": "Kalamsat was named after Abdul Kalam and was flown by a NASA sounding rocket."
+      },
+      "ta": {
+        "q": "2017 ஜூனில் ஏவப்பட்ட 64 கிராம் எடையுள்ள 'கலாம்சாட்' செயற்கைக்கோளை வடிவமைத்த தமிழ்நாட்டு மாணவர்",
+        "options": [
+          "சிவன்",
+          "ஸ்ரீமதி கேசன்",
+          "ரிஃபாத் ஷாரூக்",
+          "மயில்சாமி அண்ணாதுரை"
+        ],
+        "explanation": "கலாம்சாட் அப்துல் கலாமின் பெயரில் அமைக்கப்பட்டு நாசாவின் ஒலிக்கணை ராக்கெட்டில் ஏவப்பட்டது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 119,
+      "quote": "bathymetry (the measurement of the depth of water in water bodies)",
+      "answer": "D",
+      "en": {
+        "q": "The measurement of the depth of water in water bodies, which satellite remote sensing helps locate and monitor, is called",
+        "options": [
+          "topography",
+          "hypsometry",
+          "photogrammetry",
+          "bathymetry"
+        ],
+        "explanation": "Satellite remote sensing also monitors chlorophyll content and suspended sediment concentration."
+      },
+      "ta": {
+        "q": "நீர்நிலைகளின் ஆழத்தை அளவிடுவதைக் குறிக்கும் சொல்",
+        "options": [
+          "நிலத்தோற்ற வரைவியல்",
+          "உயர அளவையியல் (Hypsometry)",
+          "ஒளிப்பட அளவையியல்",
+          "ஆழ்கடல் அளவையியல் (Bathymetry)"
+        ],
+        "explanation": "செயற்கைக்கோள் தொலையுணர்வு பச்சையம் அளவு, மிதக்கும் படிவுகளின் செறிவு ஆகியவற்றையும் கண்காணிக்கிறது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 120,
+      "quote": "1940 – 1956: First Generation – Vacuum Tubes 1956 – 1963: Second Generation – Transistors 1964 – 1971: Third Generation – Integrated Circuits 1972 – 2010: Fourth Generation – Microprocessors 2010 – Fifth Generation – Artificial Intelligence",
+      "answer": "A",
+      "en": {
+        "q": "Match the generation of computers with its technology:\\na. First generation\\nb. Second generation\\nc. Third generation\\nd. Fourth generation\\n1. Microprocessors\\n2. Vacuum tubes\\n3. Integrated circuits\\n4. Transistors",
+        "options": [
+          "a-2, b-4, c-3, d-1",
+          "a-4, b-2, c-1, d-3",
+          "a-3, b-1, c-2, d-4",
+          "a-1, b-3, c-4, d-2"
+        ],
+        "explanation": "The fifth generation (from 2010) is based on artificial intelligence."
+      },
+      "ta": {
+        "q": "கணினித் தலைமுறைகளை அவற்றின் தொழில்நுட்பத்துடன் பொருத்துக:\\na. முதல் தலைமுறை\\nb. இரண்டாம் தலைமுறை\\nc. மூன்றாம் தலைமுறை\\nd. நான்காம் தலைமுறை\\n1. நுண்செயலிகள்\\n2. வெற்றிடக் குழாய்கள்\\n3. தொகுப்புச் சுற்றுகள்\\n4. டிரான்சிஸ்டர்கள்",
+        "options": [
+          "a-2, b-4, c-3, d-1",
+          "a-4, b-2, c-1, d-3",
+          "a-3, b-1, c-2, d-4",
+          "a-1, b-3, c-4, d-2"
+        ],
+        "explanation": "ஐந்தாம் தலைமுறை (2010 முதல்) செயற்கை நுண்ணறிவை அடிப்படையாகக் கொண்டது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 121,
+      "quote": "The components of GIS can be broadly classified into five types.",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following is NOT one of the five components of GIS?",
+        "options": [
+          "Hardware",
+          "Satellites",
+          "Software",
+          "People"
+        ],
+        "explanation": "The five components are hardware, software, data, people and methods (procedures)."
+      },
+      "ta": {
+        "q": "GIS-இன் ஐந்து கூறுகளுள் ஒன்றல்லாதது எது?",
+        "options": [
+          "வன்பொருள்",
+          "செயற்கைக்கோள்கள்",
+          "மென்பொருள்",
+          "மக்கள்"
+        ],
+        "explanation": "வன்பொருள், மென்பொருள், தரவு, மக்கள், முறைகள் (செயல்முறைகள்) ஆகியவை ஐந்து கூறுகள்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 121,
+      "quote": "Few GIS software list: ArcGis, ArcView 3.2, QGIS, SAGA GIS.",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following is a GIS software mentioned in the text?",
+        "options": [
+          "AutoCAD only",
+          "Photoshop",
+          "QGIS",
+          "Tally"
+        ],
+        "explanation": "GIS software uses an RDBMS (Relational Database Management System) to store the data."
+      },
+      "ta": {
+        "q": "நூலில் குறிப்பிடப்பட்டுள்ள GIS மென்பொருள்களில் ஒன்று எது?",
+        "options": [
+          "ஆட்டோகேட் மட்டும்",
+          "போட்டோஷாப்",
+          "QGIS",
+          "டேலி"
+        ],
+        "explanation": "GIS மென்பொருள் தரவைச் சேமிக்க RDBMS (உறவுநிலைத் தரவுத்தள மேலாண்மை அமைப்பு) பயன்படுத்துகிறது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 122,
+      "quote": "The steps involved are data capture, data storage (GIS Data Models), manipulation and analysis.",
+      "answer": "D",
+      "en": {
+        "q": "Which of the following correctly lists the functions (steps) of a GIS?",
+        "options": [
+          "Surveying, drawing, colouring and printing",
+          "Data deletion, printing, scanning and analysis",
+          "Hardware purchase, installation, training and use",
+          "Data capture, data storage, manipulation and analysis"
+        ],
+        "explanation": "Data can be captured through aerial photography, scanning, digitizing and GNSS."
+      },
+      "ta": {
+        "q": "GIS-இன் செயல்பாடுகள் (படிகள்) எவ்வாறு சரியாகப் பட்டியலிடப்பட்டுள்ளன?",
+        "options": [
+          "அளவை, வரைதல், வண்ணமிடல், அச்சிடல்",
+          "தரவு நீக்குதல், அச்சிடல், வருடுதல், பகுப்பாய்வு",
+          "வன்பொருள் வாங்குதல், நிறுவுதல், பயிற்சி, பயன்பாடு",
+          "தரவு பெறுதல், சேமித்தல், கையாளுதல், பகுப்பாய்வு"
+        ],
+        "explanation": "வான்புகைப்படம், வருடுதல், எண்மயமாக்கல், GNSS மூலம் தரவைப் பெறலாம்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 122,
+      "quote": "Digitization: A conversion process which converts paper maps into numerical digits that can be stored in the computer.",
+      "answer": "A",
+      "en": {
+        "q": "The conversion process that converts paper maps into numerical digits that can be stored in the computer is called",
+        "options": [
+          "digitization",
+          "projection",
+          "triangulation",
+          "generalisation"
+        ],
+        "explanation": "The two basic methods of digitization are manual digitizing and scanning."
+      },
+      "ta": {
+        "q": "காகித வரைபடங்களைக் கணினியில் சேமிக்கக்கூடிய எண்களாக மாற்றும் செயல்முறை",
+        "options": [
+          "எண்மயமாக்கல் (Digitization)",
+          "வரைபடத் தளக்கோடு",
+          "முக்கோணமாக்கல்",
+          "பொதுமைப்படுத்தல்"
+        ],
+        "explanation": "எண்மயமாக்கலின் இரு அடிப்படை முறைகள் கைமுறை எண்மயமாக்கலும் வருடுதலும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 122,
+      "quote": "The two most common types of data models are Raster and Vector.",
+      "answer": "B",
+      "en": {
+        "q": "The two most common types of data models used to store map data in a GIS are",
+        "options": [
+          "point and polygon only",
+          "raster and vector",
+          "attribute and spatial",
+          "analogue and digital"
+        ],
+        "explanation": "Both types simplify the data shown on a map into a more basic form that can be stored efficiently in the computer."
+      },
+      "ta": {
+        "q": "GIS-இல் வரைபடத் தரவைச் சேமிக்கப் பயன்படும் இரு பொதுவான தரவு மாதிரிகள்",
+        "options": [
+          "புள்ளி, பலகோணம் மட்டும்",
+          "ராஸ்டர், வெக்டர்",
+          "பண்புத் தரவு, இடம்சார் தரவு",
+          "அனலாக், டிஜிட்டல்"
+        ],
+        "explanation": "இரண்டு மாதிரிகளும் வரைபடத் தரவை எளிய வடிவமாக்கிக் கணினியில் திறம்படச் சேமிக்க உதவுகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 122,
+      "quote": "GNSS refers to the collection of the world's global satellite based positioning systems. It includes GPS (United States) GLONASS (Russia) GALILEO (European Union) BEODOU (China) IRNSS (India) QZSS (Japan).",
+      "answer": "C",
+      "en": {
+        "q": "Which GNSS system is operated by Japan?",
+        "options": [
+          "Galileo",
+          "IRNSS",
+          "QZSS",
+          "GLONASS"
+        ],
+        "explanation": "Galileo belongs to the European Union, GLONASS to Russia, BeiDou to China and IRNSS to India."
+      },
+      "ta": {
+        "q": "ஜப்பான் இயக்கும் GNSS அமைப்பு எது?",
+        "options": [
+          "கலிலியோ",
+          "IRNSS",
+          "QZSS",
+          "குளோனாஸ்"
+        ],
+        "explanation": "கலிலியோ ஐரோப்பிய ஒன்றியத்தையும், குளோனாஸ் ரஷ்யாவையும், பெய்டூ சீனாவையும், IRNSS இந்தியாவையும் சார்ந்தவை."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 123,
+      "quote": "GPS was the first GNSS system. GPS was launched in the late 1970s by the United States Department of Defence. It uses a constellation of 24 satellites, and provides global coverage.",
+      "answer": "D",
+      "en": {
+        "q": "GPS, the first GNSS, uses a constellation of how many satellites?",
+        "options": [
+          "12",
+          "18",
+          "30",
+          "24"
+        ],
+        "explanation": "GPS was launched in the late 1970s by the United States Department of Defence."
+      },
+      "ta": {
+        "q": "முதல் GNSS ஆன GPS எத்தனை செயற்கைக்கோள் தொகுப்பைப் பயன்படுத்துகிறது?",
+        "options": [
+          "12",
+          "18",
+          "30",
+          "24"
+        ],
+        "explanation": "GPS 1970களின் பிற்பகுதியில் அமெரிக்கப் பாதுகாப்புத் துறையால் ஏவப்பட்டது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 123,
+      "quote": "The first satellite navigation system was Transit, a system deployed by the US military in 1960’s. Transit’s operations were based on the Doppler Effect",
+      "answer": "A",
+      "en": {
+        "q": "The first satellite navigation system, deployed by the US military in the 1960s and based on the Doppler Effect, was",
+        "options": [
+          "Transit",
+          "GLONASS",
+          "Galileo",
+          "IRNSS"
+        ],
+        "explanation": "GNSS satellites orbit about 20,000 km above the earth's surface and move several kilometres per second."
+      },
+      "ta": {
+        "q": "1960களில் அமெரிக்க இராணுவம் நிறுவிய, டாப்ளர் விளைவை அடிப்படையாகக் கொண்ட முதல் செயற்கைக்கோள் வழிகாட்டு அமைப்பு",
+        "options": [
+          "டிரான்சிட் (Transit)",
+          "குளோனாஸ்",
+          "கலிலியோ",
+          "IRNSS"
+        ],
+        "explanation": "GNSS செயற்கைக்கோள்கள் புவிக்கு ஏறத்தாழ 20,000 கி.மீ உயரத்தில் வினாடிக்குப் பல கி.மீ வேகத்தில் சுற்றுகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 123,
+      "quote": "At the end of the Cold War, the constellation was unclassified under the name GLONASS -- a Russian abbreviation of Global Navigation Satellite System.",
+      "answer": "B",
+      "en": {
+        "q": "Which GNSS, originally a Soviet military navigation network of Uragan satellites, was declassified under a name that is a Russian abbreviation of Global Navigation Satellite System?",
+        "options": [
+          "GPS",
+          "GLONASS",
+          "Galileo",
+          "BeiDou"
+        ],
+        "explanation": "GLONASS is operated by the Russian Aerospace Defence Forces."
+      },
+      "ta": {
+        "q": "முன்பு சோவியத் இராணுவத்தின் 'உராகன்' செயற்கைக்கோள் வழிகாட்டு வலையாக இருந்து, பனிப்போருக்குப் பின் 'உலகளாவிய வழிகாட்டு செயற்கைக்கோள் அமைப்பு' என்பதன் ரஷ்ய சுருக்கப் பெயரில் வெளிப்படுத்தப்பட்ட GNSS எது?",
+        "options": [
+          "GPS",
+          "குளோனாஸ் (GLONASS)",
+          "கலிலியோ",
+          "பெய்டூ"
+        ],
+        "explanation": "குளோனாஸை ரஷ்ய விண்வெளிப் பாதுகாப்புப் படைகள் இயக்குகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 123,
+      "quote": "Galileo is Europe’s own global navigation satellite system, providing a highly accurate, guaranteed global positioning service under civilian control.",
+      "answer": "C",
+      "en": {
+        "q": "Galileo, a global navigation satellite system under civilian control, belongs to",
+        "options": [
+          "China",
+          "Japan",
+          "Europe (European Union)",
+          "Russia"
+        ],
+        "explanation": "The Galileo constellation will comprise 30 satellites, 24 operational plus 6 spare, in medium Earth orbit."
+      },
+      "ta": {
+        "q": "சிவில் கட்டுப்பாட்டில் உள்ள உலகளாவிய செயற்கைக்கோள் வழிகாட்டு அமைப்பான கலிலியோ எந்த நாடு/அமைப்புக்கு உரியது?",
+        "options": [
+          "சீனா",
+          "ஜப்பான்",
+          "ஐரோப்பா (ஐரோப்பிய ஒன்றியம்)",
+          "ரஷ்யா"
+        ],
+        "explanation": "கலிலியோ தொகுப்பு நடுத்தரப் புவிச்சுற்றுப்பாதையில் 24 செயல்படும், 6 உதிரி என 30 செயற்கைக்கோள்களைக் கொண்டிருக்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 124,
+      "quote": "It provides location information service to users in India and the region extending for up to 1,500 km from the Indian boundary.",
+      "answer": "D",
+      "en": {
+        "q": "IRNSS provides location information service to users in India and the region extending up to how far from the Indian boundary?",
+        "options": [
+          "5,000 km",
+          "500 km",
+          "3,000 km",
+          "1,500 km"
+        ],
+        "explanation": "IRNSS provides a Standard Positioning Service for civilian use and a Restricted Service for authorised users."
+      },
+      "ta": {
+        "q": "IRNSS இந்தியாவிலும், இந்திய எல்லையிலிருந்து எவ்வளவு தொலைவு வரை பரவியுள்ள பகுதியிலும் இருப்பிடத் தகவல் சேவை வழங்குகிறது?",
+        "options": [
+          "5,000 கி.மீ",
+          "500 கி.மீ",
+          "3,000 கி.மீ",
+          "1,500 கி.மீ"
+        ],
+        "explanation": "IRNSS பொதுப் பயன்பாட்டுக்கு நிலைப்படுத்தல் சேவையும் அங்கீகரிக்கப்பட்டோருக்குக் கட்டுப்படுத்தப்பட்ட சேவையும் வழங்குகிறது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 124,
+      "quote": "The objective of developing IRNSS was to cut down India's dependency on foreign navigation satellite systems.",
+      "answer": "A",
+      "en": {
+        "q": "What was the objective of developing IRNSS?",
+        "options": [
+          "To cut down India's dependency on foreign navigation satellite systems",
+          "To launch communication satellites",
+          "To monitor weather",
+          "To photograph the Moon"
+        ],
+        "explanation": "IRNSS is an autonomous regional navigation system developed by ISRO."
+      },
+      "ta": {
+        "q": "IRNSS உருவாக்கப்பட்டதன் நோக்கம்",
+        "options": [
+          "வெளிநாட்டு வழிகாட்டு செயற்கைக்கோள் அமைப்புகளைச் சார்ந்திருப்பதைக் குறைப்பது",
+          "தகவல் தொடர்புச் செயற்கைக்கோள்களை ஏவுவது",
+          "வானிலையைக் கண்காணிப்பது",
+          "நிலவைப் படம் எடுப்பது"
+        ],
+        "explanation": "IRNSS இஸ்ரோ உருவாக்கிய தன்னிறைவான பிராந்திய வழிகாட்டு அமைப்பு."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 124,
+      "quote": "On December 27, 2018, Beidou-3 officially began to provide global services.",
+      "answer": "B",
+      "en": {
+        "q": "BeiDou-3, the Chinese navigation system, officially began to provide global services on",
+        "options": [
+          "19 June 1981",
+          "27 December 2018",
+          "11 March 2011",
+          "1 January 2000"
+        ],
+        "explanation": "BeiDou is a Chinese satellite navigation system consisting of two separate constellations."
+      },
+      "ta": {
+        "q": "சீனாவின் பெய்டூ-3 அமைப்பு அதிகாரப்பூர்வமாக உலகளாவிய சேவைகளைத் தொடங்கிய நாள்",
+        "options": [
+          "1981 ஜூன் 19",
+          "2018 டிசம்பர் 27",
+          "2011 மார்ச் 11",
+          "2000 ஜனவரி 1"
+        ],
+        "explanation": "பெய்டூ சீனாவின் செயற்கைக்கோள் வழிகாட்டு அமைப்பு; இது இரு தனித் தொகுப்புகளைக் கொண்டது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 126,
+      "quote": "Using GNSS, it is possible for a single surveyor to accomplish in one day what might have taken a survey crew of three people a week to complete.",
+      "answer": "C",
+      "en": {
+        "q": "Using GNSS, a single surveyor can accomplish in one day what might have taken a survey crew of three people",
+        "options": [
+          "a year",
+          "a month",
+          "a week",
+          "an hour"
+        ],
+        "explanation": "Determining a new survey position once required measuring distances and bearings from an existing known point."
+      },
+      "ta": {
+        "q": "GNSS-ஐப் பயன்படுத்தி ஒரு அளவையாளர் ஒரே நாளில் செய்யக்கூடிய பணிக்கு, மூன்று பேர் கொண்ட அளவைக் குழுவுக்கு முன்பு ஆன காலம்",
+        "options": [
+          "ஒரு வருடம்",
+          "ஒரு மாதம்",
+          "ஒரு வாரம்",
+          "ஒரு மணி நேரம்"
+        ],
+        "explanation": "ஒரு புதிய அளவைப் புள்ளியைக் காண, முன்பு அறியப்பட்ட புள்ளியிலிருந்து தூரங்களையும் திசைகோணங்களையும் அளக்க வேண்டியிருந்தது."
+      }
+    }
+  ]
+}
