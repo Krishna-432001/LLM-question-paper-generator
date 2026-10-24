@@ -1,0 +1,442 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 6 Science Term-III (English)",
+  "breadcrumb": "Std 6 Science Term-III (English) — Unit 6: Hardware and Software",
+  "questions": [
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 80,
+      "quote": "Thus computer is like a human body, where human body is the hardware and soul is the software.",
+      "answer": "A",
+      "en": {
+        "q": "In the book's comparison of a computer with a human body, the 'soul' of the computer is the",
+        "options": [
+          "software",
+          "hardware",
+          "monitor",
+          "cabinet"
+        ],
+        "explanation": "The book says the human body is the hardware and the soul is the software."
+      },
+      "ta": {
+        "q": "கணினியை மனித உடலுடன் ஒப்பிடும் நூலின் கருத்தில், கணினியின் 'ஆன்மா' எது?",
+        "options": [
+          "மென்பொருள்",
+          "வன்பொருள்",
+          "திரை (மானிட்டர்)",
+          "கேபினட் (பெட்டி)"
+        ],
+        "explanation": "நூலின்படி மனித உடல் வன்பொருள்; ஆன்மா மென்பொருள்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 80,
+      "quote": "Hardware is the parts of the computer which we can touch and feel.",
+      "answer": "B",
+      "en": {
+        "q": "The parts of a computer which we can touch and feel are called",
+        "options": [
+          "software",
+          "hardware",
+          "system software",
+          "open source"
+        ],
+        "explanation": "Hardware means the parts of the computer which we can touch and feel."
+      },
+      "ta": {
+        "q": "கணினியின் தொட்டு உணரக்கூடிய பாகங்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
+        "options": [
+          "மென்பொருள் (Software)",
+          "வன்பொருள் (Hardware)",
+          "கணினி அமைப்பு மென்பொருள்",
+          "கட்டற்ற மூலம்"
+        ],
+        "explanation": "கணினியின் தொட்டு உணரக்கூடிய பாகங்கள் வன்பொருள் எனப்படும்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 80,
+      "quote": "Hardware includes Input and Output devices, Cabinet, Hard Disk, Mother Board, SMPS, CPU, RAM, CD Drive and Graphics Card.",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following is a hardware part listed in the book?",
+        "options": [
+          "GeoGebra",
+          "Linux",
+          "SMPS",
+          "Android"
+        ],
+        "explanation": "SMPS is a hardware part; Linux, GeoGebra and Android are software."
+      },
+      "ta": {
+        "q": "நூலில் பட்டியலிடப்பட்டுள்ள வன்பொருள் பாகம் பின்வருவனவற்றுள் எது?",
+        "options": [
+          "ஜியோஜீப்ரா",
+          "லினக்ஸ்",
+          "SMPS (மின்சக்தி வழங்கி)",
+          "ஆண்ட்ராய்டு"
+        ],
+        "explanation": "SMPS வன்பொருள் பாகம்; லினக்ஸ், ஜியோஜீப்ரா, ஆண்ட்ராய்டு ஆகியவை மென்பொருள்கள்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 80,
+      "quote": "possible but we can see the functions of the software in the form of output.",
+      "answer": "D",
+      "en": {
+        "q": "Which part of a computer cannot be touched or felt, but its functions can be seen in the form of output?",
+        "options": [
+          "Hard disk",
+          "Hardware",
+          "Keyboard",
+          "Software"
+        ],
+        "explanation": "We cannot touch software, but we can see its functions in the output."
+      },
+      "ta": {
+        "q": "கணினியின் எந்தப் பகுதியைத் தொட்டு உணர முடியாது, ஆனால் அதன் செயல்பாடுகளை வெளியீடாகக் காண முடியும்?",
+        "options": [
+          "வன்தட்டு (ஹார்டு டிஸ்க்)",
+          "வன்பொருள்",
+          "விசைப்பலகை",
+          "மென்பொருள்"
+        ],
+        "explanation": "மென்பொருளைத் தொட முடியாது; அதன் செயல்பாடுகளை வெளியீட்டில் காணலாம்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 80,
+      "quote": "The software is divided into two types based on the process. They are 1. System Software (Operating System) 2. Application software",
+      "answer": "A",
+      "en": {
+        "q": "Based on the process, software is divided into which two types?",
+        "options": [
+          "System software (operating system) and application software",
+          "Free software and hardware",
+          "Input software and output software",
+          "Paid software and input devices"
+        ],
+        "explanation": "Software is of two types: system software (operating system) and application software."
+      },
+      "ta": {
+        "q": "செயல்பாட்டின் அடிப்படையில் மென்பொருள் எந்த இரு வகைகளாகப் பிரிக்கப்படுகிறது?",
+        "options": [
+          "கணினி அமைப்பு மென்பொருள் (இயங்குதளம்), பயன்பாட்டு மென்பொருள்",
+          "இலவச மென்பொருள், வன்பொருள்",
+          "உள்ளீட்டு மென்பொருள், வெளியீட்டு மென்பொருள்",
+          "கட்டண மென்பொருள், உள்ளீட்டுக் கருவிகள்"
+        ],
+        "explanation": "மென்பொருள் கணினி அமைப்பு மென்பொருள் (இயங்குதளம்), பயன்பாட்டு மென்பொருள் என இருவகைப்படும்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 80,
+      "quote": "Without the operating system, computer cannot function on its own. Some of the popular operating system are Linux, Windows, Mac, Android etc.",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following is an operating system?",
+        "options": [
+          "Chrome",
+          "Android",
+          "Internet",
+          "Pendrive"
+        ],
+        "explanation": "Linux, Windows, Mac and Android are popular operating systems."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் இயங்குதளம் (Operating System) எது?",
+        "options": [
+          "குரோம்",
+          "ஆண்ட்ராய்டு",
+          "இணையம்",
+          "பென்டிரைவ்"
+        ],
+        "explanation": "லினக்ஸ், விண்டோஸ், மேக், ஆண்ட்ராய்டு ஆகியவை பிரபலமான இயங்குதளங்கள்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 80,
+      "quote": "Without the operating system, computer cannot function on its own.",
+      "answer": "C",
+      "en": {
+        "q": "Without which software can a computer not function on its own?",
+        "options": [
+          "Drawing tool",
+          "Video player",
+          "Operating system",
+          "Word processing software"
+        ],
+        "explanation": "The operating system makes the hardware process the user's input data and display the result on output devices."
+      },
+      "ta": {
+        "q": "எந்த மென்பொருள் இல்லாமல் கணினி தானாகச் செயல்பட இயலாது?",
+        "options": [
+          "வரைகருவி",
+          "வீடியோ ஒளிபரப்பி (Video player)",
+          "இயங்குதளம் (Operating system)",
+          "சொல் செயலி மென்பொருள்"
+        ],
+        "explanation": "பயனர் உள்ளிடும் தரவை வன்பொருள் செயலாக்கி, முடிவை வெளியீட்டுச் சாதனங்களில் காட்டுவதற்கு இயங்குதளம் தேவை."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 81,
+      "quote": "The following are the examples of application program: Video player, Audio player, Word processing software, Drawing tools, Editing software, etc.",
+      "answer": "D",
+      "en": {
+        "q": "Which of the following is application software?",
+        "options": [
+          "Android",
+          "Linux",
+          "Windows",
+          "Word processing software"
+        ],
+        "explanation": "Video player, audio player, word processing software and drawing tools are application software; Linux, Windows and Android are operating systems."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் பயன்பாட்டு மென்பொருள் (Application software) எது?",
+        "options": [
+          "ஆண்ட்ராய்டு",
+          "லினக்ஸ்",
+          "விண்டோஸ்",
+          "சொல் செயலி மென்பொருள்"
+        ],
+        "explanation": "வீடியோ, ஆடியோ ஒளிபரப்பிகள், சொல் செயலி, வரைகருவிகள் பயன்பாட்டு மென்பொருள்கள்; லினக்ஸ், விண்டோஸ், ஆண்ட்ராய்டு இயங்குதளங்கள்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 81,
+      "quote": "The operating system and application software are available in two forms. They are: 1. Free and Open source 2. Paid and Proprietary Software",
+      "answer": "A",
+      "en": {
+        "q": "The operating system and application software are available in which two forms?",
+        "options": [
+          "Free and open source; paid and proprietary",
+          "Free and traditional; paid and open",
+          "Passive and open source; passive and traditional",
+          "Input and output; hardware and software"
+        ],
+        "explanation": "They are available as free and open source software and as paid and proprietary software."
+      },
+      "ta": {
+        "q": "இயங்குதளமும் பயன்பாட்டு மென்பொருளும் எந்த இரு வடிவங்களில் கிடைக்கின்றன?",
+        "options": [
+          "கட்டற்ற திறந்த மூலம்; கட்டணம் செலுத்த வேண்டிய உரிமைப் பதிப்பு",
+          "கட்டற்ற பாரம்பரியம்; கட்டணம் செலுத்தும் திறந்தது",
+          "செயலற்ற திறந்த மூலம்; செயலற்ற பாரம்பரியம்",
+          "உள்ளீடு, வெளியீடு; வன்பொருள், மென்பொருள்"
+        ],
+        "explanation": "அவை இலவச-திறந்த மூல (Free and Open source), கட்டண-உரிமை (Paid and Proprietary) என இரு வடிவங்களில் கிடைக்கின்றன."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 81,
+      "quote": "Free and open software is available at free of cost and can be shared to many end users. Free software is editable and customizable by the user",
+      "answer": "B",
+      "en": {
+        "q": "Why can free and open source software lead to the development of new software?",
+        "options": [
+          "It cannot be changed by anyone",
+          "It is editable and customizable by the user",
+          "It is sold only to one end user",
+          "It needs a licence that is purchased"
+        ],
+        "explanation": "Free software is editable and customizable by the user, which leads to updation or development of new software."
+      },
+      "ta": {
+        "q": "இலவச, திறந்த மூல மென்பொருள் புதிய மென்பொருள் உருவாக்கத்துக்கு வழிவகுப்பது ஏன்?",
+        "options": [
+          "யாராலும் மாற்ற இயலாததால்",
+          "பயனரால் திருத்தவும் தனக்கேற்ப மாற்றவும் முடிவதால்",
+          "ஒரே ஒரு பயனருக்கு மட்டுமே விற்கப்படுவதால்",
+          "வாங்கிய உரிமம் தேவைப்படுவதால்"
+        ],
+        "explanation": "பயனர் இம்மென்பொருளைத் திருத்தவும் தனக்கேற்ப மாற்றவும் முடிவதால் புதிய மென்பொருள் உருவாக வாய்ப்புள்ளது."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 82,
+      "quote": "Examples of Free and Open source software: LINUX, Open office, Operating System, Geogebra etc.",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following is Free and Open Source software?",
+        "options": [
+          "Microsoft Office",
+          "Windows",
+          "Linux",
+          "Adobe Photoshop"
+        ],
+        "explanation": "Linux, Open Office and GeoGebra are examples of free and open source software."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் இலவச, திறந்த மூல (Free and Open Source) மென்பொருள் எது?",
+        "options": [
+          "மைக்ரோசாஃப்ட் ஆஃபிஸ்",
+          "விண்டோஸ்",
+          "லினக்ஸ்",
+          "அடோபி ஃபோட்டோஷாப்"
+        ],
+        "explanation": "லினக்ஸ், ஓபன் ஆஃபிஸ், ஜியோஜீப்ரா ஆகியவை இலவச, திறந்த மூல மென்பொருள்களுக்கு எடுத்துக்காட்டுகள்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 82,
+      "quote": "Some of the examples of Paid & Proprietary Software are: Windows, Microsoft office, Adobe Photoshop, etc.",
+      "answer": "D",
+      "en": {
+        "q": "Which of the following is Paid and Proprietary software?",
+        "options": [
+          "Open Office",
+          "Linux",
+          "GeoGebra",
+          "Microsoft Office"
+        ],
+        "explanation": "Windows, Microsoft Office and Adobe Photoshop are paid and proprietary software."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் கட்டணம் செலுத்த வேண்டிய உரிமைப் (Paid and Proprietary) மென்பொருள் எது?",
+        "options": [
+          "ஓபன் ஆஃபிஸ்",
+          "லினக்ஸ்",
+          "ஜியோஜீப்ரா",
+          "மைக்ரோசாஃப்ட் ஆஃபிஸ்"
+        ],
+        "explanation": "விண்டோஸ், மைக்ரோசாஃப்ட் ஆஃபிஸ், அடோபி ஃபோட்டோஷாப் ஆகியவை கட்டண, உரிமை மென்பொருள்கள்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 82,
+      "quote": "The license of the software would not be provided unless it is purchased. Similarly the end users are legally prohibited to steal the software program or to use the pirated version of the Paid and Proprietary Software.",
+      "answer": "A",
+      "en": {
+        "q": "For paid and proprietary software, the end users are legally prohibited from",
+        "options": [
+          "using a pirated version of the software",
+          "buying a licence for the software",
+          "installing the software on a computer",
+          "using the software after paying for it"
+        ],
+        "explanation": "The licence is not provided unless the software is purchased, and using pirated versions is legally prohibited."
+      },
+      "ta": {
+        "q": "கட்டணம் செலுத்த வேண்டிய உரிமை மென்பொருளைப் பயன்படுத்துவோர் சட்டப்படி எதைச் செய்யக் கூடாது?",
+        "options": [
+          "மென்பொருளின் திருட்டுப் பதிப்பைப் பயன்படுத்துதல்",
+          "மென்பொருளுக்கான உரிமத்தை வாங்குதல்",
+          "கணினியில் மென்பொருளை நிறுவுதல்",
+          "கட்டணம் செலுத்திய பின் மென்பொருளைப் பயன்படுத்துதல்"
+        ],
+        "explanation": "உரிமம் வாங்கிய பிறகே வழங்கப்படும்; திருட்டுப் பதிப்பைப் பயன்படுத்துவது சட்டப்படி தடைசெய்யப்பட்டுள்ளது."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 82,
+      "quote": "The Open Source Initiative (OSI) is an organization dedicated to promote Open Source Software.",
+      "answer": "B",
+      "en": {
+        "q": "The Open Source Initiative (OSI) is an organization dedicated to promote",
+        "options": [
+          "Paid and Proprietary Software",
+          "Open Source Software",
+          "Computer Hardware",
+          "Pirated Software"
+        ],
+        "explanation": "OSI is dedicated to promoting open source software."
+      },
+      "ta": {
+        "q": "திறந்த மூல முன்முயற்சி (Open Source Initiative – OSI) என்ற அமைப்பு எதை ஊக்குவிக்கிறது?",
+        "options": [
+          "கட்டண, உரிமை மென்பொருள்",
+          "திறந்த மூல மென்பொருள்",
+          "கணினி வன்பொருள்",
+          "திருட்டு மென்பொருள்"
+        ],
+        "explanation": "OSI திறந்த மூல மென்பொருளை ஊக்குவிக்கும் அமைப்பு."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 80,
+      "quote": "Email existed before the World Wide Web.",
+      "answer": "C",
+      "en": {
+        "q": "According to the book, which of the following existed before the World Wide Web?",
+        "options": [
+          "Wikipedia",
+          "YouTube",
+          "Email",
+          "Online video games on websites"
+        ],
+        "explanation": "The book states that email existed before the World Wide Web."
+      },
+      "ta": {
+        "q": "நூலின்படி, உலகளாவிய வலைக்கு (World Wide Web) முன்பே இருந்தது எது?",
+        "options": [
+          "விக்கிப்பீடியா",
+          "யூடியூப்",
+          "மின்னஞ்சல்",
+          "இணையத்தளங்களில் இயங்கும் நிகழ்நிலை விளையாட்டுகள்"
+        ],
+        "explanation": "உலகளாவிய வலைக்கு முன்பே மின்னஞ்சல் இருந்தது."
+      }
+    }
+  ]
+}
