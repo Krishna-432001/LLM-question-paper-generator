@@ -1,0 +1,442 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 8 Science Term-Full (English)",
+  "breadcrumb": "Std 8 Science (English) — Unit 2: Force and Pressure",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 13,
+      "quote": "The force acting perpendicularly on any given surface area of a body is known as thrust. It is measured by the unit newton.",
+      "answer": "A",
+      "en": {
+        "q": "The force acting perpendicularly on a given surface area of a body is called",
+        "options": [
+          "thrust",
+          "pressure",
+          "friction",
+          "tension"
+        ],
+        "explanation": "Thrust is measured in newtons; pressure is the thrust acting per unit area, measured in pascals."
+      },
+      "ta": {
+        "q": "ஒரு பொருளின் பரப்பின் மீது செங்குத்தாகச் செயல்படும் விசை",
+        "options": [
+          "உந்துவிசை (Thrust)",
+          "அழுத்தம்",
+          "உராய்வு",
+          "இழுவிசை"
+        ],
+        "explanation": "உந்துவிசை நியூட்டனில் அளக்கப்படுகிறது; ஓரலகுப் பரப்பில் செயல்படும் உந்துவிசையே அழுத்தம், அது பாஸ்கலில் அளக்கப்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 13,
+      "quote": "The average weight of an elephant is 4000 N. The surface area of the sole of its foot is 0.1m2. ... Weight of one leg = Force exerted by one leg = 4000/4 = 1000 N ... Pressure exerted by one leg of the elephant is 10,000 newton on one square metre.",
+      "answer": "B",
+      "en": {
+        "q": "An elephant weighing 4000 N stands on four feet, each with a sole area of 0.1 m². The pressure exerted by one foot is",
+        "options": [
+          "40,000 N m⁻²",
+          "10,000 N m⁻²",
+          "1,000 N m⁻²",
+          "400 N m⁻²"
+        ],
+        "explanation": "Force on one foot = 4000/4 = 1000 N; pressure = 1000/0.1 = 10,000 N m⁻²."
+      },
+      "ta": {
+        "q": "4000 N எடையுள்ள யானை நான்கு கால்களில் நிற்கிறது; ஒவ்வொரு காலின் அடிப்பரப்பும் 0.1 மீ². ஒரு கால் செலுத்தும் அழுத்தம்",
+        "options": [
+          "40,000 N m⁻²",
+          "10,000 N m⁻²",
+          "1,000 N m⁻²",
+          "400 N m⁻²"
+        ],
+        "explanation": "ஒரு காலின் விசை = 4000/4 = 1000 N; அழுத்தம் = 1000/0.1 = 10,000 N m⁻²."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 20,
+      "quote": "A stone weighs 500 N. Calculate the pressure exerted by it, if it makes contact with a surface of area 25 cm2.",
+      "answer": "C",
+      "en": {
+        "q": "A stone weighing 500 N rests on a surface with a contact area of 25 cm². The pressure it exerts is",
+        "options": [
+          "2 × 10³ Pa",
+          "20 Pa",
+          "2 × 10⁵ Pa",
+          "1.25 × 10⁴ Pa"
+        ],
+        "explanation": "25 cm² = 25 × 10⁻⁴ m² = 0.0025 m²; pressure = 500/0.0025 = 2,00,000 Pa."
+      },
+      "ta": {
+        "q": "500 N எடையுள்ள ஒரு கல் 25 செ.மீ² பரப்பில் தொட்டுக்கொண்டிருக்கிறது. அது செலுத்தும் அழுத்தம்",
+        "options": [
+          "2 × 10³ Pa",
+          "20 Pa",
+          "2 × 10⁵ Pa",
+          "1.25 × 10⁴ Pa"
+        ],
+        "explanation": "25 செ.மீ² = 25 × 10⁻⁴ மீ² = 0.0025 மீ²; அழுத்தம் = 500/0.0025 = 2,00,000 Pa."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 13,
+      "quote": "More number of wheels are provided for a heavy goods-carrier for decreasing the pressure thereby increasing the area of contact on the road. Broader straps are provided on a back-pack for giving less pressure on the shoulders",
+      "answer": "D",
+      "en": {
+        "q": "Heavy goods carriers are provided with more wheels in order to",
+        "options": [
+          "reduce the weight of the vehicle",
+          "increase the pressure on the road",
+          "increase the speed of the vehicle",
+          "increase the area of contact and so decrease the pressure on the road"
+        ],
+        "explanation": "For the same reason, back-packs have broad straps to reduce pressure on the shoulders."
+      },
+      "ta": {
+        "q": "கனரகச் சரக்கு வாகனங்களுக்கு அதிகச் சக்கரங்கள் பொருத்தப்படுவதன் நோக்கம்",
+        "options": [
+          "வாகனத்தின் எடையைக் குறைத்தல்",
+          "சாலை மீதான அழுத்தத்தை அதிகரித்தல்",
+          "வாகனத்தின் வேகத்தை அதிகரித்தல்",
+          "தொடுபரப்பை அதிகரித்துச் சாலை மீதான அழுத்தத்தைக் குறைத்தல்"
+        ],
+        "explanation": "இதே காரணத்தால் தோள்பைகளில் தோள் மீதான அழுத்தத்தைக் குறைக்க அகலமான வார்கள் தரப்படுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 14,
+      "quote": "Cooking in a place located at a higher altitude is difficult. Why? At a higher altitude, due to lack of atmospheric pressure the boiling point of a substance reduces. So, water boils even at 80oC.",
+      "answer": "A",
+      "en": {
+        "q": "Cooking is difficult at high altitudes because",
+        "options": [
+          "lower atmospheric pressure lowers the boiling point of water",
+          "higher atmospheric pressure raises the boiling point of water",
+          "there is less oxygen for the fuel to burn",
+          "water does not boil at all at high altitudes"
+        ],
+        "explanation": "Water may boil at about 80 °C there, and the heat at that temperature is not enough for cooking or baking."
+      },
+      "ta": {
+        "q": "உயரமான இடங்களில் சமைப்பது கடினமாக இருப்பதன் காரணம்",
+        "options": [
+          "குறைந்த வளிமண்டல அழுத்தம் நீரின் கொதிநிலையைக் குறைக்கிறது",
+          "அதிக வளிமண்டல அழுத்தம் நீரின் கொதிநிலையை உயர்த்துகிறது",
+          "எரிபொருள் எரிய ஆக்சிஜன் குறைவு",
+          "உயரமான இடங்களில் நீர் கொதிப்பதே இல்லை"
+        ],
+        "explanation": "அங்கு நீர் சுமார் 80 °C இல் கொதிக்கலாம்; அந்த வெப்பநிலையிலான வெப்பம் சமைக்கவோ சுடவோ போதாது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 14,
+      "quote": "When the paper is burning in the flask, the oxygen present in the air inside the conical flask is used up for its combustion. This reduces the pressure of the air in the flask. The air in the atmosphere tends to occupy the low pressure region in the flask. So, it rushes through the mouth of the flask, thus pushing the egg into the flask.",
+      "answer": "B",
+      "en": {
+        "q": "A peeled boiled egg placed on the mouth of a flask in which paper has just burnt gets pushed into the flask. This happens because",
+        "options": [
+          "the heat inside the flask softens and sucks in the egg",
+          "the air pressure inside the flask falls, and the outside atmospheric pressure pushes the egg in",
+          "the egg becomes heavier after cooling",
+          "the burning paper produces a gas that attracts the egg"
+        ],
+        "explanation": "The burning uses up oxygen inside the flask, lowering the inside pressure; air rushes towards the low-pressure region."
+      },
+      "ta": {
+        "q": "காகிதம் எரிந்த குடுவையின் வாயில் வைக்கப்பட்ட, தோல் உரித்த வேகவைத்த முட்டை குடுவைக்குள் தள்ளப்படுகிறது. இதற்குக் காரணம்",
+        "options": [
+          "குடுவையினுள் உள்ள வெப்பம் முட்டையை மென்மையாக்கி உறிஞ்சுகிறது",
+          "குடுவையினுள் காற்றழுத்தம் குறைந்து, வெளிப்புற வளிமண்டல அழுத்தம் முட்டையை உள்ளே தள்ளுகிறது",
+          "குளிர்ந்தபின் முட்டை கனமாகிறது",
+          "எரியும் காகிதம் முட்டையைக் கவரும் வாயுவை உண்டாக்குகிறது"
+        ],
+        "explanation": "எரிதல் குடுவையினுள் உள்ள ஆக்சிஜனைப் பயன்படுத்துவதால் உள் அழுத்தம் குறைகிறது; காற்று குறைந்த அழுத்தப் பகுதியை நோக்கி விரைகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 15,
+      "quote": "Take a plastic bottle. Punch three holes on its sides at the same height from its base. ... Water comes out from all the holes with the same force and falls on the ground/table, at the same distance from the bottle. Thus, we can conclude that liquids exert the same pressure in all directions, at a given depth.",
+      "answer": "C",
+      "en": {
+        "q": "Water flows out with the same force from three holes punched around a bottle at the same height. This shows that",
+        "options": [
+          "liquid pressure depends on the shape of the container",
+          "liquid pressure decreases with depth",
+          "a liquid exerts the same pressure in all directions at a given depth",
+          "liquids exert pressure only on the base of the container"
+        ],
+        "explanation": "Liquid pressure increases with depth, so dams are made stronger and broader at the bottom."
+      },
+      "ta": {
+        "q": "ஒரு புட்டியைச் சுற்றி ஒரே உயரத்தில் இடப்பட்ட மூன்று துளைகளிலிருந்தும் நீர் ஒரே விசையுடன் வெளியேறுகிறது. இது காட்டுவது",
+        "options": [
+          "திரவ அழுத்தம் கொள்கலனின் வடிவத்தைப் பொறுத்தது",
+          "ஆழம் அதிகரிக்கத் திரவ அழுத்தம் குறைகிறது",
+          "ஒரு குறிப்பிட்ட ஆழத்தில் திரவம் எல்லாத் திசைகளிலும் சம அழுத்தத்தைச் செலுத்துகிறது",
+          "திரவங்கள் கொள்கலனின் அடிப்பகுதியில் மட்டுமே அழுத்தம் செலுத்துகின்றன"
+        ],
+        "explanation": "ஆழம் அதிகரிக்கத் திரவ அழுத்தம் அதிகரிப்பதால் அணைகள் அடியில் வலுவாகவும் அகலமாகவும் கட்டப்படுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 16,
+      "quote": "In automobile service stations, the vehicles are lifted upward using the hydraulic lift which works as per Pascal's law. Automobile brake system works according to Pascal's law. The hydraulic press is used to compress the bundles of cotton or cloth so as to occupy less space.",
+      "answer": "D",
+      "en": {
+        "q": "Which of the following does NOT work on Pascal's law?",
+        "options": [
+          "Hydraulic press for compressing cotton bundles",
+          "Hydraulic lift",
+          "Automobile brake system",
+          "Mercury barometer"
+        ],
+        "explanation": "Pascal's law: pressure applied at any point of a liquid at rest in a closed system is transmitted equally in all directions. A barometer measures atmospheric pressure by the height of a mercury column."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் பாஸ்கல் விதியின்படி இயங்காதது எது?",
+        "options": [
+          "பருத்திப் பொதிகளை அழுத்தும் நீரியல் அழுத்தி",
+          "நீரியல் தூக்கி",
+          "வாகன நிறுத்தி (பிரேக்) அமைப்பு",
+          "பாதரசக் காற்றழுத்தமானி"
+        ],
+        "explanation": "பாஸ்கல் விதி: மூடிய அமைப்பில் ஓய்விலுள்ள திரவத்தின் ஏதேனும் ஒரு புள்ளியில் செலுத்தப்படும் அழுத்தம் எல்லாத் திசைகளிலும் சமமாகப் பரவுகிறது. காற்றழுத்தமானி பாதரசத் தம்ப உயரத்தால் வளிமண்டல அழுத்தத்தை அளக்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 16,
+      "quote": "Have you ever wondered why rain drops are spherical in nature? ... These are all due to surface tension. ... Water strider insect slides on the water surface easily due to the surface tension of water.",
+      "answer": "A",
+      "en": {
+        "q": "Raindrops are spherical and a water strider can slide on the surface of water because of",
+        "options": [
+          "surface tension",
+          "viscosity",
+          "buoyancy",
+          "atmospheric pressure"
+        ],
+        "explanation": "Surface tension makes a liquid surface behave like a stretched elastic membrane that tends to have the minimum surface area."
+      },
+      "ta": {
+        "q": "மழைத்துளிகள் கோள வடிவில் இருப்பதற்கும் நீர்ச்சிலந்தி (Water strider) நீர்ப்பரப்பில் சறுக்கிச் செல்வதற்கும் காரணம்",
+        "options": [
+          "பரப்பு இழுவிசை",
+          "பாகுநிலை",
+          "மிதப்பு விசை",
+          "வளிமண்டல அழுத்தம்"
+        ],
+        "explanation": "பரப்பு இழுவிசையால் திரவப் பரப்பு இழுக்கப்பட்ட மீள்சவ்வு போல நடந்து, மிகக் குறைந்த பரப்பைப் பெற முயல்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 17,
+      "quote": "The frictional force acting between the successive layers of the liquid which acts in order to oppose the relative motion of the layer is known as viscous force. Such a property of a liquid is called viscosity. Viscous force is measured by the unit called poise in CGS system and kgm–1s–1 or Nsm–2 in SI system.",
+      "answer": "B",
+      "en": {
+        "q": "The CGS unit of viscosity is the",
+        "options": [
+          "pascal",
+          "poise",
+          "newton per metre",
+          "dyne"
+        ],
+        "explanation": "In SI, viscosity is expressed in kg m⁻¹ s⁻¹ or N s m⁻². Viscosity is the frictional force between successive layers of a moving liquid."
+      },
+      "ta": {
+        "q": "பாகுநிலையின் CGS அலகு",
+        "options": [
+          "பாஸ்கல்",
+          "பாய்ஸ் (poise)",
+          "நியூட்டன் / மீட்டர்",
+          "டைன்"
+        ],
+        "explanation": "SI இல் பாகுநிலை kg m⁻¹ s⁻¹ அல்லது N s m⁻² இல் குறிக்கப்படுகிறது. இயங்கும் திரவத்தின் அடுத்தடுத்த அடுக்குகளுக்கு இடையிலான உராய்வு விசையே பாகுநிலை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "analyze",
+      "page": 16,
+      "quote": "Each liquid moves with a different speed. Water flows faster than other liquids. Coconut oil flows with a moderate speed. Ghee flows very slowly.",
+      "answer": "C",
+      "en": {
+        "q": "Drops of water, coconut oil and ghee are allowed to slide down a tilted glass plate. Which has the highest viscosity?",
+        "options": [
+          "Coconut oil",
+          "Water",
+          "Ghee",
+          "All have equal viscosity"
+        ],
+        "explanation": "Water flows fastest, coconut oil at a moderate speed and ghee very slowly; the slower the flow, the higher the viscosity."
+      },
+      "ta": {
+        "q": "சாய்த்து வைக்கப்பட்ட கண்ணாடித் தகட்டில் நீர், தேங்காய் எண்ணெய், நெய் துளிகள் வழிந்தோட விடப்படுகின்றன. அதிகப் பாகுநிலை கொண்டது எது?",
+        "options": [
+          "தேங்காய் எண்ணெய்",
+          "நீர்",
+          "நெய்",
+          "அனைத்துக்கும் சம பாகுநிலை"
+        ],
+        "explanation": "நீர் மிக வேகமாகவும், தேங்காய் எண்ணெய் மிதமாகவும், நெய் மிக மெதுவாகவும் ஓடுகின்றன; ஓட்டம் மெதுவாக இருந்தால் பாகுநிலை அதிகம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 17,
+      "quote": "This force is produced due to the geometrical dissimilarities of the surface of the bodies, which are in relative motion.",
+      "answer": "D",
+      "en": {
+        "q": "Friction between two surfaces in relative motion arises mainly because of",
+        "options": [
+          "the electric charge on the surfaces",
+          "the magnetic attraction between the surfaces",
+          "the air trapped between the surfaces",
+          "irregularities (geometrical dissimilarities) on the surfaces in contact"
+        ],
+        "explanation": "Friction always acts opposite to the motion; it opposes motion, causes wear and tear, and produces heat."
+      },
+      "ta": {
+        "q": "சார்பு இயக்கத்திலுள்ள இரு பரப்புகளுக்கு இடையே உராய்வு தோன்றுவதற்கு முக்கியக் காரணம்",
+        "options": [
+          "பரப்புகளிலுள்ள மின்னூட்டம்",
+          "பரப்புகளுக்கிடையிலான காந்தக் கவர்ச்சி",
+          "பரப்புகளுக்கிடையே சிக்கிய காற்று",
+          "தொடும் பரப்புகளின் ஒழுங்கின்மைகள் (வடிவியல் வேறுபாடுகள்)"
+        ],
+        "explanation": "உராய்வு எப்போதும் இயக்கத்துக்கு எதிர்த்திசையில் செயல்படுகிறது; அது இயக்கத்தைத் தடுக்கிறது, தேய்மானத்தை ஏற்படுத்துகிறது, வெப்பத்தை உண்டாக்குகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 17,
+      "quote": "The friction experienced by the bodies, which are at rest is called static friction. ... Friction existing during the motion of bodies is called kinetic friction. ... Rolling friction is less than sliding friction. ... The frictional force acting between the successive layers of the liquid ... is known as viscous force.",
+      "answer": "A",
+      "en": {
+        "q": "Match the following:\na) Static friction\nb) Kinetic friction\nc) Rolling friction\nd) Viscosity\n1. Friction between liquid layers\n2. Least friction\n3. Objects in motion\n4. Objects at rest",
+        "options": [
+          "a-4, b-3, c-2, d-1",
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-1, d-2",
+          "a-2, b-1, c-4, d-3"
+        ],
+        "explanation": "Kinetic friction is further divided into sliding friction and rolling friction; rolling friction is less than sliding friction."
+      },
+      "ta": {
+        "q": "பொருத்துக:\na) நிலை உராய்வு\nb) இயக்க உராய்வு\nc) உருளும் உராய்வு\nd) பாகுநிலை\n1. திரவ அடுக்குகளுக்கு இடையிலான உராய்வு\n2. மிகக் குறைந்த உராய்வு\n3. இயக்கத்திலுள்ள பொருட்கள்\n4. ஓய்விலுள்ள பொருட்கள்",
+        "options": [
+          "a-4, b-3, c-2, d-1",
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-1, d-2",
+          "a-2, b-1, c-4, d-3"
+        ],
+        "explanation": "இயக்க உராய்வு, நழுவும் உராய்வு, உருளும் உராய்வு என மேலும் பிரிக்கப்படுகிறது; உருளும் உராய்வு நழுவும் உராய்வைவிடக் குறைவு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 17,
+      "quote": "Rolling friction is less than sliding friction. That is why wheels are provided in vehicles, trolleys, suitcases etc.",
+      "answer": "B",
+      "en": {
+        "q": "Wheels are fitted to suitcases and trolleys because",
+        "options": [
+          "rolling friction is greater than sliding friction",
+          "rolling friction is less than sliding friction",
+          "wheels increase the area of contact",
+          "wheels increase static friction"
+        ],
+        "explanation": "For the same reason, ball bearings replace sliding with rolling in machines and cycle hubs."
+      },
+      "ta": {
+        "q": "பயணப்பெட்டிகளிலும் தள்ளுவண்டிகளிலும் சக்கரங்கள் பொருத்தப்படுவதன் காரணம்",
+        "options": [
+          "உருளும் உராய்வு நழுவும் உராய்வைவிட அதிகம்",
+          "உருளும் உராய்வு நழுவும் உராய்வைவிடக் குறைவு",
+          "சக்கரங்கள் தொடுபரப்பை அதிகரிக்கின்றன",
+          "சக்கரங்கள் நிலை உராய்வை அதிகரிக்கின்றன"
+        ],
+        "explanation": "இதே காரணத்தால் இயந்திரங்களிலும் மிதிவண்டி அச்சுக்குழியிலும் பந்துத் தாங்கிகள் நழுவுதலை உருளுதலாக மாற்றுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 18,
+      "quote": "Though friction makes our life easy, it has some negative effects also. So, it is called as 'necessary evil'. ... A substance which reduces the frictional force is called a lubricant. Eg. Grease, coconut oil, graphite, castor oil, etc.",
+      "answer": "C",
+      "en": {
+        "q": "Friction is often called a 'necessary evil' because",
+        "options": [
+          "it occurs only in liquids",
+          "it can be completely removed with lubricants",
+          "it is essential for activities like walking and braking, but also wastes energy and wears out surfaces",
+          "it always increases the speed of moving bodies"
+        ],
+        "explanation": "Lubricants such as grease, graphite and castor oil fill the gaps between irregular surfaces and reduce friction."
+      },
+      "ta": {
+        "q": "உராய்வு 'தவிர்க்க முடியாத தீமை' (necessary evil) என அழைக்கப்படக் காரணம்",
+        "options": [
+          "அது திரவங்களில் மட்டுமே தோன்றுகிறது",
+          "உயவுப் பொருட்களால் அதை முழுமையாக நீக்கிவிடலாம்",
+          "நடத்தல், வாகனத்தை நிறுத்துதல் போன்றவற்றுக்கு அது இன்றியமையாதது; ஆனால் ஆற்றலை வீணாக்கிப் பரப்புகளைத் தேய்க்கிறது",
+          "அது இயங்கும் பொருட்களின் வேகத்தை எப்போதும் அதிகரிக்கிறது"
+        ],
+        "explanation": "கிரீஸ், கிராஃபைட், ஆமணக்கு எண்ணெய் போன்ற உயவுப் பொருட்கள் ஒழுங்கற்ற பரப்புகளுக்கிடையிலான இடைவெளிகளை நிரப்பி உராய்வைக் குறைக்கின்றன."
+      }
+    }
+  ]
+}
