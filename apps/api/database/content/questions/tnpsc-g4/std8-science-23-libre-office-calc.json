@@ -1,0 +1,268 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 8 Science Term-Full (English)",
+  "breadcrumb": "Std 8 Science (English) — Unit 23: Libre Office Calc",
+  "questions": [
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 276,
+      "quote": "Libre Office Calc is one of the packages of Libre Office. It is mainly developed for calculation. Each page in Calc is called as spreadsheet. A spreadsheet consists of rows and columns.",
+      "answer": "A",
+      "en": {
+        "q": "LibreOffice Calc is mainly developed for",
+        "options": [
+          "calculation using spreadsheets of rows and columns",
+          "drawing pictures",
+          "creating presentations",
+          "browsing the internet"
+        ],
+        "explanation": "Common uses of electronic spreadsheets include bills, income-tax calculations, invoices, inventory control, financial accounting and analysis of students' results."
+      },
+      "ta": {
+        "q": "லிப்ரே ஆஃபீஸ் கால்க் முக்கியமாக உருவாக்கப்பட்டது",
+        "options": [
+          "நிரைகளும் நெடுவரிசைகளும் கொண்ட விரிதாள்களில் கணக்கிட",
+          "படங்கள் வரைய",
+          "காட்சியளிப்புகள் உருவாக்க",
+          "இணையத்தில் உலவ"
+        ],
+        "explanation": "கட்டணங்கள், வருமானவரிக் கணக்கீடு, விலைப்பட்டியல்கள், சரக்குக் கட்டுப்பாடு, நிதிக் கணக்கியல், மாணவர் தேர்ச்சிப் பகுப்பாய்வு ஆகியவை மின்னணு விரிதாள்களின் பொதுவான பயன்கள்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 277,
+      "quote": "The intersection of a row and a column is known as cell. Each cell is identified by its address. The cell address is a combination of column letter and row number. The first active cell's address will be A1. The name box displays the address of the active cell.",
+      "answer": "B",
+      "en": {
+        "q": "In a spreadsheet, a cell address such as C2 is a combination of",
+        "options": [
+          "the row letter and the column number",
+          "the column letter and the row number",
+          "the sheet name and the row number",
+          "the file name and the column letter"
+        ],
+        "explanation": "A cell is the intersection of a row and a column; the first active cell is A1, and the name box shows the address of the active cell."
+      },
+      "ta": {
+        "q": "விரிதாளில் C2 போன்ற கலமுகவரி (Cell address) எதன் இணைவு?",
+        "options": [
+          "நிரை எழுத்தும் நெடுவரிசை எண்ணும்",
+          "நெடுவரிசை எழுத்தும் நிரை எண்ணும்",
+          "தாளின் பெயரும் நிரை எண்ணும்",
+          "கோப்பின் பெயரும் நெடுவரிசை எழுத்தும்"
+        ],
+        "explanation": "நிரையும் நெடுவரிசையும் சந்திக்கும் இடமே கலம்; முதல் செயல்நிலைக் கலம் A1; பெயர்ப் பெட்டி செயல்நிலைக் கலத்தின் முகவரியைக் காட்டும்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 278,
+      "quote": "A group of cells is known as range of cells. It forms a rectangle or a square. ... In the image given below the range of cells is starting from C6 and ending at C9. This is represented as C6:C9. Here colon (:) is a range indicator.",
+      "answer": "C",
+      "en": {
+        "q": "In the range C6:C9 in a spreadsheet, the colon (:) acts as a",
+        "options": [
+          "text joiner",
+          "division operator",
+          "range indicator",
+          "relational operator"
+        ],
+        "explanation": "A range of cells is a group of cells forming a rectangle or square; it can be selected by holding Shift and pressing the arrow keys."
+      },
+      "ta": {
+        "q": "விரிதாளில் C6:C9 என்ற வரம்பில் முக்காற்புள்ளி (:) செயல்படுவது",
+        "options": [
+          "உரை இணைப்பியாக",
+          "வகுத்தல் செயற்குறியாக",
+          "வரம்புக் குறிகாட்டியாக",
+          "ஒப்பீட்டுச் செயற்குறியாக"
+        ],
+        "explanation": "கலங்களின் வரம்பு என்பது செவ்வகம் அல்லது சதுரமாக அமையும் கலத்தொகுப்பு; Shift விசையை அழுத்தியபடி அம்புக்குறி விசைகளால் அதைத் தேர்ந்தெடுக்கலாம்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 279,
+      "quote": "Functions can be used to perform simple or complex calculations. You can use different formulae in Libre Office Calc. A formula in Libre Office Calc starts with an equal to (=) sign.",
+      "answer": "D",
+      "en": {
+        "q": "In LibreOffice Calc, every formula begins with the sign",
+        "options": [
+          "&",
+          "+",
+          ">",
+          "="
+        ],
+        "explanation": "For example, =SUM(A2:A6) totals the values in cells A2 to A6."
+      },
+      "ta": {
+        "q": "லிப்ரே ஆஃபீஸ் கால்க்கில் ஒவ்வொரு சூத்திரமும் தொடங்கும் குறி",
+        "options": [
+          "&",
+          "+",
+          ">",
+          "="
+        ],
+        "explanation": "எ.கா. =SUM(A2:A6) என்பது A2 முதல் A6 வரையுள்ள கலங்களின் மதிப்புகளைக் கூட்டுகிறது."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 279,
+      "quote": "To create a simple text value, enclose it in double quotes. The ampersand (&) character is used to join text values to one another. For Example = \"Libre\" & \"Office\" The result of this formula is 'Libre Office'",
+      "answer": "A",
+      "en": {
+        "q": "In a LibreOffice Calc text formula, which character is used to join text values?",
+        "options": [
+          "Ampersand (&)",
+          "Comma (,)",
+          "Exclamation mark (!)",
+          "Colon (:)"
+        ],
+        "explanation": "Text values are enclosed in double quotes, as in =\"Libre\" & \"Office\"."
+      },
+      "ta": {
+        "q": "லிப்ரே ஆஃபீஸ் கால்க் உரைச் சூத்திரத்தில் உரை மதிப்புகளை இணைக்கப் பயன்படும் எழுத்துக்குறி",
+        "options": [
+          "ஆம்பர்சண்ட் (&)",
+          "காற்புள்ளி (,)",
+          "வியப்புக்குறி (!)",
+          "முக்காற்புள்ளி (:)"
+        ],
+        "explanation": "உரை மதிப்புகள் இரட்டை மேற்கோள் குறிகளுக்குள் எழுதப்படுகின்றன, எ.கா. =\"Libre\" & \"Office\"."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 280,
+      "quote": "SUM () | Calculates the total of a given set of values ... AVERAGE () Calculates the average of given set of values ... MAX() | Calculates the maximum value from a given set of values ... MIN () | Calculates the minimum value ... COUNT() | Counts the number of values (cell containing numbers)",
+      "answer": "B",
+      "en": {
+        "q": "Match the Calc function with what it does:\na) SUM()\nb) AVERAGE()\nc) MIN()\nd) COUNT()\n1. Counts the number of cells containing numbers\n2. Gives the total of a set of values\n3. Gives the smallest value in a set\n4. Gives the mean of a set of values",
+        "options": [
+          "a-4, b-2, c-1, d-3",
+          "a-2, b-4, c-3, d-1",
+          "a-2, b-4, c-1, d-3",
+          "a-3, b-1, c-2, d-4"
+        ],
+        "explanation": "MAX() gives the largest value in a set of values."
+      },
+      "ta": {
+        "q": "கால்க் செயற்கூறை அதன் பணியுடன் பொருத்துக:\na) SUM()\nb) AVERAGE()\nc) MIN()\nd) COUNT()\n1. எண்கள் உள்ள கலங்களின் எண்ணிக்கையைக் கணக்கிடும்\n2. ஒரு மதிப்புத் தொகுப்பின் கூடுதலைத் தரும்\n3. ஒரு தொகுப்பின் மிகச் சிறிய மதிப்பைத் தரும்\n4. ஒரு மதிப்புத் தொகுப்பின் சராசரியைத் தரும்",
+        "options": [
+          "a-4, b-2, c-1, d-3",
+          "a-2, b-4, c-3, d-1",
+          "a-2, b-4, c-1, d-3",
+          "a-3, b-1, c-2, d-4"
+        ],
+        "explanation": "MAX() ஒரு தொகுப்பின் மிகப்பெரிய மதிப்பைத் தரும்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 280,
+      "quote": "Relational operators are used to compare two values. They form relational expressions. These operators always give a single value as result: True or False ... = Equal to; <> Not Equal to; > Greater than ... Logical Operators ... Operator: NOT, AND, OR",
+      "answer": "C",
+      "en": {
+        "q": "In LibreOffice Calc, which of the following is a relational operator?",
+        "options": [
+          "NOT",
+          "^",
+          "<>",
+          "%"
+        ],
+        "explanation": "'<>' means 'not equal to'; relational operators give True or False. '^' (exponentiation) and '%' are arithmetic operators, and NOT, AND, OR are logical operators."
+      },
+      "ta": {
+        "q": "லிப்ரே ஆஃபீஸ் கால்க்கில் பின்வருவனவற்றுள் ஒப்பீட்டுச் செயற்குறி (Relational operator) எது?",
+        "options": [
+          "NOT",
+          "^",
+          "<>",
+          "%"
+        ],
+        "explanation": "'<>' என்பது 'சமமில்லை'; ஒப்பீட்டுச் செயற்குறிகள் True அல்லது False தருகின்றன. '^' (அடுக்கேற்றம்), '%' ஆகியவை கணிதச் செயற்குறிகள்; NOT, AND, OR தர்க்கச் செயற்குறிகள்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 280,
+      "quote": "^ | Exponentiation | =5^2",
+      "answer": "D",
+      "en": {
+        "q": "In LibreOffice Calc, the formula =5^2 gives the result",
+        "options": [
+          "52",
+          "10",
+          "7",
+          "25"
+        ],
+        "explanation": "'^' is the exponentiation operator, so 5^2 = 5 × 5 = 25."
+      },
+      "ta": {
+        "q": "லிப்ரே ஆஃபீஸ் கால்க்கில் =5^2 என்ற சூத்திரம் தரும் விடை",
+        "options": [
+          "52",
+          "10",
+          "7",
+          "25"
+        ],
+        "explanation": "'^' அடுக்கேற்றச் செயற்குறி; எனவே 5^2 = 5 × 5 = 25."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 281,
+      "quote": "Arranging a given set of data according to a particular order (ascending or descending) is called sorting. ... Click on Data → Sort ... The purpose of chart is to visualize the data for easy understanding.",
+      "answer": "A",
+      "en": {
+        "q": "Arranging a given set of data in ascending or descending order in a spreadsheet is called",
+        "options": [
+          "sorting",
+          "merging",
+          "charting",
+          "filtering"
+        ],
+        "explanation": "Sorting is done through Data → Sort; charts, inserted through Insert → Chart, help visualise numeric data."
+      },
+      "ta": {
+        "q": "விரிதாளில் தரவுகளை ஏறுவரிசை அல்லது இறங்குவரிசையில் அமைப்பது",
+        "options": [
+          "வரிசைப்படுத்துதல் (Sorting)",
+          "இணைத்தல் (Merging)",
+          "வரைபடமாக்கல்",
+          "வடிகட்டுதல்"
+        ],
+        "explanation": "Data → Sort மூலம் வரிசைப்படுத்தலாம்; Insert → Chart மூலம் சேர்க்கப்படும் வரைபடங்கள் எண் தரவுகளைக் காட்சிப்படுத்த உதவுகின்றன."
+      }
+    }
+  ]
+}
