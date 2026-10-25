@@ -43,6 +43,10 @@ use JsonException;
  * literature, Tamil scholars) has no English version worth writing. Give it
  * "ta" alone and Tamil becomes its master.
  *
+ * A current-affairs question is true only for a while. Give it
+ * "valid_from" / "valid_to" (YYYY-MM-DD) and it is marked time-sensitive with
+ * that window, so it can be retired once the fact has moved on.
+ *
  * A question whose master wording is already in the bank is skipped, so a
  * file can be loaded again after it is extended.
  */
@@ -162,6 +166,14 @@ final class ImportQuestions extends Command
                         ],
                     );
 
+                    if (isset($q['valid_from']) || isset($q['valid_to'])) {
+                        $question->forceFill([
+                            'is_time_sensitive' => true,
+                            'validity_from' => $q['valid_from'] ?? null,
+                            'validity_to' => $q['valid_to'] ?? null,
+                        ])->save();
+                    }
+
                     // The citation a student can check against the printed book.
                     QuestionSource::query()->create([
                         'question_id' => $question->getKey(),
@@ -242,6 +254,16 @@ final class ImportQuestions extends Command
 
         if (! isset($q['en']) && ! isset($q['ta'])) {
             $problems[] = 'the question needs an en or a ta version';
+        }
+
+        foreach (['valid_from', 'valid_to'] as $field) {
+            if (isset($q[$field]) && ! preg_match('/^\d{4}-\d{2}-\d{2}$/', (string) $q[$field])) {
+                $problems[] = "{$field} must be a date like 2026-10-31";
+            }
+        }
+
+        if (isset($q['valid_from'], $q['valid_to']) && $q['valid_from'] > $q['valid_to']) {
+            $problems[] = 'valid_from is after valid_to';
         }
 
         foreach (['en', 'ta'] as $language) {

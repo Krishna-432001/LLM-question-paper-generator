@@ -8,6 +8,8 @@ use App\Domain\Tenancy\TenantContext;
 use App\Models\Language;
 use App\Models\Question;
 use App\Models\Source;
+use Database\Seeders\LanguageSeeder;
+use Database\Seeders\TnpscGroup4Seeder;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\DB;
 use Tests\Concerns\MakesTestData;
@@ -25,8 +27,8 @@ final class ImportQuestionsTest extends TestCase
     {
         parent::setUp();
 
-        $this->seed(\Database\Seeders\LanguageSeeder::class);
-        $this->seed(\Database\Seeders\TnpscGroup4Seeder::class);
+        $this->seed(LanguageSeeder::class);
+        $this->seed(TnpscGroup4Seeder::class);
         $this->source = $this->makeSource('Std 10 Social Science Term-Full (English)');
     }
 
@@ -121,6 +123,27 @@ final class ImportQuestionsTest extends TestCase
             $this->assertSame($tamil, $master->language_id);
             $this->assertSame('பெருஞ்சித்திரனார்', $master->option_a);
         });
+    }
+
+    public function test_a_current_affairs_question_is_marked_time_sensitive_with_its_window(): void
+    {
+        $this->artisan('questions:import', ['file' => $this->file([
+            $this->question(['valid_from' => '2026-05-10', 'valid_to' => '2027-12-31']),
+        ])])->assertSuccessful();
+
+        TenantContext::withoutTenancy(function (): void {
+            $question = Question::query()->sole();
+
+            $this->assertTrue($question->is_time_sensitive);
+            $this->assertSame(['2026-05-10', '2027-12-31'], [
+                $question->validity_from->toDateString(),
+                $question->validity_to->toDateString(),
+            ]);
+        });
+
+        $this->artisan('questions:import', ['file' => $this->file([
+            $this->question(['en' => ['q' => 'Another?', 'options' => ['w', 'x', 'y', 'z']], 'valid_to' => '31-12-2027']),
+        ])])->expectsOutputToContain('valid_to must be a date like 2026-10-31')->assertFailed();
     }
 
     public function test_a_question_with_neither_language_is_refused(): void
