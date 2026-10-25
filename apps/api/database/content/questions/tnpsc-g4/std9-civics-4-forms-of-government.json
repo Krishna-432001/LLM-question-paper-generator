@@ -98,13 +98,13 @@
       "quote": "The classification of governments into unitary and federal is based on the nature of relations between the national and the regional governments. ... Modern democratic governments are classified into parliamentary and presidential on the basis of the nature of relations between the executive and the legislative organs of the government.",
       "answer": "C",
       "en": {
-        "q": "Consider the following statements:\n1. Governments are classified as unitary or federal based on the relations between the national and the regional governments.\n2. Democratic governments are classified as parliamentary or presidential based on the relations between the executive and the legislature.\nWhich of the statements given above is/are correct?",
-        "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "q": "Consider the following statements:\n1. Democratic governments are classified as parliamentary or presidential based on the relations between the executive and the legislature.\n2. Governments are classified as unitary or federal based on the relations between the national and the regional governments.\nWhich of the statements given above is/are correct?",
+        "options": ["2 only", "1 only", "Both 1 and 2", "Neither 1 nor 2"],
         "explanation": "Both are correct. Unitary vs federal depends on centre–region relations; parliamentary vs presidential depends on executive–legislature relations."
       },
       "ta": {
-        "q": "கீழ்க்கண்ட கூற்றுகளைக் கவனிக்கவும்:\n1. தேசிய அரசுக்கும் மண்டல அரசுகளுக்கும் இடையிலான உறவின் அடிப்படையில் அரசாங்கங்கள் ஒற்றையாட்சி, கூட்டாட்சி என வகைப்படுத்தப்படுகின்றன.\n2. ஆட்சித்துறைக்கும் சட்டமன்றத்திற்கும் இடையிலான உறவின் அடிப்படையில் மக்களாட்சி அரசாங்கங்கள் நாடாளுமன்ற முறை, அதிபர் முறை என வகைப்படுத்தப்படுகின்றன.\nமேற்கண்ட கூற்றுகளில் எது/எவை சரியானவை?",
-        "options": ["1 மட்டும்", "2 மட்டும்", "1 மற்றும் 2 இரண்டும்", "1-ம் இல்லை, 2-ம் இல்லை"],
+        "q": "கீழ்க்கண்ட கூற்றுகளைக் கவனிக்கவும்:\n1. ஆட்சித்துறைக்கும் சட்டமன்றத்திற்கும் இடையிலான உறவின் அடிப்படையில் மக்களாட்சி அரசாங்கங்கள் நாடாளுமன்ற முறை, அதிபர் முறை என வகைப்படுத்தப்படுகின்றன.\n2. தேசிய அரசுக்கும் மண்டல அரசுகளுக்கும் இடையிலான உறவின் அடிப்படையில் அரசாங்கங்கள் ஒற்றையாட்சி, கூட்டாட்சி என வகைப்படுத்தப்படுகின்றன.\nமேற்கண்ட கூற்றுகளில் எது/எவை சரியானவை?",
+        "options": ["2 மட்டும்", "1 மட்டும்", "1 மற்றும் 2 இரண்டும்", "1-ம் இல்லை, 2-ம் இல்லை"],
         "explanation": "இரண்டும் சரி. ஒற்றையாட்சி/கூட்டாட்சி வகைப்பாடு மத்திய–மண்டல அரசுகளின் உறவைப் பொறுத்தது; நாடாளுமன்ற/அதிபர் முறை வகைப்பாடு ஆட்சித்துறை–சட்டமன்ற உறவைப் பொறுத்தது."
       }
     },
@@ -276,15 +276,15 @@
     {
       "topic": "political-science-and-governance", "format": "assertion_reason", "difficulty": "hard", "bloom": "analyze", "page": 268, "page_end": 269,
       "quote": "The legislative, executive and judicial powers of the government are separated and vested in three independent organs of the government. ... Demerits of the presidential system of government ... Strain relationship between executive and legislature",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Assertion (A): In the presidential system, relations between the executive and the legislature can become strained.\nReason (R): In the presidential system, legislative, executive and judicial powers are separated and vested in independent organs.",
-        "options": ["Both (A) and (R) are true, and (R) is the correct explanation of (A)", "Both (A) and (R) are true, but (R) is not the correct explanation of (A)", "(A) is true, but (R) is false", "(A) is false, but (R) is true"],
+        "options": ["(A) is true, but (R) is false", "(A) is false, but (R) is true", "Both (A) and (R) are true, but (R) is not the correct explanation of (A)", "Both (A) and (R) are true, and (R) is the correct explanation of (A)"],
         "explanation": "Because the executive and legislature are separate and independent, there can be a lack of harmony and strained relations between them. (R) explains (A)."
       },
       "ta": {
         "q": "கூற்று (A): அதிபர் முறையில் ஆட்சித்துறைக்கும் சட்டமன்றத்திற்கும் இடையிலான உறவு சீர்குலையலாம்.\nகாரணம் (R): அதிபர் முறையில் சட்டமன்ற, ஆட்சித்துறை, நீதித்துறை அதிகாரங்கள் பிரிக்கப்பட்டுத் தனித்த உறுப்புகளிடம் வழங்கப்படுகின்றன.",
-        "options": ["(A), (R) இரண்டும் சரி; (R), (A)-க்குச் சரியான விளக்கம்", "(A), (R) இரண்டும் சரி; ஆனால் (R), (A)-க்குச் சரியான விளக்கம் அல்ல", "(A) சரி; (R) தவறு", "(A) தவறு; (R) சரி"],
+        "options": ["(A) சரி; (R) தவறு", "(A) தவறு; (R) சரி", "(A), (R) இரண்டும் சரி; ஆனால் (R), (A)-க்குச் சரியான விளக்கம் அல்ல", "(A), (R) இரண்டும் சரி; (R), (A)-க்குச் சரியான விளக்கம்"],
         "explanation": "ஆட்சித்துறையும் சட்டமன்றமும் தனித்தனியாக, சுதந்திரமாக இருப்பதால் அவற்றுக்கிடையே இணக்கமின்மையும் உறவுச் சிக்கலும் ஏற்படலாம். (R), (A)-க்குச் சரியான விளக்கம்."
       }
     },
@@ -308,14 +308,14 @@
       "quote": "Individual Leadership ... Collective leadership ... President is not accountable to Congress ... Collective and Individual Responsibility",
       "answer": "D",
       "en": {
-        "q": "Consider the following statements:\n1. The presidential form of government has individual leadership.\n2. The parliamentary form of government has collective leadership.\n3. In the presidential form, the President is accountable to the legislature (Congress).\nWhich of the statements given above are correct?",
-        "options": ["1 only", "2 and 3 only", "1, 2 and 3", "1 and 2 only"],
-        "explanation": "Statements 1 and 2 are correct. Statement 3 is wrong: in the presidential system the President is not accountable to Congress."
+        "q": "Consider the following statements:\n1. In the presidential form, the President is accountable to the legislature (Congress).\n2. The presidential form of government has individual leadership.\n3. The parliamentary form of government has collective leadership.\nWhich of the statements given above are correct?",
+        "options": ["2 only", "1 and 3 only", "1, 2 and 3", "2 and 3 only"],
+        "explanation": "Statements 2 and 3 are correct. Statement 1 is wrong: in the presidential system the President is not accountable to Congress."
       },
       "ta": {
-        "q": "கீழ்க்கண்ட கூற்றுகளைக் கவனிக்கவும்:\n1. அதிபர் அரசாங்க முறையில் தனிநபர் தலைமை உள்ளது.\n2. நாடாளுமன்ற அரசாங்க முறையில் கூட்டுத் தலைமை உள்ளது.\n3. அதிபர் முறையில் அதிபர் சட்டமன்றத்திற்கு (காங்கிரஸ்) பொறுப்பானவர்.\nமேற்கண்ட கூற்றுகளில் எவை சரியானவை?",
-        "options": ["1 மட்டும்", "2, 3 மட்டும்", "1, 2, 3 அனைத்தும்", "1, 2 மட்டும்"],
-        "explanation": "கூற்றுகள் 1, 2 சரி. கூற்று 3 தவறு: அதிபர் முறையில் அதிபர் காங்கிரசுக்குப் பொறுப்பானவர் அல்ல."
+        "q": "கீழ்க்கண்ட கூற்றுகளைக் கவனிக்கவும்:\n1. அதிபர் முறையில் அதிபர் சட்டமன்றத்திற்கு (காங்கிரஸ்) பொறுப்பானவர்.\n2. அதிபர் அரசாங்க முறையில் தனிநபர் தலைமை உள்ளது.\n3. நாடாளுமன்ற அரசாங்க முறையில் கூட்டுத் தலைமை உள்ளது.\nமேற்கண்ட கூற்றுகளில் எவை சரியானவை?",
+        "options": ["2 மட்டும்", "1, 3 மட்டும்", "1, 2, 3 அனைத்தும்", "2, 3 மட்டும்"],
+        "explanation": "கூற்றுகள் 2, 3 சரி. கூற்று 1 தவறு: அதிபர் முறையில் அதிபர் காங்கிரசுக்குப் பொறுப்பானவர் அல்ல."
       }
     },
     {

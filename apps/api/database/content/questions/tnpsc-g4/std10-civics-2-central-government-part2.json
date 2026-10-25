@@ -126,15 +126,15 @@
     {
       "topic": "constitution-of-india", "format": "assertion_reason", "difficulty": "medium", "bloom": "analyze", "page": 253,
       "quote": "The Rajya Sabha is a permanent house and it cannot be dissolved. The members of the Rajya Sabha are elected for a term of six years. One third of the members of Rajya Sabha retire every two years",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Assertion (A): The Rajya Sabha is called a permanent house.\nReason (R): It cannot be dissolved, and one-third of its members retire every two years.",
-        "options": ["Both (A) and (R) are true, and (R) is the correct explanation of (A)", "Both (A) and (R) are true, but (R) is not the correct explanation of (A)", "(A) is true, but (R) is false", "(A) is false, but (R) is true"],
+        "options": ["(A) is true, but (R) is false", "(A) is false, but (R) is true", "Both (A) and (R) are true, and (R) is the correct explanation of (A)", "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"],
         "explanation": "The Rajya Sabha is permanent because it is never dissolved; only one-third of its members retire every two years. Both are true and (R) explains (A)."
       },
       "ta": {
         "q": "கூற்று (A): மாநிலங்களவை ஒரு நிரந்தர அவை எனப்படுகிறது.\nகாரணம் (R): அதைக் கலைக்க முடியாது; அதன் உறுப்பினர்களில் மூன்றில் ஒரு பங்கினர் இரண்டு ஆண்டுகளுக்கு ஒருமுறை ஓய்வு பெறுகின்றனர்.",
-        "options": ["(A), (R) இரண்டும் சரி; (R), (A)-க்குச் சரியான விளக்கம்", "(A), (R) இரண்டும் சரி; ஆனால் (R), (A)-க்குச் சரியான விளக்கம் அல்ல", "(A) சரி; (R) தவறு", "(A) தவறு; (R) சரி"],
+        "options": ["(A) சரி; (R) தவறு", "(A) தவறு; (R) சரி", "(A), (R) இரண்டும் சரி; (R), (A)-க்குச் சரியான விளக்கம்", "(A), (R) இரண்டும் சரி; ஆனால் (R), (A)-க்குச் சரியான விளக்கம் அல்ல"],
         "explanation": "மாநிலங்களவை ஒருபோதும் கலைக்கப்படுவதில்லை; மூன்றில் ஒரு பங்கு உறுப்பினர்கள் மட்டுமே இரண்டு ஆண்டுகளுக்கு ஒருமுறை ஓய்வு பெறுவதால் அது நிரந்தர அவை. இரண்டும் சரி; (R), (A)-க்குச் சரியான விளக்கம்."
       }
     },
@@ -188,14 +188,14 @@
       "quote": "The members of the Lok Sabha are directly elected by the people of the constituencies created on the basis of population. The Election Commission of India arranges, supervises and conducts elections to the Lok Sabha.",
       "answer": "C",
       "en": {
-        "q": "Consider the following statements about the Lok Sabha:\n1. Its members are directly elected by the people of constituencies created on the basis of population.\n2. The minimum age to become its member is 30 years.\n3. The Election Commission of India arranges, supervises and conducts its elections.\nWhich of the statements given above are correct?",
-        "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
-        "explanation": "Statements 1 and 3 are correct. Statement 2 is wrong: the minimum age for the Lok Sabha is 25 years (30 is for the Rajya Sabha)."
+        "q": "Consider the following statements about the Lok Sabha:\n1. The minimum age to become its member is 30 years.\n2. Its members are directly elected by the people of constituencies created on the basis of population.\n3. The Election Commission of India arranges, supervises and conducts its elections.\nWhich of the statements given above are correct?",
+        "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+        "explanation": "Statements 2 and 3 are correct. Statement 1 is wrong: the minimum age for the Lok Sabha is 25 years (30 is for the Rajya Sabha)."
       },
       "ta": {
-        "q": "மக்களவை பற்றிய கீழ்க்கண்ட கூற்றுகளைக் கவனிக்கவும்:\n1. மக்கள் தொகையின் அடிப்படையில் உருவாக்கப்பட்ட தொகுதிகளின் மக்களால் அதன் உறுப்பினர்கள் நேரடியாகத் தேர்ந்தெடுக்கப்படுகின்றனர்.\n2. அதன் உறுப்பினராவதற்கான குறைந்தபட்ச வயது 30.\n3. அதற்கான தேர்தல்களை இந்தியத் தேர்தல் ஆணையம் ஏற்பாடு செய்து, மேற்பார்வையிட்டு நடத்துகிறது.\nமேற்கண்ட கூற்றுகளில் எவை சரியானவை?",
-        "options": ["1, 2 மட்டும்", "2, 3 மட்டும்", "1, 3 மட்டும்", "1, 2, 3 அனைத்தும்"],
-        "explanation": "கூற்றுகள் 1, 3 சரி. கூற்று 2 தவறு: மக்களவை உறுப்பினருக்கான குறைந்தபட்ச வயது 25 (30 என்பது மாநிலங்களவைக்கு)."
+        "q": "மக்களவை பற்றிய கீழ்க்கண்ட கூற்றுகளைக் கவனிக்கவும்:\n1. அதன் உறுப்பினராவதற்கான குறைந்தபட்ச வயது 30.\n2. மக்கள் தொகையின் அடிப்படையில் உருவாக்கப்பட்ட தொகுதிகளின் மக்களால் அதன் உறுப்பினர்கள் நேரடியாகத் தேர்ந்தெடுக்கப்படுகின்றனர்.\n3. அதற்கான தேர்தல்களை இந்தியத் தேர்தல் ஆணையம் ஏற்பாடு செய்து, மேற்பார்வையிட்டு நடத்துகிறது.\nமேற்கண்ட கூற்றுகளில் எவை சரியானவை?",
+        "options": ["1, 2 மட்டும்", "1, 3 மட்டும்", "2, 3 மட்டும்", "1, 2, 3 அனைத்தும்"],
+        "explanation": "கூற்றுகள் 2, 3 சரி. கூற்று 1 தவறு: மக்களவை உறுப்பினருக்கான குறைந்தபட்ச வயது 25 (30 என்பது மாநிலங்களவைக்கு)."
       }
     },
     {

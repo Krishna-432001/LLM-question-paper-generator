@@ -43,20 +43,20 @@
       "en": {
         "q": "Assertion (A): Two persons on the surface of the Moon cannot talk to each other directly.\nReason (R): There is no atmosphere on the Moon to carry sound.",
         "options": [
-          "Both A and R are true, but R is not the correct explanation of A",
-          "Both A and R are true, and R is the correct explanation of A",
           "A is true, but R is false",
-          "A is false, but R is true"
+          "Both A and R are true, and R is the correct explanation of A",
+          "A is false, but R is true",
+          "Both A and R are true, but R is not the correct explanation of A"
         ],
         "explanation": "Sound is a mechanical wave and cannot travel through a vacuum; astronauts use devices in their helmets that convert their voices into radio waves."
       },
       "ta": {
         "q": "கூற்று (A): நிலவின் பரப்பில் இருவர் நேரடியாகப் பேசிக்கொள்ள இயலாது.\nகாரணம் (R): ஒலியைக் கடத்த நிலவில் வளிமண்டலம் இல்லை.",
         "options": [
-          "A, R இரண்டும் சரி; ஆனால் R என்பது A-க்குச் சரியான விளக்கம் அல்ல",
-          "A, R இரண்டும் சரி; R என்பது A-க்குச் சரியான விளக்கம்",
           "A சரி; R தவறு",
-          "A தவறு; R சரி"
+          "A, R இரண்டும் சரி; R என்பது A-க்குச் சரியான விளக்கம்",
+          "A தவறு; R சரி",
+          "A, R இரண்டும் சரி; ஆனால் R என்பது A-க்குச் சரியான விளக்கம் அல்ல"
         ],
         "explanation": "ஒலி ஒரு இயந்திர அலை; வெற்றிடத்தில் பரவாது. விண்வெளி வீரர்கள் தங்கள் குரலை ரேடியோ அலைகளாக மாற்றும் தலைக்கவசக் கருவிகளைப் பயன்படுத்துகின்றனர்."
       }
@@ -273,21 +273,21 @@
       "quote": "The natural frequency, at which an object vibrates, depends upon the tension of the string, the linear density of the string and the length of the string. ... In a wind instrument the sound is produced by the vibration of air in a hollow tube. The frequency is varied by changing the length of the vibrating air column.",
       "answer": "B",
       "en": {
-        "q": "Consider the following statements:\n1. The natural frequency of a guitar string depends on its tension, linear density and length.\n2. In a wind instrument, the frequency is varied by changing the length of the vibrating air column.\n3. Stringed instruments have hollow boxes that absorb and reduce the sound produced.\nWhich of the statements given above is/are correct?",
+        "q": "Consider the following statements:\n1. Stringed instruments have hollow boxes that absorb and reduce the sound produced.\n2. The natural frequency of a guitar string depends on its tension, linear density and length.\n3. In a wind instrument, the frequency is varied by changing the length of the vibrating air column.\nWhich of the statements given above is/are correct?",
         "options": [
-          "1 only",
-          "1 and 2 only",
+          "2 only",
           "2 and 3 only",
+          "1 and 3 only",
           "1, 2 and 3"
         ],
         "explanation": "The hollow boxes of stringed instruments amplify the sound; the natural frequencies at which a string vibrates are called its harmonics."
       },
       "ta": {
-        "q": "பின்வரும் கூற்றுகளைக் கருதுக:\n1. கிட்டார் கம்பியின் இயல்பு அதிர்வெண் அதன் இழுவிசை, நீள் அடர்த்தி, நீளம் ஆகியவற்றைப் பொறுத்தது.\n2. காற்றுக் கருவியில் அதிரும் காற்றுத் தம்பத்தின் நீளத்தை மாற்றி அதிர்வெண் மாற்றப்படுகிறது.\n3. நரம்புக் கருவிகளிலுள்ள உள்ளீடற்ற பெட்டிகள் உண்டாகும் ஒலியை உறிஞ்சிக் குறைக்கின்றன.\nமேற்கண்டவற்றுள் சரியானது/சரியானவை எவை?",
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக:\n1. நரம்புக் கருவிகளிலுள்ள உள்ளீடற்ற பெட்டிகள் உண்டாகும் ஒலியை உறிஞ்சிக் குறைக்கின்றன.\n2. கிட்டார் கம்பியின் இயல்பு அதிர்வெண் அதன் இழுவிசை, நீள் அடர்த்தி, நீளம் ஆகியவற்றைப் பொறுத்தது.\n3. காற்றுக் கருவியில் அதிரும் காற்றுத் தம்பத்தின் நீளத்தை மாற்றி அதிர்வெண் மாற்றப்படுகிறது.\nமேற்கண்டவற்றுள் சரியானது/சரியானவை எவை?",
         "options": [
-          "1 மட்டும்",
-          "1, 2 மட்டும்",
+          "2 மட்டும்",
           "2, 3 மட்டும்",
+          "1, 3 மட்டும்",
           "1, 2, 3"
         ],
         "explanation": "நரம்புக் கருவிகளின் உள்ளீடற்ற பெட்டிகள் ஒலியைப் பெருக்குகின்றன; கம்பி அதிரும் இயல்பு அதிர்வெண்கள் அதன் சீரிசைகள் (harmonics) எனப்படுகின்றன."

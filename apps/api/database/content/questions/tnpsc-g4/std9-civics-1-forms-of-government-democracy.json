@@ -171,15 +171,15 @@
     {
       "topic": "political-science-and-governance", "format": "assertion_reason", "difficulty": "medium", "bloom": "analyze", "page": 240,
       "quote": "When the people themselves directly express their will on public affairs, the type of government is called pure or direct democracy. Example: Ancient Greek city-states, Switzerland",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Assertion (A): Direct democracy is practised in Switzerland.\nReason (R): In a direct democracy, the people themselves directly express their will on public affairs.",
-        "options": ["Both (A) and (R) are true, and (R) is the correct explanation of (A)", "Both (A) and (R) are true, but (R) is not the correct explanation of (A)", "(A) is true, but (R) is false", "(A) is false, but (R) is true"],
+        "options": ["Both (A) and (R) are true, but (R) is not the correct explanation of (A)", "Both (A) and (R) are true, and (R) is the correct explanation of (A)", "(A) is true, but (R) is false", "(A) is false, but (R) is true"],
         "explanation": "Switzerland is an example of direct democracy because its people directly take part in decisions on public affairs. (R) explains (A)."
       },
       "ta": {
         "q": "கூற்று (A): சுவிட்சர்லாந்தில் நேரடி மக்களாட்சி நடைமுறையில் உள்ளது.\nகாரணம் (R): நேரடி மக்களாட்சியில் மக்களே பொது விவகாரங்களில் தங்கள் விருப்பத்தை நேரடியாக வெளிப்படுத்துகின்றனர்.",
-        "options": ["(A), (R) இரண்டும் சரி; (R), (A)-க்குச் சரியான விளக்கம்", "(A), (R) இரண்டும் சரி; ஆனால் (R), (A)-க்குச் சரியான விளக்கம் அல்ல", "(A) சரி; (R) தவறு", "(A) தவறு; (R) சரி"],
+        "options": ["(A), (R) இரண்டும் சரி; ஆனால் (R), (A)-க்குச் சரியான விளக்கம் அல்ல", "(A), (R) இரண்டும் சரி; (R), (A)-க்குச் சரியான விளக்கம்", "(A) சரி; (R) தவறு", "(A) தவறு; (R) சரி"],
         "explanation": "சுவிட்சர்லாந்து மக்கள் பொது விவகாரங்களில் நேரடியாக முடிவெடுப்பதால் அது நேரடி மக்களாட்சிக்கு எடுத்துக்காட்டு. (R), (A)-க்குச் சரியான விளக்கம்."
       }
     },
@@ -323,13 +323,13 @@
       "quote": "The Parliament House in India was designed by the British architects Edwin Lutyens and Herbert Baker in 1912-13 and construction began in 1921 and ended in 1927",
       "answer": "C",
       "en": {
-        "q": "Consider the following statements about the old Parliament House in New Delhi (now Samvidhan Sadan):\n1. It was designed by Edwin Lutyens and Herbert Baker.\n2. Its construction began in 1921 and ended in 1927.\nWhich of the statements given above is/are correct?",
-        "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "q": "Consider the following statements about the old Parliament House in New Delhi (now Samvidhan Sadan):\n1. Its construction began in 1921 and ended in 1927.\n2. It was designed by Edwin Lutyens and Herbert Baker.\nWhich of the statements given above is/are correct?",
+        "options": ["2 only", "1 only", "Both 1 and 2", "Neither 1 nor 2"],
         "explanation": "Both are correct. Lutyens and Baker designed the old Parliament House (its design was approved in 1919, after the Montagu–Chelmsford reforms); it was built between 1921 and 1927 and renamed Samvidhan Sadan in 2023 when Parliament moved to the new building."
       },
       "ta": {
-        "q": "புது தில்லியின் பழைய நாடாளுமன்றக் கட்டடம் (இப்போது சம்விதான் சதன்) பற்றிய கீழ்க்கண்ட கூற்றுகளைக் கவனிக்கவும்:\n1. இதை எட்வின் லுட்டியன்ஸ், ஹெர்பர்ட் பேக்கர் வடிவமைத்தனர்.\n2. இதன் கட்டுமானம் 1921இல் தொடங்கி 1927இல் நிறைவடைந்தது.\nமேற்கண்ட கூற்றுகளில் எது/எவை சரியானவை?",
-        "options": ["1 மட்டும்", "2 மட்டும்", "1 மற்றும் 2 இரண்டும்", "1-ம் இல்லை, 2-ம் இல்லை"],
+        "q": "புது தில்லியின் பழைய நாடாளுமன்றக் கட்டடம் (இப்போது சம்விதான் சதன்) பற்றிய கீழ்க்கண்ட கூற்றுகளைக் கவனிக்கவும்:\n1. இதன் கட்டுமானம் 1921இல் தொடங்கி 1927இல் நிறைவடைந்தது.\n2. இதை எட்வின் லுட்டியன்ஸ், ஹெர்பர்ட் பேக்கர் வடிவமைத்தனர்.\nமேற்கண்ட கூற்றுகளில் எது/எவை சரியானவை?",
+        "options": ["2 மட்டும்", "1 மட்டும்", "1 மற்றும் 2 இரண்டும்", "1-ம் இல்லை, 2-ம் இல்லை"],
         "explanation": "இரண்டும் சரி. லுட்டியன்ஸ், பேக்கர் பழைய நாடாளுமன்றக் கட்டடத்தை வடிவமைத்தனர் (வடிவமைப்பு 1919இல், மாண்டேகு–செம்ஸ்போர்டு சீர்திருத்தங்களுக்குப் பின் ஒப்புதல் பெற்றது); 1921 முதல் 1927 வரை கட்டப்பட்டது; 2023இல் நாடாளுமன்றம் புதிய கட்டடத்திற்கு மாறியதும் சம்விதான் சதன் எனப் பெயர் மாற்றப்பட்டது."
       }
     },
@@ -458,14 +458,14 @@
       "quote": "Salient Features of Democracy 1. Elected representatives of people and final decision-making power to the representatives. 2. Free and fair elections. 3. voting right is with equal value to those who have attained the age of 18 4. Fundamental rights and protection of individual freedom.",
       "answer": "D",
       "en": {
-        "q": "Consider the following about the salient features of democracy:\n1. Free and fair elections.\n2. A voting right of equal value for all who have attained the age of 18.\n3. Final decision-making power rests with a hereditary ruler.\nWhich of the statements given above are correct?",
-        "options": ["1 only", "2 and 3 only", "1, 2 and 3", "1 and 2 only"],
-        "explanation": "Statements 1 and 2 are features of democracy. Statement 3 is wrong: in a democracy, final decision-making power lies with the people's elected representatives."
+        "q": "Consider the following about the salient features of democracy:\n1. Final decision-making power rests with a hereditary ruler.\n2. A voting right of equal value for all who have attained the age of 18.\n3. Free and fair elections.\nWhich of the statements given above are correct?",
+        "options": ["3 only", "1 and 2 only", "1, 2 and 3", "2 and 3 only"],
+        "explanation": "Statements 2 and 3 are features of democracy. Statement 1 is wrong: in a democracy, final decision-making power lies with the people's elected representatives."
       },
       "ta": {
-        "q": "மக்களாட்சியின் சிறப்புக் கூறுகள் பற்றிய கீழ்க்கண்டவற்றைக் கவனிக்கவும்:\n1. சுதந்திரமான, நேர்மையான தேர்தல்கள்.\n2. 18 வயது நிறைவு பெற்ற அனைவருக்கும் சம மதிப்புடைய வாக்குரிமை.\n3. இறுதி முடிவெடுக்கும் அதிகாரம் பரம்பரை ஆட்சியாளரிடம் உள்ளது.\nமேற்கண்ட கூற்றுகளில் எவை சரியானவை?",
-        "options": ["1 மட்டும்", "2, 3 மட்டும்", "1, 2, 3 அனைத்தும்", "1, 2 மட்டும்"],
-        "explanation": "கூற்றுகள் 1, 2 மக்களாட்சியின் கூறுகள். கூற்று 3 தவறு: மக்களாட்சியில் இறுதி முடிவெடுக்கும் அதிகாரம் மக்களால் தேர்ந்தெடுக்கப்பட்ட பிரதிநிதிகளிடம் உள்ளது."
+        "q": "மக்களாட்சியின் சிறப்புக் கூறுகள் பற்றிய கீழ்க்கண்டவற்றைக் கவனிக்கவும்:\n1. இறுதி முடிவெடுக்கும் அதிகாரம் பரம்பரை ஆட்சியாளரிடம் உள்ளது.\n2. 18 வயது நிறைவு பெற்ற அனைவருக்கும் சம மதிப்புடைய வாக்குரிமை.\n3. சுதந்திரமான, நேர்மையான தேர்தல்கள்.\nமேற்கண்ட கூற்றுகளில் எவை சரியானவை?",
+        "options": ["3 மட்டும்", "1, 2 மட்டும்", "1, 2, 3 அனைத்தும்", "2, 3 மட்டும்"],
+        "explanation": "கூற்றுகள் 2, 3 மக்களாட்சியின் கூறுகள். கூற்று 1 தவறு: மக்களாட்சியில் இறுதி முடிவெடுக்கும் அதிகாரம் மக்களால் தேர்ந்தெடுக்கப்பட்ட பிரதிநிதிகளிடம் உள்ளது."
       }
     }
   ]

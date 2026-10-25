@@ -157,24 +157,24 @@
       "quote": "The Chief of Naval Staff, a four-star Admiral, commands the navy. It has three Naval Commands.",
       "answer": "B",
       "en": {
-        "q": "Consider the following statements:\n1. The Chief of Army Staff is a four-star general.\n2. The Indian Navy has three Naval Commands.\n3. The Indian Coast Guard operates under the Ministry of Home Affairs.\nWhich of the statements given above is/are correct?",
+        "q": "Consider the following statements:\n1. The Indian Coast Guard operates under the Ministry of Home Affairs.\n2. The Indian Navy has three Naval Commands.\n3. The Chief of Army Staff is a four-star general.\nWhich of the statements given above is/are correct?",
         "options": [
-          "2 and 3 only",
           "1 and 2 only",
+          "2 and 3 only",
           "1 and 3 only",
           "1, 2 and 3"
         ],
-        "explanation": "The Indian Coast Guard operates under the Ministry of Defence, so statement 3 is wrong."
+        "explanation": "The Indian Coast Guard operates under the Ministry of Defence, so statement 1 is wrong."
       },
       "ta": {
-        "q": "பின்வரும் கூற்றுகளைக் கவனி:\n1. இராணுவத் தலைமைத் தளபதி நான்கு நட்சத்திரத் தளபதி ஆவார்.\n2. இந்தியக் கடற்படைக்கு மூன்று கடற்படைக் கட்டளைப் பிரிவுகள் உள்ளன.\n3. இந்தியக் கடலோரக் காவல்படை உள்துறை அமைச்சகத்தின் கீழ் செயல்படுகிறது.\nமேற்கண்ட கூற்றுகளில் சரியானது/சரியானவை எது/எவை?",
+        "q": "பின்வரும் கூற்றுகளைக் கவனி:\n1. இந்தியக் கடலோரக் காவல்படை உள்துறை அமைச்சகத்தின் கீழ் செயல்படுகிறது.\n2. இந்தியக் கடற்படைக்கு மூன்று கடற்படைக் கட்டளைப் பிரிவுகள் உள்ளன.\n3. இராணுவத் தலைமைத் தளபதி நான்கு நட்சத்திரத் தளபதி ஆவார்.\nமேற்கண்ட கூற்றுகளில் சரியானது/சரியானவை எது/எவை?",
         "options": [
-          "2, 3 மட்டும்",
           "1, 2 மட்டும்",
+          "2, 3 மட்டும்",
           "1, 3 மட்டும்",
           "1, 2, 3"
         ],
-        "explanation": "இந்தியக் கடலோரக் காவல்படை பாதுகாப்பு அமைச்சகத்தின் கீழ் செயல்படுகிறது; எனவே கூற்று 3 தவறு."
+        "explanation": "இந்தியக் கடலோரக் காவல்படை பாதுகாப்பு அமைச்சகத்தின் கீழ் செயல்படுகிறது; எனவே கூற்று 1 தவறு."
       }
     },
     {
@@ -764,14 +764,14 @@
       "bloom": "understand",
       "page": 212,
       "quote": "India has always favoured international and regional cooperation, because she believes that through cooperation all disputes and problems among nations can be sorted out peacefully.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Assertion (A): India has always favoured international and regional cooperation.\nReason (R): India believes that through cooperation all disputes and problems among nations can be sorted out peacefully.",
         "options": [
           "A is true, but R is false",
-          "Both A and R are true, but R is not the correct explanation of A",
           "Both A and R are true, and R is the correct explanation of A",
-          "A is false, but R is true"
+          "A is false, but R is true",
+          "Both A and R are true, but R is not the correct explanation of A"
         ],
         "explanation": "India favours cooperation precisely because it believes disputes can be settled peacefully through it."
       },
@@ -779,9 +779,9 @@
         "q": "கூற்று (A): இந்தியா எப்போதும் சர்வதேச, வட்டாரக் கூட்டுறவை ஆதரித்து வந்துள்ளது.\nகாரணம் (R): கூட்டுறவின் மூலம் நாடுகளுக்கிடையேயான அனைத்துச் சர்ச்சைகளையும் பிரச்சினைகளையும் அமைதியாகத் தீர்க்க முடியும் என இந்தியா நம்புகிறது.",
         "options": [
           "A சரி; R தவறு",
-          "A, R இரண்டும் சரி; ஆனால் R, A க்குச் சரியான விளக்கம் அல்ல",
           "A, R இரண்டும் சரி; R, A க்குச் சரியான விளக்கம்",
-          "A தவறு; R சரி"
+          "A தவறு; R சரி",
+          "A, R இரண்டும் சரி; ஆனால் R, A க்குச் சரியான விளக்கம் அல்ல"
         ],
         "explanation": "கூட்டுறவின் மூலம் சர்ச்சைகளை அமைதியாகத் தீர்க்க முடியும் என்ற நம்பிக்கையாலேயே இந்தியா கூட்டுறவை ஆதரிக்கிறது."
       }

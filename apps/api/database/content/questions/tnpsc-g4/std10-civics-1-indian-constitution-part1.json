@@ -156,15 +156,15 @@
     {
       "topic": "constitution-of-india", "format": "assertion_reason", "difficulty": "medium", "bloom": "analyze", "page": 240,
       "quote": "The Preamble begins with the phrase ‘We, the People of India’. Thus, we can say that the people of India are the source of our Constitution.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Assertion (A): The people of India are the source of the Indian Constitution.\nReason (R): The Preamble begins with the phrase 'We, the People of India'.",
-        "options": ["Both (A) and (R) are true, and (R) is the correct explanation of (A)", "Both (A) and (R) are true, but (R) is not the correct explanation of (A)", "(A) is true, but (R) is false", "(A) is false, but (R) is true"],
+        "options": ["(A) is true, but (R) is false", "(A) is false, but (R) is true", "Both (A) and (R) are true, but (R) is not the correct explanation of (A)", "Both (A) and (R) are true, and (R) is the correct explanation of (A)"],
         "explanation": "Because the Preamble opens with 'We, the People of India', the people are the source of the Constitution. Both are true and (R) explains (A)."
       },
       "ta": {
         "q": "கூற்று (A): இந்திய மக்களே இந்திய அரசியலமைப்பின் ஆதாரம் ஆவர்.\nகாரணம் (R): அரசியலமைப்பின் முகவுரை 'இந்திய மக்களாகிய நாம்' என்ற சொற்களுடன் தொடங்குகிறது.",
-        "options": ["(A), (R) இரண்டும் சரி; (R), (A)-க்குச் சரியான விளக்கம்", "(A), (R) இரண்டும் சரி; ஆனால் (R), (A)-க்குச் சரியான விளக்கம் அல்ல", "(A) சரி; (R) தவறு", "(A) தவறு; (R) சரி"],
+        "options": ["(A) சரி; (R) தவறு", "(A) தவறு; (R) சரி", "(A), (R) இரண்டும் சரி; ஆனால் (R), (A)-க்குச் சரியான விளக்கம் அல்ல", "(A), (R) இரண்டும் சரி; (R), (A)-க்குச் சரியான விளக்கம்"],
         "explanation": "முகவுரை 'இந்திய மக்களாகிய நாம்' என்று தொடங்குவதால் இந்திய மக்களே அரசியலமைப்பின் ஆதாரம். இரண்டும் சரி; (R), (A)-க்குச் சரியான விளக்கம்."
       }
     },
@@ -173,14 +173,14 @@
       "quote": "The Preamble to the Indian Constitution is based on the ‘Objective Resolution’, drafted by Jawaharlal Nehru, which was adopted by the Constituent Assembly on January 22, 1947. It has been amended once by the 42nd Constitutional Amendment Act of 1976",
       "answer": "A",
       "en": {
-        "q": "Consider the following statements about the Preamble:\n1. It is based on the 'Objective Resolution' drafted by Jawaharlal Nehru.\n2. It has been amended twice so far.\nWhich of the statements given above is/are correct?",
-        "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
-        "explanation": "Statement 1 is correct. Statement 2 is wrong: the Preamble has been amended only once, by the 42nd Amendment Act of 1976."
+        "q": "Consider the following statements about the Preamble:\n1. It has been amended twice so far.\n2. It is based on the 'Objective Resolution' drafted by Jawaharlal Nehru.\nWhich of the statements given above is/are correct?",
+        "options": ["2 only", "1 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "explanation": "Statement 2 is correct. Statement 1 is wrong: the Preamble has been amended only once, by the 42nd Amendment Act of 1976."
       },
       "ta": {
-        "q": "முகவுரை பற்றிய கீழ்க்கண்ட கூற்றுகளைக் கவனிக்கவும்:\n1. இது ஜவகர்லால் நேரு வரைந்த 'குறிக்கோள் தீர்மானத்தின்' அடிப்படையில் அமைந்துள்ளது.\n2. இது இதுவரை இருமுறை திருத்தப்பட்டுள்ளது.\nமேற்கண்ட கூற்றுகளில் எது/எவை சரியானவை?",
-        "options": ["1 மட்டும்", "2 மட்டும்", "1 மற்றும் 2 இரண்டும்", "1-ம் இல்லை, 2-ம் இல்லை"],
-        "explanation": "கூற்று 1 சரி. கூற்று 2 தவறு: முகவுரை 1976ஆம் ஆண்டு 42வது அரசியலமைப்புச் சட்டத்திருத்தத்தின்படி ஒருமுறை மட்டுமே திருத்தப்பட்டது."
+        "q": "முகவுரை பற்றிய கீழ்க்கண்ட கூற்றுகளைக் கவனிக்கவும்:\n1. இது இதுவரை இருமுறை திருத்தப்பட்டுள்ளது.\n2. இது ஜவகர்லால் நேரு வரைந்த 'குறிக்கோள் தீர்மானத்தின்' அடிப்படையில் அமைந்துள்ளது.\nமேற்கண்ட கூற்றுகளில் எது/எவை சரியானவை?",
+        "options": ["2 மட்டும்", "1 மட்டும்", "1 மற்றும் 2 இரண்டும்", "1-ம் இல்லை, 2-ம் இல்லை"],
+        "explanation": "கூற்று 2 சரி. கூற்று 1 தவறு: முகவுரை 1976ஆம் ஆண்டு 42வது அரசியலமைப்புச் சட்டத்திருத்தத்தின்படி ஒருமுறை மட்டுமே திருத்தப்பட்டது."
       }
     },
     {
@@ -368,13 +368,13 @@
       "quote": "Originally, the Constitution provided for seven Fundamental Rights. At present, there are only six Fundamental Rights.",
       "answer": "C",
       "en": {
-        "q": "Consider the following statements:\n1. Originally, the Constitution provided for seven Fundamental Rights.\n2. At present, there are only six Fundamental Rights.\nWhich of the statements given above is/are correct?",
-        "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "q": "Consider the following statements:\n1. At present, there are only six Fundamental Rights.\n2. Originally, the Constitution provided for seven Fundamental Rights.\nWhich of the statements given above is/are correct?",
+        "options": ["2 only", "1 only", "Both 1 and 2", "Neither 1 nor 2"],
         "explanation": "Both are correct. There were seven; the Right to Property was later removed, leaving six."
       },
       "ta": {
-        "q": "கீழ்க்கண்ட கூற்றுகளைக் கவனிக்கவும்:\n1. தொடக்கத்தில் இந்திய அரசியலமைப்பு ஏழு அடிப்படை உரிமைகளை வழங்கியது.\n2. தற்போது ஆறு அடிப்படை உரிமைகள் மட்டுமே உள்ளன.\nமேற்கண்ட கூற்றுகளில் எது/எவை சரியானவை?",
-        "options": ["1 மட்டும்", "2 மட்டும்", "1 மற்றும் 2 இரண்டும்", "1-ம் இல்லை, 2-ம் இல்லை"],
+        "q": "கீழ்க்கண்ட கூற்றுகளைக் கவனிக்கவும்:\n1. தற்போது ஆறு அடிப்படை உரிமைகள் மட்டுமே உள்ளன.\n2. தொடக்கத்தில் இந்திய அரசியலமைப்பு ஏழு அடிப்படை உரிமைகளை வழங்கியது.\nமேற்கண்ட கூற்றுகளில் எது/எவை சரியானவை?",
+        "options": ["2 மட்டும்", "1 மட்டும்", "1 மற்றும் 2 இரண்டும்", "1-ம் இல்லை, 2-ம் இல்லை"],
         "explanation": "இரண்டும் சரி. தொடக்கத்தில் ஏழு அடிப்படை உரிமைகள் இருந்தன; சொத்துரிமை பின்னர் நீக்கப்பட்டதால் தற்போது ஆறு உள்ளன."
       }
     }
