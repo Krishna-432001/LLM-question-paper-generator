@@ -41,22 +41,22 @@
       "quote": "Text Document: Writer (word processor) ... Calc (spreadsheet) ... Impress (presentations) ... Base (database) ... Drawing (vector graphics) ... Math (formula editor)",
       "answer": "B",
       "en": {
-        "q": "Match the LibreOffice component with its use.\na. Writer\nb. Calc\nc. Impress\nd. Base\n1. Spreadsheet\n2. Word processor\n3. Presentations\n4. Database",
+        "q": "Match the LibreOffice component with its use.\na. Writer\nb. Calc\nc. Impress\nd. Base\n1. Spreadsheet\n2. Presentations\n3. Word processor\n4. Database",
         "options": [
-          "a-1, b-2, c-4, d-3",
-          "a-2, b-1, c-3, d-4",
-          "a-2, b-3, c-1, d-4",
-          "a-4, b-1, c-3, d-2"
+          "a-1, b-3, c-4, d-2",
+          "a-3, b-1, c-2, d-4",
+          "a-3, b-2, c-1, d-4",
+          "a-4, b-1, c-2, d-3"
         ],
         "explanation": "Draw is a vector drawing tool and Math is the formula (equation) editor of LibreOffice."
       },
       "ta": {
-        "q": "லிப்ரே ஆபீஸ் கூறுகளை அவற்றின் பயன்பாட்டுடன் பொருத்துக.\na. ரைட்டர்\nb. கால்க்\nc. இம்ப்ரெஸ்\nd. பேஸ்\n1. விரிதாள்\n2. சொல் செயலி\n3. விளக்கக்காட்சிகள்\n4. தரவுத்தளம்",
+        "q": "லிப்ரே ஆபீஸ் கூறுகளை அவற்றின் பயன்பாட்டுடன் பொருத்துக.\na. ரைட்டர்\nb. கால்க்\nc. இம்ப்ரெஸ்\nd. பேஸ்\n1. விரிதாள்\n2. விளக்கக்காட்சிகள்\n3. சொல் செயலி\n4. தரவுத்தளம்",
         "options": [
-          "a-1, b-2, c-4, d-3",
-          "a-2, b-1, c-3, d-4",
-          "a-2, b-3, c-1, d-4",
-          "a-4, b-1, c-3, d-2"
+          "a-1, b-3, c-4, d-2",
+          "a-3, b-1, c-2, d-4",
+          "a-3, b-2, c-1, d-4",
+          "a-4, b-1, c-2, d-3"
         ],
         "explanation": "டிரா திசையன் வரைகருவி; மேத் சூத்திரம் (சமன்பாடு) திருத்தி."
       }
@@ -128,22 +128,22 @@
       "quote": "Ctrl + X to Cut; Ctrl + V to Paste; Ctrl + C to Copy; Ctrl+B, Ctrl+I and Ctrl+U keys can be used to make the selected text bold, italic and underlined respectively.",
       "answer": "A",
       "en": {
-        "q": "Match the action with its keyboard shortcut in LibreOffice Writer.\na. Cut\nb. Copy\nc. Paste\nd. Underline\n1. Ctrl + X\n2. Ctrl + C\n3. Ctrl + V\n4. Ctrl + U",
+        "q": "Match the action with its keyboard shortcut in LibreOffice Writer.\na. Cut\nb. Copy\nc. Paste\nd. Underline\n1. Ctrl + X\n2. Ctrl + V\n3. Ctrl + C\n4. Ctrl + U",
         "options": [
-          "a-1, b-2, c-3, d-4",
-          "a-2, b-1, c-4, d-3",
           "a-1, b-3, c-2, d-4",
-          "a-4, b-2, c-3, d-1"
+          "a-3, b-1, c-4, d-2",
+          "a-1, b-2, c-3, d-4",
+          "a-4, b-3, c-2, d-1"
         ],
         "explanation": "Ctrl + B makes the selected text bold and Ctrl + I makes it italic."
       },
       "ta": {
-        "q": "லிப்ரே ஆபீஸ் ரைட்டரில் செயலை அதன் விசைப்பலகைக் குறுக்கு வழியுடன் பொருத்துக.\na. வெட்டு (Cut)\nb. நகலெடு (Copy)\nc. ஒட்டு (Paste)\nd. அடிக்கோடு (Underline)\n1. Ctrl + X\n2. Ctrl + C\n3. Ctrl + V\n4. Ctrl + U",
+        "q": "லிப்ரே ஆபீஸ் ரைட்டரில் செயலை அதன் விசைப்பலகைக் குறுக்கு வழியுடன் பொருத்துக.\na. வெட்டு (Cut)\nb. நகலெடு (Copy)\nc. ஒட்டு (Paste)\nd. அடிக்கோடு (Underline)\n1. Ctrl + X\n2. Ctrl + V\n3. Ctrl + C\n4. Ctrl + U",
         "options": [
-          "a-1, b-2, c-3, d-4",
-          "a-2, b-1, c-4, d-3",
           "a-1, b-3, c-2, d-4",
-          "a-4, b-2, c-3, d-1"
+          "a-3, b-1, c-4, d-2",
+          "a-1, b-2, c-3, d-4",
+          "a-4, b-3, c-2, d-1"
         ],
         "explanation": "Ctrl + B தேர்ந்தெடுத்த உரையைத் தடித்த எழுத்தாகவும் Ctrl + I சாய்வெழுத்தாகவும் மாற்றும்."
       }

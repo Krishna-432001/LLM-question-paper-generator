@@ -128,22 +128,22 @@
       "quote": "Center of Curvature: It is the center of the sphere from which the mirror is made. ... Pole: It is the geometric centre of the spherical mirror. ... Principal Axis: The line joining the pole of the mirror and its center of curvature is called principal axis. ... The distance between the pole and the principal focus is called focal length (f)",
       "answer": "A",
       "en": {
-        "q": "Match the term related to a spherical mirror with its meaning:\na) Pole\nb) Principal axis\nc) Focal length\nd) Centre of curvature\n1. Centre of the sphere of which the mirror is a part\n2. Distance between the pole and the principal focus\n3. Line joining the pole and the centre of curvature\n4. Geometric centre of the mirror",
+        "q": "Match the term related to a spherical mirror with its meaning:\na) Pole\nb) Principal axis\nc) Focal length\nd) Centre of curvature\n1. Geometric centre of the mirror\n2. Line joining the pole and the centre of curvature\n3. Centre of the sphere of which the mirror is a part\n4. Distance between the pole and the principal focus",
         "options": [
-          "a-4, b-3, c-2, d-1",
-          "a-3, b-4, c-1, d-2",
-          "a-4, b-3, c-1, d-2",
-          "a-2, b-1, c-4, d-3"
+          "a-1, b-2, c-4, d-3",
+          "a-2, b-1, c-3, d-4",
+          "a-1, b-2, c-3, d-4",
+          "a-4, b-3, c-1, d-2"
         ],
         "explanation": "The focal length is half the radius of curvature: f = R/2."
       },
       "ta": {
-        "q": "கோள ஆடி தொடர்பான சொல்லை அதன் பொருளுடன் பொருத்துக:\na) ஆடிமையம் (Pole)\nb) முதன்மை அச்சு\nc) குவியத்தொலைவு\nd) வளைவு மையம்\n1. ஆடி ஒரு பகுதியாக உள்ள கோளத்தின் மையம்\n2. ஆடிமையத்துக்கும் முதன்மைக் குவியத்துக்கும் இடையிலான தொலைவு\n3. ஆடிமையத்தையும் வளைவு மையத்தையும் இணைக்கும் கோடு\n4. ஆடியின் வடிவியல் மையம்",
+        "q": "கோள ஆடி தொடர்பான சொல்லை அதன் பொருளுடன் பொருத்துக:\na) ஆடிமையம் (Pole)\nb) முதன்மை அச்சு\nc) குவியத்தொலைவு\nd) வளைவு மையம்\n1. ஆடியின் வடிவியல் மையம்\n2. ஆடிமையத்தையும் வளைவு மையத்தையும் இணைக்கும் கோடு\n3. ஆடி ஒரு பகுதியாக உள்ள கோளத்தின் மையம்\n4. ஆடிமையத்துக்கும் முதன்மைக் குவியத்துக்கும் இடையிலான தொலைவு",
         "options": [
-          "a-4, b-3, c-2, d-1",
-          "a-3, b-4, c-1, d-2",
-          "a-4, b-3, c-1, d-2",
-          "a-2, b-1, c-4, d-3"
+          "a-1, b-2, c-4, d-3",
+          "a-2, b-1, c-3, d-4",
+          "a-1, b-2, c-3, d-4",
+          "a-4, b-3, c-1, d-2"
         ],
         "explanation": "குவியத்தொலைவு வளைவு ஆரத்தில் பாதி: f = R/2."
       }

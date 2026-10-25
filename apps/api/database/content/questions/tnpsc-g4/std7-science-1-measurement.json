@@ -331,22 +331,22 @@
       "quote": "1 gallon = 3785 ml; 1 ounce = 30 ml ... 1 litre = 1000 cc",
       "answer": "D",
       "en": {
-        "q": "Match the units of volume with their values:\na. 1 gallon\nb. 1 ounce\nc. 1 litre\nd. 1 cubic metre\n1. 10⁶ cm³\n2. 1000 cc\n3. 30 ml\n4. 3785 ml",
+        "q": "Match the units of volume with their values:\na. 1 gallon\nb. 1 ounce\nc. 1 litre\nd. 1 cubic metre\n1. 1000 cc\n2. 3785 ml\n3. 10⁶ cm³\n4. 30 ml",
         "options": [
-          "a-1, b-3, c-2, d-4",
           "a-3, b-4, c-1, d-2",
           "a-4, b-2, c-3, d-1",
-          "a-4, b-3, c-2, d-1"
+          "a-2, b-1, c-4, d-3",
+          "a-2, b-4, c-1, d-3"
         ],
         "explanation": "1 gallon = 3785 ml; 1 ounce ≈ 30 ml; 1 litre = 1000 cc; 1 m³ = 10⁶ cm³."
       },
       "ta": {
-        "q": "கனஅளவு அலகுகளை அவற்றின் மதிப்புகளுடன் பொருத்துக:\na. 1 காலன்\nb. 1 அவுன்ஸ்\nc. 1 லிட்டர்\nd. 1 கன மீட்டர்\n1. 10⁶ செ.மீ³\n2. 1000 cc\n3. 30 மி.லி\n4. 3785 மி.லி",
+        "q": "கனஅளவு அலகுகளை அவற்றின் மதிப்புகளுடன் பொருத்துக:\na. 1 காலன்\nb. 1 அவுன்ஸ்\nc. 1 லிட்டர்\nd. 1 கன மீட்டர்\n1. 1000 cc\n2. 3785 மி.லி\n3. 10⁶ செ.மீ³\n4. 30 மி.லி",
         "options": [
-          "a-1, b-3, c-2, d-4",
           "a-3, b-4, c-1, d-2",
           "a-4, b-2, c-3, d-1",
-          "a-4, b-3, c-2, d-1"
+          "a-2, b-1, c-4, d-3",
+          "a-2, b-4, c-1, d-3"
         ],
         "explanation": "1 காலன் = 3785 மி.லி; 1 அவுன்ஸ் ≈ 30 மி.லி; 1 லிட்டர் = 1000 cc; 1 மீ³ = 10⁶ செ.மீ³."
       }

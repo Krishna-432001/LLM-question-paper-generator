@@ -273,22 +273,22 @@
       "quote": "Deci d Submultiple: 1/10; Centi c Submultiple: 1/100; Milli m Submultiple: 1/1000; Nano n Submultiple: 1/1000000000",
       "answer": "B",
       "en": {
-        "q": "Match the SI prefix with its value.\na. Deci\nb. Centi\nc. Milli\nd. Nano\n1. 1/10\n2. 1/100\n3. 1/1000\n4. 1/1000000000",
+        "q": "Match the SI prefix with its value.\na. Deci\nb. Centi\nc. Milli\nd. Nano\n1. 1/100\n2. 1/1000\n3. 1/10\n4. 1/1000000000",
         "options": [
-          "a-2, b-1, c-3, d-4",
-          "a-1, b-2, c-3, d-4",
           "a-1, b-3, c-2, d-4",
-          "a-2, b-1, c-4, d-3"
+          "a-3, b-1, c-2, d-4",
+          "a-3, b-2, c-1, d-4",
+          "a-1, b-3, c-4, d-2"
         ],
         "explanation": "Deci = 1/10, centi = 1/100, milli = 1/1000, nano = 1/1000000000 (10⁻⁹)."
       },
       "ta": {
-        "q": "SI முன்னொட்டுகளை அவற்றின் மதிப்புகளுடன் பொருத்துக.\na. டெசி\nb. சென்டி\nc. மில்லி\nd. நானோ\n1. 1/10\n2. 1/100\n3. 1/1000\n4. 1/1000000000",
+        "q": "SI முன்னொட்டுகளை அவற்றின் மதிப்புகளுடன் பொருத்துக.\na. டெசி\nb. சென்டி\nc. மில்லி\nd. நானோ\n1. 1/100\n2. 1/1000\n3. 1/10\n4. 1/1000000000",
         "options": [
-          "a-2, b-1, c-3, d-4",
-          "a-1, b-2, c-3, d-4",
           "a-1, b-3, c-2, d-4",
-          "a-2, b-1, c-4, d-3"
+          "a-3, b-1, c-2, d-4",
+          "a-3, b-2, c-1, d-4",
+          "a-1, b-3, c-4, d-2"
         ],
         "explanation": "டெசி = 1/10, சென்டி = 1/100, மில்லி = 1/1000, நானோ = 1/1000000000 (10⁻⁹)."
       }
@@ -1143,22 +1143,22 @@
       "quote": "SI unit for length is metre SI unit for mass is kilogram SI unit for time is second SI unit for area is m2 SI unit for volume is m3",
       "answer": "D",
       "en": {
-        "q": "Match the quantity with its SI unit.\na. Length\nb. Mass\nc. Time\nd. Volume\n1. second\n2. m³\n3. metre\n4. kilogram",
+        "q": "Match the quantity with its SI unit.\na. Length\nb. Mass\nc. Time\nd. Volume\n1. second\n2. m³\n3. kilogram\n4. metre",
         "options": [
-          "a-1, b-3, c-4, d-2",
-          "a-4, b-3, c-1, d-2",
-          "a-3, b-4, c-2, d-1",
-          "a-3, b-4, c-1, d-2"
+          "a-1, b-4, c-3, d-2",
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-2, d-1",
+          "a-4, b-3, c-1, d-2"
         ],
         "explanation": "SI units: length - metre, mass - kilogram, time - second, volume - m³."
       },
       "ta": {
-        "q": "அளவையை அதன் SI அலகுடன் பொருத்துக.\na. நீளம்\nb. நிறை\nc. காலம்\nd. கனஅளவு\n1. வினாடி\n2. m³\n3. மீட்டர்\n4. கிலோகிராம்",
+        "q": "அளவையை அதன் SI அலகுடன் பொருத்துக.\na. நீளம்\nb. நிறை\nc. காலம்\nd. கனஅளவு\n1. வினாடி\n2. m³\n3. கிலோகிராம்\n4. மீட்டர்",
         "options": [
-          "a-1, b-3, c-4, d-2",
-          "a-4, b-3, c-1, d-2",
-          "a-3, b-4, c-2, d-1",
-          "a-3, b-4, c-1, d-2"
+          "a-1, b-4, c-3, d-2",
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-2, d-1",
+          "a-4, b-3, c-1, d-2"
         ],
         "explanation": "SI அலகுகள்: நீளம் - மீட்டர், நிறை - கிலோகிராம், காலம் - வினாடி, கனஅளவு - m³."
       }

@@ -259,8 +259,8 @@
       "topic": "physics-force-motion-and-energy", "format": "match_the_following", "difficulty": "medium", "bloom": "remember", "page": 49,
       "quote": "1. Electric charge (a) ohm 2. Potential difference (b) ampere 3. Electric field (c) coulomb 4. Resistance (d) newton per coulomb 5. Electric current (e) volt",
       "answer": "A",
-      "en": {"q": "Match the quantity with its SI unit:\na) Electric charge\nb) Potential difference\nc) Electric field\nd) Resistance\n1. ohm\n2. newton per coulomb\n3. volt\n4. coulomb", "options": ["a-4, b-3, c-2, d-1", "a-3, b-4, c-2, d-1", "a-4, b-3, c-1, d-2", "a-2, b-3, c-4, d-1"], "explanation": "Charge: coulomb; p.d.: volt; electric field: N C⁻¹; resistance: ohm."},
-      "ta": {"q": "அளவை அதன் SI அலகுடன் பொருத்துக:\na) மின்னூட்டம்\nb) மின்னழுத்த வேறுபாடு\nc) மின்புலம்\nd) மின்தடை\n1. ஓம்\n2. நியூட்டன்/கூலும்\n3. வோல்ட்\n4. கூலும்", "options": ["a-4, b-3, c-2, d-1", "a-3, b-4, c-2, d-1", "a-4, b-3, c-1, d-2", "a-2, b-3, c-4, d-1"], "explanation": "மின்னூட்டம் – கூலும்; மின்னழுத்த வேறுபாடு – வோல்ட்; மின்புலம் – N C⁻¹; மின்தடை – ஓம்."}
+      "en": {"q": "Match the quantity with its SI unit:\na) Electric charge\nb) Potential difference\nc) Electric field\nd) Resistance\n1. newton per coulomb\n2. ohm\n3. coulomb\n4. volt", "options": ["a-3, b-4, c-1, d-2", "a-4, b-3, c-1, d-2", "a-3, b-4, c-2, d-1", "a-1, b-4, c-3, d-2"], "explanation": "Charge: coulomb; p.d.: volt; electric field: N C⁻¹; resistance: ohm."},
+      "ta": {"q": "அளவை அதன் SI அலகுடன் பொருத்துக:\na) மின்னூட்டம்\nb) மின்னழுத்த வேறுபாடு\nc) மின்புலம்\nd) மின்தடை\n1. நியூட்டன்/கூலும்\n2. ஓம்\n3. கூலும்\n4. வோல்ட்", "options": ["a-3, b-4, c-1, d-2", "a-4, b-3, c-1, d-2", "a-3, b-4, c-2, d-1", "a-1, b-4, c-3, d-2"], "explanation": "மின்னூட்டம் – கூலும்; மின்னழுத்த வேறுபாடு – வோல்ட்; மின்புலம் – N C⁻¹; மின்தடை – ஓம்."}
     },
     {
       "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 49,

@@ -186,22 +186,22 @@
       "quote": "The control unit controls the functions of all parts of the computer. Arithmetic and Logic unit performs all arithmetic computations ... The memory unit ... saves all data and information",
       "answer": "C",
       "en": {
-        "q": "Match the unit of the computer with its function.\na. Control unit\nb. Arithmetic Logic Unit\nc. Memory unit\nd. Output unit\n1. Performs all arithmetic computations\n2. Controls the functions of all parts of the computer\n3. Saves all data and information\n4. Converts binary signals into easily understandable characters",
+        "q": "Match the unit of the computer with its function.\na. Control unit\nb. Arithmetic Logic Unit\nc. Memory unit\nd. Output unit\n1. Controls the functions of all parts of the computer\n2. Converts binary signals into easily understandable characters\n3. Saves all data and information\n4. Performs all arithmetic computations",
         "options": [
-          "a-2, b-1, c-4, d-3",
-          "a-1, b-2, c-3, d-4",
-          "a-2, b-1, c-3, d-4",
-          "a-3, b-1, c-2, d-4"
+          "a-1, b-4, c-2, d-3",
+          "a-4, b-1, c-3, d-2",
+          "a-1, b-4, c-3, d-2",
+          "a-3, b-4, c-1, d-2"
         ],
         "explanation": "The ALU does addition, subtraction, multiplication and division; the output unit converts binary signals into characters people can understand."
       },
       "ta": {
-        "q": "கணினியின் பிரிவை அதன் பணியுடன் பொருத்துக.\na. கட்டுப்பாட்டுப் பிரிவு\nb. கணிதத் தருக்கப் பிரிவு\nc. நினைவகப் பிரிவு\nd. வெளியீட்டுப் பிரிவு\n1. அனைத்துக் கணிதக் கணக்கீடுகளையும் செய்தல்\n2. கணினியின் அனைத்துப் பகுதிகளின் செயல்பாட்டையும் கட்டுப்படுத்துதல்\n3. எல்லாத் தரவுகளையும் தகவல்களையும் சேமித்தல்\n4. இருமச் சமிக்ஞைகளை எளிதில் புரிந்துகொள்ளக்கூடிய எழுத்துகளாக மாற்றுதல்",
+        "q": "கணினியின் பிரிவை அதன் பணியுடன் பொருத்துக.\na. கட்டுப்பாட்டுப் பிரிவு\nb. கணிதத் தருக்கப் பிரிவு\nc. நினைவகப் பிரிவு\nd. வெளியீட்டுப் பிரிவு\n1. கணினியின் அனைத்துப் பகுதிகளின் செயல்பாட்டையும் கட்டுப்படுத்துதல்\n2. இருமச் சமிக்ஞைகளை எளிதில் புரிந்துகொள்ளக்கூடிய எழுத்துகளாக மாற்றுதல்\n3. எல்லாத் தரவுகளையும் தகவல்களையும் சேமித்தல்\n4. அனைத்துக் கணிதக் கணக்கீடுகளையும் செய்தல்",
         "options": [
-          "a-2, b-1, c-4, d-3",
-          "a-1, b-2, c-3, d-4",
-          "a-2, b-1, c-3, d-4",
-          "a-3, b-1, c-2, d-4"
+          "a-1, b-4, c-2, d-3",
+          "a-4, b-1, c-3, d-2",
+          "a-1, b-4, c-3, d-2",
+          "a-3, b-4, c-1, d-2"
         ],
         "explanation": "ALU கூட்டல், கழித்தல், பெருக்கல், வகுத்தல் ஆகியவற்றைச் செய்கிறது; வெளியீட்டுப் பிரிவு இருமச் சமிக்ஞைகளை மனிதர்கள் புரிந்துகொள்ளும் எழுத்துகளாக மாற்றுகிறது."
       }
@@ -505,22 +505,22 @@
       "quote": "VGA cable: It is used to connect the computer monitor with the CPU. ... HDMI cable transmits high quality and high bandwidth streams of audio and video. ... Ethernet cable helps to establish internet connectivity.",
       "answer": "B",
       "en": {
-        "q": "Match the cable with its use.\na. VGA cable\nb. HDMI cable\nc. Ethernet cable\nd. Audio jack\n1. Connects the computer monitor with the CPU\n2. Transmits high quality audio and video\n3. Establishes internet connectivity\n4. Connects the speaker to the computer",
+        "q": "Match the cable with its use.\na. VGA cable\nb. HDMI cable\nc. Ethernet cable\nd. Audio jack\n1. Establishes internet connectivity\n2. Connects the computer monitor with the CPU\n3. Transmits high quality audio and video\n4. Connects the speaker to the computer",
         "options": [
-          "a-2, b-1, c-3, d-4",
-          "a-1, b-2, c-3, d-4",
-          "a-1, b-2, c-4, d-3",
-          "a-3, b-2, c-1, d-4"
+          "a-3, b-2, c-1, d-4",
+          "a-2, b-3, c-1, d-4",
+          "a-2, b-3, c-4, d-1",
+          "a-1, b-3, c-2, d-4"
         ],
         "explanation": "The audio jack is used to connect the speaker to the computer."
       },
       "ta": {
-        "q": "வடத்தை அதன் பயனுடன் பொருத்துக.\na. VGA வடம்\nb. HDMI வடம்\nc. ஈத்தர்நெட் வடம்\nd. ஆடியோ ஜாக்\n1. கணினித் திரையை CPU-வுடன் இணைக்கிறது\n2. உயர்தர ஒலி, ஒளிக்காட்சிகளைக் கடத்துகிறது\n3. இணைய இணைப்பை ஏற்படுத்துகிறது\n4. ஒலிபெருக்கியைக் கணினியுடன் இணைக்கிறது",
+        "q": "வடத்தை அதன் பயனுடன் பொருத்துக.\na. VGA வடம்\nb. HDMI வடம்\nc. ஈத்தர்நெட் வடம்\nd. ஆடியோ ஜாக்\n1. இணைய இணைப்பை ஏற்படுத்துகிறது\n2. கணினித் திரையை CPU-வுடன் இணைக்கிறது\n3. உயர்தர ஒலி, ஒளிக்காட்சிகளைக் கடத்துகிறது\n4. ஒலிபெருக்கியைக் கணினியுடன் இணைக்கிறது",
         "options": [
-          "a-2, b-1, c-3, d-4",
-          "a-1, b-2, c-3, d-4",
-          "a-1, b-2, c-4, d-3",
-          "a-3, b-2, c-1, d-4"
+          "a-3, b-2, c-1, d-4",
+          "a-2, b-3, c-1, d-4",
+          "a-2, b-3, c-4, d-1",
+          "a-1, b-3, c-2, d-4"
         ],
         "explanation": "ஒலிபெருக்கியைக் கணினியுடன் இணைக்க ஆடியோ ஜாக் பயன்படுகிறது."
       }

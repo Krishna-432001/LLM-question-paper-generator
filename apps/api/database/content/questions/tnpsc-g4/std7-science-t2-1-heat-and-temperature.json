@@ -1056,22 +1056,22 @@
       "quote": "Clinical thermometer is scaled from 35°C to 42°C or from 94°F to 108°F. ... Mercury level does not fall on its own, as there is a kink near the bulb ... To lower the mercury level jerks are given.",
       "answer": "A",
       "en": {
-        "q": "Match the thermometer with its feature.\na. Clinical thermometer\nb. Laboratory thermometer\nc. Digital thermometer\nd. Maximum-minimum thermometer\n1. Has a kink near the bulb\n2. Has no kink and a Celsius scale only\n3. Uses a sensor instead of mercury\n4. Reports the previous day's highest and lowest temperatures",
+        "q": "Match the thermometer with its feature.\na. Clinical thermometer\nb. Laboratory thermometer\nc. Digital thermometer\nd. Maximum-minimum thermometer\n1. Uses a sensor instead of mercury\n2. Reports the previous day's highest and lowest temperatures\n3. Has a kink near the bulb\n4. Has no kink and a Celsius scale only",
         "options": [
-          "a-1, b-2, c-3, d-4",
-          "a-2, b-1, c-4, d-3",
-          "a-1, b-2, c-4, d-3",
-          "a-3, b-2, c-1, d-4"
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-2, d-1",
+          "a-3, b-4, c-2, d-1",
+          "a-1, b-4, c-3, d-2"
         ],
         "explanation": "The clinical thermometer has a kink; the laboratory type has none and only a Celsius scale; the digital type has a sensor; the max-min type records the day's extremes."
       },
       "ta": {
-        "q": "வெப்பநிலைமானிகளை அவற்றின் சிறப்பியல்புடன் பொருத்துக.\na. மருத்துவ வெப்பநிலைமானி\nb. ஆய்வக வெப்பநிலைமானி\nc. டிஜிட்டல் வெப்பநிலைமானி\nd. அதிகபட்ச - குறைந்தபட்ச வெப்பநிலைமானி\n1. குமிழ் அருகே வளைவு உண்டு\n2. வளைவு இல்லை; செல்சியஸ் அளவீடு மட்டும்\n3. பாதரசத்திற்குப் பதிலாக உணரி பயன்படுத்துகிறது\n4. முந்தைய நாளின் உச்ச, தாழ் வெப்பநிலைகளைத் தெரிவிக்கிறது",
+        "q": "வெப்பநிலைமானிகளை அவற்றின் சிறப்பியல்புடன் பொருத்துக.\na. மருத்துவ வெப்பநிலைமானி\nb. ஆய்வக வெப்பநிலைமானி\nc. டிஜிட்டல் வெப்பநிலைமானி\nd. அதிகபட்ச - குறைந்தபட்ச வெப்பநிலைமானி\n1. பாதரசத்திற்குப் பதிலாக உணரி பயன்படுத்துகிறது\n2. முந்தைய நாளின் உச்ச, தாழ் வெப்பநிலைகளைத் தெரிவிக்கிறது\n3. குமிழ் அருகே வளைவு உண்டு\n4. வளைவு இல்லை; செல்சியஸ் அளவீடு மட்டும்",
         "options": [
-          "a-1, b-2, c-3, d-4",
-          "a-2, b-1, c-4, d-3",
-          "a-1, b-2, c-4, d-3",
-          "a-3, b-2, c-1, d-4"
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-2, d-1",
+          "a-3, b-4, c-2, d-1",
+          "a-1, b-4, c-3, d-2"
         ],
         "explanation": "மருத்துவ வகையில் வளைவு உண்டு; ஆய்வக வகையில் இல்லை, செல்சியஸ் மட்டும்; டிஜிட்டல் வகையில் உணரி; அதிகபட்ச - குறைந்தபட்ச வகை நாளின் உச்ச, தாழ் மதிப்புகளைக் காட்டும்."
       }

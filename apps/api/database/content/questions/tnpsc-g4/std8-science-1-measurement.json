@@ -128,22 +128,22 @@
       "quote": "Luminous flux or Luminous power is the measure of the perceived power of light. Its SI unit is 'lumen'. ... The SI unit of plane angle is 'radian' and is denoted as 'rad'. ... The SI unit of solid angle is 'steradian' and is denoted as 'sr'. ... Electric charge is measured in coulumb.",
       "answer": "A",
       "en": {
-        "q": "Match the quantity with its SI unit:\na) Plane angle\nb) Solid angle\nc) Luminous flux\nd) Electric charge\n1. coulomb\n2. lumen\n3. steradian\n4. radian",
+        "q": "Match the quantity with its SI unit:\na) Plane angle\nb) Solid angle\nc) Luminous flux\nd) Electric charge\n1. coulomb\n2. radian\n3. steradian\n4. lumen",
         "options": [
-          "a-4, b-3, c-2, d-1",
-          "a-3, b-4, c-1, d-2",
-          "a-4, b-3, c-1, d-2",
-          "a-3, b-4, c-2, d-1"
+          "a-2, b-3, c-4, d-1",
+          "a-3, b-2, c-1, d-4",
+          "a-2, b-3, c-1, d-4",
+          "a-3, b-2, c-4, d-1"
         ],
         "explanation": "One lumen is the luminous flux from a source of one candela over a solid angle of one steradian."
       },
       "ta": {
-        "q": "அளவை அதன் SI அலகுடன் பொருத்துக:\na) தளக்கோணம்\nb) திண்மக்கோணம்\nc) ஒளிப்பாயம்\nd) மின்னூட்டம்\n1. கூலூம்\n2. லூமென்\n3. ஸ்டிரேடியன்\n4. ரேடியன்",
+        "q": "அளவை அதன் SI அலகுடன் பொருத்துக:\na) தளக்கோணம்\nb) திண்மக்கோணம்\nc) ஒளிப்பாயம்\nd) மின்னூட்டம்\n1. கூலூம்\n2. ரேடியன்\n3. ஸ்டிரேடியன்\n4. லூமென்",
         "options": [
-          "a-4, b-3, c-2, d-1",
-          "a-3, b-4, c-1, d-2",
-          "a-4, b-3, c-1, d-2",
-          "a-3, b-4, c-2, d-1"
+          "a-2, b-3, c-4, d-1",
+          "a-3, b-2, c-1, d-4",
+          "a-2, b-3, c-1, d-4",
+          "a-3, b-2, c-4, d-1"
         ],
         "explanation": "ஒரு கேண்டெலா ஒளிமூலம் ஒரு ஸ்டிரேடியன் திண்மக்கோணத்தில் உமிழும் ஒளிப்பாயமே ஒரு லூமென்."
       }

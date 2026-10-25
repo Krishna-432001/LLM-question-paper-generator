@@ -77,8 +77,8 @@
       "topic": "zoology-human-physiology", "format": "match_the_following", "difficulty": "hard", "bloom": "remember", "page": 202,
       "quote": "Cockroach Periplaneta americana Snail Pila globosa Star fish Asterias rubens Frog Rana hexadactyla ... Crow Corvus splendens Peacock Pavo cristatus",
       "answer": "C",
-      "en": {"q": "Match the animal with its binomial name:\na) Cockroach\nb) Snail\nc) Peacock\nd) Crow\n1. Corvus splendens\n2. Pila globosa\n3. Periplaneta americana\n4. Pavo cristatus", "options": ["a-4, b-3, c-1, d-2", "a-3, b-4, c-2, d-1", "a-3, b-2, c-4, d-1", "a-2, b-3, c-4, d-1"], "explanation": "Starfish is Asterias rubens and frog Rana hexadactyla."},
-      "ta": {"q": "விலங்கை அதன் இருசொற்பெயருடன் பொருத்துக:\na) கரப்பான்பூச்சி\nb) நத்தை\nc) மயில்\nd) காகம்\n1. கோர்வஸ் ஸ்பிளெண்டன்ஸ்\n2. பைலா குளோபோசா\n3. பெரிப்ளனெட்டா அமெரிக்கானா\n4. பாவோ கிறிஸ்டேட்டஸ்", "options": ["a-4, b-3, c-1, d-2", "a-3, b-4, c-2, d-1", "a-3, b-2, c-4, d-1", "a-2, b-3, c-4, d-1"], "explanation": "நட்சத்திர மீன் ஆஸ்டீரியஸ் ரூபென்ஸ்; தவளை ரானா ஹெக்சாடாக்டைலா."}
+      "en": {"q": "Match the animal with its binomial name:\na) Cockroach\nb) Snail\nc) Peacock\nd) Crow\n1. Pila globosa\n2. Corvus splendens\n3. Periplaneta americana\n4. Pavo cristatus", "options": ["a-4, b-3, c-2, d-1", "a-3, b-4, c-1, d-2", "a-3, b-1, c-4, d-2", "a-1, b-3, c-4, d-2"], "explanation": "Starfish is Asterias rubens and frog Rana hexadactyla."},
+      "ta": {"q": "விலங்கை அதன் இருசொற்பெயருடன் பொருத்துக:\na) கரப்பான்பூச்சி\nb) நத்தை\nc) மயில்\nd) காகம்\n1. பைலா குளோபோசா\n2. கோர்வஸ் ஸ்பிளெண்டன்ஸ்\n3. பெரிப்ளனெட்டா அமெரிக்கானா\n4. பாவோ கிறிஸ்டேட்டஸ்", "options": ["a-4, b-3, c-2, d-1", "a-3, b-4, c-1, d-2", "a-3, b-1, c-4, d-2", "a-1, b-3, c-4, d-2"], "explanation": "நட்சத்திர மீன் ஆஸ்டீரியஸ் ரூபென்ஸ்; தவளை ரானா ஹெக்சாடாக்டைலா."}
     },
     {
       "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 202,
@@ -280,8 +280,8 @@
       "topic": "zoology-human-physiology", "format": "match_the_following", "difficulty": "medium", "bloom": "remember", "page": 209,
       "quote": "PHYLUM EXAMPLES (A) Coelenterata (i) Snail (B) Platyhelminthes (ii) Starfish (C) Echinodermata (iii) Tapeworm (D) Mollusca (iv) Hydra",
       "answer": "D",
-      "en": {"q": "Match the phylum with its example:\na) Coelenterata\nb) Platyhelminthes\nc) Echinodermata\nd) Mollusca\n1. Snail\n2. Starfish\n3. Tapeworm\n4. Hydra", "options": ["a-1, b-3, c-2, d-4", "a-4, b-2, c-3, d-1", "a-3, b-4, c-2, d-1", "a-4, b-3, c-2, d-1"], "explanation": "Hydra: coelenterate; tapeworm: flatworm; starfish: echinoderm; snail: mollusc."},
-      "ta": {"q": "தொகுதியை அதன் எடுத்துக்காட்டுடன் பொருத்துக:\na) குழியுடலிகள்\nb) தட்டைப்புழுக்கள்\nc) முட்தோலிகள்\nd) மெல்லுடலிகள்\n1. நத்தை\n2. நட்சத்திர மீன்\n3. நாடாப்புழு\n4. ஹைட்ரா", "options": ["a-1, b-3, c-2, d-4", "a-4, b-2, c-3, d-1", "a-3, b-4, c-2, d-1", "a-4, b-3, c-2, d-1"], "explanation": "ஹைட்ரா: குழியுடலி; நாடாப்புழு: தட்டைப்புழு; நட்சத்திர மீன்: முட்தோலி; நத்தை: மெல்லுடலி."}
+      "en": {"q": "Match the phylum with its example:\na) Coelenterata\nb) Platyhelminthes\nc) Echinodermata\nd) Mollusca\n1. Snail\n2. Tapeworm\n3. Hydra\n4. Starfish", "options": ["a-1, b-2, c-4, d-3", "a-3, b-4, c-2, d-1", "a-2, b-3, c-4, d-1", "a-3, b-2, c-4, d-1"], "explanation": "Hydra: coelenterate; tapeworm: flatworm; starfish: echinoderm; snail: mollusc."},
+      "ta": {"q": "தொகுதியை அதன் எடுத்துக்காட்டுடன் பொருத்துக:\na) குழியுடலிகள்\nb) தட்டைப்புழுக்கள்\nc) முட்தோலிகள்\nd) மெல்லுடலிகள்\n1. நத்தை\n2. நாடாப்புழு\n3. ஹைட்ரா\n4. நட்சத்திர மீன்", "options": ["a-1, b-2, c-4, d-3", "a-3, b-4, c-2, d-1", "a-2, b-3, c-4, d-1", "a-3, b-2, c-4, d-1"], "explanation": "ஹைட்ரா: குழியுடலி; நாடாப்புழு: தட்டைப்புழு; நட்சத்திர மீன்: முட்தோலி; நத்தை: மெல்லுடலி."}
     },
     {
       "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 203,

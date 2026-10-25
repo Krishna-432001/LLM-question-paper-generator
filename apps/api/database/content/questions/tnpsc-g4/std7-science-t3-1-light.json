@@ -969,22 +969,22 @@
       "quote": "1 Red + 1 Blue = Magenta; 1 Blue + 1 Green = Cyan; 1 Green + 1 Red = Yellow ... 1 Red + 1 Blue + 1 Green = White",
       "answer": "B",
       "en": {
-        "q": "Match the mixture of coloured lights with the colour obtained.\na. Red + Blue\nb. Blue + Green\nc. Green + Red\nd. Red + Green + Blue\n1. Cyan\n2. Magenta\n3. Yellow\n4. White",
+        "q": "Match the mixture of coloured lights with the colour obtained.\na. Red + Blue\nb. Blue + Green\nc. Green + Red\nd. Red + Green + Blue\n1. Cyan\n2. Magenta\n3. White\n4. Yellow",
         "options": [
-          "a-1, b-2, c-4, d-3",
-          "a-2, b-1, c-3, d-4",
-          "a-3, b-1, c-2, d-4",
-          "a-2, b-3, c-1, d-4"
+          "a-1, b-2, c-3, d-4",
+          "a-2, b-1, c-4, d-3",
+          "a-4, b-1, c-2, d-3",
+          "a-2, b-4, c-1, d-3"
         ],
         "explanation": "Equal proportions of two primary colours create a secondary colour; equal proportions of all three primary colours create white."
       },
       "ta": {
-        "q": "கலக்கப்படும் வண்ண ஒளிகளை அவற்றால் கிடைக்கும் நிறத்துடன் பொருத்துக.\na. சிவப்பு + நீலம்\nb. நீலம் + பச்சை\nc. பச்சை + சிவப்பு\nd. சிவப்பு + பச்சை + நீலம்\n1. சியான்\n2. மெஜந்தா\n3. மஞ்சள்\n4. வெள்ளை",
+        "q": "கலக்கப்படும் வண்ண ஒளிகளை அவற்றால் கிடைக்கும் நிறத்துடன் பொருத்துக.\na. சிவப்பு + நீலம்\nb. நீலம் + பச்சை\nc. பச்சை + சிவப்பு\nd. சிவப்பு + பச்சை + நீலம்\n1. சியான்\n2. மெஜந்தா\n3. வெள்ளை\n4. மஞ்சள்",
         "options": [
-          "a-1, b-2, c-4, d-3",
-          "a-2, b-1, c-3, d-4",
-          "a-3, b-1, c-2, d-4",
-          "a-2, b-3, c-1, d-4"
+          "a-1, b-2, c-3, d-4",
+          "a-2, b-1, c-4, d-3",
+          "a-4, b-1, c-2, d-3",
+          "a-2, b-4, c-1, d-3"
         ],
         "explanation": "இரு முதன்மை நிறங்களைச் சம அளவில் கலந்தால் துணை நிறம் கிடைக்கும்; மூன்றையும் சம அளவில் கலந்தால் வெண்மை கிடைக்கும்."
       }
@@ -1027,22 +1027,22 @@
       "quote": "IV. Match the following 1. Rectilinear propagation of light - Pinhole camera; 2. Plane Mirror - Periscope; 5. Wide light source - Penumbra; 4. The Moon - Non-luminous object",
       "answer": "D",
       "en": {
-        "q": "Match the term with the related item.\na. Rectilinear propagation of light\nb. Plane mirror\nc. Wide light source\nd. The Moon\n1. Penumbra\n2. Periscope\n3. Non-luminous object\n4. Pinhole camera",
+        "q": "Match the term with the related item.\na. Rectilinear propagation of light\nb. Plane mirror\nc. Wide light source\nd. The Moon\n1. Non-luminous object\n2. Pinhole camera\n3. Periscope\n4. Penumbra",
         "options": [
+          "a-1, b-3, c-4, d-2",
           "a-3, b-2, c-1, d-4",
           "a-2, b-4, c-3, d-1",
-          "a-4, b-1, c-2, d-3",
-          "a-4, b-2, c-1, d-3"
+          "a-2, b-3, c-4, d-1"
         ],
         "explanation": "The pinhole camera demonstrates rectilinear propagation; a periscope uses plane mirrors; a wide source gives penumbra; the Moon only reflects sunlight."
       },
       "ta": {
-        "q": "சொற்களை அவற்றுடன் தொடர்புடையவற்றுடன் பொருத்துக.\na. ஒளியின் நேர்கோட்டுப் பரவல்\nb. சமதள ஆடி\nc. அகன்ற ஒளி மூலம்\nd. நிலவு\n1. புறநிழல்\n2. பெரிஸ்கோப்\n3. தானே ஒளிராத பொருள்\n4. குண்டூசித் துளைக் கேமரா",
+        "q": "சொற்களை அவற்றுடன் தொடர்புடையவற்றுடன் பொருத்துக.\na. ஒளியின் நேர்கோட்டுப் பரவல்\nb. சமதள ஆடி\nc. அகன்ற ஒளி மூலம்\nd. நிலவு\n1. தானே ஒளிராத பொருள்\n2. குண்டூசித் துளைக் கேமரா\n3. பெரிஸ்கோப்\n4. புறநிழல்",
         "options": [
+          "a-1, b-3, c-4, d-2",
           "a-3, b-2, c-1, d-4",
           "a-2, b-4, c-3, d-1",
-          "a-4, b-1, c-2, d-3",
-          "a-4, b-2, c-1, d-3"
+          "a-2, b-3, c-4, d-1"
         ],
         "explanation": "துளைக் கேமரா நேர்கோட்டுப் பரவலைக் காட்டுகிறது; பெரிஸ்கோப் சமதள ஆடிகளைப் பயன்படுத்துகிறது; அகன்ற மூலம் புறநிழலைத் தரும்; நிலவு சூரிய ஒளியை மட்டுமே எதிரொளிக்கிறது."
       }

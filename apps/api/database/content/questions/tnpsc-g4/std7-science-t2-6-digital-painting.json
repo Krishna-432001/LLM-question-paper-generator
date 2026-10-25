@@ -128,22 +128,22 @@
       "quote": "Shortcut Keys Tool Name Keyboard Shortcut Key: New Ctrl+N, Open Ctrl+O, Save Ctrl + S, Print Ctrl+P, Quit Esc, Undo Ctrl + Z, Redo Ctrl+Y",
       "answer": "A",
       "en": {
-        "q": "Match the Tux Paint tool with its keyboard shortcut.\na. New\nb. Save\nc. Print\nd. Redo\n1. Ctrl + N\n2. Ctrl + S\n3. Ctrl + P\n4. Ctrl + Y",
+        "q": "Match the Tux Paint tool with its keyboard shortcut.\na. New\nb. Save\nc. Print\nd. Redo\n1. Ctrl + N\n2. Ctrl + Y\n3. Ctrl + P\n4. Ctrl + S",
         "options": [
-          "a-1, b-2, c-3, d-4",
-          "a-2, b-1, c-4, d-3",
-          "a-1, b-3, c-2, d-4",
-          "a-4, b-2, c-3, d-1"
+          "a-1, b-4, c-3, d-2",
+          "a-4, b-1, c-2, d-3",
+          "a-1, b-3, c-4, d-2",
+          "a-2, b-4, c-3, d-1"
         ],
         "explanation": "Other shortcuts: Open is Ctrl + O, Undo is Ctrl + Z and Quit is Esc."
       },
       "ta": {
-        "q": "டக்ஸ் பெயிண்ட் கருவிகளை அவற்றின் விசைப்பலகைக் குறுக்கு வழியுடன் பொருத்துக.\na. புதியது (New)\nb. சேமி (Save)\nc. அச்சிடு (Print)\nd. மீண்டும் செய் (Redo)\n1. Ctrl + N\n2. Ctrl + S\n3. Ctrl + P\n4. Ctrl + Y",
+        "q": "டக்ஸ் பெயிண்ட் கருவிகளை அவற்றின் விசைப்பலகைக் குறுக்கு வழியுடன் பொருத்துக.\na. புதியது (New)\nb. சேமி (Save)\nc. அச்சிடு (Print)\nd. மீண்டும் செய் (Redo)\n1. Ctrl + N\n2. Ctrl + Y\n3. Ctrl + P\n4. Ctrl + S",
         "options": [
-          "a-1, b-2, c-3, d-4",
-          "a-2, b-1, c-4, d-3",
-          "a-1, b-3, c-2, d-4",
-          "a-4, b-2, c-3, d-1"
+          "a-1, b-4, c-3, d-2",
+          "a-4, b-1, c-2, d-3",
+          "a-1, b-3, c-4, d-2",
+          "a-2, b-4, c-3, d-1"
         ],
         "explanation": "பிற குறுக்கு வழிகள்: திற (Open) Ctrl + O; செயல்தவிர் (Undo) Ctrl + Z; வெளியேறு (Quit) Esc."
       }

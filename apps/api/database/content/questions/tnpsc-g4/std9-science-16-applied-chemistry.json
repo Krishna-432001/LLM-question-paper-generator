@@ -42,8 +42,8 @@
       "topic": "education-and-health-in-tamil-nadu", "format": "match_the_following", "difficulty": "medium", "bloom": "remember", "page": 187,
       "quote": "Plants Morphine, Quinine Chemical Synthesis Aspirin, Paracetamol Animal Insulin, Heparin Minerals Liquid Paraffin Microorganism Penicillin",
       "answer": "B",
-      "en": {"q": "Match the drug with its source:\na) Quinine\nb) Insulin\nc) Penicillin\nd) Liquid paraffin\n1. Microorganism\n2. Mineral\n3. Plant\n4. Animal", "options": ["a-4, b-3, c-1, d-2", "a-3, b-4, c-1, d-2", "a-3, b-1, c-4, d-2", "a-1, b-4, c-3, d-2"], "explanation": "Aspirin and paracetamol come from chemical synthesis; human growth hormone from genetic engineering."},
-      "ta": {"q": "மருந்தை அதன் மூலத்துடன் பொருத்துக:\na) குயினின்\nb) இன்சுலின்\nc) பெனிசிலின்\nd) திரவ பாரஃபின்\n1. நுண்ணுயிரி\n2. கனிமம்\n3. தாவரம்\n4. விலங்கு", "options": ["a-4, b-3, c-1, d-2", "a-3, b-4, c-1, d-2", "a-3, b-1, c-4, d-2", "a-1, b-4, c-3, d-2"], "explanation": "ஆஸ்பிரின், பாராசிட்டமால் வேதித் தொகுப்பால்; மனித வளர்ச்சி ஹார்மோன் மரபுப் பொறியியலால்."}
+      "en": {"q": "Match the drug with its source:\na) Quinine\nb) Insulin\nc) Penicillin\nd) Liquid paraffin\n1. Animal\n2. Plant\n3. Mineral\n4. Microorganism", "options": ["a-1, b-2, c-4, d-3", "a-2, b-1, c-4, d-3", "a-2, b-4, c-1, d-3", "a-4, b-1, c-2, d-3"], "explanation": "Aspirin and paracetamol come from chemical synthesis; human growth hormone from genetic engineering."},
+      "ta": {"q": "மருந்தை அதன் மூலத்துடன் பொருத்துக:\na) குயினின்\nb) இன்சுலின்\nc) பெனிசிலின்\nd) திரவ பாரஃபின்\n1. விலங்கு\n2. தாவரம்\n3. கனிமம்\n4. நுண்ணுயிரி", "options": ["a-1, b-2, c-4, d-3", "a-2, b-1, c-4, d-3", "a-2, b-4, c-1, d-3", "a-4, b-1, c-2, d-3"], "explanation": "ஆஸ்பிரின், பாராசிட்டமால் வேதித் தொகுப்பால்; மனித வளர்ச்சி ஹார்மோன் மரபுப் பொறியியலால்."}
     },
     {
       "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 187,
@@ -245,8 +245,8 @@
       "topic": "chemistry-elements-and-compounds", "format": "match_the_following", "difficulty": "medium", "bloom": "remember", "page": 195,
       "quote": "Preservatives ... Vinegar, Sodium benzoate, benzoic acid, sodium nitrite Colourants ... Carotenoids, Anthocyanin, Curcumin Artificial Sweeteners ... Saccharin, Cyclamate Flavor enhancers ... Monosodium glutamate",
       "answer": "C",
-      "en": {"q": "Match the food additive type with its example:\na) Preservative\nb) Colourant\nc) Artificial sweetener\nd) Flavour enhancer\n1. Saccharin\n2. Monosodium glutamate\n3. Sodium benzoate\n4. Curcumin", "options": ["a-4, b-3, c-1, d-2", "a-3, b-1, c-4, d-2", "a-3, b-4, c-1, d-2", "a-1, b-4, c-3, d-2"], "explanation": "Antioxidants such as vitamins C and E prevent oxidation of food."},
-      "ta": {"q": "உணவுச் சேர்க்கை வகையை அதன் எடுத்துக்காட்டுடன் பொருத்துக:\na) பதப்படுத்தி\nb) நிறமி\nc) செயற்கை இனிப்பூட்டி\nd) சுவை மேம்படுத்தி\n1. சாக்கரின்\n2. மோனோசோடியம் குளூட்டமேட்\n3. சோடியம் பென்சோயேட்\n4. குர்குமின்", "options": ["a-4, b-3, c-1, d-2", "a-3, b-1, c-4, d-2", "a-3, b-4, c-1, d-2", "a-1, b-4, c-3, d-2"], "explanation": "வைட்டமின் C, E போன்ற ஆக்சிஜனேற்ற எதிர்ப்பிகள் உணவு ஆக்சிஜனேற்றத்தைத் தடுக்கின்றன."}
+      "en": {"q": "Match the food additive type with its example:\na) Preservative\nb) Colourant\nc) Artificial sweetener\nd) Flavour enhancer\n1. Monosodium glutamate\n2. Sodium benzoate\n3. Saccharin\n4. Curcumin", "options": ["a-4, b-2, c-3, d-1", "a-2, b-3, c-4, d-1", "a-2, b-4, c-3, d-1", "a-3, b-4, c-2, d-1"], "explanation": "Antioxidants such as vitamins C and E prevent oxidation of food."},
+      "ta": {"q": "உணவுச் சேர்க்கை வகையை அதன் எடுத்துக்காட்டுடன் பொருத்துக:\na) பதப்படுத்தி\nb) நிறமி\nc) செயற்கை இனிப்பூட்டி\nd) சுவை மேம்படுத்தி\n1. மோனோசோடியம் குளூட்டமேட்\n2. சோடியம் பென்சோயேட்\n3. சாக்கரின்\n4. குர்குமின்", "options": ["a-4, b-2, c-3, d-1", "a-2, b-3, c-4, d-1", "a-2, b-4, c-3, d-1", "a-3, b-4, c-2, d-1"], "explanation": "வைட்டமின் C, E போன்ற ஆக்சிஜனேற்ற எதிர்ப்பிகள் உணவு ஆக்சிஜனேற்றத்தைத் தடுக்கின்றன."}
     },
     {
       "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 196,
