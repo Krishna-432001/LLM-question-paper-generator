@@ -7,8 +7,8 @@
       "topic": "natural-resources-and-agriculture", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 170,
       "quote": "The mines near the earth crust are known as open pit mines while the deep mines are known as shaft mines.",
       "answer": "A",
-      "en": {"q": "Mines located near the earth's crust are known as", "options": ["open pit mines", "shaft mines", "drift mines", "placer mines"], "explanation": "Deep mines are known as shaft mines; the process of extracting minerals is called mining."},
-      "ta": {"q": "புவி மேலோட்டிற்கு அருகில் உள்ள சுரங்கங்கள் எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["திறந்தவெளிச் சுரங்கங்கள்", "ஆழ்குழிச் சுரங்கங்கள்", "சாய்வுச் சுரங்கங்கள்", "படிவச் சுரங்கங்கள்"], "explanation": "ஆழமான சுரங்கங்கள் ஆழ்குழிச் சுரங்கங்கள் எனப்படும்; கனிமங்களைப் பிரித்தெடுப்பது சுரங்கத் தொழில்."}
+      "en": {"q": "Mines located near the earth's surface are known as", "options": ["open pit mines", "shaft mines", "drift mines", "placer mines"], "explanation": "Deep mines are known as shaft mines; the process of extracting minerals is called mining."},
+      "ta": {"q": "புவிப் பரப்புக்கு அருகில் உள்ள சுரங்கங்கள் எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["திறந்தவெளிச் சுரங்கங்கள்", "ஆழ்குழிச் சுரங்கங்கள்", "சாய்வுச் சுரங்கங்கள்", "படிவச் சுரங்கங்கள்"], "explanation": "ஆழமான சுரங்கங்கள் ஆழ்குழிச் சுரங்கங்கள் எனப்படும்; கனிமங்களைப் பிரித்தெடுப்பது சுரங்கத் தொழில்."}
     },
     {
       "topic": "natural-resources-and-agriculture", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 170,
@@ -41,9 +41,9 @@
     {
       "topic": "natural-resources-and-agriculture", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 172,
       "quote": "Jharkhand is the leading producer of iron ore with 25% the country's production. Singhbhum, Hazaribagh, Dhanbad and Ranchi districts are its major producers.",
-      "answer": "B",
-      "en": {"q": "The leading producer of iron ore in India with 25% of the country's production is", "options": ["Odisha", "Jharkhand", "Karnataka", "Chhattisgarh"], "explanation": "Singhbhum, Hazaribagh, Dhanbad and Ranchi are its major producing districts."},
-      "ta": {"q": "நாட்டின் 25% இரும்புத் தாது உற்பத்தியுடன் முன்னணியில் உள்ள மாநிலம் எது?", "options": ["ஒடிசா", "ஜார்கண்ட்", "கர்நாடகம்", "சத்தீஸ்கர்"], "explanation": "சிங்பூம், ஹசாரிபாக், தன்பாத், ராஞ்சி முக்கிய உற்பத்தி மாவட்டங்கள்."}
+      "answer": "A",
+      "en": {"q": "Which state is India's leading producer of iron ore today, accounting for about half of the country's output?", "options": ["Odisha", "Jharkhand", "Karnataka", "Chhattisgarh"], "explanation": "Odisha (Keonjhar, Sundargarh and Mayurbhanj districts) produces about half of India's iron ore, followed by Chhattisgarh, Karnataka and Jharkhand. The book's statement that Jharkhand leads with 25% is out of date; Jharkhand's producing districts are Singhbhum, Hazaribagh, Dhanbad and Ranchi."},
+      "ta": {"q": "இன்று நாட்டின் இரும்புத் தாது உற்பத்தியில் ஏறத்தாழ பாதியைத் தரும் முன்னணி மாநிலம் எது?", "options": ["ஒடிசா", "ஜார்கண்ட்", "கர்நாடகம்", "சத்தீஸ்கர்"], "explanation": "ஒடிசா (கியோஞ்சர், சுந்தர்கர், மயூர்பஞ்ச் மாவட்டங்கள்) இந்தியாவின் இரும்புத் தாதுவில் ஏறத்தாழ பாதியை உற்பத்தி செய்கிறது; சத்தீஸ்கர், கர்நாடகம், ஜார்கண்ட் அடுத்த இடங்களில் உள்ளன. ஜார்கண்ட் 25% உடன் முன்னணி என்ற நூலின் கூற்று காலாவதியானது; ஜார்கண்டின் சிங்பூம், ஹசாரிபாக், தன்பாத், ராஞ்சி முக்கிய உற்பத்தி மாவட்டங்கள்."}
     },
     {
       "topic": "natural-resources-and-agriculture", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 172,
@@ -308,8 +308,8 @@
       "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 180,
       "quote": "Uttar Pradesh is the largest producer of sugar, producing about 50% of the country's total.",
       "answer": "D",
-      "en": {"q": "Uttar Pradesh, the largest sugar producing state, produces about what share of India's sugar?", "options": ["20%", "30%", "40%", "50%"], "explanation": "The sugar industry is the second largest agro-based industry after cotton textiles and is located near the cane-growing areas."},
-      "ta": {"q": "மிகப் பெரிய சர்க்கரை உற்பத்தி மாநிலமான உத்தரப் பிரதேசம் இந்தியச் சர்க்கரையில் ஏறத்தாழ எவ்வளவு பங்கு தருகிறது?", "options": ["20%", "30%", "40%", "50%"], "explanation": "பருத்தி ஜவுளிக்கு அடுத்த இரண்டாவது பெரிய வேளாண் சார்ந்த தொழில்; கரும்பு விளையும் பகுதிகளின் அருகே அமைந்துள்ளது."}
+      "en": {"q": "Uttar Pradesh, the largest sugarcane-growing state, grows about what share of India's sugarcane?", "options": ["20%", "30%", "40%", "50%"], "explanation": "Uttar Pradesh grows roughly half of India's sugarcane. (The book's 50% figure refers to cane, not sugar: UP's share of sugar output is about a third, and Maharashtra has produced more sugar in some recent years.) The sugar industry is the second largest agro-based industry after cotton textiles and is located near the cane-growing areas."},
+      "ta": {"q": "மிகப் பெரிய கரும்பு விளைவிக்கும் மாநிலமான உத்தரப் பிரதேசம் இந்தியக் கரும்பில் ஏறத்தாழ எவ்வளவு பங்கை விளைவிக்கிறது?", "options": ["20%", "30%", "40%", "50%"], "explanation": "உத்தரப் பிரதேசம் இந்தியக் கரும்பில் ஏறத்தாழ பாதியை விளைவிக்கிறது. (நூலின் 50% என்பது கரும்புக்கே, சர்க்கரைக்கு அல்ல: சர்க்கரை உற்பத்தியில் உ.பி.யின் பங்கு ஏறத்தாழ மூன்றில் ஒன்று; சில சமீப ஆண்டுகளில் மகாராஷ்டிரம் அதிகச் சர்க்கரை உற்பத்தி செய்தது.) பருத்தி ஜவுளிக்கு அடுத்த இரண்டாவது பெரிய வேளாண் சார்ந்த தொழில்; கரும்பு விளையும் பகுதிகளின் அருகே அமைந்துள்ளது."}
     },
     {
       "topic": "nature-of-indian-economy-and-planning", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 180,
