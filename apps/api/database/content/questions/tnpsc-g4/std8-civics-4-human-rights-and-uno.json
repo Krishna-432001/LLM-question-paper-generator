@@ -478,22 +478,22 @@
       "en": {
         "q": "Who can be appointed Chairperson of the National Human Rights Commission?",
         "options": [
-          "A retired Chief Justice of India",
+          "A former Chief Justice of India or a former judge of the Supreme Court",
           "A retired judge of a High Court",
           "Any person chosen by the Prime Minister",
           "A sitting Governor"
         ],
-        "explanation": "The NHRC is chaired by a retired Chief Justice of India; its members include a serving or former Supreme Court judge and a serving or former High Court judge."
+        "explanation": "Originally only a retired Chief Justice of India could chair the NHRC; since the 2019 amendment any former Supreme Court judge is also eligible. Its members include a serving or former Supreme Court judge and a serving or former High Court Chief Justice."
       },
       "ta": {
         "q": "தேசிய மனித உரிமைகள் ஆணையத்தின் தலைவராக யார் நியமிக்கப்படலாம்?",
         "options": [
-          "ஓய்வுபெற்ற இந்தியத் தலைமை நீதிபதி",
+          "முன்னாள் இந்தியத் தலைமை நீதிபதி அல்லது முன்னாள் உச்ச நீதிமன்ற நீதிபதி",
           "ஓய்வுபெற்ற உயர் நீதிமன்ற நீதிபதி",
           "பிரதமர் தேர்ந்தெடுக்கும் எவரும்",
           "பதவியிலுள்ள ஆளுநர்"
         ],
-        "explanation": "ஆணையத்தின் தலைவர் ஓய்வுபெற்ற இந்தியத் தலைமை நீதிபதி; உறுப்பினர்களில் உச்ச நீதிமன்ற நீதிபதி ஒருவரும் உயர் நீதிமன்ற நீதிபதி ஒருவரும் (பதவியில் உள்ளவர் அல்லது முன்னாள்) இருப்பர்."
+        "explanation": "முன்பு ஓய்வுபெற்ற இந்தியத் தலைமை நீதிபதி மட்டுமே தலைவராக முடியும்; 2019 திருத்தத்திற்குப் பின் முன்னாள் உச்ச நீதிமன்ற நீதிபதி எவரும் தகுதியானவர். உறுப்பினர்களில் உச்ச நீதிமன்ற நீதிபதி ஒருவரும் உயர் நீதிமன்றத் தலைமை நீதிபதி ஒருவரும் (பதவியில் உள்ளவர் அல்லது முன்னாள்) இருப்பர்."
       }
     },
     {
@@ -505,24 +505,24 @@
       "quote": "The President appoints the Chairperson and other members. They are appointed for 5 years or till the age of 70 years whichever is earlier.",
       "answer": "B",
       "en": {
-        "q": "The Chairperson and members of the National Human Rights Commission are appointed by the President for",
+        "q": "Since the 2019 amendment, the Chairperson and members of the National Human Rights Commission are appointed by the President for",
         "options": [
           "6 years or till the age of 65, whichever is earlier",
-          "5 years or till the age of 70, whichever is earlier",
+          "3 years or till the age of 70, whichever is earlier",
           "5 years or till the age of 62, whichever is earlier",
           "life"
         ],
-        "explanation": "They are appointed by the President, not by the Supreme Court, for five years or until they turn 70."
+        "explanation": "They are appointed by the President, not by the Supreme Court. The book gives the old term of five years; the Protection of Human Rights (Amendment) Act, 2019 reduced it to three years or until the age of 70, with eligibility for reappointment."
       },
       "ta": {
-        "q": "தேசிய மனித உரிமைகள் ஆணையத்தின் தலைவரும் உறுப்பினர்களும் குடியரசுத் தலைவரால் எவ்வளவு காலத்திற்கு நியமிக்கப்படுகின்றனர்?",
+        "q": "2019 திருத்தத்திற்குப் பின், தேசிய மனித உரிமைகள் ஆணையத்தின் தலைவரும் உறுப்பினர்களும் குடியரசுத் தலைவரால் எவ்வளவு காலத்திற்கு நியமிக்கப்படுகின்றனர்?",
         "options": [
           "6 ஆண்டுகள் அல்லது 65 வயது வரை, இவற்றில் எது முந்தையதோ அது",
-          "5 ஆண்டுகள் அல்லது 70 வயது வரை, இவற்றில் எது முந்தையதோ அது",
+          "3 ஆண்டுகள் அல்லது 70 வயது வரை, இவற்றில் எது முந்தையதோ அது",
           "5 ஆண்டுகள் அல்லது 62 வயது வரை, இவற்றில் எது முந்தையதோ அது",
           "வாழ்நாள் முழுவதும்"
         ],
-        "explanation": "அவர்கள் உச்ச நீதிமன்றத்தால் அல்லாமல் குடியரசுத் தலைவரால், ஐந்தாண்டுகள் அல்லது 70 வயது வரை நியமிக்கப்படுகின்றனர்."
+        "explanation": "அவர்கள் உச்ச நீதிமன்றத்தால் அல்லாமல் குடியரசுத் தலைவரால் நியமிக்கப்படுகின்றனர். நூல் பழைய ஐந்தாண்டுப் பதவிக்காலத்தைக் கூறுகிறது; 2019 திருத்தச் சட்டம் அதை மூன்றாண்டுகள் அல்லது 70 வயது வரை எனக் குறைத்தது; மறுநியமனம் செய்யலாம்."
       }
     },
     {
@@ -563,24 +563,24 @@
       "quote": "Deemed Members (Chairpersons of the following National Commissions) National Commission for Minorities National Commission for Scheduled Tribes National Commission for Scheduled Castes National Commission for Women",
       "answer": "D",
       "en": {
-        "q": "The deemed members of the National Human Rights Commission are the Chairpersons of",
+        "q": "The deemed (ex officio) members of the National Human Rights Commission include the Chairpersons of",
         "options": [
           "the Law Commission and the NITI Aayog",
           "the Election Commission and the Finance Commission",
           "the UPSC and the State PSCs",
           "the National Commissions for Minorities, Scheduled Castes, Scheduled Tribes and Women"
         ],
-        "explanation": "Besides the Chairperson, a Supreme Court judge, a High Court judge and two human-rights experts, these four commission chairpersons are deemed members."
+        "explanation": "Since the Protection of Human Rights (Amendment) Act, 2019 the deemed members are the Chairpersons of the National Commissions for Minorities, Scheduled Castes, Scheduled Tribes, Women, Backward Classes and Protection of Child Rights, and the Chief Commissioner for Persons with Disabilities. The Commission also has a Chairperson, a Supreme Court judge, a High Court judge and three expert members."
       },
       "ta": {
-        "q": "தேசிய மனித உரிமைகள் ஆணையத்தின் கருதப்படும் (deemed) உறுப்பினர்கள் யாருடைய தலைவர்கள்?",
+        "q": "தேசிய மனித உரிமைகள் ஆணையத்தின் கருதப்படும் (deemed) உறுப்பினர்களில் அடங்குவோர் யாருடைய தலைவர்கள்?",
         "options": [
           "சட்ட ஆணையம், நிதி ஆயோக்",
           "தேர்தல் ஆணையம், நிதி ஆணையம்",
           "UPSC, மாநிலப் பணியாளர் தேர்வாணையங்கள்",
           "சிறுபான்மையினர், பட்டியல் சாதியினர், பழங்குடியினர், மகளிர் ஆகியோருக்கான தேசிய ஆணையங்கள்"
         ],
-        "explanation": "தலைவர், உச்ச நீதிமன்ற நீதிபதி, உயர் நீதிமன்ற நீதிபதி, இரு மனித உரிமை வல்லுநர்கள் தவிர இந்நான்கு ஆணையங்களின் தலைவர்களும் கருதப்படும் உறுப்பினர்கள்."
+        "explanation": "2019 திருத்தச் சட்டத்திற்குப் பின் சிறுபான்மையினர், பட்டியல் சாதியினர், பழங்குடியினர், மகளிர், பிற்படுத்தப்பட்டோர், குழந்தை உரிமைகள் ஆகிய தேசிய ஆணையங்களின் தலைவர்களும் மாற்றுத்திறனாளிகள் தலைமை ஆணையரும் கருதப்படும் உறுப்பினர்கள். தலைவர், உச்ச நீதிமன்ற நீதிபதி, உயர் நீதிமன்ற நீதிபதி, மூன்று வல்லுநர் உறுப்பினர்களும் ஆணையத்தில் உள்ளனர்."
       }
     },
     {
