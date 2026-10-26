@@ -355,9 +355,36 @@ final class TestController extends Controller
         );
     }
 
+    /**
+     * Set when a paper has fewer questions than were asked for: the bank held
+     * fewer in its topics and language. The paper is still built — the
+     * student may want the eight there are — but it never passes for twenty.
+     *
+     * @return array{asked: int, selected: int, missing: int, message: string}|null
+     */
+    private function shortfall(Test $test): ?array
+    {
+        $asked = (int) ($test->selection_profile['asked'] ?? 0);
+        $selected = (int) $test->question_count;
+
+        if ($asked <= $selected) {
+            return null;
+        }
+
+        return [
+            'asked' => $asked,
+            'selected' => $selected,
+            'missing' => $asked - $selected,
+            'message' => "Short paper: {$asked} questions were asked for, but the question bank has only {$selected} "
+                ."matching this request in the paper's language, so the paper has {$selected}.",
+        ];
+    }
+
     /** @return array<string, mixed> */
     private function shape(Test $test): array
     {
+        $shortfall = $this->shortfall($test);
+
         return [
             'id' => $test->getKey(),
             'title' => $test->title,
@@ -372,6 +399,8 @@ final class TestController extends Controller
             'duration_minutes' => $test->duration_minutes,
             'negative_marking' => $test->negative_marking,
             'selection_profile' => $test->selection_profile,
+            'short_paper' => $shortfall !== null,
+            'shortfall' => $shortfall,
             'blueprint_id' => $test->blueprint_id,
             // A mock in parts, as the paper lays them out: name, questions, marks.
             'sections' => $test->questions

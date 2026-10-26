@@ -99,6 +99,8 @@ final class AssembleExamPatternTestAction
             'type' => $type,
             'title' => $title,
             'question_count' => $shortfall->availableTotal(),
+            // The real paper's length, so a shorter mock is recorded as short.
+            'pattern_total' => $total,
             'blueprint_id' => $blueprint->getKey(),
             'syllabus_version_id' => $blueprint->syllabus_version_id,
             'difficulty_mix' => $blueprint->difficulty_mix,
