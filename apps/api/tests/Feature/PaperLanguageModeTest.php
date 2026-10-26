@@ -316,6 +316,70 @@ final class PaperLanguageModeTest extends TestCase
         });
     }
 
+    public function test_a_bilingual_test_can_be_printed_in_one_of_its_languages(): void
+    {
+        $this->translateToTamil(range(0, 7));
+
+        $testId = $this->createTest([
+            'language_id' => $this->tamil->getKey(),
+            'language_mode' => 'bilingual',
+            'secondary_language_id' => $this->english->getKey(),
+        ])->assertCreated()->json('data.id');
+
+        $tamilOnly = $this->actingAs($this->student)
+            ->postJson("/api/v1/tests/{$testId}/documents", [
+                'types' => ['question_paper'],
+                'language_id' => $this->tamil->getKey(),
+                'language_mode' => 'single',
+            ])
+            ->assertCreated()
+            ->json('data.0.id');
+
+        $englishOnly = $this->actingAs($this->student)
+            ->postJson("/api/v1/tests/{$testId}/documents", [
+                'types' => ['question_paper'],
+                'language_id' => $this->english->getKey(),
+            ])
+            ->assertCreated()
+            ->json('data.0.id');
+
+        $asTaken = $this->actingAs($this->student)
+            ->postJson("/api/v1/tests/{$testId}/documents", ['types' => ['question_paper']])
+            ->assertCreated()
+            ->json('data.0.id');
+
+        TenantContext::withoutTenancy(function () use ($testId, $tamilOnly, $englishOnly, $asTaken): void {
+            $ta = GeneratedDocument::query()->findOrFail($tamilOnly);
+            $en = GeneratedDocument::query()->findOrFail($englishOnly);
+            $both = GeneratedDocument::query()->findOrFail($asTaken);
+
+            $this->assertSame(['ta'], $ta->render_payload['languages']);
+            $this->assertSame(['en'], $en->render_payload['languages']);
+            $this->assertSame(['ta', 'en'], $both->render_payload['languages']);
+            $this->assertStringStartsWith('தமிழ் வினா', $ta->render_payload['questions'][0]['text']);
+            $this->assertStringContainsString('specimen marker', $en->render_payload['questions'][0]['text']);
+            $this->assertCount(3, array_unique([$ta->getKey(), $en->getKey(), $both->getKey()]));
+
+            // Printing in another language never changes the test itself.
+            $test = Test::query()->findOrFail($testId);
+            $this->assertSame('bilingual', $test->language_mode);
+            $this->assertSame($this->tamil->getKey(), $test->language_id);
+        });
+    }
+
+    public function test_a_bilingual_print_needs_its_second_language(): void
+    {
+        $testId = $this->createTest()->assertCreated()->json('data.id');
+
+        $this->actingAs($this->student)
+            ->postJson("/api/v1/tests/{$testId}/documents", [
+                'language_id' => $this->english->getKey(),
+                'language_mode' => 'bilingual',
+            ])
+            ->assertStatus(422)
+            ->assertJsonValidationErrors('secondary_language_id');
+    }
+
     public function test_a_book_becomes_a_bilingual_paper(): void
     {
         [$admin, $book] = $this->adminWithBook();

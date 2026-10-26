@@ -110,6 +110,14 @@ final class PaperText
             default => null,
         };
 
+        // A paper reprinted in one of its languages only, or with the two
+        // swapped, still prints the row that language was assembled with.
+        if ($pinned === null || strtolower((string) $pinned->language_id) !== strtolower((string) $language->getKey())) {
+            $pinned = collect([$testQuestion->translation, $testQuestion->secondaryTranslation])
+                ->first(static fn (?QuestionTranslation $t): bool => $t !== null
+                    && strtolower((string) $t->language_id) === strtolower((string) $language->getKey()));
+        }
+
         if (
             $pinned !== null
             && strtolower((string) $pinned->language_id) === strtolower((string) $language->getKey())

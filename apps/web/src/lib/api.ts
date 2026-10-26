@@ -1191,8 +1191,17 @@ export const plansApi = {
 
 export const documentsApi = {
   list: (subjectId?: string) => api.get<Envelope<DocumentRow[]>>(`/documents${subjectId ? `?subject_id=${subjectId}` : ""}`),
-  generate: (subjectType: "tests" | "study-plans", subjectId: string, types?: string[]) =>
-    api.post<Envelope<DocumentRow[]>>(`/${subjectType}/${subjectId}/documents`, types ? { types } : {}),
+  /** `language` prints a test in other languages than it was taken in; omitted, it prints as taken. */
+  generate: (
+    subjectType: "tests" | "study-plans",
+    subjectId: string,
+    types?: string[],
+    language?: { language_id: string; language_mode: LanguageMode; secondary_language_id?: string },
+  ) =>
+    api.post<Envelope<DocumentRow[]>>(`/${subjectType}/${subjectId}/documents`, {
+      ...(types ? { types } : {}),
+      ...(language ?? {}),
+    }),
 };
 
 // ------------------------------------------------- paper language modes

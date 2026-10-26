@@ -16,6 +16,11 @@ declare(strict_types=1);
 
 return [
 
+    // The student's local day. The app clock stays UTC (stored timestamps
+    // depend on it); only "which plan day is today" is read in this zone, so
+    // a student in India does not see yesterday's plan until 05:30.
+    'student_timezone' => env('EXAMFORGE_STUDENT_TIMEZONE', 'Asia/Kolkata'),
+
     'tenancy' => [
         // Content models where organization_id IS NULL means "platform-owned and
         // readable by every tenant". Private models must never appear here.

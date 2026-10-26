@@ -103,6 +103,13 @@ final class DocumentController extends Controller
             "Unknown export format [{$format}].",
         );
 
+        // A test may be printed in other languages than it was taken in: the
+        // English half of a bilingual paper, or a Tamil copy of an English
+        // one. Only this render sees the change; the test itself is not saved.
+        if ($subject instanceof Test && $request->filled('language_id')) {
+            $subject = $this->printedIn($request, $subject);
+        }
+
         $documents = [];
 
         foreach ($requested as $type) {
@@ -110,6 +117,29 @@ final class DocumentController extends Controller
         }
 
         return response()->json(['data' => $documents], 201);
+    }
+
+    /**
+     * A copy of the test set to print in the requested languages. Questions
+     * whose part is fixed to one language (Group IV Part A in Tamil) keep it.
+     */
+    private function printedIn(Request $request, Test $test): Test
+    {
+        $data = $request->validate([
+            'language_id' => ['required', 'string', 'exists:languages,id'],
+            'language_mode' => ['sometimes', 'in:'.implode(',', Test::LANGUAGE_MODES)],
+            'secondary_language_id' => ['required_if:language_mode,'.Test::MODE_BILINGUAL, 'nullable', 'string', 'exists:languages,id', 'different:language_id'],
+        ]);
+
+        $bilingual = ($data['language_mode'] ?? Test::MODE_SINGLE) === Test::MODE_BILINGUAL;
+        $copy = clone $test;
+        $copy->forceFill([
+            'language_id' => $data['language_id'],
+            'language_mode' => $bilingual ? Test::MODE_BILINGUAL : Test::MODE_SINGLE,
+            'secondary_language_id' => $bilingual ? $data['secondary_language_id'] : null,
+        ]);
+
+        return $copy->unsetRelation('language')->unsetRelation('secondaryLanguage');
     }
 
     public function show(Request $request, string $documentId): JsonResponse

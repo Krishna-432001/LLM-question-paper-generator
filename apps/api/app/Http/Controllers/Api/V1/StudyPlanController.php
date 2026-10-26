@@ -101,7 +101,7 @@ final class StudyPlanController extends Controller
 
         $day = $plan->days()
             ->with('items')
-            ->whereDate('plan_date', now()->toDateString())
+            ->whereDate('plan_date', now(config('examforge.student_timezone'))->toDateString())
             ->first();
 
         if ($day === null) {
@@ -258,7 +258,7 @@ final class StudyPlanController extends Controller
             'exam_id' => $request->string('exam_id')->toString(),
             'language_id' => $request->string('language_id')->toString(),
             'mode' => $mode,
-            'start_date' => $request->input('start_date', now()->toDateString()),
+            'start_date' => $request->input('start_date', now(config('examforge.student_timezone'))->toDateString()),
             'exam_date' => $request->input('exam_date'),
             'hours_per_day' => $request->input('hours_per_day', 4),
             'off_days' => $request->input('off_days', []),

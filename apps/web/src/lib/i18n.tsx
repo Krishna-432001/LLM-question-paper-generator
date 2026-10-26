@@ -147,6 +147,7 @@ const STRINGS = {
     "paper.bothHint": "Every question in both languages, the app's language first.",
     "paper.notEnoughBoth": "Not enough questions exist in both languages yet. Choose one language or ask for fewer questions.",
     "downloads.languageNote": "Each PDF is printed in its test's own language — both languages for a bilingual test.",
+    "downloads.chooseLanguage": "Print in another language (Tamil only, English only or both)",
     // Practice papers (PDF to timed test) — appended block.
     "nav.papers": "Upload paper",
     "papers.title": "Upload a question paper",
@@ -347,6 +348,7 @@ const STRINGS = {
     "paper.bothHint": "ஒவ்வொரு வினாவும் இரு மொழிகளிலும்; செயலியின் மொழி முதலில்.",
     "paper.notEnoughBoth": "இரு மொழிகளிலும் போதுமான வினாக்கள் இன்னும் இல்லை. ஒரு மொழியைத் தேர்ந்தெடுக்கவும் அல்லது குறைவான வினாக்களைக் கேட்கவும்.",
     "downloads.languageNote": "ஒவ்வொரு PDF-உம் அந்தத் தேர்வின் மொழியிலேயே அச்சிடப்படும்; இருமொழித் தேர்வுக்கு இரு மொழிகளிலும்.",
+    "downloads.chooseLanguage": "வேறு மொழியில் அச்சிடு (தமிழ் மட்டும், ஆங்கிலம் மட்டும் அல்லது இரண்டும்)",
     // Practice papers (PDF to timed test) — appended block.
     "nav.papers": "வினாத்தாள் பதிவேற்றம்",
     "papers.title": "வினாத்தாளைப் பதிவேற்று",
