@@ -6,6 +6,7 @@ namespace App\Actions\Plans;
 
 use App\Domain\Plans\DTOs\PlanRequest;
 use App\Domain\Plans\PlanScheduler;
+use App\Domain\Pyq\PyqAnalyzer;
 use App\Models\PlanBlueprint;
 use App\Models\StudyPlan;
 use App\Models\StudyPlanDay;
@@ -17,7 +18,10 @@ use Illuminate\Support\Facades\DB;
 
 final class GenerateStudyPlanAction
 {
-    public function __construct(private readonly PlanScheduler $scheduler) {}
+    public function __construct(
+        private readonly PlanScheduler $scheduler,
+        private readonly PyqAnalyzer $pyq,
+    ) {}
 
     /** @param  array<string, mixed>  $attributes */
     public function execute(array $attributes): StudyPlan
@@ -44,6 +48,10 @@ final class GenerateStudyPlanAction
             hoursPerDay: (float) ($attributes['hours_per_day'] ?? 4),
             offDays: $attributes['off_days'] ?? [],
             masteryByTopic: $this->mastery($attributes),
+            // How often and how lately past papers asked each topic. Empty
+            // until the papers are analysed, and the scheduler then treats
+            // every topic as an even bet.
+            predictionByTopic: $this->pyq->weightsFor($attributes['exam_id']),
             testConfig: $blueprint->test_config,
         );
 

@@ -9,6 +9,7 @@ use App\Models\Exam;
 use App\Models\Language;
 use App\Models\Source;
 use App\Models\StudyPlanItem;
+use App\Models\TopicFrequency;
 use App\Models\User;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\DB;
@@ -123,6 +124,149 @@ final class ExamPrepPlanTest extends TestCase
         // One test a day at most: a cycle or mock day carries nothing else.
         $perDay = array_count_values(array_column($tests, 'day'));
         $this->assertSame(1, max($perDay));
+    }
+
+    public function test_a_plan_of_any_length_has_every_kind_of_test_and_no_empty_day(): void
+    {
+        foreach ([30, 90, 180] as $length) {
+            $plan = $this->plan(days: $length);
+            $kinds = array_count_values(array_map(static fn (array $t): string => (string) $t['kind'], $this->tests($plan)));
+
+            foreach (['daily', 'weekly', 'monthly', 'mock'] as $kind) {
+                $this->assertArrayHasKey($kind, $kinds, "A {$length}-day plan has a {$kind} test.");
+            }
+
+            foreach ($plan['days'] as $day) {
+                $this->assertNotEmpty($day['items'], "Day {$day['day_number']} of a {$length}-day plan is empty.");
+            }
+        }
+    }
+
+    public function test_a_short_plan_still_has_something_on_every_day(): void
+    {
+        foreach ([7, 14] as $length) {
+            $plan = $this->plan(days: $length);
+            $tests = $this->tests($plan);
+
+            $this->assertCount($length, $plan['days']);
+
+            foreach ($plan['days'] as $day) {
+                $this->assertNotEmpty($day['items'], "Day {$day['day_number']} of a {$length}-day plan is empty.");
+            }
+
+            $this->assertSame(1, max(array_count_values(array_column($tests, 'day'))), 'One test a day at most.');
+            $this->assertContains('mock', array_column($tests, 'kind'), "A {$length}-day plan still rehearses the paper.");
+            // Two weeks cannot hold the syllabus, and the plan says so.
+            $this->assertNotEmpty($plan['dropped_topics']);
+        }
+    }
+
+    public function test_every_topic_is_studied_and_the_study_is_spread_over_the_plan(): void
+    {
+        $plan = $this->plan(days: 180);
+        $leaves = TenantContext::withoutTenancy(fn (): int => DB::table('exam_topics')->where('is_leaf', true)->count());
+
+        $firstDay = [];
+        $minutes = [];
+        $lastStudyDay = 0;
+
+        foreach ($plan['days'] as $day) {
+            foreach ($day['items'] as $item) {
+                if ($item['type'] === 'study') {
+                    $firstDay[$item['exam_topic_id']] ??= $day['day_number'];
+                    $minutes[$item['exam_topic_id']] = ($minutes[$item['exam_topic_id']] ?? 0) + $item['minutes'];
+                    $lastStudyDay = $day['day_number'];
+                }
+            }
+        }
+
+        $this->assertSame([], $plan['dropped_topics']);
+        $this->assertCount($leaves, $firstDay, 'Every topic is scheduled.');
+
+        // New material runs through about the first 88% of the plan, not
+        // the first three weeks; the rest is revision.
+        $this->assertGreaterThan(180 * 0.75, max($firstDay), 'Topics are still being started late in the plan.');
+        $this->assertGreaterThanOrEqual((int) (180 * 0.85), $lastStudyDay);
+        $this->assertLessThanOrEqual((int) (180 * 0.9), $lastStudyDay);
+
+        // A Part A (Tamil) topic carries far more of the paper than a General
+        // Studies one, and is given more time for it.
+        $subjectOf = TenantContext::withoutTenancy(fn () => DB::table('exam_topics as t')
+            ->join('exam_units as u', 'u.id', '=', 't.exam_unit_id')
+            ->join('exam_subjects as s', 's.id', '=', 'u.exam_subject_id')
+            ->where('t.is_leaf', true)
+            ->pluck('s.name', 't.id'));
+        $average = static function (string $prefix) use ($minutes, $subjectOf): float {
+            $own = array_filter($minutes, static fn ($id): bool => str_starts_with((string) $subjectOf[$id], $prefix), ARRAY_FILTER_USE_KEY);
+
+            return array_sum($own) / max(1, count($own));
+        };
+
+        $this->assertGreaterThan($average('General Studies'), $average('Part A'));
+    }
+
+    public function test_mocks_are_capped_weekly_at_first_and_every_few_days_at_the_end(): void
+    {
+        foreach ([180 => 10, 365 => 15] as $length => $cap) {
+            $plan = $this->plan(days: $length);
+            $mocks = array_values(array_map(
+                static fn (array $t): int => $t['day'],
+                array_filter($this->tests($plan), static fn (array $t): bool => $t['kind'] === 'mock'),
+            ));
+
+            $this->assertNotEmpty($mocks);
+            $this->assertLessThanOrEqual($cap, count($mocks), "A {$length}-day plan is not a mock every few days.");
+
+            for ($i = 1; $i < count($mocks); $i++) {
+                // Every third day at most in the last three weeks, once a
+                // week before that.
+                $gap = $length - $mocks[$i - 1] < 21 ? 3 : 7;
+                $this->assertGreaterThanOrEqual($gap, $mocks[$i] - $mocks[$i - 1], "Mocks on days {$mocks[$i - 1]} and {$mocks[$i]}.");
+            }
+        }
+
+        $this->assertLessThan(365 - 21, $mocks[0], 'A long plan has weekly mocks before the closing weeks.');
+    }
+
+    public function test_past_paper_weights_raise_a_topics_priority(): void
+    {
+        $studied = static function (array $plan): array {
+            $first = [];
+            $minutes = [];
+
+            foreach ($plan['days'] as $day) {
+                foreach ($day['items'] as $item) {
+                    if ($item['type'] === 'study') {
+                        $first[$item['exam_topic_id']] ??= $day['day_number'];
+                        $minutes[$item['exam_topic_id']] = ($minutes[$item['exam_topic_id']] ?? 0) + $item['minutes'];
+                    }
+                }
+            }
+
+            return [$first, $minutes];
+        };
+
+        [$before, $minutesBefore] = $studied($this->plan(days: 90));
+        $late = array_search(max($before), $before, true);
+
+        // Past papers ask the topic the plan left until last far more often
+        // than any other.
+        TenantContext::withoutTenancy(function () use ($late): void {
+            $topics = DB::table('exam_topics')->where('is_leaf', true)->pluck('canonical_topic_id', 'id');
+
+            foreach ($topics->unique() as $id => $canonical) {
+                TopicFrequency::query()->create([
+                    'exam_id' => $this->exam->getKey(),
+                    'canonical_topic_id' => $canonical,
+                    'frequency_score' => $id === $late ? 1.0 : 0.05,
+                ]);
+            }
+        });
+
+        [$after, $minutesAfter] = $studied($this->plan(days: 90));
+
+        $this->assertSame(1, $after[$late], 'The most-asked topic is studied first.');
+        $this->assertGreaterThan($minutesBefore[$late], $minutesAfter[$late], 'And for longer.');
     }
 
     public function test_an_exam_preparation_plan_needs_the_exam_date(): void
