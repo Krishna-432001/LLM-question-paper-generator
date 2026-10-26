@@ -6,16 +6,18 @@ namespace App\Actions\Tests;
 
 use App\Domain\Pyq\PyqAnalyzer;
 use App\Domain\Tests\DTOs\SelectionSpec;
+use App\Domain\Tests\Exceptions\NotEnoughQuestions;
 use App\Domain\Tests\PaperText;
 use App\Domain\Tests\SelectionEngine;
+use App\Models\ExamBlueprint;
 use App\Models\Language;
 use App\Models\Question;
 use App\Models\Test;
 use App\Models\TestQuestion;
 use App\Models\TopicMastery;
 use Illuminate\Database\Eloquent\Collection as EloquentCollection;
+use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\DB;
-use App\Domain\Tests\Exceptions\NotEnoughQuestions;
 use Symfony\Component\HttpKernel\Exception\UnprocessableEntityHttpException;
 
 /**
@@ -24,6 +26,16 @@ use Symfony\Component\HttpKernel\Exception\UnprocessableEntityHttpException;
  */
 final class AssembleTestAction
 {
+    /**
+     * Per exam, read once per assembly: a mock asks for each of its parts.
+     *
+     * @var array<string, array{weights: array<string, float>, shares: array<string, float>}>
+     */
+    private array $syllabi = [];
+
+    /** @var array<string, array<string, string>> */
+    private array $fixedLanguages = [];
+
     public function __construct(
         private readonly SelectionEngine $engine,
         private readonly PyqAnalyzer $pyq,
@@ -34,6 +46,9 @@ final class AssembleTestAction
      */
     public function execute(array $attributes): Test
     {
+        // One seed for the whole paper, recorded on it: a paper can be
+        // rebuilt exactly, and the next one asked for differs.
+        $attributes['seed'] = (int) ($attributes['seed'] ?? random_int(1, 2_147_483_647));
         $spec = $this->specFor($attributes);
 
         // A bilingual paper is refused rather than shortened. A student who
@@ -80,11 +95,16 @@ final class AssembleTestAction
                 'duration_minutes' => $attributes['duration_minutes'] ?? null,
                 'negative_marking' => $attributes['negative_marking'] ?? 0,
                 'difficulty_mix' => $spec->difficultyMix,
-                // Recording the weights makes an assembly reproducible and
-                // explainable months later — per part, for a paper in parts.
+                // Recording the weights and the seed makes an assembly
+                // reproducible and explainable months later — per part, for a
+                // paper in parts. What the paper could not be given is kept
+                // too, so a short paper says so instead of passing as whole.
                 'selection_profile' => isset($attributes['sections'])
                     ? [
                         'weights' => $parts[0]['profile'] ?? [],
+                        'seed' => $attributes['seed'],
+                        'asked' => (int) ($attributes['pattern_total'] ?? array_sum(array_column($parts, 'asked'))),
+                        'selected' => $questions->count(),
                         'sections' => array_map(static fn (array $part): array => [
                             'name' => $part['name'],
                             'asked' => $part['asked'],
@@ -92,7 +112,15 @@ final class AssembleTestAction
                             'gaps' => $part['gaps'],
                         ], $parts),
                     ]
-                    : ($parts[0]['profile'] ?? []),
+                    // The weights stay at the top level, where papers
+                    // assembled before gaps were recorded keep them.
+                    : [
+                        ...($parts[0]['profile'] ?? []),
+                        'seed' => $attributes['seed'],
+                        'asked' => $spec->questionCount,
+                        'selected' => $questions->count(),
+                        'gaps' => $parts[0]['gaps'] ?? [],
+                    ],
                 'status' => $questions->isEmpty() ? 'failed' : 'ready',
             ]);
 
@@ -100,6 +128,10 @@ final class AssembleTestAction
 
             foreach ($parts as $part) {
                 foreach ($part['questions'] as $question) {
+                    // A topic always set in one language (Part A) is printed
+                    // in that language alone, on a paper of any language.
+                    $fixed = $part['fixed_language_id'] ?? ($part['fixed_languages'][(string) $question->getKey()] ?? null);
+
                     TestQuestion::query()->create([
                         'test_id' => $test->getKey(),
                         'question_id' => $question->getKey(),
@@ -111,11 +143,11 @@ final class AssembleTestAction
                         // what a student answered and what was printed cannot
                         // drift apart when a translation is later revised. A
                         // part set in one language pins that language alone.
-                        'question_translation_id' => PaperText::usableTranslation($question, $part['language_id'])?->getKey(),
-                        'secondary_question_translation_id' => $part['secondary_language_id'] === null
+                        'question_translation_id' => PaperText::usableTranslation($question, $fixed ?? $part['language_id'])?->getKey(),
+                        'secondary_question_translation_id' => $part['secondary_language_id'] === null || $fixed !== null
                             ? null
                             : PaperText::usableTranslation($question, $part['secondary_language_id'])?->getKey(),
-                        'fixed_language_id' => $part['fixed_language_id'],
+                        'fixed_language_id' => $fixed,
                         'sequence' => $sequence++,
                         'section' => $part['name'],
                         'marks' => $part['marks'],
@@ -142,12 +174,13 @@ final class AssembleTestAction
      * has one, and never repeating a question an earlier part took.
      *
      * @param  array<string, mixed>  $attributes
-     * @return list<array{name: ?string, asked: int, marks: float, language_id: string, secondary_language_id: ?string, fixed_language_id: ?string, questions: \Illuminate\Support\Collection<int, Question>, profile: array<string, float>, gaps: list<array<string, mixed>>}>
+     * @return list<array{name: ?string, asked: int, marks: float, language_id: string, secondary_language_id: ?string, fixed_language_id: ?string, questions: Collection<int, Question>, profile: array<string, float>, gaps: list<array<string, mixed>>}>
      */
     private function selectParts(array $attributes, SelectionSpec $spec): array
     {
         if (! isset($attributes['sections'])) {
             $selection = $this->engine->select($spec);
+            $fixed = $selection['fixed_languages'];
 
             return [[
                 'name' => null,
@@ -156,7 +189,12 @@ final class AssembleTestAction
                 'language_id' => $spec->languageId,
                 'secondary_language_id' => $spec->secondaryLanguageId,
                 'fixed_language_id' => null,
-                'questions' => $selection['questions'],
+                'fixed_languages' => $fixed,
+                // Questions set in their own language (Part A) come first, as
+                // on the real paper.
+                'questions' => $selection['questions']
+                    ->sortBy(static fn (Question $q, int $i): int => (isset($fixed[(string) $q->getKey()]) ? 0 : 1_000_000) + $i)
+                    ->values(),
                 'profile' => $selection['profile'],
                 'gaps' => $selection['gaps'],
             ]];
@@ -193,6 +231,7 @@ final class AssembleTestAction
                 'language_id' => $partSpec->languageId,
                 'secondary_language_id' => $partSpec->secondaryLanguageId,
                 'fixed_language_id' => $fixed,
+                'fixed_languages' => [],
                 'questions' => $selection['questions'],
                 'profile' => $selection['profile'],
                 'gaps' => $selection['gaps'],
@@ -220,6 +259,9 @@ final class AssembleTestAction
      */
     private function specFor(array $attributes, bool $withWeights = true): SelectionSpec
     {
+        $examId = isset($attributes['exam_id']) ? (string) $attributes['exam_id'] : null;
+        $secondary = $this->secondaryLanguageFor($attributes);
+
         return new SelectionSpec(
             testType: $attributes['type'] ?? 'custom',
             // Lower-cased: PHP compares uuids as strings, Postgres does not,
@@ -244,11 +286,80 @@ final class AssembleTestAction
             // to a constant says every unit is worth the same share of the
             // paper, which for TNPSC Group IV is wrong by a factor of three
             // between Polity and General Science.
-            syllabusWeightByTopic: $withWeights && isset($attributes['exam_id'])
-                ? $this->syllabusWeights((string) $attributes['exam_id'])
+            syllabusWeightByTopic: $withWeights && $examId !== null
+                ? $this->syllabus($examId)['weights']
                 : [],
-            secondaryLanguageId: $this->secondaryLanguageFor($attributes),
+            secondaryLanguageId: $secondary,
+            // What the paper's questions are divided by, topic by topic.
+            topicShareByTopic: $withWeights && $examId !== null
+                ? $this->syllabus($examId)['shares']
+                : [],
+            // A plan, topic or custom test follows the exam's language rule
+            // as a mock does: an English paper's Part A topics are set in
+            // Tamil. A paper in parts carries the rule on each part already,
+            // and a book's paper is printed in the language asked for.
+            languageByTopic: $withWeights && $examId !== null && $secondary === null
+                && ! isset($attributes['sections']) && empty($attributes['source_id'])
+                ? $this->fixedLanguageTopics($examId)
+                : [],
+            seed: isset($attributes['seed']) ? (int) $attributes['seed'] : null,
         );
+    }
+
+    /**
+     * Topics the exam always sets in one language, whatever the paper's:
+     * those of a blueprint part that has its own language (TNPSC Group IV
+     * Part A, Tamil). A topic also filed under a part without one is left to
+     * the paper's language.
+     *
+     * @return array<string, string> canonical topic id => language id
+     */
+    private function fixedLanguageTopics(string $examId): array
+    {
+        if (isset($this->fixedLanguages[$examId])) {
+            return $this->fixedLanguages[$examId];
+        }
+
+        // The exam's pattern in force, chosen as the full mock chooses it.
+        $blueprint = ExamBlueprint::query()
+            ->whereHas('examPaper.examStage.examVersion', static fn ($v) => $v
+                ->where('exam_id', $examId)
+                ->where('status', 'active'))
+            ->with('sections')
+            ->orderByDesc('is_default')
+            ->orderBy('created_at')
+            ->first();
+
+        $languageOf = $blueprint?->sections
+            ->filter(static fn ($s): bool => $s->language_id !== null && $s->exam_subject_id !== null)
+            ->mapWithKeys(static fn ($s): array => [strtolower((string) $s->exam_subject_id) => strtolower((string) $s->language_id)])
+            ->all() ?? [];
+
+        if ($languageOf === []) {
+            return $this->fixedLanguages[$examId] = [];
+        }
+
+        $fixed = [];
+        $free = [];
+
+        $rows = DB::table('exam_topics as t')
+            ->join('exam_units as u', 'u.id', '=', 't.exam_unit_id')
+            ->where('t.syllabus_version_id', $blueprint->syllabus_version_id)
+            ->whereNotNull('t.canonical_topic_id')
+            ->get(['t.canonical_topic_id', 'u.exam_subject_id']);
+
+        foreach ($rows as $row) {
+            $topic = strtolower((string) $row->canonical_topic_id);
+            $language = $languageOf[strtolower((string) $row->exam_subject_id)] ?? null;
+
+            if ($language !== null) {
+                $fixed[$topic] = $language;
+            } else {
+                $free[$topic] = true;
+            }
+        }
+
+        return $this->fixedLanguages[$examId] = array_diff_key($fixed, $free);
     }
 
     /**
@@ -302,15 +413,28 @@ final class AssembleTestAction
     }
 
     /**
-     * Each topic's share of the paper, taken from its unit's blueprint weight.
+     * Each topic's weight in the paper, taken from its unit's blueprint
+     * weight, in the two forms the engine reads.
      *
-     * Normalised against the heaviest unit rather than used raw: the engine
-     * multiplies this by a profile weight alongside quality and prediction, and
-     * raw shares (0.05..0.25) would make the whole term almost inert.
+     * `weights` is the unit's weight normalised against the heaviest unit
+     * rather than used raw: the engine multiplies it by a profile weight
+     * alongside quality and prediction, and raw shares (0.05..0.25) would make
+     * the whole term almost inert.
      *
-     * @return array<string, float>
+     * `shares` is the topic's own share of the paper: its unit's weight split
+     * evenly over the unit's topics. It is what a paper's questions are
+     * divided by, so Aptitude's six topics share Aptitude's 25 of 200 between
+     * them rather than taking 25 each.
+     *
+     * @return array{weights: array<string, float>, shares: array<string, float>}
      */
-    private function syllabusWeights(string $examId): array
+    private function syllabus(string $examId): array
+    {
+        return $this->syllabi[$examId] ??= $this->loadSyllabus($examId);
+    }
+
+    /** @return array{weights: array<string, float>, shares: array<string, float>} */
+    private function loadSyllabus(string $examId): array
     {
         $rows = DB::table('exam_topics as t')
             ->join('exam_units as u', 'u.id', '=', 't.exam_unit_id')
@@ -322,22 +446,33 @@ final class AssembleTestAction
             // otherwise be averaged in with the current ones.
             ->where('v.status', 'active')
             ->whereNotNull('t.canonical_topic_id')
-            ->select('t.canonical_topic_id', 'u.weight')
+            ->select('t.canonical_topic_id', 't.exam_unit_id', 'u.weight')
             ->get();
 
         if ($rows->isEmpty()) {
-            return [];
+            return ['weights' => [], 'shares' => []];
         }
 
         $heaviest = max($rows->pluck('weight')->map(static fn ($w): float => (float) $w)->all()) ?: 1.0;
+        $topicsInUnit = $rows->groupBy('exam_unit_id')->map(static fn ($unit): int => $unit->pluck('canonical_topic_id')->unique()->count());
 
         $weights = [];
+        $shares = [];
+        $counted = [];
 
         foreach ($rows as $row) {
-            $weights[(string) $row->canonical_topic_id] = round((float) $row->weight / $heaviest, 4);
+            $topic = strtolower((string) $row->canonical_topic_id);
+            $weights[$topic] = round((float) $row->weight / $heaviest, 4);
+
+            // A topic filed twice under one unit is counted once; a topic
+            // under two units takes a share of each.
+            if (! isset($counted[$row->exam_unit_id][$topic])) {
+                $counted[$row->exam_unit_id][$topic] = true;
+                $shares[$topic] = ($shares[$topic] ?? 0.0) + (float) $row->weight / max(1, $topicsInUnit[$row->exam_unit_id]);
+            }
         }
 
-        return $weights;
+        return ['weights' => $weights, 'shares' => $shares];
     }
 
     /**

@@ -13,6 +13,8 @@ final class SelectionSpec
      * @param  array<string, float>  $masteryByTopic
      * @param  array<string, float>  $predictionByTopic
      * @param  array<string, float>  $syllabusWeightByTopic
+     * @param  array<string, float>  $topicShareByTopic
+     * @param  array<string, string>  $languageByTopic
      */
     public function __construct(
         public readonly string $testType,
@@ -33,5 +35,22 @@ final class SelectionSpec
          * this language, not only in $languageId.
          */
         public readonly ?string $secondaryLanguageId = null,
+        /**
+         * Each topic's share of the exam paper (its unit's weight split over
+         * the unit's topics). What the paper's questions are divided by; empty
+         * means every topic in scope gets an equal share.
+         */
+        public readonly array $topicShareByTopic = [],
+        /**
+         * Topics always set in one language whatever the paper's (TNPSC
+         * Group IV Part A is Tamil): drawn and printed in that language alone.
+         */
+        public readonly array $languageByTopic = [],
+        /**
+         * Orders questions that are otherwise equal (served as often) and
+         * picks topics when there are more topics than questions. Recorded on
+         * the test so the paper can be rebuilt; derived from the spec if null.
+         */
+        public readonly ?int $seed = null,
     ) {}
 }

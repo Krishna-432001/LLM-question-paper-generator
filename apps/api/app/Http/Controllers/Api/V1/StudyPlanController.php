@@ -241,7 +241,13 @@ final class StudyPlanController extends Controller
         $day->forceFill(['test_id' => $test->getKey()])->save();
 
         return response()->json([
-            'data' => ['test_id' => $test->getKey(), 'created' => true],
+            'data' => [
+                'test_id' => $test->getKey(),
+                'created' => true,
+                // Fewer questions than the plan asked for: the topics studied
+                // hold no more yet. The test is still worth sitting.
+                'short_paper' => (int) $test->question_count < (int) ($test->selection_profile['asked'] ?? 0),
+            ],
         ], 201);
     }
 
