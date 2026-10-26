@@ -316,9 +316,16 @@ final class ExamPrepPlanTest extends TestCase
         $day = collect($plan['days'])->first(fn (array $d): bool => collect($d['items'])->contains('test_kind', 'daily'));
         $dayId = TenantContext::withoutTenancy(fn () => DB::table('study_plan_days')->where('study_plan_id', $plan['id'])->where('day_number', $day['day_number'])->value('id'));
 
-        // Questions only on a topic the plan never schedules that day.
+        // Questions only on a topic the plan never schedules that day. Not a
+        // Part A topic: those are served in Tamil, and these questions are English.
         $studied = TenantContext::withoutTenancy(fn () => StudyPlanItem::query()->where('study_plan_day_id', $dayId)->pluck('canonical_topic_id')->filter()->all());
-        $elsewhere = TenantContext::withoutTenancy(fn () => DB::table('exam_topics')->whereNotNull('canonical_topic_id')->whereNotIn('canonical_topic_id', $studied)->value('canonical_topic_id'));
+        $tamilOnly = TenantContext::withoutTenancy(fn () => DB::table('blueprint_sections')->whereNotNull('language_id')->whereNotNull('exam_subject_id')->pluck('exam_subject_id')->all());
+        $elsewhere = TenantContext::withoutTenancy(fn () => DB::table('exam_topics as t')
+            ->join('exam_units as u', 'u.id', '=', 't.exam_unit_id')
+            ->whereNotNull('t.canonical_topic_id')
+            ->whereNotIn('t.canonical_topic_id', $studied)
+            ->where(fn ($q) => $q->whereNull('u.exam_subject_id')->orWhereNotIn('u.exam_subject_id', $tamilOnly))
+            ->value('t.canonical_topic_id'));
         $this->questionsOn((string) $elsewhere, 10);
 
         $this->actingAs($this->student)
