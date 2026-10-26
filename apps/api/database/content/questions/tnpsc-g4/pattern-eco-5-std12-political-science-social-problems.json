@@ -1,0 +1,94 @@
+{
+ "exam": "TNPSC_G4",
+ "source": "Std 12 Political Science Term-Full (English)",
+ "breadcrumb": "Std 12 Political Science (English) — TNPSC Pattern: Indian Economy & Development Administration in TN — Social problems: population, education, health, employment, poverty",
+ "questions": [
+  {
+   "topic": "nature-of-indian-economy-and-planning",
+   "format": "statement_based",
+   "difficulty": "medium",
+   "bloom": "understand",
+   "page": 166,
+   "quote": "With the 2018 estimates, the MPI measures acute multidimensional deprivations in 105 countries covering 77 percent of the global population. ... It identifies how people are being left behind across three key dimensions: health, education and standard of living, comprising 10 indicators. People who experience deprivation in at least one third of these weighted indicators fall into the category of multidimensionally poor.",
+   "answer": "D",
+   "en": {
+    "q": "Consider the following statements about the 2018 global Multidimensional Poverty Index (MPI), as given in the textbook:\n(i) It looks at three dimensions – health, education and standard of living.\n(ii) People deprived in at least one-third of the weighted indicators are counted as multidimensionally poor.\n(iii) The 2018 estimates covered 105 countries with 77 per cent of the global population.\n(iv) It comprises 12 indicators.\nWhich of the statements given above is/are correct?",
+    "options": [
+     "(i) and (iv) only",
+     "(ii), (iii) and (iv) only",
+     "(ii) and (iii) only",
+     "(i), (ii) and (iii) only"
+    ],
+    "explanation": "(iv) is wrong: the three dimensions comprise 10 indicators (two each for health and education, six for standard of living)."
+   },
+   "ta": {
+    "q": "பாடநூலின்படி 2018 உலகளாவிய பல பரிமாண வறுமைக் குறியீடு (MPI) பற்றிய பின்வரும் கூற்றுகளைக் கவனி:\n(i) இது உடல்நலம், கல்வி, வாழ்க்கைத் தரம் ஆகிய மூன்று பரிமாணங்களைக் கணக்கில் கொள்கிறது.\n(ii) எடையிடப்பட்ட குறிகாட்டிகளில் குறைந்தது மூன்றில் ஒரு பங்கில் இழப்புக்கு உள்ளானோர் பல பரிமாண ஏழைகளாகக் கருதப்படுவர்.\n(iii) 2018 மதிப்பீடுகள் உலக மக்கள்தொகையில் 77 சதவீதத்தைக் கொண்ட 105 நாடுகளை உள்ளடக்கின.\n(iv) இது 12 குறிகாட்டிகளைக் கொண்டது.\nமேற்கண்ட கூற்றுகளில் சரியானது/சரியானவை எது/எவை?",
+    "options": [
+     "(i), (iv) மட்டும்",
+     "(ii), (iii), (iv) மட்டும்",
+     "(ii), (iii) மட்டும்",
+     "(i), (ii), (iii) மட்டும்"
+    ],
+    "explanation": "(iv) தவறு: மூன்று பரிமாணங்களிலும் சேர்ந்து 10 குறிகாட்டிகள் உள்ளன (உடல்நலம், கல்விக்கு தலா இரண்டு; வாழ்க்கைத் தரத்துக்கு ஆறு)."
+   }
+  },
+  {
+   "topic": "nature-of-indian-economy-and-planning",
+   "format": "mcq4",
+   "difficulty": "medium",
+   "bloom": "remember",
+   "page": 166,
+   "quote": "Health Nutrition ... Child mortality ... Education Years of schooling ... School attendance ... Standard of living Cooking Fuel The household cooks with dung, wood, charcoal or coal. ... Sanitation ... Drinking Water ... Electricity ... Housing ... Assets",
+   "answer": "B",
+   "en": {
+    "q": "In the 2018 global MPI described in the textbook, which of the following indicator–dimension pairs is correctly matched?",
+    "options": [
+     "Child mortality – Education",
+     "Cooking fuel – Standard of living",
+     "School attendance – Health",
+     "Nutrition – Standard of living"
+    ],
+    "explanation": "Health has nutrition and child mortality; education has years of schooling and school attendance; standard of living has cooking fuel, sanitation, drinking water, electricity, housing and assets."
+   },
+   "ta": {
+    "q": "பாடநூல் விவரிக்கும் 2018 உலகளாவிய பல பரிமாண வறுமைக் குறியீட்டில், சரியாகப் பொருந்தியுள்ள குறிகாட்டி–பரிமாண இணை எது?",
+    "options": [
+     "குழந்தை இறப்பு – கல்வி",
+     "சமையல் எரிபொருள் – வாழ்க்கைத் தரம்",
+     "பள்ளி வருகை – உடல்நலம்",
+     "ஊட்டச்சத்து – வாழ்க்கைத் தரம்"
+    ],
+    "explanation": "உடல்நலம்: ஊட்டச்சத்து, குழந்தை இறப்பு; கல்வி: பள்ளிப் படிப்பு ஆண்டுகள், பள்ளி வருகை; வாழ்க்கைத் தரம்: சமையல் எரிபொருள், சுகாதார வசதி, குடிநீர், மின்சாரம், வீடு, சொத்துகள்."
+   }
+  },
+  {
+   "topic": "nature-of-indian-economy-and-planning",
+   "format": "mcq4",
+   "difficulty": "hard",
+   "bloom": "remember",
+   "page": 166,
+   "quote": "2018 MPI: dimensions, indicators, deprivation cutoffs, and weights ... Nutrition ... 1/6 ... Child mortality ... 1/6 ... Years of schooling ... 1/6 ... School attendance ... 1/6 ... Cooking Fuel ... 1/18 ... Sanitation ... 1/18",
+   "answer": "D",
+   "en": {
+    "q": "In the 2018 global MPI described in the textbook, each indicator under the health and education dimensions carries a weight of",
+    "options": [
+     "1/18",
+     "1/3",
+     "1/10",
+     "1/6"
+    ],
+    "explanation": "Each dimension weighs 1/3: health and education have two indicators each (1/6 apiece), while standard of living has six indicators (1/18 apiece)."
+   },
+   "ta": {
+    "q": "பாடநூல் விவரிக்கும் 2018 உலகளாவிய பல பரிமாண வறுமைக் குறியீட்டில், உடல்நலம், கல்வி பரிமாணங்களின் ஒவ்வொரு குறிகாட்டிக்கும் உள்ள எடை",
+    "options": [
+     "1/18",
+     "1/3",
+     "1/10",
+     "1/6"
+    ],
+    "explanation": "ஒவ்வொரு பரிமாணத்துக்கும் எடை 1/3: உடல்நலம், கல்வி ஒவ்வொன்றிலும் இரண்டு குறிகாட்டிகள் (தலா 1/6); வாழ்க்கைத் தரத்தில் ஆறு குறிகாட்டிகள் (தலா 1/18)."
+   }
+  }
+ ]
+}
