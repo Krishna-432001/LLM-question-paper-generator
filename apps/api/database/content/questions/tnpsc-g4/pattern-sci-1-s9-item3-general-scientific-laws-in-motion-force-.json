@@ -1,0 +1,94 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 9 Science Term-Full (English)",
+  "breadcrumb": "Std 9 Science (English) — TNPSC Pattern: I General Science — General scientific laws in motion; force, pressure and energy",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 35,
+      "quote": "Pascal's law states that an increase in pressure at any point inside a liquid at rest is transmitted equally and without any change, in all directions to every other point in the liquid.",
+      "answer": "A",
+      "en": {
+        "q": "Consider the following statements:\n(i) According to Pascal's law, an increase in pressure at any point in a liquid at rest is transmitted equally in all directions through the liquid.\n(ii) A hydraulic lift works on Pascal's law.\n(iii) The SI unit of pressure is the newton.\n(iv) A barometer is used to measure the pressure of liquids.\nWhich of the statements given above are correct?",
+        "options": [
+          "(i) and (ii) only",
+          "(ii) and (iv) only",
+          "(i), (iii) and (iv) only",
+          "(iii) and (iv) only"
+        ],
+        "explanation": "Statements (i) and (ii) are correct. The SI unit of pressure is the pascal (N m⁻²); the newton is the unit of force, so (iii) is false. A barometer measures atmospheric pressure, so (iv) is false."
+      },
+      "ta": {
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக:\n(i) பாஸ்கல் விதிப்படி, ஓய்வில் உள்ள திரவத்தின் ஒரு புள்ளியில் ஏற்படும் அழுத்த உயர்வு, திரவத்தின் எல்லாத் திசைகளிலும் சமமாகக் கடத்தப்படுகிறது.\n(ii) நீரியல் உயர்த்தி பாஸ்கல் விதியின்படி செயல்படுகிறது.\n(iii) அழுத்தத்தின் SI அலகு நியூட்டன்.\n(iv) திரவங்களின் அழுத்தத்தை அளவிட காற்றழுத்தமானி பயன்படுகிறது.\nமேற்கண்ட கூற்றுகளில் சரியானவை எவை?",
+        "options": [
+          "(i), (ii) மட்டும்",
+          "(ii), (iv) மட்டும்",
+          "(i), (iii), (iv) மட்டும்",
+          "(iii), (iv) மட்டும்"
+        ],
+        "explanation": "(i), (ii) சரி. அழுத்தத்தின் SI அலகு பாஸ்கல் (N m⁻²); நியூட்டன் விசையின் அலகு; எனவே (iii) தவறு. காற்றழுத்தமானி வளிமண்டல அழுத்தத்தை அளக்கிறது; எனவே (iv) தவறு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "analyze",
+      "page": 35,
+      "quote": "Archimedes' principle states that when a body is partially or wholly immersed in a fluid, it experiences an up thrust or apparent lose of weight",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: A stone appears lighter when it is immersed in water.\nReason [R]: The water exerts an upward thrust on the immersed stone.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Both are true and [R] explains [A]: according to Archimedes' principle a body immersed in a fluid experiences an upthrust, which causes an apparent loss of weight."
+      },
+      "ta": {
+        "q": "கூற்று [A]: நீரில் மூழ்கிய கல் இலேசாகத் தோன்றுகிறது.\nகாரணம் [R]: நீர் மூழ்கிய கல்லின் மீது மேல்நோக்கிய உந்துவிசையைச் செலுத்துகிறது.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம். ஆர்க்கிமிடீஸ் தத்துவப்படி, பாய்மத்தில் மூழ்கிய பொருள் மேல்நோக்கிய உந்துவிசையை உணர்வதால் அதன் எடை குறைந்தது போல் தோன்றுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 21,
+      "quote": "For a freely falling body which is initially at rest, u = 0. Thus we get the following equations.",
+      "answer": "B",
+      "en": {
+        "q": "A stone is dropped from rest. Taking g = 9.8 m s⁻², its velocity after 2 s of free fall is",
+        "options": [
+          "9.8 m s⁻¹",
+          "19.6 m s⁻¹",
+          "4.9 m s⁻¹",
+          "39.2 m s⁻¹"
+        ],
+        "explanation": "For a freely falling body starting from rest, v = gt = 9.8 × 2 = 19.6 m s⁻¹."
+      },
+      "ta": {
+        "q": "ஒரு கல் ஓய்வு நிலையிலிருந்து கீழே விடப்படுகிறது. g = 9.8 மீ வி⁻² எனக் கொண்டால், 2 வினாடி கழித்து அதன் திசைவேகம்",
+        "options": [
+          "9.8 மீ வி⁻¹",
+          "19.6 மீ வி⁻¹",
+          "4.9 மீ வி⁻¹",
+          "39.2 மீ வி⁻¹"
+        ],
+        "explanation": "ஓய்விலிருந்து தடையின்றி விழும் பொருளுக்கு v = gt = 9.8 × 2 = 19.6 மீ வி⁻¹."
+      }
+    }
+  ]
+}

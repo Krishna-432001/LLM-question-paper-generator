@@ -1,0 +1,500 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 10 Science Term-Full (English)",
+  "breadcrumb": "Std 10 Science (English) — TNPSC Pattern: I General Science — Everyday application of mechanics, electricity, magnetism, light, sound, heat and nuclear physics",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 23,
+      "quote": "Power of a lens is numerically defined as the reciprocal of its focal length. The SI unit of power of a lens is dioptre.",
+      "answer": "D",
+      "en": {
+        "q": "A concave lens has a focal length of 0.5 m. Its power is",
+        "options": [
+          "−0.5 D",
+          "+2 D",
+          "+0.5 D",
+          "−2 D"
+        ],
+        "explanation": "Power P = 1/f with f in metres. For a concave lens the focal length (and power) is negative, so P = 1 / (−0.5) = −2 D."
+      },
+      "ta": {
+        "q": "ஒரு குழிலென்சின் குவியத்தூரம் 0.5 மீ. அதன் திறன்",
+        "options": [
+          "−0.5 D",
+          "+2 D",
+          "+0.5 D",
+          "−2 D"
+        ],
+        "explanation": "திறன் P = 1/f (f மீட்டரில்). குழிலென்சுக்குக் குவியத்தூரமும் திறனும் எதிர்மதிப்பு; எனவே P = 1 / (−0.5) = −2 D."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 26,
+      "quote": "Astigmatism can be corrected by using cylindrical lenses.",
+      "answer": "C",
+      "en": {
+        "q": "Match List I with List II and choose the correct code:\nList I\na) Myopia\nb) Hypermetropia\nc) Presbyopia\nd) Astigmatism\nList II\n1. Corrected using a convex lens\n2. Corrected using a concave lens\n3. Corrected using cylindrical lenses\n4. Eye lens loses flexibility due to ageing",
+        "options": [
+          "a-3 b-2 c-1 d-4",
+          "a-4 b-2 c-1 d-3",
+          "a-2 b-1 c-4 d-3",
+          "a-2 b-3 c-1 d-4"
+        ],
+        "explanation": "Myopia is corrected by a concave lens, hypermetropia by a convex lens, presbyopia arises when ageing makes the eye lens rigid, and astigmatism is corrected by cylindrical lenses."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐ பட்டியல் II-உடன் பொருத்தி, சரியான குறியீட்டைத் தேர்ந்தெடுக்கவும்:\nபட்டியல் I\na) கிட்டப்பார்வை (மையோபியா)\nb) தூரப்பார்வை (ஹைப்பர்மெட்ரோபியா)\nc) முதியோர் பார்வை (பிரெஸ்பியோபியா)\nd) சிதறல் பார்வை (ஆஸ்டிக்மாடிசம்)\nபட்டியல் II\n1. குவிலென்சால் சரிசெய்யப்படுகிறது\n2. குழிலென்சால் சரிசெய்யப்படுகிறது\n3. உருளை லென்சால் சரிசெய்யப்படுகிறது\n4. வயதானதால் கண்ணின் லென்ஸ் நெகிழ்வை இழக்கிறது",
+        "options": [
+          "a-3 b-2 c-1 d-4",
+          "a-4 b-2 c-1 d-3",
+          "a-2 b-1 c-4 d-3",
+          "a-2 b-3 c-1 d-4"
+        ],
+        "explanation": "கிட்டப்பார்வை குழிலென்சாலும், தூரப்பார்வை குவிலென்சாலும் சரிசெய்யப்படுகின்றன. முதுமையில் கண்ணாடி லென்ஸ் நெகிழ்வை இழந்தால் முதியோர் பார்வை ஏற்படும். சிதறல் பார்வை (ஆஸ்டிக்மாடிசம்) உருளை லென்சால் சரிசெய்யப்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "analyze",
+      "page": 18,
+      "quote": "When sunlight passes through the atmosphere, the blue colour (shorter wavelength) is scattered to a greater extent than the red colour (longer wavelength). This scattering causes the sky to appear in blue colour.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: The sky appears blue during the day.\nReason [R]: Blue light, having a shorter wavelength, is scattered by the atmospheric gases more than red light.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Both are true and [R] explains [A]: by Rayleigh's law the amount of scattering is inversely proportional to the fourth power of the wavelength, so blue light is scattered most and makes the sky look blue."
+      },
+      "ta": {
+        "q": "கூற்று [A]: பகலில் வானம் நீல நிறமாகத் தோன்றுகிறது.\nகாரணம் [R]: குறைந்த அலைநீளமுடைய நீல ஒளி, சிவப்பு ஒளியை விட வளிமண்டல வாயுக்களால் அதிகமாகச் சிதறடிக்கப்படுகிறது.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம். ரேலே விதிப்படி சிதறல் அளவு அலைநீளத்தின் நான்காம் அடுக்குக்கு எதிர் விகிதத்தில் இருக்கும்; எனவே நீல ஒளி அதிகம் சிதறி, வானம் நீலமாகத் தோன்றுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 17,
+      "quote": "When a beam of white light or composite light is refracted through any transparent media such as glass or water, it is split into its component colours. This phenomenon is called as dispersion of light.",
+      "answer": "C",
+      "en": {
+        "q": "Which one of the following pairs related to light and vision is correctly matched?",
+        "options": [
+          "Myopia – corrected by using a convex lens",
+          "Mie scattering – the blue colour of the sky",
+          "Dispersion – splitting of white light into its component colours",
+          "Hypermetropia – caused by the lengthening of the eye ball"
+        ],
+        "explanation": "Dispersion is the splitting of white light into the spectrum VIBGYOR. Myopia is corrected by a concave lens; hypermetropia is due to a shortened eye ball; the blue sky is due to Rayleigh scattering, while Mie scattering makes clouds look white."
+      },
+      "ta": {
+        "q": "ஒளி, பார்வை தொடர்பான பின்வரும் இணைகளில் சரியாகப் பொருந்தியுள்ளது எது?",
+        "options": [
+          "கிட்டப்பார்வை – குவிலென்சால் சரிசெய்யப்படுகிறது",
+          "மீ சிதறல் – வானம் நீல நிறமாகத் தோன்றக் காரணம்",
+          "நிறப்பிரிகை – வெண்ணொளி அதன் உறுப்பு நிறங்களாகப் பிரிதல்",
+          "தூரப்பார்வை – கண்ணுருண்டை நீளமாவதால் ஏற்படுகிறது"
+        ],
+        "explanation": "வெண்ணொளி அதன் உறுப்பு நிறங்களாகப் பிரிவது (VIBGYOR) நிறப்பிரிகை. கிட்டப்பார்வை குழிலென்சால் சரிசெய்யப்படுகிறது; தூரப்பார்வை கண்ணுருண்டை சுருங்குவதால் ஏற்படுகிறது; வானின் நீல நிறத்துக்குக் காரணம் ரேலே சிதறல்; மீ சிதறல் மேகங்களை வெண்மையாகக் காட்டுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 18,
+      "quote": "Mie scattering is responsible for the white appearance of the clouds.",
+      "answer": "D",
+      "en": {
+        "q": "Clouds appear white mainly because of",
+        "options": [
+          "dispersion of light by a prism",
+          "Raman scattering",
+          "Rayleigh scattering",
+          "Mie scattering"
+        ],
+        "explanation": "Water droplets in clouds are as large as or larger than the wavelength of light, so they scatter all colours equally (Mie scattering) and the mixture appears white."
+      },
+      "ta": {
+        "q": "மேகங்கள் வெண்மையாகத் தோன்றுவதற்கு முக்கியக் காரணம்",
+        "options": [
+          "முப்பட்டகத்தால் ஏற்படும் நிறப்பிரிகை",
+          "ராமன் சிதறல்",
+          "ரேலே சிதறல்",
+          "மீ சிதறல்"
+        ],
+        "explanation": "மேகத்திலுள்ள நீர்த்துளிகள் ஒளியின் அலைநீளத்திற்குச் சமமாகவோ பெரியதாகவோ இருப்பதால் எல்லா நிறங்களையும் சமமாகச் சிதறடிக்கின்றன (மீ சிதறல்); எனவே மேகம் வெண்மையாகத் தெரிகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "statement_based",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 24,
+      "quote": "The eye lens is convex in nature. So, the light rays from the objects are converged and a real and inverted image is formed on retina.",
+      "answer": "A",
+      "en": {
+        "q": "Consider the following statements about the human eye and lenses:\n(i) A concave lens is a converging lens.\n(ii) The eye lens is concave in nature.\n(iii) A real and inverted image of an object is formed on the retina.\n(iv) The retina controls the amount of light entering the eye like a camera aperture.\nWhich of the statements given above is/are correct?",
+        "options": [
+          "(iii) only",
+          "(i) and (ii) only",
+          "(iii) and (iv) only",
+          "(ii) and (iv) only"
+        ],
+        "explanation": "A concave lens is a diverging lens, so (i) is false. The eye lens is convex, so (ii) is false. The image on the retina is real and inverted, so (iii) is true. The amount of light is regulated by the iris and pupil, not the retina, which is the light-sensitive screen, so (iv) is false."
+      },
+      "ta": {
+        "q": "மனிதக் கண் மற்றும் லென்சுகள் பற்றிய பின்வரும் கூற்றுகளைக் கருதுக:\n(i) குழிலென்ஸ் ஒரு குவிக்கும் லென்ஸ்.\n(ii) கண்ணின் லென்ஸ் குழிவானது.\n(iii) விழித்திரையில் பொருளின் மெய்யான, தலைகீழ் பிம்பம் தோன்றுகிறது.\n(iv) கேமராவின் துளையைப் போல, கண்ணுக்குள் நுழையும் ஒளியின் அளவை விழித்திரை கட்டுப்படுத்துகிறது.\nமேற்கண்ட கூற்றுகளில் சரியானது/சரியானவை எது/எவை?",
+        "options": [
+          "(iii) மட்டும்",
+          "(i), (ii) மட்டும்",
+          "(iii), (iv) மட்டும்",
+          "(ii), (iv) மட்டும்"
+        ],
+        "explanation": "குழிலென்ஸ் விரிக்கும் லென்ஸ்; எனவே (i) தவறு. கண்ணின் லென்ஸ் குவிலென்ஸ்; எனவே (ii) தவறு. விழித்திரையில் மெய்யான தலைகீழ் பிம்பம் தோன்றும்; (iii) சரி. ஒளியின் அளவைக் கருவிழி/பாவை கட்டுப்படுத்துகிறது; ஒளியுணர் திரையான விழித்திரை அன்று; எனவே (iv) தவறு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 50,
+      "quote": "The fuse wire is connected in series, in an electric circuit. When a large current passes through the circuit, the fuse wire melts due to Joule's heating effect and hence the circuit gets disconnected.",
+      "answer": "D",
+      "en": {
+        "q": "In an electric circuit, a fuse wire is connected",
+        "options": [
+          "across the two terminals of the appliance",
+          "in parallel with the circuit",
+          "only in the earth wire",
+          "in series with the circuit"
+        ],
+        "explanation": "The fuse wire is connected in series. When too large a current flows, Joule's heating melts the low-melting fuse wire and breaks the circuit, which protects the appliances."
+      },
+      "ta": {
+        "q": "ஒரு மின்சுற்றில் உருகு இழை (பியூஸ் கம்பி) இணைக்கப்படும் முறை",
+        "options": [
+          "மின்கருவியின் இரு முனைகளுக்கு இடையே",
+          "மின்சுற்றுடன் பக்க இணைப்பில்",
+          "புவிக்கம்பியில் மட்டும்",
+          "மின்சுற்றுடன் தொடராக"
+        ],
+        "explanation": "உருகு இழை தொடராக இணைக்கப்படுகிறது. அதிக மின்னோட்டம் பாயும்போது ஜூல் வெப்பவிளைவால் குறைந்த உருகுநிலையுடைய இழை உருகி மின்சுற்றைத் துண்டித்து, மின்கருவிகளைப் பாதுகாக்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 51,
+      "quote": "One kilowatt hour is otherwise known as one unit of electrical energy. One kilowatt hour means that an electric power of 1000 watt has been utilized for an hour.",
+      "answer": "B",
+      "en": {
+        "q": "A 100 W electric bulb glows continuously for 10 hours. The electrical energy consumed is",
+        "options": [
+          "0.1 kWh",
+          "1 kWh (one unit)",
+          "100 kWh",
+          "10 kWh"
+        ],
+        "explanation": "Energy = power × time = 100 W × 10 h = 1000 Wh = 1 kWh, which is one unit of electrical energy."
+      },
+      "ta": {
+        "q": "100 W மின்விளக்கு தொடர்ந்து 10 மணி நேரம் ஒளிர்கிறது. அது பயன்படுத்தும் மின்ஆற்றல்",
+        "options": [
+          "0.1 kWh",
+          "1 kWh (ஒரு யூனிட்)",
+          "100 kWh",
+          "10 kWh"
+        ],
+        "explanation": "ஆற்றல் = திறன் × நேரம் = 100 W × 10 மணி = 1000 Wh = 1 kWh; இது ஒரு யூனிட் மின்ஆற்றல்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 53,
+      "quote": "In domestic circuits, a third wire called the earth wire having a green insulation is usually connected to the body of the metallic electric appliance.",
+      "answer": "A",
+      "en": {
+        "q": "Consider the following statements:\n(i) Nichrome, an alloy of nickel and chromium, is used as the heating element of electric heaters because it has a high resistivity.\n(ii) The fuse wire is made of a material with a very high melting point.\n(iii) The live wire of a domestic circuit has black insulation.\n(iv) The earth wire has green insulation and gives a low-resistance path for the current to the Earth.\nWhich of the statements given above are correct?",
+        "options": [
+          "(i) and (iv) only",
+          "(i), (ii) and (iii) only",
+          "(ii) and (iii) only",
+          "(iii) and (iv) only"
+        ],
+        "explanation": "Nichrome has high resistivity and a high melting point, so (i) is true. The fuse wire has a relatively low melting point, so (ii) is false. The live wire has red insulation and the neutral wire black, so (iii) is false. The earth wire is green, so (iv) is true."
+      },
+      "ta": {
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக:\n(i) நிக்ரோம் (நிக்கல், குரோமியம் கலப்புலோகம்) அதிக மின்தடை எண் கொண்டதால் மின்சூடேற்றிகளில் வெப்பமூட்டும் இழையாகப் பயன்படுகிறது.\n(ii) உருகு இழை மிக அதிக உருகுநிலையுடைய பொருளால் ஆனது.\n(iii) வீட்டு மின்சுற்றில் உள்ள மின்னூட்டக் கம்பிக்குக் (லைவ் வயர்) கருப்பு நிறக் காப்பு இருக்கும்.\n(iv) புவிக்கம்பிக்குப் பச்சை நிறக் காப்பு இருக்கும்; அது புவிக்கு மின்னோட்டம் செல்ல குறைந்த மின்தடைப் பாதையை அளிக்கிறது.\nமேற்கண்ட கூற்றுகளில் சரியானவை எவை?",
+        "options": [
+          "(i), (iv) மட்டும்",
+          "(i), (ii), (iii) மட்டும்",
+          "(ii), (iii) மட்டும்",
+          "(iii), (iv) மட்டும்"
+        ],
+        "explanation": "நிக்ரோமுக்கு அதிக மின்தடை எண்ணும் அதிக உருகுநிலையும் உண்டு; (i) சரி. உருகு இழையின் உருகுநிலை ஒப்பீட்டளவில் குறைவு; (ii) தவறு. லைவ் வயருக்குச் சிவப்பு, நியூட்ரல் வயருக்குக் கருப்பு நிறக் காப்பு; (iii) தவறு. புவிக்கம்பி பச்சை நிறம்; (iv) சரி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 43,
+      "quote": "Ammeter Used to measure the current. Voltmeter Used to measure the potential difference. Galvanometer Used to detect the current and its direction.",
+      "answer": "B",
+      "en": {
+        "q": "Match List I with List II and choose the correct code:\nList I\na) Ammeter\nb) Voltmeter\nc) Galvanometer\nd) Rheostat\nList II\n1. Measures the electric current\n2. Detects the current and its direction\n3. Selects the magnitude of the current through a circuit\n4. Measures the potential difference",
+        "options": [
+          "a-3 b-2 c-4 d-1",
+          "a-1 b-4 c-2 d-3",
+          "a-2 b-3 c-4 d-1",
+          "a-4 b-2 c-3 d-1"
+        ],
+        "explanation": "An ammeter measures current, a voltmeter measures potential difference, a galvanometer detects the current and its direction, and a rheostat (variable resistor) is used to select the magnitude of the current."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐ பட்டியல் II-உடன் பொருத்தி, சரியான குறியீட்டைத் தேர்ந்தெடுக்கவும்:\nபட்டியல் I\na) அம்மீட்டர்\nb) வோல்ட்மீட்டர்\nc) கால்வனாமீட்டர்\nd) ரியோஸ்டாட்\nபட்டியல் II\n1. மின்னோட்டத்தை அளவிடுகிறது\n2. மின்னோட்டத்தையும் அதன் திசையையும் கண்டறிகிறது\n3. மின்சுற்றில் பாயும் மின்னோட்டத்தின் அளவைத் தேர்ந்தெடுக்கிறது\n4. மின்னழுத்த வேறுபாட்டை அளவிடுகிறது",
+        "options": [
+          "a-3 b-2 c-4 d-1",
+          "a-1 b-4 c-2 d-3",
+          "a-2 b-3 c-4 d-1",
+          "a-4 b-2 c-3 d-1"
+        ],
+        "explanation": "அம்மீட்டர் மின்னோட்டத்தையும், வோல்ட்மீட்டர் மின்னழுத்த வேறுபாட்டையும் அளவிடுகின்றன; கால்வனாமீட்டர் மின்னோட்டத்தையும் அதன் திசையையும் கண்டறிகிறது; ரியோஸ்டாட் (மாறு மின்தடையம்) மின்னோட்டத்தின் அளவைத் தேர்ந்தெடுக்கப் பயன்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "analyze",
+      "page": 52,
+      "quote": "It should be noted that all the circuits in a house are connected in parallel, so that the disconnection of one circuit does not affect the other circuit.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: All the circuits in a house are connected in parallel.\nReason [R]: In a parallel connection, disconnecting one circuit does not affect the others, and each appliance gets the same voltage.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Both are true and [R] explains [A]: parallel wiring is chosen because each appliance gets an equal voltage and can be switched off independently."
+      },
+      "ta": {
+        "q": "கூற்று [A]: வீட்டிலுள்ள அனைத்து மின்சுற்றுகளும் பக்க இணைப்பில் இணைக்கப்பட்டுள்ளன.\nகாரணம் [R]: பக்க இணைப்பில் ஒரு சுற்றைத் துண்டித்தாலும் மற்றவை பாதிக்கப்படுவதில்லை; ஒவ்வொரு மின்கருவிக்கும் சமமான மின்னழுத்தம் கிடைக்கிறது.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம். ஒவ்வொரு கருவிக்கும் சமமான மின்னழுத்தம் கிடைப்பதாலும், தனித்தனியாக நிறுத்த முடிவதாலும் பக்க இணைப்பு பயன்படுத்தப்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 82,
+      "quote": "Radio isotope of phosphorous (P-32) helps to increase the productivity of crops.",
+      "answer": "D",
+      "en": {
+        "q": "Match List I with List II and choose the correct code:\nList I\na) Iodine-131\nb) Cobalt-60\nc) Iron-59\nd) Phosphorus-32\nList II\n1. Treatment of cancer\n2. Increases the productivity of crops\n3. Diagnosis of anaemia\n4. Cure for goitre",
+        "options": [
+          "a-1 b-4 c-3 d-2",
+          "a-3 b-2 c-1 d-4",
+          "a-3 b-2 c-4 d-1",
+          "a-4 b-1 c-3 d-2"
+        ],
+        "explanation": "Radio-iodine (I-131) cures goitre, radio-cobalt (Co-60) is used in cancer treatment, radio-iron (Fe-59) diagnoses anaemia, and radio-phosphorus (P-32) raises crop productivity."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐ பட்டியல் II-உடன் பொருத்தி, சரியான குறியீட்டைத் தேர்ந்தெடுக்கவும்:\nபட்டியல் I\na) அயோடின்-131\nb) கோபால்ட்-60\nc) இரும்பு-59\nd) பாஸ்பரஸ்-32\nபட்டியல் II\n1. புற்றுநோய் சிகிச்சை\n2. பயிர்களின் விளைச்சலை அதிகரிக்கச் செய்தல்\n3. இரத்தச்சோகை (அனீமியா) கண்டறிதல்\n4. முன்கழுத்துக் கழலை (காய்டர்) சிகிச்சை",
+        "options": [
+          "a-1 b-4 c-3 d-2",
+          "a-3 b-2 c-1 d-4",
+          "a-3 b-2 c-4 d-1",
+          "a-4 b-1 c-3 d-2"
+        ],
+        "explanation": "கதிரியக்க அயோடின் (I-131) காய்டருக்கும், கோபால்ட்-60 புற்றுநோய் சிகிச்சைக்கும், இரும்பு-59 இரத்தச்சோகையைக் கண்டறியவும், பாஸ்பரஸ்-32 பயிர் விளைச்சலை அதிகரிக்கவும் பயன்படுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "hard",
+      "bloom": "analyze",
+      "page": 81,
+      "quote": "Nuclear fusion is the combination of two lighter nuclei. The charge of both nuclei is positive. According to electrostatic theory, when they come closer they tend to repel each other. This repulsive force will be overcome by the kinetic energy of the nuclei at higher temperature",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: Nuclear fusion takes place only at an extremely high temperature.\nReason [R]: The positively charged nuclei repel each other, and this repulsion can be overcome only by their very high kinetic energy at high temperature.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Both are true and [R] explains [A]: two positive nuclei can come close enough to fuse only when their kinetic energy at about 10⁷ to 10⁹ K overcomes the electrostatic repulsion."
+      },
+      "ta": {
+        "q": "கூற்று [A]: அணுக்கரு இணைவு மிக அதிக வெப்பநிலையில் மட்டுமே நடைபெறுகிறது.\nகாரணம் [R]: நேர்மின்னூட்டம் பெற்ற அணுக்கருக்கள் ஒன்றை ஒன்று விலக்குகின்றன; அதிக வெப்பநிலையில் அவற்றின் மிகுந்த இயக்க ஆற்றலால் மட்டுமே இவ்விலக்கு விசையை வெல்ல முடியும்.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம். சுமார் 10⁷ முதல் 10⁹ K வெப்பநிலையில் கிடைக்கும் இயக்க ஆற்றலால் மட்டுமே இரு நேர்மின் அணுக்கருக்களின் நிலைமின் விலக்குவிசையை வெல்லமுடியும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "statement_based",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 78,
+      "quote": "for the daughter nucleus the mass number decreases by four and the atomic number decreases by two",
+      "answer": "A",
+      "en": {
+        "q": "Consider the following statements:\n(i) Gamma rays are deflected by electric and magnetic fields.\n(ii) The SI unit of radioactivity is the becquerel.\n(iii) In alpha decay, the mass number of the daughter nucleus decreases by two and its atomic number by four.\n(iv) In beta decay, the mass number of the daughter nucleus is unchanged and its atomic number increases by one.\nWhich of the statements given above are correct?",
+        "options": [
+          "(ii) and (iv) only",
+          "(i) and (iii) only",
+          "(ii), (iii) and (iv) only",
+          "(i), (ii) and (iv) only"
+        ],
+        "explanation": "Gamma rays are electromagnetic waves and are not deflected by the fields, so (i) is false. One becquerel is one disintegration per second, so (ii) is true. In alpha decay the mass number falls by 4 and the atomic number by 2, so (iii) is false. In beta decay the mass number is unchanged and the atomic number rises by 1, so (iv) is true."
+      },
+      "ta": {
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக:\n(i) காமா கதிர்கள் மின்புலத்தாலும் காந்தப்புலத்தாலும் விலகலடைகின்றன.\n(ii) கதிரியக்கத்தின் SI அலகு பெக்கொரல்.\n(iii) ஆல்பா சிதைவில் மகள் அணுக்கருவின் நிறை எண் 2 ஆகவும் அணு எண் 4 ஆகவும் குறைகிறது.\n(iv) பீட்டா சிதைவில் மகள் அணுக்கருவின் நிறை எண் மாறாது; அணு எண் 1 அதிகரிக்கிறது.\nமேற்கண்ட கூற்றுகளில் சரியானவை எவை?",
+        "options": [
+          "(ii), (iv) மட்டும்",
+          "(i), (iii) மட்டும்",
+          "(ii), (iii), (iv) மட்டும்",
+          "(i), (ii), (iv) மட்டும்"
+        ],
+        "explanation": "காமா கதிர்கள் மின்காந்த அலைகள்; புலங்களால் விலகுவதில்லை; (i) தவறு. ஒரு பெக்கொரல் = வினாடிக்கு ஒரு சிதைவு; (ii) சரி. ஆல்பா சிதைவில் நிறை எண் 4-உம் அணு எண் 2-உம் குறையும்; (iii) தவறு. பீட்டா சிதைவில் நிறை எண் மாறாது, அணு எண் 1 கூடும்; (iv) சரி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 60,
+      "quote": "Ultrasonic waves These are sound waves with a frequency greater than 20 kHz. Human ear cannot detect these waves",
+      "answer": "D",
+      "en": {
+        "q": "Sound waves of frequency greater than 20 kHz, which the human ear cannot detect, are called",
+        "options": [
+          "audible waves",
+          "seismic waves",
+          "infrasonic waves",
+          "ultrasonic waves"
+        ],
+        "explanation": "Waves above 20 kHz are ultrasonic. Infrasonic waves are below 20 Hz, and audible waves lie between 20 Hz and 20,000 Hz."
+      },
+      "ta": {
+        "q": "20 kHz-க்கு மேல் அதிர்வெண் கொண்டவையும் மனிதக் காதால் கேட்க இயலாதவையுமான ஒலி அலைகள்",
+        "options": [
+          "கேட்கும் ஒலி அலைகள்",
+          "நிலநடுக்க அலைகள்",
+          "குற்றொலி அலைகள்",
+          "மீயொலி அலைகள்"
+        ],
+        "explanation": "20 kHz-க்கு மேற்பட்டவை மீயொலி அலைகள். 20 Hz-க்குக் குறைந்தவை குற்றொலி அலைகள்; 20 Hz முதல் 20,000 Hz வரை கேட்கும் ஒலி அலைகள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 64,
+      "quote": "Thus, the minimum time gap between the original sound and an echo must be 0.1 s.",
+      "answer": "C",
+      "en": {
+        "q": "Taking the speed of sound in air as 340 m s⁻¹ and the minimum time gap for a distinct echo as 0.1 s, the minimum distance of the reflecting wall from the source is",
+        "options": [
+          "68 m",
+          "3.4 m",
+          "17 m",
+          "34 m"
+        ],
+        "explanation": "The sound travels to the wall and back, a total distance of 2d. So 2d = 340 × 0.1 = 34 m, and d = 17 m."
+      },
+      "ta": {
+        "q": "காற்றில் ஒலியின் வேகம் 340 மீ வி⁻¹ எனவும், தெளிவான எதிரொலிக்குத் தேவையான குறைந்தபட்ச நேர இடைவெளி 0.1 வி எனவும் கொண்டால், ஒலி மூலத்திலிருந்து எதிரொலிக்கும் சுவரின் குறைந்தபட்சத் தொலைவு",
+        "options": [
+          "68 மீ",
+          "3.4 மீ",
+          "17 மீ",
+          "34 மீ"
+        ],
+        "explanation": "ஒலி சுவரை அடைந்து திரும்புவதால் மொத்தத் தொலைவு 2d. எனவே 2d = 340 × 0.1 = 34 மீ; d = 17 மீ."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "analyze",
+      "page": 61,
+      "quote": "is maximum in solids because they are more elastic in nature than liquids and gases.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: The speed of sound is maximum in solids.\nReason [R]: Solids are more elastic than liquids and gases.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Both are true and [R] explains [A]: the greater the elasticity of the medium, the faster the vibrations are passed on, so sound travels fastest in solids and slowest in gases."
+      },
+      "ta": {
+        "q": "கூற்று [A]: ஒலியின் வேகம் திடப்பொருள்களில் மிக அதிகம்.\nகாரணம் [R]: திரவங்களையும் வாயுக்களையும் விடத் திடப்பொருள்கள் அதிக மீள்தன்மை உடையவை.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம். ஊடகத்தின் மீள்தன்மை அதிகமாக இருந்தால் அதிர்வுகள் விரைவாகக் கடத்தப்படும்; எனவே ஒலி திடப்பொருளில் மிக வேகமாகவும் வாயுவில் மிகக் குறைந்த வேகத்திலும் பரவுகிறது."
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 10 Science Term-Full (English)",
+  "breadcrumb": "Std 10 Science (English) — TNPSC Pattern: I General Science — Elements and compounds; acids, bases, salts",
+  "questions": [
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 139,
+      "quote": "A combination reaction is a reaction in which two or more reactants combine to form a compound.",
+      "answer": "B",
+      "en": {
+        "q": "Match List I with List II and choose the correct code:\nList I\na) Combination reaction\nb) Thermal decomposition\nc) Single displacement\nd) Double displacement (precipitation)\nList II\n1. Zn + 2HCl → ZnCl₂ + H₂\n2. 2Na + Cl₂ → 2NaCl\n3. CaCO₃ → CaO + CO₂ on heating\n4. Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃",
+        "options": [
+          "a-2 b-4 c-1 d-3",
+          "a-2 b-3 c-1 d-4",
+          "a-3 b-1 c-2 d-4",
+          "a-2 b-1 c-3 d-4"
+        ],
+        "explanation": "Sodium and chlorine combine to form NaCl; heating calcium carbonate decomposes it; zinc displaces hydrogen from HCl; lead nitrate and potassium iodide exchange ions to give a yellow precipitate of PbI₂."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐ பட்டியல் II-உடன் பொருத்தி, சரியான குறியீட்டைத் தேர்ந்தெடுக்கவும்:\nபட்டியல் I\na) சேர்க்கை வினை\nb) வெப்பச் சிதைவு வினை\nc) ஒற்றை இடப்பெயர்ச்சி வினை\nd) இரட்டை இடப்பெயர்ச்சி (வீழ்படிவு) வினை\nபட்டியல் II\n1. Zn + 2HCl → ZnCl₂ + H₂\n2. 2Na + Cl₂ → 2NaCl\n3. CaCO₃ → CaO + CO₂ (சூடுபடுத்த)\n4. Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃",
+        "options": [
+          "a-2 b-4 c-1 d-3",
+          "a-2 b-3 c-1 d-4",
+          "a-3 b-1 c-2 d-4",
+          "a-2 b-1 c-3 d-4"
+        ],
+        "explanation": "சோடியமும் குளோரினும் இணைந்து NaCl ஆகின்றன; கால்சியம் கார்பனேட் சூடுபடுத்தப்படும்போது சிதைகிறது; துத்தநாகம் HCl-இலிருந்து ஹைட்ரஜனை இடப்பெயர்ச்சி செய்கிறது; லெட் நைட்ரேட்டும் பொட்டாசியம் அயோடைடும் அயனிகளைப் பரிமாறி மஞ்சள் PbI₂ வீழ்படிவைத் தருகின்றன."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 141,
+      "quote": "the iron displaces copper from its aqueous solution and the so formed copper deposits over the iron nail.",
+      "answer": "D",
+      "en": {
+        "q": "When an iron nail is dipped in an aqueous solution of copper(II) sulphate, the nail gets a reddish-brown coating of",
+        "options": [
+          "zinc",
+          "sulphur",
+          "iron oxide",
+          "copper"
+        ],
+        "explanation": "Iron is more reactive than copper, so it displaces copper from the solution (Fe + CuSO₄ → FeSO₄ + Cu) and the copper deposits on the nail."
+      },
+      "ta": {
+        "q": "இரும்பு ஆணியை காப்பர் (II) சல்பேட் நீர்க்கரைசலில் அமிழ்த்தும்போது ஆணியின் மீது படியும் செம்பழுப்பு நிறப் பூச்சு",
+        "options": [
+          "துத்தநாகம்",
+          "கந்தகம்",
+          "இரும்பு ஆக்சைடு",
+          "தாமிரம்"
+        ],
+        "explanation": "இரும்பு தாமிரத்தை விட வினைத்திறன் மிக்கதால் கரைசலிலிருந்து தாமிரத்தை இடப்பெயர்ச்சி செய்கிறது (Fe + CuSO₄ → FeSO₄ + Cu); தாமிரம் ஆணியின் மீது படிகிறது."
+      }
+    }
+  ]
+}

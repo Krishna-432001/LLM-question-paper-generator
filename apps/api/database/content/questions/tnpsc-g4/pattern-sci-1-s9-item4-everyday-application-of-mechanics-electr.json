@@ -1,0 +1,239 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 9 Science Term-Full (English)",
+  "breadcrumb": "Std 9 Science (English) — TNPSC Pattern: I General Science — Everyday application of mechanics, electricity, magnetism, light, sound, heat and nuclear physics",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 83,
+      "quote": "Radiation can occur even in vacuum whereas conduction and convection need matter to be present.",
+      "answer": "D",
+      "en": {
+        "q": "Which mode of heat transfer can take place even through a vacuum?",
+        "options": [
+          "Both conduction and convection",
+          "Convection",
+          "Conduction",
+          "Radiation"
+        ],
+        "explanation": "Radiation carries heat as electromagnetic waves and needs no material medium, which is how the Sun's heat reaches the Earth. Conduction and convection need matter."
+      },
+      "ta": {
+        "q": "வெற்றிடத்தின் வழியாகவும் நடைபெறக்கூடிய வெப்பப் பரிமாற்ற முறை",
+        "options": [
+          "வெப்பக் கடத்தலும் வெப்பச் சலனமும்",
+          "வெப்பச் சலனம்",
+          "வெப்பக் கடத்தல்",
+          "கதிர்வீச்சு"
+        ],
+        "explanation": "கதிர்வீச்சு மின்காந்த அலைகளாக வெப்பத்தைக் கடத்துவதால் ஊடகம் தேவையில்லை; இவ்வாறே சூரிய வெப்பம் புவியை அடைகிறது. கடத்தலுக்கும் சலனத்துக்கும் பொருள் ஊடகம் தேவை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 85,
+      "quote": "Thus, specific heat capacity of a substance is defined as the amount of heat required to raise the temperature of 1 kg of the substance by 1 K. The SI unit of specific heat capacity is",
+      "answer": "B",
+      "en": {
+        "q": "Match List I with List II and choose the correct code:\nList I\na) Specific heat capacity\nb) Heat capacity\nc) Specific latent heat\nd) Heat energy\nList II\n1. J\n2. J K⁻¹\n3. J kg⁻¹ K⁻¹\n4. J kg⁻¹",
+        "options": [
+          "a-3 b-1 c-2 d-4",
+          "a-3 b-2 c-4 d-1",
+          "a-3 b-4 c-2 d-1",
+          "a-2 b-1 c-3 d-4"
+        ],
+        "explanation": "Specific heat capacity is in J kg⁻¹ K⁻¹, heat capacity in J K⁻¹, specific latent heat in J kg⁻¹ and heat energy in joule."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐ பட்டியல் II-உடன் பொருத்தி, சரியான குறியீட்டைத் தேர்ந்தெடுக்கவும்:\nபட்டியல் I\na) தன்வெப்ப ஏற்புத்திறன்\nb) வெப்ப ஏற்புத்திறன்\nc) தன்உள்ளுறை வெப்பம்\nd) வெப்ப ஆற்றல்\nபட்டியல் II\n1. J\n2. J K⁻¹\n3. J கிகி⁻¹ K⁻¹\n4. J கிகி⁻¹",
+        "options": [
+          "a-3 b-1 c-2 d-4",
+          "a-3 b-2 c-4 d-1",
+          "a-3 b-4 c-2 d-1",
+          "a-2 b-1 c-3 d-4"
+        ],
+        "explanation": "தன்வெப்ப ஏற்புத்திறனின் அலகு J கிகி⁻¹ K⁻¹; வெப்ப ஏற்புத்திறனின் அலகு J K⁻¹; தன்உள்ளுறை வெப்பத்தின் அலகு J கிகி⁻¹; வெப்ப ஆற்றலின் அலகு ஜூல்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "analyze",
+      "page": 85,
+      "quote": "So, water absorbs a large amount of heat for unit rise in temperature. Thus, water is used as a coolant in car radiators and factories to keep engines and other machinery parts cool.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: Water is used as a coolant in car radiators.\nReason [R]: Water has a high specific heat capacity, so it absorbs a large amount of heat for a small rise in temperature.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Both are true and [R] explains [A]: because water takes up a lot of heat for each degree of rise (about 4200 J kg⁻¹ K⁻¹), it removes engine heat efficiently."
+      },
+      "ta": {
+        "q": "கூற்று [A]: வாகனக் குளிர்விப்பான்களில் (ரேடியேட்டர்) நீர் குளிர்விப்பானாகப் பயன்படுகிறது.\nகாரணம் [R]: நீரின் தன்வெப்ப ஏற்புத்திறன் அதிகம்; எனவே சிறிய வெப்பநிலை உயர்வுக்கும் அதிக வெப்பத்தை ஏற்கிறது.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம். நீர் ஒவ்வொரு டிகிரி உயர்வுக்கும் (சுமார் 4200 J கிகி⁻¹ K⁻¹) அதிக வெப்பத்தை ஏற்பதால் இயந்திர வெப்பத்தை நன்கு அகற்றுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 83,
+      "quote": "Kelvin scale is known as the absolute scale. On the Kelvin scale 0 K represents absolute zero",
+      "answer": "B",
+      "en": {
+        "q": "On the Celsius scale, absolute zero (0 K) is equal to",
+        "options": [
+          "−373.15 °C",
+          "−273.15 °C",
+          "0 °C",
+          "−100 °C"
+        ],
+        "explanation": "The Celsius and Kelvin scales are related by K = °C + 273.15. Hence 0 K = −273.15 °C, the temperature at which the pressure of a gas theoretically becomes zero."
+      },
+      "ta": {
+        "q": "செல்சியஸ் அளவீட்டில் தனிச்சுழி வெப்பநிலை (0 K) எதற்குச் சமம்?",
+        "options": [
+          "−373.15 °C",
+          "−273.15 °C",
+          "0 °C",
+          "−100 °C"
+        ],
+        "explanation": "செல்சியஸ், கெல்வின் அளவீடுகளின் தொடர்பு K = °C + 273.15. எனவே 0 K = −273.15 °C; இந்த வெப்பநிலையில் வாயுவின் அழுத்தம் கோட்பாட்டளவில் பூஜ்யமாகும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 82,
+      "quote": "During day time, the air in contact with the land becomes hot and rises. Now the cool air over the surface of the sea replaces it. It is called sea breeze.",
+      "answer": "A",
+      "en": {
+        "q": "Consider the following statements:\n(i) Radiation needs a material medium for the transfer of heat.\n(ii) In convection, heat is carried by the movement of the fluid itself.\n(iii) During the day, the sea breeze blows from the land towards the sea.\n(iv) A land breeze blows at night, when the air over the sea is warmer than the air over the land.\nWhich of the statements given above are correct?",
+        "options": [
+          "(ii) and (iv) only",
+          "(i) and (iii) only",
+          "(ii), (iii) and (iv) only",
+          "(i), (ii) and (iv) only"
+        ],
+        "explanation": "Radiation needs no medium, so (i) is false. Convection is the flow of heat by the movement of the fluid, so (ii) is true. The sea breeze blows from the sea to the land during the day, so (iii) is false. At night the warm air above the sea rises and cooler air from the land moves to the sea (land breeze), so (iv) is true."
+      },
+      "ta": {
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக:\n(i) வெப்பம் கதிர்வீச்சு முறையில் பரவ பொருள் ஊடகம் தேவை.\n(ii) வெப்பச் சலனத்தில், பாய்மம் இடம்பெயர்வதன் மூலம் வெப்பம் கடத்தப்படுகிறது.\n(iii) பகலில் கடற்காற்று நிலத்திலிருந்து கடலை நோக்கி வீசுகிறது.\n(iv) இரவில் கடல் மேலுள்ள காற்று நிலத்தின் மேலுள்ள காற்றை விட வெப்பமாக இருப்பதால் நிலக்காற்று வீசுகிறது.\nமேற்கண்ட கூற்றுகளில் சரியானவை எவை?",
+        "options": [
+          "(ii), (iv) மட்டும்",
+          "(i), (iii) மட்டும்",
+          "(ii), (iii), (iv) மட்டும்",
+          "(i), (ii), (iv) மட்டும்"
+        ],
+        "explanation": "கதிர்வீச்சுக்கு ஊடகம் தேவையில்லை; (i) தவறு. வெப்பச் சலனத்தில் பாய்மமே இடம்பெயர்கிறது; (ii) சரி. பகலில் கடற்காற்று கடலிலிருந்து நிலத்தை நோக்கி வீசும்; (iii) தவறு. இரவில் கடலின் மேல் வெப்பக் காற்று உயர, நிலத்தின் குளிர்காற்று கடலை நோக்கி நகரும் (நிலக்காற்று); (iv) சரி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 58,
+      "quote": "An electric motor is a device which converts electrical energy into mechanical energy.",
+      "answer": "C",
+      "en": {
+        "q": "Match List I with List II and choose the correct code:\nList I\na) Electric motor\nb) AC generator\nc) Transformer\nd) Fleming's right hand rule\nList II\n1. Gives the direction of the induced current\n2. Converts electrical energy into mechanical energy\n3. Works on electromagnetic induction using slip rings\n4. Cannot be used with a DC source",
+        "options": [
+          "a-1 b-4 c-3 d-2",
+          "a-3 b-1 c-4 d-2",
+          "a-2 b-3 c-4 d-1",
+          "a-1 b-2 c-4 d-3"
+        ],
+        "explanation": "A motor converts electrical energy into mechanical energy. An AC generator uses electromagnetic induction with slip rings. A transformer works only with a changing (AC) current. Fleming's right hand rule gives the direction of the induced current."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐ பட்டியல் II-உடன் பொருத்தி, சரியான குறியீட்டைத் தேர்ந்தெடுக்கவும்:\nபட்டியல் I\na) மின்மோட்டார்\nb) மாறுதிசை மின்னோட்ட (AC) ஜெனரேட்டர்\nc) மின்மாற்றி\nd) ஃபிளெமிங்கின் வலக்கை விதி\nபட்டியல் II\n1. தூண்டப்பட்ட மின்னோட்டத்தின் திசையைத் தருகிறது\n2. மின்னாற்றலை இயந்திர ஆற்றலாக மாற்றுகிறது\n3. வழுக்கு வளையங்களுடன் மின்காந்தத் தூண்டலின் அடிப்படையில் செயல்படுகிறது\n4. நேர்மின்னோட்ட (DC) மூலத்துடன் பயன்படுத்த இயலாது",
+        "options": [
+          "a-1 b-4 c-3 d-2",
+          "a-3 b-1 c-4 d-2",
+          "a-2 b-3 c-4 d-1",
+          "a-1 b-2 c-4 d-3"
+        ],
+        "explanation": "மின்மோட்டார் மின்னாற்றலை இயந்திர ஆற்றலாக மாற்றுகிறது. ஏசி ஜெனரேட்டர் வழுக்கு வளையங்களுடன் மின்காந்தத் தூண்டலின்படி இயங்குகிறது. மின்மாற்றி மாறுமின்னோட்டத்தில் மட்டுமே செயல்படும். ஃபிளெமிங்கின் வலக்கை விதி தூண்டு மின்னோட்டத்தின் திசையைத் தருகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 61,
+      "quote": "In a step up transformer, the number of turns in the secondary coil is more than the number of turns in the primary coil",
+      "answer": "C",
+      "en": {
+        "q": "The primary coil of a transformer has 100 turns and its secondary coil has 500 turns. If an ac voltage of 120 V is applied to the primary coil, the output voltage across the secondary coil is",
+        "options": [
+          "60 V",
+          "120 V",
+          "600 V",
+          "24 V"
+        ],
+        "explanation": "For a transformer Es/Ep = Ns/Np, so Es = 120 × 500/100 = 600 V. Since Ns > Np it is a step-up transformer."
+      },
+      "ta": {
+        "q": "ஒரு மின்மாற்றியின் முதன்மைச் சுருளில் 100 சுற்றுகளும் துணைச் சுருளில் 500 சுற்றுகளும் உள்ளன. முதன்மைச் சுருளுக்கு 120 V மாறுமின்னழுத்தம் அளிக்கப்பட்டால், துணைச் சுருளின் வெளியீட்டு மின்னழுத்தம்",
+        "options": [
+          "60 V",
+          "120 V",
+          "600 V",
+          "24 V"
+        ],
+        "explanation": "மின்மாற்றியில் Es/Ep = Ns/Np; எனவே Es = 120 × 500/100 = 600 V. Ns > Np என்பதால் இது ஏற்று (ஸ்டெப்-அப்) மின்மாற்றி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "hard",
+      "bloom": "analyze",
+      "page": 61,
+      "quote": "A transformer cannot be used with the direct current (DC) source because, current in the primary coil is constant (ie. DC). Then there will be no change in the number of magnetic field lines linked with the secondary coil and hence no emf will be induced in the secondary coil.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: A transformer cannot be used with a DC source.\nReason [R]: A steady current in the primary coil produces no change in the magnetic flux linked with the secondary coil, so no emf is induced.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Both are true and [R] explains [A]: a transformer works on electromagnetic induction, which needs a changing magnetic flux, and a steady DC current does not provide it."
+      },
+      "ta": {
+        "q": "கூற்று [A]: நேர்மின்னோட்ட (DC) மூலத்துடன் மின்மாற்றியைப் பயன்படுத்த இயலாது.\nகாரணம் [R]: முதன்மைச் சுருளில் மாறாத மின்னோட்டம் பாயும்போது, துணைச் சுருளுடன் இணைந்த காந்தப்பாயம் மாறுவதில்லை; எனவே மின்னியக்கு விசை தூண்டப்படுவதில்லை.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம். மின்மாற்றி மின்காந்தத் தூண்டலின்படி இயங்குகிறது; அதற்கு மாறும் காந்தப்பாயம் தேவை; மாறாத DC அதைத் தராது."
+      }
+    }
+  ]
+}
