@@ -32,8 +32,27 @@ final class PlanScheduler
     /** Spaced repetition ladder, in days after first study. */
     private const REPETITION_LADDER = [1, 3, 7, 21];
 
-    /** Share of the timeline reserved for full-syllabus revision at the end. */
+    /**
+     * Share of the timeline reserved for full-syllabus revision at the end.
+     * New material is spread over the rest, so study runs to about 88% of
+     * the plan however long it is.
+     */
     private const REVISION_TAIL = 0.12;
+
+    /**
+     * Share of each study day given to new material when there is time to
+     * spare. The rest is left for the revision and the tests layered on top.
+     */
+    private const STUDY_SHARE = 0.75;
+
+    /** Longest single sitting on one topic, in minutes. */
+    private const SESSION_MAX = 90;
+
+    /** The closing stretch, in days, where mocks come every mock_every days. */
+    private const FINAL_STRETCH = 21;
+
+    /** Before the closing stretch, at most one mock in this many days. */
+    private const EARLY_MOCK_GAP = 7;
 
     /**
      * @return array{
@@ -51,13 +70,20 @@ final class PlanScheduler
         }
 
         $topics = $this->prioritise($request);
-        $capacity = $this->capacityMinutes($studyDates, $request->hoursPerDay);
+        $window = $this->studyWindow(count($studyDates));
+        $capacity = $this->capacityMinutes($window, $request->hoursPerDay);
 
         [$scheduled, $dropped] = $this->fitToCapacity($topics, $capacity, $request);
 
-        $days = $this->binPack($scheduled, $studyDates, $request);
-        $days = $this->injectRepetition($days, $request);
-        $days = $this->injectAssessments($days, $request);
+        $sessions = $this->allot($scheduled, $capacity, $window);
+        $days = $this->binPack($sessions, $studyDates, $window);
+        $days = $this->injectRepetition($days, $scheduled);
+
+        // Tests are placed before the revision rounds, so a mock day is not
+        // also given a full day of revision.
+        $mockDays = $this->mockDays($days, $request->testConfig);
+        $days = $this->fillRevision($days, $scheduled, $mockDays, $request);
+        $days = $this->injectAssessments($days, $request, $mockDays);
 
         $coverage = $topics->isEmpty()
             ? 100.0
@@ -75,15 +101,30 @@ final class PlanScheduler
      */
     private function prioritise(PlanRequest $request): Collection
     {
-        return ExamTopic::query()
+        $leaves = ExamTopic::query()
             ->where('syllabus_version_id', $request->syllabusVersionId)
             ->leaves()
             ->with('examUnit')
-            ->get()
-            ->map(function (ExamTopic $topic) use ($request): array {
+            ->get();
+
+        $perUnit = $leaves->countBy('exam_unit_id');
+
+        return $leaves
+            ->map(function (ExamTopic $topic) use ($request, $perUnit): array {
                 $mastery = $request->masteryByTopic[$topic->canonical_topic_id] ?? 0.5;
-                $prediction = $request->predictionByTopic[$topic->canonical_topic_id] ?? 0.5;
+                // With no past-paper analysis every topic is an even bet. With
+                // one, a topic it never found asked is the weakest bet.
+                $prediction = $request->predictionByTopic === []
+                    ? 0.5
+                    : ($request->predictionByTopic[$topic->canonical_topic_id] ?? 0.0);
                 $weakness = 1 - $mastery;
+                // The topic's share of the paper: its unit's weight split over
+                // the unit's topics. A topic's own weight is relative to its
+                // subject, so it cannot compare Tamil with Aptitude.
+                $unitWeight = (float) ($topic->examUnit?->weight ?? 0);
+                $share = $unitWeight > 0
+                    ? $unitWeight / max(1, (int) $perUnit[$topic->exam_unit_id])
+                    : (float) $topic->weight;
 
                 return [
                     'exam_topic_id' => $topic->getKey(),
@@ -92,6 +133,7 @@ final class PlanScheduler
                     'unit_id' => $topic->exam_unit_id,
                     // Weak topics get more minutes, not just earlier slots.
                     'minutes' => (int) ceil($topic->estimated_minutes * (1 + $weakness * 0.5)),
+                    'share' => $share,
                     'priority' => round(
                         ((float) $topic->weight * 0.4) + ($prediction * 0.35) + ($weakness * 0.25),
                         6,
@@ -108,8 +150,9 @@ final class PlanScheduler
      */
     private function fitToCapacity(Collection $topics, int $capacity, PlanRequest $request): array
     {
-        // The tail is held back for revision, not new material.
-        $available = (int) floor($capacity * (1 - self::REVISION_TAIL));
+        // $capacity is the study window's alone: the tail is held back for
+        // revision, not new material.
+        $available = $capacity;
 
         $scheduled = [];
         $dropped = [];
@@ -166,46 +209,104 @@ final class PlanScheduler
     }
 
     /**
-     * @param  list<array<string, mixed>>  $topics
-     * @param  list<CarbonImmutable>  $dates
-     * @return list<ScheduledDay>
+     * How the study window's time is shared out. Every topic gets its own
+     * first-pass minutes; time to spare goes to the topics that carry more
+     * of the paper and are likelier to be asked, so a heavy topic is studied
+     * longer, over more sittings. Each topic is then cut into sittings no
+     * longer than a day's share, which is what lets the sittings cover every
+     * day of the window.
+     *
+     * @param  list<array<string, mixed>>  $topics  in study order
+     * @return list<array<string, mixed>> sittings, in study order
      */
-    private function binPack(array $topics, array $dates, PlanRequest $request): array
+    private function allot(array $topics, int $capacity, int $window): array
     {
-        $perDay = (int) floor($request->hoursPerDay * 60 * self::FOCUS_FACTOR);
-        $days = [];
-        $cursor = 0;
+        if ($topics === []) {
+            return [];
+        }
 
-        foreach ($dates as $index => $date) {
-            $items = [];
-            $minutes = 0;
+        $base = array_sum(array_column($topics, 'minutes'));
+        $spare = max(0, (int) floor($capacity * self::STUDY_SHARE) - $base);
+        $weights = array_map(
+            static fn (array $t): float => $t['share'] * max(0.05, $t['priority']),
+            $topics,
+        );
+        $weightTotal = array_sum($weights) ?: 1.0;
 
-            while ($cursor < count($topics)) {
-                $topic = $topics[$cursor];
+        $totals = [];
 
-                // Always place at least one topic, even if it overflows the
-                // day: an oversized topic must not stall the whole schedule.
-                if ($items !== [] && $minutes + $topic['minutes'] > $perDay) {
-                    break;
-                }
+        foreach ($topics as $i => $topic) {
+            $totals[$i] = $topic['minutes'] + (int) floor($spare * $weights[$i] / $weightTotal);
+        }
 
-                $items[] = [
+        $session = max(1, min(self::SESSION_MAX, intdiv(array_sum($totals), max(1, $window))));
+        $sessions = [];
+
+        foreach ($topics as $i => $topic) {
+            $count = (int) ceil($totals[$i] / $session);
+
+            for ($n = 0; $n < $count; $n++) {
+                // Near-equal sittings, none longer than $session.
+                $minutes = intdiv($totals[$i], $count) + ($n < $totals[$i] % $count ? 1 : 0);
+
+                $sessions[] = [
                     'type' => 'study',
                     'exam_topic_id' => $topic['exam_topic_id'],
                     'canonical_topic_id' => $topic['canonical_topic_id'],
                     'name' => $topic['name'],
-                    'minutes' => $topic['minutes'],
+                    'minutes' => $minutes,
+                    'session' => $n + 1,
+                    'sessions' => $count,
                 ];
-
-                $minutes += $topic['minutes'];
-                $cursor++;
             }
+        }
+
+        return $sessions;
+    }
+
+    /**
+     * Lays the sittings evenly over the study window: each day takes the
+     * sittings that start within its share of the total minutes. No sitting
+     * is longer than a share, so no day of the window is left empty. The
+     * days after the window are the revision tail.
+     *
+     * @param  list<array<string, mixed>>  $sessions
+     * @param  list<CarbonImmutable>  $dates
+     * @return list<ScheduledDay>
+     */
+    private function binPack(array $sessions, array $dates, int $window): array
+    {
+        $total = array_sum(array_column($sessions, 'minutes'));
+        $perDay = $total / max(1, $window);
+        $byDay = [];
+        $offset = 0;
+
+        foreach ($sessions as $session) {
+            $index = $perDay > 0 ? min($window - 1, (int) floor($offset / $perDay)) : 0;
+            $offset += $session['minutes'];
+            $key = $session['exam_topic_id'];
+
+            // Two sittings of one topic on one day are one longer sitting.
+            if (isset($byDay[$index][$key])) {
+                $byDay[$index][$key]['minutes'] += $session['minutes'];
+                $byDay[$index][$key]['session'] = $session['session'];
+
+                continue;
+            }
+
+            $byDay[$index][$key] = $session;
+        }
+
+        $days = [];
+
+        foreach ($dates as $index => $date) {
+            $items = array_values($byDay[$index] ?? []);
 
             $days[] = new ScheduledDay(
                 dayNumber: $index + 1,
                 date: $date,
                 role: $items === [] ? 'revision' : 'new',
-                targetMinutes: $minutes,
+                targetMinutes: array_sum(array_column($items, 'minutes')),
                 items: $items,
             );
         }
@@ -215,14 +316,17 @@ final class PlanScheduler
 
     /**
      * Spaced repetition on a fixed ladder rather than per-item SM-2: a plan
-     * has to be printable and predictable a month in advance.
+     * has to be printable and predictable a month in advance. The ladder
+     * starts when a topic's last sitting is done, not after every sitting.
      *
      * @param  list<ScheduledDay>  $days
+     * @param  list<array<string, mixed>>  $topics
      * @return list<ScheduledDay>
      */
-    private function injectRepetition(array $days, PlanRequest $request): array
+    private function injectRepetition(array $days, array $topics): array
     {
         $byNumber = [];
+        $firstPass = array_column($topics, 'minutes', 'exam_topic_id');
 
         foreach ($days as $day) {
             $byNumber[$day->dayNumber] = $day;
@@ -230,7 +334,7 @@ final class PlanScheduler
 
         foreach ($days as $day) {
             foreach ($day->items as $item) {
-                if ($item['type'] !== 'study') {
+                if ($item['type'] !== 'study' || $item['session'] !== $item['sessions']) {
                     continue;
                 }
 
@@ -246,8 +350,7 @@ final class PlanScheduler
                         'exam_topic_id' => $item['exam_topic_id'],
                         'canonical_topic_id' => $item['canonical_topic_id'],
                         'name' => $item['name'],
-                        // Revision is a fraction of first-pass time.
-                        'minutes' => max(5, (int) round($item['minutes'] * 0.25)),
+                        'minutes' => $this->revisionMinutes($firstPass[$item['exam_topic_id']] ?? $item['minutes']),
                         'repeat_of' => $day->dayNumber,
                     ];
 
@@ -262,16 +365,93 @@ final class PlanScheduler
     }
 
     /**
+     * Revision rounds through the tail. Every day without new material gets
+     * a day's worth of quick revision, working down the topics in priority
+     * order and starting over when it reaches the end, so the whole syllabus
+     * comes round again and again before the exam. A mock day is left to its
+     * mock.
+     *
+     * @param  list<ScheduledDay>  $days
+     * @param  list<array<string, mixed>>  $topics
+     * @param  array<int, true>  $mockDays
+     * @return list<ScheduledDay>
+     */
+    private function fillRevision(array $days, array $topics, array $mockDays, PlanRequest $request): array
+    {
+        if ($topics === []) {
+            return $days;
+        }
+
+        usort($topics, static fn (array $a, array $b): int => $b['priority'] <=> $a['priority']);
+
+        $budget = (int) floor($request->hoursPerDay * 60 * self::FOCUS_FACTOR);
+        $lastStudied = [];
+        $cursor = 0;
+
+        foreach ($days as $day) {
+            $studies = array_filter($day->items, static fn (array $i): bool => $i['type'] === 'study');
+
+            foreach ($studies as $item) {
+                $lastStudied[$item['exam_topic_id']] = $day->dayNumber;
+            }
+
+            if ($studies !== [] || isset($mockDays[$day->dayNumber])) {
+                continue;
+            }
+
+            $onDay = array_flip(array_filter(array_column($day->items, 'exam_topic_id')));
+            $minutes = $day->totalMinutes();
+
+            // One pass over the topics at most, so a short syllabus does not
+            // put the same topic on a day twice.
+            for ($tried = 0; $tried < count($topics); $tried++) {
+                $topic = $topics[$cursor];
+                $add = $this->revisionMinutes($topic['minutes']);
+
+                if ($day->items !== [] && $minutes + $add > $budget) {
+                    break;
+                }
+
+                $cursor = ($cursor + 1) % count($topics);
+
+                if (isset($onDay[$topic['exam_topic_id']])) {
+                    continue;
+                }
+
+                $day->items[] = [
+                    'type' => 'revise',
+                    'exam_topic_id' => $topic['exam_topic_id'],
+                    'canonical_topic_id' => $topic['canonical_topic_id'],
+                    'name' => $topic['name'],
+                    'minutes' => $add,
+                    'repeat_of' => $lastStudied[$topic['exam_topic_id']] ?? null,
+                ];
+                $minutes += $add;
+            }
+
+            $day->role = 'revision';
+        }
+
+        return $days;
+    }
+
+    /** Revision is a fraction of first-pass time. */
+    private function revisionMinutes(int $firstPass): int
+    {
+        return max(5, (int) round($firstPass * 0.25));
+    }
+
+    /**
      * Assessment placement is what distinguishes the five modes.
      *
      * @param  list<ScheduledDay>  $days
+     * @param  array<int, true>  $mockDays
      * @return list<ScheduledDay>
      */
-    private function injectAssessments(array $days, PlanRequest $request): array
+    private function injectAssessments(array $days, PlanRequest $request, array $mockDays): array
     {
         $config = $request->testConfig;
         $cycles = $this->cyclesOf($config);
-        $mockDays = $this->mockDays($days, (int) ($config['mock_every'] ?? 0));
 
         foreach ($days as $day) {
             // The revision weeks rehearse the real paper: a full mock in the
@@ -381,17 +561,35 @@ final class PlanScheduler
 
     /**
      * The days of the final revision stretch — after the last new topic —
-     * that hold a full mock: every $every-th of them. A plan too short to
-     * have such a stretch still ends with one mock on its last day.
+     * that hold a full mock. A cycle test keeps its day; the mocks go on the
+     * free days around it. Counting back from the exam, a mock comes every
+     * $every-th day through the last three weeks and at most once a week
+     * before that. The very last day stays a revision day when the stretch
+     * has room. A plan too short to have such a stretch still ends with one
+     * mock on its last free day.
      *
      * @param  list<ScheduledDay>  $days
-     * @return array<int, true>  day number => true
+     * @param  array<string, mixed>  $config
+     * @return array<int, true> day number => true
      */
-    private function mockDays(array $days, int $every): array
+    private function mockDays(array $days, array $config): array
     {
+        $every = (int) ($config['mock_every'] ?? 0);
+
         if ($every <= 0 || $days === []) {
             return [];
         }
+
+        $cycles = $this->cyclesOf($config);
+        $isFree = static function (ScheduledDay $day) use ($cycles): bool {
+            foreach ($cycles as $cycle) {
+                if ($day->dayNumber % $cycle['every'] === 0) {
+                    return false;
+                }
+            }
+
+            return true;
+        };
 
         $lastStudy = 0;
 
@@ -403,21 +601,35 @@ final class PlanScheduler
             }
         }
 
-        $tail = array_values(array_filter($days, static fn (ScheduledDay $d): bool => $d->dayNumber > $lastStudy));
+        $lastDay = end($days)->dayNumber;
+        $free = array_values(array_filter(
+            array_reverse($days),
+            static fn (ScheduledDay $d): bool => $d->dayNumber > $lastStudy && $isFree($d),
+        ));
 
-        if ($tail === []) {
-            return [end($days)->dayNumber => true];
+        if ($free === []) {
+            $fallback = array_values(array_filter(array_reverse($days), $isFree));
+
+            return $fallback === [] ? [] : [$fallback[0]->dayNumber => true];
+        }
+
+        if (count($free) > 1 && $free[0]->dayNumber === $lastDay) {
+            array_shift($free);
         }
 
         $mocks = [];
+        $previous = null;
 
-        foreach ($tail as $position => $day) {
-            if (($position + 1) % $every === 0) {
+        foreach ($free as $day) {
+            $gap = $lastDay - $day->dayNumber < self::FINAL_STRETCH ? $every : self::EARLY_MOCK_GAP;
+
+            if ($previous === null || $previous - $day->dayNumber >= $gap) {
                 $mocks[$day->dayNumber] = true;
+                $previous = $day->dayNumber;
             }
         }
 
-        return $mocks ?: [end($tail)->dayNumber => true];
+        return $mocks;
     }
 
     /**
@@ -442,9 +654,21 @@ final class PlanScheduler
         return $dates;
     }
 
-    /** @param  list<CarbonImmutable>  $dates */
-    private function capacityMinutes(array $dates, float $hoursPerDay): int
+    /**
+     * How many of the plan's days take new material: all but the revision
+     * tail. A plan of a day or two has no room for a tail.
+     */
+    private function studyWindow(int $days): int
     {
-        return (int) floor(count($dates) * $hoursPerDay * 60 * self::FOCUS_FACTOR);
+        if ($days <= 2) {
+            return $days;
+        }
+
+        return $days - max(1, (int) round($days * self::REVISION_TAIL));
+    }
+
+    private function capacityMinutes(int $days, float $hoursPerDay): int
+    {
+        return (int) floor($days * $hoursPerDay * 60 * self::FOCUS_FACTOR);
     }
 }
