@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 180,
       "quote": "Nitrogen (78%) and Oxygen (21%) are permanent gases of the atmosphere. They constitute 99% of the total composition",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which two permanent gases constitute 99% of the atmosphere?",
         "options": [
           "Oxygen and argon",
-          "Nitrogen and carbon dioxide",
           "Nitrogen and oxygen",
+          "Nitrogen and carbon dioxide",
           "Argon and neon"
         ],
         "explanation": "Nitrogen is 78% and oxygen 21%; argon is 0.93%."
@@ -54,8 +54,8 @@
         "q": "வளிமண்டலத்தின் 99% ஐ உருவாக்கும் நிலையான வாயுக்கள்",
         "options": [
           "ஆக்சிஜன், ஆர்கான்",
-          "நைட்ரஜன், கார்பன்-டை-ஆக்சைடு",
           "நைட்ரஜன், ஆக்சிஜன்",
+          "நைட்ரஜன், கார்பன்-டை-ஆக்சைடு",
           "ஆர்கான், நியான்"
         ],
         "explanation": "நைட்ரஜன் 78%, ஆக்சிஜன் 21%."
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 180,
       "quote": "The Greek word 'tropos' means 'turn' or change. The layer extends up to 8 kms at the poles and up to 18 kms at the Equator.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The troposphere extends up to about ______ at the equator and ______ at the poles.",
         "options": [
           "8 km; 18 km",
-          "18 km; 8 km",
           "50 km; 18 km",
+          "18 km; 8 km",
           "80 km; 50 km"
         ],
         "explanation": "The Greek word tropos means 'turn' or change; the upper limit is the tropopause."
@@ -112,8 +112,8 @@
         "q": "கீழடுக்கு நிலநடுக்கோட்டில் ஏறத்தாழ ____ உயரம் வரையும், துருவங்களில் ____ உயரம் வரையும் பரவியுள்ளது.",
         "options": [
           "8 கி.மீ; 18 கி.மீ",
-          "18 கி.மீ; 8 கி.மீ",
           "50 கி.மீ; 18 கி.மீ",
+          "18 கி.மீ; 8 கி.மீ",
           "80 கி.மீ; 50 கி.மீ"
         ],
         "explanation": "டிராப்போஸ் என்ற கிரேக்கச் சொல்லுக்கு 'திருப்பம்' என்று பொருள்."
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 181,
       "quote": "Stratosphere ... extends to a height of about 50km... concentration of ozone molecules, ozonosphere... Large jet planes normally fly here.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which layer, extending to about 50 km, contains the ozone layer and is where large jet planes normally fly?",
         "options": [
           "Troposphere",
           "Mesosphere",
-          "Thermosphere",
-          "Stratosphere"
+          "Stratosphere",
+          "Thermosphere"
         ],
         "explanation": "In the stratosphere temperature increases with height; it is also called the ozonosphere."
       },
@@ -142,8 +142,8 @@
         "options": [
           "கீழடுக்கு",
           "இடையடுக்கு",
-          "வெப்ப அடுக்கு",
-          "மீள் அடுக்கு (Stratosphere)"
+          "மீள் அடுக்கு (Stratosphere)",
+          "வெப்ப அடுக்கு"
         ],
         "explanation": "மீள் அடுக்கில் உயரம் கூடக் கூட வெப்பம் அதிகரிக்கும்."
       }
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 181,
       "quote": "The composition of gases in the lower thermosphere is more or less uniform, hence it is called 'Homosphere'. The upper portion ... 'Heterosphere'.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The lower thermosphere, with uniform composition of gases, is called the",
         "options": [
           "heterosphere",
-          "homosphere",
+          "magnetosphere",
           "ionosphere",
-          "magnetosphere"
+          "homosphere"
         ],
         "explanation": "The upper thermosphere has uneven composition and is the heterosphere."
       },
@@ -199,9 +199,9 @@
         "q": "வெப்ப அடுக்கின் கீழ்ப்பகுதியில் வாயுக்களின் கலவை ஒரே சீராக இருப்பதால் அது",
         "options": [
           "பலபடித்தான அடுக்கு (Heterosphere)",
-          "ஒருபடித்தான அடுக்கு (Homosphere)",
+          "காந்த அடுக்கு",
           "அயன அடுக்கு",
-          "காந்த அடுக்கு"
+          "ஒருபடித்தான அடுக்கு (Homosphere)"
         ],
         "explanation": "மேல்பகுதி சீரற்ற கலவையால் Heterosphere."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 181,
       "quote": "Auroras are cosmic glowing lights produced by a stream of electrons discharged from the Sun's surface due to magnetic storms... aurora Australis and aurora borealis.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "'Aurora borealis' is seen in the polar sky of the",
         "options": [
           "Southern Hemisphere",
-          "Equator",
+          "Northern Hemisphere",
           "Tropics",
-          "Northern Hemisphere"
+          "Equator"
         ],
         "explanation": "Aurora borealis (north) and aurora australis (south) are multicoloured lights in the polar sky."
       },
@@ -257,9 +257,9 @@
         "q": "'அரோரா பொரியாலிஸ்' தோன்றும் பகுதி",
         "options": [
           "தென் துருவ வானம்",
-          "நிலநடுக்கோடு",
+          "வட துருவ வானம்",
           "அயன மண்டலம்",
-          "வட துருவ வானம்"
+          "நிலநடுக்கோடு"
         ],
         "explanation": "அரோரா ஆஸ்ட்ராலிஸ் தென் துருவத்தில் தோன்றும்."
       }
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 182,
       "quote": "The sun's rays fall vertically on the equator... Altitude: The temperature decreases at the rate of 6.5°C per km of height.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Places near the equator are warmer than those far away from it because",
         "options": [
           "the sun's rays are inclined there",
-          "the sun's rays fall vertically there",
+          "they have more clouds",
           "they are closer to the sun",
-          "they have more clouds"
+          "the sun's rays fall vertically there"
         ],
         "explanation": "Vertical rays heat the earth more than inclined rays."
       },
@@ -315,9 +315,9 @@
         "q": "நிலநடுக்கோட்டுக்கு அருகிலுள்ள இடங்கள் வெப்பமாக இருக்கக் காரணம்",
         "options": [
           "சூரியக் கதிர்கள் சாய்வாக விழுவதால்",
-          "சூரியக் கதிர்கள் செங்குத்தாக விழுவதால்",
+          "மேகம் அதிகம் இருப்பதால்",
           "சூரியனுக்கு மிக அருகில் இருப்பதால்",
-          "மேகம் அதிகம் இருப்பதால்"
+          "சூரியக் கதிர்கள் செங்குத்தாக விழுவதால்"
         ],
         "explanation": "செங்குத்துக் கதிர்கள் புவியை அதிகம் வெப்பப்படுத்தும்."
       }
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 183,
       "quote": "The on-shore winds cause rainfall making the place cool whereas the off-shore winds bring dry weather.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "On-shore winds generally",
         "options": [
           "bring dry weather",
-          "blow only at night",
+          "cause rainfall and cool the place",
           "never reach land",
-          "cause rainfall and cool the place"
+          "blow only at night"
         ],
         "explanation": "Off-shore winds bring dry weather."
       },
@@ -373,9 +373,9 @@
         "q": "கடலிலிருந்து நிலம் நோக்கி வீசும் காற்றுகள்",
         "options": [
           "வறண்ட வானிலையைத் தரும்",
-          "இரவில் மட்டும் வீசும்",
+          "மழையைத் தந்து இடத்தைக் குளிர்விக்கும்",
           "நிலத்தை அடையாது",
-          "மழையைத் தந்து இடத்தைக் குளிர்விக்கும்"
+          "இரவில் மட்டும் வீசும்"
         ],
         "explanation": "நிலத்திலிருந்து கடல் நோக்கி வீசும் காற்று வறட்சியைத் தரும்."
       }
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 184,
       "quote": "Winds are generally classified into four major types: Planetary winds, Periodic winds, Variable wind, Local wind.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which of the following is NOT one of the four major types of winds listed in the textbook?",
         "options": [
           "Planetary winds",
-          "Seasonal-less winds",
+          "Local winds",
           "Periodic winds",
-          "Local winds"
+          "Seasonal-less winds"
         ],
         "explanation": "The four types are planetary, periodic, variable and local winds."
       },
@@ -431,9 +431,9 @@
         "q": "நூலில் குறிப்பிடப்பட்ட நான்கு முக்கியக் காற்று வகைகளில் இல்லாதது எது?",
         "options": [
           "கோள் காற்று",
-          "பருவமற்ற காற்று",
+          "தலக் காற்று",
           "காலமுறைக் காற்று",
-          "தலக் காற்று"
+          "பருவமற்ற காற்று"
         ],
         "explanation": "கோள், காலமுறை, மாறுதலுக்குட்பட்ட, தலக் காற்றுகள் நான்கு வகைகள்."
       }
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 185,
       "quote": "Polar easterlies are weak winds blowing from North East direction in the Northern Hemisphere and South East direction in the Southern Hemisphere.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "In the northern hemisphere the polar easterlies blow from the",
         "options": [
           "south-west",
-          "north-west",
+          "north-east",
           "south-east",
-          "north-east"
+          "north-west"
         ],
         "explanation": "They are cold and dry winds from the polar high to the sub-polar low pressure belt."
       },
@@ -489,9 +489,9 @@
         "q": "வடகோளார்த்தத்தில் துருவக் கீழைக் காற்றுகள் வீசும் திசை",
         "options": [
           "தென்மேற்கு",
-          "வடமேற்கு",
+          "வடகிழக்கு",
           "தென்கிழக்கு",
-          "வடகிழக்கு"
+          "வடமேற்கு"
         ],
         "explanation": "இவை குளிர்ந்த வறண்ட காற்றுகள்."
       }
@@ -561,14 +561,14 @@
       "bloom": "remember",
       "page": 185,
       "quote": "A violent cyclone that hit Odisha on Friday, 29 October 1999, was one of the most devastating and strongest storms to hit the Indian coast. Winds of up to 260 kph raged for over 36 hours.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The Super Cyclone that devastated coastal districts of which Indian state struck on 29 October 1999?",
         "options": [
           "Tamil Nadu",
           "Andhra Pradesh",
-          "West Bengal",
-          "Odisha"
+          "Odisha",
+          "West Bengal"
         ],
         "explanation": "Winds up to 260 km/h raged for over 36 hours; a seven-metre tidal wave swept more than 20 km inland."
       },
@@ -577,8 +577,8 @@
         "options": [
           "தமிழ்நாடு",
           "ஆந்திரப் பிரதேசம்",
-          "மேற்கு வங்காளம்",
-          "ஒடிசா"
+          "ஒடிசா",
+          "மேற்கு வங்காளம்"
         ],
         "explanation": "260 கி.மீ வேகக் காற்று 36 மணி நேரத்திற்கு மேல் வீசியது."
       }
@@ -619,14 +619,14 @@
       "bloom": "remember",
       "page": 186,
       "quote": "Temperate cyclones are formed along a front where hot and cold air masses meet in mid-latitudes between 35° and 65° N and S. ... In India it is called western disturbances.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "In India the temperate cyclones from the Mediterranean are called",
         "options": [
           "north-east monsoon",
-          "western disturbances",
+          "Nor'westers",
           "Loo",
-          "Nor'westers"
+          "western disturbances"
         ],
         "explanation": "A front is the boundary separating warm and cold air masses."
       },
@@ -634,9 +634,9 @@
         "q": "மத்தியதரைக் கடலிலிருந்து இந்தியாவை அடையும் மிதவெப்பச் சூறாவளிகள் இந்தியாவில் எவ்வாறு அழைக்கப்படுகின்றன?",
         "options": [
           "வடகிழக்குப் பருவக்காற்று",
-          "மேற்கத்தியக் கொந்தளிப்புகள்",
+          "நார்வெஸ்டர்",
           "லூ",
-          "நார்வெஸ்டர்"
+          "மேற்கத்தியக் கொந்தளிப்புகள்"
         ],
         "explanation": "முகம் என்பது வெப்ப, குளிர்க் காற்றுத்திரள்களைப் பிரிக்கும் எல்லை."
       }
@@ -677,14 +677,14 @@
       "bloom": "remember",
       "page": 186,
       "quote": "Local winds: Foehn (Alps-Europe), Sirocco (North coast of Africa), Chinook (Rockies-North America), Loo (Thar Desert-India), Mistral (Mediterranean sea in France), Bora (Italy)",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Match List I with List II.\nList I: a) Foehn  b) Chinook  c) Loo  d) Mistral\nList II: 1) Rockies, North America  2) Thar Desert  3) France  4) Alps",
         "options": [
           "a-1 b-2 c-3 d-4",
-          "a-3 b-4 c-1 d-2",
+          "a-4 b-1 c-2 d-3",
           "a-2 b-3 c-4 d-1",
-          "a-4 b-1 c-2 d-3"
+          "a-3 b-4 c-1 d-2"
         ],
         "explanation": "Foehn - Alps; Chinook - Rockies; Loo - Thar Desert; Mistral - France; Sirocco - North Africa."
       },
@@ -692,9 +692,9 @@
         "q": "பட்டியல் I-ஐ பட்டியல் II உடன் பொருத்துக.\nபட்டியல் I: அ) ஃபோன்  ஆ) சினூக்  இ) லூ  ஈ) மிஸ்ட்ரல்\nபட்டியல் II: 1) ராக்கீஸ், வட அமெரிக்கா  2) தார் பாலைவனம்  3) பிரான்ஸ்  4) ஆல்ப்ஸ்",
         "options": [
           "அ-1 ஆ-2 இ-3 ஈ-4",
-          "அ-3 ஆ-4 இ-1 ஈ-2",
+          "அ-4 ஆ-1 இ-2 ஈ-3",
           "அ-2 ஆ-3 இ-4 ஈ-1",
-          "அ-4 ஆ-1 இ-2 ஈ-3"
+          "அ-3 ஆ-4 இ-1 ஈ-2"
         ],
         "explanation": "ஃபோன் - ஆல்ப்ஸ்; சினூக் - ராக்கீஸ்; லூ - தார்; மிஸ்ட்ரல் - பிரான்ஸ்."
       }
@@ -735,14 +735,14 @@
       "bloom": "remember",
       "page": 187,
       "quote": "Cumulo-nimbus: Fluffy thick towering thunderstorm cloud capable of producing heavy rain, snow, hailstorm or tornadoes",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The thick towering thunderstorm cloud that can produce heavy rain, hail and tornadoes is",
         "options": [
           "cirrus",
-          "cumulonimbus",
+          "altostratus",
           "stratocumulus",
-          "altostratus"
+          "cumulonimbus"
         ],
         "explanation": "Cumulus clouds, by contrast, are dome-shaped and associated with fair weather."
       },
@@ -750,9 +750,9 @@
         "q": "இடி, கனமழை, ஆலங்கட்டி, சுழல்காற்றைத் தரும் உயர்ந்த தடித்த மேகம்",
         "options": [
           "கீற்று மேகம்",
-          "கார்திரள் மேகம் (Cumulonimbus)",
+          "இடைப்பட்ட படை மேகம்",
           "அடுக்குத் திரள் மேகம்",
-          "இடைப்பட்ட படை மேகம்"
+          "கார்திரள் மேகம் (Cumulonimbus)"
         ],
         "explanation": "கியூமுலஸ் மேகம் நல்ல வானிலையுடன் தொடர்புடையது."
       }
@@ -793,14 +793,14 @@
       "bloom": "remember",
       "page": 188,
       "quote": "Hails are chunks of ice falling from the sky, during a rainstorm or thunderstorm... destroy agricultural crops and human lives.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which form of precipitation is most destructive to crops and lives?",
         "options": [
           "Drizzle",
-          "Sleet",
+          "Hail",
           "Snow",
-          "Hail"
+          "Sleet"
         ],
         "explanation": "Any thunderstorm with hailstones is a hailstorm."
       },
@@ -808,9 +808,9 @@
         "q": "பயிர்களையும் உயிர்களையும் அதிகம் அழிக்கும் பொழிவு வகை",
         "options": [
           "சாரல்",
-          "பனிமழை",
+          "ஆலங்கட்டி",
           "பனி",
-          "ஆலங்கட்டி"
+          "பனிமழை"
         ],
         "explanation": "ஆலங்கட்டி மழை அழிவை ஏற்படுத்தும்."
       }
@@ -851,14 +851,14 @@
       "bloom": "remember",
       "page": 189,
       "quote": "Mawsynram is the wettest place of India as it is located in the windward side of the Purvachal hills, whereas Shillong lies on the leeward side and thus receives less rainfall. This is the same, in the case of Mumbai and Pune.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which pair of places is on the windward and leeward sides of a hill range respectively?",
         "options": [
           "Shillong and Mawsynram",
-          "Mawsynram and Shillong",
+          "Mumbai and Mawsynram",
           "Pune and Mumbai",
-          "Mumbai and Mawsynram"
+          "Mawsynram and Shillong"
         ],
         "explanation": "Mawsynram is windward (wettest place of India); Shillong is leeward. Likewise Mumbai (windward) and Pune (leeward)."
       },
@@ -866,9 +866,9 @@
         "q": "மலைத்தொடரின் காற்று மோதும் பக்கத்திலும் மோதாப் பக்கத்திலும் முறையே அமைந்த இடங்கள்",
         "options": [
           "ஷில்லாங், மௌசின்ராம்",
-          "மௌசின்ராம், ஷில்லாங்",
+          "மும்பை, மௌசின்ராம்",
           "புனே, மும்பை",
-          "மும்பை, மௌசின்ராம்"
+          "மௌசின்ராம், ஷில்லாங்"
         ],
         "explanation": "மௌசின்ராம் மிகுமழை; ஷில்லாங், புனே மழை மறைவுப் பகுதிகள்."
       }

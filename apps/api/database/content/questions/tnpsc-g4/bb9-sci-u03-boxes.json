@@ -126,12 +126,12 @@
       "bloom": "remember",
       "page": 29,
       "quote": "Human lung is well adapted to breathe at a pressure of sea level (101.3 kPa). Mountain climbers need special breathing equipments with oxygen cylinders.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The human lung is well adapted to breathe at the sea-level pressure of",
         "options": [
-          "101.3 kPa",
           "10.13 kPa",
+          "101.3 kPa",
           "1013 kPa",
           "760 kPa"
         ],
@@ -140,8 +140,8 @@
       "ta": {
         "q": "மனிதனின் நுரையீரல் எந்த அழுத்தத்தில் சுவாசிக்கப் பொருந்தியுள்ளது?",
         "options": [
-          "101.3 kPa (கடல்மட்ட அழுத்தம்)",
           "10.13 kPa",
+          "101.3 kPa (கடல்மட்ட அழுத்தம்)",
           "1013 kPa",
           "760 kPa"
         ],
@@ -184,13 +184,13 @@
       "bloom": "remember",
       "page": 30,
       "quote": "A mercury barometer, first designed by an Italian Physicist Torricelli, consists of a long glass tube (closed at one end, open at the other) filled with mercury.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The mercury barometer was first designed by the Italian physicist",
         "options": [
-          "Pascal",
-          "Archimedes",
           "Torricelli",
+          "Archimedes",
+          "Pascal",
           "Galileo"
         ],
         "explanation": "Torricelli designed the mercury barometer; Pascal was French and Archimedes Greek."
@@ -198,9 +198,9 @@
       "ta": {
         "q": "பாதரசக் காற்றழுத்தமானியை முதன்முதலில் வடிவமைத்த இத்தாலிய இயற்பியலாளர்",
         "options": [
-          "பாஸ்கல்",
-          "ஆர்க்கிமிடிஸ்",
           "டாரிசெல்லி",
+          "ஆர்க்கிமிடிஸ்",
+          "பாஸ்கல்",
           "கலிலியோ"
         ],
         "explanation": "பாதரசக் காற்றழுத்தமானியை இத்தாலிய இயற்பியலாளர் டாரிசெல்லி வடிவமைத்தார்."
@@ -242,14 +242,14 @@
       "bloom": "understand",
       "page": 30,
       "quote": "Scuba divers always wear special suits and equipment to protect them. The pressure inside the sea will be more than twice the atmospheric pressure.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Scuba divers wear special suits and equipment because",
         "options": [
           "water inside the sea is cold only",
           "there is no oxygen in water",
-          "pressure in the sea is zero",
-          "pressure inside the sea is very high"
+          "pressure inside the sea is very high",
+          "pressure in the sea is zero"
         ],
         "explanation": "Liquid columns exert pressure; deep in the sea the pressure is much more than atmospheric and body tissues cannot withstand it."
       },
@@ -258,8 +258,8 @@
         "options": [
           "கடல்நீர் குளிர்ச்சியானது என்பதால் மட்டும்",
           "நீரில் ஆக்ஸிஜன் இல்லை",
-          "கடலினுள் அழுத்தம் சுழி",
-          "கடலினுள் அழுத்தம் மிக அதிகம்"
+          "கடலினுள் அழுத்தம் மிக அதிகம்",
+          "கடலினுள் அழுத்தம் சுழி"
         ],
         "explanation": "கடலினுள் அழுத்தம் வளிமண்டல அழுத்தத்தை விட அதிகம்; உடல் திசுக்கள் அதைத் தாங்க முடியாது."
       }
@@ -358,24 +358,24 @@
       "bloom": "remember",
       "page": 32,
       "quote": "The ratio of the mass of a given volume of a substance to the mass of an equal volume of water at 4 °C also denotes relative density. Density of water at 4 °C is 1 g/cm^3.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Relative density of a substance is compared with the density of water at",
         "options": [
-          "4 °C",
+          "100 °C",
           "0 °C",
           "25 °C",
-          "100 °C"
+          "4 °C"
         ],
         "explanation": "Density of water at 4 °C is 1 g cm^-3, so densities are compared with it."
       },
       "ta": {
         "q": "ஒரு பொருளின் ஒப்படர்த்தி எந்த வெப்பநிலையில் உள்ள நீரின் அடர்த்தியுடன் ஒப்பிடப்படுகிறது?",
         "options": [
-          "4 °C",
+          "100 °C",
           "0 °C",
           "25 °C",
-          "100 °C"
+          "4 °C"
         ],
         "explanation": "4 °C-இல் நீரின் அடர்த்தி 1 கி செ.மீ^-3; அதனுடன் ஒப்பிடப்படுகிறது."
       }
@@ -474,12 +474,12 @@
       "bloom": "remember",
       "page": 33,
       "quote": "The lactometer consists of a long graduated test tube with a cylindrical bulb with the graduation ranging from 15 at the top to 45 at the bottom. More the cream, lower the lactometer floats in the milk. The average reading of normal milk is 32.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The average lactometer reading of normal milk is",
         "options": [
-          "15",
           "32",
+          "15",
           "45",
           "60"
         ],
@@ -488,8 +488,8 @@
       "ta": {
         "q": "இயல்பான பாலின் சராசரி பால்மானி அளவீடு",
         "options": [
-          "15",
           "32",
+          "15",
           "45",
           "60"
         ],
@@ -532,14 +532,14 @@
       "bloom": "remember",
       "page": 34,
       "quote": "Archimedes principle states that 'a body immersed in a fluid experiences a vertical upward buoyant force equal to the weight of the fluid it displaces'. ... jumped out of his bath and ran through the town, shouting 'eureka'.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "According to the legend, Archimedes ran through the town shouting",
         "options": [
           "pascal",
-          "newton",
+          "eureka",
           "gravity",
-          "eureka"
+          "newton"
         ],
         "explanation": "Archimedes devised the principle of the 'hydrostatic balance' after noticing his apparent loss of weight in his bath and shouted 'eureka'."
       },
@@ -547,9 +547,9 @@
         "q": "புராணக் கதையின்படி ஆர்க்கிமிடிஸ் குளியல் தொட்டியிலிருந்து குதித்து ஓடி நகரத்தில் கூச்சலிட்ட சொல்",
         "options": [
           "பாஸ்கல்",
-          "நியூட்டன்",
+          "யுரேகா",
           "ஈர்ப்பு",
-          "யுரேகா"
+          "நியூட்டன்"
         ],
         "explanation": "குளியலின்போது தன் எடை குறைவாகத் தோன்றுவதைக் கண்ட ஆர்க்கிமிடிஸ் 'யுரேகா' எனக் கூவியபடி ஓடியதாகக் கூறப்படுகிறது."
       }
@@ -561,14 +561,14 @@
       "bloom": "remember",
       "page": 35,
       "quote": "Flotation therapy uses water that contains Epsom salts rich in magnesium. Magnesium helps the body to process insulin, which lowers a person's risk of developing Type 2 Diabetes.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Flotation therapy uses water containing Epsom salts, which are rich in",
         "options": [
           "calcium",
           "iron",
-          "magnesium",
-          "sodium chloride only"
+          "sodium chloride only",
+          "magnesium"
         ],
         "explanation": "A floater absorbs magnesium through the skin; magnesium helps the body process insulin."
       },
@@ -577,8 +577,8 @@
         "options": [
           "கால்சியம்",
           "இரும்பு",
-          "மெக்னீசியம்",
-          "சோடியம் குளோரைடு மட்டும்"
+          "சோடியம் குளோரைடு மட்டும்",
+          "மெக்னீசியம்"
         ],
         "explanation": "எப்சம் உப்பு மெக்னீசியம் நிறைந்தது; இது இன்சுலினைப் பயன்படுத்த உடலுக்கு உதவுகிறது."
       }
@@ -677,13 +677,13 @@
       "bloom": "remember",
       "page": 35,
       "quote": "Points to Remember: 1 atm is the pressure exerted by a vertical column of mercury of 76 cm height.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "1 atm is the pressure exerted by a vertical column of mercury of height",
         "options": [
-          "76 cm",
-          "7.6 cm",
           "760 cm",
+          "7.6 cm",
+          "76 cm",
           "100 cm"
         ],
         "explanation": "1 atm = pressure of a 76 cm (760 mm) mercury column = 1.013 x 10^5 Pa."
@@ -691,9 +691,9 @@
       "ta": {
         "q": "1 atm என்பது எத்தனை உயரப் பாதரசத் தம்பம் ஏற்படுத்தும் அழுத்தம்?",
         "options": [
-          "76 செ.மீ",
-          "7.6 செ.மீ",
           "760 செ.மீ",
+          "7.6 செ.மீ",
+          "76 செ.மீ",
           "100 செ.மீ"
         ],
         "explanation": "1 atm = 76 செ.மீ (760 மி.மீ) பாதரசத் தம்பத்தின் அழுத்தம் = 1.013 x 10^5 Pa."

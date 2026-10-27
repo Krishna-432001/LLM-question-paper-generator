@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 13,
       "quote": "Sir Robert Bruce Foote, a geologist from England first discovered the _____ tools at Pallavaram near Chennai.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The geologist Robert Bruce Foote first found which type of stone tools at Pallavaram near Chennai?",
         "options": [
           "Neolithic",
-          "Paleolithic",
+          "Microlithic",
           "Mesolithic",
-          "Microlithic"
+          "Paleolithic"
         ],
         "explanation": "In 1863 Foote found Paleolithic tools at Pallavaram, the earliest such finds in India."
       },
@@ -141,9 +141,9 @@
         "q": "இங்கிலாந்து நிலவியலாளர் இராபர்ட் புரூஸ் ஃபூட் சென்னைக்கு அருகிலுள்ள பல்லாவரத்தில் முதன்முதலில் கண்டுபிடித்த கருவிகள் எவை?",
         "options": [
           "புதிய கற்காலக் கருவிகள்",
-          "பழங்கற்காலக் கருவிகள்",
+          "நுண்கற்காலக் கருவிகள்",
           "இடைக்கற்காலக் கருவிகள்",
-          "நுண்கற்காலக் கருவிகள்"
+          "பழங்கற்காலக் கருவிகள்"
         ],
         "explanation": "1863-இல் ஃபூட் பல்லாவரத்தில் பழங்கற்காலக் கருவிகளைக் கண்டுபிடித்தார்; இந்தியாவில் இவையே முதல் கண்டுபிடிப்பு."
       }
@@ -155,12 +155,12 @@
       "bloom": "remember",
       "page": 13,
       "quote": "(i) The period before the introduction of writing is called pre-history. (ii) The pre-historic people developed language, made beautiful paintings and artefacts. (iii) The pre-historic societies are treated as literate. (iv) The pre-historic period is called ancient.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Consider the statements:\n(i) The period before the introduction of writing is called pre-history.\n(ii) Pre-historic people developed language and made paintings and artefacts.\n(iii) Pre-historic societies are treated as literate.\n(iv) The pre-historic period is called ancient.\nWhich is/are correct?",
         "options": [
-          "(i) and (ii) are correct",
           "(i) is correct only",
+          "(i) and (ii) are correct",
           "(i) and (iv) are correct",
           "(ii) and (iii) are correct"
         ],
@@ -169,8 +169,8 @@
       "ta": {
         "q": "பின்வரும் கூற்றுகளைக் கவனி:\n(i) எழுத்து தோன்றுவதற்கு முந்தைய காலம் வரலாற்றுக்கு முந்தையது.\n(ii) வரலாற்றுக்கு முந்தைய மக்கள் மொழியை வளர்த்து ஓவியங்கள், கலைப்பொருள்களை உருவாக்கினர்.\n(iii) வரலாற்றுக்கு முந்தைய சமூகங்கள் படிப்பறிவு பெற்றவையாகக் கருதப்படுகின்றன.\n(iv) வரலாற்றுக்கு முந்தைய காலம் பழங்காலம் எனப்படும்.\nசரியானது எது/எவை?",
         "options": [
-          "(i), (ii) சரி",
           "(i) மட்டும் சரி",
+          "(i), (ii) சரி",
           "(i), (iv) சரி",
           "(ii), (iii) சரி"
         ],
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 13,
       "quote": "_____ is known as the Middle Stone Age, as it is placed between the Paleolithic and Neolithic.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which culture is called the Middle Stone Age, as it lies between the Paleolithic and Neolithic?",
         "options": [
-          "Megalithic",
-          "Upper Paleolithic",
           "Mesolithic",
+          "Upper Paleolithic",
+          "Megalithic",
           "Chalcolithic"
         ],
         "explanation": "Mesolithic means Middle Stone Age."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "பழங்கற்காலத்திற்கும் புதிய கற்காலத்திற்கும் இடைப்பட்டதால் எந்தக் காலம் நடுக் கற்காலம் (இடைக்கற்காலம்) எனப்படுகிறது?",
         "options": [
-          "பெருங்கற்காலம்",
-          "மேல் பழங்கற்காலம்",
           "இடைக்கற்காலம்",
+          "மேல் பழங்கற்காலம்",
+          "பெருங்கற்காலம்",
           "செம்புக் கற்காலம்"
         ],
         "explanation": "இடைக்கற்காலம் என்பது பழங்கற்காலத்திற்கும் புதிய கற்காலத்திற்கும் இடைப்பட்ட காலம்."
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 14,
       "quote": "a) Among the great Apes Orang utan is genetically the closest to humans. b) The ancestors to humans were called Hominins and their origins have been traced to Africa. c) Flake cannot be used for tool making. d) Acheulian is the main block of stone...",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which statement about the great apes and human ancestors is correct?",
         "options": [
-          "Human ancestors were called Hominins and their origins are traced to Africa.",
-          "The orang-utan is the great ape genetically closest to humans.",
           "A flake cannot be used for making tools.",
+          "The orang-utan is the great ape genetically closest to humans.",
+          "Human ancestors were called Hominins and their origins are traced to Africa.",
           "Acheulian is the main stone block from which chips are flaked."
         ],
         "explanation": "Hominins originated in Africa. The chimpanzee (not orang-utan) is closest; flakes are used for tools; the main block is the core, while Acheulian is a hand-axe tradition."
@@ -372,9 +372,9 @@
       "ta": {
         "q": "சரியான கூற்றைத் தேர்க.",
         "options": [
-          "மனிதரின் முன்னோர் ஹோமினின் எனப்படுவர்; அவர்களின் தோற்றம் ஆப்பிரிக்காவில் கண்டறியப்பட்டுள்ளது.",
-          "குரங்கினங்களில் உராங் உட்டான் மனிதருக்கு மரபியலாக மிக நெருக்கமானது.",
           "செதிலைக் கருவி செய்யப் பயன்படுத்த இயலாது.",
+          "குரங்கினங்களில் உராங் உட்டான் மனிதருக்கு மரபியலாக மிக நெருக்கமானது.",
+          "மனிதரின் முன்னோர் ஹோமினின் எனப்படுவர்; அவர்களின் தோற்றம் ஆப்பிரிக்காவில் கண்டறியப்பட்டுள்ளது.",
           "செதில்கள் வெட்டி எடுக்கப்படும் முதன்மைக் கல் அச்சூலியன் எனப்படும்."
         ],
         "explanation": "சிம்பன்சியே மிக நெருக்கம்; செதில் கருவிக்குப் பயன்படும்; முதன்மைக் கல் 'மூலக்கல் (core)'; அச்சூலியன் கை கோடரி மரபு."

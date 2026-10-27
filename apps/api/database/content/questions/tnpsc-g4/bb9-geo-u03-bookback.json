@@ -39,12 +39,12 @@
       "bloom": "remember",
       "page": 190,
       "quote": "2. The lowest layer of the atmosphere is a. Troposphere b. Stratosphere c. Exosphere d. Mesosphere",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The lowest layer of the atmosphere is the",
         "options": [
-          "troposphere",
           "stratosphere",
+          "troposphere",
           "exosphere",
           "mesosphere"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "வளிமண்டலத்தின் கீழ் அடுக்கு",
         "options": [
-          "கீழடுக்கு (Troposphere)",
           "மீள் அடுக்கு (Stratosphere)",
+          "கீழடுக்கு (Troposphere)",
           "வெளியடுக்கு (Exosphere)",
           "இடையடுக்கு (Mesosphere)"
         ],
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "4. The process of change of state of water from gaseous to liquid state is called a. Precipitation b. evaporation c. transpiration d. condensation",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The change of water from the gaseous to the liquid state is called",
         "options": [
-          "evaporation",
-          "precipitation",
           "condensation",
+          "precipitation",
+          "evaporation",
           "transpiration"
         ],
         "explanation": "Water vapour condenses on dust nuclei to form clouds."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "நீர் வாயுநிலையிலிருந்து திரவ நிலைக்கு மாறும் செயல்",
         "options": [
-          "ஆவியாதல்",
-          "பொழிவு",
           "சுருங்குதல் (condensation)",
+          "பொழிவு",
+          "ஆவியாதல்",
           "நீராவிப்போக்கு"
         ],
         "explanation": "நீராவி குளிர்ந்து நீராகும் செயல் condensation."
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "6. All types of clouds are found in the a. Troposphere b. Ionosphere c. Mesosphere d. Exosphere",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The only layer of the atmosphere that contains all types of clouds is the",
         "options": [
-          "troposphere",
-          "ionosphere",
           "mesosphere",
+          "ionosphere",
+          "troposphere",
           "exosphere"
         ],
         "explanation": "The troposphere is the only sphere with all clouds."
@@ -169,9 +169,9 @@
       "ta": {
         "q": "அனைத்து வகை மேகங்களும் காணப்படும் அடுக்கு",
         "options": [
-          "கீழடுக்கு",
-          "அயன அடுக்கு",
           "இடையடுக்கு",
+          "அயன அடுக்கு",
+          "கீழடுக்கு",
           "வெளியடுக்கு"
         ],
         "explanation": "கீழடுக்கு மட்டுமே எல்லா மேகங்களையும் கொண்டுள்ளது."
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "8. The Monsoons are a. Prevailing winds b. Periodic winds c. local winds d. none of the above",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Monsoons are classified as",
         "options": [
-          "prevailing (planetary) winds",
-          "local winds",
           "periodic winds",
+          "local winds",
+          "prevailing (planetary) winds",
           "variable winds"
         ],
         "explanation": "Winds that reverse direction with the seasons are monsoons, a periodic wind."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "பருவக்காற்றுகள் என்பவை",
         "options": [
-          "நிலவும் (கோள்) காற்றுகள்",
-          "தலக் காற்றுகள்",
           "காலமுறைக் காற்றுகள்",
+          "தலக் காற்றுகள்",
+          "நிலவும் (கோள்) காற்றுகள்",
           "மாறுதலுக்குட்பட்ட காற்றுகள்"
         ],
         "explanation": "பருவத்திற்கேற்ப திசை மாறும் காற்று பருவக்காற்று."
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "II. 2. Climatology; 4. Wind Vane",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The instrument that measures the direction of the wind is the",
         "options": [
           "anemometer",
-          "hygrometer",
           "wind vane",
+          "hygrometer",
           "rain gauge"
         ],
         "explanation": "An anemometer records wind speed; a wind vane shows wind direction. Climatology is the study of climate."
@@ -315,8 +315,8 @@
         "q": "காற்றின் திசையை அளக்கும் கருவி",
         "options": [
           "காற்று வேகமானி",
-          "ஈரப்பதமானி",
           "காற்று திசைமானி",
+          "ஈரப்பதமானி",
           "மழைமானி"
         ],
         "explanation": "காற்று வேகமானி வேகத்தையும், திசைமானி திசையையும் அளக்கும்."
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 2. Mention the factors that affect the climate?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which of the following is NOT a factor influencing weather and climate, according to the textbook?",
         "options": [
           "Distance from the equator",
-          "Rock type",
           "Altitude",
+          "Rock type",
           "Ocean currents"
         ],
         "explanation": "Listed factors: distance from equator, altitude, nearness to the sea, prevailing winds, mountain barriers, cloud cover, ocean currents, natural vegetation."
@@ -373,8 +373,8 @@
         "q": "நூலின்படி காலநிலையைப் பாதிக்கும் காரணி அல்லாதது எது?",
         "options": [
           "நிலநடுக்கோட்டிலிருந்து தொலைவு",
-          "பாறை வகை",
           "உயரம்",
+          "பாறை வகை",
           "கடல் நீரோட்டங்கள்"
         ],
         "explanation": "நிலநடுக்கோட்டிலிருந்து தொலைவு, உயரம், கடலிலிருந்து தொலைவு, காற்று, மலைத்தடை, மேகமூட்டம், நீரோட்டம், இயற்கைத் தாவரம் ஆகியவை காரணிகள்."
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 4. What are the processes responsible for heating the atmosphere?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "According to the textbook recap, the atmosphere is heated mainly through",
         "options": [
           "condensation",
           "precipitation",
-          "transpiration",
-          "conduction"
+          "conduction",
+          "transpiration"
         ],
         "explanation": "The recap states that the atmosphere gets heated through conduction."
       },
@@ -432,8 +432,8 @@
         "options": [
           "சுருங்குதலால்",
           "பொழிவால்",
-          "நீராவிப்போக்கால்",
-          "வெப்பக் கடத்துதலால்"
+          "வெப்பக் கடத்துதலால்",
+          "நீராவிப்போக்கால்"
         ],
         "explanation": "வெப்பக் கடத்துதலால் வளிமண்டலம் வெப்பமடைகிறது."
       }
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 7. How are clouds formed?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Clouds are defined in the textbook as",
         "options": [
           "a mass of dust in the troposphere",
           "fog on the ground",
-          "a layer of ozone",
-          "a visible mass of condensed water vapour floating in the air"
+          "a visible mass of condensed water vapour floating in the air",
+          "a layer of ozone"
         ],
         "explanation": "All precipitation occurs from clouds."
       },
@@ -519,8 +519,8 @@
         "options": [
           "கீழடுக்கிலுள்ள தூசிப் படலம்",
           "தரையிலுள்ள மூடுபனி",
-          "ஓசோன் அடுக்கு",
-          "காற்றில் மிதக்கும் கண்ணுக்குத் தெரியும் சுருங்கிய நீராவித் திரள்"
+          "காற்றில் மிதக்கும் கண்ணுக்குத் தெரியும் சுருங்கிய நீராவித் திரள்",
+          "ஓசோன் அடுக்கு"
         ],
         "explanation": "அனைத்துப் பொழிவும் மேகங்களிலிருந்தே உருவாகின்றன."
       }
@@ -561,14 +561,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 9. Write short notes on: a. drizzle b. rain c. sleet d. snow e. heat",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Falling of numerous uniform minute droplets less than 0.5 mm in diameter from low clouds is called",
         "options": [
           "rain",
-          "drizzle",
+          "hail",
           "sleet",
-          "hail"
+          "drizzle"
         ],
         "explanation": "Drizzle may combine with fog and reduce visibility. (The book says a raindrop is 'more than 5 mm'; the usual figure is more than 0.5 mm.)"
       },
@@ -576,9 +576,9 @@
         "q": "தாழ்வான மேகங்களிலிருந்து 0.5 மி.மீக்குக் குறைவான விட்டமுள்ள நுண்ணிய நீர்த்துளிகள் விழுதல்",
         "options": [
           "மழை",
-          "சாரல்",
+          "ஆலங்கட்டி மழை",
           "பனிமழை (Sleet)",
-          "ஆலங்கட்டி மழை"
+          "சாரல்"
         ],
         "explanation": "சாரலுடன் மூடுபனி சேர்ந்து பார்வைத்திறனைக் குறைக்கும். (நூல் மழைத்துளி 5 மி.மீக்கு மேல் எனக் குறிப்பிடுகிறது; வழக்கமான அளவு 0.5 மி.மீக்கு மேல்.)"
       }
@@ -619,14 +619,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 10. How are Cyclones classified?",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Cyclones are classified into",
         "options": [
           "land, sea and mountain cyclones",
-          "windward and leeward cyclones",
+          "tropical, temperate and extra-tropical cyclones",
           "active and dormant cyclones",
-          "tropical, temperate and extra-tropical cyclones"
+          "windward and leeward cyclones"
         ],
         "explanation": "Tropical cyclones, temperate cyclones and extra-tropical cyclones."
       },
@@ -634,9 +634,9 @@
         "q": "சூறாவளிகள் வகைப்படுத்தப்படுவது",
         "options": [
           "நில, கடல், மலைச் சூறாவளிகள்",
-          "காற்று மோதும், மோதாச் சூறாவளிகள்",
+          "வெப்ப, மிதவெப்ப, வெப்பமண்டலத்திற்கு அப்பாற்பட்ட சூறாவளிகள்",
           "செயல்படும், உறங்கும் சூறாவளிகள்",
-          "வெப்ப, மிதவெப்ப, வெப்பமண்டலத்திற்கு அப்பாற்பட்ட சூறாவளிகள்"
+          "காற்று மோதும், மோதாச் சூறாவளிகள்"
         ],
         "explanation": "வெப்ப, மிதவெப்ப, கூடுதல் வெப்ப மண்டல வகைகள் உண்டு."
       }
@@ -677,14 +677,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "IV. 2. Cloudy days are warmer than cloudless days. (Tamil book: cloudless days are warmer)",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "During the day, a cloudless sky generally gives higher temperature than a cloudy sky because",
         "options": [
           "clouds produce heat",
-          "clouds reflect a large amount of solar radiation",
+          "clouds stop wind",
           "clouds absorb all radiation and re-emit it by day",
-          "clouds stop wind"
+          "clouds reflect a large amount of solar radiation"
         ],
         "explanation": "Clouds reflect solar radiation; deserts with clear skies are very hot. (The English book's statement reads reversed; the Tamil book and the text say cloudless days are hotter.)"
       },
@@ -692,9 +692,9 @@
         "q": "மேகமூட்டமுள்ள நாள்களை விட மேகமில்லாத நாள்கள் வெப்பமாக இருக்கக் காரணம்",
         "options": [
           "மேகங்கள் வெப்பத்தை உண்டாக்குகின்றன",
-          "மேகங்கள் சூரியக் கதிர்வீச்சின் பெரும்பகுதியைப் பிரதிபலிக்கின்றன",
+          "மேகங்கள் காற்றைத் தடுக்கின்றன",
           "மேகங்கள் பகலில் கதிர்வீச்சை உறிஞ்சி மீண்டும் வெளியிடுகின்றன",
-          "மேகங்கள் காற்றைத் தடுக்கின்றன"
+          "மேகங்கள் சூரியக் கதிர்வீச்சின் பெரும்பகுதியைப் பிரதிபலிக்கின்றன"
         ],
         "explanation": "மேகங்கள் கதிர்வீச்சைப் பிரதிபலிப்பதால் மேகமற்ற பாலைவனங்களில் வெப்பம் அதிகம்."
       }
@@ -735,14 +735,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "IV. 4. Convectional rainfall is also called 4 o'clock rain.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Convectional rainfall is called '4 o'clock rainfall' because in equatorial regions it",
         "options": [
           "occurs only at dawn",
-          "occurs only in winter",
+          "occurs regularly in the evenings",
           "occurs only on mountains",
-          "occurs regularly in the evenings"
+          "occurs only in winter"
         ],
         "explanation": "Convectional rain occurs regularly in the equatorial region in the evenings after intense daytime heating."
       },
@@ -750,9 +750,9 @@
         "q": "வெப்பச்சலன மழை '4 மணி மழை' எனப்படக் காரணம்",
         "options": [
           "விடியற்காலையில் மட்டும் பெய்வதால்",
-          "குளிர்காலத்தில் மட்டும் பெய்வதால்",
+          "நிலநடுக்கோட்டுப் பகுதியில் மாலை வேளையில் தவறாமல் பெய்வதால்",
           "மலைகளில் மட்டும் பெய்வதால்",
-          "நிலநடுக்கோட்டுப் பகுதியில் மாலை வேளையில் தவறாமல் பெய்வதால்"
+          "குளிர்காலத்தில் மட்டும் பெய்வதால்"
         ],
         "explanation": "பகல் முழுவதும் வெப்பமடைந்த காற்று மேலெழுந்து மாலையில் மழை தரும்."
       }
@@ -793,14 +793,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "V. 1. Weather and climate",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Atmosphere: Which statement is correct?",
         "options": [
           "Weather is the average of climate",
-          "Climate is the average of weather over a long period for a large area",
+          "Climate changes hour to hour",
           "Weather is more or less permanent",
-          "Climate changes hour to hour"
+          "Climate is the average of weather over a long period for a large area"
         ],
         "explanation": "Weather is short-term (hourly or daily) over a small area; climate is the long-term average. Study of weather = meteorology; of climate = climatology."
       },
@@ -808,9 +808,9 @@
         "q": "சரியான கூற்று எது?",
         "options": [
           "வானிலை என்பது காலநிலையின் சராசரி",
-          "காலநிலை என்பது நீண்ட காலத்தில் பெரிய பரப்பின் சராசரி வானிலை",
+          "காலநிலை மணிக்கு மணி மாறும்",
           "வானிலை ஏறத்தாழ நிலையானது",
-          "காலநிலை மணிக்கு மணி மாறும்"
+          "காலநிலை என்பது நீண்ட காலத்தில் பெரிய பரப்பின் சராசரி வானிலை"
         ],
         "explanation": "வானிலை குறுகிய காலம், சிறு பரப்பு; காலநிலை நீண்ட கால சராசரி."
       }
@@ -851,14 +851,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "V. 3. Windward side and Leeward side.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The windward side of a mountain receives",
         "options": [
           "very little rainfall",
-          "no rainfall",
+          "heavy rainfall",
           "snow only",
-          "heavy rainfall"
+          "no rainfall"
         ],
         "explanation": "The leeward side receives very little rain (rain shadow); Mawsynram (windward) is the wettest place in India while Shillong (leeward) receives less."
       },
@@ -866,9 +866,9 @@
         "q": "மலையின் காற்று மோதும் பக்கம் பெறுவது",
         "options": [
           "மிகக் குறைந்த மழை",
-          "மழையே இல்லை",
+          "மிகுமழை",
           "பனி மட்டும்",
-          "மிகுமழை"
+          "மழையே இல்லை"
         ],
         "explanation": "மோதாப் பக்கம் குறைந்த மழை; மௌசின்ராம் காற்று மோதும் பக்கத்தில் உள்ளது."
       }

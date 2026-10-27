@@ -39,24 +39,24 @@
       "bloom": "understand",
       "page": 100,
       "quote": "3. A musical instrument is producing continuous note. This note cannot be heard by a person having a normal hearing range. This note must then be passing through a) wax b) vacuum c) water d) empty vessel",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "A musical instrument produces a continuous note of audible frequency, yet a person with normal hearing cannot hear it. The note must then be passing through",
         "options": [
-          "vacuum",
+          "an empty vessel",
           "wax",
           "water",
-          "an empty vessel"
+          "vacuum"
         ],
         "explanation": "Sound cannot travel through vacuum; it needs a material medium like air, water or steel."
       },
       "ta": {
         "q": "ஒரு இசைக்கருவி செவியுணர் அதிர்வெண்ணில் தொடர்ச்சியான இசையை எழுப்புகிறது; இயல்பான செவித்திறன் உள்ள ஒருவருக்குக் கேட்கவில்லை. எனில் அவ்விசை பரவுவது",
         "options": [
-          "வெற்றிடத்தின் வழியே",
+          "காலிப் பாத்திரத்தின் வழியே",
           "மெழுகின் வழியே",
           "நீரின் வழியே",
-          "காலிப் பாத்திரத்தின் வழியே"
+          "வெற்றிடத்தின் வழியே"
         ],
         "explanation": "ஒலி வெற்றிடத்தின் வழியே செல்லாது; அதற்கு காற்று, நீர், எஃகு போன்ற ஊடகம் தேவை."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 100,
       "quote": "II. 1. Sound is a ____________ wave and needs a material medium to travel.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Sound is a ______ wave and needs a material medium to travel.",
         "options": [
-          "longitudinal",
-          "transverse",
           "electromagnetic",
+          "transverse",
+          "longitudinal",
           "circular"
         ],
         "explanation": "Sound travels as a longitudinal mechanical wave with compressions and rarefactions."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "ஒலி ஒரு ______ அலை; அது பரவ ஊடகம் தேவை.",
         "options": [
-          "நெட்டலை",
-          "குறுக்கலை",
           "மின்காந்த அலை",
+          "குறுக்கலை",
+          "நெட்டலை",
           "வட்ட அலை"
         ],
         "explanation": "ஒலி நெருக்கங்களும் நெகிழ்ச்சிகளும் கொண்ட நெட்டலையாகப் பரவுகிறது."
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 100,
       "quote": "3. The velocity of sound in solid is ____________ than the velocity of sound in air.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The velocity of sound in a solid is ______ than the velocity of sound in air.",
         "options": [
-          "less",
-          "equal",
           "greater",
+          "equal",
+          "less",
           "half"
         ],
         "explanation": "e.g. 5960 m s^-1 in steel compared to 340 m s^-1 in air."
@@ -169,9 +169,9 @@
       "ta": {
         "q": "திடப்பொருளில் ஒலியின் திசைவேகம் காற்றில் ஒலியின் திசைவேகத்தை விட ______.",
         "options": [
-          "குறைவு",
-          "சமம்",
           "அதிகம்",
+          "சமம்",
+          "குறைவு",
           "பாதி"
         ],
         "explanation": "எஃகில் 5960 மீ வி^-1; காற்றில் 340 மீ வி^-1."
@@ -213,12 +213,12 @@
       "bloom": "remember",
       "page": 100,
       "quote": "5. Loudness is proportional to the square of the ____________.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The loudness (intensity) of a sound is proportional to the square of its",
         "options": [
-          "wavelength",
           "amplitude",
+          "wavelength",
           "time period",
           "speed"
         ],
@@ -227,8 +227,8 @@
       "ta": {
         "q": "ஒலியின் உரப்பு (செறிவு) ______ -ன் வர்க்கத்திற்கு நேர்தகவு.",
         "options": [
-          "அலைநீளம்",
           "வீச்சு",
+          "அலைநீளம்",
           "அலைவு நேரம்",
           "வேகம்"
         ],
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 100,
       "quote": "III. Sound - Longitudinal wave.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Sound is an example of a",
         "options": [
           "transverse electromagnetic wave",
-          "transverse mechanical wave",
           "longitudinal mechanical wave",
+          "transverse mechanical wave",
           "longitudinal electromagnetic wave"
         ],
         "explanation": "Sound waves travel with compressions and rarefactions and need a medium."
@@ -344,8 +344,8 @@
         "q": "ஒலி என்பது ஓர் எடுத்துக்காட்டு",
         "options": [
           "குறுக்கலை மின்காந்த அலை",
-          "குறுக்கலை இயந்திர அலை",
           "நெட்டலை இயந்திர அலை",
+          "குறுக்கலை இயந்திர அலை",
           "நெட்டலை மின்காந்த அலை"
         ],
         "explanation": "ஒலி நெருக்கங்களும் நெகிழ்ச்சிகளும் கொண்ட, ஊடகம் தேவைப்படும் நெட்டலை."
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 100,
       "quote": "2. Name the physical quantity whose SI unit is 'hertz'. Define.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The physical quantity whose SI unit is hertz is",
         "options": [
-          "frequency",
-          "amplitude",
           "wavelength",
+          "amplitude",
+          "frequency",
           "speed"
         ],
         "explanation": "Frequency is the number of vibrations (complete waves) produced in one second; unit s^-1 or hertz."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "ஹெர்ட்ஸ் என்பதை SI அலகாகக் கொண்ட இயற்பியல் அளவு",
         "options": [
-          "அதிர்வெண்",
-          "வீச்சு",
           "அலைநீளம்",
+          "வீச்சு",
+          "அதிர்வெண்",
           "வேகம்"
         ],
         "explanation": "ஒரு வினாடியில் உண்டாகும் அதிர்வுகளின் எண்ணிக்கை அதிர்வெண்; அலகு வி^-1 அல்லது ஹெர்ட்ஸ்."
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 100,
       "quote": "V. 4. Explain how does SONAR work?",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "SONAR, used to find the depth of the sea, works by",
         "options": [
-          "sending radio waves into the air",
-          "using visible light under water",
           "sending ultrasonic waves and detecting the waves reflected from the seabed",
+          "using visible light under water",
+          "sending radio waves into the air",
           "measuring water temperature"
         ],
         "explanation": "The time interval between transmission and reception, with the speed of sound in water, gives the distance: 2d/t = v."
@@ -517,9 +517,9 @@
       "ta": {
         "q": "கடலின் ஆழத்தை அறியப் பயன்படும் சோனார் செயல்படும் விதம்",
         "options": [
-          "காற்றில் வானொலி அலைகளை அனுப்புவது",
-          "நீரினுள் கட்புலனாகும் ஒளியைப் பயன்படுத்துவது",
           "மீயொலி அலைகளை அனுப்பி, கடலடியிலிருந்து எதிரொலித்து வரும் அலைகளை உணர்வது",
+          "நீரினுள் கட்புலனாகும் ஒளியைப் பயன்படுத்துவது",
+          "காற்றில் வானொலி அலைகளை அனுப்புவது",
           "நீரின் வெப்பநிலையை அளப்பது"
         ],
         "explanation": "பரப்பியிலிருந்து அனுப்பப்பட்டு எதிரொலித்து வரும் நேரத்தையும் நீரில் ஒலியின் வேகத்தையும் கொண்டு தொலைவு கணக்கிடப்படுகிறது: 2d/t = v."

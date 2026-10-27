@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 11,
       "quote": "Rulers, measuring tapes and metre scales are used to measure d. length",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Rulers, measuring tapes and metre scales are used to measure",
         "options": [
-          "length",
-          "mass",
           "weight",
+          "mass",
+          "length",
           "time"
         ],
         "explanation": "A ruler, tape or metre scale is a length-measuring device."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "அளவுகோல், அளவு நாடா, மீட்டர் அளவுகோல் ஆகியவை எதை அளக்கப் பயன்படுகின்றன?",
         "options": [
-          "நீளம்",
-          "நிறை",
           "எடை",
+          "நிறை",
+          "நீளம்",
           "காலம்"
         ],
         "explanation": "அளவுகோல், அளவு நாடா போன்றவை நீளத்தை அளக்கும் கருவிகள்."
@@ -68,24 +68,24 @@
       "bloom": "remember",
       "page": 11,
       "quote": "Metre is the unit of ________",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The metre is the SI unit of",
         "options": [
-          "mass",
+          "length",
           "time",
           "temperature",
-          "length"
+          "mass"
         ],
         "explanation": "The metre is the SI base unit of length."
       },
       "ta": {
         "q": "மீட்டர் என்பது எதன் அலகு?",
         "options": [
-          "நிறை",
+          "நீளம்",
           "காலம்",
           "வெப்பநிலை",
-          "நீளம்"
+          "நிறை"
         ],
         "explanation": "மீட்டர் நீளத்தின் SI அலகு."
       }
@@ -126,13 +126,13 @@
       "bloom": "apply",
       "page": 11,
       "quote": "Thickness of a cricket ball is measured by ___________",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The thickness (diameter) of a cricket ball is measured by a",
         "options": [
           "screw gauge",
-          "Vernier caliper",
           "physical balance",
+          "Vernier caliper",
           "spring balance"
         ],
         "explanation": "Small solid objects such as a ball are measured with a Vernier caliper; the screw gauge suits thin wires and sheets."
@@ -141,8 +141,8 @@
         "q": "கிரிக்கெட் பந்தின் தடிமனை அளவிடப் பயன்படுவது",
         "options": [
           "திருகு அளவி",
-          "வெர்னியர் அளவி",
           "இயற்பியல் தராசு",
+          "வெர்னியர் அளவி",
           "சுருள்வில் தராசு"
         ],
         "explanation": "பந்து போன்றவற்றின் தடிமனை வெர்னியர் அளவியால் அளக்கலாம்; மெல்லிய கம்பி, தகடுகளுக்குத் திருகு அளவி பயன்படும்."
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 11,
       "quote": "A physical balance measures small differences in mass up to ______",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A physical balance can measure mass correct to a",
         "options": [
           "gram",
-          "kilogram",
+          "milligram",
           "quintal",
-          "milligram"
+          "kilogram"
         ],
         "explanation": "A physical balance is a sensitive laboratory balance that measures mass correct to a milligram."
       },
@@ -199,9 +199,9 @@
         "q": "இயற்பியல் தராசு நிறையை எந்த அளவிற்குத் துல்லியமாக அளவிடும்?",
         "options": [
           "கிராம்",
-          "கிலோகிராம்",
+          "மில்லி கிராம்",
           "குவிண்டால்",
-          "மில்லி கிராம்"
+          "கிலோகிராம்"
         ],
         "explanation": "இயற்பியல் தராசு மில்லி கிராம் அளவிற்குத் துல்லியமாக அளவிடும்."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 11,
       "quote": "3. In everyday life, we use the term weight instead of mass.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which statement about everyday usage is correct?",
         "options": [
           "In daily life we use the word 'mass' when we actually mean 'weight'",
-          "In daily life we use the word 'weight' when we actually mean 'mass'",
+          "Weight is a scalar and mass is a vector",
           "Mass and weight are always measured in the same unit",
-          "Weight is a scalar and mass is a vector"
+          "In daily life we use the word 'weight' when we actually mean 'mass'"
         ],
         "explanation": "The book says we commonly use the term 'weight', which is actually 'mass'. Mass is a scalar in kg; weight is a force in newton."
       },
@@ -257,9 +257,9 @@
         "q": "அன்றாட வாழ்வில் பயன்பாடு குறித்துச் சரியான கூற்று எது?",
         "options": [
           "எடை என்பதற்குப் பதிலாக நாம் 'நிறை' என்ற சொல்லைப் பயன்படுத்துகிறோம்",
-          "நிறை என்பதற்குப் பதிலாக நாம் 'எடை' என்ற சொல்லைப் பயன்படுத்துகிறோம்",
+          "எடை ஸ்கேலர் அளவு; நிறை வெக்டர் அளவு",
           "நிறையும் எடையும் எப்போதும் ஒரே அலகில் அளக்கப்படுகின்றன",
-          "எடை ஸ்கேலர் அளவு; நிறை வெக்டர் அளவு"
+          "நிறை என்பதற்குப் பதிலாக நாம் 'எடை' என்ற சொல்லைப் பயன்படுத்துகிறோம்"
         ],
         "explanation": "அன்றாட வாழ்வில் 'எடை' எனக் கூறுவது உண்மையில் 'நிறை' ஆகும். நிறை ஸ்கேலர் (கி.கி); எடை விசை (நியூட்டன்)."
       }
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 12,
       "quote": "2. Screw gauge, Vernier caliper, Beam balance, Digital balance - Vegetables, Coins, Gold ornaments, Cricket ball",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Match the instrument in List I with the object it measures in List II:\n(a) Screw gauge\n(b) Vernier caliper\n(c) Beam balance\n(d) Digital balance\n— \n(1) Vegetables\n(2) Gold ornaments\n(3) Cricket ball\n(4) Coins",
         "options": [
           "a-3, b-1, c-4, d-2",
-          "a-2, b-1, c-4, d-3",
+          "a-4, b-3, c-1, d-2",
           "a-3, b-4, c-1, d-2",
-          "a-4, b-3, c-1, d-2"
+          "a-2, b-1, c-4, d-3"
         ],
         "explanation": "Screw gauge - thickness of coins; Vernier caliper - cricket ball; beam balance - vegetables; digital balance - gold ornaments."
       },
@@ -402,9 +402,9 @@
         "q": "கருவியைப் (பட்டியல் I), அது அளவிடும் பொருளுடன் (பட்டியல் II) பொருத்துக:\n(a) திருகு அளவி\n(b) வெர்னியர் அளவி\n(c) பொதுத் தராசு\n(d) எண்ணியல் தராசு\n— \n(1) காய்கறிகள்\n(2) தங்க நகைகள்\n(3) கிரிக்கெட் பந்து\n(4) நாணயங்கள்",
         "options": [
           "a-3, b-1, c-4, d-2",
-          "a-2, b-1, c-4, d-3",
+          "a-4, b-3, c-1, d-2",
           "a-3, b-4, c-1, d-2",
-          "a-4, b-3, c-1, d-2"
+          "a-2, b-1, c-4, d-3"
         ],
         "explanation": "திருகு அளவி - நாணயம்; வெர்னியர் அளவி - கிரிக்கெட் பந்து; பொதுத் தராசு - காய்கறிகள்; எண்ணியல் தராசு - தங்க நகைகள்."
       }
@@ -561,24 +561,24 @@
       "bloom": "remember",
       "page": 12,
       "quote": "3. What is the full form of SI system?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "SI in the SI system of units stands for",
         "options": [
-          "Standard Indian system",
+          "International System of Units",
           "Scientific Index of units",
           "Systematic Instrument units",
-          "International System of Units"
+          "Standard Indian system"
         ],
         "explanation": "SI is the International System of Units, recommended by the General Conference on Weights and Measures at Paris in 1960."
       },
       "ta": {
         "q": "SI முறை என்பதன் விரிவாக்கம்",
         "options": [
-          "படித்தர இந்திய முறை",
+          "பன்னாட்டு அலகு முறை (International System of Units)",
           "அறிவியல் அலகு குறியீடு",
           "முறையான கருவி அலகுகள்",
-          "பன்னாட்டு அலகு முறை (International System of Units)"
+          "படித்தர இந்திய முறை"
         ],
         "explanation": "SI என்பது International System of Units; இது 1960-இல் பாரிசில் எடைகள், அளவீடுகள் பொது மாநாட்டால் பரிந்துரைக்கப்பட்டது."
       }
@@ -590,14 +590,14 @@
       "bloom": "understand",
       "page": 12,
       "quote": "4. Define least count of any device.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The least count of a measuring instrument is",
         "options": [
           "the largest value that can be measured with it",
-          "the smallest value that can be measured with it",
+          "the number of its divisions",
           "its zero error",
-          "the number of its divisions"
+          "the smallest value that can be measured with it"
         ],
         "explanation": "Least count is the smallest value the instrument can measure accurately, e.g. 1 mm for a metre scale."
       },
@@ -605,9 +605,9 @@
         "q": "ஒரு கருவியின் மீச்சிற்றளவு என்பது",
         "options": [
           "அதனால் அளவிடக்கூடிய மிகப்பெரிய மதிப்பு",
-          "அக்கருவியால் அளவிடக்கூடிய மிகச்சிறிய மதிப்பு",
+          "அதன் பிரிவுகளின் எண்ணிக்கை",
           "அதன் சுழிப்பிழை",
-          "அதன் பிரிவுகளின் எண்ணிக்கை"
+          "அக்கருவியால் அளவிடக்கூடிய மிகச்சிறிய மதிப்பு"
         ],
         "explanation": "மீச்சிற்றளவு என்பது கருவியால் துல்லியமாக அளவிடக்கூடிய மிகச்சிறிய மதிப்பு; எ.கா: மீட்டர் அளவுகோலுக்கு 1 மி.மீ."
       }
@@ -619,12 +619,12 @@
       "bloom": "understand",
       "page": 12,
       "quote": "5. What do you know about pitch of screw gauge?",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The pitch of a screw gauge is the distance moved by the tip of the screw",
         "options": [
-          "for one complete rotation of the head",
           "for one division of the head scale",
+          "for one complete rotation of the head",
           "for ten rotations of the head",
           "when the jaws touch each other"
         ],
@@ -633,8 +633,8 @@
       "ta": {
         "q": "திருகு அளவியின் புரியிடைத் தூரம் என்பது திருகின் முனை",
         "options": [
-          "தலைக்கோல் ஒரு முழுச் சுற்று சுற்றும்போது நகரும் தொலைவு",
           "தலைக்கோலின் ஒரு பிரிவு சுற்றும்போது நகரும் தொலைவு",
+          "தலைக்கோல் ஒரு முழுச் சுற்று சுற்றும்போது நகரும் தொலைவு",
           "தலைக்கோல் பத்துச் சுற்று சுற்றும்போது நகரும் தொலைவு",
           "இரு முனைகளும் தொடும்போது நகரும் தொலைவு"
         ],
@@ -764,24 +764,24 @@
       "bloom": "apply",
       "page": 12,
       "quote": "IX. 2. The main scale reading while measuring the thickness of a rubber ball using Vernier caliper is 7 cm and the Vernier scale coincidence is 6. Find the radius of the ball.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "While measuring the diameter (thickness) of a rubber ball with a Vernier caliper (L.C. = 0.01 cm), the main scale reading is 7 cm and the Vernier coincidence is 6. The radius of the ball is",
         "options": [
-          "7.06 cm",
+          "3.53 cm",
           "7.6 cm",
           "3.8 cm",
-          "3.53 cm"
+          "7.06 cm"
         ],
         "explanation": "Diameter = 7 + 6 x 0.01 = 7.06 cm; radius = 7.06 / 2 = 3.53 cm."
       },
       "ta": {
         "q": "வெர்னியர் அளவியால் (மீச்சிற்றளவு 0.01 செ.மீ) ஒரு ரப்பர் பந்தின் விட்டத்தை (தடிமனை) அளக்கும்போது முதன்மைக் கோல் அளவு 7 செ.மீ; வெர்னியர் ஒன்றிப்பு 6. பந்தின் ஆரம்",
         "options": [
-          "7.06 செ.மீ",
+          "3.53 செ.மீ",
           "7.6 செ.மீ",
           "3.8 செ.மீ",
-          "3.53 செ.மீ"
+          "7.06 செ.மீ"
         ],
         "explanation": "விட்டம் = 7 + 6 x 0.01 = 7.06 செ.மீ; ஆரம் = 7.06 / 2 = 3.53 செ.மீ."
       }
@@ -793,14 +793,14 @@
       "bloom": "apply",
       "page": 12,
       "quote": "IX. 3. Find the thickness of a five rupee coin with the screw gauge, if the pitch scale reading is 1 mm and its head scale coincidence is 68.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "A screw gauge (L.C. 0.01 mm) shows a pitch scale reading of 1 mm and a head scale coincidence of 68. The thickness of the coin is",
         "options": [
           "1.068 mm",
-          "1.68 mm",
+          "6.8 mm",
           "0.68 mm",
-          "6.8 mm"
+          "1.68 mm"
         ],
         "explanation": "Thickness = PSR + (HSC x LC) = 1 + 68 x 0.01 = 1.68 mm."
       },
@@ -808,9 +808,9 @@
         "q": "திருகு அளவியில் (மீச்சிற்றளவு 0.01 மி.மீ) புரிக்கோல் அளவு 1 மி.மீ, தலைக்கோல் ஒன்றிப்பு 68 எனில், நாணயத்தின் தடிமன்",
         "options": [
           "1.068 மி.மீ",
-          "1.68 மி.மீ",
+          "6.8 மி.மீ",
           "0.68 மி.மீ",
-          "6.8 மி.மீ"
+          "1.68 மி.மீ"
         ],
         "explanation": "தடிமன் = 1 + 68 x 0.01 = 1.68 மி.மீ."
       }

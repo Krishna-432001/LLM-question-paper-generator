@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 207,
       "quote": "2. This is the smallest unit of biosphere. a) Ecosystems b) Biome c) Environment d) None of the above",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which is the smallest unit of the biosphere?",
         "options": [
-          "Ecosystem",
-          "Biome",
           "Environment",
+          "Biome",
+          "Ecosystem",
           "Biosphere reserve"
         ],
         "explanation": "Ecosystems range in size from the smallest units (e.g. bark of a tree) to the global ecosystem or ecosphere."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "உயிர்க்கோளத்தின் மிகச்சிறிய அலகு",
         "options": [
-          "சூழ்நிலை மண்டலம்",
-          "பல்லுயிர்த் தொகுதி",
           "சுற்றுச்சூழல்",
+          "பல்லுயிர்த் தொகுதி",
+          "சூழ்நிலை மண்டலம்",
           "உயிர்க்கோளக் காப்பகம்"
         ],
         "explanation": "மரப்பட்டை போன்ற சிறிய அலகுகளும் ஒரு சூழ்நிலை மண்டலமாகும்."
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 207,
       "quote": "4. To which climatic conditions are Xerophytic plants specifically adapted to? a) Saline and sandy b) Limited moisture availability c) Cold temperature d) Humid",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Xerophytic plants are specifically adapted to",
         "options": [
           "cold temperature",
-          "humid conditions",
           "limited moisture availability",
+          "humid conditions",
           "waterlogged soils"
         ],
         "explanation": "Deserts have a special vegetation of xerophytes: drought-resistant thorny scrubs, bushes and palms."
@@ -112,8 +112,8 @@
         "q": "வறண்டநிலத் தாவரங்கள் (Xerophytes) எச்சூழலுக்கு ஏற்பத் தகவமைந்தவை?",
         "options": [
           "குளிர் வெப்பநிலை",
-          "ஈரப்பதம் மிகுந்த சூழல்",
           "குறைந்த அளவு ஈரப்பதம்",
+          "ஈரப்பதம் மிகுந்த சூழல்",
           "நீர் தேங்கிய மண்"
         ],
         "explanation": "பாலைவனத்தில் முட்புதர், பேரீச்சை போன்ற வறட்சி தாங்கும் தாவரங்கள் வளரும்."
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 208,
       "quote": "III. 5. The vegetative type commonly found in desert biomes is called ______.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The vegetation type commonly found in desert biomes is called",
         "options": [
           "hydrophytes",
           "mesophytes",
-          "epiphytes",
-          "xerophytes"
+          "xerophytes",
+          "epiphytes"
         ],
         "explanation": "Deserts have less than 25 cm rainfall and sandy, saline soils."
       },
@@ -287,8 +287,8 @@
         "options": [
           "நீர்த்தாவரங்கள்",
           "இடைநிலைத் தாவரங்கள்",
-          "தொற்றுத் தாவரங்கள்",
-          "வறண்டநிலத் தாவரங்கள் (Xerophytes)"
+          "வறண்டநிலத் தாவரங்கள் (Xerophytes)",
+          "தொற்றுத் தாவரங்கள்"
         ],
         "explanation": "பாலைவனத்தில் ஆண்டு மழை 25 செ.மீ.க்கும் குறைவு."
       }
@@ -329,12 +329,12 @@
       "bloom": "remember",
       "page": 208,
       "quote": "IV. 3. What does the term 'biodiversity' mean?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Biodiversity refers to",
         "options": [
-          "only the number of animals",
           "the wide variety of living organisms found in a habitat",
+          "only the number of animals",
           "only plant species",
           "the non-living components of an ecosystem"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "பல்லுயிர் (உயிரினப் பன்மை) என்பது",
         "options": [
-          "விலங்குகளின் எண்ணிக்கை மட்டும்",
           "ஒரு வாழிடத்தில் காணப்படும் பலவகை உயிரினங்கள்",
+          "விலங்குகளின் எண்ணிக்கை மட்டும்",
           "தாவர இனங்கள் மட்டும்",
           "சூழ்நிலை மண்டலத்தின் உயிரற்ற கூறுகள்"
         ],
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 208,
       "quote": "IV. 5. Mention the various terrestrial biomes.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which of the following is NOT a terrestrial biome listed in the textbook?",
         "options": [
           "Tropical forest",
-          "Tropical savanna",
+          "Estuary",
           "Tundra",
-          "Estuary"
+          "Tropical savanna"
         ],
         "explanation": "Terrestrial biomes: tropical forest, tropical savanna, desert, temperate grassland and tundra."
       },
@@ -402,9 +402,9 @@
         "q": "நூலில் குறிப்பிடப்பட்ட நிலவாழ் பல்லுயிர்த் தொகுதி அல்லாதது",
         "options": [
           "வெப்பமண்டலக் காடு",
-          "வெப்பமண்டலப் புல்வெளி",
+          "ஓதப்பொங்கு முகம்",
           "தூந்திரா",
-          "ஓதப்பொங்கு முகம்"
+          "வெப்பமண்டலப் புல்வெளி"
         ],
         "explanation": "பாலைவனம், மிதவெப்பப் புல்வெளியும் நிலவாழ் தொகுதிகள்."
       }
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 208,
       "quote": "VI. 1. Producers and Decomposers.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Decomposers are also called saprotrophs because they",
         "options": [
           "prepare food by photosynthesis",
-          "live on dead and decaying plants and animals",
           "hunt herbivores",
+          "live on dead and decaying plants and animals",
           "feed on living plants"
         ],
         "explanation": "Eg. fungus and mushrooms."
@@ -460,8 +460,8 @@
         "q": "சிதைப்போர்கள் 'சாப்ரோட்ரோஃப்கள்' எனப்படக் காரணம்",
         "options": [
           "ஒளிச்சேர்க்கையால் உணவு தயாரிப்பதால்",
-          "அவை இறந்த, அழுகும் தாவர, விலங்குகளில் வாழ்வதால்",
           "தாவர உண்ணிகளை வேட்டையாடுவதால்",
+          "அவை இறந்த, அழுகும் தாவர, விலங்குகளில் வாழ்வதால்",
           "உயிருள்ள தாவரங்களை உண்பதால்"
         ],
         "explanation": "பூஞ்சை, காளான்கள் எடுத்துக்காட்டு."
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 208,
       "quote": "VIII. 1. World Wild Life Day",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "World Wildlife Day is observed on",
         "options": [
           "21 March",
-          "22 April",
+          "3 March",
           "5 June",
-          "3 March"
+          "22 April"
         ],
         "explanation": "21 March is the International Day of Forests; 22 March World Water Day."
       },
@@ -489,9 +489,9 @@
         "q": "உலக வனவிலங்குகள் தினம் கொண்டாடப்படும் நாள்",
         "options": [
           "மார்ச் 21",
-          "ஏப்ரல் 22",
+          "மார்ச் 3",
           "ஜூன் 5",
-          "மார்ச் 3"
+          "ஏப்ரல் 22"
         ],
         "explanation": "மார்ச் 21 பன்னாட்டுக் காடுகள் தினம்; மார்ச் 22 உலக நீர் தினம்."
       }

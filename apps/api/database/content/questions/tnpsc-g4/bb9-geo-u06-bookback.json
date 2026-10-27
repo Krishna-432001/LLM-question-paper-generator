@@ -68,24 +68,24 @@
       "bloom": "remember",
       "page": 217,
       "quote": "5. The Secondary sector of the economy produces ______ from raw materials. a) Semi finished goods b) Finished goods c) Economic goods d) raw materials",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The secondary sector of the economy produces ______ from raw materials.",
         "options": [
-          "finished goods",
+          "economic goods only",
           "semi-finished goods only",
           "raw materials",
-          "economic goods only"
+          "finished goods"
         ],
         "explanation": "Secondary activities transform raw materials into finished goods, e.g. iron and steel, automobile manufacturing."
       },
       "ta": {
         "q": "பொருளாதாரத்தின் இரண்டாம் நிலைத் தொழிலில் மூலப்பொருள்களிலிருந்து உற்பத்தி செய்யப்படுவது",
         "options": [
-          "முடிக்கப்பட்ட பொருள்கள்",
+          "பொருளாதாரப் பொருள்கள் மட்டும்",
           "பாதி முடிக்கப்பட்ட பொருள்கள் மட்டும்",
           "மூலப்பொருள்கள்",
-          "பொருளாதாரப் பொருள்கள் மட்டும்"
+          "முடிக்கப்பட்ட பொருள்கள்"
         ],
         "explanation": "எஃகு, வாகன உற்பத்தி இரண்டாம் நிலைத் தொழில்கள்."
       }
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 218,
       "quote": "IV. 3. Define. i) Population growth ii) Census iii) Sustainable Development",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The Brundtland Commission (1987) defined sustainable development as",
         "options": [
           "rapid industrial growth at any cost",
           "development that focuses only on economic growth",
-          "development that meets the needs of the present without compromising the ability of future generations to meet their own needs",
-          "conservation without any development"
+          "conservation without any development",
+          "development that meets the needs of the present without compromising the ability of future generations to meet their own needs"
         ],
         "explanation": "Sustainable development harmonises economic growth, social aspects and environmental protection."
       },
@@ -229,8 +229,8 @@
         "options": [
           "எந்த விலையிலும் விரைவான தொழில் வளர்ச்சி",
           "பொருளாதார வளர்ச்சியை மட்டும் கருதும் வளர்ச்சி",
-          "எதிர்காலத் தலைமுறையின் தேவைகளைப் பாதிக்காமல் நிகழ்காலத் தேவைகளை நிறைவு செய்யும் வளர்ச்சி",
-          "வளர்ச்சியின்றிப் பாதுகாப்பு மட்டும்"
+          "வளர்ச்சியின்றிப் பாதுகாப்பு மட்டும்",
+          "எதிர்காலத் தலைமுறையின் தேவைகளைப் பாதிக்காமல் நிகழ்காலத் தேவைகளை நிறைவு செய்யும் வளர்ச்சி"
         ],
         "explanation": "பொருளாதார வளர்ச்சி, சமூகம், சுற்றுச்சூழல் பாதுகாப்பு ஆகிய மூன்றையும் இணைப்பது வளம் குன்றா வளர்ச்சி."
       }
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 218,
       "quote": "IV. 3. i) Population growth",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Population growth refers to",
         "options": [
-          "an increase in the number of people residing in a particular area during a particular period",
-          "the difference between births and migration",
           "a decrease in deaths only",
+          "the difference between births and migration",
+          "an increase in the number of people residing in a particular area during a particular period",
           "the spread of people over the earth's surface"
         ],
         "explanation": "Natural increase is the difference between the birth rate and the death rate."
@@ -285,9 +285,9 @@
       "ta": {
         "q": "மக்கள்தொகை வளர்ச்சி என்பது",
         "options": [
-          "குறிப்பிட்ட காலத்தில் ஓரிடத்தில் வாழும் மக்களின் எண்ணிக்கை அதிகரிப்பது",
-          "பிறப்புக்கும் இடப்பெயர்வுக்குமான வேறுபாடு",
           "இறப்பு குறைவது மட்டும்",
+          "பிறப்புக்கும் இடப்பெயர்வுக்குமான வேறுபாடு",
+          "குறிப்பிட்ட காலத்தில் ஓரிடத்தில் வாழும் மக்களின் எண்ணிக்கை அதிகரிப்பது",
           "புவியில் மக்கள் பரவியிருக்கும் முறை"
         ],
         "explanation": "பிறப்பு வீதத்திற்கும் இறப்பு வீதத்திற்குமான வேறுபாடு இயற்கை அதிகரிப்பு."
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 218,
       "quote": "V. 2. Population growth has to be brought under control.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Population growth has to be controlled mainly because",
         "options": [
-          "populations never grow",
-          "resources are unlimited",
           "rapid growth over-exploits resources and upsets the ecosystem",
+          "resources are unlimited",
+          "populations never grow",
           "it reduces the death rate"
         ],
         "explanation": "Over-population means more people than resources can sustain."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "மக்கள்தொகை வளர்ச்சி கட்டுப்படுத்தப்பட வேண்டும்; ஏனெனில்",
         "options": [
-          "மக்கள்தொகை ஒருபோதும் வளராது",
-          "வளங்கள் எல்லையற்றவை",
           "விரைவான வளர்ச்சி வளங்களை அளவுக்கு மீறிப் பயன்படுத்தி சூழலைச் சீர்குலைக்கிறது",
+          "வளங்கள் எல்லையற்றவை",
+          "மக்கள்தொகை ஒருபோதும் வளராது",
           "இறப்பு வீதம் குறையும்"
         ],
         "explanation": "வளங்களுக்கு மேல் மக்கள் இருப்பது மிகை மக்கள்தொகை."

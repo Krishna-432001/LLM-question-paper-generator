@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 234,
       "quote": "2. 'Drop, Cover, Hold' is a mock drill advocated for a. Fire b. Earthquake c. Tsunami d. Riot",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "'Drop, Cover and Hold on' is the recommended mock drill for",
         "options": [
           "a fire",
-          "a tsunami",
+          "an earthquake",
           "a riot",
-          "an earthquake"
+          "a tsunami"
         ],
         "explanation": "For fire the drill is 'Stop, Drop and Roll'."
       },
@@ -54,9 +54,9 @@
         "q": "'விழு! மூடிக்கொள்! பிடித்துக்கொள்!' என்ற ஒத்திகைப் பயிற்சி எதற்கானது?",
         "options": [
           "தீ விபத்து",
-          "ஆழிப்பேரலை",
+          "நிலநடுக்கம்",
           "கலவரம்",
-          "நிலநடுக்கம்"
+          "ஆழிப்பேரலை"
         ],
         "explanation": "தீ விபத்துக்கு 'நில்! விழு! உருள்!' என்பதே பயிற்சி."
       }
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 234,
       "quote": "4. Which of the following statements is untrue? ... c. 'If sea water recedes back, run to higher places' is for flood.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which of the following statements is untrue?",
         "options": [
           "'Stop, Drop, Roll' is for fire",
-          "'If sea water recedes, run to higher places' is the response for a flood",
+          "'If gunshots are heard, drop to the ground and cover the head' is for a riot",
           "'Drop, Cover, Hold' is for an earthquake",
-          "'If gunshots are heard, drop to the ground and cover the head' is for a riot"
+          "'If sea water recedes, run to higher places' is the response for a flood"
         ],
         "explanation": "Receding sea water after an earthquake is a warning for a tsunami, not a flood."
       },
@@ -112,9 +112,9 @@
         "q": "பின்வருவனவற்றுள் தவறான கூற்று எது?",
         "options": [
           "தீ விபத்திலிருந்து தப்பிக்க 'நில்! விழு! உருள்!'",
-          "'கடல் நீர் பின்வாங்கினால் உயரமான இடத்திற்கு ஓடு' என்பது வெள்ளப் பெருக்குக்கான தயார்நிலை",
+          "துப்பாக்கிச் சத்தம் கேட்டால் தரையில் படுத்துத் தலையை மூடிக்கொள்ளுதல் - கலவரம்",
           "'விழு! மூடிக்கொள்! பிடித்துக்கொள்!' என்பது நிலநடுக்கத் தயார்நிலை",
-          "துப்பாக்கிச் சத்தம் கேட்டால் தரையில் படுத்துத் தலையை மூடிக்கொள்ளுதல் - கலவரம்"
+          "'கடல் நீர் பின்வாங்கினால் உயரமான இடத்திற்கு ஓடு' என்பது வெள்ளப் பெருக்குக்கான தயார்நிலை"
         ],
         "explanation": "கடல் நீர் பின்வாங்குவது ஆழிப்பேரலை எச்சரிக்கை; வெள்ளத்திற்கு அன்று."
       }
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 235,
       "quote": "II. 1. Who are the community's first responders to disaster?",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Who are a community's first responders during fire, flood or acts of terrorism?",
         "options": [
           "Insurance agents and bankers",
-          "Journalists and lawyers",
+          "Police officers, firefighters and emergency medical technicians",
           "Meteorologists only",
-          "Police officers, firefighters and emergency medical technicians"
+          "Journalists and lawyers"
         ],
         "explanation": "Mental health professionals and the community's hospitals may also be activated in the early minutes and hours."
       },
@@ -170,9 +170,9 @@
         "q": "தீ, வெள்ளம், பயங்கரவாதச் செயல்களின்போது சமூகத்தின் முதன்மை மீட்பாளர்கள்",
         "options": [
           "காப்பீட்டு முகவர்கள், வங்கியாளர்கள்",
-          "செய்தியாளர்கள், வழக்கறிஞர்கள்",
+          "காவல்துறையினர், தீயணைப்பு வீரர்கள், அவசர மருத்துவ உதவியாளர்கள்",
           "வானிலையாளர்கள் மட்டும்",
-          "காவல்துறையினர், தீயணைப்பு வீரர்கள், அவசர மருத்துவ உதவியாளர்கள்"
+          "செய்தியாளர்கள், வழக்கறிஞர்கள்"
         ],
         "explanation": "மனநல நிபுணர்களும் மருத்துவமனைகளும் ஆரம்ப மணி நேரங்களில் இயக்கப்படலாம்."
       }
@@ -213,12 +213,12 @@
       "bloom": "remember",
       "page": 235,
       "quote": "II. 3. How many males and females die per day due to fire in India?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "According to the textbook, about how many females and males die every day in India due to fire?",
         "options": [
-          "About 21 females and 42 males",
           "About 42 females and 21 males",
+          "About 21 females and 42 males",
           "About 25 females and 25 males",
           "About 66 females and 34 males"
         ],
@@ -227,8 +227,8 @@
       "ta": {
         "q": "நூலின்படி இந்தியாவில் தீ விபத்தால் நாளொன்றுக்கு ஏறத்தாழ எத்தனை பெண்கள், ஆண்கள் இறக்கின்றனர்?",
         "options": [
-          "ஏறத்தாழ 21 பெண்கள், 42 ஆண்கள்",
           "ஏறத்தாழ 42 பெண்கள், 21 ஆண்கள்",
+          "ஏறத்தாழ 21 பெண்கள், 42 ஆண்கள்",
           "ஏறத்தாழ 25 பெண்கள், 25 ஆண்கள்",
           "ஏறத்தாழ 66 பெண்கள், 34 ஆண்கள்"
         ],
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 235,
       "quote": "III. 4. Write three sentences about what to do during fire.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "What should you do first when you hear a fire alarm or see a fire, according to the textbook?",
         "options": [
           "Use the lift to go down quickly",
-          "Run through smoke standing upright",
+          "Stay calm, pull the nearest fire alarm or call 112, and leave the building",
           "Open every door to look for the fire",
-          "Stay calm, pull the nearest fire alarm or call 112, and leave the building"
+          "Run through smoke standing upright"
         ],
         "explanation": "Walk, don't run, to the nearest exit; never use elevators; stay low if there is smoke."
       },
@@ -286,9 +286,9 @@
         "q": "தீ எச்சரிக்கை ஒலிக்கும்போது அல்லது தீயைக் காணும்போது நூலின்படி முதலில் செய்ய வேண்டியது",
         "options": [
           "மின்தூக்கியில் விரைவாக இறங்குதல்",
-          "புகையில் நிமிர்ந்து ஓடுதல்",
+          "அமைதியாக இருந்து அருகிலுள்ள தீ எச்சரிக்கையை இயக்குதல் அல்லது 112ஐ அழைத்துக் கட்டடத்தை விட்டு வெளியேறுதல்",
           "எல்லாக் கதவுகளையும் திறந்து தீயைத் தேடுதல்",
-          "அமைதியாக இருந்து அருகிலுள்ள தீ எச்சரிக்கையை இயக்குதல் அல்லது 112ஐ அழைத்துக் கட்டடத்தை விட்டு வெளியேறுதல்"
+          "புகையில் நிமிர்ந்து ஓடுதல்"
         ],
         "explanation": "நடந்து செல்க; ஓட வேண்டாம்; மின்தூக்கி பயன்படுத்த வேண்டாம்."
       }

@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 227,
       "quote": "II. Match: The art and science of mapping - Cartography; Actual shape of the earth - Geoid; NAVSTAR - USA; Bhuvan - ISRO",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Match List I with List II.\nList I: a) Art and science of map-making  b) Actual shape of the Earth  c) NAVSTAR  d) Bhuvan\nList II: 1) Geoid  2) ISRO  3) USA  4) Cartography",
         "options": [
-          "a-2 b-4 c-1 d-3",
-          "a-3 b-2 c-4 d-1",
           "a-4 b-1 c-3 d-2",
+          "a-3 b-2 c-4 d-1",
+          "a-2 b-4 c-1 d-3",
           "a-1 b-3 c-2 d-4"
         ],
         "explanation": "Cartography is map-making; the geoid is the actual shape of the Earth (an oblate spheroid); NAVSTAR GPS belongs to the USA; Bhuvan was launched by ISRO."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "பட்டியல் I-ஐ பட்டியல் II உடன் பொருத்துக.\nபட்டியல் I: அ) நிலவரைபடம் தயாரிக்கும் அறிவியல் கலை  ஆ) புவியின் உண்மை வடிவம்  இ) நவ்ஸ்டார்  ஈ) புவன்\nபட்டியல் II: 1) ஜியாய்டு  2) இஸ்ரோ  3) அமெரிக்க ஐக்கிய நாடுகள்  4) நிலவரைபடவியல்",
         "options": [
-          "அ-2 ஆ-4 இ-1 ஈ-3",
-          "அ-3 ஆ-2 இ-4 ஈ-1",
           "அ-4 ஆ-1 இ-3 ஈ-2",
+          "அ-3 ஆ-2 இ-4 ஈ-1",
+          "அ-2 ஆ-4 இ-1 ஈ-3",
           "அ-1 ஆ-3 இ-2 ஈ-4"
         ],
         "explanation": "நிலவரைபடவியல் - வரைபடக் கலை; ஜியாய்டு - புவியின் உண்மை வடிவம்; நவ்ஸ்டார் - அமெரிக்கா; புவன் - இஸ்ரோ."
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 228,
       "quote": "IV. 2. What are the components of a map?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following is NOT a component of a map listed in the textbook?",
         "options": [
           "Title",
           "Scale",
-          "Legend",
-          "Population"
+          "Population",
+          "Legend"
         ],
         "explanation": "Components: title, scale, direction, grid system, projection, legend, conventional signs and symbols."
       },
@@ -171,8 +171,8 @@
         "options": [
           "தலைப்பு",
           "அளவை",
-          "நிலவரைபடக் குறிப்பு",
-          "மக்கள்தொகை"
+          "மக்கள்தொகை",
+          "நிலவரைபடக் குறிப்பு"
         ],
         "explanation": "தலைப்பு, அளவை, திசை, வலைப்பின்னல், கோட்டுச் சட்டம், குறிப்பு, குறியீடுகள் ஆகியவை கூறுகள்."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 228,
       "quote": "IV. 5. Define remote sensing.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Remote sensing refers to",
         "options": [
           "measuring land with a chain",
-          "the observation and measurement of earthly objects without touching them",
+          "digging boreholes",
           "drawing maps by hand",
-          "digging boreholes"
+          "the observation and measurement of earthly objects without touching them"
         ],
         "explanation": "'Remote' means far away and 'sensing' means observing or collecting information."
       },
@@ -257,9 +257,9 @@
         "q": "தொலைநுண்ணுணர்வு (Remote sensing) என்பது",
         "options": [
           "சங்கிலியால் நிலத்தை அளத்தல்",
-          "பொருள்களைத் தொடாமல் தொலைவிலிருந்து கண்காணித்து அளவிடுதல்",
+          "ஆழ்துளைக் கிணறு தோண்டல்",
           "கையால் வரைபடம் வரைதல்",
-          "ஆழ்துளைக் கிணறு தோண்டல்"
+          "பொருள்களைத் தொடாமல் தொலைவிலிருந்து கண்காணித்து அளவிடுதல்"
         ],
         "explanation": "Remote - தொலைவு; Sensing - உணர்தல்."
       }
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 228,
       "quote": "V. 1. Satellite imageries stimulate map making.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "One advantage of satellite remote sensing over aerial photography is that satellites",
         "options": [
           "cost much less to build",
-          "need permission for every flight",
+          "collect large amounts of data of the entire area in a short span and are not affected by weather",
           "produce analogue records only",
-          "collect large amounts of data of the entire area in a short span and are not affected by weather"
+          "need permission for every flight"
         ],
         "explanation": "Satellites allow global coverage, repeatability and digital data; but the system is costly."
       },
@@ -315,9 +315,9 @@
         "q": "வான்வழிப் புகைப்படத்தை விடச் செயற்கைக்கோள் தொலைநுண்ணுணர்வின் நன்மை",
         "options": [
           "அமைப்புச் செலவு மிகக் குறைவு",
-          "ஒவ்வொரு பறப்புக்கும் அனுமதி தேவை",
+          "குறுகிய காலத்தில் பெரும்பரப்புத் தரவுகளைத் தருவதும் வானிலையால் பாதிக்கப்படாததும்",
           "பிம்பம் (analogue) மட்டுமே கிடைக்கும்",
-          "குறுகிய காலத்தில் பெரும்பரப்புத் தரவுகளைத் தருவதும் வானிலையால் பாதிக்கப்படாததும்"
+          "ஒவ்வொரு பறப்புக்கும் அனுமதி தேவை"
         ],
         "explanation": "செயற்கைக்கோள் தரவுகள் இலக்கமுறையில் இருப்பதால் மென்பொருளில் மேம்படுத்தலாம்."
       }
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 228,
       "quote": "VI. 3. GIS and GPS",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The U.S. implementation of the world's first and most used Global Navigation Satellite System, fully operational in 1995, is",
         "options": [
           "GIS",
-          "GPS",
+          "NavIC",
           "Galileo",
-          "NavIC"
+          "GPS"
         ],
         "explanation": "GIS is a computer-based tool combining hardware, software, geographic data and personnel; GPS is a satellite navigation system."
       },
@@ -373,9 +373,9 @@
         "q": "1995இல் முழுமையாகச் செயல்பட்ட, உலகின் முதல் மிகப் பரவலான உலகப் பயணச் செயற்கைக்கோள் அமைப்பான அமெரிக்கத் தொகுதி",
         "options": [
           "GIS",
-          "GPS",
+          "நாவிக்",
           "கலிலியோ",
-          "நாவிக்"
+          "GPS"
         ],
         "explanation": "GIS கணினி அடிப்படையிலான தகவல் மேலாண்மைக் கருவி."
       }

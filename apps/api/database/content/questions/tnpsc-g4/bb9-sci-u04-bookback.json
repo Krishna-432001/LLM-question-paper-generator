@@ -68,24 +68,24 @@
       "bloom": "remember",
       "page": 49,
       "quote": "4. Potential near a charge is the measure of its ___ to bring a positive charge at that point. d) work",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The electric potential at a point near a charge is a measure of the ______ done to bring a unit positive charge to that point.",
         "options": [
-          "force",
+          "work",
           "ability",
           "tendency",
-          "work"
+          "force"
         ],
         "explanation": "Electric potential is the work done on unit positive charge to bring it to that point against all electrical forces."
       },
       "ta": {
         "q": "ஒரு மின்னூட்டத்திற்கு அருகில் மின்னழுத்தம் என்பது ஓரலகு நேர் மின்னூட்டத்தை அப்புள்ளிக்குக் கொண்டு வரச் செய்யப்படும் ______ அளவாகும்.",
         "options": [
-          "விசையின்",
+          "வேலையின்",
           "திறமையின்",
           "போக்கின்",
-          "வேலையின்"
+          "விசையின்"
         ],
         "explanation": "மின்னழுத்தம் என்பது எல்லா மின்விசைகளுக்கும் எதிராக ஓரலகு நேர் மின்னூட்டத்தை அப்புள்ளிக்குக் கொண்டுவரச் செய்யப்படும் வேலை."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 49,
       "quote": "II. 5. Electric current - (b) ampere",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which of the following units is used to measure electric current?",
         "options": [
-          "coulomb",
-          "volt",
           "ampere",
+          "volt",
+          "coulomb",
           "ohm"
         ],
         "explanation": "1 A = 1 C / 1 s; the ampere is the SI unit of current."
@@ -169,9 +169,9 @@
       "ta": {
         "q": "மின்னோட்டத்தின் SI அலகு",
         "options": [
-          "கூலூம்",
-          "வோல்ட்",
           "ஆம்பியர்",
+          "வோல்ட்",
+          "கூலூம்",
           "ஓம்"
         ],
         "explanation": "1 A = 1 C / 1 s; மின்னோட்டத்தின் SI அலகு ஆம்பியர்."
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 50,
       "quote": "4. The domestic electricity in India is an ac with a frequency of ______ Hz.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The domestic electricity supply in India is an alternating current of frequency",
         "options": [
           "60 Hz",
-          "100 Hz",
+          "50 Hz",
           "220 Hz",
-          "50 Hz"
+          "100 Hz"
         ],
         "explanation": "In India the domestic supply is 220 V and 50 Hz (USA: 110 V and 60 Hz)."
       },
@@ -373,9 +373,9 @@
         "q": "இந்தியாவில் வீடுகளுக்கு அளிக்கப்படும் மின்சாரம் ______ Hz அதிர்வெண் கொண்ட மாறு மின்னோட்டம்.",
         "options": [
           "60 Hz",
-          "100 Hz",
+          "50 Hz",
           "220 Hz",
-          "50 Hz"
+          "100 Hz"
         ],
         "explanation": "இந்தியாவில் 220 V, 50 Hz; அமெரிக்காவில் 110 V, 60 Hz."
       }
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 50,
       "quote": "3. Define electric field.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The region around a charge in which another charge experiences an electric force is called the",
         "options": [
-          "electric field",
-          "magnetic field",
           "electric potential",
+          "magnetic field",
+          "electric field",
           "electromotive force"
         ],
         "explanation": "Electric field at a point is a measure of the force acting on a unit positive charge placed there."
@@ -517,9 +517,9 @@
       "ta": {
         "q": "ஒரு மின்னூட்டத்தைச் சுற்றி, மற்றொரு மின்னூட்டம் மின்விசையை உணரும் பகுதி",
         "options": [
-          "மின்புலம்",
-          "காந்தப்புலம்",
           "மின்னழுத்தம்",
+          "காந்தப்புலம்",
+          "மின்புலம்",
           "மின்னியக்கு விசை"
         ],
         "explanation": "ஒரு புள்ளியில் வைக்கப்படும் ஓரலகு நேர் மின்னூட்டத்தின் மீது செயல்படும் விசையின் அளவே அப்புள்ளியில் மின்புலம்."
@@ -532,24 +532,24 @@
       "bloom": "remember",
       "page": 50,
       "quote": "4. Define electric current and give its unit.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Electric current is the",
         "options": [
-          "total charge stored in a cell; unit coulomb",
+          "rate at which charges flow past a point in a circuit; unit ampere",
           "work done per unit charge; unit volt",
           "opposition to flow of charge; unit ohm",
-          "rate at which charges flow past a point in a circuit; unit ampere"
+          "total charge stored in a cell; unit coulomb"
         ],
         "explanation": "I = q/t; 1 A = 1 C s^-1."
       },
       "ta": {
         "q": "மின்னோட்டம் என்பது",
         "options": [
-          "மின்கலத்தில் சேமிக்கப்பட்ட மின்னூட்டம்; அலகு கூலூம்",
+          "மின்சுற்றில் ஒரு புள்ளி வழியாக மின்னூட்டங்கள் பாயும் வீதம்; அலகு ஆம்பியர்",
           "ஓரலகு மின்னூட்டத்திற்குச் செய்யப்படும் வேலை; அலகு வோல்ட்",
           "மின்னூட்டப் பாய்வின் எதிர்ப்பு; அலகு ஓம்",
-          "மின்சுற்றில் ஒரு புள்ளி வழியாக மின்னூட்டங்கள் பாயும் வீதம்; அலகு ஆம்பியர்"
+          "மின்கலத்தில் சேமிக்கப்பட்ட மின்னூட்டம்; அலகு கூலூம்"
         ],
         "explanation": "I = q/t; 1 A = 1 C வி^-1."
       }
@@ -677,24 +677,24 @@
       "bloom": "apply",
       "page": 50,
       "quote": "VII. 1 (b). how many electrons are transferred (charge 0.4 C, e = 1.6 x 10^-19 C)",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "How many electrons must be transferred to give a charge of 0.4 C (e = 1.6 x 10^-19 C)?",
         "options": [
-          "2.5 x 10^18",
+          "6.4 x 10^-20",
           "6.25 x 10^18",
           "2.5 x 10^19",
-          "6.4 x 10^-20"
+          "2.5 x 10^18"
         ],
         "explanation": "n = q / e = 0.4 / 1.6 x 10^-19 = 2.5 x 10^18 electrons."
       },
       "ta": {
         "q": "0.4 C மின்னூட்டத்தை அளிக்க இடம்பெயர வேண்டிய எலக்ட்ரான்களின் எண்ணிக்கை (e = 1.6 x 10^-19 C)",
         "options": [
-          "2.5 x 10^18",
+          "6.4 x 10^-20",
           "6.25 x 10^18",
           "2.5 x 10^19",
-          "6.4 x 10^-20"
+          "2.5 x 10^18"
         ],
         "explanation": "n = q / e = 0.4 / 1.6 x 10^-19 = 2.5 x 10^18."
       }
@@ -735,24 +735,24 @@
       "bloom": "apply",
       "page": 50,
       "quote": "3. The values of current (I) flowing through a resistor for various potential differences V are given: I = 0.5, 1.0, 2.0, 3.0, 4.0 A; V = 1.6, 3.4, 6.7, 10.2, 13.2 V. What is the value of the resistor? [Hint: plot V-I graph and take slope]",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "For a resistor, V = 1.6, 3.4, 6.7, 10.2 and 13.2 V for I = 0.5, 1, 2, 3 and 4 A. The slope of the V-I graph gives a resistance of about",
         "options": [
-          "0.3 ohm",
+          "3.3 ohm",
           "33 ohm",
           "13 ohm",
-          "3.3 ohm"
+          "0.3 ohm"
         ],
         "explanation": "V/I is about 3.2 to 3.4 ohm in every case, so the slope (resistance) is about 3.3 ohm."
       },
       "ta": {
         "q": "ஒரு மின்தடையத்தில் I = 0.5, 1, 2, 3, 4 A க்கு முறையே V = 1.6, 3.4, 6.7, 10.2, 13.2 V ஆகும். V-I வரைபடத்தின் சாய்வின்படி மின்தடை ஏறத்தாழ",
         "options": [
-          "0.3 ஓம்",
+          "3.3 ஓம்",
           "33 ஓம்",
           "13 ஓம்",
-          "3.3 ஓம்"
+          "0.3 ஓம்"
         ],
         "explanation": "ஒவ்வொரு நிலையிலும் V/I ஏறத்தாழ 3.2 - 3.4 ஓம்; எனவே சாய்வு (மின்தடை) ஏறத்தாழ 3.3 ஓம்."
       }

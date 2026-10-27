@@ -68,24 +68,24 @@
       "bloom": "remember",
       "page": 8,
       "quote": "A blue whale can weigh as much as 30 elephants and it is as long as 3 large tour buses.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "According to the book, a blue whale can weigh as much as",
         "options": [
-          "3 elephants",
+          "30 elephants",
           "300 elephants",
           "3 buses",
-          "30 elephants"
+          "3 elephants"
         ],
         "explanation": "A blue whale can weigh as much as 30 elephants and is as long as 3 large tour buses."
       },
       "ta": {
         "q": "நூலின்படி நீலத் திமிங்கலத்தின் எடை எதற்குச் சமம்?",
         "options": [
-          "3 யானைகள்",
+          "30 யானைகள்",
           "300 யானைகள்",
           "3 பேருந்துகள்",
-          "30 யானைகள்"
+          "3 யானைகள்"
         ],
         "explanation": "நீலத் திமிங்கலத்தின் எடை 30 யானைகளுக்கும், நீளம் 3 பெரிய பேருந்துகளுக்கும் சமம்."
       }
@@ -242,24 +242,24 @@
       "bloom": "apply",
       "page": 5,
       "quote": "Rules and conventions: 1. The units named after scientists are not written with a capital initial letter. E.g. newton, henry, ampere and watt. 2. ... N for newton, H for henry, A for ampere and W for watt.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which is the correct way of writing the name of a unit named after a scientist, and its symbol?",
         "options": [
-          "Newton, n",
+          "newton, N",
           "Newton, N",
           "newton, n",
-          "newton, N"
+          "Newton, n"
         ],
         "explanation": "Names of units are written in small letters (newton) but their symbols start with a capital letter (N)."
       },
       "ta": {
         "q": "அறிவியலறிஞர் பெயரிலான அலகையும் அதன் குறியீட்டையும் எழுதும் சரியான முறை",
         "options": [
-          "Newton, n",
+          "newton, N",
           "Newton, N",
           "newton, n",
-          "newton, N"
+          "Newton, n"
         ],
         "explanation": "அலகின் பெயர் சிறிய எழுத்தில் (newton); குறியீடு பெரிய எழுத்தில் (N) எழுதப்படும்."
       }
@@ -271,14 +271,14 @@
       "bloom": "apply",
       "page": 5,
       "quote": "Rules and conventions: 10. The numerical values of physical quantities should be written in scientific form. E.g. the density of mercury should be written as 1.36 × 10^4 kgm-3 not as 13600 kgm-3.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "According to the book's rule on writing numerical values, the density of mercury should be written as",
         "options": [
           "13600 kgs m^-3",
-          "1.36 × 10^4 kg m^-3",
+          "1.36 kgs m^-3",
           "13.6 kg/m",
-          "1.36 kgs m^-3"
+          "1.36 × 10^4 kg m^-3"
         ],
         "explanation": "The book's rule is that numerical values should be written in scientific form, e.g. 1.36 × 10^4 kg m^-3."
       },
@@ -286,9 +286,9 @@
         "q": "எண் மதிப்புகளை எழுதும் நூலின் விதிப்படி பாதரசத்தின் அடர்த்தியை எழுதும் முறை",
         "options": [
           "13600 கி.கிகள் மீ^-3",
-          "1.36 × 10^4 கி.கி மீ^-3",
+          "1.36 கி.கிகள் மீ^-3",
           "13.6 கி.கி/மீ",
-          "1.36 கி.கிகள் மீ^-3"
+          "1.36 × 10^4 கி.கி மீ^-3"
         ],
         "explanation": "நூலின் விதிப்படி இயற்பியல் அளவுகளின் எண் மதிப்புகள் அறிவியல் குறியீட்டில் எழுதப்பட வேண்டும்."
       }
@@ -329,14 +329,14 @@
       "bloom": "remember",
       "page": 10,
       "quote": "Points to Remember: Common balance can measure mass accurately upto 5 g.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A common (beam) balance can measure mass accurately up to",
         "options": [
           "5 mg",
-          "50 g",
+          "5 g",
           "0.5 g",
-          "5 g"
+          "50 g"
         ],
         "explanation": "A common beam balance measures mass accurately up to 5 g."
       },
@@ -344,9 +344,9 @@
         "q": "பொதுத் தராசினால் துல்லியமாக அளவிடக்கூடிய நிறை",
         "options": [
           "5 மி.கி",
-          "50 கி",
+          "5 கி",
           "0.5 கி",
-          "5 கி"
+          "50 கி"
         ],
         "explanation": "பொதுத் தராசு 5 கி வரை துல்லியமாக அளவிடும்."
       }

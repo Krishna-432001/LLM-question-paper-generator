@@ -39,12 +39,12 @@
       "bloom": "remember",
       "page": 165,
       "quote": "2. ______ layer is made up of liquid iron. a. Inner core b. Outer core c. Mantle d. Crust",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Which layer of the Earth is made up of liquid iron?",
         "options": [
-          "Inner core",
           "Outer core",
+          "Inner core",
           "Mantle",
           "Crust"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "புவியினுள் உருகிய இரும்பைக் கொண்ட அடுக்கு எது?",
         "options": [
-          "உட்கருவம்",
           "வெளிக்கருவம்",
+          "உட்கருவம்",
           "கவசம்",
           "மேலோடு"
         ],
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 165,
       "quote": "4. The movement of tectonic plates is induced by ______ energy. a. hydel b. thermal c. wave d. tidal",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The movement of tectonic plates is induced by which type of energy?",
         "options": [
           "Hydel energy",
-          "Wave energy",
+          "Thermal energy",
           "Tidal energy",
-          "Thermal energy"
+          "Wave energy"
         ],
         "explanation": "The movement of plates is due to thermal energy from the mantle."
       },
@@ -112,9 +112,9 @@
         "q": "புவித்தட்டுகளின் நகர்வு எவ்வகை ஆற்றலால் ஏற்படுகிறது?",
         "options": [
           "நீர் ஆற்றல்",
-          "அலை ஆற்றல்",
+          "வெப்ப ஆற்றல்",
           "ஓத ஆற்றல்",
-          "வெப்ப ஆற்றல்"
+          "அலை ஆற்றல்"
         ],
         "explanation": "கவசத்தின் வெப்ப ஆற்றலால் புவித்தட்டுகள் நகர்கின்றன."
       }
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 165,
       "quote": "6. Many million years ago, India was a part of the super continent a. Gondwana b. Laurasia c. Panthalasa d. Pangea",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Many million years ago India was a part of which super continent?",
         "options": [
           "Laurasia",
-          "Gondwana",
+          "Eurasia",
           "Panthalassa",
-          "Eurasia"
+          "Gondwana"
         ],
         "explanation": "India was part of Gondwana (with Africa, Australia, Antarctica and South America)."
       },
@@ -170,9 +170,9 @@
         "q": "பல மில்லியன் ஆண்டுகளுக்கு முன் இந்தியா எக்கண்டத்தின் ஒரு பகுதியாக இருந்தது?",
         "options": [
           "லாரேஷியா",
-          "கோண்டுவானா",
+          "யூரேசியா",
           "பாந்தலாசா",
-          "யூரேசியா"
+          "கோண்டுவானா"
         ],
         "explanation": "இந்தியா கோண்டுவானா நிலப்பகுதியின் ஒரு பகுதியாக இருந்தது."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 165,
       "quote": "II. Match the following: Endogenetic process, Convergent boundaries, Earthquake, Composite volcano",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Match List I with List II.\nList I: a) Endogenetic process  b) Convergent boundary  c) Earthquake  d) Composite volcano\nList II: 1) Subduction zone  2) Pacific Ocean  3) Seismograph  4) Volcanic eruption",
         "options": [
           "a-1 b-4 c-2 d-3",
-          "a-4 b-1 c-3 d-2",
+          "a-2 b-3 c-1 d-4",
           "a-3 b-2 c-4 d-1",
-          "a-2 b-3 c-1 d-4"
+          "a-4 b-1 c-3 d-2"
         ],
         "explanation": "Volcanic eruption is an internal process; plates sink at convergent boundaries (subduction); a seismograph records earthquakes; composite volcanoes are common in the Pacific. (The book's pair Mantle-SIMA is left out: SIMA is the oceanic crust.)"
       },
@@ -257,9 +257,9 @@
         "q": "பட்டியல் I-ஐ பட்டியல் II உடன் பொருத்துக.\nபட்டியல் I: அ) உட்புறச்செயல்கள்  ஆ) இணையும் எல்லை  இ) புவிஅதிர்ச்சி  ஈ) கூட்டு எரிமலை\nபட்டியல் II: 1) புவித்தட்டு அமிழ்தல்  2) பசிபிக் பெருங்கடல்  3) நில அதிர்வு அளவைப்படம்  4) எரிமலை வெடிப்பு",
         "options": [
           "அ-1 ஆ-4 இ-2 ஈ-3",
-          "அ-4 ஆ-1 இ-3 ஈ-2",
+          "அ-2 ஆ-3 இ-1 ஈ-4",
           "அ-3 ஆ-2 இ-4 ஈ-1",
-          "அ-2 ஆ-3 இ-1 ஈ-4"
+          "அ-4 ஆ-1 இ-3 ஈ-2"
         ],
         "explanation": "எரிமலை வெடிப்பு அகச்செயல்; இணையும் எல்லையில் தட்டு அமிழும்; புவிஅதிர்ச்சியை நில அதிர்வு அளவைப்படம் பதிவு செய்யும்; கூட்டு எரிமலைகள் பசிபிக் பகுதியில் அதிகம். (நூலிலுள்ள கவசம் - சிமா இணை நீக்கப்பட்டது; சிமா என்பது கடல் மேலோடு.)"
       }
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 166,
       "quote": "2. Mention the layers of the interior of the Earth.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The interior of the Earth is divided into which three layers?",
         "options": [
           "Crust, lithosphere and core",
-          "Mantle, asthenosphere and core",
           "Crust, mantle and core",
+          "Mantle, asthenosphere and core",
           "Crust, mantle and hydrosphere"
         ],
         "explanation": "The Earth's interior has three layers: crust, mantle and core."
@@ -402,8 +402,8 @@
         "q": "புவியின் உள்ளமைப்பிலுள்ள மூன்று அடுக்குகள் யாவை?",
         "options": [
           "மேலோடு, நிலக்கோளம், கருவம்",
-          "கவசம், கீழ்க்கவசம், கருவம்",
           "மேலோடு, கவசம், கருவம்",
+          "கவசம், கீழ்க்கவசம், கருவம்",
           "மேலோடு, கவசம், நீர்க்கோளம்"
         ],
         "explanation": "புவியின் உள்ளமைப்பு மேலோடு, கவசம், கருவம் என மூன்று பிரிவுகளாகப் பிரிக்கப்பட்டுள்ளது."
@@ -474,13 +474,13 @@
       "bloom": "remember",
       "page": 166,
       "quote": "7. What are seismic waves and mention its types?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which of the following is NOT a type of seismic wave?",
         "options": [
           "P-waves",
-          "S-waves",
           "Tidal waves",
+          "S-waves",
           "L-waves"
         ],
         "explanation": "Seismic waves are of three types: primary (P), secondary (S) and surface (L) waves."
@@ -489,8 +489,8 @@
         "q": "பின்வருவனவற்றுள் புவி அதிர்வலை வகை அல்லாதது எது?",
         "options": [
           "முதன்மை அலைகள்",
-          "இரண்டாம் நிலை அலைகள்",
           "ஓத அலைகள்",
+          "இரண்டாம் நிலை அலைகள்",
           "மேற்பரப்பு அலைகள்"
         ],
         "explanation": "புவி அதிர்வலைகள் முதன்மை (P), இரண்டாம் நிலை (S), மேற்பரப்பு (L) என மூன்று வகைப்படும்."
@@ -532,13 +532,13 @@
       "bloom": "remember",
       "page": 166,
       "quote": "V. Give Reasons: 1. SIAL floats over SIMA.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "SIAL (continental crust) floats over SIMA (oceanic crust) because",
         "options": [
-          "it is lighter (less dense) than SIMA",
-          "it is hotter than SIMA",
           "it is made of nickel and iron",
+          "it is hotter than SIMA",
+          "it is lighter (less dense) than SIMA",
           "it is thinner than SIMA"
         ],
         "explanation": "SIAL (silica and aluminium) is lighter than the denser SIMA (silica and magnesium), so it floats over it."
@@ -546,9 +546,9 @@
       "ta": {
         "q": "சியால் (SIAL) சிமாவின் (SIMA) மேல் மிதப்பதற்குக் காரணம்",
         "options": [
-          "அது சிமாவை விட அடர்த்தி குறைந்தது",
-          "அது சிமாவை விட வெப்பமானது",
           "அது நிக்கல், இரும்பால் ஆனது",
+          "அது சிமாவை விட வெப்பமானது",
+          "அது சிமாவை விட அடர்த்தி குறைந்தது",
           "அது சிமாவை விட மெல்லியது"
         ],
         "explanation": "சிலிக்கா, அலுமினியம் கொண்ட சியால் அடர்த்தி குறைவு; அதனால் அடர்த்தி மிகுந்த சிமாவின் மேல் மிதக்கிறது."
@@ -590,13 +590,13 @@
       "bloom": "remember",
       "page": 166,
       "quote": "VI. Distinguish between 1. Core and crust.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The core of the Earth is composed mainly of nickel and iron (NIFE), whereas the crust is made of",
         "options": [
-          "NIFE and SIAL only",
-          "SIMA and magma only",
           "SIAL and SIMA",
+          "SIMA and magma only",
+          "NIFE and SIAL only",
           "granite alone"
         ],
         "explanation": "Core = NIFE (Ni + Fe); crust = SIAL (continental) and SIMA (oceanic)."
@@ -604,9 +604,9 @@
       "ta": {
         "q": "புவியின் கருவம் நிக்கல், இரும்பு (நைஃப்) ஆல் ஆனது; மேலோடு ____ ஆல் ஆனது.",
         "options": [
-          "நைஃப், சியால் மட்டும்",
-          "சிமா, பாறைக்குழம்பு மட்டும்",
           "சியால், சிமா",
+          "சிமா, பாறைக்குழம்பு மட்டும்",
+          "நைஃப், சியால் மட்டும்",
           "கிரானைட் மட்டும்"
         ],
         "explanation": "கருவம் - நிக்கல், இரும்பு; மேலோடு - சியால் (கண்டம்), சிமா (கடல்)."
@@ -648,13 +648,13 @@
       "bloom": "remember",
       "page": 166,
       "quote": "3. Divergent and convergent boundaries.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "At a divergent plate boundary the plates",
         "options": [
-          "pull away from each other as magma pushes up",
-          "move towards each other",
           "slide horizontally past each other",
+          "move towards each other",
+          "pull away from each other as magma pushes up",
           "do not move"
         ],
         "explanation": "Divergent: plates pull away (e.g. Mid-Atlantic Ridge); convergent: they move towards each other."
@@ -662,9 +662,9 @@
       "ta": {
         "q": "விலகும் எல்லையில் புவித்தட்டுகள்",
         "options": [
-          "ஒன்றை விட்டு ஒன்று விலகுகின்றன; பாறைக்குழம்பு மேலெழும்புகிறது",
-          "ஒன்றை நோக்கி ஒன்று நகர்கின்றன",
           "பக்கவாட்டில் உரசிச் செல்கின்றன",
+          "ஒன்றை நோக்கி ஒன்று நகர்கின்றன",
+          "ஒன்றை விட்டு ஒன்று விலகுகின்றன; பாறைக்குழம்பு மேலெழும்புகிறது",
           "நகர்வதில்லை"
         ],
         "explanation": "விலகும் எல்லையில் தட்டுகள் விலகும் (எ.கா. மத்திய அட்லாண்டிக் முகடு); இணையும் எல்லையில் நெருங்கும்."
@@ -706,13 +706,13 @@
       "bloom": "remember",
       "page": 166,
       "quote": "5. Shield volcano and volcanic Dome.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which volcano is formed by the slow ejection of silica-rich viscous lava that cannot flow far from the vent?",
         "options": [
-          "Shield volcano",
-          "Composite volcano",
           "Volcanic dome",
+          "Composite volcano",
+          "Shield volcano",
           "Fissure volcano"
         ],
         "explanation": "A lava dome forms from viscous, silica-rich lava (e.g. the lava dome of Mount Pelée, Martinique); shield volcanoes (e.g. Mauna Loa) have gently sloping sides."
@@ -720,9 +720,9 @@
       "ta": {
         "q": "வெண்ணெய் போன்ற பாய்தன்மை குறைந்த, சிலிக்கா மிகுந்த எரிமலைக் குழம்பு வெகுதூரம் பாயாமல் குவிந்து உருவாகும் எரிமலை",
         "options": [
-          "கவச எரிமலை",
-          "கூட்டு எரிமலை",
           "கும்மட்ட எரிமலை",
+          "கூட்டு எரிமலை",
+          "கவச எரிமலை",
           "பிளவு எரிமலை"
         ],
         "explanation": "சிலிக்கா மிகுந்த பிசுபிசுப்பான குழம்பு குவிந்து கும்மட்ட எரிமலை (எ.கா. மார்ட்டினிக்கிலுள்ள மவுன்ட் பெலீ எரிமலைக் குவிமாடம்) உருவாகிறது; கவச எரிமலை (மௌனாலோவா) சரிவான பக்கங்களைக் கொண்டது."

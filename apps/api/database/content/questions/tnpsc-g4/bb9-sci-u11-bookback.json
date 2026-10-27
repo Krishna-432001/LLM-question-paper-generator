@@ -68,12 +68,12 @@
       "bloom": "remember",
       "page": 136,
       "quote": "2. Isotopes of an element have different atomic numbers.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Isotopes of an element have",
         "options": [
-          "the same atomic number but different mass numbers",
           "different atomic numbers but the same mass number",
+          "the same atomic number but different mass numbers",
           "different atomic numbers and mass numbers",
           "the same mass number and the same neutrons"
         ],
@@ -82,8 +82,8 @@
       "ta": {
         "q": "ஒரு தனிமத்தின் ஐசோடோப்புகள்",
         "options": [
-          "ஒரே அணு எண்ணும் வெவ்வேறு நிறை எண்ணும் கொண்டவை",
           "வெவ்வேறு அணு எண்ணும் ஒரே நிறை எண்ணும் கொண்டவை",
+          "ஒரே அணு எண்ணும் வெவ்வேறு நிறை எண்ணும் கொண்டவை",
           "வெவ்வேறு அணு எண்ணும் நிறை எண்ணும் கொண்டவை",
           "ஒரே நிறை எண்ணும் ஒரே நியூட்ரான்களும் கொண்டவை"
         ],
@@ -213,13 +213,13 @@
       "bloom": "apply",
       "page": 136,
       "quote": "4. The number of neutrons present in lithium (atomic number 3, mass number 7) is ___________",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The number of neutrons in an atom of lithium of mass number 7 and atomic number 3 is",
         "options": [
-          "3",
-          "7",
           "4",
+          "7",
+          "3",
           "10"
         ],
         "explanation": "Neutrons = A - Z = 7 - 3 = 4."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "நிறை எண் 7, அணு எண் 3 உடைய லித்தியம் அணுவிலுள்ள நியூட்ரான்களின் எண்ணிக்கை",
         "options": [
-          "3",
-          "7",
           "4",
+          "7",
+          "3",
           "10"
         ],
         "explanation": "நியூட்ரான்கள் = A - Z = 7 - 3 = 4."
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 136,
       "quote": "IV. Match the following. a) Dalton - First atomic theory; b) Chadwick - Discovery of neutrons; c) Rutherford - Discovery of nucleus; d) Neils Bohr - Hydrogen atom model",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Match List I with List II:\n(a) Dalton\n(b) Chadwick\n(c) Rutherford\n(d) Neils Bohr\n— \n(1) First atomic theory\n(2) Discovery of nucleus\n(3) Hydrogen atom model\n(4) Discovery of neutrons",
         "options": [
           "a-1, b-3, c-4, d-2",
-          "a-1, b-4, c-2, d-3",
           "a-3, b-1, c-2, d-4",
+          "a-1, b-4, c-2, d-3",
           "a-2, b-3, c-4, d-1"
         ],
         "explanation": "Dalton - first atomic theory; Chadwick - neutron (1932); Rutherford - nucleus (1911); Bohr - model of the hydrogen atom (1913)."
@@ -286,8 +286,8 @@
         "q": "பட்டியல் I-ஐப் பட்டியல் II உடன் பொருத்துக:\n(a) டால்டன்\n(b) சாட்விக்\n(c) ரூதர்போர்டு\n(d) நீல்ஸ் போர்\n— \n(1) முதல் அணுக்கொள்கை\n(2) உட்கரு கண்டுபிடிப்பு\n(3) ஹைட்ரஜன் அணு மாதிரி\n(4) நியூட்ரான் கண்டுபிடிப்பு",
         "options": [
           "a-1, b-3, c-4, d-2",
-          "a-1, b-4, c-2, d-3",
           "a-3, b-1, c-2, d-4",
+          "a-1, b-4, c-2, d-3",
           "a-2, b-3, c-4, d-1"
         ],
         "explanation": "டால்டன் - முதல் அணுக்கொள்கை; சாட்விக் - நியூட்ரான் (1932); ரூதர்போர்டு - உட்கரு (1911); போர் - ஹைட்ரஜன் அணு மாதிரி (1913)."
@@ -387,13 +387,13 @@
       "bloom": "apply",
       "page": 136,
       "quote": "V. Complete the following table. Mass number 2, protons 1; Mass number 1, neutrons 0, protons 1, electrons 1",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "An atom with 1 proton and mass number 2 has",
         "options": [
-          "1 neutron (it is deuterium)",
-          "0 neutrons",
           "2 neutrons",
+          "0 neutrons",
+          "1 neutron (it is deuterium)",
           "3 neutrons"
         ],
         "explanation": "Hydrogen has three isotopes of mass numbers 1, 2 and 3; the atom with A = 1 has no neutron."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "1 புரோட்டானும் நிறை எண் 2-ம் உடைய அணுவிலுள்ள நியூட்ரான்கள்",
         "options": [
-          "1 (இது டியூட்டீரியம்)",
-          "0",
           "2",
+          "0",
+          "1 (இது டியூட்டீரியம்)",
           "3"
         ],
         "explanation": "ஹைட்ரஜனுக்கு நிறை எண் 1, 2, 3 உடைய மூன்று ஐசோடோப்புகள் உள்ளன."
@@ -416,14 +416,14 @@
       "bloom": "apply",
       "page": 136,
       "quote": "2. Write the electronic configuration of K and Cl",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The electronic configurations of potassium (Z = 19) and chlorine (Z = 17) are respectively",
         "options": [
           "2, 8, 9 and 2, 8, 7",
-          "2, 8, 1 and 2, 8, 8",
+          "2, 8, 8, 1 and 2, 8, 7",
           "2, 8, 8, 1 and 2, 8, 6",
-          "2, 8, 8, 1 and 2, 8, 7"
+          "2, 8, 1 and 2, 8, 8"
         ],
         "explanation": "K = 2, 8, 8, 1 (valency 1); Cl = 2, 8, 7 (valency 1)."
       },
@@ -431,9 +431,9 @@
         "q": "பொட்டாசியம் (Z = 19), குளோரின் (Z = 17) ஆகியவற்றின் எலக்ட்ரான் அமைப்பு முறையே",
         "options": [
           "2, 8, 9 மற்றும் 2, 8, 7",
-          "2, 8, 1 மற்றும் 2, 8, 8",
+          "2, 8, 8, 1 மற்றும் 2, 8, 7",
           "2, 8, 8, 1 மற்றும் 2, 8, 6",
-          "2, 8, 8, 1 மற்றும் 2, 8, 7"
+          "2, 8, 1 மற்றும் 2, 8, 8"
         ],
         "explanation": "K = 2, 8, 8, 1 (இணைதிறன் 1); Cl = 2, 8, 7 (இணைதிறன் 1)."
       }
@@ -445,14 +445,14 @@
       "bloom": "remember",
       "page": 136,
       "quote": "3. Write down the names of the particles represented by the following symbols and explain the meaning of superscript and subscript numbers: 1H1, 0n1, -1e0",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "In the symbol 0n1 for the neutron, the superscript 1 represents the ______ and the subscript 0 represents the ______.",
         "options": [
           "electric charge; mass",
           "atomic number; mass",
-          "mass number; atomic number (charge = 0)",
-          "number of electrons; neutrons"
+          "number of electrons; neutrons",
+          "mass number; atomic number (charge = 0)"
         ],
         "explanation": "The neutron carries no electrical charge, so the subscript is 0; its mass is 1 amu, the superscript."
       },
@@ -461,8 +461,8 @@
         "options": [
           "மின்சுமை; நிறை",
           "அணு எண்; நிறை",
-          "நிறை எண்; அணு எண் (மின்சுமை 0)",
-          "எலக்ட்ரான்களின் எண்ணிக்கை; நியூட்ரான்கள்"
+          "எலக்ட்ரான்களின் எண்ணிக்கை; நியூட்ரான்கள்",
+          "நிறை எண்; அணு எண் (மின்சுமை 0)"
         ],
         "explanation": "நியூட்ரானுக்கு மின்சுமை இல்லை (கீழெண் 0); அதன் நிறை 1 amu (மேலெண்)."
       }
@@ -503,24 +503,24 @@
       "bloom": "understand",
       "page": 137,
       "quote": "VII. 1. How was it shown that atom has empty space?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "In Rutherford's gold foil experiment, the observation that most alpha particles passed straight through the foil shows that",
         "options": [
-          "an atom is solid throughout",
+          "an atom contains large empty space",
           "alpha particles are neutral",
           "gold has no nucleus",
-          "an atom contains large empty space"
+          "an atom is solid throughout"
         ],
         "explanation": "Very few alpha particles bounced back, showing that the positive charge is concentrated in a very small nucleus."
       },
       "ta": {
         "q": "ரூதர்போர்டின் தங்கத்தகடு சோதனையில் பெரும்பாலான ஆல்பா துகள்கள் நேராகக் கடந்து சென்றது காட்டுவது",
         "options": [
-          "அணு முழுவதும் திடமானது",
+          "அணுவில் பெரும் வெற்றிடம் உள்ளது",
           "ஆல்பா துகள்கள் நடுநிலையானவை",
           "தங்கத்திற்கு உட்கரு இல்லை",
-          "அணுவில் பெரும் வெற்றிடம் உள்ளது"
+          "அணு முழுவதும் திடமானது"
         ],
         "explanation": "மிகச் சில துகள்களே பின்னோக்கித் திரும்பின; எனவே நேர் மின்சுமை மிகச் சிறிய உட்கருவில் குவிந்துள்ளது."
       }
@@ -561,13 +561,13 @@
       "bloom": "apply",
       "page": 137,
       "quote": "5. What are nucleons? How many nucleons are present in Phosphorous? Draw its structure.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The number of nucleons in an atom of phosphorus (Z = 15, A = 31) is",
         "options": [
           "15",
-          "31",
           "16",
+          "31",
           "46"
         ],
         "explanation": "Nucleons = protons + neutrons = mass number = 31 (15 protons + 16 neutrons)."
@@ -576,8 +576,8 @@
         "q": "பாஸ்பரஸ் (Z = 15, A = 31) அணுவிலுள்ள நியூக்ளியான்களின் எண்ணிக்கை",
         "options": [
           "15",
-          "31",
           "16",
+          "31",
           "46"
         ],
         "explanation": "நியூக்ளியான்கள் = புரோட்டான்கள் + நியூட்ரான்கள் = நிறை எண் = 31 (15 + 16)."

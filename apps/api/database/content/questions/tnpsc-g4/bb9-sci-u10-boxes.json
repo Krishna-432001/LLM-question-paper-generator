@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 113,
       "quote": "From the point of view of chemistry, pure substances are those which contain only one kind of particles whereas impure substances (mixtures) contain more than one kind of particles.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Pure substances contain ______ kind of particles whereas mixtures contain ______.",
         "options": [
-          "more than one; only one",
-          "two; three",
           "only one; more than one",
+          "two; three",
+          "more than one; only one",
           "no; many"
         ],
         "explanation": "Elements and compounds are pure substances."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "தூய பொருட்கள் ______ வகைத் துகள்களையும், கலவைகள் ______ வகைத் துகள்களையும் கொண்டவை.",
         "options": [
-          "ஒன்றுக்கு மேற்பட்ட; ஒரே",
-          "இரு; மூன்று",
           "ஒரே; ஒன்றுக்கு மேற்பட்ட",
+          "இரு; மூன்று",
+          "ஒன்றுக்கு மேற்பட்ட; ஒரே",
           "எந்த; பல"
         ],
         "explanation": "தனிமங்களும் சேர்மங்களும் தூய பொருட்கள்."
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 115,
       "quote": "Compounds of phosphorous, nitrogen and potassium are used in fertilizers. Silicon compounds are of immense importance in the computer industry. Compounds of fluorine are used in our toothpastes as they strengthen our teeth.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Compounds of fluorine are used in toothpastes because they",
         "options": [
-          "strengthen our teeth",
-          "whiten paper",
           "increase foam only",
+          "whiten paper",
+          "strengthen our teeth",
           "make the paste sweet"
         ],
         "explanation": "Compounds of phosphorus, nitrogen and potassium are used in fertilizers; silicon compounds are important in the computer industry."
@@ -169,9 +169,9 @@
       "ta": {
         "q": "பற்பசைகளில் புளூரின் சேர்மங்கள் பயன்படுவதற்குக் காரணம்",
         "options": [
-          "அவை பற்களை வலுப்படுத்துவது",
-          "காகிதத்தை வெளுப்பது",
           "நுரையை மட்டும் அதிகரிப்பது",
+          "காகிதத்தை வெளுப்பது",
+          "அவை பற்களை வலுப்படுத்துவது",
           "பசையை இனிப்பாக்குவது"
         ],
         "explanation": "பாஸ்பரஸ், நைட்ரஜன், பொட்டாசியம் சேர்மங்கள் உரங்களில்; சிலிக்கான் சேர்மங்கள் கணினித் தொழிலில் முக்கியமானவை."
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 116,
       "quote": "Activity 3: Take some powdered iron filings and mix it with sulphur. On heating you will get a black brittle compound - Iron (II) sulphide. Iron + sulphur (heat) gives iron sulphide.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "On heating a mixture of iron filings and sulphur we get a black brittle compound called",
         "options": [
           "iron oxide",
           "sulphur dioxide",
-          "iron chloride",
-          "iron(II) sulphide"
+          "iron(II) sulphide",
+          "iron chloride"
         ],
         "explanation": "The iron sulphide has totally different properties from the mixture: the iron powder is not attracted by a magnet."
       },
@@ -229,8 +229,8 @@
         "options": [
           "இரும்பு ஆக்சைடு",
           "கந்தக டை ஆக்சைடு",
-          "இரும்பு குளோரைடு",
-          "இரும்பு(II) சல்பைடு"
+          "இரும்பு(II) சல்பைடு",
+          "இரும்பு குளோரைடு"
         ],
         "explanation": "இரும்பு சல்பைடின் பண்புகள் கலவையிலிருந்து முற்றிலும் வேறுபடும்; அது காந்தத்தால் கவரப்படுவதில்லை."
       }
@@ -271,12 +271,12 @@
       "bloom": "remember",
       "page": 116,
       "quote": "Blood is not a pure substance. It is a mixture of various components such as platelets, red and white blood corpuscles and plasma.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Blood is",
         "options": [
-          "a pure substance",
           "a mixture of platelets, red and white blood corpuscles and plasma",
+          "a pure substance",
           "an element",
           "a compound of iron"
         ],
@@ -285,8 +285,8 @@
       "ta": {
         "q": "இரத்தம் என்பது",
         "options": [
-          "தூய பொருள்",
           "இரத்தத் தட்டுகள், சிவப்பு, வெள்ளை அணுக்கள், பிளாஸ்மா ஆகியவற்றின் கலவை",
+          "தூய பொருள்",
           "தனிமம்",
           "இரும்பின் சேர்மம்"
         ],
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 117,
       "quote": "Table 10.3: Solid and solid - handpicking, sieving, winnowing, magnetic separation, sublimation. Insoluble solid and liquid - sedimentation and decantation, loading, filtration, centrifugation. Two immiscible liquids - decantation, solvent extraction. Soluble solid and liquid - evaporation, distillation, crystallisation. Two miscible liquids - fractional distillation. Solution of two or more solids in a liquid - chromatography.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which method is used to separate the dyes of an ink (a solution of two or more solids in a liquid)?",
         "options": [
           "Winnowing",
-          "Chromatography",
+          "Decantation",
           "Sieving",
-          "Decantation"
+          "Chromatography"
         ],
         "explanation": "Chromatography separates components with different solubility in the same solvent."
       },
@@ -402,9 +402,9 @@
         "q": "மையிலுள்ள சாயங்களைப் (ஒரு திரவத்தில் கரைந்துள்ள இரு அல்லது பல திண்மங்கள்) பிரிக்கப் பயன்படும் முறை",
         "options": [
           "தூற்றுதல்",
-          "வண்ணப்பிரிகை (குரோமட்டோகிராபி)",
+          "சாய்த்து வடித்தல்",
           "சலித்தல்",
-          "சாய்த்து வடித்தல்"
+          "வண்ணப்பிரிகை (குரோமட்டோகிராபி)"
         ],
         "explanation": "ஒரே கரைப்பானில் வெவ்வேறு கரைதிறன் கொண்ட கூறுகளை வண்ணப்பிரிகை பிரிக்கும்."
       }
@@ -503,24 +503,24 @@
       "bloom": "remember",
       "page": 119,
       "quote": "Paper chromatography: This method is used to separate the different coloured dyes in a sample of ink. The chromatogram shows that the black ink contains three dyes.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "In the book's activity, the paper chromatography of black ink shows that it contains",
         "options": [
-          "three dyes",
+          "ten dyes",
           "one dye",
           "no dye",
-          "ten dyes"
+          "three dyes"
         ],
         "explanation": "The dyes separate because they have different solubility in the solvent and are adsorbed to different extents by the chromatography paper."
       },
       "ta": {
         "q": "நூலின் செயல்பாட்டில் கருப்பு மையின் தாள் வண்ணப்பிரிகை காட்டுவது அதில் உள்ள",
         "options": [
-          "மூன்று சாயங்கள்",
+          "பத்துச் சாயங்கள்",
           "ஒரு சாயம்",
           "சாயம் இல்லை",
-          "பத்துச் சாயங்கள்"
+          "மூன்று சாயங்கள்"
         ],
         "explanation": "சாயங்கள் வெவ்வேறு கரைதிறன், வெவ்வேறு அளவு பரப்புக் கவர்தல் காரணமாகப் பிரிகின்றன."
       }
@@ -619,13 +619,13 @@
       "bloom": "remember",
       "page": 120,
       "quote": "More to Know: The beam of light coming from headlights of vehicles is due to Tyndall effect.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The visible beam of light from the headlights of a vehicle in fog or dust is due to the",
         "options": [
-          "Brownian movement",
-          "sublimation",
           "Tyndall effect",
+          "sublimation",
+          "Brownian movement",
           "chromatography"
         ],
         "explanation": "The scattering of light by colloidal particles in air makes the beam visible. (The book also attributes the blue colour of the sky to the Tyndall effect, but this is strictly due to Rayleigh scattering.)"
@@ -633,9 +633,9 @@
       "ta": {
         "q": "மூடுபனி அல்லது தூசியில் வாகன முகப்பு விளக்கின் ஒளிக்கற்றை தெரிவதற்குக் காரணம்",
         "options": [
-          "பிரௌனியன் இயக்கம்",
-          "பதங்கமாதல்",
           "டிண்டால் விளைவு",
+          "பதங்கமாதல்",
+          "பிரௌனியன் இயக்கம்",
           "வண்ணப்பிரிகை"
         ],
         "explanation": "காற்றிலுள்ள கூழ்மத் துகள்கள் ஒளியைச் சிதறடிப்பதால் கற்றை தெரிகிறது. (வானம் நீலமாகத் தெரிவதையும் நூல் டிண்டால் விளைவு என்கிறது; சரியாக அது ரேலே சிதறல்.)"

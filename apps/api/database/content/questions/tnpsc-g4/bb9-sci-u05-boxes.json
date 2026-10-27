@@ -97,12 +97,12 @@
       "bloom": "remember",
       "page": 53,
       "quote": "The direction of the magnetic field around a magnet can be found by placing a small compass in the magnetic field.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The direction of the magnetic field around a magnet can be found by placing a",
         "options": [
-          "small compass in the field",
           "spring balance in the field",
+          "small compass in the field",
           "voltmeter in the field",
           "thermometer in the field"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "ஒரு காந்தத்தைச் சுற்றியுள்ள காந்தப்புலத்தின் திசையை அறிய, புலத்தில் வைக்க வேண்டியது",
         "options": [
-          "சிறிய திசைகாட்டி",
           "சுருள்வில் தராசு",
+          "சிறிய திசைகாட்டி",
           "வோல்ட்மீட்டர்",
           "வெப்பமானி"
         ],
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 53,
       "quote": "Some sea turtles (loggerhead sea turtle) return to their birth beach many decades after they were born. The turtles can perceive variations in magnetic parameters of Earth such as magnetic field intensity and remember them.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Loggerhead sea turtles are able to return to their birth beach decades later because they can perceive variations in the Earth's",
         "options": [
           "gravity at the sea floor",
-          "ocean salinity only",
           "magnetic field intensity",
+          "ocean salinity only",
           "moon phases only"
         ],
         "explanation": "Research suggests turtles perceive variations in magnetic parameters of the Earth, such as magnetic field intensity, and remember them."
@@ -170,8 +170,8 @@
         "q": "லாகர்ஹெட் கடல் ஆமைகள் பல பத்தாண்டுகளுக்குப் பிறகும் தாம் பிறந்த கடற்கரைக்குத் திரும்புவதற்குக் காரணம், அவை புவியின் எந்த மாறுபாடுகளை உணர்கின்றன?",
         "options": [
           "கடலடி ஈர்ப்பு",
-          "கடல்நீர் உப்புத்தன்மை மட்டும்",
           "காந்தப்புல வலிமை",
+          "கடல்நீர் உப்புத்தன்மை மட்டும்",
           "நிலவின் பிறைகள் மட்டும்"
         ],
         "explanation": "புவியின் காந்தப்புல வலிமை போன்ற காந்த அளவுருக்களின் மாறுபாட்டை ஆமைகள் உணர்ந்து நினைவில் கொள்கின்றன என ஆய்வு கூறுகிறது."
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 54,
       "quote": "The magnetic field strength will be maximum at the poles than at the equator.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The strength of the magnetic field of a magnet is maximum at its",
         "options": [
-          "poles",
-          "centre",
           "equator (middle)",
+          "centre",
+          "poles",
           "same everywhere"
         ],
         "explanation": "The field strength is maximum at the poles compared with the equator."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "ஒரு காந்தத்தின் காந்தப்புல வலிமை அதிகமாக இருக்கும் இடம்",
         "options": [
-          "துருவங்கள்",
-          "மையம்",
           "நடுவரை (நடுப்பகுதி)",
+          "மையம்",
+          "துருவங்கள்",
           "எங்கும் சமம்"
         ],
         "explanation": "காந்தப்புல வலிமை நடுவரையை விடத் துருவங்களில் பெரும அளவில் இருக்கும்."
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 54,
       "quote": "The direction of the magnetic lines around a current carrying conductor can be easily understood using the right hand thumb rule. This shows that the magnetic field is always perpendicular to the direction of current.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The magnetic field around a straight current-carrying conductor is always",
         "options": [
-          "parallel to the current",
-          "zero",
           "perpendicular to the direction of current",
+          "zero",
+          "parallel to the current",
           "directed only north"
         ],
         "explanation": "The magnetic field produced is always perpendicular to the direction of flow of current."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "மின்னோட்டம் பாயும் நேரான கடத்தியைச் சுற்றியுள்ள காந்தப்புலம் எப்போதும்",
         "options": [
-          "மின்னோட்டத்திற்கு இணையாக அமையும்",
-          "சுழியாக இருக்கும்",
           "மின்னோட்டத் திசைக்குச் செங்குத்தாக அமையும்",
+          "சுழியாக இருக்கும்",
+          "மின்னோட்டத்திற்கு இணையாக அமையும்",
           "வடக்கு நோக்கி மட்டும் இருக்கும்"
         ],
         "explanation": "கடத்தி உருவாக்கும் காந்தப்புலம் மின்னோட்டத் திசைக்கு எப்போதும் செங்குத்தானது."
@@ -445,14 +445,14 @@
       "bloom": "apply",
       "page": 56,
       "quote": "Problem 2: current is increased four times, length is halved and magnetic field is tripled: F = (4I)(L/2)(3B) = 6F.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "If the current through a conductor is increased four times, its length halved and the magnetic field tripled, the force becomes",
         "options": [
           "12 times",
           "3 times",
-          "6 times",
-          "24 times"
+          "24 times",
+          "6 times"
         ],
         "explanation": "F = ILB; new force = 4 x 1/2 x 3 = 6 times."
       },
@@ -461,8 +461,8 @@
         "options": [
           "12 மடங்காகும்",
           "3 மடங்காகும்",
-          "6 மடங்காகும்",
-          "24 மடங்காகும்"
+          "24 மடங்காகும்",
+          "6 மடங்காகும்"
         ],
         "explanation": "F = ILB; புதிய விசை = 4 x 1/2 x 3 = 6 மடங்கு."
       }
@@ -474,13 +474,13 @@
       "bloom": "remember",
       "page": 57,
       "quote": "Connection between Electricity and Magnetism: After Oersted's experiment the electricity and magnetism were united and became a single subject called 'Electromagnetism'.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "After Oersted's experiment, electricity and magnetism were united into a single subject called",
         "options": [
-          "electromagnetism",
-          "electrostatics",
           "thermodynamics",
+          "electrostatics",
+          "electromagnetism",
           "optics"
         ],
         "explanation": "Before this people thought magnetism and electricity were separate subjects."
@@ -488,9 +488,9 @@
       "ta": {
         "q": "ஆயர்ஸ்டெட்டின் சோதனைக்குப் பின் மின்சாரமும் காந்தவியலும் இணைந்து உருவான ஒரே பாடப்பிரிவு",
         "options": [
-          "மின்காந்தவியல்",
-          "நிலை மின்னியல்",
           "வெப்ப இயக்கவியல்",
+          "நிலை மின்னியல்",
+          "மின்காந்தவியல்",
           "ஒளியியல்"
         ],
         "explanation": "முன்பு இவை தனித்தனிப் பாடங்களாகக் கருதப்பட்டன; பின்னர் மின்காந்தவியல் எனும் ஒரே பிரிவாயின."
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 58,
       "quote": "Only in the twentieth century, we understood that the magnetic property arises due to the motion of electrons in the lodestone.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The magnetic property of a lodestone arises due to the",
         "options": [
           "presence of neutrons",
           "presence of protons only",
-          "its colour",
-          "motion of electrons in it"
+          "motion of electrons in it",
+          "its colour"
         ],
         "explanation": "Every orbiting electron is like a current-carrying loop; in magnetic materials these effects add up to give a permanent magnetic field."
       },
@@ -519,8 +519,8 @@
         "options": [
           "நியூட்ரான்கள் இருப்பது",
           "புரோட்டான்கள் மட்டும்",
-          "அதன் நிறம்",
-          "அதிலுள்ள எலக்ட்ரான்களின் இயக்கம்"
+          "அதிலுள்ள எலக்ட்ரான்களின் இயக்கம்",
+          "அதன் நிறம்"
         ],
         "explanation": "சுற்றும் ஒவ்வோர் எலக்ட்ரானும் மின்னோட்டம் பாயும் வளையம் போன்றது; காந்தப் பொருட்களில் இவை கூடி நிலையான காந்தப்புலம் தோன்றும்."
       }
@@ -561,12 +561,12 @@
       "bloom": "remember",
       "page": 58,
       "quote": "To change the direction of the current, a small device called split ring commutator is used. The reversing of the current is repeated at each half rotation, giving rise to a continuous rotation of the coil.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The device that reverses the current in the coil of a DC motor at every half rotation is the",
         "options": [
-          "slip ring",
           "split ring commutator",
+          "slip ring",
           "transformer",
           "fuse"
         ],
@@ -575,8 +575,8 @@
       "ta": {
         "q": "DC மோட்டாரின் சுருளில் ஒவ்வோர் அரைச்சுற்றிலும் மின்னோட்டத்தின் திசையை மாற்றும் கருவி",
         "options": [
-          "நழுவு வளையம்",
           "பிளவு வளைய திசைமாற்றி",
+          "நழுவு வளையம்",
           "மின்மாற்றி",
           "மின்உருகி"
         ],
@@ -619,24 +619,24 @@
       "bloom": "remember",
       "page": 59,
       "quote": "In 1831, Michael Faraday explained the possibility of producing an e.m.f across the conductor when the magnetic flux linked with the conductor is changed.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Michael Faraday explained the possibility of producing an emf by changing the magnetic flux in the year",
         "options": [
-          "1820",
+          "1831",
           "1791",
           "1867",
-          "1831"
+          "1820"
         ],
         "explanation": "In 1831 Faraday showed that changing the flux linked with a conductor induces an emf (Oersted: 1820; Faraday born 1791, died 1867)."
       },
       "ta": {
         "q": "காந்தப் பாயத்தை மாற்றிக் கடத்தியில் மின்னியக்கு விசையை உருவாக்க முடியும் என ஃபாரடே விளக்கிய ஆண்டு",
         "options": [
-          "1820",
+          "1831",
           "1791",
           "1867",
-          "1831"
+          "1820"
         ],
         "explanation": "1831-இல் ஃபாரடே இதனை விளக்கினார் (ஆயர்ஸ்டெட்: 1820; ஃபாரடே பிறப்பு 1791, மறைவு 1867)."
       }
@@ -677,24 +677,24 @@
       "bloom": "remember",
       "page": 60,
       "quote": "Know Your Scientist: Michael Faraday (22nd Sep, 1791 - 25th Aug, 1867) was a British Scientist who contributed to the study of electromagnetism and electrochemistry.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Michael Faraday (1791-1867) was a",
         "options": [
-          "British scientist who contributed to electromagnetism and electrochemistry",
+          "Italian astronomer",
           "Danish physicist",
           "German mathematician",
-          "Italian astronomer"
+          "British scientist who contributed to electromagnetism and electrochemistry"
         ],
         "explanation": "His main discoveries include the principles underlying electromagnetic induction, diamagnetism and electrolysis."
       },
       "ta": {
         "q": "மைக்கேல் ஃபாரடே (1791-1867) ஒரு",
         "options": [
-          "மின்காந்தவியல், மின்வேதியியலுக்குப் பங்களித்த பிரிட்டிஷ் அறிவியலறிஞர்",
+          "இத்தாலிய வானியலாளர்",
           "டேனிஷ் இயற்பியலாளர்",
           "ஜெர்மானியக் கணிதவியலாளர்",
-          "இத்தாலிய வானியலாளர்"
+          "மின்காந்தவியல், மின்வேதியியலுக்குப் பங்களித்த பிரிட்டிஷ் அறிவியலறிஞர்"
         ],
         "explanation": "மின்காந்தத் தூண்டல், டயாகாந்தவியல், மின்னாற்பகுப்பு ஆகியவை அவரது முக்கியக் கண்டுபிடிப்புகள்."
       }
@@ -735,14 +735,14 @@
       "bloom": "remember",
       "page": 60,
       "quote": "An alternating current (AC) generator consists of a rotating rectangular coil ABCD called armature placed between the two poles of a permanent magnet. The two ends of this coil are connected to two slip rings S1 and S2.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The rotating rectangular coil of an AC generator is called the",
         "options": [
           "commutator",
           "brush",
-          "armature",
-          "primary coil"
+          "primary coil",
+          "armature"
         ],
         "explanation": "The armature ABCD rotates between the poles of a permanent magnet; its ends are connected to two slip rings."
       },
@@ -751,8 +751,8 @@
         "options": [
           "திசைமாற்றி",
           "தூரிகை",
-          "ஆர்மேச்சர் (தண்டகம்)",
-          "முதன்மைச் சுருள்"
+          "முதன்மைச் சுருள்",
+          "ஆர்மேச்சர் (தண்டகம்)"
         ],
         "explanation": "நிலைக்காந்தத்தின் துருவங்களுக்கிடையே சுழலும் செவ்வகச் சுருள் ஆர்மேச்சர் எனப்படும்; அதன் முனைகள் இரு நழுவு வளையங்களுடன் இணைக்கப்பட்டுள்ளன."
       }
@@ -793,14 +793,14 @@
       "bloom": "remember",
       "page": 61,
       "quote": "To get a direct current (DC), a split ring type commutator must be used. Thus, a unidirectional current is produced. The generator is thus called a DC generator.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "To get a direct current from a generator, the slip rings are replaced by a",
         "options": [
           "transformer",
           "rectifier lamp",
-          "second armature",
-          "split ring commutator"
+          "split ring commutator",
+          "second armature"
         ],
         "explanation": "With a split ring commutator one brush is always in contact with the arm moving up and the other with the arm moving down, giving a unidirectional current."
       },
@@ -809,8 +809,8 @@
         "options": [
           "மின்மாற்றி",
           "திருத்தி விளக்கு",
-          "இரண்டாம் ஆர்மேச்சர்",
-          "பிளவு வளைய திசைமாற்றி"
+          "பிளவு வளைய திசைமாற்றி",
+          "இரண்டாம் ஆர்மேச்சர்"
         ],
         "explanation": "பிளவு வளைய திசைமாற்றியால் ஒரு திசை மின்னோட்டம் கிடைக்கிறது; எனவே அது DC மின்னியற்றி."
       }
@@ -880,12 +880,12 @@
       "bloom": "apply",
       "page": 62,
       "quote": "Problem 3: The primary coil of a transformer has 800 turns and the secondary coil has 8 turns. It is connected to a 220 V ac supply. What will be the output voltage? Es = Ns/Np x Ep = 2.2 V",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The primary coil of a transformer has 800 turns and the secondary has 8 turns. Connected to a 220 V ac supply, the output voltage is",
         "options": [
-          "22 V",
           "2.2 V",
+          "22 V",
           "220 V",
           "22000 V"
         ],
@@ -894,8 +894,8 @@
       "ta": {
         "q": "ஒரு மின்மாற்றியின் முதன்மைச் சுருளில் 800 சுற்றுகளும் துணைச் சுருளில் 8 சுற்றுகளும் உள்ளன. 220 V ac இணைக்கப்பட்டால் வெளியீட்டு மின்னழுத்தம்",
         "options": [
-          "22 V",
           "2.2 V",
+          "22 V",
           "220 V",
           "22000 V"
         ],
@@ -938,14 +938,14 @@
       "bloom": "remember",
       "page": 62,
       "quote": "Magnetic levitation (Maglev) is a method by which an object is suspended with no support other than magnetic fields. In maglev trains two sets of magnets are used, one set to repel and push the train up off the track, then another set to move the floating train ahead at great speed without friction.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A maglev train floats above the track because",
         "options": [
           "it has wings",
-          "it uses jet engines",
+          "one set of magnets repels and pushes the train up off the track",
           "air is blown below it",
-          "one set of magnets repels and pushes the train up off the track"
+          "it uses jet engines"
         ],
         "explanation": "Two sets of magnets are used: one to lift the train and another to move it ahead without friction; there are no moving parts."
       },
@@ -953,9 +953,9 @@
         "q": "மாக்லெவ் தொடர்வண்டி தண்டவாளத்திற்கு மேலே மிதப்பதற்குக் காரணம்",
         "options": [
           "அதற்குச் சிறகுகள் உள்ளன",
-          "அது ஜெட் இயந்திரத்தைப் பயன்படுத்துகிறது",
+          "ஒரு தொகுதிக் காந்தங்கள் விலக்கி வண்டியைத் தண்டவாளத்திலிருந்து மேலே தள்ளுவது",
           "கீழே காற்று ஊதப்படுகிறது",
-          "ஒரு தொகுதிக் காந்தங்கள் விலக்கி வண்டியைத் தண்டவாளத்திலிருந்து மேலே தள்ளுவது"
+          "அது ஜெட் இயந்திரத்தைப் பயன்படுத்துகிறது"
         ],
         "explanation": "இரண்டு தொகுதிக் காந்தங்களில் ஒன்று வண்டியைத் தூக்கும்; மற்றொன்று உராய்வின்றி முன்னே நகர்த்தும்."
       }
@@ -996,14 +996,14 @@
       "bloom": "remember",
       "page": 63,
       "quote": "Points to Remember: Direction of the force in a current carrying conductor is determined by Fleming's Left Hand Rule. Direction of induced current in a conductor is determined by Fleming's Right Hand Rule.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The direction of the induced current in a conductor is determined by",
         "options": [
           "Fleming's left hand rule",
-          "Fleming's right hand rule",
+          "Boyle's law",
           "Archimedes' principle",
-          "Boyle's law"
+          "Fleming's right hand rule"
         ],
         "explanation": "Induced current - right hand rule; force on a current-carrying conductor - left hand rule."
       },
@@ -1011,9 +1011,9 @@
         "q": "ஒரு கடத்தியில் தூண்டப்பட்ட மின்னோட்டத்தின் திசையைத் தீர்மானிப்பது",
         "options": [
           "ஃபிளெமிங்கின் இடக்கை விதி",
-          "ஃபிளெமிங்கின் வலக்கை விதி",
+          "பாயில் விதி",
           "ஆர்க்கிமிடிஸ் தத்துவம்",
-          "பாயில் விதி"
+          "ஃபிளெமிங்கின் வலக்கை விதி"
         ],
         "explanation": "தூண்டப்பட்ட மின்னோட்டம் - வலக்கை விதி; மின்னோட்டம் பாயும் கடத்தியின் மீதான விசை - இடக்கை விதி."
       }

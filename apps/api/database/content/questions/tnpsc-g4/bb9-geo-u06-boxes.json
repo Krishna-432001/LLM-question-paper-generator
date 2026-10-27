@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 210,
       "quote": "The word 'environment' is derived from the French word 'environ' meaning encircled or surrounded. Environment is classified as (a) Natural (b) Human and (c) Man-made environment.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which of the following is a component of the man-made environment?",
         "options": [
           "Lithosphere",
-          "Buildings and industries",
+          "Atmosphere",
           "Hydrosphere",
-          "Atmosphere"
+          "Buildings and industries"
         ],
         "explanation": "The natural environment comprises land, air, water and living things; the human environment concerns the individual, family, society, education, religion, economics and politics."
       },
@@ -54,9 +54,9 @@
         "q": "மனிதன் உருவாக்கிய சூழலின் கூறு எது?",
         "options": [
           "நிலக்கோளம்",
-          "கட்டடங்களும் தொழிற்சாலைகளும்",
+          "வளிக்கோளம்",
           "நீர்க்கோளம்",
-          "வளிக்கோளம்"
+          "கட்டடங்களும் தொழிற்சாலைகளும்"
         ],
         "explanation": "இயற்கைச் சூழலில் நிலம், காற்று, நீர், உயிரினங்கள் அடங்கும்."
       }
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 212,
       "quote": "The population of the world doubled from 500 million in 1650 to 1000 million in 1850. About the time of the Industrial Revolution, it began to increase rapidly.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "World population began to increase rapidly about the time of the",
         "options": [
           "Neolithic Revolution",
-          "Industrial Revolution",
+          "Renaissance",
           "French Revolution only",
-          "Renaissance"
+          "Industrial Revolution"
         ],
         "explanation": "The world population doubled from 500 million (1650) to 1,000 million (1850)."
       },
@@ -141,9 +141,9 @@
         "q": "உலக மக்கள்தொகை விரைவாக உயரத் தொடங்கிய காலம்",
         "options": [
           "புதிய கற்காலப் புரட்சி",
-          "தொழிற்புரட்சிக் காலம்",
+          "மறுமலர்ச்சிக் காலம்",
           "பிரெஞ்சுப் புரட்சி மட்டும்",
-          "மறுமலர்ச்சிக் காலம்"
+          "தொழிற்புரட்சிக் காலம்"
         ],
         "explanation": "1650இல் 500 மில்லியனாக இருந்த மக்கள்தொகை 1850இல் 1000 மில்லியன் ஆனது."
       }
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 212,
       "quote": "Physical factors include temperature, rainfall, soil, relief, water, natural vegetation, distribution of minerals... Historical Factors... Economic Factors",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which of the following is an economic factor affecting the distribution of population?",
         "options": [
-          "Employment opportunities and manufacturing industries",
           "Temperature and rainfall",
+          "Employment opportunities and manufacturing industries",
           "River valley civilizations",
           "Relief and soil"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "மக்கள்தொகைப் பரவலைப் பாதிக்கும் பொருளாதாரக் காரணி எது?",
         "options": [
-          "வேலைவாய்ப்பும் தொழிற்சாலைகளும்",
           "வெப்பநிலையும் மழையும்",
+          "வேலைவாய்ப்பும் தொழிற்சாலைகளும்",
           "ஆற்றுப்பள்ளத்தாக்கு நாகரிகங்கள்",
           "நிலத்தோற்றமும் மண்ணும்"
         ],
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 213,
       "quote": "India has an official population policy implemented in 1952. India was the first country to announce such a policy.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "India announced an official population policy in 1952; it was the first country to do so. Its main objective was to",
         "options": [
           "increase the birth rate",
-          "encourage emigration",
           "slow down the rate of population growth through birth control",
+          "encourage emigration",
           "stop migration to cities"
         ],
         "explanation": "Over population: more people than resources can sustain; under population: too few people to develop the economic potential fully."
@@ -257,8 +257,8 @@
         "q": "1952இல் இந்தியா அதிகாரப்பூர்வ மக்கள்தொகைக் கொள்கையை அறிவித்த முதல் நாடாகும். இதன் முக்கிய நோக்கம்",
         "options": [
           "பிறப்பு வீதத்தை உயர்த்துதல்",
-          "வெளிநாடு குடிபெயர ஊக்குவித்தல்",
           "கருத்தடை முறைகள் மூலம் மக்கள்தொகை வளர்ச்சி வீதத்தைக் குறைத்தல்",
+          "வெளிநாடு குடிபெயர ஊக்குவித்தல்",
           "நகர இடப்பெயர்வைத் தடுத்தல்"
         ],
         "explanation": "மிகை மக்கள்தொகை - வளங்களை விட அதிக மக்கள்."
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 213,
       "quote": "Rural settlements: Rectangular pattern - plain areas or valleys; Linear - along a road, railway line, river valley or levee; Circular - around lakes, ponds, sea coasts; Star-like - where roads converge",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Match List I with List II.\nList I: a) Rectangular pattern  b) Linear pattern  c) Circular pattern  d) Star-like pattern\nList II: 1) Around lakes and ponds  2) Where roads converge  3) Plains and valleys with roads meeting at right angles  4) Along a road, railway line or river",
         "options": [
-          "a-3 b-4 c-1 d-2",
-          "a-1 b-2 c-4 d-3",
           "a-4 b-3 c-2 d-1",
+          "a-1 b-2 c-4 d-3",
+          "a-3 b-4 c-1 d-2",
           "a-2 b-1 c-3 d-4"
         ],
         "explanation": "Triangular patterns develop at river confluences; nebular pattern around a nucleus (landlord's house, temple, mosque or church)."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "பட்டியல் I-ஐ பட்டியல் II உடன் பொருத்துக.\nபட்டியல் I: அ) செவ்வக வடிவம்  ஆ) நேர்க்கோட்டு வடிவம்  இ) வட்ட வடிவம்  ஈ) நட்சத்திர வடிவம்\nபட்டியல் II: 1) ஏரி, குளக்கரைகள்  2) சாலைகள் ஒன்றுகூடும் இடங்கள்  3) சமவெளி, பள்ளத்தாக்கில் சாலைகள் செங்கோணத்தில் சந்திக்கும் இடம்  4) சாலை, இருப்புப்பாதை, ஆற்றோரம்",
         "options": [
-          "அ-3 ஆ-4 இ-1 ஈ-2",
-          "அ-1 ஆ-2 இ-4 ஈ-3",
           "அ-4 ஆ-3 இ-2 ஈ-1",
+          "அ-1 ஆ-2 இ-4 ஈ-3",
+          "அ-3 ஆ-4 இ-1 ஈ-2",
           "அ-2 ஆ-1 இ-3 ஈ-4"
         ],
         "explanation": "முக்கோண வடிவம் - ஆறுகள் சந்திக்குமிடம்; மூலக்கரு வடிவம் - மையத்தைச் சுற்றி."
@@ -358,24 +358,24 @@
       "bloom": "remember",
       "page": 214,
       "quote": "Conurbation: A conurbation is a region comprising of a number of cities, large towns and other urban areas. E.g.: Delhi conurbation.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "A region comprising a number of cities, large towns and other urban areas is called a",
         "options": [
-          "megacity",
+          "conurbation",
           "hamlet",
           "metropolis",
-          "conurbation"
+          "megacity"
         ],
         "explanation": "The textbook gives the Delhi conurbation as an example."
       },
       "ta": {
         "q": "பல நகரங்கள், பெரிய நகரங்கள், பிற நகர்ப்புறங்கள் இணைந்த பகுதி",
         "options": [
-          "மீப்பெருநகரம்",
+          "நகரங்களின் தொகுதி (Conurbation)",
           "சிற்றூர்",
           "மாநகரம்",
-          "நகரங்களின் தொகுதி (Conurbation)"
+          "மீப்பெருநகரம்"
         ],
         "explanation": "தில்லி நகரத் தொகுதி எடுத்துக்காட்டு."
       }
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 215,
       "quote": "Quinary Activities include the highest levels of decision making in a society or economy. E.g.: Senior business executives, scientists and policy makers in the Government.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which economic activity includes the highest levels of decision making, such as senior executives and policy makers?",
         "options": [
           "Quaternary",
-          "Quinary",
+          "Primary",
           "Tertiary",
-          "Primary"
+          "Quinary"
         ],
         "explanation": "Quaternary activities concern research and development."
       },
@@ -431,9 +431,9 @@
         "q": "மூத்த நிர்வாகிகள், கொள்கை வகுப்போர் போன்ற உயர்மட்ட முடிவெடுப்பை உள்ளடக்கிய தொழில்",
         "options": [
           "நான்காம் நிலைத் தொழில்",
-          "ஐந்தாம் நிலைத் தொழில்",
+          "முதல்நிலைத் தொழில்",
           "மூன்றாம் நிலைத் தொழில்",
-          "முதல்நிலைத் தொழில்"
+          "ஐந்தாம் நிலைத் தொழில்"
         ],
         "explanation": "நான்காம் நிலை - ஆராய்ச்சி, மேம்பாடு."
       }
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 216,
       "quote": "In 1987, the Brundtland Commission cited the definition of sustainability... For sustainable development to be achieved, it is crucial to harmonize three core elements: economic growth, social aspects and environmental protection.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which of the following is NOT one of the three core elements of sustainable development, according to the textbook?",
         "options": [
           "Economic growth",
-          "Military strength",
+          "Environmental protection",
           "Social aspects",
-          "Environmental protection"
+          "Military strength"
         ],
         "explanation": "The three elements are interconnected and crucial for the well-being of people."
       },
@@ -518,9 +518,9 @@
         "q": "நூலின்படி வளம் குன்றா வளர்ச்சியின் மூன்று முக்கிய கூறுகளில் இடம்பெறாதது",
         "options": [
           "பொருளாதார வளர்ச்சி",
-          "இராணுவ வலிமை",
+          "சுற்றுச்சூழல் பாதுகாப்பு",
           "சமூக அம்சங்கள்",
-          "சுற்றுச்சூழல் பாதுகாப்பு"
+          "இராணுவ வலிமை"
         ],
         "explanation": "இம்மூன்று கூறுகளும் ஒன்றோடொன்று இணைந்தவை."
       }
