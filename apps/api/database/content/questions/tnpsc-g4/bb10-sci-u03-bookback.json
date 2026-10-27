@@ -1,0 +1,529 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 10 Science Term-Full (English)",
+  "breadcrumb": "Std 10 Science (English) — Unit 3: Thermal Physics — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 39,
+      "quote": "If a substance is heated or cooled, the change in mass of that substance is a) positive b) negative c) zero d) none of the above",
+      "answer": "D",
+      "en": {
+        "q": "If a substance is heated or cooled, the change in its mass is",
+        "options": [
+          "equal to the heat supplied",
+          "positive",
+          "negative",
+          "zero"
+        ],
+        "explanation": "Heating or cooling changes the temperature, volume or state but not the mass of the substance."
+      },
+      "ta": {
+        "q": "ஒரு பொருளை வெப்பப்படுத்தினாலோ குளிர்வித்தாலோ அப்பொருளின் நிறையில் ஏற்படும் மாற்றம்",
+        "options": [
+          "அளிக்கப்பட்ட வெப்பத்திற்குச் சமம்",
+          "நேர்க்குறி",
+          "எதிர்க்குறி",
+          "சுழி"
+        ],
+        "explanation": "வெப்பப்படுத்தல் அல்லது குளிர்வித்தலால் வெப்பநிலை, பருமன், நிலை மாறலாம்; நிறை மாறாது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 40,
+      "quote": "2. The temperature and heat are _________ quantities",
+      "answer": "B",
+      "en": {
+        "q": "Temperature and heat are both",
+        "options": [
+          "vector quantities",
+          "scalar quantities",
+          "neither scalar nor vector",
+          "tensor quantities only"
+        ],
+        "explanation": "The lesson states that temperature is a scalar quantity and heat is a scalar quantity."
+      },
+      "ta": {
+        "q": "வெப்பநிலையும் வெப்பமும் ____ அளவுகள்.",
+        "options": [
+          "வெக்டர்",
+          "ஸ்கேலர்",
+          "ஸ்கேலரும் அல்ல வெக்டரும் அல்ல",
+          "டென்சர் மட்டும்"
+        ],
+        "explanation": "வெப்பநிலை, வெப்பம் இரண்டும் ஸ்கேலர் அளவுகள் என்று பாடம் கூறுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 40,
+      "quote": "4. According to Boyle's law, the shape of the graph between pressure and reciprocal of volume is ________________",
+      "answer": "D",
+      "en": {
+        "q": "According to Boyle's law, the graph between pressure (P) and the reciprocal of volume (1/V) is",
+        "options": [
+          "a circle",
+          "a parabola",
+          "a rectangular hyperbola",
+          "a straight line"
+        ],
+        "explanation": "PV = constant, so P is directly proportional to 1/V."
+      },
+      "ta": {
+        "q": "பாயில் விதிப்படி, அழுத்தம் (P)–பருமனின் தலைகீழி (1/V) வரைபடத்தின் வடிவம்",
+        "options": [
+          "வட்டம்",
+          "பரவளையம்",
+          "செவ்வக அதிபரவளையம்",
+          "நேர்க்கோடு"
+        ],
+        "explanation": "PV = மாறிலி; எனவே P ஆனது 1/V-க்கு நேர்த்தகவில் இருக்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 40,
+      "quote": "1. For a given heat in liquid, the apparent expansion is more than that of real expansion.",
+      "answer": "C",
+      "en": {
+        "q": "For a given quantity of heat given to a liquid, which statement is correct?",
+        "options": [
+          "Apparent expansion is always more than real expansion",
+          "Real and apparent expansions are always equal",
+          "Real expansion is always more than apparent expansion",
+          "Real expansion is zero"
+        ],
+        "explanation": "Real expansion = L3 − L2 is greater than apparent expansion = L3 − L1, because the container also expands."
+      },
+      "ta": {
+        "q": "திரவத்திற்குக் குறிப்பிட்ட வெப்பம் அளிக்கும்போது சரியான கூற்று எது?",
+        "options": [
+          "தோற்ற வெப்ப விரிவு எப்போதும் உண்மை வெப்ப விரிவை விட அதிகம்",
+          "உண்மை, தோற்ற வெப்ப விரிவுகள் எப்போதும் சமம்",
+          "உண்மை வெப்ப விரிவு எப்போதும் தோற்ற வெப்ப விரிவை விட அதிகம்",
+          "உண்மை வெப்ப விரிவு சுழி"
+        ],
+        "explanation": "கொள்கலனும் விரிவடைவதால் உண்மை விரிவு (L3 − L2) தோற்ற விரிவை (L3 − L1) விட அதிகம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 40,
+      "quote": "2. Thermal energy always flows from a system at higher temperature to a system at lower temperature.",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following correctly describes the direction of flow of thermal energy between two bodies?",
+        "options": [
+          "Always from the larger body to the smaller body",
+          "From the body at higher temperature to the body at lower temperature",
+          "From the body at lower temperature to the body at higher temperature",
+          "From the heavier body to the lighter body"
+        ],
+        "explanation": "Heat flows until thermal equilibrium (same temperature) is reached."
+      },
+      "ta": {
+        "q": "இரு பொருட்களுக்கிடையே வெப்ப ஆற்றல் பரவும் திசையைச் சரியாகக் கூறுவது எது?",
+        "options": [
+          "பெரிய பொருளிலிருந்து சிறிய பொருளுக்கு எப்போதும்",
+          "அதிக வெப்பநிலைப் பொருளிலிருந்து குறைந்த வெப்பநிலைப் பொருளுக்கு",
+          "குறைந்த வெப்பநிலைப் பொருளிலிருந்து அதிக வெப்பநிலைப் பொருளுக்கு",
+          "கனமான பொருளிலிருந்து இலேசான பொருளுக்கு"
+        ],
+        "explanation": "வெப்பச் சமநிலை (சம வெப்பநிலை) ஏற்படும் வரை வெப்பம் பரவும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 40,
+      "quote": "3. According to Charles's law, at constant pressure, the temperature is inversely proportional to volume.",
+      "answer": "A",
+      "en": {
+        "q": "According to Charles's law, at constant pressure the volume of a gas is",
+        "options": [
+          "directly proportional to its absolute temperature",
+          "inversely proportional to its pressure",
+          "independent of its temperature",
+          "inversely proportional to its temperature"
+        ],
+        "explanation": "V/T = constant for absolute (kelvin) temperature, so the volume is directly proportional to the absolute temperature."
+      },
+      "ta": {
+        "q": "சார்லஸ் விதிப்படி, மாறா அழுத்தத்தில் வாயுவின் பருமன்",
+        "options": [
+          "தனி வெப்பநிலைக்கு நேர்த்தகவில் இருக்கும்",
+          "அழுத்தத்திற்கு எதிர்த்தகவில் இருக்கும்",
+          "வெப்பநிலையைச் சாராது",
+          "வெப்பநிலைக்கு எதிர்த்தகவில் இருக்கும்"
+        ],
+        "explanation": "V/T = மாறிலி (T என்பது தனி வெப்பநிலை, கெல்வின்); எனவே பருமன் தனி வெப்பநிலைக்கு நேர்த்தகவில் இருக்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 40,
+      "quote": "Match: 1. Linear expansion (d) change in length 2. Superficial expansion (e) change in area 3. Cubical expansion (a) change in volume 5. Boltzmann constant (c) 1.381 × 10^-23 J K^-1",
+      "answer": "B",
+      "en": {
+        "q": "Match the item in List I with List II:\n(a) Linear expansion\n(b) Superficial expansion\n(c) Cubical expansion\n(d) Boltzmann constant\n— \n(1) Change in volume\n(2) 1.381 × 10⁻²³ J K⁻¹\n(3) Change in length\n(4) Change in area",
+        "options": [
+          "a-1, b-4, c-3, d-2",
+          "a-3, b-4, c-1, d-2",
+          "a-1, b-4, c-2, d-3",
+          "a-3, b-2, c-4, d-1"
+        ],
+        "explanation": "Linear – change in length; superficial – change in area; cubical – change in volume; k_B = 1.381 × 10⁻²³ J K⁻¹."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐப் பட்டியல் II உடன் பொருத்துக:\n(a) நீள் வெப்ப விரிவு\n(b) பரப்பு வெப்ப விரிவு\n(c) பரும வெப்ப விரிவு\n(d) போல்ட்ஸ்மேன் மாறிலி\n— \n(1) பருமனில் மாற்றம்\n(2) 1.381 × 10⁻²³ J K⁻¹\n(3) நீளத்தில் மாற்றம்\n(4) பரப்பில் மாற்றம்",
+        "options": [
+          "a-1, b-4, c-3, d-2",
+          "a-3, b-4, c-1, d-2",
+          "a-1, b-4, c-2, d-3",
+          "a-3, b-2, c-4, d-1"
+        ],
+        "explanation": "நீள் விரிவு – நீளத்தில் மாற்றம்; பரப்பு விரிவு – பரப்பில் மாற்றம்; பரும விரிவு – பருமனில் மாற்றம்; k_B = 1.381 × 10⁻²³ J K⁻¹."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 40,
+      "quote": "If one end of the rod is heated, other end also is heated. Reason: Heat always flows from a region of lower temperature to higher temperature of the rod.",
+      "answer": "C",
+      "en": {
+        "q": "Assertion [A]: If one end of a rod is heated, the other end also gets heated.\nReason [R]: Heat always flows from a region of lower temperature to a region of higher temperature of the rod.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Heat flows from the hotter end to the colder end, so [R] is false."
+      },
+      "ta": {
+        "q": "கூற்று [A]: ஒரு கம்பியின் ஒரு முனையை வெப்பப்படுத்தும்போது மற்றொரு முனையும் வெப்பமடையும்.\nகாரணம் [R]: வெப்ப ஆற்றல் எப்போதும் கம்பியின் குறைந்த வெப்பநிலைப் பகுதியிலிருந்து அதிக வெப்பநிலைப் பகுதிக்குப் பரவும்.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "வெப்பம் அதிக வெப்பநிலைப் பகுதியிலிருந்து குறைந்த வெப்பநிலைப் பகுதிக்கே பரவும்; எனவே [R] தவறு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 40,
+      "quote": "Gas is highly compressible than solid and liquid. Reason: Interatomic or intermolecular distance in the gas is comparably high.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: Gases are highly compressible compared with solids and liquids.\nReason [R]: The interatomic or intermolecular distance in a gas is comparably large.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Large intermolecular spaces allow a gas to be compressed easily."
+      },
+      "ta": {
+        "q": "கூற்று [A]: திண்மம், திரவத்தை விட வாயு அதிக அமுக்கத்திற்கு உட்படும்.\nகாரணம் [R]: வாயுவில் அணுக்கள் அல்லது மூலக்கூறுகளுக்கு இடையேயான தொலைவு ஒப்பிடத்தக்க வகையில் அதிகம்.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "மூலக்கூறுகளுக்கிடையே இடைவெளி அதிகம் என்பதால் வாயுவை எளிதில் அமுக்கலாம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 40,
+      "quote": "1. Define one calorie.",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following is the correct relation among the units of heat?",
+        "options": [
+          "The SI unit of heat is watt",
+          "The SI unit of heat is calorie, and 1 joule is the heat needed to raise 1 g of water through 1 °C",
+          "The SI unit of heat is joule, and 1 kilocalorie is the heat needed to raise 1 kg of water through 1 °C",
+          "The SI unit of heat is kelvin"
+        ],
+        "explanation": "The SI unit of heat energy is the joule; the calorie (1 g, 1 °C) and kilocalorie (1 kg, 1 °C) are other commonly used units."
+      },
+      "ta": {
+        "q": "வெப்ப அலகுகள் பற்றிய சரியான கூற்று எது?",
+        "options": [
+          "வெப்பத்தின் SI அலகு வாட்",
+          "வெப்பத்தின் SI அலகு கலோரி; 1 ஜுல் என்பது 1 கி நீரை 1 °C உயர்த்தத் தேவையான வெப்பம்",
+          "வெப்பத்தின் SI அலகு ஜுல்; 1 கிலோகலோரி என்பது 1 கிகி நீரை 1 °C உயர்த்தத் தேவையான வெப்பம்",
+          "வெப்பத்தின் SI அலகு கெல்வின்"
+        ],
+        "explanation": "வெப்ப ஆற்றலின் SI அலகு ஜுல்; கலோரி (1 கி, 1 °C), கிலோகலோரி (1 கிகி, 1 °C) ஆகியவை பிற அலகுகள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 40,
+      "quote": "2. Distinguish between linear, arial or superficial expansion.",
+      "answer": "D",
+      "en": {
+        "q": "In which type of expansion does the area of a solid increase on heating?",
+        "options": [
+          "Cubical expansion",
+          "Real expansion",
+          "Linear expansion",
+          "Superficial (areal) expansion"
+        ],
+        "explanation": "Linear expansion – increase in length; superficial – increase in area; cubical – increase in volume."
+      },
+      "ta": {
+        "q": "வெப்பப்படுத்தும்போது திடப்பொருளின் பரப்பு அதிகரிக்கும் விரிவு",
+        "options": [
+          "பரும வெப்ப விரிவு",
+          "உண்மை வெப்ப விரிவு",
+          "நீள் வெப்ப விரிவு",
+          "பரப்பு வெப்ப விரிவு"
+        ],
+        "explanation": "நீள் விரிவு – நீளம் அதிகரித்தல்; பரப்பு விரிவு – பரப்பு அதிகரித்தல்; பரும விரிவு – பருமன் அதிகரித்தல்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 40,
+      "quote": "3. What is co-efficient of cubical expansion?",
+      "answer": "B",
+      "en": {
+        "q": "The coefficient of cubical expansion of a solid is defined as the ratio of the",
+        "options": [
+          "increase in length per degree rise in temperature to its unit length",
+          "increase in volume per degree rise in temperature to its unit volume",
+          "increase in area per degree rise in temperature to its unit area",
+          "volume of the solid to its mass"
+        ],
+        "explanation": "Its SI unit is K⁻¹."
+      },
+      "ta": {
+        "q": "திடப்பொருளின் பரும வெப்ப விரிவுக் குணகம் என்பது",
+        "options": [
+          "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு ஏற்படும் நீள அதிகரிப்பிற்கும் ஓரலகு நீளத்திற்கும் உள்ள தகவு",
+          "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு ஏற்படும் பருமன் அதிகரிப்பிற்கும் அதன் ஓரலகு பருமனுக்கும் உள்ள தகவு",
+          "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு ஏற்படும் பரப்பு அதிகரிப்பிற்கும் ஓரலகு பரப்பிற்கும் உள்ள தகவு",
+          "பருமனுக்கும் நிறைக்கும் உள்ள தகவு"
+        ],
+        "explanation": "இதன் SI அலகு K⁻¹."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 40,
+      "quote": "4. State Boyle's law",
+      "answer": "A",
+      "en": {
+        "q": "At constant temperature, the pressure of a fixed mass of gas is made four times. According to Boyle's law its volume becomes",
+        "options": [
+          "one-fourth of the initial volume",
+          "the same as the initial volume",
+          "half of the initial volume",
+          "four times the initial volume"
+        ],
+        "explanation": "PV = constant at constant temperature."
+      },
+      "ta": {
+        "q": "மாறா வெப்பநிலையில் குறிப்பிட்ட நிறையுள்ள வாயுவின் அழுத்தம் 4 மடங்காக்கப்பட்டால், பாயில் விதிப்படி அதன் பருமன்",
+        "options": [
+          "தொடக்கப் பருமனில் நான்கில் ஒரு பங்காகும்",
+          "மாறாது",
+          "தொடக்கப் பருமனில் பாதியாகும்",
+          "தொடக்கப் பருமனைப் போல் 4 மடங்காகும்"
+        ],
+        "explanation": "மாறா வெப்பநிலையில் PV = மாறிலி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 40,
+      "quote": "5. State-the law of volume",
+      "answer": "B",
+      "en": {
+        "q": "Charles's law, which is also called the law of volume, was formulated by",
+        "options": [
+          "Ludwig Boltzmann",
+          "Jacques Charles, a French scientist",
+          "Amedeo Avogadro",
+          "Robert Boyle"
+        ],
+        "explanation": "At constant pressure the volume of a gas is directly proportional to its temperature."
+      },
+      "ta": {
+        "q": "பருமன் விதி எனவும் அழைக்கப்படும் சார்லஸ் விதியை உருவாக்கியவர்",
+        "options": [
+          "லுட்விக் போல்ட்ஸ்மேன்",
+          "பிரெஞ்சு அறிவியலறிஞர் ஜாக்கஸ் சார்லஸ்",
+          "அமெடியோ அவகேட்ரோ",
+          "ராபர்ட் பாயில்"
+        ],
+        "explanation": "மாறா அழுத்தத்தில் வாயுவின் பருமன் அதன் வெப்பநிலைக்கு நேர்த்தகவில் இருக்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 40,
+      "quote": "6. Distinguish between ideal gas and real gas.",
+      "answer": "D",
+      "en": {
+        "q": "Which statement distinguishes an ideal gas from a real gas?",
+        "options": [
+          "A real gas obeys all gas laws at all pressures",
+          "The molecules of an ideal gas attract each other with a definite force",
+          "An ideal gas exists in nature",
+          "The atoms or molecules of an ideal gas do not interact with one another"
+        ],
+        "explanation": "Real-gas molecules interact; a real gas behaves ideally at high temperature or low pressure. In practice no gas is perfectly ideal."
+      },
+      "ta": {
+        "q": "நல்லியல்பு வாயுவையும் மெய்வாயுவையும் வேறுபடுத்தும் கூற்று எது?",
+        "options": [
+          "மெய்வாயு எல்லா அழுத்தத்திலும் வாயு விதிகளுக்கு உட்படும்",
+          "நல்லியல்பு வாயுவின் மூலக்கூறுகள் குறிப்பிட்ட விசையுடன் ஒன்றையொன்று கவர்கின்றன",
+          "நல்லியல்பு வாயு இயற்கையில் உள்ளது",
+          "நல்லியல்பு வாயுவின் அணுக்கள் அல்லது மூலக்கூறுகள் ஒன்றோடொன்று இடைவினை புரிவதில்லை"
+        ],
+        "explanation": "மெய்வாயு மூலக்கூறுகள் இடைவினை புரியும்; உயர் வெப்பநிலை, குறைந்த அழுத்தத்தில் மெய்வாயு நல்லியல்பு வாயுவாகச் செயல்படும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 40,
+      "quote": "7. What is co-efficient of real expansion?",
+      "answer": "C",
+      "en": {
+        "q": "The coefficient of real expansion of a liquid is the ratio of the",
+        "options": [
+          "rise in volume of the container to that of the liquid",
+          "rise in length of the liquid column to its mass",
+          "true rise in volume of the liquid per degree rise in temperature to its unit volume",
+          "apparent rise in volume of the liquid per degree rise in temperature to its unit volume"
+        ],
+        "explanation": "SI unit is K⁻¹; for the apparent coefficient the container's expansion is ignored."
+      },
+      "ta": {
+        "q": "திரவத்தின் உண்மை வெப்ப விரிவுக் குணகம் என்பது",
+        "options": [
+          "கொள்கலனின் பருமன் உயர்விற்கும் திரவத்தின் பருமன் உயர்விற்கும் உள்ள தகவு",
+          "திரவ நிரலின் நீள உயர்விற்கும் நிறைக்கும் உள்ள தகவு",
+          "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு திரவத்தின் உண்மையான பருமன் அதிகரிப்பிற்கும் அதன் ஓரலகு பருமனுக்கும் உள்ள தகவு",
+          "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு திரவத்தின் தோற்றப் பருமன் அதிகரிப்பிற்கும் ஓரலகு பருமனுக்கும் உள்ள தகவு"
+        ],
+        "explanation": "SI அலகு K⁻¹; தோற்ற விரிவுக் குணகத்தில் கொள்கலனின் விரிவு கணக்கில் கொள்ளப்படுவதில்லை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 41,
+      "quote": "1. Find the final temperature of a copper rod. Whose area of cross section changes from 10 m2 to 11 m2 due to heating. The copper rod is initially kept at 90 K. (Coefficient of superficial expansion is 0.0021 /K)",
+      "answer": "D",
+      "en": {
+        "q": "The area of cross-section of a copper rod changes from 10 m² to 11 m² on heating. Initially the rod is at 90 K and its coefficient of superficial expansion is 0.0021 K⁻¹. The final temperature is approximately",
+        "options": [
+          "181 K",
+          "47.6 K",
+          "90 K",
+          "137.6 K"
+        ],
+        "explanation": "ΔA = α_A A₀ ΔT → 1 = 0.0021 × 10 × ΔT → ΔT ≈ 47.6 K; final temperature = 90 + 47.6 ≈ 137.6 K."
+      },
+      "ta": {
+        "q": "ஒரு காப்பர் தண்டை வெப்பப்படுத்தும்போது அதன் குறுக்குவெட்டுப் பரப்பு 10 மீ²-லிருந்து 11 மீ² ஆகிறது. தண்டின் தொடக்க வெப்பநிலை 90 K; பரப்பு வெப்ப விரிவுக் குணகம் 0.0021 K⁻¹. இறுதி வெப்பநிலை தோராயமாக",
+        "options": [
+          "181 K",
+          "47.6 K",
+          "90 K",
+          "137.6 K"
+        ],
+        "explanation": "ΔA = α_A A₀ ΔT → 1 = 0.0021 × 10 × ΔT → ΔT ≈ 47.6 K; இறுதி வெப்பநிலை = 90 + 47.6 ≈ 137.6 K."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 41,
+      "quote": "If you keep ice at 0° C and water at 0° C in either of your hands, in which hand you will feel more chillness? Why?",
+      "answer": "D",
+      "en": {
+        "q": "If ice at 0 °C is held in one hand and water at 0 °C in the other, more chillness is felt in the hand holding ice because",
+        "options": [
+          "water at 0 °C is at a higher temperature",
+          "ice is heavier than water",
+          "ice is at a lower temperature than the water",
+          "ice absorbs extra heat from the hand as latent heat to melt"
+        ],
+        "explanation": "Both are at 0 °C; ice takes additional heat from the hand to change into water at 0 °C (latent heat of fusion), so the hand loses more heat."
+      },
+      "ta": {
+        "q": "ஒரு கையில் 0 °C பனிக்கட்டியையும் மறு கையில் 0 °C நீரையும் வைத்தால், பனிக்கட்டியுள்ள கையில் அதிகக் குளிர்ச்சி உணரப்படக் காரணம்",
+        "options": [
+          "0 °C நீர் அதிக வெப்பநிலையில் இருப்பது",
+          "பனிக்கட்டி நீரை விடக் கனமானது",
+          "பனிக்கட்டியின் வெப்பநிலை நீரை விடக் குறைவாக இருப்பது",
+          "உருகுவதற்காகப் பனிக்கட்டி கையிலிருந்து கூடுதல் வெப்பத்தை (உள்ளுறை வெப்பம்) உறிஞ்சுவது"
+        ],
+        "explanation": "இரண்டும் 0 °C; பனிக்கட்டி 0 °C நீராக மாறக் கையிலிருந்து கூடுதல் வெப்பத்தை (உருகுதல் உள்ளுறை வெப்பம்) எடுப்பதால் கை அதிக வெப்பத்தை இழக்கிறது."
+      }
+    }
+  ]
+}

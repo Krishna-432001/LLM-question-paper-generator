@@ -1,0 +1,964 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 10 Science Term-Full (English)",
+  "breadcrumb": "Std 10 Science (English) — Unit 2: Optics — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 29,
+      "quote": "The refractive index of four substances A, B, C and D are 1.31, 1.43, 1.33, 2.4 respectively. The speed of light is maximum in a) A b) B c) C d) D",
+      "answer": "C",
+      "en": {
+        "q": "The refractive indices of four substances A, B, C and D are 1.31, 1.43, 1.33 and 2.4 respectively. Light travels fastest in",
+        "options": [
+          "D",
+          "B",
+          "A",
+          "C"
+        ],
+        "explanation": "Speed of light in a medium = c/µ; the smallest refractive index (1.31 of A) gives the greatest speed."
+      },
+      "ta": {
+        "q": "A, B, C, D என்ற நான்கு பொருட்களின் ஒளிவிலகல் எண்கள் முறையே 1.31, 1.43, 1.33, 2.4. இவற்றில் ஒளியின் திசைவேகம் பெருமமாக இருக்கும் பொருள்",
+        "options": [
+          "D",
+          "B",
+          "A",
+          "C"
+        ],
+        "explanation": "ஊடகத்தில் ஒளியின் வேகம் = c/µ; குறைந்த ஒளிவிலகல் எண் (A-இன் 1.31) உள்ள ஊடகத்தில் வேகம் பெருமம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 29,
+      "quote": "Where should an object be placed so that a real and inverted image of same size is obtained by a convex lens a) f b) 2f c) infinity d) between f and 2f",
+      "answer": "C",
+      "en": {
+        "q": "To obtain a real, inverted image of the same size as the object with a convex lens, the object must be placed",
+        "options": [
+          "at f",
+          "at infinity",
+          "at 2f",
+          "between f and 2f"
+        ],
+        "explanation": "At 2f the image is formed at 2f on the other side, real, inverted and of the same size."
+      },
+      "ta": {
+        "q": "குவிலென்சு மூலம் பொருளின் அளவிற்குச் சமமான, தலைகீழான மெய்ப்பிம்பம் பெற பொருளை வைக்க வேண்டிய இடம்",
+        "options": [
+          "f",
+          "ஈறிலாத் தொலைவு",
+          "2f",
+          "f-க்கும் 2f-க்கும் இடையில்"
+        ],
+        "explanation": "பொருள் 2f-இல் இருக்கும்போது பிம்பம் மறுபுறம் 2f-இல் அதே அளவில் மெய்யாகவும் தலைகீழாகவும் தோன்றும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 29,
+      "quote": "A small bulb is placed at the principal focus of a convex lens. When the bulb is switched on, the lens will produce a) a convergent beam of light b) a divergent beam of light c) a parallel beam of light d) a coloured beam of light",
+      "answer": "D",
+      "en": {
+        "q": "A small bulb is placed at the principal focus of a convex lens. When the bulb is switched on, the lens produces",
+        "options": [
+          "a divergent beam of light",
+          "a coloured beam of light",
+          "a convergent beam of light",
+          "a parallel beam of light"
+        ],
+        "explanation": "Rays from the principal focus emerge parallel to the principal axis after refraction (image at infinity)."
+      },
+      "ta": {
+        "q": "ஒரு சிறிய மின்விளக்கு குவிலென்சின் முதன்மைக் குவியத்தில் வைக்கப்பட்டுள்ளது. விளக்கு ஒளிரும்போது லென்சு உருவாக்குவது",
+        "options": [
+          "விரிக்கும் கற்றை",
+          "நிறக் கற்றை",
+          "குவிக்கும் கற்றை",
+          "இணைக் கற்றை"
+        ],
+        "explanation": "முதன்மைக் குவியத்திலிருந்து வரும் கதிர்கள் விலகலுக்குப் பின் முதன்மை அச்சுக்கு இணையாகச் செல்லும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 29,
+      "quote": "Magnification of a convex lens is a) Positive b) negative c) either positive or negative d) zero",
+      "answer": "D",
+      "en": {
+        "q": "The magnification produced by a convex lens is",
+        "options": [
+          "zero",
+          "always positive",
+          "always negative",
+          "either positive or negative"
+        ],
+        "explanation": "Real images are inverted (m negative); virtual images are erect (m positive)."
+      },
+      "ta": {
+        "q": "குவிலென்சின் உருப்பெருக்கம்",
+        "options": [
+          "சுழி",
+          "எப்போதும் நேர்க்குறி",
+          "எப்போதும் எதிர்க்குறி",
+          "நேர்க்குறி அல்லது எதிர்க்குறி"
+        ],
+        "explanation": "மெய்ப்பிம்பம் தலைகீழ் (m எதிர்க்குறி); மாயப்பிம்பம் நேரானது (m நேர்க்குறி)."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 29,
+      "quote": "A convex lens forms a real, diminished point sized image at focus. Then the position of the object is at a) focus b) infinity c) at 2f d) between f and 2f",
+      "answer": "D",
+      "en": {
+        "q": "A convex lens forms a real, point-sized, highly diminished image at its focus. The object is at",
+        "options": [
+          "focus",
+          "between f and 2f",
+          "2f",
+          "infinity"
+        ],
+        "explanation": "Parallel rays from a very distant object converge at the principal focus."
+      },
+      "ta": {
+        "q": "ஒரு குவிலென்சு, குவியத்தில் புள்ளி அளவிலான மிகச்சிறிய மெய்ப்பிம்பத்தை உருவாக்குகிறது. பொருள் இருக்கும் இடம்",
+        "options": [
+          "முதன்மைக் குவியம்",
+          "f-க்கும் 2f-க்கும் இடையில்",
+          "2f",
+          "ஈறிலாத் தொலைவு"
+        ],
+        "explanation": "மிகத் தொலைவிலுள்ள பொருளிலிருந்து வரும் இணைக்கதிர்கள் முதன்மைக் குவியத்தில் குவிகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 29,
+      "quote": "Power of a lens is –4D, then its focal length is a) 4m b) –40m c) –0.25 m d) –2.5 m",
+      "answer": "B",
+      "en": {
+        "q": "If the power of a lens is −4 D, its focal length is",
+        "options": [
+          "−40 m",
+          "−0.25 m",
+          "−2.5 m",
+          "4 m"
+        ],
+        "explanation": "f = 1/P = 1/(−4) = −0.25 m (a concave lens)."
+      },
+      "ta": {
+        "q": "ஒரு லென்சின் திறன் −4 D எனில் அதன் குவியத்தொலைவு",
+        "options": [
+          "−40 மீ",
+          "−0.25 மீ",
+          "−2.5 மீ",
+          "4 மீ"
+        ],
+        "explanation": "f = 1/P = 1/(−4) = −0.25 மீ (குழிலென்சு)."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 29,
+      "quote": "In a myopic eye, the image of the object is formed a) behind the retina b) on the retina c) in front of the retina d) on the blind spot",
+      "answer": "B",
+      "en": {
+        "q": "In a myopic eye the image of a distant object is formed",
+        "options": [
+          "behind the retina",
+          "in front of the retina",
+          "on the blind spot",
+          "on the retina"
+        ],
+        "explanation": "Myopia arises from increased converging power of the eye lens (or elongated eyeball); a concave lens corrects it."
+      },
+      "ta": {
+        "q": "கிட்டப்பார்வைக் குறைபாடுள்ள கண்ணில் தொலைவிலுள்ள பொருளின் பிம்பம் தோன்றும் இடம்",
+        "options": [
+          "விழித்திரைக்குப் பின்புறம்",
+          "விழித்திரைக்கு முன்பாக",
+          "குருட்டுத்தானம்",
+          "விழித்திரையின் மீது"
+        ],
+        "explanation": "விழி லென்சின் குவிக்கும் திறன் அதிகரிப்பதால் கிட்டப்பார்வை ஏற்படுகிறது; குழிலென்சு இதைச் சரிசெய்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 29,
+      "quote": "The eye defect 'presbyopia' can be corrected by a) convex lens b) concave lens c) convex mirror d) Bi focal lenses",
+      "answer": "B",
+      "en": {
+        "q": "The eye defect presbyopia can be corrected by using",
+        "options": [
+          "a concave lens only",
+          "bifocal lenses",
+          "a convex mirror",
+          "a plane mirror"
+        ],
+        "explanation": "Presbyopia is a combination of myopia and hypermetropia, so bifocal lenses (concave upper part, convex lower part) are used."
+      },
+      "ta": {
+        "q": "முதியோர் பார்வை (Presbyopia) குறைபாட்டைச் சரிசெய்யப் பயன்படுவது",
+        "options": [
+          "குழிலென்சு மட்டும்",
+          "இருகுவிய லென்சு",
+          "குவி ஆடி",
+          "சமதள ஆடி"
+        ],
+        "explanation": "இது கிட்டப்பார்வை, தூரப்பார்வை இரண்டும் சேர்ந்த குறைபாடு; எனவே இருகுவிய லென்சுகள் பயன்படுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 29,
+      "quote": "Which of the following lens would you prefer to use while reading small letters found in a dictionary? a) A convex lens of focal length 5 cm b) A concave lens of focal length 5 cm c) A convex lens of focal length 10 cm d) A concave lens of focal length 10 cm",
+      "answer": "A",
+      "en": {
+        "q": "Which lens is best suited for reading the small letters in a dictionary?",
+        "options": [
+          "A convex lens of focal length 5 cm",
+          "A convex lens of focal length 10 cm",
+          "A concave lens of focal length 5 cm",
+          "A concave lens of focal length 10 cm"
+        ],
+        "explanation": "A convex lens of short focal length acts as a simple microscope and gives the largest magnification."
+      },
+      "ta": {
+        "q": "அகராதியிலுள்ள சிறிய எழுத்துகளைப் படிக்க மிகவும் ஏற்ற லென்சு",
+        "options": [
+          "5 செ.மீ குவியத்தொலைவுள்ள குவிலென்சு",
+          "10 செ.மீ குவியத்தொலைவுள்ள குவிலென்சு",
+          "5 செ.மீ குவியத்தொலைவுள்ள குழிலென்சு",
+          "10 செ.மீ குவியத்தொலைவுள்ள குழிலென்சு"
+        ],
+        "explanation": "குறைந்த குவியத்தொலைவுள்ள குவிலென்சு எளிய நுண்ணோக்கியாகச் செயல்பட்டு அதிக உருப்பெருக்கம் தரும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 29,
+      "quote": "If VB, VG, VR be the velocity of blue, green and red light respectively in a glass prism, then which of the following statement gives the correct relation? a) VB = VG = VR b) VB > VG > VR c) VB < VG < VR d) VB < VG > VR",
+      "answer": "A",
+      "en": {
+        "q": "If VB, VG and VR are the velocities of blue, green and red light in a glass prism, then",
+        "options": [
+          "VB < VG < VR",
+          "VB = VG = VR",
+          "VB < VG > VR",
+          "VB > VG > VR"
+        ],
+        "explanation": "Red light is bent least (lowest refractive index) and so travels fastest in glass; violet/blue travels slowest."
+      },
+      "ta": {
+        "q": "ஒரு கண்ணாடி முப்பட்டகத்தில் நீலம், பச்சை, சிவப்பு ஒளிகளின் திசைவேகங்கள் VB, VG, VR எனில் சரியான தொடர்பு",
+        "options": [
+          "VB < VG < VR",
+          "VB = VG = VR",
+          "VB < VG > VR",
+          "VB > VG > VR"
+        ],
+        "explanation": "சிவப்பு ஒளி மிகக் குறைவாக விலகுவதால் (குறைந்த ஒளிவிலகல் எண்) கண்ணாடியில் அதன் வேகம் அதிகம்; நீலத்தின் வேகம் குறைவு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 29,
+      "quote": "The path of the light is called as ___",
+      "answer": "C",
+      "en": {
+        "q": "The path of light is called a",
+        "options": [
+          "beam",
+          "wavefront",
+          "ray",
+          "spectrum"
+        ],
+        "explanation": "The path of light is called a ray; a group of rays is a beam."
+      },
+      "ta": {
+        "q": "ஒளி செல்லும் பாதை ____ எனப்படும்.",
+        "options": [
+          "ஒளிக்கற்றை",
+          "அலைமுகப்பு",
+          "ஒளிக்கதிர்",
+          "நிறமாலை"
+        ],
+        "explanation": "ஒளி செல்லும் பாதை ஒளிக்கதிர்; கதிர்களின் தொகுப்பு ஒளிக்கற்றை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 29,
+      "quote": "The refractive index of a transparent medium is always greater than ___",
+      "answer": "A",
+      "en": {
+        "q": "The refractive index of a transparent medium is always greater than",
+        "options": [
+          "one",
+          "the speed of light",
+          "two",
+          "ten"
+        ],
+        "explanation": "µ = c/v and v < c in any medium, so µ > 1."
+      },
+      "ta": {
+        "q": "ஒளிபுகும் ஊடகத்தின் ஒளிவிலகல் எண் எப்போதும் ____ ஐ விட அதிகம்.",
+        "options": [
+          "ஒன்று",
+          "ஒளியின் வேகம்",
+          "இரண்டு",
+          "பத்து"
+        ],
+        "explanation": "µ = c/v; ஊடகத்தில் v < c என்பதால் µ > 1."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 29,
+      "quote": "If the energy of incident beam and the scattered beam are same, then the scattering of light is called as ___ scattering.",
+      "answer": "C",
+      "en": {
+        "q": "If the energy of the incident beam and of the scattered beam are the same, the scattering is called",
+        "options": [
+          "absorption",
+          "inelastic scattering",
+          "elastic scattering",
+          "Raman scattering"
+        ],
+        "explanation": "If the energies differ it is inelastic scattering."
+      },
+      "ta": {
+        "q": "படுகின்ற ஒளிக்கற்றையின் ஆற்றலும் சிதறலடைந்த கற்றையின் ஆற்றலும் சமமாக இருந்தால் அது எவ்வகைச் சிதறல்?",
+        "options": [
+          "உறிஞ்சுதல்",
+          "மீட்சியற்ற சிதறல்",
+          "மீட்சிச் சிதறல்",
+          "இராமன் சிதறல்"
+        ],
+        "explanation": "ஆற்றல்கள் சமமில்லையெனில் அது மீட்சியற்ற சிதறல்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 29,
+      "quote": "According to Rayleigh's scattering law, the amount of scattering of light is inversely proportional to the fourth power of its ___",
+      "answer": "C",
+      "en": {
+        "q": "According to Rayleigh's scattering law, the amount of scattering is inversely proportional to the fourth power of the",
+        "options": [
+          "frequency of the light",
+          "speed of the light",
+          "wavelength of the light",
+          "intensity of the light"
+        ],
+        "explanation": "S ∝ 1/λ⁴; blue (short λ) is scattered more than red."
+      },
+      "ta": {
+        "q": "ராலே சிதறல் விதிப்படி, சிதறலின் அளவு படுகின்ற ஒளியின் எதன் நான்மடிக்கு எதிர்த்தகவில் இருக்கும்?",
+        "options": [
+          "அதிர்வெண்",
+          "வேகம்",
+          "அலைநீளம்",
+          "செறிவு"
+        ],
+        "explanation": "S ∝ 1/λ⁴; எனவே குறைந்த அலைநீளமுள்ள நீல ஒளி சிவப்பை விட அதிகம் சிதறுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 29,
+      "quote": "Amount of light entering into the eye is controlled by ___",
+      "answer": "B",
+      "en": {
+        "q": "The amount of light entering the eye is controlled by the",
+        "options": [
+          "ciliary muscles",
+          "iris",
+          "cornea",
+          "retina"
+        ],
+        "explanation": "The iris controls the amount of light entering the pupil, like the aperture of a camera."
+      },
+      "ta": {
+        "q": "கண்ணிற்குள் நுழையும் ஒளியின் அளவைக் கட்டுப்படுத்துவது",
+        "options": [
+          "சிலியரித் தசைகள்",
+          "கருவிழி (ஐரிஸ்)",
+          "கார்னியா",
+          "விழித்திரை"
+        ],
+        "explanation": "கருவிழி (ஐரிஸ்) ஒளிப்படக் கருவியின் துளை போலக் கண் பாவைக்குள் செல்லும் ஒளியின் அளவைக் கட்டுப்படுத்துகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 29,
+      "quote": "Velocity of light is greater in denser medium than in rarer medium",
+      "answer": "A",
+      "en": {
+        "q": "Which statement about the velocity of light is correct?",
+        "options": [
+          "It is greater in a rarer medium than in a denser medium",
+          "It is greater in a denser medium than in a rarer medium",
+          "It is zero in a denser medium",
+          "It is the same in all media"
+        ],
+        "explanation": "Light travels faster in a rarer medium and slower in a denser medium."
+      },
+      "ta": {
+        "q": "ஒளியின் திசைவேகம் பற்றிய சரியான கூற்று எது?",
+        "options": [
+          "அடர்வு குறை ஊடகத்தில் அடர்வு மிகு ஊடகத்தை விட அதிகம்",
+          "அடர்வு மிகு ஊடகத்தில் அடர்வு குறை ஊடகத்தை விட அதிகம்",
+          "அடர்வு மிகு ஊடகத்தில் சுழி",
+          "எல்லா ஊடகங்களிலும் சமம்"
+        ],
+        "explanation": "ஒளி அடர்வு குறை ஊடகத்தில் வேகமாகவும் அடர்வு மிகு ஊடகத்தில் மெதுவாகவும் செல்லும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 29,
+      "quote": "The power of lens depends on the focal length of the lens",
+      "answer": "C",
+      "en": {
+        "q": "The power of a lens is related to its focal length by",
+        "options": [
+          "P = 1/f²",
+          "P = f²",
+          "P = 1/f",
+          "P = f"
+        ],
+        "explanation": "The statement is true: power is the reciprocal of focal length (in metres); unit dioptre (D)."
+      },
+      "ta": {
+        "q": "லென்சின் திறனுக்கும் குவியத்தொலைவுக்கும் உள்ள தொடர்பு",
+        "options": [
+          "P = 1/f²",
+          "P = f²",
+          "P = 1/f",
+          "P = f"
+        ],
+        "explanation": "கூற்று சரி; திறன் என்பது குவியத்தொலைவின் (மீட்டரில்) தலைகீழி; அலகு டையாப்டர் (D)."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 29,
+      "quote": "Increase in the converging power of eye lens cause 'hypermetropia'",
+      "answer": "D",
+      "en": {
+        "q": "Hypermetropia is caused by",
+        "options": [
+          "increase in the converging power of the eye lens",
+          "damage to the optic nerve",
+          "increase in the diameter of the pupil",
+          "decrease in the converging power of the eye lens"
+        ],
+        "explanation": "Increased converging power causes myopia; hypermetropia arises when converging power decreases."
+      },
+      "ta": {
+        "q": "தூரப்பார்வைக் குறைபாடு ஏற்படக் காரணம்",
+        "options": [
+          "விழி லென்சின் குவிக்கும் திறன் அதிகரிப்பது",
+          "பார்வை நரம்பு சேதமடைவது",
+          "கண் பாவையின் விட்டம் அதிகரிப்பது",
+          "விழி லென்சின் குவிக்கும் திறன் குறைவது"
+        ],
+        "explanation": "குவிக்கும் திறன் அதிகரித்தால் கிட்டப்பார்வை; குறைந்தால் தூரப்பார்வை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 29,
+      "quote": "The convex lens always gives small virtual image.",
+      "answer": "A",
+      "en": {
+        "q": "Which statement about the images formed by a convex lens is correct?",
+        "options": [
+          "It can form real as well as virtual images depending on the object position",
+          "It always forms an enlarged image",
+          "It always forms a small virtual image",
+          "It always forms a real inverted image"
+        ],
+        "explanation": "When the object is between f and the optic centre the image is virtual, erect and enlarged; otherwise it is real."
+      },
+      "ta": {
+        "q": "குவிலென்சு உருவாக்கும் பிம்பங்கள் பற்றிய சரியான கூற்று எது?",
+        "options": [
+          "பொருளின் இடத்தைப் பொறுத்து மெய்ப்பிம்பமும் மாயப்பிம்பமும் உருவாகும்",
+          "எப்போதும் பெரிதாக்கப்பட்ட பிம்பம் உருவாகும்",
+          "எப்போதும் சிறிய மாயப்பிம்பம் உருவாகும்",
+          "எப்போதும் தலைகீழ் மெய்ப்பிம்பம் உருவாகும்"
+        ],
+        "explanation": "பொருள் f-க்கும் ஒளியியல் மையத்திற்கும் இடையே இருந்தால் பெரிய நேரான மாயப்பிம்பம்; பிற இடங்களில் மெய்ப்பிம்பம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 30,
+      "quote": "Match the following: 1 Retina 2 Pupil 3 Ciliary muscles 4 Myopia 5 Hypermetropia — a Path way of light b Far point comes closer c near point moves away d Screen of the eye f Power of accommodation",
+      "answer": "B",
+      "en": {
+        "q": "Match the part/defect of the eye in List I with List II:\n(a) Retina\n(b) Pupil\n(c) Ciliary muscles\n(d) Myopia\n— \n(1) Pathway of light\n(2) Power of accommodation\n(3) Far point comes closer\n(4) Screen of the eye",
+        "options": [
+          "a-1, b-4, c-2, d-3",
+          "a-4, b-1, c-2, d-3",
+          "a-1, b-3, c-4, d-2",
+          "a-1, b-2, c-4, d-3"
+        ],
+        "explanation": "Retina is the screen of the eye; the pupil is the pathway of light; ciliary muscles give the power of accommodation; in myopia the far point comes closer."
+      },
+      "ta": {
+        "q": "கண்ணின் பகுதி/குறைபாட்டைப் பட்டியல் II உடன் பொருத்துக:\n(a) விழித்திரை (ரெட்டினா)\n(b) கண் பாவை\n(c) சிலியரித் தசைகள்\n(d) கிட்டப்பார்வை\n— \n(1) ஒளிக்கதிர் செல்லும் பாதை\n(2) விழி ஏற்பமைவுத்திறன்\n(3) சேய்மைப் புள்ளி விழியை நோக்கி நகர்தல்\n(4) திரை (ஒளி விழும் இடம்)",
+        "options": [
+          "a-1, b-4, c-2, d-3",
+          "a-4, b-1, c-2, d-3",
+          "a-1, b-3, c-4, d-2",
+          "a-1, b-2, c-4, d-3"
+        ],
+        "explanation": "விழித்திரை கண்ணின் திரை; கண் பாவை ஒளியின் பாதை; சிலியரித் தசைகள் ஏற்பமைவுத்திறனுக்கு உதவுகின்றன; கிட்டப்பார்வையில் சேய்மைப் புள்ளி அருகில் வருகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 30,
+      "quote": "If the refractive index of the medium is high (denser medium) the velocity of the light in that medium will be small. Reason: Refractive index of the medium is inversely proportional to the velocity of the light",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: If the refractive index of a medium is high (denser medium), the velocity of light in that medium is small.\nReason [R]: The refractive index of a medium is inversely proportional to the velocity of light in it.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "µ = c/v, so µ ∝ 1/v; a high µ therefore means a small v."
+      },
+      "ta": {
+        "q": "கூற்று [A]: ஊடகத்தின் ஒளிவிலகல் எண் அதிகமாக இருந்தால் (அடர்வு மிகு ஊடகம்) அதில் ஒளியின் திசைவேகம் குறைவாக இருக்கும்.\nகாரணம் [R]: ஊடகத்தின் ஒளிவிலகல் எண், ஒளியின் திசைவேகத்திற்கு எதிர்த்தகவில் இருக்கும்.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "µ = c/v; எனவே µ ∝ 1/v; µ அதிகம் எனில் v குறைவு. [R] சரியான விளக்கம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 30,
+      "quote": "Myopia is due to the increase in the converging power of eye lens. Reason: Myopia can be corrected with the help of concave lens.",
+      "answer": "B",
+      "en": {
+        "q": "Assertion [A]: Myopia is due to an increase in the converging power of the eye lens.\nReason [R]: Myopia can be corrected with the help of a concave lens.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Both are true, but the concave lens is a remedy, not the cause of myopia."
+      },
+      "ta": {
+        "q": "கூற்று [A]: விழி லென்சின் குவிக்கும் திறன் அதிகரிப்பதால் கிட்டப்பார்வை ஏற்படுகிறது.\nகாரணம் [R]: குழிலென்சைப் பயன்படுத்திக் கிட்டப்பார்வையைச் சரிசெய்யலாம்.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "இரண்டும் சரி; ஆனால் குழிலென்சு என்பது சிகிச்சை முறையே; குறைபாட்டிற்கான காரணம் அன்று."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 30,
+      "quote": "1. What is refractive index?",
+      "answer": "B",
+      "en": {
+        "q": "The ratio of the speed of light in vacuum to the speed of light in a medium is the ____ of that medium.",
+        "options": [
+          "dispersion",
+          "refractive index",
+          "power",
+          "magnification"
+        ],
+        "explanation": "µ = c/v; it is a ratio and has no unit."
+      },
+      "ta": {
+        "q": "வெற்றிடத்தில் ஒளியின் வேகத்திற்கும் ஊடகத்தில் ஒளியின் வேகத்திற்கும் உள்ள தகவு அந்த ஊடகத்தின் ____ எனப்படும்.",
+        "options": [
+          "நிறப்பிரிகை",
+          "ஒளிவிலகல் எண்",
+          "திறன்",
+          "உருப்பெருக்கம்"
+        ],
+        "explanation": "µ = c/v; இது ஒரு தகவு; அலகு இல்லை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 30,
+      "quote": "2. State Snell's law.",
+      "answer": "D",
+      "en": {
+        "q": "Snell's law of refraction states that, for a given pair of media,",
+        "options": [
+          "sin i × sin r is constant",
+          "i = r always",
+          "sin i + sin r = 1",
+          "µ₁ sin i = µ₂ sin r, i.e. sin i / sin r is constant"
+        ],
+        "explanation": "µ₁ sin i = µ₂ sin r; the ratio of the sine of the angle of incidence to that of refraction is constant."
+      },
+      "ta": {
+        "q": "இரு குறிப்பிட்ட ஊடகங்களுக்கு ஸ்நெல் விதி கூறுவது",
+        "options": [
+          "sin i × sin r மாறிலி",
+          "i = r எப்போதும்",
+          "sin i + sin r = 1",
+          "µ₁ sin i = µ₂ sin r; அதாவது sin i / sin r மாறிலி"
+        ],
+        "explanation": "µ₁ sin i = µ₂ sin r; படுகோணத்தின் சைன் மதிப்பிற்கும் விலகுகோணத்தின் சைன் மதிப்பிற்கும் உள்ள தகவு மாறிலி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 30,
+      "quote": "4. Define dispersion of light",
+      "answer": "D",
+      "en": {
+        "q": "The band of seven colours (VIBGYOR) obtained when white light passes through a glass prism is produced by",
+        "options": [
+          "scattering",
+          "diffraction",
+          "reflection",
+          "dispersion"
+        ],
+        "explanation": "The band of colours VIBGYOR is the spectrum; different colours bend through different angles."
+      },
+      "ta": {
+        "q": "வெண்ணொளி முப்பட்டகத்தின் வழியே செல்லும்போது கிடைக்கும் ஏழு நிறங்களின் (VIBGYOR) வரிசை உருவாகக் காரணம்",
+        "options": [
+          "ஒளிச்சிதறல்",
+          "விளிம்பு விலகல்",
+          "எதிரொளிப்பு",
+          "நிறப்பிரிகை"
+        ],
+        "explanation": "VIBGYOR நிறங்களின் தொகுப்பு நிறமாலை; வெவ்வேறு நிறங்கள் வெவ்வேறு கோணங்களில் விலகுவதால் இது நிகழ்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 30,
+      "quote": "6. Differentiate convex lens and concave lens.",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following is a property of a concave lens but NOT of a convex lens?",
+        "options": [
+          "It converges a parallel beam of light to a point",
+          "It is thinner at the middle than at the edges and diverges a parallel beam",
+          "It is also called a converging lens",
+          "It is thicker at the middle than at the edges"
+        ],
+        "explanation": "A concave lens is thinner in the middle, is a diverging lens and always forms a virtual, erect, diminished image."
+      },
+      "ta": {
+        "q": "குவிலென்சுக்கு இல்லாமல் குழிலென்சுக்கு மட்டுமே உரிய பண்பு எது?",
+        "options": [
+          "இணைக்கற்றையை ஒரு புள்ளியில் குவிக்கும்",
+          "விளிம்பை விட மையத்தில் மெலிந்தது; இணைக்கற்றையை விரிக்கும்",
+          "குவிக்கும் லென்சு எனவும் அழைக்கப்படும்",
+          "விளிம்பை விட மையத்தில் தடிமனானது"
+        ],
+        "explanation": "குழிலென்சு மையத்தில் மெலிந்தது; விரிக்கும் லென்சு; எப்போதும் நேரான, சிறிய மாயப்பிம்பம் தரும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 30,
+      "quote": "7. What is power of accommodation of eye?",
+      "answer": "B",
+      "en": {
+        "q": "The ciliary muscles alter the focal length of the eye lens so that near and far objects are focused on the retina. This ability of the eye is known as",
+        "options": [
+          "persistence of vision",
+          "power of accommodation",
+          "dispersion",
+          "scattering"
+        ],
+        "explanation": "It is achieved by the ciliary muscles changing the focal length of the eye lens."
+      },
+      "ta": {
+        "q": "சிலியரித் தசைகள் விழி லென்சின் குவியத்தொலைவை மாற்றி, அருகிலும் தொலைவிலும் உள்ள பொருட்களை விழித்திரையில் குவிக்கச் செய்யும் கண்ணின் இத்திறன் எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "பார்வை நிலைப்பு",
+          "விழி ஏற்பமைவுத் திறன்",
+          "நிறப்பிரிகை",
+          "சிதறல்"
+        ],
+        "explanation": "சிலியரித் தசைகள் விழி லென்சின் குவியத்தொலைவை மாற்றுவதன் மூலம் இது நிகழ்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 30,
+      "quote": "8. What are the causes of 'Myopia'?",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following is a cause of myopia?",
+        "options": [
+          "Shortening of the eyeball",
+          "Decrease in the converging power of the eye lens",
+          "Elongation of the eyeball",
+          "Increase in the focal length of the eye lens"
+        ],
+        "explanation": "Myopia is caused by (i) the high converging power of the eye lens, (ii) elongation of the eyeball, giving a short focal length."
+      },
+      "ta": {
+        "q": "கிட்டப்பார்வைக் குறைபாட்டிற்கான காரணங்களுள் ஒன்று",
+        "options": [
+          "கண் கோளம் சுருங்கி விடுதல்",
+          "விழி லென்சின் குவிக்கும் திறன் குறைதல்",
+          "கண் கோளம் நீண்டு விடுதல்",
+          "விழி லென்சின் குவியத்தொலைவு அதிகரித்தல்"
+        ],
+        "explanation": "விழி லென்சின் குவிக்கும் திறன் அதிகரித்தல், கண் கோளம் நீண்டுவிடுதல் ஆகியவை கிட்டப்பார்வைக்குக் காரணம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 30,
+      "quote": "9. Why does the sky appear in blue colour?",
+      "answer": "C",
+      "en": {
+        "q": "The blue colour of the sky is due to",
+        "options": [
+          "reflection of the sea's colour by the sky",
+          "absorption of blue light by clouds",
+          "greater scattering of the shorter-wavelength blue light by air molecules",
+          "greater scattering of red light than blue light"
+        ],
+        "explanation": "By Rayleigh scattering, shorter wavelengths are scattered to a greater extent than red."
+      },
+      "ta": {
+        "q": "வானத்தின் நீல நிறத்திற்குக் காரணம்",
+        "options": [
+          "கடலின் நிறத்தை வானம் எதிரொளித்தல்",
+          "மேகங்களால் நீல ஒளி உறிஞ்சப்படுதல்",
+          "குறைந்த அலைநீளமுடைய நீல ஒளி காற்று மூலக்கூறுகளால் மிகுதியாகச் சிதறுதல்",
+          "சிவப்பு ஒளி நீலத்தை விட மிகுதியாகச் சிதறுதல்"
+        ],
+        "explanation": "ராலே சிதறல் விதிப்படி குறைந்த அலைநீளமுள்ள நீல ஒளி சிவப்பை விட அதிகம் சிதறுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 30,
+      "quote": "10. Why are traffic signals red in colour?",
+      "answer": "B",
+      "en": {
+        "q": "Traffic signals use red light for 'stop' because red light",
+        "options": [
+          "has the shortest wavelength",
+          "is scattered the least and hence can be seen from a long distance",
+          "is scattered the most",
+          "has the lowest speed in air"
+        ],
+        "explanation": "Red has the longest wavelength among visible colours, so it is scattered least and travels farthest through fog and dust."
+      },
+      "ta": {
+        "q": "போக்குவரத்துச் சைகை விளக்குகள் சிவப்பு நிறத்தில் அமைக்கப்படுவதன் காரணம், சிவப்பு ஒளி",
+        "options": [
+          "மிகக் குறைந்த அலைநீளம் உடையதால்",
+          "மிகக் குறைவாகச் சிதறுவதால் தொலைவிலிருந்தும் தெரியும்",
+          "மிக அதிகமாகச் சிதறுவதால்",
+          "காற்றில் மிகக் குறைந்த வேகம் உடையதால்"
+        ],
+        "explanation": "தெரியும் நிறங்களில் சிவப்புக்கு அலைநீளம் அதிகம்; எனவே சிதறல் குறைவு; மூடுபனியிலும் தொலைவு வரை செல்லும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 30,
+      "quote": "1. An object is placed at a distance 20cm from a convex lens of focal length 10cm. Find the image distance and nature of the image.",
+      "answer": "D",
+      "en": {
+        "q": "An object is placed 20 cm from a convex lens of focal length 10 cm. The image is formed at",
+        "options": [
+          "10 cm on the same side; virtual and erect",
+          "20 cm on the same side; virtual and diminished",
+          "40 cm on the other side; real and enlarged",
+          "20 cm on the other side; real, inverted and of the same size"
+        ],
+        "explanation": "1/v = 1/f + 1/u = 1/10 − 1/20 = 1/20, so v = 20 cm; m = v/u = −1."
+      },
+      "ta": {
+        "q": "10 செ.மீ குவியத்தொலைவுள்ள குவிலென்சிலிருந்து 20 செ.மீ தொலைவில் ஒரு பொருள் வைக்கப்பட்டால் பிம்பம் தோன்றுவது",
+        "options": [
+          "அதே புறம் 10 செ.மீ-இல்; மாயமான, நேரான பிம்பம்",
+          "அதே புறம் 20 செ.மீ-இல்; மாயமான, சிறிய பிம்பம்",
+          "மறுபுறம் 40 செ.மீ-இல்; மெய்யான, பெரிதாக்கப்பட்ட பிம்பம்",
+          "மறுபுறம் 20 செ.மீ-இல்; மெய்யான, தலைகீழான, சம அளவுள்ள பிம்பம்"
+        ],
+        "explanation": "1/v = 1/f + 1/u = 1/10 − 1/20 = 1/20; v = 20 செ.மீ; m = v/u = −1."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 30,
+      "quote": "2. An object of height 3cm is placed at 10cm from a concave lens of focal length 15cm. Find the size of the image.",
+      "answer": "A",
+      "en": {
+        "q": "An object 3 cm high is placed 10 cm from a concave lens of focal length 15 cm. The size of the image is",
+        "options": [
+          "1.8 cm",
+          "3 cm",
+          "4.5 cm",
+          "0.6 cm"
+        ],
+        "explanation": "1/v = 1/f + 1/u = −1/15 − 1/10 = −1/6, v = −6 cm; m = v/u = 0.6; h' = 0.6 × 3 = 1.8 cm."
+      },
+      "ta": {
+        "q": "3 செ.மீ உயரமுள்ள பொருள் 15 செ.மீ குவியத்தொலைவுள்ள குழிலென்சிலிருந்து 10 செ.மீ தொலைவில் வைக்கப்படுகிறது. பிம்பத்தின் உயரம்",
+        "options": [
+          "1.8 செ.மீ",
+          "3 செ.மீ",
+          "4.5 செ.மீ",
+          "0.6 செ.மீ"
+        ],
+        "explanation": "1/v = −1/15 − 1/10 = −1/6; v = −6 செ.மீ; m = 0.6; h' = 1.8 செ.மீ."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 30,
+      "quote": "2. The eyes of the nocturnal birds like owl are having a large cornea and a large pupil. How does it help them?",
+      "answer": "C",
+      "en": {
+        "q": "Nocturnal birds such as owls have a large cornea and a large pupil. This helps them to",
+        "options": [
+          "avoid the entry of light into the eye",
+          "see only in bright light",
+          "admit more light and see well in dim light at night",
+          "see only nearby objects"
+        ],
+        "explanation": "A larger opening admits more light, so images are formed even in the dim light of night."
+      },
+      "ta": {
+        "q": "ஆந்தை போன்ற இரவு நேரப் பறவைகளின் கண்களில் பெரிய கார்னியாவும் பெரிய கண் பாவையும் இருப்பதன் பயன்",
+        "options": [
+          "கண்ணுக்குள் ஒளி நுழைவதைத் தடுக்கிறது",
+          "பிரகாசமான ஒளியில் மட்டும் பார்க்க உதவுகிறது",
+          "அதிக ஒளியை உள்வாங்கி இரவின் மங்கலான ஒளியிலும் தெளிவாகப் பார்க்க உதவுகிறது",
+          "அருகிலுள்ள பொருட்களை மட்டும் பார்க்க உதவுகிறது"
+        ],
+        "explanation": "பெரிய துளை அதிக ஒளியை அனுமதிப்பதால் மங்கலான ஒளியிலும் பிம்பம் உருவாகிறது."
+      }
+    }
+  ]
+}
