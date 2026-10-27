@@ -1,0 +1,645 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 7 Science Term-II (English)",
+  "breadcrumb": "Std 7 Science Term-II (English) — Unit 2: Electricity — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 32,
+      "quote": "I.1 10 units of electric charge move past point x every second. What is the current in the circuit? a) 10 A b) 1 A c) 10 V d) 1 V",
+      "answer": "C",
+      "en": {
+        "q": "If 10 units (coulombs) of electric charge move past a point every second, the current is ______.",
+        "options": [
+          "1 A",
+          "10 V",
+          "10 A",
+          "1 V"
+        ],
+        "explanation": "I = q/t = 10 C / 1 s = 10 A."
+      },
+      "ta": {
+        "q": "ஒரு புள்ளியைக் கடந்து ஒவ்வொரு வினாடியும் 10 அலகு (கூலூம்) மின்னூட்டம் செல்கிறது எனில் மின்னோட்டம் ______.",
+        "options": [
+          "1 A",
+          "10 V",
+          "10 A",
+          "1 V"
+        ],
+        "explanation": "I = q/t = 10 C / 1 s = 10 A."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 32,
+      "quote": "I.3 How many milliampere are there in 0.25 A? a) 2.5 mA b) 25 mA c) 250 mA d) 2500 mA",
+      "answer": "B",
+      "en": {
+        "q": "0.25 A is equal to ______.",
+        "options": [
+          "2.5 mA",
+          "250 mA",
+          "2,500 mA",
+          "25 mA"
+        ],
+        "explanation": "1 A = 1000 mA, so 0.25 A = 250 mA."
+      },
+      "ta": {
+        "q": "0.25 A என்பது ______ க்குச் சமம்.",
+        "options": [
+          "2.5 mA",
+          "250 mA",
+          "2,500 mA",
+          "25 mA"
+        ],
+        "explanation": "1 A = 1000 mA; எனவே 0.25 A = 250 mA."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
+      "quote": "II.1 The direction of conventional current is ______ to electron flow.",
+      "answer": "C",
+      "en": {
+        "q": "The direction of conventional current is ______ to the electron flow.",
+        "options": [
+          "the same",
+          "perpendicular",
+          "opposite",
+          "unrelated"
+        ],
+        "explanation": "Conventional current flows from the positive to the negative terminal; electrons flow from negative to positive."
+      },
+      "ta": {
+        "q": "வழக்கமான மின்னோட்டத்தின் திசை எலக்ட்ரான் பாய்வின் திசைக்கு ______.",
+        "options": [
+          "ஒத்ததாக உள்ளது",
+          "செங்குத்தாக உள்ளது",
+          "எதிராக உள்ளது",
+          "தொடர்பற்றது"
+        ],
+        "explanation": "வழக்கமான மின்னோட்டம் நேர் முனையிலிருந்து எதிர் முனைக்கு; எலக்ட்ரான்கள் எதிர் முனையிலிருந்து நேர் முனைக்குப் பாயும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "II.2 One unit of coulomb is charge of approximately ______ protons or electrons.",
+      "answer": "D",
+      "en": {
+        "q": "One coulomb is the charge of approximately ______ protons or electrons.",
+        "options": [
+          "6.242 × 10⁸",
+          "1.6 × 10⁻¹⁹",
+          "6.022 × 10²³",
+          "6.242 × 10¹⁸"
+        ],
+        "explanation": "The coulomb is the unit of electric charge."
+      },
+      "ta": {
+        "q": "ஒரு கூலூம் என்பது ஏறத்தாழ ______ புரோட்டான்கள் அல்லது எலக்ட்ரான்களின் மின்னூட்டம்.",
+        "options": [
+          "6.242 × 10⁸",
+          "1.6 × 10⁻¹⁹",
+          "6.022 × 10²³",
+          "6.242 × 10¹⁸"
+        ],
+        "explanation": "மின்னூட்டத்தின் அலகு கூலூம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "II.3 ______ is used to measure the electric current.",
+      "answer": "B",
+      "en": {
+        "q": "The electric current is measured using an ______.",
+        "options": [
+          "voltmeter",
+          "ammeter",
+          "ohmmeter",
+          "galvanometer only"
+        ],
+        "explanation": "An ammeter must be connected in series in a circuit."
+      },
+      "ta": {
+        "q": "மின்னோட்டத்தை அளக்கப் பயன்படும் கருவி ______.",
+        "options": [
+          "வோல்ட்மீட்டர்",
+          "அம்மீட்டர்",
+          "ஓம்மீட்டர்",
+          "கால்வனாமீட்டர் மட்டும்"
+        ],
+        "explanation": "அம்மீட்டரைச் சுற்றில் தொடராக இணைக்க வேண்டும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "II.4 In conducting materials electrons are ______ bounded with atoms.",
+      "answer": "D",
+      "en": {
+        "q": "In conducting materials, the outermost electrons are ______ bound to the atoms.",
+        "options": [
+          "never",
+          "tightly",
+          "permanently",
+          "loosely"
+        ],
+        "explanation": "Free electrons can wander randomly between the atoms of a conductor."
+      },
+      "ta": {
+        "q": "கடத்தும் பொருள்களில் வெளிக்கூட்டு எலக்ட்ரான்கள் அணுக்களுடன் ______ பிணைக்கப்பட்டுள்ளன.",
+        "options": [
+          "ஒருபோதும் இல்லை",
+          "இறுக்கமாக",
+          "நிரந்தரமாக",
+          "தளர்வாக"
+        ],
+        "explanation": "கடத்தியில் தனி எலக்ட்ரான்கள் அணுக்களிடையே சுதந்திரமாக நகரும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "II.5 SI unit of Electrical conductivity of a conductor is ______.",
+      "answer": "B",
+      "en": {
+        "q": "The SI unit of electrical conductivity is ______.",
+        "options": [
+          "ohm-metre (Ω m)",
+          "siemens per metre (S/m)",
+          "volt per metre (V/m)",
+          "ampere per metre (A/m)"
+        ],
+        "explanation": "The SI unit of electrical resistivity is the ohm-metre."
+      },
+      "ta": {
+        "q": "மின் கடத்துத்திறனின் SI அலகு ______.",
+        "options": [
+          "ஓம்-மீட்டர் (Ω m)",
+          "சீமென்ஸ்/மீட்டர் (S/m)",
+          "வோல்ட்/மீட்டர் (V/m)",
+          "ஆம்பியர்/மீட்டர் (A/m)"
+        ],
+        "explanation": "மின் தடைத்திறனின் (resistivity) SI அலகு ஓம்-மீட்டர்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "III.1 Electron flow is in the same direction to conventional current flow.",
+      "answer": "B",
+      "en": {
+        "q": "Which statement about the direction of electron flow is correct?",
+        "options": [
+          "Electron flow is in the same direction as conventional current.",
+          "Electron flow is opposite in direction to conventional current.",
+          "Electron flow is perpendicular to conventional current.",
+          "Conventional current flows from the negative to the positive terminal."
+        ],
+        "explanation": "The book statement is false."
+      },
+      "ta": {
+        "q": "எலக்ட்ரான் பாய்வின் திசை பற்றிய சரியான கூற்று எது?",
+        "options": [
+          "எலக்ட்ரான் பாய்வு வழக்கமான மின்னோட்டத்தின் திசையிலேயே உள்ளது.",
+          "எலக்ட்ரான் பாய்வு வழக்கமான மின்னோட்டத்திற்கு எதிர்த் திசையில் உள்ளது.",
+          "எலக்ட்ரான் பாய்வு வழக்கமான மின்னோட்டத்திற்குச் செங்குத்தாக உள்ளது.",
+          "வழக்கமான மின்னோட்டம் எதிர் முனையிலிருந்து நேர் முனைக்குப் பாயும்."
+        ],
+        "explanation": "நூலின் கூற்று தவறு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "III.4 The representation of the electric current is A.",
+      "answer": "B",
+      "en": {
+        "q": "The conventional symbol for electric current is ______, while its SI unit is the ampere (A).",
+        "options": [
+          "A",
+          "I",
+          "V",
+          "q"
+        ],
+        "explanation": "The book statement is false: A is the unit (ampere), not the symbol of current."
+      },
+      "ta": {
+        "q": "மின்னோட்டத்தின் குறியீடு ______; அதன் SI அலகு ஆம்பியர் (A).",
+        "options": [
+          "A",
+          "I",
+          "V",
+          "q"
+        ],
+        "explanation": "நூலின் கூற்று தவறு; A என்பது அலகு (ஆம்பியர்), மின்னோட்டத்தின் குறியீடு அன்று."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "III.5 The electrical conductivity of the semiconductor is in between a conductor and an insulator.",
+      "answer": "A",
+      "en": {
+        "q": "The electrical conductivity of a semiconductor lies ______.",
+        "options": [
+          "between that of a conductor and that of an insulator",
+          "above that of a good conductor like copper",
+          "below that of a good insulator like rubber",
+          "equal to that of a good conductor like copper"
+        ],
+        "explanation": "Silicon and germanium are semiconductors used in chips."
+      },
+      "ta": {
+        "q": "குறைகடத்தியின் கடத்துத்திறன் ______ அமைகிறது.",
+        "options": [
+          "கடத்திக்கும் காப்பானுக்கும் இடையில் அமையும்",
+          "தாமிரம் போன்ற நல்ல கடத்தியை விட அதிகமாக",
+          "ரப்பர் போன்ற நல்ல காப்பானை விடக் குறைவாக",
+          "தாமிரம் போன்ற நல்ல கடத்திக்குச் சமமாக"
+        ],
+        "explanation": "சிலிக்கான், ஜெர்மானியம் ஆகியவை சிப்புகளில் பயன்படும் குறைகடத்திகள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "IV Match: Cell; Switch; Circuit; Miniature circuit breaker; Fuse — used to open or close a circuit; safety device; complete path; reset by hand; converts chemical energy",
+      "answer": "C",
+      "en": {
+        "q": "Match List I with List II:\na) Cell\nb) Switch\nc) Miniature circuit breaker\nd) Fuse\n1. Safety device used in an electric circuit\n2. Converts chemical energy into electrical energy\n3. Opens or closes a circuit\n4. Reset by hand; the circuit becomes complete again",
+        "options": [
+          "a-4, b-1, c-3, d-2",
+          "a-1, b-3, c-2, d-4",
+          "a-2, b-3, c-4, d-1",
+          "a-3, b-4, c-2, d-1"
+        ],
+        "explanation": "Cell – Converts chemical energy into electrical energy; Switch – Opens or closes a circuit; Miniature circuit breaker – Reset by hand; the circuit becomes complete again; Fuse – Safety device used in an electric circuit."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐப் பட்டியல் II-உடன் பொருத்துக:\na) மின்கலன்\nb) சுவிட்ச்\nc) குறு சுற்றுத் துண்டிப்பான் (MCB)\nd) மின் உருகி\n1. மின்சுற்றில் பயன்படும் பாதுகாப்புச் சாதனம்\n2. வேதி ஆற்றலை மின் ஆற்றலாக மாற்றுவது\n3. மின்சுற்றைத் திறக்க அல்லது மூடப் பயன்படுவது\n4. கையால் மீட்டமைக்கப்பட்டதும் மின்சுற்று மீண்டும் முழுமை பெறும்",
+        "options": [
+          "a-4, b-1, c-3, d-2",
+          "a-1, b-3, c-2, d-4",
+          "a-2, b-3, c-4, d-1",
+          "a-3, b-4, c-2, d-1"
+        ],
+        "explanation": "மின்கலன் – வேதி ஆற்றலை மின் ஆற்றலாக மாற்றுவது; சுவிட்ச் – மின்சுற்றைத் திறக்க அல்லது மூடப் பயன்படுவது; குறு சுற்றுத் துண்டிப்பான் (MCB) – கையால் மீட்டமைக்கப்பட்டதும் மின்சுற்று மீண்டும் முழுமை பெறும்; மின் உருகி – மின்சுற்றில் பயன்படும் பாதுகாப்புச் சாதனம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "V.1 Water : pipe :: Electric current : ______",
+      "answer": "D",
+      "en": {
+        "q": "Water : pipe :: electric current : ______",
+        "options": [
+          "battery",
+          "bulb",
+          "switch",
+          "wire"
+        ],
+        "explanation": "In the water analogy, the pipe is like the wire and the pump is like the battery."
+      },
+      "ta": {
+        "q": "நீர் : குழாய் :: மின்னோட்டம் : ______",
+        "options": [
+          "மின்கலன்",
+          "மின்விளக்கு",
+          "சுவிட்ச்",
+          "கம்பி"
+        ],
+        "explanation": "நீர் ஒப்புமையில் குழாய் கம்பியைப் போலவும் பம்பு மின்கலத்தைப் போலவும் உள்ளது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "V.2 Copper : conductor :: Wood : ______",
+      "answer": "B",
+      "en": {
+        "q": "Copper : conductor :: wood : ______",
+        "options": [
+          "semiconductor",
+          "insulator",
+          "electrolyte",
+          "battery"
+        ],
+        "explanation": "Wood, glass, plastic and rubber are electric insulators."
+      },
+      "ta": {
+        "q": "தாமிரம் : மின்கடத்தி :: மரம் : ______",
+        "options": [
+          "குறைகடத்தி",
+          "காப்பான்",
+          "மின்பகுளி",
+          "மின்கலன்"
+        ],
+        "explanation": "மரம், கண்ணாடி, நெகிழி, ரப்பர் ஆகியவை காப்பான்கள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "V.3 Length : metre scale :: Current : ______",
+      "answer": "B",
+      "en": {
+        "q": "Length : metre scale :: current : ______",
+        "options": [
+          "voltmeter",
+          "ammeter",
+          "thermometer",
+          "galvanometer only"
+        ],
+        "explanation": "An ammeter measures the flow of electric current in amperes."
+      },
+      "ta": {
+        "q": "நீளம் : மீட்டர் அளவுகோல் :: மின்னோட்டம் : ______",
+        "options": [
+          "வோல்ட்மீட்டர்",
+          "அம்மீட்டர்",
+          "வெப்பநிலைமானி",
+          "கால்வனாமீட்டர் மட்டும்"
+        ],
+        "explanation": "அம்மீட்டர் மின்னோட்டத்தை ஆம்பியரில் அளக்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "V.4 milli ampere : micro ampere :: 10-3 A : ______",
+      "answer": "A",
+      "en": {
+        "q": "milliampere : microampere :: 10⁻³ A : ______",
+        "options": [
+          "10⁻⁶ A",
+          "10⁻⁹ A",
+          "10³ A",
+          "10⁶ A"
+        ],
+        "explanation": "1 mA = 10⁻³ A and 1 µA = 10⁻⁶ A."
+      },
+      "ta": {
+        "q": "மில்லி ஆம்பியர் : மைக்ரோ ஆம்பியர் :: 10⁻³ A : ______",
+        "options": [
+          "10⁻⁶ A",
+          "10⁻⁹ A",
+          "10³ A",
+          "10⁶ A"
+        ],
+        "explanation": "1 mA = 10⁻³ A; 1 µA = 10⁻⁶ A."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 33,
+      "quote": "VI.1 Assertion: Copper is used to make electric wires. Reason: Copper has very low electrical resistance.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: Copper is used to make electric wires.\nReason [R]: Copper has a very low electrical resistance.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Low resistance lets current flow with little loss, so copper wires are used in households."
+      },
+      "ta": {
+        "q": "கூற்று [A]: மின்கம்பிகளைத் தயாரிக்கத் தாமிரம் பயன்படுகிறது.\nகாரணம் [R]: தாமிரத்தின் மின்தடை மிகவும் குறைவு.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "குறைந்த மின்தடையால் மின்னோட்டம் குறைந்த இழப்புடன் பாய்வதால் தாமிரக் கம்பிகள் வீடுகளில் பயன்படுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 33,
+      "quote": "VI.2 Assertion: Insulators do not allow the flow of current through themselves. Reason: They have no free charge carriers.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: Insulators do not allow the flow of current through themselves.\nReason [R]: Insulators have no free charge carriers.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Without free electrons or charges there is no conduction."
+      },
+      "ta": {
+        "q": "கூற்று [A]: காப்பான்கள் தம் வழியே மின்னோட்டத்தை அனுமதிப்பதில்லை.\nகாரணம் [R]: காப்பான்களில் தனித்து இயங்கும் மின்னூட்டத் தாங்கிகள் இல்லை.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "தனி எலக்ட்ரான்கள் இல்லாததால் கடத்தல் நிகழாது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "VII.4 Define fuse.",
+      "answer": "A",
+      "en": {
+        "q": "A fuse is a safety device in which ______.",
+        "options": [
+          "a wire melts and breaks the circuit when the current becomes too high",
+          "a coil heats up and increases the current in the circuit",
+          "a magnet attracts the wire and cuts off the current at all times",
+          "a battery stores the current and releases it slowly"
+        ],
+        "explanation": "The fuse protects costly appliances and wiring."
+      },
+      "ta": {
+        "q": "மின் உருகி என்பது ______ பாதுகாப்புச் சாதனம்.",
+        "options": [
+          "மின்னோட்டம் அளவுக்கு மீறும்போது இழை உருகி மின்சுற்றைத் துண்டிக்கும்",
+          "கம்பிச்சுருள் சூடாகி மின்சுற்றில் மின்னோட்டத்தை அதிகரிக்கும்",
+          "காந்தம் கம்பியை ஈர்த்து எப்போதும் மின்னோட்டத்தைத் துண்டிக்கும்",
+          "மின்கலன் மின்னோட்டத்தைச் சேமித்து மெதுவாக வெளியிடும்"
+        ],
+        "explanation": "மின் உருகி விலையுயர்ந்த சாதனங்களையும் கம்பிகளையும் காக்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "VII.5 Name some devices that run using heat effect of electric current",
+      "answer": "D",
+      "en": {
+        "q": "Which of the following appliances works on the heating effect of electric current?",
+        "options": [
+          "Electric bell",
+          "Telephone",
+          "Crane magnet",
+          "Geyser"
+        ],
+        "explanation": "Electric bulb, geyser, iron box and immersion water heater use heating coils of high resistance."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் மின்னோட்டத்தின் வெப்ப விளைவில் இயங்கும் சாதனம் எது?",
+        "options": [
+          "மின்மணி",
+          "தொலைபேசி",
+          "கிரேன் காந்தம்",
+          "கீசர்"
+        ],
+        "explanation": "மின்விளக்கு, கீசர், துணி இஸ்திரிப் பெட்டி, மூழ்கும் நீர்க்கொதிகலன் ஆகியவை உயர் மின்தடைச் சுருள்களைக் கொண்டவை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
+      "quote": "VII.7 What is a battery?",
+      "answer": "A",
+      "en": {
+        "q": "A battery is ______.",
+        "options": [
+          "a group of cells whose chemical reactions cause a flow of electrons in a circuit",
+          "a single long wire that carries an electric current in a circuit",
+          "a device which is used to measure the electric current in a circuit",
+          "a switch which is used to open or close the circuit when required"
+        ],
+        "explanation": "All batteries have an anode, a cathode and an electrolyte."
+      },
+      "ta": {
+        "q": "மின்கல அடுக்கு (பேட்டரி) என்பது ______.",
+        "options": [
+          "மின்கலங்களின் தொகுப்பு; அவற்றின் வேதிவினைகள் மின்சுற்றில் எலக்ட்ரான் பாய்வை உருவாக்கும்",
+          "மின்சுற்றில் மின்னோட்டத்தைக் கடத்தும் ஒரே நீளமான கம்பி",
+          "மின்சுற்றில் மின்னோட்டத்தை அளக்கப் பயன்படும் ஒரு கருவி",
+          "தேவைப்படும்போது மின்சுற்றைத் திறக்க அல்லது மூடப் பயன்படும் சுவிட்ச்"
+        ],
+        "explanation": "எல்லா மின்கல அடுக்குகளிலும் நேர்மின்வாய், எதிர்மின்வாய், மின்பகுளி உள்ளன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 34,
+      "quote": "VIII.1 Define an electric current.",
+      "answer": "C",
+      "en": {
+        "q": "An electric current is defined as the ______.",
+        "options": [
+          "energy needed to move one unit of charge from one point to another",
+          "ratio of the voltage to the resistance of a material, called conductance only",
+          "amount of electric charge flowing through a given cross-section per unit time",
+          "amount of electric charge stored inside a cell"
+        ],
+        "explanation": "I = q/t; the SI unit is the ampere."
+      },
+      "ta": {
+        "q": "மின்னோட்டம் என்பது ______.",
+        "options": [
+          "ஓரலகு மின்னூட்டத்தை நகர்த்தத் தேவையான ஆற்றல்",
+          "ஒரு பொருளின் மின்னழுத்தத்திற்கும் மின்தடைக்கும் இடையேயான விகிதம் மட்டும்",
+          "கொடுக்கப்பட்ட குறுக்குவெட்டுப் பரப்பைக் கடந்து ஓரலகு நேரத்தில் பாயும் மின்னூட்டத்தின் அளவு",
+          "மின்கலத்தில் சேமிக்கப்படும் மின்னூட்டம்"
+        ],
+        "explanation": "I = q/t; SI அலகு ஆம்பியர்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 34,
+      "quote": "VIII.3 Define electrical conductivity.",
+      "answer": "C",
+      "en": {
+        "q": "Electrical conductivity (specific conductance) is the measure of a material's ______.",
+        "options": [
+          "ability to oppose electric current",
+          "ability to store electric charge",
+          "ability to conduct an electric current",
+          "ability to produce light"
+        ],
+        "explanation": "Electrical resistivity quantifies how strongly a material opposes the flow of current."
+      },
+      "ta": {
+        "q": "கடத்துத்திறன் (குறிப்பிட்ட கடத்துத்திறன்) என்பது ஒரு பொருளின் ______ அளவீடு.",
+        "options": [
+          "மின்னோட்டத்தை எதிர்க்கும் திறனின்",
+          "மின்னூட்டத்தைச் சேமிக்கும் திறனின்",
+          "மின்னோட்டத்தைக் கடத்தும் திறனின்",
+          "ஒளியை உருவாக்கும் திறனின்"
+        ],
+        "explanation": "மின் தடைத்திறன் ஒரு பொருள் மின்னோட்டத்தை எவ்வளவு வலுவாக எதிர்க்கிறது என்பதைக் குறிக்கும்."
+      }
+    }
+  ]
+}

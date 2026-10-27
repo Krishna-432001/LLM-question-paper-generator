@@ -1,0 +1,558 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 7 Science & Social Science Term-I (English)",
+  "breadcrumb": "Std 7 Science (English) — Unit 2: Force and Motion — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 25,
+      "quote": "I.3 A boy on a merry go round moving with a constant speed of 10 m/s. It implies that the boy is a. at rest b. moving with no acceleration c. in accelerated motion d. moving with uniform velocity",
+      "answer": "C",
+      "en": {
+        "q": "A boy rides a merry-go-round moving at a constant speed of 10 m/s. This implies that the boy is ______.",
+        "options": [
+          "at rest",
+          "moving with no acceleration",
+          "in accelerated motion",
+          "moving with uniform velocity"
+        ],
+        "explanation": "Speed is constant but the direction keeps changing on a circular path, so velocity changes and the motion is accelerated."
+      },
+      "ta": {
+        "q": "ஒரு சிறுவன் குடை இராட்டினத்தில் 10 மீ/வி என்ற மாறாத வேகத்தில் சுற்றி வருகிறான். இதிலிருந்து நாம் அறிவது, சிறுவனின் இயக்கம் ______.",
+        "options": [
+          "ஓய்வு நிலையில் உள்ளது",
+          "முடுக்கப்படாத இயக்கமாகும்",
+          "முடுக்கப்பட்ட இயக்கமாகும்",
+          "மாறாத திசைவேகத்தில் உள்ளது"
+        ],
+        "explanation": "வேகம் மாறாவிடினும் வட்டப்பாதையில் திசை மாறுவதால் திசைவேகம் மாறுகிறது; எனவே முடுக்கப்பட்ட இயக்கம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 25,
+      "quote": "II.1 The shortest distance between two places is ______.",
+      "answer": "A",
+      "en": {
+        "q": "The shortest distance between the initial and final positions of an object is called ______.",
+        "options": [
+          "displacement",
+          "acceleration",
+          "average speed",
+          "total distance"
+        ],
+        "explanation": "Displacement is the shortest distance from the initial to the final position."
+      },
+      "ta": {
+        "q": "ஒரு பொருளின் துவக்க நிலைக்கும் இறுதி நிலைக்கும் இடையே உள்ள மிகக் குறைந்த தொலைவு ______ எனப்படும்.",
+        "options": [
+          "இடப்பெயர்ச்சி",
+          "முடுக்கம்",
+          "சராசரி வேகம்",
+          "மொத்தத் தொலைவு"
+        ],
+        "explanation": "இடப்பெயர்ச்சி என்பது ஆரம்ப, இறுதி நிலைகளுக்கு இடையேயான மிகக் குறைந்த தொலைவு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 25,
+      "quote": "II.2 The rate of change of velocity is ______.",
+      "answer": "D",
+      "en": {
+        "q": "The rate of change of velocity is ______.",
+        "options": [
+          "speed",
+          "distance",
+          "displacement",
+          "acceleration"
+        ],
+        "explanation": "Acceleration = change in velocity / time."
+      },
+      "ta": {
+        "q": "திசைவேகம் மாறுபடும் வீதம் ______ ஆகும்.",
+        "options": [
+          "வேகம்",
+          "தொலைவு",
+          "இடப்பெயர்ச்சி",
+          "முடுக்கம்"
+        ],
+        "explanation": "முடுக்கம் = திசைவேக மாற்றம் / காலம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "II.3 If the velocity of an object increases with respect to time, then the object is said to be in ______ acceleration.",
+      "answer": "D",
+      "en": {
+        "q": "If the velocity of an object increases with time, the object is said to have ______ acceleration.",
+        "options": [
+          "uniform only",
+          "negative",
+          "zero",
+          "positive"
+        ],
+        "explanation": "Increasing velocity gives positive acceleration; decreasing velocity gives negative acceleration (deceleration)."
+      },
+      "ta": {
+        "q": "ஒரு பொருளின் திசைவேகம் காலத்தைப் பொருத்து அதிகரித்தால், அப்பொருள் ______ முடுக்கத்தைப் பெற்றிருக்கிறது.",
+        "options": [
+          "சீரான மட்டும்",
+          "எதிர்",
+          "சுழி",
+          "நேர்"
+        ],
+        "explanation": "திசைவேகம் அதிகரித்தால் நேர் முடுக்கம்; குறைந்தால் எதிர் முடுக்கம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "II.4 The slope of the speed-time graph gives ______.",
+      "answer": "D",
+      "en": {
+        "q": "The slope of a speed–time graph gives the ______.",
+        "options": [
+          "distance",
+          "displacement",
+          "average speed",
+          "acceleration"
+        ],
+        "explanation": "A speed–time graph's gradient represents acceleration."
+      },
+      "ta": {
+        "q": "வேகம்–காலம் வரைபடத்தின் சாய்வு ______ மதிப்பைத் தருகிறது.",
+        "options": [
+          "தொலைவின்",
+          "இடப்பெயர்ச்சியின்",
+          "சராசரி வேகத்தின்",
+          "முடுக்கத்தின்"
+        ],
+        "explanation": "வேகம்–காலம் வரைபடத்தின் சாய்வு முடுக்கத்தைக் குறிக்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "IV.1 Velocity : metre/second :: Acceleration : ______",
+      "answer": "D",
+      "en": {
+        "q": "Velocity : metre/second :: acceleration : ______",
+        "options": [
+          "metre/second",
+          "metre",
+          "second/metre",
+          "metre/second²"
+        ],
+        "explanation": "SI unit of acceleration is m/s²."
+      },
+      "ta": {
+        "q": "திசைவேகம் : மீட்டர்/விநாடி :: முடுக்கம் : ______",
+        "options": [
+          "மீட்டர்/விநாடி",
+          "மீட்டர்",
+          "விநாடி/மீட்டர்",
+          "மீட்டர்/விநாடி²"
+        ],
+        "explanation": "முடுக்கத்தின் SI அலகு மீ/வி²."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "IV.2 Length of scale : metre :: Speed of aeroplane : ______",
+      "answer": "B",
+      "en": {
+        "q": "Length of a scale : metre :: speed of an aeroplane : ______",
+        "options": [
+          "nautical mile",
+          "knot",
+          "kilometre",
+          "second"
+        ],
+        "explanation": "The speed of aeroplanes and ships is measured in knots."
+      },
+      "ta": {
+        "q": "அளவுகோலின் நீளம் : மீட்டர் :: வானூர்தியின் வேகம் : ______",
+        "options": [
+          "கடல் மைல்",
+          "நாட்",
+          "கிலோமீட்டர்",
+          "வினாடி"
+        ],
+        "explanation": "வானூர்தி, கப்பல்களின் வேகம் நாட் என்ற அலகால் அளக்கப்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "IV.3 Displacement / Time : Velocity :: Speed / Time : ______",
+      "answer": "B",
+      "en": {
+        "q": "Displacement / time : velocity :: change in velocity / time : ______",
+        "options": [
+          "average speed",
+          "acceleration",
+          "total distance",
+          "net force"
+        ],
+        "explanation": "Acceleration = change in velocity / time."
+      },
+      "ta": {
+        "q": "இடப்பெயர்ச்சி / காலம் : திசைவேகம் :: திசைவேக மாற்றம் / காலம் : ______",
+        "options": [
+          "சராசரி வேகம்",
+          "முடுக்கம்",
+          "மொத்தத் தொலைவு",
+          "தொகுபயன் விசை"
+        ],
+        "explanation": "முடுக்கம் = திசைவேக மாற்றம் / காலம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 26,
+      "quote": "V.1 Asher says all objects having uniform speed need not have uniform velocity. Give reason.",
+      "answer": "A",
+      "en": {
+        "q": "An object moving with uniform speed need not have uniform velocity because ______.",
+        "options": [
+          "its direction of motion may change",
+          "its distance may become zero",
+          "its mass may change",
+          "speed and velocity have different units"
+        ],
+        "explanation": "Velocity changes if either speed or direction changes; at uniform speed the direction can still change (e.g. circular motion)."
+      },
+      "ta": {
+        "q": "சீரான வேகத்தில் இயங்கும் பொருள் சீரான திசைவேகம் கொண்டிருக்க வேண்டியதில்லை; ஏனெனில் ______.",
+        "options": [
+          "அதன் இயக்கத்தின் திசை மாறக்கூடும்",
+          "அதன் தொலைவு சுழியாகக்கூடும்",
+          "அதன் நிறை மாறக்கூடும்",
+          "வேகம், திசைவேகம் ஆகியவற்றின் அலகுகள் வேறுபடும்"
+        ],
+        "explanation": "வேகம் அல்லது திசை மாறினால் திசைவேகம் மாறும்; சீரான வேகத்திலும் திசை மாறலாம் (எ.கா. வட்ட இயக்கம்)."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "V.2 Saphira moves at a constant speed in the same direction. Rephrase the sentence in fewer words using concepts related to motion.",
+      "answer": "C",
+      "en": {
+        "q": "'Moving at a constant speed in the same direction' is described in motion terms as moving with ______.",
+        "options": [
+          "uniform acceleration",
+          "zero displacement",
+          "uniform velocity",
+          "non-uniform speed"
+        ],
+        "explanation": "Constant speed in a fixed direction means uniform velocity."
+      },
+      "ta": {
+        "q": "'மாறாத வேகத்தில், மாறாத திசையில் செல்லுதல்' என்பதை இயக்கக் கருத்தில் குறிப்பிட்டால் ______.",
+        "options": [
+          "சீரான முடுக்கத்தில் செல்லுதல்",
+          "சுழி இடப்பெயர்ச்சியுடன் செல்லுதல்",
+          "சீரான திசைவேகத்தில் செல்லுதல்",
+          "சீரற்ற வேகத்தில் செல்லுதல்"
+        ],
+        "explanation": "மாறாத வேகமும் மாறாத திசையும் சேர்ந்தால் சீரான திசைவேகம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "V.3 Correct your friend who says that acceleration gives the idea of how fast the position changes.",
+      "answer": "B",
+      "en": {
+        "q": "Which statement correctly describes acceleration?",
+        "options": [
+          "Acceleration tells how fast the position changes.",
+          "Acceleration tells how fast the velocity changes.",
+          "Acceleration tells how fast the mass changes.",
+          "Acceleration tells how long an object travels."
+        ],
+        "explanation": "How fast the position changes is velocity; acceleration is the rate of change of velocity."
+      },
+      "ta": {
+        "q": "முடுக்கம் பற்றிய சரியான கூற்று எது?",
+        "options": [
+          "முடுக்கம் நிலை எவ்வளவு விரைவாக மாறுகிறது என்பதைக் கூறுகிறது.",
+          "முடுக்கம் திசைவேகம் எவ்வளவு விரைவாக மாறுகிறது என்பதைக் கூறுகிறது.",
+          "முடுக்கம் நிறை எவ்வளவு விரைவாக மாறுகிறது என்பதைக் கூறுகிறது.",
+          "முடுக்கம் பொருள் எவ்வளவு நேரம் பயணித்தது என்பதைக் கூறுகிறது."
+        ],
+        "explanation": "நிலை மாறும் வீதம் திசைவேகம்; திசைவேகம் மாறும் வீதம் முடுக்கம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "VI.1 Show the shape of the distance-time graph: a. A bus moving with a constant speed. b. A car parked on a road side.",
+      "answer": "B",
+      "en": {
+        "q": "The distance–time graph of a car parked at the roadside is ______.",
+        "options": [
+          "a straight line sloping upward",
+          "a straight line parallel to the time axis",
+          "a curve rising steeply",
+          "a straight line sloping downward"
+        ],
+        "explanation": "At rest, distance stays constant, so the gradient is zero. (A bus at constant speed gives an inclined straight line.)"
+      },
+      "ta": {
+        "q": "சாலையோரம் நிறுத்தப்பட்ட மகிழுந்தின் தொலைவு–காலம் வரைபடம் ______.",
+        "options": [
+          "மேல்நோக்கிச் சாயும் நேர்கோடு",
+          "கால அச்சுக்கு இணையான நேர்கோடு",
+          "செங்குத்தாக உயரும் வளைவு",
+          "கீழ்நோக்கிச் சாயும் நேர்கோடு"
+        ],
+        "explanation": "ஓய்வில் தொலைவு மாறாது; சாய்வு சுழி. (மாறாத வேகத்தில் செல்லும் பேருந்துக்குச் சாய்ந்த நேர்கோடு கிடைக்கும்.)"
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "VI.2 Distinguish between speed and velocity.",
+      "answer": "D",
+      "en": {
+        "q": "Which statement correctly distinguishes velocity from speed?",
+        "options": [
+          "Velocity has no direction, whereas speed has direction.",
+          "Velocity is the rate of change of distance, whereas speed is the rate of change of displacement.",
+          "Velocity is measured in m/s² and speed in m/s.",
+          "Velocity is the rate of change of displacement, whereas speed is the rate of change of distance."
+        ],
+        "explanation": "Speed = distance/time; velocity = displacement/time."
+      },
+      "ta": {
+        "q": "வேகத்திற்கும் திசைவேகத்திற்கும் உள்ள வேறுபாடு பற்றிய சரியான கூற்று எது?",
+        "options": [
+          "திசைவேகத்திற்குத் திசை இல்லை; வேகத்திற்குத் திசை உண்டு.",
+          "திசைவேகம் தொலைவு மாறும் வீதம்; வேகம் இடப்பெயர்ச்சி மாறும் வீதம்.",
+          "திசைவேகத்தின் அலகு மீ/வி²; வேகத்தின் அலகு மீ/வி.",
+          "திசைவேகம் இடப்பெயர்ச்சி மாறும் வீதம்; வேகம் தொலைவு மாறும் வீதம்."
+        ],
+        "explanation": "வேகம் = தொலைவு/காலம்; திசைவேகம் = இடப்பெயர்ச்சி/காலம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 26,
+      "quote": "VI.3 What do you mean by constant acceleration?",
+      "answer": "D",
+      "en": {
+        "q": "An object has uniform (constant) acceleration when ______.",
+        "options": [
+          "its speed is the same at every instant of the motion",
+          "its displacement is zero at every instant of the motion",
+          "its velocity is zero at every instant",
+          "the change in its velocity in every unit of time is the same"
+        ],
+        "explanation": "Uniform acceleration means equal change (increase or decrease) in velocity in equal intervals of time."
+      },
+      "ta": {
+        "q": "ஒரு பொருள் சீரான (மாறா) முடுக்கம் பெற்றிருப்பது ______.",
+        "options": [
+          "ஒவ்வொரு கணத்திலும் அதன் வேகம் மாறாமல் இருக்கும்போது",
+          "ஒவ்வொரு கணத்திலும் அதன் இடப்பெயர்ச்சி சுழியாக இருக்கும்போது",
+          "ஒவ்வொரு கணத்திலும் அதன் திசைவேகம் சுழியாக இருக்கும்போது",
+          "ஒவ்வொரு அலகு நேரத்திலும் அதன் திசைவேக மாற்றம் ஒரே அளவாக இருக்கும்போது"
+        ],
+        "explanation": "சம கால இடைவெளிகளில் திசைவேக மாற்றம் சமமாக இருந்தால் அது சீரான முடுக்கம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 26,
+      "quote": "VIII.1 Geetha takes 15 minutes to reach school on a bicycle at 2 m/s. Calculate the distance.",
+      "answer": "C",
+      "en": {
+        "q": "Geetha cycles to school at 2 m/s and takes 15 minutes. The distance from her house to the school is ______.",
+        "options": [
+          "900 m",
+          "30 m",
+          "1,800 m",
+          "3,600 m"
+        ],
+        "explanation": "Distance = speed × time = 2 × (15 × 60) = 1,800 m."
+      },
+      "ta": {
+        "q": "கீதா 2 மீ/வி வேகத்தில் மிதிவண்டியில் 15 நிமிடங்களில் பள்ளியை அடைகிறாள். வீட்டிற்கும் பள்ளிக்கும் இடையேயான தொலைவு ______.",
+        "options": [
+          "900 மீ",
+          "30 மீ",
+          "1,800 மீ",
+          "3,600 மீ"
+        ],
+        "explanation": "தொலைவு = வேகம் × நேரம் = 2 × (15 × 60) = 1,800 மீ."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 26,
+      "quote": "VIII.2 A car starts from rest and travels with a velocity of 20 m/s in 10 s. What is its acceleration?",
+      "answer": "A",
+      "en": {
+        "q": "A car starts from rest and reaches 20 m/s in 10 s. Its acceleration is ______.",
+        "options": [
+          "2 m/s²",
+          "0.5 m/s²",
+          "200 m/s²",
+          "10 m/s²"
+        ],
+        "explanation": "a = (v − u)/t = (20 − 0)/10 = 2 m/s²."
+      },
+      "ta": {
+        "q": "ஓய்வு நிலையிலிருந்து புறப்படும் மகிழுந்து 10 வினாடியில் 20 மீ/வி திசைவேகத்தை அடைகிறது. அதன் முடுக்கம் ______.",
+        "options": [
+          "2 மீ/வி²",
+          "0.5 மீ/வி²",
+          "200 மீ/வி²",
+          "10 மீ/வி²"
+        ],
+        "explanation": "a = (v − u)/t = (20 − 0)/10 = 2 மீ/வி²."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 26,
+      "quote": "VIII.3 A bus can accelerate with 1 m/s2. Find the minimum time to attain the speed of 100 km/s from 50 km/s. [book writes km/s]",
+      "answer": "C",
+      "en": {
+        "q": "A bus accelerates at 1 m/s². The time it takes to increase its speed from 50 km/h to 100 km/h is about ______.",
+        "options": [
+          "50.0 s",
+          "25.0 s",
+          "13.9 s",
+          "5.00 s"
+        ],
+        "explanation": "Change in speed = 50 km/h = 50 × 5/18 = 13.9 m/s; t = 13.9 / 1 ≈ 13.9 s. (The book prints km/s, a misprint for km/h.)"
+      },
+      "ta": {
+        "q": "1 மீ/வி² முடுக்கத்துடன் இயங்கும் பேருந்து தன் வேகத்தை 50 கிமீ/மணியிலிருந்து 100 கிமீ/மணிக்கு உயர்த்தத் தேவையான நேரம் ஏறத்தாழ ______.",
+        "options": [
+          "50.0 வி",
+          "25.0 வி",
+          "13.9 வி",
+          "5.00 வி"
+        ],
+        "explanation": "வேக மாற்றம் = 50 × 5/18 = 13.9 மீ/வி; t = 13.9 / 1 ≈ 13.9 வி. (நூலில் கிமீ/வி என்பது அச்சுப்பிழை; சரியானது கிமீ/மணி.)"
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 26,
+      "quote": "IX Fill in the boxes: 5 metres east then 5 metres west — distance, displacement",
+      "answer": "B",
+      "en": {
+        "q": "A person moves 5 m east and then 5 m west. The distance travelled and the displacement are ______.",
+        "options": [
+          "10 m and 10 m",
+          "10 m and 0 m",
+          "0 m and 10 m",
+          "5 m and 5 m"
+        ],
+        "explanation": "Distance = 5 + 5 = 10 m; the person returns to the start, so the displacement is 0."
+      },
+      "ta": {
+        "q": "ஒருவர் 5 மீ கிழக்கே சென்று பின் 5 மீ மேற்கே செல்கிறார். அவர் கடந்த தொலைவும் இடப்பெயர்ச்சியும் முறையே ______.",
+        "options": [
+          "10 மீ மற்றும் 10 மீ",
+          "10 மீ மற்றும் 0 மீ",
+          "0 மீ மற்றும் 10 மீ",
+          "5 மீ மற்றும் 5 மீ"
+        ],
+        "explanation": "தொலைவு = 5 + 5 = 10 மீ; தொடக்கப் புள்ளிக்கே திரும்புவதால் இடப்பெயர்ச்சி 0."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 26,
+      "quote": "IX Fill in the boxes: 10 metres west then 3 metres east — distance, displacement",
+      "answer": "A",
+      "en": {
+        "q": "A person moves 10 m west and then 3 m east. The distance and displacement are ______.",
+        "options": [
+          "13 m and 7 m west",
+          "13 m and 13 m west",
+          "7 m and 13 m west",
+          "7 m and 7 m east"
+        ],
+        "explanation": "Distance = 10 + 3 = 13 m; displacement = 10 − 3 = 7 m towards west."
+      },
+      "ta": {
+        "q": "ஒருவர் 10 மீ மேற்கே சென்று பின் 3 மீ கிழக்கே செல்கிறார். தொலைவும் இடப்பெயர்ச்சியும் முறையே ______.",
+        "options": [
+          "13 மீ மற்றும் 7 மீ மேற்கு",
+          "13 மீ மற்றும் 13 மீ மேற்கு",
+          "7 மீ மற்றும் 13 மீ மேற்கு",
+          "7 மீ மற்றும் 7 மீ கிழக்கு"
+        ],
+        "explanation": "தொலைவு = 10 + 3 = 13 மீ; இடப்பெயர்ச்சி = 10 − 3 = 7 மீ மேற்கே."
+      }
+    }
+  ]
+}
