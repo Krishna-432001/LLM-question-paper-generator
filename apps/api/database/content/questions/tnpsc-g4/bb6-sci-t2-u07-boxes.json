@@ -1,0 +1,355 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 6 Science Term-II (English)",
+  "breadcrumb": "Std 6 Science Term-II (English) — Unit 7: Parts of Computer — Boxed notes (தெரிந்து தெளிவோம் / Do you know)",
+  "questions": [
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 86,
+      "quote": "CPU is the brain of the Computer. The data is processed in the CPU.",
+      "answer": "B",
+      "en": {
+        "q": "The brain of the computer is the ______.",
+        "options": [
+          "monitor",
+          "CPU",
+          "mouse",
+          "printer"
+        ],
+        "explanation": "The data is processed in the CPU."
+      },
+      "ta": {
+        "q": "கணினியின் மூளை ______.",
+        "options": [
+          "திரையகம்",
+          "மையச்செயலகம்",
+          "சுட்டி",
+          "அச்சுப்பொறி"
+        ],
+        "explanation": "மையச்செயலகத்தில் தரவு செயலாக்கப்படுகிறது."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 87,
+      "quote": "The CPU has three parts: 1. Memory Unit 2. Arithmetic Logic Unit (ALU) 3. Control Unit",
+      "answer": "B",
+      "en": {
+        "q": "Parts of Computer: Which of the following is NOT a part of the CPU?",
+        "options": [
+          "Arithmetic logic unit",
+          "Keyboard",
+          "Memory unit",
+          "Control unit"
+        ],
+        "explanation": "The CPU has the memory unit, the arithmetic logic unit and the control unit; the keyboard is an input device."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் மையச்செயலகத்தின் (CPU) பகுதி அல்லாதது எது?",
+        "options": [
+          "கணிதத்தருக்கச் செயலகம்",
+          "விசைப்பலகை",
+          "நினைவகம்",
+          "கட்டுப்பாட்டகம்"
+        ],
+        "explanation": "மையச்செயலகத்தில் நினைவகம், கணிதத்தருக்கச் செயலகம், கட்டுப்பாட்டகம் உள்ளன; விசைப்பலகை உள்ளீட்டுக் கருவி."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 87,
+      "quote": "Arithmetic and Logic unit performs all arithmetic computations like addition, subtraction, multiplication and division.",
+      "answer": "D",
+      "en": {
+        "q": "The unit that performs arithmetic computations like addition and subtraction is the ______.",
+        "options": [
+          "Central control unit",
+          "Data output unit",
+          "Main memory unit",
+          "Arithmetic Logic Unit"
+        ],
+        "explanation": "The arithmetic logic unit (ALU) does calculations such as addition and subtraction, and logical comparisons."
+      },
+      "ta": {
+        "q": "கூட்டல், கழித்தல் போன்ற கணிதச் செயல்களைச் செய்யும் அலகு ______.",
+        "options": [
+          "மையக் கட்டுப்பாட்டகம்",
+          "தரவு வெளியீட்டகம்",
+          "முதன்மை நினைவகம்",
+          "கணிதத்தருக்கச் செயலகம்"
+        ],
+        "explanation": "கணிதத்தருக்கச் செயலகம் கூட்டல், கழித்தல் போன்ற கணக்குகளையும் தருக்க ஒப்பீடுகளையும் செய்கிறது."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 87,
+      "quote": "The memory unit in the computer saves all data and information temporarily. We can classify memory unit into two types namely primary and secondary memory.",
+      "answer": "B",
+      "en": {
+        "q": "The memory unit of a computer is classified into ______ memory.",
+        "options": [
+          "internal only",
+          "primary and secondary",
+          "wireless and wired",
+          "input and output"
+        ],
+        "explanation": "Memory is primary (internal, e.g. RAM) or secondary (storage such as a hard disk, CD or pen drive)."
+      },
+      "ta": {
+        "q": "கணினியின் நினைவகம் ______ நினைவகம் என வகைப்படுத்தப்படுகிறது.",
+        "options": [
+          "உள்ளகம் மட்டும்",
+          "முதன்மை, இரண்டாம் நிலை",
+          "கம்பியில்லா, கம்பியுடன்",
+          "உள்ளீடு, வெளியீடு"
+        ],
+        "explanation": "நினைவகம் முதன்மை (RAM போன்ற உள் நினைவகம்), இரண்டாம் நிலை (வன்தட்டு, குறுவட்டு, விரலி போன்ற சேமிப்பு) என இரு வகை."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 88,
+      "quote": "A DVD is capable of storing 6 times more data than a CD.",
+      "answer": "A",
+      "en": {
+        "q": "A DVD can store about ______ times more data than a CD.",
+        "options": [
+          "6",
+          "60",
+          "600",
+          "2"
+        ],
+        "explanation": "According to the book, a DVD stores about 6 times more data than a CD."
+      },
+      "ta": {
+        "q": "ஒரு டிவிடி குறுவட்டை விட ஏறத்தாழ ______ மடங்கு அதிகத் தரவைச் சேமிக்கும்.",
+        "options": [
+          "6",
+          "60",
+          "600",
+          "2"
+        ],
+        "explanation": "நூலின்படி குறுவட்டை விட டிவிடி ஏறத்தாழ 6 மடங்கு அதிகத் தரவைச் சேமிக்கும்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 88,
+      "quote": "The data is measured in units which is called as Bit. A Bit has a single binary value either 0 or 1.",
+      "answer": "C",
+      "en": {
+        "q": "A bit has a single binary value, either ______.",
+        "options": [
+          "1 or 2",
+          "1 or 100",
+          "0 or 1",
+          "0 or 10"
+        ],
+        "explanation": "The data in a computer is measured in bits."
+      },
+      "ta": {
+        "q": "ஒரு பிட் என்பது இருமநிலை மதிப்பாக ______ மட்டுமே பெறும்.",
+        "options": [
+          "1 அல்லது 2",
+          "1 அல்லது 100",
+          "0 அல்லது 1",
+          "0 அல்லது 10"
+        ],
+        "explanation": "கணினியில் தரவு பிட் அலகில் அளக்கப்படுகிறது."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 88,
+      "quote": "Based on their design, shape, speed, efficiency, working of the memory unit and applications the computers are classified as Mainframe, Mini, Micro or Personal, and Super Computer.",
+      "answer": "A",
+      "en": {
+        "q": "Which of the following is a type of computer based on size and speed?",
+        "options": [
+          "Super computer",
+          "Output computer",
+          "Wireless computer",
+          "Input computer"
+        ],
+        "explanation": "The types are mainframe, mini, micro (personal) and super computers."
+      },
+      "ta": {
+        "q": "அளவு, வேகத்தின் அடிப்படையிலான கணினி வகை எது?",
+        "options": [
+          "மீக்கணினி",
+          "வெளியீட்டுக் கணினி",
+          "கம்பியில்லாக் கணினி",
+          "உள்ளீட்டுக் கணினி"
+        ],
+        "explanation": "பெருமுகம், குறுமுகம், நுண் (தனிநபர்), மீக்கணினி என வகைகள் உண்டு. (மேலும்: சூப்பர் கணினி.)"
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 88,
+      "quote": "Personal computer comes under the microcomputer. Personal computers are of three types: Desktop, Laptop, Tablet.",
+      "answer": "B",
+      "en": {
+        "q": "Which of these is a type of personal computer?",
+        "options": [
+          "Mainframe",
+          "Laptop",
+          "Super computer",
+          "Input unit"
+        ],
+        "explanation": "Desktop, laptop and tablet are the types of personal computers."
+      },
+      "ta": {
+        "q": "தனிநபர் கணினியின் வகை எது?",
+        "options": [
+          "பெருமுகக் கணினி",
+          "மடிக்கணினி",
+          "மீக்கணினி",
+          "உள்ளீட்டகம்"
+        ],
+        "explanation": "டெஸ்க்டாப், மடிக்கணினி, கைக்கணினி தனிநபர் கணினிகளின் வகைகள்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 89,
+      "quote": "VGA cable is used to connect the computer monitor with the CPU.",
+      "answer": "C",
+      "en": {
+        "q": "The cable used to connect the computer monitor with the CPU is the ______.",
+        "options": [
+          "Power cord",
+          "Ethernet cable",
+          "VGA cable",
+          "Mic cable"
+        ],
+        "explanation": "According to the book, the VGA cable connects the monitor to the CPU (an HDMI cable can also do this)."
+      },
+      "ta": {
+        "q": "கணினித் திரையகத்தை மையச்செயலகத்துடன் (CPU) இணைக்கப் பயன்படும் கம்பி ______.",
+        "options": [
+          "மின் கம்பி",
+          "ஈதர்நெட் கம்பி",
+          "VGA கம்பி",
+          "ஒலிவாங்கிக் கம்பி"
+        ],
+        "explanation": "நூலின்படி VGA கம்பி திரையகத்தை மையச்செயலகத்துடன் இணைக்கிறது (HDMI கம்பியும் இதைச் செய்யும்)."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 89,
+      "quote": "Ethernet cable helps to establish internet connectivity.",
+      "answer": "C",
+      "en": {
+        "q": "The cable that helps to establish internet connectivity is the ______.",
+        "options": [
+          "Mic cable",
+          "Audio jack",
+          "Ethernet cable",
+          "VGA cable"
+        ],
+        "explanation": "Wi-Fi gives net connectivity without cables."
+      },
+      "ta": {
+        "q": "இணைய இணைப்பை ஏற்படுத்த உதவும் கம்பி ______.",
+        "options": [
+          "ஒலிவாங்கிக் கம்பி",
+          "ஒலி இணைப்பான்",
+          "ஈதர்நெட் கம்பி",
+          "VGA கம்பி"
+        ],
+        "explanation": "வைஃபை கம்பியின்றி இணைய இணைப்பைத் தரும்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 89,
+      "quote": "The audio jack is used to connect the speaker to the computer. USB cable is used to connect devices like printer, pendrive, scanner, mouse, keyboard.",
+      "answer": "D",
+      "en": {
+        "q": "The speaker is connected to the computer using ______.",
+        "options": [
+          "a power cord",
+          "an Ethernet cable",
+          "a VGA cable",
+          "an audio jack"
+        ],
+        "explanation": "A speaker is plugged into the computer's audio jack."
+      },
+      "ta": {
+        "q": "ஒலிப்பெருக்கியைக் கணினியுடன் இணைக்கப் பயன்படுவது ______.",
+        "options": [
+          "மின் கம்பி",
+          "ஈதர்நெட் கம்பி",
+          "VGA கம்பி",
+          "ஒலி இணைப்பான்"
+        ],
+        "explanation": "ஒலிப்பெருக்கி கணினியின் ஒலி இணைப்பானில் (ஆடியோ ஜாக்) இணைக்கப்படுகிறது."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 89,
+      "quote": "Bluetooth: Mouse, Keyboard can be connected to the computer using the Bluetooth. Wi-Fi: Net connectivity can be obtained without any connecting cables.",
+      "answer": "D",
+      "en": {
+        "q": "Which wireless connection can be used to share data with nearby devices and connect a mouse or keyboard?",
+        "options": [
+          "HDMI",
+          "Ethernet",
+          "VGA",
+          "Bluetooth"
+        ],
+        "explanation": "Bluetooth links nearby devices such as a mouse or keyboard without wires and lets them share data."
+      },
+      "ta": {
+        "q": "அருகிலுள்ள சாதனங்களுடன் தரவைப் பகிரவும் சுட்டி, விசைப்பலகையை இணைக்கவும் பயன்படும் கம்பியில்லா இணைப்பு எது?",
+        "options": [
+          "HDMI",
+          "ஈதர்நெட்",
+          "VGA",
+          "புளூடூத்"
+        ],
+        "explanation": "ஊடலை (புளூடூத்) சுட்டி, விசைப்பலகை போன்ற அருகிலுள்ள கருவிகளைக் கம்பியின்றி இணைத்துத் தரவைப் பகிர உதவுகிறது."
+      }
+    }
+  ]
+}

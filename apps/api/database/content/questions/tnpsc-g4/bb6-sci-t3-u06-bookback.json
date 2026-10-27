@@ -1,0 +1,181 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 6 Science Term-III (English)",
+  "breadcrumb": "Std 6 Science Term-III (English) — Unit 6: Hardware and Software — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 82,
+      "quote": "Find out the part that is not found in CPU? a. Mother Board b. SMPS c. RAM d. Mouse",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following is not found inside the CPU cabinet?",
+        "options": [
+          "SMPS",
+          "Mouse",
+          "Mother board",
+          "RAM"
+        ],
+        "explanation": "The mouse is an input device connected from outside."
+      },
+      "ta": {
+        "q": "மையச்செயலகப் பெட்டியினுள் காணப்படாதது எது?",
+        "options": [
+          "SMPS",
+          "சுட்டி",
+          "தாய்ப்பலகை",
+          "RAM"
+        ],
+        "explanation": "சுட்டி வெளியிலிருந்து இணைக்கப்படும் உள்ளீட்டுச் சாதனம். (மேலும்: மவுஸ்.)"
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 82,
+      "quote": "LINUX is a a. Paid Software b. Licensed Software c. Free and Proprietary software d. Free and Open source software",
+      "answer": "A",
+      "en": {
+        "q": "LINUX is a ______.",
+        "options": [
+          "free and open source software",
+          "licensed software",
+          "free and proprietary software",
+          "paid software"
+        ],
+        "explanation": "Examples of free and open source software: Linux, Open Office, Geogebra."
+      },
+      "ta": {
+        "q": "லினக்ஸ் ஒரு ______.",
+        "options": [
+          "கட்டற்ற, திறந்த மூல மென்பொருள்",
+          "தனியுரிமை மென்பொருள்",
+          "கட்டணமில்லா தனியுரிமை மென்பொருள்",
+          "கட்டண மென்பொருள்"
+        ],
+        "explanation": "லினக்ஸ், ஓபன் ஆஃபீஸ், ஜியோஜீப்ரா திறந்த மூல மென்பொருள்கள்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 82,
+      "quote": "Find out Paid and Proprietary software from the given list a. Windows b. MAC OS c. Adobe Photoshop d. All the above",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following is a paid and proprietary software?",
+        "options": [
+          "Linux and Open Office – both of them",
+          "Windows, MAC OS and Photoshop – all of them",
+          "Geogebra and Linux – both of them",
+          "Open Office and Geogebra – both of them"
+        ],
+        "explanation": "Windows, Microsoft Office and Adobe Photoshop are paid and proprietary."
+      },
+      "ta": {
+        "q": "கட்டண மற்றும் தனியுரிமை மென்பொருள் எது?",
+        "options": [
+          "லினக்ஸ், ஓபன் ஆஃபீஸ் – இரண்டும்",
+          "விண்டோஸ், மேக் OS, ஃபோட்டோஷாப் – அனைத்தும்",
+          "ஜியோஜீப்ரா, லினக்ஸ் – இரண்டும்",
+          "ஓபன் ஆஃபீஸ், ஜியோஜீப்ரா – இரண்டும்"
+        ],
+        "explanation": "விண்டோஸ், மைக்ரோசாஃப்ட் ஆஃபீஸ், அடோபி ஃபோட்டோஷாப் கட்டணமுள்ளவை."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 82,
+      "quote": "______ is a Operating System a. Android b. Chrome c. Internet d. Pendrive",
+      "answer": "D",
+      "en": {
+        "q": "Hardware and Software: Which of the following is an operating system?",
+        "options": [
+          "Pendrive",
+          "Chrome (browser)",
+          "Internet",
+          "Android"
+        ],
+        "explanation": "Linux, Windows, Mac and Android are popular operating systems."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் இயக்க முறைமை (இயங்குதளம்) எது?",
+        "options": [
+          "பென்டிரைவ்",
+          "குரோம் (உலாவி)",
+          "இணையம்",
+          "ஆண்ட்ராய்டு"
+        ],
+        "explanation": "லினக்ஸ், விண்டோஸ், மேக், ஆண்ட்ராய்டு பிரபலமான இயக்க முறைமைகள்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 82,
+      "quote": "What do you mean by Operating System? How it Works?",
+      "answer": "C",
+      "en": {
+        "q": "Without the ______, the computer cannot function on its own.",
+        "options": [
+          "pendrive",
+          "monitor only",
+          "operating system",
+          "printer"
+        ],
+        "explanation": "The operating system makes hardware devices process the data inputted by the user and display the result on output devices."
+      },
+      "ta": {
+        "q": "______ இல்லாமல் கணினி தானாகச் செயல்பட இயலாது.",
+        "options": [
+          "பென்டிரைவ்",
+          "திரையகம் மட்டும்",
+          "இயக்க முறைமை",
+          "அச்சுப்பொறி"
+        ],
+        "explanation": "இயக்க முறைமை பயனர் உள்ளிடும் தரவை வன்பொருள் செயலாக்கி முடிவை வெளியீட்டுச் சாதனத்தில் காட்டச் செய்கிறது."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 82,
+      "quote": "What is Free and Open Source Software? Give any two examples?",
+      "answer": "C",
+      "en": {
+        "q": "Free and open source software is ______.",
+        "options": [
+          "protected by a heavy licence fee",
+          "not editable by any of its users",
+          "free of cost; can be edited and shared",
+          "available only on payment of a price"
+        ],
+        "explanation": "Examples: LINUX, Open Office, Geogebra."
+      },
+      "ta": {
+        "q": "கட்டணமற்ற திறந்த மூல மென்பொருள் என்பது ______.",
+        "options": [
+          "அதிக உரிமக் கட்டணத்தால் பாதுகாக்கப்பட்டது",
+          "எந்தப் பயனரும் திருத்த இயலாதது",
+          "இலவசம்; திருத்தவும் பகிரவும் முடியும்",
+          "விலை செலுத்திய பின் மட்டுமே கிடைப்பது"
+        ],
+        "explanation": "எ.கா. லினக்ஸ், ஓபன் ஆஃபீஸ், ஜியோஜீப்ரா."
+      }
+    }
+  ]
+}

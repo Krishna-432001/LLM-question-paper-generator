@@ -1,0 +1,732 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 6 Science & Social Science Term-I (English)",
+  "breadcrumb": "Std 6 Science (English) — Unit 2: Force and Motion — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 31,
+      "quote": "Unit of speed is a. m b. s c. kg d. m/s",
+      "answer": "C",
+      "en": {
+        "q": "The SI unit of speed is ______.",
+        "options": [
+          "m/s²",
+          "s",
+          "m/s",
+          "kg"
+        ],
+        "explanation": "Speed = distance / time, so its SI unit is metre per second."
+      },
+      "ta": {
+        "q": "வேகத்தின் SI அலகு ______.",
+        "options": [
+          "மீ/வி²",
+          "வினாடி",
+          "மீ/வி",
+          "கிலோகிராம்"
+        ],
+        "explanation": "வேகம் = தொலைவு / காலம்; எனவே அலகு மீ/வி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 31,
+      "quote": "Which among the following is an oscillatory motion? ... c. To and fro movement of a vibrating string",
+      "answer": "A",
+      "en": {
+        "q": "Which of the following is an oscillatory motion?",
+        "options": [
+          "To and fro movement of a vibrating string",
+          "Revolution of the moon about the earth",
+          "A car moving on a straight road",
+          "Rotation of the earth about its axis"
+        ],
+        "explanation": "A body moving to and fro about a fixed point is in oscillatory motion."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் எது அலைவு இயக்கம்?",
+        "options": [
+          "அதிர்வுறும் கம்பியின் முன்பின் இயக்கம்",
+          "நிலவு பூமியைச் சுற்றி வருதல்",
+          "நேர்சாலையில் செல்லும் மகிழுந்து",
+          "பூமி தன் அச்சைப் பற்றிச் சுழல்தல்"
+        ],
+        "explanation": "ஒரு புள்ளியைப் பொறுத்து முன்னும் பின்னுமாக இயங்குவது அலைவு இயக்கம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 31,
+      "quote": "The correct relation among the following is a. Speed = Distance x Time b. Speed = Distance / Time ...",
+      "answer": "D",
+      "en": {
+        "q": "Which relation among speed, distance and time is correct?",
+        "options": [
+          "Speed = Distance × Time",
+          "Speed = Time / Distance",
+          "Speed = 1 / (Distance × Time)",
+          "Speed = Distance / Time"
+        ],
+        "explanation": "Speed is the distance travelled per unit time."
+      },
+      "ta": {
+        "q": "வேகம், தொலைவு, காலம் ஆகியவற்றிற்கிடையே சரியான தொடர்பு எது?",
+        "options": [
+          "வேகம் = தொலைவு × காலம்",
+          "வேகம் = காலம் / தொலைவு",
+          "வேகம் = 1 / (தொலைவு × காலம்)",
+          "வேகம் = தொலைவு / காலம்"
+        ],
+        "explanation": "ஓரலகு காலத்தில் கடந்த தொலைவே வேகம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 31,
+      "quote": "Gita travels ... 40 km ... 40 minutes. Statement 1: 1 km/minute. Statement 2: 1 km/hour.",
+      "answer": "B",
+      "en": {
+        "q": "Gita travels 40 km in 40 minutes. Statement 1: her speed is 1 km/minute. Statement 2: her speed is 1 km/hour. Which is correct?",
+        "options": [
+          "Statement 2 alone is correct",
+          "Statement 1 alone is correct",
+          "Both statements are correct",
+          "Neither statement is correct"
+        ],
+        "explanation": "40 km / 40 min = 1 km/min (= 60 km/h), so only statement 1 is correct."
+      },
+      "ta": {
+        "q": "கீதா 40 கி.மீ தொலைவை 40 நிமிடத்தில் கடக்கிறாள். கூற்று 1: வேகம் 1 கி.மீ/நிமிடம்; கூற்று 2: வேகம் 1 கி.மீ/மணி. எது சரி?",
+        "options": [
+          "கூற்று 2 மட்டும் சரி",
+          "கூற்று 1 மட்டும் சரி",
+          "இரண்டு கூற்றுகளும் சரி",
+          "இரண்டு கூற்றுகளும் தவறு"
+        ],
+        "explanation": "40 ÷ 40 = 1 கி.மீ/நிமிடம் (= 60 கி.மீ/மணி); கூற்று 1 மட்டுமே சரி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 31,
+      "quote": "A bike moving on a straight road is an example for ______ motion.",
+      "answer": "A",
+      "en": {
+        "q": "A bike moving on a straight road is an example of ______ motion.",
+        "options": [
+          "linear",
+          "circular",
+          "oscillatory",
+          "rotatory"
+        ],
+        "explanation": "Motion along a straight line is linear motion."
+      },
+      "ta": {
+        "q": "நேர்சாலையில் செல்லும் வண்டியின் இயக்கம் ______ இயக்கத்திற்கு எடுத்துக்காட்டு.",
+        "options": [
+          "நேர்கோட்டு",
+          "வட்டப்பாதை",
+          "அலைவு",
+          "தற்சுழற்சி"
+        ],
+        "explanation": "நேர்கோட்டில் இயங்குவது நேர்கோட்டு இயக்கம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 31,
+      "quote": "Gravitational force is a ______ force.",
+      "answer": "A",
+      "en": {
+        "q": "Gravitational force is a ______ force.",
+        "options": [
+          "non-contact",
+          "frictional",
+          "contact",
+          "muscular"
+        ],
+        "explanation": "Gravity acts without touching the object."
+      },
+      "ta": {
+        "q": "புவிஈர்ப்பு விசை ______ விசையாகும்.",
+        "options": [
+          "தொடா",
+          "உராய்வு",
+          "தொடு",
+          "தசை"
+        ],
+        "explanation": "ஈர்ப்பு விசை தொடாமலே செயல்படும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 31,
+      "quote": "Motion of a potter's wheel is an example for ______ motion.",
+      "answer": "C",
+      "en": {
+        "q": "The motion of a potter's wheel is an example of ______ motion.",
+        "options": [
+          "linear",
+          "curvilinear",
+          "rotatory",
+          "zigzag"
+        ],
+        "explanation": "A body turning about its own axis shows rotatory motion."
+      },
+      "ta": {
+        "q": "குயவர் சக்கரத்தின் இயக்கம் ______ இயக்கமாகும்.",
+        "options": [
+          "நேர்கோட்டு",
+          "வளைவுப்பாதை",
+          "தற்சுழற்சி",
+          "ஒழுங்கற்ற"
+        ],
+        "explanation": "தன் அச்சைப் பற்றிச் சுழல்வது தற்சுழற்சி இயக்கம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 31,
+      "quote": "When an object covers equal distances in equal interval of time, it is said to be in ______ motion.",
+      "answer": "B",
+      "en": {
+        "q": "An object covering equal distances in equal intervals of time is in ______ motion.",
+        "options": [
+          "non-uniform",
+          "uniform",
+          "oscillatory",
+          "zigzag"
+        ],
+        "explanation": "This is the definition of uniform motion."
+      },
+      "ta": {
+        "q": "சம கால இடைவெளியில் சம தொலைவைக் கடக்கும் பொருளின் இயக்கம் ______ இயக்கம்.",
+        "options": [
+          "சீரற்ற",
+          "சீரான",
+          "அலைவு",
+          "ஒழுங்கற்ற"
+        ],
+        "explanation": "இது சீரான இயக்கத்தின் வரையறை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 31,
+      "quote": "To and fro motion is called oscillatory motion. (True/False)",
+      "answer": "D",
+      "en": {
+        "q": "Which statement is correct about oscillatory motion?",
+        "options": [
+          "To and fro motion about a fixed point is called linear motion only.",
+          "To and fro motion about a fixed point is called circular motion.",
+          "To and fro motion about a fixed point is called rotatory motion.",
+          "To and fro motion about a fixed point is called oscillatory motion."
+        ],
+        "explanation": "Oscillatory motion is the to-and-fro motion of a body about a fixed point, e.g. a pendulum."
+      },
+      "ta": {
+        "q": "அலைவு இயக்கம் பற்றிய சரியான கூற்று எது?",
+        "options": [
+          "ஒரு புள்ளியைப் பொறுத்த முன்னும் பின்னுமான இயக்கம் நேர்கோட்டு இயக்கம் மட்டுமே.",
+          "ஒரு புள்ளியைப் பொறுத்த முன்னும் பின்னுமான இயக்கம் வட்டப்பாதை இயக்கம்.",
+          "ஒரு புள்ளியைப் பொறுத்த முன்னும் பின்னுமான இயக்கம் தற்சுழற்சி இயக்கம்.",
+          "ஒரு புள்ளியைப் பொறுத்த முன்னும் பின்னுமான இயக்கம் அலைவு இயக்கம்."
+        ],
+        "explanation": "ஒரு நிலையான புள்ளியைப் பொறுத்து முன்னும் பின்னுமாக இயங்குவது அலைவு இயக்கம்; எ.கா. தனிஊசல்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 31,
+      "quote": "Vehicles moving with varying speeds are said to be in uniform motion. (True/False)",
+      "answer": "A",
+      "en": {
+        "q": "Vehicles moving with varying speeds are said to be in ______ motion.",
+        "options": [
+          "non-uniform",
+          "periodic",
+          "uniform",
+          "oscillatory"
+        ],
+        "explanation": "When speed keeps changing, unequal distances are covered in equal times: non-uniform motion."
+      },
+      "ta": {
+        "q": "மாறுபட்ட வேகத்துடன் இயங்கும் வாகனங்கள் ______ இயக்கத்தில் உள்ளன.",
+        "options": [
+          "சீரற்ற",
+          "கால ஒழுங்கு",
+          "சீரான",
+          "அலைவு"
+        ],
+        "explanation": "வேகம் மாறிக்கொண்டே இருந்தால் சம கால இடைவெளிகளில் சமமற்ற தொலைவுகள் கடக்கப்படும்; இது சீரற்ற இயக்கம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 31,
+      "quote": "Vibratory motion and rotatory motion are periodic motions. (True/False)",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following motions is periodic?",
+        "options": [
+          "Only vibratory motion",
+          "Vibratory motion as well as rotatory motion",
+          "Neither vibratory nor rotatory motion",
+          "A sapling swaying irregularly in the wind"
+        ],
+        "explanation": "Vibratory and rotatory motions both repeat after equal intervals of time, so both are periodic."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் எவை கால ஒழுங்கு இயக்கங்கள்?",
+        "options": [
+          "அதிர்வு இயக்கம் மட்டும்",
+          "அதிர்வு இயக்கமும் சுழற்சி இயக்கமும்",
+          "அதிர்வு இயக்கமும் இல்லை, சுழற்சி இயக்கமும் இல்லை",
+          "காற்றில் ஒழுங்கின்றி ஆடும் நாற்று"
+        ],
+        "explanation": "அதிர்வு, சுழற்சி இயக்கங்கள் இரண்டும் சம கால இடைவெளியில் மீண்டும் நிகழ்வதால் இரண்டும் கால ஒழுங்கு இயக்கங்கள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
+      "quote": "Kicking a ball : Contact force :: Falling of leaf : ?",
+      "answer": "D",
+      "en": {
+        "q": "Kicking a ball : Contact force :: Falling of a leaf : ______",
+        "options": [
+          "Contact force",
+          "Rotatory motion",
+          "Periodic motion",
+          "Non-contact force"
+        ],
+        "explanation": "A leaf falls due to gravity, a non-contact force."
+      },
+      "ta": {
+        "q": "பந்தை உதைத்தல் : தொடு விசை :: இலை கீழே விழுதல் : ______",
+        "options": [
+          "தொடு விசை",
+          "தற்சுழற்சி இயக்கம்",
+          "கால ஒழுங்கு இயக்கம்",
+          "தொடா விசை"
+        ],
+        "explanation": "இலை ஈர்ப்பு விசையால் விழுகிறது; அது தொடா விசை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
+      "quote": "Distance : metre :: Speed : ?",
+      "answer": "C",
+      "en": {
+        "q": "Distance : metre :: Speed : ______",
+        "options": [
+          "second",
+          "kilogram/metre",
+          "metre/second",
+          "metre"
+        ],
+        "explanation": "The SI unit of speed is m/s."
+      },
+      "ta": {
+        "q": "தொலைவு : மீட்டர் :: வேகம் : ______",
+        "options": [
+          "வினாடி",
+          "கிலோகிராம்/மீட்டர்",
+          "மீட்டர்/வினாடி",
+          "மீட்டர்"
+        ],
+        "explanation": "வேகத்தின் அலகு மீ/வி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
+      "quote": "Circulatory motion : A spinning top :: Oscillatory motion : ?",
+      "answer": "C",
+      "en": {
+        "q": "Rotatory motion : A spinning top :: Oscillatory motion : ______",
+        "options": [
+          "A rolling ball",
+          "A falling coconut",
+          "A pendulum",
+          "A running sprinter"
+        ],
+        "explanation": "A pendulum is the textbook example of oscillatory motion."
+      },
+      "ta": {
+        "q": "தற்சுழற்சி இயக்கம் : பம்பரம் சுற்றுதல் :: அலைவு இயக்கம் : ______",
+        "options": [
+          "உருளும் பந்து",
+          "விழும் தேங்காய்",
+          "தனிஊசல்",
+          "ஓடும் வீரர்"
+        ],
+        "explanation": "தனிஊசலே அலைவு இயக்கத்திற்கான எடுத்துக்காட்டு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
+      "quote": "The force which acts on an object without physical contact.",
+      "answer": "D",
+      "en": {
+        "q": "The force that acts on an object without physical contact is called ______.",
+        "options": [
+          "contact force",
+          "muscular force",
+          "frictional force",
+          "non-contact force"
+        ],
+        "explanation": "Gravity and magnetism are non-contact forces."
+      },
+      "ta": {
+        "q": "தொடுதல் இன்றி ஒரு பொருள் மீது செயல்படும் விசை ______.",
+        "options": [
+          "தொடு விசை",
+          "தசை விசை",
+          "உராய்வு விசை",
+          "தொடா விசை"
+        ],
+        "explanation": "ஈர்ப்பு, காந்த விசைகள் தொடா விசைகள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
+      "quote": "A change in the position of an object with time.",
+      "answer": "A",
+      "en": {
+        "q": "A change in the position of an object with time is called ______.",
+        "options": [
+          "motion",
+          "rest",
+          "force",
+          "speed"
+        ],
+        "explanation": "This is the definition of motion."
+      },
+      "ta": {
+        "q": "காலத்தைப் பொறுத்து ஒரு பொருளின் நிலை மாறுபடுவது ______.",
+        "options": [
+          "இயக்கம்",
+          "ஓய்வு",
+          "விசை",
+          "வேகம்"
+        ],
+        "explanation": "இது இயக்கத்தின் வரையறை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
+      "quote": "The motion which repeats itself after a fixed interval of time.",
+      "answer": "B",
+      "en": {
+        "q": "A motion that repeats itself after a fixed interval of time is called ______ motion.",
+        "options": [
+          "non-periodic",
+          "periodic",
+          "uniform",
+          "curvilinear"
+        ],
+        "explanation": "This is periodic motion."
+      },
+      "ta": {
+        "q": "குறிப்பிட்ட கால இடைவெளியில் மீண்டும் மீண்டும் நிகழும் இயக்கம் ______ இயக்கம்.",
+        "options": [
+          "கால ஒழுங்கற்ற",
+          "கால ஒழுங்கு",
+          "சீரான",
+          "வளைவுப்பாதை"
+        ],
+        "explanation": "இது கால ஒழுங்கு இயக்கம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
+      "quote": "A machine capable of carrying out a complex series of actions automatically.",
+      "answer": "A",
+      "en": {
+        "q": "A machine capable of carrying out a complex series of actions automatically is a ______.",
+        "options": [
+          "robot",
+          "spinner",
+          "odometer",
+          "pendulum"
+        ],
+        "explanation": "A robot is an automatic machine."
+      },
+      "ta": {
+        "q": "சிக்கலான செயல்களைத் தானாகச் செய்யும் இயந்திரம் ______.",
+        "options": [
+          "ரோபோ",
+          "சுழலி",
+          "ஓடோமீட்டர்",
+          "தனிஊசல்"
+        ],
+        "explanation": "ரோபோ தானியங்கி இயந்திரம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
+      "quote": "Define force. / Forces are push or pull by an animate or inanimate agency.",
+      "answer": "D",
+      "en": {
+        "q": "A push or a pull on an object is called ______.",
+        "options": [
+          "distance",
+          "speed",
+          "rest",
+          "force"
+        ],
+        "explanation": "Force is a push or a pull by an animate or inanimate agency."
+      },
+      "ta": {
+        "q": "ஒரு பொருளின் மீதான தள்ளுதல் அல்லது இழுத்தல் ______ எனப்படும்.",
+        "options": [
+          "தொலைவு",
+          "வேகம்",
+          "ஓய்வு",
+          "விசை"
+        ],
+        "explanation": "விசை என்பது தள்ளுதல் அல்லது இழுத்தல்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
+      "quote": "Name different types of motion based on the path.",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following is NOT a type of motion based on the path?",
+        "options": [
+          "Linear motion",
+          "Uniform motion",
+          "Curvilinear motion",
+          "Zigzag motion"
+        ],
+        "explanation": "Uniform motion is based on speed, not on the path."
+      },
+      "ta": {
+        "q": "பாதையின் அடிப்படையிலான இயக்கங்களுள் அடங்காதது எது?",
+        "options": [
+          "நேர்கோட்டு இயக்கம்",
+          "சீரான இயக்கம்",
+          "வளைவுப்பாதை இயக்கம்",
+          "ஒழுங்கற்ற இயக்கம்"
+        ],
+        "explanation": "சீரான இயக்கம் வேகத்தை அடிப்படையாகக் கொண்டது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
+      "quote": "If you are sitting in a moving car, will you be at rest or motion with respect to your friend sitting next to you?",
+      "answer": "C",
+      "en": {
+        "q": "You are sitting in a moving car. With respect to your friend sitting next to you, you are ______.",
+        "options": [
+          "in motion",
+          "in oscillation",
+          "at rest",
+          "in rotation"
+        ],
+        "explanation": "Your position does not change relative to your friend, so you are at rest."
+      },
+      "ta": {
+        "q": "இயங்கும் மகிழுந்தில் அமர்ந்துள்ள நீ, அருகில் அமர்ந்த நண்பனைப் பொறுத்து ______.",
+        "options": [
+          "இயக்க நிலையில் இருக்கிறாய்",
+          "அலைவில் இருக்கிறாய்",
+          "ஓய்வு நிலையில் இருக்கிறாய்",
+          "சுழற்சியில் இருக்கிறாய்"
+        ],
+        "explanation": "நண்பனைப் பொறுத்து உன் நிலை மாறவில்லை; எனவே ஓய்வு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 32,
+      "quote": "Rotation of the earth is a periodic motion. Justify.",
+      "answer": "B",
+      "en": {
+        "q": "Rotation of the Earth is a periodic motion because ______.",
+        "options": [
+          "its speed changes every minute",
+          "it repeats itself every 24 hours",
+          "it has no fixed path",
+          "it is a to-and-fro motion"
+        ],
+        "explanation": "It repeats after a fixed interval (one day)."
+      },
+      "ta": {
+        "q": "பூமியின் சுழற்சி கால ஒழுங்கு இயக்கமாகும், ஏனெனில் ______.",
+        "options": [
+          "அதன் வேகம் ஒவ்வொரு நிமிடமும் மாறுகிறது",
+          "அது ஒவ்வொரு 24 மணிநேரத்திலும் மீண்டும் நிகழ்கிறது",
+          "அதற்கு நிலையான பாதை இல்லை",
+          "அது முன்பின் இயக்கம்"
+        ],
+        "explanation": "ஒரு குறிப்பிட்ட கால இடைவெளியில் (ஒரு நாள்) மீண்டும் நிகழ்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 32,
+      "quote": "A vehicle covers a distance of 400 km in 5 hour. Calculate its speed.",
+      "answer": "B",
+      "en": {
+        "q": "A vehicle covers 400 km in 5 hours. Its speed is ______.",
+        "options": [
+          "2000 km/h",
+          "80 km/h",
+          "85 km/h",
+          "8 km/h"
+        ],
+        "explanation": "Speed = 400 / 5 = 80 km/h."
+      },
+      "ta": {
+        "q": "ஒரு வண்டி 5 மணி நேரத்தில் 400 கி.மீ கடந்தால் அதன் வேகம் ______.",
+        "options": [
+          "2000 கி.மீ/மணி",
+          "80 கி.மீ/மணி",
+          "85 கி.மீ/மணி",
+          "8 கி.மீ/மணி"
+        ],
+        "explanation": "வேகம் = 400 / 5 = 80 கி.மீ/மணி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 26,
+      "quote": "If you travel 10 kilometres in 2 hours, your speed is ___ km per hour.",
+      "answer": "B",
+      "en": {
+        "q": "If you travel 10 km in 2 hours, your speed is ______.",
+        "options": [
+          "12 km/h",
+          "5 km/h",
+          "20 km/h",
+          "0.2 km/h"
+        ],
+        "explanation": "10 ÷ 2 = 5 km/h."
+      },
+      "ta": {
+        "q": "10 கி.மீ தொலைவை 2 மணி நேரத்தில் கடந்தால் உன் வேகம் ______.",
+        "options": [
+          "12 கி.மீ/மணி",
+          "5 கி.மீ/மணி",
+          "20 கி.மீ/மணி",
+          "0.2 கி.மீ/மணி"
+        ],
+        "explanation": "10 ÷ 2 = 5 கி.மீ/மணி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 26,
+      "quote": "If you run fast at 20 kilometres per hour for 2 hours, you will cover ___ km",
+      "answer": "C",
+      "en": {
+        "q": "Running at 20 km/h for 2 hours, you cover ______.",
+        "options": [
+          "10 km",
+          "22 km",
+          "40 km",
+          "80 km"
+        ],
+        "explanation": "Distance = speed × time = 20 × 2 = 40 km."
+      },
+      "ta": {
+        "q": "மணிக்கு 20 கி.மீ வேகத்தில் 2 மணி நேரம் ஓடினால் கடக்கும் தொலைவு ______.",
+        "options": [
+          "10 கி.மீ",
+          "22 கி.மீ",
+          "40 கி.மீ",
+          "80 கி.மீ"
+        ],
+        "explanation": "தொலைவு = வேகம் × காலம் = 20 × 2 = 40 கி.மீ."
+      }
+    }
+  ]
+}
