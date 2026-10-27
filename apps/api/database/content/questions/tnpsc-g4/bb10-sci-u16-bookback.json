@@ -10,14 +10,14 @@
       "bloom": "understand",
       "page": 239,
       "quote": "5. The hormone which has negative effect on apical dominance is _________.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Which plant hormone has a negative effect on apical dominance?",
         "options": [
           "Auxin",
           "Abscisic acid only",
-          "Cytokinin",
-          "Indole acetic acid"
+          "Indole acetic acid",
+          "Cytokinin"
         ],
         "explanation": "Auxin has a positive effect on apical dominance; cytokinin overcomes it and promotes growth of lateral buds."
       },
@@ -26,8 +26,8 @@
         "options": [
           "ஆக்சின்",
           "அப்சிசிக் அமிலம் மட்டும்",
-          "சைட்டோகைனின்",
-          "இண்டோல் அசிட்டிக் அமிலம்"
+          "இண்டோல் அசிட்டிக் அமிலம்",
+          "சைட்டோகைனின்"
         ],
         "explanation": "ஆக்சின் நுனி ஆதிக்கத்திற்குச் சாதகமாகச் செயல்படுகிறது; சைட்டோகைனின் அதற்கு எதிராகப் பக்க மொட்டுகளின் வளர்ச்சியைத் தூண்டுகிறது."
       }
@@ -39,12 +39,12 @@
       "bloom": "understand",
       "page": 240,
       "quote": "3. Ethylene retards senescence of leaves, flowers and fruits.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which plant hormone promotes senescence and abscission of leaves, flowers and fruits?",
         "options": [
-          "Ethylene",
           "Cytokinin",
+          "Ethylene",
           "Auxin",
           "Gibberellin"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "இலை, மலர், கனிகளின் முதுமையடைதலையும் உதிர்தலையும் தூண்டும் தாவர ஹார்மோன் எது?",
         "options": [
-          "எத்திலீன்",
           "சைட்டோகைனின்",
+          "எத்திலீன்",
           "ஆக்சின்",
           "ஜிப்ரல்லின்"
         ],
@@ -68,24 +68,24 @@
       "bloom": "understand",
       "page": 240,
       "quote": "5. Pituitary gland is divided into four lobes.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "In human beings the pituitary gland is composed of",
         "options": [
-          "four lobes",
+          "an anterior lobe and a posterior lobe",
           "a single lobe",
           "three lobes including an intermediate lobe",
-          "an anterior lobe and a posterior lobe"
+          "four lobes"
         ],
         "explanation": "The book statement is false: the gland has an anterior lobe (adenohypophysis) and a posterior lobe (neurohypophysis); the intermediate lobe is non-existent in humans."
       },
       "ta": {
         "q": "மனிதரில் பிட்யூட்டரி சுரப்பி எவற்றால் ஆனது?",
         "options": [
-          "நான்கு கதுப்புகளால்",
+          "முன் கதுப்பு, பின் கதுப்பு ஆகிய இரண்டால்",
           "ஒரே கதுப்பால்",
           "இடைக் கதுப்பு உட்பட மூன்று கதுப்புகளால்",
-          "முன் கதுப்பு, பின் கதுப்பு ஆகிய இரண்டால்"
+          "நான்கு கதுப்புகளால்"
         ],
         "explanation": "புத்தகக் கூற்று தவறு; அடினோஹைப்போபைசிஸ் (முன்) மற்றும் நியூரோஹைப்போபைசிஸ் (பின்) என இரு கதுப்புகள் உள்ளன; மனிதரில் இடைக் கதுப்பு இல்லை."
       }
@@ -97,13 +97,13 @@
       "bloom": "understand",
       "page": 240,
       "quote": "6. Estrogen is secreted by corpus luteum.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "In the human ovary, estrogen is produced by the",
         "options": [
           "corpus luteum",
-          "Graafian follicles",
           "Leydig cells",
+          "Graafian follicles",
           "zona glomerulosa"
         ],
         "explanation": "The book statement is false: estrogen comes from the Graafian follicles; progesterone comes from the corpus luteum."
@@ -112,8 +112,8 @@
         "q": "மனித அண்டகத்தில் ஈஸ்ட்ரோஜன் எதிலிருந்து சுரக்கிறது?",
         "options": [
           "கார்பஸ் லூட்டியம்",
-          "கிராஃபியன் பாலிக்கிள்கள்",
           "லீடிக் செல்கள்",
+          "கிராஃபியன் பாலிக்கிள்கள்",
           "சோனா குளோமருலோசா"
         ],
         "explanation": "புத்தகக் கூற்று தவறு; ஈஸ்ட்ரோஜன் கிராஃபியன் பாலிக்கிள்களிலிருந்தும், புரோஜெஸ்டிரான் கார்பஸ் லூட்டியத்திலிருந்தும் சுரக்கின்றன."
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 241,
       "quote": "8. What are the hormones secreted by posterior lobe of the pituitary gland?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The hormones secreted by the posterior lobe of the pituitary gland are",
         "options": [
           "growth hormone and prolactin",
           "TSH and ACTH",
-          "FSH and LH",
-          "vasopressin (ADH) and oxytocin"
+          "vasopressin (ADH) and oxytocin",
+          "FSH and LH"
         ],
         "explanation": "The posterior pituitary secretes vasopressin (antidiuretic hormone) and oxytocin; the others are anterior pituitary hormones."
       },
@@ -316,8 +316,8 @@
         "options": [
           "வளர்ச்சி ஹார்மோன், புரோலாக்டின்",
           "TSH, ACTH",
-          "FSH, LH",
-          "வாசோபிரஸ்ஸின் (ADH), ஆக்ஸிடோசின்"
+          "வாசோபிரஸ்ஸின் (ADH), ஆக்ஸிடோசின்",
+          "FSH, LH"
         ],
         "explanation": "பின் பிட்யூட்டரி வாசோபிரஸ்ஸின் (ADH), ஆக்ஸிடோசின் ஆகியவற்றைச் சுரக்கிறது; மற்றவை முன் பிட்யூட்டரி ஹார்மோன்கள்."
       }
@@ -329,12 +329,12 @@
       "bloom": "apply",
       "page": 241,
       "quote": "1. What would be expected to happen if a. Gibberellin is applied to rice seedlings.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "If gibberellin is applied to rice seedlings, they will",
         "options": [
-          "become dwarf",
           "show excessive stem elongation like the 'foolish seedling' (Bakanae) disease",
+          "become dwarf",
           "stop growing",
           "turn yellow and die at once"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "நெல் நாற்றுகளில் ஜிப்ரல்லின் தெளிக்கப்பட்டால் என்ன நிகழும்?",
         "options": [
-          "குள்ளமாகும்",
           "'முட்டாள் நாற்று' (பக்கானே) நோயைப் போல அதிகமாக நீளும்",
+          "குள்ளமாகும்",
           "வளர்ச்சி நின்றுவிடும்",
           "உடனே மஞ்சளாகி இறக்கும்"
         ],
@@ -358,13 +358,13 @@
       "bloom": "apply",
       "page": 241,
       "quote": "5. Susan's father feels very tired and frequently urinates ... advised to take an injection daily to maintain his blood glucose level. What would be the possible cause?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "A man is very tired, urinates frequently and needs a daily injection to keep blood glucose normal. The likely cause is",
         "options": [
           "excess thyroxine",
-          "deficiency of ADH",
           "insufficient insulin secretion by the beta cells of the pancreas",
+          "deficiency of ADH",
           "excess growth hormone"
         ],
         "explanation": "Beta cells of the islets of Langerhans secrete insulin; its deficiency causes diabetes mellitus with raised glucose, glycosuria and polyuria, treated with insulin injections."
@@ -373,8 +373,8 @@
         "q": "ஒருவர் மிகவும் சோர்வடைந்து அடிக்கடி சிறுநீர் கழிக்கிறார்; இரத்தச் சர்க்கரையைப் பராமரிக்கத் தினமும் ஊசி போட அறிவுறுத்தப்படுகிறார். சாத்தியமான காரணம்",
         "options": [
           "அதிகத் தைராக்சின்",
-          "ADH குறைபாடு",
           "கணையத்தின் பீட்டா செல்கள் போதுமான இன்சுலினைச் சுரக்காதது",
+          "ADH குறைபாடு",
           "அதிக வளர்ச்சி ஹார்மோன்"
         ],
         "explanation": "லாங்கர்ஹான்ஸ் திட்டுகளின் பீட்டா செல்கள் இன்சுலினைச் சுரக்கின்றன; குறைவால் நீரிழிவு நோய் ஏற்பட்டு இன்சுலின் ஊசி தேவைப்படுகிறது."

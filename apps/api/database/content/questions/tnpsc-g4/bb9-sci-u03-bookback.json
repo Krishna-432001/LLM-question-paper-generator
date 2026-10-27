@@ -10,14 +10,14 @@
       "bloom": "understand",
       "page": 36,
       "quote": "3. In a pressure cooker, the food is cooked faster because (b) increased pressure raises the boiling point.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "In a pressure cooker the food is cooked faster because",
         "options": [
           "increased pressure lowers the boiling point",
-          "decreased pressure raises the boiling point",
+          "increased pressure raises the boiling point",
           "increased pressure lowers the melting point",
-          "increased pressure raises the boiling point"
+          "decreased pressure raises the boiling point"
         ],
         "explanation": "Higher pressure inside the cooker raises the boiling point of water, so cooking occurs at a higher temperature."
       },
@@ -25,9 +25,9 @@
         "q": "அழுத்த சமையற்கலனில் உணவு விரைவாக சமைக்கப்படுவதற்குக் காரணம்",
         "options": [
           "அதிகரிக்கப்பட்ட அழுத்தம் கொதிநிலையைக் குறைக்கிறது",
-          "குறைக்கப்பட்ட அழுத்தம் கொதிநிலையை உயர்த்துகிறது",
+          "அதிகரிக்கப்பட்ட அழுத்தம் கொதிநிலையை உயர்த்துகிறது",
           "அதிகரிக்கப்பட்ட அழுத்தம் உருகுநிலையைக் குறைக்கிறது",
-          "அதிகரிக்கப்பட்ட அழுத்தம் கொதிநிலையை உயர்த்துகிறது"
+          "குறைக்கப்பட்ட அழுத்தம் கொதிநிலையை உயர்த்துகிறது"
         ],
         "explanation": "அதிக அழுத்தத்தில் நீரின் கொதிநிலை உயர்வதால் உணவு அதிக வெப்பநிலையில் விரைவாகச் சமைக்கப்படுகிறது."
       }
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 36,
       "quote": "II. 1. The weight of the body immersed in a liquid appears to be ______ than its actual weight.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The weight of a body immersed in a liquid appears to be ______ than its actual weight.",
         "options": [
           "more",
           "equal",
-          "less",
-          "double"
+          "double",
+          "less"
         ],
         "explanation": "Due to the upthrust the body apparently loses weight equal to the weight of the liquid displaced."
       },
@@ -84,8 +84,8 @@
         "options": [
           "அதிகமாக",
           "சமமாக",
-          "குறைவாக",
-          "இரு மடங்காக"
+          "இரு மடங்காக",
+          "குறைவாக"
         ],
         "explanation": "மிதப்பு விசையால் பொருள் இடப்பெயர்த்த திரவத்தின் எடைக்குச் சமமான எடையை இழந்ததாகத் தோன்றும்."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 36,
       "quote": "2. The instrument used to measure atmospheric pressure is ______.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The instrument used to measure atmospheric pressure is the",
         "options": [
           "hydrometer",
-          "barometer",
           "lactometer",
+          "barometer",
           "pycnometer"
         ],
         "explanation": "A barometer (e.g. the mercury barometer designed by Torricelli) measures atmospheric pressure."
@@ -112,8 +112,8 @@
         "q": "வளிமண்டல அழுத்தத்தை அளவிடப் பயன்படும் கருவி",
         "options": [
           "திரவமானி",
-          "காற்றழுத்தமானி",
           "பால்மானி",
+          "காற்றழுத்தமானி",
           "அடர்த்தி புட்டி"
         ],
         "explanation": "வளிமண்டல அழுத்தத்தை அளக்கும் கருவி காற்றழுத்தமானி (பாரோமீட்டர்)."
@@ -126,24 +126,24 @@
       "bloom": "remember",
       "page": 36,
       "quote": "3. The magnitude of buoyant force acting on an object immersed in a liquid depends on ______ of the liquid.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The magnitude of the buoyant force on an object immersed in a liquid depends on the ______ of the liquid.",
         "options": [
-          "density",
+          "shape of the vessel",
           "colour",
           "temperature of the object",
-          "shape of the vessel"
+          "density"
         ],
         "explanation": "Buoyant force depends on the density of the fluid and the volume displaced."
       },
       "ta": {
         "q": "திரவத்தில் மூழ்கியுள்ள பொருளின் மீது செயல்படும் மிதப்பு விசையின் எண்மதிப்பு திரவத்தின் ______ ஐப் பொறுத்தது.",
         "options": [
-          "அடர்த்தி",
+          "கலனின் வடிவம்",
           "நிறம்",
           "பொருளின் வெப்பநிலை",
-          "கலனின் வடிவம்"
+          "அடர்த்தி"
         ],
         "explanation": "மிதப்பு விசை திரவத்தின் அடர்த்தி, இடப்பெயர்த்த பருமன் ஆகியவற்றைப் பொறுத்தது."
       }
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 36,
       "quote": "III. 1. The weight of fluid displaced determines the buoyant force on an object.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The buoyant force on an object immersed in a fluid is determined by",
         "options": [
           "the weight of the object",
           "the colour of the fluid",
-          "the shape of the container",
-          "the weight of the fluid displaced"
+          "the weight of the fluid displaced",
+          "the shape of the container"
         ],
         "explanation": "By Archimedes' principle the upthrust equals the weight of the fluid displaced; the book statement is true."
       },
@@ -171,8 +171,8 @@
         "options": [
           "பொருளின் எடை",
           "திரவத்தின் நிறம்",
-          "கலனின் வடிவம்",
-          "இடப்பெயர்த்த திரவத்தின் எடை"
+          "இடப்பெயர்த்த திரவத்தின் எடை",
+          "கலனின் வடிவம்"
         ],
         "explanation": "ஆர்க்கிமிடிஸ் தத்துவப்படி மிதப்பு விசை, இடப்பெயர்த்த திரவத்தின் எடைக்குச் சமம்."
       }
@@ -184,13 +184,13 @@
       "bloom": "understand",
       "page": 36,
       "quote": "2. The shape of an object helps to determine whether the object will float or not.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which statement about floating of objects is correct according to the book?",
         "options": [
           "Only the colour of an object decides whether it floats",
-          "The shape of an object helps to determine whether it floats",
           "Shape never matters in floating",
+          "The shape of an object helps to determine whether it floats",
           "Only the volume of the container decides floating"
         ],
         "explanation": "The book accepts that shape helps decide floating (e.g. a ship floats while an iron nail sinks)."
@@ -199,8 +199,8 @@
         "q": "பொருட்கள் மிதப்பது குறித்து நூலின்படி சரியான கூற்று",
         "options": [
           "பொருளின் நிறமே மிதப்பதைத் தீர்மானிக்கும்",
-          "பொருளின் வடிவம் அது மிதக்குமா என்பதைத் தீர்மானிக்க உதவும்",
           "மிதப்பதில் வடிவத்திற்குப் பங்கில்லை",
+          "பொருளின் வடிவம் அது மிதக்குமா என்பதைத் தீர்மானிக்க உதவும்",
           "கலனின் பருமன் மட்டுமே மிதப்பைத் தீர்மானிக்கும்"
         ],
         "explanation": "கப்பல் மிதக்கிறது; இரும்பு ஆணி மூழ்குகிறது. எனவே வடிவம் மிதத்தலைத் தீர்மானிக்க உதவுகிறது."
@@ -213,14 +213,14 @@
       "bloom": "understand",
       "page": 36,
       "quote": "4. Archimedes' principle can also be applied to gases.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Archimedes' principle",
         "options": [
           "applies only to liquids",
-          "applies only to solids",
+          "applies to gases as well as liquids",
           "applies only in a vacuum",
-          "applies to gases as well as liquids"
+          "applies only to solids"
         ],
         "explanation": "Archimedes' principle holds for all fluids, i.e. liquids and gases (e.g. a balloon in air)."
       },
@@ -228,9 +228,9 @@
         "q": "ஆர்க்கிமிடிஸ் தத்துவம்",
         "options": [
           "திரவங்களுக்கு மட்டும் பொருந்தும்",
-          "திடப்பொருட்களுக்கு மட்டும் பொருந்தும்",
+          "திரவங்களுக்கும் வாயுக்களுக்கும் பொருந்தும்",
           "வெற்றிடத்தில் மட்டும் பொருந்தும்",
-          "திரவங்களுக்கும் வாயுக்களுக்கும் பொருந்தும்"
+          "திடப்பொருட்களுக்கு மட்டும் பொருந்தும்"
         ],
         "explanation": "ஆர்க்கிமிடிஸ் தத்துவம் அனைத்துப் பாய்மங்களுக்கும் (திரவம், வாயு) பொருந்தும்."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 36,
       "quote": "5. Hydraulic press is used in the extraction of oil from oil seeds.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Which of the following uses a hydraulic press?",
         "options": [
           "Testing the purity of milk",
           "Measuring atmospheric pressure",
-          "Extraction of oil from oil seeds",
-          "Measuring relative density of a liquid"
+          "Measuring relative density of a liquid",
+          "Extraction of oil from oil seeds"
         ],
         "explanation": "A hydraulic press (based on Pascal's law) is used, among others, to extract oil from oil seeds."
       },
@@ -258,8 +258,8 @@
         "options": [
           "பாலின் தூய்மையைச் சோதிக்க",
           "வளிமண்டல அழுத்தத்தை அளக்க",
-          "எண்ணெய் வித்துக்களிலிருந்து எண்ணெய் எடுக்க",
-          "திரவத்தின் ஒப்படர்த்தியை அளக்க"
+          "திரவத்தின் ஒப்படர்த்தியை அளக்க",
+          "எண்ணெய் வித்துக்களிலிருந்து எண்ணெய் எடுக்க"
         ],
         "explanation": "பாஸ்கல் விதியை அடிப்படையாகக் கொண்ட நீரியல் அழுத்தி எண்ணெய் வித்துக்களிலிருந்து எண்ணெய் எடுக்கப் பயன்படுகிறது."
       }
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 37,
       "quote": "IV. Match the following. Density - Mass/Volume; Pascal's law - Pressure; Pressure exerted by a fluid - h rho g; Lactometer - Milk",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Match List I with List II:\n(a) Density\n(b) Pascal's law\n(c) Pressure exerted by a fluid\n(d) Lactometer\n— \n(1) Milk\n(2) Pressure transmitted equally in a liquid\n(3) h rho g\n(4) Mass / Volume",
         "options": [
           "a-2, b-4, c-3, d-1",
-          "a-4, b-2, c-3, d-1",
+          "a-3, b-4, c-2, d-1",
           "a-4, b-2, c-1, d-3",
-          "a-3, b-4, c-2, d-1"
+          "a-4, b-2, c-3, d-1"
         ],
         "explanation": "Density = mass/volume; Pascal's law concerns transmission of pressure; pressure due to a liquid column = h rho g; a lactometer tests milk."
       },
@@ -286,9 +286,9 @@
         "q": "பட்டியல் I-ஐப் பட்டியல் II உடன் பொருத்துக:\n(a) அடர்த்தி\n(b) பாஸ்கல் விதி\n(c) பாய்மம் ஏற்படுத்தும் அழுத்தம்\n(d) பால்மானி\n— \n(1) பால்\n(2) திரவத்தில் சமமாகப் பரவும் அழுத்தம்\n(3) h rho g\n(4) நிறை / பருமன்",
         "options": [
           "a-2, b-4, c-3, d-1",
-          "a-4, b-2, c-3, d-1",
+          "a-3, b-4, c-2, d-1",
           "a-4, b-2, c-1, d-3",
-          "a-3, b-4, c-2, d-1"
+          "a-4, b-2, c-3, d-1"
         ],
         "explanation": "அடர்த்தி = நிறை/பருமன்; பாஸ்கல் விதி - அழுத்தப் பரவல்; திரவ அழுத்தம் = h rho g; பால்மானி பாலைச் சோதிக்கும்."
       }
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 37,
       "quote": "4. What is meant by atmospheric pressure?",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Atmospheric pressure is the",
         "options": [
-          "pressure inside a tyre",
-          "pressure of the sea water",
           "pressure exerted by the atmospheric gases on the surface of the Earth and its surroundings",
+          "pressure of the sea water",
+          "pressure inside a tyre",
           "pressure of mercury alone"
         ],
         "explanation": "The pressure exerted by the atmospheric gases on their surroundings and on the surface of the Earth is called atmospheric pressure."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "வளிமண்டல அழுத்தம் என்பது",
         "options": [
-          "டயரினுள் உள்ள அழுத்தம்",
-          "கடல்நீரின் அழுத்தம்",
           "வளிமண்டல வாயுக்கள் புவிப்பரப்பின் மீதும் சுற்றுப்புறத்தின் மீதும் செலுத்தும் அழுத்தம்",
+          "கடல்நீரின் அழுத்தம்",
+          "டயரினுள் உள்ள அழுத்தம்",
           "பாதரசத்தின் அழுத்தம் மட்டும்"
         ],
         "explanation": "வளிமண்டல வாயுக்கள் புவிப்பரப்பின் மீது ஏற்படுத்தும் அழுத்தமே வளிமண்டல அழுத்தம்."
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 37,
       "quote": "5. State Pascal's law.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Pascal's law states that",
         "options": [
           "pressure in a liquid decreases with depth",
           "a body in a fluid loses weight equal to the weight of the fluid displaced",
-          "external pressure applied on an incompressible liquid at rest is transmitted equally in all directions",
-          "atmospheric pressure is 760 mm of mercury"
+          "atmospheric pressure is 760 mm of mercury",
+          "external pressure applied on an incompressible liquid at rest is transmitted equally in all directions"
         ],
         "explanation": "Pascal's law: pressure applied to an enclosed incompressible liquid is transmitted without change to every point in the liquid."
       },
@@ -374,8 +374,8 @@
         "options": [
           "ஆழம் அதிகரிக்க அழுத்தம் குறையும்",
           "திரவத்தில் மூழ்கிய பொருள் இடப்பெயர்த்த திரவத்தின் எடையை இழக்கும்",
-          "அடைபட்ட, அமுக்க இயலாத ஓய்வுநிலைத் திரவத்தின் மீது செலுத்தப்படும் புறஅழுத்தம் எல்லாத் திசைகளிலும் சமமாகப் பரவும்",
-          "வளிமண்டல அழுத்தம் 760 மி.மீ பாதரசம்"
+          "வளிமண்டல அழுத்தம் 760 மி.மீ பாதரசம்",
+          "அடைபட்ட, அமுக்க இயலாத ஓய்வுநிலைத் திரவத்தின் மீது செலுத்தப்படும் புறஅழுத்தம் எல்லாத் திசைகளிலும் சமமாகப் பரவும்"
         ],
         "explanation": "பாஸ்கல் விதிப்படி திரவத்தின் மீதான அழுத்தம் மாற்றமின்றி எல்லாப் புள்ளிகளுக்கும் சமமாகப் பரவும்."
       }
@@ -445,24 +445,24 @@
       "bloom": "apply",
       "page": 37,
       "quote": "VIII. 1. A block of wood of weight 200 g floats on the surface of water. If the volume of block is 300 cm^3, calculate the upthrust due to water.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "A block of wood weighing 200 g (200 gf) floats on water; its volume is 300 cm^3. The upthrust due to water is",
         "options": [
-          "300 gf",
+          "200 gf (about 1.96 N)",
           "100 gf",
           "500 gf",
-          "200 gf (about 1.96 N)"
+          "300 gf"
         ],
         "explanation": "A floating body displaces water equal to its own weight, so upthrust = weight of the block = 200 gf (about 1.96 N)."
       },
       "ta": {
         "q": "200 கி எடையுள்ள மரக்கட்டை நீரில் மிதக்கிறது; அதன் பருமன் 300 செ.மீ^3. நீரினால் ஏற்படும் உந்துவிசை",
         "options": [
-          "300 கி எடை",
+          "200 கி எடை (ஏறத்தாழ 1.96 N)",
           "100 கி எடை",
           "500 கி எடை",
-          "200 கி எடை (ஏறத்தாழ 1.96 N)"
+          "300 கி எடை"
         ],
         "explanation": "மிதக்கும் பொருள் தன் எடைக்குச் சமமான நீரை இடப்பெயர்க்கும்; எனவே உந்துவிசை = 200 கி எடை (ஏறத்தாழ 1.96 N)."
       }
@@ -474,24 +474,24 @@
       "bloom": "apply",
       "page": 37,
       "quote": "IX. 1. How high does the mercury level in barometer stand on a day when atmospheric pressure is 98.6 kPa?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "On a day when the atmospheric pressure is 98.6 kPa, the height of the mercury column in a barometer is about (rho = 13600 kg m^-3, g = 9.8 m s^-2)",
         "options": [
-          "0.76 m",
+          "0.74 m",
           "7.4 m",
           "0.074 m",
-          "0.74 m"
+          "0.76 m"
         ],
         "explanation": "h = P / (rho g) = 98600 / (13600 x 9.8) = 0.74 m (74 cm)."
       },
       "ta": {
         "q": "வளிமண்டல அழுத்தம் 98.6 kPa ஆக உள்ள நாளில் பாதரசக் காற்றழுத்தமானியில் பாதரச மட்டத்தின் உயரம் ஏறத்தாழ (rho = 13600 கி.கி மீ^-3, g = 9.8 மீ வி^-2)",
         "options": [
-          "0.76 மீ",
+          "0.74 மீ",
           "7.4 மீ",
           "0.074 மீ",
-          "0.74 மீ"
+          "0.76 மீ"
         ],
         "explanation": "h = P / (rho g) = 98600 / (13600 x 9.8) = 0.74 மீ (74 செ.மீ)."
       }
@@ -532,13 +532,13 @@
       "bloom": "understand",
       "page": 37,
       "quote": "4. Why does a boat with a hole in the bottom would eventually sink?",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "A boat with a hole in the bottom eventually sinks because",
         "options": [
-          "water enters and the average density of the boat becomes greater than that of water",
-          "the boat becomes lighter",
           "water pressure decreases",
+          "the boat becomes lighter",
+          "water enters and the average density of the boat becomes greater than that of water",
           "the boat's density becomes zero"
         ],
         "explanation": "As water fills the boat, its average density exceeds that of water and the weight exceeds the maximum buoyant force."
@@ -546,9 +546,9 @@
       "ta": {
         "q": "அடியில் துளையுள்ள படகு இறுதியில் மூழ்குவதற்குக் காரணம்",
         "options": [
-          "நீர் புகுந்து படகின் சராசரி அடர்த்தி நீரின் அடர்த்தியை விட அதிகமாவது",
-          "படகு இலகுவாகிவிடுவது",
           "நீரின் அழுத்தம் குறைவது",
+          "படகு இலகுவாகிவிடுவது",
+          "நீர் புகுந்து படகின் சராசரி அடர்த்தி நீரின் அடர்த்தியை விட அதிகமாவது",
           "படகின் அடர்த்தி சுழியாவது"
         ],
         "explanation": "நீர் புகுவதால் படகின் சராசரி அடர்த்தி நீரை விட அதிகமாகி எடை மிதப்பு விசையை மிஞ்சுகிறது."

@@ -10,12 +10,12 @@
       "bloom": "remember",
       "page": 114,
       "quote": "Air contains 78.09% nitrogen, 20.95% oxygen, 0.93% argon, 0.04% carbon dioxide and small amount of other gases.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which gas is present in the largest percentage in air?",
         "options": [
-          "Nitrogen (78.09%)",
           "Oxygen (20.95%)",
+          "Nitrogen (78.09%)",
           "Argon (0.93%)",
           "Carbon dioxide (0.04%)"
         ],
@@ -24,8 +24,8 @@
       "ta": {
         "q": "காற்றில் மிக அதிகச் சதவீதம் உள்ள வாயு எது?",
         "options": [
-          "நைட்ரஜன் (78.09%)",
           "ஆக்சிஜன் (20.95%)",
+          "நைட்ரஜன் (78.09%)",
           "ஆர்கான் (0.93%)",
           "கார்பன் டை ஆக்சைடு (0.04%)"
         ],
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 115,
       "quote": "Oxygen reacts with metals like sodium, potassium, magnesium, aluminium, iron etc., to form their corresponding metal oxides which are generally basic in nature. Oxygen reacts with non-metals to give non-metallic oxides, which are generally acidic in nature.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Metal oxides are generally ______ in nature, while non-metal oxides are generally ______.",
         "options": [
-          "basic, acidic",
-          "acidic, basic",
           "neutral, neutral",
+          "acidic, basic",
+          "basic, acidic",
           "acidic, acidic"
         ],
         "explanation": "Oxides of metals are basic; oxides of non-metals are acidic."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "உலோக ஆக்சைடுகள் பொதுவாக ______ தன்மையும், அலோக ஆக்சைடுகள் பொதுவாக ______ தன்மையும் கொண்டவை.",
         "options": [
-          "காரம், அமிலம்",
-          "அமிலம், காரம்",
           "நடுநிலை, நடுநிலை",
+          "அமிலம், காரம்",
+          "காரம், அமிலம்",
           "அமிலம், அமிலம்"
         ],
         "explanation": "உலோக ஆக்சைடுகள் காரத்தன்மை; அலோக ஆக்சைடுகள் அமிலத்தன்மை உடையவை."
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 116,
       "quote": "Hydrocarbons (compounds containing C and H) react with oxygen to form carbon dioxide and water vapour. E.g. Wood, Petrol, Diesel, LPG. They produce heat and light energy; hence they serve as fuel.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Hydrocarbons burn in oxygen to form ______.",
         "options": [
           "carbon monoxide and hydrogen",
-          "nitrogen and water",
+          "carbon dioxide and water vapour",
           "oxygen and carbon",
-          "carbon dioxide and water vapour"
+          "nitrogen and water"
         ],
         "explanation": "Hydrocarbons contain carbon and hydrogen; they serve as fuels."
       },
@@ -199,9 +199,9 @@
         "q": "ஹைட்ரோகார்பன்கள் ஆக்சிஜனில் எரிந்து ______ தருகின்றன.",
         "options": [
           "கார்பன் மோனாக்சைடு, ஹைட்ரஜன்",
-          "நைட்ரஜன், நீர்",
+          "கார்பன் டை ஆக்சைடு, நீராவி",
           "ஆக்சிஜன், கார்பன்",
-          "கார்பன் டை ஆக்சைடு, நீராவி"
+          "நைட்ரஜன், நீர்"
         ],
         "explanation": "ஹைட்ரோகார்பன்கள் கார்பன், ஹைட்ரஜன் கொண்டவை; எரிபொருளாகப் பயன்படுகின்றன."
       }
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 116,
       "quote": "Oxygen is used as oxy-acetylene cylinder for cutting and welding metals, to remove carbon impurities from steel, as rocket fuel, and for artificial respiration by scuba divers, mountaineers, astronauts and patients.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Oxy-acetylene cylinders are used for ______.",
         "options": [
           "making soft drinks",
-          "refrigeration",
+          "cutting and welding metals",
           "filling tyres",
-          "cutting and welding metals"
+          "refrigeration"
         ],
         "explanation": "Oxygen is also used for artificial respiration."
       },
@@ -228,9 +228,9 @@
         "q": "ஆக்சி-அசிட்டிலீன் சிலிண்டர்கள் ______ பயன்படுகின்றன.",
         "options": [
           "குளிர்பானம் தயாரிக்க",
-          "குளிர்விக்க",
+          "உலோகங்களை வெட்டவும் பற்றவைக்கவும்",
           "டயர்களில் நிரப்ப",
-          "உலோகங்களை வெட்டவும் பற்றவைக்கவும்"
+          "குளிர்விக்க"
         ],
         "explanation": "செயற்கை சுவாசத்திற்கும் ஆக்சிஜன் பயன்படுகிறது."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 117,
       "quote": "Nitrogen was first isolated from the air by Daniel Rutherford in 1772. The name 'nitrogen' is derived from the Greek words 'nitron' and 'gene' meaning 'I produce nitre'.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Nitrogen was first isolated from the air by ______ in 1772.",
         "options": [
           "C.W. Scheele",
           "Joseph Priestley",
-          "Daniel Rutherford",
-          "Antoine Lavoisier"
+          "Antoine Lavoisier",
+          "Daniel Rutherford"
         ],
         "explanation": "Nitre is potassium nitrate."
       },
@@ -258,8 +258,8 @@
         "options": [
           "சி.டபிள்யூ. ஷீலே",
           "ஜோசப் பிரீஸ்ட்லி",
-          "டேனியல் ரூதர்ஃபோர்டு",
-          "ஆன்டோனி லவோஸியர்"
+          "ஆன்டோனி லவோஸியர்",
+          "டேனியல் ரூதர்ஃபோர்டு"
         ],
         "explanation": "நைட்டர் என்பது பொட்டாசியம் நைட்ரேட்."
       }
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 117,
       "quote": "Titan, the largest moon of Saturn, has an atmosphere made up of 98% Nitrogen. Nitrogen is the fourth most abundant element in the human body, accounting for about three percent of the mass of the human body.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The largest moon of Saturn, Titan, has an atmosphere made up of about ______ nitrogen.",
         "options": [
           "21%",
-          "98%",
           "78%",
+          "98%",
           "3%"
         ],
         "explanation": "Nitrogen accounts for about 3% of the mass of the human body."
@@ -286,8 +286,8 @@
         "q": "சனியின் மிகப் பெரிய நிலாவான டைட்டனின் வளிமண்டலத்தில் சுமார் ______ நைட்ரஜன் உள்ளது.",
         "options": [
           "21%",
-          "98%",
           "78%",
+          "98%",
           "3%"
         ],
         "explanation": "மனித உடலின் நிறையில் ஏறத்தாழ 3% நைட்ரஜன்."
@@ -300,24 +300,24 @@
       "bloom": "remember",
       "page": 117,
       "quote": "Nitrogen exists in free state in the atmospheric air as dinitrogen (N₂). It is present in combined state in minerals like nitre (KNO₃) and chile saltpetre (NaNO₃).",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Chile saltpetre is the mineral ______.",
         "options": [
-          "NaNO₃",
+          "N₂O",
           "KNO₃",
           "NH₃",
-          "N₂O"
+          "NaNO₃"
         ],
         "explanation": "Nitre is KNO₃."
       },
       "ta": {
         "q": "சிலி வெடியுப்பு என்பது ______ என்ற கனிமம்.",
         "options": [
-          "NaNO₃",
+          "N₂O",
           "KNO₃",
           "NH₃",
-          "N₂O"
+          "NaNO₃"
         ],
         "explanation": "நைட்டர் என்பது KNO₃."
       }
@@ -329,12 +329,12 @@
       "bloom": "remember",
       "page": 118,
       "quote": "Nitrogen fixation: any process that converts nitrogen in the air into a useful nitrogen compound. Natural fixation: from lightning and from leguminous plants. Artificial fixation: from ammonia and ammonium salts, from nitric acid and nitrate salts.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The process that converts atmospheric nitrogen into a useful nitrogen compound is called ______.",
         "options": [
-          "nitrogen fixation",
           "nitrogen combustion",
+          "nitrogen fixation",
           "sublimation",
           "rusting"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "வளிமண்டல நைட்ரஜனைப் பயனுள்ள நைட்ரஜன் சேர்மமாக மாற்றும் செயல்முறை ______ எனப்படும்.",
         "options": [
-          "நைட்ரஜன் நிலைப்படுத்தல்",
           "நைட்ரஜன் எரிதல்",
+          "நைட்ரஜன் நிலைப்படுத்தல்",
           "பதங்கமாதல்",
           "துருப்பிடித்தல்"
         ],
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 118,
       "quote": "Nitrogen is used as a substitute for compressed air in tyres. It is used for filling the space above mercury in high temperature thermometer.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Nitrogen is nowadays used in tyres as a substitute for ______.",
         "options": [
-          "oxygen",
-          "carbon dioxide",
           "compressed air",
+          "carbon dioxide",
+          "oxygen",
           "water"
         ],
         "explanation": "It is also used to fill the space above mercury in high temperature thermometers."
@@ -372,9 +372,9 @@
       "ta": {
         "q": "டயர்களில் இப்போது நைட்ரஜன் ______ க்கு மாற்றாகப் பயன்படுகிறது.",
         "options": [
-          "ஆக்சிஜன்",
-          "கார்பன் டை ஆக்சைடு",
           "அழுத்தப்பட்ட காற்று",
+          "கார்பன் டை ஆக்சைடு",
+          "ஆக்சிஜன்",
           "நீர்"
         ],
         "explanation": "உயர் வெப்பநிலை வெப்பநிலைமானிகளில் பாதரசத்தின் மேலுள்ள இடத்தை நிரப்பவும் பயன்படுகிறது."
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 119,
       "quote": "Carbon dioxide is present in air to the extent of about 0.03% by volume. It is evolved by the plants and animals during respiration and is produced during fermentation reactions.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which of the following sources release carbon dioxide?",
         "options": [
-          "Photosynthesis only",
-          "Lightning only",
           "Respiration, fermentation and volcanoes",
+          "Lightning only",
+          "Photosynthesis only",
           "Nitrogen fixation"
         ],
         "explanation": "Much naturally occurring CO₂ is emitted from magma through volcanoes."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "கார்பன் டை ஆக்சைடை வெளியிடும் மூலங்கள் எவை?",
         "options": [
-          "ஒளிச்சேர்க்கை மட்டும்",
-          "மின்னல் மட்டும்",
           "சுவாசம், நொதித்தல், எரிமலைகள்",
+          "மின்னல் மட்டும்",
+          "ஒளிச்சேர்க்கை மட்டும்",
           "நைட்ரஜன் நிலைப்படுத்தல்"
         ],
         "explanation": "இயற்கையாக உருவாகும் CO₂-இல் பெரும்பகுதி எரிமலைகள் வழியாகக் கிடைக்கிறது."
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 119,
       "quote": "CO₂ is used to prepare soft drinks or aerated drinks, in fire extinguishers, in the manufacturing of sodium carbonate by Solvay process, along with ammonia in the manufacture of urea, and in the preservation of food grains and fruits.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Carbon dioxide is used along with ammonia in the manufacture of ______.",
         "options": [
           "sodium chloride",
-          "urea",
           "dry ice",
+          "urea",
           "nitric acid"
         ],
         "explanation": "CO₂ and ammonia together are used to manufacture urea, a fertilizer."
@@ -518,8 +518,8 @@
         "q": "கார்பன் டை ஆக்சைடு அம்மோனியாவுடன் சேர்ந்து ______ தயாரிப்பில் பயன்படுகிறது.",
         "options": [
           "சோடியம் குளோரைடு",
-          "யூரியா",
           "உலர் பனிக்கட்டி",
+          "யூரியா",
           "நைட்ரிக் அமிலம்"
         ],
         "explanation": "CO₂, அம்மோனியா இரண்டும் சேர்ந்து யூரியா உரம் தயாரிக்கப் பயன்படுகின்றன."
@@ -532,14 +532,14 @@
       "bloom": "remember",
       "page": 120,
       "quote": "The green house gases are CO₂, N₂O, CH₄, CFC (Chlorofluoro carbon) etc. Gases which absorb infra red radiations and reradiate the heat are called green house gases and this effect is called green house effect.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following is NOT a greenhouse gas?",
         "options": [
           "Carbon dioxide",
           "Methane",
-          "Chlorofluorocarbon",
-          "Oxygen"
+          "Oxygen",
+          "Chlorofluorocarbon"
         ],
         "explanation": "The green house gases are CO₂, N₂O, CH₄, CFC etc."
       },
@@ -548,8 +548,8 @@
         "options": [
           "கார்பன் டை ஆக்சைடு",
           "மீத்தேன்",
-          "குளோரோஃப்ளூரோ கார்பன்",
-          "ஆக்சிஜன்"
+          "ஆக்சிஜன்",
+          "குளோரோஃப்ளூரோ கார்பன்"
         ],
         "explanation": "CO₂, N₂O, CH₄, CFC போன்றவை பசுமை இல்ல வாயுக்கள்."
       }
@@ -561,14 +561,14 @@
       "bloom": "remember",
       "page": 120,
       "quote": "Effects of global warming: Melting of ice cap and glaciers; increase in frequency of floods, soil erosion and unseasonal rains; loss of biodiversity due to extinction of coral reefs; spreading of waterborne and insectborne diseases.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Which of the following is an effect of global warming?",
         "options": [
           "Decrease in floods",
           "Increase in coral reefs",
-          "Melting of ice caps and glaciers",
-          "Decrease in insect-borne diseases"
+          "Decrease in insect-borne diseases",
+          "Melting of ice caps and glaciers"
         ],
         "explanation": "Global warming also causes floods, soil erosion, unseasonal rains and loss of biodiversity."
       },
@@ -577,8 +577,8 @@
         "options": [
           "வெள்ளப்பெருக்குக் குறைதல்",
           "பவளப்பாறைகள் அதிகரித்தல்",
-          "பனிமுடிகளும் பனியாறுகளும் உருகுதல்",
-          "பூச்சிகளால் பரவும் நோய்கள் குறைதல்"
+          "பூச்சிகளால் பரவும் நோய்கள் குறைதல்",
+          "பனிமுடிகளும் பனியாறுகளும் உருகுதல்"
         ],
         "explanation": "புவி வெப்பமாதலால் வெள்ளம், மண் அரிப்பு, பருவமில்லா மழை, பல்லுயிர் இழப்பு ஆகியவையும் ஏற்படும்."
       }
@@ -590,12 +590,12 @@
       "bloom": "remember",
       "page": 120,
       "quote": "Preventive measures: reducing the use of fossil fuels, controlling deforestation, restricting the use of CFCs, planting more trees, reducing, reusing and recycling resources, using renewable energy resources.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which of the following measures helps to prevent global warming?",
         "options": [
-          "Planting more trees and using renewable energy",
           "Increasing the use of fossil fuels",
+          "Planting more trees and using renewable energy",
           "Increasing deforestation",
           "Using more CFCs"
         ],
@@ -604,8 +604,8 @@
       "ta": {
         "q": "புவி வெப்பமாதலைத் தடுக்க உதவும் நடவடிக்கை எது?",
         "options": [
-          "அதிக மரம் நடுதல், புதுப்பிக்கத்தக்க ஆற்றலைப் பயன்படுத்துதல்",
           "புதைபடிவ எரிபொருள் பயன்பாட்டை அதிகரித்தல்",
+          "அதிக மரம் நடுதல், புதுப்பிக்கத்தக்க ஆற்றலைப் பயன்படுத்துதல்",
           "காடழிப்பை அதிகரித்தல்",
           "CFC-ஐ அதிகம் பயன்படுத்துதல்"
         ],
@@ -619,12 +619,12 @@
       "bloom": "remember",
       "page": 120,
       "quote": "Rain water is actually the purest form of water. Oxides of nitrogen (N₂O, NO₂) and sulphur (SO₂, SO₃) dissolve in rain water and form nitric acid and sulphuric acid which adds up to the acidity of rain water. Hence, it results in acid rain.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Acid rain is caused mainly by the dissolution of oxides of ______ in rain water.",
         "options": [
-          "carbon and hydrogen",
           "nitrogen and sulphur",
+          "carbon and hydrogen",
           "iron and copper",
           "sodium and potassium"
         ],
@@ -633,8 +633,8 @@
       "ta": {
         "q": "மழைநீரில் ______ ஆக்சைடுகள் கரைவதால் அமில மழை உண்டாகிறது.",
         "options": [
-          "கார்பன், ஹைட்ரஜனின்",
           "நைட்ரஜன், கந்தகத்தின்",
+          "கார்பன், ஹைட்ரஜனின்",
           "இரும்பு, தாமிரத்தின்",
           "சோடியம், பொட்டாசியத்தின்"
         ],
@@ -648,13 +648,13 @@
       "bloom": "remember",
       "page": 121,
       "quote": "Acid rain has pH less than 5.6 whereas pH of pure rain water is around 5.6 due to dissolution of atmospheric CO₂ in it.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The pH of acid rain is ______.",
         "options": [
           "more than 7",
-          "exactly 7",
           "less than 5.6",
+          "exactly 7",
           "more than 8.5"
         ],
         "explanation": "Pure rain water has a pH of about 5.6 due to dissolved atmospheric CO₂."
@@ -663,8 +663,8 @@
         "q": "அமில மழையின் pH மதிப்பு ______.",
         "options": [
           "7-ஐவிட அதிகம்",
-          "சரியாக 7",
           "5.6-ஐவிடக் குறைவு",
+          "சரியாக 7",
           "8.5-ஐவிட அதிகம்"
         ],
         "explanation": "வளிமண்டல CO₂ கரைவதால் தூய மழைநீரின் pH சுமார் 5.6."
@@ -706,24 +706,24 @@
       "bloom": "remember",
       "page": 122,
       "quote": "Haber's process: Synthesis of ammonia from nitrogen and hydrogen with the help of catalyst under 500 atm pressure and 550 °C temperature.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Haber's process is used for the synthesis of ______.",
         "options": [
-          "ammonia",
+          "nitric oxide",
           "sodium carbonate",
           "methanol only",
-          "nitric oxide"
+          "ammonia"
         ],
         "explanation": "It uses a catalyst at 500 atm pressure and 550 °C."
       },
       "ta": {
         "q": "ஹேபர் முறை ______ தயாரிப்பிற்குப் பயன்படுகிறது.",
         "options": [
-          "அம்மோனியா",
+          "நைட்ரிக் ஆக்சைடு",
           "சோடியம் கார்பனேட்",
           "மெத்தனால் மட்டும்",
-          "நைட்ரிக் ஆக்சைடு"
+          "அம்மோனியா"
         ],
         "explanation": "இது வினையூக்கியுடன் 500 atm அழுத்தம், 550°C வெப்பநிலையில் நிகழ்கிறது."
       }

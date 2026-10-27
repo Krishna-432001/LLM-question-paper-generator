@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 158,
       "quote": "The study and practice of many facets of maps and map making is called Cartography. It can be described as the art and science of map making.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The art and science of map making is called ______.",
         "options": [
-          "Cartography",
-          "Demography",
           "Topography",
+          "Demography",
+          "Cartography",
           "Climatology"
         ],
         "explanation": "The components of a map include title, scale, legend, direction, source, projection and conventional signs."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "புவிப்படம் தயாரிக்கும் கலையும் அறிவியலும் ______ எனப்படும்.",
         "options": [
-          "புவிப்படவியல்",
-          "மக்களியல்",
           "இடவியல்",
+          "மக்களியல்",
+          "புவிப்படவியல்",
           "காலநிலையியல்"
         ],
         "explanation": "தலைப்பு, அளவை, விளக்கம், திசை, மூலம், வீழல், மரபுக் குறியீடுகள் புவிப்படத்தின் கூறுகள்."
@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 162,
       "quote": "Cadastral maps commonly range from scales of 1:500 to 1:10,000.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Cadastral maps commonly range from scales of ______.",
         "options": [
-          "1:1 to 1:100",
+          "1:500 to 1:10,000",
           "1:1,00,000 to 1:10,00,000",
           "1:50 million",
-          "1:500 to 1:10,000"
+          "1:1 to 1:100"
         ],
         "explanation": "They are large scale maps showing full details of boundaries and buildings."
       },
       "ta": {
         "q": "காணிப் புவிப்படங்கள் பொதுவாக ______ அளவை வரம்பில் அமைகின்றன.",
         "options": [
-          "1:1 முதல் 1:100 வரை",
+          "1:500 முதல் 1:10,000 வரை",
           "1:1,00,000 முதல் 1:10,00,000 வரை",
           "1:50 மில்லியன்",
-          "1:500 முதல் 1:10,000 வரை"
+          "1:1 முதல் 1:100 வரை"
         ],
         "explanation": "இவை எல்லை, கட்டடங்களை முழு விவரத்துடன் காட்டும் பெரிய அளவைப் படங்கள்."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 160,
       "quote": "A graphic scale looks like a small ruler drawn at the bottom of the page. This scale has added advantage for taking copies of maps as the measurement does not change.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which type of map scale has the advantage that the measurement does not change when copies of the map are taken?",
         "options": [
           "Statement scale",
-          "Representative fraction",
           "Graphical (bar) scale",
+          "Representative fraction",
           "Verbal scale"
         ],
         "explanation": "A graphic scale looks like a small ruler drawn at the bottom of the page."
@@ -112,8 +112,8 @@
         "q": "புவிப்படத்தின் நகல்கள் எடுக்கும்போது அளவீடு மாறாது என்ற கூடுதல் நன்மை கொண்ட அளவை வகை எது?",
         "options": [
           "கூற்று அளவை",
-          "பகுதி எண் அளவை (RF)",
           "வரைபட (கோல்) அளவை",
+          "பகுதி எண் அளவை (RF)",
           "சொல் அளவை"
         ],
         "explanation": "வரைபட அளவை பக்கத்தின் அடியில் வரையப்பட்ட சிறிய அளவுகோல் போலத் தோன்றும்."
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 163,
       "quote": "Thematic maps are classified into qualitative and quantitative thematic maps. Choropleth map, isopleth map and dot density map are the common types of quantitative thematic maps.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which of the following is a quantitative thematic map?",
         "options": [
           "Map showing the distribution of soil types",
-          "Map showing kinds of vegetation",
           "Choropleth map",
+          "Map showing kinds of vegetation",
           "Political map showing countries"
         ],
         "explanation": "Maps showing vegetation or soil type are qualitative thematic maps."
@@ -170,8 +170,8 @@
         "q": "பின்வருவனவற்றுள் அளவுசார் கருத்துப் படம் எது?",
         "options": [
           "மண் வகைகளின் பரவலைக் காட்டும் படம்",
-          "தாவர வகைகளைக் காட்டும் படம்",
           "நிழற்பட்டைப் படம் (கொரோப்லெத்)",
+          "தாவர வகைகளைக் காட்டும் படம்",
           "நாடுகளைக் காட்டும் அரசியல் படம்"
         ],
         "explanation": "தாவரம், மண் வகை காட்டும் படங்கள் பண்புசார் கருத்துப் படங்கள்."
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 164,
       "quote": "A choropleth map is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed, such as population density or per-capita income.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "A thematic map in which areas are shaded in proportion to a statistical variable such as population density is a ______ map.",
         "options": [
-          "choropleth",
           "cadastral",
+          "choropleth",
           "relief",
           "isoline"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "மக்கள்தொகை அடர்த்தி போன்ற புள்ளியியல் மாறியின் அளவுக்கேற்பப் பகுதிகள் நிழலிடப்படும் கருத்துப் படம் ______ படம்.",
         "options": [
-          "நிழற்பட்டை (கொரோப்லெத்)",
           "காணிப்",
+          "நிழற்பட்டை (கொரோப்லெத்)",
           "நிலத்தோற்ற",
           "சம அளவுக்கோட்டு"
         ],
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 165,
       "quote": "Uses of maps: To find the location of objects and places; to find the transportation routes; strategic locations are useful for military; serve as tourist guide; display weather conditions.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following is a use of maps given in the lesson?",
         "options": [
           "To measure the mass of the earth",
           "To predict earthquakes",
-          "To determine the age of rocks",
-          "To find the location of objects and places and the transportation routes"
+          "To find the location of objects and places and the transportation routes",
+          "To determine the age of rocks"
         ],
         "explanation": "Maps also serve as tourist guides and display weather conditions."
       },
@@ -258,8 +258,8 @@
         "options": [
           "புவியின் நிறையை அளத்தல்",
           "நிலநடுக்கத்தைக் கணித்தல்",
-          "பாறைகளின் வயதை அறிதல்",
-          "பொருள்கள், இடங்களின் அமைவிடத்தையும் போக்குவரத்துப் பாதைகளையும் அறிதல்"
+          "பொருள்கள், இடங்களின் அமைவிடத்தையும் போக்குவரத்துப் பாதைகளையும் அறிதல்",
+          "பாறைகளின் வயதை அறிதல்"
         ],
         "explanation": "சுற்றுலா வழிகாட்டியாகவும் வானிலையைக் காட்டவும் புவிப்படங்கள் பயன்படுகின்றன."
       }

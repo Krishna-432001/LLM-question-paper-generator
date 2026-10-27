@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 17,
       "quote": "The Hyksos were the rulers of the 15th dynasty of Egypt and they were probably from West Asia.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The Hyksos, rulers of the 15th dynasty of Egypt, probably came from:",
         "options": [
           "Greece",
-          "West Asia",
+          "Persia",
           "Rome",
-          "Persia"
+          "West Asia"
         ],
         "explanation": "The Hyksos were probably from West Asia."
       },
@@ -25,9 +25,9 @@
         "q": "எகிப்தின் 15-ஆம் வம்சத்தை ஆண்ட ஹிக்சோஸ் மக்கள் எங்கிருந்து வந்திருக்கலாம்?",
         "options": [
           "கிரேக்கம்",
-          "மேற்காசியா",
+          "பாரசீகம்",
           "ரோம்",
-          "பாரசீகம்"
+          "மேற்காசியா"
         ],
         "explanation": "ஹிக்சோஸ் மேற்காசியாவிலிருந்து வந்தவர்களாக இருக்கலாம்."
       }
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 17,
       "quote": "The famous Egyptian pharaoh Tutankhamen's (who ruled from 1332 to 1322 BC) tomb with a rich variety of offerings is located near Luxor in Egypt.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The tomb of Tutankhamen (ruled 1332–1322 BCE), rich in offerings, is located near:",
         "options": [
-          "Luxor",
-          "Cairo",
           "Giza",
+          "Cairo",
+          "Luxor",
           "Alexandria"
         ],
         "explanation": "The golden mask of Tutankhamen's mummy was found in his tomb near Luxor."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "துட்டன்காமன் (கி.மு. 1332–1322) கல்லறை எந்த நகருக்கு அருகில் உள்ளது?",
         "options": [
-          "லக்சர்",
-          "கெய்ரோ",
           "கீசா",
+          "கெய்ரோ",
+          "லக்சர்",
           "அலெக்சாந்திரியா"
         ],
         "explanation": "துட்டன்காமனின் தங்க முகமூடி லக்சர் அருகிலுள்ள கல்லறையில் கிடைத்தது."
@@ -68,12 +68,12 @@
       "bloom": "remember",
       "page": 18,
       "quote": "The Egyptians preserved dead bodies using Natron salt (sodium carbonate and sodium bicarbonate). After 40 days... filled with sawdust and wrapped with linen... stored in a stone coffin called sarcophagus.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "In mummification, the Egyptians preserved the body using which substance, after how many days was it filled with sawdust?",
         "options": [
-          "Common salt; 7 days",
           "Natron salt; 40 days",
+          "Common salt; 7 days",
           "Natron salt; 70 days",
           "Honey; 40 days"
         ],
@@ -82,8 +82,8 @@
       "ta": {
         "q": "மம்மியாக்கலில் எகிப்தியர் எந்தப் பொருளைப் பயன்படுத்தினர்? எத்தனை நாளுக்குப் பின் உடலில் மரத்தூள் நிரப்பப்பட்டது?",
         "options": [
-          "சாதாரண உப்பு; 7 நாள்",
           "நேட்ரான் உப்பு; 40 நாள்",
+          "சாதாரண உப்பு; 7 நாள்",
           "நேட்ரான் உப்பு; 70 நாள்",
           "தேன்; 40 நாள்"
         ],
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 19,
       "quote": "Egyptians: solar calendar of twelve months of thirty days each, with five days added to the end of a year... introduced as early as 4200 BCE. Sundial, water clock and glass were developed by the Egyptians.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The Egyptian solar calendar consisted of:",
         "options": [
-          "12 months of 30 days plus 5 days",
-          "10 months of 36 days",
           "13 months of 28 days",
+          "10 months of 36 days",
+          "12 months of 30 days plus 5 days",
           "12 months of 31 days"
         ],
         "explanation": "Twelve months of thirty days each with five days added at year-end (360 + 5)."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "எகிப்திய சூரிய நாட்காட்டியின் அமைப்பு யாது?",
         "options": [
-          "30 நாள் கொண்ட 12 மாதங்கள் + 5 நாள்",
-          "36 நாள் கொண்ட 10 மாதங்கள்",
           "28 நாள் கொண்ட 13 மாதங்கள்",
+          "36 நாள் கொண்ட 10 மாதங்கள்",
+          "30 நாள் கொண்ட 12 மாதங்கள் + 5 நாள்",
           "31 நாள் கொண்ட 12 மாதங்கள்"
         ],
         "explanation": "30 நாள் கொண்ட 12 மாதங்களுடன் ஆண்டு இறுதியில் 5 நாள் சேர்க்கப்பட்டன."
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 20,
       "quote": "Meso means 'in between' and potamus means river. The northern part of Mesopotamia is known as Assyria, and the southern part is called Babylonia.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "In Mesopotamia, the northern part is called ____ and the southern part ____ .",
         "options": [
           "Babylonia; Assyria",
           "Media; Elam",
-          "Sumeria; Akkad",
-          "Assyria; Babylonia"
+          "Assyria; Babylonia",
+          "Sumeria; Akkad"
         ],
         "explanation": "The northern part is Assyria and the southern is Babylonia."
       },
@@ -200,8 +200,8 @@
         "options": [
           "பாபிலோனியா; அசீரியா",
           "மீடியா; எலாம்",
-          "சுமேரியா; அக்காட்",
-          "அசீரியா; பாபிலோனியா"
+          "அசீரியா; பாபிலோனியா",
+          "சுமேரியா; அக்காட்"
         ],
         "explanation": "வடக்கு அசீரியா; தெற்கு பாபிலோனியா."
       }
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 21,
       "quote": "Hammurabi, the sixth king of Babylon belonging to the first Amorite dynasty (1792–1750 BCE), attained fame as a great law-maker. Babylonians were Semitic people called Amorites.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The Babylonians, the Semitic people who made Babylon their capital, were originally called:",
         "options": [
           "Akkadians",
-          "Assyrians",
+          "Amorites",
           "Sumerians",
-          "Amorites"
+          "Assyrians"
         ],
         "explanation": "Amorites from the Arabian desert founded the Babylonian kingdom; Hammurabi was the sixth king."
       },
@@ -228,9 +228,9 @@
         "q": "பாபிலோனைத் தலைநகராக்கிய செமிட்டிய மக்கள் முதலில் எவ்வாறு அழைக்கப்பட்டனர்?",
         "options": [
           "அக்காடியர்",
-          "அசீரியர்",
+          "அமோரைட்டுகள்",
           "சுமேரியர்",
-          "அமோரைட்டுகள்"
+          "அசீரியர்"
         ],
         "explanation": "அரேபிய பாலைவனத்திலிருந்து வந்த அமோரைட்டுகளே பாபிலோனியர்; ஹமுராபி ஆறாவது மன்னர்."
       }
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 21,
       "quote": "Ashurbanipal was a popular ruler of the neo-Assyrian empire (ca. 668 to 627 BCE). He maintained a famous library of cuneiform records. The Assyrians worshipped the deity of Lamassu for protection.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The Assyrian ruler Ashurbanipal is remembered for his famous:",
         "options": [
           "law code",
-          "pyramid",
           "library of cuneiform records",
+          "pyramid",
           "solar calendar"
         ],
         "explanation": "Ashurbanipal (c. 668–627 BCE) kept a famous library of cuneiform tablets."
@@ -257,8 +257,8 @@
         "q": "அசீரிய மன்னர் அசுர்பனிபால் எதற்காக நினைவுகூரப்படுகிறார்?",
         "options": [
           "சட்டத் தொகுப்பு",
-          "பிரமிடு",
           "கியூனிபார்ம் ஆவணங்கள் கொண்ட புகழ்பெற்ற நூலகம்",
+          "பிரமிடு",
           "சூரிய நாட்காட்டி"
         ],
         "explanation": "இவர் (கி.மு. 668–627) கியூனிபார்ம் பலகைகளின் புகழ்பெற்ற நூலகத்தை உருவாக்கினார்."
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 22,
       "quote": "The Sumerians prayed to Enlil, the God of sky and wind. The city of Nippur was centre of Enlil's worship. Ninlil – Goddess of grain. Marduk (Babylonians); Ashur (Assyrians); Ishtar – Goddess of love and fertility; Tiamat – God of the sea and chaos; Sin – the moon God.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Match:\na) Enlil\nb) Ishtar\nc) Sin\nd) Marduk\n1. Moon god\n2. God of sky and wind\n3. God of the Babylonians\n4. Goddess of love and fertility",
         "options": [
           "a-4, b-2, c-1, d-3",
-          "a-2, b-4, c-1, d-3",
+          "a-2, b-4, c-3, d-1",
           "a-2, b-1, c-4, d-3",
-          "a-2, b-4, c-3, d-1"
+          "a-2, b-4, c-1, d-3"
         ],
         "explanation": "Enlil – sky and wind; Ishtar – love and fertility; Sin – moon; Marduk – Babylonian god."
       },
@@ -315,9 +315,9 @@
         "q": "பொருத்துக:\nஅ) என்லில்\nஆ) இஷ்தார்\nஇ) சின்\nஈ) மர்துக்\n1. நிலவுக் கடவுள்\n2. வானம், காற்றின் கடவுள்\n3. பாபிலோனியரின் கடவுள்\n4. காதல், வளத்தின் தெய்வம்",
         "options": [
           "அ-4, ஆ-2, இ-1, ஈ-3",
-          "அ-2, ஆ-4, இ-1, ஈ-3",
+          "அ-2, ஆ-4, இ-3, ஈ-1",
           "அ-2, ஆ-1, இ-4, ஈ-3",
-          "அ-2, ஆ-4, இ-3, ஈ-1"
+          "அ-2, ஆ-4, இ-1, ஈ-3"
         ],
         "explanation": "என்லில் – வானம், காற்று; இஷ்தார் – காதல், வளம்; சின் – நிலவு; மர்துக் – பாபிலோனியர் கடவுள்."
       }
@@ -329,24 +329,24 @@
       "bloom": "remember",
       "page": 23,
       "quote": "The Sumerians... numerical system based on 60... 60-minute hour, the 24-hour day and the 360° circle. The Sumerian calendar had seven days in a week. Contributions: potter's wheel, calendar of 360 days.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which of the following was NOT a contribution of the Mesopotamian civilisation?",
         "options": [
-          "Cuneiform script",
+          "Pyramids and mummification",
           "Potter's wheel",
           "60-minute hour and 360° circle",
-          "Pyramids and mummification"
+          "Cuneiform script"
         ],
         "explanation": "Pyramids and mummies are Egyptian."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் மெசபடோமிய நாகரிகத்தின் பங்களிப்பு அல்லாதது எது?",
         "options": [
-          "கியூனிபார்ம் எழுத்து",
+          "பிரமிடுகளும் மம்மியாக்கலும்",
           "குயவர் சக்கரம்",
           "60 நிமிட மணி, 360° வட்டம்",
-          "பிரமிடுகளும் மம்மியாக்கலும்"
+          "கியூனிபார்ம் எழுத்து"
         ],
         "explanation": "பிரமிடுகளும் மம்மிகளும் எகிப்தியருடையவை."
       }
@@ -358,12 +358,12 @@
       "bloom": "remember",
       "page": 23,
       "quote": "China has two major rivers... Huang He (Yellow River) and Yangtze. The Yellow River is known as the Sorrow of China, since it changed its course and caused frequent floods.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The river known as the 'Sorrow of China' because of its floods is the:",
         "options": [
-          "Huang He (Yellow River)",
           "Yangtze",
+          "Huang He (Yellow River)",
           "Indus",
           "Tigris"
         ],
@@ -372,8 +372,8 @@
       "ta": {
         "q": "அடிக்கடி ஏற்பட்ட வெள்ளத்தால் 'சீனாவின் துயரம்' எனப்படும் ஆறு?",
         "options": [
-          "ஹுவாங் ஹோ (மஞ்சள் ஆறு)",
           "யாங்ட்சே",
+          "ஹுவாங் ஹோ (மஞ்சள் ஆறு)",
           "சிந்து",
           "டைகிரிஸ்"
         ],
@@ -416,24 +416,24 @@
       "bloom": "remember",
       "page": 25,
       "quote": "The Indus civilisation covers an area of over 1.5 million square kilometres in India and Pakistan. Sutkagen-Dor in the west, Shortugai (Afghanistan) in the north, Alamgirpur (Uttar Pradesh) in the east and Daimabad (Maharashtra) in the south.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which site marks the eastern boundary of the Harappan culture?",
         "options": [
-          "Sutkagen-Dor",
+          "Alamgirpur (Uttar Pradesh)",
           "Shortugai",
           "Daimabad",
-          "Alamgirpur (Uttar Pradesh)"
+          "Sutkagen-Dor"
         ],
         "explanation": "Sutkagen-Dor is west, Shortugai north, Alamgirpur east and Daimabad south."
       },
       "ta": {
         "q": "ஹரப்பா பண்பாட்டின் கிழக்கு எல்லையாக அமைந்த இடம் எது?",
         "options": [
-          "சுட்காஜென்-டோர்",
+          "ஆலம்கீர்பூர் (உத்தரப் பிரதேசம்)",
           "ஷோர்டுகை",
           "டைமாபாத்",
-          "ஆலம்கீர்பூர் (உத்தரப் பிரதேசம்)"
+          "சுட்காஜென்-டோர்"
         ],
         "explanation": "மேற்கே சுட்காஜென்-டோர், வடக்கே ஷோர்டுகை, கிழக்கே ஆலம்கீர்பூர், தெற்கே டைமாபாத்."
       }
@@ -445,14 +445,14 @@
       "bloom": "remember",
       "page": 26,
       "quote": "The Indus Valley civilisation is also known as the Harappan civilisation... since it extended beyond the Indus river valley. The Harappan cattle are called Zebu.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Why is the civilisation called 'Harappan' rather than 'Indus Valley'?",
         "options": [
           "It was confined to the Indus valley",
-          "It extended beyond the Indus valley and Harappa was the first site found",
+          "Harappans came from the Ganga valley",
           "Harappa was its only city",
-          "Harappans came from the Ganga valley"
+          "It extended beyond the Indus valley and Harappa was the first site found"
         ],
         "explanation": "Harappa was the first site discovered, and the civilisation spread beyond the Indus valley."
       },
@@ -460,9 +460,9 @@
         "q": "இந்நாகரிகம் 'சிந்து சமவெளி'க்குப் பதிலாக 'ஹரப்பா' நாகரிகம் எனப்படுவது ஏன்?",
         "options": [
           "சிந்து சமவெளியில் மட்டும் இருந்தது",
-          "சிந்து சமவெளிக்கு அப்பாலும் பரவியது; ஹரப்பா முதலில் கண்டறியப்பட்டது",
+          "கங்கை சமவெளியிலிருந்து வந்தவர்கள்",
           "ஹரப்பா ஒரே நகரம்",
-          "கங்கை சமவெளியிலிருந்து வந்தவர்கள்"
+          "சிந்து சமவெளிக்கு அப்பாலும் பரவியது; ஹரப்பா முதலில் கண்டறியப்பட்டது"
         ],
         "explanation": "ஹரப்பா முதலில் கண்டுபிடிக்கப்பட்டது; நாகரிகம் சிந்து சமவெளியைத் தாண்டியும் பரவியது."
       }
@@ -474,24 +474,24 @@
       "bloom": "remember",
       "page": 27,
       "quote": "Weights: the ratio of weighing is doubled as 1:2:4:8:16:32. Cubical chert weights; copper plates for balances.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The Harappan weights increased in the ratio:",
         "options": [
-          "1:2:4:8:16:32",
+          "1:10:100:1000",
           "1:5:10:20:50",
           "1:3:9:27:81",
-          "1:10:100:1000"
+          "1:2:4:8:16:32"
         ],
         "explanation": "Their binary system doubled each weight."
       },
       "ta": {
         "q": "ஹரப்பா எடைக்கற்களின் விகிதம் எவ்வாறு அதிகரித்தது?",
         "options": [
-          "1:2:4:8:16:32",
+          "1:10:100:1000",
           "1:5:10:20:50",
           "1:3:9:27:81",
-          "1:10:100:1000"
+          "1:2:4:8:16:32"
         ],
         "explanation": "இரண்டிரண்டு மடங்காக (ஈரடி எண்முறை) அதிகரித்தன."
       }
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 28,
       "quote": "Early Harappan: c. 3300–2600 BCE; mature Harappan 2600–1900 BCE; later Harappan up to 1700 BCE. The Indus civilisation started declining from about 1900 BCE.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The mature Harappan phase lasted:",
         "options": [
           "3300–2600 BCE",
           "1900–1700 BCE",
-          "2600–1900 BCE",
-          "2000–1000 BCE"
+          "2000–1000 BCE",
+          "2600–1900 BCE"
         ],
         "explanation": "Early Harappan 3300–2600; mature 2600–1900; later up to 1700 BCE."
       },
@@ -519,8 +519,8 @@
         "options": [
           "கி.மு. 3300–2600",
           "கி.மு. 1900–1700",
-          "கி.மு. 2600–1900",
-          "கி.மு. 2000–1000"
+          "கி.மு. 2000–1000",
+          "கி.மு. 2600–1900"
         ],
         "explanation": "தொடக்க ஹரப்பா 3300–2600; முதிர்ந்த 2600–1900; பிந்தைய 1700 வரை."
       }

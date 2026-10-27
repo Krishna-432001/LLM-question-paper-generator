@@ -39,12 +39,12 @@
       "bloom": "remember",
       "page": 199,
       "quote": "The five kingdom classification are Monera, Protista, Fungi, Plantae and Animalia. These groups are formed based on cell structure, mode of nutrition, body organization and reproduction.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Animal Kingdom: Which of the following is NOT one of the five kingdoms?",
         "options": [
-          "Monera",
           "Virus",
+          "Monera",
           "Fungi",
           "Protista"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் ஐந்து உலக வகைப்பாட்டில் இடம்பெறாதது எது?",
         "options": [
-          "மொனீரா",
           "வைரஸ்",
+          "மொனீரா",
           "பூஞ்சை",
           "புரோடிஸ்டா"
         ],
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 200,
       "quote": "Species: lowest taxonomic category. The large Indian parakeet (Psittacula eupatra) and the green parrot (Psittacula krameri) are two different species ... cannot interbreed.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which is the lowest taxonomic category?",
         "options": [
-          "Species",
-          "Genus",
           "Family",
+          "Genus",
+          "Species",
           "Order"
         ],
         "explanation": "The hierarchy is Kingdom, Phylum, Class, Order, Family, Genus, Species."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "மிகக் குறைந்த வகைப்பாட்டுப் படிநிலை எது?",
         "options": [
-          "சிற்றினம்",
-          "பேரினம்",
           "குடும்பம்",
+          "பேரினம்",
+          "சிற்றினம்",
           "வரிசை"
         ],
         "explanation": "படிநிலை: உலகம், தொகுதி, வகுப்பு, வரிசை, குடும்பம், பேரினம், சிற்றினம்."
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 200,
       "quote": "Phylum: ... different animals like mammals, birds, reptiles, frogs and fishes constitute Phylum Chordata which have a notochord or back bone.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Mammals, birds, reptiles, frogs and fishes together belong to phylum",
         "options": [
           "Arthropoda",
           "Mollusca",
-          "Chordata",
-          "Annelida"
+          "Annelida",
+          "Chordata"
         ],
         "explanation": "They all have a notochord or backbone."
       },
@@ -142,8 +142,8 @@
         "options": [
           "கணுக்காலிகள்",
           "மெல்லுடலிகள்",
-          "முதுகுநாணிகள்",
-          "வளைதசைப் புழுக்கள்"
+          "வளைதசைப் புழுக்கள்",
+          "முதுகுநாணிகள்"
         ],
         "explanation": "இவை அனைத்திற்கும் முதுகுநாண் அல்லது முதுகெலும்பு உண்டு."
       }
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 200,
       "quote": "Radial symmetry: ... e.g. Hydra, jelly fish and star fish. In bilateral symmetry ... e.g. Frog.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which animal shows bilateral symmetry?",
         "options": [
           "Hydra",
-          "Frog",
+          "Jelly fish",
           "Star fish (adult)",
-          "Jelly fish"
+          "Frog"
         ],
         "explanation": "Hydra, jelly fish and star fish are radially symmetrical; a frog cut through its central axis gives two identical halves."
       },
@@ -170,9 +170,9 @@
         "q": "இருபக்கச் சமச்சீர் உடைய விலங்கு எது?",
         "options": [
           "ஹைட்ரா",
-          "தவளை",
+          "ஜெல்லி மீன்",
           "நட்சத்திர மீன் (முதிர் உயிரி)",
-          "ஜெல்லி மீன்"
+          "தவளை"
         ],
         "explanation": "ஹைட்ரா, ஜெல்லி மீன், நட்சத்திர மீன் ஆரச்சமச்சீர் உடையவை; தவளையின் மைய அச்சில் வெட்டினால் இரு சம பகுதிகள் கிடைக்கும்."
       }
@@ -184,13 +184,13 @@
       "bloom": "remember",
       "page": 200,
       "quote": "Organisms with two germ layers, the ectoderm and the endoderm are called diploblastic animals. e.g Hydra. Organisms with three germ layers, ectoderm, mesoderm and endoderm are called triploblastic animals. e.g Rabbit",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "A triploblastic animal has the germ layers",
         "options": [
-          "ectoderm, mesoderm and endoderm",
-          "ectoderm and endoderm only",
           "mesoderm only",
+          "ectoderm and endoderm only",
+          "ectoderm, mesoderm and endoderm",
           "endoderm only"
         ],
         "explanation": "Rabbit is triploblastic; Hydra is diploblastic."
@@ -198,9 +198,9 @@
       "ta": {
         "q": "மூவடுக்கு (டிரிப்ளோபிளாஸ்டிக்) விலங்கில் உள்ள கருப்படலங்கள்",
         "options": [
-          "எக்டோடெர்ம், மீசோடெர்ம், எண்டோடெர்ம்",
-          "எக்டோடெர்ம், எண்டோடெர்ம் மட்டும்",
           "மீசோடெர்ம் மட்டும்",
+          "எக்டோடெர்ம், எண்டோடெர்ம் மட்டும்",
+          "எக்டோடெர்ம், மீசோடெர்ம், எண்டோடெர்ம்",
           "எண்டோடெர்ம் மட்டும்"
         ],
         "explanation": "முயல் மூவடுக்கு விலங்கு; ஹைட்ரா ஈரடுக்கு விலங்கு."
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 201,
       "quote": "A true body cavity or coelom is one that is located within the mesoderm. It separates the digestive tract from the body wall.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "A true body cavity (coelom) is located within the",
         "options": [
           "ectoderm",
           "endoderm",
-          "mesoderm",
-          "mesoglea"
+          "mesoglea",
+          "mesoderm"
         ],
         "explanation": "A coelom is a fluid-filled cavity separating the digestive tract from the body wall."
       },
@@ -258,8 +258,8 @@
         "options": [
           "எக்டோடெர்மில்",
           "எண்டோடெர்மில்",
-          "மீசோடெர்மில்",
-          "மீசோகிளியாவில்"
+          "மீசோகிளியாவில்",
+          "மீசோடெர்மில்"
         ],
         "explanation": "உடற்குழி திரவம் நிரம்பியது; செரிமானக் குழலை உடற்சுவரிலிருந்து பிரிக்கிறது."
       }
@@ -271,12 +271,12 @@
       "bloom": "remember",
       "page": 201,
       "quote": "More to Know: Notochord is a rod like structure formed on the mid-dorsal side of the body during embryonic development. Except primitive forms in which the notochord persists throughout life in all other animals it is replaced by a backbone.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The notochord is a rod-like structure formed on the",
         "options": [
-          "ventral side of the adult",
           "mid-dorsal side of the body in the embryo",
+          "ventral side of the adult",
           "head only",
           "tail of the adult only"
         ],
@@ -285,8 +285,8 @@
       "ta": {
         "q": "முதுகுநாண் என்பது கருவளர்ச்சியில் உடலின் ______ உருவாகும் கோல் வடிவ அமைப்பு.",
         "options": [
-          "முதிர் உயிரியின் வயிற்றுப் புறத்தில்",
           "நடு முதுகுப் புறத்தில்",
+          "முதிர் உயிரியின் வயிற்றுப் புறத்தில்",
           "தலைப் பகுதியில் மட்டும்",
           "முதிர் உயிரியின் வால் பகுதியில் மட்டும்"
         ],
@@ -300,12 +300,12 @@
       "bloom": "remember",
       "page": 201,
       "quote": "Animals which do not possess notochord are called as Invertebrates or Non-chordates. Animals which possess notochord or backbone are called as Chordates.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Animals that do not possess a notochord are called",
         "options": [
-          "invertebrates (non-chordates)",
           "chordates",
+          "invertebrates (non-chordates)",
           "vertebrates",
           "prochordates"
         ],
@@ -314,8 +314,8 @@
       "ta": {
         "q": "முதுகுநாண் இல்லாத விலங்குகள்",
         "options": [
-          "முதுகெலும்பிலிகள் (முதுகுநாணற்றவை)",
           "முதுகுநாணிகள்",
+          "முதுகெலும்பிலிகள் (முதுகுநாணற்றவை)",
           "முதுகெலும்பிகள்",
           "முன் முதுகுநாணிகள்"
         ],
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 202,
       "quote": "Binomial names: Amoeba - Amoeba proteus; Hydra - Hydra vulgaris; Tapeworm - Taenia solium; Roundworm - Ascaris lumbricoides; Leech - Hirudinaria granulosa; Cockroach - Periplaneta americana; Snail - Pila globosa; Frog - Rana hexadactyla; Crow - Corvus splendens; Peacock - Pavo cristatus; Tiger - Panthera tigris; Man - Homo sapiens",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Match the animal with its binomial name: (a) Cockroach (b) Tapeworm (c) Peacock (d) Snail - (1) Pavo cristatus (2) Taenia solium (3) Pila globosa (4) Periplaneta americana",
         "options": [
           "a-4, b-1, c-3, d-2",
           "a-3, b-4, c-1, d-2",
-          "a-4, b-2, c-1, d-3",
-          "a-2, b-4, c-3, d-1"
+          "a-2, b-4, c-3, d-1",
+          "a-4, b-2, c-1, d-3"
         ],
         "explanation": "Cockroach - Periplaneta americana; tapeworm - Taenia solium; peacock - Pavo cristatus; snail - Pila globosa."
       },
@@ -374,8 +374,8 @@
         "options": [
           "a-4, b-1, c-3, d-2",
           "a-3, b-4, c-1, d-2",
-          "a-4, b-2, c-1, d-3",
-          "a-2, b-4, c-3, d-1"
+          "a-2, b-4, c-3, d-1",
+          "a-4, b-2, c-1, d-3"
         ],
         "explanation": "கரப்பான் - Periplaneta americana; நாடாப்புழு - Taenia solium; மயில் - Pavo cristatus; நத்தை - Pila globosa."
       }
@@ -416,12 +416,12 @@
       "bloom": "remember",
       "page": 202,
       "quote": "17.2.1 Porifera (Pore bearers): ... Body is perforated with many pores called ostia. ... body wall contains spicules ... e.g. Euplectella, Sycon.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "In Porifera, water enters the body through pores called",
         "options": [
-          "ostia",
           "spicules",
+          "ostia",
           "annuli",
           "nephridia"
         ],
@@ -430,8 +430,8 @@
       "ta": {
         "q": "துளையுடலிகளில் நீர் உடலுக்குள் நுழையும் துளைகள்",
         "options": [
-          "ஓஸ்டியா",
           "ஸ்பிகூல்கள்",
+          "ஓஸ்டியா",
           "ஆனுலை",
           "நெஃப்ரீடியா"
         ],
@@ -445,24 +445,24 @@
       "bloom": "remember",
       "page": 202,
       "quote": "Coelenterates: ... central gastrovascular cavity called coelenteron with mouth surrounded by short tentacles. ... polymorphism ... e.g. Hydra, Jellyfish.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The central gastrovascular cavity of coelenterates is called the",
         "options": [
-          "coelom",
+          "coelenteron",
           "pseudocoel",
           "mesoglea",
-          "coelenteron"
+          "coelom"
         ],
         "explanation": "The mouth is surrounded by short tentacles bearing stinging cells."
       },
       "ta": {
         "q": "குழியுடலிகளின் மையத்திலுள்ள உணவு-சுற்றோட்டக் குழி",
         "options": [
-          "உடற்குழி",
+          "சீலென்டிரான்",
           "போலி உடற்குழி",
           "மீசோகிளியா",
-          "சீலென்டிரான்"
+          "உடற்குழி"
         ],
         "explanation": "வாயைச் சுற்றி கொட்டும் செல்கள் கொண்ட குறு உணர்கொம்புகள் உள்ளன."
       }
@@ -474,13 +474,13 @@
       "bloom": "remember",
       "page": 202,
       "quote": "Platyhelminthes: bilaterally symmetrical, triploblastic, acoelomate ... Suckers and hooks ... flame cells ... hermaphrodites ... e.g. Liverfluke, Tapeworm.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which structures help flat worms to attach to the host?",
         "options": [
-          "Setae",
-          "Tube feet",
           "Suckers and hooks",
+          "Tube feet",
+          "Setae",
           "Tentacles"
         ],
         "explanation": "Most flat worms are parasitic; excretion occurs by flame cells."
@@ -488,9 +488,9 @@
       "ta": {
         "q": "தட்டைப் புழுக்கள் விருந்தோம்பியின் உடலில் ஒட்டிக்கொள்ள உதவுபவை",
         "options": [
-          "சீட்டாக்கள்",
-          "குழல் கால்கள்",
           "உறிஞ்சிகளும் கொக்கிகளும்",
+          "குழல் கால்கள்",
+          "சீட்டாக்கள்",
           "உணர்கொம்புகள்"
         ],
         "explanation": "பெரும்பாலானவை ஒட்டுண்ணிகள்; சுடர் செல்கள் மூலம் கழிவு நீக்கம்."
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 203,
       "quote": "Aschelminthes (Round worms): ... body cavity is a pseudocoelom ... covered by thin cuticle. Sexes are separate. diseases caused by nematodes: elephantiasis and ascariasis. e.g-Ascaris, Wuchereria.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Elephantiasis and ascariasis are common diseases caused by",
         "options": [
           "flat worms",
-          "nematodes (round worms)",
           "molluscs",
+          "nematodes (round worms)",
           "segmented worms"
         ],
         "explanation": "Examples of round worms: Ascaris and Wuchereria; they have separate sexes."
@@ -518,8 +518,8 @@
         "q": "யானைக்கால் நோய், அஸ்காரியாசிஸ் ஆகியவற்றை ஏற்படுத்துபவை",
         "options": [
           "தட்டைப் புழுக்கள்",
-          "நெமடோடுகள் (உருளைப் புழுக்கள்)",
           "மெல்லுடலிகள்",
+          "நெமடோடுகள் (உருளைப் புழுக்கள்)",
           "கண்டமுடைய புழுக்கள்"
         ],
         "explanation": "எ.கா: அஸ்காரிஸ், உச்செரேரியா; இவற்றில் ஆண், பெண் தனித்தனி உயிரிகள்."
@@ -561,24 +561,24 @@
       "bloom": "remember",
       "page": 203,
       "quote": "Arthropoda: Body cavity is filled with haemolymph (blood). ... open circulatory system. Respiration through body surface, gills or tracheae. Excretion by malphigian tubules or green glands.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Excretion in arthropods occurs by",
         "options": [
-          "flame cells",
+          "malpighian tubules or green glands",
           "kidneys",
           "nephridia",
-          "malpighian tubules or green glands"
+          "flame cells"
         ],
         "explanation": "Arthropods have an open circulatory system with haemolymph."
       },
       "ta": {
         "q": "கணுக்காலிகளில் கழிவு நீக்கம் நடைபெறுவது",
         "options": [
-          "சுடர் செல்கள் மூலம்",
+          "மால்பிஜியன் குழல்கள் அல்லது பச்சைச் சுரப்பிகள் மூலம்",
           "சிறுநீரகங்கள் மூலம்",
           "நெஃப்ரீடியா மூலம்",
-          "மால்பிஜியன் குழல்கள் அல்லது பச்சைச் சுரப்பிகள் மூலம்"
+          "சுடர் செல்கள் மூலம்"
         ],
         "explanation": "கணுக்காலிகளுக்குத் திறந்த இரத்த ஓட்ட மண்டலம் உண்டு; ஹீமோலிம்ப் உள்ளது."
       }
@@ -648,12 +648,12 @@
       "bloom": "remember",
       "page": 204,
       "quote": "Mollusca (Soft Bodied Animals): ... head, muscular foot and visceral mass. ... mantle, which secretes outer hard calcareous shell. ... e.g-Garden snail, Octopus.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The fold of thin skin that covers the body of molluscs and secretes the calcareous shell is the",
         "options": [
-          "mantle",
           "cuticle",
+          "mantle",
           "tunic",
           "mesoglea"
         ],
@@ -662,8 +662,8 @@
       "ta": {
         "q": "மெல்லுடலிகளின் உடலை மூடி, சுண்ணாம்புக் கூட்டைச் சுரக்கும் தோல் மடிப்பு",
         "options": [
-          "மேண்டில் (மென்மேலுறை)",
           "புறத்தோல்",
+          "மேண்டில் (மென்மேலுறை)",
           "டியூனிக்",
           "மீசோகிளியா"
         ],
@@ -677,14 +677,14 @@
       "bloom": "remember",
       "page": 204,
       "quote": "Octopus is the only invertebrate that is capable of emotion, empathy, cognitive function, self awareness, personality and even relationships with humans.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "According to the box note, which invertebrate is capable of emotion, empathy and self-awareness?",
         "options": [
           "Starfish",
           "Sponge",
-          "Jellyfish",
-          "Octopus"
+          "Octopus",
+          "Jellyfish"
         ],
         "explanation": "Octopus is a mollusc."
       },
@@ -693,8 +693,8 @@
         "options": [
           "நட்சத்திர மீன்",
           "கடற்பஞ்சு",
-          "ஜெல்லி மீன்",
-          "ஆக்டோபஸ்"
+          "ஆக்டோபஸ்",
+          "ஜெல்லி மீன்"
         ],
         "explanation": "ஆக்டோபஸ் ஒரு மெல்லுடலி."
       }
@@ -735,13 +735,13 @@
       "bloom": "remember",
       "page": 205,
       "quote": "Cyclostomata: jawless vertebrates ... eel like ... circular mouth. Skin is slimy and scaleless. They are ectoparasites of fishes. E.g. Hagfish, Lamprey.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which of the following is a cyclostome?",
         "options": [
           "Shark",
-          "Lamprey",
           "Carp",
+          "Lamprey",
           "Skate"
         ],
         "explanation": "Cyclostomes are ectoparasites of fishes with a circular mouth."
@@ -750,8 +750,8 @@
         "q": "பின்வருவனவற்றுள் வட்டவாய்ப் பிராணி (சைக்ளோஸ்டோம்) எது?",
         "options": [
           "சுறா",
-          "லாம்ப்ரே",
           "கெண்டை",
+          "லாம்ப்ரே",
           "ஸ்கேட்"
         ],
         "explanation": "இவை வட்ட வாயுடைய, மீன்களின் புறஒட்டுண்ணிகள்."
@@ -793,14 +793,14 @@
       "bloom": "remember",
       "page": 205,
       "quote": "Amphibia (amphi- both; bios- life): first four legged (tetrapods) vertebrates ... heart is three chambered with two auricles and one ventricle ... e.g-Frog, Toad. The Chinese giant salamander Andrias davidianus is the largest amphibian ... five feet and eleven inches ... 65 kg",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The largest amphibian in the world, as given in the book, is the",
         "options": [
           "bull frog",
-          "Indian tree frog",
+          "Chinese giant salamander",
           "toad",
-          "Chinese giant salamander"
+          "Indian tree frog"
         ],
         "explanation": "Its length is about five feet and eleven inches and its weight about 65 kg; it is found in Central and South China."
       },
@@ -808,9 +808,9 @@
         "q": "பாடநூலின்படி உலகின் மிகப்பெரிய இருவாழ்வி",
         "options": [
           "காளைத் தவளை",
-          "இந்திய மரத்தவளை",
+          "சீன ராட்சத சாலமாண்டர்",
           "தேரை",
-          "சீன ராட்சத சாலமாண்டர்"
+          "இந்திய மரத்தவளை"
         ],
         "explanation": "இதன் நீளம் ஏறத்தாழ ஐந்தடி பதினொரு அங்குலம்; எடை சுமார் 65 கி.கி; மத்திய, தென் சீனாவில் காணப்படுகிறது."
       }
@@ -822,14 +822,14 @@
       "bloom": "remember",
       "page": 205,
       "quote": "Amphibia: first four legged (tetrapods) vertebrates with dual adaptation ... heart is three chambered",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Which class includes the first four-legged (tetrapod) vertebrates with a three-chambered heart?",
         "options": [
           "Pisces",
           "Aves",
-          "Amphibia",
-          "Mammalia"
+          "Mammalia",
+          "Amphibia"
         ],
         "explanation": "Amphibian skin is moist with mucus glands; eggs are laid in water."
       },
@@ -838,8 +838,8 @@
         "options": [
           "மீன்கள்",
           "பறவைகள்",
-          "ஆம்பிபியா (இருவாழ்விகள்)",
-          "பாலூட்டிகள்"
+          "பாலூட்டிகள்",
+          "ஆம்பிபியா (இருவாழ்விகள்)"
         ],
         "explanation": "இருவாழ்வியின் தோல் ஈரமானது; சளிச் சுரப்பிகள் உண்டு; முட்டைகள் நீரில் இடப்படுகின்றன."
       }
@@ -851,12 +851,12 @@
       "bloom": "remember",
       "page": 206,
       "quote": "Reptilia (repere - to crawl or creep): ... horny epidermal scales ... heart is three chambered with an exemption of crocodiles ... e.g Calotes, Lizard, Snake, Tortoise, Turtle. State bird of Tamil Nadu: Common Emerald dove (Chalcophaps indica).",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The State bird of Tamil Nadu is the",
         "options": [
-          "Peacock",
           "Common emerald dove",
+          "Peacock",
           "Crow",
           "Parrot"
         ],
@@ -865,8 +865,8 @@
       "ta": {
         "q": "தமிழ்நாட்டின் மாநிலப் பறவை",
         "options": [
-          "மயில்",
           "மரகதப் புறா",
+          "மயில்",
           "காகம்",
           "கிளி"
         ],
@@ -880,13 +880,13 @@
       "bloom": "remember",
       "page": 206,
       "quote": "Reptilia (repere - to crawl or creep) ; Aves (avis - bird); Mammalia (mamma - breast); Amphibia (amphi - both; bios - life)",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Match the class with the Latin or Greek root meaning: (a) Reptilia (b) Aves (c) Mammalia (d) Amphibia - (1) Breast (2) To crawl or creep (3) Bird (4) Both life",
         "options": [
-          "a-2, b-3, c-1, d-4",
-          "a-2, b-4, c-1, d-3",
           "a-3, b-1, c-4, d-2",
+          "a-2, b-4, c-1, d-3",
+          "a-2, b-3, c-1, d-4",
           "a-3, b-4, c-2, d-1"
         ],
         "explanation": "repere = to crawl; avis = bird; mamma = breast; amphi bios = both lives."
@@ -894,9 +894,9 @@
       "ta": {
         "q": "வகுப்பையும் அதன் இலத்தீன் / கிரேக்க மூலச்சொல் பொருளையும் பொருத்துக: (a) ரெப்டிலியா (b) ஏவிஸ் (c) மேமேலியா (d) ஆம்பிபியா - (1) மார்பகம் (2) ஊர்ந்து செல்லுதல் (3) பறவை (4) இருவாழ்வு",
         "options": [
-          "a-2, b-3, c-1, d-4",
-          "a-2, b-4, c-1, d-3",
           "a-3, b-1, c-4, d-2",
+          "a-2, b-4, c-1, d-3",
+          "a-2, b-3, c-1, d-4",
           "a-3, b-4, c-2, d-1"
         ],
         "explanation": "repere = ஊர்தல்; avis = பறவை; mamma = மார்பகம்; amphi bios = இரு வாழ்வு."
@@ -996,12 +996,12 @@
       "bloom": "remember",
       "page": 207,
       "quote": "Points to Remember: The prochordates are considered as the forerunner of vertebrates. Classification is the ordering of organism into groups on the basis of their similarities, dissimilarities and relationships.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which group is considered the forerunner of vertebrates?",
         "options": [
-          "Prochordates",
           "Echinoderms",
+          "Prochordates",
           "Arthropods",
           "Molluscs"
         ],
@@ -1010,8 +1010,8 @@
       "ta": {
         "q": "முதுகெலும்பிகளின் முன்னோடிகளாகக் கருதப்படும் குழு",
         "options": [
-          "முன் முதுகுநாணிகள்",
           "முட்தோலிகள்",
+          "முன் முதுகுநாணிகள்",
           "கணுக்காலிகள்",
           "மெல்லுடலிகள்"
         ],

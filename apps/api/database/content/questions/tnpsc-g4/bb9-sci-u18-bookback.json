@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 223,
       "quote": "I. 2. The fibres consists of a. parenchyma b. sclerenchyma c. collenchyma d. None of above",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Fibres are a type of",
         "options": [
           "parenchyma",
-          "sclerenchyma",
+          "phloem parenchyma",
           "collenchyma",
-          "phloem parenchyma"
+          "sclerenchyma"
         ],
         "explanation": "Sclerenchyma cells are grouped into fibres and sclereids."
       },
@@ -25,9 +25,9 @@
         "q": "நார்கள் எந்த திசுவைச் சேர்ந்தவை?",
         "options": [
           "பாரன்கைமா",
-          "ஸ்கிளிரன்கைமா",
+          "புளோயம் பாரன்கைமா",
           "கோலன்கைமா",
-          "புளோயம் பாரன்கைமா"
+          "ஸ்கிளிரன்கைமா"
         ],
         "explanation": "ஸ்கிளிரன்கைமா செல்கள் நார்கள், ஸ்கிளிரீடுகள் என இரு வகைப்படும்."
       }
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 223,
       "quote": "I. 4. Which of the following is a complex tissue? a. Parenchyma b. Collenchyma c. Xylem d. Sclerenchyma",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Organisation of Tissues: Which of the following is a complex tissue?",
         "options": [
           "Collenchyma",
-          "Parenchyma",
           "Xylem",
+          "Parenchyma",
           "Sclerenchyma"
         ],
         "explanation": "Xylem and phloem are complex tissues; the others are simple tissues."
@@ -54,8 +54,8 @@
         "q": "பின்வருவனவற்றுள் கூட்டுத் திசு எது?",
         "options": [
           "கோலன்கைமா",
-          "பாரன்கைமா",
           "சைலம்",
+          "பாரன்கைமா",
           "ஸ்கிளிரன்கைமா"
         ],
         "explanation": "சைலமும் புளோயமும் கூட்டுத் திசுக்கள்; மற்றவை தனித் திசுக்கள்."
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 223,
       "quote": "I. 5. Aerenchyma is found in a. epiphytes b. hydrophytes c. halophytes d. xerophytes",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Aerenchyma is found in",
         "options": [
-          "hydrophytes",
-          "epiphytes",
           "halophytes",
+          "epiphytes",
+          "hydrophytes",
           "xerophytes"
         ],
         "explanation": "In aquatic plants parenchyma possesses intercellular air spaces and is named aerenchyma."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "ஏரன்கைமா காணப்படுவது",
         "options": [
-          "நீர்வாழ் தாவரங்களில்",
-          "தொற்றுத் தாவரங்களில்",
           "உவர்நிலத் தாவரங்களில்",
+          "தொற்றுத் தாவரங்களில்",
+          "நீர்வாழ் தாவரங்களில்",
           "வறண்ட நிலத் தாவரங்களில்"
         ],
         "explanation": "நீர்த் தாவரங்களின் பாரன்கைமாவில் காற்றுடன் கூடிய செல்லிடைவெளிகள் உள்ளன; அது ஏரன்கைமா எனப்படும்."
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 223,
       "quote": "I. 7. Nerve cell does not contains a. axon b. nerve endings c. tendons d. dendrites",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "A nerve cell (neuron) does NOT contain",
         "options": [
           "axon",
-          "tendons",
+          "dendrites",
           "nerve endings",
-          "dendrites"
+          "tendons"
         ],
         "explanation": "Tendons are dense connective tissue joining muscles to bones."
       },
@@ -141,9 +141,9 @@
         "q": "நரம்புச் செல்லில் காணப்படாதது",
         "options": [
           "ஆக்ஸான்",
-          "தசைநாண்கள்",
+          "டெண்ட்ரைட்டுகள்",
           "நரம்பு முனைகள்",
-          "டெண்ட்ரைட்டுகள்"
+          "தசைநாண்கள்"
         ],
         "explanation": "தசைநாண்கள் தசைகளை எலும்புகளுடன் இணைக்கும் அடர் இணைப்புத் திசுக்கள்."
       }
@@ -155,12 +155,12 @@
       "bloom": "remember",
       "page": 223,
       "quote": "II. Match the following. Sclereids - Sclerenchyma; Chloroplast - Chlorenchyma; Simple tissue - Collenchyma; Companion cell - Phloem; Tracheids - Xylem",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Match: (a) Sclereids (b) Chloroplast (c) Companion cell (d) Tracheids - (1) Sclerenchyma (2) Phloem (3) Xylem (4) Chlorenchyma",
         "options": [
-          "a-1, b-4, c-2, d-3",
           "a-3, b-4, c-2, d-1",
+          "a-1, b-4, c-2, d-3",
           "a-3, b-1, c-4, d-2",
           "a-2, b-1, c-4, d-3"
         ],
@@ -169,8 +169,8 @@
       "ta": {
         "q": "பொருத்துக: (a) ஸ்கிளிரீடுகள் (b) பசுங்கணிகம் (c) துணைச் செல் (d) டிரக்கீடுகள் - (1) ஸ்கிளிரன்கைமா (2) புளோயம் (3) சைலம் (4) குளோரன்கைமா",
         "options": [
-          "a-1, b-4, c-2, d-3",
           "a-3, b-4, c-2, d-1",
+          "a-1, b-4, c-2, d-3",
           "a-3, b-1, c-4, d-2",
           "a-2, b-1, c-4, d-3"
         ],
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 223,
       "quote": "III. 1. ______ tissues provide mechanical support to organs.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which tissues provide mechanical support to plant organs?",
         "options": [
           "Parenchyma and chlorenchyma",
-          "Aerenchyma only",
+          "Collenchyma and sclerenchyma",
           "Meristems only",
-          "Collenchyma and sclerenchyma"
+          "Aerenchyma only"
         ],
         "explanation": "Collenchyma supports growing organs; sclerenchyma gives mechanical strength with thick lignified walls."
       },
@@ -199,9 +199,9 @@
         "q": "தாவர உறுப்புகளுக்கு இயந்திர ரீதியான வலிமை அளிக்கும் திசுக்கள்",
         "options": [
           "பாரன்கைமாவும் குளோரன்கைமாவும்",
-          "ஏரன்கைமா மட்டும்",
+          "கோலன்கைமாவும் ஸ்கிளிரன்கைமாவும்",
           "ஆக்குத் திசுக்கள் மட்டும்",
-          "கோலன்கைமாவும் ஸ்கிளிரன்கைமாவும்"
+          "ஏரன்கைமா மட்டும்"
         ],
         "explanation": "கோலன்கைமா வளரும் உறுப்புகளுக்கு ஆதாரம் தரும்; ஸ்கிளிரன்கைமா தடித்த லிக்னின் சுவரால் வலிமை தரும்."
       }
@@ -271,12 +271,12 @@
       "bloom": "remember",
       "page": 223,
       "quote": "III. 4. Epithelial cells with cilia are found in ______ of our body.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Ciliated epithelium is found in the",
         "options": [
-          "trachea (wind-pipe) and bronchioles",
           "bones",
+          "trachea (wind-pipe) and bronchioles",
           "skin",
           "heart muscle"
         ],
@@ -285,8 +285,8 @@
       "ta": {
         "q": "குறு இழைகளுடன் கூடிய எபிதீலியம் உடலில் காணப்படுவது",
         "options": [
-          "மூச்சுக்குழல், சிறு மூச்சுக்குழல்களில்",
           "எலும்புகளில்",
+          "மூச்சுக்குழல், சிறு மூச்சுக்குழல்களில்",
           "தோலில்",
           "இதயத் தசையில்"
         ],
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 224,
       "quote": "IV. 1. Epithelial tissue is protective tissue in animal body.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which tissue forms the protective covering of the animal body, such as the skin?",
         "options": [
           "Muscular tissue",
-          "Nervous tissue",
+          "Epithelial tissue",
           "Blood",
-          "Epithelial tissue"
+          "Nervous tissue"
         ],
         "explanation": "The skin protects underlying cells from drying, injury and microbial infection."
       },
@@ -315,9 +315,9 @@
         "q": "தோல் போன்ற விலங்கு உடலின் பாதுகாப்பு மூடியை அமைக்கும் திசு",
         "options": [
           "தசைத் திசு",
-          "நரம்புத் திசு",
+          "எபிதீலியத் திசு",
           "இரத்தம்",
-          "எபிதீலியத் திசு"
+          "நரம்புத் திசு"
         ],
         "explanation": "தோல் உள்ளிருக்கும் செல்களை உலர்தல், காயம், நுண்ணுயிர்த் தொற்றிலிருந்து காக்கிறது."
       }
@@ -358,12 +358,12 @@
       "bloom": "remember",
       "page": 224,
       "quote": "IV. 3. Parenchyma is a simple tissue.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Parenchyma is a",
         "options": [
-          "complex tissue",
           "simple permanent tissue",
+          "complex tissue",
           "meristematic tissue",
           "dead tissue"
         ],
@@ -372,8 +372,8 @@
       "ta": {
         "q": "பாரன்கைமா ஒரு",
         "options": [
-          "கூட்டுத் திசு",
           "தனி நிலைத் திசு",
+          "கூட்டுத் திசு",
           "ஆக்குத் திசு",
           "இறந்த திசு"
         ],
@@ -387,24 +387,24 @@
       "bloom": "remember",
       "page": 224,
       "quote": "IV. 4. Phloem is made up of tracheids.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Phloem is made up of",
         "options": [
-          "sieve elements, companion cells, phloem fibres and phloem parenchyma",
+          "only chondrocytes",
           "only sclereids",
           "tracheids, vessels, xylem fibres and xylem parenchyma",
-          "only chondrocytes"
+          "sieve elements, companion cells, phloem fibres and phloem parenchyma"
         ],
         "explanation": "The book's statement is false: tracheids are an element of xylem."
       },
       "ta": {
         "q": "புளோயம் எதனால் ஆனது?",
         "options": [
-          "சல்லடைக் கூறுகள், துணைச் செல்கள், புளோயம் நார்கள், புளோயம் பாரன்கைமா",
+          "காண்ட்ரோசைட்டுகள் மட்டும்",
           "ஸ்கிளிரீடுகள் மட்டும்",
           "டிரக்கீடுகள், நீர்க்குழாய்கள், சைலம் நார்கள், சைலம் பாரன்கைமா",
-          "காண்ட்ரோசைட்டுகள் மட்டும்"
+          "சல்லடைக் கூறுகள், துணைச் செல்கள், புளோயம் நார்கள், புளோயம் பாரன்கைமா"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; டிரக்கீடுகள் சைலத்தின் கூறுகள்."
       }
@@ -416,24 +416,24 @@
       "bloom": "remember",
       "page": 224,
       "quote": "IV. 5. Vessels are found in collenchyma.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Vessels (water-conducting tube-like structures) are found in",
         "options": [
-          "collenchyma",
+          "xylem",
           "phloem",
           "parenchyma",
-          "xylem"
+          "collenchyma"
         ],
         "explanation": "The book's statement is false: vessels are elements of xylem, long cylindrical dead tubes with lignified walls."
       },
       "ta": {
         "q": "நீர்க்குழாய்கள் (வெசல்கள்) காணப்படுவது",
         "options": [
-          "கோலன்கைமாவில்",
+          "சைலத்தில்",
           "புளோயத்தில்",
           "பாரன்கைமாவில்",
-          "சைலத்தில்"
+          "கோலன்கைமாவில்"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; நீர்க்குழாய்கள் சைலத்தின் கூறுகள்; லிக்னின் சுவருடைய இறந்த நீண்ட உருளைக் குழாய்கள்."
       }
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 224,
       "quote": "V. 1. What are intercalary meristems? How do they differ from other meristems?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Intercalary meristem is found",
         "options": [
           "in the vascular cambium only",
-          "at the apex of the root only",
           "at the base of leaf or at the base of internodes (e.g. grasses)",
+          "at the apex of the root only",
           "in the cork cambium only"
         ],
         "explanation": "It lies between regions of permanent tissue and is part of the primary meristem; apical meristem is at apices and lateral meristem increases thickness."
@@ -460,8 +460,8 @@
         "q": "இடைப்பட்ட ஆக்குத் திசு காணப்படும் இடம்",
         "options": [
           "வாஸ்குலக் கேம்பியத்தில் மட்டும்",
-          "வேர் நுனியில் மட்டும்",
           "இலை அடிப்பகுதி அல்லது கணுவிடைப் பகுதியின் அடிப்பகுதி (எ.கா: புற்கள்)",
+          "வேர் நுனியில் மட்டும்",
           "கார்க் கேம்பியத்தில் மட்டும்"
         ],
         "explanation": "இது நிலைத் திசுக்களுக்கிடையே அமைந்து முதன்மை ஆக்குத் திசுவின் பகுதியாகும்."
@@ -474,13 +474,13 @@
       "bloom": "remember",
       "page": 224,
       "quote": "V. 2. What is complex tissue? Name the various kinds of complex tissues.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Complex tissues are made of",
         "options": [
           "only one type of cells",
-          "more than one type of cells working together as a unit",
           "only dead cells",
+          "more than one type of cells working together as a unit",
           "only meristematic cells"
         ],
         "explanation": "Examples are xylem and phloem."
@@ -489,8 +489,8 @@
         "q": "கூட்டுத் திசுக்கள் எவற்றால் ஆனவை?",
         "options": [
           "ஒரே வகை செல்களால் மட்டும்",
-          "ஒன்றுக்கு மேற்பட்ட வகை செல்கள் ஒரு அலகாகச் செயல்படுவதால்",
           "இறந்த செல்களால் மட்டும்",
+          "ஒன்றுக்கு மேற்பட்ட வகை செல்கள் ஒரு அலகாகச் செயல்படுவதால்",
           "ஆக்குத் திசு செல்களால் மட்டும்"
         ],
         "explanation": "எ.கா: சைலம், புளோயம்."
@@ -503,24 +503,24 @@
       "bloom": "remember",
       "page": 224,
       "quote": "V. 3. Mention the most abundant muscular tissue found in our body. State its function.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Skeletal muscles are attached to bones and are responsible for",
         "options": [
-          "body movements, under voluntary control",
+          "secretion of hormones",
           "peristalsis of the intestine only",
           "pumping blood involuntarily",
-          "secretion of hormones"
+          "body movements, under voluntary control"
         ],
         "explanation": "They are striated, multinucleate and also known as voluntary muscles, e.g. biceps and triceps."
       },
       "ta": {
         "q": "எலும்புத் தசைகள் எலும்புகளுடன் இணைந்து",
         "options": [
-          "உடல் இயக்கங்களை, விருப்பத்திற்கேற்ப நிகழ்த்துகின்றன",
+          "ஹார்மோன்களைச் சுரக்கின்றன",
           "குடலின் இயக்கத்தை மட்டும் நிகழ்த்துகின்றன",
           "இரத்தத்தை விருப்பமின்றிப் பம்ப் செய்கின்றன",
-          "ஹார்மோன்களைச் சுரக்கின்றன"
+          "உடல் இயக்கங்களை, விருப்பத்திற்கேற்ப நிகழ்த்துகின்றன"
         ],
         "explanation": "இவை வரியுடைய, பல உட்கரு கொண்ட தன்விருப்பத் தசைகள்; எ.கா: பைசெப்ஸ், டிரைசெப்ஸ்."
       }
@@ -532,24 +532,24 @@
       "bloom": "remember",
       "page": 224,
       "quote": "V. 4. What is skeletal connective tissue? How is it helpful in the functioning of our body?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The supportive (skeletal) connective tissues, which form the endoskeleton of vertebrates, are",
         "options": [
-          "tendons and ligaments",
+          "cartilage and bone",
           "blood and lymph",
           "areolar and adipose tissue",
-          "cartilage and bone"
+          "tendons and ligaments"
         ],
         "explanation": "They protect various organs and help in locomotion."
       },
       "ta": {
         "q": "முதுகெலும்பிகளின் அகஎலும்புக்கூட்டை உருவாக்கும் ஆதார இணைப்புத் திசுக்கள்",
         "options": [
-          "தசைநாண்களும் தசைநார்களும்",
+          "குருத்தெலும்பும் எலும்பும்",
           "இரத்தமும் நிணநீரும்",
           "ஏரியோலார், கொழுப்புத் திசுக்கள்",
-          "குருத்தெலும்பும் எலும்பும்"
+          "தசைநாண்களும் தசைநார்களும்"
         ],
         "explanation": "இவை உறுப்புகளைப் பாதுகாத்து இடப்பெயர்ச்சிக்கு உதவுகின்றன."
       }
@@ -590,12 +590,12 @@
       "bloom": "remember",
       "page": 224,
       "quote": "VII. 1. What is the consequence that occur if all blood platelets are removed from the blood?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "If all blood platelets were removed from the blood, which process would fail?",
         "options": [
-          "Transport of oxygen",
           "Blood clotting",
+          "Transport of oxygen",
           "Antibody production",
           "Digestion"
         ],
@@ -604,8 +604,8 @@
       "ta": {
         "q": "இரத்தத்திலிருந்து அனைத்து இரத்தத் தட்டுகளும் நீக்கப்பட்டால் தடைபடும் செயல்",
         "options": [
-          "ஆக்ஸிஜன் கடத்தல்",
           "இரத்தம் உறைதல்",
+          "ஆக்ஸிஜன் கடத்தல்",
           "நோய் எதிர்ப்புப் பொருள் உற்பத்தி",
           "செரிமானம்"
         ],

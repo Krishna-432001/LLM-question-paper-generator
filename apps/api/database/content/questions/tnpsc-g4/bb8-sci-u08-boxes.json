@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 83,
       "quote": "Rockets were invented in China more than 800 years ago. The first rockets were a cardboard tube packed with gunpowder called fire arrows. In 1232 AD, the Chinese used these 'fire arrows' to defeat the invading Mongol army.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Rockets were first invented in ______.",
         "options": [
-          "China",
-          "India",
           "Russia",
+          "India",
+          "China",
           "the USA"
         ],
         "explanation": "The first rockets were cardboard tubes packed with gunpowder, called fire arrows."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "ராக்கெட்டுகள் முதலில் ______ இல் கண்டுபிடிக்கப்பட்டன.",
         "options": [
-          "சீனா",
-          "இந்தியா",
           "ரஷ்யா",
+          "இந்தியா",
+          "சீனா",
           "அமெரிக்கா"
         ],
         "explanation": "முதல் ராக்கெட்டுகள் வெடிமருந்து நிரப்பிய அட்டைக் குழாய்கள்; 'தீ அம்புகள்' எனப்பட்டன."
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 84,
       "quote": "The structural system is the frame that covers the rocket. It is made up of very strong but light weight materials like titanium or aluminum. Fins are attached at the bottom to provide stability during the flight.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The frame of a rocket is made of strong but lightweight materials like ______.",
         "options": [
           "lead or tin",
-          "titanium or aluminium",
           "wood or glass",
+          "titanium or aluminium",
           "copper or zinc"
         ],
         "explanation": "Fins at the bottom provide stability during flight."
@@ -54,8 +54,8 @@
         "q": "ராக்கெட்டின் கட்டமைப்பு வலிமையான ஆனால் எடை குறைந்த ______ போன்ற பொருள்களால் ஆனது.",
         "options": [
           "ஈயம் அல்லது தகரம்",
-          "டைட்டானியம் அல்லது அலுமினியம்",
           "மரம் அல்லது கண்ணாடி",
+          "டைட்டானியம் அல்லது அலுமினியம்",
           "தாமிரம் அல்லது துத்தநாகம்"
         ],
         "explanation": "கீழ்ப்பகுதியிலுள்ள துடுப்புகள் பறக்கும்போது நிலைப்புத்தன்மை தருகின்றன."
@@ -68,24 +68,24 @@
       "bloom": "remember",
       "page": 84,
       "quote": "Guidance system guides the rocket in its path. It may include sensors, on-board computers, radars, and communication equipments.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The system that guides a rocket in its path is the ______.",
         "options": [
-          "payload system",
+          "guidance system",
           "structural system",
           "propulsion system",
-          "guidance system"
+          "payload system"
         ],
         "explanation": "It may include sensors, on-board computers, radars and communication equipment."
       },
       "ta": {
         "q": "ராக்கெட்டை அதன் பாதையில் வழிநடத்தும் அமைப்பு ______.",
         "options": [
-          "சுமை அமைப்பு",
+          "வழிகாட்டி அமைப்பு",
           "கட்டமைப்பு அமைப்பு",
           "உந்து அமைப்பு",
-          "வழிகாட்டி அமைப்பு"
+          "சுமை அமைப்பு"
         ],
         "explanation": "இதில் உணரிகள், கணினிகள், ரேடார்கள், தகவல்தொடர்புக் கருவிகள் இருக்கலாம்."
       }
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 84,
       "quote": "A propellant is a mixture which contains a fuel that burns and an oxidizer which supplies the oxygen necessary for the burning of the fuel.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "In a propellant, the substance that supplies the oxygen required for burning the fuel is the ______.",
         "options": [
           "nozzle",
-          "payload",
+          "oxidizer",
           "fin",
-          "oxidizer"
+          "payload"
         ],
         "explanation": "A propellant is a mixture of fuel and oxidizer."
       },
@@ -112,9 +112,9 @@
         "q": "உந்துபொருளில் எரிபொருள் எரியத் தேவையான ஆக்சிஜனை அளிப்பது ______.",
         "options": [
           "முனை (நாசில்)",
-          "சுமை",
+          "ஆக்சிஜனேற்றி",
           "துடுப்பு",
-          "ஆக்சிஜனேற்றி"
+          "சுமை"
         ],
         "explanation": "உந்துபொருள் என்பது எரிபொருளும் ஆக்சிஜனேற்றியும் கலந்த கலவை."
       }
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 85,
       "quote": "Liquid fuels: liquid hydrogen, hydrazine and ethyl alcohol. Oxidizers: oxygen, ozone, hydrogen peroxide and fuming nitric acid. Solid fuels: polyurethanes and poly butadienes.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which of the following is a liquid rocket fuel?",
         "options": [
-          "Polyurethane",
-          "Poly butadiene",
           "Liquid hydrogen",
+          "Poly butadiene",
+          "Polyurethane",
           "Nitrate salts"
         ],
         "explanation": "Polyurethanes and poly butadienes are solid fuels; nitrate and chlorate salts are solid oxidizers."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் திரவ ராக்கெட் எரிபொருள் எது?",
         "options": [
-          "பாலியூரித்தேன்",
-          "பாலிபியூட்டாடையீன்",
           "திரவ ஹைட்ரஜன்",
+          "பாலிபியூட்டாடையீன்",
+          "பாலியூரித்தேன்",
           "நைட்ரேட் உப்புகள்"
         ],
         "explanation": "பாலியூரித்தேன், பாலிபியூட்டாடையீன் திண்ம எரிபொருள்கள்; நைட்ரேட், குளோரேட் உப்புகள் திண்ம ஆக்சிஜனேற்றிகள்."
@@ -184,24 +184,24 @@
       "bloom": "remember",
       "page": 86,
       "quote": "In 1969, Indian Space Research Organisation (ISRO) was formed. The first ever satellite Aryabhata was launched in 1975.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "India's first satellite, Aryabhata, was launched in ______.",
         "options": [
-          "1969",
+          "1975",
           "1984",
           "2008",
-          "1975"
+          "1969"
         ],
         "explanation": "ISRO was formed in 1969."
       },
       "ta": {
         "q": "இந்தியாவின் முதல் செயற்கைக்கோள் ஆர்யபட்டா ______ இல் ஏவப்பட்டது.",
         "options": [
-          "1969",
+          "1975",
           "1984",
           "2008",
-          "1975"
+          "1969"
         ],
         "explanation": "இஸ்ரோ 1969-இல் உருவாக்கப்பட்டது."
       }
@@ -213,12 +213,12 @@
       "bloom": "remember",
       "page": 86,
       "quote": "Rakesh Sharma, an Indian pilot from Punjab was selected as a 'Cosmonaut' in a joint space program between India and Soviet Russia and became the first Indian to enter into the space on 2nd April, 1984.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The first Indian to enter space (2 April 1984) was ______.",
         "options": [
-          "Rakesh Sharma",
           "Kalpana Chawla",
+          "Rakesh Sharma",
           "Sunita Williams",
           "Vikram Sarabhai"
         ],
@@ -227,8 +227,8 @@
       "ta": {
         "q": "1984 ஏப்ரல் 2 அன்று விண்வெளிக்குச் சென்ற முதல் இந்தியர் ______.",
         "options": [
-          "ராகேஷ் சர்மா",
           "கல்பனா சாவ்லா",
+          "ராகேஷ் சர்மா",
           "சுனிதா வில்லியம்ஸ்",
           "விக்ரம் சாராபாய்"
         ],
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 86,
       "quote": "Chandrayaan-1 was put into the lunar orbit on 8th November 2008. The spacecraft was orbiting around the Moon at a height of 100 km. It was operated for 312 days and achieved 95% of its objectives.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Chandrayaan-1 orbited the Moon at a height of ______ above the lunar surface.",
         "options": [
           "10 km",
-          "1000 km",
           "100 km",
+          "1000 km",
           "384 km"
         ],
         "explanation": "It operated for 312 days and achieved 95% of its objectives."
@@ -257,8 +257,8 @@
         "q": "சந்திரயான்-1 நிலவின் பரப்பிலிருந்து ______ உயரத்தில் சுற்றி வந்தது.",
         "options": [
           "10 கி.மீ",
-          "1000 கி.மீ",
           "100 கி.மீ",
+          "1000 கி.மீ",
           "384 கி.மீ"
         ],
         "explanation": "இது 312 நாள்கள் இயங்கி 95% இலக்குகளை எட்டியது."
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 87,
       "quote": "Chandrayaan-1 achievements: discovery of presence of water molecules in the lunar soil; confirmed that the Moon was completely molten once; discovered large caves on the lunar surface.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which discovery was made by Chandrayaan-1?",
         "options": [
           "Life on the Moon",
-          "Presence of water molecules in the lunar soil",
           "An atmosphere on the Moon",
+          "Presence of water molecules in the lunar soil",
           "Oceans on the Moon"
         ],
         "explanation": "It also confirmed that the Moon was completely molten once."
@@ -286,8 +286,8 @@
         "q": "சந்திரயான்-1 கண்டறிந்தது எது?",
         "options": [
           "நிலவில் உயிரினங்கள் இருப்பதை",
-          "நிலவு மண்ணில் நீர் மூலக்கூறுகள் இருப்பதை",
           "நிலவில் வளிமண்டலம் இருப்பதை",
+          "நிலவு மண்ணில் நீர் மூலக்கூறுகள் இருப்பதை",
           "நிலவில் கடல்கள் இருப்பதை"
         ],
         "explanation": "நிலவு ஒருகாலத்தில் முழுவதும் உருகிய நிலையில் இருந்ததையும் உறுதிப்படுத்தியது."
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 87,
       "quote": "Kalam Sat is the world's smallest satellite weighing only 64 gram. It was built by a team of high school students led by Rifath Sharook, an 18 year old school student from 'Pallapatti' near Karur, Tamil Nadu. It was launched into space on 22nd June 2017 by NASA.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Kalam Sat, the world's smallest satellite weighing 64 g, was built by a team led by ______ of Tamil Nadu.",
         "options": [
-          "Mylsamy Annadurai",
-          "K. Sivan",
           "Rifath Sharook",
+          "K. Sivan",
+          "Mylsamy Annadurai",
           "P. Veeramuthuvel"
         ],
         "explanation": "He was an 18-year-old school student from Pallapatti near Karur; it was launched by NASA on 22 June 2017."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "64 கி எடையுள்ள உலகின் மிகச் சிறிய செயற்கைக்கோள் கலாம் சாட்டை உருவாக்கிய குழுவை வழிநடத்திய தமிழக மாணவர் ______.",
         "options": [
-          "மயில்சாமி அண்ணாதுரை",
-          "கே. சிவன்",
           "ரிஃபாத் ஷாரூக்",
+          "கே. சிவன்",
+          "மயில்சாமி அண்ணாதுரை",
           "பி. வீரமுத்துவேல்"
         ],
         "explanation": "கரூர் அருகிலுள்ள பள்ளபட்டியைச் சேர்ந்த 18 வயது மாணவர்; 2017 ஜூன் 22 அன்று நாசா ஏவியது."
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 87,
       "quote": "Dr. Mylsamy Annadurai was born on 2nd July 1958 at Kodhavadi near Pollachi. He served as the Project Director of Chandrayaan-1.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The Project Director of Chandrayaan-1 was ______.",
         "options": [
-          "Dr. Mylsamy Annadurai",
-          "Dr. K. Sivan",
           "Vanitha Muthayya",
+          "Dr. K. Sivan",
+          "Dr. Mylsamy Annadurai",
           "Dr. P. Veeramuthuvel"
         ],
         "explanation": "He was born at Kodhavadi near Pollachi (Coimbatore district) on 2 July 1958."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "சந்திரயான்-1 திட்ட இயக்குநர் ______.",
         "options": [
-          "டாக்டர் மயில்சாமி அண்ணாதுரை",
-          "டாக்டர் கே. சிவன்",
           "வனிதா முத்தையா",
+          "டாக்டர் கே. சிவன்",
+          "டாக்டர் மயில்சாமி அண்ணாதுரை",
           "டாக்டர் பி. வீரமுத்துவேல்"
         ],
         "explanation": "இவர் கோவை மாவட்டம் பொள்ளாச்சி அருகிலுள்ள கோதவாடியில் 1958 ஜூலை 2 அன்று பிறந்தார்."
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 88,
       "quote": "Mars is the fourth planet from the Sun. It is the second smallest planet in the solar system. Mars is called the Red Planet because of its reddish colour due to iron oxide.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Mars appears red because of ______ on its surface and in its dusty atmosphere.",
         "options": [
           "copper sulphate",
-          "sodium chloride",
+          "iron oxide",
           "carbon dioxide ice",
-          "iron oxide"
+          "sodium chloride"
         ],
         "explanation": "Mars is the fourth planet from the Sun and rotates once in 24 h 37 min."
       },
@@ -402,9 +402,9 @@
         "q": "செவ்வாய் சிவப்பாகத் தோன்றுவதற்குக் காரணம் அதன் பரப்பிலும் தூசு நிறைந்த வளிமண்டலத்திலும் உள்ள ______.",
         "options": [
           "காப்பர் சல்பேட்",
-          "சோடியம் குளோரைடு",
+          "இரும்பு ஆக்சைடு",
           "கார்பன் டை ஆக்சைடு பனி",
-          "இரும்பு ஆக்சைடு"
+          "சோடியம் குளோரைடு"
         ],
         "explanation": "செவ்வாய் சூரியனிலிருந்து நான்காவது கோள்; 24 மணி 37 நிமிடத்தில் ஒருமுறை சுழல்கிறது."
       }
@@ -445,14 +445,14 @@
       "bloom": "remember",
       "page": 89,
       "quote": "The Moon is the only natural satellite of the Earth. It is at a mean distance of about 3,84,400 km from the Earth. Its diameter is 3,474 km. It has no atmosphere of its own. The time period of rotation of the Moon about its own axis is equal to the time period of revolution around the Earth.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The mean distance of the Moon from the Earth is about ______.",
         "options": [
           "38,440 km",
-          "3,84,400 km",
+          "1,50,000,000 km",
           "3,474 km",
-          "1,50,000,000 km"
+          "3,84,400 km"
         ],
         "explanation": "The Moon's diameter is 3,474 km and it has no atmosphere of its own."
       },
@@ -460,9 +460,9 @@
         "q": "நிலவு புவியிலிருந்து சராசரியாக ______ தொலைவில் உள்ளது.",
         "options": [
           "38,440 கி.மீ",
-          "3,84,400 கி.மீ",
+          "15,00,00,000 கி.மீ",
           "3,474 கி.மீ",
-          "15,00,00,000 கி.மீ"
+          "3,84,400 கி.மீ"
         ],
         "explanation": "நிலவின் விட்டம் 3,474 கி.மீ; அதற்குச் சொந்த வளிமண்டலம் இல்லை."
       }
@@ -532,13 +532,13 @@
       "bloom": "remember",
       "page": 90,
       "quote": "NASA is the most popular space agency whose headquarters is located at Washington, USA. It was established on 1st October 1958. It has 10 field centers.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "NASA was established on ______.",
         "options": [
           "1st October 1969",
-          "1st October 1958",
           "15th August 1947",
+          "1st October 1958",
           "22nd October 2008"
         ],
         "explanation": "NASA's headquarters is at Washington, USA."
@@ -547,8 +547,8 @@
         "q": "நாசா நிறுவப்பட்ட நாள் ______.",
         "options": [
           "1 அக்டோபர் 1969",
-          "1 அக்டோபர் 1958",
           "15 ஆகஸ்ட் 1947",
+          "1 அக்டோபர் 1958",
           "22 அக்டோபர் 2008"
         ],
         "explanation": "நாசாவின் தலைமையகம் அமெரிக்காவின் வாஷிங்டனில் உள்ளது."
@@ -561,12 +561,12 @@
       "bloom": "remember",
       "page": 90,
       "quote": "Apollo missions consists of totally 17 missions. Apollo-8 was the first manned mission to go to the Moon. Apollo-11 landed on the Moon on 20th July 1969. Neil Armstrong was the first man to walk on the surface of the Moon.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Apollo-11 landed on the Moon on ______.",
         "options": [
-          "20th July 1959",
           "20th July 1969",
+          "20th July 1959",
           "22nd July 2019",
           "1st October 1958"
         ],
@@ -575,8 +575,8 @@
       "ta": {
         "q": "அப்பல்லோ-11 நிலவில் இறங்கிய நாள் ______.",
         "options": [
-          "20 ஜூலை 1959",
           "20 ஜூலை 1969",
+          "20 ஜூலை 1959",
           "22 ஜூலை 2019",
           "1 அக்டோபர் 1958"
         ],
@@ -590,24 +590,24 @@
       "bloom": "remember",
       "page": 91,
       "quote": "Members of Apollo-11 Mission: Neil Armstrong, Buzz Aldrin and Michael Collins. NASA made an agreement to work with ISRO to launch the NISAR Satellite.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which satellite is a joint NASA-ISRO mission?",
         "options": [
-          "NISAR",
+          "Apollo-8",
           "Aryabhata",
           "Kalam Sat",
-          "Apollo-8"
+          "NISAR"
         ],
         "explanation": "NISAR stands for NASA-ISRO Synthetic Aperture Radar; it was launched in July 2025."
       },
       "ta": {
         "q": "நாசா-இஸ்ரோ கூட்டுத் திட்டமாக ஏவப்பட்ட செயற்கைக்கோள் எது?",
         "options": [
-          "நிசார் (NISAR)",
+          "அப்பல்லோ-8",
           "ஆர்யபட்டா",
           "கலாம் சாட்",
-          "அப்பல்லோ-8"
+          "நிசார் (NISAR)"
         ],
         "explanation": "NISAR என்பது NASA-ISRO Synthetic Aperture Radar; இது 2025 ஜூலையில் ஏவப்பட்டது."
       }
@@ -619,13 +619,13 @@
       "bloom": "remember",
       "page": 91,
       "quote": "Kalpana Chawla was born on 17th March 1962 in Karnal. In 1988, she joined NASA. She was selected for the Columbia Shuttle Mission in 1997 and became the first Indian woman astronaut to go to space. She travelled over 10.4 million miles in 252 orbits of the Earth, logging more than 372 hours in space.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Kalpana Chawla joined NASA in ______.",
         "options": [
           "1962",
-          "1997",
           "1988",
+          "1997",
           "2003"
         ],
         "explanation": "She flew on Columbia in 1997 and logged more than 372 hours in space."
@@ -634,8 +634,8 @@
         "q": "கல்பனா சாவ்லா நாசாவில் சேர்ந்த ஆண்டு ______.",
         "options": [
           "1962",
-          "1997",
           "1988",
+          "1997",
           "2003"
         ],
         "explanation": "1997-இல் கொலம்பியா விண்கலத்தில் பயணித்து 372 மணிக்கு மேல் விண்வெளியில் இருந்தார்."

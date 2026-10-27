@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 87,
       "quote": "1. Man-made radioactivity is also known as a. Induced radioactivity b. Spontaneous radioactivity c. Artificial radioactivity d. a & c",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Man-made radioactivity is also known as",
         "options": [
           "spontaneous radioactivity only",
-          "natural radioactivity",
+          "induced radioactivity and artificial radioactivity",
           "spontaneous and natural radioactivity",
-          "induced radioactivity and artificial radioactivity"
+          "natural radioactivity"
         ],
         "explanation": "Artificial (induced) radioactivity is produced by bombarding stable nuclei with particles."
       },
@@ -25,9 +25,9 @@
         "q": "மனிதனால் உருவாக்கப்படும் கதிரியக்கம் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "தன்னிச்சைக் கதிரியக்கம் மட்டும்",
-          "இயற்கைக் கதிரியக்கம்",
+          "தூண்டப்பட்ட கதிரியக்கம் மற்றும் செயற்கைக் கதிரியக்கம்",
           "தன்னிச்சை மற்றும் இயற்கைக் கதிரியக்கம்",
-          "தூண்டப்பட்ட கதிரியக்கம் மற்றும் செயற்கைக் கதிரியக்கம்"
+          "இயற்கைக் கதிரியக்கம்"
         ],
         "explanation": "நிலையான உட்கருக்களைத் துகள்களால் தாக்கி உருவாக்கப்படுவது செயற்கை (தூண்டப்பட்ட) கதிரியக்கம்."
       }
@@ -68,12 +68,12 @@
       "bloom": "remember",
       "page": 87,
       "quote": "3. Artificial radioactivity was discovered by a. Bequerel b. Irene Curie c. Roentgen d. Neils Bohr",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Artificial radioactivity was discovered by",
         "options": [
-          "Henri Becquerel",
           "Irene Curie",
+          "Henri Becquerel",
           "Niels Bohr",
           "Roentgen"
         ],
@@ -82,8 +82,8 @@
       "ta": {
         "q": "செயற்கைக் கதிரியக்கத்தைக் கண்டறிந்தவர்",
         "options": [
-          "ஹென்றி பெக்கொரல்",
           "ஐரின் கியூரி",
+          "ஹென்றி பெக்கொரல்",
           "நீல்ஸ் போர்",
           "ராண்ட்ஜன்"
         ],
@@ -97,14 +97,14 @@
       "bloom": "understand",
       "page": 87,
       "quote": "4. In which of the following, no change in mass number of the daughter nuclei takes place i) α decay ii) β decay iii) γ decay iv) neutron decay a. (i) is correct b. (ii) and (iii) are correct c. (i) & (iv) are correct d. (ii) & (iv) are correct",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "In which of the following decays is there no change in the mass number of the daughter nucleus?\n(i) α decay\n(ii) β decay\n(iii) γ decay\n(iv) neutron emission",
         "options": [
           "(ii) and (iv)",
           "(i) and (iv)",
-          "(ii) and (iii)",
-          "(i) only"
+          "(i) only",
+          "(ii) and (iii)"
         ],
         "explanation": "α decay lowers the mass number by 4 and neutron emission lowers it by 1; β decay and γ decay leave it unchanged."
       },
@@ -113,8 +113,8 @@
         "options": [
           "(ii), (iv)",
           "(i), (iv)",
-          "(ii), (iii)",
-          "(i) மட்டும்"
+          "(i) மட்டும்",
+          "(ii), (iii)"
         ],
         "explanation": "α சிதைவில் நிறை எண் 4-உம் நியூட்ரான் உமிழ்வில் 1-உம் குறையும்; β, γ சிதைவுகளில் மாறாது."
       }
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 87,
       "quote": "5. ____________ isotope is used for the treatment of cancer. a. Radio Iodine b. Radio Cobalt c. Radio Carbon d. Radio Nickel",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which radioisotope is used for the treatment of cancer?",
         "options": [
           "Radio nickel",
-          "Radio cobalt",
           "Radio carbon",
+          "Radio cobalt",
           "Radio sodium"
         ],
         "explanation": "Co-60 and Au-198 are used in the treatment of skin cancer."
@@ -141,8 +141,8 @@
         "q": "புற்றுநோய் சிகிச்சையில் பயன்படும் கதிரியக்க ஐசோடோப்பு",
         "options": [
           "ரேடியோ நிக்கல்",
-          "ரேடியோ கோபால்ட்",
           "ரேடியோ கார்பன்",
+          "ரேடியோ கோபால்ட்",
           "ரேடியோ சோடியம்"
         ],
         "explanation": "Co-60, Au-198 ஆகியவை தோல் புற்றுநோய் சிகிச்சையில் பயன்படுகின்றன."
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 87,
       "quote": "7. _____________ aprons are used to protect us from gamma radiations a. Lead oxide b. Iron c. Lead d. Aluminium",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Aprons made of ____ are used to protect us from gamma radiations.",
         "options": [
           "aluminium",
-          "lead",
           "iron",
+          "lead",
           "copper"
         ],
         "explanation": "Lead absorbs gamma rays effectively; X-ray technicians wear lead aprons."
@@ -170,8 +170,8 @@
         "q": "காமாக் கதிரியக்கத்திலிருந்து நம்மைப் பாதுகாக்க ____ உறைகள் பயன்படுகின்றன.",
         "options": [
           "அலுமினியம்",
-          "காரீயம் (ஈயம்)",
           "இரும்பு",
+          "காரீயம் (ஈயம்)",
           "தாமிரம்"
         ],
         "explanation": "காரீயம் காமா கதிர்களை நன்கு உட்கவரும்; X-கதிர் தொழில்நுட்பவியலாளர்கள் காரீய உறை அணிவர்."
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 87,
       "quote": "11. Kamini reactor is located at __________ a. Kalpakkam b. Koodankulam c. Mumbai d. Rajasthan",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The Kamini reactor is located at",
         "options": [
           "Rajasthan",
           "Mumbai",
-          "Kalpakkam",
-          "Koodankulam"
+          "Koodankulam",
+          "Kalpakkam"
         ],
         "explanation": "Kalpakkam also houses the Indira Gandhi Centre for Atomic Research (IGCAR)."
       },
@@ -287,8 +287,8 @@
         "options": [
           "ராஜஸ்தான்",
           "மும்பை",
-          "கல்பாக்கம்",
-          "கூடங்குளம்"
+          "கூடங்குளம்",
+          "கல்பாக்கம்"
         ],
         "explanation": "இந்திரா காந்தி அணு ஆராய்ச்சி மையமும் (IGCAR) கல்பாக்கத்தில் உள்ளது."
       }
@@ -300,13 +300,13 @@
       "bloom": "understand",
       "page": 87,
       "quote": "12. Which of the following is/are correct? i. Chain reaction takes place in a nuclear reactor and an atomic bomb. ii. The chain reaction in a nuclear reactor is controlled iii. The chain reaction in a nuclear reactor is not controlled iv. No chain reaction takes place in an atom bomb",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which of the following is/are correct?\n(i) A chain reaction takes place in a nuclear reactor and in an atom bomb.\n(ii) The chain reaction in a nuclear reactor is controlled.\n(iii) The chain reaction in a nuclear reactor is not controlled.\n(iv) No chain reaction takes place in an atom bomb.",
         "options": [
           "(i) only",
-          "(iii) and (iv)",
           "(i) and (ii)",
+          "(iii) and (iv)",
           "(iv) only"
         ],
         "explanation": "Reactor: controlled chain reaction; atom bomb: uncontrolled chain reaction."
@@ -315,8 +315,8 @@
         "q": "பின்வருவனவற்றுள் சரியானவை:\n(i) அணுக்கரு உலையிலும் அணுகுண்டிலும் தொடர்வினை நிகழும்.\n(ii) அணுக்கரு உலையில் கட்டுப்படுத்தப்பட்ட தொடர்வினை நிகழும்.\n(iii) அணுக்கரு உலையில் கட்டுப்படுத்தப்படாத தொடர்வினை நிகழும்.\n(iv) அணுகுண்டில் தொடர்வினை நிகழாது.",
         "options": [
           "(i) மட்டும்",
-          "(iii), (iv)",
           "(i), (ii)",
+          "(iii), (iv)",
           "(iv) மட்டும்"
         ],
         "explanation": "உலையில் கட்டுப்படுத்தப்பட்ட தொடர்வினை; அணுகுண்டில் கட்டுப்படுத்தப்படாத தொடர்வினை."
@@ -329,24 +329,24 @@
       "bloom": "remember",
       "page": 87,
       "quote": "2. Positron is an____________.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "A positron is",
         "options": [
-          "an antiparticle of the electron",
+          "a photon",
           "a neutral particle",
           "a particle with the mass of a proton",
-          "a photon"
+          "an antiparticle of the electron"
         ],
         "explanation": "A positron has the same mass as an electron but a positive charge."
       },
       "ta": {
         "q": "பாசிட்ரான் என்பது",
         "options": [
-          "எலக்ட்ரானின் எதிர்த்துகள்",
+          "ஃபோட்டான்",
           "மின்னூட்டமற்ற துகள்",
           "புரோட்டான் நிறையுடைய துகள்",
-          "ஃபோட்டான்"
+          "எலக்ட்ரானின் எதிர்த்துகள்"
         ],
         "explanation": "பாசிட்ரானின் நிறை எலக்ட்ரானுக்குச் சமம்; ஆனால் நேர்மின்னூட்டம் உடையது."
       }
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 87,
       "quote": "3. Anemia can be cured by ____________ isotope",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Anaemia can be treated using the radioisotope of",
         "options": [
-          "sodium (Na-24)",
-          "carbon (C-14)",
           "iron (Fe-59)",
+          "carbon (C-14)",
+          "sodium (Na-24)",
           "iodine (I-131)"
         ],
         "explanation": "Fe-59 is used in the treatment of anaemia; I-131 for thyroid disease."
@@ -372,9 +372,9 @@
       "ta": {
         "q": "இரத்தசோகையைக் குணப்படுத்தும் ஐசோடோப்பு",
         "options": [
-          "சோடியம் (Na-24)",
-          "கார்பன் (C-14)",
           "இரும்பு (Fe-59)",
+          "கார்பன் (C-14)",
+          "சோடியம் (Na-24)",
           "அயோடின் (I-131)"
         ],
         "explanation": "இரத்தசோகைக்கு Fe-59; தைராய்டு நோய்க்கு I-131."
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 87,
       "quote": "4. Abbreviation of ICRP______",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "ICRP stands for",
         "options": [
-          "International Council of Reactor Physics",
-          "Indian Commission on Radiological Protection",
           "International Commission on Radiological Protection",
+          "Indian Commission on Radiological Protection",
+          "International Council of Reactor Physics",
           "Indian Council for Radiation Physics"
         ],
         "explanation": "ICRP recommends the safe limits of radiation exposure."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "ICRP என்பதன் விரிவாக்கம்",
         "options": [
-          "International Council of Reactor Physics",
-          "Indian Commission on Radiological Protection",
           "International Commission on Radiological Protection",
+          "Indian Commission on Radiological Protection",
+          "International Council of Reactor Physics",
           "Indian Council for Radiation Physics"
         ],
         "explanation": "ICRP கதிர்வீச்சு வெளிப்பாட்டின் பாதுகாப்பு வரம்புகளைப் பரிந்துரைக்கிறது."
@@ -474,14 +474,14 @@
       "bloom": "apply",
       "page": 87,
       "quote": "7. Z Y A -> Z+1 Y A + X; Then, X is __________",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "In the nuclear reaction ᶻYᴬ → ᶻ⁺¹Yᴬ + X, the particle X is",
         "options": [
           "a γ photon",
-          "a β particle (electron)",
+          "a neutron",
           "an α particle",
-          "a neutron"
+          "a β particle (electron)"
         ],
         "explanation": "The atomic number rises by one and the mass number is unchanged, as in β decay."
       },
@@ -489,9 +489,9 @@
         "q": "ᶻYᴬ → ᶻ⁺¹Yᴬ + X என்ற வினையில் X என்பது",
         "options": [
           "γ ஃபோட்டான்",
-          "β துகள் (எலக்ட்ரான்)",
+          "நியூட்ரான்",
           "α துகள்",
-          "நியூட்ரான்"
+          "β துகள் (எலக்ட்ரான்)"
         ],
         "explanation": "அணு எண் ஒன்று உயர்ந்து நிறை எண் மாறாதது β சிதைவின் பண்பு."
       }
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 87,
       "quote": "8. Z X A -> Z Y A This reaction is possible in ______________ decay.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The change ᶻXᴬ → ᶻYᴬ (same atomic number and mass number) occurs in",
         "options": [
           "neutron decay",
-          "α decay",
+          "γ decay",
           "β decay",
-          "γ decay"
+          "α decay"
         ],
         "explanation": "In γ decay only the energy level of the nucleus changes."
       },
@@ -518,9 +518,9 @@
         "q": "ᶻXᴬ → ᶻYᴬ (அணு எண்ணும் நிறை எண்ணும் மாறாத) வினை நிகழும் சிதைவு",
         "options": [
           "நியூட்ரான் சிதைவு",
-          "α சிதைவு",
+          "γ சிதைவு",
           "β சிதைவு",
-          "γ சிதைவு"
+          "α சிதைவு"
         ],
         "explanation": "γ சிதைவில் உட்கருவின் ஆற்றல் மட்டம் மட்டுமே மாறும்."
       }
@@ -532,14 +532,14 @@
       "bloom": "remember",
       "page": 87,
       "quote": "10. Nuclear fusion is possible only at an extremely high temperature of the order of ____ K.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Nuclear fusion is possible only at an extremely high temperature of the order of",
         "options": [
           "10² K",
-          "10³ K",
+          "10⁷ to 10⁹ K",
           "10⁻² K",
-          "10⁷ to 10⁹ K"
+          "10³ K"
         ],
         "explanation": "The kinetic energy of the nuclei must overcome their electrostatic repulsion."
       },
@@ -547,9 +547,9 @@
         "q": "அணுக்கரு இணைவு நடைபெற மிக உயர் வெப்பநிலை தேவை; அது ஏறக்குறைய",
         "options": [
           "10² K",
-          "10³ K",
+          "10⁷ முதல் 10⁹ K",
           "10⁻² K",
-          "10⁷ முதல் 10⁹ K"
+          "10³ K"
         ],
         "explanation": "உட்கருக்களின் நிலை மின்னியல் விலக்கு விசையை இயக்க ஆற்றல் வெல்ல வேண்டும்."
       }
@@ -619,14 +619,14 @@
       "bloom": "remember",
       "page": 87,
       "quote": "1. Plutonium-239 is a fissionable material.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Which of the following is a fissile material (fissions with slow neutrons)?",
         "options": [
           "Thorium-232",
           "Lead-208",
-          "Plutonium-239",
-          "Uranium-238"
+          "Uranium-238",
+          "Plutonium-239"
         ],
         "explanation": "Pu-239 undergoes fission with slow neutrons (fissile); U-238, Th-232 and Pu-240 are fertile materials that can be converted into fissionable materials."
       },
@@ -635,8 +635,8 @@
         "options": [
           "தோரியம்-232",
           "காரீயம்-208",
-          "புளுட்டோனியம்-239",
-          "யுரேனியம்-238"
+          "யுரேனியம்-238",
+          "புளுட்டோனியம்-239"
         ],
         "explanation": "Pu-239 மெதுவான நியூட்ரான்களால் பிளவுறும் (fissile); U-238, Th-232, Pu-240 ஆகியவை பிளவுறு பொருட்களாக மாற்றப்படக்கூடிய வளமைப் (fertile) பொருட்கள்."
       }
@@ -706,24 +706,24 @@
       "bloom": "remember",
       "page": 87,
       "quote": "4. Natural uranium U-238 is the core fuel used in a nuclear reactor.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The core fuel used in a nuclear reactor is",
         "options": [
-          "enriched uranium rich in U-235",
+          "natural uranium U-238 alone",
           "plutonium-240",
           "thorium-232 alone",
-          "natural uranium U-238 alone"
+          "enriched uranium rich in U-235"
         ],
         "explanation": "U-238 is fertile, not fissile; the fissile U-235 is the fuel."
       },
       "ta": {
         "q": "அணுக்கரு உலையின் உட்கருவில் பயன்படும் எரிபொருள்",
         "options": [
-          "U-235 செறிவூட்டப்பட்ட யுரேனியம்",
+          "இயற்கை யுரேனியம் U-238 மட்டும்",
           "புளுட்டோனியம்-240",
           "தோரியம்-232 மட்டும்",
-          "இயற்கை யுரேனியம் U-238 மட்டும்"
+          "U-235 செறிவூட்டப்பட்ட யுரேனியம்"
         ],
         "explanation": "U-238 வளமைப் பொருள்; பிளவுக்கு உட்படும் U-235 தான் எரிபொருள்."
       }
@@ -735,13 +735,13 @@
       "bloom": "remember",
       "page": 87,
       "quote": "5. If a moderator is not present, then a nuclear reactor will behave as an atom bomb.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The function of a moderator in a nuclear reactor is to",
         "options": [
           "shield the reactor from radiation",
-          "slow down high-energy neutrons",
           "absorb neutrons completely",
+          "slow down high-energy neutrons",
           "convert heat into electricity"
         ],
         "explanation": "Graphite and heavy water are commonly used moderators; control rods absorb neutrons."
@@ -750,8 +750,8 @@
         "q": "அணுக்கரு உலையில் தணிப்பானின் பணி",
         "options": [
           "உலையைக் கதிர்வீச்சிலிருந்து தடுப்பது",
-          "அதிக ஆற்றல் நியூட்ரான்களின் வேகத்தைக் குறைப்பது",
           "நியூட்ரான்களை முழுவதும் உட்கவர்வது",
+          "அதிக ஆற்றல் நியூட்ரான்களின் வேகத்தைக் குறைப்பது",
           "வெப்பத்தை மின்னாற்றலாக மாற்றுவது"
         ],
         "explanation": "கிராஃபைட், கனநீர் ஆகியவை தணிப்பான்கள்; கட்டுப்படுத்தும் கழிகள் நியூட்ரான்களை உட்கவரும்."
@@ -764,13 +764,13 @@
       "bloom": "remember",
       "page": 87,
       "quote": "6. During one nuclear fission on an average, 2 to 3 neutrons are produced.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "On an average, the number of neutrons released in one nuclear fission is",
         "options": [
           "zero",
-          "1 only",
           "2 to 3",
+          "1 only",
           "10 to 12"
         ],
         "explanation": "These neutrons can cause further fission; some are lost by leakage."
@@ -779,8 +779,8 @@
         "q": "ஒரு அணுக்கரு பிளவு வினையில் சராசரியாக வெளியாகும் நியூட்ரான்களின் எண்ணிக்கை",
         "options": [
           "சுழி",
-          "1 மட்டும்",
           "2 முதல் 3",
+          "1 மட்டும்",
           "10 முதல் 12"
         ],
         "explanation": "இவை மேலும் பிளவை உண்டாக்கும்; சில நியூட்ரான்கள் கசிந்து இழக்கப்படும்."
@@ -851,24 +851,24 @@
       "bloom": "remember",
       "page": 88,
       "quote": "Match III: a. Soddy Fajan b. Irene Curie c. Henry Bequerel d. Albert Einstein — Natural radioactivity, Displacement law, Mass energy equivalence, Artificial Radioactivity",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Match the scientist in List I with List II:\n(a) Soddy and Fajan\n(b) Irene Curie\n(c) Henri Becquerel\n(d) Albert Einstein\n— \n(1) Artificial radioactivity\n(2) Mass–energy equivalence\n(3) Displacement law\n(4) Natural radioactivity",
         "options": [
-          "a-3, b-1, c-4, d-2",
+          "a-1, b-2, c-4, d-3",
           "a-3, b-4, c-2, d-1",
           "a-3, b-4, c-1, d-2",
-          "a-1, b-2, c-4, d-3"
+          "a-3, b-1, c-4, d-2"
         ],
         "explanation": "Soddy–Fajans – displacement law; Irene Curie – artificial radioactivity; Becquerel – natural radioactivity; Einstein – mass–energy equivalence."
       },
       "ta": {
         "q": "அறிவியலறிஞரைப் பட்டியல் II உடன் பொருத்துக:\n(a) சாடி, ஃபஜன்ஸ்\n(b) ஐரின் கியூரி\n(c) ஹென்றி பெக்கொரல்\n(d) ஆல்பர்ட் ஐன்ஸ்டீன்\n— \n(1) செயற்கைக் கதிரியக்கம்\n(2) நிறை–ஆற்றல் சமன்பாடு\n(3) இடப்பெயர்ச்சி விதி\n(4) இயற்கைக் கதிரியக்கம்",
         "options": [
-          "a-3, b-1, c-4, d-2",
+          "a-1, b-2, c-4, d-3",
           "a-3, b-4, c-2, d-1",
           "a-3, b-4, c-1, d-2",
-          "a-1, b-2, c-4, d-3"
+          "a-3, b-1, c-4, d-2"
         ],
         "explanation": "சாடி–ஃபஜன்ஸ் – இடப்பெயர்ச்சி விதி; ஐரின் கியூரி – செயற்கைக் கதிரியக்கம்; பெக்கொரல் – இயற்கைக் கதிரியக்கம்; ஐன்ஸ்டீன் – நிறை ஆற்றல் சமன்பாடு."
       }
@@ -880,12 +880,12 @@
       "bloom": "remember",
       "page": 88,
       "quote": "Match IV: a. Uncontrolled fission reaction b. Fertile material c. Controlled fission reaction d. Fusion reaction — Hydrogen Bomb, Nuclear Reactor, Breeder reactor, Atom bomb",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Match List I with List II:\n(a) Uncontrolled fission reaction\n(b) Fertile material\n(c) Controlled fission reaction\n(d) Fusion reaction\n— \n(1) Breeder reactor\n(2) Atom bomb\n(3) Hydrogen bomb\n(4) Nuclear reactor",
         "options": [
-          "a-1, b-4, c-2, d-3",
           "a-2, b-1, c-4, d-3",
+          "a-1, b-4, c-2, d-3",
           "a-3, b-2, c-1, d-4",
           "a-4, b-1, c-2, d-3"
         ],
@@ -894,8 +894,8 @@
       "ta": {
         "q": "பட்டியல் I-ஐப் பட்டியல் II உடன் பொருத்துக:\n(a) கட்டுப்பாடற்ற தொடர்வினை\n(b) வளமைப் பொருள்கள்\n(c) கட்டுப்பாடான தொடர்வினை\n(d) இணைவு வினை\n— \n(1) உற்பத்தி உலை\n(2) அணுகுண்டு\n(3) ஹைட்ரஜன் குண்டு\n(4) அணுக்கரு உலை",
         "options": [
-          "a-1, b-4, c-2, d-3",
           "a-2, b-1, c-4, d-3",
+          "a-1, b-4, c-2, d-3",
           "a-3, b-2, c-1, d-4",
           "a-4, b-1, c-2, d-3"
         ],
@@ -909,14 +909,14 @@
       "bloom": "remember",
       "page": 88,
       "quote": "Match V: a. Fe-59 b. I-131 c. Na-24 d. C-14 — Age of fossil, Function of heart, anaemia (Tamil text), Thyroid disease",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Match the radioisotope in List I with its use in List II:\n(a) Fe-59\n(b) I-131\n(c) Na-24\n(d) C-14\n— \n(1) Age of fossils\n(2) Anaemia\n(3) Functioning of the heart (blood circulation)\n(4) Thyroid disease",
         "options": [
           "a-3, b-2, c-1, d-4",
           "a-4, b-1, c-3, d-2",
-          "a-3, b-2, c-4, d-1",
-          "a-2, b-4, c-3, d-1"
+          "a-2, b-4, c-3, d-1",
+          "a-3, b-2, c-4, d-1"
         ],
         "explanation": "Fe-59 – anaemia (the English book prints 'Leukemia' for this item; the Tamil book gives anaemia); I-131 – thyroid disease; Na-24 – heart function; C-14 – age of fossils."
       },
@@ -925,8 +925,8 @@
         "options": [
           "a-3, b-2, c-1, d-4",
           "a-4, b-1, c-3, d-2",
-          "a-3, b-2, c-4, d-1",
-          "a-2, b-4, c-3, d-1"
+          "a-2, b-4, c-3, d-1",
+          "a-3, b-2, c-4, d-1"
         ],
         "explanation": "Fe-59 – இரத்தசோகை; I-131 – தைராய்டு நோய்; Na-24 – இதயத்தின் செயல்பாடு; C-14 – படிமங்களின் வயது."
       }
@@ -938,13 +938,13 @@
       "bloom": "remember",
       "page": 88,
       "quote": "1. Arrange in descending order, on the basis of their penetration power: Alpha rays, beta rays, gamma rays, cosmic rays",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Arranged in the descending order of penetrating power, alpha rays, beta rays, gamma rays and cosmic rays are",
         "options": [
-          "alpha rays > beta rays > gamma rays > cosmic rays",
-          "gamma rays > cosmic rays > beta rays > alpha rays",
           "cosmic rays > gamma rays > beta rays > alpha rays",
+          "gamma rays > cosmic rays > beta rays > alpha rays",
+          "alpha rays > beta rays > gamma rays > cosmic rays",
           "cosmic rays > beta rays > gamma rays > alpha rays"
         ],
         "explanation": "Cosmic rays are the most penetrating, then γ, β and α."
@@ -952,9 +952,9 @@
       "ta": {
         "q": "ஊடுருவு திறனின் இறங்கு வரிசையில் ஆல்பா, பீட்டா, காமா, அண்டக் கதிர்களை வரிசைப்படுத்துக.",
         "options": [
-          "ஆல்பா > பீட்டா > காமா > அண்டக் கதிர்கள்",
-          "காமா > அண்டக் கதிர்கள் > பீட்டா > ஆல்பா",
           "அண்டக் கதிர்கள் > காமா > பீட்டா > ஆல்பா",
+          "காமா > அண்டக் கதிர்கள் > பீட்டா > ஆல்பா",
+          "ஆல்பா > பீட்டா > காமா > அண்டக் கதிர்கள்",
           "அண்டக் கதிர்கள் > பீட்டா > காமா > ஆல்பா"
         ],
         "explanation": "அண்டக் கதிர்களுக்கு ஊடுருவு திறன் மிக அதிகம்; அடுத்து γ, β, α."
@@ -967,14 +967,14 @@
       "bloom": "remember",
       "page": 88,
       "quote": "2. Arrange the following in the chronological order of discovery: Nuclear reactor, radioactivity, artificial radioactivity, discovery of radium.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The correct chronological order of discovery is",
         "options": [
           "radium → radioactivity → nuclear reactor → artificial radioactivity",
-          "radioactivity → artificial radioactivity → radium → nuclear reactor",
+          "radioactivity → radium → artificial radioactivity → nuclear reactor",
           "artificial radioactivity → radioactivity → radium → nuclear reactor",
-          "radioactivity → radium → artificial radioactivity → nuclear reactor"
+          "radioactivity → artificial radioactivity → radium → nuclear reactor"
         ],
         "explanation": "Becquerel (1896), Curies' radium (1898), Irene Curie and Joliot (1934), first reactor (1942)."
       },
@@ -982,9 +982,9 @@
         "q": "கண்டுபிடிப்பின் சரியான கால வரிசை",
         "options": [
           "ரேடியம் → கதிரியக்கம் → அணுக்கரு உலை → செயற்கைக் கதிரியக்கம்",
-          "கதிரியக்கம் → செயற்கைக் கதிரியக்கம் → ரேடியம் → அணுக்கரு உலை",
+          "கதிரியக்கம் → ரேடியம் → செயற்கைக் கதிரியக்கம் → அணுக்கரு உலை",
           "செயற்கைக் கதிரியக்கம் → கதிரியக்கம் → ரேடியம் → அணுக்கரு உலை",
-          "கதிரியக்கம் → ரேடியம் → செயற்கைக் கதிரியக்கம் → அணுக்கரு உலை"
+          "கதிரியக்கம் → செயற்கைக் கதிரியக்கம் → ரேடியம் → அணுக்கரு உலை"
         ],
         "explanation": "பெக்கொரல் (1896), கியூரி தம்பதியின் ரேடியம் (1898), ஐரின் கியூரி–ஜோலியோ (1934), முதல் அணுக்கரு உலை (1942)."
       }
@@ -996,13 +996,13 @@
       "bloom": "remember",
       "page": 88,
       "quote": "1. Spontaneous process : Natural Radioactivity, Induced process : ________",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Spontaneous process : natural radioactivity :: induced process : ____",
         "options": [
           "natural radioactivity",
-          "artificial radioactivity",
           "gamma decay",
+          "artificial radioactivity",
           "nuclear fusion"
         ],
         "explanation": "Induced radioactivity is man-made (artificial)."
@@ -1011,8 +1011,8 @@
         "q": "தன்னிச்சையான உமிழ்வு : இயற்கைக் கதிரியக்கம் :: தூண்டப்பட்ட உமிழ்வு : ____",
         "options": [
           "இயற்கைக் கதிரியக்கம்",
-          "செயற்கைக் கதிரியக்கம்",
           "காமா சிதைவு",
+          "செயற்கைக் கதிரியக்கம்",
           "அணுக்கரு இணைவு"
         ],
         "explanation": "தூண்டப்பட்ட கதிரியக்கம் மனிதனால் உருவாக்கப்படுவது (செயற்கை)."
@@ -1025,13 +1025,13 @@
       "bloom": "remember",
       "page": 88,
       "quote": "3. Increasing crops : Radio phosphorous, Effective functioning of heart : _____",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Increasing crops : radio phosphorus :: effective functioning of the heart : ____",
         "options": [
           "radio cobalt (Co-60)",
-          "radio carbon (C-14)",
           "radio sodium (Na-24)",
+          "radio carbon (C-14)",
           "radio iron (Fe-59)"
         ],
         "explanation": "Na-24 is used to study blood circulation and the functioning of the heart."
@@ -1040,8 +1040,8 @@
         "q": "விளைச்சல் அதிகரிப்பு : ரேடியோ பாஸ்பரஸ் :: இதயத்தின் சீரான செயல்பாடு : ____",
         "options": [
           "ரேடியோ கோபால்ட் (Co-60)",
-          "ரேடியோ கார்பன் (C-14)",
           "ரேடியோ சோடியம் (Na-24)",
+          "ரேடியோ கார்பன் (C-14)",
           "ரேடியோ இரும்பு (Fe-59)"
         ],
         "explanation": "Na-24 இரத்த ஓட்டத்தையும் இதயச் செயல்பாட்டையும் ஆராயப் பயன்படுகிறது."
@@ -1112,13 +1112,13 @@
       "bloom": "apply",
       "page": 88,
       "quote": "2. A cobalt specimen emits induced radiation of 75.6 millicurie per second. Convert this disintegration in to becquerel (one curie = 3.7 × 10^10 Bq)",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "A cobalt specimen emits induced radiation of 75.6 millicurie. In becquerel (1 curie = 3.7 × 10¹⁰ Bq) this is about",
         "options": [
           "3.7 × 10¹⁰ Bq",
-          "2.8 × 10⁹ Bq",
           "7.56 × 10⁷ Bq",
+          "2.8 × 10⁹ Bq",
           "2.8 × 10¹² Bq"
         ],
         "explanation": "75.6 × 10⁻³ × 3.7 × 10¹⁰ ≈ 2.8 × 10⁹ Bq."
@@ -1127,8 +1127,8 @@
         "q": "ஒரு கோபால்ட் மாதிரி 75.6 மில்லி கியூரி அளவில் தூண்டப்பட்ட கதிரியக்கத்தை உமிழ்கிறது. இதை பெக்கொரலில் மாற்றினால் (1 கியூரி = 3.7 × 10¹⁰ Bq) தோராயமாக",
         "options": [
           "3.7 × 10¹⁰ Bq",
-          "2.8 × 10⁹ Bq",
           "7.56 × 10⁷ Bq",
+          "2.8 × 10⁹ Bq",
           "2.8 × 10¹² Bq"
         ],
         "explanation": "75.6 × 10⁻³ × 3.7 × 10¹⁰ ≈ 2.8 × 10⁹ Bq."
@@ -1228,13 +1228,13 @@
       "bloom": "remember",
       "page": 89,
       "quote": "1. Who discovered natural radioactivity?",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Natural radioactivity was discovered by",
         "options": [
-          "Irene Curie",
-          "Ernest Rutherford",
           "Henri Becquerel",
+          "Ernest Rutherford",
+          "Irene Curie",
           "James Chadwick"
         ],
         "explanation": "Becquerel discovered it in 1896 while studying uranium salts."
@@ -1242,9 +1242,9 @@
       "ta": {
         "q": "இயற்கைக் கதிரியக்கத்தைக் கண்டறிந்தவர்",
         "options": [
-          "ஐரின் கியூரி",
-          "எர்னஸ்ட் ரூதர்ஃபோர்டு",
           "ஹென்றி பெக்கொரல்",
+          "எர்னஸ்ட் ரூதர்ஃபோர்டு",
+          "ஐரின் கியூரி",
           "ஜேம்ஸ் சாட்விக்"
         ],
         "explanation": "1896-இல் யுரேனியம் உப்புகளை ஆராயும்போது பெக்கொரல் இதைக் கண்டறிந்தார்."
@@ -1257,13 +1257,13 @@
       "bloom": "remember",
       "page": 89,
       "quote": "4. Write the name of the electromagnetic radiation which is emitted during a natural radioactivity.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The electromagnetic radiation emitted during natural radioactivity is",
         "options": [
           "beta rays",
-          "gamma rays",
           "alpha rays",
+          "gamma rays",
           "cathode rays"
         ],
         "explanation": "Gamma rays are electromagnetic waves consisting of photons."
@@ -1272,8 +1272,8 @@
         "q": "இயற்கைக் கதிரியக்கத்தின்போது வெளியாகும் மின்காந்தக் கதிர்",
         "options": [
           "பீட்டாக் கதிர்கள்",
-          "காமாக் கதிர்கள்",
           "ஆல்பாக் கதிர்கள்",
+          "காமாக் கதிர்கள்",
           "கேதோடு கதிர்கள்"
         ],
         "explanation": "காமாக் கதிர்கள் ஃபோட்டான்களாலான மின்காந்த அலைகள்."
@@ -1315,12 +1315,12 @@
       "bloom": "remember",
       "page": 89,
       "quote": "6. What is the average energy released from a single fission process?",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The average energy released in a single nuclear fission process is about",
         "options": [
-          "200 MeV",
           "2 MeV",
+          "200 MeV",
           "2000 MeV",
           "20 MeV"
         ],
@@ -1329,8 +1329,8 @@
       "ta": {
         "q": "ஒரு அணுக்கரு பிளவு வினையில் வெளியாகும் சராசரி ஆற்றல் தோராயமாக",
         "options": [
-          "200 MeV",
           "2 MeV",
+          "200 MeV",
           "2000 MeV",
           "20 MeV"
         ],
@@ -1344,13 +1344,13 @@
       "bloom": "remember",
       "page": 89,
       "quote": "9. When and where was the first nuclear reactor built?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The first nuclear reactor was built in",
         "options": [
           "1954 at Mumbai, India",
-          "1942 at Chicago, USA",
           "1945 at Tokyo, Japan",
+          "1942 at Chicago, USA",
           "1932 at Cambridge, UK"
         ],
         "explanation": "India's first reactor was Apsara (also the first in Asia)."
@@ -1359,8 +1359,8 @@
         "q": "முதல் அணுக்கரு உலை கட்டப்பட்ட ஆண்டும் இடமும்",
         "options": [
           "1954, மும்பை (இந்தியா)",
-          "1942, சிகாகோ (அமெரிக்கா)",
           "1945, டோக்கியோ (ஜப்பான்)",
+          "1942, சிகாகோ (அமெரிக்கா)",
           "1932, கேம்பிரிட்ஜ் (இங்கிலாந்து)"
         ],
         "explanation": "இந்தியாவின் முதல் அணுக்கரு உலை அப்சரா (ஆசியாவிலும் முதலாவது)."
@@ -1373,13 +1373,13 @@
       "bloom": "remember",
       "page": 89,
       "quote": "3. Define one roentgen.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "One roentgen is the quantity of radiation which produces, in 1 kg of air under standard conditions, a charge of",
         "options": [
-          "2.58 × 10⁻⁴ coulomb",
-          "1.6 × 10⁻¹⁹ coulomb",
           "10⁶ coulomb",
+          "1.6 × 10⁻¹⁹ coulomb",
+          "2.58 × 10⁻⁴ coulomb",
           "3.7 × 10¹⁰ coulomb"
         ],
         "explanation": "The roentgen measures the exposure of γ and X-rays."
@@ -1387,9 +1387,9 @@
       "ta": {
         "q": "நிலையான நிபந்தனைகளில் 1 கிகி காற்றில் எவ்வளவு மின்னூட்டத்தை உண்டாக்கும் கதிர்வீச்சின் அளவு ஒரு ராண்ட்ஜன்?",
         "options": [
-          "2.58 × 10⁻⁴ கூலூம்",
-          "1.6 × 10⁻¹⁹ கூலூம்",
           "10⁶ கூலூம்",
+          "1.6 × 10⁻¹⁹ கூலூம்",
+          "2.58 × 10⁻⁴ கூலூம்",
           "3.7 × 10¹⁰ கூலூம்"
         ],
         "explanation": "ராண்ட்ஜன் γ, X-கதிர் வெளிப்பாட்டின் அலகு."

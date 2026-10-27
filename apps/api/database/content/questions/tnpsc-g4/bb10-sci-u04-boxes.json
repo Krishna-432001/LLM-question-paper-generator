@@ -10,24 +10,24 @@
       "bloom": "remember",
       "page": 54,
       "quote": "The first LED television screen was developed by James P. Mitchell in 1977. It was a monochromatic display. But, after about three decades, in 2009, SONY introduced the first commercial LED Television.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The first LED television screen developed in 1977 was a ____ display.",
         "options": [
-          "monochromatic",
+          "touch-sensitive",
           "red, green and blue colour",
           "three-dimensional",
-          "touch-sensitive"
+          "monochromatic"
         ],
         "explanation": "The lesson adds that SONY introduced the first commercial LED television in 2009."
       },
       "ta": {
         "q": "1977-இல் உருவாக்கப்பட்ட முதல் LED தொலைக்காட்சித் திரை ____ காட்சியாக இருந்தது.",
         "options": [
-          "ஒருநிறக் (மோனோகுரோம்)",
+          "தொடுதிரைக்",
           "சிவப்பு, பச்சை, நீல வண்ணக்",
           "முப்பரிமாணக்",
-          "தொடுதிரைக்"
+          "ஒருநிறக் (மோனோகுரோம்)"
         ],
         "explanation": "2009-இல் SONY முதல் வணிக LED தொலைக்காட்சியை அறிமுகப்படுத்தியது என்றும் பாடம் கூறுகிறது."
       }
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 54,
       "quote": "4.12.1 Advantages of LED television: It has brighter picture quality. It is thinner in size. It uses less power ... Its life span is more. It is more reliable.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following is NOT an advantage of an LED television listed in the lesson?",
         "options": [
           "It has a longer life span",
           "It has brighter picture quality",
-          "It is thinner in size",
-          "It consumes more energy"
+          "It consumes more energy",
+          "It is thinner in size"
         ],
         "explanation": "The lesson lists brighter picture, thinner size, less power and energy use, longer life and more reliability."
       },
@@ -84,8 +84,8 @@
         "options": [
           "நீண்ட ஆயுள்",
           "பிரகாசமான காட்சி",
-          "மெல்லிய அளவு",
-          "அதிக ஆற்றலை நுகர்தல்"
+          "அதிக ஆற்றலை நுகர்தல்",
+          "மெல்லிய அளவு"
         ],
         "explanation": "பிரகாசமான காட்சி, மெல்லிய அளவு, குறைந்த மின்திறன்/ஆற்றல் நுகர்வு, நீண்ட ஆயுள், நம்பகத்தன்மை ஆகியவை பாடத்தில் உள்ளன."
       }
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 54,
       "quote": "Points to Remember: The SI unit of electric potential and potential difference is volt (V). The SI unit of electric current is ampere (A).",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The SI units of electric current and of potential difference are respectively",
         "options": [
           "coulomb and volt",
           "volt and ampere",
-          "ampere and volt",
-          "ampere and ohm"
+          "ampere and ohm",
+          "ampere and volt"
         ],
         "explanation": "Current is the rate of flow of charge in a conductor; the unit of charge is the coulomb."
       },
@@ -113,8 +113,8 @@
         "options": [
           "கூலூம், வோல்ட்",
           "வோல்ட், ஆம்பியர்",
-          "ஆம்பியர், வோல்ட்",
-          "ஆம்பியர், ஓம்"
+          "ஆம்பியர், ஓம்",
+          "ஆம்பியர், வோல்ட்"
         ],
         "explanation": "மின்னோட்டம் என்பது கடத்தியில் மின்னூட்டம் பாயும் வீதம்; மின்னூட்டத்தின் அலகு கூலூம்."
       }
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 54,
       "quote": "Points to Remember: An electric circuit is a network of electrical components, which forms a continuous and closed path for an electric current to pass through it.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "A network of electrical components that forms a continuous closed path for the current to flow is called",
         "options": [
-          "a generator",
-          "an electric field",
           "an electric circuit",
+          "an electric field",
+          "a generator",
           "a fuse"
         ],
         "explanation": "Closing the switch completes the circuit and the current flows."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "மின்னோட்டம் பாய்வதற்குத் தொடர்ச்சியான மூடிய பாதையை அமைக்கும் மின் கூறுகளின் வலையமைப்பு",
         "options": [
-          "மின்னியற்றி",
-          "மின்புலம்",
           "மின்சுற்று",
+          "மின்புலம்",
+          "மின்னியற்றி",
           "மின் உருகி"
         ],
         "explanation": "சாவியை மூடினால் சுற்று நிறைவடைந்து மின்னோட்டம் பாயும்."
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 54,
       "quote": "Points to Remember: The reciprocal of electrical resistivity of a material is called its electrical conductivity. σ = 1/ρ",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The reciprocal of the electrical resistivity of a material is called its",
         "options": [
-          "electrical conductivity",
           "power",
+          "electrical conductivity",
           "resistance",
           "potential"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "ஒரு பொருளின் மின்தடை எண்ணின் தலைகீழி",
         "options": [
-          "மின் கடத்து எண்",
           "மின்திறன்",
+          "மின் கடத்து எண்",
           "மின்தடை",
           "மின்னழுத்தம்"
         ],
@@ -213,13 +213,13 @@
       "bloom": "understand",
       "page": 54,
       "quote": "Points to Remember: The function of a fuse wire or a MCB is to protect the house hold electrical appliances from excess current due to overloading or a short circuit.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Consider the following:\n(i) A fuse wire protects household appliances from excess current.\n(ii) MCB stands for Miniature Circuit Breaker.\n(iii) A fuse wire is made of a material of very high melting point.\nWhich are correct?",
         "options": [
-          "(i) and (ii) only",
-          "(i) and (iii) only",
           "(ii) and (iii) only",
+          "(i) and (iii) only",
+          "(i) and (ii) only",
           "(i), (ii) and (iii)"
         ],
         "explanation": "A fuse wire is made of a low-melting-point material so that it melts and breaks the circuit when the current is excessive."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "பின்வருவனவற்றைக் கருதுக:\n(i) மின் உருகு இழை வீட்டுச் சாதனங்களை அதிக மின்னோட்டத்திலிருந்து பாதுகாக்கிறது.\n(ii) MCB என்பது மின்சுற்று உடைப்பி (Miniature Circuit Breaker).\n(iii) மின் உருகு இழை மிக அதிக உருகுநிலை கொண்ட பொருளால் ஆனது.\nசரியானவை எவை?",
         "options": [
-          "(i), (ii) மட்டும்",
-          "(i), (iii) மட்டும்",
           "(ii), (iii) மட்டும்",
+          "(i), (iii) மட்டும்",
+          "(i), (ii) மட்டும்",
           "(i), (ii), (iii)"
         ],
         "explanation": "அதிக மின்னோட்டத்தில் உருகி சுற்றைத் துண்டிக்கக் குறைந்த உருகுநிலைப் பொருளே உருகு இழைக்குப் பயன்படுகிறது."
@@ -242,13 +242,13 @@
       "bloom": "apply",
       "page": 54,
       "quote": "Solved Problem 1: Two bulbs are having the ratings as 60 W, 220 V and 40 W, 220 V respectively. Which one has a greater resistance? ... lesser the power, greater the resistance",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "For bulbs working at the same voltage, the bulb with the lower power rating has",
         "options": [
           "zero resistance",
-          "the greater resistance",
           "the same resistance",
+          "the greater resistance",
           "the smaller resistance"
         ],
         "explanation": "P = V²/R; for the same V, R is inversely proportional to P."
@@ -257,8 +257,8 @@
         "q": "ஒரே மின்னழுத்தத்தில் இயங்கும் விளக்குகளில் குறைந்த மின்திறன் மதிப்புடைய விளக்கின் மின்தடை",
         "options": [
           "சுழியாக இருக்கும்",
-          "அதிகமாக இருக்கும்",
           "சமமாக இருக்கும்",
+          "அதிகமாக இருக்கும்",
           "குறைவாக இருக்கும்"
         ],
         "explanation": "P = V²/R; V சமம் எனில் R ஆனது P-க்கு எதிர்த்தகவில் இருக்கும்."
@@ -271,13 +271,13 @@
       "bloom": "apply",
       "page": 54,
       "quote": "Solved Problem 2: Calculate the current and the resistance of a 100 W, 200 V electric bulb in an electric circuit.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The current and the resistance of a 100 W, 200 V bulb are respectively",
         "options": [
           "2 A and 400 Ω",
-          "0.5 A and 100 Ω",
           "0.5 A and 400 Ω",
+          "0.5 A and 100 Ω",
           "2 A and 100 Ω"
         ],
         "explanation": "I = P/V = 100/200 = 0.5 A; R = V/I = 200/0.5 = 400 Ω."
@@ -286,8 +286,8 @@
         "q": "100 W, 200 V மின்விளக்கின் மின்னோட்டமும் மின்தடையும் முறையே",
         "options": [
           "2 A, 400 Ω",
-          "0.5 A, 100 Ω",
           "0.5 A, 400 Ω",
+          "0.5 A, 100 Ω",
           "2 A, 100 Ω"
         ],
         "explanation": "I = P/V = 100/200 = 0.5 A; R = V/I = 200/0.5 = 400 Ω."
@@ -300,12 +300,12 @@
       "bloom": "apply",
       "page": 55,
       "quote": "Solved Problem 3: three resistors R1, R2, R3 of 5 Ω, 10 Ω and 20 Ω connected in parallel across 10 V ... I = 2 + 1 + 0.5 = 3.5 A ... R = 2.857 Ω",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Three resistors of 5 Ω, 10 Ω and 20 Ω are connected in parallel across a 10 V source. The total current drawn is",
         "options": [
-          "0.35 A",
           "3.5 A",
+          "0.35 A",
           "1.75 A",
           "35 A"
         ],
@@ -314,8 +314,8 @@
       "ta": {
         "q": "5 Ω, 10 Ω, 20 Ω மின்தடைகள் 10 V மூலத்தின் குறுக்கே பக்க இணைப்பில் உள்ளன. சுற்றில் பாயும் மொத்த மின்னோட்டம்",
         "options": [
-          "0.35 A",
           "3.5 A",
+          "0.35 A",
           "1.75 A",
           "35 A"
         ],

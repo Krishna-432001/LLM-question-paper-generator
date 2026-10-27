@@ -68,14 +68,14 @@
       "bloom": "understand",
       "page": 271,
       "quote": "4. DNA consists of two ____________ chains",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A DNA molecule consists of two _______ chains coiled to form a double helix.",
         "options": [
           "polypeptide",
-          "polysaccharide",
+          "polynucleotide",
           "phospholipid",
-          "polynucleotide"
+          "polysaccharide"
         ],
         "explanation": "DNA is a double helix of two polynucleotide chains held by hydrogen bonds between the base pairs."
       },
@@ -83,9 +83,9 @@
         "q": "DNA இரு ________ சங்கிலிகளால் ஆனது.",
         "options": [
           "பாலிபெப்டைடு",
-          "பாலிசாக்கரைடு",
+          "பாலிநியூக்ளியோடைடு",
           "பாஸ்போலிப்பிட்",
-          "பாலிநியூக்ளியோடைடு"
+          "பாலிசாக்கரைடு"
         ],
         "explanation": "DNA என்பது காரங்களுக்கிடையேயான ஹைட்ரஜன் பிணைப்புகளால் இணைந்த இரு பாலிநியூக்ளியோடைடு சங்கிலிகளாலான இரட்டைச் சுருள் ஆகும்."
       }
@@ -97,12 +97,12 @@
       "bloom": "understand",
       "page": 271,
       "quote": "2. A recessive factor is altered by the presence of a dominant factor.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "In a hybrid, the recessive factor in the presence of a dominant factor",
         "options": [
-          "is destroyed",
           "remains unaltered but is masked",
+          "is destroyed",
           "changes into the dominant factor",
           "is lost from the gametes"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "ஒரு கலப்புயிரியில் ஓங்கு காரணியின் முன்னிலையில் ஒடுங்கு காரணி",
         "options": [
-          "அழிந்துவிடுகிறது",
           "மாற்றமடையாமல் மறைக்கப்படுகிறது",
+          "அழிந்துவிடுகிறது",
           "ஓங்கு காரணியாக மாறுகிறது",
           "கேமீட்டுகளிலிருந்து இழக்கப்படுகிறது"
         ],
@@ -184,24 +184,24 @@
       "bloom": "understand",
       "page": 271,
       "quote": "7. Down's syndrome is the genetic condition with 45 chromosomes.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "A person with Down's syndrome has how many chromosomes?",
         "options": [
-          "47",
+          "48",
           "45",
           "46",
-          "48"
+          "47"
         ],
         "explanation": "The book statement (45) is false: Down's syndrome is trisomy 21 with 47 chromosomes."
       },
       "ta": {
         "q": "டவுன் சிண்ட்ரோம் உடையவரிடம் உள்ள குரோமோசோம்களின் எண்ணிக்கை",
         "options": [
-          "47",
+          "48",
           "45",
           "46",
-          "48"
+          "47"
         ],
         "explanation": "புத்தகக் கூற்று (45) தவறு; டவுன் சிண்ட்ரோம் 21-ஆவது குரோமோசோம் மூவிணை; மொத்தம் 47 குரோமோசோம்கள்."
       }
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 272,
       "quote": "1. What is a cross in which inheritance of two pairs of contrasting characters are studied?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "A cross in which the inheritance of two pairs of contrasting characters is studied is a",
         "options": [
           "monohybrid cross",
-          "test cross",
           "dihybrid cross",
+          "test cross",
           "back cross only"
         ],
         "explanation": "A dihybrid cross studies two pairs of contrasting traits, e.g. seed shape and seed colour."
@@ -228,8 +228,8 @@
         "q": "இரு இணை எதிரிடைப் பண்புகளின் மரபுக்கடத்தலை ஆராயும் கலப்பு",
         "options": [
           "ஒருபண்புக் கலப்பு",
-          "தேர்வுக் கலப்பு",
           "இருபண்புக் கலப்பு",
+          "தேர்வுக் கலப்பு",
           "பின் கலப்பு மட்டும்"
         ],
         "explanation": "இருபண்புக் கலப்பு இரு இணை எதிரிடைப் பண்புகளை (எ.கா. விதை வடிவம், நிறம்) ஆராய்கிறது."
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 272,
       "quote": "3. What are allosomes?",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Allosomes are",
         "options": [
           "the 22 pairs of non-sex chromosomes",
           "chromosomes of mitochondria",
-          "sex chromosomes (the 23rd pair)",
-          "the ends of chromosomes"
+          "the ends of chromosomes",
+          "sex chromosomes (the 23rd pair)"
         ],
         "explanation": "Of the 23 pairs in humans, 22 pairs are autosomes and the 23rd pair, the allosomes, determines sex."
       },
@@ -316,8 +316,8 @@
         "options": [
           "பால் சாராத 22 இணை குரோமோசோம்கள்",
           "மைட்டோகாண்ட்ரியா குரோமோசோம்கள்",
-          "பால் குரோமோசோம்கள் (23-ஆவது இணை)",
-          "குரோமோசோமின் முனைகள்"
+          "குரோமோசோமின் முனைகள்",
+          "பால் குரோமோசோம்கள் (23-ஆவது இணை)"
         ],
         "explanation": "மனிதரின் 23 இணைகளில் 22 இணை ஆட்டோசோம்கள்; 23-ஆவது இணை அல்லோசோம்கள் (பால் குரோமோசோம்கள்) ஆகும்."
       }
@@ -329,12 +329,12 @@
       "bloom": "understand",
       "page": 272,
       "quote": "4. What are Okazaki fragments?",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Okazaki fragments are",
         "options": [
-          "short DNA segments synthesised on the lagging strand during replication",
           "fragments of RNA primer in mRNA",
+          "short DNA segments synthesised on the lagging strand during replication",
           "broken pieces of chromosomes in mutation",
           "segments of the DNA backbone"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "ஒகாசாகி துண்டுகள் என்பவை",
         "options": [
-          "இரட்டிப்பாதலின்போது பின்தங்கிய இழையில் உருவாகும் சிறு DNA துண்டுகள்",
           "mRNA-வின் RNA முதன்மைத் துண்டுகள்",
+          "இரட்டிப்பாதலின்போது பின்தங்கிய இழையில் உருவாகும் சிறு DNA துண்டுகள்",
           "சடுதிமாற்றத்தில் உடைந்த குரோமோசோம் துண்டுகள்",
           "DNA முதுகெலும்பின் பகுதிகள்"
         ],
@@ -387,13 +387,13 @@
       "bloom": "understand",
       "page": 273,
       "quote": "2. c. Which type of plants were missing in F1 generation but reappeared in F2 generation?",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "In a monohybrid tall × dwarf cross, the plants that are missing in F1 but reappear in F2 are",
         "options": [
-          "tall plants",
-          "medium plants",
           "dwarf plants",
+          "medium plants",
+          "tall plants",
           "no plants reappear"
         ],
         "explanation": "The recessive dwarf trait is masked in F1 but reappears in one-fourth of the F2 plants."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "ஒருபண்புக் கலப்பில் F1-ல் மறைந்து F2-ல் மீண்டும் தோன்றும் தாவரங்கள்",
         "options": [
-          "நெட்டைத் தாவரங்கள்",
-          "நடுத்தர உயரத் தாவரங்கள்",
           "குட்டைத் தாவரங்கள்",
+          "நடுத்தர உயரத் தாவரங்கள்",
+          "நெட்டைத் தாவரங்கள்",
           "எதுவும் மீண்டும் தோன்றாது"
         ],
         "explanation": "ஒடுங்கு பண்பான குட்டைத்தன்மை F1-ல் மறைந்து F2-ல் கால் பங்கில் மீண்டும் தோன்றுகிறது."

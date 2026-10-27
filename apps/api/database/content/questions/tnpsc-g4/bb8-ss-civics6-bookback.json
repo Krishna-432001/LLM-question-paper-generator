@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 214,
       "quote": "1. The Supreme Commander of the Armed forces is our a) President b) Prime Minister c) Governor d) Chief Minister",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The Supreme Commander of the Armed Forces of India is the ______.",
         "options": [
           "Prime Minister",
-          "Governor",
+          "President",
           "Chief Minister",
-          "President"
+          "Governor"
         ],
         "explanation": "The President, as head of the State, occupies the highest position in the defence organisation."
       },
@@ -25,9 +25,9 @@
         "q": "இந்தியப் படைகளின் தலைமைத் தளபதி ______.",
         "options": [
           "பிரதமர்",
-          "ஆளுநர்",
+          "குடியரசுத் தலைவர்",
           "முதலமைச்சர்",
-          "குடியரசுத் தலைவர்"
+          "ஆளுநர்"
         ],
         "explanation": "நாட்டின் தலைவரான குடியரசுத் தலைவர் பாதுகாப்பு அமைப்பின் உயர் பதவியை வகிக்கிறார்."
       }
@@ -68,24 +68,24 @@
       "bloom": "remember",
       "page": 217,
       "quote": "3. The Army day is a) 15th January b) 1st February c) 10th March d) 7th October",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Army Day is observed on ______.",
         "options": [
-          "15th January",
+          "7th October",
           "1st February",
           "10th March",
-          "7th October"
+          "15th January"
         ],
         "explanation": "Coast Guard Day is 1 February, Air Force Day 8 October and Navy Day 4 December."
       },
       "ta": {
         "q": "இராணுவ நாள் ______ அன்று கடைப்பிடிக்கப்படுகிறது.",
         "options": [
-          "ஜனவரி 15",
+          "அக்டோபர் 7",
           "பிப்ரவரி 1",
           "மார்ச் 10",
-          "அக்டோபர் 7"
+          "ஜனவரி 15"
         ],
         "explanation": "கடலோரக் காவல் படை நாள் பிப்ரவரி 1; விமானப்படை நாள் அக்டோபர் 8; கடற்படை நாள் டிசம்பர் 4."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 216,
       "quote": "4. Assam Rifles is under the control of a) Ministry of Defence b) National Security Advisor c) PMO d) Ministry of Home Affairs",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The Assam Rifles is under the administrative control of the ______.",
         "options": [
-          "Ministry of Defence",
-          "National Security Advisor",
           "Ministry of Home Affairs",
+          "National Security Advisor",
+          "Ministry of Defence",
           "Prime Minister's Office"
         ],
         "explanation": "There are currently 46 battalions of Assam Rifles."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "அசாம் ரைபில்ஸ் ______ நிர்வாகக் கட்டுப்பாட்டில் உள்ளது.",
         "options": [
-          "பாதுகாப்பு அமைச்சகத்தின்",
-          "தேசியப் பாதுகாப்பு ஆலோசகரின்",
           "உள்துறை அமைச்சகத்தின்",
+          "தேசியப் பாதுகாப்பு ஆலோசகரின்",
+          "பாதுகாப்பு அமைச்சகத்தின்",
           "பிரதமர் அலுவலகத்தின்"
         ],
         "explanation": "அசாம் ரைபில்ஸில் தற்போது 46 பட்டாலியன்கள் உள்ளன."
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 215,
       "quote": "5. Indian Coast Guard was established in a) 1976 b) 1977 c) 1978 d) 1979",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The Indian Coast Guard was established in ______ by the Coast Guard Act of Parliament.",
         "options": [
-          "1978",
-          "1976",
           "1977",
+          "1976",
+          "1978",
           "1979"
         ],
         "explanation": "It operates under the Ministry of Defence."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "இந்தியக் கடலோரக் காவல் படை நாடாளுமன்றத்தின் கடலோரக் காவல் படைச் சட்டத்தால் ______ இல் நிறுவப்பட்டது.",
         "options": [
-          "1978",
-          "1976",
           "1977",
+          "1976",
+          "1978",
           "1979"
         ],
         "explanation": "இது பாதுகாப்பு அமைச்சகத்தின்கீழ் செயல்படுகிறது."
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 217,
       "quote": "6. India's foreign policy is based on several principles. One of which is a) Satyameva Jayate b) Panchasheel c) both of these d) None of these",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "One of the principles on which India's foreign policy is based is ______.",
         "options": [
-          "Satyameva Jayate",
-          "Dharmo Rakshati Rakshitah",
           "Panchsheel",
+          "Dharmo Rakshati Rakshitah",
+          "Satyameva Jayate",
           "Jai Jawan Jai Kisan"
         ],
         "explanation": "Nehru declared the five principles of peace known as Panchsheel."
@@ -169,9 +169,9 @@
       "ta": {
         "q": "இந்திய வெளியுறவுக் கொள்கை அடிப்படையாகக் கொண்டுள்ள கோட்பாடுகளுள் ஒன்று ______.",
         "options": [
-          "வாய்மையே வெல்லும்",
-          "தர்மம் தலைகாக்கும்",
           "பஞ்சசீலம்",
+          "தர்மம் தலைகாக்கும்",
+          "வாய்மையே வெல்லும்",
           "ஜெய் ஜவான் ஜெய் கிசான்"
         ],
         "explanation": "நேரு அறிவித்த ஐந்து அமைதிக் கொள்கைகள் பஞ்சசீலம் எனப்படுகின்றன."
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 218,
       "quote": "7. Which of the following islands belong to India? a) Andaman and Maldives b) Andaman and Lakshadweep Island c) Sri Lanka and Maldives d) Maldives and Lakshadweep Island",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following islands belong to India?",
         "options": [
           "Andaman and Maldives",
           "Sri Lanka and Maldives",
-          "Maldives and Lakshadweep",
-          "Andaman and Lakshadweep Islands"
+          "Andaman and Lakshadweep Islands",
+          "Maldives and Lakshadweep"
         ],
         "explanation": "Sri Lanka (south-east) and Maldives (south-west) are India's island neighbours."
       },
@@ -200,8 +200,8 @@
         "options": [
           "அந்தமான், மாலத்தீவு",
           "இலங்கை, மாலத்தீவு",
-          "மாலத்தீவு, இலட்சத்தீவுகள்",
-          "அந்தமான், இலட்சத்தீவுகள்"
+          "அந்தமான், இலட்சத்தீவுகள்",
+          "மாலத்தீவு, இலட்சத்தீவுகள்"
         ],
         "explanation": "இலங்கையும் மாலத்தீவும் இந்தியாவின் தீவு அண்டை நாடுகள்."
       }
@@ -213,12 +213,12 @@
       "bloom": "remember",
       "page": 216,
       "quote": "II 1. The Madras Regimental Army centre is at ______.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The Regimental Centre of the Madras Regiment is at ______ in Tamil Nadu.",
         "options": [
-          "Chennai",
           "Wellington, Udhagamandalam",
+          "Chennai",
           "Madurai",
           "Coimbatore"
         ],
@@ -227,8 +227,8 @@
       "ta": {
         "q": "மதராஸ் ரெஜிமெண்டின் படைப்பிரிவு மையம் தமிழ்நாட்டில் ______ இல் அமைந்துள்ளது.",
         "options": [
-          "சென்னை",
           "வெலிங்டன், உதகமண்டலம்",
+          "சென்னை",
           "மதுரை",
           "கோயம்புத்தூர்"
         ],
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 215,
       "quote": "2. The Indian Navy Chief is ______",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The Chief of Naval Staff, who commands the Indian Navy, is a four-star ______.",
         "options": [
           "General",
-          "Admiral",
           "Air Chief Marshal",
+          "Admiral",
           "Field Marshal"
         ],
         "explanation": "The Indian Navy has three Naval Commands."
@@ -257,8 +257,8 @@
         "q": "இந்தியக் கடற்படையை வழிநடத்தும் கடற்படைத் தளபதி நான்கு நட்சத்திரத் தகுதி கொண்ட ______.",
         "options": [
           "ஜெனரல்",
-          "அட்மிரல்",
           "ஏர் சீஃப் மார்ஷல்",
+          "அட்மிரல்",
           "ஃபீல்டு மார்ஷல்"
         ],
         "explanation": "இந்தியக் கடற்படைக்கு மூன்று கடற்படைக் கட்டளையகங்கள் உள்ளன."
@@ -271,24 +271,24 @@
       "bloom": "remember",
       "page": 215,
       "quote": "3. ______ is first and only officer of Indian Air Force to be promoted to Five Star rank Marshal of Indian Air Force.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Who is the first and only officer of the Indian Air Force to be promoted to the Five Star rank of Marshal of the Indian Air Force?",
         "options": [
-          "Arjan Singh",
+          "V. K. Krishna Menon",
           "Sam Manekshaw",
           "K. M. Cariappa",
-          "V. K. Krishna Menon"
+          "Arjan Singh"
         ],
         "explanation": "Sam Manekshaw and K.M. Cariappa were Field Marshals of the Army."
       },
       "ta": {
         "q": "இந்திய விமானப் படையில் ஐந்து நட்சத்திர நிலையான 'மார்ஷல்' பதவிக்கு உயர்த்தப்பட்ட முதல், ஒரே அதிகாரி ______.",
         "options": [
-          "அர்ஜன் சிங்",
+          "வி.கே. கிருஷ்ண மேனன்",
           "சாம் மானெக்ஷா",
           "கே.எம். கரியப்பா",
-          "வி.கே. கிருஷ்ண மேனன்"
+          "அர்ஜன் சிங்"
         ],
         "explanation": "சாம் மானெக்ஷாவும் கே.எம். கரியப்பாவும் தரைப்படையின் ஃபீல்டு மார்ஷல்கள்."
       }
@@ -358,12 +358,12 @@
       "bloom": "remember",
       "page": 214,
       "quote": "III Match the following Nelson Mandela - Apartheid; National war Memorial - New Delhi; Manekshaw - Field Marshal; SAARC - 8 members",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Match List I with List II.\na) Nelson Mandela\nb) National War Memorial\nc) Sam Manekshaw\nd) SAARC\n1. New Delhi\n2. Field Marshal\n3. 8 members\n4. Apartheid",
         "options": [
-          "a-4, b-3, c-1, d-2",
           "a-4, b-1, c-2, d-3",
+          "a-4, b-3, c-1, d-2",
           "a-1, b-2, c-3, d-4",
           "a-3, b-1, c-4, d-2"
         ],
@@ -372,8 +372,8 @@
       "ta": {
         "q": "I பட்டியலை II பட்டியலுடன் பொருத்துக.\na) நெல்சன் மண்டேலா\nb) தேசியப் போர் நினைவுச் சின்னம்\nc) சாம் மானெக்ஷா\nd) சார்க் (SAARC)\n1. புதுடெல்லி\n2. ஃபீல்டு மார்ஷல்\n3. 8 உறுப்பினர்கள்\n4. நிறவெறிக் கொள்கை",
         "options": [
-          "a-4, b-3, c-1, d-2",
           "a-4, b-1, c-2, d-3",
+          "a-4, b-3, c-1, d-2",
           "a-1, b-2, c-3, d-4",
           "a-3, b-1, c-4, d-2"
         ],
@@ -416,12 +416,12 @@
       "bloom": "remember",
       "page": 216,
       "quote": "IV 3. The Rapid Action Force is a specialised wing of the CRPF.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The Rapid Action Force, a specialised wing to deal with riots, crowd control, rescue and relief operations, belongs to the ______.",
         "options": [
-          "CRPF",
           "BSF",
+          "CRPF",
           "CISF",
           "ITBP"
         ],
@@ -430,8 +430,8 @@
       "ta": {
         "q": "கலவரம், கூட்டக் கட்டுப்பாடு, மீட்பு, நிவாரணப் பணிகளைக் கையாளும் விரைவு அதிரடிப் படை (Rapid Action Force) ______ இன் சிறப்புப் பிரிவு.",
         "options": [
-          "மத்திய ரிசர்வ் காவல் படையின் (CRPF)",
           "எல்லைப் பாதுகாப்புப் படையின்",
+          "மத்திய ரிசர்வ் காவல் படையின் (CRPF)",
           "மத்தியத் தொழிலகப் பாதுகாப்புப் படையின்",
           "இந்தோ-திபெத் எல்லைக் காவல் படையின்"
         ],
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 218,
       "quote": "IV 5. Bangladesh is a part of India.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Bangladesh is ______ of India.",
         "options": [
           "a state",
-          "a neighbouring country to the east",
+          "an island territory",
           "a union territory",
-          "an island territory"
+          "a neighbouring country to the east"
         ],
         "explanation": "India shares a common land border with Pakistan, Afghanistan, Nepal, China, Bhutan, Bangladesh and Myanmar (Burma)."
       },
@@ -489,9 +489,9 @@
         "q": "வங்கதேசம் இந்தியாவின் ______.",
         "options": [
           "ஒரு மாநிலம்",
-          "கிழக்கு அண்டை நாடு",
+          "ஒரு தீவுப் பகுதி",
           "ஒரு ஒன்றியப் பகுதி",
-          "ஒரு தீவுப் பகுதி"
+          "கிழக்கு அண்டை நாடு"
         ],
         "explanation": "இந்தியா பாகிஸ்தான், ஆப்கானிஸ்தான், நேபாளம், சீனா, பூடான், வங்கதேசம், மியான்மருடன் நிலஎல்லையைப் பகிர்கிறது."
       }
@@ -503,12 +503,12 @@
       "bloom": "remember",
       "page": 218,
       "quote": "IV 6. Myanmar is land bridge to ASEAN nations.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which country is India's land bridge to the ASEAN countries under the Act East Policy?",
         "options": [
-          "Myanmar",
           "Bangladesh",
+          "Myanmar",
           "Nepal",
           "Sri Lanka"
         ],
@@ -517,8 +517,8 @@
       "ta": {
         "q": "கிழக்கு நோக்குக் கொள்கையில் ASEAN நாடுகளுக்கு இந்தியாவின் நிலப்பாலமாக விளங்கும் நாடு ______.",
         "options": [
-          "மியான்மர்",
           "வங்கதேசம்",
+          "மியான்மர்",
           "நேபாளம்",
           "இலங்கை"
         ],
@@ -619,14 +619,14 @@
       "bloom": "understand",
       "page": 218,
       "quote": "V 4. Which of the following statements is not true about 'Apartheid'? i) Apartheid is a racial discrimination. ii) It is against humanism. iii) The policy of racialism is practiced in India.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which of the following statements about 'Apartheid' is NOT true?",
         "options": [
           "Apartheid is a policy of racial discrimination",
-          "It is against humanism and democracy",
+          "The policy of racialism is practised in India",
           "India opposed all types of racial discrimination",
-          "The policy of racialism is practised in India"
+          "It is against humanism and democracy"
         ],
         "explanation": "India fought against apartheid; its end in South Africa (negotiations from 1990, first multiracial elections in 1994) was a great success for India's policy."
       },
@@ -634,9 +634,9 @@
         "q": "'நிறவெறிக் கொள்கை' (அபார்தீடு) பற்றிய பின்வரும் கூற்றுகளுள் உண்மையல்லாதது எது?",
         "options": [
           "நிறவெறி என்பது இன அடிப்படைப் பாகுபாட்டுக் கொள்கை",
-          "இது மனிதநேயத்திற்கும் மக்களாட்சிக்கும் எதிரானது",
+          "இனவெறிக் கொள்கை இந்தியாவில் கடைப்பிடிக்கப்படுகிறது",
           "இந்தியா அனைத்து இனப் பாகுபாடுகளையும் எதிர்த்தது",
-          "இனவெறிக் கொள்கை இந்தியாவில் கடைப்பிடிக்கப்படுகிறது"
+          "இது மனிதநேயத்திற்கும் மக்களாட்சிக்கும் எதிரானது"
         ],
         "explanation": "இந்தியா நிறவெறியை எதிர்த்துப் போராடியது; தென்னாப்பிரிக்காவில் அதன் முடிவு (1990இல் பேச்சுவார்த்தைகள் தொடக்கம், 1994இல் முதல் பல்லின பொதுத் தேர்தல்) இந்தியக் கொள்கையின் பெரும் வெற்றி."
       }
@@ -677,14 +677,14 @@
       "bloom": "remember",
       "page": 214,
       "quote": "VI 1. Why national security is very essential?",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "National security is very essential for ______.",
         "options": [
           "increasing the number of countries",
           "stopping all trade",
-          "the political, social and economic development, peace and prosperity of a country",
-          "reducing the size of the army"
+          "reducing the size of the army",
+          "the political, social and economic development, peace and prosperity of a country"
         ],
         "explanation": "India has given higher priority to the defence sector."
       },
@@ -693,8 +693,8 @@
         "options": [
           "நாடுகளின் எண்ணிக்கையை அதிகரிக்க",
           "வணிகம் முழுவதையும் நிறுத்த",
-          "நாட்டின் அரசியல், சமூக, பொருளாதார வளர்ச்சிக்கும் அமைதி, வளத்திற்கும்",
-          "படையின் அளவைக் குறைக்க"
+          "படையின் அளவைக் குறைக்க",
+          "நாட்டின் அரசியல், சமூக, பொருளாதார வளர்ச்சிக்கும் அமைதி, வளத்திற்கும்"
         ],
         "explanation": "இந்திய அரசு பாதுகாப்புத் துறைக்கு உயர் முன்னுரிமை அளித்துள்ளது."
       }
@@ -706,13 +706,13 @@
       "bloom": "remember",
       "page": 216,
       "quote": "VI 2. What does the following abbreviation stand for? a) SFF b) ICG c) BSF d) NCC",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "SFF stands for ______.",
         "options": [
           "Special Forest Force",
-          "Special Frontier Force",
           "Sashastra Frontier Force",
+          "Special Frontier Force",
           "Security Forces Federation"
         ],
         "explanation": "The SFF was created in 1962 and later placed under the Research and Analysis Wing."
@@ -721,8 +721,8 @@
         "q": "SFF என்பதன் விரிவாக்கம் ______.",
         "options": [
           "சிறப்புக் காட்டுப் படை",
-          "சிறப்பு எல்லைப் படை (Special Frontier Force)",
           "சஷஸ்திர எல்லைப் படை",
+          "சிறப்பு எல்லைப் படை (Special Frontier Force)",
           "பாதுகாப்புப் படைகள் கூட்டமைப்பு"
         ],
         "explanation": "1962இல் உருவாக்கப்பட்ட இது பின்னர் ஆய்வு, பகுப்பாய்வுப் பிரிவின் (RAW) கீழ் வைக்கப்பட்டது."
@@ -764,14 +764,14 @@
       "bloom": "remember",
       "page": 218,
       "quote": "VI 4. Name the founding fathers of Non-Aligned Movement",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which of the following leaders was NOT among the founding fathers of the Non-Aligned Movement?",
         "options": [
           "Jawaharlal Nehru",
-          "Winston Churchill",
+          "Nasser of Egypt",
           "Tito of Yugoslavia",
-          "Nasser of Egypt"
+          "Winston Churchill"
         ],
         "explanation": "The others were Sukarno of Indonesia and Kwame Nkrumah of Ghana."
       },
@@ -779,9 +779,9 @@
         "q": "பின்வரும் தலைவர்களுள் அணிசேரா இயக்கத்தின் நிறுவனத் தலைவர்களுள் இல்லாதவர் யார்?",
         "options": [
           "ஜவஹர்லால் நேரு",
-          "வின்ஸ்டன் சர்ச்சில்",
+          "எகிப்தின் நாசர்",
           "யுகோஸ்லாவியாவின் டிட்டோ",
-          "எகிப்தின் நாசர்"
+          "வின்ஸ்டன் சர்ச்சில்"
         ],
         "explanation": "இந்தோனேசியாவின் சுகர்னோ, கானாவின் குவாமே நுக்ருமாவும் நிறுவனர்கள்."
       }
@@ -793,14 +793,14 @@
       "bloom": "remember",
       "page": 217,
       "quote": "VI 5. Write the basic principles of India's Foreign Policy.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Which of the following is a basic principle of India's foreign policy?",
         "options": [
           "Support for military blocs",
           "Promotion of colonialism",
-          "Abolition of colonialism, racism and imperialism",
-          "Rejection of disarmament"
+          "Rejection of disarmament",
+          "Abolition of colonialism, racism and imperialism"
         ],
         "explanation": "Other principles are preservation of national interest, world peace, disarmament, friendly nations and economic development."
       },
@@ -809,8 +809,8 @@
         "options": [
           "இராணுவ அணிகளை ஆதரித்தல்",
           "காலனியத்தை ஊக்குவித்தல்",
-          "காலனியம், இனவெறி, ஏகாதிபத்தியம் ஆகியவற்றை ஒழித்தல்",
-          "ஆயுதக் குறைப்பை மறுத்தல்"
+          "ஆயுதக் குறைப்பை மறுத்தல்",
+          "காலனியம், இனவெறி, ஏகாதிபத்தியம் ஆகியவற்றை ஒழித்தல்"
         ],
         "explanation": "தேசிய நலன் காத்தல், உலக அமைதி, ஆயுதக் குறைப்பு, நட்பு நாடுகளை அதிகரித்தல், பொருளாதார வளர்ச்சி பிற கோட்பாடுகள்."
       }
@@ -822,12 +822,12 @@
       "bloom": "remember",
       "page": 219,
       "quote": "VI 6. Name the member countries of the SAARC.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which of the following is a member country of the SAARC as listed in the lesson?",
         "options": [
-          "Afghanistan",
           "China",
+          "Afghanistan",
           "Myanmar",
           "Thailand"
         ],
@@ -836,8 +836,8 @@
       "ta": {
         "q": "பாடத்தில் குறிப்பிடப்பட்டுள்ளபடி சார்க் (SAARC) உறுப்பு நாடு எது?",
         "options": [
-          "ஆப்கானிஸ்தான்",
           "சீனா",
+          "ஆப்கானிஸ்தான்",
           "மியான்மர்",
           "தாய்லாந்து"
         ],

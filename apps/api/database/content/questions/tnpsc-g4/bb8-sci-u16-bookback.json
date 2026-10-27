@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 189,
       "quote": "_______ shows both living and nonliving characteristics. a) Protozoa b) Virus c) Bacteria d) Fungi",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which of the following shows both living and non-living characteristics?",
         "options": [
-          "Protozoa",
-          "Bacteria",
           "Virus",
+          "Bacteria",
+          "Protozoa",
           "Fungi"
         ],
         "explanation": "A virus reproduces inside host cells (living) but can be crystallized and stored (non-living)."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "உயிருள்ள, உயிரற்ற பண்புகளை இரண்டையும் காட்டுவது எது?",
         "options": [
-          "முதலுயிரிகள்",
-          "பாக்டீரியா",
           "வைரஸ்",
+          "பாக்டீரியா",
+          "முதலுயிரிகள்",
           "பூஞ்சை"
         ],
         "explanation": "வைரஸ் ஓம்புயிர்ச் செல்லுக்குள் பெருகும் (உயிர்); படிகமாக்கிச் சேமிக்கலாம் (உயிரற்றது)."
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 189,
       "quote": "______ is a prokaryotic microorganisms. a) Virus b) Algae c) Fungi d) Bacteria",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Which of the following is a prokaryotic microorganism?",
         "options": [
           "Virus",
           "Algae",
-          "Bacteria",
-          "Fungi"
+          "Fungi",
+          "Bacteria"
         ],
         "explanation": "Bacteria are single-celled prokaryotes (cells without nuclei) and the first living organisms on earth."
       },
@@ -84,8 +84,8 @@
         "options": [
           "வைரஸ்",
           "பாசி",
-          "பாக்டீரியா",
-          "பூஞ்சை"
+          "பூஞ்சை",
+          "பாக்டீரியா"
         ],
         "explanation": "பாக்டீரியா உட்கருவற்ற ஒற்றைச் செல் உயிரிகள்; புவியின் முதல் உயிரினங்கள்."
       }
@@ -97,12 +97,12 @@
       "bloom": "remember",
       "page": 189,
       "quote": "Based on shape, the bacteria are classified into _______ types. a) two b) three c) four d) five",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Based on shape, bacteria are classified into ______ types.",
         "options": [
-          "two",
           "four",
+          "two",
           "three",
           "five"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "வடிவத்தின் அடிப்படையில் பாக்டீரியா ______ வகைகளாகப் பிரிக்கப்படுகிறது.",
         "options": [
-          "இரண்டு",
           "நான்கு",
+          "இரண்டு",
           "மூன்று",
           "ஐந்து"
         ],
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 189,
       "quote": "Common cold in human is caused by ______. a) plasmodium b) influenza c) vibrio cholera d) aphthovirus",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Influenza (flu) in humans is caused by ______.",
         "options": [
           "Plasmodium",
-          "Vibrio cholerae",
+          "influenza virus",
           "Aphthovirus",
-          "influenza virus"
+          "Vibrio cholerae"
         ],
         "explanation": "It spreads through air; the patient is isolated."
       },
@@ -141,9 +141,9 @@
         "q": "மனிதரில் இன்ஃப்ளூயன்சா (ஃப்ளூ) காய்ச்சல் ______ ஆல் ஏற்படுகிறது.",
         "options": [
           "பிளாஸ்மோடியம்",
-          "விப்ரியோ காலரா",
+          "இன்ஃப்ளூயன்சா வைரஸ்",
           "ஆப்தோ வைரஸ்",
-          "இன்ஃப்ளூயன்சா வைரஸ்"
+          "விப்ரியோ காலரா"
         ],
         "explanation": "இது காற்றின் மூலம் பரவும்; நோயாளி தனிமைப்படுத்தப்படுவார்."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 189,
       "quote": "_______ is prepared from a mould called penicillium.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The antibiotic penicillin is obtained from the mould ______.",
         "options": [
           "Streptomyces",
-          "Rhizobium",
           "Penicillium chrysogenum",
+          "Rhizobium",
           "Lactobacillus"
         ],
         "explanation": "Sir Alexander Fleming discovered penicillin in 1928."
@@ -170,8 +170,8 @@
         "q": "பெனிசிலின் எனும் நுண்ணுயிர்க்கொல்லி ______ என்ற பூஞ்சையிலிருந்து பெறப்படுகிறது.",
         "options": [
           "ஸ்ட்ரெப்டோமைசஸ்",
-          "ரைசோபியம்",
           "பெனிசிலியம் கிரைசோஜீனம்",
+          "ரைசோபியம்",
           "லாக்டோபேசில்லஸ்"
         ],
         "explanation": "சர் அலெக்சாண்டர் ஃபிளெமிங் 1928-இல் பெனிசிலினைக் கண்டறிந்தார்."
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 189,
       "quote": "Microorganism can be seen with the help of a _______.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Microorganisms can be seen only with the help of a ______.",
         "options": [
-          "microscope",
           "periscope",
+          "microscope",
           "stethoscope",
           "telescope"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "நுண்ணுயிரிகளை ______ உதவியுடன் மட்டுமே காண முடியும்.",
         "options": [
-          "நுண்ணோக்கி",
           "பெரிஸ்கோப்",
+          "நுண்ணோக்கி",
           "ஸ்டெதஸ்கோப்",
           "தொலைநோக்கி"
         ],
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 189,
       "quote": "Bacteria, which has a flagellum at one end is classified as _______.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Bacteria with a single flagellum at one end are classified as ______.",
         "options": [
           "lophotrichous",
           "peritrichous",
-          "amphitrichous",
-          "monotrichous"
+          "monotrichous",
+          "amphitrichous"
         ],
         "explanation": "Example: Vibrio cholerae."
       },
@@ -229,8 +229,8 @@
         "options": [
           "லோபோட்ரைக்கஸ்",
           "பெரிட்ரைக்கஸ்",
-          "ஆம்பிட்ரைக்கஸ்",
-          "மோனோட்ரைக்கஸ்"
+          "மோனோட்ரைக்கஸ்",
+          "ஆம்பிட்ரைக்கஸ்"
         ],
         "explanation": "எ.கா: விப்ரியோ காலரா."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 189,
       "quote": "Disease causing microorganisms are called pathogens.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Disease-causing microorganisms are called ______.",
         "options": [
           "decomposers",
           "probiotics",
-          "pathogens",
-          "biofertilizers"
+          "biofertilizers",
+          "pathogens"
         ],
         "explanation": "The statement is true. Pathogens enter the body through cuts and wounds in the skin, mouth or nose."
       },
@@ -258,8 +258,8 @@
         "options": [
           "சிதைப்பான்கள்",
           "புரோபயாடிக்குகள்",
-          "நோய்க்காரணிகள் (பாத்தோஜென்கள்)",
-          "உயிர் உரங்கள்"
+          "உயிர் உரங்கள்",
+          "நோய்க்காரணிகள் (பாத்தோஜென்கள்)"
         ],
         "explanation": "கூற்று சரி; தோலின் வெட்டுகள், புண்கள், வாய், மூக்கு வழியே உடலுக்குள் நுழைகின்றன."
       }
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "Female anopheles mosquito is a carrier of dengue virus.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The female Anopheles mosquito is the carrier of ______.",
         "options": [
-          "Plasmodium (malaria)",
-          "dengue virus",
           "rabies virus",
+          "dengue virus",
+          "Plasmodium (malaria)",
           "influenza virus"
         ],
         "explanation": "The female Anopheles mosquito transmits malaria (Plasmodium, a protozoan), not dengue."
@@ -285,9 +285,9 @@
       "ta": {
         "q": "பெண் அனோஃபிலிஸ் கொசு ______ ஐப் பரப்பும் கடத்தி.",
         "options": [
-          "பிளாஸ்மோடியம் (மலேரியா)",
-          "டெங்கு வைரஸ்",
           "வெறிநாய்க்கடி வைரஸ்",
+          "டெங்கு வைரஸ்",
+          "பிளாஸ்மோடியம் (மலேரியா)",
           "இன்ஃப்ளூயன்சா வைரஸ்"
         ],
         "explanation": "பெண் அனோஃபிலிஸ் கொசு மலேரியாவை (பிளாஸ்மோடியம் எனும் முதலுயிரி) பரப்புகிறது; டெங்குவை அல்ல."
@@ -300,24 +300,24 @@
       "bloom": "remember",
       "page": 190,
       "quote": "Citrus canker is transmitted by insects.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Citrus canker, caused by the bacterium Xanthomonas axonopodis, is transmitted through ______.",
         "options": [
-          "insects only",
+          "air and water",
           "mosquito bite",
           "contaminated soil only",
-          "air and water"
+          "insects only"
         ],
         "explanation": "Citrus canker spreads through air and water; copper based bactericides are used for prevention."
       },
       "ta": {
         "q": "சிட்ரஸ் புற்று நோய் (சிட்ரஸ் கேங்கர்) எனும் பாக்டீரியா நோய் ______ மூலம் பரவுகிறது.",
         "options": [
-          "பூச்சிகள் மூலம் மட்டும்",
+          "காற்று, நீர்",
           "கொசுக்கடி",
           "மாசடைந்த மண் மூலம் மட்டும்",
-          "காற்று, நீர்"
+          "பூச்சிகள் மூலம் மட்டும்"
         ],
         "explanation": "சிட்ரஸ் கேங்கர் காற்று, நீர் மூலம் பரவும்; தடுக்கத் தாமிரம் அடிப்படையிலான பாக்டீரிய அழிப்பான்கள் பயன்படுகின்றன."
       }
@@ -329,14 +329,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "Yeast is used in the large scale production of alcohol.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Alcoholic drinks are prepared by the fermentation of sugars using ______.",
         "options": [
           "Rhizobium",
           "Penicillium",
-          "Chlorella",
-          "yeast"
+          "yeast",
+          "Chlorella"
         ],
         "explanation": "The statement is true: sugars in grapes are fermented by yeast to make wine; beer is made from rice and barley."
       },
@@ -345,8 +345,8 @@
         "options": [
           "ரைசோபியம்",
           "பெனிசிலியம்",
-          "குளோரெல்லா",
-          "ஈஸ்ட்"
+          "ஈஸ்ட்",
+          "குளோரெல்லா"
         ],
         "explanation": "கூற்று சரி; திராட்சையின் சர்க்கரை ஈஸ்ட்டால் புளிக்க வைக்கப்பட்டு ஒயின் தயாரிக்கப்படுகிறது."
       }
@@ -358,12 +358,12 @@
       "bloom": "remember",
       "page": 190,
       "quote": "Match the following: Nitrogen fixing bacteria, Kuru, Probiotics, Edward Jenner",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Match List I with List II:\na) Nitrogen fixing bacteria\nb) Kuru\nc) Probiotics\nd) Edward Jenner\n1. Lactobacillus acidophilus\n2. Vaccine\n3. Prion\n4. Rhizobium",
         "options": [
-          "a-1, b-2, c-3, d-4",
           "a-4, b-3, c-1, d-2",
+          "a-1, b-2, c-3, d-4",
           "a-4, b-2, c-3, d-1",
           "a-1, b-4, c-3, d-2"
         ],
@@ -372,8 +372,8 @@
       "ta": {
         "q": "பட்டியல் I-ஐப் பட்டியல் II-உடன் பொருத்துக:\na) நைட்ரஜன் நிலைநிறுத்தும் பாக்டீரியா\nb) குரு (Kuru)\nc) புரோபயாடிக்\nd) எட்வர்ட் ஜென்னர்\n1. லாக்டோபேசில்லஸ் அசிடோஃபிலஸ்\n2. தடுப்பூசி\n3. பிரியான்\n4. ரைசோபியம்",
         "options": [
-          "a-1, b-2, c-3, d-4",
           "a-4, b-3, c-1, d-2",
+          "a-1, b-2, c-3, d-4",
           "a-4, b-2, c-3, d-1",
           "a-1, b-4, c-3, d-2"
         ],
@@ -416,12 +416,12 @@
       "bloom": "remember",
       "page": 190,
       "quote": "Write the name of any nitrogen fixing bacteria.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Which of the following is a nitrogen fixing bacterium living in the root nodules of leguminous plants?",
         "options": [
-          "Lactobacillus",
           "Rhizobium",
+          "Lactobacillus",
           "Vibrio",
           "Bacillus anthracis"
         ],
@@ -430,8 +430,8 @@
       "ta": {
         "q": "பயறு வகைத் தாவரங்களின் வேர் முடிச்சுகளில் வாழும் நைட்ரஜன் நிலைநிறுத்தும் பாக்டீரியா எது?",
         "options": [
-          "லாக்டோபேசில்லஸ்",
           "ரைசோபியம்",
+          "லாக்டோபேசில்லஸ்",
           "விப்ரியோ",
           "பேசில்லஸ் ஆந்த்ராசிஸ்"
         ],
@@ -445,12 +445,12 @@
       "bloom": "remember",
       "page": 190,
       "quote": "Write the names of any three protozoans.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which of the following are protozoans?",
         "options": [
-          "Amoeba, Paramecium and Euglena",
           "Yeast, Penicillium and Mushroom",
+          "Amoeba, Paramecium and Euglena",
           "Volvox, Ulothrix and Ulva",
           "Rhizobium, Vibrio and Bacillus"
         ],
@@ -459,8 +459,8 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் முதலுயிரிகள் (புரோட்டோசோவா) எவை?",
         "options": [
-          "அமீபா, பாரமீசியம், யூக்ளினா",
           "ஈஸ்ட், பெனிசிலியம், காளான்",
+          "அமீபா, பாரமீசியம், யூக்ளினா",
           "வால்வாக்ஸ், அல்தோத்ரிக்ஸ், அல்வா",
           "ரைசோபியம், விப்ரியோ, பேசில்லஸ்"
         ],
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "Who discovered penicillin?",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Penicillin was discovered in 1928 by ______.",
         "options": [
           "Edward Jenner",
-          "Robert Koch",
+          "Sir Alexander Fleming",
           "Louis Pasteur",
-          "Sir Alexander Fleming"
+          "Robert Koch"
         ],
         "explanation": "Edward Jenner discovered the smallpox vaccine; Louis Pasteur invented pasteurization in 1862."
       },
@@ -489,9 +489,9 @@
         "q": "1928-இல் பெனிசிலினைக் கண்டறிந்தவர் ______.",
         "options": [
           "எட்வர்ட் ஜென்னர்",
-          "ராபர்ட் காக்",
+          "சர் அலெக்சாண்டர் ஃபிளெமிங்",
           "லூயி பாஸ்டர்",
-          "சர் அலெக்சாண்டர் ஃபிளெமிங்"
+          "ராபர்ட் காக்"
         ],
         "explanation": "எட்வர்ட் ஜென்னர் பெரியம்மைத் தடுப்பூசியையும் லூயி பாஸ்டர் 1862-இல் பாஸ்டரைசேஷனையும் கண்டறிந்தனர்."
       }
@@ -532,14 +532,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "What are antibiotics?",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "An antibiotic is a substance produced by living organisms which is ______ for other organisms.",
         "options": [
           "harmless",
           "nutritious",
-          "toxic",
-          "essential"
+          "essential",
+          "toxic"
         ],
         "explanation": "Penicillin (from Penicillium) and streptomycin (from Streptomyces bacteria) are antibiotics."
       },
@@ -548,8 +548,8 @@
         "options": [
           "தீங்கற்ற",
           "ஊட்டமளிக்கும்",
-          "நச்சுத்தன்மையுள்ள",
-          "இன்றியமையாத"
+          "இன்றியமையாத",
+          "நச்சுத்தன்மையுள்ள"
         ],
         "explanation": "பெனிசிலின் (பெனிசிலியம்), ஸ்ட்ரெப்டோமைசின் (ஸ்ட்ரெப்டோமைசஸ் பாக்டீரியா) நுண்ணுயிர்க்கொல்லிகள்."
       }
@@ -561,13 +561,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "How disease causing microorganisms enter into human beings?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Pathogens enter the human body through ______.",
         "options": [
           "only the eyes",
-          "cuts and wounds in the skin, mouth or nose",
           "only the ears",
+          "cuts and wounds in the skin, mouth or nose",
           "the hair"
         ],
         "explanation": "Flu viruses spread through droplets in the air when a patient sneezes."
@@ -576,8 +576,8 @@
         "q": "நோய்க்காரணிகள் மனித உடலுக்குள் ______ வழியே நுழைகின்றன.",
         "options": [
           "கண்கள் வழியே மட்டும்",
-          "தோலிலுள்ள வெட்டுகள், புண்கள், வாய், மூக்கு",
           "காதுகள் வழியே மட்டும்",
+          "தோலிலுள்ள வெட்டுகள், புண்கள், வாய், மூக்கு",
           "முடி வழியே"
         ],
         "explanation": "நோயாளி தும்மும்போது வெளியேறும் நீர்த்துளிகள் மூலம் காய்ச்சல் வைரஸ்கள் காற்றில் பரவுகின்றன."
@@ -590,24 +590,24 @@
       "bloom": "remember",
       "page": 190,
       "quote": "Why microorganisms are essential for agriculture?",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Microorganisms are called decomposers because they ______.",
         "options": [
-          "act upon degradable wastes and release nitrates and nutrients, making the soil fertile",
+          "form clouds",
           "produce antibiotics",
           "kill all plants",
-          "form clouds"
+          "act upon degradable wastes and release nitrates and nutrients, making the soil fertile"
         ],
         "explanation": "This compost is called natural fertilizer."
       },
       "ta": {
         "q": "நுண்ணுயிரிகள் சிதைப்பான்கள் எனப்படுவதற்குக் காரணம் அவை ______.",
         "options": [
-          "சிதையும் கழிவுகளின் மீது செயல்பட்டு நைட்ரேட், ஊட்டச்சத்துகளை வெளியிட்டு மண்ணை வளமாக்குவது",
+          "மேகங்களை உருவாக்குவது",
           "நுண்ணுயிர்க்கொல்லிகளை உருவாக்குவது",
           "எல்லாத் தாவரங்களையும் கொல்வது",
-          "மேகங்களை உருவாக்குவது"
+          "சிதையும் கழிவுகளின் மீது செயல்பட்டு நைட்ரேட், ஊட்டச்சத்துகளை வெளியிட்டு மண்ணை வளமாக்குவது"
         ],
         "explanation": "இவ்வாறு உருவாகும் உரம் இயற்கை உரம் எனப்படும்."
       }

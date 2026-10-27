@@ -10,12 +10,12 @@
       "bloom": "remember",
       "page": 306,
       "quote": "I. 1. Certain metals like ______ (gold / iron) were used as a medium of exchange in ancient times.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Which metal was used as a medium of exchange in ancient times?",
         "options": [
-          "Iron",
           "Gold",
+          "Iron",
           "Lead",
           "Aluminium"
         ],
@@ -24,8 +24,8 @@
       "ta": {
         "q": "பண்டைய காலத்தில் பரிமாற்றத்திற்குப் பயன்பட்ட உலோகம்",
         "options": [
-          "இரும்பு",
           "தங்கம்",
+          "இரும்பு",
           "ஈயம்",
           "அலுமினியம்"
         ],
@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 306,
       "quote": "II. 3. The first printing press of the RBI was started at ______.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The government currency press established by the British in 1925 (printing began three years later) was at",
         "options": [
           "Dewas, Madhya Pradesh",
-          "Mysuru, Karnataka",
+          "Nasik, Maharashtra",
           "Salboni, West Bengal",
-          "Nasik, Maharashtra"
+          "Mysuru, Karnataka"
         ],
         "explanation": "Later presses: Dewas (1974), and Mysuru and Salboni in the 1990s. (The book calls it the RBI's first press; it was a British government press.)"
       },
@@ -54,9 +54,9 @@
         "q": "1925இல் பிரிட்டிஷ் அரசு நிறுவிய அரசு அச்சகம் (மூன்று ஆண்டுகளுக்குப் பின் நாணயம் அச்சிடல்) அமைந்த இடம்",
         "options": [
           "தேவாஸ், மத்தியப் பிரதேசம்",
-          "மைசூரு, கர்நாடகம்",
+          "நாசிக், மகாராஷ்டிரா",
           "சால்போனி, மேற்கு வங்காளம்",
-          "நாசிக், மகாராஷ்டிரா"
+          "மைசூரு, கர்நாடகம்"
         ],
         "explanation": "பின்னர் தேவாஸ் (1974), மைசூரு, சால்போனி (1990கள்) அச்சகங்கள் தொடங்கப்பட்டன. (நூல் இதை ரிசர்வ் வங்கியின் முதல் அச்சகம் எனக் குறிப்பிடுவது துல்லியமன்று.)"
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 306,
       "quote": "III. Match: US Dollar - Universally accepted currency; ATM - Automatic Teller Machine; Salt - Substitute of money; Riyal - Saudi Arabia",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Match List I with List II.\nList I: a) US dollar  b) ATM  c) Salt  d) Riyal\nList II: 1) Saudi Arabia  2) Universally accepted currency  3) Automatic Teller Machine  4) Substitute of money",
         "options": [
           "a-1 b-4 c-2 d-3",
-          "a-2 b-3 c-4 d-1",
           "a-4 b-2 c-1 d-3",
+          "a-2 b-3 c-4 d-1",
           "a-3 b-1 c-4 d-2"
         ],
         "explanation": "Salt, leather, beads, shells, tobacco and corn were exchanged as barter; the riyal is Saudi Arabia's currency."
@@ -112,8 +112,8 @@
         "q": "பட்டியல் I-ஐ பட்டியல் II உடன் பொருத்துக.\nபட்டியல் I: அ) அமெரிக்க டாலர்  ஆ) ஏ.டி.எம்.  இ) உப்பு  ஈ) ரியால்\nபட்டியல் II: 1) சவுதி அரேபியா  2) உலகளவில் ஏற்கப்படும் நாணயம்  3) தானியங்கிப் பணம் வழங்கும் இயந்திரம்  4) பணத்திற்கு மாற்றாகப் பயன்பட்டது",
         "options": [
           "அ-1 ஆ-4 இ-2 ஈ-3",
-          "அ-2 ஆ-3 இ-4 ஈ-1",
           "அ-4 ஆ-2 இ-1 ஈ-3",
+          "அ-2 ஆ-3 இ-4 ஈ-1",
           "அ-3 ஆ-1 இ-4 ஈ-2"
         ],
         "explanation": "அமெரிக்க டாலர் - உலகளவில் ஏற்கப்படும் நாணயம்; ஏ.டி.எம். - தானியங்கிப் பணம் வழங்கும் இயந்திரம்; உப்பு - பணத்திற்கு மாற்று; ரியால் - சவுதி அரேபியா."
@@ -126,12 +126,12 @@
       "bloom": "remember",
       "page": 306,
       "quote": "IV. 1. Why was money invented?",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Money was invented mainly to solve the problems of the barter system, such as",
         "options": [
-          "the need for a double coincidence of wants and the difficulty of measuring value",
           "excess gold",
+          "the need for a double coincidence of wants and the difficulty of measuring value",
           "too many banks",
           "lack of transport"
         ],
@@ -140,8 +140,8 @@
       "ta": {
         "q": "பண்டமாற்று முறையின் சிக்கல்களைத் தீர்க்கப் பணம் கண்டுபிடிக்கப்பட்டது; அச்சிக்கல்",
         "options": [
-          "தேவைகள் ஒத்துப்போவதில் சிரமமும் பொருள்களின் மதிப்பை அளவிடும் சிரமமும்",
           "மிகுதியான தங்கம்",
+          "தேவைகள் ஒத்துப்போவதில் சிரமமும் பொருள்களின் மதிப்பை அளவிடும் சிரமமும்",
           "மிகுதியான வங்கிகள்",
           "போக்குவரத்துப் பற்றாக்குறை"
         ],
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 306,
       "quote": "IV. 2. What is ancient money? / 5. What is natural money?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Metals such as silver and gold, used as the standard value in exchange of goods, were called",
         "options": [
           "paper money",
           "plastic money",
-          "credit money",
-          "natural money"
+          "natural money",
+          "credit money"
         ],
         "explanation": "These metals gained importance gradually all over the world."
       },
@@ -171,8 +171,8 @@
         "options": [
           "காகிதப் பணம்",
           "பிளாஸ்டிக் பணம்",
-          "கடன் பணம்",
-          "இயற்கைப் பணம்"
+          "இயற்கைப் பணம்",
+          "கடன் பணம்"
         ],
         "explanation": "இந்த உலோகங்கள் உலகெங்கும் முக்கியத்துவம் பெற்றன."
       }
@@ -184,13 +184,13 @@
       "bloom": "remember",
       "page": 306,
       "quote": "IV. 3. What were the items used as barter during olden days?",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which of the following was NOT mentioned as an item exchanged as barter?",
         "options": [
-          "Shells",
-          "Salt",
           "Petrol",
+          "Salt",
+          "Shells",
           "Tobacco"
         ],
         "explanation": "Leather, beads, shells, tobacco, salt, corn and even slaves were exchanged as barter, say economists."
@@ -198,9 +198,9 @@
       "ta": {
         "q": "பழங்காலத்தில் பண்டமாற்றாகப் பரிமாறப்பட்ட பொருள்களில் குறிப்பிடப்படாதது",
         "options": [
-          "சிப்பிகள்",
-          "உப்பு",
           "பெட்ரோல்",
+          "உப்பு",
+          "சிப்பிகள்",
           "புகையிலை"
         ],
         "explanation": "தோல், மணிகள், சிப்பிகள், புகையிலை, உப்பு, சோளம் ஆகியவை பண்டமாற்றில் பயன்பட்டன."
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 306,
       "quote": "IV. 6. Why were coins of low value printed in large quantities?",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Coins of lesser value metals were made and printed in large numbers because",
         "options": [
           "gold became cheap",
-          "trade prospered but reserves of gold and silver were insufficient",
+          "banks demanded coins",
           "people disliked paper",
-          "banks demanded coins"
+          "trade prospered but reserves of gold and silver were insufficient"
         ],
         "explanation": "Mines also had limited reserves; the low-value coins were the money of the poor, and paper money came next."
       },
@@ -228,9 +228,9 @@
         "q": "குறைந்த மதிப்புள்ள நாணயங்கள் அதிக எண்ணிக்கையில் அச்சிடப்படக் காரணம்",
         "options": [
           "தங்கம் மலிவானதால்",
-          "வணிகம் வளர்ந்தபோது தங்கம், வெள்ளி இருப்பு போதாமல் இருந்ததால்",
+          "வங்கிகள் கோரியதால்",
           "மக்கள் காகிதத்தை வெறுத்ததால்",
-          "வங்கிகள் கோரியதால்"
+          "வணிகம் வளர்ந்தபோது தங்கம், வெள்ளி இருப்பு போதாமல் இருந்ததால்"
         ],
         "explanation": "சுரங்கங்களிலும் இருப்பு குறைவாக இருந்தது; பின்னர் காகிதப் பணம் தோன்றியது."
       }
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 306,
       "quote": "IV. 7. What is meant by foreign exchange?",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "In a country, foreign currency is called",
         "options": [
-          "foreign exchange",
-          "natural money",
           "legal tender",
+          "natural money",
+          "foreign exchange",
           "fiat money"
         ],
         "explanation": "The Indian currency is the Indian Rupee (INR)."
@@ -256,9 +256,9 @@
       "ta": {
         "q": "ஒரு நாட்டில் வெளிநாட்டு நாணயம் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "அந்நியச் செலாவணி",
-          "இயற்கைப் பணம்",
           "சட்டப்படி செல்லுபடியாகும் பணம்",
+          "இயற்கைப் பணம்",
+          "அந்நியச் செலாவணி",
           "கட்டளைப் பணம்"
         ],
         "explanation": "இந்திய நாணயம் இந்திய ரூபாய் (INR)."

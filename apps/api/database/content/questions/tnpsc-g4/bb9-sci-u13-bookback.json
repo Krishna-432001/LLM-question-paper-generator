@@ -97,12 +97,12 @@
       "bloom": "remember",
       "page": 159,
       "quote": "5. ______ compounds have high melting and boiling points. a) Covalent b) Coordinate c) Ionic",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Which type of compounds has high melting and boiling points?",
         "options": [
-          "Covalent compounds",
           "Ionic compounds",
+          "Covalent compounds",
           "Compounds of noble gases",
           "Coordinate compounds"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "அதிக உருகுநிலையும் கொதிநிலையும் கொண்ட சேர்மங்கள் எவை?",
         "options": [
-          "சகப்பிணைப்புச் சேர்மங்கள்",
           "அயனிச் சேர்மங்கள்",
+          "சகப்பிணைப்புச் சேர்மங்கள்",
           "மந்த வாயுச் சேர்மங்கள்",
           "ஈதல் சகப்பிணைப்புச் சேர்மங்கள்"
         ],
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 159,
       "quote": "7. Oxidising agents are also called as ___ because they remove electrons from other substances. a) electron donors b) electron acceptors",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Oxidising agents are also called ______ because they remove electrons from other substances.",
         "options": [
           "electron donors",
-          "proton donors",
           "electron acceptors",
+          "proton donors",
           "neutron acceptors"
         ],
         "explanation": "An oxidising agent takes electrons from other substances, so it is an electron acceptor."
@@ -141,8 +141,8 @@
         "q": "மற்ற பொருள்களிடமிருந்து எலக்ட்ரான்களை நீக்குவதால், ஆக்ஸிஜனேற்றிகள் ______ எனவும் அழைக்கப்படுகின்றன.",
         "options": [
           "எலக்ட்ரான் ஈனிகள்",
-          "புரோட்டான் ஈனிகள்",
           "எலக்ட்ரான் ஏற்பிகள்",
+          "புரோட்டான் ஈனிகள்",
           "நியூட்ரான் ஏற்பிகள்"
         ],
         "explanation": "ஆக்ஸிஜனேற்றி பிற பொருள்களின் எலக்ட்ரான்களை ஏற்பதால் எலக்ட்ரான் ஏற்பி எனப்படும்."
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 160,
       "quote": "9. The property which is characteristics of an Ionic compound is that a. it often exists as gas at room temperature. b. it is hard and brittle. c. it undergoes molecular reactions. d. it has low melting point.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which property is characteristic of an ionic compound?",
         "options": [
           "It often exists as a gas at room temperature",
-          "It is hard and brittle",
+          "It undergoes slow molecular reactions",
           "It has a low melting point",
-          "It undergoes slow molecular reactions"
+          "It is hard and brittle"
         ],
         "explanation": "Strong electrostatic forces make ionic solids hard, but the crystal breaks (brittle) when layers shift."
       },
@@ -199,9 +199,9 @@
         "q": "அயனிச் சேர்மத்தின் சிறப்புப் பண்பு எது?",
         "options": [
           "அறை வெப்பநிலையில் பெரும்பாலும் வாயு நிலையில் இருக்கும்",
-          "கடினமானது, நொறுங்கும் தன்மை உடையது",
+          "மெதுவான மூலக்கூறு வினைகளில் ஈடுபடும்",
           "குறைந்த உருகுநிலை உடையது",
-          "மெதுவான மூலக்கூறு வினைகளில் ஈடுபடும்"
+          "கடினமானது, நொறுங்கும் தன்மை உடையது"
         ],
         "explanation": "வலிமையான நிலைமின் கவர்ச்சியால் அயனிச் சேர்மங்கள் கடினமானவை; ஆனால் நொறுங்கும் தன்மை உடையவை."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 160,
       "quote": "10. b. Fe3+ + 2 e- → Fe+",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The reaction Fe3+ + 2e- → Fe+ is an example of",
         "options": [
           "oxidation",
           "ionisation of a gas",
-          "redox with no change",
-          "reduction"
+          "reduction",
+          "redox with no change"
         ],
         "explanation": "Gain of electrons is reduction (oxidation number falls from +3 to +1)."
       },
@@ -258,8 +258,8 @@
         "options": [
           "ஆக்ஸிஜனேற்றம்",
           "வாயு அயனியாதல்",
-          "மாற்றமில்லாத ஆக்ஸிஜனேற்ற-ஒடுக்கம்",
-          "ஒடுக்கம்"
+          "ஒடுக்கம்",
+          "மாற்றமில்லாத ஆக்ஸிஜனேற்ற-ஒடுக்கம்"
         ],
         "explanation": "எலக்ட்ரானை ஏற்பது ஒடுக்கம்; ஆக்ஸிஜனேற்ற எண் +3 இலிருந்து +1 ஆகக் குறைகிறது."
       }
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 160,
       "quote": "13. Considering MgCl2 as ionic compound and CH4 as covalent compound give any two differences between these two compounds.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Considering MgCl2 as an ionic and CH4 as a covalent compound, which statement is correct?",
         "options": [
-          "MgCl2 is a crystalline solid, whereas CH4 is a gas at room temperature",
-          "MgCl2 is soluble in benzene, whereas CH4 dissolves in water",
           "MgCl2 conducts electricity in the solid state, whereas CH4 does not",
+          "MgCl2 is soluble in benzene, whereas CH4 dissolves in water",
+          "MgCl2 is a crystalline solid, whereas CH4 is a gas at room temperature",
           "MgCl2 undergoes slow molecular reactions, whereas CH4 reacts instantaneously"
         ],
         "explanation": "Ionic MgCl2 is a crystalline solid with a high melting point; covalent CH4 is a gas. Ionic compounds dissolve in water and conduct only when molten or in solution."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "MgCl2 ஐ அயனிச் சேர்மமாகவும் CH4 ஐ சகப்பிணைப்புச் சேர்மமாகவும் கொண்டால், சரியான கூற்று எது?",
         "options": [
-          "MgCl2 படிக வடிவ திண்மம்; CH4 அறை வெப்பநிலையில் வாயு",
-          "MgCl2 பென்சீனில் கரையும்; CH4 நீரில் கரையும்",
           "MgCl2 திண்ம நிலையில் மின்சாரத்தைக் கடத்தும்; CH4 கடத்தாது",
+          "MgCl2 பென்சீனில் கரையும்; CH4 நீரில் கரையும்",
+          "MgCl2 படிக வடிவ திண்மம்; CH4 அறை வெப்பநிலையில் வாயு",
           "MgCl2 மெதுவான மூலக்கூறு வினைகளில் ஈடுபடும்; CH4 உடனடியாக வினைபுரியும்"
         ],
         "explanation": "அயனிச் சேர்மமான MgCl2 அதிக உருகுநிலையுடைய படிகத் திண்மம்; சகப்பிணைப்புச் சேர்மமான CH4 வாயு. அயனிச் சேர்மங்கள் உருகிய அல்லது கரைசல் நிலையில் மட்டுமே கடத்தும்."
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 160,
       "quote": "14. Why are Noble gases inert in nature?",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Noble gases are inert because",
         "options": [
           "they have only one valence electron",
-          "they form many ionic compounds easily",
+          "their valence shells are completely filled, giving stable configurations",
           "they have seven valence electrons",
-          "their valence shells are completely filled, giving stable configurations"
+          "they form many ionic compounds easily"
         ],
         "explanation": "Their stable, completely filled valence shells (octet; duplet in helium) mean no tendency to gain or lose electrons."
       },
@@ -373,9 +373,9 @@
         "q": "மந்த வாயுக்கள் வினைபுரியாமல் இருப்பதற்குக் காரணம்",
         "options": [
           "ஒரே ஒரு இணைதிறன் எலக்ட்ரான் இருப்பது",
-          "அவை எளிதில் பல அயனிச் சேர்மங்களை உருவாக்குவது",
+          "அவற்றின் வெளிக்கூடு முழுமையாக நிரம்பி நிலைத்த அமைப்பைப் பெற்றிருப்பது",
           "ஏழு இணைதிறன் எலக்ட்ரான்கள் இருப்பது",
-          "அவற்றின் வெளிக்கூடு முழுமையாக நிரம்பி நிலைத்த அமைப்பைப் பெற்றிருப்பது"
+          "அவை எளிதில் பல அயனிச் சேர்மங்களை உருவாக்குவது"
         ],
         "explanation": "அவற்றின் வெளிக்கூடு நிரம்பியுள்ளதால் எலக்ட்ரான்களை ஏற்கவோ இழக்கவோ முயல்வதில்லை; இணைதிறன் பூஜ்யம்."
       }
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 159,
       "quote": "II. 1. How do atoms attain Noble gas electronic configuration?",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Atoms attain a noble gas electronic configuration by",
         "options": [
-          "losing protons from the nucleus",
-          "gaining neutrons",
           "losing, gaining or sharing valence electrons",
+          "gaining neutrons",
+          "losing protons from the nucleus",
           "absorbing light only"
         ],
         "explanation": "Atoms transfer valence electrons (ionic bond) or share them (covalent bond) to get a stable outer shell of eight electrons."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "அணுக்கள் மந்த வாயுக்களின் எலக்ட்ரான் அமைப்பை அடைவது",
         "options": [
-          "உட்கருவிலுள்ள புரோட்டான்களை இழந்து",
-          "நியூட்ரான்களை ஏற்று",
           "இணைதிறன் எலக்ட்ரான்களை இழந்தோ ஏற்றோ பங்கீடு செய்தோ",
+          "நியூட்ரான்களை ஏற்று",
+          "உட்கருவிலுள்ள புரோட்டான்களை இழந்து",
           "ஒளியை உறிஞ்சுவதன் மூலம் மட்டும்"
         ],
         "explanation": "எலக்ட்ரான்களை மாற்றுவதன் மூலம் (அயனிப்பிணைப்பு) அல்லது பங்கீடு செய்வதன் மூலம் (சகப்பிணைப்பு) எட்டு எலக்ட்ரான் நிலையான அமைப்பை அடைகின்றன."
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 159,
       "quote": "II. 3. Explain Octet rule with an example.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The octet rule is illustrated by sodium, because sodium",
         "options": [
           "gains seven electrons to attain the argon configuration",
-          "loses one electron to attain the neon configuration of eight outer electrons",
+          "shares one electron with hydrogen to attain the helium configuration",
           "loses its inner shell electrons",
-          "shares one electron with hydrogen to attain the helium configuration"
+          "loses one electron to attain the neon configuration of eight outer electrons"
         ],
         "explanation": "Atoms tend to have eight electrons in the valence shell; Na (2, 8, 1) loses one electron to get 2, 8."
       },
@@ -431,9 +431,9 @@
         "q": "எண்ம விதிக்கு எடுத்துக்காட்டாக சோடியம் விளங்குவதற்குக் காரணம், சோடியம்",
         "options": [
           "ஏழு எலக்ட்ரான்களை ஏற்று ஆர்கான் அமைப்பைப் பெறுகிறது",
-          "ஒரு எலக்ட்ரானை இழந்து எட்டு வெளிக்கூட்டு எலக்ட்ரான்களுடன் நியான் அமைப்பைப் பெறுகிறது",
+          "ஹைட்ரஜனுடன் ஒரு எலக்ட்ரானைப் பங்கிட்டு ஹீலியம் அமைப்பைப் பெறுகிறது",
           "உள்கூட்டு எலக்ட்ரான்களை இழக்கிறது",
-          "ஹைட்ரஜனுடன் ஒரு எலக்ட்ரானைப் பங்கிட்டு ஹீலியம் அமைப்பைப் பெறுகிறது"
+          "ஒரு எலக்ட்ரானை இழந்து எட்டு வெளிக்கூட்டு எலக்ட்ரான்களுடன் நியான் அமைப்பைப் பெறுகிறது"
         ],
         "explanation": "அணுக்கள் வெளிக்கூட்டில் எட்டு எலக்ட்ரான்களைப் பெற முயல்கின்றன; Na (2, 8, 1) ஒரு எலக்ட்ரானை இழந்து 2, 8 அமைப்பைப் பெறுகிறது."
       }
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 159,
       "quote": "II. 4. Write a note on different types on bonds.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which of the following are the types of chemical bonds studied in this unit?",
         "options": [
-          "Ionic, covalent and coordinate bonds",
-          "Ionic, nuclear and magnetic bonds",
           "Covalent, gravitational and ionic bonds",
+          "Ionic, nuclear and magnetic bonds",
+          "Ionic, covalent and coordinate bonds",
           "Metallic, nuclear and coordinate bonds"
         ],
         "explanation": "The unit deals with ionic (electrovalent), covalent and coordinate covalent (dative) bonds."
@@ -459,9 +459,9 @@
       "ta": {
         "q": "இந்தப் பாடத்தில் கற்கும் வேதிப்பிணைப்பு வகைகள் எவை?",
         "options": [
-          "அயனிப்பிணைப்பு, சகப்பிணைப்பு, ஈதல் சகப்பிணைப்பு",
-          "அயனி, உட்கரு, காந்தப் பிணைப்பு",
           "சகப்பிணைப்பு, ஈர்ப்பு, அயனிப்பிணைப்பு",
+          "அயனி, உட்கரு, காந்தப் பிணைப்பு",
+          "அயனிப்பிணைப்பு, சகப்பிணைப்பு, ஈதல் சகப்பிணைப்பு",
           "உலோகப் பிணைப்பு, உட்கருப் பிணைப்பு, ஈதல் சகப்பிணைப்பு"
         ],
         "explanation": "இப்பாடம் அயனி (மின்னூட்ட), சகப்பிணைப்பு, ஈதல் சகப்பிணைப்பு ஆகியவற்றைக் கூறுகிறது."
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 159,
       "quote": "II. 5. a. Ionic compounds dissolve in non polar solvents.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which is the correct statement about solubility?",
         "options": [
           "Ionic compounds dissolve in non-polar solvents",
           "Ionic compounds are insoluble in water",
-          "Covalent compounds dissolve in water readily",
-          "Ionic compounds dissolve in polar solvents"
+          "Ionic compounds dissolve in polar solvents",
+          "Covalent compounds dissolve in water readily"
         ],
         "explanation": "The book's statement is wrong: ionic compounds dissolve in polar solvents such as water, not in non-polar solvents."
       },
@@ -490,8 +490,8 @@
         "options": [
           "அயனிச் சேர்மங்கள் முனைவற்ற கரைப்பான்களில் கரையும்",
           "அயனிச் சேர்மங்கள் நீரில் கரையாது",
-          "சகப்பிணைப்புச் சேர்மங்கள் நீரில் எளிதில் கரையும்",
-          "அயனிச் சேர்மங்கள் முனைவுள்ள கரைப்பான்களில் கரையும்"
+          "அயனிச் சேர்மங்கள் முனைவுள்ள கரைப்பான்களில் கரையும்",
+          "சகப்பிணைப்புச் சேர்மங்கள் நீரில் எளிதில் கரையும்"
         ],
         "explanation": "பாடநூலிலுள்ள கூற்று தவறு; சரியானது: அயனிச் சேர்மங்கள் நீர் போன்ற முனைவுள்ள கரைப்பான்களில் கரையும்."
       }
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 159,
       "quote": "II. 5. b. Covalent compounds conduct electricity in molten or solution state.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which statement about covalent compounds is correct?",
         "options": [
           "They conduct electricity in the molten state",
-          "They conduct electricity in solution",
           "They are bad conductors of electricity in all states",
+          "They conduct electricity in solution",
           "They contain free ions"
         ],
         "explanation": "The book's statement is wrong: covalent compounds have no ions, so they are bad conductors even when molten or in solution."
@@ -518,8 +518,8 @@
         "q": "சகப்பிணைப்புச் சேர்மங்கள் பற்றிய சரியான கூற்று எது?",
         "options": [
           "உருகிய நிலையில் மின்சாரத்தைக் கடத்தும்",
-          "கரைசல் நிலையில் மின்சாரத்தைக் கடத்தும்",
           "அனைத்து நிலைகளிலும் மின்சாரத்தை நன்கு கடத்தாதவை",
+          "கரைசல் நிலையில் மின்சாரத்தைக் கடத்தும்",
           "கட்டற்ற அயனிகளைக் கொண்டவை"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; சகப்பிணைப்புச் சேர்மங்களில் அயனிகள் இல்லாததால் உருகிய, கரைசல் நிலைகளிலும் மின்சாரத்தைக் கடத்தாது."
@@ -532,14 +532,14 @@
       "bloom": "remember",
       "page": 159,
       "quote": "II. 6. Complete the table: Lithium 3; Boron 5; Oxygen 8 (electron distribution, valence electrons, Lewis dot structure)",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which row gives the correct electron distribution and number of valence electrons?",
         "options": [
           "Lithium: 2, 1 and 3; Boron: 2, 3 and 5; Oxygen: 2, 6 and 8",
-          "Lithium: 2, 1 and 1; Boron: 2, 3 and 3; Oxygen: 2, 6 and 6",
+          "Lithium: 3 and 3; Boron: 2, 3 and 2; Oxygen: 2, 8 and 6",
           "Lithium: 2, 1 and 2; Boron: 2, 3 and 3; Oxygen: 2, 6 and 4",
-          "Lithium: 3 and 3; Boron: 2, 3 and 2; Oxygen: 2, 8 and 6"
+          "Lithium: 2, 1 and 1; Boron: 2, 3 and 3; Oxygen: 2, 6 and 6"
         ],
         "explanation": "Li (Z=3) is 2, 1; B (Z=5) is 2, 3; O (Z=8) is 2, 6, with 1, 3 and 6 valence electrons."
       },
@@ -547,9 +547,9 @@
         "q": "எலக்ட்ரான் பரவல், இணைதிறன் எலக்ட்ரான்களின் எண்ணிக்கை ஆகியவற்றைச் சரியாகக் கூறும் வரிசை எது?",
         "options": [
           "லித்தியம்: 2, 1; 3 — போரான்: 2, 3; 5 — ஆக்ஸிஜன்: 2, 6; 8",
-          "லித்தியம்: 2, 1; 1 — போரான்: 2, 3; 3 — ஆக்ஸிஜன்: 2, 6; 6",
+          "லித்தியம்: 3; 3 — போரான்: 2, 3; 2 — ஆக்ஸிஜன்: 2, 8; 6",
           "லித்தியம்: 2, 1; 2 — போரான்: 2, 3; 3 — ஆக்ஸிஜன்: 2, 6; 4",
-          "லித்தியம்: 3; 3 — போரான்: 2, 3; 2 — ஆக்ஸிஜன்: 2, 8; 6"
+          "லித்தியம்: 2, 1; 1 — போரான்: 2, 3; 3 — ஆக்ஸிஜன்: 2, 6; 6"
         ],
         "explanation": "Li (அ.எ 3) 2,1; B (5) 2,3; O (8) 2,6; இணைதிறன் எலக்ட்ரான்கள் முறையே 1, 3, 6."
       }
@@ -590,24 +590,24 @@
       "bloom": "remember",
       "page": 160,
       "quote": "II. 8. Fill in the table according to the type of bonds: CaCl2, H2O, CaO, CO, KBr, HCl, CCl4, HF, CO2, Al2Cl6",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which set contains only ionic compounds?",
         "options": [
-          "H2O, HCl, HF",
+          "CaCl2, CaO, KBr",
           "CaCl2, H2O, KBr",
           "CCl4, CO2, HCl",
-          "CaCl2, CaO, KBr"
+          "H2O, HCl, HF"
         ],
         "explanation": "A metal combining with a non-metal gives ionic compounds: CaCl2, CaO and KBr. H2O, HCl, HF, CCl4 and CO2 are covalent."
       },
       "ta": {
         "q": "அயனிச் சேர்மங்களை மட்டுமே கொண்ட தொகுப்பு எது?",
         "options": [
-          "H2O, HCl, HF",
+          "CaCl2, CaO, KBr",
           "CaCl2, H2O, KBr",
           "CCl4, CO2, HCl",
-          "CaCl2, CaO, KBr"
+          "H2O, HCl, HF"
         ],
         "explanation": "உலோகமும் அலோகமும் இணைவதால் CaCl2, CaO, KBr அயனிச் சேர்மங்கள்; H2O, HCl, HF, CCl4, CO2 சகப்பிணைப்புச் சேர்மங்கள்."
       }
@@ -619,13 +619,13 @@
       "bloom": "remember",
       "page": 160,
       "quote": "II. 8. (table) Coordinate covalent: CO, Al2Cl6 among the listed molecules",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Among the listed molecules, which contains a coordinate covalent bond?",
         "options": [
           "CCl4",
-          "HCl",
           "Al2Cl6",
+          "HCl",
           "KBr"
         ],
         "explanation": "Al2Cl6 (and CO) have a coordinate (dative) bond; CCl4 and HCl are covalent and KBr is ionic."
@@ -634,8 +634,8 @@
         "q": "கொடுக்கப்பட்ட மூலக்கூறுகளில் ஈதல் சகப்பிணைப்பைக் கொண்டது எது?",
         "options": [
           "CCl4",
-          "HCl",
           "Al2Cl6",
+          "HCl",
           "KBr"
         ],
         "explanation": "Al2Cl6 (மற்றும் CO) ஈதல் சகப்பிணைப்பைக் கொண்டவை; CCl4, HCl சகப்பிணைப்பு; KBr அயனிப்பிணைப்பு."
@@ -735,14 +735,14 @@
       "bloom": "remember",
       "page": 160,
       "quote": "III. 3. b. Ionic bond is a weak bond when compared to Hydrogen bond.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Which statement about the strength of bonds is correct?",
         "options": [
           "An ionic bond is weaker than a hydrogen bond",
           "A hydrogen bond is a strong bond like the ionic bond",
-          "An ionic bond is a strong bond compared to a hydrogen bond",
-          "Van der Waals interaction is the strongest bond"
+          "Van der Waals interaction is the strongest bond",
+          "An ionic bond is a strong bond compared to a hydrogen bond"
         ],
         "explanation": "The book's statement is incorrect: ionic, covalent, coordinate and metallic bonds are strong; hydrogen bond and van der Waals interactions are weak."
       },
@@ -751,8 +751,8 @@
         "options": [
           "ஹைட்ரஜன் பிணைப்பை விட அயனிப்பிணைப்பு வலிமை குறைந்தது",
           "ஹைட்ரஜன் பிணைப்பும் அயனிப்பிணைப்பைப் போல வலிமையானது",
-          "ஹைட்ரஜன் பிணைப்பை விட அயனிப்பிணைப்பு வலிமையானது",
-          "வாண்டர்வால்ஸ் இடைவினை மிக வலிமையான பிணைப்பு"
+          "வாண்டர்வால்ஸ் இடைவினை மிக வலிமையான பிணைப்பு",
+          "ஹைட்ரஜன் பிணைப்பை விட அயனிப்பிணைப்பு வலிமையானது"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; அயனி, சகப்பிணைப்பு, ஈதல் சகப்பிணைப்பு, உலோகப் பிணைப்பு ஆகியவை வலிமையானவை; ஹைட்ரஜன் பிணைப்பு, வாண்டர்வால்ஸ் இடைவினை வலிமை குறைந்தவை."
       }
@@ -764,12 +764,12 @@
       "bloom": "remember",
       "page": 160,
       "quote": "III. 3. c. Ionic or electrovalent bonds are formed by mutual sharing of electrons between atoms.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Ionic (electrovalent) bonds are formed by",
         "options": [
-          "mutual sharing of electrons between atoms",
           "transfer of electrons from one atom to another",
+          "mutual sharing of electrons between atoms",
           "overlap of nuclei",
           "donation of a lone pair by one atom"
         ],
@@ -778,8 +778,8 @@
       "ta": {
         "q": "அயனிப்பிணைப்பு (மின்னூட்டப் பிணைப்பு) உருவாவது",
         "options": [
-          "அணுக்களுக்கிடையே எலக்ட்ரான்களைப் பங்கிடுவதால்",
           "ஓர் அணுவிலிருந்து மற்றோர் அணுவிற்கு எலக்ட்ரான்கள் பரிமாற்றம் அடைவதால்",
+          "அணுக்களுக்கிடையே எலக்ட்ரான்களைப் பங்கிடுவதால்",
           "உட்கருக்கள் மேற்பொருந்துவதால்",
           "ஓர் அணு தனித்த இணையை ஈவதால்"
         ],
@@ -793,13 +793,13 @@
       "bloom": "remember",
       "page": 160,
       "quote": "III. 3. e. The electrons which are not involved in bonding are called valence electrons.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Chemical Bonding: Which statement is correct?",
         "options": [
-          "Valence electrons are the outermost-shell electrons that take part in bonding",
-          "Electrons not involved in bonding are called valence electrons",
           "Valence electrons are found only in the nucleus",
+          "Electrons not involved in bonding are called valence electrons",
+          "Valence electrons are the outermost-shell electrons that take part in bonding",
           "Valence electrons never take part in bonding"
         ],
         "explanation": "The book's statement is incorrect: the electrons of the outermost shell that take part in bonding are the valence electrons."
@@ -807,9 +807,9 @@
       "ta": {
         "q": "சரியான கூற்று எது?",
         "options": [
-          "பிணைப்பில் ஈடுபடும் வெளிக்கூட்டு எலக்ட்ரான்கள் இணைதிறன் எலக்ட்ரான்கள் எனப்படும்",
-          "பிணைப்பில் ஈடுபடாத எலக்ட்ரான்கள் இணைதிறன் எலக்ட்ரான்கள் எனப்படும்",
           "இணைதிறன் எலக்ட்ரான்கள் உட்கருவில் மட்டுமே உள்ளன",
+          "பிணைப்பில் ஈடுபடாத எலக்ட்ரான்கள் இணைதிறன் எலக்ட்ரான்கள் எனப்படும்",
+          "பிணைப்பில் ஈடுபடும் வெளிக்கூட்டு எலக்ட்ரான்கள் இணைதிறன் எலக்ட்ரான்கள் எனப்படும்",
           "இணைதிறன் எலக்ட்ரான்கள் பிணைப்பில் ஈடுபடுவதில்லை"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; பிணைப்பில் ஈடுபடும் வெளிக்கூட்டு எலக்ட்ரான்களே இணைதிறன் எலக்ட்ரான்கள்."
@@ -822,24 +822,24 @@
       "bloom": "remember",
       "page": 160,
       "quote": "III. 3. d. Loss of electrons is called Oxidation and gain of electron is called Reduction.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Loss of electrons and gain of electrons are respectively called",
         "options": [
-          "reduction and oxidation",
+          "oxidation and reduction",
           "oxidation and neutralisation",
           "ionisation and neutralisation",
-          "oxidation and reduction"
+          "reduction and oxidation"
         ],
         "explanation": "Oxidation is loss of electrons; reduction is gain of electrons."
       },
       "ta": {
         "q": "எலக்ட்ரான்களை இழத்தல், ஏற்றல் ஆகியவை முறையே",
         "options": [
-          "ஒடுக்கம், ஆக்ஸிஜனேற்றம்",
+          "ஆக்ஸிஜனேற்றம், ஒடுக்கம்",
           "ஆக்ஸிஜனேற்றம், நடுநிலையாக்கல்",
           "அயனியாதல், நடுநிலையாக்கல்",
-          "ஆக்ஸிஜனேற்றம், ஒடுக்கம்"
+          "ஒடுக்கம், ஆக்ஸிஜனேற்றம்"
         ],
         "explanation": "எலக்ட்ரான் இழப்பு ஆக்ஸிஜனேற்றம்; எலக்ட்ரான் ஏற்பு ஒடுக்கம்."
       }
@@ -851,13 +851,13 @@
       "bloom": "remember",
       "page": 160,
       "quote": "III. 5. a. C in CO2",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The oxidation number of C in CO2 is",
         "options": [
           "+2",
-          "-4",
           "+4",
+          "-4",
           "0"
         ],
         "explanation": "x + 2(-2) = 0 gives x = +4."
@@ -866,8 +866,8 @@
         "q": "CO2 இல் C இன் ஆக்ஸிஜனேற்ற எண்",
         "options": [
           "+2",
-          "-4",
           "+4",
+          "-4",
           "0"
         ],
         "explanation": "x + 2(-2) = 0 எனில் x = +4."
@@ -909,12 +909,12 @@
       "bloom": "remember",
       "page": 160,
       "quote": "III. 5. c. N in HNO3",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The oxidation number of N in HNO3 is",
         "options": [
-          "+5",
           "+3",
+          "+5",
           "-3",
           "+1"
         ],
@@ -923,8 +923,8 @@
       "ta": {
         "q": "HNO3 இல் N இன் ஆக்ஸிஜனேற்ற எண்",
         "options": [
-          "+5",
           "+3",
+          "+5",
           "-3",
           "+1"
         ],

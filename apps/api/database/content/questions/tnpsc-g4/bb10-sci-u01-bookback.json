@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 13,
       "quote": "Impulse is equals to a) rate of change of momentum b) rate of force and time c) change of momentum d) rate of change of mass",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Impulse of a force is equal to the",
         "options": [
-          "rate of change of force and time",
+          "change of momentum",
           "rate of change of momentum",
           "rate of change of mass",
-          "change of momentum"
+          "rate of change of force and time"
         ],
         "explanation": "J = F × t = Δp, so impulse equals the change in momentum (unit N s or kg m s⁻¹); the rate of change of momentum is the force."
       },
       "ta": {
         "q": "கணத்தாக்கு என்பது எதற்குச் சமம்?",
         "options": [
-          "விசை மற்றும் காலத்தின் மாற்றவீதம்",
+          "உந்த மாற்றம்",
           "உந்த மாற்றவீதம்",
           "நிறை மாற்றவீதம்",
-          "உந்த மாற்றம்"
+          "விசை மற்றும் காலத்தின் மாற்றவீதம்"
         ],
         "explanation": "J = F × t = Δp; எனவே கணத்தாக்கு என்பது உந்த மாற்றத்திற்குச் சமம் (அலகு N s அல்லது kg m s⁻¹). உந்த மாற்றவீதம் என்பது விசை."
       }
@@ -68,12 +68,12 @@
       "bloom": "remember",
       "page": 13,
       "quote": "Newton's III law is applicable a) for a body is at rest b) for a body in motion c) both a & b d) only for bodies with equal masses",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Newton's third law of motion is applicable to",
         "options": [
-          "bodies at rest as well as bodies in motion",
           "bodies at rest only",
+          "bodies at rest as well as bodies in motion",
           "bodies of equal masses only",
           "bodies in motion only"
         ],
@@ -82,8 +82,8 @@
       "ta": {
         "q": "நியூட்டனின் மூன்றாம் விதி எவற்றிற்குப் பொருந்தும்?",
         "options": [
-          "ஓய்வுநிலையிலுள்ள மற்றும் இயக்கநிலையிலுள்ள பொருட்களுக்கு",
           "ஓய்வுநிலையிலுள்ள பொருளுக்கு மட்டும்",
+          "ஓய்வுநிலையிலுள்ள மற்றும் இயக்கநிலையிலுள்ள பொருட்களுக்கு",
           "சமநிறையுள்ள பொருட்களுக்கு மட்டும்",
           "இயக்கநிலையிலுள்ள பொருளுக்கு மட்டும்"
         ],
@@ -97,12 +97,12 @@
       "bloom": "understand",
       "page": 13,
       "quote": "Plotting a graph for momentum on the Y-axis and time on X-axis. slope of momentum-time graph gives a) Impulsive force b) Acceleration c) Force d) Rate of force",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "In a graph of momentum (Y-axis) against time (X-axis), the slope gives",
         "options": [
-          "Rate of change of force",
           "Force",
+          "Rate of change of force",
           "Acceleration",
           "Impulsive force"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "உந்தத்தை Y அச்சிலும் காலத்தை X அச்சிலும் கொண்டு வரையப்படும் வரைபடத்தின் சாய்வு எதைக் குறிக்கும்?",
         "options": [
-          "விசையின் மாற்றவீதம்",
           "விசை",
+          "விசையின் மாற்றவீதம்",
           "முடுக்கம்",
           "கணத்தாக்கு விசை"
         ],
@@ -155,12 +155,12 @@
       "bloom": "understand",
       "page": 13,
       "quote": "The unit of 'g' is m s-2. It can be also expressed as a) cms-1 b) Nkg-1 c) Nm2kg-1 d) cm2s-2",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The unit of 'g' is m s⁻². It can also be expressed as",
         "options": [
-          "N kg⁻¹",
           "cm² s⁻²",
+          "N kg⁻¹",
           "N m² kg⁻¹",
           "cm s⁻¹"
         ],
@@ -169,8 +169,8 @@
       "ta": {
         "q": "புவி ஈர்ப்பு முடுக்கம் g-இன் அலகு m s⁻². இதை கீழ்க்காணும் எந்த அலகாலும் குறிப்பிடலாம்?",
         "options": [
-          "N kg⁻¹",
           "cm² s⁻²",
+          "N kg⁻¹",
           "N m² kg⁻¹",
           "cm s⁻¹"
         ],
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 13,
       "quote": "One kilogram force equals to a) 9.8 dyne b) 9.8 × 10^4 N c) 98 × 10^4 dyne d) 980 dyne",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "One kilogram force is equal to",
         "options": [
           "9.8 dyne",
-          "9.8 × 10⁴ N",
+          "98 × 10⁴ dyne",
           "980 dyne",
-          "98 × 10⁴ dyne"
+          "9.8 × 10⁴ N"
         ],
         "explanation": "1 kgf = 9.8 N = 9.8 × 10⁵ dyne = 98 × 10⁴ dyne (it is 980 dyne that equals 1 gf)."
       },
@@ -199,9 +199,9 @@
         "q": "ஒரு கிலோகிராம் எடை (kg f) என்பது எதற்குச் சமம்?",
         "options": [
           "9.8 டைன்",
-          "9.8 × 10⁴ N",
+          "98 × 10⁴ டைன்",
           "980 டைன்",
-          "98 × 10⁴ டைன்"
+          "9.8 × 10⁴ N"
         ],
         "explanation": "1 kg f = 9.8 N = 9.8 × 10⁵ டைன் = 98 × 10⁴ டைன்; 980 டைன் என்பது 1 g f ஆகும்."
       }
@@ -242,14 +242,14 @@
       "bloom": "apply",
       "page": 13,
       "quote": "If the Earth shrinks to 50% of its real radius its mass remaining the same, the weight of a body on the Earth will a) decrease by 50% b) increase by 50% c) decrease by 25% d) increase by 300%",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "If the Earth shrinks to 50% of its radius while its mass stays the same, the weight of a body on it will",
         "options": [
           "decrease by 25%",
-          "increase by 300%",
+          "increase by 50%",
           "decrease by 50%",
-          "increase by 50%"
+          "increase by 300%"
         ],
         "explanation": "g ∝ 1/R². With R halved, g becomes 4 times, so weight rises from W to 4W, an increase of 300%."
       },
@@ -257,9 +257,9 @@
         "q": "புவியின் நிறை மாறாமல் அதன் ஆரம் 50% ஆகச் சுருங்கினால், புவியில் ஒரு பொருளின் எடை",
         "options": [
           "25% குறையும்",
-          "300% அதிகரிக்கும்",
+          "50% அதிகரிக்கும்",
           "50% குறையும்",
-          "50% அதிகரிக்கும்"
+          "300% அதிகரிக்கும்"
         ],
         "explanation": "g ∝ 1/R². ஆரம் பாதியாகும்போது g நான்கு மடங்காகும்; எடை W-இலிருந்து 4W ஆகி 300% அதிகரிக்கும்."
       }
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 13,
       "quote": "To project the rockets which of the following principle(s) is /(are) required? a) Newton's third law of motion b) Newton's law of gravitation c) law of conservation of linear momentum d) both a and c",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which principle(s) is/are involved in the launching of rockets?",
         "options": [
-          "Newton's third law of motion only",
-          "Newton's law of gravitation only",
           "Newton's third law of motion and the law of conservation of linear momentum",
+          "Newton's law of gravitation only",
+          "Newton's third law of motion only",
           "Law of conservation of linear momentum only"
         ],
         "explanation": "Rocket propulsion rests on both Newton's third law and the conservation of linear momentum."
@@ -285,9 +285,9 @@
       "ta": {
         "q": "ராக்கெட் ஏவுதலில் பயன்படுத்தப்படும் விதி/விதிகள் எவை?",
         "options": [
-          "நியூட்டனின் மூன்றாம் விதி மட்டும்",
-          "நியூட்டனின் பொது ஈர்ப்பியல் விதி மட்டும்",
           "நியூட்டனின் மூன்றாம் விதி மற்றும் நேர்க்கோட்டு உந்த மாறாக் கோட்பாடு",
+          "நியூட்டனின் பொது ஈர்ப்பியல் விதி மட்டும்",
+          "நியூட்டனின் மூன்றாம் விதி மட்டும்",
           "நேர்க்கோட்டு உந்த மாறாக் கோட்பாடு மட்டும்"
         ],
         "explanation": "ராக்கெட்டின் உந்துதல் நியூட்டனின் மூன்றாம் விதியையும் நேர்க்கோட்டு உந்த அழிவின்மை விதியையும் அடிப்படையாகக் கொண்டது."
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 13,
       "quote": "To produce a displacement ___________ is required",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "To produce a displacement in a body at rest, ____ is required.",
         "options": [
-          "weightlessness",
-          "a torque only",
           "a force",
+          "a torque only",
+          "weightlessness",
           "inertia"
         ],
         "explanation": "A force (push or pull) is needed to set a body in motion."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "ஓய்விலுள்ள பொருளில் இடப்பெயர்ச்சியை உண்டாக்க ____ தேவை.",
         "options": [
-          "எடையின்மை",
-          "திருப்புத்திறன் மட்டும்",
           "விசை",
+          "திருப்புத்திறன் மட்டும்",
+          "எடையின்மை",
           "நிலைமம்"
         ],
         "explanation": "ஓய்விலுள்ள பொருளை இயங்கச் செய்ய விசை (தள்ளுதல் அல்லது இழுத்தல்) தேவை."
@@ -329,13 +329,13 @@
       "bloom": "understand",
       "page": 13,
       "quote": "Passengers lean forward when sudden brake is applied in a moving vehicle. This can be explained by ___________",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The forward lean of passengers when a running vehicle is braked suddenly illustrates",
         "options": [
-          "the law of gravitation",
-          "inertia of direction",
           "inertia of motion",
+          "inertia of direction",
+          "the law of gravitation",
           "inertia of rest"
         ],
         "explanation": "The passengers' bodies tend to continue their state of motion, i.e. inertia of motion."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "இயங்கும் ஊர்தி திடீரெனத் தடை செய்யப்படும்போது பயணிகள் முன்னோக்கிச் சாய்கின்றனர். இதை விளக்குவது",
         "options": [
-          "ஈர்ப்பியல் விதி",
-          "திசை நிலைமம்",
           "இயக்க நிலைமம்",
+          "திசை நிலைமம்",
+          "ஈர்ப்பியல் விதி",
           "ஓய்வு நிலைமம்"
         ],
         "explanation": "பயணிகளின் உடல் தன் இயக்க நிலையைத் தொடர விரும்புவதால் இவ்வாறு நிகழ்கிறது; இது இயக்க நிலைமம்."
@@ -387,12 +387,12 @@
       "bloom": "remember",
       "page": 13,
       "quote": "___________ is used to change the speed of car.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "A device used to change the speed of rotation of a car's wheels by changing the torque is the",
         "options": [
-          "gear",
           "spanner",
+          "gear",
           "seesaw",
           "lever balance"
         ],
@@ -401,8 +401,8 @@
       "ta": {
         "q": "மகிழுந்தின் சக்கரத்தின் சுழற்சி வேகத்தை மாற்றப் பயன்படுவது",
         "options": [
-          "கியர் (பற்சக்கரம்)",
           "திருகுக்குறடு",
+          "கியர் (பற்சக்கரம்)",
           "ஏற்றம்-இறக்கம் (சீசா)",
           "நெம்புகோல் தராசு"
         ],
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 13,
       "quote": "The linear momentum of a system of particles is always conserved.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which statement about the linear momentum of a system of particles is correct?",
         "options": [
           "It is conserved only when the particles are at rest",
-          "It is conserved only when no net external force acts on the system",
           "It is never conserved",
+          "It is conserved only when no net external force acts on the system",
           "It is always conserved"
         ],
         "explanation": "The statement 'always conserved' is false; the law holds only if the net external force is zero."
@@ -460,8 +460,8 @@
         "q": "துகள்களின் அமைப்பின் நேர்க்கோட்டு உந்தம் பற்றிய சரியான கூற்று எது?",
         "options": [
           "துகள்கள் ஓய்வில் இருக்கும்போது மட்டுமே அது மாறாமல் இருக்கும்",
-          "அமைப்பின் மீது தொகுபயன் புறவிசை செயல்படாதபோது மட்டுமே அது மாறாமல் இருக்கும்",
           "அது ஒருபோதும் மாறாமல் இருக்காது",
+          "அமைப்பின் மீது தொகுபயன் புறவிசை செயல்படாதபோது மட்டுமே அது மாறாமல் இருக்கும்",
           "அது எப்போதும் மாறிலியாகும்"
         ],
         "explanation": "'எப்போதும் மாறிலி' என்பது தவறு; தொகுபயன் புறவிசை சுழியாக இருக்கும்போது மட்டுமே உந்தம் அழியாமல் இருக்கும்."
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 13,
       "quote": "Weight of a body is greater at the equator and less at the polar region.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which statement about the weight of a body on the Earth is correct?",
         "options": [
           "It is greater at the equator than at the poles",
-          "It is zero at the poles",
+          "It is greater at the poles than at the equator",
           "It is the same at the equator and at the poles",
-          "It is greater at the poles than at the equator"
+          "It is zero at the poles"
         ],
         "explanation": "The Earth's radius is smaller at the poles, so g and the weight are greater there than at the equator."
       },
@@ -518,9 +518,9 @@
         "q": "புவியில் ஒரு பொருளின் எடை பற்றிய சரியான கூற்று எது?",
         "options": [
           "நிலநடுக்கோட்டில் அதிகம்; துருவங்களில் குறைவு",
-          "துருவங்களில் சுழி",
+          "துருவங்களில் அதிகம்; நிலநடுக்கோட்டில் குறைவு",
           "நிலநடுக்கோட்டிலும் துருவங்களிலும் சமம்",
-          "துருவங்களில் அதிகம்; நிலநடுக்கோட்டில் குறைவு"
+          "துருவங்களில் சுழி"
         ],
         "explanation": "துருவங்களில் புவியின் ஆரம் குறைவு; எனவே g-யும் எடையும் நிலநடுக்கோட்டை விட அங்கு அதிகம்."
       }
@@ -561,12 +561,12 @@
       "bloom": "understand",
       "page": 13,
       "quote": "There is no gravity in the orbiting space station around the Earth. So the astronauts feel weightlessness.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Astronauts in an orbiting space station feel weightlessness because",
         "options": [
-          "the Earth's gravity is cancelled by the Moon",
           "they and the station are in a state of free fall around the Earth",
+          "the Earth's gravity is cancelled by the Moon",
           "there is no gravity at that height",
           "their mass becomes zero in space"
         ],
@@ -575,8 +575,8 @@
       "ta": {
         "q": "புவியைச் சுற்றும் விண்வெளி மையத்திலுள்ள விண்வெளி வீரர்கள் எடையின்மையை உணரக் காரணம்",
         "options": [
-          "நிலவின் ஈர்ப்பால் புவியின் ஈர்ப்பு சமன் செய்யப்படுவதே",
           "அவர்களும் விண்வெளி மையமும் புவியைச் சுற்றித் தடையின்றி விழுந்துகொண்டிருப்பதே",
+          "நிலவின் ஈர்ப்பால் புவியின் ஈர்ப்பு சமன் செய்யப்படுவதே",
           "அந்த உயரத்தில் புவிஈர்ப்பு விசை இல்லாததே",
           "விண்வெளியில் அவர்களின் நிறை சுழியாவதே"
         ],
@@ -590,13 +590,13 @@
       "bloom": "remember",
       "page": 14,
       "quote": "Match the following: a. Newton's I law b. Newton's II law c. Newton's III law d. Law of conservation of linear momentum",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Match the law in List I with its application or description in List II:\n(a) Newton's I law\n(b) Newton's II law\n(c) Newton's III law\n(d) Law of conservation of linear momentum\n— \n(1) Law of force\n(2) Propulsion of a rocket\n(3) Equilibrium (stability) of bodies\n(4) Flying nature of a bird",
         "options": [
           "a-2, b-4, c-1, d-3",
-          "a-4, b-2, c-1, d-3",
           "a-3, b-1, c-4, d-2",
+          "a-4, b-2, c-1, d-3",
           "a-3, b-2, c-4, d-1"
         ],
         "explanation": "First law – equilibrium of bodies; second law – law of force; third law – flight of birds; momentum conservation – rocket propulsion."
@@ -605,8 +605,8 @@
         "q": "பகுதி I-இல் உள்ள விதியைப் பகுதி II-இல் உள்ள பயன்பாட்டுடன் பொருத்துக:\n(a) நியூட்டனின் முதல் விதி\n(b) நியூட்டனின் இரண்டாம் விதி\n(c) நியூட்டனின் மூன்றாம் விதி\n(d) நேர்க்கோட்டு உந்த அழிவின்மை விதி\n— \n(1) விசையின் விதி\n(2) ராக்கெட் ஏவுதலில் பயன்படுகிறது\n(3) பொருட்களின் சமநிலை\n(4) பறவை பறத்தலில் பயன்படுகிறது",
         "options": [
           "a-2, b-4, c-1, d-3",
-          "a-4, b-2, c-1, d-3",
           "a-3, b-1, c-4, d-2",
+          "a-4, b-2, c-1, d-3",
           "a-3, b-2, c-4, d-1"
         ],
         "explanation": "முதல் விதி – பொருட்களின் சமநிலை; இரண்டாம் விதி – விசையின் விதி; மூன்றாம் விதி – பறவை பறத்தல்; உந்த அழிவின்மை – ராக்கெட் ஏவுதல்."
@@ -677,24 +677,24 @@
       "bloom": "remember",
       "page": 14,
       "quote": "6. State the principle of moments.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The principle of moments states that, for a rigid body in equilibrium under parallel forces,",
         "options": [
-          "the clockwise moment equals the anticlockwise moment about a point",
+          "the sum of all forces is equal to the sum of all moments",
           "the moment is equal to force divided by distance",
           "the sum of the moments is always positive",
-          "the sum of all forces is equal to the sum of all moments"
+          "the clockwise moment equals the anticlockwise moment about a point"
         ],
         "explanation": "At equilibrium, the algebraic sum of the moments about any point is zero: F₁ × d₁ = F₂ × d₂."
       },
       "ta": {
         "q": "திருப்புத்திறன்களின் தத்துவம் (தகவு) கூறுவது யாது? (சமநிலையிலுள்ள பொருள் மீது இணைவிசைகள் செயல்படும்போது)",
         "options": [
-          "ஒரு புள்ளியைப் பொறுத்து வலஞ்சுழி திருப்புத்திறன் = இடஞ்சுழி திருப்புத்திறன்",
+          "அனைத்து விசைகளின் கூடுதல் அனைத்து திருப்புத்திறன்களின் கூடுதலுக்குச் சமம்",
           "திருப்புத்திறன் = விசை ÷ தொலைவு",
           "திருப்புத்திறன்களின் கூடுதல் எப்போதும் நேர்க்குறியாகும்",
-          "அனைத்து விசைகளின் கூடுதல் அனைத்து திருப்புத்திறன்களின் கூடுதலுக்குச் சமம்"
+          "ஒரு புள்ளியைப் பொறுத்து வலஞ்சுழி திருப்புத்திறன் = இடஞ்சுழி திருப்புத்திறன்"
         ],
         "explanation": "சமநிலையில் எந்தப் புள்ளியையும் பொறுத்த திருப்புத்திறன்களின் இயற்கணிதக் கூடுதல் சுழி: F₁ × d₁ = F₂ × d₂."
       }
@@ -735,13 +735,13 @@
       "bloom": "understand",
       "page": 14,
       "quote": "9. While catching a cricket ball the fielder lowers his hands backwards. Why?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "By pulling his hands back while catching a cricket ball, a fielder increases the ____, which reduces the force on his hands.",
         "options": [
           "mass of the ball",
-          "speed of the ball",
           "time of contact",
+          "speed of the ball",
           "momentum of the ball"
         ],
         "explanation": "The same change of momentum takes place over a longer time, so the force F = Δp/t is smaller and the impulse experienced is less hurtful."
@@ -750,8 +750,8 @@
         "q": "கிரிக்கெட் பந்தைப் பிடிக்கும்போது கைகளைப் பின்னோக்கி இழுப்பதால் களத்தடுப்பாளர் எதை அதிகரித்து, கைகளில் ஏற்படும் விசையைக் குறைக்கிறார்?",
         "options": [
           "பந்தின் நிறை",
-          "பந்தின் வேகம்",
           "தொடுகை நேரம்",
+          "பந்தின் வேகம்",
           "பந்தின் உந்தம்"
         ],
         "explanation": "உந்த மாற்றம் அதிக நேரத்தில் நிகழ்வதால் F = Δp/t குறைகிறது; கைகளுக்குக் காயம் ஏற்படுத்தும் தாக்கம் குறைகிறது."
@@ -764,14 +764,14 @@
       "bloom": "remember",
       "page": 14,
       "quote": "1. Define inertia. Give its classification.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which of the following is the correct classification of inertia?",
         "options": [
           "Inertia of mass, inertia of weight and inertia of force",
-          "Inertia of rest, inertia of motion and inertia of direction",
+          "Inertia of momentum and inertia of impulse",
           "Inertia of heat, inertia of light and inertia of sound",
-          "Inertia of momentum and inertia of impulse"
+          "Inertia of rest, inertia of motion and inertia of direction"
         ],
         "explanation": "Inertia is the inherent property of a body to resist a change in its state of rest or uniform motion; it is of three types."
       },
@@ -779,9 +779,9 @@
         "q": "நிலைமத்தின் சரியான வகைப்பாடு எது?",
         "options": [
           "நிறை நிலைமம், எடை நிலைமம், விசை நிலைமம்",
-          "ஓய்வு நிலைமம், இயக்க நிலைமம், திசை நிலைமம்",
+          "உந்த நிலைமம், கணத்தாக்கு நிலைமம்",
           "வெப்ப நிலைமம், ஒளி நிலைமம், ஒலி நிலைமம்",
-          "உந்த நிலைமம், கணத்தாக்கு நிலைமம்"
+          "ஓய்வு நிலைமம், இயக்க நிலைமம், திசை நிலைமம்"
         ],
         "explanation": "ஓய்வு அல்லது சீரான இயக்க நிலையில் மாற்றத்தை எதிர்க்கும் பண்பு நிலைமம்; இது மூன்று வகைப்படும்."
       }
@@ -793,14 +793,14 @@
       "bloom": "remember",
       "page": 14,
       "quote": "2. Classify the types of force based on their application.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Based on the direction in which they act, forces acting parallel to each other are classified as",
         "options": [
           "contact and non-contact forces",
           "gravitational and magnetic forces",
-          "balanced forces and unbalanced forces only",
-          "like parallel forces and unlike parallel forces"
+          "like parallel forces and unlike parallel forces",
+          "balanced forces and unbalanced forces only"
         ],
         "explanation": "Like parallel forces act in the same direction; unlike parallel forces act in opposite directions."
       },
@@ -809,8 +809,8 @@
         "options": [
           "தொடு விசை, தொடாவிசை",
           "ஈர்ப்பு விசை, காந்த விசை",
-          "சமநிலை விசைகள், சமநிலையற்ற விசைகள் மட்டும்",
-          "ஒத்த இணைவிசைகள், மாறுபட்ட இணைவிசைகள்"
+          "ஒத்த இணைவிசைகள், மாறுபட்ட இணைவிசைகள்",
+          "சமநிலை விசைகள், சமநிலையற்ற விசைகள் மட்டும்"
         ],
         "explanation": "ஒரே திசையில் செயல்படுபவை ஒத்த இணைவிசைகள்; எதிர்த்திசைகளில் செயல்படுபவை மாறுபட்ட இணைவிசைகள்."
       }
@@ -880,13 +880,13 @@
       "bloom": "remember",
       "page": 14,
       "quote": "5. Define moment of a couple.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The moment of a couple is measured by",
         "options": [
-          "one of the forces × the perpendicular distance between the lines of action of the two forces",
-          "the product of the two forces",
           "the difference of the two forces",
+          "the product of the two forces",
+          "one of the forces × the perpendicular distance between the lines of action of the two forces",
           "the sum of the two forces"
         ],
         "explanation": "M = F × S; the SI unit is N m (dyne cm in CGS)."
@@ -894,9 +894,9 @@
       "ta": {
         "q": "இரட்டையின் திருப்புத்திறன் எதன் மூலம் அளவிடப்படுகிறது?",
         "options": [
-          "இரு விசைகளில் ஒன்றின் மதிப்பு × இரு விசைகளின் செயல்படு கோடுகளுக்கு இடையேயான செங்குத்துத் தொலைவு",
-          "இரு விசைகளின் பெருக்கற்பலன்",
           "இரு விசைகளின் வித்தியாசம்",
+          "இரு விசைகளின் பெருக்கற்பலன்",
+          "இரு விசைகளில் ஒன்றின் மதிப்பு × இரு விசைகளின் செயல்படு கோடுகளுக்கு இடையேயான செங்குத்துத் தொலைவு",
           "இரு விசைகளின் கூடுதல்"
         ],
         "explanation": "M = F × S; SI அலகு N m (CGS-இல் டைன் செ.மீ)."
@@ -909,24 +909,24 @@
       "bloom": "apply",
       "page": 14,
       "quote": "Two bodies have a mass ratio of 3:4 The force applied on the bigger mass produces an acceleration of 12 ms-2.What could be the acceleration of the other body, if the same force acts on it.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Two bodies have masses in the ratio 3 : 4. A force applied on the bigger mass produces an acceleration of 12 m s⁻². The acceleration produced by the same force on the other body is",
         "options": [
-          "16 m s⁻²",
+          "9 m s⁻²",
           "12 m s⁻²",
           "48 m s⁻²",
-          "9 m s⁻²"
+          "16 m s⁻²"
         ],
         "explanation": "F = 4m × 12 = 48m; for mass 3m, a = 48m/3m = 16 m s⁻²."
       },
       "ta": {
         "q": "நிறைகளின் விகிதம் 3 : 4 உள்ள இரு பொருட்களில், பெரிய நிறை மீது ஒரு விசை 12 மீ வி⁻² முடுக்கத்தை உண்டாக்குகிறது. அதே விசை மற்றொரு பொருளில் ஏற்படுத்தும் முடுக்கம்",
         "options": [
-          "16 மீ வி⁻²",
+          "9 மீ வி⁻²",
           "12 மீ வி⁻²",
           "48 மீ வி⁻²",
-          "9 மீ வி⁻²"
+          "16 மீ வி⁻²"
         ],
         "explanation": "F = 4m × 12 = 48m; 3m நிறைக்கு a = 48m/3m = 16 மீ வி⁻²."
       }
@@ -967,14 +967,14 @@
       "bloom": "apply",
       "page": 14,
       "quote": "A mechanic unscrew a nut by applying a force of 140 N with a spanner of length 40 cm. What should be the length of the spanner if a force of 40 N is applied to unscrew the same nut?",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "A mechanic unscrews a nut by applying a force of 140 N with a spanner of length 40 cm. The length of the spanner needed if only 40 N is applied to unscrew the same nut is",
         "options": [
           "0.4 m",
-          "1.4 m",
+          "0.56 m",
           "1.0 m",
-          "0.56 m"
+          "1.4 m"
         ],
         "explanation": "Torque = 140 × 0.4 = 56 N m; d = 56/40 = 1.4 m."
       },
@@ -982,9 +982,9 @@
         "q": "ஒரு பணியாளர் 40 செ.மீ நீளமுள்ள திருகுக்குறடு மூலம் 140 N விசை செலுத்தி ஒரு திருகாணியைத் திருகுகிறார். அதே திருகாணியை 40 N விசையில் திருக வேண்டிய திருகுக்குறடின் நீளம்",
         "options": [
           "0.4 மீ",
-          "1.4 மீ",
+          "0.56 மீ",
           "1.0 மீ",
-          "0.56 மீ"
+          "1.4 மீ"
         ],
         "explanation": "திருப்புத்திறன் = 140 × 0.4 = 56 N m; d = 56/40 = 1.4 மீ."
       }
@@ -996,12 +996,12 @@
       "bloom": "apply",
       "page": 14,
       "quote": "The ratio of masses of two planets is 2:3 and the ratio of their radii is 4:7 Find the ratio of their accelerations due to gravity.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The masses of two planets are in the ratio 2 : 3 and their radii are in the ratio 4 : 7. The ratio of their accelerations due to gravity is",
         "options": [
-          "49 : 24",
           "8 : 21",
+          "49 : 24",
           "4 : 7",
           "24 : 49"
         ],
@@ -1010,8 +1010,8 @@
       "ta": {
         "q": "இரு கோள்களின் நிறைகளின் விகிதம் 2 : 3; ஆரங்களின் விகிதம் 4 : 7. அவற்றின் ஈர்ப்பு முடுக்கங்களின் விகிதம்",
         "options": [
-          "49 : 24",
           "8 : 21",
+          "49 : 24",
           "4 : 7",
           "24 : 49"
         ],
@@ -1025,14 +1025,14 @@
       "bloom": "apply",
       "page": 15,
       "quote": "Two blocks of masses 8 kg and 2 kg respectively lie on a smooth horizontal surface in contact with one other. They are pushed by a horizontally applied force of 15 N. Calculate the force exerted on the 2 kg mass.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Blocks of 8 kg and 2 kg lie in contact on a smooth horizontal surface and are pushed by a horizontal force of 15 N applied on the 8 kg block. The force exerted on the 2 kg block is",
         "options": [
           "1.5 N",
-          "12 N",
+          "3 N",
           "15 N",
-          "3 N"
+          "12 N"
         ],
         "explanation": "a = 15/(8 + 2) = 1.5 m s⁻²; force on the 2 kg block = 2 × 1.5 = 3 N."
       },
@@ -1040,9 +1040,9 @@
         "q": "8 கிகி மற்றும் 2 கிகி நிறையுள்ள இரு தொகுதிகள் ஒன்றையொன்று தொட்டுக்கொண்டு வழவழப்பான கிடைமட்டத் தளத்தில் உள்ளன. 8 கிகி தொகுதி மீது 15 N கிடைமட்ட விசை செயல்படுத்தப்படுகிறது. 2 கிகி தொகுதி மீது செயல்படும் விசை",
         "options": [
           "1.5 N",
-          "12 N",
+          "3 N",
           "15 N",
-          "3 N"
+          "12 N"
         ],
         "explanation": "a = 15/(8 + 2) = 1.5 மீ வி⁻²; 2 கிகி தொகுதி மீதான விசை = 2 × 1.5 = 3 N."
       }
@@ -1054,14 +1054,14 @@
       "bloom": "apply",
       "page": 15,
       "quote": "A heavy truck and bike are moving with the same kinetic energy. If the mass of the truck is four times that of the bike, then calculate the ratio of their momenta. (Ratio of momenta = 2:1",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A truck and a bike move with the same kinetic energy. If the mass of the truck is four times that of the bike, the ratio of their momenta (truck : bike) is",
         "options": [
           "16 : 1",
-          "4 : 1",
+          "2 : 1",
           "1 : 2",
-          "2 : 1"
+          "4 : 1"
         ],
         "explanation": "p = √(2mK); for the same K, p ∝ √m, so the ratio is √4 : 1 = 2 : 1."
       },
@@ -1069,9 +1069,9 @@
         "q": "ஒரு கனரக லாரியும் ஒரு பைக்கும் ஒரே இயக்க ஆற்றலுடன் செல்கின்றன. லாரியின் நிறை பைக்கின் நிறையைப் போல் நான்கு மடங்கு எனில், அவற்றின் உந்தங்களின் விகிதம் (லாரி : பைக்)",
         "options": [
           "16 : 1",
-          "4 : 1",
+          "2 : 1",
           "1 : 2",
-          "2 : 1"
+          "4 : 1"
         ],
         "explanation": "p = √(2mK); K சமம் எனில் p ∝ √m; விகிதம் √4 : 1 = 2 : 1."
       }
@@ -1083,24 +1083,24 @@
       "bloom": "understand",
       "page": 15,
       "quote": "\"Wearing helmet and fastening the seat belt is highly recommended for safe journey\" Justify your answer using Newton's laws of motion.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Wearing a seat belt in a car is recommended for safety because, when the car stops suddenly, it",
         "options": [
-          "opposes the forward motion of the body caused by inertia of motion",
+          "increases the speed of the car",
           "increases the inertia of the body",
           "decreases the mass of the passenger",
-          "increases the speed of the car"
+          "opposes the forward motion of the body caused by inertia of motion"
         ],
         "explanation": "On sudden braking the body tends to continue moving forward (Newton's first law); a seat belt or helmet provides the opposing force."
       },
       "ta": {
         "q": "மகிழுந்து திடீரெனத் தடை செய்யப்படும்போது, இருக்கைப் பட்டை அணிவது பாதுகாப்பானது; ஏனெனில் அது",
         "options": [
-          "இயக்க நிலைமத்தால் உடல் முன்னோக்கிச் செல்வதை எதிர்க்கிறது",
+          "மகிழுந்தின் வேகத்தை அதிகரிக்கிறது",
           "உடலின் நிலைமத்தை அதிகரிக்கிறது",
           "பயணியின் நிறையைக் குறைக்கிறது",
-          "மகிழுந்தின் வேகத்தை அதிகரிக்கிறது"
+          "இயக்க நிலைமத்தால் உடல் முன்னோக்கிச் செல்வதை எதிர்க்கிறது"
         ],
         "explanation": "திடீர்த் தடையில் உடல் நியூட்டனின் முதல் விதிப்படி முன்னோக்கிச் செல்ல முயலும்; தலைக்கவசமும் இருக்கைப் பட்டையும் அதற்கு எதிர்ப்பு விசையை அளிக்கின்றன."
       }

@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 138,
       "quote": "In 1800, there were only 31 known elements. By 1865, their number became 63. Now 118 elements have been discovered.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "By 1865 the number of known elements had become",
         "options": [
-          "31",
-          "118",
           "63",
+          "118",
+          "31",
           "92"
         ],
         "explanation": "In 1800 only 31 elements were known; now 118 elements have been discovered."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "1865-ல் அறியப்பட்ட தனிமங்களின் எண்ணிக்கை",
         "options": [
-          "31",
-          "118",
           "63",
+          "118",
+          "31",
           "92"
         ],
         "explanation": "1800-ல் 31 தனிமங்களே அறியப்பட்டன; இன்று 118 தனிமங்கள் கண்டறியப்பட்டுள்ளன."
@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 138,
       "quote": "In 1817, Johann Wolfgang Dobereiner, a German chemist, suggested a method of grouping elements based on their relative atomic masses. He arranged the elements into groups containing three elements each called 'triads'.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The German chemist who grouped elements into 'triads' in 1817 was",
         "options": [
           "John Newlands",
-          "Johann Wolfgang Dobereiner",
+          "Henry Moseley",
           "Dmitri Mendeleev",
-          "Henry Moseley"
+          "Johann Wolfgang Dobereiner"
         ],
         "explanation": "Dobereiner's law of triads: the atomic mass of the middle element is nearly the average of the other two."
       },
@@ -54,9 +54,9 @@
         "q": "1817-ல் தனிமங்களை 'மும்மைகளாக' (triads) வகைப்படுத்திய ஜெர்மானிய வேதியியலாளர்",
         "options": [
           "ஜான் நியூலாந்து",
-          "ஜோஹன் வொல்ஃப்காங் டாபர்னீர்",
+          "ஹென்றி மோஸ்லி",
           "டிமிட்ரி மெண்டலீஃப்",
-          "ஹென்றி மோஸ்லி"
+          "ஜோஹன் வொல்ஃப்காங் டாபர்னீர்"
         ],
         "explanation": "மும்மை விதி: நடுத் தனிமத்தின் அணு நிறை மற்ற இரண்டின் சராசரிக்குச் சமம்."
       }
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 139,
       "quote": "Limitations of Dobereiner's triads: He could identify only three triads from the elements known at that time. The law was not applicable to elements having very low and very high atomic mass.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A limitation of Dobereiner's law of triads was that",
         "options": [
           "it classified all the elements",
-          "it used atomic numbers",
+          "only three triads could be identified from the elements known then",
           "it was applicable to all atomic masses",
-          "only three triads could be identified from the elements known then"
+          "it used atomic numbers"
         ],
         "explanation": "The law was not applicable to elements having very low and very high atomic mass."
       },
@@ -83,9 +83,9 @@
         "q": "டாபர்னீரின் மும்மை விதியின் குறைபாடு",
         "options": [
           "எல்லாத் தனிமங்களையும் வகைப்படுத்தியது",
-          "அணு எண்ணைப் பயன்படுத்தியது",
+          "அன்று அறியப்பட்ட தனிமங்களில் மூன்று மும்மைகளை மட்டுமே கண்டறிய முடிந்தது",
           "எல்லா அணு நிறைகளுக்கும் பொருந்தியது",
-          "அன்று அறியப்பட்ட தனிமங்களில் மூன்று மும்மைகளை மட்டுமே கண்டறிய முடிந்தது"
+          "அணு எண்ணைப் பயன்படுத்தியது"
         ],
         "explanation": "மிகக் குறைந்த, மிக அதிக அணு நிறையுடைய தனிமங்களுக்கு விதி பொருந்தவில்லை."
       }
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 139,
       "quote": "The octave of Indian music system is sa, re, ga, ma, pa, da, ni, sa. In the Newlands' table of octaves, the element 'F' is eighth from the element 'H', thus they have similar properties.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "In Newlands' table of octaves, the element eighth from hydrogen (H), having similar properties, is",
         "options": [
           "Li",
           "Be",
-          "F",
-          "O"
+          "O",
+          "F"
         ],
         "explanation": "H and F are similar, like the first and last notes of the octave 'sa'."
       },
@@ -142,8 +142,8 @@
         "options": [
           "Li",
           "Be",
-          "F",
-          "O"
+          "O",
+          "F"
         ],
         "explanation": "H-ம் F-ம் ஒத்தவை; இசையின் முதல், கடைசி ஸ்வரமான 'ச' போல."
       }
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 139,
       "quote": "Features of Mendeleev's Periodic Table: It has eight vertical columns called 'groups' and seven horizontal rows called 'period'. Each group has two subgroups 'A' and 'B'.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Mendeleev's periodic table had",
         "options": [
           "eighteen groups and seven periods",
-          "seven groups and eight periods",
           "eight groups and seven periods",
+          "seven groups and eight periods",
           "eight groups and eighteen periods"
         ],
         "explanation": "Each group had two subgroups A and B."
@@ -228,8 +228,8 @@
         "q": "மெண்டலீஃப் அட்டவணையில் இருந்தவை",
         "options": [
           "பதினெட்டுத் தொகுதிகள், ஏழு தொடர்கள்",
-          "ஏழு தொகுதிகள், எட்டுத் தொடர்கள்",
           "எட்டுத் தொகுதிகள், ஏழு தொடர்கள்",
+          "ஏழு தொகுதிகள், எட்டுத் தொடர்கள்",
           "எட்டுத் தொகுதிகள், பதினெட்டுத் தொடர்கள்"
         ],
         "explanation": "ஒவ்வொரு தொகுதிக்கும் A, B என இரு துணைத் தொகுதிகள் இருந்தன."
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 140,
       "quote": "Mendeleev reassessed the atomic mass of beryllium, known to be 14, as 9 and assigned beryllium a proper place. Columns were left vacant for elements which were not known at that time and their properties were predicted. Mendeleev gave names Eka Aluminium and Eka Silicon. The discovery of Germanium later on proved him correct.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The element discovered later, which proved Mendeleev correct about 'Eka Silicon', is",
         "options": [
-          "germanium",
-          "gallium",
           "scandium",
+          "gallium",
+          "germanium",
           "boron"
         ],
         "explanation": "He left vacant places for unknown elements and predicted their properties."
@@ -256,9 +256,9 @@
       "ta": {
         "q": "மெண்டலீஃப் கணித்த 'ஏகா சிலிகான்' என்ற தனிமம் பின்னர் கண்டறியப்பட்டு அவரது கூற்றை மெய்ப்பித்தது; அத்தனிமம்",
         "options": [
-          "ஜெர்மானியம்",
-          "காலியம்",
           "ஸ்காண்டியம்",
+          "காலியம்",
+          "ஜெர்மானியம்",
           "போரான்"
         ],
         "explanation": "அறியப்படாத தனிமங்களுக்கு இடைவெளி விட்டு அவற்றின் பண்புகளைக் கணித்தார்."
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 141,
       "quote": "In 1913, the English Physicist Henry Moseley, through his X-ray diffraction experiments, proved that the properties of elements depend on the atomic number and not on the atomic mass. Consequently, the modern periodic table was prepared. This is known as the long form of periodic table.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The English physicist who proved through X-ray experiments that properties of elements depend on atomic number is",
         "options": [
           "Dmitri Mendeleev",
-          "John Newlands",
+          "Henry Moseley",
           "Niels Bohr",
-          "Henry Moseley"
+          "John Newlands"
         ],
         "explanation": "On this basis the modern (long form) periodic table was prepared in 1913."
       },
@@ -286,9 +286,9 @@
         "q": "தனிமங்களின் பண்புகள் அணு எண்ணைச் சார்ந்தவை என X-கதிர் சோதனைகளால் நிறுவிய ஆங்கில இயற்பியலாளர்",
         "options": [
           "டிமிட்ரி மெண்டலீஃப்",
-          "ஜான் நியூலாந்து",
+          "ஹென்றி மோஸ்லி",
           "நீல்ஸ் போர்",
-          "ஹென்றி மோஸ்லி"
+          "ஜான் நியூலாந்து"
         ],
         "explanation": "1913-ல் இதன் அடிப்படையில் நவீன (நீள் வடிவ) தனிம வரிசை அட்டவணை உருவாக்கப்பட்டது."
       }
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 141,
       "quote": "Table 12.5: Group 1 Alkali metals; Group 2 Alkaline earth metals; Group 3 to 12 Transition metals; Group 13 Boron family; Group 14 Carbon family; Group 15 Nitrogen family; Group 16 Oxygen family (Chalcogen); Group 17 Halogens; Group 18 Noble gases.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Group 16 of the modern periodic table is called the",
         "options": [
           "nitrogen family",
-          "oxygen family (chalcogens)",
+          "halogens",
           "carbon family",
-          "halogens"
+          "oxygen family (chalcogens)"
         ],
         "explanation": "Group 1 - alkali metals; 2 - alkaline earth metals; 3 to 12 - transition metals."
       },
@@ -315,9 +315,9 @@
         "q": "நவீன தனிம வரிசை அட்டவணையில் தொகுதி 16 இவ்வாறு அழைக்கப்படுகிறது",
         "options": [
           "நைட்ரஜன் குடும்பம்",
-          "ஆக்ஸிஜன் குடும்பம் (சால்கோஜன்கள்)",
+          "ஹாலஜன்கள்",
           "கார்பன் குடும்பம்",
-          "ஹாலஜன்கள்"
+          "ஆக்ஸிஜன் குடும்பம் (சால்கோஜன்கள்)"
         ],
         "explanation": "தொகுதி 1 - கார உலோகங்கள்; 2 - காரமண் உலோகங்கள்; 3 முதல் 12 - இடைநிலை உலோகங்கள்."
       }
@@ -387,24 +387,24 @@
       "bloom": "remember",
       "page": 143,
       "quote": "(2) p-Block Elements: These elements are in group 13 to 18. The p-block is home to the biggest variety of elements and is the only block that contains all three types of elements: metals, nonmetals, and metalloids.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The only block of the periodic table that contains metals, non-metals and metalloids all three is the",
         "options": [
-          "p-block",
+          "f-block",
           "s-block",
           "d-block",
-          "f-block"
+          "p-block"
         ],
         "explanation": "p-block elements are in groups 13 to 18 (including noble gases except helium)."
       },
       "ta": {
         "q": "உலோகம், அலோகம், உலோகப்போலி ஆகிய மூன்றையும் கொண்ட ஒரே தொகுதிப் பிரிவு",
         "options": [
-          "p-தொகுதி",
+          "f-தொகுதி",
           "s-தொகுதி",
           "d-தொகுதி",
-          "f-தொகுதி"
+          "p-தொகுதி"
         ],
         "explanation": "p-தொகுதித் தனிமங்கள் தொகுதிகள் 13 முதல் 18 வரை உள்ளன."
       }
@@ -416,12 +416,12 @@
       "bloom": "remember",
       "page": 143,
       "quote": "(3) d-Block Elements: It includes group 3 to group 12 elements. They are found in the centre of the periodic table. Their properties are intermediate to that of s block and p block elements and so they are called transition elements.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The d-block elements (groups 3 to 12) are called transition elements because their properties are",
         "options": [
-          "same as noble gases",
           "intermediate between those of s-block and p-block elements",
+          "same as noble gases",
           "same as alkali metals",
           "unrelated to other blocks"
         ],
@@ -430,8 +430,8 @@
       "ta": {
         "q": "d-தொகுதித் தனிமங்கள் (தொகுதிகள் 3 முதல் 12) இடைநிலைத் தனிமங்கள் எனப்படக் காரணம், அவற்றின் பண்புகள்",
         "options": [
-          "அரிய வாயுக்களைப் போன்றவை",
           "s-தொகுதி, p-தொகுதிகளுக்கு இடைப்பட்டவை",
+          "அரிய வாயுக்களைப் போன்றவை",
           "கார உலோகங்களைப் போன்றவை",
           "பிற தொகுதிகளுடன் தொடர்பற்றவை"
         ],
@@ -445,14 +445,14 @@
       "bloom": "remember",
       "page": 143,
       "quote": "(4) f - Block Elements: It includes 14 elements after (Lanthanum) La (57), called Lanthanoides and 14 elements after (Actinium) Ac (89), called Actinoides. They are placed at the bottom of the periodic table. They are also called as inner Transition elements.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The f-block elements, placed at the bottom of the periodic table, are also called",
         "options": [
           "alkali metals",
-          "noble gases",
+          "inner transition elements",
           "representative elements",
-          "inner transition elements"
+          "noble gases"
         ],
         "explanation": "They include 14 lanthanoids after La (57) and 14 actinoids after Ac (89)."
       },
@@ -460,9 +460,9 @@
         "q": "அட்டவணையின் அடியில் வைக்கப்பட்டுள்ள f-தொகுதித் தனிமங்கள் இவ்வாறும் அழைக்கப்படுகின்றன",
         "options": [
           "கார உலோகங்கள்",
-          "அரிய வாயுக்கள்",
+          "உள் இடைநிலைத் தனிமங்கள்",
           "பிரதிநிதித்துவத் தனிமங்கள்",
-          "உள் இடைநிலைத் தனிமங்கள்"
+          "அரிய வாயுக்கள்"
         ],
         "explanation": "La (57)-க்குப் பின் 14 லாந்தனாய்டுகளும் Ac (89)-க்குப் பின் 14 ஆக்டினாய்டுகளும் இதில் அடங்கும்."
       }
@@ -474,13 +474,13 @@
       "bloom": "remember",
       "page": 143,
       "quote": "Advantages of the modern periodic table: based on a more fundamental property i.e., atomic number; one position for all isotopes; the table completely separates metals from nonmetals; the nonmetals are present in upper right corners of the periodic table; justification for placing lanthanides and actinides at the bottom.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "In the modern periodic table, all the isotopes of an element are placed",
         "options": [
           "in different positions",
-          "in the last group",
           "in one position since they have the same atomic number",
+          "in the last group",
           "outside the table"
         ],
         "explanation": "Isotopes have the same atomic number; the nonmetals lie in the upper right corner."
@@ -489,8 +489,8 @@
         "q": "நவீன அட்டவணையில் ஒரு தனிமத்தின் எல்லா ஐசோடோப்புகளும் இடம்பெறுவது",
         "options": [
           "வெவ்வேறு இடங்களில்",
-          "கடைசித் தொகுதியில்",
           "ஒரே அணு எண் என்பதால் ஒரே இடத்தில்",
+          "கடைசித் தொகுதியில்",
           "அட்டவணைக்கு வெளியே"
         ],
         "explanation": "ஐசோடோப்புகளுக்கு அணு எண் ஒன்றே; அலோகங்கள் மேல் வலது மூலையில் உள்ளன."
@@ -532,13 +532,13 @@
       "bloom": "remember",
       "page": 144,
       "quote": "Table 12.6: Maximum number of electrons in each subshell: s - 2, p - 6, d - 10, f - 14. Maximum number of electrons in each shell: K - 2, L - 8, M - 18, N - 32.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The maximum number of electrons that can be accommodated in the d subshell is",
         "options": [
-          "10",
-          "2",
           "6",
+          "2",
+          "10",
           "14"
         ],
         "explanation": "s: 2, p: 6, d: 10, f: 14."
@@ -546,9 +546,9 @@
       "ta": {
         "q": "d துணைக்கூட்டில் இருக்கக்கூடிய அதிகபட்ச எலக்ட்ரான்கள்",
         "options": [
-          "10",
-          "2",
           "6",
+          "2",
+          "10",
           "14"
         ],
         "explanation": "s: 2, p: 6, d: 10, f: 14."
@@ -590,14 +590,14 @@
       "bloom": "remember",
       "page": 144,
       "quote": "Non-metals: All non metals are arranged in p-block only. E.g. C, N, O, P, S, Se, Halogens (F, Cl, Br and I) and inert gases (He to Rn). Metalloids: Elements which have the properties of both metals and non-metals are called as metalloids (eg. Boron, Arsenic).",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Elements having the properties of both metals and non-metals are called",
         "options": [
           "alloys",
-          "metalloids",
+          "transition metals",
           "halogens",
-          "transition metals"
+          "metalloids"
         ],
         "explanation": "Examples: boron and arsenic."
       },
@@ -605,9 +605,9 @@
         "q": "உலோகம், அலோகம் இரண்டின் பண்புகளையும் பெற்றுள்ள தனிமங்கள்",
         "options": [
           "உலோகக் கலவைகள்",
-          "உலோகப்போலிகள்",
+          "இடைநிலை உலோகங்கள்",
           "ஹாலஜன்கள்",
-          "இடைநிலை உலோகங்கள்"
+          "உலோகப்போலிகள்"
         ],
         "explanation": "எ.கா: போரான், ஆர்சனிக்."
       }
@@ -619,14 +619,14 @@
       "bloom": "remember",
       "page": 144,
       "quote": "12.4 Alloys: During 3500 BC (BCE), people used an alloy named 'bronze'. Alloys are mixtures of two or more metals and are formed by mixing molten metals thoroughly. Rarely nonmetals are also mixed with metals to produce alloys.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The alloy used by people as early as 3500 BCE was",
         "options": [
           "brass",
           "solder",
-          "bronze",
-          "steel"
+          "steel",
+          "bronze"
         ],
         "explanation": "Alloys are mixtures of two or more metals formed by mixing molten metals thoroughly."
       },
@@ -635,8 +635,8 @@
         "options": [
           "பித்தளை",
           "பற்றாசு",
-          "வெண்கலம்",
-          "எஃகு"
+          "எஃகு",
+          "வெண்கலம்"
         ],
         "explanation": "உலோகக் கலவைகள் உருகிய உலோகங்களை நன்கு கலந்து உருவாக்கப்படும் உலோகக் கலவைகள்."
       }
@@ -648,14 +648,14 @@
       "bloom": "remember",
       "page": 145,
       "quote": "Advantages of alloys: do not get corroded or get corroded to very less extent; harder and stronger than pure metals (gold mixed with copper); have less conductance than pure metals (brass and bronze are not good conductors); some alloys have lower melting point (solder is an alloy of lead and tin).",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Solder, used for joining metals, is an alloy of",
         "options": [
           "copper and zinc",
-          "copper and tin",
+          "lead and tin",
           "iron and carbon",
-          "lead and tin"
+          "copper and tin"
         ],
         "explanation": "Solder has a lower melting point than each of its metals."
       },
@@ -663,9 +663,9 @@
         "q": "உலோகங்களை இணைக்கப் பயன்படும் பற்றாசு என்ற உலோகக் கலவை",
         "options": [
           "செம்பு, துத்தநாகம்",
-          "செம்பு, வெள்ளீயம்",
+          "ஈயம், வெள்ளீயம்",
           "இரும்பு, கார்பன்",
-          "ஈயம், வெள்ளீயம்"
+          "செம்பு, வெள்ளீயம்"
         ],
         "explanation": "பற்றாசின் உருகுநிலை அதிலுள்ள உலோகங்களின் உருகுநிலையை விடக் குறைவு."
       }

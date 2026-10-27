@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 55,
       "quote": "1. Which of the following is correct? a) Rate of change of charge is electrical power. b) Rate of change of charge is current. c) Rate of change of energy is current. d) Rate of change of current is charge.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which of the following statements is correct?",
         "options": [
           "The rate of change of energy is current",
-          "The rate of flow of charge is current",
+          "The rate of flow of charge is electrical power",
           "The rate of change of current is charge",
-          "The rate of flow of charge is electrical power"
+          "The rate of flow of charge is current"
         ],
         "explanation": "Current I = Q/t, the rate of flow of charge; the rate of change of energy is power."
       },
@@ -25,9 +25,9 @@
         "q": "பின்வருவனவற்றுள் சரியானது எது?",
         "options": [
           "மின்னாற்றல் மாறும் வீதம் மின்னோட்டம்",
-          "மின்னூட்டம் பாயும் வீதம் மின்னோட்டம்",
+          "மின்னூட்டம் பாயும் வீதம் மின் திறன்",
           "மின்னோட்ட மாற்றவீதம் மின்னூட்டம்",
-          "மின்னூட்டம் பாயும் வீதம் மின் திறன்"
+          "மின்னூட்டம் பாயும் வீதம் மின்னோட்டம்"
         ],
         "explanation": "I = Q/t; மின்னாற்றல் மாறும் வீதம் மின்திறன் ஆகும்."
       }
@@ -39,13 +39,13 @@
       "bloom": "understand",
       "page": 55,
       "quote": "3. In a simple circuit, why does the bulb glow when you close the switch? a) The switch produces electricity. b) Closing the switch completes the circuit. c) Closing the switch breaks the circuit. d) The bulb is getting charged.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "In a simple circuit the bulb glows when the switch is closed because",
         "options": [
-          "closing the switch completes the circuit",
-          "closing the switch breaks the circuit",
           "the bulb gets charged",
+          "closing the switch breaks the circuit",
+          "closing the switch completes the circuit",
           "the switch produces electricity"
         ],
         "explanation": "A closed, continuous path lets the current flow."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "ஒரு எளிய மின்சுற்றில் சாவியை மூடியவுடன் மின்விளக்கு ஒளிர்வதற்குக் காரணம்",
         "options": [
-          "சாவி மூடியிருக்கும்போது சுற்றுப்பாதை நிறைவடைவது",
-          "சாவி மூடும்போது சுற்றுப்பாதை திறப்பது",
           "மின்விளக்கு மின்னேற்றம் அடைவது",
+          "சாவி மூடும்போது சுற்றுப்பாதை திறப்பது",
+          "சாவி மூடியிருக்கும்போது சுற்றுப்பாதை நிறைவடைவது",
           "சாவி மின்சாரத்தைத் தயாரிப்பது"
         ],
         "explanation": "மூடிய தொடர் பாதையில் மட்டுமே மின்னோட்டம் பாயும்."
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 56,
       "quote": "1. When a circuit is open, _____________ cannot pass through it.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "When a circuit is open, ____ cannot pass through it.",
         "options": [
           "voltage rating",
-          "power rating",
+          "electric current",
           "resistance",
-          "electric current"
+          "power rating"
         ],
         "explanation": "An open circuit has a break in the path, so the current cannot flow."
       },
@@ -83,9 +83,9 @@
         "q": "ஒரு மின்சுற்று திறந்திருக்கும்போது அச்சுற்றின் வழியாக ____ பாய்ந்து செல்லாது.",
         "options": [
           "மின்னழுத்த மதிப்பீடு",
-          "மின்திறன் மதிப்பீடு",
+          "மின்னோட்டம்",
           "மின்தடை",
-          "மின்னோட்டம்"
+          "மின்திறன் மதிப்பீடு"
         ],
         "explanation": "திறந்த சுற்றில் பாதையில் இடைவெளி இருப்பதால் மின்னோட்டம் பாயாது."
       }
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 56,
       "quote": "3. The wiring in a house consists of _________ circuits.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The household electrical wiring consists of ____ circuits.",
         "options": [
-          "parallel",
-          "series",
           "open",
+          "series",
+          "parallel",
           "series-only"
         ],
         "explanation": "Appliances in parallel get the same voltage and can be switched on or off independently."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "வீடுகளில் ____ மின்சுற்று பயன்படுத்தப்படுகிறது.",
         "options": [
-          "பக்க இணைப்பு (பக்கிணைப்பு)",
-          "தொடர் இணைப்பு",
           "திறந்த",
+          "தொடர் இணைப்பு",
+          "பக்க இணைப்பு (பக்கிணைப்பு)",
           "தொடர் இணைப்பு மட்டும்"
         ],
         "explanation": "பக்க இணைப்பில் எல்லாச் சாதனங்களுக்கும் சமமான மின்னழுத்தம் கிடைக்கும்; ஒவ்வொன்றையும் தனித்து இயக்கலாம்."
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 56,
       "quote": "4. The power of an electric device is a product of _________ and __________.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The electric power of a device is the product of",
         "options": [
           "current and resistance",
-          "potential difference and current",
           "charge and time",
+          "potential difference and current",
           "resistance and time"
         ],
         "explanation": "P = VI."
@@ -170,8 +170,8 @@
         "q": "ஒரு மின்சாதனத்தின் மின்திறன் எவற்றின் பெருக்கற்பலன்?",
         "options": [
           "மின்னோட்டம், மின்தடை",
-          "மின்னழுத்த வேறுபாடு, மின்னோட்டம்",
           "மின்னூட்டம், காலம்",
+          "மின்னழுத்த வேறுபாடு, மின்னோட்டம்",
           "மின்தடை, காலம்"
         ],
         "explanation": "P = VI."
@@ -184,13 +184,13 @@
       "bloom": "remember",
       "page": 56,
       "quote": "5. LED stands for ___________________.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "LED stands for",
         "options": [
           "Low Energy Diode",
-          "Light Emitting Device",
           "Light Emitting Diode",
+          "Light Emitting Device",
           "Liquid Emitting Display"
         ],
         "explanation": "An LED television is actually an LCD television that uses light emitting diodes for backlighting."
@@ -199,8 +199,8 @@
         "q": "LED என்பதன் விரிவாக்கம்",
         "options": [
           "குறை ஆற்றல் டையோடு",
-          "ஒளி உமிழ் சாதனம்",
           "ஒளி உமிழ் டையோடு",
+          "ஒளி உமிழ் சாதனம்",
           "திரவ உமிழ் காட்சி"
         ],
         "explanation": "LED தொலைக்காட்சி என்பது உண்மையில் ஒளி உமிழ் டையோடுகளைப் பின்னொளிக்குப் பயன்படுத்தும் LCD தொலைக்காட்சி."
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 56,
       "quote": "1. Ohm's law states the relationship between power and voltage.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Ohm's law states the relationship between",
         "options": [
           "power and voltage",
-          "resistance and power",
           "potential difference and current",
+          "resistance and power",
           "energy and time"
         ],
         "explanation": "Ohm's law relates potential difference and current (V = IR) at constant temperature."
@@ -228,8 +228,8 @@
         "q": "ஓம் விதி எவற்றிற்கிடையேயான தொடர்பை விளக்குகிறது?",
         "options": [
           "மின்திறன் – மின்னழுத்தம்",
-          "மின்தடை – மின்திறன்",
           "மின்னழுத்த வேறுபாடு – மின்னோட்டம்",
+          "மின்தடை – மின்திறன்",
           "ஆற்றல் – காலம்"
         ],
         "explanation": "ஓம் விதி மின்னழுத்த வேறுபாட்டிற்கும் மின்னோட்டத்திற்கும் (V = IR) உள்ள தொடர்பைக் கூறுகிறது."
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 56,
       "quote": "2. MCB is used to protect house hold electrical appliances.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The function of an MCB (or a fuse wire) in a household circuit is to",
         "options": [
           "store electric charge",
           "increase the voltage",
-          "reduce the power consumption of the lamps",
-          "protect appliances from excess current due to overloading or short circuit"
+          "protect appliances from excess current due to overloading or short circuit",
+          "reduce the power consumption of the lamps"
         ],
         "explanation": "A fuse wire melts, or an MCB trips, when the current exceeds a safe value, protecting appliances from overloading and short circuits."
       },
@@ -258,8 +258,8 @@
         "options": [
           "மின்னூட்டத்தைச் சேமித்தல்",
           "மின்னழுத்தத்தை உயர்த்துதல்",
-          "விளக்குகளின் மின்திறன் நுகர்வைக் குறைத்தல்",
-          "அதிகச் சுமை அல்லது குறுக்குத்தடச் சுற்றினால் ஏற்படும் அதிக மின்னோட்டத்திலிருந்து சாதனங்களைப் பாதுகாத்தல்"
+          "அதிகச் சுமை அல்லது குறுக்குத்தடச் சுற்றினால் ஏற்படும் அதிக மின்னோட்டத்திலிருந்து சாதனங்களைப் பாதுகாத்தல்",
+          "விளக்குகளின் மின்திறன் நுகர்வைக் குறைத்தல்"
         ],
         "explanation": "மின்னோட்டம் பாதுகாப்பான அளவை மீறும்போது உருகு இழை உருகும்; MCB சுற்றைத் துண்டிக்கும். இதனால் அதிகச் சுமை, குறுக்குத்தடச் சுற்றிலிருந்து சாதனங்கள் பாதுகாக்கப்படுகின்றன."
       }
@@ -271,24 +271,24 @@
       "bloom": "remember",
       "page": 56,
       "quote": "3. The SI unit for electric current is the coulomb.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which pair of quantity and SI unit is correct?",
         "options": [
-          "Electric charge – ampere",
+          "Electric current – ampere",
           "Potential difference – ohm",
           "Electric current – coulomb",
-          "Electric current – ampere"
+          "Electric charge – ampere"
         ],
         "explanation": "The SI unit of current is the ampere; the coulomb is the unit of charge."
       },
       "ta": {
         "q": "அளவும் அதன் SI அலகும் சரியாக இணைக்கப்பட்டது எது?",
         "options": [
-          "மின்னூட்டம் – ஆம்பியர்",
+          "மின்னோட்டம் – ஆம்பியர்",
           "மின்னழுத்த வேறுபாடு – ஓம்",
           "மின்னோட்டம் – கூலூம்",
-          "மின்னோட்டம் – ஆம்பியர்"
+          "மின்னூட்டம் – ஆம்பியர்"
         ],
         "explanation": "மின்னோட்டத்தின் SI அலகு ஆம்பியர்; கூலூம் என்பது மின்னூட்டத்தின் அலகு."
       }
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 56,
       "quote": "Match: (i) electric current (e) ampere (ii) potential difference (a) volt (iii) specific resistance (b) ohm meter (iv) electrical power (c) watt (v) electrical energy (d) joule",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Match the quantity in List I with its SI unit in List II:\n(a) Electric current\n(b) Specific resistance (resistivity)\n(c) Electrical power\n(d) Electrical energy\n— \n(1) Joule\n(2) Ampere\n(3) Ohm metre\n(4) Watt",
         "options": [
           "a-3, b-4, c-2, d-1",
           "a-3, b-4, c-1, d-2",
-          "a-2, b-3, c-4, d-1",
-          "a-1, b-3, c-2, d-4"
+          "a-1, b-3, c-2, d-4",
+          "a-2, b-3, c-4, d-1"
         ],
         "explanation": "Current – ampere; resistivity – ohm metre; power – watt; energy – joule."
       },
@@ -374,8 +374,8 @@
         "options": [
           "a-3, b-4, c-2, d-1",
           "a-3, b-4, c-1, d-2",
-          "a-2, b-3, c-4, d-1",
-          "a-1, b-3, c-2, d-4"
+          "a-1, b-3, c-2, d-4",
+          "a-2, b-3, c-4, d-1"
         ],
         "explanation": "மின்னோட்டம் – ஆம்பியர்; மின்தடை எண் – ஓம் மீட்டர்; மின்திறன் – வாட்; மின்னாற்றல் – ஜூல்."
       }
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 56,
       "quote": "Match: (i) electric current (e) ampere (ii) potential difference (a) volt (iii) specific resistance (b) ohm meter (iv) electrical power (c) watt (v) electrical energy (d) joule",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Match the quantity in List I with its SI unit in List II:\n(a) Potential difference\n(b) Electric current\n(c) Electrical energy\n(d) Electrical power\n— \n(1) Joule\n(2) Volt\n(3) Watt\n(4) Ampere",
         "options": [
           "a-1, b-3, c-2, d-4",
           "a-2, b-4, c-3, d-1",
-          "a-2, b-1, c-4, d-3",
-          "a-2, b-4, c-1, d-3"
+          "a-2, b-4, c-1, d-3",
+          "a-2, b-1, c-4, d-3"
         ],
         "explanation": "Potential difference – volt; current – ampere; energy – joule; power – watt."
       },
@@ -403,8 +403,8 @@
         "options": [
           "a-1, b-3, c-2, d-4",
           "a-2, b-4, c-3, d-1",
-          "a-2, b-1, c-4, d-3",
-          "a-2, b-4, c-1, d-3"
+          "a-2, b-4, c-1, d-3",
+          "a-2, b-1, c-4, d-3"
         ],
         "explanation": "மின்னழுத்த வேறுபாடு – வோல்ட்; மின்னோட்டம் – ஆம்பியர்; மின்னாற்றல் – ஜூல்; மின்திறன் – வாட்."
       }
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 56,
       "quote": "1. Define the unit of current.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "One ampere is the current flowing when a charge of",
         "options": [
           "one coulomb flows in one hour",
-          "one coulomb flows through a conductor in one second",
+          "one joule flows in one second",
           "one volt acts across one ohm for one hour",
-          "one joule flows in one second"
+          "one coulomb flows through a conductor in one second"
         ],
         "explanation": "I = Q/t, so 1 A = 1 C s⁻¹."
       },
@@ -518,9 +518,9 @@
         "q": "ஒரு ஆம்பியர் என்பது",
         "options": [
           "ஒரு மணி நேரத்தில் ஒரு கூலூம் மின்னூட்டம் பாய்வது",
-          "ஒரு வினாடியில் கடத்தியின் வழியே ஒரு கூலூம் மின்னூட்டம் பாய்வது",
+          "ஒரு வினாடியில் ஒரு ஜூல் ஆற்றல் பாய்வது",
           "ஒரு ஓம் மின்தடையின் குறுக்கே ஒரு மணி நேரம் ஒரு வோல்ட் செலுத்தப்படுவது",
-          "ஒரு வினாடியில் ஒரு ஜூல் ஆற்றல் பாய்வது"
+          "ஒரு வினாடியில் கடத்தியின் வழியே ஒரு கூலூம் மின்னூட்டம் பாய்வது"
         ],
         "explanation": "I = Q/t; எனவே 1 A = 1 C வி⁻¹."
       }
@@ -532,14 +532,14 @@
       "bloom": "remember",
       "page": 56,
       "quote": "2. What happens to the resistance, as the conductor is made thicker?",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "As a conductor is made thicker (larger area of cross-section), its resistance",
         "options": [
           "remains the same",
-          "increases",
+          "decreases",
           "becomes infinite",
-          "decreases"
+          "increases"
         ],
         "explanation": "R = ρl/A; resistance is inversely proportional to the area of cross-section."
       },
@@ -547,9 +547,9 @@
         "q": "ஒரு கடத்தியைத் தடிமனாக்கினால் (குறுக்குவெட்டுப் பரப்பை அதிகரித்தால்) அதன் மின்தடை",
         "options": [
           "மாறாது",
-          "அதிகரிக்கும்",
+          "குறையும்",
           "முடிவிலி ஆகும்",
-          "குறையும்"
+          "அதிகரிக்கும்"
         ],
         "explanation": "R = ρl/A; மின்தடை குறுக்குவெட்டுப் பரப்பிற்கு எதிர்த்தகவில் இருக்கும்."
       }
@@ -561,14 +561,14 @@
       "bloom": "understand",
       "page": 56,
       "quote": "3. Why is tungsten metal used in bulbs, but not in fuse wires?",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Tungsten is used as the filament of bulbs but not as a fuse wire because tungsten",
         "options": [
           "has zero resistance",
           "has a very low melting point",
-          "has a very high melting point",
-          "is a poor conductor of heat"
+          "is a poor conductor of heat",
+          "has a very high melting point"
         ],
         "explanation": "A fuse wire must melt easily when the current is excessive, so a low-melting-point material is used."
       },
@@ -577,8 +577,8 @@
         "options": [
           "மின்தடை சுழி",
           "உருகுநிலை மிகக் குறைவு",
-          "உருகுநிலை மிக அதிகம்",
-          "வெப்பக் கடத்துத்திறன் மிகக் குறைவு"
+          "வெப்பக் கடத்துத்திறன் மிகக் குறைவு",
+          "உருகுநிலை மிக அதிகம்"
         ],
         "explanation": "அதிக மின்னோட்டத்தில் உருகி சுற்றைத் துண்டிக்க வேண்டிய உருகு இழைக்குக் குறைந்த உருகுநிலைப் பொருளே தேவை."
       }
@@ -619,14 +619,14 @@
       "bloom": "remember",
       "page": 56,
       "quote": "1. Define electric potential and potential difference.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The potential difference between two points is defined as the",
         "options": [
           "charge flowing per second between the points",
           "power consumed between the points",
-          "resistance between the points",
-          "work done to move a unit charge from one point to the other"
+          "work done to move a unit charge from one point to the other",
+          "resistance between the points"
         ],
         "explanation": "Its SI unit is volt (V)."
       },
@@ -635,8 +635,8 @@
         "options": [
           "அப்புள்ளிகளுக்கிடையே ஒரு வினாடியில் பாயும் மின்னூட்டம்",
           "அப்புள்ளிகளுக்கிடையே நுகரப்படும் மின்திறன்",
-          "அப்புள்ளிகளுக்கிடையேயான மின்தடை",
-          "ஓரலகு மின்னூட்டத்தை ஒரு புள்ளியிலிருந்து மற்றொரு புள்ளிக்குக் கொண்டு செல்லச் செய்யப்படும் வேலை"
+          "ஓரலகு மின்னூட்டத்தை ஒரு புள்ளியிலிருந்து மற்றொரு புள்ளிக்குக் கொண்டு செல்லச் செய்யப்படும் வேலை",
+          "அப்புள்ளிகளுக்கிடையேயான மின்தடை"
         ],
         "explanation": "இதன் SI அலகு வோல்ட் (V)."
       }
@@ -648,24 +648,24 @@
       "bloom": "remember",
       "page": 56,
       "quote": "2. What is the role of the earth wire in domestic circuits?",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The earth wire in a domestic circuit",
         "options": [
-          "carries leakage current to the earth and protects users from electric shock",
+          "stores charge for the appliance",
           "increases the current in the appliance",
           "reduces the voltage of the supply",
-          "stores charge for the appliance"
+          "carries leakage current to the earth and protects users from electric shock"
         ],
         "explanation": "It is connected to the metallic body of the appliance as a safety measure."
       },
       "ta": {
         "q": "வீட்டு மின்சுற்றிலுள்ள புவித் தொடுப்புக் கம்பியின் பங்கு",
         "options": [
-          "கசிவு மின்னோட்டத்தைப் புவிக்குக் கடத்தி மின்தாக்குதலிலிருந்து பயனரைப் பாதுகாப்பது",
+          "சாதனத்திற்காக மின்னூட்டத்தைச் சேமிப்பது",
           "சாதனத்தில் மின்னோட்டத்தை அதிகரிப்பது",
           "வழங்கு மின்னழுத்தத்தைக் குறைப்பது",
-          "சாதனத்திற்காக மின்னூட்டத்தைச் சேமிப்பது"
+          "கசிவு மின்னோட்டத்தைப் புவிக்குக் கடத்தி மின்தாக்குதலிலிருந்து பயனரைப் பாதுகாப்பது"
         ],
         "explanation": "பாதுகாப்பிற்காகச் சாதனத்தின் உலோகப் பகுதியுடன் இது இணைக்கப்படுகிறது."
       }
@@ -677,13 +677,13 @@
       "bloom": "remember",
       "page": 56,
       "quote": "3. State Ohm's law.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Ohm's law states that, at constant temperature, the current through a conductor is",
         "options": [
           "independent of the potential difference",
-          "directly proportional to its resistance",
           "directly proportional to the potential difference across its ends",
+          "directly proportional to its resistance",
           "inversely proportional to the potential difference across its ends"
         ],
         "explanation": "V = IR where R is a constant for a given conductor at constant temperature."
@@ -692,8 +692,8 @@
         "q": "ஓம் விதிப்படி, மாறா வெப்பநிலையில் ஒரு கடத்தியில் பாயும் மின்னோட்டம்",
         "options": [
           "மின்னழுத்த வேறுபாட்டைச் சாராது",
-          "மின்தடைக்கு நேர்த்தகவில் இருக்கும்",
           "கடத்தியின் முனைகளுக்கிடையேயான மின்னழுத்த வேறுபாட்டிற்கு நேர்த்தகவில் இருக்கும்",
+          "மின்தடைக்கு நேர்த்தகவில் இருக்கும்",
           "மின்னழுத்த வேறுபாட்டிற்கு எதிர்த்தகவில் இருக்கும்"
         ],
         "explanation": "V = IR; மாறா வெப்பநிலையில் ஒரு கடத்திக்கு R மாறிலி."
@@ -764,14 +764,14 @@
       "bloom": "apply",
       "page": 57,
       "quote": "1. An electric iron consumes energy at the rate of 420 W when heating is at the maximum rate and 180 W when heating is at the minimum rate. The applied voltage is 220 V. What is the current in each case?",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "An electric iron consumes 420 W at maximum heating and 180 W at minimum heating on a 220 V supply. The currents in the two cases are respectively about",
         "options": [
           "0.52 A and 1.22 A",
-          "1.91 A and 1.22 A",
+          "1.91 A and 0.82 A",
           "2.2 A and 1.8 A",
-          "1.91 A and 0.82 A"
+          "1.91 A and 1.22 A"
         ],
         "explanation": "I = P/V: 420/220 ≈ 1.91 A; 180/220 ≈ 0.82 A."
       },
@@ -779,9 +779,9 @@
         "q": "ஒரு மின்சலவைப் பெட்டி அதிகபட்ச வெப்பத்தில் 420 W-ம் குறைந்தபட்ச வெப்பத்தில் 180 W-ம் நுகர்கிறது; மின்னழுத்தம் 220 V. இரு நிலைகளிலும் மின்னோட்டம் முறையே தோராயமாக",
         "options": [
           "0.52 A, 1.22 A",
-          "1.91 A, 1.22 A",
+          "1.91 A, 0.82 A",
           "2.2 A, 1.8 A",
-          "1.91 A, 0.82 A"
+          "1.91 A, 1.22 A"
         ],
         "explanation": "I = P/V: 420/220 ≈ 1.91 A; 180/220 ≈ 0.82 A."
       }
@@ -822,14 +822,14 @@
       "bloom": "apply",
       "page": 57,
       "quote": "3. A torch bulb is rated at 3 V and 600 mA. Calculate it's a) power b) resistance c) energy consumed if it is used for 4 hour.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "A torch bulb is rated 3 V and 600 mA. Its power and resistance are respectively",
         "options": [
           "18 W and 50 Ω",
           "1.8 W and 0.2 Ω",
-          "1.8 W and 5 Ω",
-          "0.2 W and 5 Ω"
+          "0.2 W and 5 Ω",
+          "1.8 W and 5 Ω"
         ],
         "explanation": "P = VI = 3 × 0.6 = 1.8 W; R = V/I = 3/0.6 = 5 Ω. (Energy in 4 h = 1.8 × 4 = 7.2 Wh.)"
       },
@@ -838,8 +838,8 @@
         "options": [
           "18 W, 50 Ω",
           "1.8 W, 0.2 Ω",
-          "1.8 W, 5 Ω",
-          "0.2 W, 5 Ω"
+          "0.2 W, 5 Ω",
+          "1.8 W, 5 Ω"
         ],
         "explanation": "P = VI = 3 × 0.6 = 1.8 W; R = V/I = 3/0.6 = 5 Ω. (4 மணி நேர ஆற்றல் = 1.8 × 4 = 7.2 Wh.)"
       }
@@ -851,14 +851,14 @@
       "bloom": "apply",
       "page": 57,
       "quote": "4. A piece of wire having a resistance R is cut into five equal parts. a) How will the resistance of each part of the wire change compared with the original resistance? b) If the five parts of the wire are placed in parallel, how will the resistance of the combination change? c) What will be ratio of the effective resistance in series connection to that of the parallel connection?",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "A wire of resistance R is cut into five equal parts. The ratio of the effective resistance when the five parts are joined in series to that when they are joined in parallel is",
         "options": [
           "1 : 5",
           "5 : 1",
-          "25 : 1",
-          "1 : 25"
+          "1 : 25",
+          "25 : 1"
         ],
         "explanation": "Each part has R/5; series = R, parallel = (R/5)/5 = R/25; ratio = 25 : 1."
       },
@@ -867,8 +867,8 @@
         "options": [
           "1 : 5",
           "5 : 1",
-          "25 : 1",
-          "1 : 25"
+          "1 : 25",
+          "25 : 1"
         ],
         "explanation": "ஒவ்வொரு துண்டின் மின்தடை R/5; தொடரில் R; பக்கத்தில் R/25; விகிதம் 25 : 1."
       }
@@ -880,12 +880,12 @@
       "bloom": "apply",
       "page": 57,
       "quote": "1. Two resistors when connected in parallel give the resultant resistance of 2 ohm; but when connected in series the effective resistance becomes 9 ohm. Calculate the value of each resistance.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Two resistors give a resultant resistance of 2 Ω when connected in parallel and 9 Ω when connected in series. The two resistances are",
         "options": [
-          "2 Ω and 7 Ω",
           "3 Ω and 6 Ω",
+          "2 Ω and 7 Ω",
           "4 Ω and 5 Ω",
           "1 Ω and 8 Ω"
         ],
@@ -894,8 +894,8 @@
       "ta": {
         "q": "இரு மின்தடையாக்கிகளைப் பக்க இணைப்பில் இணைத்தால் தொகுபயன் மின்தடை 2 Ω; தொடரிணைப்பில் 9 Ω. அவற்றின் மதிப்புகள்",
         "options": [
-          "2 Ω, 7 Ω",
           "3 Ω, 6 Ω",
+          "2 Ω, 7 Ω",
           "4 Ω, 5 Ω",
           "1 Ω, 8 Ω"
         ],
@@ -938,13 +938,13 @@
       "bloom": "apply",
       "page": 57,
       "quote": "3. A piece of wire of resistance 10 ohm is drawn out so that its length is increased to three times its original length. Calculate the new resistance.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "A wire of resistance 10 Ω is drawn out so that its length becomes three times the original. The new resistance is",
         "options": [
-          "90 Ω",
-          "3.33 Ω",
           "30 Ω",
+          "3.33 Ω",
+          "90 Ω",
           "10 Ω"
         ],
         "explanation": "Volume is constant, so the area becomes 1/3; R = ρl/A becomes 3 × 3 = 9 times = 90 Ω."
@@ -952,9 +952,9 @@
       "ta": {
         "q": "10 Ω மின்தடையுள்ள ஒரு கம்பி இழுக்கப்பட்டு அதன் நீளம் முதல் நீளத்தைப் போல் மூன்று மடங்காகிறது. புதிய மின்தடை",
         "options": [
-          "90 Ω",
-          "3.33 Ω",
           "30 Ω",
+          "3.33 Ω",
+          "90 Ω",
           "10 Ω"
         ],
         "explanation": "கம்பியின் பருமன் மாறாததால் பரப்பு 1/3 ஆகும்; R = ρl/A என்பது 3 × 3 = 9 மடங்காகி 90 Ω."

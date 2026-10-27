@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 186,
       "quote": "2. India is a land of ______ a) Multi - religious faith b) Multi - cultural beliefs c) Both (1) & (2) d) None of these",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "India is a land of ______.",
         "options": [
           "a single religion",
-          "multi-religious faith and multi-cultural beliefs",
+          "no organised religions",
           "a single culture",
-          "no organised religions"
+          "multi-religious faith and multi-cultural beliefs"
         ],
         "explanation": "India is the birthplace of Hinduism, Jainism, Buddhism and Sikhism."
       },
@@ -54,9 +54,9 @@
         "q": "இந்தியா ______ நிலம்.",
         "options": [
           "ஒரே சமயம் உள்ள",
-          "பல சமய நம்பிக்கைகளும் பல பண்பாட்டு நம்பிக்கைகளும் உள்ள",
+          "சமயங்களே இல்லாத",
           "ஒரே பண்பாடு உள்ள",
-          "சமயங்களே இல்லாத"
+          "பல சமய நம்பிக்கைகளும் பல பண்பாட்டு நம்பிக்கைகளும் உள்ள"
         ],
         "explanation": "இந்து, சமணம், பௌத்தம், சீக்கியம் ஆகிய நான்கு சமயங்களின் பிறப்பிடம் இந்தியா."
       }
@@ -68,24 +68,24 @@
       "bloom": "remember",
       "page": 184,
       "quote": "3. The Preamble of the Constitution was amended in ______. a) 1951 b) 1976 c) 1974 d) 1967",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The Preamble of the Constitution was amended to include the word 'secular' in ______.",
         "options": [
-          "1976",
+          "1974",
           "1951",
           "1967",
-          "1974"
+          "1976"
         ],
         "explanation": "This was done by the 42nd Amendment."
       },
       "ta": {
         "q": "அரசமைப்பின் முகவுரையில் 'சமயச்சார்பற்ற' என்ற சொல் ______ இல் சேர்க்கப்பட்டது.",
         "options": [
-          "1976",
+          "1974",
           "1951",
           "1967",
-          "1974"
+          "1976"
         ],
         "explanation": "இது 42ஆவது அரசமைப்புத் திருத்தத்தால் செய்யப்பட்டது."
       }
@@ -126,24 +126,24 @@
       "bloom": "remember",
       "page": 184,
       "quote": "5. Right to freedom of religion is related to a) Judiciary b) Parliament c) Directive principles of State Policy d) Fundamental rights",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The right to freedom of religion is related to the ______.",
         "options": [
-          "Fundamental Rights",
+          "Directive Principles of State Policy",
           "Judiciary",
           "Parliament",
-          "Directive Principles of State Policy"
+          "Fundamental Rights"
         ],
         "explanation": "Article 25(1) guarantees freedom of conscience and the right to profess, practise and propagate religion."
       },
       "ta": {
         "q": "சமயச் சுதந்திர உரிமை ______ உடன் தொடர்புடையது.",
         "options": [
-          "அடிப்படை உரிமைகள்",
+          "அரசு நெறிமுறைக் கோட்பாடுகள்",
           "நீதித்துறை",
           "நாடாளுமன்றம்",
-          "அரசு நெறிமுறைக் கோட்பாடுகள்"
+          "அடிப்படை உரிமைகள்"
         ],
         "explanation": "உறுப்பு 25(1) மனச்சாட்சி சுதந்திரத்தையும் சமயத்தைப் பின்பற்றவும் பரப்பவும் உள்ள உரிமையையும் உறுதி செய்கிறது."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 184,
       "quote": "6. According to Article 28, which type of education is restricted in state aided educational institutions? a) Religious instruction b) Moral education c) Physical education d) None above these",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "According to Article 28, which type of instruction is restricted in state-aided educational institutions?",
         "options": [
           "Moral education",
-          "Physical education",
           "Religious instruction",
+          "Physical education",
           "Science education"
         ],
         "explanation": "Article 29(2) bans discrimination in state-aided educational institutions."
@@ -170,8 +170,8 @@
         "q": "உறுப்பு 28இன்படி அரசு நிதியுதவி பெறும் கல்வி நிறுவனங்களில் தடை செய்யப்படும் கல்வி எது?",
         "options": [
           "நீதிபோதனை",
-          "உடற்கல்வி",
           "சமயப் போதனை",
+          "உடற்கல்வி",
           "அறிவியல் கல்வி"
         ],
         "explanation": "உறுப்பு 29(2) அரசு உதவி பெறும் கல்வி நிறுவனங்களில் பாகுபாட்டைத் தடை செய்கிறது."
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 187,
       "quote": "7. The country will be considered as a secular country, if it ______ a) Gives importance to a particular religion b) Bans religious instructions in the state-aided educational institutions c) Does not give importance to a particular religion d) Bans the propagation of any religious belief.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A country will be considered a secular country if it ______.",
         "options": [
           "gives importance to a particular religion",
-          "bans the propagation of any religious belief",
+          "does not give importance to a particular religion",
           "declares one religion as the official religion",
-          "does not give importance to a particular religion"
+          "bans the propagation of any religious belief"
         ],
         "explanation": "A secular state does not officially promote any one religion and treats every religion equally."
       },
@@ -199,9 +199,9 @@
         "q": "ஒரு நாடு ______ எனில் அது சமயச்சார்பற்ற நாடாகக் கருதப்படும்.",
         "options": [
           "ஒரு குறிப்பிட்ட சமயத்திற்கு முக்கியத்துவம் அளித்தால்",
-          "எந்தச் சமய நம்பிக்கையையும் பரப்பத் தடை விதித்தால்",
+          "எந்தவொரு குறிப்பிட்ட சமயத்திற்கும் முக்கியத்துவம் அளிக்காதிருந்தால்",
           "ஒரு சமயத்தை அதிகாரப்பூர்வச் சமயமாக அறிவித்தால்",
-          "எந்தவொரு குறிப்பிட்ட சமயத்திற்கும் முக்கியத்துவம் அளிக்காதிருந்தால்"
+          "எந்தச் சமய நம்பிக்கையையும் பரப்பத் தடை விதித்தால்"
         ],
         "explanation": "சமயச்சார்பற்ற அரசு எந்தச் சமயத்தையும் அதிகாரப்பூர்வமாக ஊக்குவிக்காது; அனைத்தையும் சமமாகக் கருதும்."
       }
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 183,
       "quote": "II 1. Religion does not teach us ______.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "In the poet Iqbal's words, 'Religion does not teach us ______; we are Indians and India is our home'.",
         "options": [
           "tolerance",
-          "animosity",
           "charity",
+          "animosity",
           "humility"
         ],
         "explanation": "The statement illustrates the secular view."
@@ -228,8 +228,8 @@
         "q": "இக்பால் கவிதை: 'சமயம் நமக்குக் கற்பிப்பதில்லை ______; நாம் இந்தியர்கள்; இந்தியா நம் இல்லம்'.",
         "options": [
           "சகிப்புத்தன்மையை",
-          "பகைமையை",
           "கொடையை",
+          "பகைமையை",
           "பணிவை"
         ],
         "explanation": "இது சமயச்சார்பற்ற பார்வையை விளக்கும் கூற்று."
@@ -271,12 +271,12 @@
       "bloom": "remember",
       "page": 183,
       "quote": "3. ______ is a lack of belief in god and gods.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "A lack of belief in god and gods is called ______.",
         "options": [
-          "Atheism",
           "Secularism",
+          "Atheism",
           "Theism",
           "Pluralism"
         ],
@@ -285,8 +285,8 @@
       "ta": {
         "q": "கடவுள் நம்பிக்கை இன்மை ______ எனப்படும்.",
         "options": [
-          "நாத்திகம்",
           "சமயச்சார்பின்மை",
+          "நாத்திகம்",
           "ஆத்திகம்",
           "பன்மைத்துவம்"
         ],
@@ -329,24 +329,24 @@
       "bloom": "remember",
       "page": 190,
       "quote": "5. Article 15 prohibits ______ on the grounds of religion, caste, sex or place of birth.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Article 15 prohibits ______ on the grounds of religion, caste, sex or place of birth.",
         "options": [
-          "taxation",
+          "discrimination",
           "migration",
           "propagation",
-          "discrimination"
+          "taxation"
         ],
         "explanation": "Article 16 guarantees equality of opportunity in public employment."
       },
       "ta": {
         "q": "உறுப்பு 15 சமயம், சாதி, பாலினம், பிறப்பிடம் ஆகியவற்றின் அடிப்படையில் ______ தடை செய்கிறது.",
         "options": [
-          "வரி விதிப்பதை",
+          "பாகுபாடு காட்டுவதை",
           "இடம்பெயர்வதை",
           "பரப்புவதை",
-          "பாகுபாடு காட்டுவதை"
+          "வரி விதிப்பதை"
         ],
         "explanation": "உறுப்பு 16 பொது வேலைவாய்ப்பில் வாய்ப்புச் சமத்துவத்தை உறுதி செய்கிறது."
       }
@@ -358,12 +358,12 @@
       "bloom": "remember",
       "page": 187,
       "quote": "III Match the following 1. Atheism - Lack of belief in god 2. Children - Future citizen 3. Din-i-Illahi - Divine faith 5. Holyoake - Coined the word secularism",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Match List I with List II.\na) Atheism\nb) Children\nc) Din-i-Illahi\nd) Holyoake\n1. Lack of belief in god\n2. Future citizens\n3. Coined the word 'secularism'\n4. Divine faith",
         "options": [
-          "a-2, b-3, c-4, d-1",
           "a-1, b-2, c-4, d-3",
+          "a-2, b-3, c-4, d-1",
           "a-3, b-4, c-1, d-2",
           "a-2, b-4, c-1, d-3"
         ],
@@ -372,8 +372,8 @@
       "ta": {
         "q": "I பட்டியலை II பட்டியலுடன் பொருத்துக.\na) நாத்திகம்\nb) குழந்தைகள்\nc) தீன்-இ-இலாஹி\nd) ஹோலியோக்\n1. கடவுள் நம்பிக்கை இன்மை\n2. எதிர்காலக் குடிமக்கள்\n3. 'சமயச்சார்பின்மை' என்ற சொல்லை உருவாக்கியவர்\n4. தெய்வீக நம்பிக்கை",
         "options": [
-          "a-2, b-3, c-4, d-1",
           "a-1, b-2, c-4, d-3",
+          "a-2, b-3, c-4, d-1",
           "a-3, b-4, c-1, d-2",
           "a-2, b-4, c-1, d-3"
         ],
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 188,
       "quote": "IV 2. The term secularism has been derived from the Greek word.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The term 'secularism' is derived from the ______ word 'saeculum'.",
         "options": [
-          "Latin",
-          "Greek",
           "Sanskrit",
+          "Greek",
+          "Latin",
           "French"
         ],
         "explanation": "'Saeculum' means 'an age' or 'the spirit of an age'."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "'செக்யூலரிசம்' என்ற சொல் ______ சொல் 'சேக்குலம்' என்பதிலிருந்து பெறப்பட்டது.",
         "options": [
-          "இலத்தீன்",
-          "கிரேக்க",
           "சமஸ்கிருத",
+          "கிரேக்க",
+          "இலத்தீன்",
           "பிரெஞ்சு"
         ],
         "explanation": "'சேக்குலம்' என்றால் 'ஒரு காலம்' அல்லது 'ஒரு காலத்தின் உணர்வு'."
@@ -561,12 +561,12 @@
       "bloom": "understand",
       "page": 187,
       "quote": "V 4. Find out the wrong pair. a) Din-i-Illahi - A book b) Khajuraho - Hindu temple c) Ashoka - Rock Edict d) Iqbal - Poet",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Find out the wrongly matched pair.",
         "options": [
-          "Din-i-Illahi - A book",
           "Khajuraho - Hindu temple",
+          "Din-i-Illahi - A book",
           "Ashoka - Rock Edict",
           "Iqbal - Poet"
         ],
@@ -575,8 +575,8 @@
       "ta": {
         "q": "தவறாகப் பொருந்திய இணையைக் கண்டறிக.",
         "options": [
-          "தீன்-இ-இலாஹி - ஒரு நூல்",
           "கஜுராஹோ - இந்துக் கோயில்",
+          "தீன்-இ-இலாஹி - ஒரு நூல்",
           "அசோகர் - பாறைக் கல்வெட்டு",
           "இக்பால் - கவிஞர்"
         ],
@@ -590,13 +590,13 @@
       "bloom": "remember",
       "page": 188,
       "quote": "VI 1. Name some of the Indians who contributed to spread of secularism.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which of the following contributed to the spread of secularism in various spheres of Indian society?",
         "options": [
-          "Bal Gangadhar Tilak only",
-          "George Jacob Holyoake",
           "Rajaram Mohan Roy, Sir Syed Ahmad Khan, Rabindranath Tagore, Mahatma Gandhi and B.R. Ambedkar",
+          "George Jacob Holyoake",
+          "Bal Gangadhar Tilak only",
           "Emperor Ashoka only"
         ],
         "explanation": "Holyoake was the British editor who coined the term 'secularism'."
@@ -604,9 +604,9 @@
       "ta": {
         "q": "இந்திய சமூகத்தின் பல்வேறு துறைகளில் சமயச்சார்பின்மை பரவப் பங்களித்தவர்கள் யார்?",
         "options": [
-          "பாலகங்காதர திலகர் மட்டும்",
-          "ஜார்ஜ் ஜேக்கப் ஹோலியோக்",
           "இராஜாராம் மோகன்ராய், சர் சையது அகமது கான், இரவீந்திரநாத் தாகூர், மகாத்மா காந்தி, பி.ஆர். அம்பேத்கர்",
+          "ஜார்ஜ் ஜேக்கப் ஹோலியோக்",
+          "பாலகங்காதர திலகர் மட்டும்",
           "பேரரசர் அசோகர் மட்டும்"
         ],
         "explanation": "'சமயச்சார்பின்மை' என்ற சொல்லை உருவாக்கியவர் பிரிட்டிஷ் இதழாசிரியர் ஹோலியோக்."
@@ -619,24 +619,24 @@
       "bloom": "remember",
       "page": 189,
       "quote": "VI 3. State the objectives of secularism.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which of the following is an objective of secularism?",
         "options": [
-          "The state enforces one religion",
+          "One religious group does not dominate another",
           "The state takes away religious freedom",
           "Some members dominate others of the same community",
-          "One religious group does not dominate another"
+          "The state enforces one religion"
         ],
         "explanation": "The state does not enforce any specific religion nor take away individuals' religious freedom."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் சமயச்சார்பின்மையின் நோக்கம் எது?",
         "options": [
-          "அரசு ஒரு சமயத்தைத் திணித்தல்",
+          "ஒரு சமயக் குழு மற்றொன்றை ஆதிக்கம் செலுத்தாமை",
           "அரசு சமயச் சுதந்திரத்தைப் பறித்தல்",
           "ஒரே சமயத்தவருள் சிலர் பிறரை ஆதிக்கம் செலுத்துதல்",
-          "ஒரு சமயக் குழு மற்றொன்றை ஆதிக்கம் செலுத்தாமை"
+          "அரசு ஒரு சமயத்தைத் திணித்தல்"
         ],
         "explanation": "அரசு எந்தச் சமயத்தையும் திணிப்பதில்லை; தனிநபரின் சமயச் சுதந்திரத்தைப் பறிப்பதுமில்லை."
       }
@@ -648,24 +648,24 @@
       "bloom": "remember",
       "page": 189,
       "quote": "VI 5. What are the characteristic features of a secular state?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which of the following is a principle (characteristic feature) of a secular state?",
         "options": [
-          "Principle of Dominance",
+          "Principle of Neutrality - the state remains neutral in religious matters",
           "Principle of State Religion",
           "Principle of Religious Taxation",
-          "Principle of Neutrality - the state remains neutral in religious matters"
+          "Principle of Dominance"
         ],
         "explanation": "The other principles are Liberty and Equality."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் சமயச்சார்பற்ற அரசின் கோட்பாடு எது?",
         "options": [
-          "ஆதிக்கக் கோட்பாடு",
+          "நடுநிலைக் கோட்பாடு - சமய விஷயங்களில் அரசு நடுநிலை வகிக்கிறது",
           "அரசு சமயக் கோட்பாடு",
           "சமய வரிக் கோட்பாடு",
-          "நடுநிலைக் கோட்பாடு - சமய விஷயங்களில் அரசு நடுநிலை வகிக்கிறது"
+          "ஆதிக்கக் கோட்பாடு"
         ],
         "explanation": "மற்றவை: சுதந்திரக் கோட்பாடு, சமத்துவக் கோட்பாடு."
       }

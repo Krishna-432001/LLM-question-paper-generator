@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 70,
       "quote": "3. The frequency, which is audible to the human ear is a) 50 kHz b) 20 kHz c) 15000 kHz d) 10000 kHz",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Which of the following frequencies is audible to the human ear (the upper limit of the audible range)?",
         "options": [
           "50 kHz",
           "15000 kHz",
-          "20 kHz",
-          "10000 kHz"
+          "10000 kHz",
+          "20 kHz"
         ],
         "explanation": "The audible range is 20 Hz to 20 kHz; higher frequencies are ultrasonic."
       },
@@ -55,8 +55,8 @@
         "options": [
           "50 kHz",
           "15000 kHz",
-          "20 kHz",
-          "10000 kHz"
+          "10000 kHz",
+          "20 kHz"
         ],
         "explanation": "செவியுணர் ஒலியின் எல்லை 20 Hz முதல் 20 kHz; அதற்கு மேல் மீயொலி."
       }
@@ -68,12 +68,12 @@
       "bloom": "apply",
       "page": 70,
       "quote": "4. The velocity of sound in air at a particular temperature is 330 ms–1. What will be its value when temperature is doubled and the pressure is halved? a) 330 ms–1 b) 165 ms–1 c) 330 × √2 ms–1 d) 320 / √2 ms–1",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The velocity of sound in air at a certain temperature is 330 m s⁻¹. When the (absolute) temperature is doubled and the pressure is halved, its value becomes",
         "options": [
-          "330 m s⁻¹",
           "330 × √2 m s⁻¹",
+          "330 m s⁻¹",
           "165 m s⁻¹",
           "660 m s⁻¹"
         ],
@@ -82,8 +82,8 @@
       "ta": {
         "q": "ஒரு குறிப்பிட்ட வெப்பநிலையில் காற்றில் ஒலியின் திசைவேகம் 330 மீ வி⁻¹. (தனி) வெப்பநிலையை இரட்டிப்பாக்கி அழுத்தத்தைப் பாதியாக்கினால் அதன் மதிப்பு",
         "options": [
-          "330 மீ வி⁻¹",
           "330 × √2 மீ வி⁻¹",
+          "330 மீ வி⁻¹",
           "165 மீ வி⁻¹",
           "660 மீ வி⁻¹"
         ],
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 70,
       "quote": "1. Rapid back and forth motion of a particle about its mean position is called _____",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The rapid to-and-fro motion of a particle about its mean position is called",
         "options": [
           "translation",
-          "reflection",
+          "vibration",
           "rotation",
-          "vibration"
+          "reflection"
         ],
         "explanation": "Vibration of the source produces sound."
       },
@@ -170,9 +170,9 @@
         "q": "ஒரு துகள் தனது சராசரி நிலையைப் பொறுத்து விரைவாக முன்னும் பின்னும் இயங்குவது",
         "options": [
           "இடப்பெயர்ச்சி இயக்கம்",
-          "எதிரொலிப்பு",
+          "அதிர்வு",
           "சுழற்சி",
-          "அதிர்வு"
+          "எதிரொலிப்பு"
         ],
         "explanation": "ஒலி மூலத்தின் அதிர்வே ஒலியை உண்டாக்குகிறது."
       }
@@ -184,24 +184,24 @@
       "bloom": "understand",
       "page": 70,
       "quote": "2. If the energy in a longitudinal wave travels from south to north, the particles of the medium would be vibrating in _____",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "If the energy of a longitudinal wave travels from south to north, the particles of the medium vibrate",
         "options": [
-          "along the south–north direction",
+          "vertically up and down",
           "along the east–west direction",
           "in circles in the horizontal plane",
-          "vertically up and down"
+          "along the south–north direction"
         ],
         "explanation": "In a longitudinal wave the particles vibrate parallel to the direction of the wave."
       },
       "ta": {
         "q": "ஒரு நெட்டலையின் ஆற்றல் தெற்கிலிருந்து வடக்காகப் பரவுகிறது எனில் ஊடகத்தின் துகள்கள் அதிர்வுறுவது",
         "options": [
-          "தெற்கு–வடக்குத் திசையிலேயே",
+          "செங்குத்தாக மேலும் கீழும்",
           "கிழக்கு–மேற்குத் திசையில்",
           "கிடைத்தளத்தில் வட்டப்பாதையில்",
-          "செங்குத்தாக மேலும் கீழும்"
+          "தெற்கு–வடக்குத் திசையிலேயே"
         ],
         "explanation": "நெட்டலையில் துகள்கள் அலை செல்லும் திசைக்கு இணையாக அதிர்வுறும்."
       }
@@ -213,24 +213,24 @@
       "bloom": "apply",
       "page": 70,
       "quote": "3. A whistle giving out a sound of frequency 450 Hz, approaches a stationary observer at a speed of 33 ms–1. The frequency heard by the observer is (speed of sound = 330 ms–1) ______.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "A whistle of frequency 450 Hz approaches a stationary observer at 33 m s⁻¹ (speed of sound 330 m s⁻¹). The frequency heard is",
         "options": [
-          "500 Hz",
+          "405 Hz",
           "450 Hz",
           "495 Hz",
-          "405 Hz"
+          "500 Hz"
         ],
         "explanation": "n' = v n / (v − v_s) = 330 × 450 / 297 = 500 Hz."
       },
       "ta": {
         "q": "450 Hz அதிர்வெண் கொண்ட ஊதல் 33 மீ வி⁻¹ வேகத்தில் ஓய்வுநிலைக் கேட்குநரை நெருங்குகிறது (ஒலியின் வேகம் 330 மீ வி⁻¹). கேட்குநர் கேட்கும் அதிர்வெண்",
         "options": [
-          "500 Hz",
+          "405 Hz",
           "450 Hz",
           "495 Hz",
-          "405 Hz"
+          "500 Hz"
         ],
         "explanation": "n' = vn/(v − v_s) = 330 × 450/297 = 500 Hz."
       }
@@ -242,13 +242,13 @@
       "bloom": "apply",
       "page": 70,
       "quote": "4. A source of sound is travelling with a velocity 40 km/h towards an observer and emits a sound of frequency 2000 Hz. If the velocity of sound is 1220 km/h, then the apparent frequency heard by the observer is ___________.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "A source moving at 40 km/h towards a stationary observer emits sound of 2000 Hz. If the speed of sound is 1220 km/h, the apparent frequency heard is about",
         "options": [
           "2000 Hz",
-          "2068 Hz",
           "2040 Hz",
+          "2068 Hz",
           "1936 Hz"
         ],
         "explanation": "n' = v n / (v − v_s) = 1220 × 2000 / 1180 ≈ 2068 Hz."
@@ -257,8 +257,8 @@
         "q": "40 கிமீ/மணி வேகத்தில் ஓய்வுநிலைக் கேட்குநரை நோக்கி நகரும் ஒலி மூலம் 2000 Hz ஒலியை உமிழ்கிறது. ஒலியின் வேகம் 1220 கிமீ/மணி எனில் தோற்ற அதிர்வெண் தோராயமாக",
         "options": [
           "2000 Hz",
-          "2068 Hz",
           "2040 Hz",
+          "2068 Hz",
           "1936 Hz"
         ],
         "explanation": "n' = vn/(v − v_s) = 1220 × 2000/1180 ≈ 2068 Hz."
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 70,
       "quote": "1. Sound can travel through solids, gases, liquids and even vacuum.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Sound can travel through",
         "options": [
           "solids, liquids, gases and vacuum",
           "gases only",
-          "solids, liquids and gases but not through vacuum",
-          "solids only"
+          "solids only",
+          "solids, liquids and gases but not through vacuum"
         ],
         "explanation": "Sound needs a material medium and cannot travel through a vacuum."
       },
@@ -287,8 +287,8 @@
         "options": [
           "திண்மம், திரவம், வாயு மற்றும் வெற்றிடம்",
           "வாயுவில் மட்டும்",
-          "திண்மம், திரவம், வாயு; வெற்றிடத்தில் பரவாது",
-          "திண்மத்தில் மட்டும்"
+          "திண்மத்தில் மட்டும்",
+          "திண்மம், திரவம், வாயு; வெற்றிடத்தில் பரவாது"
         ],
         "explanation": "ஒலிக்கு ஊடகம் தேவை; வெற்றிடத்தில் பரவாது."
       }
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 70,
       "quote": "2. Waves created by Earth Quake are Infrasonic.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which statement about the waves created by an earthquake is correct?",
         "options": [
           "They are electromagnetic waves",
           "They are ultrasonic waves",
-          "They are audible waves of 1 kHz",
-          "They are infrasonic waves"
+          "They are infrasonic waves",
+          "They are audible waves of 1 kHz"
         ],
         "explanation": "Infrasonic waves have frequencies below 20 Hz."
       },
@@ -316,8 +316,8 @@
         "options": [
           "அவை மின்காந்த அலைகள்",
           "அவை மீயொலி அலைகள்",
-          "அவை 1 kHz செவியுணர் ஒலி",
-          "அவை குற்றொலி அலைகள்"
+          "அவை குற்றொலி அலைகள்",
+          "அவை 1 kHz செவியுணர் ஒலி"
         ],
         "explanation": "குற்றொலியின் அதிர்வெண் 20 Hz-ஐ விடக் குறைவு."
       }
@@ -329,12 +329,12 @@
       "bloom": "remember",
       "page": 70,
       "quote": "3. The velocity of sound is independent of temperature.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The velocity of sound in air",
         "options": [
-          "is independent of temperature",
           "increases with an increase in temperature",
+          "is independent of temperature",
           "is zero at 0 °C",
           "decreases with an increase in temperature"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "காற்றில் ஒலியின் திசைவேகம்",
         "options": [
-          "வெப்பநிலையைச் சார்ந்ததன்று",
           "வெப்பநிலை உயரும்போது அதிகரிக்கும்",
+          "வெப்பநிலையைச் சார்ந்ததன்று",
           "0 °C-இல் சுழியாகும்",
           "வெப்பநிலை உயரும்போது குறையும்"
         ],
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 71,
       "quote": "1. What is a longitudinal wave?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "In a longitudinal wave, the particles of the medium vibrate",
         "options": [
           "only in a vacuum",
-          "parallel to the direction of propagation of the wave",
           "perpendicular to the direction of propagation",
+          "parallel to the direction of propagation of the wave",
           "in no fixed direction"
         ],
         "explanation": "Sound is a longitudinal wave consisting of compressions and rarefactions."
@@ -431,8 +431,8 @@
         "q": "நெட்டலையில் ஊடகத்தின் துகள்கள் அதிர்வுறுவது",
         "options": [
           "வெற்றிடத்தில் மட்டும்",
-          "அலை பரவும் திசைக்கு இணையாக",
           "அலை பரவும் திசைக்குச் செங்குத்தாக",
+          "அலை பரவும் திசைக்கு இணையாக",
           "குறிப்பிட்ட திசையின்றி"
         ],
         "explanation": "ஒலி இறுக்கங்களையும் தளர்ச்சிகளையும் கொண்ட நெட்டலை."
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 71,
       "quote": "3. What is the minimum distance needed for an echo?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The minimum distance between the source and the reflecting surface needed to hear an echo clearly in air is about",
         "options": [
           "1.72 m",
-          "172 m",
           "17.2 m",
+          "172 m",
           "34.4 m"
         ],
         "explanation": "The sensation of sound persists for 0.1 s; d = 344 × 0.1 / 2 = 17.2 m."
@@ -460,8 +460,8 @@
         "q": "காற்றில் எதிரொலியைத் தெளிவாகக் கேட்க, ஒலி மூலத்திற்கும் எதிரொலிக்கும் பரப்பிற்கும் இடையே தேவையான குறைந்தபட்சத் தொலைவு தோராயமாக",
         "options": [
           "1.72 மீ",
-          "172 மீ",
           "17.2 மீ",
+          "172 மீ",
           "34.4 மீ"
         ],
         "explanation": "ஒலியுணர்வு 0.1 வி நிலைக்கும்; d = 344 × 0.1/2 = 17.2 மீ."
@@ -474,12 +474,12 @@
       "bloom": "apply",
       "page": 71,
       "quote": "4. What will be the frequency sound having 0.20 m as its wavelength, when it travels with a speed of 331 ms–1?",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "A sound of wavelength 0.20 m travels at 331 m s⁻¹. Its frequency is",
         "options": [
-          "1655 Hz",
           "165.5 Hz",
+          "1655 Hz",
           "66.2 Hz",
           "16550 Hz"
         ],
@@ -488,8 +488,8 @@
       "ta": {
         "q": "0.20 மீ அலைநீளம் கொண்ட ஒலி 331 மீ வி⁻¹ வேகத்தில் பரவுகிறது. அதன் அதிர்வெண்",
         "options": [
-          "1655 Hz",
           "165.5 Hz",
+          "1655 Hz",
           "66.2 Hz",
           "16550 Hz"
         ],
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 71,
       "quote": "5. Name three animals, which can hear ultrasonic vibrations.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which of the following animals can hear ultrasonic vibrations?",
         "options": [
           "Cow",
-          "Frog",
           "Bat",
+          "Frog",
           "Hen"
         ],
         "explanation": "Dogs, bats and dolphins can hear ultrasonic sounds."
@@ -518,8 +518,8 @@
         "q": "மீயொலியை உணரக்கூடிய விலங்கு எது?",
         "options": [
           "பசு",
-          "தவளை",
           "வௌவால்",
+          "தவளை",
           "கோழி"
         ],
         "explanation": "நாய், வௌவால், டால்பின் ஆகியவை மீயொலியை உணரும்."
@@ -561,13 +561,13 @@
       "bloom": "apply",
       "page": 71,
       "quote": "3. Air temperature in the Rajasthan desert can reach 46°C. What is the velocity of sound in air at that temperature? (V0 = 331 ms–1)",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The air temperature in the Rajasthan desert can reach 46 °C. Taking v₀ = 331 m s⁻¹ at 0 °C, the velocity of sound at that temperature is about (v = v₀ + 0.6 T)",
         "options": [
           "331 m s⁻¹",
-          "358.6 m s⁻¹",
           "304.4 m s⁻¹",
+          "358.6 m s⁻¹",
           "377 m s⁻¹"
         ],
         "explanation": "v = 331 + 0.6 × 46 = 358.6 m s⁻¹."
@@ -576,8 +576,8 @@
         "q": "இராஜஸ்தான் பாலைவனத்தில் காற்றின் வெப்பநிலை 46 °C ஐ அடையும். 0 °C-இல் v₀ = 331 மீ வி⁻¹ எனில் அவ்வெப்பநிலையில் ஒலியின் திசைவேகம் தோராயமாக (v = v₀ + 0.6T)",
         "options": [
           "331 மீ வி⁻¹",
-          "358.6 மீ வி⁻¹",
           "304.4 மீ வி⁻¹",
+          "358.6 மீ வி⁻¹",
           "377 மீ வி⁻¹"
         ],
         "explanation": "v = 331 + 0.6 × 46 = 358.6 மீ வி⁻¹."
@@ -619,13 +619,13 @@
       "bloom": "remember",
       "page": 71,
       "quote": "5. Mention two cases in which there is no Doppler effect in sound?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "In which of the following cases is there NO Doppler effect?",
         "options": [
           "The source moves towards a stationary listener",
-          "The source and the listener move in mutually perpendicular directions",
           "The listener moves towards a stationary source",
+          "The source and the listener move in mutually perpendicular directions",
           "The source and the listener move away from each other"
         ],
         "explanation": "No Doppler effect occurs when both are at rest, when the distance between them stays constant, when they move in mutually perpendicular directions, or when the source is at the centre of the circle on which the listener moves."
@@ -634,8 +634,8 @@
         "q": "பின்வரும் எந்தச் சூழலில் டாப்ளர் விளைவு நிகழாது?",
         "options": [
           "ஒலி மூலம் ஓய்வுநிலைக் கேட்குநரை நோக்கி நகரும்போது",
-          "ஒலி மூலமும் கேட்குநரும் ஒன்றுக்கொன்று செங்குத்தான திசைகளில் நகரும்போது",
           "கேட்குநர் ஓய்வுநிலை ஒலி மூலத்தை நோக்கி நகரும்போது",
+          "ஒலி மூலமும் கேட்குநரும் ஒன்றுக்கொன்று செங்குத்தான திசைகளில் நகரும்போது",
           "ஒலி மூலமும் கேட்குநரும் ஒன்றையொன்று விட்டு விலகும்போது"
         ],
         "explanation": "இருவரும் ஓய்வில் இருக்கும்போது, இடைவெளி மாறாமல் இருக்கும்போது, செங்குத்துத் திசைகளில் நகரும்போது, மூலம் வட்டத்தின் மையத்தில் இருக்கும்போது டாப்ளர் விளைவு இல்லை."
@@ -648,12 +648,12 @@
       "bloom": "apply",
       "page": 71,
       "quote": "1. A sound wave has a frequency of 200 Hz and a speed of 400 ms–1 in a medium. Find the wavelength of the sound wave.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "A sound wave of frequency 200 Hz has a speed of 400 m s⁻¹ in a medium. Its wavelength is",
         "options": [
-          "2 m",
           "20 m",
+          "2 m",
           "80 m",
           "0.5 m"
         ],
@@ -662,8 +662,8 @@
       "ta": {
         "q": "200 Hz அதிர்வெண் கொண்ட ஒலி ஒரு ஊடகத்தில் 400 மீ வி⁻¹ வேகத்தில் பரவுகிறது. அதன் அலைநீளம்",
         "options": [
-          "2 மீ",
           "20 மீ",
+          "2 மீ",
           "80 மீ",
           "0.5 மீ"
         ],
@@ -677,14 +677,14 @@
       "bloom": "apply",
       "page": 71,
       "quote": "2. The thunder of cloud is heard 9.8 seconds later than the flash of lightning. If the speed of sound in air is 330 ms–1, what will be the height of the cloud?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Thunder is heard 9.8 s after the lightning flash. If the speed of sound in air is 330 m s⁻¹, the height of the cloud is",
         "options": [
           "1617 m",
           "6468 m",
-          "330 m",
-          "3234 m"
+          "3234 m",
+          "330 m"
         ],
         "explanation": "Height = v × t = 330 × 9.8 = 3234 m (light takes negligible time)."
       },
@@ -693,8 +693,8 @@
         "options": [
           "1617 மீ",
           "6468 மீ",
-          "330 மீ",
-          "3234 மீ"
+          "3234 மீ",
+          "330 மீ"
         ],
         "explanation": "உயரம் = vt = 330 × 9.8 = 3234 மீ (ஒளி செல்லும் நேரம் புறக்கணிக்கத்தக்கது)."
       }
@@ -706,14 +706,14 @@
       "bloom": "apply",
       "page": 71,
       "quote": "3. A person who is sitting at a distance of 400 m from a source of sound is listening to a sound of 600 Hz. Find the time period between successive compressions from the source?",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A listener sits 400 m from a source emitting sound of frequency 600 Hz. The time period between successive compressions is",
         "options": [
           "1/400 s",
-          "400/600 s",
+          "1/600 s",
           "600 s",
-          "1/600 s"
+          "400/600 s"
         ],
         "explanation": "T = 1/f = 1/600 s ≈ 1.67 × 10⁻³ s; it does not depend on the distance."
       },
@@ -721,9 +721,9 @@
         "q": "ஒலி மூலத்திலிருந்து 400 மீ தொலைவில் அமர்ந்துள்ள ஒருவர் 600 Hz ஒலியைக் கேட்கிறார். அடுத்தடுத்த இறுக்கங்களுக்கு இடையேயான காலம்",
         "options": [
           "1/400 வி",
-          "400/600 வி",
+          "1/600 வி",
           "600 வி",
-          "1/600 வி"
+          "400/600 வி"
         ],
         "explanation": "T = 1/f = 1/600 வி ≈ 1.67 × 10⁻³ வி; தொலைவைச் சார்ந்ததன்று."
       }
@@ -735,13 +735,13 @@
       "bloom": "apply",
       "page": 71,
       "quote": "4. An ultrasonic wave is sent from a ship towards the bottom of the sea. It is found that the time interval between the transmission and reception of the wave is 1.6 seconds. What is the depth of the sea, if the velocity of sound in the seawater is 1400 ms–1?",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "An ultrasonic pulse sent from a ship returns from the sea bottom after 1.6 s. If the speed of sound in sea water is 1400 m s⁻¹, the depth of the sea is",
         "options": [
-          "875 m",
-          "560 m",
           "1120 m",
+          "560 m",
+          "875 m",
           "2240 m"
         ],
         "explanation": "d = v t / 2 = 1400 × 1.6 / 2 = 1120 m."
@@ -749,9 +749,9 @@
       "ta": {
         "q": "கப்பலிலிருந்து கடலின் ஆழத்தை நோக்கி அனுப்பப்பட்ட மீயொலி 1.6 வினாடியில் திரும்பி வருகிறது. கடல் நீரில் ஒலியின் வேகம் 1400 மீ வி⁻¹ எனில் கடலின் ஆழம்",
         "options": [
-          "875 மீ",
-          "560 மீ",
           "1120 மீ",
+          "560 மீ",
+          "875 மீ",
           "2240 மீ"
         ],
         "explanation": "d = vt/2 = 1400 × 1.6/2 = 1120 மீ."
@@ -764,14 +764,14 @@
       "bloom": "apply",
       "page": 71,
       "quote": "6. Two observers are stationed in two boats 4.5 km apart. A sound signal sent by one, under water, reaches the other after 3 seconds. What is the speed of sound in the water?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "A sound signal sent under water by an observer reaches another observer in a boat 4.5 km away after 3 s. The speed of sound in water is",
         "options": [
           "15000 m s⁻¹",
           "750 m s⁻¹",
-          "1350 m s⁻¹",
-          "1500 m s⁻¹"
+          "1500 m s⁻¹",
+          "1350 m s⁻¹"
         ],
         "explanation": "v = 4500 m / 3 s = 1500 m s⁻¹."
       },
@@ -780,8 +780,8 @@
         "options": [
           "15000 மீ வி⁻¹",
           "750 மீ வி⁻¹",
-          "1350 மீ வி⁻¹",
-          "1500 மீ வி⁻¹"
+          "1500 மீ வி⁻¹",
+          "1350 மீ வி⁻¹"
         ],
         "explanation": "v = 4500 மீ / 3 வி = 1500 மீ வி⁻¹."
       }
@@ -793,13 +793,13 @@
       "bloom": "apply",
       "page": 71,
       "quote": "7. A strong sound signal is sent from a ship towards the bottom of the sea. It is received back after 1s. What is the depth of sea given that the speed of sound in water 1450 ms–1?",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "A sound signal sent from a ship is received back from the sea bottom after 1 s. If the speed of sound in water is 1450 m s⁻¹, the depth of the sea is",
         "options": [
-          "725 m",
-          "362.5 m",
           "1450 m",
+          "362.5 m",
+          "725 m",
           "2900 m"
         ],
         "explanation": "d = v t / 2 = 1450 × 1 / 2 = 725 m."
@@ -807,9 +807,9 @@
       "ta": {
         "q": "கப்பலிலிருந்து அனுப்பப்பட்ட ஒலிச் சைகை கடலடியில் பட்டு 1 வினாடியில் திரும்புகிறது. நீரில் ஒலியின் வேகம் 1450 மீ வி⁻¹ எனில் கடலின் ஆழம்",
         "options": [
-          "725 மீ",
-          "362.5 மீ",
           "1450 மீ",
+          "362.5 மீ",
+          "725 மீ",
           "2900 மீ"
         ],
         "explanation": "d = vt/2 = 1450 × 1/2 = 725 மீ."

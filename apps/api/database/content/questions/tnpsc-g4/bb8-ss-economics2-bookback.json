@@ -10,24 +10,24 @@
       "bloom": "remember",
       "page": 241,
       "quote": "1. The public sector in India owes its origin in the ______ Industrial policy resolution of the Government of India. a) 1957 b) 1958 c) 1966 d) 1956",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The public sector in India owes its origin to the Industrial Policy Resolution of ______.",
         "options": [
-          "1948",
+          "1956",
           "1957",
           "1966",
-          "1956"
+          "1948"
         ],
         "explanation": "The 1956 resolution classified industries into three categories: Schedule A, B and C."
       },
       "ta": {
         "q": "இந்தியாவின் பொதுத்துறை ______ ஆம் ஆண்டு தொழிற்கொள்கைத் தீர்மானத்தில் தோன்றியது.",
         "options": [
-          "1948",
+          "1956",
           "1957",
           "1966",
-          "1956"
+          "1948"
         ],
         "explanation": "1956 தீர்மானம் தொழில்களை A, B, C என மூன்று அட்டவணைகளாகப் பிரித்தது."
       }
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 246,
       "quote": "3. ______ is governed by a company law and controlled by the Government as principal major share holders. a) Private Sector b) Joint Sector c) Public Sector d) None of these",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which sector is governed by a company law and controlled by the Government as the principal major shareholder?",
         "options": [
-          "Joint sector",
-          "Private sector",
           "Co-operative sector",
+          "Private sector",
+          "Joint sector",
           "Departmental undertaking"
         ],
         "explanation": "Examples include Indian Oil Sky Tanking Ltd and Indian Synthetic Rubber Ltd."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "நிறுவனச் சட்டத்தால் ஆளப்பட்டு அரசு முதன்மைப் பங்குதாரராகக் கட்டுப்படுத்தும் துறை எது?",
         "options": [
-          "கூட்டுத்துறை",
-          "தனியார் துறை",
           "கூட்டுறவுத் துறை",
+          "தனியார் துறை",
+          "கூட்டுத்துறை",
           "அரசுத் துறைப் பணி"
         ],
         "explanation": "இந்தியன் ஆயில் ஸ்கை டேங்கிங் லிமிடெட், இந்தியன் சிந்தெடிக் ரப்பர் லிமிடெட் எடுத்துக்காட்டுகள்."
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 238,
       "quote": "4. Public sector is on ______ motive. a) Profit Motive b) Service Motive c) Speculative Motive d) None of these",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The public sector works on ______ motive.",
         "options": [
-          "profit",
-          "speculative",
           "service",
+          "speculative",
+          "profit",
           "precautionary"
         ],
         "explanation": "The private sector is on profit motive."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "பொதுத்துறை ______ நோக்கத்தில் செயல்படுகிறது.",
         "options": [
-          "இலாப",
-          "ஊக",
           "சேவை",
+          "ஊக",
+          "இலாப",
           "முன்னெச்சரிக்கை"
         ],
         "explanation": "தனியார் துறை இலாப நோக்கில் செயல்படுகிறது."
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 238,
       "quote": "II 1. The ______ are allotted their respective roles in promoting the economic welfare of all sections of the community.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "In promoting the economic welfare of all sections of the community, respective roles are allotted to the ______.",
         "options": [
-          "public sector and the private sector",
-          "Army and Navy",
           "Parliament and Judiciary",
+          "Army and Navy",
+          "public sector and the private sector",
           "State and local bodies only"
         ],
         "explanation": "The economic growth may be sustained at a maximum rate if the private and public sectors join hands."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "சமுதாயத்தின் அனைத்துப் பிரிவினரின் பொருளாதார நலனை மேம்படுத்தத் தத்தம் பங்குகள் ஒதுக்கப்பட்டவை ______.",
         "options": [
-          "பொதுத்துறையும் தனியார் துறையும்",
-          "தரைப்படையும் கடற்படையும்",
           "நாடாளுமன்றமும் நீதித்துறையும்",
+          "தரைப்படையும் கடற்படையும்",
+          "பொதுத்துறையும் தனியார் துறையும்",
           "மாநில, உள்ளாட்சி அமைப்புகள் மட்டும்"
         ],
         "explanation": "தனியாரும் அரசும் கைகோத்தால் பொருளாதார வளர்ச்சியை அதிகபட்சமாகத் தக்கவைக்கலாம்."
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 246,
       "quote": "4. The main function of private sector is to create ______",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The main function of the private sector is to create ______.",
         "options": [
           "monopolies",
-          "innovation and modernisation",
+          "tax revenue",
           "public welfare schemes",
-          "tax revenue"
+          "innovation and modernisation"
         ],
         "explanation": "The profit motive drives private firms to invent new techniques of production."
       },
@@ -228,9 +228,9 @@
         "q": "தனியார் துறையின் முதன்மைப் பணி ______ ஐ உருவாக்குவது.",
         "options": [
           "முற்றுரிமைகளை",
-          "புத்தாக்கத்தையும் நவீனமயத்தையும்",
+          "வரி வருவாயை",
           "பொது நலத் திட்டங்களை",
-          "வரி வருவாயை"
+          "புத்தாக்கத்தையும் நவீனமயத்தையும்"
         ],
         "explanation": "இலாப நோக்கு புதிய உற்பத்தி நுட்பங்களை உருவாக்கத் தூண்டுகிறது."
       }
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 238,
       "quote": "VI 1. Write short note on public sectors.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The sector engaged in providing government goods and services to the general public, fully owned, controlled and run by the government, is the ______.",
         "options": [
           "private sector",
-          "multinational sector",
+          "public sector",
           "co-operative sector",
-          "public sector"
+          "multinational sector"
         ],
         "explanation": "It may be run by the central, state or local government."
       },
@@ -315,9 +315,9 @@
         "q": "அரசின் பொருள்களையும் சேவைகளையும் பொதுமக்களுக்கு வழங்கும், முழுவதும் அரசுக்குச் சொந்தமான, அரசு கட்டுப்படுத்தி நடத்தும் துறை ______.",
         "options": [
           "தனியார் துறை",
-          "பன்னாட்டு நிறுவனத் துறை",
+          "பொதுத்துறை",
           "கூட்டுறவுத் துறை",
-          "பொதுத்துறை"
+          "பன்னாட்டு நிறுவனத் துறை"
         ],
         "explanation": "மத்திய, மாநில, உள்ளாட்சி அரசுகள் இதை நடத்தலாம்."
       }
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 240,
       "quote": "VI 4. What are the three organs of public sectors?",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Which of the following is an organ of the public sector?",
         "options": [
           "Sole proprietorship",
           "Joint Hindu family",
-          "Public corporation (e.g. LIC, RBI, FCI)",
-          "Partnership"
+          "Partnership",
+          "Public corporation (e.g. LIC, RBI, FCI)"
         ],
         "explanation": "The three organs are departmental undertakings, joint sector companies and public corporations."
       },
@@ -374,8 +374,8 @@
         "options": [
           "தனியுரிமை நிறுவனம்",
           "இந்து கூட்டுக் குடும்பம்",
-          "பொதுக் கழகம் (எ.கா. LIC, ரிசர்வ் வங்கி, இந்திய உணவுக் கழகம்)",
-          "கூட்டாண்மை நிறுவனம்"
+          "கூட்டாண்மை நிறுவனம்",
+          "பொதுக் கழகம் (எ.கா. LIC, ரிசர்வ் வங்கி, இந்திய உணவுக் கழகம்)"
         ],
         "explanation": "அரசுத் துறைப் பணி, கூட்டுத்துறை நிறுவனங்கள், பொதுக் கழகங்கள் ஆகியவை மூன்று அங்கங்கள்."
       }
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 242,
       "quote": "VI 5. Name some indicators that measure socio-economic development.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which of the following are indicators that measure socio-economic development?",
         "options": [
-          "GDP, life expectancy, literacy and employment",
-          "Black money and tax evasion",
           "Number of banks only",
+          "Black money and tax evasion",
+          "GDP, life expectancy, literacy and employment",
           "Number of tourists only"
         ],
         "explanation": "Socio-economic development is measured with indicators."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "சமூகப் பொருளாதார மேம்பாட்டை அளக்கும் குறியீடுகள் எவை?",
         "options": [
-          "GDP, ஆயுள் எதிர்பார்ப்பு, கல்வியறிவு, வேலைவாய்ப்பு",
-          "கருப்புப் பணம், வரி ஏய்ப்பு",
           "வங்கிகளின் எண்ணிக்கை மட்டும்",
+          "கருப்புப் பணம், வரி ஏய்ப்பு",
+          "GDP, ஆயுள் எதிர்பார்ப்பு, கல்வியறிவு, வேலைவாய்ப்பு",
           "சுற்றுலாப் பயணிகளின் எண்ணிக்கை மட்டும்"
         ],
         "explanation": "இக்குறியீடுகளால் சமூகப் பொருளாதார மேம்பாடு அளவிடப்படுகிறது."
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 245,
       "quote": "VI 6. Write short note on Private sector.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The segment of a national economy that is owned, controlled and managed by private individuals or enterprises is known as the ______.",
         "options": [
           "public sector",
-          "joint sector",
+          "private sector",
           "departmental undertaking",
-          "private sector"
+          "joint sector"
         ],
         "explanation": "It is run by individuals and companies rather than the government."
       },
@@ -431,9 +431,9 @@
         "q": "தனிநபர்கள் அல்லது நிறுவனங்களுக்குச் சொந்தமாகி அவர்களால் கட்டுப்படுத்தப்பட்டு நிர்வகிக்கப்படும் தேசியப் பொருளாதாரப் பிரிவு ______ எனப்படும்.",
         "options": [
           "பொதுத்துறை",
-          "கூட்டுத்துறை",
+          "தனியார் துறை",
           "அரசுத் துறைப் பணி",
-          "தனியார் துறை"
+          "கூட்டுத்துறை"
         ],
         "explanation": "இதை அரசு அன்றி தனிநபர்களும் நிறுவனங்களும் நடத்துகின்றன."
       }
@@ -445,12 +445,12 @@
       "bloom": "remember",
       "page": 246,
       "quote": "VI 7. Name any three Major Private Sector industries.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Which of the following is a major private company mentioned in the lesson?",
         "options": [
-          "Indian Railways",
           "Infosys",
+          "Indian Railways",
           "SAIL",
           "BSNL"
         ],
@@ -459,8 +459,8 @@
       "ta": {
         "q": "பாடத்தில் குறிப்பிடப்பட்டுள்ள முக்கியத் தனியார் நிறுவனம் எது?",
         "options": [
-          "இந்திய இரயில்வே",
           "இன்ஃபோசிஸ்",
+          "இந்திய இரயில்வே",
           "செயில் (SAIL)",
           "பி.எஸ்.என்.எல்."
         ],

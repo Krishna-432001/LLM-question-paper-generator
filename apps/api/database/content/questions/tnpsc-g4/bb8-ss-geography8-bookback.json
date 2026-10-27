@@ -39,12 +39,12 @@
       "bloom": "remember",
       "page": 165,
       "quote": "2. A map that shows the physical features of an area is called ____. a) Cadastral map b) Relief map c) Climatic map d) Resource map",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "A map that shows the physical features of an area is called a ______.",
         "options": [
-          "cadastral map",
           "relief map",
+          "cadastral map",
           "climatic map",
           "resource map"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "ஒரு பகுதியின் இயற்கை அம்சங்களைக் காட்டும் புவிப்படம் ______ எனப்படும்.",
         "options": [
-          "காணிப் புவிப்படம்",
           "நிலத்தோற்ற புவிப்படம்",
+          "காணிப் புவிப்படம்",
           "காலநிலை புவிப்படம்",
           "வளப் புவிப்படம்"
         ],
@@ -68,24 +68,24 @@
       "bloom": "remember",
       "page": 162,
       "quote": "3. Shallow water bodies are represented by _____ colour. a) Yellow b) Brown c) Light blue d) Dark blue",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Shallow water bodies are represented in a relief map by ______ colour.",
         "options": [
-          "light blue",
+          "dark blue",
           "yellow",
           "brown",
-          "dark blue"
+          "light blue"
         ],
         "explanation": "The sea is generally coloured blue."
       },
       "ta": {
         "q": "ஆழம் குறைந்த நீர்ப்பகுதிகள் ______ வண்ணத்தால் குறிக்கப்படுகின்றன.",
         "options": [
-          "வெளிர் நீலம்",
+          "அடர் நீலம்",
           "மஞ்சள்",
           "பழுப்பு",
-          "அடர் நீலம்"
+          "வெளிர் நீலம்"
         ],
         "explanation": "கடல் பொதுவாக நீல நிறத்தில் காட்டப்படும்."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 162,
       "quote": "4. The maps which are known as plans are. a) Cadastral maps b) Topographical maps c) Isoline maps d) Transport maps",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which maps are sometimes known as 'plans' because they are on a large scale?",
         "options": [
-          "Topographical maps",
-          "Isoline maps",
           "Cadastral maps",
+          "Isoline maps",
+          "Topographical maps",
           "Transport maps"
         ],
         "explanation": "They show full details of boundaries and buildings."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "பெரிய அளவையில் வரையப்படுவதால் சில சமயங்களில் 'பிளான்கள்' என அழைக்கப்படும் புவிப்படங்கள் ______.",
         "options": [
-          "தலப்படங்கள்",
-          "சம அளவுக்கோட்டுப் படங்கள்",
           "காணிப் புவிப்படங்கள்",
+          "சம அளவுக்கோட்டுப் படங்கள்",
+          "தலப்படங்கள்",
           "போக்குவரத்துப் படங்கள்"
         ],
         "explanation": "இவை எல்லைகளையும் கட்டடங்களையும் முழு விவரத்துடன் காட்டும்."
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 163,
       "quote": "5. Actual distribution of population can be represented by _____. a) Lines b) Shades c) Dots d) Contours",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The actual distribution of population can be represented on a map by ______.",
         "options": [
-          "dots",
-          "lines",
           "shades",
+          "lines",
+          "dots",
           "contours"
         ],
         "explanation": "A dot-density map uses dots to show values; each dot represents some amount of data."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "மக்கள்தொகையின் உண்மையான பரவலை ______ மூலம் காண்பிக்கலாம்.",
         "options": [
-          "புள்ளிகள்",
-          "கோடுகள்",
           "நிழற்பட்டைகள்",
+          "கோடுகள்",
+          "புள்ளிகள்",
           "சம உயரக்கோடுகள்"
         ],
         "explanation": "புள்ளியடர்த்திப் படத்தில் ஒவ்வொரு புள்ளியும் குறிப்பிட்ட அளவு தரவைக் குறிக்கும்."
@@ -184,24 +184,24 @@
       "bloom": "remember",
       "page": 161,
       "quote": "2. A way of representing the spherical earth on a flat surface is ______.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "A way of representing the spherical earth on a flat surface of a map is called ______.",
         "options": [
-          "map scale",
+          "map projection",
           "legend",
           "cadastral survey",
-          "map projection"
+          "map scale"
         ],
         "explanation": "Cartographers use projections to reduce distortions."
       },
       "ta": {
         "q": "புவியின் கோள வடிவத்தைச் சமதளப் பரப்பில் வரையும் முறை ______ எனப்படும்.",
         "options": [
-          "புவிப்பட அளவை",
+          "புவிப்படத் திட்டம் (வரைபட வீழல்)",
           "புவிப்பட விளக்கம்",
           "காணி அளவை",
-          "புவிப்படத் திட்டம் (வரைபட வீழல்)"
+          "புவிப்பட அளவை"
         ],
         "explanation": "சிதைவுகளைக் குறைக்க இம்முறை பயன்படுகிறது."
       }
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 162,
       "quote": "4. Cadastral maps are usually maintained by ______.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Cadastral maps are usually maintained by the ______.",
         "options": [
           "private surveyors",
-          "government",
           "newspapers",
+          "government",
           "tourist agencies"
         ],
         "explanation": "They are a matter of public record."
@@ -257,8 +257,8 @@
         "q": "காணிப் புவிப்படங்கள் பொதுவாக ______ ஆல் பராமரிக்கப்படுகின்றன.",
         "options": [
           "தனியார் அளவையாளர்",
-          "அரசு",
           "செய்தித்தாள்கள்",
+          "அரசு",
           "சுற்றுலா நிறுவனங்கள்"
         ],
         "explanation": "இவை பொதுப் பதிவேடாகும்."
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 162,
       "quote": "5. ______ map is focused on a specific theme.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which map focuses on a specific theme or subject such as rainfall distribution or population density?",
         "options": [
-          "Thematic map",
-          "Relief map",
           "Cadastral map",
+          "Relief map",
+          "Thematic map",
           "General reference map"
         ],
         "explanation": "General reference maps do not focus on any specific theme."
@@ -285,9 +285,9 @@
       "ta": {
         "q": "மழைப்பரவல், மக்கள்தொகை அடர்த்தி போன்ற குறிப்பிட்ட கருப்பொருளை மையமாகக் கொண்ட புவிப்படம் ______.",
         "options": [
-          "கருத்துப் படம்",
-          "நிலத்தோற்றப் படம்",
           "காணிப் படம்",
+          "நிலத்தோற்றப் படம்",
+          "கருத்துப் படம்",
           "பொதுப் புவிப்படம்"
         ],
         "explanation": "பொதுப் புவிப்படங்கள் குறிப்பிட்ட கருப்பொருளை மையப்படுத்துவதில்லை."
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 166,
       "quote": "III Choose the option which matches the following correctly: A. Legend - 4. Key of a map; B. North East - 1. 45°; C. Contour Line - 2. Brown colour; D. Cadastral map - 5. Taxation; E. Choropleth - 3. Thematic map",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Match List I with List II and choose the correct option.\nA. Legend  B. North East  C. Contour line  D. Cadastral map  E. Choropleth\n1. 45°  2. Brown colour  3. Thematic map  4. Key of a map  5. Taxation",
         "options": [
           "A-3, B-5, C-1, D-4, E-2",
           "A-2, B-5, C-1, D-3, E-4",
-          "A-4, B-1, C-2, D-5, E-3",
-          "A-5, B-2, C-4, D-1, E-3"
+          "A-5, B-2, C-4, D-1, E-3",
+          "A-4, B-1, C-2, D-5, E-3"
         ],
         "explanation": "Legend is the key of a map; north-east is 45 degrees; contours are shown in brown; cadastral maps serve taxation; a choropleth is a thematic map."
       },
@@ -316,8 +316,8 @@
         "options": [
           "A-3, B-5, C-1, D-4, E-2",
           "A-2, B-5, C-1, D-3, E-4",
-          "A-4, B-1, C-2, D-5, E-3",
-          "A-5, B-2, C-4, D-1, E-3"
+          "A-5, B-2, C-4, D-1, E-3",
+          "A-4, B-1, C-2, D-5, E-3"
         ],
         "explanation": "புவிப்பட விளக்கம் திறவுகோல்; வடகிழக்கு 45°; சம உயரக்கோடு பழுப்பு; காணிப்படம் வரிவிதிப்புக்கு; நிழற்பட்டைப் படம் கருத்துப்படம்."
       }
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 158,
       "quote": "V 1. Define 'Map scale'.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Map scale is the ratio between ______.",
         "options": [
           "latitude and longitude",
           "two maps of the same area",
-          "the area of a country and its population",
-          "the actual distance on the ground and the distance shown on the map"
+          "the actual distance on the ground and the distance shown on the map",
+          "the area of a country and its population"
         ],
         "explanation": "Maps are drawn to scale because cartographers cannot draw them at the same size as the land."
       },
@@ -403,8 +403,8 @@
         "options": [
           "அட்சத்திற்கும் தீர்க்கத்திற்கும்",
           "ஒரே பகுதியின் இரு படங்களுக்கும்",
-          "நாட்டின் பரப்பிற்கும் மக்கள்தொகைக்கும்",
-          "தரையிலுள்ள உண்மைத் தொலைவுக்கும் படத்தில் காட்டப்படும் தொலைவுக்கும்"
+          "தரையிலுள்ள உண்மைத் தொலைவுக்கும் படத்தில் காட்டப்படும் தொலைவுக்கும்",
+          "நாட்டின் பரப்பிற்கும் மக்கள்தொகைக்கும்"
         ],
         "explanation": "நிலத்தின் அளவிலேயே படம் வரைய இயலாததால் அளவைக்கு ஏற்ப வரையப்படுகிறது."
       }
@@ -416,12 +416,12 @@
       "bloom": "remember",
       "page": 161,
       "quote": "V 3. Write a short note on map projection. V 4. Name the Intermediate directions.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Which of the following are the intermediate directions on a map?",
         "options": [
-          "North, south, east and west",
           "North-east, north-west, south-east and south-west",
+          "North, south, east and west",
           "Latitude and longitude",
           "Zenith and nadir"
         ],
@@ -430,8 +430,8 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் புவிப்படத்தின் இடைநிலைத் திசைகள் எவை?",
         "options": [
-          "வடக்கு, தெற்கு, கிழக்கு, மேற்கு",
           "வடகிழக்கு, வடமேற்கு, தென்கிழக்கு, தென்மேற்கு",
+          "வடக்கு, தெற்கு, கிழக்கு, மேற்கு",
           "அட்சம், தீர்க்கம்",
           "உச்சி, அடி"
         ],
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 162,
       "quote": "V 5. What are the uses of a cadastral map?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Cadastral maps are useful for ______.",
         "options": [
           "showing rainfall distribution",
-          "showing mountains and deserts",
           "local administration such as city survey, taxation and defining property in legal documents",
+          "showing mountains and deserts",
           "navigating ships"
         ],
         "explanation": "Cadastral surveys were originally used for reliable facts for land valuation and taxation."
@@ -460,8 +460,8 @@
         "q": "காணிப் புவிப்படங்கள் ______ பயன்படுகின்றன.",
         "options": [
           "மழைப்பரவலைக் காட்ட",
-          "மலைகள், பாலைவனங்களைக் காட்ட",
           "நகர அளவை, வரிவிதிப்பு, சட்ட ஆவணங்களில் சொத்தை வரையறுத்தல் போன்ற உள்ளூர் நிர்வாகத்திற்கு",
+          "மலைகள், பாலைவனங்களைக் காட்ட",
           "கப்பல்களை வழிநடத்த"
         ],
         "explanation": "நில மதிப்பீடு, வரிவிதிப்புக்கு நம்பகத் தகவல் பெறவே இவை தொடக்கத்தில் பயன்பட்டன."
@@ -474,12 +474,12 @@
       "bloom": "remember",
       "page": 158,
       "quote": "VI 2. Large scale map and small scale map.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "To show a small area like a taluk or district, ______ maps are used.",
         "options": [
-          "large scale",
           "small scale",
+          "large scale",
           "thematic only",
           "relief only"
         ],
@@ -488,8 +488,8 @@
       "ta": {
         "q": "தாலுகா, மாவட்டம் போன்ற சிறிய பகுதியைக் காட்ட ______ புவிப்படங்கள் பயன்படுகின்றன.",
         "options": [
-          "பெரிய அளவைப்",
           "சிறிய அளவைப்",
+          "பெரிய அளவைப்",
           "கருத்துப்",
           "நிலத்தோற்றப்"
         ],
@@ -532,14 +532,14 @@
       "bloom": "remember",
       "page": 161,
       "quote": "VII 3. Write a paragraph about the conventional signs and symbols.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Symbols falling under an international agreement for use in maps are called ______, while those decided by cartographers are called contextual symbols.",
         "options": [
           "thematic symbols",
-          "conventional symbols",
+          "graphic symbols",
           "relief symbols",
-          "graphic symbols"
+          "conventional symbols"
         ],
         "explanation": "The symbols are explained in the key of the map."
       },
@@ -547,9 +547,9 @@
         "q": "புவிப்படங்களில் பயன்படுத்தச் சர்வதேச உடன்பாடு உள்ள குறியீடுகள் ______ எனப்படும்; புவிப்படம் வரைவோர் தீர்மானிப்பவை சூழல் குறியீடுகள்.",
         "options": [
           "கருத்துக் குறியீடுகள்",
-          "மரபுக் குறியீடுகள்",
+          "வரைபடக் குறியீடுகள்",
           "நிலத்தோற்றக் குறியீடுகள்",
-          "வரைபடக் குறியீடுகள்"
+          "மரபுக் குறியீடுகள்"
         ],
         "explanation": "இக்குறியீடுகள் புவிப்படத்தின் திறவுகோலில் விளக்கப்படுகின்றன."
       }

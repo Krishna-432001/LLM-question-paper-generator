@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 296,
       "quote": "1. We take age group ______ years for computation of the workforce. a. 12-60 b. 15-60 c. 21-65 d. 5-14",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The textbook takes which age group for the computation of the workforce?",
         "options": [
-          "15-60 years",
-          "12-60 years",
           "21-65 years",
+          "12-60 years",
+          "15-60 years",
           "5-14 years"
         ],
         "explanation": "Persons below 15 are children and those above 60 are excluded as not physically fit for productive occupation."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "உழைப்பாளர் குழுவைக் கணக்கிட எடுத்துக்கொள்ளப்படும் வயது வரம்பு (நூலின்படி)",
         "options": [
-          "15-60 ஆண்டுகள்",
-          "12-60 ஆண்டுகள்",
           "21-65 ஆண்டுகள்",
+          "12-60 ஆண்டுகள்",
+          "15-60 ஆண்டுகள்",
           "5-14 ஆண்டுகள்"
         ],
         "explanation": "15 வயதுக்குக் கீழுள்ளோர் குழந்தைகள்; 60க்கு மேற்பட்டோர் உழைப்பிலிருந்து விலக்கப்படுகின்றனர்."
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 296,
       "quote": "3. Which one of the following sectors is the largest employer in India. a. Primary Sector b. Secondary Sector c. Tertiary Sector d. Public sector",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which sector is the largest employer in India?",
         "options": [
-          "Secondary sector",
-          "Tertiary sector",
           "Primary sector",
+          "Tertiary sector",
+          "Secondary sector",
           "Public sector"
         ],
         "explanation": "In developing countries like India, a large workforce is engaged in the primary sector."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "இந்தியாவில் மிகப்பெரிய வேலைவாய்ப்புத் துறை எது?",
         "options": [
-          "இரண்டாம் துறை",
-          "சார்புத் துறை",
           "முதன்மைத் துறை",
+          "சார்புத் துறை",
+          "இரண்டாம் துறை",
           "பொதுத் துறை"
         ],
         "explanation": "இந்தியா போன்ற வளரும் நாடுகளில் பெரும்பாலோர் முதன்மைத் துறையில் ஈடுபடுகின்றனர்."
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 296,
       "quote": "4. Which one of the following is not in Primary Sector a. Agriculture b. Manufacturing c. Mining d. Fishery",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which of the following does NOT belong to the primary sector?",
         "options": [
           "Agriculture",
-          "Manufacturing",
+          "Mining",
           "Fishery",
-          "Mining"
+          "Manufacturing"
         ],
         "explanation": "Primary activities extract raw materials; manufacturing belongs to the secondary sector."
       },
@@ -112,9 +112,9 @@
         "q": "பின்வருவனவற்றுள் முதன்மைத் துறையைச் சார்ந்தது அல்லாதது",
         "options": [
           "வேளாண்மை",
-          "உற்பத்தி",
+          "சுரங்கத் தொழில்",
           "மீன்பிடித் தொழில்",
-          "சுரங்கத் தொழில்"
+          "உற்பத்தி"
         ],
         "explanation": "உற்பத்தி இரண்டாம் துறையைச் சார்ந்தது."
       }
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 296,
       "quote": "5. Which one of the following is not in the Secondary Sector? a. Construction b. Manufacturing c. Small Scale Industry d. Forestry",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which of the following does NOT belong to the secondary sector?",
         "options": [
-          "Forestry",
-          "Construction",
           "Manufacturing",
+          "Construction",
+          "Forestry",
           "Small scale industry"
         ],
         "explanation": "Forestry is a primary activity."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் இரண்டாம் துறையைச் சார்ந்தது அல்லாதது",
         "options": [
-          "காடுகள் (வனத்தொழில்)",
-          "கட்டுமானம்",
           "உற்பத்தி",
+          "கட்டுமானம்",
+          "காடுகள் (வனத்தொழில்)",
           "சிறு தொழில்"
         ],
         "explanation": "வனத்தொழில் முதன்மைத் துறையைச் சார்ந்தது."
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 297,
       "quote": "10. ______ sector is registered and follows government rules. a. Agriculture b. Organised c. Unorganised d. Private",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which sector is registered and follows government rules and regulations?",
         "options": [
           "Unorganised sector",
-          "Organised sector",
+          "Informal sector",
           "Agriculture sector",
-          "Informal sector"
+          "Organised sector"
         ],
         "explanation": "Employees of central and state governments, banks, railways and insurance are in the organised sector."
       },
@@ -228,9 +228,9 @@
         "q": "பதிவு செய்யப்பட்டு அரசு விதிகளைப் பின்பற்றும் துறை",
         "options": [
           "ஒழுங்கமைக்கப்படாத துறை",
-          "ஒழுங்கமைக்கப்பட்ட துறை",
+          "முறைசாராத் துறை",
           "வேளாண்மைத் துறை",
-          "முறைசாராத் துறை"
+          "ஒழுங்கமைக்கப்பட்ட துறை"
         ],
         "explanation": "அரசு, வங்கி, ரயில்வே, காப்பீடு ஊழியர்கள் இத்துறையினர்."
       }
@@ -242,24 +242,24 @@
       "bloom": "remember",
       "page": 297,
       "quote": "11. ______ sector provides job security and higher wages. a. Public sector b. Organised sector c. Unorganised sector d. Private sector",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which sector provides job security and higher wages than the unorganised sector?",
         "options": [
-          "Unorganised sector",
+          "Organised sector",
           "Household sector",
           "Street trade sector",
-          "Organised sector"
+          "Unorganised sector"
         ],
         "explanation": "Organised sector gives fixed working hours, paid holidays, medical allowance and insurance."
       },
       "ta": {
         "q": "வேலைப் பாதுகாப்பையும் அதிக ஊதியத்தையும் வழங்கும் துறை",
         "options": [
-          "ஒழுங்கமைக்கப்படாத துறை",
+          "ஒழுங்கமைக்கப்பட்ட துறை",
           "வீட்டுத் துறை",
           "தெருவணிகத் துறை",
-          "ஒழுங்கமைக்கப்பட்ட துறை"
+          "ஒழுங்கமைக்கப்படாத துறை"
         ],
         "explanation": "நிலையான பணிநேரம், விடுமுறை, மருத்துவப்படி, காப்பீடு இத்துறையில் உண்டு."
       }
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 297,
       "quote": "II. 1. In ______ sector, the employment terms are not fixed and regular.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "In which sector are the employment terms not fixed and regular?",
         "options": [
           "Public sector",
-          "Organised sector",
           "Unorganised sector",
+          "Organised sector",
           "Banking sector"
         ],
         "explanation": "Unorganised enterprises are not registered with the government and offer no job security."
@@ -344,8 +344,8 @@
         "q": "வேலைவாய்ப்பு நிலையானதாகவும் முறையானதாகவும் இல்லாத துறை",
         "options": [
           "பொதுத் துறை",
-          "ஒழுங்கமைக்கப்பட்ட துறை",
           "ஒழுங்கமைக்கப்படாத துறை",
+          "ஒழுங்கமைக்கப்பட்ட துறை",
           "வங்கித் துறை"
         ],
         "explanation": "இத்துறை நிறுவனங்கள் அரசிடம் பதிவு செய்யப்படுவதில்லை."
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 297,
       "quote": "II. 3. ______ has always featured as an important element of development policy in India.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which has always featured as an important element of development policy in India?",
         "options": [
           "Tourism",
-          "Employment",
+          "Exports only",
           "Mining only",
-          "Exports only"
+          "Employment"
         ],
         "explanation": "Employment growth has averaged about 2% over the four decades since 1972-73."
       },
@@ -373,9 +373,9 @@
         "q": "இந்தியாவின் வளர்ச்சிக் கொள்கையில் எப்போதும் முக்கிய உறுப்பாக இடம்பெறுவது",
         "options": [
           "சுற்றுலா",
-          "வேலைவாய்ப்பு",
+          "ஏற்றுமதி மட்டும்",
           "சுரங்கம் மட்டும்",
-          "ஏற்றுமதி மட்டும்"
+          "வேலைவாய்ப்பு"
         ],
         "explanation": "1972-73 முதல் நான்கு பத்தாண்டுகளில் சராசரி வேலைவாய்ப்பு வளர்ச்சி ஏறத்தாழ 2%."
       }
@@ -387,24 +387,24 @@
       "bloom": "remember",
       "page": 297,
       "quote": "II. 4. Employment pattern changes due to ______.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "According to the textbook, employment pattern changes mainly due to",
         "options": [
-          "the size of rivers",
+          "the lifestyle of the people",
           "the amount of rainfall",
           "the number of schools only",
-          "the lifestyle of the people"
+          "the size of rivers"
         ],
         "explanation": "Trends: increasing self-employment, fewer full-time employees with more short-term contracts, and growth in part-time employment."
       },
       "ta": {
         "q": "நூலின்படி வேலைவாய்ப்பு முறை மாறுவதற்கான காரணம்",
         "options": [
-          "ஆறுகளின் அளவு",
+          "மக்களின் வாழ்க்கை முறை",
           "மழையளவு",
           "பள்ளிகளின் எண்ணிக்கை மட்டும்",
-          "மக்களின் வாழ்க்கை முறை"
+          "ஆறுகளின் அளவு"
         ],
         "explanation": "சுயவேலை அதிகரிப்பு, குறுகியகால ஒப்பந்தம், பகுதிநேர வேலை அதிகரிப்பு ஆகியவை போக்குகள்."
       }
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 297,
       "quote": "II. 5. The nature of employment in India is ______.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The nature of employment in India is",
         "options": [
           "uniform",
           "single-sector",
-          "seasonal only",
-          "multi-dimensional"
+          "multi-dimensional",
+          "seasonal only"
         ],
         "explanation": "Some get employment throughout the year; others for only a few months in a year."
       },
@@ -432,8 +432,8 @@
         "options": [
           "ஒரே சீரானது",
           "ஒரு துறை சார்ந்தது",
-          "பருவகாலத்திற்கு மட்டும்",
-          "பல பரிமாணங்கள் கொண்டது"
+          "பல பரிமாணங்கள் கொண்டது",
+          "பருவகாலத்திற்கு மட்டும்"
         ],
         "explanation": "சிலருக்கு ஆண்டு முழுவதும் வேலை; சிலருக்குச் சில மாதங்கள் மட்டும்."
       }
@@ -445,14 +445,14 @@
       "bloom": "remember",
       "page": 297,
       "quote": "II. 7. Public sector means ______.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Public sector means",
         "options": [
           "privately owned firms",
-          "government undertakings",
+          "household industries",
           "partnership firms",
-          "household industries"
+          "government undertakings"
         ],
         "explanation": "Examples: NLC, SAIL, BSNL."
       },
@@ -460,9 +460,9 @@
         "q": "பொதுத் துறை என்பது",
         "options": [
           "தனியார் நிறுவனங்கள்",
-          "அரசு நிறுவனங்கள்",
+          "வீட்டுத் தொழில்கள்",
           "பங்குதாரர் நிறுவனங்கள்",
-          "வீட்டுத் தொழில்கள்"
+          "அரசு நிறுவனங்கள்"
         ],
         "explanation": "என்.எல்.சி., செயில், பி.எஸ்.என்.எல். ஆகியவை எடுத்துக்காட்டுகள்."
       }
@@ -532,14 +532,14 @@
       "bloom": "remember",
       "page": 298,
       "quote": "IV. 2. Why are children and old age (above 60 years) not considered for computation of workforce?",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Children (below 15) and persons above 60 are excluded from the workforce because",
         "options": [
           "the law forbids them to study",
           "they never work",
-          "they are considered not physically fit to undertake productive occupation",
-          "they have more income"
+          "they have more income",
+          "they are considered not physically fit to undertake productive occupation"
         ],
         "explanation": "A large share of children and old persons slows progress because a small working force must maintain a larger non-working force."
       },
@@ -548,8 +548,8 @@
         "options": [
           "சட்டம் தடுப்பதால்",
           "அவர்கள் வேலையே செய்வதில்லை என்பதால்",
-          "உற்பத்தித் தொழில் செய்ய உடல் தகுதியற்றவர்களாகக் கருதப்படுவதால்",
-          "அவர்களுக்கு அதிக வருவாய் இருப்பதால்"
+          "அவர்களுக்கு அதிக வருவாய் இருப்பதால்",
+          "உற்பத்தித் தொழில் செய்ய உடல் தகுதியற்றவர்களாகக் கருதப்படுவதால்"
         ],
         "explanation": "குறைந்த உழைப்பாளர் குழு அதிக உழைக்காதோரைப் பராமரிக்க வேண்டியிருக்கும்."
       }
@@ -590,12 +590,12 @@
       "bloom": "remember",
       "page": 298,
       "quote": "IV. 4. Agriculture, despite a sharp decline in Gross Domestic Product, continues to be the largest employer in Tamil Nadu. Give reason.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "According to the textbook, agriculture remains the largest employer in Tamil Nadu despite its falling GDP share because",
         "options": [
-          "non-agriculture sectors are yet to generate enough employment to shift the labour force",
           "there is no industry in the state",
+          "non-agriculture sectors are yet to generate enough employment to shift the labour force",
           "agriculture has the highest wages",
           "the government forbids job changes"
         ],
@@ -604,8 +604,8 @@
       "ta": {
         "q": "பாடநூலின்படி, வேளாண்மையின் உள்நாட்டு உற்பத்திப் பங்கு குறைந்தாலும் தமிழ்நாட்டில் அது அதிக வேலை தரும் துறையாகத் தொடர்வதற்குக் காரணம்",
         "options": [
-          "வேளாண்மை அல்லாத துறைகள் உழைப்பாளர்கள் மாறப் போதிய வேலையை இன்னும் உருவாக்கவில்லை",
           "மாநிலத்தில் தொழில்கள் இல்லை",
+          "வேளாண்மை அல்லாத துறைகள் உழைப்பாளர்கள் மாறப் போதிய வேலையை இன்னும் உருவாக்கவில்லை",
           "வேளாண்மையில் அதிக ஊதியம்",
           "வேலை மாறுவதை அரசு தடுக்கிறது"
         ],

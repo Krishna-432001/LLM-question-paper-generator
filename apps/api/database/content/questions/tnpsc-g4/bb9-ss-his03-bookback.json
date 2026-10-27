@@ -10,12 +10,12 @@
       "bloom": "remember",
       "page": 50,
       "quote": "1. The name of the script used in the Sangam Age: English / Devanagari / Tamil-Brahmi / Granta",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Which script was used to write Tamil in the Sangam Age?",
         "options": [
-          "Devanagari",
           "Tamil-Brahmi",
+          "Devanagari",
           "Granta",
           "English"
         ],
@@ -24,8 +24,8 @@
       "ta": {
         "q": "சங்க காலத்தில் பயன்படுத்தப்பட்ட எழுத்து முறை எது?",
         "options": [
-          "தேவநாகரி",
           "தமிழ்-பிராமி",
+          "தேவநாகரி",
           "கிரந்தம்",
           "ஆங்கிலம்"
         ],
@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 50,
       "quote": "2. The Sri Lankan chronicle composed in the Pali language mentioning about merchants and horse traders from Tamil Nadu: Deepa vamsa / Arthasastra / Mahavamsa / Indica",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which Sri Lankan Buddhist chronicle in Pali mentions merchants and horse traders from Tamil Nadu?",
         "options": [
           "Deepavamsa",
-          "Arthasastra",
+          "Mahavamsa",
           "Indica",
-          "Mahavamsa"
+          "Arthasastra"
         ],
         "explanation": "The Mahavamsa mentions merchants and horse traders from South India; the Arthasastra is Kautilya's work."
       },
@@ -54,9 +54,9 @@
         "q": "பாலி மொழியில் எழுதப்பட்ட, தமிழகத்து வணிகர், குதிரை வணிகர்களைக் குறிப்பிடும் இலங்கை பௌத்த வரலாற்று நூல் எது?",
         "options": [
           "தீபவம்சம்",
-          "அர்த்தசாஸ்திரம்",
+          "மகாவம்சம்",
           "இண்டிகா",
-          "மகாவம்சம்"
+          "அர்த்தசாஸ்திரம்"
         ],
         "explanation": "மகாவம்சம் தமிழகத்து வணிகர், குதிரை வணிகர்களைக் குறிப்பிடுகிறது."
       }
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 50,
       "quote": "3. The notable Chola king credited with bringing forest lands under the plough and developing irrigational facilities: Karikalan / Rajarajan I / Kulothungan / Rajendran I",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The Sangam Chola king credited with bringing forest lands under the plough and developing irrigation was:",
         "options": [
           "Rajaraja I",
           "Kulothunga I",
-          "Karikalan",
-          "Rajendra I"
+          "Rajendra I",
+          "Karikalan"
         ],
         "explanation": "Karikalan used the Kaveri waters effectively and laid the foundation for later Chola irrigation."
       },
@@ -84,8 +84,8 @@
         "options": [
           "முதலாம் இராஜராஜன்",
           "குலோத்துங்கன்",
-          "கரிகாலன்",
-          "முதலாம் இராஜேந்திரன்"
+          "முதலாம் இராஜேந்திரன்",
+          "கரிகாலன்"
         ],
         "explanation": "கரிகாலன் காவிரி நீரைப் பயன்படுத்தி நீர்ப்பாசனத்துக்கு அடித்தளமிட்டார்."
       }
@@ -97,24 +97,24 @@
       "bloom": "remember",
       "page": 50,
       "quote": "4. Inscription that mentions the Cheras: Pugalur / Girnar / Pulimankombai / Madurai",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which inscription mentions the Chera kings of three generations?",
         "options": [
-          "Pugalur inscription",
+          "Madurai inscription",
           "Girnar inscription",
           "Pulimankombai inscription",
-          "Madurai inscription"
+          "Pugalur inscription"
         ],
         "explanation": "The Pugalur inscriptions near Karur mention three generations of Chera kings."
       },
       "ta": {
         "q": "சேரர்களைக் குறிப்பிடும் கல்வெட்டு எது?",
         "options": [
-          "புகளூர்",
+          "மதுரை",
           "கிர்னார்",
           "புலிமான்கோம்பை",
-          "மதுரை"
+          "புகளூர்"
         ],
         "explanation": "கரூர் அருகிலுள்ள புகளூர் கல்வெட்டு மூன்று தலைமுறைச் சேர மன்னர்களைக் குறிப்பிடுகிறது."
       }
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 50,
       "quote": "5. (i) Coins as a medium of exchange were introduced for the first time in the Mesolithic Age. (ii) Prakrit was the language used by the common people in Northern India during the Mauryan period. (iii) Vienna Papyrus, a Roman document, mentions trade related to Muziri. (iv) The concept of Thinai is presented in the Tamil grammar work of Pathupaattu.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Consider the statements:\n(i) Coins as a medium of exchange were first introduced in the Mesolithic Age.\n(ii) Prakrit was the language of the common people of northern India during the Mauryan period.\n(iii) The Vienna Papyrus, a Latin document, mentions trade related to Muziris.\n(iv) The concept of Thinai is presented in the Tamil grammar work Pathupaattu.\nWhich is correct?",
         "options": [
-          "(ii) only",
-          "(i) only",
           "(ii) and (iii)",
+          "(i) only",
+          "(ii) only",
           "(iii) and (iv)"
         ],
         "explanation": "Coins began in the Sangam Age; the Vienna Papyrus is a Greek document; Thinai is in the Tholkappiyam. Only (ii) is correct."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "பின்வரும் கூற்றுகளைக் கவனி:\n(i) நாணயங்கள் பரிமாற்ற ஊடகமாக இடைக்கற்காலத்தில் அறிமுகமாயின.\n(ii) மௌரியர் காலத்தில் வட இந்தியச் சாதாரண மக்களின் மொழி பிராகிருதம்.\n(iii) வியன்னா பாப்பிரஸ் ஒரு இலத்தீன் ஆவணம்; முசிறி வணிகத்தைக் குறிப்பிடுகிறது.\n(iv) திணைக் கோட்பாடு பத்துப்பாட்டு இலக்கண நூலில் உள்ளது.\nசரியானது எது?",
         "options": [
-          "(ii) மட்டும்",
-          "(i) மட்டும்",
           "(ii), (iii)",
+          "(i) மட்டும்",
+          "(ii) மட்டும்",
           "(iii), (iv)"
         ],
         "explanation": "நாணயங்கள் சங்க காலத்தில் அறிமுகம்; வியன்னா பாப்பிரஸ் கிரேக்க ஆவணம்; திணை தொல்காப்பியத்தில் உள்ளது."
@@ -155,12 +155,12 @@
       "bloom": "remember",
       "page": 51,
       "quote": "6. (i) Pathitrupathu speaks about the Pandya kings. (ii) The Akanaanuru describes the trading activities at Kaveripoompattinam. (iii) The Chola Emblem was the tiger and they issued square copper coins with images of a tiger. (iv) Neythal is a sandy desert region.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Consider the statements:\n(i) Pathitrupathu speaks about the Pandya kings and their territory.\n(ii) Akanaanuru describes trading at Kaveripoompattinam.\n(iii) The Chola emblem was the tiger and they issued square copper coins with a tiger.\n(iv) Neythal is a sandy desert region.\nWhich is correct?",
         "options": [
-          "(iii) only",
           "(ii) and (iii)",
+          "(iii) only",
           "(i) only",
           "(iv) only"
         ],
@@ -169,8 +169,8 @@
       "ta": {
         "q": "பின்வரும் கூற்றுகளைக் கவனி:\n(i) பதிற்றுப்பத்து பாண்டிய மன்னர்களைப் பற்றிக் கூறுகிறது.\n(ii) அகநானூறு காவிரிப்பூம்பட்டின வணிகத்தை விவரிக்கிறது.\n(iii) சோழரின் சின்னம் புலி; புலி பொறித்த சதுர செப்பு நாணயங்களை வெளியிட்டனர்.\n(iv) நெய்தல் மணல் நிறைந்த பாலை நிலம்.\nசரியானது எது?",
         "options": [
-          "(iii) மட்டும்",
           "(ii), (iii)",
+          "(iii) மட்டும்",
           "(i) மட்டும்",
           "(iv) மட்டும்"
         ],
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 51,
       "quote": "II.2 ____ refers to systematically digging a site to recover material evidence for exploring societies of the past",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Systematically digging a site to recover material evidence of past societies is called:",
         "options": [
-          "epigraphy",
-          "stratigraphy",
           "archaeological excavation",
+          "stratigraphy",
+          "epigraphy",
           "numismatics"
         ],
         "explanation": "Archaeological excavation recovers material evidence."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "கடந்த கால சமூகங்களை அறியப் பொருள் சான்றுகளைப் பெற ஓர் இடத்தை முறையாகத் தோண்டுதல் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "கல்வெட்டியல்",
-          "அடுக்கியல்",
           "தொல்லியல் அகழாய்வு",
+          "அடுக்கியல்",
+          "கல்வெட்டியல்",
           "நாணயவியல்"
         ],
         "explanation": "தொல்லியல் அகழாய்வு பொருள் சான்றுகளை வெளிக்கொணர்கிறது."
@@ -271,12 +271,12 @@
       "bloom": "remember",
       "page": 51,
       "quote": "II.4 ____ is a poetic theme which means a class or category and refers to a habitat or eco-zone",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "A poetic theme meaning a class or category, referring to a habitat or eco-zone, is:",
         "options": [
-          "Akam",
           "Thinai",
+          "Akam",
           "Puram",
           "Yavana"
         ],
@@ -285,8 +285,8 @@
       "ta": {
         "q": "வகை அல்லது பிரிவு எனப் பொருள்படும், சூழல் மண்டலத்தைக் குறிக்கும் பாடுபொருள் எது?",
         "options": [
-          "அகம்",
           "திணை",
+          "அகம்",
           "புறம்",
           "யவனர்"
         ],
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 51,
       "quote": "II.5 ____ referred to the Westerners, including the Greeks, Romans and West Asian people.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Westerners including Greeks, Romans and West Asians were referred to in Tamil as:",
         "options": [
           "Panar",
-          "Antanar",
+          "Yavanar",
           "Umanar",
-          "Yavanar"
+          "Antanar"
         ],
         "explanation": "Yavana derives from the Greek region of Ionia."
       },
@@ -315,9 +315,9 @@
         "q": "கிரேக்கர், ரோமானியர், மேற்காசியர் ஆகிய மேற்கத்தியர் தமிழில் எவ்வாறு குறிக்கப்பட்டனர்?",
         "options": [
           "பாணர்",
-          "அந்தணர்",
+          "யவனர்",
           "உமணர்",
-          "யவனர்"
+          "அந்தணர்"
         ],
         "explanation": "யவனர் என்ற சொல் கிரேக்கப் பகுதியான அயோனியாவிலிருந்து வந்தது."
       }
@@ -329,14 +329,14 @@
       "bloom": "remember",
       "page": 51,
       "quote": "III.1 a) Evidence of iron smelting has been found in Kodumanal and Guttur. b) Periplus ... pepper trade. c) Punch marked coins ... mostly made of gold. d) The Sangam Age has its roots in the Bronze Age.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Early Tamil Society and Culture: Which statement is correct?",
         "options": [
           "Punch-marked coins were mostly of gold.",
           "The Periplus of the Erythrean Sea was written in Latin.",
-          "Evidence of iron smelting has been found at Kodumanal and Guttur.",
-          "The Sangam Age has its roots in the Bronze Age."
+          "The Sangam Age has its roots in the Bronze Age.",
+          "Evidence of iron smelting has been found at Kodumanal and Guttur."
         ],
         "explanation": "Punch-marked coins were mostly silver; the Sangam Age has roots in the Iron Age; the Periplus was written in Greek."
       },
@@ -345,8 +345,8 @@
         "options": [
           "முத்திரை நாணயங்கள் பெரும்பாலும் தங்கத்தால் ஆனவை.",
           "எரித்திரியக் கடல் பெரிப்ளஸ் இலத்தீனில் எழுதப்பட்டது.",
-          "கொடுமணல், குட்டூரில் இரும்பு உருக்கியதற்கான சான்றுகள் கிடைத்துள்ளன.",
-          "சங்க காலம் வெண்கலக் காலத்தில் வேர்கொண்டது."
+          "சங்க காலம் வெண்கலக் காலத்தில் வேர்கொண்டது.",
+          "கொடுமணல், குட்டூரில் இரும்பு உருக்கியதற்கான சான்றுகள் கிடைத்துள்ளன."
         ],
         "explanation": "முத்திரை நாணயங்கள் வெள்ளியால் ஆனவை; சங்க காலம் இரும்புக் காலத்தில் வேர்கொண்டது; பெரிப்ளஸ் கிரேக்க மொழியில் எழுதப்பட்டது."
       }
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 51,
       "quote": "III.2 a) The Cheras ruled over Kaveri delta and their capital was Uraiyur. b) The Maangulam Tamil-Brahmi inscriptions mention the King Karikalan. c) The terms Vanikan and Nigama appear in Tamil-Brahmi inscriptions were different types of merchants. d) Salt merchants were called Vanikars...",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Early Tamil Society and Culture: Which of the following is correct?",
         "options": [
           "The Cheras ruled the Kaveri delta from Uraiyur.",
-          "The terms vanikan and nigama (guild) appear in Tamil-Brahmi inscriptions.",
           "The Mangulam inscription mentions King Karikalan.",
+          "The terms vanikan and nigama (guild) appear in Tamil-Brahmi inscriptions.",
           "Salt merchants were called Vanikars."
         ],
         "explanation": "Cholas ruled the Kaveri delta from Uraiyur; Mangulam names Nedunchezhiyan; salt merchants were Umanars."
@@ -373,8 +373,8 @@
         "q": "பின்வருவனவற்றுள் சரியானது எது?",
         "options": [
           "சேரர் உறையூரைத் தலைநகராகக் கொண்டு காவிரி டெல்டாவை ஆண்டனர்.",
-          "'வணிகன்', 'நிகமம்' (வணிகக் குழு) ஆகிய சொற்கள் தமிழ்-பிராமிக் கல்வெட்டுகளில் காணப்படுகின்றன.",
           "மாங்குளம் கல்வெட்டு கரிகாலனைக் குறிக்கிறது.",
+          "'வணிகன்', 'நிகமம்' (வணிகக் குழு) ஆகிய சொற்கள் தமிழ்-பிராமிக் கல்வெட்டுகளில் காணப்படுகின்றன.",
           "உப்பு வணிகர்கள் வாணிகர் எனப்பட்டனர்."
         ],
         "explanation": "உறையூர் சோழர் தலைநகரம்; மாங்குளம் கல்வெட்டு நெடுஞ்செழியனைக் குறிக்கிறது; உப்பு வணிகர் உமணர்."
@@ -387,24 +387,24 @@
       "bloom": "remember",
       "page": 51,
       "quote": "IV. Match: Epigraphy - the study of inscriptions; Chronicle - a narrative text presenting important historical events; Cameo - an ornament made in precious stone; Arikkamedu - a Sangam Age port; Pastoralism - nomadic people rearing cattle",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Match:\na) Epigraphy\nb) Chronicle\nc) Cameo\nd) Arikkamedu\n1. A Sangam Age port\n2. An ornament made in precious stone\n3. Study of inscriptions\n4. A narrative text of important events in order",
         "options": [
-          "a-4, b-3, c-2, d-1",
+          "a-3, b-4, c-2, d-1",
           "a-3, b-4, c-1, d-2",
           "a-2, b-4, c-3, d-1",
-          "a-3, b-4, c-2, d-1"
+          "a-4, b-3, c-2, d-1"
         ],
         "explanation": "Epigraphy – study of inscriptions; chronicle – narrative of events; cameo – carved gem ornament; Arikkamedu – Sangam port."
       },
       "ta": {
         "q": "பொருத்துக:\nஅ) கல்வெட்டியல்\nஆ) வரலாற்றுக் குறிப்பு (குரோனிக்கிள்)\nஇ) கேமியோ\nஈ) அரிக்கமேடு\n1. சங்க கால துறைமுகம்\n2. விலையுயர்ந்த கல்லில் செய்த அணிகலன்\n3. கல்வெட்டுகள் பற்றிய ஆய்வு\n4. முக்கிய நிகழ்வுகளை வரிசையாகக் கூறும் நூல்",
         "options": [
-          "அ-4, ஆ-3, இ-2, ஈ-1",
+          "அ-3, ஆ-4, இ-2, ஈ-1",
           "அ-3, ஆ-4, இ-1, ஈ-2",
           "அ-2, ஆ-4, இ-3, ஈ-1",
-          "அ-3, ஆ-4, இ-2, ஈ-1"
+          "அ-4, ஆ-3, இ-2, ஈ-1"
         ],
         "explanation": "கல்வெட்டியல் – கல்வெட்டு ஆய்வு; குரோனிக்கிள் – நிகழ்வுத் தொகுப்பு; கேமியோ – அணிகலன்; அரிக்கமேடு – துறைமுகம்."
       }
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 51,
       "quote": "Pastoralism - nomadic people earning livelihood by rearing cattle, sheep and goat",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Nomadic people earning their livelihood by rearing cattle, sheep and goats practise:",
         "options": [
           "shifting cultivation",
-          "barter",
           "pastoralism",
+          "barter",
           "urbanisation"
         ],
         "explanation": "Pastoralism means livelihood by rearing livestock."
@@ -431,8 +431,8 @@
         "q": "கால்நடைகளை வளர்த்து நாடோடியாக வாழ்க்கை நடத்துவது?",
         "options": [
           "புனம் சாகுபடி",
-          "பண்டமாற்று",
           "மேய்ச்சல் வாழ்க்கை (கால்நடை வளர்ப்பு)",
+          "பண்டமாற்று",
           "நகரமயமாதல்"
         ],
         "explanation": "கால்நடைகளை வளர்த்து வாழ்வது மேய்ச்சல் வாழ்க்கை."

@@ -10,12 +10,12 @@
       "bloom": "remember",
       "page": 52,
       "quote": "Introduction: Einstein has mentioned that he was always attracted by magnets in his childhood. In the olden days magnets were used in the ships to identify the direction of the ship in the sea.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "According to the book, in olden days magnets were used in ships to",
         "options": [
-          "measure the speed of the ship",
           "identify the direction of the ship in the sea",
+          "measure the speed of the ship",
           "generate electricity",
           "measure the depth of water"
         ],
@@ -24,8 +24,8 @@
       "ta": {
         "q": "நூலின்படி பண்டைக்காலத்தில் கப்பல்களில் காந்தங்கள் பயன்படுத்தப்பட்டது",
         "options": [
-          "கப்பலின் வேகத்தை அளக்க",
           "கடலில் கப்பலின் திசையை அறிய",
+          "கப்பலின் வேகத்தை அளக்க",
           "மின்சாரம் தயாரிக்க",
           "நீரின் ஆழத்தை அளக்க"
         ],
@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 52,
       "quote": "The strongest natural magnet is lodestone magnetite. The magnetic property in the natural magnets is permanent. It never gets destroyed.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The strongest natural magnet is",
         "options": [
           "iron filings",
           "bar magnet",
-          "electromagnet",
-          "lodestone (magnetite)"
+          "lodestone (magnetite)",
+          "electromagnet"
         ],
         "explanation": "Lodestone magnetite is the strongest natural magnet; its magnetic property is permanent."
       },
@@ -55,8 +55,8 @@
         "options": [
           "இரும்புத் துகள்கள்",
           "கோல் காந்தம்",
-          "மின்காந்தம்",
-          "லோடுஸ்டோன் (மேக்னடைட்)"
+          "லோடுஸ்டோன் (மேக்னடைட்)",
+          "மின்காந்தம்"
         ],
         "explanation": "மேக்னடைட்டான லோடுஸ்டோன் வலிமையான இயற்கைக் காந்தம்; அதன் காந்தப் பண்பு நிரந்தரமானது."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 53,
       "quote": "The direction of the magnetic field around a magnet can be found by placing a small compass in the magnetic field.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The direction of the magnetic field around a magnet can be found by placing a",
         "options": [
           "spring balance in the field",
-          "small compass in the field",
           "voltmeter in the field",
+          "small compass in the field",
           "thermometer in the field"
         ],
         "explanation": "A small compass needle aligns along the magnetic field and shows its direction."
@@ -112,8 +112,8 @@
         "q": "ஒரு காந்தத்தைச் சுற்றியுள்ள காந்தப்புலத்தின் திசையை அறிய, புலத்தில் வைக்க வேண்டியது",
         "options": [
           "சுருள்வில் தராசு",
-          "சிறிய திசைகாட்டி",
           "வோல்ட்மீட்டர்",
+          "சிறிய திசைகாட்டி",
           "வெப்பமானி"
         ],
         "explanation": "திசைகாட்டி ஊசி புலத்தின் வழியே நிற்பதால் அதன் திசையைக் காட்டும்."
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 53,
       "quote": "The Earth produces its own magnetic field, which shields the earth's ozone layer from the solar wind and it is important for navigation also.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Magnetic field can penetrate through",
         "options": [
           "air only",
-          "all kinds of materials, not just air",
           "metals only",
+          "all kinds of materials, not just air",
           "vacuum only"
         ],
         "explanation": "The book notes that magnetic field can penetrate through all kinds of materials, not just air. (The book says Earth's field shields the 'ozone layer' from solar wind; strictly it shields the atmosphere.)"
@@ -141,8 +141,8 @@
         "q": "காந்தப்புலம் ஊடுருவிச் செல்லக் கூடியது",
         "options": [
           "காற்றை மட்டும்",
-          "எல்லா வகைப் பொருட்களையும் (காற்றை மட்டுமல்ல)",
           "உலோகங்களை மட்டும்",
+          "எல்லா வகைப் பொருட்களையும் (காற்றை மட்டுமல்ல)",
           "வெற்றிடத்தை மட்டும்"
         ],
         "explanation": "காந்தப்புலம் காற்றை மட்டுமன்றி எல்லாப் பொருட்களையும் ஊடுருவும். (புவிக் காந்தப்புலம் சூரியக் காற்றிலிருந்து 'ஓசோன் படலத்தை' காக்கிறது என நூல் கூறுகிறது; சரியாக, அது வளிமண்டலத்தைக் காக்கிறது.)"
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 53,
       "quote": "Some sea turtles (loggerhead sea turtle) return to their birth beach many decades after they were born. The turtles can perceive variations in magnetic parameters of Earth such as magnetic field intensity and remember them.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Loggerhead sea turtles are able to return to their birth beach decades later because they can perceive variations in the Earth's",
         "options": [
           "gravity at the sea floor",
-          "magnetic field intensity",
           "ocean salinity only",
+          "magnetic field intensity",
           "moon phases only"
         ],
         "explanation": "Research suggests turtles perceive variations in magnetic parameters of the Earth, such as magnetic field intensity, and remember them."
@@ -170,8 +170,8 @@
         "q": "லாகர்ஹெட் கடல் ஆமைகள் பல பத்தாண்டுகளுக்குப் பிறகும் தாம் பிறந்த கடற்கரைக்குத் திரும்புவதற்குக் காரணம், அவை புவியின் எந்த மாறுபாடுகளை உணர்கின்றன?",
         "options": [
           "கடலடி ஈர்ப்பு",
-          "காந்தப்புல வலிமை",
           "கடல்நீர் உப்புத்தன்மை மட்டும்",
+          "காந்தப்புல வலிமை",
           "நிலவின் பிறைகள் மட்டும்"
         ],
         "explanation": "புவியின் காந்தப்புல வலிமை போன்ற காந்த அளவுருக்களின் மாறுபாட்டை ஆமைகள் உணர்ந்து நினைவில் கொள்கின்றன என ஆய்வு கூறுகிறது."
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 53,
       "quote": "Magnetic flux is the number of magnetic field lines passing through a given area. It is denoted by phi and its unit is weber (Wb).",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The unit of magnetic flux is the",
         "options": [
           "tesla",
-          "gauss per metre",
+          "weber",
           "ohm",
-          "weber"
+          "gauss per metre"
         ],
         "explanation": "Magnetic flux (phi) is the number of field lines passing through an area; its unit is weber (Wb)."
       },
@@ -199,9 +199,9 @@
         "q": "காந்தப் பாயத்தின் அலகு",
         "options": [
           "டெஸ்லா",
-          "கௌஸ் / மீட்டர்",
+          "வெபர்",
           "ஓம்",
-          "வெபர்"
+          "கௌஸ் / மீட்டர்"
         ],
         "explanation": "காந்தப் பாயம் (phi) என்பது ஒரு பரப்பைக் கடக்கும் காந்தப் புலக்கோடுகளின் எண்ணிக்கை; அலகு வெபர் (Wb)."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 54,
       "quote": "It was on 21st April 1820, Hans Christian Oersted, a Danish Physicist was giving a lecture. ... the needle of the magnetic compass deflected whenever he switched on and the current was flowing.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The magnetic effect of current was discovered by the Danish physicist",
         "options": [
           "Michael Faraday",
           "H. A. Lorentz",
-          "Hans Christian Oersted",
-          "John Ambrose Fleming"
+          "John Ambrose Fleming",
+          "Hans Christian Oersted"
         ],
         "explanation": "Oersted noticed in 1820 that a compass needle deflected when current flowed in a wire."
       },
@@ -258,8 +258,8 @@
         "options": [
           "மைக்கேல் ஃபாரடே",
           "எச். ஏ. லோரன்ட்ஸ்",
-          "ஹான்ஸ் கிறிஸ்டியன் ஆயர்ஸ்டெட்",
-          "ஜான் ஆம்புரோஸ் ஃபிளெமிங்"
+          "ஜான் ஆம்புரோஸ் ஃபிளெமிங்",
+          "ஹான்ஸ் கிறிஸ்டியன் ஆயர்ஸ்டெட்"
         ],
         "explanation": "1820-இல் கம்பியில் மின்னோட்டம் பாயும்போது திசைகாட்டி ஊசி திரும்புவதை ஆயர்ஸ்டெட் கண்டறிந்தார்."
       }
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 54,
       "quote": "Oersted ... When the circuit was open the needle of both the compasses was pointing to north. Once the circuit was closed the needle at A pointed to east and the needle at B to the west. This showed that current carrying conductor produces magnetic field around it.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "In Oersted's experiment, when the circuit was open and no current was flowing, the compass needles",
         "options": [
           "pointed to east",
-          "pointed to north",
+          "rotated continuously",
           "pointed to west",
-          "rotated continuously"
+          "pointed to north"
         ],
         "explanation": "Without current both compass needles pointed north; with current they deflected, showing a magnetic field around the wire."
       },
@@ -286,9 +286,9 @@
         "q": "ஆயர்ஸ்டெட் சோதனையில் சுற்று திறந்திருந்து மின்னோட்டம் இல்லாதபோது திசைகாட்டி ஊசிகள்",
         "options": [
           "கிழக்கு நோக்கி நின்றன",
-          "வடக்கு நோக்கி நின்றன",
+          "தொடர்ந்து சுழன்றன",
           "மேற்கு நோக்கி நின்றன",
-          "தொடர்ந்து சுழன்றன"
+          "வடக்கு நோக்கி நின்றன"
         ],
         "explanation": "மின்னோட்டம் இல்லாதபோது இரு ஊசிகளும் வடக்கை நோக்கின; மின்னோட்டத்தில் திசை மாறின."
       }
@@ -300,12 +300,12 @@
       "bloom": "remember",
       "page": 54,
       "quote": "The direction of the magnetic lines around a current carrying conductor can be easily understood using the right hand thumb rule. This shows that the magnetic field is always perpendicular to the direction of current.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The magnetic field around a straight current-carrying conductor is always",
         "options": [
-          "perpendicular to the direction of current",
           "zero",
+          "perpendicular to the direction of current",
           "parallel to the current",
           "directed only north"
         ],
@@ -314,8 +314,8 @@
       "ta": {
         "q": "மின்னோட்டம் பாயும் நேரான கடத்தியைச் சுற்றியுள்ள காந்தப்புலம் எப்போதும்",
         "options": [
-          "மின்னோட்டத் திசைக்குச் செங்குத்தாக அமையும்",
           "சுழியாக இருக்கும்",
+          "மின்னோட்டத் திசைக்குச் செங்குத்தாக அமையும்",
           "மின்னோட்டத்திற்கு இணையாக அமையும்",
           "வடக்கு நோக்கி மட்டும் இருக்கும்"
         ],
@@ -329,12 +329,12 @@
       "bloom": "remember",
       "page": 55,
       "quote": "H.A. Lorentz found that a charge moving in a magnetic field, in a direction other than the direction of magnetic field, experiences a force. It is called the magnetic Lorentz force.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "A charge moving in a magnetic field in a direction other than that of the field experiences a force called the",
         "options": [
-          "magnetic Lorentz force",
           "centripetal force",
+          "magnetic Lorentz force",
           "buoyant force",
           "gravitational force"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "காந்தப்புலத்தில் புலத் திசையல்லாத திசையில் இயங்கும் மின்னூட்டம் உணரும் விசை",
         "options": [
-          "காந்த லோரன்ட்ஸ் விசை",
           "மையநோக்கு விசை",
+          "காந்த லோரன்ட்ஸ் விசை",
           "மிதப்பு விசை",
           "ஈர்ப்பு விசை"
         ],
@@ -358,24 +358,24 @@
       "bloom": "remember",
       "page": 55,
       "quote": "In 1821, Michael Faraday discovered that a current carrying conductor also gets deflected when it is placed in a magnetic field.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "In 1821 Michael Faraday discovered that",
         "options": [
-          "a current carrying conductor placed in a magnetic field gets deflected",
+          "light is an electromagnetic wave",
           "magnetic field is produced by a charge at rest",
           "transformers work on DC",
-          "light is an electromagnetic wave"
+          "a current carrying conductor placed in a magnetic field gets deflected"
         ],
         "explanation": "The field of the magnet and that of the conductor interact and produce a force on the conductor."
       },
       "ta": {
         "q": "1821-இல் மைக்கேல் ஃபாரடே கண்டறிந்தது",
         "options": [
-          "காந்தப்புலத்தில் வைக்கப்பட்ட மின்னோட்டம் பாயும் கடத்தி திசைமாறுகிறது",
+          "ஒளி ஒரு மின்காந்த அலை",
           "ஓய்வில் உள்ள மின்னூட்டம் காந்தப்புலத்தை உண்டாக்குகிறது",
           "மின்மாற்றி DC-யில் வேலை செய்கிறது",
-          "ஒளி ஒரு மின்காந்த அலை"
+          "காந்தப்புலத்தில் வைக்கப்பட்ட மின்னோட்டம் பாயும் கடத்தி திசைமாறுகிறது"
         ],
         "explanation": "காந்தத்தின் புலமும் கடத்தியின் புலமும் இடைவினை புரிந்து கடத்தியின் மீது விசையை உண்டாக்குகின்றன."
       }
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 56,
       "quote": "Fleming's Left hand rule (formulated by John Ambrose Fleming): the thumb of the left hand denotes the direction of the force or movement of the conductor.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Fleming's left hand rule is used to find the direction of the",
         "options": [
           "induced current in a coil",
-          "magnetic field of a bar magnet",
+          "force on a current-carrying conductor in a magnetic field",
           "electric field of a charge",
-          "force on a current-carrying conductor in a magnetic field"
+          "magnetic field of a bar magnet"
         ],
         "explanation": "Left hand rule: force/motion of the conductor; it is applied in electric motors."
       },
@@ -402,9 +402,9 @@
         "q": "ஃபிளெமிங்கின் இடக்கை விதி எதன் திசையைக் காணப் பயன்படுகிறது?",
         "options": [
           "சுருளில் தூண்டப்பட்ட மின்னோட்டம்",
-          "கோல் காந்தத்தின் காந்தப்புலம்",
+          "காந்தப்புலத்தில் மின்னோட்டம் பாயும் கடத்தியின் மீதான விசை",
           "மின்னூட்டத்தின் மின்புலம்",
-          "காந்தப்புலத்தில் மின்னோட்டம் பாயும் கடத்தியின் மீதான விசை"
+          "கோல் காந்தத்தின் காந்தப்புலம்"
         ],
         "explanation": "இடக்கை விதி கடத்தியின் மீதான விசை/இயக்கத் திசையைத் தரும்; மோட்டாரில் பயன்படுகிறது."
       }
@@ -416,14 +416,14 @@
       "bloom": "apply",
       "page": 56,
       "quote": "Force on the conductor F = ILB (Problem 1: conductor of length 50 cm carrying 5 A placed perpendicular to a field of 2 x 10^-3 T).",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "A conductor of length 50 cm carrying a current of 5 A is placed perpendicular to a magnetic field of 2 x 10^-3 T. The force on it is",
         "options": [
           "5 x 10^-2 N",
-          "5 x 10^-3 N",
+          "2 x 10^-3 N",
           "0.5 N",
-          "2 x 10^-3 N"
+          "5 x 10^-3 N"
         ],
         "explanation": "F = ILB = 5 x 0.5 x 2 x 10^-3 = 5 x 10^-3 N."
       },
@@ -431,9 +431,9 @@
         "q": "50 செ.மீ நீளமும் 5 A மின்னோட்டமும் உள்ள கடத்தி 2 x 10^-3 T காந்தப்புலத்திற்குச் செங்குத்தாக உள்ளது. அதன் மீதான விசை",
         "options": [
           "5 x 10^-2 N",
-          "5 x 10^-3 N",
+          "2 x 10^-3 N",
           "0.5 N",
-          "2 x 10^-3 N"
+          "5 x 10^-3 N"
         ],
         "explanation": "F = ILB = 5 x 0.5 x 2 x 10^-3 = 5 x 10^-3 N."
       }
@@ -445,14 +445,14 @@
       "bloom": "apply",
       "page": 56,
       "quote": "Problem 2: current is increased four times, length is halved and magnetic field is tripled: F = (4I)(L/2)(3B) = 6F.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "If the current through a conductor is increased four times, its length halved and the magnetic field tripled, the force becomes",
         "options": [
           "12 times",
           "3 times",
-          "24 times",
-          "6 times"
+          "6 times",
+          "24 times"
         ],
         "explanation": "F = ILB; new force = 4 x 1/2 x 3 = 6 times."
       },
@@ -461,8 +461,8 @@
         "options": [
           "12 மடங்காகும்",
           "3 மடங்காகும்",
-          "24 மடங்காகும்",
-          "6 மடங்காகும்"
+          "6 மடங்காகும்",
+          "24 மடங்காகும்"
         ],
         "explanation": "F = ILB; புதிய விசை = 4 x 1/2 x 3 = 6 மடங்கு."
       }
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 57,
       "quote": "Connection between Electricity and Magnetism: After Oersted's experiment the electricity and magnetism were united and became a single subject called 'Electromagnetism'.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "After Oersted's experiment, electricity and magnetism were united into a single subject called",
         "options": [
           "thermodynamics",
           "electrostatics",
-          "electromagnetism",
-          "optics"
+          "optics",
+          "electromagnetism"
         ],
         "explanation": "Before this people thought magnetism and electricity were separate subjects."
       },
@@ -490,8 +490,8 @@
         "options": [
           "வெப்ப இயக்கவியல்",
           "நிலை மின்னியல்",
-          "மின்காந்தவியல்",
-          "ஒளியியல்"
+          "ஒளியியல்",
+          "மின்காந்தவியல்"
         ],
         "explanation": "முன்பு இவை தனித்தனிப் பாடங்களாகக் கருதப்பட்டன; பின்னர் மின்காந்தவியல் எனும் ஒரே பிரிவாயின."
       }
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 58,
       "quote": "Only in the twentieth century, we understood that the magnetic property arises due to the motion of electrons in the lodestone.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The magnetic property of a lodestone arises due to the",
         "options": [
           "presence of neutrons",
-          "presence of protons only",
           "motion of electrons in it",
+          "presence of protons only",
           "its colour"
         ],
         "explanation": "Every orbiting electron is like a current-carrying loop; in magnetic materials these effects add up to give a permanent magnetic field."
@@ -518,8 +518,8 @@
         "q": "லோடுஸ்டோனின் காந்தப் பண்பு தோன்றக் காரணம்",
         "options": [
           "நியூட்ரான்கள் இருப்பது",
-          "புரோட்டான்கள் மட்டும்",
           "அதிலுள்ள எலக்ட்ரான்களின் இயக்கம்",
+          "புரோட்டான்கள் மட்டும்",
           "அதன் நிறம்"
         ],
         "explanation": "சுற்றும் ஒவ்வோர் எலக்ட்ரானும் மின்னோட்டம் பாயும் வளையம் போன்றது; காந்தப் பொருட்களில் இவை கூடி நிலையான காந்தப்புலம் தோன்றும்."
@@ -532,24 +532,24 @@
       "bloom": "remember",
       "page": 58,
       "quote": "An electric motor is a device which converts electrical energy into mechanical energy. They are used in water pump, fan, washing machine, mixer, grinder etc.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which of the following does NOT use an electric motor?",
         "options": [
-          "Bulb",
+          "Grinder",
           "Fan",
           "Washing machine",
-          "Grinder"
+          "Bulb"
         ],
         "explanation": "Electric motors are used in water pumps, fans, washing machines, mixers and grinders."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் மின்மோட்டாரைப் பயன்படுத்தாதது",
         "options": [
-          "மின்குமிழ்",
+          "அரைப்பான் (கிரைண்டர்)",
           "மின்விசிறி",
           "துணி துவைக்கும் இயந்திரம்",
-          "அரைப்பான் (கிரைண்டர்)"
+          "மின்குமிழ்"
         ],
         "explanation": "நீரிறைப்பான், மின்விசிறி, துவைக்கும் இயந்திரம், மிக்ஸி, கிரைண்டர் ஆகியவை மோட்டாரைப் பயன்படுத்துகின்றன."
       }
@@ -561,12 +561,12 @@
       "bloom": "remember",
       "page": 58,
       "quote": "To change the direction of the current, a small device called split ring commutator is used. The reversing of the current is repeated at each half rotation, giving rise to a continuous rotation of the coil.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The device that reverses the current in the coil of a DC motor at every half rotation is the",
         "options": [
-          "split ring commutator",
           "slip ring",
+          "split ring commutator",
           "transformer",
           "fuse"
         ],
@@ -575,8 +575,8 @@
       "ta": {
         "q": "DC மோட்டாரின் சுருளில் ஒவ்வோர் அரைச்சுற்றிலும் மின்னோட்டத்தின் திசையை மாற்றும் கருவி",
         "options": [
-          "பிளவு வளைய திசைமாற்றி",
           "நழுவு வளையம்",
+          "பிளவு வளைய திசைமாற்றி",
           "மின்மாற்றி",
           "மின்உருகி"
         ],
@@ -590,13 +590,13 @@
       "bloom": "remember",
       "page": 59,
       "quote": "The speed of rotation of coil can be increased by: i. increasing the strength of current in the coil. ii. increasing the number of turns in the coil. iii. increasing the area of the coil and iv. increasing the strength of the magnetic field.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which of the following will NOT increase the speed of rotation of the coil of an electric motor?",
         "options": [
           "Increasing the current in the coil",
-          "Increasing the area of the coil",
           "Decreasing the number of turns of the coil",
+          "Increasing the area of the coil",
           "Increasing the strength of the magnetic field"
         ],
         "explanation": "Increasing current, number of turns, area of the coil and magnetic field strength raise the speed."
@@ -605,8 +605,8 @@
         "q": "மின்மோட்டாரின் சுருள் சுழலும் வேகத்தை அதிகரிக்காத செயல்",
         "options": [
           "சுருளில் மின்னோட்டத்தை அதிகரித்தல்",
-          "சுருளின் பரப்பை அதிகரித்தல்",
           "சுருளின் சுற்றுகளைக் குறைத்தல்",
+          "சுருளின் பரப்பை அதிகரித்தல்",
           "காந்தப்புல வலிமையை அதிகரித்தல்"
         ],
         "explanation": "மின்னோட்டம், சுற்றுகளின் எண்ணிக்கை, சுருளின் பரப்பு, புல வலிமை ஆகியவற்றை அதிகரிக்க வேகம் கூடும்."
@@ -619,24 +619,24 @@
       "bloom": "remember",
       "page": 59,
       "quote": "In 1831, Michael Faraday explained the possibility of producing an e.m.f across the conductor when the magnetic flux linked with the conductor is changed.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Michael Faraday explained the possibility of producing an emf by changing the magnetic flux in the year",
         "options": [
-          "1831",
+          "1820",
           "1791",
           "1867",
-          "1820"
+          "1831"
         ],
         "explanation": "In 1831 Faraday showed that changing the flux linked with a conductor induces an emf (Oersted: 1820; Faraday born 1791, died 1867)."
       },
       "ta": {
         "q": "காந்தப் பாயத்தை மாற்றிக் கடத்தியில் மின்னியக்கு விசையை உருவாக்க முடியும் என ஃபாரடே விளக்கிய ஆண்டு",
         "options": [
-          "1831",
+          "1820",
           "1791",
           "1867",
-          "1820"
+          "1831"
         ],
         "explanation": "1831-இல் ஃபாரடே இதனை விளக்கினார் (ஆயர்ஸ்டெட்: 1820; ஃபாரடே பிறப்பு 1791, மறைவு 1867)."
       }
@@ -648,14 +648,14 @@
       "bloom": "remember",
       "page": 59,
       "quote": "Note: The direction of the induced current was given by Lenz's law, which states that the induced current in the coil flows in such a direction as to oppose the change that causes it.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Lenz's law states that the induced current flows in such a direction as to",
         "options": [
           "increase the change that causes it",
           "stop the flux completely",
-          "be always clockwise",
-          "oppose the change that causes it"
+          "oppose the change that causes it",
+          "be always clockwise"
         ],
         "explanation": "The direction of induced current can also be found using Fleming's Right Hand Rule."
       },
@@ -664,8 +664,8 @@
         "options": [
           "அம்மாற்றத்தை அதிகரிக்கும் திசை",
           "பாயத்தை முற்றிலும் நிறுத்தும் திசை",
-          "எப்போதும் கடிகாரச் சுற்றுத் திசை",
-          "தன்னைத் தூண்டும் மாற்றத்தை எதிர்க்கும் திசை"
+          "தன்னைத் தூண்டும் மாற்றத்தை எதிர்க்கும் திசை",
+          "எப்போதும் கடிகாரச் சுற்றுத் திசை"
         ],
         "explanation": "தூண்டப்பட்ட மின்னோட்டம் தன்னைத் தூண்டும் மாற்றத்தை எதிர்க்கும் திசையில் பாயும்."
       }
@@ -677,14 +677,14 @@
       "bloom": "remember",
       "page": 60,
       "quote": "Know Your Scientist: Michael Faraday (22nd Sep, 1791 - 25th Aug, 1867) was a British Scientist who contributed to the study of electromagnetism and electrochemistry.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Michael Faraday (1791-1867) was a",
         "options": [
           "Italian astronomer",
           "Danish physicist",
-          "German mathematician",
-          "British scientist who contributed to electromagnetism and electrochemistry"
+          "British scientist who contributed to electromagnetism and electrochemistry",
+          "German mathematician"
         ],
         "explanation": "His main discoveries include the principles underlying electromagnetic induction, diamagnetism and electrolysis."
       },
@@ -693,8 +693,8 @@
         "options": [
           "இத்தாலிய வானியலாளர்",
           "டேனிஷ் இயற்பியலாளர்",
-          "ஜெர்மானியக் கணிதவியலாளர்",
-          "மின்காந்தவியல், மின்வேதியியலுக்குப் பங்களித்த பிரிட்டிஷ் அறிவியலறிஞர்"
+          "மின்காந்தவியல், மின்வேதியியலுக்குப் பங்களித்த பிரிட்டிஷ் அறிவியலறிஞர்",
+          "ஜெர்மானியக் கணிதவியலாளர்"
         ],
         "explanation": "மின்காந்தத் தூண்டல், டயாகாந்தவியல், மின்னாற்பகுப்பு ஆகியவை அவரது முக்கியக் கண்டுபிடிப்புகள்."
       }
@@ -706,14 +706,14 @@
       "bloom": "remember",
       "page": 60,
       "quote": "Fleming's Right hand rule: If the fore finger indicates the direction of magnetic field and the thumb indicates the direction of motion of the conductor, then the middle finger will indicate the direction of induced current. Fleming's Right hand rule is also called 'generator rule'.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "In Fleming's right hand rule, if the forefinger shows the magnetic field and the thumb shows the motion of the conductor, the middle finger shows the",
         "options": [
           "direction of force",
-          "direction of the induced current",
+          "direction of the charge's velocity",
           "direction of the earth's field",
-          "direction of the charge's velocity"
+          "direction of the induced current"
         ],
         "explanation": "Fleming's right hand rule (generator rule) gives the direction of induced current."
       },
@@ -721,9 +721,9 @@
         "q": "ஃபிளெமிங்கின் வலக்கை விதிப்படி சுட்டுவிரல் காந்தப்புலத்தையும் பெருவிரல் கடத்தியின் இயக்கத்தையும் காட்டினால் நடுவிரல் காட்டுவது",
         "options": [
           "விசையின் திசை",
-          "தூண்டப்பட்ட மின்னோட்டத்தின் திசை",
+          "மின்னூட்டத்தின் திசைவேகத் திசை",
           "புவிப்புலத்தின் திசை",
-          "மின்னூட்டத்தின் திசைவேகத் திசை"
+          "தூண்டப்பட்ட மின்னோட்டத்தின் திசை"
         ],
         "explanation": "வலக்கை விதி (மின்னியற்றி விதி) தூண்டப்பட்ட மின்னோட்டத்தின் திசையைத் தரும்."
       }
@@ -735,14 +735,14 @@
       "bloom": "remember",
       "page": 60,
       "quote": "An alternating current (AC) generator consists of a rotating rectangular coil ABCD called armature placed between the two poles of a permanent magnet. The two ends of this coil are connected to two slip rings S1 and S2.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The rotating rectangular coil of an AC generator is called the",
         "options": [
           "commutator",
-          "brush",
+          "armature",
           "primary coil",
-          "armature"
+          "brush"
         ],
         "explanation": "The armature ABCD rotates between the poles of a permanent magnet; its ends are connected to two slip rings."
       },
@@ -750,9 +750,9 @@
         "q": "AC மின்னியற்றியில் சுழலும் செவ்வகச் சுருள் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "திசைமாற்றி",
-          "தூரிகை",
+          "ஆர்மேச்சர் (தண்டகம்)",
           "முதன்மைச் சுருள்",
-          "ஆர்மேச்சர் (தண்டகம்)"
+          "தூரிகை"
         ],
         "explanation": "நிலைக்காந்தத்தின் துருவங்களுக்கிடையே சுழலும் செவ்வகச் சுருள் ஆர்மேச்சர் எனப்படும்; அதன் முனைகள் இரு நழுவு வளையங்களுடன் இணைக்கப்பட்டுள்ளன."
       }
@@ -764,13 +764,13 @@
       "bloom": "remember",
       "page": 60,
       "quote": "In an AC generator the induced current in the external circuit is changing its direction for every half a rotation of the coil.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "In an AC generator the direction of the induced current in the external circuit changes",
         "options": [
-          "every full rotation only",
-          "every ten rotations",
           "every half rotation of the coil",
+          "every ten rotations",
+          "every full rotation only",
           "never"
         ],
         "explanation": "Because the coil's motion relative to the field reverses each half rotation, the current reverses direction every half rotation."
@@ -778,9 +778,9 @@
       "ta": {
         "q": "AC மின்னியற்றியில் வெளிச் சுற்றில் தூண்டப்பட்ட மின்னோட்டத்தின் திசை மாறுவது",
         "options": [
-          "முழுச் சுற்றுக்கு ஒருமுறை மட்டும்",
-          "பத்துச் சுற்றுகளுக்கு ஒருமுறை",
           "சுருள் ஒவ்வோர் அரைச்சுற்று சுழலும்போது",
+          "பத்துச் சுற்றுகளுக்கு ஒருமுறை",
+          "முழுச் சுற்றுக்கு ஒருமுறை மட்டும்",
           "ஒருபோதும் மாறாது"
         ],
         "explanation": "சுருளின் ஒவ்வோர் அரைச்சுற்றிலும் மின்னோட்டத்தின் திசை மாறுகிறது."
@@ -793,13 +793,13 @@
       "bloom": "remember",
       "page": 61,
       "quote": "To get a direct current (DC), a split ring type commutator must be used. Thus, a unidirectional current is produced. The generator is thus called a DC generator.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "To get a direct current from a generator, the slip rings are replaced by a",
         "options": [
-          "transformer",
-          "rectifier lamp",
           "split ring commutator",
+          "rectifier lamp",
+          "transformer",
           "second armature"
         ],
         "explanation": "With a split ring commutator one brush is always in contact with the arm moving up and the other with the arm moving down, giving a unidirectional current."
@@ -807,9 +807,9 @@
       "ta": {
         "q": "மின்னியற்றியிலிருந்து நேர்திசை மின்னோட்டம் (DC) பெற, நழுவு வளையங்களுக்குப் பதிலாகப் பயன்படுத்த வேண்டியது",
         "options": [
-          "மின்மாற்றி",
-          "திருத்தி விளக்கு",
           "பிளவு வளைய திசைமாற்றி",
+          "திருத்தி விளக்கு",
+          "மின்மாற்றி",
           "இரண்டாம் ஆர்மேச்சர்"
         ],
         "explanation": "பிளவு வளைய திசைமாற்றியால் ஒரு திசை மின்னோட்டம் கிடைக்கிறது; எனவே அது DC மின்னியற்றி."
@@ -822,12 +822,12 @@
       "bloom": "remember",
       "page": 61,
       "quote": "Transformer is a device used for converting low voltage into high voltage and high voltage into low voltage. It works on the principle of electromagnetic induction. It consists of primary and secondary coil insulated from each other.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "A transformer works on the principle of",
         "options": [
-          "electromagnetic induction",
           "Joule heating",
+          "electromagnetic induction",
           "electrolysis",
           "Lorentz force on a charge"
         ],
@@ -836,8 +836,8 @@
       "ta": {
         "q": "மின்மாற்றி செயல்படும் தத்துவம்",
         "options": [
-          "மின்காந்தத் தூண்டல்",
           "ஜூல் வெப்பமேறல்",
+          "மின்காந்தத் தூண்டல்",
           "மின்னாற்பகுப்பு",
           "மின்னூட்டத்தின் மீதான லோரன்ட்ஸ் விசை"
         ],
@@ -851,24 +851,24 @@
       "bloom": "remember",
       "page": 61,
       "quote": "Basically there will be loss of energy in a transformer in the form of heat, sound etc. Np/Ns = Vp/Vs.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "In a transformer, energy is lost mainly as",
         "options": [
-          "heat and sound",
+          "electrons",
           "light and X-rays",
           "magnetic poles",
-          "electrons"
+          "heat and sound"
         ],
         "explanation": "There is loss of energy in a transformer in the form of heat, sound etc."
       },
       "ta": {
         "q": "மின்மாற்றியில் ஆற்றல் முக்கியமாக இழக்கப்படும் வடிவம்",
         "options": [
-          "வெப்பம், ஒலி",
+          "எலக்ட்ரான்கள்",
           "ஒளி, X-கதிர்",
           "காந்தத் துருவங்கள்",
-          "எலக்ட்ரான்கள்"
+          "வெப்பம், ஒலி"
         ],
         "explanation": "மின்மாற்றியில் ஆற்றல் வெப்பம், ஒலி போன்ற வடிவங்களில் இழக்கப்படுகிறது."
       }
@@ -909,13 +909,13 @@
       "bloom": "remember",
       "page": 62,
       "quote": "5.10.1 Speaker: Inside the speaker, an electromagnet is placed in front of a permanent magnet. ... The electromagnet is attached to a cone made of a flexible material such as paper or plastic which amplifies these vibrations.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "In a loudspeaker the vibrations are produced by",
         "options": [
           "a transformer",
-          "a battery",
           "an electromagnet moving back and forth in front of a permanent magnet",
+          "a battery",
           "an ac generator"
         ],
         "explanation": "Pulses of electricity change the field of the electromagnet, which is attracted and repelled by the permanent magnet; the cone amplifies the vibrations."
@@ -924,8 +924,8 @@
         "q": "ஒலிபெருக்கியில் அதிர்வுகளை உண்டாக்குவது",
         "options": [
           "மின்மாற்றி",
-          "மின்கலம்",
           "நிலைக்காந்தத்தின் முன் முன்னும் பின்னும் அதிரும் மின்காந்தம்",
+          "மின்கலம்",
           "AC மின்னியற்றி"
         ],
         "explanation": "மின்துடிப்புகள் மின்காந்தத்தின் புலத் திசையை மாற்றுவதால் அது நிலைக்காந்தத்தால் ஈர்க்கவும் விலக்கவும்பட்டு அதிர்கிறது; கூம்பு அவற்றைப் பெருக்குகிறது."
@@ -996,14 +996,14 @@
       "bloom": "remember",
       "page": 63,
       "quote": "Points to Remember: Direction of the force in a current carrying conductor is determined by Fleming's Left Hand Rule. Direction of induced current in a conductor is determined by Fleming's Right Hand Rule.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The direction of the induced current in a conductor is determined by",
         "options": [
           "Fleming's left hand rule",
           "Boyle's law",
-          "Archimedes' principle",
-          "Fleming's right hand rule"
+          "Fleming's right hand rule",
+          "Archimedes' principle"
         ],
         "explanation": "Induced current - right hand rule; force on a current-carrying conductor - left hand rule."
       },
@@ -1012,8 +1012,8 @@
         "options": [
           "ஃபிளெமிங்கின் இடக்கை விதி",
           "பாயில் விதி",
-          "ஆர்க்கிமிடிஸ் தத்துவம்",
-          "ஃபிளெமிங்கின் வலக்கை விதி"
+          "ஃபிளெமிங்கின் வலக்கை விதி",
+          "ஆர்க்கிமிடிஸ் தத்துவம்"
         ],
         "explanation": "தூண்டப்பட்ட மின்னோட்டம் - வலக்கை விதி; மின்னோட்டம் பாயும் கடத்தியின் மீதான விசை - இடக்கை விதி."
       }
@@ -1025,13 +1025,13 @@
       "bloom": "remember",
       "page": 63,
       "quote": "Points to Remember: The path along which a free magnetic north pole will move in a magnetic field is called magnetic field lines. Electric generator is a device used to convert mechanical energy into electrical energy.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The path along which a free magnetic north pole would move in a magnetic field is called a",
         "options": [
-          "electric field line",
-          "flux tube",
           "magnetic field line",
+          "flux tube",
+          "electric field line",
           "wavefront"
         ],
         "explanation": "Magnetic field lines are the paths of a free north pole; the space where its influence is felt is the magnetic field."
@@ -1039,9 +1039,9 @@
       "ta": {
         "q": "காந்தப்புலத்தில் தனித்த வடதுருவம் செல்லும் பாதை",
         "options": [
-          "மின்புலக்கோடு",
-          "பாயக் குழாய்",
           "காந்தப் புலக்கோடு",
+          "பாயக் குழாய்",
+          "மின்புலக்கோடு",
           "அலை முகப்பு"
         ],
         "explanation": "தனித்த வடதுருவம் நகரும் பாதையே காந்தப் புலக்கோடு."

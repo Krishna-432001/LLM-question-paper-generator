@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 57,
       "quote": "The electrification of two different bodies on rubbing is because of the transfer of a) neutrons b) protons c) electrons d) protons and neutrons",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The electrification of two different bodies on rubbing is due to the transfer of ______.",
         "options": [
           "neutrons",
           "protons",
-          "electrons",
-          "protons and neutrons"
+          "protons and neutrons",
+          "electrons"
         ],
         "explanation": "Only loosely bound outer electrons are transferred during rubbing."
       },
@@ -26,8 +26,8 @@
         "options": [
           "நியூட்ரான்கள்",
           "புரோட்டான்கள்",
-          "எலக்ட்ரான்கள்",
-          "புரோட்டான்கள், நியூட்ரான்கள்"
+          "புரோட்டான்கள், நியூட்ரான்கள்",
+          "எலக்ட்ரான்கள்"
         ],
         "explanation": "தேய்க்கும்போது தளர்வாகப் பிணைக்கப்பட்ட வெளிவட்டப்பாதை எலக்ட்ரான்களே இடம்பெயர்கின்றன."
       }
@@ -97,24 +97,24 @@
       "bloom": "remember",
       "page": 57,
       "quote": "_______takes place by rubbing objects together.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Transfer of charge by rubbing two objects together is called transfer by ______.",
         "options": [
-          "conduction",
+          "friction",
           "induction",
           "convection",
-          "friction"
+          "conduction"
         ],
         "explanation": "Rubbing transfers electrons between the objects."
       },
       "ta": {
         "q": "பொருள்களை ஒன்றோடொன்று தேய்ப்பதால் மின்னூட்ட இடமாற்றம் ______ முறையில் நடைபெறுகிறது.",
         "options": [
-          "கடத்துதல்",
+          "உராய்வு",
           "தூண்டப்படுதல்",
           "சலனம்",
-          "உராய்வு"
+          "கடத்துதல்"
         ],
         "explanation": "தேய்க்கும்போது எலக்ட்ரான்கள் ஒரு பொருளிலிருந்து மற்றதற்கு மாறுகின்றன."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 57,
       "quote": "______ is a device that protects building from lightning strike.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The device that protects buildings from lightning strike is the ______.",
         "options": [
           "electroscope",
-          "lightning arrester",
           "fuse",
+          "lightning arrester",
           "battery"
         ],
         "explanation": "A lightning arrester gives lightning an easy path to the ground."
@@ -170,8 +170,8 @@
         "q": "இடி, மின்னலிலிருந்து கட்டடங்களைப் பாதுகாக்கும் சாதனம் ______.",
         "options": [
           "நிலைமின்காட்டி",
-          "மின்னல் கடத்தி",
           "மின் உருகி",
+          "மின்னல் கடத்தி",
           "மின்கலம்"
         ],
         "explanation": "மின்னல் கடத்தி மின்னூட்டத்தை எளிதாகத் தரைக்குக் கொண்டு செல்கிறது."
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 57,
       "quote": "_____ has a thin metallic filament that melts and breaks the connection when the circuit is overheated.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The device that has a thin metallic filament which melts and breaks the circuit when overheated is the ______.",
         "options": [
-          "fuse",
           "electroscope",
+          "fuse",
           "switch",
           "lightning rod"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "மின்சுற்று அதிகம் சூடாகும்போது உருகி இணைப்பைத் துண்டிக்கும் மெல்லிய உலோக இழையைக் கொண்டது ______.",
         "options": [
-          "மின் உருகி",
           "நிலைமின்காட்டி",
+          "மின் உருகி",
           "சுவிட்ச்",
           "மின்னல் தண்டு"
         ],
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 57,
       "quote": "Three bulbs are connected end to end from the battery. This connection is called _______",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Three bulbs connected end to end with a battery form a ______ connection.",
         "options": [
           "parallel",
-          "mixed only",
+          "series",
           "open",
-          "series"
+          "mixed only"
         ],
         "explanation": "Components connected end to end form a series circuit."
       },
@@ -228,9 +228,9 @@
         "q": "மூன்று பல்புகள் மின்கலத்துடன் முனை முனையாக இணைக்கப்பட்டால் அவ்விணைப்பு ______ எனப்படும்.",
         "options": [
           "பக்க இணைப்பு",
-          "கலப்பு மட்டும்",
+          "தொடரிணைப்பு",
           "திறந்த இணைப்பு",
-          "தொடரிணைப்பு"
+          "கலப்பு மட்டும்"
         ],
         "explanation": "முனை முனையாக இணைப்பது தொடரிணைப்பு."
       }
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 58,
       "quote": "A charged body induces an opposite charge on an uncharged body when they are brought near.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "When a charged body is brought near an uncharged body, the near end of the uncharged body acquires ______.",
         "options": [
           "the same charge as the charged body",
-          "a charge opposite to that of the charged body",
+          "a charge only at the far end",
           "no charge",
-          "a charge only at the far end"
+          "a charge opposite to that of the charged body"
         ],
         "explanation": "True: induction produces the opposite charge at the near end and similar charge at the far end."
       },
@@ -286,9 +286,9 @@
         "q": "மின்னேற்றம் பெற்ற பொருளை நடுநிலைப் பொருளுக்கு அருகில் கொண்டு வரும்போது நடுநிலைப் பொருளின் அருகிலுள்ள முனை ______ பெறும்.",
         "options": [
           "மின்னேற்றம் பெற்ற பொருளின் அதே மின்னூட்டத்தைப்",
-          "மின்னேற்றம் பெற்ற பொருளுக்கு எதிரான மின்னூட்டத்தைப்",
+          "தொலைவிலுள்ள முனையில் மட்டும் மின்னூட்டத்தைப்",
           "மின்னூட்டம் எதையும்",
-          "தொலைவிலுள்ள முனையில் மட்டும் மின்னூட்டத்தைப்"
+          "மின்னேற்றம் பெற்ற பொருளுக்கு எதிரான மின்னூட்டத்தைப்"
         ],
         "explanation": "நூல் கூற்று சரி; தூண்டலில் அருகிலுள்ள முனை எதிர் மின்னூட்டத்தையும் தொலைவிலுள்ள முனை ஒத்த மின்னூட்டத்தையும் பெறும்."
       }
@@ -300,24 +300,24 @@
       "bloom": "remember",
       "page": 58,
       "quote": "Electroscope is a device used to charge a body by induction.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "An electroscope is an instrument used to ______.",
         "options": [
-          "detect the presence of electric charge on a body",
+          "produce lightning",
           "charge a body by induction",
           "measure current",
-          "produce lightning"
+          "detect the presence of electric charge on a body"
         ],
         "explanation": "An electroscope detects (and measures) electric charge; it is not used to charge a body."
       },
       "ta": {
         "q": "நிலைமின்காட்டி என்பது ______ பயன்படும் கருவி.",
         "options": [
-          "ஒரு பொருளில் மின்னூட்டம் இருப்பதைக் கண்டறியப்",
+          "மின்னலை உருவாக்கப்",
           "பொருளைத் தூண்டல் முறையில் மின்னேற்றம் செய்யப்",
           "மின்னோட்டத்தை அளவிடப்",
-          "மின்னலை உருவாக்கப்"
+          "ஒரு பொருளில் மின்னூட்டம் இருப்பதைக் கண்டறியப்"
         ],
         "explanation": "நிலைமின்காட்டி மின்னூட்டத்தைக் கண்டறியப் (அளக்கவும்) பயன்படும்; ஒரு பொருளுக்கு மின்னூட்டம் அளிக்கப் பயன்படாது."
       }
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 58,
       "quote": "Match: Two similar charges, Two dissimilar charges, When glass rod is rubbed with silk, Fuse",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Match List I with List II:\na) Two similar charges\nb) Two dissimilar charges\nc) Glass rod rubbed with silk\nd) Fuse\n1. Prevents a circuit from overheating\n2. Repel each other\n3. Attract each other\n4. Acquires a positive charge",
         "options": [
-          "a-2, b-3, c-4, d-1",
-          "a-3, b-2, c-1, d-4",
           "a-1, b-3, c-2, d-4",
+          "a-3, b-2, c-1, d-4",
+          "a-2, b-3, c-4, d-1",
           "a-2, b-4, c-1, d-3"
         ],
         "explanation": "Two similar charges – Repel each other; Two dissimilar charges – Attract each other; Glass rod rubbed with silk – Acquires a positive charge; Fuse – Prevents a circuit from overheating."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "பட்டியல் I-ஐப் பட்டியல் II-உடன் பொருத்துக:\na) இரு ஒத்த மின்னூட்டங்கள்\nb) இரு வேறு மின்னூட்டங்கள்\nc) கண்ணாடிக் கம்பியைப் பட்டுத் துணியால் தேய்த்தால்\nd) மின் உருகி\n1. சுற்று அதிகம் சூடாவதைத் தடுக்கும்\n2. ஒன்றையொன்று விலக்கும்\n3. ஒன்றையொன்று கவரும்\n4. நேர்மின்னூட்டம் பெறும்",
         "options": [
-          "a-2, b-3, c-4, d-1",
-          "a-3, b-2, c-1, d-4",
           "a-1, b-3, c-2, d-4",
+          "a-3, b-2, c-1, d-4",
+          "a-2, b-3, c-4, d-1",
           "a-2, b-4, c-1, d-3"
         ],
         "explanation": "இரு ஒத்த மின்னூட்டங்கள் – ஒன்றையொன்று விலக்கும்; இரு வேறு மின்னூட்டங்கள் – ஒன்றையொன்று கவரும்; கண்ணாடிக் கம்பியைப் பட்டுத் துணியால் தேய்த்தால் – நேர்மின்னூட்டம் பெறும்; மின் உருகி – சுற்று அதிகம் சூடாவதைத் தடுக்கும்."
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 58,
       "quote": "When a glass rod is rubbed with silk cloth both get charged.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "When a glass rod is rubbed with silk cloth, both get charged because ______.",
         "options": [
           "protons are transferred from the silk to the glass",
-          "neutrons are transferred",
           "electrons are transferred from the glass rod to the silk",
+          "neutrons are transferred",
           "charges are created from nothing"
         ],
         "explanation": "Free electrons in glass are less tightly bound; glass becomes positive and silk negative. Charges are neither created nor destroyed."
@@ -431,8 +431,8 @@
         "q": "கண்ணாடிக் கம்பியைப் பட்டுத் துணியால் தேய்த்தால் இரண்டும் மின்னேற்றம் பெறக் காரணம் ______.",
         "options": [
           "பட்டிலிருந்து புரோட்டான்கள் கண்ணாடிக்கு மாறுவது",
-          "நியூட்ரான்கள் மாறுவது",
           "கண்ணாடிக் கம்பியிலிருந்து எலக்ட்ரான்கள் பட்டுத் துணிக்கு மாறுவது",
+          "நியூட்ரான்கள் மாறுவது",
           "மின்னூட்டங்கள் புதிதாகத் தோன்றுவது"
         ],
         "explanation": "கண்ணாடி நேர்மின்னூட்டமும் பட்டு எதிர்மின்னூட்டமும் பெறும்; மின்னூட்டம் உருவாக்கவோ அழிக்கவோ முடியாது."
@@ -503,24 +503,24 @@
       "bloom": "remember",
       "page": 58,
       "quote": "In an electroscope the connecting rod and the leaves are all metals.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The connecting rod and leaves of an electroscope are made of metals so that they ______.",
         "options": [
-          "insulate the charge",
+          "conduct electric charge easily",
           "absorb heat",
           "reflect light",
-          "conduct electric charge easily"
+          "insulate the charge"
         ],
         "explanation": "Gold and silver are the best conductors; the rod carries charge to the leaves."
       },
       "ta": {
         "q": "நிலைமின்காட்டியின் இணைக்கும் தண்டும் இலைகளும் உலோகத்தால் ஆனவை; ஏனெனில் அவை ______.",
         "options": [
-          "மின்னூட்டத்தைத் தடுக்கும்",
+          "மின்னூட்டத்தை எளிதில் கடத்தும்",
           "வெப்பத்தை உறிஞ்சும்",
           "ஒளியை எதிரொளிக்கும்",
-          "மின்னூட்டத்தை எளிதில் கடத்தும்"
+          "மின்னூட்டத்தைத் தடுக்கும்"
         ],
         "explanation": "தங்கம், வெள்ளி சிறந்த கடத்திகள்; தண்டு மின்னூட்டத்தை இலைகளுக்குக் கொண்டு செல்கிறது."
       }
@@ -532,14 +532,14 @@
       "bloom": "remember",
       "page": 58,
       "quote": "One should not use an umbrella while crossing an open field during thunderstorm.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "One should not use an umbrella while crossing an open field during a thunderstorm because ______.",
         "options": [
           "it increases the wind",
           "it reflects sound",
-          "it makes you heavier",
-          "it makes you a target for lightning"
+          "it makes you a target for lightning",
+          "it makes you heavier"
         ],
         "explanation": "An umbrella makes the person the highest object and a target for lightning."
       },
@@ -548,8 +548,8 @@
         "options": [
           "அது காற்றை அதிகரிக்கும்",
           "அது ஒலியை எதிரொளிக்கும்",
-          "அது உங்களைக் கனமாக்கும்",
-          "அது உங்களை மின்னலுக்கான இலக்காக மாற்றும்"
+          "அது உங்களை மின்னலுக்கான இலக்காக மாற்றும்",
+          "அது உங்களைக் கனமாக்கும்"
         ],
         "explanation": "குடை நம்மை மின்னல் தாக்கும் இலக்காக மாற்றுகிறது."
       }
@@ -590,24 +590,24 @@
       "bloom": "remember",
       "page": 58,
       "quote": "How charges are produced by friction?",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "When two materials are rubbed together, charges are produced because ______.",
         "options": [
-          "some electrons are transferred from one material to the other",
+          "the materials lose mass completely",
           "new protons are created",
           "neutrons are lost",
-          "the materials lose mass completely"
+          "some electrons are transferred from one material to the other"
         ],
         "explanation": "Rubbing transfers electrons, leaving both with a net electric charge."
       },
       "ta": {
         "q": "இரு பொருள்களைத் தேய்க்கும்போது மின்னூட்டம் தோன்றக் காரணம் ______.",
         "options": [
-          "சில எலக்ட்ரான்கள் ஒரு பொருளிலிருந்து மற்றதற்கு இடம்பெயர்வது",
+          "பொருள்கள் நிறை முழுவதையும் இழப்பது",
           "புதிய புரோட்டான்கள் உருவாவது",
           "நியூட்ரான்கள் இழக்கப்படுவது",
-          "பொருள்கள் நிறை முழுவதையும் இழப்பது"
+          "சில எலக்ட்ரான்கள் ஒரு பொருளிலிருந்து மற்றதற்கு இடம்பெயர்வது"
         ],
         "explanation": "தேய்க்கும்போது எலக்ட்ரான்கள் மாறுவதால் இரண்டும் நிகர மின்னூட்டம் பெறுகின்றன."
       }
@@ -677,12 +677,12 @@
       "bloom": "remember",
       "page": 58,
       "quote": "What is electroplating?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Electroplating is the process of ______.",
         "options": [
-          "removing a metal layer by heat",
           "depositing a layer of one metal over the surface of another metal by passing electric current",
+          "removing a metal layer by heat",
           "charging a body by induction",
           "joining two wires"
         ],
@@ -691,8 +691,8 @@
       "ta": {
         "q": "மின்முலாம் பூசுதல் என்பது ______ செயல்முறை.",
         "options": [
-          "வெப்பத்தால் உலோகப் படலத்தை நீக்கும்",
           "மின்னோட்டத்தைச் செலுத்தி ஓர் உலோகத்தின் பரப்பின் மீது மற்றொரு உலோகத்தின் படலத்தைப் படியவைக்கும்",
+          "வெப்பத்தால் உலோகப் படலத்தை நீக்கும்",
           "தூண்டல் முறையில் மின்னேற்றம் செய்யும்",
           "இரு கம்பிகளை இணைக்கும்"
         ],
@@ -706,12 +706,12 @@
       "bloom": "remember",
       "page": 58,
       "quote": "Give some uses of electroplating.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Iron is coated with zinc by electroplating in order to ______.",
         "options": [
-          "protect it from corrosion and rust",
           "make it heavier",
+          "protect it from corrosion and rust",
           "make it magnetic",
           "increase its resistance"
         ],
@@ -720,8 +720,8 @@
       "ta": {
         "q": "இரும்பின் மீது துத்தநாகம் மின்முலாம் பூசப்படுவது அதனை ______.",
         "options": [
-          "அரிப்பு, துருப்பிடித்தலிலிருந்து பாதுகாக்க",
           "கனமாக்க",
+          "அரிப்பு, துருப்பிடித்தலிலிருந்து பாதுகாக்க",
           "காந்தமாக்க",
           "மின்தடையை அதிகரிக்க"
         ],

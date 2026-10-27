@@ -10,24 +10,24 @@
       "bloom": "understand",
       "page": 128,
       "quote": "Do you know why is it bubbling when water is boiled? Solubility of gases in liquid decrease with increase in temperature. Generally, water contains dissolved oxygen. When water is heated, the solubility of oxygen in water decreases, so oxygen escapes in the form of bubbles.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The bubbles seen when water is heated, before boiling, are mainly due to",
         "options": [
-          "dissolved oxygen escaping as its solubility decreases",
+          "impurities of salt",
           "the solubility of oxygen increasing",
           "water turning into hydrogen",
-          "impurities of salt"
+          "dissolved oxygen escaping as its solubility decreases"
         ],
         "explanation": "The solubility of gases in liquids decreases with a rise in temperature."
       },
       "ta": {
         "q": "நீரைச் சூடாக்கும்போது கொதிநிலைக்கு முன் தோன்றும் குமிழ்களுக்குக் காரணம்",
         "options": [
-          "கரைதிறன் குறைவதால் கரைந்த ஆக்சிஜன் வெளியேறுவது",
+          "உப்புத் தூய்மையின்மை",
           "ஆக்சிஜனின் கரைதிறன் அதிகரிப்பது",
           "நீர் ஹைட்ரஜனாக மாறுவது",
-          "உப்புத் தூய்மையின்மை"
+          "கரைதிறன் குறைவதால் கரைந்த ஆக்சிஜன் வெளியேறுவது"
         ],
         "explanation": "வெப்பநிலை உயர உயர வாயுக்களின் கரைதிறன் குறையும்."
       }
@@ -39,12 +39,12 @@
       "bloom": "remember",
       "page": 129,
       "quote": "More to know: The effect of pressure on the solubility of a gas in liquid is given by Henry's law. It states that, the solubility of a gas in a liquid is directly proportional to the pressure of the gas over the solution at a definite temperature.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The law stating that the solubility of a gas in a liquid is directly proportional to the pressure of the gas over the solution at a definite temperature is",
         "options": [
-          "Henry's law",
           "Boyle's law",
+          "Henry's law",
           "Charles's law",
           "Raoult's law"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "குறிப்பிட்ட வெப்பநிலையில் ஒரு நீர்மத்தில் வாயுவின் கரைதிறன் கரைசலின் மேலுள்ள வாயுவின் அழுத்தத்திற்கு நேர்த்தகவில் இருக்கும் என்னும் விதி",
         "options": [
-          "ஹென்றி விதி",
           "பாயில் விதி",
+          "ஹென்றி விதி",
           "சார்லஸ் விதி",
           "ரௌல்ட் விதி"
         ],
@@ -68,12 +68,12 @@
       "bloom": "remember",
       "page": 133,
       "quote": "Points to Remember: A solution is a homogeneous mixture of two or more substances. An aqueous solution is a solution in which the solvent is water. A non-aqueous solution is a solution in which the solvent is a liquid, other than water.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "An aqueous solution is a solution in which the solvent is",
         "options": [
-          "a solid",
           "water",
+          "a solid",
           "a gas",
           "any liquid other than water"
         ],
@@ -82,8 +82,8 @@
       "ta": {
         "q": "நீர்க் கரைசல் என்பது கரைப்பான் ____ ஆக உள்ள கரைசல்.",
         "options": [
-          "திண்மம்",
           "நீர்",
+          "திண்மம்",
           "வாயு",
           "நீரல்லாத ஏதேனும் திரவம்"
         ],
@@ -155,13 +155,13 @@
       "bloom": "apply",
       "page": 127,
       "quote": "e.g. 40 g of sodium chloride in 100 g of water at 25 °C forms super saturated solution. Solubility: 36 g of sodium chloride need to be dissolved in 100 g of water to form its saturated solution at 25 °C.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "At 25 °C, 100 g of water dissolves 36 g of sodium chloride to form a saturated solution. A solution containing 40 g of NaCl in 100 g of water at 25 °C is",
         "options": [
           "dilute",
-          "supersaturated",
           "saturated",
+          "supersaturated",
           "unsaturated"
         ],
         "explanation": "It contains more solute than the saturated solution."
@@ -170,8 +170,8 @@
         "q": "25 °C-இல் 100 கி நீர் 36 கி சோடியம் குளோரைடைக் கரைத்துத் தெவிட்டிய கரைசலைத் தருகிறது. 25 °C-இல் 100 கி நீரில் 40 கி NaCl உள்ள கரைசல்",
         "options": [
           "நீர்த்த கரைசல்",
-          "அதி தெவிட்டிய கரைசல்",
           "தெவிட்டிய கரைசல்",
+          "அதி தெவிட்டிய கரைசல்",
           "தெவிட்டாத கரைசல்"
         ],
         "explanation": "இது தெவிட்டிய கரைசலை விட அதிகக் கரைபொருளைக் கொண்டுள்ளது."

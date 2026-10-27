@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 4,
       "quote": "Luminous flux or Luminous power is the measure of the perceived power of light. Its SI unit is ‘lumen’.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "What is the SI unit of luminous flux (luminous power)?",
         "options": [
-          "Candela",
-          "Kelvin",
           "Lumen",
+          "Kelvin",
+          "Candela",
           "Radian"
         ],
         "explanation": "Info bits: luminous flux is the perceived power of light; its SI unit is lumen."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "ஒளிப்பாயத்தின் (ஒளித்திறன்) SI அலகு எது?",
         "options": [
-          "கேண்டிலா",
-          "கெல்வின்",
           "லூமென்",
+          "கெல்வின்",
+          "கேண்டிலா",
           "ரேடியன்"
         ],
         "explanation": "தகவல் துளிகள்: ஒளிப்பாயம் என்பது உணரப்படும் ஒளியின் திறன்; அதன் SI அலகு லூமென்."
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 4,
       "quote": "One lumen is defined as the luminous flux of the light produced by the light source that emits one candela of luminous intensity over a solid angle of one steradian.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "One lumen is the luminous flux of a source that emits ______ over a solid angle of one steradian.",
         "options": [
           "one ampere of current",
-          "one candela of luminous intensity",
           "one mole of light",
+          "one candela of luminous intensity",
           "one kelvin of heat"
         ],
         "explanation": "Info bits: 1 lumen = flux from a source of 1 candela over 1 steradian."
@@ -54,8 +54,8 @@
         "q": "ஒரு லூமென் என்பது ஒரு ஸ்ட்ரேடியன் திண்மக்கோணத்தில் ______ வெளிவிடும் ஒளி மூலத்தின் ஒளிப்பாயம்.",
         "options": [
           "ஒரு ஆம்பியர் மின்னோட்டத்தை",
-          "ஒரு கேண்டிலா ஒளிச்செறிவை",
           "ஒரு மோல் ஒளியை",
+          "ஒரு கேண்டிலா ஒளிச்செறிவை",
           "ஒரு கெல்வின் வெப்பத்தை"
         ],
         "explanation": "ஒரு ஸ்ட்ரேடியனில் ஒரு கேண்டிலா ஒளிச்செறிவை வெளிவிடும் மூலத்தின் ஒளிப்பாயம் ஒரு லூமென்."
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 4,
       "quote": "More to Know: The number 6.023 × 10²³ is also known as Avogadro Number.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The number 6.023 × 10²³ is also known as ______.",
         "options": [
           "Planck's constant",
           "Faraday number",
-          "Newton number",
-          "Avogadro number"
+          "Avogadro number",
+          "Newton number"
         ],
         "explanation": "More to Know: 6.023 × 10²³ is the Avogadro number."
       },
@@ -84,8 +84,8 @@
         "options": [
           "பிளாங்க் மாறிலி",
           "பாரடே எண்",
-          "நியூட்டன் எண்",
-          "அவோகேட்ரோ எண்"
+          "அவோகேட்ரோ எண்",
+          "நியூட்டன் எண்"
         ],
         "explanation": "மேலும் அறிந்து கொள்வோம்: 6.023 × 10²³ அவோகேட்ரோ எண்."
       }
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 7,
       "quote": "Greenwich Mean Time (GMT) is the mean solar time at the Royal Observatory, located at Greenwich in London. It is measured at the longitude of zero degree.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Greenwich Mean Time is measured at the longitude of ______.",
         "options": [
           "15°",
-          "82.5°",
+          "0°",
           "180°",
-          "0°"
+          "82.5°"
         ],
         "explanation": "GMT is the mean solar time at the Royal Observatory, Greenwich, at 0° longitude."
       },
@@ -112,9 +112,9 @@
         "q": "கிரீன்விச் சராசரி நேரம் ______ தீர்க்கக்கோட்டில் அளவிடப்படுகிறது.",
         "options": [
           "15°",
-          "82.5°",
+          "0°",
           "180°",
-          "0°"
+          "82.5°"
         ],
         "explanation": "GMT என்பது இலண்டன் கிரீன்விச் ராயல் வான்காணகத்தில் 0° தீர்க்கக்கோட்டில் அளக்கப்படும் சராசரி சூரிய நேரம்."
       }
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 7,
       "quote": "The Earth is divided into 24 zones, each of a width of 15 degree longitude. Time difference between two adjacent time zones is 1 hour.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Each time zone of the Earth has a width of ______ longitude, and the time difference between adjacent zones is 1 hour.",
         "options": [
           "10 degrees",
           "24 degrees",
-          "15 degrees",
-          "30 degrees"
+          "30 degrees",
+          "15 degrees"
         ],
         "explanation": "The Earth has 24 time zones, each 15° wide (24 x 15 = 360)."
       },
@@ -142,8 +142,8 @@
         "options": [
           "10 டிகிரி",
           "24 டிகிரி",
-          "15 டிகிரி",
-          "30 டிகிரி"
+          "30 டிகிரி",
+          "15 டிகிரி"
         ],
         "explanation": "24 நேர மண்டலங்கள், ஒவ்வொன்றும் 15° (24 × 15 = 360°); அடுத்தடுத்த மண்டலங்களுக்கிடையே 1 மணி நேர வேறுபாடு."
       }
@@ -184,13 +184,13 @@
       "bloom": "remember",
       "page": 8,
       "quote": "Quartz clock uses the ‘electronic oscillations’ controlled by a ‘quartz crystal’. Atomic clock uses the ‘periodic vibrations occurring within the atom’.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which clock uses electronic oscillations controlled by a quartz crystal?",
         "options": [
           "Atomic clock",
-          "Sundial",
           "Quartz clock",
+          "Sundial",
           "Digital stopwatch only"
         ],
         "explanation": "Points to remember: quartz clocks use electronic oscillations controlled by a quartz crystal; atomic clocks use periodic vibrations within the atom."
@@ -199,8 +199,8 @@
         "q": "குவார்ட்ஸ் படிகத்தால் கட்டுப்படுத்தப்படும் மின்னணு அலைவுகளைப் பயன்படுத்தும் கடிகாரம் எது?",
         "options": [
           "அணுக்கடிகாரம்",
-          "சூரியக் கடிகாரம்",
           "குவார்ட்ஸ் கடிகாரம்",
+          "சூரியக் கடிகாரம்",
           "டிஜிட்டல் நிறுத்துக்கடிகாரம் மட்டும்"
         ],
         "explanation": "குவார்ட்ஸ் கடிகாரம் மின்னணு அலைவுகளையும், அணுக்கடிகாரம் அணுவினுள் ஏற்படும் சீரான அதிர்வுகளையும் பயன்படுத்துகிறது."
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 6,
       "quote": "Seconds hand: It is long and very thin. It makes one rotation in one minute and 60 rotations in one hour. Hours hand: short and thick.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which hand of an analog clock is short and thick and shows the hour?",
         "options": [
           "Minutes hand",
-          "Hours hand",
           "Pendulum",
+          "Hours hand",
           "Seconds hand"
         ],
         "explanation": "The hours hand is short and thick; the minutes hand is long and thin; the seconds hand is long and very thin."
@@ -228,8 +228,8 @@
         "q": "அனலாக் கடிகாரத்தில் குட்டையாகவும் தடிமனாகவும் இருந்து மணியைக் காட்டும் முள் எது?",
         "options": [
           "நிமிட முள்",
-          "மணி முள்",
           "ஊசல்",
+          "மணி முள்",
           "நொடி முள்"
         ],
         "explanation": "மணி முள் குட்டையானது, தடிமனானது; நிமிட முள் நீளமானது, மெல்லியது; நொடி முள் நீளமானது, மிக மெல்லியது."
@@ -242,24 +242,24 @@
       "bloom": "remember",
       "page": 8,
       "quote": "Electric charge is measured in coulomb and electric current is measured in ampere.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Electric charge is measured in ______.",
         "options": [
-          "coulomb",
+          "candela",
           "ampere",
           "kelvin",
-          "candela"
+          "coulomb"
         ],
         "explanation": "Points to remember: charge - coulomb; current - ampere."
       },
       "ta": {
         "q": "மின்னூட்டம் ______ என்ற அலகால் அளவிடப்படுகிறது.",
         "options": [
-          "கூலும்",
+          "கேண்டிலா",
           "ஆம்பியர்",
           "கெல்வின்",
-          "கேண்டிலா"
+          "கூலும்"
         ],
         "explanation": "மின்னூட்டம் கூலும்; மின்னோட்டம் ஆம்பியர்."
       }
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 8,
       "quote": "Approximation is the process of finding the solution by means of ‘estimation’.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Approximation is the process of finding a solution by means of ______.",
         "options": [
           "calibration",
-          "repetition of readings",
+          "estimation",
           "rounding to zero",
-          "estimation"
+          "repetition of readings"
         ],
         "explanation": "Points to remember: approximation = finding the solution by estimation."
       },
@@ -286,9 +286,9 @@
         "q": "தோராயமாக்கல் என்பது ______ மூலம் தீர்வு காணும் முறை.",
         "options": [
           "தரப்படுத்துதல்",
-          "அளவீடுகளை மீண்டும் எடுத்தல்",
+          "மதிப்பிடுதல்",
           "சுழிக்கு முழுமையாக்குதல்",
-          "மதிப்பிடுதல்"
+          "அளவீடுகளை மீண்டும் எடுத்தல்"
         ],
         "explanation": "தோராயமாக்கல் என்பது மதிப்பிடுதல் மூலம் தீர்வு காணும் முறையாகும்."
       }

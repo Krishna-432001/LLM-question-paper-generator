@@ -10,14 +10,14 @@
       "bloom": "understand",
       "page": 77,
       "quote": "I. 1. A ray of light passes from one medium to another medium. Refraction takes place when angle of incidence is a) 0 b) 45 c) 90",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "A ray of light passes from one medium to another. At which angle of incidence does it go without any deviation (no refraction)?",
         "options": [
           "45 degrees",
           "90 degrees",
-          "30 degrees",
-          "0 degree"
+          "0 degree",
+          "30 degrees"
         ],
         "explanation": "A ray incident normally (angle of incidence 0) on a denser medium goes without any deviation. The English book item is worded ambiguously; the Tamil edition asks when refraction does NOT occur."
       },
@@ -26,8 +26,8 @@
         "options": [
           "45 டிகிரி",
           "90 டிகிரி",
-          "30 டிகிரி",
-          "0 டிகிரி"
+          "0 டிகிரி",
+          "30 டிகிரி"
         ],
         "explanation": "செங்குத்தாகப் படும் ஒளிக்கதிர் (படுகோணம் 0) விலகலின்றிச் செல்லும். ஆங்கில நூலின் வினா தெளிவற்றது; தமிழ் நூல் 'ஒளிவிலகல் அடையாதது எப்போது' எனக் கேட்கிறது."
       }
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 77,
       "quote": "2. ______ is used as reflectors in torchlight. a) Concave mirror b) Plane mirror c) Convex mirror",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "______ is used as the reflector in a torchlight.",
         "options": [
           "Plane mirror",
-          "Concave mirror",
           "Convex mirror",
+          "Concave mirror",
           "Prism"
         ],
         "explanation": "Concave mirrors are used as reflectors in torches, head lights and search lights to get powerful beams of light."
@@ -54,8 +54,8 @@
         "q": "டார்ச் விளக்கில் எதிரொளிப்பானாகப் பயன்படுவது ______.",
         "options": [
           "சமதள ஆடி",
-          "குழியாடி",
           "குவியாடி",
+          "குழியாடி",
           "முப்பட்டகம்"
         ],
         "explanation": "டார்ச், வாகன முகப்பு விளக்குகள், தேடொளி விளக்குகளில் ஒளிக்கற்றையை வலிமையாக்கக் குழியாடி பயன்படுகிறது."
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 77,
       "quote": "II. 1. The angle of deviation depends on the refractive index of the glass.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The refractive index of a medium",
         "options": [
           "is measured in m s^-1",
-          "has no unit because it is the ratio of two similar quantities",
+          "is always less than 1",
           "is measured in degrees",
-          "is always less than 1"
+          "has no unit because it is the ratio of two similar quantities"
         ],
         "explanation": "Refractive index is the ratio of the sine of the angle of incidence to the sine of the angle of refraction (or ratio of speeds), so it has no unit."
       },
@@ -83,9 +83,9 @@
         "q": "ஓர் ஊடகத்தின் ஒளிவிலகல் எண்",
         "options": [
           "மீ வி^-1 அலகில் அளக்கப்படுகிறது",
-          "இரு ஒத்த அளவுகளின் விகிதம் என்பதால் அலகு இல்லை",
+          "எப்போதும் 1-ஐ விடக் குறைவு",
           "டிகிரியில் அளக்கப்படுகிறது",
-          "எப்போதும் 1-ஐ விடக் குறைவு"
+          "இரு ஒத்த அளவுகளின் விகிதம் என்பதால் அலகு இல்லை"
         ],
         "explanation": "ஒளிவிலகல் எண் என்பது படுகோண, விலகுகோண சைன்களின் (அல்லது வேகங்களின்) விகிதம்; எனவே அதற்கு அலகு இல்லை."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 77,
       "quote": "5. The reason for brilliance of diamonds is total internal reflection of light.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The brilliance of diamonds is mainly due to",
         "options": [
           "dispersion of sound",
-          "total internal reflection of light",
           "refraction of sound",
+          "total internal reflection of light",
           "reflection from a plane mirror only"
         ],
         "explanation": "Total internal reflection is the main cause of the spectacular brilliance of diamonds and the twinkling of stars; the book statement is true."
@@ -170,8 +170,8 @@
         "q": "வைரம் பிரகாசமாக மின்னக் காரணம்",
         "options": [
           "ஒலியின் நிறப்பிரிகை",
-          "ஒளியின் முழு அக எதிரொளிப்பு",
           "ஒலியின் விலகல்",
+          "ஒளியின் முழு அக எதிரொளிப்பு",
           "சமதள ஆடியின் எதிரொளிப்பு மட்டும்"
         ],
         "explanation": "வைரத்தின் அற்புதப் பிரகாசத்திற்கும் விண்மீன் மின்னலுக்கும் முழு அக எதிரொளிப்பே முக்கியக் காரணம்."
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 77,
       "quote": "5. Large _________ mirrors are used to concentrate sunlight to produce heat in solar furnaces.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Large ______ mirrors are used to concentrate sunlight to produce heat in solar furnaces.",
         "options": [
           "convex",
-          "plane",
+          "concave",
           "cylindrical convex",
-          "concave"
+          "plane"
         ],
         "explanation": "Large concave mirrors are used in solar heaters/furnaces; the parallel sunlight is focused at a point."
       },
@@ -228,9 +228,9 @@
         "q": "சூரிய அடுப்புகளில் சூரிய ஒளியைக் குவித்து வெப்பம் உண்டாக்கப் பயன்படும் பெரிய ஆடிகள் ______.",
         "options": [
           "குவியாடிகள்",
-          "சமதள ஆடிகள்",
+          "குழியாடிகள்",
           "உருளை வடிவ குவியாடிகள்",
-          "குழியாடிகள்"
+          "சமதள ஆடிகள்"
         ],
         "explanation": "சூரியக் கதிர்களை ஒரு புள்ளியில் குவிக்கும் பெரிய குழியாடிகள் சூரிய அடுப்புகளில் பயன்படுகின்றன."
       }
@@ -271,12 +271,12 @@
       "bloom": "remember",
       "page": 77,
       "quote": "IV. 3. Coin inside water appearing slightly raised - Refraction",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "A coin kept inside water appears slightly raised because of",
         "options": [
-          "reflection from a plane mirror",
           "refraction of light",
+          "reflection from a plane mirror",
           "dispersion",
           "total internal reflection"
         ],
@@ -285,8 +285,8 @@
       "ta": {
         "q": "நீருக்குள் உள்ள நாணயம் சற்று மேலே உள்ளது போலத் தெரியக் காரணம்",
         "options": [
-          "சமதள ஆடியின் எதிரொளிப்பு",
           "ஒளிவிலகல்",
+          "சமதள ஆடியின் எதிரொளிப்பு",
           "நிறப்பிரிகை",
           "முழு அக எதிரொளிப்பு"
         ],
@@ -387,14 +387,14 @@
       "bloom": "understand",
       "page": 78,
       "quote": "3. If an object is placed at the focus of a concave mirror, where is the image formed?",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "When an object is placed at the principal focus of a concave mirror, the reflected rays are parallel and the image is",
         "options": [
           "formed at the centre of curvature",
-          "formed at infinity (no image on a screen)",
+          "formed at the pole",
           "formed behind the mirror",
-          "formed at the pole"
+          "formed at infinity (no image on a screen)"
         ],
         "explanation": "Case V: no image can be captured on the screen nor any virtual image seen; the rays are parallel, so the image is at infinity."
       },
@@ -402,9 +402,9 @@
         "q": "குழியாடியின் குவியத்தில் பொருளை வைக்கும்போது பிம்பம்",
         "options": [
           "வளைவு மையத்தில் உருவாகும்",
-          "முடிவிலியில் உருவாகும் (திரையில் பிடிக்க இயலாது)",
+          "முனையில் உருவாகும்",
           "ஆடிக்குப் பின்னால் உருவாகும்",
-          "முனையில் உருவாகும்"
+          "முடிவிலியில் உருவாகும் (திரையில் பிடிக்க இயலாது)"
         ],
         "explanation": "எதிரொளிக்கும் கதிர்கள் இணையாகச் செல்வதால் பிம்பம் முடிவிலியில்; திரையில் பிடிக்கவும் மாய பிம்பமாகக் காணவும் இயலாது."
       }
@@ -416,13 +416,13 @@
       "bloom": "understand",
       "page": 78,
       "quote": "4. Why does a ray of light bend when it travels from one medium to another?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "A ray of light bends when it passes obliquely from one medium to another because",
         "options": [
           "light is absorbed",
-          "the velocity of light changes in the different medium",
           "light changes its colour",
+          "the velocity of light changes in the different medium",
           "light stops"
         ],
         "explanation": "The deviation is due to the change in velocity of light; velocity is more in a rarer medium than in a denser medium."
@@ -431,8 +431,8 @@
         "q": "ஒளி ஒரு ஊடகத்திலிருந்து மற்றோர் ஊடகத்திற்குச் சாய்வாகச் செல்லும்போது வளைவதற்குக் காரணம்",
         "options": [
           "ஒளி உறிஞ்சப்படுவது",
-          "வெவ்வேறு ஊடகங்களில் ஒளியின் வேகம் மாறுவது",
           "ஒளி நிறம் மாறுவது",
+          "வெவ்வேறு ஊடகங்களில் ஒளியின் வேகம் மாறுவது",
           "ஒளி நின்றுவிடுவது"
         ],
         "explanation": "ஒளியின் வேகம் அடர் குறை ஊடகத்தில் அதிகம், அடர்மிகு ஊடகத்தில் குறைவு; இதனால் கதிர் விலகுகிறது."
@@ -445,14 +445,14 @@
       "bloom": "remember",
       "page": 78,
       "quote": "5. What is the speed of light in vacuum?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The speed of light in vacuum is",
         "options": [
           "3 x 10^6 m s^-1",
           "346 m s^-1",
-          "3 x 10^5 m s^-1",
-          "3 x 10^8 m s^-1"
+          "3 x 10^8 m s^-1",
+          "3 x 10^5 m s^-1"
         ],
         "explanation": "Today the speed of light in vacuum is known to be almost exactly 300,000 km per second."
       },
@@ -461,8 +461,8 @@
         "options": [
           "3 x 10^6 மீ வி^-1",
           "346 மீ வி^-1",
-          "3 x 10^5 மீ வி^-1",
-          "3 x 10^8 மீ வி^-1"
+          "3 x 10^8 மீ வி^-1",
+          "3 x 10^5 மீ வி^-1"
         ],
         "explanation": "வெற்றிடத்தில் ஒளியின் வேகம் ஏறத்தாழ வினாடிக்கு 3,00,000 கி.மீ."
       }
@@ -474,12 +474,12 @@
       "bloom": "understand",
       "page": 78,
       "quote": "6. Concave mirrors are used by dentists to examine teeth. Why?",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Dentists use a concave mirror to examine teeth because it",
         "options": [
-          "gives an erect, magnified image when held close to the teeth",
           "gives a diminished image",
+          "gives an erect, magnified image when held close to the teeth",
           "gives an inverted diminished image",
           "has a wide field of view"
         ],
@@ -488,8 +488,8 @@
       "ta": {
         "q": "பல்லை ஆராய பல் மருத்துவர்கள் குழியாடியைப் பயன்படுத்துவதற்குக் காரணம்",
         "options": [
-          "அருகில் பிடிக்கும்போது நேரான, பெரிதாக்கப்பட்ட பிம்பத்தைத் தருவது",
           "சிறிதாக்கப்பட்ட பிம்பத்தைத் தருவது",
+          "அருகில் பிடிக்கும்போது நேரான, பெரிதாக்கப்பட்ட பிம்பத்தைத் தருவது",
           "தலைகீழான சிறிய பிம்பத்தைத் தருவது",
           "பரந்த பார்வைப்புலம் தருவது"
         ],
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 78,
       "quote": "VII. 2. Pick out the concave and convex mirrors from the following: Rear-view mirror, Dentist's mirror, Torchlight mirror, Mirrors in shopping malls, Make-up mirror.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Which of the following uses a convex mirror?",
         "options": [
           "Dentist's mirror",
           "Torchlight reflector",
-          "Rear-view mirror of a vehicle",
-          "Make-up mirror"
+          "Make-up mirror",
+          "Rear-view mirror of a vehicle"
         ],
         "explanation": "Rear-view mirrors and mirrors in shopping malls are convex; dentist's, torchlight and make-up mirrors are concave."
       },
@@ -519,8 +519,8 @@
         "options": [
           "பல் மருத்துவர் ஆடி",
           "டார்ச் விளக்கு எதிரொளிப்பான்",
-          "வாகனத்தின் பின்னோக்கு ஆடி",
-          "ஒப்பனை ஆடி"
+          "ஒப்பனை ஆடி",
+          "வாகனத்தின் பின்னோக்கு ஆடி"
         ],
         "explanation": "பின்னோக்கு ஆடி, பல்பொருள் அங்காடி ஆடிகள் குவியாடிகள்; பல் மருத்துவர், டார்ச், ஒப்பனை ஆடிகள் குழியாடிகள்."
       }
@@ -532,12 +532,12 @@
       "bloom": "remember",
       "page": 78,
       "quote": "3. State the direction of incident ray which after reflection from a spherical mirror retraces its path. Give reason for your answer.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "A ray incident on a spherical mirror retraces its path after reflection when it is directed",
         "options": [
-          "towards the centre of curvature",
           "parallel to the principal axis",
+          "towards the centre of curvature",
           "towards the pole at an angle",
           "towards the focus"
         ],
@@ -546,8 +546,8 @@
       "ta": {
         "q": "கோளக ஆடியில் பட்டு எதிரொளித்த பின் அதே பாதையில் திரும்பும் படுகதிரின் திசை",
         "options": [
-          "வளைவு மையத்தை நோக்கி",
           "முதன்மை அச்சுக்கு இணையாக",
+          "வளைவு மையத்தை நோக்கி",
           "முனையை நோக்கிச் சாய்வாக",
           "குவியத்தை நோக்கி"
         ],
@@ -561,13 +561,13 @@
       "bloom": "remember",
       "page": 78,
       "quote": "4. What is meant by magnification? Write its expression. What is its sign for real image and virtual image?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The linear magnification m = hi/ho is negative for a ______ image and positive for a ______ image.",
         "options": [
           "virtual; real",
-          "real; virtual",
           "real; real",
+          "real; virtual",
           "virtual; virtual"
         ],
         "explanation": "A negative sign of magnification indicates a real image; a positive sign indicates a virtual image."
@@ -576,8 +576,8 @@
         "q": "நேர்கோட்டு உருப்பெருக்கம் m = hi/ho ஆனது ______ பிம்பத்திற்கு எதிர்க்குறியும், ______ பிம்பத்திற்கு நேர்க்குறியும் பெறும்.",
         "options": [
           "மாய; மெய்",
-          "மெய்; மாய",
           "மெய்; மெய்",
+          "மெய்; மாய",
           "மாய; மாய"
         ],
         "explanation": "உருப்பெருக்கத்தின் எதிர்க்குறி மெய் பிம்பத்தையும், நேர்க்குறி மாய பிம்பத்தையும் குறிக்கும்."
@@ -590,14 +590,14 @@
       "bloom": "remember",
       "page": 78,
       "quote": "5. Write the spherical mirror formula and explain the meaning of each symbol used in it.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The mirror formula relating the object distance u, image distance v and focal length f of a spherical mirror is",
         "options": [
           "f = u + v",
           "1/f = 1/u - 1/v",
-          "f = u x v",
-          "1/f = 1/u + 1/v"
+          "1/f = 1/u + 1/v",
+          "f = u x v"
         ],
         "explanation": "The relation between u, v and f of a spherical mirror is the mirror formula, 1/f = 1/v + 1/u."
       },
@@ -606,8 +606,8 @@
         "options": [
           "f = u + v",
           "1/f = 1/u - 1/v",
-          "f = u x v",
-          "1/f = 1/u + 1/v"
+          "1/f = 1/u + 1/v",
+          "f = u x v"
         ],
         "explanation": "கோளக ஆடியின் u, v, f ஆகியவற்றுக்கு இடையேயான தொடர்பு ஆடிச் சமன்பாடு: 1/f = 1/v + 1/u."
       }

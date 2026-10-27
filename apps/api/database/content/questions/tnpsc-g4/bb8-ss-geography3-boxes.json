@@ -10,12 +10,12 @@
       "bloom": "remember",
       "page": 104,
       "quote": "About 71% of the earth's surface is covered by water. The quantity of water present on the earth is about 326 million cubic miles.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "About what percentage of the earth's surface is covered by water?",
         "options": [
-          "29%",
           "71%",
+          "29%",
           "50%",
           "97%"
         ],
@@ -24,8 +24,8 @@
       "ta": {
         "q": "புவிப்பரப்பில் ஏறத்தாழ எத்தனை சதவீதம் நீரால் சூழப்பட்டுள்ளது?",
         "options": [
-          "29%",
           "71%",
+          "29%",
           "50%",
           "97%"
         ],
@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 104,
       "quote": "Out of this 2.80%, about 2.20% is available as surface water and the remaining 0.60% as groundwater. From this 2.20% of surface water, 2.15% is available in the form of glaciers and icecaps.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Of the 2.80% fresh water, about how much is available as groundwater?",
         "options": [
-          "0.60%",
+          "0.01%",
           "2.20%",
           "2.15%",
-          "0.01%"
+          "0.60%"
         ],
         "explanation": "2.20% is surface water, of which 2.15% is in glaciers and icecaps."
       },
       "ta": {
         "q": "2.80% நன்னீரில் நிலத்தடி நீராகக் கிடைப்பது ஏறத்தாழ ______.",
         "options": [
-          "0.60%",
+          "0.01%",
           "2.20%",
           "2.15%",
-          "0.01%"
+          "0.60%"
         ],
         "explanation": "2.20% மேற்பரப்பு நீர்; அதில் 2.15% பனியாறுகள், பனிமுடிகளில் உள்ளது."
       }
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 106,
       "quote": "The rate of evaporation increases with increase in wind speed, increase in temperature, decrease in humidity and increase in areal extent of surface water bodies.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following DECREASES the rate of evaporation?",
         "options": [
           "Increase in wind speed",
           "Increase in temperature",
-          "Increase in the area of the water body",
-          "Increase in humidity"
+          "Increase in humidity",
+          "Increase in the area of the water body"
         ],
         "explanation": "The rate of evaporation increases with decrease in humidity."
       },
@@ -142,8 +142,8 @@
         "options": [
           "காற்றின் வேகம் அதிகரித்தல்",
           "வெப்பநிலை அதிகரித்தல்",
-          "நீர்நிலைப் பரப்பு அதிகரித்தல்",
-          "ஈரப்பதம் அதிகரித்தல்"
+          "ஈரப்பதம் அதிகரித்தல்",
+          "நீர்நிலைப் பரப்பு அதிகரித்தல்"
         ],
         "explanation": "ஈரப்பதம் குறையும்போது ஆவியாதல் வீதம் அதிகரிக்கும்."
       }
@@ -155,24 +155,24 @@
       "bloom": "remember",
       "page": 107,
       "quote": "Fog is the suspended tiny water droplets or ice crystals in an air layer next to the earth's surface that reduces the visibility to 1,000 m or lower.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Fog reduces the visibility to ______ or lower.",
         "options": [
-          "10 m",
+          "1,000 m",
           "100 km",
           "5 km",
-          "1,000 m"
+          "10 m"
         ],
         "explanation": "If visibility is 1 km or more, the suspension is called mist."
       },
       "ta": {
         "q": "அடர்பனி (ஃபாக்) பார்வைத் தொலைவை ______ அல்லது அதற்குக் குறைவாகக் குறைக்கிறது.",
         "options": [
-          "10 மீ",
+          "1,000 மீ",
           "100 கி.மீ.",
           "5 கி.மீ.",
-          "1,000 மீ"
+          "10 மீ"
         ],
         "explanation": "பார்வைத் தொலைவு 1 கி.மீ. அல்லது அதற்கு மேல் இருந்தால் அது மிதமூடுபனி (மிஸ்ட்) எனப்படும்."
       }
@@ -184,24 +184,24 @@
       "bloom": "remember",
       "page": 107,
       "quote": "When the size of the water droplets exceeds 100 microns, it becomes rain drops. Condensation occurs when the air gets saturated. Warm air can hold more water vapour than the cool air.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "When the size of cloud water droplets exceeds ______, they become raindrops.",
         "options": [
-          "100 microns",
+          "1 mm",
           "1 micron",
           "10 microns",
-          "1 mm"
+          "100 microns"
         ],
         "explanation": "Warm air can hold more water vapour than cool air."
       },
       "ta": {
         "q": "மேகத்திலுள்ள நீர்த்துளிகளின் அளவு ______ ஐ மீறும்போது அவை மழைத்துளிகளாகின்றன.",
         "options": [
-          "100 மைக்ரான்",
+          "1 மி.மீ.",
           "1 மைக்ரான்",
           "10 மைக்ரான்",
-          "1 மி.மீ."
+          "100 மைக்ரான்"
         ],
         "explanation": "வெப்பக் காற்று குளிர்ந்த காற்றைவிட அதிக நீராவியைக் கொள்ளும்."
       }
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 107,
       "quote": "Hail: The precipitation which consists of round pellets of ice which are larger than 5 mm in diameter. Hail forms only in cumulonimbus clouds during thunderstorms.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Hail forms only in ______ clouds during thunderstorms.",
         "options": [
           "stratus",
           "cirrus",
-          "cumulonimbus",
-          "nimbostratus"
+          "nimbostratus",
+          "cumulonimbus"
         ],
         "explanation": "Hailstones are pellets of ice larger than 5 mm in diameter."
       },
@@ -229,8 +229,8 @@
         "options": [
           "படை மேகம்",
           "மயிர்க்கால் மேகம்",
-          "கார்முகில் (கியூமுலோநிம்பஸ்)",
-          "நிம்போஸ்ட்ரேட்டஸ்"
+          "நிம்போஸ்ட்ரேட்டஸ்",
+          "கார்முகில் (கியூமுலோநிம்பஸ்)"
         ],
         "explanation": "ஆலங்கட்டிகள் 5 மி.மீ.க்கு மேல் விட்டம் கொண்ட பனிக்கட்டிகள்."
       }
@@ -242,12 +242,12 @@
       "bloom": "remember",
       "page": 115,
       "quote": "Only about 35% of precipitation ends up in the sea or ocean and the other 65% is absorbed into the soil.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "According to the lesson, about what percentage of the precipitation that falls on land ends up in the sea or ocean as runoff?",
         "options": [
-          "65%",
           "35%",
+          "65%",
           "5%",
           "95%"
         ],
@@ -256,8 +256,8 @@
       "ta": {
         "q": "பாடத்தின்படி, நிலத்தில் பெய்யும் மழைப்பொழிவில் ஏறத்தாழ எத்தனை சதவீதம் கடல் அல்லது பெருங்கடலைச் சென்றடைகிறது?",
         "options": [
-          "65%",
           "35%",
+          "65%",
           "5%",
           "95%"
         ],
@@ -271,12 +271,12 @@
       "bloom": "remember",
       "page": 115,
       "quote": "Base Flow: It is a flow of underground water from a saturated ground water zone to a water channel. Groundwater provides the stream flow during dry periods of small or no precipitation.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The flow of underground water from a saturated groundwater zone to a water channel, which sustains streams in dry periods, is called ______.",
         "options": [
-          "surface runoff",
           "base flow",
+          "surface runoff",
           "interflow",
           "infiltration"
         ],
@@ -285,8 +285,8 @@
       "ta": {
         "q": "நிறைவுற்ற நிலத்தடி நீர்ப்பகுதியிலிருந்து நீர்வழிக்குச் செல்லும் நிலத்தடி நீர் ஓட்டம் (வறண்ட காலத்தில் ஓடைகளைத் தாங்குவது) ______ எனப்படும்.",
         "options": [
-          "மேற்பரப்பு வழிந்தோடல்",
           "அடிப்பாய்வு (பேஸ் ஃப்ளோ)",
+          "மேற்பரப்பு வழிந்தோடல்",
           "இடைப்பாய்வு",
           "நீர் ஊடுருவல்"
         ],

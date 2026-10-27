@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 89,
       "quote": "5. Give the function of control rods in a nuclear reactor.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "In a nuclear reactor the control rods (boron or cadmium) are used to",
         "options": [
           "slow down neutrons",
-          "cool the reactor core",
+          "absorb excess neutrons and sustain a controlled chain reaction",
           "shield the reactor from radiation",
-          "absorb excess neutrons and sustain a controlled chain reaction"
+          "cool the reactor core"
         ],
         "explanation": "Control rods absorb neutrons so that only one neutron per fission causes further fission."
       },
@@ -54,9 +54,9 @@
         "q": "அணுக்கரு உலையில் கட்டுப்படுத்தும் கழிகளின் (போரான், காட்மியம்) பணி",
         "options": [
           "நியூட்ரான்களின் வேகத்தைக் குறைப்பது",
-          "உலையின் உட்கருவைக் குளிர்விப்பது",
+          "மிகை நியூட்ரான்களை உட்கவர்ந்து கட்டுப்படுத்தப்பட்ட தொடர்வினையைத் தக்கவைப்பது",
           "உலையைக் கதிர்வீச்சிலிருந்து தடுப்பது",
-          "மிகை நியூட்ரான்களை உட்கவர்ந்து கட்டுப்படுத்தப்பட்ட தொடர்வினையைத் தக்கவைப்பது"
+          "உலையின் உட்கருவைக் குளிர்விப்பது"
         ],
         "explanation": "ஒரு பிளவுக்கு ஒரு நியூட்ரான் மட்டுமே மேலும் பிளவை உண்டாக்குமாறு கட்டுப்படுத்தும் கழிகள் மிகை நியூட்ரான்களை உட்கவரும்."
       }
@@ -68,24 +68,24 @@
       "bloom": "remember",
       "page": 89,
       "quote": "8. What is stellar energy?",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Stellar energy, the energy of the Sun and the stars, is produced by",
         "options": [
-          "nuclear fusion",
+          "radioactive decay of uranium",
           "nuclear fission",
           "chemical combustion",
-          "radioactive decay of uranium"
+          "nuclear fusion"
         ],
         "explanation": "Hydrogen nuclei fuse into helium at very high temperatures."
       },
       "ta": {
         "q": "விண்மீன் ஆற்றல் (சூரியன், விண்மீன்களின் ஆற்றல்) உருவாகும் முறை",
         "options": [
-          "அணுக்கரு இணைவு",
+          "யுரேனியத்தின் கதிரியக்கச் சிதைவு",
           "அணுக்கரு பிளவு",
           "வேதி எரிதல்",
-          "யுரேனியத்தின் கதிரியக்கச் சிதைவு"
+          "அணுக்கரு இணைவு"
         ],
         "explanation": "மிக உயர் வெப்பநிலையில் ஹைட்ரஜன் உட்கருக்கள் இணைந்து ஹீலியம் உருவாகின்றன."
       }

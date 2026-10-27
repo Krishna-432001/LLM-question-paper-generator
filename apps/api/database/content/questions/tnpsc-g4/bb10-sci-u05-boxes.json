@@ -10,12 +10,12 @@
       "bloom": "remember",
       "page": 63,
       "quote": "More to know: The medium in which the velocity of sound increases compared to other medium is called rarer medium. (Water is rarer compared to air for sound). The medium in which the velocity of sound decreases ... is called denser medium. (Air is denser compared to water for sound)",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Sound travels faster in",
         "options": [
-          "air than in water",
           "water than in air",
+          "air than in water",
           "vacuum than in air",
           "the same in all media"
         ],
@@ -24,8 +24,8 @@
       "ta": {
         "q": "ஒலி வேகமாகப் பரவுவது",
         "options": [
-          "நீரை விடக் காற்றில்",
           "காற்றை விட நீரில்",
+          "நீரை விடக் காற்றில்",
           "காற்றை விட வெற்றிடத்தில்",
           "எல்லா ஊடகங்களிலும் சமம்"
         ],
@@ -39,24 +39,24 @@
       "bloom": "understand",
       "page": 63,
       "quote": "When a compression hits the boundary of a rarer medium, it is reflected as a rarefaction.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "When a compression strikes the boundary of a less dense (rarer) medium, it is reflected as a",
         "options": [
-          "rarefaction",
+          "transverse wave",
           "compression",
           "crest",
-          "transverse wave"
+          "rarefaction"
         ],
         "explanation": "A rarer medium offers less resistance to deformation, so the reflected wave has the opposite sense."
       },
       "ta": {
         "q": "ஒரு இறுக்கம் அடர்த்தி குறைந்த (அடர்குறை) ஊடகத்தின் விளிம்பில் மோதும்போது அது எதிரொலிப்பிற்குப் பின்",
         "options": [
-          "தளர்ச்சியாக மாறும்",
+          "குறுக்கலையாக மாறும்",
           "இறுக்கமாகவே இருக்கும்",
           "முகடாக மாறும்",
-          "குறுக்கலையாக மாறும்"
+          "தளர்ச்சியாக மாறும்"
         ],
         "explanation": "அடர்குறை ஊடகம் சிதைவிற்கு எதிர்ப்பு குறைவாகத் தருவதால் எதிரொலிக்கும் அலையின் தன்மை எதிராக மாறுகிறது."
       }
@@ -68,12 +68,12 @@
       "bloom": "understand",
       "page": 69,
       "quote": "Infrasonic waves are sound wave with a frequency below 20 Hz. A human ear cannot hear these waves. Ultrasonic waves are sound waves with frequency greater than 20 kHz, A human ear cannot detect these waves.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Consider the following statements:\n(i) Infrasonic waves have a frequency below 20 Hz.\n(ii) Ultrasonic waves have a frequency greater than 20 kHz.\n(iii) The human ear can detect ultrasonic waves.\nWhich are correct?",
         "options": [
-          "(i) and (ii) only",
           "(i) and (iii) only",
+          "(i) and (ii) only",
           "(ii) and (iii) only",
           "(i), (ii) and (iii)"
         ],
@@ -82,8 +82,8 @@
       "ta": {
         "q": "பின்வரும் கூற்றுகளைக் கருதுக:\n(i) குற்றொலியின் அதிர்வெண் 20 Hz-ஐ விடக் குறைவு.\n(ii) மீயொலியின் அதிர்வெண் 20 kHz-ஐ விட அதிகம்.\n(iii) மனிதச் செவியால் மீயொலியை உணர முடியும்.\nசரியானவை எவை?",
         "options": [
-          "(i), (ii) மட்டும்",
           "(i), (iii) மட்டும்",
+          "(i), (ii) மட்டும்",
           "(ii), (iii) மட்டும்",
           "(i), (ii), (iii)"
         ],
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 69,
       "quote": "Reflection of sound waves obey the laws of reflection. An echo is the sound reproduced due to the reflection of the original sound wave.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The sound reproduced due to the reflection of the original sound wave from a surface is called",
         "options": [
           "a beat",
-          "a resonance",
           "an echo",
+          "a resonance",
           "a Doppler shift"
         ],
         "explanation": "Reflection of sound obeys the laws of reflection."
@@ -112,8 +112,8 @@
         "q": "அசல் ஒலி அலை ஒரு பரப்பில் பட்டுப் பிரதிபலிப்பதால் மீண்டும் கேட்கப்படும் ஒலி",
         "options": [
           "விம்மல்",
-          "ஒத்ததிர்வு",
           "எதிரொலி",
+          "ஒத்ததிர்வு",
           "டாப்ளர் மாற்றம்"
         ],
         "explanation": "ஒலி எதிரொலிப்பும் எதிரொலிப்பு விதிகளுக்கு உட்படும்."
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 69,
       "quote": "“The apparent frequency” is the frequency of the sound as heard by the listener.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The frequency of sound as heard by the listener is called the",
         "options": [
           "natural frequency",
           "resonant frequency",
-          "fundamental frequency",
-          "apparent frequency"
+          "apparent frequency",
+          "fundamental frequency"
         ],
         "explanation": "The apparent frequency differs from the source frequency when there is relative motion (Doppler effect)."
       },
@@ -142,8 +142,8 @@
         "options": [
           "இயல் அதிர்வெண்",
           "ஒத்ததிர்வு அதிர்வெண்",
-          "அடிப்படை அதிர்வெண்",
-          "தோற்ற அதிர்வெண்"
+          "தோற்ற அதிர்வெண்",
+          "அடிப்படை அதிர்வெண்"
         ],
         "explanation": "மூலத்திற்கும் கேட்குநருக்கும் சார்பு இயக்கம் இருந்தால் தோற்ற அதிர்வெண் மூல அதிர்வெண்ணிலிருந்து மாறுபடும் (டாப்ளர் விளைவு)."
       }
@@ -155,24 +155,24 @@
       "bloom": "remember",
       "page": 69,
       "quote": "(a) To measure the speed of an automobile ... (b) Tracking a satellite ... (c) RADAR ... (d) SONAR",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which of the following is NOT listed as an application of the Doppler effect in the lesson?",
         "options": [
-          "Measuring the depth of a well by the echo of a stone",
+          "RADAR to track aeroplanes",
           "Measuring the speed of an automobile",
           "Tracking a satellite",
-          "RADAR to track aeroplanes"
+          "Measuring the depth of a well by the echo of a stone"
         ],
         "explanation": "The lesson lists the speed of automobiles (police car), tracking satellites, RADAR and SONAR."
       },
       "ta": {
         "q": "டாப்ளர் விளைவின் பயன்பாடாகப் பாடத்தில் குறிப்பிடப்படாதது",
         "options": [
-          "கல்லின் எதிரொலி மூலம் கிணற்றின் ஆழம் அளத்தல்",
+          "விமானங்களைக் கண்காணிக்க ரேடார்",
           "வாகனத்தின் வேகத்தை அளத்தல்",
           "துணைக்கோளைக் கண்காணித்தல்",
-          "விமானங்களைக் கண்காணிக்க ரேடார்"
+          "கல்லின் எதிரொலி மூலம் கிணற்றின் ஆழம் அளத்தல்"
         ],
         "explanation": "வாகனத்தின் வேகம், துணைக்கோள் கண்காணிப்பு, ரேடார், சோனார் ஆகியவை பாடத்தில் உள்ளன."
       }
@@ -184,24 +184,24 @@
       "bloom": "remember",
       "page": 69,
       "quote": "In SONAR, by measuring the change in the frequency between the sent signal and received signal, the speed of marine animals and submarines can be determined. In RADAR, radio waves are sent ... speed and location of aeroplanes",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Match correctly: RADAR uses ____ waves to track aeroplanes, and SONAR uses ____ waves to find the speed of submarines.",
         "options": [
-          "radio; light",
+          "radio; sound (ultrasonic)",
           "sound; radio",
           "light; sound",
-          "radio; sound (ultrasonic)"
+          "radio; light"
         ],
         "explanation": "RADAR stands for RAdio Detection And Ranging; SONAR measures frequency change between sent and received signals under water."
       },
       "ta": {
         "q": "ரேடார் விமானங்களைக் கண்காணிக்க ____ அலைகளையும், சோனார் நீர்மூழ்கிக் கப்பலின் வேகத்தை அறிய ____ அலைகளையும் பயன்படுத்துகின்றன.",
         "options": [
-          "ரேடியோ; ஒளி",
+          "ரேடியோ; ஒலி (மீயொலி)",
           "ஒலி; ரேடியோ",
           "ஒளி; ஒலி",
-          "ரேடியோ; ஒலி (மீயொலி)"
+          "ரேடியோ; ஒளி"
         ],
         "explanation": "RADAR என்பது ரேடியோ அலைகளால் கண்டறிதலும் தொலைவறிதலும்; சோனார் நீரில் அனுப்பிய, பெற்ற சைகைகளின் அதிர்வெண் மாற்றத்தை அளக்கிறது."
       }
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 65,
       "quote": "When sound waves are reflected from a concave surface, the reflected waves are converged and focused at a point. Parabolic surfaces are used when it is required to focus the sound at a particular point. In elliptical surfaces, sound from one focus will always be reflected to the other focus.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Sound from one focus of an elliptical reflecting surface is always reflected to",
         "options": [
           "the centre of the ellipse only",
-          "the other focus",
           "infinity",
+          "the other focus",
           "the same focus"
         ],
         "explanation": "Parabolic surfaces focus sound at a point; convex surfaces diverge it."
@@ -228,8 +228,8 @@
         "q": "நீள்வட்டப் பரப்பின் ஒரு குவியத்திலிருந்து வரும் ஒலி எப்போதும் எதிரொலிக்கப்படுவது",
         "options": [
           "நீள்வட்ட மையத்திற்கு மட்டும்",
-          "மற்றொரு குவியத்திற்கு",
           "ஈறிலாத் தொலைவிற்கு",
+          "மற்றொரு குவியத்திற்கு",
           "அதே குவியத்திற்கு"
         ],
         "explanation": "பரவளையப் பரப்புகள் ஒலியை ஒரு புள்ளியில் குவிக்கும்; குவிப் பரப்புகள் விரிக்கும்."
@@ -242,14 +242,14 @@
       "bloom": "understand",
       "page": 65,
       "quote": "When reflected from a convex surface, the reflected waves are diverged out and the intensity is decreased. When sound is reflected from a concave surface, the reflected waves are converged and focused at a point.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "When sound is reflected from a convex surface, the intensity of the reflected waves",
         "options": [
           "remains the same",
           "becomes infinite",
-          "decreases because the waves diverge",
-          "increases because the waves converge"
+          "increases because the waves converge",
+          "decreases because the waves diverge"
         ],
         "explanation": "From a concave surface the waves converge and are concentrated at a point."
       },
@@ -258,8 +258,8 @@
         "options": [
           "மாறாது",
           "முடிவிலி ஆகும்",
-          "அலைகள் விரிவதால் குறையும்",
-          "அலைகள் குவிவதால் அதிகரிக்கும்"
+          "அலைகள் குவிவதால் அதிகரிக்கும்",
+          "அலைகள் விரிவதால் குறையும்"
         ],
         "explanation": "குழிப் பரப்பில் அலைகள் குவிந்து ஒரு புள்ளியில் செறிவடையும்."
       }

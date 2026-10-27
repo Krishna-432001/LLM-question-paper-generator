@@ -10,24 +10,24 @@
       "bloom": "remember",
       "page": 190,
       "quote": "1. ______ is the most important gas for the survival of living organisms. a. Helium b. carbon-di-oxide c. oxygen d. methane",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which gas is most important for the survival of living organisms?",
         "options": [
-          "Helium",
+          "Oxygen",
           "Carbon dioxide",
           "Methane",
-          "Oxygen"
+          "Helium"
         ],
         "explanation": "Oxygen is most important for living organisms."
       },
       "ta": {
         "q": "உயிர் வாழ இன்றியமையாத வாயு எது?",
         "options": [
-          "ஹீலியம்",
+          "ஆக்சிஜன்",
           "கார்பன்-டை-ஆக்சைடு",
           "மீத்தேன்",
-          "ஆக்சிஜன்"
+          "ஹீலியம்"
         ],
         "explanation": "உயிரினங்கள் வாழ ஆக்சிஜன் மிக அவசியம்."
       }
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "2. The lowest layer of the atmosphere is a. Troposphere b. Stratosphere c. Exosphere d. Mesosphere",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The lowest layer of the atmosphere is the",
         "options": [
           "stratosphere",
-          "troposphere",
           "exosphere",
+          "troposphere",
           "mesosphere"
         ],
         "explanation": "The troposphere is the lowest layer; almost all weather phenomena occur in it."
@@ -54,8 +54,8 @@
         "q": "வளிமண்டலத்தின் கீழ் அடுக்கு",
         "options": [
           "மீள் அடுக்கு (Stratosphere)",
-          "கீழடுக்கு (Troposphere)",
           "வெளியடுக்கு (Exosphere)",
+          "கீழடுக்கு (Troposphere)",
           "இடையடுக்கு (Mesosphere)"
         ],
         "explanation": "வானிலை நிகழ்வுகள் அனைத்தும் கீழடுக்கில் நிகழ்கின்றன."
@@ -97,24 +97,24 @@
       "bloom": "remember",
       "page": 190,
       "quote": "4. The process of change of state of water from gaseous to liquid state is called a. Precipitation b. evaporation c. transpiration d. condensation",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The change of water from the gaseous to the liquid state is called",
         "options": [
-          "condensation",
+          "transpiration",
           "precipitation",
           "evaporation",
-          "transpiration"
+          "condensation"
         ],
         "explanation": "Water vapour condenses on dust nuclei to form clouds."
       },
       "ta": {
         "q": "நீர் வாயுநிலையிலிருந்து திரவ நிலைக்கு மாறும் செயல்",
         "options": [
-          "சுருங்குதல் (condensation)",
+          "நீராவிப்போக்கு",
           "பொழிவு",
           "ஆவியாதல்",
-          "நீராவிப்போக்கு"
+          "சுருங்குதல் (condensation)"
         ],
         "explanation": "நீராவி குளிர்ந்து நீராகும் செயல் condensation."
       }
@@ -126,24 +126,24 @@
       "bloom": "remember",
       "page": 190,
       "quote": "5. The ______ is the chief energy source of the Earth. a. Sun b. Moon c. Stars d. Clouds",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The chief source of energy of the Earth is the",
         "options": [
-          "Moon",
+          "Sun",
           "Stars",
           "Clouds",
-          "Sun"
+          "Moon"
         ],
         "explanation": "The Sun is the chief energy source."
       },
       "ta": {
         "q": "புவியின் முக்கிய ஆற்றல் மூலம்",
         "options": [
-          "சந்திரன்",
+          "சூரியன்",
           "நட்சத்திரங்கள்",
           "மேகங்கள்",
-          "சூரியன்"
+          "சந்திரன்"
         ],
         "explanation": "சூரியனே புவியின் முதன்மை ஆற்றல் மூலம்."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "6. All types of clouds are found in the a. Troposphere b. Ionosphere c. Mesosphere d. Exosphere",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The only layer of the atmosphere that contains all types of clouds is the",
         "options": [
-          "mesosphere",
-          "ionosphere",
           "troposphere",
+          "ionosphere",
+          "mesosphere",
           "exosphere"
         ],
         "explanation": "The troposphere is the only sphere with all clouds."
@@ -169,9 +169,9 @@
       "ta": {
         "q": "அனைத்து வகை மேகங்களும் காணப்படும் அடுக்கு",
         "options": [
-          "இடையடுக்கு",
-          "அயன அடுக்கு",
           "கீழடுக்கு",
+          "அயன அடுக்கு",
+          "இடையடுக்கு",
           "வெளியடுக்கு"
         ],
         "explanation": "கீழடுக்கு மட்டுமே எல்லா மேகங்களையும் கொண்டுள்ளது."
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "7. ______ clouds are called 'Sheep clouds' a. Alto-cumulus b. Alto-Stratus c. Nimbo-stratus d. Cirro-stratus",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which clouds are called 'Sheep clouds' or wool-pack clouds?",
         "options": [
           "Alto-stratus",
-          "Alto-cumulus",
+          "Cirro-stratus",
           "Nimbo-stratus",
-          "Cirro-stratus"
+          "Alto-cumulus"
         ],
         "explanation": "Alto-cumulus clouds fitted closely in parallel bands are called sheep clouds."
       },
@@ -199,9 +199,9 @@
         "q": "செம்மறி ஆட்டு மேகங்கள் என்று அழைக்கப்படுபவை",
         "options": [
           "இடைப்பட்ட படை மேகங்கள்",
-          "இடைப்பட்ட திரள் மேகங்கள் (Alto-cumulus)",
+          "கீற்றுப்படை மேகங்கள்",
           "கார்படை மேகங்கள்",
-          "கீற்றுப்படை மேகங்கள்"
+          "இடைப்பட்ட திரள் மேகங்கள் (Alto-cumulus)"
         ],
         "explanation": "ஆல்டோ-கியூமுலஸ் மேகங்கள் செம்மறி ஆட்டு மேகங்கள்."
       }
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "8. The Monsoons are a. Prevailing winds b. Periodic winds c. local winds d. none of the above",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Monsoons are classified as",
         "options": [
-          "periodic winds",
-          "local winds",
           "prevailing (planetary) winds",
+          "local winds",
+          "periodic winds",
           "variable winds"
         ],
         "explanation": "Winds that reverse direction with the seasons are monsoons, a periodic wind."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "பருவக்காற்றுகள் என்பவை",
         "options": [
-          "காலமுறைக் காற்றுகள்",
-          "தலக் காற்றுகள்",
           "நிலவும் (கோள்) காற்றுகள்",
+          "தலக் காற்றுகள்",
+          "காலமுறைக் காற்றுகள்",
           "மாறுதலுக்குட்பட்ட காற்றுகள்"
         ],
         "explanation": "பருவத்திற்கேற்ப திசை மாறும் காற்று பருவக்காற்று."
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "9. Dew in the form of ice crystals is called ______ a. frost b. fog c. mist d. sleet",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Dew in the form of ice crystals is called",
         "options": [
           "fog",
           "mist",
-          "sleet",
-          "frost"
+          "frost",
+          "sleet"
         ],
         "explanation": "Frost is dew frozen into ice crystals."
       },
@@ -258,8 +258,8 @@
         "options": [
           "மூடுபனி",
           "பனி",
-          "ஆலங்கட்டி",
-          "உறைபனி"
+          "உறைபனி",
+          "ஆலங்கட்டி"
         ],
         "explanation": "பனிப்படிகமாகப் படியும் பனி உறைபனி."
       }
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "II. 2. Climatology; 4. Wind Vane",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The instrument that measures the direction of the wind is the",
         "options": [
           "anemometer",
-          "wind vane",
+          "rain gauge",
           "hygrometer",
-          "rain gauge"
+          "wind vane"
         ],
         "explanation": "An anemometer records wind speed; a wind vane shows wind direction. Climatology is the study of climate."
       },
@@ -315,9 +315,9 @@
         "q": "காற்றின் திசையை அளக்கும் கருவி",
         "options": [
           "காற்று வேகமானி",
-          "காற்று திசைமானி",
+          "மழைமானி",
           "ஈரப்பதமானி",
-          "மழைமானி"
+          "காற்று திசைமானி"
         ],
         "explanation": "காற்று வேகமானி வேகத்தையும், திசைமானி திசையையும் அளக்கும்."
       }
@@ -329,12 +329,12 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 1. Define atmosphere",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The atmosphere is best defined as",
         "options": [
-          "the blanket of air surrounding the Earth, held by gravitational attraction",
           "the layer of water on the Earth",
+          "the blanket of air surrounding the Earth, held by gravitational attraction",
           "the solid outer layer of the Earth",
           "the zone where life exists"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "வளிமண்டலம் என்பது",
         "options": [
-          "புவியைச் சூழ்ந்துள்ள ஈர்ப்பு விசையால் பிடிக்கப்பட்ட காற்றுப் போர்வை",
           "புவியிலுள்ள நீர்ப்படலம்",
+          "புவியைச் சூழ்ந்துள்ள ஈர்ப்பு விசையால் பிடிக்கப்பட்ட காற்றுப் போர்வை",
           "புவியின் திடமான மேல் அடுக்கு",
           "உயிரினங்கள் வாழும் மண்டலம்"
         ],
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 2. Mention the factors that affect the climate?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which of the following is NOT a factor influencing weather and climate, according to the textbook?",
         "options": [
           "Distance from the equator",
-          "Altitude",
           "Rock type",
+          "Altitude",
           "Ocean currents"
         ],
         "explanation": "Listed factors: distance from equator, altitude, nearness to the sea, prevailing winds, mountain barriers, cloud cover, ocean currents, natural vegetation."
@@ -373,8 +373,8 @@
         "q": "நூலின்படி காலநிலையைப் பாதிக்கும் காரணி அல்லாதது எது?",
         "options": [
           "நிலநடுக்கோட்டிலிருந்து தொலைவு",
-          "உயரம்",
           "பாறை வகை",
+          "உயரம்",
           "கடல் நீரோட்டங்கள்"
         ],
         "explanation": "நிலநடுக்கோட்டிலிருந்து தொலைவு, உயரம், கடலிலிருந்து தொலைவு, காற்று, மலைத்தடை, மேகமூட்டம், நீரோட்டம், இயற்கைத் தாவரம் ஆகியவை காரணிகள்."
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 3. Write short note on Lapse rate.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The normal lapse rate, the decrease of temperature with height, is",
         "options": [
-          "0.65 °C per km",
-          "65 °C per km",
           "6.5 °C per km",
+          "65 °C per km",
+          "0.65 °C per km",
           "1 °C per 10 km"
         ],
         "explanation": "Temperature decreases at 6.5 °C per km of height."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "உயரம் அதிகரிக்க வெப்பம் குறையும் இயல்பு வீதம் (Normal lapse rate)",
         "options": [
-          "ஒரு கி.மீக்கு 0.65°C",
-          "ஒரு கி.மீக்கு 65°C",
           "ஒரு கி.மீக்கு 6.5°C",
+          "ஒரு கி.மீக்கு 65°C",
+          "ஒரு கி.மீக்கு 0.65°C",
           "10 கி.மீக்கு 1°C"
         ],
         "explanation": "உயரமான இடங்களில் வெப்பநிலை குறைவு."
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 4. What are the processes responsible for heating the atmosphere?",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "According to the textbook recap, the atmosphere is heated mainly through",
         "options": [
-          "condensation",
-          "precipitation",
           "conduction",
+          "precipitation",
+          "condensation",
           "transpiration"
         ],
         "explanation": "The recap states that the atmosphere gets heated through conduction."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "நூலின் மீள்பார்வையின்படி வளிமண்டலம் வெப்பமடைவது",
         "options": [
-          "சுருங்குதலால்",
-          "பொழிவால்",
           "வெப்பக் கடத்துதலால்",
+          "பொழிவால்",
+          "சுருங்குதலால்",
           "நீராவிப்போக்கால்"
         ],
         "explanation": "வெப்பக் கடத்துதலால் வளிமண்டலம் வெப்பமடைகிறது."
@@ -445,24 +445,24 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 5. Mention the Planetary wind system of the earth.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which of the following is NOT a planetary (permanent) wind?",
         "options": [
-          "Monsoon",
+          "Polar Easterlies",
           "Trade winds",
           "Westerlies",
-          "Polar Easterlies"
+          "Monsoon"
         ],
         "explanation": "Planetary winds are trade winds, westerlies and polar easterlies; monsoons are periodic winds."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் கோள்காற்று (நிலையான காற்று) அல்லாதது எது?",
         "options": [
-          "பருவக்காற்று",
+          "துருவக் கீழைக் காற்று",
           "வியாபாரக் காற்று",
           "மேலைக் காற்று",
-          "துருவக் கீழைக் காற்று"
+          "பருவக்காற்று"
         ],
         "explanation": "வியாபாரக் காற்று, மேலைக் காற்று, துருவக் கீழைக் காற்று கோள்காற்றுகள்; பருவக்காற்று காலமுறைக் காற்று."
       }
@@ -474,13 +474,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 6. b. Roaring Forties",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The very vigorous westerlies at 40 degrees latitude are known as",
         "options": [
           "Furious Fifties",
-          "Screaming Sixties",
           "Roaring Forties",
+          "Screaming Sixties",
           "Doldrums"
         ],
         "explanation": "Westerlies are called Roaring Forties (40°), Furious Fifties (50°) and Screaming Sixties (60°)."
@@ -489,8 +489,8 @@
         "q": "40° அட்சத்தில் மிக வேகமாக வீசும் மேலைக் காற்றுகளின் பெயர்",
         "options": [
           "சீறும் ஐம்பதுகள்",
-          "கூவும் அறுபதுகள்",
           "கர்ஜிக்கும் நாற்பதுகள்",
+          "கூவும் அறுபதுகள்",
           "அமைதிப்பகுதி"
         ],
         "explanation": "40°, 50°, 60° அட்சங்களில் முறையே கர்ஜிக்கும் நாற்பதுகள், சீறும் ஐம்பதுகள், கூவும் அறுபதுகள்."
@@ -532,12 +532,12 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 8. What are the different types of rainfall?",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The three types of rainfall are",
         "options": [
-          "convectional, frontal (cyclonic) and orographic",
           "convectional, monsoon and winter",
+          "convectional, frontal (cyclonic) and orographic",
           "orographic, drizzle and sleet",
           "frontal, hail and snow"
         ],
@@ -546,8 +546,8 @@
       "ta": {
         "q": "மழைப்பொழிவின் மூன்று வகைகள்",
         "options": [
-          "வெப்பச்சலன மழை, சூறாவளி (முகவழி) மழை, மலைத்தடை மழை",
           "வெப்பச்சலன, பருவ, குளிர்கால மழை",
+          "வெப்பச்சலன மழை, சூறாவளி (முகவழி) மழை, மலைத்தடை மழை",
           "மலைத்தடை மழை, சாரல், பனிமழை",
           "முகவழி மழை, ஆலங்கட்டி, பனி"
         ],
@@ -561,14 +561,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 9. Write short notes on: a. drizzle b. rain c. sleet d. snow e. heat",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Falling of numerous uniform minute droplets less than 0.5 mm in diameter from low clouds is called",
         "options": [
           "rain",
           "hail",
-          "sleet",
-          "drizzle"
+          "drizzle",
+          "sleet"
         ],
         "explanation": "Drizzle may combine with fog and reduce visibility. (The book says a raindrop is 'more than 5 mm'; the usual figure is more than 0.5 mm.)"
       },
@@ -577,8 +577,8 @@
         "options": [
           "மழை",
           "ஆலங்கட்டி மழை",
-          "பனிமழை (Sleet)",
-          "சாரல்"
+          "சாரல்",
+          "பனிமழை (Sleet)"
         ],
         "explanation": "சாரலுடன் மூடுபனி சேர்ந்து பார்வைத்திறனைக் குறைக்கும். (நூல் மழைத்துளி 5 மி.மீக்கு மேல் எனக் குறிப்பிடுகிறது; வழக்கமான அளவு 0.5 மி.மீக்கு மேல்.)"
       }
@@ -590,14 +590,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 9. c. sleet",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Sleet is a precipitation of",
         "options": [
           "chunks of ice larger than 2 cm",
           "opaque ice crystals forming snowflakes",
-          "pellets of transparent and translucent ice, a mixture of snow and rain",
-          "minute water droplets"
+          "minute water droplets",
+          "pellets of transparent and translucent ice, a mixture of snow and rain"
         ],
         "explanation": "Sleet is a mixture of snow and rain."
       },
@@ -606,8 +606,8 @@
         "options": [
           "2 செ.மீ.க்கு மேற்பட்ட பனிக்கட்டிகள்",
           "பனித்துகள்களாக ஒட்டிய ஒளிபுகாப் படிகங்கள்",
-          "தெளிவான, ஒளிகசியும் பனிக்கட்டி மணிகள்; பனியும் மழையும் கலந்த பொழிவு",
-          "நுண்ணிய நீர்த்துளிகள்"
+          "நுண்ணிய நீர்த்துளிகள்",
+          "தெளிவான, ஒளிகசியும் பனிக்கட்டி மணிகள்; பனியும் மழையும் கலந்த பொழிவு"
         ],
         "explanation": "பனியும் மழையும் கலந்தது பனிமழை."
       }
@@ -619,12 +619,12 @@
       "bloom": "remember",
       "page": 190,
       "quote": "III. 10. How are Cyclones classified?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Cyclones are classified into",
         "options": [
-          "land, sea and mountain cyclones",
           "tropical, temperate and extra-tropical cyclones",
+          "land, sea and mountain cyclones",
           "active and dormant cyclones",
           "windward and leeward cyclones"
         ],
@@ -633,8 +633,8 @@
       "ta": {
         "q": "சூறாவளிகள் வகைப்படுத்தப்படுவது",
         "options": [
-          "நில, கடல், மலைச் சூறாவளிகள்",
           "வெப்ப, மிதவெப்ப, வெப்பமண்டலத்திற்கு அப்பாற்பட்ட சூறாவளிகள்",
+          "நில, கடல், மலைச் சூறாவளிகள்",
           "செயல்படும், உறங்கும் சூறாவளிகள்",
           "காற்று மோதும், மோதாச் சூறாவளிகள்"
         ],
@@ -648,13 +648,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "IV. 1. Cyclones cause huge loss of life and property.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Tropical cyclones cause heavy loss of life and property on the coasts and become weak after reaching land because",
         "options": [
-          "they lose their moisture supply from the ocean",
-          "land is hotter than sea",
           "land has more clouds",
+          "land is hotter than sea",
+          "they lose their moisture supply from the ocean",
           "they get stronger on land"
         ],
         "explanation": "Tropical cyclones draw energy from warm ocean water; over land this supply is cut off. They bring strong winds, storm surges and floods."
@@ -662,9 +662,9 @@
       "ta": {
         "q": "வெப்பமண்டலச் சூறாவளிகள் நிலப்பகுதியை அடைந்தவுடன் வலுவிழக்கக் காரணம்",
         "options": [
-          "கடலிலிருந்து ஈரப்பதம் கிடைக்காததால்",
-          "நிலம் கடலை விட வெப்பமானது",
           "நிலத்தில் மேகங்கள் அதிகம்",
+          "நிலம் கடலை விட வெப்பமானது",
+          "கடலிலிருந்து ஈரப்பதம் கிடைக்காததால்",
           "நிலத்தில் வலுப்பெறுவதால்"
         ],
         "explanation": "கடலின் ஈரப்பதமே சூறாவளிக்கு ஆற்றல்; நிலத்தில் அது குறைகிறது."
@@ -677,14 +677,14 @@
       "bloom": "remember",
       "page": 190,
       "quote": "IV. 2. Cloudy days are warmer than cloudless days. (Tamil book: cloudless days are warmer)",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "During the day, a cloudless sky generally gives higher temperature than a cloudy sky because",
         "options": [
           "clouds produce heat",
           "clouds stop wind",
-          "clouds absorb all radiation and re-emit it by day",
-          "clouds reflect a large amount of solar radiation"
+          "clouds reflect a large amount of solar radiation",
+          "clouds absorb all radiation and re-emit it by day"
         ],
         "explanation": "Clouds reflect solar radiation; deserts with clear skies are very hot. (The English book's statement reads reversed; the Tamil book and the text say cloudless days are hotter.)"
       },
@@ -693,8 +693,8 @@
         "options": [
           "மேகங்கள் வெப்பத்தை உண்டாக்குகின்றன",
           "மேகங்கள் காற்றைத் தடுக்கின்றன",
-          "மேகங்கள் பகலில் கதிர்வீச்சை உறிஞ்சி மீண்டும் வெளியிடுகின்றன",
-          "மேகங்கள் சூரியக் கதிர்வீச்சின் பெரும்பகுதியைப் பிரதிபலிக்கின்றன"
+          "மேகங்கள் சூரியக் கதிர்வீச்சின் பெரும்பகுதியைப் பிரதிபலிக்கின்றன",
+          "மேகங்கள் பகலில் கதிர்வீச்சை உறிஞ்சி மீண்டும் வெளியிடுகின்றன"
         ],
         "explanation": "மேகங்கள் கதிர்வீச்சைப் பிரதிபலிப்பதால் மேகமற்ற பாலைவனங்களில் வெப்பம் அதிகம்."
       }
@@ -706,13 +706,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "IV. 3. Fog is dangerous for traffic.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Fog is dangerous for traffic mainly because it",
         "options": [
-          "increases wind speed",
-          "lowers air pressure",
           "reduces visibility",
+          "lowers air pressure",
+          "increases wind speed",
           "causes heavy rain"
         ],
         "explanation": "Drizzle and fog reduce visibility."
@@ -720,9 +720,9 @@
       "ta": {
         "q": "மூடுபனி போக்குவரத்துக்கு ஆபத்தாக இருப்பதற்குக் காரணம்",
         "options": [
-          "காற்றின் வேகத்தை அதிகரிப்பதால்",
-          "காற்றழுத்தத்தைக் குறைப்பதால்",
           "பார்வைத்திறனைக் குறைப்பதால்",
+          "காற்றழுத்தத்தைக் குறைப்பதால்",
+          "காற்றின் வேகத்தை அதிகரிப்பதால்",
           "மிகுமழையைத் தருவதால்"
         ],
         "explanation": "மூடுபனியால் தெளிவாகப் பார்க்க முடியாது."
@@ -764,24 +764,24 @@
       "bloom": "remember",
       "page": 190,
       "quote": "IV. 5. Polar Easterlies are cold and dry. Why it is so?",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Polar Easterlies are cold and dry because they",
         "options": [
-          "originate in the polar high pressure belt",
+          "blow only in summer",
           "originate over warm oceans",
           "come from the equator",
-          "blow only in summer"
+          "originate in the polar high pressure belt"
         ],
         "explanation": "Polar easterlies blow from the polar high to the sub-polar low pressure belt."
       },
       "ta": {
         "q": "துருவக் கீழைக் காற்றுகள் குளிர்ச்சியாகவும் வறண்டும் இருக்கக் காரணம்",
         "options": [
-          "அவை துருவ உயரழுத்த மண்டலத்தில் தோன்றுவதால்",
+          "கோடையில் மட்டும் வீசுவதால்",
           "அவை வெப்பக் கடல்களில் தோன்றுவதால்",
           "அவை நிலநடுக்கோட்டிலிருந்து வருவதால்",
-          "கோடையில் மட்டும் வீசுவதால்"
+          "அவை துருவ உயரழுத்த மண்டலத்தில் தோன்றுவதால்"
         ],
         "explanation": "துருவப் பகுதியில் உருவாகி வருவதால் குளிர்ந்தும் வறண்டும் இருக்கும்."
       }
@@ -851,13 +851,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "V. 3. Windward side and Leeward side.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The windward side of a mountain receives",
         "options": [
           "very little rainfall",
-          "heavy rainfall",
           "snow only",
+          "heavy rainfall",
           "no rainfall"
         ],
         "explanation": "The leeward side receives very little rain (rain shadow); Mawsynram (windward) is the wettest place in India while Shillong (leeward) receives less."
@@ -866,8 +866,8 @@
         "q": "மலையின் காற்று மோதும் பக்கம் பெறுவது",
         "options": [
           "மிகக் குறைந்த மழை",
-          "மிகுமழை",
           "பனி மட்டும்",
+          "மிகுமழை",
           "மழையே இல்லை"
         ],
         "explanation": "மோதாப் பக்கம் குறைந்த மழை; மௌசின்ராம் காற்று மோதும் பக்கத்தில் உள்ளது."
@@ -880,13 +880,13 @@
       "bloom": "remember",
       "page": 190,
       "quote": "V. 4. Tropical cyclone and Temperate cyclones.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which cyclones do NOT weaken on reaching land?",
         "options": [
-          "Temperate cyclones",
-          "Tropical cyclones",
           "Typhoons",
+          "Tropical cyclones",
+          "Temperate cyclones",
           "Hurricanes"
         ],
         "explanation": "Tropical cyclones (typhoons, hurricanes, willy-willy) weaken on reaching land; temperate cyclones do not."
@@ -894,9 +894,9 @@
       "ta": {
         "q": "நிலத்தை அடைந்தாலும் வலுவிழக்காத சூறாவளிகள்",
         "options": [
-          "மிதவெப்பச் சூறாவளிகள்",
-          "வெப்பமண்டலச் சூறாவளிகள்",
           "டைஃபூன்",
+          "வெப்பமண்டலச் சூறாவளிகள்",
+          "மிதவெப்பச் சூறாவளிகள்",
           "ஹரிக்கேன்"
         ],
         "explanation": "வெப்பமண்டலச் சூறாவளி நிலத்தில் வலுவிழக்கும்; மிதவெப்பச் சூறாவளி வலுவிழக்காது."

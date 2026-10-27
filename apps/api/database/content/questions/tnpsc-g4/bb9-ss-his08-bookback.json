@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 110,
       "quote": "2. The School of Athens was painted by a. Raphael Sanzio b. Michelangelo c. Albrecht Durer d. Leonardo da Vinci",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The painting 'The School of Athens' was painted by:",
         "options": [
           "Michelangelo",
-          "Albrecht Durer",
+          "Raphael Sanzio",
           "Leonardo da Vinci",
-          "Raphael Sanzio"
+          "Albrecht Durer"
         ],
         "explanation": "It reveals the conflict between spiritualism and humanism."
       },
@@ -25,9 +25,9 @@
         "q": "'ஏதென்ஸ் பள்ளி' ஓவியத்தை வரைந்தவர் யார்?",
         "options": [
           "மைக்கேலேஞ்சலோ",
-          "ஆல்பிரெக்ட் டியூரர்",
+          "ரபேல் சான்சியோ",
           "லியனார்டோ டாவின்சி",
-          "ரபேல் சான்சியோ"
+          "ஆல்பிரெக்ட் டியூரர்"
         ],
         "explanation": "இது ஆன்மிகத்துக்கும் மனிதநேயத்துக்கும் இடையிலான முரணை வெளிப்படுத்துகிறது."
       }
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 110,
       "quote": "3. William Harvey discovered ____ . a. Heliocentric theory b. Geocentric theory c. Gravitational force d. Circulation of blood",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "William Harvey discovered:",
         "options": [
-          "the heliocentric theory",
-          "the geocentric theory",
           "the circulation of blood",
+          "the geocentric theory",
+          "the heliocentric theory",
           "the gravitational force"
         ],
         "explanation": "Copernicus proposed the heliocentric theory; Harvey discovered the circulation of blood."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "வில்லியம் ஹார்வி கண்டறிந்தது எது?",
         "options": [
-          "சூரிய மையக் கோட்பாடு",
-          "புவி மையக் கோட்பாடு",
           "இரத்த ஓட்டம்",
+          "புவி மையக் கோட்பாடு",
+          "சூரிய மையக் கோட்பாடு",
           "ஈர்ப்பு விசை"
         ],
         "explanation": "சூரிய மையக் கோட்பாட்டை நிறுவியவர் கோபர்நிகஸ்; ஹார்வி இரத்த ஓட்டத்தைக் கண்டறிந்தார்."
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 110,
       "quote": "4. Who wrote the 95 Theses? a. Martin Luther b. Zwingli c. John Calvin d. Thomas More",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Who wrote the Ninety-five Theses?",
         "options": [
-          "Martin Luther",
-          "Zwingli",
           "John Calvin",
+          "Zwingli",
+          "Martin Luther",
           "Thomas More"
         ],
         "explanation": "Luther pasted ninety-five points on the church door of Wittenberg."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "95 கோட்பாடுகளை எழுதியவர் யார்?",
         "options": [
-          "மார்ட்டின் லூதர்",
-          "ஸ்விங்லி",
           "ஜான் கால்வின்",
+          "ஸ்விங்லி",
+          "மார்ட்டின் லூதர்",
           "தாமஸ் மோர்"
         ],
         "explanation": "லூதர் தம் 95 குற்றச்சாட்டுகளை விட்டன்பெர்க் தேவாலயக் கதவில் ஒட்டினார்."
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 110,
       "quote": "5. Who wrote the book Institutes of Christian Religion? a. Martin Luther b. Zwingli c. John Calvin d. Cervantes",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Who wrote the book 'Institutes of Christian Religion'?",
         "options": [
           "Martin Luther",
           "Zwingli",
-          "John Calvin",
-          "Cervantes"
+          "Cervantes",
+          "John Calvin"
         ],
         "explanation": "Calvin codified his views in this book and controlled the government of Geneva (1541–1564)."
       },
@@ -113,8 +113,8 @@
         "options": [
           "மார்ட்டின் லூதர்",
           "ஸ்விங்லி",
-          "ஜான் கால்வின்",
-          "செர்வாண்டஸ்"
+          "செர்வாண்டஸ்",
+          "ஜான் கால்வின்"
         ],
         "explanation": "கால்வின் தம் கருத்துகளை இந்நூலில் தொகுத்தார்; 1541–1564 வரை ஜெனீவாவை ஆட்சி செய்தார்."
       }
@@ -126,12 +126,12 @@
       "bloom": "remember",
       "page": 110,
       "quote": "6. Which sailor was the first to cross the Equator? a. Henry, the Navigator b. Lopo Gonzalves c. Bartholomew Diaz d. Christopher Columbus",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which sailor was the first to cross the Equator?",
         "options": [
-          "Lopo Gonzalves",
           "Henry the Navigator",
+          "Lopo Gonzalves",
           "Bartholomew Diaz",
           "Christopher Columbus"
         ],
@@ -140,8 +140,8 @@
       "ta": {
         "q": "நிலநடுக்கோட்டைக் கடந்த முதல் மாலுமி யார்?",
         "options": [
-          "லோபோ கொன்சால்வெஸ்",
           "கடலோடி ஹென்றி",
+          "லோபோ கொன்சால்வெஸ்",
           "பார்த்தலோமியோ டயஸ்",
           "கிறிஸ்டோபர் கொலம்பஸ்"
         ],
@@ -184,13 +184,13 @@
       "bloom": "remember",
       "page": 111,
       "quote": "8. The continent of America was named after ____ . a. Amerigo Vespucci b. Christopher Columbus c. Vasco da Gama d. Hernando Cortez",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The continent of America was named after:",
         "options": [
           "Christopher Columbus",
-          "Vasco da Gama",
           "Amerigo Vespucci",
+          "Vasco da Gama",
           "Hernando Cortez"
         ],
         "explanation": "A German cartographer named the New World after Amerigo Vespucci."
@@ -199,8 +199,8 @@
         "q": "அமெரிக்கக் கண்டம் யாருடைய பெயரால் அழைக்கப்படுகிறது?",
         "options": [
           "கிறிஸ்டோபர் கொலம்பஸ்",
-          "வாஸ்கோடகாமா",
           "அமெரிகோ வெஸ்புகி",
+          "வாஸ்கோடகாமா",
           "ஹெர்னாண்டோ கார்டெஸ்"
         ],
         "explanation": "ஒரு ஜெர்மன் வரைபடவியலாளர் புதிய உலகத்துக்கு வெஸ்புகியின் பெயரிட்டார்."
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 111,
       "quote": "9. ____ was the headquarters of the Portuguese possession in the East. a. Manila b. Bombay c. Pondicherry d. Goa",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "What was the headquarters of the Portuguese possessions in the East?",
         "options": [
           "Manila",
-          "Goa",
           "Bombay",
+          "Goa",
           "Pondicherry"
         ],
         "explanation": "The Portuguese captured Goa and made it their headquarters in the East."
@@ -228,8 +228,8 @@
         "q": "கிழக்கே போர்ச்சுகீசியர் உடைமைகளின் தலைமையிடம் எது?",
         "options": [
           "மணிலா",
-          "கோவா",
           "பம்பாய்",
+          "கோவா",
           "புதுச்சேரி"
         ],
         "explanation": "கோவாவைக் கைப்பற்றி அதைத் தலைமையிடமாக்கினர்."
@@ -242,12 +242,12 @@
       "bloom": "remember",
       "page": 111,
       "quote": "10. Which among the following plants were introduced from America to Europe? a. Sugarcane b. Sweet Potato c. Rice d. Wheat",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Which of the following plants was introduced from America to Europe?",
         "options": [
-          "Sugarcane",
           "Sweet potato",
+          "Sugarcane",
           "Rice",
           "Wheat"
         ],
@@ -256,8 +256,8 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் அமெரிக்காவிலிருந்து ஐரோப்பாவுக்குக் கொண்டுவரப்பட்ட தாவரம் எது?",
         "options": [
-          "கரும்பு",
           "சர்க்கரைவள்ளிக் கிழங்கு",
+          "கரும்பு",
           "அரிசி",
           "கோதுமை"
         ],
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 111,
       "quote": "II.1 In 1453 Constantinople was captured by ____ .",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "In 1453 Constantinople was captured by the:",
         "options": [
           "Seljuq Turks",
-          "Mongols",
+          "Ottoman Turks",
           "Arabs",
-          "Ottoman Turks"
+          "Mongols"
         ],
         "explanation": "The capture acted as a catalyst for the birth of the Renaissance."
       },
@@ -286,9 +286,9 @@
         "q": "1453-இல் கான்ஸ்டான்டிநோபிளைக் கைப்பற்றியவர்கள் யார்?",
         "options": [
           "செல்ஜுக் துருக்கியர்",
-          "மங்கோலியர்",
+          "ஆட்டோமன் துருக்கியர்",
           "அரேபியர்",
-          "ஆட்டோமன் துருக்கியர்"
+          "மங்கோலியர்"
         ],
         "explanation": "இந்நிகழ்வு மறுமலர்ச்சியின் தோற்றத்துக்குத் தூண்டுகோலாயிற்று."
       }
@@ -329,14 +329,14 @@
       "bloom": "remember",
       "page": 111,
       "quote": "II.3 ____ is famous for his paintings in the ceiling of the Sistine Chapel.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Who is famous for his paintings on the ceiling of the Sistine Chapel in Rome?",
         "options": [
           "Raphael",
-          "Michelangelo",
+          "Durer",
           "Leonardo da Vinci",
-          "Durer"
+          "Michelangelo"
         ],
         "explanation": "Michelangelo also made the marble sculpture of David."
       },
@@ -344,9 +344,9 @@
         "q": "ரோமிலுள்ள சிஸ்டைன் தேவாலயக் கூரை ஓவியங்களுக்குப் புகழ்பெற்றவர் யார்?",
         "options": [
           "ரபேல்",
-          "மைக்கேலேஞ்சலோ",
+          "டியூரர்",
           "லியனார்டோ டாவின்சி",
-          "டியூரர்"
+          "மைக்கேலேஞ்சலோ"
         ],
         "explanation": "மைக்கேலேஞ்சலோ 'டேவிட்' பளிங்குச் சிற்பத்தையும் வடித்தார்."
       }
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 111,
       "quote": "II.4 The reformation of the Catholic Church is known as ____ .",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The reformation of the Catholic Church from within is known as the:",
         "options": [
           "Protestant Reformation",
           "Renaissance",
-          "Inquisition",
-          "Counter Reformation"
+          "Counter Reformation",
+          "Inquisition"
         ],
         "explanation": "Pope Paul III and his successors introduced rigorous reforms."
       },
@@ -374,8 +374,8 @@
         "options": [
           "புராட்டஸ்டன்ட் சீர்திருத்தம்",
           "மறுமலர்ச்சி",
-          "விசாரணை மன்றம்",
-          "எதிர்ச் சீர்திருத்தம்"
+          "எதிர்ச் சீர்திருத்தம்",
+          "விசாரணை மன்றம்"
         ],
         "explanation": "போப் மூன்றாம் பால் மற்றும் அவர் வாரிசுகள் கடுமையான சீர்திருத்தங்களைக் கொண்டுவந்தனர்."
       }
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 111,
       "quote": "II.5 The chief features of Commercial Revolution were ____ , ____ and ____ .",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The chief features of the Commercial Revolution were:",
         "options": [
           "feudalism, serfdom and vassalage",
-          "printing, gunpowder and compass",
           "banking, joint-stock companies and growth of trade",
+          "printing, gunpowder and compass",
           "mercenary armies, castles and tournaments"
         ],
         "explanation": "Geographical discoveries led to the Commercial Revolution."
@@ -402,8 +402,8 @@
         "q": "வணிகப் புரட்சியின் முக்கியக் கூறுகள் எவை?",
         "options": [
           "நிலமானியம், பண்ணையடிமை முறை, சார்புரிமை",
-          "அச்சு, வெடிமருந்து, காந்த ஊசி",
           "வங்கி முறை, கூட்டுப்பங்கு நிறுவனங்கள், வணிக வளர்ச்சி",
+          "அச்சு, வெடிமருந்து, காந்த ஊசி",
           "கூலிப்படைகள், கோட்டைகள், போட்டிகள்"
         ],
         "explanation": "புவியியல் கண்டுபிடிப்புகள் வணிகப் புரட்சிக்கு வழிவகுத்தன."
@@ -445,24 +445,24 @@
       "bloom": "remember",
       "page": 111,
       "quote": "III.2 a. Discovery of new lands and sea routes shifted the economic centre from Italian city states to Spain and Portugal. b. Horses were native to America. c. During the beginning of the Modern Age, State did not interfere in economic activities. d. The Portuguese collaborated with the Arabs in its trading activities in India.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which statement about the geographical discoveries is correct?",
         "options": [
-          "The economic centre of Europe shifted from the Italian city-states to Spain and Portugal.",
+          "The Portuguese collaborated with the Arabs in their Indian trade.",
           "Horses were native to America.",
           "The state did not interfere in economic activities in the early modern age.",
-          "The Portuguese collaborated with the Arabs in their Indian trade."
+          "The economic centre of Europe shifted from the Italian city-states to Spain and Portugal."
         ],
         "explanation": "Horses were taken to America by Europeans; mercantilism involved state monopoly; the Portuguese eliminated Arab competition by force."
       },
       "ta": {
         "q": "புவியியல் கண்டுபிடிப்புகள் குறித்துச் சரியான கூற்று எது?",
         "options": [
-          "ஐரோப்பாவின் பொருளாதார மையம் இத்தாலிய நகர அரசுகளிலிருந்து ஸ்பெயின், போர்ச்சுகலுக்கு மாறியது.",
+          "இந்திய வணிகத்தில் போர்ச்சுகீசியர் அரேபியருடன் இணைந்து செயல்பட்டனர்.",
           "குதிரைகள் அமெரிக்காவின் பூர்வீக விலங்குகள்.",
           "நவீன யுக தொடக்கத்தில் அரசு பொருளாதார நடவடிக்கைகளில் தலையிடவில்லை.",
-          "இந்திய வணிகத்தில் போர்ச்சுகீசியர் அரேபியருடன் இணைந்து செயல்பட்டனர்."
+          "ஐரோப்பாவின் பொருளாதார மையம் இத்தாலிய நகர அரசுகளிலிருந்து ஸ்பெயின், போர்ச்சுகலுக்கு மாறியது."
         ],
         "explanation": "குதிரைகளை ஐரோப்பியர் அமெரிக்காவுக்குக் கொண்டுசென்றனர்; வணிகவாதத்தில் அரசு ஏகபோகம் இருந்தது; போர்ச்சுகீசியர் அரேபியப் போட்டியைப் படைபலத்தால் அகற்றினர்."
       }
@@ -474,13 +474,13 @@
       "bloom": "remember",
       "page": 111,
       "quote": "IV. Match: Feudalism – Hierarchical socioeconomic structure; Humanism – Human dignity; Inquisition – Trial of Heretics; Mercantilism – Monopoly Trade; Columbian Exchange – Movement of goods between America and Europe",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Match:\na) Feudalism\nb) Humanism\nc) Inquisition\nd) Columbian Exchange\n1. Human dignity\n2. Trial of heretics\n3. Movement of goods between America and Europe\n4. Hierarchical socio-economic structure",
         "options": [
-          "a-4, b-1, c-2, d-3",
-          "a-1, b-4, c-2, d-3",
           "a-4, b-1, c-3, d-2",
+          "a-1, b-4, c-2, d-3",
+          "a-4, b-1, c-2, d-3",
           "a-2, b-1, c-4, d-3"
         ],
         "explanation": "Feudalism – hierarchy; humanism – human dignity; Inquisition – trial of heretics; Columbian Exchange – movement of plants, animals and diseases."
@@ -488,9 +488,9 @@
       "ta": {
         "q": "பொருத்துக:\nஅ) நிலமானிய முறை\nஆ) மனிதநேயம்\nஇ) விசாரணை மன்றம்\nஈ) கொலம்பியப் பரிமாற்றம்\n1. மனித மாண்பு\n2. மதவிரோதிகள் மீதான விசாரணை\n3. அமெரிக்காவுக்கும் ஐரோப்பாவுக்கும் இடையே பொருள்கள் இடமாற்றம்\n4. படிநிலைச் சமூக-பொருளாதார அமைப்பு",
         "options": [
-          "அ-4, ஆ-1, இ-2, ஈ-3",
-          "அ-1, ஆ-4, இ-2, ஈ-3",
           "அ-4, ஆ-1, இ-3, ஈ-2",
+          "அ-1, ஆ-4, இ-2, ஈ-3",
+          "அ-4, ஆ-1, இ-2, ஈ-3",
           "அ-2, ஆ-1, இ-4, ஈ-3"
         ],
         "explanation": "நிலமானியம் – படிநிலை; மனிதநேயம் – மனித மாண்பு; விசாரணை மன்றம் – மதவிரோதிகள் விசாரணை; கொலம்பியப் பரிமாற்றம் – தாவர, விலங்கு, நோய் இடமாற்றம்."
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 111,
       "quote": "Mercantilism – Monopoly Trade",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The chief feature of mercantilism was:",
         "options": [
           "free trade without monopolies",
-          "self-sufficient village economy",
+          "exploitation of colonial resources for the benefit of the colonisers",
           "abolition of joint-stock companies",
-          "exploitation of colonial resources for the benefit of the colonisers"
+          "self-sufficient village economy"
         ],
         "explanation": "The English East India Company had monopoly trade in India."
       },
@@ -518,9 +518,9 @@
         "q": "வணிகவாதத்தின் முதன்மைப் பண்பு என்ன?",
         "options": [
           "ஏகபோகமற்ற தடையற்ற வணிகம்",
-          "தன்னிறைவு கிராமப் பொருளாதாரம்",
+          "குடியேற்ற நாட்டு வளங்களைக் குடியேற்றும் நாட்டின் நலனுக்காகச் சுரண்டுதல்",
           "கூட்டுப்பங்கு நிறுவனங்களை ஒழித்தல்",
-          "குடியேற்ற நாட்டு வளங்களைக் குடியேற்றும் நாட்டின் நலனுக்காகச் சுரண்டுதல்"
+          "தன்னிறைவு கிராமப் பொருளாதாரம்"
         ],
         "explanation": "இங்கிலாந்தின் கிழக்கிந்திய கம்பெனி இந்தியாவில் ஏகபோக வணிகம் செய்தது."
       }

@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 276,
       "quote": "Libre Office Calc is one of the packages of Libre Office. It is mainly developed for calculation. Each page in Calc is called a spreadsheet. A spreadsheet consists of rows and columns.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Libre Office Calc is mainly developed for ______.",
         "options": [
           "word processing",
           "presentation",
-          "calculation",
-          "drawing"
+          "drawing",
+          "calculation"
         ],
         "explanation": "A spreadsheet consists of rows and columns."
       },
@@ -26,8 +26,8 @@
         "options": [
           "சொல் செயலாக்கத்திற்காக",
           "படவில்லைக் காட்சிக்காக",
-          "கணக்கிடுவதற்காக",
-          "வரைவதற்காக"
+          "வரைவதற்காக",
+          "கணக்கிடுவதற்காக"
         ],
         "explanation": "அட்டவணைச் செயலி நெடுவரிசைகளையும் கிடைவரிசைகளையும் கொண்டது."
       }
@@ -39,12 +39,12 @@
       "bloom": "remember",
       "page": 276,
       "quote": "Applications of electronic spreadsheets: payment of bills, income tax calculations, invoices or bills, account statements, inventory control, cost-benefits analysis, financial accounting, tender evaluation, result analysis of students.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which of the following is an application of electronic spreadsheets?",
         "options": [
-          "Result analysis of students",
           "Playing music",
+          "Result analysis of students",
           "Editing photographs",
           "Sending e-mails only"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "மின்னணு அட்டவணைச் செயலிகளின் பயன்பாடு எது?",
         "options": [
-          "மாணவர்களின் தேர்வு முடிவுப் பகுப்பாய்வு",
           "இசை இசைத்தல்",
+          "மாணவர்களின் தேர்வு முடிவுப் பகுப்பாய்வு",
           "புகைப்படங்களைத் திருத்துதல்",
           "மின்னஞ்சல் அனுப்புதல் மட்டும்"
         ],
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 276,
       "quote": "Advantages of electronic spreadsheets: calculations are automated through built-in mathematical, financial and statistical functions; accurate results to any desired level of decimal points; worksheets can be quite big; any part can be viewed or edited; can be saved and retrieved later; data can be viewed in the form of graphs or charts; information can be transferred to any database or word processing software.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which of the following is an advantage of an electronic spreadsheet?",
         "options": [
           "Calculations must be done manually",
-          "A worksheet cannot be saved",
+          "Worksheet data can be viewed in the form of graphs or charts",
           "Results are accurate only to whole numbers",
-          "Worksheet data can be viewed in the form of graphs or charts"
+          "A worksheet cannot be saved"
         ],
         "explanation": "Calculations are automated through built-in mathematical, financial and statistical functions."
       },
@@ -83,9 +83,9 @@
         "q": "மின்னணு விரிதாளின் நன்மை எது?",
         "options": [
           "கணக்கீடுகளைக் கையால் செய்ய வேண்டும்",
-          "பணித்தாளைச் சேமிக்க முடியாது",
+          "பணித்தாள் தரவை வரைபடங்கள் அல்லது விளக்கப்படங்களாகக் காணலாம்",
           "முழு எண் வரை மட்டுமே துல்லியம்",
-          "பணித்தாள் தரவை வரைபடங்கள் அல்லது விளக்கப்படங்களாகக் காணலாம்"
+          "பணித்தாளைச் சேமிக்க முடியாது"
         ],
         "explanation": "உள்ளமைந்த கணிதம், நிதி, புள்ளியியல் சார்புகளால் கணக்கீடுகள் தானாக நிகழ்கின்றன."
       }
@@ -97,24 +97,24 @@
       "bloom": "remember",
       "page": 277,
       "quote": "Libre Office Calc can be opened by clicking the Start button and then Libre Office Calc. A worksheet is the area where you perform all the tasks. Combination of one or more worksheets forms a workbook. Every workbook contains three worksheets by default. Sheet-1 is the active worksheet when you open the Libre Office Calc window for the first time.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "According to the textbook, every workbook contains ______ worksheets by default.",
         "options": [
-          "twenty",
+          "three",
           "five",
           "ten",
-          "three"
+          "twenty"
         ],
         "explanation": "Sheet-1 is the active worksheet when Calc is opened for the first time."
       },
       "ta": {
         "q": "பாடநூலின்படி இயல்பாக ஒவ்வொரு பணிப்புத்தகத்திலும் ______ பணித்தாள்கள் இருக்கும்.",
         "options": [
-          "இருபது",
+          "மூன்று",
           "ஐந்து",
           "பத்து",
-          "மூன்று"
+          "இருபது"
         ],
         "explanation": "கால்க்கை முதன்முதலில் திறக்கும்போது Sheet-1 செயல்படு பணித்தாளாக இருக்கும்."
       }
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 277,
       "quote": "A column is a vertical line of boxes. The columns are labeled from A to Z and thereafter as AA, AB... up to AMJ. A row is a horizontal line of boxes labeled with numbers 1, 2, 3... The intersection of a row and a column is known as a cell.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "In a Calc worksheet, the intersection of a row and a column is called a ______.",
         "options": [
           "range",
-          "cell",
+          "function",
           "workbook",
-          "function"
+          "cell"
         ],
         "explanation": "Columns are labeled with letters and rows with numbers."
       },
@@ -141,9 +141,9 @@
         "q": "கால்க் பணித்தாளில் ஒரு கிடைவரிசையும் நெடுவரிசையும் வெட்டிக்கொள்ளும் இடம் ______ எனப்படும்.",
         "options": [
           "வரம்பு",
-          "கட்டம் (செல்)",
+          "சார்பு",
           "பணிப்புத்தகம்",
-          "சார்பு"
+          "கட்டம் (செல்)"
         ],
         "explanation": "நெடுவரிசைகள் எழுத்துகளாலும் கிடைவரிசைகள் எண்களாலும் குறிக்கப்படுகின்றன."
       }
@@ -184,13 +184,13 @@
       "bloom": "remember",
       "page": 278,
       "quote": "To save the worksheet, go to the File menu and select the Save or Save As option. In order to close the worksheet, go to the File menu and select the Close option. To open a saved worksheet, select the Open option from the File menu. The Exit Libre Office option under the File menu can be used to quit from Libre Office Calc.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "To save a worksheet in Libre Office Calc, we use the ______ menu and select Save or Save As.",
         "options": [
           "Insert",
-          "File",
           "Data",
+          "File",
           "Format"
         ],
         "explanation": "To insert a chart, use Insert → Chart; to sort, use Data → Sort."
@@ -199,8 +199,8 @@
         "q": "லிப்ரே ஆஃபிஸ் கால்க்கில் பணித்தாளைச் சேமிக்க ______ பட்டியில் Save அல்லது Save As என்பதைத் தேர்ந்தெடுக்கிறோம்.",
         "options": [
           "Insert",
-          "File",
           "Data",
+          "File",
           "Format"
         ],
         "explanation": "சார்ட் சேர்க்க Insert → Chart; வரிசைப்படுத்த Data → Sort."
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 278,
       "quote": "Merge cells: when you type text that is too long to fit in the cell, the text will overlap on the next cell. If you want it to display in a single line, you can merge the cell. Go to Format in the menu bar and choose merge cells, or select the cells and right click and select merge cells.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Cells are merged in order to ______.",
         "options": [
-          "display a long text in a single line",
-          "sort the data",
           "delete the text",
+          "sort the data",
+          "display a long text in a single line",
           "draw a chart"
         ],
         "explanation": "Use Format → Merge cells or the right-click menu."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "கட்டங்களை ஒன்றிணைப்பது ______.",
         "options": [
-          "நீண்ட உரையை ஒரே வரியில் காட்ட",
-          "தரவை வரிசைப்படுத்த",
           "உரையை நீக்க",
+          "தரவை வரிசைப்படுத்த",
+          "நீண்ட உரையை ஒரே வரியில் காட்ட",
           "சார்ட் வரைய"
         ],
         "explanation": "Format → Merge cells அல்லது வலது சொடுக்குப் பட்டியைப் பயன்படுத்தலாம்."
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 279,
       "quote": "To generate auto numbers: enter first two numbers of the series in two cells; select both the cells; move the cursor to the right-side bottom of the cell - the cursor will change to a plus sign; drag the plus sign to the cell you desire; the numbers will be generated automatically.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "To generate auto numbers, the first ______ numbers of the series are entered in two cells.",
         "options": [
           "one",
-          "five",
+          "two",
           "ten",
-          "two"
+          "five"
         ],
         "explanation": "Then select both the cells and drag the plus sign."
       },
@@ -257,9 +257,9 @@
         "q": "தானியங்கி எண்களை உருவாக்க தொடரின் முதல் ______ எண்கள் இரு கட்டங்களில் உள்ளிடப்படுகின்றன.",
         "options": [
           "ஒன்று",
-          "ஐந்து",
+          "இரண்டு",
           "பத்து",
-          "இரண்டு"
+          "ஐந்து"
         ],
         "explanation": "பின்னர் இரு கட்டங்களையும் தேர்ந்தெடுத்துக் கூட்டல் குறியை இழுக்க வேண்டும்."
       }
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 279,
       "quote": "A formula in Libre Office Calc starts with an equal to (=) sign. To create a simple text value, enclose it in double quotes. The ampersand (&) character is used to join text values to one another. For example = \"Libre\" & \"Office\" gives 'Libre Office'.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "A simple text value in a Calc formula is enclosed in ______.",
         "options": [
           "curly brackets",
           "square brackets",
-          "double quotes",
-          "hash signs"
+          "hash signs",
+          "double quotes"
         ],
         "explanation": "The ampersand (&) joins text values."
       },
@@ -287,8 +287,8 @@
         "options": [
           "சுருள் அடைப்புக்குள்",
           "சதுர அடைப்புக்குள்",
-          "இரட்டை மேற்கோள் குறிகளுக்குள்",
-          "ஹாஷ் குறிகளுக்குள்"
+          "ஹாஷ் குறிகளுக்குள்",
+          "இரட்டை மேற்கோள் குறிகளுக்குள்"
         ],
         "explanation": "ஆம்பர்சாண்ட் (&) உரை மதிப்புகளை இணைக்கிறது."
       }
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 280,
       "quote": "Statistical functions: SUM() calculates the total; AVERAGE() calculates the average; MAX() the maximum value; MIN() the minimum value; COUNT() counts the number of values (cells containing numbers). For example =SUM(A2:A6) = 335; =AVERAGE(A2:A6) = 67; =MAX(A2:A6) = 87; =MIN(A2:A6) = 47; =COUNT(A2:A6) = 5.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The function that calculates the average of a given set of values is ______.",
         "options": [
           "SUM()",
-          "AVERAGE()",
+          "MAX()",
           "COUNT()",
-          "MAX()"
+          "AVERAGE()"
         ],
         "explanation": "In the textbook example, =AVERAGE(A2:A6) gives 67."
       },
@@ -315,9 +315,9 @@
         "q": "கொடுக்கப்பட்ட மதிப்புகளின் சராசரியைக் கணக்கிடும் சார்பு ______.",
         "options": [
           "SUM()",
-          "AVERAGE()",
+          "MAX()",
           "COUNT()",
-          "MAX()"
+          "AVERAGE()"
         ],
         "explanation": "பாடநூல் எடுத்துக்காட்டில் =AVERAGE(A2:A6) என்பது 67 எனத் தருகிறது."
       }
@@ -329,12 +329,12 @@
       "bloom": "remember",
       "page": 280,
       "quote": "Operators in Libre Office Calc: Arithmetic, Relational and Logical. Arithmetic operators (+, -, *, /, ^, %) do calculations with numeric values; they cannot be used with strings. Relational operators (=, <>, >, <, >=, <=) compare two values and give True or False. Logical operators: NOT, AND, OR.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which of the following is a logical operator in Libre Office Calc?",
         "options": [
-          "AND",
           "<>",
+          "AND",
           "^",
           "%"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "லிப்ரே ஆஃபிஸ் கால்க்கில் தருக்கச் செயலி எது?",
         "options": [
-          "AND",
           "<>",
+          "AND",
           "^",
           "%"
         ],
@@ -358,24 +358,24 @@
       "bloom": "remember",
       "page": 280,
       "quote": "Arithmetic operators: + Addition, - Subtraction, * Multiplication, / Division, ^ Exponentiation, % Percent.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "In Libre Office Calc, the operator used for exponentiation is ______.",
         "options": [
-          "*",
+          "^",
           "/",
           "%",
-          "^"
+          "*"
         ],
         "explanation": "* is multiplication; / is division; % is percent."
       },
       "ta": {
         "q": "லிப்ரே ஆஃபிஸ் கால்க்கில் அடுக்கேற்றத்திற்குப் பயன்படும் செயலி ______.",
         "options": [
-          "*",
+          "^",
           "/",
           "%",
-          "^"
+          "*"
         ],
         "explanation": "* பெருக்கல்; / வகுத்தல்; % சதவீதம்."
       }
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 280,
       "quote": "Relational operators: = Equal to; <> Not equal to; > Greater than; < Less than; >= Greater than or equal to; <= Less than or equal to. Logical Operators are used to compare two or more relational expressions and always give a single value as a result: True or False.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The relational operator <> means ______.",
         "options": [
           "greater than",
           "equal to",
-          "not equal to",
-          "less than or equal to"
+          "less than or equal to",
+          "not equal to"
         ],
         "explanation": "Relational operators always give True or False."
       },
@@ -403,8 +403,8 @@
         "options": [
           "பெரியது",
           "சமம்",
-          "சமமில்லை",
-          "சிறியது அல்லது சமம்"
+          "சிறியது அல்லது சமம்",
+          "சமமில்லை"
         ],
         "explanation": "தொடர்புச் செயலிகள் எப்போதும் True அல்லது False என்ற முடிவைத் தருகின்றன."
       }
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 281,
       "quote": "Sorting is arranging a given set of data according to a particular order (ascending or descending). To sort, select the data and click Data → Sort. The purpose of a chart is to visualize the data for easy understanding. To draw a chart, select the data and click Insert → Chart or the Insert Chart icon.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "To insert a chart in Libre Office Calc, the data is selected and then ______ is clicked.",
         "options": [
           "Data → Sort",
           "File → Save",
-          "Insert → Chart",
-          "Format → Merge cells"
+          "Format → Merge cells",
+          "Insert → Chart"
         ],
         "explanation": "A chart helps to visualize the data for easy understanding."
       },
@@ -432,8 +432,8 @@
         "options": [
           "Data → Sort",
           "File → Save",
-          "Insert → Chart",
-          "Format → Merge cells"
+          "Format → Merge cells",
+          "Insert → Chart"
         ],
         "explanation": "சார்ட் தரவை எளிதில் புரிந்துகொள்ளக் காட்சிப்படுத்த உதவுகிறது."
       }

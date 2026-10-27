@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 40,
       "quote": "Electrostatic forces between two point charges obey Newton's third law. The force on one charge is the action and on the other is reaction.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Electrostatic forces between two point charges obey",
         "options": [
-          "Newton's third law",
-          "Newton's first law only",
           "Ohm's law",
+          "Newton's first law only",
+          "Newton's third law",
           "Archimedes' principle"
         ],
         "explanation": "The force on one charge is the action and on the other the reaction."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "இரு புள்ளி மின்னூட்டங்களுக்கு இடையிலான நிலைமின்னியல் விசைகள் பின்பற்றுவது",
         "options": [
-          "நியூட்டனின் மூன்றாம் விதி",
-          "நியூட்டனின் முதல் விதி மட்டும்",
           "ஓம் விதி",
+          "நியூட்டனின் முதல் விதி மட்டும்",
+          "நியூட்டனின் மூன்றாம் விதி",
           "ஆர்க்கிமிடிஸ் தத்துவம்"
         ],
         "explanation": "ஒரு மின்னூட்டத்தின் மீதான விசை செயல்; மற்றதன் மீதானது எதிர்ச்செயல்."
@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 39,
       "quote": "The charge of an electron (represented as e) is the fundamental unit with a charge equal to 1.6 x 10^-19 C. Any charge q = ne.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The charge of one electron is",
         "options": [
-          "1.6 x 10^19 C",
+          "1.6 x 10^-19 C",
           "9.1 x 10^-31 C",
           "6.25 x 10^18 C",
-          "1.6 x 10^-19 C"
+          "1.6 x 10^19 C"
         ],
         "explanation": "e = 1.6 x 10^-19 C is the fundamental unit of charge; q = ne with n a whole number."
       },
       "ta": {
         "q": "ஓர் எலக்ட்ரானின் மின்னூட்டம்",
         "options": [
-          "1.6 x 10^19 C",
+          "1.6 x 10^-19 C",
           "9.1 x 10^-31 C",
           "6.25 x 10^18 C",
-          "1.6 x 10^-19 C"
+          "1.6 x 10^19 C"
         ],
         "explanation": "e = 1.6 x 10^-19 C என்பது அடிப்படை மின்னூட்ட அலகு; q = ne (n முழு எண்)."
       }
@@ -68,13 +68,13 @@
       "bloom": "apply",
       "page": 40,
       "quote": "How many electrons will be there in one coulomb of charge? n = 1 / 1.6 x 10^-19 = 6.25 x 10^18 electrons.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The number of electrons in one coulomb of charge is about",
         "options": [
           "1.6 x 10^-19",
-          "6.25 x 10^18",
           "6.25 x 10^-18",
+          "6.25 x 10^18",
           "1.6 x 10^19"
         ],
         "explanation": "n = q / e = 1 / 1.6 x 10^-19 = 6.25 x 10^18."
@@ -83,8 +83,8 @@
         "q": "ஒரு கூலூம் மின்னூட்டத்தில் உள்ள எலக்ட்ரான்களின் எண்ணிக்கை ஏறத்தாழ",
         "options": [
           "1.6 x 10^-19",
-          "6.25 x 10^18",
           "6.25 x 10^-18",
+          "6.25 x 10^18",
           "1.6 x 10^19"
         ],
         "explanation": "n = q / e = 1 / 1.6 x 10^-19 = 6.25 x 10^18."
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 40,
       "quote": "Electric field at a point is a measure of force acting on a unit positive charge placed at that point. A positive charge will experience force in the direction of electric field and a negative charge in the opposite direction.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A negative charge placed in an electric field experiences a force",
         "options": [
           "in the direction of the field",
-          "perpendicular to the field",
+          "opposite to the direction of the field",
           "of zero magnitude",
-          "opposite to the direction of the field"
+          "perpendicular to the field"
         ],
         "explanation": "The field direction is that of the force on a small positive charge; a negative charge experiences force in the opposite direction."
       },
@@ -112,9 +112,9 @@
         "q": "மின்புலத்தில் வைக்கப்பட்ட எதிர் மின்னூட்டம் உணரும் விசையின் திசை",
         "options": [
           "மின்புலத் திசையிலேயே",
-          "மின்புலத்திற்குச் செங்குத்து",
+          "மின்புலத் திசைக்கு எதிர்த்திசை",
           "விசை சுழி",
-          "மின்புலத் திசைக்கு எதிர்த்திசை"
+          "மின்புலத்திற்குச் செங்குத்து"
         ],
         "explanation": "நேர் மின்னூட்டம் உணரும் விசையின் திசையே மின்புலத் திசை; எதிர் மின்னூட்டத்திற்கு அதற்கு எதிர்த்திசை."
       }
@@ -126,24 +126,24 @@
       "bloom": "remember",
       "page": 41,
       "quote": "In electrical circuits the positive terminal is represented by a long line and negative terminal as a short line. Battery is the combination of more than one cell.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "In a circuit diagram, the positive terminal of a cell is represented by",
         "options": [
-          "a zig-zag line",
+          "a long line",
           "a short line",
           "a circle",
-          "a long line"
+          "a zig-zag line"
         ],
         "explanation": "Positive terminal - long line; negative terminal - short line; a battery is a combination of more than one cell."
       },
       "ta": {
         "q": "மின்சுற்று வரைபடத்தில் மின்கலத்தின் நேர் முனை குறிக்கப்படுவது",
         "options": [
-          "வளைந்த கோடு",
+          "நீண்ட கோடு",
           "குட்டைக் கோடு",
           "வட்டம்",
-          "நீண்ட கோடு"
+          "வளைந்த கோடு"
         ],
         "explanation": "நேர் முனை நீண்ட கோட்டாலும் எதிர் முனை குட்டைக் கோட்டாலும் குறிக்கப்படும்; பல மின்கலங்களின் தொகுப்பு மின்கல அடுக்கு."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 42,
       "quote": "The e.m.f of an electrical energy source is one volt if one joule of work is done by the source to drive one coulomb of charge completely around the circuit. epsilon = W/q",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The e.m.f of a source is one volt if",
         "options": [
           "one coulomb of charge flows per second",
-          "one ampere flows through one ohm",
           "one joule of work is done to drive one coulomb of charge around the complete circuit",
+          "one ampere flows through one ohm",
           "one newton acts on one metre"
         ],
         "explanation": "e.m.f = W/q; its SI unit is joule per coulomb, i.e. volt."
@@ -170,8 +170,8 @@
         "q": "ஒரு மின்னாற்றல் மூலத்தின் மின்னியக்கு விசை ஒரு வோல்ட் எனப்படுவது",
         "options": [
           "ஒரு வினாடியில் ஒரு கூலூம் மின்னூட்டம் பாயும்போது",
-          "ஒரு ஓம் வழியே ஒரு ஆம்பியர் பாயும்போது",
           "ஒரு கூலூம் மின்னூட்டத்தைச் சுற்றை முழுமையாகச் சுற்றி வரச் செய்ய ஒரு ஜூல் வேலை செய்யப்படும்போது",
+          "ஒரு ஓம் வழியே ஒரு ஆம்பியர் பாயும்போது",
           "ஒரு மீட்டரில் ஒரு நியூட்டன் செயல்படும்போது"
         ],
         "explanation": "மின்னியக்கு விசை = W/q; அலகு ஜூல்/கூலூம் = வோல்ட்."
@@ -184,13 +184,13 @@
       "bloom": "remember",
       "page": 43,
       "quote": "The SI unit of resistance is ohm. One ohm is the resistance of a component when the potential difference of one volt applied across the component drives a current of one ampere through it.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "One ohm is the resistance of a component when",
         "options": [
-          "1 volt across it drives a current of 1 ampere",
-          "1 coulomb is stored in it",
           "1 joule is lost per second",
+          "1 coulomb is stored in it",
+          "1 volt across it drives a current of 1 ampere",
           "1 ampere flows for 1 hour"
         ],
         "explanation": "R = V/I; 1 ohm = 1 V / 1 A."
@@ -198,9 +198,9 @@
       "ta": {
         "q": "ஒரு ஓம் மின்தடை என்பது",
         "options": [
-          "ஒரு வோல்ட் மின்னழுத்த வேறுபாடு ஒரு ஆம்பியர் மின்னோட்டத்தை உண்டாக்கும் தடை",
-          "ஒரு கூலூம் சேமிக்கப்படும் தடை",
           "வினாடிக்கு ஒரு ஜூல் இழக்கும் தடை",
+          "ஒரு கூலூம் சேமிக்கப்படும் தடை",
+          "ஒரு வோல்ட் மின்னழுத்த வேறுபாடு ஒரு ஆம்பியர் மின்னோட்டத்தை உண்டாக்கும் தடை",
           "ஒரு ஆம்பியர் ஒரு மணி நேரம் பாயும் தடை"
         ],
         "explanation": "R = V/I; 1 ஓம் = 1 V / 1 A."
@@ -213,24 +213,24 @@
       "bloom": "remember",
       "page": 43,
       "quote": "Metals like copper, aluminium etc., have very much negligible resistance. That is why they are called good conductors. Materials like nicrome, tin oxide etc. offer high resistance. Insulators: glass, polymer, rubber and paper.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which of the following is an insulator?",
         "options": [
-          "Rubber",
+          "Nichrome",
           "Copper",
           "Aluminium",
-          "Nichrome"
+          "Rubber"
         ],
         "explanation": "Glass, polymer, rubber and paper do not conduct electric current at all; copper and aluminium are good conductors."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் மின்காப்புப் பொருள் எது?",
         "options": [
-          "ரப்பர்",
+          "நிக்ரோம்",
           "தாமிரம்",
           "அலுமினியம்",
-          "நிக்ரோம்"
+          "ரப்பர்"
         ],
         "explanation": "கண்ணாடி, பலபடி, ரப்பர், காகிதம் ஆகியவை மின்னோட்டத்தைக் கடத்தாது; தாமிரம், அலுமினியம் நல்ல கடத்திகள்."
       }
@@ -242,14 +242,14 @@
       "bloom": "understand",
       "page": 44,
       "quote": "Note: Difference between e.m.f and potential difference: The e.m.f refers to the voltage developed across the terminals of an electrical source when it does not produce current in the circuit. Potential difference refers to the voltage developed between any two points in an electric circuit when there is current in the circuit.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The e.m.f of a source is the voltage across its terminals",
         "options": [
           "when maximum current flows",
           "when it is short-circuited",
-          "when it does not produce current in the circuit",
-          "when it is connected to a voltmeter in series"
+          "when it is connected to a voltmeter in series",
+          "when it does not produce current in the circuit"
         ],
         "explanation": "e.m.f is measured when no current is drawn; potential difference is measured between two points when current flows."
       },
@@ -258,8 +258,8 @@
         "options": [
           "பெருமளவு மின்னோட்டம் பாயும்போது",
           "குறுக்குச் சுற்று செய்யப்படும்போது",
-          "சுற்றில் மின்னோட்டம் இல்லாதபோது",
-          "வோல்ட்மீட்டர் தொடரிணைப்பில் இருக்கும்போது"
+          "வோல்ட்மீட்டர் தொடரிணைப்பில் இருக்கும்போது",
+          "சுற்றில் மின்னோட்டம் இல்லாதபோது"
         ],
         "explanation": "மின்னோட்டம் இல்லாதபோது முனைகளுக்கிடையிலான மின்னழுத்தம் மின்னியக்கு விசை; மின்னோட்டம் பாயும்போது இரு புள்ளிகளுக்கிடையிலானது மின்னழுத்த வேறுபாடு."
       }
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 45,
       "quote": "In a series circuit the current in each point of the circuit is same. In a parallel circuit the sum of the individual currents in the branches equals the main current; the potential difference across separate branches is same.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "In a parallel circuit",
         "options": [
           "the current in every branch is the same",
-          "the potential difference across each branch is the same",
+          "there is only one path for the charge",
           "the main current is zero",
-          "there is only one path for the charge"
+          "the potential difference across each branch is the same"
         ],
         "explanation": "In a parallel circuit there is more than one path; branch currents add up to the main current and p.d. across the branches is the same."
       },
@@ -286,9 +286,9 @@
         "q": "பக்க இணைப்பு மின்சுற்றில்",
         "options": [
           "ஒவ்வொரு கிளையிலும் மின்னோட்டம் சமம்",
-          "ஒவ்வொரு கிளையின் குறுக்கும் மின்னழுத்த வேறுபாடு சமம்",
+          "மின்னூட்டம் பாய ஒரே ஒரு பாதைதான் உண்டு",
           "முதன்மை மின்னோட்டம் சுழி",
-          "மின்னூட்டம் பாய ஒரே ஒரு பாதைதான் உண்டு"
+          "ஒவ்வொரு கிளையின் குறுக்கும் மின்னழுத்த வேறுபாடு சமம்"
         ],
         "explanation": "கிளை மின்னோட்டங்களின் கூடுதல் முதன்மை மின்னோட்டத்திற்குச் சமம்; கிளைகளின் குறுக்கே மின்னழுத்த வேறுபாடு சமம்."
       }
@@ -300,24 +300,24 @@
       "bloom": "remember",
       "page": 45,
       "quote": "In a series circuit the components are connected one after another in a single loop. The current I all along the series circuit remain same.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "In a series circuit the current",
         "options": [
-          "divides among the components",
+          "is the same at every point",
           "is zero in the first component",
           "is greatest at the battery only",
-          "is the same at every point"
+          "divides among the components"
         ],
         "explanation": "A series circuit has only one pathway, so the current is the same at each point."
       },
       "ta": {
         "q": "தொடரிணைப்பு மின்சுற்றில் மின்னோட்டம்",
         "options": [
-          "கூறுகளிடையே பிரிந்து செல்லும்",
+          "எல்லாப் புள்ளிகளிலும் சமம்",
           "முதல் கூறில் சுழி",
           "மின்கலத்தில் மட்டும் அதிகம்",
-          "எல்லாப் புள்ளிகளிலும் சமம்"
+          "கூறுகளிடையே பிரிந்து செல்லும்"
         ],
         "explanation": "தொடரிணைப்பில் ஒரே ஒரு பாதைதான் என்பதால் எல்லாப் புள்ளிகளிலும் மின்னோட்டம் சமம்."
       }
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 46,
       "quote": "The process of conduction of electric current through solutions is called 'electrolysis'. The solution through which the electricity passes is called 'electrolyte'. The positive terminal is called 'anode' and the negative terminal 'cathode'. In the experiment, copper wire is anode and carbon rod is cathode.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "In the electroplating activity with copper sulphate solution, the carbon rod acts as the",
         "options": [
-          "cathode",
-          "anode",
           "electrolyte",
+          "anode",
+          "cathode",
           "rheostat"
         ],
         "explanation": "The copper wire (positive terminal) is the anode and the carbon rod (negative terminal) is the cathode, on which fine copper is deposited."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "காப்பர் சல்பேட் கரைசலில் மின்முலாம் பூசும் செயல்பாட்டில் கார்பன் கம்பி செயல்படுவது",
         "options": [
-          "கேதோடாக",
-          "ஆனோடாக",
           "மின்பகுளியாக",
+          "ஆனோடாக",
+          "கேதோடாக",
           "ரியோஸ்டாட்டாக"
         ],
         "explanation": "செம்புக் கம்பி ஆனோடு; கார்பன் கம்பி கேதோடு; அதன் மீது செம்பு படிகிறது."
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 46,
       "quote": "Extremely weak electric current is produced in the human body by the movement of charged particles. These are called synaptic signals. These signals travel between brain and the organs through nervous system.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "According to the book, the extremely weak electric currents produced in the human body by the movement of charged particles are called",
         "options": [
           "alternating signals",
-          "rectifier signals",
+          "synaptic signals",
           "Joule signals",
-          "synaptic signals"
+          "rectifier signals"
         ],
         "explanation": "Synaptic signals are produced by an electro-chemical process and travel between the brain and the organs through the nervous system."
       },
@@ -431,9 +431,9 @@
         "q": "நூலின்படி, மனித உடலில் மின்னூட்டத் துகள்களின் இயக்கத்தால் உண்டாகும் மிக மெல்லிய மின்னோட்டங்கள்",
         "options": [
           "மாறு சமிக்ஞைகள்",
-          "திருத்தி சமிக்ஞைகள்",
+          "நரம்பிணைப்புச் சமிக்ஞைகள் (synaptic signals)",
           "ஜூல் சமிக்ஞைகள்",
-          "நரம்பிணைப்புச் சமிக்ஞைகள் (synaptic signals)"
+          "திருத்தி சமிக்ஞைகள்"
         ],
         "explanation": "இவை மின்வேதி நிகழ்வால் உண்டாகி நரம்பு மண்டலம் வழியே மூளைக்கும் உறுப்புகளுக்கும் செல்கின்றன."
       }
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 46,
       "quote": "Direction of current is shown by the right hand thumb and the direction of magnetic field is shown by other fingers of the same right hand (Fig. 4.12). Oersted and the 'right hand thumb rule'.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "According to the right hand thumb rule, the thumb shows the direction of the ______ and the other fingers show the direction of the ______.",
         "options": [
           "magnetic field; current",
-          "force; velocity",
           "current; magnetic field",
+          "force; velocity",
           "potential; resistance"
         ],
         "explanation": "Direction of current - right hand thumb; direction of magnetic field - other fingers of the same hand."
@@ -460,8 +460,8 @@
         "q": "வலக்கை பெருவிரல் விதிப்படி பெருவிரல் காட்டுவது ______; மற்ற விரல்கள் காட்டுவது ______.",
         "options": [
           "காந்தப்புலத் திசை; மின்னோட்டத் திசை",
-          "விசை; திசைவேகம்",
           "மின்னோட்டத் திசை; காந்தப்புலத் திசை",
+          "விசை; திசைவேகம்",
           "மின்னழுத்தம்; மின்தடை"
         ],
         "explanation": "பெருவிரல் மின்னோட்டத் திசையையும், மற்ற விரல்கள் காந்தப்புலத் திசையையும் காட்டும்."
@@ -503,24 +503,24 @@
       "bloom": "remember",
       "page": 47,
       "quote": "The device used to convert ac to dc is called rectifier. Colloquially it is called battery eliminator, dc adaptor. The device used to convert dc into ac is called inverter.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The device used to convert ac into dc is called a",
         "options": [
-          "rectifier",
+          "galvanometer",
           "inverter",
           "transformer",
-          "galvanometer"
+          "rectifier"
         ],
         "explanation": "A rectifier (battery eliminator / dc adaptor) converts ac to dc; an inverter converts dc to ac."
       },
       "ta": {
         "q": "ac-ஐ dc ஆக மாற்றப் பயன்படும் கருவி",
         "options": [
-          "திருத்தி (ரெக்டிஃபையர்)",
+          "கால்வனாமீட்டர்",
           "இன்வர்ட்டர்",
           "மின்மாற்றி",
-          "கால்வனாமீட்டர்"
+          "திருத்தி (ரெக்டிஃபையர்)"
         ],
         "explanation": "ac-ஐ dc ஆக மாற்றுவது திருத்தி; dc-ஐ ac ஆக மாற்றுவது இன்வர்ட்டர்."
       }
@@ -532,13 +532,13 @@
       "bloom": "remember",
       "page": 47,
       "quote": "Advantages of ac over dc: The voltage of ac can be varied easily using a transformer. The ac can be carried over long distances using step up transformers. Advantage of dc: Electricity can be stored only in the form of dc.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The voltage of alternating current can be changed easily by using a",
         "options": [
           "rectifier",
-          "rheostat",
           "transformer",
+          "rheostat",
           "voltmeter"
         ],
         "explanation": "A transformer varies ac voltage; step-up transformers allow transmission over long distances with negligible loss."
@@ -547,8 +547,8 @@
         "q": "மாறு மின்னோட்டத்தின் மின்னழுத்தத்தை எளிதாக மாற்றப் பயன்படுவது",
         "options": [
           "திருத்தி",
-          "ரியோஸ்டாட்",
           "மின்மாற்றி",
+          "ரியோஸ்டாட்",
           "வோல்ட்மீட்டர்"
         ],
         "explanation": "மின்மாற்றி ac மின்னழுத்தத்தை மாற்றும்; உயர்த்தும் மின்மாற்றிகளால் நெடுந்தொலைவு கடத்தலாம்."
@@ -561,14 +561,14 @@
       "bloom": "remember",
       "page": 48,
       "quote": "Resistance of a dry human body is about 1,00,000 ohm. Because of the presence of water in our body the resistance is reduced to few hundred ohm. Thus, a normal human body is a good conductor of electricity.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The resistance of a dry human body is about",
         "options": [
           "100 ohm",
-          "1,00,000 ohm",
+          "10 ohm",
           "1 ohm",
-          "10 ohm"
+          "1,00,000 ohm"
         ],
         "explanation": "A dry body has about 1,00,000 ohm; because of the water in it the resistance falls to a few hundred ohm."
       },
@@ -576,9 +576,9 @@
         "q": "உலர்ந்த மனித உடலின் மின்தடை ஏறத்தாழ",
         "options": [
           "100 ஓம்",
-          "1,00,000 ஓம்",
+          "10 ஓம்",
           "1 ஓம்",
-          "10 ஓம்"
+          "1,00,000 ஓம்"
         ],
         "explanation": "உலர்ந்த உடலின் மின்தடை ஏறத்தாழ 1,00,000 ஓம்; நீர் இருப்பதால் சில நூறு ஓமாகக் குறைகிறது."
       }
@@ -590,12 +590,12 @@
       "bloom": "apply",
       "page": 48,
       "quote": "Overload of power sockets: Do not connect too many electrical devices to a single electrical socket. Damaged insulation: Do not touch the bare wire. Use safety gloves and stand on insulating stool or rubber slippers.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Which precaution is correct when dealing with damaged insulation of a wire?",
         "options": [
-          "Touch the bare wire with a wet hand",
           "Do not touch the bare wire; use safety gloves and stand on an insulating stool",
+          "Touch the bare wire with a wet hand",
           "Ignore the damage",
           "Use more devices on that socket"
         ],
@@ -604,8 +604,8 @@
       "ta": {
         "q": "கம்பியின் மின்காப்பு சேதமடைந்திருக்கும்போது கடைப்பிடிக்க வேண்டிய சரியான பாதுகாப்பு",
         "options": [
-          "ஈரக்கையால் வெற்றுக் கம்பியைத் தொடுதல்",
           "வெற்றுக் கம்பியைத் தொடக்கூடாது; பாதுகாப்புக் கையுறை அணிந்து மின்காப்பு முக்காலியில் நிற்க வேண்டும்",
+          "ஈரக்கையால் வெற்றுக் கம்பியைத் தொடுதல்",
           "சேதத்தைப் புறக்கணித்தல்",
           "அந்தப் பொருத்தியில் மேலும் சாதனங்களை இணைத்தல்"
         ],
@@ -619,24 +619,24 @@
       "bloom": "remember",
       "page": 48,
       "quote": "Points to Remember: Electric current flows from higher electric potential to lower electric potential. The movement of the positive charge is called as conventional current. The flow of electrons is termed as electron current.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Conventional current flows from",
         "options": [
-          "lower potential to higher potential",
+          "higher potential to lower potential",
           "negative terminal to positive terminal inside the wire",
           "earth to the cell only",
-          "higher potential to lower potential"
+          "lower potential to higher potential"
         ],
         "explanation": "Conventional current (positive charge movement) flows from higher to lower potential, opposite to electron current."
       },
       "ta": {
         "q": "மரபு மின்னோட்டம் பாயும் திசை",
         "options": [
-          "குறைந்த மின்னழுத்தத்திலிருந்து உயர் மின்னழுத்தத்திற்கு",
+          "உயர் மின்னழுத்தத்திலிருந்து குறைந்த மின்னழுத்தத்திற்கு",
           "கம்பியினுள் எதிர் முனையிலிருந்து நேர் முனைக்கு",
           "புவியிலிருந்து மின்கலத்திற்கு மட்டும்",
-          "உயர் மின்னழுத்தத்திலிருந்து குறைந்த மின்னழுத்தத்திற்கு"
+          "குறைந்த மின்னழுத்தத்திலிருந்து உயர் மின்னழுத்தத்திற்கு"
         ],
         "explanation": "மரபு மின்னோட்டம் உயர் மின்னழுத்தத்திலிருந்து குறைந்த மின்னழுத்தத்திற்குப் பாயும்; எலக்ட்ரான் பாய்வுக்கு எதிர்த்திசை."
       }
@@ -648,14 +648,14 @@
       "bloom": "remember",
       "page": 39,
       "quote": "4.1 When you rub a plastic comb on your dry hair, the comb obtains power to attract small pieces of paper. Your hair is now positively charged as it has lost electrons and the comb is negatively charged as it has gained electrons.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "When a plastic comb is rubbed on dry hair, the hair becomes positively charged because it",
         "options": [
           "has gained protons",
           "has gained electrons",
-          "has lost electrons",
-          "has lost neutrons"
+          "has lost neutrons",
+          "has lost electrons"
         ],
         "explanation": "Electrons leave the hair and accumulate on the comb; the hair is positive and the comb negative."
       },
@@ -664,8 +664,8 @@
         "options": [
           "அது புரோட்டான்களைப் பெற்றது",
           "அது எலக்ட்ரான்களைப் பெற்றது",
-          "அது எலக்ட்ரான்களை இழந்தது",
-          "அது நியூட்ரான்களை இழந்தது"
+          "அது நியூட்ரான்களை இழந்தது",
+          "அது எலக்ட்ரான்களை இழந்தது"
         ],
         "explanation": "முடியிலிருந்து எலக்ட்ரான்கள் சீப்புக்குச் செல்வதால் முடி நேர் மின்னூட்டமும் சீப்பு எதிர் மின்னூட்டமும் பெறுகின்றன."
       }
@@ -677,13 +677,13 @@
       "bloom": "remember",
       "page": 48,
       "quote": "Points to Remember: The four main components of any circuit are: cell, connecting wire, switch and resistor.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which of the following is NOT one of the four main components of an electric circuit?",
         "options": [
           "Cell",
-          "Galvanometer",
           "Switch",
+          "Galvanometer",
           "Connecting wire"
         ],
         "explanation": "The four main components are cell, connecting wire, switch and resistor (load)."
@@ -692,8 +692,8 @@
         "q": "மின்சுற்றின் நான்கு முக்கியக் கூறுகளில் இடம்பெறாதது",
         "options": [
           "மின்கலம்",
-          "கால்வனாமீட்டர்",
           "சுவிட்ச்",
+          "கால்வனாமீட்டர்",
           "இணைப்புக் கம்பி"
         ],
         "explanation": "மின்கலம், இணைப்புக் கம்பி, சுவிட்ச், மின்தடையம் (சுமை) ஆகியவையே நான்கு முக்கியக் கூறுகள்."

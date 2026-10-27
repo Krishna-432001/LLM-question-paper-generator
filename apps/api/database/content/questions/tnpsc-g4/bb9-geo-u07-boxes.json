@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 220,
       "quote": "A map should include the following components namely, the title, scale, direction, grid system, projection, legend, conventional signs and symbols.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which map component is correctly matched with its function?",
         "options": [
-          "Title - purpose or theme of the map",
-          "Scale - direction of north",
           "Legend - latitude and longitude",
+          "Scale - direction of north",
+          "Title - purpose or theme of the map",
           "Projection - purpose of the map"
         ],
         "explanation": "Scale is the ratio of map distance to ground distance; the legend explains symbols and colours."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "நிலவரைபடக் கூறும் அதன் பணியும் சரியாகப் பொருந்திய இணை எது?",
         "options": [
-          "தலைப்பு - வரைபடத்தின் நோக்கம்",
-          "அளவை - வடக்குத் திசை",
           "நிலவரைபடக் குறிப்பு - அட்சம், தீர்க்கம்",
+          "அளவை - வடக்குத் திசை",
+          "தலைப்பு - வரைபடத்தின் நோக்கம்",
           "கோட்டுச் சட்டம் - வரைபடத்தின் நோக்கம்"
         ],
         "explanation": "அளவை - வரைபடத் தூரத்திற்கும் தரைத் தூரத்திற்குமான விகிதம்."
@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 221,
       "quote": "The Representative Fraction (R.F.): ... To find the RF when the scale is 1 cm to 1 km. Here, 1 cm = 1 km; 1 km = 100000 cm. So, RF is 1:100000. Find the R.F. when the scale is 1 centimetre to 2 kilometre.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The R.F. of a map whose scale is 1 cm to 2 km is",
         "options": [
           "1:100000",
           "1:20000",
-          "1:200000",
-          "1:2000000"
+          "1:2000000",
+          "1:200000"
         ],
         "explanation": "2 km = 2,00,000 cm, so R.F. = 1:200000."
       },
@@ -55,8 +55,8 @@
         "options": [
           "1:100000",
           "1:20000",
-          "1:200000",
-          "1:2000000"
+          "1:2000000",
+          "1:200000"
         ],
         "explanation": "2 கி.மீ = 2,00,000 செ.மீ; எனவே R.F. = 1:200000."
       }
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 222,
       "quote": "The legend of a map helps to understand the map details which are placed at the left or right corner at the bottom of the map.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The legend of a map is usually placed",
         "options": [
           "at the top centre",
-          "outside the map",
+          "at the left or right corner at the bottom",
           "along the left margin only",
-          "at the left or right corner at the bottom"
+          "outside the map"
         ],
         "explanation": "Conventional signs and symbols used on a map are explained in the legend."
       },
@@ -170,9 +170,9 @@
         "q": "நிலவரைபடக் குறிப்பு பொதுவாக அமைந்திருக்கும் இடம்",
         "options": [
           "மேல் நடுவில்",
-          "வரைபடத்துக்கு வெளியே",
+          "அடியில் இடது அல்லது வலது மூலை",
           "இடது ஓரத்தில் மட்டும்",
-          "அடியில் இடது அல்லது வலது மூலை"
+          "வரைபடத்துக்கு வெளியே"
         ],
         "explanation": "குறியீடுகளின் விளக்கம் குறிப்பில் இருக்கும்."
       }
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 223,
       "quote": "There are three types of map symbols: 1. Point Symbols - buildings, dipping tanks, trigonometrical beacons 2. Line Symbols - railways, roads, power lines 3. Area Symbols - cultivated lands, ponds, orchards and vineyards",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Match List I with List II.\nList I: a) Point symbol  b) Line symbol  c) Area symbol  d) Colour brown\nList II: 1) Railways  2) Cultivated lands  3) Contour lines  4) Buildings",
         "options": [
           "a-1 b-2 c-3 d-4",
           "a-3 b-4 c-1 d-2",
-          "a-4 b-1 c-2 d-3",
-          "a-2 b-3 c-4 d-1"
+          "a-2 b-3 c-4 d-1",
+          "a-4 b-1 c-2 d-3"
         ],
         "explanation": "Brown is used for land features such as contour lines."
       },
@@ -200,8 +200,8 @@
         "options": [
           "அ-1 ஆ-2 இ-3 ஈ-4",
           "அ-3 ஆ-4 இ-1 ஈ-2",
-          "அ-4 ஆ-1 இ-2 ஈ-3",
-          "அ-2 ஆ-3 இ-4 ஈ-1"
+          "அ-2 ஆ-3 இ-4 ஈ-1",
+          "அ-4 ஆ-1 இ-2 ஈ-3"
         ],
         "explanation": "பழுப்பு நிறம் நிலத்தோற்றங்களைக் (சம உயரக்கோடுகள்) குறிக்கும்."
       }
@@ -242,24 +242,24 @@
       "bloom": "remember",
       "page": 223,
       "quote": "Pink: international boundaries. Red: national, arterial and main roads, lighthouses and marine lights. Dark Blue: national waterways.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "International boundaries are shown in which colour on a topographic map?",
         "options": [
-          "Pink",
+          "Dark blue",
           "Red",
           "Black",
-          "Dark blue"
+          "Pink"
         ],
         "explanation": "Red shows national and main roads; dark blue national waterways."
       },
       "ta": {
         "q": "நிலப்படத்தில் பன்னாட்டு எல்லைகள் எந்த நிறத்தில் காட்டப்படும்?",
         "options": [
-          "இளஞ்சிவப்பு",
+          "அடர் நீலம்",
           "சிவப்பு",
           "கருப்பு",
-          "அடர் நீலம்"
+          "இளஞ்சிவப்பு"
         ],
         "explanation": "சிவப்பு - தேசிய, முதன்மைச் சாலைகள்; அடர் நீலம் - தேசிய நீர்வழிகள்."
       }
@@ -271,24 +271,24 @@
       "bloom": "remember",
       "page": 223,
       "quote": "The actual shape of the Earth is termed Geoid, which is an oblate spheroid. The 'azimuthal' polar projection is depicted on the United Nations flag.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The United Nations flag depicts a map in which projection?",
         "options": [
-          "Mercator projection",
+          "Azimuthal (polar) projection",
           "Cylindrical projection",
           "Conical projection",
-          "Azimuthal (polar) projection"
+          "Mercator projection"
         ],
         "explanation": "The map on the flag ends at 60° South so Antarctica does not appear."
       },
       "ta": {
         "q": "ஐக்கிய நாடுகள் கொடியில் காட்டப்பட்டுள்ள நிலவரைபடக் கோட்டுச் சட்டம்",
         "options": [
-          "மெர்கேட்டர்",
+          "திசைக்கோணத் துருவக் கோட்டுச் சட்டம் (Azimuthal polar)",
           "உருளைக் கோட்டுச் சட்டம்",
           "கூம்புக் கோட்டுச் சட்டம்",
-          "திசைக்கோணத் துருவக் கோட்டுச் சட்டம் (Azimuthal polar)"
+          "மெர்கேட்டர்"
         ],
         "explanation": "கொடியிலுள்ள வரைபடம் 60° தெற்கு வரை உள்ளது."
       }
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 224,
       "quote": "Remote sensing has a long history, dating back from the use of cameras carried by balloons and pigeons in the 18th and 19th centuries.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which three sense organs are described in the textbook as natural remote sensing organs?",
         "options": [
           "Eyes, tongue and skin",
           "Nose, tongue and skin",
-          "Ears, skin and tongue",
-          "Eyes, nose and ears"
+          "Eyes, nose and ears",
+          "Ears, skin and tongue"
         ],
         "explanation": "We operate three remote-sensing organs: eyes (sight), nose (smell), ears (hearing)."
       },
@@ -316,8 +316,8 @@
         "options": [
           "கண், நாக்கு, தோல்",
           "மூக்கு, நாக்கு, தோல்",
-          "காது, தோல், நாக்கு",
-          "கண், மூக்கு, காது"
+          "கண், மூக்கு, காது",
+          "காது, தோல், நாக்கு"
         ],
         "explanation": "கண் - பார்வை; மூக்கு - நுகர்வு; காது - கேட்டல்."
       }
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 224,
       "quote": "The aerial photographs are captured continuously with a time gap of 10-30 seconds at a fixed height. Each photo will have a slight overlap ... a stereoscopic (3D) image",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "By making a mosaic of overlapping aerial photographs, which kind of image of the study area can be produced?",
         "options": [
           "A topographic contour",
-          "A stereoscopic (3D) image",
+          "A radar echo only",
           "A weather chart",
-          "A radar echo only"
+          "A stereoscopic (3D) image"
         ],
         "explanation": "Photographs are taken every 10-30 seconds with slight overlap (about 60% forward and 20-40% lateral)."
       },
@@ -373,9 +373,9 @@
         "q": "வான்வழிப் புகைப்படங்களை ஒன்றிணைத்து உருவாக்கப்படும் படம்",
         "options": [
           "சம உயரக்கோட்டுப் படம்",
-          "முப்பரிமாணப் படம் (Stereoscopic)",
+          "ரேடார் எதிரொலி மட்டும்",
           "வானிலை வரைபடம்",
-          "ரேடார் எதிரொலி மட்டும்"
+          "முப்பரிமாணப் படம் (Stereoscopic)"
         ],
         "explanation": "முன்புறம் ஏறத்தாழ 60%, பக்கவாட்டில் 20-40% மேற்பொருத்தம் இருக்கும்."
       }
@@ -387,12 +387,12 @@
       "bloom": "remember",
       "page": 225,
       "quote": "Satellite remote sensing: High cost of satellite systems... allows global coverage and does not require permission... Weather does not affect the functioning of satellites. Aerial photography: adversely affected by bad weather; analogue record.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Which is an advantage of aerial photography over satellite remote sensing, according to the textbook?",
         "options": [
-          "It allows global coverage",
           "Surveying can be planned and executed in a shorter time economically",
+          "It allows global coverage",
           "It is not affected by weather",
           "Its information is digital"
         ],
@@ -401,8 +401,8 @@
       "ta": {
         "q": "நூலின்படி செயற்கைக்கோளை விட வான்வழிப் புகைப்படத்தின் நன்மை",
         "options": [
-          "உலகம் முழுவதும் கவர முடியும்",
           "குறைந்த செலவில், குறுகிய காலத்தில் அளவையைத் திட்டமிட்டு முடிக்கலாம்",
+          "உலகம் முழுவதும் கவர முடியும்",
           "வானிலையால் பாதிக்கப்படாது",
           "தகவல் இலக்கமுறையில் இருக்கும்"
         ],
@@ -416,24 +416,24 @@
       "bloom": "remember",
       "page": 226,
       "quote": "GNSS examples: Europe-Galileo; USA-NAVSTAR GPS; Russia-GLONASS; China-BeiDou; India's-IRNSS (NavIC)",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Match List I with List II.\nList I: a) Galileo  b) GLONASS  c) BeiDou  d) NavIC (IRNSS)\nList II: 1) China  2) India  3) Russia  4) Europe",
         "options": [
-          "a-2 b-1 c-3 d-4",
+          "a-4 b-3 c-1 d-2",
           "a-1 b-4 c-2 d-3",
           "a-3 b-2 c-4 d-1",
-          "a-4 b-3 c-1 d-2"
+          "a-2 b-1 c-3 d-4"
         ],
         "explanation": "NAVSTAR GPS belongs to the USA."
       },
       "ta": {
         "q": "பட்டியல் I-ஐ பட்டியல் II உடன் பொருத்துக.\nபட்டியல் I: அ) கலிலியோ  ஆ) குளோனாஸ்  இ) பெய்டூ  ஈ) நாவிக் (IRNSS)\nபட்டியல் II: 1) சீனா  2) இந்தியா  3) ரஷ்யா  4) ஐரோப்பா",
         "options": [
-          "அ-2 ஆ-1 இ-3 ஈ-4",
+          "அ-4 ஆ-3 இ-1 ஈ-2",
           "அ-1 ஆ-4 இ-2 ஈ-3",
           "அ-3 ஆ-2 இ-4 ஈ-1",
-          "அ-4 ஆ-3 இ-1 ஈ-2"
+          "அ-2 ஆ-1 இ-3 ஈ-4"
         ],
         "explanation": "நவ்ஸ்டார் GPS அமெரிக்காவுக்குரியது."
       }
@@ -474,12 +474,12 @@
       "bloom": "remember",
       "page": 226,
       "quote": "GPS is the U.S. implementation of the world's first and currently the most used GNSS created by the U.S. Department of Defense (DOD). It became fully operational in 1995.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "GPS was created by the",
         "options": [
-          "European Space Agency",
           "U.S. Department of Defense",
+          "European Space Agency",
           "ISRO",
           "Russian Federal Space Agency"
         ],
@@ -488,8 +488,8 @@
       "ta": {
         "q": "GPS-ஐ உருவாக்கிய நிறுவனம்",
         "options": [
-          "ஐரோப்பிய விண்வெளி நிறுவனம்",
           "அமெரிக்கப் பாதுகாப்புத் துறை",
+          "ஐரோப்பிய விண்வெளி நிறுவனம்",
           "இஸ்ரோ",
           "ரஷ்ய விண்வெளி நிறுவனம்"
         ],
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 226,
       "quote": "Geographic Information System is a computer-based tool for managing a large amount of data ... a combination of computer hardware, software, geographic data and the personnel. G - Geographic - A particular area; I - Information - facts in order; S - System - arrangement",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "A GIS is a combination of",
         "options": [
-          "computer hardware, software, geographic data and personnel",
-          "maps and compasses",
           "satellites and ground stations only",
+          "maps and compasses",
+          "computer hardware, software, geographic data and personnel",
           "cameras and balloons"
         ],
         "explanation": "In GIS each type of data of an area is stored as a separate 'layer' of the map; Google Maps and Google Earth are examples."
@@ -517,9 +517,9 @@
       "ta": {
         "q": "GIS என்பது எவற்றின் கூட்டு?",
         "options": [
-          "கணினி வன்பொருள், மென்பொருள், புவியியல் தரவு, பணியாளர்கள்",
-          "வரைபடமும் திசைகாட்டியும்",
           "செயற்கைக்கோள், தரை நிலையங்கள் மட்டும்",
+          "வரைபடமும் திசைகாட்டியும்",
+          "கணினி வன்பொருள், மென்பொருள், புவியியல் தரவு, பணியாளர்கள்",
           "கேமராவும் பலூனும்"
         ],
         "explanation": "GISஇல் ஒவ்வொரு வகைத் தரவும் தனி அடுக்காகச் சேமிக்கப்படும்."
@@ -561,13 +561,13 @@
       "bloom": "remember",
       "page": 226,
       "quote": "Bhuvan (Sanskrit for Earth) is a free internet based computer application launched by the Indian Space Research Organization (ISRO) on August 12th 2009.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Bhuvan, a free internet-based application showing IRS images, was launched by ISRO on",
         "options": [
           "1 January 1966",
-          "15 August 1947",
           "12 August 2009",
+          "15 August 1947",
           "26 January 2000"
         ],
         "explanation": "Bhuvan means 'Earth' in Sanskrit; it uses images of ISRO's satellites including CartoSat-1 and CartoSat-2."
@@ -576,8 +576,8 @@
         "q": "இஸ்ரோ 'புவன்' என்ற இணையவழிக் கணினிச் செயலியை வெளியிட்ட நாள்",
         "options": [
           "1 ஜனவரி 1966",
-          "15 ஆகஸ்ட் 1947",
           "12 ஆகஸ்ட் 2009",
+          "15 ஆகஸ்ட் 1947",
           "26 ஜனவரி 2000"
         ],
         "explanation": "புவன் என்றால் சமஸ்கிருதத்தில் 'பூமி' என்று பொருள்."

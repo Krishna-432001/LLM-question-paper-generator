@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 164,
       "quote": "More to know: Yeast and Fermentation: Yeasts are single-celled microorganisms, belonging to the class of fungi. The enzymes present in yeasts catalyse many complex organic reactions. Fermentation is conversion of complex organic molecules into simpler molecules by the action of enzymes. E.g. Curdling of milk",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Yeasts, which bring about fermentation, are",
         "options": [
           "bacteria only",
-          "single-celled microorganisms belonging to fungi",
+          "viruses",
           "multicellular algae",
-          "viruses"
+          "single-celled microorganisms belonging to fungi"
         ],
         "explanation": "Fermentation is the conversion of complex organic molecules into simpler molecules by enzymes, e.g. the curdling of milk."
       },
@@ -25,9 +25,9 @@
         "q": "நொதித்தலை நிகழ்த்தும் ஈஸ்ட்கள்",
         "options": [
           "பாக்டீரியாக்கள் மட்டும்",
-          "பூஞ்சை வகுப்பைச் சேர்ந்த ஒரு செல் நுண்ணுயிரிகள்",
+          "வைரஸ்கள்",
           "பல செல் பாசிகள்",
-          "வைரஸ்கள்"
+          "பூஞ்சை வகுப்பைச் சேர்ந்த ஒரு செல் நுண்ணுயிரிகள்"
         ],
         "explanation": "நொதிகளின் செயலால் சிக்கலான கரிம மூலக்கூறுகள் எளிய மூலக்கூறுகளாக மாறுவது நொதித்தல்; எ.கா: பால் தயிராதல்."
       }
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 162,
       "quote": "Note: Terminal 'e' of 'ane' is removed as per Rule 5 (Prop + ane + (1-ol) = Propan-1-ol)",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "In IUPAC naming, when a secondary suffix beginning with a vowel is added, the terminal 'e' of the primary suffix 'ane' is",
         "options": [
           "doubled",
-          "retained",
           "removed",
+          "retained",
           "replaced by 'y'"
         ],
         "explanation": "Prop + ane + 1-ol = propan-1-ol."
@@ -54,8 +54,8 @@
         "q": "IUPAC பெயரிடலில் உயிரெழுத்தில் தொடங்கும் இரண்டாம் நிலைப் பின்னொட்டு சேர்க்கப்படும்போது 'ane' என்ற முதல்நிலைப் பின்னொட்டின் இறுதி 'e'",
         "options": [
           "இரட்டிப்பாகும்",
-          "அப்படியே இருக்கும்",
           "நீக்கப்படும்",
+          "அப்படியே இருக்கும்",
           "'y' ஆக மாறும்"
         ],
         "explanation": "Prop + ane + 1-ol = propan-1-ol."
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 167,
       "quote": "Ethanol is a colourless liquid, having a pleasant smell and a burning taste. It is a volatile liquid. Its boiling point is 78 °C (351 K) ... It is completely miscible with water in all proportions.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which statement about ethanol is correct?",
         "options": [
-          "It is completely miscible with water in all proportions",
-          "It has a lower boiling point than ethane",
           "It is insoluble in water",
+          "It has a lower boiling point than ethane",
+          "It is completely miscible with water in all proportions",
           "It is a solid at room temperature"
         ],
         "explanation": "Its boiling point is 78 °C, much higher than that of ethane (184 K)."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "எத்தனால் பற்றிய சரியான கூற்று",
         "options": [
-          "எல்லா விகிதங்களிலும் நீருடன் முழுவதும் கலக்கும்",
-          "ஈத்தேனை விடக் குறைந்த கொதிநிலை உடையது",
           "நீரில் கரையாது",
+          "ஈத்தேனை விடக் குறைந்த கொதிநிலை உடையது",
+          "எல்லா விகிதங்களிலும் நீருடன் முழுவதும் கலக்கும்",
           "அறை வெப்பநிலையில் திண்மம்"
         ],
         "explanation": "எத்தனாலின் கொதிநிலை 78 °C; ஈத்தேனின் (184 K) கொதிநிலையை விட மிக அதிகம்."
@@ -97,12 +97,12 @@
       "bloom": "remember",
       "page": 167,
       "quote": "When ethanol is heated with conc. H2SO4 at 443 K, it loses a water molecule i.e. dehydrated to form ethene.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "When ethanol is heated with conc. H₂SO₄ at 443 K it loses a molecule of water to form",
         "options": [
-          "ethene",
           "ethane",
+          "ethene",
           "ethanal",
           "ethanoic acid"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "எத்தனாலை அடர் H₂SO₄-வுடன் 443 K-இல் வெப்பப்படுத்தும்போது ஒரு நீர் மூலக்கூறை இழந்து உருவாவது",
         "options": [
-          "ஈத்தீன்",
           "ஈத்தேன்",
+          "ஈத்தீன்",
           "எத்தனல்",
           "எத்தனாயிக் அமிலம்"
         ],
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 169,
       "quote": "Have you noticed the term 'TFM' in soap? TFM means TOTAL FATTY MATTER. It is one of the important factors to be considered to assess the quality of soap. A soap, which has higher TFM, is a good bathing soap.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The quality of a bathing soap is judged by its TFM. A good bathing soap has",
         "options": [
-          "a higher TFM",
-          "a TFM equal to 1",
           "zero TFM",
+          "a TFM equal to 1",
+          "a higher TFM",
           "a lower TFM"
         ],
         "explanation": "TFM stands for Total Fatty Matter."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "குளியல் சோப்பின் தரம் TFM மூலம் மதிப்பிடப்படுகிறது. நல்ல குளியல் சோப்பு",
         "options": [
-          "அதிக TFM உடையது",
-          "TFM = 1 உடையது",
           "சுழி TFM உடையது",
+          "TFM = 1 உடையது",
+          "அதிக TFM உடையது",
           "குறைந்த TFM உடையது"
         ],
         "explanation": "TFM என்பது மொத்தக் கொழுப்புப் பொருள் (Total Fatty Matter)."
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 169,
       "quote": "A group or class of organic compounds related to each other by a general molecular formula constitutes homologous series. The IUPAC name of any organic compound consists of three parts: ROOTWORD, PREFIX and/or SUFFIX.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The IUPAC name of an organic compound consists of",
         "options": [
           "a prefix and a number",
           "only a root word",
-          "only a suffix",
-          "root word, prefix and/or suffix"
+          "root word, prefix and/or suffix",
+          "only a suffix"
         ],
         "explanation": "A homologous series is a group of compounds related by a general molecular formula."
       },
@@ -200,8 +200,8 @@
         "options": [
           "முன்னொட்டும் எண்ணும்",
           "மூலச் சொல் மட்டும்",
-          "பின்னொட்டு மட்டும்",
-          "மூலச் சொல், முன்னொட்டு மற்றும்/அல்லது பின்னொட்டு"
+          "மூலச் சொல், முன்னொட்டு மற்றும்/அல்லது பின்னொட்டு",
+          "பின்னொட்டு மட்டும்"
         ],
         "explanation": "பொது மூலக்கூறு வாய்ப்பால் தொடர்புடைய சேர்மங்களின் தொகுப்பு படிவரிசை."
       }
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 169,
       "quote": "Ethanoic acid is most commonly known as acetic acid and belongs to a group of acids called carboxylic acids. Ethanol or ethyl alcohol or simply alcohol is one of the most important members of the family of alcohols.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Ethanoic acid is commonly known as acetic acid and belongs to the family of",
         "options": [
           "alcohols",
-          "carboxylic acids",
+          "ketones",
           "esters",
-          "ketones"
+          "carboxylic acids"
         ],
         "explanation": "Ethanol is a member of the alcohol family."
       },
@@ -228,9 +228,9 @@
         "q": "எத்தனாயிக் அமிலம் பொதுவாக அசிட்டிக் அமிலம் எனப்படும்; இது எந்த வகுப்பைச் சேர்ந்தது?",
         "options": [
           "ஆல்கஹால்கள்",
-          "கார்பாக்சிலிக் அமிலங்கள்",
+          "கீட்டோன்கள்",
           "எஸ்டர்கள்",
-          "கீட்டோன்கள்"
+          "கார்பாக்சிலிக் அமிலங்கள்"
         ],
         "explanation": "எத்தனால் ஆல்கஹால் குடும்பத்தின் உறுப்பு."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 169,
       "quote": "The slow chemical change that takes place in complex organic compounds by the action of enzymes leading to the formation of simple molecules is called fermentation. Soaps are sodium or potassium salts of some long chain carboxylic acids. Detergents are sodium salts of sulphonic acids.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Soaps are ____ salts of long-chain carboxylic acids, whereas detergents are sodium salts of ____ acids.",
         "options": [
           "magnesium; carboxylic",
           "sodium or potassium; nitric",
-          "calcium; sulphonic",
-          "sodium or potassium; sulphonic"
+          "sodium or potassium; sulphonic",
+          "calcium; sulphonic"
         ],
         "explanation": "Instead of the –COOH group of soaps, detergents contain the –SO₃H group."
       },
@@ -258,8 +258,8 @@
         "options": [
           "மெக்னீசியம்; கார்பாக்சிலிக்",
           "சோடியம் அல்லது பொட்டாசியம்; நைட்ரிக்",
-          "கால்சியம்; சல்போனிக்",
-          "சோடியம் அல்லது பொட்டாசியம்; சல்போனிக்"
+          "சோடியம் அல்லது பொட்டாசியம்; சல்போனிக்",
+          "கால்சியம்; சல்போனிக்"
         ],
         "explanation": "சோப்பிலுள்ள –COOH தொகுதிக்குப் பதிலாக டிடர்ஜெண்ட்டில் –SO₃H தொகுதி உள்ளது."
       }

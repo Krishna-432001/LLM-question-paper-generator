@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 95,
       "quote": "The Earth's atmosphere is a layer of gases surrounding the planet earth and retained by the earth's gravity. It contains about 78% nitrogen, 21% oxygen, 0.97% argon, 0.03% carbon dioxide.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The earth's atmosphere is retained around the planet by ______.",
         "options": [
           "magnetic field",
           "solar wind",
-          "ocean currents",
-          "the earth's gravity"
+          "the earth's gravity",
+          "ocean currents"
         ],
         "explanation": "It is a layer of gases containing about 78% nitrogen and 21% oxygen."
       },
@@ -26,8 +26,8 @@
         "options": [
           "காந்தப் புலம்",
           "சூரியக் காற்று",
-          "கடல் நீரோட்டங்கள்",
-          "புவியீர்ப்பு விசை"
+          "புவியீர்ப்பு விசை",
+          "கடல் நீரோட்டங்கள்"
         ],
         "explanation": "இது ஏறத்தாழ 78% நைட்ரஜன், 21% ஆக்சிஜன் கொண்ட வாயுக்களின் அடுக்கு."
       }
@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 96,
       "quote": "The word Climate is derived from the ancient Greek word 'Klimo' which means 'Inclination'.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The word 'Climate' is derived from the ancient Greek word 'Klimo', which means ______.",
         "options": [
-          "weather",
+          "inclination",
           "atmosphere",
           "rainfall",
-          "inclination"
+          "weather"
         ],
         "explanation": "Meteorology is the study of weather; climatology the study of climate."
       },
       "ta": {
         "q": "'க்ளைமேட்' (காலநிலை) என்ற சொல் பண்டைய கிரேக்கச் சொல் 'க்ளிமோ' என்பதிலிருந்து வந்தது; அதன் பொருள் ______.",
         "options": [
-          "வானிலை",
+          "சாய்வு",
           "வளிமண்டலம்",
           "மழை",
-          "சாய்வு"
+          "வானிலை"
         ],
         "explanation": "வானிலை பற்றிய படிப்பு வானிலையியல்; காலநிலை பற்றியது காலநிலையியல்."
       }
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 97,
       "quote": "Isocryme: equal lowest mean temperature for a specified period. Isohel: equal sunshine. Isallobar: equal pressure tendency. Isobar: equal atmospheric pressure.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Isohels are lines joining places with equal ______.",
         "options": [
           "rainfall",
-          "sunshine",
           "temperature",
+          "sunshine",
           "pressure"
         ],
         "explanation": "Isocryme joins equal lowest mean temperature; isallobar equal pressure tendency."
@@ -83,8 +83,8 @@
         "q": "சம சூரிய வெளிச்சக் கோடுகள் (ஐசோஹெல்) சம ______ உள்ள இடங்களை இணைக்கின்றன.",
         "options": [
           "மழையளவு",
-          "சூரிய வெளிச்சம்",
           "வெப்பநிலை",
+          "சூரிய வெளிச்சம்",
           "காற்றழுத்தம்"
         ],
         "explanation": "ஐசோக்ரைம் சராசரி குறைந்தபட்ச வெப்பநிலையை இணைக்கும்; ஐசல்லோபார் சம காற்றழுத்த மாறுபாட்டை."
@@ -97,12 +97,12 @@
       "bloom": "remember",
       "page": 97,
       "quote": "Temperature decreases with increasing height is known as Lapse rate which is 6.5 degree celsius per 1000 meters in troposphere.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The rate at which temperature decreases with increasing height in the troposphere is ______ per 1000 metres.",
         "options": [
-          "6.5 °C",
           "1 °C",
+          "6.5 °C",
           "10 °C",
           "65 °C"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "வெப்பநிலை உயரத்துடன் குறையும் விகிதம் (வெப்பக் குறைவு வீதம்) டிரோபோஸ்பியரில் ஒவ்வொரு 1000 மீட்டருக்கும் ______.",
         "options": [
-          "6.5 °C",
           "1 °C",
+          "6.5 °C",
           "10 °C",
           "65 °C"
         ],
@@ -155,24 +155,24 @@
       "bloom": "remember",
       "page": 99,
       "quote": "The standard air pressure at sea level is 1013.25mb. High pressure system is called anti cyclones. Low pressure systems are also called as a depression and cyclones.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The standard air pressure at sea level is ______.",
         "options": [
-          "1013.25 mb",
+          "1.03 mb",
           "870 mb",
           "1083.8 mb",
-          "1.03 mb"
+          "1013.25 mb"
         ],
         "explanation": "Low pressure is marked 'L' and high pressure 'H' on weather maps."
       },
       "ta": {
         "q": "கடல்மட்டத்தில் நிலையான காற்றழுத்தம் ______.",
         "options": [
-          "1013.25 மில்லிபார்",
+          "1.03 மில்லிபார்",
           "870 மில்லிபார்",
           "1083.8 மில்லிபார்",
-          "1.03 மில்லிபார்"
+          "1013.25 மில்லிபார்"
         ],
         "explanation": "வானிலை வரைபடத்தில் தாழ்வழுத்தம் 'L', உயர்வழுத்தம் 'H' எனக் குறிக்கப்படும்."
       }
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 99,
       "quote": "Low pressure system is called as a depression and cyclones. High pressure system is called anti cyclones. Low pressure leads to cloudiness, wind, and precipitation. High pressure leads to fair and calm weather.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which pressure condition leads to fair and calm weather?",
         "options": [
           "Low pressure (cyclone)",
-          "Depression",
+          "High pressure (anticyclone)",
           "Typhoon",
-          "High pressure (anticyclone)"
+          "Depression"
         ],
         "explanation": "Low pressure leads to cloudiness, wind and precipitation."
       },
@@ -199,9 +199,9 @@
         "q": "நல்ல, அமைதியான வானிலையைத் தரும் அழுத்த நிலை எது?",
         "options": [
           "தாழ் அழுத்தம் (சூறாவளி)",
-          "காற்றழுத்தத் தாழ்வு",
+          "உயர் அழுத்தம் (எதிர்ச் சூறாவளி)",
           "டைஃபூன்",
-          "உயர் அழுத்தம் (எதிர்ச் சூறாவளி)"
+          "காற்றழுத்தத் தாழ்வு"
         ],
         "explanation": "தாழ்வழுத்தம் மேகமூட்டம், காற்று, மழைப்பொழிவைத் தரும்."
       }
@@ -213,24 +213,24 @@
       "bloom": "remember",
       "page": 100,
       "quote": "Why Do Your Ears Pop in Airplanes? As you go up in an airplane, the atmospheric pressure becomes lower than the pressure of the air inside your ears. Your ears pop because they are trying to equalize or match the pressure.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Our ears 'pop' when an aeroplane climbs because ______.",
         "options": [
-          "the temperature rises suddenly",
+          "the outside air pressure falls below the pressure inside the ears",
           "the wind speed increases",
           "humidity becomes zero",
-          "the outside air pressure falls below the pressure inside the ears"
+          "the temperature rises suddenly"
         ],
         "explanation": "The ears try to equalise the pressure."
       },
       "ta": {
         "q": "விமானம் மேலே ஏறும்போது நம் காதுகள் அடைப்பது ஏன்?",
         "options": [
-          "வெப்பநிலை திடீரென உயர்வதால்",
+          "வெளிக் காற்றழுத்தம் காதுக்குள் உள்ள அழுத்தத்தைவிடக் குறைவதால்",
           "காற்றின் வேகம் கூடுவதால்",
           "ஈரப்பதம் பூஜ்யமாவதால்",
-          "வெளிக் காற்றழுத்தம் காதுக்குள் உள்ள அழுத்தத்தைவிடக் குறைவதால்"
+          "வெப்பநிலை திடீரென உயர்வதால்"
         ],
         "explanation": "அழுத்தத்தைச் சமப்படுத்த காதுகள் முயல்கின்றன."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 101,
       "quote": "The Beaufort scale is a scale for measuring wind speed. The scale was developed in 1805 by Francis Beaufort, an officer of the Royal Navy and first officially used by HMS Beagle.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The Beaufort scale for measuring wind speed was developed in 1805 by ______.",
         "options": [
           "Al-Balakhi",
           "Charles Darwin",
-          "Francis Beaufort",
-          "Edmund Halley"
+          "Edmund Halley",
+          "Francis Beaufort"
         ],
         "explanation": "It was first officially used by HMS Beagle."
       },
@@ -258,8 +258,8 @@
         "options": [
           "அல்-பலகி",
           "சார்லஸ் டார்வின்",
-          "பிரான்சிஸ் பியூஃபோர்ட்",
-          "எட்மண்ட் ஹேலி"
+          "எட்மண்ட் ஹேலி",
+          "பிரான்சிஸ் பியூஃபோர்ட்"
         ],
         "explanation": "இது முதன்முதலில் அதிகாரப்பூர்வமாக எச்.எம்.எஸ். பீகிள் கப்பலில் பயன்படுத்தப்பட்டது."
       }
@@ -271,12 +271,12 @@
       "bloom": "remember",
       "page": 101,
       "quote": "Planetary Winds blow almost in the same direction throughout the year. Seasonal winds change their direction according to season. Local winds are the winds blow over a small area only during a particular time of a day or a short period of a year. Land and sea breezes are example of these winds.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Winds which blow over a small area only during a particular time of the day, such as land and sea breezes, are called ______ winds.",
         "options": [
-          "planetary",
           "local",
+          "planetary",
           "seasonal",
           "permanent"
         ],
@@ -285,8 +285,8 @@
       "ta": {
         "q": "ஒரு நாளின் குறிப்பிட்ட நேரத்தில் சிறிய பகுதியில் மட்டும் வீசும் நிலக்காற்று, கடற்காற்று போன்றவை ______ காற்றுகள் எனப்படும்.",
         "options": [
-          "கோள்",
           "உள்ளூர்",
+          "கோள்",
           "பருவ",
           "நிரந்தர"
         ],
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 101,
       "quote": "Gabon, Congo and DR Congo in Africa, Sumatra, Indonesia and Malaysia are the least windy places on earth.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which of the following is among the least windy places on earth?",
         "options": [
           "Greenland",
-          "Patagonia",
           "Gabon",
+          "Patagonia",
           "Antarctica"
         ],
         "explanation": "Congo, DR Congo, Sumatra, Indonesia and Malaysia are also among the least windy places."
@@ -315,8 +315,8 @@
         "q": "பின்வருவனவற்றுள் புவியில் காற்று மிகக் குறைவாக வீசும் இடங்களுள் ஒன்று எது?",
         "options": [
           "கிரீன்லாந்து",
-          "பட்டகோனியா",
           "காபோன்",
+          "பட்டகோனியா",
           "அண்டார்டிகா"
         ],
         "explanation": "காங்கோ, ஜனநாயகக் காங்கோ, சுமத்ரா, இந்தோனேசியா, மலேசியாவும் காற்று குறைவான இடங்களே."

@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 19,
       "quote": "The value of the atmospheric pressure at sea level is a) 76 cm of mercury column b) 760 cm ... c) 176 cm ... d) 7.6 cm ...",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The value of atmospheric pressure at sea level is ______.",
         "options": [
           "760 cm of mercury column",
           "176 cm of mercury column",
-          "7.6 cm of mercury column",
-          "76 cm of mercury column"
+          "76 cm of mercury column",
+          "7.6 cm of mercury column"
         ],
         "explanation": "At sea level the mercury column in a barometer is about 76 cm (760 mm) high."
       },
@@ -84,8 +84,8 @@
         "options": [
           "760 செ.மீ பாதரசத் தம்பம்",
           "176 செ.மீ பாதரசத் தம்பம்",
-          "7.6 செ.மீ பாதரசத் தம்பம்",
-          "76 செ.மீ பாதரசத் தம்பம்"
+          "76 செ.மீ பாதரசத் தம்பம்",
+          "7.6 செ.மீ பாதரசத் தம்பம்"
         ],
         "explanation": "கடல் மட்டத்தில் பாதரசமானியில் பாதரசத் தம்பத்தின் உயரம் சுமார் 76 செ.மீ (760 மி.மீ)."
       }
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 19,
       "quote": "Pascal's law is used in a) hydraulic lift b) brake system c) pressing heavy bundles d) All the above",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Pascal's law is used in ______.",
         "options": [
           "hydraulic lift only",
-          "hydraulic lift, brake system and pressing heavy bundles",
+          "pressing heavy bundles only",
           "brake system only",
-          "pressing heavy bundles only"
+          "hydraulic lift, brake system and pressing heavy bundles"
         ],
         "explanation": "Hydraulic lifts, automobile brakes and hydraulic presses all work on Pascal's law."
       },
@@ -112,9 +112,9 @@
         "q": "பாஸ்கல் விதி ______ பயன்படுகிறது.",
         "options": [
           "நீரியல் உயர்த்தியில் மட்டும்",
-          "நீரியல் உயர்த்தி, தடை செலுத்தி, அழுத்தப்பட்ட பொதி ஆகிய அனைத்திலும்",
+          "அழுத்தப்பட்ட பொதிகளில் மட்டும்",
           "தடை செலுத்தியில் (பிரேக்) மட்டும்",
-          "அழுத்தப்பட்ட பொதிகளில் மட்டும்"
+          "நீரியல் உயர்த்தி, தடை செலுத்தி, அழுத்தப்பட்ட பொதி ஆகிய அனைத்திலும்"
         ],
         "explanation": "நீரியல் உயர்த்தி, வாகனத் தடை செலுத்தி, நீரியல் அழுத்தி ஆகிய அனைத்தும் பாஸ்கல் விதிப்படி செயல்படுகின்றன."
       }
@@ -155,24 +155,24 @@
       "bloom": "remember",
       "page": 19,
       "quote": "Hydraulic lift works under the principle of __________.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "A hydraulic lift works on the principle of ______.",
         "options": [
-          "Pascal's law",
+          "Boyle's law",
           "Newton's third law",
           "Archimedes' principle",
-          "Boyle's law"
+          "Pascal's law"
         ],
         "explanation": "Hydraulic lifts work on Pascal's law."
       },
       "ta": {
         "q": "நீரியல் உயர்த்தி ______ விதியை அடிப்படையாகக் கொண்டு செயல்படுகிறது.",
         "options": [
-          "பாஸ்கல்",
+          "பாயில்",
           "நியூட்டனின் மூன்றாம்",
           "ஆர்க்கிமிடீஸ்",
-          "பாயில்"
+          "பாஸ்கல்"
         ],
         "explanation": "நீரியல் உயர்த்தி பாஸ்கல் விதியின்படி செயல்படுகிறது."
       }
@@ -213,12 +213,12 @@
       "bloom": "remember",
       "page": 19,
       "quote": "A simple barometer was first constructed by __________.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "A simple barometer was first constructed by ______.",
         "options": [
-          "Pascal",
           "Torricelli",
+          "Pascal",
           "Newton",
           "Archimedes"
         ],
@@ -227,8 +227,8 @@
       "ta": {
         "q": "எளிய பாதரசமானியை முதன்முதலில் உருவாக்கியவர் ______.",
         "options": [
-          "பாஸ்கல்",
           "டாரிசெல்லி",
+          "பாஸ்கல்",
           "நியூட்டன்",
           "ஆர்க்கிமிடீஸ்"
         ],
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 19,
       "quote": "Force acting on a given area is called pressure.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which of the following correctly defines pressure?",
         "options": [
-          "Force acting on a body in motion",
-          "Force that opposes motion",
           "Force acting perpendicularly per unit area",
+          "Force that opposes motion",
+          "Force acting on a body in motion",
           "Upward force exerted by a liquid"
         ],
         "explanation": "Pressure is the thrust (force perpendicular to a surface) acting on unit area; it depends on the force and the area of contact."
@@ -256,9 +256,9 @@
       "ta": {
         "q": "அழுத்தத்தைச் சரியாக வரையறுக்கும் கூற்று எது?",
         "options": [
-          "இயக்கத்திலுள்ள பொருளின் மீது செயல்படும் விசை",
-          "இயக்கத்தை எதிர்க்கும் விசை",
           "ஓரலகு பரப்பில் செங்குத்தாகச் செயல்படும் விசை",
+          "இயக்கத்தை எதிர்க்கும் விசை",
+          "இயக்கத்திலுள்ள பொருளின் மீது செயல்படும் விசை",
           "திரவம் செலுத்தும் மேல்நோக்கிய விசை"
         ],
         "explanation": "ஓரலகு பரப்பில் செங்குத்தாகச் செயல்படும் விசை (உந்துவிசை) அழுத்தம் எனப்படும்."
@@ -329,24 +329,24 @@
       "bloom": "remember",
       "page": 19,
       "quote": "One atmosphere is equivalent to 1,00,000 newton force acting on one square metre.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "One atmosphere (1 atm) is approximately equal to ______.",
         "options": [
-          "1,000 pascal",
+          "1,00,000 pascal (about 1.01 × 10⁵ N m⁻²)",
           "10 pascal",
           "760 pascal",
-          "1,00,000 pascal (about 1.01 × 10⁵ N m⁻²)"
+          "1,000 pascal"
         ],
         "explanation": "In the SI system 1 atm = 1,00,000 pascal (approximately); the book's statement is true."
       },
       "ta": {
         "q": "ஒரு வளிமண்டல அழுத்தம் (1 atm) ஏறத்தாழ ______ ஆகும்.",
         "options": [
-          "1,000 பாஸ்கல்",
+          "1,00,000 பாஸ்கல் (சுமார் 1.01 × 10⁵ Nm⁻²)",
           "10 பாஸ்கல்",
           "760 பாஸ்கல்",
-          "1,00,000 பாஸ்கல் (சுமார் 1.01 × 10⁵ Nm⁻²)"
+          "1,000 பாஸ்கல்"
         ],
         "explanation": "SI முறையில் 1 atm = 1,00,000 பாஸ்கல் (தோராயமாக); நூல் கூற்று சரி."
       }
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 19,
       "quote": "Liquid pressure decreases with the decrease of depth.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Liquid pressure ______ when the depth decreases.",
         "options": [
-          "decreases",
-          "increases",
           "remains the same",
+          "increases",
+          "decreases",
           "becomes infinite"
         ],
         "explanation": "Liquid pressure increases with depth, so it decreases when depth decreases; the book's statement is true."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "ஆழம் குறையும்போது திரவ அழுத்தம் ______.",
         "options": [
-          "குறையும்",
-          "அதிகரிக்கும்",
           "மாறாமல் இருக்கும்",
+          "அதிகரிக்கும்",
+          "குறையும்",
           "முடிவிலியாகும்"
         ],
         "explanation": "ஆழத்துடன் திரவ அழுத்தம் அதிகரிக்கும்; ஆழம் குறைந்தால் அழுத்தமும் குறையும்; நூல் கூற்று சரி."
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 19,
       "quote": "Viscosity depends on the pressure of a liquid.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The viscosity of a liquid is the property related to ______.",
         "options": [
           "the pressure of the liquid",
-          "the frictional (viscous) force between its layers",
           "its upward buoyant force",
+          "the frictional (viscous) force between its layers",
           "its surface area contraction"
         ],
         "explanation": "Viscosity is the frictional force between the layers of a flowing liquid; it does not depend on the liquid's pressure."
@@ -460,8 +460,8 @@
         "q": "திரவத்தின் பாகுநிலை என்பது ______ தொடர்புடைய பண்பு.",
         "options": [
           "திரவத்தின் அழுத்தத்துடன்",
-          "அதன் அடுக்குகளுக்கிடையே ஏற்படும் உராய்வு (பாகு) விசையுடன்",
           "அதன் மேல்நோக்கிய மிதப்பு விசையுடன்",
+          "அதன் அடுக்குகளுக்கிடையே ஏற்படும் உராய்வு (பாகு) விசையுடன்",
           "பரப்பளவுச் சுருக்கத்துடன்"
         ],
         "explanation": "பாகுநிலை என்பது பாயும் திரவ அடுக்குகளுக்கிடையே உள்ள உராய்வு விசை; அது திரவ அழுத்தத்தைச் சார்ந்ததன்று."
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 19,
       "quote": "Match the following (b): Barometer, Increasing area of contact, Lubricants, Irregular surface",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Match the item in List I with List II:\na) Barometer\nb) Increasing area of contact\nc) Lubricants\nd) Irregular surface\n1. Atmospheric pressure\n2. Reduce friction\n3. Increases friction\n4. Cause of friction",
         "options": [
           "a-3, b-4, c-1, d-2",
-          "a-2, b-4, c-1, d-3",
+          "a-1, b-3, c-2, d-4",
           "a-2, b-3, c-4, d-1",
-          "a-1, b-3, c-2, d-4"
+          "a-2, b-4, c-1, d-3"
         ],
         "explanation": "Barometer – Atmospheric pressure; Increasing area of contact – Increases friction; Lubricants – Reduce friction; Irregular surface – Cause of friction."
       },
@@ -489,9 +489,9 @@
         "q": "பட்டியல் I-ஐப் பட்டியல் II-உடன் பொருத்துக:\na) பாதரசமானி\nb) தொடு பரப்பு அதிகரித்தல்\nc) உயவுப் பொருள்கள்\nd) ஒழுங்கற்ற பரப்பு\n1. வளிமண்டல அழுத்தம்\n2. உராய்வைக் குறைக்கும்\n3. உராய்வை அதிகரிக்கும்\n4. உராய்விற்கான காரணம்",
         "options": [
           "a-3, b-4, c-1, d-2",
-          "a-2, b-4, c-1, d-3",
+          "a-1, b-3, c-2, d-4",
           "a-2, b-3, c-4, d-1",
-          "a-1, b-3, c-2, d-4"
+          "a-2, b-4, c-1, d-3"
         ],
         "explanation": "பாதரசமானி – வளிமண்டல அழுத்தம்; தொடு பரப்பு அதிகரித்தல் – உராய்வை அதிகரிக்கும்; உயவுப் பொருள்கள் – உராய்வைக் குறைக்கும்; ஒழுங்கற்ற பரப்பு – உராய்விற்கான காரணம்."
       }
@@ -503,24 +503,24 @@
       "bloom": "remember",
       "page": 20,
       "quote": "Knot in a thread : static friction :: Ball bearing : _____ friction",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Knot in a thread : static friction :: Ball bearing : ______ friction",
         "options": [
-          "rolling",
+          "no",
           "sliding",
           "kinetic only",
-          "no"
+          "rolling"
         ],
         "explanation": "A knot is held by static friction; ball bearings replace sliding with rolling, so rolling friction."
       },
       "ta": {
         "q": "நூலில் போடப்பட்டுள்ள முடிச்சு : நிலை உராய்வு :: பந்து தாங்கிகள் : ______ உராய்வு",
         "options": [
-          "உருளும்",
+          "இல்லா",
           "நழுவு",
           "இயக்க மட்டும்",
-          "இல்லா"
+          "உருளும்"
         ],
         "explanation": "முடிச்சு நிலை உராய்வால் நிற்கிறது; பந்து தாங்கிகள் நழுவு உராய்வை உருளும் உராய்வாக மாற்றுகின்றன."
       }
@@ -648,24 +648,24 @@
       "bloom": "remember",
       "page": 20,
       "quote": "How do you feel when you touch a nail immediately after it is hammered into a wooden plank? Why?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "A nail feels warm when touched immediately after being hammered into a wooden plank because ______.",
         "options": [
-          "the nail gains weight",
+          "friction between the nail and the wood produces heat",
           "the wood absorbs heat from the air",
           "atmospheric pressure heats the nail",
-          "friction between the nail and the wood produces heat"
+          "the nail gains weight"
         ],
         "explanation": "Friction produces heat."
       },
       "ta": {
         "q": "மரப்பலகையில் ஆணியை அடித்த உடனே தொட்டால் அது சூடாக உணரப்படுவதற்குக் காரணம் ______.",
         "options": [
-          "ஆணியின் எடை அதிகரிப்பது",
+          "ஆணிக்கும் மரத்திற்கும் இடையிலான உராய்வு வெப்பத்தை உண்டாக்குவது",
           "மரம் காற்றிலுள்ள வெப்பத்தை உறிஞ்சுவது",
           "வளிமண்டல அழுத்தம் ஆணியை வெப்பப்படுத்துவது",
-          "ஆணிக்கும் மரத்திற்கும் இடையிலான உராய்வு வெப்பத்தை உண்டாக்குவது"
+          "ஆணியின் எடை அதிகரிப்பது"
         ],
         "explanation": "உராய்வு வெப்பத்தை உண்டாக்கும்."
       }
@@ -735,24 +735,24 @@
       "bloom": "remember",
       "page": 20,
       "quote": "How does surface tension help a plant?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Surface tension helps a plant by ______.",
         "options": [
-          "producing food in the leaves",
+          "raising water upward through xylem vessels by capillary action",
           "absorbing carbon dioxide",
           "increasing the friction of roots",
-          "raising water upward through xylem vessels by capillary action"
+          "producing food in the leaves"
         ],
         "explanation": "Water rises through narrow xylem vessels by capillary action caused by surface tension."
       },
       "ta": {
         "q": "பரப்பு இழுவிசை தாவரத்திற்கு உதவுவது ______.",
         "options": [
-          "இலைகளில் உணவு உற்பத்தி செய்து",
+          "நுண்புழை ஏற்றத்தால் சைலக் குழாய்களின் வழியே நீரை மேலே ஏறச் செய்து",
           "கார்பன் டை ஆக்சைடை உறிஞ்சி",
           "வேர்களின் உராய்வை அதிகரித்து",
-          "நுண்புழை ஏற்றத்தால் சைலக் குழாய்களின் வழியே நீரை மேலே ஏறச் செய்து"
+          "இலைகளில் உணவு உற்பத்தி செய்து"
         ],
         "explanation": "பரப்பு இழுவிசையால் ஏற்படும் நுண்புழை ஏற்றத்தால் சைலக் குழாய்களில் நீர் மேலே ஏறுகிறது."
       }
@@ -793,13 +793,13 @@
       "bloom": "remember",
       "page": 20,
       "quote": "Define friction. Give two examples of the utility of friction in day to day life.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Friction is the force that ______.",
         "options": [
           "pulls objects towards the Earth",
-          "pushes liquids upward",
           "opposes the relative motion of two bodies in contact",
+          "pushes liquids upward",
           "contracts the surface of a liquid"
         ],
         "explanation": "Friction arises when two bodies in contact move or tend to move relative to each other and acts opposite to the motion."
@@ -808,8 +808,8 @@
         "q": "உராய்வு என்பது ______ விசையாகும்.",
         "options": [
           "பொருள்களைப் புவியை நோக்கி இழுக்கும்",
-          "திரவங்களை மேல்நோக்கித் தள்ளும்",
           "தொடுகையிலுள்ள இரு பொருள்களின் ஒப்புமை இயக்கத்தை எதிர்க்கும்",
+          "திரவங்களை மேல்நோக்கித் தள்ளும்",
           "திரவப் பரப்பைச் சுருக்கும்"
         ],
         "explanation": "ஒன்றோடொன்று தொடுகையிலுள்ள பொருள்கள் இயங்கும்போது அல்லது இயங்க முயலும்போது இயக்கத்திற்கு எதிர்த்திசையில் செயல்படும் விசை உராய்வு."
@@ -851,24 +851,24 @@
       "bloom": "remember",
       "page": 20,
       "quote": "State Pascal's law and mention its applications.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Pascal's law states that the pressure applied at any point of a liquid at rest in a closed system is ______.",
         "options": [
-          "distributed equally in all directions of the liquid",
+          "transmitted only downward",
           "transmitted only upward",
           "completely lost at the walls",
-          "transmitted only downward"
+          "distributed equally in all directions of the liquid"
         ],
         "explanation": "Pascal's law: pressure applied at any point of a confined liquid at rest is transmitted equally in all directions."
       },
       "ta": {
         "q": "பாஸ்கல் விதிப்படி, மூடிய அமைப்பிலுள்ள ஓய்விலுள்ள திரவத்தின் ஏதேனும் ஒரு புள்ளியில் செலுத்தப்படும் அழுத்தம் ______.",
         "options": [
-          "திரவத்தின் எல்லாத் திசைகளிலும் சமமாகப் பரவும்",
+          "கீழ்நோக்கி மட்டுமே பரவும்",
           "மேல்நோக்கி மட்டுமே பரவும்",
           "சுவர்களில் முழுமையாக இழக்கப்படும்",
-          "கீழ்நோக்கி மட்டுமே பரவும்"
+          "திரவத்தின் எல்லாத் திசைகளிலும் சமமாகப் பரவும்"
         ],
         "explanation": "மூடிய அமைப்பிலுள்ள ஓய்வுநிலைத் திரவத்தில் ஒரு புள்ளியில் செலுத்தப்படும் அழுத்தம் எல்லாத் திசைகளிலும் சமமாகப் பரவும்."
       }

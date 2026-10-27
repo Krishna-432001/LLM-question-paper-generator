@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 270,
       "quote": "I. 1. Which of the following is transmitted through air? a. Tuberculosis b. Meningitis c. Typhoid d. Cholera",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "World of Microbes: Which of the following diseases is transmitted through air?",
         "options": [
           "Typhoid",
-          "Tuberculosis",
           "Cholera",
+          "Tuberculosis",
           "Poliomyelitis"
         ],
         "explanation": "Tuberculosis spreads by droplet infection from the sputum of infected persons; typhoid and cholera are waterborne."
@@ -25,8 +25,8 @@
         "q": "பின்வருவனவற்றுள் காற்றின் மூலம் பரவும் நோய் எது?",
         "options": [
           "டைபாய்டு",
-          "காசநோய்",
           "காலரா",
+          "காசநோய்",
           "போலியோ"
         ],
         "explanation": "காசநோய் தொற்றியவரின் சளித் துளிகள் மூலம் பரவுகிறது; டைபாய்டும் காலராவும் நீரினால் பரவுபவை."
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 270,
       "quote": "I. 3. Diptheria affects the a. lungs b. throat c. blood d. liver",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Diphtheria affects the",
         "options": [
-          "lungs",
-          "blood",
           "throat (upper respiratory tract)",
+          "blood",
+          "lungs",
           "liver"
         ],
         "explanation": "Its symptoms are fever, sore throat and choking of the air passage."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "தொண்டை அடைப்பான் (டிப்தீரியா) பாதிப்பது",
         "options": [
-          "நுரையீரலை",
-          "இரத்தத்தை",
           "தொண்டையை (மேல் சுவாசப் பாதை)",
+          "இரத்தத்தை",
+          "நுரையீரலை",
           "கல்லீரலை"
         ],
         "explanation": "அறிகுறிகள்: காய்ச்சல், தொண்டைப்புண், சுவாசப் பாதை அடைப்பு."
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 270,
       "quote": "I. 4. The primary organ infected during tuberculosis is a. bone marrow b. intestine c. spleen d. lungs",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The primary organ infected during tuberculosis is the",
         "options": [
           "bone marrow",
-          "intestine",
           "lungs",
+          "intestine",
           "spleen"
         ],
         "explanation": "The bacterium Mycobacterium tuberculosis damages the cells of the lungs."
@@ -112,8 +112,8 @@
         "q": "காசநோயில் முதன்மையாகப் பாதிக்கப்படும் உறுப்பு",
         "options": [
           "எலும்பு மஜ்ஜை",
-          "குடல்",
           "நுரையீரல்",
+          "குடல்",
           "மண்ணீரல்"
         ],
         "explanation": "மைக்கோபாக்டீரியம் டியூபர்குளோசிஸ் நுரையீரல் செல்களைச் சிதைக்கிறது."
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 270,
       "quote": "I. 5. Microbes that generally enter the body through nose are likely to affect a. gut b. lungs c. liver d. lymph nodes",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Microbes that generally enter the body through the nose are likely to affect the",
         "options": [
           "gut",
-          "lungs (respiratory tract)",
+          "lymph nodes",
           "liver",
-          "lymph nodes"
+          "lungs (respiratory tract)"
         ],
         "explanation": "Most respiratory tract infections are acquired by inhaling air containing pathogens."
       },
@@ -141,9 +141,9 @@
         "q": "மூக்கின் வழியே உடலுக்குள் நுழையும் நுண்ணுயிர்கள் பொதுவாகப் பாதிப்பது",
         "options": [
           "குடலை",
-          "நுரையீரலை (சுவாசப் பாதை)",
+          "நிணநீர்க் கணுக்களை",
           "கல்லீரலை",
-          "நிணநீர்க் கணுக்களை"
+          "நுரையீரலை (சுவாசப் பாதை)"
         ],
         "explanation": "பெரும்பாலான சுவாசப்பாதைத் தொற்றுகள் நோய்க்காரணி கலந்த காற்றை உள்ளிழுப்பதால் ஏற்படுகின்றன."
       }
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 270,
       "quote": "I. 6. The organ affected by jaundice is a. liver b. lungs c. kidney d. brain",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The organ affected by jaundice (infectious hepatitis) is the",
         "options": [
           "lungs",
-          "liver",
+          "brain",
           "kidney",
-          "brain"
+          "liver"
         ],
         "explanation": "Hepatitis A virus causes inflammation of the liver with nausea, anorexia, acute fever and jaundice."
       },
@@ -170,9 +170,9 @@
         "q": "மஞ்சள் காமாலையால் பாதிக்கப்படும் உறுப்பு",
         "options": [
           "நுரையீரல்",
-          "கல்லீரல்",
+          "மூளை",
           "சிறுநீரகம்",
-          "மூளை"
+          "கல்லீரல்"
         ],
         "explanation": "ஹெபடைடிஸ் A வைரஸ் கல்லீரல் அழற்சியை ஏற்படுத்துகிறது."
       }
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 271,
       "quote": "II. 2. Typhoid fever is caused by ______.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Typhoid fever is caused by",
         "options": [
           "Vibrio cholerae",
-          "Plasmodium",
+          "Salmonella typhi",
           "Corynebacterium diphtheriae",
-          "Salmonella typhi"
+          "Plasmodium"
         ],
         "explanation": "Food and water contaminated with the faeces of infected persons, and houseflies, transmit it."
       },
@@ -228,9 +228,9 @@
         "q": "டைபாய்டு காய்ச்சலை ஏற்படுத்துவது",
         "options": [
           "விப்ரியோ காலரே",
-          "பிளாஸ்மோடியம்",
+          "சால்மோனெல்லா டைஃபி",
           "கொரினிபாக்டீரியம் டிப்தீரியே",
-          "சால்மோனெல்லா டைஃபி"
+          "பிளாஸ்மோடியம்"
         ],
         "explanation": "பாதிக்கப்பட்டவரின் மலத்தால் மாசடைந்த உணவு, நீர், வீட்டு ஈக்கள் மூலம் பரவுகிறது."
       }
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 271,
       "quote": "II. 4. ______ is a vector of viral disease dengue.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The vector of the viral disease dengue is",
         "options": [
           "Anopheles mosquito",
-          "Aedes aegypti mosquito",
           "Culex mosquito",
+          "Aedes aegypti mosquito",
           "housefly"
         ],
         "explanation": "Dengue is also known as break bone fever and is transmitted by the day-biting Aedes aegypti."
@@ -286,8 +286,8 @@
         "q": "வைரஸ் நோயான டெங்குவின் கடத்தி",
         "options": [
           "அனோஃபலஸ் கொசு",
-          "ஏடிஸ் எஜிப்தி கொசு",
           "கியூலக்ஸ் கொசு",
+          "ஏடிஸ் எஜிப்தி கொசு",
           "வீட்டு ஈ"
         ],
         "explanation": "டெங்கு எலும்புமுறிவுக் காய்ச்சல் எனப்படுகிறது; பகலில் கடிக்கும் ஏடிஸ் எஜிப்தி கடத்துகிறது."
@@ -300,24 +300,24 @@
       "bloom": "remember",
       "page": 271,
       "quote": "II. 5. ______ vaccine gives considerable protection against tuberculosis.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which vaccine gives considerable protection against tuberculosis?",
         "options": [
-          "DPT",
+          "BCG",
           "MMR",
           "TT",
-          "BCG"
+          "DPT"
         ],
         "explanation": "BCG (Bacillus Calmette Guerin) was prepared by Calmette and Guerin from weakened bacilli."
       },
       "ta": {
         "q": "காசநோய்க்கு எதிராகக் குறிப்பிடத்தக்க பாதுகாப்பு அளிக்கும் தடுப்பூசி",
         "options": [
-          "DPT",
+          "BCG",
           "MMR",
           "TT",
-          "BCG"
+          "DPT"
         ],
         "explanation": "BCG கால்மெட், கெரின் ஆகியோரால் வலுவிழந்த பாசிலிகளிலிருந்து தயாரிக்கப்பட்டது."
       }
@@ -329,14 +329,14 @@
       "bloom": "remember",
       "page": 271,
       "quote": "II. 6. Cholera is caused by ______ and malaria is caused by ______.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Cholera is caused by ______ and malaria by ______.",
         "options": [
           "Plasmodium; Vibrio cholerae",
           "Salmonella; Wuchereria",
-          "Rotavirus; Plasmodium",
-          "Vibrio cholerae; Plasmodium"
+          "Vibrio cholerae; Plasmodium",
+          "Rotavirus; Plasmodium"
         ],
         "explanation": "Vibrio cholerae is a bacterium; Plasmodium is a protozoan parasite."
       },
@@ -345,8 +345,8 @@
         "options": [
           "பிளாஸ்மோடியம்; விப்ரியோ காலரே",
           "சால்மோனெல்லா; உச்செரேரியா",
-          "ரோட்டா வைரஸ்; பிளாஸ்மோடியம்",
-          "விப்ரியோ காலரே; பிளாஸ்மோடியம்"
+          "விப்ரியோ காலரே; பிளாஸ்மோடியம்",
+          "ரோட்டா வைரஸ்; பிளாஸ்மோடியம்"
         ],
         "explanation": "விப்ரியோ காலரே ஒரு பாக்டீரியம்; பிளாஸ்மோடியம் ஒரு புரோட்டோசோவா ஒட்டுண்ணி."
       }
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 271,
       "quote": "III. Expand the following: 1. ORS 2. HIV 3. DPT 4. WHO 5. BCG",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Match the abbreviation with its expansion: (a) ORS (b) HIV (c) DPT (d) BCG - (1) Oral Rehydration Solution (2) Bacillus Calmette Guerin (3) Diphtheria, Pertussis and Tetanus (4) Human Immunodeficiency Virus",
         "options": [
-          "a-3, b-4, c-2, d-1",
-          "a-3, b-1, c-4, d-2",
           "a-1, b-4, c-3, d-2",
+          "a-3, b-1, c-4, d-2",
+          "a-3, b-4, c-2, d-1",
           "a-2, b-1, c-4, d-3"
         ],
         "explanation": "WHO stands for World Health Organization."
@@ -372,9 +372,9 @@
       "ta": {
         "q": "சுருக்கத்தையும் விரிவாக்கத்தையும் பொருத்துக: (a) ORS (b) HIV (c) DPT (d) BCG - (1) வாய்வழி நீர்ச்சத்து ஈடு கரைசல் (2) பேசில்லஸ் கால்மெட் கெரின் (3) டிப்தீரியா, பெர்டுசிஸ், டெட்டனஸ் (4) மனித நோய் எதிர்ப்புக் குறைவு வைரஸ்",
         "options": [
-          "a-3, b-4, c-2, d-1",
-          "a-3, b-1, c-4, d-2",
           "a-1, b-4, c-3, d-2",
+          "a-3, b-1, c-4, d-2",
+          "a-3, b-4, c-2, d-1",
           "a-2, b-1, c-4, d-3"
         ],
         "explanation": "WHO = உலக சுகாதார அமைப்பு."
@@ -416,24 +416,24 @@
       "bloom": "remember",
       "page": 271,
       "quote": "V. 2. Non-infectious diseases remain confined to the person who develops the disease and do not spread to others.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Non-infectious diseases such as diabetes and cancer",
         "options": [
-          "do not spread from person to person",
+          "are caused by pathogens",
           "spread through water",
           "spread through air",
-          "are caused by pathogens"
+          "do not spread from person to person"
         ],
         "explanation": "They are caused by internal factors such as malfunctioning of organs, genetic causes, hormonal imbalance and immune system defects (the statement is true)."
       },
       "ta": {
         "q": "நீரிழிவு, புற்றுநோய் போன்ற தொற்றா நோய்கள்",
         "options": [
-          "ஒருவரிடமிருந்து மற்றவருக்குப் பரவுவதில்லை",
+          "நோய்க்காரணிகளால் ஏற்படுபவை",
           "நீரின் மூலம் பரவும்",
           "காற்றின் மூலம் பரவும்",
-          "நோய்க்காரணிகளால் ஏற்படுபவை"
+          "ஒருவரிடமிருந்து மற்றவருக்குப் பரவுவதில்லை"
         ],
         "explanation": "இவை உறுப்புச் செயலிழப்பு, மரபு, ஹார்மோன் சமநிலையின்மை, நோய் எதிர்ப்புக் குறைபாடு போன்ற உட்காரணிகளால் ஏற்படுகின்றன (கூற்று சரி)."
       }
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 271,
       "quote": "V. 4. Hepatitis B is more dangerous than Hepatitis A.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Hepatitis B differs from hepatitis A in that hepatitis B",
         "options": [
           "is a vector-borne disease",
-          "is transmitted only through contaminated water",
           "is caused by HBV, damages liver cells and can cause cirrhosis, and is transmitted by contact with secretions and sexually",
+          "is transmitted only through contaminated water",
           "is caused by a bacterium"
         ],
         "explanation": "Hepatitis A is transmitted through contaminated water and food; hepatitis B virus damages liver cells causing acute inflammation and cirrhosis."
@@ -460,8 +460,8 @@
         "q": "ஹெபடைடிஸ் A வை விட ஹெபடைடிஸ் B வேறுபடுவது, ஹெபடைடிஸ் B",
         "options": [
           "கடத்தி மூலம் பரவும் நோய்",
-          "அசுத்த நீரால் மட்டும் பரவும்",
           "HBV ஆல் ஏற்பட்டு கல்லீரல் செல்களைச் சிதைத்து கல்லீரல் சுருக்கத்தை உண்டாக்கும்; சுரப்புகள், பாலுறவு மூலம் பரவும்",
+          "அசுத்த நீரால் மட்டும் பரவும்",
           "பாக்டீரியாவால் ஏற்படுகிறது"
         ],
         "explanation": "ஹெபடைடிஸ் A அசுத்த நீர், உணவால் பரவுகிறது; ஹெபடைடிஸ் B கல்லீரல் அழற்சி, சுருக்கத்தை (சிரோசிஸ்) ஏற்படுத்துகிறது."
@@ -503,24 +503,24 @@
       "bloom": "remember",
       "page": 271,
       "quote": "VII. 1. Pathogen",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "A pathogen is",
         "options": [
-          "a biological agent that causes disease to its host",
+          "an antibiotic",
           "a biofertilizer",
           "a vaccine",
-          "an antibiotic"
+          "a biological agent that causes disease to its host"
         ],
         "explanation": "Examples: bacteria and viruses."
       },
       "ta": {
         "q": "நோய்க்காரணி (நோயூக்கி) என்பது",
         "options": [
-          "விருந்தோம்பிக்கு நோயை ஏற்படுத்தும் உயிரிக் காரணி",
+          "நுண்ணுயிர்க்கொல்லி",
           "உயிரி உரம்",
           "தடுப்பூசி",
-          "நுண்ணுயிர்க்கொல்லி"
+          "விருந்தோம்பிக்கு நோயை ஏற்படுத்தும் உயிரிக் காரணி"
         ],
         "explanation": "எ.கா: பாக்டீரியா, வைரஸ்."
       }
@@ -532,24 +532,24 @@
       "bloom": "remember",
       "page": 271,
       "quote": "VII. 2. Bacteriophages",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Viruses that infect bacterial cells are called",
         "options": [
-          "viroids",
+          "bacteriophages",
           "prions",
           "virions",
-          "bacteriophages"
+          "viroids"
         ],
         "explanation": "An example is the T4 bacteriophage."
       },
       "ta": {
         "q": "பாக்டீரிய செல்களைத் தாக்கும் வைரஸ்கள்",
         "options": [
-          "வைராய்டுகள்",
+          "பாக்டீரியோஃபேஜுகள்",
           "பிரியான்கள்",
           "வைரியான்கள்",
-          "பாக்டீரியோஃபேஜுகள்"
+          "வைராய்டுகள்"
         ],
         "explanation": "எ.கா: T4 பாக்டீரியோஃபேஜ்."
       }
@@ -561,13 +561,13 @@
       "bloom": "remember",
       "page": 271,
       "quote": "VII. 3. Vaccines",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Vaccines are",
         "options": [
-          "toxic wastes",
-          "antibiotics produced by fungi",
           "preparations of living (weakened) or killed microorganisms or their products used for prevention or treatment of diseases",
+          "antibiotics produced by fungi",
+          "toxic wastes",
           "vitamins"
         ],
         "explanation": "They stimulate the body to produce antibodies against the antigen."
@@ -575,9 +575,9 @@
       "ta": {
         "q": "தடுப்பூசிகள் என்பவை",
         "options": [
-          "நச்சுக் கழிவுகள்",
-          "பூஞ்சைகள் உருவாக்கும் நுண்ணுயிர்க்கொல்லிகள்",
           "நோய்த் தடுப்பு அல்லது சிகிச்சைக்குப் பயன்படும் வலுவிழந்த/இறந்த நுண்ணுயிர்கள் அல்லது அவற்றின் பொருள்களின் தயாரிப்புகள்",
+          "பூஞ்சைகள் உருவாக்கும் நுண்ணுயிர்க்கொல்லிகள்",
+          "நச்சுக் கழிவுகள்",
           "வைட்டமின்கள்"
         ],
         "explanation": "இவை எதிர்ப்பொருள்கள் உருவாகத் தூண்டுகின்றன."
@@ -677,12 +677,12 @@
       "bloom": "remember",
       "page": 271,
       "quote": "VIII. 6. Name two common mosquitoes and the diseases they transmit.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Match the mosquito with the disease it transmits: (a) Anopheles (b) Culex (c) Aedes aegypti (d) Housefly - (1) Dengue (2) Malaria (3) Typhoid and cholera (4) Filaria",
         "options": [
-          "a-2, b-4, c-1, d-3",
           "a-4, b-1, c-3, d-2",
+          "a-2, b-4, c-1, d-3",
           "a-3, b-4, c-1, d-2",
           "a-2, b-4, c-3, d-1"
         ],
@@ -691,8 +691,8 @@
       "ta": {
         "q": "கொசுவையும் அது கடத்தும் நோயையும் பொருத்துக: (a) அனோஃபலஸ் (b) கியூலக்ஸ் (c) ஏடிஸ் எஜிப்தி (d) வீட்டு ஈ - (1) டெங்கு (2) மலேரியா (3) டைபாய்டு, காலரா (4) யானைக்கால் நோய்",
         "options": [
-          "a-2, b-4, c-1, d-3",
           "a-4, b-1, c-3, d-2",
+          "a-2, b-4, c-1, d-3",
           "a-3, b-4, c-1, d-2",
           "a-2, b-4, c-3, d-1"
         ],
@@ -735,14 +735,14 @@
       "bloom": "remember",
       "page": 271,
       "quote": "IX. 4. Suggest the immunization schedule for a new born baby till 12 months of age.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "In the immunization schedule, the vaccine given to a new born baby is",
         "options": [
           "MMR",
-          "DT",
+          "BCG",
           "TT",
-          "BCG"
+          "DT"
         ],
         "explanation": "BCG is given at birth; oral polio at 15 days (1st dose); DPT and polio at the 6th, 10th and 14th weeks; measles at 9-12 months."
       },
@@ -750,9 +750,9 @@
         "q": "நோய்த்தடுப்பு அட்டவணையின்படி புதிதாகப் பிறந்த குழந்தைக்கு அளிக்கப்படும் தடுப்பூசி",
         "options": [
           "MMR",
-          "DT",
+          "BCG",
           "TT",
-          "BCG"
+          "DT"
         ],
         "explanation": "பிறந்தவுடன் BCG; 15 ஆம் நாள் வாய்வழி போலியோ; 6, 10, 14 ஆம் வாரங்களில் DPT, போலியோ; 9-12 மாதத்தில் தட்டம்மை."
       }

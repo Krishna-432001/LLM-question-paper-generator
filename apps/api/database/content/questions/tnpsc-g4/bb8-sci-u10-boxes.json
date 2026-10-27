@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 104,
       "quote": "Qutub Minar in Delhi has a rust resistant iron-pillar. It has not rusted for more than 1500 years.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The iron pillar at Qutub Minar, Delhi has not rusted for more than ______ years.",
         "options": [
-          "1500",
+          "2500",
           "150",
           "500",
-          "2500"
+          "1500"
         ],
         "explanation": "It is a rust resistant iron pillar."
       },
       "ta": {
         "q": "டெல்லி குதுப்மினாரிலுள்ள இரும்புத் தூண் ______ ஆண்டுகளுக்கு மேலாகத் துருப்பிடிக்கவில்லை.",
         "options": [
-          "1500",
+          "2500",
           "150",
           "500",
-          "2500"
+          "1500"
         ],
         "explanation": "இது துருப்பிடிக்காத இரும்புத் தூண்."
       }
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 106,
       "quote": "Chemical reactions accompanying evolution of heat are called exothermic reactions. Whereas chemical reactions which involve absorption of heat are called endothermic reactions.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Chemical reactions which involve absorption of heat are called ______.",
         "options": [
-          "exothermic reactions",
-          "photochemical reactions",
           "endothermic reactions",
+          "photochemical reactions",
+          "exothermic reactions",
           "electrochemical reactions"
         ],
         "explanation": "Exothermic reactions release heat."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "வெப்பத்தை உட்கவரும் வேதிவினைகள் ______ எனப்படும்.",
         "options": [
-          "வெப்பம் உமிழ் வினைகள்",
-          "ஒளிவேதி வினைகள்",
           "வெப்பம் கொள் வினைகள்",
+          "ஒளிவேதி வினைகள்",
+          "வெப்பம் உமிழ் வினைகள்",
           "மின்வேதி வினைகள்"
         ],
         "explanation": "வெப்பத்தை வெளியிடும் வினைகள் வெப்பம் உமிழ் வினைகள்."
@@ -126,24 +126,24 @@
       "bloom": "remember",
       "page": 106,
       "quote": "Electrolysis of water containing small amounts of sulphuric acid liberates hydrogen and oxygen gases.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "When electricity is passed through water containing a small amount of sulphuric acid, ______ gases are liberated.",
         "options": [
-          "chlorine and hydrogen",
+          "hydrogen and oxygen",
           "nitrogen and oxygen",
           "carbon dioxide and hydrogen",
-          "hydrogen and oxygen"
+          "chlorine and hydrogen"
         ],
         "explanation": "Brine gives chlorine and hydrogen."
       },
       "ta": {
         "q": "சிறிதளவு சல்பியூரிக் அமிலம் கலந்த நீரில் மின்சாரத்தைச் செலுத்தும்போது ______ வாயுக்கள் வெளியாகின்றன.",
         "options": [
-          "குளோரின், ஹைட்ரஜன்",
+          "ஹைட்ரஜன், ஆக்சிஜன்",
           "நைட்ரஜன், ஆக்சிஜன்",
           "கார்பன் டை ஆக்சைடு, ஹைட்ரஜன்",
-          "ஹைட்ரஜன், ஆக்சிஜன்"
+          "குளோரின், ஹைட்ரஜன்"
         ],
         "explanation": "உப்புநீர் குளோரின், ஹைட்ரஜனைத் தருகிறது."
       }
@@ -184,24 +184,24 @@
       "bloom": "remember",
       "page": 106,
       "quote": "Photosynthesis is a process in which light energy from the sun is used by the plants to prepare starch from carbon dioxide and water. Chemical reactions induced by light are called photochemical reactions. The ultraviolet rays break ozone molecules in the stratosphere.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Chemical reactions induced by light are called ______.",
         "options": [
-          "thermochemical reactions",
+          "photochemical reactions",
           "electrochemical reactions",
           "catalytic reactions",
-          "photochemical reactions"
+          "thermochemical reactions"
         ],
         "explanation": "Photochemistry deals with chemical reactions involving light."
       },
       "ta": {
         "q": "ஒளியினால் தூண்டப்படும் வேதிவினைகள் ______ எனப்படும்.",
         "options": [
-          "வெப்ப வேதிவினைகள்",
+          "ஒளிவேதி வினைகள்",
           "மின்வேதி வினைகள்",
           "வினையூக்க வினைகள்",
-          "ஒளிவேதி வினைகள்"
+          "வெப்ப வேதிவினைகள்"
         ],
         "explanation": "ஒளி தொடர்பான வேதிவினைகளைப் பற்றிப் படிப்பது ஒளிவேதியியல்."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 108,
       "quote": "Apples and some fruits turn brown due to chemical reaction with oxygen in air. This chemical reaction is called browning. The cells contain an enzyme called polyphenol oxidase or tyrosinase.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The chemical reaction that turns a cut apple brown is called ______.",
         "options": [
           "rusting",
-          "browning",
+          "rancidity",
           "tarnishing",
-          "rancidity"
+          "browning"
         ],
         "explanation": "It occurs due to reaction with oxygen in air."
       },
@@ -257,9 +257,9 @@
         "q": "வெட்டிய ஆப்பிள் பழுப்பாவதற்குக் காரணமான வேதிவினை ______ எனப்படும்.",
         "options": [
           "துருப்பிடித்தல்",
-          "பழுப்பாதல்",
+          "ஊசிப்போதல்",
           "மங்குதல்",
-          "ஊசிப்போதல்"
+          "பழுப்பாதல்"
         ],
         "explanation": "காற்றிலுள்ள ஆக்சிஜனுடன் வினைபுரிவதால் இது நிகழ்கிறது."
       }
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 108,
       "quote": "Rusting: when iron metal comes into contact with water and oxygen, it undergoes a chemical reaction called rusting.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Table 10.1 lists oxides of sulphur and nitrogen, carbon monoxide, chlorofluorocarbons and methane as pollutants of ______.",
         "options": [
           "water",
-          "land",
           "air",
+          "land",
           "sound"
         ],
         "explanation": "Water pollutants include waste water from dyeing industries, detergents and oil spillage; land pollutants include fertilizers, pesticides, herbicides and plastics."
@@ -286,8 +286,8 @@
         "q": "கந்தக, நைட்ரஜன் ஆக்சைடுகள், கார்பன் மோனாக்சைடு, CFC, மீத்தேன் ஆகியவை ______ மாசுபடுத்திகள்.",
         "options": [
           "நீரின்",
-          "நிலத்தின்",
           "காற்றின்",
+          "நிலத்தின்",
           "ஒலியின்"
         ],
         "explanation": "நீர் மாசுபடுத்திகள்: சாயத் தொழிற்சாலைக் கழிவு, சலவைத்தூள், எண்ணெய்க் கசிவு; நில மாசுபடுத்திகள்: உரங்கள், பூச்சிக்கொல்லிகள், நெகிழி."
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 114,
       "quote": "Rusting is a chemical reaction in which iron objects form hydrated ferric oxide in the presence of oxygen and water. Global warming is a dangerous condition in which earth's average temperature rises alarmingly due to various human activities.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Rust is chemically ______.",
         "options": [
           "calcium carbonate",
-          "hydrated ferric oxide",
+          "copper sulphate",
           "sodium chloride",
-          "copper sulphate"
+          "hydrated ferric oxide"
         ],
         "explanation": "Rusting needs both oxygen and water."
       },
@@ -315,9 +315,9 @@
         "q": "துரு என்பது வேதியியலில் ______.",
         "options": [
           "கால்சியம் கார்பனேட்",
-          "நீரேறிய பெரிக் ஆக்சைடு",
+          "காப்பர் சல்பேட்",
           "சோடியம் குளோரைடு",
-          "காப்பர் சல்பேட்"
+          "நீரேறிய பெரிக் ஆக்சைடு"
         ],
         "explanation": "துருப்பிடிக்க ஆக்சிஜனும் நீரும் தேவை."
       }

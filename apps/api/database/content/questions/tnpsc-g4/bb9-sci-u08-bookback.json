@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 100,
       "quote": "I. 1. Which of the following vibrates when a musical note is produced by the cymbals in a orchestra? a) stretched strings b) stretched membranes c) air columns d) metal plates",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "When a musical note is produced by the cymbals in an orchestra, which of the following vibrates?",
         "options": [
           "stretched strings",
           "stretched membranes",
-          "air columns",
-          "metal plates"
+          "metal plates",
+          "air columns"
         ],
         "explanation": "Cymbals are metal plates; strings, membranes and air columns vibrate in string, percussion-membrane and wind instruments."
       },
@@ -26,8 +26,8 @@
         "options": [
           "இழுத்துக் கட்டிய நாண்கள்",
           "இழுத்துக் கட்டிய சவ்வுகள்",
-          "காற்றுத் தம்பங்கள்",
-          "உலோகத் தகடுகள்"
+          "உலோகத் தகடுகள்",
+          "காற்றுத் தம்பங்கள்"
         ],
         "explanation": "சிம்பல்ஸ் உலோகத் தகடுகளால் ஆனவை; நாண், சவ்வு, காற்றுத் தம்பம் ஆகியவை பிற இசைக்கருவிகளில் அதிர்கின்றன."
       }
@@ -68,24 +68,24 @@
       "bloom": "remember",
       "page": 100,
       "quote": "5. The sound waves travel faster a) in liquids b) in gases c) in solids d) in vacuum",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Sound waves travel fastest in",
         "options": [
-          "liquids",
+          "solids",
           "gases",
           "vacuum",
-          "solids"
+          "liquids"
         ],
         "explanation": "The speed of sound is less in gaseous medium compared to solid medium (e.g. iron 5950 m s^-1, water 1498 m s^-1, air 340 m s^-1)."
       },
       "ta": {
         "q": "ஒலி அலைகள் மிக வேகமாகப் பரவுவது",
         "options": [
-          "திரவங்களில்",
+          "திடப்பொருட்களில்",
           "வாயுக்களில்",
           "வெற்றிடத்தில்",
-          "திடப்பொருட்களில்"
+          "திரவங்களில்"
         ],
         "explanation": "ஒலியின் வேகம் வாயுவை விடத் திடப்பொருளில் அதிகம் (இரும்பு 5950, நீர் 1498, காற்று 340 மீ வி^-1)."
       }
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 100,
       "quote": "II. 1. Sound is a ____________ wave and needs a material medium to travel.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Sound is a ______ wave and needs a material medium to travel.",
         "options": [
           "electromagnetic",
           "transverse",
-          "longitudinal",
-          "circular"
+          "circular",
+          "longitudinal"
         ],
         "explanation": "Sound travels as a longitudinal mechanical wave with compressions and rarefactions."
       },
@@ -113,8 +113,8 @@
         "options": [
           "மின்காந்த அலை",
           "குறுக்கலை",
-          "நெட்டலை",
-          "வட்ட அலை"
+          "வட்ட அலை",
+          "நெட்டலை"
         ],
         "explanation": "ஒலி நெருக்கங்களும் நெகிழ்ச்சிகளும் கொண்ட நெட்டலையாகப் பரவுகிறது."
       }
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 100,
       "quote": "2. Number of vibrations produced in one second is ____________.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The number of vibrations produced in one second is called",
         "options": [
           "amplitude",
-          "frequency",
           "wavelength",
+          "frequency",
           "time period"
         ],
         "explanation": "Frequency (n) is the number of complete waves produced in one second; its SI unit is hertz (Hz)."
@@ -141,8 +141,8 @@
         "q": "ஒரு வினாடியில் ஏற்படும் அதிர்வுகளின் எண்ணிக்கை",
         "options": [
           "வீச்சு",
-          "அதிர்வெண்",
           "அலைநீளம்",
+          "அதிர்வெண்",
           "அலை நேரம் (periodic time)"
         ],
         "explanation": "ஒரு வினாடியில் உண்டாகும் முழு அலைகளின் எண்ணிக்கை அதிர்வெண்; அலகு ஹெர்ட்ஸ்."
@@ -155,12 +155,12 @@
       "bloom": "remember",
       "page": 100,
       "quote": "3. The velocity of sound in solid is ____________ than the velocity of sound in air.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The velocity of sound in a solid is ______ than the velocity of sound in air.",
         "options": [
-          "greater",
           "equal",
+          "greater",
           "less",
           "half"
         ],
@@ -169,8 +169,8 @@
       "ta": {
         "q": "திடப்பொருளில் ஒலியின் திசைவேகம் காற்றில் ஒலியின் திசைவேகத்தை விட ______.",
         "options": [
-          "அதிகம்",
           "சமம்",
+          "அதிகம்",
           "குறைவு",
           "பாதி"
         ],
@@ -184,13 +184,13 @@
       "bloom": "remember",
       "page": 100,
       "quote": "4. Vibration of object produces _________.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The vibration of an object produces",
         "options": [
-          "sound",
-          "light",
           "heat only",
+          "light",
+          "sound",
           "magnetism"
         ],
         "explanation": "All sounds are produced by vibrations of substances."
@@ -198,9 +198,9 @@
       "ta": {
         "q": "பொருளின் அதிர்வு உண்டாக்குவது",
         "options": [
-          "ஒலி",
-          "ஒளி",
           "வெப்பம் மட்டும்",
+          "ஒளி",
+          "ஒலி",
           "காந்தவியல்"
         ],
         "explanation": "எல்லா ஒலிகளும் பொருட்களின் அதிர்வால் உண்டாகின்றன."
@@ -213,24 +213,24 @@
       "bloom": "remember",
       "page": 100,
       "quote": "5. Loudness is proportional to the square of the ____________.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The loudness (intensity) of a sound is proportional to the square of its",
         "options": [
-          "amplitude",
+          "speed",
           "wavelength",
           "time period",
-          "speed"
+          "amplitude"
         ],
         "explanation": "Loudness depends on the amplitude of the wave; a large amplitude produces a loud sound."
       },
       "ta": {
         "q": "ஒலியின் உரப்பு (செறிவு) ______ -ன் வர்க்கத்திற்கு நேர்தகவு.",
         "options": [
-          "வீச்சு",
+          "வேகம்",
           "அலைநீளம்",
           "அலைவு நேரம்",
-          "வேகம்"
+          "வீச்சு"
         ],
         "explanation": "உரப்பு ஒலி அலையின் வீச்சைப் பொறுத்தது; வீச்சு அதிகமானால் ஒலி உரத்து இருக்கும்."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 100,
       "quote": "6. ____________ is a medical instrument used for listening to sounds produced in the body.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The medical instrument used for listening to sounds produced in the body is the",
         "options": [
           "thermometer",
           "sphygmomanometer",
-          "otoscope for X-rays",
-          "stethoscope"
+          "stethoscope",
+          "otoscope for X-rays"
         ],
         "explanation": "In a stethoscope the sounds reach the doctor's ears by multiple reflections in the connecting tube."
       },
@@ -258,8 +258,8 @@
         "options": [
           "வெப்பமானி",
           "இரத்த அழுத்தமானி",
-          "X-கதிர்க் கருவி",
-          "ஸ்டெதஸ்கோப்"
+          "ஸ்டெதஸ்கோப்",
+          "X-கதிர்க் கருவி"
         ],
         "explanation": "ஸ்டெதஸ்கோப்பின் இணைப்புக் குழாயில் ஏற்படும் பன்முக எதிரொலிப்பால் ஒலி மருத்துவரின் காதுகளை அடைகிறது."
       }
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 100,
       "quote": "7. The repeated reflection that results in persistence of sound is called ____________.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The repeated reflection that results in the persistence of sound in a big hall is called",
         "options": [
           "echo",
           "refraction",
-          "reverberation",
-          "resonance"
+          "resonance",
+          "reverberation"
         ],
         "explanation": "In an auditorium, excessive reverberation is undesirable; roofs and walls are covered with sound-absorbing materials."
       },
@@ -287,8 +287,8 @@
         "options": [
           "எதிரொலி",
           "ஒளிவிலகல்",
-          "எதிர் முழக்கம் (ரிவர்பரேஷன்)",
-          "ஒத்ததிர்வு"
+          "ஒத்ததிர்வு",
+          "எதிர் முழக்கம் (ரிவர்பரேஷன்)"
         ],
         "explanation": "அரங்கங்களில் அளவுக்கு மீறிய எதிர்முழக்கம் விரும்பத்தகாதது; சுவர்களில் ஒலிஉறிஞ்சும் பொருட்கள் பயன்படுகின்றன."
       }
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 100,
       "quote": "III. Sound - Longitudinal wave.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Sound is an example of a",
         "options": [
           "transverse electromagnetic wave",
-          "longitudinal mechanical wave",
           "transverse mechanical wave",
+          "longitudinal mechanical wave",
           "longitudinal electromagnetic wave"
         ],
         "explanation": "Sound waves travel with compressions and rarefactions and need a medium."
@@ -344,8 +344,8 @@
         "q": "ஒலி என்பது ஓர் எடுத்துக்காட்டு",
         "options": [
           "குறுக்கலை மின்காந்த அலை",
-          "நெட்டலை இயந்திர அலை",
           "குறுக்கலை இயந்திர அலை",
+          "நெட்டலை இயந்திர அலை",
           "நெட்டலை மின்காந்த அலை"
         ],
         "explanation": "ஒலி நெருக்கங்களும் நெகிழ்ச்சிகளும் கொண்ட, ஊடகம் தேவைப்படும் நெட்டலை."
@@ -358,14 +358,14 @@
       "bloom": "understand",
       "page": 100,
       "quote": "IV. 1. Through which medium sound travels faster, iron or water? Give reason.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Sound travels faster in iron than in water because",
         "options": [
           "iron is lighter than water",
-          "water absorbs all sound",
+          "the speed of sound is greater in solids than in liquids",
           "iron is a vacuum",
-          "the speed of sound is greater in solids than in liquids"
+          "water absorbs all sound"
         ],
         "explanation": "Speed of sound at 25 degree C: iron 5950 m s^-1, distilled water 1498 m s^-1."
       },
@@ -373,9 +373,9 @@
         "q": "இரும்பு, நீர் ஆகியவற்றுள் ஒலி வேகமாகப் பரவுவது இரும்பில்; ஏனெனில்",
         "options": [
           "இரும்பு நீரை விட இலகுவானது",
-          "நீர் ஒலியை முழுவதும் உறிஞ்சுகிறது",
+          "திரவங்களை விடத் திடப்பொருளில் ஒலியின் வேகம் அதிகம்",
           "இரும்பு ஒரு வெற்றிடம்",
-          "திரவங்களை விடத் திடப்பொருளில் ஒலியின் வேகம் அதிகம்"
+          "நீர் ஒலியை முழுவதும் உறிஞ்சுகிறது"
         ],
         "explanation": "25 °C-ல் இரும்பில் 5950; நன்னீரில் 1498 மீ வி^-1."
       }
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 100,
       "quote": "2. Name the physical quantity whose SI unit is 'hertz'. Define.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The physical quantity whose SI unit is hertz is",
         "options": [
-          "wavelength",
-          "amplitude",
           "frequency",
+          "amplitude",
+          "wavelength",
           "speed"
         ],
         "explanation": "Frequency is the number of vibrations (complete waves) produced in one second; unit s^-1 or hertz."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "ஹெர்ட்ஸ் என்பதை SI அலகாகக் கொண்ட இயற்பியல் அளவு",
         "options": [
-          "அலைநீளம்",
-          "வீச்சு",
           "அதிர்வெண்",
+          "வீச்சு",
+          "அலைநீளம்",
           "வேகம்"
         ],
         "explanation": "ஒரு வினாடியில் உண்டாகும் அதிர்வுகளின் எண்ணிக்கை அதிர்வெண்; அலகு வி^-1 அல்லது ஹெர்ட்ஸ்."
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 100,
       "quote": "3. What is meant by supersonic speed?",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "An object is said to travel at supersonic speed when its speed",
         "options": [
-          "exceeds the speed of sound in air",
-          "is less than the speed of sound in air",
           "equals the speed of light",
+          "is less than the speed of sound in air",
+          "exceeds the speed of sound in air",
           "is zero"
         ],
         "explanation": "Bullets, jet aircraft etc. can travel at supersonic speeds and produce shock waves."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "ஒரு பொருள் மீயொலி வேகத்தில் (supersonic speed) செல்கிறது எனப்படுவது அதன் வேகம்",
         "options": [
-          "காற்றில் ஒலியின் வேகத்தை விட அதிகமாக இருக்கும்போது",
-          "காற்றில் ஒலியின் வேகத்தை விடக் குறைவாக இருக்கும்போது",
           "ஒளியின் வேகத்திற்குச் சமமாக இருக்கும்போது",
+          "காற்றில் ஒலியின் வேகத்தை விடக் குறைவாக இருக்கும்போது",
+          "காற்றில் ஒலியின் வேகத்தை விட அதிகமாக இருக்கும்போது",
           "சுழியாக இருக்கும்போது"
         ],
         "explanation": "குண்டுகள், ஜெட் விமானங்கள் மீயொலி வேகத்தில் செல்லக்கூடியவை; அவை அதிர்வலைகளை உண்டாக்கும்."
@@ -445,14 +445,14 @@
       "bloom": "understand",
       "page": 100,
       "quote": "4. How does the sound produced by a vibrating object in a medium reach your ears?",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The sound produced by a vibrating object reaches our ears because",
         "options": [
           "the particles of the object travel to the ear",
-          "light carries the sound",
+          "the vibrating object sets adjacent particles of the medium vibrating one after another, carrying the disturbance forward",
           "the ear sends a signal to the object",
-          "the vibrating object sets adjacent particles of the medium vibrating one after another, carrying the disturbance forward"
+          "light carries the sound"
         ],
         "explanation": "Only the disturbance travels; each particle displaces the adjacent particle and returns to its position."
       },
@@ -460,9 +460,9 @@
         "q": "அதிரும் பொருள் உண்டாக்கும் ஒலி நம் காதை அடைவது",
         "options": [
           "பொருளின் துகள்கள் காதிற்கு வருவதால்",
-          "ஒளி ஒலியைக் கடத்துவதால்",
+          "ஊடகத்தின் துகள்கள் ஒன்றையொன்று அதிரச் செய்து பாதிப்பை முன்னோக்கிக் கடத்துவதால்",
           "காது பொருளுக்குச் சமிக்ஞை அனுப்புவதால்",
-          "ஊடகத்தின் துகள்கள் ஒன்றையொன்று அதிரச் செய்து பாதிப்பை முன்னோக்கிக் கடத்துவதால்"
+          "ஒளி ஒலியைக் கடத்துவதால்"
         ],
         "explanation": "பாதிப்பு மட்டுமே பரவும்; ஒவ்வொரு துகளும் அடுத்த துகளை அதிரச் செய்து தன் இடத்திற்குத் திரும்பும்."
       }
@@ -474,13 +474,13 @@
       "bloom": "apply",
       "page": 100,
       "quote": "5. You and your friend are on the moon. Will you be able to hear any sound produced by your friend?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Two astronauts on the Moon (which has no air) cannot hear each other's voice directly because",
         "options": [
           "sound is absorbed by the lunar dust only",
-          "sound cannot travel through vacuum",
           "the Moon is too cold",
+          "sound cannot travel through vacuum",
           "their voices have no frequency"
         ],
         "explanation": "Sound needs a material medium and cannot travel through vacuum (Bell-jar experiment)."
@@ -489,8 +489,8 @@
         "q": "நிலவில் (காற்று இல்லை) இருக்கும் இரு விண்வெளி வீரர்கள் ஒருவர் குரலை மற்றவர் நேரடியாகக் கேட்க முடியாது; ஏனெனில்",
         "options": [
           "நிலவுத் தூசி மட்டுமே ஒலியை உறிஞ்சுகிறது",
-          "ஒலி வெற்றிடத்தின் வழியே செல்லாது",
           "நிலவு மிகக் குளிர்ச்சியானது",
+          "ஒலி வெற்றிடத்தின் வழியே செல்லாது",
           "அவர்கள் குரலுக்கு அதிர்வெண் இல்லை"
         ],
         "explanation": "ஒலிக்கு ஊடகம் தேவை; வெற்றிடத்தில் ஒலி பரவாது (மணிக்கூண்டுச் சோதனை)."
@@ -503,24 +503,24 @@
       "bloom": "remember",
       "page": 100,
       "quote": "V. 4. Explain how does SONAR work?",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "SONAR, used to find the depth of the sea, works by",
         "options": [
-          "sending ultrasonic waves and detecting the waves reflected from the seabed",
+          "measuring water temperature",
           "using visible light under water",
           "sending radio waves into the air",
-          "measuring water temperature"
+          "sending ultrasonic waves and detecting the waves reflected from the seabed"
         ],
         "explanation": "The time interval between transmission and reception, with the speed of sound in water, gives the distance: 2d/t = v."
       },
       "ta": {
         "q": "கடலின் ஆழத்தை அறியப் பயன்படும் சோனார் செயல்படும் விதம்",
         "options": [
-          "மீயொலி அலைகளை அனுப்பி, கடலடியிலிருந்து எதிரொலித்து வரும் அலைகளை உணர்வது",
+          "நீரின் வெப்பநிலையை அளப்பது",
           "நீரினுள் கட்புலனாகும் ஒளியைப் பயன்படுத்துவது",
           "காற்றில் வானொலி அலைகளை அனுப்புவது",
-          "நீரின் வெப்பநிலையை அளப்பது"
+          "மீயொலி அலைகளை அனுப்பி, கடலடியிலிருந்து எதிரொலித்து வரும் அலைகளை உணர்வது"
         ],
         "explanation": "பரப்பியிலிருந்து அனுப்பப்பட்டு எதிரொலித்து வரும் நேரத்தையும் நீரில் ஒலியின் வேகத்தையும் கொண்டு தொலைவு கணக்கிடப்படுகிறது: 2d/t = v."
       }
@@ -532,13 +532,13 @@
       "bloom": "remember",
       "page": 100,
       "quote": "V. 3. List the applications of sound (ultrasound).",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which of the following is an application of ultrasound?",
         "options": [
-          "Measuring the speed of light",
-          "Producing X-rays",
           "Breaking small kidney stones into fine grains",
+          "Producing X-rays",
+          "Measuring the speed of light",
           "Generating electricity"
         ],
         "explanation": "Ultrasound is used for cleaning, detecting cracks in metals, echo cardiography and breaking kidney stones."
@@ -546,9 +546,9 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் மீயொலியின் பயன்பாடு எது?",
         "options": [
-          "ஒளியின் வேகத்தை அளப்பது",
-          "X-கதிர்களை உண்டாக்குவது",
           "சிறுநீரகக் கற்களைச் சிறு துகள்களாக உடைப்பது",
+          "X-கதிர்களை உண்டாக்குவது",
+          "ஒளியின் வேகத்தை அளப்பது",
           "மின்சாரம் தயாரிப்பது"
         ],
         "explanation": "மீயொலி தூய்மையாக்கல், உலோக விரிசல் கண்டறிதல், இதய வரைவி, சிறுநீரகக் கல் உடைத்தல் ஆகியவற்றில் பயன்படுகிறது."
@@ -561,12 +561,12 @@
       "bloom": "apply",
       "page": 101,
       "quote": "2. A stone is dropped from the top of a tower 750 m high into a pond of water at the base of the tower. Calculate the number of seconds for the splash to be heard? (g = 10 m s^-2 and speed of sound = 340 m s^-1)",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "A stone is dropped from the top of a 750 m high tower into a pond at its base. With g = 10 m s^-2 and speed of sound 340 m s^-1, the splash is heard after about",
         "options": [
-          "12.2 s",
           "14.5 s",
+          "12.2 s",
           "2.2 s",
           "27 s"
         ],
@@ -575,8 +575,8 @@
       "ta": {
         "q": "750 மீ உயரக் கோபுரத்தின் உச்சியிலிருந்து அதன் அடியிலுள்ள குளத்தில் ஒரு கல் விடப்படுகிறது (g = 10 மீ வி^-2; ஒலியின் வேகம் 340 மீ வி^-1). தெறிக்கும் ஒலி கேட்க ஆகும் நேரம் ஏறத்தாழ",
         "options": [
-          "12.2 வி",
           "14.5 வி",
+          "12.2 வி",
           "2.2 வி",
           "27 வி"
         ],

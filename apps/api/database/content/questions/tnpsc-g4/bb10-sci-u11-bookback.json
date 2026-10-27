@@ -10,14 +10,14 @@
       "bloom": "apply",
       "page": 170,
       "quote": "1. The molecular formula of an open chain organic compound is C3H6. The class of the compound is a. alkane b. alkene c. alkyne d. alcohol",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The molecular formula of an open-chain organic compound is C₃H₆. The class of the compound is",
         "options": [
           "alkyne",
           "alkane",
-          "alcohol",
-          "alkene"
+          "alkene",
+          "alcohol"
         ],
         "explanation": "C₃H₆ fits C_nH₂ₙ, the general formula of alkenes."
       },
@@ -26,8 +26,8 @@
         "options": [
           "ஆல்கைன்",
           "ஆல்கேன்",
-          "ஆல்கஹால்",
-          "ஆல்கீன்"
+          "ஆல்கீன்",
+          "ஆல்கஹால்"
         ],
         "explanation": "C₃H₆ என்பது ஆல்கீன்களின் பொது வாய்ப்பாடு CₙH₂ₙ-க்குப் பொருந்துகிறது."
       }
@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 170,
       "quote": "2. The IUPAC name of an organic compound is 3-Methyl butan-1-ol. What type compound it is? a. Aldehyde b. Carboxylic acid c. Ketone d. Alcohol",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "A compound with the IUPAC name 3-methylbutan-1-ol belongs to the class of",
         "options": [
-          "carboxylic acids",
+          "alcohols",
           "aldehydes",
           "ketones",
-          "alcohols"
+          "carboxylic acids"
         ],
         "explanation": "The secondary suffix '-ol' denotes an alcohol."
       },
       "ta": {
         "q": "3-மெத்தில் பியூட்டேன்-1-ஆல் என்ற IUPAC பெயருடைய சேர்மம் எந்த வகையைச் சேர்ந்தது?",
         "options": [
-          "கார்பாக்சிலிக் அமிலம்",
+          "ஆல்கஹால்",
           "ஆல்டிஹைடு",
           "கீட்டோன்",
-          "ஆல்கஹால்"
+          "கார்பாக்சிலிக் அமிலம்"
         ],
         "explanation": "'-ஆல்' என்ற இரண்டாம் நிலை பின்னொட்டு ஆல்கஹாலைக் குறிக்கும்."
       }
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 170,
       "quote": "3. The secondary suffix used in IUPAC nomenclature of an aldehyde is ____ a. -ol b. -oic acid c. -al d. -one",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The secondary suffix used in the IUPAC nomenclature of an aldehyde is",
         "options": [
           "-oic acid",
-          "-al",
           "-ol",
+          "-al",
           "-one"
         ],
         "explanation": "-ol: alcohol; -oic acid: carboxylic acid; -one: ketone."
@@ -83,8 +83,8 @@
         "q": "ஆல்டிஹைடின் IUPAC பெயரிடலில் பயன்படும் இரண்டாம் நிலை பின்னொட்டு",
         "options": [
           "-ஓயிக் அமிலம் (-oic acid)",
-          "-ஏல் (-al)",
           "-ஆல் (-ol)",
+          "-ஏல் (-al)",
           "-ஓன் (-one)"
         ],
         "explanation": "-ol: ஆல்கஹால்; -oic acid: கார்பாக்சிலிக் அமிலம்; -one: கீட்டோன்."
@@ -97,13 +97,13 @@
       "bloom": "apply",
       "page": 170,
       "quote": "4. Which of the following pairs can be the successive members of a homologous series? a. C3H8 and C4H10 b. C2H2 and C2H4 c. CH4 and C3H6 d. C2H5OH and C4H8OH",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which of the following pairs can be successive members of a homologous series?",
         "options": [
-          "C₂H₅OH and C₄H₈OH",
-          "C₂H₂ and C₂H₄",
           "C₃H₈ and C₄H₁₀",
+          "C₂H₂ and C₂H₄",
+          "C₂H₅OH and C₄H₈OH",
           "CH₄ and C₃H₆"
         ],
         "explanation": "Successive members differ by a CH₂ group and share the same general formula; C₃H₈ and C₄H₁₀ are both alkanes."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "பின்வரும் இணைகளுள் ஒரே படிவரிசையின் அடுத்தடுத்த உறுப்புகளாக இருக்கக்கூடியது",
         "options": [
-          "C₂H₅OH, C₄H₈OH",
-          "C₂H₂, C₂H₄",
           "C₃H₈, C₄H₁₀",
+          "C₂H₂, C₂H₄",
+          "C₂H₅OH, C₄H₈OH",
           "CH₄, C₃H₆"
         ],
         "explanation": "அடுத்தடுத்த உறுப்புகள் CH₂ வேறுபாடு உடையவை; ஒரே பொது வாய்ப்பாடு கொண்டவை; C₃H₈, C₄H₁₀ இரண்டும் ஆல்கேன்கள்."
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 170,
       "quote": "5. C2H5OH + 3O2 -> 2CO2 + 3H2O is a a. Reduction of ethanol b. Combustion of ethanol c. Oxidation of ethanoic acid d. Oxidation of ethanal",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O represents the",
         "options": [
           "reduction of ethanol",
-          "combustion of ethanol",
+          "oxidation of ethanoic acid",
           "oxidation of ethanal",
-          "oxidation of ethanoic acid"
+          "combustion of ethanol"
         ],
         "explanation": "Ethanol burns in air with a blue flame, releasing heat."
       },
@@ -141,9 +141,9 @@
         "q": "C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O என்பது",
         "options": [
           "எத்தனாலின் ஒடுக்க வினை",
-          "எத்தனாலின் எரிதல் வினை",
+          "எத்தனாயிக் அமிலத்தின் ஆக்சிஜனேற்றம்",
           "எத்தனலின் (ஆல்டிஹைடு) ஆக்சிஜனேற்றம்",
-          "எத்தனாயிக் அமிலத்தின் ஆக்சிஜனேற்றம்"
+          "எத்தனாலின் எரிதல் வினை"
         ],
         "explanation": "எத்தனால் காற்றில் நீலச் சுடருடன் எரிந்து வெப்பத்தை வெளியிடுகிறது."
       }
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 170,
       "quote": "6. Rectified spirit is an aqueous solution which contains about _______ of ethanol a. 95.5 % b. 75.5 % c. 55.5 % d. 45.5 %",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Rectified spirit is an aqueous solution containing about ____ of ethanol.",
         "options": [
           "75.5 %",
           "45.5 %",
-          "95.5 %",
-          "55.5 %"
+          "55.5 %",
+          "95.5 %"
         ],
         "explanation": "It contains 95.5 % ethanol and 4.5 % water; refluxing it over quicklime and distilling gives absolute alcohol (100 %)."
       },
@@ -171,8 +171,8 @@
         "options": [
           "75.5 %",
           "45.5 %",
-          "95.5 %",
-          "55.5 %"
+          "55.5 %",
+          "95.5 %"
         ],
         "explanation": "இதில் 95.5 % எத்தனாலும் 4.5 % நீரும் உள்ளன; சுட்ட சுண்ணாம்புடன் வடித்தால் தூய (100 %) ஆல்கஹால் கிடைக்கும்."
       }
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 170,
       "quote": "7. Which of the following are used as anaesthetics? a. Carboxylic acids b. Ethers c. Esters d. Aldehydes",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which of the following classes of compounds is used as anaesthetic agents?",
         "options": [
-          "Ethers",
           "Aldehydes",
+          "Ethers",
           "Carboxylic acids",
           "Esters"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் மயக்க மருந்தாகப் பயன்படுவது",
         "options": [
-          "ஈதர்கள்",
           "ஆல்டிஹைடுகள்",
+          "ஈதர்கள்",
           "கார்பாக்சிலிக் அமிலங்கள்",
           "எஸ்டர்கள்"
         ],
@@ -213,24 +213,24 @@
       "bloom": "remember",
       "page": 170,
       "quote": "8. TFM in soaps represents ___________ content in soap a. mineral b. vitamin c. fatty acid d. carbohydrate",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "TFM in soaps represents the ____ content of the soap.",
         "options": [
-          "fatty acid (total fatty matter)",
+          "mineral",
           "carbohydrate",
           "vitamin",
-          "mineral"
+          "fatty acid (total fatty matter)"
         ],
         "explanation": "A soap with a higher TFM is a good bathing soap."
       },
       "ta": {
         "q": "சோப்பில் TFM என்பது ____ உள்ளடக்கத்தைக் குறிக்கும்.",
         "options": [
-          "கொழுப்பு அமிலம் (மொத்தக் கொழுப்புப் பொருள்)",
+          "கனிமம்",
           "கார்போஹைட்ரேட்",
           "வைட்டமின்",
-          "கனிமம்"
+          "கொழுப்பு அமிலம் (மொத்தக் கொழுப்புப் பொருள்)"
         ],
         "explanation": "அதிக TFM உடைய சோப்பு சிறந்த குளியல் சோப்பாகும்."
       }
@@ -242,12 +242,12 @@
       "bloom": "understand",
       "page": 170,
       "quote": "9. Which of the following statements is wrong about detergents? a. It is a sodium salt of long chain fatty acids b. It is sodium salts of sulphonic acids c. The ionic part in a detergent is -SO3-Na+ d. It is effective even in hard water.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Which of the following statements is wrong about detergents?",
         "options": [
-          "They are sodium salts of sulphonic acids",
           "They are sodium salts of long chain fatty acids",
+          "They are sodium salts of sulphonic acids",
           "They are effective even in hard water",
           "The ionic part in a detergent is –SO₃⁻Na⁺"
         ],
@@ -256,8 +256,8 @@
       "ta": {
         "q": "டிடர்ஜெண்ட்கள் பற்றிய தவறான கூற்று எது?",
         "options": [
-          "அவை சல்போனிக் அமிலங்களின் சோடியம் உப்புகள்",
           "அவை நீண்ட சங்கிலிக் கொழுப்பு அமிலங்களின் சோடியம் உப்புகள்",
+          "அவை சல்போனிக் அமிலங்களின் சோடியம் உப்புகள்",
           "கடின நீரிலும் அவை திறம்படச் செயல்படும்",
           "டிடர்ஜெண்ட்டின் அயனிப் பகுதி –SO₃⁻Na⁺"
         ],
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 170,
       "quote": "1. An atom or a group of atoms which is responsible for chemical characteristics of an organic compound is called ____________.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "An atom or group of atoms responsible for the characteristic properties of an organic compound is called its",
         "options": [
           "isomer",
-          "root word",
+          "functional group",
           "homologous series",
-          "functional group"
+          "root word"
         ],
         "explanation": "Examples: –OH (alcohol), –COOH (carboxylic acid), –CHO (aldehyde)."
       },
@@ -286,9 +286,9 @@
         "q": "ஒரு கரிமச் சேர்மத்தின் வேதிப் பண்புகளுக்குக் காரணமான அணு அல்லது அணுக் கூட்டம்",
         "options": [
           "மாற்றியம்",
-          "மூலச் சொல்",
+          "வினைச் செயல் தொகுதி",
           "படிவரிசை",
-          "வினைச் செயல் தொகுதி"
+          "மூலச் சொல்"
         ],
         "explanation": "எ.கா: –OH (ஆல்கஹால்), –COOH (கார்பாக்சிலிக் அமிலம்), –CHO (ஆல்டிஹைடு)."
       }
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 170,
       "quote": "2. The general molecular formula of alkynes is _____________",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The general molecular formula of alkynes is",
         "options": [
           "CₙH₂ₙ₊₂",
-          "CₙH₂ₙ",
           "CₙH₂ₙ₋₂",
+          "CₙH₂ₙ",
           "CₙHₙ₊₂"
         ],
         "explanation": "Alkanes: CₙH₂ₙ₊₂; alkenes: CₙH₂ₙ; alkynes: CₙH₂ₙ₋₂ (acetylene C₂H₂ is the simplest)."
@@ -315,8 +315,8 @@
         "q": "ஆல்கைன்களின் பொது மூலக்கூறு வாய்ப்பாடு",
         "options": [
           "CₙH₂ₙ₊₂",
-          "CₙH₂ₙ",
           "CₙH₂ₙ₋₂",
+          "CₙH₂ₙ",
           "CₙHₙ₊₂"
         ],
         "explanation": "ஆல்கேன்: CₙH₂ₙ₊₂; ஆல்கீன்: CₙH₂ₙ; ஆல்கைன்: CₙH₂ₙ₋₂ (எளிய ஆல்கைன் அசிட்டிலீன் C₂H₂)."
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 170,
       "quote": "4. (Saturated / Unsaturated) ___________ compounds decolourize bromine water.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Compounds that decolourise bromine water are",
         "options": [
-          "unsaturated compounds",
-          "saturated compounds",
           "only inorganic acids",
+          "saturated compounds",
+          "unsaturated compounds",
           "all organic compounds"
         ],
         "explanation": "Saturated compounds do not decolourise bromine water."
@@ -372,9 +372,9 @@
       "ta": {
         "q": "புரோமின் நீரை நிறமாற்றம் செய்யும் சேர்மங்கள்",
         "options": [
-          "நிறைவுறாச் சேர்மங்கள்",
-          "நிறைவுற்ற சேர்மங்கள்",
           "கனிம அமிலங்கள் மட்டும்",
+          "நிறைவுற்ற சேர்மங்கள்",
+          "நிறைவுறாச் சேர்மங்கள்",
           "எல்லாக் கரிமச் சேர்மங்களும்"
         ],
         "explanation": "நிறைவுற்ற சேர்மங்கள் புரோமின் நீரை நிறமாற்றம் செய்யாது."
@@ -387,24 +387,24 @@
       "bloom": "remember",
       "page": 170,
       "quote": "5. Dehydration of ethanol by conc. Sulphuric acid forms _______ (ethene/ ethane)",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Dehydration of ethanol by conc. sulphuric acid at 443 K forms",
         "options": [
-          "ethanal",
+          "ethene",
           "ethyne",
           "ethane",
-          "ethene"
+          "ethanal"
         ],
         "explanation": "C₂H₅OH → C₂H₄ + H₂O."
       },
       "ta": {
         "q": "அடர் சல்பியூரிக் அமிலத்தால் 443 K-இல் எத்தனாலை நீர் நீக்கம் செய்தால் கிடைப்பது",
         "options": [
-          "எத்தனல்",
+          "ஈத்தீன்",
           "ஈத்தைன்",
           "ஈத்தேன்",
-          "ஈத்தீன்"
+          "எத்தனல்"
         ],
         "explanation": "C₂H₅OH → C₂H₄ + H₂O."
       }
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 170,
       "quote": "6. 100 % pure ethanol is called ____________",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "100 % pure ethanol is called",
         "options": [
           "methylated spirit",
           "rectified spirit",
-          "absolute alcohol",
-          "power alcohol"
+          "power alcohol",
+          "absolute alcohol"
         ],
         "explanation": "Rectified spirit (95.5 %) refluxed over quicklime and distilled gives absolute alcohol."
       },
@@ -432,8 +432,8 @@
         "options": [
           "மெத்திலேற்றப்பட்ட ஸ்பிரிட்",
           "சுத்திகரிக்கப்பட்ட ஸ்பிரிட்",
-          "தூய (நீரற்ற) ஆல்கஹால்",
-          "திறன் ஆல்கஹால்"
+          "திறன் ஆல்கஹால்",
+          "தூய (நீரற்ற) ஆல்கஹால்"
         ],
         "explanation": "95.5 % ஸ்பிரிட்டைச் சுட்ட சுண்ணாம்புடன் சேர்த்து வடித்தால் தூய ஆல்கஹால் கிடைக்கும்."
       }
@@ -474,13 +474,13 @@
       "bloom": "remember",
       "page": 170,
       "quote": "8. The alkaline hydrolysis of fatty acids is termed as _____________",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The alkaline hydrolysis of oils or fats to form soap is called",
         "options": [
           "esterification",
-          "fermentation",
           "saponification",
+          "fermentation",
           "dehydration"
         ],
         "explanation": "Oil is boiled with excess alkali and steam in an iron kettle."
@@ -489,8 +489,8 @@
         "q": "எண்ணெய் அல்லது கொழுப்பைக் காரத்தால் நீராற்பகுத்துச் சோப்பு தயாரிக்கும் முறை",
         "options": [
           "எஸ்டராக்கல்",
-          "நொதித்தல்",
           "சோப்பாக்கல் (சபோனிஃபிகேஷன்)",
+          "நொதித்தல்",
           "நீர் நீக்கம்"
         ],
         "explanation": "இரும்புக் கொப்பரையில் எண்ணெயை மிகை காரத்துடனும் நீராவியுடனும் கொதிக்க வைக்கிறார்கள்."
@@ -503,24 +503,24 @@
       "bloom": "remember",
       "page": 170,
       "quote": "9. Biodegradable detergents are made of _________ (branched / straight) chain hydrocarbons",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Biodegradable detergents are made of ____ chain hydrocarbons.",
         "options": [
-          "aromatic only",
+          "straight",
           "cyclic only",
           "branched",
-          "straight"
+          "aromatic only"
         ],
         "explanation": "Highly branched chains cannot be degraded by bacteria, so such detergents are non-biodegradable."
       },
       "ta": {
         "q": "உயிரிய சிதைவுறும் டிடர்ஜெண்ட்கள் ____ சங்கிலி ஹைட்ரோகார்பன்களால் ஆனவை.",
         "options": [
-          "ஆரோமேட்டிக் மட்டும்",
+          "நேரான",
           "வளையம் மட்டும்",
           "கிளைத்த",
-          "நேரான"
+          "ஆரோமேட்டிக் மட்டும்"
         ],
         "explanation": "மிகவும் கிளைத்த சங்கிலிகளை பாக்டீரியாக்களால் சிதைக்க இயலாது; அவை உயிரிய சிதைவுறாதவை."
       }
@@ -532,24 +532,24 @@
       "bloom": "remember",
       "page": 170,
       "quote": "Match the following: Functional group –OH - Alcohol; Heterocyclic - Furan; Unsaturated - Ethene; Soap - Potassium stearate; Carbocyclic - Benzene",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Match List I with List II:\n(a) Functional group –OH\n(b) Heterocyclic compound\n(c) Unsaturated hydrocarbon\n(d) Soap\n— \n(1) Ethene\n(2) Potassium stearate\n(3) Alcohol\n(4) Furan",
         "options": [
-          "a-3, b-4, c-1, d-2",
+          "a-3, b-1, c-4, d-2",
           "a-2, b-4, c-3, d-1",
           "a-2, b-1, c-4, d-3",
-          "a-3, b-1, c-4, d-2"
+          "a-3, b-4, c-1, d-2"
         ],
         "explanation": "–OH is the functional group of alcohols; furan is heterocyclic; ethene is unsaturated; potassium stearate is a soap."
       },
       "ta": {
         "q": "பட்டியல் I-ஐப் பட்டியல் II உடன் பொருத்துக:\n(a) வினைச் செயல் தொகுதி –OH\n(b) பல்லின வளையச் சேர்மம்\n(c) நிறைவுறாச் சேர்மம்\n(d) சோப்பு\n— \n(1) ஈத்தீன்\n(2) பொட்டாசியம் ஸ்டிரேட்\n(3) ஆல்கஹால்\n(4) பியூரான்",
         "options": [
-          "a-3, b-4, c-1, d-2",
+          "a-3, b-1, c-4, d-2",
           "a-2, b-4, c-3, d-1",
           "a-2, b-1, c-4, d-3",
-          "a-3, b-1, c-4, d-2"
+          "a-3, b-4, c-1, d-2"
         ],
         "explanation": "–OH என்பது ஆல்கஹாலின் வினைச் செயல் தொகுதி; பியூரான் பல்லின வளையச் சேர்மம்; ஈத்தீன் நிறைவுறாச் சேர்மம்; பொட்டாசியம் ஸ்டிரேட் ஒரு சோப்பு."
       }
@@ -619,13 +619,13 @@
       "bloom": "remember",
       "page": 171,
       "quote": "1. Name the simplest ketone and give its structural formula.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The simplest ketone is",
         "options": [
           "ethanal, CH₃CHO",
-          "propanone (acetone), CH₃COCH₃",
           "butanone, CH₃COC₂H₅",
+          "propanone (acetone), CH₃COCH₃",
           "methanal, HCHO"
         ],
         "explanation": "The ketone group is >C=O between two carbons; the first member has three carbons."
@@ -634,8 +634,8 @@
         "q": "எளிய கீட்டோன்",
         "options": [
           "எத்தனல், CH₃CHO",
-          "புரப்பனோன் (அசிட்டோன்), CH₃COCH₃",
           "பியூட்டனோன், CH₃COC₂H₅",
+          "புரப்பனோன் (அசிட்டோன்), CH₃COCH₃",
           "மெத்தனல், HCHO"
         ],
         "explanation": "கீட்டோன் தொகுதி (>C=O) இரு கார்பன்களுக்கு இடையே இருக்கும்; முதல் உறுப்பில் மூன்று கார்பன்கள்."
@@ -648,13 +648,13 @@
       "bloom": "remember",
       "page": 171,
       "quote": "2. Classify the following compounds based on the pattern of carbon chain and give their structural formula: (i) Propane (ii) Benzene (iii) Cyclobutane (iv) Furan",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Among propane, benzene, cyclobutane and furan, the heterocyclic compound is",
         "options": [
           "propane",
-          "furan",
           "cyclobutane",
+          "furan",
           "benzene"
         ],
         "explanation": "Propane is open chain; benzene and cyclobutane are carbocyclic; furan has an oxygen atom in the ring."
@@ -663,8 +663,8 @@
         "q": "புரப்பேன், பென்சீன், வளைய பியூட்டேன், பியூரான் ஆகியவற்றுள் பல்லின வளையச் சேர்மம்",
         "options": [
           "புரப்பேன்",
-          "பியூரான்",
           "வளைய பியூட்டேன்",
+          "பியூரான்",
           "பென்சீன்"
         ],
         "explanation": "புரப்பேன் திறந்த சங்கிலி; பென்சீன், வளைய பியூட்டேன் கார்போ வளையச் சேர்மங்கள்; பியூரான் வளையத்தில் ஆக்சிஜன் அணு உள்ளது."
@@ -735,24 +735,24 @@
       "bloom": "remember",
       "page": 171,
       "quote": "1. What is called homologous series? Give any three of its characteristics?",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which of the following is a characteristic of a homologous series?",
         "options": [
-          "Members show a regular gradation in physical properties with increasing molecular mass",
+          "Members have different chemical properties",
           "Members have no general formula",
           "Members have different functional groups",
-          "Members have different chemical properties"
+          "Members show a regular gradation in physical properties with increasing molecular mass"
         ],
         "explanation": "Successive members differ by a CH₂ group and show similar chemical properties."
       },
       "ta": {
         "q": "படிவரிசையின் பண்பு எது?",
         "options": [
-          "மூலக்கூறு நிறை அதிகரிக்கும்போது இயற்பியல் பண்புகளில் படிப்படியான மாற்றம் காணப்படுவது",
+          "உறுப்புகளின் வேதிப் பண்புகள் வேறுபடுவது",
           "பொது வாய்ப்பாடு இல்லாமை",
           "உறுப்புகள் வெவ்வேறு வினைச் செயல் தொகுதிகளைக் கொண்டிருப்பது",
-          "உறுப்புகளின் வேதிப் பண்புகள் வேறுபடுவது"
+          "மூலக்கூறு நிறை அதிகரிக்கும்போது இயற்பியல் பண்புகளில் படிப்படியான மாற்றம் காணப்படுவது"
         ],
         "explanation": "அடுத்தடுத்த உறுப்புகள் CH₂ வேறுபாடு உடையவை; ஒத்த வேதிப் பண்புகளைக் காட்டும்."
       }
@@ -764,13 +764,13 @@
       "bloom": "apply",
       "page": 171,
       "quote": "2. Arrive at, systematically, the IUPAC name of the compound: CH3-CH2-CH2-OH.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The IUPAC name of CH₃–CH₂–CH₂–OH is",
         "options": [
-          "propanol-3",
-          "propanal",
           "propan-1-ol",
+          "propanal",
+          "propanol-3",
           "propanoic acid"
         ],
         "explanation": "Root word 'prop' + primary suffix 'ane' (the terminal 'e' is dropped) + secondary suffix '1-ol'."
@@ -778,9 +778,9 @@
       "ta": {
         "q": "CH₃–CH₂–CH₂–OH என்ற சேர்மத்தின் IUPAC பெயர்",
         "options": [
-          "புரப்பேனால்-3",
-          "புரப்பனல்",
           "புரப்பேன்-1-ஆல் (propan-1-ol)",
+          "புரப்பனல்",
+          "புரப்பேனால்-3",
           "புரப்பனோயிக் அமிலம்"
         ],
         "explanation": "மூலச் சொல் 'prop' + முதல்நிலைப் பின்னொட்டு 'ane' (இறுதி 'e' நீக்கப்படும்) + இரண்டாம் நிலைப் பின்னொட்டு '1-ol'."
@@ -793,12 +793,12 @@
       "bloom": "apply",
       "page": 171,
       "quote": "4. (i) Neutralization of NaOH with ethanoic acid. (ii) Evolution of carbon dioxide by the action of ethanoic acid with NaHCO3.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The balanced equation for the action of ethanoic acid on sodium hydrogen carbonate is",
         "options": [
-          "2CH₃COOH + NaHCO₃ → CH₃COONa + H₂",
           "CH₃COOH + NaHCO₃ → CH₃COONa + CO₂ + H₂O",
+          "2CH₃COOH + NaHCO₃ → CH₃COONa + H₂",
           "CH₃COOH + NaOH → CH₃COONa + CO₂",
           "CH₃COOH + NaHCO₃ → CH₃COOCH₃ + NaOH"
         ],
@@ -807,8 +807,8 @@
       "ta": {
         "q": "எத்தனாயிக் அமிலம் NaHCO₃-வுடன் வினைபுரியும் சமன் செய்யப்பட்ட சமன்பாடு",
         "options": [
-          "2CH₃COOH + NaHCO₃ → CH₃COONa + H₂",
           "CH₃COOH + NaHCO₃ → CH₃COONa + CO₂ + H₂O",
+          "2CH₃COOH + NaHCO₃ → CH₃COONa + H₂",
           "CH₃COOH + NaOH → CH₃COONa + CO₂",
           "CH₃COOH + NaHCO₃ → CH₃COOCH₃ + NaOH"
         ],
@@ -822,13 +822,13 @@
       "bloom": "apply",
       "page": 171,
       "quote": "1. The molecular formula of an alcohol is C4H10O. The locant number of its -OH group is 2. (i) Draw its structural formula. (ii) Give its IUPAC name. (iii) Is it saturated or unsaturated?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "An alcohol of molecular formula C₄H₁₀O has its –OH group at carbon 2. Its IUPAC name and nature are",
         "options": [
           "butan-1-ol; saturated",
-          "butan-2-al; saturated",
           "butan-2-ol; saturated",
+          "butan-2-al; saturated",
           "butan-2-ol; unsaturated"
         ],
         "explanation": "CH₃–CH(OH)–CH₂–CH₃; all carbon–carbon bonds are single."
@@ -837,8 +837,8 @@
         "q": "C₄H₁₀O மூலக்கூறு வாய்ப்பாடுடைய ஆல்கஹாலில் –OH இட எண் 2. அதன் IUPAC பெயரும் தன்மையும்",
         "options": [
           "பியூட்டேன்-1-ஆல்; நிறைவுற்றது",
-          "பியூட்டேன்-2-ஏல்; நிறைவுற்றது",
           "பியூட்டேன்-2-ஆல்; நிறைவுற்றது",
+          "பியூட்டேன்-2-ஏல்; நிறைவுற்றது",
           "பியூட்டேன்-2-ஆல்; நிறைவுறாதது"
         ],
         "explanation": "CH₃–CH(OH)–CH₂–CH₃; எல்லா C–C பிணைப்புகளும் ஒற்றைப் பிணைப்புகள்."

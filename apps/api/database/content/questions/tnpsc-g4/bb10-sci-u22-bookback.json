@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 326,
       "quote": "1. Deforestation leads to ______________ in rainfall.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Deforestation leads to a _______ in rainfall.",
         "options": [
           "increase",
-          "no change",
           "decrease",
+          "no change",
           "sudden surge"
         ],
         "explanation": "Forests increase rainfall and regulate climate; deforestation therefore reduces rainfall."
@@ -25,8 +25,8 @@
         "q": "காடழிப்பு மழைப்பொழிவில் ________ ஏற்படுத்துகிறது.",
         "options": [
           "உயர்வை",
-          "மாற்றமின்மையை",
           "குறைவை",
+          "மாற்றமின்மையை",
           "திடீர் அதிகரிப்பை"
         ],
         "explanation": "காடுகள் மழையை அதிகரித்து தட்பவெப்பத்தைக் கட்டுப்படுத்துகின்றன; காடழிப்பு மழைப்பொழிவைக் குறைக்கிறது."
@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 326,
       "quote": "5. Tidal energy is ___________ type of energy.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Tidal energy is a _______ type of energy.",
         "options": [
-          "renewable",
+          "exhaustible",
           "non-renewable",
           "fossil",
-          "exhaustible"
+          "renewable"
         ],
         "explanation": "Tidal energy, like hydro, solar and wind energy, is a renewable (inexhaustible) energy resource."
       },
       "ta": {
         "q": "ஓதங்களின் ஆற்றல் ________ வகை ஆற்றல்.",
         "options": [
-          "புதுப்பிக்கத்தக்க",
+          "தீர்ந்துபோகும்",
           "புதுப்பிக்க இயலாத",
           "படிம எரிபொருள்",
-          "தீர்ந்துபோகும்"
+          "புதுப்பிக்கத்தக்க"
         ],
         "explanation": "ஓத ஆற்றல், நீர், சூரிய, காற்று ஆற்றல்களைப் போலப் புதுப்பிக்கத்தக்க ஆற்றல் மூலம்."
       }
@@ -97,12 +97,12 @@
       "bloom": "understand",
       "page": 326,
       "quote": "1. Biogas is a fossil fuel.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Biogas, produced by anaerobic decomposition of cow dung, is a",
         "options": [
-          "fossil fuel",
           "renewable energy source, not a fossil fuel",
+          "fossil fuel",
           "nuclear fuel",
           "non-renewable fuel"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "மாட்டுச் சாணத்தை காற்றின்றி சிதைப்பதால் கிடைக்கும் உயிரி வாயு",
         "options": [
-          "படிம எரிபொருள்",
           "புதுப்பிக்கத்தக்க ஆற்றல் மூலம்; படிம எரிபொருள் அன்று",
+          "படிம எரிபொருள்",
           "அணு எரிபொருள்",
           "புதுப்பிக்க இயலாத எரிபொருள்"
         ],
@@ -155,14 +155,14 @@
       "bloom": "understand",
       "page": 326,
       "quote": "6. Poaching of wild animals is a legal act.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Poaching of wild animals is",
         "options": [
           "legal with a licence",
           "legal in sanctuaries",
-          "encouraged for conservation",
-          "illegal and punishable under the Wildlife Protection Act, 1972"
+          "illegal and punishable under the Wildlife Protection Act, 1972",
+          "encouraged for conservation"
         ],
         "explanation": "The book statement is false: poaching is illegal."
       },
@@ -171,8 +171,8 @@
         "options": [
           "உரிமத்துடன் சட்டப்படி அனுமதிக்கப்பட்டது",
           "சரணாலயங்களில் சட்டப்படி அனுமதிக்கப்பட்டது",
-          "பாதுகாப்புக்காக ஊக்குவிக்கப்படுகிறது",
-          "வனவிலங்குப் பாதுகாப்புச் சட்டம், 1972-ன்படி சட்டவிரோதமும் தண்டனைக்குரியதும்"
+          "வனவிலங்குப் பாதுகாப்புச் சட்டம், 1972-ன்படி சட்டவிரோதமும் தண்டனைக்குரியதும்",
+          "பாதுகாப்புக்காக ஊக்குவிக்கப்படுகிறது"
         ],
         "explanation": "புத்தகக் கூற்று தவறு; வேட்டையாடுதல் சட்டவிரோதம்."
       }
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 326,
       "quote": "3. The gas released from vehicles exhaust are i. carbon monoxide ii. Sulphur dioxide iii. Oxides of nitrogen",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The gases released in vehicle exhaust include",
         "options": [
           "only oxygen and nitrogen",
-          "only hydrogen",
           "carbon monoxide, sulphur dioxide and oxides of nitrogen",
+          "only hydrogen",
           "only helium and neon"
         ],
         "explanation": "Vehicle exhaust releases carbon monoxide, sulphur dioxide and oxides of nitrogen, all air pollutants."
@@ -228,8 +228,8 @@
         "q": "வாகனப் புகையிலிருந்து வெளிவரும் வாயுக்கள்",
         "options": [
           "ஆக்சிஜன், நைட்ரஜன் மட்டும்",
-          "ஹைட்ரஜன் மட்டும்",
           "கார்பன் மோனாக்சைடு, சல்பர் டை ஆக்சைடு, நைட்ரஜன் ஆக்சைடுகள்",
+          "ஹைட்ரஜன் மட்டும்",
           "ஹீலியம், நியான் மட்டும்"
         ],
         "explanation": "வாகனப் புகையில் கார்பன் மோனாக்சைடு, சல்பர் டை ஆக்சைடு, நைட்ரஜன் ஆக்சைடுகள் ஆகிய காற்று மாசுகள் உள்ளன."
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 326,
       "quote": "5. A renewable source of energy is a) petroleum b) coal c) nuclear fuel d) trees",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which of the following is a renewable source of energy?",
         "options": [
           "Petroleum",
-          "Coal",
+          "Trees (wood)",
           "Nuclear fuel",
-          "Trees (wood)"
+          "Coal"
         ],
         "explanation": "Trees can be regrown, so wood is renewable; petroleum, coal and nuclear fuel are exhaustible."
       },
@@ -257,9 +257,9 @@
         "q": "புதுப்பிக்கத்தக்க ஆற்றல் மூலம் எது?",
         "options": [
           "பெட்ரோலியம்",
-          "நிலக்கரி",
+          "மரங்கள் (விறகு)",
           "அணு எரிபொருள்",
-          "மரங்கள் (விறகு)"
+          "நிலக்கரி"
         ],
         "explanation": "மரங்களை மீண்டும் வளர்க்க முடியும் என்பதால் விறகு புதுப்பிக்கத்தக்கது; பெட்ரோலியம், நிலக்கரி, அணு எரிபொருள் தீர்ந்துபோகும்."
       }
@@ -271,14 +271,14 @@
       "bloom": "understand",
       "page": 326,
       "quote": "6. Soil erosion is more where there is a) no rain fall b) low rainfall c) rain fall is high d) none of these",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Soil erosion is more in places where the rainfall is",
         "options": [
           "absent",
-          "high",
+          "moderate and evenly spread",
           "low",
-          "moderate and evenly spread"
+          "high"
         ],
         "explanation": "Flowing water is an agent of erosion, so places with high rainfall suffer more erosion."
       },
@@ -286,9 +286,9 @@
         "q": "எந்தப் பகுதியில் மண் அரிப்பு அதிகம்?",
         "options": [
           "மழையே இல்லாத இடங்களில்",
-          "மழைப்பொழிவு அதிகமான இடங்களில்",
+          "மிதமான சீரான மழை உள்ள இடங்களில்",
           "மழை குறைந்த இடங்களில்",
-          "மிதமான சீரான மழை உள்ள இடங்களில்"
+          "மழைப்பொழிவு அதிகமான இடங்களில்"
         ],
         "explanation": "ஓடும் நீர் மண் அரிப்புக்குக் காரணி; எனவே அதிக மழையுள்ள இடங்களில் அரிப்பு அதிகம்."
       }
@@ -329,24 +329,24 @@
       "bloom": "remember",
       "page": 326,
       "quote": "8. Common energy source in village is a) electricity b) coal c) biogas d) wood and animal dung",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The commonest source of energy in villages is",
         "options": [
-          "wood and animal dung",
+          "petroleum",
           "electricity",
           "coal",
-          "petroleum"
+          "wood and animal dung"
         ],
         "explanation": "Villages mostly depend on wood and animal dung; biogas is a cleaner alternative made from dung."
       },
       "ta": {
         "q": "கிராமங்களில் பொதுவான ஆற்றல் மூலம்",
         "options": [
-          "விறகும் கால்நடைச் சாணமும்",
+          "பெட்ரோலியம்",
           "மின்சாரம்",
           "நிலக்கரி",
-          "பெட்ரோலியம்"
+          "விறகும் கால்நடைச் சாணமும்"
         ],
         "explanation": "கிராமங்களில் விறகும் சாணமுமே அதிகம் பயன்படுகின்றன; சாணத்திலிருந்து உயிரி வாயு தூய மாற்று எரிபொருள்."
       }
@@ -387,13 +387,13 @@
       "bloom": "apply",
       "page": 327,
       "quote": "10. A cheap, conventional, commercial and inexhaustible source of energy is",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "A cheap, conventional, commercial and inexhaustible source of energy is",
         "options": [
-          "solar energy",
-          "wind energy",
           "hydropower",
+          "wind energy",
+          "solar energy",
           "thermal energy"
         ],
         "explanation": "Hydropower is a conventional, commercial and renewable source, whereas thermal energy depends on exhaustible fuels."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "மலிவான, மரபு சார்ந்த, வணிகரீதியான, தீராத ஆற்றல் மூலம்",
         "options": [
-          "சூரிய ஆற்றல்",
-          "காற்று ஆற்றல்",
           "நீர் மின்சக்தி",
+          "காற்று ஆற்றல்",
+          "சூரிய ஆற்றல்",
           "அனல் ஆற்றல்"
         ],
         "explanation": "நீர் மின்சக்தி மரபு சார்ந்த, வணிகரீதியான, புதுப்பிக்கத்தக்க மூலம்; அனல் ஆற்றல் தீரும் எரிபொருளைச் சார்ந்தது."
@@ -416,12 +416,12 @@
       "bloom": "understand",
       "page": 327,
       "quote": "11. Global warming will cause",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Global warming will cause",
         "options": [
-          "fall in sea level",
           "rise in sea level, melting of glaciers and sinking of islands",
+          "fall in sea level",
           "growth of glaciers",
           "cooling of the poles"
         ],
@@ -430,8 +430,8 @@
       "ta": {
         "q": "புவி வெப்பமயமாதலால் ஏற்படுவது",
         "options": [
-          "கடல்மட்டம் குறைதல்",
           "கடல்மட்ட உயர்வு, பனிப்பாறை உருகுதல், தீவுகள் மூழ்குதல்",
+          "கடல்மட்டம் குறைதல்",
           "பனிப்பாறை வளருதல்",
           "துருவங்கள் குளிர்தல்"
         ],
@@ -445,14 +445,14 @@
       "bloom": "remember",
       "page": 327,
       "quote": "6. How are e-wastes generated?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "E-waste is generated from",
         "options": [
           "kitchen vegetable peels",
           "paper and cardboard only",
-          "sewage sludge",
-          "unwanted, non-working and outdated electronic products"
+          "unwanted, non-working and outdated electronic products",
+          "sewage sludge"
         ],
         "explanation": "Unwanted, non-working and outdated electronic products become e-waste."
       },
@@ -461,8 +461,8 @@
         "options": [
           "சமையலறைக் காய்கறித் தோல்களிலிருந்து",
           "காகிதம், அட்டையிலிருந்து மட்டும்",
-          "கழிவுநீர்ச் சேற்றிலிருந்து",
-          "தேவையற்ற, பழுதடைந்த, காலாவதியான மின்னணுப் பொருட்களிலிருந்து"
+          "தேவையற்ற, பழுதடைந்த, காலாவதியான மின்னணுப் பொருட்களிலிருந்து",
+          "கழிவுநீர்ச் சேற்றிலிருந்து"
         ],
         "explanation": "தேவையற்ற, இயங்காத, பழைய மின்னணுப் பொருட்கள் மின்னணுக் கழிவாகின்றன."
       }
@@ -503,14 +503,14 @@
       "bloom": "apply",
       "page": 327,
       "quote": "1. Although coal and petroleum are produced by degradation of biomass, yet we need to conserve them. Why?",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Although coal and petroleum are formed from biomass, they must be conserved because they",
         "options": [
           "are formed within a few days",
           "are unlimited in amount",
-          "take millions of years to form and are non-renewable",
-          "cause no pollution"
+          "cause no pollution",
+          "take millions of years to form and are non-renewable"
         ],
         "explanation": "Fossil fuels form very slowly over millions of years and can get exhausted by rapid use."
       },
@@ -519,8 +519,8 @@
         "options": [
           "சில நாட்களில் உருவாகின்றன",
           "வரம்பற்ற அளவில் உள்ளன",
-          "உருவாக மில்லியன் ஆண்டுகள் ஆகும் புதுப்பிக்க இயலாதவை",
-          "மாசு ஏற்படுத்துவதில்லை"
+          "மாசு ஏற்படுத்துவதில்லை",
+          "உருவாக மில்லியன் ஆண்டுகள் ஆகும் புதுப்பிக்க இயலாதவை"
         ],
         "explanation": "படிம எரிபொருள்கள் மில்லியன் ஆண்டுகளில் மெதுவாக உருவாகின்றன; விரைவான பயன்பாட்டால் தீர்ந்துவிடும்."
       }
@@ -532,13 +532,13 @@
       "bloom": "apply",
       "page": 327,
       "quote": "3. Why is the Government imposing ban on the use of polythene bags and plastics?",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The government bans polythene bags and plastics mainly because they",
         "options": [
-          "are non-biodegradable and pollute soil and water",
-          "decompose quickly",
           "are very costly",
+          "decompose quickly",
+          "are non-biodegradable and pollute soil and water",
           "are good manure"
         ],
         "explanation": "Plastics are non-biodegradable, choke drains and pollute soil and water."
@@ -546,9 +546,9 @@
       "ta": {
         "q": "பாலிதீன் பைகள், பிளாஸ்டிக்குகளை அரசு தடை செய்யக் காரணம், அவை",
         "options": [
-          "மட்காதவை; மண்ணையும் நீரையும் மாசுபடுத்துகின்றன",
-          "விரைவில் மட்கிவிடுகின்றன",
           "மிகவும் விலையுயர்ந்தவை",
+          "விரைவில் மட்கிவிடுகின்றன",
+          "மட்காதவை; மண்ணையும் நீரையும் மாசுபடுத்துகின்றன",
           "நல்ல உரமாகும்"
         ],
         "explanation": "பிளாஸ்டிக்குகள் மட்காதவை; வடிகால்களை அடைத்து மண், நீரை மாசுபடுத்துகின்றன."

@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 234,
       "quote": "1. One among the following is not the first responder in case of a disaster. a. police officers b. firefighters c. insurance agents d. emergency medical technicians",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which of the following is NOT a first responder in case of a disaster?",
         "options": [
           "Police officers",
-          "Firefighters",
           "Insurance agents",
+          "Firefighters",
           "Emergency medical technicians"
         ],
         "explanation": "Police officers, firefighters and emergency medical technicians are a community's first responders."
@@ -25,8 +25,8 @@
         "q": "பேரிடரின்போது முதன்மை மீட்பாளர் அல்லாதவர் யார்?",
         "options": [
           "காவல்துறையினர்",
-          "தீயணைப்பு வீரர்கள்",
           "காப்பீட்டு முகவர்கள்",
+          "தீயணைப்பு வீரர்கள்",
           "அவசரகால மருத்துவ உதவியாளர்கள்"
         ],
         "explanation": "காவல், தீயணைப்பு, அவசர மருத்துவ உதவியாளர்களே முதன்மை மீட்பாளர்கள்."
@@ -39,12 +39,12 @@
       "bloom": "remember",
       "page": 234,
       "quote": "2. 'Drop, Cover, Hold' is a mock drill advocated for a. Fire b. Earthquake c. Tsunami d. Riot",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "'Drop, Cover and Hold on' is the recommended mock drill for",
         "options": [
-          "a fire",
           "an earthquake",
+          "a fire",
           "a riot",
           "a tsunami"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "'விழு! மூடிக்கொள்! பிடித்துக்கொள்!' என்ற ஒத்திகைப் பயிற்சி எதற்கானது?",
         "options": [
-          "தீ விபத்து",
           "நிலநடுக்கம்",
+          "தீ விபத்து",
           "கலவரம்",
           "ஆழிப்பேரலை"
         ],
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 234,
       "quote": "3. When you happen to see a fire break out, you will make a call to a. 114 b. 112 c. 115 d. 118",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "When you see a fire break out, the textbook advises you to pull the nearest fire alarm or call",
         "options": [
-          "112",
-          "114",
           "115",
+          "114",
+          "112",
           "118"
         ],
         "explanation": "Give your name and location of the fire and do not hang up until the dispatcher tells you to."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "தீ விபத்தைக் காணும்போது நீங்கள் அழைக்க வேண்டிய எண்",
         "options": [
-          "112",
-          "114",
           "115",
+          "114",
+          "112",
           "118"
         ],
         "explanation": "உங்கள் பெயர், இருப்பிடத்தைக் கூற வேண்டும்."
@@ -155,12 +155,12 @@
       "bloom": "remember",
       "page": 235,
       "quote": "II. 1. Who are the community's first responders to disaster?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Who are a community's first responders during fire, flood or acts of terrorism?",
         "options": [
-          "Insurance agents and bankers",
           "Police officers, firefighters and emergency medical technicians",
+          "Insurance agents and bankers",
           "Meteorologists only",
           "Journalists and lawyers"
         ],
@@ -169,8 +169,8 @@
       "ta": {
         "q": "தீ, வெள்ளம், பயங்கரவாதச் செயல்களின்போது சமூகத்தின் முதன்மை மீட்பாளர்கள்",
         "options": [
-          "காப்பீட்டு முகவர்கள், வங்கியாளர்கள்",
           "காவல்துறையினர், தீயணைப்பு வீரர்கள், அவசர மருத்துவ உதவியாளர்கள்",
+          "காப்பீட்டு முகவர்கள், வங்கியாளர்கள்",
           "வானிலையாளர்கள் மட்டும்",
           "செய்தியாளர்கள், வழக்கறிஞர்கள்"
         ],
@@ -184,24 +184,24 @@
       "bloom": "remember",
       "page": 235,
       "quote": "II. 2. Though Japan has the densest seismic network, Indonesia has the most number of earthquakes. Why?",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "According to the textbook, Japan has the densest seismic network, yet Indonesia is said to have more earthquakes overall. The reason is that Indonesia",
         "options": [
-          "is larger than Japan and lies in a very active seismic zone",
+          "has more seismographs than Japan",
           "has no seismic zone",
           "is on a stable plate",
-          "has more seismographs than Japan"
+          "is larger than Japan and lies in a very active seismic zone"
         ],
         "explanation": "Indonesia is also in a very active seismic zone; per unit area Tonga, Fiji or Indonesia probably have the most earthquakes, as they lie along subduction zones."
       },
       "ta": {
         "q": "பாடநூலின்படி, ஜப்பானில் அடர்த்தியான நில அதிர்வுப் பதிவு வலையமைப்பு இருந்தும் இந்தோனேசியாவில் மொத்தத்தில் அதிக நிலநடுக்கங்கள் நிகழ்வதாகக் கூறப்படுகிறது. காரணம், இந்தோனேசியா",
         "options": [
-          "ஜப்பானை விடப் பெரியது; மிகச் செயல்பாடுள்ள நில அதிர்வு மண்டலத்திலும் உள்ளது",
+          "ஜப்பானை விட அதிக நில அதிர்வு அளவிகளைக் கொண்டது",
           "நில அதிர்வு மண்டலத்தில் இல்லை",
           "நிலையான தட்டில் உள்ளது",
-          "ஜப்பானை விட அதிக நில அதிர்வு அளவிகளைக் கொண்டது"
+          "ஜப்பானை விடப் பெரியது; மிகச் செயல்பாடுள்ள நில அதிர்வு மண்டலத்திலும் உள்ளது"
         ],
         "explanation": "ஓரலகுப் பரப்பில் டோங்கா, ஃபிஜி, இந்தோனேசியாவில் அதிகம்."
       }
@@ -213,12 +213,12 @@
       "bloom": "remember",
       "page": 235,
       "quote": "II. 3. How many males and females die per day due to fire in India?",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "According to the textbook, about how many females and males die every day in India due to fire?",
         "options": [
-          "About 42 females and 21 males",
           "About 21 females and 42 males",
+          "About 42 females and 21 males",
           "About 25 females and 25 males",
           "About 66 females and 34 males"
         ],
@@ -227,8 +227,8 @@
       "ta": {
         "q": "நூலின்படி இந்தியாவில் தீ விபத்தால் நாளொன்றுக்கு ஏறத்தாழ எத்தனை பெண்கள், ஆண்கள் இறக்கின்றனர்?",
         "options": [
-          "ஏறத்தாழ 42 பெண்கள், 21 ஆண்கள்",
           "ஏறத்தாழ 21 பெண்கள், 42 ஆண்கள்",
+          "ஏறத்தாழ 42 பெண்கள், 21 ஆண்கள்",
           "ஏறத்தாழ 25 பெண்கள், 25 ஆண்கள்",
           "ஏறத்தாழ 66 பெண்கள், 34 ஆண்கள்"
         ],

@@ -10,12 +10,12 @@
       "bloom": "understand",
       "page": 234,
       "quote": "Melatonin ... Exposure to light at night, especially short-wavelength light, can decrease melatonin production interrupting sleep.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Exposure to light at night, especially short-wavelength light, can",
         "options": [
-          "decrease melatonin production and interrupt sleep",
           "increase melatonin and induce sleep",
+          "decrease melatonin production and interrupt sleep",
           "stop thyroxine secretion",
           "raise insulin level"
         ],
@@ -24,8 +24,8 @@
       "ta": {
         "q": "இரவில் ஒளியில் இருப்பது, குறிப்பாகக் குறுகிய அலைநீள ஒளி,",
         "options": [
-          "மெலட்டோனின் உற்பத்தியைக் குறைத்து உறக்கத்தைத் தடை செய்யும்",
           "மெலட்டோனினை அதிகரித்து உறக்கத்தைத் தூண்டும்",
+          "மெலட்டோனின் உற்பத்தியைக் குறைத்து உறக்கத்தைத் தடை செய்யும்",
           "தைராக்சின் சுரப்பை நிறுத்தும்",
           "இன்சுலின் அளவை உயர்த்தும்"
         ],
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 236,
       "quote": "Charles Harrington and George Barger identified the molecular structure of thyroxine in 1927.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Who identified the molecular structure of thyroxine in 1927?",
         "options": [
-          "Edward C. Kendall",
-          "Banting and Best",
           "Charles Harrington and George Barger",
+          "Banting and Best",
+          "Edward C. Kendall",
           "Landsteiner and Wiener"
         ],
         "explanation": "Kendall first crystallised thyroxine in 1914; Harrington and Barger worked out its structure in 1927."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "1927-ல் தைராக்சினின் மூலக்கூறு அமைப்பைக் கண்டறிந்தவர்கள்",
         "options": [
-          "எட்வர்டு சி. கெண்டால்",
-          "பான்டிங், பெஸ்ட்",
           "சார்லஸ் ஹாரிங்டன், ஜார்ஜ் பார்கர்",
+          "பான்டிங், பெஸ்ட்",
+          "எட்வர்டு சி. கெண்டால்",
           "லேண்ட்ஸ்டெய்னர், வீனர்"
         ],
         "explanation": "கெண்டால் 1914-ல் தைராக்சினைப் படிகமாக்கினார்; ஹாரிங்டனும் பார்கரும் 1927-ல் அதன் அமைப்பைக் கண்டறிந்தனர்."
@@ -126,24 +126,24 @@
       "bloom": "understand",
       "page": 237,
       "quote": "The adrenal cortex consists of three layers of cells. They are zona glomerulosa, zona fasciculata and zona reticularis",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which of the following is NOT a layer of the adrenal cortex?",
         "options": [
-          "Zona glomerulosa",
+          "Zona medullaris",
           "Zona fasciculata",
           "Zona reticularis",
-          "Zona medullaris"
+          "Zona glomerulosa"
         ],
         "explanation": "The adrenal cortex has three layers: zona glomerulosa, zona fasciculata and zona reticularis; the medulla is a separate inner part."
       },
       "ta": {
         "q": "அட்ரீனல் கார்டெக்ஸின் அடுக்கு அல்லாதது எது?",
         "options": [
-          "சோனா குளோமருலோசா",
+          "சோனா மெடுல்லாரிஸ்",
           "சோனா ஃபாசிகுலேட்டா",
           "சோனா ரெட்டிகுலாரிஸ்",
-          "சோனா மெடுல்லாரிஸ்"
+          "சோனா குளோமருலோசா"
         ],
         "explanation": "அட்ரீனல் கார்டெக்ஸ் குளோமருலோசா, ஃபாசிகுலேட்டா, ரெட்டிகுலாரிஸ் எனும் மூன்று அடுக்குகளைக் கொண்டது."
       }
@@ -184,24 +184,24 @@
       "bloom": "remember",
       "page": 239,
       "quote": "Points to Remember: The parathormone act on bone, kidney and intestine to maintain blood calcium levels.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Parathormone maintains blood calcium level by acting on",
         "options": [
-          "bone, kidney and intestine",
+          "stomach, pancreas and gall bladder",
           "liver, spleen and lungs",
           "heart, brain and skin",
-          "stomach, pancreas and gall bladder"
+          "bone, kidney and intestine"
         ],
         "explanation": "Parathormone acts on bone, kidney and intestine to maintain blood calcium."
       },
       "ta": {
         "q": "இரத்தக் கால்சியம் அளவைப் பராமரிக்க பாராதார்மோன் செயல்படும் உறுப்புகள்",
         "options": [
-          "எலும்பு, சிறுநீரகம், குடல்",
+          "இரைப்பை, கணையம், பித்தப்பை",
           "கல்லீரல், மண்ணீரல், நுரையீரல்",
           "இதயம், மூளை, தோல்",
-          "இரைப்பை, கணையம், பித்தப்பை"
+          "எலும்பு, சிறுநீரகம், குடல்"
         ],
         "explanation": "பாராதார்மோன் எலும்பு, சிறுநீரகம், குடல் ஆகியவற்றில் செயல்பட்டு இரத்தக் கால்சியத்தைப் பராமரிக்கிறது."
       }
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 239,
       "quote": "Points to Remember: The hormones secreted by the thyroid gland are triiodothyronine (T3), and tetraiodothyronine or thyroxine (T4)",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Thyroxine is also known as",
         "options": [
           "triiodothyronine (T3)",
           "tetraiodoglucagon",
-          "diiodotyrosine",
-          "tetraiodothyronine (T4)"
+          "tetraiodothyronine (T4)",
+          "diiodotyrosine"
         ],
         "explanation": "The thyroid secretes T3 (triiodothyronine) and T4 (tetraiodothyronine = thyroxine)."
       },
@@ -229,8 +229,8 @@
         "options": [
           "ட்ரை அயோடோதைரோனின் (T3)",
           "டெட்ரா அயோடோ குளுக்கோகான்",
-          "டை அயோடோ டைரோசின்",
-          "டெட்ரா அயோடோதைரோனின் (T4)"
+          "டெட்ரா அயோடோதைரோனின் (T4)",
+          "டை அயோடோ டைரோசின்"
         ],
         "explanation": "தைராய்டு T3 (ட்ரை அயோடோதைரோனின்), T4 (டெட்ரா அயோடோதைரோனின் = தைராக்சின்) ஆகியவற்றைச் சுரக்கிறது."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 238,
       "quote": "Points to Remember: Auxins are produced at the tip of stems and roots from where they migrate to the zone of elongation.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Auxins are produced at the tips of stems and roots and then migrate to the",
         "options": [
           "root cap",
-          "zone of elongation",
+          "flower",
           "stomata",
-          "flower"
+          "zone of elongation"
         ],
         "explanation": "Auxins are made at the tips of stems and roots and move to the zone of elongation."
       },
@@ -257,9 +257,9 @@
         "q": "ஆக்சின்கள் தண்டு, வேர் நுனிகளில் உற்பத்தியாகி எங்கு இடம்பெயர்கின்றன?",
         "options": [
           "வேர்மூடி",
-          "நீட்சி மண்டலம்",
+          "மலர்",
           "இலைத்துளைகள்",
-          "மலர்"
+          "நீட்சி மண்டலம்"
         ],
         "explanation": "ஆக்சின்கள் தண்டு, வேர் நுனிகளில் உற்பத்தியாகி நீட்சி மண்டலத்திற்கு இடம்பெயர்கின்றன."
       }

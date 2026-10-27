@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 33,
       "quote": "The spherical mirror with a reflecting surface curved inward is called a) convex mirror b) concave mirror c) curved mirror d) None",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "A spherical mirror whose reflecting surface is curved inward is called a ______.",
         "options": [
-          "convex mirror",
-          "plane mirror",
           "concave mirror",
+          "plane mirror",
+          "convex mirror",
           "parabolic mirror"
         ],
         "explanation": "A spherical mirror reflecting from its concave (inward-curved) surface is a concave mirror."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "உட்புறமாக எதிரொளிக்கும் பரப்பை உடைய வளைவு ஆடி ______ எனப்படும்.",
         "options": [
-          "குவி ஆடி",
-          "சமதள ஆடி",
           "குழி ஆடி",
+          "சமதள ஆடி",
+          "குவி ஆடி",
           "பரவளைய ஆடி"
         ],
         "explanation": "உட்புறம் வளைந்த பரப்பில் எதிரொளிப்பு நிகழும் கோளக ஆடி குழி ஆடி."
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 33,
       "quote": "The imaginary line passing through the centre of curvature and pole of a spherical mirror is called",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The imaginary line passing through the centre of curvature and the pole of a spherical mirror is called the ______.",
         "options": [
           "radius of curvature",
-          "principal axis",
           "focal length",
+          "principal axis",
           "normal"
         ],
         "explanation": "The line joining the pole and the centre of curvature is the principal axis."
@@ -112,8 +112,8 @@
         "q": "ஒரு கோளக ஆடியின் வளைவு மையத்தையும் ஆடி மையத்தையும் இணைக்கும் கற்பனைக் கோடு ______ எனப்படும்.",
         "options": [
           "வளைவு ஆரம்",
-          "முதன்மை அச்சு",
           "குவிய தொலைவு",
+          "முதன்மை அச்சு",
           "குத்துக்கோடு"
         ],
         "explanation": "ஆடி மையத்தையும் வளைவு மையத்தையும் இணைக்கும் கோடு முதன்மை அச்சு."
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 33,
       "quote": "If the image and object distance is same, then the object is placed at a) infinity b) at F c) between F and P d) at C",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "If the object distance and the image distance from a concave mirror are the same, the object is placed ______.",
         "options": [
-          "at infinity",
-          "at F",
           "at C (centre of curvature)",
+          "at F",
+          "at infinity",
           "between F and P"
         ],
         "explanation": "When the object is at C, the image is formed at C, real, inverted and of the same size."
@@ -169,9 +169,9 @@
       "ta": {
         "q": "பொருளின் தொலைவும் பிம்பத்தின் தொலைவும் சமமாக இருந்தால், பொருள் வைக்கப்பட்டுள்ள இடம் ______.",
         "options": [
-          "ஈறிலாத் தொலைவில்",
-          "F-ல்",
           "C-ல் (வளைவு மையத்தில்)",
+          "F-ல்",
+          "ஈறிலாத் தொலைவில்",
           "F-க்கும் P-க்கும் இடையில்"
         ],
         "explanation": "பொருள் C-ல் இருக்கும்போது பிம்பமும் C-ல் உருவாகும்; அது மெய், தலைகீழ், சம அளவு."
@@ -184,13 +184,13 @@
       "bloom": "apply",
       "page": 33,
       "quote": "If the focal length of a spherical mirror is 10 cm, what is the value of its radius of curvature? a) 10 cm b) 5 cm c) 20 cm d) 15 cm",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "If the focal length of a spherical mirror is 10 cm, its radius of curvature is ______.",
         "options": [
           "10 cm",
-          "20 cm",
           "5 cm",
+          "20 cm",
           "15 cm"
         ],
         "explanation": "Radius of curvature = 2 × focal length = 20 cm."
@@ -199,8 +199,8 @@
         "q": "ஒரு கோளக ஆடியின் குவிய தொலைவு 10 செ.மீ எனில், அதன் வளைவு ஆரம் ______.",
         "options": [
           "10 செ.மீ",
-          "20 செ.மீ",
           "5 செ.மீ",
+          "20 செ.மீ",
           "15 செ.மீ"
         ],
         "explanation": "வளைவு ஆரம் = 2 × குவிய தொலைவு = 20 செ.மீ."
@@ -213,12 +213,12 @@
       "bloom": "remember",
       "page": 33,
       "quote": "The spherical mirror used in a beauty parlour as make-up mirror is ___________.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The spherical mirror used as a make-up mirror in a beauty parlour is the ______.",
         "options": [
-          "concave mirror",
           "convex mirror",
+          "concave mirror",
           "plane mirror",
           "cylindrical mirror"
         ],
@@ -227,8 +227,8 @@
       "ta": {
         "q": "அழகு நிலையங்களில் அலங்காரம் செய்யப் பயன்படுத்தப்படும் கோளக ஆடி ______.",
         "options": [
-          "குழி ஆடி",
           "குவி ஆடி",
+          "குழி ஆடி",
           "சமதள ஆடி",
           "உருளை ஆடி"
         ],
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 33,
       "quote": "Geometric centre of the spherical mirror is ___________.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The geometric centre of a spherical mirror is called its ______.",
         "options": [
           "focus",
-          "centre of curvature",
+          "pole",
           "principal axis",
-          "pole"
+          "centre of curvature"
         ],
         "explanation": "The pole (P) is the geometric centre of the mirror's surface."
       },
@@ -257,9 +257,9 @@
         "q": "கோளக ஆடியின் வடிவியல் மையம் ______ எனப்படும்.",
         "options": [
           "குவியம்",
-          "வளைவு மையம்",
+          "ஆடி மையம் (முனை)",
           "முதன்மை அச்சு",
-          "ஆடி மையம் (முனை)"
+          "வளைவு மையம்"
         ],
         "explanation": "ஆடியின் வடிவியல் மையம் P எனக் குறிக்கப்படும் ஆடி மையம் ஆகும்."
       }
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 33,
       "quote": "The mirror used by the ophthalmologist to examine the eye is ___________.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The mirror used by an ophthalmologist to examine the eye is a ______.",
         "options": [
-          "convex mirror",
-          "plane mirror",
           "concave mirror",
+          "plane mirror",
+          "convex mirror",
           "parabolic mirror"
         ],
         "explanation": "Concave mirrors are used as head mirrors by doctors to examine the eye, ear, nose and throat."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "கண் மருத்துவர் கண்களைப் பரிசோதிக்கப் பயன்படுத்தும் ஆடி ______.",
         "options": [
-          "குவி ஆடி",
-          "சமதள ஆடி",
           "குழி ஆடி",
+          "சமதள ஆடி",
+          "குவி ஆடி",
           "பரவளைய ஆடி"
         ],
         "explanation": "மருத்துவர்கள் கண், காது, மூக்கு, தொண்டையைப் பரிசோதிக்கக் குழி ஆடியைத் தலை ஆடியாகப் பயன்படுத்துகின்றனர்."
@@ -329,13 +329,13 @@
       "bloom": "apply",
       "page": 33,
       "quote": "If the angle of incidence is 45°, then the angle of reflection is ________.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "If the angle of incidence is 45°, the angle of reflection is ______.",
         "options": [
-          "45°",
-          "90°",
           "30°",
+          "90°",
+          "45°",
           "22.5°"
         ],
         "explanation": "By the law of reflection the angle of incidence equals the angle of reflection."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "படுகோணத்தின் மதிப்பு 45° எனில் எதிரொளிப்புக் கோணத்தின் மதிப்பு ______.",
         "options": [
-          "45°",
-          "90°",
           "30°",
+          "90°",
+          "45°",
           "22.5°"
         ],
         "explanation": "எதிரொளிப்பு விதிப்படி படுகோணமும் எதிரொளிப்புக் கோணமும் சமம்."
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 33,
       "quote": "If an object is placed between two mirrors which are parallel to each other, the number of images formed is __________.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "If an object is placed between two parallel plane mirrors, the number of images formed is ______.",
         "options": [
           "two",
-          "infinite",
+          "zero",
           "three",
-          "zero"
+          "infinite"
         ],
         "explanation": "Number of images = 360°/θ - 1; for parallel mirrors the number becomes infinite."
       },
@@ -373,9 +373,9 @@
         "q": "இணையாக உள்ள இரு சமதள ஆடிகளுக்கிடையே ஒரு பொருளை வைத்தால் உருவாகும் பிம்பங்களின் எண்ணிக்கை ______.",
         "options": [
           "இரண்டு",
-          "முடிவிலி (எண்ணிலடங்கா)",
+          "சுழி",
           "மூன்று",
-          "சுழி"
+          "முடிவிலி (எண்ணிலடங்கா)"
         ],
         "explanation": "இணை ஆடிகளுக்கிடையே பிம்பங்களின் எண்ணிக்கை முடிவில்லாதது."
       }
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 33,
       "quote": "Match the following: Convex mirror, Parabolic mirror, Snell's law, Dispersion of light",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Match List I with List II:\na) Convex mirror\nb) Parabolic mirror\nc) Snell's law\nd) Dispersion of light\n1. Rainbow\n2. sin i / sin r = μ\n3. Rear-view mirror\n4. Radio telescopes",
         "options": [
           "a-3, b-2, c-1, d-4",
-          "a-1, b-3, c-4, d-2",
+          "a-3, b-4, c-2, d-1",
           "a-4, b-2, c-1, d-3",
-          "a-3, b-4, c-2, d-1"
+          "a-1, b-3, c-4, d-2"
         ],
         "explanation": "Convex mirror – Rear-view mirror; Parabolic mirror – Radio telescopes; Snell's law – sin i / sin r = μ; Dispersion of light – Rainbow."
       },
@@ -402,9 +402,9 @@
         "q": "பட்டியல் I-ஐப் பட்டியல் II-உடன் பொருத்துக:\na) குவி ஆடி\nb) பரவளைய ஆடி\nc) ஸ்நெல் விதி\nd) நிறப்பிரிகை\n1. வானவில்\n2. sin i / sin r = μ\n3. பின்னோக்குப் பார்வை ஆடி\n4. ரேடியோ தொலைநோக்கிகள்",
         "options": [
           "a-3, b-2, c-1, d-4",
-          "a-1, b-3, c-4, d-2",
+          "a-3, b-4, c-2, d-1",
           "a-4, b-2, c-1, d-3",
-          "a-3, b-4, c-2, d-1"
+          "a-1, b-3, c-4, d-2"
         ],
         "explanation": "குவி ஆடி – பின்னோக்குப் பார்வை ஆடி; பரவளைய ஆடி – ரேடியோ தொலைநோக்கிகள்; ஸ்நெல் விதி – sin i / sin r = μ; நிறப்பிரிகை – வானவில்."
       }
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 34,
       "quote": "Give any two applications of a concave and convex mirror.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which pair correctly gives one use each of a concave mirror and a convex mirror?",
         "options": [
           "Rear-view mirror of vehicles and shaving mirror",
-          "Periscope and kaleidoscope",
           "Shaving mirror and rear-view mirror of vehicles",
+          "Periscope and kaleidoscope",
           "Solar cooker and make-up mirror"
         ],
         "explanation": "Concave mirrors: make-up/shaving mirrors, torches, solar cookers; convex mirrors: rear-view mirrors, hallway mirrors."
@@ -460,8 +460,8 @@
         "q": "குழி ஆடி, குவி ஆடி ஆகியவற்றின் ஒவ்வொரு பயன்பாட்டையும் சரியாகத் தரும் இணை எது?",
         "options": [
           "வாகனங்களின் பின்காட்சி ஆடி மற்றும் ஷேவிங் ஆடி",
-          "பெரிஸ்கோப் மற்றும் கலைடாஸ்கோப்",
           "ஷேவிங் ஆடி மற்றும் வாகனங்களின் பின்காட்சி ஆடி",
+          "பெரிஸ்கோப் மற்றும் கலைடாஸ்கோப்",
           "சூரிய அடுப்பு மற்றும் அழகு ஆடி"
         ],
         "explanation": "குழி ஆடி: அலங்கார/ஷேவிங் ஆடி, டார்ச், சூரிய அடுப்பு; குவி ஆடி: பின்காட்சி ஆடி, நடைபாதை ஆடிகள்."
@@ -474,12 +474,12 @@
       "bloom": "remember",
       "page": 34,
       "quote": "State the laws of reflection.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which of the following is a law of reflection?",
         "options": [
-          "The angle of incidence and the angle of reflection are always equal.",
           "The angle of incidence is always greater than the angle of reflection.",
+          "The angle of incidence and the angle of reflection are always equal.",
           "The incident ray and the reflected ray lie in different planes.",
           "The reflected ray is always perpendicular to the incident ray."
         ],
@@ -488,8 +488,8 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் எதிரொளிப்பு விதி எது?",
         "options": [
-          "படுகோணமும் எதிரொளிப்புக் கோணமும் எப்போதும் சமம்.",
           "படுகோணம் எப்போதும் எதிரொளிப்புக் கோணத்தைவிட அதிகம்.",
+          "படுகோணமும் எதிரொளிப்புக் கோணமும் எப்போதும் சமம்.",
           "படுகதிரும் எதிரொளிப்புக் கதிரும் வெவ்வேறு தளங்களில் அமையும்.",
           "எதிரொளிப்புக் கதிர் எப்போதும் படுகதிருக்குச் செங்குத்தாக இருக்கும்."
         ],
@@ -590,14 +590,14 @@
       "bloom": "apply",
       "page": 34,
       "quote": "Speed of light in air is 3 × 10^8 m s-1 and the refractive index of a medium is 1.5. Find the speed of light in the medium.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The speed of light in air is 3 × 10⁸ m s⁻¹ and the refractive index of a medium is 1.5. The speed of light in the medium is ______.",
         "options": [
           "4.5 × 10⁸ m s⁻¹",
-          "2 × 10⁸ m s⁻¹",
+          "3 × 10⁸ m s⁻¹",
           "1.5 × 10⁸ m s⁻¹",
-          "3 × 10⁸ m s⁻¹"
+          "2 × 10⁸ m s⁻¹"
         ],
         "explanation": "v = c/μ = 3 × 10⁸ / 1.5 = 2 × 10⁸ m s⁻¹."
       },
@@ -605,9 +605,9 @@
         "q": "காற்றில் ஒளியின் திசைவேகம் 3 × 10⁸ மீவி⁻¹; ஓர் ஊடகத்தின் ஒளிவிலகல் எண் 1.5 எனில், ஊடகத்தில் ஒளியின் திசைவேகம் ______.",
         "options": [
           "4.5 × 10⁸ மீவி⁻¹",
-          "2 × 10⁸ மீவி⁻¹",
+          "3 × 10⁸ மீவி⁻¹",
           "1.5 × 10⁸ மீவி⁻¹",
-          "3 × 10⁸ மீவி⁻¹"
+          "2 × 10⁸ மீவி⁻¹"
         ],
         "explanation": "v = c/μ = 3 × 10⁸ / 1.5 = 2 × 10⁸ மீவி⁻¹."
       }

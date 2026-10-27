@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 9,
       "quote": "Electric current is a ______quantity a) base b) supplementary c) derived d) professional",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Electric current is a ______ quantity.",
         "options": [
           "supplementary",
-          "derived",
           "base",
+          "derived",
           "professional"
         ],
         "explanation": "Electric current (ampere) is one of the seven base quantities of the SI system."
@@ -54,8 +54,8 @@
         "q": "மின்னோட்டம் என்பது ______ அளவு ஆகும்.",
         "options": [
           "துணைநிலை",
-          "வழி",
           "அடிப்படை",
+          "வழி",
           "தொழில் சார்ந்த"
         ],
         "explanation": "மின்னோட்டம் (ஆம்பியர்) SI முறையின் ஏழு அடிப்படை அளவுகளுள் ஒன்று."
@@ -97,12 +97,12 @@
       "bloom": "remember",
       "page": 9,
       "quote": "Luminous intensity is the intensity of ______ a) laser light b) UV light c) visible light d) IR light",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Luminous intensity is the intensity of ______.",
         "options": [
-          "laser light",
           "visible light",
+          "laser light",
           "UV light",
           "IR light"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "ஒளிச்செறிவு என்பது ______ யின் ஒளிச்செறிவாகும்.",
         "options": [
-          "லேசர் ஒளி",
           "கண்ணுறு ஒளி",
+          "லேசர் ஒளி",
           "புறஊதாக் கதிரின் ஒளி",
           "அகச்சிவப்புக் கதிரின் ஒளி"
         ],
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 9,
       "quote": "Closeness of two or more measured values is called as ______ a) accuracy b) precision c) error d) approximation",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The closeness of two or more measured values to each other is called ______.",
         "options": [
           "accuracy",
-          "error",
+          "precision",
           "approximation",
-          "precision"
+          "error"
         ],
         "explanation": "Precision is the closeness of two or more measurements to each other; accuracy is closeness to the true value."
       },
@@ -141,9 +141,9 @@
         "q": "இரண்டு அல்லது அதற்கு மேற்பட்ட அளவீட்டு மதிப்புகள் ஒன்றுக்கொன்று நெருங்கி இருப்பது ______ எனப்படும்.",
         "options": [
           "துல்லியம்",
-          "பிழை",
+          "நுட்பம்",
           "தோராயம்",
-          "நுட்பம்"
+          "பிழை"
         ],
         "explanation": "இரண்டு அல்லது அதற்கு மேற்பட்ட அளவீடுகள் ஒன்றுக்கொன்று நெருங்கியிருப்பது நுட்பம்; உண்மை மதிப்புக்கு நெருக்கம் துல்லியம்."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 9,
       "quote": "Which one of the following statement is wrong? a) Approximation gives accurate value.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which one of the following statements is wrong?",
         "options": [
           "Approximation simplifies the calculation.",
-          "Approximation is very useful when little information is available.",
           "Approximation gives the accurate value.",
+          "Approximation is very useful when little information is available.",
           "Approximation gives the nearest value only."
         ],
         "explanation": "Approximation gives only a value acceptably close to the exact value, not the accurate value."
@@ -170,8 +170,8 @@
         "q": "பின்வரும் கூற்றுகளுள் எது தவறானது?",
         "options": [
           "தோராயம் என்பது கணக்கிடுதலை எளிமையாக்குகிறது.",
-          "தோராயம் குறைவான தகவல்கள் மட்டுமே உள்ளபோது பயனுள்ளதாக அமைகிறது.",
           "தோராயம் என்பது துல்லியமான மதிப்பைத் தரும்.",
+          "தோராயம் குறைவான தகவல்கள் மட்டுமே உள்ளபோது பயனுள்ளதாக அமைகிறது.",
           "தோராயம் என்பது உண்மையான மதிப்புக்கு நெருக்கமான மதிப்பையே தருகிறது."
         ],
         "explanation": "தோராயம் உண்மை மதிப்புக்கு நெருக்கமான மதிப்பையே தரும்; துல்லியமான மதிப்பைத் தராது."
@@ -184,13 +184,13 @@
       "bloom": "remember",
       "page": 9,
       "quote": "The solid angle is measured in _______.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The solid angle is measured in ______.",
         "options": [
           "radian",
-          "steradian",
           "degree only",
+          "steradian",
           "candela"
         ],
         "explanation": "The SI unit of solid angle is steradian (sr)."
@@ -199,8 +199,8 @@
         "q": "திண்மக்கோணம் ______ என்ற அலகால் அளக்கப்படுகிறது.",
         "options": [
           "ரேடியன்",
-          "ஸ்ட்ரேடியன்",
           "டிகிரி மட்டும்",
+          "ஸ்ட்ரேடியன்",
           "கேண்டிலா"
         ],
         "explanation": "திண்மக்கோணத்தின் SI அலகு ஸ்ட்ரேடியன் (sr)."
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 9,
       "quote": "The coldness or hotness of a substance is expressed by _______.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The degree of hotness or coldness of a substance is expressed by its ______.",
         "options": [
-          "temperature",
-          "electric current",
           "luminous intensity",
+          "electric current",
+          "temperature",
           "amount of substance"
         ],
         "explanation": "Temperature expresses the degree of hotness or coldness of a substance."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "ஒரு பொருளின் குளிர்ச்சி அல்லது வெப்பத்தின் அளவானது ______ எனக் குறிப்பிடப்படுகிறது.",
         "options": [
-          "வெப்பநிலை",
-          "மின்னோட்டம்",
           "ஒளிச்செறிவு",
+          "மின்னோட்டம்",
+          "வெப்பநிலை",
           "பொருளின் அளவு"
         ],
         "explanation": "பொருளின் வெப்பம் அல்லது குளிர்ச்சியின் அளவு வெப்பநிலை ஆகும்."
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 9,
       "quote": "_______ is used to measure electric current.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The instrument used to measure electric current is the ______.",
         "options": [
           "thermometer",
-          "photometer",
+          "ammeter",
           "voltmeter",
-          "ammeter"
+          "photometer"
         ],
         "explanation": "An ammeter measures electric current directly."
       },
@@ -257,9 +257,9 @@
         "q": "மின்னோட்டத்தை அளவிடப் பயன்படும் கருவி ______ ஆகும்.",
         "options": [
           "வெப்பநிலைமானி",
-          "ஒளிமானி",
+          "அம்மீட்டர்",
           "வோல்ட்மீட்டர்",
-          "அம்மீட்டர்"
+          "ஒளிமானி"
         ],
         "explanation": "மின்னோட்டத்தை அளவிடும் கருவி அம்மீட்டர் ஆகும்."
       }
@@ -329,12 +329,12 @@
       "bloom": "remember",
       "page": 9,
       "quote": "The closeness of the measured value to the original value is _______.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The closeness of a measured value to the original (true) value is ______.",
         "options": [
-          "accuracy",
           "precision",
+          "accuracy",
           "error",
           "approximation"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "அளவிடப்பட்ட மதிப்பு உண்மை மதிப்புடன் நெருங்கி இருப்பது ______ எனப்படும்.",
         "options": [
-          "துல்லியம்",
           "நுட்பம்",
+          "துல்லியம்",
           "பிழை",
           "தோராயம்"
         ],
@@ -358,12 +358,12 @@
       "bloom": "remember",
       "page": 9,
       "quote": "The intersection of two straight lines gives us _______.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The intersection of two straight lines gives us a ______.",
         "options": [
-          "solid angle",
           "plane angle",
+          "solid angle",
           "steradian",
           "photometer"
         ],
@@ -372,8 +372,8 @@
       "ta": {
         "q": "இரண்டு நேர்க்கோடுகளின் குறுக்கீட்டினால் ______ உருவாகிறது.",
         "options": [
-          "திண்மக்கோணம்",
           "தளக்கோணம்",
+          "திண்மக்கோணம்",
           "ஸ்ட்ரேடியன்",
           "ஒளிமானி"
         ],
@@ -387,24 +387,24 @@
       "bloom": "remember",
       "page": 9,
       "quote": "If one coulomb of charge is flowing in one minute, it is called ‘ampere’.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which statement correctly defines one ampere?",
         "options": [
-          "One coulomb of charge flowing through a conductor in one second.",
+          "One joule of energy flowing through a conductor in one second.",
           "One coulomb of charge flowing through a conductor in one minute.",
           "One coulomb of charge flowing through a conductor in one hour.",
-          "One joule of energy flowing through a conductor in one second."
+          "One coulomb of charge flowing through a conductor in one second."
         ],
         "explanation": "One ampere is one coulomb of charge flowing through a conductor in one second."
       },
       "ta": {
         "q": "ஒரு ஆம்பியரைச் சரியாக வரையறுக்கும் கூற்று எது?",
         "options": [
-          "ஒரு கடத்தியின் வழியே ஒரு கூலும் மின்னூட்டம் ஒரு நொடியில் பாய்வது.",
+          "ஒரு கடத்தியின் வழியே ஒரு ஜூல் ஆற்றல் ஒரு நொடியில் பாய்வது.",
           "ஒரு கடத்தியின் வழியே ஒரு கூலும் மின்னூட்டம் ஒரு நிமிடத்தில் பாய்வது.",
           "ஒரு கடத்தியின் வழியே ஒரு கூலும் மின்னூட்டம் ஒரு மணி நேரத்தில் பாய்வது.",
-          "ஒரு கடத்தியின் வழியே ஒரு ஜூல் ஆற்றல் ஒரு நொடியில் பாய்வது."
+          "ஒரு கடத்தியின் வழியே ஒரு கூலும் மின்னூட்டம் ஒரு நொடியில் பாய்வது."
         ],
         "explanation": "ஒரு கடத்தியின் வழியே ஒரு நொடியில் ஒரு கூலும் மின்னூட்டம் பாய்வது ஒரு ஆம்பியர்."
       }
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 9,
       "quote": "Amount of substance gives the number of particles present in a substance.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which of the following is true about 'amount of substance'?",
         "options": [
           "It gives the hotness of a substance.",
-          "It gives the brightness of a source.",
           "It gives the number of particles (entities) present in a substance.",
+          "It gives the brightness of a source.",
           "It gives the rate of flow of charge."
         ],
         "explanation": "The statement is true: amount of substance measures the number of entities in a substance and its unit is mole."
@@ -431,8 +431,8 @@
         "q": "'பொருளின் அளவு' பற்றிய சரியான கூற்று எது?",
         "options": [
           "ஒரு பொருளின் வெப்பத்தைத் தருகிறது.",
-          "ஒரு மூலத்தின் ஒளிர்வைத் தருகிறது.",
           "ஒரு பொருளிலுள்ள துகள்களின் எண்ணிக்கையைத் தருகிறது.",
+          "ஒரு மூலத்தின் ஒளிர்வைத் தருகிறது.",
           "மின்னூட்டம் பாயும் வீதத்தைத் தருகிறது."
         ],
         "explanation": "இக்கூற்று சரி; பொருளின் அளவு துகள்களின் எண்ணிக்கையைக் குறிக்கும்; அலகு மோல்."
@@ -445,24 +445,24 @@
       "bloom": "remember",
       "page": 9,
       "quote": "Intensity of light coming from a candle is approximately equal to one ‘candela’.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The light emitted from a common wax candle is approximately equal to ______.",
         "options": [
-          "one candela",
+          "one ampere",
           "one lumen",
           "one kelvin",
-          "one ampere"
+          "one candela"
         ],
         "explanation": "The statement is true: a wax candle gives about one candela of luminous intensity."
       },
       "ta": {
         "q": "ஒரு சாதாரண மெழுகுவர்த்தியிலிருந்து வெளியாகும் ஒளிச்செறிவு தோராயமாக ______ ஆகும்.",
         "options": [
-          "ஒரு கேண்டிலா",
+          "ஒரு ஆம்பியர்",
           "ஒரு லூமென்",
           "ஒரு கெல்வின்",
-          "ஒரு ஆம்பியர்"
+          "ஒரு கேண்டிலா"
         ],
         "explanation": "இக்கூற்று சரி; ஒரு மெழுகுவர்த்தியின் ஒளிச்செறிவு ஏறக்குறைய ஒரு கேண்டிலா."
       }
@@ -474,13 +474,13 @@
       "bloom": "remember",
       "page": 10,
       "quote": "Angle formed at the top of a cone is an example for ‘plane angle’.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The angle formed at the vertex (top) of a cone is an example of a ______.",
         "options": [
           "plane angle",
-          "right angle",
           "solid angle",
+          "right angle",
           "supplementary angle"
         ],
         "explanation": "The angle formed at the vertex of a cone is a solid angle."
@@ -489,8 +489,8 @@
         "q": "ஒரு கூம்பின் உச்சியில் உருவாகும் கோணம் ______ க்கு எடுத்துக்காட்டாகும்.",
         "options": [
           "தளக்கோணம்",
-          "செங்கோணம்",
           "திண்மக்கோணம்",
+          "செங்கோணம்",
           "துணைக்கோணம்"
         ],
         "explanation": "கூம்பின் உச்சியில் உருவாவது திண்மக்கோணம்."
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 10,
       "quote": "The number 4.582 can be rounded off as 4.58.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "When 4.582 is rounded off to two decimal places, the result is ______.",
         "options": [
           "4.59",
-          "4.60",
+          "4.58",
           "4.5",
-          "4.58"
+          "4.60"
         ],
         "explanation": "The next digit (2) is less than 5, so the last kept digit stays the same: 4.58. The book's statement is true."
       },
@@ -518,9 +518,9 @@
         "q": "4.582 என்ற எண்ணை இரண்டு தசம இடங்களுக்கு முழுமையாக்கினால் கிடைப்பது ______.",
         "options": [
           "4.59",
-          "4.60",
+          "4.58",
           "4.5",
-          "4.58"
+          "4.60"
         ],
         "explanation": "அடுத்த இலக்கம் (2) 5-ஐவிடக் குறைவு; எனவே 4.58. நூலில் உள்ள கூற்று சரி."
       }
@@ -532,24 +532,24 @@
       "bloom": "remember",
       "page": 10,
       "quote": "Match the following: Temperature, Plane angle, Solid angle, Precision",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Match the quantity with its meaning:\na) Temperature\nb) Plane angle\nc) Solid angle\nd) Precision\n1. Angle formed by the intersection of three or more planes\n2. Closeness of two or more measurements\n3. Angle formed by the intersection of two planes\n4. Measure of hotness or coldness",
         "options": [
-          "a-4, b-3, c-1, d-2",
+          "a-1, b-2, c-4, d-3",
           "a-3, b-2, c-1, d-4",
           "a-3, b-2, c-4, d-1",
-          "a-1, b-2, c-4, d-3"
+          "a-4, b-3, c-1, d-2"
         ],
         "explanation": "Temperature – Measure of hotness or coldness; Plane angle – Angle formed by the intersection of two planes; Solid angle – Angle formed by the intersection of three or more planes; Precision – Closeness of two or more measurements."
       },
       "ta": {
         "q": "பொருத்துக:\na) வெப்பநிலை\nb) தளக்கோணம்\nc) திண்மக்கோணம்\nd) நுட்பம்\n1. மூன்று அல்லது அதற்கு மேற்பட்ட தளங்களின் வெட்டினால் உருவாகும் கோணம்\n2. இரண்டு அல்லது அதற்கு மேற்பட்ட அளவீடுகளின் நெருக்கம்\n3. இரு தளங்களின் வெட்டினால் உருவாகும் கோணம்\n4. வெப்பம் அல்லது குளிர்ச்சியின் அளவு",
         "options": [
-          "a-4, b-3, c-1, d-2",
+          "a-1, b-2, c-4, d-3",
           "a-3, b-2, c-1, d-4",
           "a-3, b-2, c-4, d-1",
-          "a-1, b-2, c-4, d-3"
+          "a-4, b-3, c-1, d-2"
         ],
         "explanation": "வெப்பநிலை – வெப்பம் அல்லது குளிர்ச்சியின் அளவு; தளக்கோணம் – இரு தளங்களின் வெட்டினால் உருவாகும் கோணம்; திண்மக்கோணம் – மூன்று அல்லது அதற்கு மேற்பட்ட தளங்களின் வெட்டினால் உருவாகும் கோணம்; நுட்பம் – இரண்டு அல்லது அதற்கு மேற்பட்ட அளவீடுகளின் நெருக்கம்."
       }
@@ -648,14 +648,14 @@
       "bloom": "remember",
       "page": 10,
       "quote": "How many base quantities are included in SI system?",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "How many base quantities are included in the SI system?",
         "options": [
           "Five",
-          "Seven",
+          "Nine",
           "Six",
-          "Nine"
+          "Seven"
         ],
         "explanation": "The SI system has seven base quantities: length, mass, time, temperature, electric current, amount of substance and luminous intensity."
       },
@@ -663,9 +663,9 @@
         "q": "SI அலகு முறையில் எத்தனை அடிப்படை அளவுகள் உள்ளன?",
         "options": [
           "ஐந்து",
-          "ஏழு",
+          "ஒன்பது",
           "ஆறு",
-          "ஒன்பது"
+          "ஏழு"
         ],
         "explanation": "நீளம், நிறை, காலம், வெப்பநிலை, மின்னோட்டம், பொருளின் அளவு, ஒளிச்செறிவு ஆகிய ஏழு அடிப்படை அளவுகள் உள்ளன."
       }
@@ -706,14 +706,14 @@
       "bloom": "remember",
       "page": 10,
       "quote": "What is the SI unit of luminous intensity?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "What is the SI unit of luminous intensity?",
         "options": [
           "Lumen",
           "Mole",
-          "Steradian",
-          "Candela"
+          "Candela",
+          "Steradian"
         ],
         "explanation": "The SI unit of luminous intensity is the candela (cd)."
       },
@@ -722,8 +722,8 @@
         "options": [
           "லூமென்",
           "மோல்",
-          "ஸ்ட்ரேடியன்",
-          "கேண்டிலா"
+          "கேண்டிலா",
+          "ஸ்ட்ரேடியன்"
         ],
         "explanation": "ஒளிச்செறிவின் SI அலகு கேண்டிலா (cd)."
       }
@@ -764,14 +764,14 @@
       "bloom": "remember",
       "page": 10,
       "quote": "Mention the types of clocks based on their display.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Based on display, clocks are of which two types?",
         "options": [
           "Quartz and atomic",
           "Mechanical and solar",
-          "Analog and digital",
-          "Pendulum and spring"
+          "Pendulum and spring",
+          "Analog and digital"
         ],
         "explanation": "Based on display, clocks are analog or digital; based on mechanism they are quartz or atomic."
       },
@@ -780,8 +780,8 @@
         "options": [
           "குவார்ட்ஸ் மற்றும் அணு",
           "இயந்திர மற்றும் சூரியன்",
-          "அனலாக் மற்றும் டிஜிட்டல்",
-          "ஊசல் மற்றும் சுருள்வில்"
+          "ஊசல் மற்றும் சுருள்வில்",
+          "அனலாக் மற்றும் டிஜிட்டல்"
         ],
         "explanation": "காட்சியின் அடிப்படையில் அனலாக், டிஜிட்டல் என இருவகை; இயங்கும் முறையில் குவார்ட்ஸ், அணு என இருவகை."
       }
@@ -793,12 +793,12 @@
       "bloom": "remember",
       "page": 10,
       "quote": "How many times will the ‘minute hand’ rotate in one hour?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "How many times does the minute hand of a clock rotate in one hour?",
         "options": [
-          "Twice",
           "Once",
+          "Twice",
           "12 times",
           "60 times"
         ],
@@ -807,8 +807,8 @@
       "ta": {
         "q": "ஒரு மணி நேரத்தில் நிமிட முள் எத்தனை முறை சுழலும்?",
         "options": [
-          "இரு முறை",
           "ஒரு முறை",
+          "இரு முறை",
           "12 முறை",
           "60 முறை"
         ],
@@ -822,14 +822,14 @@
       "bloom": "remember",
       "page": 10,
       "quote": "What is measurement?",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Measurement is the process of ______.",
         "options": [
           "finding a number acceptably close to the exact value",
-          "finding the difference between real and observed value",
+          "finding an unknown physical quantity by using a standard quantity",
           "rounding off a number to the nearest place value",
-          "finding an unknown physical quantity by using a standard quantity"
+          "finding the difference between real and observed value"
         ],
         "explanation": "Measurement is the process of finding an unknown physical quantity by using a standard quantity."
       },
@@ -837,9 +837,9 @@
         "q": "அளவீடு என்பது ______ செயல்முறை.",
         "options": [
           "உண்மை மதிப்புக்கு நெருக்கமான எண்ணைக் கண்டறியும்",
-          "உண்மை மதிப்புக்கும் அளவிட்ட மதிப்புக்கும் உள்ள வேறுபாட்டைக் காணும்",
+          "ஒரு திட்ட அளவைப் பயன்படுத்தி அறியப்படாத இயற்பியல் அளவைக் கண்டறியும்",
           "ஓர் எண்ணை அருகிலுள்ள இட மதிப்புக்கு முழுமையாக்கும்",
-          "ஒரு திட்ட அளவைப் பயன்படுத்தி அறியப்படாத இயற்பியல் அளவைக் கண்டறியும்"
+          "உண்மை மதிப்புக்கும் அளவிட்ட மதிப்புக்கும் உள்ள வேறுபாட்டைக் காணும்"
         ],
         "explanation": "திட்ட அளவைக் கொண்டு அறியப்படாத இயற்பியல் அளவைக் கண்டறியும் செயல்முறை அளவீடு எனப்படும்."
       }
@@ -851,24 +851,24 @@
       "bloom": "remember",
       "page": 10,
       "quote": "Name the three scales of temperature.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which of the following are the three commonly used scales of temperature?",
         "options": [
-          "Celsius, Newton and Kelvin",
+          "Celsius, Fahrenheit and Kelvin",
           "Fahrenheit, Rankine and Ohm",
           "Kelvin, Candela and Celsius",
-          "Celsius, Fahrenheit and Kelvin"
+          "Celsius, Newton and Kelvin"
         ],
         "explanation": "Celsius, Fahrenheit and Kelvin are the most commonly used temperature scales."
       },
       "ta": {
         "q": "பொதுவாகப் பயன்படுத்தப்படும் மூன்று வெப்பநிலை அளவீடுகள் எவை?",
         "options": [
-          "செல்சியஸ், நியூட்டன், கெல்வின்",
+          "செல்சியஸ், ஃபாரன்ஹீட், கெல்வின்",
           "ஃபாரன்ஹீட், ராங்கின், ஓம்",
           "கெல்வின், கேண்டிலா, செல்சியஸ்",
-          "செல்சியஸ், ஃபாரன்ஹீட், கெல்வின்"
+          "செல்சியஸ், நியூட்டன், கெல்வின்"
         ],
         "explanation": "செல்சியஸ், ஃபாரன்ஹீட், கெல்வின் ஆகியவை மிகப் பொதுவான வெப்பநிலை அளவீடுகள்."
       }
@@ -880,13 +880,13 @@
       "bloom": "remember",
       "page": 10,
       "quote": "What is electric current?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Electric current is ______.",
         "options": [
           "the degree of hotness of a body",
-          "the flow of electric charges in a particular direction",
           "the closeness of measured values",
+          "the flow of electric charges in a particular direction",
           "the angle at the vertex of a cone"
         ],
         "explanation": "The flow of electric charges in a particular direction is electric current."
@@ -895,8 +895,8 @@
         "q": "மின்னோட்டம் என்பது ______.",
         "options": [
           "ஒரு பொருளின் வெப்பத்தின் அளவு",
-          "குறிப்பிட்ட திசையில் மின்னூட்டங்கள் பாய்வது",
           "அளவீடுகளின் நெருக்கம்",
+          "குறிப்பிட்ட திசையில் மின்னூட்டங்கள் பாய்வது",
           "கூம்பின் உச்சியிலுள்ள கோணம்"
         ],
         "explanation": "ஒரு குறிப்பிட்ட திசையில் மின்னூட்டங்கள் பாய்வது மின்னோட்டம் எனப்படும்."
@@ -938,24 +938,24 @@
       "bloom": "remember",
       "page": 10,
       "quote": "Define - Mole.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "One mole is the amount of substance that contains ______.",
         "options": [
-          "6.023 × 10¹⁰ entities",
+          "6.023 × 10²³ entities",
           "one million entities",
           "3 × 10⁸ entities",
-          "6.023 × 10²³ entities"
+          "6.023 × 10¹⁰ entities"
         ],
         "explanation": "A mole contains 6.023 × 10²³ entities (atoms, molecules, ions...)."
       },
       "ta": {
         "q": "ஒரு மோல் என்பது ______ கொண்ட பொருளின் அளவு.",
         "options": [
-          "6.023 × 10¹⁰ துகள்களைக்",
+          "6.023 × 10²³ துகள்களைக்",
           "பத்து லட்சம் துகள்களைக்",
           "3 × 10⁸ துகள்களைக்",
-          "6.023 × 10²³ துகள்களைக்"
+          "6.023 × 10¹⁰ துகள்களைக்"
         ],
         "explanation": "ஒரு மோல் என்பது 6.023 × 10²³ துகள்களைக் கொண்ட பொருளின் அளவு."
       }

@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 308,
       "quote": "I. 1. ______ is a structured delivery of information. a. Slide Show b. Page c. WordArt d. Presentation",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "A structured delivery of information is called a",
         "options": [
           "slide show",
-          "presentation",
           "page",
+          "presentation",
           "WordArt"
         ],
         "explanation": "A presentation is a systematic display of information along with graphics, movies, sound, etc."
@@ -25,8 +25,8 @@
         "q": "தகவல்களை ஒழுங்கமைத்து வழங்குவது",
         "options": [
           "ஸ்லைடு ஷோ",
-          "விளக்கக்காட்சி (பிரசன்டேஷன்)",
           "பக்கம்",
+          "விளக்கக்காட்சி (பிரசன்டேஷன்)",
           "வேர்ட்ஆர்ட்"
         ],
         "explanation": "விளக்கக்காட்சி என்பது படங்கள், ஒலி, காணொளி ஆகியவற்றுடன் தகவல்களை முறையாகக் காட்டுவது."
@@ -39,12 +39,12 @@
       "bloom": "remember",
       "page": 308,
       "quote": "I. 2. The slides are grouped together in a sequence to form ______ a. slide show b. sharts c. page d. messages",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Slides displayed together in a sequence form a",
         "options": [
-          "presentation (slide show)",
           "page",
+          "presentation (slide show)",
           "chart",
           "message"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "ஸ்லைடுகள் வரிசையாக இணைந்து உருவாக்குவது",
         "options": [
-          "விளக்கக்காட்சி (ஸ்லைடு ஷோ)",
           "பக்கம்",
+          "விளக்கக்காட்சி (ஸ்லைடு ஷோ)",
           "விளக்கப்படம்",
           "செய்திகள்"
         ],
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 308,
       "quote": "I. 3. A presentation consists of many ______ a. pages b. slides c. placeholders d. messages",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A LibreOffice Impress presentation consists of many",
         "options": [
           "pages",
-          "placeholders",
+          "slides",
           "messages",
-          "slides"
+          "placeholders"
         ],
         "explanation": "A presentation is a combination of many slides."
       },
@@ -83,9 +83,9 @@
         "q": "ஒரு விளக்கக்காட்சி பல ______ ஐக் கொண்டது.",
         "options": [
           "பக்கங்களை",
-          "இடங்குறிப்புகளை",
+          "ஸ்லைடுகளை",
           "செய்திகளை",
-          "ஸ்லைடுகளை"
+          "இடங்குறிப்புகளை"
         ],
         "explanation": "விளக்கக்காட்சி பல ஸ்லைடுகளின் தொகுப்பு."
       }
@@ -126,12 +126,12 @@
       "bloom": "remember",
       "page": 308,
       "quote": "I. 5. ______ is used to insert attractive text in the slide. a. Slide Show b. Word Art c. Text d. Header and Footer",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "______ is used to insert attractive text in a slide.",
         "options": [
-          "Slide Show",
           "WordArt",
+          "Slide Show",
           "Header and Footer",
           "Placeholder"
         ],
@@ -140,8 +140,8 @@
       "ta": {
         "q": "ஸ்லைடில் அழகிய எழுத்துகளைச் சேர்க்கப் பயன்படுவது",
         "options": [
-          "ஸ்லைடு ஷோ",
           "வேர்ட்ஆர்ட்",
+          "ஸ்லைடு ஷோ",
           "தலைப்பு, அடிக்குறிப்பு",
           "இடங்குறிப்பு"
         ],
@@ -155,24 +155,24 @@
       "bloom": "remember",
       "page": 308,
       "quote": "II. 3. What is a Slide?",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "A slide in LibreOffice Impress is",
         "options": [
-          "a single page of a presentation that can hold text, pictures and other objects",
+          "a file folder",
           "a mouse button",
           "a printer",
-          "a file folder"
+          "a single page of a presentation that can hold text, pictures and other objects"
         ],
         "explanation": "When you create a blank presentation, a slide appears with two placeholders."
       },
       "ta": {
         "q": "இம்ப்ரஸில் ஸ்லைடு என்பது",
         "options": [
-          "உரை, படங்கள், பிற பொருள்களைக் கொண்ட விளக்கக்காட்சியின் ஒரு பக்கம்",
+          "கோப்புக் கோப்புறை",
           "சுட்டியின் பொத்தான்",
           "அச்சுப்பொறி",
-          "கோப்புக் கோப்புறை"
+          "உரை, படங்கள், பிற பொருள்களைக் கொண்ட விளக்கக்காட்சியின் ஒரு பக்கம்"
         ],
         "explanation": "வெற்று விளக்கக்காட்சியை உருவாக்கும்போது இரு இடங்குறிப்புகளுடன் ஒரு ஸ்லைடு தோன்றும்."
       }
@@ -184,24 +184,24 @@
       "bloom": "remember",
       "page": 308,
       "quote": "II. 4. Write the steps to view a Slide Show.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "To view a slide show, one should click the",
         "options": [
-          "File menu and then Exit",
+          "Slide Show menu and then Start from First Slide (or press F5)",
           "Insert menu and then Image",
           "Slide menu and then Delete",
-          "Slide Show menu and then Start from First Slide (or press F5)"
+          "File menu and then Exit"
         ],
         "explanation": "Viewing a slide show means seeing how the actual presentation looks."
       },
       "ta": {
         "q": "ஸ்லைடு ஷோவைக் காண சொடுக்க வேண்டியது",
         "options": [
-          "File மெனு, பிறகு Exit",
+          "Slide Show மெனு, பிறகு Start from First Slide (அல்லது F5)",
           "Insert மெனு, பிறகு Image",
           "Slide மெனு, பிறகு Delete",
-          "Slide Show மெனு, பிறகு Start from First Slide (அல்லது F5)"
+          "File மெனு, பிறகு Exit"
         ],
         "explanation": "உண்மையான விளக்கக்காட்சி எவ்வாறு தெரியும் என்பதைப் பார்ப்பது ஸ்லைடு ஷோவைக் காணுதல்."
       }

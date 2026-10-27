@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 122,
       "quote": "Aerated water contains a) air b) oxygen c) carbon dioxide d) nitrogen",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Aerated water contains dissolved ______.",
         "options": [
           "air",
-          "oxygen",
           "carbon dioxide",
+          "oxygen",
           "nitrogen"
         ],
         "explanation": "Aerated (soda) water is carbon dioxide dissolved in water under pressure."
@@ -54,8 +54,8 @@
         "q": "காற்றூட்டப்பட்ட நீரில் கரைந்துள்ள வாயு ______.",
         "options": [
           "காற்று",
-          "ஆக்சிஜன்",
           "கார்பன் டை ஆக்சைடு",
+          "ஆக்சிஜன்",
           "நைட்ரஜன்"
         ],
         "explanation": "அழுத்தத்தில் கார்பன் டை ஆக்சைடு நீரில் கரைக்கப்பட்டால் சோடா நீர் கிடைக்கிறது."
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 122,
       "quote": "Solvay process is a method to manufacture a) lime water b) aerated water c) distilled water d) sodium carbonate",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The Solvay process is a method to manufacture ______.",
         "options": [
           "lime water",
           "aerated water",
-          "distilled water",
-          "sodium carbonate"
+          "sodium carbonate",
+          "distilled water"
         ],
         "explanation": "Carbon dioxide is used in the manufacture of sodium carbonate by the Solvay process."
       },
@@ -84,8 +84,8 @@
         "options": [
           "சுண்ணாம்பு நீர்",
           "காற்றூட்டப்பட்ட நீர்",
-          "காய்ச்சி வடிகட்டிய நீர்",
-          "சோடியம் கார்பனேட்"
+          "சோடியம் கார்பனேட்",
+          "காய்ச்சி வடிகட்டிய நீர்"
         ],
         "explanation": "சால்வே முறையில் கார்பன் டை ஆக்சைடைப் பயன்படுத்தி சோடியம் கார்பனேட் தயாரிக்கப்படுகிறது."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 122,
       "quote": "Carbon dioxide with water changes a) blue litmus to red b) red litmus to blue c) blue litmus to yellow d) doesn't react with litmus",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Carbon dioxide dissolved in water changes ______.",
         "options": [
           "red litmus to blue",
-          "blue litmus to red",
           "blue litmus to yellow",
+          "blue litmus to red",
           "nothing; it does not react with litmus"
         ],
         "explanation": "CO2 is acidic in nature; it turns blue litmus slightly red."
@@ -112,8 +112,8 @@
         "q": "கார்பன் டை ஆக்சைடு நீருடன் சேரும்போது ______.",
         "options": [
           "சிவப்பு லிட்மஸை நீலமாக மாற்றும்",
-          "நீல லிட்மஸைச் சிவப்பாக மாற்றும்",
           "நீல லிட்மஸை மஞ்சளாக மாற்றும்",
+          "நீல லிட்மஸைச் சிவப்பாக மாற்றும்",
           "லிட்மஸுடன் வினைபுரியாது"
         ],
         "explanation": "CO2 அமிலத்தன்மை கொண்டதால் நீல லிட்மஸை சிறிது சிவப்பாக்கும்."
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 122,
       "quote": "Which of the following is known as azote? a) Oxygen b) Nitrogen c) Sulpher d) Carbon dioxide",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which of the following was named 'azote' (meaning 'no life') by Lavoisier?",
         "options": [
           "Oxygen",
-          "Sulphur",
+          "Nitrogen",
           "Carbon dioxide",
-          "Nitrogen"
+          "Sulphur"
         ],
         "explanation": "The name 'nitrogen' comes from 'nitron' and 'gene' (I produce nitre); Lavoisier suggested the name azote."
       },
@@ -141,9 +141,9 @@
         "q": "லவோஸியர் 'அசோட்' (உயிரற்றது) எனப் பெயரிட்டது ______.",
         "options": [
           "ஆக்சிஜன்",
-          "கந்தகம்",
+          "நைட்ரஜன்",
           "கார்பன் டை ஆக்சைடு",
-          "நைட்ரஜன்"
+          "கந்தகம்"
         ],
         "explanation": "நைட்ரஜன் என்ற பெயர் 'நிட்ரான்', 'ஜீன்' என்ற கிரேக்கச் சொற்களிலிருந்து வந்தது; லவோஸியர் அசோட் என்று பெயரிட்டார்."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 122,
       "quote": "___________ is called as vital life.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "C.W. Scheele called oxygen 'fire air' or 'vital life' because it supports the process of ______.",
         "options": [
           "freezing",
-          "rusting only",
           "burning",
+          "rusting only",
           "photosynthesis only"
         ],
         "explanation": "Scheele discovered oxygen in 1772; Priestley independently discovered it in 1774; Lavoisier named it."
@@ -170,8 +170,8 @@
         "q": "ஷீலே ஆக்சிஜனை 'நெருப்புக் காற்று' அல்லது 'உயிர்க்காற்று' என அழைத்ததற்குக் காரணம் அது ______ துணைபுரிவது.",
         "options": [
           "உறைதலுக்குத்",
-          "துருப்பிடித்தலுக்கு மட்டும்",
           "எரிதலுக்குத்",
+          "துருப்பிடித்தலுக்கு மட்டும்",
           "ஒளிச்சேர்க்கைக்கு மட்டும்"
         ],
         "explanation": "ஷீலே 1772-இல் ஆக்சிஜனைக் கண்டறிந்தார்; பிரீஸ்ட்லி 1774-இல் தனியே கண்டறிந்தார்; லவோஸியர் பெயரிட்டார்."
@@ -213,24 +213,24 @@
       "bloom": "remember",
       "page": 122,
       "quote": "___________ is used as a fertilizer.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Fertilizers like urea are prepared from ammonia, which is made from ______.",
         "options": [
-          "nitrogen",
+          "argon",
           "oxygen",
           "carbon dioxide",
-          "argon"
+          "nitrogen"
         ],
         "explanation": "Nitrogen is used to prepare ammonia (Haber's process), which is converted into fertilizers and nitric acid."
       },
       "ta": {
         "q": "யூரியா போன்ற உரங்கள் தயாரிக்கப் பயன்படும் அம்மோனியா ______ இலிருந்து தயாரிக்கப்படுகிறது.",
         "options": [
-          "நைட்ரஜன்",
+          "ஆர்கான்",
           "ஆக்சிஜன்",
           "கார்பன் டை ஆக்சைடு",
-          "ஆர்கான்"
+          "நைட்ரஜன்"
         ],
         "explanation": "நைட்ரஜனிலிருந்து ஹேபர் முறையில் அம்மோனியா தயாரித்து உரங்கள், நைட்ரிக் அமிலமாக மாற்றப்படுகிறது."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 122,
       "quote": "Dry ice is used as a ___________.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Dry ice (solid carbon dioxide) is used as a ______.",
         "options": [
           "fertilizer",
-          "fuel",
+          "coolant",
           "bleaching agent",
-          "coolant"
+          "fuel"
         ],
         "explanation": "Dry ice sublimes; the cold gas condenses moisture in air creating dense fog used in stage shows."
       },
@@ -257,9 +257,9 @@
         "q": "உலர் பனிக்கட்டி (திட கார்பன் டை ஆக்சைடு) ______ ஆகப் பயன்படுகிறது.",
         "options": [
           "உரமாக",
-          "எரிபொருளாக",
+          "குளிர்விப்பானாக",
           "வெளுப்பானாக",
-          "குளிர்விப்பானாக"
+          "எரிபொருளாக"
         ],
         "explanation": "உலர் பனிக்கட்டி பதங்கமாகும்; அதன் குளிர் வாயு காற்றின் ஈரத்தைச் சுருக்கிப் பனிமூட்டம் உருவாக்குகிறது."
       }
@@ -271,12 +271,12 @@
       "bloom": "remember",
       "page": 122,
       "quote": "The process of conversion of iron into hydrated form of oxides is called ___________.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The conversion of iron into its hydrated oxide in the presence of air and moisture is called ______.",
         "options": [
-          "tarnishing",
           "rusting",
+          "tarnishing",
           "sublimation",
           "fixation"
         ],
@@ -285,8 +285,8 @@
       "ta": {
         "q": "காற்று, ஈரப்பதம் முன்னிலையில் இரும்பு நீரேறிய ஆக்சைடாக மாறும் நிகழ்வு ______ எனப்படும்.",
         "options": [
-          "மங்குதல்",
           "துருப்பிடித்தல்",
+          "மங்குதல்",
           "பதங்கமாதல்",
           "நிலைநிறுத்தல்"
         ],
@@ -329,12 +329,12 @@
       "bloom": "remember",
       "page": 122,
       "quote": "Mention the physical properties of oxygen.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which of the following is a physical property of oxygen?",
         "options": [
-          "It is a colourless, odourless and tasteless gas denser than air",
           "It is a coloured gas lighter than air",
+          "It is a colourless, odourless and tasteless gas denser than air",
           "It is highly combustible",
           "It is insoluble in water"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "ஆக்சிஜனின் இயற்பியல் பண்பு எது?",
         "options": [
-          "நிறம், மணம், சுவையற்ற, காற்றைவிடக் கனமான வாயு",
           "காற்றைவிட இலேசான நிறமுள்ள வாயு",
+          "நிறம், மணம், சுவையற்ற, காற்றைவிடக் கனமான வாயு",
           "எளிதில் தீப்பற்றும் வாயு",
           "நீரில் கரையாதது"
         ],
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 122,
       "quote": "Write about the reaction of nitrogen with non metals.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Nitrogen reacts with hydrogen at high temperature to form ______.",
         "options": [
           "nitric oxide only",
-          "calcium nitride",
+          "ammonia",
           "methane",
-          "ammonia"
+          "calcium nitride"
         ],
         "explanation": "N₂ + 3H₂ → 2NH₃; nitrogen reacts with non-metals like hydrogen and oxygen at high temperature."
       },
@@ -402,9 +402,9 @@
         "q": "நைட்ரஜன் உயர் வெப்பநிலையில் ஹைட்ரஜனுடன் வினைபுரிந்து ______ தருகிறது.",
         "options": [
           "நைட்ரிக் ஆக்சைடு மட்டும்",
-          "கால்சியம் நைட்ரைடு",
+          "அம்மோனியா",
           "மீத்தேன்",
-          "அம்மோனியா"
+          "கால்சியம் நைட்ரைடு"
         ],
         "explanation": "N₂ + 3H₂ → 2NH₃; நைட்ரஜன் ஹைட்ரஜன், ஆக்சிஜன் போன்ற அலோகங்களுடன் உயர் வெப்பநிலையில் வினைபுரியும்."
       }
@@ -445,14 +445,14 @@
       "bloom": "remember",
       "page": 122,
       "quote": "What is dry ice? What are its uses?",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Dry ice is ______.",
         "options": [
           "frozen water vapour",
           "solid nitrogen",
-          "solid carbon dioxide",
-          "frozen oxygen"
+          "frozen oxygen",
+          "solid carbon dioxide"
         ],
         "explanation": "Dry ice undergoes sublimation and is used as a coolant."
       },
@@ -461,8 +461,8 @@
         "options": [
           "உறைந்த நீராவி",
           "திண்ம நைட்ரஜன்",
-          "திண்ம கார்பன் டை ஆக்சைடு",
-          "உறைந்த ஆக்சிஜன்"
+          "உறைந்த ஆக்சிஜன்",
+          "திண்ம கார்பன் டை ஆக்சைடு"
         ],
         "explanation": "உலர் பனிக்கட்டி பதங்கமாகும்; குளிர்விப்பானாகப் பயன்படுகிறது."
       }
@@ -503,12 +503,12 @@
       "bloom": "remember",
       "page": 122,
       "quote": "Name the compounds produced when the following substances burn in oxygen. a) Carbon b) Sulphur c) Phosphorous d) Magnesium e) Iron f) Sodium",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The products formed when carbon, sulphur, magnesium and sodium burn in oxygen are respectively ______.",
         "options": [
-          "CO, SO₃, Mg₃N₂ and NaOH",
           "CO₂, SO₂, MgO and Na₂O",
+          "CO, SO₃, Mg₃N₂ and NaOH",
           "CO₂, SO₃, MgCO₃ and NaCl",
           "CO, SO₂, MgO and Na₂CO₃"
         ],
@@ -517,8 +517,8 @@
       "ta": {
         "q": "கார்பன், கந்தகம், மெக்னீசியம், சோடியம் ஆகியவை ஆக்சிஜனில் எரியும்போது கிடைக்கும் சேர்மங்கள் முறையே ______.",
         "options": [
-          "CO, SO₃, Mg₃N₂, NaOH",
           "CO₂, SO₂, MgO, Na₂O",
+          "CO, SO₃, Mg₃N₂, NaOH",
           "CO₂, SO₃, MgCO₃, NaCl",
           "CO, SO₂, MgO, Na₂CO₃"
         ],
@@ -561,14 +561,14 @@
       "bloom": "remember",
       "page": 122,
       "quote": "What are the effects of acid rain? How can we prevent them?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following is an effect of acid rain?",
         "options": [
           "Increase in soil fertility",
           "Faster germination of seedlings",
-          "Cooling of the earth",
-          "Corrosion of buildings and bridges"
+          "Corrosion of buildings and bridges",
+          "Cooling of the earth"
         ],
         "explanation": "Acid rain irritates eyes and skin, inhibits germination, destroys plants and aquatic life and corrodes buildings."
       },
@@ -577,8 +577,8 @@
         "options": [
           "மண்வளம் அதிகரித்தல்",
           "நாற்றுகள் விரைவாக முளைத்தல்",
-          "புவி குளிர்தல்",
-          "கட்டடங்கள், பாலங்கள் அரிக்கப்படுதல்"
+          "கட்டடங்கள், பாலங்கள் அரிக்கப்படுதல்",
+          "புவி குளிர்தல்"
         ],
         "explanation": "அமில மழை கண், தோலில் எரிச்சல், முளைத்தல் தடை, தாவர/நீர்வாழ் உயிரிகளுக்குப் பாதிப்பு, கட்டடங்களில் அரிப்பு ஆகியவற்றை உண்டாக்கும்."
       }

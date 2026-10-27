@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 36,
       "quote": "Electric wires used for long distance transmission of electricity will expand during day time and contract at night. That is why they will not be set very tightly.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Electric wires for long-distance transmission are not set very tightly because they ______.",
         "options": [
           "become heavier at night",
-          "lose electric charge",
+          "expand during the day and contract at night",
           "melt in sunlight",
-          "expand during the day and contract at night"
+          "lose electric charge"
         ],
         "explanation": "Tightly set wires would break when they contract on cooling at night."
       },
@@ -25,9 +25,9 @@
         "q": "நீண்ட தூர மின்கம்பிகள் மிகவும் இறுக்கமாக அமைக்கப்படுவதில்லை; ஏனெனில் அவை ______.",
         "options": [
           "இரவில் எடை கூடுகின்றன",
-          "மின்னூட்டத்தை இழக்கின்றன",
+          "பகலில் விரிவடைந்து இரவில் சுருங்குகின்றன",
           "சூரிய ஒளியில் உருகுகின்றன",
-          "பகலில் விரிவடைந்து இரவில் சுருங்குகின்றன"
+          "மின்னூட்டத்தை இழக்கின்றன"
         ],
         "explanation": "இறுக்கமாக அமைத்தால் இரவில் குளிர்ந்து சுருங்கும்போது அறுந்துவிடும்."
       }
@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 37,
       "quote": "Handles of cooking utensils are made up of plastic or wood because they are poor conductors of heat.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Handles of cooking utensils are made of plastic or wood because these are ______.",
         "options": [
-          "poor conductors of heat",
+          "good radiators of heat",
           "good conductors of heat",
           "heavier than metals",
-          "good radiators of heat"
+          "poor conductors of heat"
         ],
         "explanation": "Plastic and wood are poor conductors, so the handle stays cool."
       },
       "ta": {
         "q": "சமையல் பாத்திரங்களின் கைப்பிடிகள் பிளாஸ்டிக் அல்லது மரத்தால் செய்யப்படுவது அவை ______.",
         "options": [
-          "வெப்பத்தை மோசமாகக் கடத்துவதால்",
+          "வெப்பத்தை நன்கு கதிர்வீசுவதால்",
           "வெப்பத்தை நன்கு கடத்துவதால்",
           "உலோகங்களைவிடக் கனமானவை என்பதால்",
-          "வெப்பத்தை நன்கு கதிர்வீசுவதால்"
+          "வெப்பத்தை மோசமாகக் கடத்துவதால்"
         ],
         "explanation": "பிளாஸ்டிக், மரம் ஆகியவை வெப்பத்தை மோசமாகக் கடத்துவதால் கைப்பிடி சூடாகாது."
       }
@@ -68,12 +68,12 @@
       "bloom": "remember",
       "page": 38,
       "quote": "Formation of land breeze and sea breeze is due to convection of air. In hot air balloons heat is transferred by convection and so the balloon raises.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Land breeze and sea breeze are formed due to ______.",
         "options": [
-          "convection of air",
           "conduction in air",
+          "convection of air",
           "radiation in vacuum",
           "dispersion of light"
         ],
@@ -82,8 +82,8 @@
       "ta": {
         "q": "நில, கடல் காற்றுகள் உருவாவதற்குக் காரணம் ______.",
         "options": [
-          "காற்றின் வெப்பச் சலனம்",
           "காற்றில் வெப்பக் கடத்தல்",
+          "காற்றின் வெப்பச் சலனம்",
           "வெற்றிடத்தில் வெப்பக் கதிர்வீச்சு",
           "ஒளியின் நிறப்பிரிகை"
         ],
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 38,
       "quote": "Radiation: by radiation heat can be transferred through empty space even through vacuum. Heat energy from the Sun reaches the Earth by this form of heat transfer. Radiation is the way of heat transfer in the form of electromagnetic waves.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Heat from the Sun reaches the Earth through space by ______.",
         "options": [
-          "conduction",
-          "convection",
           "radiation",
+          "convection",
+          "conduction",
           "evaporation"
         ],
         "explanation": "Radiation can transfer heat through vacuum in the form of electromagnetic waves."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "சூரிய வெப்பம் வெற்றிடத்தின் வழியே புவியை அடையும் முறை ______.",
         "options": [
-          "வெப்பக் கடத்தல்",
-          "வெப்பச் சலனம்",
           "வெப்பக் கதிர்வீச்சு",
+          "வெப்பச் சலனம்",
+          "வெப்பக் கடத்தல்",
           "ஆவியாதல்"
         ],
         "explanation": "வெப்பக் கதிர்வீச்சு மின்காந்த அலைகளாக வெற்றிடத்திலும் வெப்பத்தைக் கடத்தும்."
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 38,
       "quote": "When a substance is heated to 500°C the radiation begins to become visible to the eye as a dull red glow. Further heating changes the perceived colour to orange, yellow and finally white.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "A heated substance begins to glow with a dull red colour at about ______.",
         "options": [
           "100 °C",
-          "500 °C",
           "50 °C",
+          "500 °C",
           "5000 °C"
         ],
         "explanation": "At about 500 °C radiation becomes visible as a dull red glow, then orange, yellow and finally white."
@@ -141,8 +141,8 @@
         "q": "வெப்பப்படுத்தப்பட்ட பொருள் மங்கலான சிவப்பு ஒளிர்வுடன் தெரியத் தொடங்கும் வெப்பநிலை ஏறத்தாழ ______.",
         "options": [
           "100 °C",
-          "500 °C",
           "50 °C",
+          "500 °C",
           "5000 °C"
         ],
         "explanation": "ஏறத்தாழ 500°C-இல் கதிர்வீச்சு மங்கலான சிவப்பாகத் தெரிந்து, பின் ஆரஞ்சு, மஞ்சள், இறுதியில் வெண்மையாகும்."
@@ -155,24 +155,24 @@
       "bloom": "remember",
       "page": 39,
       "quote": "The amount of heat energy gained or lost by a substance is determined by three factors: mass of the substance, change in temperature of the substance and nature of the material of the substance.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which of the following does NOT determine the amount of heat gained or lost by a substance?",
         "options": [
-          "Mass of the substance",
+          "The colour of the substance",
           "Change in temperature",
           "Nature of the material",
-          "The colour of the substance"
+          "Mass of the substance"
         ],
         "explanation": "The three factors are mass, change in temperature and nature of the material."
       },
       "ta": {
         "q": "ஒரு பொருள் ஏற்கும் அல்லது இழக்கும் வெப்ப ஆற்றலைத் தீர்மானிக்காத காரணி எது?",
         "options": [
-          "பொருளின் நிறை",
+          "பொருளின் நிறம்",
           "வெப்பநிலை மாற்றம்",
           "பொருளின் தன்மை",
-          "பொருளின் நிறம்"
+          "பொருளின் நிறை"
         ],
         "explanation": "நிறை, வெப்பநிலை மாற்றம், பொருளின் தன்மை ஆகிய மூன்றே காரணிகள்."
       }
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 40,
       "quote": "The SI unit of specific heat capacity is J kg⁻¹ K⁻¹. Heat capacity C' = Q/ΔT.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The SI unit of specific heat capacity is ______.",
         "options": [
-          "J K⁻¹",
           "J kg⁻¹ K⁻¹",
+          "J K⁻¹",
           "cal °C⁻¹",
           "J kg"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "தன் வெப்ப ஏற்புத்திறனின் SI அலகு ______.",
         "options": [
-          "JK⁻¹",
           "Jkg⁻¹K⁻¹",
+          "JK⁻¹",
           "cal°C⁻¹",
           "Jkg"
         ],
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 40,
       "quote": "A calorimeter consists of a vessel made up of metals like copper or aluminium which are good conductors of heat and electricity. The metallic vessel is kept in an insulating jacket.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The vessel of a calorimeter is made of metals like ______.",
         "options": [
           "wood or plastic",
-          "glass or rubber",
+          "copper or aluminium",
           "cork or wool",
-          "copper or aluminium"
+          "glass or rubber"
         ],
         "explanation": "A calorimeter vessel is made of good conductors like copper or aluminium kept in an insulating jacket."
       },
@@ -228,9 +228,9 @@
         "q": "கலோரிமீட்டரின் பாத்திரம் ______ போன்ற உலோகங்களால் ஆனது.",
         "options": [
           "மரம் அல்லது பிளாஸ்டிக்",
-          "கண்ணாடி அல்லது ரப்பர்",
+          "தாமிரம் அல்லது அலுமினியம்",
           "கார்க் அல்லது கம்பளி",
-          "தாமிரம் அல்லது அலுமினியம்"
+          "கண்ணாடி அல்லது ரப்பர்"
         ],
         "explanation": "கலோரிமீட்டர் பாத்திரம் வெப்பத்தை நன்கு கடத்தும் தாமிரம், அலுமினியத்தால் ஆனது; வெளியே காப்பு உறை உண்டு."
       }
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 41,
       "quote": "The word thermostat is derived from two Greek words, 'thermo' meaning heat and 'static' meaning staying the same. Devices which use thermostat include building heater, air conditioner, water heater, oven and refrigerators.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The word 'thermostat' is derived from Greek words 'thermo' and 'static', which mean ______.",
         "options": [
-          "heat and staying the same",
-          "cold and moving",
           "light and sound",
+          "cold and moving",
+          "heat and staying the same",
           "pressure and volume"
         ],
         "explanation": "'Thermo' = heat; 'static' = staying the same."
@@ -256,9 +256,9 @@
       "ta": {
         "q": "'தெர்மோஸ்டாட்' என்ற சொல் கிரேக்கச் சொற்களான 'thermo', 'static' என்பவற்றிலிருந்து உருவானது; அவற்றின் பொருள் ______.",
         "options": [
-          "வெப்பம், மாறாமல் இருத்தல்",
-          "குளிர்ச்சி, இயக்கம்",
           "ஒளி, ஒலி",
+          "குளிர்ச்சி, இயக்கம்",
+          "வெப்பம், மாறாமல் இருத்தல்",
           "அழுத்தம், பருமன்"
         ],
         "explanation": "'thermo' = வெப்பம்; 'static' = மாறாமல் இருப்பது."
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 41,
       "quote": "A thermos flask has double walls, which are evacuated. The vacuum between the two walls prevents heat being transferred from the inside to the outside by conduction and convection.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The vacuum between the double walls of a thermos flask prevents heat transfer by ______.",
         "options": [
           "radiation only",
-          "dispersion",
           "conduction and convection",
+          "dispersion",
           "sublimation"
         ],
         "explanation": "Vacuum stops conduction and convection; the silvered walls reflect radiated heat."
@@ -286,8 +286,8 @@
         "q": "வெப்பக் குடுவையின் இரட்டைச் சுவர்களுக்கிடையேயுள்ள வெற்றிடம் ______ மூலம் வெப்பம் கடத்தப்படுவதைத் தடுக்கிறது.",
         "options": [
           "வெப்பக் கதிர்வீச்சு மட்டும்",
-          "நிறப்பிரிகை",
           "வெப்பக் கடத்தல், வெப்பச் சலனம்",
+          "நிறப்பிரிகை",
           "பதங்கமாதல்"
         ],
         "explanation": "வெற்றிடம் கடத்தலையும் சலனத்தையும் தடுக்கும்; வெள்ளிப் பூச்சுச் சுவர் கதிர்வீச்சை எதிரொளிக்கும்."
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 42,
       "quote": "Calorimeter measures the heat capacity of water. Conduction occurs in solids, convection in liquids and gases, and radiation takes place in vacuum.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Radiation takes place in ______, whereas conduction occurs in solids.",
         "options": [
           "liquids only",
           "gases only",
-          "metals only",
-          "vacuum"
+          "vacuum",
+          "metals only"
         ],
         "explanation": "Conduction - solids; convection - liquids and gases; radiation - vacuum."
       },
@@ -316,8 +316,8 @@
         "options": [
           "திரவங்களில் மட்டும்",
           "வாயுக்களில் மட்டும்",
-          "உலோகங்களில் மட்டும்",
-          "வெற்றிடத்தில்"
+          "வெற்றிடத்தில்",
+          "உலோகங்களில் மட்டும்"
         ],
         "explanation": "கடத்தல் - திடம்; சலனம் - திரவம், வாயு; கதிர்வீச்சு - வெற்றிடம்."
       }

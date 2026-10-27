@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 258,
       "quote": "Microbiology (greek words: mikros - small, bios - life bearing, logy - study) is a branch of biology that deals with living organisms of microscopic size, which include bacteria, fungi, algae, protozoa and viruses.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The Greek word 'mikros' means",
         "options": [
           "life",
           "study",
-          "small",
-          "disease"
+          "disease",
+          "small"
         ],
         "explanation": "Microbiology = mikros (small) + bios (life) + logy (study)."
       },
@@ -26,8 +26,8 @@
         "options": [
           "உயிர்",
           "படிப்பு",
-          "சிறிய",
-          "நோய்"
+          "நோய்",
+          "சிறிய"
         ],
         "explanation": "மைக்ரோபயாலஜி = மைக்ரோஸ் (சிறிய) + பயோஸ் (உயிர்) + லாஜி (படிப்பு)."
       }
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 259,
       "quote": "Living characters of viruses: nucleic acid, multiply in living cells of the host, attack specific hosts. Non-living characters: remain as inert material outside their hosts; devoid of cell membrane and cell wall; can be crystallised.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which of the following is a non-living character of viruses?",
         "options": [
           "They multiply inside host cells",
-          "They can be crystallised",
           "They attack specific hosts",
+          "They can be crystallised",
           "They contain nucleic acid"
         ],
         "explanation": "Outside their hosts viruses remain inert and lack cell membrane, cell wall and organelles."
@@ -83,8 +83,8 @@
         "q": "பின்வருவனவற்றுள் வைரஸ்களின் உயிரற்ற பண்பு எது?",
         "options": [
           "விருந்தோம்பி செல்லுள் பெருகுதல்",
-          "அவற்றைப் படிகமாக்கலாம்",
           "குறிப்பிட்ட விருந்தோம்பிகளைத் தாக்குதல்",
+          "அவற்றைப் படிகமாக்கலாம்",
           "நியூக்ளிக் அமிலம் உடைமை"
         ],
         "explanation": "விருந்தோம்பிக்கு வெளியே வைரஸ் செயலற்றது; செல் சவ்வு, செல் சுவர், நுண்ணுறுப்புகள் இல்லை."
@@ -97,24 +97,24 @@
       "bloom": "remember",
       "page": 259,
       "quote": "More to Know: The protein free pathogenic RNA of virus is Viroids. They are found in plant cells and cause disease in plants.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The protein-free pathogenic RNA that causes disease in plants is called a",
         "options": [
-          "viroid",
+          "bacteriophage",
           "prion",
           "virion",
-          "bacteriophage"
+          "viroid"
         ],
         "explanation": "Prions contain only protein and no nucleic acid."
       },
       "ta": {
         "q": "தாவரங்களில் நோயை ஏற்படுத்தும் புரதமற்ற நோய்க்காரண RNA",
         "options": [
-          "வைராய்டு",
+          "பாக்டீரியோஃபேஜ்",
           "பிரியான்",
           "வைரியான்",
-          "பாக்டீரியோஃபேஜ்"
+          "வைராய்டு"
         ],
         "explanation": "பிரியான்களில் புரதம் மட்டும் உள்ளது; நியூக்ளிக் அமிலம் இல்லை."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 260,
       "quote": "Fungi lack chlorophyll ... parasites ... saprophytes. The body of the fungus is called thallus. ... Mycelium is a complex of several thin filaments called hyphae.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Fungi living on dead organic matter are called",
         "options": [
-          "parasites",
-          "autotrophs",
           "saprophytes",
+          "autotrophs",
+          "parasites",
           "symbionts"
         ],
         "explanation": "Fungi living on living hosts are parasites; the body of a fungus is called a thallus."
@@ -169,9 +169,9 @@
       "ta": {
         "q": "இறந்த கரிமப் பொருள்களில் வாழும் பூஞ்சைகள்",
         "options": [
-          "ஒட்டுண்ணிகள்",
-          "தற்சார்பு உயிரிகள்",
           "அழுகுண்ணிகள் (சாப்ரோஃபைட்டுகள்)",
+          "தற்சார்பு உயிரிகள்",
+          "ஒட்டுண்ணிகள்",
           "கூட்டுயிர்கள்"
         ],
         "explanation": "உயிருள்ள விருந்தோம்பியில் வாழ்பவை ஒட்டுண்ணிகள்; பூஞ்சையின் உடல் தல்லஸ்."
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 260,
       "quote": "Prions: The term 'prion' was coined by Stanley B. Prusiner in 1982. Prions are viral particles which contain only proteins. They do not contain nucleic acid. They are found in neurons and are rod shaped. Prions induce changes in normal proteins ... degeneration of nervous tissue.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Prions cause",
         "options": [
-          "degeneration of nervous tissue by changing normal proteins",
-          "jaundice",
           "rashes on the skin",
+          "jaundice",
+          "degeneration of nervous tissue by changing normal proteins",
           "joint pains"
         ],
         "explanation": "Prions are infectious, smaller than viruses and found in neurons."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "பிரியான்கள் ஏற்படுத்துவது",
         "options": [
-          "இயல்பான புரதங்களை மாற்றி நரம்புத் திசுச் சிதைவை",
-          "மஞ்சள் காமாலையை",
           "தோல் தடிப்புகளை",
+          "மஞ்சள் காமாலையை",
+          "இயல்பான புரதங்களை மாற்றி நரம்புத் திசுச் சிதைவை",
           "மூட்டு வலியை"
         ],
         "explanation": "பிரியான்கள் தொற்றும் தன்மையுடையவை; வைரஸ்களை விடச் சிறியவை; நியூரான்களில் காணப்படுபவை."
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 261,
       "quote": "Microbes in Agriculture: biocontrol agents and biofertilizers. ... biological scavengers. Azotobacter, Nitrosomonas, Nostoc (free living); symbiotic microbes like Rhizobium, Frankia.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following is a symbiotic nitrogen-fixing biofertilizer?",
         "options": [
           "Azotobacter",
           "Nitrosomonas",
-          "Nostoc",
-          "Rhizobium"
+          "Rhizobium",
+          "Nostoc"
         ],
         "explanation": "Azotobacter, Nitrosomonas and Nostoc are free living; Rhizobium and Frankia are symbiotic."
       },
@@ -258,8 +258,8 @@
         "options": [
           "அசட்டோபாக்டர்",
           "நைட்ரோசோமோனாஸ்",
-          "நாஸ்டாக்",
-          "ரைசோபியம்"
+          "ரைசோபியம்",
+          "நாஸ்டாக்"
         ],
         "explanation": "அசட்டோபாக்டர், நைட்ரோசோமோனாஸ், நாஸ்டாக் தனித்து வாழ்பவை; ரைசோபியம், ஃபிராங்கியா கூட்டுயிர் வாழ்பவை."
       }
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 261,
       "quote": "Production of fermented beverages: wine is produced by fermentation of grape fruits by Saccharomyces cerevisiae. Curing of coffee beans, tea leaves and tobacco leaves: Bacillus megaterium. Production of curd: Lactobacillus sp. Organic acids: Aspergillus niger.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Match the microbe with its use: (a) Saccharomyces cerevisiae (b) Lactobacillus (c) Aspergillus niger (d) Bacillus megaterium - (1) Curd (2) Wine (3) Curing of tea and coffee (4) Citric, oxalic and acetic acids",
         "options": [
           "a-3, b-1, c-4, d-2",
-          "a-3, b-4, c-2, d-1",
           "a-2, b-1, c-4, d-3",
+          "a-3, b-4, c-2, d-1",
           "a-4, b-1, c-3, d-2"
         ],
         "explanation": "Yeasts are also a rich source of vitamin B complex."
@@ -286,8 +286,8 @@
         "q": "நுண்ணுயிரையும் பயனையும் பொருத்துக: (a) சக்காரோமைசஸ் செரிவிசியே (b) லாக்டோபேசில்லஸ் (c) அஸ்பெர்ஜில்லஸ் நைகர் (d) பேசில்லஸ் மெகாடீரியம் - (1) தயிர் (2) ஒயின் (3) தேயிலை, காபி பதப்படுத்தல் (4) சிட்ரிக், ஆக்ஸாலிக், அசிட்டிக் அமிலங்கள்",
         "options": [
           "a-3, b-1, c-4, d-2",
-          "a-3, b-4, c-2, d-1",
           "a-2, b-1, c-4, d-3",
+          "a-3, b-4, c-2, d-1",
           "a-4, b-1, c-3, d-2"
         ],
         "explanation": "ஈஸ்ட்கள் வைட்டமின் B கூட்டுப் பொருள்களின் வளமான மூலம்."
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 261,
       "quote": "Antibiotics: metabolic products of microorganisms, which in very low concentration are inhibitory or detrimental to other microbes. In 1929, Alexander Fleming produced the first antibiotic penicillin. Table 22.1: Streptomyces griseus - Streptomycin; Streptomyces erythreus - Erythromycin; Bacillus subtilis - Bacitracin; Penicillium notatum - Penicillin; Cephalosporium acremonium - Cephalosporin",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Match the microorganism with the antibiotic it produces: (a) Streptomyces griseus (b) Bacillus subtilis (c) Penicillium notatum (d) Cephalosporium acremonium - (1) Bacitracin (2) Cephalosporin (3) Penicillin (4) Streptomycin",
         "options": [
           "a-3, b-4, c-2, d-1",
-          "a-4, b-1, c-3, d-2",
+          "a-2, b-1, c-4, d-3",
           "a-3, b-4, c-1, d-2",
-          "a-2, b-1, c-4, d-3"
+          "a-4, b-1, c-3, d-2"
         ],
         "explanation": "Streptomyces erythreus gives erythromycin."
       },
@@ -315,9 +315,9 @@
         "q": "நுண்ணுயிரையும் அது உருவாக்கும் நுண்ணுயிர்க்கொல்லியையும் பொருத்துக: (a) ஸ்ட்ரெப்டோமைசஸ் கிரைசியஸ் (b) பேசில்லஸ் சப்டிலிஸ் (c) பென்சிலியம் நோட்டேட்டம் (d) செஃபலோஸ்போரியம் அக்ரிமோனியம் - (1) பேசிட்ராசின் (2) செஃபலோஸ்போரின் (3) பெனிசிலின் (4) ஸ்ட்ரெப்டோமைசின்",
         "options": [
           "a-3, b-4, c-2, d-1",
-          "a-4, b-1, c-3, d-2",
+          "a-2, b-1, c-4, d-3",
           "a-3, b-4, c-1, d-2",
-          "a-2, b-1, c-4, d-3"
+          "a-4, b-1, c-3, d-2"
         ],
         "explanation": "ஸ்ட்ரெப்டோமைசஸ் எரித்ரியஸ் எரித்ரோமைசினைத் தருகிறது."
       }
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 262,
       "quote": "Disease (dis = against; ease = comfort) ... Disease can be categorized based on extent of occurrence (endemic, epidemic, pandemic or sporadic); infectious or non-infectious; types of pathogen; transmitting agent.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Match the type of disease occurrence with its example: (a) Endemic (b) Epidemic (c) Pandemic (d) Sporadic - (1) AIDS (2) Malaria and cholera (3) Goitre in Sub-Himalayan regions (4) Influenza",
         "options": [
           "a-2, b-1, c-4, d-3",
           "a-2, b-4, c-3, d-1",
-          "a-4, b-1, c-3, d-2",
-          "a-3, b-4, c-1, d-2"
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-1, c-3, d-2"
         ],
         "explanation": "Endemic - certain geographical area, few people; epidemic - large number of people in a region at the same time; pandemic - global scale; sporadic - occasional."
       },
@@ -374,8 +374,8 @@
         "options": [
           "a-2, b-1, c-4, d-3",
           "a-2, b-4, c-3, d-1",
-          "a-4, b-1, c-3, d-2",
-          "a-3, b-4, c-1, d-2"
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-1, c-3, d-2"
         ],
         "explanation": "எண்டமிக் - குறிப்பிட்ட புவிப்பகுதி; எபிடெமிக் - ஒரு பகுதியில் ஒரே நேரத்தில் பலரை; பாண்டெமிக் - உலகளாவியது; ஸ்போராடிக் - அவ்வப்போது."
       }
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 262,
       "quote": "World Health Day - 7th April; World Malaria Day - 25th April; World AIDS Day - 1st December; World Anti-Tuberculosis Day - 24th March",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Match the day with its date: (a) World Health Day (b) World Malaria Day (c) World AIDS Day (d) World Anti-Tuberculosis Day - (1) 24 March (2) 7 April (3) 1 December (4) 25 April",
         "options": [
-          "a-4, b-1, c-3, d-2",
-          "a-3, b-4, c-1, d-2",
           "a-2, b-4, c-3, d-1",
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-1, c-3, d-2",
           "a-1, b-3, c-4, d-2"
         ],
         "explanation": "These days are listed in the book."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "தினத்தையும் தேதியையும் பொருத்துக: (a) உலக சுகாதார தினம் (b) உலக மலேரியா தினம் (c) உலக எய்ட்ஸ் தினம் (d) உலகக் காசநோய் எதிர்ப்பு தினம் - (1) மார்ச் 24 (2) ஏப்ரல் 7 (3) டிசம்பர் 1 (4) ஏப்ரல் 25",
         "options": [
-          "a-4, b-1, c-3, d-2",
-          "a-3, b-4, c-1, d-2",
           "a-2, b-4, c-3, d-1",
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-1, c-3, d-2",
           "a-1, b-3, c-4, d-2"
         ],
         "explanation": "இவை பாடநூலில் குறிப்பிடப்பட்டுள்ளன."
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 263,
       "quote": "Robert Koch (Father of Bacteriology) is the first German physician to study how pathogens cause diseases. In 1876, he showed that the disease called anthrax of sheep was due to Bacillus anthracis which exist in pastures in the form of protective spores.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Who is called the Father of Bacteriology?",
         "options": [
-          "Robert Koch",
-          "Louis Pasteur",
           "Edward Jenner",
+          "Louis Pasteur",
+          "Robert Koch",
           "Ronald Ross"
         ],
         "explanation": "In 1876 he showed that anthrax of sheep was due to Bacillus anthracis."
@@ -459,9 +459,9 @@
       "ta": {
         "q": "பாக்டீரியாவியலின் தந்தை எனப்படுபவர்",
         "options": [
-          "ராபர்ட் கோக்",
-          "லூயி பாஸ்டர்",
           "எட்வர்டு ஜென்னர்",
+          "லூயி பாஸ்டர்",
+          "ராபர்ட் கோக்",
           "ரொனால்டு ரோஸ்"
         ],
         "explanation": "1876 இல் செம்மறியாட்டு ஆந்த்ராக்ஸ் பேசில்லஸ் ஆந்த்ராசிஸால் ஏற்படுகிறது என நிறுவினார்."
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 263,
       "quote": "Harmful Effects of Microbes: Pathogens cause disease in two ways: tissue damage and toxin secretion.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Pathogens cause disease mainly by",
         "options": [
           "photosynthesis",
           "nitrogen fixation",
-          "producing antibodies",
-          "tissue damage and toxin secretion"
+          "tissue damage and toxin secretion",
+          "producing antibodies"
         ],
         "explanation": "For example, the TB bacterium damages lung cells and the hepatitis virus destroys liver tissue."
       },
@@ -490,8 +490,8 @@
         "options": [
           "ஒளிச்சேர்க்கை",
           "நைட்ரஜன் நிலைநிறுத்தல்",
-          "எதிர்ப்பொருள் உருவாக்கம்",
-          "திசுச் சேதமும் நச்சுச் சுரப்பும்"
+          "திசுச் சேதமும் நச்சுச் சுரப்பும்",
+          "எதிர்ப்பொருள் உருவாக்கம்"
         ],
         "explanation": "எ.கா: காசநோய்க் கிருமி நுரையீரல் செல்களைச் சிதைக்கிறது; ஹெபடைடிஸ் வைரஸ் கல்லீரல் திசுவை அழிக்கிறது."
       }
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 263,
       "quote": "Table 22.3 Airborne diseases caused by virus: Common Cold - Rhino virus; Influenza - Myxovirus; Measles - Rubeola virus; Mumps - Myxovirus parotitis; Chicken Pox - Varicella zoster virus",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Match the disease with its causative virus: (a) Common cold (b) Measles (c) Chicken pox (d) Influenza - (1) Rhino virus (2) Myxovirus (3) Rubeola virus (4) Varicella zoster virus",
         "options": [
           "a-2, b-4, c-1, d-3",
           "a-3, b-1, c-4, d-2",
-          "a-1, b-3, c-4, d-2",
-          "a-3, b-4, c-2, d-1"
+          "a-3, b-4, c-2, d-1",
+          "a-1, b-3, c-4, d-2"
         ],
         "explanation": "Mumps is caused by Myxovirus parotitis."
       },
@@ -519,8 +519,8 @@
         "options": [
           "a-2, b-4, c-1, d-3",
           "a-3, b-1, c-4, d-2",
-          "a-1, b-3, c-4, d-2",
-          "a-3, b-4, c-2, d-1"
+          "a-3, b-4, c-2, d-1",
+          "a-1, b-3, c-4, d-2"
         ],
         "explanation": "ஒற்றைத் தடிப்பு (மம்ப்ஸ்) மிக்ஸோ வைரஸ் பேரோடிட்டிஸால் ஏற்படுகிறது."
       }
@@ -561,14 +561,14 @@
       "bloom": "remember",
       "page": 265,
       "quote": "Vector is an agent that acts as an intermediate carrier of the pathogen. ... Some insect vector borne diseases are Malaria, Filaria, Chikungunya, Dengue, and the diseases transmitted through animals are Bird flu and Swine flu.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which of the following is a vector-borne disease?",
         "options": [
           "Tuberculosis",
-          "Mumps",
+          "Malaria",
           "Cholera",
-          "Malaria"
+          "Mumps"
         ],
         "explanation": "Vector-borne diseases include malaria, filaria, chikungunya and dengue."
       },
@@ -576,9 +576,9 @@
         "q": "பின்வருவனவற்றுள் கடத்தி வழிப் பரவும் நோய் எது?",
         "options": [
           "காசநோய்",
-          "மம்ப்ஸ்",
+          "மலேரியா",
           "காலரா",
-          "மலேரியா"
+          "மம்ப்ஸ்"
         ],
         "explanation": "மலேரியா, யானைக்கால், சிக்குன்குனியா, டெங்கு ஆகியவை கடத்தி வழி நோய்கள்."
       }
@@ -590,14 +590,14 @@
       "bloom": "remember",
       "page": 265,
       "quote": "Malaria is caused by protozoan parasite Plasmodium. Four species ... Approximately 300 million people around the world get infected with Malaria every year. ... female Anopheles mosquito ... Quinine drugs kills the stages of malaria parasite.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Malaria is caused by a",
         "options": [
           "virus",
           "bacterium",
-          "protozoan parasite, Plasmodium",
-          "fungus"
+          "fungus",
+          "protozoan parasite, Plasmodium"
         ],
         "explanation": "It spreads through the bite of the female Anopheles mosquito; fever subsides with profuse sweating."
       },
@@ -606,8 +606,8 @@
         "options": [
           "வைரஸ்",
           "பாக்டீரியம்",
-          "பிளாஸ்மோடியம் எனும் புரோட்டோசோவா ஒட்டுண்ணி",
-          "பூஞ்சை"
+          "பூஞ்சை",
+          "பிளாஸ்மோடியம் எனும் புரோட்டோசோவா ஒட்டுண்ணி"
         ],
         "explanation": "பெண் அனோஃபலஸ் கொசுக் கடியால் பரவுகிறது; அதிக வியர்வையுடன் காய்ச்சல் தணியும்."
       }
@@ -619,13 +619,13 @@
       "bloom": "remember",
       "page": 265,
       "quote": "Chikungunya is caused by virus. It is transmitted by the bite of infected Aedes aegypti mosquito during the day time. ... severe and persistent joint pain, body rashes, headache and fever. Incubation period is usually 2-12 days. Paracetamol is given.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Severe and persistent joint pain, rashes and fever are the main features of",
         "options": [
           "filariasis",
-          "chikungunya",
           "typhoid",
+          "chikungunya",
           "malaria"
         ],
         "explanation": "It is transmitted by the day-time bite of Aedes aegypti."
@@ -634,8 +634,8 @@
         "q": "கடுமையான, தொடர்ந்த மூட்டு வலி, தடிப்புகள், காய்ச்சல் ஆகியவை ______ இன் முக்கியப் பண்புகள்.",
         "options": [
           "யானைக்கால் நோய்",
-          "சிக்குன்குனியா",
           "டைபாய்டு",
+          "சிக்குன்குனியா",
           "மலேரியா"
         ],
         "explanation": "இது பகலில் கடிக்கும் ஏடிஸ் எஜிப்தி கொசுவால் பரவுகிறது."
@@ -648,24 +648,24 @@
       "bloom": "remember",
       "page": 265,
       "quote": "Dengue is known as break bone fever ... caused by virus. It is transmitted by Aedes aegypti mosquito. Incubation period is usually 5-6 days. ... haemorrhage, fall in blood platelet count. Paracetamol is given. An extraction of tender leaves of papaya and herbal drink Nilavembu Kudineer is given to dengue patients.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Dengue is also known as",
         "options": [
-          "break bone fever",
+          "whooping cough",
           "yellow fever",
           "elephantiasis",
-          "whooping cough"
+          "break bone fever"
         ],
         "explanation": "The name was given due to the intense joint and muscle pain; the blood platelet count falls."
       },
       "ta": {
         "q": "டெங்கு வேறு எப்பெயரால் அழைக்கப்படுகிறது?",
         "options": [
-          "எலும்புமுறிவுக் காய்ச்சல் (பிரேக் போன் ஃபீவர்)",
+          "கக்குவான் இருமல்",
           "மஞ்சள் காய்ச்சல்",
           "யானைக்கால்",
-          "கக்குவான் இருமல்"
+          "எலும்புமுறிவுக் காய்ச்சல் (பிரேக் போன் ஃபீவர்)"
         ],
         "explanation": "கடுமையான மூட்டு, தசை வலியால் இப்பெயர்; இரத்தத் தட்டுகள் குறையும்."
       }
@@ -677,14 +677,14 @@
       "bloom": "remember",
       "page": 266,
       "quote": "An extraction of tender leaves of papaya and herbal drink Nilavembu Kudineer is given to dengue patients. It is known to increase the blood platelet count. (Source: AYUSH)",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which herbal drink is given to dengue patients to increase the blood platelet count?",
         "options": [
           "Triphala",
           "Aloe juice",
-          "Tulsi tea",
-          "Nilavembu Kudineer"
+          "Nilavembu Kudineer",
+          "Tulsi tea"
         ],
         "explanation": "Extract of tender papaya leaves is also given (source: AYUSH)."
       },
@@ -693,8 +693,8 @@
         "options": [
           "திரிபலா",
           "கற்றாழைச் சாறு",
-          "துளசித் தேநீர்",
-          "நிலவேம்புக் குடிநீர்"
+          "நிலவேம்புக் குடிநீர்",
+          "துளசித் தேநீர்"
         ],
         "explanation": "இளம் பப்பாளி இலைச் சாறும் அளிக்கப்படுகிறது (ஆதாரம்: ஆயுஷ்)."
       }
@@ -706,13 +706,13 @@
       "bloom": "remember",
       "page": 266,
       "quote": "Filariasis ... caused by nematode worm Wuchereria bancrofti. ... adult worms ... in the lymphatic system. transmitted by the bite of infected Culex mosquito. ... chronic infection ... elephantiasis which affects the legs, scrotum and the arms.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Filariasis is caused by the nematode",
         "options": [
-          "Plasmodium vivax",
-          "Ascaris",
           "Wuchereria bancrofti",
+          "Ascaris",
+          "Plasmodium vivax",
           "Taenia solium"
         ],
         "explanation": "It is transmitted by Culex; the adult worms live in the lymphatic system and cause elephantiasis."
@@ -720,9 +720,9 @@
       "ta": {
         "q": "யானைக்கால் நோயை (ஃபைலேரியா) ஏற்படுத்தும் நூற்புழு",
         "options": [
-          "பிளாஸ்மோடியம் வைவாக்ஸ்",
-          "அஸ்காரிஸ்",
           "உச்செரேரியா பேங்கிராஃப்டி",
+          "அஸ்காரிஸ்",
+          "பிளாஸ்மோடியம் வைவாக்ஸ்",
           "டீனியா சோலியம்"
         ],
         "explanation": "கியூலக்ஸ் கொசு பரப்புகிறது; முதிர் புழுக்கள் நிணநீர் மண்டலத்தில் வாழ்ந்து யானைக்காலை ஏற்படுத்துகின்றன."
@@ -735,14 +735,14 @@
       "bloom": "remember",
       "page": 266,
       "quote": "Mosquitoes - Prevention and Control: nets, repellents; elimination of breeding places; avoid collection of water in uncovered containers; control of larvae by spraying oil on stagnated water; adult mosquitoes killed by spraying insecticides; citronella oil or eucalyptus oil on exposed skin.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Mosquito larvae in stagnant water bodies are controlled by",
         "options": [
           "adding salt",
-          "spraying oil on the water",
+          "adding sugar",
           "warming the water",
-          "adding sugar"
+          "spraying oil on the water"
         ],
         "explanation": "Adult mosquitoes can be killed by spraying insecticides; collection of water in uncovered containers should be avoided."
       },
@@ -750,9 +750,9 @@
         "q": "தேங்கிய நீரிலுள்ள கொசுப் புழுக்களைக் கட்டுப்படுத்தும் முறை",
         "options": [
           "உப்பிடுதல்",
-          "நீரில் எண்ணெய் தெளித்தல்",
+          "சர்க்கரை சேர்த்தல்",
           "நீரைச் சூடாக்குதல்",
-          "சர்க்கரை சேர்த்தல்"
+          "நீரில் எண்ணெய் தெளித்தல்"
         ],
         "explanation": "முதிர் கொசுக்களைப் பூச்சிக்கொல்லி தெளித்துக் கொல்லலாம்; மூடாத கலன்களில் நீர் தேங்குவதைத் தவிர்க்க வேண்டும்."
       }
@@ -793,24 +793,24 @@
       "bloom": "remember",
       "page": 266,
       "quote": "Swine flu prevention and control: administration of nasal spray vaccine; avoiding close contact with a person suffering from flu; intake of water and fruit juices; plenty of rest; washing hands.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which of the following is a preventive measure for swine flu?",
         "options": [
-          "Drinking unboiled water",
+          "Avoiding close contact with a person suffering from flu and washing hands",
           "Eating adulterated food",
           "Sharing needles",
-          "Avoiding close contact with a person suffering from flu and washing hands"
+          "Drinking unboiled water"
         ],
         "explanation": "Intake of water and fruit juices prevents dehydration; plenty of rest helps the body fight infection."
       },
       "ta": {
         "q": "பன்றிக் காய்ச்சலைத் தடுக்கும் நடவடிக்கை எது?",
         "options": [
-          "கொதிக்க வைக்காத நீரைக் குடித்தல்",
+          "காய்ச்சலுள்ளவரோடு நெருங்கிப் பழகுவதைத் தவிர்த்து கை கழுவுதல்",
           "கலப்பட உணவை உண்ணுதல்",
           "ஊசிகளைப் பகிர்தல்",
-          "காய்ச்சலுள்ளவரோடு நெருங்கிப் பழகுவதைத் தவிர்த்து கை கழுவுதல்"
+          "கொதிக்க வைக்காத நீரைக் குடித்தல்"
         ],
         "explanation": "நீரும் பழச்சாறும் நீர்வறட்சியைத் தடுக்கும்; ஓய்வு உடலுக்குத் தொற்றை எதிர்க்க உதவும்."
       }
@@ -822,14 +822,14 @@
       "bloom": "remember",
       "page": 266,
       "quote": "Avian influenza is a contagious bird disease caused by viruses. ... caused by Influenza Virus H5N1. The incubation period of the virus is 2-7 days.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Avian influenza (bird flu) is caused by the influenza virus",
         "options": [
           "H1N1",
           "HIV",
-          "H5N1",
-          "HBV"
+          "HBV",
+          "H5N1"
         ],
         "explanation": "The H5N1 virus emerged in 1996, was first identified in southern China and Hong Kong and first discovered in humans in 1997."
       },
@@ -838,8 +838,8 @@
         "options": [
           "H1N1",
           "HIV",
-          "H5N1",
-          "HBV"
+          "HBV",
+          "H5N1"
         ],
         "explanation": "H5N1 வைரஸ் 1996 இல் தோன்றி, தெற்கு சீனா, ஹாங்காங்கில் முதலில் அடையாளம் காணப்பட்டு 1997 இல் மனிதரில் கண்டறியப்பட்டது."
       }
@@ -851,13 +851,13 @@
       "bloom": "remember",
       "page": 267,
       "quote": "AIDS is caused by retrovirus (RNA virus) known as Human Immunodeficiency Virus (HIV). The virus attacks the white blood cells or lymphocytes and weakens the body's immunity.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "AIDS is caused by a retrovirus (an RNA virus) known as",
         "options": [
           "HBV",
-          "HIV (Human Immunodeficiency Virus)",
           "H1N1",
+          "HIV (Human Immunodeficiency Virus)",
           "HPV"
         ],
         "explanation": "The virus attacks lymphocytes and weakens the body's immunity or self-defence mechanism."
@@ -866,8 +866,8 @@
         "q": "எய்ட்ஸை ஏற்படுத்தும் ரெட்ரோ வைரஸ் (RNA வைரஸ்)",
         "options": [
           "HBV",
-          "HIV (மனித நோய் எதிர்ப்புக் குறைவு வைரஸ்)",
           "H1N1",
+          "HIV (மனித நோய் எதிர்ப்புக் குறைவு வைரஸ்)",
           "HPV"
         ],
         "explanation": "இவ்வைரஸ் நிணநீர்ச் செல்களைத் தாக்கி உடலின் நோய் எதிர்ப்பாற்றலைக் குறைக்கிறது."
@@ -938,14 +938,14 @@
       "bloom": "remember",
       "page": 268,
       "quote": "Immunization is a process of developing resistance to infections by administration of antigens or antibodies. Inoculation of vaccines into the body to prevent diseases is called vaccination. ... When a large proportion of a community is immunized against a disease, the rest of the people are benefited because the disease does not spread.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Inoculation of vaccines into the body to prevent diseases is called",
         "options": [
           "adulteration",
           "fermentation",
-          "vaccination",
-          "transpiration"
+          "transpiration",
+          "vaccination"
         ],
         "explanation": "Immunization is the process of developing resistance to infections by administration of antigens or antibodies."
       },
@@ -954,8 +954,8 @@
         "options": [
           "கலப்படம்",
           "நொதித்தல்",
-          "தடுப்பூசி போடுதல்",
-          "நீராவிப்போக்கு"
+          "நீராவிப்போக்கு",
+          "தடுப்பூசி போடுதல்"
         ],
         "explanation": "எதிர்ப்பொருள் அல்லது ஆன்டிஜெனை அளித்து நோய்த்தடுப்பாற்றலை வளர்ப்பது நோய்த்தடுப்பேற்றம்."
       }
@@ -967,14 +967,14 @@
       "bloom": "remember",
       "page": 268,
       "quote": "Live Vaccines: prepared from living organisms. The pathogen is weakened and administered. e.g. BCG vaccine, oral polio vaccine. Killed Vaccines: killed by heat or chemicals ... require a primary dose followed by a subsequent booster dose. e.g. Typhoid vaccine, cholera vaccine, pertussis vaccine.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "World of Microbes: Which of the following is a live (attenuated) vaccine?",
         "options": [
           "Typhoid vaccine",
-          "BCG",
+          "Cholera vaccine",
           "Pertussis vaccine",
-          "Cholera vaccine"
+          "BCG"
         ],
         "explanation": "Typhoid, cholera and pertussis vaccines are killed (inactivated) vaccines requiring a booster dose."
       },
@@ -982,9 +982,9 @@
         "q": "பின்வருவனவற்றுள் உயிருள்ள (வலுவிழந்த) தடுப்பூசி எது?",
         "options": [
           "டைபாய்டு தடுப்பூசி",
-          "BCG",
+          "காலரா தடுப்பூசி",
           "கக்குவான் இருமல் தடுப்பூசி",
-          "காலரா தடுப்பூசி"
+          "BCG"
         ],
         "explanation": "டைபாய்டு, காலரா, பெர்டுசிஸ் தடுப்பூசிகள் இறந்த (செயலிழந்த) தடுப்பூசிகள்; பூஸ்டர் தேவை."
       }
@@ -996,13 +996,13 @@
       "bloom": "remember",
       "page": 269,
       "quote": "Know your Scientist: Louis Pasteur is an 18th century French chemist and microbiologist. He coined the term vaccine.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "According to the book, who coined the term 'vaccine'?",
         "options": [
-          "Louis Pasteur",
-          "Edward Jenner",
           "Robert Koch",
+          "Edward Jenner",
+          "Louis Pasteur",
           "Alexander Fleming"
         ],
         "explanation": "The process of vaccination was introduced by Edward Jenner."
@@ -1010,9 +1010,9 @@
       "ta": {
         "q": "பாடநூலின்படி, 'தடுப்பூசி' (vaccine) என்ற சொல்லை உருவாக்கியவர்",
         "options": [
-          "லூயி பாஸ்டர்",
-          "எட்வர்டு ஜென்னர்",
           "ராபர்ட் கோக்",
+          "எட்வர்டு ஜென்னர்",
+          "லூயி பாஸ்டர்",
           "அலெக்சாண்டர் ஃபிளெமிங்"
         ],
         "explanation": "தடுப்பூசி போடும் செயல்முறையை அறிமுகப்படுத்தியவர் எட்வர்டு ஜென்னர்."
@@ -1025,24 +1025,24 @@
       "bloom": "remember",
       "page": 269,
       "quote": "Table 22.8 Immunization Schedule: New born - BCG; 15 days - Oral Polio; 6th, 10th, 14th week - DPT and Polio; 9-12 months - Measles; 15 months - 2 years - MMR; 2-3 years - TAB; 4-6 years - DT and Polio; 10th year - TT and TAB; 16th year - TT and TAB.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "According to the immunization schedule in the book, the measles vaccine is given at",
         "options": [
-          "new born",
+          "9-12 months",
           "16th year",
           "6th week",
-          "9-12 months"
+          "new born"
         ],
         "explanation": "MMR is given at 15 months - 2 years."
       },
       "ta": {
         "q": "பாடநூல் நோய்த்தடுப்பு அட்டவணையின்படி தட்டம்மை தடுப்பூசி அளிக்கப்படும் வயது",
         "options": [
-          "பிறந்தவுடன்",
+          "9-12 மாதங்கள்",
           "16 ஆம் வயது",
           "6 ஆம் வாரம்",
-          "9-12 மாதங்கள்"
+          "பிறந்தவுடன்"
         ],
         "explanation": "MMR 15 மாதம் முதல் 2 ஆண்டுகளில் அளிக்கப்படுகிறது."
       }
@@ -1083,13 +1083,13 @@
       "bloom": "remember",
       "page": 269,
       "quote": "The World Health Organization in the year 1970 has given a schedule of immunization for children.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The World Health Organization gave a schedule of immunization for children in the year",
         "options": [
           "1954",
-          "1970",
           "2009",
+          "1970",
           "1988"
         ],
         "explanation": "This schedule is followed in almost all countries."
@@ -1098,8 +1098,8 @@
         "q": "உலக சுகாதார அமைப்பு குழந்தைகளுக்கான நோய்த்தடுப்பு அட்டவணையை வழங்கிய ஆண்டு",
         "options": [
           "1954",
-          "1970",
           "2009",
+          "1970",
           "1988"
         ],
         "explanation": "இந்த அட்டவணை ஏறத்தாழ எல்லா நாடுகளிலும் பின்பற்றப்படுகிறது."

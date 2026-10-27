@@ -10,14 +10,14 @@
       "bloom": "understand",
       "page": 39,
       "quote": "If a substance is heated or cooled, the change in mass of that substance is a) positive b) negative c) zero d) none of the above",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "If a substance is heated or cooled, the change in its mass is",
         "options": [
           "equal to the heat supplied",
-          "positive",
+          "zero",
           "negative",
-          "zero"
+          "positive"
         ],
         "explanation": "Heating or cooling changes the temperature, volume or state but not the mass of the substance."
       },
@@ -25,9 +25,9 @@
         "q": "ஒரு பொருளை வெப்பப்படுத்தினாலோ குளிர்வித்தாலோ அப்பொருளின் நிறையில் ஏற்படும் மாற்றம்",
         "options": [
           "அளிக்கப்பட்ட வெப்பத்திற்குச் சமம்",
-          "நேர்க்குறி",
+          "சுழி",
           "எதிர்க்குறி",
-          "சுழி"
+          "நேர்க்குறி"
         ],
         "explanation": "வெப்பப்படுத்தல் அல்லது குளிர்வித்தலால் வெப்பநிலை, பருமன், நிலை மாறலாம்; நிறை மாறாது."
       }
@@ -68,14 +68,14 @@
       "bloom": "understand",
       "page": 40,
       "quote": "4. According to Boyle's law, the shape of the graph between pressure and reciprocal of volume is ________________",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "According to Boyle's law, the graph between pressure (P) and the reciprocal of volume (1/V) is",
         "options": [
           "a circle",
           "a parabola",
-          "a rectangular hyperbola",
-          "a straight line"
+          "a straight line",
+          "a rectangular hyperbola"
         ],
         "explanation": "PV = constant, so P is directly proportional to 1/V."
       },
@@ -84,8 +84,8 @@
         "options": [
           "வட்டம்",
           "பரவளையம்",
-          "செவ்வக அதிபரவளையம்",
-          "நேர்க்கோடு"
+          "நேர்க்கோடு",
+          "செவ்வக அதிபரவளையம்"
         ],
         "explanation": "PV = மாறிலி; எனவே P ஆனது 1/V-க்கு நேர்த்தகவில் இருக்கும்."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 40,
       "quote": "1. For a given heat in liquid, the apparent expansion is more than that of real expansion.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "For a given quantity of heat given to a liquid, which statement is correct?",
         "options": [
-          "Apparent expansion is always more than real expansion",
-          "Real and apparent expansions are always equal",
           "Real expansion is always more than apparent expansion",
+          "Real and apparent expansions are always equal",
+          "Apparent expansion is always more than real expansion",
           "Real expansion is zero"
         ],
         "explanation": "Real expansion = L3 − L2 is greater than apparent expansion = L3 − L1, because the container also expands."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "திரவத்திற்குக் குறிப்பிட்ட வெப்பம் அளிக்கும்போது சரியான கூற்று எது?",
         "options": [
-          "தோற்ற வெப்ப விரிவு எப்போதும் உண்மை வெப்ப விரிவை விட அதிகம்",
-          "உண்மை, தோற்ற வெப்ப விரிவுகள் எப்போதும் சமம்",
           "உண்மை வெப்ப விரிவு எப்போதும் தோற்ற வெப்ப விரிவை விட அதிகம்",
+          "உண்மை, தோற்ற வெப்ப விரிவுகள் எப்போதும் சமம்",
+          "தோற்ற வெப்ப விரிவு எப்போதும் உண்மை வெப்ப விரிவை விட அதிகம்",
           "உண்மை வெப்ப விரிவு சுழி"
         ],
         "explanation": "கொள்கலனும் விரிவடைவதால் உண்மை விரிவு (L3 − L2) தோற்ற விரிவை (L3 − L1) விட அதிகம்."
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 40,
       "quote": "Match: 1. Linear expansion (d) change in length 2. Superficial expansion (e) change in area 3. Cubical expansion (a) change in volume 5. Boltzmann constant (c) 1.381 × 10^-23 J K^-1",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Match the item in List I with List II:\n(a) Linear expansion\n(b) Superficial expansion\n(c) Cubical expansion\n(d) Boltzmann constant\n— \n(1) Change in volume\n(2) 1.381 × 10⁻²³ J K⁻¹\n(3) Change in length\n(4) Change in area",
         "options": [
-          "a-1, b-4, c-3, d-2",
           "a-3, b-4, c-1, d-2",
+          "a-1, b-4, c-3, d-2",
           "a-1, b-4, c-2, d-3",
           "a-3, b-2, c-4, d-1"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "பட்டியல் I-ஐப் பட்டியல் II உடன் பொருத்துக:\n(a) நீள் வெப்ப விரிவு\n(b) பரப்பு வெப்ப விரிவு\n(c) பரும வெப்ப விரிவு\n(d) போல்ட்ஸ்மேன் மாறிலி\n— \n(1) பருமனில் மாற்றம்\n(2) 1.381 × 10⁻²³ J K⁻¹\n(3) நீளத்தில் மாற்றம்\n(4) பரப்பில் மாற்றம்",
         "options": [
-          "a-1, b-4, c-3, d-2",
           "a-3, b-4, c-1, d-2",
+          "a-1, b-4, c-3, d-2",
           "a-1, b-4, c-2, d-3",
           "a-3, b-2, c-4, d-1"
         ],
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 40,
       "quote": "2. Distinguish between linear, arial or superficial expansion.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "In which type of expansion does the area of a solid increase on heating?",
         "options": [
           "Cubical expansion",
           "Real expansion",
-          "Linear expansion",
-          "Superficial (areal) expansion"
+          "Superficial (areal) expansion",
+          "Linear expansion"
         ],
         "explanation": "Linear expansion – increase in length; superficial – increase in area; cubical – increase in volume."
       },
@@ -316,8 +316,8 @@
         "options": [
           "பரும வெப்ப விரிவு",
           "உண்மை வெப்ப விரிவு",
-          "நீள் வெப்ப விரிவு",
-          "பரப்பு வெப்ப விரிவு"
+          "பரப்பு வெப்ப விரிவு",
+          "நீள் வெப்ப விரிவு"
         ],
         "explanation": "நீள் விரிவு – நீளம் அதிகரித்தல்; பரப்பு விரிவு – பரப்பு அதிகரித்தல்; பரும விரிவு – பருமன் அதிகரித்தல்."
       }
@@ -329,12 +329,12 @@
       "bloom": "remember",
       "page": 40,
       "quote": "3. What is co-efficient of cubical expansion?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The coefficient of cubical expansion of a solid is defined as the ratio of the",
         "options": [
-          "increase in length per degree rise in temperature to its unit length",
           "increase in volume per degree rise in temperature to its unit volume",
+          "increase in length per degree rise in temperature to its unit length",
           "increase in area per degree rise in temperature to its unit area",
           "volume of the solid to its mass"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "திடப்பொருளின் பரும வெப்ப விரிவுக் குணகம் என்பது",
         "options": [
-          "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு ஏற்படும் நீள அதிகரிப்பிற்கும் ஓரலகு நீளத்திற்கும் உள்ள தகவு",
           "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு ஏற்படும் பருமன் அதிகரிப்பிற்கும் அதன் ஓரலகு பருமனுக்கும் உள்ள தகவு",
+          "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு ஏற்படும் நீள அதிகரிப்பிற்கும் ஓரலகு நீளத்திற்கும் உள்ள தகவு",
           "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு ஏற்படும் பரப்பு அதிகரிப்பிற்கும் ஓரலகு பரப்பிற்கும் உள்ள தகவு",
           "பருமனுக்கும் நிறைக்கும் உள்ள தகவு"
         ],
@@ -358,12 +358,12 @@
       "bloom": "remember",
       "page": 40,
       "quote": "4. State Boyle's law",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "At constant temperature, the pressure of a fixed mass of gas is made four times. According to Boyle's law its volume becomes",
         "options": [
-          "one-fourth of the initial volume",
           "the same as the initial volume",
+          "one-fourth of the initial volume",
           "half of the initial volume",
           "four times the initial volume"
         ],
@@ -372,8 +372,8 @@
       "ta": {
         "q": "மாறா வெப்பநிலையில் குறிப்பிட்ட நிறையுள்ள வாயுவின் அழுத்தம் 4 மடங்காக்கப்பட்டால், பாயில் விதிப்படி அதன் பருமன்",
         "options": [
-          "தொடக்கப் பருமனில் நான்கில் ஒரு பங்காகும்",
           "மாறாது",
+          "தொடக்கப் பருமனில் நான்கில் ஒரு பங்காகும்",
           "தொடக்கப் பருமனில் பாதியாகும்",
           "தொடக்கப் பருமனைப் போல் 4 மடங்காகும்"
         ],
@@ -416,24 +416,24 @@
       "bloom": "remember",
       "page": 40,
       "quote": "6. Distinguish between ideal gas and real gas.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which statement distinguishes an ideal gas from a real gas?",
         "options": [
-          "A real gas obeys all gas laws at all pressures",
+          "The atoms or molecules of an ideal gas do not interact with one another",
           "The molecules of an ideal gas attract each other with a definite force",
           "An ideal gas exists in nature",
-          "The atoms or molecules of an ideal gas do not interact with one another"
+          "A real gas obeys all gas laws at all pressures"
         ],
         "explanation": "Real-gas molecules interact; a real gas behaves ideally at high temperature or low pressure. In practice no gas is perfectly ideal."
       },
       "ta": {
         "q": "நல்லியல்பு வாயுவையும் மெய்வாயுவையும் வேறுபடுத்தும் கூற்று எது?",
         "options": [
-          "மெய்வாயு எல்லா அழுத்தத்திலும் வாயு விதிகளுக்கு உட்படும்",
+          "நல்லியல்பு வாயுவின் அணுக்கள் அல்லது மூலக்கூறுகள் ஒன்றோடொன்று இடைவினை புரிவதில்லை",
           "நல்லியல்பு வாயுவின் மூலக்கூறுகள் குறிப்பிட்ட விசையுடன் ஒன்றையொன்று கவர்கின்றன",
           "நல்லியல்பு வாயு இயற்கையில் உள்ளது",
-          "நல்லியல்பு வாயுவின் அணுக்கள் அல்லது மூலக்கூறுகள் ஒன்றோடொன்று இடைவினை புரிவதில்லை"
+          "மெய்வாயு எல்லா அழுத்தத்திலும் வாயு விதிகளுக்கு உட்படும்"
         ],
         "explanation": "மெய்வாயு மூலக்கூறுகள் இடைவினை புரியும்; உயர் வெப்பநிலை, குறைந்த அழுத்தத்தில் மெய்வாயு நல்லியல்பு வாயுவாகச் செயல்படும்."
       }
@@ -445,14 +445,14 @@
       "bloom": "remember",
       "page": 40,
       "quote": "7. What is co-efficient of real expansion?",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The coefficient of real expansion of a liquid is the ratio of the",
         "options": [
           "rise in volume of the container to that of the liquid",
           "rise in length of the liquid column to its mass",
-          "true rise in volume of the liquid per degree rise in temperature to its unit volume",
-          "apparent rise in volume of the liquid per degree rise in temperature to its unit volume"
+          "apparent rise in volume of the liquid per degree rise in temperature to its unit volume",
+          "true rise in volume of the liquid per degree rise in temperature to its unit volume"
         ],
         "explanation": "SI unit is K⁻¹; for the apparent coefficient the container's expansion is ignored."
       },
@@ -461,8 +461,8 @@
         "options": [
           "கொள்கலனின் பருமன் உயர்விற்கும் திரவத்தின் பருமன் உயர்விற்கும் உள்ள தகவு",
           "திரவ நிரலின் நீள உயர்விற்கும் நிறைக்கும் உள்ள தகவு",
-          "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு திரவத்தின் உண்மையான பருமன் அதிகரிப்பிற்கும் அதன் ஓரலகு பருமனுக்கும் உள்ள தகவு",
-          "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு திரவத்தின் தோற்றப் பருமன் அதிகரிப்பிற்கும் ஓரலகு பருமனுக்கும் உள்ள தகவு"
+          "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு திரவத்தின் தோற்றப் பருமன் அதிகரிப்பிற்கும் ஓரலகு பருமனுக்கும் உள்ள தகவு",
+          "ஒரு டிகிரி வெப்பநிலை உயர்வுக்கு திரவத்தின் உண்மையான பருமன் அதிகரிப்பிற்கும் அதன் ஓரலகு பருமனுக்கும் உள்ள தகவு"
         ],
         "explanation": "SI அலகு K⁻¹; தோற்ற விரிவுக் குணகத்தில் கொள்கலனின் விரிவு கணக்கில் கொள்ளப்படுவதில்லை."
       }

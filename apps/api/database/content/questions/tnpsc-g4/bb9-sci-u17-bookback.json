@@ -10,12 +10,12 @@
       "bloom": "remember",
       "page": 208,
       "quote": "I. 1. Find the group having only marine members. (a) Mollusca (b) Coelenterata (c) Echinodermata (d) Porifera",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which group has only marine members?",
         "options": [
-          "Echinodermata",
           "Mollusca",
+          "Echinodermata",
           "Coelenterata",
           "Porifera"
         ],
@@ -24,8 +24,8 @@
       "ta": {
         "q": "கடலில் மட்டுமே வாழும் உயிரிகளைக் கொண்ட தொகுதி எது?",
         "options": [
-          "முட்தோலிகள்",
           "மெல்லுடலிகள்",
+          "முட்தோலிகள்",
           "குழியுடலிகள்",
           "துளையுடலிகள்"
         ],
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 208,
       "quote": "I. 3. Which one of the following pairs is not a poikilothermic animal? (a) Fishes and Amphibians (b) Amphibians and Aves (c) Aves and Mammals (d) Reptiles and Mammals",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which pair is NOT poikilothermic (cold-blooded)?",
         "options": [
-          "Fishes and Amphibians",
-          "Amphibians and Reptiles",
           "Aves and Mammals",
+          "Amphibians and Reptiles",
+          "Fishes and Amphibians",
           "Fishes and Reptiles"
         ],
         "explanation": "Birds (Aves) and mammals are homeothermic (warm-blooded); fishes, amphibians and reptiles are poikilothermic."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "குளிர் இரத்தப் பிராணிகள் (மாறுபடும் உடல் வெப்பநிலை) அல்லாத இணை எது?",
         "options": [
-          "மீன்களும் இருவாழ்விகளும்",
-          "இருவாழ்விகளும் ஊர்வனவும்",
           "பறவைகளும் பாலூட்டிகளும்",
+          "இருவாழ்விகளும் ஊர்வனவும்",
+          "மீன்களும் இருவாழ்விகளும்",
           "மீன்களும் ஊர்வனவும்"
         ],
         "explanation": "பறவைகளும் பாலூட்டிகளும் வெப்ப இரத்தப் பிராணிகள்; மீன், இருவாழ்வி, ஊர்வன குளிர் இரத்தப் பிராணிகள்."
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 208,
       "quote": "I. 4. Identify the animal having four chambered heart. (a) Lizard (b) Snake (c) Crocodile (d) Calotes",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Animal Kingdom: Which reptile has a four-chambered heart?",
         "options": [
-          "Lizard",
-          "Snake",
           "Crocodile",
+          "Snake",
+          "Lizard",
           "Calotes"
         ],
         "explanation": "Reptiles have a three-chambered heart with the exception of crocodiles."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "நான்கு அறைகள் கொண்ட இதயமுடைய விலங்கு எது?",
         "options": [
-          "பல்லி",
-          "பாம்பு",
           "முதலை",
+          "பாம்பு",
+          "பல்லி",
           "ஓணான்"
         ],
         "explanation": "ஊர்வனவற்றில் முதலையைத் தவிர மற்றவற்றிற்கு மூன்று அறை இதயம் உண்டு."
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 208,
       "quote": "I. 5. The animal without skull is (a) Acrania (b) Acephalia (c) Apteria (d) Acoelomate",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The animal without a skull is described as",
         "options": [
-          "Acrania",
-          "Acephalia",
           "Apteria",
+          "Acephalia",
+          "Acrania",
           "Acoelomate"
         ],
         "explanation": "Acrania refers to chordates lacking a skull (cranium), e.g. Amphioxus."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "மண்டை ஓடு இல்லாத விலங்கு",
         "options": [
-          "அக்ரேனியா",
-          "அசெபாலியா",
           "ஆப்டீரியா",
+          "அசெபாலியா",
+          "அக்ரேனியா",
           "அசீலோமேட்"
         ],
         "explanation": "மண்டை ஓடு (cranium) இல்லாத முதுகுநாணிகள் அக்ரேனியா எனப்படும்; எ.கா: ஆம்பியாக்சஸ்."
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 208,
       "quote": "I. 7. Poikilothermic organisms are (a) Fish, Frog, Lizard, Man (b) Fish, Frog, Lizard, Cow (c) Fish, Frog, Lizard, Snake (d) Fish, Frog, Lizard, Crow",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Poikilothermic organisms are",
         "options": [
           "fish, frog, lizard, man",
-          "fish, frog, lizard, crow",
+          "fish, frog, lizard, snake",
           "fish, frog, lizard, cow",
-          "fish, frog, lizard, snake"
+          "fish, frog, lizard, crow"
         ],
         "explanation": "Man, cow and crow are warm-blooded (homeothermic)."
       },
@@ -170,9 +170,9 @@
         "q": "குளிர் இரத்த (உடல் வெப்பநிலை மாறும்) உயிரிகள்",
         "options": [
           "மீன், தவளை, பல்லி, மனிதன்",
-          "மீன், தவளை, பல்லி, காகம்",
+          "மீன், தவளை, பல்லி, பாம்பு",
           "மீன், தவளை, பல்லி, பசு",
-          "மீன், தவளை, பல்லி, பாம்பு"
+          "மீன், தவளை, பல்லி, காகம்"
         ],
         "explanation": "மனிதன், பசு, காகம் ஆகியவை வெப்ப இரத்தப் பிராணிகள்."
       }
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 208,
       "quote": "II. 3. Skates are ______ fishes.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Skates are",
         "options": [
           "bony fishes",
-          "cartilaginous fishes",
+          "jawless fishes",
           "amphibians",
-          "jawless fishes"
+          "cartilaginous fishes"
         ],
         "explanation": "Cartilaginous fishes (sharks, skates) have a skeleton of cartilage; bony fishes (carps, mullets) have a bony skeleton."
       },
@@ -315,9 +315,9 @@
         "q": "ஸ்கேட் மீன்கள்",
         "options": [
           "எலும்பு மீன்கள்",
-          "குருத்தெலும்பு மீன்கள்",
+          "தாடையற்ற மீன்கள்",
           "இருவாழ்விகள்",
-          "தாடையற்ற மீன்கள்"
+          "குருத்தெலும்பு மீன்கள்"
         ],
         "explanation": "சுறா, ஸ்கேட் குருத்தெலும்பு மீன்கள்; கெண்டை, கடமா எலும்பு மீன்கள்."
       }
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 208,
       "quote": "II. 4. The larvae of an amphibian is ______.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The larva of an amphibian such as a frog is the",
         "options": [
-          "tadpole",
-          "caterpillar",
           "maggot",
+          "caterpillar",
+          "tadpole",
           "bipinnaria"
         ],
         "explanation": "The tadpole larva transforms into an adult."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "இருவாழ்வியின் (தவளை) இளம் உயிரி",
         "options": [
-          "தலைப்பிரட்டை",
-          "கம்பளிப்புழு",
           "புழு (மேகட்)",
+          "கம்பளிப்புழு",
+          "தலைப்பிரட்டை",
           "பை பின்னாரியா"
         ],
         "explanation": "தலைப்பிரட்டை உருமாற்றம் அடைந்து முதிர்உயிரியாகிறது."
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 208,
       "quote": "II. 5. ______ are jawless vertebrates.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Jawless vertebrates belong to the class",
         "options": [
           "Pisces",
-          "Mammalia",
+          "Cyclostomata",
           "Aves",
-          "Cyclostomata"
+          "Mammalia"
         ],
         "explanation": "Cyclostomes (hagfish, lamprey) have a circular mouth not bounded by jaws."
       },
@@ -373,9 +373,9 @@
         "q": "தாடையற்ற முதுகெலும்பிகள்",
         "options": [
           "மீன்கள்",
-          "பாலூட்டிகள்",
+          "வட்டவாயுடையவை (சைக்ளோஸ்டோமேட்டா)",
           "பறவைகள்",
-          "வட்டவாயுடையவை (சைக்ளோஸ்டோமேட்டா)"
+          "பாலூட்டிகள்"
         ],
         "explanation": "ஹேக் மீன், லாம்ப்ரே ஆகியவற்றிற்கு தாடையால் சூழப்படாத வட்ட வடிவ வாய் உண்டு."
       }
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 208,
       "quote": "II. 6. ______ is the unique characteristic feature of mammal.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The unique characteristic feature of mammals is the",
         "options": [
           "feathers",
           "scales",
-          "mammary glands",
-          "gill slits"
+          "gill slits",
+          "mammary glands"
         ],
         "explanation": "Mammary glands (with hair) are found only in mammals; the book's answer, placenta, is absent in egg-laying monotremes."
       },
@@ -403,8 +403,8 @@
         "options": [
           "இறகுகள்",
           "செதில்கள்",
-          "பால் சுரப்பிகள்",
-          "செவுள் பிளவுகள்"
+          "செவுள் பிளவுகள்",
+          "பால் சுரப்பிகள்"
         ],
         "explanation": "பால் சுரப்பிகள் (உரோமத்துடன்) பாலூட்டிகளுக்கு மட்டுமே உரியவை; பாடநூல் கூறும் நஞ்சுக்கொடி முட்டையிடும் பாலூட்டிகளில் இல்லை."
       }
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 208,
       "quote": "III. 1. Canal system is seen in coelenterates.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "In which phylum is a canal system seen?",
         "options": [
           "Coelenterata",
-          "Porifera",
+          "Echinodermata",
           "Annelida",
-          "Echinodermata"
+          "Porifera"
         ],
         "explanation": "The book's statement is false: the canal system is seen in Porifera (sponges), in which water enters through ostia and circulates food and oxygen."
       },
@@ -431,9 +431,9 @@
         "q": "நீர்க்கால்வாய் அமைப்பு (கால்வாய் மண்டலம்) காணப்படும் தொகுதி",
         "options": [
           "குழியுடலிகள்",
-          "துளையுடலிகள்",
+          "முட்தோலிகள்",
           "வளைதசைப் புழுக்கள்",
-          "முட்தோலிகள்"
+          "துளையுடலிகள்"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; கால்வாய் மண்டலம் துளையுடலிகளில் (கடற்பஞ்சு) உள்ளது; ஓஸ்டியா வழியாக நீர் நுழைந்து உணவு, ஆக்ஸிஜனைக் கொண்டு செல்கிறது."
       }
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 208,
       "quote": "III. 3. Trachea are the respiratory organ of Annelida.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Respiration through tracheae (air tubes) occurs in",
         "options": [
           "Annelida",
           "Porifera",
-          "Mollusca",
-          "Arthropoda"
+          "Arthropoda",
+          "Mollusca"
         ],
         "explanation": "The book's statement is false: tracheae are respiratory organs of arthropods (which also use body surface or gills); annelids breathe through the moist thin cuticle."
       },
@@ -490,8 +490,8 @@
         "options": [
           "வளைதசைப் புழுக்களில்",
           "துளையுடலிகளில்",
-          "மெல்லுடலிகளில்",
-          "கணுக்காலிகளில்"
+          "கணுக்காலிகளில்",
+          "மெல்லுடலிகளில்"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; டிரக்கியா கணுக்காலிகளின் சுவாச உறுப்பு (உடல்மேற்பரப்பு, செவுள்களாலும் சுவாசிப்பவை); வளைதசைப் புழுக்கள் ஈரமான மெல்லிய புறத்தோல் வழியாகச் சுவாசிக்கின்றன."
       }
@@ -590,12 +590,12 @@
       "bloom": "remember",
       "page": 209,
       "quote": "III. 9. Female mammals have mammary glands.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Female mammals possess mammary glands, which",
         "options": [
-          "secrete oil only",
           "secrete milk for feeding the young ones",
+          "secrete oil only",
           "help in flying",
           "produce eggs"
         ],
@@ -604,8 +604,8 @@
       "ta": {
         "q": "பெண் பாலூட்டிகளில் உள்ள பால் சுரப்பிகள்",
         "options": [
-          "எண்ணெயை மட்டும் சுரப்பவை",
           "குட்டிகளுக்குப் பாலூட்டப் பால் சுரப்பவை",
+          "எண்ணெயை மட்டும் சுரப்பவை",
           "பறக்க உதவுபவை",
           "முட்டைகளை உற்பத்தி செய்பவை"
         ],
@@ -619,12 +619,12 @@
       "bloom": "remember",
       "page": 209,
       "quote": "IV. Match the following. (A) Coelenterata (B) Platyhelminthes (C) Echinodermata (D) Mollusca - (i) Snail (ii) Starfish (iii) Tapeworm (iv) Hydra",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Match the phylum with its example: (a) Coelenterata (b) Platyhelminthes (c) Echinodermata (d) Mollusca - (1) Star fish (2) Snail (3) Hydra (4) Tapeworm",
         "options": [
-          "a-3, b-4, c-1, d-2",
           "a-3, b-1, c-4, d-2",
+          "a-3, b-4, c-1, d-2",
           "a-3, b-4, c-2, d-1",
           "a-2, b-1, c-4, d-3"
         ],
@@ -633,8 +633,8 @@
       "ta": {
         "q": "தொகுதியையும் எடுத்துக்காட்டையும் பொருத்துக: (a) குழியுடலிகள் (b) தட்டைப் புழுக்கள் (c) முட்தோலிகள் (d) மெல்லுடலிகள் - (1) நட்சத்திர மீன் (2) நத்தை (3) ஹைட்ரா (4) நாடாப்புழு",
         "options": [
-          "a-3, b-4, c-1, d-2",
           "a-3, b-1, c-4, d-2",
+          "a-3, b-4, c-1, d-2",
           "a-3, b-4, c-2, d-1",
           "a-2, b-1, c-4, d-3"
         ],
@@ -648,24 +648,24 @@
       "bloom": "remember",
       "page": 209,
       "quote": "V. 1. Define taxonomy.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Taxonomy is the",
         "options": [
-          "study of fossils",
+          "science of classification",
           "study of heredity",
           "study of cells",
-          "science of classification"
+          "study of fossils"
         ],
         "explanation": "It makes the study of the wide variety of organisms easier."
       },
       "ta": {
         "q": "வகைப்பாட்டியல் (டாக்சானமி) என்பது",
         "options": [
-          "புதைபடிவங்களைப் பற்றிய படிப்பு",
+          "வகைப்படுத்தும் அறிவியல்",
           "பரம்பரைப் பண்பைப் பற்றிய படிப்பு",
           "செல்களைப் பற்றிய படிப்பு",
-          "வகைப்படுத்தும் அறிவியல்"
+          "புதைபடிவங்களைப் பற்றிய படிப்பு"
         ],
         "explanation": "பல்வகை உயிரினங்களைப் படிப்பதை எளிதாக்குகிறது."
       }
@@ -735,24 +735,24 @@
       "bloom": "remember",
       "page": 209,
       "quote": "V. 4. List the respiratory organs of amphibians.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The respiratory organs of amphibians are",
         "options": [
-          "gills, lungs, skin and buccopharynx",
+          "air sacs",
           "only gills",
           "tracheae and book lungs",
-          "air sacs"
+          "gills, lungs, skin and buccopharynx"
         ],
         "explanation": "Amphibians have a dual adaptation to live in both land and water."
       },
       "ta": {
         "q": "இருவாழ்விகளின் சுவாச உறுப்புகள்",
         "options": [
-          "செவுள்கள், நுரையீரல், தோல், வாய்-தொண்டைக் குழி",
+          "காற்றுப்பைகள்",
           "செவுள்கள் மட்டும்",
           "டிரக்கியா, புத்தக நுரையீரல்",
-          "காற்றுப்பைகள்"
+          "செவுள்கள், நுரையீரல், தோல், வாய்-தொண்டைக் குழி"
         ],
         "explanation": "இருவாழ்விகள் நிலத்திலும் நீரிலும் வாழத் தகவமைந்தவை."
       }
@@ -764,24 +764,24 @@
       "bloom": "remember",
       "page": 209,
       "quote": "V. 5. How does locomotion take place in starfish?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Locomotion in a star fish takes place by",
         "options": [
-          "parapodia",
+          "tube feet",
           "wings",
           "fins",
-          "tube feet"
+          "parapodia"
         ],
         "explanation": "Echinoderms have a fluid-filled water vascular system; locomotion occurs by tube feet."
       },
       "ta": {
         "q": "நட்சத்திர மீனில் இடப்பெயர்ச்சி நடைபெறுவது",
         "options": [
-          "பாரோபோடியங்களால்",
+          "குழல் கால்களால்",
           "இறக்கைகளால்",
           "துடுப்புகளால்",
-          "குழல் கால்களால்"
+          "பாரோபோடியங்களால்"
         ],
         "explanation": "முட்தோலிகளில் நீர்க்குழல் மண்டலம் உள்ளது; குழல் கால்கள் மூலம் இடப்பெயர்ச்சி."
       }
@@ -793,13 +793,13 @@
       "bloom": "remember",
       "page": 209,
       "quote": "V. 6. Are jellyfish and starfish similar to fishes? If no justify the answer.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Jelly fish and star fish are not true fishes because",
         "options": [
           "they live on land",
-          "they are birds",
           "they are invertebrates without a backbone, unlike fishes which are vertebrates",
+          "they are birds",
           "they are mammals"
         ],
         "explanation": "Jelly fish are coelenterates and star fish are echinoderms; true fishes are chordates (class Pisces) with a vertebral column."
@@ -808,8 +808,8 @@
         "q": "ஜெல்லி மீனும் நட்சத்திர மீனும் உண்மையான மீன்கள் அல்ல, ஏனெனில்",
         "options": [
           "அவை நிலத்தில் வாழ்பவை",
-          "அவை பறவைகள்",
           "அவை முதுகெலும்பற்ற உயிரிகள்; மீன்கள் முதுகெலும்பிகள்",
+          "அவை பறவைகள்",
           "அவை பாலூட்டிகள்"
         ],
         "explanation": "ஜெல்லி மீன் குழியுடலி; நட்சத்திர மீன் முட்தோலி; உண்மை மீன்கள் முதுகெலும்புள்ள முதுகுநாணிகள்."
@@ -851,12 +851,12 @@
       "bloom": "remember",
       "page": 209,
       "quote": "VI. 6. How are the limbs of the birds adapted for avian life?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "In birds, the forelimbs and hindlimbs are respectively modified for",
         "options": [
-          "swimming; flight",
           "flight; walking, perching or swimming",
+          "swimming; flight",
           "walking; flight",
           "burrowing; swimming"
         ],
@@ -865,8 +865,8 @@
       "ta": {
         "q": "பறவைகளின் முன்னங்கால்களும் பின்னங்கால்களும் முறையே தகவமைந்திருப்பது",
         "options": [
-          "நீந்த; பறக்க",
           "பறக்க; நடக்க, அமர அல்லது நீந்த",
+          "நீந்த; பறக்க",
           "நடக்க; பறக்க",
           "வளை தோண்ட; நீந்த"
         ],
@@ -880,14 +880,14 @@
       "bloom": "remember",
       "page": 209,
       "quote": "VI. 4. List five characteristic features of fishes.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which statement about fishes is correct?",
         "options": [
           "They are warm-blooded",
-          "They are poikilothermic aquatic vertebrates with jaws, scales and gills",
+          "They have a three-chambered heart",
           "They have lungs and feathers",
-          "They have a three-chambered heart"
+          "They are poikilothermic aquatic vertebrates with jaws, scales and gills"
         ],
         "explanation": "Fishes have a streamlined body with paired and median fins, scales, gill respiration and a two-chambered heart."
       },
@@ -895,9 +895,9 @@
         "q": "மீன்களைப் பற்றிய சரியான கூற்று எது?",
         "options": [
           "வெப்ப இரத்தப் பிராணிகள்",
-          "தாடையுடைய, செதில்களும் செவுள்களும் கொண்ட குளிர் இரத்த நீர்வாழ் முதுகெலும்பிகள்",
+          "மூன்று அறை இதயம் உடையவை",
           "நுரையீரலும் இறகுகளும் உடையவை",
-          "மூன்று அறை இதயம் உடையவை"
+          "தாடையுடைய, செதில்களும் செவுள்களும் கொண்ட குளிர் இரத்த நீர்வாழ் முதுகெலும்பிகள்"
         ],
         "explanation": "மீன்களின் உடல் நீரோட்ட வடிவம்; துடுப்புகள், செதில்கள், செவுள் சுவாசம், இரு அறை இதயம் உண்டு."
       }

@@ -10,13 +10,13 @@
       "bloom": "understand",
       "page": 4,
       "quote": "More to Know: Mass of the other liquids vary with their density.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Why does 1 litre of oil not have a mass of exactly 1 kg although 1 litre of water does?",
         "options": [
-          "The mass of a liquid depends on its density",
-          "Oil has no mass",
           "Water is the only liquid with a mass",
+          "Oil has no mass",
+          "The mass of a liquid depends on its density",
           "Mass does not depend on volume"
         ],
         "explanation": "Mass of other liquids varies with their density; the 1 ml = 1 g relation holds for water."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "1 லிட்டர் நீரின் நிறை 1 கி.கி; ஆனால் 1 லிட்டர் எண்ணெயின் நிறை அவ்வாறு இல்லை. ஏன்?",
         "options": [
-          "திரவத்தின் நிறை அதன் அடர்த்தியைப் பொறுத்தது",
-          "எண்ணெய்க்கு நிறை இல்லை",
           "நீருக்கு மட்டுமே நிறை உண்டு",
+          "எண்ணெய்க்கு நிறை இல்லை",
+          "திரவத்தின் நிறை அதன் அடர்த்தியைப் பொறுத்தது",
           "நிறை பருமனைச் சார்ந்தது அல்ல"
         ],
         "explanation": "மற்ற திரவங்களின் நிறை அவற்றின் அடர்த்தியைப் பொறுத்து மாறும்."
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 8,
       "quote": "The shell of an egg is 12% of its mass. A blue whale can weigh as much as 30 elephants and it is as long as 3 large tour buses.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The shell of an egg forms what percentage of its mass?",
         "options": [
-          "5%",
-          "25%",
           "12%",
+          "25%",
+          "5%",
           "40%"
         ],
         "explanation": "The book notes that an egg shell is 12% of its mass."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "ஒரு முட்டையின் ஓடு அதன் நிறையில் எத்தனை சதவீதம்?",
         "options": [
-          "5%",
-          "25%",
           "12%",
+          "25%",
+          "5%",
           "40%"
         ],
         "explanation": "முட்டையின் ஓடு அதன் எடையில் 12% ஆகும்."
@@ -68,12 +68,12 @@
       "bloom": "remember",
       "page": 8,
       "quote": "A blue whale can weigh as much as 30 elephants and it is as long as 3 large tour buses.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "According to the book, a blue whale can weigh as much as",
         "options": [
-          "30 elephants",
           "300 elephants",
+          "30 elephants",
           "3 buses",
           "3 elephants"
         ],
@@ -82,8 +82,8 @@
       "ta": {
         "q": "நூலின்படி நீலத் திமிங்கலத்தின் எடை எதற்குச் சமம்?",
         "options": [
-          "30 யானைகள்",
           "300 யானைகள்",
+          "30 யானைகள்",
           "3 பேருந்துகள்",
           "3 யானைகள்"
         ],
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 3,
       "quote": "Astronomical unit (AU): It is the mean distance of the centre of the Sun from the centre of the Earth. 1 AU = 1.496 × 10^11 m",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "One astronomical unit (AU) is the",
         "options": [
           "distance travelled by light in one year",
           "distance of the nearest star",
-          "mean distance between the centres of the Sun and the Earth",
-          "radius of the Sun"
+          "radius of the Sun",
+          "mean distance between the centres of the Sun and the Earth"
         ],
         "explanation": "1 AU = 1.496 × 10^11 m, the mean Sun-Earth distance."
       },
@@ -142,8 +142,8 @@
         "options": [
           "ஒளி ஓராண்டில் கடக்கும் தொலைவு",
           "மிக அருகிலுள்ள விண்மீனின் தொலைவு",
-          "சூரியனின் மையத்திற்கும் பூமியின் மையத்திற்கும் இடையிலான சராசரித் தொலைவு",
-          "சூரியனின் ஆரம்"
+          "சூரியனின் ஆரம்",
+          "சூரியனின் மையத்திற்கும் பூமியின் மையத்திற்கும் இடையிலான சராசரித் தொலைவு"
         ],
         "explanation": "1 AU = 1.496 × 10^11 மீ; இது சூரியன்-பூமி சராசரித் தொலைவு."
       }
@@ -155,12 +155,12 @@
       "bloom": "remember",
       "page": 4,
       "quote": "1 amu = (1/12)th of the mass of C12 atom. Atomic mass unit: mass of a proton, neutron and electron can be determined using amu.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "One atomic mass unit (amu) is defined as",
         "options": [
-          "the mass of a hydrogen molecule",
           "1/12 of the mass of a carbon-12 atom",
+          "the mass of a hydrogen molecule",
           "the mass of an electron",
           "12 times the mass of a carbon atom"
         ],
@@ -169,8 +169,8 @@
       "ta": {
         "q": "ஒரு அணு நிறை அலகு (amu) என்பது",
         "options": [
-          "ஹைட்ரஜன் மூலக்கூறின் நிறை",
           "கார்பன்-12 அணுவின் நிறையில் 1/12 பங்கு",
+          "ஹைட்ரஜன் மூலக்கூறின் நிறை",
           "எலக்ட்ரானின் நிறை",
           "கார்பன் அணுவின் நிறையைப் போல 12 மடங்கு"
         ],
@@ -184,13 +184,13 @@
       "bloom": "remember",
       "page": 4,
       "quote": "One second ... It is also defined as 1/86,400th part of a mean solar day.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "One second is also defined as",
         "options": [
           "1/3600 part of a year",
-          "1/86,400 part of a mean solar day",
           "1/60 part of an hour of sunlight",
+          "1/86,400 part of a mean solar day",
           "1/24 part of a day"
         ],
         "explanation": "The second is also defined as the 1/86,400th part of a mean solar day."
@@ -199,8 +199,8 @@
         "q": "ஒரு வினாடி என்பதன் மற்றொரு வரையறை",
         "options": [
           "ஓர் ஆண்டின் 1/3600 பங்கு",
-          "சராசரிச் சூரிய நாளின் 1/86,400 பங்கு",
           "ஒரு மணிநேரத்தின் 1/60 பங்கு",
+          "சராசரிச் சூரிய நாளின் 1/86,400 பங்கு",
           "ஒரு நாளின் 1/24 பங்கு"
         ],
         "explanation": "ஒரு வினாடி என்பது சராசரிச் சூரிய நாளின் 1/86,400-ஆவது பங்கு."
@@ -271,14 +271,14 @@
       "bloom": "apply",
       "page": 5,
       "quote": "Rules and conventions: 10. The numerical values of physical quantities should be written in scientific form. E.g. the density of mercury should be written as 1.36 × 10^4 kgm-3 not as 13600 kgm-3.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "According to the book's rule on writing numerical values, the density of mercury should be written as",
         "options": [
           "13600 kgs m^-3",
           "1.36 kgs m^-3",
-          "13.6 kg/m",
-          "1.36 × 10^4 kg m^-3"
+          "1.36 × 10^4 kg m^-3",
+          "13.6 kg/m"
         ],
         "explanation": "The book's rule is that numerical values should be written in scientific form, e.g. 1.36 × 10^4 kg m^-3."
       },
@@ -287,8 +287,8 @@
         "options": [
           "13600 கி.கிகள் மீ^-3",
           "1.36 கி.கிகள் மீ^-3",
-          "13.6 கி.கி/மீ",
-          "1.36 × 10^4 கி.கி மீ^-3"
+          "1.36 × 10^4 கி.கி மீ^-3",
+          "13.6 கி.கி/மீ"
         ],
         "explanation": "நூலின் விதிப்படி இயற்பியல் அளவுகளின் எண் மதிப்புகள் அறிவியல் குறியீட்டில் எழுதப்பட வேண்டும்."
       }
@@ -329,12 +329,12 @@
       "bloom": "remember",
       "page": 10,
       "quote": "Points to Remember: Common balance can measure mass accurately upto 5 g.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "A common (beam) balance can measure mass accurately up to",
         "options": [
-          "5 mg",
           "5 g",
+          "5 mg",
           "0.5 g",
           "50 g"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "பொதுத் தராசினால் துல்லியமாக அளவிடக்கூடிய நிறை",
         "options": [
-          "5 மி.கி",
           "5 கி",
+          "5 மி.கி",
           "0.5 கி",
           "50 கி"
         ],
@@ -358,12 +358,12 @@
       "bloom": "remember",
       "page": 9,
       "quote": "Digital balances measure mass accurately even up to a few milligrams, the least value being 10 mg. This electrical device is easy to handle and commonly used in jewellery shops and labs.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The least value measurable with a digital balance, as given in the book, is",
         "options": [
-          "1 g",
           "10 mg",
+          "1 g",
           "5 g",
           "1 kg"
         ],
@@ -372,8 +372,8 @@
       "ta": {
         "q": "நூலின்படி எண்ணியல் தராசு அளவிடக்கூடிய மிகக்குறைந்த மதிப்பு",
         "options": [
-          "1 கி",
           "10 மி.கி",
+          "1 கி",
           "5 கி",
           "1 கி.கி"
         ],

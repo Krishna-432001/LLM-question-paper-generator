@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 244,
       "quote": "I. 1. Which of the following is not a salivary gland? a. Sublingual b. Lachrymal c. Submaxillary d. Parotid",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Organ Systems in Animals: Which of the following is NOT a salivary gland?",
         "options": [
           "Sublingual gland",
-          "Submaxillary gland",
           "Lachrymal gland",
+          "Submaxillary gland",
           "Parotid gland"
         ],
         "explanation": "The three pairs of salivary glands are parotid, sublingual and submaxillary (submandibular); the lachrymal gland produces tears."
@@ -25,8 +25,8 @@
         "q": "பின்வருவனவற்றுள் உமிழ்நீர்ச் சுரப்பி அல்லாதது எது?",
         "options": [
           "நாவடிச் சுரப்பி",
-          "கீழ்த்தாடைச் சுரப்பி",
           "கண்ணீர்ச் சுரப்பி (லாக்ரிமல்)",
+          "கீழ்த்தாடைச் சுரப்பி",
           "மேலண்ணச் (பரோடிட்) சுரப்பி"
         ],
         "explanation": "உமிழ்நீர்ச் சுரப்பிகள்: பரோடிட், நாவடி, கீழ்த்தாடைச் சுரப்பிகள்; கண்ணீர்ச் சுரப்பி கண்ணீரைச் சுரக்கும்."
@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 244,
       "quote": "I. 3. To prevent the entry of food into the trachea, the opening is guarded by a. epiglottis b. glottis c. hard palate d. soft palate",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The opening of the trachea is guarded during swallowing by the",
         "options": [
-          "epiglottis",
+          "soft palate",
           "glottis",
           "hard palate",
-          "soft palate"
+          "epiglottis"
         ],
         "explanation": "The epiglottis, a muscular flap-like structure at the tip of the glottis, closes and prevents food from entering the windpipe."
       },
       "ta": {
         "q": "உணவு மூச்சுக்குழலுக்குள் செல்வதைத் தடுக்க அதன் திறப்பைக் காப்பது",
         "options": [
-          "குரல்வளை மூடி (எபிகிளாட்டிஸ்)",
+          "மென் அண்ணம்",
           "குரல்வளைத் திறப்பு (கிளாட்டிஸ்)",
           "கடின அண்ணம்",
-          "மென் அண்ணம்"
+          "குரல்வளை மூடி (எபிகிளாட்டிஸ்)"
         ],
         "explanation": "விழுங்கும்போது எபிகிளாட்டிஸ் மூடி உணவு மூச்சுக்குழலுக்குள் செல்வதைத் தடுக்கிறது."
       }
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 244,
       "quote": "I. 4. Bile helps in the digestion of a. proteins b. sugar c. fats d. carbohydrates",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Bile helps in the digestion of",
         "options": [
           "proteins",
           "carbohydrates",
-          "sugar",
-          "fats"
+          "fats",
+          "sugar"
         ],
         "explanation": "Bile salts bring about emulsification of fats."
       },
@@ -84,8 +84,8 @@
         "options": [
           "புரதங்கள்",
           "கார்போஹைட்ரேட்டுகள்",
-          "சர்க்கரை",
-          "கொழுப்புகள்"
+          "கொழுப்புகள்",
+          "சர்க்கரை"
         ],
         "explanation": "பித்த உப்புகள் கொழுப்பைக் குழம்பாக்குகின்றன."
       }
@@ -97,12 +97,12 @@
       "bloom": "remember",
       "page": 244,
       "quote": "I. 6. Which one of the following substance is not a constituent of sweat? a. Urea b. Protein c. Water d. Salt",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Organ Systems in Animals: Which of the following is NOT a constituent of sweat?",
         "options": [
-          "Urea",
           "Protein",
+          "Urea",
           "Salt",
           "Water"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் வியர்வையின் உட்கூறு அல்லாதது எது?",
         "options": [
-          "யூரியா",
           "புரதம்",
+          "யூரியா",
           "உப்பு",
           "நீர்"
         ],
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 244,
       "quote": "I. 7. The common passage meant for transporting urine and sperms in male is a. ureter b. urethra c. vas deferens d. scrotum",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "In males, the common passage for urine and sperms is the",
         "options": [
-          "urethra",
-          "ureter",
           "vas deferens",
+          "ureter",
+          "urethra",
           "scrotum"
         ],
         "explanation": "The urethra is contained inside the penis and conveys sperms as well as urine."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "ஆணில் சிறுநீரையும் விந்தணுக்களையும் வெளியேற்றும் பொதுப்பாதை",
         "options": [
-          "சிறுநீர்ப்புறவழி (யூரித்ரா)",
-          "சிறுநீர்க்குழாய் (யூரிட்டர்)",
           "விந்துக்குழல்",
+          "சிறுநீர்க்குழாய் (யூரிட்டர்)",
+          "சிறுநீர்ப்புறவழி (யூரித்ரா)",
           "விதைப்பை"
         ],
         "explanation": "சிறுநீர்ப்புறவழி ஆண்குறியினுள் அமைந்து சிறுநீரையும் விந்தணுவையும் கடத்துகிறது."
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 244,
       "quote": "II. 1. The opening of the stomach into the intestine is called ______.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The opening of the stomach into the small intestine is called the",
         "options": [
           "cardiac sphincter",
           "glottis",
-          "pylorus",
-          "hilum"
+          "hilum",
+          "pylorus"
         ],
         "explanation": "The chyme moves to the intestine slowly through the pylorus."
       },
@@ -200,8 +200,8 @@
         "options": [
           "இரைப்பை மேல்வாயில்",
           "குரல்வளைத் திறப்பு",
-          "இரைப்பைக் கடையம் (பைலோரஸ்)",
-          "ஹைலம்"
+          "ஹைலம்",
+          "இரைப்பைக் கடையம் (பைலோரஸ்)"
         ],
         "explanation": "கைம் (அரைசெரிவு உணவு) பைலோரஸ் வழியாக மெதுவாகச் சிறுகுடலுக்குச் செல்கிறது."
       }
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 244,
       "quote": "II. 2. The muscular and sensory organ which helps in mixing the food with saliva is ______.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The muscular and sensory organ that helps in mixing food with saliva is the",
         "options": [
           "pharynx",
-          "tongue",
+          "epiglottis",
           "oesophagus",
-          "epiglottis"
+          "tongue"
         ],
         "explanation": "The taste buds on the tongue help to recognise the taste of food."
       },
@@ -228,9 +228,9 @@
         "q": "உணவை உமிழ்நீருடன் கலக்க உதவும் தசையாலான உணர்வு உறுப்பு",
         "options": [
           "தொண்டை",
-          "நாக்கு",
+          "மூடிதழ்",
           "உணவுக்குழல்",
-          "மூடிதழ்"
+          "நாக்கு"
         ],
         "explanation": "நாக்கிலுள்ள சுவை அரும்புகள் சுவையை அறிய உதவுகின்றன."
       }
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 244,
       "quote": "II. 4. The longest part of alimentary canal is ______",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The longest part of the alimentary canal is the",
         "options": [
-          "small intestine",
-          "large intestine",
           "oesophagus",
+          "large intestine",
+          "small intestine",
           "stomach"
         ],
         "explanation": "The small intestine is a long coiled tube (about 5 m); the large intestine is only about 1.5 m long."
@@ -256,9 +256,9 @@
       "ta": {
         "q": "உணவுப் பாதையின் மிக நீளமான பகுதி",
         "options": [
-          "சிறுகுடல்",
-          "பெருங்குடல்",
           "உணவுக்குழல்",
+          "பெருங்குடல்",
+          "சிறுகுடல்",
           "இரைப்பை"
         ],
         "explanation": "சிறுகுடல் நீண்ட சுருண்ட குழாய் (சுமார் 5 மீ); பெருங்குடல் சுமார் 1.5 மீ."
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 244,
       "quote": "II. 5. The human body functions normally at a temperature of about ______.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The human body functions normally at a temperature of about",
         "options": [
           "27 degrees C",
-          "57 degrees C",
+          "37 degrees C",
           "47 degrees C",
-          "37 degrees C"
+          "57 degrees C"
         ],
         "explanation": "When it gets hot, sweat glands secrete sweat which evaporates."
       },
@@ -286,9 +286,9 @@
         "q": "மனித உடல் இயல்பாகச் செயல்படும் வெப்பநிலை ஏறத்தாழ",
         "options": [
           "27 °C",
-          "57 °C",
+          "37 °C",
           "47 °C",
-          "37 °C"
+          "57 °C"
         ],
         "explanation": "வெப்பம் அதிகரிக்கும்போது வியர்வைச் சுரப்பிகள் வியர்வையைச் சுரந்து ஆவியாகின்றன."
       }
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 244,
       "quote": "II. 6. The largest cell in the human body of a female is ______.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The largest human cell is the",
         "options": [
           "sperm",
-          "neuron",
           "ovum",
+          "neuron",
           "red blood cell"
         ],
         "explanation": "The process of formation of ova is called oogenesis; the sperm is the smallest cell."
@@ -315,8 +315,8 @@
         "q": "பெண்ணின் உடலிலுள்ள மிகப்பெரிய செல்",
         "options": [
           "விந்தணு",
-          "நியூரான்",
           "அண்டம் (கருமுட்டை)",
+          "நியூரான்",
           "இரத்தச் சிவப்பணு"
         ],
         "explanation": "அண்டம் உருவாதல் ஊஜெனிசிஸ்; விந்தணு மிகச் சிறிய செல்."
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 244,
       "quote": "III. 1. Nitric acid in the stomach kills microorganisms in the food.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which acid in the stomach kills the bacteria swallowed along with food?",
         "options": [
           "Nitric acid",
-          "Hydrochloric acid",
           "Acetic acid",
+          "Hydrochloric acid",
           "Sulphuric acid"
         ],
         "explanation": "The book's statement is false: it is hydrochloric acid, which also makes the medium acidic."
@@ -344,8 +344,8 @@
         "q": "உணவுடன் உட்சென்ற பாக்டீரியாக்களை இரைப்பையில் அழிக்கும் அமிலம்",
         "options": [
           "நைட்ரிக் அமிலம்",
-          "ஹைட்ரோகுளோரிக் அமிலம்",
           "அசிட்டிக் அமிலம்",
+          "ஹைட்ரோகுளோரிக் அமிலம்",
           "சல்பியூரிக் அமிலம்"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; ஹைட்ரோகுளோரிக் அமிலமே பாக்டீரியாக்களை அழித்து இரைப்பையை அமிலத்தன்மையாக்குகிறது."
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 244,
       "quote": "III. 2. During digestion, proteins are broken down into amino acids.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "During digestion, proteins are finally broken down into",
         "options": [
-          "amino acids",
-          "fatty acids",
           "glucose",
+          "fatty acids",
+          "amino acids",
           "glycerol"
         ],
         "explanation": "Trypsin and other enzymes convert proteins into peptides and amino acids; the statement is true."
@@ -372,9 +372,9 @@
       "ta": {
         "q": "செரிமானத்தின்போது புரதங்கள் இறுதியில் உடைக்கப்படுவது",
         "options": [
-          "அமினோ அமிலங்களாக",
-          "கொழுப்பு அமிலங்களாக",
           "குளுக்கோசாக",
+          "கொழுப்பு அமிலங்களாக",
+          "அமினோ அமிலங்களாக",
           "கிளிசராலாக"
         ],
         "explanation": "டிரிப்சின் போன்ற நொதிகள் புரதங்களைப் பெப்டைடுகளாகவும் அமினோ அமிலங்களாகவும் மாற்றுகின்றன; கூற்று சரி."
@@ -387,24 +387,24 @@
       "bloom": "remember",
       "page": 244,
       "quote": "III. 3. Glomerular filtrate consists of many substances like amino acids, vitamins, hormones, salts, glucose and other essential substances.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Glomerular filtrate is formed by the",
         "options": [
-          "reabsorption in the loop of Henle",
+          "filtration of blood through the glomerulus and Bowman's capsule",
           "action of the ureter",
           "secretion in the distal tubule only",
-          "filtration of blood through the glomerulus and Bowman's capsule"
+          "reabsorption in the loop of Henle"
         ],
         "explanation": "Both essential and non-essential substances in the blood are filtered."
       },
       "ta": {
         "q": "குளோமெருலார் வடிநீர் உருவாவது",
         "options": [
-          "ஹென்லே வளைவில் மறுஉறிஞ்சலால்",
+          "குளோமெருலஸ், போமன் கொள்கலன் வழியாக இரத்தம் வடிகட்டப்படுவதால்",
           "சிறுநீர்க்குழாயின் செயலால்",
           "தூரக் கற்றைக் குழலில் சுரப்பதால் மட்டும்",
-          "குளோமெருலஸ், போமன் கொள்கலன் வழியாக இரத்தம் வடிகட்டப்படுவதால்"
+          "ஹென்லே வளைவில் மறுஉறிஞ்சலால்"
         ],
         "explanation": "இரத்தத்திலுள்ள தேவையான, தேவையற்ற பொருள்கள் இரண்டும் வடிகட்டப்படுகின்றன."
       }
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 244,
       "quote": "IV. Match the following. Organ - Elimination: Skin - Sweat; Lungs - Carbon dioxide; Intestine - Undigested food; Kidneys - Urine",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Match: (a) Skin (b) Lungs (c) Intestine (d) Kidneys - (1) Carbon dioxide (2) Urine (3) Undigested food (4) Sweat",
         "options": [
-          "a-3, b-1, c-4, d-2",
-          "a-3, b-4, c-2, d-1",
           "a-4, b-1, c-3, d-2",
+          "a-3, b-4, c-2, d-1",
+          "a-3, b-1, c-4, d-2",
           "a-2, b-1, c-4, d-3"
         ],
         "explanation": "Skin eliminates sweat; lungs eliminate carbon dioxide and water vapour; intestine eliminates undigested food; kidneys eliminate urine."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "பொருத்துக: (a) தோல் (b) நுரையீரல் (c) குடல் (d) சிறுநீரகங்கள் - (1) கார்பன் டைஆக்சைடு (2) சிறுநீர் (3) செரிக்காத உணவு (4) வியர்வை",
         "options": [
-          "a-3, b-1, c-4, d-2",
-          "a-3, b-4, c-2, d-1",
           "a-4, b-1, c-3, d-2",
+          "a-3, b-4, c-2, d-1",
+          "a-3, b-1, c-4, d-2",
           "a-2, b-1, c-4, d-3"
         ],
         "explanation": "தோல் - வியர்வை; நுரையீரல் - CO2; குடல் - செரிக்காத உணவு; சிறுநீரகம் - சிறுநீர்."
@@ -474,13 +474,13 @@
       "bloom": "remember",
       "page": 244,
       "quote": "V. c. Ingestion and Egestion",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Ingestion is ______ and egestion is ______.",
         "options": [
-          "the intake of food; the removal of undigested food through the anus",
-          "the removal of food; the intake of food",
           "the digestion of food; the absorption of food",
+          "the removal of food; the intake of food",
+          "the intake of food; the removal of undigested food through the anus",
           "absorption; assimilation"
         ],
         "explanation": "Egestion (defaecation) throws out the undigested or unassimilated food as faecal matter."
@@ -488,9 +488,9 @@
       "ta": {
         "q": "உட்கொள்ளுதல் என்பது ______; மலங்கழித்தல் (எஜெஸ்ஷன்) என்பது ______.",
         "options": [
-          "உணவை எடுத்துக்கொள்வது; செரிக்காத உணவை ஆசனவாய் வழியே வெளியேற்றுவது",
-          "உணவை வெளியேற்றுவது; உணவை எடுத்துக்கொள்வது",
           "உணவைச் செரிப்பது; உணவை உறிஞ்சுவது",
+          "உணவை வெளியேற்றுவது; உணவை எடுத்துக்கொள்வது",
+          "உணவை எடுத்துக்கொள்வது; செரிக்காத உணவை ஆசனவாய் வழியே வெளியேற்றுவது",
           "உறிஞ்சுதல்; தன்மயமாதல்"
         ],
         "explanation": "செரிக்காத, தன்மயமாகாத உணவு மலமாக வெளியேற்றப்படுகிறது."
@@ -532,14 +532,14 @@
       "bloom": "remember",
       "page": 244,
       "quote": "V. e. Incisors and Canines (Table 20.2)",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Incisors are meant for ______, whereas canines are meant for ______.",
         "options": [
           "tearing and piercing; cutting and biting",
           "crushing and grinding; cutting",
-          "cutting and biting; tearing and piercing",
-          "grinding; piercing"
+          "grinding; piercing",
+          "cutting and biting; tearing and piercing"
         ],
         "explanation": "Premolars crush and grind; molars crush, grind and masticate."
       },
@@ -548,8 +548,8 @@
         "options": [
           "கிழிக்கவும் துளைக்கவும்; வெட்டவும் கடிக்கவும்",
           "நசுக்கவும் அரைக்கவும்; வெட்டவும்",
-          "வெட்டவும் கடிக்கவும்; கிழிக்கவும் துளைக்கவும்",
-          "அரைக்கவும்; துளைக்கவும்"
+          "அரைக்கவும்; துளைக்கவும்",
+          "வெட்டவும் கடிக்கவும்; கிழிக்கவும் துளைக்கவும்"
         ],
         "explanation": "முன்கடைவாய்ப் பற்கள் நசுக்கி அரைக்கும்; கடைவாய்ப் பற்கள் நசுக்கி அரைத்து மெல்ல உதவும்."
       }
@@ -590,13 +590,13 @@
       "bloom": "remember",
       "page": 245,
       "quote": "VI. 2. Why do we sweat?",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "We sweat when it gets hot because sweat glands secrete sweat, which on evaporation",
         "options": [
-          "helps to keep the body at a normal temperature and removes small amounts of wastes",
-          "increases body temperature",
           "stores water",
+          "increases body temperature",
+          "helps to keep the body at a normal temperature and removes small amounts of wastes",
           "digests proteins"
         ],
         "explanation": "Sweat contains water with small amounts of ammonia, urea, lactic acid and salts."
@@ -604,9 +604,9 @@
       "ta": {
         "q": "வெப்பமாக இருக்கும்போது நாம் வியர்ப்பது, ஏனெனில் வியர்வை ஆவியாகும்போது",
         "options": [
-          "உடலை இயல்பான வெப்பநிலையில் வைத்து சிறிதளவு கழிவுகளையும் நீக்குகிறது",
-          "உடல் வெப்பத்தை அதிகரிக்கிறது",
           "நீரைச் சேமிக்கிறது",
+          "உடல் வெப்பத்தை அதிகரிக்கிறது",
+          "உடலை இயல்பான வெப்பநிலையில் வைத்து சிறிதளவு கழிவுகளையும் நீக்குகிறது",
           "புரதங்களைச் செரிக்கிறது"
         ],
         "explanation": "வியர்வையில் நீருடன் சிறிதளவு அம்மோனியா, யூரியா, லாக்டிக் அமிலம், உப்புகள் உள்ளன."
@@ -619,14 +619,14 @@
       "bloom": "remember",
       "page": 245,
       "quote": "VI. 3. Mention any two vital functions of human kidney.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following is a vital function of the human kidney?",
         "options": [
           "Digesting fats",
           "Producing sperms",
-          "Producing bile",
-          "Maintaining the fluid and electrolyte balance of the body"
+          "Maintaining the fluid and electrolyte balance of the body",
+          "Producing bile"
         ],
         "explanation": "Kidneys also regulate the acid-base balance, maintain osmotic pressure and retain glucose and amino acids."
       },
@@ -635,8 +635,8 @@
         "options": [
           "கொழுப்பைச் செரித்தல்",
           "விந்தணுக்களை உருவாக்குதல்",
-          "பித்த நீரைச் சுரத்தல்",
-          "உடலின் நீர், மின்பகு பொருள் சமநிலையைப் பராமரித்தல்"
+          "உடலின் நீர், மின்பகு பொருள் சமநிலையைப் பராமரித்தல்",
+          "பித்த நீரைச் சுரத்தல்"
         ],
         "explanation": "அமில-கார சமநிலை, சவ்வூடு அழுத்தம் ஆகியவற்றையும் கட்டுப்படுத்தி குளுக்கோஸ், அமினோ அமிலங்களைத் தக்கவைக்கிறது."
       }
@@ -677,13 +677,13 @@
       "bloom": "remember",
       "page": 245,
       "quote": "VI. 5. Name the types of teeth present in an adult human being. Mention the functions of each.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The four types of permanent teeth in an adult human being are",
         "options": [
           "incisors, tusks, canines and molars",
-          "incisors, canines, premolars and molars",
           "molars and premolars only",
+          "incisors, canines, premolars and molars",
           "canines, tusks, premolars and wisdom teeth only"
         ],
         "explanation": "Adults have 8 incisors (cutting and biting), 4 canines (tearing and piercing), 8 premolars (crushing and grinding) and 12 molars (crushing, grinding and mastication), a total of 32."
@@ -692,8 +692,8 @@
         "q": "வயது வந்த மனிதனின் நிலையான பற்களின் நான்கு வகைகள்",
         "options": [
           "வெட்டுப்பற்கள், தந்தங்கள், கோரைப்பற்கள், கடைவாய்ப் பற்கள்",
-          "வெட்டுப்பற்கள், கோரைப்பற்கள், முன்கடைவாய்ப் பற்கள், கடைவாய்ப் பற்கள்",
           "கடைவாய், முன்கடைவாய்ப் பற்கள் மட்டும்",
+          "வெட்டுப்பற்கள், கோரைப்பற்கள், முன்கடைவாய்ப் பற்கள், கடைவாய்ப் பற்கள்",
           "கோரை, தந்தம், முன்கடைவாய், ஞானப்பற்கள் மட்டும்"
         ],
         "explanation": "8 வெட்டுப்பற்கள் (வெட்டுதல், கடித்தல்), 4 கோரைப்பற்கள் (கிழித்தல், துளைத்தல்), 8 முன்கடைவாய் (நசுக்கி அரைத்தல்), 12 கடைவாய் (நசுக்கி அரைத்து மெல்லுதல்): மொத்தம் 32."
@@ -706,12 +706,12 @@
       "bloom": "remember",
       "page": 245,
       "quote": "VI. 6. Explain the structure of nephron.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Each nephron consists of",
         "options": [
-          "a renal (Malpighian) corpuscle and a renal tubule",
           "only the glomerulus",
+          "a renal (Malpighian) corpuscle and a renal tubule",
           "only the loop of Henle",
           "the ureter and urethra"
         ],
@@ -720,8 +720,8 @@
       "ta": {
         "q": "ஒவ்வொரு நெஃப்ரானும் கொண்டிருப்பது",
         "options": [
-          "சிறுநீரகச் சிறுதுகள் (மால்பீஜியன் துகள்), சிறுநீரகக் குழல்",
           "குளோமெருலஸ் மட்டும்",
+          "சிறுநீரகச் சிறுதுகள் (மால்பீஜியன் துகள்), சிறுநீரகக் குழல்",
           "ஹென்லே வளைவு மட்டும்",
           "சிறுநீர்க்குழாயும் சிறுநீர்ப்புறவழியும்"
         ],
@@ -793,14 +793,14 @@
       "bloom": "remember",
       "page": 245,
       "quote": "IX. 2. Name the blood vessel that (a) enter malphigian capsule and (b) leaves malphigian capsule.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Blood enters the glomerular capillaries through the ______ and leaves through the ______.",
         "options": [
           "efferent arteriole; afferent arteriole",
-          "afferent arteriole; efferent arteriole",
+          "ureter; urethra",
           "renal vein; renal artery",
-          "ureter; urethra"
+          "afferent arteriole; efferent arteriole"
         ],
         "explanation": "The glomerulus is a bunch of capillaries in the Bowman's (Malpighian) capsule."
       },
@@ -808,9 +808,9 @@
         "q": "குளோமெருலார் நுண்குழல்களுக்குள் இரத்தம் ______ வழியாக நுழைந்து ______ வழியாக வெளியேறுகிறது.",
         "options": [
           "வெளிச்செல் சிறுதமனி; உள்வரு சிறுதமனி",
-          "உள்வரு சிறுதமனி; வெளிச்செல் சிறுதமனி",
+          "சிறுநீர்க்குழாய்; சிறுநீர்ப்புறவழி",
           "சிறுநீரகச் சிரை; சிறுநீரகத் தமனி",
-          "சிறுநீர்க்குழாய்; சிறுநீர்ப்புறவழி"
+          "உள்வரு சிறுதமனி; வெளிச்செல் சிறுதமனி"
         ],
         "explanation": "குளோமெருலஸ் போமன் (மால்பீஜியன்) கொள்கலனிலுள்ள நுண்குழல் கொத்து."
       }

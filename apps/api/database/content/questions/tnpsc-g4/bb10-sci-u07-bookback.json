@@ -10,13 +10,13 @@
       "bloom": "understand",
       "page": 102,
       "quote": "1. Which of the following has the smallest mass? a. 6.023 × 10^23 atoms of He b. 1 atom of He c. 2 g of He d. 1 mole atoms of He",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Atoms and Molecules: Which of the following has the smallest mass?",
         "options": [
-          "1 atom of He",
-          "1 mole of He atoms",
           "6.023 × 10²³ atoms of He",
+          "1 mole of He atoms",
+          "1 atom of He",
           "2 g of He"
         ],
         "explanation": "1 atom of He has a mass of about 6.6 × 10⁻²⁴ g; the other three are all about 2 g or more."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "கீழ்க்கண்டவற்றுள் எது குறைந்த நிறையைக் கொண்டது?",
         "options": [
-          "1 ஹீலியம் அணு",
-          "1 மோல் ஹீலியம் அணுக்கள்",
           "6.023 × 10²³ ஹீலியம் அணுக்கள்",
+          "1 மோல் ஹீலியம் அணுக்கள்",
+          "1 ஹீலியம் அணு",
           "2 கி ஹீலியம்"
         ],
         "explanation": "ஒரு He அணுவின் நிறை ஏறக்குறைய 6.6 × 10⁻²⁴ கி; மற்றவை ஏறக்குறைய 2 கி அல்லது அதற்கு மேல்."
@@ -39,12 +39,12 @@
       "bloom": "remember",
       "page": 102,
       "quote": "2. Which of the following is a triatomic molecule? a. Glucose b. Helium c. Carbon dioxide d. Hydrogen",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Atoms and Molecules: Which of the following is a triatomic molecule?",
         "options": [
-          "Hydrogen",
           "Carbon dioxide",
+          "Hydrogen",
           "Helium",
           "Glucose"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "கீழ்க்கண்டவற்றுள் மூவணு மூலக்கூறு எது?",
         "options": [
-          "ஹைட்ரஜன்",
           "கார்பன் டை ஆக்சைடு",
+          "ஹைட்ரஜன்",
           "ஹீலியம்",
           "குளுக்கோஸ்"
         ],
@@ -97,12 +97,12 @@
       "bloom": "remember",
       "page": 102,
       "quote": "4. Mass of 1 mole of Nitrogen atom is a. 28 amu b. 14 amu c. 28 g d. 14 g",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The mass of 1 mole of nitrogen atoms is",
         "options": [
-          "14 g",
           "28 amu",
+          "14 g",
           "14 amu",
           "28 g"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "1 மோல் நைட்ரஜன் அணுவின் நிறை",
         "options": [
-          "14 கி",
           "28 amu",
+          "14 கி",
           "14 amu",
           "28 கி"
         ],
@@ -126,24 +126,24 @@
       "bloom": "remember",
       "page": 102,
       "quote": "5. Which of the following represents 1 amu? a. Mass of a C-12 atom b. Mass of a hydrogen atom c. 1/12th of the mass of a C-12 atom d. Mass of O-16 atom",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "One atomic mass unit (1 amu) is equal to",
         "options": [
-          "the mass of a C-12 atom",
+          "1/12th of the mass of a C-12 atom",
           "the mass of a hydrogen atom",
           "the mass of an O-16 atom",
-          "1/12th of the mass of a C-12 atom"
+          "the mass of a C-12 atom"
         ],
         "explanation": "The mass of a proton or neutron is approximately 1 amu."
       },
       "ta": {
         "q": "1 amu என்பது",
         "options": [
-          "C-12 அணுவின் நிறை",
+          "C-12 அணுவின் நிறையில் 1/12 பங்கு",
           "ஹைட்ரஜன் அணுவின் நிறை",
           "O-16 அணுவின் நிறை",
-          "C-12 அணுவின் நிறையில் 1/12 பங்கு"
+          "C-12 அணுவின் நிறை"
         ],
         "explanation": "ஒரு புரோட்டான் அல்லது நியூட்ரானின் நிறை ஏறக்குறைய 1 amu."
       }
@@ -213,12 +213,12 @@
       "bloom": "apply",
       "page": 103,
       "quote": "8. In the nucleus of 20Ca40, there are a. 20 protons and 40 neutrons b. 20 protons and 20 neutrons c. 20 protons and 40 electrons d. 40 protons and 20 electrons",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "In the nucleus of ²⁰Ca⁴⁰ there are",
         "options": [
-          "20 protons and 20 neutrons",
           "20 protons and 40 neutrons",
+          "20 protons and 20 neutrons",
           "20 protons and 40 electrons",
           "40 protons and 20 electrons"
         ],
@@ -227,8 +227,8 @@
       "ta": {
         "q": "²⁰Ca⁴⁰ உட்கருவில் உள்ளவை",
         "options": [
-          "20 புரோட்டான்கள், 20 நியூட்ரான்கள்",
           "20 புரோட்டான்கள், 40 நியூட்ரான்கள்",
+          "20 புரோட்டான்கள், 20 நியூட்ரான்கள்",
           "20 புரோட்டான்கள், 40 எலக்ட்ரான்கள்",
           "40 புரோட்டான்கள், 20 எலக்ட்ரான்கள்"
         ],
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 103,
       "quote": "9. The gram molecular mass of oxygen molecule is a. 16 g b. 18 g c. 32 g d. 17 g",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The gram molecular mass of an oxygen molecule is",
         "options": [
-          "16 g",
-          "17 g",
           "32 g",
+          "17 g",
+          "16 g",
           "18 g"
         ],
         "explanation": "O₂ = 2 × 16 = 32 g."
@@ -256,9 +256,9 @@
       "ta": {
         "q": "ஆக்சிஜன் மூலக்கூறின் கிராம் மூலக்கூறு நிறை",
         "options": [
-          "16 கி",
-          "17 கி",
           "32 கி",
+          "17 கி",
+          "16 கி",
           "18 கி"
         ],
         "explanation": "O₂ = 2 × 16 = 32 கி."
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 103,
       "quote": "10. 1 mole of any substance contains ____ molecules. a. 6.023 × 10^23 b. 6.023 × 10^-23 c. 3.0115 × 10^23 d. 12.046 × 10^23",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "One mole of any substance contains ____ particles.",
         "options": [
           "6.023 × 10⁻²³",
-          "12.046 × 10²³",
           "6.023 × 10²³",
+          "12.046 × 10²³",
           "3.0115 × 10²³"
         ],
         "explanation": "This number is Avogadro's number."
@@ -286,8 +286,8 @@
         "q": "எந்தப் பொருளின் 1 மோலிலும் உள்ள துகள்களின் எண்ணிக்கை",
         "options": [
           "6.023 × 10⁻²³",
-          "12.046 × 10²³",
           "6.023 × 10²³",
+          "12.046 × 10²³",
           "3.0115 × 10²³"
         ],
         "explanation": "இதுவே அவகாட்ரோ எண்."
@@ -300,12 +300,12 @@
       "bloom": "remember",
       "page": 103,
       "quote": "1. Atoms of different elements having _______ mass number, but ________ atomic numbers are called isobars.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Atoms of different elements having the ____ mass number but ____ atomic numbers are called isobars.",
         "options": [
-          "different; different",
           "same; different",
+          "different; different",
           "same; same",
           "different; same"
         ],
@@ -314,8 +314,8 @@
       "ta": {
         "q": "வெவ்வேறு தனிமங்களின் அணுக்கள் ____ நிறை எண்ணையும் ____ அணு எண்களையும் கொண்டிருந்தால் அவை ஐசோபார்கள்.",
         "options": [
-          "வேறுபட்ட; வேறுபட்ட",
           "ஒத்த; வேறுபட்ட",
+          "வேறுபட்ட; வேறுபட்ட",
           "ஒத்த; ஒத்த",
           "வேறுபட்ட; ஒத்த"
         ],
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 103,
       "quote": "4. Relative atomic mass is otherwise known as __________",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Relative atomic mass is otherwise known as",
         "options": [
           "molar mass",
-          "standard atomic weight",
           "atomic number",
+          "standard atomic weight",
           "gram atomic mass"
         ],
         "explanation": "Relative atomic mass (A_r) is the ratio of the mass of one atom to 1/12th the mass of a C-12 atom."
@@ -373,8 +373,8 @@
         "q": "ஒப்பு அணுநிறை வேறு எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "மோலார் நிறை",
-          "திட்ட அணு எடை",
           "அணு எண்",
+          "திட்ட அணு எடை",
           "கிராம் அணு நிறை"
         ],
         "explanation": "ஒப்பு அணுநிறை (A_r) என்பது ஓர் அணுவின் நிறைக்கும் C-12 அணுவின் 1/12 பங்கிற்கும் உள்ள தகவு."
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 103,
       "quote": "5. The average atomic mass of hydrogen is ___________ amu.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The average atomic mass of hydrogen is about",
         "options": [
           "2.016 amu",
           "1.0 g",
-          "12 amu",
-          "1.008 amu"
+          "1.008 amu",
+          "12 amu"
         ],
         "explanation": "It is the weighted average of the masses of its isotopes by natural abundance."
       },
@@ -403,8 +403,8 @@
         "options": [
           "2.016 amu",
           "1.0 கி",
-          "12 amu",
-          "1.008 amu"
+          "1.008 amu",
+          "12 amu"
         ],
         "explanation": "இது இயற்கை அளவுக்கேற்ப ஐசோடோப்புகளின் நிறைகளின் எடையிட்ட சராசரி."
       }
@@ -474,24 +474,24 @@
       "bloom": "remember",
       "page": 103,
       "quote": "9. Atomicity of phosphorous is ___________",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The atomicity of phosphorus is",
         "options": [
-          "4",
+          "1",
           "8",
           "2",
-          "1"
+          "4"
         ],
         "explanation": "Phosphorus exists as P₄ (sulphur as S₈)."
       },
       "ta": {
         "q": "பாஸ்பரஸின் அணுக்கட்டு எண்",
         "options": [
-          "4",
+          "1",
           "8",
           "2",
-          "1"
+          "4"
         ],
         "explanation": "பாஸ்பரஸ் P₄ ஆகவும் சல்பர் S₈ ஆகவும் உள்ளன."
       }
@@ -532,24 +532,24 @@
       "bloom": "remember",
       "page": 103,
       "quote": "1. Two elements sometimes can form more than one compound.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Atoms and Molecules: Which statement is correct?",
         "options": [
-          "Two elements can sometimes form more than one compound (e.g. CO and CO₂)",
+          "The gram atomic mass of an element has no unit",
           "Noble gases are diatomic",
           "Two elements can never form more than one compound",
-          "The gram atomic mass of an element has no unit"
+          "Two elements can sometimes form more than one compound (e.g. CO and CO₂)"
         ],
         "explanation": "Carbon and oxygen form CO and CO₂."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் சரியான கூற்று எது?",
         "options": [
-          "இரு தனிமங்கள் சில சமயம் ஒன்றுக்கு மேற்பட்ட சேர்மங்களை உருவாக்கலாம் (எ.கா. CO, CO₂)",
+          "தனிமத்தின் கிராம் அணுநிறைக்கு அலகு இல்லை",
           "மந்த வாயுக்கள் ஈரணுவுடையவை",
           "இரு தனிமங்கள் ஒருபோதும் ஒன்றுக்கு மேற்பட்ட சேர்மங்களை உருவாக்காது",
-          "தனிமத்தின் கிராம் அணுநிறைக்கு அலகு இல்லை"
+          "இரு தனிமங்கள் சில சமயம் ஒன்றுக்கு மேற்பட்ட சேர்மங்களை உருவாக்கலாம் (எ.கா. CO, CO₂)"
         ],
         "explanation": "கார்பனும் ஆக்சிஜனும் CO, CO₂ ஆகியவற்றை உருவாக்குகின்றன."
       }
@@ -561,14 +561,14 @@
       "bloom": "remember",
       "page": 103,
       "quote": "2. Noble gases are Diatomic",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Noble gases such as helium and neon are",
         "options": [
           "triatomic",
-          "monoatomic",
+          "tetratomic",
           "diatomic",
-          "tetratomic"
+          "monoatomic"
         ],
         "explanation": "Noble gases exist as single atoms."
       },
@@ -576,9 +576,9 @@
         "q": "ஹீலியம், நியான் போன்ற மந்த வாயுக்கள்",
         "options": [
           "மூவணு மூலக்கூறுகள்",
-          "ஓரணு மூலக்கூறுகள்",
+          "நான்கணு மூலக்கூறுகள்",
           "ஈரணு மூலக்கூறுகள்",
-          "நான்கணு மூலக்கூறுகள்"
+          "ஓரணு மூலக்கூறுகள்"
         ],
         "explanation": "மந்த வாயுக்கள் தனி அணுக்களாக உள்ளன."
       }
@@ -590,14 +590,14 @@
       "bloom": "remember",
       "page": 103,
       "quote": "3. The gram atomic mass of an element has no unit",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The gram atomic mass of an element is expressed in",
         "options": [
           "amu only",
-          "litre",
+          "gram",
           "mole",
-          "gram"
+          "litre"
         ],
         "explanation": "Gram atomic mass has the unit gram."
       },
@@ -605,9 +605,9 @@
         "q": "ஒரு தனிமத்தின் கிராம் அணு நிறையின் அலகு",
         "options": [
           "amu மட்டும்",
-          "லிட்டர்",
+          "கிராம்",
           "மோல்",
-          "கிராம்"
+          "லிட்டர்"
         ],
         "explanation": "கிராம் அணு நிறைக்கு அலகு கிராம்."
       }
@@ -619,12 +619,12 @@
       "bloom": "remember",
       "page": 103,
       "quote": "4. 1 mole of Gold and Silver contain same number of atoms",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "One mole of gold and one mole of silver contain",
         "options": [
-          "the same number of atoms",
           "atoms in the ratio of their atomic masses",
+          "the same number of atoms",
           "more atoms in gold",
           "more atoms in silver"
         ],
@@ -633,8 +633,8 @@
       "ta": {
         "q": "1 மோல் தங்கத்திலும் 1 மோல் வெள்ளியிலும் உள்ள அணுக்கள்",
         "options": [
-          "சம எண்ணிக்கை உடையவை",
           "அணு நிறைகளின் விகிதத்தில் உள்ளவை",
+          "சம எண்ணிக்கை உடையவை",
           "தங்கத்தில் அதிகம்",
           "வெள்ளியில் அதிகம்"
         ],
@@ -648,13 +648,13 @@
       "bloom": "remember",
       "page": 103,
       "quote": "5. Molar mass of CO2 is 42g.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The molar mass of CO₂ is",
         "options": [
           "42 g",
-          "44 g",
           "28 g",
+          "44 g",
           "32 g"
         ],
         "explanation": "12 + 2 × 16 = 44 g."
@@ -663,8 +663,8 @@
         "q": "CO₂-இன் மோலார் நிறை",
         "options": [
           "42 கி",
-          "44 கி",
           "28 கி",
+          "44 கி",
           "32 கி"
         ],
         "explanation": "12 + 2 × 16 = 44 கி."
@@ -706,13 +706,13 @@
       "bloom": "remember",
       "page": 104,
       "quote": "1. Define: Relative atomic mass.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The relative atomic mass of an element is the ratio between the mass of one atom of the element and",
         "options": [
           "the mass of an oxygen-16 atom",
-          "the mass of a hydrogen atom",
           "1/12th of the mass of a carbon-12 atom",
+          "the mass of a hydrogen atom",
           "12 times the mass of a carbon-12 atom"
         ],
         "explanation": "Earlier hydrogen and then oxygen were used as the standard; now C-12 is used."
@@ -721,8 +721,8 @@
         "q": "ஒரு தனிமத்தின் ஒப்பு அணுநிறை என்பது அதன் ஓர் அணுவின் நிறைக்கும் ____ க்கும் உள்ள தகவு.",
         "options": [
           "O-16 அணுவின் நிறை",
-          "ஹைட்ரஜன் அணுவின் நிறை",
           "C-12 அணுவின் நிறையில் 1/12 பங்கு",
+          "ஹைட்ரஜன் அணுவின் நிறை",
           "C-12 அணு நிறையின் 12 மடங்கு"
         ],
         "explanation": "முன்பு ஹைட்ரஜனும் பின்னர் ஆக்சிஜனும் திட்டமாக இருந்தன; இப்போது C-12."
@@ -735,24 +735,24 @@
       "bloom": "remember",
       "page": 104,
       "quote": "4. Give any two examples for heterodiatomic molecules.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Atoms and Molecules: Which of the following is a heterodiatomic molecule?",
         "options": [
-          "HCl",
+          "O₂",
           "H₂",
           "N₂",
-          "O₂"
+          "HCl"
         ],
         "explanation": "A heterodiatomic molecule has two atoms of different elements (HCl, CO, NO)."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் வேற்றணு ஈரணு மூலக்கூறு எது?",
         "options": [
-          "HCl",
+          "O₂",
           "H₂",
           "N₂",
-          "O₂"
+          "HCl"
         ],
         "explanation": "வெவ்வேறு தனிமங்களின் இரு அணுக்களைக் கொண்டவை (HCl, CO, NO) வேற்றணு ஈரணு மூலக்கூறுகள்."
       }
@@ -764,14 +764,14 @@
       "bloom": "remember",
       "page": 104,
       "quote": "5. What is Molar volume of a gas?",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The molar volume of a gas at S.T.P. (273.15 K, 1 atm) is the volume occupied by",
         "options": [
           "1 mole of the gas, 24.5 litre",
-          "1 litre of the gas",
+          "1 mole of the gas, 22.4 litre",
           "1 gram of the gas, 22.4 litre",
-          "1 mole of the gas, 22.4 litre"
+          "1 litre of the gas"
         ],
         "explanation": "Equal volumes of gases contain equal numbers of molecules (Avogadro's law)."
       },
@@ -779,9 +779,9 @@
         "q": "வாயுவின் மோலார் பருமன் என்பது STP-இல் (273.15 K, 1 atm)",
         "options": [
           "1 மோல் வாயுவின் 24.5 லிட்டர்",
-          "1 லிட்டர் வாயுவின் பருமன்",
+          "1 மோல் வாயு அடைத்துக்கொள்ளும் 22.4 லிட்டர் பருமன்",
           "1 கிராம் வாயு அடைத்துக்கொள்ளும் 22.4 லிட்டர்",
-          "1 மோல் வாயு அடைத்துக்கொள்ளும் 22.4 லிட்டர் பருமன்"
+          "1 லிட்டர் வாயுவின் பருமன்"
         ],
         "explanation": "சம பருமனுள்ள வாயுக்கள் சம எண்ணிக்கையிலான மூலக்கூறுகளைக் கொண்டிருக்கும் (அவகாட்ரோ விதி)."
       }
@@ -793,14 +793,14 @@
       "bloom": "apply",
       "page": 104,
       "quote": "6. Find the percentage of nitrogen in ammonia.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The percentage of nitrogen in ammonia (NH₃) is about",
         "options": [
           "28 %",
-          "17.65 %",
+          "82.35 %",
           "14 %",
-          "82.35 %"
+          "17.65 %"
         ],
         "explanation": "% N = 14/17 × 100 = 82.35 %."
       },
@@ -808,9 +808,9 @@
         "q": "அம்மோனியாவில் (NH₃) நைட்ரஜனின் சதவீதம் தோராயமாக",
         "options": [
           "28 %",
-          "17.65 %",
+          "82.35 %",
           "14 %",
-          "82.35 %"
+          "17.65 %"
         ],
         "explanation": "% N = 14/17 × 100 = 82.35 %."
       }
@@ -822,14 +822,14 @@
       "bloom": "apply",
       "page": 104,
       "quote": "1. Calculate the number of water molecule present in one drop of water which weighs 0.18 g.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The number of water molecules in one drop of water weighing 0.18 g is",
         "options": [
           "6.023 × 10²³",
-          "6.023 × 10²¹",
+          "3.011 × 10²²",
           "1.8 × 10²¹",
-          "3.011 × 10²²"
+          "6.023 × 10²¹"
         ],
         "explanation": "0.18 g / 18 g mol⁻¹ = 0.01 mol; 0.01 × 6.023 × 10²³ = 6.023 × 10²¹."
       },
@@ -837,9 +837,9 @@
         "q": "0.18 கி நிறையுள்ள ஒரு துளி நீரிலுள்ள நீர் மூலக்கூறுகளின் எண்ணிக்கை",
         "options": [
           "6.023 × 10²³",
-          "6.023 × 10²¹",
+          "3.011 × 10²²",
           "1.8 × 10²¹",
-          "3.011 × 10²²"
+          "6.023 × 10²¹"
         ],
         "explanation": "0.18/18 = 0.01 மோல்; 0.01 × 6.023 × 10²³ = 6.023 × 10²¹."
       }
@@ -851,13 +851,13 @@
       "bloom": "apply",
       "page": 104,
       "quote": "2. N2 + 3 H2 -> 2 NH3 (The atomic mass of nitrogen is 14, and that of hydrogen is 1) 1 mole of nitrogen (___g) + 3 moles of hydrogen (___g) -> 2 moles of ammonia (___g)",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "In N₂ + 3H₂ → 2NH₃ (atomic masses N = 14, H = 1), the masses of 1 mole of N₂, 3 moles of H₂ and 2 moles of NH₃ are respectively",
         "options": [
-          "14 g, 3 g and 17 g",
-          "28 g, 6 g and 17 g",
           "28 g, 6 g and 34 g",
+          "28 g, 6 g and 17 g",
+          "14 g, 3 g and 17 g",
           "28 g, 3 g and 17 g"
         ],
         "explanation": "28 + 6 = 34 g, conserving mass."
@@ -865,9 +865,9 @@
       "ta": {
         "q": "N₂ + 3H₂ → 2NH₃ வினையில் (அணுநிறை N = 14, H = 1) 1 மோல் N₂, 3 மோல் H₂, 2 மோல் NH₃ ஆகியவற்றின் நிறைகள் முறையே",
         "options": [
-          "14 கி, 3 கி, 17 கி",
-          "28 கி, 6 கி, 17 கி",
           "28 கி, 6 கி, 34 கி",
+          "28 கி, 6 கி, 17 கி",
+          "14 கி, 3 கி, 17 கி",
           "28 கி, 3 கி, 17 கி"
         ],
         "explanation": "28 + 6 = 34 கி; நிறை மாறாமை."
@@ -880,12 +880,12 @@
       "bloom": "apply",
       "page": 104,
       "quote": "3. Calculate the number of moles in i) 27g of Al ii) 1.51 × 10^23 molecules of NH4Cl",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The numbers of moles in 27 g of Al and in 1.51 × 10²³ molecules of NH₄Cl are respectively",
         "options": [
-          "1 mole and 0.25 mole",
           "0.5 mole and 1 mole",
+          "1 mole and 0.25 mole",
           "1 mole and 2.5 mole",
           "27 mole and 0.25 mole"
         ],
@@ -894,8 +894,8 @@
       "ta": {
         "q": "27 கி Al-லிலும் 1.51 × 10²³ NH₄Cl மூலக்கூறுகளிலும் உள்ள மோல்களின் எண்ணிக்கை முறையே",
         "options": [
-          "1 மோல், 0.25 மோல்",
           "0.5 மோல், 1 மோல்",
+          "1 மோல், 0.25 மோல்",
           "1 மோல், 2.5 மோல்",
           "27 மோல், 0.25 மோல்"
         ],
@@ -909,12 +909,12 @@
       "bloom": "apply",
       "page": 104,
       "quote": "1. Calcium carbonate is decomposed on heating in the following reaction CaCO3 -> CaO + CO2 i. How many moles of Calcium carbonate are involved in this reaction? ii. Calculate the gram molecular mass of calcium carbonate involved in this reaction iii. How many moles of CO2 are there in this equation?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "In the reaction CaCO₃ → CaO + CO₂, the number of moles of CaCO₃, its gram molecular mass and the number of moles of CO₂ are respectively",
         "options": [
-          "1 mole, 50 g, 2 moles",
           "1 mole, 100 g, 1 mole",
+          "1 mole, 50 g, 2 moles",
           "1 mole, 100 g, 2 moles",
           "2 moles, 100 g, 1 mole"
         ],
@@ -923,8 +923,8 @@
       "ta": {
         "q": "CaCO₃ → CaO + CO₂ வினையில் CaCO₃ மோல்களின் எண்ணிக்கை, அதன் கிராம் மூலக்கூறு நிறை, CO₂ மோல்களின் எண்ணிக்கை முறையே",
         "options": [
-          "1 மோல், 50 கி, 2 மோல்",
           "1 மோல், 100 கி, 1 மோல்",
+          "1 மோல், 50 கி, 2 மோல்",
           "1 மோல், 100 கி, 2 மோல்",
           "2 மோல், 100 கி, 1 மோல்"
         ],
@@ -938,13 +938,13 @@
       "bloom": "apply",
       "page": 104,
       "quote": "1. How many grams are there in the following? i. 2 moles of hydrogen molecule, H2 ii. 3 moles of chlorine molecule, Cl2 iii. 5 moles of sulphur molecule, S8 iv. 4 moles of phosphorous molecule, P4",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The masses of 2 moles of H₂, 3 moles of Cl₂, 5 moles of S₈ and 4 moles of P₄ are respectively (H = 1, Cl = 35.5, S = 32, P = 31)",
         "options": [
-          "4 g, 213 g, 160 g, 496 g",
-          "4 g, 106.5 g, 1280 g, 124 g",
           "4 g, 213 g, 1280 g, 496 g",
+          "4 g, 106.5 g, 1280 g, 124 g",
+          "4 g, 213 g, 160 g, 496 g",
           "2 g, 106.5 g, 160 g, 124 g"
         ],
         "explanation": "2 × 2 = 4 g; 3 × 71 = 213 g; 5 × 256 = 1280 g; 4 × 124 = 496 g."
@@ -952,9 +952,9 @@
       "ta": {
         "q": "2 மோல் H₂, 3 மோல் Cl₂, 5 மோல் S₈, 4 மோல் P₄ ஆகியவற்றின் நிறைகள் முறையே (H = 1, Cl = 35.5, S = 32, P = 31)",
         "options": [
-          "4 கி, 213 கி, 160 கி, 496 கி",
-          "4 கி, 106.5 கி, 1280 கி, 124 கி",
           "4 கி, 213 கி, 1280 கி, 496 கி",
+          "4 கி, 106.5 கி, 1280 கி, 124 கி",
+          "4 கி, 213 கி, 160 கி, 496 கி",
           "2 கி, 106.5 கி, 160 கி, 124 கி"
         ],
         "explanation": "2 × 2 = 4 கி; 3 × 71 = 213 கி; 5 × 256 = 1280 கி; 4 × 124 = 496 கி."
@@ -967,13 +967,13 @@
       "bloom": "apply",
       "page": 104,
       "quote": "2. Calculate the % of each element in calcium carbonate. (Atomic mass: C-12, O-16, Ca-40)",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The percentages of Ca, C and O in calcium carbonate (Ca = 40, C = 12, O = 16) are respectively",
         "options": [
-          "40 %, 12 %, 48 %",
-          "48 %, 12 %, 40 %",
           "40 %, 48 %, 12 %",
+          "48 %, 12 %, 40 %",
+          "40 %, 12 %, 48 %",
           "12 %, 40 %, 48 %"
         ],
         "explanation": "M = 100 g; Ca = 40/100, C = 12/100, O = 48/100."
@@ -981,9 +981,9 @@
       "ta": {
         "q": "கால்சியம் கார்பனேட்டில் Ca, C, O ஆகியவற்றின் சதவீதங்கள் முறையே (Ca = 40, C = 12, O = 16)",
         "options": [
-          "40 %, 12 %, 48 %",
-          "48 %, 12 %, 40 %",
           "40 %, 48 %, 12 %",
+          "48 %, 12 %, 40 %",
+          "40 %, 12 %, 48 %",
           "12 %, 40 %, 48 %"
         ],
         "explanation": "M = 100 கி; Ca = 40/100, C = 12/100, O = 48/100."
@@ -1025,13 +1025,13 @@
       "bloom": "apply",
       "page": 104,
       "quote": "4. Calculate the % relative abundance of B-10 and B-11, if its average atomic mass is 10.804 amu.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The average atomic mass of boron is 10.804 amu (isotopes B-10 and B-11). The percentage abundances of B-10 and B-11 are respectively",
         "options": [
           "10.8 % and 89.2 %",
-          "19.6 % and 80.4 %",
           "80.4 % and 19.6 %",
+          "19.6 % and 80.4 %",
           "50 % and 50 %"
         ],
         "explanation": "10x + 11(100 − x) = 1080.4 → x = 19.6 %."
@@ -1040,8 +1040,8 @@
         "q": "போரானின் சராசரி அணு நிறை 10.804 amu (ஐசோடோப்புகள் B-10, B-11). B-10, B-11 ஆகியவற்றின் சதவீத பரவல் முறையே",
         "options": [
           "10.8 %, 89.2 %",
-          "19.6 %, 80.4 %",
           "80.4 %, 19.6 %",
+          "19.6 %, 80.4 %",
           "50 %, 50 %"
         ],
         "explanation": "10x + 11(100 − x) = 1080.4 → x = 19.6 %."

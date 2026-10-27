@@ -97,24 +97,24 @@
       "bloom": "remember",
       "page": 85,
       "quote": "4. Harun-al-Rashid was the able emperor of (a) Abbasid dynasty (b) Umayyad dynasty (c) Sassanid dynasty (d) Mongol dynasty",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Harun-al-Rashid was the able emperor of which dynasty?",
         "options": [
-          "Abbasid",
+          "Mongol",
           "Umayyad",
           "Sassanid",
-          "Mongol"
+          "Abbasid"
         ],
         "explanation": "The Abbasid Empire was at its height under Harun-al-Rashid."
       },
       "ta": {
         "q": "ஹாரூன்-அல்-ரஷீத் எந்த வம்சத்தின் திறமை மிக்க பேரரசர்?",
         "options": [
-          "அப்பாசிய",
+          "மங்கோலிய",
           "உமையா",
           "சசானிய",
-          "மங்கோலிய"
+          "அப்பாசிய"
         ],
         "explanation": "அப்பாசியப் பேரரசு ஹாரூன்-அல்-ரஷீத் காலத்தில் உச்சம் பெற்றது."
       }
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 85,
       "quote": "5. Feudalism centred around (a) vassalage (b) slavery (c) serfdom (d) land",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Feudalism centred around:",
         "options": [
           "slavery",
-          "vassalage",
           "serfdom",
+          "vassalage",
           "trade"
         ],
         "explanation": "The feudal system centred around vassalage, with only rights and obligations."
@@ -141,8 +141,8 @@
         "q": "நிலமானிய முறை எதை மையமாகக் கொண்டது?",
         "options": [
           "அடிமைமுறை",
-          "சார்புரிமை (வசால்)",
           "பண்ணை அடிமைமுறை",
+          "சார்புரிமை (வசால்)",
           "வணிகம்"
         ],
         "explanation": "நிலமானிய முறை சார்புரிமையை மையமாகக் கொண்டது; அதில் உரிமைகளும் கடமைகளும் மட்டுமே இருந்தன."
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 85,
       "quote": "II.3 ____ was the original name of Medina.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Medina was originally named:",
         "options": [
           "Mecca",
           "Hijrah",
-          "Yethrib",
-          "Damascus"
+          "Damascus",
+          "Yethrib"
         ],
         "explanation": "The people of Yethrib renamed it Madinatun-Nabi – the city of the Prophet."
       },
@@ -229,8 +229,8 @@
         "options": [
           "மெக்கா",
           "ஹிஜ்ரா",
-          "யத்ரிப்",
-          "டமாஸ்கஸ்"
+          "டமாஸ்கஸ்",
+          "யத்ரிப்"
         ],
         "explanation": "நபியின் வருகையைக் கௌரவித்து யத்ரிப் 'மதீனதுன்-நபி' என மாற்றப்பட்டது."
       }
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 85,
       "quote": "II.5 ____ established Ottoman supremacy in the Balkans.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Who established Ottoman supremacy in the Balkans, Black Sea and the Middle East by conquering Constantinople in 1453?",
         "options": [
-          "Harun-al-Rashid",
-          "Saladin",
           "Mohammad II",
+          "Saladin",
+          "Harun-al-Rashid",
           "Mangu Khan"
         ],
         "explanation": "The conquest of Constantinople in 1453 by Mohammad II established Ottoman supremacy."
@@ -285,9 +285,9 @@
       "ta": {
         "q": "1453-இல் கான்ஸ்டான்டிநோபிளை வென்று பால்கன், கருங்கடல், மத்தியக் கிழக்கில் ஆட்டோமன் மேலாண்மையை நிலைநாட்டியவர்?",
         "options": [
-          "ஹாரூன்-அல்-ரஷீத்",
-          "சலாதீன்",
           "இரண்டாம் முகமது",
+          "சலாதீன்",
+          "ஹாரூன்-அல்-ரஷீத்",
           "மங்கு கான்"
         ],
         "explanation": "இரண்டாம் முகமது கான்ஸ்டான்டிநோபிளைக் கைப்பற்றி ஆட்டோமன் மேலாண்மையை நிறுவினார்."
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 86,
       "quote": "III.2 (i) Mangu Khan was the Governor of China. (ii) Mongol court in China impressed Marco Polo. (iii) The leader of Red Turbans was Hung Chao. (iv) Mongols established their rule in China in the name of Yuan dynasty.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Consider the statements:\n(i) Mangu Khan was the Governor of China.\n(ii) The Mongol court in China impressed Marco Polo.\n(iii) The leader of the Red Turbans was Hung Chao.\n(iv) The Mongols established their rule in China in the name of the Yuan dynasty.\nWhich are correct?",
         "options": [
-          "(ii) and (iv)",
-          "(i) and (ii)",
           "(iii) only",
+          "(i) and (ii)",
+          "(ii) and (iv)",
           "(i) and (iii)"
         ],
         "explanation": "Kublai Khan (not Mangu, the Great Khan) was Governor; the Red Turbans were led by Chu Yuan Chang (Hung Ch'ao led the earlier Tang-era rebellion)."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "பின்வரும் கூற்றுகளைக் கவனி:\n(i) மங்கு கான் சீனாவின் ஆளுநர்.\n(ii) சீனாவிலிருந்த மங்கோலிய அரசவை மார்க்கோ போலோவைக் கவர்ந்தது.\n(iii) சிவப்புத் தலைப்பாகையினரின் தலைவர் ஹுங் சாவோ.\n(iv) மங்கோலியர் யுவான் வம்சப் பெயரில் சீனாவை ஆண்டனர்.\nசரியானவை எவை?",
         "options": [
-          "(ii), (iv)",
-          "(i), (ii)",
           "(iii) மட்டும்",
+          "(i), (ii)",
+          "(ii), (iv)",
           "(i), (iii)"
         ],
         "explanation": "ஆளுநர் குப்லாய்கான்; மங்கு கான் பெரிய கான். சிவப்புத் தலைப்பாகையினர் தலைவர் சூ யுவான் சாங்."
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 86,
       "quote": "IV. Match the Following: Red Turbans – Chu Yuan Chang; Seljuk Turks – Central Asia; First Shogunate – Kamakura; Baghdad – City of Arabian Nights; Capture of Constantinople – Mohammad II",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Match:\na) Red Turbans\nb) Seljuq Turks\nc) First Shogunate\nd) Baghdad\n1. Kamakura\n2. Central Asia\n3. City of the Arabian Nights\n4. Chu Yuan Chang",
         "options": [
           "a-2, b-4, c-1, d-3",
           "a-4, b-2, c-3, d-1",
-          "a-4, b-2, c-1, d-3",
-          "a-1, b-2, c-4, d-3"
+          "a-1, b-2, c-4, d-3",
+          "a-4, b-2, c-1, d-3"
         ],
         "explanation": "Red Turbans – Chu Yuan Chang; Seljuq Turks came from Central Asia; the first Shogunate was at Kamakura; Baghdad was the city of the Arabian Nights."
       },
@@ -432,8 +432,8 @@
         "options": [
           "அ-2, ஆ-4, இ-1, ஈ-3",
           "அ-4, ஆ-2, இ-3, ஈ-1",
-          "அ-4, ஆ-2, இ-1, ஈ-3",
-          "அ-1, ஆ-2, இ-4, ஈ-3"
+          "அ-1, ஆ-2, இ-4, ஈ-3",
+          "அ-4, ஆ-2, இ-1, ஈ-3"
         ],
         "explanation": "சிவப்புத் தலைப்பாகையினர் – சூ யுவான் சாங்; செல்ஜுக் – மத்திய ஆசியா; முதல் ஷோகுனேட் – கமகுரா; பாக்தாத் – அரேபிய இரவுகளின் நகரம்."
       }
@@ -445,12 +445,12 @@
       "bloom": "remember",
       "page": 86,
       "quote": "5. Capture of Constantinople – Mohammad II",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The conquest of Constantinople in 1453 was achieved by:",
         "options": [
-          "Chu Yuan Chang",
           "Mohammad II",
+          "Chu Yuan Chang",
           "Yoritomo",
           "Chengiz Khan"
         ],
@@ -459,8 +459,8 @@
       "ta": {
         "q": "1453-இல் கான்ஸ்டான்டிநோபிளை வென்றவர் யார்?",
         "options": [
-          "சூ யுவான் சாங்",
           "இரண்டாம் முகமது",
+          "சூ யுவான் சாங்",
           "யோரிடோமோ",
           "செங்கிஸ்கான்"
         ],

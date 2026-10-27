@@ -10,12 +10,12 @@
       "bloom": "remember",
       "page": 246,
       "quote": "Which of the following sequences in right regarding the Preamble?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "In which order do the words describing India appear in the Preamble of the Constitution?",
         "options": [
-          "Sovereign, Socialist, Secular, Republic, Democratic",
           "Sovereign, Socialist, Secular, Democratic, Republic",
+          "Sovereign, Socialist, Secular, Republic, Democratic",
           "Sovereign, Republic, Secular, Socialist, Democratic",
           "Republic, Democratic, Secular, Socialist, Sovereign"
         ],
@@ -24,8 +24,8 @@
       "ta": {
         "q": "அரசியலமைப்பின் முகவுரையில் இந்தியாவைக் குறிக்கும் சொற்கள் எந்த வரிசையில் அமைந்துள்ளன?",
         "options": [
-          "இறையாண்மை, சமதர்மம், சமயச்சார்பின்மை, குடியரசு, ஜனநாயகம்",
           "இறையாண்மை, சமதர்மம், சமயச்சார்பின்மை, ஜனநாயகம், குடியரசு",
+          "இறையாண்மை, சமதர்மம், சமயச்சார்பின்மை, குடியரசு, ஜனநாயகம்",
           "இறையாண்மை, குடியரசு, சமயச்சார்பின்மை, சமதர்மம், ஜனநாயகம்",
           "குடியரசு, ஜனநாயகம், சமயச்சார்பின்மை, சமதர்மம், இறையாண்மை"
         ],
@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 246,
       "quote": "How many times has the Preamble to the Constitution of India amended?",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "How many times has the Preamble of the Constitution of India been amended so far?",
         "options": [
-          "Once",
+          "Thrice",
           "Never",
           "Twice",
-          "Thrice"
+          "Once"
         ],
         "explanation": "The Preamble was amended only once, by the 42nd Amendment (1976), which added 'Socialist', 'Secular' and 'Integrity'."
       },
       "ta": {
         "q": "இந்திய அரசியலமைப்பின் முகவுரை இதுவரை எத்தனை முறை திருத்தப்பட்டுள்ளது?",
         "options": [
-          "ஒருமுறை",
+          "மும்முறை",
           "ஒருபோதும் இல்லை",
           "இருமுறை",
-          "மும்முறை"
+          "ஒருமுறை"
         ],
         "explanation": "முகவுரை 1976 42ஆவது திருத்தத்தால் ஒருமுறை மட்டுமே திருத்தப்பட்டது; 'சமதர்மம்', 'சமயச்சார்பின்மை', 'ஒருமைப்பாடு' சேர்க்கப்பட்டன."
       }
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 246,
       "quote": "One of the following is not an instance of an exercise of a fundamental right?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following is NOT an instance of the exercise of a fundamental right?",
         "options": [
           "Men and women government employees get the same salary",
           "Christian missions set up a chain of missionary schools",
-          "Workers from Karnataka go to Kerala to work on the farms",
-          "Parents' property is inherited by their children"
+          "Parents' property is inherited by their children",
+          "Workers from Karnataka go to Kerala to work on the farms"
         ],
         "explanation": "Inheritance is a legal matter (property is no longer a fundamental right); the others reflect freedom of movement/profession, minority educational rights and equality."
       },
@@ -142,8 +142,8 @@
         "options": [
           "அரசு ஊழியர்களான ஆண்-பெண் இருவரும் ஒரே ஊதியம் பெறுதல்",
           "கிறிஸ்தவ மிஷன்கள் தொடர் பள்ளிகளை அமைத்தல்",
-          "கர்நாடகத் தொழிலாளர்கள் கேரளப் பண்ணைகளில் வேலை செய்யச் செல்லுதல்",
-          "பெற்றோரின் சொத்தைப் பிள்ளைகள் வாரிசாகப் பெறுதல்"
+          "பெற்றோரின் சொத்தைப் பிள்ளைகள் வாரிசாகப் பெறுதல்",
+          "கர்நாடகத் தொழிலாளர்கள் கேரளப் பண்ணைகளில் வேலை செய்யச் செல்லுதல்"
         ],
         "explanation": "வாரிசுரிமை சட்ட உரிமை; பிறவை நடமாட்ட/தொழில் சுதந்திரம், சிறுபான்மையினர் கல்வி உரிமை, சமத்துவ உரிமை ஆகியவற்றின் வெளிப்பாடுகள்."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 246,
       "quote": "Which one of the following rights was described by Dr. B.R. Ambedkar as the heart and soul of the Constitution?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which right did Dr. B.R. Ambedkar describe as “the heart and soul of the whole Constitution”?",
         "options": [
           "Right to Property",
-          "Right to Constitutional Remedies",
           "Right to Freedom of Religion",
+          "Right to Constitutional Remedies",
           "Right to Equality"
         ],
         "explanation": "Article 32 (Right to Constitutional Remedies) is the heart and soul of the Constitution."
@@ -170,8 +170,8 @@
         "q": "அரசியலமைப்பின் 'இதயமும் ஆன்மாவும்' என டாக்டர் அம்பேத்கர் வர்ணித்த உரிமை எது?",
         "options": [
           "சொத்துரிமை",
-          "அரசியலமைப்புத் தீர்வுகளுக்கான உரிமை",
           "சமய சுதந்திர உரிமை",
+          "அரசியலமைப்புத் தீர்வுகளுக்கான உரிமை",
           "சமத்துவ உரிமை"
         ],
         "explanation": "பிரிவு 32 (அரசியலமைப்புத் தீர்வுகளுக்கான உரிமை) அரசியலமைப்பின் இதயமும் ஆன்மாவும்."
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 247,
       "quote": "How can the Fundamental Rights be suspended?",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Fundamental Rights can be suspended",
         "options": [
-          "If the President orders it during a national emergency",
           "If the Prime Minister so orders",
+          "If the President orders it during a national emergency",
           "If the Supreme Court so desires",
           "By any State Governor"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "அடிப்படை உரிமைகளை எவ்வாறு இடைநிறுத்தலாம்?",
         "options": [
-          "தேசிய அவசரநிலைக் காலத்தில் குடியரசுத் தலைவர் ஆணையிட்டால்",
           "பிரதம மந்திரி ஆணையிட்டால்",
+          "தேசிய அவசரநிலைக் காலத்தில் குடியரசுத் தலைவர் ஆணையிட்டால்",
           "உச்சநீதிமன்றம் விரும்பினால்",
           "எந்த மாநில ஆளுநராலும்"
         ],
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 247,
       "quote": "We borrowed the Fundamental Duties from the",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The Fundamental Duties in the Indian Constitution were inspired by the Constitution of",
         "options": [
           "USA",
-          "Ireland",
           "The former USSR (Russia)",
+          "Ireland",
           "Canada"
         ],
         "explanation": "The Swaran Singh Committee (1976) recommended them; they were added by the 42nd Amendment."
@@ -228,8 +228,8 @@
         "q": "இந்திய அரசியலமைப்பின் அடிப்படைக் கடமைகள் எந்த நாட்டு அரசியலமைப்பால் ஈர்க்கப்பட்டன?",
         "options": [
           "அமெரிக்கா",
-          "அயர்லாந்து",
           "முன்னாள் சோவியத் ஒன்றியம் (ரஷ்யா)",
+          "அயர்லாந்து",
           "கனடா"
         ],
         "explanation": "1976 ஸ்வரண் சிங் குழு பரிந்துரைத்தது; 42ஆவது திருத்தத்தால் சேர்க்கப்பட்டன."
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 247,
       "quote": "________ was elected as the temporary President of the Constituent Assembly.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Who was elected as the temporary President of the Constituent Assembly at its first meeting on 9 December 1946?",
         "options": [
           "Dr. Rajendra Prasad",
           "H.C. Mukherjee",
-          "Dr. B.R. Ambedkar",
-          "Dr. Sachchidananda Sinha"
+          "Dr. Sachchidananda Sinha",
+          "Dr. B.R. Ambedkar"
         ],
         "explanation": "Sinha, the oldest member, was the temporary President; Rajendra Prasad was later elected President of the Assembly."
       },
@@ -316,8 +316,8 @@
         "options": [
           "டாக்டர் இராஜேந்திர பிரசாத்",
           "எச்.சி. முகர்ஜி",
-          "டாக்டர் பி.ஆர். அம்பேத்கர்",
-          "டாக்டர் சச்சிதானந்த சின்ஹா"
+          "டாக்டர் சச்சிதானந்த சின்ஹா",
+          "டாக்டர் பி.ஆர். அம்பேத்கர்"
         ],
         "explanation": "மூத்த உறுப்பினர் சின்ஹா தற்காலிகத் தலைவர்; பின்னர் இராஜேந்திர பிரசாத் தலைவரானார்."
       }
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 247,
       "quote": "________ writs are mentioned in Article 32.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "How many types of writs are mentioned in Article 32 of the Constitution?",
         "options": [
-          "Five",
-          "Three",
           "Six",
+          "Three",
+          "Five",
           "Four"
         ],
         "explanation": "The five writs are Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo Warranto, issued by the Supreme Court and High Courts."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "அரசியலமைப்பின் பிரிவு 32இல் எத்தனை வகை நீதிப்பேராணைகள் குறிப்பிடப்பட்டுள்ளன?",
         "options": [
-          "ஐந்து",
-          "மூன்று",
           "ஆறு",
+          "மூன்று",
+          "ஐந்து",
           "நான்கு"
         ],
         "explanation": "ஆட்கொணர்வு, செயல்படுத்தும், தடை, நெறிமுறை, அதிகார விசாரணை ஆகிய ஐந்து ஆணைகளை உச்ச, உயர் நீதிமன்றங்கள் பிறப்பிக்கும்."
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 247,
       "quote": "Fundamental duties have been given to the citizen of India under Article ________.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The Fundamental Duties of citizens are given under which Article of the Constitution?",
         "options": [
           "Article 32",
           "Article 21A",
-          "Article 51A",
-          "Article 300A"
+          "Article 300A",
+          "Article 51A"
         ],
         "explanation": "Fundamental Duties were added to Part IVA (Art. 51A) by the 42nd Amendment, 1976."
       },
@@ -374,8 +374,8 @@
         "options": [
           "பிரிவு 32",
           "பிரிவு 21A",
-          "பிரிவு 51A",
-          "பிரிவு 300A"
+          "பிரிவு 300A",
+          "பிரிவு 51A"
         ],
         "explanation": "அடிப்படைக் கடமைகள் 1976 42ஆவது திருத்தத்தால் பகுதி IVA (பிரிவு 51A)இல் சேர்க்கப்பட்டன."
       }
@@ -387,24 +387,24 @@
       "bloom": "remember",
       "page": 247,
       "quote": "III Match: Citizenship Act, The Preamble, The mini Constitution, Classical language, National Emergency",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Match List I with List II.\nList I: a. Citizenship Act  b. The mini Constitution  c. Classical language  d. National Emergency\nList II: 1. 1955  2. 42nd Amendment  3. 1962  4. Tamil",
         "options": [
-          "a-1, b-4, c-2, d-3",
+          "a-1, b-2, c-4, d-3",
           "a-2, b-1, c-4, d-3",
           "a-1, b-2, c-3, d-4",
-          "a-1, b-2, c-4, d-3"
+          "a-1, b-4, c-2, d-3"
         ],
         "explanation": "The Citizenship Act was passed in 1955; the 42nd Amendment is the 'mini Constitution'; Tamil was the first classical language (2004); a national emergency was first declared in 1962."
       },
       "ta": {
         "q": "பட்டியல் I-ஐ பட்டியல் II உடன் பொருத்துக.\nபட்டியல் I: a. குடியுரிமைச் சட்டம்  b. சிறிய அரசியலமைப்பு (மினி அரசியலமைப்பு)  c. செம்மொழி  d. தேசிய அவசரநிலை\nபட்டியல் II: 1. 1955  2. 42ஆவது திருத்தம்  3. 1962  4. தமிழ்",
         "options": [
-          "a-1, b-4, c-2, d-3",
+          "a-1, b-2, c-4, d-3",
           "a-2, b-1, c-4, d-3",
           "a-1, b-2, c-3, d-4",
-          "a-1, b-2, c-4, d-3"
+          "a-1, b-4, c-2, d-3"
         ],
         "explanation": "குடியுரிமைச் சட்டம் 1955; 42ஆவது திருத்தம் மினி அரசியலமைப்பு; தமிழ் முதல் செம்மொழி (2004); முதல் தேசிய அவசரநிலை 1962."
       }
@@ -474,12 +474,12 @@
       "bloom": "remember",
       "page": 247,
       "quote": "List out the three heads of the relations between the Centre and the States.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The relations between the Centre and the States are divided under which three heads?",
         "options": [
-          "Judicial, Political and Social relations",
           "Legislative, Administrative and Financial relations",
+          "Judicial, Political and Social relations",
           "Electoral, Financial and Judicial relations",
           "Military, Legislative and Cultural relations"
         ],
@@ -488,8 +488,8 @@
       "ta": {
         "q": "மத்திய-மாநில உறவுகள் எந்த மூன்று தலைப்புகளில் பகுக்கப்பட்டுள்ளன?",
         "options": [
-          "நீதி, அரசியல், சமூக உறவுகள்",
           "சட்டமியற்றுதல், நிர்வாகம், நிதி உறவுகள்",
+          "நீதி, அரசியல், சமூக உறவுகள்",
           "தேர்தல், நிதி, நீதி உறவுகள்",
           "இராணுவம், சட்டமியற்றுதல், பண்பாட்டு உறவுகள்"
         ],
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 247,
       "quote": "What are the classical languages in India?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which of the following is NOT a classical language of India?",
         "options": [
           "Tamil",
-          "Telugu",
           "Hindi",
+          "Telugu",
           "Odia"
         ],
         "explanation": "Tamil (2004) was the first classical language; Sanskrit, Telugu, Kannada, Malayalam, Odia and, in 2024, Marathi, Pali, Prakrit, Assamese and Bengali followed. Hindi is not classical. (The book lists six languages, as of its printing.)"
@@ -518,8 +518,8 @@
         "q": "பின்வருவனவற்றுள் இந்தியாவின் செம்மொழி அல்லாதது எது?",
         "options": [
           "தமிழ்",
-          "தெலுங்கு",
           "இந்தி",
+          "தெலுங்கு",
           "ஒடியா"
         ],
         "explanation": "தமிழ் (2004) முதல் செம்மொழி; பின்னர் சமஸ்கிருதம், தெலுங்கு, கன்னடம், மலையாளம், ஒடியா, 2024இல் மராத்தி, பாலி, பிராகிருதம், அசாமி, வங்காளம் சேர்ந்தன. இந்தி செம்மொழி அன்று. (பாடநூல் அச்சிடப்பட்ட நிலையில் ஆறு மொழிகளைக் குறிப்பிடுகிறது.)"
@@ -532,13 +532,13 @@
       "bloom": "remember",
       "page": 247,
       "quote": "What is national emergency?",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Under which Article can the President declare a national emergency if India's security is threatened by war, external aggression or armed rebellion?",
         "options": [
-          "Article 352",
-          "Article 356",
           "Article 368",
+          "Article 356",
+          "Article 352",
           "Article 360"
         ],
         "explanation": "National emergency (Art. 352): external emergency on war/aggression, internal on armed rebellion (declared in 1962, 1971 and 1975)."
@@ -546,9 +546,9 @@
       "ta": {
         "q": "போர், வெளிநாட்டு ஆக்கிரமிப்பு அல்லது ஆயுதக் கிளர்ச்சியால் இந்தியாவின் பாதுகாப்புக்கு அச்சுறுத்தல் ஏற்படும்போது குடியரசுத் தலைவர் தேசிய அவசரநிலையை அறிவிக்கும் பிரிவு எது?",
         "options": [
-          "பிரிவு 352",
-          "பிரிவு 356",
           "பிரிவு 368",
+          "பிரிவு 356",
+          "பிரிவு 352",
           "பிரிவு 360"
         ],
         "explanation": "தேசிய அவசரநிலை (பிரிவு 352): போர்/ஆக்கிரமிப்பால் வெளி அவசரநிலை; ஆயுதக் கிளர்ச்சியால் உள் அவசரநிலை (1962, 1971, 1975)."

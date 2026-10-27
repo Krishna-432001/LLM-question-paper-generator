@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 43,
       "quote": "The process of converting a liquid into a solid is called a) sublimation b) condensation c) freezing d) deposition",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The process of converting a liquid into a solid is called ______.",
         "options": [
           "sublimation",
-          "freezing",
           "condensation",
+          "freezing",
           "deposition"
         ],
         "explanation": "Liquid to solid is freezing."
@@ -112,8 +112,8 @@
         "q": "திரவ நிலையிலிருந்து திடநிலைக்கு மாறும் நிகழ்விற்கு ______ என்று பெயர்.",
         "options": [
           "பதங்கமாதல்",
-          "உறைதல்",
           "குளிர்வித்தல்",
+          "உறைதல்",
           "படிதல்"
         ],
         "explanation": "திரவம் திடப்பொருளாக மாறுவது உறைதல்."
@@ -126,24 +126,24 @@
       "bloom": "remember",
       "page": 43,
       "quote": "Conduction is the way of heat transfer which takes place in a ____________. a) solid b) liquid c) gas d) All of them",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Conduction is the way of heat transfer which takes place in ______.",
         "options": [
-          "liquids",
+          "solids",
           "gases",
           "vacuum",
-          "solids"
+          "liquids"
         ],
         "explanation": "Conduction occurs in solids; convection in liquids and gases; radiation in vacuum."
       },
       "ta": {
         "q": "வெப்பக் கடத்தல் முறையில் வெப்ப ஆற்றல் பரிமாற்றம் ______ நடைபெறும்.",
         "options": [
-          "திரவப் பொருளில்",
+          "திடப்பொருளில்",
           "வாயுப் பொருளில்",
           "வெற்றிடத்தில்",
-          "திடப்பொருளில்"
+          "திரவப் பொருளில்"
         ],
         "explanation": "வெப்பக் கடத்தல் திடப்பொருளில்; வெப்பச் சலனம் திரவ, வாயுக்களில்; வெப்பக் கதிர்வீச்சு வெற்றிடத்தில்."
       }
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 43,
       "quote": "_______ is defined as the amount of heat required to raise the temperature of 1kg of a substance by 1°C.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The amount of heat required to raise the temperature of 1 kg of a substance by 1 °C is called its ______.",
         "options": [
-          "heat capacity",
           "specific heat capacity",
+          "heat capacity",
           "calorie",
           "latent heat"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "1 கிலோகிராம் நிறையுள்ள பொருளின் வெப்பநிலையை 1°C உயர்த்தத் தேவைப்படும் வெப்ப ஆற்றலின் அளவு ______ எனப்படும்.",
         "options": [
-          "வெப்ப ஏற்புத்திறன்",
           "தன் வெப்ப ஏற்புத்திறன்",
+          "வெப்ப ஏற்புத்திறன்",
           "கலோரி",
           "உள்ளுறை வெப்பம்"
         ],
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 43,
       "quote": "If you apply heat energy, the temperature of a system will ________.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "If heat energy is applied to a system, its temperature will ______.",
         "options": [
           "decrease",
-          "become negative",
+          "increase",
           "remain zero",
-          "increase"
+          "become negative"
         ],
         "explanation": "Heat increases the kinetic energy of molecules and so raises the temperature (unless a change of state occurs)."
       },
@@ -257,9 +257,9 @@
         "q": "ஒரு அமைப்பிற்கு வெப்ப ஆற்றலை அளிக்கும்போது அதன் வெப்பநிலை ______.",
         "options": [
           "குறையும்",
-          "எதிர்மமாகும்",
+          "உயரும்",
           "சுழியாகும்",
-          "உயரும்"
+          "எதிர்மமாகும்"
         ],
         "explanation": "வெப்ப ஆற்றல் மூலக்கூறுகளின் இயக்க ஆற்றலை அதிகரித்து வெப்பநிலையை உயர்த்தும்."
       }
@@ -300,12 +300,12 @@
       "bloom": "remember",
       "page": 43,
       "quote": "The applied heat energy can be realised as an increase in the average kinetic energy of the molecules.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Heat energy given to a substance is realised as ______.",
         "options": [
-          "an increase in the average kinetic energy of its molecules",
           "a decrease in the average kinetic energy of its molecules",
+          "an increase in the average kinetic energy of its molecules",
           "a decrease in its mass",
           "an increase in its electric charge"
         ],
@@ -314,8 +314,8 @@
       "ta": {
         "q": "ஒரு பொருளுக்கு அளிக்கப்படும் வெப்ப ஆற்றல் ______ ஆக உணரப்படுகிறது.",
         "options": [
-          "அதன் மூலக்கூறுகளின் சராசரி இயக்க ஆற்றலின் அதிகரிப்பு",
           "மூலக்கூறுகளின் சராசரி இயக்க ஆற்றலின் குறைவு",
+          "அதன் மூலக்கூறுகளின் சராசரி இயக்க ஆற்றலின் அதிகரிப்பு",
           "நிறையின் குறைவு",
           "மின்னூட்டத்தின் அதிகரிப்பு"
         ],
@@ -329,14 +329,14 @@
       "bloom": "remember",
       "page": 43,
       "quote": "The dimensions of a substance are increased if the temperature of the substance is decreased.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which statement about the dimensions of a substance on heating or cooling is correct?",
         "options": [
           "The dimensions of a substance increase when its temperature is decreased.",
           "Only the mass changes with temperature.",
-          "Dimensions never change with temperature.",
-          "The dimensions of a substance increase when its temperature is increased."
+          "The dimensions of a substance increase when its temperature is increased.",
+          "Dimensions never change with temperature."
         ],
         "explanation": "On heating, atoms vibrate more and force each other apart, so substances expand; on cooling they contract."
       },
@@ -345,8 +345,8 @@
         "options": [
           "ஒரு பொருளின் வெப்பநிலை குறையும்போது அதன் பரிமாணம் அதிகரிக்கும்.",
           "வெப்பநிலையால் நிறை மட்டுமே மாறும்.",
-          "வெப்பநிலையால் பரிமாணம் மாறுவதில்லை.",
-          "ஒரு பொருளின் வெப்பநிலை அதிகரிக்கும்போது அதன் பரிமாணம் அதிகரிக்கும்."
+          "ஒரு பொருளின் வெப்பநிலை அதிகரிக்கும்போது அதன் பரிமாணம் அதிகரிக்கும்.",
+          "வெப்பநிலையால் பரிமாணம் மாறுவதில்லை."
         ],
         "explanation": "வெப்பப்படுத்தும்போது அணுக்கள் அதிகமாக அதிர்ந்து பொருள் விரிவடையும்; குளிர்விக்கும்போது சுருங்கும்."
       }
@@ -358,24 +358,24 @@
       "bloom": "remember",
       "page": 43,
       "quote": "The process of converting a substance from solid state to gaseous state is called condensation.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The conversion of a substance from the solid state directly to the gaseous state is called ______.",
         "options": [
-          "condensation",
+          "sublimation",
           "freezing",
           "deposition",
-          "sublimation"
+          "condensation"
         ],
         "explanation": "Conversion from solid directly to gas is sublimation; condensation is gas to liquid."
       },
       "ta": {
         "q": "ஒரு பொருள் திட நிலையிலிருந்து நேரடியாக வாயு நிலைக்கு மாறும் நிகழ்விற்கு ______ என்று பெயர்.",
         "options": [
-          "குளிர்வித்தல்",
+          "பதங்கமாதல்",
           "உறைதல்",
           "படிதல்",
-          "பதங்கமாதல்"
+          "குளிர்வித்தல்"
         ],
         "explanation": "திடப்பொருள் நேரடியாக வாயுவாக மாறுவது பதங்கமாதல்; வாயு திரவமாக மாறுவது குளிர்வித்தல் (ஒடுக்கம்)."
       }
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 43,
       "quote": "Convection is the process by which the thermal energy flows in solids.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "In which of the following does heat transfer by convection take place?",
         "options": [
           "Solids only",
-          "Liquids and gases",
+          "Metals only",
           "Vacuum only",
-          "Metals only"
+          "Liquids and gases"
         ],
         "explanation": "Convection takes place in liquids and gases; in solids heat flows by conduction."
       },
@@ -402,9 +402,9 @@
         "q": "வெப்பச் சலனம் நடைபெறுவது எதில்?",
         "options": [
           "திடப்பொருள்களில் மட்டும்",
-          "திரவங்கள், வாயுக்களில்",
+          "உலோகங்களில் மட்டும்",
           "வெற்றிடத்தில் மட்டும்",
-          "உலோகங்களில் மட்டும்"
+          "திரவங்கள், வாயுக்களில்"
         ],
         "explanation": "வெப்பச் சலனம் திரவ, வாயுக்களில் நிகழும்; திடப்பொருளில் வெப்பம் கடத்தல் மூலம் பரவும்."
       }
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 43,
       "quote": "The amount of heat gained by a substance is equal to the product of its mass and latent heat.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The heat gained by a substance is given by Q = ______.",
         "options": [
           "mass × latent heat only",
-          "mass × specific heat capacity × rise in temperature",
+          "specific heat capacity ÷ mass",
           "mass ÷ temperature",
-          "specific heat capacity ÷ mass"
+          "mass × specific heat capacity × rise in temperature"
         ],
         "explanation": "Q = m × C × ΔT. The book's statement (product of mass and latent heat) is false."
       },
@@ -431,9 +431,9 @@
         "q": "ஒரு பொருள் ஏற்கும் வெப்பத்தின் அளவு Q = ______.",
         "options": [
           "நிறை × உள்ளுறை வெப்பம் மட்டும்",
-          "நிறை × தன் வெப்ப ஏற்புத்திறன் × வெப்பநிலை உயர்வு",
+          "தன் வெப்ப ஏற்புத்திறன் ÷ நிறை",
           "நிறை ÷ வெப்பநிலை",
-          "தன் வெப்ப ஏற்புத்திறன் ÷ நிறை"
+          "நிறை × தன் வெப்ப ஏற்புத்திறன் × வெப்பநிலை உயர்வு"
         ],
         "explanation": "Q = m × C × ΔT; நூலின் கூற்று (நிறை × உள்ளுறை வெப்பம்) தவறு."
       }
@@ -445,12 +445,12 @@
       "bloom": "remember",
       "page": 43,
       "quote": "In a thermos flask, the silvered walls reflect and radiate the heat outside.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "In a thermos flask the silvered walls ______.",
         "options": [
-          "reflect the radiated heat back to the liquid inside",
           "radiate the heat to the outside",
+          "reflect the radiated heat back to the liquid inside",
           "conduct the heat to the outside",
           "absorb all the heat"
         ],
@@ -459,8 +459,8 @@
       "ta": {
         "q": "வெப்பக் குடுவையில் சில்வர் சுவர்கள் வெப்பத்தை ______.",
         "options": [
-          "திரவத்திற்குள் மீண்டும் எதிரொளிக்கின்றன",
           "வெளிப்புறத்தில் கதிர்வீசுகின்றன",
+          "திரவத்திற்குள் மீண்டும் எதிரொளிக்கின்றன",
           "வெளிப்புறத்திற்குக் கடத்துகின்றன",
           "முழுவதும் உறிஞ்சுகின்றன"
         ],
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 43,
       "quote": "Match the following: Conduction, Convection, Radiation, Sublimation, Condensation",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Match List I with List II:\na) Conduction\nb) Convection\nc) Radiation\nd) Condensation\n1. Gas to liquid\n2. Vacuum\n3. Solid\n4. Liquid",
         "options": [
           "a-1, b-2, c-3, d-4",
           "a-4, b-1, c-3, d-2",
-          "a-3, b-4, c-2, d-1",
-          "a-3, b-2, c-1, d-4"
+          "a-3, b-2, c-1, d-4",
+          "a-3, b-4, c-2, d-1"
         ],
         "explanation": "Conduction – Solid; Convection – Liquid; Radiation – Vacuum; Condensation – Gas to liquid."
       },
@@ -490,8 +490,8 @@
         "options": [
           "a-1, b-2, c-3, d-4",
           "a-4, b-1, c-3, d-2",
-          "a-3, b-4, c-2, d-1",
-          "a-3, b-2, c-1, d-4"
+          "a-3, b-2, c-1, d-4",
+          "a-3, b-4, c-2, d-1"
         ],
         "explanation": "வெப்பக் கடத்தல் – திடப்பொருள்; வெப்பச் சலனம் – திரவப்பொருள்; வெப்பக் கதிர்வீச்சு – வெற்றிடம்; குளிர்வித்தல் – வாயு → திரவம்."
       }
@@ -561,12 +561,12 @@
       "bloom": "remember",
       "page": 44,
       "quote": "Name three types of heat transfer.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The three ways of heat transfer are ______.",
         "options": [
-          "conduction, convection and radiation",
           "conduction, convection and sublimation",
+          "conduction, convection and radiation",
           "radiation, condensation and conduction",
           "convection, freezing and radiation"
         ],
@@ -575,8 +575,8 @@
       "ta": {
         "q": "வெப்பம் கடத்தப்படும் மூன்று முறைகள் ______.",
         "options": [
-          "வெப்பக் கடத்தல், வெப்பச் சலனம், வெப்பக் கதிர்வீச்சு",
           "வெப்பக் கடத்தல், வெப்பச் சலனம், பதங்கமாதல்",
+          "வெப்பக் கடத்தல், வெப்பச் சலனம், வெப்பக் கதிர்வீச்சு",
           "வெப்பக் கதிர்வீச்சு, குளிர்வித்தல், வெப்பக் கடத்தல்",
           "வெப்பச் சலனம், உறைதல், வெப்பக் கதிர்வீச்சு"
         ],
@@ -619,13 +619,13 @@
       "bloom": "remember",
       "page": 44,
       "quote": "Write a note on convection.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Convection is the form of heat transfer from places of high temperature to low temperature ______.",
         "options": [
           "without any movement of molecules",
-          "through empty space as waves",
           "by the actual movement of molecules of liquids or gases",
+          "through empty space as waves",
           "through solids only"
         ],
         "explanation": "In convection, heat is carried by the actual movement of molecules in liquids and gases."
@@ -634,8 +634,8 @@
         "q": "வெப்பச் சலனம் என்பது அதிக வெப்பநிலைப் பகுதியிலிருந்து குறைந்த வெப்பநிலைப் பகுதிக்கு ______ வெப்பம் பரவும் முறை.",
         "options": [
           "மூலக்கூறுகள் இடம்பெயராமல்",
-          "வெற்றிடத்தின் வழியே அலைகளாக",
           "திரவ, வாயு மூலக்கூறுகளின் உண்மையான இயக்கத்தால்",
+          "வெற்றிடத்தின் வழியே அலைகளாக",
           "திடப்பொருளில் மட்டும்"
         ],
         "explanation": "வெப்பச் சலனத்தில் திரவ, வாயு மூலக்கூறுகளின் இயக்கத்தால் வெப்பம் எடுத்துச் செல்லப்படுகிறது."
@@ -677,12 +677,12 @@
       "bloom": "remember",
       "page": 44,
       "quote": "Define one calorie.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "One calorie is the amount of heat energy required to raise the temperature of ______ of water through 1 °C.",
         "options": [
-          "1 gram",
           "1 kilogram",
+          "1 gram",
           "10 grams",
           "1 litre"
         ],
@@ -691,8 +691,8 @@
       "ta": {
         "q": "ஒரு கலோரி என்பது ______ நீரின் வெப்பநிலையை 1°C உயர்த்தத் தேவையான வெப்ப ஆற்றலின் அளவு.",
         "options": [
-          "1 கிராம்",
           "1 கிலோகிராம்",
+          "1 கிராம்",
           "10 கிராம்",
           "1 லிட்டர்"
         ],
@@ -735,13 +735,13 @@
       "bloom": "apply",
       "page": 44,
       "quote": "An iron ball requires 1000 J of heat to raise its temperature by 20°C. Calculate the heat capacity of the ball.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "An iron ball requires 1000 J of heat to raise its temperature by 20 °C. Its heat capacity is ______.",
         "options": [
           "20 J K⁻¹",
-          "50 J K⁻¹",
           "500 J K⁻¹",
+          "50 J K⁻¹",
           "2000 J K⁻¹"
         ],
         "explanation": "C' = Q/ΔT = 1000/20 = 50 J K⁻¹."
@@ -750,8 +750,8 @@
         "q": "ஓர் இரும்புப் பந்தின் வெப்பநிலையை 20°C உயர்த்த 1000 J ஆற்றல் தேவைப்படுகிறது. அதன் வெப்ப ஏற்புத்திறன் ______.",
         "options": [
           "20 JK⁻¹",
-          "50 JK⁻¹",
           "500 JK⁻¹",
+          "50 JK⁻¹",
           "2000 JK⁻¹"
         ],
         "explanation": "C' = Q/ΔT = 1000/20 = 50 JK⁻¹."

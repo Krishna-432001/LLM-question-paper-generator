@@ -10,24 +10,24 @@
       "bloom": "remember",
       "page": 205,
       "quote": "1. At a red light a) You can keep going if the path looks clear. b) You must stop and wait for it turn green. c) Quickly you can reply your friend's text message. d) You can attend call.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "At a red traffic light you must ______.",
         "options": [
-          "keep going if the path looks clear",
+          "stop behind the stop line and wait for the green signal",
           "reply quickly to a friend's text message",
           "attend a phone call",
-          "stop behind the stop line and wait for the green signal"
+          "keep going if the path looks clear"
         ],
         "explanation": "Red indicates stop behind the stop line; red-light jumping is dangerous and illegal."
       },
       "ta": {
         "q": "சிவப்பு விளக்கு எரியும்போது நீங்கள் ______.",
         "options": [
-          "பாதை தெளிவாக இருந்தால் தொடர்ந்து செல்லலாம்",
+          "நிறுத்தக் கோட்டிற்குப் பின் நின்று பச்சை விளக்கு வரும்வரை காத்திருக்க வேண்டும்",
           "நண்பரின் குறுஞ்செய்திக்கு விரைவாகப் பதில் அனுப்பலாம்",
           "தொலைபேசி அழைப்பை ஏற்கலாம்",
-          "நிறுத்தக் கோட்டிற்குப் பின் நின்று பச்சை விளக்கு வரும்வரை காத்திருக்க வேண்டும்"
+          "பாதை தெளிவாக இருந்தால் தொடர்ந்து செல்லலாம்"
         ],
         "explanation": "சிவப்பு விளக்கு நிறுத்தக் கோட்டிற்குப் பின் நிற்கக் குறிக்கும்; சிவப்பைத் தாண்டுவது ஆபத்தானதும் சட்டவிரோதமானதும் ஆகும்."
       }
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 206,
       "quote": "2. Pedestrians can cross the road only ______. a) At anywhere b) Near the signals c) At zebra crossing d) None",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Pedestrians can cross the road only ______.",
         "options": [
           "anywhere",
-          "at a zebra crossing",
           "anywhere near a bus stop",
+          "at a zebra crossing",
           "on a red or yellow light"
         ],
         "explanation": "Pedestrians should never cross on red and yellow light and should avoid walking on the roads."
@@ -54,8 +54,8 @@
         "q": "பாதசாரிகள் சாலையைக் கடக்க வேண்டிய இடம் ______ மட்டுமே.",
         "options": [
           "எங்கும்",
-          "வரிக்குதிரைக் கடப்பு (ஜீப்ரா கிராசிங்)",
           "பேருந்து நிறுத்தம் அருகில் எங்கும்",
+          "வரிக்குதிரைக் கடப்பு (ஜீப்ரா கிராசிங்)",
           "சிவப்பு, மஞ்சள் விளக்கு எரியும்போது"
         ],
         "explanation": "சிவப்பு, மஞ்சள் விளக்கில் சாலையைக் கடக்கக் கூடாது; சாலையில் நடப்பதைத் தவிர்க்க வேண்டும்."
@@ -68,24 +68,24 @@
       "bloom": "remember",
       "page": 210,
       "quote": "3. Road Safety Week is celebrated in the month of ______ every year. a) December b) January c) March d) May",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "National Road Safety Week in India is observed in the month of ______ every year.",
         "options": [
-          "January",
+          "May",
           "December",
           "March",
-          "May"
+          "January"
         ],
         "explanation": "It is organised by the National Safety Council of India."
       },
       "ta": {
         "q": "இந்தியாவில் தேசிய சாலைப் பாதுகாப்பு வாரம் ஆண்டுதோறும் ______ மாதத்தில் கடைப்பிடிக்கப்படுகிறது.",
         "options": [
-          "ஜனவரி",
+          "மே",
           "டிசம்பர்",
           "மார்ச்",
-          "மே"
+          "ஜனவரி"
         ],
         "explanation": "இதை இந்தியத் தேசியப் பாதுகாப்புக் குழுமம் (NSC) ஏற்பாடு செய்கிறது."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 206,
       "quote": "4. For emergency, call ______ for ambulance service. a) 108 b) 100 c) 106 d) 101",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "In an emergency, which number should be called for the free ambulance service?",
         "options": [
-          "100",
-          "106",
           "108",
+          "106",
+          "100",
           "101"
         ],
         "explanation": "The 108 service integrates medical (ambulance), police and fire services."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "அவசரத்தில் ஆம்புலன்ஸ் சேவைக்கு அழைக்க வேண்டிய எண் ______.",
         "options": [
-          "100",
-          "106",
           "108",
+          "106",
+          "100",
           "101"
         ],
         "explanation": "108 சேவை மருத்துவம் (ஆம்புலன்ஸ்), காவல், தீயணைப்புச் சேவைகளை இணைக்கிறது."
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 209,
       "quote": "7. 'Setu Bharatam', a program was launched in ______ a) 2014 b) 2015 c) 2016 d) 2017",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The 'Setu Bharatam' programme for building bridges for safe and seamless travel on National Highways was launched in ______.",
         "options": [
           "2014",
-          "2015",
+          "2016",
           "2017",
-          "2016"
+          "2015"
         ],
         "explanation": "It aims to make all National Highways free of railway level crossings."
       },
@@ -199,9 +199,9 @@
         "q": "தேசிய நெடுஞ்சாலைகளில் பாதுகாப்பான பயணத்துக்குப் பாலங்கள் கட்டும் 'சேது பாரதம்' திட்டம் ______ இல் தொடங்கப்பட்டது.",
         "options": [
           "2014",
-          "2015",
+          "2016",
           "2017",
-          "2016"
+          "2015"
         ],
         "explanation": "தேசிய நெடுஞ்சாலைகளை இருப்புப்பாதை நிலைக்கடவுகளற்றவையாக்குவது இதன் நோக்கம்."
       }
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 209,
       "quote": "8. Expand ABS: a) Anti Brake start b) Annual Base System c) Anti-locking Brake System d) None of these",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "ABS stands for ______.",
         "options": [
           "Anti Brake Start",
-          "Anti-locking Brake System",
+          "Automatic Braking Speed",
           "Annual Base System",
-          "Automatic Braking Speed"
+          "Anti-locking Brake System"
         ],
         "explanation": "ABS is now mandatory on new cars and on two-wheelers above 125 cc."
       },
@@ -228,9 +228,9 @@
         "q": "ABS என்பதன் விரிவாக்கம் ______.",
         "options": [
           "Anti Brake Start",
-          "எதிர்-பூட்டுப் பிரேக் அமைப்பு (Anti-locking Brake System)",
+          "Automatic Braking Speed",
           "Annual Base System",
-          "Automatic Braking Speed"
+          "எதிர்-பூட்டுப் பிரேக் அமைப்பு (Anti-locking Brake System)"
         ],
         "explanation": "புதிய கார்களிலும் 125 சிசிக்கு மேற்பட்ட இரு சக்கர வாகனங்களிலும் ABS இப்போது கட்டாயம்."
       }
@@ -271,12 +271,12 @@
       "bloom": "remember",
       "page": 208,
       "quote": "10. When the ambulance is approaching a) Allow passage if there are no vehicles from front side b) No preference need be given c) Allow free passage by drawing to the side of the road d) Drive behind the ambulance with great speed",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "When an ambulance is approaching, a driver should ______.",
         "options": [
-          "allow free passage by drawing to the side of the road",
           "give no preference to it",
+          "allow free passage by drawing to the side of the road",
           "drive behind it at great speed",
           "stop in front of it"
         ],
@@ -285,8 +285,8 @@
       "ta": {
         "q": "ஆம்புலன்ஸ் வரும்போது ஓட்டுநர் ______.",
         "options": [
-          "சாலையின் ஓரமாக ஒதுங்கி அதற்கு வழிவிட வேண்டும்",
           "அதற்கு முன்னுரிமை அளிக்கத் தேவையில்லை",
+          "சாலையின் ஓரமாக ஒதுங்கி அதற்கு வழிவிட வேண்டும்",
           "அதைப் பின்தொடர்ந்து அதிவேகமாகச் செல்ல வேண்டும்",
           "அதன் முன்னால் நிற்க வேண்டும்"
         ],
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 205,
       "quote": "II 1. Always keep ______ while driving.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "In India, while driving one should always keep to the ______ of the road.",
         "options": [
-          "right",
-          "centre",
           "left",
+          "centre",
+          "right",
           "wrong side"
         ],
         "explanation": "On a two-way road the driver must drive on the left side."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "இந்தியாவில் வாகனம் ஓட்டும்போது எப்போதும் சாலையின் ______ பக்கமாகச் செல்ல வேண்டும்.",
         "options": [
-          "வலது",
-          "நடு",
           "இடது",
+          "நடு",
+          "வலது",
           "எதிர்ப்பக்கம்"
         ],
         "explanation": "இருவழிச் சாலையில் ஓட்டுநர் இடப்பக்கமாகச் செல்ல வேண்டும்."
@@ -329,14 +329,14 @@
       "bloom": "remember",
       "page": 208,
       "quote": "2. Mandatory signs are exhibited in ______ shape.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Mandatory traffic signs are generally ______ in shape.",
         "options": [
           "triangular",
           "rectangular",
-          "hexagonal",
-          "circular"
+          "circular",
+          "hexagonal"
         ],
         "explanation": "Cautionary signs are generally triangular and informatory signs rectangular."
       },
@@ -345,8 +345,8 @@
         "options": [
           "முக்கோண",
           "செவ்வக",
-          "அறுகோண",
-          "வட்ட"
+          "வட்ட",
+          "அறுகோண"
         ],
         "explanation": "எச்சரிக்கைக் குறியீடுகள் முக்கோண வடிவிலும் தகவல் குறியீடுகள் செவ்வக வடிவிலும் இருக்கும்."
       }
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 210,
       "quote": "3. ______ controls the speed of the vehicle.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which device controls the speed of a vehicle by restricting the flow of air and fuel to the engine when the set limit is crossed?",
         "options": [
           "Anti-locking brake system",
-          "Speed governor",
           "Variable message sign",
+          "Speed governor",
           "Hazard indicator"
         ],
         "explanation": "It has a series of sensors detecting how fast the vehicle is going."
@@ -373,8 +373,8 @@
         "q": "நிர்ணயித்த வேக வரம்பு தாண்டும்போது இயந்திரத்திற்குச் செல்லும் காற்று, எரிபொருளைக் கட்டுப்படுத்தி வாகனத்தின் வேகத்தைக் கட்டுப்படுத்தும் கருவி எது?",
         "options": [
           "எதிர்-பூட்டுப் பிரேக் அமைப்பு",
-          "வேகக் கட்டுப்படுத்தி (ஸ்பீடு கவர்னர்)",
           "மாறும் செய்திக் குறியீடு",
+          "வேகக் கட்டுப்படுத்தி (ஸ்பீடு கவர்னர்)",
           "அபாய ஒளிக்காட்டி"
         ],
         "explanation": "வாகனத்தின் வேகத்தை அறியும் பல உணரிகள் இதில் உள்ளன."
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 205,
       "quote": "5. Use of ______ in four wheelers and ______ for two wheelers has been brought under law.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The use of ______ in four wheelers and ______ for two wheelers has been brought under law to reduce the severity of injury.",
         "options": [
-          "seat belts, helmets",
-          "horns, indicators",
           "hazard lights, mirrors",
+          "horns, indicators",
+          "seat belts, helmets",
           "tyres, headlights"
         ],
         "explanation": "These reduce the severity of injury during accidents."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "காயத்தின் கடுமையைக் குறைக்க நான்கு சக்கர வாகனங்களில் ______, இரு சக்கர வாகனங்களில் ______ பயன்படுத்துவது சட்டத்திற்கு உட்படுத்தப்பட்டுள்ளது.",
         "options": [
-          "இருக்கைப் பட்டை, தலைக்கவசம்",
-          "ஒலிப்பான், திசைகாட்டி",
           "அபாய விளக்கு, கண்ணாடிகள்",
+          "ஒலிப்பான், திசைகாட்டி",
+          "இருக்கைப் பட்டை, தலைக்கவசம்",
           "டயர், முகப்பு விளக்கு"
         ],
         "explanation": "இவை விபத்தில் ஏற்படும் காயத்தின் கடுமையைக் குறைக்கின்றன."
@@ -445,14 +445,14 @@
       "bloom": "remember",
       "page": 206,
       "quote": "III Match the following 3. Pedestrian - Zebra crossing 4. Brasilia Declaration - Global conference 5. Swachha safer - Comic book on road safety",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Match List I with List II.\na) Pedestrian\nb) Brasilia Declaration\nc) Swachha Safer\nd) Setu Bharatam\n1. Comic book on road safety\n2. Railway level-crossing-free highways\n3. Zebra crossing\n4. Global conference",
         "options": [
           "a-1, b-2, c-3, d-4",
           "a-1, b-3, c-4, d-2",
-          "a-2, b-1, c-4, d-3",
-          "a-3, b-4, c-1, d-2"
+          "a-3, b-4, c-1, d-2",
+          "a-2, b-1, c-4, d-3"
         ],
         "explanation": "Pedestrian – Zebra crossing; Brasilia Declaration – Global conference; Swachha Safer – Comic book on road safety; Setu Bharatam – Railway level-crossing-free highways."
       },
@@ -461,8 +461,8 @@
         "options": [
           "a-1, b-2, c-3, d-4",
           "a-1, b-3, c-4, d-2",
-          "a-2, b-1, c-4, d-3",
-          "a-3, b-4, c-1, d-2"
+          "a-3, b-4, c-1, d-2",
+          "a-2, b-1, c-4, d-3"
         ],
         "explanation": "பாதசாரி – வரிக்குதிரைக் கடப்பு; பிரேசிலியா பிரகடனம் – உலகளாவிய மாநாடு; ஸ்வச்சா சேஃபர் – சாலைப் பாதுகாப்புக் காமிக் புத்தகம்; சேது பாரதம் – இருப்புப்பாதை நிலைக்கடவு இல்லா நெடுஞ்சாலைகள்."
       }
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 204,
       "quote": "IV 1. The problem of accidents lies with roads only.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "According to the lesson, the main reason for the problem of road accidents is ______.",
         "options": [
           "the roads only",
-          "our carelessness, not the roads themselves",
+          "the number of traffic signals",
           "the weather only",
-          "the number of traffic signals"
+          "our carelessness, not the roads themselves"
         ],
         "explanation": "Our traffic is also a heterogeneous mix of slow and high-speed vehicles."
       },
@@ -489,9 +489,9 @@
         "q": "பாடத்தின்படி சாலை விபத்துகளுக்கு முக்கியக் காரணம் ______.",
         "options": [
           "சாலைகள் மட்டுமே",
-          "சாலைகள் அல்ல; நம் கவனக்குறைவே",
+          "போக்குவரத்துச் சமிக்ஞைகளின் எண்ணிக்கை",
           "வானிலை மட்டுமே",
-          "போக்குவரத்துச் சமிக்ஞைகளின் எண்ணிக்கை"
+          "சாலைகள் அல்ல; நம் கவனக்குறைவே"
         ],
         "explanation": "நம் போக்குவரத்து மெதுவாகவும் வேகமாகவும் செல்லும் வாகனங்களின் கலவையாகவும் உள்ளது."
       }
@@ -503,24 +503,24 @@
       "bloom": "remember",
       "page": 208,
       "quote": "IV 3. Flashing yellow signal indicates to slow down and proceed with caution.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "A flashing yellow signal indicates ______.",
         "options": [
-          "slow down and proceed with caution",
+          "proceed at full speed",
           "come to a complete stop",
           "stop and do not start until green shows",
-          "proceed at full speed"
+          "slow down and proceed with caution"
         ],
         "explanation": "A flashing red signal means come to a complete stop and proceed only when the way is clear."
       },
       "ta": {
         "q": "மினுமினுக்கும் மஞ்சள் சமிக்ஞை ______ எனக் குறிக்கிறது.",
         "options": [
-          "வேகத்தைக் குறைத்து எச்சரிக்கையுடன் செல்க",
+          "முழு வேகத்தில் செல்க",
           "முழுமையாக நிற்க",
           "நின்று பச்சை வரும்வரை புறப்படாதே",
-          "முழு வேகத்தில் செல்க"
+          "வேகத்தைக் குறைத்து எச்சரிக்கையுடன் செல்க"
         ],
         "explanation": "மினுமினுக்கும் சிவப்பு முழுமையாக நிற்கக் குறிக்கும்; வழி தெளிவாக இருந்தால் மட்டுமே செல்லலாம்."
       }
@@ -532,13 +532,13 @@
       "bloom": "remember",
       "page": 209,
       "quote": "IV 4. On a two wheeler only one pillion rider is allowed.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "On a two-wheeler, how many pillion riders are allowed?",
         "options": [
-          "Two",
-          "Three",
           "Only one",
+          "Three",
+          "Two",
           "None"
         ],
         "explanation": "In an emergency, the hazard indicator should be used."
@@ -546,9 +546,9 @@
       "ta": {
         "q": "இரு சக்கர வாகனத்தில் பின்னிருக்கையில் எத்தனை பேர் அனுமதிக்கப்படுகின்றனர்?",
         "options": [
-          "இருவர்",
-          "மூவர்",
           "ஒருவர் மட்டும்",
+          "மூவர்",
+          "இருவர்",
           "எவரும் இல்லை"
         ],
         "explanation": "அவசர நிலையில் அபாய ஒளிக்காட்டியைப் பயன்படுத்த வேண்டும்."
@@ -590,14 +590,14 @@
       "bloom": "understand",
       "page": 206,
       "quote": "V 1. Which of the following statement is/are not correct? i) Maintain the right distance to the vehicle in the front. ii) Maintain speed limit, never exceed the speed limit iii) Wearing seat belt is not necessary while driving. iv) Don't slow down on bend and turn in the road.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which of the following statements is/are NOT correct?\n(i) Maintain the right distance from the vehicle in front.\n(ii) Maintain the speed limit and never exceed it.\n(iii) Wearing a seat belt is not necessary while driving.\n(iv) Do not slow down on bends and turns.",
         "options": [
           "(i) and (iii) only",
-          "(ii) and (iv) only",
+          "(iii) and (iv) only",
           "(i) and (ii) only",
-          "(iii) and (iv) only"
+          "(ii) and (iv) only"
         ],
         "explanation": "Seat belts must always be worn and one must slow down on bends and turns."
       },
@@ -605,9 +605,9 @@
         "q": "பின்வரும் கூற்றுகளுள் சரியல்லாதது/சரியல்லாதவை எவை?\n(i) முன் செல்லும் வாகனத்திலிருந்து உரிய இடைவெளி பேண வேண்டும்.\n(ii) வேக வரம்பைப் பேணி, மீறக் கூடாது.\n(iii) வாகனம் ஓட்டும்போது இருக்கைப் பட்டை அணிய வேண்டியதில்லை.\n(iv) வளைவுகளிலும் திருப்பங்களிலும் வேகத்தைக் குறைக்கக் கூடாது.",
         "options": [
           "(i), (iii) மட்டும்",
-          "(ii), (iv) மட்டும்",
+          "(iii), (iv) மட்டும்",
           "(i), (ii) மட்டும்",
-          "(iii), (iv) மட்டும்"
+          "(ii), (iv) மட்டும்"
         ],
         "explanation": "இருக்கைப் பட்டை எப்போதும் அணிய வேண்டும்; வளைவுகளில் வேகத்தைக் குறைக்க வேண்டும்."
       }
@@ -677,13 +677,13 @@
       "bloom": "understand",
       "page": 207,
       "quote": "V 4. Find the odd one out (road safety rules) a) Slow down on the bends b) Maintain speed limit c) Use cell phone while driving d) Avoid walking on roads",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Find the odd one out among the following road safety practices.",
         "options": [
-          "Slow down on the bends",
-          "Maintain the speed limit",
           "Use a cell phone while driving",
+          "Maintain the speed limit",
+          "Slow down on the bends",
           "Avoid walking on the roads"
         ],
         "explanation": "Never use a cell phone while driving; the others are safety rules."
@@ -691,9 +691,9 @@
       "ta": {
         "q": "பின்வரும் சாலைப் பாதுகாப்பு நடைமுறைகளுள் வேறுபட்டதைக் கண்டறிக.",
         "options": [
-          "வளைவுகளில் வேகத்தைக் குறைத்தல்",
-          "வேக வரம்பைப் பேணுதல்",
           "வாகனம் ஓட்டும்போது கைபேசி பயன்படுத்துதல்",
+          "வேக வரம்பைப் பேணுதல்",
+          "வளைவுகளில் வேகத்தைக் குறைத்தல்",
           "சாலைகளில் நடப்பதைத் தவிர்த்தல்"
         ],
         "explanation": "வாகனம் ஓட்டும்போது கைபேசி பயன்படுத்தக் கூடாது; மற்றவை பாதுகாப்பு விதிகள்."
@@ -706,14 +706,14 @@
       "bloom": "remember",
       "page": 204,
       "quote": "VI 3. What are the direct consequences of road accidents?",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which of the following are the direct consequences of road accidents?",
         "options": [
           "Fuel savings",
-          "Fatality (death), injury and property damage",
+          "Increase of speed limits",
           "Reduction of traffic",
-          "Increase of speed limits"
+          "Fatality (death), injury and property damage"
         ],
         "explanation": "Road accidents also bring significant social and economic costs."
       },
@@ -721,9 +721,9 @@
         "q": "சாலை விபத்துகளின் நேரடி விளைவுகள் எவை?",
         "options": [
           "எரிபொருள் சேமிப்பு",
-          "இறப்பு, காயம், சொத்துச் சேதம்",
+          "வேக வரம்பு உயர்வு",
           "போக்குவரத்துக் குறைவு",
-          "வேக வரம்பு உயர்வு"
+          "இறப்பு, காயம், சொத்துச் சேதம்"
         ],
         "explanation": "சாலை விபத்துகள் குறிப்பிடத்தக்க சமூக, பொருளாதார இழப்புகளையும் ஏற்படுத்துகின்றன."
       }
@@ -735,24 +735,24 @@
       "bloom": "remember",
       "page": 210,
       "quote": "VI 5. Write a note on Brasilia Declaration on road safety.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "India signed the Brasilia Declaration on Road Safety in ______.",
         "options": [
-          "2015",
+          "2020",
           "2011",
           "2016",
-          "2020"
+          "2015"
         ],
         "explanation": "The Declaration emerged from the Second Global High Level Conference on Road Safety, co-sponsored by the WHO."
       },
       "ta": {
         "q": "சாலைப் பாதுகாப்பு குறித்த பிரேசிலியா பிரகடனத்தில் இந்தியா கையெழுத்திட்ட ஆண்டு ______.",
         "options": [
-          "2015",
+          "2020",
           "2011",
           "2016",
-          "2020"
+          "2015"
         ],
         "explanation": "இரண்டாம் உலகச் சாலைப் பாதுகாப்பு உயர்நிலை மாநாட்டில் (WHO இணை ஆதரவு) இது உருவானது."
       }
@@ -764,12 +764,12 @@
       "bloom": "remember",
       "page": 204,
       "quote": "VI 8. How does alcohol affect driving?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "How does consumption of alcohol affect driving?",
         "options": [
-          "It improves reflexes",
           "It reduces concentration and hampers vision due to dizziness",
+          "It improves reflexes",
           "It increases alertness",
           "It has no effect if the driver is experienced"
         ],
@@ -778,8 +778,8 @@
       "ta": {
         "q": "மது அருந்துவது வாகனம் ஓட்டுவதை எவ்வாறு பாதிக்கிறது?",
         "options": [
-          "எதிர்வினை வேகத்தை அதிகரிக்கிறது",
           "கவனத்தைக் குறைத்து, தலைசுற்றலால் பார்வையைப் பாதிக்கிறது",
+          "எதிர்வினை வேகத்தை அதிகரிக்கிறது",
           "விழிப்புணர்வை அதிகரிக்கிறது",
           "அனுபவமுள்ள ஓட்டுநருக்குப் பாதிப்பு இல்லை"
         ],

@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 316,
       "quote": "India is losing about 1.5 million hectares of forest cover every year.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "According to the text, India is losing about how much forest cover every year?",
         "options": [
           "15 hectares",
-          "1.5 million hectares",
           "150 hectares",
+          "1.5 million hectares",
           "15 million hectares"
         ],
         "explanation": "The text states India loses about 1.5 million hectares of forest cover each year."
@@ -25,8 +25,8 @@
         "q": "பாடநூலின்படி இந்தியா ஆண்டுதோறும் ஏறத்தாழ எவ்வளவு காடுகளை இழக்கிறது?",
         "options": [
           "15 ஹெக்டேர்",
-          "1.5 மில்லியன் ஹெக்டேர்",
           "150 ஹெக்டேர்",
+          "1.5 மில்லியன் ஹெக்டேர்",
           "15 மில்லியன் ஹெக்டேர்"
         ],
         "explanation": "இந்தியா ஆண்டுதோறும் சுமார் 1.5 மில்லியன் ஹெக்டேர் காடுகளை இழக்கிறது எனப் பாடநூல் கூறுகிறது."
@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 318,
       "quote": "Info bits: Crocodile Conservation Project was launched in 1976.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The Crocodile Conservation Project in India was launched in",
         "options": [
           "1973",
-          "1976",
+          "1999",
           "1992",
-          "1999"
+          "1976"
         ],
         "explanation": "Project Tiger (1973), Crocodile Conservation Project (1976), Project Elephant (1992), Sea Turtle Conservation Project (1999)."
       },
@@ -54,9 +54,9 @@
         "q": "இந்தியாவில் முதலைப் பாதுகாப்புத் திட்டம் தொடங்கப்பட்ட ஆண்டு",
         "options": [
           "1973",
-          "1976",
+          "1999",
           "1992",
-          "1999"
+          "1976"
         ],
         "explanation": "புலிகள் திட்டம் (1973), முதலைப் பாதுகாப்புத் திட்டம் (1976), யானைகள் திட்டம் (1992), கடலாமைப் பாதுகாப்புத் திட்டம் (1999)."
       }
@@ -68,13 +68,13 @@
       "bloom": "understand",
       "page": 320,
       "quote": "Points to Remember: Solar water heater does not require electricity, they heat up water directly from sunlight.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "A solar water heater heats water",
         "options": [
-          "directly from sunlight without needing electricity",
-          "only with electricity",
           "using coal",
+          "only with electricity",
+          "directly from sunlight without needing electricity",
           "using biogas"
         ],
         "explanation": "A solar water heater needs no electricity; it heats water directly from sunlight."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "சூரிய நீர் சூடேற்றி நீரை எவ்வாறு சூடாக்குகிறது?",
         "options": [
-          "மின்சாரம் இல்லாமல் சூரிய ஒளியிலிருந்து நேரடியாக",
-          "மின்சாரத்தால் மட்டும்",
           "நிலக்கரியால்",
+          "மின்சாரத்தால் மட்டும்",
+          "மின்சாரம் இல்லாமல் சூரிய ஒளியிலிருந்து நேரடியாக",
           "உயிரி வாயுவால்"
         ],
         "explanation": "சூரிய நீர் சூடேற்றிக்கு மின்சாரம் தேவையில்லை; சூரிய ஒளியே நீரைச் சூடாக்குகிறது."
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 320,
       "quote": "Points to Remember: Solar cell is a device that absorbs sunlight and converts it into electric energy.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "A solar cell is a device that",
         "options": [
-          "stores rainwater",
-          "converts wind into heat",
           "absorbs sunlight and converts it into electric energy",
+          "converts wind into heat",
+          "stores rainwater",
           "burns cow dung"
         ],
         "explanation": "A solar (photovoltaic) cell converts sunlight directly into electricity."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "சூரிய மின்கலம் என்பது",
         "options": [
-          "மழைநீரைச் சேமிக்கும் கருவி",
-          "காற்றை வெப்பமாக மாற்றும் கருவி",
           "சூரிய ஒளியை உறிஞ்சி மின்னாற்றலாக மாற்றும் கருவி",
+          "காற்றை வெப்பமாக மாற்றும் கருவி",
+          "மழைநீரைச் சேமிக்கும் கருவி",
           "சாணத்தை எரிக்கும் கருவி"
         ],
         "explanation": "சூரிய (ஒளிமின்) கலம் சூரிய ஒளியை நேரடியாக மின்னாற்றலாக மாற்றுகிறது."
@@ -126,14 +126,14 @@
       "bloom": "understand",
       "page": 325,
       "quote": "Points to Remember: National park is a reserved area for the conservation of entire wildlife including plants and animals.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A reserved area for the conservation of the entire wildlife, including plants and animals, is a",
         "options": [
           "sanctuary only for animals",
-          "botanical garden",
+          "national park",
           "zoo",
-          "national park"
+          "botanical garden"
         ],
         "explanation": "A national park conserves all wildlife including plants; a sanctuary is reserved exclusively for animals."
       },
@@ -141,9 +141,9 @@
         "q": "தாவரங்கள், விலங்குகள் உள்ளிட்ட முழு வனவுயிர்களைப் பாதுகாக்கும் ஒதுக்கப்பட்ட பகுதி",
         "options": [
           "விலங்குகளுக்கு மட்டுமான சரணாலயம்",
-          "தாவரவியல் பூங்கா",
+          "தேசியப் பூங்கா",
           "உயிரியல் பூங்கா",
-          "தேசியப் பூங்கா"
+          "தாவரவியல் பூங்கா"
         ],
         "explanation": "தேசியப் பூங்கா தாவரம், விலங்கு உள்ளிட்ட அனைத்து வனவுயிர்களையும் பாதுகாக்கும்; சரணாலயம் விலங்குகளுக்கே ஒதுக்கப்பட்டது."
       }
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 323,
       "quote": "More to Know: Health Effects of E-Wastes: Plastics including Polyvinyl Chloride (PVC): Burning produces dioxin ... Chromium: Asthmatic bronchitis",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which e-waste metal causes asthmatic bronchitis?",
         "options": [
           "Lead",
-          "Chromium",
+          "Mercury",
           "Cadmium",
-          "Mercury"
+          "Chromium"
         ],
         "explanation": "Chromium causes asthmatic bronchitis; lead damages the nervous system; cadmium accumulates in kidney and liver; mercury damages brain and respiratory system."
       },
@@ -170,9 +170,9 @@
         "q": "ஆஸ்துமா மூச்சுக்குழல் அழற்சியை உண்டாக்கும் மின்னணுக்கழிவு உலோகம்",
         "options": [
           "ஈயம்",
-          "குரோமியம்",
+          "பாதரசம்",
           "காட்மியம்",
-          "பாதரசம்"
+          "குரோமியம்"
         ],
         "explanation": "குரோமியம் ஆஸ்துமா மூச்சுக்குழல் அழற்சியை உண்டாக்கும்; ஈயம் நரம்பு மண்டலத்தையும், காட்மியம் சிறுநீரகம், கல்லீரலையும், பாதரசம் மூளை, சுவாச மண்டலத்தையும் பாதிக்கும்."
       }

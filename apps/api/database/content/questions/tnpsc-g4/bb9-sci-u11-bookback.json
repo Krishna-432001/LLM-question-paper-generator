@@ -10,14 +10,14 @@
       "bloom": "apply",
       "page": 135,
       "quote": "4. The number of protons, neutrons and electrons present respectively in Br (Z = 35, A = 80) are a) 80, 80, 35 b) 35, 55, 80 c) 35, 35, 80 d) 35, 45, 35",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The numbers of protons, neutrons and electrons respectively in an atom of bromine of atomic number 35 and mass number 80 are",
         "options": [
           "35, 55, 80",
-          "35, 45, 35",
+          "35, 35, 80",
           "80, 80, 35",
-          "35, 35, 80"
+          "35, 45, 35"
         ],
         "explanation": "Protons = electrons = 35; neutrons = A - Z = 80 - 35 = 45."
       },
@@ -25,9 +25,9 @@
         "q": "அணு எண் 35, நிறை எண் 80 உடைய புரோமின் அணுவிலுள்ள புரோட்டான், நியூட்ரான், எலக்ட்ரான்களின் எண்ணிக்கை முறையே",
         "options": [
           "35, 55, 80",
-          "35, 45, 35",
+          "35, 35, 80",
           "80, 80, 35",
-          "35, 35, 80"
+          "35, 45, 35"
         ],
         "explanation": "புரோட்டான் = எலக்ட்ரான் = 35; நியூட்ரான் = A - Z = 80 - 35 = 45."
       }
@@ -97,14 +97,14 @@
       "bloom": "understand",
       "page": 136,
       "quote": "3. Electrons have negligible mass and charge.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which statement about the electron is correct?",
         "options": [
           "It has negligible mass and no charge",
-          "It has the same mass as a proton",
+          "It has negligible mass (1/1837 amu) and a charge of -1",
           "It has a charge of +1",
-          "It has negligible mass (1/1837 amu) and a charge of -1"
+          "It has the same mass as a proton"
         ],
         "explanation": "The electron's mass is 1/1837 amu but its charge is -1 (equal in magnitude to a proton's); the book statement (negligible charge) is false."
       },
@@ -112,9 +112,9 @@
         "q": "எலக்ட்ரான் பற்றிய சரியான கூற்று",
         "options": [
           "நிறை மிகச் சிறிது; மின்சுமை இல்லை",
-          "புரோட்டானின் நிறைக்குச் சமம்",
+          "அதன் நிறை மிகச் சிறிது (1/1837 amu); மின்சுமை -1",
           "மின்சுமை +1",
-          "அதன் நிறை மிகச் சிறிது (1/1837 amu); மின்சுமை -1"
+          "புரோட்டானின் நிறைக்குச் சமம்"
         ],
         "explanation": "எலக்ட்ரானின் நிறை மிகச் சிறிது; ஆனால் மின்சுமை -1 (புரோட்டானின் சுமைக்கு எண்மதிப்பில் சமம்); 'மின்சுமை மிகச் சிறிது' என்ற நூலின் கூற்று தவறு."
       }
@@ -213,13 +213,13 @@
       "bloom": "apply",
       "page": 136,
       "quote": "4. The number of neutrons present in lithium (atomic number 3, mass number 7) is ___________",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The number of neutrons in an atom of lithium of mass number 7 and atomic number 3 is",
         "options": [
-          "4",
-          "7",
           "3",
+          "7",
+          "4",
           "10"
         ],
         "explanation": "Neutrons = A - Z = 7 - 3 = 4."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "நிறை எண் 7, அணு எண் 3 உடைய லித்தியம் அணுவிலுள்ள நியூட்ரான்களின் எண்ணிக்கை",
         "options": [
-          "4",
-          "7",
           "3",
+          "7",
+          "4",
           "10"
         ],
         "explanation": "நியூட்ரான்கள் = A - Z = 7 - 3 = 4."
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 136,
       "quote": "IV. Match the following. a) Dalton - First atomic theory; b) Chadwick - Discovery of neutrons; c) Rutherford - Discovery of nucleus; d) Neils Bohr - Hydrogen atom model",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Match List I with List II:\n(a) Dalton\n(b) Chadwick\n(c) Rutherford\n(d) Neils Bohr\n— \n(1) First atomic theory\n(2) Discovery of nucleus\n(3) Hydrogen atom model\n(4) Discovery of neutrons",
         "options": [
-          "a-1, b-3, c-4, d-2",
-          "a-3, b-1, c-2, d-4",
           "a-1, b-4, c-2, d-3",
+          "a-3, b-1, c-2, d-4",
+          "a-1, b-3, c-4, d-2",
           "a-2, b-3, c-4, d-1"
         ],
         "explanation": "Dalton - first atomic theory; Chadwick - neutron (1932); Rutherford - nucleus (1911); Bohr - model of the hydrogen atom (1913)."
@@ -285,9 +285,9 @@
       "ta": {
         "q": "பட்டியல் I-ஐப் பட்டியல் II உடன் பொருத்துக:\n(a) டால்டன்\n(b) சாட்விக்\n(c) ரூதர்போர்டு\n(d) நீல்ஸ் போர்\n— \n(1) முதல் அணுக்கொள்கை\n(2) உட்கரு கண்டுபிடிப்பு\n(3) ஹைட்ரஜன் அணு மாதிரி\n(4) நியூட்ரான் கண்டுபிடிப்பு",
         "options": [
-          "a-1, b-3, c-4, d-2",
-          "a-3, b-1, c-2, d-4",
           "a-1, b-4, c-2, d-3",
+          "a-3, b-1, c-2, d-4",
+          "a-1, b-3, c-4, d-2",
           "a-2, b-3, c-4, d-1"
         ],
         "explanation": "டால்டன் - முதல் அணுக்கொள்கை; சாட்விக் - நியூட்ரான் (1932); ரூதர்போர்டு - உட்கரு (1911); போர் - ஹைட்ரஜன் அணு மாதிரி (1913)."
@@ -300,13 +300,13 @@
       "bloom": "apply",
       "page": 136,
       "quote": "V. Complete the following table. Atomic number 9, neutrons 10",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "An element has atomic number 9 and 10 neutrons. Its mass number and name are",
         "options": [
-          "19, neon",
-          "18, oxygen",
           "19, fluorine",
+          "18, oxygen",
+          "19, neon",
           "9, hydrogen"
         ],
         "explanation": "A = Z + n = 9 + 10 = 19; protons = electrons = 9; the element with Z = 9 is fluorine."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "அணு எண் 9, நியூட்ரான்கள் 10 உடைய தனிமத்தின் நிறை எண்ணும் பெயரும்",
         "options": [
-          "19, நியான்",
-          "18, ஆக்ஸிஜன்",
           "19, புளூரின்",
+          "18, ஆக்ஸிஜன்",
+          "19, நியான்",
           "9, ஹைட்ரஜன்"
         ],
         "explanation": "A = Z + n = 9 + 10 = 19; புரோட்டான் = எலக்ட்ரான் = 9; Z = 9 உடைய தனிமம் புளூரின்."
@@ -358,14 +358,14 @@
       "bloom": "apply",
       "page": 136,
       "quote": "V. Complete the following table. Mass number 24, electrons 12 - Magnesium",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Magnesium has mass number 24 and 12 electrons. The number of neutrons in it is",
         "options": [
           "24",
           "36",
-          "0",
-          "12"
+          "12",
+          "0"
         ],
         "explanation": "Neutrons = A - Z = 24 - 12 = 12."
       },
@@ -374,8 +374,8 @@
         "options": [
           "24",
           "36",
-          "0",
-          "12"
+          "12",
+          "0"
         ],
         "explanation": "நியூட்ரான்கள் = A - Z = 24 - 12 = 12."
       }
@@ -387,13 +387,13 @@
       "bloom": "apply",
       "page": 136,
       "quote": "V. Complete the following table. Mass number 2, protons 1; Mass number 1, neutrons 0, protons 1, electrons 1",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "An atom with 1 proton and mass number 2 has",
         "options": [
           "2 neutrons",
-          "0 neutrons",
           "1 neutron (it is deuterium)",
+          "0 neutrons",
           "3 neutrons"
         ],
         "explanation": "Hydrogen has three isotopes of mass numbers 1, 2 and 3; the atom with A = 1 has no neutron."
@@ -402,8 +402,8 @@
         "q": "1 புரோட்டானும் நிறை எண் 2-ம் உடைய அணுவிலுள்ள நியூட்ரான்கள்",
         "options": [
           "2",
-          "0",
           "1 (இது டியூட்டீரியம்)",
+          "0",
           "3"
         ],
         "explanation": "ஹைட்ரஜனுக்கு நிறை எண் 1, 2, 3 உடைய மூன்று ஐசோடோப்புகள் உள்ளன."
@@ -416,12 +416,12 @@
       "bloom": "apply",
       "page": 136,
       "quote": "2. Write the electronic configuration of K and Cl",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The electronic configurations of potassium (Z = 19) and chlorine (Z = 17) are respectively",
         "options": [
-          "2, 8, 9 and 2, 8, 7",
           "2, 8, 8, 1 and 2, 8, 7",
+          "2, 8, 9 and 2, 8, 7",
           "2, 8, 8, 1 and 2, 8, 6",
           "2, 8, 1 and 2, 8, 8"
         ],
@@ -430,8 +430,8 @@
       "ta": {
         "q": "பொட்டாசியம் (Z = 19), குளோரின் (Z = 17) ஆகியவற்றின் எலக்ட்ரான் அமைப்பு முறையே",
         "options": [
-          "2, 8, 9 மற்றும் 2, 8, 7",
           "2, 8, 8, 1 மற்றும் 2, 8, 7",
+          "2, 8, 9 மற்றும் 2, 8, 7",
           "2, 8, 8, 1 மற்றும் 2, 8, 6",
           "2, 8, 1 மற்றும் 2, 8, 8"
         ],
@@ -445,24 +445,24 @@
       "bloom": "remember",
       "page": 136,
       "quote": "3. Write down the names of the particles represented by the following symbols and explain the meaning of superscript and subscript numbers: 1H1, 0n1, -1e0",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "In the symbol 0n1 for the neutron, the superscript 1 represents the ______ and the subscript 0 represents the ______.",
         "options": [
-          "electric charge; mass",
+          "mass number; atomic number (charge = 0)",
           "atomic number; mass",
           "number of electrons; neutrons",
-          "mass number; atomic number (charge = 0)"
+          "electric charge; mass"
         ],
         "explanation": "The neutron carries no electrical charge, so the subscript is 0; its mass is 1 amu, the superscript."
       },
       "ta": {
         "q": "நியூட்ரானின் குறியீடு 0n1-ல் மேலெண் 1 குறிப்பது ______; கீழெண் 0 குறிப்பது ______.",
         "options": [
-          "மின்சுமை; நிறை",
+          "நிறை எண்; அணு எண் (மின்சுமை 0)",
           "அணு எண்; நிறை",
           "எலக்ட்ரான்களின் எண்ணிக்கை; நியூட்ரான்கள்",
-          "நிறை எண்; அணு எண் (மின்சுமை 0)"
+          "மின்சுமை; நிறை"
         ],
         "explanation": "நியூட்ரானுக்கு மின்சுமை இல்லை (கீழெண் 0); அதன் நிறை 1 amu (மேலெண்)."
       }
@@ -474,13 +474,13 @@
       "bloom": "remember",
       "page": 136,
       "quote": "5. What is the same about the electron structures of: a. Lithium, Sodium and Potassium. b. Beryllium, Magnesium and Calcium.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Lithium, sodium and potassium have the same",
         "options": [
           "number of shells",
-          "atomic number",
           "number of valence electrons (one)",
+          "atomic number",
           "mass number"
         ],
         "explanation": "Elements with the same number of valence electrons show similar properties; Be, Mg and Ca each have two valence electrons."
@@ -489,8 +489,8 @@
         "q": "லித்தியம், சோடியம், பொட்டாசியம் ஆகியவற்றில் ஒரே மாதிரியாக இருப்பது",
         "options": [
           "கூடுகளின் எண்ணிக்கை",
-          "அணு எண்",
           "இணைதிறன் எலக்ட்ரான்களின் எண்ணிக்கை (ஒன்று)",
+          "அணு எண்",
           "நிறை எண்"
         ],
         "explanation": "ஒரே எண்ணிக்கை இணைதிறன் எலக்ட்ரான்கள் கொண்ட தனிமங்கள் ஒத்த பண்புகளைக் காட்டும்; Be, Mg, Ca ஆகியவற்றுக்கு இரண்டு."
@@ -503,13 +503,13 @@
       "bloom": "understand",
       "page": 137,
       "quote": "VII. 1. How was it shown that atom has empty space?",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "In Rutherford's gold foil experiment, the observation that most alpha particles passed straight through the foil shows that",
         "options": [
-          "an atom contains large empty space",
-          "alpha particles are neutral",
           "gold has no nucleus",
+          "alpha particles are neutral",
+          "an atom contains large empty space",
           "an atom is solid throughout"
         ],
         "explanation": "Very few alpha particles bounced back, showing that the positive charge is concentrated in a very small nucleus."
@@ -517,9 +517,9 @@
       "ta": {
         "q": "ரூதர்போர்டின் தங்கத்தகடு சோதனையில் பெரும்பாலான ஆல்பா துகள்கள் நேராகக் கடந்து சென்றது காட்டுவது",
         "options": [
-          "அணுவில் பெரும் வெற்றிடம் உள்ளது",
-          "ஆல்பா துகள்கள் நடுநிலையானவை",
           "தங்கத்திற்கு உட்கரு இல்லை",
+          "ஆல்பா துகள்கள் நடுநிலையானவை",
+          "அணுவில் பெரும் வெற்றிடம் உள்ளது",
           "அணு முழுவதும் திடமானது"
         ],
         "explanation": "மிகச் சில துகள்களே பின்னோக்கித் திரும்பின; எனவே நேர் மின்சுமை மிகச் சிறிய உட்கருவில் குவிந்துள்ளது."
@@ -532,13 +532,13 @@
       "bloom": "apply",
       "page": 137,
       "quote": "4. Calculate the number of neutrons, protons and electrons: (i) atomic number 3 and mass number 7 (ii) atomic number 92 and mass number 238.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "An atom has atomic number 92 and mass number 238. The numbers of protons, neutrons and electrons are",
         "options": [
-          "92, 146 and 92",
-          "92, 238 and 92",
           "146, 92 and 146",
+          "92, 238 and 92",
+          "92, 146 and 92",
           "238, 92 and 92"
         ],
         "explanation": "Protons = electrons = 92; neutrons = 238 - 92 = 146 (for Z = 3, A = 7: 3, 4 and 3)."
@@ -546,9 +546,9 @@
       "ta": {
         "q": "அணு எண் 92, நிறை எண் 238 உடைய அணுவிலுள்ள புரோட்டான், நியூட்ரான், எலக்ட்ரான்கள் முறையே",
         "options": [
-          "92, 146, 92",
-          "92, 238, 92",
           "146, 92, 146",
+          "92, 238, 92",
+          "92, 146, 92",
           "238, 92, 92"
         ],
         "explanation": "புரோட்டான் = எலக்ட்ரான் = 92; நியூட்ரான் = 238 - 92 = 146 (Z = 3, A = 7 எனில் 3, 4, 3)."
@@ -561,13 +561,13 @@
       "bloom": "apply",
       "page": 137,
       "quote": "5. What are nucleons? How many nucleons are present in Phosphorous? Draw its structure.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The number of nucleons in an atom of phosphorus (Z = 15, A = 31) is",
         "options": [
-          "15",
-          "16",
           "31",
+          "16",
+          "15",
           "46"
         ],
         "explanation": "Nucleons = protons + neutrons = mass number = 31 (15 protons + 16 neutrons)."
@@ -575,9 +575,9 @@
       "ta": {
         "q": "பாஸ்பரஸ் (Z = 15, A = 31) அணுவிலுள்ள நியூக்ளியான்களின் எண்ணிக்கை",
         "options": [
-          "15",
-          "16",
           "31",
+          "16",
+          "15",
           "46"
         ],
         "explanation": "நியூக்ளியான்கள் = புரோட்டான்கள் + நியூட்ரான்கள் = நிறை எண் = 31 (15 + 16)."
@@ -590,12 +590,12 @@
       "bloom": "remember",
       "page": 138,
       "quote": "VIII. 3. State the Gay Lussac's law of combining volumes. Explain with an illustration.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "According to Gay Lussac's law, when gases react together, the volumes of the reacting gases (and gaseous products) bear a",
         "options": [
-          "simple whole-number ratio at the same temperature and pressure",
           "different ratio at every pressure",
+          "simple whole-number ratio at the same temperature and pressure",
           "ratio equal to their masses",
           "ratio equal to their densities"
         ],
@@ -604,8 +604,8 @@
       "ta": {
         "q": "கே-லூசாக் விதிப்படி வினைபுரியும் வாயுக்களின் (மற்றும் வாயு விளைபொருட்களின்) பருமன்கள்",
         "options": [
-          "ஒரே வெப்பநிலை, அழுத்தத்தில் எளிய முழு எண் விகிதத்தில் இருக்கும்",
           "ஒவ்வோர் அழுத்தத்திலும் வெவ்வேறு விகிதத்தில் இருக்கும்",
+          "ஒரே வெப்பநிலை, அழுத்தத்தில் எளிய முழு எண் விகிதத்தில் இருக்கும்",
           "நிறைகளின் விகிதத்தில் இருக்கும்",
           "அடர்த்திகளின் விகிதத்தில் இருக்கும்"
         ],
@@ -619,24 +619,24 @@
       "bloom": "remember",
       "page": 137,
       "quote": "VIII. 2. Explain the postulates of Bohr's atomic model.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "According to Bohr's atomic model, an electron can move to a higher or lower energy shell by",
         "options": [
-          "gaining a neutron",
+          "absorbing or releasing a fixed amount of energy",
           "losing a proton",
           "changing its charge",
-          "absorbing or releasing a fixed amount of energy"
+          "gaining a neutron"
         ],
         "explanation": "In the stationary orbit an electron neither loses nor gains energy; the shells are called K, L, M, N or n = 1, 2, 3, 4."
       },
       "ta": {
         "q": "போர் அணு மாதிரிப்படி எலக்ட்ரான் உயர் அல்லது தாழ் ஆற்றல் கூட்டிற்குச் செல்வது",
         "options": [
-          "நியூட்ரானைப் பெறுவதன் மூலம்",
+          "நிலையான அளவு ஆற்றலை ஏற்பதன் அல்லது வெளியிடுவதன் மூலம்",
           "புரோட்டானை இழப்பதன் மூலம்",
           "மின்சுமையை மாற்றுவதன் மூலம்",
-          "நிலையான அளவு ஆற்றலை ஏற்பதன் அல்லது வெளியிடுவதன் மூலம்"
+          "நியூட்ரானைப் பெறுவதன் மூலம்"
         ],
         "explanation": "நிலையான வட்டப்பாதையில் எலக்ட்ரான் ஆற்றலை இழப்பதுமில்லை பெறுவதுமில்லை; கூடுகள் K, L, M, N அல்லது n = 1, 2, 3, 4."
       }

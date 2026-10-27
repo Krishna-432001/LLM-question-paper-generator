@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 196,
       "quote": "I. 2. The antibiotic Penicillin is obtained from (a) plant (b) microorganism (c) animal (d) sunlight",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The antibiotic penicillin is obtained from",
         "options": [
           "a plant",
-          "an animal",
           "a microorganism (the mould Penicillium notatum)",
+          "an animal",
           "sunlight"
         ],
         "explanation": "Alexander Fleming discovered penicillin in 1928 (published 1929) from the mould Penicillium notatum."
@@ -25,8 +25,8 @@
         "q": "பெனிசிலின் எனும் நுண்ணுயிர் எதிரி கிடைப்பது",
         "options": [
           "தாவரத்திலிருந்து",
-          "விலங்கிலிருந்து",
           "நுண்ணுயிரியிலிருந்து (பென்சிலியம் நோட்டேட்டம் பூஞ்சை)",
+          "விலங்கிலிருந்து",
           "சூரிய ஒளியிலிருந்து"
         ],
         "explanation": "அலெக்சாண்டர் ஃபிளெமிங் 1928 இல் பென்சிலியம் நோட்டேட்டம் பூஞ்சையிலிருந்து பெனிசிலினைக் கண்டறிந்தார் (1929 இல் வெளியிட்டார்)."
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 196,
       "quote": "I. 3. 1% solution of Iodoform is used as (a) antipyretic (b) antimalarial (c) antiseptic (d) antacid",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "A 1% solution of iodoform is used as an",
         "options": [
           "antipyretic",
-          "antimalarial",
           "antiseptic",
+          "antimalarial",
           "antacid"
         ],
         "explanation": "Iodoform (CHI3) is used as an antiseptic; of the options only antiseptic fits."
@@ -54,8 +54,8 @@
         "q": "அயோடோஃபார்மின் 1% கரைசல் பயன்படுவது",
         "options": [
           "காய்ச்சல் நீக்கியாக",
-          "மலேரியா எதிர்ப்பியாக",
           "புரைத்தடுப்பானாக",
+          "மலேரியா எதிர்ப்பியாக",
           "அமில முறிப்பானாக"
         ],
         "explanation": "அயோடோஃபார்ம் (CHI3) புரைத்தடுப்பானாகப் பயன்படுகிறது; கொடுக்கப்பட்டவற்றில் அதுவே பொருந்தும்."
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 196,
       "quote": "I. 4. The cathode of an electrochemical reaction involves (a) oxidation (b) reduction (c) neutralisation (d) catenation",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "In an electrochemical cell, the cathode is the site of",
         "options": [
           "oxidation",
-          "reduction",
+          "neutralisation",
           "catenation",
-          "neutralisation"
+          "reduction"
         ],
         "explanation": "Oxidation takes place at the anode and reduction at the cathode."
       },
@@ -83,9 +83,9 @@
         "q": "மின்வேதிவினையில் எதிர் மின்வாயில் நிகழ்வது",
         "options": [
           "ஆக்ஸிஜனேற்றம்",
-          "ஒடுக்கம்",
+          "நடுநிலையாக்கல்",
           "சங்கிலித் தொடராக்கம்",
-          "நடுநிலையாக்கல்"
+          "ஒடுக்கம்"
         ],
         "explanation": "நேர் மின்வாயில் ஆக்ஸிஜனேற்றமும் எதிர் மின்வாயில் ஒடுக்கமும் நிகழும்."
       }
@@ -97,12 +97,12 @@
       "bloom": "remember",
       "page": 197,
       "quote": "I. 5. The age of a dead animal can be determined by using an isotope of (a) carbon (b) iodine (c) phosphorous (d) oxygen",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The age of a dead animal can be determined using an isotope of",
         "options": [
-          "carbon (C-14)",
           "iodine",
+          "carbon (C-14)",
           "phosphorus",
           "oxygen"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "இறந்த விலங்கின் வயதைக் கண்டறியப் பயன்படும் ஐசோடோப்பு",
         "options": [
-          "கார்பன் (C-14)",
           "அயோடின்",
+          "கார்பன் (C-14)",
           "பாஸ்பரஸ்",
           "ஆக்ஸிஜன்"
         ],
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 197,
       "quote": "I. 6. Which of the following does not contain natural dyes? (a) Potato (b) Beetroot (c) Carrot (d) Turmeric",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following does NOT contain a natural dye?",
         "options": [
           "Beetroot",
           "Turmeric",
-          "Carrot",
-          "Potato"
+          "Potato",
+          "Carrot"
         ],
         "explanation": "Beetroot, carrot and turmeric are natural colourants; potato is not."
       },
@@ -142,8 +142,8 @@
         "options": [
           "பீட்ரூட்",
           "மஞ்சள்",
-          "கேரட்",
-          "உருளைக்கிழங்கு"
+          "உருளைக்கிழங்கு",
+          "கேரட்"
         ],
         "explanation": "பீட்ரூட், கேரட், மஞ்சள் இயற்கை நிறமிகள் கொண்டவை; உருளைக்கிழங்கு அல்ல."
       }
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 197,
       "quote": "I. 8. Radiochemistry deals with (a) oxidants (b) batteries (c) isotopes (d) nanoparticles",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Radiochemistry deals with",
         "options": [
-          "oxidants",
           "isotopes",
+          "oxidants",
           "nanoparticles",
           "batteries"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "கதிரியக்க வேதியியல் கையாள்வது",
         "options": [
-          "ஆக்ஸிஜனேற்றிகளை",
           "ஐசோடோப்புகளை",
+          "ஆக்ஸிஜனேற்றிகளை",
           "நானோ துகள்களை",
           "மின்கலங்களை"
         ],
@@ -213,24 +213,24 @@
       "bloom": "remember",
       "page": 197,
       "quote": "I. 9. The groups responsible for the colour of an organic compound is called (a) isotopes (b) auxochrome (c) chromogen (d) chromophore",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The groups responsible for the colour of an organic compound are called",
         "options": [
-          "chromophores",
+          "chromogens",
           "isotopes",
           "auxochromes",
-          "chromogens"
+          "chromophores"
         ],
         "explanation": "The book's answer is chromophore (colour-bearing group)."
       },
       "ta": {
         "q": "ஒரு கரிமச் சேர்மத்தின் நிறத்திற்குக் காரணமான தொகுதிகள்",
         "options": [
-          "நிறத்தாங்கிகள் (குரோமோஃபோர்)",
+          "நிறமூலங்கள் (குரோமோஜன்)",
           "ஐசோடோப்புகள்",
           "நிறம்மிகைப்பிகள் (ஆக்ஸோகுரோம்)",
-          "நிறமூலங்கள் (குரோமோஜன்)"
+          "நிறத்தாங்கிகள் (குரோமோஃபோர்)"
         ],
         "explanation": "பாடநூல் விடை: நிறத்தாங்கி (குரோமோஃபோர்)."
       }
@@ -242,24 +242,24 @@
       "bloom": "remember",
       "page": 197,
       "quote": "I. 10. Chlorinated hydrocarbons are used as (a) fertilizers (b) pesticides (c) food colourants (d) preservatives",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Chlorinated hydrocarbons are used as",
         "options": [
-          "fertilizers",
+          "pesticides",
           "preservatives",
           "food colourants",
-          "pesticides"
+          "fertilizers"
         ],
         "explanation": "Chlorinated hydrocarbons, organophosphates and carbamates are used as pesticides and insecticides."
       },
       "ta": {
         "q": "குளோரினேற்றம் செய்யப்பட்ட ஹைட்ரோகார்பன்கள் பயன்படுவது",
         "options": [
-          "உரங்களாக",
+          "பூச்சிக்கொல்லிகளாக",
           "பாதுகாப்புப் பொருள்களாக",
           "உணவு நிறமிகளாக",
-          "பூச்சிக்கொல்லிகளாக"
+          "உரங்களாக"
         ],
         "explanation": "குளோரினேற்ற ஹைட்ரோகார்பன்கள், ஆர்கனோ பாஸ்பேட்டுகள், கார்பமேட்டுகள் பூச்சிக்கொல்லிகளாகப் பயன்படுகின்றன."
       }
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 197,
       "quote": "II. 3. Indigo is a ______ dye.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Indigo is a",
         "options": [
           "acid dye",
-          "vat dye",
           "basic dye",
+          "vat dye",
           "direct dye"
         ],
         "explanation": "Vat dyes are used only on cotton and the dyeing is carried out in a large vessel called a vat."
@@ -315,8 +315,8 @@
         "q": "இண்டிகோ ஒரு",
         "options": [
           "அமிலச் சாயம்",
-          "வாட் சாயம்",
           "காரச் சாயம்",
+          "வாட் சாயம்",
           "நேரடிச் சாயம்"
         ],
         "explanation": "வாட் சாயங்கள் பருத்தியில் மட்டுமே பயன்படும்; வாட் எனும் பெரிய கலனில் சாயமிடப்படும்."
@@ -329,24 +329,24 @@
       "bloom": "remember",
       "page": 197,
       "quote": "II. 4. ______, ______ and ______ are macronutrients required for plant growth.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which three are the macronutrients (NPK) supplied by fertilizers for plant growth?",
         "options": [
-          "Nitrogen, phosphorus and potassium",
+          "Carbon, helium and neon",
           "Nitrogen, sodium and calcium",
           "Iron, zinc and copper",
-          "Carbon, helium and neon"
+          "Nitrogen, phosphorus and potassium"
         ],
         "explanation": "NPK (Nitrogen, Phosphorus and Potassium) fertilizers supply essential nutrients."
       },
       "ta": {
         "q": "தாவர வளர்ச்சிக்குத் தேவையான பேரூட்டச்சத்துக்கள் (NPK) மூன்றும்",
         "options": [
-          "நைட்ரஜன், பாஸ்பரஸ், பொட்டாசியம்",
+          "கார்பன், ஹீலியம், நியான்",
           "நைட்ரஜன், சோடியம், கால்சியம்",
           "இரும்பு, துத்தநாகம், தாமிரம்",
-          "கார்பன், ஹீலியம், நியான்"
+          "நைட்ரஜன், பாஸ்பரஸ், பொட்டாசியம்"
         ],
         "explanation": "NPK உரங்கள் (நைட்ரஜன், பாஸ்பரஸ், பொட்டாசியம்) அத்தியாவசிய ஊட்டங்களை வழங்குகின்றன."
       }
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 197,
       "quote": "II. 5. ______ is a chemical used in finger print analysis.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which chemical is used to make occult (hidden) fingerprints visible by turning purple?",
         "options": [
           "Iodoform",
           "Chloroform",
-          "Phenol",
-          "Ninhydrin"
+          "Ninhydrin",
+          "Phenol"
         ],
         "explanation": "Ninhydrin reacts with amino acids in perspiration and turns purple."
       },
@@ -374,8 +374,8 @@
         "options": [
           "அயோடோஃபார்ம்",
           "குளோரோஃபார்ம்",
-          "பீனால்",
-          "நின்ஹைட்ரின்"
+          "நின்ஹைட்ரின்",
+          "பீனால்"
         ],
         "explanation": "வியர்வையிலுள்ள அமினோ அமிலங்களுடன் வினைபுரிந்து நின்ஹைட்ரின் ஊதா நிறமாகும்."
       }
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 197,
       "quote": "III. Match the following: Antipyretics - Fever; Corrosion prevention - Electroplating; Hyperthyroidism - Iodine-131; Nanoparticle - Large surface area; Proteins - Body building",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Match: (a) Antipyretics (b) Hyperthyroidism (c) Nanoparticle (d) Proteins - (1) Large surface area (2) Fever (3) Body building (4) Iodine-131",
         "options": [
           "a-3, b-4, c-2, d-1",
           "a-2, b-1, c-4, d-3",
-          "a-2, b-4, c-1, d-3",
-          "a-4, b-1, c-3, d-2"
+          "a-4, b-1, c-3, d-2",
+          "a-2, b-4, c-1, d-3"
         ],
         "explanation": "Antipyretics reduce fever; iodine-131 treats hyperthyroidism; nanoparticles have a large surface area; proteins are body-building foods."
       },
@@ -403,8 +403,8 @@
         "options": [
           "a-3, b-4, c-2, d-1",
           "a-2, b-1, c-4, d-3",
-          "a-2, b-4, c-1, d-3",
-          "a-4, b-1, c-3, d-2"
+          "a-4, b-1, c-3, d-2",
+          "a-2, b-4, c-1, d-3"
         ],
         "explanation": "காய்ச்சல் நீக்கிகள் - காய்ச்சல்; தைராய்டு மிகைச்செயல் - I-131; நானோ துகள் - அதிகப் புறப்பரப்பு; புரதங்கள் - உடல் வளர்ச்சி."
       }
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 197,
       "quote": "IV. 3. What is the need for chemical fertilizers in crop fields?",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Chemical fertilizers are added to crop fields to",
         "options": [
-          "kill pests",
-          "test soil pH",
           "supply essential micro and macro nutrients required for crop growth",
+          "test soil pH",
+          "kill pests",
           "change the colour of crops"
         ],
         "explanation": "Examples: ammonium nitrate, calcium phosphate, urea and NPK."
@@ -517,9 +517,9 @@
       "ta": {
         "q": "பயிர் வயல்களில் வேதி உரங்கள் சேர்க்கப்படுவதன் நோக்கம்",
         "options": [
-          "பூச்சிகளைக் கொல்ல",
-          "மண்ணின் pH ஐச் சோதிக்க",
           "பயிர் வளர்ச்சிக்குத் தேவையான நுண், பேரூட்டச்சத்துகளை அளிக்க",
+          "மண்ணின் pH ஐச் சோதிக்க",
+          "பூச்சிகளைக் கொல்ல",
           "பயிர்களின் நிறத்தை மாற்ற"
         ],
         "explanation": "எ.கா: அம்மோனியம் நைட்ரேட், கால்சியம் பாஸ்பேட், யூரியா, NPK."
@@ -561,24 +561,24 @@
       "bloom": "remember",
       "page": 197,
       "quote": "V. 1. Explain the types of dyes based on their method of application.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Match the dye with its type by method of application: (a) Congo red (b) Picric acid (c) Alizarin (d) Indigo - (1) Acid dye (2) Vat dye (3) Direct dye (4) Mordant dye",
         "options": [
-          "a-3, b-1, c-4, d-2",
+          "a-3, b-4, c-1, d-2",
           "a-2, b-1, c-4, d-3",
           "a-4, b-1, c-3, d-2",
-          "a-3, b-4, c-1, d-2"
+          "a-3, b-1, c-4, d-2"
         ],
         "explanation": "Congo red is a direct dye, picric acid an acid dye, alizarin a mordant dye and indigo a vat dye."
       },
       "ta": {
         "q": "சாயத்தையும் பயன்படுத்தும் முறையின் அடிப்படையிலான வகையையும் பொருத்துக: (a) காங்கோ சிவப்பு (b) பிக்ரிக் அமிலம் (c) அலிசரின் (d) இண்டிகோ - (1) அமிலச் சாயம் (2) வாட் சாயம் (3) நேரடிச் சாயம் (4) மார்டன்ட் சாயம்",
         "options": [
-          "a-3, b-1, c-4, d-2",
+          "a-3, b-4, c-1, d-2",
           "a-2, b-1, c-4, d-3",
           "a-4, b-1, c-3, d-2",
-          "a-3, b-4, c-1, d-2"
+          "a-3, b-1, c-4, d-2"
         ],
         "explanation": "காங்கோ சிவப்பு - நேரடி; பிக்ரிக் அமிலம் - அமிலம்; அலிசரின் - மார்டன்ட்; இண்டிகோ - வாட்."
       }
@@ -590,14 +590,14 @@
       "bloom": "remember",
       "page": 197,
       "quote": "V. 2. Name various food additives and explain their functions.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Match the food additive with its function: (a) Preservatives (b) Artificial sweeteners (c) Flavour enhancers (d) Antioxidants - (1) Prevent oxidation of food (2) Enhance flavour (3) Protect food from microbial spoilage (4) Add sweet taste",
         "options": [
           "a-4, b-1, c-3, d-2",
           "a-2, b-4, c-3, d-1",
-          "a-3, b-4, c-1, d-2",
-          "a-3, b-4, c-2, d-1"
+          "a-3, b-4, c-2, d-1",
+          "a-3, b-4, c-1, d-2"
         ],
         "explanation": "Preservatives (sodium benzoate) prevent spoilage; saccharin sweetens; MSG enhances flavour; vitamin C and E are antioxidants."
       },
@@ -606,8 +606,8 @@
         "options": [
           "a-4, b-1, c-3, d-2",
           "a-2, b-4, c-3, d-1",
-          "a-3, b-4, c-1, d-2",
-          "a-3, b-4, c-2, d-1"
+          "a-3, b-4, c-2, d-1",
+          "a-3, b-4, c-1, d-2"
         ],
         "explanation": "சோடியம் பென்சோயேட் கெடுதலைத் தடுக்கும்; சாக்கரின் இனிப்பு; MSG சுவை; வைட்டமின் C, E ஆக்ஸிஜனேற்ற எதிர்ப்பிகள்."
       }

@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 110,
       "quote": "2. The percentage of fresh water on the earth is a) 71% b) 97.20% c) 2.80% d) 0.60%",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "What is the percentage of fresh water on the earth?",
         "options": [
           "71%",
-          "2.80%",
+          "0.60%",
           "97.20%",
-          "0.60%"
+          "2.80%"
         ],
         "explanation": "Salt water forms about 97.20% of the earth's water."
       },
@@ -54,9 +54,9 @@
         "q": "புவியிலுள்ள நன்னீரின் சதவிகிதம் ______.",
         "options": [
           "71%",
-          "2.80%",
+          "0.60%",
           "97.20%",
-          "0.60%"
+          "2.80%"
         ],
         "explanation": "உப்பு நீர் ஏறத்தாழ 97.20%."
       }
@@ -68,12 +68,12 @@
       "bloom": "remember",
       "page": 110,
       "quote": "3. The process of changing of water from gaseous to liquid form is known as a) Condensation b) Evaporation c) Sublimation d) Rainfall",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The process of changing of water from gaseous to liquid form is known as ______.",
         "options": [
-          "condensation",
           "evaporation",
+          "condensation",
           "sublimation",
           "rainfall"
         ],
@@ -82,8 +82,8 @@
       "ta": {
         "q": "நீர் நீராவியிலிருந்து திரவமாக மாறும் முறைக்கு ______ என்று பெயர்.",
         "options": [
-          "நீர் சுருங்குதல் (ஒடுக்கம்)",
           "ஆவியாதல்",
+          "நீர் சுருங்குதல் (ஒடுக்கம்)",
           "பதங்கமாதல்",
           "மழை"
         ],
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 110,
       "quote": "4. Water that flows in the sub-soil or through the ground into the streams, rivers, lakes and oceans is termed as a) Condensation b) Evaporation c) Transpiration d) Runoff",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Water that flows over or through the ground into streams, rivers, lakes and oceans is termed ______.",
         "options": [
-          "condensation",
-          "evaporation",
           "runoff",
+          "evaporation",
+          "condensation",
           "transpiration"
         ],
         "explanation": "Runoff is the water pulled by gravity across the land's surface."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "நீர் மண்ணின் அடியிலிருந்தோ புவிப்பரப்பின் வழியாகவோ ஆறுகள், ஓடைகள், ஏரிகள், பெருங்கடலுக்குச் செல்லும் முறை ______ எனப்படும்.",
         "options": [
-          "நீர் சுருங்குதல்",
-          "ஆவியாதல்",
           "நீர் வழிந்தோடல்",
+          "ஆவியாதல்",
+          "நீர் சுருங்குதல்",
           "நீர் உட்கசிந்து வெளியிடுதல்"
         ],
         "explanation": "புவியீர்ப்பால் நிலப்பரப்பு வழியே நீர் செல்வதே வழிந்தோடல்."
@@ -126,24 +126,24 @@
       "bloom": "remember",
       "page": 110,
       "quote": "5. The evaporation of water from the leaves of plants is called a) Transpiration b) Condensation c) Water vapour d) Precipitation",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The release of water vapour from the leaves of plants is called ______.",
         "options": [
-          "transpiration",
+          "infiltration",
           "condensation",
           "precipitation",
-          "infiltration"
+          "transpiration"
         ],
         "explanation": "About 10% of atmospheric moisture comes from plants through transpiration."
       },
       "ta": {
         "q": "தாவரங்களின் இலைகளிலிருந்து நீர் நீராவியாக வெளியேறுவதை ______ என்கிறோம்.",
         "options": [
-          "நீர் உட்கசிந்து வெளியிடுதல் (நீராவிப்போக்கு)",
+          "நீர் ஊடுருவல்",
           "நீர் சுருங்குதல்",
           "பொழிவு",
-          "நீர் ஊடுருவல்"
+          "நீர் உட்கசிந்து வெளியிடுதல் (நீராவிப்போக்கு)"
         ],
         "explanation": "வளிமண்டல ஈரப்பதத்தில் ஏறத்தாழ 10% தாவரங்களிலிருந்து கிடைக்கிறது."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 110,
       "quote": "6. Water that is good enough to drink is called a) Groundwater b) Surface water c) Potable water d) Artesian water",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Water that is good enough to drink is called ______.",
         "options": [
           "groundwater",
-          "surface water",
           "potable water",
+          "surface water",
           "artesian water"
         ],
         "explanation": "Potable means fit for drinking."
@@ -170,8 +170,8 @@
         "q": "குடிப்பதற்கு உகந்த நீரை ______ என்று அழைப்பர்.",
         "options": [
           "நிலத்தடி நீர்",
-          "மேற்பரப்பு நீர்",
           "குடிநீர் (பருகத்தக்க நீர்)",
+          "மேற்பரப்பு நீர்",
           "ஆர்ட்டீசியன் நீர்"
         ],
         "explanation": "பருகத்தக்க நீர் என்பது குடிக்கத் தகுந்த நீர்."
@@ -184,14 +184,14 @@
       "bloom": "remember",
       "page": 111,
       "quote": "II 1. The degree of water vapour present in the atmosphere is known as ______.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The degree of water vapour present in the atmosphere is known as ______.",
         "options": [
           "precipitation",
           "infiltration",
-          "runoff",
-          "humidity"
+          "humidity",
+          "runoff"
         ],
         "explanation": "Humidity depends on temperature and decreases from the equator towards the poles."
       },
@@ -200,8 +200,8 @@
         "options": [
           "பொழிவு",
           "நீர் ஊடுருவல்",
-          "நீர் வழிந்தோடல்",
-          "ஈரப்பதம்"
+          "ஈரப்பதம்",
+          "நீர் வழிந்தோடல்"
         ],
         "explanation": "ஈரப்பதம் வெப்பநிலையைச் சார்ந்தது; நிலநடுக்கோட்டிலிருந்து துருவம் நோக்கிக் குறையும்."
       }
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 105,
       "quote": "2. There are ______ phases in the water cycle.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The three important phases of the hydrological cycle are ______.",
         "options": [
           "condensation, infiltration and percolation",
-          "evapotranspiration, precipitation and runoff",
           "evaporation, sublimation and melting",
+          "evapotranspiration, precipitation and runoff",
           "rainfall, snowfall and hail"
         ],
         "explanation": "The cycle has six main components: evapotranspiration, condensation, precipitation, infiltration, percolation and runoff."
@@ -228,8 +228,8 @@
         "q": "நீரியல் சுழற்சியின் மூன்று முக்கிய நிலைகள் ______.",
         "options": [
           "நீர் சுருங்குதல், நீர் ஊடுருவல், நீர் உட்கசிதல்",
-          "ஆவியீர்ப்பு, பொழிவு, நீர் வழிந்தோடல்",
           "ஆவியாதல், பதங்கமாதல், உருகுதல்",
+          "ஆவியீர்ப்பு, பொழிவு, நீர் வழிந்தோடல்",
           "மழை, பனி, ஆலங்கட்டி"
         ],
         "explanation": "நீரியல் சுழற்சியில் ஆறு முக்கிய கூறுகள் உள்ளன: ஆவியீர்ப்பு, நீர் சுருங்குதல், பொழிவு, நீர் ஊடுருவல், நீர் உட்கசிதல், வழிந்தோடல்."
@@ -242,12 +242,12 @@
       "bloom": "remember",
       "page": 107,
       "quote": "3. The falling of water towards the earth surface from atmosphere in any form is known as ______.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The falling of water towards the earth's surface from the atmosphere in any form is known as ______.",
         "options": [
-          "condensation",
           "precipitation",
+          "condensation",
           "percolation",
           "evaporation"
         ],
@@ -256,8 +256,8 @@
       "ta": {
         "q": "வளிமண்டலத்திலிருந்து புவியை நோக்கி விழும் எல்லா வகை நீருக்கும் ______ என்று பெயர்.",
         "options": [
-          "நீர் சுருங்குதல்",
           "பொழிவு",
+          "நீர் சுருங்குதல்",
           "நீர் உட்கசிதல்",
           "ஆவியாதல்"
         ],
@@ -271,24 +271,24 @@
       "bloom": "remember",
       "page": 107,
       "quote": "4. The precipitation with the rain drop size of <0.5mm in diameter is known as ______.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Precipitation with raindrops less than 0.5 mm in diameter is known as ______.",
         "options": [
-          "drizzle",
+          "hail",
           "rain",
           "sleet",
-          "hail"
+          "drizzle"
         ],
         "explanation": "Drizzle generally takes place from stratus clouds."
       },
       "ta": {
         "q": "மழைத்துளியின் விட்டம் 0.5 மி.மீ.க்குக் குறைவாக இருந்தால் அப்பொழிவு ______ எனப்படும்.",
         "options": [
-          "தூறல்",
+          "ஆலங்கட்டி மழை",
           "மழை",
           "கல்மழை",
-          "ஆலங்கட்டி மழை"
+          "தூறல்"
         ],
         "explanation": "தூறல் பொதுவாக படை மேகங்களிலிருந்து பொழிகிறது."
       }
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 107,
       "quote": "5. Mist is denser than ______.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Mist, the tiny droplets of water hanging in the air, is less dense than ______.",
         "options": [
           "cloud droplets",
           "rain",
-          "fog",
-          "hail"
+          "hail",
+          "fog"
         ],
         "explanation": "The book's blank 'Mist is denser than ___' reverses this fact: mist is less dense than fog."
       },
@@ -316,8 +316,8 @@
         "options": [
           "மேகத் துளிகள்",
           "மழை",
-          "அடர்பனி (ஃபாக்)",
-          "ஆலங்கட்டி"
+          "ஆலங்கட்டி",
+          "அடர்பனி (ஃபாக்)"
         ],
         "explanation": "பாடநூல் கூற்று 'மிஸ்ட் அடர்த்தி அதிகம்' என்பது தவறு; மிஸ்ட் ஃபாக்கைவிட அடர்த்தி குறைவு."
       }
@@ -329,24 +329,24 @@
       "bloom": "remember",
       "page": 111,
       "quote": "III Match the following 1. Vegetation - Transpiration 2. Condensation - Clouds 3. Snow and rain drops - Sleet 4. Infiltration - At the surface",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Match List I with List II.\na) Vegetation\nb) Condensation\nc) Snow and rain drops\nd) Infiltration\n1. Sleet\n2. At the surface of the ground\n3. Transpiration\n4. Clouds",
         "options": [
-          "a-2, b-3, c-4, d-1",
+          "a-3, b-4, c-1, d-2",
           "a-1, b-2, c-4, d-3",
           "a-3, b-2, c-4, d-1",
-          "a-3, b-4, c-1, d-2"
+          "a-2, b-3, c-4, d-1"
         ],
         "explanation": "Vegetation – Transpiration; Condensation – Clouds; Snow and rain drops – Sleet; Infiltration – At the surface of the ground."
       },
       "ta": {
         "q": "I பட்டியலை II பட்டியலுடன் பொருத்துக.\na) தாவரங்கள்\nb) நீர் சுருங்குதல்\nc) பனித்துளி மற்றும் மழைத்துளி\nd) நீர் ஊடுருவுதல்\n1. கல்மழை\n2. புவியின் மேற்பரப்பு\n3. நீர் உட்கசிந்து வெளியிடுதல்\n4. மேகங்கள்",
         "options": [
-          "a-2, b-3, c-4, d-1",
+          "a-3, b-4, c-1, d-2",
           "a-1, b-2, c-4, d-3",
           "a-3, b-2, c-4, d-1",
-          "a-3, b-4, c-1, d-2"
+          "a-2, b-3, c-4, d-1"
         ],
         "explanation": "தாவரங்கள் – நீர் உட்கசிந்து வெளியிடுதல்; நீர் சுருங்குதல் – மேகங்கள்; பனித்துளி மற்றும் மழைத்துளி – கல்மழை; நீர் ஊடுருவுதல் – புவியின் மேற்பரப்பு."
       }
@@ -416,24 +416,24 @@
       "bloom": "remember",
       "page": 113,
       "quote": "V 2. Mist is not the tiny droplets of water hanging in the air.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which of the following is the tiny droplets of water hanging in the air formed when water vapour is rapidly cooled?",
         "options": [
-          "Mist",
+          "Dew",
           "Frost",
           "Hail",
-          "Dew"
+          "Mist"
         ],
         "explanation": "Mist is less dense than fog."
       },
       "ta": {
         "q": "நீராவி விரைவாகக் குளிர்வதால் காற்றில் மிதக்கும் நுண்ணிய நீர்த்துளிகள் எவை?",
         "options": [
-          "மிதமூடுபனி (மிஸ்ட்)",
+          "பனித்துளி",
           "உறைபனி",
           "ஆலங்கட்டி",
-          "பனித்துளி"
+          "மிதமூடுபனி (மிஸ்ட்)"
         ],
         "explanation": "மிஸ்ட் ஃபாக்கைவிட அடர்த்தி குறைவு."
       }
@@ -445,24 +445,24 @@
       "bloom": "remember",
       "page": 115,
       "quote": "V 3. The sub-surface runoff is usually referred as interflow.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Sub-surface runoff is usually referred to as ______.",
         "options": [
-          "base flow",
+          "interflow",
           "overland flow",
           "surface flow",
-          "interflow"
+          "base flow"
         ],
         "explanation": "Water that has entered the subsoil and moves laterally without joining the water table is sub-surface runoff."
       },
       "ta": {
         "q": "மண்ணுக்குள் புகுந்து பக்கவாட்டில் செல்லும் நீர் வழிந்தோடல் (துணை மேற்பரப்பு) பொதுவாக ______ எனப்படும்.",
         "options": [
-          "அடிப்பாய்வு",
+          "இடைப்பாய்வு (இன்டர்ஃபிளோ)",
           "மேற்பரப்புப் பாய்வு",
           "நிலப்பரப்புப் பாய்வு",
-          "இடைப்பாய்வு (இன்டர்ஃபிளோ)"
+          "அடிப்பாய்வு"
         ],
         "explanation": "நிலத்தடி நீர்மட்டத்தில் சேராமல் மண்ணுக்குள் பக்கவாட்டில் செல்வது இது."
       }
@@ -561,14 +561,14 @@
       "bloom": "remember",
       "page": 113,
       "quote": "VII 1. Infiltration of water is low in the region of non-porous soil.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Infiltration of water is low in regions of non-porous soil and rock because ______.",
         "options": [
           "rainfall is always low",
-          "evaporation is zero",
+          "water cannot soak through the tight, impermeable material",
           "the water table is at the surface",
-          "water cannot soak through the tight, impermeable material"
+          "evaporation is zero"
         ],
         "explanation": "More infiltration occurs in porous soils and rocks."
       },
@@ -576,9 +576,9 @@
         "q": "துளைகளற்ற மண், பாறைப் பகுதிகளில் நீர் ஊடுருவல் குறைவாக இருக்கக் காரணம் ______.",
         "options": [
           "மழை எப்போதும் குறைவு",
-          "ஆவியாதல் இல்லை",
+          "இறுக்கமான, நீர் புகாத பொருள்களுக்குள் நீர் கசிய முடியாது",
           "நிலத்தடி நீர்மட்டம் மேற்பரப்பில் இருக்கும்",
-          "இறுக்கமான, நீர் புகாத பொருள்களுக்குள் நீர் கசிய முடியாது"
+          "ஆவியாதல் இல்லை"
         ],
         "explanation": "துளைகளுள்ள மண், பாறையில் ஊடுருவல் அதிகம்."
       }
@@ -590,14 +590,14 @@
       "bloom": "remember",
       "page": 104,
       "quote": "VII 2. Fresh water is less on the earth.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Fresh water is less on the earth mainly because ______.",
         "options": [
           "fresh water evaporates entirely",
           "oceans cover only 10% of the earth",
-          "glaciers hold no water",
-          "about 97.2% of the earth's water is saline ocean water"
+          "about 97.2% of the earth's water is saline ocean water",
+          "glaciers hold no water"
         ],
         "explanation": "Only 2.8% is fresh, and much of it is locked in glaciers and icecaps."
       },
@@ -606,8 +606,8 @@
         "options": [
           "நன்னீர் முழுவதும் ஆவியாகிவிடுகிறது",
           "கடல்கள் புவியில் 10% மட்டுமே",
-          "பனியாறுகளில் நீர் இல்லை",
-          "புவியின் நீரில் ஏறத்தாழ 97.2% உவர் கடல்நீராக உள்ளது"
+          "புவியின் நீரில் ஏறத்தாழ 97.2% உவர் கடல்நீராக உள்ளது",
+          "பனியாறுகளில் நீர் இல்லை"
         ],
         "explanation": "2.8% மட்டுமே நன்னீர்; அதிலும் பெரும்பகுதி பனியாறுகளிலும் பனிமுடிகளிலும் உள்ளது."
       }
@@ -619,13 +619,13 @@
       "bloom": "remember",
       "page": 108,
       "quote": "VII 3. Snowfall is common in the polar region and mountainous regions.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Snowfall is common in ______ because of the low temperature.",
         "options": [
           "equatorial regions",
-          "desert regions",
           "polar and high mountainous regions",
+          "desert regions",
           "tropical coasts"
         ],
         "explanation": "Water vapour in a cloud is converted directly into snow when temperature is low."
@@ -634,8 +634,8 @@
         "q": "வெப்பநிலை குறைவால் பனிப்பொழிவு பொதுவாகக் காணப்படுவது ______.",
         "options": [
           "நிலநடுக்கோட்டுப் பகுதிகளில்",
-          "பாலைவனப் பகுதிகளில்",
           "துருவப் பகுதிகள், உயர்ந்த மலைப் பகுதிகளில்",
+          "பாலைவனப் பகுதிகளில்",
           "வெப்பமண்டலக் கடற்கரைகளில்"
         ],
         "explanation": "வெப்பநிலை குறையும்போது மேகத்திலுள்ள நீராவி நேரடியாகப் பனியாகிறது."

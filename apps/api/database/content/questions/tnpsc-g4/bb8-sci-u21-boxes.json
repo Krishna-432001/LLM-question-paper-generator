@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 244,
       "quote": "Kharif crops are sown in the rainy season (June to September): paddy, maize, soya bean, groundnut and cotton. Rabi crops are grown in winter (October to March): wheat, gram, pea, mustard, linseed. Zaid crops are grown in summer: muskmelon, watermelon, cucumber.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Wheat, gram, pea and mustard are examples of ______ crops.",
         "options": [
-          "rabi",
-          "kharif",
           "zaid",
+          "kharif",
+          "rabi",
           "fodder"
         ],
         "explanation": "Rabi crops are grown from October to March."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "கோதுமை, கொண்டைக்கடலை, பட்டாணி, கடுகு ஆகியவை ______ பயிர்களுக்கு எடுத்துக்காட்டுகள்.",
         "options": [
-          "ராபி",
-          "காரிஃப்",
           "ஜைத்",
+          "காரிஃப்",
+          "ராபி",
           "தீவன"
         ],
         "explanation": "ராபி பயிர்கள் அக்டோபர் முதல் மார்ச் வரை பயிரிடப்படுகின்றன."
@@ -39,12 +39,12 @@
       "bloom": "remember",
       "page": 244,
       "quote": "Kharif crops are those sown in the rainy season, i.e., from June to September. Paddy, maize, soya bean, groundnut and cotton are kharif crops.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Kharif crops are sown during the months of ______.",
         "options": [
-          "October to March",
           "June to September",
+          "October to March",
           "March to June only",
           "January to February"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "காரிஃப் பயிர்கள் ______ மாதங்களில் விதைக்கப்படுகின்றன.",
         "options": [
-          "அக்டோபர் முதல் மார்ச் வரை",
           "ஜூன் முதல் செப்டம்பர் வரை",
+          "அக்டோபர் முதல் மார்ச் வரை",
           "மார்ச் முதல் ஜூன் வரை மட்டும்",
           "ஜனவரி முதல் பிப்ரவரி வரை"
         ],
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 245,
       "quote": "According to utility, crops are classified as food crops (paddy, maize), fodder crops (sorghum, millets), fibre crops (cotton, hemp), oil crops (groundnut, sesame) and ornamental crops (croton, bougainvillea). Our country is the largest producer of bananas and mangoes in the world and the second largest producer of wheat and rice.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Cotton and hemp are ______ crops.",
         "options": [
-          "oil",
-          "fodder",
           "fibre",
+          "fodder",
+          "oil",
           "ornamental"
         ],
         "explanation": "Groundnut and sesame are oil crops; sorghum and millets are fodder crops."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "பருத்தியும் சணலும் ______ பயிர்கள்.",
         "options": [
-          "எண்ணெய்",
-          "தீவன",
           "நார்",
+          "தீவன",
+          "எண்ணெய்",
           "அலங்காரப்"
         ],
         "explanation": "நிலக்கடலை, எள் எண்ணெய்ப் பயிர்கள்; சோளம், தினை தீவனப் பயிர்கள்."
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 246,
       "quote": "Levelling of soil is done with an implement called the leveller, which is a heavy wooden or iron plank. Levelling also helps in uniform distribution of water during irrigation. Basal manuring means adding manure to the soil even before sowing.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Levelling of the field helps in ______.",
         "options": [
           "killing weeds",
           "storing grains",
-          "uniform distribution of water during irrigation",
-          "harvesting"
+          "harvesting",
+          "uniform distribution of water during irrigation"
         ],
         "explanation": "It is done with a leveller, a heavy wooden or iron plank."
       },
@@ -113,8 +113,8 @@
         "options": [
           "களைகளைக் கொல்ல",
           "தானியங்களைச் சேமிக்க",
-          "நீர்ப்பாசனத்தின்போது நீர் சீராகப் பரவ",
-          "அறுவடை செய்ய"
+          "அறுவடை செய்ய",
+          "நீர்ப்பாசனத்தின்போது நீர் சீராகப் பரவ"
         ],
         "explanation": "இது கனமான மரத்தாலான அல்லது இரும்புப் பலகையான சமப்படுத்தியால் செய்யப்படுகிறது."
       }
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 247,
       "quote": "Dibbling is the placement of seed material in a furrow, pit or hole at predetermined spacing with a dibble, more commonly by hand. Manure is an organic substance obtained from the decomposition of plants or animal wastes. Fertilizer is a substance added to the soil to improve plants' growth and yield. Fertilizers are composed mainly of urea, ammonium sulphate, super phosphate, potash and NPK.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Manure is an ______ substance obtained from the decomposition of plant or animal wastes.",
         "options": [
           "inorganic",
-          "synthetic",
+          "organic",
           "mineral",
-          "organic"
+          "synthetic"
         ],
         "explanation": "Fertilizers are mainly urea, ammonium sulphate, super phosphate, potash and NPK."
       },
@@ -170,9 +170,9 @@
         "q": "எரு என்பது தாவர அல்லது விலங்குக் கழிவுகள் சிதைவதால் கிடைக்கும் ______ பொருள்.",
         "options": [
           "கனிம",
-          "செயற்கை",
+          "கரிம",
           "தாது",
-          "கரிம"
+          "செயற்கை"
         ],
         "explanation": "உரங்கள் முக்கியமாக யூரியா, அம்மோனியம் சல்பேட், சூப்பர் பாஸ்பேட், பொட்டாஷ், NPK ஆகியவை."
       }
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 248,
       "quote": "Sprinkler system sprinkles water over the crop and helps in an even distribution of water. It is much advisable in areas facing water scarcity. In drip system, water is released drop by drop exactly at the root zone using a hose or pipe. This method is considered effective in regions where the availability of water is less.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "In which irrigation system is water released drop by drop exactly at the root zone?",
         "options": [
           "Sprinkler system",
-          "Drip system",
+          "Canal irrigation",
           "Surface irrigation",
-          "Canal irrigation"
+          "Drip system"
         ],
         "explanation": "A sprinkler system sprinkles water through fine nozzles of pipes."
       },
@@ -257,9 +257,9 @@
         "q": "வேர் மண்டலத்தில் துளித்துளியாக நீர் அளிக்கும் நீர்ப்பாசன முறை எது?",
         "options": [
           "தெளிப்பு நீர்ப்பாசனம்",
-          "சொட்டு நீர்ப்பாசனம்",
+          "கால்வாய் நீர்ப்பாசனம்",
           "மேற்பரப்பு நீர்ப்பாசனம்",
-          "கால்வாய் நீர்ப்பாசனம்"
+          "சொட்டு நீர்ப்பாசனம்"
         ],
         "explanation": "தெளிப்பு முறையில் குழாய்களின் நுண்ணிய முனைகளின் வழியே நீர் தெளிக்கப்படுகிறது."
       }
@@ -271,24 +271,24 @@
       "bloom": "remember",
       "page": 249,
       "quote": "The global population is expected to be 9 billion by the year 2050. But, agriculture activities alone utilize 70% of the available fresh water resources. Drip irrigation is a better solution for economical use of water.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Agriculture alone utilizes about ______ of the available fresh water resources.",
         "options": [
-          "70%",
+          "97%",
           "7%",
           "30%",
-          "97%"
+          "70%"
         ],
         "explanation": "Drip irrigation is a better solution for economical use of water."
       },
       "ta": {
         "q": "கிடைக்கும் நன்னீர் வளங்களில் வேளாண்மை மட்டுமே ஏறத்தாழ ______ பயன்படுத்துகிறது.",
         "options": [
-          "70%",
+          "97%",
           "7%",
           "30%",
-          "97%"
+          "70%"
         ],
         "explanation": "நீரை மிச்சப்படுத்திப் பயன்படுத்தச் சொட்டு நீர்ப்பாசனம் சிறந்த தீர்வு."
       }
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 250,
       "quote": "There are over 30000 species of weeds around the world. Out of these 18000 species cause serious losses to crops. Integrated weed management combines different agronomic practices and herbicide use. The process of cutting and gathering a crop is called harvesting. Threshing is the process of separating the grains from their chaffs or pods.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The process of cutting and gathering a crop is called ______.",
         "options": [
-          "harvesting",
-          "threshing",
           "winnowing",
+          "threshing",
+          "harvesting",
           "weeding"
         ],
         "explanation": "Harvesting also includes the immediate post-harvest practices such as threshing and winnowing."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "பயிரை வெட்டிச் சேகரிக்கும் செயல்முறை ______ எனப்படும்.",
         "options": [
-          "அறுவடை",
-          "கதிரடித்தல்",
           "தூற்றுதல்",
+          "கதிரடித்தல்",
+          "அறுவடை",
           "களையெடுத்தல்"
         ],
         "explanation": "அறுவடையில் கதிரடித்தல், தூற்றுதல் போன்ற உடனடி அறுவடைக்குப் பின் செயல்களும் அடங்கும்."
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 250,
       "quote": "Manual harvesting is the major method of harvesting in India. Crops like groundnut, green gram, black gram and horse gram can be harvested by uprooting with hand. Mechanical method: employing labourers with the help of farm instruments like sickle. Machine harvesting is used in large sized agriculture fields.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which instrument is commonly used for harvesting by labourers?",
         "options": [
           "Seed drill",
-          "Cultivator",
           "Sickle",
+          "Cultivator",
           "Leveller"
         ],
         "explanation": "Machine harvesting is used in large sized fields."
@@ -373,8 +373,8 @@
         "q": "தொழிலாளர்கள் அறுவடைக்குப் பொதுவாகப் பயன்படுத்தும் கருவி எது?",
         "options": [
           "சீட் டிரில்",
-          "உழவு எந்திரம் (கல்டிவேட்டர்)",
           "அரிவாள்",
+          "உழவு எந்திரம் (கல்டிவேட்டர்)",
           "சமப்படுத்தி"
         ],
         "explanation": "பெரிய வயல்களில் இயந்திர அறுவடை பயன்படுகிறது."
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 250,
       "quote": "Winnowing is the process of separating the grains from the chaffs after threshing. Before storing, harvested grains should be dried in the sun, free from moisture, since any moisture will lead to the growth of microorganisms. Food grains are collected in gunny bags and stored in godowns. Silos are used for the storage of grains on a large scale.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Harvested grains are dried in the sun before storing because moisture ______.",
         "options": [
           "increases the weight of grains",
-          "leads to the growth of microorganisms",
           "kills pests",
+          "leads to the growth of microorganisms",
           "improves taste"
         ],
         "explanation": "Silos are used for large-scale storage."
@@ -402,8 +402,8 @@
         "q": "சேமிப்பதற்கு முன் அறுவடை செய்த தானியங்கள் வெயிலில் உலர்த்தப்படுவது ஏனெனில் ஈரம் ______.",
         "options": [
           "தானியங்களின் எடையை அதிகரிக்கும்",
-          "நுண்ணுயிரிகள் வளர வழிவகுக்கும்",
           "பூச்சிகளைக் கொல்லும்",
+          "நுண்ணுயிரிகள் வளர வழிவகுக்கும்",
           "சுவையை மேம்படுத்தும்"
         ],
         "explanation": "பெரிய அளவில் சேமிக்கச் சேமிப்புக் கிடங்குகள் (சைலோ) பயன்படுகின்றன."
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 251,
       "quote": "Chemical vapours are sprayed to minimize pest and insects in godowns. This is called fumigation. Food Corporation of India (FCI) was set up on 14th January 1965 at Chennai with the objective of distribution of food grains throughout the country for the Public Distribution System (PDS) and maintaining operational and buffer stocks to ensure national food security. Its capital is in New Delhi now.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The Food Corporation of India (FCI) was set up on 14th January 1965 at ______.",
         "options": [
           "New Delhi",
-          "Mumbai",
           "Chennai",
+          "Mumbai",
           "Kolkata"
         ],
         "explanation": "Its headquarters is now in New Delhi."
@@ -431,8 +431,8 @@
         "q": "இந்திய உணவுக் கழகம் (FCI) 1965 ஜனவரி 14 அன்று ______ இல் நிறுவப்பட்டது.",
         "options": [
           "புது டெல்லி",
-          "மும்பை",
           "சென்னை",
+          "மும்பை",
           "கொல்கத்தா"
         ],
         "explanation": "இதன் தலைமையிடம் இப்போது புது டெல்லியில் உள்ளது."
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 252,
       "quote": "Seed bank is a place where seeds are stored in order to preserve genetic diversity. The Royal Botanical Gardens located in Kolkata first started collecting seeds formally as seed bank. Navadanya Seed Bank, a non-governmental organization located in New Delhi conserves around 50,000 crop varieties. The simple and healthiest method of seed storage is in air tight earthen pots.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "A place where seeds are stored in order to preserve genetic diversity is called a ______.",
         "options": [
           "herbarium",
-          "seed bank",
           "godown",
+          "seed bank",
           "nursery"
         ],
         "explanation": "Navadanya Seed Bank in New Delhi conserves around 50,000 crop varieties."
@@ -460,8 +460,8 @@
         "q": "மரபியல் பன்மையைப் பாதுகாக்க விதைகளைச் சேமித்து வைக்கும் இடம் ______ எனப்படும்.",
         "options": [
           "தாவரத் தொகுப்பகம்",
-          "விதை வங்கி",
           "கிடங்கு",
+          "விதை வங்கி",
           "நாற்றங்கால்"
         ],
         "explanation": "புது டெல்லியிலுள்ள நவதான்யா விதை வங்கி சுமார் 50,000 பயிர் இரகங்களைப் பாதுகாக்கிறது."
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 252,
       "quote": "Acharya Jagadish Chandra Bose Indian Botanic Garden located in Kolkata was earlier called Royal Botanic Garden. It exhibits a wide variety of rare plants and a total collection of over 12,000 specimens. The area of this garden spreads over 109 hectares.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The Acharya Jagadish Chandra Bose Indian Botanic Garden in Kolkata was earlier called the ______.",
         "options": [
           "National Botanic Garden",
-          "Imperial Garden",
+          "Royal Botanic Garden",
           "Lalbagh Garden",
-          "Royal Botanic Garden"
+          "Imperial Garden"
         ],
         "explanation": "It spreads over 109 hectares."
       },
@@ -489,9 +489,9 @@
         "q": "கொல்கத்தாவிலுள்ள ஆச்சார்ய ஜகதீஷ் சந்திர போஸ் இந்தியத் தாவரவியல் பூங்கா முன்பு ______ என அழைக்கப்பட்டது.",
         "options": [
           "தேசிய தாவரவியல் பூங்கா",
-          "ஏகாதிபத்தியப் பூங்கா",
+          "ராயல் தாவரவியல் பூங்கா",
           "லால்பாக் பூங்கா",
-          "ராயல் தாவரவியல் பூங்கா"
+          "ஏகாதிபத்தியப் பூங்கா"
         ],
         "explanation": "இது 109 ஹெக்டேர் பரப்பளவில் பரவியுள்ளது."
       }
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 252,
       "quote": "Seed balls are a mixture of soil, compost and plant seeds. These balls are thrown into land areas. With the monsoon set in, these planted seed balls will germinate into seedlings. The concept of seed ball has potential to increase tree cover and also to improve the awareness among the people about conserving plants.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Seed balls are a mixture of ______.",
         "options": [
           "sand, water and salt",
           "manure and fertilizer only",
-          "soil, compost and plant seeds",
-          "clay and stones"
+          "clay and stones",
+          "soil, compost and plant seeds"
         ],
         "explanation": "They germinate into seedlings when the monsoon sets in."
       },
@@ -519,8 +519,8 @@
         "options": [
           "மணல், நீர், உப்பின்",
           "எரு, உரம் மட்டும் கொண்ட",
-          "மண், மக்கிய உரம், தாவர விதைகளின்",
-          "களிமண், கற்களின்"
+          "களிமண், கற்களின்",
+          "மண், மக்கிய உரம், தாவர விதைகளின்"
         ],
         "explanation": "பருவமழை தொடங்கும்போது இவை முளைத்து நாற்றுகளாகின்றன."
       }
@@ -532,13 +532,13 @@
       "bloom": "remember",
       "page": 253,
       "quote": "An heirloom seed is the seed of plant that has been carefully cultivated and passed down through many generations. Heirloom seeds are also called organic seeds. These seeds are generally produced from open-pollinated plants. Synthetic fertilizers, herbicides or pesticides are not used for organic seeds.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Heirloom seeds are generally produced from ______ plants.",
         "options": [
-          "open-pollinated",
-          "hybrid",
           "genetically modified",
+          "hybrid",
+          "open-pollinated",
           "self-sterile"
         ],
         "explanation": "Heirloom seeds are also called organic seeds."
@@ -546,9 +546,9 @@
       "ta": {
         "q": "பாரம்பரிய விதைகள் பொதுவாக ______ தாவரங்களிலிருந்து உருவாக்கப்படுகின்றன.",
         "options": [
-          "திறந்த மகரந்தச்சேர்க்கைத்",
-          "கலப்பினத்",
           "மரபணு மாற்றப்பட்ட",
+          "கலப்பினத்",
+          "திறந்த மகரந்தச்சேர்க்கைத்",
           "தன்மலட்டுத்"
         ],
         "explanation": "பாரம்பரிய விதைகள் இயற்கை (ஆர்கானிக்) விதைகள் எனவும் அழைக்கப்படுகின்றன."
@@ -561,14 +561,14 @@
       "bloom": "remember",
       "page": 253,
       "quote": "The Indian Agricultural Research Institute (IARI) is a national institute for agricultural research, education and extension. IARI is commonly known as the Pusa Institute. It is financed and administrated by the ICAR. It was responsible for research leading to the green revolution in India during 1970s.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The Indian Agricultural Research Institute (IARI) is commonly known as the ______ Institute.",
         "options": [
           "Kharif",
           "Navadanya",
-          "Pusa",
-          "Vigyan"
+          "Vigyan",
+          "Pusa"
         ],
         "explanation": "It was responsible for research leading to the green revolution in the 1970s."
       },
@@ -577,8 +577,8 @@
         "options": [
           "காரிஃப்",
           "நவதான்யா",
-          "பூசா",
-          "விக்யான்"
+          "விக்யான்",
+          "பூசா"
         ],
         "explanation": "இது 1970-களில் பசுமைப் புரட்சிக்கு வழிவகுத்த ஆராய்ச்சிக்குப் பொறுப்பாக இருந்தது."
       }
@@ -590,14 +590,14 @@
       "bloom": "remember",
       "page": 254,
       "quote": "The Indian Council of Agricultural Research (ICAR) is an autonomous body responsible for co-ordinating agricultural education and research in India. The union minister of agriculture serves as its president. It is the largest network of agricultural research and education institutes in the world. The first KVK was established in 1974 at Pondicherry.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The first Krishi Vigyan Kendra (KVK) was established in 1974 at ______.",
         "options": [
           "New Delhi",
           "Chennai",
-          "Kolkata",
-          "Pondicherry"
+          "Pondicherry",
+          "Kolkata"
         ],
         "explanation": "ICAR is the largest network of agricultural research and education institutes in the world."
       },
@@ -606,8 +606,8 @@
         "options": [
           "புது டெல்லி",
           "சென்னை",
-          "கொல்கத்தா",
-          "புதுச்சேரி"
+          "புதுச்சேரி",
+          "கொல்கத்தா"
         ],
         "explanation": "ICAR உலகிலேயே மிகப் பெரிய வேளாண் ஆராய்ச்சி, கல்வி நிறுவனங்களின் வலைப்பின்னல்."
       }
@@ -619,24 +619,24 @@
       "bloom": "remember",
       "page": 254,
       "quote": "Foliar feeding is a technique of feeding plants by applying liquid fertilizer directly to their leaves. Plants are able to absorb essential elements through the stomata in their leaves. But total absorption takes place through epidermis.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "In foliar feeding, plants absorb essential elements through the ______ in their leaves.",
         "options": [
-          "stomata",
+          "flowers",
           "roots",
           "xylem",
-          "flowers"
+          "stomata"
         ],
         "explanation": "Total absorption takes place through the epidermis."
       },
       "ta": {
         "q": "இலைவழி ஊட்டத்தில் தாவரங்கள் இலைகளிலுள்ள ______ வழியாக இன்றியமையாத தனிமங்களை உறிஞ்சுகின்றன.",
         "options": [
-          "இலைத்துளைகள் (ஸ்டொமேட்டா)",
+          "மலர்கள்",
           "வேர்கள்",
           "சைலம்",
-          "மலர்கள்"
+          "இலைத்துளைகள் (ஸ்டொமேட்டா)"
         ],
         "explanation": "முழு உறிஞ்சுதலும் புறத்தோல் வழியாக நிகழ்கிறது."
       }
@@ -648,14 +648,14 @@
       "bloom": "remember",
       "page": 255,
       "quote": "Effective microorganisms (EM) are a culture of different effective microbes commonly occurring in nature: nitrogen fixers, phosphate stabilizers, photosynthetic microorganisms, lactic acid bacteria, yeast, Rhizo bacteria and various fungi and actinomycetes. Panchagavya is a promoter with a combination of five products obtained from the cow: cow dung, cow's urine, milk, curd and ghee.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Panchagavya is made of five products obtained from the ______.",
         "options": [
           "goat",
-          "cow",
+          "hen",
           "buffalo only",
-          "hen"
+          "cow"
         ],
         "explanation": "They are cow dung, cow's urine, milk, curd and ghee."
       },
@@ -663,9 +663,9 @@
         "q": "பஞ்சகவ்யம் ______ இலிருந்து பெறப்படும் ஐந்து பொருள்களால் ஆனது.",
         "options": [
           "ஆடு",
-          "பசு",
+          "கோழி",
           "எருமை மட்டும்",
-          "கோழி"
+          "பசு"
         ],
         "explanation": "அவை சாணம், சிறுநீர், பால், தயிர், நெய்."
       }
@@ -677,13 +677,13 @@
       "bloom": "remember",
       "page": 255,
       "quote": "Panchagavya can be used for seed treatment also; seeds are soaked for 20 minutes before sowing. Vermiwash is a liquid that is collected after the passage of water through a column of worm action. Vermiwash is used as a foliar spray for crops.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Vermiwash is the liquid collected after the passage of water through a column of ______ action.",
         "options": [
           "cow dung",
-          "earthworm",
           "leaf compost",
+          "earthworm",
           "neem"
         ],
         "explanation": "Vermiwash is used as a foliar spray for crops."
@@ -692,8 +692,8 @@
         "q": "வெர்மிவாஷ் என்பது நீர் ______ செயல்பட்ட நிரல் வழியே சென்றபின் சேகரிக்கப்படும் திரவம்.",
         "options": [
           "சாணம்",
-          "மண்புழுக்கள்",
           "இலை மக்கு",
+          "மண்புழுக்கள்",
           "வேம்பு"
         ],
         "explanation": "வெர்மிவாஷ் பயிர்களுக்கு இலைவழித் தெளிப்பாகப் பயன்படுகிறது."
@@ -706,13 +706,13 @@
       "bloom": "remember",
       "page": 255,
       "quote": "Bio-control or biological control is a method of controlling pests such as insects, mites, weeds and plant diseases using other organisms. Bio-predators, bio-pesticides, bio-repellents and bio-fertilizers are used for controlling microorganisms which cause damage to the crops, pests and insects.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Controlling pests such as insects, mites, weeds and plant diseases using other organisms is called ______.",
         "options": [
-          "bio-control (biological control)",
-          "fumigation",
           "winnowing",
+          "fumigation",
+          "bio-control (biological control)",
           "foliar feeding"
         ],
         "explanation": "Bio-predators, bio-pesticides, bio-repellents and bio-fertilizers are used for this."
@@ -720,9 +720,9 @@
       "ta": {
         "q": "பூச்சிகள், சிலந்திகள், களைகள், தாவர நோய்களைப் பிற உயிரினங்களைக் கொண்டு கட்டுப்படுத்தும் முறை ______ எனப்படும்.",
         "options": [
-          "உயிரியல் கட்டுப்பாடு",
-          "புகையூட்டல்",
           "தூற்றுதல்",
+          "புகையூட்டல்",
+          "உயிரியல் கட்டுப்பாடு",
           "இலைவழி ஊட்டம்"
         ],
         "explanation": "இதற்கு உயிரி – கொன்றுண்ணிகள், உயிரிப் பூச்சிக்கொல்லிகள், உயிரி விரட்டிகள், உயிர் உரங்கள் பயன்படுகின்றன."
@@ -764,14 +764,14 @@
       "bloom": "remember",
       "page": 256,
       "quote": "Trichoderma viride is a fungus used as a biological pesticide. It is useful to control various diseases caused by fungi such as wilt, rusting of leaves and root disease. A culture of Bacillus thuringiensis bacteria is effectively used to control the pest Lepidoptera that attack cotton and maize plants.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The fungus Trichoderma viride is used as a ______.",
         "options": [
           "biofertilizer",
-          "herbicide",
+          "biological pesticide",
           "bio-indicator",
-          "biological pesticide"
+          "herbicide"
         ],
         "explanation": "It controls fungal diseases such as wilt, rusting of leaves and root disease."
       },
@@ -779,9 +779,9 @@
         "q": "டிரைக்கோடெர்மா விரிடி எனும் பூஞ்சை ______ பயன்படுகிறது.",
         "options": [
           "உயிர் உரமாக",
-          "களைக்கொல்லியாக",
+          "உயிரிப் பூச்சிக்கொல்லியாக",
           "உயிரி – சுட்டிக்காட்டியாக",
-          "உயிரிப் பூச்சிக்கொல்லியாக"
+          "களைக்கொல்லியாக"
         ],
         "explanation": "இது வாடல், இலைத் துரு, வேர் நோய் போன்ற பூஞ்சை நோய்களைக் கட்டுப்படுத்துகிறது."
       }
@@ -793,24 +793,24 @@
       "bloom": "remember",
       "page": 256,
       "quote": "Bio-fertilizers are organisms which can bring about soil nutrient enrichment. Nitrogen fixing microorganisms convert free nitrogen into nitrogenous compounds. The main source of bio-fertilizers is cyano bacteria and certain fungi. Free living cyano bacterium: Anabaena, Nostoc. Symbiotic bacteria: Rhizobium. Although chemical fertilizers increase food production, they degrade the natural habitat.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Anabaena and Nostoc are free living ______ used as bio-fertilizers.",
         "options": [
-          "cyanobacteria",
+          "viruses",
           "fungi",
           "protozoa",
-          "viruses"
+          "cyanobacteria"
         ],
         "explanation": "Rhizobium is a symbiotic nitrogen fixing bacterium."
       },
       "ta": {
         "q": "அனபீனா, நாஸ்டாக் ஆகியவை உயிர் உரங்களாகப் பயன்படும் தனித்து வாழும் ______.",
         "options": [
-          "சயனோபாக்டீரியாக்கள்",
+          "வைரஸ்கள்",
           "பூஞ்சைகள்",
           "முதலுயிரிகள்",
-          "வைரஸ்கள்"
+          "சயனோபாக்டீரியாக்கள்"
         ],
         "explanation": "ரைசோபியம் கூட்டுயிர் வாழ்க்கை நடத்தும் நைட்ரஜன் நிலைநிறுத்தும் பாக்டீரியா."
       }

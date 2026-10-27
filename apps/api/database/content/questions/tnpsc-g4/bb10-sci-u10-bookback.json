@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 152,
       "quote": "1. H2(g) + Cl2(g) -> 2HCl(g) is a a. Decomposition Reaction b. Combination Reaction c. Single Displacement Reaction d. Double Displacement Reaction",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The reaction H₂(g) + Cl₂(g) → 2HCl(g) is a",
         "options": [
           "single displacement reaction",
-          "decomposition reaction",
           "combination reaction",
+          "decomposition reaction",
           "double displacement reaction"
         ],
         "explanation": "Two elements combine to form one compound."
@@ -25,8 +25,8 @@
         "q": "H₂(g) + Cl₂(g) → 2HCl(g) என்பது",
         "options": [
           "ஒற்றை இடப்பெயர்ச்சி வினை",
-          "சிதைவுறுதல் வினை",
           "சேர்க்கை வினை",
+          "சிதைவுறுதல் வினை",
           "இரட்டை இடப்பெயர்ச்சி வினை"
         ],
         "explanation": "இரு தனிமங்கள் சேர்ந்து ஒரு சேர்மம் உருவாகிறது."
@@ -39,12 +39,12 @@
       "bloom": "remember",
       "page": 152,
       "quote": "2. Photolysis is a decomposition reaction caused by ___________ a. heat b. electricity c. light d. mechanical energy",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Photolysis is a decomposition reaction caused by",
         "options": [
-          "mechanical energy",
           "light",
+          "mechanical energy",
           "electricity",
           "heat"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "ஒளிச்சிதைவு என்பது ____ ஆல் நிகழும் சிதைவு வினை.",
         "options": [
-          "எந்திர ஆற்றல்",
           "ஒளி",
+          "எந்திர ஆற்றல்",
           "மின்னாற்றல்",
           "வெப்பம்"
         ],
@@ -68,14 +68,14 @@
       "bloom": "understand",
       "page": 152,
       "quote": "3. A reaction between carbon and oxygen is represented by C(s) + O2(g) -> CO2(g) + Heat. In which of the type(s), the above reaction can be classified? (i) Combination (ii) Combustion (iii) Decomposition (iv) Irreversible a. i and ii b. i and iv c. i, ii and iii d. i, ii and iv",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The reaction C(s) + O₂(g) → CO₂(g) + heat can be classified as\n(i) combination reaction\n(ii) combustion reaction\n(iii) decomposition reaction\n(iv) irreversible reaction",
         "options": [
           "(i), (ii) and (iii)",
           "(i) and (ii) only",
-          "(i) and (iv) only",
-          "(i), (ii) and (iv)"
+          "(i), (ii) and (iv)",
+          "(i) and (iv) only"
         ],
         "explanation": "It is a combination, an exothermic combustion and an irreversible reaction; it is not a decomposition."
       },
@@ -84,8 +84,8 @@
         "options": [
           "(i), (ii), (iii)",
           "(i), (ii) மட்டும்",
-          "(i), (iv) மட்டும்",
-          "(i), (ii), (iv)"
+          "(i), (ii), (iv)",
+          "(i), (iv) மட்டும்"
         ],
         "explanation": "இது சேர்க்கை வினை, வெப்ப உமிழ் எரிதல் வினை, மீளா வினை; சிதைவுறுதல் வினை அன்று."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 152,
       "quote": "4. The chemical equation Na2SO4(aq) + BaCl2(aq) -> BaSO4(s) + 2NaCl(aq) represents which of the following types of reaction? a. Neutralisation b. Combustion c. Precipitation d. Single displacement",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s)↓ + 2NaCl(aq) represents a",
         "options": [
-          "precipitation reaction",
-          "neutralisation reaction",
           "single displacement reaction",
+          "neutralisation reaction",
+          "precipitation reaction",
           "combustion reaction"
         ],
         "explanation": "An insoluble salt (BaSO₄) is formed as a precipitate by exchange of ions."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s)↓ + 2NaCl(aq) என்ற சமன்பாடு குறிப்பது",
         "options": [
-          "வீழ்படிவாதல் வினை",
-          "நடுநிலையாக்கல் வினை",
           "ஒற்றை இடப்பெயர்ச்சி வினை",
+          "நடுநிலையாக்கல் வினை",
+          "வீழ்படிவாதல் வினை",
           "எரிதல் வினை"
         ],
         "explanation": "அயனிப் பரிமாற்றத்தால் கரையாத உப்பு (BaSO₄) வீழ்படிவாகிறது."
@@ -213,13 +213,13 @@
       "bloom": "apply",
       "page": 152,
       "quote": "9. The pH of a solution is 3. Its [OH-] concentration is a. 1 × 10^-3 M b. 3 M c. 1 × 10^-11 M d. 11 M",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The pH of a solution is 3. Its hydroxide ion concentration [OH⁻] is",
         "options": [
           "3 M",
-          "1 × 10⁻¹¹ M",
           "1 × 10⁻³ M",
+          "1 × 10⁻¹¹ M",
           "11 M"
         ],
         "explanation": "pOH = 14 − 3 = 11, so [OH⁻] = 10⁻¹¹ M."
@@ -228,8 +228,8 @@
         "q": "ஒரு கரைசலின் pH மதிப்பு 3 எனில் அதன் ஹைட்ராக்சைடு அயனி [OH⁻] செறிவு",
         "options": [
           "3 M",
-          "1 × 10⁻¹¹ M",
           "1 × 10⁻³ M",
+          "1 × 10⁻¹¹ M",
           "11 M"
         ],
         "explanation": "pOH = 14 − 3 = 11; எனவே [OH⁻] = 10⁻¹¹ M."
@@ -242,24 +242,24 @@
       "bloom": "remember",
       "page": 152,
       "quote": "10. Powdered CaCO3 reacts more rapidly than flaky CaCO3 because of ___________. a. large surface area b. high pressure c. high concentration d. high temperature",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Powdered CaCO₃ reacts more rapidly than flaky CaCO₃ because of its",
         "options": [
-          "higher concentration",
+          "larger surface area",
           "higher temperature",
           "higher pressure",
-          "larger surface area"
+          "higher concentration"
         ],
         "explanation": "The rate of a reaction increases with the surface area of the reactant."
       },
       "ta": {
         "q": "தூளாக்கப்பட்ட CaCO₃, கட்டியான CaCO₃-ஐ விடத் தீவிரமாக வினைபுரியக் காரணம்",
         "options": [
-          "அதிகச் செறிவு",
+          "அதிக புறப்பரப்பளவு",
           "அதிக வெப்பநிலை",
           "அதிக அழுத்தம்",
-          "அதிக புறப்பரப்பளவு"
+          "அதிகச் செறிவு"
         ],
         "explanation": "வினைபடுபொருளின் புறப்பரப்பு அதிகரித்தால் வினைவேகம் அதிகரிக்கும்."
       }
@@ -300,24 +300,24 @@
       "bloom": "remember",
       "page": 152,
       "quote": "2. When lithium metal is placed in hydrochloric acid, ________ gas is evolved.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "When lithium metal is placed in hydrochloric acid, ____ gas is evolved.",
         "options": [
-          "hydrogen",
+          "oxygen",
           "carbon dioxide",
           "chlorine",
-          "oxygen"
+          "hydrogen"
         ],
         "explanation": "2Li + 2HCl → 2LiCl + H₂↑."
       },
       "ta": {
         "q": "லித்தியம் உலோகத்தை ஹைட்ரோகுளோரிக் அமிலத்தில் இட்டால் ____ வாயு வெளிப்படுகிறது.",
         "options": [
-          "ஹைட்ரஜன்",
+          "ஆக்சிஜன்",
           "கார்பன் டைஆக்சைடு",
           "குளோரின்",
-          "ஆக்சிஜன்"
+          "ஹைட்ரஜன்"
         ],
         "explanation": "2Li + 2HCl → 2LiCl + H₂↑."
       }
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 153,
       "quote": "3. The equilibrium attained during the melting of ice is known as ___________.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The equilibrium attained during the melting of ice is known as",
         "options": [
           "ionic equilibrium",
-          "nuclear equilibrium",
           "physical equilibrium",
+          "nuclear equilibrium",
           "chemical equilibrium"
         ],
         "explanation": "Ice and water coexist at 0 °C in a closed system (a phase equilibrium)."
@@ -344,8 +344,8 @@
         "q": "பனிக்கட்டி உருகும்போது ஏற்படும் சமநிலை",
         "options": [
           "அயனிச் சமநிலை",
-          "அணுக்கரு சமநிலை",
           "இயற்பியல் சமநிலை",
+          "அணுக்கரு சமநிலை",
           "வேதிச் சமநிலை"
         ],
         "explanation": "மூடிய அமைப்பில் 0 °C-இல் பனிக்கட்டியும் நீரும் சேர்ந்திருப்பது நிலைச் சமநிலை."
@@ -358,13 +358,13 @@
       "bloom": "understand",
       "page": 153,
       "quote": "4. The pH of a fruit juice is 5.6. If you add slaked lime to this juice, its pH _____________ (increse/decrese)",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The pH of a fruit juice is 5.6. If slaked lime is added to it, its pH will",
         "options": [
           "remain 5.6",
-          "become zero",
           "increase",
+          "become zero",
           "decrease"
         ],
         "explanation": "Slaked lime is basic and neutralises acid, so the pH rises."
@@ -373,8 +373,8 @@
         "q": "ஒரு பழச்சாற்றின் pH 5.6. இதனுடன் நீர்த்த சுண்ணாம்பைச் சேர்த்தால் அதன் pH",
         "options": [
           "5.6 ஆகவே இருக்கும்",
-          "சுழியாகும்",
           "அதிகரிக்கும்",
+          "சுழியாகும்",
           "குறையும்"
         ],
         "explanation": "நீர்த்த சுண்ணாம்பு காரத் தன்மையுடையது; அமிலத்தை நடுநிலையாக்குவதால் pH அதிகரிக்கும்."
@@ -387,24 +387,24 @@
       "bloom": "remember",
       "page": 153,
       "quote": "5. The value of ionic product of water at 25 C is _____________.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The value of the ionic product of water at 25 °C is",
         "options": [
-          "1 × 10⁻¹⁴ mol² L⁻²",
+          "1 × 10⁻⁷ mol² L⁻²",
           "7 mol² L⁻²",
           "1 × 10¹⁴ mol² L⁻²",
-          "1 × 10⁻⁷ mol² L⁻²"
+          "1 × 10⁻¹⁴ mol² L⁻²"
         ],
         "explanation": "K_w = [H⁺][OH⁻] = 10⁻¹⁴, so pH + pOH = 14."
       },
       "ta": {
         "q": "25 °C-இல் நீரின் அயனிப் பெருக்கத்தின் மதிப்பு",
         "options": [
-          "1 × 10⁻¹⁴ மோல்² லிட்டர்⁻²",
+          "1 × 10⁻⁷ மோல்² லிட்டர்⁻²",
           "7 மோல்² லிட்டர்⁻²",
           "1 × 10¹⁴ மோல்² லிட்டர்⁻²",
-          "1 × 10⁻⁷ மோல்² லிட்டர்⁻²"
+          "1 × 10⁻¹⁴ மோல்² லிட்டர்⁻²"
         ],
         "explanation": "K_w = [H⁺][OH⁻] = 10⁻¹⁴; எனவே pH + pOH = 14."
       }
@@ -445,12 +445,12 @@
       "bloom": "remember",
       "page": 153,
       "quote": "7. Electrolysis is type of _______________ reaction",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Electrolysis is a type of ____ reaction.",
         "options": [
-          "decomposition",
           "single displacement",
+          "decomposition",
           "neutralisation",
           "combination"
         ],
@@ -459,8 +459,8 @@
       "ta": {
         "q": "மின்னாற்பகுப்பு என்பது ____ வகை வினை.",
         "options": [
-          "சிதைவுறுதல்",
           "ஒற்றை இடப்பெயர்ச்சி",
+          "சிதைவுறுதல்",
           "நடுநிலையாக்கல்",
           "சேர்க்கை"
         ],
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 153,
       "quote": "8. The number of products formed in a synthesis reaction is _________",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The number of products formed in a synthesis (combination) reaction is",
         "options": [
           "four",
-          "two",
+          "one",
           "three",
-          "one"
+          "two"
         ],
         "explanation": "Two or more reactants combine to give a single product."
       },
@@ -489,9 +489,9 @@
         "q": "தொகுப்பு (சேர்க்கை) வினையில் உருவாகும் விளைபொருட்களின் எண்ணிக்கை",
         "options": [
           "நான்கு",
-          "இரண்டு",
+          "ஒன்று",
           "மூன்று",
-          "ஒன்று"
+          "இரண்டு"
         ],
         "explanation": "இரண்டு அல்லது அதற்கு மேற்பட்ட வினைபடுபொருட்கள் சேர்ந்து ஒரே விளைபொருளைத் தருகின்றன."
       }
@@ -503,12 +503,12 @@
       "bloom": "remember",
       "page": 153,
       "quote": "9. Chemical volcano is an example for _______________ type of reaction",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The 'chemical volcano' (decomposition of ammonium dichromate) is an example of a ____ reaction.",
         "options": [
-          "decomposition",
           "neutralisation",
+          "decomposition",
           "combination",
           "double displacement"
         ],
@@ -517,8 +517,8 @@
       "ta": {
         "q": "வேதி எரிமலை ____ வகை வினைக்கு எடுத்துக்காட்டு.",
         "options": [
-          "சிதைவுறுதல்",
           "நடுநிலையாக்கல்",
+          "சிதைவுறுதல்",
           "சேர்க்கை",
           "இரட்டை இடப்பெயர்ச்சி"
         ],
@@ -532,14 +532,14 @@
       "bloom": "remember",
       "page": 153,
       "quote": "10. The ion formed by dissolution of H+ in water is called _______________",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The ion formed when H⁺ dissolves in water is called the",
         "options": [
           "hydroxide ion",
           "hydride ion",
-          "hydronium ion",
-          "ammonium ion"
+          "ammonium ion",
+          "hydronium ion"
         ],
         "explanation": "H⁺ + H₂O → H₃O⁺."
       },
@@ -548,8 +548,8 @@
         "options": [
           "ஹைட்ராக்சைடு அயனி",
           "ஹைட்ரைடு அயனி",
-          "ஹைட்ரோனியம் அயனி",
-          "அம்மோனியம் அயனி"
+          "அம்மோனியம் அயனி",
+          "ஹைட்ரோனியம் அயனி"
         ],
         "explanation": "H⁺ + H₂O → H₃O⁺."
       }
@@ -561,12 +561,12 @@
       "bloom": "remember",
       "page": 153,
       "quote": "III. Identify the types of reaction: NH4OH + CH3COOH -> CH3COONH4 + H2O (Neutralisation); Zn + CuSO4 -> ZnSO4 + Cu (Single displacement); ZnCO3 -> ZnO + CO2 (Thermal decomposition); C2H4 + 4O2 -> 2CO2 + 2H2O + Heat (Combustion)",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Match the reaction in List I with its type in List II:\n(a) NH₄OH + CH₃COOH → CH₃COONH₄ + H₂O\n(b) Zn + CuSO₄ → ZnSO₄ + Cu\n(c) ZnCO₃ → (heat) ZnO + CO₂\n(d) C₂H₄ + 3O₂ → 2CO₂ + 2H₂O + heat\n— \n(1) Neutralisation\n(2) Combustion\n(3) Thermal decomposition\n(4) Single displacement",
         "options": [
-          "a-2, b-3, c-1, d-4",
           "a-1, b-4, c-3, d-2",
+          "a-2, b-3, c-1, d-4",
           "a-2, b-1, c-4, d-3",
           "a-2, b-4, c-1, d-3"
         ],
@@ -575,8 +575,8 @@
       "ta": {
         "q": "பட்டியல் I-இலுள்ள வினையைப் பட்டியல் II-இலுள்ள வகையுடன் பொருத்துக:\n(a) NH₄OH + CH₃COOH → CH₃COONH₄ + H₂O\n(b) Zn + CuSO₄ → ZnSO₄ + Cu\n(c) ZnCO₃ → (வெப்பம்) ZnO + CO₂\n(d) C₂H₄ + 3O₂ → 2CO₂ + 2H₂O + வெப்பம்\n— \n(1) நடுநிலையாக்கல்\n(2) எரிதல்\n(3) வெப்பச் சிதைவு\n(4) ஒற்றை இடப்பெயர்ச்சி",
         "options": [
-          "a-2, b-3, c-1, d-4",
           "a-1, b-4, c-3, d-2",
+          "a-2, b-3, c-1, d-4",
           "a-2, b-1, c-4, d-3",
           "a-2, b-4, c-1, d-3"
         ],
@@ -619,13 +619,13 @@
       "bloom": "remember",
       "page": 153,
       "quote": "2. The pH of rain water containing dissolved gases like SO3, CO2, NO2 will be less than 7.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Rain water containing dissolved gases such as SO₃, CO₂ and NO₂ has a pH",
         "options": [
           "equal to 14",
-          "less than 7 (acidic)",
           "exactly 7",
+          "less than 7 (acidic)",
           "greater than 7"
         ],
         "explanation": "The statement is true; rain with pH below 5.6 is called acid rain."
@@ -634,8 +634,8 @@
         "q": "SO₃, CO₂, NO₂ போன்ற வாயுக்கள் கரைந்த மழைநீரின் pH",
         "options": [
           "14",
-          "7-ஐ விடக் குறைவு (அமிலத் தன்மை)",
           "சரியாக 7",
+          "7-ஐ விடக் குறைவு (அமிலத் தன்மை)",
           "7-ஐ விட அதிகம்"
         ],
         "explanation": "கூற்று சரி; pH 5.6-க்குக் கீழ் உள்ள மழைநீர் அமில மழை எனப்படும்."
@@ -648,14 +648,14 @@
       "bloom": "remember",
       "page": 153,
       "quote": "3. At the equilibrium of a reversible reaction, the concentration of the reactants and the products will be equal.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "At the equilibrium of a reversible reaction",
         "options": [
           "the reaction stops completely",
           "only the forward reaction occurs",
-          "the concentrations of reactants and products are always equal",
-          "the rates of the forward and backward reactions are equal"
+          "the rates of the forward and backward reactions are equal",
+          "the concentrations of reactants and products are always equal"
         ],
         "explanation": "It is the rates, not the concentrations, that are equal; equilibrium is dynamic."
       },
@@ -664,8 +664,8 @@
         "options": [
           "வினை முற்றிலும் நின்றுவிடும்",
           "முன்னோக்கு வினை மட்டுமே நிகழும்",
-          "வினைபடு, வினைவிளை பொருட்களின் செறிவுகள் எப்போதும் சமம்",
-          "முன்னோக்கு, பின்னோக்கு வினைகளின் வேகங்கள் சமம்"
+          "முன்னோக்கு, பின்னோக்கு வினைகளின் வேகங்கள் சமம்",
+          "வினைபடு, வினைவிளை பொருட்களின் செறிவுகள் எப்போதும் சமம்"
         ],
         "explanation": "வேகங்கள் சமமாகும், செறிவுகள் அல்ல; சமநிலை இயக்கத்தன்மை உடையது."
       }
@@ -677,14 +677,14 @@
       "bloom": "remember",
       "page": 153,
       "quote": "4. Periodical removal of one of the products of a reversible reaction increases the yield.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "In a reversible reaction, removing one of the products periodically",
         "options": [
           "stops the reaction",
           "decreases the yield",
-          "increases the yield of products",
-          "has no effect"
+          "has no effect",
+          "increases the yield of products"
         ],
         "explanation": "The statement is true: the equilibrium shifts forward."
       },
@@ -693,8 +693,8 @@
         "options": [
           "வினை நின்றுவிடும்",
           "விளைச்சல் குறையும்",
-          "விளைச்சல் அதிகரிக்கும்",
-          "எந்த விளைவும் இல்லை"
+          "எந்த விளைவும் இல்லை",
+          "விளைச்சல் அதிகரிக்கும்"
         ],
         "explanation": "கூற்று சரி; சமநிலை முன்னோக்கி நகரும்."
       }
@@ -706,14 +706,14 @@
       "bloom": "remember",
       "page": 153,
       "quote": "5. On dipping a pH paper in a solution, it turns into yellow. Then the solution is basic.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A pH paper dipped in a solution turns yellow. The solution is most likely",
         "options": [
           "strongly acidic",
-          "neutral",
+          "weakly acidic",
           "strongly basic",
-          "weakly acidic"
+          "neutral"
         ],
         "explanation": "Yellow on universal indicator paper corresponds to a weakly acidic solution (pH about 5–6)."
       },
@@ -721,9 +721,9 @@
         "q": "pH தாளை ஒரு கரைசலில் நனைத்தபோது அது மஞ்சளாக மாறுகிறது. அக்கரைசல் தோராயமாக",
         "options": [
           "வலிமையான அமிலம்",
-          "நடுநிலை",
+          "வலிமை குறைந்த அமிலம்",
           "வலிமையான காரம்",
-          "வலிமை குறைந்த அமிலம்"
+          "நடுநிலை"
         ],
         "explanation": "அனைத்துக்கும் ஏற்ற காட்டித் தாளில் மஞ்சள் என்பது வலிமை குறைந்த அமிலத்தைக் (pH ≈ 5–6) குறிக்கும்."
       }
@@ -735,14 +735,14 @@
       "bloom": "apply",
       "page": 153,
       "quote": "1. When an aqueous solution of potassium chloride is added to an aqueous solution of silver nitrate, a white precipitate is formed. Give the chemical equation of this reaction.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "When aqueous potassium chloride is added to aqueous silver nitrate, a white precipitate is formed. The equation is",
         "options": [
           "KCl + AgNO₃ → KAg + NO₃Cl",
           "2KCl + AgNO₃ → Ag₂Cl + 2KNO₃",
-          "KCl + AgNO₃ → AgCl↓ + KNO₃",
-          "KCl + AgNO₃ → KNO₃ + Ag↓ + Cl₂"
+          "KCl + AgNO₃ → KNO₃ + Ag↓ + Cl₂",
+          "KCl + AgNO₃ → AgCl↓ + KNO₃"
         ],
         "explanation": "AgCl is the white insoluble precipitate; this is a double displacement (precipitation) reaction."
       },
@@ -751,8 +751,8 @@
         "options": [
           "KCl + AgNO₃ → KAg + NO₃Cl",
           "2KCl + AgNO₃ → Ag₂Cl + 2KNO₃",
-          "KCl + AgNO₃ → AgCl↓ + KNO₃",
-          "KCl + AgNO₃ → KNO₃ + Ag↓ + Cl₂"
+          "KCl + AgNO₃ → KNO₃ + Ag↓ + Cl₂",
+          "KCl + AgNO₃ → AgCl↓ + KNO₃"
         ],
         "explanation": "AgCl கரையாத வெண்மை வீழ்படிவு; இது இரட்டை இடப்பெயர்ச்சி (வீழ்படிவாதல்) வினை."
       }
@@ -764,24 +764,24 @@
       "bloom": "understand",
       "page": 153,
       "quote": "2. Why does the reaction rate of a reaction increase on raising the temperature?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The rate of a reaction increases on raising the temperature because",
         "options": [
-          "the number of molecules decreases",
+          "the molecules move faster, collide more often and with more energy",
           "the pressure decreases",
           "the activation energy becomes infinite",
-          "the molecules move faster, collide more often and with more energy"
+          "the number of molecules decreases"
         ],
         "explanation": "Temperature increases the reaction rate."
       },
       "ta": {
         "q": "வெப்பநிலை உயரும்போது வினைவேகம் அதிகரிக்கக் காரணம்",
         "options": [
-          "மூலக்கூறுகளின் எண்ணிக்கை குறைவது",
+          "மூலக்கூறுகள் வேகமாக இயங்கி அடிக்கடியும் அதிக ஆற்றலுடனும் மோதுவது",
           "அழுத்தம் குறைவது",
           "கிளர்வு ஆற்றல் முடிவிலியாவது",
-          "மூலக்கூறுகள் வேகமாக இயங்கி அடிக்கடியும் அதிக ஆற்றலுடனும் மோதுவது"
+          "மூலக்கூறுகளின் எண்ணிக்கை குறைவது"
         ],
         "explanation": "வெப்பநிலை உயர்வு வினைவேகத்தை அதிகரிக்கும்."
       }
@@ -793,13 +793,13 @@
       "bloom": "remember",
       "page": 153,
       "quote": "3. Define combination reaction. Give one example for an exothermic combination reaction.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which of the following is an example of an exothermic combination reaction?",
         "options": [
-          "C(s) + O₂(g) → CO₂(g) + heat",
-          "Zn + CuSO₄ → ZnSO₄ + Cu",
           "2H₂O(l) → 2H₂(g) + O₂(g)",
+          "Zn + CuSO₄ → ZnSO₄ + Cu",
+          "C(s) + O₂(g) → CO₂(g) + heat",
           "CaCO₃(s) → CaO(s) + CO₂(g)"
         ],
         "explanation": "In a combination reaction two or more substances combine to form a single product; most are exothermic."
@@ -807,9 +807,9 @@
       "ta": {
         "q": "வெப்ப உமிழ் சேர்க்கை வினைக்கு எடுத்துக்காட்டு எது?",
         "options": [
-          "C(s) + O₂(g) → CO₂(g) + வெப்பம்",
-          "Zn + CuSO₄ → ZnSO₄ + Cu",
           "2H₂O(l) → 2H₂(g) + O₂(g)",
+          "Zn + CuSO₄ → ZnSO₄ + Cu",
+          "C(s) + O₂(g) → CO₂(g) + வெப்பம்",
           "CaCO₃(s) → CaO(s) + CO₂(g)"
         ],
         "explanation": "இரண்டு அல்லது அதற்கு மேற்பட்ட பொருட்கள் சேர்ந்து ஒரே விளைபொருளைத் தருவது சேர்க்கை வினை; பெரும்பாலானவை வெப்ப உமிழ் வினைகள்."
@@ -822,24 +822,24 @@
       "bloom": "remember",
       "page": 153,
       "quote": "4. Differentiate reversible and irreversible reactions",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which of the following is a reversible reaction?",
         "options": [
-          "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)",
+          "Na₂SO₄ + BaCl₂ → BaSO₄↓ + 2NaCl",
           "Wood burning in air",
           "C(s) + O₂(g) → CO₂(g)",
-          "Na₂SO₄ + BaCl₂ → BaSO₄↓ + 2NaCl"
+          "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)"
         ],
         "explanation": "Most reactions in chemistry are irreversible; a reversible reaction is shown by a double arrow."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் மீள் வினை எது?",
         "options": [
-          "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)",
+          "Na₂SO₄ + BaCl₂ → BaSO₄↓ + 2NaCl",
           "காற்றில் மரம் எரிதல்",
           "C(s) + O₂(g) → CO₂(g)",
-          "Na₂SO₄ + BaCl₂ → BaSO₄↓ + 2NaCl"
+          "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)"
         ],
         "explanation": "பெரும்பாலான வினைகள் மீளா வினைகள்; மீள் வினை இரட்டை அம்புக்குறியால் காட்டப்படும்."
       }
@@ -851,12 +851,12 @@
       "bloom": "apply",
       "page": 153,
       "quote": "1. A solid compound 'A' decomposes on heating into 'B' and a gas 'C'. On passing the gas 'C' through water, it becomes acidic. Identify A, B and C.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "A solid compound A decomposes on heating into B and a gas C. When C is passed through water it becomes acidic. A, B and C are respectively",
         "options": [
-          "Ca(OH)₂, CaO and H₂O",
           "CaCO₃, CaO and CO₂",
+          "Ca(OH)₂, CaO and H₂O",
           "CaO, CaCO₃ and CO₂",
           "CuSO₄, CuO and O₂"
         ],
@@ -865,8 +865,8 @@
       "ta": {
         "q": "திண்மச் சேர்மம் A வெப்பத்தால் சிதைந்து B-யும் வாயு C-யும் தருகிறது. C-ஐ நீரில் செலுத்தினால் அது அமிலமாகிறது. A, B, C முறையே",
         "options": [
-          "Ca(OH)₂, CaO, H₂O",
           "CaCO₃, CaO, CO₂",
+          "Ca(OH)₂, CaO, H₂O",
           "CaO, CaCO₃, CO₂",
           "CuSO₄, CuO, O₂"
         ],
@@ -909,24 +909,24 @@
       "bloom": "apply",
       "page": 154,
       "quote": "1. Lemon juice has a pH 2, what is the concentration of H+ ions?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Lemon juice has a pH of 2. The concentration of H⁺ ions in it is",
         "options": [
-          "1 × 10⁻¹² mol L⁻¹",
+          "1 × 10⁻² mol L⁻¹",
           "2 mol L⁻¹",
           "1 × 10² mol L⁻¹",
-          "1 × 10⁻² mol L⁻¹"
+          "1 × 10⁻¹² mol L⁻¹"
         ],
         "explanation": "[H⁺] = 10⁻ᵖᴴ = 10⁻² mol L⁻¹."
       },
       "ta": {
         "q": "எலுமிச்சை சாற்றின் pH 2 எனில் அதன் H⁺ அயனிச் செறிவு",
         "options": [
-          "1 × 10⁻¹² மோல் லிட்டர்⁻¹",
+          "1 × 10⁻² மோல் லிட்டர்⁻¹",
           "2 மோல் லிட்டர்⁻¹",
           "1 × 10² மோல் லிட்டர்⁻¹",
-          "1 × 10⁻² மோல் லிட்டர்⁻¹"
+          "1 × 10⁻¹² மோல் லிட்டர்⁻¹"
         ],
         "explanation": "[H⁺] = 10⁻ᵖᴴ = 10⁻² மோல் லிட்டர்⁻¹."
       }
@@ -938,13 +938,13 @@
       "bloom": "apply",
       "page": 154,
       "quote": "2. Calculate the pH of 1.0 × 10^-4 molar solution of HNO3.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The pH of a 1.0 × 10⁻⁴ molar solution of HNO₃ is",
         "options": [
           "10",
-          "4",
           "−4",
+          "4",
           "1"
         ],
         "explanation": "HNO₃ is a strong acid: [H⁺] = 10⁻⁴ M, pH = 4."
@@ -953,8 +953,8 @@
         "q": "1.0 × 10⁻⁴ மோலார் HNO₃ கரைசலின் pH",
         "options": [
           "10",
-          "4",
           "−4",
+          "4",
           "1"
         ],
         "explanation": "HNO₃ வலிமையான அமிலம்: [H⁺] = 10⁻⁴ M; pH = 4."
@@ -996,13 +996,13 @@
       "bloom": "apply",
       "page": 154,
       "quote": "4. The hydroxide ion concentration of a solution is 1 × 10^-11 M. What is the pH of the solution?",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The hydroxide ion concentration of a solution is 1 × 10⁻¹¹ M. Its pH is",
         "options": [
-          "3",
-          "7",
           "10",
+          "7",
+          "3",
           "11"
         ],
         "explanation": "pOH = 11, so pH = 14 − 11 = 3."
@@ -1010,9 +1010,9 @@
       "ta": {
         "q": "ஒரு கரைசலில் ஹைட்ராக்சைடு அயனிச் செறிவு 1 × 10⁻¹¹ M எனில் அதன் pH",
         "options": [
-          "3",
-          "7",
           "10",
+          "7",
+          "3",
           "11"
         ],
         "explanation": "pOH = 11; pH = 14 − 11 = 3."

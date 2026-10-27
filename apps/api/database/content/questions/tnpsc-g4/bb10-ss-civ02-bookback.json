@@ -10,12 +10,12 @@
       "bloom": "remember",
       "page": 257,
       "quote": "The Constitutional Head of the Union is",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The Constitutional Head of the Union is",
         "options": [
-          "The Prime Minister",
           "The President",
+          "The Prime Minister",
           "The Council of Ministers",
           "The Chief Justice"
         ],
@@ -24,8 +24,8 @@
       "ta": {
         "q": "ஒன்றியத்தின் அரசமைப்புத் தலைவர்",
         "options": [
-          "பிரதம மந்திரி",
           "குடியரசுத் தலைவர்",
+          "பிரதம மந்திரி",
           "அமைச்சரவை",
           "தலைமை நீதிபதி"
         ],
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 257,
       "quote": "The Council of Ministers is collectively responsible to the:",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The Council of Ministers is collectively responsible to the",
         "options": [
           "The Prime Minister",
           "Rajya Sabha",
-          "Lok Sabha",
-          "The President"
+          "The President",
+          "Lok Sabha"
         ],
         "explanation": "The Council of Ministers is collectively responsible to the Lok Sabha, where a no-confidence motion can be introduced."
       },
@@ -84,8 +84,8 @@
         "options": [
           "பிரதம மந்திரிக்கு",
           "மாநிலங்களவைக்கு",
-          "மக்களவைக்கு",
-          "குடியரசுத் தலைவருக்கு"
+          "குடியரசுத் தலைவருக்கு",
+          "மக்களவைக்கு"
         ],
         "explanation": "அமைச்சரவை மக்களவைக்குக் கூட்டுப் பொறுப்புடையது; நம்பிக்கையில்லாத் தீர்மானம் மக்களவையில் மட்டுமே கொண்டுவரப்படும்."
       }
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 257,
       "quote": "What is minimum age laid down for a candidate to seek election to the Lok Sabha?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "What is the minimum age laid down for a candidate to seek election to the Lok Sabha?",
         "options": [
           "30 years",
           "21 years",
-          "18 years",
-          "25 years"
+          "25 years",
+          "18 years"
         ],
         "explanation": "A Lok Sabha candidate must be at least 25; a Rajya Sabha member at least 30."
       },
@@ -113,8 +113,8 @@
         "options": [
           "30 ஆண்டுகள்",
           "21 ஆண்டுகள்",
-          "18 ஆண்டுகள்",
-          "25 ஆண்டுகள்"
+          "25 ஆண்டுகள்",
+          "18 ஆண்டுகள்"
         ],
         "explanation": "மக்களவை வேட்பாளருக்கு 25; மாநிலங்களவை உறுப்பினருக்கு 30 வயது."
       }
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 257,
       "quote": "The authority to alter the boundaries of state in India rest with?",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "In India, the authority to alter the boundaries of States rests with the",
         "options": [
           "Prime Minister",
-          "State Government",
+          "Parliament",
           "President alone",
-          "Parliament"
+          "State Government"
         ],
         "explanation": "Parliament has the power to change the boundaries of the States."
       },
@@ -141,9 +141,9 @@
         "q": "இந்தியாவில் மாநில எல்லைகளை மாற்றும் அதிகாரம் உள்ளது",
         "options": [
           "பிரதம மந்திரியிடம்",
-          "மாநில அரசிடம்",
+          "நாடாளுமன்றத்திடம்",
           "குடியரசுத் தலைவரிடம் மட்டும்",
-          "நாடாளுமன்றத்திடம்"
+          "மாநில அரசிடம்"
         ],
         "explanation": "மாநில எல்லைகளை மாற்றும் அதிகாரம் நாடாளுமன்றத்துக்கு உண்டு."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 257,
       "quote": "Under which Article the President is vested with the power to proclaim Financial Emergency?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The President can proclaim a Financial Emergency under which Article?",
         "options": [
           "Article 365",
-          "Article 360",
           "Article 356",
+          "Article 360",
           "Article 352"
         ],
         "explanation": "Article 360 authorises a financial emergency; Art. 352 national and Art. 356 state emergency."
@@ -170,8 +170,8 @@
         "q": "நிதி அவசரநிலையை அறிவிக்கும் அதிகாரம் குடியரசுத் தலைவருக்கு எந்தப் பிரிவின் கீழ் உள்ளது?",
         "options": [
           "பிரிவு 365",
-          "பிரிவு 360",
           "பிரிவு 356",
+          "பிரிவு 360",
           "பிரிவு 352"
         ],
         "explanation": "பிரிவு 360 நிதி அவசரநிலை; 352 தேசிய; 356 மாநில அவசரநிலை."
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 257,
       "quote": "The Chief Justice and other Judges of the Supreme court are appointed by:",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The Chief Justice and other Judges of the Supreme Court are appointed by",
         "options": [
-          "The President",
           "The Governor",
+          "The President",
           "The Attorney General",
           "The Prime Minister"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "உச்சநீதிமன்றத் தலைமை நீதிபதியையும் பிற நீதிபதிகளையும் நியமிப்பவர்",
         "options": [
-          "குடியரசுத் தலைவர்",
           "ஆளுநர்",
+          "குடியரசுத் தலைவர்",
           "தலைமை வழக்கறிஞர்",
           "பிரதம மந்திரி"
         ],
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 257,
       "quote": "________ is the leader of the nation and chief spokesperson of the country.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Who is the leader of the nation and the chief spokesperson of the country?",
         "options": [
           "The President",
-          "The Prime Minister",
           "The Speaker",
+          "The Prime Minister",
           "The Vice-President"
         ],
         "explanation": "The Prime Minister heads the Council of Ministers and is the real executive head."
@@ -257,8 +257,8 @@
         "q": "நாட்டின் தலைவரும் முதன்மைப் பேச்சாளருமாக இருப்பவர் யார்?",
         "options": [
           "குடியரசுத் தலைவர்",
-          "பிரதம மந்திரி",
           "மக்களவைத் தலைவர்",
+          "பிரதம மந்திரி",
           "துணைக் குடியரசுத் தலைவர்"
         ],
         "explanation": "பிரதம மந்திரி அமைச்சரவைக்குத் தலைமை தாங்கும் உண்மையான நிர்வாகத் தலைவர்."
@@ -271,24 +271,24 @@
       "bloom": "remember",
       "page": 257,
       "quote": "________ is the Ex-officio Chairperson of the Rajya Sabha.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Who is the ex-officio Chairperson of the Rajya Sabha?",
         "options": [
-          "The Vice-President",
+          "The President",
           "The Speaker",
           "The Prime Minister",
-          "The President"
+          "The Vice-President"
         ],
         "explanation": "The Vice-President is ex-officio Chairman of the Rajya Sabha and regulates the proceedings of the House."
       },
       "ta": {
         "q": "மாநிலங்களவையின் பதவிவழித் தலைவர் யார்?",
         "options": [
-          "துணைக் குடியரசுத் தலைவர்",
+          "குடியரசுத் தலைவர்",
           "மக்களவைத் தலைவர்",
           "பிரதம மந்திரி",
-          "குடியரசுத் தலைவர்"
+          "துணைக் குடியரசுத் தலைவர்"
         ],
         "explanation": "துணைக் குடியரசுத் தலைவர் மாநிலங்களவையின் பதவிவழித் தலைவர்; அவை நடவடிக்கைகளை ஒழுங்குபடுத்துகிறார்."
       }
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 257,
       "quote": "________ has the right to speak and to take part in the proceedings of both Houses of the Parliament.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Who has the right to speak and to take part in the proceedings of both Houses of Parliament without being a member?",
         "options": [
           "The Chief Justice of India",
-          "The Chief Election Commissioner",
+          "The Attorney General of India",
           "The Comptroller and Auditor General",
-          "The Attorney General of India"
+          "The Chief Election Commissioner"
         ],
         "explanation": "The Attorney General (Art. 76), the highest law officer, may speak in both Houses."
       },
@@ -315,9 +315,9 @@
         "q": "உறுப்பினராக இல்லாமலே நாடாளுமன்ற இரு அவைகளின் நடவடிக்கைகளிலும் பேசவும் பங்கேற்கவும் உரிமை உள்ளவர் யார்?",
         "options": [
           "இந்தியத் தலைமை நீதிபதி",
-          "தலைமைத் தேர்தல் ஆணையர்",
+          "இந்தியத் தலைமை வழக்கறிஞர்",
           "தலைமைக் கணக்குத் தணிக்கையாளர்",
-          "இந்தியத் தலைமை வழக்கறிஞர்"
+          "தலைமைத் தேர்தல் ஆணையர்"
         ],
         "explanation": "தலைமை வழக்கறிஞர் (பிரிவு 76) இரு அவைகளிலும் பேசலாம்."
       }
@@ -329,24 +329,24 @@
       "bloom": "remember",
       "page": 257,
       "quote": "________ is the Guardian of the Constitution.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which body is regarded as the “Guardian of the Constitution”?",
         "options": [
-          "The Supreme Court",
+          "The President",
           "The Parliament",
           "The Election Commission",
-          "The President"
+          "The Supreme Court"
         ],
         "explanation": "The Supreme Court enjoys judicial review, the power to declare a law unconstitutional."
       },
       "ta": {
         "q": "'அரசமைப்பின் காவலன்' என்று கருதப்படும் அமைப்பு எது?",
         "options": [
-          "உச்சநீதிமன்றம்",
+          "குடியரசுத் தலைவர்",
           "நாடாளுமன்றம்",
           "தேர்தல் ஆணையம்",
-          "குடியரசுத் தலைவர்"
+          "உச்சநீதிமன்றம்"
         ],
         "explanation": "உச்சநீதிமன்றத்துக்கு நீதிமன்றத் தீர்ப்பாய்வு அதிகாரம் (சட்டத்தை அரசமைப்புக்கு முரணானது எனக் கூறுதல்) உண்டு."
       }
@@ -358,14 +358,14 @@
       "bloom": "understand",
       "page": 258,
       "quote": "i) Total members of the Rajya Sabha is 250; ii) The 12 nominated members shall be chosen by the President...; iii) Members should not be less than 30 years; iv) directly elected by the people.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Consider: (i) The maximum strength of the Rajya Sabha is 250. (ii) The 12 nominated members are chosen by the President from persons with experience in literature, science, art and social service. (iii) Members of the Rajya Sabha should not be less than 30 years of age. (iv) The members of the Rajya Sabha are directly elected by the people. Which are correct?",
         "options": [
           "iii and iv",
           "ii and iv",
-          "i, ii and iii",
-          "i and iv"
+          "i and iv",
+          "i, ii and iii"
         ],
         "explanation": "(iv) is wrong: members are elected indirectly by the elected members of State Legislative Assemblies through proportional representation by STV."
       },
@@ -374,8 +374,8 @@
         "options": [
           "iii, iv",
           "ii, iv",
-          "i, ii, iii",
-          "i, iv"
+          "i, iv",
+          "i, ii, iii"
         ],
         "explanation": "(iv) தவறு: மாநிலச் சட்டமன்ற உறுப்பினர்களால் ஒற்றைமாற்று வாக்குமுறையில் மறைமுகமாகத் தேர்ந்தெடுக்கப்படுகின்றனர்."
       }
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 258,
       "quote": "IV Match: Article 53, Article 63, Article 356, Article 76, Article 352",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Match List I with List II.\nList I: a. Article 53  b. Article 63  c. Article 356  d. Article 76\nList II: 1. Office of the Vice-President  2. State Emergency  3. Office of the Attorney General  4. Executive power of the President",
         "options": [
           "a-4, b-2, c-1, d-3",
-          "a-4, b-1, c-2, d-3",
+          "a-4, b-1, c-3, d-2",
           "a-1, b-4, c-2, d-3",
-          "a-4, b-1, c-3, d-2"
+          "a-4, b-1, c-2, d-3"
         ],
         "explanation": "Art. 53 executive power of the Union; Art. 63 Vice-President; Art. 356 President's Rule in a State; Art. 76 Attorney General. Art. 352 is national (internal/external) emergency."
       },
@@ -431,9 +431,9 @@
         "q": "பட்டியல் I-ஐ பட்டியல் II உடன் பொருத்துக.\nபட்டியல் I: a. பிரிவு 53  b. பிரிவு 63  c. பிரிவு 356  d. பிரிவு 76\nபட்டியல் II: 1. துணைக் குடியரசுத் தலைவர் பதவி  2. மாநில அவசரநிலை  3. தலைமை வழக்கறிஞர் பதவி  4. குடியரசுத் தலைவரின் நிர்வாக அதிகாரம்",
         "options": [
           "a-4, b-2, c-1, d-3",
-          "a-4, b-1, c-2, d-3",
+          "a-4, b-1, c-3, d-2",
           "a-1, b-4, c-2, d-3",
-          "a-4, b-1, c-3, d-2"
+          "a-4, b-1, c-2, d-3"
         ],
         "explanation": "பிரிவு 53 ஒன்றிய நிர்வாக அதிகாரம்; 63 துணைக் குடியரசுத் தலைவர்; 356 மாநில அவசரநிலை; 76 தலைமை வழக்கறிஞர்; 352 தேசிய அவசரநிலை."
       }
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 258,
       "quote": "What are the different categories of Ministers at the Union level?",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which are the three ranks of ministers at the Union level?",
         "options": [
           "Chief Ministers, Ministers and Governors",
-          "Cabinet Ministers, Ministers of State and Deputy Ministers",
+          "Senior, Junior and Honorary Ministers",
           "Cabinet, Shadow and Standing Ministers",
-          "Senior, Junior and Honorary Ministers"
+          "Cabinet Ministers, Ministers of State and Deputy Ministers"
         ],
         "explanation": "Ministers of State do not attend Cabinet meetings unless invited."
       },
@@ -489,9 +489,9 @@
         "q": "ஒன்றிய அளவிலான அமைச்சர்களின் மூன்று நிலைகள் எவை?",
         "options": [
           "முதலமைச்சர்கள், அமைச்சர்கள், ஆளுநர்கள்",
-          "அமைச்சரவை (கேபினட்) அமைச்சர்கள், இணை அமைச்சர்கள், துணை அமைச்சர்கள்",
+          "மூத்த, இளைய, கௌரவ அமைச்சர்கள்",
           "கேபினட், நிழல், நிலைக்குழு அமைச்சர்கள்",
-          "மூத்த, இளைய, கௌரவ அமைச்சர்கள்"
+          "அமைச்சரவை (கேபினட்) அமைச்சர்கள், இணை அமைச்சர்கள், துணை அமைச்சர்கள்"
         ],
         "explanation": "இணை அமைச்சர்கள் அழைக்கப்பட்டால் மட்டுமே கேபினட் கூட்டங்களில் பங்கேற்பர்."
       }
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 258,
       "quote": "List out any two special powers of the Attorney General of India?",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which of the following is true of the Attorney General of India?",
         "options": [
-          "He is elected by Parliament",
-          "He is appointed by the Chief Justice",
           "He is the highest law officer, appointed by the President, and must be qualified to be a Supreme Court judge",
+          "He is appointed by the Chief Justice",
+          "He is elected by Parliament",
           "He cannot be removed by the President"
         ],
         "explanation": "Article 76: the Attorney General is appointed by the President, may be removed by him at any time or may resign."
@@ -517,9 +517,9 @@
       "ta": {
         "q": "இந்தியத் தலைமை வழக்கறிஞர் குறித்துச் சரியானது எது?",
         "options": [
-          "நாடாளுமன்றத்தால் தேர்ந்தெடுக்கப்படுபவர்",
-          "தலைமை நீதிபதியால் நியமிக்கப்படுபவர்",
           "நாட்டின் உயர்ந்த சட்ட அதிகாரி; குடியரசுத் தலைவரால் நியமிக்கப்படுபவர்; உச்சநீதிமன்ற நீதிபதியாகும் தகுதி உடையவர்",
+          "தலைமை நீதிபதியால் நியமிக்கப்படுபவர்",
+          "நாடாளுமன்றத்தால் தேர்ந்தெடுக்கப்படுபவர்",
           "குடியரசுத் தலைவரால் நீக்கப்பட முடியாதவர்"
         ],
         "explanation": "பிரிவு 76: குடியரசுத் தலைவரால் நியமிக்கப்படுபவர்; எப்போதும் அவரால் நீக்கப்படலாம்; ராஜினாமாவும் செய்யலாம்."

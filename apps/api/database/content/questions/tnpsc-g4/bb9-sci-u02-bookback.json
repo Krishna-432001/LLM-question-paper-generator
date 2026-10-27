@@ -10,12 +10,12 @@
       "bloom": "remember",
       "page": 24,
       "quote": "II. Fill in the blanks. 1. Speed is a __________ quantity whereas velocity is a _________ quantity.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Speed is a ______ quantity whereas velocity is a ______ quantity.",
         "options": [
-          "scalar, vector",
           "vector, scalar",
+          "scalar, vector",
           "scalar, scalar",
           "vector, vector"
         ],
@@ -24,8 +24,8 @@
       "ta": {
         "q": "வேகம் ஒரு ______ அளவு; திசைவேகம் ஒரு ______ அளவு.",
         "options": [
-          "ஸ்கேலர், வெக்டர்",
           "வெக்டர், ஸ்கேலர்",
+          "ஸ்கேலர், வெக்டர்",
           "ஸ்கேலர், ஸ்கேலர்",
           "வெக்டர், வெக்டர்"
         ],
@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 24,
       "quote": "2. The slope of the distance – time graph at any point gives __________",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The slope of a distance-time graph at any point gives the",
         "options": [
           "acceleration",
           "displacement",
-          "force",
-          "speed"
+          "speed",
+          "force"
         ],
         "explanation": "Speed = distance covered / time taken = slope of the distance-time graph."
       },
@@ -55,8 +55,8 @@
         "options": [
           "முடுக்கம்",
           "இடப்பெயர்ச்சி",
-          "விசை",
-          "வேகம்"
+          "வேகம்",
+          "விசை"
         ],
         "explanation": "வேகம் = கடந்த தொலைவு / காலம் = வரைபடத்தின் சாய்வு."
       }
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 24,
       "quote": "2. Acceleration can get negative value also.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which statement about acceleration is correct?",
         "options": [
           "Acceleration is always positive",
-          "Acceleration is zero whenever velocity is zero",
           "Acceleration can have a negative value",
+          "Acceleration is zero whenever velocity is zero",
           "Acceleration is a scalar quantity"
         ],
         "explanation": "If v < u the acceleration is negative (retardation). Acceleration is a vector quantity."
@@ -83,8 +83,8 @@
         "q": "முடுக்கம் குறித்துச் சரியான கூற்று எது?",
         "options": [
           "முடுக்கம் எப்போதும் நேர்மறையே",
-          "திசைவேகம் சுழியாக இருந்தால் முடுக்கமும் சுழியாகும்",
           "முடுக்கம் எதிர்மறை மதிப்பும் பெறும்",
+          "திசைவேகம் சுழியாக இருந்தால் முடுக்கமும் சுழியாகும்",
           "முடுக்கம் ஒரு ஸ்கேலர் அளவு"
         ],
         "explanation": "v < u எனில் முடுக்கம் எதிர்மறை; முடுக்கம் வெக்டர் அளவு."
@@ -97,12 +97,12 @@
       "bloom": "understand",
       "page": 24,
       "quote": "3. Distance covered by a particle never becomes zero but displacement becomes zero.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "A body can have zero displacement even though the distance travelled by it is not zero. This happens when the body",
         "options": [
-          "moves along a straight line without turning",
           "returns to its starting point",
+          "moves along a straight line without turning",
           "is at rest",
           "moves with uniform velocity"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "ஒரு பொருள் கடந்த தொலைவு சுழி அல்ல; ஆனால் இடப்பெயர்ச்சி சுழி. இது எப்போது நிகழும்?",
         "options": [
-          "திரும்பாமல் நேர்கோட்டில் செல்லும்போது",
           "பொருள் தொடங்கிய புள்ளிக்கே திரும்பும்போது",
+          "திரும்பாமல் நேர்கோட்டில் செல்லும்போது",
           "பொருள் ஓய்வில் இருக்கும்போது",
           "சீரான திசைவேகத்தில் செல்லும்போது"
         ],
@@ -126,24 +126,24 @@
       "bloom": "understand",
       "page": 24,
       "quote": "4. The velocity – time graph of a particle falling freely under gravity would be a straight line parallel to the x axis.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The velocity-time graph of a particle falling freely under gravity is",
         "options": [
-          "a straight line inclined to the time axis",
+          "a circle",
           "a straight line parallel to the time axis",
           "a curve parallel to the time axis",
-          "a circle"
+          "a straight line inclined to the time axis"
         ],
         "explanation": "Velocity v = gt increases uniformly, so the graph is an inclined straight line; the book statement (parallel to x axis) is false."
       },
       "ta": {
         "q": "புவிஈர்ப்பால் தடையின்றி விழும் பொருளின் திசைவேகம் - காலம் வரைபடம்",
         "options": [
-          "காலத்தின் அச்சுக்குச் சாய்வான நேர்கோடு",
+          "வட்டம்",
           "காலத்தின் அச்சுக்கு இணையான நேர்கோடு",
           "காலத்தின் அச்சுக்கு இணையான வளைவு",
-          "வட்டம்"
+          "காலத்தின் அச்சுக்குச் சாய்வான நேர்கோடு"
         ],
         "explanation": "v = gt என்பதால் திசைவேகம் சீராக அதிகரிக்கும்; வரைபடம் சாய்வான நேர்கோடு; நூலின் கூற்று (x-அச்சுக்கு இணை) தவறு."
       }
@@ -155,14 +155,14 @@
       "bloom": "understand",
       "page": 24,
       "quote": "5. If the velocity – time graph of a particle is a straight line inclined to X-axis then its displacement – time graph will be a straight line.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "If the velocity-time graph of a particle is an inclined straight line (uniform acceleration), its displacement-time graph is",
         "options": [
           "a straight line",
-          "a curve (parabola)",
+          "a point",
           "a line parallel to the time axis",
-          "a point"
+          "a curve (parabola)"
         ],
         "explanation": "With uniform acceleration s = ut + 1/2 at^2, so the displacement-time graph is a curve; the book statement is false."
       },
@@ -170,9 +170,9 @@
         "q": "ஒரு பொருளின் திசைவேகம் - காலம் வரைபடம் சாய்வான நேர்கோடு (சீரான முடுக்கம்) எனில், இடப்பெயர்ச்சி - காலம் வரைபடம்",
         "options": [
           "நேர்கோடு",
-          "வளைவு (பரவளையம்)",
+          "ஒரு புள்ளி",
           "காலஅச்சுக்கு இணையான கோடு",
-          "ஒரு புள்ளி"
+          "வளைவு (பரவளையம்)"
         ],
         "explanation": "சீரான முடுக்கத்தில் s = ut + 1/2 at^2; எனவே இடப்பெயர்ச்சி - காலம் வரைபடம் வளைவு; நூலின் கூற்று தவறு."
       }
@@ -271,13 +271,13 @@
       "bloom": "remember",
       "page": 24,
       "quote": "VI. 1. Define velocity.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Velocity is defined as the",
         "options": [
-          "rate of change of distance",
-          "rate of change of velocity",
           "rate of change of displacement",
+          "rate of change of velocity",
+          "rate of change of distance",
           "product of speed and time"
         ],
         "explanation": "Velocity = displacement / time taken; it is a vector with SI unit m s^-1."
@@ -285,9 +285,9 @@
       "ta": {
         "q": "திசைவேகம் என்பது",
         "options": [
-          "தொலைவு மாறுபாட்டு வீதம்",
-          "திசைவேக மாறுபாட்டு வீதம்",
           "இடப்பெயர்ச்சி மாறுபாட்டு வீதம்",
+          "திசைவேக மாறுபாட்டு வீதம்",
+          "தொலைவு மாறுபாட்டு வீதம்",
           "வேகம் x காலம்"
         ],
         "explanation": "திசைவேகம் = இடப்பெயர்ச்சி / காலம்; இது வெக்டர் அளவு; அலகு மீ வி^-1."
@@ -329,14 +329,14 @@
       "bloom": "remember",
       "page": 24,
       "quote": "3. What do you mean by uniform motion?",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "An object is said to be in uniform motion if it covers",
         "options": [
           "unequal distances in equal intervals of time",
           "equal distances in unequal intervals of time",
-          "a circular path",
-          "equal distances in equal intervals of time"
+          "equal distances in equal intervals of time",
+          "a circular path"
         ],
         "explanation": "Uniform motion: equal distances in equal intervals of time, however small the intervals may be."
       },
@@ -345,8 +345,8 @@
         "options": [
           "சம கால இடைவெளிகளில் சமமற்ற தொலைவைக் கடக்கும்போது",
           "சமமற்ற கால இடைவெளிகளில் சம தொலைவைக் கடக்கும்போது",
-          "வட்டப் பாதையில் செல்லும்போது",
-          "சம கால இடைவெளிகளில் சம தொலைவைக் கடக்கும்போது"
+          "சம கால இடைவெளிகளில் சம தொலைவைக் கடக்கும்போது",
+          "வட்டப் பாதையில் செல்லும்போது"
         ],
         "explanation": "எவ்வளவு சிறிய கால இடைவெளியாக இருந்தாலும் சம கால இடைவெளியில் சம தொலைவைக் கடந்தால் அது சீரான இயக்கம்."
       }
@@ -358,14 +358,14 @@
       "bloom": "understand",
       "page": 24,
       "quote": "4. Compare speed and velocity.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Speed differs from velocity in that speed",
         "options": [
           "is the displacement per unit time and has direction",
-          "is the distance covered per unit time and has no direction",
+          "is measured in m s^-2",
           "is a vector and velocity is a scalar",
-          "is measured in m s^-2"
+          "is the distance covered per unit time and has no direction"
         ],
         "explanation": "Speed = distance/time (scalar); velocity = displacement/time (vector). Both have the unit m s^-1."
       },
@@ -373,9 +373,9 @@
         "q": "வேகம், திசைவேகத்திலிருந்து வேறுபடுவது",
         "options": [
           "வேகம் ஓரலகு காலத்தில் ஏற்பட்ட இடப்பெயர்ச்சி; அதற்குத் திசை உண்டு",
-          "வேகம் ஓரலகு காலத்தில் கடந்த தொலைவு; அதற்குத் திசை இல்லை",
+          "வேகம் மீ வி^-2 அலகில் அளக்கப்படுகிறது",
           "வேகம் வெக்டர்; திசைவேகம் ஸ்கேலர்",
-          "வேகம் மீ வி^-2 அலகில் அளக்கப்படுகிறது"
+          "வேகம் ஓரலகு காலத்தில் கடந்த தொலைவு; அதற்குத் திசை இல்லை"
         ],
         "explanation": "வேகம் = தொலைவு/காலம் (ஸ்கேலர்); திசைவேகம் = இடப்பெயர்ச்சி/காலம் (வெக்டர்); இரண்டின் அலகும் மீ வி^-1."
       }
@@ -387,24 +387,24 @@
       "bloom": "understand",
       "page": 24,
       "quote": "5. What do you understand about negative acceleration?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "In a straight-line motion, the acceleration is negative when",
         "options": [
-          "the final velocity is greater than the initial velocity",
+          "the final velocity is less than the initial velocity",
           "the body is at rest",
           "the body moves with uniform velocity",
-          "the final velocity is less than the initial velocity"
+          "the final velocity is greater than the initial velocity"
         ],
         "explanation": "If v < u the velocity decreases with time and the acceleration is negative (retardation)."
       },
       "ta": {
         "q": "நேர்கோட்டு இயக்கத்தில் முடுக்கம் எதிர்மறையாக இருப்பது",
         "options": [
-          "இறுதித் திசைவேகம் தொடக்கத் திசைவேகத்தை விட அதிகமாக இருக்கும்போது",
+          "இறுதித் திசைவேகம் தொடக்கத் திசைவேகத்தை விடக் குறைவாக இருக்கும்போது",
           "பொருள் ஓய்வில் இருக்கும்போது",
           "பொருள் சீரான திசைவேகத்தில் செல்லும்போது",
-          "இறுதித் திசைவேகம் தொடக்கத் திசைவேகத்தை விடக் குறைவாக இருக்கும்போது"
+          "இறுதித் திசைவேகம் தொடக்கத் திசைவேகத்தை விட அதிகமாக இருக்கும்போது"
         ],
         "explanation": "v < u எனில் திசைவேகம் காலத்துடன் குறையும்; முடுக்கம் எதிர்மறை."
       }
@@ -416,24 +416,24 @@
       "bloom": "understand",
       "page": 24,
       "quote": "6. Is the uniform circular motion accelerated? Give reasons for your answer.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Uniform circular motion is an accelerated motion because",
         "options": [
-          "the direction of velocity changes continuously even though speed is constant",
+          "the displacement is always zero",
           "the speed keeps changing",
           "no force acts on the body",
-          "the displacement is always zero"
+          "the direction of velocity changes continuously even though speed is constant"
         ],
         "explanation": "Acceleration arises from a change in magnitude or direction of velocity; in circular motion the direction changes at every point."
       },
       "ta": {
         "q": "சீரான வட்ட இயக்கம் முடுக்கப்பட்ட இயக்கம் ஆவதற்குக் காரணம்",
         "options": [
-          "வேகம் மாறாவிட்டாலும் திசைவேகத்தின் திசை தொடர்ந்து மாறுவதால்",
+          "இடப்பெயர்ச்சி எப்போதும் சுழி என்பதால்",
           "வேகம் தொடர்ந்து மாறுவதால்",
           "பொருளின் மீது எந்த விசையும் செயல்படாததால்",
-          "இடப்பெயர்ச்சி எப்போதும் சுழி என்பதால்"
+          "வேகம் மாறாவிட்டாலும் திசைவேகத்தின் திசை தொடர்ந்து மாறுவதால்"
         ],
         "explanation": "திசைவேகத்தின் அளவு அல்லது திசை மாறினால் முடுக்கம் உண்டு; வட்டப்பாதையில் திசை ஒவ்வொரு புள்ளியிலும் மாறுகிறது."
       }
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 24,
       "quote": "7. What is meant by uniform circular motion? Give two examples of uniform circular motion.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which of the following is an example of uniform circular motion?",
         "options": [
           "A ball thrown vertically upwards",
-          "A car stopping after the brakes are applied",
           "Revolution of the Moon around the Earth",
+          "A car stopping after the brakes are applied",
           "A stone falling freely"
         ],
         "explanation": "Uniform circular motion is motion along a circular path with constant speed, e.g. the Earth around the Sun, the Moon around the Earth, the tip of a clock's second hand."
@@ -460,8 +460,8 @@
         "q": "பின்வருவனவற்றுள் சீரான வட்ட இயக்கத்திற்கு எடுத்துக்காட்டு எது?",
         "options": [
           "செங்குத்தாக மேல்நோக்கி எறியப்பட்ட பந்து",
-          "நிறுத்தக் கருவியால் நிற்கும் மகிழுந்து",
           "நிலவு பூமியைச் சுற்றி வருதல்",
+          "நிறுத்தக் கருவியால் நிற்கும் மகிழுந்து",
           "தடையின்றி விழும் கல்"
         ],
         "explanation": "வட்டப்பாதையில் மாறாத வேகத்தில் செல்வது சீரான வட்ட இயக்கம்; எ.கா: பூமி சூரியனைச் சுற்றுதல், நிலவு பூமியைச் சுற்றுதல், கடிகார வினாடி முள்."
@@ -474,12 +474,12 @@
       "bloom": "remember",
       "page": 24,
       "quote": "VII. 2. Explain different types of motion.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Repetitive to-and-fro motion of an object at regular intervals of time is called",
         "options": [
-          "oscillatory motion",
           "linear motion",
+          "oscillatory motion",
           "circular motion",
           "random motion"
         ],
@@ -488,8 +488,8 @@
       "ta": {
         "q": "ஒரு பொருள் குறிப்பிட்ட கால இடைவெளியில் திரும்பத் திரும்ப முன்னும் பின்னும் இயங்குவது",
         "options": [
-          "அலைவு இயக்கம்",
           "நேர்கோட்டு இயக்கம்",
+          "அலைவு இயக்கம்",
           "வட்ட இயக்கம்",
           "சீரற்ற (random) இயக்கம்"
         ],
@@ -503,13 +503,13 @@
       "bloom": "apply",
       "page": 25,
       "quote": "VIII. 1. A ball is gently dropped from a height of 20 m. If its velocity increases uniformly at the rate of 10 ms^-2, with what velocity will it strike the ground? After what time will it strike the ground?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "A ball is dropped from a height of 20 m with a uniform acceleration of 10 m s^-2. It strikes the ground with a velocity and after a time of",
         "options": [
           "10 m s^-1 and 2 s",
-          "20 m s^-1 and 4 s",
           "20 m s^-1 and 2 s",
+          "20 m s^-1 and 4 s",
           "40 m s^-1 and 2 s"
         ],
         "explanation": "v^2 = 2gh = 2 x 10 x 20 = 400, so v = 20 m s^-1; t = v/g = 2 s."
@@ -518,8 +518,8 @@
         "q": "20 மீ உயரத்திலிருந்து விடப்பட்ட பந்தின் சீரான முடுக்கம் 10 மீ வி^-2 எனில், அது தரையைத் தொடும் திசைவேகமும் ஆகும் காலமும்",
         "options": [
           "10 மீ வி^-1, 2 வி",
-          "20 மீ வி^-1, 4 வி",
           "20 மீ வி^-1, 2 வி",
+          "20 மீ வி^-1, 4 வி",
           "40 மீ வி^-1, 2 வி"
         ],
         "explanation": "v^2 = 2gh = 2 x 10 x 20 = 400; v = 20 மீ வி^-1; t = v/g = 2 வி."
@@ -532,13 +532,13 @@
       "bloom": "apply",
       "page": 25,
       "quote": "2. An athlete completes one round of a circular track of diameter 200 m in 40 s. What will be the distance covered and the displacement at the end of 2 m and 20 s?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "An athlete completes one round of a circular track of diameter 200 m in 40 s. After 2 min 20 s the distance covered and displacement are (taking pi = 22/7)",
         "options": [
           "2200 m and 0 m",
-          "2200 m and 200 m",
           "628 m and 200 m",
+          "2200 m and 200 m",
           "1100 m and 100 m"
         ],
         "explanation": "140 s = 3.5 rounds; distance = 3.5 x pi x 200 = 2200 m. After half a round the athlete is diametrically opposite the start, so displacement = diameter = 200 m."
@@ -547,8 +547,8 @@
         "q": "200 மீ விட்டமுள்ள வட்டப்பாதையை ஒரு வீரர் 40 வினாடியில் ஒரு சுற்று சுற்றுகிறார். 2 நிமிடம் 20 வினாடிக்குப் பிறகு (pi = 22/7) அவர் கடந்த தொலைவும் இடப்பெயர்ச்சியும்",
         "options": [
           "2200 மீ, 0 மீ",
-          "2200 மீ, 200 மீ",
           "628 மீ, 200 மீ",
+          "2200 மீ, 200 மீ",
           "1100 மீ, 100 மீ"
         ],
         "explanation": "140 வி = 3.5 சுற்றுகள்; தொலைவு = 3.5 x pi x 200 = 2200 மீ. அரைச்சுற்றுக்குப் பின் தொடக்கத்திற்கு நேர் எதிர்ப்புள்ளியில் இருப்பதால் இடப்பெயர்ச்சி = விட்டம் = 200 மீ."

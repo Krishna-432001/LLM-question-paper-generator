@@ -68,24 +68,24 @@
       "bloom": "remember",
       "page": 231,
       "quote": "3. The value of money is a) Internal value of money b) External value of money c) Both a & b d) None of these",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The value of money is of ______.",
         "options": [
-          "two types: internal value and external value",
+          "no types",
           "only one type: internal value",
           "three types",
-          "no types"
+          "two types: internal value and external value"
         ],
         "explanation": "Internal value is purchasing power over domestic goods and services; external value is over foreign goods and services."
       },
       "ta": {
         "q": "பணத்தின் மதிப்பு ______.",
         "options": [
-          "அகமதிப்பு, புறமதிப்பு என இரண்டு வகைப்படும்",
+          "வகைகள் இல்லை",
           "அகமதிப்பு எனும் ஒரே வகை",
           "மூன்று வகை",
-          "வகைகள் இல்லை"
+          "அகமதிப்பு, புறமதிப்பு என இரண்டு வகைப்படும்"
         ],
         "explanation": "அகமதிப்பு உள்நாட்டுப் பொருள்கள், சேவைகள் மீதான வாங்கும் சக்தி; புறமதிப்பு வெளிநாட்டுப் பொருள்கள், சேவைகள் மீதானது."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 234,
       "quote": "6. Among the following who are responsible for Black Money? a) Tax evaders b) Hoarders c) Smugglers d) All of the above",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Who are responsible for the accumulation of black money?",
         "options": [
-          "Tax evaders only",
-          "Smugglers only",
           "Tax evaders, hoarders and smugglers (all of these)",
+          "Smugglers only",
+          "Tax evaders only",
           "Bank officers only"
         ],
         "explanation": "Black money is also accumulated by criminals and other anti-social elements."
@@ -169,9 +169,9 @@
       "ta": {
         "q": "கருப்புப் பணம் சேர்வதற்குப் பொறுப்பானவர்கள் யார்?",
         "options": [
-          "வரி ஏய்ப்போர் மட்டும்",
-          "கடத்தல்காரர்கள் மட்டும்",
           "வரி ஏய்ப்போர், பதுக்கல்காரர்கள், கடத்தல்காரர்கள் (அனைவரும்)",
+          "கடத்தல்காரர்கள் மட்டும்",
+          "வரி ஏய்ப்போர் மட்டும்",
           "வங்கி அலுவலர்கள் மட்டும்"
         ],
         "explanation": "குற்றவாளிகள், சமூகவிரோதிகளும் கருப்புப் பணம் சேர்க்கின்றனர்."
@@ -184,24 +184,24 @@
       "bloom": "remember",
       "page": 231,
       "quote": "Fill in the blanks 1. Online Banking is also known as ______.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Online Banking is also known as ______.",
         "options": [
-          "Plastic money",
+          "Internet banking (net banking)",
           "Barter banking",
           "Cheque banking",
-          "Internet banking (net banking)"
+          "Plastic money"
         ],
         "explanation": "It enables bank customers to conduct financial transactions through a website."
       },
       "ta": {
         "q": "இணையவழி வங்கிச் சேவை (Online Banking) ______ எனவும் அழைக்கப்படுகிறது.",
         "options": [
-          "நெகிழிப் பணம்",
+          "இணைய வங்கிச் சேவை (நெட் பேங்கிங்)",
           "பண்டமாற்று வங்கி",
           "காசோலை வங்கி",
-          "இணைய வங்கிச் சேவை (நெட் பேங்கிங்)"
+          "நெகிழிப் பணம்"
         ],
         "explanation": "வங்கி வாடிக்கையாளர்கள் இணையதளம் மூலம் நிதிப் பரிவர்த்தனை செய்ய இது உதவுகிறது."
       }
@@ -213,14 +213,14 @@
       "bloom": "remember",
       "page": 231,
       "quote": "2. ______ is what money does.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "According to Sir John Hicks, 'Money is ______'.",
         "options": [
           "what the state prints",
-          "what money does",
+          "what is barter",
           "what banks keep",
-          "what is barter"
+          "what money does"
         ],
         "explanation": "Money is defined by its functions: anything which is used as money is money."
       },
@@ -228,9 +228,9 @@
         "q": "சர் ஜான் ஹிக்ஸின்படி 'பணம் என்பது ______'.",
         "options": [
           "அரசு அச்சிடுவதே",
-          "பணம் செய்வதே (பணம் செய்யும் பணிகளால் வரையறுக்கப்படுவது)",
+          "பண்டமாற்றே",
           "வங்கிகள் வைத்திருப்பதே",
-          "பண்டமாற்றே"
+          "பணம் செய்வதே (பணம் செய்யும் பணிகளால் வரையறுக்கப்படுவது)"
         ],
         "explanation": "பணத்தின் பணிகளால் அது வரையறுக்கப்படுகிறது."
       }
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 231,
       "quote": "3. Electronic banking is also known as ______.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which nationwide system is used in India to transfer funds electronically from one bank account to another, instead of by cheque or cash?",
         "options": [
           "Barter exchange",
-          "National Electronic Funds Transfer (NEFT)",
           "Treasury transfer",
+          "National Electronic Funds Transfer (NEFT)",
           "Credit money"
         ],
         "explanation": "NEFT (National Electronic Funds Transfer) is one of the e-banking services."
@@ -257,8 +257,8 @@
         "q": "காசோலை அல்லது பணத்திற்குப் பதிலாக ஒரு வங்கிக் கணக்கிலிருந்து மற்றொன்றுக்கு மின்னணு வழியில் நிதியை அனுப்ப இந்தியாவில் பயன்படும் நாடுதழுவிய முறை எது?",
         "options": [
           "பண்டமாற்று முறை",
-          "தேசிய மின்னணு நிதிப் பரிமாற்றம் (NEFT)",
           "கருவூலப் பரிமாற்றம்",
+          "தேசிய மின்னணு நிதிப் பரிமாற்றம் (NEFT)",
           "கடன் பணம்"
         ],
         "explanation": "NEFT என்பது மின்னணு வங்கிச் சேவைகளுள் ஒன்று."
@@ -329,24 +329,24 @@
       "bloom": "remember",
       "page": 236,
       "quote": "Match the following 1. Barter system - Exchanged goods for goods 2. Reserve Bank act - 1935 3. E-Money - Electronic Money 4. Savings - Consumer's disposable income",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Match List I with List II.\na) Barter system\nb) Reserve Bank Act\nc) E-Money\nd) Savings\n1. 1935\n2. Electronic money\n3. Exchange of goods for goods\n4. Consumer's disposable income not spent",
         "options": [
-          "a-1, b-2, c-3, d-4",
+          "a-3, b-1, c-2, d-4",
           "a-1, b-4, c-2, d-3",
           "a-3, b-4, c-1, d-2",
-          "a-3, b-1, c-2, d-4"
+          "a-1, b-2, c-3, d-4"
         ],
         "explanation": "Barter system – Exchange of goods for goods; Reserve Bank Act – 1935; E-Money – Electronic money; Savings – Consumer's disposable income not spent."
       },
       "ta": {
         "q": "I பட்டியலை II பட்டியலுடன் பொருத்துக.\na) பண்டமாற்று முறை\nb) ரிசர்வ் வங்கிச் சட்டம்\nc) மின்-பணம்\nd) சேமிப்பு\n1. 1935\n2. மின்னணுப் பணம்\n3. பொருளுக்குப் பொருள் பரிமாற்றம்\n4. செலவிடப்படாத நுகர்வோரின் செலவழிக்கக்கூடிய வருமானம்",
         "options": [
-          "a-1, b-2, c-3, d-4",
+          "a-3, b-1, c-2, d-4",
           "a-1, b-4, c-2, d-3",
           "a-3, b-4, c-1, d-2",
-          "a-3, b-1, c-2, d-4"
+          "a-1, b-2, c-3, d-4"
         ],
         "explanation": "பண்டமாற்று முறை – பொருளுக்குப் பொருள் பரிமாற்றம்; ரிசர்வ் வங்கிச் சட்டம் – 1935; மின்-பணம் – மின்னணுப் பணம்; சேமிப்பு – செலவிடப்படாத நுகர்வோரின் செலவழிக்கக்கூடிய வருமானம்."
       }
@@ -445,14 +445,14 @@
       "bloom": "understand",
       "page": 233,
       "quote": "Find out the odd one 1. Recent forms of money transactions are a) Credit card b) Barter system c) Debit card d) Online banking",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Find the odd one out among the recent forms of money transactions.",
         "options": [
           "Credit card",
           "Debit card",
-          "Online banking",
-          "Barter system"
+          "Barter system",
+          "Online banking"
         ],
         "explanation": "Barter is the earliest, primitive stage of exchange."
       },
@@ -461,8 +461,8 @@
         "options": [
           "கடன் அட்டை",
           "பற்று அட்டை",
-          "இணையவழி வங்கிச் சேவை",
-          "பண்டமாற்று முறை"
+          "பண்டமாற்று முறை",
+          "இணையவழி வங்கிச் சேவை"
         ],
         "explanation": "பண்டமாற்று முறை மிகப் பழமையான தொடக்க நிலை."
       }
@@ -474,13 +474,13 @@
       "bloom": "understand",
       "page": 234,
       "quote": "2. Effects of black money on economy is a) Dual economy b) Undermining equity c) No effects on production d) Lavish consumption spending",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which of the following is NOT an effect of black money on the economy?",
         "options": [
           "Dual economy",
-          "No effect on production",
           "Undermining equity",
+          "No effect on production",
           "Lavish consumption spending"
         ],
         "explanation": "Black money affects production and distorts the production pattern."
@@ -489,8 +489,8 @@
         "q": "பின்வருவனவற்றுள் கருப்புப் பணம் பொருளாதாரத்தில் ஏற்படுத்தும் விளைவு அல்லாதது எது?",
         "options": [
           "இணைப் பொருளாதாரம்",
-          "உற்பத்தியில் பாதிப்பு இல்லை",
           "சமத்துவத்தைக் குலைத்தல்",
+          "உற்பத்தியில் பாதிப்பு இல்லை",
           "ஆடம்பரச் செலவு"
         ],
         "explanation": "கருப்புப் பணம் உற்பத்தியைப் பாதித்து உற்பத்தி முறையைச் சிதைக்கிறது."
@@ -503,12 +503,12 @@
       "bloom": "remember",
       "page": 236,
       "quote": "Write short answer: What is the Barter System?",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The barter system is ______.",
         "options": [
-          "exchanging goods for goods without the use of money",
           "exchanging goods for gold coins",
+          "exchanging goods for goods without the use of money",
           "buying goods on credit",
           "paying through cheques"
         ],
@@ -517,8 +517,8 @@
       "ta": {
         "q": "பண்டமாற்று முறை என்பது ______.",
         "options": [
-          "பணமின்றிப் பொருளுக்குப் பொருளைப் பரிமாறிக்கொள்வது",
           "பொருளைத் தங்க நாணயத்திற்கு மாற்றுவது",
+          "பணமின்றிப் பொருளுக்குப் பொருளைப் பரிமாறிக்கொள்வது",
           "கடனுக்குப் பொருள் வாங்குவது",
           "காசோலை மூலம் செலுத்துவது"
         ],
@@ -532,13 +532,13 @@
       "bloom": "remember",
       "page": 231,
       "quote": "What is the Value of Money?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The value of money means the purchasing power of money over goods and services, and its relation with the price level is ______.",
         "options": [
           "direct",
-          "unrelated",
           "inverse",
+          "unrelated",
           "constant"
         ],
         "explanation": "When prices rise (inflation) the value of money falls; when prices fall (deflation) it rises."
@@ -547,8 +547,8 @@
         "q": "பணத்தின் மதிப்பு என்பது பொருள்கள், சேவைகள் மீதான வாங்கும் சக்தி; விலை மட்டத்துடன் அதன் தொடர்பு ______.",
         "options": [
           "நேர்விகிதத் தொடர்புடையது (நேரடியானது)",
-          "தொடர்பற்றது",
           "எதிர்மறைத் தொடர்புடையது",
+          "தொடர்பற்றது",
           "மாறாதது"
         ],
         "explanation": "விலைகள் உயரும்போது (பணவீக்கம்) பணத்தின் மதிப்பு குறையும்; விலை குறையும்போது (பணவாட்டம்) உயரும்."
@@ -590,14 +590,14 @@
       "bloom": "understand",
       "page": 234,
       "quote": "What is Savings and Investment? / difference between savings and investment",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following is correct about savings and investments?",
         "options": [
           "Savings carry very high risk",
           "Investments are highly liquid with no risk",
-          "Savings and investments carry equal risk",
-          "Savings carry low or negligible risk and are highly liquid, while investments carry high risk and are less liquid"
+          "Savings carry low or negligible risk and are highly liquid, while investments carry high risk and are less liquid",
+          "Savings and investments carry equal risk"
         ],
         "explanation": "Investment is made to provide returns and help in capital formation."
       },
@@ -606,8 +606,8 @@
         "options": [
           "சேமிப்பில் இடர் மிக அதிகம்",
           "முதலீடு எளிதில் பணமாகும், இடரற்றது",
-          "சேமிப்பிலும் முதலீட்டிலும் இடர் சமம்",
-          "சேமிப்பில் இடர் குறைவு, எளிதில் பணமாக்கலாம்; முதலீட்டில் இடர் அதிகம், பணமாக்குவது குறைவு"
+          "சேமிப்பில் இடர் குறைவு, எளிதில் பணமாக்கலாம்; முதலீட்டில் இடர் அதிகம், பணமாக்குவது குறைவு",
+          "சேமிப்பிலும் முதலீட்டிலும் இடர் சமம்"
         ],
         "explanation": "வருவாய் ஈட்டவும் மூலதனத் திரட்டலுக்கு உதவவும் முதலீடு செய்யப்படுகிறது."
       }

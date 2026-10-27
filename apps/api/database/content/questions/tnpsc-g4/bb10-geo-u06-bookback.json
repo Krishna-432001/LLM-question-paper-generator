@@ -38,14 +38,14 @@
       "bloom": "remember",
       "page": 216,
       "quote": "I. 8. The district which has the largest forest cover in Tamil Nadu is a) Dharmapuri b) Vellore c) Dindigul d) Erode",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The district with the largest forest cover in Tamil Nadu, as given in the unit, is",
         "options": [
           "Dharmapuri",
-          "Erode",
+          "Dindigul",
           "Vellore",
-          "Dindigul"
+          "Erode"
         ],
         "explanation": "The unit lists Erode (2,295 sq km), Coimbatore, Dindigul, Vellore, the Nilgiris and Dharmapuri."
       },
@@ -53,9 +53,9 @@
         "q": "தமிழ்நாட்டில் அதிக பரப்பளவில் காடுகளைக் கொண்ட மாவட்டம்",
         "options": [
           "தர்மபுரி",
-          "ஈரோடு",
+          "திண்டுக்கல்",
           "வேலூர்",
-          "திண்டுக்கல்"
+          "ஈரோடு"
         ],
         "explanation": "ஈரோடு (2,295 ச.கி.மீ), கோவை, திண்டுக்கல், வேலூர், நீலகிரி, தர்மபுரி வரிசையில் உள்ளன."
       },
@@ -67,24 +67,24 @@
       "bloom": "remember",
       "page": 206,
       "quote": "II. 1. The plateau which lies between the Nilgiris and Dharmapuri districts is __________.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The plateau lying between the Nilgiris and Dharmapuri districts is the",
         "options": [
-          "Bharamahal plateau",
+          "Coimbatore plateau",
           "Madurai plateau",
           "Mysore plateau",
-          "Coimbatore plateau"
+          "Bharamahal plateau"
         ],
         "explanation": "Its height varies from 150 to 450 m; the Moyar river separates it from the Mysore plateau."
       },
       "ta": {
         "q": "நீலகிரி மற்றும் தர்மபுரி மாவட்டங்களுக்கிடையே காணப்படும் பீடபூமி",
         "options": [
-          "பாரமஹால் பீடபூமி",
+          "கோயம்புத்தூர் பீடபூமி",
           "மதுரை பீடபூமி",
           "மைசூர் பீடபூமி",
-          "கோயம்புத்தூர் பீடபூமி"
+          "பாரமஹால் பீடபூமி"
         ],
         "explanation": "இதன் உயரம் 150-450 மீ; மோயாறு இதை மைசூர் பீடபூமியிலிருந்து பிரிக்கிறது."
       },
@@ -125,13 +125,13 @@
       "bloom": "remember",
       "page": 207,
       "quote": "II. 3. The riverine Island of Srirangam is located between __________ and __________ branches of Cauvery.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The riverine island of Srirangam lies between the Cauvery and which other branch?",
         "options": [
-          "Bhavani",
-          "Noyyal",
           "Coleroon (Kollidam)",
+          "Noyyal",
+          "Bhavani",
           "Amaravathi"
         ],
         "explanation": "In Tiruchirappalli the river splits into the Coleroon in the north and the Cauvery in the south; they rejoin after about 16 km."
@@ -139,9 +139,9 @@
       "ta": {
         "q": "ஸ்ரீரங்கம் ஆற்றுத் தீவு காவிரி மற்றும் எந்தக் கிளையாற்றுக்கு இடையே அமைந்துள்ளது?",
         "options": [
-          "பவானி",
-          "நொய்யல்",
           "கொள்ளிடம்",
+          "நொய்யல்",
+          "பவானி",
           "அமராவதி"
         ],
         "explanation": "திருச்சியில் காவிரி வடக்கே கொள்ளிடம், தெற்கே காவிரி எனப் பிரிந்து 16 கி.மீ பின் இணைகிறது."
@@ -299,14 +299,14 @@
       "bloom": "remember",
       "page": 207,
       "quote": "V. 5. Name the tributaries of river Thamirabarani. Karaiyar, Servalar, Manimuthar, Gadananathi, Pachaiyar, Chittar and Ramanathi",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which of the following is a tributary of the Thamirabarani?",
         "options": [
           "Bhavani",
-          "Noyyal",
+          "Chittar",
           "Cheyyar",
-          "Chittar"
+          "Noyyal"
         ],
         "explanation": "Bhavani and Noyyal are tributaries of the Cauvery; Cheyyar of the Palar."
       },
@@ -314,9 +314,9 @@
         "q": "தாமிரபரணியின் துணையாறு எது?",
         "options": [
           "பவானி",
-          "நொய்யல்",
+          "சிற்றாறு",
           "செய்யாறு",
-          "சிற்றாறு"
+          "நொய்யல்"
         ],
         "explanation": "பவானி, நொய்யல் காவிரியின் துணையாறுகள்; செய்யாறு பாலாற்றின் துணையாறு."
       },
@@ -357,14 +357,14 @@
       "bloom": "remember",
       "page": 207,
       "quote": "VI. 1. Distinguish between Thamiraparani and Cauvery. Thamirabarani is the only perennial river in South India. All the rivers of the state are non-perennial except Thamirabarani.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The only perennial river of Tamil Nadu, fed by both the south-west and north-east monsoons, is the",
         "options": [
           "Cauvery",
           "Vaigai",
-          "Palar",
-          "Thamirabarani"
+          "Thamirabarani",
+          "Palar"
         ],
         "explanation": "All other rivers of the state are non-perennial."
       },
@@ -373,8 +373,8 @@
         "options": [
           "காவிரி",
           "வைகை",
-          "பாலாறு",
-          "தாமிரபரணி"
+          "தாமிரபரணி",
+          "பாலாறு"
         ],
         "explanation": "மாநிலத்தின் பிற ஆறுகள் அனைத்தும் பருவகால ஆறுகள்."
       },
@@ -386,13 +386,13 @@
       "bloom": "remember",
       "page": 204,
       "quote": "VII. 1. Give reasons: Eastern Ghats are not a continuous range. Unlike Western Ghats, Eastern Ghats is a discontinuous and irregular one. It is dissected at many places by the rivers, which drain into the Bay of Bengal.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The Eastern Ghats are not a continuous range because they",
         "options": [
-          "are dissected at many places by rivers draining into the Bay of Bengal",
-          "are separated by sea channels",
           "have been levelled by glaciers",
+          "are separated by sea channels",
+          "are dissected at many places by rivers draining into the Bay of Bengal",
           "are made of loose sand"
         ],
         "explanation": "Its height ranges from 1,100 to 1,600 m."
@@ -400,9 +400,9 @@
       "ta": {
         "q": "கிழக்குத் தொடர்ச்சி மலை தொடர்ச்சியின்றிக் காணப்படுவதற்குக் காரணம்",
         "options": [
-          "வங்கக்கடலில் கலக்கும் ஆறுகளால் பல இடங்களில் துண்டிக்கப்பட்டுள்ளது",
-          "கடல் கால்வாய்களால் பிரிக்கப்பட்டுள்ளது",
           "பனியாறுகளால் சமமாக்கப்பட்டுள்ளது",
+          "கடல் கால்வாய்களால் பிரிக்கப்பட்டுள்ளது",
+          "வங்கக்கடலில் கலக்கும் ஆறுகளால் பல இடங்களில் துண்டிக்கப்பட்டுள்ளது",
           "தளர்வான மணலால் ஆனது"
         ],
         "explanation": "இதன் உயரம் 1,100-1,600 மீ."
@@ -415,14 +415,14 @@
       "bloom": "remember",
       "page": 209,
       "quote": "VII. 2. Give reasons: Tamil Nadu receives low rainfall during southwest monsoon.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The Coimbatore plateau receives an average of how much rainfall during the south-west monsoon?",
         "options": [
           "About 200 cm",
           "About 300 cm",
-          "About 50 cm",
-          "About 10 cm"
+          "About 10 cm",
+          "About 50 cm"
         ],
         "explanation": "Rainfall in this season decreases from west to east and is scanty in the eastern part of the state."
       },
@@ -431,8 +431,8 @@
         "options": [
           "சுமார் 200 செ.மீ",
           "சுமார் 300 செ.மீ",
-          "சுமார் 50 செ.மீ",
-          "சுமார் 10 செ.மீ"
+          "சுமார் 10 செ.மீ",
+          "சுமார் 50 செ.மீ"
         ],
         "explanation": "இக்காலத்தில் மழை மேற்கிலிருந்து கிழக்காகக் குறையும்."
       },
@@ -473,14 +473,14 @@
       "bloom": "remember",
       "page": 213,
       "quote": "VIII. 4. What are the Risk reduction measures taken before and after cyclone? Before: Ignore rumours, stay calm; keep mobile phones charged; ... Fishermen should keep a radio set...",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following is a recommended risk reduction measure before a cyclone?",
         "options": [
           "Go out to watch the cyclone",
           "Untie boats and leave them in the sea",
-          "Keep valuables in open places",
-          "Fishermen should keep a radio set with extra batteries and not venture out into the sea"
+          "Fishermen should keep a radio set with extra batteries and not venture out into the sea",
+          "Keep valuables in open places"
         ],
         "explanation": "Documents and valuables should be kept in waterproof containers and cattle untied for their safety."
       },
@@ -489,8 +489,8 @@
         "options": [
           "புயலைக் காணச் செல்லுதல்",
           "படகுகளைக் கடலில் அவிழ்த்து விடுதல்",
-          "மதிப்புள்ள பொருள்களைத் திறந்த இடத்தில் வைத்தல்",
-          "மீனவர்கள் கூடுதல் மின்கலங்களுடன் வானொலியை வைத்திருந்து கடலுக்குச் செல்லாமல் இருத்தல்"
+          "மீனவர்கள் கூடுதல் மின்கலங்களுடன் வானொலியை வைத்திருந்து கடலுக்குச் செல்லாமல் இருத்தல்",
+          "மதிப்புள்ள பொருள்களைத் திறந்த இடத்தில் வைத்தல்"
         ],
         "explanation": "ஆவணங்களை நீர்புகாப் பெட்டிகளில் வைத்து, கால்நடைகளை அவிழ்த்து விட வேண்டும்."
       },

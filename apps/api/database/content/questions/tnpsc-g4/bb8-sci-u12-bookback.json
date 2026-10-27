@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 136,
       "quote": "Cathode rays are made up of a) neutral particles b) positively charged particles c) negatively charged particles d) None of the above",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Cathode rays are made up of ______.",
         "options": [
           "neutral particles",
-          "positively charged particles",
           "negatively charged particles",
+          "positively charged particles",
           "protons"
         ],
         "explanation": "Cathode rays are deflected by electric and magnetic fields; they are negatively charged particles, later named electrons."
@@ -54,8 +54,8 @@
         "q": "கேத்தோடு கதிர்கள் ______ ஆல் ஆனவை.",
         "options": [
           "நடுநிலைத் துகள்கள்",
-          "நேர் மின்னூட்டம் பெற்ற துகள்கள்",
           "எதிர் மின்னூட்டம் பெற்ற துகள்கள்",
+          "நேர் மின்னூட்டம் பெற்ற துகள்கள்",
           "புரோட்டான்கள்"
         ],
         "explanation": "கேத்தோடு கதிர்கள் மின், காந்தப் புலங்களால் விலக்கப்படுகின்றன; இவை எலக்ட்ரான்கள் எனப்படும் எதிர் மின்னூட்டத் துகள்கள்."
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 136,
       "quote": "In water, hydrogen and oxygen are combined in the ratio of _______ by mass. a) 1:8 b) 8:1 c) 2:3 d) 1:3",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "In water, hydrogen and oxygen are combined in the ratio ______ by mass.",
         "options": [
           "8 : 1",
-          "1 : 8",
+          "2 : 3",
           "1 : 3",
-          "2 : 3"
+          "1 : 8"
         ],
         "explanation": "Water from any source consists of hydrogen and oxygen in the ratio 1:8 by mass."
       },
@@ -83,9 +83,9 @@
         "q": "நீரில் ஹைட்ரஜனும் ஆக்சிஜனும் நிறை அடிப்படையில் ______ விகிதத்தில் இணைந்துள்ளன.",
         "options": [
           "8 : 1",
-          "1 : 8",
+          "2 : 3",
           "1 : 3",
-          "2 : 3"
+          "1 : 8"
         ],
         "explanation": "எந்த மூலத்து நீரிலும் ஹைட்ரஜன் : ஆக்சிஜன் = 1 : 8 (நிறை)."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 137,
       "quote": "An element is composed of ____________ atoms.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "According to Dalton, an element is composed of ______ atoms.",
         "options": [
           "different",
-          "charged",
           "identical (similar)",
+          "charged",
           "only neutral"
         ],
         "explanation": "Atoms of the same element are identical in size, shape, mass and properties."
@@ -170,8 +170,8 @@
         "q": "டால்டனின்படி ஒரு தனிமம் ______ அணுக்களால் ஆனது.",
         "options": [
           "வெவ்வேறு",
-          "மின்னூட்டம் பெற்ற",
           "ஒத்த",
+          "மின்னூட்டம் பெற்ற",
           "நடுநிலை மட்டும் கொண்ட"
         ],
         "explanation": "ஒரே தனிமத்தின் அணுக்கள் அளவு, வடிவம், நிறை, பண்புகளில் ஒத்திருக்கும்."
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 137,
       "quote": "An atom is made up of ____________, ____________ and ____________.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "An atom is made up of ______.",
         "options": [
-          "protons, ions and cations",
           "protons, electrons and neutrons",
+          "protons, ions and cations",
           "electrons, anions and neutrons",
           "protons, cathodes and anodes"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "ஓர் அணு ______ ஆல் ஆனது.",
         "options": [
-          "புரோட்டான், அயனி, நேர் அயனி",
           "புரோட்டான், எலக்ட்ரான், நியூட்ரான்",
+          "புரோட்டான், அயனி, நேர் அயனி",
           "எலக்ட்ரான், எதிர் அயனி, நியூட்ரான்",
           "புரோட்டான், கேத்தோடு, ஆனோடு"
         ],
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 137,
       "quote": "____________ is a negatively charged particle (Electron/Proton).",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following is a negatively charged particle?",
         "options": [
           "Proton",
           "Neutron",
-          "Hydrogen ion (H⁺)",
-          "Electron"
+          "Electron",
+          "Hydrogen ion (H⁺)"
         ],
         "explanation": "A proton is a hydrogen ion (H⁺); a neutron is neutral."
       },
@@ -258,8 +258,8 @@
         "options": [
           "புரோட்டான்",
           "நியூட்ரான்",
-          "ஹைட்ரஜன் அயனி (H⁺)",
-          "எலக்ட்ரான்"
+          "எலக்ட்ரான்",
+          "ஹைட்ரஜன் அயனி (H⁺)"
         ],
         "explanation": "புரோட்டான் என்பது ஹைட்ரஜன் அயனி (H⁺); நியூட்ரான் நடுநிலை."
       }
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 137,
       "quote": "Match the following: Law of conservation of mass, Law of constant proportion, Anode rays, Neutrons",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Match List I with List II:\na) Law of conservation of mass\nb) Law of constant proportion\nc) Anode rays\nd) Neutrons\n1. James Chadwick\n2. Joseph Proust\n3. Lavoisier\n4. Goldstein",
         "options": [
           "a-4, b-1, c-2, d-3",
-          "a-1, b-2, c-3, d-4",
+          "a-3, b-2, c-4, d-1",
           "a-2, b-1, c-3, d-4",
-          "a-3, b-2, c-4, d-1"
+          "a-1, b-2, c-3, d-4"
         ],
         "explanation": "Law of conservation of mass – Lavoisier; Law of constant proportion – Joseph Proust; Anode rays – Goldstein; Neutrons – James Chadwick."
       },
@@ -315,9 +315,9 @@
         "q": "பட்டியல் I-ஐப் பட்டியல் II-உடன் பொருத்துக:\na) நிறை அழியாமை விதி\nb) மாறா விகித விதி\nc) ஆனோடு கதிர்கள்\nd) நியூட்ரான்கள்\n1. ஜேம்ஸ் சாட்விக்\n2. ஜோசப் புரூஸ்ட்\n3. லவோஸியர்\n4. கோல்ட்ஸ்டீன்",
         "options": [
           "a-4, b-1, c-2, d-3",
-          "a-1, b-2, c-3, d-4",
+          "a-3, b-2, c-4, d-1",
           "a-2, b-1, c-3, d-4",
-          "a-3, b-2, c-4, d-1"
+          "a-1, b-2, c-3, d-4"
         ],
         "explanation": "நிறை அழியாமை விதி – லவோஸியர்; மாறா விகித விதி – ஜோசப் புரூஸ்ட்; ஆனோடு கதிர்கள் – கோல்ட்ஸ்டீன்; நியூட்ரான்கள் – ஜேம்ஸ் சாட்விக்."
       }
@@ -329,14 +329,14 @@
       "bloom": "remember",
       "page": 137,
       "quote": "Cathode rays - Sir William Crookes",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Cathode rays were discovered in 1878 by ______ using a discharge tube.",
         "options": [
           "James Chadwick",
           "Goldstein",
-          "Sir William Crookes",
-          "J.J. Thomson"
+          "J.J. Thomson",
+          "Sir William Crookes"
         ],
         "explanation": "They are known as Crookes' rays; the discharge tube is called the Crookes tube or Cathode Ray Tube (CRT)."
       },
@@ -345,8 +345,8 @@
         "options": [
           "ஜேம்ஸ் சாட்விக்",
           "கோல்ட்ஸ்டீன்",
-          "சர் வில்லியம் குரூக்ஸ்",
-          "ஜே.ஜே. தாம்சன்"
+          "ஜே.ஜே. தாம்சன்",
+          "சர் வில்லியம் குரூக்ஸ்"
         ],
         "explanation": "இவை குரூக்ஸ் கதிர்கள் எனப்படும்; குழாய் குரூக்ஸ் குழாய் அல்லது கேத்தோடு கதிர் குழாய் (CRT)."
       }
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 137,
       "quote": "State the law of conservation of mass.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The law of conservation of mass states that during a chemical change, ______.",
         "options": [
           "the mass of the products is always greater than that of the reactants",
-          "the total mass of the products is equal to the total mass of the reactants",
+          "the elements are always in the ratio 1:8",
           "the mass of the reactants is always greater than that of the products",
-          "the elements are always in the ratio 1:8"
+          "the total mass of the products is equal to the total mass of the reactants"
         ],
         "explanation": "It was stated by the French chemist Lavoisier in 1774; mass can neither be created nor destroyed."
       },
@@ -373,9 +373,9 @@
         "q": "நிறை அழியாமை விதிப்படி ஒரு வேதி மாற்றத்தில் ______.",
         "options": [
           "விளைபொருள்களின் நிறை எப்போதும் அதிகம்",
-          "விளைபொருள்களின் மொத்த நிறை வினைபடு பொருள்களின் மொத்த நிறைக்குச் சமம்",
+          "தனிமங்கள் எப்போதும் 1:8 விகிதத்தில் இருக்கும்",
           "வினைபடு பொருள்களின் நிறை எப்போதும் அதிகம்",
-          "தனிமங்கள் எப்போதும் 1:8 விகிதத்தில் இருக்கும்"
+          "விளைபொருள்களின் மொத்த நிறை வினைபடு பொருள்களின் மொத்த நிறைக்குச் சமம்"
         ],
         "explanation": "பிரெஞ்சு வேதியியலாளர் லவோஸியர் 1774-இல் கூறினார்; நிறையை ஆக்கவோ அழிக்கவோ முடியாது."
       }
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 137,
       "quote": "Write the properties of anode rays.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which of the following is a property of anode rays?",
         "options": [
-          "They are made of electrons",
-          "They are independent of the gas in the tube",
           "They are deflected towards the negatively charged plate",
+          "They are independent of the gas in the tube",
+          "They are made of electrons",
           "They cannot be deflected by electric or magnetic fields"
         ],
         "explanation": "Anode rays travel in straight lines, are made of material particles and their properties depend on the gas taken in the tube."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "ஆனோடு கதிர்களின் பண்பு எது?",
         "options": [
-          "எலக்ட்ரான்களால் ஆனவை",
-          "குழாயிலுள்ள வாயுவைச் சார்ந்தவை அல்ல",
           "எதிர் மின்னூட்டத் தகட்டை நோக்கி விலகும்",
+          "குழாயிலுள்ள வாயுவைச் சார்ந்தவை அல்ல",
+          "எலக்ட்ரான்களால் ஆனவை",
           "மின், காந்தப் புலங்களால் விலகாதவை"
         ],
         "explanation": "ஆனோடு கதிர்கள் நேர்கோட்டில் செல்லும்; பொருள் துகள்களால் ஆனவை; பண்புகள் குழாயிலுள்ள வாயுவைச் சார்ந்தவை."
@@ -445,14 +445,14 @@
       "bloom": "remember",
       "page": 137,
       "quote": "Define valency of an element with respect to hydrogen.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The valency of an element with respect to hydrogen is the number of ______ which combine with one atom of the element.",
         "options": [
           "oxygen atoms",
           "electrons in its nucleus",
-          "hydrogen atoms",
-          "neutrons"
+          "neutrons",
+          "hydrogen atoms"
         ],
         "explanation": "In water, two hydrogen atoms combine with one oxygen atom, so the valency of oxygen is two."
       },
@@ -461,8 +461,8 @@
         "options": [
           "ஆக்சிஜன் அணுக்களின்",
           "உட்கருவிலுள்ள எலக்ட்ரான்களின்",
-          "ஹைட்ரஜன் அணுக்களின்",
-          "நியூட்ரான்களின்"
+          "நியூட்ரான்களின்",
+          "ஹைட்ரஜன் அணுக்களின்"
         ],
         "explanation": "நீரில் இரு ஹைட்ரஜன் அணுக்கள் ஓர் ஆக்சிஜன் அணுவுடன் சேர்வதால் ஆக்சிஜனின் இணைதிறன் 2."
       }
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 137,
       "quote": "What is a chemical equation?",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "A chemical equation is ______.",
         "options": [
-          "a short hand representation of a chemical reaction using symbols and formulae",
-          "a list of all elements in a compound",
           "a picture of an atom",
+          "a list of all elements in a compound",
+          "a short hand representation of a chemical reaction using symbols and formulae",
           "the law of constant proportions"
         ],
         "explanation": "Every chemical equation has two components: reactants and products."
@@ -517,9 +517,9 @@
       "ta": {
         "q": "வேதிச் சமன்பாடு என்பது ______.",
         "options": [
-          "குறியீடுகள், வாய்பாடுகளைக் கொண்டு வேதிவினையைச் சுருக்கமாகக் குறிப்பது",
-          "ஒரு சேர்மத்திலுள்ள அனைத்துத் தனிமங்களின் பட்டியல்",
           "அணுவின் படம்",
+          "ஒரு சேர்மத்திலுள்ள அனைத்துத் தனிமங்களின் பட்டியல்",
+          "குறியீடுகள், வாய்பாடுகளைக் கொண்டு வேதிவினையைச் சுருக்கமாகக் குறிப்பது",
           "மாறா விகித விதி"
         ],
         "explanation": "ஒவ்வொரு வேதிச் சமன்பாட்டிலும் வினைபடு பொருள்கள், விளைபொருள்கள் என இரு கூறுகள் உள்ளன."
@@ -532,14 +532,14 @@
       "bloom": "remember",
       "page": 137,
       "quote": "Write the names of the following compounds. a) CO b) N2O c) NO2 d) PCl5",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The name of the compound PCl₅ is ______.",
         "options": [
           "phosphorus chloride",
           "potassium chloride",
-          "phosphorus pentachloride",
-          "phosphorus dichloride"
+          "phosphorus dichloride",
+          "phosphorus pentachloride"
         ],
         "explanation": "For compounds of two non-metals, the prefix mono, di, tri, tetra, penta, etc. is used (e.g. N₂O₅ - dinitrogen pentoxide)."
       },
@@ -548,8 +548,8 @@
         "options": [
           "பாஸ்பரஸ் குளோரைடு",
           "பொட்டாசியம் குளோரைடு",
-          "பாஸ்பரஸ் பென்டாகுளோரைடு",
-          "பாஸ்பரஸ் டைகுளோரைடு"
+          "பாஸ்பரஸ் டைகுளோரைடு",
+          "பாஸ்பரஸ் பென்டாகுளோரைடு"
         ],
         "explanation": "இரு அலோகங்கள் சேர்ந்த சேர்மங்களில் மோனோ, டை, டிரை, டெட்ரா, பென்டா என்ற முன்னொட்டுகள் பயன்படும்."
       }
@@ -561,13 +561,13 @@
       "bloom": "apply",
       "page": 137,
       "quote": "Find the valency of the element which is underlined in the following formula. a) NaCl b) CO2 c) Al(PO4) d) Ba(NO3)2 e) CaCl2",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The valency of carbon in CO₂ and of barium in Ba(NO₃)₂ are respectively ______.",
         "options": [
           "2 and 4",
-          "4 and 2",
           "2 and 1",
+          "4 and 2",
           "4 and 1"
         ],
         "explanation": "Each O has valency 2, so C = 4; the nitrate ion has valency 1 and there are two of them, so Ba = 2."
@@ -576,8 +576,8 @@
         "q": "CO₂-இல் கார்பனின் இணைதிறனும் Ba(NO₃)₂-இல் பேரியத்தின் இணைதிறனும் முறையே ______.",
         "options": [
           "2, 4",
-          "4, 2",
           "2, 1",
+          "4, 2",
           "4, 1"
         ],
         "explanation": "ஆக்சிஜனின் இணைதிறன் 2 ஆதலால் C = 4; நைட்ரேட் அயனியின் இணைதிறன் 1; இரு நைட்ரேட்டுகள் இருப்பதால் Ba = 2."
@@ -590,12 +590,12 @@
       "bloom": "apply",
       "page": 137,
       "quote": "Write the chemical formula for the following compounds a) Aluminium sulphate b) Silver nitrate c) Magnesium oxide d) Barium chloride",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The chemical formula of aluminium sulphate is ______.",
         "options": [
-          "Al₂(SO₄)₃",
           "AlSO₄",
+          "Al₂(SO₄)₃",
           "Al₃(SO₄)₂",
           "Al(SO₄)₃"
         ],
@@ -604,8 +604,8 @@
       "ta": {
         "q": "அலுமினியம் சல்பேட்டின் வேதி வாய்பாடு ______.",
         "options": [
-          "Al₂(SO₄)₃",
           "AlSO₄",
+          "Al₂(SO₄)₃",
           "Al₃(SO₄)₂",
           "Al(SO₄)₃"
         ],
@@ -619,14 +619,14 @@
       "bloom": "apply",
       "page": 137,
       "quote": "Write the chemical formula: Silver nitrate, Magnesium oxide, Barium chloride",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The formulae of silver nitrate, magnesium oxide and barium chloride are respectively ______.",
         "options": [
           "AgNO₂, MgO₂ and BaCl",
           "AgNO₃, Mg₂O and BaCl₂",
-          "Ag₂NO₃, Mg₂O and Ba₂Cl",
-          "AgNO₃, MgO and BaCl₂"
+          "AgNO₃, MgO and BaCl₂",
+          "Ag₂NO₃, Mg₂O and Ba₂Cl"
         ],
         "explanation": "Ag⁺ with NO₃⁻; Mg²⁺ with O²⁻; Ba²⁺ with two Cl⁻."
       },
@@ -635,8 +635,8 @@
         "options": [
           "AgNO₂, MgO₂, BaCl",
           "AgNO₃, Mg₂O, BaCl₂",
-          "Ag₂NO₃, Mg₂O, Ba₂Cl",
-          "AgNO₃, MgO, BaCl₂"
+          "AgNO₃, MgO, BaCl₂",
+          "Ag₂NO₃, Mg₂O, Ba₂Cl"
         ],
         "explanation": "Ag⁺ உடன் NO₃⁻; Mg²⁺ உடன் O²⁻; Ba²⁺ உடன் இரு Cl⁻."
       }
@@ -677,13 +677,13 @@
       "bloom": "apply",
       "page": 137,
       "quote": "Balance: e) Pb(NO3)2 → PbO + NO2 + O2",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The balanced equation for the thermal decomposition of lead nitrate is ______.",
         "options": [
           "Pb(NO₃)₂ → PbO + NO₂ + O₂",
-          "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂",
           "2Pb(NO₃)₂ → 2PbO + 2NO₂ + O₂",
+          "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂",
           "Pb(NO₃)₂ → PbO + 2NO₂ + O₂"
         ],
         "explanation": "Check: 2 Pb, 4 N, 12 O on each side."
@@ -692,8 +692,8 @@
         "q": "லெட் நைட்ரேட்டின் வெப்பச் சிதைவின் சமன்செய்யப்பட்ட சமன்பாடு ______.",
         "options": [
           "Pb(NO₃)₂ → PbO + NO₂ + O₂",
-          "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂",
           "2Pb(NO₃)₂ → 2PbO + 2NO₂ + O₂",
+          "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂",
           "Pb(NO₃)₂ → PbO + 2NO₂ + O₂"
         ],
         "explanation": "சரிபார்ப்பு: இரு பக்கங்களிலும் 2 Pb, 4 N, 12 O."
@@ -706,13 +706,13 @@
       "bloom": "remember",
       "page": 137,
       "quote": "Why does a light paddle wheel placed in the path of cathode rays begin to rotate, when cathode rays fall on it?",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "A light paddle wheel placed in the path of cathode rays rotates because cathode rays ______.",
         "options": [
-          "are made up of material particles having mass and kinetic energy",
-          "are neutral rays",
           "are massless waves",
+          "are neutral rays",
+          "are made up of material particles having mass and kinetic energy",
           "are made of protons only"
         ],
         "explanation": "Cathode rays consist of material particles with mass and kinetic energy."
@@ -720,9 +720,9 @@
       "ta": {
         "q": "கேத்தோடு கதிர்களின் பாதையில் வைக்கப்பட்ட இலேசான துடுப்புச் சக்கரம் சுழல்வதற்குக் காரணம் அக்கதிர்கள் ______.",
         "options": [
-          "நிறையும் இயக்க ஆற்றலும் கொண்ட பொருள் துகள்களால் ஆனவை",
-          "நடுநிலைக் கதிர்கள்",
           "நிறையற்ற அலைகள்",
+          "நடுநிலைக் கதிர்கள்",
+          "நிறையும் இயக்க ஆற்றலும் கொண்ட பொருள் துகள்களால் ஆனவை",
           "புரோட்டான்களால் மட்டும் ஆனவை"
         ],
         "explanation": "கேத்தோடு கதிர்கள் நிறையும் இயக்க ஆற்றலும் கொண்ட துகள்களால் ஆனவை."

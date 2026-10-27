@@ -10,13 +10,13 @@
       "bloom": "remember",
       "page": 215,
       "quote": "_____________ is tough and thick white sheath that protects the inner parts of the eye. a) Sclera b) Conjunctiva c) Cornea d) Iris",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The tough and thick white sheath that protects the inner parts of the eye is the ______.",
         "options": [
-          "sclera",
-          "conjunctiva",
           "cornea",
+          "conjunctiva",
+          "sclera",
           "iris"
         ],
         "explanation": "The sclera is known as the 'white of the eye'."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "கண்ணின் உட்பகுதிகளைப் பாதுகாக்கும் தடித்த, உறுதியான வெண்ணிற உறை ______.",
         "options": [
-          "விழிவெளிப்படலம் (ஸ்கிளீரா)",
-          "கண்சவ்வு (கன்ஜங்டிவா)",
           "விழி வெண்படலம் (கார்னியா)",
+          "கண்சவ்வு (கன்ஜங்டிவா)",
+          "விழிவெளிப்படலம் (ஸ்கிளீரா)",
           "கருவிழி (ஐரிஸ்)"
         ],
         "explanation": "ஸ்கிளீரா 'கண்ணின் வெள்ளை' எனப்படும்."
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 215,
       "quote": "______________ cells are specialised cells that can be transformed into any kind of cells. a) Nerve b) Stem c) Heart d) Bone",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Specialised cells that can be transformed into any kind of cells are ______ cells.",
         "options": [
-          "nerve",
-          "heart",
           "stem",
+          "heart",
+          "nerve",
           "bone"
         ],
         "explanation": "Stem cells can differentiate into many types of cells."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "எந்த வகைச் செல்லாகவும் மாறக்கூடிய சிறப்புச் செல்கள் ______ செல்கள்.",
         "options": [
-          "நரம்பு",
-          "இதயம்",
           "ஸ்டெம் (தண்டு)",
+          "இதயம்",
+          "நரம்பு",
           "எலும்பு"
         ],
         "explanation": "ஸ்டெம் செல்கள் பல்வேறு வகைச் செல்களாக வேறுபாடடைய முடியும்."
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 216,
       "quote": "The process of air passing in and out the lungs is called ______________. a) inhalation b) exhalation c) breathing d) None of these",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The process of air passing in and out of the lungs is called ______.",
         "options": [
           "inhalation only",
-          "exhalation only",
+          "breathing",
           "diffusion",
-          "breathing"
+          "exhalation only"
         ],
         "explanation": "Inhalation is taking air in; exhalation is expelling air."
       },
@@ -141,9 +141,9 @@
         "q": "நுரையீரலுக்குள் காற்று உள்ளே செல்வதும் வெளியே வருவதுமான செயல் ______ எனப்படும்.",
         "options": [
           "உள்ளிழுத்தல் மட்டும்",
-          "வெளிவிடுதல் மட்டும்",
+          "சுவாசித்தல் (மூச்சுவிடுதல்)",
           "விரவல்",
-          "சுவாசித்தல் (மூச்சுவிடுதல்)"
+          "வெளிவிடுதல் மட்டும்"
         ],
         "explanation": "உள்ளிழுத்தல் காற்றை உள்ளே எடுப்பது; வெளிவிடுதல் காற்றை வெளியேற்றுவது."
       }
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 216,
       "quote": "Osmosis is the movement of water molecules from ______________.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Osmosis is the movement of solvent molecules across a semipermeable membrane from ______.",
         "options": [
           "a concentrated solution into a dilute solution",
-          "a solid into a liquid",
           "a dilute solution into a concentrated solution",
+          "a solid into a liquid",
           "a gas into a liquid only"
         ],
         "explanation": "The solvent moves to dilute the concentrated solution and equalize the concentration on both sides."
@@ -170,8 +170,8 @@
         "q": "சவ்வூடுபரவல் என்பது கரைப்பான் மூலக்கூறுகள் ஒரு பகுதி ஊடுருவு சவ்வு வழியே ______ நகர்வதாகும்.",
         "options": [
           "அடர் கரைசலிலிருந்து நீர்த்த கரைசலுக்கு",
-          "திண்மத்திலிருந்து திரவத்திற்கு",
           "நீர்த்த கரைசலிலிருந்து அடர் கரைசலுக்கு",
+          "திண்மத்திலிருந்து திரவத்திற்கு",
           "வாயுவிலிருந்து திரவத்திற்கு மட்டும்"
         ],
         "explanation": "கரைப்பான் அடர் கரைசலை நீர்க்கச் செய்து இரு பக்கச் செறிவையும் சமமாக்க நகர்கிறது."
@@ -184,13 +184,13 @@
       "bloom": "remember",
       "page": 216,
       "quote": "The erythrocyte is placed in ______________ solution which has lesser concentration of solutes and greater concentration of water than in the cytoplasm.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "An erythrocyte placed in a solution with lesser solute concentration than its cytoplasm is in a ______ solution.",
         "options": [
           "hypertonic",
-          "hypotonic",
           "isotonic",
+          "hypotonic",
           "acidic"
         ],
         "explanation": "In a hypotonic condition water rushes into the cell."
@@ -199,8 +199,8 @@
         "q": "சைட்டோபிளாசத்தைவிடக் குறைந்த கரைபொருள் செறிவு கொண்ட கரைசலில் வைக்கப்பட்ட சிவப்பணு ______ கரைசலில் உள்ளது.",
         "options": [
           "மிகையடர்வு (ஹைப்பர்டானிக்)",
-          "குறைவடர்வு (ஹைப்போடானிக்)",
           "சமவடர்வு (ஐசோடானிக்)",
+          "குறைவடர்வு (ஹைப்போடானிக்)",
           "அமில"
         ],
         "explanation": "ஹைப்போடானிக் நிலையில் நீர் செல்லுக்குள் பாயும்."
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 216,
       "quote": "The largest cell is egg of an ______________.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Among multicellular animals, the largest cell is the egg of an ______.",
         "options": [
           "elephant",
           "eagle",
-          "hen",
-          "ostrich"
+          "ostrich",
+          "hen"
         ],
         "explanation": "The longest cell is the nerve cell (90-100 cm); the smallest bacterium is Mycoplasma."
       },
@@ -258,8 +258,8 @@
         "options": [
           "யானை",
           "கழுகு",
-          "கோழி",
-          "தீக்கோழி"
+          "தீக்கோழி",
+          "கோழி"
         ],
         "explanation": "மிக நீளமான செல் நரம்புச் செல் (90-100 செ.மீ); சிறிய பாக்டீரியா மைக்கோபிளாஸ்மா."
       }
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 216,
       "quote": "______________ is a good example for anaerobic respiration.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "A good example of an organism that respires anaerobically is ______.",
         "options": [
           "human beings",
-          "yeast",
+          "mammals",
           "birds",
-          "mammals"
+          "yeast"
         ],
         "explanation": "Yeast cells convert glucose into carbon dioxide and ethanol without using oxygen."
       },
@@ -286,9 +286,9 @@
         "q": "காற்றிலா சுவாசத்திற்குச் சிறந்த எடுத்துக்காட்டு ______.",
         "options": [
           "மனிதர்",
-          "ஈஸ்ட்",
+          "பாலூட்டிகள்",
           "பறவைகள்",
-          "பாலூட்டிகள்"
+          "ஈஸ்ட்"
         ],
         "explanation": "ஈஸ்ட் செல்கள் ஆக்சிஜன் இல்லாமல் குளுக்கோஸை எத்தனால், கார்பன் டை ஆக்சைடாக மாற்றுகின்றன."
       }
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 216,
       "quote": "______________ nerve is located at the end of the eyes behind the retina.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The nerve located at the end of the eye behind the retina is the ______.",
         "options": [
-          "auditory nerve",
-          "sciatic nerve",
           "optic nerve",
+          "sciatic nerve",
+          "auditory nerve",
           "vagus nerve"
         ],
         "explanation": "It carries nerve impulses from the retina to the brain."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "கண்ணின் பின்புறம் விழித்திரைக்குப் பின்னால் அமைந்த நரம்பு ______.",
         "options": [
-          "கேள்விநரம்பு",
-          "சியாட்டிக் நரம்பு",
           "பார்வை நரம்பு",
+          "சியாட்டிக் நரம்பு",
+          "கேள்விநரம்பு",
           "வேகஸ் நரம்பு"
         ],
         "explanation": "இது விழித்திரையிலிருந்து மூளைக்கு நரம்புத் தூண்டல்களைக் கொண்டு செல்கிறது."
@@ -329,12 +329,12 @@
       "bloom": "remember",
       "page": 216,
       "quote": "The size of the cells are measured in units of ______________",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The size of cells is measured in units of ______.",
         "options": [
-          "micron (micrometre, µm)",
           "millimetre",
+          "micron (micrometre, µm)",
           "centimetre",
           "metre"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "செல்களின் அளவு ______ அலகால் அளக்கப்படுகிறது.",
         "options": [
-          "மைக்ரான் (மைக்ரோமீட்டர், µm)",
           "மில்லிமீட்டர்",
+          "மைக்ரான் (மைக்ரோமீட்டர், µm)",
           "சென்டிமீட்டர்",
           "மீட்டர்"
         ],
@@ -387,12 +387,12 @@
       "bloom": "remember",
       "page": 216,
       "quote": "Diffusion is the movement of particles from an area of lower concentration to higher concentration.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Diffusion is the movement of particles from an area of ______.",
         "options": [
-          "higher concentration to lower concentration",
           "lower concentration to higher concentration",
+          "higher concentration to lower concentration",
           "solid to liquid only",
           "cold to hot only"
         ],
@@ -401,8 +401,8 @@
       "ta": {
         "q": "விரவல் என்பது துகள்கள் ______ நகர்வதாகும்.",
         "options": [
-          "அதிகச் செறிவுள்ள பகுதியிலிருந்து குறைந்த செறிவுள்ள பகுதிக்கு",
           "குறைந்த செறிவுள்ள பகுதியிலிருந்து அதிகச் செறிவுள்ள பகுதிக்கு",
+          "அதிகச் செறிவுள்ள பகுதியிலிருந்து குறைந்த செறிவுள்ள பகுதிக்கு",
           "திண்மத்திலிருந்து திரவத்திற்கு மட்டும்",
           "குளிரிலிருந்து வெப்பத்திற்கு மட்டும்"
         ],
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 216,
       "quote": "Human beings are warm blooded in nature.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Human beings are ______ in nature, maintaining a constant body temperature.",
         "options": [
-          "cold blooded",
-          "osmoconformers",
           "warm blooded",
+          "osmoconformers",
+          "cold blooded",
           "anaerobic"
         ],
         "explanation": "The statement is true. When the body temperature rises, sweat is produced; when it lowers, heat is produced by shivering."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "மனிதர்கள் இயல்பால் ______; நிலையான உடல் வெப்பநிலையைப் பராமரிக்கிறார்கள்.",
         "options": [
-          "குளிர் இரத்தப் பிராணிகள்",
-          "ஆஸ்மோ கன்ஃபார்மர்கள்",
           "வெப்ப இரத்தப் பிராணிகள்",
+          "ஆஸ்மோ கன்ஃபார்மர்கள்",
+          "குளிர் இரத்தப் பிராணிகள்",
           "காற்றிலா உயிரிகள்"
         ],
         "explanation": "கூற்று சரி; உடல் வெப்பநிலை உயர்ந்தால் வியர்வை உண்டாகிறது; குறைந்தால் நடுக்கத்தால் வெப்பம் உண்டாகிறது."
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 216,
       "quote": "The larynx has fold of tissue which vibrate with the passage of air to produce sound.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The small air passage between the pharynx and the trachea that produces sound is the ______.",
         "options": [
-          "larynx (voice box)",
-          "bronchus",
           "alveolus",
+          "bronchus",
+          "larynx (voice box)",
           "epiglottis"
         ],
         "explanation": "The statement is true: the folds of tissue in the larynx vibrate with the passage of air to produce sound."
@@ -459,9 +459,9 @@
       "ta": {
         "q": "தொண்டைக்கும் மூச்சுக்குழலுக்கும் இடையேயுள்ள, ஒலியை உண்டாக்கும் சிறிய காற்றுப்பாதை ______.",
         "options": [
-          "குரல்வளை (குரல் பெட்டி)",
-          "மூச்சுக்கிளைக்குழல்",
           "காற்றுப்பை",
+          "மூச்சுக்கிளைக்குழல்",
+          "குரல்வளை (குரல் பெட்டி)",
           "குரல்வளை மூடி"
         ],
         "explanation": "கூற்று சரி; குரல்வளையிலுள்ள திசுமடிப்புகள் காற்று செல்லும்போது அதிர்ந்து ஒலியை உண்டாக்குகின்றன."
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 216,
       "quote": "State different types of tissues.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "The four basic types of animal tissues are ______.",
         "options": [
           "simple, complex, hard and soft tissues",
-          "skin, bone, blood and fat only",
+          "epithelial, muscular, connective and nervous tissues",
           "root, stem, leaf and flower tissues",
-          "epithelial, muscular, connective and nervous tissues"
+          "skin, bone, blood and fat only"
         ],
         "explanation": "Epithelial tissue protects; muscular tissue moves; connective tissue binds; nervous tissue conducts impulses."
       },
@@ -489,9 +489,9 @@
         "q": "விலங்குத் திசுக்களின் நான்கு அடிப்படை வகைகள் ______.",
         "options": [
           "எளிய, சிக்கலான, கடின, மென் திசுக்கள்",
-          "தோல், எலும்பு, இரத்தம், கொழுப்பு மட்டும்",
+          "எபிதீலியத் திசு, தசைத் திசு, இணைப்புத் திசு, நரம்புத் திசு",
           "வேர், தண்டு, இலை, மலர்த் திசுக்கள்",
-          "எபிதீலியத் திசு, தசைத் திசு, இணைப்புத் திசு, நரம்புத் திசு"
+          "தோல், எலும்பு, இரத்தம், கொழுப்பு மட்டும்"
         ],
         "explanation": "எபிதீலியத் திசு பாதுகாக்கும்; தசைத் திசு இயக்கத்தைத் தரும்; இணைப்புத் திசு பிணைக்கும்; நரம்புத் திசு தூண்டல்களைக் கடத்தும்."
       }
@@ -503,12 +503,12 @@
       "bloom": "remember",
       "page": 216,
       "quote": "Mention the function of 'Alveoli'.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Alveoli are tiny air sacs of the lungs meant for ______.",
         "options": [
-          "the exchange of oxygen and carbon dioxide",
           "producing sound",
+          "the exchange of oxygen and carbon dioxide",
           "filtering dust",
           "pumping blood"
         ],
@@ -517,8 +517,8 @@
       "ta": {
         "q": "நுரையீரலிலுள்ள நுண் காற்றுப்பைகளான நுண்ணறைகள் (அல்வியோலை) ______ உதவுகின்றன.",
         "options": [
-          "ஆக்சிஜன், கார்பன் டை ஆக்சைடு பரிமாற்றத்திற்கு",
           "ஒலி உண்டாக்க",
+          "ஆக்சிஜன், கார்பன் டை ஆக்சைடு பரிமாற்றத்திற்கு",
           "தூசியை வடிகட்ட",
           "இரத்தத்தைச் செலுத்த"
         ],
@@ -532,12 +532,12 @@
       "bloom": "remember",
       "page": 216,
       "quote": "Name the processes by which air enters and comes out of our lungs.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The processes by which air enters and leaves the lungs are called ______ respectively.",
         "options": [
-          "expiration and inspiration",
           "inspiration (inhalation) and expiration (exhalation)",
+          "expiration and inspiration",
           "osmosis and diffusion",
           "anabolism and catabolism"
         ],
@@ -546,8 +546,8 @@
       "ta": {
         "q": "காற்று நுரையீரலுக்குள் செல்வதும் வெளியேறுவதுமான செயல்கள் முறையே ______ எனப்படும்.",
         "options": [
-          "வெளிவிடுதல், உள்ளிழுத்தல்",
           "உள்ளிழுத்தல் (உட்சுவாசம்), வெளிவிடுதல் (வெளிச்சுவாசம்)",
+          "வெளிவிடுதல், உள்ளிழுத்தல்",
           "சவ்வூடுபரவல், விரவல்",
           "ஆக்கமாற்றம், சிதைமாற்றம்"
         ],
@@ -561,13 +561,13 @@
       "bloom": "remember",
       "page": 216,
       "quote": "Differentiate osmoconformers and osmoregulators.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Osmoconformers are organisms that ______.",
         "options": [
           "maintain an internal osmolality very different from the surroundings",
-          "do not need water",
           "try to maintain the osmolality of their body matching their surroundings",
+          "do not need water",
           "live only on land"
         ],
         "explanation": "Most invertebrates and marine organisms are osmoconformers; osmoregulators maintain internal osmolality through physiological processes."
@@ -576,8 +576,8 @@
         "q": "ஆஸ்மோ கன்ஃபார்மர்கள் என்பவை ______ உயிரிகள்.",
         "options": [
           "சுற்றுப்புறத்திலிருந்து மிகவும் வேறுபட்ட உட்செறிவைப் பராமரிக்கும்",
-          "நீர் தேவைப்படாத",
           "தம் உடலின் சவ்வூடுபரவல் செறிவைச் சுற்றுப்புறத்திற்குப் பொருந்துமாறு பராமரிக்கும்",
+          "நீர் தேவைப்படாத",
           "நிலத்தில் மட்டும் வாழும்"
         ],
         "explanation": "பெரும்பாலான முதுகெலும்பிலிகளும் கடல் உயிரிகளும் ஆஸ்மோ கன்ஃபார்மர்கள்; ஆஸ்மோ ரெகுலேட்டர்கள் உடலியல் செயல்களால் உட்செறிவைப் பராமரிக்கின்றன."
@@ -590,24 +590,24 @@
       "bloom": "remember",
       "page": 216,
       "quote": "Define - Metabolism.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Metabolism is the sum of all ______ by which living organisms sustain their life.",
         "options": [
-          "physical movements",
+          "chemical reactions",
           "cell divisions",
           "tissue types",
-          "chemical reactions"
+          "physical movements"
         ],
         "explanation": "It consists of anabolism (build-up) and catabolism (breakdown)."
       },
       "ta": {
         "q": "வளர்சிதை மாற்றம் என்பது உயிரினங்கள் தம் உயிரைப் பேணப் பயன்படுத்தும் அனைத்து ______ கூட்டுத்தொகை.",
         "options": [
-          "இயற்பியல் இயக்கங்களின்",
+          "வேதிவினைகளின்",
           "செல் பிரிவுகளின்",
           "திசு வகைகளின்",
-          "வேதிவினைகளின்"
+          "இயற்பியல் இயக்கங்களின்"
         ],
         "explanation": "இது ஆக்க மாற்றம் (உருவாக்கல்), சிதை மாற்றம் (சிதைத்தல்) ஆகியவற்றைக் கொண்டது."
       }
@@ -648,13 +648,13 @@
       "bloom": "remember",
       "page": 216,
       "quote": "Tabulate the differences between aerobic and anaerobic respiration.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which statement correctly distinguishes aerobic from anaerobic respiration?",
         "options": [
-          "Aerobic respiration occurs without oxygen",
-          "Anaerobic respiration releases more energy",
           "Aerobic respiration releases much more energy and produces CO₂ and water; anaerobic respiration produces ethanol and CO₂ (yeast) or lactic acid (muscle)",
+          "Anaerobic respiration releases more energy",
+          "Aerobic respiration occurs without oxygen",
           "Anaerobic respiration is common in all higher plants and animals"
         ],
         "explanation": "Aerobic respiration releases 19 times more energy; each glucose molecule produces 36 ATPs."
@@ -662,9 +662,9 @@
       "ta": {
         "q": "காற்று சுவாசத்தையும் காற்றிலா சுவாசத்தையும் சரியாக வேறுபடுத்தும் கூற்று எது?",
         "options": [
-          "காற்று சுவாசம் ஆக்சிஜன் இல்லாமல் நிகழ்கிறது",
-          "காற்றிலா சுவாசம் அதிக ஆற்றலை வெளியிடுகிறது",
           "காற்று சுவாசம் அதிக ஆற்றலை வெளியிட்டு CO₂, நீரைத் தரும்; காற்றிலா சுவாசம் எத்தனால், CO₂ (ஈஸ்ட்) அல்லது லாக்டிக் அமிலம் (தசை) ஆகியவற்றைத் தரும்",
+          "காற்றிலா சுவாசம் அதிக ஆற்றலை வெளியிடுகிறது",
+          "காற்று சுவாசம் ஆக்சிஜன் இல்லாமல் நிகழ்கிறது",
           "காற்றிலா சுவாசம் எல்லா உயர் தாவர, விலங்குகளிலும் உள்ளது"
         ],
         "explanation": "காற்று சுவாசம் 19 மடங்கு அதிக ஆற்றலை வெளியிடும்; ஒரு குளுக்கோஸிலிருந்து 36 ATP கிடைக்கும்."
@@ -677,13 +677,13 @@
       "bloom": "remember",
       "page": 216,
       "quote": "Why the human eye is compared with camera?",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The human eye is compared to a camera because both ______.",
         "options": [
           "use film to store images",
-          "gather, focus and transmit light through a lens to create an image of an object",
           "work without light",
+          "gather, focus and transmit light through a lens to create an image of an object",
           "have a pupil that never changes"
         ],
         "explanation": "In the eye the lens with the cornea refracts light, which converges on the retina to form images."
@@ -692,8 +692,8 @@
         "q": "மனிதக் கண் ஒளிப்படக் கருவிக்கு (கேமரா) ஒப்பிடப்படக் காரணம் இரண்டும் ______.",
         "options": [
           "பிம்பத்தைச் சேமிக்கப் படச்சுருளைப் பயன்படுத்துவது",
-          "லென்ஸ் வழியே ஒளியைச் சேகரித்து, குவித்து, செலுத்திப் பொருளின் பிம்பத்தை உருவாக்குவது",
           "ஒளி இல்லாமல் செயல்படுவது",
+          "லென்ஸ் வழியே ஒளியைச் சேகரித்து, குவித்து, செலுத்திப் பொருளின் பிம்பத்தை உருவாக்குவது",
           "ஒருபோதும் மாறாத கண்மணியைக் கொண்டது"
         ],
         "explanation": "கண்ணில் கார்னியாவும் லென்சும் ஒளியை விலகச் செய்து விழித்திரையில் குவித்துப் பிம்பங்களை உருவாக்குகின்றன."

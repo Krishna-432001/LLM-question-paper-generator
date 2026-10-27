@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 111,
       "quote": "I. 1. Who proposed the heliocentric model of the universe? (a) Tycho Brahe (b) Nicolaus Copernicus (c) Ptolemy (d) Archimedes",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Who proposed the heliocentric model of the universe?",
         "options": [
           "Ptolemy",
           "Tycho Brahe",
-          "Nicolaus Copernicus",
-          "Archimedes"
+          "Archimedes",
+          "Nicolaus Copernicus"
         ],
         "explanation": "The Polish astronomer Nicolaus Copernicus proposed the heliocentric model with the Sun at the centre of the solar system."
       },
@@ -26,8 +26,8 @@
         "options": [
           "தாலமி",
           "டைகோ பிராகே",
-          "நிக்கோலஸ் கோப்பர்நிக்கஸ்",
-          "ஆர்க்கிமிடிஸ்"
+          "ஆர்க்கிமிடிஸ்",
+          "நிக்கோலஸ் கோப்பர்நிக்கஸ்"
         ],
         "explanation": "போலந்து வானியலாளர் கோப்பர்நிக்கஸ் சூரியனை மையமாகக் கொண்ட கொள்கையை முன்மொழிந்தார்."
       }
@@ -39,12 +39,12 @@
       "bloom": "remember",
       "page": 111,
       "quote": "3. Ceres is a _______. (a) Meteor (b) Star (c) Planet (d) Astroid",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Ceres, 946 km across, is the biggest known",
         "options": [
-          "asteroid",
           "meteor",
+          "asteroid",
           "comet",
           "star"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "செரஸ் என்பது ஒரு",
         "options": [
-          "சிறுகோள்",
           "விண்கல்",
+          "சிறுகோள்",
           "வால்விண்மீன்",
           "விண்மீன்"
         ],
@@ -68,14 +68,14 @@
       "bloom": "apply",
       "page": 111,
       "quote": "4. The period of revolution of planet A around the Sun is 8 times that of planet B. How many times is the distance of planet A as great as that of planet B? (a) 4 (b) 5 (c) 2 (d) 3",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The period of revolution of planet A around the Sun is 8 times that of planet B. The distance of A from the Sun is ______ times that of B.",
         "options": [
           "2",
-          "4",
+          "5",
           "3",
-          "5"
+          "4"
         ],
         "explanation": "By Kepler's third law T^2 is proportional to R^3, so R ratio = (8)^(2/3) = 4."
       },
@@ -83,9 +83,9 @@
         "q": "A என்ற கோளின் சுற்றுக்காலம் B-ஐ விட 8 மடங்கு. A-ன் சூரியத் தொலைவு B-ஐ விட ______ மடங்கு.",
         "options": [
           "2",
-          "4",
+          "5",
           "3",
-          "5"
+          "4"
         ],
         "explanation": "கெப்ளரின் மூன்றாம் விதிப்படி T^2 ∝ R^3; எனவே தொலைவு விகிதம் = 8^(2/3) = 4."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 111,
       "quote": "II. 1. The speed of Sun in km/s is _______.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The Sun travels around the centre of the Milky Way at a speed of about",
         "options": [
           "30 km/s",
-          "2.5 km/s",
           "250 km/s",
+          "2.5 km/s",
           "3 x 10^5 km/s"
         ],
         "explanation": "The Sun, travelling at 250 km per second (9 lakh km/h), takes about 225 million years to complete one revolution; this period is a cosmic year."
@@ -112,8 +112,8 @@
         "q": "பால்வெளியில் சூரியன் இயங்கும் வேகம் ஏறத்தாழ",
         "options": [
           "30 கி.மீ/வி",
-          "2.5 கி.மீ/வி",
           "250 கி.மீ/வி",
+          "2.5 கி.மீ/வி",
           "3 x 10^5 கி.மீ/வி"
         ],
         "explanation": "வினாடிக்கு 250 கி.மீ (மணிக்கு 9 இலட்சம் கி.மீ) வேகத்தில் சூரியன் ஒரு சுற்றுக்கு ஏறத்தாழ 225 மில்லியன் ஆண்டுகள் எடுக்கும்; இது ஒரு காஸ்மிக் ஆண்டு."
@@ -126,13 +126,13 @@
       "bloom": "remember",
       "page": 111,
       "quote": "4. The third law of Kepler is also known as the Law of ________.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Kepler's third law of planetary motion is also known as the Law of",
         "options": [
           "Ellipses",
-          "Harmonies",
           "Equal Areas",
+          "Harmonies",
           "Inertia"
         ],
         "explanation": "The square of the time period of a planet is directly proportional to the cube of its distance from the Sun."
@@ -141,8 +141,8 @@
         "q": "கெப்ளரின் மூன்றாம் விதி இவ்வாறும் அழைக்கப்படுகிறது",
         "options": [
           "நீள்வட்ட விதி",
-          "இசைவு விதி (Law of Harmonies)",
           "சம பரப்பு விதி",
+          "இசைவு விதி (Law of Harmonies)",
           "நிலைமை விதி"
         ],
         "explanation": "கோளின் சுற்றுக்காலத்தின் வர்க்கம், சூரியனிலிருந்து அதன் தொலைவின் கனத்திற்கு நேர்தகவு."
@@ -155,13 +155,13 @@
       "bloom": "remember",
       "page": 111,
       "quote": "5. The number of planets in our Solar System is _______.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "The number of planets in our solar system is",
         "options": [
           "9",
-          "7",
           "8",
+          "7",
           "10"
         ],
         "explanation": "Besides the eight planets there are other bodies such as asteroids, comets and meteors."
@@ -170,8 +170,8 @@
         "q": "நம் சூரியக் குடும்பத்தில் உள்ள கோள்களின் எண்ணிக்கை",
         "options": [
           "9",
-          "7",
           "8",
+          "7",
           "10"
         ],
         "explanation": "எட்டுக் கோள்களைத் தவிர சிறுகோள்கள், வால்விண்மீன்கள், விண்கற்கள் ஆகியவையும் உள்ளன."
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 111,
       "quote": "2. Halley's comet appears after nearly 67 hours.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Halley's comet appears after nearly",
         "options": [
           "67 hours",
-          "67 years",
           "76 years",
+          "67 years",
           "760 years"
         ],
         "explanation": "Halley's Comet appears after nearly every 76 years; it was last seen in 1986 and will next be seen in mid-2061 (the book gives 2062). The book statement (67 hours) is false."
@@ -228,8 +228,8 @@
         "q": "ஹேலி வால்விண்மீன் தோன்றுவது ஏறத்தாழ ஒவ்வொரு",
         "options": [
           "67 மணிநேரத்திற்கும்",
-          "67 ஆண்டுகளுக்கும்",
           "76 ஆண்டுகளுக்கும்",
+          "67 ஆண்டுகளுக்கும்",
           "760 ஆண்டுகளுக்கும்"
         ],
         "explanation": "ஹேலி வால்விண்மீன் ஏறத்தாழ 76 ஆண்டுகளுக்கு ஒருமுறை தோன்றும்; கடைசியாக 1986-ல்; அடுத்து 2061 நடுப்பகுதியில் (நூல் 2062 எனத் தருகிறது). 'சுமார் 67 மணிநேரம்' என்பது தவறு."
@@ -242,14 +242,14 @@
       "bloom": "understand",
       "page": 111,
       "quote": "3. Satellites nearer to the Earth should have lesser orbital velocity.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The orbital velocity required for a satellite",
         "options": [
           "is lesser the nearer the satellite is to the Earth",
-          "is greater the nearer the satellite is to the Earth",
+          "is zero",
           "does not depend on altitude",
-          "is zero"
+          "is greater the nearer the satellite is to the Earth"
         ],
         "explanation": "Nearer the object to the Earth, the faster is the required orbital velocity; the book statement (lesser) is false."
       },
@@ -257,9 +257,9 @@
         "q": "ஒரு செயற்கைக்கோளுக்குத் தேவையான சுற்றுப்பாதைத் திசைவேகம்",
         "options": [
           "புவிக்கு அருகில் இருக்க இருக்கக் குறைவு",
-          "புவிக்கு அருகில் இருக்க இருக்க அதிகம்",
+          "சுழி",
           "உயரத்தைச் சார்ந்ததல்ல",
-          "சுழி"
+          "புவிக்கு அருகில் இருக்க இருக்க அதிகம்"
         ],
         "explanation": "புவிக்கு அருகில் உள்ள பொருளுக்கு அதிக சுற்றுப்பாதைத் திசைவேகம் தேவை; 'குறைவு' என்ற நூல் கூற்று தவறு."
       }
@@ -300,24 +300,24 @@
       "bloom": "remember",
       "page": 111,
       "quote": "IV. 1. What is solar system?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The Sun and the celestial bodies which revolve around it form the",
         "options": [
-          "Milky Way",
+          "solar system",
           "constellation",
           "galaxy cluster",
-          "solar system"
+          "Milky Way"
         ],
         "explanation": "The solar system consists of planets, comets, asteroids and meteors kept revolving by the Sun's gravitational force."
       },
       "ta": {
         "q": "சூரியனும் அதைச் சுற்றி இயங்கும் வான்பொருட்களும் சேர்ந்து அமைவது",
         "options": [
-          "பால்வெளி",
+          "சூரியக் குடும்பம்",
           "விண்மீன் குழு",
           "விண்மீன் திரள் கூட்டம்",
-          "சூரியக் குடும்பம்"
+          "பால்வெளி"
         ],
         "explanation": "கோள்கள், வால்விண்மீன்கள், சிறுகோள்கள், விண்கற்கள் ஆகியவை சூரியனின் ஈர்ப்பால் அதைச் சுற்றுகின்றன."
       }
@@ -329,14 +329,14 @@
       "bloom": "remember",
       "page": 111,
       "quote": "2. Define orbital velocity.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The horizontal velocity that has to be imparted to a satellite at a determined height so that it makes a circular orbit around the planet is called",
         "options": [
           "escape velocity",
           "angular velocity",
-          "terminal velocity",
-          "orbital velocity"
+          "orbital velocity",
+          "terminal velocity"
         ],
         "explanation": "Orbital velocity depends on the altitude: v = sqrt(GM/(R + h))."
       },
@@ -345,8 +345,8 @@
         "options": [
           "தப்பு திசைவேகம்",
           "கோணத் திசைவேகம்",
-          "முற்றுத் திசைவேகம்",
-          "சுற்றுப்பாதைத் திசைவேகம்"
+          "சுற்றுப்பாதைத் திசைவேகம்",
+          "முற்றுத் திசைவேகம்"
         ],
         "explanation": "சுற்றுப்பாதைத் திசைவேகம் உயரத்தைச் சார்ந்தது: v = sqrt(GM/(R + h))."
       }
@@ -387,12 +387,12 @@
       "bloom": "remember",
       "page": 111,
       "quote": "4. What is a satellite? What are the two types of satellites?",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "A body moving in an orbit around a planet is called a satellite. Its two types are",
         "options": [
-          "inner and outer satellites",
           "natural satellites (moons) and artificial satellites",
+          "inner and outer satellites",
           "stars and planets",
           "comets and asteroids"
         ],
@@ -401,8 +401,8 @@
       "ta": {
         "q": "கோளைச் சுற்றும் பொருள் துணைக்கோள் எனப்படும்; அதன் இரு வகைகள்",
         "options": [
-          "உட்புற, வெளிப்புறத் துணைக்கோள்கள்",
           "இயற்கைத் துணைக்கோள்கள் (நிலவுகள்), செயற்கைத் துணைக்கோள்கள்",
+          "உட்புற, வெளிப்புறத் துணைக்கோள்கள்",
           "விண்மீன்கள், கோள்கள்",
           "வால்விண்மீன்கள், சிறுகோள்கள்"
         ],
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 111,
       "quote": "5. Write a note on the inner planets.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The four inner planets Mercury, Venus, Earth and Mars are also called",
         "options": [
-          "terrestrial or rocky planets without rings",
-          "gas giants with rings",
           "dwarf planets",
+          "gas giants with rings",
+          "terrestrial or rocky planets without rings",
           "outer planets"
         ],
         "explanation": "They have a surface of solid rock crust; the four outer planets are gas giants and have rings."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "புதன், வெள்ளி, பூமி, செவ்வாய் ஆகிய உட்புறக் கோள்கள் இவ்வாறும் அழைக்கப்படுகின்றன",
         "options": [
-          "வளையங்களற்ற பாறைக் கோள்கள் (நிலக்கோள்கள்)",
-          "வளையங்களுள்ள வாயு அரக்கர்கள்",
           "குறுங்கோள்கள்",
+          "வளையங்களுள்ள வாயு அரக்கர்கள்",
+          "வளையங்களற்ற பாறைக் கோள்கள் (நிலக்கோள்கள்)",
           "வெளிப்புறக் கோள்கள்"
         ],
         "explanation": "இவற்றின் மேற்பரப்பு திடப் பாறையாலானது; வெளிப்புறக் கோள்கள் வளையங்கள் கொண்ட வாயுக் கோள்கள்."
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 111,
       "quote": "6. Write about comets.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Comets are",
         "options": [
           "small rocky objects between Mars and Jupiter",
-          "lumps of dust and ice revolving around the Sun in highly elliptical orbits",
           "pieces of rock burnt in the atmosphere",
+          "lumps of dust and ice revolving around the Sun in highly elliptical orbits",
           "groups of stars"
         ],
         "explanation": "When approaching the Sun a comet vaporizes and forms a head and tail."
@@ -460,8 +460,8 @@
         "q": "வால்விண்மீன்கள் என்பவை",
         "options": [
           "செவ்வாய்-வியாழன் இடையிலுள்ள சிறிய பாறைப் பொருள்கள்",
-          "சூரியனை அதி நீள்வட்டப் பாதையில் சுற்றும் தூசு, பனிப் பொருள்கள்",
           "வளிமண்டலத்தில் எரிந்து போகும் பாறைத் துண்டுகள்",
+          "சூரியனை அதி நீள்வட்டப் பாதையில் சுற்றும் தூசு, பனிப் பொருள்கள்",
           "விண்மீன் தொகுப்புகள்"
         ],
         "explanation": "சூரியனை நெருங்கும்போது வால்விண்மீன் ஆவியாகி தலையும் வாலும் உருவாகின்றன."
@@ -503,24 +503,24 @@
       "bloom": "remember",
       "page": 111,
       "quote": "8. What factors have made life on Earth possible?",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Life is possible on Earth because of its right distance from the Sun, which gives it",
         "options": [
-          "rings and many moons",
+          "the right temperature, presence of water, suitable atmosphere and a blanket of ozone",
           "no atmosphere",
           "extreme heat",
-          "the right temperature, presence of water, suitable atmosphere and a blanket of ozone"
+          "rings and many moons"
         ],
         "explanation": "Earth is the only planet in the solar system which supports life."
       },
       "ta": {
         "q": "பூமியில் உயிர் வாழ்க்கை சாத்தியமாகக் காரணம், சூரியனிலிருந்து சரியான தொலைவு இருப்பதால் கிடைப்பவை",
         "options": [
-          "வளையங்களும் பல நிலவுகளும்",
+          "சரியான வெப்பநிலை, நீர், பொருத்தமான வளிமண்டலம், ஓசோன் படலம்",
           "வளிமண்டலம் இல்லாமை",
           "மிகுவெப்பம்",
-          "சரியான வெப்பநிலை, நீர், பொருத்தமான வளிமண்டலம், ஓசோன் படலம்"
+          "வளையங்களும் பல நிலவுகளும்"
         ],
         "explanation": "சூரியக் குடும்பத்தில் உயிர்கள் வாழும் ஒரே கோள் பூமி."
       }
@@ -532,13 +532,13 @@
       "bloom": "understand",
       "page": 111,
       "quote": "VI. 1. Why do some stars appear blue and some red?",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Some stars appear blue and some red because",
         "options": [
           "they are at different distances only",
-          "they are of different ages only",
           "stars appear in different colours depending on their temperature",
+          "they are of different ages only",
           "of dust in the Earth's atmosphere only"
         ],
         "explanation": "Hot stars are white or blue whereas cooler stars are orange or red in colour."
@@ -547,8 +547,8 @@
         "q": "சில விண்மீன்கள் நீலமாகவும் சில சிவப்பாகவும் தோன்றுவதற்குக் காரணம்",
         "options": [
           "தொலைவு வேறுபாடு மட்டும்",
-          "வயது வேறுபாடு மட்டும்",
           "வெப்பநிலையைப் பொறுத்து விண்மீன்கள் வெவ்வேறு நிறங்களில் தோன்றுவது",
+          "வயது வேறுபாடு மட்டும்",
           "புவி வளிமண்டலத் தூசு மட்டும்"
         ],
         "explanation": "சூடான விண்மீன்கள் வெண்மை அல்லது நீலம்; குளிர்ந்தவை ஆரஞ்சு அல்லது சிவப்பு."
@@ -561,14 +561,14 @@
       "bloom": "understand",
       "page": 111,
       "quote": "2. How is a satellite maintained in nearly circular orbit?",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "A satellite is maintained in a nearly circular orbit because it is",
         "options": [
           "pushed continuously by a rocket",
-          "pulled by the Moon",
+          "released horizontally with a high velocity at a suitable height and Earth's gravity provides the centripetal force",
           "attached to a string",
-          "released horizontally with a high velocity at a suitable height and Earth's gravity provides the centripetal force"
+          "pulled by the Moon"
         ],
         "explanation": "The satellite is carried by a rocket to the desired height and released horizontally with a high velocity."
       },
@@ -576,9 +576,9 @@
         "q": "செயற்கைக்கோள் ஏறத்தாழ வட்டப் பாதையில் நிலைத்திருக்கக் காரணம்",
         "options": [
           "ராக்கெட்டால் தொடர்ந்து தள்ளப்படுவது",
-          "நிலவால் ஈர்க்கப்படுவது",
+          "உரிய உயரத்தில் அதிகத் திசைவேகத்துடன் கிடைமட்டமாக விடுவிக்கப்படுவதும், புவியீர்ப்பு மையநோக்கு விசையாகச் செயல்படுவதும்",
           "கயிற்றால் கட்டப்பட்டிருப்பது",
-          "உரிய உயரத்தில் அதிகத் திசைவேகத்துடன் கிடைமட்டமாக விடுவிக்கப்படுவதும், புவியீர்ப்பு மையநோக்கு விசையாகச் செயல்படுவதும்"
+          "நிலவால் ஈர்க்கப்படுவது"
         ],
         "explanation": "ராக்கெட் அதை விரும்பிய உயரத்திற்குக் கொண்டு சென்று கிடைமட்டமாகப் பெருவேகத்தில் விடுவிக்கிறது."
       }
@@ -590,24 +590,24 @@
       "bloom": "remember",
       "page": 111,
       "quote": "3. Why are some satellites called geostationary?",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "A satellite whose orbital period equals the Earth's rotation period of 24 hours and so appears fixed over a spot on Earth is called",
         "options": [
-          "geostationary",
+          "interplanetary",
           "polar",
           "natural",
-          "interplanetary"
+          "geostationary"
         ],
         "explanation": "Because the satellite stays over the same spot all the time, such an orbit is called geostationary."
       },
       "ta": {
         "q": "24 மணி நேரத்தில் ஒரு சுற்று சுற்றி புவியின் ஒரு புள்ளிக்கு மேல் நிலையாக இருப்பது போலத் தோன்றும் செயற்கைக்கோள்",
         "options": [
-          "புவிநிலைத் துணைக்கோள் (geostationary)",
+          "கோள்களிடை துணைக்கோள்",
           "துருவச் சுற்றுத் துணைக்கோள்",
           "இயற்கைத் துணைக்கோள்",
-          "கோள்களிடை துணைக்கோள்"
+          "புவிநிலைத் துணைக்கோள் (geostationary)"
         ],
         "explanation": "ஒரே இடத்திற்கு மேல் எப்போதும் இருப்பதால் இதன் சுற்றுப்பாதை புவிநிலைப் பாதை எனப்படும்."
       }
@@ -619,14 +619,14 @@
       "bloom": "understand",
       "page": 111,
       "quote": "4. A man weighing 60 kg in the Earth will weigh 1680 kg in the Sun. Why?",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "A man weighing 60 kg on the Earth would weigh about 1680 kg on the Sun because the Sun's",
         "options": [
           "surface gravity is lower than the Earth's",
           "atmosphere is dense and heavy only",
-          "surface gravity is about 28 times that of the Earth",
-          "mass is less than the Earth's"
+          "mass is less than the Earth's",
+          "surface gravity is about 28 times that of the Earth"
         ],
         "explanation": "The Sun is over a million times as big as the Earth and has a very strong gravitational field; 60 x 28 = 1680."
       },
@@ -635,8 +635,8 @@
         "options": [
           "மேற்பரப்பு ஈர்ப்பு புவியை விடக் குறைவு",
           "வளிமண்டலம் அடர்த்தியானது என்பதால் மட்டும்",
-          "மேற்பரப்பு ஈர்ப்பு புவியை விட ஏறத்தாழ 28 மடங்கு",
-          "நிறை புவியை விடக் குறைவு"
+          "நிறை புவியை விடக் குறைவு",
+          "மேற்பரப்பு ஈர்ப்பு புவியை விட ஏறத்தாழ 28 மடங்கு"
         ],
         "explanation": "சூரியன் புவியை விடப் பத்து இலட்சம் மடங்குக்கு மேல் பெரியது; வலிமையான ஈர்ப்புப் புலம் உடையது; 60 x 28 = 1680."
       }
@@ -648,13 +648,13 @@
       "bloom": "apply",
       "page": 111,
       "quote": "VII. 1. Calculate the speed with which a satellite moves if it is at a height of 36,000 km from the Earth's surface and has an orbital period of 24 hr (Take R = 6370 km)",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "A satellite at a height of 36,000 km (R = 6370 km) has an orbital period of 24 h. Its speed is about",
         "options": [
           "7.6 km/s",
-          "3.08 km/s",
           "0.3 km/s",
+          "3.08 km/s",
           "30.8 km/s"
         ],
         "explanation": "v = 2 pi (R + h) / T = 2 x 3.14 x 42370 km / 86400 s = 3.08 km/s."
@@ -663,8 +663,8 @@
         "q": "புவிப்பரப்பிலிருந்து 36,000 கி.மீ உயரத்தில் (R = 6370 கி.மீ) 24 மணி நேரச் சுற்றுக்காலமுடைய செயற்கைக்கோளின் வேகம் ஏறத்தாழ",
         "options": [
           "7.6 கி.மீ/வி",
-          "3.08 கி.மீ/வி",
           "0.3 கி.மீ/வி",
+          "3.08 கி.மீ/வி",
           "30.8 கி.மீ/வி"
         ],
         "explanation": "v = 2π(R + h) / T = 2 x 3.14 x 42370 / 86400 = 3.08 கி.மீ/வி."
@@ -677,14 +677,14 @@
       "bloom": "apply",
       "page": 111,
       "quote": "2. At an orbital height of 400 km, find the orbital period of the satellite.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The orbital period of a satellite at an orbital height of 400 km (G = 6.673 x 10^-11, M = 5.972 x 10^24 kg, R = 6371 km) is about",
         "options": [
           "24 hours",
           "95 hours",
-          "9.2 minutes",
-          "92 minutes"
+          "92 minutes",
+          "9.2 minutes"
         ],
         "explanation": "v = sqrt(GM/(R + h)) = about 7.67 km/s; T = 2 pi (R + h) / v = about 5545 s = about 92 min."
       },
@@ -693,8 +693,8 @@
         "options": [
           "24 மணி",
           "95 மணி",
-          "9.2 நிமிடம்",
-          "92 நிமிடம்"
+          "92 நிமிடம்",
+          "9.2 நிமிடம்"
         ],
         "explanation": "v = sqrt(GM/(R + h)) ≈ 7.67 கி.மீ/வி; T = 2π(R + h)/v ≈ 5545 வி ≈ 92 நிமிடம்."
       }

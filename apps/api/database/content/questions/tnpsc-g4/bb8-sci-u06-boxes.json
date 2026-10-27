@@ -10,24 +10,24 @@
       "bloom": "remember",
       "page": 61,
       "quote": "Sound cannot travel in vacuum and it needs a medium like air. The speed of sound is more in solids than in liquids and it is very less in gases.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The correct order of the speed of sound in different states of matter is ______.",
         "options": [
-          "gases > liquids > solids",
+          "solids > liquids > gases",
           "liquids > solids > gases",
           "solids = liquids = gases",
-          "solids > liquids > gases"
+          "gases > liquids > solids"
         ],
         "explanation": "Sound travels fastest in solids, slower in liquids and slowest in gases."
       },
       "ta": {
         "q": "பல்வேறு நிலைகளில் ஒலியின் வேகத்தின் சரியான வரிசை ______.",
         "options": [
-          "வாயு > திரவம் > திண்மம்",
+          "திண்மம் > திரவம் > வாயு",
           "திரவம் > திண்மம் > வாயு",
           "திண்மம் = திரவம் = வாயு",
-          "திண்மம் > திரவம் > வாயு"
+          "வாயு > திரவம் > திண்மம்"
         ],
         "explanation": "ஒலி திண்மத்தில் வேகமாகவும் திரவத்தில் குறைவாகவும் வாயுவில் மிகக் குறைவாகவும் பரவும்."
       }
@@ -39,14 +39,14 @@
       "bloom": "remember",
       "page": 62,
       "quote": "The speed of sound in air is 331 m s⁻¹ at 0°C and 344 m s⁻¹ at 22°C. In any medium, as the temperature increases the speed of sound also increases.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The speed of sound in air at 0 °C is ______.",
         "options": [
           "344 m s⁻¹",
           "300 m s⁻¹",
-          "331 m s⁻¹",
-          "1498 m s⁻¹"
+          "1498 m s⁻¹",
+          "331 m s⁻¹"
         ],
         "explanation": "It is 331 m s⁻¹ at 0 °C and 344 m s⁻¹ at 22 °C."
       },
@@ -55,8 +55,8 @@
         "options": [
           "344 மீவி⁻¹",
           "300 மீவி⁻¹",
-          "331 மீவி⁻¹",
-          "1498 மீவி⁻¹"
+          "1498 மீவி⁻¹",
+          "331 மீவி⁻¹"
         ],
         "explanation": "0°C-இல் 331 மீவி⁻¹; 22°C-இல் 344 மீவி⁻¹."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 62,
       "quote": "The speed of sound v = nλ, where n is the frequency and λ is the wavelength. The unit of wavelength is metre and the unit of frequency is hertz.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The unit of frequency is ______.",
         "options": [
-          "hertz",
-          "metre",
           "decibel",
+          "metre",
+          "hertz",
           "newton"
         ],
         "explanation": "Frequency (n) is in hertz; wavelength (λ) in metre; loudness in decibel."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "அதிர்வெண்ணின் அலகு ______.",
         "options": [
-          "ஹெர்ட்ஸ்",
-          "மீட்டர்",
           "டெசிபல்",
+          "மீட்டர்",
+          "ஹெர்ட்ஸ்",
           "நியூட்டன்"
         ],
         "explanation": "அதிர்வெண் ஹெர்ட்ஸ்; அலைநீளம் மீட்டர்; உரப்பு டெசிபல்."
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 63,
       "quote": "In a transverse wave the particles vibrate perpendicular to the direction of propagation. In a longitudinal wave the particles vibrate parallel to the direction of propagation. Sound waves are longitudinal.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Sound waves in air are ______ waves.",
         "options": [
           "transverse",
-          "electromagnetic",
+          "longitudinal",
           "stationary only",
-          "longitudinal"
+          "electromagnetic"
         ],
         "explanation": "In longitudinal waves the particles vibrate parallel to the direction of propagation."
       },
@@ -141,9 +141,9 @@
         "q": "காற்றில் ஒலி அலைகள் ______ அலைகள்.",
         "options": [
           "குறுக்கலைகள்",
-          "மின்காந்த அலைகள்",
+          "நெட்டலைகள்",
           "நிலையலைகள் மட்டும்",
-          "நெட்டலைகள்"
+          "மின்காந்த அலைகள்"
         ],
         "explanation": "நெட்டலைகளில் துகள்கள் அலை செல்லும் திசைக்கு இணையாக அதிர்கின்றன."
       }
@@ -242,13 +242,13 @@
       "bloom": "remember",
       "page": 64,
       "quote": "The seismic wave formed during earthquake is an example for a longitudinal wave. Seismology is the branch of science that deals with the study of seismic waves.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Seismology is the study of ______.",
         "options": [
-          "sound in air",
-          "light rays",
           "seismic waves",
+          "light rays",
+          "sound in air",
           "ocean tides"
         ],
         "explanation": "Seismic waves travel through the Earth in earthquakes and explosions."
@@ -256,9 +256,9 @@
       "ta": {
         "q": "நிலநடுக்கவியல் என்பது ______ பற்றிய படிப்பு.",
         "options": [
-          "காற்றில் ஒலி",
-          "ஒளிக்கதிர்கள்",
           "நிலநடுக்க அலைகள்",
+          "ஒளிக்கதிர்கள்",
+          "காற்றில் ஒலி",
           "கடல் அலை"
         ],
         "explanation": "நிலநடுக்கம், வெடிப்புகளால் புவியடுக்குகளில் செல்லும் அலைகள் நிலநடுக்க அலைகள்."
@@ -271,12 +271,12 @@
       "bloom": "remember",
       "page": 64,
       "quote": "The loudness of a sound depends on its amplitude. The unit of loudness of sound is decibel (dB).",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The unit of loudness of sound is ______.",
         "options": [
-          "decibel",
           "hertz",
+          "decibel",
           "metre",
           "pascal"
         ],
@@ -285,8 +285,8 @@
       "ta": {
         "q": "ஒலியின் உரப்பின் அலகு ______.",
         "options": [
-          "டெசிபல்",
           "ஹெர்ட்ஸ்",
+          "டெசிபல்",
           "மீட்டர்",
           "பாஸ்கல்"
         ],
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 65,
       "quote": "Infrasonic sound: below 20 Hz; humans cannot hear but some animals like dog, dolphin can. Uses: earth monitoring system, study of the mechanism of human heart.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Sounds below 20 Hz are called ______.",
         "options": [
           "ultrasonic sounds",
-          "audible sounds",
+          "infrasonic (subsonic) sounds",
           "sonic booms",
-          "infrasonic (subsonic) sounds"
+          "audible sounds"
         ],
         "explanation": "Infrasonic sound is used in the earth monitoring system and in the study of the human heart."
       },
@@ -315,9 +315,9 @@
         "q": "20 Hz-க்குக் குறைவான அதிர்வெண் கொண்ட ஒலிகள் ______ எனப்படும்.",
         "options": [
           "மீயொலி",
-          "கேட்புணர் ஒலி",
+          "குற்றொலி",
           "ஒலி முழக்கம்",
-          "குற்றொலி"
+          "கேட்புணர் ஒலி"
         ],
         "explanation": "குற்றொலி புவி கண்காணிப்பு, மனித இதயத்தின் செயல்பாட்டை ஆராய்வதில் பயன்படுகிறது."
       }
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 65,
       "quote": "Ultrasonic sound is used in medical applications like 'sonogram', in the SONAR system to detect the depth of the sea and enemy submarines, in dish washers, and in Galton's whistle.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which instrument used to train dogs works on ultrasonic sound?",
         "options": [
           "Sonar",
-          "Tuning fork",
           "Galton's whistle",
+          "Tuning fork",
           "Phonograph"
         ],
         "explanation": "Galton's whistle is inaudible to humans but heard by dogs."
@@ -344,8 +344,8 @@
         "q": "நாய்களுக்குப் பயிற்சி அளிக்கப் பயன்படும் மீயொலிக் கருவி எது?",
         "options": [
           "சோனார்",
-          "இசைக்கவை",
           "கால்டன் விசில்",
+          "இசைக்கவை",
           "ஒலிப்பதிவுக் கருவி"
         ],
         "explanation": "கால்டன் விசில் மனிதனுக்குக் கேட்காது; நாய்களுக்குக் கேட்கும்."
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 65,
       "quote": "Musical instruments are categorized into four types: wind instruments, reed instruments, stringed instruments and percussion instruments. Reed instruments include Harmonium and Mouth Organ.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Harmonium and mouth organ are examples of ______ instruments.",
         "options": [
           "wind",
-          "reed",
           "stringed",
+          "reed",
           "percussion"
         ],
         "explanation": "A reed vibrates when air is blown through the instrument."
@@ -402,8 +402,8 @@
         "q": "ஹார்மோனியம், வாய் ஆர்கன் ஆகியவை ______ இசைக்கருவிகளுக்கு எடுத்துக்காட்டு.",
         "options": [
           "காற்று",
-          "நாணல் (ரீட்)",
           "நரம்பு",
+          "நாணல் (ரீட்)",
           "தாள"
         ],
         "explanation": "காற்றை ஊதும்போது நாணல் அதிர்ந்து ஒலி தோன்றுகிறது."
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 66,
       "quote": "In human being, the sound is produced in the voice box, called the larynx. The larynx has two ligaments called vocal cords. Males generally have thicker and longer vocal cords that produce a deeper low pitch sound.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "In humans, sound is produced in the ______.",
         "options": [
           "pinna",
           "cochlea",
-          "larynx (voice box)",
-          "trachea"
+          "trachea",
+          "larynx (voice box)"
         ],
         "explanation": "Air passing through the slit between the vocal cords makes them vibrate."
       },
@@ -432,8 +432,8 @@
         "options": [
           "செவிமடல்",
           "கோக்லியா",
-          "குரல்வளை (குரல் பெட்டி)",
-          "மூச்சுக்குழல்"
+          "மூச்சுக்குழல்",
+          "குரல்வளை (குரல் பெட்டி)"
         ],
         "explanation": "குரல் நாண்களுக்கிடையிலான இடைவெளி வழியே காற்று செல்லும்போது அவை அதிர்ந்து ஒலி தோன்றுகிறது."
       }
@@ -445,24 +445,24 @@
       "bloom": "remember",
       "page": 66,
       "quote": "The outer and visible part of the human ear is called pinna. Sound reaches the ear drum (tympanic membrane) through the ear canal. The ossicles move inward and outward to create vibrations.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The outer visible part of the human ear is called the ______.",
         "options": [
-          "ear drum",
+          "pinna",
           "cochlea",
           "Eustachian tube",
-          "pinna"
+          "ear drum"
         ],
         "explanation": "The pinna gathers sound from the environment."
       },
       "ta": {
         "q": "மனிதக் காதின் வெளியே தெரியும் பகுதி ______ எனப்படும்.",
         "options": [
-          "செவிப்பறை",
+          "செவிமடல்",
           "கோக்லியா",
           "யூஸ்டேக்கியன் குழாய்",
-          "செவிமடல்"
+          "செவிப்பறை"
         ],
         "explanation": "செவிமடல் சுற்றுப்புற ஒலியைச் சேகரிக்கிறது."
       }
@@ -474,13 +474,13 @@
       "bloom": "remember",
       "page": 67,
       "quote": "Noise pollution is the by-product of industrialisation, urbanisation and modern civilisation. The major source of noise pollution is from the industries.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The major source of noise pollution is ______.",
         "options": [
-          "industries",
-          "forests",
           "rivers",
+          "forests",
+          "industries",
           "farms"
         ],
         "explanation": "Noise pollution is a by-product of industrialisation, urbanisation and modern civilisation."
@@ -488,9 +488,9 @@
       "ta": {
         "q": "ஒலி மாசுபாட்டின் முக்கிய மூலம் ______.",
         "options": [
-          "தொழிற்சாலைகள்",
-          "காடுகள்",
           "ஆறுகள்",
+          "காடுகள்",
+          "தொழிற்சாலைகள்",
           "வயல்கள்"
         ],
         "explanation": "ஒலி மாசுபாடு தொழில்மயமாக்கல், நகரமயமாக்கலின் துணைவிளைவு."

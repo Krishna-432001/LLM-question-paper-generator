@@ -10,13 +10,13 @@
       "bloom": "understand",
       "page": 296,
       "quote": "1. Which method of crop improvement can be practised by a farmer if he is inexperienced?",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which method of crop improvement can be practised even by an inexperienced farmer?",
         "options": [
-          "Pureline selection",
-          "Clonal selection",
           "Mass selection",
+          "Clonal selection",
+          "Pureline selection",
           "Hybridisation"
         ],
         "explanation": "Mass selection, in which the best-looking plants are selected and their seeds mixed and sown, is the simplest method (e.g. groundnut TMV-2)."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "அனுபவம் இல்லாத ஒரு விவசாயி கடைப்பிடிக்கக்கூடிய பயிர் மேம்பாட்டு முறை எது?",
         "options": [
-          "தூய வழித் தேர்வு",
-          "கூட்டுயிர்த் (குளோனல்) தேர்வு",
           "பெருமளவுத் தேர்வு",
+          "கூட்டுயிர்த் (குளோனல்) தேர்வு",
+          "தூய வழித் தேர்வு",
           "கலப்புறுத்தம்"
         ],
         "explanation": "சிறந்த தாவரங்களைத் தேர்ந்து விதைகளைக் கலந்து விதைக்கும் பெருமளவுத் தேர்வு எளிய முறை (எ.கா. நிலக்கடலை TMV-2)."
@@ -68,24 +68,24 @@
       "bloom": "apply",
       "page": 297,
       "quote": "10. In a hexaploid wheat (2n = 6x = 42) the haploid (n) and the basic (x) number of chromosomes respectively are",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "In hexaploid wheat (2n = 6x = 42), the haploid number (n) and the basic number (x) of chromosomes are respectively",
         "options": [
-          "n = 7 and x = 21",
+          "n = 21 and x = 7",
           "n = 21 and x = 21",
           "n = 7 and x = 7",
-          "n = 21 and x = 7"
+          "n = 7 and x = 21"
         ],
         "explanation": "2n = 42 so n = 21; 6x = 42 so x = 7."
       },
       "ta": {
         "q": "அறுமடிய கோதுமையில் (2n = 6x = 42) ஒருமடிய எண்ணும் (n) அடிப்படை எண்ணும் (x) முறையே",
         "options": [
-          "n = 7, x = 21",
+          "n = 21, x = 7",
           "n = 21, x = 21",
           "n = 7, x = 7",
-          "n = 21, x = 7"
+          "n = 7, x = 21"
         ],
         "explanation": "2n = 42 எனவே n = 21; 6x = 42 எனவே x = 7."
       }
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 297,
       "quote": "6. __________ technique made it possible to genetically engineer living organism.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which technique made it possible to genetically engineer living organisms?",
         "options": [
           "Tissue culture only",
-          "Recombinant DNA technology",
+          "Hybridisation by emasculation",
           "Mass selection",
-          "Hybridisation by emasculation"
+          "Recombinant DNA technology"
         ],
         "explanation": "Genetic engineering is also called recombinant DNA (rDNA) technology."
       },
@@ -112,9 +112,9 @@
         "q": "உயிரிகளை மரபியல் பொறியியல் மூலம் மாற்ற வழிவகுத்த நுட்பம்",
         "options": [
           "திசு வளர்ப்பு மட்டும்",
-          "மறுசேர்க்கை DNA தொழில்நுட்பம்",
+          "ஆண் உறுப்பு நீக்கிக் கலப்புறுத்தம்",
           "பெருமளவுத் தேர்வு",
-          "ஆண் உறுப்பு நீக்கிக் கலப்புறுத்தம்"
+          "மறுசேர்க்கை DNA தொழில்நுட்பம்"
         ],
         "explanation": "மரபியல் பொறியியல் மறுசேர்க்கை DNA (rDNA) தொழில்நுட்பம் எனவும் அழைக்கப்படுகிறது."
       }
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 297,
       "quote": "10. In gene cloning the DNA of interest is integrated in a __________.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "In gene cloning the DNA of interest is integrated into a suitable",
         "options": [
           "ribosome",
-          "vector (plasmid)",
+          "centriole",
           "chloroplast",
-          "centriole"
+          "vector (plasmid)"
         ],
         "explanation": "The DNA fragment is inserted into a suitable vector, the plasmid, to make recombinant DNA."
       },
@@ -141,9 +141,9 @@
         "q": "மரபணு குளோனிங்கில் தேவையான DNA இணைக்கப்படுவது ஒரு",
         "options": [
           "ரைபோசோம்",
-          "கடத்தி (பிளாஸ்மிட்)",
+          "சென்ட்ரியோல்",
           "பசுங்கணிகம்",
-          "சென்ட்ரியோல்"
+          "கடத்தி (பிளாஸ்மிட்)"
         ],
         "explanation": "தேவையான DNA துண்டு ஏற்ற கடத்தியான பிளாஸ்மிடில் செலுத்தப்பட்டு rDNA உருவாக்கப்படுகிறது."
       }
@@ -184,13 +184,13 @@
       "bloom": "understand",
       "page": 297,
       "quote": "2. The process of producing an organism with more than two sets of chromosome is called mutation.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Producing an organism with more than two sets of chromosomes is called",
         "options": [
-          "polyploidy",
-          "mutation",
           "hybridisation",
+          "mutation",
+          "polyploidy",
           "cloning"
         ],
         "explanation": "The book statement is false: this process is polyploidy, not mutation."
@@ -198,9 +198,9 @@
       "ta": {
         "q": "இரண்டுக்கும் மேற்பட்ட குரோமோசோம் தொகுதிகளுடைய உயிரியை உருவாக்குவது",
         "options": [
-          "பல்மடியம் (பாலிபிளாய்டி)",
-          "சடுதிமாற்றம்",
           "கலப்புறுத்தம்",
+          "சடுதிமாற்றம்",
+          "பல்மடியம் (பாலிபிளாய்டி)",
           "குளோனிங்"
         ],
         "explanation": "புத்தகக் கூற்று தவறு; இது பல்மடியம் எனப்படும்; சடுதிமாற்றம் அன்று."
@@ -213,24 +213,24 @@
       "bloom": "remember",
       "page": 297,
       "quote": "4. Iron fortified rice variety determines the protein quality of the cultivated plant.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "An iron-rich fortified rice variety is an example of",
         "options": [
-          "mutation breeding",
+          "biofortification",
           "polyploidy",
           "gene therapy",
-          "biofortification"
+          "mutation breeding"
         ],
         "explanation": "Biofortification develops crops enriched with nutrients such as vitamins, proteins and minerals; iron-rich rice is one example."
       },
       "ta": {
         "q": "இரும்புச்சத்து செறிவூட்டிய நெல் வகை எதற்கு எடுத்துக்காட்டு?",
         "options": [
-          "சடுதிமாற்ற இனப்பெருக்கம்",
+          "உயிர் ஊட்டச்சத்து மேம்பாடு (பயோஃபோர்டிஃபிகேஷன்)",
           "பல்மடியம்",
           "மரபணு சிகிச்சை",
-          "உயிர் ஊட்டச்சத்து மேம்பாடு (பயோஃபோர்டிஃபிகேஷன்)"
+          "சடுதிமாற்ற இனப்பெருக்கம்"
         ],
         "explanation": "உயிர் ஊட்டச்சத்து மேம்பாடு வைட்டமின், புரதம், தாது ஆகியவை செறிந்த பயிர்களை உருவாக்குகிறது; இரும்புச்சத்து நெல் அதற்கு ஓர் எடுத்துக்காட்டு."
       }
@@ -271,13 +271,13 @@
       "bloom": "understand",
       "page": 297,
       "quote": "7. In vitro fertilisation means the fertilisation done inside the body.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "In vitro fertilisation means fertilisation",
         "options": [
           "done inside the uterus",
-          "done in the fallopian tube",
           "done outside the body in a laboratory",
+          "done in the fallopian tube",
           "that occurs without gametes"
         ],
         "explanation": "The book statement is false: in vitro means 'in glass', i.e. fertilisation outside the body."
@@ -286,8 +286,8 @@
         "q": "இன் விட்ரோ கருவுறுதல் என்பது கருவுறுதல்",
         "options": [
           "கருப்பைக்குள் நிகழ்வது",
-          "கருக்குழாயில் நிகழ்வது",
           "உடலுக்கு வெளியே ஆய்வகத்தில் நிகழ்வது",
+          "கருக்குழாயில் நிகழ்வது",
           "கேமீட்டுகள் இன்றி நிகழ்வது"
         ],
         "explanation": "புத்தகக் கூற்று தவறு; இன் விட்ரோ என்பது உடலுக்கு வெளியே (கண்ணாடிக் குடுவையில்) நிகழும் கருவுறுதல்."
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 297,
       "quote": "IV. Match the following: Mung No.1, Saccharum, Insulin, Golden rice",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Match: (a) Mung No.1 (b) Saccharum (c) Insulin (d) Golden rice — (1) Beta carotene (2) Sugarcane (3) Phaseolus mungo (4) First hormone produced by rDNA technique",
         "options": [
-          "a-3, b-2, c-4, d-1",
-          "a-2, b-3, c-1, d-4",
           "a-1, b-4, c-3, d-2",
+          "a-2, b-3, c-1, d-4",
+          "a-3, b-2, c-4, d-1",
           "a-4, b-1, c-2, d-3"
         ],
         "explanation": "Mung No.1 is Phaseolus mungo (green gram); Saccharum is sugarcane; insulin was the first rDNA hormone; golden rice makes beta carotene."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "பொருத்துக: (a) மங் எண் 1 (b) சாக்கரம் (c) இன்சுலின் (d) கோல்டன் ரைஸ் — (1) பீட்டா கரோட்டின் (2) கரும்பு (3) ஃபேசியோலஸ் மங்கோ (4) rDNA நுட்பத்தால் உருவான முதல் ஹார்மோன்",
         "options": [
-          "a-3, b-2, c-4, d-1",
-          "a-2, b-3, c-1, d-4",
           "a-1, b-4, c-3, d-2",
+          "a-2, b-3, c-1, d-4",
+          "a-3, b-2, c-4, d-1",
           "a-4, b-1, c-2, d-3"
         ],
         "explanation": "மங் எண் 1 - ஃபேசியோலஸ் மங்கோ; சாக்கரம் - கரும்பு; இன்சுலின் - rDNA மூலம் உருவான முதல் ஹார்மோன்; கோல்டன் ரைஸ் - பீட்டா கரோட்டின்."
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 298,
       "quote": "3. Define genetic engineering.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Genetic engineering is the",
         "options": [
-          "manipulation and transfer of genes from one organism to another",
-          "crossing of two varieties of a plant",
           "selection of the best plants from a field",
+          "crossing of two varieties of a plant",
+          "manipulation and transfer of genes from one organism to another",
           "use of fertilisers to improve yield"
         ],
         "explanation": "Genetic engineering is the manipulation and transfer of genes from one organism to another to create recombinant DNA."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "மரபியல் பொறியியல் என்பது",
         "options": [
-          "ஓர் உயிரியின் மரபணுக்களைக் கையாண்டு மற்றொரு உயிரிக்கு மாற்றுதல்",
-          "ஒரு தாவரத்தின் இரு வகைகளைக் கலத்தல்",
           "வயலிலிருந்து சிறந்த தாவரங்களைத் தேர்ந்தெடுத்தல்",
+          "ஒரு தாவரத்தின் இரு வகைகளைக் கலத்தல்",
+          "ஓர் உயிரியின் மரபணுக்களைக் கையாண்டு மற்றொரு உயிரிக்கு மாற்றுதல்",
           "விளைச்சலைப் பெருக்க உரங்களைப் பயன்படுத்துதல்"
         ],
         "explanation": "மரபியல் பொறியியல் என்பது ஓர் உயிரியின் மரபணுக்களை மற்றொரு உயிரிக்கு மாற்றி rDNA உருவாக்குவதாகும்."
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 298,
       "quote": "4. Name the types of stem cells.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "The two main types of stem cells are",
         "options": [
-          "blood cells and nerve cells",
-          "plant and animal cells",
           "embryonic stem cells and adult (somatic) stem cells",
+          "plant and animal cells",
+          "blood cells and nerve cells",
           "red cells and white cells"
         ],
         "explanation": "Embryonic stem cells come from the blastocyst inner cell mass; adult stem cells occur in newborns and adults (bone marrow, umbilical cord, amniotic fluid)."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "தண்டு செல்களின் இரு முக்கிய வகைகள்",
         "options": [
-          "இரத்த செல்கள், நரம்பு செல்கள்",
-          "தாவர செல்கள், விலங்கு செல்கள்",
           "கரு தண்டு செல்கள், முதிர்ந்த (உடல) தண்டு செல்கள்",
+          "தாவர செல்கள், விலங்கு செல்கள்",
+          "இரத்த செல்கள், நரம்பு செல்கள்",
           "சிவப்பணுக்கள், வெள்ளையணுக்கள்"
         ],
         "explanation": "கரு தண்டு செல்கள் பிளாஸ்டோசிஸ்டின் உள் செல் திரளிலிருந்து; முதிர்ந்த தண்டு செல்கள் எலும்பு மஜ்ஜை, தொப்புள் கொடி, பனிக்குட நீரில் உள்ளன."
@@ -445,13 +445,13 @@
       "bloom": "understand",
       "page": 298,
       "quote": "5. State the applications of DNA fingerprinting technique.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "DNA fingerprinting is widely used for",
         "options": [
           "measuring blood pressure",
-          "crime investigation and paternity testing",
           "dating fossils",
+          "crime investigation and paternity testing",
           "making vaccines"
         ],
         "explanation": "DNA fingerprinting is used in forensics to identify culprits and for paternity testing in disputes."
@@ -460,8 +460,8 @@
         "q": "DNA விரல் ரேகைப் பதிவு பரவலாகப் பயன்படுவது",
         "options": [
           "இரத்த அழுத்தம் அளக்க",
-          "குற்ற விசாரணை, தந்தைவழி அடையாளச் சோதனை",
           "புதைபடிவ காலம் கணிக்க",
+          "குற்ற விசாரணை, தந்தைவழி அடையாளச் சோதனை",
           "தடுப்பூசி தயாரிக்க"
         ],
         "explanation": "DNA விரல் ரேகைப் பதிவு குற்றவாளிகளை அடையாளம் காணவும் தந்தைவழிச் சர்ச்சைகளைத் தீர்க்கவும் பயன்படுகிறது."

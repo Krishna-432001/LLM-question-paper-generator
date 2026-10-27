@@ -10,12 +10,12 @@
       "bloom": "remember",
       "page": 81,
       "quote": "A magnet attracts __________. a) wooden materials b) any metal c) copper d) iron and steel",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "A magnet attracts ______.",
         "options": [
-          "iron and steel",
           "wooden materials",
+          "iron and steel",
           "any metal",
           "copper"
         ],
@@ -24,8 +24,8 @@
       "ta": {
         "q": "காந்தம் ______ ஐக் கவரும்.",
         "options": [
-          "இரும்பு, எஃகு",
           "மரப்பொருள்கள்",
+          "இரும்பு, எஃகு",
           "எந்த உலோகத்தையும்",
           "தாமிரம்"
         ],
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 81,
       "quote": "The shape of the Earth's magnetic field resembles that of an imaginary __________.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The shape of the Earth's magnetic field resembles that of an imaginary ______.",
         "options": [
           "U-shaped magnet",
-          "bar magnet",
+          "solenoid coil",
           "straight conductor carrying current",
-          "solenoid coil"
+          "bar magnet"
         ],
         "explanation": "The Earth behaves like a huge magnetic dipole, i.e. a bar magnet."
       },
@@ -83,9 +83,9 @@
         "q": "புவியின் காந்தப் புலத்தின் வடிவம் ஒரு கற்பனை ______ ஐ ஒத்துள்ளது.",
         "options": [
           "U வடிவக் காந்தத்தை",
-          "தண்டுக்காந்தத்தை",
+          "வரிச்சுருளை",
           "மின்னோட்டம் பாயும் நேர்க் கடத்தியை",
-          "வரிச்சுருளை"
+          "தண்டுக்காந்தத்தை"
         ],
         "explanation": "புவி ஒரு பெரிய காந்த இருமுனையாகச் செயல்படுகிறது."
       }
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 81,
       "quote": "MRI stands for __________.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "MRI stands for ______.",
         "options": [
           "Magnetic Running Image",
-          "Magnetic Radio Imaging",
+          "Magnetic Resonance Imaging",
           "Magnetic Radar Imaging",
-          "Magnetic Resonance Imaging"
+          "Magnetic Radio Imaging"
         ],
         "explanation": "MRI uses an extremely powerful electromagnet to scan internal organs."
       },
@@ -112,9 +112,9 @@
         "q": "MRI என்பதன் விரிவாக்கம் ______.",
         "options": [
           "Magnetic Running Image",
-          "Magnetic Radio Imaging",
+          "Magnetic Resonance Imaging",
           "Magnetic Radar Imaging",
-          "Magnetic Resonance Imaging"
+          "Magnetic Radio Imaging"
         ],
         "explanation": "MRI மிக வலிமையான மின்காந்தத்தைக் கொண்டு உள்ளுறுப்புகளை ஸ்கேன் செய்கிறது."
       }
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 81,
       "quote": "A compass is used for __________ a) plotting magnetic lines b) detection of magnetic field c) navigation d) All of these",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "A compass is used for ______.",
         "options": [
           "plotting magnetic lines only",
           "navigation only",
-          "plotting magnetic lines, detecting a magnetic field and navigation",
-          "generating electricity"
+          "generating electricity",
+          "plotting magnetic lines, detecting a magnetic field and navigation"
         ],
         "explanation": "A compass needle can plot field lines, detect the field and help navigation."
       },
@@ -142,8 +142,8 @@
         "options": [
           "காந்த விசைக்கோடுகளை வரைய மட்டும்",
           "வழிகாட்ட மட்டும்",
-          "காந்த விசைக்கோடுகளை வரைய, காந்தப்புலத்தைக் கண்டறிய, வழிகாட்ட ஆகிய அனைத்திற்கும்",
-          "மின்சாரம் தயாரிக்க"
+          "மின்சாரம் தயாரிக்க",
+          "காந்த விசைக்கோடுகளை வரைய, காந்தப்புலத்தைக் கண்டறிய, வழிகாட்ட ஆகிய அனைத்திற்கும்"
         ],
         "explanation": "திசைகாட்டி ஊசி விசைக்கோடுகளை வரையவும் காந்தப்புலத்தை அறியவும் திசை காணவும் உதவும்."
       }
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 81,
       "quote": "A magnet has __________ magnetic poles.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "A magnet always has ______ magnetic poles.",
         "options": [
-          "two (a north and a south pole)",
           "only one",
+          "two (a north and a south pole)",
           "three",
           "four"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "ஒரு காந்தம் எப்போதும் ______ காந்த முனைகளைக் கொண்டிருக்கும்.",
         "options": [
-          "இரண்டு (வடமுனை, தென்முனை)",
           "ஒரு",
+          "இரண்டு (வடமுனை, தென்முனை)",
           "மூன்று",
           "நான்கு"
         ],
@@ -213,24 +213,24 @@
       "bloom": "remember",
       "page": 81,
       "quote": "Magnets are used in __________ for generating electricity.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Magnets are used in ______ to generate electricity.",
         "options": [
-          "electric bells",
+          "dynamos",
           "compasses",
           "refrigerators",
-          "dynamos"
+          "electric bells"
         ],
         "explanation": "Magnets are used to generate electricity in dynamos."
       },
       "ta": {
         "q": "மின்சாரம் தயாரிக்க ______ இல் காந்தங்கள் பயன்படுகின்றன.",
         "options": [
-          "மின் மணிகள்",
+          "டைனமோக்கள்",
           "திசைகாட்டிகள்",
           "குளிர்சாதனப் பெட்டிகள்",
-          "டைனமோக்கள்"
+          "மின் மணிகள்"
         ],
         "explanation": "டைனமோக்களில் காந்தங்கள் மின்சாரம் தயாரிக்கப் பயன்படுகின்றன."
       }
@@ -242,12 +242,12 @@
       "bloom": "remember",
       "page": 81,
       "quote": "__________ are used to lift heavy iron pieces.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Heavy iron pieces are lifted by ______.",
         "options": [
-          "bar magnets only",
           "electromagnets",
+          "bar magnets only",
           "compass needles",
           "Galton's whistles"
         ],
@@ -256,8 +256,8 @@
       "ta": {
         "q": "கனமான இரும்புத் துண்டுகளைத் தூக்கப் பயன்படுபவை ______.",
         "options": [
-          "தண்டுக்காந்தங்கள் மட்டும்",
           "மின்காந்தங்கள்",
+          "தண்டுக்காந்தங்கள் மட்டும்",
           "திசைகாட்டி ஊசிகள்",
           "கால்டன் விசில்"
         ],
@@ -300,24 +300,24 @@
       "bloom": "remember",
       "page": 81,
       "quote": "Match the following: Magnetite, A tiny pivoted magnet, Cobalt, Bismuth",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Match List I with List II:\na) Magnetite\nb) A tiny pivoted magnet\nc) Cobalt\nd) Bismuth\n1. Compass box\n2. Ferromagnetic material\n3. Diamagnetic material\n4. Natural magnet",
         "options": [
-          "a-4, b-1, c-2, d-3",
+          "a-4, b-3, c-1, d-2",
           "a-2, b-1, c-3, d-4",
           "a-4, b-2, c-3, d-1",
-          "a-4, b-3, c-1, d-2"
+          "a-4, b-1, c-2, d-3"
         ],
         "explanation": "Magnetite – Natural magnet; A tiny pivoted magnet – Compass box; Cobalt – Ferromagnetic material; Bismuth – Diamagnetic material."
       },
       "ta": {
         "q": "பட்டியல் I-ஐப் பட்டியல் II-உடன் பொருத்துக:\na) மேக்னடைட்\nb) சுழலும் சிறு காந்தம்\nc) கோபால்ட்\nd) பிஸ்மத்\n1. திசைகாட்டிப் பெட்டி\n2. ஃபெர்ரோ காந்தப்பொருள்\n3. டயா காந்தப்பொருள்\n4. இயற்கைக் காந்தம்",
         "options": [
-          "a-4, b-1, c-2, d-3",
+          "a-4, b-3, c-1, d-2",
           "a-2, b-1, c-3, d-4",
           "a-4, b-2, c-3, d-1",
-          "a-4, b-3, c-1, d-2"
+          "a-4, b-1, c-2, d-3"
         ],
         "explanation": "மேக்னடைட் – இயற்கைக் காந்தம்; சுழலும் சிறு காந்தம் – திசைகாட்டிப் பெட்டி; கோபால்ட் – ஃபெர்ரோ காந்தப்பொருள்; பிஸ்மத் – டயா காந்தப்பொருள்."
       }
@@ -358,12 +358,12 @@
       "bloom": "remember",
       "page": 82,
       "quote": "Define magnetic field.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The magnetic field is defined as ______.",
         "options": [
-          "the force of attraction at the poles",
           "the space around a magnet in which its magnetic effect or influence is observed",
+          "the force of attraction at the poles",
           "the line joining the two poles",
           "the material of the magnet"
         ],
@@ -372,8 +372,8 @@
       "ta": {
         "q": "காந்தப் புலம் என்பது ______.",
         "options": [
-          "முனைகளிலுள்ள கவர்ச்சி விசை",
           "ஒரு காந்தத்தைச் சுற்றி அதன் காந்த விளைவு உணரப்படும் வெளி",
+          "முனைகளிலுள்ள கவர்ச்சி விசை",
           "இரு முனைகளையும் இணைக்கும் கோடு",
           "காந்தத்தின் பொருள்"
         ],
@@ -474,24 +474,24 @@
       "bloom": "remember",
       "page": 82,
       "quote": "How can you identify non-magnetic materials? Give an example of a non-magnetic material.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Which of the following is a non-magnetic material?",
         "options": [
-          "Plastic cloth hanger",
+          "Nickel",
           "Iron nail",
           "Cobalt",
-          "Nickel"
+          "Plastic cloth hanger"
         ],
         "explanation": "Materials not attracted by a magnet (like plastic, paper, wood, eraser) are non-magnetic."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் காந்தத்தன்மையற்ற பொருள் எது?",
         "options": [
-          "பிளாஸ்டிக் துணி மாட்டி",
+          "நிக்கல்",
           "இரும்பு ஆணி",
           "கோபால்ட்",
-          "நிக்கல்"
+          "பிளாஸ்டிக் துணி மாட்டி"
         ],
         "explanation": "காந்தத்தால் கவரப்படாத பிளாஸ்டிக், காகிதம், மரம், அழிப்பான் போன்றவை காந்தத்தன்மையற்றவை."
       }

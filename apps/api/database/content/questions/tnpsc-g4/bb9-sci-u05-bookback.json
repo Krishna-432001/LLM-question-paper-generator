@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 63,
       "quote": "3. The part of the AC generator that passes the current from the armature coil to the external circuit is a) field magnet b) split rings c) slip rings d) brushes",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The part of an AC generator that passes the current from the armature coil to the external circuit is the",
         "options": [
           "field magnet",
           "split rings",
-          "iron core",
-          "brushes"
+          "brushes",
+          "iron core"
         ],
         "explanation": "Two stationary conducting brushes rest on the slip rings and their outer ends are connected to the external circuit; the book key is brushes."
       },
@@ -26,8 +26,8 @@
         "options": [
           "புலக் காந்தம்",
           "பிளவு வளையங்கள்",
-          "இரும்பு உள்ளகம்",
-          "தூரிகைகள்"
+          "தூரிகைகள்",
+          "இரும்பு உள்ளகம்"
         ],
         "explanation": "நழுவு வளையங்களின் மீது தொடும் இரு நிலையான தூரிகைகளின் வெளிமுனைகள் வெளிச் சுற்றுடன் இணைக்கப்பட்டுள்ளன; நூலின் விடை: தூரிகைகள்."
       }
@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 64,
       "quote": "2. Devices which is used to convert high alternating current to low alternating current is ______.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "A device used to convert a high alternating voltage into a low alternating voltage is a",
         "options": [
-          "step-up transformer",
+          "step-down transformer",
           "dc generator",
           "electric motor",
-          "step-down transformer"
+          "step-up transformer"
         ],
         "explanation": "A step-down transformer has fewer turns in the secondary coil than in the primary (Ns < Np)."
       },
       "ta": {
         "q": "உயர் மாறுதிசை மின்னழுத்தத்தைக் குறைந்த மாறுதிசை மின்னழுத்தமாக மாற்றப் பயன்படும் கருவி",
         "options": [
-          "ஏற்று மின்மாற்றி",
+          "இறக்கு மின்மாற்றி",
           "DC மின்னியற்றி",
           "மின்மோட்டார்",
-          "இறக்கு மின்மாற்றி"
+          "ஏற்று மின்மாற்றி"
         ],
         "explanation": "இறக்கு மின்மாற்றியில் துணைச் சுருளின் சுற்றுகள் முதன்மைச் சுருளை விடக் குறைவு (Ns < Np)."
       }
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 64,
       "quote": "3. An electric motor converts ______.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "An electric motor converts",
         "options": [
           "mechanical energy into electrical energy",
           "heat energy into electrical energy",
-          "electrical energy into mechanical energy",
-          "sound energy into light"
+          "sound energy into light",
+          "electrical energy into mechanical energy"
         ],
         "explanation": "A motor works on the force experienced by a current-carrying coil in a magnetic field."
       },
@@ -84,8 +84,8 @@
         "options": [
           "இயந்திர ஆற்றலை மின்னாற்றலாக",
           "வெப்ப ஆற்றலை மின்னாற்றலாக",
-          "மின்னாற்றலை இயந்திர ஆற்றலாக",
-          "ஒலியாற்றலை ஒளியாக"
+          "ஒலியாற்றலை ஒளியாக",
+          "மின்னாற்றலை இயந்திர ஆற்றலாக"
         ],
         "explanation": "காந்தப்புலத்தில் மின்னோட்டம் பாயும் சுருள் உணரும் விசையின் அடிப்படையில் மோட்டார் செயல்படுகிறது."
       }
@@ -97,14 +97,14 @@
       "bloom": "remember",
       "page": 64,
       "quote": "4. A device for producing electric current is ______.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "A device for producing electric current by electromagnetic induction is a",
         "options": [
           "motor",
-          "generator (dynamo)",
+          "rheostat",
           "ammeter",
-          "rheostat"
+          "generator (dynamo)"
         ],
         "explanation": "An electric generator converts mechanical energy into electrical energy."
       },
@@ -112,9 +112,9 @@
         "q": "மின்னோட்டத்தை உருவாக்குவதற்கான ஒரு கருவி",
         "options": [
           "மோட்டார்",
-          "மின்னியற்றி (டைனமோ)",
+          "ரியோஸ்டாட்",
           "அம்மீட்டர்",
-          "ரியோஸ்டாட்"
+          "மின்னியற்றி (டைனமோ)"
         ],
         "explanation": "மின்னியற்றி இயந்திர ஆற்றலை மின்னாற்றலாக மாற்றுகிறது."
       }
@@ -126,24 +126,24 @@
       "bloom": "remember",
       "page": 64,
       "quote": "III. Match the following. 1. Magnetic material (b) Iron 2. Non-magnetic material (d) Wood 3. Current and magnetism (a) Oersted 4. Electromagnetic induction (e) Faraday",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Match List I with List II:\n(a) Magnetic material\n(b) Non-magnetic material\n(c) Current and magnetism\n(d) Electromagnetic induction\n— \n(1) Oersted\n(2) Iron\n(3) Faraday\n(4) Wood",
         "options": [
-          "a-2, b-1, c-3, d-4",
+          "a-2, b-4, c-1, d-3",
           "a-2, b-3, c-1, d-4",
           "a-4, b-1, c-2, d-3",
-          "a-2, b-4, c-1, d-3"
+          "a-2, b-1, c-3, d-4"
         ],
         "explanation": "Iron is magnetic, wood is non-magnetic; Oersted linked current with magnetism; Faraday discovered electromagnetic induction."
       },
       "ta": {
         "q": "பட்டியல் I-ஐப் பட்டியல் II உடன் பொருத்துக:\n(a) காந்தப் பொருள்\n(b) காந்தமல்லாத பொருள்\n(c) மின்னோட்டம் மற்றும் காந்தவியல்\n(d) மின்காந்தத் தூண்டல்\n— \n(1) அயர்ஸ்டெட்\n(2) இரும்பு\n(3) ஃபாரடே\n(4) மரம்",
         "options": [
-          "a-2, b-1, c-3, d-4",
+          "a-2, b-4, c-1, d-3",
           "a-2, b-3, c-1, d-4",
           "a-4, b-1, c-2, d-3",
-          "a-2, b-4, c-1, d-3"
+          "a-2, b-1, c-3, d-4"
         ],
         "explanation": "இரும்பு காந்தப் பொருள்; மரம் காந்தமல்லாதது; ஆயர்ஸ்டெட் மின்னோட்டத்தையும் காந்தவியலையும் இணைத்தார்; ஃபாரடே மின்காந்தத் தூண்டலைக் கண்டறிந்தார்."
       }
@@ -213,12 +213,12 @@
       "bloom": "understand",
       "page": 64,
       "quote": "2. Magnetic field lines always repel each other and do not intersect.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Which statement about magnetic lines of force is correct?",
         "options": [
-          "They are closed continuous curves that never intersect",
           "They intersect at the poles",
+          "They are closed continuous curves that never intersect",
           "They start at the south pole and end at the north pole",
           "They are straight lines that repel each other"
         ],
@@ -227,8 +227,8 @@
       "ta": {
         "q": "காந்தவிசைக் கோடுகள் குறித்துச் சரியான கூற்று",
         "options": [
-          "அவை மூடிய தொடர்ச்சியான வளைவுகள்; ஒன்றையொன்று வெட்டிக்கொள்வதில்லை",
           "அவை துருவங்களில் வெட்டிக்கொள்கின்றன",
+          "அவை மூடிய தொடர்ச்சியான வளைவுகள்; ஒன்றையொன்று வெட்டிக்கொள்வதில்லை",
           "அவை தென்துருவத்தில் தொடங்கி வடதுருவத்தில் முடிகின்றன",
           "அவை ஒன்றையொன்று விலக்கும் நேர்கோடுகள்"
         ],
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 64,
       "quote": "V. 1. State Fleming's Left Hand Rule.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "According to Fleming's left hand rule, when the forefinger, second (middle) finger and thumb of the left hand are mutually perpendicular, the forefinger shows the magnetic field, the middle finger shows the current and the thumb shows the",
         "options": [
           "direction of induced voltage",
-          "direction of force or motion of the conductor",
           "direction of the magnetic pole",
+          "direction of force or motion of the conductor",
           "direction of the electron flow"
         ],
         "explanation": "Left-hand rule: field (forefinger), current (second finger), force/motion (thumb)."
@@ -315,8 +315,8 @@
         "q": "ஃபிளெமிங்கின் இடக்கை விதிப்படி இடக்கையின் சுட்டுவிரல் காந்தப்புலத்தையும், நடுவிரல் மின்னோட்டத்தையும் காட்டினால், பெருவிரல் காட்டுவது",
         "options": [
           "தூண்டப்பட்ட மின்னழுத்தத் திசை",
-          "கடத்தியின் விசை அல்லது இயக்கத்தின் திசை",
           "காந்தத் துருவத் திசை",
+          "கடத்தியின் விசை அல்லது இயக்கத்தின் திசை",
           "எலக்ட்ரான் பாய்வுத் திசை"
         ],
         "explanation": "இடக்கை விதி: புலம் (சுட்டுவிரல்), மின்னோட்டம் (நடுவிரல்), விசை அல்லது இயக்கம் (பெருவிரல்)."
@@ -329,24 +329,24 @@
       "bloom": "remember",
       "page": 64,
       "quote": "2. Define magnetic flux density.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Magnetic flux density is the",
         "options": [
-          "number of magnetic field lines crossing unit area kept normal to the field",
+          "work done in moving a charge",
           "total number of field lines in a magnet",
           "force on a unit pole",
-          "work done in moving a charge"
+          "number of magnetic field lines crossing unit area kept normal to the field"
         ],
         "explanation": "Magnetic flux density is flux per unit normal area; its unit is Wb m^-2."
       },
       "ta": {
         "q": "காந்தப் பாய அடர்த்தி என்பது",
         "options": [
-          "புலத்திற்குச் செங்குத்தாக உள்ள ஓரலகு பரப்பைக் கடக்கும் காந்தப் புலக்கோடுகளின் எண்ணிக்கை",
+          "மின்னூட்டத்தை நகர்த்தச் செய்யப்படும் வேலை",
           "ஒரு காந்தத்தின் மொத்தப் புலக்கோடுகள்",
           "ஓரலகு துருவத்தின் மீதான விசை",
-          "மின்னூட்டத்தை நகர்த்தச் செய்யப்படும் வேலை"
+          "புலத்திற்குச் செங்குத்தாக உள்ள ஓரலகு பரப்பைக் கடக்கும் காந்தப் புலக்கோடுகளின் எண்ணிக்கை"
         ],
         "explanation": "காந்தப் பாய அடர்த்தி = ஓரலகு செங்குத்துப் பரப்பைக் கடக்கும் பாயம்; அலகு Wb மீ^-2."
       }
@@ -358,13 +358,13 @@
       "bloom": "remember",
       "page": 64,
       "quote": "3. List the main parts of an electric motor.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Which of the following is a main part of a DC electric motor?",
         "options": [
           "Slip rings",
-          "Iron ring with two coils",
           "Split ring commutator",
+          "Iron ring with two coils",
           "Primary coil"
         ],
         "explanation": "A DC motor has a coil, permanent magnet, carbon brushes and a split ring commutator that reverses the current every half rotation."
@@ -373,8 +373,8 @@
         "q": "DC மின்மோட்டாரின் முக்கியப் பகுதிகளில் ஒன்று",
         "options": [
           "நழுவு வளையங்கள்",
-          "இரு சுருள்கள் கொண்ட இரும்பு வளையம்",
           "பிளவு வளைய திசைமாற்றி",
+          "இரு சுருள்கள் கொண்ட இரும்பு வளையம்",
           "முதன்மைச் சுருள்"
         ],
         "explanation": "சுருள், நிலைக்காந்தம், கார்பன் தூரிகைகள், ஒவ்வோர் அரைச்சுற்றிலும் மின்னோட்டத்தின் திசையை மாற்றும் பிளவு வளைய திசைமாற்றி ஆகியவை மோட்டாரின் பகுதிகள்."
@@ -387,24 +387,24 @@
       "bloom": "apply",
       "page": 64,
       "quote": "7. A portable radio has a built in transformer so that it can work from the mains instead of batteries. Is this a step up or step down transformer? Give reason.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "A portable radio has a built-in transformer so that it can run from the mains. This is a ______ transformer because ______.",
         "options": [
-          "step-down; the mains voltage is higher than the low voltage the radio needs",
+          "step-up; the mains voltage is lower than the radio needs",
           "step-up; the radio needs a very high voltage",
           "step-down; it increases the current to infinity",
-          "step-up; the mains voltage is lower than the radio needs"
+          "step-down; the mains voltage is higher than the low voltage the radio needs"
         ],
         "explanation": "Radios work at a few volts, so the 220 V mains voltage must be stepped down."
       },
       "ta": {
         "q": "கையடக்க வானொலியில் மின்மாற்றி பொருத்தப்பட்டு வீட்டு மின்சாரத்தில் இயங்குகிறது. இது ______ மின்மாற்றி; ஏனெனில் ______.",
         "options": [
-          "இறக்கு; வானொலிக்குத் தேவையான குறைந்த மின்னழுத்தத்தை விட வீட்டு மின்னழுத்தம் அதிகம்",
+          "ஏற்று; வீட்டு மின்னழுத்தம் வானொலிக்குத் தேவையானதை விடக் குறைவு",
           "ஏற்று; வானொலிக்கு மிக உயர்ந்த மின்னழுத்தம் தேவை",
           "இறக்கு; மின்னோட்டத்தை எல்லையின்றி உயர்த்தும்",
-          "ஏற்று; வீட்டு மின்னழுத்தம் வானொலிக்குத் தேவையானதை விடக் குறைவு"
+          "இறக்கு; வானொலிக்குத் தேவையான குறைந்த மின்னழுத்தத்தை விட வீட்டு மின்னழுத்தம் அதிகம்"
         ],
         "explanation": "வானொலி சில வோல்ட்டில் இயங்கும்; எனவே 220 V மின்னழுத்தம் குறைக்கப்பட வேண்டும்."
       }
@@ -416,13 +416,13 @@
       "bloom": "remember",
       "page": 64,
       "quote": "8. State Faraday's laws of electromagnetic induction.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Faraday concluded that whenever the magnetic flux linked with a closed circuit changes",
         "options": [
-          "the circuit is destroyed",
-          "no emf is produced",
           "an emf is induced, proportional to the rate of change of flux",
+          "no emf is produced",
+          "the circuit is destroyed",
           "the flux becomes zero"
         ],
         "explanation": "The induced emf varies directly as the rate at which the flux changes; the phenomenon is called electromagnetic induction."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "மூடிய சுற்றுடன் தொடர்புடைய காந்தப் பாயம் மாறும்போதெல்லாம் ஃபாரடேயின் முடிவு",
         "options": [
-          "சுற்று அழிந்துவிடும்",
-          "மின்னியக்கு விசை உருவாகாது",
           "பாய மாற்ற வீதத்திற்கு நேர்தகவில் மின்னியக்கு விசை தூண்டப்படும்",
+          "மின்னியக்கு விசை உருவாகாது",
+          "சுற்று அழிந்துவிடும்",
           "பாயம் சுழியாகும்"
         ],
         "explanation": "தூண்டப்படும் மின்னியக்கு விசை பாயம் மாறும் வீதத்திற்கு நேர்தகவு; இந்நிகழ்வு மின்காந்தத் தூண்டல்."

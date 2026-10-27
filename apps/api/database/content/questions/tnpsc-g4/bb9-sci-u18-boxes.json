@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 210,
       "quote": "The stomach is an organ that consists of tissues made of epithelial cells, gland cells and muscle cells.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The stomach is an example of an",
         "options": [
           "organelle",
-          "organ made of epithelial, gland and muscle tissues",
           "single tissue",
+          "organ made of epithelial, gland and muscle tissues",
           "cell"
         ],
         "explanation": "A tissue is a group of cells; an organ is a collection of tissues."
@@ -54,8 +54,8 @@
         "q": "இரைப்பை என்பது",
         "options": [
           "செல் நுண்ணுறுப்பு",
-          "எபிதீலிய, சுரப்பி, தசைத் திசுக்களால் ஆன உறுப்பு",
           "ஒரே திசு",
+          "எபிதீலிய, சுரப்பி, தசைத் திசுக்களால் ஆன உறுப்பு",
           "செல்"
         ],
         "explanation": "திசு என்பது செல்களின் தொகுப்பு; உறுப்பு என்பது திசுக்களின் தொகுப்பு."
@@ -68,13 +68,13 @@
       "bloom": "remember",
       "page": 211,
       "quote": "Characteristic features of meristem: living cells; small, oval, polygonal or round; thin walled with dense cytoplasm, large nuclei and small vacuoles; mitotic division; do not store food materials.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which is a characteristic of meristematic cells?",
         "options": [
           "Thick lignified wall",
-          "Thin wall, dense cytoplasm and large nucleus",
           "Large central vacuole",
+          "Thin wall, dense cytoplasm and large nucleus",
           "Storage of food materials"
         ],
         "explanation": "They are living, divide by mitosis and do not store food."
@@ -83,8 +83,8 @@
         "q": "ஆக்குத் திசு செல்களின் பண்பு எது?",
         "options": [
           "தடித்த லிக்னின் சுவர்",
-          "மெல்லிய சுவர், அடர்ந்த சைட்டோபிளாசம், பெரிய உட்கரு",
           "பெரிய மைய வெற்றிடம்",
+          "மெல்லிய சுவர், அடர்ந்த சைட்டோபிளாசம், பெரிய உட்கரு",
           "உணவைச் சேமித்தல்"
         ],
         "explanation": "இவை உயிருள்ளவை, மைட்டாசிஸால் பிரிபவை, உணவைச் சேமிப்பதில்லை."
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 211,
       "quote": "Meristems are responsible for primary (elongation) and secondary (thickness) growth of the plant.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Primary growth (elongation) of a plant is due to",
         "options": [
           "lateral meristem",
-          "permanent tissue",
+          "apical meristem",
           "sclerenchyma",
-          "apical meristem"
+          "permanent tissue"
         ],
         "explanation": "Secondary growth (thickness) is due to lateral meristems."
       },
@@ -141,9 +141,9 @@
         "q": "தாவரத்தின் முதன்மை வளர்ச்சிக்கு (நீளம்) காரணம்",
         "options": [
           "பக்க ஆக்குத் திசு",
-          "நிலைத் திசு",
+          "நுனி ஆக்குத் திசு",
           "ஸ்கிளிரன்கைமா",
-          "நுனி ஆக்குத் திசு"
+          "நிலைத் திசு"
         ],
         "explanation": "பக்க ஆக்குத் திசுக்களால் இரண்டாம்நிலை (தடிமன்) வளர்ச்சி நிகழ்கிறது."
       }
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 211,
       "quote": "Permanent tissues are those in which growth has stopped either completely or for the time being. At times, they become meristematic partially or wholly.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Permanent tissues are those in which",
         "options": [
           "cells are always dead",
           "cells divide continuously",
-          "growth has stopped completely or for the time being",
-          "only xylem is present"
+          "only xylem is present",
+          "growth has stopped completely or for the time being"
         ],
         "explanation": "They are of two types: simple tissue and complex tissue."
       },
@@ -171,8 +171,8 @@
         "options": [
           "எப்போதும் இறந்த செல்களால் ஆனவை",
           "தொடர்ந்து பிரிவடைபவை",
-          "வளர்ச்சி முழுமையாகவோ தற்காலிகமாகவோ நின்று போனவை",
-          "சைலம் மட்டும் உள்ளவை"
+          "சைலம் மட்டும் உள்ளவை",
+          "வளர்ச்சி முழுமையாகவோ தற்காலிகமாகவோ நின்று போனவை"
         ],
         "explanation": "இவை தனி நிலைத் திசு, கூட்டு நிலைத் திசு என இருவகைப்படும்."
       }
@@ -184,12 +184,12 @@
       "bloom": "remember",
       "page": 211,
       "quote": "Parenchyma: In aquatic plants ... Aerenchyma. When exposed to light, parenchyma cells may develop chloroplasts and are known as Chlorenchyma.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Parenchyma cells that develop chloroplasts on exposure to light are called",
         "options": [
-          "aerenchyma",
           "chlorenchyma",
+          "aerenchyma",
           "collenchyma",
           "sclereids"
         ],
@@ -198,8 +198,8 @@
       "ta": {
         "q": "ஒளி படும்போது பசுங்கணிகங்களைப் பெறும் பாரன்கைமா செல்கள்",
         "options": [
-          "ஏரன்கைமா",
           "குளோரன்கைமா",
+          "ஏரன்கைமா",
           "கோலன்கைமா",
           "ஸ்கிளிரீடுகள்"
         ],
@@ -213,24 +213,24 @@
       "bloom": "remember",
       "page": 211,
       "quote": "In potato, parenchyma vacuoles are filled with starch. In apple, parenchyma stores sugar.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "In a potato, parenchyma vacuoles are filled with",
         "options": [
-          "starch",
+          "protein only",
           "oil",
           "sugar",
-          "protein only"
+          "starch"
         ],
         "explanation": "In apple, parenchyma stores sugar."
       },
       "ta": {
         "q": "உருளைக்கிழங்கில் பாரன்கைமாவின் புரோட்டோபிளாசம் வெற்றிடங்கள் நிரம்பியிருப்பது",
         "options": [
-          "ஸ்டார்ச்",
+          "புரதம் மட்டும்",
           "எண்ணெய்",
           "சர்க்கரை",
-          "புரதம் மட்டும்"
+          "ஸ்டார்ச்"
         ],
         "explanation": "ஆப்பிளின் பாரன்கைமா சர்க்கரையைச் சேமிக்கிறது."
       }
@@ -242,24 +242,24 @@
       "bloom": "remember",
       "page": 211,
       "quote": "Collenchyma: living tissue found beneath the epidermis. Cells are elongated with unevenly thickened walls ... thick primary non-lignified walls. They provide mechanical support for growing organs.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Collenchyma is found",
         "options": [
-          "in the xylem only",
+          "beneath the epidermis, with unevenly thickened non-lignified walls",
           "as dead lignified cells",
           "in the root cap only",
-          "beneath the epidermis, with unevenly thickened non-lignified walls"
+          "in the xylem only"
         ],
         "explanation": "It provides mechanical support to growing organs."
       },
       "ta": {
         "q": "கோலன்கைமா காணப்படுவது",
         "options": [
-          "சைலத்தில் மட்டும்",
+          "புறத்தோலுக்குக் கீழே; சீரற்றுத் தடித்த, லிக்னின் அற்ற சுவருடன்",
           "லிக்னின் சுவருடைய இறந்த செல்களாக",
           "வேர்மூடியில் மட்டும்",
-          "புறத்தோலுக்குக் கீழே; சீரற்றுத் தடித்த, லிக்னின் அற்ற சுவருடன்"
+          "சைலத்தில் மட்டும்"
         ],
         "explanation": "இது வளரும் உறுப்புகளுக்கு இயந்திர ஆதாரம் அளிக்கிறது."
       }
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 212,
       "quote": "Sclerenchyma consists of thick walled cells which are often lignified. Sclerenchyma cells are dead and do not possess living protoplasts at maturity. Fibres and sclereids.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Sclerenchyma cells at maturity are",
         "options": [
           "living meristematic cells",
           "living with large vacuoles",
-          "dead, with thick lignified walls",
-          "chloroplast-containing cells"
+          "chloroplast-containing cells",
+          "dead, with thick lignified walls"
         ],
         "explanation": "They are grouped into fibres and sclereids."
       },
@@ -287,8 +287,8 @@
         "options": [
           "உயிருள்ள ஆக்குத் திசு செல்கள்",
           "பெரிய வெற்றிடங்களுடன் உயிருள்ளவை",
-          "தடித்த லிக்னின் சுவருடன் இறந்தவை",
-          "பசுங்கணிகம் கொண்டவை"
+          "பசுங்கணிகம் கொண்டவை",
+          "தடித்த லிக்னின் சுவருடன் இறந்தவை"
         ],
         "explanation": "இவை நார்கள், ஸ்கிளிரீடுகள் என இருவகைப்படும்."
       }
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 212,
       "quote": "Fibres ... average length 1 to 3 mm; however in Linum usitatissimum (flax), Cannabis sativa (hemp) and Corchorus capsularis (jute), fibres are extensively longer, ranging from 20 mm to 550 mm.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Extra-long fibres (20 mm to 550 mm) are found in",
         "options": [
           "potato, apple and carrot",
-          "flax, hemp and jute",
           "grass, bamboo and cactus",
+          "flax, hemp and jute",
           "pine and cycas"
         ],
         "explanation": "The average length of fibres is 1 to 3 mm."
@@ -315,8 +315,8 @@
         "q": "மிக நீண்ட நார்கள் (20 மி.மீ - 550 மி.மீ) காணப்படுவது",
         "options": [
           "உருளைக்கிழங்கு, ஆப்பிள், கேரட்",
-          "ஆளி, ஹெம்ப், சணல்",
           "புல், மூங்கில், கள்ளி",
+          "ஆளி, ஹெம்ப், சணல்",
           "பைனஸ், சைகஸ்"
         ],
         "explanation": "நார்களின் சராசரி நீளம் 1-3 மி.மீ."
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 212,
       "quote": "Sclereids are widely distributed in plant body. ... isodiametric, with lignified walls. Pits are prominent ... also common in fruits and seeds.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Sclereids are",
         "options": [
-          "isodiametric cells with lignified walls and prominent pits",
-          "living thin-walled cells",
           "long pointed fibres",
+          "living thin-walled cells",
+          "isodiametric cells with lignified walls and prominent pits",
           "sieve tubes"
         ],
         "explanation": "They are also common in fruits and seeds."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "ஸ்கிளிரீடுகள் என்பவை",
         "options": [
-          "லிக்னின் சுவருடன் சம விட்டமுடைய, தெளிவான குழிகளுடைய செல்கள்",
-          "உயிருள்ள மெல்லிய சுவர் செல்கள்",
           "நீண்ட கூர்முனை நார்கள்",
+          "உயிருள்ள மெல்லிய சுவர் செல்கள்",
+          "லிக்னின் சுவருடன் சம விட்டமுடைய, தெளிவான குழிகளுடைய செல்கள்",
           "சல்லடைக் குழாய்கள்"
         ],
         "explanation": "பழங்கள், விதைகளிலும் இவை பொதுவாகக் காணப்படுகின்றன."
@@ -358,24 +358,24 @@
       "bloom": "remember",
       "page": 212,
       "quote": "Xylem is a conducting tissue which conducts water, mineral nutrients upward from root to leaves. Xylem is composed of: xylem tracheids, xylem fibres, xylem vessels and xylem parenchyma.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Xylem conducts",
         "options": [
-          "food from leaves to roots",
+          "water and minerals upward from roots to leaves",
           "gases",
           "hormones only",
-          "water and minerals upward from roots to leaves"
+          "food from leaves to roots"
         ],
         "explanation": "It also gives mechanical support to the plant body."
       },
       "ta": {
         "q": "சைலம் கடத்துவது",
         "options": [
-          "இலையிலிருந்து வேருக்கு உணவை",
+          "வேரிலிருந்து இலைகளுக்கு நீரையும் கனிமங்களையும் மேல்நோக்கி",
           "வாயுக்களை",
           "ஹார்மோன்களை மட்டும்",
-          "வேரிலிருந்து இலைகளுக்கு நீரையும் கனிமங்களையும் மேல்நோக்கி"
+          "இலையிலிருந்து வேருக்கு உணவை"
         ],
         "explanation": "இது தாவர உடலுக்கு இயந்திர ஆதாரமும் அளிக்கிறது."
       }
@@ -387,13 +387,13 @@
       "bloom": "remember",
       "page": 213,
       "quote": "Xylem parenchyma: living and thin walled cells. The main function ... to store starch and fatty substances. Xylem fibres: elongated, lignified and pointed at both ends ... mechanical support.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which xylem element is living and stores starch and fatty substances?",
         "options": [
-          "Xylem vessels",
-          "Xylem tracheids",
           "Xylem parenchyma",
+          "Xylem tracheids",
+          "Xylem vessels",
           "Xylem fibres"
         ],
         "explanation": "Tracheids, vessels and fibres are dead cells; xylem parenchyma is living."
@@ -401,9 +401,9 @@
       "ta": {
         "q": "உயிருள்ள, ஸ்டார்ச், கொழுப்புப் பொருள்களைச் சேமிக்கும் சைலக் கூறு",
         "options": [
-          "சைலம் நீர்க்குழாய்கள்",
-          "சைலம் டிரக்கீடுகள்",
           "சைலம் பாரன்கைமா",
+          "சைலம் டிரக்கீடுகள்",
+          "சைலம் நீர்க்குழாய்கள்",
           "சைலம் நார்கள்"
         ],
         "explanation": "டிரக்கீடுகள், நீர்க்குழாய்கள், நார்கள் இறந்த செல்கள்; சைலம் பாரன்கைமா உயிருள்ளது."
@@ -416,12 +416,12 @@
       "bloom": "remember",
       "page": 213,
       "quote": "Xylem vessels: long cylindrical, tube like structures with lignified walls and wide central lumen. These cells are dead ... partitioned walls (transverse walls) are perforated ... water pipe.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Xylem vessels are",
         "options": [
-          "living cells with sieve plates",
           "dead, long tube-like cells with perforated transverse walls",
+          "living cells with sieve plates",
           "living companion cells",
           "cells that store starch"
         ],
@@ -430,8 +430,8 @@
       "ta": {
         "q": "சைலம் நீர்க்குழாய்கள் என்பவை",
         "options": [
-          "சல்லடைத் தட்டுடைய உயிருள்ள செல்கள்",
           "துளையிடப்பட்ட குறுக்குச் சுவர்களுடைய இறந்த நீண்ட குழாய் செல்கள்",
+          "சல்லடைத் தட்டுடைய உயிருள்ள செல்கள்",
           "உயிருள்ள துணைச் செல்கள்",
           "ஸ்டார்ச்சைச் சேமிக்கும் செல்கள்"
         ],
@@ -445,12 +445,12 @@
       "bloom": "remember",
       "page": 213,
       "quote": "Sieve elements: The conducting elements of phloem ... Sieve tubes ... transverse walls at the ends are perforated and are known as sieve plates. ... translocation of food from leaves to the storage organs",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The perforated transverse end walls of sieve tubes are called",
         "options": [
-          "sieve plates",
           "annuli",
+          "sieve plates",
           "pits",
           "lamellae"
         ],
@@ -459,8 +459,8 @@
       "ta": {
         "q": "சல்லடைக் குழாய்களின் துளையுடைய குறுக்கு முனைச் சுவர்கள்",
         "options": [
-          "சல்லடைத் தட்டுகள்",
           "வளையங்கள்",
+          "சல்லடைத் தட்டுகள்",
           "குழிகள்",
           "அடுக்குகள்"
         ],
@@ -474,14 +474,14 @@
       "bloom": "remember",
       "page": 213,
       "quote": "Table 18.1 Xylem: conducts water and minerals; unidirectional; conducting channels are tracheids and vessels. Phloem: conducts organic solutes; bidirectional; conducting channels are sieve tubes.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Match the tissue with its feature: (a) Xylem (b) Phloem (c) Tracheids (d) Sieve tubes - (1) Conducting channels of xylem (2) Conducting channels of phloem (3) Conducts organic food, may be bidirectional (4) Conducts water, unidirectional",
         "options": [
           "a-2, b-1, c-4, d-3",
-          "a-4, b-1, c-3, d-2",
+          "a-4, b-3, c-1, d-2",
           "a-3, b-4, c-1, d-2",
-          "a-4, b-3, c-1, d-2"
+          "a-4, b-1, c-3, d-2"
         ],
         "explanation": "Xylem is unidirectional (roots to apical parts); phloem may conduct in both directions."
       },
@@ -489,9 +489,9 @@
         "q": "திசுவையும் பண்பையும் பொருத்துக: (a) சைலம் (b) புளோயம் (c) டிரக்கீடுகள் (d) சல்லடைக் குழாய்கள் - (1) சைலத்தின் கடத்தும் வழிகள் (2) புளோயத்தின் கடத்தும் வழிகள் (3) கரிம உணவைக் கடத்தும்; இருதிசையில் செல்லலாம் (4) நீரைக் கடத்தும்; ஒரு திசையில்",
         "options": [
           "a-2, b-1, c-4, d-3",
-          "a-4, b-1, c-3, d-2",
+          "a-4, b-3, c-1, d-2",
           "a-3, b-4, c-1, d-2",
-          "a-4, b-3, c-1, d-2"
+          "a-4, b-1, c-3, d-2"
         ],
         "explanation": "சைலம் வேரிலிருந்து மேல்நோக்கி ஒரு திசையில்; புளோயம் இரு திசைகளிலும் கடத்தலாம்."
       }
@@ -503,13 +503,13 @@
       "bloom": "remember",
       "page": 213,
       "quote": "Companion cells: elongated cells attached to the lateral wall of the sieve tubes. Phloem parenchyma: living cells ... store food materials.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Which phloem element stores food materials and is a living cell with cytoplasm and nucleus?",
         "options": [
-          "Phloem fibre",
-          "Sieve tube",
           "Phloem parenchyma",
+          "Sieve tube",
+          "Phloem fibre",
           "Tracheid"
         ],
         "explanation": "Phloem fibres are lignified sclerenchymatous cells giving mechanical strength."
@@ -517,9 +517,9 @@
       "ta": {
         "q": "உணவைச் சேமிக்கும், உயிருள்ள சைட்டோபிளாசமும் உட்கருவும் உள்ள புளோயக் கூறு",
         "options": [
-          "புளோயம் நார்",
-          "சல்லடைக் குழாய்",
           "புளோயம் பாரன்கைமா",
+          "சல்லடைக் குழாய்",
+          "புளோயம் நார்",
           "டிரக்கீடு"
         ],
         "explanation": "புளோயம் நார்கள் லிக்னின் சுவருடைய ஸ்கிளிரன்கைமா செல்கள்; இயந்திர வலிமை தருபவை."
@@ -532,13 +532,13 @@
       "bloom": "remember",
       "page": 214,
       "quote": "Table 18.2: Meristematic tissue - thin wall, small spherical or polygonal undifferentiated cells, dense cytoplasm, intercellular spaces absent, large prominent nucleus, cells divide regularly. Permanent tissue - thick wall, large differentiated cells, central vacuole, intercellular spaces present.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Which statement about meristematic tissue is correct compared with permanent tissue?",
         "options": [
           "Meristematic cells have a thick wall and large vacuole",
-          "Meristematic cells divide regularly and have no intercellular spaces",
           "Meristematic cells do not divide",
+          "Meristematic cells divide regularly and have no intercellular spaces",
           "Meristematic cells have prominent intercellular spaces"
         ],
         "explanation": "Permanent tissue cells are large, differentiated and do not normally divide."
@@ -547,8 +547,8 @@
         "q": "நிலைத் திசுவுடன் ஒப்பிடும்போது ஆக்குத் திசு பற்றிய சரியான கூற்று",
         "options": [
           "தடித்த சுவரும் பெரிய வெற்றிடமும் உண்டு",
-          "செல்கள் தொடர்ந்து பிரிவடையும்; செல்லிடைவெளிகள் இல்லை",
           "செல்கள் பிரிவடைவதில்லை",
+          "செல்கள் தொடர்ந்து பிரிவடையும்; செல்லிடைவெளிகள் இல்லை",
           "தெளிவான செல்லிடைவெளிகள் உண்டு"
         ],
         "explanation": "நிலைத் திசு செல்கள் பெரியவை, வேறுபாடு அடைந்தவை; பொதுவாகப் பிரிவதில்லை."
@@ -561,13 +561,13 @@
       "bloom": "remember",
       "page": 214,
       "quote": "An assemblage of one or more types of specialized cells held together with extracellular material constitute the tissue. The study of tissues is known as Histology.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "The study of tissues is known as",
         "options": [
-          "histology",
-          "taxonomy",
           "cytology",
+          "taxonomy",
+          "histology",
           "embryology"
         ],
         "explanation": "Animal tissues are of four basic types: epithelial, connective, muscular and nervous."
@@ -575,9 +575,9 @@
       "ta": {
         "q": "திசுக்களைப் பற்றிய படிப்பு",
         "options": [
-          "திசுவியல் (ஹிஸ்டாலஜி)",
-          "வகைப்பாட்டியல்",
           "செல்லியல்",
+          "வகைப்பாட்டியல்",
+          "திசுவியல் (ஹிஸ்டாலஜி)",
           "கருவியல்"
         ],
         "explanation": "விலங்குத் திசுக்கள் நான்கு வகை: எபிதீலியம், இணைப்பு, தசை, நரம்புத் திசு."
@@ -648,13 +648,13 @@
       "bloom": "remember",
       "page": 215,
       "quote": "Squamous Epithelium: thin, flat cells ... pavement membrane ... delicate lining of the buccal cavity, alveoli of lungs, proximal tubule of kidneys and covering of the skin and tongue.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Squamous epithelium, also known as pavement epithelium, lines the",
         "options": [
           "stomach and small intestine",
-          "buccal cavity and alveoli of lungs",
           "trachea",
+          "buccal cavity and alveoli of lungs",
           "bones"
         ],
         "explanation": "It protects the body from mechanical injury, drying and invasion of germs."
@@ -663,8 +663,8 @@
         "q": "செதில் எபிதீலியம் (தரை எபிதீலியம்) அமைந்திருப்பது",
         "options": [
           "இரைப்பை, சிறுகுடலில்",
-          "வாய்க்குழி, நுரையீரல் காற்றுப்பைகளின் உட்புறத்தில்",
           "மூச்சுக்குழலில்",
+          "வாய்க்குழி, நுரையீரல் காற்றுப்பைகளின் உட்புறத்தில்",
           "எலும்புகளில்"
         ],
         "explanation": "இது இயந்திரக் காயம், உலர்தல், கிருமித் தாக்குதல் ஆகியவற்றிலிருந்து உடலைக் காக்கிறது."
@@ -677,13 +677,13 @@
       "bloom": "remember",
       "page": 215,
       "quote": "Cuboidal Epithelium: single layer of cubical cells. The nucleus is round and lies in the centre. ... thyroid vesicles, salivary glands, sweat glands and exocrine pancreas ... Their main function is secretion and absorption.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Cuboidal epithelium is present in",
         "options": [
-          "thyroid vesicles, salivary glands and sweat glands",
-          "the trachea only",
           "the skin surface",
+          "the trachea only",
+          "thyroid vesicles, salivary glands and sweat glands",
           "the heart wall"
         ],
         "explanation": "Its main function is secretion and absorption."
@@ -691,9 +691,9 @@
       "ta": {
         "q": "கனசதுர எபிதீலியம் காணப்படுவது",
         "options": [
-          "தைராய்டு பைகள், உமிழ்நீர்ச் சுரப்பிகள், வியர்வைச் சுரப்பிகளில்",
-          "மூச்சுக்குழலில் மட்டும்",
           "தோலின் மேற்பரப்பில்",
+          "மூச்சுக்குழலில் மட்டும்",
+          "தைராய்டு பைகள், உமிழ்நீர்ச் சுரப்பிகள், வியர்வைச் சுரப்பிகளில்",
           "இதயச் சுவரில்"
         ],
         "explanation": "இதன் முக்கியப் பணி சுரத்தலும் உறிஞ்சுதலும்."
@@ -706,14 +706,14 @@
       "bloom": "remember",
       "page": 215,
       "quote": "Columnar Epithelium: single layer of slender, elongated and pillar like cells. Their nuclei are located at the base.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "In columnar epithelium, the nuclei are located",
         "options": [
           "at the top",
-          "in the centre",
+          "at the base of the pillar-like cells",
           "outside the cell",
-          "at the base of the pillar-like cells"
+          "in the centre"
         ],
         "explanation": "It lines the stomach, gall bladder, small intestine, colon and oviducts."
       },
@@ -721,9 +721,9 @@
         "q": "தூண் எபிதீலியத்தில் உட்கருக்கள் அமைந்திருப்பது",
         "options": [
           "மேற்பகுதியில்",
-          "மையத்தில்",
+          "தூண் வடிவச் செல்களின் அடிப்பகுதியில்",
           "செல்லுக்கு வெளியே",
-          "தூண் வடிவச் செல்களின் அடிப்பகுதியில்"
+          "மையத்தில்"
         ],
         "explanation": "இது இரைப்பை, பித்தப்பை, சிறுகுடல், பெருங்குடல், அண்டக்குழாய்களில் உள்ளது."
       }
@@ -735,13 +735,13 @@
       "bloom": "remember",
       "page": 215,
       "quote": "Ciliated epithelium ... seen in the trachea of wind-pipe, bronchioles of respiratory tract, kidney tubules and fallopian tubes of oviducts. Glandular Epithelium: gastric glands, pancreatic tubules and intestinal glands.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Match the epithelium with its location or function: (a) Ciliated (b) Glandular (c) Squamous (d) Compound - (1) Protection of dry skin surface (2) Trachea and fallopian tubes (3) Gastric glands (4) Alveoli of lungs",
         "options": [
           "a-3, b-4, c-1, d-2",
-          "a-4, b-1, c-3, d-2",
           "a-2, b-3, c-4, d-1",
+          "a-4, b-1, c-3, d-2",
           "a-2, b-4, c-3, d-1"
         ],
         "explanation": "Ciliated: trachea, bronchioles, kidney tubules and fallopian tubes; glandular: gastric glands, pancreatic tubules and intestinal glands; compound epithelium covers the dry skin surface."
@@ -750,8 +750,8 @@
         "q": "எபிதீலிய வகையையும் இடம்/பணியையும் பொருத்துக: (a) குறு இழை (b) சுரப்பி (c) செதில் (d) கூட்டு எபிதீலியம் - (1) உலர்ந்த தோல் மேற்பரப்புப் பாதுகாப்பு (2) மூச்சுக்குழல், அண்டக்குழாய்கள் (3) இரைப்பைச் சுரப்பிகள் (4) நுரையீரல் காற்றுப்பைகள்",
         "options": [
           "a-3, b-4, c-1, d-2",
-          "a-4, b-1, c-3, d-2",
           "a-2, b-3, c-4, d-1",
+          "a-4, b-1, c-3, d-2",
           "a-2, b-4, c-3, d-1"
         ],
         "explanation": "குறு இழை: மூச்சுக்குழல், அண்டக்குழாய்; சுரப்பி: இரைப்பை, கணையக் குழல்கள்; கூட்டு எபிதீலியம் தோலைப் பாதுகாக்கிறது."
@@ -764,14 +764,14 @@
       "bloom": "remember",
       "page": 216,
       "quote": "Adipose Tissue: aggregation of fat cells or adipocytes ... fat reservoir ... shock absorbers around the kidneys and eye balls. They also regulate the body temperature by acting as insulator.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Adipose tissue acts as a fat reservoir and also",
         "options": [
           "a conductor of impulses",
-          "a shock absorber and a heat insulator",
+          "a producer of platelets",
           "an oxygen carrier",
-          "a producer of platelets"
+          "a shock absorber and a heat insulator"
         ],
         "explanation": "It is found in subcutaneous tissue and around the heart and kidneys."
       },
@@ -779,9 +779,9 @@
         "q": "கொழுப்புத் திசு கொழுப்புச் சேமிப்புடன் கூடுதலாக",
         "options": [
           "தூண்டலைக் கடத்துகிறது",
-          "அதிர்ச்சித் தாங்கியாகவும் வெப்பக் காப்பானாகவும் செயல்படுகிறது",
+          "இரத்தத் தட்டுகளை உருவாக்குகிறது",
           "ஆக்ஸிஜனைக் கடத்துகிறது",
-          "இரத்தத் தட்டுகளை உருவாக்குகிறது"
+          "அதிர்ச்சித் தாங்கியாகவும் வெப்பக் காப்பானாகவும் செயல்படுகிறது"
         ],
         "explanation": "இது தோலடித் திசுவிலும் இதயம், சிறுநீரகங்களைச் சுற்றியும் உள்ளது."
       }
@@ -822,14 +822,14 @@
       "bloom": "remember",
       "page": 217,
       "quote": "Bone: solid, rigid and strong ... matrix rich in calcium salts and collagen fibres ... concentric rings called lamellae. The bone cells present in lacunae are called osteocytes ... canaliculi ... marrow cavities",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "The bone cells present in lacunae are called",
         "options": [
           "chondrocytes",
           "fibroblasts",
-          "erythrocytes",
-          "osteocytes"
+          "osteocytes",
+          "erythrocytes"
         ],
         "explanation": "They communicate with each other by a network of fine canals called canaliculi."
       },
@@ -838,8 +838,8 @@
         "options": [
           "காண்ட்ரோசைட்டுகள்",
           "ஃபைப்ரோபிளாஸ்ட்டுகள்",
-          "இரத்தச் சிவப்பணுக்கள்",
-          "ஆஸ்டியோசைட்டுகள்"
+          "ஆஸ்டியோசைட்டுகள்",
+          "இரத்தச் சிவப்பணுக்கள்"
         ],
         "explanation": "இவை கேனாலிகுலை எனும் நுண்குழல்களால் ஒன்றோடொன்று தொடர்பு கொள்கின்றன."
       }
@@ -851,13 +851,13 @@
       "bloom": "remember",
       "page": 217,
       "quote": "Tendons: cord like, strong structures that join skeletal muscles to bones. Ligaments: highly elastic structures ... connect bones to bones.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Tendons join",
         "options": [
           "skin to muscles",
-          "bones to bones",
           "skeletal muscles to bones",
+          "bones to bones",
           "nerves to muscles"
         ],
         "explanation": "Ligaments join bones to bones and strengthen the joints."
@@ -866,8 +866,8 @@
         "q": "தசைநாண்கள் இணைப்பது",
         "options": [
           "தோலைத் தசைகளுடன்",
-          "எலும்பை எலும்புடன்",
           "எலும்புத் தசைகளை எலும்புகளுடன்",
+          "எலும்பை எலும்புடன்",
           "நரம்புகளைத் தசைகளுடன்"
         ],
         "explanation": "தசைநார்கள் எலும்புகளை எலும்புகளுடன் இணைத்து மூட்டுகளை வலுப்படுத்துகின்றன."
@@ -880,14 +880,14 @@
       "bloom": "remember",
       "page": 217,
       "quote": "Sprain is caused by excessive pulling (stretching) of ligaments.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "A sprain is caused by excessive pulling (stretching) of",
         "options": [
           "tendons only",
-          "ligaments",
+          "bones",
           "cartilage",
-          "bones"
+          "ligaments"
         ],
         "explanation": "Ligaments are highly elastic and connect bones to bones."
       },
@@ -895,9 +895,9 @@
         "q": "மூட்டுப் பிசகு (சுளுக்கு) ஏற்படக் காரணம் எவை மிகையாக இழுக்கப்படுவது?",
         "options": [
           "தசைநாண்கள் மட்டும்",
-          "தசைநார்கள்",
+          "எலும்புகள்",
           "குருத்தெலும்பு",
-          "எலும்புகள்"
+          "தசைநார்கள்"
         ],
         "explanation": "தசைநார்கள் மிகுந்த மீள்தன்மையுடையவை; எலும்பை எலும்புடன் இணைக்கின்றன."
       }
@@ -938,24 +938,24 @@
       "bloom": "remember",
       "page": 218,
       "quote": "White blood corpuscles: larger, distinct nucleus, colourless, amoeboid movement ... Granulocytes: neutrophils, basophils and eosinophils. Agranulocytes: lymphocytes and monocytes.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which of the following is an agranulocyte?",
         "options": [
-          "Neutrophil",
+          "Lymphocyte",
           "Basophil",
           "Eosinophil",
-          "Lymphocyte"
+          "Neutrophil"
         ],
         "explanation": "Granulocytes include neutrophils, basophils and eosinophils; agranulocytes include lymphocytes and monocytes."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் சிறுமணிகளற்ற வெள்ளையணு (அகிரானுலோசைட்) எது?",
         "options": [
-          "நியூட்ரோஃபில்",
+          "லிம்போசைட்",
           "பேசோஃபில்",
           "ஈசினோஃபில்",
-          "லிம்போசைட்"
+          "நியூட்ரோஃபில்"
         ],
         "explanation": "நியூட்ரோஃபில், பேசோஃபில், ஈசினோஃபில் சிறுமணி வெள்ளையணுக்கள்; லிம்போசைட், மோனோசைட் சிறுமணியற்றவை."
       }
@@ -967,14 +967,14 @@
       "bloom": "remember",
       "page": 218,
       "quote": "Lymph is a colourless fluid filtered out of the blood capillaries. It consists of plasma and white blood cells. It mainly helps in the exchange of materials between blood and tissue fluids.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Lymph is a colourless fluid consisting of",
         "options": [
           "platelets only",
           "plasma and red blood cells",
-          "plasma and white blood cells",
-          "haemoglobin only"
+          "haemoglobin only",
+          "plasma and white blood cells"
         ],
         "explanation": "It helps in the exchange of materials between blood and tissue fluids."
       },
@@ -983,8 +983,8 @@
         "options": [
           "இரத்தத் தட்டுகள் மட்டும்",
           "பிளாஸ்மாவும் சிவப்பணுக்களும்",
-          "பிளாஸ்மாவும் வெள்ளையணுக்களும்",
-          "ஹீமோகுளோபின் மட்டும்"
+          "ஹீமோகுளோபின் மட்டும்",
+          "பிளாஸ்மாவும் வெள்ளையணுக்களும்"
         ],
         "explanation": "இது இரத்தத்திற்கும் திசுத் திரவத்திற்கும் இடையே பொருள் பரிமாற்றத்திற்கு உதவுகிறது."
       }
@@ -996,12 +996,12 @@
       "bloom": "remember",
       "page": 218,
       "quote": "Skeletal muscle: ... voluntary muscles ... striated ... multinucleate ... biceps and triceps. Smooth muscle: spindle shaped ... uninucleate ... non-striated ... involuntary. Cardiac muscle: branched, uninucleate; intercalated disc.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Match the muscle type with its feature: (a) Skeletal muscle (b) Smooth muscle (c) Cardiac muscle (d) Intercalated disc - (1) Striated and multinucleate (2) Unique feature of cardiac muscle (3) Found in the heart, involuntary and rhythmic (4) Spindle shaped, non-striated",
         "options": [
-          "a-2, b-4, c-1, d-3",
           "a-1, b-4, c-3, d-2",
+          "a-2, b-4, c-1, d-3",
           "a-3, b-1, c-4, d-2",
           "a-3, b-4, c-2, d-1"
         ],
@@ -1010,8 +1010,8 @@
       "ta": {
         "q": "தசை வகையையும் பண்பையும் பொருத்துக: (a) எலும்புத் தசை (b) மென்தசை (c) இதயத் தசை (d) இடைச்செருகு வட்டு - (1) வரியுடையது, பல உட்கரு (2) இதயத் தசையின் தனிச்சிறப்பு (3) இதயத்தில், தன்னிச்சையற்ற, தாளமுடைய சுருக்கம் (4) நுனி குறுகிய, வரியற்றது",
         "options": [
-          "a-2, b-4, c-1, d-3",
           "a-1, b-4, c-3, d-2",
+          "a-2, b-4, c-1, d-3",
           "a-3, b-1, c-4, d-2",
           "a-3, b-4, c-2, d-1"
         ],
@@ -1025,12 +1025,12 @@
       "bloom": "remember",
       "page": 219,
       "quote": "Nervous tissue comprises of the nerve cells or neurons. They are the longest cells of the body. ... cell body or cyton ... dendrons ... axon ... Nerve cells do not undergo cell division due to the absence of centrioles",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "According to the book, nerve cells do not undergo cell division because of the absence of",
         "options": [
-          "centrioles",
           "a nucleus",
+          "centrioles",
           "mitochondria",
           "an axon"
         ],
@@ -1039,8 +1039,8 @@
       "ta": {
         "q": "பாடநூலின்படி, நரம்புச் செல்கள் பிரிவடையாமல் இருக்கக் காரணம் அவற்றில் இல்லாதது",
         "options": [
-          "சென்ட்ரியோல்கள்",
           "உட்கரு",
+          "சென்ட்ரியோல்கள்",
           "மைட்டோகாண்ட்ரியா",
           "ஆக்ஸான்"
         ],
@@ -1054,24 +1054,24 @@
       "bloom": "remember",
       "page": 219,
       "quote": "Neuron: cell body or cyton with nucleus and cytoplasm. The dendrons are short and highly branched protoplasmic processes of cyton. The axon is a single, long fibre like process ...",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "The single long fibre-like process of a neuron that ends in fine terminal branches is the",
         "options": [
-          "dendron",
+          "axon",
           "cyton",
           "myelin",
-          "axon"
+          "dendron"
         ],
         "explanation": "Dendrons are the short, highly branched processes of the cyton."
       },
       "ta": {
         "q": "நியூரானின் ஒற்றை நீண்ட இழை போன்ற, நுண் முனைக் கிளைகளுடன் முடியும் நீட்சி",
         "options": [
-          "டென்ட்ரான்",
+          "ஆக்ஸான்",
           "சைட்டான் (செல் உடல்)",
           "மையலின்",
-          "ஆக்ஸான்"
+          "டென்ட்ரான்"
         ],
         "explanation": "டென்ட்ரான்கள் சைட்டானின் குட்டையான, அதிகம் கிளைத்த நீட்சிகள்."
       }
@@ -1083,13 +1083,13 @@
       "bloom": "remember",
       "page": 219,
       "quote": "INFO BIT: Age of our body cells: Epithelial cells lining the gut last only about 5 days. Skin cells - about every 2 weeks. Bone cells - about every 10 years. Liver cells - about every 300-500 days. Red blood cells last for about 120 days.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Match the cell type with its life span or replacement time: (a) Epithelial cells lining the gut (b) Red blood cells (c) Skin cells (d) Bone cells - (1) About 120 days (2) About every 2 weeks (3) About 5 days (4) About every 10 years",
         "options": [
           "a-3, b-4, c-2, d-1",
-          "a-3, b-1, c-4, d-2",
           "a-3, b-1, c-2, d-4",
+          "a-3, b-1, c-4, d-2",
           "a-2, b-1, c-4, d-3"
         ],
         "explanation": "Gut epithelium lasts about 5 days; RBCs about 120 days; skin cells are replaced about every 2 weeks; bone cells about every 10 years."
@@ -1098,8 +1098,8 @@
         "q": "செல் வகையையும் ஆயுட்காலம்/மாற்றப்படும் காலத்தையும் பொருத்துக: (a) குடல் எபிதீலியச் செல்கள் (b) இரத்தச் சிவப்பணுக்கள் (c) தோல் செல்கள் (d) எலும்புச் செல்கள் - (1) ஏறத்தாழ 120 நாள்கள் (2) ஏறத்தாழ 2 வாரங்கள் (3) ஏறத்தாழ 5 நாள்கள் (4) ஏறத்தாழ 10 ஆண்டுகள்",
         "options": [
           "a-3, b-4, c-2, d-1",
-          "a-3, b-1, c-4, d-2",
           "a-3, b-1, c-2, d-4",
+          "a-3, b-1, c-4, d-2",
           "a-2, b-1, c-4, d-3"
         ],
         "explanation": "குடல் எபிதீலியம் 5 நாள்; RBC 120 நாள்; தோல் செல்கள் 2 வாரங்கள்; எலும்புச் செல்கள் 10 ஆண்டுகள்."
@@ -1112,14 +1112,14 @@
       "bloom": "remember",
       "page": 219,
       "quote": "INFO BIT: Cells of the eye lens, nerve cells of cerebral cortex and most muscle cells last a life time but once dead are not replaced.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which of the following cells last a lifetime and, once dead, are not replaced?",
         "options": [
           "Skin cells",
-          "Eye lens cells and nerve cells of the cerebral cortex",
+          "Red blood cells",
           "Gut epithelial cells",
-          "Red blood cells"
+          "Eye lens cells and nerve cells of the cerebral cortex"
         ],
         "explanation": "Most muscle cells also last a lifetime."
       },
@@ -1127,9 +1127,9 @@
         "q": "வாழ்நாள் முழுவதும் நீடித்து, இறந்தால் மாற்றப்படாத செல்கள்",
         "options": [
           "தோல் செல்கள்",
-          "கண் லென்ஸ் செல்கள், பெருமூளைப் புறணி நரம்புச் செல்கள்",
+          "இரத்தச் சிவப்பணுக்கள்",
           "குடல் எபிதீலியச் செல்கள்",
-          "இரத்தச் சிவப்பணுக்கள்"
+          "கண் லென்ஸ் செல்கள், பெருமூளைப் புறணி நரம்புச் செல்கள்"
         ],
         "explanation": "பெரும்பாலான தசைச் செல்களும் வாழ்நாள் முழுவதும் நீடிக்கின்றன."
       }
@@ -1141,24 +1141,24 @@
       "bloom": "remember",
       "page": 219,
       "quote": "Cell division: three types in animal cells: I. Amitosis - Direct Division; II. Mitosis - Indirect Division; III. Meiosis - Reduction Division",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The direct division of a cell, in which the nucleus elongates, constricts and divides, is called",
         "options": [
-          "amitosis",
+          "cytokinesis only",
           "meiosis",
           "mitosis",
-          "cytokinesis only"
+          "amitosis"
         ],
         "explanation": "Amitosis occurs in unicellular animals, ageing cells and foetal membranes."
       },
       "ta": {
         "q": "உட்கரு நீண்டு சுருங்கிப் பிரியும் நேரடிச் செல் பிரிவு",
         "options": [
-          "அமைட்டாசிஸ்",
+          "சைட்டோகைனசிஸ் மட்டும்",
           "மியாசிஸ்",
           "மைட்டாசிஸ்",
-          "சைட்டோகைனசிஸ் மட்டும்"
+          "அமைட்டாசிஸ்"
         ],
         "explanation": "அமைட்டாசிஸ் ஒரு செல் உயிரிகள், முதிர்ந்த செல்கள், கருப்படலங்களில் நிகழ்கிறது."
       }
@@ -1170,14 +1170,14 @@
       "bloom": "remember",
       "page": 219,
       "quote": "Mitosis was first discovered by Fleming in 1879. ... equational division ... Karyokinesis and Cytokinesis",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Mitosis was first discovered by",
         "options": [
           "Farmer in 1905",
           "Mendel in 1865",
-          "Linnaeus in 1758",
-          "Fleming in 1879"
+          "Fleming in 1879",
+          "Linnaeus in 1758"
         ],
         "explanation": "Mitosis is also called equational division."
       },
@@ -1186,8 +1186,8 @@
         "options": [
           "ஃபார்மர் (1905)",
           "மெண்டல் (1865)",
-          "லின்னேயஸ் (1758)",
-          "ஃபிளெமிங் (1879)"
+          "ஃபிளெமிங் (1879)",
+          "லின்னேயஸ் (1758)"
         ],
         "explanation": "மைட்டாசிஸ் சமபிரிவு எனவும் அழைக்கப்படும்."
       }
@@ -1199,13 +1199,13 @@
       "bloom": "remember",
       "page": 220,
       "quote": "Interphase: resting phase of the nucleus ... Karyokinesis: four phases: Prophase, Metaphase, Anaphase and Telophase. Cytokinesis: division of the cytoplasm ...",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Match the stage of mitosis with its event: (a) Prophase (b) Metaphase (c) Anaphase (d) Telophase - (1) Daughter chromatids move to opposite poles (2) Chromosomes become short and thick (3) Nuclear membrane and nucleolus reappear (4) Chromosomes arrange on the equatorial plane",
         "options": [
           "a-4, b-1, c-3, d-2",
-          "a-2, b-1, c-4, d-3",
           "a-2, b-4, c-1, d-3",
+          "a-2, b-1, c-4, d-3",
           "a-3, b-4, c-1, d-2"
         ],
         "explanation": "Prophase: chromosomes short and thick; metaphase: equatorial plate; anaphase: chromatids separate and migrate; telophase: nuclear membrane reappears."
@@ -1214,8 +1214,8 @@
         "q": "மைட்டாசிஸ் நிலையையும் நிகழ்வையும் பொருத்துக: (a) புரோஃபேஸ் (b) மெட்டாஃபேஸ் (c) அனாஃபேஸ் (d) டீலோஃபேஸ் - (1) மகள் குரோமாட்டிடுகள் எதிர் முனைகளுக்கு நகர்தல் (2) குரோமோசோம்கள் குட்டையாகத் தடித்தல் (3) உட்கரு மென்படலமும் உட்கருமணியும் மீண்டும் தோன்றுதல் (4) குரோமோசோம்கள் மையத் தளத்தில் அமைதல்",
         "options": [
           "a-4, b-1, c-3, d-2",
-          "a-2, b-1, c-4, d-3",
           "a-2, b-4, c-1, d-3",
+          "a-2, b-1, c-4, d-3",
           "a-3, b-4, c-1, d-2"
         ],
         "explanation": "புரோஃபேஸ்: குரோமோசோம் குட்டையாகத் தடிக்கும்; மெட்டாஃபேஸ்: மைய அச்சில் அமையும்; அனாஃபேஸ்: குரோமாட்டிடுகள் நகரும்; டீலோஃபேஸ்: உட்கரு மென்படலம் மீண்டும் தோன்றும்."
@@ -1228,13 +1228,13 @@
       "bloom": "remember",
       "page": 220,
       "quote": "Cytokinesis: the division of the cytoplasm into two daughter cells by constriction of the cell membrane. Significance of mitosis: production of diploid daughter cells (2n); growth; repair.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Division of the cytoplasm into two daughter cells is called",
         "options": [
           "karyokinesis",
-          "cytokinesis",
           "interphase",
+          "cytokinesis",
           "synapsis"
         ],
         "explanation": "Karyokinesis is the division of the nucleus."
@@ -1243,8 +1243,8 @@
         "q": "சைட்டோபிளாசம் இரு மகள் செல்களாகப் பிரிவது",
         "options": [
           "காரியோகைனசிஸ்",
-          "சைட்டோகைனசிஸ்",
           "இடைநிலை",
+          "சைட்டோகைனசிஸ்",
           "சினாப்சிஸ்"
         ],
         "explanation": "உட்கருப் பிரிவு காரியோகைனசிஸ் எனப்படும்."
@@ -1257,12 +1257,12 @@
       "bloom": "remember",
       "page": 220,
       "quote": "Meiosis: The term meiosis was coined by Farmer in 1905. ... produces the sex cells or the gametes ... reduction division ... haploid (n) from diploid (2n) ... four daughter cells",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The term 'meiosis' was coined by",
         "options": [
-          "Farmer in 1905",
           "Watson and Crick",
+          "Farmer in 1905",
           "Fleming in 1879",
           "Robert Hooke"
         ],
@@ -1271,8 +1271,8 @@
       "ta": {
         "q": "'மியாசிஸ்' (ஒடுக்கற்பிரிவு) என்ற சொல்லை உருவாக்கியவர்",
         "options": [
-          "ஃபார்மர் (1905)",
           "வாட்சன், கிரிக்",
+          "ஃபார்மர் (1905)",
           "ஃபிளெமிங் (1879)",
           "ராபர்ட் ஹூக்"
         ],
@@ -1286,14 +1286,14 @@
       "bloom": "remember",
       "page": 221,
       "quote": "Prophase I sub-stages: Leptotene, Zygotene, Pachytene, Diplotene and Diakinesis. Zygotene: pairing of homologous chromosomes is called synapsis. Pachytene: bivalents (tetrad stage). Chiasmata - crossing over.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Pairing of homologous chromosomes during meiosis is called",
         "options": [
           "crossing over",
-          "terminalization",
+          "synapsis",
           "cytokinesis",
-          "synapsis"
+          "terminalization"
         ],
         "explanation": "It occurs in zygotene; in pachytene the paired chromosomes are called bivalents (tetrads)."
       },
@@ -1301,9 +1301,9 @@
         "q": "ஒடுக்கற்பிரிவின்போது ஒத்த குரோமோசோம்கள் இணை சேர்வது",
         "options": [
           "குறுக்கேற்றம்",
-          "முனையாதல்",
+          "சினாப்சிஸ்",
           "சைட்டோகைனசிஸ்",
-          "சினாப்சிஸ்"
+          "முனையாதல்"
         ],
         "explanation": "இது சைகோடீன் நிலையில் நிகழ்கிறது; பேக்கிடீனில் இணைந்தவை பைவேலன்ட் (நான்கிணை) எனப்படும்."
       }
@@ -1315,14 +1315,14 @@
       "bloom": "remember",
       "page": 221,
       "quote": "Pachytene ... crossing over ... genetic recombination (chiasmata). Prophase I stages in order: Leptotene, Zygotene, Pachytene, Diplotene, Diakinesis.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Genetic recombination takes place in meiosis because of",
         "options": [
           "cytokinesis I",
           "division of the centromere in metaphase I",
-          "crossing over at chiasmata between homologous chromosomes",
-          "formation of the spindle only"
+          "formation of the spindle only",
+          "crossing over at chiasmata between homologous chromosomes"
         ],
         "explanation": "The chromatids break at chiasmata and broken segments may be interchanged."
       },
@@ -1331,8 +1331,8 @@
         "options": [
           "சைட்டோகைனசிஸ் I",
           "மெட்டாஃபேஸ் I இல் சென்ட்ரோமியர் பிரிதல்",
-          "ஒத்த குரோமோசோம்களுக்கிடையே கயாஸ்மாக்களில் ஏற்படும் குறுக்கேற்றம்",
-          "கதிர் இழை உருவாதல் மட்டும்"
+          "கதிர் இழை உருவாதல் மட்டும்",
+          "ஒத்த குரோமோசோம்களுக்கிடையே கயாஸ்மாக்களில் ஏற்படும் குறுக்கேற்றம்"
         ],
         "explanation": "குரோமாட்டிடுகள் கயாஸ்மாக்களில் உடைந்து துண்டுகள் பரிமாறப்படுகின்றன."
       }

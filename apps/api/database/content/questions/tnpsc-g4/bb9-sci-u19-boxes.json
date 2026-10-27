@@ -10,24 +10,24 @@
       "bloom": "remember",
       "page": 226,
       "quote": "Mimosa pudica (touch-me-not plant) closes on touching, whereas Helianthus annuus (sunflower) follows the path of the sun from dawn to dusk (from east to west).",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Which plant closes its leaves on touching?",
         "options": [
-          "Helianthus annuus",
+          "Mimosa pudica",
           "Taraxacum officinale",
           "Ipomoea alba",
-          "Mimosa pudica"
+          "Helianthus annuus"
         ],
         "explanation": "Mimosa pudica (touch-me-not) shows thigmonasty; sunflower follows the sun."
       },
       "ta": {
         "q": "தொட்டவுடன் இலைகளை மூடிக்கொள்ளும் தாவரம்",
         "options": [
-          "ஹீலியான்தஸ் அன்னுவஸ் (சூரியகாந்தி)",
+          "மைமோசா புடிகா (தொட்டாற்சிணுங்கி)",
           "டாராக்ஸகம் அஃபிசினேல்",
           "ஐபோமியா ஆல்பா",
-          "மைமோசா புடிகா (தொட்டாற்சிணுங்கி)"
+          "ஹீலியான்தஸ் அன்னுவஸ் (சூரியகாந்தி)"
         ],
         "explanation": "தொட்டாற்சிணுங்கி தொடு உணர்வசைவைக் காட்டுகிறது; சூரியகாந்தி சூரியனைப் பின்தொடர்கிறது."
       }
@@ -39,13 +39,13 @@
       "bloom": "remember",
       "page": 226,
       "quote": "Tropism is a unidirectional movement of a whole or part of a plant towards the direction of stimuli.",
-      "answer": "C",
+      "answer": "A",
       "en": {
         "q": "Tropism is a",
         "options": [
-          "movement of animals",
-          "non-directional movement",
           "unidirectional movement of a plant or its part towards the direction of the stimulus",
+          "non-directional movement",
+          "movement of animals",
           "movement of water in xylem"
         ],
         "explanation": "Tropism is positive if growth is towards the signal and negative if away from it."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "வளைதல் இயக்கம் (டிராபிசம்) என்பது",
         "options": [
-          "விலங்குகளின் இயக்கம்",
-          "திசையற்ற இயக்கம்",
           "தூண்டலின் திசையில் தாவரம் அல்லது அதன் பகுதி ஒரு திசையில் இயங்குதல்",
+          "திசையற்ற இயக்கம்",
+          "விலங்குகளின் இயக்கம்",
           "சைலத்தில் நீர் இயக்கம்"
         ],
         "explanation": "தூண்டலை நோக்கிய வளர்ச்சி நேர் வளைதல்; அதை விட்டு விலகுவது எதிர் வளைதல்."
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 226,
       "quote": "Phototropism - light - shoot; Geotropism - gravity - root; Hydrotropism - water - root; Thigmotropism - touch - climbing vines; Chemotropism - chemicals - growth of a pollen tube",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Match the tropism with its stimulus: (a) Phototropism (b) Geotropism (c) Hydrotropism (d) Chemotropism - (1) Water (2) Light (3) Chemicals (4) Gravity",
         "options": [
           "a-2, b-1, c-4, d-3",
-          "a-2, b-4, c-1, d-3",
+          "a-3, b-4, c-1, d-2",
           "a-4, b-1, c-3, d-2",
-          "a-3, b-4, c-1, d-2"
+          "a-2, b-4, c-1, d-3"
         ],
         "explanation": "Photo = light; geo = gravity; hydro = water; chemo = chemicals."
       },
@@ -83,9 +83,9 @@
         "q": "வளைதலையும் தூண்டலையும் பொருத்துக: (a) ஒளி வளைதல் (b) புவி வளைதல் (c) நீர் வளைதல் (d) வேதி வளைதல் - (1) நீர் (2) ஒளி (3) வேதிப்பொருள் (4) புவிஈர்ப்பு",
         "options": [
           "a-2, b-1, c-4, d-3",
-          "a-2, b-4, c-1, d-3",
+          "a-3, b-4, c-1, d-2",
           "a-4, b-1, c-3, d-2",
-          "a-3, b-4, c-1, d-2"
+          "a-2, b-4, c-1, d-3"
         ],
         "explanation": "போட்டோ = ஒளி; ஜியோ = புவிஈர்ப்பு; ஹைட்ரோ = நீர்; கெமோ = வேதிப்பொருள்."
       }
@@ -97,12 +97,12 @@
       "bloom": "remember",
       "page": 226,
       "quote": "Tropism is generally termed positive if growth is towards the signal and negative if it is away from the signal. Shoot of a plant moves towards the light, the roots move away. Thus the shoots are positively phototropic.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "A tropism is called negative when growth is",
         "options": [
-          "away from the stimulus",
           "absent",
+          "away from the stimulus",
           "towards the stimulus",
           "in all directions"
         ],
@@ -111,8 +111,8 @@
       "ta": {
         "q": "வளர்ச்சி தூண்டலை விட்டு விலகும்போது அந்த வளைதல்",
         "options": [
-          "எதிர் வளைதல் எனப்படும்",
           "இல்லாதது",
+          "எதிர் வளைதல் எனப்படும்",
           "நேர் வளைதல் எனப்படும்",
           "அனைத்துத் திசைகளிலும்"
         ],
@@ -126,14 +126,14 @@
       "bloom": "remember",
       "page": 227,
       "quote": "Activity 2: pea seedling put in a box with an opening for light on one side. After few hours, the stem has bent and grown towards the light.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "In a box with a light opening on one side, a pea seedling bends towards the light. This shows",
         "options": [
           "negative geotropism of the root",
-          "hydrotropism",
+          "positive phototropism of the stem",
           "photonasty",
-          "positive phototropism of the stem"
+          "hydrotropism"
         ],
         "explanation": "The stem is positively phototropic."
       },
@@ -141,9 +141,9 @@
         "q": "ஒரு பக்கம் ஒளித்துளையுடைய பெட்டியில் பட்டாணி நாற்றின் தண்டு ஒளியை நோக்கி வளைவது",
         "options": [
           "வேரின் எதிர் புவி வளைதல்",
-          "நீர் வளைதல்",
+          "தண்டின் நேர் ஒளி வளைதலைக் காட்டுகிறது",
           "ஒளி உணர்வசைவு",
-          "தண்டின் நேர் ஒளி வளைதலைக் காட்டுகிறது"
+          "நீர் வளைதல்"
         ],
         "explanation": "தண்டு நேர் ஒளி நாட்டமுடையது."
       }
@@ -213,12 +213,12 @@
       "bloom": "remember",
       "page": 227,
       "quote": "The Venus Flytrap (Dionaea muscipula) presents a spectacular example of thigmonasty. It exhibits one of the fastest known nastic movement.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The Venus flytrap (Dionaea muscipula) is a spectacular example of",
         "options": [
-          "thigmonasty",
           "geotropism",
+          "thigmonasty",
           "phototropism",
           "photonasty"
         ],
@@ -227,8 +227,8 @@
       "ta": {
         "q": "வீனஸ் ஈப்பிடிப்பான் (டையோனியா மஸ்சிபுலா) ஒரு சிறந்த எடுத்துக்காட்டு",
         "options": [
-          "தொடு உணர்வசைவுக்கு",
           "புவி வளைதலுக்கு",
+          "தொடு உணர்வசைவுக்கு",
           "ஒளி வளைதலுக்கு",
           "ஒளி உணர்வசைவுக்கு"
         ],
@@ -242,14 +242,14 @@
       "bloom": "remember",
       "page": 228,
       "quote": "Table 19.1: Tropic movements - unidirectional, growth dependent, more or less permanent and irreversible, found in all plants, slow action. Nastic movements - non-directional, growth independent, temporary and reversible, found only in a few specialized plants, immediate action.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Which of the following is a feature of nastic movements?",
         "options": [
           "Growth dependent and irreversible",
-          "Unidirectional and slow",
+          "Growth independent, temporary and reversible",
           "Found in all plants",
-          "Growth independent, temporary and reversible"
+          "Unidirectional and slow"
         ],
         "explanation": "Nastic movements are non-directional, immediate and found only in a few specialised plants."
       },
@@ -257,9 +257,9 @@
         "q": "உணர்வசைவு இயக்கங்களின் பண்பு எது?",
         "options": [
           "வளர்ச்சியைச் சார்ந்தவை; மீளாதவை",
-          "ஒரு திசையுடையவை; மெதுவானவை",
+          "வளர்ச்சியைச் சாராதவை; தற்காலிகமானவை; மீளக்கூடியவை",
           "எல்லாத் தாவரங்களிலும் காணப்படுபவை",
-          "வளர்ச்சியைச் சாராதவை; தற்காலிகமானவை; மீளக்கூடியவை"
+          "ஒரு திசையுடையவை; மெதுவானவை"
         ],
         "explanation": "இவை திசையற்றவை, உடனடியானவை, சில சிறப்புத் தாவரங்களில் மட்டுமே காணப்படுபவை."
       }
@@ -271,14 +271,14 @@
       "bloom": "remember",
       "page": 228,
       "quote": "Thermonasty: Movement of part of a plant is associated with change in temperature. e.g. Tulip flowers bloom as the temperature increases.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Tulip flowers blooming as the temperature increases is an example of",
         "options": [
           "thigmonasty",
           "photonasty",
-          "thermonasty",
-          "chemotropism"
+          "chemotropism",
+          "thermonasty"
         ],
         "explanation": "Thermonasty is the movement of a plant part associated with a change in temperature."
       },
@@ -287,8 +287,8 @@
         "options": [
           "தொடு உணர்வசைவு",
           "ஒளி உணர்வசைவு",
-          "வெப்ப உணர்வசைவுக்கு எடுத்துக்காட்டு",
-          "வேதி வளைதல்"
+          "வேதி வளைதல்",
+          "வெப்ப உணர்வசைவுக்கு எடுத்துக்காட்டு"
         ],
         "explanation": "வெப்பநிலை மாற்றத்துடன் தொடர்புடைய தாவர இயக்கம் வெப்ப உணர்வசைவு."
       }
@@ -300,13 +300,13 @@
       "bloom": "remember",
       "page": 228,
       "quote": "'Photo' means 'light' and 'synthesis' means 'to build'. ... the light energy is converted into chemical energy. Green plants are autotrophic ...",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "Photosynthesis literally means",
         "options": [
           "breaking down with heat",
-          "building up with the help of light",
           "water loss",
+          "building up with the help of light",
           "movement towards light"
         ],
         "explanation": "In this process, light energy is converted into chemical energy."
@@ -315,8 +315,8 @@
         "q": "'ஒளிச்சேர்க்கை' (photosynthesis) என்பதன் நேரடிப் பொருள்",
         "options": [
           "வெப்பத்தால் சிதைத்தல்",
-          "ஒளியின் உதவியால் கட்டமைத்தல்",
           "நீர் இழப்பு",
+          "ஒளியின் உதவியால் கட்டமைத்தல்",
           "ஒளியை நோக்கிய இயக்கம்"
         ],
         "explanation": "இச்செயலில் ஒளி ஆற்றல் வேதி ஆற்றலாக மாற்றப்படுகிறது."
@@ -329,12 +329,12 @@
       "bloom": "remember",
       "page": 228,
       "quote": "The end product of photosynthesis is glucose which will be converted into starch and stored in the plant body.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "The end product of photosynthesis, which is converted into starch and stored in the plant body, is",
         "options": [
-          "glucose",
           "water",
+          "glucose",
           "oxygen",
           "carbon dioxide"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "ஒளிச்சேர்க்கையின் இறுதிப் பொருள் (ஸ்டார்ச்சாக மாற்றப்பட்டுச் சேமிக்கப்படுவது)",
         "options": [
-          "குளுக்கோஸ்",
           "நீர்",
+          "குளுக்கோஸ்",
           "ஆக்ஸிஜன்",
           "கார்பன் டைஆக்சைடு"
         ],
@@ -358,14 +358,14 @@
       "bloom": "remember",
       "page": 229,
       "quote": "These activities show that certain things are necessary for photosynthesis: 1. Chlorophyll 2. Water 3. Carbon dioxide (from air) 4. Sun light",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which of the following is NOT necessary for photosynthesis?",
         "options": [
           "Chlorophyll",
           "Water",
-          "Sunlight",
-          "Oxygen from the air"
+          "Oxygen from the air",
+          "Sunlight"
         ],
         "explanation": "The four requirements are chlorophyll, water, carbon dioxide and sunlight."
       },
@@ -374,8 +374,8 @@
         "options": [
           "பச்சையம்",
           "நீர்",
-          "சூரிய ஒளி",
-          "காற்றிலுள்ள ஆக்ஸிஜன்"
+          "காற்றிலுள்ள ஆக்ஸிஜன்",
+          "சூரிய ஒளி"
         ],
         "explanation": "ஒளிச்சேர்க்கைக்குத் தேவையானவை: பச்சையம், நீர், CO2, சூரிய ஒளி."
       }
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 229,
       "quote": "Transpiration ... tiny, microscopic pores called stomata ... Each stomata is surrounded by guard cells. These guard cells help in regulating the rate of transpiration by opening and closing of stomata.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "The rate of transpiration is regulated by the opening and closing of stomata by the",
         "options": [
           "sieve tubes",
           "root hairs",
-          "guard cells",
-          "chloroplasts"
+          "chloroplasts",
+          "guard cells"
         ],
         "explanation": "Each stoma is surrounded by guard cells."
       },
@@ -403,8 +403,8 @@
         "options": [
           "சல்லடைக் குழாய்கள்",
           "வேர்த்தூவிகள்",
-          "காப்புச் செல்கள்",
-          "பசுங்கணிகங்கள்"
+          "பசுங்கணிகங்கள்",
+          "காப்புச் செல்கள்"
         ],
         "explanation": "ஒவ்வோர் இலைத்துளையையும் காப்புச் செல்கள் சூழ்ந்துள்ளன."
       }
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 229,
       "quote": "But transpiration is necessary for the following reasons. 1. It creates a pull in leaf and stem. 2. It creates an absorption force in roots. 3. It is necessary for continuous supply of minerals. 4. It regulates the temperature of the plant.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which of the following is a reason why transpiration is necessary?",
         "options": [
           "It produces glucose",
-          "It regulates the temperature of the plant",
+          "It fixes nitrogen",
           "It releases oxygen",
-          "It fixes nitrogen"
+          "It regulates the temperature of the plant"
         ],
         "explanation": "It also creates a pull in leaf and stem, an absorption force in roots and ensures continuous supply of minerals."
       },
@@ -431,9 +431,9 @@
         "q": "நீராவிப்போக்கு தேவையானதற்கான காரணம் எது?",
         "options": [
           "குளுக்கோஸை உருவாக்குகிறது",
-          "தாவரத்தின் வெப்பநிலையை ஒழுங்குபடுத்துகிறது",
+          "நைட்ரஜனை நிலைநிறுத்துகிறது",
           "ஆக்ஸிஜனை வெளியிடுகிறது",
-          "நைட்ரஜனை நிலைநிறுத்துகிறது"
+          "தாவரத்தின் வெப்பநிலையை ஒழுங்குபடுத்துகிறது"
         ],
         "explanation": "இலை, தண்டில் இழுவிசையையும் வேரில் உறிஞ்சும் விசையையும் தந்து, கனிமங்கள் தொடர்ந்து கிடைக்க உதவுகிறது."
       }
@@ -445,13 +445,13 @@
       "bloom": "remember",
       "page": 229,
       "quote": "Activity 5: Take a plastic bag and tie it over a leaf and place the plant in light. You can see water condensing inside the plastic bag.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "A plastic bag tied over a leaf kept in light shows water droplets inside because of",
         "options": [
-          "transpiration",
-          "respiration of the bag",
           "photosynthesis",
+          "respiration of the bag",
+          "transpiration",
           "absorption"
         ],
         "explanation": "The water is let out by the leaves."
@@ -459,9 +459,9 @@
       "ta": {
         "q": "ஒளியில் வைக்கப்பட்ட இலையின் மேல் கட்டிய பாலிதீன் பையின் உள்ளே நீர்த்துளிகள் தோன்றக் காரணம்",
         "options": [
-          "நீராவிப்போக்கு",
-          "பையின் சுவாசம்",
           "ஒளிச்சேர்க்கை",
+          "பையின் சுவாசம்",
+          "நீராவிப்போக்கு",
           "உறிஞ்சுதல்"
         ],
         "explanation": "இலைகள் நீரை ஆவியாக வெளியேற்றுகின்றன."
@@ -474,24 +474,24 @@
       "bloom": "remember",
       "page": 229,
       "quote": "Stomatal transpiration accounts for 90-95% of the water transpired from leaves. Cuticular transpiration: loss of water through the cuticle. Lenticular transpiration: through the lenticels.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "What percentage of the water transpired from leaves is lost by stomatal transpiration?",
         "options": [
-          "10-20%",
+          "90-95%",
           "40-50%",
           "less than 5%",
-          "90-95%"
+          "10-20%"
         ],
         "explanation": "Cuticular and lenticular transpiration account for the rest."
       },
       "ta": {
         "q": "இலைகளிலிருந்து வெளியேறும் நீரில் இலைத்துளை நீராவிப்போக்கின் சதவீதம்",
         "options": [
-          "10-20%",
+          "90-95%",
           "40-50%",
           "5% க்கும் குறைவு",
-          "90-95%"
+          "10-20%"
         ],
         "explanation": "மீதி நீர் கியூட்டிகிள், பட்டைத்துளை நீராவிப்போக்கால் இழக்கப்படுகிறது."
       }
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 229,
       "quote": "Lenticular transpiration: Loss of water from plants as vapour through the lenticels. The lenticels are tiny openings that protrude from the barks in woody stems and twigs as well as in other plant organs.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Lenticels are tiny openings found in the",
         "options": [
           "root cap",
           "leaf cuticle",
-          "bark of woody stems and twigs",
-          "petals only"
+          "petals only",
+          "bark of woody stems and twigs"
         ],
         "explanation": "Water lost through them is lenticular transpiration."
       },
@@ -519,8 +519,8 @@
         "options": [
           "வேர்மூடியில்",
           "இலையின் கியூட்டிகிளில்",
-          "மரத்தண்டு, சிறு கிளைகளின் பட்டையில்",
-          "இதழ்களில் மட்டும்"
+          "இதழ்களில் மட்டும்",
+          "மரத்தண்டு, சிறு கிளைகளின் பட்டையில்"
         ],
         "explanation": "இவற்றின் வழியாக நீர் இழப்பது பட்டைத்துளை நீராவிப்போக்கு."
       }
@@ -532,12 +532,12 @@
       "bloom": "remember",
       "page": 229,
       "quote": "How does the plant get air? The leaves have minute pores called stomata through which the exchange of air takes place. Plants exchange gases (CO2 to O2) continuously through these stomata.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The exchange of gases in leaves takes place through",
         "options": [
-          "root hairs",
           "stomata",
+          "root hairs",
           "lenticels only",
           "flowers"
         ],
@@ -546,8 +546,8 @@
       "ta": {
         "q": "இலைகளில் வாயுப் பரிமாற்றம் நடைபெறுவது",
         "options": [
-          "வேர்த்தூவிகள் வழியாக",
           "இலைத்துளைகள் வழியாக",
+          "வேர்த்தூவிகள் வழியாக",
           "பட்டைத்துளைகள் வழியாக மட்டும்",
           "மலர்கள் வழியாக"
         ],

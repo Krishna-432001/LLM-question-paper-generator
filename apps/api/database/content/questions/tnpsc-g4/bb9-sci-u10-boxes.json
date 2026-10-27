@@ -10,14 +10,14 @@
       "bloom": "remember",
       "page": 113,
       "quote": "Not all things that we see or feel are matter. For example, sunlight, sound, force and energy neither occupy space nor have any mass. They are not matter.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "Which of the following is matter?",
         "options": [
           "Sunlight",
-          "Air",
+          "Energy",
           "Sound",
-          "Energy"
+          "Air"
         ],
         "explanation": "Matter is anything that has mass and occupies space; sunlight, sound, force and energy are not matter."
       },
@@ -25,9 +25,9 @@
         "q": "பின்வருவனவற்றுள் பருப்பொருள் எது?",
         "options": [
           "சூரிய ஒளி",
-          "காற்று",
+          "ஆற்றல்",
           "ஒலி",
-          "ஆற்றல்"
+          "காற்று"
         ],
         "explanation": "நிறை உடையதும் இடத்தை அடைத்துக்கொள்வதுமே பருப்பொருள்; ஒளி, ஒலி, விசை, ஆற்றல் ஆகியவை பருப்பொருள் அல்ல."
       }
@@ -39,24 +39,24 @@
       "bloom": "remember",
       "page": 113,
       "quote": "From the point of view of chemistry, pure substances are those which contain only one kind of particles whereas impure substances (mixtures) contain more than one kind of particles.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Pure substances contain ______ kind of particles whereas mixtures contain ______.",
         "options": [
-          "only one; more than one",
+          "no; many",
           "two; three",
           "more than one; only one",
-          "no; many"
+          "only one; more than one"
         ],
         "explanation": "Elements and compounds are pure substances."
       },
       "ta": {
         "q": "தூய பொருட்கள் ______ வகைத் துகள்களையும், கலவைகள் ______ வகைத் துகள்களையும் கொண்டவை.",
         "options": [
-          "ஒரே; ஒன்றுக்கு மேற்பட்ட",
+          "எந்த; பல",
           "இரு; மூன்று",
           "ஒன்றுக்கு மேற்பட்ட; ஒரே",
-          "எந்த; பல"
+          "ஒரே; ஒன்றுக்கு மேற்பட்ட"
         ],
         "explanation": "தனிமங்களும் சேர்மங்களும் தூய பொருட்கள்."
       }
@@ -68,14 +68,14 @@
       "bloom": "remember",
       "page": 114,
       "quote": "In the modern periodic table there are 118 elements known to us, 92 of which are naturally occurring while the remaining 26 have been artificially created.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "According to the book, the number of elements known in the modern periodic table is",
         "options": [
           "92",
-          "26",
+          "118",
           "108",
-          "118"
+          "26"
         ],
         "explanation": "The book says 92 are naturally occurring and 26 artificially created (more recent counts put naturally occurring elements at about 94)."
       },
@@ -83,9 +83,9 @@
         "q": "நூலின்படி நவீன தனிம வரிசை அட்டவணையில் அறியப்பட்ட தனிமங்கள்",
         "options": [
           "92",
-          "26",
+          "118",
           "108",
-          "118"
+          "26"
         ],
         "explanation": "நூலின்படி 92 இயற்கையாகவும் 26 செயற்கையாகவும் உருவாக்கப்பட்டவை (தற்போதைய கணக்கில் இயற்கைத் தனிமங்கள் ஏறத்தாழ 94)."
       }
@@ -97,13 +97,13 @@
       "bloom": "remember",
       "page": 114,
       "quote": "Atom: The smallest unit of an element which may or may not have an independent existence, but always takes part in a chemical reaction is called atom. Molecules: The smallest unit of a pure substance, which always exists independently and can retain physical and chemical properties of that substance.",
-      "answer": "B",
+      "answer": "C",
       "en": {
         "q": "The smallest unit of a pure substance which always exists independently and retains its properties is called a",
         "options": [
           "atom",
-          "molecule",
           "ion",
+          "molecule",
           "proton"
         ],
         "explanation": "A water molecule consists of two hydrogen atoms and one oxygen atom; a hydrogen molecule (H2) has two hydrogen atoms."
@@ -112,8 +112,8 @@
         "q": "ஒரு தூய பொருளின் மிகச்சிறிய, எப்போதும் தனித்து இருக்கக்கூடிய, அதன் பண்புகளைத் தக்கவைக்கும் அலகு",
         "options": [
           "அணு",
-          "மூலக்கூறு",
           "அயனி",
+          "மூலக்கூறு",
           "புரோட்டான்"
         ],
         "explanation": "நீர் மூலக்கூறில் இரு ஹைட்ரஜன் அணுக்களும் ஓர் ஆக்ஸிஜன் அணுவும் உள்ளன; ஹைட்ரஜன் மூலக்கூறு (H2) இரு அணுக்களைக் கொண்டது."
@@ -126,24 +126,24 @@
       "bloom": "remember",
       "page": 115,
       "quote": "Cane sugar is made up of three elements carbon, hydrogen and oxygen. The chemical formula of cane sugar is C12H22O11. A compound has properties that are different from those of the elements from which it is made.",
-      "answer": "D",
+      "answer": "A",
       "en": {
         "q": "Cane sugar (C12H22O11) is a compound of the elements",
         "options": [
-          "carbon and hydrogen only",
+          "carbon, hydrogen and oxygen",
           "sodium and chlorine",
           "hydrogen and oxygen only",
-          "carbon, hydrogen and oxygen"
+          "carbon and hydrogen only"
         ],
         "explanation": "Common salt (sodium chloride) is a compound of the metal sodium and the non-metal chlorine."
       },
       "ta": {
         "q": "கரும்புச் சர்க்கரை (C12H22O11) எந்தத் தனிமங்களின் சேர்மம்?",
         "options": [
-          "கார்பன், ஹைட்ரஜன் மட்டும்",
+          "கார்பன், ஹைட்ரஜன், ஆக்ஸிஜன்",
           "சோடியம், குளோரின்",
           "ஹைட்ரஜன், ஆக்ஸிஜன் மட்டும்",
-          "கார்பன், ஹைட்ரஜன், ஆக்ஸிஜன்"
+          "கார்பன், ஹைட்ரஜன் மட்டும்"
         ],
         "explanation": "சாதாரண உப்பு (சோடியம் குளோரைடு) உலோகம் சோடியத்தாலும் அலோகம் குளோரினாலும் ஆன சேர்மம்."
       }
@@ -155,14 +155,14 @@
       "bloom": "remember",
       "page": 115,
       "quote": "Compounds of phosphorous, nitrogen and potassium are used in fertilizers. Silicon compounds are of immense importance in the computer industry. Compounds of fluorine are used in our toothpastes as they strengthen our teeth.",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Compounds of fluorine are used in toothpastes because they",
         "options": [
           "increase foam only",
           "whiten paper",
-          "strengthen our teeth",
-          "make the paste sweet"
+          "make the paste sweet",
+          "strengthen our teeth"
         ],
         "explanation": "Compounds of phosphorus, nitrogen and potassium are used in fertilizers; silicon compounds are important in the computer industry."
       },
@@ -171,8 +171,8 @@
         "options": [
           "நுரையை மட்டும் அதிகரிப்பது",
           "காகிதத்தை வெளுப்பது",
-          "அவை பற்களை வலுப்படுத்துவது",
-          "பசையை இனிப்பாக்குவது"
+          "பசையை இனிப்பாக்குவது",
+          "அவை பற்களை வலுப்படுத்துவது"
         ],
         "explanation": "பாஸ்பரஸ், நைட்ரஜன், பொட்டாசியம் சேர்மங்கள் உரங்களில்; சிலிக்கான் சேர்மங்கள் கணினித் தொழிலில் முக்கியமானவை."
       }
@@ -213,13 +213,13 @@
       "bloom": "remember",
       "page": 116,
       "quote": "Activity 3: Take some powdered iron filings and mix it with sulphur. On heating you will get a black brittle compound - Iron (II) sulphide. Iron + sulphur (heat) gives iron sulphide.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "On heating a mixture of iron filings and sulphur we get a black brittle compound called",
         "options": [
           "iron oxide",
-          "sulphur dioxide",
           "iron(II) sulphide",
+          "sulphur dioxide",
           "iron chloride"
         ],
         "explanation": "The iron sulphide has totally different properties from the mixture: the iron powder is not attracted by a magnet."
@@ -228,8 +228,8 @@
         "q": "இரும்புத் தூளையும் கந்தகத்தையும் கலந்து சூடாக்கும்போது கிடைக்கும் கருப்பு நொறுங்கும் சேர்மம்",
         "options": [
           "இரும்பு ஆக்சைடு",
-          "கந்தக டை ஆக்சைடு",
           "இரும்பு(II) சல்பைடு",
+          "கந்தக டை ஆக்சைடு",
           "இரும்பு குளோரைடு"
         ],
         "explanation": "இரும்பு சல்பைடின் பண்புகள் கலவையிலிருந்து முற்றிலும் வேறுபடும்; அது காந்தத்தால் கவரப்படுவதில்லை."
@@ -242,13 +242,13 @@
       "bloom": "understand",
       "page": 116,
       "quote": "Table 10.2: Mixture - the constituent may be present in any proportion; shows properties of its constituents; components may be separated easily by physical methods. Compound - constituents present in definite proportions; do not show properties of constituents; can only be separated by chemical reactions.",
-      "answer": "A",
+      "answer": "C",
       "en": {
         "q": "Which statement is true for a compound but NOT for a mixture?",
         "options": [
-          "Its constituents are present in definite proportions",
-          "Its components can be separated by physical methods",
           "It shows the properties of its constituents",
+          "Its components can be separated by physical methods",
+          "Its constituents are present in definite proportions",
           "Its constituents may be present in any ratio"
         ],
         "explanation": "A compound is a single substance; its constituents can only be separated by chemical reactions."
@@ -256,9 +256,9 @@
       "ta": {
         "q": "சேர்மத்திற்குப் பொருந்தும்; கலவைக்குப் பொருந்தாத கூற்று",
         "options": [
-          "கூறுகள் குறிப்பிட்ட விகிதத்தில் இருக்கும்",
-          "கூறுகளை இயற்பியல் முறையால் பிரிக்கலாம்",
           "கூறுகளின் பண்புகளைக் காட்டும்",
+          "கூறுகளை இயற்பியல் முறையால் பிரிக்கலாம்",
+          "கூறுகள் குறிப்பிட்ட விகிதத்தில் இருக்கும்",
           "கூறுகள் எந்த விகிதத்திலும் இருக்கலாம்"
         ],
         "explanation": "சேர்மம் ஒற்றைப் பொருள்; அதன் கூறுகளை வேதி வினைகளால் மட்டுமே பிரிக்கலாம்."
@@ -271,12 +271,12 @@
       "bloom": "remember",
       "page": 116,
       "quote": "Blood is not a pure substance. It is a mixture of various components such as platelets, red and white blood corpuscles and plasma.",
-      "answer": "A",
+      "answer": "B",
       "en": {
         "q": "Blood is",
         "options": [
-          "a mixture of platelets, red and white blood corpuscles and plasma",
           "a pure substance",
+          "a mixture of platelets, red and white blood corpuscles and plasma",
           "an element",
           "a compound of iron"
         ],
@@ -285,8 +285,8 @@
       "ta": {
         "q": "இரத்தம் என்பது",
         "options": [
-          "இரத்தத் தட்டுகள், சிவப்பு, வெள்ளை அணுக்கள், பிளாஸ்மா ஆகியவற்றின் கலவை",
           "தூய பொருள்",
+          "இரத்தத் தட்டுகள், சிவப்பு, வெள்ளை அணுக்கள், பிளாஸ்மா ஆகியவற்றின் கலவை",
           "தனிமம்",
           "இரும்பின் சேர்மம்"
         ],
@@ -300,14 +300,14 @@
       "bloom": "remember",
       "page": 116,
       "quote": "Activity 1: Brass is an alloy made up of approx. 30% zinc and 70% copper. Is Brass a pure substance or a mixture or compound?",
-      "answer": "C",
+      "answer": "D",
       "en": {
         "q": "Brass, made up of approximately 30% zinc and 70% copper, is",
         "options": [
           "a compound",
           "an element",
-          "a mixture (alloy)",
-          "a pure substance"
+          "a pure substance",
+          "a mixture (alloy)"
         ],
         "explanation": "Alloys are mixtures of metals."
       },
@@ -316,8 +316,8 @@
         "options": [
           "சேர்மம்",
           "தனிமம்",
-          "கலவை (உலோகக் கலவை)",
-          "தூய பொருள்"
+          "தூய பொருள்",
+          "கலவை (உலோகக் கலவை)"
         ],
         "explanation": "உலோகக் கலவைகள் உலோகங்களின் கலவைகளே."
       }
@@ -329,13 +329,13 @@
       "bloom": "remember",
       "page": 117,
       "quote": "A mixture in which the components cannot be seen separately is called a homogeneous mixture. Tap water, milk, air, ice cream, sugar syrup, ink, steel, bronze and salt solution are homogeneous mixtures. Soil, a mixture of sugar and sand, oil and water, sulphur and iron filings are heterogeneous mixtures.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Matter Around Us: Which of the following is a heterogeneous mixture?",
         "options": [
           "Sugar syrup",
-          "Steel",
           "Soil",
+          "Steel",
           "Salt solution"
         ],
         "explanation": "A heterogeneous mixture does not have a uniform composition and its components can be seen separately."
@@ -344,8 +344,8 @@
         "q": "பின்வருவனவற்றுள் பலபடித்தான கலவை எது?",
         "options": [
           "சர்க்கரைப் பாகு",
-          "எஃகு",
           "மண்",
+          "எஃகு",
           "உப்புக் கரைசல்"
         ],
         "explanation": "பலபடித்தான கலவைக்குச் சீரான இயைபு இல்லை; கூறுகளைத் தனியாகக் காணலாம்."
@@ -358,24 +358,24 @@
       "bloom": "remember",
       "page": 117,
       "quote": "Sublimation: Certain solid substances when heated change directly from solid to gaseous state without attaining liquid state. Examples: Iodine, camphor, ammonium chloride. More to Know: Air fresheners in toilets, moth balls made of naphthalene sublime over time.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Moth balls used to drive away moths are made of ______ which sublimes over time.",
         "options": [
-          "naphthalene",
+          "sand",
           "common salt",
           "sugar",
-          "sand"
+          "naphthalene"
         ],
         "explanation": "Air fresheners and camphor also sublime and release a pleasant smell."
       },
       "ta": {
         "q": "பூச்சிகளை விரட்டப் பயன்படும் பூச்சி உருண்டைகள் ______ கொண்டவை; அவை காலப்போக்கில் பதங்கமாகின்றன.",
         "options": [
-          "நாப்தலீன்",
+          "மணல்",
           "சாதாரண உப்பு",
           "சர்க்கரை",
-          "மணல்"
+          "நாப்தலீன்"
         ],
         "explanation": "கழிவறை நறுமணப் பொருட்களும் கற்பூரமும் பதங்கமாகி மணத்தை வெளியிடுகின்றன."
       }
@@ -387,14 +387,14 @@
       "bloom": "remember",
       "page": 117,
       "quote": "Table 10.3: Solid and solid - handpicking, sieving, winnowing, magnetic separation, sublimation. Insoluble solid and liquid - sedimentation and decantation, loading, filtration, centrifugation. Two immiscible liquids - decantation, solvent extraction. Soluble solid and liquid - evaporation, distillation, crystallisation. Two miscible liquids - fractional distillation. Solution of two or more solids in a liquid - chromatography.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "Which method is used to separate the dyes of an ink (a solution of two or more solids in a liquid)?",
         "options": [
           "Winnowing",
           "Decantation",
-          "Sieving",
-          "Chromatography"
+          "Chromatography",
+          "Sieving"
         ],
         "explanation": "Chromatography separates components with different solubility in the same solvent."
       },
@@ -403,8 +403,8 @@
         "options": [
           "தூற்றுதல்",
           "சாய்த்து வடித்தல்",
-          "சலித்தல்",
-          "வண்ணப்பிரிகை (குரோமட்டோகிராபி)"
+          "வண்ணப்பிரிகை (குரோமட்டோகிராபி)",
+          "சலித்தல்"
         ],
         "explanation": "ஒரே கரைப்பானில் வெவ்வேறு கரைதிறன் கொண்ட கூறுகளை வண்ணப்பிரிகை பிரிக்கும்."
       }
@@ -416,14 +416,14 @@
       "bloom": "remember",
       "page": 118,
       "quote": "Centrifugation: In milk diaries, centrifugation is used to separate cream from milk. In washing machines, this principle is used to squeeze out water from wet clothes. Also used in pathological laboratories to separate blood cells from a blood sample.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "In milk dairies, cream is separated from milk by",
         "options": [
           "sublimation",
           "chromatography",
-          "distillation",
-          "centrifugation"
+          "centrifugation",
+          "distillation"
         ],
         "explanation": "The same principle squeezes water out of clothes in washing machines and separates blood cells in laboratories."
       },
@@ -432,8 +432,8 @@
         "options": [
           "பதங்கமாதல்",
           "வண்ணப்பிரிகை",
-          "காய்ச்சி வடித்தல்",
-          "மையவிலக்கம்"
+          "மையவிலக்கம்",
+          "காய்ச்சி வடித்தல்"
         ],
         "explanation": "இதே தத்துவம் துணி துவைக்கும் இயந்திரத்தில் நீரைப் பிழியவும், ஆய்வகங்களில் இரத்த அணுக்களைப் பிரிக்கவும் பயன்படுகிறது."
       }
@@ -445,12 +445,12 @@
       "bloom": "remember",
       "page": 118,
       "quote": "Solvent extraction is an old practice done for years. It is the main process in perfume development and it is also used to obtain dyes from various sources. It is used in pharmaceutical and petroleum industries.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "Solvent extraction works on the principle of difference in",
         "options": [
-          "boiling points of two miscible liquids",
           "solubility of two immiscible liquids in a suitable solvent",
+          "boiling points of two miscible liquids",
           "magnetic properties",
           "particle size only"
         ],
@@ -459,8 +459,8 @@
       "ta": {
         "q": "கரைப்பான் கொண்டு பிரித்தெடுக்கும் முறை எந்த வேறுபாட்டை அடிப்படையாகக் கொண்டது?",
         "options": [
-          "கலக்கும் இரு திரவங்களின் கொதிநிலை வேறுபாடு",
           "கலவாத இரு திரவங்களின் கரைதிறன் வேறுபாடு",
+          "கலக்கும் இரு திரவங்களின் கொதிநிலை வேறுபாடு",
           "காந்தப் பண்புகள்",
           "துகள் அளவு மட்டும்"
         ],
@@ -503,14 +503,14 @@
       "bloom": "remember",
       "page": 119,
       "quote": "Paper chromatography: This method is used to separate the different coloured dyes in a sample of ink. The chromatogram shows that the black ink contains three dyes.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "In the book's activity, the paper chromatography of black ink shows that it contains",
         "options": [
           "ten dyes",
           "one dye",
-          "no dye",
-          "three dyes"
+          "three dyes",
+          "no dye"
         ],
         "explanation": "The dyes separate because they have different solubility in the solvent and are adsorbed to different extents by the chromatography paper."
       },
@@ -519,8 +519,8 @@
         "options": [
           "பத்துச் சாயங்கள்",
           "ஒரு சாயம்",
-          "சாயம் இல்லை",
-          "மூன்று சாயங்கள்"
+          "மூன்று சாயங்கள்",
+          "சாயம் இல்லை"
         ],
         "explanation": "சாயங்கள் வெவ்வேறு கரைதிறன், வெவ்வேறு அளவு பரப்புக் கவர்தல் காரணமாகப் பிரிகின்றன."
       }
@@ -532,12 +532,12 @@
       "bloom": "remember",
       "page": 119,
       "quote": "Activity 5: Sugar, starch and wheat flour added to water. Sugar gives a clear solution (true solution), starch a cloudy mixture (colloidal solution) and wheat flour a very turbid mixture whose fine particles settle down (suspension).",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "When wheat flour is stirred in water, the fine particles slowly settle down at the bottom. The mixture is a",
         "options": [
-          "true solution",
           "suspension",
+          "true solution",
           "colloid",
           "compound"
         ],
@@ -546,8 +546,8 @@
       "ta": {
         "q": "கோதுமை மாவை நீரில் கலக்கும்போது நுண் துகள்கள் மெதுவாக அடியில் படிகின்றன. இக்கலவை",
         "options": [
-          "உண்மைக் கரைசல்",
           "தொங்கல்",
+          "உண்மைக் கரைசல்",
           "கூழ்மம்",
           "சேர்மம்"
         ],
@@ -561,14 +561,14 @@
       "bloom": "remember",
       "page": 120,
       "quote": "A colloidal solution is a heterogeneous system consisting of the dispersed phase and the dispersion medium. There are eight different combinations possible (Table 10.4). Colloids: particles approximately 1 to 100 nm.",
-      "answer": "D",
+      "answer": "C",
       "en": {
         "q": "A colloidal solution is a heterogeneous system consisting of a",
         "options": [
           "solute and solvent only",
           "solid and solid only",
-          "gas and gas only",
-          "dispersed phase and a dispersion medium"
+          "dispersed phase and a dispersion medium",
+          "gas and gas only"
         ],
         "explanation": "The combination of gas in gas is not possible because gas in gas always forms a true solution."
       },
@@ -577,8 +577,8 @@
         "options": [
           "கரைபொருள், கரைப்பான் மட்டும்",
           "திண்மம், திண்மம் மட்டும்",
-          "வாயு, வாயு மட்டும்",
-          "பரவும் நிலைமை, பரவல் ஊடகம்"
+          "பரவும் நிலைமை, பரவல் ஊடகம்",
+          "வாயு, வாயு மட்டும்"
         ],
         "explanation": "வாயு-வாயு இணை சாத்தியமில்லை; அது எப்போதும் உண்மைக் கரைசலாகும்."
       }
@@ -590,12 +590,12 @@
       "bloom": "remember",
       "page": 120,
       "quote": "Tyndall (1869) observed that when a strong beam of light is focused on a colloidal solution the path of the beam becomes visible. This phenomenon is known as Tyndall effect. This phenomenon is not observed in case of true solution.",
-      "answer": "B",
+      "answer": "A",
       "en": {
         "q": "The Tyndall effect, in which the path of a light beam becomes visible, is shown by",
         "options": [
-          "true solutions only",
           "colloidal solutions but not true solutions",
+          "true solutions only",
           "pure elements only",
           "no mixture"
         ],
@@ -604,8 +604,8 @@
       "ta": {
         "q": "ஒளிக்கற்றையின் பாதை தெரியும் டிண்டால் விளைவைக் காட்டுவது",
         "options": [
-          "உண்மைக் கரைசல்கள் மட்டும்",
           "கூழ்மக் கரைசல்கள்; உண்மைக் கரைசல்கள் அல்ல",
+          "உண்மைக் கரைசல்கள் மட்டும்",
           "தூய தனிமங்கள் மட்டும்",
           "எந்தக் கலவையும் அல்ல"
         ],
@@ -619,24 +619,24 @@
       "bloom": "remember",
       "page": 120,
       "quote": "More to Know: The beam of light coming from headlights of vehicles is due to Tyndall effect.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "The visible beam of light from the headlights of a vehicle in fog or dust is due to the",
         "options": [
-          "Tyndall effect",
+          "chromatography",
           "sublimation",
           "Brownian movement",
-          "chromatography"
+          "Tyndall effect"
         ],
         "explanation": "The scattering of light by colloidal particles in air makes the beam visible. (The book also attributes the blue colour of the sky to the Tyndall effect, but this is strictly due to Rayleigh scattering.)"
       },
       "ta": {
         "q": "மூடுபனி அல்லது தூசியில் வாகன முகப்பு விளக்கின் ஒளிக்கற்றை தெரிவதற்குக் காரணம்",
         "options": [
-          "டிண்டால் விளைவு",
+          "வண்ணப்பிரிகை",
           "பதங்கமாதல்",
           "பிரௌனியன் இயக்கம்",
-          "வண்ணப்பிரிகை"
+          "டிண்டால் விளைவு"
         ],
         "explanation": "காற்றிலுள்ள கூழ்மத் துகள்கள் ஒளியைச் சிதறடிப்பதால் கற்றை தெரிகிறது. (வானம் நீலமாகத் தெரிவதையும் நூல் டிண்டால் விளைவு என்கிறது; சரியாக அது ரேலே சிதறல்.)"
       }
@@ -677,13 +677,13 @@
       "bloom": "remember",
       "page": 121,
       "quote": "Types of emulsions: oil in water emulsion (O/W - e.g. cream), where the oil droplets are dispersed in water, or water in oil emulsion (W/O - e.g. butter), with water dispersed in oil.",
-      "answer": "C",
+      "answer": "B",
       "en": {
         "q": "Butter is an example of a",
         "options": [
           "oil in water (O/W) emulsion",
-          "true solution",
           "water in oil (W/O) emulsion",
+          "true solution",
           "suspension"
         ],
         "explanation": "Cream is an oil in water emulsion."
@@ -692,8 +692,8 @@
         "q": "வெண்ணெய் என்பது ஓர் எடுத்துக்காட்டு",
         "options": [
           "எண்ணெய்-நீர் (O/W) பால்மம்",
-          "உண்மைக் கரைசல்",
           "நீர்-எண்ணெய் (W/O) பால்மம்",
+          "உண்மைக் கரைசல்",
           "தொங்கல்"
         ],
         "explanation": "கிரீம் எண்ணெய்-நீர் பால்மம்."
@@ -735,14 +735,14 @@
       "bloom": "remember",
       "page": 122,
       "quote": "Points to Remember: Depending upon the chemical composition, matter is classified into elements, compounds and mixtures. Elements and compounds are considered to be pure substances as they contain only one kind of particles whereas mixtures contain more than one type of particles.",
-      "answer": "D",
+      "answer": "B",
       "en": {
         "q": "Depending upon the chemical composition, matter is classified into",
         "options": [
           "solids, liquids and gases",
-          "metals, metalloids and gases",
+          "elements, compounds and mixtures",
           "atoms, ions and electrons",
-          "elements, compounds and mixtures"
+          "metals, metalloids and gases"
         ],
         "explanation": "Classification into solids, liquids and gases is based on physical states."
       },
@@ -750,9 +750,9 @@
         "q": "வேதி இயைபின் அடிப்படையில் பருப்பொருள் வகைப்படுத்தப்படுவது",
         "options": [
           "திண்மம், திரவம், வாயு",
-          "உலோகம், உலோகப்போலி, வாயு",
+          "தனிமங்கள், சேர்மங்கள், கலவைகள்",
           "அணு, அயனி, எலக்ட்ரான்",
-          "தனிமங்கள், சேர்மங்கள், கலவைகள்"
+          "உலோகம், உலோகப்போலி, வாயு"
         ],
         "explanation": "திண்மம், திரவம், வாயு என்பது இயற்பியல் நிலைகளின் அடிப்படை."
       }
@@ -764,14 +764,14 @@
       "bloom": "remember",
       "page": 122,
       "quote": "Glossary: Colloid - a system in which finely divided particles, approximately 1 to 100 nm in size, are dispersed within a continuous medium in a manner that prevents them from being filtered easily or settled rapidly.",
-      "answer": "B",
+      "answer": "D",
       "en": {
         "q": "The particle size in a colloid is approximately",
         "options": [
           "less than 1 nm",
-          "1 to 100 nm",
+          "1 to 100 mm",
           "more than 1000 nm",
-          "1 to 100 mm"
+          "1 to 100 nm"
         ],
         "explanation": "Colloidal particles cannot be filtered easily or settled rapidly."
       },
@@ -779,9 +779,9 @@
         "q": "கூழ்மத்தில் துகள்களின் அளவு ஏறத்தாழ",
         "options": [
           "1 nm-க்குக் குறைவு",
-          "1 முதல் 100 nm",
+          "1 முதல் 100 மி.மீ",
           "1000 nm-க்கு மேல்",
-          "1 முதல் 100 மி.மீ"
+          "1 முதல் 100 nm"
         ],
         "explanation": "கூழ்மத் துகள்களை எளிதில் வடிகட்டவோ விரைவாகப் படியவைக்கவோ முடியாது."
       }
@@ -793,24 +793,24 @@
       "bloom": "remember",
       "page": 122,
       "quote": "More to Know: Have you seen colourful patches on a wet road? When oil drops in water on road, it floats over water and forms a colourful film.",
-      "answer": "A",
+      "answer": "D",
       "en": {
         "q": "Oil dropped on a wet road forms a colourful film because the oil",
         "options": [
-          "floats over water and forms a thin film",
+          "turns into a gas",
           "dissolves completely in water",
           "sinks below the water",
-          "turns into a gas"
+          "floats over water and forms a thin film"
         ],
         "explanation": "Oil is immiscible with water and less dense; it floats and spreads as a thin film."
       },
       "ta": {
         "q": "ஈரச் சாலையில் எண்ணெய் சிந்தினால் வண்ணப் படலம் உண்டாகக் காரணம், எண்ணெய்",
         "options": [
-          "நீரின் மேல் மிதந்து மெல்லிய படலமாகப் பரவுவது",
+          "வாயுவாக மாறுவது",
           "நீரில் முழுவதும் கரைவது",
           "நீரின் அடியில் மூழ்குவது",
-          "வாயுவாக மாறுவது"
+          "நீரின் மேல் மிதந்து மெல்லிய படலமாகப் பரவுவது"
         ],
         "explanation": "எண்ணெய் நீரில் கலவாது; அடர்த்தி குறைவு; எனவே மிதந்து மெல்லிய படலமாகப் பரவுகிறது."
       }
