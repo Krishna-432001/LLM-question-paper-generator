@@ -1,0 +1,500 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 8 Science Term-Full (English)",
+  "breadcrumb": "Std 8 Science (English) — Unit 6: Sound — Boxed notes (தெரிந்து தெளிவோம் / Do you know)",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 61,
+      "quote": "Sound cannot travel in vacuum and it needs a medium like air. The speed of sound is more in solids than in liquids and it is very less in gases.",
+      "answer": "D",
+      "en": {
+        "q": "The correct order of the speed of sound in different states of matter is ______.",
+        "options": [
+          "gases > liquids > solids",
+          "liquids > solids > gases",
+          "solids = liquids = gases",
+          "solids > liquids > gases"
+        ],
+        "explanation": "Sound travels fastest in solids, slower in liquids and slowest in gases."
+      },
+      "ta": {
+        "q": "பல்வேறு நிலைகளில் ஒலியின் வேகத்தின் சரியான வரிசை ______.",
+        "options": [
+          "வாயு > திரவம் > திண்மம்",
+          "திரவம் > திண்மம் > வாயு",
+          "திண்மம் = திரவம் = வாயு",
+          "திண்மம் > திரவம் > வாயு"
+        ],
+        "explanation": "ஒலி திண்மத்தில் வேகமாகவும் திரவத்தில் குறைவாகவும் வாயுவில் மிகக் குறைவாகவும் பரவும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 62,
+      "quote": "The speed of sound in air is 331 m s⁻¹ at 0°C and 344 m s⁻¹ at 22°C. In any medium, as the temperature increases the speed of sound also increases.",
+      "answer": "C",
+      "en": {
+        "q": "The speed of sound in air at 0 °C is ______.",
+        "options": [
+          "344 m s⁻¹",
+          "300 m s⁻¹",
+          "331 m s⁻¹",
+          "1498 m s⁻¹"
+        ],
+        "explanation": "It is 331 m s⁻¹ at 0 °C and 344 m s⁻¹ at 22 °C."
+      },
+      "ta": {
+        "q": "0°C-இல் காற்றில் ஒலியின் வேகம் ______.",
+        "options": [
+          "344 மீவி⁻¹",
+          "300 மீவி⁻¹",
+          "331 மீவி⁻¹",
+          "1498 மீவி⁻¹"
+        ],
+        "explanation": "0°C-இல் 331 மீவி⁻¹; 22°C-இல் 344 மீவி⁻¹."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 62,
+      "quote": "The amount of water vapour present in the air is known as humidity. The speed of sound increases with increase in humidity. This is because the density of air decreases with increase in humidity.",
+      "answer": "B",
+      "en": {
+        "q": "The speed of sound in air ______ with an increase in humidity.",
+        "options": [
+          "decreases",
+          "increases",
+          "remains constant",
+          "becomes zero"
+        ],
+        "explanation": "Humid air is less dense, so sound travels faster."
+      },
+      "ta": {
+        "q": "காற்றின் ஈரப்பதம் அதிகரிக்கும்போது ஒலியின் வேகம் ______.",
+        "options": [
+          "குறையும்",
+          "அதிகரிக்கும்",
+          "மாறாது",
+          "சுழியாகும்"
+        ],
+        "explanation": "ஈரப்பதம் அதிகரிக்கக் காற்றின் அடர்த்தி குறைவதால் ஒலி வேகமாகப் பரவும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 62,
+      "quote": "The speed of sound v = nλ, where n is the frequency and λ is the wavelength. The unit of wavelength is metre and the unit of frequency is hertz.",
+      "answer": "A",
+      "en": {
+        "q": "The unit of frequency is ______.",
+        "options": [
+          "hertz",
+          "metre",
+          "decibel",
+          "newton"
+        ],
+        "explanation": "Frequency (n) is in hertz; wavelength (λ) in metre; loudness in decibel."
+      },
+      "ta": {
+        "q": "அதிர்வெண்ணின் அலகு ______.",
+        "options": [
+          "ஹெர்ட்ஸ்",
+          "மீட்டர்",
+          "டெசிபல்",
+          "நியூட்டன்"
+        ],
+        "explanation": "அதிர்வெண் ஹெர்ட்ஸ்; அலைநீளம் மீட்டர்; உரப்பு டெசிபல்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 63,
+      "quote": "In a transverse wave the particles vibrate perpendicular to the direction of propagation. In a longitudinal wave the particles vibrate parallel to the direction of propagation. Sound waves are longitudinal.",
+      "answer": "D",
+      "en": {
+        "q": "Sound waves in air are ______ waves.",
+        "options": [
+          "transverse",
+          "electromagnetic",
+          "stationary only",
+          "longitudinal"
+        ],
+        "explanation": "In longitudinal waves the particles vibrate parallel to the direction of propagation."
+      },
+      "ta": {
+        "q": "காற்றில் ஒலி அலைகள் ______ அலைகள்.",
+        "options": [
+          "குறுக்கலைகள்",
+          "மின்காந்த அலைகள்",
+          "நிலையலைகள் மட்டும்",
+          "நெட்டலைகள்"
+        ],
+        "explanation": "நெட்டலைகளில் துகள்கள் அலை செல்லும் திசைக்கு இணையாக அதிர்கின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 63,
+      "quote": "A vibrating tuning fork moving forward compresses the air in front creating a region of high pressure called compression (C); moving backward creates a region of low pressure called rarefaction (R).",
+      "answer": "A",
+      "en": {
+        "q": "In a sound wave, the region of low pressure is called a ______.",
+        "options": [
+          "rarefaction",
+          "compression",
+          "crest",
+          "amplitude"
+        ],
+        "explanation": "High-pressure region = compression; low-pressure region = rarefaction."
+      },
+      "ta": {
+        "q": "ஒலி அலையில் குறைந்த அழுத்தப் பகுதி ______ எனப்படும்.",
+        "options": [
+          "தளர்ச்சி (நெகிழ்வு)",
+          "அமுக்கம்",
+          "முகடு",
+          "வீச்சு"
+        ],
+        "explanation": "அதிக அழுத்தப் பகுதி அமுக்கம்; குறைந்த அழுத்தப் பகுதி தளர்ச்சி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 63,
+      "quote": "In wave motion, only the energy is transferred, not the particles. Transverse waves are produced only in solids and liquids. Longitudinal waves are produced in solids, liquids and gases.",
+      "answer": "C",
+      "en": {
+        "q": "In wave motion, ______ is transferred from one point to another.",
+        "options": [
+          "the particles only",
+          "both particles and energy",
+          "only energy, not the particles",
+          "neither energy nor particles"
+        ],
+        "explanation": "Particles only vibrate about their mean position."
+      },
+      "ta": {
+        "q": "அலை இயக்கத்தில் ஓரிடத்திலிருந்து மற்றோரிடத்திற்குக் கடத்தப்படுவது ______.",
+        "options": [
+          "துகள்கள் மட்டும்",
+          "துகள்களும் ஆற்றலும்",
+          "ஆற்றல் மட்டுமே, துகள்கள் அல்ல",
+          "ஆற்றலும் இல்லை, துகள்களும் இல்லை"
+        ],
+        "explanation": "துகள்கள் தம் சமநிலைப் புள்ளியைச் சுற்றி அதிர்கின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 63,
+      "quote": "How do astronauts communicate with each other? The astronauts have devices in their helmets which transfer the sound waves from their voices into radio waves.",
+      "answer": "B",
+      "en": {
+        "q": "Astronauts communicate in space by converting their voice into ______.",
+        "options": [
+          "sound waves in vacuum",
+          "radio waves",
+          "light rays only",
+          "seismic waves"
+        ],
+        "explanation": "Sound cannot travel in vacuum, so helmet devices convert voices to radio waves."
+      },
+      "ta": {
+        "q": "விண்வெளியில் விண்வெளி வீரர்கள் தங்கள் குரலை ______ ஆக மாற்றித் தொடர்பு கொள்கிறார்கள்.",
+        "options": [
+          "வெற்றிடத்தில் பரவும் ஒலி அலைகள்",
+          "ரேடியோ அலைகள்",
+          "ஒளிக்கதிர்கள் மட்டும்",
+          "நிலநடுக்க அலைகள்"
+        ],
+        "explanation": "வெற்றிடத்தில் ஒலி பரவாததால் தலைக்கவசக் கருவிகள் குரலை ரேடியோ அலைகளாக மாற்றுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "The seismic wave formed during earthquake is an example for a longitudinal wave. Seismology is the branch of science that deals with the study of seismic waves.",
+      "answer": "C",
+      "en": {
+        "q": "Seismology is the study of ______.",
+        "options": [
+          "sound in air",
+          "light rays",
+          "seismic waves",
+          "ocean tides"
+        ],
+        "explanation": "Seismic waves travel through the Earth in earthquakes and explosions."
+      },
+      "ta": {
+        "q": "நிலநடுக்கவியல் என்பது ______ பற்றிய படிப்பு.",
+        "options": [
+          "காற்றில் ஒலி",
+          "ஒளிக்கதிர்கள்",
+          "நிலநடுக்க அலைகள்",
+          "கடல் அலை"
+        ],
+        "explanation": "நிலநடுக்கம், வெடிப்புகளால் புவியடுக்குகளில் செல்லும் அலைகள் நிலநடுக்க அலைகள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "The loudness of a sound depends on its amplitude. The unit of loudness of sound is decibel (dB).",
+      "answer": "A",
+      "en": {
+        "q": "The unit of loudness of sound is ______.",
+        "options": [
+          "decibel",
+          "hertz",
+          "metre",
+          "pascal"
+        ],
+        "explanation": "Loudness is measured in decibel (dB)."
+      },
+      "ta": {
+        "q": "ஒலியின் உரப்பின் அலகு ______.",
+        "options": [
+          "டெசிபல்",
+          "ஹெர்ட்ஸ்",
+          "மீட்டர்",
+          "பாஸ்கல்"
+        ],
+        "explanation": "உரப்பு டெசிபல் (dB) அலகால் அளவிடப்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 65,
+      "quote": "Infrasonic sound: below 20 Hz; humans cannot hear but some animals like dog, dolphin can. Uses: earth monitoring system, study of the mechanism of human heart.",
+      "answer": "D",
+      "en": {
+        "q": "Sounds below 20 Hz are called ______.",
+        "options": [
+          "ultrasonic sounds",
+          "audible sounds",
+          "sonic booms",
+          "infrasonic (subsonic) sounds"
+        ],
+        "explanation": "Infrasonic sound is used in the earth monitoring system and in the study of the human heart."
+      },
+      "ta": {
+        "q": "20 Hz-க்குக் குறைவான அதிர்வெண் கொண்ட ஒலிகள் ______ எனப்படும்.",
+        "options": [
+          "மீயொலி",
+          "கேட்புணர் ஒலி",
+          "ஒலி முழக்கம்",
+          "குற்றொலி"
+        ],
+        "explanation": "குற்றொலி புவி கண்காணிப்பு, மனித இதயத்தின் செயல்பாட்டை ஆராய்வதில் பயன்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 65,
+      "quote": "Ultrasonic sound is used in medical applications like 'sonogram', in the SONAR system to detect the depth of the sea and enemy submarines, in dish washers, and in Galton's whistle.",
+      "answer": "C",
+      "en": {
+        "q": "Which instrument used to train dogs works on ultrasonic sound?",
+        "options": [
+          "Sonar",
+          "Tuning fork",
+          "Galton's whistle",
+          "Phonograph"
+        ],
+        "explanation": "Galton's whistle is inaudible to humans but heard by dogs."
+      },
+      "ta": {
+        "q": "நாய்களுக்குப் பயிற்சி அளிக்கப் பயன்படும் மீயொலிக் கருவி எது?",
+        "options": [
+          "சோனார்",
+          "இசைக்கவை",
+          "கால்டன் விசில்",
+          "ஒலிப்பதிவுக் கருவி"
+        ],
+        "explanation": "கால்டன் விசில் மனிதனுக்குக் கேட்காது; நாய்களுக்குக் கேட்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 65,
+      "quote": "Bats produce ultrasonic sound during screaming. These ultrasonic waves help them to locate their way and the prey.",
+      "answer": "A",
+      "en": {
+        "q": "Bats locate their way and prey using ______.",
+        "options": [
+          "ultrasonic waves",
+          "infrasonic waves",
+          "light waves",
+          "radio waves"
+        ],
+        "explanation": "Bats produce ultrasonic sound while screaming."
+      },
+      "ta": {
+        "q": "வௌவால்கள் தம் பாதையையும் இரையையும் கண்டறியப் பயன்படுத்துவது ______.",
+        "options": [
+          "மீயொலி அலைகள்",
+          "குற்றொலி அலைகள்",
+          "ஒளி அலைகள்",
+          "ரேடியோ அலைகள்"
+        ],
+        "explanation": "வௌவால்கள் கத்தும்போது மீயொலியை உருவாக்குகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 65,
+      "quote": "Musical instruments are categorized into four types: wind instruments, reed instruments, stringed instruments and percussion instruments. Reed instruments include Harmonium and Mouth Organ.",
+      "answer": "B",
+      "en": {
+        "q": "Harmonium and mouth organ are examples of ______ instruments.",
+        "options": [
+          "wind",
+          "reed",
+          "stringed",
+          "percussion"
+        ],
+        "explanation": "A reed vibrates when air is blown through the instrument."
+      },
+      "ta": {
+        "q": "ஹார்மோனியம், வாய் ஆர்கன் ஆகியவை ______ இசைக்கருவிகளுக்கு எடுத்துக்காட்டு.",
+        "options": [
+          "காற்று",
+          "நாணல் (ரீட்)",
+          "நரம்பு",
+          "தாள"
+        ],
+        "explanation": "காற்றை ஊதும்போது நாணல் அதிர்ந்து ஒலி தோன்றுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 66,
+      "quote": "In human being, the sound is produced in the voice box, called the larynx. The larynx has two ligaments called vocal cords. Males generally have thicker and longer vocal cords that produce a deeper low pitch sound.",
+      "answer": "C",
+      "en": {
+        "q": "In humans, sound is produced in the ______.",
+        "options": [
+          "pinna",
+          "cochlea",
+          "larynx (voice box)",
+          "trachea"
+        ],
+        "explanation": "Air passing through the slit between the vocal cords makes them vibrate."
+      },
+      "ta": {
+        "q": "மனிதரில் ஒலி உருவாகும் இடம் ______.",
+        "options": [
+          "செவிமடல்",
+          "கோக்லியா",
+          "குரல்வளை (குரல் பெட்டி)",
+          "மூச்சுக்குழல்"
+        ],
+        "explanation": "குரல் நாண்களுக்கிடையிலான இடைவெளி வழியே காற்று செல்லும்போது அவை அதிர்ந்து ஒலி தோன்றுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 66,
+      "quote": "The outer and visible part of the human ear is called pinna. Sound reaches the ear drum (tympanic membrane) through the ear canal. The ossicles move inward and outward to create vibrations.",
+      "answer": "D",
+      "en": {
+        "q": "The outer visible part of the human ear is called the ______.",
+        "options": [
+          "ear drum",
+          "cochlea",
+          "Eustachian tube",
+          "pinna"
+        ],
+        "explanation": "The pinna gathers sound from the environment."
+      },
+      "ta": {
+        "q": "மனிதக் காதின் வெளியே தெரியும் பகுதி ______ எனப்படும்.",
+        "options": [
+          "செவிப்பறை",
+          "கோக்லியா",
+          "யூஸ்டேக்கியன் குழாய்",
+          "செவிமடல்"
+        ],
+        "explanation": "செவிமடல் சுற்றுப்புற ஒலியைச் சேகரிக்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 67,
+      "quote": "Noise pollution is the by-product of industrialisation, urbanisation and modern civilisation. The major source of noise pollution is from the industries.",
+      "answer": "A",
+      "en": {
+        "q": "The major source of noise pollution is ______.",
+        "options": [
+          "industries",
+          "forests",
+          "rivers",
+          "farms"
+        ],
+        "explanation": "Noise pollution is a by-product of industrialisation, urbanisation and modern civilisation."
+      },
+      "ta": {
+        "q": "ஒலி மாசுபாட்டின் முக்கிய மூலம் ______.",
+        "options": [
+          "தொழிற்சாலைகள்",
+          "காடுகள்",
+          "ஆறுகள்",
+          "வயல்கள்"
+        ],
+        "explanation": "ஒலி மாசுபாடு தொழில்மயமாக்கல், நகரமயமாக்கலின் துணைவிளைவு."
+      }
+    }
+  ]
+}

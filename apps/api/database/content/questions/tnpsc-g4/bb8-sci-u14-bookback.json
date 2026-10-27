@@ -1,0 +1,819 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 8 Science Term-Full (English)",
+  "breadcrumb": "Std 8 Science (English) — Unit 14: Acids and Bases — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Acids are ________ in taste. a) sour b) sweet c) bitter d) salty",
+      "answer": "A",
+      "en": {
+        "q": "Acids are ______ in taste.",
+        "options": [
+          "sour",
+          "sweet",
+          "bitter",
+          "salty"
+        ],
+        "explanation": "The term acid is derived from the Latin word 'acidus' meaning sour; bases are bitter."
+      },
+      "ta": {
+        "q": "அமிலங்கள் சுவையில் ______.",
+        "options": [
+          "புளிப்பானவை",
+          "இனிப்பானவை",
+          "கசப்பானவை",
+          "உப்பானவை"
+        ],
+        "explanation": "அமிலம் (acid) என்ற சொல் 'அசிடஸ்' என்ற இலத்தீன் சொல்லிலிருந்து வந்தது; இதன் பொருள் புளிப்பு; காரங்கள் கசப்பானவை."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Aqueous solutions of _________ conduct electricity. a) acid b) base c) salt d) All of these",
+      "answer": "C",
+      "en": {
+        "q": "Aqueous solutions of ______ conduct electricity.",
+        "options": [
+          "acids only",
+          "bases only",
+          "acids, bases and salts (all of these)",
+          "salts only"
+        ],
+        "explanation": "Acids and bases ionise in water and conduct electricity."
+      },
+      "ta": {
+        "q": "______ இன் நீர்க்கரைசல்கள் மின்சாரத்தைக் கடத்தும்.",
+        "options": [
+          "அமிலத்தின் மட்டும்",
+          "காரத்தின் மட்டும்",
+          "அமிலம், காரம், உப்பு ஆகிய அனைத்தின்",
+          "உப்பின் மட்டும்"
+        ],
+        "explanation": "அமிலங்கள், காரங்கள் நீரில் அயனியாவதால் மின்சாரத்தைக் கடத்துகின்றன."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "In acidic solutions blue litmus changes into ______ colour. a) blue b) green c) red d) white",
+      "answer": "B",
+      "en": {
+        "q": "In acidic solutions blue litmus changes into ______ colour.",
+        "options": [
+          "green",
+          "red",
+          "yellow",
+          "white"
+        ],
+        "explanation": "Blue litmus turns red in acid; red litmus turns blue in base."
+      },
+      "ta": {
+        "q": "அமிலக் கரைசலில் நீல லிட்மஸ் ______ நிறமாக மாறும்.",
+        "options": [
+          "பச்சை",
+          "சிவப்பு",
+          "மஞ்சள்",
+          "வெள்ளை"
+        ],
+        "explanation": "அமிலத்தில் நீல லிட்மஸ் சிவப்பாகும்; காரத்தில் சிவப்பு லிட்மஸ் நீலமாகும்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Base is a substance that gives _____ on dissolving in water. a) OH- b) H+ c) OH d) H",
+      "answer": "B",
+      "en": {
+        "q": "A base is a substance that gives ______ on dissolving in water.",
+        "options": [
+          "hydrogen ions (H⁺)",
+          "hydroxide ions (OH⁻)",
+          "chloride ions",
+          "hydronium atoms"
+        ],
+        "explanation": "Acids release H⁺ ions; bases release OH⁻ ions."
+      },
+      "ta": {
+        "q": "நீரில் கரையும்போது ______ ஐத் தரும் பொருள் காரம் எனப்படும்.",
+        "options": [
+          "ஹைட்ரஜன் அயனிகள் (H⁺)",
+          "ஹைட்ராக்சைடு அயனிகள் (OH⁻)",
+          "குளோரைடு அயனிகள்",
+          "ஹைட்ரோனியம் அணுக்கள்"
+        ],
+        "explanation": "அமிலங்கள் H⁺ அயனிகளையும் காரங்கள் OH⁻ அயனிகளையும் தருகின்றன."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Sodium hydroxide is a ____________ a) acid b) base c) oxide d) alkali",
+      "answer": "D",
+      "en": {
+        "q": "Bases which are soluble in water, such as sodium hydroxide, are called ______.",
+        "options": [
+          "acids",
+          "oxides",
+          "indicators",
+          "alkalis"
+        ],
+        "explanation": "All alkalis are bases but all bases are not alkalis."
+      },
+      "ta": {
+        "q": "சோடியம் ஹைட்ராக்சைடு போன்ற நீரில் கரையும் காரங்கள் ______ எனப்படும்.",
+        "options": [
+          "அமிலங்கள்",
+          "ஆக்சைடுகள்",
+          "காட்டிகள்",
+          "ஆல்கலிகள்"
+        ],
+        "explanation": "எல்லா ஆல்கலிகளும் காரங்கள்; ஆனால் எல்லாக் காரங்களும் ஆல்கலிகள் அல்ல."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Red ant sting contains __________ a) acetic acid b) sulphuric acid c) oxalic acid d) formic acid",
+      "answer": "C",
+      "en": {
+        "q": "The sting of a red ant (or a bee) contains ______.",
+        "options": [
+          "acetic acid",
+          "sulphuric acid",
+          "formic acid",
+          "oxalic acid"
+        ],
+        "explanation": "A suitable base like lime paste (calcium hydroxide) is applied to neutralise the formic acid."
+      },
+      "ta": {
+        "q": "செந்நிற எறும்பு (அல்லது தேனீ) கொட்டியதில் உள்ள அமிலம் ______.",
+        "options": [
+          "அசிட்டிக் அமிலம்",
+          "சல்பியூரிக் அமிலம்",
+          "ஃபார்மிக் அமிலம்",
+          "ஆக்சாலிக் அமிலம்"
+        ],
+        "explanation": "ஃபார்மிக் அமிலத்தை நடுநிலையாக்கச் சுண்ணாம்பு (கால்சியம் ஹைட்ராக்சைடு) தடவப்படுகிறது."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Magnesium hydroxides are used for treating_______ a) acidity b) head pain c) teeth decay d) None of these",
+      "answer": "B",
+      "en": {
+        "q": "Magnesium hydroxide is used for treating ______.",
+        "options": [
+          "head pain",
+          "acidity",
+          "tooth decay",
+          "wasp stings"
+        ],
+        "explanation": "Antacids are weak bases like aluminium and magnesium hydroxides."
+      },
+      "ta": {
+        "q": "மெக்னீசியம் ஹைட்ராக்சைடு ______ சிகிச்சைக்குப் பயன்படுகிறது.",
+        "options": [
+          "தலைவலி",
+          "அமிலத்தன்மை (நெஞ்செரிச்சல்)",
+          "பற்சிதைவு",
+          "குளவிக் கொட்டு"
+        ],
+        "explanation": "அமில நீக்கிகள் அலுமினியம், மெக்னீசியம் ஹைட்ராக்சைடு போன்ற மென்காரங்கள்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Acid mixed with base forms ________ a) salt and water b) salt c) water d) No reaction",
+      "answer": "A",
+      "en": {
+        "q": "When an acid reacts with a base, ______ are formed.",
+        "options": [
+          "salt and water",
+          "only salt",
+          "only water",
+          "no products"
+        ],
+        "explanation": "Acid + Base → Salt + Water is a neutralisation reaction."
+      },
+      "ta": {
+        "q": "அமிலமும் காரமும் வினைபுரியும்போது ______ உருவாகின்றன.",
+        "options": [
+          "உப்பும் நீரும்",
+          "உப்பு மட்டும்",
+          "நீர் மட்டும்",
+          "எதுவும் உருவாவதில்லை"
+        ],
+        "explanation": "அமிலம் + காரம் → உப்பு + நீர் என்பது நடுநிலையாக்கல் வினை."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "We brush our teeth with tooth paste because it is __________ in nature. a) basic b) acidic c) Both a and b d) None of these",
+      "answer": "D",
+      "en": {
+        "q": "We brush our teeth with tooth paste because it is ______ in nature.",
+        "options": [
+          "acidic",
+          "both acidic and basic",
+          "strongly acidic",
+          "basic (a weak base)"
+        ],
+        "explanation": "Tooth paste containing weak bases neutralises the acid formed by bacteria decomposing food particles."
+      },
+      "ta": {
+        "q": "பற்பசையால் பல் துலக்குவதன் காரணம் அது ______ தன்மை உடையது.",
+        "options": [
+          "அமிலத்தன்மை",
+          "அமிலம், காரம் இரண்டும்",
+          "வலிமையான அமிலத்தன்மை",
+          "காரத்தன்மை (மென்காரம்)"
+        ],
+        "explanation": "உணவுத் துகள்களை நுண்ணுயிர்கள் சிதைப்பதால் உண்டாகும் அமிலத்தை மென்காரங்கள் நடுநிலையாக்குகின்றன."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Benzoic acids are used for ___________",
+      "answer": "C",
+      "en": {
+        "q": "Benzoic acid is used for ______.",
+        "options": [
+          "making washing soaps",
+          "making paints",
+          "preserving food materials like pickles",
+          "neutralising acidity"
+        ],
+        "explanation": "Vinegar (acetic acid) is also used to preserve food."
+      },
+      "ta": {
+        "q": "பென்சாயிக் அமிலம் ______ பயன்படுகிறது.",
+        "options": [
+          "சலவை சோப்புகள் தயாரிக்க",
+          "வண்ணப்பூச்சுகள் தயாரிக்க",
+          "ஊறுகாய் போன்ற உணவுப் பொருள்களைப் பதப்படுத்த",
+          "அமிலத்தன்மையைப் போக்க"
+        ],
+        "explanation": "வினிகரும் (அசிட்டிக் அமிலம்) உணவைப் பதப்படுத்தப் பயன்படுகிறது."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "The word sour refers to __________ in Latin.",
+      "answer": "A",
+      "en": {
+        "q": "The word 'acid' is derived from the Latin word ______ which means sour.",
+        "options": [
+          "acidus",
+          "acetum",
+          "alkali",
+          "salis"
+        ],
+        "explanation": "Chemical compounds with a sour taste are generally called acids."
+      },
+      "ta": {
+        "q": "'அமிலம்' என்ற சொல் புளிப்பு எனப் பொருள்படும் ______ என்ற இலத்தீன் சொல்லிலிருந்து வந்தது.",
+        "options": [
+          "அசிடஸ்",
+          "அசிட்டம்",
+          "ஆல்கலி",
+          "சாலிஸ்"
+        ],
+        "explanation": "புளிப்புச் சுவையுள்ள வேதிச் சேர்மங்கள் பொதுவாக அமிலங்கள் எனப்படும்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Bases are _____________ in taste.",
+      "answer": "D",
+      "en": {
+        "q": "Bases are ______ in taste and soapy to touch in aqueous medium.",
+        "options": [
+          "sour",
+          "salty",
+          "sweet",
+          "bitter"
+        ],
+        "explanation": "Bases are also corrosive."
+      },
+      "ta": {
+        "q": "காரங்கள் சுவையில் ______; நீர்க்கரைசலில் வழவழப்பானவை.",
+        "options": [
+          "புளிப்பானவை",
+          "உப்பானவை",
+          "இனிப்பானவை",
+          "கசப்பானவை"
+        ],
+        "explanation": "காரங்கள் அரிக்கும் தன்மையுடையவை."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Chemical formula of calcium oxide is _______",
+      "answer": "D",
+      "en": {
+        "q": "The chemical formula of calcium oxide is ______.",
+        "options": [
+          "Ca(OH)₂",
+          "CaCO₃",
+          "CaCl₂",
+          "CaO"
+        ],
+        "explanation": "Ca(OH)₂ is calcium hydroxide; CaCO₃ is limestone."
+      },
+      "ta": {
+        "q": "கால்சியம் ஆக்சைடின் வேதி வாய்பாடு ______.",
+        "options": [
+          "Ca(OH)₂",
+          "CaCO₃",
+          "CaCl₂",
+          "CaO"
+        ],
+        "explanation": "Ca(OH)₂ கால்சியம் ஹைட்ராக்சைடு; CaCO₃ சுண்ணாம்புக்கல்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Wasp sting contains __________",
+      "answer": "B",
+      "en": {
+        "q": "A wasp sting injects an ______ substance, which is neutralised with vinegar.",
+        "options": [
+          "acidic",
+          "alkaline",
+          "neutral",
+          "oily"
+        ],
+        "explanation": "It causes burning sensation and pain; vinegar is an acid."
+      },
+      "ta": {
+        "q": "குளவி கொட்டும்போது செலுத்தப்படுவது ______ பொருள்; அது வினிகரால் நடுநிலையாக்கப்படுகிறது.",
+        "options": [
+          "அமிலத்தன்மை கொண்ட",
+          "காரத்தன்மை கொண்ட",
+          "நடுநிலைத்தன்மை கொண்ட",
+          "எண்ணெய்த்தன்மை கொண்ட"
+        ],
+        "explanation": "இது எரிச்சலையும் வலியையும் உண்டாக்கும்; வினிகர் ஓர் அமிலம்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Turmeric is used as a__________",
+      "answer": "A",
+      "en": {
+        "q": "Turmeric is used as a ______ indicator.",
+        "options": [
+          "natural",
+          "mineral",
+          "synthetic",
+          "electrical"
+        ],
+        "explanation": "Litmus, turmeric, China rose, red cabbage, grape juice and beetroot juice are natural indicators."
+      },
+      "ta": {
+        "q": "மஞ்சள் தூள் ஒரு ______ காட்டியாகப் பயன்படுகிறது.",
+        "options": [
+          "இயற்கைக்",
+          "கனிமக்",
+          "செயற்கைக்",
+          "மின்சாரக்"
+        ],
+        "explanation": "லிட்மஸ், மஞ்சள், செம்பருத்தி, சிவப்பு முட்டைக்கோஸ், திராட்சை, பீட்ரூட் சாறு ஆகியவை இயற்கைக் காட்டிகள்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "In acidic solution the colour of the hibiscus indicator paper will change to _____",
+      "answer": "A",
+      "en": {
+        "q": "In acidic solution the hibiscus indicator changes to ______.",
+        "options": [
+          "deep pink or deep red",
+          "green",
+          "yellow",
+          "colourless"
+        ],
+        "explanation": "In basic solution it changes to green."
+      },
+      "ta": {
+        "q": "அமிலக் கரைசலில் செம்பருத்தி காட்டி ______ நிறமாக மாறும்.",
+        "options": [
+          "அடர் இளஞ்சிவப்பு அல்லது அடர் சிவப்பு",
+          "பச்சை",
+          "மஞ்சள்",
+          "நிறமற்றது"
+        ],
+        "explanation": "காரக் கரைசலில் அது பச்சையாக மாறும்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Most of the acids are not soluble in water.",
+      "answer": "C",
+      "en": {
+        "q": "Which statement about acids is correct?",
+        "options": [
+          "Most acids are insoluble in water.",
+          "Acids are bitter in taste.",
+          "Acids are soluble in water.",
+          "Acids turn red litmus blue."
+        ],
+        "explanation": "Acids are soluble in water."
+      },
+      "ta": {
+        "q": "அமிலங்கள் பற்றிய சரியான கூற்று எது?",
+        "options": [
+          "பெரும்பாலான அமிலங்கள் நீரில் கரையாதவை.",
+          "அமிலங்கள் கசப்புச் சுவை உடையவை.",
+          "அமிலங்கள் நீரில் கரையும்.",
+          "அமிலங்கள் சிவப்பு லிட்மஸை நீலமாக்கும்."
+        ],
+        "explanation": "அமிலங்கள் நீரில் கரையும்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Bases are soapy to touch when they are dry.",
+      "answer": "C",
+      "en": {
+        "q": "Bases give a soapy touch ______.",
+        "options": [
+          "only in the dry state",
+          "in both dry and aqueous media always",
+          "only in aqueous medium, not in the dry state",
+          "never"
+        ],
+        "explanation": "Bases give a soapy touch only in aqueous medium, not in the dry state."
+      },
+      "ta": {
+        "q": "காரங்கள் வழவழப்பான தொடுணர்வைத் தருவது ______.",
+        "options": [
+          "உலர்ந்த நிலையில் மட்டும்",
+          "உலர்ந்த, நீர் நிலைகள் இரண்டிலும் எப்போதும்",
+          "நீர்க்கரைசலில் மட்டுமே; உலர்ந்த நிலையில் அல்ல",
+          "ஒருபோதும் இல்லை"
+        ],
+        "explanation": "காரங்கள் நீர்க்கரைசலில் மட்டுமே வழுவழுப்பான உணர்வைத் தரும்; உலர்ந்த நிலையில் தராது."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "All bases are alkalis.",
+      "answer": "B",
+      "en": {
+        "q": "Acids and Bases: Which statement is correct?",
+        "options": [
+          "All bases are alkalis.",
+          "All alkalis are bases but all bases are not alkalis.",
+          "No base is an alkali.",
+          "All alkalis are acids."
+        ],
+        "explanation": "Alkalis are water-soluble bases, so all alkalis are bases but not all bases are alkalis."
+      },
+      "ta": {
+        "q": "சரியான கூற்று எது?",
+        "options": [
+          "எல்லாக் காரங்களும் ஆல்கலிகள்.",
+          "எல்லா ஆல்கலிகளும் காரங்கள்; ஆனால் எல்லாக் காரங்களும் ஆல்கலிகள் அல்ல.",
+          "எந்தக் காரமும் ஆல்கலி அல்ல.",
+          "எல்லா ஆல்கலிகளும் அமிலங்கள்."
+        ],
+        "explanation": "நீரில் கரையும் காரங்களே ஆல்கலிகள்; எனவே எல்லா ஆல்கலிகளும் காரங்கள், ஆனால் எல்லாக் காரங்களும் ஆல்கலிகள் அல்ல."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Hibiscus flower is an example for natural indicator.",
+      "answer": "A",
+      "en": {
+        "q": "Which of the following is a natural indicator?",
+        "options": [
+          "Hibiscus flower extract",
+          "Phenolphthalein",
+          "Methyl orange",
+          "Sodium hydroxide"
+        ],
+        "explanation": "The statement is true. Phenolphthalein and methyl orange are synthetic indicators."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் இயற்கைக் காட்டி எது?",
+        "options": [
+          "செம்பருத்திப் பூச்சாறு",
+          "பீனாப்தலீன்",
+          "மெத்தில் ஆரஞ்சு",
+          "சோடியம் ஹைட்ராக்சைடு"
+        ],
+        "explanation": "கூற்று சரி; பீனாப்தலீன், மெத்தில் ஆரஞ்சு செயற்கைக் காட்டிகள்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "Acid - Define.",
+      "answer": "C",
+      "en": {
+        "q": "An acid is a substance that ______.",
+        "options": [
+          "releases hydroxide ions in water",
+          "tastes bitter",
+          "releases hydrogen ions (H⁺) when dissolved in water",
+          "turns red litmus blue"
+        ],
+        "explanation": "According to Arrhenius, an acid furnishes H⁺ or H₃O⁺ ions in aqueous solution."
+      },
+      "ta": {
+        "q": "அமிலம் என்பது நீரில் கரையும்போது ______ பொருள்.",
+        "options": [
+          "ஹைட்ராக்சைடு அயனிகளை வெளிவிடும்",
+          "கசப்புச் சுவை கொண்ட",
+          "ஹைட்ரஜன் அயனிகளை (H⁺) வெளிவிடும்",
+          "சிவப்பு லிட்மஸை நீலமாக்கும்"
+        ],
+        "explanation": "அர்ஹீனியஸின்படி அமிலம் நீர்க்கரைசலில் H⁺ அல்லது H₃O⁺ அயனிகளைத் தரும்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "What are the similarities between acids and bases?",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following is a similarity between acids and bases?",
+        "options": [
+          "Both taste sour",
+          "Both turn blue litmus red",
+          "Both are corrosive and conduct electricity in aqueous solution",
+          "Both are always solids"
+        ],
+        "explanation": "Both are corrosive, ionise in aqueous solution, conduct electricity and undergo neutralisation."
+      },
+      "ta": {
+        "q": "அமிலங்கள், காரங்களுக்கிடையேயான ஒற்றுமை எது?",
+        "options": [
+          "இரண்டும் புளிப்புச் சுவை உடையவை",
+          "இரண்டும் நீல லிட்மஸைச் சிவப்பாக்கும்",
+          "இரண்டும் அரிக்கும் தன்மையுடையவை; நீர்க்கரைசலில் மின்சாரத்தைக் கடத்துபவை",
+          "இரண்டும் எப்போதும் திண்மங்கள்"
+        ],
+        "explanation": "இரண்டும் அரிக்கும் தன்மை, நீர்க்கரைசலில் அயனியாதல், மின்கடத்தல், நடுநிலையாக்கல் ஆகிய பண்புகளை உடையவை."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "State the difference between acids and bases.",
+      "answer": "B",
+      "en": {
+        "q": "Which pair correctly states the difference between acids and bases?",
+        "options": [
+          "Acids produce OH⁻ ions and are bitter; bases produce H⁺ ions and are sour",
+          "Acids produce H⁺ ions and are sour; bases produce OH⁻ ions and are bitter",
+          "Acids are mostly solids; bases are mostly gases",
+          "Acids turn red litmus blue; bases turn blue litmus red"
+        ],
+        "explanation": "Acids turn blue litmus red; bases turn red litmus blue."
+      },
+      "ta": {
+        "q": "அமிலங்களுக்கும் காரங்களுக்கும் உள்ள வேறுபாட்டைச் சரியாகக் கூறும் இணை எது?",
+        "options": [
+          "அமிலங்கள் OH⁻ அயனிகளைத் தந்து கசப்பாக இருக்கும்; காரங்கள் H⁺ அயனிகளைத் தந்து புளிப்பாக இருக்கும்",
+          "அமிலங்கள் H⁺ அயனிகளைத் தந்து புளிப்பாக இருக்கும்; காரங்கள் OH⁻ அயனிகளைத் தந்து கசப்பாக இருக்கும்",
+          "அமிலங்கள் பெரும்பாலும் திண்மங்கள்; காரங்கள் பெரும்பாலும் வாயுக்கள்",
+          "அமிலங்கள் சிவப்பு லிட்மஸை நீலமாக்கும்; காரங்கள் நீல லிட்மஸைச் சிவப்பாக்கும்"
+        ],
+        "explanation": "அமிலங்கள் நீல லிட்மஸைச் சிவப்பாக்கும்; காரங்கள் சிவப்பு லிட்மஸை நீலமாக்கும்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "What is an indicator?",
+      "answer": "A",
+      "en": {
+        "q": "An indicator is a chemical substance that ______.",
+        "options": [
+          "shows the acidic or basic nature of a solution by a suitable colour change",
+          "neutralises acids",
+          "produces hydrogen gas",
+          "conducts electricity"
+        ],
+        "explanation": "Indicators may be natural (litmus, turmeric) or synthetic (phenolphthalein, methyl orange)."
+      },
+      "ta": {
+        "q": "காட்டி என்பது ______ வேதிப்பொருள்.",
+        "options": [
+          "பொருத்தமான நிற மாற்றத்தால் கரைசலின் அமில/காரத்தன்மையைக் காட்டும்",
+          "அமிலங்களை நடுநிலையாக்கும்",
+          "ஹைட்ரஜன் வாயுவை உருவாக்கும்",
+          "மின்சாரத்தைக் கடத்தும்"
+        ],
+        "explanation": "காட்டிகள் இயற்கை (லிட்மஸ், மஞ்சள்) அல்லது செயற்கை (பீனாப்தலீன், மெத்தில் ஆரஞ்சு) ஆக இருக்கலாம்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "What is a neutralization reaction?",
+      "answer": "C",
+      "en": {
+        "q": "A neutralisation reaction is a chemical reaction in which ______.",
+        "options": [
+          "two acids react to form a gas",
+          "a metal reacts with water",
+          "an acid and a base react to form salt and water",
+          "two salts form a precipitate"
+        ],
+        "explanation": "Example: HCl + NaOH → NaCl + H₂O."
+      },
+      "ta": {
+        "q": "நடுநிலையாக்கல் வினை என்பது ______ வேதிவினை.",
+        "options": [
+          "இரு அமிலங்கள் வினைபுரிந்து வாயுவைத் தரும்",
+          "உலோகம் நீருடன் வினைபுரியும்",
+          "அமிலமும் காரமும் வினைபுரிந்து உப்பையும் நீரையும் தரும்",
+          "இரு உப்புகள் வீழ்படிவு தரும்"
+        ],
+        "explanation": "எ.கா: HCl + NaOH → NaCl + H₂O."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "Write any four physical properties of base.",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following is a physical property of bases?",
+        "options": [
+          "They turn blue litmus red",
+          "They turn red litmus blue and turn phenolphthalein pink",
+          "They are sour in taste",
+          "They turn methyl orange red"
+        ],
+        "explanation": "Bases are bitter, corrosive, mostly solids, soapy in aqueous medium, and conduct electricity in aqueous solution."
+      },
+      "ta": {
+        "q": "காரங்களின் இயற்பியல் பண்பு எது?",
+        "options": [
+          "நீல லிட்மஸைச் சிவப்பாக்கும்",
+          "சிவப்பு லிட்மஸை நீலமாக்கும்; பீனாப்தலீனை இளஞ்சிவப்பாக்கும்",
+          "புளிப்புச் சுவை உடையவை",
+          "மெத்தில் ஆரஞ்சைச் சிவப்பாக்கும்"
+        ],
+        "explanation": "காரங்கள் கசப்பானவை, அரிப்பவை, பெரும்பாலும் திண்மங்கள்; நீர்க்கரைசலில் வழவழப்பானவை; மின்சாரத்தைக் கடத்தும்."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "Both lemon rice and curd rice are sour in taste. What is the reason?",
+      "answer": "D",
+      "en": {
+        "q": "Lemon rice and curd rice taste sour because they contain ______ respectively.",
+        "options": [
+          "acetic acid and citric acid",
+          "malic acid and oxalic acid",
+          "tartaric acid and formic acid",
+          "citric acid and lactic acid"
+        ],
+        "explanation": "Citric acid is present in lemon; lactic acid in sour milk (curd)."
+      },
+      "ta": {
+        "q": "எலுமிச்சை சாதமும் தயிர் சாதமும் புளிப்பாக இருக்கக் காரணம் அவற்றில் முறையே ______ உள்ளன.",
+        "options": [
+          "அசிட்டிக் அமிலம், சிட்ரிக் அமிலம்",
+          "மாலிக் அமிலம், ஆக்சாலிக் அமிலம்",
+          "டார்டாரிக் அமிலம், ஃபார்மிக் அமிலம்",
+          "சிட்ரிக் அமிலம், லாக்டிக் அமிலம்"
+        ],
+        "explanation": "எலுமிச்சையில் சிட்ரிக் அமிலமும் புளித்த பாலில் (தயிரில்) லாக்டிக் அமிலமும் உள்ளன."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "Keerthi's teeth are white without caries, but Heshna has teeth with caries. Why? How is it formed?",
+      "answer": "D",
+      "en": {
+        "q": "Tooth decay (caries) is caused when ______.",
+        "options": [
+          "bases dissolve the teeth",
+          "toothpaste forms an acid",
+          "saliva turns into a base",
+          "bacteria decompose food particles stuck between teeth and form acid"
+        ],
+        "explanation": "Brushing with tooth paste containing weak bases neutralises the acid."
+      },
+      "ta": {
+        "q": "பற்சிதைவு ஏற்படக் காரணம் ______.",
+        "options": [
+          "காரங்கள் பற்களைக் கரைப்பது",
+          "பற்பசை அமிலத்தை உருவாக்குவது",
+          "உமிழ்நீர் காரமாக மாறுவது",
+          "பற்களிடையே சிக்கிய உணவுத் துகள்களை நுண்ணுயிர்கள் சிதைத்து அமிலத்தை உருவாக்குவது"
+        ],
+        "explanation": "மென்காரங்கள் உள்ள பற்பசையால் துலக்கினால் அமிலம் நடுநிலையாக்கப்படும்."
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 8 Science Term-Full (English)",
+  "breadcrumb": "Std 8 Science (English) — Unit 23: Libre Office Calc — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 281,
+      "quote": "All functions begins with an ______ sign a) = b) - c) > d) }",
+      "answer": "A",
+      "en": {
+        "q": "All formulae and functions in Libre Office Calc begin with the ______ sign.",
+        "options": [
+          "equal to (=)",
+          "minus (-)",
+          "greater than (>)",
+          "curly bracket (})"
+        ],
+        "explanation": "A formula in Libre Office Calc starts with an equal to (=) sign."
+      },
+      "ta": {
+        "q": "லிப்ரே ஆஃபிஸ் கால்க்கில் அனைத்துச் சூத்திரங்களும் சார்புகளும் ______ குறியுடன் தொடங்குகின்றன.",
+        "options": [
+          "சமக்குறி (=)",
+          "கழித்தல் குறி (-)",
+          "பெரியது குறி (>)",
+          "சுருள் அடைப்புக் குறி (})"
+        ],
+        "explanation": "லிப்ரே ஆஃபிஸ் கால்க்கில் சூத்திரம் சமக்குறியுடன் (=) தொடங்கும்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 281,
+      "quote": "______ function is used to calculate the total of a given set of values. a) Average b) Sum c) Min d) Max",
+      "answer": "C",
+      "en": {
+        "q": "The function used to calculate the total of a given set of values is ______.",
+        "options": [
+          "AVERAGE()",
+          "MIN()",
+          "SUM()",
+          "MAX()"
+        ],
+        "explanation": "Example: =SUM(A2:A6) gives the total of the values in cells A2 to A6."
+      },
+      "ta": {
+        "q": "கொடுக்கப்பட்ட மதிப்புகளின் கூடுதலைக் கணக்கிடப் பயன்படும் சார்பு ______.",
+        "options": [
+          "AVERAGE()",
+          "MIN()",
+          "SUM()",
+          "MAX()"
+        ],
+        "explanation": "எ.கா: =SUM(A2:A6) என்பது A2 முதல் A6 வரையிலுள்ள மதிப்புகளின் கூடுதலைத் தரும்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 281,
+      "quote": "Which of the following is a relational operator? a) + b) > c) - d) NOT",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following is a relational operator?",
+        "options": [
+          "+",
+          ">",
+          "-",
+          "NOT"
+        ],
+        "explanation": "Relational operators are =, <>, >, <, >=, <=. + and - are arithmetic; NOT is a logical operator."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் தொடர்பு (ரிலேஷனல்) செயலி எது?",
+        "options": [
+          "+",
+          ">",
+          "-",
+          "NOT"
+        ],
+        "explanation": "தொடர்புச் செயலிகள்: =, <>, >, <, >=, <=. + , - கணிதச் செயலிகள்; NOT தருக்கச் செயலி."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 281,
+      "quote": "The ________ function returns the smallest value in a set of values. a) Average b) Sum c) Min d) Max",
+      "answer": "D",
+      "en": {
+        "q": "The function that returns the smallest value in a set of values is ______.",
+        "options": [
+          "MAX()",
+          "SUM()",
+          "COUNT()",
+          "MIN()"
+        ],
+        "explanation": "MAX() gives the largest value; COUNT() counts the cells containing numbers."
+      },
+      "ta": {
+        "q": "மதிப்புகளின் தொகுப்பில் மிகச் சிறிய மதிப்பைத் தரும் சார்பு ______.",
+        "options": [
+          "MAX()",
+          "SUM()",
+          "COUNT()",
+          "MIN()"
+        ],
+        "explanation": "MAX() மிகப் பெரிய மதிப்பைத் தரும்; COUNT() எண்கள் உள்ள கட்டங்களை எண்ணும்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 281,
+      "quote": "Explain count function with an example.",
+      "answer": "C",
+      "en": {
+        "q": "The COUNT() function ______.",
+        "options": [
+          "calculates the total of the values",
+          "calculates the average of the values",
+          "counts the number of values (cells containing numbers) in a range",
+          "finds the maximum value"
+        ],
+        "explanation": "Example: =COUNT(A2:A6) returns 5 for five numeric cells."
+      },
+      "ta": {
+        "q": "COUNT() சார்பு ______.",
+        "options": [
+          "மதிப்புகளின் கூடுதலைக் கணக்கிடும்",
+          "மதிப்புகளின் சராசரியைக் கணக்கிடும்",
+          "ஒரு வரம்பிலுள்ள மதிப்புகளின் (எண்கள் உள்ள கட்டங்களின்) எண்ணிக்கையைக் கணக்கிடும்",
+          "மிகப் பெரிய மதிப்பைக் காணும்"
+        ],
+        "explanation": "எ.கா: ஐந்து எண் கட்டங்களுக்கு =COUNT(A2:A6) என்பது 5 எனத் தரும்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 281,
+      "quote": "What is the purpose of charts?",
+      "answer": "B",
+      "en": {
+        "q": "The purpose of a chart in Libre Office Calc is to ______.",
+        "options": [
+          "sort the data",
+          "visualize the data for easy understanding",
+          "merge cells",
+          "save the worksheet"
+        ],
+        "explanation": "To draw a chart, select the data and click Insert → Chart."
+      },
+      "ta": {
+        "q": "லிப்ரே ஆஃபிஸ் கால்க்கில் வரைபடங்களின் (சார்ட்) நோக்கம் ______.",
+        "options": [
+          "தரவை வரிசைப்படுத்துவது",
+          "தரவை எளிதில் புரிந்துகொள்ளக் காட்சிப்படுத்துவது",
+          "கட்டங்களை ஒன்றிணைப்பது",
+          "பணித்தாளைச் சேமிப்பது"
+        ],
+        "explanation": "சார்ட் வரைய தரவைத் தேர்ந்தெடுத்து Insert → Chart என்பதைச் சொடுக்க வேண்டும்."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 281,
+      "quote": "What is the use of MAX() and MIN() functions?",
+      "answer": "D",
+      "en": {
+        "q": "For the values 67, 87, 47, 5 and 129, the MAX() and MIN() functions return respectively ______.",
+        "options": [
+          "5 and 129",
+          "87 and 47",
+          "129 and 47",
+          "129 and 5"
+        ],
+        "explanation": "MAX() calculates the maximum value and MIN() the minimum value from a given set of values."
+      },
+      "ta": {
+        "q": "67, 87, 47, 5, 129 ஆகிய மதிப்புகளுக்கு MAX(), MIN() சார்புகள் முறையே தருவது ______.",
+        "options": [
+          "5, 129",
+          "87, 47",
+          "129, 47",
+          "129, 5"
+        ],
+        "explanation": "MAX() மிகப் பெரிய மதிப்பையும் MIN() மிகச் சிறிய மதிப்பையும் தருகின்றன."
+      }
+    }
+  ]
+}

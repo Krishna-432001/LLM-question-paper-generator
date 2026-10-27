@@ -1,0 +1,906 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 8 Science Term-Full (English)",
+  "breadcrumb": "Std 8 Science (English) — Unit 2: Force and Pressure — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "Pressure exerted by a liquid is increased by a) the density of the liquid b) the height of the liquid column c) Both a and b d) None of the above",
+      "answer": "A",
+      "en": {
+        "q": "The pressure exerted by a liquid is increased by ______.",
+        "options": [
+          "both the density of the liquid and the height of the liquid column",
+          "the density of the liquid only",
+          "the height of the liquid column only",
+          "neither the density nor the height of the liquid column"
+        ],
+        "explanation": "Liquid pressure depends on the depth (height of the liquid column) and the density of the liquid; both increase it."
+      },
+      "ta": {
+        "q": "திரவம் செலுத்தும் அழுத்தம் ______ அதிகரிக்கிறது.",
+        "options": [
+          "திரவத்தின் அடர்த்தி, திரவ நிரலின் உயரம் ஆகிய இரண்டாலும்",
+          "திரவத்தின் அடர்த்தியால் மட்டும்",
+          "திரவ நிரலின் உயரத்தால் மட்டும்",
+          "அடர்த்தி, உயரம் ஆகிய இரண்டாலும் அன்று"
+        ],
+        "explanation": "திரவ அழுத்தம் ஆழம் (திரவ நிரலின் உயரம்), அடர்த்தி ஆகிய இரண்டையும் சார்ந்தது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "Unit of pressure is a) Pascal b) Nm-2 c) Poise d) Both a and b",
+      "answer": "C",
+      "en": {
+        "q": "The unit of pressure is ______.",
+        "options": [
+          "poise only",
+          "newton only",
+          "pascal and N m⁻² both",
+          "pascal only and not N m⁻²"
+        ],
+        "explanation": "1 pascal = 1 N m⁻²; so both pascal and N m⁻² are units of pressure (poise is the unit of viscosity)."
+      },
+      "ta": {
+        "q": "அழுத்தத்தின் அலகு ______.",
+        "options": [
+          "பாய்ஸ் மட்டும்",
+          "நியூட்டன் மட்டும்",
+          "பாஸ்கல் மற்றும் Nm⁻² இரண்டும்",
+          "பாஸ்கல் மட்டும்; Nm⁻² அன்று"
+        ],
+        "explanation": "1 பாஸ்கல் = 1 Nm⁻²; எனவே இரண்டும் அழுத்தத்தின் அலகுகள் (பாய்ஸ் என்பது பாகுநிலையின் அலகு)."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "The value of the atmospheric pressure at sea level is a) 76 cm of mercury column b) 760 cm ... c) 176 cm ... d) 7.6 cm ...",
+      "answer": "D",
+      "en": {
+        "q": "The value of atmospheric pressure at sea level is ______.",
+        "options": [
+          "760 cm of mercury column",
+          "176 cm of mercury column",
+          "7.6 cm of mercury column",
+          "76 cm of mercury column"
+        ],
+        "explanation": "At sea level the mercury column in a barometer is about 76 cm (760 mm) high."
+      },
+      "ta": {
+        "q": "கடல் மட்டத்தில் வளிமண்டல அழுத்தத்தின் மதிப்பு ______.",
+        "options": [
+          "760 செ.மீ பாதரசத் தம்பம்",
+          "176 செ.மீ பாதரசத் தம்பம்",
+          "7.6 செ.மீ பாதரசத் தம்பம்",
+          "76 செ.மீ பாதரசத் தம்பம்"
+        ],
+        "explanation": "கடல் மட்டத்தில் பாதரசமானியில் பாதரசத் தம்பத்தின் உயரம் சுமார் 76 செ.மீ (760 மி.மீ)."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "Pascal's law is used in a) hydraulic lift b) brake system c) pressing heavy bundles d) All the above",
+      "answer": "B",
+      "en": {
+        "q": "Pascal's law is used in ______.",
+        "options": [
+          "hydraulic lift only",
+          "hydraulic lift, brake system and pressing heavy bundles",
+          "brake system only",
+          "pressing heavy bundles only"
+        ],
+        "explanation": "Hydraulic lifts, automobile brakes and hydraulic presses all work on Pascal's law."
+      },
+      "ta": {
+        "q": "பாஸ்கல் விதி ______ பயன்படுகிறது.",
+        "options": [
+          "நீரியல் உயர்த்தியில் மட்டும்",
+          "நீரியல் உயர்த்தி, தடை செலுத்தி, அழுத்தப்பட்ட பொதி ஆகிய அனைத்திலும்",
+          "தடை செலுத்தியில் (பிரேக்) மட்டும்",
+          "அழுத்தப்பட்ட பொதிகளில் மட்டும்"
+        ],
+        "explanation": "நீரியல் உயர்த்தி, வாகனத் தடை செலுத்தி, நீரியல் அழுத்தி ஆகிய அனைத்தும் பாஸ்கல் விதிப்படி செயல்படுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "The pressure of a liquid column __________ with the depth of the column.",
+      "answer": "B",
+      "en": {
+        "q": "The pressure of a liquid column ______ with the depth of the column.",
+        "options": [
+          "decreases",
+          "increases",
+          "remains constant",
+          "becomes zero"
+        ],
+        "explanation": "Liquid pressure increases with depth."
+      },
+      "ta": {
+        "q": "ஆழம் அதிகரிக்கும்போது திரவ அழுத்தம் ______.",
+        "options": [
+          "குறையும்",
+          "அதிகரிக்கும்",
+          "மாறாது",
+          "சுழியாகும்"
+        ],
+        "explanation": "ஆழம் அதிகரிக்கும்போது திரவ அழுத்தம் அதிகரிக்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "Hydraulic lift works under the principle of __________.",
+      "answer": "A",
+      "en": {
+        "q": "A hydraulic lift works on the principle of ______.",
+        "options": [
+          "Pascal's law",
+          "Newton's third law",
+          "Archimedes' principle",
+          "Boyle's law"
+        ],
+        "explanation": "Hydraulic lifts work on Pascal's law."
+      },
+      "ta": {
+        "q": "நீரியல் உயர்த்தி ______ விதியை அடிப்படையாகக் கொண்டு செயல்படுகிறது.",
+        "options": [
+          "பாஸ்கல்",
+          "நியூட்டனின் மூன்றாம்",
+          "ஆர்க்கிமிடீஸ்",
+          "பாயில்"
+        ],
+        "explanation": "நீரியல் உயர்த்தி பாஸ்கல் விதியின்படி செயல்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "The property of __________ of a liquid surface enables the water droplets to move upward in plants.",
+      "answer": "D",
+      "en": {
+        "q": "The property of ______ of a liquid surface enables water to move upward in plants.",
+        "options": [
+          "viscosity",
+          "buoyancy",
+          "friction",
+          "surface tension"
+        ],
+        "explanation": "Surface tension causes capillary action in the xylem, raising water upward in plants."
+      },
+      "ta": {
+        "q": "தாவரங்களில் நீர் மேலே ஏறுவதற்குக் காரணம் ______ என்ற திரவப் பண்பே.",
+        "options": [
+          "பாகுநிலை",
+          "மிதப்பு",
+          "உராய்வு",
+          "பரப்பு இழுவிசை"
+        ],
+        "explanation": "பரப்பு இழுவிசையால் நிகழும் நுண்புழை ஏற்றத்தின் மூலம் சைலக் குழாய்களில் நீர் மேலே ஏறுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "A simple barometer was first constructed by __________.",
+      "answer": "B",
+      "en": {
+        "q": "A simple barometer was first constructed by ______.",
+        "options": [
+          "Pascal",
+          "Torricelli",
+          "Newton",
+          "Archimedes"
+        ],
+        "explanation": "The barometer was invented by Torricelli."
+      },
+      "ta": {
+        "q": "எளிய பாதரசமானியை முதன்முதலில் உருவாக்கியவர் ______.",
+        "options": [
+          "பாஸ்கல்",
+          "டாரிசெல்லி",
+          "நியூட்டன்",
+          "ஆர்க்கிமிடீஸ்"
+        ],
+        "explanation": "காற்றழுத்தத்தை அளக்கும் பாதரசமானியை டாரிசெல்லி கண்டுபிடித்தார்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "Force acting on a given area is called pressure.",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following correctly defines pressure?",
+        "options": [
+          "Force acting on a body in motion",
+          "Force that opposes motion",
+          "Force acting perpendicularly per unit area",
+          "Upward force exerted by a liquid"
+        ],
+        "explanation": "Pressure is the thrust (force perpendicular to a surface) acting on unit area; it depends on the force and the area of contact."
+      },
+      "ta": {
+        "q": "அழுத்தத்தைச் சரியாக வரையறுக்கும் கூற்று எது?",
+        "options": [
+          "இயக்கத்திலுள்ள பொருளின் மீது செயல்படும் விசை",
+          "இயக்கத்தை எதிர்க்கும் விசை",
+          "ஓரலகு பரப்பில் செங்குத்தாகச் செயல்படும் விசை",
+          "திரவம் செலுத்தும் மேல்நோக்கிய விசை"
+        ],
+        "explanation": "ஓரலகு பரப்பில் செங்குத்தாகச் செயல்படும் விசை (உந்துவிசை) அழுத்தம் எனப்படும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "A moving body comes to rest due to friction alone.",
+      "answer": "A",
+      "en": {
+        "q": "A moving body comes to rest mainly because of ______.",
+        "options": [
+          "the opposing frictional force and other resistive forces",
+          "its own weight alone",
+          "buoyant force alone",
+          "atmospheric pressure alone"
+        ],
+        "explanation": "The book's statement 'due to friction alone' is treated as false: other forces like air resistance also act; friction is not the only reason (see 'friction is the only reason for loss of energy' - false)."
+      },
+      "ta": {
+        "q": "இயங்கும் ஒரு பொருள் ஓய்வுநிலைக்கு வருவதற்கு முக்கியக் காரணம் ______.",
+        "options": [
+          "உராய்வு விசையும் பிற தடுக்கும் விசைகளும்",
+          "அதன் எடை மட்டுமே",
+          "மிதப்பு விசை மட்டுமே",
+          "வளிமண்டல அழுத்தம் மட்டுமே"
+        ],
+        "explanation": "'உராய்வினால் மட்டுமே' என்ற நூல் கூற்று தவறாகக் கருதப்படுகிறது; காற்றுத் தடை போன்ற பிற விசைகளும் செயல்படுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "A body will sink if the weight of the body is greater than the buoyant force.",
+      "answer": "B",
+      "en": {
+        "q": "A body sinks in a liquid when ______.",
+        "options": [
+          "its weight is less than the buoyant force",
+          "its weight is greater than the buoyant force",
+          "the buoyant force is greater than its weight",
+          "the liquid has no pressure"
+        ],
+        "explanation": "If the weight of the object is less than the upward (buoyant) force it floats; otherwise it sinks. The book's statement is true."
+      },
+      "ta": {
+        "q": "ஒரு பொருள் திரவத்தில் மூழ்குவதற்குக் காரணம் ______.",
+        "options": [
+          "அதன் எடை மிதப்பு விசையைவிடக் குறைவாக இருப்பது",
+          "அதன் எடை மிதப்பு விசையைவிட அதிகமாக இருப்பது",
+          "மிதப்பு விசை அதன் எடையைவிட அதிகமாக இருப்பது",
+          "திரவத்திற்கு அழுத்தம் இல்லாமை"
+        ],
+        "explanation": "பொருளின் எடை மிதப்பு விசையைவிட அதிகமாக இருந்தால் மூழ்கும்; குறைவாக இருந்தால் மிதக்கும். நூல் கூற்று சரி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "One atmosphere is equivalent to 1,00,000 newton force acting on one square metre.",
+      "answer": "D",
+      "en": {
+        "q": "One atmosphere (1 atm) is approximately equal to ______.",
+        "options": [
+          "1,000 pascal",
+          "10 pascal",
+          "760 pascal",
+          "1,00,000 pascal (about 1.01 × 10⁵ N m⁻²)"
+        ],
+        "explanation": "In the SI system 1 atm = 1,00,000 pascal (approximately); the book's statement is true."
+      },
+      "ta": {
+        "q": "ஒரு வளிமண்டல அழுத்தம் (1 atm) ஏறத்தாழ ______ ஆகும்.",
+        "options": [
+          "1,000 பாஸ்கல்",
+          "10 பாஸ்கல்",
+          "760 பாஸ்கல்",
+          "1,00,000 பாஸ்கல் (சுமார் 1.01 × 10⁵ Nm⁻²)"
+        ],
+        "explanation": "SI முறையில் 1 atm = 1,00,000 பாஸ்கல் (தோராயமாக); நூல் கூற்று சரி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "Rolling friction is slightly greater than the sliding friction.",
+      "answer": "A",
+      "en": {
+        "q": "Which statement about rolling and sliding friction is correct?",
+        "options": [
+          "Rolling friction is less than sliding friction.",
+          "Rolling friction is greater than sliding friction.",
+          "Rolling friction is slightly greater than sliding friction.",
+          "Both are always equal."
+        ],
+        "explanation": "Rolling friction is less than sliding friction, which is why wheels are provided in vehicles and trolleys."
+      },
+      "ta": {
+        "q": "உருளும் உராய்வு, நழுவு உராய்வு பற்றிய சரியான கூற்று எது?",
+        "options": [
+          "உருளும் உராய்வு, நழுவு உராய்வைவிடக் குறைவு.",
+          "உருளும் உராய்வு, நழுவு உராய்வைவிட அதிகம்.",
+          "உருளும் உராய்வு, நழுவு உராய்வைவிடச் சற்று அதிகம்.",
+          "இரண்டும் எப்போதும் சமம்."
+        ],
+        "explanation": "உருளும் உராய்வு நழுவு உராய்வைவிடக் குறைவு; அதனால்தான் வாகனங்களிலும் தள்ளுவண்டிகளிலும் சக்கரங்கள் பொருத்தப்படுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "Friction is the only reason for the loss of energy.",
+      "answer": "C",
+      "en": {
+        "q": "Which statement about friction and loss of energy is correct?",
+        "options": [
+          "Friction is the only reason for loss of energy.",
+          "Friction never causes loss of energy.",
+          "Friction is one of the reasons for loss of energy, not the only one.",
+          "Friction produces no heat."
+        ],
+        "explanation": "Friction wastes energy and produces heat, but it is not the only reason for energy loss."
+      },
+      "ta": {
+        "q": "சரியான கூற்று எது?",
+        "options": [
+          "ஆற்றல் இழப்புக்கு உராய்வு மட்டுமே காரணம்.",
+          "உராய்வு ஆற்றல் இழப்பை ஏற்படுத்தாது.",
+          "ஆற்றல் இழப்புக்கு உராய்வும் ஒரு காரணம்; அதுவே ஒரே காரணம் அன்று.",
+          "உராய்வு வெப்பத்தை உண்டாக்காது."
+        ],
+        "explanation": "உராய்வு ஆற்றலை வீணாக்கும், வெப்பத்தை உண்டாக்கும்; ஆனால் ஆற்றல் இழப்புக்கு அதுவே ஒரே காரணம் அன்று."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "Liquid pressure decreases with the decrease of depth.",
+      "answer": "A",
+      "en": {
+        "q": "Liquid pressure ______ when the depth decreases.",
+        "options": [
+          "decreases",
+          "increases",
+          "remains the same",
+          "becomes infinite"
+        ],
+        "explanation": "Liquid pressure increases with depth, so it decreases when depth decreases; the book's statement is true."
+      },
+      "ta": {
+        "q": "ஆழம் குறையும்போது திரவ அழுத்தம் ______.",
+        "options": [
+          "குறையும்",
+          "அதிகரிக்கும்",
+          "மாறாமல் இருக்கும்",
+          "முடிவிலியாகும்"
+        ],
+        "explanation": "ஆழத்துடன் திரவ அழுத்தம் அதிகரிக்கும்; ஆழம் குறைந்தால் அழுத்தமும் குறையும்; நூல் கூற்று சரி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "Viscosity depends on the pressure of a liquid.",
+      "answer": "B",
+      "en": {
+        "q": "The viscosity of a liquid is the property related to ______.",
+        "options": [
+          "the pressure of the liquid",
+          "the frictional (viscous) force between its layers",
+          "its upward buoyant force",
+          "its surface area contraction"
+        ],
+        "explanation": "Viscosity is the frictional force between the layers of a flowing liquid; it does not depend on the liquid's pressure."
+      },
+      "ta": {
+        "q": "திரவத்தின் பாகுநிலை என்பது ______ தொடர்புடைய பண்பு.",
+        "options": [
+          "திரவத்தின் அழுத்தத்துடன்",
+          "அதன் அடுக்குகளுக்கிடையே ஏற்படும் உராய்வு (பாகு) விசையுடன்",
+          "அதன் மேல்நோக்கிய மிதப்பு விசையுடன்",
+          "பரப்பளவுச் சுருக்கத்துடன்"
+        ],
+        "explanation": "பாகுநிலை என்பது பாயும் திரவ அடுக்குகளுக்கிடையே உள்ள உராய்வு விசை; அது திரவ அழுத்தத்தைச் சார்ந்ததன்று."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 19,
+      "quote": "Match the following (b): Barometer, Increasing area of contact, Lubricants, Irregular surface",
+      "answer": "D",
+      "en": {
+        "q": "Match the item in List I with List II:\na) Barometer\nb) Increasing area of contact\nc) Lubricants\nd) Irregular surface\n1. Atmospheric pressure\n2. Reduce friction\n3. Increases friction\n4. Cause of friction",
+        "options": [
+          "a-3, b-4, c-1, d-2",
+          "a-2, b-4, c-1, d-3",
+          "a-2, b-3, c-4, d-1",
+          "a-1, b-3, c-2, d-4"
+        ],
+        "explanation": "Barometer – Atmospheric pressure; Increasing area of contact – Increases friction; Lubricants – Reduce friction; Irregular surface – Cause of friction."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐப் பட்டியல் II-உடன் பொருத்துக:\na) பாதரசமானி\nb) தொடு பரப்பு அதிகரித்தல்\nc) உயவுப் பொருள்கள்\nd) ஒழுங்கற்ற பரப்பு\n1. வளிமண்டல அழுத்தம்\n2. உராய்வைக் குறைக்கும்\n3. உராய்வை அதிகரிக்கும்\n4. உராய்விற்கான காரணம்",
+        "options": [
+          "a-3, b-4, c-1, d-2",
+          "a-2, b-4, c-1, d-3",
+          "a-2, b-3, c-4, d-1",
+          "a-1, b-3, c-2, d-4"
+        ],
+        "explanation": "பாதரசமானி – வளிமண்டல அழுத்தம்; தொடு பரப்பு அதிகரித்தல் – உராய்வை அதிகரிக்கும்; உயவுப் பொருள்கள் – உராய்வைக் குறைக்கும்; ஒழுங்கற்ற பரப்பு – உராய்விற்கான காரணம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 20,
+      "quote": "Knot in a thread : static friction :: Ball bearing : _____ friction",
+      "answer": "A",
+      "en": {
+        "q": "Knot in a thread : static friction :: Ball bearing : ______ friction",
+        "options": [
+          "rolling",
+          "sliding",
+          "kinetic only",
+          "no"
+        ],
+        "explanation": "A knot is held by static friction; ball bearings replace sliding with rolling, so rolling friction."
+      },
+      "ta": {
+        "q": "நூலில் போடப்பட்டுள்ள முடிச்சு : நிலை உராய்வு :: பந்து தாங்கிகள் : ______ உராய்வு",
+        "options": [
+          "உருளும்",
+          "நழுவு",
+          "இயக்க மட்டும்",
+          "இல்லா"
+        ],
+        "explanation": "முடிச்சு நிலை உராய்வால் நிற்கிறது; பந்து தாங்கிகள் நழுவு உராய்வை உருளும் உராய்வாக மாற்றுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 20,
+      "quote": "Downward force : Weight :: Upward force offered by liquid : _____",
+      "answer": "B",
+      "en": {
+        "q": "Downward force : Weight :: Upward force offered by liquids : ______",
+        "options": [
+          "viscous force",
+          "buoyant force",
+          "surface tension",
+          "thrust"
+        ],
+        "explanation": "The downward force is weight; the upward force offered by a liquid is the buoyant force."
+      },
+      "ta": {
+        "q": "கீழ்நோக்கிய விசை : எடை :: திரவங்களால் தரப்படும் மேல்நோக்கிய விசை : ______",
+        "options": [
+          "பாகுவிசை",
+          "மிதப்பு விசை (மிதவை விசை)",
+          "பரப்பு இழுவிசை",
+          "உந்துவிசை"
+        ],
+        "explanation": "கீழ்நோக்கிய விசை எடை; திரவம் தரும் மேல்நோக்கிய விசை மிதப்பு விசை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 20,
+      "quote": "Assertion: Sharp knives are used to cut the vegetables. Reason: Sharp edges exert more pressure.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: Sharp knives are used to cut vegetables.\nReason [R]: Sharp edges exert more pressure.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "A sharp edge has a small area, so the same force gives more pressure and cuts easily; [R] explains [A]."
+      },
+      "ta": {
+        "q": "கூற்று [A]: கூர்மையான கத்தி காய்கறிகளை வெட்டப் பயன்படுகிறது.\nகாரணம் [R]: கூர்மையான முனைகள் அதிக அழுத்தத்தைத் தருகின்றன.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "கூர்மையான முனையின் பரப்பு குறைவு; அதே விசை அதிக அழுத்தத்தைத் தந்து எளிதில் வெட்டுகிறது; [R] என்பது [A]-க்கு விளக்கம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 20,
+      "quote": "Assertion: Broad straps are used in bags. Reason: Broad straps last for long.",
+      "answer": "C",
+      "en": {
+        "q": "Assertion [A]: Broad straps are used in bags.\nReason [R]: Broad straps increase the pressure on the shoulders.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "[A] is true: a broad strap increases the area of contact and so reduces the pressure on the shoulder; [R] is false."
+      },
+      "ta": {
+        "q": "கூற்று [A]: தோள் பைகளில் அகலமான பட்டைகள் அமைக்கப்படுகின்றன.\nகாரணம் [R]: அகலமான பட்டைகள் தோளின் மீதான அழுத்தத்தை அதிகரிக்கின்றன.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "[A] சரி: அகலமான பட்டை தொடு பரப்பை அதிகரித்துத் தோளின் மீதான அழுத்தத்தைக் குறைக்கிறது; [R] தவறு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 20,
+      "quote": "Assertion: Water strider slides easily on the surface of water. Reason: Water strider experiences less buoyant force.",
+      "answer": "C",
+      "en": {
+        "q": "Assertion [A]: A water strider slides easily on the surface of water.\nReason [R]: A water strider experiences less buoyant force.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "[A] is true, but the cause is the surface tension of water, not less buoyant force; so [R] is false."
+      },
+      "ta": {
+        "q": "கூற்று [A]: நீர்ச் சிலந்தி தண்ணீரின் மேற்பரப்பில் எளிதாக நகர்ந்து செல்கிறது.\nகாரணம் [R]: நீர்ச் சிலந்தி குறைவான மிதப்பு விசையை உணர்கிறது.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "[A] சரி; ஆனால் காரணம் நீரின் பரப்பு இழுவிசையே, குறைவான மிதப்பு விசை அன்று; எனவே [R] தவறு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 20,
+      "quote": "How do you feel when you touch a nail immediately after it is hammered into a wooden plank? Why?",
+      "answer": "D",
+      "en": {
+        "q": "A nail feels warm when touched immediately after being hammered into a wooden plank because ______.",
+        "options": [
+          "the nail gains weight",
+          "the wood absorbs heat from the air",
+          "atmospheric pressure heats the nail",
+          "friction between the nail and the wood produces heat"
+        ],
+        "explanation": "Friction produces heat."
+      },
+      "ta": {
+        "q": "மரப்பலகையில் ஆணியை அடித்த உடனே தொட்டால் அது சூடாக உணரப்படுவதற்குக் காரணம் ______.",
+        "options": [
+          "ஆணியின் எடை அதிகரிப்பது",
+          "மரம் காற்றிலுள்ள வெப்பத்தை உறிஞ்சுவது",
+          "வளிமண்டல அழுத்தம் ஆணியை வெப்பப்படுத்துவது",
+          "ஆணிக்கும் மரத்திற்கும் இடையிலான உராய்வு வெப்பத்தை உண்டாக்குவது"
+        ],
+        "explanation": "உராய்வு வெப்பத்தை உண்டாக்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 20,
+      "quote": "Define one atmosphere.",
+      "answer": "C",
+      "en": {
+        "q": "One atmosphere is defined as the pressure exerted by ______.",
+        "options": [
+          "a water column of height 76 cm",
+          "a mercury column of height 7.6 cm",
+          "a mercury column of height 76 cm in a barometer",
+          "a mercury column of height 760 cm"
+        ],
+        "explanation": "1 atm = pressure of a 76 cm mercury column = about 1.01 × 10⁵ N m⁻²."
+      },
+      "ta": {
+        "q": "ஒரு வளிமண்டல அழுத்தம் என்பது ______ செலுத்தும் அழுத்தமாகும்.",
+        "options": [
+          "76 செ.மீ உயரமுள்ள நீர்த் தம்பம்",
+          "7.6 செ.மீ உயரமுள்ள பாதரசத் தம்பம்",
+          "பாதரசமானியில் 76 செ.மீ உயரமுள்ள பாதரசத் தம்பம்",
+          "760 செ.மீ உயரமுள்ள பாதரசத் தம்பம்"
+        ],
+        "explanation": "76 செ.மீ பாதரசத் தம்பம் செலுத்தும் அழுத்தம் ஒரு வளிமண்டல அழுத்தம் (சுமார் 1.01 × 10⁵ Nm⁻²)."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 20,
+      "quote": "Why are heavy bags provided with broad straps?",
+      "answer": "B",
+      "en": {
+        "q": "Heavy bags are provided with broad straps in order to ______.",
+        "options": [
+          "decrease the area of contact and increase the pressure",
+          "increase the area of contact and decrease the pressure on the shoulders",
+          "increase the weight of the bag",
+          "increase friction with the road"
+        ],
+        "explanation": "Broader straps give a larger contact area and so less pressure on the shoulders."
+      },
+      "ta": {
+        "q": "அதிக எடையுள்ள பைகளில் அகலமான பட்டைகள் பொருத்தப்படுவதன் நோக்கம் ______.",
+        "options": [
+          "தொடு பரப்பைக் குறைத்து அழுத்தத்தை அதிகரிப்பது",
+          "தொடு பரப்பை அதிகரித்துத் தோளின் மீதான அழுத்தத்தைக் குறைப்பது",
+          "பையின் எடையை அதிகரிப்பது",
+          "சாலையுடன் உராய்வை அதிகரிப்பது"
+        ],
+        "explanation": "அகலமான பட்டை தொடு பரப்பை அதிகரித்து அழுத்தத்தைக் குறைக்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 20,
+      "quote": "How does surface tension help a plant?",
+      "answer": "D",
+      "en": {
+        "q": "Surface tension helps a plant by ______.",
+        "options": [
+          "producing food in the leaves",
+          "absorbing carbon dioxide",
+          "increasing the friction of roots",
+          "raising water upward through xylem vessels by capillary action"
+        ],
+        "explanation": "Water rises through narrow xylem vessels by capillary action caused by surface tension."
+      },
+      "ta": {
+        "q": "பரப்பு இழுவிசை தாவரத்திற்கு உதவுவது ______.",
+        "options": [
+          "இலைகளில் உணவு உற்பத்தி செய்து",
+          "கார்பன் டை ஆக்சைடை உறிஞ்சி",
+          "வேர்களின் உராய்வை அதிகரித்து",
+          "நுண்புழை ஏற்றத்தால் சைலக் குழாய்களின் வழியே நீரை மேலே ஏறச் செய்து"
+        ],
+        "explanation": "பரப்பு இழுவிசையால் ஏற்படும் நுண்புழை ஏற்றத்தால் சைலக் குழாய்களில் நீர் மேலே ஏறுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 20,
+      "quote": "Which has greater viscosity, oil or honey? Why?",
+      "answer": "D",
+      "en": {
+        "q": "Between oil and honey, ______ has greater viscosity because it flows more slowly.",
+        "options": [
+          "oil",
+          "both are equal",
+          "neither has viscosity",
+          "honey"
+        ],
+        "explanation": "Honey flows more slowly than oil, so it has the greater viscosity."
+      },
+      "ta": {
+        "q": "எண்ணெய், தேன் இவற்றுள் அதிக பாகுநிலை கொண்டது ______; ஏனெனில் அது மெதுவாகப் பாய்கிறது.",
+        "options": [
+          "எண்ணெய்",
+          "இரண்டும் சமம்",
+          "இரண்டிற்கும் பாகுநிலை இல்லை",
+          "தேன்"
+        ],
+        "explanation": "தேன் எண்ணெயைவிட மெதுவாகப் பாய்வதால் அதன் பாகுநிலை அதிகம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 20,
+      "quote": "Define friction. Give two examples of the utility of friction in day to day life.",
+      "answer": "C",
+      "en": {
+        "q": "Friction is the force that ______.",
+        "options": [
+          "pulls objects towards the Earth",
+          "pushes liquids upward",
+          "opposes the relative motion of two bodies in contact",
+          "contracts the surface of a liquid"
+        ],
+        "explanation": "Friction arises when two bodies in contact move or tend to move relative to each other and acts opposite to the motion."
+      },
+      "ta": {
+        "q": "உராய்வு என்பது ______ விசையாகும்.",
+        "options": [
+          "பொருள்களைப் புவியை நோக்கி இழுக்கும்",
+          "திரவங்களை மேல்நோக்கித் தள்ளும்",
+          "தொடுகையிலுள்ள இரு பொருள்களின் ஒப்புமை இயக்கத்தை எதிர்க்கும்",
+          "திரவப் பரப்பைச் சுருக்கும்"
+        ],
+        "explanation": "ஒன்றோடொன்று தொடுகையிலுள்ள பொருள்கள் இயங்கும்போது அல்லது இயங்க முயலும்போது இயக்கத்திற்கு எதிர்த்திசையில் செயல்படும் விசை உராய்வு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 20,
+      "quote": "Mention any three ways of minimising friction.",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following is a way of reducing friction?",
+        "options": [
+          "Increasing the area of contact",
+          "Using lubricants and ball bearings",
+          "Using rough surfaces",
+          "Increasing the weight on the body"
+        ],
+        "explanation": "Friction is reduced by lubricants, ball bearings and by decreasing the area of contact."
+      },
+      "ta": {
+        "q": "உராய்வைக் குறைக்கும் வழி எது?",
+        "options": [
+          "தொடு பரப்பை அதிகரித்தல்",
+          "உயவுப் பொருள்கள், பந்து தாங்கிகளைப் பயன்படுத்துதல்",
+          "சொரசொரப்பான பரப்புகளைப் பயன்படுத்துதல்",
+          "பொருளின் மீது எடையைக் கூட்டுதல்"
+        ],
+        "explanation": "உயவுப் பொருள்கள், பந்து தாங்கிகள், தொடு பரப்பைக் குறைத்தல் ஆகியவை உராய்வைக் குறைக்கும் வழிகள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 20,
+      "quote": "State Pascal's law and mention its applications.",
+      "answer": "A",
+      "en": {
+        "q": "Pascal's law states that the pressure applied at any point of a liquid at rest in a closed system is ______.",
+        "options": [
+          "distributed equally in all directions of the liquid",
+          "transmitted only upward",
+          "completely lost at the walls",
+          "transmitted only downward"
+        ],
+        "explanation": "Pascal's law: pressure applied at any point of a confined liquid at rest is transmitted equally in all directions."
+      },
+      "ta": {
+        "q": "பாஸ்கல் விதிப்படி, மூடிய அமைப்பிலுள்ள ஓய்விலுள்ள திரவத்தின் ஏதேனும் ஒரு புள்ளியில் செலுத்தப்படும் அழுத்தம் ______.",
+        "options": [
+          "திரவத்தின் எல்லாத் திசைகளிலும் சமமாகப் பரவும்",
+          "மேல்நோக்கி மட்டுமே பரவும்",
+          "சுவர்களில் முழுமையாக இழக்கப்படும்",
+          "கீழ்நோக்கி மட்டுமே பரவும்"
+        ],
+        "explanation": "மூடிய அமைப்பிலுள்ள ஓய்வுநிலைத் திரவத்தில் ஒரு புள்ளியில் செலுத்தப்படும் அழுத்தம் எல்லாத் திசைகளிலும் சமமாகப் பரவும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 20,
+      "quote": "Why is a ball bearing used in a cycle hub?",
+      "answer": "D",
+      "en": {
+        "q": "Ball bearings (lead shots) are used in a cycle hub because ______.",
+        "options": [
+          "sliding friction is smaller than rolling friction",
+          "they increase the weight of the wheel",
+          "they increase the heat produced",
+          "rolling friction is smaller than sliding friction"
+        ],
+        "explanation": "Ball bearings replace sliding with rolling, which has less friction."
+      },
+      "ta": {
+        "q": "மிதிவண்டியின் அச்சுகளில் பந்து தாங்கிகள் பயன்படுத்தப்படுவதற்குக் காரணம் ______.",
+        "options": [
+          "நழுவு உராய்வு உருளும் உராய்வைவிடக் குறைவு என்பதால்",
+          "அவை சக்கரத்தின் எடையைக் கூட்டுவதால்",
+          "அவை வெப்பத்தை அதிகரிப்பதால்",
+          "உருளும் உராய்வு நழுவு உராய்வைவிடக் குறைவு என்பதால்"
+        ],
+        "explanation": "பந்து தாங்கிகள் நழுவு உராய்வை உருளும் உராய்வாக மாற்றி உராய்வைக் குறைக்கின்றன."
+      }
+    }
+  ]
+}

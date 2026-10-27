@@ -1,0 +1,732 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 8 Science Term-Full (English)",
+  "breadcrumb": "Std 8 Science (English) — Unit 5: Electricity — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 57,
+      "quote": "The electrification of two different bodies on rubbing is because of the transfer of a) neutrons b) protons c) electrons d) protons and neutrons",
+      "answer": "C",
+      "en": {
+        "q": "The electrification of two different bodies on rubbing is due to the transfer of ______.",
+        "options": [
+          "neutrons",
+          "protons",
+          "electrons",
+          "protons and neutrons"
+        ],
+        "explanation": "Only loosely bound outer electrons are transferred during rubbing."
+      },
+      "ta": {
+        "q": "இரு வெவ்வேறு பொருள்களைத் தேய்க்கும்போது அவை மின்னேற்றம் அடைவதற்குக் காரணம் ______ இடம்பெயர்வது.",
+        "options": [
+          "நியூட்ரான்கள்",
+          "புரோட்டான்கள்",
+          "எலக்ட்ரான்கள்",
+          "புரோட்டான்கள், நியூட்ரான்கள்"
+        ],
+        "explanation": "தேய்க்கும்போது தளர்வாகப் பிணைக்கப்பட்ட வெளிவட்டப்பாதை எலக்ட்ரான்களே இடம்பெயர்கின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 57,
+      "quote": "An electroscope has been charged by induction with the help of charged glass rod. The charge on the electroscope is",
+      "answer": "D",
+      "en": {
+        "q": "An electroscope is charged by induction using a positively charged glass rod. The charge acquired by the electroscope is ______.",
+        "options": [
+          "positive",
+          "both positive and negative",
+          "zero",
+          "negative"
+        ],
+        "explanation": "Induction gives the body a charge opposite to that of the charged rod."
+      },
+      "ta": {
+        "q": "மின்னேற்றம் பெற்ற கண்ணாடிக் கம்பியைக் கொண்டு மின்தூண்டல் முறையில் நிலைமின்காட்டி மின்னேற்றம் பெறும்போது அதன் மின்னூட்டம் ______.",
+        "options": [
+          "நேர்மின்னூட்டம்",
+          "நேர், எதிர் இரண்டும்",
+          "மின்னூட்டம் இல்லை",
+          "எதிர்மின்னூட்டம்"
+        ],
+        "explanation": "தூண்டல் முறையில் பொருள் கம்பியின் மின்னூட்டத்திற்கு எதிரான மின்னூட்டம் பெறும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 57,
+      "quote": "Fuse is a) a switch b) a wire with low resistance c) a wire with high resistance d) a protective device for breaking an electric circuit",
+      "answer": "B",
+      "en": {
+        "q": "A fuse is ______.",
+        "options": [
+          "a switch",
+          "a protective device for breaking an electric circuit",
+          "a wire with low resistance",
+          "a source of electricity"
+        ],
+        "explanation": "A fuse is a strip of low-melting alloy that melts and breaks the circuit when current exceeds a safe limit."
+      },
+      "ta": {
+        "q": "மின் உருகி என்பது ______.",
+        "options": [
+          "ஒரு சுவிட்ச்",
+          "மின்சுற்றைத் துண்டிக்கும் ஒரு பாதுகாப்புச் சாதனம்",
+          "குறைந்த மின்தடை கொண்ட கம்பி",
+          "மின் மூலம்"
+        ],
+        "explanation": "மின் உருகி என்பது குறிப்பிட்ட அளவுக்கு மேல் மின்னோட்டம் பாயும்போது உருகிச் சுற்றைத் துண்டிக்கும் சாதனம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 57,
+      "quote": "_______takes place by rubbing objects together.",
+      "answer": "D",
+      "en": {
+        "q": "Transfer of charge by rubbing two objects together is called transfer by ______.",
+        "options": [
+          "conduction",
+          "induction",
+          "convection",
+          "friction"
+        ],
+        "explanation": "Rubbing transfers electrons between the objects."
+      },
+      "ta": {
+        "q": "பொருள்களை ஒன்றோடொன்று தேய்ப்பதால் மின்னூட்ட இடமாற்றம் ______ முறையில் நடைபெறுகிறது.",
+        "options": [
+          "கடத்துதல்",
+          "தூண்டப்படுதல்",
+          "சலனம்",
+          "உராய்வு"
+        ],
+        "explanation": "தேய்க்கும்போது எலக்ட்ரான்கள் ஒரு பொருளிலிருந்து மற்றதற்கு மாறுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 57,
+      "quote": "The body which has lost electrons becomes ________",
+      "answer": "C",
+      "en": {
+        "q": "A body that has lost electrons becomes ______.",
+        "options": [
+          "negatively charged",
+          "neutral",
+          "positively charged",
+          "a conductor"
+        ],
+        "explanation": "Loss of electrons leaves a deficiency of electrons, so the body is positively charged."
+      },
+      "ta": {
+        "q": "எலக்ட்ரான்களை இழந்த பொருள் ______ ஆகும்.",
+        "options": [
+          "எதிர்மின்னூட்டம் பெற்றதாக",
+          "நடுநிலையாக",
+          "நேர்மின்னூட்டம் பெற்றதாக",
+          "கடத்தியாக"
+        ],
+        "explanation": "எலக்ட்ரான்களை இழந்ததால் பற்றாக்குறை ஏற்பட்டு நேர்மின்னூட்டம் பெறுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 57,
+      "quote": "______ is a device that protects building from lightning strike.",
+      "answer": "B",
+      "en": {
+        "q": "The device that protects buildings from lightning strike is the ______.",
+        "options": [
+          "electroscope",
+          "lightning arrester",
+          "fuse",
+          "battery"
+        ],
+        "explanation": "A lightning arrester gives lightning an easy path to the ground."
+      },
+      "ta": {
+        "q": "இடி, மின்னலிலிருந்து கட்டடங்களைப் பாதுகாக்கும் சாதனம் ______.",
+        "options": [
+          "நிலைமின்காட்டி",
+          "மின்னல் கடத்தி",
+          "மின் உருகி",
+          "மின்கலம்"
+        ],
+        "explanation": "மின்னல் கடத்தி மின்னூட்டத்தை எளிதாகத் தரைக்குக் கொண்டு செல்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 57,
+      "quote": "_____ has a thin metallic filament that melts and breaks the connection when the circuit is overheated.",
+      "answer": "A",
+      "en": {
+        "q": "The device that has a thin metallic filament which melts and breaks the circuit when overheated is the ______.",
+        "options": [
+          "fuse",
+          "electroscope",
+          "switch",
+          "lightning rod"
+        ],
+        "explanation": "A fuse is made of lead-tin alloy with a low melting point."
+      },
+      "ta": {
+        "q": "மின்சுற்று அதிகம் சூடாகும்போது உருகி இணைப்பைத் துண்டிக்கும் மெல்லிய உலோக இழையைக் கொண்டது ______.",
+        "options": [
+          "மின் உருகி",
+          "நிலைமின்காட்டி",
+          "சுவிட்ச்",
+          "மின்னல் தண்டு"
+        ],
+        "explanation": "மின் உருகி குறைந்த உருகுநிலை கொண்ட ஈயம்-தகரக் கலவையால் ஆனது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 57,
+      "quote": "Three bulbs are connected end to end from the battery. This connection is called _______",
+      "answer": "D",
+      "en": {
+        "q": "Three bulbs connected end to end with a battery form a ______ connection.",
+        "options": [
+          "parallel",
+          "mixed only",
+          "open",
+          "series"
+        ],
+        "explanation": "Components connected end to end form a series circuit."
+      },
+      "ta": {
+        "q": "மூன்று பல்புகள் மின்கலத்துடன் முனை முனையாக இணைக்கப்பட்டால் அவ்விணைப்பு ______ எனப்படும்.",
+        "options": [
+          "பக்க இணைப்பு",
+          "கலப்பு மட்டும்",
+          "திறந்த இணைப்பு",
+          "தொடரிணைப்பு"
+        ],
+        "explanation": "முனை முனையாக இணைப்பது தொடரிணைப்பு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 57,
+      "quote": "The charge acquired by an ebonite rod rubbed with a piece of flannel is negative.",
+      "answer": "B",
+      "en": {
+        "q": "An ebonite rod rubbed with flannel (wool) acquires ______ charge.",
+        "options": [
+          "positive",
+          "negative",
+          "no",
+          "both"
+        ],
+        "explanation": "The statement is true: ebonite gains electrons and becomes negative."
+      },
+      "ta": {
+        "q": "ஈபோனைட் கம்பியைக் கம்பளித் துணியால் தேய்த்தால் அது பெறும் மின்னூட்டம் ______.",
+        "options": [
+          "நேர்",
+          "எதிர்",
+          "எதுவுமில்லை",
+          "இரண்டும்"
+        ],
+        "explanation": "நூல் கூற்று சரி; ஈபோனைட் எலக்ட்ரான்களைப் பெற்று எதிர்மின்னூட்டம் அடைகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "A charged body induces an opposite charge on an uncharged body when they are brought near.",
+      "answer": "B",
+      "en": {
+        "q": "When a charged body is brought near an uncharged body, the near end of the uncharged body acquires ______.",
+        "options": [
+          "the same charge as the charged body",
+          "a charge opposite to that of the charged body",
+          "no charge",
+          "a charge only at the far end"
+        ],
+        "explanation": "True: induction produces the opposite charge at the near end and similar charge at the far end."
+      },
+      "ta": {
+        "q": "மின்னேற்றம் பெற்ற பொருளை நடுநிலைப் பொருளுக்கு அருகில் கொண்டு வரும்போது நடுநிலைப் பொருளின் அருகிலுள்ள முனை ______ பெறும்.",
+        "options": [
+          "மின்னேற்றம் பெற்ற பொருளின் அதே மின்னூட்டத்தைப்",
+          "மின்னேற்றம் பெற்ற பொருளுக்கு எதிரான மின்னூட்டத்தைப்",
+          "மின்னூட்டம் எதையும்",
+          "தொலைவிலுள்ள முனையில் மட்டும் மின்னூட்டத்தைப்"
+        ],
+        "explanation": "நூல் கூற்று சரி; தூண்டலில் அருகிலுள்ள முனை எதிர் மின்னூட்டத்தையும் தொலைவிலுள்ள முனை ஒத்த மின்னூட்டத்தையும் பெறும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "Electroscope is a device used to charge a body by induction.",
+      "answer": "A",
+      "en": {
+        "q": "An electroscope is an instrument used to ______.",
+        "options": [
+          "detect the presence of electric charge on a body",
+          "charge a body by induction",
+          "measure current",
+          "produce lightning"
+        ],
+        "explanation": "An electroscope detects (and measures) electric charge; it is not used to charge a body."
+      },
+      "ta": {
+        "q": "நிலைமின்காட்டி என்பது ______ பயன்படும் கருவி.",
+        "options": [
+          "ஒரு பொருளில் மின்னூட்டம் இருப்பதைக் கண்டறியப்",
+          "பொருளைத் தூண்டல் முறையில் மின்னேற்றம் செய்யப்",
+          "மின்னோட்டத்தை அளவிடப்",
+          "மின்னலை உருவாக்கப்"
+        ],
+        "explanation": "நிலைமின்காட்டி மின்னூட்டத்தைக் கண்டறியப் (அளக்கவும்) பயன்படும்; ஒரு பொருளுக்கு மின்னூட்டம் அளிக்கப் பயன்படாது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "Water can conduct electricity.",
+      "answer": "C",
+      "en": {
+        "q": "Which statement about conduction of electricity by liquids is correct?",
+        "options": [
+          "Water and all solutions are insulators.",
+          "Only solids conduct electricity.",
+          "Liquids such as a conducting solution can conduct electricity.",
+          "Liquids never conduct electricity."
+        ],
+        "explanation": "True: Activity 5 shows that liquids (conducting solutions) conduct electricity."
+      },
+      "ta": {
+        "q": "சரியான கூற்று எது?",
+        "options": [
+          "நீரும் அனைத்துக் கரைசல்களும் காப்புப் பொருள்கள்.",
+          "திடப்பொருள்கள் மட்டுமே மின்சாரத்தைக் கடத்தும்.",
+          "கடத்தும் கரைசல்கள் போன்ற திரவங்கள் மின்சாரத்தைக் கடத்தும்.",
+          "திரவங்கள் மின்சாரத்தைக் கடத்தாது."
+        ],
+        "explanation": "நூல் கூற்று சரி; திரவங்களும் மின்சாரத்தைக் கடத்தும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "In parallel circuit, current remains the same in all components.",
+      "answer": "C",
+      "en": {
+        "q": "In a parallel circuit, ______.",
+        "options": [
+          "the current is the same in all components",
+          "the voltage is divided across the bulbs",
+          "the voltage is the same across each branch and the current gets divided",
+          "only one path is available"
+        ],
+        "explanation": "In a parallel circuit the voltage is the same across each branch while the current divides."
+      },
+      "ta": {
+        "q": "பக்க இணைப்புச் சுற்றில் ______.",
+        "options": [
+          "எல்லாப் பகுதிகளிலும் மின்னோட்டம் சமம்",
+          "பல்புகளுக்கிடையே மின்னழுத்தம் பிரியும்",
+          "ஒவ்வொரு கிளையிலும் மின்னழுத்தம் சமம்; மின்னோட்டம் பிரிந்து செல்லும்",
+          "ஒரே பாதை மட்டுமே உண்டு"
+        ],
+        "explanation": "பக்க இணைப்பில் ஒவ்வொரு கிளையிலும் மின்னழுத்தம் சமம்; மின்னோட்டம் பிரியும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "Match: Two similar charges, Two dissimilar charges, When glass rod is rubbed with silk, Fuse",
+      "answer": "A",
+      "en": {
+        "q": "Match List I with List II:\na) Two similar charges\nb) Two dissimilar charges\nc) Glass rod rubbed with silk\nd) Fuse\n1. Prevents a circuit from overheating\n2. Repel each other\n3. Attract each other\n4. Acquires a positive charge",
+        "options": [
+          "a-2, b-3, c-4, d-1",
+          "a-3, b-2, c-1, d-4",
+          "a-1, b-3, c-2, d-4",
+          "a-2, b-4, c-1, d-3"
+        ],
+        "explanation": "Two similar charges – Repel each other; Two dissimilar charges – Attract each other; Glass rod rubbed with silk – Acquires a positive charge; Fuse – Prevents a circuit from overheating."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐப் பட்டியல் II-உடன் பொருத்துக:\na) இரு ஒத்த மின்னூட்டங்கள்\nb) இரு வேறு மின்னூட்டங்கள்\nc) கண்ணாடிக் கம்பியைப் பட்டுத் துணியால் தேய்த்தால்\nd) மின் உருகி\n1. சுற்று அதிகம் சூடாவதைத் தடுக்கும்\n2. ஒன்றையொன்று விலக்கும்\n3. ஒன்றையொன்று கவரும்\n4. நேர்மின்னூட்டம் பெறும்",
+        "options": [
+          "a-2, b-3, c-4, d-1",
+          "a-3, b-2, c-1, d-4",
+          "a-1, b-3, c-2, d-4",
+          "a-2, b-4, c-1, d-3"
+        ],
+        "explanation": "இரு ஒத்த மின்னூட்டங்கள் – ஒன்றையொன்று விலக்கும்; இரு வேறு மின்னூட்டங்கள் – ஒன்றையொன்று கவரும்; கண்ணாடிக் கம்பியைப் பட்டுத் துணியால் தேய்த்தால் – நேர்மின்னூட்டம் பெறும்; மின் உருகி – சுற்று அதிகம் சூடாவதைத் தடுக்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "When a glass rod is rubbed with silk cloth both get charged.",
+      "answer": "C",
+      "en": {
+        "q": "When a glass rod is rubbed with silk cloth, both get charged because ______.",
+        "options": [
+          "protons are transferred from the silk to the glass",
+          "neutrons are transferred",
+          "electrons are transferred from the glass rod to the silk",
+          "charges are created from nothing"
+        ],
+        "explanation": "Free electrons in glass are less tightly bound; glass becomes positive and silk negative. Charges are neither created nor destroyed."
+      },
+      "ta": {
+        "q": "கண்ணாடிக் கம்பியைப் பட்டுத் துணியால் தேய்த்தால் இரண்டும் மின்னேற்றம் பெறக் காரணம் ______.",
+        "options": [
+          "பட்டிலிருந்து புரோட்டான்கள் கண்ணாடிக்கு மாறுவது",
+          "நியூட்ரான்கள் மாறுவது",
+          "கண்ணாடிக் கம்பியிலிருந்து எலக்ட்ரான்கள் பட்டுத் துணிக்கு மாறுவது",
+          "மின்னூட்டங்கள் புதிதாகத் தோன்றுவது"
+        ],
+        "explanation": "கண்ணாடி நேர்மின்னூட்டமும் பட்டு எதிர்மின்னூட்டமும் பெறும்; மின்னூட்டம் உருவாக்கவோ அழிக்கவோ முடியாது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "When a comb is rubbed with dry hair it attracts small bits of paper.",
+      "answer": "A",
+      "en": {
+        "q": "A comb rubbed with dry hair attracts small bits of paper because ______.",
+        "options": [
+          "the negatively charged comb attracts the positive charges at the edges of the paper bits",
+          "the comb becomes magnetic",
+          "the paper bits become heavier",
+          "the hair becomes positively charged only"
+        ],
+        "explanation": "The comb gains electrons from hair; its negative charge attracts the positive charges in the paper bits."
+      },
+      "ta": {
+        "q": "உலர்ந்த முடியில் தேய்த்த சீப்பு சிறு காகிதத் துண்டுகளைக் கவர்வதற்குக் காரணம் ______.",
+        "options": [
+          "எதிர்மின்னூட்டம் பெற்ற சீப்பு காகிதத் துண்டுகளின் ஓரங்களிலுள்ள நேர்மின்னூட்டங்களைக் கவர்வது",
+          "சீப்பு காந்தமாவது",
+          "காகிதத் துண்டுகள் கனமாவது",
+          "முடி மட்டும் நேர்மின்னூட்டம் பெறுவது"
+        ],
+        "explanation": "முடியிலிருந்து எலக்ட்ரான்களைப் பெற்ற சீப்பு எதிர்மின்னூட்டம் பெற்று காகிதத் துண்டுகளைக் கவரும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "When you touch the metal disc of an electroscope with a charged glass rod the metal leaves get diverged.",
+      "answer": "B",
+      "en": {
+        "q": "When the metal disc of an electroscope is touched with a charged glass rod, the leaves diverge because ______.",
+        "options": [
+          "the leaves acquire opposite charges",
+          "both leaves acquire similar charges and repel each other",
+          "the leaves become heavier",
+          "the rod becomes neutral"
+        ],
+        "explanation": "Charge flows to the leaves through the rod; like charges repel."
+      },
+      "ta": {
+        "q": "நிலைமின்காட்டியின் உலோகத் தட்டை மின்னேற்றம் பெற்ற கண்ணாடிக் கம்பியால் தொடும்போது இலைகள் விரிவதற்குக் காரணம் ______.",
+        "options": [
+          "இலைகள் எதிர் மின்னூட்டம் பெறுவது",
+          "இரு இலைகளும் ஒத்த மின்னூட்டம் பெற்று ஒன்றையொன்று விலக்குவது",
+          "இலைகள் கனமாவது",
+          "கம்பி நடுநிலையாவது"
+        ],
+        "explanation": "மின்னூட்டம் இலைகளுக்குப் பரவுவதால் ஒத்த மின்னூட்டங்கள் விலக்குகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "In an electroscope the connecting rod and the leaves are all metals.",
+      "answer": "D",
+      "en": {
+        "q": "The connecting rod and leaves of an electroscope are made of metals so that they ______.",
+        "options": [
+          "insulate the charge",
+          "absorb heat",
+          "reflect light",
+          "conduct electric charge easily"
+        ],
+        "explanation": "Gold and silver are the best conductors; the rod carries charge to the leaves."
+      },
+      "ta": {
+        "q": "நிலைமின்காட்டியின் இணைக்கும் தண்டும் இலைகளும் உலோகத்தால் ஆனவை; ஏனெனில் அவை ______.",
+        "options": [
+          "மின்னூட்டத்தைத் தடுக்கும்",
+          "வெப்பத்தை உறிஞ்சும்",
+          "ஒளியை எதிரொளிக்கும்",
+          "மின்னூட்டத்தை எளிதில் கடத்தும்"
+        ],
+        "explanation": "தங்கம், வெள்ளி சிறந்த கடத்திகள்; தண்டு மின்னூட்டத்தை இலைகளுக்குக் கொண்டு செல்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "One should not use an umbrella while crossing an open field during thunderstorm.",
+      "answer": "D",
+      "en": {
+        "q": "One should not use an umbrella while crossing an open field during a thunderstorm because ______.",
+        "options": [
+          "it increases the wind",
+          "it reflects sound",
+          "it makes you heavier",
+          "it makes you a target for lightning"
+        ],
+        "explanation": "An umbrella makes the person the highest object and a target for lightning."
+      },
+      "ta": {
+        "q": "இடி மின்னலின்போது திறந்த வெளியில் குடை பிடிக்கக் கூடாது; ஏனெனில் ______.",
+        "options": [
+          "அது காற்றை அதிகரிக்கும்",
+          "அது ஒலியை எதிரொளிக்கும்",
+          "அது உங்களைக் கனமாக்கும்",
+          "அது உங்களை மின்னலுக்கான இலக்காக மாற்றும்"
+        ],
+        "explanation": "குடை நம்மை மின்னல் தாக்கும் இலக்காக மாற்றுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 58,
+      "quote": "Assertion: People struck by lightning receive a severe electrical shock. Reason: Lightning carries very high voltage.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: People struck by lightning receive a severe electrical shock.\nReason [R]: Lightning carries very high voltage.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Lightning discharges huge electricity at very high voltage, which causes the severe shock; [R] explains [A]."
+      },
+      "ta": {
+        "q": "கூற்று [A]: மின்னலினால் பாதிக்கப்படும் நபர்கள் கடுமையான மின்னதிர்ச்சியை உணர்வார்கள்.\nகாரணம் [R]: மின்னல் அதிக மின்னழுத்தத்தைக் கொண்டிருக்கும்.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "மின்னல் மிக அதிக மின்னழுத்தத்தில் பெருமளவு மின்சாரத்தை வெளியேற்றுவதால் கடுமையான அதிர்ச்சி ஏற்படுகிறது; [R] என்பது [A]-க்கு விளக்கம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "How charges are produced by friction?",
+      "answer": "A",
+      "en": {
+        "q": "When two materials are rubbed together, charges are produced because ______.",
+        "options": [
+          "some electrons are transferred from one material to the other",
+          "new protons are created",
+          "neutrons are lost",
+          "the materials lose mass completely"
+        ],
+        "explanation": "Rubbing transfers electrons, leaving both with a net electric charge."
+      },
+      "ta": {
+        "q": "இரு பொருள்களைத் தேய்க்கும்போது மின்னூட்டம் தோன்றக் காரணம் ______.",
+        "options": [
+          "சில எலக்ட்ரான்கள் ஒரு பொருளிலிருந்து மற்றதற்கு இடம்பெயர்வது",
+          "புதிய புரோட்டான்கள் உருவாவது",
+          "நியூட்ரான்கள் இழக்கப்படுவது",
+          "பொருள்கள் நிறை முழுவதையும் இழப்பது"
+        ],
+        "explanation": "தேய்க்கும்போது எலக்ட்ரான்கள் மாறுவதால் இரண்டும் நிகர மின்னூட்டம் பெறுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "What is earthing?",
+      "answer": "D",
+      "en": {
+        "q": "Earthing is a safety measure in which ______.",
+        "options": [
+          "a battery is connected to a bulb",
+          "the neutral wire is removed",
+          "the live wire is cut",
+          "the discharge of electrical energy is transferred directly to the earth through a low-resistance wire"
+        ],
+        "explanation": "Earthing prevents shock if the insulation inside an appliance fails; the earth wire is connected to the metallic body."
+      },
+      "ta": {
+        "q": "புவித்தொடுப்பு என்பது ______ ஒரு பாதுகாப்பு நடவடிக்கை.",
+        "options": [
+          "மின்கலத்தைப் பல்புடன் இணைக்கும்",
+          "நடுநிலைக் கம்பியை நீக்கும்",
+          "மின்கம்பியை வெட்டும்",
+          "குறைந்த மின்தடைக் கம்பி மூலம் மின்னாற்றல் வெளியேற்றத்தை நேரடியாகப் புவிக்குச் செலுத்தும்"
+        ],
+        "explanation": "சாதனத்தின் உட்காப்பு பழுதானாலும் அதிர்ச்சி ஏற்படாமல் தடுக்க உலோக உடலுடன் புவிக்கம்பி இணைக்கப்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "What is electric circuit?",
+      "answer": "C",
+      "en": {
+        "q": "The path through which electrons flow from one terminal of the source to the other is called ______.",
+        "options": [
+          "an electroscope",
+          "a fuse",
+          "an electric circuit",
+          "an electrolyte"
+        ],
+        "explanation": "A simple circuit has a source, a conductor (wire), a switch and a resistor (lamp)."
+      },
+      "ta": {
+        "q": "மின்மூலத்தின் ஒரு முனையிலிருந்து மறுமுனைக்கு எலக்ட்ரான்கள் பாயும் பாதை ______ எனப்படும்.",
+        "options": [
+          "நிலைமின்காட்டி",
+          "மின் உருகி",
+          "மின்சுற்று",
+          "மின்பகுளி"
+        ],
+        "explanation": "ஒரு எளிய மின்சுற்றில் மின்மூலம், கடத்தும் கம்பி, சுவிட்ச், மின்தடை (விளக்கு) ஆகியவை இருக்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "What is electroplating?",
+      "answer": "B",
+      "en": {
+        "q": "Electroplating is the process of ______.",
+        "options": [
+          "removing a metal layer by heat",
+          "depositing a layer of one metal over the surface of another metal by passing electric current",
+          "charging a body by induction",
+          "joining two wires"
+        ],
+        "explanation": "Electroplating is a common application of the chemical effect of current."
+      },
+      "ta": {
+        "q": "மின்முலாம் பூசுதல் என்பது ______ செயல்முறை.",
+        "options": [
+          "வெப்பத்தால் உலோகப் படலத்தை நீக்கும்",
+          "மின்னோட்டத்தைச் செலுத்தி ஓர் உலோகத்தின் பரப்பின் மீது மற்றொரு உலோகத்தின் படலத்தைப் படியவைக்கும்",
+          "தூண்டல் முறையில் மின்னேற்றம் செய்யும்",
+          "இரு கம்பிகளை இணைக்கும்"
+        ],
+        "explanation": "மின்முலாம் பூசுதல் மின்னோட்டத்தின் வேதி விளைவின் பொதுப் பயன்பாடாகும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 58,
+      "quote": "Give some uses of electroplating.",
+      "answer": "A",
+      "en": {
+        "q": "Iron is coated with zinc by electroplating in order to ______.",
+        "options": [
+          "protect it from corrosion and rust",
+          "make it heavier",
+          "make it magnetic",
+          "increase its resistance"
+        ],
+        "explanation": "A zinc coating protects iron from corrosion; chromium coatings give a shiny, scratch-resistant finish."
+      },
+      "ta": {
+        "q": "இரும்பின் மீது துத்தநாகம் மின்முலாம் பூசப்படுவது அதனை ______.",
+        "options": [
+          "அரிப்பு, துருப்பிடித்தலிலிருந்து பாதுகாக்க",
+          "கனமாக்க",
+          "காந்தமாக்க",
+          "மின்தடையை அதிகரிக்க"
+        ],
+        "explanation": "துத்தநாகப் பூச்சு இரும்பை அரிப்பிலிருந்து காக்கிறது; குரோமியம் பளபளப்பையும் கீறல் தடுப்பையும் தரும்."
+      }
+    }
+  ]
+}
