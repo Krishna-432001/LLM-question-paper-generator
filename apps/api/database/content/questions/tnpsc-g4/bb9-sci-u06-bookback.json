@@ -1,0 +1,703 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 9 Science Term-Full (English)",
+  "breadcrumb": "Std 9 Science (English) — Unit 6: Light — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 77,
+      "quote": "I. 1. A ray of light passes from one medium to another medium. Refraction takes place when angle of incidence is a) 0 b) 45 c) 90",
+      "answer": "D",
+      "en": {
+        "q": "A ray of light passes from one medium to another. At which angle of incidence does it go without any deviation (no refraction)?",
+        "options": [
+          "45 degrees",
+          "90 degrees",
+          "30 degrees",
+          "0 degree"
+        ],
+        "explanation": "A ray incident normally (angle of incidence 0) on a denser medium goes without any deviation. The English book item is worded ambiguously; the Tamil edition asks when refraction does NOT occur."
+      },
+      "ta": {
+        "q": "ஒளி ஒரு ஊடகத்திலிருந்து மற்றொரு ஊடகத்திற்குச் செல்லும்போது எந்தப் படுகோணத்தில் விலகல் (ஒளிவிலகல்) அடையாது?",
+        "options": [
+          "45 டிகிரி",
+          "90 டிகிரி",
+          "30 டிகிரி",
+          "0 டிகிரி"
+        ],
+        "explanation": "செங்குத்தாகப் படும் ஒளிக்கதிர் (படுகோணம் 0) விலகலின்றிச் செல்லும். ஆங்கில நூலின் வினா தெளிவற்றது; தமிழ் நூல் 'ஒளிவிலகல் அடையாதது எப்போது' எனக் கேட்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 77,
+      "quote": "2. ______ is used as reflectors in torchlight. a) Concave mirror b) Plane mirror c) Convex mirror",
+      "answer": "B",
+      "en": {
+        "q": "______ is used as the reflector in a torchlight.",
+        "options": [
+          "Plane mirror",
+          "Concave mirror",
+          "Convex mirror",
+          "Prism"
+        ],
+        "explanation": "Concave mirrors are used as reflectors in torches, head lights and search lights to get powerful beams of light."
+      },
+      "ta": {
+        "q": "டார்ச் விளக்கில் எதிரொளிப்பானாகப் பயன்படுவது ______.",
+        "options": [
+          "சமதள ஆடி",
+          "குழியாடி",
+          "குவியாடி",
+          "முப்பட்டகம்"
+        ],
+        "explanation": "டார்ச், வாகன முகப்பு விளக்குகள், தேடொளி விளக்குகளில் ஒளிக்கற்றையை வலிமையாக்கக் குழியாடி பயன்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 77,
+      "quote": "II. 1. The angle of deviation depends on the refractive index of the glass.",
+      "answer": "B",
+      "en": {
+        "q": "The refractive index of a medium",
+        "options": [
+          "is measured in m s^-1",
+          "has no unit because it is the ratio of two similar quantities",
+          "is measured in degrees",
+          "is always less than 1"
+        ],
+        "explanation": "Refractive index is the ratio of the sine of the angle of incidence to the sine of the angle of refraction (or ratio of speeds), so it has no unit."
+      },
+      "ta": {
+        "q": "ஓர் ஊடகத்தின் ஒளிவிலகல் எண்",
+        "options": [
+          "மீ வி^-1 அலகில் அளக்கப்படுகிறது",
+          "இரு ஒத்த அளவுகளின் விகிதம் என்பதால் அலகு இல்லை",
+          "டிகிரியில் அளக்கப்படுகிறது",
+          "எப்போதும் 1-ஐ விடக் குறைவு"
+        ],
+        "explanation": "ஒளிவிலகல் எண் என்பது படுகோண, விலகுகோண சைன்களின் (அல்லது வேகங்களின்) விகிதம்; எனவே அதற்கு அலகு இல்லை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 77,
+      "quote": "2. If a ray of light passes obliquely from one medium to another, it does not suffer any deviation.",
+      "answer": "A",
+      "en": {
+        "q": "A ray of light passing obliquely from one transparent medium to another of different optical density",
+        "options": [
+          "gets deviated (refracted) from its path",
+          "goes undeviated",
+          "is always totally reflected",
+          "stops"
+        ],
+        "explanation": "Oblique passage causes bending (refraction) because the velocity of light changes; the book statement (no deviation) is false. Only a normally incident ray is undeviated."
+      },
+      "ta": {
+        "q": "ஓர் ஒளிக்கதிர் ஓர் ஒளி ஊடகத்திலிருந்து வேறு அடர்த்தியுள்ள ஊடகத்திற்குச் சாய்வாகச் செல்லும்போது",
+        "options": [
+          "தன் பாதையிலிருந்து விலகலடையும் (ஒளிவிலகல்)",
+          "விலகலின்றிச் செல்லும்",
+          "எப்போதும் முழுவதும் எதிரொளிக்கப்படும்",
+          "நின்றுவிடும்"
+        ],
+        "explanation": "ஒளியின் வேகம் மாறுவதால் சாய்வாகச் செல்லும் கதிர் விலகும்; 'விலகலடைவதில்லை' என்ற கூற்று தவறு; செங்குத்துக் கதிர் மட்டுமே விலகாது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 77,
+      "quote": "3. The convex mirror always produces a virtual, diminished and erect image of the object.",
+      "answer": "D",
+      "en": {
+        "q": "A convex mirror always produces an image that is",
+        "options": [
+          "real, inverted and diminished",
+          "virtual, erect and magnified",
+          "real, inverted and magnified",
+          "virtual, erect and diminished"
+        ],
+        "explanation": "A convex mirror always forms a virtual, erect, small-sized image of the object; the book statement is true."
+      },
+      "ta": {
+        "q": "குவியாடி எப்போதும் உருவாக்கும் பிம்பம்",
+        "options": [
+          "மெய்யான, தலைகீழான, சிறிதாக்கப்பட்டது",
+          "மாயமான, நேரான, பெரிதாக்கப்பட்டது",
+          "மெய்யான, தலைகீழான, பெரிதாக்கப்பட்டது",
+          "மாயமான, நேரான, சிறிதாக்கப்பட்டது"
+        ],
+        "explanation": "குவியாடி எப்போதும் மாய, நேரான, சிறிய பிம்பத்தை அளிக்கும்; நூலின் கூற்று சரி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 77,
+      "quote": "5. The reason for brilliance of diamonds is total internal reflection of light.",
+      "answer": "B",
+      "en": {
+        "q": "The brilliance of diamonds is mainly due to",
+        "options": [
+          "dispersion of sound",
+          "total internal reflection of light",
+          "refraction of sound",
+          "reflection from a plane mirror only"
+        ],
+        "explanation": "Total internal reflection is the main cause of the spectacular brilliance of diamonds and the twinkling of stars; the book statement is true."
+      },
+      "ta": {
+        "q": "வைரம் பிரகாசமாக மின்னக் காரணம்",
+        "options": [
+          "ஒலியின் நிறப்பிரிகை",
+          "ஒளியின் முழு அக எதிரொளிப்பு",
+          "ஒலியின் விலகல்",
+          "சமதள ஆடியின் எதிரொளிப்பு மட்டும்"
+        ],
+        "explanation": "வைரத்தின் அற்புதப் பிரகாசத்திற்கும் விண்மீன் மின்னலுக்கும் முழு அக எதிரொளிப்பே முக்கியக் காரணம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 77,
+      "quote": "4. The radius of curvature of a concave mirror whose focal length is 5 cm is _______.",
+      "answer": "A",
+      "en": {
+        "q": "The radius of curvature of a concave mirror whose focal length is 5 cm is",
+        "options": [
+          "10 cm",
+          "2.5 cm",
+          "5 cm",
+          "20 cm"
+        ],
+        "explanation": "R = 2f = 2 x 5 = 10 cm."
+      },
+      "ta": {
+        "q": "குவியத் தொலைவு 5 செ.மீ கொண்ட குழியாடியின் வளைவு ஆரம்",
+        "options": [
+          "10 செ.மீ",
+          "2.5 செ.மீ",
+          "5 செ.மீ",
+          "20 செ.மீ"
+        ],
+        "explanation": "R = 2f = 2 x 5 = 10 செ.மீ."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 77,
+      "quote": "5. Large _________ mirrors are used to concentrate sunlight to produce heat in solar furnaces.",
+      "answer": "D",
+      "en": {
+        "q": "Large ______ mirrors are used to concentrate sunlight to produce heat in solar furnaces.",
+        "options": [
+          "convex",
+          "plane",
+          "cylindrical convex",
+          "concave"
+        ],
+        "explanation": "Large concave mirrors are used in solar heaters/furnaces; the parallel sunlight is focused at a point."
+      },
+      "ta": {
+        "q": "சூரிய அடுப்புகளில் சூரிய ஒளியைக் குவித்து வெப்பம் உண்டாக்கப் பயன்படும் பெரிய ஆடிகள் ______.",
+        "options": [
+          "குவியாடிகள்",
+          "சமதள ஆடிகள்",
+          "உருளை வடிவ குவியாடிகள்",
+          "குழியாடிகள்"
+        ],
+        "explanation": "சூரியக் கதிர்களை ஒரு புள்ளியில் குவிக்கும் பெரிய குழியாடிகள் சூரிய அடுப்புகளில் பயன்படுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 77,
+      "quote": "IV. Match the following. Ratio of height of image to height of object - Magnification; Used in hairpin bends in mountains - Convex mirror; Mirage - Total internal reflection; Used as dentist's mirror - Concave mirror",
+      "answer": "A",
+      "en": {
+        "q": "Match List I with List II:\n(a) Ratio of height of image to height of object\n(b) Used in hairpin bends in mountains\n(c) Mirage\n(d) Used as dentist's mirror\n— \n(1) Convex mirror\n(2) Total internal reflection\n(3) Concave mirror\n(4) Magnification",
+        "options": [
+          "a-4, b-1, c-2, d-3",
+          "a-2, b-3, c-1, d-4",
+          "a-2, b-1, c-4, d-3",
+          "a-3, b-4, c-1, d-2"
+        ],
+        "explanation": "Magnification = hi/ho; convex mirrors are used at hairpin bends; a mirage is caused by total internal reflection; dentists use concave mirrors."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐப் பட்டியல் II உடன் பொருத்துக:\n(a) பிம்பத்தின் உயரத்திற்கும் பொருளின் உயரத்திற்கும் இடையேயான தகவு\n(b) மலைகளில் காணப்படும் கொண்டை ஊசி வளைவுகளில் பயன்படுவது\n(c) கானல் நீர்\n(d) பல் மருத்துவர் பயன்படுத்துவது\n— \n(1) குவியாடி\n(2) முழு அக எதிரொளிப்பு\n(3) குழியாடி\n(4) உருப்பெருக்கம்",
+        "options": [
+          "a-4, b-1, c-2, d-3",
+          "a-2, b-3, c-1, d-4",
+          "a-2, b-1, c-4, d-3",
+          "a-3, b-4, c-1, d-2"
+        ],
+        "explanation": "உருப்பெருக்கம் = hi/ho; கொண்டை ஊசி வளைவுகளில் குவியாடி; கானல் நீர் - முழு அக எதிரொளிப்பு; பல் மருத்துவர் - குழியாடி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 77,
+      "quote": "IV. 3. Coin inside water appearing slightly raised - Refraction",
+      "answer": "B",
+      "en": {
+        "q": "A coin kept inside water appears slightly raised because of",
+        "options": [
+          "reflection from a plane mirror",
+          "refraction of light",
+          "dispersion",
+          "total internal reflection"
+        ],
+        "explanation": "Light bends when it passes from water to air; this refraction makes the coin appear raised."
+      },
+      "ta": {
+        "q": "நீருக்குள் உள்ள நாணயம் சற்று மேலே உள்ளது போலத் தெரியக் காரணம்",
+        "options": [
+          "சமதள ஆடியின் எதிரொளிப்பு",
+          "ஒளிவிலகல்",
+          "நிறப்பிரிகை",
+          "முழு அக எதிரொளிப்பு"
+        ],
+        "explanation": "நீரிலிருந்து காற்றுக்குச் செல்லும் ஒளி விலகலடைவதால் நாணயம் மேலெழுந்தது போலத் தோன்றுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 77,
+      "quote": "V. 1. Assertion: For observing the traffic at a hairpin bend in mountain paths a plane mirror is preferred over convex mirror and concave mirror. Reason: A convex mirror has a much larger field of view than a plane mirror or a concave mirror.",
+      "answer": "D",
+      "en": {
+        "q": "Assertion [A]: For observing the traffic at a hairpin bend in mountain paths a plane mirror is preferred over a convex mirror and a concave mirror.\nReason [R]: A convex mirror has a much larger field of view than a plane mirror or a concave mirror.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "A is false, since a convex mirror is preferred at hairpin bends; R is true and gives the reason."
+      },
+      "ta": {
+        "q": "கூற்று [A]: மலைப்பாதைகளில் கொண்டை ஊசி வளைவில் போக்குவரத்தைக் கண்காணிக்கக் குவியாடி, குழியாடியை விடச் சமதள ஆடியே பயன்படுத்தப்படுகிறது.\nகாரணம் [R]: ஒரு குவியாடி சமதள ஆடி அல்லது குழியாடியை விட மிக அதிகமான பார்வைப்புலம் உடையது.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "கூற்று தவறு (குவியாடியே பயன்படுத்தப்படுகிறது); காரணம் சரி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 78,
+      "quote": "VI. 1. According to cartesian sign convention, which mirror and which lens has negative focal length?",
+      "answer": "C",
+      "en": {
+        "q": "According to the cartesian sign convention, the mirror with a negative focal length is the",
+        "options": [
+          "convex mirror",
+          "plane mirror",
+          "concave mirror",
+          "none of these"
+        ],
+        "explanation": "A concave mirror has f negative (f = -10 cm in the worked example); a convex mirror has positive f."
+      },
+      "ta": {
+        "q": "குறியீட்டு மரபுகளின்படி எதிர்க்குறி குவிய தொலைவு கொண்ட ஆடி",
+        "options": [
+          "குவியாடி",
+          "சமதள ஆடி",
+          "குழியாடி",
+          "எதுவுமில்லை"
+        ],
+        "explanation": "குழியாடியின் குவியத் தொலைவு எதிர்க்குறி; குவியாடியின் குவியத் தொலைவு நேர்க்குறி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 78,
+      "quote": "2. Name the mirror(s) that can give (i) an erect and enlarged image, (ii) same sized, inverted image.",
+      "answer": "C",
+      "en": {
+        "q": "The mirror that can give an erect and enlarged image as well as a same-sized inverted image (at different positions of the object) is the",
+        "options": [
+          "convex mirror",
+          "plane mirror",
+          "concave mirror",
+          "none of them"
+        ],
+        "explanation": "Concave mirror: erect and enlarged when the object is between F and P; inverted, same size when at C."
+      },
+      "ta": {
+        "q": "நேரான, பெரிதாக்கப்பட்ட பிம்பத்தையும், (வேறு நிலையில்) அதே அளவுள்ள தலைகீழ் பிம்பத்தையும் தரக்கூடிய ஆடி",
+        "options": [
+          "குவியாடி",
+          "சமதள ஆடி",
+          "குழியாடி",
+          "எதுவுமில்லை"
+        ],
+        "explanation": "குழியாடியில் F-க்கும் P-க்கும் இடையே நேரான பெரிய பிம்பமும், C-இல் தலைகீழான சம அளவு பிம்பமும் கிடைக்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 78,
+      "quote": "3. If an object is placed at the focus of a concave mirror, where is the image formed?",
+      "answer": "B",
+      "en": {
+        "q": "When an object is placed at the principal focus of a concave mirror, the reflected rays are parallel and the image is",
+        "options": [
+          "formed at the centre of curvature",
+          "formed at infinity (no image on a screen)",
+          "formed behind the mirror",
+          "formed at the pole"
+        ],
+        "explanation": "Case V: no image can be captured on the screen nor any virtual image seen; the rays are parallel, so the image is at infinity."
+      },
+      "ta": {
+        "q": "குழியாடியின் குவியத்தில் பொருளை வைக்கும்போது பிம்பம்",
+        "options": [
+          "வளைவு மையத்தில் உருவாகும்",
+          "முடிவிலியில் உருவாகும் (திரையில் பிடிக்க இயலாது)",
+          "ஆடிக்குப் பின்னால் உருவாகும்",
+          "முனையில் உருவாகும்"
+        ],
+        "explanation": "எதிரொளிக்கும் கதிர்கள் இணையாகச் செல்வதால் பிம்பம் முடிவிலியில்; திரையில் பிடிக்கவும் மாய பிம்பமாகக் காணவும் இயலாது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 78,
+      "quote": "4. Why does a ray of light bend when it travels from one medium to another?",
+      "answer": "B",
+      "en": {
+        "q": "A ray of light bends when it passes obliquely from one medium to another because",
+        "options": [
+          "light is absorbed",
+          "the velocity of light changes in the different medium",
+          "light changes its colour",
+          "light stops"
+        ],
+        "explanation": "The deviation is due to the change in velocity of light; velocity is more in a rarer medium than in a denser medium."
+      },
+      "ta": {
+        "q": "ஒளி ஒரு ஊடகத்திலிருந்து மற்றோர் ஊடகத்திற்குச் சாய்வாகச் செல்லும்போது வளைவதற்குக் காரணம்",
+        "options": [
+          "ஒளி உறிஞ்சப்படுவது",
+          "வெவ்வேறு ஊடகங்களில் ஒளியின் வேகம் மாறுவது",
+          "ஒளி நிறம் மாறுவது",
+          "ஒளி நின்றுவிடுவது"
+        ],
+        "explanation": "ஒளியின் வேகம் அடர் குறை ஊடகத்தில் அதிகம், அடர்மிகு ஊடகத்தில் குறைவு; இதனால் கதிர் விலகுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 78,
+      "quote": "5. What is the speed of light in vacuum?",
+      "answer": "D",
+      "en": {
+        "q": "The speed of light in vacuum is",
+        "options": [
+          "3 x 10^6 m s^-1",
+          "346 m s^-1",
+          "3 x 10^5 m s^-1",
+          "3 x 10^8 m s^-1"
+        ],
+        "explanation": "Today the speed of light in vacuum is known to be almost exactly 300,000 km per second."
+      },
+      "ta": {
+        "q": "வெற்றிடத்தில் ஒளியின் வேகம்",
+        "options": [
+          "3 x 10^6 மீ வி^-1",
+          "346 மீ வி^-1",
+          "3 x 10^5 மீ வி^-1",
+          "3 x 10^8 மீ வி^-1"
+        ],
+        "explanation": "வெற்றிடத்தில் ஒளியின் வேகம் ஏறத்தாழ வினாடிக்கு 3,00,000 கி.மீ."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 78,
+      "quote": "6. Concave mirrors are used by dentists to examine teeth. Why?",
+      "answer": "A",
+      "en": {
+        "q": "Dentists use a concave mirror to examine teeth because it",
+        "options": [
+          "gives an erect, magnified image when held close to the teeth",
+          "gives a diminished image",
+          "gives an inverted diminished image",
+          "has a wide field of view"
+        ],
+        "explanation": "A concave mirror held near the object gives an upright magnified image; it also focuses light on a small area."
+      },
+      "ta": {
+        "q": "பல்லை ஆராய பல் மருத்துவர்கள் குழியாடியைப் பயன்படுத்துவதற்குக் காரணம்",
+        "options": [
+          "அருகில் பிடிக்கும்போது நேரான, பெரிதாக்கப்பட்ட பிம்பத்தைத் தருவது",
+          "சிறிதாக்கப்பட்ட பிம்பத்தைத் தருவது",
+          "தலைகீழான சிறிய பிம்பத்தைத் தருவது",
+          "பரந்த பார்வைப்புலம் தருவது"
+        ],
+        "explanation": "பல்லுக்கு அருகில் வைக்கும்போது குழியாடி நேரான, பெரிதான பிம்பத்தையும் ஒளிக்குவிப்பையும் தருகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 78,
+      "quote": "VII. 2. Pick out the concave and convex mirrors from the following: Rear-view mirror, Dentist's mirror, Torchlight mirror, Mirrors in shopping malls, Make-up mirror.",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following uses a convex mirror?",
+        "options": [
+          "Dentist's mirror",
+          "Torchlight reflector",
+          "Rear-view mirror of a vehicle",
+          "Make-up mirror"
+        ],
+        "explanation": "Rear-view mirrors and mirrors in shopping malls are convex; dentist's, torchlight and make-up mirrors are concave."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் குவியாடியைப் பயன்படுத்துவது",
+        "options": [
+          "பல் மருத்துவர் ஆடி",
+          "டார்ச் விளக்கு எதிரொளிப்பான்",
+          "வாகனத்தின் பின்னோக்கு ஆடி",
+          "ஒப்பனை ஆடி"
+        ],
+        "explanation": "பின்னோக்கு ஆடி, பல்பொருள் அங்காடி ஆடிகள் குவியாடிகள்; பல் மருத்துவர், டார்ச், ஒப்பனை ஆடிகள் குழியாடிகள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 78,
+      "quote": "3. State the direction of incident ray which after reflection from a spherical mirror retraces its path. Give reason for your answer.",
+      "answer": "A",
+      "en": {
+        "q": "A ray incident on a spherical mirror retraces its path after reflection when it is directed",
+        "options": [
+          "towards the centre of curvature",
+          "parallel to the principal axis",
+          "towards the pole at an angle",
+          "towards the focus"
+        ],
+        "explanation": "A ray directed towards the centre of curvature falls along the normal (i = r = 0) and is reflected back along its own path."
+      },
+      "ta": {
+        "q": "கோளக ஆடியில் பட்டு எதிரொளித்த பின் அதே பாதையில் திரும்பும் படுகதிரின் திசை",
+        "options": [
+          "வளைவு மையத்தை நோக்கி",
+          "முதன்மை அச்சுக்கு இணையாக",
+          "முனையை நோக்கிச் சாய்வாக",
+          "குவியத்தை நோக்கி"
+        ],
+        "explanation": "வளைவு மையத்தை நோக்கிச் செல்லும் கதிர் செங்குத்தாகப் படுவதால் (i = r = 0) அதே பாதையில் திரும்பும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 78,
+      "quote": "4. What is meant by magnification? Write its expression. What is its sign for real image and virtual image?",
+      "answer": "B",
+      "en": {
+        "q": "The linear magnification m = hi/ho is negative for a ______ image and positive for a ______ image.",
+        "options": [
+          "virtual; real",
+          "real; virtual",
+          "real; real",
+          "virtual; virtual"
+        ],
+        "explanation": "A negative sign of magnification indicates a real image; a positive sign indicates a virtual image."
+      },
+      "ta": {
+        "q": "நேர்கோட்டு உருப்பெருக்கம் m = hi/ho ஆனது ______ பிம்பத்திற்கு எதிர்க்குறியும், ______ பிம்பத்திற்கு நேர்க்குறியும் பெறும்.",
+        "options": [
+          "மாய; மெய்",
+          "மெய்; மாய",
+          "மெய்; மெய்",
+          "மாய; மாய"
+        ],
+        "explanation": "உருப்பெருக்கத்தின் எதிர்க்குறி மெய் பிம்பத்தையும், நேர்க்குறி மாய பிம்பத்தையும் குறிக்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 78,
+      "quote": "5. Write the spherical mirror formula and explain the meaning of each symbol used in it.",
+      "answer": "D",
+      "en": {
+        "q": "The mirror formula relating the object distance u, image distance v and focal length f of a spherical mirror is",
+        "options": [
+          "f = u + v",
+          "1/f = 1/u - 1/v",
+          "f = u x v",
+          "1/f = 1/u + 1/v"
+        ],
+        "explanation": "The relation between u, v and f of a spherical mirror is the mirror formula, 1/f = 1/v + 1/u."
+      },
+      "ta": {
+        "q": "கோளக ஆடியின் பொருள் தொலைவு u, பிம்பத் தொலைவு v, குவியத் தொலைவு f ஆகியவற்றைத் தொடர்புபடுத்தும் ஆடிச் சமன்பாடு",
+        "options": [
+          "f = u + v",
+          "1/f = 1/u - 1/v",
+          "f = u x v",
+          "1/f = 1/u + 1/v"
+        ],
+        "explanation": "கோளக ஆடியின் u, v, f ஆகியவற்றுக்கு இடையேயான தொடர்பு ஆடிச் சமன்பாடு: 1/f = 1/v + 1/u."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 78,
+      "quote": "2. Light enters from air into a glass plate having refractive index 1.5. What is the speed of light in glass? (Ans: 2 x 10^8 m s^-1)",
+      "answer": "D",
+      "en": {
+        "q": "Light enters from air into glass of refractive index 1.5. The speed of light in glass is (speed in vacuum = 3 x 10^8 m s^-1)",
+        "options": [
+          "4.5 x 10^8 m s^-1",
+          "1.5 x 10^8 m s^-1",
+          "3 x 10^8 m s^-1",
+          "2 x 10^8 m s^-1"
+        ],
+        "explanation": "v = c / n = 3 x 10^8 / 1.5 = 2 x 10^8 m s^-1."
+      },
+      "ta": {
+        "q": "ஒளிவிலகல் எண் 1.5 கொண்ட கண்ணாடிப் பாளத்திற்குக் காற்றிலிருந்து ஒளி செல்கிறது. கண்ணாடியில் ஒளியின் வேகம் (வெற்றிடத்தில் 3 x 10^8 மீ வி^-1)",
+        "options": [
+          "4.5 x 10^8 மீ வி^-1",
+          "1.5 x 10^8 மீ வி^-1",
+          "3 x 10^8 மீ வி^-1",
+          "2 x 10^8 மீ வி^-1"
+        ],
+        "explanation": "v = c / n = 3 x 10^8 / 1.5 = 2 x 10^8 மீ வி^-1."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 78,
+      "quote": "X. 2. When a ray of light passes from air into glass, is the angle of refraction greater than or less than the angle of incidence?",
+      "answer": "B",
+      "en": {
+        "q": "When a ray of light passes obliquely from air into glass, the angle of refraction is",
+        "options": [
+          "greater than the angle of incidence",
+          "less than the angle of incidence",
+          "equal to the angle of incidence",
+          "always 90 degrees"
+        ],
+        "explanation": "Glass is optically denser, so the ray bends towards the normal and r < i."
+      },
+      "ta": {
+        "q": "ஓர் ஒளிக்கதிர் காற்றிலிருந்து கண்ணாடிக்குள் சாய்வாக நுழையும்போது விலகுகோணத்தின் மதிப்பு",
+        "options": [
+          "படுகோணத்தை விட அதிகம்",
+          "படுகோணத்தை விடக் குறைவு",
+          "படுகோணத்திற்குச் சமம்",
+          "எப்போதும் 90 டிகிரி"
+        ],
+        "explanation": "கண்ணாடி அடர்மிகு ஊடகம்; கதிர் செங்குத்துக் கோட்டை நோக்கி வளைவதால் r < i."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 78,
+      "quote": "X. 3. What do you conclude about the speed of light in diamond, if the refractive index of diamond is 2.41?",
+      "answer": "A",
+      "en": {
+        "q": "The refractive index of diamond is 2.41. The speed of light in diamond is about",
+        "options": [
+          "1.24 x 10^8 m s^-1",
+          "7.2 x 10^8 m s^-1",
+          "3 x 10^8 m s^-1",
+          "2.41 x 10^8 m s^-1"
+        ],
+        "explanation": "v = c / n = 3 x 10^8 / 2.41 = 1.24 x 10^8 m s^-1, much slower than in vacuum."
+      },
+      "ta": {
+        "q": "வைரத்தின் ஒளிவிலகல் எண் 2.41. வைரத்தில் ஒளியின் வேகம் ஏறத்தாழ",
+        "options": [
+          "1.24 x 10^8 மீ வி^-1",
+          "7.2 x 10^8 மீ வி^-1",
+          "3 x 10^8 மீ வி^-1",
+          "2.41 x 10^8 மீ வி^-1"
+        ],
+        "explanation": "v = c / n = 3 x 10^8 / 2.41 = 1.24 x 10^8 மீ வி^-1; வெற்றிடத்தை விட மிகக் குறைவு."
+      }
+    }
+  ]
+}

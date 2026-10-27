@@ -1,0 +1,442 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 9 Science Term-Full (English)",
+  "breadcrumb": "Std 9 Science (English) — Unit 5: Magnetism and Electromagnetism — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 63,
+      "quote": "3. The part of the AC generator that passes the current from the armature coil to the external circuit is a) field magnet b) split rings c) slip rings d) brushes",
+      "answer": "D",
+      "en": {
+        "q": "The part of an AC generator that passes the current from the armature coil to the external circuit is the",
+        "options": [
+          "field magnet",
+          "split rings",
+          "iron core",
+          "brushes"
+        ],
+        "explanation": "Two stationary conducting brushes rest on the slip rings and their outer ends are connected to the external circuit; the book key is brushes."
+      },
+      "ta": {
+        "q": "AC மின்னியற்றியின் சுருளிலிருந்து வெளிச் சுற்றுக்கு மின்னோட்டத்தை எடுத்துச் செல்லும் பகுதி",
+        "options": [
+          "புலக் காந்தம்",
+          "பிளவு வளையங்கள்",
+          "இரும்பு உள்ளகம்",
+          "தூரிகைகள்"
+        ],
+        "explanation": "நழுவு வளையங்களின் மீது தொடும் இரு நிலையான தூரிகைகளின் வெளிமுனைகள் வெளிச் சுற்றுடன் இணைக்கப்பட்டுள்ளன; நூலின் விடை: தூரிகைகள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "2. Devices which is used to convert high alternating current to low alternating current is ______.",
+      "answer": "D",
+      "en": {
+        "q": "A device used to convert a high alternating voltage into a low alternating voltage is a",
+        "options": [
+          "step-up transformer",
+          "dc generator",
+          "electric motor",
+          "step-down transformer"
+        ],
+        "explanation": "A step-down transformer has fewer turns in the secondary coil than in the primary (Ns < Np)."
+      },
+      "ta": {
+        "q": "உயர் மாறுதிசை மின்னழுத்தத்தைக் குறைந்த மாறுதிசை மின்னழுத்தமாக மாற்றப் பயன்படும் கருவி",
+        "options": [
+          "ஏற்று மின்மாற்றி",
+          "DC மின்னியற்றி",
+          "மின்மோட்டார்",
+          "இறக்கு மின்மாற்றி"
+        ],
+        "explanation": "இறக்கு மின்மாற்றியில் துணைச் சுருளின் சுற்றுகள் முதன்மைச் சுருளை விடக் குறைவு (Ns < Np)."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "3. An electric motor converts ______.",
+      "answer": "C",
+      "en": {
+        "q": "An electric motor converts",
+        "options": [
+          "mechanical energy into electrical energy",
+          "heat energy into electrical energy",
+          "electrical energy into mechanical energy",
+          "sound energy into light"
+        ],
+        "explanation": "A motor works on the force experienced by a current-carrying coil in a magnetic field."
+      },
+      "ta": {
+        "q": "மின்மோட்டார் மாற்றுவது",
+        "options": [
+          "இயந்திர ஆற்றலை மின்னாற்றலாக",
+          "வெப்ப ஆற்றலை மின்னாற்றலாக",
+          "மின்னாற்றலை இயந்திர ஆற்றலாக",
+          "ஒலியாற்றலை ஒளியாக"
+        ],
+        "explanation": "காந்தப்புலத்தில் மின்னோட்டம் பாயும் சுருள் உணரும் விசையின் அடிப்படையில் மோட்டார் செயல்படுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "4. A device for producing electric current is ______.",
+      "answer": "B",
+      "en": {
+        "q": "A device for producing electric current by electromagnetic induction is a",
+        "options": [
+          "motor",
+          "generator (dynamo)",
+          "ammeter",
+          "rheostat"
+        ],
+        "explanation": "An electric generator converts mechanical energy into electrical energy."
+      },
+      "ta": {
+        "q": "மின்னோட்டத்தை உருவாக்குவதற்கான ஒரு கருவி",
+        "options": [
+          "மோட்டார்",
+          "மின்னியற்றி (டைனமோ)",
+          "அம்மீட்டர்",
+          "ரியோஸ்டாட்"
+        ],
+        "explanation": "மின்னியற்றி இயந்திர ஆற்றலை மின்னாற்றலாக மாற்றுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "III. Match the following. 1. Magnetic material (b) Iron 2. Non-magnetic material (d) Wood 3. Current and magnetism (a) Oersted 4. Electromagnetic induction (e) Faraday",
+      "answer": "D",
+      "en": {
+        "q": "Match List I with List II:\n(a) Magnetic material\n(b) Non-magnetic material\n(c) Current and magnetism\n(d) Electromagnetic induction\n— \n(1) Oersted\n(2) Iron\n(3) Faraday\n(4) Wood",
+        "options": [
+          "a-2, b-1, c-3, d-4",
+          "a-2, b-3, c-1, d-4",
+          "a-4, b-1, c-2, d-3",
+          "a-2, b-4, c-1, d-3"
+        ],
+        "explanation": "Iron is magnetic, wood is non-magnetic; Oersted linked current with magnetism; Faraday discovered electromagnetic induction."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐப் பட்டியல் II உடன் பொருத்துக:\n(a) காந்தப் பொருள்\n(b) காந்தமல்லாத பொருள்\n(c) மின்னோட்டம் மற்றும் காந்தவியல்\n(d) மின்காந்தத் தூண்டல்\n— \n(1) அயர்ஸ்டெட்\n(2) இரும்பு\n(3) ஃபாரடே\n(4) மரம்",
+        "options": [
+          "a-2, b-1, c-3, d-4",
+          "a-2, b-3, c-1, d-4",
+          "a-4, b-1, c-2, d-3",
+          "a-2, b-4, c-1, d-3"
+        ],
+        "explanation": "இரும்பு காந்தப் பொருள்; மரம் காந்தமல்லாதது; ஆயர்ஸ்டெட் மின்னோட்டத்தையும் காந்தவியலையும் இணைத்தார்; ஃபாரடே மின்காந்தத் தூண்டலைக் கண்டறிந்தார்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "III. 5. Electric generator - (c) Induction",
+      "answer": "B",
+      "en": {
+        "q": "An electric generator works on the principle of",
+        "options": [
+          "heating effect of current",
+          "electromagnetic induction",
+          "chemical effect of current",
+          "Pascal's law"
+        ],
+        "explanation": "A generator works on electromagnetic induction: a change in magnetic flux linked with a coil induces an emf."
+      },
+      "ta": {
+        "q": "மின்னியற்றி செயல்படும் தத்துவம்",
+        "options": [
+          "மின்னோட்டத்தின் வெப்ப விளைவு",
+          "மின்காந்தத் தூண்டல்",
+          "மின்னோட்டத்தின் வேதி விளைவு",
+          "பாஸ்கல் விதி"
+        ],
+        "explanation": "சுருளுடன் தொடர்புடைய காந்தப் பாயம் மாறும்போது மின்னியக்கு விசை தூண்டப்படுவதே மின்னியற்றியின் தத்துவம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "IV. 1. A generator converts mechanical energy into electrical energy.",
+      "answer": "C",
+      "en": {
+        "q": "Which statement about a generator is correct?",
+        "options": [
+          "It converts electrical energy into mechanical energy",
+          "It works only with direct current input",
+          "It converts mechanical energy into electrical energy",
+          "It has no moving parts"
+        ],
+        "explanation": "The book statement is true: an electric generator converts mechanical energy into electrical energy."
+      },
+      "ta": {
+        "q": "மின்னியற்றி குறித்துச் சரியான கூற்று",
+        "options": [
+          "இது மின்னாற்றலை இயந்திர ஆற்றலாக மாற்றுகிறது",
+          "இது நேர்திசை மின்னோட்ட உள்ளீட்டில் மட்டுமே இயங்கும்",
+          "இது இயந்திர ஆற்றலை மின்னாற்றலாக மாற்றுகிறது",
+          "இதில் இயங்கும் பகுதிகள் இல்லை"
+        ],
+        "explanation": "நூலின் கூற்று சரி: மின்னியற்றி இயந்திர ஆற்றலை மின்னாற்றலாக மாற்றுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 64,
+      "quote": "2. Magnetic field lines always repel each other and do not intersect.",
+      "answer": "A",
+      "en": {
+        "q": "Which statement about magnetic lines of force is correct?",
+        "options": [
+          "They are closed continuous curves that never intersect",
+          "They intersect at the poles",
+          "They start at the south pole and end at the north pole",
+          "They are straight lines that repel each other"
+        ],
+        "explanation": "Lines of force are closed curves from N to S outside the magnet and never intersect. The book statement 'always repel each other' is incorrect."
+      },
+      "ta": {
+        "q": "காந்தவிசைக் கோடுகள் குறித்துச் சரியான கூற்று",
+        "options": [
+          "அவை மூடிய தொடர்ச்சியான வளைவுகள்; ஒன்றையொன்று வெட்டிக்கொள்வதில்லை",
+          "அவை துருவங்களில் வெட்டிக்கொள்கின்றன",
+          "அவை தென்துருவத்தில் தொடங்கி வடதுருவத்தில் முடிகின்றன",
+          "அவை ஒன்றையொன்று விலக்கும் நேர்கோடுகள்"
+        ],
+        "explanation": "காந்தவிசைக் கோடுகள் மூடிய வளைவுகள்; ஒன்றையொன்று வெட்டாது; 'எப்போதும் விலக்கும்' என்ற நூலின் கூற்று தவறு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 64,
+      "quote": "5. A transformer can step up direct current.",
+      "answer": "D",
+      "en": {
+        "q": "A transformer cannot step up or step down a direct current because",
+        "options": [
+          "DC has a very high frequency",
+          "DC cannot flow in a coil",
+          "a transformer has no secondary coil",
+          "a constant current in the primary produces no change in flux, so no emf is induced in the secondary"
+        ],
+        "explanation": "A transformer works on electromagnetic induction which needs a changing flux; the book statement 'can step up DC' is false."
+      },
+      "ta": {
+        "q": "மின்மாற்றி நேர்திசை மின்னோட்டத்தை உயர்த்தவோ குறைக்கவோ முடியாது; ஏனெனில்",
+        "options": [
+          "DC-யின் அதிர்வெண் மிக அதிகம்",
+          "சுருளில் DC பாயாது",
+          "மின்மாற்றிக்குத் துணைச் சுருள் இல்லை",
+          "முதன்மைச் சுருளில் மாறா மின்னோட்டம் காந்தப் பாய மாற்றத்தை ஏற்படுத்தாது; துணைச் சுருளில் மின்னியக்கு விசை தூண்டப்படாது"
+        ],
+        "explanation": "மின்காந்தத் தூண்டலுக்கு மாறும் காந்தப் பாயம் தேவை; 'DC-யை உயர்த்தலாம்' என்ற கூற்று தவறு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "6. In a step down transformer the number of turns in primary coil is greater than that of the number of turns in the secondary coil.",
+      "answer": "A",
+      "en": {
+        "q": "In a step-down transformer the number of turns in the primary coil is",
+        "options": [
+          "greater than that in the secondary coil",
+          "less than that in the secondary coil",
+          "equal to that in the secondary coil",
+          "zero"
+        ],
+        "explanation": "For a step-down transformer Ns < Np; the book statement is true."
+      },
+      "ta": {
+        "q": "இறக்கு மின்மாற்றியில் முதன்மைச் சுருளின் சுற்றுகளின் எண்ணிக்கை",
+        "options": [
+          "துணைச் சுருளை விட அதிகம்",
+          "துணைச் சுருளை விடக் குறைவு",
+          "துணைச் சுருளுக்குச் சமம்",
+          "சுழி"
+        ],
+        "explanation": "இறக்கு மின்மாற்றியில் Ns < Np; நூலின் கூற்று சரி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "V. 1. State Fleming's Left Hand Rule.",
+      "answer": "B",
+      "en": {
+        "q": "According to Fleming's left hand rule, when the forefinger, second (middle) finger and thumb of the left hand are mutually perpendicular, the forefinger shows the magnetic field, the middle finger shows the current and the thumb shows the",
+        "options": [
+          "direction of induced voltage",
+          "direction of force or motion of the conductor",
+          "direction of the magnetic pole",
+          "direction of the electron flow"
+        ],
+        "explanation": "Left-hand rule: field (forefinger), current (second finger), force/motion (thumb)."
+      },
+      "ta": {
+        "q": "ஃபிளெமிங்கின் இடக்கை விதிப்படி இடக்கையின் சுட்டுவிரல் காந்தப்புலத்தையும், நடுவிரல் மின்னோட்டத்தையும் காட்டினால், பெருவிரல் காட்டுவது",
+        "options": [
+          "தூண்டப்பட்ட மின்னழுத்தத் திசை",
+          "கடத்தியின் விசை அல்லது இயக்கத்தின் திசை",
+          "காந்தத் துருவத் திசை",
+          "எலக்ட்ரான் பாய்வுத் திசை"
+        ],
+        "explanation": "இடக்கை விதி: புலம் (சுட்டுவிரல்), மின்னோட்டம் (நடுவிரல்), விசை அல்லது இயக்கம் (பெருவிரல்)."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "2. Define magnetic flux density.",
+      "answer": "A",
+      "en": {
+        "q": "Magnetic flux density is the",
+        "options": [
+          "number of magnetic field lines crossing unit area kept normal to the field",
+          "total number of field lines in a magnet",
+          "force on a unit pole",
+          "work done in moving a charge"
+        ],
+        "explanation": "Magnetic flux density is flux per unit normal area; its unit is Wb m^-2."
+      },
+      "ta": {
+        "q": "காந்தப் பாய அடர்த்தி என்பது",
+        "options": [
+          "புலத்திற்குச் செங்குத்தாக உள்ள ஓரலகு பரப்பைக் கடக்கும் காந்தப் புலக்கோடுகளின் எண்ணிக்கை",
+          "ஒரு காந்தத்தின் மொத்தப் புலக்கோடுகள்",
+          "ஓரலகு துருவத்தின் மீதான விசை",
+          "மின்னூட்டத்தை நகர்த்தச் செய்யப்படும் வேலை"
+        ],
+        "explanation": "காந்தப் பாய அடர்த்தி = ஓரலகு செங்குத்துப் பரப்பைக் கடக்கும் பாயம்; அலகு Wb மீ^-2."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "3. List the main parts of an electric motor.",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following is a main part of a DC electric motor?",
+        "options": [
+          "Slip rings",
+          "Iron ring with two coils",
+          "Split ring commutator",
+          "Primary coil"
+        ],
+        "explanation": "A DC motor has a coil, permanent magnet, carbon brushes and a split ring commutator that reverses the current every half rotation."
+      },
+      "ta": {
+        "q": "DC மின்மோட்டாரின் முக்கியப் பகுதிகளில் ஒன்று",
+        "options": [
+          "நழுவு வளையங்கள்",
+          "இரு சுருள்கள் கொண்ட இரும்பு வளையம்",
+          "பிளவு வளைய திசைமாற்றி",
+          "முதன்மைச் சுருள்"
+        ],
+        "explanation": "சுருள், நிலைக்காந்தம், கார்பன் தூரிகைகள், ஒவ்வோர் அரைச்சுற்றிலும் மின்னோட்டத்தின் திசையை மாற்றும் பிளவு வளைய திசைமாற்றி ஆகியவை மோட்டாரின் பகுதிகள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 64,
+      "quote": "7. A portable radio has a built in transformer so that it can work from the mains instead of batteries. Is this a step up or step down transformer? Give reason.",
+      "answer": "A",
+      "en": {
+        "q": "A portable radio has a built-in transformer so that it can run from the mains. This is a ______ transformer because ______.",
+        "options": [
+          "step-down; the mains voltage is higher than the low voltage the radio needs",
+          "step-up; the radio needs a very high voltage",
+          "step-down; it increases the current to infinity",
+          "step-up; the mains voltage is lower than the radio needs"
+        ],
+        "explanation": "Radios work at a few volts, so the 220 V mains voltage must be stepped down."
+      },
+      "ta": {
+        "q": "கையடக்க வானொலியில் மின்மாற்றி பொருத்தப்பட்டு வீட்டு மின்சாரத்தில் இயங்குகிறது. இது ______ மின்மாற்றி; ஏனெனில் ______.",
+        "options": [
+          "இறக்கு; வானொலிக்குத் தேவையான குறைந்த மின்னழுத்தத்தை விட வீட்டு மின்னழுத்தம் அதிகம்",
+          "ஏற்று; வானொலிக்கு மிக உயர்ந்த மின்னழுத்தம் தேவை",
+          "இறக்கு; மின்னோட்டத்தை எல்லையின்றி உயர்த்தும்",
+          "ஏற்று; வீட்டு மின்னழுத்தம் வானொலிக்குத் தேவையானதை விடக் குறைவு"
+        ],
+        "explanation": "வானொலி சில வோல்ட்டில் இயங்கும்; எனவே 220 V மின்னழுத்தம் குறைக்கப்பட வேண்டும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 64,
+      "quote": "8. State Faraday's laws of electromagnetic induction.",
+      "answer": "C",
+      "en": {
+        "q": "Faraday concluded that whenever the magnetic flux linked with a closed circuit changes",
+        "options": [
+          "the circuit is destroyed",
+          "no emf is produced",
+          "an emf is induced, proportional to the rate of change of flux",
+          "the flux becomes zero"
+        ],
+        "explanation": "The induced emf varies directly as the rate at which the flux changes; the phenomenon is called electromagnetic induction."
+      },
+      "ta": {
+        "q": "மூடிய சுற்றுடன் தொடர்புடைய காந்தப் பாயம் மாறும்போதெல்லாம் ஃபாரடேயின் முடிவு",
+        "options": [
+          "சுற்று அழிந்துவிடும்",
+          "மின்னியக்கு விசை உருவாகாது",
+          "பாய மாற்ற வீதத்திற்கு நேர்தகவில் மின்னியக்கு விசை தூண்டப்படும்",
+          "பாயம் சுழியாகும்"
+        ],
+        "explanation": "தூண்டப்படும் மின்னியக்கு விசை பாயம் மாறும் வீதத்திற்கு நேர்தகவு; இந்நிகழ்வு மின்காந்தத் தூண்டல்."
+      }
+    }
+  ]
+}

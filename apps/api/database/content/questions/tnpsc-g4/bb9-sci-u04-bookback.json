@@ -1,0 +1,761 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 9 Science Term-Full (English)",
+  "breadcrumb": "Std 9 Science (English) — Unit 4: Electric Charge and Electric Current — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 49,
+      "quote": "2. Rubbing of comb with hair a) creates electric charge b) transfers electric charge c) either (a) or (b) d) neither (a) nor (b)",
+      "answer": "B",
+      "en": {
+        "q": "Rubbing a plastic comb on dry hair",
+        "options": [
+          "creates electric charge",
+          "transfers electric charge",
+          "destroys electric charge",
+          "neither creates nor transfers charge"
+        ],
+        "explanation": "Electrons from the hair move to the comb; charge is transferred, not created."
+      },
+      "ta": {
+        "q": "சீப்பினால் தலைமுடியைக் கோதுவதால்",
+        "options": [
+          "மின்னூட்டங்கள் உருவாக்கப்படுகின்றன",
+          "மின்னூட்டங்கள் இடம்பெயர்கின்றன",
+          "மின்னூட்டங்கள் அழிக்கப்படுகின்றன",
+          "மின்னூட்டம் இடம்பெயர்வதும் இல்லை, உருவாவதும் இல்லை"
+        ],
+        "explanation": "முடியிலிருந்து எலக்ட்ரான்கள் சீப்புக்குச் செல்கின்றன; மின்னூட்டம் இடம்பெயர்கிறது; உருவாகவில்லை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 49,
+      "quote": "3. Electric field lines ___ from positive charge and ___ in negative charge. b) start; end",
+      "answer": "C",
+      "en": {
+        "q": "Electric lines of force",
+        "options": [
+          "start from a negative charge and end in a positive charge",
+          "start from both positive and negative charges",
+          "start from a positive charge and end in a negative charge",
+          "end in both positive and negative charges"
+        ],
+        "explanation": "For an isolated positive charge the lines are radially outwards; for a negative charge radially inwards."
+      },
+      "ta": {
+        "q": "மின்விசைக் கோடுகள் நேர் மின்னூட்டத்தில் ______, எதிர் மின்னூட்டத்தில் ______.",
+        "options": [
+          "முடிவடைந்து; தொடங்கும்",
+          "தொடங்கி; தொடங்கும்",
+          "தொடங்கி; முடிவடையும்",
+          "முடிவடைந்து; முடியும்"
+        ],
+        "explanation": "தனித்த நேர் மின்னூட்டத்திற்கு விசைக்கோடுகள் வெளிநோக்கியும், எதிர் மின்னூட்டத்திற்கு உள்நோக்கியும் அமையும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 49,
+      "quote": "4. Potential near a charge is the measure of its ___ to bring a positive charge at that point. d) work",
+      "answer": "D",
+      "en": {
+        "q": "The electric potential at a point near a charge is a measure of the ______ done to bring a unit positive charge to that point.",
+        "options": [
+          "force",
+          "ability",
+          "tendency",
+          "work"
+        ],
+        "explanation": "Electric potential is the work done on unit positive charge to bring it to that point against all electrical forces."
+      },
+      "ta": {
+        "q": "ஒரு மின்னூட்டத்திற்கு அருகில் மின்னழுத்தம் என்பது ஓரலகு நேர் மின்னூட்டத்தை அப்புள்ளிக்குக் கொண்டு வரச் செய்யப்படும் ______ அளவாகும்.",
+        "options": [
+          "விசையின்",
+          "திறமையின்",
+          "போக்கின்",
+          "வேலையின்"
+        ],
+        "explanation": "மின்னழுத்தம் என்பது எல்லா மின்விசைகளுக்கும் எதிராக ஓரலகு நேர் மின்னூட்டத்தை அப்புள்ளிக்குக் கொண்டுவரச் செய்யப்படும் வேலை."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 49,
+      "quote": "7. Electroplating is an example for b) chemical effect",
+      "answer": "D",
+      "en": {
+        "q": "Electroplating is an example of the",
+        "options": [
+          "heating effect of current",
+          "magnetic effect of current",
+          "flowing effect of current",
+          "chemical effect of current"
+        ],
+        "explanation": "Deposition of copper on the carbon rod in copper sulphate solution is due to the chemical effect of current."
+      },
+      "ta": {
+        "q": "மின்முலாம் பூசுதல் எதற்கு எடுத்துக்காட்டு?",
+        "options": [
+          "வெப்ப விளைவு",
+          "காந்த விளைவு",
+          "பாய்வு விளைவு",
+          "மின்னோட்டத்தின் வேதி விளைவு"
+        ],
+        "explanation": "மின்முலாம் பூசுதல் மின்னோட்டத்தின் வேதி விளைவால் நிகழ்கிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "match_the_following",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 49,
+      "quote": "II. Match the following. 1. Electric charge (c) coulomb 2. Potential difference (e) volt 3. Electric field (d) newton per coulomb 4. Resistance (a) ohm",
+      "answer": "B",
+      "en": {
+        "q": "Match the quantity in List I with its SI unit in List II:\n(a) Electric charge\n(b) Potential difference\n(c) Electric field\n(d) Resistance\n— \n(1) Ohm\n(2) Coulomb\n(3) Newton per coulomb\n(4) Volt",
+        "options": [
+          "a-4, b-1, c-3, d-2",
+          "a-2, b-4, c-3, d-1",
+          "a-2, b-3, c-4, d-1",
+          "a-2, b-4, c-1, d-3"
+        ],
+        "explanation": "Charge - coulomb; potential difference - volt; electric field - N C^-1; resistance - ohm."
+      },
+      "ta": {
+        "q": "அளவைப் (பட்டியல் I) அதன் SI அலகுடன் (பட்டியல் II) பொருத்துக:\n(a) மின்னூட்டம்\n(b) மின்னழுத்த வேறுபாடு\n(c) மின்புலம்\n(d) மின்தடை\n— \n(1) ஓம்\n(2) கூலூம்\n(3) நியூட்டன் கூலூம்^-1\n(4) வோல்ட்",
+        "options": [
+          "a-4, b-1, c-3, d-2",
+          "a-2, b-4, c-3, d-1",
+          "a-2, b-3, c-4, d-1",
+          "a-2, b-4, c-1, d-3"
+        ],
+        "explanation": "மின்னூட்டம் - கூலூம்; மின்னழுத்த வேறுபாடு - வோல்ட்; மின்புலம் - N C^-1; மின்தடை - ஓம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 49,
+      "quote": "II. 5. Electric current - (b) ampere",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following units is used to measure electric current?",
+        "options": [
+          "coulomb",
+          "volt",
+          "ampere",
+          "ohm"
+        ],
+        "explanation": "1 A = 1 C / 1 s; the ampere is the SI unit of current."
+      },
+      "ta": {
+        "q": "மின்னோட்டத்தின் SI அலகு",
+        "options": [
+          "கூலூம்",
+          "வோல்ட்",
+          "ஆம்பியர்",
+          "ஓம்"
+        ],
+        "explanation": "1 A = 1 C / 1 s; மின்னோட்டத்தின் SI அலகு ஆம்பியர்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 50,
+      "quote": "III. 1. Electrically neutral means it is either zero or equal positive and negative charges.",
+      "answer": "D",
+      "en": {
+        "q": "Which statement about an electrically neutral body is correct?",
+        "options": [
+          "It has only positive charges",
+          "It has no electrons",
+          "It has more electrons than protons",
+          "It has zero net charge, i.e. equal positive and negative charges"
+        ],
+        "explanation": "Usually there are as many electrons as protons, so the atoms themselves are neutral. The book statement is true."
+      },
+      "ta": {
+        "q": "மின்னியல் நடுநிலை நிலை குறித்துச் சரியான கூற்று",
+        "options": [
+          "நேர் மின்னூட்டம் மட்டும் உண்டு",
+          "எலக்ட்ரான்கள் இல்லை",
+          "புரோட்டான்களை விட எலக்ட்ரான்கள் அதிகம்",
+          "நிகர மின்னூட்டம் சுழி; அதாவது நேர், எதிர் மின்னூட்டங்கள் சமம்"
+        ],
+        "explanation": "அணுக்களில் எலக்ட்ரான்களும் புரோட்டான்களும் சம எண்ணிக்கையில் இருப்பதால் அவை நடுநிலை; நூலின் கூற்று சரி."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 50,
+      "quote": "2. Ammeter is connected in parallel in any electric circuit.",
+      "answer": "C",
+      "en": {
+        "q": "An ammeter is connected in ______ and a voltmeter in ______ in an electric circuit.",
+        "options": [
+          "parallel; series",
+          "series; series",
+          "series; parallel",
+          "parallel; parallel"
+        ],
+        "explanation": "The ammeter is connected in series; the voltmeter across the component in parallel. The book statement (ammeter in parallel) is false."
+      },
+      "ta": {
+        "q": "ஒரு மின்சுற்றில் அம்மீட்டர் ______ இணைப்பிலும், வோல்ட்மீட்டர் ______ இணைப்பிலும் இணைக்கப்படும்.",
+        "options": [
+          "பக்க; தொடர்",
+          "தொடர்; தொடர்",
+          "தொடர்; பக்க",
+          "பக்க; பக்க"
+        ],
+        "explanation": "அம்மீட்டர் தொடரிணைப்பிலும் வோல்ட்மீட்டர் பக்க இணைப்பிலும் இணைக்கப்படும்; 'அம்மீட்டர் பக்க இணைப்பு' என்ற கூற்று தவறு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 50,
+      "quote": "3. The anode in electrolyte is negative.",
+      "answer": "B",
+      "en": {
+        "q": "In an electrolyte, the anode is the ______ terminal and the cathode is the ______ terminal.",
+        "options": [
+          "negative; positive",
+          "positive; negative",
+          "positive; positive",
+          "negative; negative"
+        ],
+        "explanation": "Anode is the positive terminal and cathode the negative terminal; the book statement 'anode is negative' is false."
+      },
+      "ta": {
+        "q": "மின்பகு திரவத்தில் ஆனோடு ______ மின்வாய்; கேதோடு ______ மின்வாய்.",
+        "options": [
+          "எதிர்; நேர்",
+          "நேர்; எதிர்",
+          "நேர்; நேர்",
+          "எதிர்; எதிர்"
+        ],
+        "explanation": "ஆனோடு நேர் மின்வாய்; கேதோடு எதிர் மின்வாய்; 'ஆனோடு எதிர்மின் குறி' என்பது தவறு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 50,
+      "quote": "4. Current can produce magnetic field.",
+      "answer": "A",
+      "en": {
+        "q": "An electric current carrying wire produces",
+        "options": [
+          "a magnetic field around it",
+          "no field",
+          "only an electric field",
+          "a gravitational field"
+        ],
+        "explanation": "A wire carrying current develops a magnetic field perpendicular to the direction of current (Oersted)."
+      },
+      "ta": {
+        "q": "மின்னோட்டம் பாயும் கம்பியைச் சுற்றி உருவாவது",
+        "options": [
+          "காந்தப்புலம்",
+          "எந்தப் புலமும் இல்லை",
+          "மின்புலம் மட்டும்",
+          "ஈர்ப்புப் புலம்"
+        ],
+        "explanation": "மின்னோட்டம் பாயும் கடத்தி மின்னோட்டத் திசைக்குச் செங்குத்தாகக் காந்தப்புலத்தை உருவாக்கும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 50,
+      "quote": "IV. Fill in the blanks. 1. Electrons move from ______ potential to ______ potential.",
+      "answer": "A",
+      "en": {
+        "q": "Electrons move from ______ potential to ______ potential.",
+        "options": [
+          "lower; higher",
+          "higher; lower",
+          "lower; lower",
+          "higher; higher"
+        ],
+        "explanation": "Electrons flow from the lower potential to the higher potential region (negative to positive terminal)."
+      },
+      "ta": {
+        "q": "எலக்ட்ரான்கள் ______ மின்னழுத்தத்திலிருந்து ______ மின்னழுத்தத்திற்கு நகரும்.",
+        "options": [
+          "குறைந்த; அதிக",
+          "அதிக; குறைந்த",
+          "குறைந்த; குறைந்த",
+          "அதிக; அதிக"
+        ],
+        "explanation": "எலக்ட்ரான்கள் குறைந்த மின்னழுத்தத்திலிருந்து அதிக மின்னழுத்தத்திற்கு (எதிர் முனையிலிருந்து நேர் முனைக்கு) நகரும்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 50,
+      "quote": "3. The e.m.f of a cell is analogues to ______ of a pipe line.",
+      "answer": "C",
+      "en": {
+        "q": "In the water-pipe analogy, the e.m.f of a cell is analogous to the ______ of the pipe line.",
+        "options": [
+          "water wheel",
+          "pipe",
+          "water pump",
+          "tap handle only"
+        ],
+        "explanation": "Cells act like a pump 'pushing' the charges to flow, as a pump pushes water in a pipe."
+      },
+      "ta": {
+        "q": "குழாயிணைப்புச் சூழலை ஒப்பிடுகையில் மின்கலத்தின் மின்னியக்கு விசை ______ க்கு ஒப்பானது.",
+        "options": [
+          "நீர்ச்சக்கரம்",
+          "குழாய்",
+          "நீரிறைப்பான் (பம்பு)",
+          "குழாய்த் திருகு மட்டும்"
+        ],
+        "explanation": "பம்பு நீரைத் தள்ளுவதுபோல மின்கலம் மின்னூட்டங்களைத் தள்ளுகிறது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 50,
+      "quote": "4. The domestic electricity in India is an ac with a frequency of ______ Hz.",
+      "answer": "D",
+      "en": {
+        "q": "The domestic electricity supply in India is an alternating current of frequency",
+        "options": [
+          "60 Hz",
+          "100 Hz",
+          "220 Hz",
+          "50 Hz"
+        ],
+        "explanation": "In India the domestic supply is 220 V and 50 Hz (USA: 110 V and 60 Hz)."
+      },
+      "ta": {
+        "q": "இந்தியாவில் வீடுகளுக்கு அளிக்கப்படும் மின்சாரம் ______ Hz அதிர்வெண் கொண்ட மாறு மின்னோட்டம்.",
+        "options": [
+          "60 Hz",
+          "100 Hz",
+          "220 Hz",
+          "50 Hz"
+        ],
+        "explanation": "இந்தியாவில் 220 V, 50 Hz; அமெரிக்காவில் 110 V, 60 Hz."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 50,
+      "quote": "V. 1. A bird sitting on a high power electric line is still safe. How?",
+      "answer": "A",
+      "en": {
+        "q": "A bird sitting on a high-voltage power line is safe because",
+        "options": [
+          "there is no potential difference between its two feet, so no current passes through it",
+          "birds are insulators",
+          "the line carries no current",
+          "its feathers act as a rectifier"
+        ],
+        "explanation": "Both feet are at the same potential, so no current flows through the bird's body."
+      },
+      "ta": {
+        "q": "உயர் மின்திறன் கம்பியில் அமர்ந்திருக்கும் பறவை பாதுகாப்பாக இருப்பதற்குக் காரணம்",
+        "options": [
+          "அதன் இரு கால்களுக்கு இடையே மின்னழுத்த வேறுபாடு இல்லை; எனவே மின்னோட்டம் பாயாது",
+          "பறவைகள் மின்கடத்தாப் பொருள்",
+          "கம்பியில் மின்னோட்டம் இல்லை",
+          "இறகுகள் திருத்தியாகச் செயல்படுகின்றன"
+        ],
+        "explanation": "இரு கால்களும் ஒரே மின்னழுத்தத்தில் இருப்பதால் பறவையின் உடல் வழியே மின்னோட்டம் பாயாது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 50,
+      "quote": "V. 3. Can electroplating be possible with alternating current?",
+      "answer": "C",
+      "en": {
+        "q": "Electroplating, electro refining and electrotyping can be done only using",
+        "options": [
+          "alternating current",
+          "both ac and dc equally",
+          "direct current",
+          "neither ac nor dc"
+        ],
+        "explanation": "These processes need unidirectional flow of charge, hence only dc."
+      },
+      "ta": {
+        "q": "மின்முலாம் பூசுதல், மின்தூய்மையாக்கல் ஆகியவற்றைச் செய்யப் பயன்படுத்த வேண்டிய மின்னோட்டம்",
+        "options": [
+          "மாறு மின்னோட்டம் (ac)",
+          "ac, dc இரண்டும் சமமாக",
+          "நேர் மின்னோட்டம் (dc)",
+          "இரண்டும் அல்ல"
+        ],
+        "explanation": "இவற்றிற்கு ஒரு திசை மின்னூட்டப் பாய்வு தேவை; எனவே dc மட்டுமே."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 50,
+      "quote": "VI. 1. On what factors does the electrostatic force between two charges depend?",
+      "answer": "B",
+      "en": {
+        "q": "The electrostatic force between two charges depends on",
+        "options": [
+          "the colour of the charged bodies",
+          "the magnitude of the charges and the distance between them",
+          "only the mass of the charged bodies",
+          "the temperature of the room only"
+        ],
+        "explanation": "Electric force depends on the amount of the charges and the separation between them (Coulomb's law); like charges repel, unlike attract."
+      },
+      "ta": {
+        "q": "இரு மின்னூட்டங்களுக்கு இடையிலான நிலைமின்னியல் விசை சார்ந்திருப்பது",
+        "options": [
+          "பொருட்களின் நிறம்",
+          "மின்னூட்டங்களின் அளவு, அவற்றுக்கிடையிலான தொலைவு",
+          "பொருட்களின் நிறை மட்டும்",
+          "அறையின் வெப்பநிலை மட்டும்"
+        ],
+        "explanation": "விசை மின்னூட்டங்களின் அளவையும் இடைத்தொலைவையும் பொறுத்தது (கூலூம் விதி)."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 50,
+      "quote": "2. What are electric lines of force?",
+      "answer": "D",
+      "en": {
+        "q": "Electric lines of force are",
+        "options": [
+          "real wires carrying current",
+          "lines joining equal masses",
+          "paths of electrons in a wire",
+          "imaginary straight or curved paths along which a unit positive charge tends to move"
+        ],
+        "explanation": "Electric lines of force are imaginary lines along which a unit positive charge tends to move in the electric field."
+      },
+      "ta": {
+        "q": "மின்விசைக் கோடுகள் என்பவை",
+        "options": [
+          "மின்னோட்டம் பாயும் உண்மையான கம்பிகள்",
+          "சம நிறைகளை இணைக்கும் கோடுகள்",
+          "கம்பியில் எலக்ட்ரான்களின் பாதை",
+          "ஓரலகு நேர் மின்னூட்டம் நகர முனையும் கற்பனையான நேர் அல்லது வளைவுப் பாதைகள்"
+        ],
+        "explanation": "மின்புலத்தில் ஓரலகு நேர் மின்னூட்டம் நகர முனையும் கற்பனைப் பாதைகளே மின்விசைக் கோடுகள்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 50,
+      "quote": "3. Define electric field.",
+      "answer": "A",
+      "en": {
+        "q": "The region around a charge in which another charge experiences an electric force is called the",
+        "options": [
+          "electric field",
+          "magnetic field",
+          "electric potential",
+          "electromotive force"
+        ],
+        "explanation": "Electric field at a point is a measure of the force acting on a unit positive charge placed there."
+      },
+      "ta": {
+        "q": "ஒரு மின்னூட்டத்தைச் சுற்றி, மற்றொரு மின்னூட்டம் மின்விசையை உணரும் பகுதி",
+        "options": [
+          "மின்புலம்",
+          "காந்தப்புலம்",
+          "மின்னழுத்தம்",
+          "மின்னியக்கு விசை"
+        ],
+        "explanation": "ஒரு புள்ளியில் வைக்கப்படும் ஓரலகு நேர் மின்னூட்டத்தின் மீது செயல்படும் விசையின் அளவே அப்புள்ளியில் மின்புலம்."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 50,
+      "quote": "4. Define electric current and give its unit.",
+      "answer": "D",
+      "en": {
+        "q": "Electric current is the",
+        "options": [
+          "total charge stored in a cell; unit coulomb",
+          "work done per unit charge; unit volt",
+          "opposition to flow of charge; unit ohm",
+          "rate at which charges flow past a point in a circuit; unit ampere"
+        ],
+        "explanation": "I = q/t; 1 A = 1 C s^-1."
+      },
+      "ta": {
+        "q": "மின்னோட்டம் என்பது",
+        "options": [
+          "மின்கலத்தில் சேமிக்கப்பட்ட மின்னூட்டம்; அலகு கூலூம்",
+          "ஓரலகு மின்னூட்டத்திற்குச் செய்யப்படும் வேலை; அலகு வோல்ட்",
+          "மின்னூட்டப் பாய்வின் எதிர்ப்பு; அலகு ஓம்",
+          "மின்சுற்றில் ஒரு புள்ளி வழியாக மின்னூட்டங்கள் பாயும் வீதம்; அலகு ஆம்பியர்"
+        ],
+        "explanation": "I = q/t; 1 A = 1 C வி^-1."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 50,
+      "quote": "5. State Ohm's law.",
+      "answer": "C",
+      "en": {
+        "q": "According to Ohm's law, at constant temperature the current through a conductor is",
+        "options": [
+          "inversely proportional to the potential difference",
+          "independent of the potential difference",
+          "directly proportional to the potential difference across it",
+          "directly proportional to its resistance"
+        ],
+        "explanation": "Ohm's law: V is proportional to I, i.e. V = IR (ICT corner: relationship between current and potential difference)."
+      },
+      "ta": {
+        "q": "ஓம் விதிப்படி மாறா வெப்பநிலையில் ஒரு கடத்தி வழியே பாயும் மின்னோட்டம்",
+        "options": [
+          "மின்னழுத்த வேறுபாட்டிற்கு எதிர்த் தகவில் இருக்கும்",
+          "மின்னழுத்த வேறுபாட்டைச் சார்ந்ததல்ல",
+          "அதன் குறுக்கே உள்ள மின்னழுத்த வேறுபாட்டிற்கு நேர் தகவில் இருக்கும்",
+          "அதன் மின்தடைக்கு நேர் தகவில் இருக்கும்"
+        ],
+        "explanation": "ஓம் விதி: V ஆனது I-க்கு நேர்தகவு; V = IR."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 50,
+      "quote": "6. Name any two appliances which work under the principle of heating effect of current.",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following appliances works on the heating effect of current?",
+        "options": [
+          "Voltmeter",
+          "Electric iron box",
+          "Transformer",
+          "Electroplating bath"
+        ],
+        "explanation": "Iron box, water heater and toaster work on the principle of Joule heating."
+      },
+      "ta": {
+        "q": "மின்னோட்டத்தின் வெப்ப விளைவின் அடிப்படையில் செயல்படும் கருவி",
+        "options": [
+          "வோல்ட்மீட்டர்",
+          "மின் துணித்தேய்ப்புப் பெட்டி (அயன் பாக்ஸ்)",
+          "மின்மாற்றி",
+          "மின்முலாம் பூசும் தொட்டி"
+        ],
+        "explanation": "இஸ்திரிப் பெட்டி, நீர் சூடேற்றி, டோஸ்டர் ஆகியவை வெப்ப விளைவில் செயல்படுகின்றன."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 50,
+      "quote": "7. How are the home appliances connected in general, in series or parallel. Give reasons.",
+      "answer": "B",
+      "en": {
+        "q": "Home appliances are generally connected in",
+        "options": [
+          "series, so each gets the same current",
+          "parallel, so each gets the same potential difference and works independently",
+          "series, so that all stop if one fails",
+          "neither series nor parallel"
+        ],
+        "explanation": "In parallel the potential difference across each branch is the same and there is more than one path for the charge to flow."
+      },
+      "ta": {
+        "q": "வீட்டு உபயோக மின் பொருட்கள் பொதுவாக இணைக்கப்படுவது",
+        "options": [
+          "தொடரிணைப்பில்; ஒவ்வொன்றிலும் ஒரே மின்னோட்டம் பாயும்",
+          "பக்க இணைப்பில்; ஒவ்வொன்றுக்கும் ஒரே மின்னழுத்த வேறுபாடு கிடைத்துத் தனித்தனியாக இயங்கும்",
+          "தொடரிணைப்பில்; ஒன்று பழுதானால் எல்லாம் நின்றுவிடும்",
+          "தொடர், பக்க இணைப்பு இரண்டுமல்ல"
+        ],
+        "explanation": "பக்க இணைப்பில் ஒவ்வொரு கிளையின் குறுக்கும் மின்னழுத்த வேறுபாடு சமம்; மின்னூட்டம் பாய ஒன்றுக்கு மேற்பட்ட பாதைகள் உண்டு."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 50,
+      "quote": "VII. 1. Rubbing a comb on hair makes the comb get -0.4 C. (a) Find which material has lost electron and which one gained it. (b) Find how many electrons are transferred.",
+      "answer": "D",
+      "en": {
+        "q": "A plastic comb rubbed on hair acquires a charge of -0.4 C. Which statement is correct?",
+        "options": [
+          "The comb lost electrons and the hair gained electrons",
+          "The comb lost protons",
+          "No electrons were transferred",
+          "The hair lost electrons and the comb gained electrons"
+        ],
+        "explanation": "The comb is negatively charged, so it gained electrons; the hair, positively charged, lost them."
+      },
+      "ta": {
+        "q": "பிளாஸ்டிக் சீப்பைத் தலைமுடியில் தேய்த்ததால் அது -0.4 C மின்னூட்டம் பெறுகிறது. சரியான கூற்று",
+        "options": [
+          "சீப்பு எலக்ட்ரான்களை இழந்தது; முடி பெற்றது",
+          "சீப்பு புரோட்டான்களை இழந்தது",
+          "எலக்ட்ரான்கள் இடம்பெயரவில்லை",
+          "முடி எலக்ட்ரான்களை இழந்தது; சீப்பு பெற்றது"
+        ],
+        "explanation": "சீப்பு எதிர் மின்னூட்டம் பெற்றதால் எலக்ட்ரான்களைப் பெற்றது; முடி இழந்தது."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 50,
+      "quote": "VII. 1 (b). how many electrons are transferred (charge 0.4 C, e = 1.6 x 10^-19 C)",
+      "answer": "A",
+      "en": {
+        "q": "How many electrons must be transferred to give a charge of 0.4 C (e = 1.6 x 10^-19 C)?",
+        "options": [
+          "2.5 x 10^18",
+          "6.25 x 10^18",
+          "2.5 x 10^19",
+          "6.4 x 10^-20"
+        ],
+        "explanation": "n = q / e = 0.4 / 1.6 x 10^-19 = 2.5 x 10^18 electrons."
+      },
+      "ta": {
+        "q": "0.4 C மின்னூட்டத்தை அளிக்க இடம்பெயர வேண்டிய எலக்ட்ரான்களின் எண்ணிக்கை (e = 1.6 x 10^-19 C)",
+        "options": [
+          "2.5 x 10^18",
+          "6.25 x 10^18",
+          "2.5 x 10^19",
+          "6.4 x 10^-20"
+        ],
+        "explanation": "n = q / e = 0.4 / 1.6 x 10^-19 = 2.5 x 10^18."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 50,
+      "quote": "2. Calculate the amount of charge that would flow in 2 hours through an element of an electric bulb drawing a current of 2.5 A.",
+      "answer": "C",
+      "en": {
+        "q": "A current of 2.5 A flows through a bulb for 2 hours. The charge that flows is",
+        "options": [
+          "5 C",
+          "300 C",
+          "18000 C",
+          "9000 C"
+        ],
+        "explanation": "q = I t = 2.5 x (2 x 3600 s) = 18000 C."
+      },
+      "ta": {
+        "q": "2.5 A மின்னோட்டம் ஒரு மின்விளக்கின் வழியே 2 மணி நேரம் பாய்ந்தால், கடக்கும் மின்னூட்டம்",
+        "options": [
+          "5 C",
+          "300 C",
+          "18000 C",
+          "9000 C"
+        ],
+        "explanation": "q = I t = 2.5 x 7200 = 18000 C."
+      }
+    },
+    {
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 50,
+      "quote": "3. The values of current (I) flowing through a resistor for various potential differences V are given: I = 0.5, 1.0, 2.0, 3.0, 4.0 A; V = 1.6, 3.4, 6.7, 10.2, 13.2 V. What is the value of the resistor? [Hint: plot V-I graph and take slope]",
+      "answer": "D",
+      "en": {
+        "q": "For a resistor, V = 1.6, 3.4, 6.7, 10.2 and 13.2 V for I = 0.5, 1, 2, 3 and 4 A. The slope of the V-I graph gives a resistance of about",
+        "options": [
+          "0.3 ohm",
+          "33 ohm",
+          "13 ohm",
+          "3.3 ohm"
+        ],
+        "explanation": "V/I is about 3.2 to 3.4 ohm in every case, so the slope (resistance) is about 3.3 ohm."
+      },
+      "ta": {
+        "q": "ஒரு மின்தடையத்தில் I = 0.5, 1, 2, 3, 4 A க்கு முறையே V = 1.6, 3.4, 6.7, 10.2, 13.2 V ஆகும். V-I வரைபடத்தின் சாய்வின்படி மின்தடை ஏறத்தாழ",
+        "options": [
+          "0.3 ஓம்",
+          "33 ஓம்",
+          "13 ஓம்",
+          "3.3 ஓம்"
+        ],
+        "explanation": "ஒவ்வொரு நிலையிலும் V/I ஏறத்தாழ 3.2 - 3.4 ஓம்; எனவே சாய்வு (மின்தடை) ஏறத்தாழ 3.3 ஓம்."
+      }
+    }
+  ]
+}
