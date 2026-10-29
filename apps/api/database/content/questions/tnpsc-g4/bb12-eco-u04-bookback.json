@@ -1,0 +1,703 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Economics Term-Full (English)",
+  "breadcrumb": "Std 12 Economics (English) — Chapter 4: Consumption and Investment Functions — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 72,
+      "quote": "1. The average propensity to consume is measured by a) C/Y b) CxY c) Y/C d) C+Y",
+      "answer": "A",
+      "en": {
+        "q": "The average propensity to consume (APC) is measured by",
+        "options": [
+          "C / Y",
+          "C x Y",
+          "Y / C",
+          "C + Y"
+        ],
+        "explanation": "APC is the ratio of consumption expenditure to a particular level of income."
+      },
+      "ta": {
+        "q": "நுகர்வுச் சராசரிப் போக்கு (APC) அளவிடப்படுவது",
+        "options": [
+          "C / Y",
+          "C x Y",
+          "Y / C",
+          "C + Y"
+        ],
+        "explanation": "குறிப்பிட்ட வருமான மட்டத்தில் நுகர்வுச் செலவுக்கும் வருமானத்துக்குமான விகிதம் APC."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 72,
+      "quote": "2. An increase in the marginal propensity to consume will: a) Lead to consumption function becoming steeper b) Shift the consumption function upwards c) Shift the consumption function downwards d) Shift savings function upwards",
+      "answer": "C",
+      "en": {
+        "q": "An increase in the marginal propensity to consume will",
+        "options": [
+          "shift the consumption function downwards",
+          "shift the consumption function upwards",
+          "make the consumption function steeper",
+          "shift the savings function upwards"
+        ],
+        "explanation": "MPC is the slope of the consumption function, so a higher MPC steepens it."
+      },
+      "ta": {
+        "q": "இறுதிநிலை நுகர்வுப் போக்கு அதிகரித்தால்",
+        "options": [
+          "நுகர்வுச் சார்பு கீழ்நோக்கி நகரும்",
+          "நுகர்வுச் சார்பு மேல்நோக்கி நகரும்",
+          "நுகர்வுச் சார்பு செங்குத்தாகும்",
+          "சேமிப்புச் சார்பு மேல்நோக்கி நகரும்"
+        ],
+        "explanation": "MPC என்பது நுகர்வுச் சார்பின் சாய்வு; எனவே அது உயர்ந்தால் சாய்வு கூடும்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 72,
+      "quote": "3. If the Keynesian consumption function is C=10+0.8Y then, if disposable income is Rs 1000, what is amount of total consumption?",
+      "answer": "A",
+      "en": {
+        "q": "If the consumption function is C = 10 + 0.8Y and disposable income is Rs 1000, total consumption is",
+        "options": [
+          "Rs 810",
+          "Rs 800",
+          "Rs 0.8",
+          "Rs 0.81"
+        ],
+        "explanation": "C = 10 + 0.8 x 1000 = 810."
+      },
+      "ta": {
+        "q": "C = 10 + 0.8Y என்ற நுகர்வுச் சார்பில் செலவிடக்கூடிய வருமானம் ரூ. 1000 எனில் மொத்த நுகர்வு",
+        "options": [
+          "ரூ. 810",
+          "ரூ. 800",
+          "ரூ. 0.8",
+          "ரூ. 0.81"
+        ],
+        "explanation": "C = 10 + 0.8 x 1000 = 810."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 72,
+      "quote": "4. If the Keynesian consumption function is C=10+0.8Y then, when disposable income is Rs 100, what is the marginal propensity to consume?",
+      "answer": "A",
+      "en": {
+        "q": "For the consumption function C = 10 + 0.8Y, the marginal propensity to consume is",
+        "options": [
+          "0.8",
+          "800",
+          "810",
+          "0.81"
+        ],
+        "explanation": "MPC is the coefficient of Y, i.e. b = 0.8 at every income level."
+      },
+      "ta": {
+        "q": "C = 10 + 0.8Y என்ற நுகர்வுச் சார்பில் இறுதிநிலை நுகர்வுப் போக்கு",
+        "options": [
+          "0.8",
+          "800",
+          "810",
+          "0.81"
+        ],
+        "explanation": "Y-ன் கெழு (b = 0.8) எந்த வருமான மட்டத்திலும் MPC ஆகும்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 72,
+      "quote": "5. If the Keynesian consumption function is C=10+0.8Y then, and disposable income is Rs 100, what is the average propensity to consume?",
+      "answer": "D",
+      "en": {
+        "q": "For C = 10 + 0.8Y and disposable income of Rs 100, the average propensity to consume is",
+        "options": [
+          "0.8",
+          "810",
+          "800",
+          "0.9"
+        ],
+        "explanation": "C = 10 + 80 = 90; APC = 90/100 = 0.9."
+      },
+      "ta": {
+        "q": "C = 10 + 0.8Y; செலவிடக்கூடிய வருமானம் ரூ. 100 எனில் APC",
+        "options": [
+          "0.8",
+          "810",
+          "800",
+          "0.9"
+        ],
+        "explanation": "C = 10 + 80 = 90; APC = 90/100 = 0.9."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 72,
+      "quote": "6. As national income increases a) The APC falls and gets nearer in value to the MPC.",
+      "answer": "B",
+      "en": {
+        "q": "As national income increases",
+        "options": [
+          "the APC rises and moves away from the MPC",
+          "the APC falls and gets nearer to the MPC",
+          "the APC stays constant",
+          "the APC approaches infinity"
+        ],
+        "explanation": "With C = a + bY, APC = a/Y + b, which falls toward b (the MPC) as Y rises."
+      },
+      "ta": {
+        "q": "நாட்டு வருமானம் உயரும்போது",
+        "options": [
+          "APC உயர்ந்து MPC-யிலிருந்து விலகுகிறது",
+          "APC குறைந்து MPC-க்கு நெருங்குகிறது",
+          "APC மாறாமல் இருக்கும்",
+          "APC முடிவிலியை நெருங்கும்"
+        ],
+        "explanation": "C = a + bY எனில் APC = a/Y + b; Y உயர உயர APC, b (MPC) நோக்கிக் குறையும்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 72,
+      "quote": "7. An increase in consumption at any given level of income is likely to lead to a) Higher aggregate demand",
+      "answer": "D",
+      "en": {
+        "q": "An increase in consumption at a given level of income is likely to lead to",
+        "options": [
+          "an increase in exports",
+          "a fall in tax revenue",
+          "a decrease in import spending",
+          "higher aggregate demand"
+        ],
+        "explanation": "Consumption is a component of aggregate demand, AD = C + I + G + (X - M)."
+      },
+      "ta": {
+        "q": "ஒரு வருமான மட்டத்தில் நுகர்வு அதிகரித்தால் ஏற்படக்கூடியது",
+        "options": [
+          "ஏற்றுமதி உயர்வு",
+          "வரி வருவாய் வீழ்ச்சி",
+          "இறக்குமதிச் செலவு குறைவு",
+          "மொத்தத் தேவை உயர்வு"
+        ],
+        "explanation": "நுகர்வு மொத்தத் தேவையின் ஒரு கூறு."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 72,
+      "quote": "8. Lower interest rates are likely to: a) Decrease in consumption b) increase cost of borrowing c) Encourage saving d) increase borrowing and spending",
+      "answer": "B",
+      "en": {
+        "q": "Lower interest rates are likely to",
+        "options": [
+          "increase the cost of borrowing",
+          "increase borrowing and spending",
+          "decrease consumption",
+          "encourage saving"
+        ],
+        "explanation": "A higher rate of interest encourages saving and reduces consumption; a lower rate does the opposite."
+      },
+      "ta": {
+        "q": "வட்டி வீதம் குறைந்தால் ஏற்படக்கூடியது",
+        "options": [
+          "கடன் வாங்கும் செலவு உயரும்",
+          "கடன், செலவு அதிகரிக்கும்",
+          "நுகர்வு குறையும்",
+          "சேமிப்பு ஊக்கம் பெறும்"
+        ],
+        "explanation": "வட்டி உயர்ந்தால் சேமிப்பு கூடி நுகர்வு குறையும்; குறைந்தால் எதிர்மாறு."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 73,
+      "quote": "9. The MPC is equal to: a) Total spending / total consumption b) Total consumption/total income c) Change in consumption /change in income d) none of the above.",
+      "answer": "D",
+      "en": {
+        "q": "The marginal propensity to consume equals",
+        "options": [
+          "total consumption / total income",
+          "total spending / total consumption",
+          "change in saving / change in income",
+          "change in consumption / change in income"
+        ],
+        "explanation": "MPC = delta C / delta Y; total consumption / total income is the APC."
+      },
+      "ta": {
+        "q": "இறுதிநிலை நுகர்வுப் போக்கு (MPC) என்பது",
+        "options": [
+          "மொத்த நுகர்வு / மொத்த வருமானம்",
+          "மொத்தச் செலவு / மொத்த நுகர்வு",
+          "சேமிப்பு மாற்றம் / வருமான மாற்றம்",
+          "நுகர்வு மாற்றம் / வருமான மாற்றம்"
+        ],
+        "explanation": "MPC = delta C / delta Y; மொத்த நுகர்வு / வருமானம் APC; delta S / delta Y MPS."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 73,
+      "quote": "10. The relationship between total spending on consumption and the total income is the ____",
+      "answer": "B",
+      "en": {
+        "q": "The relationship between total consumption spending and total income is the",
+        "options": [
+          "savings function",
+          "consumption function",
+          "aggregate demand function",
+          "investment function"
+        ],
+        "explanation": "C = f(Y) shows the functional relationship between consumption and income."
+      },
+      "ta": {
+        "q": "மொத்த நுகர்வுச் செலவுக்கும் மொத்த வருமானத்துக்குமான தொடர்பு",
+        "options": [
+          "சேமிப்புச் சார்பு",
+          "நுகர்வுச் சார்பு",
+          "மொத்தத் தேவைச் சார்பு",
+          "முதலீட்டுச் சார்பு"
+        ],
+        "explanation": "C = f(Y) நுகர்வுக்கும் வருமானத்துக்குமான சார்புத் தொடர்பைக் காட்டுகிறது."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 73,
+      "quote": "11. The sum of the MPC and MPS is ____ a)1 b) 2 c) 0.1 d) 1.1",
+      "answer": "D",
+      "en": {
+        "q": "The sum of MPC and MPS is",
+        "options": [
+          "1.1",
+          "2",
+          "0.1",
+          "1"
+        ],
+        "explanation": "MPC + MPS = 1, so MPS = 1 - MPC."
+      },
+      "ta": {
+        "q": "MPC, MPS ஆகியவற்றின் கூடுதல்",
+        "options": [
+          "1.1",
+          "2",
+          "0.1",
+          "1"
+        ],
+        "explanation": "MPC + MPS = 1; எனவே MPS = 1 - MPC."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 73,
+      "quote": "12. As income increases, consumption will ____",
+      "answer": "B",
+      "en": {
+        "q": "As income increases, consumption will",
+        "options": [
+          "fall, since saving rises as income rises",
+          "increase, but by less than the rise in income",
+          "not change",
+          "fluctuate"
+        ],
+        "explanation": "Keynes's psychological law: consumption rises with income but by a smaller amount."
+      },
+      "ta": {
+        "q": "வருமானம் உயரும்போது நுகர்வு",
+        "options": [
+          "குறையும், வருமானம் உயரும்போது சேமிப்பு உயர்வதால்",
+          "உயரும், ஆனால் வருமான உயர்வைவிடக் குறைவாக",
+          "மாறாது",
+          "ஏறி இறங்கும்"
+        ],
+        "explanation": "கீன்சின் உளவியல் விதிப்படி நுகர்வு உயரும், ஆனால் குறைந்த அளவில்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 73,
+      "quote": "13. When investment is assumed autonomous the slope of the AD schedule is determined by the ____",
+      "answer": "A",
+      "en": {
+        "q": "When investment is autonomous, the slope of the AD schedule is determined by the",
+        "options": [
+          "marginal propensity to consume",
+          "disposable income",
+          "average propensity to consume",
+          "marginal propensity to invest"
+        ],
+        "explanation": "Only consumption changes with income, so the slope equals the MPC."
+      },
+      "ta": {
+        "q": "முதலீடு தன்னிச்சையானதாகக் கருதப்படும்போது AD அட்டவணையின் சாய்வை நிர்ணயிப்பது",
+        "options": [
+          "இறுதிநிலை நுகர்வுப் போக்கு",
+          "செலவிடக்கூடிய வருமானம்",
+          "நுகர்வுச் சராசரிப் போக்கு",
+          "இறுதிநிலை முதலீட்டுப் போக்கு"
+        ],
+        "explanation": "வருமானத்துடன் நுகர்வு மட்டுமே மாறுவதால் சாய்வு MPC-க்குச் சமம்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 73,
+      "quote": "14. The multiplier tells us how much ____ changes after a shift in ____ a) Consumption, income b) investment, output c) savings, investment d) output, aggregate demand",
+      "answer": "A",
+      "en": {
+        "q": "The multiplier tells us how much ____ changes after a shift in ____.",
+        "options": [
+          "output; aggregate demand",
+          "investment; output",
+          "savings; investment",
+          "consumption; income"
+        ],
+        "explanation": "The multiplier measures the change in output (income) following a change in aggregate demand, e.g. in investment."
+      },
+      "ta": {
+        "q": "பெருக்கி, ____ ல் ஏற்படும் மாற்றத்துக்குப் பின் ____ எவ்வளவு மாறுகிறது என்பதைக் காட்டுகிறது.",
+        "options": [
+          "மொத்தத் தேவை; உற்பத்தி",
+          "உற்பத்தி; முதலீடு",
+          "முதலீடு; சேமிப்பு",
+          "வருமானம்; நுகர்வு"
+        ],
+        "explanation": "மொத்தத் தேவையில் (எ.கா. முதலீடு) ஏற்படும் மாற்றத்தால் உற்பத்தி (வருமானம்) எவ்வளவு மாறும் என்பதைப் பெருக்கி காட்டும்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 73,
+      "quote": "15. The multiplier is calculated as a) 1/(1-MPC) b) 1/MPS c) 1/MPC d) a and b",
+      "answer": "C",
+      "en": {
+        "q": "The multiplier is calculated as",
+        "options": [
+          "1/MPC, which is equal to 1/MPS",
+          "MPS/MPC",
+          "1/(1 - MPC), which is equal to 1/MPS",
+          "1/(1 + MPC)"
+        ],
+        "explanation": "Since MPC + MPS = 1, 1/(1 - MPC) = 1/MPS."
+      },
+      "ta": {
+        "q": "பெருக்கி கணக்கிடப்படுவது",
+        "options": [
+          "1/MPC, இது 1/MPS-க்குச் சமம்",
+          "MPS/MPC",
+          "1/(1 - MPC), இது 1/MPS-க்குச் சமம்",
+          "1/(1 + MPC)"
+        ],
+        "explanation": "MPC + MPS = 1 என்பதால் 1/(1 - MPC) = 1/MPS."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 73,
+      "quote": "16. If the MPC is 0.5, the multiplier is ____ a) 2 b)1/2 c) 0.2 d) 20",
+      "answer": "C",
+      "en": {
+        "q": "If the MPC is 0.5, the multiplier is",
+        "options": [
+          "1/2",
+          "0.2",
+          "2",
+          "20"
+        ],
+        "explanation": "K = 1/(1 - 0.5) = 2."
+      },
+      "ta": {
+        "q": "MPC = 0.5 எனில் பெருக்கி",
+        "options": [
+          "1/2",
+          "0.2",
+          "2",
+          "20"
+        ],
+        "explanation": "K = 1/(1 - 0.5) = 2."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 73,
+      "quote": "17. In an open economy import ____ the value of the multiplier",
+      "answer": "C",
+      "en": {
+        "q": "In an open economy, imports ____ the value of the multiplier.",
+        "options": [
+          "increase",
+          "double",
+          "reduce",
+          "do not change"
+        ],
+        "explanation": "Import leakage lowers the multiplier."
+      },
+      "ta": {
+        "q": "திறந்த பொருளாதாரத்தில் இறக்குமதி பெருக்கியின் மதிப்பை",
+        "options": [
+          "அதிகரிக்கிறது",
+          "இரட்டிப்பாக்குகிறது",
+          "குறைக்கிறது",
+          "மாற்றுவதில்லை"
+        ],
+        "explanation": "இறக்குமதி கசிவு பெருக்கியைக் குறைக்கிறது."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 73,
+      "quote": "18. According to Keynes, investment is a function of the MEC and ____",
+      "answer": "B",
+      "en": {
+        "q": "According to Keynes, investment depends on the MEC and the",
+        "options": [
+          "price level of goods",
+          "rate of interest",
+          "supply",
+          "income"
+        ],
+        "explanation": "Investment is determined by comparing the marginal efficiency of capital with the market rate of interest."
+      },
+      "ta": {
+        "q": "கீன்சின்படி முதலீடு என்பது MEC மற்றும் ____ ஆகியவற்றின் சார்பு.",
+        "options": [
+          "பொருள்களின் விலை மட்டம்",
+          "வட்டி வீதம்",
+          "அளிப்பு",
+          "வருமானம்"
+        ],
+        "explanation": "MEC-ஐயும் சந்தை வட்டி வீதத்தையும் ஒப்பிட்டு முதலீடு தீர்மானிக்கப்படுகிறது."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 74,
+      "quote": "19. The term super multiplier was first used by a) J.R.Hicks b) R.G.D. Allen c) Kahn d) Keynes",
+      "answer": "B",
+      "en": {
+        "q": "The term 'super multiplier' was first used by",
+        "options": [
+          "R. G. D. Allen",
+          "J. R. Hicks",
+          "R. F. Kahn",
+          "J. M. Keynes"
+        ],
+        "explanation": "Hicks's super multiplier combines the multiplier and the accelerator. Kahn developed the original multiplier."
+      },
+      "ta": {
+        "q": "'மீப்பெருக்கி' (Super multiplier) என்ற சொல்லை முதலில் பயன்படுத்தியவர்",
+        "options": [
+          "ஆர்.ஜி.டி. ஆலன்",
+          "ஜே.ஆர். ஹிக்ஸ்",
+          "ஆர்.எஃப். கான்",
+          "ஜே.எம். கீன்ஸ்"
+        ],
+        "explanation": "ஹிக்ஸின் மீப்பெருக்கி, பெருக்கியையும் முடுக்கியையும் இணைக்கிறது."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 74,
+      "quote": "20. The term MEC was introduced by a) Adam Smith b) J.M. Keynes c) Ricardo d) Malthus",
+      "answer": "A",
+      "en": {
+        "q": "The term 'marginal efficiency of capital' (MEC) was introduced by",
+        "options": [
+          "J. M. Keynes",
+          "Adam Smith",
+          "David Ricardo",
+          "T. R. Malthus"
+        ],
+        "explanation": "Keynes introduced MEC in 1936 as a determinant of investment."
+      },
+      "ta": {
+        "q": "மூலதனத்தின் இறுதிநிலைத் திறன் (MEC) என்ற சொல்லை அறிமுகப்படுத்தியவர்",
+        "options": [
+          "ஜே.எம். கீன்ஸ்",
+          "ஆடம் ஸ்மித்",
+          "டேவிட் ரிக்கார்டோ",
+          "டி.ஆர். மால்தஸ்"
+        ],
+        "explanation": "1936-ல் கீன்ஸ் MEC-ஐ முதலீட்டின் நிர்ணயக் காரணியாக அறிமுகம் செய்தார்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 74,
+      "quote": "25. What do you mean by propensity to save? / 27. Define MPS",
+      "answer": "D",
+      "en": {
+        "q": "The marginal propensity to save (MPS) is",
+        "options": [
+          "total income / total saving",
+          "total saving / total income",
+          "change in consumption / change in income",
+          "change in saving / change in income"
+        ],
+        "explanation": "Total saving / total income is the APS."
+      },
+      "ta": {
+        "q": "இறுதிநிலைச் சேமிப்புப் போக்கு (MPS) என்பது",
+        "options": [
+          "மொத்த வருமானம் / மொத்தச் சேமிப்பு",
+          "மொத்தச் சேமிப்பு / மொத்த வருமானம்",
+          "நுகர்வு மாற்றம் / வருமான மாற்றம்",
+          "சேமிப்பு மாற்றம் / வருமான மாற்றம்"
+        ],
+        "explanation": "மொத்தச் சேமிப்பு / மொத்த வருமானம் APS ஆகும்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 74,
+      "quote": "28. Define Multiplier.",
+      "answer": "D",
+      "en": {
+        "q": "The multiplier is defined as the ratio of the change in",
+        "options": [
+          "output to the change in prices",
+          "investment to the change in income",
+          "consumption to the change in saving",
+          "national income to the change in investment"
+        ],
+        "explanation": "K = delta Y / delta I."
+      },
+      "ta": {
+        "q": "பெருக்கி என்பது ஒரு விகிதம்:",
+        "options": [
+          "உற்பத்தி மாற்றம் / விலை மாற்றம்",
+          "முதலீட்டு மாற்றம் / வருமான மாற்றம்",
+          "நுகர்வு மாற்றம் / சேமிப்பு மாற்றம்",
+          "நாட்டு வருமான மாற்றம் / முதலீட்டு மாற்றம்"
+        ],
+        "explanation": "K = delta Y / delta I."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 74,
+      "quote": "31. Differentiate autonomous and induced investment.",
+      "answer": "C",
+      "en": {
+        "q": "Which investment is income-inelastic and made with a welfare motive?",
+        "options": [
+          "Induced investment",
+          "Planned private investment",
+          "Autonomous investment",
+          "Speculative investment"
+        ],
+        "explanation": "Autonomous investment is independent of income, e.g. roads, bridges and schools; induced investment is profit-motivated and income-elastic."
+      },
+      "ta": {
+        "q": "வருமானத்துடன் மாறாத, நலநோக்கில் செய்யப்படும் முதலீடு",
+        "options": [
+          "தூண்டப்பட்ட முதலீடு",
+          "திட்டமிட்ட தனியார் முதலீடு",
+          "தன்னிச்சை முதலீடு",
+          "ஊக முதலீடு"
+        ],
+        "explanation": "தன்னிச்சை முதலீடு வருமானத்தைச் சாராதது (சாலை, பாலம், பள்ளி); தூண்டப்பட்ட முதலீடு இலாப நோக்கம் உடையது."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 74,
+      "quote": "40. What are the differences between MEC and MEI?",
+      "answer": "B",
+      "en": {
+        "q": "Consumption and Investment Functions: Which statement is correct?",
+        "options": [
+          "MEC is a flow concept and MEI is a stock concept",
+          "MEC is a stock concept and MEI is a flow concept",
+          "Both are stock concepts",
+          "Both are flow concepts"
+        ],
+        "explanation": "MEC puts capital stock on the X axis; MEI puts the amount of investment on it."
+      },
+      "ta": {
+        "q": "எது சரியான கூற்று?",
+        "options": [
+          "MEC ஓர் ஓட்டக் கருத்து; MEI ஓர் இருப்புக் கருத்து",
+          "MEC ஓர் இருப்புக் கருத்து; MEI ஓர் ஓட்டக் கருத்து",
+          "இரண்டும் இருப்புக் கருத்துகள்",
+          "இரண்டும் ஓட்டக் கருத்துகள்"
+        ],
+        "explanation": "MEC வரைபடத்தில் X அச்சில் மூலதன இருப்பு; MEI-ல் முதலீட்டுத் தொகை."
+      }
+    }
+  ]
+}
