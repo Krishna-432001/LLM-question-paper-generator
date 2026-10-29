@@ -1,0 +1,36 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Geography Term-Full (English)",
+  "breadcrumb": "Std 12 Geography (English) — Unit 9: Surveying — Boxed notes (தெரிந்து தெளிவோம் / Do you know)",
+  "questions": [
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 161,
+      "quote": "h = x + (eye-height). The height of the object, h, is equal to the x value we just found plus the eye-height measured earlier.",
+      "answer": "C",
+      "en": {
+        "q": "In measuring the height of an object with a clinometer, the final height h equals ______.",
+        "options": [
+          "only the observer's eye-height",
+          "x minus the observer's eye-height",
+          "x plus eye-height",
+          "distance multiplied by 90 degrees"
+        ],
+        "explanation": "The right-triangle model gives x = tan(angle) x distance."
+      },
+      "ta": {
+        "q": "கிளினோமீட்டரால் பொருளின் உயரம் காணும்போது இறுதி உயரம் h = ______.",
+        "options": [
+          "பார்ப்பவரின் கண் உயரம் மட்டுமே",
+          "x-இலிருந்து பார்ப்பவரின் கண் உயரத்தைக் கழித்த மதிப்பு",
+          "x உடன் கண் உயரம் கூட்டல்",
+          "தொலைவை 90-ஆல் பெருக்கிப் பெறும் மதிப்பு"
+        ],
+        "explanation": "செங்கோண முக்கோண மாதிரியில் x = tan(கோணம்) x தொலைவு."
+      }
+    }
+  ]
+}

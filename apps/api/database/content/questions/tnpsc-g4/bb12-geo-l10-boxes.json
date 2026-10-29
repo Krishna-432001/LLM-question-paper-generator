@@ -1,0 +1,94 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Geography Term-Full (English)",
+  "breadcrumb": "Std 12 Geography (English) — Unit 10: Map Projection — Boxed notes (தெரிந்து தெளிவோம் / Do you know)",
+  "questions": [
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "Cylindrical Projection: the longitudes and latitudes appear as straight lines. Length of equator on the cylinder is equal to the length of the equator, therefore it is suitable for showing equatorial regions.",
+      "answer": "B",
+      "en": {
+        "q": "Which type of projection is best suited for showing equatorial regions, since the equator on the cylinder is equal in length to the globe's equator?",
+        "options": [
+          "Conical projection",
+          "Cylindrical projection",
+          "Polar zenithal projection",
+          "Gnomonic projection"
+        ],
+        "explanation": "In a cylindrical projection meridians and parallels appear as straight lines."
+      },
+      "ta": {
+        "q": "உருளை மீதான நடுவரைக்கோடு பூகோளத்தின் நடுவரைக்கு சமமாக இருப்பதால் நடுவரைப் பகுதிகளைக் காட்ட மிகவும் ஏற்ற கோட்டுச் சட்டம் எது?",
+        "options": [
+          "கூம்புக் கோட்டுச் சட்டம்",
+          "உருளைக் கோட்டுச் சட்டம்",
+          "துருவத் தளக் கோட்டுச் சட்டம்",
+          "கினோமோனிக் கோட்டுச் சட்டம்"
+        ],
+        "explanation": "உருளைக் கோட்டுச் சட்டத்தில் தீர்க்க, அட்சக் கோடுகள் நேர்க்கோடுகளாகத் தெரியும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "Normal cylindrical projections: Equirectangular, Mercator, Lambert's Cylindrical Equal Area, Gall's Stereographic, Miller. Transverse: Cassini, Transverse Mercator. Oblique: Oblique Mercator.",
+      "answer": "B",
+      "en": {
+        "q": "Statements: I. Normal cylindrical projection - Mercator. II. Transverse cylindrical projection - Cassini. III. Oblique cylindrical projection - Miller. Which are correct?",
+        "options": [
+          "I only",
+          "I and II only",
+          "II and III only",
+          "I, II and III"
+        ],
+        "explanation": "The Miller projection is a normal cylindrical projection; the Oblique Mercator is the oblique type."
+      },
+      "ta": {
+        "q": "I. இயல்பு உருளைக் கோட்டுச் சட்டம் - மெர்கேட்டர்; II. குறுக்கு உருளைக் கோட்டுச் சட்டம் - காசினி; III. சாய்வு உருளைக் கோட்டுச் சட்டம் - மில்லர். சரியானவை:",
+        "options": [
+          "I மட்டும்",
+          "I, II மட்டும்",
+          "II, III மட்டும்",
+          "I, II, III"
+        ],
+        "explanation": "மில்லர் இயல்பு வகை; சாய்வு வகை சாய்வு மெர்கேட்டர் மட்டுமே."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 166,
+      "quote": "Azimuthal/Zenithal Projection: a flat sheet of paper tangent to any point on the globe; meridians passing through the centre are straight lines and parallels are concentric circles. Suitable for showing polar areas.",
+      "answer": "A",
+      "en": {
+        "q": "In a zenithal (azimuthal) projection, the parallels appear as ______.",
+        "options": [
+          "concentric circles",
+          "straight parallel lines",
+          "arcs of a cone",
+          "wavy lines"
+        ],
+        "explanation": "It is suitable for showing polar areas; aspects are equatorial, oblique and polar."
+      },
+      "ta": {
+        "q": "தளக் (Zenithal) கோட்டுச் சட்டத்தில் அட்சங்கள் ______ ஆகத் தெரியும்.",
+        "options": [
+          "ஒருமைய வட்டங்களாக",
+          "நேரான இணைகோடுகளாக",
+          "கூம்பின் வில்களாக",
+          "அலைக்கோடுகளாக"
+        ],
+        "explanation": "துருவப் பகுதிகளைக் காட்ட ஏற்றது; நடுவரை, சாய்வு, துருவம் என மூன்று நிலைகள் உண்டு."
+      }
+    }
+  ]
+}

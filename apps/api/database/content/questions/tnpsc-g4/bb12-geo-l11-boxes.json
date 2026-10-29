@@ -1,0 +1,94 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Geography Term-Full (English)",
+  "breadcrumb": "Std 12 Geography (English) — Unit 11: Thematic Mapping — Boxed notes (தெரிந்து தெளிவோம் / Do you know)",
+  "questions": [
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 181,
+      "quote": "The choropleth map uses shades or tints to show intensity or distribution of a particular element... light shading (low density) and dark shading (high density).",
+      "answer": "B",
+      "en": {
+        "q": "In a choropleth map, low density is shown by ______ and high density by ______.",
+        "options": [
+          "dark shading; light shading",
+          "light shading; dark shading",
+          "large dots; small dots",
+          "blue lines; red lines"
+        ],
+        "explanation": "Shading conforms to administrative units."
+      },
+      "ta": {
+        "q": "சம அளவுக் கோட்டு (Choropleth) வரைபடத்தில் குறைந்த அடர்த்தி ______ நிழலாலும் அதிக அடர்த்தி ______ நிழலாலும் காட்டப்படும்.",
+        "options": [
+          "அடர் நிழல்; இளம் நிழல்",
+          "இளம் நிழல்; அடர் நிழல்",
+          "பெரிய புள்ளிகள்; சிறிய புள்ளிகள்",
+          "நீலக்கோடுகள்; சிவப்புக் கோடுகள்"
+        ],
+        "explanation": "நிழல் நிர்வாகப் பிரிவுகளுக்கேற்ப அமையும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 181,
+      "quote": "The choropleth maps are used to represent the density of population, literacy, growth rates, sex ratio, etc.",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following is best represented on a choropleth map?",
+        "options": [
+          "The exact location of every house",
+          "Literacy rate of districts",
+          "Absolute number of cattle by dots",
+          "The route of a river"
+        ],
+        "explanation": "Choropleth maps represent densities and percentages per administrative unit; dot maps represent absolute numbers."
+      },
+      "ta": {
+        "q": "கீழ்க்கண்டவற்றுள் சம அளவுக் கோட்டு வரைபடத்தால் சிறப்பாகக் காட்டத்தக்கது எது?",
+        "options": [
+          "ஒவ்வொரு வீட்டின் துல்லிய இடம்",
+          "மாவட்டவாரி எழுத்தறிவு விகிதம்",
+          "புள்ளிகளால் கால்நடைகளின் முழுமையான எண்ணிக்கை",
+          "ஆற்றின் பாதை"
+        ],
+        "explanation": "அடர்த்தி, சதவீதம் ஆகியவை சம அளவுக் கோட்டு வரைபடத்திலும், முழுமையான எண்கள் புள்ளி வரைபடத்திலும் காட்டப்படும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 183,
+      "quote": "Categories: Very Low - Below 70 (Dharmapuri); Very High - Above 85: Thoothukudi, The Nilgiris, Kanyakumari, Chennai.",
+      "answer": "A",
+      "en": {
+        "q": "Which of the following districts fall in the 'Very High' (above 85 per cent) literacy category in the lesson's choropleth example?",
+        "options": [
+          "Thoothukudi, The Nilgiris, Kanyakumari and Chennai",
+          "Dharmapuri, Namakkal, Perambalur and Ariyalur",
+          "Coimbatore, Madurai, Salem and Erode",
+          "Vellore, Theni, Karur and Cuddalore"
+        ],
+        "explanation": "Dharmapuri alone falls in the 'Very Low' (below 70) category."
+      },
+      "ta": {
+        "q": "நூலின் சம அளவுக் கோட்டு வரைபட எடுத்துக்காட்டில் 'மிக உயர்' (85%-க்கு மேல்) எழுத்தறிவு வகையில் வரும் மாவட்டங்கள் எவை?",
+        "options": [
+          "தூத்துக்குடி, நீலகிரி, கன்னியாகுமரி, சென்னை",
+          "தருமபுரி, நாமக்கல், பெரம்பலூர், அரியலூர்",
+          "கோயம்புத்தூர், மதுரை, சேலம், ஈரோடு",
+          "வேலூர், தேனி, கரூர், கடலூர்"
+        ],
+        "explanation": "தருமபுரி மட்டுமே 'மிகக் குறைவு' (70%-க்குக் கீழ்) வகையில் உள்ளது."
+      }
+    }
+  ]
+}

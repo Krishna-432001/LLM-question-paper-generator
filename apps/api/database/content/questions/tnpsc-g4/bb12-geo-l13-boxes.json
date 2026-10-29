@@ -1,0 +1,123 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Geography Term-Full (English)",
+  "breadcrumb": "Std 12 Geography (English) — Unit 13: Statistical Techniques — Boxed notes (தெரிந்து தெளிவோம் / Do you know)",
+  "questions": [
+    {
+      "topic": "geography-and-environment",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 196,
+      "quote": "Qualitative data only describes an item, e.g., language spoken. Quantitative data has numerical value, e.g., marks obtained. Primary data are collected by the investigator from door to door; secondary data are already collected and recorded.",
+      "answer": "A",
+      "en": {
+        "q": "Match: I. Language spoken - qualitative data; II. Marks obtained - quantitative data; III. Data collected door to door by the investigator - secondary data. Which are correct?",
+        "options": [
+          "I and II only",
+          "I only",
+          "II and III only",
+          "I, II and III"
+        ],
+        "explanation": "Data collected by the investigator door to door are primary data; secondary data come from published or unpublished sources."
+      },
+      "ta": {
+        "q": "I. பேசப்படும் மொழி - பண்புசார் தரவு; II. பெற்ற மதிப்பெண்கள் - அளவுசார் தரவு; III. ஆய்வாளர் வீடுவீடாகச் சென்று சேகரிப்பது - இரண்டாம்நிலைத் தரவு. சரியானவை:",
+        "options": [
+          "I, II மட்டும்",
+          "I மட்டும்",
+          "II, III மட்டும்",
+          "I, II, III"
+        ],
+        "explanation": "ஆய்வாளர் நேரில் சேகரிப்பது முதல்நிலைத் தரவு; இரண்டாம்நிலைத் தரவு வெளியிடப்பட்ட அல்லது வெளியிடப்படாத மூலங்களிலிருந்து பெறப்படும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 196,
+      "quote": "Range = Highest value - Lowest value. Example: data 2, 6, 4, 9, 12, 8, 5, 8: range is 12 - 2 = 10.",
+      "answer": "D",
+      "en": {
+        "q": "The range of the data 2, 6, 4, 9, 12, 8, 5, 8 is ______.",
+        "options": [
+          "12",
+          "6",
+          "14",
+          "10"
+        ],
+        "explanation": "Range = highest value - lowest value = 12 - 2 = 10."
+      },
+      "ta": {
+        "q": "2, 6, 4, 9, 12, 8, 5, 8 என்ற தரவின் வீச்சு ______.",
+        "options": [
+          "12",
+          "6",
+          "14",
+          "10"
+        ],
+        "explanation": "வீச்சு = அதிக மதிப்பு - குறைந்த மதிப்பு = 12 - 2 = 10."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 199,
+      "quote": "Median is the middle value of a series arranged in any order - ascending or descending. Median divides the series into two equal parts. For N = 12 values, median = size of 6th item + size of 7th item / 2. Chennai minimum temperature median = 25.1.",
+      "answer": "D",
+      "en": {
+        "q": "For an even number of observations (N = 12), the median is the ______.",
+        "options": [
+          "the 6th item only, counting from the lowest",
+          "the last (12th) item of the series",
+          "the sum of all items in the series",
+          "the mean of the 6th and 7th ordered items"
+        ],
+        "explanation": "In the Chennai example, the median of monthly minimum temperatures is (24.6 + 25.6)/2 = 25.1 degrees C."
+      },
+      "ta": {
+        "q": "இரட்டைப்படை எண்ணிக்கை (N = 12) உள்ள தரவில் இடைநிலை என்பது ______.",
+        "options": [
+          "வரிசையில் 6-ஆவது மதிப்பு மட்டும்",
+          "வரிசையின் கடைசி (12-ஆவது) மதிப்பு",
+          "தொடரிலுள்ள எல்லா மதிப்புகளின் கூட்டுத்தொகை",
+          "6-ஆவது, 7-ஆவது மதிப்புகளின் சராசரி"
+        ],
+        "explanation": "சென்னையின் மாத குறைந்தபட்ச வெப்பநிலை எடுத்துக்காட்டில் இடைநிலை = (24.6 + 25.6)/2 = 25.1 °C."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 202,
+      "quote": "Mode for grouped data: Mode = l + (f1 - f0) / (2f1 - f0 - f2) x c. Modal class is the class which has maximum frequency. Daily wages example: modal class 50-60 (frequency 15); mode = 55.",
+      "answer": "C",
+      "en": {
+        "q": "In the grouped data of daily wages, the highest frequency is 15, so the modal class is ______.",
+        "options": [
+          "40-50",
+          "60-70",
+          "50-60",
+          "90-100"
+        ],
+        "explanation": "With l = 50, f0 = 12, f1 = 15, f2 = 12 and c = 10, mode = 50 + 3/6 x 10 = 55."
+      },
+      "ta": {
+        "q": "தினக்கூலி குழுத் தரவில் அதிக அலைவெண் 15 என்பதால் முகட்டு வகுப்பு ______.",
+        "options": [
+          "40-50",
+          "60-70",
+          "50-60",
+          "90-100"
+        ],
+        "explanation": "l = 50, f0 = 12, f1 = 15, f2 = 12, c = 10 எனில் முகடு = 50 + 3/6 x 10 = 55."
+      }
+    }
+  ]
+}

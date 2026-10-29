@@ -1,0 +1,152 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Geography Term-Full (English)",
+  "breadcrumb": "Std 12 Geography (English) — Unit 13: Statistical Techniques — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 203,
+      "quote": "1. The following are the monthly average rainfall of Chennai district (15.54, 10.44, 12.48, 20.96, 57.1, 41.24, 64.4, 99.28, 147.17, 204.22, 165.07, 133.76 mm). Find the mean, median and mode. (mean)",
+      "answer": "A",
+      "en": {
+        "q": "The monthly average rainfall (mm) of Chennai is 15.54, 10.44, 12.48, 20.96, 57.1, 41.24, 64.4, 99.28, 147.17, 204.22, 165.07 and 133.76. The mean monthly rainfall is about ______.",
+        "options": [
+          "80.97 mm",
+          "60.75 mm",
+          "971.66 mm",
+          "98.08 mm"
+        ],
+        "explanation": "Sum = 971.66; mean = 971.66 / 12 = 80.97 mm."
+      },
+      "ta": {
+        "q": "சென்னையின் மாதாந்திர சராசரி மழையளவு (மி.மீ.): 15.54, 10.44, 12.48, 20.96, 57.1, 41.24, 64.4, 99.28, 147.17, 204.22, 165.07, 133.76. சராசரி மாதாந்திர மழையளவு சுமார் ______.",
+        "options": [
+          "80.97 மி.மீ.",
+          "60.75 மி.மீ.",
+          "971.66 மி.மீ.",
+          "98.08 மி.மீ."
+        ],
+        "explanation": "கூட்டுத்தொகை = 971.66; சராசரி = 971.66 / 12 = 80.97 மி.மீ."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 203,
+      "quote": "1. ... Find the mean, median and mode. (median)",
+      "answer": "D",
+      "en": {
+        "q": "For the same twelve monthly rainfall values of Chennai, the median is ______.",
+        "options": [
+          "57.1 mm",
+          "80.97 mm",
+          "64.4 mm",
+          "60.75 mm"
+        ],
+        "explanation": "In ascending order the 6th value is 57.1 and the 7th is 64.4; median = (57.1 + 64.4) / 2 = 60.75. No value repeats, so there is no mode."
+      },
+      "ta": {
+        "q": "சென்னையின் அதே பன்னிரண்டு மாத மழையளவு மதிப்புகளுக்கான இடைநிலை (Median) ______.",
+        "options": [
+          "57.1 மி.மீ.",
+          "80.97 மி.மீ.",
+          "64.4 மி.மீ.",
+          "60.75 மி.மீ."
+        ],
+        "explanation": "ஏறுவரிசையில் 6-ஆவது 57.1, 7-ஆவது 64.4; இடைநிலை = (57.1 + 64.4)/2 = 60.75. எந்த மதிப்பும் மீண்டும் வராததால் முகடு இல்லை."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 203,
+      "quote": "2. Calculate the mean, median and mode for the following data relating to the monthly income of workers in a factory (classes 15-25 ... 75-85; persons 6, 11, 7, 4, 4, 2, 1). (mean)",
+      "answer": "B",
+      "en": {
+        "q": "Monthly income of factory workers (thousands): classes 15-25, 25-35, 35-45, 45-55, 55-65, 65-75, 75-85 with 6, 11, 7, 4, 4, 2, 1 persons. The mean income is about ______ thousand.",
+        "options": [
+          "35.71",
+          "39.71",
+          "30.56",
+          "45.00"
+        ],
+        "explanation": "With assumed mean A = 50, sum of fd = -36, N = 35 and i = 10: mean = 50 + (-36/35) x 10 = 39.71."
+      },
+      "ta": {
+        "q": "தொழிற்சாலைப் பணியாளர்களின் மாத வருமானம் (ஆயிரத்தில்): வகுப்புகள் 15-25, 25-35, 35-45, 45-55, 55-65, 65-75, 75-85; நபர்கள் 6, 11, 7, 4, 4, 2, 1. சராசரி வருமானம் சுமார் ______ ஆயிரம்.",
+        "options": [
+          "35.71",
+          "39.71",
+          "30.56",
+          "45.00"
+        ],
+        "explanation": "கற்பனைச் சராசரி A = 50, ∑fd = -36, N = 35, i = 10; சராசரி = 50 + (-36/35) x 10 = 39.71."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 203,
+      "quote": "2. ... (median)",
+      "answer": "B",
+      "en": {
+        "q": "For the same income data (6, 11, 7, 4, 4, 2, 1 persons in classes 15-25 ... 75-85), the median income is about ______ thousand.",
+        "options": [
+          "39.71",
+          "35.71",
+          "30.56",
+          "40.00"
+        ],
+        "explanation": "N/2 = 17.5 falls in the class 35-45 (cumulative frequency before it is 17): median = 35 + (0.5/7) x 10 = 35.71."
+      },
+      "ta": {
+        "q": "அதே வருமானத் தரவிற்கு (15-25 முதல் 75-85 வகுப்புகளில் 6, 11, 7, 4, 4, 2, 1 நபர்கள்) இடைநிலை வருமானம் சுமார் ______ ஆயிரம்.",
+        "options": [
+          "39.71",
+          "35.71",
+          "30.56",
+          "40.00"
+        ],
+        "explanation": "N/2 = 17.5 என்பது 35-45 வகுப்பில் வருகிறது (அதற்கு முந்தைய ஒட்டு அலைவெண் 17): இடைநிலை = 35 + (0.5/7) x 10 = 35.71."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 203,
+      "quote": "2. ... (mode)",
+      "answer": "A",
+      "en": {
+        "q": "For the same income data, the mode (modal class 25-35 with frequency 11, f0 = 6 and f2 = 7) is about ______ thousand.",
+        "options": [
+          "30.56",
+          "39.71",
+          "25.00",
+          "35.71"
+        ],
+        "explanation": "Mode = 25 + (11 - 6) / (2 x 11 - 6 - 7) x 10 = 25 + 5.56 = 30.56."
+      },
+      "ta": {
+        "q": "அதே வருமானத் தரவிற்கு முகடு (முகட்டு வகுப்பு 25-35, அலைவெண் 11, f0 = 6, f2 = 7) சுமார் ______ ஆயிரம்.",
+        "options": [
+          "30.56",
+          "39.71",
+          "25.00",
+          "35.71"
+        ],
+        "explanation": "முகடு = 25 + (11 - 6)/(2 x 11 - 6 - 7) x 10 = 25 + 5.56 = 30.56."
+      }
+    }
+  ]
+}
