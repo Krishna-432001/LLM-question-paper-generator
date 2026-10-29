@@ -1,0 +1,123 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Economics Term-Full (English)",
+  "breadcrumb": "Std 12 Economics (English) — Chapter 6: Banking — Practice (பயிற்சி வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "nature-of-indian-economy-and-planning",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 100,
+      "quote": "Money Multiplier = 1 / reserve ratio. Credit creation = deposit x multiplier.",
+      "answer": "C",
+      "en": {
+        "q": "If banks keep a minimum cash reserve of 10 per cent and there are no drains, a fresh deposit of Rs 2,000 can create total deposits of",
+        "options": [
+          "Rs 2,200",
+          "Rs 10,000",
+          "Rs 20,000",
+          "Rs 18,000"
+        ],
+        "explanation": "Multiplier = 1 / 0.10 = 10; credit creation = 2,000 x 10 = Rs 20,000."
+      },
+      "ta": {
+        "q": "வங்கிகள் குறைந்தது 10% ரொக்க இருப்பு வைத்து, கசிவு இல்லையெனில் ₹2,000 புதிய வைப்பு உருவாக்கக்கூடிய மொத்த வைப்பு",
+        "options": [
+          "₹2,200",
+          "₹10,000",
+          "₹20,000",
+          "₹18,000"
+        ],
+        "explanation": "பெருக்கி = 1 / 0.10 = 10; கடன் உருவாக்கம் = 2,000 x 10 = ₹20,000."
+      }
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 100,
+      "quote": "Bank deposit of Rs 1000 with 20% reserve: Rs 800 lent, then Rs 640 ...",
+      "answer": "A",
+      "en": {
+        "q": "With a 20 per cent reserve ratio, the first bank lends Rs 800 of a Rs 1,000 deposit, the second Rs 640, and the third bank lends",
+        "options": [
+          "Rs 512",
+          "Rs 500",
+          "Rs 560",
+          "Rs 480"
+        ],
+        "explanation": "Each round lends 80% of the previous deposit: 800 x 0.8 = 640; 640 x 0.8 = 512."
+      },
+      "ta": {
+        "q": "20% இருப்பு விகிதத்தில் ₹1,000 வைப்பிலிருந்து முதல் வங்கி ₹800-ஐயும் இரண்டாவது ₹640-ஐயும் கடனாக வழங்கினால் மூன்றாவது வங்கி வழங்கும் கடன்",
+        "options": [
+          "₹512",
+          "₹500",
+          "₹560",
+          "₹480"
+        ],
+        "explanation": "ஒவ்வொரு சுற்றிலும் முந்தைய வைப்பில் 80% கடனாகிறது: 800 x 0.8 = 640; 640 x 0.8 = 512."
+      }
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 105,
+      "quote": "CRR + SLR: out of a deposit, the bank keeps CRR with the RBI and SLR in liquid assets; the balance is lent.",
+      "answer": "D",
+      "en": {
+        "q": "A bank has deposits of Rs 5,000 crore, with CRR at 4% and SLR at 18%. The amount left for loans is",
+        "options": [
+          "Rs 4,900 crore",
+          "Rs 1,100 crore",
+          "Rs 4,100 crore",
+          "Rs 3,900 crore"
+        ],
+        "explanation": "CRR + SLR = 22% of 5,000 = 1,100; balance = 5,000 - 1,100 = 3,900."
+      },
+      "ta": {
+        "q": "ஒரு வங்கியின் வைப்புகள் ₹5,000 கோடி; CRR 4%, SLR 18% எனில் கடனுக்குக் கிடைக்கும் தொகை",
+        "options": [
+          "₹4,900 கோடி",
+          "₹1,100 கோடி",
+          "₹4,100 கோடி",
+          "₹3,900 கோடி"
+        ],
+        "explanation": "CRR + SLR = 22% x 5,000 = 1,100; எஞ்சுவது 5,000 - 1,100 = 3,900."
+      }
+    },
+    {
+      "topic": "nature-of-indian-economy-and-planning",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 100,
+      "quote": "Money multiplier = 1 / reserve ratio",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: With a 10% reserve ratio banks can create more credit than with a 20% reserve ratio.\nReason [R]: The money multiplier is the reciprocal of the reserve ratio.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "The multiplier is 10 at 10% and 5 at 20%, so a lower reserve ratio gives more credit; [R] explains [A]."
+      },
+      "ta": {
+        "q": "கூற்று [A]: 10% இருப்பு விகிதத்தில் வங்கிகள் 20% இருப்பு விகிதத்தைவிட அதிகக் கடனை உருவாக்க முடியும்.\nகாரணம் [R]: பணப் பெருக்கி என்பது இருப்பு விகிதத்தின் தலைகீழி.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "பெருக்கி 10% இருப்பில் 10, 20% இருப்பில் 5; குறைந்த இருப்பு விகிதம் அதிகக் கடனைத் தருகிறது; எனவே [R] விளக்கமாகும்."
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Economics Term-Full (English)",
+  "breadcrumb": "Std 12 Economics (English) — Chapter 2: National Income — Practice (பயிற்சி வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 21,
+      "quote": "NNP = GNP – depreciation allowance.",
+      "answer": "A",
+      "en": {
+        "q": "If GNP at market prices is Rs 9,000 crore and depreciation is Rs 700 crore, NNP at market prices is",
+        "options": [
+          "Rs 8,300 crore",
+          "Rs 8,000 crore",
+          "Rs 7,700 crore",
+          "Rs 9,700 crore"
+        ],
+        "explanation": "NNP = GNP - depreciation = 9,000 - 700 = 8,300. Rs 9,700 wrongly adds depreciation."
+      },
+      "ta": {
+        "q": "சந்தை விலையில் GNP ₹9,000 கோடி, தேய்மானம் ₹700 கோடி எனில் சந்தை விலையில் NNP",
+        "options": [
+          "₹8,300 கோடி",
+          "₹8,000 கோடி",
+          "₹7,700 கோடி",
+          "₹9,700 கோடி"
+        ],
+        "explanation": "NNP = GNP - தேய்மானம் = 9,000 - 700 = 8,300."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 21,
+      "quote": "NNP at factor cost = NNP at Market prices – Indirect taxes + Subsidies.",
+      "answer": "D",
+      "en": {
+        "q": "NNP at market prices is Rs 8,300 crore, indirect taxes Rs 600 crore and subsidies Rs 150 crore. NNP at factor cost (national income) is",
+        "options": [
+          "Rs 8,750 crore",
+          "Rs 7,550 crore",
+          "Rs 9,050 crore",
+          "Rs 7,850 crore"
+        ],
+        "explanation": "NNP at FC = 8,300 - 600 + 150 = 7,850. Rs 7,550 wrongly subtracts the subsidy."
+      },
+      "ta": {
+        "q": "சந்தை விலையில் NNP ₹8,300 கோடி, மறைமுக வரிகள் ₹600 கோடி, மானியங்கள் ₹150 கோடி எனில் காரணி விலையில் NNP (நாட்டு வருமானம்)",
+        "options": [
+          "₹8,750 கோடி",
+          "₹7,550 கோடி",
+          "₹9,050 கோடி",
+          "₹7,850 கோடி"
+        ],
+        "explanation": "காரணி விலை NNP = 8,300 - 600 + 150 = 7,850."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 22,
+      "quote": "Real Income at constant price = National Income at current price ÷ P1 / P0",
+      "answer": "C",
+      "en": {
+        "q": "National income at current prices is Rs 5,000 crore and the price index rises from 100 (base year) to 125. Real income at constant prices is",
+        "options": [
+          "Rs 6,250 crore",
+          "Rs 5,125 crore",
+          "Rs 4,000 crore",
+          "Rs 4,875 crore"
+        ],
+        "explanation": "Real income = 5,000 / (125/100) = 4,000. Multiplying by 1.25 (6,250) is the common mistake."
+      },
+      "ta": {
+        "q": "நடப்பு விலையில் நாட்டு வருமானம் ₹5,000 கோடி; விலைக் குறியீடு அடிப்படை ஆண்டின் 100-இலிருந்து 125 ஆக உயர்ந்தால் மாறா விலையில் உண்மை வருமானம்",
+        "options": [
+          "₹6,250 கோடி",
+          "₹5,125 கோடி",
+          "₹4,000 கோடி",
+          "₹4,875 கோடி"
+        ],
+        "explanation": "உண்மை வருமானம் = 5,000 ÷ (125/100) = 4,000."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 22,
+      "quote": "GDP deflator = (Nominal GDP / Real GDP) x 100",
+      "answer": "C",
+      "en": {
+        "q": "Nominal GDP is Rs 660 crore and real GDP is Rs 550 crore. The GDP deflator is",
+        "options": [
+          "83.3",
+          "110",
+          "120",
+          "150"
+        ],
+        "explanation": "GDP deflator = (660 / 550) x 100 = 120. 83.3 is the inverted ratio."
+      },
+      "ta": {
+        "q": "பெயரளவு GDP ₹660 கோடி, உண்மை GDP ₹550 கோடி எனில் GDP குறை மதிப்பீட்டுக் காரணி",
+        "options": [
+          "83.3",
+          "110",
+          "120",
+          "150"
+        ],
+        "explanation": "GDP குறை மதிப்பீட்டுக் காரணி = (660 / 550) x 100 = 120."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "statement_based",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 21,
+      "quote": "Personal Income = National Income – (Social Security Contribution and undistributed corporate profits) + Transfer payments. Disposable Income = Personal income – Direct Tax.",
+      "answer": "B",
+      "en": {
+        "q": "National income is Rs 5,000 crore, undistributed corporate profits Rs 300 crore, social security contributions Rs 200 crore, transfer payments Rs 400 crore and direct taxes Rs 600 crore. Consider:\n(i) Personal income is Rs 4,900 crore.\n(ii) Disposable income is Rs 4,300 crore.\n(iii) Disposable income is Rs 5,500 crore.\nWhich of the above is/are correct?",
+        "options": [
+          "(i) and (iii) only",
+          "(i) and (ii) only",
+          "(ii) and (iii) only",
+          "(i), (ii) and (iii)"
+        ],
+        "explanation": "Personal income = 5,000 - (300 + 200) + 400 = 4,900; disposable income = 4,900 - 600 = 4,300. So (iii) is wrong."
+      },
+      "ta": {
+        "q": "நாட்டு வருமானம் ₹5,000 கோடி, பகிரா நிறுவன இலாபம் ₹300 கோடி, சமூகப் பாதுகாப்புப் பங்களிப்பு ₹200 கோடி, மாற்றுத் தொகைகள் ₹400 கோடி, நேர்முக வரிகள் ₹600 கோடி எனில் கூற்றுகளைக் கவனிக்கவும்:\n(i) தனிநபர் வருமானம் ₹4,900 கோடி.\n(ii) செலவிடத்தக்க வருமானம் ₹4,300 கோடி.\n(iii) செலவிடத்தக்க வருமானம் ₹5,500 கோடி.\nமேற்கண்டவற்றுள் சரியானது/சரியானவை எது/எவை?",
+        "options": [
+          "(i), (iii) மட்டும்",
+          "(i), (ii) மட்டும்",
+          "(ii), (iii) மட்டும்",
+          "(i), (ii), (iii)"
+        ],
+        "explanation": "தனிநபர் வருமானம் = 5,000 - (300 + 200) + 400 = 4,900; செலவிடத்தக்க வருமானம் = 4,900 - 600 = 4,300; எனவே (iii) தவறு."
+      }
+    }
+  ]
+}

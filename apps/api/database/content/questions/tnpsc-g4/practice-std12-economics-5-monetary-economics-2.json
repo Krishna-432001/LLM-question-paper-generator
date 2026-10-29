@@ -1,0 +1,123 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Economics Term-Full (English)",
+  "breadcrumb": "Std 12 Economics (English) — Chapter 5: Monetary Economics — Practice (பயிற்சி வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 82,
+      "quote": "MV = PT",
+      "answer": "B",
+      "en": {
+        "q": "In Fisher's equation MV = PT, if M = 400, V = 5 and T = 1,000, the price level P is",
+        "options": [
+          "0.5",
+          "2",
+          "200",
+          "8"
+        ],
+        "explanation": "P = MV / T = (400 x 5) / 1,000 = 2."
+      },
+      "ta": {
+        "q": "ஃபிஷரின் MV = PT சமன்பாட்டில் M = 400, V = 5, T = 1,000 எனில் விலை மட்டம் P",
+        "options": [
+          "0.5",
+          "2",
+          "200",
+          "8"
+        ],
+        "explanation": "P = MV / T = (400 x 5) / 1,000 = 2."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 84,
+      "quote": "n = pk (or) p = n / k",
+      "answer": "A",
+      "en": {
+        "q": "In Keynes's equation n = pk, if the total supply of money n = 5,000 and k = 1,000 consumption units, the price level p is",
+        "options": [
+          "5",
+          "0.2",
+          "4,000",
+          "6,000"
+        ],
+        "explanation": "p = n / k = 5,000 / 1,000 = 5."
+      },
+      "ta": {
+        "q": "கீன்ஸின் n = pk சமன்பாட்டில் மொத்தப் பண அளிப்பு n = 5,000, k = 1,000 நுகர்வு அலகுகள் எனில் விலை மட்டம் p",
+        "options": [
+          "5",
+          "0.2",
+          "4,000",
+          "6,000"
+        ],
+        "explanation": "p = n / k = 5,000 / 1,000 = 5."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 85,
+      "quote": "Creeping, walking (3%-9%), running (10%-20%) and galloping (20%-100%) inflation",
+      "answer": "D",
+      "en": {
+        "q": "The general price index rises from 80 to 92 in a year. Using the textbook's classification, this is",
+        "options": [
+          "creeping inflation (1.5%)",
+          "galloping inflation (50%)",
+          "walking inflation (5%)",
+          "running inflation (15%)"
+        ],
+        "explanation": "(92 - 80) / 80 x 100 = 15%, which lies in the 10%-20% band called running inflation."
+      },
+      "ta": {
+        "q": "ஓர் ஆண்டில் பொது விலைக் குறியீடு 80-இலிருந்து 92 ஆக உயர்ந்தால் பாடநூல் வகைப்பாட்டின்படி அது",
+        "options": [
+          "தவழும் பணவீக்கம் (1.5%)",
+          "தாவும் பணவீக்கம் (50%)",
+          "நடக்கும் பணவீக்கம் (5%)",
+          "ஓடும் பணவீக்கம் (15%)"
+        ],
+        "explanation": "(92 - 80) / 80 x 100 = 15%; இது 10%-20% ஓடும் பணவீக்கம்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 88,
+      "quote": "Deflation: The essential feature of deflation is falling prices, reduced money supply and unemployment.",
+      "answer": "C",
+      "en": {
+        "q": "If the price index falls from 150 to 135 along with falling money supply and rising unemployment, the situation is called",
+        "options": [
+          "disinflation without unemployment",
+          "stagflation",
+          "deflation",
+          "walking inflation"
+        ],
+        "explanation": "Falling prices with reduced money supply and unemployment are the essential features of deflation."
+      },
+      "ta": {
+        "q": "விலைக் குறியீடு 150-இலிருந்து 135 ஆகக் குறைந்து, பண அளிப்பு குறைந்து, வேலையின்மை அதிகரித்தால் அந்நிலை",
+        "options": [
+          "வேலையின்மையற்ற பணவீக்கக் குறைவு",
+          "தேக்கவீக்கம்",
+          "பணவாட்டம்",
+          "நடக்கும் பணவீக்கம்"
+        ],
+        "explanation": "விலை வீழ்ச்சி, பண அளிப்புக் குறைவு, வேலையின்மை ஆகியவை பணவாட்டத்தின் அடிப்படை இயல்புகள்."
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Economics Term-Full (English)",
+  "breadcrumb": "Std 12 Economics (English) — Chapter 4: Consumption and Investment Functions — Practice (பயிற்சி வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 55,
+      "quote": "APC = C / Y (average propensity to consume)",
+      "answer": "B",
+      "en": {
+        "q": "At an income of Rs 400 crore, consumption is Rs 340 crore. The average propensity to consume (APC) is",
+        "options": [
+          "0.15",
+          "0.85",
+          "0.75",
+          "1.18"
+        ],
+        "explanation": "APC = C / Y = 340 / 400 = 0.85. 0.15 is APS; 1.18 inverts the ratio."
+      },
+      "ta": {
+        "q": "₹400 கோடி வருமானத்தில் நுகர்வு ₹340 கோடி எனில் சராசரி நுகர்வு விருப்பு (APC)",
+        "options": [
+          "0.15",
+          "0.85",
+          "0.75",
+          "1.18"
+        ],
+        "explanation": "APC = C / Y = 340 / 400 = 0.85; 0.15 என்பது APS."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 55,
+      "quote": "MPC = change in C / change in Y",
+      "answer": "A",
+      "en": {
+        "q": "When income rises from Rs 500 crore to Rs 600 crore, consumption rises from Rs 420 crore to Rs 495 crore. The marginal propensity to consume is",
+        "options": [
+          "0.75",
+          "0.825",
+          "0.84",
+          "0.25"
+        ],
+        "explanation": "MPC = 75 / 100 = 0.75; MPS = 0.25. 0.825 is the new APC (495/600) and 0.84 is the old APC (420/500)."
+      },
+      "ta": {
+        "q": "வருமானம் ₹500 கோடியிலிருந்து ₹600 கோடியாக உயரும்போது நுகர்வு ₹420 கோடியிலிருந்து ₹495 கோடியாக உயர்ந்தால் இறுதிநிலை நுகர்வு விருப்பு",
+        "options": [
+          "0.75",
+          "0.825",
+          "0.84",
+          "0.25"
+        ],
+        "explanation": "MPC = 75 / 100 = 0.75; MPS = 0.25."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 53,
+      "quote": "C = a + bY, where b = MPC",
+      "answer": "B",
+      "en": {
+        "q": "For the consumption function C = 50 + 0.6Y, consumption and saving at Y = 300 are",
+        "options": [
+          "C = 230 and S = 130",
+          "C = 230 and S = 70",
+          "C = 180 and S = 120",
+          "C = 350 and S = -50"
+        ],
+        "explanation": "C = 50 + 0.6 x 300 = 230; S = Y - C = 70."
+      },
+      "ta": {
+        "q": "நுகர்வுச் சார்பு C = 50 + 0.6Y-ல் Y = 300 எனில் நுகர்வும் சேமிப்பும்",
+        "options": [
+          "C = 230, S = 130",
+          "C = 230, S = 70",
+          "C = 180, S = 120",
+          "C = 350, S = -50"
+        ],
+        "explanation": "C = 50 + 0.6 x 300 = 230; S = 300 - 230 = 70."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 66,
+      "quote": "Y = C + I; C = 100 + 0.8Y ... Y = 200/0.2 = 1000",
+      "answer": "D",
+      "en": {
+        "q": "With C = 80 + 0.75Y and autonomous investment I = 60, the equilibrium income (Y = C + I) is",
+        "options": [
+          "140",
+          "280",
+          "700",
+          "560"
+        ],
+        "explanation": "Y = 80 + 0.75Y + 60, so 0.25Y = 140 and Y = 560."
+      },
+      "ta": {
+        "q": "C = 80 + 0.75Y, தன்னிச்சை முதலீடு I = 60 எனில் சமநிலை வருமானம் (Y = C + I)",
+        "options": [
+          "140",
+          "280",
+          "700",
+          "560"
+        ],
+        "explanation": "Y = 80 + 0.75Y + 60 ⇒ 0.25Y = 140 ⇒ Y = 560."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 69,
+      "quote": "Accelerator (β) = ΔI / ΔC",
+      "answer": "D",
+      "en": {
+        "q": "Consumption demand rises by Rs 80 crore and induced investment rises by Rs 240 crore. The accelerator is",
+        "options": [
+          "0.33",
+          "320",
+          "160",
+          "3"
+        ],
+        "explanation": "Accelerator = change in investment / change in consumption = 240 / 80 = 3. The combined effect of multiplier and accelerator is the leverage effect (நெம்புகோல் இயக்க விளைவு)."
+      },
+      "ta": {
+        "q": "நுகர்வுத் தேவை ₹80 கோடி உயர்ந்து, தூண்டப்பட்ட முதலீடு ₹240 கோடி உயர்ந்தால் முடுக்கி",
+        "options": [
+          "0.33",
+          "320",
+          "160",
+          "3"
+        ],
+        "explanation": "முடுக்கி = முதலீட்டு மாற்றம் / நுகர்வு மாற்றம் = 240 / 80 = 3. பெருக்கியும் முடுக்கியும் இணைந்த விளைவு நெம்புகோல் இயக்க விளைவு."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "match_the_following",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 55,
+      "quote": "APC = C/Y; MPC = change in C/change in Y; MPS = 1 - MPC; K = 1/(1 - MPC)",
+      "answer": "C",
+      "en": {
+        "q": "Match List I (calculation) with List II (value):\nList I\na) APC when Y = 200 and C = 150\nb) MPC when income rises by 100 and consumption by 70\nc) MPS when MPC = 0.7\nd) Multiplier when MPC = 0.8\nList II\n1. 0.3\n2. 5\n3. 0.75\n4. 0.7",
+        "options": [
+          "a-4 b-3 c-1 d-2",
+          "a-1 b-4 c-3 d-2",
+          "a-3 b-4 c-1 d-2",
+          "a-3 b-4 c-2 d-1"
+        ],
+        "explanation": "APC = 150/200 = 0.75; MPC = 70/100 = 0.7; MPS = 1 - 0.7 = 0.3; K = 1/(1 - 0.8) = 5."
+      },
+      "ta": {
+        "q": "பட்டியல் I-ஐ (கணக்கீடு) பட்டியல் II-உடன் (மதிப்பு) பொருத்துக:\nபட்டியல் I\na) Y = 200, C = 150 எனில் APC\nb) வருமானம் 100 உயர்ந்து நுகர்வு 70 உயர்ந்தால் MPC\nc) MPC = 0.7 எனில் MPS\nd) MPC = 0.8 எனில் பெருக்கி\nபட்டியல் II\n1. 0.3\n2. 5\n3. 0.75\n4. 0.7",
+        "options": [
+          "a-4 b-3 c-1 d-2",
+          "a-1 b-4 c-3 d-2",
+          "a-3 b-4 c-1 d-2",
+          "a-3 b-4 c-2 d-1"
+        ],
+        "explanation": "APC = 150/200 = 0.75; MPC = 70/100 = 0.7; MPS = 0.3; K = 1/(1 - 0.8) = 5."
+      }
+    }
+  ]
+}
