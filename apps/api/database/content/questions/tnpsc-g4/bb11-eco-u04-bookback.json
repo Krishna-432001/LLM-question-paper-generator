@@ -1,0 +1,587 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 11 Economics Term-Full (English)",
+  "breadcrumb": "Std 11 Economics (English) — Chapter 4: Cost and Revenue Analysis — Book-back (பாடநூல் வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 95,
+      "quote": "1. Cost refers to ________ a. price b. value c. fixed cost d. production",
+      "answer": "B",
+      "en": {
+        "q": "Cost refers to the total expenses incurred in the ______ of a commodity.",
+        "options": [
+          "pricing",
+          "production",
+          "valuation",
+          "marketing"
+        ],
+        "explanation": "The textbook defines cost as the total expenses incurred in producing a commodity. The book-back item has the blank at the end of a one-word stem; it is reworded here to make one answer defensible."
+      },
+      "ta": {
+        "q": "செலவு என்பது ஒரு பண்டத்தின் ______ ஆகும் மொத்தச் செலவுகளைக் குறிக்கும்.",
+        "options": [
+          "விலை நிர்ணயத்துக்கு",
+          "உற்பத்திக்கு",
+          "மதிப்பீட்டுக்கு",
+          "சந்தைப்படுத்தலுக்கு"
+        ],
+        "explanation": "ஒரு பண்டத்தை உற்பத்தி செய்யச் செய்யப்படும் மொத்தச் செலவுகளே செலவு. பாடநூல் வினா ஒரு சொல் மட்டுமே கொண்டிருந்ததால் ஒரே விடை அமைய இவ்வாறு மாற்றப்பட்டது."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 95,
+      "quote": "2. Cost functions are also known as _______________ function. a. production b. investment c. demand d. consumption",
+      "answer": "D",
+      "en": {
+        "q": "Cost functions are derived from the ______ function.",
+        "options": [
+          "investment",
+          "demand",
+          "consumption",
+          "production"
+        ],
+        "explanation": "Cost functions are derived functions because they are derived from production functions; C = f(Q)."
+      },
+      "ta": {
+        "q": "செலவுச் சார்புகள் ______ சார்பிலிருந்து பெறப்படுபவை.",
+        "options": [
+          "முதலீட்டுச்",
+          "தேவைச்",
+          "நுகர்வுச்",
+          "உற்பத்திச்"
+        ],
+        "explanation": "செலவுச் சார்புகள் உற்பத்திச் சார்பிலிருந்து பெறப்படுவதால் அவை பெறப்பட்ட சார்புகள்; C = f(Q)."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 95,
+      "quote": "3. Money cost is also known as ____________ cost. a. explicit b. implicit c. social d. real",
+      "answer": "C",
+      "en": {
+        "q": "Money cost is also known as ______ cost.",
+        "options": [
+          "implicit",
+          "social",
+          "explicit",
+          "real"
+        ],
+        "explanation": "Money cost is also called prime, direct, nominal, accounting, explicit or out-of-pocket cost."
+      },
+      "ta": {
+        "q": "பணச் செலவு ______ செலவு எனவும் அழைக்கப்படும்.",
+        "options": [
+          "உள்ளார்ந்த",
+          "சமூக",
+          "வெளிப்படையான",
+          "உண்மைச்"
+        ],
+        "explanation": "பணச் செலவு முதன்மை, நேரடி, பெயரளவு, கணக்கியல், வெளிப்படையான செலவு எனவும் அழைக்கப்படும்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 95,
+      "quote": "4. Explicit cost plus implicit cost denote ___________ cost. a. social b. economic c. money d. fixed",
+      "answer": "B",
+      "en": {
+        "q": "Explicit cost plus implicit cost equals ______ cost.",
+        "options": [
+          "social",
+          "economic",
+          "fixed",
+          "money"
+        ],
+        "explanation": "Economic cost = explicit cost + implicit cost; it is used to calculate normal and economic profit."
+      },
+      "ta": {
+        "q": "வெளிப்படையான செலவும் உள்ளார்ந்த செலவும் சேர்ந்தது ______ செலவு.",
+        "options": [
+          "சமுதாயச்",
+          "பொருளாதாரச்",
+          "நிலையான",
+          "பணரீதியான"
+        ],
+        "explanation": "பொருளாதாரச் செலவு = வெளிப்படையான + உள்ளார்ந்த செலவு."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 95,
+      "quote": "5. Explicit costs are termed as a. out of pocket expenses b. real cost c. social cost d. sunk cost",
+      "answer": "A",
+      "en": {
+        "q": "Explicit costs are also termed",
+        "options": [
+          "out-of-pocket costs",
+          "real cost of effort",
+          "social cost to others",
+          "sunk cost already incurred"
+        ],
+        "explanation": "They are actual payments to others for factors of production."
+      },
+      "ta": {
+        "q": "வெளிப்படையான செலவுகள் வேறு எவ்வாறு அழைக்கப்படுகின்றன?",
+        "options": [
+          "பையிலிருந்து செலுத்தும் செலவு",
+          "உழைப்பின் உண்மைச் செலவு",
+          "சமூகம் ஏற்கும் செலவு",
+          "அமிழ்த்தப்பட்ட செலவு"
+        ],
+        "explanation": "பிறருக்கு உற்பத்திக் காரணிகளுக்காகச் செலுத்தும் உண்மையான கொடுப்பனவுகள் இவை."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 95,
+      "quote": "6. The costs of self-owned resources are termed as ________ cost. a. real b. explicit c. money d. implicit",
+      "answer": "D",
+      "en": {
+        "q": "The costs of self-owned and self-employed resources are termed ______ cost.",
+        "options": [
+          "real",
+          "money",
+          "explicit",
+          "implicit"
+        ],
+        "explanation": "Implicit cost is also called imputed cost or book cost; no cash payment is made."
+      },
+      "ta": {
+        "q": "நிறுவனத்துக்குச் சொந்தமான வளங்களின் செலவு ______ செலவு எனப்படும்.",
+        "options": [
+          "உண்மைச்",
+          "பணச்",
+          "வெளிப்படையான",
+          "உள்ளார்ந்த"
+        ],
+        "explanation": "உள்ளார்ந்த செலவு கற்பிதச் செலவு அல்லது ஏட்டுச் செலவு எனவும் அழைக்கப்படும்; பணம் செலுத்தப்படுவதில்லை."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 95,
+      "quote": "7. The cost that remains constant at all levels of output is _______ cost. a. fixed b. variable c. real d. social",
+      "answer": "C",
+      "en": {
+        "q": "The cost that remains constant at all levels of output is ______ cost.",
+        "options": [
+          "real",
+          "variable",
+          "fixed",
+          "social"
+        ],
+        "explanation": "Fixed cost does not change with output, even when output is zero."
+      },
+      "ta": {
+        "q": "எல்லா உற்பத்தி அளவுகளிலும் மாறாமல் இருக்கும் செலவு ______ செலவு.",
+        "options": [
+          "உண்மைச்",
+          "மாறும்",
+          "மாறாச்",
+          "சமூகச்"
+        ],
+        "explanation": "உற்பத்தி சுழியமாக இருந்தாலும் மாறாச் செலவு மாறாது."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 95,
+      "quote": "8. Identify the formula of estimating average variable cost. a. TC/Q b. TVC/Q c. TFC/Q d. TAC/Q",
+      "answer": "A",
+      "en": {
+        "q": "The formula for average variable cost is",
+        "options": [
+          "AVC = TVC/Q",
+          "AVC = TFC/Q",
+          "AVC = TAC/Q",
+          "AVC = TC/Q"
+        ],
+        "explanation": "AVC is the variable cost per unit of output; AFC = TFC/Q; AC = TC/Q."
+      },
+      "ta": {
+        "q": "சராசரி மாறும் செலவைக் கணக்கிடும் வாய்ப்பாடு",
+        "options": [
+          "AVC = TVC/Q",
+          "AVC = TFC/Q",
+          "AVC = TAC/Q",
+          "AVC = TC/Q"
+        ],
+        "explanation": "AVC = ஓர் அலகுக்கான மாறும் செலவு; AFC = TFC/Q; AC = TC/Q."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 95,
+      "quote": "9. The cost incurred by producing one more unit of output is ______ cost. a. variable b. fixed c. marginal d. total",
+      "answer": "A",
+      "en": {
+        "q": "The cost incurred by producing one more unit of output is ______ cost.",
+        "options": [
+          "marginal",
+          "variable",
+          "fixed",
+          "total"
+        ],
+        "explanation": "MC = change in total cost / change in output = TCn - TCn-1."
+      },
+      "ta": {
+        "q": "ஓர் அலகு கூடுதலாக உற்பத்தி செய்வதால் ஏற்படும் செலவு எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "இறுதிநிலைச் செலவு",
+          "மாறும் செலவு",
+          "மாறாச் செலவு",
+          "மொத்தச் செலவு"
+        ],
+        "explanation": "MC = மொத்தச் செலவு மாற்றம் / உற்பத்தி மாற்றம் = TCn - TCn-1."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 95,
+      "quote": "10. The cost that varies with the level of output is termed as _______ cost. a. money b. variable cost c. total cost d. fixed cost",
+      "answer": "C",
+      "en": {
+        "q": "The cost that varies with the level of output is termed",
+        "options": [
+          "money cost",
+          "total cost",
+          "variable cost",
+          "fixed cost"
+        ],
+        "explanation": "Wages of temporary workers, raw materials and fuel are examples."
+      },
+      "ta": {
+        "q": "உற்பத்தி அளவுக்கேற்ப மாறும் செலவு ______ செலவு எனப்படும்.",
+        "options": [
+          "பணச்",
+          "மொத்த",
+          "மாறும்",
+          "மாறாச்"
+        ],
+        "explanation": "தற்காலிகத் தொழிலாளர் ஊதியம், மூலப்பொருள், எரிபொருள் ஆகியவை எடுத்துக்காட்டுகள்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 96,
+      "quote": "11. Wage is an example for ________ cost of the production. a. fixed b. variable c. marginal d. opportunity",
+      "answer": "C",
+      "en": {
+        "q": "Wages of temporary workers are an example of ______ cost of production.",
+        "options": [
+          "marginal",
+          "fixed",
+          "variable",
+          "opportunity"
+        ],
+        "explanation": "Variable costs include wages of temporary workers, raw materials, fuel and electricity."
+      },
+      "ta": {
+        "q": "தற்காலிகத் தொழிலாளர் ஊதியம் உற்பத்தியின் ______ செலவுக்கு எடுத்துக்காட்டு.",
+        "options": [
+          "இறுதிநிலை",
+          "மாறாச்",
+          "மாறும்",
+          "வாய்ப்பு"
+        ],
+        "explanation": "மாறும் செலவுகளில் தற்காலிகத் தொழிலாளர் ஊதியம், மூலப்பொருள், எரிபொருள், மின்கட்டணம் அடங்கும்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 96,
+      "quote": "12. The cost per unit of output is denoted by _________ cost. a. average b. marginal c. variable d. total",
+      "answer": "B",
+      "en": {
+        "q": "The cost per unit of output is called ______ cost.",
+        "options": [
+          "variable",
+          "average",
+          "total",
+          "marginal"
+        ],
+        "explanation": "Average cost = total cost / quantity of output."
+      },
+      "ta": {
+        "q": "ஓர் அலகு உற்பத்திக்கான செலவு ______ செலவு எனப்படும்.",
+        "options": [
+          "மாறும்",
+          "சராசரிச்",
+          "மொத்தச்",
+          "இறுதிநிலைச்"
+        ],
+        "explanation": "சராசரிச் செலவு = மொத்தச் செலவு / உற்பத்தி அளவு."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 96,
+      "quote": "13. Identify the formula of estimating average cost. a. AVC/Q b. TC/Q c. TVC/Q d. AFC/Q",
+      "answer": "A",
+      "en": {
+        "q": "The formula for estimating average cost is",
+        "options": [
+          "AC = TC/Q",
+          "AC = TVC/Q",
+          "AC = AFC/Q",
+          "AC = AVC/Q"
+        ],
+        "explanation": "AC = TC/Q, also equal to AFC + AVC."
+      },
+      "ta": {
+        "q": "சராசரிச் செலவைக் கணக்கிடும் வாய்ப்பாடு",
+        "options": [
+          "AC = TC/Q",
+          "AC = TVC/Q",
+          "AC = AFC/Q",
+          "AC = AVC/Q"
+        ],
+        "explanation": "AC = TC/Q; இது AFC + AVC-க்கும் சமம்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 96,
+      "quote": "14. Find total cost where TFC = 100 and TVC = 125. a. 125 b. 175 c. 225 d. 325",
+      "answer": "D",
+      "en": {
+        "q": "If TFC = Rs.100 and TVC = Rs.125, the total cost is",
+        "options": [
+          "Rs.125",
+          "Rs.175",
+          "Rs.325",
+          "Rs.225"
+        ],
+        "explanation": "TC = TFC + TVC = 100 + 125 = 225."
+      },
+      "ta": {
+        "q": "TFC = ரூ.100, TVC = ரூ.125 எனில் மொத்தச் செலவு",
+        "options": [
+          "ரூ.125",
+          "ரூ.175",
+          "ரூ.325",
+          "ரூ.225"
+        ],
+        "explanation": "TC = TFC + TVC = 100 + 125 = 225."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 96,
+      "quote": "15. Long-run average cost curve is also called as __________ curve. a. demand b. planning c. production d. sales",
+      "answer": "D",
+      "en": {
+        "q": "The long-run average cost curve is also called the ______ curve.",
+        "options": [
+          "sales",
+          "production",
+          "demand",
+          "planning"
+        ],
+        "explanation": "LAC is also called the plant, boat-shape, planning or envelope curve."
+      },
+      "ta": {
+        "q": "நீண்டகால சராசரிச் செலவு வளைகோடு ______ வளைகோடு எனவும் அழைக்கப்படும்.",
+        "options": [
+          "விற்பனை",
+          "உற்பத்தி",
+          "தேவை",
+          "திட்டமிடல்"
+        ],
+        "explanation": "LAC வளைகோடு ஆலை, படகு வடிவ, திட்டமிடல், உறை வளைகோடு எனவும் அழைக்கப்படும்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 96,
+      "quote": "16. Revenue received from the sale of products is known as _______ revenue. a. profit b. total c. average d. marginal",
+      "answer": "C",
+      "en": {
+        "q": "Revenue received from the sale of all the products is known as ______ revenue.",
+        "options": [
+          "profit",
+          "average",
+          "total",
+          "marginal"
+        ],
+        "explanation": "TR = P x Q."
+      },
+      "ta": {
+        "q": "பொருட்களின் விற்பனையால் கிடைக்கும் வருவாய் ______ வருவாய் எனப்படும்.",
+        "options": [
+          "இலாப",
+          "சராசரி",
+          "மொத்த",
+          "இறுதிநிலை"
+        ],
+        "explanation": "மொத்த வருவாய் TR = P x Q."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 96,
+      "quote": "17. Revenue received from the sale of additional unit is termed as ________ revenue. a. profit b. average c. marginal d. total",
+      "answer": "A",
+      "en": {
+        "q": "Revenue received from the sale of an additional unit is termed ______ revenue.",
+        "options": [
+          "marginal",
+          "profit",
+          "average",
+          "total"
+        ],
+        "explanation": "MR = change in TR / change in quantity."
+      },
+      "ta": {
+        "q": "கூடுதல் ஓர் அலகின் விற்பனையால் கிடைக்கும் வருவாய் எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "இறுதிநிலை வருவாய்",
+          "இலாப வருவாய்",
+          "சராசரி வருவாய்",
+          "மொத்த வருவாய்"
+        ],
+        "explanation": "MR = மொத்த வருவாய் மாற்றம் / விற்பனை அளவு மாற்றம்."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 96,
+      "quote": "18. Marginal revenue is the addition made to the a. total sales b. total revenue c. total production d. total cost",
+      "answer": "D",
+      "en": {
+        "q": "Marginal revenue is the addition made to",
+        "options": [
+          "total sales",
+          "total cost",
+          "total production",
+          "total revenue"
+        ],
+        "explanation": "MR is the additional revenue from selling one more unit."
+      },
+      "ta": {
+        "q": "இறுதிநிலை வருவாய் என்பது எதில் ஏற்படும் கூடுதல்?",
+        "options": [
+          "மொத்த விற்பனையில்",
+          "மொத்தச் செலவில்",
+          "மொத்த உற்பத்தியில்",
+          "மொத்த வருவாயில்"
+        ],
+        "explanation": "ஒரு கூடுதல் அலகை விற்பதால் மொத்த வருவாயில் ஏற்படும் கூடுதலே MR."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 96,
+      "quote": "19. When price remains constant, AR will be ________ MR. a. equal to b. greater than c. less than d. not related to",
+      "answer": "B",
+      "en": {
+        "q": "When price remains constant, AR is ______ MR.",
+        "options": [
+          "greater than",
+          "equal to",
+          "less than",
+          "unrelated to"
+        ],
+        "explanation": "Under perfect competition, price is fixed and AR = MR (a horizontal line)."
+      },
+      "ta": {
+        "q": "விலை மாறாமல் இருக்கும்போது AR ஆனது MR-ஐ ______.",
+        "options": [
+          "விடக் கூடுதலாக இருக்கும்",
+          "சமமாக இருக்கும்",
+          "விடக் குறைவாக இருக்கும்",
+          "சார்ந்திராது"
+        ],
+        "explanation": "நிறைவுப் போட்டியில் விலை நிலையானது; AR = MR (படுகிடைக் கோடு)."
+      }
+    },
+    {
+      "topic": "economics-and-development",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 96,
+      "quote": "20. A book seller sold 40 books with the price of Rs.10 each. The total revenue of the seller is Rs.___. a. 100 b. 200 c. 300 d. 400",
+      "answer": "A",
+      "en": {
+        "q": "A bookseller sold 40 books at Rs.10 each. The total revenue is",
+        "options": [
+          "Rs.400",
+          "Rs.200",
+          "Rs.300",
+          "Rs.100"
+        ],
+        "explanation": "TR = P x Q = 10 x 40 = 400."
+      },
+      "ta": {
+        "q": "ஒரு நூல் விற்பவர் ஒவ்வொன்றும் ரூ.10 வீதம் 40 நூல்களை விற்றார். மொத்த வருவாய்",
+        "options": [
+          "ரூ.400",
+          "ரூ.200",
+          "ரூ.300",
+          "ரூ.100"
+        ],
+        "explanation": "TR = P x Q = 10 x 40 = 400."
+      }
+    }
+  ]
+}
