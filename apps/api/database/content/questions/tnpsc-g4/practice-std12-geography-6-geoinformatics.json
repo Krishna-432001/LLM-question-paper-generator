@@ -1,0 +1,964 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Geography Term-Full (English)",
+  "breadcrumb": "Std 12 Geography (English) — Unit 6: Geoinformatics — Practice (பயிற்சி வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 110,
+      "quote": "collecting information about the terrestrial objects using camera and sensor system",
+      "answer": "A",
+      "en": {
+        "q": "Remote sensing is an integrated discipline of arts, science and technology of collecting information about terrestrial objects using",
+        "options": [
+          "a camera and sensor system",
+          "only ground surveys with chains",
+          "only census records",
+          "only tide gauges"
+        ],
+        "explanation": "The sun is the major source of energy for most remote sensing."
+      },
+      "ta": {
+        "q": "தொலையுணர்வு என்பது நிலப்பரப்புப் பொருட்களைப் பற்றிய தகவல்களை எதைப் பயன்படுத்தி சேகரிக்கும் கலை, அறிவியல், தொழில்நுட்பம் இணைந்த துறை?",
+        "options": [
+          "படக்கருவி, உணர்வி அமைப்பு",
+          "சங்கிலி அளவீடு மட்டும்",
+          "மக்கள்தொகைப் பதிவேடுகள் மட்டும்",
+          "ஓதமானிகள் மட்டும்"
+        ],
+        "explanation": "தொலையுணர்வுக்கு சூரியனே முதன்மை ஆற்றல் மூலம்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 111,
+      "quote": "Scattering is the re-direction of Electromagnetic radiation by particles suspended in the atmosphere or by large molecules of atmospheric gases.",
+      "answer": "D",
+      "en": {
+        "q": "Which of the following does the amount of scattering of electromagnetic radiation in the atmosphere depend upon?",
+        "options": [
+          "Only the colour of the target and the height of the sensor",
+          "Only the altitude of the sensor",
+          "Only the season of the year",
+          "Size and abundance of particles, wavelength of radiation and depth of atmosphere"
+        ],
+        "explanation": "Absorption is the process by which gas molecules strongly absorb electromagnetic radiation in certain spectral bands."
+      },
+      "ta": {
+        "q": "வளிமண்டலத்தில் மின்காந்த அலைகள் சிதறுவதன் அளவு எவற்றைப் பொறுத்தது?",
+        "options": [
+          "இலக்கின் நிறமும் உணர்வியின் உயரமும் மட்டும் ஆகும்",
+          "உணர்வியின் உயரம் மட்டும்",
+          "ஆண்டின் பருவம் மட்டும்",
+          "துகள்களின் அளவு, மிகுதி, கதிர்வீச்சின் அலைநீளம், வளிமண்டல ஆழம்"
+        ],
+        "explanation": "வளிமண்டல வாயு மூலக்கூறுகள் குறிப்பிட்ட நிறமாலைப் பட்டைகளில் மின்காந்த அலைகளை உறிஞ்சுவது உறிஞ்சுதல் எனப்படும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 112,
+      "quote": "The image processing methods may be grouped into three functional categories such as Image Restoration, Image Enhancement and Information Extraction.",
+      "answer": "C",
+      "en": {
+        "q": "Which of the following is NOT one of the three functional categories of image processing methods given in the lesson?",
+        "options": [
+          "Information extraction",
+          "Image enhancement",
+          "Image publishing",
+          "Image restoration"
+        ],
+        "explanation": "In information extraction the computer makes no decision; the human operator must instruct it and evaluate the extracted information."
+      },
+      "ta": {
+        "q": "பாடத்தில் தரப்பட்ட படச் செயலாக்க முறைகளின் மூன்று செயல்பாட்டு வகைகளுள் இடம்பெறாதது எது?",
+        "options": [
+          "தகவல் பிரித்தெடுத்தல்",
+          "பட மேம்படுத்தல்",
+          "பட வெளியீடு",
+          "பட மீட்டமைப்பு"
+        ],
+        "explanation": "தகவல் பிரித்தெடுத்தலில் கணினி முடிவெடுக்காது; மனிதச் செயல்பாட்டாளரே கட்டளையிட்டு மதிப்பிட வேண்டும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 112,
+      "quote": "Image restoration is relatively simple because the pixels from each band are processed separately.",
+      "answer": "C",
+      "en": {
+        "q": "According to the lesson, image restoration is relatively simple because",
+        "options": [
+          "it is done only by human operators",
+          "it needs no computer",
+          "the pixels from each band are processed separately",
+          "it uses only one band of the spectrum"
+        ],
+        "explanation": "Restoration compensates for errors, noise and geometric distortion introduced during scanning, transmission and recording."
+      },
+      "ta": {
+        "q": "பாடத்தின்படி, படமீட்டமைப்பு ஒப்பீட்டளவில் எளிது; ஏனெனில்",
+        "options": [
+          "மனிதச் செயல்பாட்டாளர்களால் மட்டுமே செய்யப்படுகிறது",
+          "கணினி தேவையில்லை",
+          "ஒவ்வொரு பட்டையின் படப்புள்ளிகளும் தனித்தனியாகச் செயலாக்கப்படுகின்றன",
+          "நிறமாலையின் ஒரே பட்டை மட்டும் பயன்படுகிறது"
+        ],
+        "explanation": "ஸ்கேன், செலுத்தல், பதிவின்போது ஏற்படும் பிழை, இரைச்சல், வடிவியல் திரிபுகளை மீட்டமைப்பு சரிசெய்கிறது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 112,
+      "quote": "General enhancement distorts the original digital values; therefore enhancement is not done until the restoration processes are completed.",
+      "answer": "D",
+      "en": {
+        "q": "Assertion [A]: Image enhancement is carried out before image restoration.\nReason [R]: General enhancement distorts the original digital values.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "[A] is false: enhancement is done only after restoration is completed. [R] is true and is the reason for that order."
+      },
+      "ta": {
+        "q": "கூற்று [A]: படமேம்படுத்தல் படமீட்டமைப்புக்கு முன்பே செய்யப்படுகிறது.\nகாரணம் [R]: பொதுவான மேம்படுத்தல் அசல் இலக்க மதிப்புகளைத் திரிக்கிறது.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "[A] தவறு: மீட்டமைப்பு முடிந்த பின்பே மேம்படுத்தல் செய்யப்படுகிறது. [R] சரி; அதுவே அந்த வரிசைக்குக் காரணம்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 113,
+      "quote": "the quality of an image ... depends on sensor characteristics, season of the year, time of the day, atmospheric effects, resolution, image motion",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following does NOT affect the quality of an image, according to the lesson?",
+        "options": [
+          "Sensor characteristics",
+          "Political boundaries of the area",
+          "Season of the year and time of the day",
+          "Atmospheric effects"
+        ],
+        "explanation": "Resolution of the image and image motion also affect quality."
+      },
+      "ta": {
+        "q": "பாடத்தின்படி, ஒரு படத்தின் தரத்தைப் பாதிக்காதது எது?",
+        "options": [
+          "உணர்வியின் பண்புகள்",
+          "அப்பகுதியின் அரசியல் எல்லைகள்",
+          "ஆண்டின் பருவமும் நாளின் நேரமும்",
+          "வளிமண்டலத் தாக்கங்கள்"
+        ],
+        "explanation": "படத்தின் பிரிதிறனும் படத்தின் இயக்கமும் தரத்தைப் பாதிக்கின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 114,
+      "quote": "A laser-beam remote sensing system is an active sensor ... which records the time it took for the beam of light to return.",
+      "answer": "D",
+      "en": {
+        "q": "A laser-beam remote sensing system, an active sensor, sends out a beam of light of known wavelength and frequency and records",
+        "options": [
+          "the colour of reflected sunlight from the target surface",
+          "the sound of the reflected beam",
+          "the temperature of the target only",
+          "the time taken for the beam to return after reflection"
+        ],
+        "explanation": "Passive solar sensors depend on sunlight and can capture data only during daylight hours."
+      },
+      "ta": {
+        "q": "செயல்படு உணர்வியான லேசர் கற்றை தொலையுணர்வு அமைப்பு, குறிப்பிட்ட அலைநீளம், அதிர்வெண் கொண்ட ஒளிக்கற்றையை அனுப்பி எதைப் பதிவு செய்கிறது?",
+        "options": [
+          "இலக்கிலிருந்து பிரதிபலித்த சூரிய ஒளியின் நிறத்தை",
+          "பிரதிபலித்த கற்றையின் ஒலியை",
+          "இலக்கின் வெப்பநிலையை மட்டும்",
+          "பிரதிபலித்த கற்றை திரும்ப எடுத்துக்கொண்ட நேரத்தை"
+        ],
+        "explanation": "சூரியக் கதிரைச் சார்ந்த மந்த உணர்விகள் பகல் நேரத்தில் மட்டுமே தரவுகளைப் பெற முடியும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 114,
+      "quote": "Passive sensors ... solar sensors can only capture data during daylight hours.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: Passive solar sensors can capture data only during daylight hours.\nReason [R]: They depend on reflected sunlight as the external source of energy.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Both are true; because the energy must come from the sun, they work only in daylight."
+      },
+      "ta": {
+        "q": "கூற்று [A]: சூரிய ஒளியைச் சார்ந்த மந்த உணர்விகள் பகல் நேரத்தில் மட்டுமே தரவுகளைப் பெற முடியும்.\nகாரணம் [R]: அவை பிரதிபலிக்கும் சூரிய ஒளியை வெளி ஆற்றல் மூலமாகச் சார்ந்துள்ளன.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "இரண்டும் சரி; சூரிய ஆற்றலைச் சார்ந்திருப்பதால் பகலில் மட்டுமே செயல்படும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 114,
+      "quote": "Balloon floats at a constant height of about 30 km.",
+      "answer": "D",
+      "en": {
+        "q": "According to the lesson, a balloon used for remote sensing floats at a constant height of about",
+        "options": [
+          "3 km",
+          "3,000 km",
+          "300 km",
+          "30 km"
+        ],
+        "explanation": "Balloons are used for aerial photography and nature conservation studies."
+      },
+      "ta": {
+        "q": "பாடத்தின்படி, தொலையுணர்வுக்குப் பயன்படும் பலூன் ஏறத்தாழ எந்த நிலையான உயரத்தில் மிதக்கிறது?",
+        "options": [
+          "3 கி.மீ",
+          "3,000 கி.மீ",
+          "300 கி.மீ",
+          "30 கி.மீ"
+        ],
+        "explanation": "வான்வழிப் புகைப்படம், இயற்கைப் பாதுகாப்பு ஆய்வுகளுக்குப் பலூன்கள் பயன்படுகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 115,
+      "quote": "While low altitude aerial photography results in large scale images providing detailed information on the terrain, the high altitude smaller scale images offer advantage to cover a larger study area with low spatial resolution.",
+      "answer": "B",
+      "en": {
+        "q": "Compared with low altitude aerial photography, high altitude aerial images are",
+        "options": [
+          "larger in scale, showing more terrain detail with high spatial resolution",
+          "smaller in scale, covering a larger area with low spatial resolution",
+          "larger in scale, covering a smaller area",
+          "identical in scale but taken at night"
+        ],
+        "explanation": "Low altitude aerial photography gives large scale images with detailed information on the terrain."
+      },
+      "ta": {
+        "q": "தாழ்வான உயர வான்வழிப் புகைப்படங்களுடன் ஒப்பிடும்போது, உயர வான்வழிப் படங்கள்",
+        "options": [
+          "பெரிய அளவுகோலில் அதிக நிலவிவரங்களை உயர் பிரிதிறனுடன் காட்டுகின்றன",
+          "சிறிய அளவுகோல் கொண்டு, குறைந்த பிரிதிறனுடன் பெரிய பரப்பை உள்ளடக்குகின்றன",
+          "பெரிய அளவுகோலில் சிறிய பரப்பை உள்ளடக்குகின்றன",
+          "ஒரே அளவுகோலுடன் இரவில் எடுக்கப்படுகின்றன"
+        ],
+        "explanation": "தாழ்வான உயரப் புகைப்படங்கள் நிலப்பரப்பின் விரிவான தகவலைத் தரும் பெரிய அளவுகோல் படங்களைத் தருகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 115,
+      "quote": "Space borne remote sensing provides the following advantages: Large area coverage; frequent and repetitive coverage ...",
+      "answer": "B",
+      "en": {
+        "q": "Consider the advantages of space-borne remote sensing. I. Large area coverage. II. Frequent and repetitive coverage of an area of interest. III. Relatively higher cost per unit area of coverage.",
+        "options": [
+          "I and III only",
+          "I and II only",
+          "I, II and III",
+          "II and III only"
+        ],
+        "explanation": "The lesson lists a relatively lower cost per unit area of coverage as an advantage, so III is false."
+      },
+      "ta": {
+        "q": "விண்வெளிசார் தொலையுணர்வின் நன்மைகளைக் கருதுக. I. பெரிய பரப்பை உள்ளடக்குதல். II. ஒரே பகுதியை அடிக்கடி, மீண்டும் மீண்டும் உள்ளடக்குதல். III. ஓரலகுப் பரப்புக்கு ஒப்பீட்டளவில் அதிகச் செலவு.",
+        "options": [
+          "I மற்றும் III மட்டும்",
+          "I மற்றும் II மட்டும்",
+          "I, II மற்றும் III",
+          "II மற்றும் III மட்டும்"
+        ],
+        "explanation": "ஓரலகுப் பரப்புக்கு ஒப்பீட்டளவில் குறைந்த செலவே நன்மை; எனவே III தவறு."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 116,
+      "quote": "Its coverage is limited to 70°N to 70°S latitudes and one satellite can view one-third globe.",
+      "answer": "A",
+      "en": {
+        "q": "Consider the geostationary satellites. I. Their coverage is limited to 70°N to 70°S latitudes. II. One satellite can view about one-third of the globe. III. They orbit the equatorial plane from east to west.",
+        "options": [
+          "I and II only",
+          "I and III only",
+          "II and III only",
+          "I, II and III"
+        ],
+        "explanation": "Geostationary satellites orbit the equatorial plane from west to east, making one revolution in 24 hours, so III is false."
+      },
+      "ta": {
+        "q": "புவிநிலைச் செயற்கைக்கோள்கள் குறித்த கூற்றுகளைக் கருதுக. I. அவற்றின் கவரேஜ் 70° வ முதல் 70° தெ அட்சம் வரை. II. ஒரு செயற்கைக்கோள் புவியின் மூன்றில் ஒரு பங்கைக் காண முடியும். III. அவை நிலநடுக்கோட்டுத் தளத்தில் கிழக்கிலிருந்து மேற்காகச் சுற்றுகின்றன.",
+        "options": [
+          "I மற்றும் II மட்டும்",
+          "I மற்றும் III மட்டும்",
+          "II மற்றும் III மட்டும்",
+          "I, II மற்றும் III"
+        ],
+        "explanation": "அவை மேற்கிலிருந்து கிழக்காக 24 மணி நேரத்தில் ஒரு சுற்றைப் பூர்த்தி செய்கின்றன; எனவே III தவறு."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 116,
+      "quote": "The Ariane Passenger Payload Experiment (APPLE) was ISRO's first indigenous, experimental communication satellite.",
+      "answer": "D",
+      "en": {
+        "q": "'APPLE', ISRO's first indigenous experimental communication satellite, stands for",
+        "options": [
+          "Aerial Photography and Planetary Landing Experiment",
+          "Advanced Polar Payload for Launch Experiments",
+          "Artificial Planetary Probe for Lunar Exploration",
+          "Ariane Passenger Payload Experiment"
+        ],
+        "explanation": "APPLE was launched on 19 June 1981 and was famously tested on a bullock cart."
+      },
+      "ta": {
+        "q": "இஸ்ரோவின் முதல் உள்நாட்டு சோதனைத் தகவல்தொடர்புச் செயற்கைக்கோளான 'APPLE' என்பதன் விரிவாக்கம்",
+        "options": [
+          "வான்வழிப் புகைப்படம், கோள் தரையிறக்கச் சோதனை",
+          "மேம்பட்ட துருவ பேலோட் ஏவுதல் சோதனை (Advanced Polar Payload Launch Experiment)",
+          "செயற்கைக் கோள் ஆய்வு சந்திர ஆய்வுக்காக",
+          "ஏரியன் பயணிகள் பேலோட் சோதனை (Ariane Passenger Payload Experiment)"
+        ],
+        "explanation": "1981 ஜூன் 19-இல் ஏவப்பட்ட APPLE மாட்டு வண்டியில் வைத்துச் சோதிக்கப்பட்டது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 117,
+      "quote": "it seems that the satellite is shifting westward because the Earth is rotating (from west to east) beneath it.",
+      "answer": "B",
+      "en": {
+        "q": "A polar orbiting (sun-synchronous) satellite appears from the Earth to shift westward because",
+        "options": [
+          "the satellite moves faster than light",
+          "the Earth rotates from west to east beneath it",
+          "the sun moves around the Earth",
+          "the satellite orbits from east to west"
+        ],
+        "explanation": "This apparent movement lets the satellite swath cover a new area with each pass."
+      },
+      "ta": {
+        "q": "துருவச் சுற்றுப்பாதை (சூரியஒத்திசைவு) செயற்கைக்கோள் புவியிலிருந்து பார்க்கும்போது மேற்குநோக்கி நகர்வது போலத் தோன்றக் காரணம்",
+        "options": [
+          "செயற்கைக்கோள் ஒளியைவிட வேகமாக நகர்வதே",
+          "புவி அதன் கீழ் மேற்கிலிருந்து கிழக்காகச் சுழல்வதே",
+          "சூரியன் புவியைச் சுற்றுவதே",
+          "செயற்கைக்கோள் கிழக்கிலிருந்து மேற்காகச் சுற்றுவதே"
+        ],
+        "explanation": "இந்த வெளித்தோற்ற நகர்வால் ஒவ்வொரு சுற்றிலும் புதிய பகுதியை அது உள்ளடக்குகிறது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 117,
+      "quote": "signals intelligence (SIGINT) satellites (also termed 'ferrets')",
+      "answer": "D",
+      "en": {
+        "q": "Signals intelligence (SIGINT) spy satellites are also termed",
+        "options": [
+          "transponders",
+          "keyholes",
+          "sounding balloons",
+          "ferrets"
+        ],
+        "explanation": "Keyhole-series satellites of the U.S. combine photo reconnaissance and SIGINT functions."
+      },
+      "ta": {
+        "q": "சமிக்ஞை நுண்ணறிவு (SIGINT) ஒற்றுச் செயற்கைக்கோள்கள் வேறு எப்பெயரால் அழைக்கப்படுகின்றன?",
+        "options": [
+          "டிரான்ஸ்பாண்டர்கள்",
+          "கீஹோல்",
+          "ஆய்வு பலூன்கள்",
+          "ஃபெரெட்ஸ்"
+        ],
+        "explanation": "அமெரிக்காவின் கீஹோல் தொடர் செயற்கைக்கோள்கள் புகைப்பட ஒற்றறிதல், SIGINT பணிகளை இணைக்கின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 117,
+      "quote": "Early U.S. Spy Satellites: Corona, MIDAS, SAMOS.",
+      "answer": "C",
+      "en": {
+        "q": "Corona, MIDAS and SAMOS were early spy satellites of",
+        "options": [
+          "the Soviet Union",
+          "India",
+          "the United States",
+          "China"
+        ],
+        "explanation": "The majority of spy satellites in orbit, including all the most capable units, are U.S.-owned."
+      },
+      "ta": {
+        "q": "கொரோனா, மிடாஸ், சாமோஸ் ஆகியன எந்த நாட்டின் தொடக்கக்கால ஒற்றுச் செயற்கைக்கோள்கள்?",
+        "options": [
+          "சோவியத் ஒன்றியம்",
+          "இந்தியா",
+          "அமெரிக்க ஐக்கிய நாடு",
+          "சீனா"
+        ],
+        "explanation": "தற்போது சுற்றும் பெரும்பாலான ஒற்றுச் செயற்கைக்கோள்கள், மிகத் திறன் வாய்ந்தவை அனைத்தும் அமெரிக்காவுக்குச் சொந்தமானவை."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 118,
+      "quote": "after spending 125 minutes in the space's micro-gravity environment",
+      "answer": "C",
+      "en": {
+        "q": "According to the lesson, Kalamsat, the 64-gram satellite flown on 22 June 2017, was separated from the rocket after spending how long in the micro-gravity environment?",
+        "options": [
+          "240 minutes",
+          "64 minutes",
+          "125 minutes",
+          "22 minutes"
+        ],
+        "explanation": "The total flight time of the NASA sounding rocket was 240 minutes."
+      },
+      "ta": {
+        "q": "பாடத்தின்படி, 2017 ஜூன் 22-இல் ஏவப்பட்ட 64 கிராம் எடையுள்ள கலாம்சாட் செயற்கைக்கோள், நுண்ணீர்ப்பு விசைச் சூழலில் எவ்வளவு நேரம் இருந்தபின் ராக்கெட்டிலிருந்து பிரிந்தது?",
+        "options": [
+          "240 நிமிடங்கள்",
+          "64 நிமிடங்கள்",
+          "125 நிமிடங்கள்",
+          "22 நிமிடங்கள்"
+        ],
+        "explanation": "நாசாவின் ஒலிச்சுற்று ராக்கெட்டின் மொத்தப் பயண நேரம் 240 நிமிடங்கள்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 118,
+      "quote": "Sharook's project, the first to be manufactured via 3D printing, got selected through a competition, 'Cubes in Space'",
+      "answer": "C",
+      "en": {
+        "q": "Kalamsat was the first satellite to be manufactured via",
+        "options": [
+          "vacuum casting",
+          "hand riveting",
+          "3D printing",
+          "laser welding"
+        ],
+        "explanation": "It was selected through the 'Cubes in Space' competition sponsored by NASA and 'I Doodle Learning'."
+      },
+      "ta": {
+        "q": "கலாம்சாட் எந்தத் தொழில்நுட்பத்தால் உருவாக்கப்பட்ட முதல் செயற்கைக்கோள்?",
+        "options": [
+          "வெற்றிட வார்ப்பு",
+          "கையால் ஆணி அடித்தல்",
+          "முப்பரிமாண அச்சிடல்",
+          "லேசர் கதிர் பற்றவைப்பு முறை"
+        ],
+        "explanation": "நாசா, 'ஐ டூடுல் லேர்னிங்' நடத்திய 'கியூப்ஸ் இன் ஸ்பேஸ்' போட்டியில் இது தேர்வானது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 119,
+      "quote": "High-resolution satellite cameras located at altitudes of several hundred kilometres can record details as small as a few metres on the surface of the Earth.",
+      "answer": "A",
+      "en": {
+        "q": "High-resolution satellite cameras at altitudes of several hundred kilometres can record details on the Earth's surface as small as",
+        "options": [
+          "a few metres",
+          "a few kilometres",
+          "a few millimetres",
+          "a few hundred kilometres"
+        ],
+        "explanation": "Such images help cartographers in extensive surveys of urban and rural development, mountains and deserts."
+      },
+      "ta": {
+        "q": "பல நூறு கி.மீ உயரத்திலுள்ள உயர்பிரிதிறன் செயற்கைக்கோள் படக்கருவிகள் புவிப்பரப்பில் எவ்வளவு சிறிய விவரங்களைப் பதிவு செய்யும்?",
+        "options": [
+          "சில மீட்டர்கள்",
+          "சில கிலோமீட்டர்கள்",
+          "சில மில்லிமீட்டர்கள்",
+          "சில நூறு கிலோமீட்டர்கள்"
+        ],
+        "explanation": "இது நகர, கிராம வளர்ச்சி, மலைகள், பாலைவனங்கள் குறித்த விரிவான ஆய்வுகளுக்கு வரைபடவியலாளர்களுக்கு உதவுகிறது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 119,
+      "quote": "DART II Deep Ocean Assessment and Reporting Tsunamis",
+      "answer": "A",
+      "en": {
+        "q": "DART II, shown in the lesson with a tsunameter and surface buoy, stands for",
+        "options": [
+          "Deep Ocean Assessment and Reporting of Tsunamis",
+          "Digital Atmospheric Radar Tracking",
+          "Dynamic Aerial Remote Telemetry",
+          "Deep Ancient Rock Testing"
+        ],
+        "explanation": "It is part of tsunami warning in oceanography applications."
+      },
+      "ta": {
+        "q": "சுனாமிமானி, மிதவையுடன் பாடத்தில் காட்டப்படும் DART II என்பதன் விரிவாக்கம்",
+        "options": [
+          "ஆழ்கடல் சுனாமி மதிப்பீடு மற்றும் அறிவிப்பு (Deep Ocean Assessment and Reporting of Tsunamis)",
+          "இலக்க வளிமண்டல ராடார் கண்காணிப்பு (Digital Atmospheric Radar Tracking)",
+          "இயங்கு வான்வழித் தொலையளவீடு",
+          "ஆழ்ந்த பழம்பாறை சோதனை"
+        ],
+        "explanation": "இது கடலியல் பயன்பாடுகளில் சுனாமி எச்சரிக்கை அமைப்பின் பகுதி."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 119,
+      "quote": "Superimposition of any two digital maps which are on two different scales is feasible.",
+      "answer": "C",
+      "en": {
+        "q": "In urban planning, digitization of base maps makes it feasible to",
+        "options": [
+          "print maps only on one fixed scale for all regions",
+          "stop updating maps",
+          "superimpose two digital maps drawn on different scales",
+          "avoid using socio-economic data"
+        ],
+        "explanation": "GIS links physical (spatial) data with socio-economic data and helps update base maps when land development changes."
+      },
+      "ta": {
+        "q": "நகரத் திட்டமிடலில் அடிப்படை வரைபடங்களை இலக்கமயமாக்குவதால் சாத்தியமாவது",
+        "options": [
+          "எல்லாப் பகுதிகளுக்கும் ஒரே நிலையான அளவுகோலில் மட்டும் வரைபடம் அச்சிடுதல்",
+          "வரைபடங்களைப் புதுப்பிப்பதை நிறுத்துதல்",
+          "வெவ்வேறு அளவுகோல்களிலுள்ள இரு இலக்க வரைபடங்களை ஒன்றின்மேல் ஒன்று பொருத்துதல்",
+          "சமூக-பொருளாதாரத் தரவுகளைத் தவிர்த்தல்"
+        ],
+        "explanation": "GIS இடஞ்சார் தரவுகளை சமூக-பொருளாதாரத் தரவுகளுடன் இணைத்து, நிலவளர்ச்சி மாறும்போது வரைபடங்களைப் புதுப்பிக்க உதவுகிறது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 120,
+      "quote": "the art, science and technology dealing with the acquisition, storage, processing, production, presentation and dissemination of the earth's information is called the Geoinformatics.",
+      "answer": "C",
+      "en": {
+        "q": "The art, science and technology dealing with the acquisition, storage, processing, production, presentation and dissemination of the earth's information is called",
+        "options": [
+          "Cartography",
+          "Demography",
+          "Geoinformatics",
+          "Seismology"
+        ],
+        "explanation": "While GIS deals with the entire geography of the earth including land, ocean and atmosphere, geoinformatics is its wider technology."
+      },
+      "ta": {
+        "q": "புவியின் தகவல்களைப் பெறுதல், சேமித்தல், செயலாக்குதல், உருவாக்குதல், வழங்குதல், பரப்புதல் ஆகியவற்றைக் கையாளும் கலை, அறிவியல், தொழில்நுட்பம் எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "வரைபடவியல் (Cartography)",
+          "மக்கள்தொகையியல் (Demography)",
+          "புவித்தகவலியல் (Geoinformatics)",
+          "நிலநடுக்கவியல் (Seismology)"
+        ],
+        "explanation": "GIS நிலம், கடல், வளிமண்டலம் உள்ளிட்ட முழுப் புவியியலைக் கையாள்கிறது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 121,
+      "quote": "It uses RDBMS (Relational Database Management System) to store the data.",
+      "answer": "B",
+      "en": {
+        "q": "GIS software uses which system to store data?",
+        "options": [
+          "Global Positioning System (GPS) receiver",
+          "Relational Database Management System (RDBMS)",
+          "Digital Elevation Model",
+          "Remote Sensing Platform"
+        ],
+        "explanation": "ArcGIS, ArcView 3.2, QGIS and SAGA GIS are GIS software given in the lesson."
+      },
+      "ta": {
+        "q": "GIS மென்பொருள் தரவுகளைச் சேமிக்க எந்த அமைப்பைப் பயன்படுத்துகிறது?",
+        "options": [
+          "உலக இடங்காட்டி அமைப்பு (GPS) ஏற்பி",
+          "தொடர்புசார் தரவுத்தள மேலாண்மை அமைப்பு (RDBMS)",
+          "இலக்க உயர மாதிரி",
+          "தொலையுணர்வுத் தளம்"
+        ],
+        "explanation": "ArcGIS, ArcView 3.2, QGIS, SAGA GIS ஆகியன பாடத்தில் தரப்பட்ட GIS மென்பொருட்கள்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 122,
+      "quote": "Meta data i.e., (data about the data) is the key for documenting these processes.",
+      "answer": "A",
+      "en": {
+        "q": "Metadata in GIS means",
+        "options": [
+          "data about the data",
+          "data captured only by satellites",
+          "data stored only on paper maps",
+          "data about the weather"
+        ],
+        "explanation": "Metadata is the key for documenting the methods or procedures used in GIS."
+      },
+      "ta": {
+        "q": "GIS-இல் மீத்தரவு (Metadata) என்பது",
+        "options": [
+          "தரவைப் பற்றிய தரவு",
+          "செயற்கைக்கோள்களால் மட்டும் பெறப்படும் தரவு",
+          "காகித வரைபடங்களில் மட்டும் சேமிக்கப்படும் தரவு",
+          "வானிலை பற்றிய தரவு"
+        ],
+        "explanation": "GIS-இல் பயன்படும் முறைகளை ஆவணப்படுத்த மீத்தரவு முக்கியம்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 122,
+      "quote": "There are two basic methods of digitization: Manual digitizing & scanning.",
+      "answer": "D",
+      "en": {
+        "q": "According to the lesson, the two basic methods of digitization are",
+        "options": [
+          "raster and vector",
+          "overlaying and buffering",
+          "query and analysis",
+          "manual digitizing and scanning"
+        ],
+        "explanation": "Raster and vector are the two common data models, not methods of digitization."
+      },
+      "ta": {
+        "q": "பாடத்தின்படி, இலக்கமயமாக்கலின் இரு அடிப்படை முறைகள்",
+        "options": [
+          "ராஸ்டர், வெக்டர்",
+          "மேற்பொருத்துதல், இடையகம் அமைத்தல்",
+          "வினவல், பகுப்பாய்வு செய்தல்",
+          "கைமுறை, ஸ்கேன் முறைகள்"
+        ],
+        "explanation": "ராஸ்டர், வெக்டர் ஆகியன தரவு மாதிரிகள்; இலக்கமயமாக்கல் முறைகள் அல்ல."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 122,
+      "quote": "edge matching, which allow a GIS to reconcile irregularities between map layers or adjacent map sheets called Tiles",
+      "answer": "D",
+      "en": {
+        "q": "In GIS data manipulation, edge matching allows the system to",
+        "options": [
+          "convert paper maps into digits and store them on magnetic media",
+          "overlay satellite orbits",
+          "record the depth of water",
+          "reconcile irregularities between map layers or adjacent map sheets called tiles"
+        ],
+        "explanation": "Toolkits also provide measuring area and perimeter, overlaying maps, map algebra and reclassifying map data."
+      },
+      "ta": {
+        "q": "GIS தரவுக் கையாளுதலில் விளிம்புப் பொருத்தம் (edge matching) எதற்கு உதவுகிறது?",
+        "options": [
+          "காகித வரைபடங்களை எண்களாக மாற்றி காந்த ஊடகத்தில் சேமித்துப் பின்னர் அச்சிட",
+          "செயற்கைக்கோள் சுற்றுப்பாதைகளையும் வரைபட அடுக்குகளையும் மேற்பொருத்த",
+          "நீரின் ஆழத்தையும் கடலடி நிலத்தோற்றத்தையும் பதிவு செய்ய",
+          "வரைபட அடுக்குகள், டைல்ஸ் எனப்படும் அருகிலுள்ள தாள்களுக்கிடையிலான ஒழுங்கின்மைகளைச் சீர்செய்ய"
+        ],
+        "explanation": "கருவித்தொகுப்புகள் பரப்பு, சுற்றளவு அளத்தல், வரைபட மேற்பொருத்துதல், வரைபடக் கணிதம், மறுவகைப்படுத்தல் ஆகியவற்றையும் வழங்குகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 122,
+      "quote": "GNSS can provide centimetre level accuracy with a low-cost receiver, if an error correction technique is used.",
+      "answer": "B",
+      "en": {
+        "q": "GNSS can provide centimetre level accuracy with a low-cost receiver, provided that",
+        "options": [
+          "the receiver is kept indoors",
+          "an error correction technique is used",
+          "only one satellite is used",
+          "only night-time signals are used"
+        ],
+        "explanation": "GNSS includes GPS, GLONASS, GALILEO, BEIDOU, IRNSS and QZSS."
+      },
+      "ta": {
+        "q": "குறைந்த விலை ஏற்பியுடன் GNSS சென்டிமீட்டர் அளவுத் துல்லியம் தர, தேவையானது",
+        "options": [
+          "ஏற்பி கட்டடத்துக்குள் வைக்கப்படுவது",
+          "பிழை திருத்த நுட்பம் பயன்படுத்தப்படுவது",
+          "ஒரே ஒரு செயற்கைக்கோள் பயன்படுவது",
+          "இரவு நேர சமிக்ஞைகள் மட்டும் பயன்படுவது"
+        ],
+        "explanation": "GNSS-இல் GPS, GLONASS, GALILEO, BEIDOU, IRNSS, QZSS அடங்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 123,
+      "quote": "GPS was launched in the late 1970s by the United States Department of Defence.",
+      "answer": "A",
+      "en": {
+        "q": "GPS, the first GNSS system, was launched in the late 1970s by the",
+        "options": [
+          "United States Department of Defence",
+          "European Space Agency",
+          "Indian Space Research Organisation",
+          "Russian Aerospace Defence Forces"
+        ],
+        "explanation": "It uses a constellation of 24 satellites and provides global coverage."
+      },
+      "ta": {
+        "q": "முதல் GNSS அமைப்பான GPS 1970-களின் பிற்பகுதியில் யாரால் தொடங்கப்பட்டது?",
+        "options": [
+          "அமெரிக்கப் பாதுகாப்புத் துறை",
+          "ஐரோப்பிய விண்வெளி நிறுவனம்",
+          "இந்திய விண்வெளி ஆராய்ச்சி நிறுவனம்",
+          "ரஷ்ய விண்வெளிப் பாதுகாப்புப் படைகள்"
+        ],
+        "explanation": "இது 24 செயற்கைக்கோள் தொகுப்பைக் கொண்டு உலகளாவிய கவரேஜ் தருகிறது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 123,
+      "quote": "The life style of GNSS satellites 5-7 years",
+      "answer": "A",
+      "en": {
+        "q": "According to the lesson, the life of GNSS satellites is about",
+        "options": [
+          "5 to 7 years",
+          "1 to 2 years",
+          "15 to 20 years",
+          "25 to 30 years"
+        ],
+        "explanation": "New satellites are launched after specific time intervals to fill the gap due to ageing satellites. The 5 to 7 years is the lesson's figure; current GNSS satellites are designed for about 10 to 15 years."
+      },
+      "ta": {
+        "q": "பாடத்தின்படி, GNSS செயற்கைக்கோள்களின் ஆயுட்காலம் ஏறத்தாழ",
+        "options": [
+          "5 முதல் 7 ஆண்டுகள்",
+          "1 முதல் 2 ஆண்டுகள்",
+          "15 முதல் 20 ஆண்டுகள்",
+          "25 முதல் 30 ஆண்டுகள்"
+        ],
+        "explanation": "வயதாகும் செயற்கைக்கோள்களால் ஏற்படும் இடைவெளியை நிரப்ப குறிப்பிட்ட கால இடைவெளியில் புதியவை ஏவப்படுகின்றன. 5 முதல் 7 ஆண்டுகள் என்பது பாடத்தின் எண்; தற்போதைய GNSS செயற்கைக்கோள்கள் ஏறத்தாழ 10 முதல் 15 ஆண்டுகளுக்கு வடிவமைக்கப்படுகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 124,
+      "quote": "The Beidou-3 ... is also known as the Compass Navigation Satellite System.",
+      "answer": "D",
+      "en": {
+        "q": "BeiDou-3, which uses satellites in Medium Earth Orbit and Geosynchronous Orbit, is also known as the",
+        "options": [
+          "Transit system",
+          "Michibiki quasi-zenith system",
+          "Uragan system",
+          "Compass Navigation Satellite System"
+        ],
+        "explanation": "BeiDou-1 is officially called the BeiDou Satellite Navigation Experimental System."
+      },
+      "ta": {
+        "q": "நடுத்தரப் புவிச் சுற்றுப்பாதை, புவிஒத்திசைவுச் சுற்றுப்பாதையில் செயற்கைக்கோள்களைப் பயன்படுத்தும் பெய்டூ-3 வேறு எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "டிரான்சிட் வழிசெலுத்தல் அமைப்பு",
+          "மிச்சிபிகி அரைஉச்சி அமைப்பு",
+          "உராகன் செயற்கைக்கோள் தொகுப்பு அமைப்பு",
+          "காம்பஸ் வழிசெலுத்தல் செயற்கைக்கோள் அமைப்பு"
+        ],
+        "explanation": "பெய்டூ-1 அதிகாரப்பூர்வமாக பெய்டூ செயற்கைக்கோள் வழிசெலுத்தல் சோதனை அமைப்பு எனப்படுகிறது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 124,
+      "quote": "The QZSS is sometimes called the 'Japanese GPS'.",
+      "answer": "B",
+      "en": {
+        "q": "Which regional navigation system, composed mainly of satellites in quasi-zenith orbits, is sometimes called the 'Japanese GPS'?",
+        "options": [
+          "GLONASS",
+          "QZSS",
+          "Galileo",
+          "IRNSS"
+        ],
+        "explanation": "QZSS provides service to Japan and the Asia-Oceania region; its nickname is Michibiki."
+      },
+      "ta": {
+        "q": "அரைஉச்சி (quasi-zenith) சுற்றுப்பாதையில் முக்கியமாக உள்ள செயற்கைக்கோள்களைக் கொண்டு, சில சமயம் 'ஜப்பானிய GPS' எனப்படும் பிராந்திய வழிசெலுத்தல் அமைப்பு எது?",
+        "options": [
+          "GLONASS",
+          "QZSS",
+          "கலிலியோ",
+          "IRNSS"
+        ],
+        "explanation": "QZSS ஜப்பான், ஆசியா-ஓசியானியா பகுதிகளுக்குச் சேவை வழங்குகிறது; அதன் செல்லப்பெயர் மிச்சிபிகி."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 125,
+      "quote": "Many cranes are equipped with GNSS based steering devices that determine the crane's position and keep it travelling in the desired path",
+      "answer": "B",
+      "en": {
+        "q": "In port automation, GNSS-based steering devices on cranes are used to",
+        "options": [
+          "predict earthquakes and tsunamis near the harbour and warn the port staff",
+          "determine the crane's position and keep it travelling in the desired path",
+          "print shipping tickets",
+          "survey the ocean floor"
+        ],
+        "explanation": "Shipping hubs also track the movement and placement of containers in their yards."
+      },
+      "ta": {
+        "q": "துறைமுகத் தானியக்கத்தில் கிரேன்களில் உள்ள GNSS அடிப்படையிலான வழிநடத்தும் கருவிகள் எதற்குப் பயன்படுகின்றன?",
+        "options": [
+          "துறைமுகப் பகுதியில் நிலநடுக்கங்களைக் கணித்துப் பணியாளர்களை எச்சரிக்க",
+          "கிரேனின் இருப்பிடத்தை அறிந்து, அது விரும்பிய பாதையில் செல்லச் செய்ய",
+          "கப்பல் பயணச்சீட்டுகளை அச்சிட",
+          "கடல் தளத்தை அளக்க"
+        ],
+        "explanation": "கப்பல் மையங்கள் கொள்கலன்களின் இயக்கத்தையும் இடத்தையும் கண்காணிக்கின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 126,
+      "quote": "Transponder - a device for receiving a radio signal and automatically transmitting a different signal.",
+      "answer": "A",
+      "en": {
+        "q": "A 'transponder', as defined in the glossary, is a device for",
+        "options": [
+          "receiving a radio signal and automatically transmitting a different signal",
+          "storing digital maps on tape",
+          "measuring the depth of water and the speed of currents",
+          "scanning paper maps"
+        ],
+        "explanation": "Photogrammetry is the use of photography in surveying and mapping to ascertain measurements between objects."
+      },
+      "ta": {
+        "q": "கலைச்சொல் பட்டியலின்படி, 'டிரான்ஸ்பாண்டர்' என்பது",
+        "options": [
+          "ஒரு வானொலி சமிக்ஞையைப் பெற்று தானாகவே வேறு சமிக்ஞையை அனுப்பும் கருவி",
+          "எண்ணிமவரைபடங்களை நாடாவில் சேமிக்கும் கருவி",
+          "நீரின் ஆழத்தையும் நீரோட்ட வேகத்தையும் ஒரே நேரத்தில் அளக்கும் கருவி",
+          "காகித வரைபடங்களை ஸ்கேன் செய்யும் கருவி"
+        ],
+        "explanation": "அளவீட்டுக்கும் வரைபடத்திற்கும் புகைப்படத்தைப் பயன்படுத்துவது புகைப்பட அளவையியல் (Photogrammetry)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,877 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Geography Term-Full (English)",
+  "breadcrumb": "Std 12 Geography (English) — Unit 10: Map Projection — Practice (பயிற்சி வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Non Perspective Projections: A developable surface is only assumed covering the globe and the construction of projections is done using mathematical calculations.",
+      "answer": "B",
+      "en": {
+        "q": "In non-perspective projections, the construction of the projection is done using",
+        "options": [
+          "a lamp placed at the centre of the globe",
+          "mathematical calculations, with the developable surface only assumed to cover the globe",
+          "the shadow cast from an illuminated globe",
+          "photographs taken from satellites and aircraft, which are then traced on to a sheet"
+        ],
+        "explanation": "Perspective projections are made with the shadow cast from an illuminated globe on to a developable surface."
+      },
+      "ta": {
+        "q": "பார்வை அல்லாத (Non-perspective) திட்டங்களில் வரைபடத் திட்டம் எவ்வாறு உருவாக்கப்படுகிறது?",
+        "options": [
+          "உருண்டையின் மையத்தில் வைத்த விளக்கு மூலம்",
+          "விரிக்கக்கூடிய பரப்பு உலகைச் சூழ்ந்துள்ளதாகக் கொண்டு, கணிதக் கணக்கீடுகள் மூலம்",
+          "ஒளியூட்டப்பட்ட உருண்டையின் நிழல் மூலம்",
+          "செயற்கைக்கோள், விமானப் புகைப்படங்களை வரைதாளில் தடமெடுப்பதன் மூலம்"
+        ],
+        "explanation": "பார்வைத் திட்டங்கள் ஒளியூட்டப்பட்ட உருண்டையின் நிழலை விரிக்கக்கூடிய பரப்பில் விழச்செய்து உருவாக்கப்படுகின்றன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 164,
+      "quote": "Map projections are classified on the following criteria: Method of construction, Development surface used, Projection properties, Position of light source",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following is NOT a criterion for classifying map projections, as given in the lesson?",
+        "options": [
+          "Method of construction",
+          "Size of the paper used",
+          "Developable surface used",
+          "Position of light source"
+        ],
+        "explanation": "The fourth criterion is the properties of the projection."
+      },
+      "ta": {
+        "q": "பாடத்தின்படி, வரைபடத் திட்டங்களை வகைப்படுத்தும் அடிப்படைகளுள் இடம்பெறாதது எது?",
+        "options": [
+          "வரைபடம் அமைக்கும் முறை",
+          "பயன்படுத்தப்படும் தாளின் அளவு",
+          "பயன்படும் விரிக்கத்தக்கப் பரப்பு",
+          "ஒளி மூலத்தின் நிலை"
+        ],
+        "explanation": "நான்காவது அடிப்படை திட்டத்தின் பண்புகள்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 165,
+      "quote": "The longitudes (meridians) and latitudes (parallels) appear as straight lines. Length of equator on the cylinder is equal to the length of the equator",
+      "answer": "B",
+      "en": {
+        "q": "Consider the statements. I. In a cylindrical projection, meridians and parallels appear as straight lines. II. Its equator has the same length as the equator on the globe, so it suits equatorial regions. III. In a conical projection, the parallels appear as straight lines.",
+        "options": [
+          "I and III only",
+          "I and II only",
+          "I, II and III",
+          "II and III only"
+        ],
+        "explanation": "In a conical projection the parallels appear as arcs and the meridians as straight lines converging to the same point, so III is false."
+      },
+      "ta": {
+        "q": "கூற்றுகளைக் கருதுக. I. உருளைத் திட்டத்தில் தீர்க்கக்கோடுகளும் அட்சக்கோடுகளும் நேர்க்கோடுகளாகத் தோன்றும். II. உருளையின் நிலநடுக்கோட்டு நீளம் உலகின் நிலநடுக்கோட்டு நீளத்திற்குச் சமம்; எனவே நிலநடுக்கோட்டுப் பகுதிகளுக்கு ஏற்றது. III. கூம்புத் திட்டத்தில் அட்சக்கோடுகள் நேர்க்கோடுகளாகத் தோன்றும்.",
+        "options": [
+          "I மற்றும் III மட்டும்",
+          "I மற்றும் II மட்டும்",
+          "I, II மற்றும் III",
+          "II மற்றும் III மட்டும்"
+        ],
+        "explanation": "கூம்புத் திட்டத்தில் அட்சக்கோடுகள் வில்லுகளாகவும், தீர்க்கக்கோடுகள் ஒரே புள்ளியில் சந்திக்கும் நேர்க்கோடுகளாகவும் இருக்கும்; எனவே III தவறு."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "Normal: when a cylinder has line of tangency to the equator. It includes Equirectangular Projection, the Mercator projection, Lambert's Cylindrical Equal Area, Gall's Stereographic Cylindrical, and Miller cylindrical projection.",
+      "answer": "A",
+      "en": {
+        "q": "Which of the following is a normal cylindrical projection, in which the cylinder has its line of tangency to the equator?",
+        "options": [
+          "Miller cylindrical projection",
+          "Oblique Mercator projection",
+          "Polar zenithal projection",
+          "Cassini projection"
+        ],
+        "explanation": "Cassini and Transverse Mercator are transverse cylindrical projections, and the Oblique Mercator is the only oblique cylindrical projection."
+      },
+      "ta": {
+        "q": "உருளை அதன் தொடுகோட்டை நிலநடுக்கோட்டில் கொண்ட இயல்பு (Normal) உருளைத் திட்டம் எது?",
+        "options": [
+          "மில்லர் உருளைத் திட்டம்",
+          "சாய்வு மெர்கேட்டர் திட்டம்",
+          "துருவத் தளத் திட்டம்",
+          "காசினி திட்டம்"
+        ],
+        "explanation": "காசினி, குறுக்கு மெர்கேட்டர் ஆகியன குறுக்கு உருளைத் திட்டங்கள்; சாய்வு மெர்கேட்டர் மட்டுமே சாய்வு உருளைத் திட்டம்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "Transverse: when cylinder has line of tangency to the meridian. It includes the Cassini Projection, Transverse Mercator",
+      "answer": "A",
+      "en": {
+        "q": "The Cassini projection belongs to which type of cylindrical projection, in which the cylinder has its line of tangency to a meridian?",
+        "options": [
+          "Transverse",
+          "Oblique",
+          "Polar",
+          "Normal cylindrical"
+        ],
+        "explanation": "The transverse type also includes the Transverse Mercator, transverse cylindrical equal area and modified transverse Mercator."
+      },
+      "ta": {
+        "q": "காசினி திட்டம், உருளை தொடுகோட்டை ஒரு தீர்க்கக்கோட்டில் கொண்ட எவ்வகை உருளைத் திட்டத்தைச் சேர்ந்தது?",
+        "options": [
+          "குறுக்கு (Transverse)",
+          "சாய்வு (Oblique)",
+          "துருவ (Polar)",
+          "இயல்பு (Normal)"
+        ],
+        "explanation": "குறுக்கு வகையில் குறுக்கு மெர்கேட்டர், குறுக்கு உருளைச் சம பரப்புத் திட்டம், மாற்றியமைக்கப்பட்ட குறுக்கு மெர்கேட்டர் ஆகியனவும் அடங்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 165,
+      "quote": "Oblique: when cylinder has line of tangency to another point on the globe. It only consists of the Oblique Mercator projection.",
+      "answer": "C",
+      "en": {
+        "q": "Which projection is the only one included in the oblique type of cylindrical projection?",
+        "options": [
+          "Miller cylindrical projection",
+          "Cassini projection",
+          "Oblique Mercator projection",
+          "Gall's stereographic projection"
+        ],
+        "explanation": "In the oblique type the cylinder has its line of tangency to another point on the globe."
+      },
+      "ta": {
+        "q": "சாய்வு உருளைத் திட்ட வகையில் அடங்கும் ஒரே திட்டம் எது?",
+        "options": [
+          "மில்லர் உருளைத் திட்டம்",
+          "காசினி திட்டம்",
+          "சாய்வு மெர்கேட்டர் திட்டம்",
+          "கால் ஸ்டீரியோகிராஃபிக் திட்டம்"
+        ],
+        "explanation": "சாய்வு வகையில் உருளையின் தொடுகோடு புவியின் வேறொரு புள்ளியில் அமையும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 166,
+      "quote": "After projecting the graticule on to the cone, the cone is cut along one of the meridian and unfolded.",
+      "answer": "A",
+      "en": {
+        "q": "After projecting the graticule on to the cone in a conical projection, the cone is cut along",
+        "options": [
+          "one of the meridians and unfolded",
+          "the equator and unfolded",
+          "a tropic and flattened",
+          "the prime parallel and stretched"
+        ],
+        "explanation": "Parallels then appear as arcs and meridians as straight lines converging to the same point."
+      },
+      "ta": {
+        "q": "கூம்புத் திட்டத்தில் அட்சக்கோடு-தீர்க்கக்கோட்டு வலையைக் கூம்பில் பதித்த பின் கூம்பு எதன் வழியாக வெட்டிப் பிரிக்கப்படுகிறது?",
+        "options": [
+          "ஏதேனும் ஒரு தீர்க்கக்கோட்டின் வழியாக",
+          "நிலநடுக்கோடு வழியாக",
+          "ஒரு கடகம்/மகரக் கோடு வழியாக",
+          "முதன்மை அட்சக்கோடு வழியாக"
+        ],
+        "explanation": "பின்னர் அட்சக்கோடுகள் வில்லுகளாகவும், தீர்க்கக்கோடுகள் ஒரே புள்ளியில் சந்திக்கும் நேர்க்கோடுகளாகவும் தோன்றும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 166,
+      "quote": "It can represent only one hemisphere, at a time, northern or southern hemisphere.",
+      "answer": "A",
+      "en": {
+        "q": "A conical projection can represent",
+        "options": [
+          "only one hemisphere at a time, northern or southern",
+          "both hemispheres at the same time",
+          "only the equatorial belt between the tropics",
+          "only the polar caps"
+        ],
+        "explanation": "It is suitable for representing middle latitudes."
+      },
+      "ta": {
+        "q": "கூம்புத் திட்டம் எதைக் குறிக்க முடியும்?",
+        "options": [
+          "ஒரு நேரத்தில் வடக்கு அல்லது தெற்கு ஆகிய ஓர் அரைக்கோளத்தை மட்டும்",
+          "இரு அரைக்கோளங்களையும் ஒரே நேரத்தில்",
+          "இரண்டு அரைக்கோளங்களின் நிலநடுக்கோட்டுப் பட்டையை மட்டும்",
+          "துருவப் பகுதிகளை மட்டும்"
+        ],
+        "explanation": "இது நடு அட்சப் பகுதிகளைக் குறிக்க ஏற்றது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 167,
+      "quote": "Oblique zenithal: when the plane is tangent to a point between a pole and the equator.",
+      "answer": "D",
+      "en": {
+        "q": "In an oblique zenithal projection, the plane is tangent to",
+        "options": [
+          "the Tropic of Cancer only",
+          "a point on the equator or on the Tropic of Cancer",
+          "one of the poles",
+          "a point between a pole and the equator"
+        ],
+        "explanation": "In the equatorial zenithal the plane touches the equator; in the polar zenithal it touches one of the poles."
+      },
+      "ta": {
+        "q": "சாய்வுத் தளத் (Oblique zenithal) திட்டத்தில் தளம் தொடும் இடம்",
+        "options": [
+          "கடகரேகை மட்டும்",
+          "நிலநடுக்கோட்டிலோ கடகரேகையிலோ உள்ள ஒரு புள்ளி",
+          "ஒரு துருவம்",
+          "ஒரு துருவத்திற்கும் நிலநடுக்கோட்டிற்கும் இடையிலான ஒரு புள்ளி"
+        ],
+        "explanation": "நிலநடுக்கோட்டுத் தளத் திட்டத்தில் தளம் நிலநடுக்கோட்டையும், துருவத் தளத் திட்டத்தில் ஒரு துருவத்தையும் தொடும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 167,
+      "quote": "Equal area projection: It is also known as homolographic projections.",
+      "answer": "C",
+      "en": {
+        "q": "Equal area projections are also known as",
+        "options": [
+          "gnomonic projections",
+          "orthomorphic projections",
+          "homolographic projections",
+          "equidistant projections"
+        ],
+        "explanation": "Orthomorphic projections are the true shape projections."
+      },
+      "ta": {
+        "q": "சம பரப்புத் திட்டங்கள் வேறு எவ்வாறு அழைக்கப்படுகின்றன?",
+        "options": [
+          "நோமோனிக் திட்டங்கள்",
+          "ஆர்தோமார்ஃபிக் திட்டங்கள்",
+          "ஹோமோலோகிராஃபிக் திட்டங்கள்",
+          "சம தொலைவுத் திட்டங்கள்"
+        ],
+        "explanation": "ஆர்தோமார்ஃபிக் திட்டங்கள் உண்மை வடிவத் திட்டங்கள்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 167,
+      "quote": "Stereographic Projection: when the source of light is placed at the periphery of the globe, diametrically opposite to the point at which developable surface touches the globe.",
+      "answer": "B",
+      "en": {
+        "q": "In a stereographic projection, the source of light is placed",
+        "options": [
+          "at the centre of the globe, where the developable surface is assumed to touch it",
+          "at the periphery of the globe, diametrically opposite to the point where the developable surface touches it",
+          "at infinity from the globe, opposite to the point at which the surface touches it",
+          "at the point where the surface touches the globe"
+        ],
+        "explanation": "In the orthographic projection the source of light is at infinity, and in the gnomonic projection at the centre."
+      },
+      "ta": {
+        "q": "ஸ்டீரியோகிராஃபிக் திட்டத்தில் ஒளி மூலம் வைக்கப்படும் இடம்",
+        "options": [
+          "உருண்டையின் மையத்தில், விரிக்கத்தக்கப் பரப்பு தொடுவதாகக் கொள்ளும் இடத்தில்",
+          "உருண்டையின் விளிம்பில், விரிக்கத்தக்கப் பரப்பு தொடும் புள்ளிக்கு நேரெதிராக",
+          "உருண்டையிலிருந்து முடிவிலித் தொலைவில், பரப்பு தொடும் புள்ளிக்கு எதிர்ப்புறத்தில்",
+          "பரப்பு உருண்டையைத் தொடும் புள்ளியில்"
+        ],
+        "explanation": "ஆர்த்தோகிராஃபிக் திட்டத்தில் ஒளி மூலம் முடிவிலித் தொலைவிலும், நோமோனிக் திட்டத்தில் மையத்திலும் இருக்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 167,
+      "quote": "Orthographic Projection: when the source of light is placed at infinity from the globe opposite to the point at which developable surface touches the globe.",
+      "answer": "A",
+      "en": {
+        "q": "Which projection is obtained when the source of light is placed at infinity from the globe, opposite to the point at which the developable surface touches it?",
+        "options": [
+          "Orthographic projection",
+          "Stereographic projection",
+          "Gnomonic projection",
+          "Cassini projection"
+        ],
+        "explanation": "The three projections based on position of light source are gnomonic, stereographic and orthographic."
+      },
+      "ta": {
+        "q": "ஒளி மூலம் உருண்டையிலிருந்து முடிவிலித் தொலைவில், விரிக்கத்தக்கப் பரப்பு தொடும் புள்ளிக்கு எதிராக வைக்கப்படும்போது கிடைக்கும் திட்டம்",
+        "options": [
+          "ஆர்த்தோகிராஃபிக் திட்டம்",
+          "ஸ்டீரியோகிராஃபிக் திட்டம்",
+          "நோமோனிக் திட்டம்",
+          "காசினி திட்டம்"
+        ],
+        "explanation": "ஒளி மூலத்தின் நிலையைப் பொறுத்து நோமோனிக், ஸ்டீரியோகிராஃபிக், ஆர்த்தோகிராஃபிக் எனும் மூன்று திட்டங்கள் உள்ளன."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 168,
+      "quote": "The length of the equator on this projection is same as that on globe but other parallels are longer than corresponding parallels on globe.",
+      "answer": "C",
+      "en": {
+        "q": "In the cylindrical equal area projection, the other parallels (apart from the equator) are",
+        "options": [
+          "shorter than the corresponding parallels on the globe",
+          "equal to the corresponding parallels on the globe",
+          "longer than the corresponding parallels on the globe",
+          "curved arcs"
+        ],
+        "explanation": "So the scale is true along the equator but exaggerated along other parallels."
+      },
+      "ta": {
+        "q": "உருளைச் சம பரப்புத் திட்டத்தில் நிலநடுக்கோடு தவிர்த்த பிற அட்சக்கோடுகள்",
+        "options": [
+          "உலகிலுள்ள தொடர்புடைய அட்சக்கோடுகளைவிடக் குறுகியவை",
+          "உலகிலுள்ள தொடர்புடைய அட்சக்கோடுகளுக்குச் சமமானவை",
+          "உலகிலுள்ள தொடர்புடைய அட்சக்கோடுகளைவிட நீளமானவை",
+          "வளைந்த வில்கள்"
+        ],
+        "explanation": "எனவே அளவுகோல் நிலநடுக்கோட்டில் மட்டும் சரியாகவும் பிற அட்சக்கோடுகளில் மிகைப்படுத்தப்பட்டும் இருக்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 168,
+      "quote": "The length of the equator on this projection is same as that on globe but other parallels are longer than corresponding parallels on globe. So, the scale is true along the equator but is exaggerated along other parallels.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: In the cylindrical equal area projection the scale is true only along the equator.\nReason [R]: The equator has the same length as on the globe, but the other parallels are longer than the corresponding parallels on the globe.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Both are true and [R] gives the reason for the scale being true only along the equator."
+      },
+      "ta": {
+        "q": "கூற்று [A]: உருளைச் சம பரப்புத் திட்டத்தில் அளவுகோல் நிலநடுக்கோட்டில் மட்டுமே சரியாக இருக்கும்.\nகாரணம் [R]: நிலநடுக்கோட்டின் நீளம் உலகிலுள்ளதற்குச் சமம்; பிற அட்சக்கோடுகள் உலகிலுள்ளவற்றைவிட நீளமானவை.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "இரண்டும் சரி; அளவுகோல் நிலநடுக்கோட்டில் மட்டும் சரியாக இருப்பதற்கு [R] விளக்கம்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 169,
+      "quote": "Divide the line EE' into to 12 equal parts (360/30)",
+      "answer": "D",
+      "en": {
+        "q": "In constructing a cylindrical equal area projection with a 15° interval instead of 30°, the equator line is divided into how many equal parts?",
+        "options": [
+          "12",
+          "36",
+          "6",
+          "24"
+        ],
+        "explanation": "The number of parts = 360 ÷ interval = 360 ÷ 15 = 24."
+      },
+      "ta": {
+        "q": "30° இடைவெளிக்குப் பதிலாக 15° இடைவெளியில் உருளைச் சம பரப்புத் திட்டம் வரையும்போது நிலநடுக்கோடு எத்தனை சம பாகங்களாகப் பிரிக்கப்படுகிறது?",
+        "options": [
+          "12",
+          "36",
+          "6",
+          "24"
+        ],
+        "explanation": "பாகங்களின் எண்ணிக்கை = 360 ÷ இடைவெளி = 360 ÷ 15 = 24."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 171,
+      "quote": "A meridian on a globe is subtended by 180º. Since the parallels are to be drawn at an interval of 30º, divide the central meridian into 180/30 i.e. 6 parts.",
+      "answer": "B",
+      "en": {
+        "q": "In constructing a cylindrical equidistant projection with a 15° interval, the central meridian is divided into how many parts?",
+        "options": [
+          "6",
+          "12",
+          "18",
+          "24"
+        ],
+        "explanation": "Number of parts = 180 ÷ 15 = 12."
+      },
+      "ta": {
+        "q": "15° இடைவெளியில் உருளைச் சம தொலைவுத் திட்டம் வரையும்போது மையத் தீர்க்கக்கோடு எத்தனை பாகங்களாகப் பிரிக்கப்படுகிறது?",
+        "options": [
+          "6",
+          "12",
+          "18",
+          "24"
+        ],
+        "explanation": "பாகங்களின் எண்ணிக்கை = 180 ÷ 15 = 12."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 170,
+      "quote": "Meridians are straight parallel lines, equally spaced and are half as long as the equator.",
+      "answer": "D",
+      "en": {
+        "q": "In the cylindrical equidistant projection, the meridians are straight parallel lines, equally spaced and",
+        "options": [
+          "one-fourth as long as the equator",
+          "equal in length to the equator",
+          "twice as long as the equator",
+          "half as long as the equator"
+        ],
+        "explanation": "The parallels and poles are equal in length to the equator."
+      },
+      "ta": {
+        "q": "உருளைச் சம தொலைவுத் திட்டத்தில் தீர்க்கக்கோடுகள் சம இடைவெளியுடைய இணை நேர்க்கோடுகள்; அவற்றின் நீளம்",
+        "options": [
+          "நிலநடுக்கோட்டின் நீளத்தில் கால் பங்கு",
+          "நிலநடுக்கோட்டின் நீளத்திற்குச் சமம்",
+          "நிலநடுக்கோட்டின் இரு மடங்கு",
+          "நிலநடுக்கோட்டின் நீளத்தில் பாதி"
+        ],
+        "explanation": "அட்சக்கோடுகளும் துருவக் கோடுகளும் நிலநடுக்கோட்டின் நீளத்திற்குச் சமம்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 170,
+      "quote": "Since the projection is neither equal area nor orthomorphic, maps on this projection are used for general purposes only.",
+      "answer": "D",
+      "en": {
+        "q": "Maps on the cylindrical equidistant projection are used for general purposes only because the projection is",
+        "options": [
+          "both equal area and orthomorphic",
+          "a perspective projection",
+          "a conical projection",
+          "neither equal area nor orthomorphic"
+        ],
+        "explanation": "The scale is true only along the equator and not along other parallels."
+      },
+      "ta": {
+        "q": "உருளைச் சம தொலைவுத் திட்ட வரைபடங்கள் பொது நோக்கங்களுக்கு மட்டுமே பயன்படக் காரணம் இத்திட்டம்",
+        "options": [
+          "சம பரப்பும் உண்மை வடிவமும் ஒரே நேரத்தில் கொண்ட திட்டம் என்பதே",
+          "பார்வைத் திட்டம்",
+          "கூம்புத் திட்டம்",
+          "சம பரப்புத் திட்டமுமில்லை, உண்மை வடிவத் திட்டமுமில்லை என்பதே"
+        ],
+        "explanation": "அளவுகோல் நிலநடுக்கோட்டில் மட்டுமே சரியாக இருக்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 170,
+      "quote": "Parallels are straight, equally spaced lines which are perpendicular to the meridians.",
+      "answer": "D",
+      "en": {
+        "q": "Assertion [A]: In the cylindrical equidistant projection, the parallels are concentric circles.\nReason [R]: The meridians are straight parallel lines, equally spaced.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "[A] is false: the parallels are straight, equally spaced lines perpendicular to the meridians. [R] is true."
+      },
+      "ta": {
+        "q": "கூற்று [A]: உருளைச் சம தொலைவுத் திட்டத்தில் அட்சக்கோடுகள் குவிமையவட்டங்களாக உள்ளன.\nகாரணம் [R]: தீர்க்கக்கோடுகள் சம இடைவெளியுடைய இணை நேர்க்கோடுகள்.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "[A] தவறு: அட்சக்கோடுகள் தீர்க்கக்கோடுகளுக்குச் செங்குத்தான சம இடைவெளி நேர்க்கோடுகள். [R] சரி."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 172,
+      "quote": "The decrease in the scale along meridians is in the same proportion in which there is an increase in the scale along the parallels away from the centre of the projection. Thus the projection is an equal area projection.",
+      "answer": "D",
+      "en": {
+        "q": "The polar zenithal equal area projection is an equal area projection because",
+        "options": [
+          "the scale is true along all parallels and all meridians so that every area is correct",
+          "the meridians are concentric circles",
+          "it is projected from the centre of the globe",
+          "the decrease in scale along meridians is in the same proportion as the increase in scale along parallels"
+        ],
+        "explanation": "Shapes are compressed along the meridians but stretched along the parallels."
+      },
+      "ta": {
+        "q": "துருவத் தளச் சம பரப்புத் திட்டம் சம பரப்புத் திட்டமாக இருக்கக் காரணம்",
+        "options": [
+          "எல்லா அட்சக்கோடுகளிலும் தீர்க்கக்கோடுகளிலும் அளவுகோல் சரியாக இருப்பதால் அனைத்துப் பரப்புகளும் சரியாக இருப்பது",
+          "தீர்க்கக்கோடுகள் குவிமைய வட்டங்களாக இருப்பது",
+          "உலகின் மையத்திலிருந்து வரையப்படுவது",
+          "தீர்க்கக்கோடுகளில் அளவுகோல் குறையும் விகிதத்திலேயே அட்சக்கோடுகளில் அளவுகோல் அதிகரிப்பது"
+        ],
+        "explanation": "வடிவங்கள் தீர்க்கக்கோடுகளின் வழியே அழுந்தியும் அட்சக்கோடுகளின் வழியே நீண்டும் காணப்படும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 172,
+      "quote": "Used for preparing political and distribution maps of Polar Regions. It can also be used for preparing general purpose maps of large areas in Northern Hemisphere.",
+      "answer": "B",
+      "en": {
+        "q": "In the polar zenithal equal area projection, shapes are distorted away from the centre; they are",
+        "options": [
+          "compressed along the parallels and stretched along the meridians",
+          "compressed along the meridians and stretched along the parallels",
+          "stretched in every direction equally",
+          "unchanged everywhere"
+        ],
+        "explanation": "The scale along the meridians is small and along the parallels is large."
+      },
+      "ta": {
+        "q": "துருவத் தளச் சம பரப்புத் திட்டத்தில் மையத்திலிருந்து விலகும்போது வடிவங்கள்",
+        "options": [
+          "அட்சக்கோடுகளின் வழியே அழுந்தியும் தீர்க்கக்கோடுகளின் வழியே நீண்டும் திரிகின்றன",
+          "தீர்க்கக்கோடுகளின் வழியே அழுந்தியும் அட்சக்கோடுகளின் வழியே நீண்டும் திரிகின்றன",
+          "எல்லாத் திசைகளிலும் சமமாக நீள்கின்றன",
+          "எங்கும் மாறுவதில்லை"
+        ],
+        "explanation": "தீர்க்கக்கோடுகள் வழியே அளவுகோல் சிறியதாகவும் அட்சக்கோடுகள் வழியே பெரியதாகவும் இருக்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 172,
+      "quote": "Construct a Polar zenithal equal area projection for the whole globe with a reduced earth radius of 4 cm and the latitudinal and longitudinal interval 30°",
+      "answer": "A",
+      "en": {
+        "q": "In the lesson's Example 10.3, the polar zenithal equal area projection is constructed with a reduced earth radius of",
+        "options": [
+          "4 cm",
+          "3 cm",
+          "2 cm",
+          "6 cm"
+        ],
+        "explanation": "Example 10.4 (polar zenithal equidistant) uses a reduced earth radius of 3 cm, and Examples 10.1 and 10.2 use 2 cm."
+      },
+      "ta": {
+        "q": "பாடத்தின் எடுத்துக்காட்டு 10.3-இல் துருவத் தளச் சம பரப்புத் திட்டம் எவ்வளவு குறைக்கப்பட்ட புவி ஆரத்துடன் வரையப்படுகிறது?",
+        "options": [
+          "4 செ.மீ",
+          "3 செ.மீ",
+          "2 செ.மீ",
+          "6 செ.மீ"
+        ],
+        "explanation": "எடுத்துக்காட்டு 10.4 (துருவத் தளச் சம தொலைவு)-இல் 3 செ.மீ; 10.1, 10.2-இல் 2 செ.மீ பயன்படுகிறது."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 174,
+      "quote": "The scale along the parallels increases away from the centre of the projection.",
+      "answer": "D",
+      "en": {
+        "q": "In the polar zenithal equidistant projection, the scale along the parallels",
+        "options": [
+          "decreases steadily away from the centre of the projection",
+          "is true everywhere",
+          "is zero at the equator",
+          "increases away from the centre of the projection"
+        ],
+        "explanation": "The scale along the meridians is correct since the spacing between the parallels represents true distances."
+      },
+      "ta": {
+        "q": "துருவத் தளச் சம தொலைவுத் திட்டத்தில் அட்சக்கோடுகளில் அளவுகோல்",
+        "options": [
+          "மையத்திலிருந்து விலகும்போது குறையும்",
+          "எங்கும் சரியாக இருக்கும்",
+          "நிலநடுக்கோட்டில் பூஜ்ஜியமாக இருக்கும்",
+          "மையத்திலிருந்து விலகும்போது அதிகரிக்கும்"
+        ],
+        "explanation": "அட்சக்கோடுகளுக்கிடையிலான இடைவெளி உண்மைத் தொலைவைக் குறிப்பதால் தீர்க்கக்கோடுகளில் அளவுகோல் சரியாக இருக்கும்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 174,
+      "quote": "The number of intervals will be 90/30 = 3. Draw 3 concentric circles with N as centre.",
+      "answer": "B",
+      "en": {
+        "q": "In constructing a polar zenithal equidistant projection with a 15° interval, how many concentric circles (parallels) are drawn from the pole to the equator?",
+        "options": [
+          "3",
+          "6",
+          "12",
+          "9"
+        ],
+        "explanation": "The number of intervals = 90 ÷ interval = 90 ÷ 15 = 6 (the lesson's 30° example gives 90 ÷ 30 = 3)."
+      },
+      "ta": {
+        "q": "15° இடைவெளியில் துருவத் தளச் சம தொலைவுத் திட்டம் வரையும்போது துருவத்திலிருந்து நிலநடுக்கோடு வரை எத்தனை குவிமைய வட்டங்கள் வரையப்படுகின்றன?",
+        "options": [
+          "3",
+          "6",
+          "12",
+          "9"
+        ],
+        "explanation": "இடைவெளிகளின் எண்ணிக்கை = 90 ÷ 15 = 6 (பாடத்தின் 30° எடுத்துக்காட்டில் 90 ÷ 30 = 3)."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 169,
+      "quote": "Divide the line EE' into to 12 equal parts (360/30)",
+      "answer": "B",
+      "en": {
+        "q": "In constructing a cylindrical equal area projection with a 20° interval, the equator line is divided into how many equal parts?",
+        "options": [
+          "36",
+          "18",
+          "12",
+          "9"
+        ],
+        "explanation": "Number of parts = 360 ÷ 20 = 18."
+      },
+      "ta": {
+        "q": "20° இடைவெளியில் உருளைச் சம பரப்புத் திட்டம் வரையும்போது நிலநடுக்கோடு எத்தனை சம பாகங்களாகப் பிரிக்கப்படுகிறது?",
+        "options": [
+          "36",
+          "18",
+          "12",
+          "9"
+        ],
+        "explanation": "பாகங்களின் எண்ணிக்கை = 360 ÷ 20 = 18."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 169,
+      "quote": "Divide the line EE' into to 12 equal parts (360/30)",
+      "answer": "D",
+      "en": {
+        "q": "In constructing a cylindrical equal area projection with a 45° interval, the equator line is divided into",
+        "options": [
+          "4 equal parts",
+          "12 equal parts",
+          "16 equal parts",
+          "8 equal parts"
+        ],
+        "explanation": "360 ÷ 45 = 8 parts."
+      },
+      "ta": {
+        "q": "45° இடைவெளியில் உருளைச் சம பரப்புத் திட்டம் வரையும்போது நிலநடுக்கோடு பிரிக்கப்படும் சம பாகங்கள்",
+        "options": [
+          "4",
+          "12",
+          "16",
+          "8"
+        ],
+        "explanation": "360 ÷ 45 = 8 பாகங்கள்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 171,
+      "quote": "divide the central meridian into 180/30 i.e. 6 parts",
+      "answer": "B",
+      "en": {
+        "q": "In constructing a cylindrical equidistant projection with a 45° interval, the central meridian is divided into",
+        "options": [
+          "8 parts",
+          "4 parts",
+          "6 parts",
+          "2 parts"
+        ],
+        "explanation": "Number of parts = 180 ÷ 45 = 4."
+      },
+      "ta": {
+        "q": "45° இடைவெளியில் உருளைச் சம தொலைவுத் திட்டம் வரையும்போது மையத் தீர்க்கக்கோடு பிரிக்கப்படும் பாகங்கள்",
+        "options": [
+          "8",
+          "4",
+          "6",
+          "2"
+        ],
+        "explanation": "பாகங்களின் எண்ணிக்கை = 180 ÷ 45 = 4."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 174,
+      "quote": "The number of intervals will be 90/30 = 3. Draw 3 concentric circles with N as centre.",
+      "answer": "D",
+      "en": {
+        "q": "In constructing a polar zenithal equidistant projection with a 10° interval, how many concentric circles are drawn from the pole to the equator?",
+        "options": [
+          "6",
+          "3",
+          "18",
+          "9"
+        ],
+        "explanation": "The number of intervals = 90 ÷ 10 = 9."
+      },
+      "ta": {
+        "q": "10° இடைவெளியில் துருவத் தளச் சம தொலைவுத் திட்டம் வரையும்போது துருவத்திலிருந்து நிலநடுக்கோடு வரை எத்தனை குவிமைய வட்டங்கள் வரையப்படுகின்றன?",
+        "options": [
+          "6",
+          "3",
+          "18",
+          "9"
+        ],
+        "explanation": "இடைவெளிகளின் எண்ணிக்கை = 90 ÷ 10 = 9."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 172,
+      "quote": "The meridians intersect the parallels at right angles.",
+      "answer": "C",
+      "en": {
+        "q": "In the polar zenithal equal area projection, the meridians are straight lines radiating from the pole and they intersect the parallels at",
+        "options": [
+          "obtuse angles",
+          "acute angles of 45°",
+          "right angles",
+          "no fixed angle"
+        ],
+        "explanation": "The parallels are concentric circles with the pole as the centre point."
+      },
+      "ta": {
+        "q": "துருவத் தளச் சம பரப்புத் திட்டத்தில் துருவத்திலிருந்து வெளிப்படும் நேர்க்கோடுகளான தீர்க்கக்கோடுகள் அட்சக்கோடுகளை வெட்டும் கோணம்",
+        "options": [
+          "விரிகோணம்",
+          "45° குறுங்கோணம்",
+          "செங்கோணம்",
+          "நிலையான கோணம் இல்லை"
+        ],
+        "explanation": "அட்சக்கோடுகள் துருவத்தை மையமாகக் கொண்ட குவிமைய வட்டங்கள்."
+      }
+    },
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 170,
+      "quote": "Poles are straight lines equal in length to the equator.",
+      "answer": "C",
+      "en": {
+        "q": "In the cylindrical equidistant projection, the poles are represented by",
+        "options": [
+          "arcs of circles",
+          "single points",
+          "straight lines equal in length to the equator",
+          "lines half the length of the equator"
+        ],
+        "explanation": "The meridians, in contrast, are half as long as the equator."
+      },
+      "ta": {
+        "q": "உருளைச் சம தொலைவுத் திட்டத்தில் துருவங்கள் எவ்வாறு குறிக்கப்படுகின்றன?",
+        "options": [
+          "ஒன்றோடொன்று சந்திக்கும் வட்டவில்களாக",
+          "மையத்தில் சந்திக்கும் ஒற்றைப் புள்ளிகளாக",
+          "நிலநடுக்கோட்டின் நீளத்திற்குச் சமமான நேர்க்கோடுகளாக",
+          "நிலநடுக்கோட்டின் பாதி நீளக் கோடுகளாக"
+        ],
+        "explanation": "தீர்க்கக்கோடுகள் நிலநடுக்கோட்டின் நீளத்தில் பாதி."
+      }
+    }
+  ]
+}
