@@ -51,6 +51,8 @@ final class CreateTestRequest extends FormRequest
                 'daily', 'three_day', 'weekly', 'monthly', 'model',
                 'prediction', 'topic_practice', 'custom', 'diagnostic',
             ])],
+            // ('error_recovery' has its own endpoint: its questions are the
+            // student's own mistakes, not a selection from the bank.)
             'question_count' => ['required', 'integer', 'between:5,200'],
             // A topic-wise test: whole syllabus units, single topics (each
             // with its sub-topics), or both. Omitted: the whole syllabus.

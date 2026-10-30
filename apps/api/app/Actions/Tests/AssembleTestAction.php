@@ -56,7 +56,7 @@ final class AssembleTestAction
         // no way to know the other 14 exist in only one language; the counts
         // in the refusal tell them what to ask for instead. A paper in the
         // exam's pattern has already been checked part by part.
-        if ($spec->secondaryLanguageId !== null && ! isset($attributes['sections'])) {
+        if ($spec->secondaryLanguageId !== null && ! isset($attributes['sections']) && ! isset($attributes['question_ids'])) {
             $available = $this->engine->availability($spec);
 
             if ($available['both'] < max(1, $spec->questionCount)) {
@@ -178,6 +178,10 @@ final class AssembleTestAction
      */
     private function selectParts(array $attributes, SelectionSpec $spec): array
     {
+        if (isset($attributes['question_ids'])) {
+            return [$this->givenPart($attributes, $spec)];
+        }
+
         if (! isset($attributes['sections'])) {
             $selection = $this->engine->select($spec);
             $fixed = $selection['fixed_languages'];
@@ -239,6 +243,65 @@ final class AssembleTestAction
         }
 
         return $parts;
+    }
+
+    /**
+     * A paper of questions already chosen (an error-recovery test), in the
+     * order given. A question with nothing printable in the paper's language
+     * (a Part A question on an English paper) is set in its own master
+     * language, as the exam does; one with no printable text at all is left
+     * out and counted as a gap.
+     *
+     * @param  array<string, mixed>  $attributes
+     * @return array{name: ?string, asked: int, marks: float, language_id: string, secondary_language_id: ?string, fixed_language_id: ?string, fixed_languages: array<string, string>, questions: Collection<int, Question>, profile: array<string, float>, gaps: list<array<string, mixed>>}
+     */
+    private function givenPart(array $attributes, SelectionSpec $spec): array
+    {
+        $ids = array_map('strval', $attributes['question_ids']);
+        $found = Question::query()
+            ->with('translations')
+            ->whereIn('id', $ids)
+            ->where('status', 'APPROVED')
+            ->get()
+            ->keyBy(static fn (Question $q): string => strtolower((string) $q->getKey()));
+
+        $questions = collect();
+        $fixed = [];
+
+        foreach ($ids as $id) {
+            $question = $found->get(strtolower($id));
+
+            if ($question === null) {
+                continue;
+            }
+
+            if (PaperText::usableTranslation($question, $spec->languageId) === null) {
+                $master = $question->translations->firstWhere('is_master', true);
+
+                if ($master === null) {
+                    continue;
+                }
+
+                $fixed[(string) $question->getKey()] = strtolower((string) $master->language_id);
+            }
+
+            $questions->push($question);
+        }
+
+        return [
+            'name' => null,
+            'asked' => count($ids),
+            'marks' => (float) ($attributes['marks_per_question'] ?? 1),
+            'language_id' => $spec->languageId,
+            'secondary_language_id' => $spec->secondaryLanguageId,
+            'fixed_language_id' => null,
+            'fixed_languages' => $fixed,
+            'questions' => $questions,
+            'profile' => [],
+            'gaps' => count($ids) > $questions->count()
+                ? [['reason' => 'no longer approved or printable', 'missing' => count($ids) - $questions->count()]]
+                : [],
+        ];
     }
 
     /**

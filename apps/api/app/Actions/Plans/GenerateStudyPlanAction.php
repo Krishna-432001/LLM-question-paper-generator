@@ -53,6 +53,7 @@ final class GenerateStudyPlanAction
             // every topic as an even bet.
             predictionByTopic: $this->pyq->weightsFor($attributes['exam_id']),
             testConfig: $blueprint->test_config,
+            firstPassEnd: $attributes['first_pass_end'] ?? null,
         );
 
         $schedule = $this->scheduler->schedule($request);

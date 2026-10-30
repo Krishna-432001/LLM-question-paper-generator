@@ -16,6 +16,7 @@ use App\Models\StudyPlanDay;
 use App\Models\StudyPlanItem;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 /**
  * The five plan modes, one endpoint each.
@@ -182,6 +183,17 @@ final class StudyPlanController extends Controller
             'language_id' => $plan->language_id,
             'study_plan_id' => $plan->getKey(),
             'study_plan_day_id' => $day->getKey(),
+            // A question already set on one of this plan's papers is not set
+            // again: over a 70-day plan, freshness alone let a third of the
+            // mocks' questions repeat earlier daily and weekly tests. Wrong
+            // answers come back through the error-recovery test instead.
+            'exclude_question_ids' => DB::table('test_questions as tq')
+                ->join('tests as t', 't.id', '=', 'tq.test_id')
+                ->where('t.study_plan_id', $plan->getKey())
+                ->distinct()
+                ->pluck('tq.question_id')
+                ->map(static fn ($id): string => (string) $id)
+                ->all(),
         ];
         $kind = $testItem->test_kind;
         $name = match ($kind) {
@@ -230,6 +242,12 @@ final class StudyPlanController extends Controller
                 $test->delete();
                 $test = $assemble->execute($attributes);
             }
+
+            // Every unused question already set: a repeat is better than no test.
+            if ($test->status === 'failed' && $attributes['exclude_question_ids'] !== []) {
+                $test->delete();
+                $test = $assemble->execute(['exclude_question_ids' => []] + $attributes);
+            }
         }
 
         abort_if(
@@ -268,6 +286,7 @@ final class StudyPlanController extends Controller
             'exam_date' => $request->input('exam_date'),
             'hours_per_day' => $request->input('hours_per_day', 4),
             'off_days' => $request->input('off_days', []),
+            'first_pass_end' => $request->input('first_pass_end'),
         ]);
 
         return response()->json(['data' => $this->summary($plan)], 201);

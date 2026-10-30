@@ -11,6 +11,12 @@ use App\Models\Source;
 use App\Models\StudyPlanItem;
 use App\Models\TopicFrequency;
 use App\Models\User;
+use Database\Seeders\LanguageSeeder;
+use Database\Seeders\PlanBlueprintSeeder;
+use Database\Seeders\RoleSeeder;
+use Database\Seeders\TnpscBlueprintSeeder;
+use Database\Seeders\TnpscGroup4PatternSeeder;
+use Database\Seeders\TnpscGroup4Seeder;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\DB;
 use Tests\Concerns\MakesTestData;
@@ -38,12 +44,12 @@ final class ExamPrepPlanTest extends TestCase
     {
         parent::setUp();
 
-        $this->seed(\Database\Seeders\LanguageSeeder::class);
-        $this->seed(\Database\Seeders\RoleSeeder::class);
-        $this->seed(\Database\Seeders\PlanBlueprintSeeder::class);
-        $this->seed(\Database\Seeders\TnpscGroup4Seeder::class);
-        $this->seed(\Database\Seeders\TnpscBlueprintSeeder::class);
-        $this->seed(\Database\Seeders\TnpscGroup4PatternSeeder::class);
+        $this->seed(LanguageSeeder::class);
+        $this->seed(RoleSeeder::class);
+        $this->seed(PlanBlueprintSeeder::class);
+        $this->seed(TnpscGroup4Seeder::class);
+        $this->seed(TnpscBlueprintSeeder::class);
+        $this->seed(TnpscGroup4PatternSeeder::class);
 
         $this->student = $this->makeAdmin('prep-student@example.test', 'student', platformAdmin: false);
         $this->exam = TenantContext::withoutTenancy(fn (): Exam => Exam::query()->where('code', 'TNPSC_G4')->firstOrFail());
@@ -205,6 +211,46 @@ final class ExamPrepPlanTest extends TestCase
         $this->assertGreaterThan($average('General Studies'), $average('Part A'));
     }
 
+    public function test_a_chosen_first_pass_end_leaves_every_later_day_to_revision(): void
+    {
+        $start = now()->addDay();
+
+        $id = $this->actingAs($this->student)->postJson('/api/v1/study-plans/exam-prep', [
+            'exam_id' => $this->exam->getKey(),
+            'language_id' => Language::byCode('en')->getKey(),
+            'start_date' => $start->toDateString(),
+            'exam_date' => $start->copy()->addDays(70)->toDateString(),
+            'first_pass_end' => $start->copy()->addDays(39)->toDateString(),
+            'hours_per_day' => 4.5,
+        ])->assertCreated()->json('data.id');
+        $plan = $this->actingAs($this->student)->getJson("/api/v1/study-plans/{$id}")->assertOk()->json('data');
+
+        $studied = [];
+        $lastStudyDay = 0;
+
+        foreach ($plan['days'] as $day) {
+            foreach ($day['items'] as $item) {
+                if ($item['type'] === 'study') {
+                    $studied[$item['exam_topic_id']] = true;
+                    $lastStudyDay = $day['day_number'];
+                }
+            }
+        }
+
+        $leaves = TenantContext::withoutTenancy(fn (): int => DB::table('exam_topics')->where('is_leaf', true)->count());
+        $this->assertCount($leaves, $studied, 'Every topic is still covered, in the shorter first pass.');
+        $this->assertLessThanOrEqual(40, $lastStudyDay, 'No new material after the first-pass end.');
+        $this->assertGreaterThan(30, $lastStudyDay, 'The first pass uses the days it was given.');
+
+        $this->actingAs($this->student)->postJson('/api/v1/study-plans/exam-prep', [
+            'exam_id' => $this->exam->getKey(),
+            'language_id' => Language::byCode('en')->getKey(),
+            'start_date' => $start->toDateString(),
+            'exam_date' => $start->copy()->addDays(70)->toDateString(),
+            'first_pass_end' => $start->copy()->addDays(80)->toDateString(),
+        ])->assertStatus(422)->assertJsonValidationErrors('first_pass_end');
+    }
+
     public function test_mocks_are_capped_weekly_at_first_and_every_few_days_at_the_end(): void
     {
         foreach ([180 => 10, 365 => 15] as $length => $cap) {
@@ -275,6 +321,42 @@ final class ExamPrepPlanTest extends TestCase
             'exam_id' => $this->exam->getKey(),
             'language_id' => Language::byCode('en')->getKey(),
         ])->assertStatus(422);
+    }
+
+    public function test_a_question_set_on_one_of_the_plans_papers_is_not_set_again(): void
+    {
+        $plan = $this->plan(days: 70);
+        // General Studies topics: the test questions are English, and Part A
+        // topics are set in Tamil only.
+        $topics = TenantContext::withoutTenancy(fn () => DB::table('exam_topics as t')
+            ->join('exam_units as u', 'u.id', '=', 't.exam_unit_id')
+            ->join('exam_subjects as s', 's.id', '=', 'u.exam_subject_id')
+            ->where('s.name', 'like', 'General Studies%')
+            ->whereNotNull('t.canonical_topic_id')
+            ->distinct()
+            ->limit(3)
+            ->pluck('t.canonical_topic_id'));
+
+        foreach ($topics as $topic) {
+            $this->questionsOn((string) $topic, 80);
+        }
+
+        $testDays = collect($plan['days'])
+            ->filter(fn (array $d): bool => collect($d['items'])->contains(fn (array $i): bool => in_array($i['test_kind'], ['daily', 'weekly'], true)))
+            ->take(4);
+        $seen = [];
+
+        foreach ($testDays as $day) {
+            $testId = $this->actingAs($this->student)
+                ->postJson("/api/v1/study-plans/{$plan['id']}/days/{$day['id']}/test")
+                ->assertCreated()
+                ->json('data.test_id');
+            $ids = TenantContext::withoutTenancy(fn () => DB::table('test_questions')->where('test_id', $testId)->pluck('question_id')->all());
+
+            $this->assertNotEmpty($ids);
+            $this->assertSame([], array_values(array_intersect($ids, $seen)), "Day {$day['day_number']} repeats an earlier paper of the plan.");
+            $seen = [...$seen, ...$ids];
+        }
     }
 
     public function test_a_daily_test_is_drawn_from_the_topics_studied_that_day(): void

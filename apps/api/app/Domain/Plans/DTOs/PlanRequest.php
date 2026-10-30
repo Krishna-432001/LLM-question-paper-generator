@@ -21,5 +21,8 @@ final class PlanRequest
         public readonly array $masteryByTopic = [],
         public readonly array $predictionByTopic = [],
         public readonly array $testConfig = [],
+        // The last day of new material, when the student wants a longer
+        // revision stretch than the default tail; null keeps the default.
+        public readonly ?string $firstPassEnd = null,
     ) {}
 }

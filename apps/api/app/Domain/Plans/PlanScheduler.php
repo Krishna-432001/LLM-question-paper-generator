@@ -70,7 +70,7 @@ final class PlanScheduler
         }
 
         $topics = $this->prioritise($request);
-        $window = $this->studyWindow(count($studyDates));
+        $window = $this->studyWindow(count($studyDates), $studyDates, $request->firstPassEnd);
         $capacity = $this->capacityMinutes($window, $request->hoursPerDay);
 
         [$scheduled, $dropped] = $this->fitToCapacity($topics, $capacity, $request);
@@ -656,12 +656,23 @@ final class PlanScheduler
 
     /**
      * How many of the plan's days take new material: all but the revision
-     * tail. A plan of a day or two has no room for a tail.
+     * tail. A plan of a day or two has no room for a tail. A first-pass end
+     * date chosen by the student sets the window instead: every study day up
+     * to it, at least one, and never the whole plan.
+     *
+     * @param  list<CarbonImmutable>  $dates
      */
-    private function studyWindow(int $days): int
+    private function studyWindow(int $days, array $dates = [], ?string $firstPassEnd = null): int
     {
         if ($days <= 2) {
             return $days;
+        }
+
+        if ($firstPassEnd !== null) {
+            $end = CarbonImmutable::parse($firstPassEnd)->endOfDay();
+            $within = count(array_filter($dates, static fn (CarbonImmutable $d): bool => $d->lessThanOrEqualTo($end)));
+
+            return max(1, min($days - 1, $within));
         }
 
         return $days - max(1, (int) round($days * self::REVISION_TAIL));

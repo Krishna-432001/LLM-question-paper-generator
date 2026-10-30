@@ -1009,8 +1009,34 @@ export interface MasteryRow {
   attempts: number;
   correct: number;
   mastery: number;
+  /** Study band: red relearn (<50%), orange revise (50–69%), yellow mixed practice (70–84%), green maintain (85%+). */
+  band: MasteryBand;
   last_practiced_at: string | null;
   review_due: boolean;
+}
+
+export type MasteryBand = "red" | "orange" | "yellow" | "green";
+
+/** Wrong answers awaiting a retest: open, due now, and how many were got wrong more than once. */
+export interface MistakeSummary {
+  open: number;
+  due: number;
+  ever_wrong: number;
+  repeated: number;
+  repeated_rate: number | null;
+}
+
+/** One submitted full mock: its score, and each part's marks against its qualifying mark. */
+export interface MockResult {
+  attempt_id: string;
+  title: string;
+  submitted_at: string;
+  score: number;
+  max_marks: number;
+  percent: number | null;
+  accuracy: number | null;
+  attempt_rate: number | null;
+  sections: Array<{ name: string; marks: number | null; max_marks: number | null; qualifying_marks: number | null; qualified: boolean | null }>;
 }
 
 export interface Progress {
@@ -1020,6 +1046,9 @@ export interface Progress {
   weak_topics: MasteryRow[];
   strong_topics: MasteryRow[];
   review_due: number;
+  bands: Record<MasteryBand, number>;
+  mistakes: MistakeSummary;
+  mocks: MockResult[];
   mastery: MasteryRow[];
   trend: Array<{ date: string; tests: number; accuracy: number | null }>;
 }
@@ -1082,6 +1111,10 @@ export const student = {
   progress: (examId: string, days = 30) =>
     api.get<Envelope<Progress>>(`/me/progress?exam_id=${examId}&days=${days}`),
   attempt: (attemptId: string) => api.get<Envelope<OpenAttempt | AttemptResult>>(`/attempts/${attemptId}`),
+  mistakes: (examId: string) =>
+    api.get<Envelope<MistakeSummary & { by_topic: Array<{ topic: string; open: number; due: number }>; next_due_at: string | null }>>(
+      `/me/mistakes?exam_id=${examId}`,
+    ),
 };
 
 /** One part of an exam's pattern, as a refusal reports it: what it needs and what the bank has. */
@@ -1113,6 +1146,14 @@ export interface SectionScore {
 }
 
 export const testsApi = {
+  /** Only the student's own wrong answers that are due for a retest; refused (422) when fewer than 5 are due. */
+  createErrorRecovery: (payload: {
+    exam_id: string;
+    language_id: string;
+    language_mode?: LanguageMode;
+    secondary_language_id?: string;
+    question_count?: number;
+  }) => api.post<Envelope<{ id: string; title: string; question_count: number }>>("/tests/error-recovery", payload),
   /**
    * A full mock in the exam's own pattern. Refused with code
    * "exam_pattern_short" and meta.sections (PatternPartCount[]) when the bank
@@ -1179,7 +1220,16 @@ export const plansApi = {
   list: () => api.get<Envelope<PlanSummary[]>>("/study-plans"),
   create: (
     mode: PlanMode,
-    payload: { exam_id: string; language_id: string; start_date?: string; exam_date?: string; hours_per_day?: number; off_days?: number[] },
+    payload: {
+      exam_id: string;
+      language_id: string;
+      start_date?: string;
+      exam_date?: string;
+      /** Last day of new material; every day after it is revision and mocks. */
+      first_pass_end?: string;
+      hours_per_day?: number;
+      off_days?: number[];
+    },
   ) => api.post<Envelope<PlanSummary>>(`/study-plans/${mode}`, payload),
   show: (id: string) => api.get<Envelope<PlanDetail>>(`/study-plans/${id}`),
   today: (id: string) => api.get<Envelope<PlanDay | null> & { meta?: { message: string } }>(`/study-plans/${id}/today`),

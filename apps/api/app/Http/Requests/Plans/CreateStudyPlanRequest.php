@@ -25,6 +25,9 @@ final class CreateStudyPlanRequest extends FormRequest
             // fixed horizon; 5 years out is a generous sanity ceiling.
             'exam_date' => ['sometimes', 'date', 'after:start_date', 'before:+5 years'],
             'hours_per_day' => ['sometimes', 'numeric', 'between:0.5,16'],
+            // Finish new material by this date and give every day after it to
+            // revision and mocks (e.g. first pass by 10 Dec for a January exam).
+            'first_pass_end' => ['sometimes', 'nullable', 'date', 'after:start_date', 'before:exam_date'],
             'off_days' => ['sometimes', 'array', 'max:6'],
             'off_days.*' => ['integer', 'between:0,6'],
         ];

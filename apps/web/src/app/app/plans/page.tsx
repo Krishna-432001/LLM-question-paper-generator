@@ -33,6 +33,7 @@ function PlanList({ t }: { t: (key: MessageKey) => string }) {
   const [mode, setMode] = useState<PlanMode>("exam-prep");
   const [startDate, setStartDate] = useState(localToday);
   const [examDate, setExamDate] = useState("");
+  const [firstPassEnd, setFirstPassEnd] = useState("");
   const [hours, setHours] = useState("3");
   const [offDays, setOffDays] = useState<number[]>([0]);
   const [error, setError] = useState<string | null>(null);
@@ -60,6 +61,7 @@ function PlanList({ t }: { t: (key: MessageKey) => string }) {
         language_id: contentLanguageId,
         start_date: startDate || undefined,
         exam_date: examDate || undefined,
+        first_pass_end: mode === "exam-prep" && firstPassEnd ? firstPassEnd : undefined,
         hours_per_day: Number(hours) || 3,
         off_days: offDays,
       });
@@ -108,6 +110,19 @@ function PlanList({ t }: { t: (key: MessageKey) => string }) {
             </span>
             <input type="date" className={FIELD} value={examDate} onChange={(e) => setExamDate(e.target.value)} />
           </label>
+          {mode === "exam-prep" && (
+            <label className="text-sm">
+              <span className="mb-1 block text-xs text-slate-500">{t("plans.firstPassEnd")}</span>
+              <input
+                type="date"
+                className={FIELD}
+                min={startDate}
+                max={examDate || undefined}
+                value={firstPassEnd}
+                onChange={(e) => setFirstPassEnd(e.target.value)}
+              />
+            </label>
+          )}
           <label className="text-sm">
             <span className="mb-1 block text-xs text-slate-500">{t("plans.hours")}</span>
             <input className={FIELD} inputMode="decimal" value={hours} onChange={(e) => setHours(e.target.value)} />

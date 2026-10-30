@@ -189,6 +189,9 @@ Route::prefix('v1')->group(function (): void {
         Route::post('tests', [TestController::class, 'store'])->middleware('throttle:30,1');
         // A full mock in the exam's own pattern (parts, counts, marks, time).
         Route::post('tests/exam-pattern', [TestController::class, 'storeExamPattern'])->middleware('throttle:30,1');
+        // Only the student's own wrong answers that are due for a retest.
+        Route::post('tests/error-recovery', [TestController::class, 'storeErrorRecovery'])->middleware('throttle:30,1');
+        Route::get('me/mistakes', [TestController::class, 'mistakes']);
         Route::get('tests/{test}', [TestController::class, 'show']);
         Route::post('tests/{test}/attempt', [TestController::class, 'attempt']);
         Route::post('attempts/{attempt}/submit', [TestController::class, 'submit']);

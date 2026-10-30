@@ -11,6 +11,7 @@ use App\Domain\PracticePapers\PracticePaper;
 use App\Domain\Tenancy\TenantContext;
 use App\Domain\Tests\Exceptions\ExamPatternShortfall;
 use App\Domain\Tests\Exceptions\NotEnoughQuestions;
+use App\Domain\Tests\MistakeLog;
 use App\Domain\Tests\PaperText;
 use App\Domain\Translation\TranslationRequester;
 use App\Http\Controllers\Controller;
@@ -22,6 +23,7 @@ use App\Models\TestAttempt;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Validation\Rule;
 
 final class TestController extends Controller
 {
@@ -60,6 +62,88 @@ final class TestController extends Controller
         }
 
         return response()->json(['data' => $this->shape($test)], 201);
+    }
+
+    /**
+     * An error-recovery test: the student's own wrong answers that are due
+     * for a retest, the longest-waiting first. Refused when fewer than five
+     * are due — a three-question "test" is not worth a sitting.
+     */
+    public function storeErrorRecovery(Request $request, AssembleTestAction $assemble, MistakeLog $mistakes): JsonResponse
+    {
+        abort_unless($request->user()?->can('tests.create.own') || $request->user()?->can('tests.create.org'), 403);
+
+        $data = $request->validate([
+            'exam_id' => ['required', 'uuid', 'exists:exams,id'],
+            'language_id' => ['required', 'uuid', 'exists:languages,id'],
+            'language_mode' => ['sometimes', Rule::in(Test::LANGUAGE_MODES)],
+            'secondary_language_id' => ['nullable', 'required_if:language_mode,'.Test::MODE_BILINGUAL, 'uuid', 'exists:languages,id', 'different:language_id'],
+            'question_count' => ['sometimes', 'integer', 'between:5,50'],
+            // Every open mistake, not only those due: for the last days before the exam.
+            'include_not_due' => ['sometimes', 'boolean'],
+        ]);
+        $context = app(TenantContext::class);
+        $now = now();
+
+        $open = collect($mistakes->open((string) $context->userId, $data['exam_id']));
+        $due = $request->boolean('include_not_due') ? $open : $open->filter(static fn (array $m): bool => $m['due_at'] <= $now);
+        $ids = $due->take((int) ($data['question_count'] ?? 25))->pluck('question_id')->all();
+
+        if (count($ids) < 5) {
+            return response()->json([
+                'type' => 'https://api.examforge.in/problems/not-enough-questions',
+                'title' => 'Not enough mistakes due',
+                'status' => 422,
+                'detail' => sprintf(
+                    '%d of your mistakes are due for a retest now (%d open in all). An error-recovery test needs at least 5.',
+                    $due->count(),
+                    $open->count(),
+                ),
+                'meta' => ['due' => $due->count(), 'open' => $open->count()],
+            ], 422);
+        }
+
+        $test = $assemble->execute([
+            'organization_id' => $context->organizationId,
+            'user_id' => $context->userId,
+            'exam_id' => $data['exam_id'],
+            'language_id' => strtolower($data['language_id']),
+            'language_mode' => $data['language_mode'] ?? Test::MODE_SINGLE,
+            'secondary_language_id' => isset($data['secondary_language_id']) ? strtolower($data['secondary_language_id']) : null,
+            'type' => 'error_recovery',
+            'question_ids' => $ids,
+            'question_count' => count($ids),
+            'title' => 'Error recovery — '.$now->format('d M Y'),
+            // About a minute a question, as on the real paper.
+            'duration_minutes' => max(5, count($ids)),
+        ]);
+
+        return response()->json(['data' => $this->shape($test)], 201);
+    }
+
+    /** The student's open mistakes and when each is next due, for the mistakes page. */
+    public function mistakes(Request $request, MistakeLog $mistakes): JsonResponse
+    {
+        $examId = $request->filled('exam_id') ? $request->string('exam_id')->toString() : $request->user()->target_exam_id;
+        abort_if($examId === null, 422, 'Choose an exam first.');
+        $userId = (string) app(TenantContext::class)->userId;
+
+        $open = collect($mistakes->open($userId, $examId));
+        $topics = DB::table('canonical_topics')->whereIn('id', $open->pluck('canonical_topic_id')->filter()->unique())->pluck('name', 'id');
+
+        return response()->json(['data' => [
+            ...$mistakes->summary($userId, $examId),
+            'by_topic' => $open->groupBy(static fn (array $m): string => (string) $m['canonical_topic_id'])
+                ->map(static fn ($items, string $id): array => [
+                    'topic' => $topics[$id] ?? 'Other',
+                    'open' => $items->count(),
+                    'due' => $items->filter(static fn (array $m): bool => $m['due_at']->isPast())->count(),
+                ])
+                ->sortByDesc('open')
+                ->values()
+                ->all(),
+            'next_due_at' => $open->isEmpty() ? null : $open->first()['due_at']->toIso8601String(),
+        ]]);
     }
 
     /**

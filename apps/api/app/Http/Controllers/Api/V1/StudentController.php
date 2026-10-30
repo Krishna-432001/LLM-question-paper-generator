@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Http\Controllers\Api\V1;
 
 use App\Domain\Tenancy\TenantContext;
+use App\Domain\Tests\MistakeLog;
 use App\Domain\Tests\PaperText;
 use App\Http\Controllers\Controller;
 use App\Models\Exam;
@@ -227,6 +228,7 @@ final class StudentController extends Controller
                 'attempts' => (int) $m->attempts,
                 'correct' => (int) $m->correct,
                 'mastery' => round((float) $m->mastery, 4),
+                'band' => self::band((float) $m->mastery),
                 'last_practiced_at' => $m->last_practiced_at,
                 'review_due' => $m->next_review_at !== null && CarbonImmutable::parse($m->next_review_at)->isPast(),
             ]);
@@ -281,9 +283,68 @@ final class StudentController extends Controller
             'weak_topics' => $weak,
             'strong_topics' => $strong,
             'review_due' => $mastery->where('review_due', true)->count(),
+            'bands' => collect(['red', 'orange', 'yellow', 'green'])
+                ->mapWithKeys(fn (string $b): array => [$b => $mastery->where('band', $b)->count()])
+                ->all(),
+            'mistakes' => app(MistakeLog::class)->summary((string) $userId, $examId),
+            'mocks' => $this->mocks((string) $userId, $examId),
             'mastery' => $mastery->values(),
             'trend' => $trend,
         ]]);
+    }
+
+    /**
+     * A study band for a topic's mastery: red relearn (< 50%), orange revise
+     * and practise (50–69%), yellow mixed questions and spaced revision
+     * (70–84%), green maintain (85%+). Study-management thresholds, not
+     * TNPSC's pass marks.
+     */
+    public static function band(float $mastery): string
+    {
+        return match (true) {
+            $mastery < 0.50 => 'red',
+            $mastery < 0.70 => 'orange',
+            $mastery < 0.85 => 'yellow',
+            default => 'green',
+        };
+    }
+
+    /**
+     * Every submitted full mock (model and prediction papers), oldest first:
+     * the score as a share of the paper, and each part's marks with its
+     * qualifying mark where the part has one (General Tamil).
+     *
+     * @return list<array<string, mixed>>
+     */
+    private function mocks(string $userId, string $examId): array
+    {
+        return DB::table('test_attempts as a')
+            ->join('test_results as r', 'r.test_attempt_id', '=', 'a.id')
+            ->join('tests as t', 't.id', '=', 'a.test_id')
+            ->where('a.user_id', $userId)
+            ->where('t.exam_id', $examId)
+            ->whereIn('t.type', ['model', 'prediction'])
+            ->orderBy('a.submitted_at')
+            ->limit(60)
+            ->get(['a.id', 't.title', 'a.submitted_at', 'r.final_score', 'r.correct', 'r.attempted', 'r.total_questions', 't.total_marks', 'r.section_breakdown'])
+            ->map(fn ($r): array => [
+                'attempt_id' => $r->id,
+                'title' => $r->title,
+                'submitted_at' => CarbonImmutable::parse($r->submitted_at)->toIso8601String(),
+                'score' => (float) $r->final_score,
+                'max_marks' => (float) $r->total_marks,
+                'percent' => (float) $r->total_marks > 0 ? round((float) $r->final_score / (float) $r->total_marks * 100, 1) : null,
+                'accuracy' => (int) $r->attempted > 0 ? round((int) $r->correct / (int) $r->attempted * 100, 1) : null,
+                'attempt_rate' => (int) $r->total_questions > 0 ? round((int) $r->attempted / (int) $r->total_questions * 100, 1) : null,
+                'sections' => array_map(static fn (array $s): array => [
+                    'name' => $s['name'] ?? '',
+                    'marks' => $s['marks'] ?? null,
+                    'max_marks' => $s['max_marks'] ?? null,
+                    'qualifying_marks' => $s['qualifying_marks'] ?? null,
+                    'qualified' => $s['qualified'] ?? null,
+                ], json_decode((string) ($r->section_breakdown ?? '[]'), true) ?: []),
+            ])
+            ->all();
     }
 
     /**

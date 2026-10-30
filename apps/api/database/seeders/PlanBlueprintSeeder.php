@@ -69,11 +69,13 @@ final class PlanBlueprintSeeder extends Seeder
             'mode' => 'exam_prep', 'name' => 'Exam Preparation Plan', 'horizon_days' => 0,
             'structure' => ['to_exam' => true],
             'test_config' => [
-                'daily_questions' => 15, 'daily_minutes' => 12,
+                // Sized for a candidate in the last months before the exam,
+                // at the real paper's pace (200 questions in 180 minutes).
+                'daily_questions' => 50, 'daily_minutes' => 45,
                 'cycles' => [
                     // Checked in this order: a day that is both closes the month.
-                    ['every' => 30, 'kind' => 'monthly', 'name' => 'Monthly test', 'questions' => 100, 'minutes' => 90],
-                    ['every' => 7, 'kind' => 'weekly', 'name' => 'Weekly test', 'questions' => 75, 'minutes' => 60],
+                    ['every' => 30, 'kind' => 'monthly', 'name' => 'Monthly test', 'questions' => 200, 'minutes' => 180],
+                    ['every' => 7, 'kind' => 'weekly', 'name' => 'Weekly test', 'questions' => 150, 'minutes' => 135],
                 ],
                 'mock_every' => 3,
                 'mock_name' => 'Full mock test',
