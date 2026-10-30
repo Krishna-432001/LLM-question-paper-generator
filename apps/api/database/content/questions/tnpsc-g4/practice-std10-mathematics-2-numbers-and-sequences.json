@@ -1,0 +1,1457 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 10 Mathematics Term-Full (English)",
+  "breadcrumb": "Std 10 Mathematics (English) — Chapter 2: Numbers and Sequences — Practice (பயிற்சி வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 41,
+      "quote": "Euclid's division algorithm: repeat the lemma until the remainder is zero; the last divisor is the HCF.",
+      "answer": "A",
+      "en": {
+        "q": "Using Euclid's division algorithm, the HCF of 4,560 and 2,640 is",
+        "options": [
+          "240",
+          "1,920",
+          "480",
+          "720"
+        ],
+        "explanation": "4560 = 2640 × 1 + 1920; 2640 = 1920 × 1 + 720; 1920 = 720 × 2 + 480; 720 = 480 × 1 + 240; 480 = 240 × 2 + 0. The last divisor is 240, so HCF = 240."
+      },
+      "ta": {
+        "q": "யூக்ளிடின் வகுத்தல் வழிமுறையால் 4,560, 2,640 ஆகியவற்றின் மீப்பெரு பொது வகுத்தி (HCF)",
+        "options": [
+          "240",
+          "1,920",
+          "480",
+          "720"
+        ],
+        "explanation": "4560 = 2640 × 1 + 1920; 2640 = 1920 × 1 + 720; 1920 = 720 × 2 + 480; 720 = 480 × 1 + 240; 480 = 240 × 2 + 0. கடைசி வகுத்தி 240; எனவே HCF = 240."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 42,
+      "quote": "HCF of three numbers: find HCF of a, b = d; then HCF of d and c.",
+      "answer": "C",
+      "en": {
+        "q": "The HCF of 396, 504 and 636 is",
+        "options": [
+          "24",
+          "36",
+          "12",
+          "60"
+        ],
+        "explanation": "HCF(396, 504) = 36; HCF(36, 636) = 12."
+      },
+      "ta": {
+        "q": "396, 504, 636 ஆகிய மூன்று எண்களின் மீப்பெரு பொது வகுத்தி",
+        "options": [
+          "24",
+          "36",
+          "12",
+          "60"
+        ],
+        "explanation": "HCF(396, 504) = 36; HCF(36, 636) = 12."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 41,
+      "quote": "Euclid's division algorithm — greatest number dividing given numbers with given remainders.",
+      "answer": "D",
+      "en": {
+        "q": "What is the greatest number that divides 445, 572 and 699 leaving remainders 4, 5 and 6 respectively?",
+        "options": [
+          "69",
+          "1",
+          "126",
+          "63"
+        ],
+        "explanation": "Required number = HCF(441, 567, 693) = 63."
+      },
+      "ta": {
+        "q": "445, 572, 699 ஆகியவற்றை வகுக்கும்போது முறையே 4, 5, 6 மீதிகளைத் தரும் மிகப்பெரிய எண் எது?",
+        "options": [
+          "69",
+          "1",
+          "126",
+          "63"
+        ],
+        "explanation": "தேவையான எண் = HCF(441, 567, 693) = 63."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 46,
+      "quote": "Smallest number leaving the same remainder in each case = LCM + remainder.",
+      "answer": "B",
+      "en": {
+        "q": "The smallest number which leaves remainder 5 when divided by 12, 16 and 20 is",
+        "options": [
+          "235",
+          "245",
+          "240",
+          "485"
+        ],
+        "explanation": "LCM(12, 16, 20) = 240; required number = 240 + 5 = 245."
+      },
+      "ta": {
+        "q": "12, 16, 20 ஆல் வகுத்தால் ஒவ்வொன்றிலும் மீதி 5 வரும் மிகச்சிறிய எண்",
+        "options": [
+          "235",
+          "245",
+          "240",
+          "485"
+        ],
+        "explanation": "மீ.பொ.ம(12, 16, 20) = 240; தேவையான எண் = 240 + 5 = 245."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 46,
+      "quote": "Greatest number of n digits exactly divisible by given numbers uses their LCM.",
+      "answer": "D",
+      "en": {
+        "q": "The greatest 6-digit number exactly divisible by 24, 15 and 36 is",
+        "options": [
+          "9,99,719",
+          "9,99,360",
+          "9,99,999",
+          "9,99,720"
+        ],
+        "explanation": "LCM = 360; 9,99,999 ÷ 360 leaves remainder 279; 9,99,999 − 279 = 9,99,720."
+      },
+      "ta": {
+        "q": "24, 15, 36 ஆல் மீதியின்றி வகுபடும் மிகப்பெரிய 6 இலக்க எண்",
+        "options": [
+          "9,99,719",
+          "9,99,360",
+          "9,99,999",
+          "9,99,720"
+        ],
+        "explanation": "மீ.பொ.ம = 360; 9,99,999 ஐ 360 ஆல் வகுக்க மீதி 279; 9,99,999 − 279 = 9,99,720."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 42,
+      "quote": "Product of two numbers = HCF × LCM.",
+      "answer": "D",
+      "en": {
+        "q": "The HCF and LCM of two numbers are 12 and 252. If one number is 36, the other is",
+        "options": [
+          "216",
+          "168",
+          "96",
+          "84"
+        ],
+        "explanation": "Other number = (12 × 252) ÷ 36 = 84."
+      },
+      "ta": {
+        "q": "இரு எண்களின் மீ.பெ.பொ.வ, மீ.பொ.ம முறையே 12, 252. ஒரு எண் 36 எனில் மற்றொரு எண்",
+        "options": [
+          "216",
+          "168",
+          "96",
+          "84"
+        ],
+        "explanation": "மற்றொரு எண் = (12 × 252) ÷ 36 = 84."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 46,
+      "quote": "LCM of the given times gives when events coincide.",
+      "answer": "C",
+      "en": {
+        "q": "Three bells ring at intervals of 18, 24 and 36 minutes. If they ring together at 9:00 a.m., they next ring together at",
+        "options": [
+          "11:24 a.m.",
+          "9:36 a.m.",
+          "10:12 a.m.",
+          "9:06 a.m."
+        ],
+        "explanation": "LCM(18, 24, 36) = 72 minutes = 1 h 12 min; 9:00 + 1:12 = 10:12 a.m."
+      },
+      "ta": {
+        "q": "மூன்று மணிகள் முறையே 18, 24, 36 நிமிட இடைவெளியில் ஒலிக்கின்றன. காலை 9:00 மணிக்கு மூன்றும் சேர்ந்து ஒலித்தால், அடுத்து சேர்ந்து ஒலிக்கும் நேரம்",
+        "options": [
+          "காலை 11:24",
+          "காலை 9:36",
+          "காலை 10:12",
+          "காலை 9:06"
+        ],
+        "explanation": "மீ.பொ.ம(18, 24, 36) = 72 நிமிடம் = 1 மணி 12 நிமிடம்; 9:00 + 1:12 = காலை 10:12."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 37,
+      "quote": "Euclid's Division Lemma: a = bq + r, 0 ≤ r < b.",
+      "answer": "C",
+      "en": {
+        "q": "By Euclid's division lemma, 1,000 = 23q + r with 0 ≤ r < 23. Then q + r =",
+        "options": [
+          "34",
+          "43",
+          "54",
+          "32"
+        ],
+        "explanation": "1,000 = 23 × 43 + 11, so q + r = 43 + 11 = 54."
+      },
+      "ta": {
+        "q": "யூக்ளிடின் வகுத்தல் துணைத்தேற்றப்படி 1,000 = 23q + r, 0 ≤ r < 23 எனில் q + r =",
+        "options": [
+          "34",
+          "43",
+          "54",
+          "32"
+        ],
+        "explanation": "1,000 = 23 × 43 + 11; எனவே q + r = 54."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 39,
+      "quote": "The square of an odd integer is of the form 4q + 1.",
+      "answer": "B",
+      "en": {
+        "q": "If the square of the odd number 31 is written as 4q + 1, then q =",
+        "options": [
+          "241",
+          "240",
+          "242",
+          "31"
+        ],
+        "explanation": "31² = 961 = 4 × 240 + 1, so q = 240."
+      },
+      "ta": {
+        "q": "ஒற்றை எண் 31 இன் வர்க்கத்தை 4q + 1 வடிவில் எழுதினால் q =",
+        "options": [
+          "241",
+          "240",
+          "242",
+          "31"
+        ],
+        "explanation": "31² = 961 = 4 × 240 + 1; எனவே q = 240."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 40,
+      "quote": "The cube of any positive integer is of the form 9m, 9m + 1 or 9m + 8.",
+      "answer": "C",
+      "en": {
+        "q": "The remainder when 17³ is divided by 9 is",
+        "options": [
+          "0",
+          "1",
+          "8",
+          "2"
+        ],
+        "explanation": "17³ = 4913 = 9 × 545 + 8, so the remainder is 8 (form 9m + 8)."
+      },
+      "ta": {
+        "q": "17³ ஐ 9 ஆல் வகுக்கும்போது கிடைக்கும் மீதி",
+        "options": [
+          "0",
+          "1",
+          "8",
+          "2"
+        ],
+        "explanation": "17³ = 4913 = 9 × 545 + 8; மீதி 8 (9m + 8 வடிவம்)."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 37,
+      "quote": "Positive integers leaving remainder 2 when divided by 3 are of the form 3q + 2.",
+      "answer": "C",
+      "en": {
+        "q": "How many positive integers less than 100 leave remainder 2 when divided by 3?",
+        "options": [
+          "34",
+          "32",
+          "33",
+          "31"
+        ],
+        "explanation": "They are 2, 5, 8, …, 98 = 3q + 2 for q = 0 to 32, so 33 numbers."
+      },
+      "ta": {
+        "q": "100 க்குக் குறைவான எத்தனை மிகை முழுக்கள் 3 ஆல் வகுக்க மீதி 2 தரும்?",
+        "options": [
+          "34",
+          "32",
+          "33",
+          "31"
+        ],
+        "explanation": "இவை 2, 5, 8, …, 98 = 3q + 2, q = 0 முதல் 32 வரை; எனவே 33 எண்கள்."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 44,
+      "quote": "Fundamental theorem of arithmetic — every composite number is a product of primes.",
+      "answer": "C",
+      "en": {
+        "q": "If 6,912 = 2ᵃ × 3ᵇ, then the values of a and b are",
+        "options": [
+          "a = 9, b = 2",
+          "a = 3, b = 8",
+          "a = 8, b = 3",
+          "a = 6, b = 4"
+        ],
+        "explanation": "6,912 = 2^8 × 3^3 by prime factorisation, so a = 8, b = 3."
+      },
+      "ta": {
+        "q": "6,912 = 2ᵃ × 3ᵇ எனில் a, b இன் மதிப்புகள்",
+        "options": [
+          "a = 9, b = 2",
+          "a = 3, b = 8",
+          "a = 8, b = 3",
+          "a = 6, b = 4"
+        ],
+        "explanation": "பகா காரணிப்படுத்தலில் 6,912 = 2^8 × 3^3; எனவே a = 8, b = 3."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 44,
+      "quote": "Fundamental theorem of arithmetic — every composite number is a product of primes.",
+      "answer": "B",
+      "en": {
+        "q": "If 2,592 = 2ᵃ × 3ᵇ, then the values of a and b are",
+        "options": [
+          "a = 6, b = 3",
+          "a = 5, b = 4",
+          "a = 4, b = 5",
+          "a = 3, b = 6"
+        ],
+        "explanation": "2,592 = 2^5 × 3^4 by prime factorisation, so a = 5, b = 4."
+      },
+      "ta": {
+        "q": "2,592 = 2ᵃ × 3ᵇ எனில் a, b இன் மதிப்புகள்",
+        "options": [
+          "a = 6, b = 3",
+          "a = 5, b = 4",
+          "a = 4, b = 5",
+          "a = 3, b = 6"
+        ],
+        "explanation": "பகா காரணிப்படுத்தலில் 2,592 = 2^5 × 3^4; எனவே a = 5, b = 4."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 44,
+      "quote": "Prime factorisation 360 = 2³ × 3² × 5; every divisor is a product of these primes.",
+      "answer": "B",
+      "en": {
+        "q": "The number of positive divisors of 360 is",
+        "options": [
+          "18",
+          "24",
+          "12",
+          "30"
+        ],
+        "explanation": "360 = 2³ × 3² × 5; divisors = (3 + 1)(2 + 1)(1 + 1) = 24."
+      },
+      "ta": {
+        "q": "360 இன் மிகை வகுத்திகளின் எண்ணிக்கை",
+        "options": [
+          "18",
+          "24",
+          "12",
+          "30"
+        ],
+        "explanation": "360 = 2³ × 3² × 5; வகுத்திகள் = (3 + 1)(2 + 1)(1 + 1) = 24."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 42,
+      "quote": "Two positive integers are said to be relatively prime or co-prime if their HCF is 1.",
+      "answer": "B",
+      "en": {
+        "q": "Which of the following pairs of numbers is relatively prime (co-prime)?",
+        "options": [
+          "21, 49",
+          "35, 54",
+          "36, 90",
+          "28, 63"
+        ],
+        "explanation": "HCF(35, 54) = 1; the other pairs have HCF 18, 7 and 7."
+      },
+      "ta": {
+        "q": "பின்வரும் எண் இணைகளில் சார்பகா (இணைபகா) எண்கள் எவை?",
+        "options": [
+          "21, 49",
+          "35, 54",
+          "36, 90",
+          "28, 63"
+        ],
+        "explanation": "HCF(35, 54) = 1; மற்ற இணைகளின் HCF முறையே 18, 7, 7."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 47,
+      "quote": "a ≡ b (mod n) means a − b is divisible by n.",
+      "answer": "B",
+      "en": {
+        "q": "The least positive value of x such that 67 + x ≡ 3 (mod 5) is",
+        "options": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "explanation": "67 ≡ 2 (mod 5), so x ≡ 3 − 2 = 1 (mod 5); 67 + 1 = 68 ≡ 3. Least positive x = 1."
+      },
+      "ta": {
+        "q": "67 + x ≡ 3 (mod 5) எனில் மிகச்சிறிய மிகை x இன் மதிப்பு",
+        "options": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "explanation": "67 ≡ 2 (mod 5); x ≡ 3 − 2 = 1; 68 ≡ 3. மிகச்சிறிய மிகை x = 1."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 51,
+      "quote": "Weekdays are represented by 0–6 and we work modulo 7.",
+      "answer": "A",
+      "en": {
+        "q": "Today is Tuesday. What day will it be 100 days after today?",
+        "options": [
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Wednesday"
+        ],
+        "explanation": "100 ≡ 2 (mod 7); 2 + 2 ≡ 4 (mod 7), numbering Sunday = 0. That is Thursday."
+      },
+      "ta": {
+        "q": "இன்று செவ்வாய். இன்றிலிருந்து 100 நாட்கள் கழித்து எந்தக் கிழமை?",
+        "options": [
+          "வியாழன்",
+          "வெள்ளி",
+          "சனி",
+          "புதன்"
+        ],
+        "explanation": "100 ≡ 2 (மட்டு 7); 2 + 2 ≡ 4 (மட்டு 7); ஞாயிறு = 0. அது வியாழன்."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 51,
+      "quote": "Weekdays are represented by 0–6 and we work modulo 7.",
+      "answer": "C",
+      "en": {
+        "q": "Today is Monday. What day will it be 75 days before today?",
+        "options": [
+          "Tuesday",
+          "Thursday",
+          "Wednesday",
+          "Friday"
+        ],
+        "explanation": "75 ≡ 5 (mod 7); 1 − 5 ≡ 3 (mod 7), numbering Sunday = 0. That is Wednesday."
+      },
+      "ta": {
+        "q": "இன்று திங்கள். இன்றிலிருந்து 75 நாட்கள் முன்பு எந்தக் கிழமை?",
+        "options": [
+          "செவ்வாய்",
+          "வியாழன்",
+          "புதன்",
+          "வெள்ளி"
+        ],
+        "explanation": "75 ≡ 5 (மட்டு 7); 1 − 5 ≡ 3 (மட்டு 7); ஞாயிறு = 0. அது புதன்."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 51,
+      "quote": "Clock arithmetic uses modulo 12 / 24.",
+      "answer": "D",
+      "en": {
+        "q": "The time 100 hours after 7 a.m. is (use modulo 24)",
+        "options": [
+          "3 a.m.",
+          "7 p.m.",
+          "11 p.m.",
+          "11 a.m."
+        ],
+        "explanation": "7 + 100 = 107 = 4 × 24 + 11, so 11 a.m."
+      },
+      "ta": {
+        "q": "காலை 7 மணிக்கு 100 மணி நேரம் கழித்த நேரம் (மட்டு 24 எனக் கொள்க)",
+        "options": [
+          "காலை 3",
+          "மாலை 7",
+          "இரவு 11",
+          "காலை 11"
+        ],
+        "explanation": "7 + 100 = 107 = 4 × 24 + 11; எனவே காலை 11."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 51,
+      "quote": "Clock arithmetic: subtract the hours and take the remainder modulo 24.",
+      "answer": "B",
+      "en": {
+        "q": "The time 15 hours before 11 p.m. is",
+        "options": [
+          "2 p.m.",
+          "8 a.m.",
+          "8 p.m.",
+          "10 a.m."
+        ],
+        "explanation": "11 p.m. = 23 h; 23 − 15 = 8, i.e. 8 a.m."
+      },
+      "ta": {
+        "q": "இரவு 11 மணிக்கு 15 மணி நேரம் முன்பான நேரம்",
+        "options": [
+          "பிற்பகல் 2",
+          "காலை 8",
+          "மாலை 8",
+          "காலை 10"
+        ],
+        "explanation": "இரவு 11 = 23 மணி; 23 − 15 = 8; அதாவது காலை 8."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 50,
+      "quote": "Example 2.17 — journey time worked with modulo 24.",
+      "answer": "D",
+      "en": {
+        "q": "A train leaves at 22:30 on Monday and takes 40 hours 15 minutes. It reaches at",
+        "options": [
+          "Thursday 14:45",
+          "Wednesday 02:45",
+          "Tuesday 14:45",
+          "Wednesday 14:45"
+        ],
+        "explanation": "22:30 + 40:15 = 62:45; 62 = 2 × 24 + 14, so two days later at 14:45, which is Wednesday."
+      },
+      "ta": {
+        "q": "ஒரு தொடர்வண்டி திங்கள் 22:30 மணிக்குப் புறப்பட்டு 40 மணி 15 நிமிடம் பயணிக்கிறது. அது சேரும் நேரம்",
+        "options": [
+          "வியாழன் 14:45",
+          "புதன் 02:45",
+          "செவ்வாய் 14:45",
+          "புதன் 14:45"
+        ],
+        "explanation": "22:30 + 40:15 = 62:45; 62 = 2 × 24 + 14; இரண்டு நாள் கழித்து 14:45; அது புதன்."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 52,
+      "quote": "Modular arithmetic — reduce powers using congruence.",
+      "answer": "A",
+      "en": {
+        "q": "The remainder when 2^81 is divided by 17 is",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "explanation": "Reducing powers modulo 17: 2^81 ≡ 2 (mod 17)."
+      },
+      "ta": {
+        "q": "2^81 ஐ 17 ஆல் வகுக்கக் கிடைக்கும் மீதி",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "explanation": "மட்டு 17 இல் அடுக்குகளைச் சுருக்க: 2^81 ≡ 2 (mod 17)."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 50,
+      "quote": "Solve ax ≡ b (mod n) by trying the remainders 0 to n − 1.",
+      "answer": "C",
+      "en": {
+        "q": "The least positive integer x with 4x ≡ 3 (mod 7) is",
+        "options": [
+          "1",
+          "3",
+          "6",
+          "2"
+        ],
+        "explanation": "4 × 6 = 24; 24 − 3 = 21 is divisible by 7. So x = 6."
+      },
+      "ta": {
+        "q": "4x ≡ 3 (மட்டு 7) ஐ நிறைவு செய்யும் மிகச்சிறிய மிகை முழு x",
+        "options": [
+          "1",
+          "3",
+          "6",
+          "2"
+        ],
+        "explanation": "4 × 6 = 24; 24 − 3 = 21, 7 ஆல் வகுபடும்; எனவே x = 6."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 50,
+      "quote": "Solve ax ≡ b (mod n) by trying the remainders 0 to n − 1.",
+      "answer": "B",
+      "en": {
+        "q": "The least positive integer x with 5x ≡ 4 (mod 11) is",
+        "options": [
+          "4",
+          "3",
+          "8",
+          "6"
+        ],
+        "explanation": "5 × 3 = 15; 15 − 4 = 11 is divisible by 11. So x = 3."
+      },
+      "ta": {
+        "q": "5x ≡ 4 (மட்டு 11) ஐ நிறைவு செய்யும் மிகச்சிறிய மிகை முழு x",
+        "options": [
+          "4",
+          "3",
+          "8",
+          "6"
+        ],
+        "explanation": "5 × 3 = 15; 15 − 4 = 11, 11 ஆல் வகுபடும்; எனவே x = 3."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 51,
+      "quote": "If x ≡ a (mod n) then kx + c ≡ ka + c (mod n).",
+      "answer": "D",
+      "en": {
+        "q": "If x ≡ 9 (mod 13), then 7x − 2 is congruent to which number modulo 13?",
+        "options": [
+          "11",
+          "7",
+          "5",
+          "9"
+        ],
+        "explanation": "7x − 2 ≡ 7 × 9 − 2 = 61 = 4 × 13 + 9, so it is congruent to 9."
+      },
+      "ta": {
+        "q": "x ≡ 9 (மட்டு 13) எனில் 7x − 2 என்பது மட்டு 13 இல் எந்த எண்ணுக்கு ஒத்தது?",
+        "options": [
+          "11",
+          "7",
+          "5",
+          "9"
+        ],
+        "explanation": "7x − 2 ≡ 7 × 9 − 2 = 61 = 4 × 13 + 9; எனவே 9 க்கு ஒத்தது."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 58,
+      "quote": "In general, the nth term denoted by tn can be written as tn = a + (n − 1)d.",
+      "answer": "A",
+      "en": {
+        "q": "The number of terms in the A.P. 4, 9, 14, …, 199 is",
+        "options": [
+          "40",
+          "39",
+          "41",
+          "38"
+        ],
+        "explanation": "199 = 4 + (n − 1) × 5 gives n − 1 = 39, so n = 40."
+      },
+      "ta": {
+        "q": "4, 9, 14, …, 199 என்ற கூட்டுத் தொடர்வரிசையில் உள்ள உறுப்புகளின் எண்ணிக்கை",
+        "options": [
+          "40",
+          "39",
+          "41",
+          "38"
+        ],
+        "explanation": "199 = 4 + (n − 1) × 5; n − 1 = 39; எனவே n = 40."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 58,
+      "quote": "In general, the nth term denoted by tn can be written as tn = a + (n − 1)d.",
+      "answer": "D",
+      "en": {
+        "q": "In an A.P., the 4th term is 14 and the 9th term is 29. The 20th term is",
+        "options": [
+          "57",
+          "59",
+          "65",
+          "62"
+        ],
+        "explanation": "5d = 29 − 14 = 15, so d = 3; a = 14 − 9 = 5; t20 = 5 + 19 × 3 = 62."
+      },
+      "ta": {
+        "q": "ஒரு கூட்டுத் தொடர்வரிசையில் 4 ஆம் உறுப்பு 14, 9 ஆம் உறுப்பு 29 எனில் 20 ஆம் உறுப்பு",
+        "options": [
+          "57",
+          "59",
+          "65",
+          "62"
+        ],
+        "explanation": "5d = 29 − 14 = 15; d = 3; a = 14 − 9 = 5; t20 = 5 + 19 × 3 = 62."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 63,
+      "quote": "Sn = (n/2)[2a + (n − 1)d]",
+      "answer": "B",
+      "en": {
+        "q": "The sum of the first 40 terms of the A.P. 3, 7, 11, … is",
+        "options": [
+          "3,243",
+          "3,240",
+          "6,480",
+          "3,200"
+        ],
+        "explanation": "S40 = 20[2 × 3 + 39 × 4] = 20 × 162 = 3,240."
+      },
+      "ta": {
+        "q": "3, 7, 11, … என்ற கூட்டுத் தொடர்வரிசையின் முதல் 40 உறுப்புகளின் கூட்டுத்தொகை",
+        "options": [
+          "3,243",
+          "3,240",
+          "6,480",
+          "3,200"
+        ],
+        "explanation": "S40 = 20[2 × 3 + 39 × 4] = 20 × 162 = 3,240."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 63,
+      "quote": "Sn = (n/2)[2a + (n − 1)d]",
+      "answer": "C",
+      "en": {
+        "q": "The sum of the first 25 terms of the A.P. 200, 194, 188, … is",
+        "options": [
+          "6,400",
+          "3,000",
+          "3,200",
+          "3,400"
+        ],
+        "explanation": "S25 = (25/2)[400 + 24 × (−6)] = 12.5 × 256 = 3,200."
+      },
+      "ta": {
+        "q": "200, 194, 188, … என்ற கூட்டுத் தொடர்வரிசையின் முதல் 25 உறுப்புகளின் கூட்டுத்தொகை",
+        "options": [
+          "6,400",
+          "3,000",
+          "3,200",
+          "3,400"
+        ],
+        "explanation": "S25 = (25/2)[400 + 24 × (−6)] = 12.5 × 256 = 3,200."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 69,
+      "quote": "In a G.P. tn = ar^(n−1).",
+      "answer": "A",
+      "en": {
+        "q": "The 8th term of the G.P. 5, 10, 20, … is",
+        "options": [
+          "640",
+          "1,280",
+          "320",
+          "80"
+        ],
+        "explanation": "r = 2; t8 = 5 × 2⁷ = 5 × 128 = 640."
+      },
+      "ta": {
+        "q": "5, 10, 20, … என்ற பெருக்குத் தொடர்வரிசையின் 8 ஆம் உறுப்பு",
+        "options": [
+          "640",
+          "1,280",
+          "320",
+          "80"
+        ],
+        "explanation": "r = 2; t8 = 5 × 2⁷ = 5 × 128 = 640."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 73,
+      "quote": "Sum to n terms of a G.P. Sn = a(rⁿ − 1)/(r − 1), r ≠ 1.",
+      "answer": "C",
+      "en": {
+        "q": "The sum of the first six terms of the G.P. 2, 6, 18, … is",
+        "options": [
+          "242",
+          "1,458",
+          "728",
+          "486"
+        ],
+        "explanation": "S6 = 2(3⁶ − 1)/(3 − 1) = 728."
+      },
+      "ta": {
+        "q": "2, 6, 18, … என்ற பெருக்குத் தொடர்வரிசையின் முதல் ஆறு உறுப்புகளின் கூட்டுத்தொகை",
+        "options": [
+          "242",
+          "1,458",
+          "728",
+          "486"
+        ],
+        "explanation": "S6 = 2(3⁶ − 1)/(3 − 1) = 728."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 74,
+      "quote": "S∞ = a/(1 − r), −1 < r < 1.",
+      "answer": "C",
+      "en": {
+        "q": "The sum to infinity of the G.P. 18 + 6 + 2 + … is",
+        "options": [
+          "36",
+          "24",
+          "27",
+          "9"
+        ],
+        "explanation": "a = 18, r = 1/3; S∞ = 18 ÷ (1 − 1/3) = 18 ÷ (2/3) = 27."
+      },
+      "ta": {
+        "q": "18 + 6 + 2 + … என்ற முடிவிலாப் பெருக்குத் தொடரின் கூடுதல்",
+        "options": [
+          "36",
+          "24",
+          "27",
+          "9"
+        ],
+        "explanation": "a = 18, r = 1/3; S∞ = 18 ÷ (2/3) = 27."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 77,
+      "quote": "1² + 2² + … + n² = n(n + 1)(2n + 1)/6",
+      "answer": "A",
+      "en": {
+        "q": "The value of 1² + 2² + 3² + … + 15² is",
+        "options": [
+          "1,240",
+          "120",
+          "14,400",
+          "1,215"
+        ],
+        "explanation": "15 × 16 × 31 ÷ 6 = 1,240."
+      },
+      "ta": {
+        "q": "1² + 2² + 3² + … + 15² இன் மதிப்பு",
+        "options": [
+          "1,240",
+          "120",
+          "14,400",
+          "1,215"
+        ],
+        "explanation": "15 × 16 × 31 ÷ 6 = 1,240."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 78,
+      "quote": "1³ + 2³ + … + n³ = [n(n + 1)/2]²",
+      "answer": "B",
+      "en": {
+        "q": "The value of 1³ + 2³ + 3³ + … + 12³ is",
+        "options": [
+          "78",
+          "6,084",
+          "650",
+          "1,716"
+        ],
+        "explanation": "[12 × 13 / 2]² = 78² = 6,084."
+      },
+      "ta": {
+        "q": "1³ + 2³ + 3³ + … + 12³ இன் மதிப்பு",
+        "options": [
+          "78",
+          "6,084",
+          "650",
+          "1,716"
+        ],
+        "explanation": "[12 × 13 / 2]² = 78² = 6,084."
+      }
+    },
+    {
+      "topic": "simplification-and-percentage",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 56,
+      "quote": "A man got a job whose initial monthly salary is fixed at ₹10,000 with an annual increment of ₹2000.",
+      "answer": "D",
+      "en": {
+        "q": "A job pays a monthly salary of ₹25,000 in year 1 and the monthly salary rises by ₹1,500 every year. The monthly salary in year 10 is",
+        "options": [
+          "₹39,500",
+          "₹40,000",
+          "₹36,500",
+          "₹38,500"
+        ],
+        "explanation": "t10 = 25,000 + 9 × 1,500 = 38,500."
+      },
+      "ta": {
+        "q": "ஒரு வேலையில் முதல் ஆண்டு மாதச் சம்பளம் ₹25,000; ஆண்டுதோறும் மாதச் சம்பளம் ₹1,500 உயர்கிறது. 10 ஆம் ஆண்டின் மாதச் சம்பளம்",
+        "options": [
+          "₹39,500",
+          "₹40,000",
+          "₹36,500",
+          "₹38,500"
+        ],
+        "explanation": "t10 = 25,000 + 9 × 1,500 = 38,500."
+      }
+    },
+    {
+      "topic": "simplification-and-percentage",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 72,
+      "quote": "Example 2.45 — a machine depreciates each year by 10% (a G.P.).",
+      "answer": "C",
+      "en": {
+        "q": "A machine bought for ₹5,00,000 depreciates by 10% of its previous value each year. Its value at the end of 3 years is",
+        "options": [
+          "₹4,05,000",
+          "₹3,50,000",
+          "₹3,64,500",
+          "₹3,60,000"
+        ],
+        "explanation": "Value = 5,00,000 × (90/100)³ = 5,00,000 × 0.729 = ₹3,64,500 (a G.P. with r = 0.9)."
+      },
+      "ta": {
+        "q": "₹5,00,000 மதிப்புள்ள இயந்திரத்தின் மதிப்பு ஆண்டுதோறும் முந்தைய மதிப்பில் 10% குறைகிறது. 3 ஆண்டுகளின் முடிவில் அதன் மதிப்பு",
+        "options": [
+          "₹4,05,000",
+          "₹3,50,000",
+          "₹3,64,500",
+          "₹3,60,000"
+        ],
+        "explanation": "மதிப்பு = 5,00,000 × (90/100)³ = 5,00,000 × 0.729 = ₹3,64,500 (r = 0.9 உடைய பெருக்குத் தொடர்வரிசை)."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 68,
+      "quote": "A Geometric Progression is a sequence in which each term is obtained by multiplying a fixed number to the preceding term.",
+      "answer": "D",
+      "en": {
+        "q": "Consider the following sequences.\nStatement I: 2, 6, 18, 54, … is a G.P. with common ratio 3.\nStatement II: 1, 4, 9, 16, … is an A.P.\nStatement III: The sum of the first 5 odd natural numbers is 25.\nWhich of the following is correct?",
+        "options": [
+          "II and III only",
+          "I and II only",
+          "I only",
+          "I and III only"
+        ],
+        "explanation": "Statement I is true: each term is 3 times the previous one. Statement II is false: differences 3, 5, 7 are not constant. Statement III is true: 1 + 3 + 5 + 7 + 9 = 25 = 5²."
+      },
+      "ta": {
+        "q": "பின்வரும் தொடர்வரிசைகளைக் கருதுக.\nகூற்று I: 2, 6, 18, 54, … என்பது பொது விகிதம் 3 உடைய பெருக்குத் தொடர்வரிசை.\nகூற்று II: 1, 4, 9, 16, … என்பது கூட்டுத் தொடர்வரிசை.\nகூற்று III: முதல் 5 ஒற்றை இயல் எண்களின் கூடுதல் 25.\nசரியான விடையைத் தேர்ந்தெடுக்க.",
+        "options": [
+          "II, III மட்டும்",
+          "I, II மட்டும்",
+          "I மட்டும்",
+          "I, III மட்டும்"
+        ],
+        "explanation": "கூற்று I சரி: ஒவ்வொரு உறுப்பும் முந்தையதன் 3 மடங்கு. கூற்று II தவறு: வித்தியாசங்கள் 3, 5, 7 மாறிலி அல்ல. கூற்று III சரி: 1 + 3 + 5 + 7 + 9 = 25 = 5²."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 47,
+      "quote": "a ≡ b (mod n) means a − b is divisible by n.",
+      "answer": "D",
+      "en": {
+        "q": "Consider the following statements.\nStatement I: 17 ≡ 3 (mod 7).\nStatement II: The HCF of 48 and 180 is 12.\nStatement III: 25 ≡ 4 (mod 6).\nWhich of the following is correct?",
+        "options": [
+          "I and III only",
+          "II only",
+          "I only",
+          "I and II only"
+        ],
+        "explanation": "Statement I is true: 17 − 3 = 14 is divisible by 7. Statement II is true: 48 = 12 × 4 and 180 = 12 × 15 with HCF(4, 15) = 1. Statement III is false: 25 − 4 = 21 is not divisible by 6 (25 ≡ 1)."
+      },
+      "ta": {
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக.\nகூற்று I: 17 ≡ 3 (மட்டு 7).\nகூற்று II: 48, 180 இன் மீ.பெ.பொ.வ 12.\nகூற்று III: 25 ≡ 4 (மட்டு 6).\nசரியான விடையைத் தேர்ந்தெடுக்க.",
+        "options": [
+          "I, III மட்டும்",
+          "II மட்டும்",
+          "I மட்டும்",
+          "I, II மட்டும்"
+        ],
+        "explanation": "கூற்று I சரி: 17 − 3 = 14, 7 ஆல் வகுபடும். கூற்று II சரி: 48 = 12 × 4, 180 = 12 × 15; HCF(4, 15) = 1. கூற்று III தவறு: 25 − 4 = 21, 6 ஆல் வகுபடாது (25 ≡ 1)."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 56,
+      "quote": "tn = a + (n − 1)d; a ≡ b (mod n) when n divides a − b.",
+      "answer": "C",
+      "en": {
+        "q": "Match the items with their values.\na) HCF of 12 and 18\nb) LCM of 12 and 18\nc) Least positive x with 100 ≡ x (mod 7)\nd) 5th term of the A.P. 2, 5, 8, …\n1. 14\n2. 6\n3. 2\n4. 36",
+        "options": [
+          "a-2, b-1, c-3, d-4",
+          "a-3, b-4, c-2, d-1",
+          "a-2, b-4, c-3, d-1",
+          "a-4, b-3, c-1, d-2"
+        ],
+        "explanation": "HCF of 12 and 18 – 6; LCM of 12 and 18 – 36; Least positive x with 100 ≡ x (mod 7) – 2; 5th term of the A.P. 2, 5, 8, … – 14."
+      },
+      "ta": {
+        "q": "உருப்படிகளை அவற்றின் மதிப்புகளுடன் பொருத்துக.\na) 12, 18 இன் மீ.பெ.பொ.வ\nb) 12, 18 இன் மீ.பொ.ம\nc) 100 ≡ x (மட்டு 7) எனில் மிகச்சிறிய மிகை x\nd) 2, 5, 8, … என்ற கூட்டுத் தொடர்வரிசையின் 5 ஆம் உறுப்பு\n1. 14\n2. 6\n3. 2\n4. 36",
+        "options": [
+          "a-2, b-1, c-3, d-4",
+          "a-3, b-4, c-2, d-1",
+          "a-2, b-4, c-3, d-1",
+          "a-4, b-3, c-1, d-2"
+        ],
+        "explanation": "12, 18 இன் மீ.பெ.பொ.வ – 6; 12, 18 இன் மீ.பொ.ம – 36; 100 ≡ x (மட்டு 7) எனில் மிகச்சிறிய மிகை x – 2; 2, 5, 8, … என்ற கூட்டுத் தொடர்வரிசையின் 5 ஆம் உறுப்பு – 14."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 68,
+      "quote": "A Geometric Progression is a sequence in which each term is obtained by multiplying a fixed number to the preceding term.",
+      "answer": "C",
+      "en": {
+        "q": "Assertion [A]: The sequence 2, 4, 8, 16, … is a G.P.\nReason [R]: A sequence is a G.P. if the difference between consecutive terms is constant.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Each term is twice the previous one, so [A] is true; a constant difference defines an A.P., not a G.P., so [R] is false."
+      },
+      "ta": {
+        "q": "கூற்று [A]: 2, 4, 8, 16, … ஒரு பெருக்குத் தொடர்வரிசை.\nகாரணம் [R]: அடுத்தடுத்த உறுப்புகளின் வித்தியாசம் மாறிலியாக இருந்தால் அது பெருக்குத் தொடர்வரிசை.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "ஒவ்வொரு உறுப்பும் முந்தையதன் இரு மடங்கு; [A] சரி. மாறாத வித்தியாசம் கூட்டுத் தொடர்வரிசையை வரையறுக்கும்; எனவே [R] தவறு."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 42,
+      "quote": "Euclid's division algorithm gives the HCF; the square of an odd integer is of the form 4q + 1.",
+      "answer": "A",
+      "en": {
+        "q": "Consider the following statements.\nStatement I: The HCF of 252 and 105 is 21.\nStatement II: The square of every odd integer is of the form 4q + 1.\nStatement III: For two numbers, HCF + LCM equals their product.\nWhich of the following is correct?",
+        "options": [
+          "I and II only",
+          "I only",
+          "I, II and III",
+          "III only"
+        ],
+        "explanation": "Statement I is true: 252 = 105 × 2 + 42; 105 = 42 × 2 + 21; 42 = 21 × 2 + 0. Statement II is true: (2k + 1)² = 4k(k + 1) + 1. Statement III is false: It is HCF × LCM = product; e.g. 6 × 36 = 12 × 18 but 6 + 36 = 42 ≠ 216."
+      },
+      "ta": {
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக.\nகூற்று I: 252, 105 இன் மீ.பெ.பொ.வ 21.\nகூற்று II: ஒவ்வோர் ஒற்றை முழுவின் வர்க்கமும் 4q + 1 வடிவில் இருக்கும்.\nகூற்று III: இரு எண்களுக்கு மீ.பெ.பொ.வ + மீ.பொ.ம = அவற்றின் பெருக்கற்பலன்.\nசரியான விடையைத் தேர்ந்தெடுக்க.",
+        "options": [
+          "I, II மட்டும்",
+          "I மட்டும்",
+          "I, II, III மூன்றும் சரி",
+          "III மட்டும்"
+        ],
+        "explanation": "கூற்று I சரி: 252 = 105 × 2 + 42; 105 = 42 × 2 + 21; 42 = 21 × 2 + 0. கூற்று II சரி: (2k + 1)² = 4k(k + 1) + 1. கூற்று III தவறு: மீ.பெ.பொ.வ × மீ.பொ.ம = பெருக்கற்பலன்; எ.கா. 6 × 36 = 12 × 18; 6 + 36 = 42 ≠ 216."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 47,
+      "quote": "a ≡ b (mod n) means a − b is divisible by n.",
+      "answer": "A",
+      "en": {
+        "q": "Consider the following statements.\nStatement I: 53 ≡ 4 (mod 6).\nStatement II: −3 ≡ 4 (mod 7).\nStatement III: 30 ≡ 3 (mod 9).\nWhich of the following is correct?",
+        "options": [
+          "II and III only",
+          "I, II and III",
+          "I and III only",
+          "I only"
+        ],
+        "explanation": "Statement I is false: 53 − 4 = 49 is not divisible by 6 (53 ≡ 5). Statement II is true: −3 − 4 = −7 is divisible by 7. Statement III is true: 30 − 3 = 27 is divisible by 9."
+      },
+      "ta": {
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக.\nகூற்று I: 53 ≡ 4 (மட்டு 6).\nகூற்று II: −3 ≡ 4 (மட்டு 7).\nகூற்று III: 30 ≡ 3 (மட்டு 9).\nசரியான விடையைத் தேர்ந்தெடுக்க.",
+        "options": [
+          "II, III மட்டும்",
+          "I, II, III மூன்றும் சரி",
+          "I, III மட்டும்",
+          "I மட்டும்"
+        ],
+        "explanation": "கூற்று I தவறு: 53 − 4 = 49, 6 ஆல் வகுபடாது (53 ≡ 5). கூற்று II சரி: −3 − 4 = −7, 7 ஆல் வகுபடும். கூற்று III சரி: 30 − 3 = 27, 9 ஆல் வகுபடும்."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "statement_based",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 74,
+      "quote": "S∞ = a/(1 − r), −1 < r < 1.",
+      "answer": "B",
+      "en": {
+        "q": "Consider the following statements.\nStatement I: The 5th term of the G.P. 3, 6, 12, … is 48.\nStatement II: The sum to infinity of 9 + 3 + 1 + … is 12.\nStatement III: 1 + 2 + 3 + … + 10 = 55.\nWhich of the following is correct?",
+        "options": [
+          "I, II and III",
+          "I and III only",
+          "III only",
+          "I and II only"
+        ],
+        "explanation": "Statement I is true: t5 = 3 × 2⁴ = 48. Statement II is false: S∞ = 9 ÷ (1 − 1/3) = 13.5, not 12. Statement III is true: 10 × 11 ÷ 2 = 55."
+      },
+      "ta": {
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக.\nகூற்று I: 3, 6, 12, … என்ற பெருக்குத் தொடர்வரிசையின் 5 ஆம் உறுப்பு 48.\nகூற்று II: 9 + 3 + 1 + … இன் முடிவிலிக் கூடுதல் 12.\nகூற்று III: 1 + 2 + 3 + … + 10 = 55.\nசரியான விடையைத் தேர்ந்தெடுக்க.",
+        "options": [
+          "I, II, III மூன்றும் சரி",
+          "I, III மட்டும்",
+          "III மட்டும்",
+          "I, II மட்டும்"
+        ],
+        "explanation": "கூற்று I சரி: t5 = 3 × 2⁴ = 48. கூற்று II தவறு: S∞ = 9 ÷ (1 − 1/3) = 13.5; 12 அல்ல. கூற்று III சரி: 10 × 11 ÷ 2 = 55."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 51,
+      "quote": "Weekdays and clock hours are worked modulo 7 and modulo 24.",
+      "answer": "A",
+      "en": {
+        "q": "Consider the following statements.\nStatement I: 30 days after a Monday is a Wednesday.\nStatement II: 8 hours after 9 p.m. is 6 a.m.\nStatement III: 365 days after a Friday is a Saturday (ignore leap years).\nWhich of the following is correct?",
+        "options": [
+          "I and III only",
+          "III only",
+          "I and II only",
+          "II only"
+        ],
+        "explanation": "Statement I is true: 30 ≡ 2 (mod 7); Monday + 2 = Wednesday. Statement II is false: 21 + 8 = 29 ≡ 5 (mod 24), so it is 5 a.m. Statement III is true: 365 = 52 × 7 + 1; Friday + 1 = Saturday."
+      },
+      "ta": {
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக.\nகூற்று I: ஒரு திங்கட்கிழமையிலிருந்து 30 நாட்கள் கழித்து வருவது புதன்கிழமை.\nகூற்று II: இரவு 9 மணிக்கு 8 மணி நேரம் கழித்த நேரம் காலை 6.\nகூற்று III: ஒரு வெள்ளிக்கிழமையிலிருந்து 365 நாட்கள் கழித்து வருவது சனிக்கிழமை (நெட்டாண்டைக் கருதாமல்).\nசரியான விடையைத் தேர்ந்தெடுக்க.",
+        "options": [
+          "I, III மட்டும்",
+          "III மட்டும்",
+          "I, II மட்டும்",
+          "II மட்டும்"
+        ],
+        "explanation": "கூற்று I சரி: 30 ≡ 2 (மட்டு 7); திங்கள் + 2 = புதன். கூற்று II தவறு: 21 + 8 = 29 ≡ 5 (மட்டு 24); எனவே காலை 5. கூற்று III சரி: 365 = 52 × 7 + 1; வெள்ளி + 1 = சனி."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "statement_based",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 42,
+      "quote": "Two positive integers are relatively prime if their HCF is 1.",
+      "answer": "D",
+      "en": {
+        "q": "Consider the following statements.\nStatement I: The HCF of two consecutive positive integers is 1.\nStatement II: The LCM of two co-prime numbers is their product.\nStatement III: The HCF of two numbers can be larger than the smaller number.\nWhich of the following is correct?",
+        "options": [
+          "III only",
+          "I only",
+          "I and III only",
+          "I and II only"
+        ],
+        "explanation": "Statement I is true: e.g. HCF(17, 18) = 1. Statement II is true: LCM(7, 9) = 63 = 7 × 9. Statement III is false: The HCF divides both, so it cannot exceed the smaller number."
+      },
+      "ta": {
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக.\nகூற்று I: அடுத்தடுத்த இரு மிகை முழுக்களின் மீ.பெ.பொ.வ 1.\nகூற்று II: இரு சார்பகா எண்களின் மீ.பொ.ம அவற்றின் பெருக்கற்பலன்.\nகூற்று III: இரு எண்களின் மீ.பெ.பொ.வ சிறிய எண்ணை விடப் பெரியதாக இருக்கலாம்.\nசரியான விடையைத் தேர்ந்தெடுக்க.",
+        "options": [
+          "III மட்டும்",
+          "I மட்டும்",
+          "I, III மட்டும்",
+          "I, II மட்டும்"
+        ],
+        "explanation": "கூற்று I சரி: எ.கா. HCF(17, 18) = 1. கூற்று II சரி: மீ.பொ.ம(7, 9) = 63 = 7 × 9. கூற்று III தவறு: மீ.பெ.பொ.வ இரண்டையும் வகுக்கும்; எனவே சிறிய எண்ணை மீறாது."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 77,
+      "quote": "1 + 2 + 3 + … + n = n(n + 1)/2.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: The sum 1 + 2 + 3 + … + 20 is 210.\nReason [R]: The sum of the first n natural numbers is n(n + 1)/2.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "20 × 21 ÷ 2 = 210, and this is exactly the formula in [R]."
+      },
+      "ta": {
+        "q": "கூற்று [A]: 1 + 2 + 3 + … + 20 இன் கூடுதல் 210.\nகாரணம் [R]: முதல் n இயல் எண்களின் கூடுதல் n(n + 1)/2.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "20 × 21 ÷ 2 = 210; இது [R] இலுள்ள சூத்திரமே."
+      }
+    },
+    {
+      "topic": "hcf-and-lcm",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 42,
+      "quote": "Product of two numbers = HCF × LCM.",
+      "answer": "B",
+      "en": {
+        "q": "Assertion [A]: The LCM of 12 and 18 is 36.\nReason [R]: The LCM of two numbers is always a multiple of their HCF.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "12 = 2² × 3 and 18 = 2 × 3², so LCM = 2² × 3² = 36; [R] is true (the LCM is always a multiple of the HCF) but it does not explain why the LCM of 12 and 18 is 36."
+      },
+      "ta": {
+        "q": "கூற்று [A]: 12, 18 இன் மீ.பொ.ம 36.\nகாரணம் [R]: இரு எண்களின் மீ.பொ.ம எப்போதும் அவற்றின் மீ.பெ.பொ.வ இன் மடங்கு.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "12 = 2² × 3, 18 = 2 × 3²; மீ.பொ.ம = 36. [R] சரி (மீ.பொ.ம எப்போதும் மீ.பெ.பொ.வ இன் மடங்கு); ஆனால் அது [A]-க்கான காரணம் அன்று."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "assertion_reason",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 77,
+      "quote": "1 + 3 + 5 + … + (2n − 1) = n².",
+      "answer": "D",
+      "en": {
+        "q": "Assertion [A]: The sum of the first 10 odd natural numbers is 55.\nReason [R]: The sum of the first n odd natural numbers is n².",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "The sum is 10² = 100, not 55 (55 is the sum of the first 10 natural numbers), so [A] is false; [R] is true."
+      },
+      "ta": {
+        "q": "கூற்று [A]: முதல் 10 ஒற்றை இயல் எண்களின் கூடுதல் 55.\nகாரணம் [R]: முதல் n ஒற்றை இயல் எண்களின் கூடுதல் n².",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "கூடுதல் 10² = 100; 55 அல்ல (55 என்பது முதல் 10 இயல் எண்களின் கூடுதல்); [A] தவறு, [R] சரி."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 68,
+      "quote": "tn = a + (n − 1)d; tn = ar^(n−1).",
+      "answer": "B",
+      "en": {
+        "q": "Match the sequences/series with their values.\na) Common ratio of 4, 12, 36, …\nb) Common difference of 5, 9, 13, …\nc) 1 + 2 + 3 + … + 10\nd) 1 + 3 + 5 + 7\n1. 4\n2. 3\n3. 16\n4. 55",
+        "options": [
+          "a-4, b-3, c-1, d-2",
+          "a-2, b-1, c-4, d-3",
+          "a-3, b-1, c-4, d-2",
+          "a-1, b-3, c-4, d-2"
+        ],
+        "explanation": "Common ratio of 4, 12, 36, … – 3; Common difference of 5, 9, 13, … – 4; 1 + 2 + 3 + … + 10 – 55; 1 + 3 + 5 + 7 – 16."
+      },
+      "ta": {
+        "q": "தொடர்வரிசை/தொடர்களை அவற்றின் மதிப்புகளுடன் பொருத்துக.\na) 4, 12, 36, … இன் பொது விகிதம்\nb) 5, 9, 13, … இன் பொது வித்தியாசம்\nc) 1 + 2 + 3 + … + 10\nd) 1 + 3 + 5 + 7\n1. 4\n2. 3\n3. 16\n4. 55",
+        "options": [
+          "a-4, b-3, c-1, d-2",
+          "a-2, b-1, c-4, d-3",
+          "a-3, b-1, c-4, d-2",
+          "a-1, b-3, c-4, d-2"
+        ],
+        "explanation": "4, 12, 36, … இன் பொது விகிதம் – 3; 5, 9, 13, … இன் பொது வித்தியாசம் – 4; 1 + 2 + 3 + … + 10 – 55; 1 + 3 + 5 + 7 – 16."
+      }
+    },
+    {
+      "topic": "logical-reasoning-and-series",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 64,
+      "quote": "Sn = (n/2)[a + l]",
+      "answer": "B",
+      "en": {
+        "q": "The sum of the first 28 terms of an A.P. whose nth term is 4n − 3 is",
+        "options": [
+          "1,512",
+          "1,540",
+          "3,080",
+          "1,568"
+        ],
+        "explanation": "a = 1, l = 4 × 28 − 3 = 109; S28 = 14 × (1 + 109) = 1,540."
+      },
+      "ta": {
+        "q": "nth உறுப்பு 4n − 3 ஆக உள்ள கூட்டுத் தொடர்வரிசையின் முதல் 28 உறுப்புகளின் கூடுதல்",
+        "options": [
+          "1,512",
+          "1,540",
+          "3,080",
+          "1,568"
+        ],
+        "explanation": "a = 1, l = 4 × 28 − 3 = 109; S28 = 14 × (1 + 109) = 1,540."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1457 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 10 Mathematics Term-Full (English)",
+  "breadcrumb": "Std 10 Mathematics (English) — Chapter 8: Statistics and Probability — Practice (பயிற்சி வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 302,
+      "quote": "The Arithmetic Mean or Mean of the given values is sum of all the observations divided by the total number of observations.",
+      "answer": "C",
+      "en": {
+        "q": "The mean of 14, 18, 22, 26, 30, 19 and 25 is",
+        "options": [
+          "154",
+          "21",
+          "22",
+          "26"
+        ],
+        "explanation": "Sum = 154; mean = 154 ÷ 7 = 22."
+      },
+      "ta": {
+        "q": "14, 18, 22, 26, 30, 19, 25 ஆகியவற்றின் சராசரி",
+        "options": [
+          "154",
+          "21",
+          "22",
+          "26"
+        ],
+        "explanation": "கூடுதல் = 154; சராசரி = 154 ÷ 7 = 22."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 302,
+      "quote": "The most common among them are Arithmetic Mean, Median, Mode",
+      "answer": "B",
+      "en": {
+        "q": "The median of 17, 23, 9, 31, 12, 26, 20 and 15 is",
+        "options": [
+          "20",
+          "18.5",
+          "17",
+          "19.5"
+        ],
+        "explanation": "Ordered: 9, 12, 15, 17, 20, 23, 26, 31. The 4th and 5th values are 17 and 20; median = (17 + 20) ÷ 2 = 18.5."
+      },
+      "ta": {
+        "q": "17, 23, 9, 31, 12, 26, 20, 15 இன் இடைநிலை (மீடியன்)",
+        "options": [
+          "20",
+          "18.5",
+          "17",
+          "19.5"
+        ],
+        "explanation": "வரிசைப்படுத்த: 9, 12, 15, 17, 20, 23, 26, 31. 4, 5 ஆம் மதிப்புகள் 17, 20; இடைநிலை = (17 + 20) ÷ 2 = 18.5."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 302,
+      "quote": "The most common among them are Arithmetic Mean, Median, Mode",
+      "answer": "A",
+      "en": {
+        "q": "The mode of 5, 7, 8, 7, 9, 5, 7, 10, 8 is",
+        "options": [
+          "7",
+          "5",
+          "8",
+          "9"
+        ],
+        "explanation": "7 occurs three times, more than any other value."
+      },
+      "ta": {
+        "q": "5, 7, 8, 7, 9, 5, 7, 10, 8 இன் முகடு",
+        "options": [
+          "7",
+          "5",
+          "8",
+          "9"
+        ],
+        "explanation": "7 மூன்று முறை வருகிறது; வேறு எந்த மதிப்பும் அதிகமில்லை."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 302,
+      "quote": "The Arithmetic Mean or Mean of the given values is the sum of the values divided by their number.",
+      "answer": "B",
+      "en": {
+        "q": "The mean of six numbers is 24. If five of them are 20, 25, 18, 30 and 22, the sixth is",
+        "options": [
+          "27",
+          "29",
+          "24",
+          "31"
+        ],
+        "explanation": "Total = 6 × 24 = 144; five numbers sum to 115; sixth = 144 − 115 = 29."
+      },
+      "ta": {
+        "q": "ஆறு எண்களின் சராசரி 24. அவற்றில் ஐந்து 20, 25, 18, 30, 22 எனில் ஆறாவது எண்",
+        "options": [
+          "27",
+          "29",
+          "24",
+          "31"
+        ],
+        "explanation": "மொத்தம் = 6 × 24 = 144; ஐந்தின் கூடுதல் 115; ஆறாவது = 144 − 115 = 29."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 302,
+      "quote": "The Arithmetic Mean or Mean of the given values is the sum of the values divided by their number.",
+      "answer": "D",
+      "en": {
+        "q": "The mean marks of 20 students is 62 and of another 30 students is 72. The mean marks of all 50 students is",
+        "options": [
+          "66",
+          "67",
+          "70",
+          "68"
+        ],
+        "explanation": "Total = 20 × 62 + 30 × 72 = 1,240 + 2,160 = 3,400; mean = 3,400 ÷ 50 = 68."
+      },
+      "ta": {
+        "q": "20 மாணவர்களின் சராசரி மதிப்பெண் 62; மற்ற 30 மாணவர்களின் சராசரி 72. 50 மாணவர்களின் சராசரி",
+        "options": [
+          "66",
+          "67",
+          "70",
+          "68"
+        ],
+        "explanation": "மொத்தம் = 1,240 + 2,160 = 3,400; சராசரி = 3,400 ÷ 50 = 68."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 312,
+      "quote": "Correcting wrongly copied values — Exercise 8.2 (mean and SD of 100 candidates).",
+      "answer": "A",
+      "en": {
+        "q": "The mean of 50 observations is 40. Later it was found that 3 had been wrongly read as 53. The correct mean is",
+        "options": [
+          "39",
+          "40",
+          "41",
+          "38"
+        ],
+        "explanation": "Wrong total = 50 × 40 = 2,000; correct total = 2,000 − 53 + 3 = 1,950; mean = 1,950 ÷ 50 = 39."
+      },
+      "ta": {
+        "q": "50 மதிப்புகளின் சராசரி 40. 3 என்பது 53 எனத் தவறாகப் படிக்கப்பட்டது எனத் தெரிந்தது. சரியான சராசரி",
+        "options": [
+          "39",
+          "40",
+          "41",
+          "38"
+        ],
+        "explanation": "தவறான மொத்தம் = 2,000; சரியான மொத்தம் = 2,000 − 53 + 3 = 1,950; சராசரி = 39."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 302,
+      "quote": "The Arithmetic Mean or Mean of the given values is the sum of the values divided by their number.",
+      "answer": "A",
+      "en": {
+        "q": "The mean of the first 20 even natural numbers is",
+        "options": [
+          "21",
+          "20",
+          "22",
+          "42"
+        ],
+        "explanation": "Sum = 20 × 21 = 420; mean = 420 ÷ 20 = 21."
+      },
+      "ta": {
+        "q": "முதல் 20 இரட்டை இயல் எண்களின் சராசரி",
+        "options": [
+          "21",
+          "20",
+          "22",
+          "42"
+        ],
+        "explanation": "கூடுதல் = 20 × 21 = 420; சராசரி = 21."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 304,
+      "quote": "Range R = L − S; coefficient of range = (L − S)/(L + S).",
+      "answer": "C",
+      "en": {
+        "q": "For the data 28, 41, 37, 62, 19, 53, the range and the coefficient of range are",
+        "options": [
+          "81 and 0.531",
+          "43 and 1.88",
+          "43 and 0.531",
+          "34 and 0.531"
+        ],
+        "explanation": "L = 62, S = 19; R = 43; coefficient = 43 ÷ 81 = 0.531."
+      },
+      "ta": {
+        "q": "28, 41, 37, 62, 19, 53 என்ற தரவின் வீச்சு, வீச்சுக் கெழு",
+        "options": [
+          "81 and 0.531",
+          "43 and 1.88",
+          "43 and 0.531",
+          "34 and 0.531"
+        ],
+        "explanation": "L = 62, S = 19; வீச்சு = 43; கெழு = 43 ÷ 81 = 0.531."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 304,
+      "quote": "Coefficient of range = (L − S)/(L + S).",
+      "answer": "C",
+      "en": {
+        "q": "The largest and smallest values of a data are 95 and 15. Its coefficient of range is",
+        "options": [
+          "11/8",
+          "4/5",
+          "8/11",
+          "5/4"
+        ],
+        "explanation": "(95 − 15)/(95 + 15) = 80/110 = 8/11 ≈ 0.727."
+      },
+      "ta": {
+        "q": "ஒரு தரவின் மிகப்பெரிய, மிகச்சிறிய மதிப்புகள் 95, 15 எனில் வீச்சுக் கெழு",
+        "options": [
+          "11/8",
+          "4/5",
+          "8/11",
+          "5/4"
+        ],
+        "explanation": "(95 − 15)/(95 + 15) = 80/110 = 8/11 ≈ 0.727."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 304,
+      "quote": "Progress Check: the range of the first 10 prime numbers.",
+      "answer": "C",
+      "en": {
+        "q": "The range of the first 8 prime numbers (2, 3, 5, 7, 11, 13, 17, 19) is",
+        "options": [
+          "21",
+          "19",
+          "17",
+          "18"
+        ],
+        "explanation": "Range = L − S = 19 − 2 = 17."
+      },
+      "ta": {
+        "q": "முதல் 8 பகா எண்களின் (2, 3, 5, 7, 11, 13, 17, 19) வீச்சு",
+        "options": [
+          "21",
+          "19",
+          "17",
+          "18"
+        ],
+        "explanation": "வீச்சு = L − S = 19 − 2 = 17."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 305,
+      "quote": "Standard deviation s = √[Σ(xi − x̄)²/n].",
+      "answer": "A",
+      "en": {
+        "q": "The standard deviation of 2, 4, 4, 4, 5, 5, 7, 9 is",
+        "options": [
+          "2",
+          "4",
+          "3",
+          "2.5"
+        ],
+        "explanation": "Mean = 40/8 = 5; squared deviations: 9 + 1 + 1 + 1 + 0 + 0 + 4 + 16 = 32; variance = 32 ÷ 8 = 4; SD = 2."
+      },
+      "ta": {
+        "q": "2, 4, 4, 4, 5, 5, 7, 9 இன் திட்ட விலக்கம்",
+        "options": [
+          "2",
+          "4",
+          "3",
+          "2.5"
+        ],
+        "explanation": "சராசரி = 5; விலக்க வர்க்கங்கள் = 9 + 1 + 1 + 1 + 0 + 0 + 4 + 16 = 32; விலக்க வர்க்கச் சராசரி= 4; SD = 2."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 305,
+      "quote": "Variance = mean of the squares of the deviations from the mean.",
+      "answer": "B",
+      "en": {
+        "q": "The variance of 6, 8, 10, 12, 14 is",
+        "options": [
+          "40",
+          "8",
+          "10",
+          "2.83"
+        ],
+        "explanation": "Mean = 10; Σ(x − 10)² = 16 + 4 + 0 + 4 + 16 = 40; variance = 40 ÷ 5 = 8 (SD = 2.83)."
+      },
+      "ta": {
+        "q": "6, 8, 10, 12, 14 இன் விலக்க வர்க்கச் சராசரி",
+        "options": [
+          "40",
+          "8",
+          "10",
+          "2.83"
+        ],
+        "explanation": "சராசரி = 10; Σ(x − 10)² = 40; விலக்க வர்க்கச் சராசரி = 40 ÷ 5 = 8 (SD = 2.83)."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 310,
+      "quote": "SD of the first n natural numbers = √[(n² − 1)/12].",
+      "answer": "B",
+      "en": {
+        "q": "The standard deviation of the first 7 natural numbers 1, 2, …, 7 is",
+        "options": [
+          "3",
+          "2",
+          "4",
+          "1.5"
+        ],
+        "explanation": "Mean = 4; squared deviations: 9 + 4 + 1 + 0 + 1 + 4 + 9 = 28; variance = 28 ÷ 7 = 4; SD = 2."
+      },
+      "ta": {
+        "q": "முதல் 7 இயல் எண்கள் 1, 2, …, 7 இன் திட்ட விலக்கம்",
+        "options": [
+          "3",
+          "2",
+          "4",
+          "1.5"
+        ],
+        "explanation": "சராசரி = 4; விலக்க வர்க்கங்கள் = 28; விலக்க வர்க்கச் சராசரி = 4; SD = 2."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 310,
+      "quote": "SD of the first n natural numbers uses (n² − 1)/12 for the variance.",
+      "answer": "B",
+      "en": {
+        "q": "The variance of the first 13 natural numbers is",
+        "options": [
+          "7",
+          "14",
+          "28",
+          "13"
+        ],
+        "explanation": "Variance = (n² − 1)/12 = 168/12 = 14."
+      },
+      "ta": {
+        "q": "முதல் 13 இயல் எண்களின் விலக்க வர்க்கச் சராசரி",
+        "options": [
+          "7",
+          "14",
+          "28",
+          "13"
+        ],
+        "explanation": "விலக்க வர்க்கச் சராசரி = (n² − 1)/12 = 168/12 = 14."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 306,
+      "quote": "s² = Σx²/n − x̄².",
+      "answer": "C",
+      "en": {
+        "q": "For 10 observations, Σx = 200 and Σx² = 4,250. The standard deviation is",
+        "options": [
+          "15",
+          "25",
+          "5",
+          "4.25"
+        ],
+        "explanation": "Mean = 20; variance = 4,250 ÷ 10 − 20² = 425 − 400 = 25; SD = 5."
+      },
+      "ta": {
+        "q": "10 மதிப்புகளுக்கு Σx = 200, Σx² = 4,250 எனில் திட்ட விலக்கம்",
+        "options": [
+          "15",
+          "25",
+          "5",
+          "4.25"
+        ],
+        "explanation": "சராசரி = 20; விலக்க வர்க்கச் சராசரி = 425 − 400 = 25; SD = 5."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 310,
+      "quote": "If each data value is multiplied by k, the SD is also multiplied by k.",
+      "answer": "B",
+      "en": {
+        "q": "The standard deviation of a data is 6. If every value is multiplied by 3, the new standard deviation is",
+        "options": [
+          "6",
+          "18",
+          "9",
+          "108"
+        ],
+        "explanation": "Multiplying every value by k multiplies the SD by k: 3 × 6 = 18 (the variance becomes 9 × 36 = 324)."
+      },
+      "ta": {
+        "q": "ஒரு தரவின் திட்ட விலக்கம் 6. ஒவ்வொரு மதிப்பையும் 3 ஆல் பெருக்கினால் புதிய திட்ட விலக்கம்",
+        "options": [
+          "6",
+          "18",
+          "9",
+          "108"
+        ],
+        "explanation": "ஒவ்வொரு மதிப்பையும் k ஆல் பெருக்கினால் SD உம் k மடங்காகும்: 3 × 6 = 18."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 312,
+      "quote": "The standard deviation does not change when a constant is added to every value.",
+      "answer": "C",
+      "en": {
+        "q": "The standard deviation of a data is 2.8. If 5 is added to every value, the new standard deviation is",
+        "options": [
+          "14",
+          "7.8",
+          "2.8",
+          "13.4"
+        ],
+        "explanation": "Adding a constant shifts all values and the mean equally; the deviations are unchanged, so the SD stays 2.8."
+      },
+      "ta": {
+        "q": "ஒரு தரவின் திட்ட விலக்கம் 2.8. ஒவ்வொரு மதிப்புடனும் 5 ஐக் கூட்டினால் புதிய திட்ட விலக்கம்",
+        "options": [
+          "14",
+          "7.8",
+          "2.8",
+          "13.4"
+        ],
+        "explanation": "மாறிலியைக் கூட்டினால் மதிப்புகளும் சராசரியும் சமமாக நகரும்; விலக்கங்கள் மாறாது; SD = 2.8."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 314,
+      "quote": "Coefficient of variation C.V. = (σ/x̄) × 100%; the data with the lesser C.V. is more consistent.",
+      "answer": "B",
+      "en": {
+        "q": "The mean of a data is 50 and its standard deviation is 7.5. The coefficient of variation is",
+        "options": [
+          "0.15%",
+          "15%",
+          "6.67%",
+          "37.5%"
+        ],
+        "explanation": "C.V. = (7.5 ÷ 50) × 100 = 15%."
+      },
+      "ta": {
+        "q": "ஒரு தரவின் சராசரி 50, திட்ட விலக்கம் 7.5 எனில் மாறுபாட்டுக் கெழு",
+        "options": [
+          "0.15%",
+          "15%",
+          "6.67%",
+          "37.5%"
+        ],
+        "explanation": "C.V. = (7.5 ÷ 50) × 100 = 15%."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 315,
+      "quote": "Coefficient of variation C.V. = (σ/x̄) × 100%; the data with the lesser C.V. is more consistent.",
+      "answer": "A",
+      "en": {
+        "q": "Team A has mean 60 and SD 12; team B has mean 80 and SD 14. The C.V. of the more consistent team is",
+        "options": [
+          "17.5%",
+          "21.5%",
+          "27.5%",
+          "14.5%"
+        ],
+        "explanation": "C.V.(A) = 12/60 × 100 = 20%; C.V.(B) = 14/80 × 100 = 17.5%. The lesser C.V. (B) is more consistent."
+      },
+      "ta": {
+        "q": "அணி A: சராசரி 60, SD 12; அணி B: சராசரி 80, SD 14. அதிக சீரான அணியின் C.V.",
+        "options": [
+          "17.5%",
+          "21.5%",
+          "27.5%",
+          "14.5%"
+        ],
+        "explanation": "C.V.(A) = 20%; C.V.(B) = 17.5%. குறைந்த C.V. (B) அதிகச் சீரானது."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 314,
+      "quote": "Coefficient of variation C.V. = (σ/x̄) × 100%; the data with the lesser C.V. is more consistent.",
+      "answer": "C",
+      "en": {
+        "q": "The coefficient of variation of a data is 25% and its mean is 36. The standard deviation is",
+        "options": [
+          "6",
+          "144",
+          "9",
+          "11.25"
+        ],
+        "explanation": "σ = C.V. × mean ÷ 100 = 25 × 36 ÷ 100 = 9."
+      },
+      "ta": {
+        "q": "ஒரு தரவின் மாறுபாட்டுக் கெழு 25%, சராசரி 36 எனில் திட்ட விலக்கம்",
+        "options": [
+          "6",
+          "144",
+          "9",
+          "11.25"
+        ],
+        "explanation": "σ = C.V. × சராசரி ÷ 100 = 25 × 36 ÷ 100 = 9."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 314,
+      "quote": "Coefficient of variation C.V. = (σ/x̄) × 100%; the data with the lesser C.V. is more consistent.",
+      "answer": "C",
+      "en": {
+        "q": "If the C.V. of a data is 40% and its standard deviation is 14, the mean is",
+        "options": [
+          "28",
+          "5.6",
+          "35",
+          "56"
+        ],
+        "explanation": "Mean = σ ÷ C.V. × 100 = 14 ÷ 40 × 100 = 35."
+      },
+      "ta": {
+        "q": "ஒரு தரவின் C.V. 40%, திட்ட விலக்கம் 14 எனில் சராசரி",
+        "options": [
+          "28",
+          "5.6",
+          "35",
+          "56"
+        ],
+        "explanation": "சராசரி = σ ÷ C.V. × 100 = 14 ÷ 40 × 100 = 35."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 316,
+      "quote": "Coefficient of variation C.V. = (σ/x̄) × 100%; the data with the lesser C.V. is more consistent.",
+      "answer": "A",
+      "en": {
+        "q": "Batsman A has an average of 40 runs with SD 8; batsman B has an average of 25 runs with SD 4. Who is more consistent?",
+        "options": [
+          "B, since C.V. 16% < 20%",
+          "A, since SD 8 > 4",
+          "A, since mean 40 > 25",
+          "B, since mean 25 < 40"
+        ],
+        "explanation": "C.V.(A) = 8/40 × 100 = 20%; C.V.(B) = 4/25 × 100 = 16%. Lower C.V. means more consistent: B."
+      },
+      "ta": {
+        "q": "மட்டையாளர் A: சராசரி 40, SD 8; மட்டையாளர் B: சராசரி 25, SD 4. அதிகச் சீரானவர் யார்?",
+        "options": [
+          "B, since C.V. 16% < 20%",
+          "A, since SD 8 > 4",
+          "A, since mean 40 > 25",
+          "B, since mean 25 < 40"
+        ],
+        "explanation": "C.V.(A) = 20%; C.V.(B) = 16%. குறைந்த C.V. அதிகச் சீரானது: B."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 314,
+      "quote": "Coefficient of variation C.V. = (σ/x̄) × 100%; the data with the lesser C.V. is more consistent.",
+      "answer": "B",
+      "en": {
+        "q": "The coefficient of variation of the first 7 natural numbers is",
+        "options": [
+          "200%",
+          "50%",
+          "25%",
+          "28.6%"
+        ],
+        "explanation": "Mean = 4, SD = 2; C.V. = 2/4 × 100 = 50%."
+      },
+      "ta": {
+        "q": "முதல் 7 இயல் எண்களின் மாறுபாட்டுக் கெழு",
+        "options": [
+          "200%",
+          "50%",
+          "25%",
+          "28.6%"
+        ],
+        "explanation": "சராசரி = 4, SD = 2; C.V. = 2/4 × 100 = 50%."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 320,
+      "quote": "P(E) = n(E)/n(S)",
+      "answer": "A",
+      "en": {
+        "q": "A bag has 5 red, 7 blue and 8 green balls. One ball is drawn at random. The probability that it is not green is",
+        "options": [
+          "3/5",
+          "2/5",
+          "7/20",
+          "1/4"
+        ],
+        "explanation": "n(S) = 20; not green = 12; P = 12/20 = 3/5 (= 1 − 8/20)."
+      },
+      "ta": {
+        "q": "ஒரு பையில் 5 சிவப்பு, 7 நீல, 8 பச்சை பந்துகள் உள்ளன. ஒரு பந்தை எடுக்கும்போது அது பச்சை அல்ல என்பதன் நிகழ்தகவு",
+        "options": [
+          "3/5",
+          "2/5",
+          "7/20",
+          "1/4"
+        ],
+        "explanation": "n(S) = 20; பச்சை அல்லாதவை = 12; P = 12/20 = 3/5 (= 1 − 8/20)."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 320,
+      "quote": "Example 8.19 — two dice are rolled and the sample space has 36 outcomes.",
+      "answer": "B",
+      "en": {
+        "q": "Two dice are rolled. The probability that the sum of the numbers is 8 is",
+        "options": [
+          "1/6",
+          "5/36",
+          "1/9",
+          "7/36"
+        ],
+        "explanation": "Sum 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes out of 36; P = 5/36."
+      },
+      "ta": {
+        "q": "இரு பகடைகளை உருட்டும்போது கூடுதல் 8 வருவதற்கான நிகழ்தகவு",
+        "options": [
+          "1/6",
+          "5/36",
+          "1/9",
+          "7/36"
+        ],
+        "explanation": "கூடுதல் 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5; P = 5/36."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 320,
+      "quote": "Example 8.19 — two dice are rolled and the sample space has 36 outcomes.",
+      "answer": "A",
+      "en": {
+        "q": "Two dice are rolled. The probability that the sum is greater than 9 is",
+        "options": [
+          "1/6",
+          "1/9",
+          "5/36",
+          "1/12"
+        ],
+        "explanation": "Sum > 9: (4,6), (5,5), (6,4), (5,6), (6,5), (6,6) = 6 outcomes; P = 6/36 = 1/6."
+      },
+      "ta": {
+        "q": "இரு பகடைகளை உருட்டும்போது கூடுதல் 9 ஐ விடப் பெரியதாக இருக்க நிகழ்தகவு",
+        "options": [
+          "1/6",
+          "1/9",
+          "5/36",
+          "1/12"
+        ],
+        "explanation": "கூடுதல் > 9: (4,6), (5,5), (6,4), (5,6), (6,5), (6,6) = 6; P = 6/36 = 1/6."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 320,
+      "quote": "Example 8.19 — two dice are rolled and the sample space has 36 outcomes.",
+      "answer": "B",
+      "en": {
+        "q": "Two dice are rolled. The probability that the product of the numbers is 12 is",
+        "options": [
+          "1/12",
+          "1/9",
+          "1/6",
+          "5/36"
+        ],
+        "explanation": "Product 12: (2,6), (3,4), (4,3), (6,2) = 4; P = 4/36 = 1/9."
+      },
+      "ta": {
+        "q": "இரு பகடைகளை உருட்டும்போது எண்களின் பெருக்கல் 12 வருவதற்கான நிகழ்தகவு",
+        "options": [
+          "1/12",
+          "1/9",
+          "1/6",
+          "5/36"
+        ],
+        "explanation": "பெருக்கல் 12: (2,6), (3,4), (4,3), (6,2) = 4; P = 4/36 = 1/9."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 318,
+      "quote": "8.4.1 Tree diagram — three tosses of a coin give 8 outcomes.",
+      "answer": "A",
+      "en": {
+        "q": "Three coins are tossed together. The probability of getting at least one head is",
+        "options": [
+          "7/8",
+          "1/8",
+          "3/4",
+          "1/2"
+        ],
+        "explanation": "P(no head) = P(TTT) = 1/8; P(at least one head) = 1 − 1/8 = 7/8."
+      },
+      "ta": {
+        "q": "மூன்று நாணயங்களை ஒரே நேரத்தில் சுண்டும்போது குறைந்தது ஒரு தலை கிடைக்க நிகழ்தகவு",
+        "options": [
+          "7/8",
+          "1/8",
+          "3/4",
+          "1/2"
+        ],
+        "explanation": "P(தலை இல்லை) = P(TTT) = 1/8; P(குறைந்தது ஒரு தலை) = 1 − 1/8 = 7/8."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 325,
+      "quote": "Addition theorem: P(A ∪ B) = P(A) + P(B) − P(A ∩ B).",
+      "answer": "B",
+      "en": {
+        "q": "A card is drawn from a pack of 52 cards. The probability that it is a king or a heart is",
+        "options": [
+          "17/52",
+          "4/13",
+          "1/52",
+          "1/2"
+        ],
+        "explanation": "P(king) = 4/52, P(heart) = 13/52, P(king of hearts) = 1/52; P = (4 + 13 − 1)/52 = 16/52 = 4/13."
+      },
+      "ta": {
+        "q": "52 சீட்டுக்கட்டிலிருந்து ஒரு சீட்டு எடுக்கப்படுகிறது. அது ராஜா அல்லது ஹார்ட் ஆக இருக்க நிகழ்தகவு",
+        "options": [
+          "17/52",
+          "4/13",
+          "1/52",
+          "1/2"
+        ],
+        "explanation": "P(ராஜா) = 4/52, P(ஹார்ட்) = 13/52, P(ஹார்ட் ராஜா) = 1/52; P = 16/52 = 4/13."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 325,
+      "quote": "Addition theorem: P(A ∪ B) = P(A) + P(B) − P(A ∩ B).",
+      "answer": "A",
+      "en": {
+        "q": "If P(A) = 0.45, P(B) = 0.35 and P(A ∩ B) = 0.15, then P(A ∪ B) =",
+        "options": [
+          "0.65",
+          "0.8",
+          "0.95",
+          "0.35"
+        ],
+        "explanation": "P(A ∪ B) = 0.45 + 0.35 − 0.15 = 0.65."
+      },
+      "ta": {
+        "q": "P(A) = 0.45, P(B) = 0.35, P(A ∩ B) = 0.15 எனில் P(A ∪ B) =",
+        "options": [
+          "0.65",
+          "0.8",
+          "0.95",
+          "0.35"
+        ],
+        "explanation": "P(A ∪ B) = 0.45 + 0.35 − 0.15 = 0.65."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 325,
+      "quote": "Addition theorem for events that are not mutually exclusive.",
+      "answer": "A",
+      "en": {
+        "q": "A number is chosen at random from 1 to 30. The probability that it is a multiple of 4 or 6 is",
+        "options": [
+          "1/3",
+          "4/15",
+          "2/5",
+          "7/30"
+        ],
+        "explanation": "Multiples of 4: 7; of 6: 5; of both (12, 24): 2; favourable = 7 + 5 − 2 = 10; P = 10/30 = 1/3."
+      },
+      "ta": {
+        "q": "1 முதல் 30 வரையிலிருந்து ஒரு எண் எடுக்கப்படுகிறது. அது 4 அல்லது 6 இன் மடங்காக இருக்க நிகழ்தகவு",
+        "options": [
+          "1/3",
+          "4/15",
+          "2/5",
+          "7/30"
+        ],
+        "explanation": "4 இன் மடங்குகள் 7; 6 இன் 5; இரண்டின் (12, 24) 2; சாதகம் = 7 + 5 − 2 = 10; P = 1/3."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 320,
+      "quote": "P(E) = n(E)/n(S)",
+      "answer": "A",
+      "en": {
+        "q": "A number is chosen at random from 1, 2, 3, …, 20. The probability that it is a prime number is",
+        "options": [
+          "2/5",
+          "1/2",
+          "3/10",
+          "9/20"
+        ],
+        "explanation": "Primes: 2, 3, 5, 7, 11, 13, 17, 19 = 8; P = 8/20 = 2/5."
+      },
+      "ta": {
+        "q": "1, 2, 3, …, 20 இலிருந்து ஒரு எண் எடுக்கப்படுகிறது. அது பகா எண்ணாக இருக்க நிகழ்தகவு",
+        "options": [
+          "2/5",
+          "1/2",
+          "3/10",
+          "9/20"
+        ],
+        "explanation": "பகா எண்கள்: 2, 3, 5, 7, 11, 13, 17, 19 = 8; P = 8/20 = 2/5."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 320,
+      "quote": "P(E) = n(E)/n(S)",
+      "answer": "A",
+      "en": {
+        "q": "A letter is chosen at random from the word MATHEMATICS. The probability that it is a vowel is",
+        "options": [
+          "4/11",
+          "5/11",
+          "3/11",
+          "4/10"
+        ],
+        "explanation": "The word has 11 letters with vowels A, E, A, I = 4; P = 4/11."
+      },
+      "ta": {
+        "q": "MATHEMATICS என்ற சொல்லிலிருந்து ஒரு எழுத்து தேர்ந்தெடுக்கப்படுகிறது. அது உயிரெழுத்தாக இருக்க நிகழ்தகவு",
+        "options": [
+          "4/11",
+          "5/11",
+          "3/11",
+          "4/10"
+        ],
+        "explanation": "சொல்லில் 11 எழுத்துகள்; உயிரெழுத்துகள் A, E, A, I = 4; P = 4/11."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 320,
+      "quote": "P(E') = 1 − P(E)",
+      "answer": "A",
+      "en": {
+        "q": "The probability that it rains tomorrow is 0.35. The probability that it does not rain is",
+        "options": [
+          "0.65",
+          "0.35",
+          "0.55",
+          "1.35"
+        ],
+        "explanation": "P(not rain) = 1 − 0.35 = 0.65."
+      },
+      "ta": {
+        "q": "நாளை மழை பெய்ய நிகழ்தகவு 0.35 எனில் மழை பெய்யாமல் இருக்க நிகழ்தகவு",
+        "options": [
+          "0.65",
+          "0.35",
+          "0.55",
+          "1.35"
+        ],
+        "explanation": "P(மழை இல்லை) = 1 − 0.35 = 0.65."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 320,
+      "quote": "P(E) = n(E)/n(S)",
+      "answer": "B",
+      "en": {
+        "q": "A card is drawn from a pack of 52 cards. The probability that it is a red face card is",
+        "options": [
+          "1/13",
+          "3/26",
+          "3/52",
+          "3/13"
+        ],
+        "explanation": "Face cards (J, Q, K) in the two red suits = 3 × 2 = 6; P = 6/52 = 3/26."
+      },
+      "ta": {
+        "q": "52 சீட்டுகளிலிருந்து ஒரு சீட்டு எடுக்கப்படுகிறது. அது சிவப்பு முகச் சீட்டாக இருக்க நிகழ்தகவு",
+        "options": [
+          "1/13",
+          "3/26",
+          "3/52",
+          "3/13"
+        ],
+        "explanation": "இரு சிவப்புத் தொகுப்புகளில் முகச் சீட்டுகள் = 3 × 2 = 6; P = 6/52 = 3/26."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 325,
+      "quote": "Addition theorem: P(A ∪ B) = P(A) + P(B) − P(A ∩ B).",
+      "answer": "A",
+      "en": {
+        "q": "A die is thrown. The probability of getting an even number or a number greater than 4 is",
+        "options": [
+          "2/3",
+          "5/6",
+          "1/2",
+          "1/3"
+        ],
+        "explanation": "Even = {2, 4, 6}, greater than 4 = {5, 6}; union = {2, 4, 5, 6} = 4 outcomes; P = 4/6 = 2/3."
+      },
+      "ta": {
+        "q": "ஒரு பகடையை உருட்டும்போது இரட்டை எண் அல்லது 4 ஐ விடப் பெரிய எண் கிடைக்க நிகழ்தகவு",
+        "options": [
+          "2/3",
+          "5/6",
+          "1/2",
+          "1/3"
+        ],
+        "explanation": "இரட்டை = {2, 4, 6}, 4 ஐ விடப் பெரியது = {5, 6}; சேர்ப்பு = {2, 4, 5, 6}; P = 4/6 = 2/3."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 302,
+      "quote": "The most common among them are Arithmetic Mean, Median, Mode",
+      "answer": "A",
+      "en": {
+        "q": "The data 4, 6, 6, 8, 9, 6, 4, 8 has the mode",
+        "options": [
+          "6",
+          "4",
+          "8",
+          "9"
+        ],
+        "explanation": "6 occurs three times; 4 and 8 twice each."
+      },
+      "ta": {
+        "q": "4, 6, 6, 8, 9, 6, 4, 8 என்ற தரவின் முகடு",
+        "options": [
+          "6",
+          "4",
+          "8",
+          "9"
+        ],
+        "explanation": "6 மூன்று முறை; 4, 8 இரண்டிரண்டு முறை."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 302,
+      "quote": "The Arithmetic Mean or Mean of the given values is the sum of the values divided by their number.",
+      "answer": "A",
+      "en": {
+        "q": "Consider the following statements.\nStatement I: The median of 3, 5, 8, 10, 12 is 10.\nStatement II: The mode of 2, 3, 3, 4 is 3.\nStatement III: The mean of the first 5 natural numbers is 3.\nWhich of the following is correct?",
+        "options": [
+          "II and III only",
+          "I and III only",
+          "I only",
+          "I, II and III"
+        ],
+        "explanation": "Statement I is false: The middle value is 8. Statement II is true: 3 occurs twice, the others once. Statement III is true: 15 ÷ 5 = 3."
+      },
+      "ta": {
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக.\nகூற்று I: 3, 5, 8, 10, 12 இன் இடைநிலை 10.\nகூற்று II: 2, 3, 3, 4 இன் முகடு 3.\nகூற்று III: முதல் 5 இயல் எண்களின் சராசரி 3.\nசரியான விடையைத் தேர்ந்தெடுக்க.",
+        "options": [
+          "II, III மட்டும்",
+          "I, III மட்டும்",
+          "I மட்டும்",
+          "I, II, III மூன்றும் சரி"
+        ],
+        "explanation": "கூற்று I தவறு: நடு மதிப்பு 8. கூற்று II சரி: 3 இரு முறை; மற்றவை ஒரு முறை. கூற்று III சரி: 15 ÷ 5 = 3."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 310,
+      "quote": "SD is multiplied by k when the values are multiplied by k; it is unchanged when a constant is added.",
+      "answer": "D",
+      "en": {
+        "q": "Consider the following statements.\nStatement I: Variance is the square of the standard deviation.\nStatement II: The standard deviation of 5, 5, 5, 5 is 0.\nStatement III: Adding 10 to every value changes the standard deviation.\nWhich of the following is correct?",
+        "options": [
+          "I, II and III",
+          "III only",
+          "II and III only",
+          "I and II only"
+        ],
+        "explanation": "Statement I is true: SD = √variance. Statement II is true: Every deviation from the mean 5 is 0. Statement III is false: The deviations from the mean stay the same."
+      },
+      "ta": {
+        "q": "பின்வரும் கூற்றுகளைக் கருதுக.\nகூற்று I: விலக்க வர்க்கச் சராசரி என்பது திட்ட விலக்கத்தின் வர்க்கம்.\nகூற்று II: 5, 5, 5, 5 இன் திட்ட விலக்கம் 0.\nகூற்று III: ஒவ்வொரு மதிப்புடனும் 10 ஐக் கூட்டினால் திட்ட விலக்கம் மாறும்.\nசரியான விடையைத் தேர்ந்தெடுக்க.",
+        "options": [
+          "I, II, III மூன்றும் சரி",
+          "III மட்டும்",
+          "II, III மட்டும்",
+          "I, II மட்டும்"
+        ],
+        "explanation": "கூற்று I சரி: SD = √விலக்க வர்க்கச் சராசரி. கூற்று II சரி: சராசரி 5 இலிருந்து ஒவ்வொரு விலக்கமும் 0. கூற்று III தவறு: சராசரியிலிருந்து விலக்கங்கள் மாறாது."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 314,
+      "quote": "Coefficient of variation C.V. = (σ/x̄) × 100%; the data with the lesser C.V. is more consistent.",
+      "answer": "D",
+      "en": {
+        "q": "Consider the following statements about the coefficient of variation.\nStatement I: C.V. = (standard deviation ÷ mean) × 100%.\nStatement II: The data with the larger C.V. is more consistent.\nStatement III: C.V. can compare variability of data measured in different units.\nWhich of the following is correct?",
+        "options": [
+          "I only",
+          "II and III only",
+          "III only",
+          "I and III only"
+        ],
+        "explanation": "Statement I is true: This is the definition. Statement II is false: The lesser C.V. is more consistent. Statement III is true: It is a relative, unit-free measure."
+      },
+      "ta": {
+        "q": "மாறுபாட்டுக் கெழுவைப் பற்றிய பின்வரும் கூற்றுகளைக் கருதுக.\nகூற்று I: C.V. = (திட்ட விலக்கம் ÷ சராசரி) × 100%.\nகூற்று II: அதிக C.V. உடைய தரவு அதிகச் சீரானது.\nகூற்று III: வெவ்வேறு அலகுகளில் உள்ள தரவுகளின் மாறுபாட்டை C.V. கொண்டு ஒப்பிடலாம்.\nசரியான விடையைத் தேர்ந்தெடுக்க.",
+        "options": [
+          "I மட்டும்",
+          "II, III மட்டும்",
+          "III மட்டும்",
+          "I, III மட்டும்"
+        ],
+        "explanation": "கூற்று I சரி: இதுவே வரையறை. கூற்று II தவறு: குறைந்த C.V. உடையதே அதிகச் சீரானது. கூற்று III சரி: இது அலகற்ற சார்பளவை."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "statement_based",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 319,
+      "quote": "0 ≤ P(E) ≤ 1; P(E) + P(E') = 1; P(S) = 1.",
+      "answer": "A",
+      "en": {
+        "q": "Consider the following statements about probability.\nStatement I: The probability of an event can never be negative.\nStatement II: P(E) + P(not E) = 1.\nStatement III: The probability of a sure event is 0.\nWhich of the following is correct?",
+        "options": [
+          "I and II only",
+          "II only",
+          "I only",
+          "I and III only"
+        ],
+        "explanation": "Statement I is true: 0 ≤ P(E) ≤ 1. Statement II is true: The complement rule. Statement III is false: P(S) = n(S)/n(S) = 1; 0 is the probability of an impossible event."
+      },
+      "ta": {
+        "q": "நிகழ்தகவு பற்றிய பின்வரும் கூற்றுகளைக் கருதுக.\nகூற்று I: ஒரு நிகழ்ச்சியின் நிகழ்தகவு எதிர் எண்ணாக இருக்க முடியாது.\nகூற்று II: P(E) + P(E இல்லை) = 1.\nகூற்று III: உறுதியான நிகழ்ச்சியின் நிகழ்தகவு 0.\nசரியான விடையைத் தேர்ந்தெடுக்க.",
+        "options": [
+          "I, II மட்டும்",
+          "II மட்டும்",
+          "I மட்டும்",
+          "I, III மட்டும்"
+        ],
+        "explanation": "கூற்று I சரி: 0 ≤ P(E) ≤ 1. கூற்று II சரி: நிரப்பு விதி. கூற்று III தவறு: P(S) = n(S)/n(S) = 1; 0 என்பது இயலா நிகழ்ச்சியின் நிகழ்தகவு."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 320,
+      "quote": "Example 8.19 — two dice are rolled and the sample space has 36 outcomes.",
+      "answer": "A",
+      "en": {
+        "q": "Two dice are rolled. Consider the following statements.\nStatement I: The probability that the sum is 7 is 1/6.\nStatement II: The probability that the sum is 2 is 2/36.\nStatement III: The probability that the sum is less than 13 is 1.\nWhich of the following is correct?",
+        "options": [
+          "I and III only",
+          "II and III only",
+          "III only",
+          "I, II and III"
+        ],
+        "explanation": "Statement I is true: 6 outcomes out of 36. Statement II is false: Only (1,1) gives 2, so it is 1/36. Statement III is true: Every sum is at most 12, a sure event."
+      },
+      "ta": {
+        "q": "இரு பகடைகள் உருட்டப்படுகின்றன. பின்வரும் கூற்றுகளைக் கருதுக.\nகூற்று I: கூடுதல் 7 வர நிகழ்தகவு 1/6.\nகூற்று II: கூடுதல் 2 வர நிகழ்தகவு 2/36.\nகூற்று III: கூடுதல் 13 ஐ விடக் குறைவாக வர நிகழ்தகவு 1.\nசரியான விடையைத் தேர்ந்தெடுக்க.",
+        "options": [
+          "I, III மட்டும்",
+          "II, III மட்டும்",
+          "III மட்டும்",
+          "I, II, III மூன்றும் சரி"
+        ],
+        "explanation": "கூற்று I சரி: 36 இல் 6 வழிகள். கூற்று II தவறு: (1,1) மட்டுமே; எனவே 1/36. கூற்று III சரி: எல்லாக் கூடுதல்களும் 12 அல்லது குறைவு; உறுதியான நிகழ்ச்சி."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 302,
+      "quote": "Range, mean, median and mode of a data.",
+      "answer": "C",
+      "en": {
+        "q": "Match each data set with its value.\na) Range of 5, 12, 9, 20\nb) Mean of 3, 7, 8, 10, 12\nc) Median of 4, 9, 5, 12, 7\nd) Mode of 2, 5, 5, 6\n1. 7\n2. 5\n3. 8\n4. 15",
+        "options": [
+          "a-2, b-3, c-4, d-1",
+          "a-2, b-1, c-3, d-4",
+          "a-4, b-3, c-1, d-2",
+          "a-1, b-4, c-3, d-2"
+        ],
+        "explanation": "Range of 5, 12, 9, 20 – 15; Mean of 3, 7, 8, 10, 12 – 8; Median of 4, 9, 5, 12, 7 – 7; Mode of 2, 5, 5, 6 – 5."
+      },
+      "ta": {
+        "q": "ஒவ்வொரு தரவையும் அதன் மதிப்புடன் பொருத்துக.\na) 5, 12, 9, 20 இன் வீச்சு\nb) 3, 7, 8, 10, 12 இன் சராசரி\nc) 4, 9, 5, 12, 7 இன் இடைநிலை\nd) 2, 5, 5, 6 இன் முகடு\n1. 7\n2. 5\n3. 8\n4. 15",
+        "options": [
+          "a-2, b-3, c-4, d-1",
+          "a-2, b-1, c-3, d-4",
+          "a-4, b-3, c-1, d-2",
+          "a-1, b-4, c-3, d-2"
+        ],
+        "explanation": "5, 12, 9, 20 இன் வீச்சு – 15; 3, 7, 8, 10, 12 இன் சராசரி – 8; 4, 9, 5, 12, 7 இன் இடைநிலை – 7; 2, 5, 5, 6 இன் முகடு – 5."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 320,
+      "quote": "P(E) = n(E)/n(S)",
+      "answer": "C",
+      "en": {
+        "q": "Match each event with its probability.\na) A head in one toss of a coin\nb) Two tails in two tosses of a coin\nc) Three heads in three tosses of a coin\nd) A number greater than 4 on a die\n1. 1/4\n2. 1/3\n3. 1/8\n4. 1/2",
+        "options": [
+          "a-4, b-2, c-1, d-3",
+          "a-2, b-4, c-3, d-1",
+          "a-4, b-1, c-3, d-2",
+          "a-1, b-2, c-3, d-4"
+        ],
+        "explanation": "A head in one toss of a coin – 1/2; Two tails in two tosses of a coin – 1/4; Three heads in three tosses of a coin – 1/8; A number greater than 4 on a die – 1/3."
+      },
+      "ta": {
+        "q": "ஒவ்வொரு நிகழ்ச்சியையும் அதன் நிகழ்தகவுடன் பொருத்துக.\na) ஒரு நாணயத்தைச் சுண்டும்போது தலை\nb) இரு நாணயங்களைச் சுண்டும்போது இரண்டும் பூ\nc) மூன்று நாணயங்களில் மூன்றும் தலை\nd) பகடையில் 4 ஐ விடப் பெரிய எண்\n1. 1/4\n2. 1/3\n3. 1/8\n4. 1/2",
+        "options": [
+          "a-4, b-2, c-1, d-3",
+          "a-2, b-4, c-3, d-1",
+          "a-4, b-1, c-3, d-2",
+          "a-1, b-2, c-3, d-4"
+        ],
+        "explanation": "ஒரு நாணயத்தைச் சுண்டும்போது தலை – 1/2; இரு நாணயங்களைச் சுண்டும்போது இரண்டும் பூ – 1/4; மூன்று நாணயங்களில் மூன்றும் தலை – 1/8; பகடையில் 4 ஐ விடப் பெரிய எண் – 1/3."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "match_the_following",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 314,
+      "quote": "σ = √variance; C.V. = (σ/x̄) × 100%.",
+      "answer": "C",
+      "en": {
+        "q": "Match the following.\na) SD of a data in which every value is 9\nb) Variance when SD = 6\nc) SD when variance = 49\nd) C.V. when σ = 4 and mean = 20\n1. 0\n2. 7\n3. 20%\n4. 36",
+        "options": [
+          "a-4, b-2, c-1, d-3",
+          "a-4, b-2, c-3, d-1",
+          "a-1, b-4, c-2, d-3",
+          "a-4, b-1, c-3, d-2"
+        ],
+        "explanation": "SD of a data in which every value is 9 – 0; Variance when SD = 6 – 36; SD when variance = 49 – 7; C.V. when σ = 4 and mean = 20 – 20%."
+      },
+      "ta": {
+        "q": "பொருத்துக.\na) எல்லா மதிப்புகளும் 9 ஆக உள்ள தரவின் SD\nb) SD = 6 எனில் விலக்க வர்க்கச் சராசரி\nc) விலக்க வர்க்கச் சராசரி = 49 எனில் SD\nd) σ = 4, சராசரி = 20 எனில் C.V.\n1. 0\n2. 7\n3. 20%\n4. 36",
+        "options": [
+          "a-4, b-2, c-1, d-3",
+          "a-4, b-2, c-3, d-1",
+          "a-1, b-4, c-2, d-3",
+          "a-4, b-1, c-3, d-2"
+        ],
+        "explanation": "எல்லா மதிப்புகளும் 9 ஆக உள்ள தரவின் SD – 0; SD = 6 எனில் விலக்க வர்க்கச் சராசரி – 36; விலக்க வர்க்கச் சராசரி = 49 எனில் SD – 7; σ = 4, சராசரி = 20 எனில் C.V. – 20%."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 312,
+      "quote": "Adding a constant to every value leaves the standard deviation unchanged.",
+      "answer": "A",
+      "en": {
+        "q": "Assertion [A]: Adding 10 to every observation does not change the standard deviation.\nReason [R]: The standard deviation measures the spread about the mean, and the mean also shifts by 10.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Values and mean move together, so each deviation stays the same; [R] explains [A]."
+      },
+      "ta": {
+        "q": "கூற்று [A]: ஒவ்வொரு மதிப்புடனும் 10 ஐக் கூட்டினால் திட்ட விலக்கம் மாறாது.\nகாரணம் [R]: திட்ட விலக்கம் சராசரியைச் சுற்றிய பரவலை அளக்கிறது; சராசரியும் 10 ஆல் நகர்கிறது.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "மதிப்புகளும் சராசரியும் ஒன்றாக நகர்கின்றன; விலக்கங்கள் மாறாது; [R], [A] ஐ விளக்குகிறது."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 314,
+      "quote": "Coefficient of variation C.V. = (σ/x̄) × 100%; the data with the lesser C.V. is more consistent.",
+      "answer": "B",
+      "en": {
+        "q": "Assertion [A]: A data with mean 50 and SD 10 has a coefficient of variation of 20%.\nReason [R]: The coefficient of variation has no unit.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "C.V. = 10/50 × 100 = 20% so [A] is true. [R] is true, but being unit-free does not produce the value 20%."
+      },
+      "ta": {
+        "q": "கூற்று [A]: சராசரி 50, SD 10 உடைய தரவின் மாறுபாட்டுக் கெழு 20%.\nகாரணம் [R]: மாறுபாட்டுக் கெழுவுக்கு அலகு இல்லை.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "C.V. = 10/50 × 100 = 20%; [A] சரி. [R] சரி; ஆனால் அலகற்றது என்பது 20% என்ற மதிப்பைத் தருவதில்லை."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "assertion_reason",
+      "difficulty": "easy",
+      "bloom": "apply",
+      "page": 319,
+      "quote": "0 ≤ P(E) ≤ 1.",
+      "answer": "C",
+      "en": {
+        "q": "Assertion [A]: The probability of drawing a king from a pack of 52 cards is 1/13.\nReason [R]: The probability of an event can be greater than 1.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "4/52 = 1/13, so [A] is true; probability always lies from 0 to 1, so [R] is false."
+      },
+      "ta": {
+        "q": "கூற்று [A]: 52 சீட்டுகளிலிருந்து ராஜா எடுக்க நிகழ்தகவு 1/13.\nகாரணம் [R]: ஒரு நிகழ்ச்சியின் நிகழ்தகவு 1 ஐ விடப் பெரியதாக இருக்கலாம்.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "4/52 = 1/13; [A] சரி; நிகழ்தகவு எப்போதும் 0 முதல் 1 வரை; [R] தவறு."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "assertion_reason",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 305,
+      "quote": "Variance = mean of the squares of the deviations from the mean.",
+      "answer": "D",
+      "en": {
+        "q": "Assertion [A]: The variance of a data can be negative.\nReason [R]: Variance is the mean of the squares of the deviations from the mean.",
+        "options": [
+          "Both [A] and [R] are true and [R] is the correct explanation of [A]",
+          "Both [A] and [R] are true but [R] is not the correct explanation of [A]",
+          "[A] is true, [R] is false",
+          "[A] is false, [R] is true"
+        ],
+        "explanation": "Squares are never negative, so variance cannot be negative: [A] false, [R] true."
+      },
+      "ta": {
+        "q": "கூற்று [A]: ஒரு தரவின் விலக்க வர்க்கச் சராசரி எதிர் எண்ணாக இருக்கலாம்.\nகாரணம் [R]: விலக்க வர்க்கச் சராசரி என்பது சராசரியிலிருந்து விலக்கங்களின் வர்க்கங்களின் சராசரி.",
+        "options": [
+          "[A], [R] இரண்டும் சரி; [R] என்பது [A]-க்குச் சரியான விளக்கம்",
+          "[A], [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]-க்குச் சரியான விளக்கம் அன்று",
+          "[A] சரி; [R] தவறு",
+          "[A] தவறு; [R] சரி"
+        ],
+        "explanation": "வர்க்கங்கள் எதிர் எண்ணாகாது; எனவே விலக்க வர்க்கச் சராசரி எதிராகாது: [A] தவறு, [R] சரி."
+      }
+    },
+    {
+      "topic": "ratio-proportion-and-averages",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "apply",
+      "page": 302,
+      "quote": "The Arithmetic Mean or Mean of the given values is the sum of the values divided by their number.",
+      "answer": "D",
+      "en": {
+        "q": "The mean of 8 numbers is 15. If 4 is added to each number and then each is doubled, the new mean is",
+        "options": [
+          "30",
+          "34",
+          "19",
+          "38"
+        ],
+        "explanation": "New mean = 2 × (15 + 4) = 38."
+      },
+      "ta": {
+        "q": "8 எண்களின் சராசரி 15. ஒவ்வொன்றுடனும் 4 ஐக் கூட்டி, பின் ஒவ்வொன்றையும் இரு மடங்காக்கினால் புதிய சராசரி",
+        "options": [
+          "30",
+          "34",
+          "19",
+          "38"
+        ],
+        "explanation": "புதிய சராசரி = 2 × (15 + 4) = 38."
+      }
+    }
+  ]
+}
