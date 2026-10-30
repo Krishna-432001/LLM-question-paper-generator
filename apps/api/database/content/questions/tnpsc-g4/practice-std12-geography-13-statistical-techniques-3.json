@@ -1,0 +1,36 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 12 Geography Term-Full (English)",
+  "breadcrumb": "Std 12 Geography (English) — Unit 13: Statistical Techniques — Practice (பயிற்சி வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "geography-and-environment",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "apply",
+      "page": 198,
+      "quote": "X = A + (sum fd / N) x i",
+      "answer": "D",
+      "en": {
+        "q": "Heights of plants fall in the classes 0-10, 10-20, 20-30, 30-40 and 40-50 cm with frequencies 3, 7, 12, 5 and 3. Taking the assumed mean A = 25 and class size i = 10, the mean height is nearly:",
+        "options": [
+          "25.67 cm",
+          "24.93 cm",
+          "25.00 cm",
+          "24.33 cm"
+        ],
+        "explanation": "Midpoints 5, 15, 25, 35, 45 give d = -2, -1, 0, 1, 2 and fd = -6, -7, 0, 5, 6, so the sum fd = -2 and N = 30. Mean = 25 + (-2/30) x 10 = 24.33."
+      },
+      "ta": {
+        "q": "செடிகளின் உயரங்கள் 0-10, 10-20, 20-30, 30-40, 40-50 செ.மீ வகுப்புகளில் முறையே 3, 7, 12, 5, 3 அலைவெண்களைக் கொண்டுள்ளன. கற்பிதச் சராசரி A = 25, வகுப்பு அளவு i = 10 எனில் சராசரி உயரம் ஏறத்தாழ:",
+        "options": [
+          "25.67 செ.மீ",
+          "24.93 செ.மீ",
+          "25.00 செ.மீ",
+          "24.33 செ.மீ"
+        ],
+        "explanation": "நடுப்புள்ளிகள் 5, 15, 25, 35, 45; d = -2, -1, 0, 1, 2; fd = -6, -7, 0, 5, 6; கூட்டுத்தொகை fd = -2, N = 30. சராசரி = 25 + (-2/30) x 10 = 24.33 (ப.198)."
+      }
+    }
+  ]
+}
