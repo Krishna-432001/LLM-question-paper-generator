@@ -82,10 +82,10 @@
       "ta": {
         "q": "இவற்றுள் உயிரற்ற வளம் எது?",
         "options": [
-          "மீன்கள்",
-          "காடுகள்",
+          "கடல் மீன்கள்",
+          "அடர்ந்த காடுகள்",
           "இரும்புத் தாது",
-          "பயிர்கள்"
+          "வேளாண் பயிர்கள்"
         ],
         "explanation": "நிலம், நீர், காற்று, சூரிய ஒளி, தங்கம், இரும்பு, செம்பு, வெள்ளி போன்ற தாதுக்கள் உயிரற்ற வளங்கள்; காடுகள், மீன்கள், பயிர்கள் உயிரியல் வளங்கள்."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "Why is wind power called clean energy?",
         "options": [
-          "It needs no machines",
-          "It works only at night",
-          "It is produced from coal",
-          "Wind turbines do not produce any emissions"
+          "Wind turbines burn diesel to turn their blades",
+          "It is produced by burning wood and farm waste",
+          "It is produced from coal burnt in power plants",
+          "Wind turbines release no harmful emissions"
         ],
         "explanation": "Wind power is clean energy because wind turbines produce no emissions."
       },
       "ta": {
         "q": "காற்றாற்றல் தூய ஆற்றல் என அழைக்கப்படுவது ஏன்?",
         "options": [
-          "அதற்கு இயந்திரங்கள் தேவையில்லை",
-          "அது இரவில் மட்டுமே இயங்குகிறது",
-          "அது நிலக்கரியிலிருந்து உற்பத்தியாகிறது",
-          "காற்றாலைகள் எந்த உமிழ்வையும் வெளியிடுவதில்லை"
+          "காற்றாலைகள் தங்கள் இறக்கைகளைச் சுழற்ற டீசலை எரிக்கின்றன",
+          "அது விறகு, வேளாண் கழிவுகளை எரித்து உற்பத்தியாகிறது",
+          "அது மின்நிலையங்களில் எரிக்கப்படும் நிலக்கரியிலிருந்து உற்பத்தியாகிறது",
+          "காற்றாலைகள் தீங்கான உமிழ்வுகளை வெளியிடுவதில்லை"
         ],
         "explanation": "காற்றாலைகள் எந்த உமிழ்வையும் வெளியிடாததால் காற்றாற்றல் தூய ஆற்றல் எனப்படுகிறது."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "About three quarters of the copper produced is used for",
         "options": [
-          "electrical wires, telecommunication cables and electronics",
-          "minting coins",
-          "making ornaments",
-          "building ships"
+          "electrical wires, cables and electronics",
+          "minting coins and making medals",
+          "making ornaments and jewellery",
+          "building ships and boat hulls"
         ],
         "explanation": "Copper is a good conductor, so about three quarters of it goes into electrical wires, telecommunication cables and electronics."
       },
       "ta": {
         "q": "உற்பத்தியாகும் செம்பில் ஏறத்தாழ நான்கில் மூன்று பங்கு எதற்குப் பயன்படுகிறது?",
         "options": [
-          "மின்கம்பிகள், தொலைத்தொடர்புக் கம்பிவடங்கள், மின்னணுப் பொருள்கள்",
-          "நாணயங்கள் அச்சிட",
-          "அணிகலன்கள் செய்ய",
-          "கப்பல்கள் கட்ட"
+          "மின்கம்பிகள், வடங்கள், மின்னணுப் பொருள்கள் செய்ய",
+          "நாணயங்களையும் பதக்கங்களையும் உருவாக்க",
+          "அணிகலன்களையும் நகைகளையும் செய்ய",
+          "கப்பல்களையும் படகுகளையும் கட்ட"
         ],
         "explanation": "செம்பு நல்ல கடத்தி என்பதால், ஏறத்தாழ நான்கில் மூன்று பங்கு மின்கம்பிகள், தொலைத்தொடர்புக் கம்பிவடங்கள், மின்னணுப் பொருள்கள் செய்யப் பயன்படுகிறது."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "Duralumin is a hard, light alloy of",
         "options": [
-          "gold with silver",
-          "iron with carbon",
-          "copper with tin",
-          "aluminium with copper and other elements"
+          "gold mixed with silver and platinum",
+          "iron mixed with carbon and chromium",
+          "copper mixed with tin and zinc",
+          "aluminium mixed with copper and other metals"
         ],
         "explanation": "Adding small quantities of other metals to aluminium gives superior alloys such as duralumin, a hard, light alloy of aluminium with copper and other elements."
       },
       "ta": {
         "q": "டியூராலுமின் எதன் கடினமான, இலேசான உலோகக் கலவை?",
         "options": [
-          "தங்கத்துடன் வெள்ளி",
-          "இரும்புடன் கார்பன்",
-          "செம்புடன் வெள்ளீயம்",
-          "அலுமினியத்துடன் செம்பும் பிற தனிமங்களும்"
+          "தங்கத்துடன் வெள்ளியும் பிளாட்டினமும்",
+          "இரும்புடன் கார்பனும் குரோமியமும்",
+          "செம்புடன் வெள்ளீயமும் துத்தநாகமும்",
+          "அலுமினியத்துடன் செம்பும் பிற உலோகங்களும்"
         ],
         "explanation": "அலுமினியத்துடன் சிறிதளவு பிற உலோகங்களைச் சேர்த்தால் டியூராலுமின் போன்ற சிறந்த உலோகக் கலவைகள் கிடைக்கின்றன; இது அலுமினியம், செம்பு, பிற தனிமங்களின் கலவை."
       }
@@ -739,20 +739,20 @@
       "en": {
         "q": "Why is aluminium widely used in building aircraft, ships, automobiles and railway coaches?",
         "options": [
-          "It is the heaviest metal",
+          "It is heavy, brittle and costly",
           "It is light, tough and cheap",
-          "It is a non-metal",
-          "It is the rarest metal"
+          "It is a non-metal that burns easily",
+          "It is the rarest metal on earth"
         ],
         "explanation": "Aluminium is light, tough and cheap, and resists corrosion, so it is widely used in aircraft, ships, automobiles and railway coaches."
       },
       "ta": {
         "q": "விமானங்கள், கப்பல்கள், தானுந்துகள், இரயில் பெட்டிகள் கட்ட அலுமினியம் பரவலாகப் பயன்படுவது ஏன்?",
         "options": [
-          "அது மிகக் கனமான உலோகம்",
+          "அது கனமானது, எளிதில் உடைவது, விலை உயர்ந்தது",
           "அது இலேசானது, உறுதியானது, மலிவானது",
-          "அது ஓர் அலோகம்",
-          "அது மிக அரிய உலோகம்"
+          "அது எளிதில் எரியும் ஓர் அலோகம்",
+          "அது பூமியில் மிக அரிதான உலோகம்"
         ],
         "explanation": "அலுமினியம் இலேசானது, உறுதியானது, மலிவானது, அரிப்பைத் தாங்குவது; எனவே விமானங்கள், கப்பல்கள், தானுந்துகள், இரயில் பெட்டிகளில் பயன்படுகிறது."
       }
@@ -827,9 +827,9 @@
         "q": "Which country is the world's leading producer of manganese?",
         "options": [
           "South Africa",
-          "Chile",
-          "Mexico",
-          "Guinea"
+          "Argentina",
+          "Afghanistan",
+          "Papua New Guinea"
         ],
         "explanation": "South Africa leads in manganese production; China, Australia, Gabon, Brazil and India are other significant producers."
       },
@@ -837,9 +837,9 @@
         "q": "உலகில் மாங்கனீசு உற்பத்தியில் முதலிடம் வகிக்கும் நாடு எது?",
         "options": [
           "தென்னாப்பிரிக்கா",
-          "சிலி",
-          "மெக்சிகோ",
-          "கினியா"
+          "அர்ஜென்டினா",
+          "ஆப்கானிஸ்தான்",
+          "பப்புவா நியூ கினியா"
         ],
         "explanation": "மாங்கனீசு உற்பத்தியில் தென்னாப்பிரிக்கா முதலிடம்; சீனா, ஆஸ்திரேலியா, காபோன், பிரேசில், இந்தியா ஆகியவையும் குறிப்பிடத்தக்க உற்பத்தியாளர்கள்."
       }
@@ -913,9 +913,9 @@
       "en": {
         "q": "About 95 per cent of India's mica is found in which three states?",
         "options": [
-          "Punjab, Haryana and Bihar",
-          "Tamil Nadu, Kerala and Karnataka",
-          "Odisha, Goa and Gujarat",
+          "Punjab, Haryana and Uttar Pradesh",
+          "Tamil Nadu, Kerala and Maharashtra",
+          "Odisha, Goa and West Bengal",
           "Andhra Pradesh, Rajasthan and Jharkhand"
         ],
         "explanation": "About 95% of India's mica is in just three states: Andhra Pradesh, Rajasthan and Jharkhand."
@@ -923,9 +923,9 @@
       "ta": {
         "q": "இந்தியாவின் மைக்காவில் ஏறத்தாழ 95 சதவீதம் எந்த மூன்று மாநிலங்களில் கிடைக்கிறது?",
         "options": [
-          "பஞ்சாப், ஹரியானா, பீகார்",
-          "தமிழ்நாடு, கேரளா, கர்நாடகா",
-          "ஒடிசா, கோவா, குஜராத்",
+          "பஞ்சாப், ஹரியானா, உத்தரப் பிரதேசம்",
+          "தமிழ்நாடு, கேரளா, மகாராஷ்டிரா",
+          "ஒடிசா, கோவா, மேற்கு வங்காளம்",
           "ஆந்திரப் பிரதேசம், இராஜஸ்தான், ஜார்க்கண்ட்"
         ],
         "explanation": "இந்தியாவின் மைக்காவில் ஏறத்தாழ 95% ஆந்திரப் பிரதேசம், இராஜஸ்தான், ஜார்க்கண்ட் ஆகிய மூன்று மாநிலங்களில் மட்டுமே கிடைக்கிறது."
@@ -942,20 +942,20 @@
       "en": {
         "q": "Limestone is a sedimentary rock composed mainly of",
         "options": [
-          "skeletal fragments of marine organisms such as coral and molluscs",
-          "cooled volcanic lava",
-          "decayed plant matter in swamps",
-          "crystals of metallic ores"
+          "skeletal fragments of marine organisms",
+          "cooled lava from volcanic eruptions",
+          "decayed plant matter buried in swamps",
+          "crystals of metallic ores in veins"
         ],
         "explanation": "Limestone is made mainly of skeletal fragments of marine organisms like coral, foraminifera and molluscs; about 10% of sedimentary rocks are limestones."
       },
       "ta": {
         "q": "சுண்ணாம்புக்கல் என்ற படிவுப்பாறை முக்கியமாக எதனால் ஆனது?",
         "options": [
-          "பவளம், மெல்லுடலிகள் போன்ற கடல் உயிரிகளின் எலும்புக்கூட்டுத் துண்டுகள்",
-          "குளிர்ந்த எரிமலைக் குழம்பு",
-          "சதுப்பு நிலங்களில் மட்கிய தாவரப் பொருள்",
-          "உலோகத் தாதுக்களின் படிகங்கள்"
+          "கடல் உயிரிகளின் எலும்புக்கூட்டுத் துண்டுகள்",
+          "எரிமலை வெடிப்பில் வந்து குளிர்ந்த குழம்பு",
+          "சதுப்பு நிலங்களில் புதைந்து மட்கிய தாவரப் பொருள்",
+          "நரம்புப் பிளவுகளில் உள்ள உலோகத் தாதுப் படிகங்கள்"
         ],
         "explanation": "சுண்ணாம்புக்கல் முக்கியமாகப் பவளம், ஃபோராமினிஃபெரா, மெல்லுடலிகள் போன்ற கடல் உயிரிகளின் எலும்புக்கூட்டுத் துண்டுகளால் ஆனது; படிவுப்பாறைகளில் ஏறத்தாழ 10% சுண்ணாம்புக்கல்."
       }
@@ -1174,20 +1174,20 @@
       "en": {
         "q": "Where is natural gas usually found?",
         "options": [
-          "With petroleum deposits, released when crude oil is brought up",
-          "Inside coal seams only",
-          "In limestone caves",
-          "Dissolved in sea water"
+          "Along with deposits of petroleum",
+          "Inside beds of rock salt",
+          "Inside deep limestone caves",
+          "Dissolved in deep sea water"
         ],
         "explanation": "Natural gas is found with petroleum deposits and is released when crude oil is brought to the surface; it is a domestic and industrial fuel."
       },
       "ta": {
         "q": "இயற்கை எரிவாயு பொதுவாக எங்கு காணப்படுகிறது?",
         "options": [
-          "பெட்ரோலியப் படிவுகளுடன்; கச்சா எண்ணெயை மேலே கொண்டுவரும்போது வெளிப்படுகிறது",
-          "நிலக்கரிப் படுகைகளில் மட்டும்",
-          "சுண்ணாம்புக்கல் குகைகளில்",
-          "கடல்நீரில் கரைந்து"
+          "பெட்ரோலியப் படிவுகளுடன் சேர்ந்து",
+          "கல் உப்புப் படிவுகளுக்குள்",
+          "ஆழமான சுண்ணாம்புக்கல் குகைகளில்",
+          "ஆழமான கடல்நீரில் கரைந்து"
         ],
         "explanation": "இயற்கை எரிவாயு பெட்ரோலியப் படிவுகளுடன் காணப்படுகிறது; கச்சா எண்ணெயை மேற்பரப்புக்குக் கொண்டுவரும்போது வெளிப்படுகிறது; அது வீட்டு, தொழிற்சாலை எரிபொருள்."
       }

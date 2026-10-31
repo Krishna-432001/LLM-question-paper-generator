@@ -101,10 +101,10 @@
       "en": {
         "q": "Mercury and alcohol are mostly used in thermometers because they",
         "options": [
-          "are lighter than air",
-          "are colourless and odourless",
+          "are much lighter than the air",
+          "are colourless and odourless liquids",
           "freeze easily at room temperature",
-          "remain in liquid form even when the temperature changes"
+          "stay liquid over a wide range of temperatures"
         ],
         "explanation": "The liquid must stay liquid over the working range; its volume then changes with a small change of temperature."
       },
@@ -219,7 +219,7 @@
         "options": [
           "about 35 °C",
           "about −39 °C",
-          "exactly 0 °C",
+          "about 0 °C",
           "below −100 °C"
         ],
         "explanation": "Alcohol stays liquid below −100 °C, so it suits very cold regions where mercury would freeze at −39 °C."
@@ -229,8 +229,8 @@
         "options": [
           "ஏறத்தாழ 35 °C",
           "ஏறத்தாழ −39 °C",
-          "சரியாக 0 °C",
-          "−100 °C-க்கும் குறைவு"
+          "ஏறத்தாழ 0 °C",
+          "−100 °C-க்குக் கீழ்"
         ],
         "explanation": "ஆல்கஹால் −100 °C-க்கும் கீழே உறைவதால் மிகக் குளிரான இடங்களில் பயன்படுத்தலாம்; பாதரசம் −39 °C-இல் உறைந்துவிடும்."
       }
@@ -372,10 +372,10 @@
       "ta": {
         "q": "மருத்துவ வெப்பநிலைமானியைப் பயன்படுத்தும்போது கடைப்பிடிக்க வேண்டிய சரியான முன்னெச்சரிக்கை எது?",
         "options": [
-          "அளவீடு படிக்கும்போது பாதரச மட்டத்தைப் பார்வைக் கோட்டிற்கு நேராக வைத்தல்",
-          "வெப்பநிலைமானியின் குமிழைப் பிடித்தல்",
-          "சூடாக்க வெப்பநிலைமானியைச் சுடரில் காட்டுதல்",
-          "பயன்படுத்திய பின் சுடும் வெயிலில் வைத்தல்"
+          "அளவீடு படிக்கும்போது பாதரச மட்டத்தைக் கண் பார்வைக்கு நேராக வைத்தல்",
+          "வெப்பநிலைமானியை அதன் குமிழ்ப் பகுதியில் பிடித்துக்கொள்ளுதல்",
+          "சூடாக்குவதற்காக வெப்பநிலைமானியைச் சுடரில் காட்டுதல்",
+          "பயன்படுத்திய பின் சுடும் வெயிலில் வைத்துவிடுதல்"
         ],
         "explanation": "குமிழைப் பிடிக்கக் கூடாது; பாதரச மட்டத்தைப் பார்வைக் கோட்டில் வைத்துப் படிக்க வேண்டும்; சுடர், வெயிலில் வைக்கக் கூடாது."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "Laboratory thermometers are also used in industries because they",
         "options": [
-          "can measure higher temperatures than clinical thermometers",
-          "can be held under the tongue",
+          "can measure very high temperatures",
+          "can be placed safely under the tongue",
           "have a kink to hold the reading",
-          "show only the body temperature"
+          "are designed for body temperature readings"
         ],
         "explanation": "The lab thermometer works over a much wider range than the clinical thermometer, so it can record industrial temperatures."
       },
       "ta": {
         "q": "ஆய்வக வெப்பநிலைமானிகள் தொழிற்சாலைகளிலும் பயன்படுத்தப்படுகின்றன; ஏனெனில் அவை",
         "options": [
-          "மருத்துவ வெப்பநிலைமானியைவிட அதிக வெப்பநிலையை அளக்க வல்லவை",
-          "நாக்கின் அடியில் வைக்கத் தகுந்தவை",
+          "மிக அதிக வெப்பநிலைகளை அளக்க வல்லவை",
+          "நாக்கின் அடியில் பாதுகாப்பாக வைக்கத் தகுந்தவை",
           "அளவீட்டைத் தக்கவைக்க வளைவு கொண்டவை",
-          "உடல் வெப்பநிலையை மட்டுமே காட்டுபவை"
+          "உடல் வெப்பநிலை அளவீட்டுக்காக அமைக்கப்பட்டவை"
         ],
         "explanation": "ஆய்வக வெப்பநிலைமானியின் அளவீட்டு வரம்பு மருத்துவ வெப்பநிலைமானியைவிட மிகப் பெரியது; எனவே தொழிற்சாலை வெப்பநிலைகளை அளக்கலாம்."
       }
@@ -507,10 +507,10 @@
       "en": {
         "q": "Digital thermometers are replacing mercury thermometers mainly because mercury is",
         "options": [
-          "too light to measure temperature",
-          "toxic and difficult to dispose of when a thermometer breaks",
-          "solid at room temperature",
-          "not affected by heat"
+          "too light to measure any temperature",
+          "toxic and hard to clean up when it spills",
+          "solid at normal room temperature",
+          "not affected by changes in heat"
         ],
         "explanation": "A broken mercury thermometer releases toxic mercury; digital thermometers use a sensor instead of mercury."
       },
@@ -565,20 +565,20 @@
       "en": {
         "q": "A clinical thermometer should not be used to measure the temperature of hot milk because",
         "options": [
-          "it can read only the air temperature",
-          "milk would stick to the kink",
-          "mercury freezes in hot liquids",
-          "its small range may let the expanding mercury burst the glass"
+          "it reads the air temperature, not liquids",
+          "the milk would stick to the kink in it",
+          "the mercury would freeze in hot liquids",
+          "the mercury may expand and burst the glass"
         ],
         "explanation": "Hot milk is far above the 42 °C limit of a clinical thermometer; the mercury would expand so much that the glass could crack."
       },
       "ta": {
         "q": "சூடான பாலின் வெப்பநிலையை அளக்க மருத்துவ வெப்பநிலைமானியைப் பயன்படுத்தக் கூடாது; ஏனெனில்",
         "options": [
-          "அது காற்றின் வெப்பநிலையை மட்டுமே அளக்கும்",
-          "பால் வளைவில் ஒட்டிக்கொள்ளும்",
+          "அது திரவங்களை அல்ல, காற்றின் வெப்பநிலையை அளக்கும்",
+          "பால் அதன் வளைவில் ஒட்டிக்கொள்ளும்",
           "சூடான திரவத்தில் பாதரசம் உறைந்துவிடும்",
-          "அதன் குறுகிய வரம்பால், விரிவடையும் பாதரசம் கண்ணாடியை உடைத்துவிடக் கூடும்"
+          "பாதரசம் விரிவடைந்து கண்ணாடியை உடைத்துவிடக் கூடும்"
         ],
         "explanation": "சூடான பால் 42 °C என்ற வரம்பைவிட மிக அதிகம்; பாதரசம் அதிகமாக விரிவடைந்து கண்ணாடி வெடிக்கக் கூடும்."
       }
@@ -624,7 +624,7 @@
         "q": "The Fahrenheit scale is named after",
         "options": [
           "a Swedish astronomer",
-          "a German physicist, Daniel Gabriel Fahrenheit",
+          "a German physicist",
           "a Glasgow engineer and physicist",
           "an Italian astronomer"
         ],
@@ -634,7 +634,7 @@
         "q": "பாரன்ஹீட் வெப்பநிலை அளவீடு யாருடைய பெயரால் அழைக்கப்படுகிறது?",
         "options": [
           "ஒரு ஸ்வீடன் நாட்டு வானியலாளர்",
-          "ஜெர்மன் இயற்பியலாளர் டேனியல் கேப்ரியல் பாரன்ஹீட்",
+          "ஜெர்மன் இயற்பியலாளர்",
           "கிளாஸ்கோ நகரப் பொறியாளரும் இயற்பியலாளரும்",
           "ஓர் இத்தாலிய வானியலாளர்"
         ],
@@ -653,7 +653,7 @@
         "q": "The Kelvin scale is also called the absolute scale because it",
         "options": [
           "has the freezing point of water as 32",
-          "is used only by the United States",
+          "is used mostly in the United States",
           "starts from absolute zero temperature",
           "is measured in degrees Celsius"
         ],
@@ -663,8 +663,8 @@
         "q": "கெல்வின் அளவீடு தனி (absolute) அளவீடு என்றும் அழைக்கப்படுவதற்குக் காரணம், அது",
         "options": [
           "நீரின் உறைநிலையை 32 எனக் கொண்டுள்ளது",
-          "அமெரிக்காவில் மட்டுமே பயன்படுத்தப்படுகிறது",
-          "தனிச்சுழி (absolute zero) வெப்பநிலையிலிருந்து தொடங்குகிறது",
+          "பெரும்பாலும் அமெரிக்காவில் பயன்படுத்தப்படுகிறது",
+          "தனிச்சுழி வெப்பநிலையிலிருந்து தொடங்குகிறது",
           "செல்சியஸ் பாகைகளில் அளக்கப்படுகிறது"
         ],
         "explanation": "கெல்வின் அளவீடு தனிச்சுழி வெப்பநிலையான 0 K-இல் தொடங்குவதால் அதில் எதிர் மதிப்புகள் இல்லை."
@@ -826,20 +826,20 @@
       "en": {
         "q": "At which temperature do the Celsius and Fahrenheit scales show the same reading?",
         "options": [
-          "−40",
-          "0",
-          "32",
-          "40"
+          "−40 °",
+          "0 °",
+          "32 °",
+          "40 °"
         ],
         "explanation": "Putting F = C in (F − 32)/9 = C/5 gives 5C − 160 = 9C, so C = F = −40."
       },
       "ta": {
         "q": "எந்த வெப்பநிலையில் செல்சியஸ், பாரன்ஹீட் அளவீடுகள் ஒரே மதிப்பைக் காட்டும்?",
         "options": [
-          "−40",
-          "0",
-          "32",
-          "40"
+          "−40 °",
+          "0 °",
+          "32 °",
+          "40 °"
         ],
         "explanation": "F = C எனப் பிரதியிட்டால் 5C − 160 = 9C; எனவே C = F = −40."
       }

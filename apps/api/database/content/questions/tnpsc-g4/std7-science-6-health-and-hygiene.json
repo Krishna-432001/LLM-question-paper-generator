@@ -24,9 +24,9 @@
       "ta": {
         "q": "தூக்கத்தையும் விழிப்பையும் கட்டுப்படுத்தும் 'உடல் கடிகாரம்' எனப் பாடநூலில் காட்டப்படும் மூளைப் பகுதி எது?",
         "options": [
-          "சூப்ராகயாஸ்மேட்டிக் நியூக்ளியஸ்",
-          "சிறுமூளை",
-          "முகுளம்",
+          "சூப்ராகயாஸ்மேட்டிக் கருவம்",
+          "சிறுமூளைப் பகுதி",
+          "மூளைத்தண்டின் முகுளம்",
           "பிட்யூட்டரி சுரப்பி"
         ],
         "explanation": "பாடத்தின் தொடக்கப் படம் சூப்ராகயாஸ்மேட்டிக் நியூக்ளியஸை உடல் கடிகாரம் எனக் குறிப்பிடுகிறது."
@@ -101,20 +101,20 @@
       "en": {
         "q": "According to the book, health is",
         "options": [
-          "only freedom from stress",
-          "only the absence of disease",
-          "only physical fitness",
-          "a state of complete physical, mental and social well-being, not merely the absence of disease"
+          "freedom from stress and worry",
+          "the state of being free from disease",
+          "physical fitness and strength",
+          "complete physical, mental and social well-being"
         ],
         "explanation": "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity."
       },
       "ta": {
         "q": "பாடநூலின்படி நலம் (Health) என்பது",
         "options": [
-          "மன அழுத்தம் இல்லாமை மட்டும்",
-          "நோய் இல்லாத நிலை மட்டும்",
-          "உடல் தகுதி மட்டும்",
-          "முழுமையான உடல், மன, சமூக நல்வாழ்வு நிலை; நோயின்மை மட்டுமல்ல"
+          "மன அழுத்தமும் கவலையும் இல்லாத நிலை",
+          "நோய் இல்லாமல் இருக்கும் நிலை",
+          "உடல் தகுதியும் வலிமையும்",
+          "முழுமையான உடல், மன, சமூக நல்வாழ்வு"
         ],
         "explanation": "நலம் என்பது முழுமையான உடல், மன, சமூக நல்வாழ்வு நிலை; நோயோ இயலாமையோ இல்லாதிருப்பது மட்டுமன்று."
       }
@@ -217,9 +217,9 @@
       "en": {
         "q": "Brushing the teeth twice a day prevents the formation of",
         "options": [
-          "dentine",
-          "enamel",
-          "saliva",
+          "dentine of the teeth",
+          "enamel of the teeth",
+          "saliva in the mouth",
           "tartar and plaque"
         ],
         "explanation": "Brushing two times a day prevents tartar and plaque forming on the teeth and gums."
@@ -227,10 +227,10 @@
       "ta": {
         "q": "நாளுக்கு இருமுறை பல் துலக்குவதால் எதன் உருவாக்கம் தடுக்கப்படுகிறது?",
         "options": [
-          "டென்டைன்",
-          "பல் எனாமல்",
-          "உமிழ்நீர்",
-          "பற்காரை, பற்படலம் (tartar, plaque)"
+          "பற்களின் டென்டைன்",
+          "பற்களின் எனாமல்",
+          "வாயிலுள்ள உமிழ்நீர்",
+          "பற்காரை, பற்படலம்"
         ],
         "explanation": "நாளுக்கு இருமுறை பல் துலக்குவது பற்களிலும் ஈறுகளிலும் பற்காரை, பற்படலம் உருவாவதைத் தடுக்கிறது."
       }
@@ -256,7 +256,7 @@
       "ta": {
         "q": "உணவை மென்று சுவைக்கும் செயல் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "மெல்லுதல் (mastication)",
+          "மெல்லுதல்",
           "செரித்தல்",
           "உட்கிரகித்தல்",
           "தன்மயமாதல்"
@@ -402,7 +402,7 @@
         "q": "'இளஞ்சிவப்புக் கண்' (pink eye) என அழைக்கப்படும் கண் நோய் எது?",
         "options": [
           "மாலைக்கண் நோய்",
-          "கன்ஜங்க்டிவைட்டிஸ் (கண் இமைப்படல அழற்சி)",
+          "கன்ஜங்க்டிவைட்டிஸ்",
           "நிறக்குருடு",
           "கண்புரை"
         ],
@@ -420,9 +420,9 @@
       "en": {
         "q": "Which statement about colour blindness is correct?",
         "options": [
-          "It spreads by sneezing",
+          "It spreads by sneezing and coughing",
           "It is caused by lack of vitamin A",
-          "It is a genetic condition with no known cure; filtered glasses or lenses can help",
+          "It is a genetic condition with no known cure",
           "It is cured by antibiotic eye drops"
         ],
         "explanation": "Colour blindness is genetic and has no known cure; contact lenses and glasses with filters help."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "நிறக்குருடு பற்றிய சரியான கூற்று எது?",
         "options": [
-          "இது தும்மல் மூலம் பரவுகிறது",
+          "இது தும்மல், இருமல் மூலம் பரவுகிறது",
           "இது வைட்டமின் A குறைபாட்டால் வருகிறது",
-          "இது மரபு வழி நிலை; அறியப்பட்ட மருந்து இல்லை; வடிகட்டி கொண்ட கண்ணாடிகள் உதவும்",
+          "இது மரபு வழி நிலை; அறியப்பட்ட மருந்து இல்லை",
           "நுண்ணுயிர் எதிர்ப்புக் கண் சொட்டு மருந்தால் குணமாகும்"
         ],
         "explanation": "நிறக்குருடு மரபு வழி நிலை; அதற்கு அறியப்பட்ட மருந்து இல்லை; வடிகட்டி கொண்ட கண்ணாடிகள், லென்ஸ்கள் உதவும்."
@@ -449,20 +449,20 @@
       "en": {
         "q": "What keeps the hair smooth?",
         "options": [
-          "Dust on the scalp",
-          "Sweat from the scalp",
-          "Dead skin cells",
-          "Oil produced by the hair follicles"
+          "Dust that settles on the scalp",
+          "Sweat from the scalp skin",
+          "Dead skin cells on the scalp",
+          "Oil from the hair follicles"
         ],
         "explanation": "The hair follicles produce oil which keeps the hair smooth."
       },
       "ta": {
         "q": "முடியை மிருதுவாக வைத்திருப்பது எது?",
         "options": [
-          "தலைத்தோலில் உள்ள தூசு",
-          "தலைத்தோலின் வியர்வை",
-          "இறந்த தோல் செல்கள்",
-          "மயிர்க்கால்கள் சுரக்கும் எண்ணெய்"
+          "தலைத்தோலில் படியும் தூசு",
+          "தலைத்தோலின் வியர்வை நீர்",
+          "தலைத்தோலில் இறந்த செல்கள்",
+          "மயிர்க்கால்களின் எண்ணெய்"
         ],
         "explanation": "முடி வளரும் மயிர்க்கால்கள் சுரக்கும் எண்ணெய் முடியை மிருதுவாக வைக்கிறது."
       }
@@ -664,7 +664,7 @@
         "options": [
           "சின்னம்மை",
           "ரேபிஸ்",
-          "ஹெபடைடிஸ் (மஞ்சள் காமாலை)",
+          "ஹெபடைடிஸ்",
           "கன்ஜங்க்டிவைட்டிஸ்"
         ],
         "explanation": "A முதல் E வரையிலான ஹெபடைடிஸ் வைரஸ்களால் வரும் இந்நோய் மாசடைந்த நீர், ஊசிகளைப் பகிர்தல், இரத்தம் செலுத்துதல் மூலம் பரவுகிறது."
@@ -770,7 +770,7 @@
         "options": [
           "lymph glands",
           "blood platelets",
-          "neurons (nerves)",
+          "neurons",
           "digestive tract"
         ],
         "explanation": "The rabies virus in the dog's saliva enters the brain via neurons."
@@ -780,7 +780,7 @@
         "options": [
           "நிணநீர்ச் சுரப்பிகள்",
           "இரத்தத் தட்டுகள்",
-          "நரம்பு செல்கள் (நியூரான்கள்)",
+          "நரம்பு செல்கள்",
           "செரிமானப் பாதை"
         ],
         "explanation": "நாயின் உமிழ்நீரில் உள்ள ரேபிஸ் வைரஸ் நியூரான்கள் வழியாக மூளைக்குள் நுழைகிறது."
@@ -826,20 +826,20 @@
       "en": {
         "q": "Why do antibiotics not help to cure non-communicable diseases?",
         "options": [
-          "They are not caused by germs or other infecting organisms",
-          "They are caused only by viruses",
-          "They spread too fast through air",
-          "They affect only children"
+          "They are not caused by germs or infections",
+          "They are caused mostly by viruses in the air",
+          "They spread too fast through the air",
+          "They mostly affect very young children"
         ],
         "explanation": "Non-communicable diseases are never caused by germs, so medicines that fight germs do not cure them."
       },
       "ta": {
         "q": "தொற்றா நோய்களை நுண்ணுயிர் எதிர்ப்பிகள் ஏன் குணப்படுத்துவதில்லை?",
         "options": [
-          "அவை கிருமிகளாலோ தொற்றும் உயிரிகளாலோ ஏற்படுவதில்லை",
-          "அவை வைரஸ்களால் மட்டுமே ஏற்படுகின்றன",
+          "அவை கிருமிகளாலோ தொற்றாலோ ஏற்படுவதில்லை",
+          "அவை பெரும்பாலும் காற்றிலுள்ள வைரஸ்களால் ஏற்படுகின்றன",
           "அவை காற்றில் மிக வேகமாகப் பரவுகின்றன",
-          "அவை குழந்தைகளை மட்டுமே பாதிக்கின்றன"
+          "அவை பெரும்பாலும் சிறு குழந்தைகளையே பாதிக்கின்றன"
         ],
         "explanation": "தொற்றா நோய்கள் கிருமிகளால் ஏற்படுவதில்லை; எனவே கிருமிகளை எதிர்க்கும் மருந்துகள் அவற்றைக் குணப்படுத்தா."
       }
@@ -865,10 +865,10 @@
       "ta": {
         "q": "இவற்றுள் தொற்றா நோய் எது?",
         "options": [
-          "காலரா",
-          "இரைப்பைப் புண் (அல்சர்)",
-          "சின்னம்மை",
-          "காசநோய்"
+          "காலரா நோய்",
+          "இரைப்பைப் புண்",
+          "சின்னம்மை நோய்",
+          "காசநோய்த் தொற்று"
         ],
         "explanation": "வெளியிலிருந்து உடலில் நுழையும் தீங்கான காரணிகளால் வரும் தொற்றா நோய்களில் இரைப்பைப் புண்ணும் ஒன்று; மற்றவை ஒருவரிடமிருந்து மற்றவருக்குப் பரவும்."
       }
@@ -884,20 +884,20 @@
       "en": {
         "q": "Leucoderma is caused by",
         "options": [
-          "lack of iron in food",
-          "a virus spread by touch",
-          "partial or total loss of melanin pigment in the skin",
-          "bacteria in drinking water"
+          "lack of iron in the daily food",
+          "a virus that spreads by touch",
+          "loss of melanin pigment in the skin",
+          "bacteria in contaminated drinking water"
         ],
         "explanation": "Leucoderma is a non-communicable condition caused by loss of skin pigment (melanin); it does not spread by touching or sharing food."
       },
       "ta": {
         "q": "வெண்புள்ளி (லியூக்கோடெர்மா) எதனால் ஏற்படுகிறது?",
         "options": [
-          "உணவில் இரும்புச்சத்துக் குறைவால்",
-          "தொடுதலால் பரவும் வைரஸால்",
-          "தோலில் மெலனின் நிறமி பகுதியாகவோ முழுமையாகவோ இழக்கப்படுவதால்",
-          "குடிநீரில் உள்ள பாக்டீரியாவால்"
+          "அன்றாட உணவில் இரும்புச்சத்துக் குறைவால்",
+          "தொடுதலால் பரவும் வைரஸ் தொற்றால்",
+          "தோலில் மெலனின் நிறமி இழக்கப்படுவதால்",
+          "மாசடைந்த குடிநீரிலுள்ள பாக்டீரியாவால்"
         ],
         "explanation": "வெண்புள்ளி தோலின் மெலனின் நிறமி இழப்பால் வரும் தொற்றா நோய்; தொடுதல், உணவைப் பகிர்தல் மூலம் பரவாது."
       }
@@ -1000,20 +1000,20 @@
       "en": {
         "q": "Which foods does the book list for treating and preventing anaemia?",
         "options": [
-          "Fried snacks and soft drinks",
-          "Sugar, salt and oil",
+          "Fried snacks, chips and soft drinks",
+          "Refined sugar, salt and cooking oil",
           "Moringa leaves, dates and green leafy vegetables",
-          "Polished rice and maida"
+          "Polished rice, maida and white bread"
         ],
         "explanation": "Iron-rich foods such as moringa leaves, dates, liver, green leafy vegetables, beans, peas, lentils and green banana help against anaemia."
       },
       "ta": {
         "q": "இரத்தசோகையைத் தடுக்கவும் சரிசெய்யவும் பாடநூல் குறிப்பிடும் உணவுகள் எவை?",
         "options": [
-          "பொரித்த தின்பண்டங்கள், குளிர்பானங்கள்",
-          "சர்க்கரை, உப்பு, எண்ணெய்",
+          "பொரித்த தின்பண்டங்கள், சிப்ஸ், குளிர்பானங்கள்",
+          "சுத்திகரித்த சர்க்கரை, உப்பு, சமையல் எண்ணெய்",
           "முருங்கைக் கீரை, பேரீச்சை, பச்சைக் கீரைகள்",
-          "தீட்டிய அரிசி, மைதா"
+          "தீட்டிய அரிசி, மைதா, வெள்ளை ரொட்டி"
         ],
         "explanation": "முருங்கைக் கீரை, பேரீச்சை, ஈரல், பச்சைக் கீரைகள், அவரை, பட்டாணி, பருப்பு, வாழைக்காய் போன்ற இரும்புச்சத்து உணவுகள் உதவும்."
       }
@@ -1029,20 +1029,20 @@
       "en": {
         "q": "First aid is",
         "options": [
-          "surgery done by a doctor",
+          "surgery done by a doctor in hospital",
           "the treatment given after admission to hospital",
-          "a vaccination given in childhood",
-          "the immediate treatment given to a victim of injury or sudden illness before medical help is available"
+          "a vaccination given to children at school",
+          "immediate treatment given to a victim before medical help"
         ],
         "explanation": "First aid is the immediate treatment before medical help arrives; it saves life, prevents further bleeding and relieves pain."
       },
       "ta": {
         "q": "முதலுதவி என்பது",
         "options": [
-          "மருத்துவர் செய்யும் அறுவைச் சிகிச்சை",
+          "மருத்துவமனையில் மருத்துவர் செய்யும் அறுவைச் சிகிச்சை",
           "மருத்துவமனையில் சேர்த்த பிறகு அளிக்கப்படும் சிகிச்சை",
-          "குழந்தைப் பருவத்தில் போடப்படும் தடுப்பூசி",
-          "காயம் அல்லது திடீர் நோயால் பாதிக்கப்பட்டவருக்கு மருத்துவ உதவி கிடைக்கும் முன் அளிக்கப்படும் உடனடிச் சிகிச்சை"
+          "பள்ளியில் குழந்தைகளுக்குப் போடப்படும் தடுப்பூசி",
+          "மருத்துவ உதவிக்கு முன் பாதிக்கப்பட்டவருக்கு அளிக்கும் உடனடிச் சிகிச்சை"
         ],
         "explanation": "மருத்துவ உதவி வரும் முன் அளிக்கப்படும் உடனடிச் சிகிச்சையே முதலுதவி; அது உயிரைக் காக்கும், இரத்தப்போக்கைத் தடுக்கும், வலியைக் குறைக்கும்."
       }
@@ -1116,20 +1116,20 @@
       "en": {
         "q": "In a severe burn where blisters have appeared, the right first aid is to",
         "options": [
-          "burst the blisters",
-          "pour plenty of cold water on it",
-          "avoid water and cover the area with a clean non-sticking cloth",
-          "apply oil and leave it open"
+          "burst the blisters with a clean pin",
+          "pour plenty of cold water over the burn",
+          "cover the burn with a clean non-sticking cloth",
+          "apply oil on the burn and leave it open"
         ],
         "explanation": "For severe burns with blisters, water should be avoided and the area covered with a clean non-sticking cloth; large burns need medical attention. Minor burns are washed with cold water."
       },
       "ta": {
         "q": "கொப்புளங்கள் தோன்றிய கடுமையான தீக்காயத்துக்குச் சரியான முதலுதவி",
         "options": [
-          "கொப்புளங்களை உடைத்தல்",
-          "நிறையக் குளிர்ந்த நீரை ஊற்றுதல்",
-          "நீரைத் தவிர்த்து, ஒட்டாத சுத்தமான துணியால் மூடுதல்",
-          "எண்ணெய் தடவித் திறந்து வைத்தல்"
+          "சுத்தமான ஊசியால் கொப்புளங்களை உடைத்தல்",
+          "தீக்காயத்தின் மேல் நிறையக் குளிர்ந்த நீரை ஊற்றுதல்",
+          "ஒட்டாத சுத்தமான துணியால் தீக்காயத்தை மூடுதல்",
+          "தீக்காயத்தில் எண்ணெய் தடவித் திறந்து வைத்தல்"
         ],
         "explanation": "கொப்புளங்களுடன் கூடிய கடுமையான தீக்காயத்தில் நீரைத் தவிர்த்து, ஒட்டாத சுத்தமான துணியால் மூட வேண்டும்; சிறு தீக்காயத்தை மட்டுமே குளிர்ந்த நீரால் கழுவலாம்."
       }
@@ -1145,20 +1145,20 @@
       "en": {
         "q": "How does a scratch differ from a cut?",
         "options": [
-          "A scratch needs skin grafting",
-          "A scratch always goes into the muscle",
-          "A scratch never bleeds or turns red",
-          "A scratch is surface damage that does not reach the lower tissues"
+          "A scratch needs skin grafting to heal",
+          "A scratch goes deep into the muscle",
+          "A scratch bleeds heavily and turns red",
+          "A scratch is damage to the surface of the skin"
         ],
         "explanation": "A cut can go through the skin into the muscle below; a scratch is surface damage that does not penetrate the lower tissues."
       },
       "ta": {
         "q": "கீறல் (scratch) வெட்டுக்காயத்திலிருந்து எவ்வாறு வேறுபடுகிறது?",
         "options": [
-          "கீறலுக்குத் தோல் ஒட்டுதல் தேவை",
-          "கீறல் எப்போதும் தசை வரை செல்லும்",
-          "கீறலில் இரத்தமோ சிவப்போ வராது",
-          "கீறல் கீழ்த் திசுக்களை எட்டாத மேற்பரப்புச் சேதம்"
+          "கீறல் குணமாகத் தோல் ஒட்டுதல் தேவை",
+          "கீறல் தசையின் ஆழம் வரை செல்லும்",
+          "கீறலில் அதிக இரத்தம் வழிந்து சிவக்கும்",
+          "கீறல் தோலின் மேற்பரப்பில் ஏற்படும் சேதம்"
         ],
         "explanation": "வெட்டுக்காயம் தோலைக் கடந்து தசை வரை செல்லலாம்; கீறல் கீழ்த் திசுக்களை ஊடுருவாத மேற்பரப்புச் சேதம் மட்டுமே."
       }
@@ -1174,20 +1174,20 @@
       "en": {
         "q": "While helping someone who is bleeding, why should you wear gloves or a clean plastic bag on your hands?",
         "options": [
-          "To protect yourself from HIV and other blood-borne diseases",
-          "To keep the wound warm",
-          "To stop the bleeding by itself",
-          "To avoid leaving fingerprints"
+          "To protect yourself from blood-borne diseases",
+          "To keep the wound warm and dry",
+          "To stop the bleeding on its own",
+          "To avoid leaving fingerprints on the wound"
         ],
         "explanation": "Gloves or a clean plastic bag protect the helper from HIV and other blood-borne diseases."
       },
       "ta": {
         "q": "இரத்தம் வழியும் ஒருவருக்கு உதவும்போது கைகளில் கையுறை அல்லது சுத்தமான நெகிழிப் பையை ஏன் அணிய வேண்டும்?",
         "options": [
-          "HIV, இரத்தம் மூலம் பரவும் பிற நோய்களிலிருந்து நம்மைக் காக்க",
-          "காயத்தைச் சூடாக வைக்க",
-          "இரத்தப்போக்கைத் தானே நிறுத்த",
-          "கைரேகை பதியாமல் இருக்க"
+          "இரத்தம் மூலம் பரவும் நோய்களிலிருந்து நம்மைக் காக்க",
+          "காயத்தைச் சூடாகவும் உலர்வாகவும் வைக்க",
+          "இரத்தப்போக்கைத் தானாகவே நிறுத்த",
+          "காயத்தில் கைரேகை பதியாமல் இருக்க"
         ],
         "explanation": "கையுறை அல்லது சுத்தமான நெகிழிப் பை உதவுபவரை HIV, இரத்தம் மூலம் பரவும் பிற நோய்களிலிருந்து காக்கிறது."
       }
@@ -1203,20 +1203,20 @@
       "en": {
         "q": "Complete the analogy — Tuberculosis : Air :: Cholera : ?",
         "options": [
-          "Mosquito bite",
+          "Bite of an infected mosquito",
           "Contaminated food and water",
-          "Dog bite",
-          "Blood transfusion"
+          "Bite of an infected dog",
+          "Blood transfusion from a donor"
         ],
         "explanation": "TB spreads through air; cholera spreads through contaminated food or water."
       },
       "ta": {
         "q": "ஒப்புமையை நிறைவு செய்க — காசநோய் : காற்று :: காலரா : ?",
         "options": [
-          "கொசுக்கடி",
+          "நோயுற்ற கொசுவின் கடி",
           "மாசடைந்த உணவும் நீரும்",
-          "நாய்க்கடி",
-          "இரத்தம் செலுத்துதல்"
+          "நோயுற்ற நாயின் கடி",
+          "கொடையாளரின் இரத்தம் செலுத்துதல்"
         ],
         "explanation": "காசநோய் காற்றின் மூலம் பரவும்; காலரா மாசடைந்த உணவு, நீர் மூலம் பரவும்."
       }
@@ -1232,8 +1232,8 @@
       "en": {
         "q": "Which medicine does the book call the 'Queen of Medicines'?",
         "options": [
-          "Aspirin",
-          "Quinine",
+          "Paracetamol",
+          "Chloroquine",
           "Penicillin",
           "Insulin"
         ],
@@ -1242,8 +1242,8 @@
       "ta": {
         "q": "பாடநூல் 'மருந்துகளின் அரசி' என அழைக்கும் மருந்து எது?",
         "options": [
-          "ஆஸ்பிரின்",
-          "குவினைன்",
+          "பாராசிட்டமால்",
+          "குளோரோகுயின்",
           "பெனிசிலின்",
           "இன்சுலின்"
         ],

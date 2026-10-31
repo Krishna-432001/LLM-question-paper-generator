@@ -14,9 +14,9 @@
       "en": {
         "q": "Why are North and South America often called the 'New World'?",
         "options": [
-          "They were discovered by Europeans in the late fifteenth century",
+          "They were found by Europeans in the late fifteenth century",
           "They are the youngest continents geologically",
-          "They were the last to be inhabited by people",
+          "They were formed by volcanic eruptions in recent times",
           "They lie entirely in the Southern Hemisphere"
         ],
         "explanation": "The Americas are called the New World because Europeans discovered them in the late fifteenth century; Columbus reached them in 1492."
@@ -26,7 +26,7 @@
         "options": [
           "அவை 15 ஆம் நூற்றாண்டின் இறுதியில் ஐரோப்பியரால் கண்டறியப்பட்டன",
           "அவை புவியியல் அடிப்படையில் மிக இளைய கண்டங்கள்",
-          "அவற்றில் கடைசியாக மக்கள் குடியேறினர்",
+          "அவை சமீப காலத்தில் எரிமலை வெடிப்புகளால் உருவாயின",
           "அவை முழுமையாகத் தென் அரைக்கோளத்தில் உள்ளன"
         ],
         "explanation": "15 ஆம் நூற்றாண்டின் இறுதியில் ஐரோப்பியர் கண்டறிந்ததால் அமெரிக்கக் கண்டங்கள் புதிய உலகம் எனப்படுகின்றன; கொலம்பஸ் 1492 இல் அங்கு சென்றார்."
@@ -230,7 +230,7 @@
           "மிசிசிப்பி கழிமுகம்",
           "கிராண்ட் கேன்யன்",
           "பெரும் வடிநிலம்",
-          "மரணப் பள்ளத்தாக்கு (டெத் வேலி)"
+          "மரணப் பள்ளத்தாக்கு"
         ],
         "explanation": "கடல் மட்டத்துக்குக் கீழே ஏறத்தாழ 86 மீ ஆழமுள்ள டெத் வேலி வட அமெரிக்காவின் மிகத் தாழ்வான பகுதி; மெக்கின்லி (தெனாலி) சிகரம் மிக உயரமானது."
       }
@@ -246,7 +246,7 @@
       "en": {
         "q": "Which is the highest peak of North America?",
         "options": [
-          "Mount McKinley (Denali)",
+          "Mount McKinley",
           "Mount Logan",
           "Mount Elbert",
           "Mount Mitchell"
@@ -256,7 +256,7 @@
       "ta": {
         "q": "வட அமெரிக்காவின் மிக உயரமான சிகரம் எது?",
         "options": [
-          "மெக்கின்லி சிகரம் (தெனாலி)",
+          "மெக்கின்லி சிகரம்",
           "லோகன் சிகரம்",
           "எல்பர்ட் சிகரம்",
           "மிட்செல் சிகரம்"
@@ -314,8 +314,8 @@
       "ta": {
         "q": "ராக்கி மலைகளும் கடற்கரை மலைத்தொடரும் சேர்ந்து எவ்வாறு அழைக்கப்படுகின்றன?",
         "options": [
-          "அப்பலேச்சியன்",
-          "சியரா மாட்ரே",
+          "அப்பலேச்சிய மலைத்தொடர்",
+          "சியரா மாட்ரே மலைகள்",
           "மேற்குக் கார்டில்லெராக்கள்",
           "லாரன்ஷியன் பீடபூமி"
         ],
@@ -333,20 +333,20 @@
       "en": {
         "q": "Why are the Cordilleras of North America considered part of the Pacific 'Ring of Fire'?",
         "options": [
-          "They contain the Great Lakes",
-          "They have the hottest deserts",
-          "They are covered by tropical forests",
-          "They have many active volcanoes and are subject to earthquakes"
+          "They contain a chain of huge freshwater lakes",
+          "They are covered by thick polar ice sheets",
+          "They are covered by dense tropical rainforests",
+          "They have many active volcanoes and earthquakes"
         ],
         "explanation": "The Cordilleras have many active volcanoes and are prone to earthquakes, so they are part of the Pacific Ring of Fire."
       },
       "ta": {
         "q": "வட அமெரிக்கக் கார்டில்லெராக்கள் பசிபிக் 'நெருப்பு வளையத்தின்' பகுதியாகக் கருதப்படுவது ஏன்?",
         "options": [
-          "அவற்றில் பேரேரிகள் உள்ளன",
-          "அங்கு மிக வெப்பமான பாலைவனங்கள் உள்ளன",
-          "அவை வெப்பமண்டலக் காடுகளால் சூழப்பட்டவை",
-          "அங்கு பல செயல்படும் எரிமலைகள் உள்ளன; நிலநடுக்கங்களும் ஏற்படுகின்றன"
+          "அவை பெரிய நன்னீர் ஏரிகளின் தொடரைக் கொண்டுள்ளன",
+          "அவை தடித்த துருவப் பனிப்படலங்களால் மூடப்பட்டுள்ளன",
+          "அவை அடர்ந்த வெப்பமண்டல மழைக்காடுகளால் சூழப்பட்டவை",
+          "அங்கு பல செயல்படும் எரிமலைகளும் நிலநடுக்கங்களும் உள்ளன"
         ],
         "explanation": "கார்டில்லெராக்களில் பல செயல்படும் எரிமலைகள் உள்ளன; நிலநடுக்கங்களும் அடிக்கடி ஏற்படுவதால் அவை பசிபிக் நெருப்பு வளையத்தின் பகுதியாகும்."
       }
@@ -392,19 +392,19 @@
         "q": "Which statement about the Appalachian Highlands is correct?",
         "options": [
           "They are young fold mountains higher than the Rockies",
-          "They are old fold mountains, worn down and rich in minerals like coal and iron ore",
+          "They are old, worn-down fold mountains rich in minerals",
           "They form a continuous chain of active volcanoes",
-          "They are the youngest coastal plains"
+          "They are the youngest coastal plains in the world"
         ],
         "explanation": "The Appalachians are old fold mountains worn down by weathering, lower than the western highlands and rich in coal, iron ore and copper."
       },
       "ta": {
         "q": "அப்பலேச்சியன் உயர்நிலங்கள் பற்றிய சரியான கூற்று எது?",
         "options": [
-          "அவை ராக்கியை விட உயரமான இளம் மடிப்பு மலைகள்",
-          "அவை தேய்ந்த பழைய மடிப்பு மலைகள்; நிலக்கரி, இரும்புத் தாது போன்ற கனிமங்கள் நிறைந்தவை",
+          "அவை ராக்கி மலைகளை விட உயரமான இளம் மடிப்பு மலைகள்",
+          "அவை தேய்ந்த, கனிமங்கள் நிறைந்த பழைய மடிப்பு மலைகள்",
           "அவை செயல்படும் எரிமலைகளின் தொடர்ச்சியான சங்கிலி",
-          "அவை மிக இளைய கடற்கரைச் சமவெளிகள்"
+          "அவை உலகின் மிக இளைய கடற்கரைச் சமவெளிகள்"
         ],
         "explanation": "அப்பலேச்சியன் வானிலைச் சிதைவால் தேய்ந்த பழைய மடிப்பு மலைகள்; மேற்கு உயர்நிலங்களை விடத் தாழ்வானவை; நிலக்கரி, இரும்புத் தாது, செம்பு நிறைந்தவை."
       }
@@ -546,10 +546,10 @@
       "ta": {
         "q": "அமெரிக்க ஐக்கிய நாடுகளுக்கும் மெக்சிகோவுக்கும் இடையே எல்லையாக அமையும் ஆறு எது?",
         "options": [
-          "யூகோன்",
-          "கொலராடோ",
-          "ரியோ கிராண்டே",
-          "கொலம்பியா"
+          "யூகோன் ஆறு",
+          "கொலராடோ ஆறு",
+          "ரியோ கிராண்டே ஆறு",
+          "கொலம்பியா ஆறு"
         ],
         "explanation": "மெக்சிகோ வளைகுடாவில் கலக்கும் ரியோ கிராண்டே ஆறு அமெரிக்க–மெக்சிகோ எல்லையாக அமைகிறது."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "Why do the central plains of North America have very long cold winters?",
         "options": [
-          "The north–south Rockies cannot stop icy Arctic winds from entering the plains",
-          "The plains lie on the Equator",
-          "The Gulf Stream cools the plains",
-          "The Himalayas block warm winds"
+          "Icy Arctic winds sweep freely across the open plains",
+          "The plains lie in the hot belt near the Equator",
+          "The cold Gulf Stream current cools the plains",
+          "The Himalayas block warm winds from the south"
         ],
         "explanation": "Unlike the Himalayas, the Rockies run north to south and do not block the icy Arctic winds, so the central plains get long cold winters."
       },
       "ta": {
         "q": "வட அமெரிக்காவின் மத்தியச் சமவெளிகளில் மிக நீண்ட குளிர்காலம் நிலவுவது ஏன்?",
         "options": [
-          "வடக்கு–தெற்காக அமைந்த ராக்கி மலைகள் ஆர்க்டிக் குளிர்காற்றைத் தடுப்பதில்லை",
-          "சமவெளிகள் நிலநடுக்கோட்டில் உள்ளன",
-          "வளைகுடா நீரோட்டம் சமவெளிகளைக் குளிர்விக்கிறது",
-          "இமயமலை வெப்பக் காற்றைத் தடுக்கிறது"
+          "ஆர்க்டிக் குளிர்காற்று சமவெளிகள் வழியே தடையின்றி வீசுகிறது",
+          "சமவெளிகள் நிலநடுக்கோட்டுக்கு அருகிலுள்ள வெப்பப் பகுதியில் உள்ளன",
+          "குளிர்ந்த வளைகுடா நீரோட்டம் சமவெளிகளைக் குளிர்விக்கிறது",
+          "இமயமலை தெற்கிலிருந்து வரும் வெப்பக் காற்றைத் தடுக்கிறது"
         ],
         "explanation": "இமயமலையைப் போலன்றி வடக்கு–தெற்காக அமைந்த ராக்கி மலைகள் ஆர்க்டிக் குளிர்காற்றைத் தடுப்பதில்லை; எனவே மத்தியச் சமவெளிகளில் நீண்ட குளிர்காலம் நிலவுகிறது."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "Which state of the USA has a Mediterranean climate with moist winters and dry summers?",
         "options": [
-          "Florida",
+          "Louisiana",
           "California",
-          "Texas",
-          "Alaska"
+          "New Mexico",
+          "Minnesota"
         ],
         "explanation": "California has a Mediterranean climate: moist winters and dry summers."
       },
       "ta": {
         "q": "ஈரமான குளிர்காலமும் வறண்ட கோடையும் கொண்ட மத்தியதரைக் காலநிலை உள்ள அமெரிக்க மாநிலம் எது?",
         "options": [
-          "ஃபுளோரிடா",
+          "லூசியானா",
           "கலிஃபோர்னியா",
-          "டெக்சாஸ்",
-          "அலாஸ்கா"
+          "நியூ மெக்சிகோ",
+          "மினசோட்டா"
         ],
         "explanation": "கலிஃபோர்னியாவில் ஈரமான குளிர்காலமும் வறண்ட கோடையும் கொண்ட மத்தியதரைக் காலநிலை நிலவுகிறது."
       }
@@ -652,10 +652,10 @@
       "en": {
         "q": "The Taiga of North America is a",
         "options": [
-          "temperate grassland of short grasses",
+          "temperate grassland of short, hardy grasses",
           "tropical rainforest of mahogany and rubber",
-          "cold temperate coniferous forest of pine, fir, cedar and spruce",
-          "hot desert with cacti"
+          "cold coniferous forest of pine and spruce",
+          "hot desert with cacti and thorny scrub"
         ],
         "explanation": "The Taiga, in south-central Alaska and north-eastern Canada, is a cold temperate coniferous forest of pine, fir, cedar and spruce."
       },
@@ -664,8 +664,8 @@
         "options": [
           "குட்டைப் புற்கள் கொண்ட மிதவெப்பப் புல்வெளி",
           "மகோகனி, ரப்பர் கொண்ட வெப்பமண்டல மழைக்காடு",
-          "பைன், ஃபர், சீடர், ஸ்புரூஸ் மரங்களைக் கொண்ட குளிர் மிதவெப்ப ஊசியிலைக் காடு",
-          "கள்ளிச்செடிகள் கொண்ட வெப்பப் பாலைவனம்"
+          "பைன், ஸ்புரூஸ் மரங்களைக் கொண்ட குளிர் ஊசியிலைக் காடு",
+          "கள்ளிச்செடிகளும் முட்புதர்களும் கொண்ட வெப்பப் பாலைவனம்"
         ],
         "explanation": "அலாஸ்காவின் தென்-மத்தியப் பகுதியிலும் கனடாவின் வடகிழக்கிலும் உள்ள டைகா, பைன், ஃபர், சீடர், ஸ்புரூஸ் மரங்கள் கொண்ட குளிர் மிதவெப்ப ஊசியிலைக் காடு."
       }
@@ -739,19 +739,19 @@
       "en": {
         "q": "Detroit in the USA is an important centre of which type of industry?",
         "options": [
-          "Wood pulp and paper",
-          "Heavy engineering (automobiles)",
-          "Meat packing only",
-          "Woollen textiles"
+          "Wood pulp and paper making",
+          "Automobile manufacturing",
+          "Meat packing and canning",
+          "Woollen textile weaving"
         ],
         "explanation": "Detroit is a major heavy engineering centre, notably for automobiles; such industries depend on iron and steel."
       },
       "ta": {
         "q": "அமெரிக்காவின் டெட்ராய்ட் எந்த வகைத் தொழிலின் முக்கிய மையம்?",
         "options": [
-          "மரக்கூழ், காகிதம்",
-          "கனரகப் பொறியியல் (தானுந்து)",
-          "இறைச்சிப் பதப்படுத்துதல் மட்டும்",
+          "மரக்கூழ், காகிதம் தயாரிப்பு",
+          "தானுந்து உற்பத்தி",
+          "இறைச்சிப் பதப்படுத்துதல், டப்பாவில் அடைத்தல்",
           "கம்பளி நெசவு"
         ],
         "explanation": "டெட்ராய்ட் தானுந்து உள்ளிட்ட கனரகப் பொறியியல் தொழில்களின் முக்கிய மையம்; இத்தொழில்கள் இரும்பு எஃகுத் தொழிலைச் சார்ந்தவை."
@@ -768,20 +768,20 @@
       "en": {
         "q": "Which country is called a 'melting pot' where hundreds of cultures meet and blend into a new culture?",
         "options": [
-          "Brazil",
-          "Canada",
-          "United States of America",
-          "Mexico"
+          "Dominican Republic",
+          "Costa Rica",
+          "United States",
+          "El Salvador"
         ],
         "explanation": "The USA is called a melting pot because hundreds of cultures meet and blend there to create a new culture."
       },
       "ta": {
         "q": "நூற்றுக்கணக்கான பண்பாடுகள் சந்தித்துக் கலந்து புதிய பண்பாடு உருவாகும் 'உருக்கு உலை' (melting pot) என அழைக்கப்படும் நாடு எது?",
         "options": [
-          "பிரேசில்",
-          "கனடா",
+          "டொமினிகன் குடியரசு",
+          "கோஸ்டா ரிகா",
           "அமெரிக்க ஐக்கிய நாடுகள்",
-          "மெக்சிகோ"
+          "எல் சால்வடோர்"
         ],
         "explanation": "நூற்றுக்கணக்கான பண்பாடுகள் சந்தித்துக் கலப்பதால் அமெரிக்க ஐக்கிய நாடுகள் 'melting pot' எனப்படுகிறது."
       }
@@ -884,20 +884,20 @@
       "en": {
         "q": "Why are South and Central America together called 'Latin America'?",
         "options": [
-          "They lie at low latitudes",
-          "Latin is the official language there",
-          "They were colonised mostly by the Spanish and the Portuguese",
-          "They were ruled by Rome"
+          "They lie mostly at low latitudes near the Equator",
+          "Latin is the official language of every country there",
+          "They were colonised by Spain and Portugal",
+          "They were once ruled by the Roman Empire"
         ],
         "explanation": "South and Central America are called Latin America because they were discovered and colonised mostly by the Latins — the Spanish and the Portuguese."
       },
       "ta": {
         "q": "தென் அமெரிக்காவும் மத்திய அமெரிக்காவும் சேர்ந்து 'இலத்தீன் அமெரிக்கா' என அழைக்கப்படுவது ஏன்?",
         "options": [
-          "அவை தாழ்ந்த அட்சரேகைகளில் உள்ளன",
-          "அங்கு இலத்தீன் ஆட்சிமொழி",
-          "அவை பெரும்பாலும் ஸ்பானியர், போர்த்துகீசியரால் குடியேற்றப்பட்டன",
-          "அவை ரோமானியரால் ஆளப்பட்டன"
+          "அவை தாழ்ந்த அட்சரேகைகளில் நிலநடுக்கோட்டருகே உள்ளன",
+          "அங்கு எல்லா நாடுகளிலும் இலத்தீன் ஆட்சிமொழியாக உள்ளது",
+          "அவை ஸ்பெயின், போர்ச்சுகலால் குடியேற்றப்பட்டன",
+          "அவை ஒரு காலத்தில் ரோமானியப் பேரரசால் ஆளப்பட்டன"
         ],
         "explanation": "இலத்தீனியர்களான ஸ்பானியரும் போர்த்துகீசியரும் பெரும்பாலும் கண்டறிந்து குடியேற்றியதால் அவை இலத்தீன் அமெரிக்கா எனப்படுகின்றன."
       }
@@ -1030,9 +1030,9 @@
         "q": "The Orinoco River rises in the Guiana Highlands and flows into the",
         "options": [
           "South Atlantic near Buenos Aires",
-          "Pacific Ocean",
-          "Gulf of Mexico",
-          "Atlantic Ocean through its delta in eastern Venezuela"
+          "Pacific Ocean off the coast of Peru",
+          "Gulf of Mexico near the Mississippi delta",
+          "Atlantic Ocean off the coast of Venezuela"
         ],
         "explanation": "The Orinoco rises in the Guiana Highlands and flows into the Atlantic Ocean through a large delta in eastern Venezuela, south of Trinidad (the book wrongly says the Caribbean Sea)."
       },
@@ -1040,9 +1040,9 @@
         "q": "கயானா உயர்நிலத்தில் தோன்றும் ஓரினோகோ ஆறு எங்கு கலக்கிறது?",
         "options": [
           "புவனஸ் அயர்ஸ் அருகே தெற்கு அட்லாண்டிக்",
-          "பசிபிக் பெருங்கடல்",
-          "மெக்சிகோ வளைகுடா",
-          "கிழக்கு வெனிசுலாவில் தனது டெல்டா வழியாக அட்லாண்டிக் பெருங்கடல்"
+          "பெருவின் கடற்கரையில் பசிபிக் பெருங்கடல்",
+          "மிசிசிப்பி டெல்டா அருகே மெக்சிகோ வளைகுடா",
+          "வெனிசுலாவின் கடற்கரையில் அட்லாண்டிக் பெருங்கடல்"
         ],
         "explanation": "ஓரினோகோ ஆறு கயானா உயர்நிலத்தில் தோன்றி கிழக்கு வெனிசுலாவில் பெரிய டெல்டா வழியாக அட்லாண்டிக் பெருங்கடலில் கலக்கிறது (நூல் கரீபியன் கடல் எனத் தவறாகக் கூறுகிறது)."
       }
@@ -1058,20 +1058,20 @@
       "en": {
         "q": "The Paraguay, Parana and Uruguay rivers together form which river system?",
         "options": [
-          "The Plate (La Plata) river system",
-          "The Amazon system",
-          "The Orinoco system",
-          "The Magdalena system"
+          "The La Plata river system",
+          "The Amazon river system",
+          "The Orinoco river system",
+          "The Magdalena river system"
         ],
         "explanation": "The Paraguay, with the Parana and Uruguay as main tributaries, forms the Plate (La Plata) river system."
       },
       "ta": {
         "q": "பராகுவே, பரானா, உருகுவே ஆறுகள் சேர்ந்து எந்த ஆற்று அமைப்பை உருவாக்குகின்றன?",
         "options": [
-          "பிளேட் (லா பிளாட்டா) ஆற்று அமைப்பு",
-          "அமேசான் அமைப்பு",
-          "ஓரினோகோ அமைப்பு",
-          "மக்தலேனா அமைப்பு"
+          "பிளேட் ஆற்று அமைப்பு",
+          "அமேசான் ஆற்று அமைப்பு",
+          "ஓரினோகோ ஆற்று அமைப்பு",
+          "மக்தலேனா ஆற்று அமைப்பு"
         ],
         "explanation": "பரானா, உருகுவே ஆகியவற்றை முக்கியத் துணையாறுகளாகக் கொண்ட பராகுவே ஆறு பிளேட் (லா பிளாட்டா) ஆற்று அமைப்பை உருவாக்குகிறது."
       }
@@ -1319,20 +1319,20 @@
       "en": {
         "q": "Northern Chile has the world's only natural deposits of which fertiliser ingredient?",
         "options": [
-          "Potash",
+          "Potassium chloride",
           "Sodium nitrate",
-          "Phosphate",
-          "Gypsum"
+          "Calcium phosphate",
+          "Ammonium sulphate"
         ],
         "explanation": "Northern Chile has the world's only natural deposits of sodium nitrate, an important fertiliser ingredient."
       },
       "ta": {
         "q": "உலகின் ஒரே இயற்கைப் படிவுகளாக வடக்குச் சிலியில் காணப்படும் உரக் கூறு எது?",
         "options": [
-          "பொட்டாஷ்",
+          "பொட்டாசியம் குளோரைடு",
           "சோடியம் நைட்ரேட்",
-          "பாஸ்பேட்",
-          "ஜிப்சம்"
+          "கால்சியம் பாஸ்பேட்",
+          "அம்மோனியம் சல்பேட்"
         ],
         "explanation": "உரங்களின் முக்கியக் கூறான சோடியம் நைட்ரேட்டின் உலகின் ஒரே இயற்கைப் படிவுகள் வடக்குச் சிலியில் உள்ளன."
       }

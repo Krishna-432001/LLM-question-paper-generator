@@ -43,20 +43,20 @@
       "en": {
         "q": "According to the book, when does a hazard such as a hurricane become a disaster?",
         "options": [
-          "As soon as it forms at sea",
-          "When it causes widespread destruction of property and human lives",
-          "Only when it is forecast by the weather department",
-          "When it lasts more than a week"
+          "As soon as it forms over the open sea",
+          "When it causes widespread loss of property and lives",
+          "When the weather department first forecasts it",
+          "When it continues for more than a full week"
         ],
         "explanation": "A hurricane developing at sea is a hazard; when it reaches land, destroys buildings and kills people, it is a disaster."
       },
       "ta": {
         "q": "பாடநூலின்படி சூறாவளி போன்ற ஓர் இடர் எப்போது பேரிடராகிறது?",
         "options": [
-          "கடலில் உருவானவுடனேயே",
+          "திறந்த கடலின் மேல் உருவான உடனேயே",
           "சொத்துக்கும் உயிர்களுக்கும் பரவலான அழிவை ஏற்படுத்தும்போது",
-          "வானிலைத் துறை முன்னறிவித்தால் மட்டும்",
-          "ஒரு வாரத்துக்கு மேல் நீடிக்கும்போது"
+          "வானிலைத் துறை முதன்முதலாக முன்னறிவிக்கும்போது",
+          "ஒரு முழு வாரத்துக்கு மேலாகத் தொடரும்போது"
         ],
         "explanation": "கடலில் உருவாகும் சூறாவளி ஓர் இடர்; அது நிலத்தை அடைந்து கட்டடங்களை அழித்து உயிர்களைப் பறிக்கும்போது பேரிடராகிறது."
       }
@@ -131,9 +131,9 @@
         "q": "In early May 2018, which disaster swept across parts of North India and killed more than 125 people?",
         "options": [
           "High-velocity dust storms",
-          "A tsunami",
-          "Cyclone Gaja",
-          "A forest fire"
+          "A tsunami along the east coast",
+          "Cyclone Gaja in the Bay of Bengal",
+          "A forest fire in the hills"
         ],
         "explanation": "On 2–3 May 2018 high-velocity dust storms swept North India, killing more than 125 people and downing over 8,000 electricity posts."
       },
@@ -141,9 +141,9 @@
         "q": "2018 மே தொடக்கத்தில் வட இந்தியாவின் பல பகுதிகளைத் தாக்கி 125 க்கும் மேற்பட்டோரைப் பலிகொண்ட பேரிடர் எது?",
         "options": [
           "அதிவேகப் புழுதிப் புயல்கள்",
-          "ஆழிப்பேரலை",
-          "கஜா புயல்",
-          "காட்டுத்தீ"
+          "கிழக்குக் கடற்கரையில் ஆழிப்பேரலை",
+          "வங்காள விரிகுடாவில் கஜா புயல்",
+          "மலைப்பகுதியில் பரவிய காட்டுத்தீ"
         ],
         "explanation": "2018 மே 2–3 இல் அதிவேகப் புழுதிப் புயல்கள் வட இந்தியாவைத் தாக்கி 125 க்கும் மேற்பட்டோரைப் பலிகொண்டு 8,000 க்கும் மேற்பட்ட மின்கம்பங்களைச் சாய்த்தன."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "Which of these is listed as an effect of floods?",
         "options": [
-          "Cooling of the earth's core",
-          "Formation of new mountains",
-          "Permanent increase in rainfall",
-          "Spread of contagious diseases such as cholera and malaria"
+          "Gradual cooling of the earth's inner core",
+          "Formation of new mountain ranges in the area",
+          "Permanent increase in annual rainfall over the region",
+          "Spread of diseases such as cholera and malaria"
         ],
         "explanation": "Floods cause loss of life and property, displacement of people and spread of diseases like cholera and malaria."
       },
       "ta": {
         "q": "இவற்றுள் வெள்ளத்தின் விளைவாகக் குறிப்பிடப்படுவது எது?",
         "options": [
-          "புவியின் உட்கரு குளிர்தல்",
-          "புதிய மலைகள் உருவாதல்",
-          "மழையளவு நிரந்தரமாக உயர்தல்",
-          "காலரா, மலேரியா போன்ற தொற்றுநோய்கள் பரவுதல்"
+          "புவியின் உட்கரு படிப்படியாகக் குளிர்தல்",
+          "அப்பகுதியில் புதிய மலைத்தொடர்கள் உருவாதல்",
+          "அப்பகுதியில் ஆண்டு மழையளவு நிரந்தரமாக உயர்தல்",
+          "காலரா, மலேரியா போன்ற நோய்கள் பரவுதல்"
         ],
         "explanation": "வெள்ளம் உயிர், உடைமை இழப்பு, மக்கள் இடப்பெயர்வு, காலரா, மலேரியா போன்ற நோய்ப் பரவலை ஏற்படுத்தும்."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "How can human stampedes be prevented, according to the book?",
         "options": [
-          "Through crowd management — barriers, queues and avoiding mass gatherings",
-          "By building taller buildings",
-          "By closing all roads permanently",
-          "By issuing cyclone warnings"
+          "By managing crowds with barriers and queues",
+          "By building taller buildings near the venue",
+          "By closing the main roads near the venue",
+          "By issuing cyclone warnings to the public"
         ],
         "explanation": "A stampede is a sudden rush of a crowd causing injuries and deaths; it can be prevented by organisation and traffic control such as barriers, queues and avoiding mass gatherings."
       },
       "ta": {
         "q": "பாடநூலின்படி கூட்ட நெரிசல் விபத்துகளை (stampede) எவ்வாறு தடுக்கலாம்?",
         "options": [
-          "தடுப்புகள், வரிசைகள், பெருங்கூட்டத்தைத் தவிர்த்தல் போன்ற கூட்ட மேலாண்மையால்",
-          "உயரமான கட்டடங்களைக் கட்டுவதால்",
-          "எல்லாச் சாலைகளையும் நிரந்தரமாக மூடுவதால்",
-          "புயல் எச்சரிக்கை விடுவதால்"
+          "தடுப்புகள், வரிசைகள் மூலம் கூட்டத்தை நிர்வகிப்பதால்",
+          "அரங்கத்தின் அருகே உயரமான கட்டடங்களைக் கட்டுவதால்",
+          "அரங்கத்தின் அருகிலுள்ள முக்கியச் சாலைகளை மூடுவதால்",
+          "பொதுமக்களுக்குப் புயல் எச்சரிக்கை விடுவதால்"
         ],
         "explanation": "கூட்ட நெரிசல் என்பது மக்கள் கூட்டத்தின் திடீர் முண்டியடிப்பு; தடுப்புகள், வரிசை, பெருங்கூட்டத்தைத் தவிர்த்தல் போன்ற ஒழுங்கமைப்பால் அதைத் தடுக்கலாம்."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "Why is mitigating hazards considered essential?",
         "options": [
-          "It replaces the need for warning systems",
-          "It stops all natural hazards from happening",
-          "It is more cost-effective than repairing damage after a disaster",
-          "It is required only after a disaster"
+          "It replaces the need for early warning systems",
+          "It prevents natural hazards from occurring",
+          "It costs less than repairing damage after a disaster",
+          "It is carried out after a disaster strikes"
         ],
         "explanation": "Mitigating the risks of natural disasters is more cost-effective than repairing damage afterwards; mitigation reduces the effects of future disasters."
       },
       "ta": {
         "q": "இடர்களைத் தணிப்பது இன்றியமையாததாகக் கருதப்படுவது ஏன்?",
         "options": [
-          "அது எச்சரிக்கை அமைப்புகளின் தேவையை நீக்குகிறது",
-          "அது எல்லா இயற்கை இடர்களையும் நிகழாமல் தடுக்கிறது",
-          "பேரிடருக்குப் பின் சேதத்தைச் சரிசெய்வதை விட அது செலவு குறைந்தது",
-          "அது பேரிடருக்குப் பின் மட்டுமே தேவை"
+          "அது முன்னெச்சரிக்கை அமைப்புகளின் தேவையை நீக்குகிறது",
+          "அது இயற்கை இடர்கள் நிகழாமல் தடுக்கிறது",
+          "பேரிடருக்குப் பின் சேதத்தைச் சரிசெய்வதை விட அதற்குச் செலவு குறைவு",
+          "அது பேரிடர் தாக்கிய பின் மேற்கொள்ளப்படுகிறது"
         ],
         "explanation": "பேரிடருக்குப் பின் சேதத்தைச் சரிசெய்வதை விட இடர்களைத் தணிப்பது செலவு குறைந்தது; தணிப்பு எதிர்காலப் பேரிடர்களின் விளைவுகளைக் குறைக்கிறது."
       }
@@ -450,9 +450,9 @@
         "q": "Which bodies have set up the early warning system for tsunami and storm surges in the Indian Ocean?",
         "options": [
           "The Railway Board and AAI",
-          "NDMA alone",
+          "NDMA and the Ministry of Tourism",
           "The Election Commission and NITI Aayog",
-          "DST, the Department of Space and CSIR laboratories"
+          "DST, the Department of Space and CSIR"
         ],
         "explanation": "The Department of Science and Technology, the Department of Space and CSIR laboratories set up the early warning system for tsunamis and storm surges."
       },
@@ -460,9 +460,9 @@
         "q": "இந்தியப் பெருங்கடலில் ஆழிப்பேரலை, கடல் பொங்குதலுக்கான முன்னெச்சரிக்கை அமைப்பை உருவாக்கியவை எவை?",
         "options": [
           "இரயில்வே வாரியம், இந்திய விமான நிலைய ஆணையம்",
-          "தேசியப் பேரிடர் மேலாண்மை ஆணையம் மட்டும்",
-          "தேர்தல் ஆணையம், நிதி ஆயோக்",
-          "அறிவியல் தொழில்நுட்பத் துறை, விண்வெளித் துறை, CSIR ஆய்வகங்கள்"
+          "தேசியப் பேரிடர் மேலாண்மை ஆணையம், சுற்றுலா அமைச்சகம்",
+          "இந்தியத் தேர்தல் ஆணையம், நிதி ஆயோக்",
+          "அறிவியல் தொழில்நுட்பத் துறை, விண்வெளித் துறை, CSIR"
         ],
         "explanation": "அறிவியல் தொழில்நுட்பத் துறை (DST), விண்வெளித் துறை (DOS), CSIR ஆய்வகங்கள் ஆகியவை ஆழிப்பேரலை, கடல் பொங்குதலுக்கான முன்னெச்சரிக்கை அமைப்பை உருவாக்கியுள்ளன."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "Which is a correct survival step during an earthquake, according to the book?",
         "options": [
-          "Light candles to see clearly",
-          "Get under a table, kneel to the floor and protect yourself",
-          "Run out onto a crowded road at once",
-          "Stand near glass windows"
+          "Light candles to see in the dark rooms",
+          "Get under a sturdy table and kneel down",
+          "Run out into the crowded street at once",
+          "Stand near the glass windows to watch"
         ],
         "explanation": "During an earthquake, take shelter under a table, kneel and protect yourself, or sit by a sturdy wall; use only torch lights."
       },
       "ta": {
         "q": "பாடநூலின்படி நிலநடுக்கத்தின்போது பின்பற்ற வேண்டிய சரியான பாதுகாப்பு நடவடிக்கை எது?",
         "options": [
-          "தெளிவாகக் காண மெழுகுவர்த்தி ஏற்றுதல்",
-          "மேசைக்கடியில் சென்று, தரையில் மண்டியிட்டுத் தற்காத்துக்கொள்ளுதல்",
-          "உடனே நெரிசலான சாலைக்கு ஓடுதல்",
-          "கண்ணாடிச் சன்னல்கள் அருகே நிற்றல்"
+          "தெளிவாகக் காண மெழுகுவர்த்திகளை ஏற்றுதல்",
+          "உறுதியான மேசைக்கடியில் சென்று மண்டியிடுதல்",
+          "உடனே நெரிசலான தெருவுக்குள் ஓடுதல்",
+          "கண்ணாடிச் சன்னல்கள் அருகே நின்று பார்த்தல்"
         ],
         "explanation": "நிலநடுக்கத்தின்போது மேசைக்கடியில் சென்று மண்டியிட்டுத் தற்காத்துக்கொள்ள வேண்டும்; அல்லது உறுதியான சுவர் அருகே அமர வேண்டும்; கைவிளக்கை மட்டுமே பயன்படுத்த வேண்டும்."
       }

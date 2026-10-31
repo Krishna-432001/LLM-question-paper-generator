@@ -44,7 +44,7 @@
         "q": "Why was Dalton's atomic theory unable to explain many properties of substances?",
         "options": [
           "It claimed atoms were made of watermelon-like parts",
-          "It said nothing about the positive and negative charges in an atom",
+          "It said nothing about the charges inside an atom",
           "It placed electrons inside the nucleus",
           "It said atoms were mostly empty space"
         ],
@@ -54,9 +54,9 @@
         "q": "டால்டனின் அணுக் கொள்கையால் பொருள்களின் பல பண்புகளை விளக்க முடியாமல் போனது ஏன்?",
         "options": [
           "அணு தர்பூசணி போன்ற பகுதிகளால் ஆனது என்றது",
-          "அணுவின் நேர், எதிர் மின்னூட்டங்கள் பற்றி அது எதுவும் கூறவில்லை",
-          "எலக்ட்ரான்களை அணுக்கருவுக்குள் வைத்தது",
-          "அணு பெரும்பாலும் வெற்றிடம் என்றது"
+          "அணுவிலுள்ள மின்னூட்டங்கள் பற்றி அது கூறவில்லை",
+          "எலக்ட்ரான்களை அணுக்கருவுக்குள்ளேயே வைத்தது",
+          "அணு பெரும்பாலும் வெற்றிடமானது என்று கூறியது"
         ],
         "explanation": "அணுவுக்குள் மின்னூட்டத் துகள்கள் இருப்பது பற்றி டால்டன் கொள்கை எதுவும் கூறாததால் பல பண்புகளை அதனால் விளக்க முடியவில்லை."
       }
@@ -130,20 +130,20 @@
       "en": {
         "q": "Rutherford found the turning back of a few alpha particles from a thin gold sheet as remarkable as",
         "options": [
-          "a bullet turning back after colliding with tissue paper",
-          "a ball bouncing off a wall",
-          "seeds falling out of a watermelon",
-          "planets orbiting the Sun"
+          "a bullet bouncing off tissue paper",
+          "a ball bouncing back off a solid wall",
+          "seeds falling out of a ripe watermelon",
+          "planets orbiting around the Sun"
         ],
         "explanation": "He compared it to a bullet bouncing back from tissue paper; it showed a tiny, dense, positive nucleus."
       },
       "ta": {
         "q": "மெல்லிய தங்கத் தகட்டிலிருந்து சில ஆல்ஃபா துகள்கள் திரும்பி வந்ததை ரூதர்ஃபோர்டு எதைப் போல வியப்பானதாகக் கருதினார்?",
         "options": [
-          "துப்பாக்கிக் குண்டு திசுத்தாளில் மோதித் திரும்பி வருவது",
-          "சுவரில் மோதிப் பந்து திரும்புவது",
-          "தர்பூசணியிலிருந்து விதைகள் விழுவது",
-          "சூரியனைக் கோள்கள் சுற்றுவது"
+          "துப்பாக்கிக் குண்டு திசுத்தாளில் மோதித் திரும்புவது",
+          "திடமான சுவரில் மோதிப் பந்து திரும்புவது",
+          "பழுத்த தர்பூசணியிலிருந்து விதைகள் விழுவது",
+          "சூரியனைச் சுற்றிக் கோள்கள் சுழல்வது"
         ],
         "explanation": "அதைத் திசுத்தாளில் மோதித் திரும்பும் துப்பாக்கிக் குண்டுடன் ஒப்பிட்டார்; இது சிறிய, அடர்த்தியான நேர்மின் அணுக்கரு இருப்பதைக் காட்டியது."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "The 'electron cloud' model of the atom is associated with",
         "options": [
-          "Thomson",
-          "Bohr",
+          "Joseph Thomson",
+          "Niels Bohr",
           "Schrödinger",
-          "Dalton"
+          "John Dalton"
         ],
         "explanation": "Bohr introduced energy levels; Schrödinger's theory gives the electron cloud model."
       },
       "ta": {
         "q": "அணுவின் 'எலக்ட்ரான் மேக' மாதிரியுடன் தொடர்புடையவர் யார்?",
         "options": [
-          "தாம்சன்",
-          "போர்",
+          "ஜோசப் தாம்சன்",
+          "நீல்ஸ் போர்",
           "ஷ்ரோடிங்கர்",
-          "டால்டன்"
+          "ஜான் டால்டன்"
         ],
         "explanation": "போர் ஆற்றல் மட்டங்களை அறிமுகப்படுத்தினார்; ஷ்ரோடிங்கர் கொள்கை எலக்ட்ரான் மேக மாதிரியைத் தருகிறது."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "Which statement about subatomic particles is correct?",
         "options": [
-          "Only hydrogen atoms contain protons",
+          "Protons are found in hydrogen atoms but not in carbon",
           "Electrons of different elements have different charges",
           "Protons of carbon are heavier than protons of hydrogen",
-          "An electron of a hydrogen atom is no different from an electron of a carbon atom"
+          "An electron of hydrogen is no different from that of carbon"
         ],
         "explanation": "Electrons, protons and neutrons have the same characteristics in all elements; elements differ in their numbers."
       },
       "ta": {
         "q": "அணுக்கூறு துகள்கள் பற்றிய சரியான கூற்று எது?",
         "options": [
-          "ஹைட்ரஜன் அணுக்களில் மட்டுமே புரோட்டான்கள் உள்ளன",
+          "புரோட்டான்கள் ஹைட்ரஜன் அணுவில் உண்டு; கார்பனில் இல்லை",
           "வெவ்வேறு தனிமங்களின் எலக்ட்ரான்களுக்கு வெவ்வேறு மின்னூட்டம்",
           "கார்பனின் புரோட்டான்கள் ஹைட்ரஜனின் புரோட்டான்களைவிடக் கனமானவை",
-          "ஹைட்ரஜன் அணுவின் எலக்ட்ரானுக்கும் கார்பன் அணுவின் எலக்ட்ரானுக்கும் வேறுபாடு இல்லை"
+          "ஹைட்ரஜனின் எலக்ட்ரானுக்கும் கார்பனின் எலக்ட்ரானுக்கும் வேறுபாடு இல்லை"
         ],
         "explanation": "எலக்ட்ரான், புரோட்டான், நியூட்ரான் அனைத்துத் தனிமங்களிலும் ஒரே பண்புகளைக் கொண்டவை; தனிமங்கள் அவற்றின் எண்ணிக்கையில் வேறுபடுகின்றன."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "The nucleus of which atom contains no neutron?",
         "options": [
-          "Hydrogen (protium)",
-          "Helium",
-          "Carbon",
-          "Oxygen"
+          "Protium",
+          "Helium-4",
+          "Carbon-12",
+          "Oxygen-16"
         ],
         "explanation": "Except ordinary hydrogen (protium), every atom's nucleus contains neutrons."
       },
       "ta": {
         "q": "எந்த அணுவின் அணுக்கருவில் நியூட்ரான் இல்லை?",
         "options": [
-          "ஹைட்ரஜன் (புரோட்டியம்)",
-          "ஹீலியம்",
-          "கார்பன்",
-          "ஆக்சிஜன்"
+          "புரோட்டியம்",
+          "ஹீலியம்-4",
+          "கார்பன்-12",
+          "ஆக்சிஜன்-16"
         ],
         "explanation": "சாதாரண ஹைட்ரஜன் (புரோட்டியம்) தவிர அனைத்து அணுக்களின் அணுக்கருவிலும் நியூட்ரான்கள் உள்ளன."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "Iron forms ferrous oxide and ferric oxide with oxygen. This shows that iron",
         "options": [
-          "exhibits more than one valency (2 and 3)",
-          "is monovalent",
-          "has no valency",
-          "is a non-metal"
+          "exhibits more than one valency",
+          "is a monovalent element",
+          "has a valency of zero",
+          "is a non-metal element"
         ],
         "explanation": "Iron shows valency 2 in ferrous oxide and 3 in ferric oxide: variable valency."
       },
       "ta": {
         "q": "இரும்பு ஆக்சிஜனுடன் பெர்ரஸ் ஆக்சைடு, பெர்ரிக் ஆக்சைடு என இருவகை ஆக்சைடுகளை உருவாக்குகிறது. இது காட்டுவது",
         "options": [
-          "இரும்பு ஒன்றுக்கு மேற்பட்ட இணைதிறன் (2, 3) கொண்டது",
-          "இரும்பு ஓரிணைதிறன் கொண்டது",
-          "இரும்புக்கு இணைதிறன் இல்லை",
-          "இரும்பு ஓர் அலோகம்"
+          "ஒன்றுக்கு மேற்பட்ட இணைதிறன் கொண்டது",
+          "ஓரிணைதிறன் கொண்ட தனிமம்",
+          "இணைதிறன் பூஜ்ஜியமாக உள்ளது",
+          "ஓர் அலோகத் தனிமம் ஆகும்"
         ],
         "explanation": "பெர்ரஸ் ஆக்சைடில் இணைதிறன் 2, பெர்ரிக் ஆக்சைடில் 3: இரும்பு மாறும் இணைதிறன் கொண்டது."
       }

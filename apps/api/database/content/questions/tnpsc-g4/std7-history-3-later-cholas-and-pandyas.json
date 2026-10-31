@@ -45,7 +45,7 @@
         "options": [
           "Thanjavur",
           "Gangaikonda Cholapuram",
-          "Uraiyur",
+          "Tiruchchirappalli",
           "Kanchipuram"
         ],
         "explanation": "Rajendra I and his successors ruled from Gangaikonda Cholapuram, the newly built capital."
@@ -55,7 +55,7 @@
         "options": [
           "தஞ்சாவூர்",
           "கங்கைகொண்ட சோழபுரம்",
-          "உறையூர்",
+          "திருச்சிராப்பள்ளி",
           "காஞ்சிபுரம்"
         ],
         "explanation": "முதலாம் ராஜேந்திரனும் அவரது வழித்தோன்றல்களும் புதிய தலைநகரான கங்கைகொண்ட சோழபுரத்திலிருந்து ஆண்டனர்."
@@ -140,10 +140,10 @@
       "ta": {
         "q": "கங்கைகொண்ட சோழபுரம் கோயில் எதன் நினைவாகக் கட்டப்பட்டது?",
         "options": [
-          "வட இந்தியாவில் முதலாம் ராஜேந்திரன் பெற்ற வெற்றிகள்",
-          "முதலாம் ராஜராஜன் இலங்கையை வென்றது",
-          "குந்தவை – விமலாதித்தன் திருமணம்",
-          "விஜயாலயன் தஞ்சாவூரைக் கைப்பற்றியது"
+          "முதலாம் ராஜேந்திரனின் வட இந்திய வெற்றிகள்",
+          "முதலாம் ராஜராஜன் இலங்கையை வென்ற வெற்றி",
+          "குந்தவை – விமலாதித்தன் திருமண விழா",
+          "விஜயாலயன் தஞ்சாவூரைக் கைப்பற்றிய நிகழ்வு"
         ],
         "explanation": "முதலாம் ராஜேந்திரன் தன்னைக் 'கங்கைகொண்டான்' என அறிவித்துக்கொண்டார்; அவரது வட இந்திய வெற்றிகளின் நினைவாக இக்கோயில் கட்டப்பட்டது."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "As per the Uttiramerur inscriptions, who could contest for the village sabha committees?",
         "options": [
-          "Only landless labourers aged 25–60",
-          "Any adult man or woman of the village",
-          "Men aged 35–70, well-versed in Vedic texts, who owned land and a house",
-          "Only traders who paid tolls"
+          "Landless labourers aged 25–60 from the village",
+          "Any adult man or woman living in the village",
+          "Men aged 35–70 who owned land and a house in the village",
+          "Wealthy traders who paid tolls at the markets"
         ],
         "explanation": "Candidates had to be men aged 35–70, learned in Vedic texts and scriptures, and owners of land and a house."
       },
       "ta": {
         "q": "உத்திரமேரூர் கல்வெட்டுகளின்படி, கிராமச் சபைக் குழுக்களுக்குப் போட்டியிடத் தகுதி பெற்றவர் யார்?",
         "options": [
-          "25–60 வயதுடைய நிலமற்ற தொழிலாளர்கள் மட்டும்",
-          "கிராமத்தின் வயது வந்த எந்த ஆணும் பெண்ணும்",
-          "வேதங்களில் புலமையும் சொந்த நிலமும் வீடும் உடைய 35–70 வயது ஆண்கள்",
-          "சுங்கம் செலுத்திய வணிகர்கள் மட்டும்"
+          "கிராமத்தைச் சேர்ந்த 25–60 வயது நிலமற்ற தொழிலாளர்கள்",
+          "கிராமத்தில் வாழும் வயது வந்த எந்த ஆணும் பெண்ணும்",
+          "கிராமத்தில் நிலமும் வீடும் உடைய 35–70 வயது ஆண்கள்",
+          "சந்தையில் சுங்கம் செலுத்திய செல்வந்த வணிகர்கள்"
         ],
         "explanation": "35–70 வயதுடைய, வேதங்களிலும் சாத்திரங்களிலும் புலமை பெற்ற, சொந்த நிலமும் வீடும் உடைய ஆண்களே போட்டியிட முடியும்."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Which statement about the ulu-kudi of Chola society is correct?",
         "options": [
-          "They were maritime traders of the west coast",
-          "They owned vellanvagai land and kept the melvaram (major share)",
-          "They could not own land, cultivated others' land and got the kil-varam (lower share)",
-          "They collected land tax for the king"
+          "They were maritime traders of the west coast ports",
+          "They owned vellanvagai land and kept the melvaram",
+          "They could not own land and got the kil-varam, the lower share",
+          "They collected the land tax on behalf of the king"
         ],
         "explanation": "The ulu-kudi, a sub-section of the Vellalar, cultivated brahmadeya and vellanvagai lands and got the kil-varam; landholders kept the melvaram."
       },
       "ta": {
         "q": "சோழர் சமூகத்தின் உழுகுடியினர் பற்றிய சரியான கூற்று எது?",
         "options": [
-          "மேற்குக் கடற்கரையின் கடல் வணிகர்கள்",
-          "வெள்ளான்வகை நிலம் வைத்திருந்து மேல்வாரம் (பெரும் பங்கு) பெற்றனர்",
-          "நிலம் சொந்தமாக வைத்திருக்க முடியாது; பிறர் நிலத்தை உழுது கீழ்வாரம் (குறைந்த பங்கு) பெற்றனர்",
-          "அரசருக்காக நில வரி வசூலித்தனர்"
+          "மேற்குக் கடற்கரைத் துறைமுகங்களின் கடல் வணிகர்கள்",
+          "வெள்ளான்வகை நிலம் வைத்திருந்து மேல்வாரம் பெற்றனர்",
+          "நிலம் சொந்தமின்றிப் பிறர் நிலத்தை உழுது கீழ்வாரம் பெற்றனர்",
+          "அரசர் சார்பாக நில வரியை வசூலித்தனர்"
         ],
         "explanation": "வேளாளரின் உட்பிரிவான உழுகுடியினர் பிரம்மதேய, வெள்ளான்வகை நிலங்களை உழுது கீழ்வாரம் பெற்றனர்; நிலவுடைமையாளர்கள் மேல்வாரம் பெற்றனர்."
       }
@@ -568,7 +568,7 @@
           "Brahmins",
           "Armed men and traders",
           "Vellalars",
-          "Adimai (slaves) and panicey-makkal (labourers)"
+          "Adimai and panicey-makkal"
         ],
         "explanation": "Slaves and labourers were at the bottom; armed men and traders formed the intermediate section."
       },
@@ -578,7 +578,7 @@
           "பிராமணர்கள்",
           "படைவீரர்களும் வணிகர்களும்",
           "வேளாளர்கள்",
-          "அடிமைகளும் பணிசெய் மக்களும் (தொழிலாளர்கள்)"
+          "அடிமைகளும் பணிசெய் மக்களும்"
         ],
         "explanation": "அடிமைகளும் பணிசெய் மக்களும் அடிமட்டத்தில் இருந்தனர்; படைவீரர்களும் வணிகர்களும் இடைநிலையில் இருந்தனர்."
       }
@@ -915,8 +915,8 @@
         "options": [
           "Jatavarman Sundarapandyan",
           "Arikesari Maravarman",
-          "Kadungon",
-          "Jatila Parantaka Nedunjadayan (Varaguna I)"
+          "Kadungon of the Pandya line",
+          "Jatila Parantaka Nedunjadayan"
         ],
         "explanation": "Jatila Parantaka Nedunjadayan (Varaguna I), the greatest of the dynasty after Arikesari, donated the Velvikkudi plates."
       },
@@ -925,8 +925,8 @@
         "options": [
           "சடையவர்மன் சுந்தரபாண்டியன்",
           "அரிகேசரி மாறவர்மன்",
-          "கடுங்கோன்",
-          "ஜடில பராந்தக நெடுஞ்சடையன் (முதலாம் வரகுணன்)"
+          "பாண்டிய மரபின் கடுங்கோன்",
+          "ஜடில பராந்தக நெடுஞ்சடையன்"
         ],
         "explanation": "அரிகேசரிக்குப் பின் மரபின் தலைசிறந்த மன்னரான ஜடில பராந்தக நெடுஞ்சடையன் (முதலாம் வரகுணன்) வேள்விக்குடிச் செப்பேடுகளை வழங்கினார்."
       }
@@ -1058,20 +1058,20 @@
       "en": {
         "q": "Whose flight to Delhi to seek the protection of Ala-ud-din Khalji provided the opening for Malik Kafur's invasion?",
         "options": [
-          "Sundara Pandyan, son of Maravarman Kulasekaran",
-          "Vira Pandyan",
+          "Sundara Pandyan, son of Kulasekaran",
+          "Vira Pandyan, ruler of Madurai",
           "Jatavarman Sundarapandyan",
-          "Rajendra Chola III"
+          "Rajendra Chola III, the last Chola"
         ],
         "explanation": "Maravarman Kulasekaran made Vira Pandyan co-regent; his other son Sundara Pandyan killed him, lost the civil war and fled to Delhi."
       },
       "ta": {
         "q": "யார் டெல்லிக்குச் சென்று அலாவுதீன் கில்ஜியிடம் அடைக்கலம் புகுந்தது மாலிக் காபூரின் படையெடுப்புக்கு வழிவகுத்தது?",
         "options": [
-          "மாறவர்மன் குலசேகரனின் மகன் சுந்தர பாண்டியன்",
-          "வீர பாண்டியன்",
+          "குலசேகரனின் மகன் சுந்தர பாண்டியன்",
+          "வீர பாண்டியன், மதுரையின் ஆட்சியாளர்",
           "சடையவர்மன் சுந்தரபாண்டியன்",
-          "மூன்றாம் ராஜேந்திர சோழன்"
+          "மூன்றாம் ராஜேந்திர சோழன், கடைசிச் சோழன்"
         ],
         "explanation": "மாறவர்மன் குலசேகரன் வீர பாண்டியனை இணை ஆட்சியாளராக்கினார்; மற்றொரு மகன் சுந்தர பாண்டியன் தந்தையைக் கொன்று, உள்நாட்டுப் போரில் தோற்று டெல்லிக்குத் தப்பினார்."
       }
@@ -1097,10 +1097,10 @@
       "ta": {
         "q": "மாலிக் காபூரின் படையெடுப்புக்குப் பின் மதுரையில் நிறுவப்பட்டது எது?",
         "options": [
-          "விஜயநகரப் பேரரசின் தலைநகரம்",
-          "டெல்லி சுல்தானுக்குக் கீழ்ப்பட்ட ஒரு முஸ்லிம் அரசு",
-          "போர்த்துகீசிய வணிக மையம்",
-          "சோழப் பிரதிநிதி ஆட்சி"
+          "விஜயநகரப் பேரரசின் புதிய தலைநகரம்",
+          "டெல்லி சுல்தானுக்குக் கீழ்ப்பட்ட முஸ்லிம் அரசு",
+          "கடற்கரையில் ஒரு போர்த்துகீசிய வணிக மையம்",
+          "சோழ அரசின் பிரதிநிதி ஆட்சிப் பகுதி"
         ],
         "explanation": "மாலிக் காபூரின் படையெடுப்புக்குப் பின் பாண்டிய அரசு பல அரசர்களிடையே பிரிந்தது; மதுரையில் டெல்லி சுல்தானுக்குக் கீழ்ப்பட்ட முஸ்லிம் அரசு உருவானது."
       }
@@ -1148,7 +1148,7 @@
           "Kurram",
           "Nagaram",
           "Pallichchandam",
-          "Mangalam or Chatur-vedi-mangalam"
+          "Mangalam"
         ],
         "explanation": "Pandya kings and chiefs created Brahmin settlements called Mangalam or Chatur-vedi-mangalam."
       },
@@ -1158,7 +1158,7 @@
           "கூற்றம்",
           "நகரம்",
           "பள்ளிச்சந்தம்",
-          "மங்கலம் அல்லது சதுர்வேதி மங்கலம்"
+          "மங்கலம்"
         ],
         "explanation": "பாசன வசதியுடன் உருவாக்கப்பட்ட பிராமணர் குடியிருப்புகள் மங்கலம் அல்லது சதுர்வேதி மங்கலம் எனப்பட்டன."
       }
@@ -1348,20 +1348,20 @@
       "en": {
         "q": "The agency at Kayal that made horses available to the Pandya kings was established by the Arab chieftain",
         "options": [
-          "Muhammad bin Qasim",
-          "Malik Kafur",
+          "Muhammad bin Qasim of Sind",
+          "Malik Kafur, general of Delhi",
           "Malik-ul-Islam Jamal-ud-din",
-          "Abdur Razzaq"
+          "Abdur Razzaq of Herat"
         ],
         "explanation": "The Arab chieftain Malik-ul-Islam Jamal-ud-din set up the agency at Kayal that supplied horses."
       },
       "ta": {
         "q": "பாண்டிய மன்னர்களுக்குக் குதிரைகள் கிடைக்க வழிசெய்த காயல் முகமையை நிறுவிய அரேபியத் தலைவர் யார்?",
         "options": [
-          "முகமது பின் காசிம்",
-          "மாலிக் காபூர்",
+          "சிந்துவின் முகமது பின் காசிம்",
+          "டெல்லியின் மாலிக் காபூர்",
           "மாலிக்-உல்-இஸ்லாம் ஜமாலுதீன்",
-          "அப்துர் ரசாக்"
+          "ஹெராத்தின் அப்துர் ரசாக்"
         ],
         "explanation": "அரேபியத் தலைவர் மாலிக்-உல்-இஸ்லாம் ஜமாலுதீன் காயலில் குதிரை வழங்கும் முகமையை நிறுவினார்."
       }

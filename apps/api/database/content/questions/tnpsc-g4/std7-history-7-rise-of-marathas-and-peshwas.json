@@ -75,7 +75,7 @@
           "Its long coastline gave them a strong navy from the start",
           "Its fertile plains produced large surpluses for a big army",
           "Its rocky, mountainous terrain protected them and suited guerrilla warfare",
-          "Its deserts kept out all invaders"
+          "Its deserts kept invaders away from the region"
         ],
         "explanation": "The rocky and mountainous terrain protected the Marathas from invaders and was an advantage in guerrilla warfare."
       },
@@ -84,8 +84,8 @@
         "options": [
           "நீண்ட கடற்கரை தொடக்கம் முதலே வலிய கடற்படையைத் தந்தது",
           "வளமான சமவெளிகள் பெரிய படைக்கான உபரி விளைச்சலைத் தந்தன",
-          "பாறைகளும் மலைகளும் நிறைந்த நிலப்பரப்பு பாதுகாப்பு அளித்து கொரில்லாப் போருக்கு ஏற்றதாக இருந்தது",
-          "பாலைவனங்கள் எல்லாப் படையெடுப்பாளர்களையும் தடுத்தன"
+          "மலைப்பாறை நிலப்பரப்பு பாதுகாப்பு அளித்து கொரில்லாப் போருக்கு ஏற்றதாக இருந்தது",
+          "பாலைவனங்கள் படையெடுப்பாளர்களை அப்பகுதிக்குள் வராமல் தடுத்தன"
         ],
         "explanation": "பாறைகளும் மலைகளும் நிறைந்த நிலப்பரப்பு மராத்தியரைப் படையெடுப்பாளர்களிடமிருந்து காத்தது; கொரில்லாப் போர்முறைக்கும் உதவியது."
       }
@@ -161,7 +161,7 @@
         "options": [
           "Kavi Kalash",
           "Dadaji Kondadev",
-          "Ramdas",
+          "Moropant Pingle",
           "Anaji Datto"
         ],
         "explanation": "Dadaji Kondadev trained Shivaji in horse riding, warfare and state administration; his mother Jijabai inspired him with epic stories."
@@ -171,7 +171,7 @@
         "options": [
           "கவி கலாஷ்",
           "தாதாஜி கொண்டதேவ்",
-          "ராம்தாஸ்",
+          "மோரோபந்த் பிங்ளே",
           "அனாஜி தத்தோ"
         ],
         "explanation": "தாதாஜி கொண்டதேவ் சிவாஜிக்குக் குதிரையேற்றம், போர்க்கலை, அரசு நிர்வாகம் கற்பித்தார்; தாய் ஜீஜாபாய் இதிகாசக் கதைகளால் அவரை ஊக்குவித்தார்."
@@ -275,20 +275,20 @@
       "en": {
         "q": "How did the Sultan of Bijapur force Shivaji to suspend his raids for a time?",
         "options": [
-          "He defeated Shivaji at Javali",
-          "He held Shivaji's father captive until Shivaji promised to stop",
-          "He married his daughter to Shivaji",
-          "He paid Shivaji the Chauth"
+          "He defeated Shivaji in a battle at Javali",
+          "He kept Shivaji's father in captivity",
+          "He married his daughter to Shivaji's son",
+          "He paid Shivaji the Chauth every year"
         ],
         "explanation": "The Sultan of Bijapur held Shahji captive and released him only after Shivaji promised to suspend raids; Shivaji kept peace with Bijapur until his father's death."
       },
       "ta": {
         "q": "பீஜப்பூர் சுல்தான் சிவாஜியின் தாக்குதல்களைச் சிறிது காலம் நிறுத்தச் செய்தது எவ்வாறு?",
         "options": [
-          "ஜாவளியில் சிவாஜியைத் தோற்கடித்தார்",
-          "சிவாஜி உறுதியளிக்கும் வரை அவரது தந்தையைச் சிறைவைத்தார்",
-          "தம் மகளைச் சிவாஜிக்கு மணமுடித்தார்",
-          "சிவாஜிக்குச் சௌத் வரி செலுத்தினார்"
+          "ஜாவளியில் நடந்த போரில் சிவாஜியைத் தோற்கடித்தார்",
+          "சிவாஜியின் தந்தையைச் சிறைப்பிடித்து வைத்திருந்தார்",
+          "தம் மகளைச் சிவாஜியின் மகனுக்கு மணமுடித்தார்",
+          "ஆண்டுதோறும் சிவாஜிக்குச் சௌத் வரி செலுத்தினார்"
         ],
         "explanation": "பீஜப்பூர் சுல்தான் ஷாஜியைச் சிறைவைத்து, தாக்குதல்களை நிறுத்துவதாகச் சிவாஜி உறுதியளித்த பின்னரே விடுவித்தார்; தந்தையின் மரணம் வரை சிவாஜி அமைதி காத்தார்."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "From whom did Shivaji conquer Javali in 1656?",
         "options": [
-          "Shaista Khan",
-          "Afzal Khan",
+          "The Mughal governor Shaista Khan",
+          "The Bijapur general Afzal Khan",
           "The Maratha chief Chandrarao More",
-          "Raja Jai Singh"
+          "The Rajput commander Raja Jai Singh"
         ],
         "explanation": "Shivaji conquered Javali in 1656 from the Maratha chief Chandrarao More, and brought the lesser chiefs around Pune under him."
       },
       "ta": {
         "q": "1656 இல் சிவாஜி ஜாவளியை யாரிடமிருந்து கைப்பற்றினார்?",
         "options": [
-          "சயிஸ்தா கான்",
-          "அப்சல் கான்",
+          "முகலாய ஆளுநர் சயிஸ்தா கான்",
+          "பீஜப்பூர் தளபதி அப்சல் கான்",
           "மராத்தியத் தலைவர் சந்திரராவ் மோரே",
-          "ராஜா ஜெய்சிங்"
+          "ராஜபுத்திரத் தளபதி ராஜா ஜெய்சிங்"
         ],
         "explanation": "1656 இல் மராத்தியத் தலைவர் சந்திரராவ் மோரேயிடமிருந்து ஜாவளியைக் கைப்பற்றிய சிவாஜி, புனே சுற்றியுள்ள சிறு தலைவர்களையும் அடக்கினார்."
       }
@@ -372,10 +372,10 @@
       "ta": {
         "q": "1663 இல் சிவாஜியால் காயப்படுத்தி விரட்டப்பட்ட சயிஸ்தா கான் யார்?",
         "options": [
-          "முகலாயத் தளபதியும் ஔரங்கசீப்பின் மாமாவும்",
-          "பீஜப்பூர் தளபதி",
+          "ஔரங்கசீப்பின் மாமாவான முகலாயத் தளபதி",
+          "பீஜப்பூர் சுல்தானின் தளபதி",
           "கோவாவின் போர்த்துகீசிய ஆளுநர்",
-          "ஹைதராபாத் நிஜாம்"
+          "ஹைதராபாத்தின் நிஜாம் அரசர்"
         ],
         "explanation": "முகலாயத் தளபதியும் ஔரங்கசீப்பின் மாமாவுமான சயிஸ்தா கானை 1663 இல் சிவாஜி காயப்படுத்தி விரட்டினார்."
       }
@@ -508,7 +508,7 @@
         "q": "The title 'Chhatrapati' literally means",
         "options": [
           "conqueror of the world",
-          "master of the parasol (king)",
+          "master of the parasol",
           "defender of faith",
           "chief of the army"
         ],
@@ -518,7 +518,7 @@
         "q": "'சத்ரபதி' என்ற பட்டத்தின் நேர்ப்பொருள்",
         "options": [
           "உலகை வென்றவர்",
-          "குடையின் தலைவர் (அரசர்)",
+          "குடையின் தலைவர்",
           "சமயக் காவலர்",
           "படைத் தலைவர்"
         ],
@@ -652,20 +652,20 @@
       "en": {
         "q": "In the Maratha country, Deshmukhs controlled",
         "options": [
-          "an entire province",
-          "a single village",
-          "between twenty and a hundred villages",
-          "only forts"
+          "an entire province with its towns",
+          "a single village and its fields",
+          "twenty to a hundred villages",
+          "the hill forts of a district"
         ],
         "explanation": "Deshmukhs held sway over rural regions, controlling between twenty and a hundred villages."
       },
       "ta": {
         "q": "மராத்திய நாட்டில் தேஷ்முக்குகள் கட்டுப்படுத்தியவை",
         "options": [
-          "ஒரு முழு மாகாணம்",
-          "ஒரே ஒரு கிராமம்",
+          "நகரங்களுடன் கூடிய ஒரு முழு மாகாணம்",
+          "வயல்களுடன் கூடிய ஒரே ஒரு கிராமம்",
           "இருபது முதல் நூறு கிராமங்கள்",
-          "கோட்டைகள் மட்டும்"
+          "ஒரு மாவட்டத்தின் மலைக் கோட்டைகள்"
         ],
         "explanation": "தேஷ்முக்குகள் ஊரகப் பகுதிகளில் இருபது முதல் நூறு கிராமங்கள் வரை கட்டுப்பாடு கொண்டிருந்தனர்."
       }
@@ -884,20 +884,20 @@
       "en": {
         "q": "In Shivaji's judicial administration, civil cases were decided by",
         "options": [
-          "the Sumant",
-          "the Peshwa",
+          "the minister called Sumant",
+          "the Peshwa, the prime minister",
           "the village panchayat",
-          "Mughal Qazis"
+          "the Qazis of the Mughal courts"
         ],
         "explanation": "Civil cases went to the village panchayat, while criminal law was based on the shastras."
       },
       "ta": {
         "q": "சிவாஜியின் நீதி நிர்வாகத்தில் உரிமையியல் (சிவில்) வழக்குகளைத் தீர்த்தது",
         "options": [
-          "சுமந்த்",
-          "பேஷ்வா",
+          "சுமந்த் என்ற அமைச்சர்",
+          "பிரதம அமைச்சரான பேஷ்வா",
           "கிராமப் பஞ்சாயத்து",
-          "முகலாயக் காசிகள்"
+          "முகலாய நீதிமன்றக் காசிகள்"
         ],
         "explanation": "உரிமையியல் வழக்குகளைக் கிராமப் பஞ்சாயத்து தீர்த்தது; குற்றவியல் சட்டம் சாஸ்திரங்களை அடிப்படையாகக் கொண்டிருந்தது."
       }
@@ -1232,10 +1232,10 @@
       "en": {
         "q": "How did the Maratha army change under Peshwa Balaji Bajirao?",
         "options": [
-          "The army was disbanded in favour of Mughal troops",
-          "Soldiers were allowed to farm their land half the year",
-          "Paid soldiers lived in forts and towns and could no longer go home each year to farm",
-          "Only Deshmukhs were allowed to command"
+          "The army was replaced by Mughal troops",
+          "Soldiers were allowed to farm for half the year",
+          "Paid soldiers lived in forts and towns",
+          "Deshmukhs were given command of the army"
         ],
         "explanation": "Balaji Bajirao commanded paid soldiers who lived in forts and towns far from home; the old peasant-warrior band that went home each year to farm came to an end."
       },
@@ -1243,9 +1243,9 @@
         "q": "பேஷ்வா பாலாஜி பாஜிராவின் கீழ் மராத்தியப் படை எவ்வாறு மாறியது?",
         "options": [
           "படை கலைக்கப்பட்டு முகலாயப் படை அமர்த்தப்பட்டது",
-          "ஆண்டில் பாதி நாள் நிலத்தில் உழவு செய்ய அனுமதிக்கப்பட்டனர்",
-          "ஊதியம் பெற்ற வீரர்கள் கோட்டைகளிலும் நகரங்களிலும் வாழ்ந்தனர்; ஆண்டுதோறும் வீடு சென்று உழவு செய்ய முடியவில்லை",
-          "தேஷ்முக்குகள் மட்டுமே தலைமை தாங்க அனுமதிக்கப்பட்டனர்"
+          "வீரர்கள் ஆண்டில் பாதிக் காலம் உழவு செய்ய அனுமதிக்கப்பட்டனர்",
+          "ஊதியம் பெற்ற வீரர்கள் கோட்டைகளிலும் நகரங்களிலும் வாழ்ந்தனர்",
+          "தேஷ்முக்குகளுக்குப் படைத் தலைமை வழங்கப்பட்டது"
         ],
         "explanation": "பாலாஜி பாஜிராவ் ஊதியம் பெறும் வீரர்களைக் கொண்ட படையை வைத்திருந்தார்; அவர்கள் வீட்டிலிருந்து தொலைவில் கோட்டைகளில் வாழ்ந்தனர்; ஆண்டுதோறும் உழவுக்குத் திரும்பும் பழைய உழவர்-வீரர் முறை முடிந்தது."
       }
@@ -1261,20 +1261,20 @@
       "en": {
         "q": "Who mostly fired and maintained the large guns of the Peshwa's army?",
         "options": [
-          "Rajput gunners",
-          "Mavali foot soldiers",
-          "Afghan artillerymen",
-          "Portuguese, French and British gunners"
+          "Rajput gunners of the north",
+          "Mavali foot soldiers of the hills",
+          "Afghan artillerymen from Kabul",
+          "Portuguese and other European gunners"
         ],
         "explanation": "The large guns were nominally under Maratha officers, but were mostly fired and maintained by Portuguese, French and British men."
       },
       "ta": {
         "q": "பேஷ்வாவின் படையின் பெரிய பீரங்கிகளைப் பெரும்பாலும் இயக்கிப் பராமரித்தவர்கள் யார்?",
         "options": [
-          "ராஜபுத்திரப் பீரங்கி வீரர்கள்",
-          "மாவலி காலாட்படையினர்",
-          "ஆப்கானியப் பீரங்கி வீரர்கள்",
-          "போர்த்துகீசிய, பிரெஞ்சு, ஆங்கிலேயர்"
+          "வட இந்தியாவின் ராஜபுத்திரப் பீரங்கி வீரர்கள்",
+          "மலைப்பகுதி மாவலி காலாட்படையினர்",
+          "காபூலைச் சேர்ந்த ஆப்கானியப் பீரங்கி வீரர்கள்",
+          "போர்த்துகீசியர், பிற ஐரோப்பியப் பீரங்கி வீரர்கள்"
         ],
         "explanation": "பெரிய பீரங்கிகள் பெயரளவில் மராத்திய அலுவலர்களின் கீழ் இருந்தன; ஆனால் பெரும்பாலும் போர்த்துகீசியர், பிரெஞ்சுக்காரர், ஆங்கிலேயரே அவற்றை இயக்கிப் பராமரித்தனர்."
       }
@@ -1349,8 +1349,8 @@
         "q": "Under the Peshwas, how were revenue-collection contracts given?",
         "options": [
           "Handed to the village panchayat free of cost",
-          "Given for life to Deshmukhs",
-          "Auctioned every year; the winner paid one-third to one-half of the expected revenue in advance",
+          "Given for life to the Deshmukhs of each district",
+          "Auctioned every year to the highest bidder",
           "Sold once in ten years to Portuguese bankers"
         ],
         "explanation": "Contracts were auctioned annually on estimates from past yields; the winning collector paid one-third to one-half of the expected revenue in advance."
@@ -1359,8 +1359,8 @@
         "q": "பேஷ்வாக்களின் கீழ் வருவாய் வசூல் ஒப்பந்தங்கள் எவ்வாறு வழங்கப்பட்டன?",
         "options": [
           "கிராமப் பஞ்சாயத்துக்கு இலவசமாக வழங்கப்பட்டன",
-          "தேஷ்முக்குகளுக்கு வாழ்நாள் முழுவதும் வழங்கப்பட்டன",
-          "ஆண்டுதோறும் ஏலம் விடப்பட்டன; வென்றவர் எதிர்பார்க்கும் வருவாயில் மூன்றில் ஒன்று முதல் பாதி வரை முன்கூட்டியே செலுத்தினார்",
+          "மாவட்டத் தேஷ்முக்குகளுக்கு வாழ்நாளுக்கும் வழங்கப்பட்டன",
+          "ஆண்டுதோறும் அதிக ஏலத்தொகை கேட்டவருக்கு ஏலம் விடப்பட்டன",
           "பத்தாண்டுக்கு ஒருமுறை போர்த்துகீசிய வங்கியாளர்களுக்கு விற்கப்பட்டன"
         ],
         "explanation": "முந்தைய ஆண்டு விளைச்சலின் அடிப்படையில் மதிப்பிட்டு ஒப்பந்தங்கள் ஆண்டுதோறும் ஏலம் விடப்பட்டன; வென்றவர் எதிர்பார்க்கும் வருவாயில் மூன்றில் ஒன்று முதல் பாதி வரை முன்பணமாகச் செலுத்தினார்."

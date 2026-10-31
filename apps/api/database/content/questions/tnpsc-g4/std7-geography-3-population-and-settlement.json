@@ -104,7 +104,7 @@
           "the people living within one country",
           "a group of people speaking the same language",
           "a group of people following the same religion",
-          "a biological grouping within the human species with inherited distinguishing characteristics"
+          "a biological grouping within the human species"
         ],
         "explanation": "The text defines race as a biological grouping with more or less permanent inherited characteristics, based on visual traits like head shape, skin colour and stature."
       },
@@ -114,7 +114,7 @@
           "ஒரு நாட்டில் வாழும் மக்கள்",
           "ஒரே மொழி பேசும் மக்கள் குழு",
           "ஒரே சமயத்தைப் பின்பற்றும் மக்கள் குழு",
-          "மரபுவழியாகப் பெறப்படும் தனித்த பண்புகளைக் கொண்ட, மனித இனத்துக்குள் உள்ள உயிரியல் தொகுப்பு"
+          "மனித இனத்துக்குள் உள்ள ஒரு உயிரியல் தொகுப்பு"
         ],
         "explanation": "தலை வடிவம், தோல் நிறம், உயரம் போன்ற மரபுவழிப் பண்புகளைக் கொண்ட உயிரியல் தொகுப்பே இனம் எனப் பாடநூல் வரையறுக்கிறது."
       }
@@ -200,7 +200,7 @@
         "options": [
           "இனச் சமயங்கள்",
           "உலகளாவிய சமயங்கள்",
-          "பழங்குடி அல்லது மரபுவழிச் சமயங்கள்",
+          "பழங்குடிச் சமயங்கள்",
           "அரசு சமயங்கள்"
         ],
         "explanation": "ஆன்மவாதம், ஷாமனியம் பழங்குடி அல்லது மரபுவழிச் சமயங்கள்."
@@ -362,20 +362,20 @@
       "en": {
         "q": "The initial choice of a site for a settlement depends mainly on",
         "options": [
-          "how useful it is for daily needs such as water supply, farmland, building material and fuel",
-          "the number of smart cities nearby",
-          "its distance from the national capital",
-          "the language spoken by the people"
+          "how well it meets daily needs such as water and farmland",
+          "how many smart cities have already been built nearby",
+          "how far it is from the national capital city",
+          "which language is spoken by the people nearby"
         ],
         "explanation": "A site is chosen for its usefulness in meeting daily needs: water, farmland, building material and fuel."
       },
       "ta": {
         "q": "குடியிருப்புக்கான இடத்தை முதலில் தேர்ந்தெடுப்பது முக்கியமாக எதைச் சார்ந்துள்ளது?",
         "options": [
-          "நீர் வழங்கல், விளைநிலம், கட்டுமானப் பொருள், எரிபொருள் போன்ற அன்றாடத் தேவைகளுக்கு அது எவ்வளவு பயன்படும் என்பதை",
-          "அருகிலுள்ள பொலிவுறு நகரங்களின் எண்ணிக்கையை",
-          "நாட்டின் தலைநகரிலிருந்து அதன் தொலைவை",
-          "மக்கள் பேசும் மொழியை"
+          "நீர், விளைநிலம் போன்ற அன்றாடத் தேவைகளுக்கு அது எவ்வளவு பயன்படும் என்பதை",
+          "அருகில் எத்தனை பொலிவுறு நகரங்கள் ஏற்கெனவே உருவாக்கப்பட்டுள்ளன என்பதை",
+          "நாட்டின் தலைநகரிலிருந்து அந்த இடம் எவ்வளவு தொலைவில் உள்ளது என்பதை",
+          "அந்தப் பகுதி மக்கள் எந்த மொழியைப் பேசுகிறார்கள் என்பதை"
         ],
         "explanation": "நீர், விளைநிலம், கட்டுமானப் பொருள், எரிபொருள் போன்ற அன்றாடத் தேவைகளுக்கு எவ்வளவு பயன்படும் என்பதைப் பொறுத்தே இடம் தேர்ந்தெடுக்கப்படுகிறது."
       }
@@ -402,7 +402,7 @@
         "q": "வீடுகள் மிக நெருக்கமாகக் கட்டப்படும் செறிவான குடியிருப்பு வேறு எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "சிதறிய குடியிருப்பு",
-          "உட்கரு (குவிந்த) குடியிருப்பு",
+          "உட்கரு குடியிருப்பு",
           "நேர்கோட்டுக் குடியிருப்பு",
           "துணைக் குடியிருப்பு"
         ],
@@ -420,20 +420,20 @@
       "en": {
         "q": "In India, compact settlements are found in the",
         "options": [
-          "foothills of the Himalayas",
-          "Thar Desert of Rajasthan",
-          "northern plains and the coastal plains of peninsular India",
-          "Nilgiris"
+          "steep foothills of the Himalayas",
+          "arid Thar Desert region of Rajasthan",
+          "northern plains and peninsular coastal plains",
+          "high hill slopes of the Nilgiris"
         ],
         "explanation": "Compact settlements develop along river valleys and fertile plains, such as the northern plains and the peninsular coastal plains."
       },
       "ta": {
         "q": "இந்தியாவில் செறிவான குடியிருப்புகள் எங்கு காணப்படுகின்றன?",
         "options": [
-          "இமயமலை அடிவாரம்",
-          "ராஜஸ்தானின் தார் பாலைவனம்",
-          "வடபெரும் சமவெளிகள், தீபகற்ப இந்தியாவின் கடற்கரைச் சமவெளிகள்",
-          "நீலகிரி"
+          "இமயமலையின் செங்குத்தான அடிவாரம்",
+          "ராஜஸ்தானின் வறண்ட தார் பாலைவனப் பகுதி",
+          "வடபெரும் சமவெளிகள், தீபகற்பக் கடற்கரைச் சமவெளிகள்",
+          "நீலகிரியின் உயரமான மலைச்சரிவுகள்"
         ],
         "explanation": "செறிவான குடியிருப்புகள் ஆற்றுப் பள்ளத்தாக்குகள், வளமான சமவெளிகளில் உருவாகின்றன: வடபெரும் சமவெளிகள், தீபகற்பக் கடற்கரைச் சமவெளிகள்."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "Dry point settlements, located in low-lying areas of excessive dampness but not affected by floods, are found in",
         "options": [
-          "the Thar Desert",
-          "the coastal plains of Kerala and the deltas along the east coast of India",
-          "the Himalayan foothills",
-          "the Deccan Plateau"
+          "the dry sandy plains of the Thar Desert",
+          "the coastal plains of Kerala and the east-coast deltas",
+          "the steep Himalayan foothills in the north",
+          "the rocky interior of the Deccan Plateau"
         ],
         "explanation": "Dry point settlements occur in the coastal plains of Kerala and the east-coast deltas."
       },
       "ta": {
         "q": "அதிக ஈரப்பதமுள்ள தாழ்நிலங்களில் அமைந்தும் வெள்ளத்தால் பாதிக்கப்படாத உலர் நிலக் குடியிருப்புகள் எங்கு காணப்படுகின்றன?",
         "options": [
-          "தார் பாலைவனம்",
-          "கேரளக் கடற்கரைச் சமவெளிகள், இந்தியக் கிழக்குக் கடற்கரை டெல்டாக்கள்",
-          "இமயமலை அடிவாரம்",
-          "தக்காணப் பீடபூமி"
+          "வறண்ட மணல் நிறைந்த தார் பாலைவனம்",
+          "கேரளக் கடற்கரைச் சமவெளிகள், கிழக்குக் கடற்கரை டெல்டாக்கள்",
+          "வடக்கே உள்ள செங்குத்தான இமயமலை அடிவாரம்",
+          "பாறைகள் நிறைந்த தக்காணப் பீடபூமியின் உட்பகுதி"
         ],
         "explanation": "உலர் நிலக் குடியிருப்புகள் கேரளக் கடற்கரைச் சமவெளிகளிலும் கிழக்குக் கடற்கரை டெல்டாக்களிலும் காணப்படுகின்றன."
       }
@@ -780,7 +780,7 @@
         "options": [
           "குக்கிராமம்",
           "துணை நகரம்",
-          "மெகாலோபோலிஸ் (மாநகர்த் தொகுதி)",
+          "மெகாலோபோலிஸ்",
           "உலர் நிலக் குடியிருப்பு"
         ],
         "explanation": "மொத்த மக்கள்தொகை 1 கோடியைத் தாண்டும் இரண்டு அல்லது அதற்கு மேற்பட்ட பெருநகரங்களின் தொகுப்பு மெகாலோபோலிஸ்; எ.கா. பாஸ்டன் – வாஷிங்டன் டி.சி."
@@ -827,9 +827,9 @@
         "q": "Which city heads the list of India's first smart cities given in the text?",
         "options": [
           "Bhubaneswar",
-          "Pune",
-          "Chennai",
-          "Surat"
+          "Hyderabad",
+          "Bengaluru",
+          "Jamshedpur"
         ],
         "explanation": "A smart city is very advanced in infrastructure, real estate, communication and market availability; Bhubaneswar heads the first list."
       },
@@ -837,9 +837,9 @@
         "q": "பாடநூல் தரும் இந்தியாவின் முதல் பொலிவுறு நகரங்கள் பட்டியலில் முதலிடம் பெற்ற நகரம் எது?",
         "options": [
           "புவனேஸ்வர்",
-          "புனே",
-          "சென்னை",
-          "சூரத்"
+          "ஐதராபாத்",
+          "பெங்களூரு",
+          "ஜாம்ஷெட்பூர்"
         ],
         "explanation": "உள்கட்டமைப்பு, மனை வணிகம், தகவல் தொடர்பு, சந்தை வசதிகளில் மிக முன்னேறிய நகரம் பொலிவுறு நகரம்; முதல் பட்டியலில் புவனேஸ்வர் முதலிடம் பெற்றது."
       }
@@ -913,20 +913,20 @@
       "en": {
         "q": "In early agricultural settlements, the roofs of houses were usually made of",
         "options": [
-          "marble",
-          "concrete slabs",
-          "steel sheets",
-          "stalks of paddy or other crops, grass or thatch"
+          "polished marble slabs",
+          "reinforced concrete slabs",
+          "corrugated steel sheets",
+          "crop stalks, grass or thatch"
         ],
         "explanation": "Early houses used local materials: mud walls, roofs of crop stalks, grass or thatch on a frame of local wood, with wide verandahs."
       },
       "ta": {
         "q": "தொடக்ககால வேளாண் குடியிருப்புகளில் வீடுகளின் கூரைகள் பொதுவாக எதனால் அமைக்கப்பட்டன?",
         "options": [
-          "பளிங்கு",
-          "கான்கிரீட் பலகைகள்",
-          "எஃகுத் தகடுகள்",
-          "நெல் அல்லது பிற பயிர்களின் தாள், புல் அல்லது ஓலை"
+          "மெருகிடப்பட்ட பளிங்குக் கற்கள்",
+          "வலுவூட்டிய கான்கிரீட் பலகைகள்",
+          "அலைவடிவ எஃகுத் தகடுகள்",
+          "பயிர்த் தாள், புல் அல்லது ஓலை"
         ],
         "explanation": "தொடக்ககால வீடுகள் உள்ளூர்ப் பொருள்களால் கட்டப்பட்டன: மண் சுவர்கள், உள்ளூர் மரச் சட்டத்தின் மேல் பயிர்த் தாள், புல் அல்லது ஓலைக் கூரை, அகன்ற தாழ்வாரங்கள்."
       }

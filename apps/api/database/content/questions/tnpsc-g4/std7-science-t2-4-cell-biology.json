@@ -190,7 +190,7 @@
         "options": [
           "the chloroplast",
           "the cell wall",
-          "the nucleus (in most eukaryotic cells)",
+          "the nucleus",
           "the centriole"
         ],
         "explanation": "The cell wall and chloroplasts are found only in plant cells."
@@ -200,7 +200,7 @@
         "options": [
           "பசுங்கணிகம்",
           "செல் சுவர்",
-          "உட்கரு (பெரும்பாலான யூகேரியாட்டுச் செல்களில்)",
+          "உட்கரு",
           "சென்ட்ரியோல்"
         ],
         "explanation": "செல் சுவரும் பசுங்கணிகமும் தாவரச் செல்களில் மட்டுமே உள்ளன."
@@ -217,20 +217,20 @@
       "en": {
         "q": "Cell membranes are selectively permeable, which means they",
         "options": [
-          "allow only water to pass out",
-          "allow all substances to pass freely",
-          "allow no substance to pass",
-          "allow only certain substances to pass in and out of the cell"
+          "let water pass out of the cell but not in",
+          "let nearly everything pass through freely",
+          "keep the cell rigid and give it shape",
+          "let certain substances pass in and out"
         ],
         "explanation": "The cell membrane surrounds all animal and plant cells."
       },
       "ta": {
         "q": "செல் சவ்வுகள் தேர்ந்தெடுத்து ஊடுருவ விடுபவை (selectively permeable) என்பதன் பொருள்",
         "options": [
-          "நீரை மட்டுமே வெளியேற்றும்",
-          "எல்லாப் பொருள்களையும் தடையின்றி அனுமதிக்கும்",
-          "எந்தப் பொருளையும் அனுமதிக்காது",
-          "சில பொருள்களை மட்டுமே செல்லுக்குள்ளும் வெளியிலும் செல்ல அனுமதிக்கும்"
+          "நீரை வெளியே செல்ல விடும்; உள்ளே விடாது",
+          "கிட்டத்தட்ட எல்லாவற்றையும் தடையின்றி அனுமதிக்கும்",
+          "செல்லை உறுதியாகவும் வடிவத்துடனும் வைத்திருக்கும்",
+          "சில பொருள்களைச் செல்லுக்குள்ளும் வெளியிலும் செல்ல அனுமதிக்கும்"
         ],
         "explanation": "செல் சவ்வு எல்லா விலங்கு, தாவரச் செல்களையும் சூழ்ந்துள்ளது."
       }
@@ -422,7 +422,7 @@
         "options": [
           "chlorophyll",
           "DNA",
-          "ATP (adenosine triphosphate)",
+          "ATP",
           "cellulose"
         ],
         "explanation": "Aerobic respiratory reactions take place within the mitochondrion to release energy."
@@ -432,7 +432,7 @@
         "options": [
           "பச்சையம்",
           "DNA",
-          "ATP (அடினோசின் டிரைபாஸ்பேட்)",
+          "ATP",
           "செல்லுலோஸ்"
         ],
         "explanation": "இழைமணியினுள் காற்றுள்ள சுவாச வினைகள் நடைபெற்று ஆற்றல் வெளிப்படுகிறது."
@@ -548,7 +548,7 @@
         "options": [
           "சென்ட்ரியோல்",
           "லைசோசோம்",
-          "கோல்கை உறுப்பு (கோல்கை தொகுப்பு)",
+          "கோல்கை உறுப்பு",
           "பசுங்கணிகம்"
         ],
         "explanation": "கோல்கை உறுப்பு, சுரப்பு வெசிகிள்களுடன் ஒன்றன்மீது ஒன்றாக அடுக்கப்பட்ட சவ்வுப் பைகளால் ஆனது."
@@ -568,7 +568,7 @@
           "supply energy to the cell",
           "produce food for the cell",
           "store the genetic material",
-          "can lyse (digest) the cell itself"
+          "can digest the cell itself"
         ],
         "explanation": "Lysosomes are the main digestive compartments of the cell; they are too small to be seen with a light microscope."
       },
@@ -578,7 +578,7 @@
           "செல்லுக்கு ஆற்றலை அளிக்கின்றன",
           "செல்லுக்கான உணவைத் தயாரிக்கின்றன",
           "மரபுப் பொருளைச் சேமிக்கின்றன",
-          "செல்லையே சிதைத்து (செரித்து) விடக்கூடியவை"
+          "செல்லையே செரித்து விடக்கூடியவை"
         ],
         "explanation": "லைசோசோம்கள் செல்லின் முக்கிய செரிமானப் பகுதிகள்; ஒளி நுண்ணோக்கியில் காண முடியாத அளவு சிறியவை."
       }
@@ -652,20 +652,20 @@
       "en": {
         "q": "The smooth endoplasmic reticulum plays a role in the synthesis of",
         "options": [
-          "chlorophyll",
-          "proteins only",
+          "chlorophyll pigments",
+          "proteins for export",
           "lipids and steroids",
-          "ATP"
+          "ATP molecules"
         ],
         "explanation": "It is a network of tubular sacs without ribosomes, and it also transports these substances within the cell."
       },
       "ta": {
         "q": "வழவழப்பான எண்டோபிளாஸ்மிக் வலையுரு (smooth ER) எவற்றின் தொகுப்பில் பங்கு வகிக்கிறது?",
         "options": [
-          "பச்சையம்",
-          "புரதங்கள் மட்டும்",
+          "பச்சைய நிறமிகள்",
+          "ஏற்றுமதிக்கான புரதங்கள்",
           "கொழுப்புகள், ஸ்டீராய்டுகள்",
-          "ATP"
+          "ATP மூலக்கூறுகள்"
         ],
         "explanation": "ரைபோசோம்கள் இல்லாத குழாய் போன்ற பைகளின் வலையமைப்பான இது, அப்பொருள்களை செல்லுக்குள் கடத்தவும் செய்கிறது."
       }
@@ -720,9 +720,9 @@
       "ta": {
         "q": "ஸ்டெம் செல்களை (தண்டு செல்கள்) அறிவியலாளர்களும் மருத்துவர்களும் எந்த நோய்களைக் குணப்படுத்தவும் தடுக்கவும் பயன்படுத்துகின்றனர்?",
         "options": [
-          "தண்டுவடக் காயம் போன்ற நோய்கள்",
-          "சாதாரண சளி",
-          "பல் சொத்தை",
+          "தண்டுவடக் காயம்",
+          "சாதாரண சளித் தொற்று",
+          "பல் சொத்தை நோய்",
           "மாலைக்கண் நோய்"
         ],
         "explanation": "கருநிலை ஸ்டெம் செல்கள் பகுத்துப் பெருகும்; இரத்தம், நரம்பு, தசை, சுரப்பிச் செல் எனப் பல வகையாக மாறக்கூடியவை."
@@ -770,7 +770,7 @@
         "options": [
           "a snake bite",
           "a bone fracture",
-          "food-borne infection (food poisoning)",
+          "food poisoning",
           "a dental cavity"
         ],
         "explanation": "Bacteria are micro-organisms that cannot be seen with the naked eye; they can be seen only under a microscope."
@@ -780,7 +780,7 @@
         "options": [
           "பாம்புக் கடி",
           "எலும்பு முறிவு",
-          "உணவு வழித் தொற்று (உணவு நஞ்சாதல்)",
+          "உணவு நஞ்சாதல்",
           "பற்குழி"
         ],
         "explanation": "பாக்டீரியாக்கள் நுண்ணுயிரிகள்; வெறுங்கண்ணால் காண இயலாது, நுண்ணோக்கியால் மட்டுமே காணலாம்."

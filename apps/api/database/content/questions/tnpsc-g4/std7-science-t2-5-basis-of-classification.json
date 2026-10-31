@@ -15,9 +15,9 @@
         "q": "Grouping of living organisms based on their common features is known as",
         "options": [
           "biological classification",
-          "identification",
-          "assortment",
-          "dichotomy"
+          "identification of species",
+          "random assortment of life",
+          "dichotomous branching"
         ],
         "explanation": "Biologists have classified organisms into two broad groups, plants and animals, to know their behaviour and relationships."
       },
@@ -372,7 +372,7 @@
       "ta": {
         "q": "ஒரு குறிப்பிட்ட இடத்தில் பழக்கத்தில் உள்ள உள்ளூர்ப் பெயர் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "உள்ளூர்ப் பெயர் (vernacular name)",
+          "உள்ளூர்ப் பெயர்",
           "இருசொல் பெயர்",
           "அறிவியல் பெயர்",
           "பேரினப் பெயர்"
@@ -478,7 +478,7 @@
       "en": {
         "q": "Ascaris lumbricoides, an unsegmented parasitic worm, belongs to the phylum",
         "options": [
-          "Aschelminthes (Nematoda)",
+          "Aschelminthes",
           "Annelida",
           "Platyhelminthes",
           "Echinodermata"
@@ -488,7 +488,7 @@
       "ta": {
         "q": "பகுதிகளற்ற உடலுடைய சிற்றுண்ணிப் புழுவான அஸ்காரிஸ் லம்பிரிகாய்டஸ் எந்தத் தொகுதியைச் சேர்ந்தது?",
         "options": [
-          "அஸ்கெல்மின்தஸ் (நெமட்டோடா)",
+          "அஸ்கெல்மின்தஸ்",
           "அனலிடா",
           "பிளாட்டிஹெல்மின்தஸ்",
           "எக்கைனோடெர்மேட்டா"
@@ -604,7 +604,7 @@
       "ta": {
         "q": "படகு போன்ற உடலும் இணைத் துடுப்புகளும் நடுத் துடுப்புகளும் கொண்ட, நீரில் வாழும் குளிர் இரத்த முதுகெலும்பிகள் எந்த வகுப்பைச் சேர்ந்தவை?",
         "options": [
-          "பிசிஸ் (மீன்கள்)",
+          "பிசிஸ்",
           "ஆம்பிபியா",
           "ரெப்டிலியா",
           "ஏவ்ஸ்"
@@ -623,20 +623,20 @@
       "en": {
         "q": "Which of the following animals is an amphibian?",
         "options": [
-          "Crocodile",
+          "Saltwater crocodile",
           "Salamander",
-          "Kiwi",
-          "Kangaroo"
+          "Kiwi bird",
+          "Australian kangaroo"
         ],
         "explanation": "Frog, toad, salamander and caecilian are amphibians; the crocodile is a reptile, the kiwi a bird and the kangaroo a mammal."
       },
       "ta": {
         "q": "பின்வரும் விலங்குகளில் இருவாழ்வி எது?",
         "options": [
-          "முதலை",
+          "கடல் முதலை",
           "சாலமாண்டர்",
-          "கிவி",
-          "கங்காரு"
+          "கிவி பறவை",
+          "ஆஸ்திரேலிய கங்காரு"
         ],
         "explanation": "தவளை, தேரை, சாலமாண்டர், சீசிலியன் ஆகியவை இருவாழ்விகள்; முதலை ஊர்வன, கிவி பறவை, கங்காரு பாலூட்டி."
       }
@@ -653,19 +653,19 @@
         "q": "Which of the following features is characteristic of mammals?",
         "options": [
           "Scales over the body and cold blood",
-          "Exoskeleton of feathers",
-          "External ear (pinna) and non-nucleated red blood cells",
-          "Locomotion by fins"
+          "Exoskeleton made of feathers and scales",
+          "External ear and non-nucleated red blood cells",
+          "Locomotion by paired and median fins"
         ],
         "explanation": "Mammals also have a muscular diaphragm and heterodont and diphyodont dentition."
       },
       "ta": {
         "q": "பாலூட்டிகளுக்கே உரிய சிறப்புப் பண்பு எது?",
         "options": [
-          "உடலில் செதில்கள், குளிர் இரத்தம்",
-          "இறகுகளாலான புறவன்கூடு",
-          "வெளிக்காது (செவிமடல்), உட்கருவற்ற இரத்தச் சிவப்பணுக்கள்",
-          "துடுப்புகளால் நகர்தல்"
+          "உடலில் செதில்களும் குளிர் இரத்தமும்",
+          "இறகுகளும் செதில்களுமான புறவன்கூடு",
+          "வெளிக்காது, உட்கருவற்ற இரத்தச் சிவப்பணுக்கள்",
+          "துடுப்புகளால் நீந்தி நகர்தல்"
         ],
         "explanation": "பாலூட்டிகளுக்குத் தசையாலான உதரவிதானமும், பலவகைப் பற்களும் (heterodont), இருமுறைப் பல்லமைப்பும் (diphyodont) உண்டு."
       }
@@ -720,7 +720,7 @@
       "ta": {
         "q": "விதைகளை உருவாக்காத தாவரங்கள் மூன்று வகைகளாகப் பிரிக்கப்படுகின்றன. அவை",
         "options": [
-          "பாசிகள், மாசிகள் (மாஸ்), பெரணிகள்",
+          "பாசிகள், மாசிகள், பெரணிகள்",
           "திறந்த விதைத் தாவரங்கள், மூடிய விதைத் தாவரங்கள், பெரணிகள்",
           "ஒருவிதையிலைத் தாவரங்கள், இருவிதையிலைத் தாவரங்கள், பாசிகள்",
           "கூம்புத் தாவரங்கள், மாசிகள், பாசிகள்"
@@ -768,9 +768,9 @@
       "en": {
         "q": "Mosses are referred to as amphibious plants because they",
         "options": [
-          "produce seeds and fruits",
-          "live only in deep oceans",
-          "need moisture (water) to complete their life cycle",
+          "produce seeds and fruits like flowering plants",
+          "live in the deep ocean water",
+          "need moisture to complete their life cycle",
           "have true roots and vascular tissues"
         ],
         "explanation": "Mosses are not differentiated into true root, stem and leaves and have no specialised vascular tissues; Funaria is an example."
@@ -778,9 +778,9 @@
       "ta": {
         "q": "மாசிகள் (மாஸ்கள்) நீர்நில வாழ்த் தாவரங்கள் எனப்படுவதற்குக் காரணம், அவை",
         "options": [
-          "விதைகளையும் கனிகளையும் உருவாக்குபவை",
-          "ஆழ்கடலில் மட்டுமே வாழ்பவை",
-          "வாழ்க்கைச் சுழற்சியை முடிக்க ஈரப்பதம் (நீர்) தேவைப்படுபவை",
+          "மலரும் தாவரங்களைப் போல விதைகளையும் கனிகளையும் உருவாக்குபவை",
+          "ஆழ்கடல் நீரில் மிதந்து வாழ்பவை",
+          "வாழ்க்கைச் சுழற்சியை முடிக்க ஈரப்பதம் தேவைப்படுபவை",
           "உண்மையான வேர்களும் கடத்துத் திசுக்களும் உடையவை"
         ],
         "explanation": "மாசிகள் உண்மையான வேர், தண்டு, இலைகளாகப் பிரிக்கப்படாதவை; சிறப்புக் கடத்துத் திசுக்கள் இல்லை; ஃபுனேரியா எடுத்துக்காட்டு."
@@ -855,20 +855,20 @@
       "en": {
         "q": "Angiosperms are known as flowering plants because they produce flowers with four whorls. These are",
         "options": [
-          "root, stem, leaf and flower",
+          "root whorl, stem whorl, leaf whorl and flower whorl",
           "calyx, corolla, androecium and gynoecium",
-          "xylem, phloem, ovary and ovule",
-          "sepal, petal, fruit and seed"
+          "xylem whorl, phloem whorl, ovary and ovule",
+          "calyx, corolla, fruit whorl and seed whorl"
         ],
         "explanation": "In angiosperms the ovary inside the flower develops into the fruit and the ovule develops into the seed."
       },
       "ta": {
         "q": "மூடிய விதைத் தாவரங்கள் நான்கு வட்டங்களுடன் கூடிய மலர்களை உருவாக்குவதால் மலரும் தாவரங்கள் எனப்படுகின்றன. அந்நான்கு வட்டங்கள்",
         "options": [
-          "வேர், தண்டு, இலை, மலர்",
+          "வேர் வட்டம், தண்டு வட்டம், இலை வட்டம், மலர் வட்டம்",
           "புல்லிவட்டம், அல்லிவட்டம், மகரந்தத்தாள் வட்டம், சூலகவட்டம்",
-          "சைலம், புளோயம், சூலகப்பை, சூல்",
-          "புல்லி, அல்லி, கனி, விதை"
+          "சைலம் வட்டம், புளோயம் வட்டம், சூலகப்பை, சூல்",
+          "புல்லிவட்டம், அல்லிவட்டம், கனி வட்டம், விதை வட்டம்"
         ],
         "explanation": "மூடிய விதைத் தாவரங்களில் மலரினுள் உள்ள சூலகப்பை கனியாகவும், சூல் விதையாகவும் வளர்கின்றன."
       }
@@ -971,9 +971,9 @@
       "en": {
         "q": "The five kingdoms of Whittaker were formed on the basis of characteristics such as",
         "options": [
-          "size, colour, shape and weight",
-          "cell structure, mode of nutrition, source of nutrition and body organisation",
-          "habitat, climate, season and soil",
+          "size, colour, shape and weight of organisms",
+          "cell structure, nutrition and body organisation",
+          "habitat, climate, season and soil type",
           "number of legs, wings, eyes and tails"
         ],
         "explanation": "These characteristics separate the kingdoms Monera, Protista, Fungi, Plantae and Animalia."
@@ -981,9 +981,9 @@
       "ta": {
         "q": "விட்டேக்கரின் ஐந்து திணைகள் எவற்றின் அடிப்படையில் உருவாக்கப்பட்டன?",
         "options": [
-          "அளவு, நிறம், வடிவம், எடை",
-          "செல் அமைப்பு, ஊட்டமுறை, ஊட்ட மூலம், உடல் அமைப்பு",
-          "வாழிடம், காலநிலை, பருவம், மண்",
+          "உயிரினங்களின் அளவு, நிறம், வடிவம், எடை",
+          "செல் அமைப்பு, ஊட்டமுறை, உடல் அமைப்பு",
+          "வாழிடம், காலநிலை, பருவம், மண் வகை",
           "கால்கள், சிறகுகள், கண்கள், வால்களின் எண்ணிக்கை"
         ],
         "explanation": "இப்பண்புகளே மொனிரா, புரோட்டிஸ்டா, பூஞ்சை, தாவரம், விலங்கு திணைகளைப் பிரிக்கின்றன."
@@ -1039,9 +1039,9 @@
       "ta": {
         "q": "அமீபா, பாராமீசியம் போன்ற, விலங்கு போன்ற புரோட்டிஸ்டுகள் (புரோட்டோசோவாக்கள்) எந்தத் திணையைச் சேர்ந்தவை?",
         "options": [
-          "பூஞ்சை",
-          "மொனிரா",
-          "விலங்கு",
+          "பூஞ்சைத் திணை",
+          "மொனிரா திணை",
+          "விலங்குத் திணை",
           "புரோட்டிஸ்டா"
         ],
         "explanation": "தாவரம் போன்ற புரோட்டிஸ்டுகள் ஒளிச்சேர்க்கை செய்பவை; அவை பாசிகள் எனப்படும்."
@@ -1058,9 +1058,9 @@
       "en": {
         "q": "Fungi obtain their food by",
         "options": [
-          "secreting enzymes to digest the food and then absorbing it",
+          "secreting enzymes and absorbing the digested food",
           "photosynthesis using chlorophyll",
-          "swallowing the food whole",
+          "swallowing the food in solid pieces",
           "making food from sunlight and air"
         ],
         "explanation": "Fungi live as saprophytes (decomposers) or as parasites; they include moulds, mildews, mushrooms and yeast."
@@ -1145,10 +1145,10 @@
       "en": {
         "q": "One demerit of the five kingdom classification is that",
         "options": [
-          "it was proposed 2000 years ago",
-          "it does not recognise animals",
-          "it has only one kingdom",
-          "viruses have not been given a proper place in it"
+          "it was proposed over 2000 years ago",
+          "it does not recognise animals as a kingdom",
+          "it recognises a single large kingdom",
+          "viruses have no proper place in it"
         ],
         "explanation": "Another demerit is that multicellular organisms have originated several times from protists."
       },
@@ -1156,9 +1156,9 @@
         "q": "ஐந்து திணை வகைப்பாட்டின் ஒரு குறைபாடு",
         "options": [
           "இது 2000 ஆண்டுகளுக்கு முன் முன்மொழியப்பட்டது",
-          "இது விலங்குகளை ஏற்பதில்லை",
-          "இதில் ஒரே ஒரு திணை மட்டுமே உள்ளது",
-          "வைரஸ்களுக்கு இதில் உரிய இடம் அளிக்கப்படவில்லை"
+          "விலங்குகளைத் திணையாக இது ஏற்பதில்லை",
+          "இது ஒரே ஒரு பெரிய திணையை ஏற்கிறது",
+          "வைரஸ்களுக்கு இதில் உரிய இடம் இல்லை"
         ],
         "explanation": "மேலும், புரோட்டிஸ்டுகளிலிருந்து பல செல் உயிரிகள் பலமுறை தோன்றியுள்ளன என்பதும் ஒரு குறைபாடு."
       }

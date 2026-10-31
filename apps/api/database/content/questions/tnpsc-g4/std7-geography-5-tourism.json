@@ -54,7 +54,7 @@
         "q": "சுற்றுலாவின் 'A3 கருத்து' என்பது",
         "options": [
           "வான்வழி, தங்குமிடம், முகவர்கள்",
-          "ஈர்ப்பு, அணுகல், வசதிகள் (Attraction, Accessibility, Amenities)",
+          "ஈர்ப்பு, அணுகல், வசதிகள்",
           "கலை, கட்டடக்கலை, தொன்மை",
           "சாகசம், கேளிக்கை, செயல்பாடு"
         ],
@@ -72,20 +72,20 @@
       "en": {
         "q": "Which of these is a cultural attraction rather than a natural attraction?",
         "options": [
-          "Forests",
-          "Beaches",
+          "Dense hill forests",
+          "Beautiful sandy beaches",
           "Fairs and festivals",
-          "Seascape"
+          "A beautiful seascape"
         ],
         "explanation": "Natural attractions include landscape, seascape, beaches, climate and forests; cultural attractions are historic monuments, intellectual creations, fairs and festivals."
       },
       "ta": {
         "q": "இவற்றுள் இயற்கை ஈர்ப்பு அல்லாத பண்பாட்டு ஈர்ப்பு எது?",
         "options": [
-          "காடுகள்",
-          "கடற்கரைகள்",
+          "அடர்ந்த மலைக் காடுகள்",
+          "அழகிய மணல் கடற்கரைகள்",
           "சந்தைகளும் திருவிழாக்களும்",
-          "கடல் காட்சி"
+          "அழகிய கடல் காட்சிகள்"
         ],
         "explanation": "நிலக்காட்சி, கடல் காட்சி, கடற்கரைகள், காலநிலை, காடுகள் இயற்கை ஈர்ப்புகள்; வரலாற்றுச் சின்னங்கள், அறிவுப் படைப்புகள், சந்தைகள், திருவிழாக்கள் பண்பாட்டு ஈர்ப்புகள்."
       }
@@ -101,20 +101,20 @@
       "en": {
         "q": "In tourism, 'accessibility' means",
         "options": [
-          "the passport and visa rules",
-          "the hotels and restaurants available",
-          "the beauty of the landscape",
-          "how a place of attraction can be reached by road, rail, water or air"
+          "the passport and visa rules for visitors",
+          "the hotels and restaurants at the place",
+          "the beauty of the local landscape",
+          "how easily visitors can reach the place"
         ],
         "explanation": "Accessibility is reachability through transport; transport decides the cost and time of travel. Hotels and agencies are amenities."
       },
       "ta": {
         "q": "சுற்றுலாவில் 'அணுகல்' (accessibility) என்பது",
         "options": [
-          "கடவுச்சீட்டு, நுழைவு இசைவு விதிகள்",
-          "கிடைக்கும் விடுதிகள், உணவகங்கள்",
-          "நிலக்காட்சியின் அழகு",
-          "சாலை, இரயில், நீர், வான் வழியாக ஈர்ப்பு இடத்தை அடையும் வசதி"
+          "பயணிகளுக்கான கடவுச்சீட்டு, நுழைவு இசைவு விதிகள்",
+          "அங்குக் கிடைக்கும் விடுதிகள், உணவகங்கள்",
+          "உள்ளூர் நிலக்காட்சியின் அழகு",
+          "ஈர்ப்பு இடத்தை எளிதில் அடையும் வசதி"
         ],
         "explanation": "அணுகல் என்பது போக்குவரத்து மூலம் இடத்தை அடையும் வசதி; போக்குவரத்தே பயணச் செலவையும் நேரத்தையும் தீர்மானிக்கிறது. விடுதிகள், முகமைகள் வசதிகள் ஆகும்."
       }
@@ -333,9 +333,9 @@
       "en": {
         "q": "An area of land set aside for the protection of wild animals is called a",
         "options": [
-          "cirque",
-          "geyser",
-          "moor",
+          "glacial cirque",
+          "volcanic geyser",
+          "open moorland",
           "game reserve"
         ],
         "explanation": "A game reserve is land set aside to protect wild animals; it is one of the animal-life components of tourism."
@@ -346,7 +346,7 @@
           "பனிக்குழி",
           "வெந்நீர் ஊற்று",
           "சதுப்புப் புல்வெளி",
-          "விலங்கு காப்பகம் (game reserve)"
+          "விலங்கு காப்பகம்"
         ],
         "explanation": "காட்டு விலங்குகளைப் பாதுகாக்க ஒதுக்கப்பட்ட நிலம் விலங்கு காப்பகம் (game reserve) எனப்படும்; இது சுற்றுலாவின் விலங்கு வாழ்க்கைக் கூறுகளுள் ஒன்று."
       }
@@ -800,7 +800,7 @@
           "Valparai",
           "Kodaikanal",
           "Yelagiri",
-          "Ooty (Udagamandalam)"
+          "Ooty"
         ],
         "explanation": "Udagamandalam (Ooty) is called the Queen of Hills."
       },
@@ -810,7 +810,7 @@
           "வால்பாறை",
           "கொடைக்கானல்",
           "ஏலகிரி",
-          "உதகமண்டலம் (ஊட்டி)"
+          "உதகமண்டலம்"
         ],
         "explanation": "உதகமண்டலம் (ஊட்டி) மலைகளின் அரசி என அழைக்கப்படுகிறது."
       }
@@ -894,10 +894,10 @@
       "ta": {
         "q": "'தென்னகத்தின் கைலாயம்' என அழைக்கப்படும் தமிழ்நாட்டு மலை எது?",
         "options": [
-          "மேகமலை",
-          "ஜவ்வாது மலை",
+          "மேகமலைக் குன்றுகள்",
+          "ஜவ்வாது மலைகள்",
           "வெள்ளியங்கிரி மலை",
-          "ஆனைமலை"
+          "ஆனைமலைக் குன்றுகள்"
         ],
         "explanation": "வெள்ளியங்கிரி மலை தென்னகத்தின் கைலாயம்; ஜவ்வாது இயற்கையின் சொர்க்கம்; மேகமலை உயர்ந்த அலை போன்ற மலைகள்."
       }

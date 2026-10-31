@@ -159,8 +159,8 @@
       "en": {
         "q": "The volume of a sphere of radius r is",
         "options": [
-          "πr²h",
-          "(4/3)πr³",
+          "πr²h/3",
+          "4πr³/3",
           "4πr²",
           "a³"
         ],
@@ -169,8 +169,8 @@
       "ta": {
         "q": "r ஆரமுள்ள கோளத்தின் கனஅளவு என்ன?",
         "options": [
-          "πr²h",
-          "(4/3)πr³",
+          "πr²h/3",
+          "4πr³/3",
           "4πr²",
           "a³"
         ],
@@ -391,20 +391,20 @@
       "en": {
         "q": "A light metal coin sinks in water while a much heavier wooden log floats. This is explained by",
         "options": [
-          "weight: heavier objects always float",
-          "density: the coin is denser than water, the log is less dense",
-          "shape: round objects sink",
-          "the colour of the objects"
+          "weight: heavy objects sink and light objects float",
+          "density: the coin is denser than water, the log less dense",
+          "shape: round objects sink and flat ones float",
+          "colour: dark objects sink and light ones float"
         ],
         "explanation": "A solid denser than a liquid sinks in it; one less dense floats."
       },
       "ta": {
         "q": "இலேசான உலோக நாணயம் நீரில் மூழ்க, அதைவிடப் பல மடங்கு கனமான மரக்கட்டை மிதக்கிறது. இதற்கான விளக்கம் எது?",
         "options": [
-          "எடை: கனமான பொருள்கள் எப்போதும் மிதக்கும்",
-          "அடர்த்தி: நாணயம் நீரைவிட அடர்த்தியானது; மரக்கட்டை அடர்த்தி குறைவானது",
-          "வடிவம்: உருண்டையான பொருள்கள் மூழ்கும்",
-          "பொருள்களின் நிறம்"
+          "எடை: கனமான பொருள்கள் மூழ்கும்; இலேசானவை மிதக்கும்",
+          "அடர்த்தி: நாணயம் நீரைவிட அடர்த்தியானது, மரக்கட்டை குறைவானது",
+          "வடிவம்: உருண்டையான பொருள்கள் மூழ்கும்; தட்டையானவை மிதக்கும்",
+          "நிறம்: கருமையான பொருள்கள் மூழ்கும்; வெளிர் நிறமானவை மிதக்கும்"
         ],
         "explanation": "திரவத்தைவிட அடர்த்தியான திடப்பொருள் அதில் மூழ்கும்; அடர்த்தி குறைவானது மிதக்கும்."
       }
@@ -653,7 +653,7 @@
         "q": "The nearest star to our solar system is",
         "options": [
           "Polaris",
-          "Sirius",
+          "Alpha Crucis",
           "Proxima Centauri",
           "Betelgeuse"
         ],
@@ -663,7 +663,7 @@
         "q": "நமது சூரியக் குடும்பத்துக்கு மிக அருகிலுள்ள விண்மீன் எது?",
         "options": [
           "துருவ விண்மீன் (போலாரிஸ்)",
-          "சிரியஸ்",
+          "ஆல்ஃபா குரூசிஸ்",
           "பிராக்சிமா சென்டாரி",
           "பீட்டல்ஜியூஸ்"
         ],
@@ -681,20 +681,20 @@
       "en": {
         "q": "Why do astronomers use the light year instead of the astronomical unit for distances to stars?",
         "options": [
-          "Light does not travel between stars",
-          "The AU is a unit of time",
-          "The AU is smaller than a kilometre",
-          "Star distances in AU are unwieldy; e.g. Proxima Centauri is about 2,68,770 AU away"
+          "Light does not travel across interstellar space",
+          "The AU is a unit of time, not of distance",
+          "The AU is smaller than a kilometre in length",
+          "Distances to stars in AU are unwieldy numbers"
         ],
         "explanation": "Even the nearest star is about 2,68,770 AU away, so astronomers use the light year for deep-space distances."
       },
       "ta": {
         "q": "விண்மீன்களின் தொலைவை அளக்க வானியலாளர்கள் வானியல் அலகுக்குப் பதிலாக ஒளி ஆண்டைப் பயன்படுத்துவது ஏன்?",
         "options": [
-          "விண்மீன்களுக்கு இடையே ஒளி பயணிப்பதில்லை",
-          "AU காலத்தின் அலகு",
-          "AU ஒரு கிலோமீட்டரைவிடச் சிறியது",
-          "விண்மீன் தொலைவுகளை AU-வில் குறிப்பது கையாளக் கடினம்; எ.கா. பிராக்சிமா சென்டாரி ஏறத்தாழ 2,68,770 AU தொலைவில் உள்ளது"
+          "விண்மீன்களுக்கிடையே உள்ள விண்வெளியில் ஒளி பயணிப்பதில்லை",
+          "AU என்பது காலத்தின் அலகு, தொலைவின் அலகு அல்ல",
+          "AU நீளத்தில் ஒரு கிலோமீட்டரைவிடச் சிறியது",
+          "AU-வில் விண்மீன் தொலைவுகளைக் குறிப்பது கையாளக் கடினமான எண்களைத் தரும்"
         ],
         "explanation": "மிக அருகிலுள்ள விண்மீனே ஏறத்தாழ 2,68,770 AU தொலைவில் உள்ளதால் ஆழ்விண்வெளித் தொலைவுகளுக்கு ஒளி ஆண்டு பயன்படுகிறது."
       }
@@ -770,7 +770,7 @@
         "options": [
           "mercury is lighter than water",
           "iron is denser than mercury",
-          "mercury (13,600 kg/m³) is denser than iron (7,800 kg/m³)",
+          "mercury is denser than iron",
           "iron is a liquid metal"
         ],
         "explanation": "A solid floats in a liquid denser than itself; mercury is denser than iron."
@@ -780,7 +780,7 @@
         "options": [
           "பாதரசம் நீரைவிட இலேசானது",
           "இரும்பு பாதரசத்தைவிட அடர்த்தியானது",
-          "பாதரசம் (13,600 கிகி/மீ³) இரும்பைவிட (7,800 கிகி/மீ³) அடர்த்தியானது",
+          "பாதரசம் இரும்பைவிட அடர்த்தியானது",
           "இரும்பு ஒரு திரவ உலோகம்"
         ],
         "explanation": "திடப்பொருள் தன்னைவிட அடர்த்தியான திரவத்தில் மிதக்கும்; பாதரசம் இரும்பைவிட அடர்த்தியானது."

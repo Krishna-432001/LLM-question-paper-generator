@@ -15,9 +15,9 @@
         "q": "The shortest distance from the initial position to the final position of an object is called",
         "options": [
           "displacement",
-          "distance",
-          "speed",
-          "velocity"
+          "total distance",
+          "average speed",
+          "average velocity"
         ],
         "explanation": "Distance is the total path length; displacement is the shortest distance from start to finish. Both are measured in metres."
       },
@@ -25,9 +25,9 @@
         "q": "ஒரு பொருளின் தொடக்க நிலைக்கும் இறுதி நிலைக்கும் இடையிலான மிகக் குறைந்த தொலைவு எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "இடப்பெயர்ச்சி",
-          "தொலைவு",
-          "வேகம்",
-          "திசைவேகம்"
+          "கடந்த மொத்தத் தொலைவு",
+          "சராசரி வேகம்",
+          "சராசரித் திசைவேகம்"
         ],
         "explanation": "பயணித்த பாதையின் மொத்த நீளம் தொலைவு; தொடக்கத்திலிருந்து இறுதி வரையிலான மிகக் குறைந்த தொலைவு இடப்பெயர்ச்சி. இரண்டின் அலகும் மீட்டர்."
       }
@@ -72,20 +72,20 @@
       "en": {
         "q": "An object travels a distance of 15 km and its displacement is also 15 km. This means the object",
         "options": [
-          "moved in a circle",
-          "returned to its starting point",
+          "moved along a circular path",
+          "returned to its starting point in the end",
           "moved along a straight line in one direction",
-          "was at rest"
+          "stayed at rest in one place"
         ],
         "explanation": "Distance equals displacement only for straight-line motion in one direction."
       },
       "ta": {
         "q": "ஒரு பொருள் பயணித்த தொலைவு 15 கி.மீ; அதன் இடப்பெயர்ச்சியும் 15 கி.மீ. இதிலிருந்து அறிவது",
         "options": [
-          "அது வட்டப்பாதையில் சென்றது",
-          "அது தொடக்க இடத்துக்கே திரும்பியது",
+          "அது வட்டப் பாதையில் சென்றது",
+          "அது இறுதியில் தொடக்க இடத்துக்கே திரும்பியது",
           "அது ஒரே திசையில் நேர்கோட்டில் சென்றது",
-          "அது ஓய்வு நிலையில் இருந்தது"
+          "அது ஓரிடத்தில் ஓய்வில் இருந்தது"
         ],
         "explanation": "ஒரே திசையில் நேர்கோட்டில் செல்லும்போது மட்டுமே தொலைவும் இடப்பெயர்ச்சியும் சமமாக இருக்கும்."
       }
@@ -432,7 +432,7 @@
         "options": [
           "ஓய்வு நிலை",
           "சீரான முடுக்கம்",
-          "சீரான எதிர் முடுக்கம் (வேகக் குறைப்பு)",
+          "சீரான எதிர் முடுக்கம்",
           "சீரற்ற முடுக்கம்"
         ],
         "explanation": "ஒவ்வொரு விநாடியும் வேகம் சம அளவு குறைந்தால் எதிர்க்குறி மாறாச் சாய்வுடைய நேர்கோடு கிடைக்கிறது: சீரான எதிர் முடுக்கம்."
@@ -537,8 +537,8 @@
         "q": "In the experiment with an irregularly shaped lamina suspended from three holes, the centre of gravity is located at",
         "options": [
           "the heaviest corner of the lamina",
-          "the hole nearest the edge",
-          "the intersection of the plumb-line traces from the three holes",
+          "the hole that is nearest to the edge",
+          "where the plumb lines from the holes cross",
           "the midpoint of any one plumb line"
         ],
         "explanation": "Suspend the lamina from each hole, mark the plumb line each time; the lines intersect at the centre of gravity."
@@ -546,9 +546,9 @@
       "ta": {
         "q": "ஒழுங்கற்ற தகட்டை மூன்று துளைகளிலிருந்து தொங்கவிடும் சோதனையில் ஈர்ப்பு மையம் எங்கு கண்டறியப்படுகிறது?",
         "options": [
-          "தகட்டின் கனமான மூலையில்",
-          "விளிம்புக்கு அருகிலுள்ள துளையில்",
-          "மூன்று துளைகளிலிருந்து வரையப்பட்ட தூக்குநூல் கோடுகள் வெட்டும் புள்ளியில்",
+          "தகட்டின் எடை அதிகமான மூலைப் பகுதியில்",
+          "விளிம்புக்கு மிக அருகிலுள்ள துளையில்",
+          "தூக்குநூல் கோடுகள் வெட்டும் புள்ளியில்",
           "ஏதேனும் ஒரு தூக்குநூல் கோட்டின் நடுப்புள்ளியில்"
         ],
         "explanation": "ஒவ்வொரு துளையிலிருந்தும் தொங்கவிட்டுத் தூக்குநூலின் நிலையைக் குறித்தால், அக்கோடுகள் வெட்டும் புள்ளியே ஈர்ப்பு மையம்."
@@ -565,9 +565,9 @@
       "en": {
         "q": "Stability is a measure of a body's ability to",
         "options": [
-          "float on water",
-          "change its speed",
-          "increase its mass",
+          "float on the surface of water",
+          "change its speed when pushed",
+          "increase its mass over time",
           "maintain its original position"
         ],
         "explanation": "Stability is the ability to keep the original position; the three types are stable, unstable and neutral equilibrium."
@@ -575,9 +575,9 @@
       "ta": {
         "q": "நிலைப்புத்தன்மை என்பது ஒரு பொருளின் எந்தத் திறனின் அளவீடு?",
         "options": [
-          "நீரில் மிதக்கும் திறன்",
-          "வேகத்தை மாற்றும் திறன்",
-          "நிறையை அதிகரிக்கும் திறன்",
+          "நீரின் மேற்பரப்பில் மிதக்கும் திறன்",
+          "தள்ளப்படும்போது வேகத்தை மாற்றும் திறன்",
+          "காலப்போக்கில் நிறையை அதிகரிக்கும் திறன்",
           "தன் தொடக்க நிலையைத் தக்கவைத்துக்கொள்ளும் திறன்"
         ],
         "explanation": "தொடக்க நிலையைத் தக்கவைக்கும் திறனே நிலைப்புத்தன்மை; உறுதிச் சமநிலை, உறுதியற்ற சமநிலை, நடுநிலைச் சமநிலை என மூவகை."
@@ -594,20 +594,20 @@
       "en": {
         "q": "In stable equilibrium, when a body is slightly tilted,",
         "options": [
-          "its centre of gravity rises and the vertical line through it stays within the base, so it returns to its position",
-          "its centre of gravity falls and it topples",
-          "its centre of gravity stays at the same height and it stays in the new position",
-          "it floats in the air"
+          "its centre of gravity rises and it returns to its original position",
+          "its centre of gravity falls and it topples over to the side",
+          "its centre of gravity stays level and it rests in the new position",
+          "it rises into the air and floats there for a while"
         ],
         "explanation": "In stable equilibrium the centre of gravity rises on tilting and its vertical line stays within the base, so the body returns."
       },
       "ta": {
         "q": "உறுதிச் சமநிலையில் ஒரு பொருள் சற்றுச் சாய்க்கப்படும்போது என்ன நிகழ்கிறது?",
         "options": [
-          "ஈர்ப்பு மையம் உயர்கிறது; அதன் வழியான செங்குத்துக்கோடு அடிப்பகுதிக்குள் இருப்பதால் அது பழைய நிலைக்குத் திரும்புகிறது",
-          "ஈர்ப்பு மையம் தாழ்ந்து அது கவிழ்கிறது",
-          "ஈர்ப்பு மையம் அதே உயரத்தில் இருக்க அது புதிய நிலையிலேயே நிற்கிறது",
-          "அது காற்றில் மிதக்கிறது"
+          "ஈர்ப்பு மையம் உயர்ந்து அது பழைய நிலைக்குத் திரும்புகிறது",
+          "ஈர்ப்பு மையம் தாழ்ந்து அது பக்கவாட்டில் கவிழ்கிறது",
+          "ஈர்ப்பு மையம் அதே மட்டத்தில் இருக்க அது புதிய நிலையில் நிற்கிறது",
+          "அது காற்றில் உயர்ந்து சிறிது நேரம் மிதக்கிறது"
         ],
         "explanation": "உறுதிச் சமநிலையில் சாய்க்கும்போது ஈர்ப்பு மையம் உயர்கிறது; அதன் செங்குத்துக்கோடு அடிப்பகுதிக்குள் இருப்பதால் பொருள் திரும்புகிறது."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "The stability of an object can be increased by",
         "options": [
-          "shortening its base",
-          "raising its centre of gravity",
-          "increasing its height",
-          "lowering its centre of gravity and increasing its base area"
+          "narrowing its base and raising its height",
+          "raising its centre of gravity above the base",
+          "increasing its height and weight at the top",
+          "lowering its centre of gravity and widening its base"
         ],
         "explanation": "A low centre of gravity and a broad base increase stability; a heavy base lowers the centre of gravity."
       },
       "ta": {
         "q": "ஒரு பொருளின் நிலைப்புத்தன்மையை எவ்வாறு அதிகரிக்கலாம்?",
         "options": [
-          "அடிப்பகுதியைக் குறுக்கி",
-          "ஈர்ப்பு மையத்தை உயர்த்தி",
-          "உயரத்தை அதிகரித்து",
-          "ஈர்ப்பு மையத்தைத் தாழ்த்தி, அடிப்பரப்பை அதிகரித்து"
+          "அடிப்பகுதியைக் குறுக்கி, உயரத்தை அதிகரித்து",
+          "ஈர்ப்பு மையத்தை அடிப்பகுதிக்கு மேலே உயர்த்தி",
+          "மேற்பகுதியில் எடை, உயரத்தை அதிகரித்து",
+          "ஈர்ப்பு மையத்தைத் தாழ்த்தி, அடிப்பகுதியை அகலப்படுத்தி"
         ],
         "explanation": "தாழ்ந்த ஈர்ப்பு மையமும் அகன்ற அடிப்பகுதியும் நிலைப்புத்தன்மையை அதிகரிக்கின்றன; கனமான அடிப்பகுதி ஈர்ப்பு மையத்தைத் தாழ்த்துகிறது."
       }
@@ -710,20 +710,20 @@
       "en": {
         "q": "The Thanjavur doll keeps swaying in a dance-like movement without falling because",
         "options": [
-          "its centre of gravity and total weight are concentrated at its bottom-most point",
-          "its centre of gravity is at its head",
-          "it has no centre of gravity",
-          "it is made of very light plastic"
+          "its centre of gravity lies at its bottom-most point",
+          "its centre of gravity lies at the top of its head",
+          "it has a centre of gravity outside its body",
+          "it is made of very light plastic material"
         ],
         "explanation": "With its centre of gravity at the lowest point, the doll is in stable equilibrium and keeps oscillating slowly."
       },
       "ta": {
         "q": "தஞ்சாவூர்த் தலையாட்டி பொம்மை கீழே விழாமல் நடனம் போல் தொடர்ந்து ஆடுவது ஏன்?",
         "options": [
-          "அதன் ஈர்ப்பு மையமும் மொத்த எடையும் அதன் அடிமுனையில் குவிந்துள்ளதால்",
-          "அதன் ஈர்ப்பு மையம் தலையில் உள்ளதால்",
-          "அதற்கு ஈர்ப்பு மையம் இல்லாததால்",
-          "அது மிக இலேசான நெகிழியால் ஆனதால்"
+          "அதன் ஈர்ப்பு மையம் அதன் அடிமுனையில் அமைந்துள்ளதால்",
+          "அதன் ஈர்ப்பு மையம் தலையின் உச்சியில் அமைந்துள்ளதால்",
+          "அதன் ஈர்ப்பு மையம் உடலுக்கு வெளியே அமைந்துள்ளதால்",
+          "அது மிக இலேசான நெகிழிப் பொருளால் ஆனதால்"
         ],
         "explanation": "ஈர்ப்பு மையம் அடிமுனையில் இருப்பதால் பொம்மை உறுதிச் சமநிலையில் இருந்து மெதுவாக அசைந்தாடுகிறது."
       }
@@ -739,20 +739,20 @@
       "en": {
         "q": "Racing cars are built low and broad, and table lamps have large heavy bases, mainly to",
         "options": [
-          "increase their speed",
-          "increase stability by lowering the centre of gravity and widening the base",
-          "reduce their mass",
-          "raise their centre of gravity"
+          "increase their speed or brightness",
+          "gain stability by lowering the centre of gravity",
+          "reduce their mass to save material",
+          "raise their centre of gravity for balance"
         ],
         "explanation": "A low centre of gravity and broad base make objects stable; for the same reason a tour bus carries luggage at the bottom, not on the roof."
       },
       "ta": {
         "q": "பந்தயக் கார்கள் தாழ்வாகவும் அகலமாகவும், மேசை விளக்குகள் பெரிய கனமான அடிப்பகுதியுடனும் வடிவமைக்கப்படுவது முக்கியமாக எதற்காக?",
         "options": [
-          "வேகத்தை அதிகரிக்க",
-          "ஈர்ப்பு மையத்தைத் தாழ்த்தி அடிப்பகுதியை அகலப்படுத்தி நிலைப்புத்தன்மையை அதிகரிக்க",
-          "நிறையைக் குறைக்க",
-          "ஈர்ப்பு மையத்தை உயர்த்த"
+          "பாதையில் வேகத்தை அதிகரிக்கவும் ஒளிர்வைக் கூட்டவும்",
+          "ஈர்ப்பு மையத்தைத் தாழ்த்தி நிலைப்புத்தன்மையை அதிகரிக்க",
+          "பொருள் சேமிக்கத் தங்கள் நிறையைக் குறைக்க",
+          "சமநிலைக்காக ஈர்ப்பு மையத்தை அடிப்பகுதிக்கு மேல் உயர்த்த"
         ],
         "explanation": "தாழ்ந்த ஈர்ப்பு மையமும் அகன்ற அடிப்பகுதியும் நிலைப்புத்தன்மையைத் தருகின்றன; இதனால்தான் சுற்றுலாப் பேருந்தின் சுமைப் பெட்டி கூரையில் அல்லாமல் அடியில் உள்ளது."
       }

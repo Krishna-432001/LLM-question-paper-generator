@@ -84,7 +84,7 @@
         "options": [
           "முப்பரிமாண மாதிரிகள்",
           "கணிதச் சமன்பாடுகள்",
-          "படப்புள்ளிகள் (pixels)",
+          "படப்புள்ளிகள்",
           "ஒலி அலைகள்"
         ],
         "explanation": "ராஸ்டர் படங்கள் படப்புள்ளிகளால் ஆனவை; கேமராவில் எடுத்த படங்களும் வருடிய படங்களும் ராஸ்டர் வகை."
@@ -188,20 +188,20 @@
       "en": {
         "q": "Why does a vector picture keep its accuracy even when it is enlarged?",
         "options": [
-          "It is scanned at high speed",
-          "It is made of more pixels",
-          "It is created on the basis of mathematics",
-          "It is always saved as .jpg"
+          "It is scanned at very high speed by the scanner",
+          "It is made of many more pixels than a normal picture",
+          "It is created on the basis of mathematical formulas",
+          "It is saved in the .jpg file format by default"
         ],
         "explanation": "Vector pictures are created from mathematics, so enlarging them does not change their accuracy."
       },
       "ta": {
         "q": "வெக்டர் படத்தைப் பெரிதாக்கினாலும் அதன் துல்லியம் மாறாதது ஏன்?",
         "options": [
-          "அது அதிவேகத்தில் வருடப்படுகிறது",
-          "அதில் அதிகப் படப்புள்ளிகள் உள்ளன",
-          "அது கணிதத்தின் அடிப்படையில் உருவாக்கப்படுகிறது",
-          "அது எப்போதும் .jpg ஆகச் சேமிக்கப்படுகிறது"
+          "அது மிக அதிவேகத்தில் வருடப்படுகிறது",
+          "அது பல மடங்கு கூடுதல் படப்புள்ளிகளால் ஆனது",
+          "அது கணிதச் சூத்திரங்களால் உருவாக்கப்படுகிறது",
+          "அது .jpg வடிவில் சேமிக்கப்படுகிறது"
         ],
         "explanation": "வெக்டர் படங்கள் கணித அடிப்படையில் உருவாக்கப்படுவதால் பெரிதாக்கினாலும் துல்லியம் மாறாது."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "What does a three-dimensional (3D) image have that a two-dimensional (2D) image lacks?",
         "options": [
-          "Pixels",
-          "Width (depth), in addition to length and height",
-          "Colour",
-          "A file name"
+          "Pixels and a resolution value",
+          "Depth, as well as length and height",
+          "Colour, which a 2D image cannot show",
+          "A file name and file size"
         ],
         "explanation": "2D images have only length and height; 3D images also have width, so they appear real before our eyes."
       },
       "ta": {
         "q": "இருபரிமாணப் (2D) படத்தில் இல்லாத எதை முப்பரிமாணப் (3D) படம் கொண்டுள்ளது?",
         "options": [
-          "படப்புள்ளிகள்",
-          "நீளம், உயரத்துடன் அகலம் (ஆழம்)",
-          "நிறம்",
-          "கோப்புப் பெயர்"
+          "படப்புள்ளிகளும் தெளிவுத்திறன் மதிப்பும்",
+          "நீளம், உயரத்தோடு சேர்த்து ஆழமும்",
+          "2D படத்தால் காட்ட முடியாத நிறம்",
+          "கோப்புப் பெயரும் கோப்பு அளவும்"
         ],
         "explanation": "2D படங்களுக்கு நீளம், உயரம் மட்டுமே; 3D படங்களுக்கு அகலமும் உண்டு; எனவே அவை நம் கண் முன் உண்மையாகத் தோன்றும்."
       }
@@ -316,7 +316,7 @@
         "options": [
           "Notepad",
           "ராஸ்டர் வரைகலை",
-          "மெய்நிகர் உண்மை (Virtual Reality)",
+          "மெய்நிகர் உண்மை",
           "Photostory"
         ],
         "explanation": "மெய்நிகர் உண்மை கணினிப் படத்தை உண்மையானதுபோல் காட்டுகிறது; இது இப்போது திறன்பேசிகளிலும் உள்ளது."

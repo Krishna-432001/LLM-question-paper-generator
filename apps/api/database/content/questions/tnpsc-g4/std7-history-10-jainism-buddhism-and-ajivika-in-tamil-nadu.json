@@ -111,8 +111,8 @@
       "ta": {
         "q": "சமணத்தின் ஐம்பெரும் விரதங்களுள் 'அபரிக்கிரகம்' என்பதன் பொருள்",
         "options": [
-          "வாய்மை",
-          "கொல்லாமை",
+          "உண்மை பேசுதல்",
+          "உயிர்களைக் கொல்லாமை",
           "கள்ளாமை",
           "உடைமை கொள்ளாமை"
         ],
@@ -536,20 +536,20 @@
       "en": {
         "q": "Where are Jain monk beds found that, unlike most others, have no head-rests?",
         "options": [
-          "Kazhugumalai",
-          "Sittanavasal",
+          "Kazhugumalai, Thoothukudi district",
+          "Sittanavasal, Pudukkottai district",
           "Bhairavamalai, Vellore district",
-          "Kizha Kuyil Kudi"
+          "Kizha Kuyil Kudi, Madurai district"
         ],
         "explanation": "Fourteen 5th-century Jain beds at Bhairavamalai in Latheri, Katpadi taluk, Vellore district, have no head-rests."
       },
       "ta": {
         "q": "பிற இடங்களைப் போலன்றித் தலையணை இல்லாத சமணத் துறவிகளின் கற்படுக்கைகள் எங்குள்ளன?",
         "options": [
-          "கழுகுமலை",
-          "சித்தன்னவாசல்",
+          "கழுகுமலை, தூத்துக்குடி மாவட்டம்",
+          "சித்தன்னவாசல், புதுக்கோட்டை மாவட்டம்",
           "பைரவமலை, வேலூர் மாவட்டம்",
-          "கீழக்குயில்குடி"
+          "கீழக்குயில்குடி, மதுரை மாவட்டம்"
         ],
         "explanation": "வேலூர் மாவட்டம் காட்பாடி வட்டம் லத்தேரி பைரவமலையில் உள்ள 5 ஆம் நூற்றாண்டு சமணப் படுக்கைகளுக்குத் தலையணை இல்லை."
       }
@@ -594,10 +594,10 @@
       "en": {
         "q": "Buddha's 'middle path' rejected which two extremes?",
         "options": [
-          "Passion for pleasures and severe self-mortification",
-          "Wealth and education",
-          "Rituals and temple worship",
-          "War and trade"
+          "Pleasure-seeking and harsh self-torture",
+          "Material wealth and formal education",
+          "Priestly rituals and temple worship",
+          "Warfare and long-distance trade"
         ],
         "explanation": "Buddha held that both the king's passion for pleasures and the hermit's self-mortification were wrong, and found the middle path based on the eightfold path."
       },
@@ -605,9 +605,9 @@
         "q": "புத்தரின் 'நடுவழி' எந்த இரு எல்லைகளை நிராகரித்தது?",
         "options": [
           "இன்ப நாட்டமும் கடும் உடல் வருத்தமும்",
-          "செல்வமும் கல்வியும்",
-          "சடங்குகளும் கோவில் வழிபாடும்",
-          "போரும் வணிகமும்"
+          "பொருட்செல்வமும் முறையான கல்வியும்",
+          "குருமார் சடங்குகளும் கோவில் வழிபாடும்",
+          "போர்த்தொழிலும் நெடுந்தூர வணிகமும்"
         ],
         "explanation": "அரசனின் இன்ப நாட்டமும் துறவியின் உடல் வருத்தமும் தவறு எனக் கண்ட புத்தர் எண்வழிப் பாதையை அடிப்படையாகக் கொண்ட நடுவழியைக் கண்டார்."
       }
@@ -778,10 +778,10 @@
       "ta": {
         "q": "தமிழகத்துக்குப் பௌத்தம் யாரால் பரவியதாகக் கருதப்படுகிறது?",
         "options": [
-          "மௌரியத் தளபதிகள்",
-          "சீனப் பயணிகள்",
+          "மௌரியப் படைத் தளபதிகள்",
+          "சீன நாட்டுப் பயணிகள்",
           "இலங்கைச் சமயப் பரப்பாளர்கள்",
-          "அரபு வணிகர்கள்"
+          "அரபுக் கடல் வணிகர்கள்"
         ],
         "explanation": "இலங்கைச் சமயப் பரப்பாளர்கள் மூலம் பௌத்தம் தமிழகம் வந்ததாகக் கருதப்படுகிறது; பஞ்சபாண்டவர் மலை எனப்படும் குகைகளில் உள்ள பொ.ஆ.மு. 3 ஆம் நூற்றாண்டுச் சின்னங்கள் இதற்குச் சான்று."
       }
@@ -885,9 +885,9 @@
         "q": "Which work by Mahendravarman describes Buddhism as a religion in decay?",
         "options": [
           "Virasozhiyam",
-          "Manimekalai",
+          "Sivaka Chintamani",
           "Mattavilasa Prahasana",
-          "Kalpasutra"
+          "Yapperungalakkarikai"
         ],
         "explanation": "Mahendravarman's Mattavilasa Prahasana portrays Buddhism as decaying; the tantric monk Vajrabodhi left the Pallava court for China."
       },
@@ -895,9 +895,9 @@
         "q": "பௌத்தத்தை நலிந்துவரும் சமயமாக விவரிக்கும் மகேந்திரவர்மனின் நூல் எது?",
         "options": [
           "வீரசோழியம்",
-          "மணிமேகலை",
+          "சீவக சிந்தாமணி",
           "மத்தவிலாசப் பிரகசனம்",
-          "கல்பசூத்திரம்"
+          "யாப்பெருங்கலக்காரிகை"
         ],
         "explanation": "மகேந்திரவர்மனின் மத்தவிலாசப் பிரகசனம் பௌத்தத்தை நலிந்துவரும் சமயமாகக் காட்டுகிறது; தாந்திரீகத் துறவி வஜ்ரபோதி பல்லவ அவையை விட்டுச் சீனா சென்றார்."
       }
@@ -923,10 +923,10 @@
       "ta": {
         "q": "'விகாரை' என்ற சமஸ்கிருதச் சொல்லின் பொருள்",
         "options": [
-          "அரசவை",
+          "அரசவை மண்டபம்",
           "கோவில் கோபுரம்",
-          "இசைப் பள்ளி",
-          "உறைவிடம் அல்லது வீடு"
+          "இசைக் கலைப் பள்ளி",
+          "உறைவிடம், வீடு"
         ],
         "explanation": "விகாரை என்றால் உறைவிடம் அல்லது வீடு; மழைக்காலத்தில் துறவிகள் தங்கிய இடங்கள் பின்னர் நாளந்தா போன்ற கல்வி மையங்களாக வளர்ந்தன."
       }
@@ -971,9 +971,9 @@
       "en": {
         "q": "Which doctrines did the Ajivikas believe in?",
         "options": [
-          "Only the eightfold path",
-          "Karma, transmigration of the soul and determinism",
-          "Worship of Vishnu's avatars",
+          "The eightfold path of Buddhism",
+          "Karma, rebirth and determinism",
+          "Worship of the avatars of Vishnu",
           "The five great vows of the Jains"
         ],
         "explanation": "The Ajivikas, headed by Makkhali Gosala, believed in karma, transmigration of the soul and determinism, and practised severe asceticism."
@@ -981,9 +981,9 @@
       "ta": {
         "q": "ஆசீவகர்கள் நம்பிய கோட்பாடுகள் எவை?",
         "options": [
-          "எண்வழிப் பாதை மட்டும்",
-          "கருமம், ஆன்மாவின் மறுபிறப்பு, ஊழ்வினை (விதிக்கோட்பாடு)",
-          "திருமால் அவதார வழிபாடு",
+          "பௌத்தத்தின் எண்வழிப் பாதை",
+          "கருமம், மறுபிறப்பு, ஊழ்வினை",
+          "திருமாலின் அவதார வழிபாடு",
           "சமணரின் ஐம்பெரும் விரதங்கள்"
         ],
         "explanation": "மற்கலி கோசலரைத் தலைவராகக் கொண்ட ஆசீவகர்கள் கருமம், ஆன்மாவின் மறுபிறப்பு, விதிக்கோட்பாடு ஆகியவற்றை நம்பி, கடும் துறவை மேற்கொண்டனர்."

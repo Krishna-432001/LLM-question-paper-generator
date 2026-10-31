@@ -217,20 +217,20 @@
       "en": {
         "q": "In a water molecule, the ratio of hydrogen to oxygen atoms",
         "options": [
-          "becomes 1:1 in steam",
-          "is 2:1 only in the liquid state",
-          "changes when ice melts",
-          "remains fixed at 2:1 in solid, liquid and gaseous states"
+          "becomes 1:1 when water turns to steam",
+          "is 2:1 in liquid water but 1:2 in ice",
+          "changes when ice melts into water",
+          "remains 2:1 in ice, water and steam"
         ],
         "explanation": "A compound's molecules always contain a fixed ratio of atoms; water is H₂O in every state."
       },
       "ta": {
         "q": "நீர் மூலக்கூறில் ஹைட்ரஜன், ஆக்சிஜன் அணுக்களின் விகிதம்",
         "options": [
-          "நீராவியில் 1:1 ஆகும்",
-          "திரவ நிலையில் மட்டும் 2:1",
-          "பனிக்கட்டி உருகும்போது மாறும்",
-          "திண்ம, திரவ, வாயு நிலைகள் அனைத்திலும் 2:1 ஆக மாறாமல் இருக்கும்"
+          "நீர் நீராவியாக மாறும்போது அது 1:1 ஆக மாறிவிடும்",
+          "திரவ நீரில் 2:1; பனிக்கட்டியில் அது 1:2 ஆக இருக்கும்",
+          "பனிக்கட்டி நீராக உருகும்போது இந்த விகிதம் மாறும்",
+          "பனிக்கட்டி, நீர், நீராவியில் 2:1 ஆகவே இருக்கும்"
         ],
         "explanation": "சேர்ம மூலக்கூறுகளில் அணுக்களின் விகிதம் மாறாதது; எந்நிலையிலும் நீர் H₂O தான்."
       }
@@ -624,19 +624,19 @@
         "q": "Oxygen supports fire, yet water, a compound of hydrogen and oxygen, is used to put out fires. This shows that",
         "options": [
           "a compound has the same properties as its elements",
-          "a compound has properties entirely different from its constituent elements",
-          "water is an element",
-          "oxygen is a compound"
+          "a compound has properties different from those of its elements",
+          "water is a single element like oxygen",
+          "oxygen is a compound of two gases"
         ],
         "explanation": "A compound's properties differ completely from those of its constituent elements."
       },
       "ta": {
         "q": "ஆக்சிஜன் எரிதலுக்குத் துணைபுரிகிறது; ஆனால் ஹைட்ரஜனும் ஆக்சிஜனும் சேர்ந்த நீர் தீயை அணைக்கப் பயன்படுகிறது. இது காட்டுவது",
         "options": [
-          "சேர்மத்துக்கும் அதன் தனிமங்களுக்கும் ஒரே பண்புகள்",
-          "சேர்மத்தின் பண்புகள் அதன் உட்கூறு தனிமங்களின் பண்புகளிலிருந்து முற்றிலும் வேறுபட்டவை",
-          "நீர் ஒரு தனிமம்",
-          "ஆக்சிஜன் ஒரு சேர்மம்"
+          "சேர்மத்துக்கும் அதன் தனிமங்களுக்கும் ஒரே பண்புகள் இருக்கும்",
+          "சேர்மத்தின் பண்புகள் அதன் தனிமங்களின் பண்புகளிலிருந்து வேறுபடும்",
+          "நீர் ஆக்சிஜனைப் போன்ற ஒரு தனிமம்",
+          "ஆக்சிஜன் இரு வாயுக்களின் சேர்மம்"
         ],
         "explanation": "சேர்மத்தின் பண்புகள் அதன் உட்கூறு தனிமங்களின் பண்புகளிலிருந்து முற்றிலும் வேறுபட்டவை."
       }
@@ -654,7 +654,7 @@
         "options": [
           "carbon, hydrogen and oxygen",
           "calcium and oxygen",
-          "sodium, a highly reactive metal, and chlorine, a poisonous gas",
+          "sodium and chlorine",
           "potassium and iodine"
         ],
         "explanation": "Sodium reacts vigorously with water and chlorine is a poisonous yellowish-green gas, yet together they form edible sodium chloride."
@@ -664,7 +664,7 @@
         "options": [
           "கார்பன், ஹைட்ரஜன், ஆக்சிஜன்",
           "கால்சியம், ஆக்சிஜன்",
-          "மிகுந்த வினைத்திறன் கொண்ட உலோகமான சோடியம், நச்சு வாயுவான குளோரின்",
+          "சோடியம், குளோரின்",
           "பொட்டாசியம், அயோடின்"
         ],
         "explanation": "சோடியம் நீருடன் தீவிரமாக வினைபுரியும்; குளோரின் நச்சுள்ள மஞ்சள்-பச்சை வாயு; இரண்டும் சேர்ந்தால் உண்ணத்தக்க சோடியம் குளோரைடு உருவாகிறது."
@@ -681,20 +681,20 @@
       "en": {
         "q": "A compound such as sodium chloride can be separated into its constituent elements",
         "options": [
-          "by hand-picking",
-          "by filtration",
-          "by sieving",
-          "only by chemical methods"
+          "by simple hand-picking",
+          "by simple filtration",
+          "by careful sieving",
+          "by chemical methods"
         ],
         "explanation": "The elements in a compound are chemically combined, so physical methods like filtration cannot separate them."
       },
       "ta": {
         "q": "சோடியம் குளோரைடு போன்ற சேர்மத்தை அதன் உட்கூறு தனிமங்களாக எவ்வாறு பிரிக்கலாம்?",
         "options": [
-          "கையால் பொறுக்குதல் மூலம்",
-          "வடிகட்டுதல் மூலம்",
-          "சலித்தல் மூலம்",
-          "வேதியியல் முறைகளால் மட்டுமே"
+          "எளிய கையால் பொறுக்குதல் மூலம்",
+          "எளிய வடிகட்டுதல் மூலம்",
+          "கவனமாகச் சலித்தல் மூலம்",
+          "வேதியியல் முறைகள் மூலம்"
         ],
         "explanation": "சேர்மத்தின் தனிமங்கள் வேதியியல் முறையில் இணைந்திருப்பதால் வடிகட்டுதல் போன்ற இயற்பியல் முறைகளால் பிரிக்க முடியாது."
       }
@@ -855,20 +855,20 @@
       "en": {
         "q": "When an iron lock is heated and expands, which of the following happens?",
         "options": [
-          "The particles themselves become bigger",
-          "The distance between its particles increases, but the size and number of particles and the mass stay the same",
-          "The number of particles increases",
-          "The mass of the lock increases"
+          "The particles themselves swell and become bigger",
+          "The spaces between its particles increase",
+          "The number of particles in the lock increases",
+          "The mass of the lock increases a little"
         ],
         "explanation": "On heating, particles gain energy and move apart, so volume increases; particle size, number and total mass do not change."
       },
       "ta": {
         "q": "இரும்புப் பூட்டு வெப்பப்படுத்தப்பட்டு விரிவடையும்போது என்ன நிகழ்கிறது?",
         "options": [
-          "துகள்களே பெரிதாகின்றன",
-          "துகள்களுக்கிடையேயான இடைவெளி அதிகரிக்கிறது; ஆனால் துகள்களின் அளவு, எண்ணிக்கை, நிறை மாறுவதில்லை",
-          "துகள்களின் எண்ணிக்கை அதிகரிக்கிறது",
-          "பூட்டின் நிறை அதிகரிக்கிறது"
+          "துகள்கள் தாமே வீங்கிப் பெரிதாகின்றன",
+          "துகள்களுக்கிடையேயான இடைவெளி அதிகரிக்கிறது",
+          "பூட்டிலுள்ள துகள்களின் எண்ணிக்கை அதிகரிக்கிறது",
+          "பூட்டின் நிறை சிறிது அதிகரிக்கிறது"
         ],
         "explanation": "வெப்பப்படுத்தும்போது துகள்கள் ஆற்றல் பெற்று விலகுவதால் கனஅளவு கூடுகிறது; துகள்களின் அளவு, எண்ணிக்கை, மொத்த நிறை மாறுவதில்லை."
       }
@@ -886,7 +886,7 @@
         "options": [
           "heating increases the mass of the air inside",
           "the balloon is filled with water vapour",
-          "heated air inside expands and becomes less dense than the air outside",
+          "the hot air inside is less dense than the outside air",
           "cold air inside is lighter than hot air"
         ],
         "explanation": "Heating makes the air inside expand, so its density falls below that of the outside air and the balloon rises."
@@ -896,7 +896,7 @@
         "options": [
           "வெப்பம் உள்ளிருக்கும் காற்றின் நிறையை அதிகரிக்கிறது",
           "பலூனில் நீராவி நிரப்பப்படுகிறது",
-          "உள்ளே வெப்பமடைந்த காற்று விரிவடைந்து வெளிக்காற்றைவிட அடர்த்தி குறைவாகிறது",
+          "உள்ளிருக்கும் வெப்பக்காற்று வெளிக்காற்றைவிட அடர்த்தி குறைவு",
           "உள்ளிருக்கும் குளிர்ந்த காற்று வெப்பக் காற்றைவிட இலேசானது"
         ],
         "explanation": "வெப்பப்படுத்தும்போது உள்ளிருக்கும் காற்று விரிவடைந்து அதன் அடர்த்தி வெளிக்காற்றைவிடக் குறைவதால் பலூன் மேலெழுகிறது."
@@ -1000,20 +1000,20 @@
       "en": {
         "q": "A metal gate latch is difficult to open on hot sunny days but opens easily at night. The best explanation is that",
         "options": [
-          "the latch gains mass during the day",
-          "metals become softer at night",
-          "the metal expands when heated by the sun and contracts when it cools at night",
-          "metals melt in sunlight"
+          "the latch gains a little mass during the day",
+          "metals become softer in the cool of night",
+          "the metal expands in the sun's heat and contracts at night",
+          "the metal begins to melt in strong sunlight"
         ],
         "explanation": "Heat makes metal particles move apart (expansion), so the latch fits tighter by day; at night it cools and contracts."
       },
       "ta": {
         "q": "உலோகக் கதவுத் தாழ்ப்பாள் வெயில் நாள்களில் திறக்கக் கடினமாகவும் இரவில் எளிதாகவும் உள்ளது. இதற்குச் சிறந்த விளக்கம்",
         "options": [
-          "பகலில் தாழ்ப்பாளின் நிறை அதிகரிக்கிறது",
-          "இரவில் உலோகங்கள் மென்மையாகின்றன",
-          "வெயிலில் வெப்பமடைந்து உலோகம் விரிவடைகிறது; இரவில் குளிர்ந்து சுருங்குகிறது",
-          "வெயிலில் உலோகங்கள் உருகுகின்றன"
+          "பகலில் தாழ்ப்பாளின் நிறை சிறிது அதிகரிக்கிறது",
+          "இரவின் குளிரில் உலோகங்கள் மென்மையாகின்றன",
+          "வெயிலில் உலோகம் விரிவடைந்து இரவில் சுருங்குகிறது",
+          "கடும் வெயிலில் உலோகம் உருகத் தொடங்குகிறது"
         ],
         "explanation": "வெப்பத்தால் உலோகத் துகள்கள் விலகுவதால் (விரிவடைதல்) பகலில் தாழ்ப்பாள் இறுகுகிறது; இரவில் குளிர்ந்து சுருங்குகிறது."
       }

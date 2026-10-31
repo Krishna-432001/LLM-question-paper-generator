@@ -82,9 +82,9 @@
       "ta": {
         "q": "ஓர் ஆறு ஏரி, கடல் அல்லது பெருங்கடலுடன் சேரும் இடம் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "வளைவு (மியாண்டர்)",
+          "ஆற்று வளைவு",
           "பிறப்பிடம்",
-          "ஆற்றுமுகம் (முகத்துவாரம்)",
+          "ஆற்றுமுகம்",
           "துணையாறு"
         ],
         "explanation": "ஆறு தோன்றும் இடம் பிறப்பிடம்; ஏரி, கடல் அல்லது பெருங்கடலுடன் சேரும் இடம் ஆற்றுமுகம்."
@@ -346,7 +346,7 @@
           "மணல் திட்டுகள்",
           "வளைவுகள்",
           "அரெட்டே",
-          "இயற்கைக் கரைகள் (லெவீஸ்)"
+          "இயற்கைக் கரைகள்"
         ],
         "explanation": "வெள்ளப் படிவுகள் சமதளமான வளமான வெள்ளச் சமவெளியை உருவாக்குகின்றன; உயர்ந்த கரைகள் லெவீஸ் எனப்படும்."
       }
@@ -362,20 +362,20 @@
       "en": {
         "q": "Why are flood plains very fertile?",
         "options": [
-          "Floods deposit layers of fine soil and sediments along the river banks",
-          "Glaciers deposit moraines on them",
-          "Wind deposits loess on them",
-          "Sea waves deposit salt on them"
+          "Floods deposit fine soil and silt along the river banks",
+          "Glaciers leave heaps of moraine over the plains",
+          "Strong winds blow away the old soil every year",
+          "Sea waves leave salt deposits across the plains"
         ],
         "explanation": "Each flood leaves layers of fine soil and sediment, making the floodplain flat and fertile."
       },
       "ta": {
         "q": "வெள்ளச் சமவெளிகள் மிகவும் வளமாக இருப்பது ஏன்?",
         "options": [
-          "வெள்ளம் ஆற்றங்கரைகளில் மென்மையான மண், வண்டல் அடுக்குகளைப் படிய வைப்பதால்",
-          "பனியாறுகள் அவற்றின் மீது மொரைன்களைப் படிய வைப்பதால்",
-          "காற்று அவற்றின் மீது லோயஸைப் படிய வைப்பதால்",
-          "கடல் அலைகள் அவற்றின் மீது உப்பைப் படிய வைப்பதால்"
+          "வெள்ளம் ஆற்றங்கரைகளில் மென்மையான மண், வண்டலைப் படிய வைப்பதால்",
+          "பனியாறுகள் சமவெளிகளில் மொரைன் குவியல்களை விட்டுச் செல்வதால்",
+          "வலுவான காற்று ஆண்டுதோறும் பழைய மண்ணை அடித்துச் செல்வதால்",
+          "கடல் அலைகள் சமவெளிகளில் உப்புப் படிவுகளை விட்டுச் செல்வதால்"
         ],
         "explanation": "ஒவ்வொரு வெள்ளமும் மென்மையான மண், வண்டல் அடுக்குகளை விட்டுச் செல்வதால் வெள்ளச் சமவெளி சமதளமாகவும் வளமாகவும் உள்ளது."
       }
@@ -391,20 +391,20 @@
       "en": {
         "q": "Deltas are formed near the mouth of a river because",
         "options": [
-          "the river flows fastest near the sea",
-          "the river slows down as it approaches the sea and deposits its load",
-          "glaciers melt near the coast",
-          "sea waves carry sand inland"
+          "the river flows much faster as it nears the sea",
+          "the river slows down near the sea and deposits its load",
+          "glaciers melt and flood the coastal lands",
+          "sea waves carry heaps of sand far inland"
         ],
         "explanation": "Near the sea the river slows, splits into distributaries and deposits sediment; this forms productive deltas like the Cauvery, Ganges and Mississippi deltas."
       },
       "ta": {
         "q": "ஆற்றுமுகத்தின் அருகே டெல்டாக்கள் உருவாவதற்குக் காரணம் என்ன?",
         "options": [
-          "கடலருகே ஆறு மிக வேகமாகப் பாய்வதால்",
-          "கடலை நெருங்கும்போது ஆற்றின் வேகம் குறைந்து அது சுமந்து வரும் பொருள்களைப் படிய வைப்பதால்",
-          "கடற்கரையருகே பனியாறுகள் உருகுவதால்",
-          "கடல் அலைகள் மணலை உள்நாட்டுக்குக் கொண்டு செல்வதால்"
+          "கடலை நெருங்கும்போது ஆற்றின் வேகம் மிகவும் அதிகரிப்பதால்",
+          "கடலை நெருங்கும்போது ஆற்றின் வேகம் குறைந்து சுமந்து வந்த பொருள்களைப் படிய வைப்பதால்",
+          "கடற்கரையருகே பனியாறுகள் உருகி வெள்ளம் பெருகுவதால்",
+          "கடல் அலைகள் மணலை உள்நாட்டுக்குள் வெகுதூரம் கொண்டு செல்வதால்"
         ],
         "explanation": "கடலருகே ஆற்றின் வேகம் குறைந்து, அது கிளையாறுகளாகப் பிரிந்து வண்டலைப் படிய வைக்கிறது; காவிரி, கங்கை, மிசிசிப்பி போன்ற வளமான டெல்டாக்கள் இவ்வாறு உருவாகின்றன."
       }
@@ -450,9 +450,9 @@
         "q": "Which statement correctly describes a mountain or valley glacier?",
         "options": [
           "A lake formed in a cirque after the ice melts",
-          "A thick ice sheet covering a whole continent, as in Antarctica",
+          "A thick ice sheet covering a whole continent",
           "A crescent-shaped deposit of sand in a desert",
-          "A stream of ice flowing along a valley, usually following former river courses, as in the Himalayas and the Alps"
+          "A stream of ice flowing down a mountain valley"
         ],
         "explanation": "Valley glaciers flow along valleys bounded by steep sides, often in old river courses."
       },
@@ -460,9 +460,9 @@
         "q": "மலை அல்லது பள்ளத்தாக்குப் பனியாற்றைச் சரியாக விவரிக்கும் கூற்று எது?",
         "options": [
           "பனி உருகிய பின் சர்க்கில் உருவாகும் ஏரி",
-          "அண்டார்டிகா போல முழுக் கண்டத்தையும் மூடிய தடித்த பனிப்படலம்",
+          "முழுக் கண்டத்தையும் மூடிய தடித்த பனிப்படலம்",
           "பாலைவனத்தில் பிறை வடிவ மணல் படிவு",
-          "பெரும்பாலும் பழைய ஆற்றுப் பாதைகளைப் பின்பற்றி, பள்ளத்தாக்கின் வழியே பாயும் பனி நீரோட்டம் (எ.கா. இமயமலை, ஆல்ப்ஸ்)"
+          "மலைப் பள்ளத்தாக்கின் வழியே பாயும் பனி நீரோட்டம்"
         ],
         "explanation": "பள்ளத்தாக்குப் பனியாறுகள் செங்குத்தான பக்கங்களுடைய பள்ளத்தாக்குகளில், பெரும்பாலும் பழைய ஆற்றுப் பாதைகளில் பாய்கின்றன."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "The 'U' shaped valley found beneath glaciers is formed by",
         "options": [
-          "sea waves cutting caves",
+          "sea waves cutting caves in coastal cliffs",
           "the running water of a young river",
-          "wind deposition of fine sand",
-          "lateral and vertical erosion by the glacier, which deepens and widens it"
+          "wind deposition of fine desert sand",
+          "lateral and vertical erosion by the glacier"
         ],
         "explanation": "Glaciers deepen and widen valleys into a U shape; rivers in mountains cut V-shaped valleys."
       },
       "ta": {
         "q": "பனியாறுகளுக்குக் கீழே காணப்படும் 'U' வடிவப் பள்ளத்தாக்கு எதனால் உருவாகிறது?",
         "options": [
-          "கடல் அலைகள் குகைகளைக் குடைவதால்",
+          "கடல் அலைகள் கடற்கரைப் பாறைகளில் குகைகளைக் குடைவதால்",
           "இளம் ஆற்றின் ஓடும் நீரால்",
-          "காற்று மென்மணலைப் படிய வைப்பதால்",
-          "பனியாற்றின் பக்கவாட்டு, செங்குத்து அரிப்பால் அது ஆழமாகவும் அகலமாகவும் ஆவதால்"
+          "பாலைவனத்தில் காற்று மென்மணலைப் படிய வைப்பதால்",
+          "பனியாற்றின் பக்கவாட்டு, செங்குத்து அரிப்பால்"
         ],
         "explanation": "பனியாறுகள் பள்ளத்தாக்குகளை ஆழப்படுத்தி அகலப்படுத்தி 'U' வடிவமாக்குகின்றன; மலைகளில் ஆறுகள் 'V' வடிவப் பள்ளத்தாக்குகளை உருவாக்குகின்றன."
       }
@@ -594,10 +594,10 @@
       "en": {
         "q": "Mushroom rocks have a narrow base and a wider top because",
         "options": [
-          "winds erode the lower section of the rock more than the upper part",
-          "rain erodes the top of the rock",
-          "glaciers deposit material at the base",
-          "sea waves cut caves at the top"
+          "winds erode the lower part of the rock more than the top",
+          "rain erodes the top of the rock more than the base",
+          "glaciers deposit heavy material around the base",
+          "sea waves cut deep caves into the top of the rock"
         ],
         "explanation": "Sand-laden wind erodes the lower part of a rock more, leaving a mushroom shape."
       },
@@ -896,7 +896,7 @@
         "options": [
           "டார்ன் ஏரிகள்",
           "குதிரைக் குளம்பு ஏரிகள்",
-          "காயல்கள் (லகூன்)",
+          "காயல்கள்",
           "பனியாற்று ஏரிகள்"
         ],
         "explanation": "கடலிலிருந்து பகுதியாகவோ முழுமையாகவோ பிரிக்கப்பட்ட ஆழமற்ற நீர்ப்பரப்பு காயல்; சிலிகா, வேம்பநாடு எடுத்துக்காட்டுகள்."

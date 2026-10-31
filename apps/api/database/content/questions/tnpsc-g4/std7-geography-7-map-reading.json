@@ -54,7 +54,7 @@
         "q": "தனித்தனி வயல்களையும் வீட்டு மனைகளையும் காட்டும் பெரிய அளவை கிராம, நகர வரைபடங்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
         "options": [
           "சுவர் வரைபடங்கள்",
-          "நில அளவை (கடாஸ்ட்ரல்) வரைபடங்கள்",
+          "நில அளவை வரைபடங்கள்",
           "காலநிலை வரைபடங்கள்",
           "நிலவரைபடத் தொகுப்பு வரைபடங்கள்"
         ],
@@ -84,7 +84,7 @@
         "options": [
           "இந்திய வானிலை ஆய்வு மையம்",
           "இந்தியப் புவியியல் ஆய்வுத் துறை",
-          "இந்திய நில அளவைத் துறை (Survey of India)",
+          "இந்திய நில அளவைத் துறை",
           "இந்தியத் தொல்லியல் துறை"
         ],
         "explanation": "குன்றுகள், பள்ளத்தாக்குகள், கட்டடங்கள், சாலைகள், கால்வாய்களைக் காட்டும் பெரிய அளவை இடவிளக்க வரைபடங்களை இந்திய நில அளவைத் துறை தயாரிக்கிறது."
@@ -101,20 +101,20 @@
       "en": {
         "q": "Which statement about small-scale maps is correct?",
         "options": [
-          "They are prepared only for villages",
-          "They show individual fields and house sites",
-          "They show small areas in great detail",
-          "They cover large areas such as continents but show limited information"
+          "They are prepared for single villages and towns",
+          "They show individual fields and house plots",
+          "They show small areas in very great detail",
+          "They cover large areas but show limited detail"
         ],
         "explanation": "Small-scale maps, such as wall maps and atlas maps, cover large areas like continents and countries but show limited detail."
       },
       "ta": {
         "q": "சிறிய அளவை வரைபடங்கள் பற்றிய சரியான கூற்று எது?",
         "options": [
-          "அவை கிராமங்களுக்கு மட்டுமே தயாரிக்கப்படுகின்றன",
+          "அவை தனித்தனிக் கிராமங்களுக்கும் நகரங்களுக்கும் தயாரிக்கப்படுகின்றன",
           "அவை தனித்தனி வயல்களையும் வீட்டு மனைகளையும் காட்டும்",
           "அவை சிறிய பகுதிகளை மிக விரிவாகக் காட்டும்",
-          "அவை கண்டங்கள் போன்ற பெரிய பகுதிகளைக் காட்டும்; ஆனால் குறைந்த தகவல்களையே தரும்"
+          "அவை பெரிய பகுதிகளைக் காட்டும்; ஆனால் விவரங்கள் குறைவு"
         ],
         "explanation": "சுவர் வரைபடங்கள், நிலவரைபடத் தொகுப்பு வரைபடங்கள் போன்ற சிறிய அளவை வரைபடங்கள் கண்டங்கள், நாடுகள் போன்ற பெரிய பகுதிகளைக் குறைந்த விவரங்களுடன் காட்டும்."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "On a map, how is the North direction usually shown?",
         "options": [
-          "By the letter 'N' with an arrow mark",
-          "By a red dot",
-          "By a blue line",
-          "By the map's title"
+          "By an arrow marked with the letter 'N'",
+          "By a red dot at the map's corner",
+          "By a blue line along the map's border",
+          "By the map's title at the top"
         ],
         "explanation": "Maps are generally drawn with north orientation, marked by the letter 'N' with an arrow; latitudes and longitudes are shown in the margins."
       },
       "ta": {
         "q": "வரைபடத்தில் வடக்குத் திசை பொதுவாக எவ்வாறு காட்டப்படுகிறது?",
         "options": [
-          "அம்புக்குறியுடன் 'N' என்ற எழுத்தால்",
-          "சிவப்புப் புள்ளியால்",
-          "நீலக் கோட்டால்",
-          "வரைபடத்தின் தலைப்பால்"
+          "'N' என்ற எழுத்துடன் அம்புக்குறியால்",
+          "வரைபடத்தின் மூலையில் உள்ள சிவப்புப் புள்ளியால்",
+          "விளிம்பில் உள்ள நீலக் கோட்டால்",
+          "மேலே உள்ள வரைபடத் தலைப்பால்"
         ],
         "explanation": "வரைபடங்கள் பொதுவாக வடக்கை நோக்கி வரையப்படுகின்றன; அது அம்புக்குறியுடன் 'N' எனக் குறிக்கப்படுகிறது; அட்ச, தீர்க்கக் கோடுகள் ஓரங்களில் காட்டப்படுகின்றன."
       }
@@ -334,9 +334,9 @@
         "q": "Which statement correctly compares a map and a globe?",
         "options": [
           "A globe shows more detail of a small area than a map",
-          "A globe is easier to carry than a map",
+          "A globe is much easier to carry than a map",
           "A map is a three-dimensional model of the earth",
-          "A map is two-dimensional and can show detailed information; a globe is a three-dimensional true model"
+          "A map is two-dimensional; a globe is a three-dimensional model"
         ],
         "explanation": "A map is a two-dimensional, easily carried representation that can show detail; a globe is a three-dimensional true model of the earth that cannot show detailed information."
       },
@@ -344,9 +344,9 @@
         "q": "வரைபடத்தையும் புவிக்கோளத்தையும் சரியாக ஒப்பிடும் கூற்று எது?",
         "options": [
           "சிறிய பகுதியின் விவரங்களை வரைபடத்தை விடப் புவிக்கோளம் அதிகம் காட்டும்",
-          "வரைபடத்தை விடப் புவிக்கோளத்தை எடுத்துச் செல்வது எளிது",
+          "வரைபடத்தை விடப் புவிக்கோளத்தை எடுத்துச் செல்வது மிக எளிது",
           "வரைபடம் புவியின் முப்பரிமாண மாதிரி",
-          "வரைபடம் இருபரிமாணம், விரிவான தகவல்களைக் காட்டும்; புவிக்கோளம் முப்பரிமாண உண்மை மாதிரி"
+          "வரைபடம் இருபரிமாணம்; புவிக்கோளம் முப்பரிமாண மாதிரி"
         ],
         "explanation": "வரைபடம் எளிதில் எடுத்துச் செல்லக்கூடிய, விவரங்களைக் காட்டும் இருபரிமாண வடிவம்; புவிக்கோளம் புவியின் முப்பரிமாண உண்மை மாதிரி; ஆனால் விரிவான தகவல்களைக் காட்டாது."
       }

@@ -15,9 +15,9 @@
         "q": "Mughal rule lasted from 1526 to 1707 except for the brief reign of which dynasty?",
         "options": [
           "The Sur dynasty of Sher Shah",
-          "The Lodi dynasty",
-          "The Tughlaq dynasty",
-          "The Khalji dynasty"
+          "The Lodi dynasty of Delhi",
+          "The Tughlaq dynasty of Delhi",
+          "The Khalji dynasty of Delhi"
         ],
         "explanation": "Apart from the brief reign of Sher Shah of the Sur dynasty, Mughal rule lasted from 1526 to 1707."
       },
@@ -25,9 +25,9 @@
         "q": "எந்த மரபின் குறுகிய கால ஆட்சியைத் தவிர முகலாய ஆட்சி 1526 முதல் 1707 வரை நீடித்தது?",
         "options": [
           "ஷெர்ஷாவின் சூர் மரபு",
-          "லோடி மரபு",
-          "துக்ளக் மரபு",
-          "கில்ஜி மரபு"
+          "டெல்லியின் லோடி மரபு",
+          "டெல்லியின் துக்ளக் மரபு",
+          "டெல்லியின் கில்ஜி மரபு"
         ],
         "explanation": "சூர் மரபின் ஷெர்ஷாவின் குறுகிய ஆட்சியைத் தவிர, முகலாய ஆட்சி 1526 முதல் 1707 வரை நீடித்தது."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "Sher Shah was the son of the Afghan noble Hasan Suri, ruler of",
         "options": [
-          "Kanauj",
-          "Jaunpur",
+          "Kanauj in Uttar Pradesh",
+          "Jaunpur in Uttar Pradesh",
           "Sasaram in Bihar",
-          "Multan"
+          "Multan in Punjab"
         ],
         "explanation": "Sher Shah's father Hasan Suri ruled Sasaram in Bihar; Sher Shah's mausoleum was also built at Sasaram."
       },
       "ta": {
         "q": "ஷெர்ஷா எந்தப் பகுதியின் ஆட்சியாளரான ஆப்கானியப் பிரபு ஹசன் சூரியின் மகன்?",
         "options": [
-          "கன்னோசி",
-          "ஜான்பூர்",
+          "உத்தரப் பிரதேசத்தின் கன்னோசி",
+          "உத்தரப் பிரதேசத்தின் ஜான்பூர்",
           "பீகாரின் சசாரம்",
-          "முல்தான்"
+          "பஞ்சாபின் முல்தான்"
         ],
         "explanation": "ஷெர்ஷாவின் தந்தை ஹசன் சூரி பீகாரின் சசாரத்தை ஆண்டார்; ஷெர்ஷாவின் கல்லறையும் சசாரத்தில் உள்ளது."
       }
@@ -391,20 +391,20 @@
       "en": {
         "q": "In the Second Battle of Panipat (1556), Bairam Khan defeated and killed",
         "options": [
-          "Rana Sanga",
-          "Hemu, a general of the Sur dynasty",
-          "Ibrahim Lodi",
-          "Sher Shah"
+          "Rana Sanga of Mewar",
+          "Hemu, a Sur general",
+          "Ibrahim Lodi of Delhi",
+          "Sher Shah of Sasaram"
         ],
         "explanation": "Hemu, a Sur general, had captured Agra and Delhi in 1556; Bairam Khan defeated and killed him at Panipat the same year."
       },
       "ta": {
         "q": "இரண்டாம் பானிபட் போரில் (1556) பைராம் கான் தோற்கடித்துக் கொன்றது யாரை?",
         "options": [
-          "ராணா சங்கா",
-          "சூர் மரபின் தளபதி ஹெமு",
-          "இப்ராஹிம் லோடி",
-          "ஷெர்ஷா"
+          "மேவாரின் ராணா சங்கா",
+          "சூர் தளபதி ஹெமு",
+          "டெல்லியின் இப்ராஹிம் லோடி",
+          "சசாரத்தின் ஷெர்ஷா"
         ],
         "explanation": "1556 இல் ஆக்ராவையும் டெல்லியையும் கைப்பற்றிய சூர் தளபதி ஹெமுவை அதே ஆண்டு பானிபட்டில் பைராம் கான் தோற்கடித்துக் கொன்றார்."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "Rani Durgavati, whom Akbar defeated, ruled in",
         "options": [
-          "Bengal",
-          "Ahmednagar",
+          "the Bengal region",
+          "the Ahmednagar kingdom",
           "the Central Province",
-          "Mewar"
+          "the Mewar region"
         ],
         "explanation": "Rani Durgavati was a ruler in the Central Province; the book says Akbar's attack on her is not appreciated since she did him no harm."
       },
       "ta": {
         "q": "அக்பரால் தோற்கடிக்கப்பட்ட ராணி துர்காவதி எங்கு ஆட்சி செய்தார்?",
         "options": [
-          "வங்காளம்",
-          "அகமதுநகர்",
+          "வங்காளப் பகுதி",
+          "அகமதுநகர் அரசு",
           "மத்திய மாகாணம்",
-          "மேவார்"
+          "மேவார் பகுதி"
         ],
         "explanation": "ராணி துர்காவதி மத்திய மாகாணத்தின் ஆட்சியாளர்; அவர் அக்பருக்கு எந்தத் தீங்கும் செய்யாததால் அவர்மீதான படையெடுப்பு பாராட்டத்தக்கதல்ல எனப் பாடநூல் கூறுகிறது."
       }
@@ -479,9 +479,9 @@
         "q": "Akbar captured the fort of Chittor in 1568 by defeating",
         "options": [
           "Rana Uday Singh of Mewar",
-          "Rana Pratap",
-          "Raja Man Singh",
-          "Rana Sanga"
+          "Rana Pratap of Mewar",
+          "Raja Man Singh of Amber",
+          "Rana Sanga of Chittor"
         ],
         "explanation": "Akbar defeated Rana Uday Singh of Mewar, captured Chittor in 1568 and then Ranthambore in 1569."
       },
@@ -489,9 +489,9 @@
         "q": "1568 இல் அக்பர் யாரைத் தோற்கடித்துச் சித்தூர் கோட்டையைக் கைப்பற்றினார்?",
         "options": [
           "மேவாரின் ராணா உதய் சிங்",
-          "ராணா பிரதாப்",
-          "ராஜா மான் சிங்",
-          "ராணா சங்கா"
+          "மேவாரின் ராணா பிரதாப்",
+          "ஆம்பேரின் ராஜா மான் சிங்",
+          "சித்தூரின் ராணா சங்கா"
         ],
         "explanation": "அக்பர் மேவாரின் ராணா உதய் சிங்கைத் தோற்கடித்து 1568 இல் சித்தூரையும் 1569 இல் ரணதம்பூரையும் கைப்பற்றினார்."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "To win the goodwill of the Hindu nobles and masses, Akbar abolished",
         "options": [
-          "the zabt system",
-          "the land revenue",
-          "the Mansabdari system",
-          "the jizya and the tax on Hindu pilgrims"
+          "the zabt system of land assessment",
+          "the land revenue paid by peasants",
+          "the Mansabdari system of ranks",
+          "the jizya and the pilgrim tax"
         ],
         "explanation": "Akbar abolished the jizya (poll tax on non-Muslims) and the pilgrim tax; Aurangzeb later re-imposed both."
       },
       "ta": {
         "q": "இந்துப் பிரபுக்கள், மக்களின் நல்லெண்ணத்தைப் பெற அக்பர் நீக்கியது",
         "options": [
-          "ஜாப்த் முறையை",
-          "நிலவருவாயை",
-          "மன்சப்தாரி முறையை",
-          "ஜிஸ்யா வரியையும் இந்து யாத்திரை வரியையும்"
+          "நில மதிப்பீட்டுக்கான ஜாப்த் முறையை",
+          "விவசாயிகள் செலுத்திய நிலவருவாயை",
+          "பதவி நிலைகளுக்கான மன்சப்தாரி முறையை",
+          "ஜிஸ்யா வரியையும் யாத்திரை வரியையும்"
         ],
         "explanation": "அக்பர் இஸ்லாமியர் அல்லாதோர் மீதான ஜிஸ்யா வரியையும் யாத்திரை வரியையும் நீக்கினார்; பின்னர் ஔரங்கசீப் இரண்டையும் மீண்டும் விதித்தார்."
       }
@@ -710,7 +710,7 @@
       "en": {
         "q": "Who was the real power behind the throne during Jahangir's reign?",
         "options": [
-          "His wife Nur Jahan (Mehr-un-nisa)",
+          "His wife Nur Jahan",
           "His son Khurram",
           "Bairam Khan",
           "Abul Fazl"
@@ -720,7 +720,7 @@
       "ta": {
         "q": "ஜஹாங்கீர் ஆட்சியில் அரியணைக்குப் பின்னால் உண்மையான அதிகாரம் கொண்டிருந்தவர் யார்?",
         "options": [
-          "அவரது மனைவி நூர்ஜஹான் (மெஹ்ருன்னிசா)",
+          "அவரது மனைவி நூர்ஜஹான்",
           "அவரது மகன் குர்ரம்",
           "பைராம் கான்",
           "அபுல் ஃபசல்"
@@ -916,7 +916,7 @@
           "Nayaks of Madurai",
           "Rajputs of Mewar",
           "Marathas of Satara",
-          "Ahoms of Kamarupa (Assam)"
+          "Ahoms of Assam"
         ],
         "explanation": "Aurangzeb's push into the north-east led to war with the Ahoms of Kamarupa (Assam), who were never totally subdued."
       },
@@ -926,7 +926,7 @@
           "மதுரை நாயக்கர்கள்",
           "மேவாரின் ராஜபுத்திரர்கள்",
           "சதாராவின் மராத்தியர்",
-          "காமரூபத்தின் (அசாம்) அஹோம்கள்"
+          "அசாமின் அஹோம்கள்"
         ],
         "explanation": "வடகிழக்கில் ஔரங்கசீப்பின் விரிவாக்கம் காமரூப (அசாம்) அஹோம்களுடன் போருக்கு வழிவகுத்தது; அவர்கள் முழுமையாக அடக்கப்படவில்லை."
       }
@@ -972,7 +972,7 @@
         "q": "Which Maratha ruler was captured and executed by Aurangzeb?",
         "options": [
           "Shahji Bhonsle",
-          "Sambhaji, son of Shivaji",
+          "Sambhaji",
           "Shivaji",
           "Rajaram"
         ],
@@ -982,7 +982,7 @@
         "q": "ஔரங்கசீப்பால் பிடிக்கப்பட்டுக் கொல்லப்பட்ட மராத்திய அரசர் யார்?",
         "options": [
           "ஷாஜி போன்ஸ்லே",
-          "சிவாஜியின் மகன் சாம்பாஜி",
+          "சாம்பாஜி",
           "சிவாஜி",
           "ராஜாராம்"
         ],
@@ -1087,20 +1087,20 @@
       "en": {
         "q": "In Akbar's Mansabdari system, 'Sawar' indicated",
         "options": [
-          "the land given as jagir",
-          "the number of horses and horsemen a Mansabdar had to maintain",
-          "the Mansabdar's personal status",
-          "the tax-free land given to scholars"
+          "the land given to a Mansabdar as jagir",
+          "the number of horsemen a Mansabdar maintained",
+          "the personal rank and status of the Mansabdar",
+          "the tax-free land given to religious scholars"
         ],
         "explanation": "A Mansabdar's rank depended on Zat (status) and Sawar (the number of horses and horsemen he had to maintain)."
       },
       "ta": {
         "q": "அக்பரின் மன்சப்தாரி முறையில் 'சவார்' என்பது எதைக் குறித்தது?",
         "options": [
-          "ஜாகீராக வழங்கப்பட்ட நிலம்",
-          "ஒரு மன்சப்தார் பராமரிக்க வேண்டிய குதிரைகள், குதிரை வீரர்களின் எண்ணிக்கை",
-          "மன்சப்தாரின் தனிப்பட்ட தகுதி",
-          "அறிஞர்களுக்கு வழங்கிய வரியில்லா நிலம்"
+          "மன்சப்தாருக்கு ஜாகீராக வழங்கப்பட்ட நிலம்",
+          "மன்சப்தார் பராமரித்த குதிரை வீரர்களின் எண்ணிக்கை",
+          "மன்சப்தாரின் தனிப்பட்ட தரமும் தகுதியும்",
+          "சமய அறிஞர்களுக்கு வழங்கிய வரியில்லா நிலம்"
         ],
         "explanation": "மன்சப்தாரின் தரம் ஜாட் (தகுதி), சவார் (பராமரிக்க வேண்டிய குதிரைகள், குதிரை வீரர்கள் எண்ணிக்கை) இரண்டையும் பொறுத்தது."
       }
@@ -1242,10 +1242,10 @@
       "ta": {
         "q": "முகலாயப் பேரரசர் அறிஞர்கள், துறவிகள், சமய நிறுவனங்களுக்கு வழங்கிய வரியில்லா நிலங்கள் எவ்வாறு அழைக்கப்பட்டன?",
         "options": [
-          "இக்தா",
-          "ஜாகீர்",
-          "சுயூர்கல்",
-          "கலிசா"
+          "இக்தா நிலம்",
+          "ஜாகீர் நிலம்",
+          "சுயூர்கல் நிலம்",
+          "கலிசா நிலம்"
         ],
         "explanation": "அறிஞர்கள், துறவிகள், சமய நிறுவனங்களுக்கு வழங்கப்பட்ட வரியில்லா நிலங்கள் சுயூர்கல் எனப்பட்டன."
       }
@@ -1319,20 +1319,20 @@
       "en": {
         "q": "The most prominent monument of Sher Shah's reign, his mausoleum, is at",
         "options": [
-          "Sikandra",
+          "Sikandra near Agra",
           "Sasaram in Bihar",
-          "Agra",
-          "Delhi"
+          "Lahore in Punjab",
+          "Delhi, the old capital"
         ],
         "explanation": "Sher Shah's mausoleum at Sasaram in Bihar is the most prominent monument of his reign."
       },
       "ta": {
         "q": "ஷெர்ஷா ஆட்சியின் தலைசிறந்த சின்னமான அவரது கல்லறை எங்குள்ளது?",
         "options": [
-          "சிக்கந்திரா",
+          "ஆக்ராவின் அருகிலுள்ள சிக்கந்திரா",
           "பீகாரின் சசாரம்",
-          "ஆக்ரா",
-          "டெல்லி"
+          "பஞ்சாபின் லாகூர்",
+          "பழைய தலைநகர் டெல்லி"
         ],
         "explanation": "பீகாரின் சசாரத்தில் உள்ள ஷெர்ஷாவின் கல்லறை அவரது ஆட்சியின் தலைசிறந்த சின்னம்."
       }
@@ -1406,9 +1406,9 @@
       "en": {
         "q": "The Bibi Ka Maqbara in Aurangabad was built by",
         "options": [
-          "Prince Azam Shah, as a tribute to his mother",
+          "Prince Azam Shah, for his mother",
           "Shah Jahan, for Mumtaz Mahal",
-          "Jahangir, for Nur Jahan",
+          "Jahangir, for his wife Nur Jahan",
           "Akbar, for his Rajput queen"
         ],
         "explanation": "Architecture got little patronage under Aurangzeb, but his son Prince Azam Shah built the Bibi Ka Maqbara in Aurangabad for his mother."
@@ -1416,9 +1416,9 @@
       "ta": {
         "q": "ஔரங்காபாத்தில் உள்ள பீபி கா மக்பாராவைக் கட்டியவர்",
         "options": [
-          "தம் தாயின் நினைவாக இளவரசர் அசாம் ஷா",
+          "தம் தாய்க்காக இளவரசர் அசாம் ஷா",
           "மும்தாஜுக்காக ஷாஜகான்",
-          "நூர்ஜஹானுக்காக ஜஹாங்கீர்",
+          "தம் மனைவி நூர்ஜஹானுக்காக ஜஹாங்கீர்",
           "ராஜபுத்திர அரசிக்காக அக்பர்"
         ],
         "explanation": "ஔரங்கசீப் காலத்தில் கட்டடக்கலைக்குப் பெரிய ஆதரவு இல்லை; ஆனால் அவரது மகன் இளவரசர் அசாம் ஷா தம் தாயின் நினைவாக ஔரங்காபாத்தில் பீபி கா மக்பாராவைக் கட்டினார்."

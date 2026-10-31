@@ -43,9 +43,9 @@
       "en": {
         "q": "For rusting of iron to take place, which of the following is essential?",
         "options": [
-          "Only oxygen",
-          "Both oxygen and water (or water vapour)",
-          "Only water",
+          "Oxygen and sunlight",
+          "Oxygen and water",
+          "Water and carbon dioxide",
           "Carbon dioxide and sunlight"
         ],
         "explanation": "Iron + oxygen + water gives rust; if the air is more humid, rusting is faster."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "இரும்பு துருப்பிடிக்க அவசியமானது எது?",
         "options": [
-          "ஆக்சிஜன் மட்டும்",
-          "ஆக்சிஜனும் நீரும் (அல்லது நீராவியும்)",
-          "நீர் மட்டும்",
+          "ஆக்சிஜனும் சூரிய ஒளியும்",
+          "ஆக்சிஜனும் நீரும்",
+          "நீரும் கார்பன் டைஆக்சைடும்",
           "கார்பன் டைஆக்சைடும் சூரிய ஒளியும்"
         ],
         "explanation": "இரும்பு + ஆக்சிஜன் + நீர் → துரு; காற்றில் ஈரப்பதம் அதிகமானால் துருப்பிடித்தல் வேகமாக நிகழும்."
@@ -72,10 +72,10 @@
       "en": {
         "q": "A simple way to prevent rusting of iron articles is to",
         "options": [
-          "dip them in lemon juice",
-          "keep them in moist air",
+          "dip them in lemon juice for some time",
+          "keep them in moist air near the sea",
           "apply a coat of paint or grease regularly",
-          "heat them in a flame"
+          "heat them in a flame every week"
         ],
         "explanation": "Paint or grease keeps oxygen and water away from the iron surface."
       },
@@ -101,20 +101,20 @@
       "en": {
         "q": "The iron pillar at the Qutub Minar in Delhi has not rusted even after more than 1600 years. This shows that ancient Indian scientists",
         "options": [
-          "kept it away from air and water",
-          "used only wood to make pillars",
-          "coated it with plastic",
-          "had made great advances in metal making technology"
+          "kept it sheltered away from air and water",
+          "preferred to build pillars from wood",
+          "coated it with a thick layer of plastic",
+          "were advanced in metal-making technology"
         ],
         "explanation": "The pillar stands in the open yet has great rust resistance."
       },
       "ta": {
         "q": "டெல்லி குதுப்மினார் வளாகத்திலுள்ள இரும்புத் தூண் 1600 ஆண்டுகளுக்கு மேலாகியும் துருப்பிடிக்கவில்லை. இது எதைக் காட்டுகிறது?",
         "options": [
-          "அது காற்றும் நீரும் படாதவாறு வைக்கப்பட்டது",
-          "தூண்கள் செய்ய அவர்கள் மரத்தை மட்டுமே பயன்படுத்தினர்",
-          "அதன்மேல் நெகிழி பூசப்பட்டது",
-          "பண்டைய இந்திய அறிவியலாளர்கள் உலோகம் தயாரிக்கும் தொழில்நுட்பத்தில் சிறந்து விளங்கினர்"
+          "அது காற்றும் நீரும் படாதவாறு பாதுகாப்பாக வைக்கப்பட்டது",
+          "தூண்கள் செய்ய அவர்கள் மரத்தையே விரும்பினர்",
+          "அதன்மேல் தடித்த நெகிழி அடுக்கு பூசப்பட்டது",
+          "உலோகம் தயாரிக்கும் தொழில்நுட்பத்தில் முன்னேறியிருந்தனர்"
         ],
         "explanation": "திறந்த வெளியில் நிற்கும் இத்தூண் மிகுந்த துரு எதிர்ப்புத்திறன் கொண்டுள்ளது."
       }
@@ -130,20 +130,20 @@
       "en": {
         "q": "Burning of paper is a chemical change because",
         "options": [
-          "new substances such as carbon dioxide are formed and the paper cannot be got back",
-          "only the shape of the paper changes",
+          "new substances such as carbon dioxide are formed",
+          "the shape of the paper changes slightly",
           "the paper changes its state from solid to liquid",
-          "the paper can be got back on cooling"
+          "the paper can be got back after cooling the ash"
         ],
         "explanation": "On heating, water only becomes hot and finally water vapour (a physical change), but paper changes into new substances."
       },
       "ta": {
         "q": "காகிதம் எரிதல் ஒரு வேதியியல் மாற்றம்; ஏனெனில்",
         "options": [
-          "கார்பன் டைஆக்சைடு போன்ற புதிய பொருள்கள் உருவாகின்றன; காகிதத்தை மீண்டும் பெற முடியாது",
-          "காகிதத்தின் வடிவம் மட்டுமே மாறுகிறது",
+          "கார்பன் டைஆக்சைடு போன்ற புதிய பொருள்கள் உருவாகின்றன",
+          "காகிதத்தின் வடிவமும் நிறமும் மாறுகின்றன",
           "காகிதம் திண்மத்திலிருந்து திரவமாக மாறுகிறது",
-          "குளிர்வித்தால் காகிதத்தை மீண்டும் பெறலாம்"
+          "சாம்பலைக் குளிர்வித்துக் காகிதத்தை மீண்டும் பெறலாம்"
         ],
         "explanation": "நீரைச் சூடாக்கினால் அது நீராவியாக மட்டுமே மாறும் (இயற்பியல் மாற்றம்); ஆனால் காகிதம் புதிய பொருள்களாக மாறுகிறது."
       }
@@ -159,9 +159,9 @@
       "en": {
         "q": "When an object is heated and it expands, its mass",
         "options": [
-          "increases",
+          "increases slightly",
           "remains the same",
-          "decreases",
+          "decreases slightly",
           "becomes zero"
         ],
         "explanation": "Only the arrangement of particles changes; the number of particles in the object does not change."
@@ -169,9 +169,9 @@
       "ta": {
         "q": "ஒரு பொருளைச் சூடாக்கும்போது அது விரிவடைகிறது எனில், அதன் நிறை",
         "options": [
-          "அதிகரிக்கும்",
+          "சற்று அதிகரிக்கும்",
           "மாறாமல் இருக்கும்",
-          "குறையும்",
+          "சற்றுக் குறையும்",
           "சுழியாகும்"
         ],
         "explanation": "துகள்களின் அமைப்பு மட்டுமே மாறுகிறது; பொருளிலுள்ள துகள்களின் எண்ணிக்கை மாறுவதில்லை."
@@ -256,7 +256,7 @@
       "ta": {
         "q": "ஒரு பொருளின் இயற்பியல் பண்பு எது?",
         "options": [
-          "கம்பியாக நீளும் தன்மை (ductility)",
+          "கம்பியாக நீளும் தன்மை",
           "துருப்பிடிக்கும் தன்மை",
           "எரியும் தன்மை",
           "நொதிக்கும் தன்மை"
@@ -276,19 +276,19 @@
         "q": "Stretching a rubber band is a physical change because",
         "options": [
           "a new substance called rubber is formed",
-          "no new substance is formed and it returns to its original shape when released",
-          "the band changes into a gas",
-          "the mass of the band increases"
+          "no new substance is formed when it is stretched",
+          "the band changes into a gas on stretching",
+          "the mass of the band increases on stretching"
         ],
         "explanation": "The rubber band remains the same before and after elongation."
       },
       "ta": {
         "q": "ரப்பர் பட்டையை இழுத்து நீட்டுதல் ஓர் இயற்பியல் மாற்றம்; ஏனெனில்",
         "options": [
-          "ரப்பர் எனும் புதிய பொருள் உருவாகிறது",
-          "புதிய பொருள் உருவாவதில்லை; விட்டவுடன் அது தன் பழைய வடிவத்தை அடைகிறது",
-          "பட்டை வாயுவாக மாறுகிறது",
-          "பட்டையின் நிறை அதிகரிக்கிறது"
+          "ரப்பர் எனும் புதிய பொருள் அப்போது உருவாகிறது",
+          "இழுக்கும்போது புதிய பொருள் எதுவும் உருவாவதில்லை",
+          "பட்டை இழுக்கும்போது வாயுவாக மாறுகிறது",
+          "இழுக்கும்போது பட்டையின் நிறை அதிகரிக்கிறது"
         ],
         "explanation": "இழுத்த பின்னும் முன்னும் ரப்பர் பட்டை ஒன்றாகவே இருக்கிறது."
       }
@@ -304,9 +304,9 @@
       "en": {
         "q": "Melting of an ice cube is a physical change because",
         "options": [
-          "the mass of ice increases",
-          "ice changes into a gas called hydrogen",
-          "water is the same substance in ice and in liquid form; only its state changes",
+          "the mass of the ice increases as it melts",
+          "ice changes into a new gas called hydrogen",
+          "water remains the same substance with a new state",
           "a new substance with new properties is formed"
         ],
         "explanation": "Ice and water are both made of water molecules, and freezing can reverse the change."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "பனிக்கட்டி உருகுதல் ஓர் இயற்பியல் மாற்றம்; ஏனெனில்",
         "options": [
-          "பனிக்கட்டியின் நிறை அதிகரிக்கிறது",
-          "பனிக்கட்டி ஹைட்ரஜன் வாயுவாக மாறுகிறது",
-          "பனிக்கட்டியிலும் நீரிலும் உள்ள பொருள் ஒன்றே; அதன் நிலை மட்டுமே மாறுகிறது",
+          "உருகும்போது பனிக்கட்டியின் நிறை அதிகரிக்கிறது",
+          "பனிக்கட்டி ஹைட்ரஜன் என்ற புதிய வாயுவாக மாறுகிறது",
+          "பனிக்கட்டியிலும் நீரிலும் உள்ள பொருள் ஒன்றே; நிலை மாறுகிறது",
           "புதிய பண்புகளுடன் புதிய பொருள் உருவாகிறது"
         ],
         "explanation": "பனிக்கட்டியும் நீரும் நீர் மூலக்கூறுகளால் ஆனவை; நீரை உறையச் செய்தால் மாற்றத்தை மீளப்பெறலாம்."
@@ -392,9 +392,9 @@
         "q": "In an endothermic process such as melting, the molecules",
         "options": [
           "lose heat, so they slow down",
-          "gain heat, so their speed increases and they move faster",
-          "stop moving",
-          "become new molecules"
+          "gain heat and move faster",
+          "stop moving completely",
+          "become different new molecules"
         ],
         "explanation": "In freezing and condensation heat is removed, so the molecules move slower (exothermic)."
       },
@@ -402,9 +402,9 @@
         "q": "உருகுதல் போன்ற வெப்பம் கொள் செயல்முறையில் மூலக்கூறுகள்",
         "options": [
           "வெப்பத்தை இழப்பதால் மெதுவாகின்றன",
-          "வெப்பத்தைப் பெறுவதால் அவற்றின் வேகம் அதிகரித்து விரைவாக இயங்குகின்றன",
-          "இயக்கத்தை நிறுத்துகின்றன",
-          "புதிய மூலக்கூறுகளாக மாறுகின்றன"
+          "வெப்பத்தைப் பெற்று விரைவாக இயங்குகின்றன",
+          "இயக்கத்தை நிறுத்திவிடுகின்றன",
+          "புதிய வகை மூலக்கூறுகளாக மாறுகின்றன"
         ],
         "explanation": "உறைதல், ஒடுக்கத்தில் வெப்பம் நீக்கப்படுவதால் மூலக்கூறுகள் மெதுவாக இயங்கும் (வெப்பம் உமிழ் செயல்முறை)."
       }
@@ -420,10 +420,10 @@
       "en": {
         "q": "Which of the following is true of evaporation, as compared with boiling?",
         "options": [
-          "It occurs throughout the liquid with bubbles",
-          "It occurs only when the boiling point is reached",
-          "It occurs only at the surface of the liquid, at any temperature, without bubbles",
-          "It changes a gas into a liquid"
+          "It occurs throughout the liquid, with bubbles",
+          "It occurs when the boiling point is reached",
+          "It occurs at the surface, at any temperature",
+          "It changes a gas into a liquid at the surface"
         ],
         "explanation": "Boiling happens on heating at the boiling point; evaporation is a slow natural process at the surface."
       },
@@ -431,9 +431,9 @@
         "q": "கொதித்தலுடன் ஒப்பிடும்போது ஆவியாதல் பற்றிய சரியான கூற்று எது?",
         "options": [
           "குமிழ்களுடன் திரவம் முழுவதிலும் நிகழும்",
-          "கொதிநிலையை அடைந்த பின்பே நிகழும்",
-          "எந்த வெப்பநிலையிலும், குமிழ்கள் இன்றித் திரவத்தின் மேற்பரப்பில் மட்டுமே நிகழும்",
-          "வாயுவைத் திரவமாக மாற்றும்"
+          "திரவம் கொதிநிலையை அடையும்போது நிகழும்",
+          "எந்த வெப்பநிலையிலும் மேற்பரப்பில் நிகழும்",
+          "மேற்பரப்பில் வாயுவைத் திரவமாக மாற்றும்"
         ],
         "explanation": "கொதித்தல் கொதிநிலையில் சூடாக்கும்போது நிகழும்; ஆவியாதல் மேற்பரப்பில் நிகழும் மெதுவான இயற்கை நிகழ்வு."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "Two identical glasses with equal water are kept, one in hot sun and the other in shade. After a few hours the water level is lower in the glass kept in the sun because",
         "options": [
-          "more molecules break free from the surface at a higher temperature",
-          "the sun adds heat energy to the glass only",
-          "water cannot evaporate in shade",
-          "the glass in the sun is bigger"
+          "more molecules escape from the surface when it is warmer",
+          "the sun warms the glass but not the water",
+          "the water in shade soaks into the glass",
+          "the glass in the sun is bigger in size"
         ],
         "explanation": "The rate of evaporation increases with rising temperature."
       },
       "ta": {
         "q": "ஒரே மாதிரியான இரு கண்ணாடிக் குவளைகளில் சம அளவு நீர் ஊற்றி ஒன்றை வெயிலிலும் மற்றொன்றை நிழலிலும் வைத்தால், சில மணி நேரத்தில் வெயிலில் வைத்த குவளையில் நீர் மட்டம் குறைவாக இருக்கும்; காரணம்",
         "options": [
-          "அதிக வெப்பநிலையில் மேற்பரப்பிலிருந்து அதிக மூலக்கூறுகள் வெளியேறுகின்றன",
-          "சூரியன் குவளைக்கு மட்டுமே வெப்பம் தருகிறது",
-          "நிழலில் நீர் ஆவியாக முடியாது",
-          "வெயிலிலுள்ள குவளை பெரியது"
+          "வெப்பத்தில் மேற்பரப்பிலிருந்து அதிக மூலக்கூறுகள் வெளியேறுகின்றன",
+          "சூரியன் குவளையைச் சூடாக்குகிறது, நீரைச் சூடாக்குவதில்லை",
+          "நிழலிலுள்ள நீர் குவளைக்குள் உறிஞ்சப்படுகிறது",
+          "வெயிலில் வைத்த குவளை அளவில் பெரியது"
         ],
         "explanation": "வெப்பநிலை உயர உயர ஆவியாதல் வீதம் அதிகரிக்கும்."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "When a liquid is cooled, its particles",
         "options": [
-          "break into smaller particles",
+          "break up into smaller particles",
           "gain energy and move farther apart",
-          "lose energy, vibrate less and move closer to each other",
-          "become heavier"
+          "lose energy and move closer together",
+          "gain mass and become heavier"
         ],
         "explanation": "This is how liquid water freezes to ice at its freezing point (0 °C)."
       },
       "ta": {
         "q": "ஒரு திரவத்தைக் குளிர்விக்கும்போது அதன் துகள்கள்",
         "options": [
-          "சிறு துகள்களாக உடைகின்றன",
-          "ஆற்றலைப் பெற்று, இன்னும் விலகிச் செல்கின்றன",
-          "ஆற்றலை இழந்து, குறைவாக அதிர்வுற்று, ஒன்றுக்கொன்று நெருங்குகின்றன",
-          "எடை கூடுகின்றன"
+          "சிறு துகள்களாக உடைந்து போகின்றன",
+          "ஆற்றலைப் பெற்று இன்னும் விலகிச் செல்கின்றன",
+          "ஆற்றலை இழந்து ஒன்றுக்கொன்று நெருங்குகின்றன",
+          "நிறை கூடி எடை அதிகமாகின்றன"
         ],
         "explanation": "இவ்வாறே திரவ நீர் உறைநிலையான 0 °C-இல் பனிக்கட்டியாக உறைகிறது."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "Water droplets are seen on the inside of a plate covering hot food because",
         "options": [
-          "the food releases oil",
+          "the food releases oil onto the plate",
           "the plate absorbs water from the food",
-          "the plate is porous",
-          "water vapour from the food condenses on the cooler plate"
+          "the plate is porous and lets water in",
+          "water vapour from the food condenses on the plate"
         ],
         "explanation": "Condensation happens when molecules in a gas cool down; it is a physical change."
       },
       "ta": {
         "q": "சூடான உணவை மூடிய தட்டின் உட்புறத்தில் நீர்த்துளிகள் காணப்படுவதற்குக் காரணம்",
         "options": [
-          "உணவிலிருந்து எண்ணெய் வெளியேறுகிறது",
+          "உணவிலிருந்து எண்ணெய் தட்டின் மேல் வெளியேறுகிறது",
           "தட்டு உணவிலிருந்து நீரை உறிஞ்சுகிறது",
-          "தட்டில் நுண்துளைகள் உள்ளன",
-          "உணவிலிருந்து எழும் நீராவி குளிர்ந்த தட்டில் ஒடுங்குகிறது"
+          "தட்டில் நுண்துளைகள் இருப்பதால் நீர் உள்ளே செல்கிறது",
+          "உணவிலிருந்து எழும் நீராவி தட்டில் ஒடுங்குகிறது"
         ],
         "explanation": "வாயுவின் மூலக்கூறுகள் குளிரும்போது ஒடுக்கம் நிகழ்கிறது; இது ஓர் இயற்பியல் மாற்றம்."
       }
@@ -595,9 +595,9 @@
         "q": "Besides camphor and naphthalene, another substance that undergoes sublimation is",
         "options": [
           "ammonium chloride",
-          "sugar",
+          "calcium carbonate",
           "common salt",
-          "wax"
+          "paraffin wax"
         ],
         "explanation": "On heating, camphor, naphthalene and ammonium chloride change directly from solid to gas without becoming liquid."
       },
@@ -605,9 +605,9 @@
         "q": "கற்பூரம், நாப்தலீன் தவிர பதங்கமாதலுக்கு உட்படும் மற்றொரு பொருள்",
         "options": [
           "அம்மோனியம் குளோரைடு",
-          "சர்க்கரை",
+          "கால்சியம் கார்பனேட்",
           "சமையல் உப்பு",
-          "மெழுகு"
+          "பாரஃபின் மெழுகு"
         ],
         "explanation": "கற்பூரம், நாப்தலீன், அம்மோனியம் குளோரைடு ஆகியவை சூடாக்கும்போது திரவமாகாமல் நேரடியாக வாயுவாக மாறுகின்றன."
       }
@@ -653,9 +653,9 @@
         "q": "Solid substances are usually purified by crystallization rather than by simple evaporation because evaporation",
         "options": [
           "changes the chemical composition of the solid",
-          "cools the solution too much",
-          "does not remove the soluble impurities and gives only small crystals",
-          "is a chemical change"
+          "cools the solution far too much",
+          "leaves the soluble impurities in the solid",
+          "is a chemical change in the solution"
         ],
         "explanation": "Crystals from evaporation are small and impure; large crystals of pure substances are obtained by crystallization."
       },
@@ -664,8 +664,8 @@
         "options": [
           "திண்மத்தின் வேதி இயைபை மாற்றுகிறது",
           "கரைசலை மிகவும் குளிர்வித்துவிடுகிறது",
-          "கரையும் மாசுகளை நீக்குவதில்லை; சிறிய படிகங்களையே தருகிறது",
-          "ஒரு வேதியியல் மாற்றம்"
+          "கரையும் மாசுகளை நீக்காமல் விட்டுவிடுகிறது",
+          "கரைசலில் நிகழும் ஒரு வேதியியல் மாற்றம்"
         ],
         "explanation": "ஆவியாதலால் கிடைக்கும் படிகங்கள் சிறியவை; தூய பொருளின் பெரிய படிகங்கள் படிகமாக்கலால் கிடைக்கின்றன."
       }
@@ -739,20 +739,20 @@
       "en": {
         "q": "We are advised not to play with fireworks because their explosion produces",
         "options": [
-          "only a change in colour",
-          "heat, light, sound and unpleasant gases that pollute the atmosphere",
-          "only a change of state",
-          "no new substance"
+          "a change in colour of the powder",
+          "heat, light, sound and polluting gases",
+          "a change of state of the powder",
+          "no new substance in the powder"
         ],
         "explanation": "The explosion of a firework is a chemical change."
       },
       "ta": {
         "q": "பட்டாசுகளுடன் விளையாடக் கூடாது என அறிவுறுத்தப்படுவதற்குக் காரணம், அவை வெடிக்கும்போது",
         "options": [
-          "நிறம் மட்டுமே மாறுகிறது",
-          "வெப்பம், ஒளி, ஒலி, காற்றை மாசுபடுத்தும் விரும்பத்தகாத வாயுக்கள் உருவாகின்றன",
-          "நிலை மட்டுமே மாறுகிறது",
-          "புதிய பொருள் உருவாவதில்லை"
+          "வெடிமருந்தின் நிறம் மாறுகிறது",
+          "வெப்பம், ஒளி, ஒலி, மாசுபடுத்தும் வாயுக்கள் உருவாகின்றன",
+          "வெடிமருந்தின் நிலை மாறுகிறது",
+          "வெடிமருந்தில் புதிய பொருள் உருவாவதில்லை"
         ],
         "explanation": "பட்டாசு வெடித்தல் ஒரு வேதியியல் மாற்றம்."
       }
@@ -913,9 +913,9 @@
       "en": {
         "q": "Water decomposes into hydrogen and oxygen when a few drops of acid are added and",
         "options": [
-          "it is cooled to 0 °C",
-          "it is kept in the shade",
-          "it is stirred with a spoon",
+          "it is cooled to 0 °C in a freezer",
+          "it is kept in the shade for a day",
+          "it is stirred with a spoon for long",
           "an electric current is passed through it"
         ],
         "explanation": "Electricity is one of the conditions needed for a chemical change, along with physical contact, heat, light and pressure."
@@ -923,9 +923,9 @@
       "ta": {
         "q": "நீரில் சில துளி அமிலம் சேர்த்த பின் எதைச் செய்தால் அது ஹைட்ரஜன், ஆக்சிஜனாகப் பிரிகிறது?",
         "options": [
-          "0 °C வரை குளிர்வித்தால்",
-          "நிழலில் வைத்தால்",
-          "கரண்டியால் கலக்கினால்",
+          "உறைவிப்பானில் 0 °C வரை குளிர்வித்தால்",
+          "ஒரு நாள் முழுவதும் நிழலில் வைத்தால்",
+          "நீண்ட நேரம் கரண்டியால் கலக்கினால்",
           "அதன் வழியே மின்னோட்டத்தைச் செலுத்தினால்"
         ],
         "explanation": "தொடுதல், வெப்பம், ஒளி, அழுத்தம் போன்றவற்றுடன் மின்சாரமும் வேதியியல் மாற்றத்திற்குத் தேவையான நிபந்தனையாகும்."
@@ -953,9 +953,9 @@
         "q": "சில பட்டாசுகள் சுவரில் வீசப்படும்போது அல்லது கடினப் பொருளால் தாக்கப்படும்போது மட்டுமே வெடிக்கின்றன. இது ஒரு வேதியியல் மாற்றம் எதில் ஏற்படும் மாற்றத்தாலும் நிகழக்கூடும் எனக் காட்டுகிறது?",
         "options": [
           "அழுத்தம்",
-          "நிறம்",
-          "நிறை",
-          "மணம்"
+          "நிறத் தன்மை",
+          "நிறையளவு",
+          "மணத் தன்மை"
         ],
         "explanation": "தொடுதல், வெப்பம், ஒளி, மின்சாரம், அழுத்தம் ஆகியவை வேதியியல் மாற்றத்துக்கான நிபந்தனைகள்."
       }
@@ -1000,20 +1000,20 @@
       "en": {
         "q": "Catalysts are substances that",
         "options": [
-          "are used up completely in the reaction",
-          "slow down every chemical change",
-          "speed up a chemical change without themselves undergoing any change",
-          "change a gas into a solid"
+          "get used up in the chemical reaction",
+          "slow down chemical changes in the body",
+          "speed up a chemical change without being changed",
+          "turn a gas into a solid on mixing"
         ],
         "explanation": "Nickel, platinum and palladium are catalysts in the hydrogenation of oils."
       },
       "ta": {
         "q": "வினையூக்கிகள் என்பவை",
         "options": [
-          "வினையில் முழுவதும் தீர்ந்துபோகும் பொருள்கள்",
-          "எல்லா வேதியியல் மாற்றங்களையும் மெதுவாக்கும் பொருள்கள்",
-          "தாம் மாற்றமடையாமல் வேதியியல் மாற்றத்தை விரைவுபடுத்தும் பொருள்கள்",
-          "வாயுவைத் திண்மமாக மாற்றும் பொருள்கள்"
+          "வேதிவினையில் பயன்பட்டுத் தீர்ந்துபோகும் பொருள்கள்",
+          "உடலில் வேதியியல் மாற்றங்களை மெதுவாக்கும் பொருள்கள்",
+          "தாம் மாறாமல் வேதியியல் மாற்றத்தை விரைவுபடுத்தும் பொருள்கள்",
+          "கலக்கும்போது வாயுவைத் திண்மமாக்கும் பொருள்கள்"
         ],
         "explanation": "நிக்கல், பிளாட்டினம், பலேடியம் ஆகியவை எண்ணெய் ஹைட்ரஜனேற்றத்தில் வினையூக்கிகள்."
       }
@@ -1116,20 +1116,20 @@
       "en": {
         "q": "A drop of petrol touched with the finger gives a chill feeling because the petrol",
         "options": [
-          "burns on the skin",
-          "gives out heat as it freezes",
-          "absorbs heat from the finger as it evaporates (an endothermic change)",
-          "converts into ice"
+          "burns on the skin of the finger",
+          "gives out heat to the finger as it freezes",
+          "absorbs heat from the finger as it evaporates",
+          "converts into a thin layer of ice"
         ],
         "explanation": "Evaporation absorbs heat, so the finger loses heat and feels cold."
       },
       "ta": {
         "q": "ஒரு துளி பெட்ரோலை விரலால் தொட்டால் குளிர்ச்சியாக உணரப்படுவதற்குக் காரணம், பெட்ரோல்",
         "options": [
-          "தோலில் எரிகிறது",
-          "உறையும்போது வெப்பத்தை வெளியிடுகிறது",
-          "ஆவியாகும்போது விரலிலிருந்து வெப்பத்தை உறிஞ்சுகிறது (வெப்பம் கொள் மாற்றம்)",
-          "பனிக்கட்டியாக மாறுகிறது"
+          "விரலின் தோலின் மீது எரிகிறது",
+          "உறையும்போது விரலுக்கு வெப்பத்தை வெளியிடுகிறது",
+          "ஆவியாகும்போது விரலிலிருந்து வெப்பத்தை உறிஞ்சுகிறது",
+          "மெல்லிய பனிக்கட்டி அடுக்காக மாறுகிறது"
         ],
         "explanation": "ஆவியாதல் வெப்பத்தை உறிஞ்சுவதால் விரல் வெப்பத்தை இழந்து குளிர்ச்சியாக உணர்கிறது."
       }
