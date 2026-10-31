@@ -14,20 +14,20 @@
       "en": {
         "q": "According to the book, a change is",
         "options": [
-          "the observable difference between the initial state and the final state of a substance",
-          "the total mass of a substance after heating",
-          "the movement of a substance from one place to another only",
-          "the process of weighing a substance"
+          "the observable difference between the initial and final states of a substance",
+          "the total mass of a substance measured after heating it",
+          "the movement of a substance from one place to another",
+          "the process of weighing a substance on a balance"
         ],
         "explanation": "A change is the observable difference between the initial and the final state of any substance."
       },
       "ta": {
         "q": "நூலின்படி, மாற்றம் என்பது",
         "options": [
-          "ஒரு பொருளின் தொடக்க நிலைக்கும் இறுதி நிலைக்கும் உள்ள கவனிக்கத்தக்க வேறுபாடு",
-          "வெப்பப்படுத்திய பின் பொருளின் மொத்த நிறை",
-          "ஒரு பொருள் ஓரிடத்திலிருந்து மற்றோர் இடத்திற்கு நகர்வது மட்டுமே",
-          "பொருளை எடைபோடும் செயல்முறை"
+          "தொடக்க, இறுதி நிலைகளுக்கு இடையே உள்ள கவனிக்கத்தக்க வேறுபாடு",
+          "வெப்பப்படுத்திய பின் அளந்த பொருளின் மொத்த நிறை",
+          "ஒரு பொருள் ஓரிடத்திலிருந்து மற்றோர் இடத்திற்கு நகர்வது",
+          "தராசில் பொருளை எடைபோடும் செயல்முறை"
         ],
         "explanation": "ஒரு பொருளின் தொடக்க நிலைக்கும் இறுதி நிலைக்கும் இடையே காணப்படும் வேறுபாடே மாற்றம் எனப்படும்."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "Brown patches form on the cut surface of an apple left on a table because",
         "options": [
-          "substances in the apple react with the air, which is a chemical change",
-          "the apple loses its shape",
-          "the apple gets cooler",
-          "the apple dissolves in the air"
+          "the apple's substances react with the air",
+          "the apple slowly loses its shape",
+          "the apple gets cooler in the air",
+          "the apple dissolves into the air"
         ],
         "explanation": "The reaction between some substances in the apple and the air is a chemical change."
       },
       "ta": {
         "q": "மேசையில் வைக்கப்பட்ட வெட்டிய ஆப்பிளின் மேற்பரப்பில் பழுப்புப் புள்ளிகள் தோன்றுவதற்குக் காரணம்",
         "options": [
-          "ஆப்பிளிலுள்ள சில பொருள்கள் காற்றுடன் வினைபுரிவதே; இது வேதியியல் மாற்றம்",
-          "ஆப்பிள் தன் வடிவத்தை இழப்பதே",
-          "ஆப்பிள் குளிர்ச்சியடைவதே",
-          "ஆப்பிள் காற்றில் கரைவதே"
+          "ஆப்பிளிலுள்ள பொருள்கள் காற்றுடன் வினைபுரிவதே",
+          "ஆப்பிள் மெல்லத் தன் வடிவத்தை இழப்பதே",
+          "ஆப்பிள் காற்றில் குளிர்ச்சியடைவதே",
+          "ஆப்பிள் காற்றில் கரைந்துவிடுவதே"
         ],
         "explanation": "ஆப்பிளிலுள்ள சில பொருள்களுக்கும் காற்றிற்கும் இடையிலான வினையே வேதியியல் மாற்றம் ஆகும்."
       }
@@ -432,7 +432,7 @@
         "options": [
           "இரப்பர் வளையத்தை இழுத்தல்",
           "பனிக்கட்டி உருகுதல்",
-          "பொரி (பாப்கார்ன்) வெடித்தல்",
+          "பாப்கார்ன் வெடித்தல்",
           "உப்பு நீரில் கரைதல்"
         ],
         "explanation": "மரம் எரிதல், பாப்கார்ன் வெடித்தல், வெள்ளி நகை கருமையாதல், இரும்பு துருப்பிடித்தல் ஆகியவை வேதியியல் மாற்றங்கள்."
@@ -508,9 +508,9 @@
         "q": "Human made (artificial) changes are those which",
         "options": [
           "take place in nature on their own",
-          "are brought about by human beings and will not happen on their own",
+          "are brought about by human beings",
           "are beyond the control of human beings",
-          "always occur very slowly"
+          "occur very slowly in nature"
         ],
         "explanation": "Examples of human made changes are cooking, deforestation, cultivating crops and construction of buildings."
       },
@@ -518,9 +518,9 @@
         "q": "மனிதனால் ஏற்படும் (செயற்கை) மாற்றங்கள் என்பவை",
         "options": [
           "இயற்கையில் தாமாகவே நிகழ்பவை",
-          "மனிதர்களால் உண்டாக்கப்படுபவை; தாமாக நிகழாதவை",
+          "மனிதர்களால் உண்டாக்கப்படுபவை",
           "மனிதனின் கட்டுப்பாட்டிற்கு அப்பாற்பட்டவை",
-          "எப்போதும் மிக மெதுவாகவே நிகழ்பவை"
+          "இயற்கையில் மிக மெதுவாக நிகழ்பவை"
         ],
         "explanation": "சமைத்தல், காடுகளை அழித்தல், பயிரிடுதல், கட்டடம் கட்டுதல் ஆகியவை மனிதனால் ஏற்படும் மாற்றங்கள்."
       }

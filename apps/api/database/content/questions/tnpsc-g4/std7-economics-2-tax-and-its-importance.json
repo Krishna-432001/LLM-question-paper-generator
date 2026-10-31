@@ -160,9 +160,9 @@
         "q": "A regressive tax",
         "options": [
           "takes a larger percentage from high-income earners",
-          "takes a larger percentage of income from low-income earners than from high-income earners",
-          "takes the same percentage from everyone",
-          "is paid only by companies"
+          "takes a larger percentage of income from low-income earners",
+          "takes the same percentage of income from every taxpayer",
+          "is paid by companies and large business houses"
         ],
         "explanation": "A regressive tax, applied uniformly, takes a larger share of income from low earners than from high earners — the opposite of progressive tax."
       },
@@ -170,9 +170,9 @@
         "q": "தேய்வீத வரி (regressive tax) என்பது",
         "options": [
           "அதிக வருமானம் உள்ளோரிடம் அதிகச் சதவீதம் எடுக்கும் வரி",
-          "அதிக வருமானம் உள்ளோரை விடக் குறைந்த வருமானம் உள்ளோரிடம் வருமானத்தில் அதிகச் சதவீதம் எடுக்கும் வரி",
-          "எல்லோரிடமும் ஒரே சதவீதம் எடுக்கும் வரி",
-          "நிறுவனங்கள் மட்டுமே செலுத்தும் வரி"
+          "குறைந்த வருமானம் உள்ளோரிடம் வருமானத்தில் அதிகச் சதவீதம் எடுக்கும் வரி",
+          "எல்லா வரிசெலுத்துவோரிடமும் ஒரே சதவீதம் எடுக்கும் வரி",
+          "நிறுவனங்களும் பெரிய வணிக நிறுவனங்களும் செலுத்தும் வரி"
         ],
         "explanation": "ஒரே மாதிரியாக விதிக்கப்படும் தேய்வீத வரி, அதிக வருமானம் உள்ளோரை விடக் குறைந்த வருமானம் உள்ளோரிடம் வருமானத்தில் அதிகப் பங்கை எடுக்கிறது — இது வளர்வீத வரிக்கு எதிரானது."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "Toll tax is paid for",
         "options": [
-          "watching films",
-          "inheriting property",
-          "owning jewellery",
-          "using infrastructure such as roads and bridges"
+          "watching films in theatres",
+          "inheriting family property",
+          "owning gold and silver jewellery",
+          "using public roads and bridges"
         ],
         "explanation": "Toll tax is paid to use government infrastructure like roads and bridges; it is used for their maintenance and upkeep."
       },
       "ta": {
         "q": "சுங்க வரி (toll tax) எதற்காகச் செலுத்தப்படுகிறது?",
         "options": [
-          "திரைப்படம் பார்க்க",
-          "சொத்தை மரபுரிமையாகப் பெற",
-          "நகைகள் வைத்திருக்க",
-          "சாலைகள், பாலங்கள் போன்ற உள்கட்டமைப்பைப் பயன்படுத்த"
+          "திரையரங்கில் திரைப்படம் பார்க்க",
+          "குடும்பச் சொத்தை மரபுரிமையாகப் பெற",
+          "தங்க, வெள்ளி நகைகள் வைத்திருக்க",
+          "சாலைகள், பாலங்களைப் பயன்படுத்த"
         ],
         "explanation": "அரசு அமைத்த சாலைகள், பாலங்கள் போன்றவற்றைப் பயன்படுத்தச் சுங்க வரி செலுத்தப்படுகிறது; அது அவற்றின் பராமரிப்புக்குப் பயன்படுகிறது."
       }
@@ -362,20 +362,20 @@
       "en": {
         "q": "Which of these is a feature of a direct tax, according to the book's comparison?",
         "options": [
-          "It has no inflationary pressure, and its impact and incidence are the same",
+          "Its impact and incidence fall on the same person",
           "Its burden can easily be shifted to others",
-          "It is imposed on goods and services",
-          "It is more elastic than indirect tax"
+          "It is imposed on goods and services bought",
+          "It is more elastic than the indirect taxes"
         ],
         "explanation": "A direct tax cannot be shifted, has no inflationary pressure, has the same impact and incidence, and is less elastic; indirect taxes are on goods and services and can be shifted."
       },
       "ta": {
         "q": "பாடநூலின் ஒப்பீட்டின்படி நேர்முக வரியின் பண்பு எது?",
         "options": [
-          "பணவீக்க அழுத்தம் இல்லை; தாக்கமும் சுமையும் ஒரே நபர் மீது",
-          "அதன் சுமையை எளிதாகப் பிறருக்கு மாற்றலாம்",
+          "தாக்கமும் சுமையும் ஒரே நபர் மீது விழுகின்றன",
+          "அதன் சுமையைப் பிறருக்கு எளிதாக மாற்றி விடலாம்",
           "அது பொருள்கள், சேவைகள் மீது விதிக்கப்படுகிறது",
-          "அது மறைமுக வரியை விட நெகிழ்வானது"
+          "அது மறைமுக வரிகளை விட அதிக நெகிழ்வானது"
         ],
         "explanation": "நேர்முக வரியின் சுமையை மாற்ற இயலாது; பணவீக்க அழுத்தம் இல்லை; தாக்கமும் சுமையும் ஒரே நபர் மீது; நெகிழ்வு குறைவு; மறைமுக வரி பொருள்கள், சேவைகள் மீது விதிக்கப்பட்டுப் பிறருக்கு மாற்றப்படக்கூடியது."
       }

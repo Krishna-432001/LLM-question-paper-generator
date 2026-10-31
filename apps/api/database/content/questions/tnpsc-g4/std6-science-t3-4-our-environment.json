@@ -46,7 +46,7 @@
           "a food chain",
           "an ecosystem",
           "a pollutant",
-          "a habitat of one species only"
+          "a habitat of one species"
         ],
         "explanation": "An ecosystem is a community of living and non-living things that work together."
       },
@@ -54,9 +54,9 @@
         "q": "ஒன்றுடன் ஒன்று இணைந்து செயல்படும் உயிருள்ள, உயிரற்ற பொருள்களின் சமூகம் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "உணவுச் சங்கிலி",
-          "சூழல் மண்டலம் (Ecosystem)",
+          "சூழல் மண்டலம்",
           "மாசுபடுத்தி",
-          "ஒரே ஓர் உயிரினத்தின் வாழிடம் மட்டும்"
+          "ஒரே உயிரினத்தின் வாழிடம்"
         ],
         "explanation": "உயிருள்ளவையும் உயிரற்றவையும் சேர்ந்து செயல்படும் சமூகமே சூழல் மண்டலம் ஆகும்."
       }
@@ -104,17 +104,17 @@
           "Those related to wind and humidity",
           "Those related to light and temperature",
           "Those related to living plants and animals",
-          "Those related to soil: water, air and organic matter in soil"
+          "Those related to soil and its contents"
         ],
         "explanation": "Edaphic factors are soil factors: water in soil, air in soil and organic matter in soil."
       },
       "ta": {
         "q": "சூழல் மண்டலத்தின் உயிரற்ற காரணிகளில் எவை 'எடாபிக்' (Edaphic) காரணிகள் எனப்படுகின்றன?",
         "options": [
-          "காற்று, ஈரப்பதம் தொடர்பானவை",
-          "ஒளி, வெப்பநிலை தொடர்பானவை",
+          "காற்று, ஈரப்பதம், காற்றோட்டம் தொடர்பானவை",
+          "ஒளி, வெப்பநிலை, பருவநிலை தொடர்பானவை",
           "உயிருள்ள தாவரங்கள், விலங்குகள் தொடர்பானவை",
-          "மண் தொடர்பானவை: மண்ணிலுள்ள நீர், காற்று, கரிமப்பொருள்"
+          "மண் தொடர்பானவை: நீர், காற்று, கரிமப்பொருள்"
         ],
         "explanation": "மண்ணிலுள்ள நீர், காற்று, கரிமப்பொருள் ஆகிய மண் சார்ந்த காரணிகள் எடாபிக் காரணிகள் ஆகும்."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "Which of the following is NOT a natural aquatic ecosystem?",
         "options": [
-          "Pond",
-          "Fish tank",
-          "River",
-          "Sea"
+          "Village pond",
+          "Glass fish tank",
+          "Flowing river",
+          "Deep sea water"
         ],
         "explanation": "Sea, river, lake, pond and puddle are natural aquatic ecosystems; a fish tank is an artificial one."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் இயற்கையான நீர்வாழ் சூழல் மண்டலம் அல்லாதது எது?",
         "options": [
-          "குளம்",
+          "கிராமக் குளம்",
           "மீன் தொட்டி",
-          "ஆறு",
-          "கடல்"
+          "பாயும் ஆறு",
+          "ஆழ்கடல் நீர்"
         ],
         "explanation": "கடல், ஆறு, ஏரி, குளம், குட்டை ஆகியவை இயற்கை நீர்வாழ் சூழல் மண்டலங்கள்; மீன் தொட்டி செயற்கையானது."
       }
@@ -372,7 +372,7 @@
       "ta": {
         "q": "இறந்த தாவரங்களையும் விலங்குகளையும் எளிய பொருள்களாகச் சிதைக்கும் பாக்டீரியா, பூஞ்சை போன்ற நுண்ணுயிரிகள் எவ்வாறு அழைக்கப்படுகின்றன?",
         "options": [
-          "சிதைப்பவை (Decomposers)",
+          "சிதைப்பவை",
           "உற்பத்தியாளர்கள்",
           "தாவர உண்ணிகள்",
           "ஊன் உண்ணிகள்"
@@ -623,9 +623,9 @@
       "en": {
         "q": "What is the role of decomposers in a food chain?",
         "options": [
-          "They produce food by photosynthesis",
-          "They degrade excreta and dead bodies into simple components and put them back into the soil to help plants grow",
-          "They hunt the top-level predators",
+          "They produce food by photosynthesis in leaves",
+          "They break down dead bodies into simple components",
+          "They hunt the top-level predators in the chain",
           "They store the energy of the Sun for animals"
         ],
         "explanation": "Micro-organisms degrade dead bodies and excreta and return the material to the soil, which helps plants to grow."
@@ -633,9 +633,9 @@
       "ta": {
         "q": "உணவுச் சங்கிலியில் சிதைப்பவற்றின் பணி என்ன?",
         "options": [
-          "ஒளிச்சேர்க்கை மூலம் உணவு தயாரித்தல்",
-          "விலங்குகளின் கழிவுகளையும் இறந்த உடல்களையும் எளிய கூறுகளாகச் சிதைத்து, தாவர வளர்ச்சிக்கு உதவும்படி மண்ணுக்குத் திருப்புதல்",
-          "உச்சநிலை வேட்டையாடிகளை வேட்டையாடுதல்",
+          "ஒளிச்சேர்க்கை மூலம் இலைகளில் உணவு தயாரித்தல்",
+          "இறந்த உடல்களையும் கழிவுகளையும் எளிய கூறுகளாகச் சிதைத்தல்",
+          "சங்கிலியின் உச்சநிலை வேட்டையாடிகளை வேட்டையாடுதல்",
           "சூரிய ஆற்றலை விலங்குகளுக்காகச் சேமித்தல்"
         ],
         "explanation": "நுண்ணுயிரிகள் கழிவுகளையும் இறந்த உடல்களையும் சிதைத்து, அப்பொருள்களை மண்ணுக்குத் திருப்புவதால் தாவரங்கள் வளர்கின்றன."
@@ -681,9 +681,9 @@
       "en": {
         "q": "The food chain can be used to understand the movement of",
         "options": [
-          "sound waves",
-          "rocks and minerals",
-          "rain clouds",
+          "sound waves in the air",
+          "rocks and minerals in soil",
+          "rain clouds in the sky",
           "toxic substances and their impacts"
         ],
         "explanation": "Food chains help us understand how toxic substances move in an ecosystem and what impact they have."
@@ -740,7 +740,7 @@
         "q": "Which of the following is biodegradable waste?",
         "options": [
           "Plastic bottles",
-          "Vegetable and fruit peels",
+          "Vegetable peels",
           "Aluminium cans",
           "Metal scraps"
         ],
@@ -750,8 +750,8 @@
         "q": "பின்வருவனவற்றுள் மக்கும் கழிவு எது?",
         "options": [
           "பிளாஸ்டிக் பாட்டில்கள்",
-          "காய்கறி, பழத் தோல்கள்",
-          "அலுமினியக் குவளைகள் (கேன்கள்)",
+          "காய்கறித் தோல்கள்",
+          "அலுமினியக் குவளைகள்",
           "உலோகத் துண்டுகள்"
         ],
         "explanation": "காய்கறி, பழத் தோல்கள், மீதமான உணவு, தோட்டக் கழிவுகள் ஆகியவை மக்கும் கழிவுகள்."
@@ -780,7 +780,7 @@
         "options": [
           "வாழைப்பழத் தோல்",
           "மீதமான உணவு",
-          "அலுமினியக் குவளைகள் (கேன்கள்)",
+          "அலுமினியக் குவளைகள்",
           "காய்ந்த இலைகள்"
         ],
         "explanation": "பிளாஸ்டிக், உலோகத் துண்டுகள், அலுமினியக் கேன்கள், புட்டிகள் ஆகியவை நுண்ணுயிரிகளால் சிதைக்கப்பட முடியாத மக்காத கழிவுகள்."
@@ -865,10 +865,10 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் மறுபயன்பாட்டுக்கு (Reuse) எடுத்துக்காட்டு எது?",
         "options": [
-          "பழைய துணிகளிலிருந்து காகிதம் தயாரித்தல்",
-          "பிளாஸ்டிக் பைகளுக்குப் பதிலாகத் துணிப் பைகளைப் பயன்படுத்துதல்",
-          "கழிவுகளைக் குழியில் புதைத்தல்",
-          "கழிவுகளை எரியூட்டியில் எரித்தல்"
+          "பழைய துணிகளைக் கொண்டு காகிதம் தயாரித்தல்",
+          "பிளாஸ்டிக்குக்குப் பதிலாகத் துணிப் பையைப் பயன்படுத்துதல்",
+          "கழிவுகளைக் குழியில் தோண்டிப் புதைத்தல்",
+          "கழிவுகளை எரியூட்டியில் இட்டு எரித்தல்"
         ],
         "explanation": "ஒரு பொருளைத் திரும்பத் திரும்பப் பயன்படுத்துவது மறுபயன்பாடு; துணிப் பை அதற்கு எடுத்துக்காட்டு."
       }
@@ -942,7 +942,7 @@
       "en": {
         "q": "Converting used tyres into chairs and used PET bottles into pen stands is an example of",
         "options": [
-          "creative reuse (upcycling)",
+          "upcycling",
           "incineration",
           "landfilling",
           "composting"
@@ -952,10 +952,10 @@
       "ta": {
         "q": "பயன்படுத்திய டயர்களை நாற்காலிகளாகவும், பயன்படுத்திய PET புட்டிகளைப் பேனா நிற்பிகளாகவும் மாற்றுவது எதற்கு எடுத்துக்காட்டு?",
         "options": [
-          "படைப்பாக்க மறுபயன்பாடு (Upcycling)",
-          "எரியூட்டல்",
-          "நிலம் நிரப்புதல்",
-          "உரமாக்கல்"
+          "படைப்பாக்க மறுபயன்பாடு",
+          "எரியூட்டல் முறை",
+          "நிலத்தில் நிரப்புதல் முறை",
+          "உரமாக்கல் முறை"
         ],
         "explanation": "பயனற்ற பொருள்களுக்குப் புதிய பயன் அளிக்கும் படைப்பாக்க மறுபயன்பாடு (upcycling) இது."
       }
@@ -1002,7 +1002,7 @@
         "options": [
           "It turns the waste into plastic",
           "It converts the waste into manure",
-          "The enormous heat kills all contagious disease-causing germs",
+          "The heat kills disease-causing germs",
           "It stores the waste for a long time"
         ],
         "explanation": "During incineration, the enormous heat kills all contagious disease-causing germs."
@@ -1011,8 +1011,8 @@
         "q": "கைவிடப்பட்ட மருந்துகள், இரத்தம், சீழ் போன்ற கழிவுகளுக்கு எரியூட்டல் பயன்படுத்தப்படுவது ஏன்?",
         "options": [
           "கழிவைப் பிளாஸ்டிக்காக மாற்றுவதால்",
-          "கழிவை உரமாக்குவதால்",
-          "அதிக வெப்பம் தொற்றுநோய் உண்டாக்கும் கிருமிகளை அழிப்பதால்",
+          "கழிவை உரமாக மாற்றுவதால்",
+          "வெப்பம் நோய்க் கிருமிகளை அழிப்பதால்",
           "கழிவை நீண்ட காலம் சேமிப்பதால்"
         ],
         "explanation": "எரியூட்டலின்போது ஏற்படும் அதிக வெப்பம் தொற்றுநோய்க் கிருமிகளை அழிக்கிறது."
@@ -1126,10 +1126,10 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் வீட்டு அபாயகரமான கழிவு எது?",
         "options": [
-          "மீதமான உணவு",
-          "காய்கறித் தோல்கள்",
-          "பயன்படுத்திய மின்கலங்கள் (பேட்டரிகள்)",
-          "காய்ந்த இலைகள்"
+          "சமையலில் மீதமான உணவு",
+          "காய்கறி, பழத் தோல்கள்",
+          "பயன்படுத்திய மின்கலங்கள்",
+          "தோட்டத்தின் காய்ந்த இலைகள்"
         ],
         "explanation": "பயன்படுத்திய பேட்டரிகள், CFL பல்புகள், காலாவதியான மருந்துகள், உடைந்த பாதரச வெப்பமானிகள் ஆகியவை வீட்டு அபாயகரமான கழிவுகள்."
       }
@@ -1158,7 +1158,7 @@
           "ஊட்டச்சத்து",
           "உற்பத்தியாளர்",
           "சிதைப்பவை",
-          "மாசுபடுத்தி (Pollutant)"
+          "மாசுபடுத்தி"
         ],
         "explanation": "மாசுபாட்டை உண்டாக்கும் பொருள் மாசுபடுத்தி எனப்படும்."
       }
@@ -1185,9 +1185,9 @@
         "q": "பெரும்பாலான காற்று மாசுபாடு எதனால் ஏற்படுகிறது?",
         "options": [
           "புதைபடிவ எரிபொருள்களை எரிப்பதால்",
-          "தாவரங்கள் வளர்வதால்",
-          "ஆறுகள் பாய்வதால்",
-          "பனி உருகுவதால்"
+          "தாவரங்கள் செழித்து வளர்வதால்",
+          "ஆறுகள் கடலை நோக்கிப் பாய்வதால்",
+          "மலைகளில் பனி உருகுவதால்"
         ],
         "explanation": "எண்ணெய், பெட்ரோல், நிலக்கரி, இயற்கை வாயு போன்ற புதைபடிவ எரிபொருள்களை எரிப்பதால் பெரும்பாலான காற்று மாசுபாடு ஏற்படுகிறது."
       }
@@ -1243,8 +1243,8 @@
         "q": "நீர்நிலைகளை மாசுபடுத்தும், தொழிற்சாலைகளிலிருந்து வெளிவரும் திரவக் கழிவுகள் எவ்வாறு அழைக்கப்படுகின்றன?",
         "options": [
           "வேளாண் மாசுபடுத்திகள்",
-          "வீட்டுக் கழிவுநீர் (Sewage)",
-          "தொழிற்சாலைக் கழிவுநீர் (Industrial effluents)",
+          "வீட்டுக் கழிவுநீர்",
+          "தொழிற்சாலைக் கழிவுநீர்",
           "திடக்கழிவுகள்"
         ],
         "explanation": "தொழிற்சாலைகளின் திரவக் கழிவுகள் தொழிற்சாலைக் கழிவுநீர் எனப்படும்."
@@ -1261,10 +1261,10 @@
       "en": {
         "q": "Land (soil) pollution happens when",
         "options": [
-          "rivers deposit silt on the land",
-          "too much rain falls on the land",
-          "plants grow thickly on the land",
-          "toxic chemicals change the natural balance in soil"
+          "rivers deposit silt on the farm land",
+          "too much rain falls on the dry land",
+          "plants grow thickly on the bare land",
+          "toxic chemicals upset the balance of soil"
         ],
         "explanation": "Land pollution happens when toxic chemicals change the natural balance of the soil."
       },
@@ -1406,9 +1406,9 @@
       "en": {
         "q": "Which type of pollution is caused by farmers using too much chemical fertilizers and pesticides, lowering the quality of soil?",
         "options": [
-          "Land (soil) pollution",
+          "Land pollution",
           "Noise pollution",
-          "Air pollution only",
+          "Air pollution",
           "Light pollution"
         ],
         "explanation": "Excess chemical fertilizers and pesticides lower the quality of soil and cause land pollution."
@@ -1416,9 +1416,9 @@
       "ta": {
         "q": "விவசாயிகள் அளவுக்கு அதிகமான வேதி உரங்களையும் பூச்சிக்கொல்லிகளையும் பயன்படுத்துவதால் மண்ணின் தரம் குறைவதற்குக் காரணமான மாசுபாடு எது?",
         "options": [
-          "நில (மண்) மாசுபாடு",
+          "நில மாசுபாடு",
           "ஒலி மாசுபாடு",
-          "காற்று மாசுபாடு மட்டும்",
+          "காற்று மாசுபாடு",
           "ஒளி மாசுபாடு"
         ],
         "explanation": "அதிக வேதி உரங்களும் பூச்சிக்கொல்லிகளும் மண்ணின் தரத்தைக் குறைத்து நில மாசுபாட்டை ஏற்படுத்துகின்றன."

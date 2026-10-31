@@ -101,20 +101,20 @@
       "en": {
         "q": "Who can vote to elect an MLA in a constituency?",
         "options": [
-          "Only property owners",
-          "Only members of political parties",
+          "Only the property owners in the constituency",
+          "Only members of political parties in the state",
           "Only those who have completed 25 years of age",
-          "Every resident of the constituency who has completed 18 years of age"
+          "Only residents of the constituency who have completed 18 years"
         ],
         "explanation": "All residents of the constituency who have completed 18 years vote; the candidate with the most votes becomes the MLA."
       },
       "ta": {
         "q": "ஒரு தொகுதியில் சட்டமன்ற உறுப்பினரைத் தேர்ந்தெடுக்க யார் வாக்களிக்கலாம்?",
         "options": [
-          "சொத்துடையோர் மட்டும்",
-          "அரசியல் கட்சி உறுப்பினர்கள் மட்டும்",
-          "25 வயது நிறைவடைந்தோர் மட்டும்",
-          "18 வயது நிறைவடைந்த அத்தொகுதியில் வசிக்கும் அனைவரும்"
+          "அத்தொகுதியில் சொத்துடையோர் மட்டும்",
+          "மாநில அரசியல் கட்சி உறுப்பினர்கள் மட்டும்",
+          "25 வயது நிறைவடைந்த குடிமக்கள் மட்டும்",
+          "18 வயது நிறைவடைந்த, தொகுதியில் வசிப்பவர் மட்டும்"
         ],
         "explanation": "18 வயது நிறைவடைந்த தொகுதிவாசிகள் அனைவரும் வாக்களிப்பர்; அதிக வாக்குகள் பெறுபவர் சட்டமன்ற உறுப்பினர் ஆவார்."
       }

@@ -362,20 +362,20 @@
       "en": {
         "q": "A continuous flow of electric current is produced in a cell because",
         "options": [
-          "chemical reactions make one electrode positive and the other negative",
-          "the electrodes are made of the same metal",
-          "the electrolyte is a solid",
-          "the cell is heated continuously"
+          "chemical reactions take place inside the cell",
+          "both electrodes are made of the same metal",
+          "the electrolyte inside is a solid",
+          "the cell is heated again and again"
         ],
         "explanation": "Chemical reactions give one electrode a positive charge and the other a negative charge."
       },
       "ta": {
         "q": "மின்கலத்தில் தொடர்ச்சியான மின்னோட்டம் உருவாவதற்குக் காரணம்",
         "options": [
-          "வேதி வினைகளால் ஒரு மின்முனை நேர் மின்னூட்டமும் மற்றொன்று எதிர் மின்னூட்டமும் பெறுவதே",
-          "மின்முனைகள் ஒரே உலோகத்தால் ஆனவையாக இருப்பதே",
-          "மின்பகுளி திண்மமாக இருப்பதே",
-          "மின்கலம் தொடர்ந்து சூடேற்றப்படுவதே"
+          "கலத்தினுள் நடைபெறும் வேதி வினைகளே",
+          "மின்முனைகள் இரண்டும் ஒரே உலோகத்தால் ஆனவையே",
+          "உள்ளிருக்கும் மின்பகுளி திண்மமாக இருப்பதே",
+          "மின்கலம் அடிக்கடி சூடேற்றப்படுவதே"
         ],
         "explanation": "வேதி வினைகளின் காரணமாக ஒரு மின்முனை நேர்மின்னூட்டத்தையும் மற்றொன்று எதிர்மின்னூட்டத்தையும் பெறுகிறது."
       }
@@ -392,9 +392,9 @@
         "q": "Primary cells are usually made in small sizes because they",
         "options": [
           "can be recharged many times",
-          "cannot be recharged and are used only once",
-          "are used only in cars and buses",
-          "are very costly"
+          "cannot be recharged once used up",
+          "are meant for cars and buses",
+          "are very costly to buy"
         ],
         "explanation": "Since a primary cell is used only once, it is made small."
       },
@@ -402,9 +402,9 @@
         "q": "முதல்நிலை மின்கலங்கள் பொதுவாகச் சிறிய அளவில் தயாரிக்கப்படுவதற்குக் காரணம், அவை",
         "options": [
           "பலமுறை மின்னூட்டம் செய்யக்கூடியவை",
-          "மீண்டும் மின்னூட்டம் செய்ய இயலாதவை; ஒரு முறை மட்டுமே பயன்படுபவை",
-          "கார், பேருந்துகளில் மட்டுமே பயன்படுபவை",
-          "மிகவும் விலை உயர்ந்தவை"
+          "மீண்டும் மின்னூட்டம் செய்ய இயலாதவை",
+          "கார், பேருந்துகளில் பயன்படுபவை",
+          "வாங்குவதற்கு மிகவும் விலை உயர்ந்தவை"
         ],
         "explanation": "முதல்நிலை மின்கலம் ஒரு முறை மட்டுமே பயன்படுவதால் சிறிய அளவில் செய்யப்படுகிறது."
       }
@@ -451,8 +451,8 @@
         "options": [
           "dipping them in cold water",
           "keeping them in sunlight",
-          "heating them",
-          "passing an electric current through them"
+          "heating them on a stove",
+          "using an electric current"
         ],
         "explanation": "A secondary cell is rechargeable and can be used again and again."
       },
@@ -461,8 +461,8 @@
         "options": [
           "குளிர்ந்த நீரில் இடுதல்",
           "சூரிய ஒளியில் வைத்தல்",
-          "சூடேற்றுதல்",
-          "அவற்றின் வழியே மின்னோட்டத்தைச் செலுத்துதல்"
+          "தீயில் வைத்துச் சூடேற்றுதல்",
+          "மின்னோட்டத்தைச் செலுத்துதல்"
         ],
         "explanation": "மின்னோட்டத்தைச் செலுத்துவதன் மூலம் இரண்டாம்நிலை மின்கலத்தை மீண்டும் மின்னூட்டம் செய்து பயன்படுத்தலாம்."
       }
@@ -518,7 +518,7 @@
         "q": "பாடத்திலுள்ள எச்சரிக்கையின்படி, மின்சாரம் தொடர்பான சோதனைகளைச் செய்ய வேண்டியது",
         "options": [
           "வீட்டு மின் இணைப்பைக் கொண்டு",
-          "டார்ச் அல்லது வானொலியில் பயன்படும் மின்கலங்களைக் கொண்டு மட்டுமே",
+          "டார்ச், வானொலி மின்கலங்களைக் கொண்டு",
           "பள்ளி மின் இணைப்பைக் கொண்டு",
           "பண்ணை மின் இணைப்பைக் கொண்டு"
         ],
@@ -681,10 +681,10 @@
       "en": {
         "q": "Parallel circuits are used in homes because, if one bulb is damaged or disconnected,",
         "options": [
-          "the cell gets recharged",
+          "the cell gets recharged by itself",
           "the whole circuit stops working",
           "all the other bulbs glow dimmer",
-          "the other part of the circuit continues to work"
+          "the rest of the circuit keeps working"
         ],
         "explanation": "In a parallel circuit, each bulb is on its own path, so the others keep working."
       },
@@ -710,10 +710,10 @@
       "en": {
         "q": "Symbols are used for electric components instead of their figures because",
         "options": [
-          "even complicated circuits can then be easily understood",
+          "circuits become easy to understand",
           "symbols make the circuit work faster",
           "figures cannot be drawn on paper",
-          "symbols reduce the voltage"
+          "symbols reduce the voltage used"
         ],
         "explanation": "Symbols are simple, so complicated circuits are easy to draw and understand."
       },
@@ -739,20 +739,20 @@
       "en": {
         "q": "Which of the following is a conductor of electricity, according to the book?",
         "options": [
-          "Plastic",
+          "Hard plastic",
           "Impure water",
-          "Glass",
-          "Wood"
+          "Clean glass",
+          "Dry wood"
         ],
         "explanation": "The book lists copper, iron, aluminium, impure water and earth as conductors; plastic, glass and wood are insulators."
       },
       "ta": {
         "q": "புத்தகத்தின்படி, பின்வருவனவற்றுள் மின்சாரத்தைக் கடத்தும் பொருள் எது?",
         "options": [
-          "நெகிழி",
+          "கடினமான நெகிழி",
           "தூய்மையற்ற நீர்",
-          "கண்ணாடி",
-          "மரம்"
+          "தூய்மையான கண்ணாடி",
+          "உலர்ந்த மரம்"
         ],
         "explanation": "செம்பு, இரும்பு, அலுமினியம், தூய்மையற்ற நீர், புவி ஆகியவை கடத்திகள்; நெகிழி, கண்ணாடி, மரம் ஆகியவை மின்காப்புப் பொருள்கள்."
       }
@@ -768,20 +768,20 @@
       "en": {
         "q": "Which fish can produce an electric shock to protect itself from enemies and to catch its food?",
         "options": [
-          "Sardine",
-          "Shark",
+          "Oil sardine",
+          "Great white shark",
           "Electric eel",
-          "Catfish"
+          "Common carp"
         ],
         "explanation": "The electric eel is able to produce electric current."
       },
       "ta": {
         "q": "பகைவரிடமிருந்து தற்காத்துக்கொள்ளவும் இரையைப் பிடிக்கவும் மின்அதிர்ச்சியை உண்டாக்கும் மீன் எது?",
         "options": [
-          "மத்தி",
-          "சுறா",
+          "எண்ணெய் மத்தி",
+          "பெரிய வெள்ளைச் சுறா",
           "மின்விலாங்கு மீன்",
-          "கெளுத்தி"
+          "கெண்டை மீன்"
         ],
         "explanation": "மின்விலாங்கு மீனால் மின்னோட்டத்தை உண்டாக்க முடியும்."
       }
@@ -884,17 +884,17 @@
       "en": {
         "q": "A person in contact with a live wire is to be pushed away using",
         "options": [
-          "a wet cloth",
-          "a metal rod",
+          "a wet cotton cloth",
+          "a long metal rod",
           "non-conducting materials",
-          "an iron chain"
+          "a heavy iron chain"
         ],
         "explanation": "Non-conducting (insulating) materials keep the rescuer safe from the current."
       },
       "ta": {
         "q": "மின்கம்பியுடன் தொடர்பிலுள்ள ஒருவரைத் தள்ளிவிடப் பயன்படுத்த வேண்டியது",
         "options": [
-          "ஈரத்துணி",
+          "ஈரமான பருத்தித் துணி",
           "ஓர் உலோகக் கம்பி",
           "மின்கடத்தாப் பொருள்கள்",
           "ஓர் இரும்புச் சங்கிலி"
@@ -953,9 +953,9 @@
         "q": "மைக்கேல் ஃபாரடே (1791-1867) வறுமையால் பள்ளிப் படிப்பைத் தொடர இயலாமல் சேர்ந்த வேலை",
         "options": [
           "புத்தகம் கட்டும் வேலை",
-          "வங்கி",
-          "ஆசிரியர் பணி",
-          "இராணுவம்"
+          "வங்கிப் பணியாளர் வேலை",
+          "பள்ளி ஆசிரியர் பணி",
+          "இராணுவ வீரர் பணி"
         ],
         "explanation": "ஃபாரடே தென் லண்டனிலுள்ள ஓர் ஏழைக் கொல்லர் குடும்பத்தில் பிறந்தவர்."
       }

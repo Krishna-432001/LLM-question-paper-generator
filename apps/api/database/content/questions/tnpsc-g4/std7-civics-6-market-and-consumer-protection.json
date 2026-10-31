@@ -14,20 +14,20 @@
       "en": {
         "q": "In economics, a 'market' means",
         "options": [
-          "an arrangement where buyers and sellers come into direct or indirect contact",
-          "only a crowded physical place with shops",
-          "a government office that fixes prices",
-          "a single shop selling many goods"
+          "an arrangement that brings buyers and sellers into contact",
+          "a crowded physical place full of shops and stalls",
+          "a government office that fixes the prices of goods",
+          "a single large shop that sells many kinds of goods"
         ],
         "explanation": "Economists define a market as the coming together of buyers and sellers, in direct or indirect contact; it need not be a physical place."
       },
       "ta": {
         "q": "பொருளியலில் 'சந்தை' என்பது",
         "options": [
-          "வாங்குவோரும் விற்போரும் நேரடியாகவோ மறைமுகமாகவோ தொடர்புகொள்ளும் ஏற்பாடு",
-          "கடைகள் நிறைந்த நெரிசலான இடம் மட்டும்",
-          "விலையை நிர்ணயிக்கும் அரசு அலுவலகம்",
-          "பல பொருள்களை விற்கும் ஒரே கடை"
+          "வாங்குவோரையும் விற்போரையும் தொடர்புபடுத்தும் ஏற்பாடு",
+          "கடைகளும் கூடாரங்களும் நிறைந்த நெரிசலான இடம்",
+          "பொருள்களின் விலையை நிர்ணயிக்கும் அரசு அலுவலகம்",
+          "பல வகைப் பொருள்களை விற்கும் ஒரு பெரிய கடை"
         ],
         "explanation": "வாங்குவோரும் விற்போரும் நேரடியாகவோ மறைமுகமாகவோ ஒன்றுகூடும் ஏற்பாடே சந்தை எனப் பொருளியலாளர்கள் வரையறுக்கின்றனர்; அது ஓர் இடமாக இருக்க வேண்டியதில்லை."
       }
@@ -130,10 +130,10 @@
       "en": {
         "q": "How does a spot market differ from a future market?",
         "options": [
-          "In a spot market money is paid immediately; in a future market there is a promise to pay later",
-          "A spot market works only on credit",
-          "A future market sells only perishable goods",
-          "There is no difference between them"
+          "In a spot market payment is immediate; in a future market it is promised for later",
+          "In a spot market payment is made after a year; in a future market it is immediate",
+          "A future market deals in perishable goods while a spot market deals in durable goods",
+          "There is no difference between a spot market and a future market"
         ],
         "explanation": "In a spot market money is paid at once with no credit; a future market involves credit transactions with a promise to pay later."
       },
@@ -141,9 +141,9 @@
         "q": "உடனடிச் சந்தை (spot market) எதிர்காலச் சந்தையிலிருந்து எவ்வாறு வேறுபடுகிறது?",
         "options": [
           "உடனடிச் சந்தையில் பணம் உடனே செலுத்தப்படும்; எதிர்காலச் சந்தையில் பின்னர் செலுத்துவதாக உறுதியளிக்கப்படும்",
-          "உடனடிச் சந்தை கடனில் மட்டுமே இயங்கும்",
-          "எதிர்காலச் சந்தை கெடும் பொருள்களை மட்டுமே விற்கும்",
-          "இரண்டுக்கும் வேறுபாடு இல்லை"
+          "உடனடிச் சந்தையில் பணம் ஓராண்டு கழித்துச் செலுத்தப்படும்; எதிர்காலச் சந்தையில் உடனே செலுத்தப்படும்",
+          "எதிர்காலச் சந்தை கெடும் பொருள்களையும், உடனடிச் சந்தை நீடிக்கும் பொருள்களையும் விற்கும்",
+          "உடனடிச் சந்தைக்கும் எதிர்காலச் சந்தைக்கும் எந்த வேறுபாடும் இல்லை"
         ],
         "explanation": "உடனடிச் சந்தையில் கடனின்றிப் பணம் உடனே செலுத்தப்படும்; எதிர்காலச் சந்தையில் பின்னர் செலுத்துவதாக உறுதியளிக்கும் கடன் பரிவர்த்தனைகள் நடக்கும்."
       }
@@ -227,9 +227,9 @@
       "ta": {
         "q": "1933 இல் தம் நூலில் 'முற்றுரிமைப் போட்டி' என்ற சொல்லை உருவாக்கியவர் யார்?",
         "options": [
-          "ஆல்ஃபிரட் மார்ஷல்",
-          "ஆடம் ஸ்மித்",
-          "ஜான் மேனார்டு கீன்ஸ்",
+          "பேரா. ஆல்ஃபிரட் மார்ஷல்",
+          "பேரா. ஆடம் ஸ்மித் அவர்கள்",
+          "பேரா. ஜான் மேனார்டு கீன்ஸ்",
           "பேரா. எட்வர்ட் எச். சேம்பர்லின்"
         ],
         "explanation": "ஹார்வர்டு பல்கலைக்கழகப் பேரா. எட்வர்ட் எச். சேம்பர்லின் 1933 இல் 'Theory of Monopolistic Competition' நூலில் இச்சொல்லை உருவாக்கினார்."
@@ -478,20 +478,20 @@
       "en": {
         "q": "How did the Consumer Protection Act, 2019 widen the definition of 'consumer'?",
         "options": [
-          "It includes buyers through online transactions, teleshopping, direct selling and multi-level marketing",
-          "It excludes all online buyers",
-          "It covers only buyers of food items",
-          "It covers only government employees"
+          "It also covers buyers through online transactions and direct selling",
+          "It leaves out buyers who shop through online stores",
+          "It narrows the definition to buyers of food items",
+          "It narrows the definition to government employees"
         ],
         "explanation": "The 2019 Act's definition of consumer includes anyone buying goods offline or online, electronically, by teleshopping, direct selling or multi-level marketing."
       },
       "ta": {
         "q": "நுகர்வோர் பாதுகாப்புச் சட்டம், 2019 'நுகர்வோர்' என்ற வரையறையை எவ்வாறு விரிவுபடுத்தியது?",
         "options": [
-          "இணையவழி, தொலைக்காட்சி வணிகம், நேரடி விற்பனை, பல்நிலை விற்பனை மூலம் வாங்குவோரையும் சேர்த்தது",
-          "இணையவழியில் வாங்குவோரை விலக்கியது",
-          "உணவுப் பொருள் வாங்குவோரை மட்டும் உள்ளடக்கியது",
-          "அரசு ஊழியர்களை மட்டும் உள்ளடக்கியது"
+          "இணையவழி, நேரடி விற்பனை மூலம் வாங்குவோரையும் சேர்த்தது",
+          "இணையவழியில் பொருள் வாங்குவோரை வரையறையிலிருந்து நீக்கியது",
+          "வரையறையை உணவுப் பொருள் வாங்குவோருக்குக் குறுக்கியது",
+          "வரையறையை அரசுப் பணியில் உள்ளவர்களுக்குக் குறுக்கியது"
         ],
         "explanation": "2019 சட்டத்தின் நுகர்வோர் வரையறை நேரடியாகவோ இணையவழியிலோ, மின்னணு முறையிலோ, தொலைக்காட்சி வணிகம், நேரடி விற்பனை, பல்நிலை விற்பனை மூலமோ வாங்கும் அனைவரையும் உள்ளடக்குகிறது."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Under the 2019 Act, what penalty may the CCPA impose on a manufacturer or endorser for a first false or misleading advertisement?",
         "options": [
-          "Life imprisonment",
-          "Up to ₹1,000 only",
+          "Life imprisonment and a ban",
+          "A penalty of up to ₹1,000",
           "A penalty of up to ₹10 lakh",
-          "A warning only"
+          "A written warning from the CCPA"
         ],
         "explanation": "Under section 21 of the Consumer Protection Act, 2019 the CCPA may impose a penalty of up to ₹10 lakh for a first false or misleading advertisement (up to ₹50 lakh for a subsequent one) and may bar an endorser for up to one year. Imprisonment (up to two years and a fine up to ₹10 lakh) can be ordered only by a court under section 89, on a manufacturer or service provider."
       },
       "ta": {
         "q": "2019 சட்டப்படி முதல் முறையாகத் தவறான அல்லது ஏமாற்றும் விளம்பரம் செய்யும் உற்பத்தியாளர் அல்லது விளம்பரத் தூதருக்கு CCPA விதிக்கக்கூடிய தண்டனை",
         "options": [
-          "ஆயுள் தண்டனை",
-          "₹1,000 மட்டும்",
+          "ஆயுள் தண்டனையும் தடையும்",
+          "₹1,000 வரை அபராதத் தொகை",
           "₹10 லட்சம் வரை அபராதம்",
-          "எச்சரிக்கை மட்டும்"
+          "எழுத்து மூலமான எச்சரிக்கை"
         ],
         "explanation": "2019 நுகர்வோர் பாதுகாப்புச் சட்டப் பிரிவு 21இன்படி முதல் முறைத் தவறான விளம்பரத்துக்கு CCPA ₹10 லட்சம் வரை அபராதம் விதிக்கலாம் (அடுத்த முறை ₹50 லட்சம் வரை); விளம்பரத் தூதரை ஓராண்டு வரை தடை செய்யலாம். சிறைத் தண்டனை (இரண்டு ஆண்டுகள் வரை, ₹10 லட்சம் வரை அபராதம்) பிரிவு 89இன் கீழ் நீதிமன்றம் மட்டுமே உற்பத்தியாளர்/சேவை வழங்குநருக்கு விதிக்கும்."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "The National Consumer Disputes Redressal Commission (NCDRC) is headed by",
         "options": [
-          "a district collector",
+          "a district collector of the state",
           "the Union Minister of Consumer Affairs",
-          "the Chief Election Commissioner",
-          "a sitting or retired Supreme Court judge or High Court Chief Justice"
+          "the Chief Election Commissioner of India",
+          "a sitting or retired Supreme Court judge"
         ],
         "explanation": "The NCDRC, a quasi-judicial body set up in 1988 with its head office in New Delhi, is headed by a President who is a sitting or retired judge of the Supreme Court or a sitting or retired Chief Justice of a High Court."
       },
       "ta": {
         "q": "தேசிய நுகர்வோர் குறைதீர்க்கும் ஆணையத்துக்கு (NCDRC) தலைமை தாங்குபவர்",
         "options": [
-          "மாவட்ட ஆட்சியர்",
-          "மத்திய நுகர்வோர் விவகார அமைச்சர்",
-          "தலைமைத் தேர்தல் ஆணையர்",
-          "பணியிலுள்ள அல்லது ஓய்வுபெற்ற உச்ச நீதிமன்ற நீதிபதி அல்லது உயர் நீதிமன்றத் தலைமை நீதிபதி"
+          "மாநிலத்தின் மூத்த மாவட்ட ஆட்சியர் ஒருவர்",
+          "மத்திய நுகர்வோர் விவகாரத் துறை அமைச்சர்",
+          "இந்தியத் தலைமைத் தேர்தல் ஆணையர் அவர்கள்",
+          "பணியிலுள்ள அல்லது ஓய்வுபெற்ற உச்ச நீதிமன்ற நீதிபதி"
         ],
         "explanation": "1988 இல் அமைக்கப்பட்ட, புது டெல்லியைத் தலைமையிடமாகக் கொண்ட அரை-நீதித்துறை அமைப்பான NCDRC க்குப் பணியிலுள்ள அல்லது ஓய்வுபெற்ற உச்ச நீதிமன்ற நீதிபதி அல்லது உயர் நீதிமன்றத் தலைமை நீதிபதி தலைமை தாங்குகிறார்."
       }

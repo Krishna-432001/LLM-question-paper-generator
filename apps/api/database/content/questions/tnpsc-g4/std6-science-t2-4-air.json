@@ -82,10 +82,10 @@
       "ta": {
         "q": "காலியான புட்டியைத் தலைகீழாக நீரில் அழுத்தும்போது நீர் உள்ளே செல்லாததற்குக் காரணம்",
         "options": [
-          "நீர் காற்றைவிடக் கனமானதே",
-          "புட்டி கண்ணாடியால் ஆனதே",
-          "புட்டி ஏற்கெனவே காற்றால் நிரம்பியிருப்பதே",
-          "புட்டி மிகச் சிறியதே"
+          "நீர் காற்றைவிடக் கனமாக இருப்பதே",
+          "புட்டி கண்ணாடியால் செய்யப்பட்டதே",
+          "புட்டி ஏற்கெனவே காற்று நிரம்பியதே",
+          "புட்டி மிகவும் சிறிய அளவுடையதே"
         ],
         "explanation": "புட்டி முழுவதும் காற்று இருக்கிறது; புட்டியைச் சாய்த்தால்தான் காற்று குமிழ்களாக வெளியேறி நீர் உள்ளே புகும்."
       }
@@ -130,9 +130,9 @@
       "en": {
         "q": "The density of air decreases as we go higher above the earth because",
         "options": [
-          "the force of gravity decreases and cannot hold large amounts of air",
+          "gravity weakens and cannot hold much air",
           "the sun heats the air more at higher places",
-          "air gets converted into water",
+          "air gets converted into water vapour",
           "there are more clouds at higher places"
         ],
         "explanation": "Gravity weakens with height, so less air is held in place."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "புவியிலிருந்து உயரே செல்லச் செல்லக் காற்றின் அடர்த்தி குறைவதற்குக் காரணம்",
         "options": [
-          "ஈர்ப்பு விசை குறைவதால் அதிக அளவு காற்றைப் பிடித்து வைக்க இயலாததே",
+          "ஈர்ப்பு விசை குறைந்து காற்றைப் பிடிக்க இயலாததே",
           "உயரமான இடங்களில் சூரியன் காற்றை அதிகம் வெப்பப்படுத்துவதே",
-          "காற்று நீராக மாறுவதே",
+          "காற்று நீராவியாக மாறிவிடுவதே",
           "உயரமான இடங்களில் மேகங்கள் அதிகமாக இருப்பதே"
         ],
         "explanation": "உயரே செல்லச் செல்ல ஈர்ப்பு விசை குறைவதால் குறைந்த அளவு காற்றே பிடித்து வைக்கப்படுகிறது."
@@ -230,7 +230,7 @@
           "பாலடர்த்திமானி",
           "வெப்பநிலைமானி",
           "மின்னோட்டமானி",
-          "காற்றுத் திசைகாட்டி (வெதர்காக்)"
+          "காற்றுத் திசைகாட்டி"
         ],
         "explanation": "காற்றின் திசையை அறிய காற்றுத் திசைகாட்டியைப் பயன்படுத்தலாம்."
       }
@@ -304,9 +304,9 @@
       "en": {
         "q": "In Priestley's experiment, the candle covered by a sealed jar went out after a short time because",
         "options": [
-          "water entered the jar",
-          "the jar became too hot",
-          "the substance in the air that aids burning, oxygen, was used up",
+          "water slowly entered the jar",
+          "the jar became very hot inside",
+          "the oxygen in the jar was used up",
           "the candle became too small"
         ],
         "explanation": "Something in the air was used for burning and converted into another substance; this was later named oxygen."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "பிரீஸ்ட்லியின் சோதனையில் மூடிய கண்ணாடிக் குடுவையால் மூடப்பட்ட மெழுகுவர்த்தி சிறிது நேரத்தில் அணைந்ததற்குக் காரணம்",
         "options": [
-          "குடுவைக்குள் நீர் புகுந்ததே",
-          "குடுவை மிகவும் சூடானதே",
-          "எரிதலுக்கு உதவும் காற்றிலுள்ள பொருளான ஆக்சிஜன் தீர்ந்துபோனதே",
+          "குடுவைக்குள் நீர் மெல்லப் புகுந்ததே",
+          "குடுவைக்குள் மிகவும் வெப்பமானதே",
+          "குடுவையிலுள்ள ஆக்சிஜன் தீர்ந்துபோனதே",
           "மெழுகுவர்த்தி மிகச் சிறியதானதே"
         ],
         "explanation": "எரிதலுக்குத் தேவையான காற்றிலுள்ள பொருள் முழுவதும் பயன்படுத்தப்பட்டு வேறு பொருளாக மாறியதால் சுடர் அணைந்தது."
@@ -449,20 +449,20 @@
       "en": {
         "q": "In the iron wool experiment, the water level rises in the inverted test tube because",
         "options": [
-          "the iron wool produced more air",
-          "the iron wool absorbed the nitrogen",
-          "the water evaporated",
-          "the oxygen in the air inside was removed by the rusting reaction"
+          "the iron wool produced extra air inside",
+          "the iron wool absorbed the nitrogen gas",
+          "the water evaporated in the tube",
+          "rusting used up the oxygen inside"
         ],
         "explanation": "The rise of about 20% of the tube's air volume corresponds to the oxygen in air."
       },
       "ta": {
         "q": "இரும்புக் கம்பளி சோதனையில், தலைகீழாகப் பிடிக்கப்பட்ட சோதனைக் குழாயில் நீர் மட்டம் உயர்வதற்குக் காரணம்",
         "options": [
-          "இரும்புக் கம்பளி மேலும் காற்றை உண்டாக்கியதே",
+          "இரும்புக் கம்பளி கூடுதல் காற்றை உண்டாக்கியதே",
           "இரும்புக் கம்பளி நைட்ரஜனை உறிஞ்சியதே",
-          "நீர் ஆவியானதே",
-          "குழாயிலுள்ள காற்றின் ஆக்சிஜன் துருப்பிடித்தல் வினையால் நீங்கியதே"
+          "குழாயிலிருந்த நீர் ஆவியாகிவிட்டதே",
+          "துருப்பிடித்தலால் உள்ளிருந்த ஆக்சிஜன் நீங்கியதே"
         ],
         "explanation": "ஏறத்தாழ 20% நீர் உயர்வு, காற்றிலுள்ள ஆக்சிஜனின் சதவீதத்திற்கு ஒத்துள்ளது."
       }
@@ -489,9 +489,9 @@
         "q": "டேனியல் ரூதர்ஃபோர்டு ஆக்சிஜன் நீக்கப்பட்ட காற்றைச் சுண்ணாம்பு நீரில் செலுத்தியதன் நோக்கம், அதிலிருந்து",
         "options": [
           "கார்பன் டை ஆக்சைடை நீக்குவதாகும்",
-          "நைட்ரஜனை நீக்குவதாகும்",
-          "நீராவியை நீக்குவதாகும்",
-          "தூசியை நீக்குவதாகும்"
+          "நைட்ரஜன் வாயுவை நீக்குவதாகும்",
+          "நீராவித் துளிகளை நீக்குவதாகும்",
+          "தூசித் துகள்களை நீக்குவதாகும்"
         ],
         "explanation": "ஆக்சிஜனும் கார்பன் டை ஆக்சைடும் நீக்கப்பட்ட பின் எஞ்சிய வாயுவிற்கு 'நைட்ரஜன்' எனப் பெயரிடப்பட்டது."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "When air is bubbled through lime water, the lime water slowly turns milky white. This shows the presence of",
         "options": [
-          "oxygen",
+          "pure oxygen",
           "carbon dioxide",
-          "nitrogen",
-          "argon"
+          "nitrogen gas",
+          "argon gas"
         ],
         "explanation": "Carbon dioxide reacts with lime water to form a white precipitate."
       },
       "ta": {
         "q": "காற்றைச் சுண்ணாம்பு நீரில் செலுத்தும்போது அது மெதுவாகப் பால் போல வெண்மையாகிறது. இது காற்றில் இருப்பதைக் காட்டுவது",
         "options": [
-          "ஆக்சிஜன்",
+          "ஆக்சிஜன் வாயு",
           "கார்பன் டை ஆக்சைடு",
-          "நைட்ரஜன்",
-          "ஆர்கான்"
+          "நைட்ரஜன் வாயு",
+          "ஆர்கான் வாயு"
         ],
         "explanation": "கார்பன் டை ஆக்சைடு சுண்ணாம்பு நீருடன் வினைபுரிந்து வெண்மையான வீழ்படிவைத் தருகிறது."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Air over industrial cities usually has a higher amount of which gas than air over open spaces?",
         "options": [
-          "Helium",
-          "Nitrogen",
+          "Helium gas",
+          "Nitrogen gas",
           "Carbon dioxide",
-          "Argon"
+          "Argon gas"
         ],
         "explanation": "The composition of air changes slightly from place to place and season to season."
       },
       "ta": {
         "q": "திறந்தவெளிகளின் காற்றைவிடத் தொழில் நகரங்களின் காற்றில் பொதுவாக அதிகம் காணப்படும் வாயு எது?",
         "options": [
-          "ஹீலியம்",
-          "நைட்ரஜன்",
+          "ஹீலியம் வாயு",
+          "நைட்ரஜன் வாயு",
           "கார்பன் டை ஆக்சைடு",
-          "ஆர்கான்"
+          "ஆர்கான் வாயு"
         ],
         "explanation": "காற்றின் உட்கூறு இடத்திற்கு இடமும் பருவத்திற்குப் பருவமும் சிறிது மாறுபடும்."
       }
@@ -594,9 +594,9 @@
       "en": {
         "q": "Rockets carry oxygen along with the fuel because",
         "options": [
-          "the availability of oxygen is considerably reduced high in the atmosphere",
-          "oxygen makes rockets lighter",
-          "fuel cannot burn at all with oxygen",
+          "oxygen becomes scarce high in the atmosphere",
+          "oxygen makes the rockets much lighter",
+          "fuel cannot burn in the presence of oxygen",
           "the rocket needs oxygen to cool itself"
         ],
         "explanation": "Burning needs oxygen, which is scarce at great heights."
@@ -604,7 +604,7 @@
       "ta": {
         "q": "ராக்கெட்டுகள் எரிபொருளுடன் ஆக்சிஜனையும் எடுத்துச் செல்வதற்குக் காரணம்",
         "options": [
-          "வளிமண்டலத்தில் உயரே செல்லும்போது ஆக்சிஜன் கிடைப்பது பெரிதும் குறைவதே",
+          "வளிமண்டலத்தில் உயரே ஆக்சிஜன் குறைவாகக் கிடைப்பதே",
           "ஆக்சிஜன் ராக்கெட்டை எடை குறைந்ததாக்குவதே",
           "ஆக்சிஜனுடன் எரிபொருள் எரிவதில்லை என்பதே",
           "ராக்கெட் தன்னைக் குளிர்விக்க ஆக்சிஜன் தேவைப்படுவதே"
@@ -623,8 +623,8 @@
       "en": {
         "q": "A burning candle covered with a glass tumbler glows for a while and then goes out because",
         "options": [
-          "the tumbler cools the candle",
-          "all the oxygen of the air inside the tumbler is used up",
+          "the tumbler cools the candle down",
+          "the oxygen inside the tumbler is used up",
           "the tumbler produces carbon dioxide",
           "the candle gets too much oxygen"
         ],
@@ -634,7 +634,7 @@
         "q": "கண்ணாடித் தம்ளரால் மூடப்பட்ட எரியும் மெழுகுவர்த்தி சிறிது நேரம் எரிந்து அணைவதற்குக் காரணம்",
         "options": [
           "தம்ளர் மெழுகுவர்த்தியைக் குளிர்விப்பதே",
-          "தம்ளருக்குள் உள்ள காற்றின் ஆக்சிஜன் முழுவதும் தீர்ந்துபோவதே",
+          "தம்ளருக்குள் உள்ள ஆக்சிஜன் தீர்ந்துபோவதே",
           "தம்ளர் கார்பன் டை ஆக்சைடை உண்டாக்குவதே",
           "மெழுகுவர்த்திக்கு அதிக ஆக்சிஜன் கிடைப்பதே"
         ],
@@ -664,7 +664,7 @@
         "options": [
           "மலர்கள்",
           "வேர்கள்",
-          "இலைத்துளைகள் (ஸ்டோமாட்டா)",
+          "இலைத்துளைகள்",
           "பசுங்கணிகம்"
         ],
         "explanation": "சுவாசத்தின்போது தாவரங்களும் விலங்குகளைப் போல ஆக்சிஜனை எடுத்துக்கொண்டு கார்பன் டை ஆக்சைடை வெளியிடுகின்றன."
@@ -712,8 +712,8 @@
         "options": [
           "carbon dioxide, water vapour and energy",
           "nitrogen, water vapour and energy",
-          "only energy",
-          "oxygen and food"
+          "light and sound energy",
+          "oxygen and undigested food"
         ],
         "explanation": "This energy is used for movement, growth and repair."
       },
@@ -722,8 +722,8 @@
         "options": [
           "கார்பன் டை ஆக்சைடு, நீராவி, ஆற்றல்",
           "நைட்ரஜன், நீராவி, ஆற்றல்",
-          "ஆற்றல் மட்டுமே",
-          "ஆக்சிஜனும் உணவும்"
+          "ஒளியும் ஒலி ஆற்றலும்",
+          "ஆக்சிஜனும் செரிக்காத உணவும்"
         ],
         "explanation": "இந்த ஆற்றல் இயக்கம், வளர்ச்சி, சேதமடைந்தவற்றைச் சரிசெய்தல் ஆகியவற்றுக்குப் பயன்படுகிறது."
       }

@@ -84,7 +84,7 @@
         "options": [
           "ஜியோஜீப்ரா",
           "லினக்ஸ்",
-          "SMPS (மின்சக்தி வழங்கி)",
+          "SMPS",
           "ஆண்ட்ராய்டு"
         ],
         "explanation": "SMPS வன்பொருள் பாகம்; லினக்ஸ், ஜியோஜீப்ரா, ஆண்ட்ராய்டு ஆகியவை மென்பொருள்கள்."
@@ -130,8 +130,8 @@
       "en": {
         "q": "Based on the process, software is divided into which two types?",
         "options": [
-          "System software (operating system) and application software",
-          "Free software and hardware",
+          "System software and application software",
+          "Free software and cheap hardware",
           "Input software and output software",
           "Paid software and input devices"
         ],
@@ -140,8 +140,8 @@
       "ta": {
         "q": "செயல்பாட்டின் அடிப்படையில் மென்பொருள் எந்த இரு வகைகளாகப் பிரிக்கப்படுகிறது?",
         "options": [
-          "கணினி அமைப்பு மென்பொருள் (இயங்குதளம்), பயன்பாட்டு மென்பொருள்",
-          "இலவச மென்பொருள், வன்பொருள்",
+          "கணினி அமைப்பு மென்பொருள், பயன்பாட்டு மென்பொருள்",
+          "இலவச மென்பொருள், மலிவான வன்பொருள்",
           "உள்ளீட்டு மென்பொருள், வெளியீட்டு மென்பொருள்",
           "கட்டண மென்பொருள், உள்ளீட்டுக் கருவிகள்"
         ],
@@ -217,9 +217,9 @@
       "en": {
         "q": "Which of the following is application software?",
         "options": [
-          "Android",
-          "Linux",
-          "Windows",
+          "Android operating system",
+          "Linux operating system",
+          "Windows operating system",
           "Word processing software"
         ],
         "explanation": "Video player, audio player, word processing software and drawing tools are application software; Linux, Windows and Android are operating systems."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் பயன்பாட்டு மென்பொருள் (Application software) எது?",
         "options": [
-          "ஆண்ட்ராய்டு",
-          "லினக்ஸ்",
-          "விண்டோஸ்",
+          "ஆண்ட்ராய்டு இயங்குதளம்",
+          "லினக்ஸ் இயங்குதளம்",
+          "விண்டோஸ் இயங்குதளம்",
           "சொல் செயலி மென்பொருள்"
         ],
         "explanation": "வீடியோ, ஆடியோ ஒளிபரப்பிகள், சொல் செயலி, வரைகருவிகள் பயன்பாட்டு மென்பொருள்கள்; லினக்ஸ், விண்டோஸ், ஆண்ட்ராய்டு இயங்குதளங்கள்."
@@ -333,9 +333,9 @@
       "en": {
         "q": "Which of the following is Paid and Proprietary software?",
         "options": [
-          "Open Office",
-          "Linux",
-          "GeoGebra",
+          "Open Office suite",
+          "Ubuntu Linux",
+          "GeoGebra tool",
           "Microsoft Office"
         ],
         "explanation": "Windows, Microsoft Office and Adobe Photoshop are paid and proprietary software."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் கட்டணம் செலுத்த வேண்டிய உரிமைப் (Paid and Proprietary) மென்பொருள் எது?",
         "options": [
-          "ஓபன் ஆஃபிஸ்",
-          "லினக்ஸ்",
-          "ஜியோஜீப்ரா",
+          "ஓபன் ஆஃபிஸ் தொகுப்பு",
+          "உபுண்டு லினக்ஸ்",
+          "ஜியோஜீப்ரா கருவி",
           "மைக்ரோசாஃப்ட் ஆஃபிஸ்"
         ],
         "explanation": "விண்டோஸ், மைக்ரோசாஃப்ட் ஆஃபிஸ், அடோபி ஃபோட்டோஷாப் ஆகியவை கட்டண, உரிமை மென்பொருள்கள்."

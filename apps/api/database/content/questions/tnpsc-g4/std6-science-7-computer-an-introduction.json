@@ -14,20 +14,20 @@
       "en": {
         "q": "A computer is an electronic device that",
         "options": [
-          "processes data and information according to our needs",
-          "works only on mechanical power",
-          "can only be used for playing games",
-          "cannot store any data"
+          "processes data and information",
+          "works on mechanical power",
+          "is used for playing games",
+          "stores data but cannot process it"
         ],
         "explanation": "We can save data in a computer and convert it into information."
       },
       "ta": {
         "q": "கணினி என்பது",
         "options": [
-          "நம் தேவைக்கேற்பத் தரவுகளையும் தகவல்களையும் செயலாக்கம் செய்யும் மின்னணுக் கருவி",
-          "இயந்திர ஆற்றலால் மட்டுமே இயங்கும் கருவி",
-          "விளையாட்டுகளை விளையாட மட்டுமே பயன்படும் கருவி",
-          "எந்தத் தரவையும் சேமிக்க முடியாத கருவி"
+          "தரவுகளைச் செயலாக்கம் செய்யும் கருவி",
+          "இயந்திர ஆற்றலால் இயங்கும் கருவி",
+          "விளையாட்டுகளை விளையாடப் பயன்படும் கருவி",
+          "தரவைச் சேமிக்கும், செயலாக்காத கருவி"
         ],
         "explanation": "கணினியில் தரவுகளைச் சேமிக்கவும் அவற்றைத் தகவல்களாக மாற்றவும் முடியும்."
       }
@@ -130,7 +130,7 @@
       "en": {
         "q": "Which of the following is another form of a computer, according to the textbook?",
         "options": [
-          "A mobile (smart) phone",
+          "A mobile phone",
           "A blackboard",
           "A radio",
           "A book"
@@ -140,7 +140,7 @@
       "ta": {
         "q": "நூலின்படி, கணினியின் மற்றொரு வடிவம் எது?",
         "options": [
-          "கைபேசி (திறன்பேசி)",
+          "கைபேசி",
           "கரும்பலகை",
           "வானொலி",
           "புத்தகம்"
@@ -256,7 +256,7 @@
       "ta": {
         "q": "தகவல் (information) என்பது",
         "options": [
-          "முறைப்படுத்தப்பட்ட (செயலாக்கப்பட்ட) தரவு",
+          "செயலாக்கப்பட்ட தரவு",
           "வன்பொருள்",
           "உள்ளீட்டுக் கருவி",
           "இயக்கமுறைமை மென்பொருள்"
@@ -333,20 +333,20 @@
       "en": {
         "q": "Application software is software that is used to",
         "options": [
-          "display data on the screen",
-          "operate the computer itself",
-          "send data to the computer",
-          "run a particular program, such as painting or playing games"
+          "show the output on the screen",
+          "operate the computer hardware itself",
+          "send data into the computer",
+          "do a particular job, such as painting"
         ],
         "explanation": "Operating software, such as Windows, operates the computer; application software runs particular programs."
       },
       "ta": {
         "q": "பயன்பாட்டு மென்பொருள் (Application software) என்பது",
         "options": [
-          "திரையில் தரவைக் காட்டும் கருவி",
-          "கணினியையே இயக்கப் பயன்படும் மென்பொருள்",
-          "கணினிக்குத் தரவை அனுப்பும் கருவி",
-          "ஓவியம் வரைதல், விளையாடுதல் போன்ற குறிப்பிட்ட நிரலை இயக்கப் பயன்படும் மென்பொருள்"
+          "திரையில் முடிவுகளைக் காட்டும் கருவி",
+          "கணினியின் வன்பொருளையே இயக்கும் மென்பொருள்",
+          "கணினிக்குள் தரவை அனுப்பும் கருவி",
+          "ஓவியம் வரைதல் போன்ற குறிப்பிட்ட பணிக்கான மென்பொருள்"
         ],
         "explanation": "விண்டோஸ் போன்றவை கணினியை இயக்குகின்றன; பயன்பாட்டு மென்பொருள் குறிப்பிட்ட நிரல்களை இயக்குகிறது."
       }

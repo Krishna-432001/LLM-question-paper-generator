@@ -160,8 +160,8 @@
         "q": "Which of the following is a feature of multicellular organisms?",
         "options": [
           "A single cell performs all the functions of life",
-          "Division of labour exists among cells; different cells are specialised for different functions",
-          "They are generally microscopic in size",
+          "Different cells are specialised for different functions",
+          "They are generally microscopic and seen under a lens",
           "They lack tissues, organs and organ systems"
         ],
         "explanation": "Unicellular organisms are single-celled, microscopic and lack tissues, organs and organ systems."
@@ -170,8 +170,8 @@
         "q": "பல செல் உயிரிகளின் சிறப்புப் பண்பு எது?",
         "options": [
           "ஒரே செல் வாழ்க்கையின் அனைத்துப் பணிகளையும் செய்யும்",
-          "செல்களுக்கிடையே வேலைப்பகுப்பு உண்டு; வெவ்வேறு செல்கள் வெவ்வேறு பணிகளுக்குச் சிறப்புப் பெற்றவை",
-          "அவை பொதுவாக நுண்ணிய அளவுடையவை",
+          "செல்கள் வெவ்வேறு பணிகளுக்குச் சிறப்புப் பெற்றவை",
+          "அவை பொதுவாக நுண்ணோக்கியில் காணும் அளவுடையவை",
           "அவற்றிற்குத் திசுக்கள், உறுப்புகள், உறுப்பு மண்டலங்கள் இல்லை"
         ],
         "explanation": "ஒரு செல் உயிரிகள் ஒரே செல்லால் ஆனவை; நுண்ணியவை; திசுக்கள், உறுப்புகள், உறுப்பு மண்டலங்கள் இல்லாதவை."
@@ -190,7 +190,7 @@
         "options": [
           "flagellum",
           "cilia",
-          "pseudopodia (false feet)",
+          "pseudopodia",
           "fins"
         ],
         "explanation": "Pseudopodia are finger-like projections of Amoeba that help in locomotion."
@@ -247,9 +247,9 @@
         "q": "In Amoeba, excretion is helped by",
         "options": [
           "contractile vacuoles",
-          "food vacuoles",
-          "pseudopodia",
-          "gills"
+          "digestive food vacuoles",
+          "finger-like pseudopodia",
+          "feathery gills"
         ],
         "explanation": "Food is digested in the food vacuole and respiration is by simple diffusion through the body surface."
       },
@@ -333,9 +333,9 @@
       "en": {
         "q": "The streamlined body shape of a fish helps it to",
         "options": [
-          "store water",
-          "breathe air",
-          "walk on land",
+          "store water in the body",
+          "breathe air at the surface",
+          "walk and run on the land",
           "move through water easily"
         ],
         "explanation": "The head, trunk and tail of a fish merge to form a streamlined shape."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "மீனின் நீரோட்ட வடிவ உடல் அமைப்பு எதற்கு உதவுகிறது?",
         "options": [
-          "நீரைச் சேமிக்க",
-          "காற்றைச் சுவாசிக்க",
-          "நிலத்தில் நடக்க",
+          "உடலில் நீரைச் சேமிக்க",
+          "நீர்ப்பரப்பில் காற்றைச் சுவாசிக்க",
+          "நிலத்தில் நடந்து செல்ல",
           "நீரில் எளிதாக நகர"
         ],
         "explanation": "மீனின் தலை, முண்டம், வால் ஆகியவை இணைந்து நீரோட்ட வடிவத்தை அமைக்கின்றன."
@@ -362,8 +362,8 @@
       "en": {
         "q": "In a fish, the strong tail fin acts as a",
         "options": [
-          "rudder to change direction and keep the body balanced",
-          "gill to breathe",
+          "rudder to steer the body",
+          "gill to breathe underwater",
           "scale to protect the body",
           "paddle to walk on land"
         ],
@@ -372,8 +372,8 @@
       "ta": {
         "q": "மீனின் வலுவான வால் துடுப்பு எவ்வாறு செயல்படுகிறது?",
         "options": [
-          "திசைமாற்றவும் உடல் சமநிலைக்கும் உதவும் சுக்கானாக",
-          "சுவாசிக்க உதவும் செவுளாக",
+          "உடலைத் திருப்பும் சுக்கானாக",
+          "நீரில் சுவாசிக்க உதவும் செவுளாக",
           "உடலைப் பாதுகாக்கும் செதிலாக",
           "நிலத்தில் நடக்க உதவும் துடுப்பாக"
         ],
@@ -420,9 +420,9 @@
       "en": {
         "q": "Lizards are usually distinguished from snakes by having",
         "options": [
-          "feathers and wings",
-          "gills and fins",
-          "legs, movable eyelids and external ear openings",
+          "feathers, wings and a beak",
+          "gills and fins for swimming",
+          "legs and movable eyelids",
           "no legs and no eyelids"
         ],
         "explanation": "Lizards are scaly-skinned reptiles and breathe through lungs."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "பல்லிகள் பாம்புகளிலிருந்து பொதுவாக எதைக் கொண்டிருப்பதால் வேறுபடுகின்றன?",
         "options": [
-          "இறகுகளும் சிறகுகளும்",
-          "செவுள்களும் துடுப்புகளும்",
-          "கால்கள், அசையும் கண்ணிமைகள், வெளிக்காது துளைகள்",
+          "இறகுகளும் சிறகுகளும் அலகும்",
+          "செவுள்களும் நீந்தும் துடுப்புகளும்",
+          "கால்களும் அசையும் கண்ணிமைகளும்",
           "கால்களும் கண்ணிமைகளும் இல்லாமை"
         ],
         "explanation": "பல்லிகள் செதில் தோலுடைய ஊர்வன; அவை நுரையீரல்களால் சுவாசிக்கின்றன."
@@ -449,9 +449,9 @@
       "en": {
         "q": "In lizards that run on two legs, the tail is held out backward and upward and acts as a",
         "options": [
-          "rudder",
-          "paddle",
-          "gill",
+          "steering rudder",
+          "swimming paddle",
+          "breathing gill",
           "counterweight"
         ],
         "explanation": "The tail balances the body when a lizard runs bipedally."
@@ -507,20 +507,20 @@
       "en": {
         "q": "The strong chest muscles of birds help them to",
         "options": [
-          "swim in water",
-          "withstand the pressure of air while flapping the wings during flight",
-          "dig burrows",
-          "store food"
+          "swim long distances in water",
+          "withstand air pressure while flapping",
+          "dig burrows in the soil",
+          "store food for winter"
         ],
         "explanation": "The tail of a bird helps it to control the direction of its movement."
       },
       "ta": {
         "q": "பறவைகளின் வலிமையான மார்புத் தசைகள் எதற்கு உதவுகின்றன?",
         "options": [
-          "நீரில் நீந்த",
-          "பறக்கும்போது சிறகடிக்கையில் ஏற்படும் காற்றழுத்தத்தைத் தாங்க",
-          "வளை தோண்ட",
-          "உணவைச் சேமிக்க"
+          "நீரில் நெடுந்தூரம் நீந்த",
+          "சிறகடிக்கும்போது காற்றழுத்தத்தைத் தாங்க",
+          "மண்ணில் வளைகளைத் தோண்ட",
+          "குளிர்காலத்திற்கு உணவைச் சேமிக்க"
         ],
         "explanation": "பறவையின் வால் அது இயங்கும் திசையைக் கட்டுப்படுத்த உதவுகிறது."
       }
@@ -548,7 +548,7 @@
         "options": [
           "கோடைக்கால உறக்கம்",
           "குளிர்கால உறக்கம்",
-          "வலசை போதல் (புலம்பெயர்தல்)",
+          "வலசை போதல்",
           "தகவமைப்பு"
         ],
         "explanation": "பருவநிலைக்கேற்ப இடம்பெயரும் பறவைகள் வலசைப் பறவைகள் எனப்படுகின்றன."
@@ -623,20 +623,20 @@
       "en": {
         "q": "A camel can walk easily on soft sand because it has",
         "options": [
-          "webbed feet",
-          "large and flat padded feet",
-          "sharp claws",
-          "strong hooves"
+          "webbed swimming feet",
+          "large, flat padded feet",
+          "sharp curved claws",
+          "strong hard hooves"
         ],
         "explanation": "Because of this, the camel is called the 'Ship of the desert'."
       },
       "ta": {
         "q": "ஒட்டகம் மென்மையான மணலில் எளிதாக நடக்க உதவுவது அதன்",
         "options": [
-          "வலைப்பாதங்கள்",
-          "பெரிய, தட்டையான, மெத்தை போன்ற பாதங்கள்",
-          "கூர்மையான நகங்கள்",
-          "வலுவான குளம்புகள்"
+          "நீந்த உதவும் வலைப்பாதங்கள்",
+          "பெரிய, தட்டையான மெத்தைப் பாதங்கள்",
+          "கூர்மையான வளைந்த நகங்கள்",
+          "வலுவான கடினக் குளம்புகள்"
         ],
         "explanation": "இதனால் ஒட்டகம் 'பாலைவனக் கப்பல்' என்று அழைக்கப்படுகிறது."
       }
@@ -652,9 +652,9 @@
       "en": {
         "q": "A camel can live for many days without drinking water because it",
         "options": [
-          "drinks sea water",
+          "drinks salty sea water",
           "stores water in its hump",
-          "loses very little water from its body",
+          "loses very little body water",
           "gets water from its fur"
         ],
         "explanation": "A camel passes small amounts of urine, its dung is dry and it does not sweat."

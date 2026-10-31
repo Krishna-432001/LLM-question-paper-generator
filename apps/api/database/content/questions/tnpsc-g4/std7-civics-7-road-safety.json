@@ -43,20 +43,20 @@
       "en": {
         "q": "According to the book, what is the leading cause of road accidents?",
         "options": [
-          "Wearing a helmet",
-          "Distracted driving, such as using a mobile phone while driving",
-          "Using zebra crossings",
-          "Keeping the vehicle serviced"
+          "Wearing a helmet while riding",
+          "Distracted driving, like using a mobile phone",
+          "Using the zebra crossings carefully",
+          "Keeping the vehicle regularly serviced"
         ],
         "explanation": "Distracted driving — talking or texting on a mobile phone, or any activity that diverts attention — is described as the leading cause of road accidents."
       },
       "ta": {
         "q": "பாடநூலின்படி சாலை விபத்துகளுக்கு முதன்மைக் காரணம் எது?",
         "options": [
-          "தலைக்கவசம் அணிதல்",
-          "வாகனம் ஓட்டும்போது கைப்பேசி பயன்படுத்துவது போன்ற கவனச்சிதறல்",
-          "வரிக்குதிரைக் கடவைப் பயன்படுத்துதல்",
-          "வாகனத்தைப் பராமரித்தல்"
+          "ஓட்டும்போது தலைக்கவசம் அணிதல்",
+          "கைப்பேசி பயன்படுத்துவது போன்ற கவனச்சிதறல்",
+          "வரிக்குதிரைக் கடவைகளைக் கவனமாகப் பயன்படுத்துதல்",
+          "வாகனத்தைத் தொடர்ந்து பராமரித்தல்"
         ],
         "explanation": "கைப்பேசியில் பேசுதல், குறுஞ்செய்தி அனுப்புதல் போன்ற கவனச்சிதறலுடன் ஓட்டுதலே சாலை விபத்துகளின் முதன்மைக் காரணம்."
       }
@@ -72,20 +72,20 @@
       "en": {
         "q": "What is 'tailgating'?",
         "options": [
-          "Overtaking from the left",
-          "Driving at night with poor lighting",
-          "Driving behind another vehicle without leaving sufficient distance",
-          "Parking on the footpath"
+          "Overtaking from the left side of a vehicle",
+          "Driving at night with very poor lighting",
+          "Following another vehicle too closely on the road",
+          "Parking a vehicle on the footpath at night"
         ],
         "explanation": "Tailgating is driving too close behind another vehicle; if it stops suddenly, a crash follows."
       },
       "ta": {
         "q": "'டெய்ல்கேட்டிங்' (tailgating) என்பது என்ன?",
         "options": [
-          "இடப்புறமாக முந்துதல்",
-          "குறைந்த வெளிச்சத்தில் இரவில் ஓட்டுதல்",
-          "போதிய இடைவெளி விடாமல் முன்செல்லும் வாகனத்தைப் பின்தொடர்ந்து ஓட்டுதல்",
-          "நடைபாதையில் வாகனம் நிறுத்துதல்"
+          "இடப்புறத்தில் மற்றொரு வாகனத்தை முந்திச் செல்லுதல்",
+          "மிகக் குறைந்த வெளிச்சத்தில் இரவில் வாகனம் ஓட்டுதல்",
+          "முன்செல்லும் வாகனத்தை மிக நெருக்கமாகப் பின்தொடர்தல்",
+          "இரவு நேரத்தில் நடைபாதையில் வாகனம் நிறுத்துதல்"
         ],
         "explanation": "முன்செல்லும் வாகனத்துக்கு மிக நெருக்கமாகப் பின்தொடர்ந்து ஓட்டுவது டெய்ல்கேட்டிங்; அது திடீரென நின்றால் மோதல் ஏற்படும்."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "Through which ministry has the Government of India taken steps such as rectifying accident 'black spots'?",
         "options": [
-          "Ministry of Home Affairs",
+          "Ministry of Housing and Urban Affairs",
           "Ministry of Road Transport and Highways",
-          "Ministry of Railways",
-          "Ministry of Civil Aviation"
+          "Ministry of Ports, Shipping and Waterways",
+          "Ministry of Heavy Industries and Public Enterprises"
         ],
         "explanation": "Through the Ministry of Road Transport and Highways the government rectifies accident black spots, improves road engineering and installs CCTV for speeding offences."
       },
       "ta": {
         "q": "விபத்து 'கரும்புள்ளிகளை'ச் சரிசெய்தல் போன்ற நடவடிக்கைகளை இந்திய அரசு எந்த அமைச்சகம் மூலம் மேற்கொண்டுள்ளது?",
         "options": [
-          "உள்துறை அமைச்சகம்",
+          "வீட்டுவசதி, நகர்ப்புற விவகார அமைச்சகம்",
           "சாலைப் போக்குவரத்து, நெடுஞ்சாலைகள் அமைச்சகம்",
-          "இரயில்வே அமைச்சகம்",
-          "சிவில் விமானப் போக்குவரத்து அமைச்சகம்"
+          "துறைமுகங்கள், கப்பல், நீர்வழிப் போக்குவரத்து அமைச்சகம்",
+          "கனரகத் தொழில்கள், பொதுத்துறை நிறுவனங்கள் அமைச்சகம்"
         ],
         "explanation": "சாலைப் போக்குவரத்து, நெடுஞ்சாலைகள் அமைச்சகம் மூலம் அரசு விபத்துக் கரும்புள்ளிகளைச் சரிசெய்கிறது, சாலைப் பொறியியலை மேம்படுத்துகிறது, அதிவேகக் குற்றங்களுக்குக் கண்காணிப்புக் கேமராக்களை அமைக்கிறது."
       }
@@ -333,10 +333,10 @@
       "en": {
         "q": "The 'Raksha safe drive' device is useful for",
         "options": [
-          "bus passengers buying tickets",
-          "pedestrians crossing the road",
-          "railway gatekeepers",
-          "car drivers — it alerts them about road humps, bad roads and speeding"
+          "bus passengers while buying their tickets",
+          "pedestrians while crossing a busy road",
+          "railway gatekeepers at level crossings",
+          "car drivers, as it warns about road humps and speeding"
         ],
         "explanation": "Raksha safe drive, attached to a car, alerts drivers to humps, bad roads and speeding, and offers crash detection, GPS tracking and a panic button."
       },
@@ -344,9 +344,9 @@
         "q": "'ரக்ஷா சேஃப் டிரைவ்' கருவி யாருக்குப் பயனுள்ளது?",
         "options": [
           "பயணச்சீட்டு வாங்கும் பேருந்துப் பயணிகள்",
-          "சாலையைக் கடக்கும் பாதசாரிகள்",
-          "இரயில்வே கேட் காவலர்கள்",
-          "கார் ஓட்டுநர்கள் — வேகத்தடை, மோசமான சாலை, அதிவேகம் பற்றி எச்சரிக்கிறது"
+          "நெரிசலான சாலையைக் கடக்க முயலும் பாதசாரிகள்",
+          "இரயில்வே கடவுகளில் பணிபுரியும் கேட் காவலர்கள்",
+          "கார் ஓட்டுநர்கள்; வேகத்தடை பற்றி எச்சரிக்கிறது"
         ],
         "explanation": "காரில் பொருத்தப்படும் ரக்ஷா சேஃப் டிரைவ் வேகத்தடை, மோசமான சாலை, அதிவேகம் பற்றி எச்சரிக்கிறது; விபத்துக் கண்டறிதல், GPS, அவசரப் பொத்தான் வசதிகளும் உண்டு."
       }
@@ -362,20 +362,20 @@
       "en": {
         "q": "What is the main benefit of carpooling?",
         "options": [
-          "It reduces the number of vehicles and saves fuel, money and time",
-          "It increases traffic on the road",
-          "It allows driving without a licence",
-          "It removes the need for traffic signals"
+          "It reduces vehicles and saves fuel, money and time",
+          "It increases the traffic and the delays on the road",
+          "It allows people to drive without a driving licence",
+          "It removes the need for traffic signals on roads"
         ],
         "explanation": "Carpooling — sharing car journeys — reduces vehicles on the road and saves fuel, money and time."
       },
       "ta": {
         "q": "கூட்டுப் பயணத்தின் (carpooling) முக்கியப் பயன் எது?",
         "options": [
-          "வாகனங்களின் எண்ணிக்கையைக் குறைத்து எரிபொருள், பணம், நேரத்தைச் சேமிக்கிறது",
-          "சாலைப் போக்குவரத்தை அதிகரிக்கிறது",
-          "உரிமம் இன்றி ஓட்ட அனுமதிக்கிறது",
-          "போக்குவரத்துச் சைகைகளின் தேவையை நீக்குகிறது"
+          "வாகனங்களைக் குறைத்து எரிபொருள், பணம், நேரத்தைச் சேமிக்கிறது",
+          "சாலையில் போக்குவரத்தையும் தாமதத்தையும் அதிகரிக்கிறது",
+          "ஓட்டுநர் உரிமம் இல்லாதவரும் ஓட்ட அனுமதிக்கிறது",
+          "சாலையிலுள்ள போக்குவரத்துச் சைகைகளின் தேவையை நீக்குகிறது"
         ],
         "explanation": "கார் பயணங்களைப் பகிர்ந்துகொள்ளும் கூட்டுப் பயணம் சாலையில் வாகனங்களைக் குறைத்து எரிபொருள், பணம், நேரத்தைச் சேமிக்கிறது."
       }
@@ -478,10 +478,10 @@
       "en": {
         "q": "The book suggests installing 'bollards' near unmanned railway crossings. What are bollards?",
         "options": [
-          "Short concrete posts used to stop vehicles",
-          "Flashing traffic lights",
-          "Speed cameras",
-          "Road humps made of rubber"
+          "Short concrete posts that stop vehicles",
+          "Flashing traffic lights at junctions",
+          "Speed cameras fitted along the highway",
+          "Road humps made of hard rubber sheets"
         ],
         "explanation": "Bollards are short concrete posts used to keep vehicles off an area; the book suggests them near unmanned railway crossings."
       },
@@ -489,9 +489,9 @@
         "q": "ஆளில்லா இரயில்வே கடவுகள் அருகே 'பொல்லார்டுகள்' அமைக்கப் பாடநூல் பரிந்துரைக்கிறது. பொல்லார்டுகள் என்பவை",
         "options": [
           "வாகனங்களைத் தடுக்கும் குட்டையான கான்கிரீட் தூண்கள்",
-          "மின்னும் போக்குவரத்து விளக்குகள்",
-          "வேகக் கண்காணிப்புக் கேமராக்கள்",
-          "ரப்பரால் ஆன வேகத்தடைகள்"
+          "சந்திப்புகளில் மின்னும் போக்குவரத்து விளக்குகள்",
+          "நெடுஞ்சாலையில் உள்ள வேகக் கண்காணிப்புக் கேமராக்கள்",
+          "கடினமான ரப்பர் தகடுகளால் ஆன வேகத்தடைகள்"
         ],
         "explanation": "பொல்லார்டுகள் வாகனங்களைத் தடுக்கப் பயன்படும் குட்டையான கான்கிரீட் தூண்கள்; ஆளில்லா இரயில்வே கடவுகள் அருகே அவற்றை அமைக்கப் பாடநூல் பரிந்துரைக்கிறது."
       }

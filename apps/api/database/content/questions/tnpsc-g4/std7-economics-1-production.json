@@ -53,10 +53,10 @@
       "ta": {
         "q": "பொருளியலில் 'பயன்பாடு' (Utility) என்பது என்ன?",
         "options": [
-          "ஒரு பொருளின் விலை",
-          "ஒரு பொருளின் தேவையை நிறைவு செய்யும் ஆற்றல்",
-          "ஒரு பொருளின் உற்பத்திச் செலவு",
-          "ஒரு பொருளின் எடை"
+          "ஒரு பொருளுக்கு நிர்ணயிக்கப்படும் விலை",
+          "ஒரு பொருளின் தேவையை நிறைவு செய்யும் திறன்",
+          "ஒரு பொருளை உற்பத்தி செய்யும் செலவு",
+          "ஒரு பொருளின் எடையும் பருமனும் ஆகியவை"
         ],
         "explanation": "பயன்பாடு என்பது ஒரு பொருளின் தேவையை நிறைவு செய்யும் ஆற்றல்; அது வடிவ, கால, இடப் பயன்பாடு என மூவகைப்படும்."
       }
@@ -247,9 +247,9 @@
         "q": "As a factor of production, 'organisation' is also known as",
         "options": [
           "entrepreneurship",
-          "investment",
-          "wages",
-          "rent"
+          "capital investment",
+          "wages of workers",
+          "rent paid for land"
         ],
         "explanation": "Organisation, the organising of land, labour and capital for production, is also called entrepreneurship."
       },
@@ -276,9 +276,9 @@
         "q": "In economics, 'land' as a factor of production refers to",
         "options": [
           "only the surface area used for farming",
-          "all natural resources or free gifts of nature, such as soil, air, water, minerals and forests",
-          "buildings and machinery",
-          "money invested in production"
+          "all natural resources, the free gifts of nature",
+          "buildings, machinery and other man-made goods",
+          "money invested in production by the owners"
         ],
         "explanation": "Land includes all things not made by man: land surface, air, water, minerals, forests, rivers, seas, mountains, climate and weather."
       },
@@ -286,9 +286,9 @@
         "q": "பொருளியலில் உற்பத்திக் காரணியான 'நிலம்' என்பது எதைக் குறிக்கிறது?",
         "options": [
           "வேளாண்மைக்குப் பயன்படும் நிலப்பரப்பு மட்டும்",
-          "மண், காற்று, நீர், கனிமங்கள், காடுகள் போன்ற இயற்கையின் இலவசக் கொடைகள் அனைத்தும்",
-          "கட்டடங்கள், இயந்திரங்கள்",
-          "உற்பத்தியில் முதலீடு செய்யப்பட்ட பணம்"
+          "இயற்கை வளங்கள் அனைத்தும், இயற்கையின் இலவசக் கொடைகள்",
+          "கட்டடங்கள், இயந்திரங்கள் மற்றும் செயற்கைப் பொருள்கள்",
+          "உற்பத்தியில் உரிமையாளர்கள் முதலீடு செய்த பணம்"
         ],
         "explanation": "நிலப்பரப்பு, காற்று, நீர், கனிமங்கள், காடுகள், ஆறுகள், கடல்கள், மலைகள், காலநிலை உள்ளிட்ட மனிதனால் உருவாக்கப்படாத அனைத்தும் நிலம்."
       }
@@ -304,18 +304,18 @@
       "en": {
         "q": "Which of the following is NOT a characteristic of land as a factor of production?",
         "options": [
-          "It is immovable",
-          "It is a free gift of nature",
-          "Its supply can be increased by human effort",
-          "It differs in fertility"
+          "It is immovable from place to place",
+          "It is a free gift of nature to mankind",
+          "Human effort can increase its supply",
+          "It differs in fertility from place to place"
         ],
         "explanation": "Land is fixed in supply: its total quantity cannot be increased or decreased by human effort. It is also imperishable and immovable."
       },
       "ta": {
         "q": "உற்பத்திக் காரணியான நிலத்தின் பண்பு அல்லாதது எது?",
         "options": [
-          "அது இடம்பெயர்க்க முடியாதது",
-          "அது இயற்கையின் இலவசக் கொடை",
+          "அது ஓரிடத்திலிருந்து பெயர்க்க முடியாதது",
+          "அது மனிதருக்கு இயற்கை தந்த இலவசக் கொடை",
           "மனித முயற்சியால் அதன் அளிப்பை அதிகரிக்கலாம்",
           "அதன் வளம் இடத்துக்கு இடம் வேறுபடும்"
         ],
@@ -449,20 +449,20 @@
       "en": {
         "q": "Why is labour said to be more perishable than other factors of production?",
         "options": [
-          "Labour can be transported easily",
-          "Workers fall ill often",
-          "Labour is the cheapest factor",
-          "It cannot be stored; a day's labour not used is lost forever"
+          "Labour can be transported very easily",
+          "Workers fall ill quite often in factories",
+          "Labour is the cheapest factor of production",
+          "It cannot be stored; unused labour is lost"
         ],
         "explanation": "Labour can neither be postponed nor accumulated; the labour of an unemployed worker for a day is lost forever."
       },
       "ta": {
         "q": "பிற உற்பத்திக் காரணிகளைவிட உழைப்பு அதிகம் அழியக்கூடியது எனப்படுவது ஏன்?",
         "options": [
-          "உழைப்பை எளிதில் கொண்டு செல்லலாம் என்பதால்",
-          "தொழிலாளர்கள் அடிக்கடி நோய்வாய்ப்படுவதால்",
-          "உழைப்பு மிக மலிவான காரணி என்பதால்",
-          "அதைச் சேமிக்க முடியாது; பயன்படுத்தப்படாத ஒரு நாள் உழைப்பு என்றென்றும் இழக்கப்படுகிறது"
+          "உழைப்பை மிக எளிதாகக் கொண்டு செல்லலாம் என்பதால்",
+          "தொழிலாளர்கள் ஆலைகளில் அடிக்கடி நோய்வாய்ப்படுவதால்",
+          "உழைப்பு உற்பத்திக் காரணிகளுள் மிக மலிவானது என்பதால்",
+          "அதைச் சேமிக்க இயலாது; பயன்படாத உழைப்பு வீணாகிறது"
         ],
         "explanation": "உழைப்பைத் தள்ளிப்போடவோ சேர்த்து வைக்கவோ முடியாது; வேலையில்லாத தொழிலாளரின் அன்றைய உழைப்பு என்றென்றும் இழக்கப்படுகிறது."
       }
@@ -479,9 +479,9 @@
         "q": "According to the text, the bargaining power of labour increases when",
         "options": [
           "workers combine to form trade unions",
-          "workers change jobs often",
-          "machines replace workers",
-          "land becomes scarce"
+          "workers keep changing their jobs often",
+          "machines replace the workers in factories",
+          "land becomes scarce and costly"
         ],
         "explanation": "An individual worker has limited bargaining power; trade unions increase it."
       },
@@ -489,9 +489,9 @@
         "q": "பாடநூலின்படி உழைப்பின் பேர வலிமை எப்போது அதிகரிக்கிறது?",
         "options": [
           "தொழிலாளர்கள் இணைந்து தொழிற்சங்கங்களை அமைக்கும்போது",
-          "தொழிலாளர்கள் அடிக்கடி வேலை மாறும்போது",
-          "இயந்திரங்கள் தொழிலாளர்களுக்குப் பதிலாக வரும்போது",
-          "நிலம் அரிதாகும்போது"
+          "தொழிலாளர்கள் தம் வேலைகளை மாற்றிக்கொண்டே இருக்கும்போது",
+          "இயந்திரங்கள் ஆலைகளில் தொழிலாளர்களின் இடத்தைப் பிடிக்கும்போது",
+          "நிலம் அரிதாகவும் விலை மிகுந்ததாகவும் ஆகும்போது"
         ],
         "explanation": "தனித் தொழிலாளருக்குப் பேர வலிமை குறைவு; தொழிற்சங்கங்கள் அதை அதிகரிக்கின்றன."
       }
@@ -508,9 +508,9 @@
         "q": "The concept of 'division of labour' was introduced by Adam Smith in his book",
         "options": [
           "The Theory of Moral Sentiments",
-          "An Inquiry into the Nature and Causes of the Wealth of Nations",
+          "The Wealth of Nations",
           "Principles of Economics",
-          "Das Kapital"
+          "Das Kapital, Volume I"
         ],
         "explanation": "Adam Smith introduced the division of labour in The Wealth of Nations."
       },
@@ -518,9 +518,9 @@
         "q": "'உழைப்புப் பகுப்பு' என்ற கருத்தை ஆடம் ஸ்மித் எந்த நூலில் அறிமுகப்படுத்தினார்?",
         "options": [
           "அறவுணர்வுகளின் கோட்பாடு",
-          "நாடுகளின் செல்வத்தின் இயல்பும் காரணங்களும் பற்றிய ஓர் ஆய்வு",
+          "நாடுகளின் செல்வம்",
           "பொருளியல் கோட்பாடுகள்",
-          "மூலதனம் (டாஸ் கேப்பிடல்)"
+          "மூலதனம், முதல் தொகுதி"
         ],
         "explanation": "உழைப்புப் பகுப்பை ஆடம் ஸ்மித் 'நாடுகளின் செல்வம்' நூலில் அறிமுகப்படுத்தினார்."
       }
@@ -566,9 +566,9 @@
         "q": "Which of the following is a demerit of division of labour?",
         "options": [
           "It uses time and raw materials efficiently",
-          "It improves the efficiency of labour",
-          "It leads to the use of modern machinery",
-          "Repeating the same task makes the work monotonous, and narrow specialisation limits other job options"
+          "It improves the efficiency of the labour force",
+          "It leads to the greater use of modern machinery",
+          "Repeating the same task makes the work monotonous"
         ],
         "explanation": "Demerits: monotony, fewer alternative jobs (risking unemployment) and decline of handicrafts. The other three options are merits."
       },
@@ -576,9 +576,9 @@
         "q": "கீழ்க்கண்டவற்றுள் உழைப்புப் பகுப்பின் குறைபாடு எது?",
         "options": [
           "நேரத்தையும் மூலப்பொருள்களையும் திறம்படப் பயன்படுத்துகிறது",
-          "உழைப்பின் திறனை உயர்த்துகிறது",
-          "நவீன இயந்திரப் பயன்பாட்டுக்கு வழிவகுக்கிறது",
-          "ஒரே வேலையைத் திரும்பத் திரும்பச் செய்வது சலிப்பூட்டுகிறது; குறுகிய சிறப்புத் தேர்ச்சி மாற்று வேலைவாய்ப்புகளைக் குறைக்கிறது"
+          "தொழிலாளர்களின் உழைப்புத் திறனை உயர்த்துகிறது",
+          "நவீன இயந்திரங்களை மிகுதியாகப் பயன்படுத்த வழிவகுக்கிறது",
+          "ஒரே வேலையைத் தொடர்ந்து செய்வதால் சலிப்பு ஏற்படுகிறது"
         ],
         "explanation": "சலிப்பு, மாற்று வேலைவாய்ப்புக் குறைவு (வேலையின்மை), கைவினைத் தொழில்களின் வீழ்ச்சி ஆகியவை குறைபாடுகள்; மற்ற மூன்றும் நன்மைகள்."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "Which of the following is a characteristic of capital, as given in the text?",
         "options": [
-          "It is the only active factor of production",
-          "It is a free gift of nature",
-          "It is fixed in supply",
-          "It is a passive factor of production with the highest mobility"
+          "It is the most active factor of production",
+          "It is a free gift of nature to man",
+          "Its supply stays fixed over time",
+          "It is a passive factor with high mobility"
         ],
         "explanation": "Capital is man-made, passive, highly mobile and productive, and involves present sacrifice for future benefit; labour is the active factor."
       },
       "ta": {
         "q": "பாடநூலின்படி மூலதனத்தின் பண்பு எது?",
         "options": [
-          "அதுவே ஒரே செயல்படும் உற்பத்திக் காரணி",
-          "அது இயற்கையின் இலவசக் கொடை",
-          "அதன் அளிப்பு நிலையானது",
-          "அது செயலற்ற உற்பத்திக் காரணி; மிக அதிக இடப்பெயர்ச்சித் தன்மை உடையது"
+          "அது மிகவும் செயல்படும் உற்பத்திக் காரணி",
+          "அது மனிதருக்கு இயற்கை தந்த இலவசக் கொடை",
+          "அதன் அளிப்பு காலப்போக்கில் நிலையானது",
+          "அது செயலற்ற காரணி; அதிக இடப்பெயர்ச்சித் தன்மை உடையது"
         ],
         "explanation": "மூலதனம் மனிதனால் உருவானது, செயலற்றது, மிக எளிதில் இடம்பெயரக்கூடியது, உற்பத்தித் திறன் கொண்டது; எதிர்காலப் பயனுக்காக இன்றைய தியாகம் தேவை. உழைப்பே செயல்படும் காரணி."
       }

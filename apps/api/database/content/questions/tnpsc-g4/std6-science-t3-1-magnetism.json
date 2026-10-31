@@ -219,8 +219,8 @@
         "options": [
           "By sieving the sand through a cloth",
           "By pouring water over the sand",
-          "By heating the sand strongly",
-          "By placing a magnet in a pile of sand and turning it around"
+          "By heating the sand on a pan",
+          "By moving a magnet through the sand"
         ],
         "explanation": "The small iron pieces present in sand stick to a magnet that is turned around in the sand."
       },
@@ -229,8 +229,8 @@
         "options": [
           "மணலைத் துணியால் சலிப்பதன் மூலம்",
           "மணலின் மீது நீரை ஊற்றுவதன் மூலம்",
-          "மணலை நன்கு சூடாக்குவதன் மூலம்",
-          "மணல் குவியலில் காந்தத்தை வைத்துச் சுற்றி எடுப்பதன் மூலம்"
+          "மணலைச் சட்டியில் சூடாக்குவதன் மூலம்",
+          "மணலில் காந்தத்தை நகர்த்துவதன் மூலம்"
         ],
         "explanation": "மணலில் உள்ள சிறிய இரும்புத் துண்டுகள் மணலில் சுற்றப்படும் காந்தத்தில் ஒட்டிக்கொள்ளும்."
       }
@@ -422,7 +422,7 @@
         "options": [
           "To find iron ore in the rocks",
           "To measure the height of the mountain",
-          "So that they do not lose their way in unknown places",
+          "So that they do not lose their way",
           "To measure the temperature"
         ],
         "explanation": "A compass helps mountaineers avoid losing their way in unknown places."
@@ -536,20 +536,20 @@
       "en": {
         "q": "To magnetize an iron nail with a bar magnet, one pole of the magnet is rubbed along the nail",
         "options": [
-          "in circles around the middle of the nail only",
+          "in circles around the middle of the nail",
           "back and forth, changing the pole each time",
-          "from one end to the other, without changing the direction of the pole",
-          "by tapping only one end of the nail"
+          "from one end to the other in one direction",
+          "by tapping one end of the nail with it"
         ],
         "explanation": "The magnet's pole is rubbed from one end of the nail to the other in the same direction, repeatedly."
       },
       "ta": {
         "q": "தண்டுக் காந்தத்தால் இரும்பு ஆணியைக் காந்தமாக்க, காந்தத்தின் ஒரு துருவத்தை ஆணியின் மீது எவ்வாறு தேய்க்க வேண்டும்?",
         "options": [
-          "ஆணியின் நடுப்பகுதியில் மட்டும் வட்டமாக",
+          "ஆணியின் நடுப்பகுதியைச் சுற்றி வட்டமாக",
           "ஒவ்வொரு முறையும் துருவத்தை மாற்றி முன்னும் பின்னும்",
-          "ஒரு முனையிலிருந்து மறு முனை வரை, துருவத்தின் திசையை மாற்றாமல்",
-          "ஆணியின் ஒரு முனையில் மட்டும் தட்டுவதன் மூலம்"
+          "ஒரு முனையிலிருந்து மறு முனை வரை, ஒரே திசையில்",
+          "ஆணியின் ஒரு முனையில் தட்டுவதன் மூலம்"
         ],
         "explanation": "காந்தத்தின் ஒரு துருவத்தை ஆணியின் ஒரு முனையிலிருந்து மறு முனை வரை, திசையை மாற்றாமல் பலமுறை தேய்க்க வேண்டும்."
       }
@@ -652,20 +652,20 @@
       "en": {
         "q": "A horse-shoe magnet is kept safe by placing across its poles",
         "options": [
-          "two pieces of wood",
-          "a piece of wood",
+          "two pieces of dry wood",
+          "a piece of hard wood",
           "a single piece of soft iron",
-          "a sheet of plastic"
+          "a thin sheet of plastic"
         ],
         "explanation": "A single piece of soft iron serves as the magnetic keeper across the poles of a horse-shoe magnet."
       },
       "ta": {
         "q": "குதிரை லாடக் காந்தத்தைப் பாதுகாப்பாக வைக்க, அதன் துருவங்களின் குறுக்கே வைக்கப்படுவது எது?",
         "options": [
-          "இரண்டு மரத்துண்டுகள்",
-          "ஒரு மரத்துண்டு",
-          "ஒரே ஒரு மென்னிரும்புத் துண்டு",
-          "ஒரு பிளாஸ்டிக் தகடு"
+          "இரண்டு உலர்ந்த மரத்துண்டுகள்",
+          "ஒரு கடினமான மரத்துண்டு",
+          "ஒரு மென்னிரும்புத் துண்டு",
+          "ஒரு மெல்லிய பிளாஸ்டிக் தகடு"
         ],
         "explanation": "குதிரை லாடக் காந்தத்தின் துருவங்களின் குறுக்கே ஒரு மென்னிரும்புத் துண்டு காந்தக் காப்பானாக வைக்கப்படும்."
       }

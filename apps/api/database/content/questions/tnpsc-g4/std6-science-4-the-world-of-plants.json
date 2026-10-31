@@ -44,7 +44,7 @@
         "q": "Which of the following is true of a root?",
         "options": [
           "It has nodes and internodes",
-          "It has no nodes and internodes and has a root cap at the tip",
+          "It has no nodes and internodes",
           "It bears leaves at the nodes",
           "It grows towards the sunlight"
         ],
@@ -53,10 +53,10 @@
       "ta": {
         "q": "வேரைப் பற்றிய பின்வரும் கூற்றுகளுள் சரியானது எது?",
         "options": [
-          "அதற்குக் கணுக்களும் கணுவிடைப்பகுதிகளும் உண்டு",
+          "அதற்குக் கணுக்களும் கணுவிடைப்பகுதிகளும் உண்டு; நுனியில் மொட்டு உண்டு",
           "அதற்குக் கணுக்களும் கணுவிடைப்பகுதிகளும் இல்லை; நுனியில் வேர்மூடி உண்டு",
-          "கணுக்களில் இலைகளைத் தாங்கும்",
-          "சூரிய ஒளியை நோக்கி வளரும்"
+          "அது கணுக்களில் இலைகளையும் நுனியில் மலரையும் தாங்கி நிற்கும்",
+          "அது சூரிய ஒளியை நோக்கி மேல்நோக்கி வளர்ந்து நிற்கும்"
         ],
         "explanation": "வேர் மண்ணுக்கு அடியில் இருக்கும்; கணு, கணுவிடை இல்லாதது; நுனியில் வேர்மூடி கொண்டது; அதற்கு மேலே வேர்த்தூவிகள் உள்ளன."
       }
@@ -72,9 +72,9 @@
       "en": {
         "q": "Roots are positively geotropic. This means that roots",
         "options": [
-          "grow only in water",
+          "grow floating in water",
           "grow upward towards sunlight",
-          "grow downward in the direction of gravity",
+          "grow downward with gravity",
           "do not respond to gravity"
         ],
         "explanation": "Positive geotropism is growth of roots towards the Earth, that is, into the soil."
@@ -82,7 +82,7 @@
       "ta": {
         "q": "வேர்கள் நேர் புவிநாட்டம் (positively geotropic) உடையவை. இதன் பொருள் வேர்கள்",
         "options": [
-          "நீரில் மட்டுமே வளரும்",
+          "நீருக்குள் மிதந்து வளரும்",
           "சூரிய ஒளியை நோக்கி மேல்நோக்கி வளரும்",
           "புவியீர்ப்புத் திசையில் கீழ்நோக்கி வளரும்",
           "புவியீர்ப்புக்கு எதிர்வினை புரியாது"
@@ -246,7 +246,7 @@
       "en": {
         "q": "The bud at the tip of the stem is called the",
         "options": [
-          "apical (terminal) bud",
+          "apical bud",
           "axillary bud",
           "flower bud",
           "root bud"
@@ -346,7 +346,7 @@
           "மெலனின்",
           "கரோட்டின்",
           "ஆந்தோசயனின்",
-          "பச்சையம் (குளோரோபில்)"
+          "பச்சையம்"
         ],
         "explanation": "பச்சையம் இலையின் பச்சை நிறமியாகும்; இலையின் கீழ்ப்புறத்திலுள்ள நுண்துளைகள் இலைத்துளைகள் (stomata) ஆகும்."
       }
@@ -768,20 +768,20 @@
       "en": {
         "q": "How do desert plants like cactus survive with very little water?",
         "options": [
-          "They have no stem and float on water",
+          "They have no stem and float on the water surface",
           "They have large flat leaves that lose a lot of water",
-          "They store water in the stem, have leaves reduced to spines and have long roots going deep into the soil",
-          "They have very short roots near the surface only"
+          "They store water in the stem and have leaves reduced to spines",
+          "They have very short roots that spread near the surface"
         ],
         "explanation": "Desert plants conserve water by thick water-storing stems, spiny reduced leaves and deep roots."
       },
       "ta": {
         "q": "கள்ளி போன்ற பாலைவனத் தாவரங்கள் மிகக் குறைந்த நீரில் வாழ்வது எவ்வாறு?",
         "options": [
-          "தண்டே இல்லாமல் நீரில் மிதப்பதால்",
+          "தண்டே இல்லாமல் நீரின் மேற்பரப்பில் மிதப்பதால்",
           "அதிக நீரை இழக்கும் பெரிய தட்டையான இலைகளைக் கொண்டிருப்பதால்",
-          "தண்டில் நீரைச் சேமித்து, இலைகள் முட்களாகச் சுருங்கி, வேர்கள் மண்ணுக்குள் ஆழமாகச் செல்வதால்",
-          "மேற்பரப்பில் மட்டும் மிகக் குறுகிய வேர்கள் இருப்பதால்"
+          "தண்டில் நீரைச் சேமித்து, இலைகள் முட்களாகச் சுருங்கியிருப்பதால்",
+          "மேற்பரப்பை ஒட்டிய மிகக் குறுகிய வேர்கள் இருப்பதால்"
         ],
         "explanation": "பாலைவனத் தாவரங்கள் தடித்த தண்டில் நீரைச் சேமிக்கின்றன; இலைகள் முட்களாகச் சுருங்கியுள்ளன; வேர்கள் ஆழமாகச் செல்கின்றன."
       }
@@ -807,9 +807,9 @@
       "ta": {
         "q": "தார் பாலைவனத்தின் மற்றொரு பெயர்",
         "options": [
-          "கலஹாரி பாலைவனம்",
-          "சகாரா பாலைவனம்",
-          "கோபி பாலைவனம்",
+          "ஆப்பிரிக்காவின் கலஹாரி பாலைவனம்",
+          "ஆப்பிரிக்காவின் சகாரா பாலைவனம்",
+          "ஆசியாவின் கோபி பாலைவனம்",
           "பெரிய இந்தியப் பாலைவனம்"
         ],
         "explanation": "தார் பாலைவனம் பகுதியளவு வடமேற்கு இந்தியாவின் இராஜஸ்தான் மாநிலத்தில் உள்ளது."
@@ -855,10 +855,10 @@
       "en": {
         "q": "A tendril is",
         "options": [
-          "a sharp pointed defensive structure",
-          "a climbing organ that coils round a support in weak-stemmed plants",
-          "an organ that stores water in deserts",
-          "the root cap at the tip of a root"
+          "a sharp pointed structure that protects the plant",
+          "a climbing organ that coils round a support",
+          "a fleshy organ that stores water in deserts",
+          "the protective root cap at the tip of a root"
         ],
         "explanation": "Tendrils help weak-stemmed plants like pea and bitter gourd to climb."
       },
@@ -866,9 +866,9 @@
         "q": "பற்றுக்கம்பி (tendril) என்பது",
         "options": [
           "தற்காப்புக்காக உள்ள கூர்மையான அமைப்பு",
-          "மெல்லிய தண்டுடைய தாவரங்களில் தாங்கியைச் சுற்றிப் படரும் ஏறு உறுப்பு",
+          "தாங்கியைச் சுற்றிப் படரும் ஏறு உறுப்பு",
           "பாலைவனத்தில் நீரைச் சேமிக்கும் உறுப்பு",
-          "வேரின் நுனியிலுள்ள வேர்மூடி"
+          "வேரின் நுனியைப் பாதுகாக்கும் வேர்மூடி"
         ],
         "explanation": "பட்டாணி, பாகற்காய் போன்ற மெல்லிய தண்டுடைய தாவரங்கள் ஏறுவதற்கு பற்றுக்கம்பிகள் உதவுகின்றன."
       }
@@ -913,20 +913,20 @@
       "en": {
         "q": "Clitoria and jasmine are called twiners because they",
         "options": [
-          "grow only in water",
+          "grow floating on the water surface",
           "have thick stems that store water",
           "have leaves modified into thorns",
-          "have weak stems and must climb on a support to survive"
+          "have weak stems and climb on a support"
         ],
         "explanation": "Twiners have weak stems and cannot stand straight on their own."
       },
       "ta": {
         "q": "கிளிட்டோரியா (சங்குப்பூ), மல்லிகை ஆகியவை தழுவுகொடிகள் எனப்படுவதற்குக் காரணம், அவை",
         "options": [
-          "நீரில் மட்டுமே வளர்பவை என்பதே",
+          "நீரின் மேற்பரப்பில் மிதந்து வளர்பவை என்பதே",
           "நீரைச் சேமிக்கும் தடித்த தண்டுடையவை என்பதே",
-          "இலைகள் முட்களாக மாறியவை என்பதே",
-          "மெல்லிய தண்டுடையவையாக இருப்பதால், வாழ்வதற்குத் தாங்கியின் மீது படர வேண்டியிருப்பதே"
+          "இலைகள் முட்களாக மாறியுள்ளவை என்பதே",
+          "மெல்லிய தண்டால் தாங்கியின் மீது படர்கின்றன என்பதே"
         ],
         "explanation": "தழுவுகொடிகளுக்கு மெல்லிய தண்டு உள்ளதால் அவை தாமாக நிமிர்ந்து நிற்க முடியாது."
       }

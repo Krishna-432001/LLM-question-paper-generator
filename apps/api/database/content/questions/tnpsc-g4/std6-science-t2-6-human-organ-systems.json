@@ -101,9 +101,9 @@
       "en": {
         "q": "The bones of the limbs along with their pectoral and pelvic girdles form the",
         "options": [
-          "rib cage",
-          "axial skeleton",
-          "skull",
+          "rib cage and spine",
+          "main axial skeleton",
+          "skull and jaw bones",
           "appendicular skeleton"
         ],
         "explanation": "The axial skeleton consists of the skull, vertebral column and rib cage."
@@ -246,20 +246,20 @@
       "en": {
         "q": "When a wooden scale is tied along the arm, the elbow cannot be bent. This shows that",
         "options": [
-          "a single bone cannot bend; we bend only at the points where bones meet",
-          "bones can bend easily",
-          "muscles cannot contract",
-          "the elbow has no bone"
+          "a bone cannot bend; bending takes place at joints",
+          "bones can bend easily at any point",
+          "the muscles of the arm cannot contract",
+          "the elbow joint is made of soft muscle"
         ],
         "explanation": "Different bones joined at the elbow help it to bend."
       },
       "ta": {
         "q": "ஒரு மரச் சட்டத்தைக் கையுடன் சேர்த்துக் கட்டினால் முழங்கையை மடக்க இயலாது. இதிலிருந்து அறியப்படுவது",
         "options": [
-          "ஒரே எலும்பை மடக்க இயலாது; எலும்புகள் சந்திக்கும் இடங்களில்தான் உடலை மடக்க முடியும்",
-          "எலும்புகளை எளிதாக மடக்க இயலும்",
-          "தசைகள் சுருங்க இயலாது",
-          "முழங்கையில் எலும்பே இல்லை"
+          "ஓர் எலும்பை மடக்க இயலாது; மூட்டுகளில் மடங்கும்",
+          "எலும்புகளை எந்த இடத்திலும் எளிதாக மடக்க இயலும்",
+          "கையிலுள்ள தசைகள் சுருங்க இயலாது",
+          "முழங்கை மூட்டு மென்தசையால் ஆனது"
         ],
         "explanation": "முழங்கையில் இணையும் வெவ்வேறு எலும்புகளே அதை மடக்க உதவுகின்றன."
       }
@@ -306,7 +306,7 @@
         "options": [
           "humerus",
           "stapes",
-          "femur (thigh bone)",
+          "femur",
           "ulna"
         ],
         "explanation": "The thigh bone, femur, is the longest bone."
@@ -333,10 +333,10 @@
       "en": {
         "q": "A baby has more bones than an adult (206) because",
         "options": [
-          "adults have lost bones in accidents",
-          "bones disappear with age",
-          "new bones are added in adults",
-          "some bones of the baby join together as the baby grows"
+          "most adults lose some bones in accidents",
+          "bones slowly disappear with age",
+          "new bones are added as adults age",
+          "some of the baby's bones fuse as it grows"
         ],
         "explanation": "Joining of bones as a baby grows reduces the number to 206 in an adult."
       },
@@ -362,20 +362,20 @@
       "en": {
         "q": "Which statement about muscles is correct, according to the book?",
         "options": [
-          "Muscles can only pull, and two muscles are needed to move a bone at a joint",
-          "Muscles can both push and pull",
-          "A single muscle can move a bone in both directions",
-          "Muscles never relax"
+          "Muscles can pull but cannot push",
+          "Muscles can push but cannot pull",
+          "One muscle can move a bone in both directions",
+          "Muscles remain contracted after use"
         ],
         "explanation": "When one muscle contracts, the other relaxes."
       },
       "ta": {
         "q": "நூலின்படி, தசைகளைப் பற்றிய சரியான கூற்று எது?",
         "options": [
-          "தசைகளால் இழுக்க மட்டுமே முடியும்; ஒரு மூட்டில் எலும்பை அசைக்க இரு தசைகள் தேவை",
-          "தசைகள் தள்ளவும் இழுக்கவும் செய்யும்",
+          "தசைகளால் இழுக்க மட்டுமே முடியும்; தள்ள முடியாது",
+          "தசைகளால் தள்ள மட்டுமே முடியும்; இழுக்க முடியாது",
           "ஒரே தசை எலும்பை இரு திசைகளிலும் அசைக்கும்",
-          "தசைகள் ஒருபோதும் தளர்வடைவதில்லை"
+          "தசைகள் சுருங்கிய நிலையிலேயே இருக்கும்"
         ],
         "explanation": "ஒரு தசை சுருங்கும்போது மற்றொன்று தளர்கிறது."
       }
@@ -510,7 +510,7 @@
           "stomach",
           "small intestine",
           "mouth",
-          "oesophagus"
+          "oesophagus wall"
         ],
         "explanation": "The stomach is the major organ of digestion, but absorption occurs in the small intestine."
       },
@@ -575,9 +575,9 @@
       "ta": {
         "q": "மூச்சுக்குழல் (ட்ரக்கியா) எதனால் தாங்கப்படும் குழாய்?",
         "options": [
-          "இழைம நூல்கள்",
-          "தசை வளையங்கள்",
-          "எலும்புத் தகடுகள்",
+          "மெல்லிய இழைம நூல்கள்",
+          "வலிமையான தசை வளையங்கள்",
+          "கடினமான எலும்புத் தகடுகள்",
           "குருத்தெலும்பு வளையங்கள்"
         ],
         "explanation": "மூச்சுக்குழல் தொண்டை, குரல்வளையை நுரையீரல்களுடன் இணைத்துக் காற்று செல்ல வழி செய்கிறது."
@@ -681,9 +681,9 @@
       "en": {
         "q": "When air is blown through a straw into lime water, the lime water turns milky. This proves that exhaled air is rich in",
         "options": [
-          "hydrogen",
-          "oxygen",
-          "nitrogen",
+          "hydrogen gas",
+          "oxygen gas",
+          "nitrogen gas",
           "carbon dioxide"
         ],
         "explanation": "Carbon dioxide alone can change lime water into milky white."
@@ -691,9 +691,9 @@
       "ta": {
         "q": "உறிஞ்சுகுழல் (ஸ்ட்ரா) வழியாகச் சுண்ணாம்பு நீரில் காற்றை ஊதும்போது அது பால் போல மாறுகிறது. இது வெளிவிடும் காற்றில் அதிகம் இருப்பது எது என்பதை நிரூபிக்கிறது?",
         "options": [
-          "ஹைட்ரஜன்",
-          "ஆக்சிஜன்",
-          "நைட்ரஜன்",
+          "ஹைட்ரஜன் வாயு",
+          "ஆக்சிஜன் வாயு",
+          "நைட்ரஜன் வாயு",
           "கார்பன் டை ஆக்சைடு"
         ],
         "explanation": "கார்பன் டை ஆக்சைடு மட்டுமே சுண்ணாம்பு நீரைப் பால் போல மாற்றும்."
@@ -810,7 +810,7 @@
           "காற்றுப் பைகள்",
           "தசைநாண்கள்",
           "இணைப்புநார்கள்",
-          "நுண்குழாய்கள் (கேபிலரிகள்)"
+          "நுண்குழாய்கள்"
         ],
         "explanation": "இரத்தக் குழாய்கள் இரத்தம் சுற்றிவரும் மூடிய வலைப்பின்னலை உருவாக்குகின்றன."
       }
@@ -827,9 +827,9 @@
         "q": "Red blood corpuscles (RBCs) are produced in the",
         "options": [
           "bone marrow",
-          "heart",
-          "kidney",
-          "lungs"
+          "heart muscle",
+          "kidney tissue",
+          "lung tissue"
         ],
         "explanation": "Blood contains plasma and three types of blood cells: RBCs, WBCs and platelets."
       },
@@ -942,20 +942,20 @@
       "en": {
         "q": "The nervous system is composed of",
         "options": [
-          "neurons or nerve cells",
+          "nerve cells",
           "red blood cells",
-          "alveoli",
-          "nephrons"
+          "lung alveoli",
+          "kidney nephrons"
         ],
         "explanation": "The nervous system includes the brain, spinal cord, sensory organs and nerves."
       },
       "ta": {
         "q": "நரம்பு மண்டலம் எதனால் ஆனது?",
         "options": [
-          "நியூரான்கள் அல்லது நரம்பு செல்கள்",
+          "நரம்பு செல்கள்",
           "இரத்தச் சிவப்பணுக்கள்",
-          "காற்றுப் பைகள்",
-          "நெஃப்ரான்கள்"
+          "நுரையீரல் காற்றுப் பைகள்",
+          "சிறுநீரக நெஃப்ரான்கள்"
         ],
         "explanation": "நரம்பு மண்டலத்தில் மூளை, தண்டுவடம், உணர்வு உறுப்புகள், நரம்புகள் அடங்கும்."
       }
@@ -982,7 +982,7 @@
         "q": "தண்டுவடம் என்பது எதன் நீட்சி?",
         "options": [
           "முன்மூளையின் பெருமூளை",
-          "பின்மூளையின் முகுளம் (மெடுல்லா ஆப்லாங்கேட்டா)",
+          "பின்மூளையின் முகுளம்",
           "நடுமூளையின் சிறுமூளை",
           "மண்டையோடு"
         ],
@@ -1003,7 +1003,7 @@
           "motor output",
           "sensory input",
           "integration",
-          "conduction only"
+          "conduction"
         ],
         "explanation": "The three functions are sensory input, integration and motor output."
       },
@@ -1012,8 +1012,8 @@
         "options": [
           "இயக்க வெளியீடு எனப்படும்",
           "உணர்வு உள்ளீடு எனப்படும்",
-          "ஒருங்கிணைப்பு (இன்டகிரேஷன்) எனப்படும்",
-          "கடத்தல் மட்டுமே எனப்படும்"
+          "ஒருங்கிணைப்பு எனப்படும்",
+          "கடத்தல் எனப்படும்"
         ],
         "explanation": "நரம்பு மண்டலத்தின் மூன்று செயல்பாடுகள் உணர்வு உள்ளீடு, ஒருங்கிணைப்பு, இயக்க வெளியீடு."
       }
@@ -1029,10 +1029,10 @@
       "en": {
         "q": "Besides hearing, the ears also help us in",
         "options": [
-          "seeing near objects",
-          "tasting food",
-          "smelling flowers",
-          "maintaining the balance of the body"
+          "seeing objects that are near",
+          "tasting the food we eat",
+          "smelling flowers and food",
+          "keeping the body balanced"
         ],
         "explanation": "The ear has three parts: the outer ear, the middle ear and the inner ear."
       },
@@ -1087,9 +1087,9 @@
       "en": {
         "q": "Pricking the ears with toothpicks or hairpins is dangerous because it may",
         "options": [
-          "damage the pinna only",
-          "puncture the ear drum and cause ear infection",
-          "improve hearing",
+          "damage the outer pinna",
+          "puncture the ear drum",
+          "improve our hearing",
           "clean the inner ear"
         ],
         "explanation": "Ears should also be protected from hard blows."
@@ -1097,8 +1097,8 @@
       "ta": {
         "q": "பல்குத்தும் குச்சிகள் அல்லது ஊக்குகளால் காதைக் குடைவது ஆபத்தானது; ஏனெனில் அது",
         "options": [
-          "காதுமடலை மட்டும் சேதப்படுத்தும்",
-          "செவிப்பறையைத் துளைத்துக் காது தொற்றை ஏற்படுத்தக்கூடும்",
+          "காதுமடலைச் சேதப்படுத்தும்",
+          "செவிப்பறையைத் துளைக்கும்",
           "கேட்கும் திறனை மேம்படுத்தும்",
           "உட்காதைத் தூய்மைப்படுத்தும்"
         ],
@@ -1214,7 +1214,7 @@
         "q": "மார்புக் குழியின் அடிப்பகுதியை அமைக்கும் பெரிய தட்டையான தசை",
         "options": [
           "பைசெப்ஸ்",
-          "உதரவிதானம் (டயாஃப்ரம்)",
+          "உதரவிதானம்",
           "ட்ரைசெப்ஸ்",
           "ப்ளூரா"
         ],

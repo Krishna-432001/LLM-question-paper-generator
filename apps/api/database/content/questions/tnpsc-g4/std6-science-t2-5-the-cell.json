@@ -54,7 +54,7 @@
         "q": "ராபர்ட் ஹூக் தன் நுண்ணோக்கியில் எந்தப் பொருளின் மெல்லிய துண்டுகளைக் கண்டு, ஆறு பக்க வடிவிலான பல சிறிய ஒத்த அறைகளைக் கண்டார்?",
         "options": [
           "வெங்காயத் தோல்",
-          "கார்க் (தக்கை)",
+          "கார்க்",
           "இலை",
           "வண்ணத்துப்பூச்சியின் இறக்கை"
         ],
@@ -72,20 +72,20 @@
       "en": {
         "q": "Hooke focused the light of an oil-lamp on the specimens to illuminate them brightly using a",
         "options": [
-          "torch",
-          "mirror",
+          "torch light",
+          "plane mirror",
           "water lens",
-          "candle"
+          "candle flame"
         ],
         "explanation": "He built a compound microscope and placed a water lens beside it."
       },
       "ta": {
         "q": "மாதிரிகளைப் பிரகாசமாக ஒளியூட்டுவதற்காக எண்ணெய் விளக்கின் ஒளியைக் குவிக்க ஹூக் பயன்படுத்தியது",
         "options": [
-          "டார்ச் விளக்கு",
-          "கண்ணாடி",
+          "டார்ச் ஒளி",
+          "தட்டைக் கண்ணாடி",
           "நீர் வில்லை",
-          "மெழுகுவர்த்தி"
+          "மெழுகுவர்த்தி ஒளி"
         ],
         "explanation": "அவர் கூட்டு நுண்ணோக்கியை உருவாக்கி அதன் அருகில் நீர் வில்லையை வைத்தார்."
       }
@@ -101,9 +101,9 @@
       "en": {
         "q": "The branch of science that deals with the study of cells is called",
         "options": [
-          "Ecology",
-          "Zoology",
-          "Botany",
+          "Human Ecology",
+          "Marine Zoology",
+          "Applied Botany",
           "Cell Biology"
         ],
         "explanation": "Cell Biology is the study of cells."
@@ -333,20 +333,20 @@
       "en": {
         "q": "Which of the following is present in eukaryotic cells but absent in prokaryotic cells?",
         "options": [
-          "The ability to be seen only under a microscope",
-          "A cell membrane",
-          "Cytoplasm",
-          "A true nucleus and membrane-bound organelles"
+          "Being visible under a microscope",
+          "A thin cell membrane",
+          "Cytoplasm inside the cell",
+          "A membrane-bound true nucleus"
         ],
         "explanation": "Eukaryotic cells have a true nucleus with a nuclear membrane and membrane-bound organelles."
       },
       "ta": {
         "q": "புரோகேரியாட்டிக் செல்களில் இல்லாமல் யூகேரியாட்டிக் செல்களில் மட்டும் காணப்படுவது எது?",
         "options": [
-          "நுண்ணோக்கியால் மட்டுமே காண முடிவது",
-          "செல் சவ்வு",
-          "சைட்டோபிளாசம்",
-          "உண்மையான உட்கருவும் சவ்வினால் சூழப்பட்ட நுண்ணுறுப்புகளும்"
+          "நுண்ணோக்கியில் காணத்தக்க அளவு",
+          "செல்லைச் சூழ்ந்துள்ள செல் சவ்வு",
+          "செல்லினுள் உள்ள சைட்டோபிளாசம்",
+          "சவ்வினால் சூழப்பட்ட உண்மையான உட்கரு"
         ],
         "explanation": "யூகேரியாட்டிக் செல்களில் உட்கருச் சவ்வுடன் கூடிய உண்மையான உட்கருவும் சவ்வினால் சூழப்பட்ட நுண்ணுறுப்புகளும் உள்ளன."
       }
@@ -362,20 +362,20 @@
       "en": {
         "q": "Which of the following organisms is made of prokaryotic cells?",
         "options": [
-          "Escherichia coli bacteria",
-          "Mango tree",
-          "Human being",
-          "Yeast"
+          "E. coli bacteria",
+          "Banyan or mango tree",
+          "An adult human being",
+          "Yeast fungus"
         ],
         "explanation": "Bacteria are prokaryotes; plants, animals and most fungi are eukaryotes."
       },
       "ta": {
         "q": "பின்வரும் உயிரினங்களுள் புரோகேரியாட்டிக் செல்களால் ஆனது எது?",
         "options": [
-          "எஸ்கெரிக்கியா கோலை பாக்டீரியா",
-          "மாமரம்",
-          "மனிதன்",
-          "ஈஸ்ட்"
+          "ஈ. கோலை பாக்டீரியா",
+          "ஆலமரம் அல்லது மாமரம்",
+          "வளர்ந்த மனிதன்",
+          "ஈஸ்ட் பூஞ்சை"
         ],
         "explanation": "பாக்டீரியாக்கள் புரோகேரியோட்டுகள்; தாவரங்கள், விலங்குகள், பெரும்பாலான பூஞ்சைகள் யூகேரியோட்டுகள்."
       }
@@ -393,8 +393,8 @@
         "options": [
           "lime water",
           "iodine solution",
-          "ink",
-          "vinegar"
+          "writing ink",
+          "white vinegar"
         ],
         "explanation": "After staining, a cover slip is placed and the peel is observed under the microscope."
       },
@@ -403,8 +403,8 @@
         "options": [
           "சுண்ணாம்பு நீர்",
           "அயோடின் கரைசல்",
-          "மை",
-          "காடி (வினிகர்)"
+          "எழுதும் மை",
+          "வெள்ளைக் காடி"
         ],
         "explanation": "சாயமிட்ட பின் மூடு வில்லை வைத்து நுண்ணோக்கியில் காண வேண்டும்."
       }
@@ -546,10 +546,10 @@
       "ta": {
         "q": "'செல்லின் ஆற்றல் நிலையம்' என அழைக்கப்படும் நுண்ணுறுப்பு எது?",
         "options": [
-          "செல் சுவர்",
-          "நுண்குமிழ்",
+          "செல் சுவர் அமைப்பு",
+          "பெரிய நுண்குமிழ்",
           "மைட்டோகாண்ட்ரியா",
-          "உட்கரு"
+          "செல்லின் உட்கரு"
         ],
         "explanation": "மைட்டோகாண்ட்ரியா செல்லுக்குத் தேவையான பெரும்பாலான ஆற்றலை உற்பத்தி செய்து வழங்குகின்றன."
       }

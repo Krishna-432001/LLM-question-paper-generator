@@ -24,7 +24,7 @@
       "ta": {
         "q": "வேதியியலாளர்கள் மஞ்சள் தூளை எவ்வாறு அடையாளம் காண்கிறார்கள்?",
         "options": [
-          "இயற்கைக் காட்டி (Natural indicator)",
+          "இயற்கைக் காட்டி",
           "செயற்கைச் சாயம்",
           "வேதி உரம்",
           "இயற்கை ஒட்டுப்பொருள்"
@@ -82,10 +82,10 @@
       "ta": {
         "q": "வெங்காயத்தை நறுக்கும்போது கண்ணில் நீர் வருவதற்குக் காரணம், அதிலுள்ள எந்த வேதிப்பொருள்?",
         "options": [
-          "சோடியம் குளோரைடு",
-          "அசிட்டிக் அமிலம்",
+          "சோடியம் குளோரைடு உப்பு",
+          "அசிட்டிக் அமிலக் கரைசல்",
           "புரோப்பனீத்தியல் S-ஆக்சைடு",
-          "கார்பாலிக் அமிலம்"
+          "கார்பாலிக் அமிலத் திரவம்"
         ],
         "explanation": "வெங்காயத்திலுள்ள எளிதில் ஆவியாகும் புரோப்பனீத்தியல் S-ஆக்சைடு கண்ணை அடைவதால் கண்ணீர் வருகிறது."
       }
@@ -286,7 +286,7 @@
         "q": "பின்வருவனவற்றுள் கரிம உரம் எது?",
         "options": [
           "யூரியா",
-          "மண்புழு உரம் (Vermi compost)",
+          "மண்புழு உரம்",
           "அமோனியம் சல்பேட்",
           "சூப்பர் பாஸ்பேட்"
         ],
@@ -333,10 +333,10 @@
       "en": {
         "q": "Inorganic fertilizers are prepared by",
         "options": [
-          "mixing cement with iron mesh",
+          "mixing cement with iron mesh in factories",
           "decaying of plant and animal wastes in pits",
           "the action of earthworms on organic wastes",
-          "making natural elements undergo chemical changes in factories"
+          "chemical changes of natural elements in factories"
         ],
         "explanation": "Inorganic fertilizers such as urea are made in factories through chemical changes in natural elements."
       },
@@ -462,7 +462,7 @@
           "ஜிப்சத்தை",
           "யூரியாவை",
           "சூப்பர் பாஸ்பேட்டை",
-          "உரக் கழிவுகளை (Compost castings)"
+          "உரக் கழிவுகளை"
         ],
         "explanation": "மண்புழுக்கள் கரிமக் கழிவுகளை உண்டு, மண்ணின் வளத்தை மேம்படுத்தும் உரக் கழிவுகளை (compost castings) வெளியேற்றுகின்றன."
       }
@@ -536,10 +536,10 @@
       "en": {
         "q": "What is the role of gypsum in cement?",
         "options": [
-          "It makes the cement dissolve in water",
-          "It gives the cement its grey colour",
-          "It controls the rate of hardening (setting) of the cement",
-          "It binds the iron mesh to the cement"
+          "It makes the cement dissolve in water quickly",
+          "It gives the hardened cement its grey colour",
+          "It controls the rate of setting of the cement",
+          "It binds the iron mesh firmly to the cement"
         ],
         "explanation": "Gypsum is added to control the setting of cement."
       },
@@ -694,7 +694,7 @@
           "பிளாஸ்டர் ஆஃப் பாரிஸ்",
           "கான்கிரீட்",
           "வலுவூட்டப்பட்ட சிமெண்ட் கான்கிரீட்",
-          "சாந்து (Mortar)"
+          "சாந்து"
         ],
         "explanation": "சிமெண்ட், மணல், நீர் கலந்த குழைவான சாந்து சுவர் கட்டவும், பூசவும், தரை அமைக்கவும் பயன்படுகிறது."
       }
@@ -827,7 +827,7 @@
         "q": "When gypsum is heated to make plaster of Paris, the gypsum",
         "options": [
           "gets partially dehydrated",
-          "burns completely to carbon",
+          "burns away to carbon",
           "absorbs a lot of water",
           "melts into a liquid fertilizer"
         ],
@@ -836,8 +836,8 @@
       "ta": {
         "q": "பிளாஸ்டர் ஆஃப் பாரிஸ் தயாரிக்க ஜிப்சத்தைச் சூடாக்கும்போது, ஜிப்சத்துக்கு என்ன நிகழ்கிறது?",
         "options": [
-          "பகுதியளவு நீர் நீங்குகிறது (நீரற்றதாகிறது)",
-          "முழுவதும் எரிந்து கார்பனாகிறது",
+          "பகுதியளவு நீர் நீங்குகிறது",
+          "எரிந்து கார்பனாகிறது",
           "அதிக நீரை உறிஞ்சுகிறது",
           "உருகி திரவ உரமாகிறது"
         ],
@@ -855,20 +855,20 @@
       "en": {
         "q": "Which of the following is a use of plaster of Paris?",
         "options": [
-          "Making soaps",
+          "Making toilet soaps",
           "Making blackboard chalks",
-          "Making urea",
-          "Making adhesives"
+          "Making urea fertilizer",
+          "Making wall adhesives"
         ],
         "explanation": "Plaster of Paris is used for blackboard chalks, setting fractured bones, casts for statues and toys, and construction."
       },
       "ta": {
         "q": "பிளாஸ்டர் ஆஃப் பாரிஸின் பயன்களில் ஒன்று எது?",
         "options": [
-          "சவர்க்காரம் தயாரித்தல்",
-          "கரும்பலகைச் சுண்ணக்கட்டிகள் தயாரித்தல்",
-          "யூரியா தயாரித்தல்",
-          "ஒட்டுப்பொருள்கள் தயாரித்தல்"
+          "குளியல் சவர்க்காரம் தயாரித்தல்",
+          "கரும்பலகைச் சுண்ணக்கட்டி தயாரித்தல்",
+          "யூரியா உரம் தயாரித்தல்",
+          "சுவர் ஒட்டுப்பொருள்கள் தயாரித்தல்"
         ],
         "explanation": "கரும்பலகைச் சுண்ணக்கட்டிகள், எலும்பு முறிவுக் கட்டு, சிலைகள், பொம்மைகளுக்கான வார்ப்புகள், கட்டடத் தொழில் ஆகியவற்றில் இது பயன்படுகிறது."
       }
@@ -972,19 +972,19 @@
         "q": "In low concentrations, phenol is used in",
         "options": [
           "making blackboard chalks and casts",
-          "mouthwash and as a disinfectant in household cleaners",
-          "making cement and concrete",
-          "making soaps and fertilizers"
+          "mouthwash and household cleaners",
+          "making cement and concrete blocks",
+          "making soaps and urea fertilizers"
         ],
         "explanation": "Phenol in low concentrations is used in mouthwash and as a disinfectant in household cleaners."
       },
       "ta": {
         "q": "குறைந்த செறிவில் பீனால் எவற்றில் பயன்படுத்தப்படுகிறது?",
         "options": [
-          "கரும்பலகைச் சுண்ணக்கட்டி, வார்ப்புகள் செய்ய",
-          "வாய் கொப்பளிக்கும் திரவம், வீட்டுச் சுத்திகரிப்பான்களில் கிருமிநாசினியாக",
-          "சிமெண்ட், கான்கிரீட் தயாரிக்க",
-          "சவர்க்காரம், உரங்கள் தயாரிக்க"
+          "கரும்பலகைச் சுண்ணக்கட்டிகள், வார்ப்புகள் தயாரிக்க",
+          "வாய் கொப்பளிக்கும் திரவம், வீட்டுச் சுத்திகரிப்பான்",
+          "சிமெண்ட், கான்கிரீட் கட்டுமானப் பொருள்கள் தயாரிக்க",
+          "சவர்க்காரம், வேதி உரங்கள் ஆகியவை தயாரிக்க"
         ],
         "explanation": "குறைந்த செறிவுள்ள பீனால் வாய் கொப்பளிக்கும் திரவத்திலும், வீட்டுச் சுத்திகரிப்பான்களில் கிருமிநாசினியாகவும் பயன்படுகிறது."
       }
@@ -1042,7 +1042,7 @@
           "சாந்து",
           "உரம்",
           "சலவைத்தூள்",
-          "ஒட்டுப்பொருள் (Adhesive)"
+          "ஒட்டுப்பொருள்"
         ],
         "explanation": "பசை போன்ற அப்பொருள் ஒட்டுப்பொருள் எனப்படும்; இது பசை, கோந்து எனவும் அழைக்கப்படுகிறது."
       }
@@ -1068,7 +1068,7 @@
       "ta": {
         "q": "இயற்கை ஒட்டுப்பொருள்கள் எதிலிருந்து தயாரிக்கப்படுகின்றன?",
         "options": [
-          "மாவுப்பொருள் (ஸ்டார்ச்)",
+          "மாவுப்பொருள்",
           "கொழுப்பு",
           "புரதம்",
           "வைட்டமின்கள்"
@@ -1087,20 +1087,20 @@
       "en": {
         "q": "While repairing a puncture, the shopkeeper applies firm pressure on the patch because it",
         "options": [
-          "removes the dust from the tyre",
-          "increases the adhesive capacity at both the surfaces and ensures proper binding",
+          "removes the dust from the tyre tube",
+          "improves the binding of both surfaces",
           "makes the adhesive evaporate quickly",
-          "makes the tube-patch thinner"
+          "makes the tube-patch much thinner"
         ],
         "explanation": "Pressure increases the adhesive capacity at both surfaces and ensures proper binding."
       },
       "ta": {
         "q": "சைக்கிள் பஞ்சர் ஒட்டும்போது கடைக்காரர் ஒட்டுத்துண்டை அழுத்துவது ஏன்?",
         "options": [
-          "டயரிலுள்ள தூசியை நீக்குவதால்",
-          "இரு பரப்புகளிலும் ஒட்டும் திறன் அதிகரித்து நன்கு இணைவதை உறுதி செய்வதால்",
+          "டயர் குழாயிலுள்ள தூசியை நீக்குவதால்",
+          "இரு பரப்புகளும் நன்கு இணைவதை உறுதி செய்வதால்",
           "ஒட்டுப்பொருள் விரைவாக ஆவியாவதால்",
-          "ஒட்டுத்துண்டு மெல்லியதாவதால்"
+          "ஒட்டுத்துண்டு மிகவும் மெல்லியதாவதால்"
         ],
         "explanation": "அழுத்துவதால் இரு பரப்புகளிலும் ஒட்டும் திறன் கூடி, நன்கு இணைவது உறுதியாகிறது."
       }

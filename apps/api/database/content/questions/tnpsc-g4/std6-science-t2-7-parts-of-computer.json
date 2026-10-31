@@ -14,7 +14,7 @@
       "en": {
         "q": "The three key units of a computer are the input unit, the output unit and the",
         "options": [
-          "Central Processing Unit (CPU)",
+          "CPU",
           "keyboard",
           "monitor",
           "power supply"
@@ -24,9 +24,9 @@
       "ta": {
         "q": "கணினியின் மூன்று முக்கியப் பிரிவுகள் உள்ளீட்டுப் பிரிவு, வெளியீட்டுப் பிரிவு மற்றும்",
         "options": [
-          "மையச் செயலகம் (CPU)",
+          "மையச் செயலகம்",
           "விசைப்பலகை",
-          "திரை (மானிட்டர்)",
+          "திரை",
           "மின்வழங்கி"
         ],
         "explanation": "இம்மூன்று பிரிவுகளையும் புரிந்துகொண்டால் கணினியை எளிதாக இயக்கலாம்."
@@ -43,20 +43,20 @@
       "en": {
         "q": "Which of the following is an input device, according to the book?",
         "options": [
-          "Monitor",
+          "Monitor screen",
           "Barcode reader",
-          "Printer",
-          "Speaker"
+          "Laser printer",
+          "Audio speaker"
         ],
         "explanation": "Monitor, printer and speaker are output devices."
       },
       "ta": {
         "q": "நூலின்படி, பின்வருவனவற்றுள் உள்ளீட்டுக் கருவி எது?",
         "options": [
-          "திரை (மானிட்டர்)",
+          "மானிட்டர் திரை",
           "பார்கோடு படிப்பான்",
-          "அச்சுப்பொறி",
-          "ஒலிபெருக்கி"
+          "லேசர் அச்சுப்பொறி",
+          "ஆடியோ ஒலிபெருக்கி"
         ],
         "explanation": "திரை, அச்சுப்பொறி, ஒலிபெருக்கி ஆகியவை வெளியீட்டுக் கருவிகள்."
       }
@@ -130,7 +130,7 @@
       "en": {
         "q": "Which part of the computer is called its brain?",
         "options": [
-          "Central Processing Unit (CPU)",
+          "CPU",
           "Monitor",
           "Keyboard",
           "Printer"
@@ -140,8 +140,8 @@
       "ta": {
         "q": "கணினியின் மூளை என அழைக்கப்படும் பகுதி எது?",
         "options": [
-          "மையச் செயலகம் (CPU)",
-          "திரை (மானிட்டர்)",
+          "மையச் செயலகம்",
+          "திரை",
           "விசைப்பலகை",
           "அச்சுப்பொறி"
         ],
@@ -246,20 +246,20 @@
       "en": {
         "q": "Nowadays computers use TFT monitors rather than CRT monitors because TFT monitors",
         "options": [
-          "occupy less space and emit less heat",
+          "are slim and emit less heat",
           "are heavier and bigger",
-          "use more electricity",
-          "emit more heat"
+          "use much more electricity",
+          "emit more heat and light"
         ],
         "explanation": "TFT monitors are slimmer and cooler than CRT monitors."
       },
       "ta": {
         "q": "இக்காலக் கணினிகளில் CRT திரைகளுக்குப் பதிலாக TFT திரைகள் பயன்படுத்தப்படுவதற்குக் காரணம், TFT திரைகள்",
         "options": [
-          "குறைந்த இடத்தை அடைத்து, குறைந்த வெப்பத்தை வெளியிடுவதே",
-          "எடையும் அளவும் அதிகமானவை என்பதே",
-          "அதிக மின்சாரத்தைப் பயன்படுத்துவதே",
-          "அதிக வெப்பத்தை வெளியிடுவதே"
+          "மெலிதாக இருந்து குறைந்த வெப்பத்தை வெளியிடுவதே",
+          "எடையிலும் அளவிலும் பெரியவை என்பதே",
+          "மிக அதிக மின்சாரத்தைப் பயன்படுத்துவதே",
+          "மிக அதிக வெப்பத்தை வெளியிடுவதே"
         ],
         "explanation": "CRT திரைகளைவிட TFT திரைகள் மெல்லியவை; குறைந்த வெப்பத்தை வெளியிடுபவை."
       }
@@ -372,7 +372,7 @@
       "ta": {
         "q": "தனியாள் கணினிகள் (மேசைக் கணினி, மடிக்கணினி, டேப்லெட்) எந்த வகையில் அடங்கும்?",
         "options": [
-          "நுண் கணினிகள் (மைக்ரோ)",
+          "நுண் கணினிகள்",
           "மெயின்பிரேம் கணினிகள்",
           "மினி கணினிகள்",
           "சூப்பர் கணினிகள்"
@@ -488,7 +488,7 @@
       "ta": {
         "q": "ஒரு மின்சாதனத்தை முதன்மை மின்சாரத்துடன் தற்காலிகமாக இணைக்கும் வடம்",
         "options": [
-          "மின்வடம் (பவர் கார்டு)",
+          "மின்வடம்",
           "ஆடியோ ஜாக்",
           "மைக் வடம்",
           "தரவு வடம்"
@@ -548,7 +548,7 @@
         "options": [
           "VGA வடம்",
           "ஈத்தர்நெட் வடம்",
-          "வை-ஃபை (Wi-Fi)",
+          "வை-ஃபை",
           "USB வடம்"
         ],
         "explanation": "புளூடூத்தும் வை-ஃபையும் வயர்லெஸ் இணைப்புகள்."

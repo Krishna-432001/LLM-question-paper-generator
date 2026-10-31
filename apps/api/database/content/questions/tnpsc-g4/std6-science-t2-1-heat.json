@@ -101,10 +101,10 @@
       "en": {
         "q": "Which of the following is true about heat?",
         "options": [
-          "It occupies space but has no weight",
-          "It is a form of matter that occupies space",
-          "It has weight but does not occupy space",
-          "It is a form of energy that occupies no space and has no weight"
+          "It occupies a lot of space but has no weight",
+          "It is a form of matter that occupies some space",
+          "It has some weight but does not occupy space",
+          "It is energy that occupies no space and has no weight"
         ],
         "explanation": "Heat is a form of energy like light, sound and electricity; it is not matter."
       },
@@ -188,20 +188,20 @@
       "en": {
         "q": "Why is measuring temperature by touching not correct?",
         "options": [
-          "Water always feels colder than it really is",
-          "Our hands cannot feel anything above 30 °C",
-          "The same water can feel hot or cold depending on the temperature of the hand",
-          "Touch can only tell the weight of an object"
+          "Water usually feels colder than it really is",
+          "Our hands cannot feel heat above 30 °C",
+          "Water feels hot or cold depending on the hand",
+          "Our skin has no sense of heat or cold"
         ],
         "explanation": "The sensation depends on the temperature of the hand, so a thermometer is needed for accurate readings."
       },
       "ta": {
         "q": "தொடுவதன் மூலம் வெப்பநிலையை அளப்பது ஏன் சரியல்ல?",
         "options": [
-          "நீர் எப்போதும் உண்மையைவிடக் குளிர்ச்சியாகவே தோன்றும்",
-          "30 °C-க்கு மேல் உள்ளதை நம் கையால் உணர இயலாது",
-          "கையின் வெப்பநிலைக்கேற்ப ஒரே நீர் சூடாகவோ குளிராகவோ உணரப்படும்",
-          "தொடு உணர்வால் பொருளின் எடையை மட்டுமே அறிய முடியும்"
+          "நீர் பொதுவாக உண்மையைவிடக் குளிராகத் தோன்றும்",
+          "30 °C-க்கு மேல் உள்ள வெப்பத்தை நம் கையால் உணர இயலாது",
+          "கையின் வெப்பநிலைக்கேற்ப நீர் சூடாகவோ குளிராகவோ தோன்றும்",
+          "நம் தோலுக்கு வெப்பத்தையோ குளிரையோ உணரும் திறன் இல்லை"
         ],
         "explanation": "கையின் வெப்பநிலையைப் பொறுத்து ஒரே நீர் வெவ்வேறாக உணரப்படுவதால், வெப்பநிலைமானி தேவைப்படுகிறது."
       }
@@ -373,9 +373,9 @@
         "q": "ஒரு பொருளிலுள்ள வெப்பம் அதன் வெப்பநிலையைப் பொறுத்தும், மேலும் எதைப் பொறுத்தும் அமையும்?",
         "options": [
           "அதிலுள்ள மூலக்கூறுகளின் எண்ணிக்கை",
-          "பொருளின் நிறம்",
-          "கொள்கலனின் வடிவம்",
-          "நாளின் நேரம்"
+          "பொருளின் நிறமும் தோற்றமும்",
+          "கொள்கலனின் வடிவமும் நிறமும்",
+          "நாளின் நேரமும் பருவமும்"
         ],
         "explanation": "ஒரே வெப்பநிலையில் அதிக மூலக்கூறுகள் இருந்தால் மொத்த இயக்க ஆற்றல் அதிகம், எனவே வெப்பமும் அதிகம்."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "An iron ball at 50 °C is dropped into a mug of water at 50 °C. The heat will",
         "options": [
-          "not flow either from the iron ball to the water or from the water to the iron ball",
-          "flow from the iron ball to the water",
-          "flow from the water to the iron ball",
-          "increase the temperature of both"
+          "not flow either from the ball to the water or back",
+          "flow from the iron ball to the water in the mug",
+          "flow from the water to the iron ball in the mug",
+          "increase the temperature of both of them"
         ],
         "explanation": "Both are at the same temperature, so they are in thermal equilibrium and there is no net flow of heat."
       },
       "ta": {
         "q": "50 °C வெப்பநிலையில் உள்ள ஓர் இரும்புக் குண்டு, 50 °C வெப்பநிலை நீருள்ள குவளையில் போடப்படுகிறது. அப்போது வெப்பம்",
         "options": [
-          "இரும்புக் குண்டிலிருந்து நீருக்கும், நீரிலிருந்து இரும்புக் குண்டுக்கும் பாயாது",
-          "இரும்புக் குண்டிலிருந்து நீருக்குப் பாயும்",
-          "நீரிலிருந்து இரும்புக் குண்டுக்குப் பாயும்",
-          "இரண்டின் வெப்பநிலையையும் உயர்த்தும்"
+          "இரும்புக் குண்டிலிருந்து நீருக்கும் நீரிலிருந்து குண்டுக்கும் பாயாது",
+          "இரும்புக் குண்டிலிருந்து குவளை நீருக்குப் பாயும்",
+          "குவளை நீரிலிருந்து இரும்புக் குண்டுக்குப் பாயும்",
+          "இரண்டின் வெப்பநிலையையும் ஒரே நேரத்தில் உயர்த்தும்"
         ],
         "explanation": "இரண்டும் ஒரே வெப்பநிலையில் இருப்பதால் வெப்பச் சமநிலையில் உள்ளன; வெப்பப் பாய்வு இல்லை."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "Substances expand on heating because their molecules",
         "options": [
-          "grow larger in size",
-          "move faster, spread apart and occupy more space",
-          "increase in number",
-          "become lighter in weight"
+          "swell up to a larger size",
+          "move faster and spread apart",
+          "increase in number when heated",
+          "become lighter in weight when hot"
         ],
         "explanation": "The number of molecules does not change on heating; they only move faster and spread apart."
       },
       "ta": {
         "q": "பொருள்கள் வெப்பப்படுத்தும்போது விரிவடைவதற்குக் காரணம், அவற்றின் மூலக்கூறுகள்",
         "options": [
-          "அளவில் பெரிதாகின்றன",
-          "வேகமாக இயங்கி, விலகிச் சென்று அதிக இடத்தை அடைத்துக்கொள்கின்றன",
+          "வீங்கி அளவில் பெரிதாகின்றன",
+          "வேகமாக இயங்கி, விலகிச் செல்கின்றன",
           "எண்ணிக்கையில் அதிகரிக்கின்றன",
-          "எடையில் குறைகின்றன"
+          "வெப்பத்தால் எடையில் குறைகின்றன"
         ],
         "explanation": "வெப்பப்படுத்தும்போது மூலக்கூறுகளின் எண்ணிக்கை மாறாது; அவை வேகமாக இயங்கி விலகிச் செல்கின்றன."
       }
@@ -652,20 +652,20 @@
       "en": {
         "q": "When a solid is heated, it expands in",
         "options": [
-          "area only",
-          "length only",
+          "area, but not length or volume",
+          "length, but not area or volume",
           "length, area and volume",
-          "volume only"
+          "volume, but not length or area"
         ],
         "explanation": "A solid has a definite shape, so heating increases its length, area and volume."
       },
       "ta": {
         "q": "ஒரு திண்மம் வெப்பப்படுத்தப்படும்போது அது விரிவடைவது",
         "options": [
-          "பரப்பில் மட்டும்",
-          "நீளத்தில் மட்டும்",
-          "நீளம், பரப்பு, கனஅளவு ஆகிய அனைத்திலும்",
-          "கனஅளவில் மட்டும்"
+          "பரப்பில், ஆனால் நீளம், கனஅளவில் அல்ல",
+          "நீளத்தில், ஆனால் பரப்பு, கனஅளவில் அல்ல",
+          "நீளம், பரப்பு, கனஅளவு ஆகிய மூன்றிலும்",
+          "கனஅளவில், ஆனால் நீளம், பரப்பில் அல்ல"
         ],
         "explanation": "திண்மம் அனைத்து திசைகளிலும் விரிவடைவதால் நீளம், பரப்பு, கனஅளவு மூன்றும் அதிகரிக்கும்."
       }
@@ -691,10 +691,10 @@
       "ta": {
         "q": "இறுக்கமான புட்டியின் மூடியின்மீது சூடான நீரை ஊற்றினால் அதைத் திறப்பது எளிதாவதற்குக் காரணம், மூடி",
         "options": [
-          "சற்று உருகுகிறது",
-          "எடை குறைகிறது",
-          "கடினமாகிறது",
-          "வெப்பத்தால் விரிவடைகிறது"
+          "சற்று உருகிவிடுகிறது",
+          "எடை குறைந்து இலேசாகிறது",
+          "கடினமாகி இறுகுகிறது",
+          "சூடாகி விரிவடைகிறது"
         ],
         "explanation": "பெரும்பாலான பொருள்கள் வெப்பத்தால் விரிவடைகின்றன; மூடி சற்றுப் பெரிதாகித் தளர்கிறது."
       }
@@ -780,7 +780,7 @@
         "options": [
           "அது உருகி மரத்தில் ஒட்டிக்கொள்கிறது",
           "அது எடை குறைந்து மென்மையாகிறது",
-          "அது விரிவடைந்து சக்கரத்தின்மீது எளிதாகப் பொருந்துகிறது",
+          "அது விரிவடைந்து எளிதாகப் பொருந்துகிறது",
           "அது நிறம் மாறி அழகாகத் தோன்றுகிறது"
         ],
         "explanation": "வளையத்தின் விட்டம் சக்கரத்தைவிடச் சற்றுக் குறைவு; சூடாக்கினால் விரிவடைந்து எளிதில் பொருந்தும்."
@@ -826,20 +826,20 @@
       "en": {
         "q": "After the hot iron ring is slipped over a wooden wheel, cold water is poured on it so that the ring",
         "options": [
-          "contracts and holds the wheel tightly",
-          "expands further",
-          "becomes lighter",
-          "becomes a magnet"
+          "contracts and grips the wheel",
+          "expands further and loosens",
+          "becomes lighter in weight",
+          "becomes a weak magnet"
         ],
         "explanation": "On cooling, the iron ring contracts and grips the wooden wheel tightly."
       },
       "ta": {
         "q": "சூடான இரும்பு வளையத்தை மரச் சக்கரத்தில் பொருத்திய பின் அதன்மீது குளிர்ந்த நீர் ஊற்றப்படுவது, வளையம்",
         "options": [
-          "சுருங்கிச் சக்கரத்தை இறுக்கமாகப் பிடித்துக்கொள்வதற்காக",
-          "மேலும் விரிவடைவதற்காக",
-          "எடை குறைவதற்காக",
-          "காந்தமாவதற்காக"
+          "சுருங்கிச் சக்கரத்தை இறுகப் பற்றுவதற்காக",
+          "மேலும் விரிவடைந்து தளர்வதற்காக",
+          "எடை குறைந்து இலேசாவதற்காக",
+          "வலுவற்ற காந்தமாவதற்காக"
         ],
         "explanation": "குளிர்ந்தவுடன் இரும்பு வளையம் சுருங்கி மரச் சக்கரத்தை இறுக்கமாகப் பற்றிக்கொள்கிறது."
       }
@@ -884,9 +884,9 @@
       "en": {
         "q": "Electric wires between two posts are left slightly slack so that",
         "options": [
-          "they become cheaper",
+          "they cost less to install",
           "they can carry more current",
-          "they are free to change length with the temperature",
+          "they can expand and contract freely",
           "they do not conduct heat"
         ],
         "explanation": "Wires contract in cold weather and expand and sag in summer, so slack is left for the change in length."
@@ -896,7 +896,7 @@
         "options": [
           "செலவு குறைவதற்காக",
           "அவை அதிக மின்னோட்டத்தைக் கடத்துவதற்காக",
-          "வெப்பநிலைக்கேற்ப அவற்றின் நீளம் மாற இடமளிப்பதற்காக",
+          "விரிவடையவும் சுருங்கவும் இடமளிப்பதற்காக",
           "அவை வெப்பத்தைக் கடத்தாமல் இருப்பதற்காக"
         ],
         "explanation": "குளிர்காலத்தில் கம்பிகள் சுருங்கும், கோடையில் விரிந்து தொய்யும்; எனவே தளர்வாக விடப்படுகின்றன."
@@ -923,10 +923,10 @@
       "ta": {
         "q": "தடித்த கண்ணாடித் தம்ளரில் சூடான திரவத்தை ஊற்றினால் அது வெடிப்பதற்குக் காரணம்",
         "options": [
-          "கண்ணாடி சீராகச் சுருங்குவதே",
-          "கண்ணாடி வெப்பத்தை நன்கு கடத்துவதே",
-          "கண்ணாடி முழுவதும் உருகுவதே",
-          "அதன் உட்புறமும் வெளிப்புறமும் சீரற்ற முறையில் விரிவடைவதே"
+          "கண்ணாடி முழுவதும் சீராகச் சுருங்குவதே",
+          "கண்ணாடி வெப்பத்தை மிக நன்றாகக் கடத்துவதே",
+          "கண்ணாடி சூட்டில் முழுவதும் உருகுவதே",
+          "உட்புறமும் வெளிப்புறமும் சமமின்றி விரிவடைவதே"
         ],
         "explanation": "கண்ணாடி வெப்பத்தை மோசமாகக் கடத்துவதால் உட்புறம் மட்டும் விரிவடைகிறது; இந்தச் சீரற்ற விரிவால் தம்ளர் வெடிக்கிறது."
       }
@@ -942,20 +942,20 @@
       "en": {
         "q": "Kitchen and laboratory glassware is generally made of borosilicate (pyrex) glass because it",
         "options": [
-          "does not expand much on heating and so does not crack",
+          "expands very little on heating",
           "is a very good conductor of heat",
           "melts at room temperature",
-          "is lighter than all other glass"
+          "is lighter than ordinary glass"
         ],
         "explanation": "Borosilicate glass expands very little on heating, so it does not crack."
       },
       "ta": {
         "q": "சமையலறை, ஆய்வகக் கண்ணாடிப் பாத்திரங்கள் பெரும்பாலும் போரோசிலிகேட் (பைரெக்ஸ்) கண்ணாடியால் செய்யப்படுவதற்குக் காரணம், அது",
         "options": [
-          "வெப்பத்தால் அதிகம் விரிவடையாததால் வெடிக்காது",
+          "வெப்பத்தால் மிகக் குறைவாக விரிவடையும்",
           "வெப்பத்தை மிக நன்றாகக் கடத்தும்",
           "அறை வெப்பநிலையிலேயே உருகும்",
-          "மற்ற எல்லாக் கண்ணாடிகளையும்விட எடை குறைந்தது"
+          "சாதாரணக் கண்ணாடியைவிட எடை குறைந்தது"
         ],
         "explanation": "போரோசிலிகேட் கண்ணாடி வெப்பத்தால் மிகக் குறைவாகவே விரிவடைவதால் வெடிப்பதில்லை."
       }

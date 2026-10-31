@@ -24,10 +24,10 @@
       "ta": {
         "q": "சரிசெய்யக்கூடிய, சாதி, சமயம், மொழி, பொருளாதார அடிப்படையிலான ஏற்றத்தாழ்வுகள் எவ்வாறு அழைக்கப்படுகின்றன?",
         "options": [
-          "மனிதனால் உருவாக்கப்பட்ட ஏற்றத்தாழ்வுகள்",
-          "இயற்கை ஏற்றத்தாழ்வுகள்",
-          "குடிமைச் சமத்துவங்கள்",
-          "அரசியல் சமத்துவங்கள்"
+          "மனிதன் உருவாக்கிய ஏற்றத்தாழ்வுகள்",
+          "இயற்கையால் அமைந்த ஏற்றத்தாழ்வுகள்",
+          "குடிமை சார்ந்த சமத்துவங்கள்",
+          "அரசியல் சார்ந்த சமத்துவங்கள்"
         ],
         "explanation": "நிறம், உயரம், திறமை போன்ற இயற்கை ஏற்றத்தாழ்வுகளைச் சரிசெய்ய முடியாது; சாதி, சமயம், மொழி, பொருளாதார அடிப்படையிலான மனிதனால் உருவான ஏற்றத்தாழ்வுகளைச் சரிசெய்யலாம்."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "According to UNICEF, gender equality means that",
         "options": [
-          "women and men, and girls and boys, enjoy the same rights, resources, opportunities and protections",
-          "women and men must be treated exactly alike in every way",
-          "girls and boys must become the same",
-          "only women get special rights"
+          "women and men enjoy the same rights and opportunities",
+          "women and men must be treated alike in every way",
+          "girls and boys must become the same as one another",
+          "women get special rights that men do not have"
         ],
         "explanation": "UNICEF says gender equality does not require that men and women be the same or be treated exactly alike, only that they enjoy the same rights, resources, opportunities and protections."
       },
       "ta": {
         "q": "யுனிசெஃப் (UNICEF) கூற்றுப்படி பாலினச் சமத்துவம் என்பது என்ன?",
         "options": [
-          "பெண்களும் ஆண்களும், சிறுமிகளும் சிறுவர்களும் ஒரே உரிமைகள், வளங்கள், வாய்ப்புகள், பாதுகாப்புகளைப் பெறுவது",
-          "பெண்களும் ஆண்களும் எல்லா வகையிலும் முற்றிலும் ஒரே மாதிரி நடத்தப்படுவது",
-          "சிறுமிகளும் சிறுவர்களும் ஒன்றுபோல் ஆவது",
-          "பெண்களுக்கு மட்டும் சிறப்புரிமைகள் வழங்குவது"
+          "பெண்களும் ஆண்களும் ஒரே உரிமைகளையும் வாய்ப்புகளையும் பெறுவது",
+          "பெண்களும் ஆண்களும் எல்லா வகையிலும் ஒரே மாதிரி நடத்தப்படுவது",
+          "சிறுமிகளும் சிறுவர்களும் ஒரே மாதிரி ஆகிவிட வேண்டும் என்பது",
+          "ஆண்களுக்கு இல்லாத சிறப்புரிமைகள் பெண்களுக்கு வழங்குவது"
         ],
         "explanation": "ஆண்களும் பெண்களும் ஒன்றுபோல் இருக்கவோ முற்றிலும் ஒரே மாதிரி நடத்தப்படவோ தேவையில்லை; ஒரே உரிமைகள், வளங்கள், வாய்ப்புகள், பாதுகாப்புகளைப் பெறுவதே பாலினச் சமத்துவம் என்கிறது யுனிசெஃப்."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "Social equality means that",
         "options": [
-          "all citizens must follow the same religion",
-          "all citizens get equal income",
-          "all citizens can contest elections at 18",
-          "all citizens are entitled to equal status in society, without discrimination of caste, creed, colour or race"
+          "all citizens must follow the same religion and customs",
+          "all citizens must earn the same income every year",
+          "all citizens can contest elections from the age of 18",
+          "all citizens have equal status in society without discrimination"
         ],
         "explanation": "Social equality gives all citizens equal status and equal opportunity to develop their personality, without discrimination."
       },
       "ta": {
         "q": "சமூகச் சமத்துவம் என்பது என்ன?",
         "options": [
-          "அனைவரும் ஒரே சமயத்தைப் பின்பற்ற வேண்டும் என்பது",
-          "அனைவரும் சம வருமானம் பெறுவது",
-          "அனைவரும் 18 வயதில் தேர்தலில் போட்டியிடலாம் என்பது",
-          "சாதி, மதம், நிறம், இனப் பாகுபாடின்றிச் சமூகத்தில் அனைத்துக் குடிமக்களும் சம நிலை பெறுவது"
+          "அனைவரும் ஒரே சமயத்தையும் பழக்கங்களையும் பின்பற்ற வேண்டும் என்பது",
+          "அனைவரும் ஆண்டுதோறும் ஒரே வருமானம் ஈட்ட வேண்டும் என்பது",
+          "அனைவரும் 18 வயது முதல் தேர்தலில் போட்டியிடலாம் என்பது",
+          "சாதி, மதம், நிறம், இனப் பாகுபாடின்றிச் சமூகத்தில் அனைவரும் சம நிலை பெறுவது"
         ],
         "explanation": "சமூகச் சமத்துவம் பாகுபாடின்றி அனைவருக்கும் சம நிலையையும் ஆளுமை வளர்ச்சிக்குச் சம வாய்ப்பையும் வழங்குகிறது."
       }
