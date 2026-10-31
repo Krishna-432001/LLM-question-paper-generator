@@ -14,20 +14,20 @@
       "en": {
         "q": "The wall of the human heart is made up of",
         "options": [
-          "endocardium only",
-          "epicardium only",
-          "epicardium, myocardium and endocardium",
-          "myocardium only"
+          "endocardium and pericardium",
+          "epicardium and pericardium",
+          "epicardium, myocardium, endocardium",
+          "myocardium and pericardium"
         ],
         "explanation": "The heart wall has three layers: the outer epicardium, the middle muscular myocardium and the inner endocardium."
       },
       "ta": {
         "q": "மனித இதயத்தின் சுவர் எவற்றால் ஆனது?",
         "options": [
-          "எண்டோகார்டியம் மட்டும்",
-          "எபிகார்டியம் மட்டும்",
-          "எபிகார்டியம், மையோகார்டியம், எண்டோகார்டியம் ஆகிய மூன்றாலும்",
-          "மையோகார்டியம் மட்டும்"
+          "எண்டோகார்டியமும் பெரிகார்டியமும்",
+          "எபிகார்டியமும் பெரிகார்டியமும்",
+          "எபிகார்டியம், மையோகார்டியம், எண்டோகார்டியம்",
+          "மையோகார்டியமும் பெரிகார்டியமும்"
         ],
         "explanation": "இதயச் சுவர் வெளி எபிகார்டியம், நடு தசையாலான மையோகார்டியம், உள் எண்டோகார்டியம் ஆகிய மூன்று அடுக்குகளால் ஆனது."
       }
@@ -53,10 +53,10 @@
       "ta": {
         "q": "இரத்தத்தின் இயைபு தொடர்பான சரியானது எது?",
         "options": [
-          "இரத்தம் = பிளாஸ்மா + RBC + WBC + இரத்தத் தட்டுகள்",
-          "பிளாஸ்மா = இரத்தம் + லிம்போசைட்",
-          "சீரம் = இரத்தம் + ஃபைப்ரினோஜன்",
-          "நிணநீர் = பிளாஸ்மா + RBC + WBC"
+          "இரத்தம் = பிளாஸ்மா + RBC + WBC + தட்டுகள்",
+          "பிளாஸ்மா = இரத்தம் + லிம்போசைட் + RBC",
+          "சீரம் = இரத்தம் + ஃபைப்ரினோஜன் + நீர்",
+          "நிணநீர் = பிளாஸ்மா + RBC + WBC + தட்டுகள்"
         ],
         "explanation": "இரத்தம் என்பது பிளாஸ்மாவும் அதில் மிதக்கும் சிவப்பணுக்கள், வெள்ளையணுக்கள், தட்டுகளும் சேர்ந்தது."
       }
@@ -104,7 +104,7 @@
           "nuclear",
           "mitochondrial",
           "vacuolar only",
-          "plasma (semi-permeable)"
+          "plasma"
         ],
         "explanation": "Water moves into the root hair cell by osmosis through the semi-permeable plasma membrane."
       },
@@ -114,7 +114,7 @@
           "உட்கரு",
           "மைட்டோகாண்ட்ரியா",
           "நுண்குமிழ் மட்டும்",
-          "பிளாஸ்மா (அரைதுளைகடத்தும்)"
+          "பிளாஸ்மா"
         ],
         "explanation": "சவ்வூடு பரவல் மூலம் நீர் அரைதுளைகடத்தும் பிளாஸ்மா சவ்வு வழியாக வேர்த்தூவி செல்லுக்குள் நுழைகிறது."
       }
@@ -256,10 +256,10 @@
       "ta": {
         "q": "மனித இரத்தத்திலுள்ள RBC-யின் வடிவம் என்ன?",
         "options": [
-          "கோள வடிவம்",
-          "கோல் வடிவம்",
-          "அமீபா வடிவம்",
-          "இருபுறமும் குழிந்த வட்டத்தட்டு"
+          "முழுக் கோள வடிவம்",
+          "நீண்ட கோல் வடிவம்",
+          "ஒழுங்கற்ற அமீபா வடிவம்",
+          "இருபுறக் குழிவான வட்டத்தட்டு"
         ],
         "explanation": "முதிர்ந்த பாலூட்டிகளின் RBC இருபுறமும் குழிந்த வட்டத்தட்டு வடிவம் கொண்டது."
       }
@@ -391,20 +391,20 @@
       "en": {
         "q": "Minerals cannot be absorbed passively by roots because",
         "options": [
-          "they dissolve only in oil",
-          "root hairs have no membrane",
-          "they move only through phloem",
-          "their concentration in the soil is low and they are taken in against the gradient by active transport"
+          "they dissolve only in oil and not at all in water",
+          "root hairs have no cell membrane at all",
+          "they move only through the phloem tissue",
+          "their concentration in soil is low, so they need active transport"
         ],
         "explanation": "Minerals are absorbed by active transport, an energy-requiring uphill movement against the concentration gradient."
       },
       "ta": {
         "q": "கனிமங்களை வேர்கள் சாதாரணப் பரவல் மூலம் உறிஞ்ச முடியாது; ஏனெனில்",
         "options": [
-          "அவை எண்ணெயில் மட்டுமே கரையும்",
-          "வேர்த்தூவிகளுக்குச் சவ்வு இல்லை",
-          "அவை ஃப்ளோயம் வழியாக மட்டுமே செல்லும்",
-          "மண்ணில் அவற்றின் செறிவு குறைவு; எனவே செறிவு சரிவுக்கு எதிராக ஆற்றல்சார் கடத்துதல் மூலம் எடுக்கப்படுகின்றன"
+          "அவை எண்ணெயில் மட்டுமே கரையும், நீரில் கரையாது",
+          "வேர்த்தூவிகளுக்குச் செல் சவ்வே இல்லை",
+          "அவை ஃப்ளோயம் திசு வழியாக மட்டுமே செல்லும்",
+          "மண்ணில் செறிவு குறைவு; எனவே ஆற்றல்சார் கடத்துதல் தேவை"
         ],
         "explanation": "கனிமங்கள் செறிவு சரிவுக்கு எதிராக ஆற்றலைப் பயன்படுத்தும் ஆற்றல்சார் கடத்துதல் மூலம் உறிஞ்சப்படுகின்றன."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "Doctors use a stethoscope to listen to the heart sounds ('LUBB' and 'DUPP') because they",
         "options": [
-          "help to diagnose the working of the heart valves and heart disease",
-          "measure blood pressure directly",
-          "count the red blood cells",
-          "show the blood group"
+          "help to diagnose heart valve problems",
+          "measure blood pressure directly in mmHg",
+          "count the red blood cells in blood",
+          "show the blood group of the patient"
         ],
         "explanation": "A stethoscope detects heart sounds, a useful diagnostic tool to localize health problems and diagnose disease."
       },
       "ta": {
         "q": "மருத்துவர்கள் இதய ஒலியைக் கேட்க ஸ்டெத்தாஸ்கோப்பைப் பயன்படுத்தக் காரணம், இந்த ஒலிகள்",
         "options": [
-          "இதய வால்வுகளின் செயல்பாட்டையும் இதய நோய்களையும் கண்டறிய உதவுகின்றன",
-          "இரத்த அழுத்தத்தை நேரடியாக அளக்கின்றன",
-          "சிவப்பணுக்களை எண்ண உதவுகின்றன",
-          "இரத்த வகையைக் காட்டுகின்றன"
+          "இதய வால்வு பிரச்சனைகளைக் கண்டறிய உதவுகின்றன",
+          "இரத்த அழுத்தத்தை mmHg-ல் நேரடியாக அளக்கின்றன",
+          "இரத்தத்திலுள்ள சிவப்பணுக்களை எண்ண உதவுகின்றன",
+          "நோயாளியின் இரத்த வகையைக் காட்டுகின்றன"
         ],
         "explanation": "ஸ்டெத்தாஸ்கோப் இதய ஒலிகளைக் கண்டறிகிறது; இது நோயைக் கண்டறிய உதவும் கருவி."
       }
@@ -546,7 +546,7 @@
       "ta": {
         "q": "இதயத்தின் மற்ற அறைகளை விட இடது வென்ட்ரிக்கிளின் சுவர் தடிமனாக இருப்பது ஏன்?",
         "options": [
-          "உடலின் அனைத்துப் பகுதிகளுக்கும் ஆக்சிஜன் மிகுந்த இரத்தத்தைச் செலுத்துவதால்",
+          "உடல் முழுவதும் ஆக்சிஜன் இரத்தத்தைச் செலுத்துவதால்",
           "நுரையீரலிலிருந்து மட்டும் இரத்தத்தைப் பெறுவதால்",
           "நுரையீரலுக்கு மட்டும் இரத்தத்தைச் செலுத்துவதால்",
           "வால்வுகள் இல்லாததால்"
@@ -594,20 +594,20 @@
       "en": {
         "q": "Transpiration is called a 'necessary evil' in plants because it",
         "options": [
-          "causes no water loss",
-          "only produces oxygen",
-          "stops mineral absorption",
-          "causes loss of water but helps in the ascent of sap and cooling"
+          "causes no loss of water to the plant",
+          "only produces oxygen for the plant",
+          "completely stops mineral absorption by roots",
+          "causes water loss but helps sap ascent and cooling"
         ],
         "explanation": "Transpiration wastes water, yet it creates the pull that raises water and minerals and cools the plant."
       },
       "ta": {
         "q": "நீராவிப்போக்கு தாவரங்களில் 'அவசியமான தீங்கு' எனப்படுவது ஏனெனில் அது",
         "options": [
-          "நீர் இழப்பை ஏற்படுத்துவதில்லை",
-          "ஆக்சிஜனை மட்டுமே உருவாக்குகிறது",
-          "கனிம உறிஞ்சுதலை நிறுத்துகிறது",
-          "நீரை இழக்கச் செய்தாலும் சாறேற்றத்திற்கும் குளிர்விப்பதற்கும் உதவுகிறது"
+          "தாவரத்திற்கு நீர் இழப்பை ஏற்படுத்துவதில்லை",
+          "தாவரத்திற்கு ஆக்சிஜனை மட்டுமே உருவாக்குகிறது",
+          "வேர்கள் கனிமங்களை உறிஞ்சுவதை முற்றிலும் நிறுத்துகிறது",
+          "நீரை இழக்கச் செய்தாலும் சாறேற்றத்திற்கு உதவுகிறது"
         ],
         "explanation": "நீராவிப்போக்கால் நீர் வீணாகிறது; ஆனால் அது நீர், கனிமங்களை மேலேற்றும் இழுவிசையையும் குளிர்ச்சியையும் தருகிறது."
       }

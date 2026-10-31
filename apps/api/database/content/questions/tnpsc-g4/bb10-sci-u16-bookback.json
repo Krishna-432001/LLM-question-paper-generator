@@ -101,20 +101,20 @@
       "en": {
         "q": "In the human ovary, estrogen is produced by the",
         "options": [
-          "corpus luteum",
+          "Sertoli cells",
           "Leydig cells",
           "Graafian follicles",
-          "zona glomerulosa"
+          "zona glomerulosa layer"
         ],
         "explanation": "The book statement is false: estrogen comes from the Graafian follicles; progesterone comes from the corpus luteum."
       },
       "ta": {
         "q": "மனித அண்டகத்தில் ஈஸ்ட்ரோஜன் எதிலிருந்து சுரக்கிறது?",
         "options": [
-          "கார்பஸ் லூட்டியம்",
+          "செர்டோலி செல்கள்",
           "லீடிக் செல்கள்",
           "கிராஃபியன் பாலிக்கிள்கள்",
-          "சோனா குளோமருலோசா"
+          "சோனா குளோமருலோசா அடுக்கு"
         ],
         "explanation": "புத்தகக் கூற்று தவறு; ஈஸ்ட்ரோஜன் கிராஃபியன் பாலிக்கிள்களிலிருந்தும், புரோஜெஸ்டிரான் கார்பஸ் லூட்டியத்திலிருந்தும் சுரக்கின்றன."
       }
@@ -306,7 +306,7 @@
         "options": [
           "growth hormone and prolactin",
           "TSH and ACTH",
-          "vasopressin (ADH) and oxytocin",
+          "vasopressin and oxytocin",
           "FSH and LH"
         ],
         "explanation": "The posterior pituitary secretes vasopressin (antidiuretic hormone) and oxytocin; the others are anterior pituitary hormones."
@@ -316,7 +316,7 @@
         "options": [
           "வளர்ச்சி ஹார்மோன், புரோலாக்டின்",
           "TSH, ACTH",
-          "வாசோபிரஸ்ஸின் (ADH), ஆக்ஸிடோசின்",
+          "வாசோபிரஸ்ஸின், ஆக்ஸிடோசின்",
           "FSH, LH"
         ],
         "explanation": "பின் பிட்யூட்டரி வாசோபிரஸ்ஸின் (ADH), ஆக்ஸிடோசின் ஆகியவற்றைச் சுரக்கிறது; மற்றவை முன் பிட்யூட்டரி ஹார்மோன்கள்."
@@ -333,20 +333,20 @@
       "en": {
         "q": "If gibberellin is applied to rice seedlings, they will",
         "options": [
-          "show excessive stem elongation like the 'foolish seedling' (Bakanae) disease",
-          "become dwarf",
-          "stop growing",
-          "turn yellow and die at once"
+          "grow abnormally tall, as in the 'foolish seedling' disease",
+          "become stunted dwarf plants with short stems",
+          "stop growing altogether after some time",
+          "turn yellow and die at once without growth"
         ],
         "explanation": "Gibberella fujikuroi, which secretes gibberellin, causes excessive elongation in rice (Bakanae disease), so applied gibberellin does the same."
       },
       "ta": {
         "q": "நெல் நாற்றுகளில் ஜிப்ரல்லின் தெளிக்கப்பட்டால் என்ன நிகழும்?",
         "options": [
-          "'முட்டாள் நாற்று' (பக்கானே) நோயைப் போல அதிகமாக நீளும்",
-          "குள்ளமாகும்",
-          "வளர்ச்சி நின்றுவிடும்",
-          "உடனே மஞ்சளாகி இறக்கும்"
+          "'முட்டாள் நாற்று' நோயைப் போல அசாதாரணமாக உயரமாக வளரும்",
+          "குறுகிய தண்டுடன் குள்ளமாகத் தேங்கி நிற்கும்",
+          "சிறிது காலத்திற்குப் பின் முற்றிலும் வளர்ச்சி நின்றுவிடும்",
+          "வளர்ச்சியின்றி உடனே மஞ்சளாகி இறக்கும்"
         ],
         "explanation": "ஜிப்ரல்லினைச் சுரக்கும் ஜிப்ரெல்லா ஃபுஜிகுராய் நெல்லில் அளவுக்கதிக நீட்சியை (பக்கானே நோய்) ஏற்படுத்துகிறது; ஜிப்ரல்லின் தெளித்தாலும் அதுவே நிகழும்."
       }
@@ -362,20 +362,20 @@
       "en": {
         "q": "A man is very tired, urinates frequently and needs a daily injection to keep blood glucose normal. The likely cause is",
         "options": [
-          "excess thyroxine",
-          "insufficient insulin secretion by the beta cells of the pancreas",
-          "deficiency of ADH",
-          "excess growth hormone"
+          "excess thyroxine from the thyroid gland",
+          "insufficient insulin secretion by the pancreas",
+          "deficiency of ADH from the pituitary",
+          "excess growth hormone from the pituitary"
         ],
         "explanation": "Beta cells of the islets of Langerhans secrete insulin; its deficiency causes diabetes mellitus with raised glucose, glycosuria and polyuria, treated with insulin injections."
       },
       "ta": {
         "q": "ஒருவர் மிகவும் சோர்வடைந்து அடிக்கடி சிறுநீர் கழிக்கிறார்; இரத்தச் சர்க்கரையைப் பராமரிக்கத் தினமும் ஊசி போட அறிவுறுத்தப்படுகிறார். சாத்தியமான காரணம்",
         "options": [
-          "அதிகத் தைராக்சின்",
-          "கணையத்தின் பீட்டா செல்கள் போதுமான இன்சுலினைச் சுரக்காதது",
-          "ADH குறைபாடு",
-          "அதிக வளர்ச்சி ஹார்மோன்"
+          "தைராய்டு சுரப்பியின் அதிகத் தைராக்சின்",
+          "கணையம் போதிய இன்சுலினைச் சுரக்காதது",
+          "பிட்யூட்டரி சுரக்கும் ADH குறைபாடு",
+          "பிட்யூட்டரியின் அதிக வளர்ச்சி ஹார்மோன்"
         ],
         "explanation": "லாங்கர்ஹான்ஸ் திட்டுகளின் பீட்டா செல்கள் இன்சுலினைச் சுரக்கின்றன; குறைவால் நீரிழிவு நோய் ஏற்பட்டு இன்சுலின் ஊசி தேவைப்படுகிறது."
       }

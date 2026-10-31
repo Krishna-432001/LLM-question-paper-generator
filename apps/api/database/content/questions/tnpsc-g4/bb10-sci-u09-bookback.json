@@ -404,7 +404,7 @@
           "ஈரம் உறிஞ்சிக் கரையும் தன்மை உடையது",
           "வெளிப்பூத்தல் தன்மை உடையது",
           "நீரில் கரையாதது",
-          "நீர் உறிஞ்சும் (ஹைக்ரோஸ்கோப்பிக்) தன்மை உடையது"
+          "ஹைக்ரோஸ்கோப்பிக் தன்மை உடையது"
         ],
         "explanation": "சிலிக்கா ஜெல் உலர்த்தும் காரணியாகப் பயன்படுகிறது."
       }
@@ -430,9 +430,9 @@
       "ta": {
         "q": "கரைசல் என்பது",
         "options": [
-          "தூய பொருள்",
-          "இரண்டு அல்லது அதற்கு மேற்பட்ட பொருட்களின் ஒருபடித்தான கலவை",
-          "இரு தனிமங்களின் சேர்மம்",
+          "ஒரே வகைத் தூய பொருள்",
+          "பல பொருட்களின் ஒருபடித்தான கலவை",
+          "இரு தனிமங்களின் வேதிச் சேர்மம்",
           "இரு பொருட்களின் பலபடித்தான கலவை"
         ],
         "explanation": "எ.கா: கடல்நீர், காற்று."
@@ -491,7 +491,7 @@
           "100 மி.லி கரைபொருளில் உள்ள கரைப்பானின் கனஅளவு",
           "100 கி கரைசலில் உள்ள கரைபொருளின் நிறை",
           "ஒரு லிட்டரில் உள்ள கரைபொருளின் மோல்கள்",
-          "100 மி.லி கரைசலில் உள்ள கரைபொருளின் கனஅளவு (மி.லி)"
+          "100 மி.லி கரைசலில் உள்ள கரைபொருளின் மி.லி கனஅளவு"
         ],
         "explanation": "கரைபொருள், கரைப்பான் இரண்டும் திரவங்களாக இருக்கும்போது இது பயன்படுகிறது."
       }
@@ -536,9 +536,9 @@
       "en": {
         "q": "A hot saturated solution of copper sulphate forms crystals on cooling because",
         "options": [
-          "copper sulphate becomes a gas",
-          "water evaporates on cooling",
-          "the solubility of the solid decreases with a decrease in temperature",
+          "copper sulphate turns into a gas on cooling",
+          "all the water evaporates quickly on cooling",
+          "the solubility of the solid decreases on cooling",
           "the solubility of the solid increases on cooling"
         ],
         "explanation": "For an endothermic dissolution, solubility increases with temperature, so excess solute separates out as crystals on cooling."
@@ -565,10 +565,10 @@
       "en": {
         "q": "When MgSO₄·7H₂O is heated, it",
         "options": [
-          "turns into MgO and SO₂",
-          "forms Mg and H₂SO₄",
-          "loses its water of crystallisation to form anhydrous MgSO₄",
-          "melts without any change"
+          "turns completely into MgO and SO₂",
+          "decomposes into Mg and H₂SO₄ again",
+          "loses its water of crystallisation",
+          "melts without any chemical change"
         ],
         "explanation": "MgSO₄·7H₂O → MgSO₄ + 7H₂O."
       },
@@ -652,20 +652,20 @@
       "en": {
         "q": "50 g of sugar is dissolved in 250 mL of hot water by Vinu and in 250 mL of cold water by Sarath. The sugar dissolves faster for",
         "options": [
-          "neither, since sugar is insoluble",
-          "both equally",
-          "Vinu, because the solubility of a solid solute increases with temperature",
-          "Sarath, because cold water dissolves more"
+          "neither, since sugar is insoluble in water",
+          "both equally, as temperature has no effect",
+          "Vinu, as solubility increases with temperature",
+          "Sarath, as cold water dissolves more sugar"
         ],
         "explanation": "For an endothermic dissolution, solubility and rate of dissolution increase with temperature."
       },
       "ta": {
         "q": "விணு 50 கி சர்க்கரையை 250 மி.லி சுடுநீரிலும், சரத் அதே சர்க்கரையை 250 மி.லி குளிர்ந்த நீரிலும் கரைக்கின்றனர். சர்க்கரை விரைவாகக் கரைவது",
         "options": [
-          "இருவருக்கும் இல்லை; சர்க்கரை கரையாது",
-          "இருவருக்கும் சமம்",
-          "விணுவுக்கு; வெப்பநிலை உயர்ந்தால் திண்மத்தின் கரைதிறன் அதிகரிக்கும்",
-          "சரத்துக்கு; குளிர்நீர் அதிகம் கரைக்கும்"
+          "இருவருக்கும் இல்லை; நீரில் சர்க்கரை கரையாது",
+          "இருவருக்கும் சமம்; வெப்பநிலையின் விளைவு இல்லை",
+          "விணுவுக்கு; வெப்பநிலை உயர்ந்தால் கரைதிறன் அதிகரிக்கும்",
+          "சரத்துக்கு; குளிர்நீர் அதிகச் சர்க்கரையைக் கரைக்கும்"
         ],
         "explanation": "வெப்பம் கொள் கரைதலில் வெப்பநிலை உயர உயர கரைதிறனும் கரையும் வேகமும் கூடும்."
       }

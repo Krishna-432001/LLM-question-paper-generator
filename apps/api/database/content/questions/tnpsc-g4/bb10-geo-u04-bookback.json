@@ -72,9 +72,9 @@
         "q": "The city called the 'Manchester of South India' is",
         "options": [
           "Coimbatore",
-          "Salem",
-          "Chennai",
-          "Madurai"
+          "Tirunelveli",
+          "Thanjavur",
+          "Vellore"
         ],
         "explanation": "Coimbatore has about 200 of Tamil Nadu's 435 cotton mills. Mumbai is the 'Manchester of India'."
       },
@@ -82,9 +82,9 @@
         "q": "தென்னிந்தியாவின் மான்செஸ்டர் என அழைக்கப்படும் நகரம்",
         "options": [
           "கோயம்புத்தூர்",
-          "சேலம்",
-          "சென்னை",
-          "மதுரை"
+          "திருநெல்வேலி",
+          "தஞ்சாவூர்",
+          "வேலூர்"
         ],
         "explanation": "தமிழ்நாட்டின் 435 நூற்பாலைகளில் சுமார் 200 கோவையில் உள்ளன."
       },
@@ -245,20 +245,20 @@
       "en": {
         "q": "Which of the following is an additional use of manganese mentioned in the unit besides steel making?",
         "options": [
-          "Making aircraft engines",
-          "Making cement",
-          "Making electrical insulators",
-          "Manufacturing of bleaching powder, insecticides, paints and batteries"
+          "Making aircraft engines and parts",
+          "Making cement and concrete blocks",
+          "Making electrical insulators and cables",
+          "Making bleaching powder and batteries"
         ],
         "explanation": "Aircraft engines use aluminium; insulators use mica."
       },
       "ta": {
         "q": "எஃகு தயாரிப்பைத் தவிர மாங்கனீசின் பிற பயன்பாடாகப் பாடநூல் குறிப்பிடுவது",
         "options": [
-          "விமான இயந்திரம் தயாரித்தல்",
-          "சிமெண்ட் தயாரித்தல்",
-          "மின் காப்புப் பொருள்கள் தயாரித்தல்",
-          "சலவைத்தூள், பூச்சிக்கொல்லி, வண்ணப்பூச்சு, மின்கலம் தயாரிப்பு"
+          "விமான இயந்திரங்கள், உதிரிபாகங்கள் தயாரித்தல்",
+          "சிமெண்ட், கான்கிரீட் கட்டைகள் தயாரித்தல்",
+          "மின் காப்புப் பொருள்கள், கம்பிகள் தயாரித்தல்",
+          "சலவைத்தூள், பூச்சிக்கொல்லி, மின்கலம் தயாரிப்பு"
         ],
         "explanation": "விமான இயந்திரத்திற்கு அலுமினியம்; மின்காப்புக்கு மைக்கா."
       },
@@ -372,9 +372,9 @@
         "q": "புதுப்பிக்கும் வளங்களையும் புதுப்பிக்க இயலாத வளங்களையும் வேறுபடுத்தும் சரியான கூற்று",
         "options": [
           "புதுப்பிக்கும் வளங்கள் தீர்ந்துவிடும்; புதுப்பிக்க இயலாதவை மீள்உருவாகும்",
-          "புதுப்பிக்கும் வளங்கள் பயன்படுத்தியபின் இயற்கையாக மீள்உருவாகும்; புதுப்பிக்க இயலாதவை மீண்டும் உருவாகா",
-          "இரண்டும் இயற்கையாக மீள்உருவாகும்",
-          "இரண்டையும் ஆற்றலுக்குப் பயன்படுத்த முடியாது"
+          "புதுப்பிக்கும் வளங்கள் மீள்உருவாகும்; இயலாதவை மீண்டும் உருவாகா",
+          "இரு வகை வளங்களும் பயன்பாட்டிற்குப் பின் இயற்கையாக மீள்உருவாகும்",
+          "இரு வகை வளங்களையும் ஆற்றல் உற்பத்திக்குப் பயன்படுத்த முடியாது"
         ],
         "explanation": "சூரிய, காற்று, உயிரிவாயு ஆகியன புதுப்பிக்கத்தக்கவை; நிலக்கரி, பெட்ரோலியம், இயற்கை எரிவாயு புதுப்பிக்க இயலாதவை."
       },
@@ -400,10 +400,10 @@
       "ta": {
         "q": "உலோகக் கனிமங்கள் என்பவை",
         "options": [
-          "ஒன்று அல்லது அதற்கு மேற்பட்ட உலோகத் தனிமங்களைக் கொண்டவை",
-          "எரிபொருள்கள் மட்டும்",
-          "படிவுப் பாறைகளில் மட்டும் காணப்படுபவை",
-          "உலோகம் இல்லாதவை"
+          "உலோகத் தனிமங்களைக் கொண்டவை",
+          "எரிபொருள்கள் மட்டுமே ஆனவை",
+          "படிவுப் பாறைகளில் மட்டுமே காணப்படுபவை",
+          "உலோகம் சிறிதும் இல்லாதவை"
         ],
         "explanation": "இரும்பு, மாங்கனீசு, செம்பு, பாக்சைட் உலோகக் கனிமங்கள்."
       },
@@ -448,20 +448,20 @@
       "en": {
         "q": "Sugar mills are located near the sugarcane growing areas because sugarcane is",
         "options": [
-          "available only in cities",
-          "light and easy to store",
-          "imported",
-          "weight losing and bulky to transport"
+          "available only in big cities",
+          "light and easy to transport",
+          "imported from foreign countries",
+          "weight-losing and bulky to carry"
         ],
         "explanation": "Jute mills are concentrated along the Hooghly near Kolkata."
       },
       "ta": {
         "q": "கரும்பு விளையும் பகுதிகளுக்கு அருகில் சர்க்கரை ஆலைகள் அமைவதற்குக் காரணம், கரும்பு",
         "options": [
-          "நகரங்களில் மட்டுமே கிடைப்பது",
-          "இலேசானது; சேமிக்க எளிது",
-          "இறக்குமதி செய்யப்படுவது",
-          "எடை குறையக்கூடியது, பருமனானது; கொண்டுசெல்வது கடினம்"
+          "பெருநகரங்களில் மட்டுமே கிடைப்பது",
+          "இலேசானது; கொண்டுசெல்ல எளிது",
+          "வெளிநாடுகளிலிருந்து இறக்குமதி செய்யப்படுவது",
+          "எடை குறையக்கூடியது, பருமனானது"
         ],
         "explanation": "சணல் ஆலைகள் கொல்கத்தாவை அடுத்த ஹூக்ளிக் கரையில் குவிந்துள்ளன."
       },
@@ -477,7 +477,7 @@
       "en": {
         "q": "The major cotton textile industries of India are concentrated in Maharashtra, Gujarat, West Bengal, Uttar Pradesh and",
         "options": [
-          "Assam",
+          "Himachal Pradesh",
           "Punjab",
           "Tamil Nadu",
           "Kerala"
@@ -506,7 +506,7 @@
       "en": {
         "q": "Which of the following is listed as a challenge of Indian industries?",
         "options": [
-          "Shortage and fluctuation in power supply",
+          "Shortage of power supply",
           "Very low interest rates",
           "Surplus of skilled labour",
           "Abundant cheap credit"
@@ -516,7 +516,7 @@
       "ta": {
         "q": "இந்தியத் தொழிற்சாலைகள் எதிர்கொள்ளும் சவால்களில் ஒன்றாகக் குறிப்பிடப்படுவது",
         "options": [
-          "மின் பற்றாக்குறையும் சீரற்ற மின் விநியோகமும்",
+          "மின் பற்றாக்குறை",
           "மிகக் குறைந்த வட்டி",
           "திறமையான தொழிலாளர் உபரி",
           "மலிவான கடன் மிகுதி"

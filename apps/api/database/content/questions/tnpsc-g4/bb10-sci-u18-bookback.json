@@ -14,20 +14,20 @@
       "en": {
         "q": "According to Mendel, alleles are",
         "options": [
-          "the units that always produce gametes",
-          "only recessive factors",
-          "the pair of genes (factors) controlling a pair of contrasting characters",
-          "the segments of RNA"
+          "the units that always produce the gametes of an organism",
+          "only recessive factors that are never expressed",
+          "the pair of genes controlling a pair of contrasting characters",
+          "the short segments of RNA in a ribosome"
         ],
         "explanation": "Alleles are the two factors (genes) of a pair that control a pair of contrasting characters."
       },
       "ta": {
         "q": "மெண்டலின் கூற்றுப்படி அல்லீல்கள் என்பவை",
         "options": [
-          "எப்போதும் கேமீட்டுகளை உருவாக்கும் அலகுகள்",
-          "ஒடுங்கு காரணிகள் மட்டும்",
-          "ஒரு இணை எதிரிடைப் பண்புகளைக் கட்டுப்படுத்தும் இணை மரபணுக்கள் (காரணிகள்)",
-          "RNA துண்டுகள்"
+          "உயிரினத்தின் கேமீட்டுகளை எப்போதும் உருவாக்கும் அலகுகள்",
+          "வெளிப்படாத ஒடுங்கு காரணிகள் மட்டுமே",
+          "ஒரு இணை எதிரிடைப் பண்புகளைக் கட்டுப்படுத்தும் இணை மரபணுக்கள்",
+          "ரைபோசோமிலுள்ள RNA துண்டுகள்"
         ],
         "explanation": "அல்லீல்கள் என்பவை ஓர் இணை எதிரிடைப் பண்புகளைக் கட்டுப்படுத்தும் இரு காரணிகள் (மரபணுக்கள்)."
       }
@@ -172,7 +172,7 @@
           "க்ளோன்",
           "சடுதிமாற்றம் அடைந்தது",
           "தூய்மைக் கால்வழி",
-          "கலப்புயிரி (ஹைபிரிட்)"
+          "கலப்புயிரி"
         ],
         "explanation": "மரபியல்படி வேறுபட்ட பெற்றோரின் கலப்பால் உருவாவது கலப்புயிரி (எ.கா. F1 Tt)."
       }
@@ -307,7 +307,7 @@
           "the 22 pairs of non-sex chromosomes",
           "chromosomes of mitochondria",
           "the ends of chromosomes",
-          "sex chromosomes (the 23rd pair)"
+          "sex chromosomes"
         ],
         "explanation": "Of the 23 pairs in humans, 22 pairs are autosomes and the 23rd pair, the allosomes, determines sex."
       },
@@ -317,7 +317,7 @@
           "பால் சாராத 22 இணை குரோமோசோம்கள்",
           "மைட்டோகாண்ட்ரியா குரோமோசோம்கள்",
           "குரோமோசோமின் முனைகள்",
-          "பால் குரோமோசோம்கள் (23-ஆவது இணை)"
+          "பால் குரோமோசோம்கள்"
         ],
         "explanation": "மனிதரின் 23 இணைகளில் 22 இணை ஆட்டோசோம்கள்; 23-ஆவது இணை அல்லோசோம்கள் (பால் குரோமோசோம்கள்) ஆகும்."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "Okazaki fragments are",
         "options": [
-          "fragments of RNA primer in mRNA",
-          "short DNA segments synthesised on the lagging strand during replication",
-          "broken pieces of chromosomes in mutation",
-          "segments of the DNA backbone"
+          "fragments of RNA primer found in mRNA molecules",
+          "short DNA segments made on the lagging strand",
+          "broken pieces of chromosomes formed in mutation",
+          "segments of the DNA sugar-phosphate backbone"
         ],
         "explanation": "Okazaki fragments are short DNA pieces formed on the lagging strand and joined by DNA ligase."
       },
       "ta": {
         "q": "ஒகாசாகி துண்டுகள் என்பவை",
         "options": [
-          "mRNA-வின் RNA முதன்மைத் துண்டுகள்",
-          "இரட்டிப்பாதலின்போது பின்தங்கிய இழையில் உருவாகும் சிறு DNA துண்டுகள்",
-          "சடுதிமாற்றத்தில் உடைந்த குரோமோசோம் துண்டுகள்",
-          "DNA முதுகெலும்பின் பகுதிகள்"
+          "mRNA-வில் காணப்படும் RNA முதன்மைத் துண்டுகள்",
+          "பின்தங்கிய இழையில் உருவாகும் சிறு DNA துண்டுகள்",
+          "சடுதிமாற்றத்தில் உருவாகும் உடைந்த குரோமோசோம் துண்டுகள்",
+          "DNA சர்க்கரை-பாஸ்பேட் முதுகெலும்பின் பகுதிகள்"
         ],
         "explanation": "ஒகாசாகி துண்டுகள் பின்தங்கிய இழையில் உருவாகும் சிறு DNA துண்டுகள்; DNA லைகேஸ் அவற்றை இணைக்கிறது."
       }

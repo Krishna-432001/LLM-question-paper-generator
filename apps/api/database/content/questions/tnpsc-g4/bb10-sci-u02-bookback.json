@@ -101,10 +101,10 @@
       "en": {
         "q": "The magnification produced by a convex lens is",
         "options": [
-          "zero",
-          "always positive",
-          "always negative",
-          "either positive or negative"
+          "zero at every position",
+          "always positive in value",
+          "always negative in value",
+          "positive or negative"
         ],
         "explanation": "Real images are inverted (m negative); virtual images are erect (m positive)."
       },
@@ -431,7 +431,7 @@
         "q": "கண்ணிற்குள் நுழையும் ஒளியின் அளவைக் கட்டுப்படுத்துவது",
         "options": [
           "சிலியரித் தசைகள்",
-          "கருவிழி (ஐரிஸ்)",
+          "கருவிழி",
           "கார்னியா",
           "விழித்திரை"
         ],
@@ -536,20 +536,20 @@
       "en": {
         "q": "Which statement about the images formed by a convex lens is correct?",
         "options": [
-          "It always forms a small virtual image",
-          "It always forms an enlarged image",
-          "It can form real as well as virtual images depending on the object position",
-          "It always forms a real inverted image"
+          "It always forms a small diminished virtual image",
+          "It always forms an enlarged image of any object",
+          "It forms real or virtual images depending on object position",
+          "It always forms a real and inverted image of any object"
         ],
         "explanation": "When the object is between f and the optic centre the image is virtual, erect and enlarged; otherwise it is real."
       },
       "ta": {
         "q": "குவிலென்சு உருவாக்கும் பிம்பங்கள் பற்றிய சரியான கூற்று எது?",
         "options": [
-          "எப்போதும் சிறிய மாயப்பிம்பம் உருவாகும்",
-          "எப்போதும் பெரிதாக்கப்பட்ட பிம்பம் உருவாகும்",
-          "பொருளின் இடத்தைப் பொறுத்து மெய்ப்பிம்பமும் மாயப்பிம்பமும் உருவாகும்",
-          "எப்போதும் தலைகீழ் மெய்ப்பிம்பம் உருவாகும்"
+          "எப்போதும் சிறிதான மாயப்பிம்பம் மட்டுமே உருவாகும்",
+          "எப்போதும் எந்தப் பொருளுக்கும் பெரிதாக்கப்பட்ட பிம்பம் உருவாகும்",
+          "பொருளின் இடத்தைப் பொறுத்து மெய்ப்பிம்பமோ மாயப்பிம்பமோ உருவாகும்",
+          "எப்போதும் எந்தப் பொருளுக்கும் தலைகீழ் மெய்ப்பிம்பம் உருவாகும்"
         ],
         "explanation": "பொருள் f-க்கும் ஒளியியல் மையத்திற்கும் இடையே இருந்தால் பெரிய நேரான மாயப்பிம்பம்; பிற இடங்களில் மெய்ப்பிம்பம்."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "Snell's law of refraction states that, for a given pair of media,",
         "options": [
-          "sin i × sin r is constant",
-          "i = r always",
-          "µ₁ sin i = µ₂ sin r, i.e. sin i / sin r is constant",
-          "sin i + sin r = 1"
+          "sin i × sin r is a constant",
+          "angle i = angle r always",
+          "sin i / sin r is a constant",
+          "sin i + sin r = 1 always"
         ],
         "explanation": "µ₁ sin i = µ₂ sin r; the ratio of the sine of the angle of incidence to that of refraction is constant."
       },
       "ta": {
         "q": "இரு குறிப்பிட்ட ஊடகங்களுக்கு ஸ்நெல் விதி கூறுவது",
         "options": [
-          "sin i × sin r மாறிலி",
-          "i = r எப்போதும்",
-          "µ₁ sin i = µ₂ sin r; அதாவது sin i / sin r மாறிலி",
-          "sin i + sin r = 1"
+          "sin i × sin r ஒரு மாறிலி",
+          "கோணம் i = கோணம் r எப்போதும்",
+          "sin i / sin r ஒரு மாறிலி",
+          "sin i + sin r = 1 எப்போதும்"
         ],
         "explanation": "µ₁ sin i = µ₂ sin r; படுகோணத்தின் சைன் மதிப்பிற்கும் விலகுகோணத்தின் சைன் மதிப்பிற்கும் உள்ள தகவு மாறிலி."
       }
@@ -740,8 +740,8 @@
         "q": "Which of the following is a property of a concave lens but NOT of a convex lens?",
         "options": [
           "It converges a parallel beam of light to a point",
-          "It is also called a converging lens",
-          "It is thinner at the middle than at the edges and diverges a parallel beam",
+          "It is also known as a converging type of lens",
+          "It is thinner at the middle and diverges parallel light",
           "It is thicker at the middle than at the edges"
         ],
         "explanation": "A concave lens is thinner in the middle, is a diverging lens and always forms a virtual, erect, diminished image."
@@ -751,7 +751,7 @@
         "options": [
           "இணைக்கற்றையை ஒரு புள்ளியில் குவிக்கும்",
           "குவிக்கும் லென்சு எனவும் அழைக்கப்படும்",
-          "விளிம்பை விட மையத்தில் மெலிந்தது; இணைக்கற்றையை விரிக்கும்",
+          "நடுவில் மெலிந்தது; இணைக்கற்றையை விரிக்கும்",
           "விளிம்பை விட மையத்தில் தடிமனானது"
         ],
         "explanation": "குழிலென்சு மையத்தில் மெலிந்தது; விரிக்கும் லென்சு; எப்போதும் நேரான, சிறிய மாயப்பிம்பம் தரும்."
@@ -826,9 +826,9 @@
       "en": {
         "q": "The blue colour of the sky is due to",
         "options": [
-          "reflection of the sea's colour by the sky",
-          "greater scattering of the shorter-wavelength blue light by air molecules",
-          "absorption of blue light by clouds",
+          "reflection of the sea's blue colour by the sky",
+          "greater scattering of blue light by air molecules",
+          "absorption of the blue light by dense clouds",
           "greater scattering of red light than blue light"
         ],
         "explanation": "By Rayleigh scattering, shorter wavelengths are scattered to a greater extent than red."
@@ -836,10 +836,10 @@
       "ta": {
         "q": "வானத்தின் நீல நிறத்திற்குக் காரணம்",
         "options": [
-          "கடலின் நிறத்தை வானம் எதிரொளித்தல்",
-          "குறைந்த அலைநீளமுடைய நீல ஒளி காற்று மூலக்கூறுகளால் மிகுதியாகச் சிதறுதல்",
-          "மேகங்களால் நீல ஒளி உறிஞ்சப்படுதல்",
-          "சிவப்பு ஒளி நீலத்தை விட மிகுதியாகச் சிதறுதல்"
+          "கடலின் நீல நிறத்தை வானம் அப்படியே எதிரொளித்தல்",
+          "நீல ஒளி காற்று மூலக்கூறுகளால் மிகுதியாகச் சிதறுதல்",
+          "அடர்ந்த மேகங்களால் நீல ஒளி உறிஞ்சப்படுதல்",
+          "நீலத்தை விடச் சிவப்பு ஒளி மிகுதியாகச் சிதறுதல்"
         ],
         "explanation": "ராலே சிதறல் விதிப்படி குறைந்த அலைநீளமுள்ள நீல ஒளி சிவப்பை விட அதிகம் சிதறுகிறது."
       }
@@ -855,20 +855,20 @@
       "en": {
         "q": "Traffic signals use red light for 'stop' because red light",
         "options": [
-          "has the shortest wavelength",
-          "is scattered the most",
-          "is scattered the least and hence can be seen from a long distance",
-          "has the lowest speed in air"
+          "has the shortest wavelength among visible colours",
+          "is scattered the most by the molecules of air",
+          "is scattered the least, so it is visible from afar",
+          "has the lowest speed in air among all colours"
         ],
         "explanation": "Red has the longest wavelength among visible colours, so it is scattered least and travels farthest through fog and dust."
       },
       "ta": {
         "q": "போக்குவரத்துச் சைகை விளக்குகள் சிவப்பு நிறத்தில் அமைக்கப்படுவதன் காரணம், சிவப்பு ஒளி",
         "options": [
-          "மிகக் குறைந்த அலைநீளம் உடையதால்",
-          "மிக அதிகமாகச் சிதறுவதால்",
-          "மிகக் குறைவாகச் சிதறுவதால் தொலைவிலிருந்தும் தெரியும்",
-          "காற்றில் மிகக் குறைந்த வேகம் உடையதால்"
+          "கட்புலனாகும் நிறங்களில் மிகக் குறைந்த அலைநீளம் உடையதால்",
+          "காற்று மூலக்கூறுகளால் மிக அதிகமாகச் சிதறுவதால்",
+          "மிகக் குறைவாகச் சிதறுவதால் தொலைவிலிருந்து தெரியும்",
+          "எல்லா நிறங்களிலும் காற்றில் மிகக் குறைந்த வேகம் உடையதால்"
         ],
         "explanation": "தெரியும் நிறங்களில் சிவப்புக்கு அலைநீளம் அதிகம்; எனவே சிதறல் குறைவு; மூடுபனியிலும் தொலைவு வரை செல்லும்."
       }
@@ -952,10 +952,10 @@
       "ta": {
         "q": "ஆந்தை போன்ற இரவு நேரப் பறவைகளின் கண்களில் பெரிய கார்னியாவும் பெரிய கண் பாவையும் இருப்பதன் பயன்",
         "options": [
-          "கண்ணுக்குள் ஒளி நுழைவதைத் தடுக்கிறது",
-          "பிரகாசமான ஒளியில் மட்டும் பார்க்க உதவுகிறது",
+          "கண்ணுக்குள் ஒளி நுழைவதை முற்றிலும் தடுத்து நிறுத்துகிறது",
+          "பகலின் பிரகாசமான ஒளியில் மட்டும் பார்க்க உதவுகிறது",
           "அருகிலுள்ள பொருட்களை மட்டும் பார்க்க உதவுகிறது",
-          "அதிக ஒளியை உள்வாங்கி இரவின் மங்கலான ஒளியிலும் தெளிவாகப் பார்க்க உதவுகிறது"
+          "அதிக ஒளியை உள்வாங்கி இரவில் தெளிவாகப் பார்க்க உதவுகிறது"
         ],
         "explanation": "பெரிய துளை அதிக ஒளியை அனுமதிப்பதால் மங்கலான ஒளியிலும் பிம்பம் உருவாகிறது."
       }

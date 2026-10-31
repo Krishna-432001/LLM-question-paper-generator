@@ -129,8 +129,8 @@
       "en": {
         "q": "The major import item of India is",
         "options": [
-          "cement",
-          "tea",
+          "cement and clinker",
+          "tea and coffee",
           "sports goods",
           "petroleum products"
         ],
@@ -139,10 +139,10 @@
       "ta": {
         "q": "இந்தியாவின் முக்கிய இறக்குமதிப் பொருள்",
         "options": [
-          "சிமெண்ட்",
-          "தேயிலை",
+          "சிமெண்ட், கிளிங்கர்",
+          "தேயிலை, காபி",
           "விளையாட்டுப் பொருள்கள்",
-          "பெட்ரோலியம்"
+          "பெட்ரோலியம் பொருள்கள்"
         ],
         "explanation": "பெட்ரோலியப் பொருள்கள், முத்துக்கள், விலையுயர்ந்த கற்கள், தங்கம், தொலைத்தொடர்புச் சாதனங்கள் முக்கிய இறக்குமதிகள்."
       },
@@ -216,9 +216,9 @@
       "en": {
         "q": "Which of the following is an advantage of railways, as given in the unit?",
         "options": [
-          "They give door-to-door service",
-          "They are the quickest mode of transport",
-          "They help in the commercialization of agriculture by moving bulky perishable goods",
+          "They give a convenient door-to-door service everywhere",
+          "They are the quickest mode of transport for all goods",
+          "They help commercialise agriculture by moving bulky goods",
           "They are the oldest and cheapest mode of transport"
         ],
         "explanation": "Railways are the backbone of surface transport and promote national integration."
@@ -226,10 +226,10 @@
       "ta": {
         "q": "இரயில் போக்குவரத்தின் நன்மையாகப் பாடநூல் குறிப்பிடுவது",
         "options": [
-          "வீடு தேடி சேவை வழங்குதல்",
-          "மிக விரைவான போக்குவரத்து",
-          "பருமனான, அழுகும் பொருள்களை எடுத்துச் சென்று வேளாண்மையை வணிகமயமாக்க உதவுதல்",
-          "மிகப் பழமையான, மலிவான போக்குவரத்து"
+          "எல்லா இடங்களுக்கும் வசதியான வீடு தேடி சேவை வழங்குதல்",
+          "எல்லாப் பொருள்களுக்கும் மிக விரைவான போக்குவரத்து",
+          "பருமனான பொருள்களை எடுத்துச் சென்று வேளாண்மை வணிகமயமாக உதவுதல்",
+          "மிகப் பழமையான, அனைத்திலும் மலிவான போக்குவரத்து"
         ],
         "explanation": "இரயில்வே தரைவழிப் போக்குவரத்தின் முதுகெலும்பு; தேசிய ஒருமைப்பாட்டை வளர்க்கிறது."
       },
@@ -246,9 +246,9 @@
         "q": "Which of the following is true of pipeline transport?",
         "options": [
           "Initial cost is low but running cost is high",
-          "It cannot be laid under water",
-          "It can carry only solid goods",
-          "Initial cost of laying is high but the subsequent running cost is minimum"
+          "It cannot be laid under water or underground",
+          "It can carry only solid goods and passengers",
+          "High initial cost but minimum running cost"
         ],
         "explanation": "Pipelines can be laid through difficult terrain and under water; solids can be moved as slurry."
       },
@@ -256,9 +256,9 @@
         "q": "குழாய்ப் போக்குவரத்து குறித்துச் சரியான கூற்று",
         "options": [
           "தொடக்கச் செலவு குறைவு; இயக்கச் செலவு அதிகம்",
-          "நீருக்கடியில் அமைக்க இயலாது",
-          "திடப்பொருள்களை மட்டுமே கொண்டுசெல்லும்",
-          "குழாய் அமைக்கும் தொடக்கச் செலவு அதிகம்; பின்னர் இயக்கச் செலவு மிகக் குறைவு"
+          "நீருக்கடியிலும் நிலத்தடியிலும் அமைக்க இயலாது",
+          "திடப்பொருள்களையும் பயணிகளையும் மட்டுமே கொண்டுசெல்லும்",
+          "தொடக்கச் செலவு அதிகம்; இயக்கச் செலவு மிகக் குறைவு"
         ],
         "explanation": "கடினமான நிலப்பகுதியிலும் நீருக்கடியிலும் அமைக்கலாம்; திடப்பொருள்களைக் கூழாக மாற்றி அனுப்பலாம்."
       },
@@ -286,7 +286,7 @@
         "options": [
           "உள்ளூர்ப் பயணம்",
           "தனியார் வணிகம்",
-          "பொதுத் தகவல் தொடர்பு (ஊடகம்)",
+          "பொதுத் தகவல் தொடர்பு",
           "செயற்கைக்கோள் ஒளிபரப்பு மட்டும்"
         ],
         "explanation": "பொதுத் தகவல் தொடர்பு அச்சு ஊடகம், மின்னணு ஊடகம் என இருவகை."
@@ -332,20 +332,20 @@
       "en": {
         "q": "Which of the following is a merit of roadways?",
         "options": [
-          "They are the quickest and costliest mode",
-          "Roads are comparatively easy and cheap to construct and maintain",
+          "They are the quickest and costliest mode of travel",
+          "Roads are easy and cheap to build and maintain",
           "They need a large initial investment in rails",
-          "They are suitable only for long distances"
+          "They are suitable only for very long distances"
         ],
         "explanation": "Roadways are highly suitable for short-distance services and are used by all sections of society."
       },
       "ta": {
         "q": "சாலைப் போக்குவரத்தின் சாதகமான அம்சம்",
         "options": [
-          "மிக விரைவான, அதிகச் செலவான போக்குவரத்து",
-          "சாலைகள் அமைத்துப் பராமரிப்பது ஒப்பீட்டளவில் எளிது, மலிவு",
-          "தண்டவாளத்திற்குப் பெரிய முதலீடு தேவை",
-          "நீண்ட தூரத்திற்கு மட்டுமே ஏற்றது"
+          "மிக விரைவான, மிக அதிகச் செலவான போக்குவரத்து",
+          "சாலைகள் அமைத்துப் பராமரிப்பது எளிது, மலிவு",
+          "தண்டவாளத்திற்குப் பெரிய தொடக்க முதலீடு தேவை",
+          "மிக நீண்ட தூரத்திற்கு மட்டுமே ஏற்றது"
         ],
         "explanation": "குறுகிய தூரப் போக்குவரத்திற்கு மிகவும் ஏற்றது."
       },
@@ -400,10 +400,10 @@
       "ta": {
         "q": "அச்சு ஊடகத்தைச் சேர்ந்தது",
         "options": [
-          "வானொலி",
-          "தூர்தர்ஷன்",
+          "வானொலி ஒலிபரப்பு",
+          "தூர்தர்ஷன் தொலைக்காட்சி",
           "செய்தித்தாள்கள்",
-          "இணையம்"
+          "இணையச் சேவைகள்"
         ],
         "explanation": "வானொலி ஒலிபரப்பு 1923இல் பம்பாய் வானொலிக் கழகத்தால் தொடங்கியது; 1936 AIR; 1957 ஆகாசவாணி."
       },
@@ -419,20 +419,20 @@
       "en": {
         "q": "According to the unit, the Indian railways network is",
         "options": [
-          "The largest in the world",
-          "The largest in Asia and the second largest in the world under one management",
-          "Organised into 7 zones",
-          "Has only broad gauge"
+          "The largest railway network in the world",
+          "The largest in Asia, second largest in the world",
+          "Organised into 7 railway zones across India",
+          "Has only broad gauge tracks and no others"
         ],
         "explanation": "According to the unit, it is the largest in Asia and the second largest in the world under one management. It is organised into 17 zones for operations and management, so option C is wrong."
       },
       "ta": {
         "q": "பாடநூலின்படி இந்திய இரயில்வே வலையமைப்பு",
         "options": [
-          "உலகிலேயே மிகப்பெரியது",
-          "ஆசியாவிலேயே மிகப்பெரியது; ஒரே நிர்வாகத்தின் கீழ் உலகில் இரண்டாவது பெரியது",
-          "7 மண்டலங்களாகப் பிரிக்கப்பட்டுள்ளது",
-          "அகலப் பாதை மட்டுமே உள்ளது"
+          "உலகிலேயே மிகப்பெரிய இரயில்வே வலையமைப்பு",
+          "ஆசியாவிலேயே மிகப்பெரியது; உலகில் இரண்டாவது பெரியது",
+          "7 இரயில்வே மண்டலங்களாகப் பிரிக்கப்பட்டுள்ளது",
+          "அகலப் பாதைத் தடங்கள் மட்டுமே; வேறு இல்லை"
         ],
         "explanation": "பாடநூலின்படி இது ஆசியாவிலேயே மிகப்பெரியது; ஒரே நிர்வாகத்தின் கீழ் உலகில் இரண்டாவது பெரியது. செயல்பாட்டிற்காக 17 மண்டலங்களாகப் பிரிக்கப்பட்டுள்ளது; எனவே C தவறு."
       },
@@ -477,20 +477,20 @@
       "en": {
         "q": "Which statement correctly distinguishes internal trade from international trade?",
         "options": [
-          "Internal trade uses local currency and is mainly carried by land transport; international trade involves foreign currency and waterways and airways",
-          "Internal trade uses foreign currency",
-          "International trade is carried only by roads",
-          "Both use only local currency"
+          "Internal trade uses local currency; international trade involves foreign currency",
+          "Internal trade uses foreign currency, international trade uses local currency",
+          "International trade is carried only by roads and railways within a country",
+          "Both internal and international trade use only local currency"
         ],
         "explanation": "Internal trade helps balanced regional growth."
       },
       "ta": {
         "q": "உள்நாட்டு வணிகத்தையும் பன்னாட்டு வணிகத்தையும் வேறுபடுத்தும் சரியான கூற்று",
         "options": [
-          "உள்நாட்டு வணிகத்தில் உள்ளூர் நாணயமும் நிலவழிப் போக்குவரத்தும்; பன்னாட்டு வணிகத்தில் அயல்நாட்டு நாணயமும் நீர், வான்வழியும்",
-          "உள்நாட்டு வணிகத்தில் அயல்நாட்டு நாணயம்",
-          "பன்னாட்டு வணிகம் சாலை வழியே மட்டும்",
-          "இரண்டிலும் உள்ளூர் நாணயம் மட்டும்"
+          "உள்நாட்டு வணிகத்தில் உள்ளூர் நாணயம்; பன்னாட்டு வணிகத்தில் அயல்நாட்டு நாணயம்",
+          "உள்நாட்டு வணிகத்தில் அயல்நாட்டு நாணயம்; பன்னாட்டு வணிகத்தில் உள்ளூர் நாணயம்",
+          "பன்னாட்டு வணிகம் நாட்டிற்குள் சாலை, இரயில் வழியே மட்டுமே நடக்கும்",
+          "உள்நாட்டு, பன்னாட்டு வணிகங்கள் இரண்டிலும் உள்ளூர் நாணயம் மட்டுமே"
         ],
         "explanation": "உள்நாட்டு வணிகம் பிரதேச சமச்சீர் வளர்ச்சியை மேம்படுத்துகிறது."
       },
@@ -535,20 +535,20 @@
       "en": {
         "q": "Satellite communication in India emerged as a new era after the establishment of",
         "options": [
-          "the Indian Space Research Organisation (ISRO) in 1969",
-          "the postal department in 1837",
-          "All India Radio in 1936",
-          "NHAI in 1995"
+          "the Indian Space Research Organisation in 1969",
+          "the Indian postal department in 1837",
+          "the All India Radio network in 1936",
+          "the National Highways Authority in 1995"
         ],
         "explanation": "Satellite images are used for weather forecasting, monitoring natural calamities and border surveillance."
       },
       "ta": {
         "q": "இந்தியாவில் செயற்கைக்கோள் தகவல் தொடர்பு எதன் நிறுவலுக்குப் பிறகு புதிய சகாப்தமானது?",
         "options": [
-          "1969இல் இந்திய விண்வெளி ஆராய்ச்சி மையம் (இஸ்ரோ)",
-          "1837இல் அஞ்சல் துறை",
-          "1936இல் அகில இந்திய வானொலி",
-          "1995இல் NHAI"
+          "1969இல் இந்திய விண்வெளி ஆராய்ச்சி மையம்",
+          "1837இல் இந்திய அஞ்சல் துறை அமைப்பு",
+          "1936இல் அகில இந்திய வானொலி நிலையம்",
+          "1995இல் தேசிய நெடுஞ்சாலை ஆணையம்"
         ],
         "explanation": "வானிலை முன்னறிவிப்பு, இயற்கைப் பேரிடர் கண்காணிப்பு, எல்லைக் கண்காணிப்புக்குச் செயற்கைக்கோள் படங்கள் பயன்படுகின்றன."
       },

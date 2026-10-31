@@ -101,20 +101,20 @@
       "en": {
         "q": "Biogas, produced by anaerobic decomposition of cow dung, is a",
         "options": [
-          "renewable energy source, not a fossil fuel",
-          "fossil fuel",
-          "nuclear fuel",
-          "non-renewable fuel"
+          "renewable energy source",
+          "fossil fuel like coal",
+          "nuclear fuel like uranium",
+          "non-renewable fossil fuel"
         ],
         "explanation": "The book statement is false: biogas is a renewable fuel made from cow dung and plant wastes, whereas coal, petroleum and natural gas are fossil fuels."
       },
       "ta": {
         "q": "மாட்டுச் சாணத்தை காற்றின்றி சிதைப்பதால் கிடைக்கும் உயிரி வாயு",
         "options": [
-          "புதுப்பிக்கத்தக்க ஆற்றல் மூலம்; படிம எரிபொருள் அன்று",
-          "படிம எரிபொருள்",
-          "அணு எரிபொருள்",
-          "புதுப்பிக்க இயலாத எரிபொருள்"
+          "புதுப்பிக்கத்தக்க ஆற்றல் மூலம்",
+          "நிலக்கரி போன்ற படிம எரிபொருள்",
+          "யுரேனியம் போன்ற அணு எரிபொருள்",
+          "புதுப்பிக்க இயலாத படிம எரிபொருள்"
         ],
         "explanation": "புத்தகக் கூற்று தவறு; உயிரி வாயு மாட்டுச் சாணம், தாவரக் கழிவிலிருந்து கிடைக்கும் புதுப்பிக்கத்தக்க எரிபொருள்; நிலக்கரி, பெட்ரோலியம், இயற்கை எரிவாயு படிம எரிபொருள்கள்."
       }
@@ -130,20 +130,20 @@
       "en": {
         "q": "Planting trees helps to",
         "options": [
-          "lower the groundwater level",
-          "increase the groundwater level and reduce soil erosion",
-          "increase global warming",
-          "remove humus from the soil"
+          "lower the groundwater level of the area",
+          "raise groundwater level, cut soil erosion",
+          "increase global warming and pollution",
+          "remove humus and nutrients from the soil"
         ],
         "explanation": "Trees reduce runoff, hold soil and let water percolate, so planting trees raises groundwater and checks erosion."
       },
       "ta": {
         "q": "மரம் வளர்ப்பதால்",
         "options": [
-          "நிலத்தடி நீர்மட்டம் குறையும்",
-          "நிலத்தடி நீர்மட்டம் உயரும்; மண் அரிப்பு குறையும்",
-          "புவி வெப்பமயமாதல் அதிகரிக்கும்",
-          "மண்ணின் மட்கு நீங்கும்"
+          "நிலத்தடி நீர்மட்டம் குறைந்துவிடும்",
+          "நிலத்தடி நீர் உயரும்; மண் அரிப்பு குறையும்",
+          "புவி வெப்பமயமாதலும் மாசும் அதிகரிக்கும்",
+          "மண்ணின் மட்கும் சத்துகளும் நீங்கும்"
         ],
         "explanation": "மரங்கள் நீர் வழிந்தோடலைக் குறைத்து மண்ணைப் பிடித்து நீரை உட்புகச் செய்வதால் நிலத்தடி நீர் உயர்ந்து மண் அரிப்பு குறைகிறது."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "Poaching of wild animals is",
         "options": [
-          "legal with a licence",
-          "legal in sanctuaries",
-          "illegal and punishable under the Wildlife Protection Act, 1972",
-          "encouraged for conservation"
+          "legal if a licence is obtained from anyone",
+          "legal inside all wildlife sanctuaries",
+          "illegal and punishable under the Wildlife Protection Act",
+          "encouraged as a method of conservation"
         ],
         "explanation": "The book statement is false: poaching is illegal."
       },
       "ta": {
         "q": "காட்டு விலங்குகளை வேட்டையாடுதல் (போச்சிங்)",
         "options": [
-          "உரிமத்துடன் சட்டப்படி அனுமதிக்கப்பட்டது",
-          "சரணாலயங்களில் சட்டப்படி அனுமதிக்கப்பட்டது",
-          "வனவிலங்குப் பாதுகாப்புச் சட்டம், 1972-ன்படி சட்டவிரோதமும் தண்டனைக்குரியதும்",
-          "பாதுகாப்புக்காக ஊக்குவிக்கப்படுகிறது"
+          "யாரிடமாவது உரிமம் பெற்றால் சட்டப்படி அனுமதிக்கப்பட்டது",
+          "அனைத்துச் சரணாலயங்களிலும் சட்டப்படி அனுமதிக்கப்பட்டது",
+          "வனவிலங்குப் பாதுகாப்புச் சட்டப்படி சட்டவிரோதமும் தண்டனைக்குரியதும்",
+          "பாதுகாப்பு முறையாக ஊக்குவிக்கப்படுகிறது"
         ],
         "explanation": "புத்தகக் கூற்று தவறு; வேட்டையாடுதல் சட்டவிரோதம்."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "The gases released in vehicle exhaust include",
         "options": [
-          "only oxygen and nitrogen",
-          "carbon monoxide, sulphur dioxide and oxides of nitrogen",
-          "only hydrogen",
-          "only helium and neon"
+          "only the oxygen and nitrogen gases of air",
+          "carbon monoxide and oxides of sulphur, nitrogen",
+          "only hydrogen gas and some water vapour",
+          "only helium, neon and argon gases"
         ],
         "explanation": "Vehicle exhaust releases carbon monoxide, sulphur dioxide and oxides of nitrogen, all air pollutants."
       },
       "ta": {
         "q": "வாகனப் புகையிலிருந்து வெளிவரும் வாயுக்கள்",
         "options": [
-          "ஆக்சிஜன், நைட்ரஜன் மட்டும்",
-          "கார்பன் மோனாக்சைடு, சல்பர் டை ஆக்சைடு, நைட்ரஜன் ஆக்சைடுகள்",
-          "ஹைட்ரஜன் மட்டும்",
-          "ஹீலியம், நியான் மட்டும்"
+          "காற்றிலுள்ள ஆக்சிஜன், நைட்ரஜன் வாயுக்கள் மட்டுமே",
+          "கார்பன் மோனாக்சைடு, கந்தகம், நைட்ரஜன் ஆக்சைடுகள்",
+          "ஹைட்ரஜன் வாயுவும் சிறிது நீராவியும் மட்டுமே",
+          "ஹீலியம், நியான், ஆர்கான் வாயுக்கள் மட்டுமே"
         ],
         "explanation": "வாகனப் புகையில் கார்பன் மோனாக்சைடு, சல்பர் டை ஆக்சைடு, நைட்ரஜன் ஆக்சைடுகள் ஆகிய காற்று மாசுகள் உள்ளன."
       }
@@ -247,7 +247,7 @@
         "q": "Which of the following is a renewable source of energy?",
         "options": [
           "Petroleum",
-          "Trees (wood)",
+          "Wood from trees",
           "Nuclear fuel",
           "Coal"
         ],
@@ -257,7 +257,7 @@
         "q": "புதுப்பிக்கத்தக்க ஆற்றல் மூலம் எது?",
         "options": [
           "பெட்ரோலியம்",
-          "மரங்கள் (விறகு)",
+          "மரத்தின் விறகு",
           "அணு எரிபொருள்",
           "நிலக்கரி"
         ],
@@ -333,9 +333,9 @@
       "en": {
         "q": "The commonest source of energy in villages is",
         "options": [
-          "petroleum",
-          "electricity",
-          "coal",
+          "petroleum products",
+          "electricity from grids",
+          "coal and coke",
           "wood and animal dung"
         ],
         "explanation": "Villages mostly depend on wood and animal dung; biogas is a cleaner alternative made from dung."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "கிராமங்களில் பொதுவான ஆற்றல் மூலம்",
         "options": [
-          "பெட்ரோலியம்",
-          "மின்சாரம்",
-          "நிலக்கரி",
+          "பெட்ரோலியப் பொருள்கள்",
+          "மின்சாரம் வழங்கும் மின்கட்டமைப்பு",
+          "நிலக்கரியும் கோக்கும்",
           "விறகும் கால்நடைச் சாணமும்"
         ],
         "explanation": "கிராமங்களில் விறகும் சாணமுமே அதிகம் பயன்படுகின்றன; சாணத்திலிருந்து உயிரி வாயு தூய மாற்று எரிபொருள்."
@@ -420,20 +420,20 @@
       "en": {
         "q": "Global warming will cause",
         "options": [
-          "rise in sea level, melting of glaciers and sinking of islands",
-          "fall in sea level",
-          "growth of glaciers",
-          "cooling of the poles"
+          "rise in sea level and melting of glaciers",
+          "fall in sea level around the islands",
+          "steady growth of glaciers at the poles",
+          "sharp cooling of the polar regions"
         ],
         "explanation": "Warming raises ocean levels, melts glaciers and can sink islands."
       },
       "ta": {
         "q": "புவி வெப்பமயமாதலால் ஏற்படுவது",
         "options": [
-          "கடல்மட்ட உயர்வு, பனிப்பாறை உருகுதல், தீவுகள் மூழ்குதல்",
-          "கடல்மட்டம் குறைதல்",
-          "பனிப்பாறை வளருதல்",
-          "துருவங்கள் குளிர்தல்"
+          "கடல்மட்ட உயர்வும் பனிப்பாறை உருகுதலும்",
+          "தீவுகளைச் சுற்றி கடல்மட்டம் குறைதல்",
+          "துருவங்களில் பனிப்பாறை வளர்தல்",
+          "துருவப் பகுதிகள் கடுமையாகக் குளிர்தல்"
         ],
         "explanation": "புவி வெப்பமயமாதலால் கடல்மட்டம் உயர்ந்து, பனிப்பாறைகள் உருகி, தீவுகள் மூழ்கக்கூடும்."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "E-waste is generated from",
         "options": [
-          "kitchen vegetable peels",
-          "paper and cardboard only",
-          "unwanted, non-working and outdated electronic products",
-          "sewage sludge"
+          "kitchen vegetable peels and food scraps",
+          "paper and cardboard packaging only",
+          "unwanted and outdated electronic products",
+          "sewage sludge from treatment plants"
         ],
         "explanation": "Unwanted, non-working and outdated electronic products become e-waste."
       },
       "ta": {
         "q": "மின்னணுக் கழிவுகள் எவ்வாறு உருவாகின்றன?",
         "options": [
-          "சமையலறைக் காய்கறித் தோல்களிலிருந்து",
-          "காகிதம், அட்டையிலிருந்து மட்டும்",
-          "தேவையற்ற, பழுதடைந்த, காலாவதியான மின்னணுப் பொருட்களிலிருந்து",
-          "கழிவுநீர்ச் சேற்றிலிருந்து"
+          "சமையலறைக் காய்கறித் தோல், உணவுக் கழிவிலிருந்து",
+          "காகிதம், அட்டைப் பொட்டலங்களிலிருந்து மட்டும்",
+          "தேவையற்ற, காலாவதியான மின்னணுப் பொருட்களிலிருந்து",
+          "கழிவுநீர்ச் சுத்திகரிப்பு நிலையச் சேற்றிலிருந்து"
         ],
         "explanation": "தேவையற்ற, இயங்காத, பழைய மின்னணுப் பொருட்கள் மின்னணுக் கழிவாகின்றன."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "Although coal and petroleum are formed from biomass, they must be conserved because they",
         "options": [
-          "are formed within a few days",
-          "are unlimited in amount",
-          "cause no pollution",
-          "take millions of years to form and are non-renewable"
+          "are formed within just a few days",
+          "are unlimited in amount on Earth",
+          "cause no pollution when burnt",
+          "take millions of years to form"
         ],
         "explanation": "Fossil fuels form very slowly over millions of years and can get exhausted by rapid use."
       },
       "ta": {
         "q": "நிலக்கரி, பெட்ரோலியம் ஆகியவை உயிரிப்பொருளிலிருந்து உருவானாலும் அவற்றைப் பாதுகாக்க வேண்டும்; ஏனெனில் அவை",
         "options": [
-          "சில நாட்களில் உருவாகின்றன",
-          "வரம்பற்ற அளவில் உள்ளன",
-          "மாசு ஏற்படுத்துவதில்லை",
-          "உருவாக மில்லியன் ஆண்டுகள் ஆகும் புதுப்பிக்க இயலாதவை"
+          "சில நாட்களிலேயே உருவாகின்றன",
+          "பூமியில் வரம்பற்ற அளவில் உள்ளன",
+          "எரிக்கும்போது மாசு ஏற்படுத்துவதில்லை",
+          "உருவாக மில்லியன் ஆண்டுகள் ஆகும்"
         ],
         "explanation": "படிம எரிபொருள்கள் மில்லியன் ஆண்டுகளில் மெதுவாக உருவாகின்றன; விரைவான பயன்பாட்டால் தீர்ந்துவிடும்."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "The government bans polythene bags and plastics mainly because they",
         "options": [
-          "are very costly",
-          "decompose quickly",
-          "are non-biodegradable and pollute soil and water",
-          "are good manure"
+          "are very costly to manufacture",
+          "decompose quickly in the soil",
+          "are non-biodegradable and pollute soil",
+          "are good manure for plants"
         ],
         "explanation": "Plastics are non-biodegradable, choke drains and pollute soil and water."
       },
       "ta": {
         "q": "பாலிதீன் பைகள், பிளாஸ்டிக்குகளை அரசு தடை செய்யக் காரணம், அவை",
         "options": [
-          "மிகவும் விலையுயர்ந்தவை",
-          "விரைவில் மட்கிவிடுகின்றன",
-          "மட்காதவை; மண்ணையும் நீரையும் மாசுபடுத்துகின்றன",
-          "நல்ல உரமாகும்"
+          "தயாரிக்க மிகவும் விலையுயர்ந்தவை",
+          "மண்ணில் விரைவில் மட்கிவிடுகின்றன",
+          "மட்காதவை; மண்ணை மாசுபடுத்துகின்றன",
+          "தாவரங்களுக்கு நல்ல உரமாகும்"
         ],
         "explanation": "பிளாஸ்டிக்குகள் மட்காதவை; வடிகால்களை அடைத்து மண், நீரை மாசுபடுத்துகின்றன."
       }

@@ -158,20 +158,20 @@
       "en": {
         "q": "The Cardamom Hills (Yela Malai) get their name from the",
         "options": [
-          "coffee grown there",
-          "pepper grown there",
-          "cardamom spice commonly grown there",
-          "tea grown there"
+          "coffee commonly grown there",
+          "pepper commonly grown there",
+          "cardamom commonly grown there",
+          "tea plantations commonly found there"
         ],
         "explanation": "Pepper and coffee are other crops of these hills."
       },
       "ta": {
         "q": "ஏலமலை (ஏலக்காய் மலை) என்ற பெயர் எதிலிருந்து வந்தது?",
         "options": [
-          "காபி",
-          "மிளகு",
+          "அங்குப் பரவலாகப் பயிரிடப்படும் காபி",
+          "அங்குப் பரவலாகப் பயிரிடப்படும் மிளகு",
           "அங்குப் பரவலாகப் பயிரிடப்படும் ஏலக்காய்",
-          "தேயிலை"
+          "அங்குப் பரவலாகப் பயிரிடப்படும் தேயிலை"
         ],
         "explanation": "மிளகு, காபி ஆகியவையும் இங்கு பயிரிடப்படுகின்றன."
       },
@@ -188,9 +188,9 @@
         "q": "The Pothigai hills are also known as",
         "options": [
           "Agasthiyar hills and Southern Kailash",
-          "Poorvadri",
-          "Sahyadris",
-          "Yela Malai"
+          "Poorvadri hills of the north-east",
+          "Sahyadris of the Western Ghats",
+          "Yela Malai or Cardamom hills"
         ],
         "explanation": "These hills feature the richest biodiversity in the Western Ghats."
       },
@@ -198,9 +198,9 @@
         "q": "பொதிகை மலை வேறு எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "அகத்தியர் மலை, தென் கைலாயம்",
-          "பூர்வாத்ரி",
-          "சஹ்யாத்ரி",
-          "ஏலமலை"
+          "வடகிழக்கின் பூர்வாத்ரி மலைத்தொடர்",
+          "மேற்குத் தொடர்ச்சியின் சஹ்யாத்ரி",
+          "ஏலமலை எனும் ஏலக்காய் மலை"
         ],
         "explanation": "மேற்குத் தொடர்ச்சி மலையின் மிகச் செழுமையான பல்லுயிர்ப் பகுதி இது."
       },
@@ -245,20 +245,20 @@
       "en": {
         "q": "The Pachaimalai range gets its name because",
         "options": [
-          "it is the highest range",
-          "pachai means red",
-          "pachai means green and its vegetation is greener than other hills",
-          "it is covered in snow"
+          "it is the tallest and highest range in the state",
+          "pachai means red as its soil is red in colour",
+          "pachai means green and its vegetation is greener",
+          "it is covered in snow for most of the year"
         ],
         "explanation": "It spreads over Perambalur, Tiruchirappalli and Salem districts."
       },
       "ta": {
         "q": "பச்சைமலை என்ற பெயர் வரக் காரணம்",
         "options": [
-          "இது உயரமான மலை",
-          "பச்சை என்றால் சிவப்பு",
-          "பச்சை என்றால் பசுமை; இங்குள்ள தாவரங்கள் பிற மலைகளை விடப் பசுமையானவை",
-          "இது பனியால் மூடியது"
+          "இது மாநிலத்தின் மிக உயரமான மலைத்தொடர்",
+          "பச்சை என்றால் சிவப்பு; இங்குள்ள மண் சிவப்பானது",
+          "பச்சை என்றால் பசுமை; இங்குள்ள தாவரங்கள் பசுமையானவை",
+          "இது ஆண்டின் பெரும்பகுதி பனியால் மூடியிருக்கும்"
         ],
         "explanation": "இது பெரம்பலூர், திருச்சி, சேலம் மாவட்டங்களில் பரவியுள்ளது."
       },
@@ -334,8 +334,8 @@
         "options": [
           "'Garden of Southern India'",
           "'Granary of Asia'",
-          "'Detroit of Asia'",
-          "'Sorrow of Bihar'"
+          "'Detroit of Southern Asia'",
+          "'Sorrow of North Bihar'"
         ],
         "explanation": "Kallanai is also known as the Grand Anicut."
       },
@@ -371,10 +371,10 @@
       "ta": {
         "q": "வைகை ஆறு உற்பத்தியாகும் இடம்",
         "options": [
-          "ஆனைமலை",
+          "ஆனைமலையின் கிழக்குச் சரிவு",
           "வருசநாடு மலையின் கிழக்குச் சரிவு",
-          "நீலகிரி மலை",
-          "பொதிகை மலை"
+          "நீலகிரி மலையின் கிழக்குச் சரிவு",
+          "பொதிகை மலையின் கிழக்குச் சரிவு"
         ],
         "explanation": "மதுரை, சிவகங்கை, இராமநாதபுரம் மாவட்டங்களில் பாய்கிறது; முழுப் படுகையும் தமிழ்நாட்டிலேயே உள்ளது."
       },
@@ -393,17 +393,17 @@
           "Kuvattur",
           "Poompuhar",
           "Cuddalore",
-          "Punnaikayal in Thoothukudi district"
+          "Punnaikayal"
         ],
         "explanation": "Its name combines Thamiram (copper) and Varuni (stream)."
       },
       "ta": {
         "q": "தாமிரபரணி ஆறு இறுதியாக வங்கக்கடலில் கலக்கும் இடம்",
         "options": [
-          "குவத்தூர்",
-          "பூம்புகார்",
-          "கடலூர்",
-          "தூத்துக்குடி மாவட்டம் புன்னைக்காயல்"
+          "குவத்தூர் கடற்கரை",
+          "பூம்புகார் கடற்கரை",
+          "கடலூர் கடற்கரை",
+          "புன்னைக்காயல் கடற்கரை"
         ],
         "explanation": "தாமிரம் + வருணி என்பதிலிருந்து தாமிரபரணி என்ற பெயர் வந்தது."
       },
@@ -506,20 +506,20 @@
       "en": {
         "q": "In Tamil Nadu, black soil is found extensively in",
         "options": [
-          "Thanjavur and Tiruvarur only",
-          "the Nilgiris only",
-          "Vedaranyam",
-          "Coimbatore, Madurai, Virudhunagar, Tenkasi, Tirunelveli and Thoothukudi"
+          "Thanjavur, Tiruvarur and Nagapattinam only",
+          "the Nilgiris and Kodaikanal hills only",
+          "Vedaranyam and the Kanyakumari coast",
+          "Madurai, Virudhunagar and Thoothukudi"
         ],
         "explanation": "Alluvial soil is found in Thanjavur, Tiruvarur and the delta districts."
       },
       "ta": {
         "q": "தமிழ்நாட்டில் கரிசல் மண் அதிகமாகக் காணப்படும் மாவட்டங்கள்",
         "options": [
-          "தஞ்சாவூர், திருவாரூர் மட்டும்",
-          "நீலகிரி மட்டும்",
-          "வேதாரண்யம்",
-          "கோயம்புத்தூர், மதுரை, விருதுநகர், தென்காசி, திருநெல்வேலி, தூத்துக்குடி"
+          "தஞ்சாவூர், திருவாரூர், நாகப்பட்டினம் மட்டும்",
+          "நீலகிரி, கொடைக்கானல் மலைகள் மட்டும்",
+          "வேதாரண்யம், கன்னியாகுமரிக் கடற்கரை",
+          "மதுரை, விருதுநகர், தூத்துக்குடி"
         ],
         "explanation": "வண்டல் மண் தஞ்சாவூர், திருவாரூர் போன்ற கழிமுக மாவட்டங்களில் உள்ளது."
       },
@@ -603,10 +603,10 @@
       "ta": {
         "q": "தமிழ்நாட்டின் உயிர்க்கோளக் காப்பகங்களில் ஒன்று",
         "options": [
-          "சுந்தரவனம்",
-          "நந்தாதேவி",
+          "சுந்தரவனக் காடுகள்",
+          "நந்தாதேவி மலைப்பகுதி",
           "மன்னார் வளைகுடா",
-          "சிமிலிபால்"
+          "சிமிலிபால் காடுகள்"
         ],
         "explanation": "நீலகிரி, மன்னார் வளைகுடா, அகத்தியமலை ஆகிய மூன்று."
       },

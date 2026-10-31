@@ -27,7 +27,7 @@
           "தொடுதிரைக்",
           "சிவப்பு, பச்சை, நீல வண்ணக்",
           "முப்பரிமாணக்",
-          "ஒருநிறக் (மோனோகுரோம்)"
+          "ஒருநிறக்"
         ],
         "explanation": "2009-இல் SONY முதல் வணிக LED தொலைக்காட்சியை அறிமுகப்படுத்தியது என்றும் பாடம் கூறுகிறது."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "Which of the following does NOT affect the resistance of a conductor?",
         "options": [
-          "Its area of cross-section",
-          "The current flowing through it at constant temperature",
-          "The material of the conductor",
-          "Its length"
+          "The cross-sectional area of the wire",
+          "The current through it at constant temperature",
+          "The material that the conductor is made of",
+          "The length of the conductor wire used"
         ],
         "explanation": "Resistance depends on length, area of cross-section and nature of material (and temperature)."
       },
       "ta": {
         "q": "ஒரு கடத்தியின் மின்தடையைப் பாதிக்காத காரணி எது?",
         "options": [
-          "அதன் குறுக்குவெட்டுப் பரப்பு",
+          "கம்பியின் குறுக்குவெட்டுப் பரப்பளவு",
           "மாறா வெப்பநிலையில் அதில் பாயும் மின்னோட்டம்",
-          "கடத்தியின் பொருள்",
-          "அதன் நீளம்"
+          "கடத்தி எந்தப் பொருளால் ஆனது என்பது",
+          "பயன்படுத்திய கடத்திக் கம்பியின் நீளம்"
         ],
         "explanation": "மின்தடை நீளம், குறுக்குவெட்டுப் பரப்பு, பொருளின் தன்மை (மற்றும் வெப்பநிலை) ஆகியவற்றைச் சார்ந்தது."
       }
@@ -188,10 +188,10 @@
       "en": {
         "q": "The reciprocal of the electrical resistivity of a material is called its",
         "options": [
-          "power",
+          "electrical power",
           "electrical conductivity",
-          "resistance",
-          "potential"
+          "electrical resistance",
+          "electric potential"
         ],
         "explanation": "σ = 1/ρ."
       },

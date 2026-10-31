@@ -73,9 +73,9 @@
         "q": "The velocity of sound in air at a certain temperature is 330 m s⁻¹. When the (absolute) temperature is doubled and the pressure is halved, its value becomes",
         "options": [
           "330 × √2 m s⁻¹",
-          "330 m s⁻¹",
-          "165 m s⁻¹",
-          "660 m s⁻¹"
+          "330 × 2 m s⁻¹",
+          "330 ÷ 2 m s⁻¹",
+          "330 ÷ √2 m s⁻¹"
         ],
         "explanation": "v ∝ √T and is independent of pressure; doubling T gives v × √2."
       },
@@ -83,9 +83,9 @@
         "q": "ஒரு குறிப்பிட்ட வெப்பநிலையில் காற்றில் ஒலியின் திசைவேகம் 330 மீ வி⁻¹. (தனி) வெப்பநிலையை இரட்டிப்பாக்கி அழுத்தத்தைப் பாதியாக்கினால் அதன் மதிப்பு",
         "options": [
           "330 × √2 மீ வி⁻¹",
-          "330 மீ வி⁻¹",
-          "165 மீ வி⁻¹",
-          "660 மீ வி⁻¹"
+          "330 × 2 மீ வி⁻¹",
+          "330 ÷ 2 மீ வி⁻¹",
+          "330 ÷ √2 மீ வி⁻¹"
         ],
         "explanation": "v ∝ √T; அழுத்தத்தைச் சார்ந்ததன்று; T இரட்டிப்பானால் v × √2."
       }
@@ -275,10 +275,10 @@
       "en": {
         "q": "Sound can travel through",
         "options": [
-          "solids, liquids, gases and vacuum",
-          "gases only",
-          "solids only",
-          "solids, liquids and gases but not through vacuum"
+          "solids, liquids, gases and also vacuum",
+          "gases only, such as air",
+          "solids only, such as metals",
+          "solids, liquids and gases, not vacuum"
         ],
         "explanation": "Sound needs a material medium and cannot travel through a vacuum."
       },
@@ -517,10 +517,10 @@
       "ta": {
         "q": "மீயொலியை உணரக்கூடிய விலங்கு எது?",
         "options": [
-          "பசு",
+          "பசு மாடு",
           "வௌவால்",
-          "தவளை",
-          "கோழி"
+          "தவளை இனம்",
+          "நாட்டுக் கோழி"
         ],
         "explanation": "நாய், வௌவால், டால்பின் ஆகியவை மீயொலியை உணரும்."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "The ceilings of concert halls are curved so that",
         "options": [
-          "sound is reflected and spread evenly to all parts of the hall",
-          "echoes are increased",
-          "sound is converted into light",
-          "sound is absorbed completely"
+          "sound is reflected and spread evenly in the hall",
+          "echoes are increased inside the hall",
+          "sound is converted into light energy",
+          "sound is absorbed completely by the roof"
         ],
         "explanation": "Curved (parabolic or elliptical) surfaces reflect sound to reach all parts of the hall."
       },
       "ta": {
         "q": "இசையரங்குகளின் மேற்கூரை வளைவாக அமைக்கப்படுவதற்குக் காரணம்",
         "options": [
-          "ஒலி எதிரொலிக்கப்பட்டு அரங்கின் எல்லாப் பகுதிகளுக்கும் சீராகச் சென்றடைவதற்காக",
-          "எதிரொலியை அதிகரிப்பதற்காக",
-          "ஒலி ஒளியாக மாறுவதற்காக",
-          "ஒலி முழுவதும் உறிஞ்சப்படுவதற்காக"
+          "ஒலி எதிரொலிக்கப்பட்டு அரங்கில் சீராகச் சென்றடைவதற்காக",
+          "அரங்கினுள் எதிரொலியை அதிகரிப்பதற்காக",
+          "ஒலி ஒளி ஆற்றலாக மாறுவதற்காக",
+          "ஒலி மேற்கூரையால் முழுவதும் உறிஞ்சப்படுவதற்காக"
         ],
         "explanation": "வளைவுப் (பரவளைய/நீள்வட்ட) பரப்புகள் ஒலியை எதிரொலித்து அரங்கின் அனைத்துப் பகுதிகளையும் அடையச் செய்கின்றன."
       }

@@ -81,10 +81,10 @@
       "ta": {
         "q": "பாசனப் பரப்பு குறித்த பாடநூல் வரைபடத்தின்படி அதிக பகுதிக்குப் பாசனம் தரும் ஆதாரம்",
         "options": [
-          "கால்வாய்கள்",
+          "கால்வாய்ப் பாசனம்",
           "ஆழ்துளைக் கிணறுகள்",
-          "ஏரிகள்",
-          "பிற கிணறுகள்"
+          "ஏரிகள், குளங்கள்",
+          "பிற வகைக் கிணறுகள்"
         ],
         "explanation": "ஆழ்துளைக் கிணறு 46%, கால்வாய் 24%, பிற கிணறு 16%, பிற ஆதாரம் 11%, ஏரி 3%."
       },
@@ -187,20 +187,20 @@
       "en": {
         "q": "The Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) aims at getting more production by using",
         "options": [
-          "chemical fertilisers",
-          "water saving and conservation technologies",
-          "loan waivers",
-          "crop insurance only"
+          "heavy use of chemical fertilisers",
+          "water-saving and conservation methods",
+          "farm loan waivers and subsidies",
+          "crop insurance premium subsidies only"
         ],
         "explanation": "PMKSY is an irrigation scheme."
       },
       "ta": {
         "q": "பிரதம மந்திரி கிரிஷி சிஞ்சாயி யோஜனா (PMKSY) எதைப் பயன்படுத்தி அதிக உற்பத்தியை எட்டச் செயல்படுத்தப்படுகிறது?",
         "options": [
-          "இரசாயன உரங்கள்",
-          "நீரைச் சேமிக்கும் மற்றும் பாதுகாக்கும் தொழில்நுட்பங்கள்",
-          "கடன் தள்ளுபடி",
-          "பயிர்க் காப்பீடு மட்டும்"
+          "இரசாயன உரங்களை அதிகம் பயன்படுத்துதல்",
+          "நீர் சேமிப்பு, பாதுகாப்புத் தொழில்நுட்பங்கள்",
+          "விவசாயக் கடன் தள்ளுபடி மற்றும் மானியம்",
+          "பயிர்க் காப்பீட்டு மானியம் மட்டும்"
         ],
         "explanation": "PMKSY ஒரு நீர்ப்பாசனத் திட்டம்."
       },
@@ -217,9 +217,9 @@
         "q": "Shifting agriculture is called 'Podu' in",
         "options": [
           "Andhra Pradesh and Odisha",
-          "Kerala",
-          "Madhya Pradesh",
-          "Assam"
+          "Kerala and Karnataka",
+          "Madhya Pradesh and Chhattisgarh",
+          "Assam and Meghalaya"
         ],
         "explanation": "Jhum - Assam; Poonam - Kerala; Beewar, Mashan, Penda, Beera - Madhya Pradesh."
       },
@@ -227,9 +227,9 @@
         "q": "இடம்பெயர் வேளாண்மை 'போடு' என அழைக்கப்படும் இடங்கள்",
         "options": [
           "ஆந்திரப் பிரதேசம், ஒடிசா",
-          "கேரளா",
-          "மத்தியப் பிரதேசம்",
-          "அசாம்"
+          "கேரளா, கர்நாடகா",
+          "மத்தியப் பிரதேசம், சத்தீஸ்கர்",
+          "அசாம், மேகாலயா"
         ],
         "explanation": "ஜூம் - அசாம்; பூனம் - கேரளா; பேவார், மஷான், பெண்டா, பீரா - மத்தியப் பிரதேசம்."
       },
@@ -487,10 +487,10 @@
       "ta": {
         "q": "பாடநூலின்படி உலக மீன் உற்பத்தி நாடுகளில் இந்தியாவின் இடம்",
         "options": [
-          "மூன்றாமிடம்",
-          "முதலிடம்",
+          "சீனா, பெருவுக்கு அடுத்து மூன்றாமிடம்",
+          "முதலிடம், அனைத்து நாடுகளிலும் முன்னணி",
           "சீனாவுக்கு அடுத்து இரண்டாமிடம்",
-          "ஐந்தாமிடம்"
+          "ஐந்தாமிடம், பல நாடுகளுக்குப் பின்"
         ],
         "explanation": "இந்தியா உலக மீன் உற்பத்தியில் சுமார் 3% தருகிறது."
       },

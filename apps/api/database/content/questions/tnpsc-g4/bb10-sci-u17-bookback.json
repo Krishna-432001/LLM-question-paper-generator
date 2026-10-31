@@ -53,7 +53,7 @@
       "ta": {
         "q": "சூல்/இனச்செல்கள் (கேமீட்டுகள்) பற்றிய சரியான கூற்று எது?",
         "options": [
-          "அவை இனப்பெருக்க உறுப்புகளிலிருந்து (கோனாடுகள்) உருவாகின்றன",
+          "அவை கோனாடுகளிலிருந்து உருவாகின்றன",
           "அவை கோனாடுகளை உருவாக்குகின்றன",
           "அவை பால் ஹார்மோன்களை உற்பத்தி செய்கின்றன",
           "அவை இருமடியம் (டிப்ளாய்டு)"
@@ -217,20 +217,20 @@
       "en": {
         "q": "Insect-pollinated flowers have",
         "options": [
-          "dull colour and light smooth dry pollen",
-          "bright colours, smell and nectar with large pollen grains having pitted or spiny exine",
-          "no petals",
-          "feathery stigmas and no nectar"
+          "dull colour and light, smooth, dry pollen grains in large amounts",
+          "bright colours, smell and nectar with large spiny pollen grains",
+          "no petals and no scent or colour at all",
+          "feathery stigmas and no nectar or scent"
         ],
         "explanation": "The book statement is false: entomophilous flowers are brightly coloured, scented and have nectar; pollen is large with pitted or spiny exine and sticks to the sticky stigma."
       },
       "ta": {
         "q": "பூச்சி மகரந்தச் சேர்க்கை மலர்களின் பண்புகள்",
         "options": [
-          "மங்கிய நிறம்; இலேசான, வழவழப்பான, உலர்ந்த மகரந்தம்",
-          "பளிச்சிடும் நிறம், மணம், தேன்; பெரிய மகரந்தத் துகள்கள், குழிந்த அல்லது முள் போன்ற வெளியுறை",
-          "இதழ்கள் இல்லாதவை",
-          "இறகு போன்ற சூல்முடி; தேன் இல்லை"
+          "மங்கிய நிறம்; அதிக அளவில் இலேசான, வழவழப்பான, உலர்ந்த மகரந்தம்",
+          "பளிச்சிடும் நிறம், மணம், தேன்; பெரிய முள் போன்ற மகரந்தத் துகள்கள்",
+          "இதழ்கள் இல்லை; மணமோ நிறமோ இல்லை",
+          "இறகு போன்ற சூல்முடி; தேனோ மணமோ இல்லை"
         ],
         "explanation": "புத்தகக் கூற்று தவறு; பூச்சி மகரந்தச் சேர்க்கை மலர்கள் பளிச்சிடும் நிறம், மணம், தேன் உடையவை; மகரந்தம் பெரியது, முள் போன்ற வெளியுறை கொண்டது."
       }
@@ -275,10 +275,10 @@
       "en": {
         "q": "Menstruation occurs when",
         "options": [
-          "estrogen and progesterone levels rise sharply",
-          "the egg is fertilised",
-          "the blastocyst implants",
-          "the corpus luteum degenerates and the uterine lining breaks down"
+          "estrogen and progesterone levels rise very sharply",
+          "the egg is fertilised in the fallopian tube",
+          "the blastocyst implants in the uterine wall",
+          "the corpus luteum degenerates and the lining sheds"
         ],
         "explanation": "If fertilisation does not occur, the corpus luteum degenerates, hormone levels fall, and the uterine lining is shed; the book's statement of 'increased' hormones is false."
       },
@@ -421,7 +421,7 @@
         "q": "In the human female, implantation of the blastocyst occurs in the",
         "options": [
           "ampulla of the fallopian tube",
-          "uterus (endometrium)",
+          "uterus",
           "vagina",
           "ovary"
         ],
@@ -431,7 +431,7 @@
         "q": "மனிதப் பெண்ணின் எந்தப் பகுதியில் கரு பதிதல் நடைபெறுகிறது?",
         "options": [
           "கருக்குழாயின் ஆம்புல்லா",
-          "கருப்பை (எண்டோமெட்ரியம்)",
+          "கருப்பை",
           "யோனி",
           "அண்டகம்"
         ],
@@ -459,10 +459,10 @@
       "ta": {
         "q": "பிளனேரியாவைச் சிறு துண்டுகளாக வெட்டினால் என்ன நிகழும்?",
         "options": [
-          "ஒவ்வொரு துண்டும் முழுமையான புதிய பிளனேரியாவாக மீளுருவாகும்",
-          "தலைத் துண்டு மட்டும் வாலாக மாறும்",
-          "எல்லாத் துண்டுகளும் இறக்கும்",
-          "துண்டுகள் மீண்டும் இணையும்"
+          "ஒவ்வொரு துண்டும் புதிய முழு உயிரியாக மீளுருவாகும்",
+          "தலைத் துண்டு மட்டும் வாலாக மாறி உயிர் வாழும்",
+          "எல்லாத் துண்டுகளும் உடனே இறந்துவிடும்",
+          "துண்டுகள் மீண்டும் ஒன்றோடொன்று இணைந்து ஒட்டும்"
         ],
         "explanation": "பிளனேரியா மீளுருவாக்கம் மூலம் பாலிலா இனப்பெருக்கம் செய்கிறது; ஒவ்வொரு துண்டும் புதிய உயிரியாகிறது."
       }
@@ -478,9 +478,9 @@
       "en": {
         "q": "Vegetative propagation is practised for plants that",
         "options": [
-          "are annual herbs only",
-          "always produce many seeds",
-          "grow only in water",
+          "are annual herbs that live a single season only",
+          "always produce a large number of viable seeds",
+          "grow only in water bodies such as ponds",
           "do not produce viable seeds or are seedless"
         ],
         "explanation": "Plants such as banana, jasmine and rose that cannot produce viable seeds are grown by vegetative propagation, which also gives plants identical to the parent."
@@ -488,10 +488,10 @@
       "ta": {
         "q": "சில தாவரங்களை வளர்க்க உடல இனப்பெருக்கம் பின்பற்றப்படுவது, அவை",
         "options": [
-          "ஓராண்டுச் செடிகள் மட்டுமே என்பதால்",
-          "எப்போதும் அதிக விதைகளைத் தருவதால்",
-          "நீரில் மட்டுமே வளர்வதால்",
-          "முளைக்கும் தன்மையுள்ள விதைகளைத் தராதவை அல்லது விதையற்றவை என்பதால்"
+          "ஒரு பருவம் மட்டுமே வாழும் ஓராண்டுச் செடிகள் என்பதால்",
+          "எப்போதும் ஏராளமான முளைக்கும் விதைகளைத் தருவதால்",
+          "குளம், குட்டை போன்ற நீர்நிலைகளில் மட்டுமே வளர்வதால்",
+          "முளைக்கும் விதைகளைத் தராதவை அல்லது விதையற்றவை என்பதால்"
         ],
         "explanation": "வாழை, மல்லிகை, ரோஜா போன்ற விதைகளை உருவாக்காத தாவரங்கள் உடல இனப்பெருக்கத்தால் வளர்க்கப்படுகின்றன; இதில் தாய்த் தாவரத்தைப் போன்ற தாவரங்கள் கிடைக்கும்."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "The pollen tube carries two male gametes because",
         "options": [
-          "both fuse with the egg",
-          "both fuse with the synergids",
+          "both of them fuse with the egg cell together",
+          "both of them fuse with the two synergids",
           "one forms the pollen tube and the other the stigma",
-          "one fuses with the egg and the other with the secondary nucleus (double fertilisation)"
+          "one fuses with the egg and the other with the secondary nucleus"
         ],
         "explanation": "One sperm fuses with the egg (syngamy) and the other with the secondary nucleus (triple fusion) to form the endosperm."
       },
       "ta": {
         "q": "மகரந்தக் குழாய் இரு ஆண் கேமீட்டுகளைக் கொண்டு செல்லக் காரணம்",
         "options": [
-          "இரண்டும் முட்டையுடன் இணைய",
-          "இரண்டும் துணைச் செல்களுடன் இணைய",
-          "ஒன்று மகரந்தக் குழாயாகவும் மற்றது சூல்முடியாகவும் மாற",
-          "ஒன்று முட்டையுடனும் மற்றது இரண்டாம் நிலை உட்கருவுடனும் இணைவதற்கு (இரட்டைக் கருவுறுதல்)"
+          "இரண்டும் ஒரே நேரத்தில் முட்டை செல்லுடன் இணைவதற்கு",
+          "இரண்டும் இரு துணைச் செல்களுடன் இணைவதற்கு",
+          "ஒன்று மகரந்தக் குழாயாகவும் மற்றது சூல்முடியாகவும் மாறுவதற்கு",
+          "ஒன்று முட்டையுடனும் மற்றது இரண்டாம் நிலை உட்கருவுடனும் இணைவதற்கு"
         ],
         "explanation": "ஒரு கேமீட் முட்டையுடன் இணைந்து (சின்கேமி) சைகோட்டையும், மற்றது இரண்டாம் நிலை உட்கருவுடன் இணைந்து (மும்மைக் கருவுறுதல்) முளைசூலூட்டத்தையும் உருவாக்குகிறது."
       }

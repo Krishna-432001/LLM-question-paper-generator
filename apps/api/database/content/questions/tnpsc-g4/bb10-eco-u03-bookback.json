@@ -13,20 +13,20 @@
       "en": {
         "q": "Buffer stock of wheat and rice is procured by the government through the",
         "options": [
-          "Consumer Cooperatives",
+          "Consumer Cooperatives (NCCF)",
           "Food Corporation of India (FCI)",
-          "ICICI",
-          "IFCI"
+          "Industrial Credit Corporation (ICICI)",
+          "Industrial Finance Corporation (IFCI)"
         ],
         "explanation": "The FCI purchases wheat and rice from farmers in surplus states at the pre-announced MSP and stores them as buffer stock."
       },
       "ta": {
         "q": "சேமிப்புக் கிடங்கு (காப்பு இருப்பு) உணவுத் தானியங்களான கோதுமை, அரிசியை அரசாங்கம் எந்த நிறுவனம் மூலம் கொள்முதல் செய்கிறது?",
         "options": [
-          "நுகர்வோர் கூட்டுறவு",
+          "நுகர்வோர் கூட்டுறவு (NCCF)",
           "இந்திய உணவுக் கழகம் (FCI)",
-          "ICICI",
-          "IFCI"
+          "தொழில் கடன் கழகம் (ICICI)",
+          "தொழில் நிதிக் கழகம் (IFCI)"
         ],
         "explanation": "உபரி உற்பத்தி மாநிலங்களில் விவசாயிகளிடமிருந்து FCI கோதுமை, அரிசியைக் கொள்முதல் செய்து சேமிக்கிறது."
       },
@@ -187,20 +187,20 @@
       "en": {
         "q": "Which statement about price and purchasing power is correct, according to the unit?",
         "options": [
-          "When prices fall, purchasing power rises; when prices rise, purchasing power declines",
+          "When prices rise, purchasing power declines",
           "When prices rise, purchasing power also rises",
           "Purchasing power is unaffected by price changes",
-          "A fall in the supply of goods raises purchasing power"
+          "A fall in supply raises purchasing power"
         ],
         "explanation": "Purchasing power is the amount of goods one unit of money can buy: price increases lower it and price falls raise it. A decline in production and supply raises prices and thus hurts purchasing power. (The book's A-R item is ambiguous as to whether R explains A; asked here as a plain fact.)"
       },
       "ta": {
         "q": "விலை மற்றும் வாங்கும் திறன் குறித்துப் பாடநூலின்படி சரியான கூற்று",
         "options": [
-          "விலை குறையும்போது வாங்கும் திறன் உயரும்; விலை உயரும்போது வாங்கும் திறன் குறையும்",
+          "விலை உயரும்போது வாங்கும் திறன் குறையும்",
           "விலை உயரும்போது வாங்கும் திறனும் உயரும்",
           "விலை மாற்றங்கள் வாங்கும் திறனைப் பாதிக்காது",
-          "பொருள்களின் அளிப்புக் குறைவு வாங்கும் திறனை உயர்த்தும்"
+          "அளிப்புக் குறைவு வாங்கும் திறனை உயர்த்தும்"
         ],
         "explanation": "விலை உயர்ந்தால் வாங்கும் திறன் குறையும், விலை குறைந்தால் அதிகரிக்கும். உற்பத்தி, அளிப்புக் குறைவு விலையை உயர்த்தி வாங்கும் திறனைப் பாதிக்கும்."
       },
@@ -216,10 +216,10 @@
       "en": {
         "q": "According to the FAO (2009), food security exists when all people, at all times, have physical, social and economic access to",
         "options": [
-          "free food grains from the government",
-          "imported food at subsidised prices",
-          "sufficient, safe and nutritious food that meets their dietary needs",
-          "only cereals and pulses"
+          "free food grains supplied by the government",
+          "imported food grains sold at subsidised prices",
+          "sufficient, safe and nutritious food",
+          "only cereals and pulses grown locally"
         ],
         "explanation": "FAO's definition stresses access to sufficient, safe and nutritious food meeting dietary needs and food preferences for an active, healthy life."
       },
@@ -227,9 +227,9 @@
         "q": "FAO (2009) வரையறையின்படி, எல்லா மக்களும் எல்லா நேரங்களிலும் எதற்கான உடல், சமூக, பொருளாதார அணுகுமுறையைக் கொண்டிருக்கும்போது உணவுப் பாதுகாப்பு உள்ளது?",
         "options": [
           "அரசு வழங்கும் இலவச உணவு தானியங்கள்",
-          "மானிய விலையில் இறக்குமதி உணவு",
-          "உணவுத் தேவைகளைப் பூர்த்தி செய்யும் போதுமான, பாதுகாப்பான, சத்தான உணவு",
-          "தானியங்களும் பருப்புகளும் மட்டும்"
+          "மானிய விலையில் விற்கப்படும் இறக்குமதி உணவு",
+          "போதுமான, பாதுகாப்பான, சத்தான உணவு",
+          "உள்ளூரில் விளையும் தானியங்களும் பருப்புகளும் மட்டும்"
         ],
         "explanation": "சுறுசுறுப்பான, ஆரோக்கியமான வாழ்க்கைக்கான போதுமான, பாதுகாப்பான, சத்தான உணவை அணுகும்போது உணவுப் பாதுகாப்பு உள்ளது."
       },
@@ -245,20 +245,20 @@
       "en": {
         "q": "Which of the following is NOT one of the three basic components of food and nutrition security?",
         "options": [
-          "Access",
-          "Availability",
+          "Access to food for everyone",
+          "Availability of food in markets",
           "Affordability of luxury goods",
-          "Absorption"
+          "Absorption of food by the body"
         ],
         "explanation": "The three components are availability, access and absorption."
       },
       "ta": {
         "q": "உணவு மற்றும் ஊட்டச்சத்துப் பாதுகாப்பின் மூன்று அடிப்படைக் கூறுகளில் இடம்பெறாதது எது?",
         "options": [
-          "அணுகல்",
-          "கிடைத்தல்",
+          "அனைவருக்கும் உணவு அணுகல்",
+          "சந்தையில் உணவுக் கிடைத்தல்",
           "ஆடம்பரப் பொருள்களை வாங்குதல்",
-          "உட்கொள்ளுதல்"
+          "உடல் உணவை உட்கொள்ளுதல்"
         ],
         "explanation": "கிடைத்தல், அணுகல், உட்கொள்ளுதல் ஆகியவை மூன்று அடிப்படைக் கூறுகள்."
       },
@@ -274,20 +274,20 @@
       "en": {
         "q": "In the Green Revolution, the Food Corporation of India (FCI) procured harvested grains and also",
         "options": [
-          "built huge storage godowns and buffer stocks of food grain",
-          "introduced HYV seeds to farmers",
+          "built storage godowns and buffer stocks",
+          "introduced HYV seeds to small farmers",
           "announced the Public Law 480 scheme",
-          "fixed the prices of fertilisers"
+          "fixed the retail prices of fertilisers"
         ],
         "explanation": "The state procured harvested grains through the FCI, which built godowns and buffer stocks distributed through the year."
       },
       "ta": {
         "q": "பசுமைப் புரட்சியில் இந்திய உணவுக் கழகம் (FCI), அறுவடை செய்த தானியங்களைக் கொள்முதல் செய்வதுடன் மேலும்",
         "options": [
-          "பெரிய சேமிப்புக் கிடங்குகளையும் தானியக் காப்பு இருப்பையும் உருவாக்கியது",
-          "விவசாயிகளுக்கு HYV விதைகளை அறிமுகம் செய்தது",
-          "பொதுச் சட்டம் 480 திட்டத்தை அறிவித்தது",
-          "உரங்களின் விலையை நிர்ணயித்தது"
+          "சேமிப்புக் கிடங்குகளையும் காப்பு இருப்பையும் உருவாக்கியது",
+          "சிறு விவசாயிகளுக்கு HYV விதைகளை அறிமுகம் செய்தது",
+          "பொதுச் சட்டம் 480 திட்டத்தை நாடு முழுவதும் அறிவித்தது",
+          "உரங்களின் சில்லறை விற்பனை விலையை நிர்ணயித்தது"
         ],
         "explanation": "FCI கொள்முதல் செய்து, கிடங்குகள் கட்டி, ஆண்டு முழுவதும் விநியோகிக்கக் காப்பு இருப்பை உருவாக்கியது."
       },
@@ -362,9 +362,9 @@
         "q": "The Minimum Support Price (MSP) for a crop is fixed by",
         "options": [
           "the farmers of the region, at harvest time",
-          "the World Bank",
-          "the open market on harvest day",
-          "an expert group, considering the various costs of cultivating the crop"
+          "the World Bank and the IMF jointly",
+          "the open market price on harvest day",
+          "an expert group, based on cultivation costs"
         ],
         "explanation": "After MSP is announced the state opens procurement centres; farmers may still sell in the open market if prices are better."
       },
@@ -372,9 +372,9 @@
         "q": "ஒரு பயிருக்கான குறைந்தபட்ச ஆதரவு விலையை (MSP) நிர்ணயிப்பவர்",
         "options": [
           "அறுவடை நேரத்தில் அப்பகுதி விவசாயிகள்",
-          "உலக வங்கி",
-          "அறுவடை நாளின் திறந்தவெளிச் சந்தை",
-          "அப்பயிரின் சாகுபடிச் செலவுகளைக் கருத்தில் கொண்டு நிபுணர் குழு"
+          "உலக வங்கி மற்றும் IMF இணைந்து",
+          "அறுவடை நாளின் திறந்தவெளிச் சந்தை விலை",
+          "சாகுபடிச் செலவு அடிப்படையில் நிபுணர் குழு"
         ],
         "explanation": "MSP அறிவிக்கப்பட்ட பின் அரசு கொள்முதல் மையங்களைத் திறக்கும்; நல்ல விலை கிடைத்தால் விவசாயிகள் திறந்தவெளிச் சந்தையிலும் விற்கலாம்."
       },

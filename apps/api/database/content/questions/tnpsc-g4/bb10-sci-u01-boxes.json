@@ -133,7 +133,7 @@
           "N m",
           "kg m s⁻²",
           "N s⁻¹",
-          "N s (kg m s⁻¹)"
+          "N s"
         ],
         "explanation": "J = F × t = Δp; the unit is kg m s⁻¹ or N s."
       },
@@ -143,7 +143,7 @@
           "N m",
           "கிகி மீ வி⁻²",
           "N s⁻¹",
-          "N s (கிகி மீ வி⁻¹)"
+          "N s"
         ],
         "explanation": "J = F × t = Δp; அலகு கிகி மீ வி⁻¹ அல்லது N s."
       }
@@ -160,9 +160,9 @@
         "q": "Which statement about weight is correct?",
         "options": [
           "Its unit is newton, and it is more at the equator",
-          "It is a scalar quantity measured in kg",
+          "It is a scalar quantity that is measured in kg",
           "Its unit is kilogram, and it is the same everywhere",
-          "Its unit is newton or kg f, and it is more at the poles than at the equator"
+          "Its unit is newton, and it is more at the poles"
         ],
         "explanation": "Weight = mg is a vector; g is larger at the poles because the Earth's radius is smaller there."
       },
@@ -172,7 +172,7 @@
           "அதன் அலகு நியூட்டன்; நிலநடுக்கோட்டில் அதிகம்",
           "அது கிகி-இல் அளவிடப்படும் ஸ்கேலர் அளவு",
           "அதன் அலகு கிலோகிராம்; எல்லா இடங்களிலும் சமம்",
-          "அதன் அலகு நியூட்டன் அல்லது kg f; நிலநடுக்கோட்டை விடத் துருவங்களில் அதிகம்"
+          "அதன் அலகு நியூட்டன்; துருவங்களில் அதிகம்"
         ],
         "explanation": "எடை = mg ஒரு வெக்டர்; துருவங்களில் புவியின் ஆரம் குறைவாதலால் g அதிகம்."
       }
@@ -188,10 +188,10 @@
       "en": {
         "q": "The weight of a body acquired due to the action of gravity and other external forces acting on it is its",
         "options": [
-          "moment",
-          "momentum",
+          "moment of force",
+          "linear momentum",
           "apparent weight",
-          "mass"
+          "mass of the body"
         ],
         "explanation": "In a lift moving upward with acceleration a, R = m(g + a)."
       },

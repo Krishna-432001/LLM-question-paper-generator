@@ -130,8 +130,8 @@
         "q": "The Sathanur dam is constructed across the river",
         "options": [
           "Cauvery",
-          "Vaigai",
-          "Thenpennai (Ponnaiyar)",
+          "Thamirabarani",
+          "Thenpennai",
           "Bhavani"
         ],
         "explanation": "It is in Chengam taluk amidst the Chennakesava hills and has a large crocodile farm."
@@ -140,7 +140,7 @@
         "q": "சாத்தனூர் அணை எந்த ஆற்றின் குறுக்கே கட்டப்பட்டுள்ளது?",
         "options": [
           "காவிரி",
-          "வைகை",
+          "தாமிரபரணி",
           "தென்பெண்ணை",
           "பவானி"
         ],
@@ -160,7 +160,7 @@
         "options": [
           "Kolkata",
           "Bengaluru",
-          "Chennai International Airport",
+          "Chennai",
           "Hyderabad"
         ],
         "explanation": "According to the unit, Chennai is the third largest airport (more recent traffic figures place Bengaluru third). Other international airports in Tamil Nadu are Coimbatore, Madurai and Tiruchirappalli."
@@ -343,9 +343,9 @@
         "q": "கோயம்புத்தூர் 'தென்னிந்தியாவின் மான்செஸ்டர்' என அழைக்கப்படுவதற்குக் காரணம் அதன்",
         "options": [
           "பருத்தி ஜவுளித் தொழில்",
-          "வாகனத் தொழில்",
-          "காகிதத் தொழில்",
-          "தோல் தொழில்"
+          "வாகனத் தயாரிப்புத் தொழில்",
+          "காகிதம் தயாரிக்கும் தொழில்",
+          "தோல் பதனிடும் தொழில்"
         ],
         "explanation": "பெரும்பாலான நூற்பாலைகள் கோவையைச் சுற்றி உள்ளன."
       },
@@ -361,10 +361,10 @@
       "en": {
         "q": "Which of the following is a multipurpose project of Tamil Nadu listed in the unit?",
         "options": [
-          "Hirakud Dam",
+          "Hirakud Dam in Odisha",
           "Bhavani Sagar Dam",
-          "Bhakra Dam",
-          "Tehri Dam"
+          "Bhakra Nangal Dam",
+          "Tehri Dam in Uttarakhand"
         ],
         "explanation": "Bhavani Sagar is across the Bhavani river in Erode district and is one of the biggest earthen dams in the country."
       },
@@ -401,7 +401,7 @@
         "q": "சென்னையில் செயல்படும் MRTS என்பதன் விரிவாக்கம்",
         "options": [
           "கடல்சார் சாலைப் போக்குவரத்துத் திட்டம்",
-          "பறக்கும் தொடருந்துத் திட்டம் (Mass Rapid Transport System)",
+          "பறக்கும் தொடருந்துத் திட்டம்",
           "மெட்ரோ இரயில் சுரங்க அமைப்பு",
           "நகராட்சி விரைவுப் போக்குவரத்துச் சேவை"
         ],
@@ -429,10 +429,10 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் தமிழ்நாட்டின் பெரிய துறைமுகம் எது?",
         "options": [
-          "கொச்சி",
-          "தூத்துக்குடி",
-          "மங்களூர்",
-          "பாரதீப்"
+          "கொச்சி துறைமுகம்",
+          "தூத்துக்குடி துறைமுகம்",
+          "மங்களூர் துறைமுகம்",
+          "பாரதீப் துறைமுகம்"
         ],
         "explanation": "சென்னை, எண்ணூர், தூத்துக்குடி பெரிய துறைமுகங்கள்; நாகப்பட்டினம் இடைநிலைத் துறைமுகம்."
       },
@@ -448,20 +448,20 @@
       "en": {
         "q": "Inland fishing is carried out in",
         "options": [
-          "lakes, rivers, ponds, estuaries, backwaters and swamps",
-          "oceans and seas only",
-          "off-shore deep seas only",
-          "the continental shelf only"
+          "lakes, rivers, ponds and backwaters",
+          "the open oceans and seas only",
+          "off-shore deep sea waters only",
+          "the continental shelf waters only"
         ],
         "explanation": "Marine fishing is carried out in oceans and seas; inshore fishing is within a few kilometres of the shore and off-shore fishing 20-30 miles out."
       },
       "ta": {
         "q": "உள்நாட்டு மீன்பிடித்தல் நடைபெறும் இடங்கள்",
         "options": [
-          "ஏரிகள், ஆறுகள், குளங்கள், கழிமுகங்கள், காயல்கள், சதுப்புகள்",
-          "கடல்களும் பெருங்கடல்களும் மட்டும்",
-          "ஆழ்கடல் மட்டும்",
-          "கண்டத் திட்டு மட்டும்"
+          "ஏரிகள், ஆறுகள், குளங்கள், காயல்கள்",
+          "திறந்த கடல்களும் பெருங்கடல்களும் மட்டும்",
+          "ஆழ்கடல் நீர்ப்பகுதி மட்டும்",
+          "கண்டத் திட்டுப் பகுதி மட்டும்"
         ],
         "explanation": "கடல் மீன்பிடித்தல் கடல்களிலும் பெருங்கடல்களிலும் நடைபெறும்."
       },
@@ -487,10 +487,10 @@
       "ta": {
         "q": "தமிழ்நாட்டின் முதன்மை உணவுப் பயிர் எது?",
         "options": [
-          "கரும்பு",
-          "பருத்தி",
+          "கரும்புப் பயிர்",
+          "பருத்திப் பயிர்",
           "சிறுதானியங்கள்",
-          "ரப்பர்"
+          "ரப்பர் மரப்பயிர்"
         ],
         "explanation": "நெல், சிறுதானியங்கள், பருப்பு உணவுப் பயிர்கள்; கரும்பு, பருத்தி, தேயிலை, காபி, ரப்பர் வணிகப் பயிர்கள்."
       },
@@ -506,10 +506,10 @@
       "en": {
         "q": "In organic farming (the 'Second Green Revolution'), which of the following is NOT used?",
         "options": [
-          "Crop rotation",
-          "Animal manure",
+          "Crop rotation with legumes",
+          "Animal manure and compost",
           "Synthetic fertilizers and pesticides",
-          "Biological pest control"
+          "Biological pest control methods"
         ],
         "explanation": "Organic farming relies on crop rotation, crop residues, animal manure, off-farm organic wastes and biological pest control to maintain soil productivity."
       },

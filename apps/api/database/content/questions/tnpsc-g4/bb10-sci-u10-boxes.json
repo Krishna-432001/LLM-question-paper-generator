@@ -15,9 +15,9 @@
         "q": "In a chemical equation, the symbol (aq) denotes",
         "options": [
           "an aqueous solution",
-          "a liquid",
-          "a gas",
-          "a solid"
+          "a pure liquid substance",
+          "a gas at room temperature",
+          "a solid in crystal form"
         ],
         "explanation": "s = solid, l = liquid, g = gas, aq = aqueous solution."
       },
@@ -25,9 +25,9 @@
         "q": "வேதிச் சமன்பாட்டில் (aq) என்ற குறியீடு குறிப்பது",
         "options": [
           "நீர்க்கரைசல்",
-          "திரவம்",
-          "வாயு",
-          "திண்மம்"
+          "தூய திரவப் பொருள்",
+          "அறை வெப்பநிலையில் வாயு",
+          "படிக வடிவில் திண்மம்"
         ],
         "explanation": "s = திண்மம், l = திரவம், g = வாயு, aq = நீர்க்கரைசல்."
       }
@@ -46,7 +46,7 @@
           "calcium chloride",
           "calcium oxide",
           "calcium sulphate",
-          "calcium carbonate, the same compound as marble"
+          "calcium carbonate"
         ],
         "explanation": "Calcium carbonate is formed after two to three days of whitewashing."
       },
@@ -56,7 +56,7 @@
           "கால்சியம் குளோரைடு",
           "கால்சியம் ஆக்சைடு",
           "கால்சியம் சல்பேட்",
-          "மார்பிளின் வாய்பாடான கால்சியம் கார்பனேட்"
+          "கால்சியம் கார்பனேட்"
         ],
         "explanation": "வெள்ளையடித்த இரண்டு மூன்று நாட்களில் கால்சியம் கார்பனேட் உருவாகிறது."
       }
@@ -74,7 +74,7 @@
         "options": [
           "a single arrow (→)",
           "a downward arrow (↓)",
-          "two arrows pointing in opposite directions (⇌)",
+          "two opposite arrows (⇌)",
           "an equal sign (=)"
         ],
         "explanation": "In a reversible reaction the products can be converted back to the reactants."
@@ -82,10 +82,10 @@
       "ta": {
         "q": "மீள் வினை எவ்வாறு குறிக்கப்படுகிறது?",
         "options": [
-          "ஒற்றை அம்புக்குறி (→)",
+          "ஒரே ஓர் அம்புக்குறி (→)",
           "கீழ்நோக்கிய அம்புக்குறி (↓)",
-          "எதிரெதிர்த் திசையில் இரு அம்புக்குறிகள் (⇌)",
-          "சம குறி (=)"
+          "எதிரெதிர் இரு அம்புக்குறிகள் (⇌)",
+          "சமக்குறி எனும் குறியீடு (=)"
         ],
         "explanation": "மீள் வினையில் விளைபொருட்கள் மீண்டும் வினைபடுபொருட்களாக மாறும்."
       }

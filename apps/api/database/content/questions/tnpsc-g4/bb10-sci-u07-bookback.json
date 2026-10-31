@@ -44,8 +44,8 @@
         "q": "Atoms and Molecules: Which of the following is a triatomic molecule?",
         "options": [
           "Carbon dioxide",
-          "Hydrogen",
-          "Helium",
+          "Hydrogen gas",
+          "Helium gas",
           "Glucose"
         ],
         "explanation": "CO₂ has three atoms per molecule; He is monoatomic, H₂ diatomic, and glucose has 24 atoms."
@@ -54,8 +54,8 @@
         "q": "கீழ்க்கண்டவற்றுள் மூவணு மூலக்கூறு எது?",
         "options": [
           "கார்பன் டை ஆக்சைடு",
-          "ஹைட்ரஜன்",
-          "ஹீலியம்",
+          "ஹைட்ரஜன் வாயு",
+          "ஹீலியம் வாயு",
           "குளுக்கோஸ்"
         ],
         "explanation": "CO₂-இல் ஒரு மூலக்கூறுக்கு மூன்று அணுக்கள்; He ஓரணு, H₂ ஈரணு, குளுக்கோஸில் 24 அணுக்கள்."
@@ -140,10 +140,10 @@
       "ta": {
         "q": "1 amu என்பது",
         "options": [
-          "C-12 அணுவின் நிறையில் 1/12 பங்கு",
-          "ஹைட்ரஜன் அணுவின் நிறை",
-          "O-16 அணுவின் நிறை",
-          "C-12 அணுவின் நிறை"
+          "C-12 அணு நிறையின் 1/12 பங்கு",
+          "ஹைட்ரஜன் அணு ஒன்றின் நிறை",
+          "ஆக்சிஜன் O-16 அணுவின் நிறை",
+          "C-12 அணு ஒன்றின் முழு நிறை"
         ],
         "explanation": "ஒரு புரோட்டான் அல்லது நியூட்ரானின் நிறை ஏறக்குறைய 1 amu."
       }
@@ -539,7 +539,7 @@
           "The gram atomic mass of an element has no unit",
           "Noble gases are diatomic",
           "Two elements can never form more than one compound",
-          "Two elements can sometimes form more than one compound (e.g. CO and CO₂)"
+          "Two elements can sometimes form more than one compound"
         ],
         "explanation": "Carbon and oxygen form CO and CO₂."
       },
@@ -549,7 +549,7 @@
           "தனிமத்தின் கிராம் அணுநிறைக்கு அலகு இல்லை",
           "மந்த வாயுக்கள் ஈரணுவுடையவை",
           "இரு தனிமங்கள் ஒருபோதும் ஒன்றுக்கு மேற்பட்ட சேர்மங்களை உருவாக்காது",
-          "இரு தனிமங்கள் சில சமயம் ஒன்றுக்கு மேற்பட்ட சேர்மங்களை உருவாக்கலாம் (எ.கா. CO, CO₂)"
+          "இரு தனிமங்கள் சில சமயம் ஒன்றுக்கு மேற்பட்ட சேர்மங்களை உருவாக்கலாம்"
         ],
         "explanation": "கார்பனும் ஆக்சிஜனும் CO, CO₂ ஆகியவற்றை உருவாக்குகின்றன."
       }
@@ -739,20 +739,20 @@
       "en": {
         "q": "Atoms and Molecules: Which of the following is a heterodiatomic molecule?",
         "options": [
-          "O₂",
-          "H₂",
-          "N₂",
-          "HCl"
+          "O₂ gas",
+          "H₂ gas",
+          "N₂ gas",
+          "HCl gas"
         ],
         "explanation": "A heterodiatomic molecule has two atoms of different elements (HCl, CO, NO)."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் வேற்றணு ஈரணு மூலக்கூறு எது?",
         "options": [
-          "O₂",
-          "H₂",
-          "N₂",
-          "HCl"
+          "O₂ வாயு",
+          "H₂ வாயு",
+          "N₂ வாயு",
+          "HCl வாயு"
         ],
         "explanation": "வெவ்வேறு தனிமங்களின் இரு அணுக்களைக் கொண்டவை (HCl, CO, NO) வேற்றணு ஈரணு மூலக்கூறுகள்."
       }

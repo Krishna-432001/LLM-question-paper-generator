@@ -42,20 +42,20 @@
       "en": {
         "q": "A landmass surrounded by sea on three sides is called a",
         "options": [
-          "island",
-          "coast",
+          "plateau",
+          "coastline",
           "peninsula",
-          "strait"
+          "isthmus"
         ],
         "explanation": "India is a peninsula, washed by the Arabian Sea, the Indian Ocean and the Bay of Bengal."
       },
       "ta": {
         "q": "மூன்று பக்கம் நீரால் சூழப்பட்ட நிலப்பகுதி ________ எனப்படும்.",
         "options": [
-          "தீவு",
+          "பீடபூமி",
           "கடற்கரை",
           "தீபகற்பம்",
-          "நீர்ச்சந்தி"
+          "நிலச்சந்தி"
         ],
         "explanation": "இந்தியா மூன்று பக்கம் கடலால் சூழப்பட்ட தீபகற்பம்."
       },
@@ -187,20 +187,20 @@
       "en": {
         "q": "The Himalayas are called young fold mountains because they were",
         "options": [
-          "formed by volcanic eruptions long ago",
-          "formed by river deposition",
-          "formed only a few million years ago by folding of the earth's crust due to tectonic activity",
-          "formed from the Gondwana land mass alone"
+          "formed by volcanic eruptions in the distant geological past",
+          "formed by the deposition of river sediments over a long period",
+          "formed a few million years ago by tectonic folding of the crust",
+          "carved out of the ancient Gondwana land mass by erosion alone"
         ],
         "explanation": "The Tethys sea between Eurasia and Gondwana was uplifted by compression, forming the Himalayas."
       },
       "ta": {
         "q": "இமயமலைகள் மடிப்புமலைகள் எனப்படுவதற்குக் காரணம், அவை",
         "options": [
-          "பல ஆண்டுகளுக்கு முன் எரிமலை வெடிப்பால் உருவானவை",
-          "ஆறுகளின் படிவால் உருவானவை",
-          "சில மில்லியன் ஆண்டுகளுக்கு முன் புவிப்பொறைகளின் இயக்கத்தால் மடிந்து உருவானவை",
-          "கோண்டுவானா நிலப்பகுதியால் மட்டும் உருவானவை"
+          "தொலைதூரக் கடந்த காலத்தில் எரிமலை வெடிப்பால் உருவானவை",
+          "ஆறுகள் படிய வைத்த வண்டல் படிவுகளால் உருவானவை",
+          "சில மில்லியன் ஆண்டுகளுக்கு முன் மடிப்பால் உருவானவை",
+          "பழைய கோண்டுவானா நிலப்பகுதியால் மட்டுமே உருவானவை"
         ],
         "explanation": "யூரேசியா, கோண்டுவானா நிலப்பகுதிகளுக்கிடையே இருந்த டெத்திஸ் கடல் அழுத்தத்தால் மேலெழுந்து இமயமலை உருவானது."
       },
@@ -216,20 +216,20 @@
       "en": {
         "q": "North Indian (Himalayan) rivers are perennial because they",
         "options": [
-          "originate in the Himalayas and are fed by melting snow as well as rain",
-          "flow only westwards",
-          "are short and narrow",
-          "are fed only by rainfall"
+          "are fed by both melting snow and rain",
+          "flow only towards the west coast",
+          "are short, narrow and easily dried up",
+          "are fed only by the monsoon rainfall"
         ],
         "explanation": "The Himalayan rivers are long and wide, perennial, and their middle and lower courses are navigable."
       },
       "ta": {
         "q": "வட இந்திய ஆறுகள் வற்றாத ஆறுகளாக இருப்பதற்குக் காரணம், அவை",
         "options": [
-          "இமயமலையில் உற்பத்தியாகி பனி உருகுவதாலும் மழையாலும் நீர் பெறுகின்றன",
-          "மேற்கு நோக்கி மட்டுமே பாய்கின்றன",
-          "குறுகிய, சிறிய ஆறுகள்",
-          "மழையை மட்டுமே நம்பியுள்ளன"
+          "பனி உருகுவதாலும் மழையாலும் நீர் பெறுகின்றன",
+          "மேற்குக் கடற்கரை நோக்கி மட்டுமே பாய்கின்றன",
+          "குறுகிய, சிறிய, எளிதில் வற்றும் ஆறுகள்",
+          "பருவமழையை மட்டுமே நம்பியுள்ளன"
         ],
         "explanation": "இமயமலை ஆறுகள் நீளமானவை, அகலமானவை, வற்றாதவை; இடை, கீழ் பாதைகளில் கப்பல் போக்குவரத்து உண்டு."
       },
@@ -303,20 +303,20 @@
       "en": {
         "q": "Which of the following correctly describes the Eastern Ghats as compared with the Western Ghats?",
         "options": [
-          "They are discontinuous, being dissected by rivers such as the Mahanadi, Godavari, Krishna, Pennar and Kaveri",
-          "They are continuous and higher",
-          "They run parallel to the Arabian Sea coast",
-          "Their northern part is called Sahyadris"
+          "They are discontinuous, cut through by several rivers",
+          "They are continuous and much higher in elevation",
+          "They run close and parallel to the Arabian Sea coast",
+          "Their northern stretch is known as the Sahyadris range"
         ],
         "explanation": "The Eastern Ghats (Poorvadri) run southwest to northeast and join the Western Ghats at the Nilgiris."
       },
       "ta": {
         "q": "மேற்குத் தொடர்ச்சி மலையுடன் ஒப்பிடும்போது கிழக்குத் தொடர்ச்சி மலை பற்றிய சரியான கூற்று",
         "options": [
-          "மகாநதி, கோதாவரி, கிருஷ்ணா, பெண்ணாறு, காவிரி ஆகியவற்றால் துண்டிக்கப்பட்டுத் தொடர்ச்சியற்றது",
-          "தொடர்ச்சியானது; அதிக உயரமானது",
-          "அரபிக்கடல் கடற்கரைக்குச் சமாந்தரமாக உள்ளது",
-          "அதன் வடபகுதி சஹ்யாத்ரி எனப்படும்"
+          "பல ஆறுகளால் வெட்டப்பட்டுத் தொடர்ச்சியற்றது",
+          "தொடர்ச்சியானது; மிக அதிக உயரம் கொண்டது",
+          "அரபிக்கடல் கடற்கரைக்கு அருகில் சமாந்தரமாக உள்ளது",
+          "அதன் வடபகுதி சஹ்யாத்ரி மலைத்தொடர் எனப்படும்"
         ],
         "explanation": "கிழக்குத் தொடர்ச்சி மலை (பூர்வாத்ரி) தென்மேற்கிலிருந்து வடகிழக்காக நீள்கிறது; நீலகிரியில் மேற்குத் தொடர்ச்சி மலையுடன் இணைகிறது."
       },
@@ -332,20 +332,20 @@
       "en": {
         "q": "The Eastern Coastal Plain differs from the Western Coastal Plain in that it",
         "options": [
-          "extends from Rann of Kutch to Kanyakumari",
+          "extends from the Rann of Kutch to Kanyakumari",
           "lies between the Western Ghats and the Arabian Sea",
           "is characterised by kayals and backwaters of the Malabar coast",
-          "is formed by alluvial deposits of east-flowing rivers and has a regular shoreline with well-defined beaches"
+          "is formed by alluvial deposits of east-flowing rivers"
         ],
         "explanation": "The Western Coastal Plain (10-80 km wide) has sandy beaches, lagoons and backwaters; the Eastern plain is wider with the Northern Circars and Coromandel coast."
       },
       "ta": {
         "q": "மேற்குக் கடற்கரைச் சமவெளியிலிருந்து கிழக்குக் கடற்கரைச் சமவெளி எவ்வாறு வேறுபடுகிறது?",
         "options": [
-          "கட்ச் ரண் முதல் கன்னியாகுமரி வரை நீள்கிறது",
+          "கட்ச் ரண் முதல் கன்னியாகுமரி வரை நீண்டு காணப்படுகிறது",
           "மேற்குத் தொடர்ச்சி மலைக்கும் அரபிக்கடலுக்கும் இடையே உள்ளது",
-          "மலபார் கடற்கரையின் காயல்களைக் கொண்டது",
-          "கிழக்கு நோக்கிப் பாயும் ஆறுகளின் வண்டல் படிவுகளால் உருவானது; ஒழுங்கான கடற்கரை, தெளிவான கடற்கரை மணல் கொண்டது"
+          "மலபார் கடற்கரையின் காயல்களையும் உப்பங்கழிகளையும் கொண்டது",
+          "கிழக்கு நோக்கிப் பாயும் ஆறுகளின் வண்டல் படிவுகளால் உருவானது"
         ],
         "explanation": "மேற்குச் சமவெளி (10-80 கி.மீ) மணல் கடற்கரை, காயல்கள் கொண்டது; கிழக்குச் சமவெளியில் வட சர்க்கார், சோழ மண்டலக் கடற்கரை உள்ளன."
       },

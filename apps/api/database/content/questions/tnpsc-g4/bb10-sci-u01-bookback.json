@@ -72,10 +72,10 @@
       "en": {
         "q": "Newton's third law of motion is applicable to",
         "options": [
-          "bodies at rest only",
-          "bodies at rest as well as bodies in motion",
-          "bodies of equal masses only",
-          "bodies in motion only"
+          "stationary bodies at rest only",
+          "bodies both at rest and in motion",
+          "bodies of exactly equal masses only",
+          "bodies that are in motion only"
         ],
         "explanation": "Action and reaction act on two different bodies whether they are at rest or in motion, whatever their masses."
       },
@@ -83,7 +83,7 @@
         "q": "நியூட்டனின் மூன்றாம் விதி எவற்றிற்குப் பொருந்தும்?",
         "options": [
           "ஓய்வுநிலையிலுள்ள பொருளுக்கு மட்டும்",
-          "ஓய்வுநிலையிலுள்ள மற்றும் இயக்கநிலையிலுள்ள பொருட்களுக்கு",
+          "ஓய்விலும் இயக்கத்திலும் உள்ள பொருட்களுக்கு",
           "சமநிறையுள்ள பொருட்களுக்கு மட்டும்",
           "இயக்கநிலையிலுள்ள பொருளுக்கு மட்டும்"
         ],
@@ -275,9 +275,9 @@
       "en": {
         "q": "Which principle(s) is/are involved in the launching of rockets?",
         "options": [
-          "Newton's third law of motion and the law of conservation of linear momentum",
-          "Newton's law of gravitation only",
-          "Newton's third law of motion only",
+          "Newton's third law and conservation of momentum",
+          "Newton's law of gravitation and Kepler's laws",
+          "Newton's third law of motion only, by itself",
           "Law of conservation of linear momentum only"
         ],
         "explanation": "Rocket propulsion rests on both Newton's third law and the conservation of linear momentum."
@@ -285,10 +285,10 @@
       "ta": {
         "q": "ராக்கெட் ஏவுதலில் பயன்படுத்தப்படும் விதி/விதிகள் எவை?",
         "options": [
-          "நியூட்டனின் மூன்றாம் விதி மற்றும் நேர்க்கோட்டு உந்த மாறாக் கோட்பாடு",
-          "நியூட்டனின் பொது ஈர்ப்பியல் விதி மட்டும்",
-          "நியூட்டனின் மூன்றாம் விதி மட்டும்",
-          "நேர்க்கோட்டு உந்த மாறாக் கோட்பாடு மட்டும்"
+          "நியூட்டனின் மூன்றாம் விதியும் உந்த மாறாக் கோட்பாடும்",
+          "நியூட்டனின் பொது ஈர்ப்பியல் விதியும் கெப்ளர் விதிகளும்",
+          "நியூட்டனின் மூன்றாம் விதி மட்டுமே, தனியாக",
+          "நேர்க்கோட்டு உந்த மாறாக் கோட்பாடு மட்டுமே"
         ],
         "explanation": "ராக்கெட்டின் உந்துதல் நியூட்டனின் மூன்றாம் விதியையும் நேர்க்கோட்டு உந்த அழிவின்மை விதியையும் அடிப்படையாகக் கொண்டது."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "Astronauts in an orbiting space station feel weightlessness because",
         "options": [
-          "they and the station are in a state of free fall around the Earth",
-          "the Earth's gravity is cancelled by the Moon",
-          "there is no gravity at that height",
-          "their mass becomes zero in space"
+          "they and the station are in free fall around the Earth",
+          "the Earth's gravity is fully cancelled by the Moon's pull",
+          "there is no gravity at all at that height above Earth",
+          "their mass becomes zero while they are in space"
         ],
         "explanation": "Gravity is still acting; the astronauts and the station fall freely with the same acceleration, so the apparent weight R = 0."
       },
       "ta": {
         "q": "புவியைச் சுற்றும் விண்வெளி மையத்திலுள்ள விண்வெளி வீரர்கள் எடையின்மையை உணரக் காரணம்",
         "options": [
-          "அவர்களும் விண்வெளி மையமும் புவியைச் சுற்றித் தடையின்றி விழுந்துகொண்டிருப்பதே",
-          "நிலவின் ஈர்ப்பால் புவியின் ஈர்ப்பு சமன் செய்யப்படுவதே",
-          "அந்த உயரத்தில் புவிஈர்ப்பு விசை இல்லாததே",
-          "விண்வெளியில் அவர்களின் நிறை சுழியாவதே"
+          "அவர்களும் விண்வெளி மையமும் புவியைச் சுற்றித் தடையின்றி விழுவதே",
+          "நிலவின் ஈர்ப்பால் புவியின் ஈர்ப்பு முழுமையாகச் சமன் செய்யப்படுவதே",
+          "அவ்வளவு உயரத்தில் புவிஈர்ப்பு விசை சிறிதும் இல்லாததே",
+          "விண்வெளியில் இருக்கும்போது அவர்களின் நிறை சுழியாவதே"
         ],
         "explanation": "புவிஈர்ப்பு விசை தொடர்ந்து செயல்படுகிறது; வீரர்களும் மையமும் ஒரே முடுக்கத்துடன் தடையின்றி விழுவதால் தோற்ற எடை R = 0 ஆகிறது. நூலிலுள்ள கூற்று தவறு."
       }
@@ -710,10 +710,10 @@
       "en": {
         "q": "According to Newton's second law of motion, the force acting on a body is directly proportional to the",
         "options": [
-          "rate of change of linear momentum of the body",
-          "distance travelled by the body",
-          "square of its velocity",
-          "change of mass of the body"
+          "rate of change of its linear momentum",
+          "total distance travelled by the body",
+          "square of its instantaneous velocity",
+          "change in the mass of the body over time"
         ],
         "explanation": "F ∝ (mv − mu)/t, which gives F = ma; hence it is also called the law of force."
       },
@@ -721,9 +721,9 @@
         "q": "நியூட்டனின் இரண்டாம் விதிப்படி, ஒரு பொருள் மீது செயல்படும் விசை எதற்கு நேர் விகிதத்தில் இருக்கும்?",
         "options": [
           "பொருளின் நேர்க்கோட்டு உந்த மாற்றவீதம்",
-          "பொருள் கடந்த தொலைவு",
-          "திசைவேகத்தின் வர்க்கம்",
-          "பொருளின் நிறை மாற்றம்"
+          "பொருள் கடந்த மொத்தத் தொலைவு",
+          "அதன் திசைவேகத்தின் வர்க்கம்",
+          "காலத்துடன் பொருளின் நிறை மாற்றம்"
         ],
         "explanation": "F ∝ (mv − mu)/t; இதிலிருந்து F = ma கிடைக்கிறது. எனவே இது 'விசையின் விதி' எனப்படும்."
       }
@@ -855,20 +855,20 @@
       "en": {
         "q": "Which of the following is a correct difference between mass and weight?",
         "options": [
-          "Mass is measured in newton and weight in kilogram",
-          "Mass is a vector and weight is a scalar",
-          "Mass changes with the planet while weight is constant",
-          "Mass is the quantity of matter and is constant, whereas weight is a force that varies from place to place"
+          "Mass is measured in newton and weight is measured in kilogram",
+          "Mass is a vector quantity while weight is a scalar quantity",
+          "Mass changes from planet to planet while weight is always constant",
+          "Mass is the amount of matter and is constant; weight is a force that varies with place"
         ],
         "explanation": "Mass (kg) is a scalar basic property; weight (N) = mg is a vector pointing to the Earth's centre and depends on g."
       },
       "ta": {
         "q": "நிறைக்கும் எடைக்கும் உள்ள வேறுபாட்டைச் சரியாகக் கூறும் கூற்று எது?",
         "options": [
-          "நிறையின் அலகு நியூட்டன்; எடையின் அலகு கிலோகிராம்",
-          "நிறை ஒரு வெக்டர்; எடை ஒரு ஸ்கேலர்",
-          "நிறை கோளுக்கேற்ப மாறும்; எடை மாறிலி",
-          "நிறை என்பது பருப்பொருளின் அளவு, மாறாதது; எடை என்பது இடத்திற்கு இடம் மாறும் விசை"
+          "நிறை நியூட்டனிலும் எடை கிலோகிராமிலும் அளவிடப்படுகின்றன",
+          "நிறை ஒரு வெக்டர் அளவு; எடை ஒரு ஸ்கேலர் அளவு ஆகும்",
+          "நிறை கோளுக்குக் கோள் மாறும்; எடை எப்போதும் மாறிலி",
+          "நிறை பருப்பொருளின் அளவு, மாறாதது; எடை இடத்திற்கு ஏற்ப மாறும் விசை"
         ],
         "explanation": "நிறை (kg) ஒரு ஸ்கேலர் அடிப்படைப் பண்பு; எடை (N) = mg ஒரு வெக்டர்; புவி மையத்தை நோக்கிச் செயல்படும்; g-ஐப் பொறுத்து மாறும்."
       }
@@ -884,20 +884,20 @@
       "en": {
         "q": "The moment of a couple is measured by",
         "options": [
-          "the difference of the two forces",
-          "the product of the two forces",
-          "one of the forces × the perpendicular distance between the lines of action of the two forces",
-          "the sum of the two forces"
+          "the difference between the magnitudes of the two forces",
+          "the product of the magnitudes of the two forces",
+          "one of the forces × the perpendicular distance between them",
+          "the sum of the magnitudes of the two forces"
         ],
         "explanation": "M = F × S; the SI unit is N m (dyne cm in CGS)."
       },
       "ta": {
         "q": "இரட்டையின் திருப்புத்திறன் எதன் மூலம் அளவிடப்படுகிறது?",
         "options": [
-          "இரு விசைகளின் வித்தியாசம்",
-          "இரு விசைகளின் பெருக்கற்பலன்",
-          "இரு விசைகளில் ஒன்றின் மதிப்பு × இரு விசைகளின் செயல்படு கோடுகளுக்கு இடையேயான செங்குத்துத் தொலைவு",
-          "இரு விசைகளின் கூடுதல்"
+          "இரு விசைகளின் எண்மதிப்புகளுக்கு இடையேயான வித்தியாசம்",
+          "இரு விசைகளின் எண்மதிப்புகளின் பெருக்கற்பலன்",
+          "இரு விசைகளில் ஒன்றின் மதிப்பு × அவற்றிற்கு இடையேயான செங்குத்துத் தொலைவு",
+          "இரு விசைகளின் எண்மதிப்புகளின் கூடுதல் மதிப்பு"
         ],
         "explanation": "M = F × S; SI அலகு N m (CGS-இல் டைன் செ.மீ)."
       }
@@ -1087,20 +1087,20 @@
       "en": {
         "q": "Wearing a seat belt in a car is recommended for safety because, when the car stops suddenly, it",
         "options": [
-          "increases the speed of the car",
-          "increases the inertia of the body",
-          "decreases the mass of the passenger",
-          "opposes the forward motion of the body caused by inertia of motion"
+          "increases the speed of the car on braking",
+          "increases the inertia of the passenger's body",
+          "decreases the mass of the passenger and the car",
+          "opposes the forward motion caused by inertia"
         ],
         "explanation": "On sudden braking the body tends to continue moving forward (Newton's first law); a seat belt or helmet provides the opposing force."
       },
       "ta": {
         "q": "மகிழுந்து திடீரெனத் தடை செய்யப்படும்போது, இருக்கைப் பட்டை அணிவது பாதுகாப்பானது; ஏனெனில் அது",
         "options": [
-          "மகிழுந்தின் வேகத்தை அதிகரிக்கிறது",
-          "உடலின் நிலைமத்தை அதிகரிக்கிறது",
-          "பயணியின் நிறையைக் குறைக்கிறது",
-          "இயக்க நிலைமத்தால் உடல் முன்னோக்கிச் செல்வதை எதிர்க்கிறது"
+          "மகிழுந்தின் வேகத்தை பிரேக்கின்போது அதிகரிக்கிறது",
+          "பயணியின் உடலின் நிலைமத்தை அதிகரிக்கிறது",
+          "பயணியின் நிறையையும் மகிழுந்தின் நிறையையும் குறைக்கிறது",
+          "இயக்க நிலைமத்தால் முன்னோக்கிச் செல்வதை எதிர்க்கிறது"
         ],
         "explanation": "திடீர்த் தடையில் உடல் நியூட்டனின் முதல் விதிப்படி முன்னோக்கிச் செல்ல முயலும்; தலைக்கவசமும் இருக்கைப் பட்டையும் அதற்கு எதிர்ப்பு விசையை அளிக்கின்றன."
       }

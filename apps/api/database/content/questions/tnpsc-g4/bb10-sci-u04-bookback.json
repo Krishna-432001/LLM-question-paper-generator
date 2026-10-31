@@ -142,7 +142,7 @@
         "options": [
           "திறந்த",
           "தொடர் இணைப்பு",
-          "பக்க இணைப்பு (பக்கிணைப்பு)",
+          "பக்க இணைப்பு",
           "தொடர் இணைப்பு மட்டும்"
         ],
         "explanation": "பக்க இணைப்பில் எல்லாச் சாதனங்களுக்கும் சமமான மின்னழுத்தம் கிடைக்கும்; ஒவ்வொன்றையும் தனித்து இயக்கலாம்."
@@ -159,20 +159,20 @@
       "en": {
         "q": "The electric power of a device is the product of",
         "options": [
-          "current and resistance",
-          "charge and time",
+          "current and electrical resistance",
+          "charge and the time taken",
           "potential difference and current",
-          "resistance and time"
+          "resistance and time taken"
         ],
         "explanation": "P = VI."
       },
       "ta": {
         "q": "ஒரு மின்சாதனத்தின் மின்திறன் எவற்றின் பெருக்கற்பலன்?",
         "options": [
-          "மின்னோட்டம், மின்தடை",
-          "மின்னூட்டம், காலம்",
-          "மின்னழுத்த வேறுபாடு, மின்னோட்டம்",
-          "மின்தடை, காலம்"
+          "மின்னோட்டமும் மின்தடை மதிப்பும்",
+          "மின்னூட்டமும் எடுத்துக்கொண்ட காலமும்",
+          "மின்னழுத்த வேறுபாடும் மின்னோட்டமும்",
+          "மின்தடையும் எடுத்துக்கொண்ட காலமும்"
         ],
         "explanation": "P = VI."
       }
@@ -217,10 +217,10 @@
       "en": {
         "q": "Ohm's law states the relationship between",
         "options": [
-          "power and voltage",
+          "electrical power and voltage",
           "potential difference and current",
-          "resistance and power",
-          "energy and time"
+          "resistance and electrical power",
+          "energy consumed and time"
         ],
         "explanation": "Ohm's law relates potential difference and current (V = IR) at constant temperature."
       },
@@ -246,9 +246,9 @@
       "en": {
         "q": "The function of an MCB (or a fuse wire) in a household circuit is to",
         "options": [
-          "store electric charge",
-          "increase the voltage",
-          "protect appliances from excess current due to overloading or short circuit",
+          "store electric charge for later use",
+          "increase the voltage of the supply",
+          "protect appliances from excess current",
           "reduce the power consumption of the lamps"
         ],
         "explanation": "A fuse wire melts, or an MCB trips, when the current exceeds a safe value, protecting appliances from overloading and short circuits."
@@ -256,9 +256,9 @@
       "ta": {
         "q": "வீட்டு மின்சுற்றில் MCB (அல்லது மின் உருகு இழை) செய்யும் பணி",
         "options": [
-          "மின்னூட்டத்தைச் சேமித்தல்",
-          "மின்னழுத்தத்தை உயர்த்துதல்",
-          "அதிகச் சுமை அல்லது குறுக்குத்தடச் சுற்றினால் ஏற்படும் அதிக மின்னோட்டத்திலிருந்து சாதனங்களைப் பாதுகாத்தல்",
+          "மின்னூட்டத்தைப் பின்னர் பயன்படுத்தச் சேமித்தல்",
+          "வழங்கப்படும் மின்னழுத்தத்தை அதிகரித்தல்",
+          "அதிக மின்னோட்டத்திலிருந்து சாதனங்களைப் பாதுகாத்தல்",
           "விளக்குகளின் மின்திறன் நுகர்வைக் குறைத்தல்"
         ],
         "explanation": "மின்னோட்டம் பாதுகாப்பான அளவை மீறும்போது உருகு இழை உருகும்; MCB சுற்றைத் துண்டிக்கும். இதனால் அதிகச் சுமை, குறுக்குத்தடச் சுற்றிலிருந்து சாதனங்கள் பாதுகாக்கப்படுகின்றன."
@@ -604,9 +604,9 @@
       "ta": {
         "q": "மின்னோட்டத்தின் வெப்ப விளைவின் அடிப்படையில் செயல்படும் சாதனம் எது?",
         "options": [
-          "மின்சலவைப் பெட்டி (மின் இஸ்திரி)",
-          "டைனமோ",
-          "மின்மணி",
+          "மின்சலவைப் பெட்டி",
+          "டைனமோ மின்னாக்கி",
+          "மின் அழைப்பு மணி",
           "ஒலிபெருக்கி"
         ],
         "explanation": "மின் வெப்பமூட்டி, மின்சலவைப் பெட்டி, டோஸ்டர், கீசர் ஆகியவை வெப்ப விளைவில் இயங்குகின்றன."
@@ -634,9 +634,9 @@
         "q": "இரு புள்ளிகளுக்கிடையேயான மின்னழுத்த வேறுபாடு என்பது",
         "options": [
           "அப்புள்ளிகளுக்கிடையே ஒரு வினாடியில் பாயும் மின்னூட்டம்",
-          "அப்புள்ளிகளுக்கிடையே நுகரப்படும் மின்திறன்",
-          "ஓரலகு மின்னூட்டத்தை ஒரு புள்ளியிலிருந்து மற்றொரு புள்ளிக்குக் கொண்டு செல்லச் செய்யப்படும் வேலை",
-          "அப்புள்ளிகளுக்கிடையேயான மின்தடை"
+          "அப்புள்ளிகளுக்கிடையே நுகரப்படும் மொத்த மின்திறன்",
+          "ஓரலகு மின்னூட்டத்தை நகர்த்தச் செய்யப்படும் வேலை",
+          "அப்புள்ளிகளுக்கிடையேயான மொத்த மின்தடை"
         ],
         "explanation": "இதன் SI அலகு வோல்ட் (V)."
       }
@@ -652,20 +652,20 @@
       "en": {
         "q": "The earth wire in a domestic circuit",
         "options": [
-          "stores charge for the appliance",
-          "increases the current in the appliance",
-          "reduces the voltage of the supply",
-          "carries leakage current to the earth and protects users from electric shock"
+          "stores electric charge for the appliance to use",
+          "increases the current drawn in the appliance",
+          "reduces the voltage of the supply to the house",
+          "carries leakage current to the earth and prevents shocks"
         ],
         "explanation": "It is connected to the metallic body of the appliance as a safety measure."
       },
       "ta": {
         "q": "வீட்டு மின்சுற்றிலுள்ள புவித் தொடுப்புக் கம்பியின் பங்கு",
         "options": [
-          "சாதனத்திற்காக மின்னூட்டத்தைச் சேமிப்பது",
-          "சாதனத்தில் மின்னோட்டத்தை அதிகரிப்பது",
-          "வழங்கு மின்னழுத்தத்தைக் குறைப்பது",
-          "கசிவு மின்னோட்டத்தைப் புவிக்குக் கடத்தி மின்தாக்குதலிலிருந்து பயனரைப் பாதுகாப்பது"
+          "சாதனம் பயன்படுத்த மின்னூட்டத்தைச் சேமித்து வைப்பது",
+          "சாதனத்தில் பாயும் மின்னோட்டத்தை மிகவும் அதிகரிப்பது",
+          "வீட்டிற்கு வழங்கப்படும் மின்னழுத்தத்தைக் குறைப்பது",
+          "கசிவு மின்னோட்டத்தைப் புவிக்குக் கடத்தி மின்தாக்குதலைத் தடுப்பது"
         ],
         "explanation": "பாதுகாப்பிற்காகச் சாதனத்தின் உலோகப் பகுதியுடன் இது இணைக்கப்படுகிறது."
       }
@@ -691,10 +691,10 @@
       "ta": {
         "q": "ஓம் விதிப்படி, மாறா வெப்பநிலையில் ஒரு கடத்தியில் பாயும் மின்னோட்டம்",
         "options": [
-          "மின்னழுத்த வேறுபாட்டைச் சாராது",
-          "கடத்தியின் முனைகளுக்கிடையேயான மின்னழுத்த வேறுபாட்டிற்கு நேர்த்தகவில் இருக்கும்",
-          "மின்தடைக்கு நேர்த்தகவில் இருக்கும்",
-          "மின்னழுத்த வேறுபாட்டிற்கு எதிர்த்தகவில் இருக்கும்"
+          "முனைகளுக்கிடையேயான மின்னழுத்த வேறுபாட்டைச் சார்ந்திராது",
+          "அதன் முனைகளுக்கிடையேயான மின்னழுத்த வேறுபாட்டிற்கு நேர்த்தகவில்",
+          "கடத்தியின் மின்தடை மதிப்புக்கு நேர்த்தகவில் இருக்கும்",
+          "அதன் முனைகளுக்கிடையேயான மின்னழுத்த வேறுபாட்டிற்கு எதிர்த்தகவில்"
         ],
         "explanation": "V = IR; மாறா வெப்பநிலையில் ஒரு கடத்திக்கு R மாறிலி."
       }
@@ -710,20 +710,20 @@
       "en": {
         "q": "Which statement about resistivity and conductivity is correct?",
         "options": [
-          "The SI unit of resistivity is ohm",
-          "Conductivity is the reciprocal of resistivity; the SI unit of resistivity is ohm metre",
+          "The SI unit of resistivity is simply the ohm",
+          "Conductivity is the reciprocal of resistivity",
           "Resistivity is the reciprocal of conductance only",
-          "Conductivity and resistivity are the same"
+          "Conductivity and resistivity are one and the same"
         ],
         "explanation": "σ = 1/ρ."
       },
       "ta": {
         "q": "மின்தடை எண், மின் கடத்து எண் பற்றிய சரியான கூற்று எது?",
         "options": [
-          "மின்தடை எண்ணின் அலகு ஓம்",
-          "மின் கடத்து எண் என்பது மின்தடை எண்ணின் தலைகீழி; மின்தடை எண்ணின் அலகு ஓம் மீட்டர்",
+          "மின்தடை எண்ணின் SI அலகு வெறுமனே ஓம் ஆகும்",
+          "மின் கடத்து எண் என்பது மின்தடை எண்ணின் தலைகீழி",
           "மின்தடை எண் என்பது கடத்தும் திறனின் தலைகீழி மட்டுமே",
-          "இரண்டும் ஒன்றே"
+          "மின் கடத்து எண்ணும் மின்தடை எண்ணும் ஒன்றே"
         ],
         "explanation": "σ = 1/ρ."
       }
@@ -740,7 +740,7 @@
         "q": "In domestic circuits appliances are connected in parallel mainly because",
         "options": [
           "the current is the same in all appliances",
-          "each appliance gets the same voltage and can be operated independently",
+          "each appliance gets the same voltage",
           "the total resistance becomes greater",
           "a fault in one appliance switches off all"
         ],
@@ -750,8 +750,8 @@
         "q": "வீடுகளில் மின்சாதனங்கள் பக்க இணைப்பில் இணைக்கப்படுவதற்கான முக்கியக் காரணம்",
         "options": [
           "எல்லாச் சாதனங்களிலும் மின்னோட்டம் சமமாக இருப்பது",
-          "ஒவ்வொரு சாதனத்திற்கும் சம மின்னழுத்தம் கிடைப்பதுடன் தனித்தனியே இயக்கவும் முடிவது",
-          "மொத்த மின்தடை அதிகமாவது",
+          "ஒவ்வொரு சாதனத்திற்கும் சம மின்னழுத்தம் கிடைப்பது",
+          "மொத்த மின்தடை மிகவும் அதிகமாவது",
           "ஒரு சாதனம் பழுதானால் அனைத்தும் நின்றுவிடுவது"
         ],
         "explanation": "தொடர் இணைப்பில் எங்கு துண்டிப்பு ஏற்பட்டாலும் முழுச் சுற்றும் நின்றுவிடும்."

@@ -17,7 +17,7 @@
           "The size of an ion does not depend on its charge",
           "As the negative charge increases the anion becomes smaller",
           "As the positive charge increases the cation becomes larger",
-          "As the positive charge increases the cation becomes smaller, and as the negative charge increases the anion becomes larger"
+          "Cations shrink and anions grow with increasing charge"
         ],
         "explanation": "Fluorine and chlorine become anions by gaining electrons; the nuclear charge cannot hold the larger number of electrons as tightly."
       },
@@ -27,7 +27,7 @@
           "அயனியின் அளவு மின்னூட்டத்தைச் சார்ந்ததன்று",
           "எதிர்மின்னூட்டம் அதிகரிக்கும்போது எதிர் அயனி சிறியதாகும்",
           "நேர்மின்னூட்டம் அதிகரிக்கும்போது நேர் அயனி பெரியதாகும்",
-          "நேர்மின்னூட்டம் அதிகரிக்கும்போது நேர் அயனி சிறியதாகும்; எதிர்மின்னூட்டம் அதிகரிக்கும்போது எதிர் அயனி பெரியதாகும்"
+          "மின்னூட்டம் கூடக்கூட நேர் அயனி சுருங்கும், எதிர் அயனி பெரிதாகும்"
         ],
         "explanation": "எலக்ட்ரான்களைப் பெற்று எதிர் அயனிகள் உருவாகும்போது உட்கரு மின்னூட்டம் கூடுதல் எலக்ட்ரான்களை இறுக்கமாகப் பிடிக்க இயலாது."
       }
@@ -113,7 +113,7 @@
         "options": [
           "காந்தத் தன்மை உடையதாக இருக்கும்போது",
           "நீரில் கரையும்போது",
-          "கனிமத் துகளை (மாசு) விடக் கனமாக இருக்கும்போது",
+          "மாசை விடக் கனமாக இருக்கும்போது",
           "மாசை விட இலேசாக இருக்கும்போது"
         ],
         "explanation": "அடர்த்தி மிகு தாது அதிரும் மேசையின் பள்ளங்களில் தங்கும்; இலேசான மாசு நீரால் அடித்துச் செல்லப்படும்; எ.கா: ஹேமடைட்."
@@ -130,7 +130,7 @@
       "en": {
         "q": "Froth floatation is used when the ore is",
         "options": [
-          "lighter than the impurities, e.g. zinc blende (ZnS)",
+          "lighter than the impurities",
           "magnetic",
           "heavier than the impurities",
           "an oxide ore of iron"
@@ -140,7 +140,7 @@
       "ta": {
         "q": "நுரை மிதப்பு முறை பயன்படும் தாது",
         "options": [
-          "மாசுக்களை விட இலேசானது; எ.கா. ஜிங்க் பிளண்ட் (ZnS)",
+          "மாசுக்களை விட இலேசானது",
           "காந்தத் தன்மை உடையது",
           "மாசுக்களை விடக் கனமானது",
           "இரும்பின் ஆக்சைடு தாது"
@@ -188,20 +188,20 @@
       "en": {
         "q": "Concentrated nitric acid renders aluminium passive because",
         "options": [
-          "a protective oxide film forms on its surface",
-          "aluminium nitrate precipitates",
-          "aluminium dissolves completely",
-          "hydrogen gas is evolved"
+          "a protective oxide film forms on it",
+          "aluminium nitrate precipitates out fast",
+          "aluminium dissolves completely in acid",
+          "hydrogen gas is evolved rapidly"
         ],
         "explanation": "Aluminium is a powerful reducing agent but is protected by this film."
       },
       "ta": {
         "q": "அடர் நைட்ரிக் அமிலம் அலுமினியத்தை வினைபுரியா நிலைக்கு ஆக்குவதன் காரணம்",
         "options": [
-          "மேற்பரப்பில் பாதுகாப்பு ஆக்சைடு படலம் உருவாவது",
-          "அலுமினியம் நைட்ரேட் வீழ்படிவாவது",
-          "அலுமினியம் முழுவதும் கரைவது",
-          "ஹைட்ரஜன் வாயு வெளியாவது"
+          "பாதுகாப்பு ஆக்சைடு படலம் உருவாவது",
+          "அலுமினியம் நைட்ரேட் விரைவாக வீழ்படிவாவது",
+          "அலுமினியம் அமிலத்தில் முழுவதும் கரைவது",
+          "ஹைட்ரஜன் வாயு விரைவாக வெளியாவது"
         ],
         "explanation": "அலுமினியம் வலிமையான ஒடுக்கி; ஆனால் இப்படலம் அதைப் பாதுகாக்கிறது."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "A copper vessel exposed to air and moisture forms a green layer on its surface due to",
         "options": [
-          "copper chloride",
+          "hydrated copper chloride",
           "basic copper carbonate",
-          "copper sulphate",
-          "copper oxide"
+          "hydrated copper sulphate",
+          "copper oxide layer"
         ],
         "explanation": "2Cu + O₂ + CO₂ + H₂O → CuCO₃·Cu(OH)₂."
       },
       "ta": {
         "q": "காற்று, ஈரப்பதத்தில் தாமிரப் பாத்திரத்தின் மேற்பரப்பில் பச்சைப் படலம் உருவாகக் காரணம்",
         "options": [
-          "தாமிர குளோரைடு",
+          "நீரேறிய தாமிர குளோரைடு",
           "காரத் தாமிர கார்பனேட்",
-          "தாமிர சல்பேட்",
-          "தாமிர ஆக்சைடு"
+          "நீரேறிய தாமிர சல்பேட்",
+          "கருப்பு தாமிர ஆக்சைடு"
         ],
         "explanation": "2Cu + O₂ + CO₂ + H₂O → CuCO₃·Cu(OH)₂."
       }

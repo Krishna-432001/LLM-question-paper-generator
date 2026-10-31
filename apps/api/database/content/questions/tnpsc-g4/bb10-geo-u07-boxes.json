@@ -72,9 +72,9 @@
         "q": "The Tamil Nadu Rice Research Institute (TRRI) is situated at",
         "options": [
           "Aduthurai in Thanjavur district",
-          "Coimbatore",
-          "Madurai",
-          "Salem"
+          "Killikulam in Thoothukudi district",
+          "Paramakudi in Ramanathapuram district",
+          "Virudhachalam in Cuddalore district"
         ],
         "explanation": "It was established in April 1985 under the Tamil Nadu Agricultural University."
       },
@@ -82,9 +82,9 @@
         "q": "தமிழ்நாடு நெல் ஆராய்ச்சி நிலையம் (TRRI) அமைந்துள்ள இடம்",
         "options": [
           "தஞ்சை மாவட்டம் ஆடுதுறை",
-          "கோயம்புத்தூர்",
-          "மதுரை",
-          "சேலம்"
+          "தூத்துக்குடி மாவட்டம் கிள்ளிக்குளம்",
+          "இராமநாதபுரம் மாவட்டம் பரமக்குடி",
+          "கடலூர் மாவட்டம் விருத்தாசலம்"
         ],
         "explanation": "இது 1985 ஏப்ரலில் தமிழ்நாடு வேளாண் பல்கலைக்கழகத்தின் கீழ் நிறுவப்பட்டது."
       },
@@ -100,20 +100,20 @@
       "en": {
         "q": "Sorghum (cholam) is grown mainly in the",
         "options": [
-          "Cauvery delta",
-          "Kanyakumari coast",
+          "Cauvery delta and coastal plains",
+          "Kanyakumari coast and Nanjilnadu",
           "Coimbatore plateau and Kambam valley",
-          "the Nilgiris only"
+          "the Nilgiris and Kodaikanal only"
         ],
         "explanation": "Sorghum/jowar (cholam), ragi (kezhvaragu) and bajra (kambu) are the major millets."
       },
       "ta": {
         "q": "சோளம் (சோர்கம்) முக்கியமாக பயிரிடப்படும் பகுதி",
         "options": [
-          "காவிரி டெல்டா",
-          "கன்னியாகுமரிக் கடற்கரை",
+          "காவிரி டெல்டாவும் கடலோரச் சமவெளியும்",
+          "கன்னியாகுமரிக் கடற்கரையும் நாஞ்சில் நாடும்",
           "கோயம்புத்தூர் பீடபூமி, கம்பம் பள்ளத்தாக்கு",
-          "நீலகிரி மட்டும்"
+          "நீலகிரி, கொடைக்கானல் பகுதிகள் மட்டும்"
         ],
         "explanation": "சோளம், கேழ்வரகு, கம்பு முக்கிய சிறுதானியங்கள்."
       },
@@ -158,20 +158,20 @@
       "en": {
         "q": "The brand name 'Aavin' belongs to the",
         "options": [
-          "Tamil Nadu Tea Plantation Corporation",
+          "Tamil Nadu Tea Plantation Development Corporation",
           "Tamil Nadu Newsprint and Papers Limited",
-          "Tamil Nadu Cements Corporation",
-          "Tamil Nadu Co-operative Milk Producers Federation Limited"
+          "Tamil Nadu Cements Corporation Limited",
+          "Tamil Nadu Co-operative Milk Producers Federation"
         ],
         "explanation": "TANTEA is the Tamil Nadu Tea Plantation Corporation Limited."
       },
       "ta": {
         "q": "'ஆவின்' என்ற பெயரில் அறியப்படுவது",
         "options": [
-          "தமிழ்நாடு தேயிலைத் தோட்டக் கழகம்",
-          "தமிழ்நாடு செய்தித்தாள் காகித நிறுவனம்",
-          "தமிழ்நாடு சிமெண்ட் நிறுவனம்",
-          "தமிழ்நாடு கூட்டுறவுப் பால் உற்பத்தியாளர்கள் கூட்டமைப்பு"
+          "தமிழ்நாடு தேயிலைத் தோட்ட மேம்பாட்டுக் கழகம்",
+          "தமிழ்நாடு செய்தித்தாள் காகித நிறுவனம் லிமிடெட்",
+          "தமிழ்நாடு சிமெண்ட் கழக நிறுவனம் லிமிடெட்",
+          "தமிழ்நாடு கூட்டுறவுப் பால் உற்பத்தியாளர் கூட்டமைப்பு"
         ],
         "explanation": "டான்டீ - தமிழ்நாடு தேயிலைத் தோட்டக் கழகம்."
       },
@@ -228,7 +228,7 @@
         "options": [
           "கடலோர மீன்பிடிப்பு",
           "உள்நாட்டு மீன்பிடிப்பு",
-          "ஆழ்கடல் (கடலோரத்திற்கு அப்பால்) மீன்பிடிப்பு",
+          "ஆழ்கடல் மீன்பிடிப்பு",
           "குளம் வளர்ப்பு"
         ],
         "explanation": "கரையிலிருந்து சில கி.மீட்டருக்குள் மீன்பிடிப்பது கடலோர மீன்பிடிப்பு."
@@ -422,7 +422,7 @@
           "Karur",
           "Kancheepuram",
           "Tiruppur",
-          "Erode"
+          "Coimbatore"
         ],
         "explanation": "Tamil Nadu occupies fourth position in the country in silk production."
       },
@@ -432,7 +432,7 @@
           "கரூர்",
           "காஞ்சிபுரம்",
           "திருப்பூர்",
-          "ஈரோடு"
+          "கோயம்புத்தூர்"
         ],
         "explanation": "பட்டு உற்பத்தியில் தமிழ்நாடு நாட்டில் நான்காமிடம்."
       },
@@ -680,9 +680,9 @@
       "en": {
         "q": "Which of the following is a major export of Tamil Nadu listed in the unit?",
         "options": [
-          "Petroleum",
-          "Newsprint",
-          "Fertilizers",
+          "Crude petroleum",
+          "Newsprint paper",
+          "Chemical fertilizers",
           "Leather products"
         ],
         "explanation": "Petroleum, fertilizers and newsprint are among the major imports."

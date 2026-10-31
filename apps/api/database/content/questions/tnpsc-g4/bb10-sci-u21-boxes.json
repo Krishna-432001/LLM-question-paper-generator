@@ -15,19 +15,19 @@
         "q": "The introduction of the POCSO Act, 2012 was championed by the",
         "options": [
           "Ministry of Women and Child Development",
-          "Ministry of Education",
-          "Ministry of Health",
-          "Ministry of Labour"
+          "Ministry of School Education",
+          "Ministry of Health and Welfare",
+          "Ministry of Labour and Employment"
         ],
         "explanation": "The Ministry of Women and Child Development championed the POCSO Act, 2012."
       },
       "ta": {
         "q": "POCSO சட்டம், 2012-ஐ அறிமுகப்படுத்தியதில் முன்னின்ற அமைச்சகம்",
         "options": [
-          "பெண்கள் மற்றும் குழந்தைகள் மேம்பாட்டு அமைச்சகம்",
-          "கல்வி அமைச்சகம்",
-          "சுகாதார அமைச்சகம்",
-          "தொழிலாளர் அமைச்சகம்"
+          "பெண்கள், குழந்தைகள் மேம்பாட்டு அமைச்சகம்",
+          "பள்ளிக் கல்வி அமைச்சகம்",
+          "சுகாதார, குடும்ப நல அமைச்சகம்",
+          "தொழிலாளர் மற்றும் வேலைவாய்ப்பு அமைச்சகம்"
         ],
         "explanation": "பெண்கள் மற்றும் குழந்தைகள் மேம்பாட்டு அமைச்சகம் POCSO சட்டம், 2012-ஐ முன்னெடுத்தது."
       }
@@ -43,20 +43,20 @@
       "en": {
         "q": "The POCSO Act, 2012 protects children from",
         "options": [
-          "cyber fraud and theft",
-          "drug addiction only",
-          "child labour only",
-          "sexual assault, sexual harassment and pornography"
+          "cyber fraud, theft and online scams",
+          "drug addiction and substance abuse",
+          "child labour in factories only",
+          "sexual assault and sexual harassment"
         ],
         "explanation": "The Act protects children from sexual assault, sexual harassment and pornography and provides special courts for speedy trial."
       },
       "ta": {
         "q": "POCSO சட்டம், 2012 குழந்தைகளை எதிலிருந்து பாதுகாக்கிறது?",
         "options": [
-          "இணைய மோசடி, திருட்டு",
-          "போதைப் பழக்கம் மட்டும்",
-          "குழந்தைத் தொழிலாளர் முறை மட்டும்",
-          "பாலியல் தாக்குதல், பாலியல் துன்புறுத்தல், ஆபாசப் படங்கள்"
+          "இணைய மோசடி, திருட்டு, ஆன்லைன் ஏமாற்று",
+          "போதைப் பழக்கம், போதைப்பொருள் தவறான பயன்பாடு",
+          "தொழிற்சாலைகளில் குழந்தைத் தொழிலாளர் முறை மட்டும்",
+          "பாலியல் தாக்குதல், பாலியல் துன்புறுத்தல்"
         ],
         "explanation": "இச்சட்டம் குழந்தைகளைப் பாலியல் தாக்குதல், துன்புறுத்தல், ஆபாசத்திலிருந்து பாதுகாத்து விரைவு விசாரணைக்குச் சிறப்பு நீதிமன்றங்களை அமைக்கிறது."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "Which national organisation, along with NGOs, educates people about AIDS in India?",
         "options": [
-          "NACO (National AIDS Control Organisation)",
-          "NCPCR",
-          "ICMR only",
-          "NDPS Authority"
+          "National AIDS Control Organisation",
+          "Central Pollution Control Board",
+          "Indian Council of Medical Research",
+          "Narcotics Control Bureau of India"
         ],
         "explanation": "NACO and NGOs educate people about AIDS; World AIDS Day is observed on December 1."
       },
       "ta": {
         "q": "இந்தியாவில் தன்னார்வ நிறுவனங்களுடன் இணைந்து எய்ட்ஸ் பற்றி மக்களுக்குக் கற்பிக்கும் தேசிய அமைப்பு",
         "options": [
-          "நாகோ (தேசிய எய்ட்ஸ் கட்டுப்பாட்டு அமைப்பு)",
-          "NCPCR",
-          "ICMR மட்டும்",
-          "NDPS ஆணையம்"
+          "தேசிய எய்ட்ஸ் கட்டுப்பாட்டு அமைப்பு",
+          "மத்திய மாசுக் கட்டுப்பாட்டு வாரியம்",
+          "இந்திய மருத்துவ ஆராய்ச்சி கழகம்",
+          "இந்தியப் போதைப்பொருள் கட்டுப்பாட்டுப் பணியகம்"
         ],
         "explanation": "நாகோவும் தன்னார்வ நிறுவனங்களும் எய்ட்ஸ் பற்றிக் கற்பிக்கின்றன; டிசம்பர் 1 உலக எய்ட்ஸ் நாள்."
       }
@@ -218,19 +218,19 @@
         "q": "Prolonged alcohol use depresses the nervous system by acting as a",
         "options": [
           "sedative and analgesic",
-          "stimulant",
-          "hormone",
-          "vitamin"
+          "stimulant and tonic",
+          "hormone and enzyme",
+          "vitamin and mineral"
         ],
         "explanation": "Alcohol acts as a sedative and analgesic, depressing the nervous system, and causes fatty liver (cirrhosis)."
       },
       "ta": {
         "q": "நீண்ட காலம் மது அருந்துவது எவ்வாறு நரம்பு மண்டலத்தை அடக்குகிறது?",
         "options": [
-          "மயக்க மருந்து மற்றும் வலி நீக்கியாகச் செயல்பட்டு",
-          "ஊக்கியாகச் செயல்பட்டு",
-          "ஹார்மோனாகச் செயல்பட்டு",
-          "வைட்டமினாகச் செயல்பட்டு"
+          "மயக்க மருந்து மற்றும் வலி நீக்கி",
+          "ஊக்கியும் புத்துணர்வூட்டியும்",
+          "ஹார்மோனும் நொதியும்",
+          "வைட்டமினும் தாது உப்பும்"
         ],
         "explanation": "மது மயக்கமூட்டி, வலி நீக்கியாகச் செயல்பட்டு நரம்பு மண்டலத்தை அடக்கி, கல்லீரல் கொழுப்புப் படிவை (சிரோசிஸ்) உண்டாக்குகிறது."
       }

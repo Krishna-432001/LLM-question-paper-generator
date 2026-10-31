@@ -129,20 +129,20 @@
       "en": {
         "q": "The \"Golden Firman\" allowing the English to trade freely in the kingdom's ports in 1632 was granted by the",
         "options": [
-          "Jahangir",
-          "Akbar",
+          "Mughal Emperor Jahangir",
+          "Sultan of Bijapur",
           "Sultan of Golconda",
-          "Aurangzeb"
+          "Mughal Emperor Aurangzeb"
         ],
         "explanation": "In 1632 the Sultan of Golconda granted the English the 'Golden Firman'."
       },
       "ta": {
         "q": "1632இல் ஆங்கிலேயர்களுக்குத் 'தங்க ஃபர்மான்' வழங்கியவர்",
         "options": [
-          "ஜஹாங்கீர்",
-          "அக்பர்",
+          "முகலாயப் பேரரசர் ஜஹாங்கீர்",
+          "பிஜாப்பூர் சுல்தான்",
           "கோல்கொண்டா சுல்தான்",
-          "ஔரங்கசீப்"
+          "முகலாயப் பேரரசர் ஔரங்கசீப்"
         ],
         "explanation": "1632இல் கோல்கொண்டா சுல்தான் ஆங்கிலேயருக்குத் 'தங்க ஃபர்மான்' வழங்கினார்."
       },
@@ -287,7 +287,7 @@
           "தொன்மையான உலகமயமாக்கல்",
           "இடைப்பட்ட உலகமயமாக்கல்",
           "நவீன உலகமயமாக்கல்",
-          "புதிய (நியோ) உலகமயமாக்கல்"
+          "நியோ உலகமயமாக்கல்"
         ],
         "explanation": "தொன்மையான, இடைப்பட்ட, நவீன உலகமயமாக்கல் ஆகியவை மூன்று நிலைகள்."
       },
@@ -303,9 +303,9 @@
       "en": {
         "q": "A Multinational Corporation (MNC) is a corporate organisation that owns or controls production of goods or services in",
         "options": [
-          "only European countries",
-          "its home country alone",
-          "only developing countries",
+          "only the countries of Europe and North America",
+          "its home country alone, with no overseas units",
+          "only the developing countries of Asia and Africa",
           "at least one country other than its home country"
         ],
         "explanation": "MNC is otherwise called Transnational Company (TNC) or Multinational Enterprise (MNE)."
@@ -313,10 +313,10 @@
       "ta": {
         "q": "பன்னாட்டு நிறுவனம் (MNC) என்பது பண்டங்கள் அல்லது பணிகளின் உற்பத்தியை உடைமையாக்கியுள்ள அல்லது கட்டுப்படுத்தும் ஒரு பெருநிறுவனம்; அது",
         "options": [
-          "ஐரோப்பிய நாடுகளில் மட்டும் செயல்படுகிறது",
-          "தன் சொந்த நாட்டில் மட்டும் செயல்படுகிறது",
-          "வளரும் நாடுகளில் மட்டும் செயல்படுகிறது",
-          "தன் சொந்த நாட்டிற்கு வெளியே குறைந்தபட்சம் ஒரு நாட்டிலாவது செயல்படுகிறது"
+          "ஐரோப்பா, வட அமெரிக்கா நாடுகளில் மட்டுமே செயல்படுகிறது",
+          "தன் சொந்த நாட்டில் மட்டுமே, வெளிநாட்டுப் பிரிவுகளின்றிச் செயல்படுகிறது",
+          "ஆசிய, ஆப்பிரிக்க வளரும் நாடுகளில் மட்டுமே செயல்படுகிறது",
+          "தன் நாட்டுடன் குறைந்தது ஒரு வேறு நாட்டிலும் செயல்படுகிறது"
         ],
         "explanation": "MNC என்பதை TNC அல்லது MNE என்றும் அழைக்கலாம்."
       },
@@ -390,20 +390,20 @@
       "en": {
         "q": "Which of the following is a positive impact of globalization given in the unit?",
         "options": [
-          "Increase in free flow of goods and Foreign Direct Investment",
-          "Spread of child labour",
-          "Loss of national integrity",
-          "Degradation of the environment"
+          "Increase in free flow of goods and FDI",
+          "Spread of child labour in factories",
+          "Loss of national integrity and identity",
+          "Degradation of the natural environment"
         ],
         "explanation": "Positive impacts: capital market development, higher living standard, more employment, new technologies, higher GDP, free flow of goods and FDI."
       },
       "ta": {
         "q": "பாடநூலில் குறிப்பிடப்பட்ட உலகமயமாக்கலின் நேர்மறைத் தாக்கம் எது?",
         "options": [
-          "பண்டங்களின் தடையற்ற பாய்ச்சலும் அந்நிய நேரடி முதலீடும் அதிகரித்தல்",
-          "குழந்தைத் தொழிலாளர் பரவல்",
-          "தேசிய ஒருமைப்பாட்டை இழத்தல்",
-          "சுற்றுச்சூழல் சீர்கேடு"
+          "தடையற்ற பண்டப் பாய்ச்சலும் அந்நிய முதலீடும் அதிகரித்தல்",
+          "தொழிற்சாலைகளில் குழந்தைத் தொழிலாளர் முறை பரவுதல்",
+          "தேசிய ஒருமைப்பாடும் அடையாளமும் இழக்கப்படுதல்",
+          "இயற்கைச் சுற்றுச்சூழல் பெருமளவு சீர்கெடுதல்"
         ],
         "explanation": "மூலதனச் சந்தை வளர்ச்சி, வாழ்க்கைத் தரம் உயர்வு, வேலைவாய்ப்பு, புதிய தொழில்நுட்பம், GDP உயர்வு, தடையற்ற வர்த்தகம், FDI ஆகியவை நேர்மறைத் தாக்கங்கள்."
       },
@@ -459,8 +459,8 @@
         "q": "உலகமயமாக்கலின் சவால்களில் ஒன்றாகப் பாடநூல் குறிப்பிடுவது",
         "options": [
           "எல்லா இடங்களிலும் சிறந்த சுற்றுச்சூழல் தரம்",
-          "குறைந்த செலவில் ஆரோக்கிய உணவு",
-          "ஊதியம், தொழிலாளர் உரிமை, வேலைவாய்ப்பு நடைமுறைகளில் அடிமட்டம் நோக்கிய போட்டி",
+          "குறைந்த செலவில் எல்லோருக்கும் ஆரோக்கிய உணவு",
+          "ஊதியம், தொழிலாளர் உரிமைகளில் அடிமட்டம் நோக்கிய போட்டி",
           "நன்மைகள் அனைத்து நாடுகளுக்கும் தானாகச் சென்றடைதல்"
         ],
         "explanation": "நன்மைகள் அனைத்து நாடுகளுக்கும் தானாகக் கிடைப்பதில்லை; உலகளாவிய போட்டி ஊதியம், தொழிலாளர் உரிமையைப் பாதிக்கும்."

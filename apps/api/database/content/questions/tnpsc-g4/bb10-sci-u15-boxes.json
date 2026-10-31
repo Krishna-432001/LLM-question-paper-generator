@@ -14,9 +14,9 @@
       "en": {
         "q": "An EEG helps in the diagnosis of all of the following EXCEPT",
         "options": [
-          "seizures",
+          "epileptic seizures",
           "fractures of the leg bone",
-          "epilepsy",
+          "epilepsy disorders",
           "brain tumours"
         ],
         "explanation": "EEG records brain waves and helps diagnose seizures, epilepsy, brain tumours and head injuries, not leg fractures."
@@ -130,20 +130,20 @@
       "en": {
         "q": "Which of the following correctly defines an effector?",
         "options": [
-          "A cell that receives the stimulus",
-          "The fibre that carries impulses to the brain",
-          "The fluid that protects the brain",
-          "A part of the body that responds to a stimulus on instructions from the brain or spinal cord"
+          "A sensory cell that first receives the stimulus",
+          "The nerve fibre that carries impulses towards the brain",
+          "The fluid that cushions and protects the brain",
+          "A body part that responds to a stimulus on instruction from the brain"
         ],
         "explanation": "A receptor receives the stimulus; an effector (muscle or gland) responds as instructed by the brain or spinal cord."
       },
       "ta": {
         "q": "விளைவு உறுப்பு (effector) என்பதன் சரியான வரையறை எது?",
         "options": [
-          "தூண்டலைப் பெறும் செல்",
-          "மூளைக்குத் தூண்டலைக் கொண்டு செல்லும் இழை",
-          "மூளையைப் பாதுகாக்கும் திரவம்",
-          "மூளை அல்லது தண்டுவடத்தின் கட்டளைப்படி தூண்டலுக்குப் பதிலளிக்கும் உடல் பகுதி"
+          "தூண்டலை முதலில் பெறும் உணர்வு நரம்பு செல்",
+          "மூளையை நோக்கித் தூண்டலைக் கொண்டு செல்லும் நரம்பிழை",
+          "மூளையைத் தாங்கிப் பாதுகாக்கும் திரவம்",
+          "மூளையின் கட்டளைப்படி தூண்டலுக்குப் பதிலளிக்கும் உடல் பகுதி"
         ],
         "explanation": "ஏற்பி தூண்டலைப் பெறுகிறது; விளைவு உறுப்பு (தசை அல்லது சுரப்பி) மூளை அல்லது தண்டுவடத்தின் கட்டளைப்படி பதிலளிக்கிறது."
       }
@@ -159,10 +159,10 @@
       "en": {
         "q": "About the divisions of the human nervous system, which statement is correct?",
         "options": [
-          "The ANS is under complete voluntary control",
-          "The PNS consists of nerves that connect the brain and spinal cord to all parts of the body",
-          "The CNS consists of cranial and spinal nerves",
-          "The PNS consists of the brain and spinal cord"
+          "The ANS is under complete voluntary control of the person",
+          "The PNS consists of nerves linking the brain and spinal cord to the body",
+          "The CNS consists of the cranial and spinal nerves only",
+          "The PNS consists of the brain and the spinal cord only"
         ],
         "explanation": "CNS = brain + spinal cord; PNS = nerves connecting them to the body; ANS works automatically (sympathetic + parasympathetic)."
       },
@@ -170,9 +170,9 @@
         "q": "சரியான கூற்று எது?",
         "options": [
           "தானியங்கு நரம்பு மண்டலம் முழுக்க விருப்பக் கட்டுப்பாட்டில் உள்ளது",
-          "புற அமைவு நரம்பு மண்டலம் மூளையையும் தண்டுவடத்தையும் உடலின் அனைத்துப் பகுதிகளுடன் இணைக்கும் நரம்புகளைக் கொண்டது",
-          "மைய நரம்பு மண்டலம் மூளை, தண்டுவட நரம்புகளால் ஆனது",
-          "புற அமைவு நரம்பு மண்டலம் மூளையும் தண்டுவடமும் ஆனது"
+          "புற அமைவு நரம்பு மண்டலம் மூளை, தண்டுவடத்தை உடலுடன் இணைக்கும் நரம்புகளைக் கொண்டது",
+          "மைய நரம்பு மண்டலம் மூளை, தண்டுவட நரம்புகளால் மட்டுமே ஆனது",
+          "புற அமைவு நரம்பு மண்டலம் மூளையும் தண்டுவடமும் மட்டுமே ஆனது"
         ],
         "explanation": "மைய நரம்பு மண்டலம் = மூளை + தண்டுவடம்; புற அமைவு நரம்பு மண்டலம் = அவற்றை உடலுடன் இணைக்கும் நரம்புகள்; தானியங்கு நரம்பு மண்டலம் தானாகச் செயல்படும்."
       }

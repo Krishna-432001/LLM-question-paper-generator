@@ -217,20 +217,20 @@
       "en": {
         "q": "TFM in soaps represents the ____ content of the soap.",
         "options": [
-          "mineral",
-          "carbohydrate",
-          "vitamin",
-          "fatty acid (total fatty matter)"
+          "mineral and ash",
+          "carbohydrate and sugar",
+          "vitamin and protein",
+          "total fatty matter"
         ],
         "explanation": "A soap with a higher TFM is a good bathing soap."
       },
       "ta": {
         "q": "சோப்பில் TFM என்பது ____ உள்ளடக்கத்தைக் குறிக்கும்.",
         "options": [
-          "கனிமம்",
-          "கார்போஹைட்ரேட்",
-          "வைட்டமின்",
-          "கொழுப்பு அமிலம் (மொத்தக் கொழுப்புப் பொருள்)"
+          "கனிமமும் சாம்பலும்",
+          "கார்போஹைட்ரேட்டும் சர்க்கரையும்",
+          "வைட்டமினும் புரதமும்",
+          "மொத்தக் கொழுப்புப் பொருள்"
         ],
         "explanation": "அதிக TFM உடைய சோப்பு சிறந்த குளியல் சோப்பாகும்."
       }
@@ -285,10 +285,10 @@
       "ta": {
         "q": "ஒரு கரிமச் சேர்மத்தின் வேதிப் பண்புகளுக்குக் காரணமான அணு அல்லது அணுக் கூட்டம்",
         "options": [
-          "மாற்றியம்",
+          "மாற்றிய அமைப்பு",
           "வினைச் செயல் தொகுதி",
-          "படிவரிசை",
-          "மூலச் சொல்"
+          "படிவரிசைத் தொடர்",
+          "மூலச் சொல் பகுதி"
         ],
         "explanation": "எ.கா: –OH (ஆல்கஹால்), –COOH (கார்பாக்சிலிக் அமிலம்), –CHO (ஆல்டிஹைடு)."
       }
@@ -433,7 +433,7 @@
           "மெத்திலேற்றப்பட்ட ஸ்பிரிட்",
           "சுத்திகரிக்கப்பட்ட ஸ்பிரிட்",
           "திறன் ஆல்கஹால்",
-          "தூய (நீரற்ற) ஆல்கஹால்"
+          "நீரற்ற ஆல்கஹால்"
         ],
         "explanation": "95.5 % ஸ்பிரிட்டைச் சுட்ட சுண்ணாம்புடன் சேர்த்து வடித்தால் தூய ஆல்கஹால் கிடைக்கும்."
       }
@@ -489,7 +489,7 @@
         "q": "எண்ணெய் அல்லது கொழுப்பைக் காரத்தால் நீராற்பகுத்துச் சோப்பு தயாரிக்கும் முறை",
         "options": [
           "எஸ்டராக்கல்",
-          "சோப்பாக்கல் (சபோனிஃபிகேஷன்)",
+          "சோப்பாக்கல்",
           "நொதித்தல்",
           "நீர் நீக்கம்"
         ],
@@ -625,7 +625,7 @@
         "options": [
           "ethanal, CH₃CHO",
           "butanone, CH₃COC₂H₅",
-          "propanone (acetone), CH₃COCH₃",
+          "propanone, CH₃COCH₃",
           "methanal, HCHO"
         ],
         "explanation": "The ketone group is >C=O between two carbons; the first member has three carbons."
@@ -635,7 +635,7 @@
         "options": [
           "எத்தனல், CH₃CHO",
           "பியூட்டனோன், CH₃COC₂H₅",
-          "புரப்பனோன் (அசிட்டோன்), CH₃COCH₃",
+          "புரப்பனோன், CH₃COCH₃",
           "மெத்தனல், HCHO"
         ],
         "explanation": "கீட்டோன் தொகுதி (>C=O) இரு கார்பன்களுக்கு இடையே இருக்கும்; முதல் உறுப்பில் மூன்று கார்பன்கள்."
@@ -681,20 +681,20 @@
       "en": {
         "q": "Ethanoic acid is prepared from ethanol by",
         "options": [
-          "fermentation with yeast",
-          "oxidation with alkaline KMnO₄ or acidified K₂Cr₂O₇",
-          "dehydration with conc. H₂SO₄",
-          "reduction with H₂"
+          "fermentation with yeast for some days",
+          "oxidation with acidified K₂Cr₂O₇",
+          "dehydration with hot conc. H₂SO₄",
+          "reduction with H₂ over nickel"
         ],
         "explanation": "C₂H₅OH + 2[O] → CH₃COOH + H₂O."
       },
       "ta": {
         "q": "எத்தனாலிலிருந்து எத்தனாயிக் அமிலம் தயாரிக்கப்படுவது",
         "options": [
-          "ஈஸ்ட் கொண்டு நொதிக்கச் செய்வதால்",
-          "காரத் KMnO₄ அல்லது அமில K₂Cr₂O₇ கொண்டு ஆக்சிஜனேற்றம் செய்வதால்",
-          "அடர் H₂SO₄ கொண்டு நீர் நீக்குவதால்",
-          "H₂ கொண்டு ஒடுக்குவதால்"
+          "ஈஸ்ட் கொண்டு சில நாள் நொதிக்கச் செய்வதால்",
+          "அமில K₂Cr₂O₇ கொண்டு ஆக்சிஜனேற்றம் செய்வதால்",
+          "சூடான அடர் H₂SO₄ கொண்டு நீர் நீக்குவதால்",
+          "நிக்கல் வினையூக்கியுடன் H₂ கொண்டு ஒடுக்குவதால்"
         ],
         "explanation": "C₂H₅OH + 2[O] → CH₃COOH + H₂O."
       }
@@ -710,20 +710,20 @@
       "en": {
         "q": "Some detergents cause water pollution because they",
         "options": [
-          "are soluble in hard water",
-          "are sodium salts of fatty acids",
-          "have branched hydrocarbon chains that are not fully biodegradable by micro-organisms",
-          "are rapidly decomposed by bacteria"
+          "are highly soluble in hard water as well as soft water",
+          "are sodium salts of long-chain fatty acids of oils",
+          "have branched hydrocarbon chains that are not biodegradable",
+          "are rapidly and completely decomposed by bacteria"
         ],
         "explanation": "Remedy: use biodegradable detergents made with straight-chain hydrocarbons."
       },
       "ta": {
         "q": "சில டிடர்ஜெண்ட்கள் நீரை மாசுபடுத்தக் காரணம் அவை",
         "options": [
-          "கடின நீரில் கரைபவை",
-          "கொழுப்பு அமிலங்களின் சோடியம் உப்புகள்",
-          "கிளைத்த ஹைட்ரோகார்பன் சங்கிலி உடையவை; நுண்ணுயிர்களால் முழுமையாகச் சிதைக்கப்படாதவை",
-          "பாக்டீரியாவால் விரைவாகச் சிதைவடைபவை"
+          "கடின நீரிலும் மென்னீரிலும் நன்கு கரைபவை",
+          "நீண்ட சங்கிலி கொழுப்பு அமிலங்களின் சோடியம் உப்புகள்",
+          "கிளைத்த ஹைட்ரோகார்பன் சங்கிலி உடையவை; சிதைவடையாதவை",
+          "பாக்டீரியாவால் விரைவாகவும் முழுமையாகவும் சிதைவடைபவை"
         ],
         "explanation": "தீர்வு: நேரான ஹைட்ரோகார்பன் சங்கிலி கொண்ட உயிரிய சிதைவுறும் டிடர்ஜெண்ட்களைப் பயன்படுத்துவது."
       }
@@ -739,20 +739,20 @@
       "en": {
         "q": "Which of the following is a characteristic of a homologous series?",
         "options": [
-          "Members have different chemical properties",
-          "Members have no general formula",
-          "Members have different functional groups",
-          "Members show a regular gradation in physical properties with increasing molecular mass"
+          "Members have widely different chemical properties",
+          "Members have no general formula at all among them",
+          "Members have different functional groups in each",
+          "Members show a regular gradation in physical properties"
         ],
         "explanation": "Successive members differ by a CH₂ group and show similar chemical properties."
       },
       "ta": {
         "q": "படிவரிசையின் பண்பு எது?",
         "options": [
-          "உறுப்புகளின் வேதிப் பண்புகள் வேறுபடுவது",
-          "பொது வாய்ப்பாடு இல்லாமை",
+          "உறுப்புகளின் வேதிப் பண்புகள் முற்றிலும் வேறுபடுவது",
+          "உறுப்புகளுக்குப் பொது வாய்ப்பாடு எதுவும் இல்லாமை",
           "உறுப்புகள் வெவ்வேறு வினைச் செயல் தொகுதிகளைக் கொண்டிருப்பது",
-          "மூலக்கூறு நிறை அதிகரிக்கும்போது இயற்பியல் பண்புகளில் படிப்படியான மாற்றம் காணப்படுவது"
+          "இயற்பியல் பண்புகளில் படிப்படியான மாற்றம் காணப்படுவது"
         ],
         "explanation": "அடுத்தடுத்த உறுப்புகள் CH₂ வேறுபாடு உடையவை; ஒத்த வேதிப் பண்புகளைக் காட்டும்."
       }
@@ -778,7 +778,7 @@
       "ta": {
         "q": "CH₃–CH₂–CH₂–OH என்ற சேர்மத்தின் IUPAC பெயர்",
         "options": [
-          "புரப்பேன்-1-ஆல் (propan-1-ol)",
+          "புரப்பேன்-1-ஆல்",
           "புரப்பனல்",
           "புரப்பேனால்-3",
           "புரப்பனோயிக் அமிலம்"

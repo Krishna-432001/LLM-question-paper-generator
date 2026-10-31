@@ -100,9 +100,9 @@
       "en": {
         "q": "MOIL is a state-owned company engaged in the mining of",
         "options": [
-          "coal",
-          "copper",
-          "bauxite",
+          "coking coal",
+          "copper ore",
+          "bauxite ore",
           "manganese ore"
         ],
         "explanation": "Manganese ore India Limited is headquartered in Nagpur; the largest manganese deposits are in Odisha."
@@ -110,9 +110,9 @@
       "ta": {
         "q": "MOIL என்ற அரசு நிறுவனம் எதைச் சுரங்கத்தில் வெட்டி எடுக்கிறது?",
         "options": [
-          "நிலக்கரி",
-          "செம்பு",
-          "பாக்சைட்",
+          "கோக்கிங் நிலக்கரி",
+          "செம்புத் தாது",
+          "பாக்சைட் தாது",
           "மாங்கனீசு தாது"
         ],
         "explanation": "MOIL தலைமையகம் நாக்பூர்; மாங்கனீசு அதிகம் உள்ள மாநிலம் ஒடிசா."
@@ -287,7 +287,7 @@
           "என்டிபிசி",
           "நால்கோ",
           "செயில்",
-          "கெயில் (GAIL)"
+          "கெயில்"
         ],
         "explanation": "GAIL தலைமையகம் புது தில்லியில் உள்ளது."
       },
@@ -313,10 +313,10 @@
       "ta": {
         "q": "பின்வரும் அணுமின் நிலையங்களில் தமிழ்நாட்டில் உள்ளது",
         "options": [
-          "நரோரா",
-          "கைகா",
-          "கல்பாக்கம்",
-          "ககரபாரா"
+          "நரோரா அணுமின் நிலையம்",
+          "கைகா அணுமின் நிலையம்",
+          "கல்பாக்கம் அணுமின் நிலையம்",
+          "ககரபாரா அணுமின் நிலையம்"
         ],
         "explanation": "குடங்குளமும் தமிழ்நாட்டில் உள்ளது; நரோரா - உத்தரப் பிரதேசம்; கைகா - கர்நாடகா; ககரபாரா - குஜராத்."
       },
@@ -451,7 +451,7 @@
           "Uttar Pradesh",
           "Maharashtra",
           "Karnataka",
-          "Tamil Nadu"
+          "Madhya Pradesh"
         ],
         "explanation": "The sugar industry is decentralised and located near sugarcane growing areas."
       },
@@ -461,7 +461,7 @@
           "உத்தரப் பிரதேசம்",
           "மகாராஷ்டிரா",
           "கர்நாடகா",
-          "தமிழ்நாடு"
+          "மத்தியப் பிரதேசம்"
         ],
         "explanation": "சர்க்கரை ஆலைகள் கரும்பு விளையும் பகுதிகளுக்கு அருகில் அமைந்துள்ளன."
       },
@@ -477,20 +477,20 @@
       "en": {
         "q": "The first automobile industry of India, started in 1947, was",
         "options": [
-          "Tata Motors at Pune",
-          "Hindustan Motors at Uttarpara",
-          "Premier Automobiles Ltd at Kurla (Mumbai)",
-          "Ashok Leyland at Chennai"
+          "Tata Motors Ltd at Pune",
+          "Hindustan Motors Ltd at Uttarpara",
+          "Premier Automobiles Ltd at Kurla",
+          "Ashok Leyland Ltd at Chennai"
         ],
         "explanation": "Hindustan Motors followed in 1948."
       },
       "ta": {
         "q": "1947இல் தொடங்கப்பட்ட இந்தியாவின் முதல் வாகனத் தொழிலகம்",
         "options": [
-          "புனேவில் டாடா மோட்டார்ஸ்",
-          "உத்தர்பாராவில் ஹிந்துஸ்தான் மோட்டார்ஸ்",
-          "குர்லாவில் (மும்பை) பிரீமியர் ஆட்டோமொபைல்ஸ் நிறுவனம்",
-          "சென்னையில் அசோக் லேலண்ட்"
+          "புனேவில் டாடா மோட்டார்ஸ் நிறுவனம்",
+          "உத்தர்பாராவில் ஹிந்துஸ்தான் மோட்டார்ஸ் நிறுவனம்",
+          "குர்லாவில் பிரீமியர் ஆட்டோமொபைல்ஸ் நிறுவனம்",
+          "சென்னையில் அசோக் லேலண்ட் நிறுவனம்"
         ],
         "explanation": "ஹிந்துஸ்தான் மோட்டார்ஸ் 1948இல் தொடங்கியது."
       },
@@ -564,20 +564,20 @@
       "en": {
         "q": "The software industry in India began in 1970 with the entry of",
         "options": [
-          "Infosys",
+          "Infosys Technologies",
           "Tata Consultancy Services",
-          "Cognizant",
-          "Wipro"
+          "Cognizant Technology Solutions",
+          "Wipro Technologies"
         ],
         "explanation": "Indian software companies export services to nearly 95 countries."
       },
       "ta": {
         "q": "இந்தியாவில் மென்பொருள் தொழிலகம் 1970இல் எந்த நிறுவனத்தின் நுழைவுடன் தொடங்கியது?",
         "options": [
-          "இன்போசிஸ்",
+          "இன்போசிஸ் டெக்னாலஜிஸ்",
           "டாடா கன்சல்டன்சி சர்வீசஸ்",
-          "காக்னிசன்ட்",
-          "விப்ரோ"
+          "காக்னிசன்ட் டெக்னாலஜி சொல்யூஷன்ஸ்",
+          "விப்ரோ டெக்னாலஜிஸ்"
         ],
         "explanation": "இந்திய மென்பொருள் நிறுவனங்கள் சுமார் 95 நாடுகளுக்கு சேவை ஏற்றுமதி செய்கின்றன."
       },

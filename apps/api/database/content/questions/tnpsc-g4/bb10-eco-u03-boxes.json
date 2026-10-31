@@ -52,7 +52,7 @@
       "ta": {
         "q": "உட்கொண்ட உணவை உயிரியல் ரீதியாகப் பயன்படுத்தும் திறன் என்பது உணவு மற்றும் ஊட்டச்சத்துப் பாதுகாப்பின் எந்தக் கூறு?",
         "options": [
-          "உட்கொள்ளுதல் (உட்கிரகித்தல்)",
+          "உட்கொள்ளுதல்",
           "அணுகல்",
           "கிடைத்தல்",
           "தாங்கும் திறன்"
@@ -139,10 +139,10 @@
       "ta": {
         "q": "இந்தியா தன்னிறைவு பெற இயலாத உற்பத்திப் பிரிவு",
         "options": [
-          "அரிசியும் கோதுமையும்",
+          "அரிசி, கோதுமை போன்ற தானியங்கள்",
           "பருப்பு வகைகளும் எண்ணெய் வித்துகளும்",
-          "பாலும் முட்டையும்",
-          "சணலும் பருத்தியும்"
+          "பால், முட்டை போன்ற விலங்குப் பொருள்கள்",
+          "சணல், பருத்தி போன்ற நார்ப் பயிர்கள்"
         ],
         "explanation": "தானியங்களில் தன்னிறைவு பெற்றாலும் பருப்பு, எண்ணெய் வித்துகளுக்கு இறக்குமதியை நம்பியுள்ளது."
       },
@@ -332,20 +332,20 @@
       "en": {
         "q": "The Puratchi Thalaivar M.G.R. Nutritious Meal Programme aims at",
         "options": [
-          "providing free health insurance",
-          "supplying subsidised fertilisers",
-          "combating malnutrition, increasing primary enrolment and reducing dropout rates",
-          "providing maternity assistance only"
+          "providing free health insurance to all families",
+          "supplying subsidised fertilisers and seeds to farmers",
+          "combating malnutrition and increasing school enrolment",
+          "providing cash assistance to pregnant women"
         ],
         "explanation": "Other states modelled their noon-meal programmes on Tamil Nadu's pioneering efforts."
       },
       "ta": {
         "q": "புரட்சித் தலைவர் எம்.ஜி.ஆர் சத்துணவுத் திட்டத்தின் நோக்கம்",
         "options": [
-          "இலவச மருத்துவக் காப்பீடு வழங்குதல்",
-          "மானிய உரம் வழங்குதல்",
-          "ஊட்டச்சத்துக் குறைபாட்டை எதிர்த்தல், தொடக்கப்பள்ளி சேர்க்கையை அதிகரித்தல், இடைநிற்றலைக் குறைத்தல்",
-          "மகப்பேறு உதவி மட்டும் வழங்குதல்"
+          "அனைத்துக் குடும்பங்களுக்கும் இலவச மருத்துவக் காப்பீடு வழங்குதல்",
+          "விவசாயிகளுக்கு மானிய விலையில் உரம், விதைகள் வழங்குதல்",
+          "ஊட்டச்சத்துக் குறைவை எதிர்த்துப் பள்ளிச் சேர்க்கையை உயர்த்துதல்",
+          "கர்ப்பிணிப் பெண்களுக்குப் பேறுகால நிதி உதவி வழங்குதல்"
         ],
         "explanation": "பிற மாநிலங்கள் தமிழ்நாட்டின் முன்னோடி முயற்சியைப் பின்பற்றி மதிய உணவுத் திட்டங்களை அமைத்தன."
       },
@@ -390,9 +390,9 @@
       "en": {
         "q": "The Tamil Nadu Health Systems Projects (TNHSP) launched which free service?",
         "options": [
-          "Maternity Benefit Scheme",
-          "School Health Programme",
-          "Mid-Day Meal Programme",
+          "The Maternity Benefit Scheme",
+          "The School Health Programme",
+          "The Mid-Day Meal Programme",
           "The 108 Emergency Ambulance Service"
         ],
         "explanation": "The Chief Minister's Comprehensive Health Insurance Scheme (2011-12) provides free medical and surgical treatment."

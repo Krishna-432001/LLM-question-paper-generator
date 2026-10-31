@@ -13,20 +13,20 @@
       "en": {
         "q": "As given in the unit exercise, Gross National Product (GNP) equals",
         "options": [
-          "NNP adjusted for inflation",
+          "NNP adjusted for inflation and subsidies",
           "GDP plus net factor income from abroad",
-          "GDP adjusted for inflation",
-          "NNP plus depreciation"
+          "GDP adjusted for inflation and taxes",
+          "NNP minus net indirect taxes"
         ],
         "explanation": "GNP = C + I + G + (X-M) + NFIA, i.e. GDP plus net factor income (property income) from abroad. (The book's option d is misprinted; option c is the correct one.)"
       },
       "ta": {
         "q": "பாடநூல் பயிற்சியின்படி, GNP என்பதன் சமம்",
         "options": [
-          "பணவீக்கத்திற்காகச் சரிசெய்யப்பட்ட NNP",
+          "பணவீக்கம், மானியங்களுக்காகச் சரிசெய்யப்பட்ட NNP",
           "GDP மற்றும் வெளிநாட்டில் ஈட்டப்பட்ட நிகர சொத்து வருமானம்",
-          "பணவீக்கத்திற்காகச் சரிசெய்யப்பட்ட GDP",
-          "NNP மற்றும் தேய்மானம்"
+          "பணவீக்கம், வரிகளுக்காகச் சரிசெய்யப்பட்ட GDP",
+          "NNPயிலிருந்து நிகர மறைமுக வரிகளைக் கழித்தது"
         ],
         "explanation": "GNP = C + I + G + (X-M) + NFIA; அதாவது GDP உடன் வெளிநாட்டிலிருந்து ஈட்டிய நிகர காரணி வருமானத்தைக் கூட்டினால் GNP கிடைக்கும்."
       },
@@ -43,7 +43,7 @@
         "q": "National Income measures the",
         "options": [
           "total value of money in circulation",
-          "total value of goods and services produced in an economy over a period",
+          "total value of goods and services produced",
           "total value of consumption goods alone",
           "total value of producer goods alone"
         ],
@@ -361,20 +361,20 @@
       "en": {
         "q": "National Income is defined as the total money value of goods and services produced by an economy over a period of",
         "options": [
-          "ten years",
-          "one month only",
+          "time, normally ten years",
+          "time, normally one month",
           "time, normally a year",
-          "a quarter only"
+          "time, normally a quarter"
         ],
         "explanation": "'National Income is a measure of the total money value of goods and services produced by an economy over a period of time, normally a year.'"
       },
       "ta": {
         "q": "நாட்டு வருமானம் என்பது ஓர் பொருளாதாரம் உற்பத்தி செய்த பண்டங்கள், பணிகளின் மொத்தப் பண மதிப்பை எக்காலத்திற்கு அளவிடுவது?",
         "options": [
-          "பத்து ஆண்டுகள்",
-          "ஒரு மாதம் மட்டும்",
+          "ஒரு காலகட்டம், பொதுவாகப் பத்து ஆண்டுகள்",
+          "ஒரு காலகட்டம், பொதுவாக ஒரு மாதம்",
           "ஒரு காலகட்டம், பொதுவாக ஓராண்டு",
-          "ஒரு காலாண்டு மட்டும்"
+          "ஒரு காலகட்டம், பொதுவாக ஒரு காலாண்டு"
         ],
         "explanation": "நாட்டு வருமானம் என்பது ஒரு பொருளாதாரம் குறிப்பிட்ட காலத்தில், பொதுவாக ஓராண்டில், உற்பத்தி செய்த பண்டங்கள், பணிகளின் மொத்தப் பண மதிப்பு."
       },
@@ -564,20 +564,20 @@
       "en": {
         "q": "The Human Development Index (HDI) combines life expectancy at birth, adult literacy rate and",
         "options": [
-          "the number of banks in the country",
-          "the area of agricultural land",
-          "standard of living measured as a function of GDP adjusted for purchasing power parity",
-          "the rate of inflation"
+          "the number of commercial banks in the country",
+          "the total area of agricultural land held",
+          "standard of living based on PPP-adjusted GDP",
+          "the rate of inflation in consumer prices"
         ],
         "explanation": "HDI is a composite index of life expectancy, adult literacy and standard of living (log of GDP, PPP-adjusted)."
       },
       "ta": {
         "q": "மனித மேம்பாட்டுக் குறியீடு (HDI) என்பது பிறப்பின்போது ஆயுட்காலம், வயது வந்தோர் கல்வியறிவு ஆகியவற்றுடன் எதையும் இணைத்த கூட்டுக் குறியீடு?",
         "options": [
-          "நாட்டிலுள்ள வங்கிகளின் எண்ணிக்கை",
-          "வேளாண் நிலத்தின் பரப்பு",
-          "வாங்கும் சக்தி சமநிலைக்குச் சரிசெய்யப்பட்ட GDPயின் மடக்கைச் செயல்பாடாக அளவிடப்படும் வாழ்க்கைத் தரம்",
-          "பணவீக்க விகிதம்"
+          "நாட்டிலுள்ள வணிக வங்கிகளின் கிளைகளின் மொத்த எண்ணிக்கை",
+          "வேளாண் பயன்பாட்டில் உள்ள நிலத்தின் மொத்தப் பரப்பளவு",
+          "வாங்கும் சக்தி சமநிலைப்படி GDP அடிப்படையிலான வாழ்க்கைத் தரம்",
+          "நுகர்வோர் விலைகளில் ஏற்படும் ஆண்டுப் பணவீக்க விகிதம்"
         ],
         "explanation": "HDI = ஆயுட்கால எதிர்பார்ப்பு + வயது வந்தோர் கல்வியறிவு + வாழ்க்கைத் தரம் (PPP சரிசெய்த GDPயின் மடக்கை)."
       },
@@ -651,20 +651,20 @@
       "en": {
         "q": "The new economic policy begun in the early 1990s is popularly known as",
         "options": [
-          "PPP - Public Private Partnership",
+          "PPP - Public Private Partnership in Infrastructure",
           "LPG - Liberalisation, Privatisation and Globalisation",
-          "GST - Goods and Services Tax",
-          "MSP - Minimum Support Price"
+          "GST - Goods and Services Tax Reform Policy",
+          "MSP - Minimum Support Price for Farm Crops"
         ],
         "explanation": "India's economic reforms of the early 1990s are called LPG."
       },
       "ta": {
         "q": "1990களின் தொடக்கத்தில் தொடங்கிய புதிய பொருளாதாரக் கொள்கை பொதுவாக எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "PPP - பொது-தனியார் கூட்டாண்மை",
+          "PPP - உள்கட்டமைப்பில் பொது-தனியார் கூட்டாண்மை",
           "LPG - தாராளமயமாக்கல், தனியார்மயமாக்கல், உலகமயமாக்கல்",
-          "GST - பண்டங்கள் மற்றும் பணிகள் வரி",
-          "MSP - குறைந்தபட்ச ஆதரவு விலை"
+          "GST - பண்டங்கள் மற்றும் பணிகள் வரிச் சீர்திருத்தம்",
+          "MSP - வேளாண் பயிர்களுக்கான குறைந்தபட்ச ஆதரவு விலை"
         ],
         "explanation": "புதிய பொருளாதார சீர்திருத்தம் LPG என அழைக்கப்படுகிறது."
       },

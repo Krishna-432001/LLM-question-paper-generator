@@ -74,7 +74,7 @@
         "options": [
           "Registration only",
           "Naturalisation only",
-          "All of the above (descent, registration, naturalisation)",
+          "All of the above",
           "Descent only"
         ],
         "explanation": "Under the Citizenship Act, 1955, citizenship may be acquired by birth, descent, registration, naturalisation and incorporation of territory."
@@ -84,7 +84,7 @@
         "options": [
           "பதிவு மட்டும்",
           "இயல்பு குடியுரிமை மட்டும்",
-          "மேற்கூறிய அனைத்தும் (வழிவந்தவர், பதிவு, இயல்பு குடியுரிமை)",
+          "மேற்கூறிய அனைத்தும்",
           "வழிவந்த உரிமை மட்டும்"
         ],
         "explanation": "1955 குடியுரிமைச் சட்டப்படி பிறப்பு, வழிவந்தோர், பதிவு, இயல்பு குடியுரிமை, நிலப்பகுதி இணைப்பு ஆகிய வழிகளில் குடியுரிமை பெறலாம்."
@@ -169,10 +169,10 @@
       "ta": {
         "q": "அரசியலமைப்பின் 'இதயமும் ஆன்மாவும்' என டாக்டர் அம்பேத்கர் வர்ணித்த உரிமை எது?",
         "options": [
-          "சொத்துரிமை",
-          "சமய சுதந்திர உரிமை",
+          "சொத்துக் கொள்ளும் உரிமை",
+          "சமய சுதந்திரத்திற்கான உரிமை",
           "அரசியலமைப்புத் தீர்வுகளுக்கான உரிமை",
-          "சமத்துவ உரிமை"
+          "சமத்துவத்திற்கான உரிமை"
         ],
         "explanation": "பிரிவு 32 (அரசியலமைப்புத் தீர்வுகளுக்கான உரிமை) அரசியலமைப்பின் இதயமும் ஆன்மாவும்."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "Fundamental Rights can be suspended",
         "options": [
-          "If the Prime Minister so orders",
-          "If the President orders it during a national emergency",
-          "If the Supreme Court so desires",
-          "By any State Governor"
+          "If the Prime Minister alone so orders it",
+          "If the President orders it during an emergency",
+          "If the Supreme Court so desires at any time",
+          "By any State Governor during his term"
         ],
         "explanation": "During a national emergency (Art. 352) the President may suspend the right to move courts for enforcement of Fundamental Rights."
       },
       "ta": {
         "q": "அடிப்படை உரிமைகளை எவ்வாறு இடைநிறுத்தலாம்?",
         "options": [
-          "பிரதம மந்திரி ஆணையிட்டால்",
-          "தேசிய அவசரநிலைக் காலத்தில் குடியரசுத் தலைவர் ஆணையிட்டால்",
-          "உச்சநீதிமன்றம் விரும்பினால்",
-          "எந்த மாநில ஆளுநராலும்"
+          "பிரதம மந்திரி தனியாக ஆணையிட்டால்",
+          "அவசரநிலையில் குடியரசுத் தலைவர் ஆணையிட்டால்",
+          "உச்சநீதிமன்றம் எப்போது வேண்டுமானாலும் விரும்பினால்",
+          "எந்த மாநில ஆளுநராலும் தன் பதவிக்காலத்தில்"
         ],
         "explanation": "தேசிய அவசரநிலையில் (பிரிவு 352) உரிமைகளைச் செயல்படுத்தக் குடியரசுத் தலைவர் நீதிமன்ற அணுகுரிமையை இடைநிறுத்தலாம்."
       }
@@ -217,8 +217,8 @@
       "en": {
         "q": "The Fundamental Duties in the Indian Constitution were inspired by the Constitution of",
         "options": [
-          "USA",
-          "The former USSR (Russia)",
+          "United States of America",
+          "The former USSR",
           "Ireland",
           "Canada"
         ],
@@ -227,8 +227,8 @@
       "ta": {
         "q": "இந்திய அரசியலமைப்பின் அடிப்படைக் கடமைகள் எந்த நாட்டு அரசியலமைப்பால் ஈர்க்கப்பட்டன?",
         "options": [
-          "அமெரிக்கா",
-          "முன்னாள் சோவியத் ஒன்றியம் (ரஷ்யா)",
+          "அமெரிக்க ஐக்கிய நாடுகள்",
+          "முன்னாள் சோவியத் ஒன்றியம்",
           "அயர்லாந்து",
           "கனடா"
         ],
@@ -450,19 +450,19 @@
         "q": "A writ is",
         "options": [
           "A tax order of the Finance Commission",
-          "A bill passed by Parliament",
-          "A resolution of the Cabinet",
-          "A written order or command issued by a court under its seal"
+          "A bill passed by both Houses of Parliament",
+          "A resolution passed by the Union Cabinet",
+          "A written order issued by a court"
         ],
         "explanation": "A writ is an order or command in writing under the court's seal; both the Supreme Court and High Courts can issue writs."
       },
       "ta": {
         "q": "நீதிப்பேராணை (Writ) என்பது",
         "options": [
-          "நிதி ஆணையத்தின் வரி ஆணை",
-          "நாடாளுமன்றம் நிறைவேற்றிய மசோதா",
-          "அமைச்சரவைத் தீர்மானம்",
-          "நீதிமன்றம் தன் முத்திரையுடன் எழுத்தில் பிறப்பிக்கும் ஆணை"
+          "நிதி ஆணையம் பிறப்பிக்கும் வரி ஆணை",
+          "நாடாளுமன்ற இரு அவைகளும் நிறைவேற்றிய மசோதா",
+          "மத்திய அமைச்சரவை நிறைவேற்றிய தீர்மானம்",
+          "நீதிமன்றம் எழுத்தில் பிறப்பிக்கும் ஆணை"
         ],
         "explanation": "நீதிமன்றம் முத்திரையுடன் எழுத்தில் வழங்கும் கட்டளை; உச்ச, உயர் நீதிமன்றங்கள் பிறப்பிக்கலாம்."
       }

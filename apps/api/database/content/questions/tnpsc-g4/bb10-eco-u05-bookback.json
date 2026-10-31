@@ -53,9 +53,9 @@
         "q": "நீர் இறைக்கும் பம்புசெட்டுகளும் மோட்டார்களும் பெரும்பாலும் உற்பத்தியாகும் இடம்",
         "options": [
           "கோயம்புத்தூர்",
-          "சென்னை",
-          "தருமபுரி",
-          "சேலம்"
+          "சென்னை நகரம்",
+          "தருமபுரி நகரம்",
+          "சேலம் நகரம்"
         ],
         "explanation": "கோவை பகுதி ஜவுளியிலிருந்து ஜவுளி இயந்திரம், மின் மோட்டார், பம்புசெட் உற்பத்திக்கு விரிவடைந்தது."
       },
@@ -216,20 +216,20 @@
       "en": {
         "q": "Which of the following is NOT an industrial development agency of Tamil Nadu?",
         "options": [
-          "TIDCO",
-          "SIPCOT",
-          "MEPZ (Madras Export Processing Zone)",
-          "TANSIDCO"
+          "TIDCO - Tamil Nadu Industrial Development Corporation",
+          "SIPCOT - State Industries Promotion Corporation of Tamil Nadu",
+          "MEPZ - Madras Export Processing Zone",
+          "TANSIDCO - Tamil Nadu Small Industries Development Corporation"
         ],
         "explanation": "MEPZ is a Special Economic Zone set up by the central government in 1984; TIDCO, SIPCOT and TANSIDCO are state agencies."
       },
       "ta": {
         "q": "தமிழ்நாட்டின் தொழில் வளர்ச்சி முகமை அல்லாதது எது?",
         "options": [
-          "TIDCO",
-          "SIPCOT",
-          "MEPZ (சென்னை ஏற்றுமதி பதப்படுத்தும் மண்டலம்)",
-          "TANSIDCO"
+          "TIDCO - தமிழ்நாடு தொழில் வளர்ச்சிக் கழகம்",
+          "SIPCOT - தமிழ்நாடு தொழில் மேம்பாட்டுக் கழகம்",
+          "MEPZ - சென்னை ஏற்றுமதி பதப்படுத்தும் மண்டலம்",
+          "TANSIDCO - தமிழ்நாடு சிறுதொழில் வளர்ச்சிக் கழகம்"
         ],
         "explanation": "MEPZ 1984இல் மத்திய அரசு அமைத்த சிறப்புப் பொருளாதார மண்டலம்; மற்றவை மாநில முகமைகள்."
       },
@@ -274,20 +274,20 @@
       "en": {
         "q": "Wages in agriculture cannot rise mainly because of",
         "options": [
-          "the limited ability of agriculture to absorb labour due to declining marginal productivity of land",
-          "high mechanisation of farms",
-          "high demand for food as income rises",
-          "fall in the number of farmers"
+          "the limited ability of agriculture to absorb more labour",
+          "rapid and widespread mechanisation of farms",
+          "a sharp rise in the demand for food as incomes grow",
+          "a steady fall in the number of farm workers employed"
         ],
         "explanation": "As more people rely on agriculture, wages stay low and poverty may remain high."
       },
       "ta": {
         "q": "வேளாண் துறையில் கூலி உயராததற்கு முக்கியக் காரணம்",
         "options": [
-          "நிலத்தின் இறுதிநிலை உற்பத்தித்திறன் குறைவதால் வேளாண்மை உழைப்பை உள்வாங்கும் திறன் குறைவு",
-          "பண்ணைகளின் அதிக இயந்திரமயம்",
-          "வருமானம் உயரும்போது உணவுத் தேவை உயர்தல்",
-          "விவசாயிகள் எண்ணிக்கை குறைதல்"
+          "வேளாண்மை கூடுதல் உழைப்பை உள்வாங்கும் திறன் குறைவாக இருப்பது",
+          "பண்ணைகளில் மிக அதிகமான இயந்திரமயமாக்கல் பரவுதல்",
+          "வருமானம் உயரும்போது உணவுத் தேவை கடுமையாக உயர்தல்",
+          "பண்ணைத் தொழிலாளர் எண்ணிக்கை தொடர்ந்து குறைதல்"
         ],
         "explanation": "அதிகமானோர் வேளாண்மையைச் சார்வதால் கூலி உயராது; வறுமை நீடிக்கலாம்."
       },
@@ -303,20 +303,20 @@
       "en": {
         "q": "Industrial clusters are groups of firms in a defined geographic area that share",
         "options": [
-          "common owners and shareholders",
-          "the same brand name",
-          "a single government licence",
-          "common markets, technologies and skill requirements"
+          "common owners and a shared set of shareholders",
+          "the same brand name and trademark across firms",
+          "a single government licence for all firms",
+          "common markets, technologies and skills"
         ],
         "explanation": "Agglomerations of small firms specialising in one sector are called industrial clusters."
       },
       "ta": {
         "q": "தொழில் கொத்துகள் என்பவை ஒரு குறிப்பிட்ட புவிப்பகுதியில் உள்ள நிறுவனங்களின் குழுக்கள்; அவை பகிர்ந்துகொள்வது",
         "options": [
-          "பொதுவான உரிமையாளர்கள்",
-          "ஒரே வணிகப் பெயர்",
-          "ஒரே அரசு உரிமம்",
-          "பொதுவான சந்தைகள், தொழில்நுட்பங்கள், திறன் தேவைகள்"
+          "நிறுவனங்களுக்குப் பொதுவான உரிமையாளர்கள், பங்குதாரர்கள்",
+          "அனைத்து நிறுவனங்களுக்கும் ஒரே வணிகப் பெயர்",
+          "அனைத்து நிறுவனங்களுக்கும் பொதுவான ஒரே அரசு உரிமம்",
+          "பொதுவான சந்தைகள், தொழில்நுட்பங்கள், திறன்கள்"
         ],
         "explanation": "ஒரே துறையில் சிறப்புத் திறன் கொண்ட சிறு நிறுவனங்களின் திரள் தொழில் கொத்து எனப்படும்."
       },
@@ -390,10 +390,10 @@
       "en": {
         "q": "Which clusters are mentioned as generating polluting effluents that affect health and water bodies in Tamil Nadu?",
         "options": [
-          "IT and electronics clusters",
-          "Handloom clusters only",
+          "IT, electronics and software clusters",
+          "Handloom and handicraft clusters only",
           "Chemicals, textiles and leather clusters",
-          "Automobile clusters only"
+          "Automobile and engineering clusters only"
         ],
         "explanation": "Other problems: declining employment potential due to frontier technologies and poorer quality (temporary) employment."
       },
@@ -401,9 +401,9 @@
         "q": "சுகாதாரத்தையும் நீர்நிலைகளையும் பாதிக்கும் மாசடைந்த கழிவுகளை உருவாக்குவதாகக் கூறப்படும் கொத்துகள்",
         "options": [
           "தகவல் தொழில்நுட்ப, மின்னணுக் கொத்துகள்",
-          "கைத்தறி மட்டும்",
+          "கைத்தறி, கைவினைக் கொத்துகள் மட்டுமே",
           "இரசாயனம், ஜவுளி, தோல் கொத்துகள்",
-          "தானியங்கி மட்டும்"
+          "தானியங்கி, பொறியியல் கொத்துகள் மட்டுமே"
         ],
         "explanation": "மேலும் புதிய தொழில்நுட்பத்தால் வேலைவாய்ப்புக் குறைவு; தற்காலிக வேலைவாய்ப்பால் தரக் குறைவு."
       },
@@ -419,20 +419,20 @@
       "en": {
         "q": "An entrepreneur is described in the unit as",
         "options": [
-          "a government licence holder",
-          "a bank employee",
-          "an innovator of new ideas and business processes",
-          "a wage labourer"
+          "a holder of a government licence",
+          "an employee of a commercial bank",
+          "an innovator of new business ideas",
+          "a daily wage labourer in a factory"
         ],
         "explanation": "He possesses management skills, strong team building abilities and leadership qualities."
       },
       "ta": {
         "q": "தொழில்முனைவோர் எனப் பாடநூல் குறிப்பிடுவது",
         "options": [
-          "அரசு உரிமம் பெற்றவர்",
-          "வங்கிப் பணியாளர்",
-          "புதிய கருத்துகள், வணிகச் செயல்முறைகளின் புதுமையாளர்",
-          "கூலித் தொழிலாளர்"
+          "அரசு வணிக உரிமம் பெற்றவர் ஒருவர்",
+          "வணிக வங்கியில் பணிபுரியும் ஊழியர்",
+          "புதிய வணிகக் கருத்துகளின் புதுமையாளர்",
+          "தொழிற்சாலையில் பணிபுரியும் கூலித் தொழிலாளர்"
         ],
         "explanation": "மேலாண்மைத் திறன், குழு அமைக்கும் திறன், தலைமைப் பண்பு உடையவர்."
       },
@@ -448,10 +448,10 @@
       "en": {
         "q": "Entrepreneurship is described in the unit as the",
         "options": [
-          "right to own land",
-          "process of paying taxes",
-          "act of importing goods",
-          "ability to create and build something"
+          "right to own agricultural land",
+          "process of paying business taxes",
+          "act of importing foreign goods",
+          "ability to build something new"
         ],
         "explanation": "It is the process of action of an entrepreneur who undertakes to establish his enterprise."
       },
@@ -477,20 +477,20 @@
       "en": {
         "q": "Which of the following is a characteristic of a successful industrial cluster given in the unit?",
         "options": [
-          "Isolation of each firm from others",
-          "Close inter-firm collaboration along with competition based on innovation",
-          "Absence of self-help organisations",
-          "A single-skilled workforce"
+          "Complete isolation of each firm from other firms",
+          "Close collaboration and innovation-based competition",
+          "Absence of any self-help organisations or networks",
+          "A workforce limited to a single skill set"
         ],
         "explanation": "Other characteristics: geographical proximity of SMEs, sectoral specialisation, socio-cultural identity, multi-skilled workforce, self-help organisations and supportive governments."
       },
       "ta": {
         "q": "வெற்றிகரமான தொழில் கொத்தின் பண்பாகப் பாடநூல் குறிப்பிடுவது",
         "options": [
-          "ஒவ்வொரு நிறுவனமும் தனித்து இயங்குதல்",
-          "நிறுவனங்களுக்கிடையே நெருங்கிய ஒத்துழைப்பும் புதுமை அடிப்படையிலான போட்டியும்",
-          "சுய உதவி அமைப்புகள் இல்லாமை",
-          "ஒரே திறன் கொண்ட தொழிலாளர்"
+          "ஒவ்வொரு நிறுவனமும் பிறவற்றிலிருந்து முற்றிலும் தனித்து இயங்குதல்",
+          "நெருங்கிய ஒத்துழைப்பும் புதுமை அடிப்படையிலான போட்டியும்",
+          "சுய உதவி அமைப்புகள், வலையமைப்புகள் இல்லாமை",
+          "ஒரே திறன் கொண்ட தொழிலாளர் மட்டுமே இருத்தல்"
         ],
         "explanation": "புவிசார் அண்மை, துறைசார் சிறப்பு, சமூக-பண்பாட்டு அடையாளம், பல்திறன் தொழிலாளர், சுய உதவி அமைப்புகள், ஆதரவான அரசு ஆகியவையும் பண்புகள்."
       },
@@ -535,20 +535,20 @@
       "en": {
         "q": "Which of the following is a role of entrepreneurs in the economy, as given in the unit?",
         "options": [
-          "Removing regional disparities by industrialising rural and backward areas",
-          "Reducing the country's GDP",
-          "Discouraging capital formation",
-          "Raising prices of goods"
+          "Reducing regional disparities through industrialisation",
+          "Lowering the national income and GDP of the country",
+          "Discouraging capital formation and local savings",
+          "Raising prices of goods and services unfairly"
         ],
         "explanation": "Entrepreneurs also promote capital formation by mobilising idle savings, provide large-scale employment and enable better quality goods at lower prices."
       },
       "ta": {
         "q": "பாடநூலின்படி தொழில்முனைவோரின் பங்கு எது?",
         "options": [
-          "கிராமப்புற, பின்தங்கிய பகுதிகளைத் தொழில்மயமாக்கிப் பிராந்திய ஏற்றத்தாழ்வை நீக்குதல்",
-          "நாட்டின் GDPஐக் குறைத்தல்",
-          "மூலதன உருவாக்கத்தைத் தடுத்தல்",
-          "பொருள்களின் விலையை உயர்த்துதல்"
+          "தொழில்மயமாக்கலால் பிராந்திய ஏற்றத்தாழ்வைக் குறைத்தல்",
+          "நாட்டின் GDPஐயும் தேசிய வருமானத்தையும் குறைத்தல்",
+          "மூலதன உருவாக்கத்தையும் சேமிப்பையும் தடுத்தல்",
+          "பொருள்கள், பணிகளின் விலையை நியாயமின்றி உயர்த்துதல்"
         ],
         "explanation": "சேமிப்பைத் திரட்டி மூலதனம் உருவாக்கல், வேலைவாய்ப்பு, குறைந்த விலையில் தரமான பொருள்கள் ஆகியவையும் அவர்களின் பங்கு."
       },

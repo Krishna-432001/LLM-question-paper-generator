@@ -159,9 +159,9 @@
       "en": {
         "q": "Coating the surface of a metal with a thin layer of zinc is called",
         "options": [
-          "thinning",
+          "tin plating",
           "anodising",
-          "painting",
+          "paint coating",
           "galvanization"
         ],
         "explanation": "Galvanization is the coating of zinc on iron sheets."
@@ -169,10 +169,10 @@
       "ta": {
         "q": "உலோகத்தின் மேற்பரப்பில் மெல்லிய துத்தநாகப் படலத்தைப் பூசும் முறை",
         "options": [
-          "மெலிதாக்குதல்",
+          "தகரம் பூசுதல்",
           "அனோடிக் பூச்சு",
           "வண்ணம் பூசுதல்",
-          "துத்தநாகம் பூசுதல் (கால்வனைசேஷன்)"
+          "கால்வனைசேஷன்"
         ],
         "explanation": "இரும்புத் தகடுகளின் மீது துத்தநாகத்தைப் பூசுவது கால்வனைசேஷன்."
       }
@@ -276,7 +276,7 @@
         "q": "The lanthanides belong to the ____ period.",
         "options": [
           "third period",
-          "sixth period (32 elements)",
+          "sixth period",
           "fourth period",
           "seventh period"
         ],
@@ -286,7 +286,7 @@
         "q": "லாந்தனைடுகள் அமைந்துள்ள தொடர்",
         "options": [
           "மூன்றாவது தொடர்",
-          "ஆறாவது தொடர் (32 தனிமங்கள்)",
+          "ஆறாவது தொடர்",
           "நான்காவது தொடர்",
           "ஏழாவது தொடர்"
         ],
@@ -566,19 +566,19 @@
         "q": "Which statement about ionic radius is correct?",
         "options": [
           "It increases across a period from left to right",
-          "It decreases across a period from left to right and increases down a group",
-          "It decreases down a group",
-          "It remains constant across a period"
+          "It decreases across a period and increases down a group",
+          "It decreases down a group as shells are added",
+          "It remains constant across a period and down a group"
         ],
         "explanation": "In general, ionic radius decreases across a period as nuclear charge increases and increases down a group as shells are added (cations and anions are compared separately)."
       },
       "ta": {
         "q": "அயனி ஆரம் பற்றிய சரியான கூற்று",
         "options": [
-          "தொடரில் இடமிருந்து வலமாக அதிகரிக்கும்",
-          "தொடரில் இடமிருந்து வலமாகக் குறையும்; தொகுதியில் கீழே செல்லச் செல்ல அதிகரிக்கும்",
-          "தொகுதியில் கீழே செல்லச் செல்லக் குறையும்",
-          "தொடரில் மாறாது"
+          "தொடரில் இடமிருந்து வலமாகச் செல்லச் செல்ல அதிகரிக்கும்",
+          "தொடரில் குறையும்; தொகுதியில் கீழே செல்லச் செல்ல அதிகரிக்கும்",
+          "தொகுதியில் கீழே செல்லச் செல்லக் குறைந்துகொண்டே போகும்",
+          "தொடரிலும் தொகுதியிலும் எப்போதும் மாறாமல் இருக்கும்"
         ],
         "explanation": "பொதுவாக அணுக்கரு மின்னூட்டம் அதிகரிப்பதால் தொடரில் இடமிருந்து வலமாக அயனி ஆரம் குறையும்; தொகுதியில் கீழே செல்லச் செல்ல கூடுதல் கூடுகள் சேர்வதால் அதிகரிக்கும் (நேர், எதிர் அயனிகள் தனித்தனியே ஒப்பிடப்படும்)."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "Which of the following statements about ores and minerals is correct?",
         "options": [
-          "All minerals are ores",
-          "No mineral is an ore",
-          "Ores and minerals are the same",
-          "All ores are minerals, but not all minerals are ores"
+          "All minerals are ores of some metal",
+          "No mineral is ever an ore of a metal",
+          "Ores and minerals are exactly the same",
+          "All ores are minerals, not all minerals are ores"
         ],
         "explanation": "A mineral is an ore only if the metal can be extracted from it profitably."
       },
       "ta": {
         "q": "தாதுக்கள், கனிமங்கள் பற்றிய சரியான கூற்று",
         "options": [
-          "எல்லாக் கனிமங்களும் தாதுக்களே",
-          "எந்தக் கனிமமும் தாது அல்ல",
-          "தாதுவும் கனிமமும் ஒன்றே",
-          "எல்லாத் தாதுக்களும் கனிமங்களே; ஆனால் எல்லாக் கனிமங்களும் தாதுக்கள் அல்ல"
+          "எல்லாக் கனிமங்களும் ஏதேனும் ஓர் உலோகத்தின் தாதுக்களே",
+          "எந்தக் கனிமமும் எப்போதும் உலோகத்தின் தாது ஆகாது",
+          "தாதுவும் கனிமமும் எல்லா வகையிலும் ஒன்றே",
+          "எல்லாத் தாதுக்களும் கனிமங்களே; எல்லாக் கனிமங்களும் தாதுக்கள் அல்ல"
         ],
         "explanation": "நூலிலுள்ள கூற்று சரி; இலாபகரமாக உலோகத்தைப் பிரித்தெடுக்க முடியும் கனிமமே தாது."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "Aluminium wires are used as electric cables because aluminium",
         "options": [
-          "is silvery white in colour",
-          "is very dense",
-          "does not conduct heat",
-          "is a good conductor of electricity and is light and ductile"
+          "is silvery white in colour and shiny",
+          "is very dense and extremely heavy",
+          "does not conduct heat or electricity well",
+          "is a good conductor of electricity and is light"
         ],
         "explanation": "The use is not due to colour."
       },
       "ta": {
         "q": "அலுமினியக் கம்பிகள் மின்கம்பிகளாகப் பயன்படுவதற்குக் காரணம் அலுமினியம்",
         "options": [
-          "வெள்ளி போன்ற வெண்ணிறம் கொண்டது",
-          "மிக அடர்த்தி மிக்கது",
-          "வெப்பத்தைக் கடத்தாதது",
-          "நல்ல மின்கடத்தி; இலேசானது; தகடாக்கவும் கம்பியாக்கவும் இயலும்"
+          "வெள்ளி போன்ற பளபளப்பான வெண்ணிறம் கொண்டது",
+          "மிக அடர்த்தி மிக்கதும் மிகக் கனமானதும்",
+          "வெப்பத்தையோ மின்சாரத்தையோ கடத்தாதது",
+          "நல்ல மின்கடத்தி; இலேசானது; தகடாக்கவும் இயலும்"
         ],
         "explanation": "நிறம் காரணமன்று."
       }
@@ -826,7 +826,7 @@
       "en": {
         "q": "Rusting of iron requires the presence of",
         "options": [
-          "air (oxygen) and moisture",
+          "air and moisture",
           "hydrogen gas",
           "oxygen only",
           "dry air"
@@ -836,7 +836,7 @@
       "ta": {
         "q": "இரும்பு துருப்பிடிக்கத் தேவையானவை",
         "options": [
-          "காற்று (ஆக்சிஜன்), ஈரப்பதம்",
+          "காற்று, ஈரப்பதம்",
           "ஹைட்ரஜன் வாயு",
           "ஆக்சிஜன் மட்டும்",
           "வறண்ட காற்று"
@@ -865,10 +865,10 @@
       "ta": {
         "q": "பேயர் முறையில் பாக்சைட்டுடன் அடர் காஸ்டிக் சோடாவைச் சேர்த்து அழுத்தத்தில் சூடேற்றுவது",
         "options": [
-          "அலுமினாவை சோடியம் மெட்டா அலுமினேட்டாகக் கரைத்து மாசுகளை நீக்குவதற்கு",
-          "மின்பகுளியின் உருகுநிலையைக் குறைப்பதற்கு",
-          "தாதுவிலிருந்து சல்பரை நீக்குவதற்கு",
-          "அலுமினாவை அலுமினியமாக ஒடுக்குவதற்கு"
+          "அலுமினாவைச் சோடியம் அலுமினேட்டாகக் கரைப்பதற்கு",
+          "மின்பகுளியின் உருகுநிலையை மிகவும் குறைப்பதற்கு",
+          "தாதுவிலிருந்து சல்பர், ஆர்சனிக்கை நீக்குவதற்கு",
+          "அலுமினாவை உருகிய அலுமினியமாக ஒடுக்குவதற்கு"
         ],
         "explanation": "Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O; நீர்க்க Al(OH)₃ வீழ்படிவாகி, சூடேற்றி அலுமினா பெறப்படுகிறது."
       }
@@ -884,10 +884,10 @@
       "en": {
         "q": "In Hall's process, the electrolyte contains pure alumina, molten cryolite and fluorspar. Fluorspar is added to",
         "options": [
-          "reduce alumina",
-          "raise the melting point",
-          "lower the fusion temperature of the electrolyte",
-          "act as the anode"
+          "reduce alumina to aluminium",
+          "raise the melting point of the bath",
+          "lower the fusion temperature of the bath",
+          "act as the anode of the cell"
         ],
         "explanation": "Fluorspar (CaF₂) lowers the fusion temperature of the electrolyte."
       },
@@ -915,8 +915,8 @@
         "options": [
           "Ag, Ag₂CO₃, Ag₂SO₄ and SO₃",
           "Cu, CuCO₃·Cu(OH)₂, CuSO₄ and SO₂",
-          "Cu, CuO, CuSO₄ and H₂",
-          "Zn, ZnCO₃, ZnSO₄ and SO₂"
+          "Cu, CuO·Cu(OH)₂, CuSO₄ and H₂",
+          "Zn, ZnCO₃·Zn(OH)₂, ZnSO₄ and SO₂"
         ],
         "explanation": "Cu + 2H₂SO₄ → CuSO₄ + SO₂↑ + 2H₂O; the green layer is basic copper carbonate."
       },
@@ -925,8 +925,8 @@
         "options": [
           "Ag, Ag₂CO₃, Ag₂SO₄, SO₃",
           "Cu, CuCO₃·Cu(OH)₂, CuSO₄, SO₂",
-          "Cu, CuO, CuSO₄, H₂",
-          "Zn, ZnCO₃, ZnSO₄, SO₂"
+          "Cu, CuO·Cu(OH)₂, CuSO₄, H₂",
+          "Zn, ZnCO₃·Zn(OH)₂, ZnSO₄, SO₂"
         ],
         "explanation": "Cu + 2H₂SO₄ → CuSO₄ + SO₂↑ + 2H₂O; பச்சைப் படலம் காரத் தாமிர கார்பனேட்."
       }
@@ -942,20 +942,20 @@
       "en": {
         "q": "Smelting is the process of",
         "options": [
-          "concentrating the ore by froth floatation",
-          "heating the ore in the absence of air",
-          "heating a sulphide ore in excess of air",
-          "reducing the roasted metallic oxide to the metal in its molten state, with impurities removed as slag by a flux"
+          "concentrating the ore by the froth floatation process",
+          "heating the ore strongly in the absence of air",
+          "heating a sulphide ore strongly in excess of air",
+          "reducing the roasted metallic oxide to the metal in its molten state"
         ],
         "explanation": "Calcination = heating in absence of air; roasting = heating in excess of air."
       },
       "ta": {
         "q": "உருக்கி பிரித்தல் (ஸ்மெல்டிங்) என்பது",
         "options": [
-          "நுரை மிதப்பால் தாதுவைச் செறிவூட்டுதல்",
-          "காற்றில்லாமல் தாதுவைச் சூடேற்றுதல்",
-          "சல்பைடு தாதுவை மிகை காற்றில் சூடேற்றுதல்",
-          "வறுத்த உலோக ஆக்சைடை உருகிய நிலையில் உலோகமாக ஒடுக்கி, பாயும் பொருளால் மாசுகளைக் கசடாக நீக்குதல்"
+          "நுரை மிதப்பு முறையால் தாதுவை முழுமையாகச் செறிவூட்டுதல்",
+          "காற்றில்லாத சூழலில் தாதுவை நன்கு சூடேற்றுதல்",
+          "சல்பைடு தாதுவை மிகை காற்றில் நன்கு சூடேற்றுதல்",
+          "வறுத்த உலோக ஆக்சைடை உருகிய நிலையில் உலோகமாக ஒடுக்குதல்"
         ],
         "explanation": "கால்சினேஷன் – காற்றிலா சூடேற்றம்; வறுத்தல் – மிகை காற்றில் சூடேற்றம்."
       }

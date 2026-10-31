@@ -111,7 +111,7 @@
         "q": "கிழக்குத் தொடர்ச்சி மலையின் தென்பகுதியில் உள்ள உயரமான சிகரம்",
         "options": [
           "மேல்பட்டு",
-          "சோலைக்காடு (சோலையார்)",
+          "சோலைக்காடு",
           "தொட்டபெட்டா",
           "வந்தரவு"
         ],
@@ -129,7 +129,7 @@
       "en": {
         "q": "The riverine island of Srirangam lies between the Cauvery and which other branch?",
         "options": [
-          "Coleroon (Kollidam)",
+          "Coleroon",
           "Noyyal",
           "Bhavani",
           "Amaravathi"
@@ -246,9 +246,9 @@
         "q": "The coastal plains of Tamil Nadu, also called the Coromandel or Cholamandalam plain, are formed by the",
         "options": [
           "rivers flowing into the Arabian Sea",
-          "volcanic activity",
-          "rivers that flow east and drain into the Bay of Bengal",
-          "wind erosion"
+          "volcanic activity and lava flows",
+          "rivers flowing into the Bay of Bengal",
+          "wind erosion over the desert regions"
         ],
         "explanation": "The plain extends from Chennai to Kanyakumari and is more than 80 km wide in places."
       },
@@ -256,9 +256,9 @@
         "q": "தமிழ்நாட்டின் கடற்கரைச் சமவெளி (சோழ மண்டலக் கடற்கரை) உருவாகக் காரணம்",
         "options": [
           "அரபிக்கடலில் கலக்கும் ஆறுகள்",
-          "எரிமலைச் செயல்பாடு",
-          "கிழக்கே பாய்ந்து வங்கக்கடலில் கலக்கும் ஆறுகள்",
-          "காற்றரிப்பு"
+          "எரிமலைச் செயல்பாடும் எரிமலைக் குழம்பும்",
+          "வங்கக்கடலில் கலக்கும் ஆறுகள்",
+          "பாலைப்பகுதிகளில் ஏற்படும் காற்றரிப்பு"
         ],
         "explanation": "இது சென்னை முதல் கன்னியாகுமரி வரை நீள்கிறது; சில இடங்களில் 80 கி.மீக்கும் அதிக அகலம்."
       },
@@ -332,20 +332,20 @@
       "en": {
         "q": "Disaster Risk Reduction is the concept and practice of reducing disaster risks through",
         "options": [
-          "building more relief camps only",
-          "systematic efforts to analyse and reduce the causal factors of disasters",
-          "ignoring early warnings",
-          "relocating all cities"
+          "building more relief camps and shelters only",
+          "systematic efforts to reduce the causes of disasters",
+          "ignoring early warnings and weather alerts",
+          "relocating all the cities to hilly regions"
         ],
         "explanation": "It includes reducing exposure to hazards, lessening vulnerability and improving preparedness and early warning."
       },
       "ta": {
         "q": "பேரிடர் அபாய நேர்வு குறைப்பு என்பது",
         "options": [
-          "நிவாரண முகாம்களை மட்டும் அமைத்தல்",
-          "பேரிடருக்கான காரணிகளை ஆய்ந்து குறைக்கும் முறையான நடவடிக்கைகள் மூலம் அபாயத்தைக் குறைத்தல்",
-          "முன்னெச்சரிக்கையைப் புறக்கணித்தல்",
-          "அனைத்து நகரங்களையும் இடம்மாற்றுதல்"
+          "நிவாரண முகாம்களையும் தங்குமிடங்களையும் மட்டும் அமைத்தல்",
+          "பேரிடருக்கான காரணிகளைக் குறைக்கும் முறையான நடவடிக்கைகள்",
+          "முன்னெச்சரிக்கை, வானிலை அறிவிப்புகளைப் புறக்கணித்தல்",
+          "அனைத்து நகரங்களையும் மலைப்பகுதிகளுக்கு இடம்மாற்றுதல்"
         ],
         "explanation": "பாதிப்புக்குள்ளாகும் தன்மையைக் குறைத்து, முன்னெச்சரிக்கை, தயார்நிலையை மேம்படுத்துவதும் இதில் அடங்கும்."
       },
@@ -361,20 +361,20 @@
       "en": {
         "q": "The only perennial river of Tamil Nadu, fed by both the south-west and north-east monsoons, is the",
         "options": [
-          "Cauvery",
-          "Vaigai",
+          "Palar",
+          "Manimuthar",
           "Thamirabarani",
-          "Palar"
+          "Pennaiyar"
         ],
         "explanation": "All other rivers of the state are non-perennial."
       },
       "ta": {
         "q": "தென்மேற்கு, வடகிழக்கு இரு பருவமழைகளாலும் நீர் பெறும் தமிழ்நாட்டின் ஒரே வற்றாத ஆறு",
         "options": [
-          "காவிரி",
-          "வைகை",
+          "பாலாறு",
+          "மணிமுத்தாறு",
           "தாமிரபரணி",
-          "பாலாறு"
+          "பெண்ணையாறு"
         ],
         "explanation": "மாநிலத்தின் பிற ஆறுகள் அனைத்தும் பருவகால ஆறுகள்."
       },
@@ -390,20 +390,20 @@
       "en": {
         "q": "The Eastern Ghats are not a continuous range because they",
         "options": [
-          "have been levelled by glaciers",
-          "are separated by sea channels",
-          "are dissected at many places by rivers draining into the Bay of Bengal",
-          "are made of loose sand"
+          "have been levelled by ancient glaciers",
+          "are separated by wide sea channels",
+          "are cut through at many places by rivers",
+          "are made of loose sand and soft clay"
         ],
         "explanation": "Its height ranges from 1,100 to 1,600 m."
       },
       "ta": {
         "q": "கிழக்குத் தொடர்ச்சி மலை தொடர்ச்சியின்றிக் காணப்படுவதற்குக் காரணம்",
         "options": [
-          "பனியாறுகளால் சமமாக்கப்பட்டுள்ளது",
-          "கடல் கால்வாய்களால் பிரிக்கப்பட்டுள்ளது",
-          "வங்கக்கடலில் கலக்கும் ஆறுகளால் பல இடங்களில் துண்டிக்கப்பட்டுள்ளது",
-          "தளர்வான மணலால் ஆனது"
+          "பழங்காலப் பனியாறுகளால் சமமாக்கப்பட்டுள்ளது",
+          "அகலமான கடல் கால்வாய்களால் பிரிக்கப்பட்டுள்ளது",
+          "ஆறுகளால் பல இடங்களில் துண்டிக்கப்பட்டுள்ளது",
+          "தளர்வான மணலும் களிமண்ணும் கொண்டது"
         ],
         "explanation": "இதன் உயரம் 1,100-1,600 மீ."
       },
@@ -448,20 +448,20 @@
       "en": {
         "q": "The river Cauvery originates at Talacauvery in the",
         "options": [
-          "Nilgiri hills",
-          "Anaimalai hills",
-          "Brahmagiri hills of Kodagu (Coorg)",
-          "Pothigai hills"
+          "Nilgiri hills of Tamil Nadu",
+          "Anaimalai hills near Palakkad",
+          "Brahmagiri hills of Kodagu",
+          "Pothigai hills of Tirunelveli"
         ],
         "explanation": "The Cauvery is 805 km long, of which about 416 km lies in Tamil Nadu; it forms Hogenakkal falls."
       },
       "ta": {
         "q": "காவிரி ஆறு உற்பத்தியாகும் தலைக்காவிரி அமைந்துள்ள மலை",
         "options": [
-          "நீலகிரி மலை",
-          "ஆனைமலை",
-          "குடகு (கூர்க்) மாவட்டத்தின் பிரம்மகிரி மலை",
-          "பொதிகை மலை"
+          "தமிழ்நாட்டின் நீலகிரி மலைத்தொடர்",
+          "பாலக்காட்டு அருகிலுள்ள ஆனைமலை",
+          "குடகு மாவட்டத்தின் பிரம்மகிரி மலை",
+          "திருநெல்வேலி மாவட்டத்தின் பொதிகை மலை"
         ],
         "explanation": "காவிரியின் நீளம் 805 கி.மீ; தமிழ்நாட்டில் சுமார் 416 கி.மீ; ஒகேனக்கல் அருவி உருவாகிறது."
       },
@@ -477,20 +477,20 @@
       "en": {
         "q": "Which of the following is a recommended risk reduction measure before a cyclone?",
         "options": [
-          "Go out to watch the cyclone",
-          "Untie boats and leave them in the sea",
-          "Fishermen should keep a radio set with extra batteries and not venture out into the sea",
-          "Keep valuables in open places"
+          "Go out to the beach to watch the cyclone arrive",
+          "Untie the boats and leave them far out in the sea",
+          "Keep a radio set and do not venture into the sea",
+          "Keep valuables in open places outside the house"
         ],
         "explanation": "Documents and valuables should be kept in waterproof containers and cattle untied for their safety."
       },
       "ta": {
         "q": "புயலுக்கு முன் பின்பற்ற வேண்டிய அபாய நேர்வு குறைப்பு நடவடிக்கை எது?",
         "options": [
-          "புயலைக் காணச் செல்லுதல்",
-          "படகுகளைக் கடலில் அவிழ்த்து விடுதல்",
-          "மீனவர்கள் கூடுதல் மின்கலங்களுடன் வானொலியை வைத்திருந்து கடலுக்குச் செல்லாமல் இருத்தல்",
-          "மதிப்புள்ள பொருள்களைத் திறந்த இடத்தில் வைத்தல்"
+          "புயல் வருவதைக் காணக் கடற்கரைக்குச் செல்லுதல்",
+          "படகுகளை அவிழ்த்துக் கடலில் வெகுதூரம் விட்டுவிடுதல்",
+          "வானொலியை வைத்துக்கொண்டு கடலுக்குச் செல்லாமல் இருத்தல்",
+          "மதிப்புள்ள பொருள்களை வீட்டிற்கு வெளியே திறந்த இடத்தில் வைத்தல்"
         ],
         "explanation": "ஆவணங்களை நீர்புகாப் பெட்டிகளில் வைத்து, கால்நடைகளை அவிழ்த்து விட வேண்டும்."
       },

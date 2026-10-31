@@ -102,9 +102,9 @@
         "q": "Obesity is characterised by",
         "options": [
           "uncontrolled cell division forming a tumour",
-          "destruction of beta cells",
-          "loss of body weight",
-          "accumulation of excess body fat with an abnormal increase in body weight"
+          "destruction of the beta cells of the pancreas",
+          "loss of body weight and muscle mass over time",
+          "accumulation of excess body fat with abnormal weight gain"
         ],
         "explanation": "The book statement is false: obesity is excess fat accumulation; tumour formation is cancer."
       },
@@ -112,9 +112,9 @@
         "q": "உடற்பருமனின் சிறப்புப் பண்பு",
         "options": [
           "கட்டுப்பாடற்ற செல் பிரிவால் கட்டி உருவாதல்",
-          "பீட்டா செல்கள் அழிதல்",
-          "உடல் எடை குறைதல்",
-          "அதிகக் கொழுப்புச் சேர்ந்து உடல் எடை இயல்புக்கு மேல் உயர்தல்"
+          "கணையத்திலுள்ள பீட்டா செல்கள் முற்றிலும் அழிதல்",
+          "காலப்போக்கில் உடல் எடையும் தசையும் குறைதல்",
+          "அதிகக் கொழுப்பு சேர்ந்து உடல் எடை இயல்புக்கு மேல் உயர்தல்"
         ],
         "explanation": "புத்தகக் கூற்று தவறு; உடற்பருமன் என்பது அதிகக் கொழுப்புச் சேர்தல்; கட்டி உருவாதல் புற்றுநோய்."
       }
@@ -169,7 +169,7 @@
       "ta": {
         "q": "நோய்க்கான காரணத்தைப் பற்றிய படிப்பு",
         "options": [
-          "நோய்க்காரணவியல் (எட்டியாலஜி)",
+          "நோய்க்காரணவியல்",
           "கருவியல்",
           "சூழ்நிலையியல்",
           "புற்றுநோயியல்"
@@ -198,10 +198,10 @@
       "ta": {
         "q": "வகை-2 நீரிழிவு நோய் முக்கியமாக ஏற்படக் காரணம்",
         "options": [
-          "பீட்டா செல்கள் முழுமையாக அழிதல்",
-          "இலக்கு செல்கள் இன்சுலினுக்குப் பதிலளிக்காத இன்சுலின் எதிர்ப்புத்தன்மை",
-          "இன்சுலின் அதிகச் சுரப்பு",
-          "ADH குறைபாடு"
+          "கணையப் பீட்டா செல்கள் முழுமையாக அழிதல்",
+          "இலக்கு செல்களின் இன்சுலின் எதிர்ப்புத்தன்மை",
+          "இன்சுலின் மிகையாகச் சுரத்தல் கணையத்தில்",
+          "பிட்யூட்டரி ADH குறைபாடு"
         ],
         "explanation": "புத்தகக் கூற்று தவறு; வகை-2 இன்சுலின் எதிர்ப்புத்தன்மையால் ஏற்படுகிறது; வகை-1 பீட்டா செல் அழிவாலும் இன்சுலின் குறைவாலும் ஏற்படுகிறது."
       }
@@ -256,7 +256,7 @@
       "ta": {
         "q": "மீண்டும் மீண்டும் பயன்படுத்துவதால் குறிப்பிட்ட அளவு மருந்துக்கான துலங்கல் குறைவது",
         "options": [
-          "மருந்துத் தாங்குதிறன் (டாலரன்ஸ்)",
+          "மருந்துத் தாங்குதிறன்",
           "மெட்டாஸ்டாசிஸ்",
           "நோய் எதிர்ப்பாற்றல்",
           "விலகல் அறிகுறி"
@@ -335,7 +335,7 @@
         "options": [
           "diabetes insipidus",
           "Type 1 diabetes mellitus",
-          "Type 2 (non-insulin dependent) diabetes mellitus",
+          "Type 2 diabetes mellitus",
           "gestational diabetes only"
         ],
         "explanation": "Type 2 diabetes mellitus, usually appearing in adults, is called adult onset diabetes."
@@ -345,7 +345,7 @@
         "options": [
           "டயாபடீஸ் இன்சிபிடஸ்",
           "வகை-1 நீரிழிவு நோய்",
-          "வகை-2 (இன்சுலின் சாரா) நீரிழிவு நோய்",
+          "வகை-2 நீரிழிவு நோய்",
           "கர்ப்பகால நீரிழிவு மட்டும்"
         ],
         "explanation": "பெரும்பாலும் முதிர்ந்தோரில் தோன்றும் வகை-2 நீரிழிவு முதிர்ந்தோர் தொடக்க நீரிழிவு எனப்படும்."
@@ -362,10 +362,10 @@
       "en": {
         "q": "Atherosclerosis and coronary heart disease are caused by",
         "options": [
-          "deposition of cholesterol in the walls of the blood vessels",
-          "excess red blood cells in the heart",
-          "bacterial infection of the heart valves",
-          "deficiency of iron"
+          "deposition of cholesterol in blood vessel walls",
+          "excess red blood cells collecting in the heart",
+          "bacterial infection of the heart valves only",
+          "deficiency of iron in the daily diet"
         ],
         "explanation": "Coronary heart disease is caused by deposition of cholesterol in blood vessels, reducing blood supply to the heart muscle."
       },

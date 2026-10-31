@@ -42,8 +42,8 @@
       "en": {
         "q": "The organisation that divided the Indian soils into eight major groups is the",
         "options": [
-          "Indian Council of Agricultural Research (ICAR)",
-          "Soil Survey of India",
+          "Indian Council of Agricultural Research",
+          "Soil Survey Organisation of India",
           "Indian Institute of Soil Science",
           "Indian Meteorological Department"
         ],
@@ -52,10 +52,10 @@
       "ta": {
         "q": "இந்தியாவிலுள்ள மண் வகைகளை 8 பெரும் பிரிவுகளாகப் பிரித்துள்ள நிறுவனம்",
         "options": [
-          "இந்திய வேளாண் ஆராய்ச்சி நிறுவனம் (ICAR)",
+          "இந்திய வேளாண் ஆராய்ச்சி நிறுவனம்",
           "இந்திய மண் ஆய்வு நிறுவனம்",
           "இந்திய மண் அறிவியல் நிறுவனம்",
-          "இந்திய வானிலைத் துறை"
+          "இந்திய வானிலை ஆய்வுத் துறை"
         ],
         "explanation": "வண்டல், கரிசல், செம்மண், சரளை (லாட்டரைட்), காடு-மலை, வறண்ட-பாலை, உவர்-காரம், கரிச்சதுப்பு ஆகியன எட்டு வகைகள்."
       },
@@ -343,7 +343,7 @@
         "q": "பாசனச் சொற்களில் பொருந்தாததைத் தேர்ந்தெடுக்க.",
         "options": [
           "வெள்ளப் பெருக்குக் கால்வாய்",
-          "ஏரிப்பாசனம் (குளம்)",
+          "ஏரிப்பாசனம்",
           "வற்றாத கால்வாய்",
           "கால்வாய்"
         ],
@@ -430,9 +430,9 @@
         "q": "கரிசல் மண்ணின் பண்பு எது?",
         "options": [
           "அமிலத்தன்மை உடையது; ஈரத்தைத் தக்கவைக்காது",
-          "இலேசான, மணல் கலந்த, துளைகள் நிறைந்தது",
-          "ஈரமாக இருக்கும்போது ஒட்டும் தன்மை, ஈரத்தைத் தக்கவைக்கும் திறன் அதிகம்",
-          "உப்புகள் நிறைந்தது; மட்கு இல்லாதது"
+          "இலேசான, மணல் கலந்த, துளைகள் மிகுந்தது",
+          "ஈரத்தில் ஒட்டும்; ஈரத்தை அதிகம் தக்கவைக்கும்",
+          "உப்புகள் மிகுந்தது; மட்குச் சத்து இல்லாதது"
         ],
         "explanation": "தக்காண பாசால்ட்டில் உருவான இம்மண் பருத்தி, திணை, புகையிலை, கரும்புக்கு ஏற்றது."
       },
@@ -477,10 +477,10 @@
       "en": {
         "q": "Shifting agriculture, performed by tribal people after clearing forest land by felling and burning, is also called",
         "options": [
-          "terrace farming",
-          "dry farming",
+          "terrace farming on slopes",
+          "dry farming in arid areas",
           "slash and burn cultivation",
-          "mixed farming"
+          "mixed crop-livestock farming"
         ],
         "explanation": "The land is abandoned after two to three years as fertility decreases."
       },
@@ -624,8 +624,8 @@
         "options": [
           "Derived from the basalts of the Deccan trap; found in Maharashtra",
           "Formed by the process of leaching in wet and hot dry conditions",
-          "Rich in potash, phosphoric acid and lime but poor in nitrogen; found in the Ganga-Brahmaputra valleys",
-          "Found in the dry parts of Rajasthan with salts"
+          "Rich in potash, phosphoric acid and lime but poor in nitrogen",
+          "Found in the dry parts of Rajasthan and rich in salts"
         ],
         "explanation": "Black soil is derived from Deccan trap basalts and is found in Maharashtra, Malwa and Kathiawar."
       },
@@ -634,8 +634,8 @@
         "options": [
           "தக்காண பாசால்ட்டிலிருந்து உருவானது; மகாராஷ்டிராவில் உள்ளது",
           "ஈரமும் வறட்சியும் மாறி வரும் இடங்களில் கசிவால் உருவானது",
-          "பொட்டாஷ், பாஸ்பாரிக் அமிலம், சுண்ணாம்பு நிறைந்தது; நைட்ரஜன் குறைவு; கங்கை-பிரம்மபுத்திரா பள்ளத்தாக்குகளில் உள்ளது",
-          "ராஜஸ்தானின் வறண்ட பகுதிகளில் உப்புடன் உள்ளது"
+          "பொட்டாஷ், பாஸ்பாரிக் அமிலம், சுண்ணாம்பு நிறைந்தது; நைட்ரஜன் குறைவு",
+          "ராஜஸ்தானின் வறண்ட பகுதிகளில் உப்பு மிகுந்து காணப்படுவது"
         ],
         "explanation": "கரிசல் மண் தக்காண பாசால்ட்டில் உருவாகி மகாராஷ்டிரம், மாள்வா, கத்தியவாரில் காணப்படுகிறது."
       },
@@ -651,9 +651,9 @@
       "en": {
         "q": "Multi-purpose river valley projects generally combine irrigation with",
         "options": [
-          "dry farming",
-          "mining",
-          "rail transport",
+          "dry farming practices",
+          "open-cast mining work",
+          "rail transport services",
           "hydro-power generation"
         ],
         "explanation": "Other purposes include water supply, flood control, fisheries and navigation."

@@ -43,20 +43,20 @@
       "en": {
         "q": "In biotechnology, products useful to humans are obtained by using",
         "options": [
-          "both enzymes from organisms and live organisms",
-          "only enzymes",
-          "only live organisms",
-          "only vitamins"
+          "enzymes as well as live organisms",
+          "only enzymes extracted from cells",
+          "only live organisms such as bacteria",
+          "only vitamins and mineral salts"
         ],
         "explanation": "Biotechnology uses organisms or enzymes obtained from organisms to make useful products."
       },
       "ta": {
         "q": "உயிரித்தொழில்நுட்பத்தில் மனிதருக்குப் பயனுள்ள பொருட்களைத் தயாரிக்கப் பயன்படுவது",
         "options": [
-          "உயிரிகளிலிருந்து பெறும் நொதிகள், உயிருள்ள உயிரிகள் ஆகிய இரண்டும்",
-          "நொதிகள் மட்டும்",
-          "உயிருள்ள உயிரிகள் மட்டும்",
-          "வைட்டமின்கள் மட்டும்"
+          "நொதிகளும் உயிருள்ள உயிரிகளும்",
+          "செல்களிலிருந்து எடுத்த நொதிகள் மட்டும்",
+          "பாக்டீரியா போன்ற உயிருள்ள உயிரிகள் மட்டும்",
+          "வைட்டமின்களும் கனிம உப்புகளும் மட்டும்"
         ],
         "explanation": "உயிரித்தொழில்நுட்பம் உயிரிகளையோ அவற்றிலிருந்து பெறும் நொதிகளையோ பயன்படுத்திப் பயனுள்ள பொருட்களை உருவாக்குகிறது."
       }
@@ -133,7 +133,7 @@
           "ribosome",
           "centriole",
           "chloroplast",
-          "vector (plasmid)"
+          "vector"
         ],
         "explanation": "The DNA fragment is inserted into a suitable vector, the plasmid, to make recombinant DNA."
       },
@@ -143,7 +143,7 @@
           "ரைபோசோம்",
           "சென்ட்ரியோல்",
           "பசுங்கணிகம்",
-          "கடத்தி (பிளாஸ்மிட்)"
+          "கடத்தி"
         ],
         "explanation": "தேவையான DNA துண்டு ஏற்ற கடத்தியான பிளாஸ்மிடில் செலுத்தப்பட்டு rDNA உருவாக்கப்படுகிறது."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "Raphanobrassica is",
         "options": [
-          "a natural diploid",
+          "a natural diploid plant of wild type",
           "a mutant produced by gamma rays",
           "a transgenic plant with the Bt gene",
-          "an allotetraploid produced by colchicine treatment"
+          "an allotetraploid made by colchicine"
         ],
         "explanation": "Raphanobrassica is a man-made allotetraploid obtained by colchicine treatment of a radish-cabbage hybrid."
       },
       "ta": {
         "q": "ராஃபனோபிராசிகா என்பது",
         "options": [
-          "இயற்கையான இருமடியம்",
+          "இயற்கையில் காணப்படும் காட்டு வகை இருமடியம்",
           "காமா கதிர்களால் உருவான சடுதிமாற்றப் பயிர்",
           "Bt மரபணுவுடைய கடத்து மரபணுப் பயிர்",
-          "கால்சிசின் சிகிச்சையால் உருவாக்கப்பட்ட அல்லோடெட்ராபிளாய்டு"
+          "கால்சிசினால் உருவாக்கப்பட்ட அல்லோடெட்ராபிளாய்டு"
         ],
         "explanation": "முள்ளங்கி-முட்டைக்கோஸ் கலப்புயிரியைக் கால்சிசினால் சிகிச்சையளித்து உருவாக்கப்பட்ட மனிதனால் உருவாக்கப்பட்ட அல்லோடெட்ராபிளாய்டு."
       }
@@ -200,7 +200,7 @@
         "options": [
           "கலப்புறுத்தம்",
           "சடுதிமாற்றம்",
-          "பல்மடியம் (பாலிபிளாய்டி)",
+          "பல்மடியம்",
           "குளோனிங்"
         ],
         "explanation": "புத்தகக் கூற்று தவறு; இது பல்மடியம் எனப்படும்; சடுதிமாற்றம் அன்று."
@@ -227,7 +227,7 @@
       "ta": {
         "q": "இரும்புச்சத்து செறிவூட்டிய நெல் வகை எதற்கு எடுத்துக்காட்டு?",
         "options": [
-          "உயிர் ஊட்டச்சத்து மேம்பாடு (பயோஃபோர்டிஃபிகேஷன்)",
+          "உயிர் ஊட்டச்சத்து மேம்பாடு",
           "பல்மடியம்",
           "மரபணு சிகிச்சை",
           "சடுதிமாற்ற இனப்பெருக்கம்"
@@ -247,7 +247,7 @@
         "q": "Golden rice is a",
         "options": [
           "natural hybrid",
-          "transgenic (genetically modified) crop",
+          "transgenic crop",
           "mutant produced by gamma rays",
           "polyploid"
         ],
@@ -257,7 +257,7 @@
         "q": "பொன்னிற நெல் (கோல்டன் ரைஸ்) என்பது",
         "options": [
           "இயற்கைக் கலப்புயிரி",
-          "கடத்து மரபணு (மரபணு மாற்றப்பட்ட) பயிர்",
+          "கடத்து மரபணுப் பயிர்",
           "காமா கதிர்களால் உருவான சடுதிமாற்றி",
           "பல்மடியப் பயிர்"
         ],
@@ -392,9 +392,9 @@
         "q": "Genetic engineering is the",
         "options": [
           "selection of the best plants from a field",
-          "crossing of two varieties of a plant",
-          "manipulation and transfer of genes from one organism to another",
-          "use of fertilisers to improve yield"
+          "crossing of two varieties of the same plant",
+          "transfer of genes from one organism to another",
+          "use of chemical fertilisers to improve yield"
         ],
         "explanation": "Genetic engineering is the manipulation and transfer of genes from one organism to another to create recombinant DNA."
       },
@@ -420,8 +420,8 @@
       "en": {
         "q": "The two main types of stem cells are",
         "options": [
-          "embryonic stem cells and adult (somatic) stem cells",
-          "plant and animal cells",
+          "embryonic and adult stem cells",
+          "plant cells and animal cells",
           "blood cells and nerve cells",
           "red cells and white cells"
         ],
@@ -430,10 +430,10 @@
       "ta": {
         "q": "தண்டு செல்களின் இரு முக்கிய வகைகள்",
         "options": [
-          "கரு தண்டு செல்கள், முதிர்ந்த (உடல) தண்டு செல்கள்",
-          "தாவர செல்கள், விலங்கு செல்கள்",
-          "இரத்த செல்கள், நரம்பு செல்கள்",
-          "சிவப்பணுக்கள், வெள்ளையணுக்கள்"
+          "கரு, முதிர்ந்த தண்டு செல்கள்",
+          "தாவர செல்களும் விலங்கு செல்களும்",
+          "இரத்த செல்களும் நரம்பு செல்களும்",
+          "சிவப்பணுக்களும் வெள்ளையணுக்களும்"
         ],
         "explanation": "கரு தண்டு செல்கள் பிளாஸ்டோசிஸ்டின் உள் செல் திரளிலிருந்து; முதிர்ந்த தண்டு செல்கள் எலும்பு மஜ்ஜை, தொப்புள் கொடி, பனிக்குட நீரில் உள்ளன."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "DNA fingerprinting is widely used for",
         "options": [
-          "measuring blood pressure",
-          "dating fossils",
-          "crime investigation and paternity testing",
-          "making vaccines"
+          "measuring blood pressure of a patient",
+          "dating fossils and ancient rocks",
+          "crime investigation and paternity tests",
+          "making vaccines against viral diseases"
         ],
         "explanation": "DNA fingerprinting is used in forensics to identify culprits and for paternity testing in disputes."
       },
       "ta": {
         "q": "DNA விரல் ரேகைப் பதிவு பரவலாகப் பயன்படுவது",
         "options": [
-          "இரத்த அழுத்தம் அளக்க",
-          "புதைபடிவ காலம் கணிக்க",
+          "நோயாளியின் இரத்த அழுத்தத்தை அளக்க",
+          "புதைபடிவங்களின் காலத்தைக் கணிக்க",
           "குற்ற விசாரணை, தந்தைவழி அடையாளச் சோதனை",
-          "தடுப்பூசி தயாரிக்க"
+          "வைரஸ் நோய்களுக்குத் தடுப்பூசி தயாரிக்க"
         ],
         "explanation": "DNA விரல் ரேகைப் பதிவு குற்றவாளிகளை அடையாளம் காணவும் தந்தைவழிச் சர்ச்சைகளைத் தீர்க்கவும் பயன்படுகிறது."
       }

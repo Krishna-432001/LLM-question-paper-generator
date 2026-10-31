@@ -14,20 +14,20 @@
       "en": {
         "q": "Yeasts, which bring about fermentation, are",
         "options": [
-          "bacteria only",
-          "viruses",
-          "multicellular algae",
-          "single-celled microorganisms belonging to fungi"
+          "unicellular bacteria only",
+          "non-living virus particles",
+          "multicellular green algae",
+          "single-celled fungi"
         ],
         "explanation": "Fermentation is the conversion of complex organic molecules into simpler molecules by enzymes, e.g. the curdling of milk."
       },
       "ta": {
         "q": "நொதித்தலை நிகழ்த்தும் ஈஸ்ட்கள்",
         "options": [
-          "பாக்டீரியாக்கள் மட்டும்",
-          "வைரஸ்கள்",
-          "பல செல் பாசிகள்",
-          "பூஞ்சை வகுப்பைச் சேர்ந்த ஒரு செல் நுண்ணுயிரிகள்"
+          "ஒரு செல் பாக்டீரியாக்கள் மட்டும்",
+          "உயிரற்ற வைரஸ் துகள்கள்",
+          "பல செல் பச்சைப் பாசிகள்",
+          "ஒரு செல் பூஞ்சைகள்"
         ],
         "explanation": "நொதிகளின் செயலால் சிக்கலான கரிம மூலக்கூறுகள் எளிய மூலக்கூறுகளாக மாறுவது நொதித்தல்; எ.கா: பால் தயிராதல்."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "The IUPAC name of an organic compound consists of",
         "options": [
-          "a prefix and a number",
-          "only a root word",
+          "a prefix and a number only",
+          "only a root word with no more",
           "root word, prefix and/or suffix",
-          "only a suffix"
+          "only a suffix with no root"
         ],
         "explanation": "A homologous series is a group of compounds related by a general molecular formula."
       },
       "ta": {
         "q": "ஒரு கரிமச் சேர்மத்தின் IUPAC பெயர் அமைந்திருப்பது",
         "options": [
-          "முன்னொட்டும் எண்ணும்",
-          "மூலச் சொல் மட்டும்",
-          "மூலச் சொல், முன்னொட்டு மற்றும்/அல்லது பின்னொட்டு",
-          "பின்னொட்டு மட்டும்"
+          "முன்னொட்டும் எண்ணும் குறியீடும் மட்டும்",
+          "மூலச் சொல் மட்டும், வேறு எதுவுமின்றி",
+          "மூலச் சொல், முன்னொட்டு/பின்னொட்டு",
+          "பின்னொட்டு மட்டும், மூலச் சொல் இன்றி"
         ],
         "explanation": "பொது மூலக்கூறு வாய்ப்பால் தொடர்புடைய சேர்மங்களின் தொகுப்பு படிவரிசை."
       }
@@ -217,9 +217,9 @@
       "en": {
         "q": "Ethanoic acid is commonly known as acetic acid and belongs to the family of",
         "options": [
-          "alcohols",
-          "ketones",
-          "esters",
+          "aliphatic alcohols",
+          "aliphatic ketones",
+          "organic esters",
           "carboxylic acids"
         ],
         "explanation": "Ethanol is a member of the alcohol family."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "எத்தனாயிக் அமிலம் பொதுவாக அசிட்டிக் அமிலம் எனப்படும்; இது எந்த வகுப்பைச் சேர்ந்தது?",
         "options": [
-          "ஆல்கஹால்கள்",
-          "கீட்டோன்கள்",
-          "எஸ்டர்கள்",
+          "அலிஃபாடிக் ஆல்கஹால்கள்",
+          "அலிஃபாடிக் கீட்டோன்கள்",
+          "கரிம எஸ்டர்கள்",
           "கார்பாக்சிலிக் அமிலங்கள்"
         ],
         "explanation": "எத்தனால் ஆல்கஹால் குடும்பத்தின் உறுப்பு."

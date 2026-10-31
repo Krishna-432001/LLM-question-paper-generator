@@ -596,8 +596,8 @@
         "options": [
           "Silver readily displaces hydrogen from nitric acid",
           "Silver displaces hydrogen from hydrochloric acid",
-          "Silver is more reactive than hydrogen",
-          "Silver is below hydrogen in the reactivity series and cannot displace hydrogen from acids"
+          "Silver is far more reactive than hydrogen",
+          "Silver is below hydrogen in the reactivity series"
         ],
         "explanation": "Silver lies below hydrogen in the reactivity series, so it cannot displace hydrogen from acids."
       },
@@ -606,8 +606,8 @@
         "options": [
           "வெள்ளி நைட்ரிக் அமிலத்திலிருந்து ஹைட்ரஜனை எளிதில் இடப்பெயர்ச்சி செய்யும்",
           "வெள்ளி ஹைட்ரோகுளோரிக் அமிலத்திலிருந்து ஹைட்ரஜனை இடப்பெயர்ச்சி செய்யும்",
-          "வெள்ளி ஹைட்ரஜனை விட வினைத்திறன் மிக்கது",
-          "வெள்ளி வினைத்திறன் வரிசையில் ஹைட்ரஜனுக்குக் கீழே உள்ளதால் அமிலங்களிலிருந்து ஹைட்ரஜனை இடப்பெயர்ச்சி செய்யாது"
+          "வெள்ளி ஹைட்ரஜனை விட மிகவும் வினைத்திறன் மிக்கது",
+          "வெள்ளி வினைத்திறன் வரிசையில் ஹைட்ரஜனுக்குக் கீழே உள்ளது"
         ],
         "explanation": "வெள்ளி வினைத்திறன் வரிசையில் ஹைட்ரஜனுக்குக் கீழே உள்ளதால் அமிலங்களிலிருந்து ஹைட்ரஜனை இடப்பெயர்ச்சி செய்யாது."
       }
@@ -625,7 +625,7 @@
         "options": [
           "equal to 14",
           "exactly 7",
-          "less than 7 (acidic)",
+          "less than 7",
           "greater than 7"
         ],
         "explanation": "The statement is true; rain with pH below 5.6 is called acid rain."
@@ -635,7 +635,7 @@
         "options": [
           "14",
           "சரியாக 7",
-          "7-ஐ விடக் குறைவு (அமிலத் தன்மை)",
+          "7-ஐ விடக் குறைவு",
           "7-ஐ விட அதிகம்"
         ],
         "explanation": "கூற்று சரி; pH 5.6-க்குக் கீழ் உள்ள மழைநீர் அமில மழை எனப்படும்."
@@ -681,9 +681,9 @@
       "en": {
         "q": "In a reversible reaction, removing one of the products periodically",
         "options": [
-          "stops the reaction",
-          "decreases the yield",
-          "has no effect",
+          "stops the reaction completely",
+          "decreases the yield of products",
+          "has no effect on the reaction yield",
           "increases the yield of products"
         ],
         "explanation": "The statement is true: the equilibrium shifts forward."
@@ -768,20 +768,20 @@
       "en": {
         "q": "The rate of a reaction increases on raising the temperature because",
         "options": [
-          "the molecules move faster, collide more often and with more energy",
-          "the pressure decreases",
+          "molecules move faster and collide more often",
+          "the pressure inside the vessel decreases",
           "the activation energy becomes infinite",
-          "the number of molecules decreases"
+          "the total number of molecules decreases sharply"
         ],
         "explanation": "Temperature increases the reaction rate."
       },
       "ta": {
         "q": "வெப்பநிலை உயரும்போது வினைவேகம் அதிகரிக்கக் காரணம்",
         "options": [
-          "மூலக்கூறுகள் வேகமாக இயங்கி அடிக்கடியும் அதிக ஆற்றலுடனும் மோதுவது",
-          "அழுத்தம் குறைவது",
-          "கிளர்வு ஆற்றல் முடிவிலியாவது",
-          "மூலக்கூறுகளின் எண்ணிக்கை குறைவது"
+          "மூலக்கூறுகள் வேகமாக இயங்கி அடிக்கடி மோதுவது",
+          "பாத்திரத்தினுள் உள்ள அழுத்தம் குறைவது",
+          "கிளர்வு ஆற்றல் முடிவிலி மதிப்பை அடைவது",
+          "மூலக்கூறுகளின் மொத்த எண்ணிக்கை மிகவும் குறைவது"
         ],
         "explanation": "வெப்பநிலை உயர்வு வினைவேகத்தை அதிகரிக்கும்."
       }
@@ -884,20 +884,20 @@
       "en": {
         "q": "A nickel spatula should not be used to stir copper sulphate solution because",
         "options": [
-          "nickel is an insulator",
-          "nickel dissolves in water",
-          "nickel is more reactive than copper and displaces it from the solution",
-          "nickel is less reactive than copper"
+          "nickel is a perfect electrical insulator",
+          "nickel dissolves readily in plain water",
+          "nickel is more reactive than copper and displaces it",
+          "nickel is much less reactive than copper"
         ],
         "explanation": "Ni + CuSO₄ → NiSO₄ + Cu."
       },
       "ta": {
         "q": "காப்பர் சல்பேட் கரைசலைக் கலக்க நிக்கல் கரண்டியைப் பயன்படுத்தக் கூடாது; ஏனெனில்",
         "options": [
-          "நிக்கல் மின்கடத்தாப் பொருள்",
-          "நிக்கல் நீரில் கரையும்",
-          "நிக்கல் தாமிரத்தை விட வினைத்திறன் மிக்கதால் கரைசலிலிருந்து தாமிரத்தை இடப்பெயர்ச்சி செய்யும்",
-          "நிக்கல் தாமிரத்தை விட வினைத்திறன் குறைந்தது"
+          "நிக்கல் ஒரு முழுமையான மின்காப்புப் பொருள்",
+          "நிக்கல் சாதாரண நீரில் எளிதில் கரையும்",
+          "நிக்கல் தாமிரத்தை விட வினைத்திறன் மிக்கது; அதை இடப்பெயர்க்கும்",
+          "நிக்கல் தாமிரத்தை விட மிகவும் வினைத்திறன் குறைந்தது"
         ],
         "explanation": "Ni + CuSO₄ → NiSO₄ + Cu."
       }

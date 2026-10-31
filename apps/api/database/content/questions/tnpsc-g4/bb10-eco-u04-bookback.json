@@ -52,10 +52,10 @@
       "ta": {
         "q": "இந்தியாவில் விதிக்கப்படும் வரிகள்",
         "options": [
-          "நேர்முக வரிகள் மட்டும்",
-          "மறைமுக வரிகள் மட்டும்",
-          "இவை இரண்டும் அல்ல",
-          "நேர்முக, மறைமுக வரிகள் இரண்டும்"
+          "நேர்முக வரிகள் மட்டுமே உள்ளன",
+          "மறைமுக வரிகள் மட்டுமே உள்ளன",
+          "நேர்முக, மறைமுக வரிகள் இரண்டும் அல்ல",
+          "நேர்முக, மறைமுக வரிகள் இரண்டும் உள்ளன"
         ],
         "explanation": "அரசின் வருவாய் நேர்முக, மறைமுக வரிகளைச் சார்ந்தது."
       },
@@ -141,7 +141,7 @@
         "options": [
           "வருமான வரி",
           "நிறுவன வரி",
-          "சொத்து வரி (செல்வ வரி)",
+          "செல்வ வரி",
           "கலால் வரி"
         ],
         "explanation": "சொத்தின் நடப்புச் சந்தை மதிப்பின் அடிப்படையில் ஆண்டுதோறும் விதிக்கப்படுகிறது."
@@ -303,10 +303,10 @@
       "en": {
         "q": "Taxes are compulsory payments to the government",
         "options": [
-          "in return for a specific service",
-          "without expectation of direct return or benefit to the tax payer",
-          "which are voluntary",
-          "paid only by companies"
+          "in return for a specific government service",
+          "without any direct return to the tax payer",
+          "which are entirely voluntary in nature",
+          "paid only by registered companies and firms"
         ],
         "explanation": "Prof. Seligman defined a tax as a compulsory contribution from a person to the government to defray expenses incurred in the common interest of all, without reference to special benefits conferred."
       },
@@ -419,10 +419,10 @@
       "en": {
         "q": "Which of the following is an example of a fee (payment) rather than a tax?",
         "options": [
-          "Income tax",
-          "Wealth tax",
+          "Personal income tax",
+          "Annual wealth tax",
           "Driving licence fee",
-          "VAT"
+          "Value added tax (VAT)"
         ],
         "explanation": "Fee is a voluntary payment for a service with direct benefit: stamp fee, driving licence fee, government registration fee."
       },

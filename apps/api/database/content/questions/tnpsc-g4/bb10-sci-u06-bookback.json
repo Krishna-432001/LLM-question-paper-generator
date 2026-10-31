@@ -53,10 +53,10 @@
       "ta": {
         "q": "கதிரியக்கத்தின் அலகு(கள்)",
         "options": [
-          "கியூரி, பெக்கொரல் ஆகிய இரண்டும்",
-          "ராண்ட்ஜன் மட்டும்",
-          "பெக்கொரல் மட்டும்",
-          "கியூரி மட்டும்"
+          "கியூரியும் பெக்கொரலும்",
+          "ராண்ட்ஜன் மட்டுமே",
+          "பெக்கொரல் மட்டுமே",
+          "கியூரி மட்டுமே"
         ],
         "explanation": "கியூரி, ரூதர்ஃபோர்டு, பெக்கொரல் (SI) ஆகியவை கதிரியக்கத்தின் அலகுகள்; ராண்ட்ஜன் காமா, X-கதிர் வெளிப்பாட்டின் அலகு, கதிரியக்கத்தின் அலகன்று."
       }
@@ -171,7 +171,7 @@
         "options": [
           "அலுமினியம்",
           "இரும்பு",
-          "காரீயம் (ஈயம்)",
+          "காரீயம்",
           "தாமிரம்"
         ],
         "explanation": "காரீயம் காமா கதிர்களை நன்கு உட்கவரும்; X-கதிர் தொழில்நுட்பவியலாளர்கள் காரீய உறை அணிவர்."
@@ -431,7 +431,7 @@
         "q": "மனிதர்கள் மீது படும் கதிரியக்க வெளிப்பாட்டின் அளவைக் கண்டறிய உதவுவது",
         "options": [
           "கால்வனாமீட்டர்",
-          "டோசிமீட்டர் (அளவுமானி)",
+          "டோசிமீட்டர்",
           "ஹைட்ரோமீட்டர்",
           "வோல்ட்மீட்டர்"
         ],
@@ -481,7 +481,7 @@
           "a γ photon",
           "a neutron",
           "an α particle",
-          "a β particle (electron)"
+          "a β particle"
         ],
         "explanation": "The atomic number rises by one and the mass number is unchanged, as in β decay."
       },
@@ -491,7 +491,7 @@
           "γ ஃபோட்டான்",
           "நியூட்ரான்",
           "α துகள்",
-          "β துகள் (எலக்ட்ரான்)"
+          "β துகள்"
         ],
         "explanation": "அணு எண் ஒன்று உயர்ந்து நிறை எண் மாறாதது β சிதைவின் பண்பு."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Nuclear fusion is possible only at an extremely high temperature of the order of",
         "options": [
-          "10² K",
+          "10 to 10² K",
           "10⁷ to 10⁹ K",
-          "10⁻² K",
-          "10³ K"
+          "10⁻² to 1 K",
+          "10³ to 10⁴ K"
         ],
         "explanation": "The kinetic energy of the nuclei must overcome their electrostatic repulsion."
       },
       "ta": {
         "q": "அணுக்கரு இணைவு நடைபெற மிக உயர் வெப்பநிலை தேவை; அது ஏறக்குறைய",
         "options": [
-          "10² K",
+          "10 முதல் 10² K",
           "10⁷ முதல் 10⁹ K",
-          "10⁻² K",
-          "10³ K"
+          "10⁻² முதல் 1 K",
+          "10³ முதல் 10⁴ K"
         ],
         "explanation": "உட்கருக்களின் நிலை மின்னியல் விலக்கு விசையை இயக்க ஆற்றல் வெல்ல வேண்டும்."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "The radioisotope of ____ helps to increase the productivity of crops.",
         "options": [
-          "phosphorus (P-32)",
-          "iodine",
-          "cobalt",
-          "sodium"
+          "phosphorus-32",
+          "iodine-131",
+          "cobalt-60",
+          "sodium-24"
         ],
         "explanation": "The radiations from radioisotopes can also be used to kill insects and parasites."
       },
       "ta": {
         "q": "வேளாண் விளைச்சலை அதிகரிக்க உதவும் கதிரியக்க ஐசோடோப்பு",
         "options": [
-          "பாஸ்பரஸ் (P-32)",
-          "அயோடின்",
-          "கோபால்ட்",
-          "சோடியம்"
+          "பாஸ்பரஸ்-32",
+          "அயோடின்-131",
+          "கோபால்ட்-60",
+          "சோடியம்-24"
         ],
         "explanation": "கதிரியக்க ஐசோடோப்புகளின் கதிர்வீச்சு பூச்சிகளையும் ஒட்டுண்ணிகளையும் அழிக்கவும் பயன்படுகிறது."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "If a person's radiation exposure is 100 R, it may cause",
         "options": [
-          "a slight headache only",
-          "no harm",
-          "stronger bones",
-          "fatal diseases such as leukaemia (blood cancer)"
+          "a slight headache and nothing else",
+          "no harm at all to the human body",
+          "stronger bones and better health",
+          "fatal diseases such as blood cancer"
         ],
         "explanation": "The safe limit is about 100 mR per week."
       },
       "ta": {
         "q": "கதிரியக்க வெளிப்பாடு 100 R அளவில் இருந்தால் அது ஏற்படுத்தக்கூடியது",
         "options": [
-          "லேசான தலைவலி மட்டும்",
-          "எந்தப் பாதிப்பும் இல்லை",
-          "எலும்புகள் வலுவடைதல்",
-          "இரத்தப் புற்றுநோய் போன்ற உயிராபத்தான நோய்கள்"
+          "லேசான தலைவலி மட்டுமே; வேறொன்றுமில்லை",
+          "உடலுக்கு எந்தப் பாதிப்பும் ஏற்படாது",
+          "எலும்புகள் வலுவடைந்து உடல்நலம் மேம்படுதல்",
+          "இரத்தப் புற்றுநோய் போன்ற உயிராபத்தான நோய்"
         ],
         "explanation": "பாதுகாப்பான வரம்பு வாரத்திற்கு ஏறக்குறைய 100 mR."
       }
@@ -653,7 +653,7 @@
         "q": "Heavy elements of atomic number greater than 83 can undergo",
         "options": [
           "only α emission never fission",
-          "nuclear fission (heavy nuclei split)",
+          "nuclear fission",
           "neither fission nor fusion",
           "nuclear fusion"
         ],
@@ -663,7 +663,7 @@
         "q": "அணு எண் 83-ஐ விட அதிகமுள்ள கனமான தனிமங்கள் உட்படக்கூடியது",
         "options": [
           "α உமிழ்வு மட்டும்; பிளவு ஒருபோதும் இல்லை",
-          "அணுக்கரு பிளவு (கனமான உட்கரு பிளத்தல்)",
+          "அணுக்கரு பிளவு",
           "பிளவும் இல்லை இணைவும் இல்லை",
           "அணுக்கரு இணைவு"
         ],
@@ -681,20 +681,20 @@
       "en": {
         "q": "Which statement comparing nuclear fission and fusion is correct?",
         "options": [
-          "Fusion needs no high temperature",
-          "Both are equally harmless",
-          "Fission is more dangerous because it produces radioactive wastes and can run as an uncontrolled chain reaction",
-          "Fusion is more dangerous than fission"
+          "Fusion proceeds without any high temperature at all",
+          "Both fission and fusion are completely harmless to nature",
+          "Fission is more dangerous because it produces radioactive wastes",
+          "Fusion is more dangerous than fission because of its wastes"
         ],
         "explanation": "Fission is more dangerous."
       },
       "ta": {
         "q": "அணுக்கரு பிளவு, இணைவு பற்றிய சரியான கூற்று",
         "options": [
-          "இணைவுக்கு உயர் வெப்பநிலை தேவையில்லை",
-          "இரண்டும் தீங்கற்றவை",
-          "பிளவு அபாயகரமானது; கதிரியக்கக் கழிவுகளை உருவாக்கும்; கட்டுப்பாடற்ற தொடர்வினையாகவும் மாறலாம்",
-          "இணைவு பிளவை விட அபாயகரமானது"
+          "இணைவு எந்த உயர் வெப்பநிலையும் இன்றி நடைபெறும்",
+          "பிளவு, இணைவு இரண்டுமே முழுவதும் தீங்கற்றவை",
+          "பிளவு அபாயகரமானது; கதிரியக்கக் கழிவுகளை உருவாக்கும்",
+          "இணைவு பிளவை விட அபாயகரமானது; கழிவுகள் அதிகம்"
         ],
         "explanation": "பிளவே அபாயகரமானது."
       }
