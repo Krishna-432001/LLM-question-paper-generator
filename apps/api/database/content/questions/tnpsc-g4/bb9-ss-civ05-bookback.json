@@ -102,9 +102,9 @@
         "q": "Who acts as the Inspector of the Village Panchayat?",
         "options": [
           "District Collector",
-          "Councillor",
-          "Mayor",
-          "Commissioner"
+          "Ward Councillor",
+          "Municipal Mayor",
+          "Municipal Commissioner"
         ],
         "explanation": "The President and ward members are directly elected for five years."
       },
@@ -112,9 +112,9 @@
         "q": "கிராம ஊராட்சியின் ஆய்வாளராகச் செயல்படுபவர் யார்?",
         "options": [
           "மாவட்ட ஆட்சியர்",
-          "கவுன்சிலர்",
-          "மேயர்",
-          "ஆணையர்"
+          "வார்டு கவுன்சிலர்",
+          "மாநகர மேயர்",
+          "மாநகராட்சி ஆணையர்"
         ],
         "explanation": "தலைவர், வார்டு உறுப்பினர்கள் ஐந்தாண்டுக்கு நேரடியாகத் தேர்ந்தெடுக்கப்படுகின்றனர்."
       }
@@ -189,9 +189,9 @@
         "q": "The secret ballot method used to elect village council members during Chola rule was called:",
         "options": [
           "Kuda Olai Murai",
-          "Ur",
-          "Mahasabha",
-          "Nagaram"
+          "Ur Sabha Murai",
+          "Mahasabha Murai",
+          "Nagaram Sabha Murai"
         ],
         "explanation": "The name refers to ballots written on palm leaves (olai) and put in a pot (kudam)."
       },
@@ -199,9 +199,9 @@
         "q": "சோழர் ஆட்சியில் கிராம மன்ற உறுப்பினர்களைத் தேர்ந்தெடுக்கப் பயன்பட்ட இரகசிய வாக்கு முறையின் பெயர்?",
         "options": [
           "குடவோலை முறை",
-          "ஊர்",
-          "மகாசபை",
-          "நகரம்"
+          "ஊர்ச் சபை முறை",
+          "மகாசபை முறை",
+          "நகரச் சபை முறை"
         ],
         "explanation": "ஓலையில் எழுதிக் குடத்தில் இட்டு எடுக்கும் முறை."
       }
@@ -305,9 +305,9 @@
         "q": "In a Village Panchayat, the President and ward members are:",
         "options": [
           "appointed by the Governor",
-          "directly elected by the people for five years",
+          "directly elected by the people",
           "nominated by the Collector",
-          "elected by the MLAs"
+          "elected by the district MLAs"
         ],
         "explanation": "They must be above 18 to vote and 21 to contest the election."
       },

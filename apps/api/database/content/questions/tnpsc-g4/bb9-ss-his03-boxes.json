@@ -83,9 +83,9 @@
         "q": "பழங்காலக் கல்வெட்டுகளில் பெயர்களைக் கிறுக்கி பாரம்பரியச் சொத்தை அழிப்பது எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "கல்வெட்டியல்",
-          "அகழாய்வு",
-          "பண்டமாற்று",
-          "சேதப்படுத்துதல் (வான்டலிசம்)"
+          "அகழாய்வுப் பணி",
+          "பண்டமாற்று வணிகம்",
+          "சேதப்படுத்துதல்"
         ],
         "explanation": "பாரம்பரியச் சொத்தை அழிக்கும் செயல் வான்டலிசம்."
       }
@@ -228,9 +228,9 @@
         "q": "கண்ணகிக்குக் கோயில் எடுத்த சேர மன்னர் யார்?",
         "options": [
           "சேரன் செங்குட்டுவன்",
-          "நெடுஞ்செழியன்",
-          "கரிகாலன்",
-          "அதியமான்"
+          "பாண்டியன் நெடுஞ்செழியன்",
+          "சோழன் கரிகாலன்",
+          "அதியமான் நெடுமான் அஞ்சி"
         ],
         "explanation": "சிலப்பதிகாரம் இயற்றிய இளங்கோ இவரது சகோதரர் என மரபு."
       }
@@ -362,9 +362,9 @@
       "en": {
         "q": "The 'Perumpatankal' stone found in Thailand was probably used to:",
         "options": [
-          "grind grain",
-          "mark boundaries",
-          "make pottery",
+          "grind grain into flour",
+          "mark field boundaries",
+          "make pottery vessels",
           "test the purity of gold"
         ],
         "explanation": "It was a touchstone used by a goldsmith named Perumpattan; Southeast Asia was Suvarna Bhumi."
@@ -372,9 +372,9 @@
       "ta": {
         "q": "தாய்லாந்தில் கிடைத்த 'பெரும்பதன் கல்' எதற்குப் பயன்பட்டிருக்கலாம்?",
         "options": [
-          "தானியம் அரைக்க",
-          "எல்லை குறிக்க",
-          "மட்பாண்டம் செய்ய",
+          "தானியத்தை மாவாக அரைக்க",
+          "வயல் எல்லைகளைக் குறிக்க",
+          "மட்பாண்டக் கலங்கள் செய்ய",
           "தங்கத்தின் தூய்மையைச் சோதிக்க"
         ],
         "explanation": "இது பொற்கொல்லர் பெரும்பதன் பயன்படுத்திய உரைகல்; தென்கிழக்காசியா சுவர்ணபூமி."
@@ -420,7 +420,7 @@
       "en": {
         "q": "According to the textbook, the ritual dance mentioned in Sangam literature is called:",
         "options": [
-          "Kuravai",
+          "Therukoothu",
           "Karagam",
           "Veriyatal",
           "Thudi"
@@ -430,10 +430,10 @@
       "ta": {
         "q": "பாடநூலின்படி சங்க இலக்கியம் குறிப்பிடும் சடங்கு நடனம் எது?",
         "options": [
-          "குரவை",
-          "கரகம்",
+          "தெருக்கூத்து",
+          "கரகாட்டம்",
           "வெறியாட்டு",
-          "துடி"
+          "துடியாட்டம்"
         ],
         "explanation": "வெறியாட்டு எனும் சடங்கு நடனம் இலக்கியத்தில் குறிக்கப்படுகிறது."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "The ancient port of Korkai, mentioned in Sangam and Greek texts, lies in the basin of the river:",
         "options": [
-          "Kaveri",
-          "Vaigai",
-          "Thamirabarani (Porunai)",
-          "Palar"
+          "Kosasthalaiyar",
+          "Pennaiyar",
+          "Thamirabarani",
+          "Cheyyar"
         ],
         "explanation": "Korkai is in the Porunai (Thamirabarani) basin, which flows through Tirunelveli and Thoothukudi districts."
       },
       "ta": {
         "q": "சங்க நூல்களிலும் கிரேக்க நூல்களிலும் குறிப்பிடப்படும் கொற்கை துறைமுகம் எந்த ஆற்றுப்படுகையில் உள்ளது?",
         "options": [
-          "காவிரி",
-          "வைகை",
-          "தாமிரபரணி (பொருநை)",
-          "பாலாறு"
+          "கொசஸ்தலை",
+          "பெண்ணை",
+          "தாமிரபரணி",
+          "செய்யாறு"
         ],
         "explanation": "கொற்கை திருநெல்வேலி, தூத்துக்குடி வழியாகப் பாயும் பொருநைப் படுகையில் உள்ளது."
       }

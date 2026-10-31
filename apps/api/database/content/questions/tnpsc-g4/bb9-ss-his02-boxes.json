@@ -14,9 +14,9 @@
       "en": {
         "q": "The Hyksos, rulers of the 15th dynasty of Egypt, probably came from:",
         "options": [
-          "Greece",
-          "Persia",
-          "Rome",
+          "Ancient Greece",
+          "Southern Nubia",
+          "Ancient Rome",
           "West Asia"
         ],
         "explanation": "The Hyksos were probably from West Asia."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "எகிப்தின் 15-ஆம் வம்சத்தை ஆண்ட ஹிக்சோஸ் மக்கள் எங்கிருந்து வந்திருக்கலாம்?",
         "options": [
-          "கிரேக்கம்",
-          "பாரசீகம்",
-          "ரோம்",
+          "பண்டைய கிரேக்கம்",
+          "தெற்கு நுபியா",
+          "பண்டைய ரோம்",
           "மேற்காசியா"
         ],
         "explanation": "ஹிக்சோஸ் மேற்காசியாவிலிருந்து வந்தவர்களாக இருக்கலாம்."
@@ -101,10 +101,10 @@
       "en": {
         "q": "The Egyptian solar calendar consisted of:",
         "options": [
-          "13 months of 28 days",
-          "10 months of 36 days",
-          "12 months of 30 days plus 5 days",
-          "12 months of 31 days"
+          "13 months of 28 days each",
+          "10 months of 36 days each",
+          "12 months of 30 days, plus 5",
+          "12 months of 31 days each"
         ],
         "explanation": "Twelve months of thirty days each with five days added at year-end (360 + 5)."
       },
@@ -130,20 +130,20 @@
       "en": {
         "q": "Which was the predominant god of the Egyptians?",
         "options": [
-          "Seth",
-          "Thoth",
+          "Seth, god of storms",
+          "Thoth, god of writing",
           "Re, the Sun God",
-          "Anubis"
+          "Anubis, god of the dead"
         ],
         "explanation": "Re, the Sun God (later called Amon), was the predominant Egyptian god."
       },
       "ta": {
         "q": "எகிப்தியரின் முதன்மைக் கடவுள் யார்?",
         "options": [
-          "செத்",
-          "தோத்",
-          "சூரியக் கடவுள் ரே",
-          "அனுபிஸ்"
+          "செத், புயல் கடவுள்",
+          "தோத், எழுத்துக் கடவுள்",
+          "ரே, சூரியக் கடவுள்",
+          "அனுபிஸ், இறந்தோர் கடவுள்"
         ],
         "explanation": "சூரியக் கடவுள் ரே (பின்னர் அமோன்) முதன்மையானவர்."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "The Assyrian ruler Ashurbanipal is remembered for his famous:",
         "options": [
-          "law code",
-          "library of cuneiform records",
-          "pyramid",
-          "solar calendar"
+          "law code on a stele",
+          "library of clay tablets",
+          "great pyramid at Giza",
+          "solar calendar of 365 days"
         ],
         "explanation": "Ashurbanipal (c. 668–627 BCE) kept a famous library of cuneiform tablets."
       },
       "ta": {
         "q": "அசீரிய மன்னர் அசுர்பனிபால் எதற்காக நினைவுகூரப்படுகிறார்?",
         "options": [
-          "சட்டத் தொகுப்பு",
-          "கியூனிபார்ம் ஆவணங்கள் கொண்ட புகழ்பெற்ற நூலகம்",
-          "பிரமிடு",
-          "சூரிய நாட்காட்டி"
+          "கல் தூணில் சட்டத் தொகுப்பு",
+          "களிமண் பலகை நூலகம்",
+          "கீசாவின் பெரிய பிரமிடு",
+          "365 நாள் சூரிய நாட்காட்டி"
         ],
         "explanation": "இவர் (கி.மு. 668–627) கியூனிபார்ம் பலகைகளின் புகழ்பெற்ற நூலகத்தை உருவாக்கினார்."
       }
@@ -275,10 +275,10 @@
       "en": {
         "q": "Mesopotamian documents provide perhaps the first written evidence of:",
         "options": [
-          "charging interest on borrowed money",
-          "paying income tax",
-          "paper currency",
-          "coinage"
+          "charging interest on loans",
+          "paying income tax to the state",
+          "using paper money in trade",
+          "minting of metal coins"
         ],
         "explanation": "Temples acted as banks and lent credit with or without interest."
       },
@@ -286,9 +286,9 @@
         "q": "மெசபடோமிய ஆவணங்கள் எதன் முதல் எழுத்துச் சான்றாகக் கருதப்படுகின்றன?",
         "options": [
           "கடனுக்கு வட்டி வசூலித்தல்",
-          "வருமான வரி",
-          "காகிதப் பணம்",
-          "நாணயம்"
+          "அரசுக்கு வருமான வரி செலுத்துதல்",
+          "காகிதப் பணத்தைப் பயன்படுத்துதல்",
+          "உலோக நாணயம் அச்சிடுதல்"
         ],
         "explanation": "கோயில்கள் வங்கிகளாகச் செயல்பட்டு வட்டியுடன் கடன் வழங்கின."
       }
@@ -363,7 +363,7 @@
         "q": "The river known as the 'Sorrow of China' because of its floods is the:",
         "options": [
           "Yangtze",
-          "Huang He (Yellow River)",
+          "Huang He",
           "Indus",
           "Tigris"
         ],
@@ -373,7 +373,7 @@
         "q": "அடிக்கடி ஏற்பட்ட வெள்ளத்தால் 'சீனாவின் துயரம்' எனப்படும் ஆறு?",
         "options": [
           "யாங்ட்சே",
-          "ஹுவாங் ஹோ (மஞ்சள் ஆறு)",
+          "ஹுவாங் ஹோ",
           "சிந்து",
           "டைகிரிஸ்"
         ],
@@ -420,7 +420,7 @@
       "en": {
         "q": "Which site marks the eastern boundary of the Harappan culture?",
         "options": [
-          "Alamgirpur (Uttar Pradesh)",
+          "Alamgirpur",
           "Shortugai",
           "Daimabad",
           "Sutkagen-Dor"
@@ -430,7 +430,7 @@
       "ta": {
         "q": "ஹரப்பா பண்பாட்டின் கிழக்கு எல்லையாக அமைந்த இடம் எது?",
         "options": [
-          "ஆலம்கீர்பூர் (உத்தரப் பிரதேசம்)",
+          "ஆலம்கீர்பூர்",
           "ஷோர்டுகை",
           "டைமாபாத்",
           "சுட்காஜென்-டோர்"
@@ -452,7 +452,7 @@
           "It was confined to the Indus valley",
           "Harappans came from the Ganga valley",
           "Harappa was its only city",
-          "It extended beyond the Indus valley and Harappa was the first site found"
+          "It spread beyond the Indus valley"
         ],
         "explanation": "Harappa was the first site discovered, and the civilisation spread beyond the Indus valley."
       },
@@ -462,7 +462,7 @@
           "சிந்து சமவெளியில் மட்டும் இருந்தது",
           "கங்கை சமவெளியிலிருந்து வந்தவர்கள்",
           "ஹரப்பா ஒரே நகரம்",
-          "சிந்து சமவெளிக்கு அப்பாலும் பரவியது; ஹரப்பா முதலில் கண்டறியப்பட்டது"
+          "சிந்து சமவெளிக்கு அப்பாலும் பரவியது"
         ],
         "explanation": "ஹரப்பா முதலில் கண்டுபிடிக்கப்பட்டது; நாகரிகம் சிந்து சமவெளியைத் தாண்டியும் பரவியது."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Why is the Indus script difficult to decipher?",
         "options": [
-          "It is written in Latin letters",
-          "It has too many bilingual texts",
-          "It is found only on one seal",
-          "Very short texts and no bilingual inscription"
+          "It is written in Latin letters like English",
+          "It has too many long bilingual texts",
+          "It is found only on one broken seal",
+          "Very short texts, no bilingual inscription"
         ],
         "explanation": "Inscriptions average fewer than five signs and there is no Rosetta-stone-like bilingual text."
       },
       "ta": {
         "q": "சிந்துவெளி எழுத்தைப் படித்தறிவது கடினமாக இருப்பது ஏன்?",
         "options": [
-          "இலத்தீன் எழுத்தில் உள்ளன",
-          "ஏராளமான இருமொழிக் கல்வெட்டுகள் உள்ளன",
-          "ஒரே முத்திரையில் உள்ளன",
-          "பொறிப்புகள் மிகச் சிறியவை; இருமொழிக் கல்வெட்டு இல்லை"
+          "இலத்தீன் எழுத்தில் ஆங்கிலம் போல எழுதப்பட்டுள்ளன",
+          "ஏராளமான நீண்ட இருமொழிக் கல்வெட்டுகள் உள்ளன",
+          "ஒரே ஒரு உடைந்த முத்திரையில் மட்டும் உள்ளன",
+          "மிகச் சிறிய பொறிப்புகள்; இருமொழிக் கல்வெட்டு இல்லை"
         ],
         "explanation": "சராசரியாக ஐந்துக்கும் குறைவான குறியீடுகள்; ரொசெட்டா கல் போன்ற இருமொழிப் பொறிப்பு இல்லை."
       }

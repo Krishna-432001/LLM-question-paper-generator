@@ -16,7 +16,7 @@
         "options": [
           "Calligraphy",
           "Pictographic",
-          "Ideographic",
+          "Alphabetic",
           "Stratigraphic"
         ],
         "explanation": "Pictographic writing uses pictures to denote words, as in early Egyptian and Chinese scripts."
@@ -25,8 +25,8 @@
         "q": "சொற்களைப் படங்களின் மூலம் குறிக்கும் மிகப் பழைய குறியீடுகள் எவ்வாறு அழைக்கப்படுகின்றன?",
         "options": [
           "எழுத்தழகுக் கலை",
-          "படவெழுத்து (பிக்டோகிராஃபிக்)",
-          "கருத்தெழுத்து",
+          "படவெழுத்து",
+          "ஒலியெழுத்து",
           "அடுக்கியல்"
         ],
         "explanation": "படங்கள் மூலம் சொற்களைக் குறிக்கும் முறை படவெழுத்து எனப்படும்."
@@ -82,10 +82,10 @@
       "ta": {
         "q": "சுமேரியரின் எழுத்து முறை எது?",
         "options": [
-          "ஆப்பு வடிவ எழுத்து (கியூனிபார்ம்)",
-          "படவெழுத்து",
-          "ஹைரோகிளிஃப்",
-          "சோனோகிராம்"
+          "ஆப்பு வடிவ எழுத்து",
+          "படவெழுத்து முறை",
+          "ஹைரோகிளிஃப் எழுத்து",
+          "சோனோகிராம் முறை"
         ],
         "explanation": "சுமேரியரின் ஆப்பு வடிவ எழுத்து கியூனிபார்ம்; ஹைரோகிளிஃப் எகிப்தியருடையது."
       }
@@ -286,9 +286,9 @@
         "q": "மனிதத் தலையுடன் கூடிய சிங்க வடிவ மாபெரும் சுண்ணாம்புக்கல் சிலை எது?",
         "options": [
           "கீசா பெரிய பிரமிடு",
-          "ஜிகுராட்",
-          "கீசாவின் மாபெரும் ஸ்பிங்க்ஸ்",
-          "லமாசு"
+          "ஊர் ஜிகுராட்",
+          "கீசா ஸ்பிங்க்ஸ்",
+          "அசீரிய லமாசு"
         ],
         "explanation": "கீசா ஸ்பிங்க்ஸ் பாரோ காஃப்ரே காலத்தது."
       }
@@ -392,9 +392,9 @@
         "q": "The _____ figurines and paintings on pottery suggest the artistic skills of the Harappans.",
         "options": [
           "terracotta",
-          "wooden",
-          "iron",
-          "marble"
+          "carved wooden",
+          "cast iron",
+          "white marble"
         ],
         "explanation": "Terracotta figurines, pottery paintings and bronze images show Harappan artistry."
       },

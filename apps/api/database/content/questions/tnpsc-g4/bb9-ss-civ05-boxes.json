@@ -130,9 +130,9 @@
       "en": {
         "q": "The Chairman of a Panchayat Union is:",
         "options": [
-          "the District Collector",
-          "appointed by the Governor",
-          "chosen from among the directly elected members",
+          "the District Collector of the district",
+          "appointed by the State Governor",
+          "chosen from the elected members",
           "the Block Development Officer"
         ],
         "explanation": "The BDO supervises the developmental functions; he is not the Chairman."
@@ -140,10 +140,10 @@
       "ta": {
         "q": "ஊராட்சி ஒன்றியத் தலைவர் யார்?",
         "options": [
-          "மாவட்ட ஆட்சியர்",
-          "ஆளுநரால் நியமிக்கப்படுபவர்",
-          "நேரடியாகத் தேர்ந்தெடுக்கப்பட்ட உறுப்பினர்களுள் ஒருவராகத் தேர்வு செய்யப்படுபவர்",
-          "வட்டார வளர்ச்சி அலுவலர்"
+          "அந்த மாவட்டத்தின் ஆட்சியர்",
+          "மாநில ஆளுநரால் நியமிக்கப்படுபவர்",
+          "தேர்ந்தெடுக்கப்பட்ட உறுப்பினர்களுள் ஒருவர்",
+          "அந்த ஒன்றிய வட்டார வளர்ச்சி அலுவலர்"
         ],
         "explanation": "வட்டார வளர்ச்சி அலுவலர் வளர்ச்சிப் பணிகளை மேற்பார்வையிடுகிறார்; தலைவர் அல்லர்."
       }
@@ -229,8 +229,8 @@
         "options": [
           "மன்ற முடிவுகளை நடைமுறைப்படுத்துதல்",
           "கிராம ஊராட்சிகளை ஆய்வு செய்தல்",
-          "ஆளுநரை நியமித்தல்",
-          "மாநகராட்சி மன்றக் கூட்டங்களுக்குத் தலைமை வகித்தல்"
+          "மாநில ஆளுநரை நியமனம் செய்தல்",
+          "மன்றக் கூட்டங்களுக்குத் தலைமை ஏற்றல்"
         ],
         "explanation": "மன்ற முடிவுகளை நடைமுறைப்படுத்துபவர் மாநகராட்சி ஆணையர்."
       }

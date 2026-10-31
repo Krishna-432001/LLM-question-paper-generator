@@ -44,19 +44,19 @@
         "q": "Zoroaster proclaimed one god, who is called:",
         "options": [
           "Ahura Mazda, the Lord of Light",
-          "Ashur",
-          "Amon",
-          "Marduk"
+          "Ashur, the Assyrian god",
+          "Amon, the Egyptian god",
+          "Marduk, the Babylonian god"
         ],
         "explanation": "Ahura Mazda is the Lord of Light; fire is his symbol."
       },
       "ta": {
         "q": "ஜோராஸ்டர் அறிவித்த ஒரே கடவுளின் பெயர் என்ன?",
         "options": [
-          "அஹுரா மஸ்டா (ஒளியின் இறைவன்)",
-          "அசூர்",
-          "அமோன்",
-          "மர்துக்"
+          "அஹுரா மஸ்டா, ஒளியின் இறைவன்",
+          "அசூர், அசீரியக் கடவுள்",
+          "அமோன், எகிப்தியக் கடவுள்",
+          "மர்துக், பாபிலோனியக் கடவுள்"
         ],
         "explanation": "அஹுரா மஸ்டாவின் அடையாளம் தீ; பலியும் உருவ வழிபாடும் கைவிடப்பட்டன."
       }
@@ -248,7 +248,7 @@
         "options": [
           "Mahavira",
           "Nagarjuna",
-          "Gosala (Maskariputra Gosala)",
+          "Gosala",
           "Upagupta"
         ],
         "explanation": "Gosala was a friend of Mahavira who later founded the Ajivika sect."
@@ -258,7 +258,7 @@
         "options": [
           "மகாவீரர்",
           "நாகார்ஜுனர்",
-          "கோசலர் (மஸ்கரிபுத்திர கோசலர்)",
+          "கோசலர்",
           "உபகுப்தர்"
         ],
         "explanation": "கோசலர் மகாவீரரின் நண்பர்; பின்னர் ஆசீவகப் பிரிவை நிறுவினார்."
@@ -333,20 +333,20 @@
       "en": {
         "q": "The term 'shadbhagin' in Magadha's revenue system referred to:",
         "options": [
-          "the king, entitled to one-sixth of the produce",
-          "the tax collector",
-          "the farmer",
-          "the village headman"
+          "the king, who took one-sixth",
+          "the tax collector of the village",
+          "the farmer who tilled the land",
+          "the village headman or elder"
         ],
         "explanation": "Shadbhagin – one entitled to a share of one-sixth, i.e. the king."
       },
       "ta": {
         "q": "மகதத்தின் வருவாய் முறையில் 'சட்பாகின்' என்பது யாரைக் குறிக்கிறது?",
         "options": [
-          "விளைச்சலில் ஆறில் ஒரு பங்குக்கு உரிய மன்னர்",
-          "வரி வசூலிப்பவர்",
-          "உழவர்",
-          "கிராமத் தலைவர்"
+          "ஆறில் ஒரு பங்கு பெறும் மன்னர்",
+          "கிராமத்தின் வரி வசூலிப்பவர்",
+          "நிலத்தை உழுது பயிரிட்ட உழவர்",
+          "கிராமத்தின் தலைவர் அல்லது மூத்தவர்"
         ],
         "explanation": "ஆறில் ஒரு பங்கைப் பெறுபவர் – மன்னர்."
       }

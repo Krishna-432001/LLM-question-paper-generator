@@ -44,7 +44,7 @@
         "q": "Walls built by the warring states of China were connected during which dynasty to stretch about 5000 km?",
         "options": [
           "Tang",
-          "Chin (Qin)",
+          "Chin",
           "Ming",
           "Sung"
         ],
@@ -54,7 +54,7 @@
         "q": "சீனாவின் தனித்தனிச் சுவர்கள் இணைக்கப்பட்டு சுமார் 5000 கி.மீ. நீண்ட சுவராக்கப்பட்டது எந்த வம்ச ஆட்சியில்?",
         "options": [
           "தாங்",
-          "சின் (குயின்)",
+          "சின்",
           "மிங்",
           "சுங்"
         ],
@@ -101,20 +101,20 @@
       "en": {
         "q": "Who appointed Kublai Khan Governor of China?",
         "options": [
-          "Chengiz Khan",
-          "Chu Yuan Chang",
+          "Chengiz Khan, the Mongol founder",
+          "Chu Yuan Chang, the Ming founder",
           "Mangu Khan, the Great Khan",
-          "Marco Polo"
+          "Marco Polo, the Venetian traveller"
         ],
         "explanation": "Mangu Khan became Great Khan in 1252 and appointed Kublai Khan."
       },
       "ta": {
         "q": "குப்லாய்கானை சீனாவின் ஆளுநராக நியமித்தவர் யார்?",
         "options": [
-          "செங்கிஸ்கான்",
-          "சூ யுவான் சாங்",
-          "பெரிய கான் மங்கு கான்",
-          "மார்க்கோ போலோ"
+          "செங்கிஸ்கான், மங்கோலிய நிறுவனர்",
+          "சூ யுவான் சாங், மிங் நிறுவனர்",
+          "மங்கு கான், பெரிய கான்",
+          "மார்க்கோ போலோ, வெனிஸ் பயணி"
         ],
         "explanation": "1252-இல் பெரிய கான் ஆன மங்கு கான் குப்லாய்கானை நியமித்தார்."
       }
@@ -334,19 +334,19 @@
         "q": "In the feudal order, who stood at the bottom?",
         "options": [
           "Villeins or serfs",
-          "Barons",
-          "Knights",
-          "Viscounts"
+          "Barons and lords",
+          "Knights and soldiers",
+          "Viscounts and counts"
         ],
         "explanation": "The serfs/villeins formed the bottom; knights' fiefs could not be divided."
       },
       "ta": {
         "q": "நிலமானிய அடுக்கில் மிகக் கீழே இருந்தவர்கள் யார்?",
         "options": [
-          "பண்ணை அடிமைகள் (செர்ஃப்)",
-          "பாரன்கள்",
-          "வீரர்கள் (நைட்)",
-          "வைகவுண்டுகள்"
+          "பண்ணை அடிமைகள்",
+          "பாரன்களும் பிரபுக்களும்",
+          "நைட் வீரர்களும் படையினரும்",
+          "வைகவுண்டுகளும் கவுண்டுகளும்"
         ],
         "explanation": "கடைசி நிலையில் பண்ணையடிமைகள்; நைட்டுகளின் நிலப்பகுதியை மேலும் பிரிக்க இயலாது."
       }

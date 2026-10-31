@@ -24,10 +24,10 @@
       "ta": {
         "q": "அச்சு இயந்திரத்துக்கு முன் கையெழுத்துப் பிரதிகள் எந்த விலங்குத் தோலில் எழுதப்பட்டன?",
         "options": [
-          "வெல்லம் (Vellum – விலங்குத்தோல் தாள்)",
-          "பாப்பிரஸ்",
-          "லினன் துணி",
-          "களிமண் பலகை"
+          "வெல்லம் தோல் தாள்",
+          "பாப்பிரஸ் நாணல் தாள்",
+          "லினன் துணித் தாள்",
+          "சுடாத களிமண் பலகை"
         ],
         "explanation": "குட்டன்பர்க்கின் அச்சு இயந்திரம் பல பிரதிகளை உருவாக்கி அறிவைப் பரப்பியது."
       }
@@ -101,20 +101,20 @@
       "en": {
         "q": "Michelangelo's marble sculpture of David depicts:",
         "options": [
-          "the youthful strength and energy of the giant slayer",
-          "Moses with the tablets",
-          "the Virgin and Child",
-          "a crucified Christ"
+          "the youthful strength of the giant slayer",
+          "Moses holding the stone tablets",
+          "the Virgin Mary holding the child",
+          "a crucified Christ on the cross"
         ],
         "explanation": "Raphael painted Madonnas (Virgin and the Child)."
       },
       "ta": {
         "q": "மைக்கேலேஞ்சலோவின் 'டேவிட்' பளிங்குச் சிற்பம் எதைச் சித்தரிக்கிறது?",
         "options": [
-          "அரக்கனைக் கொன்றவரின் இளமை வலிமை, ஆற்றல்",
-          "கட்டளைப் பலகையுடன் மோசஸ்",
-          "கன்னி மேரியும் குழந்தையும்",
-          "சிலுவையில் இயேசு"
+          "அரக்கனைக் கொன்றவரின் இளமை வலிமை",
+          "கட்டளைப் பலகையைப் பிடித்த மோசஸ்",
+          "குழந்தையைத் தாங்கிய கன்னி மேரி",
+          "சிலுவையில் அறையப்பட்ட இயேசு"
         ],
         "explanation": "ரபேல் மடோனா (கன்னி மேரியும் குழந்தையும்) ஓவியங்களை வரைந்தார்."
       }
@@ -162,7 +162,7 @@
           "Martin Luther",
           "Pope Paul III",
           "John Calvin",
-          "St. Ignatius Loyola"
+          "Ignatius Loyola"
         ],
         "explanation": "The Council of Trent gave it official sanction."
       },
@@ -172,7 +172,7 @@
           "மார்ட்டின் லூதர்",
           "போப் மூன்றாம் பால்",
           "ஜான் கால்வின்",
-          "புனித இக்னேஷியஸ் லயோலா"
+          "இக்னேஷியஸ் லயோலா"
         ],
         "explanation": "ட்ரெண்ட் ஆலோசனை மன்றம் இயேசு சபைக்கு அதிகாரபூர்வ ஒப்புதல் வழங்கியது."
       }
@@ -218,9 +218,9 @@
         "q": "The Cape of Storms was renamed the Cape of Good Hope by:",
         "options": [
           "King John II of Portugal",
-          "Vasco da Gama",
-          "Prince Henry",
-          "Bartholomew Diaz"
+          "Vasco da Gama the navigator",
+          "Prince Henry the Navigator",
+          "Bartholomew Diaz the explorer"
         ],
         "explanation": "Diaz reached it in 1487; the new name gave hope of reaching India by sea."
       },
@@ -228,9 +228,9 @@
         "q": "'புயல் முனை' என்பதை 'நன்னம்பிக்கை முனை' எனப் பெயர் மாற்றியவர் யார்?",
         "options": [
           "போர்ச்சுகல் மன்னர் இரண்டாம் ஜான்",
-          "வாஸ்கோடகாமா",
-          "இளவரசர் ஹென்றி",
-          "பார்த்தலோமியோ டயஸ்"
+          "போர்ச்சுகீசியப் பயணி வாஸ்கோடகாமா",
+          "போர்ச்சுகல் இளவரசர் ஹென்றி",
+          "போர்ச்சுகீசிய ஆய்வாளர் பார்த்தலோமியோ டயஸ்"
         ],
         "explanation": "டயஸ் 1487-இல் அதை அடைந்தார்; கடல்வழி இந்தியாவை அடையும் நம்பிக்கையால் பெயர் மாற்றப்பட்டது."
       }

@@ -72,9 +72,9 @@
       "en": {
         "q": "To create a blank presentation, after clicking the New option from the File menu, one clicks",
         "options": [
-          "Presentation from the left pane and then Blank Presentation",
-          "Exit LibreOffice Impress",
-          "Delete from the Slide menu",
+          "Presentation, then Blank Presentation",
+          "Exit and close LibreOffice Impress",
+          "Delete Slide from the Slide menu",
           "Audio/Video from the Insert menu"
         ],
         "explanation": "A slide with two placeholders appears."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "File மெனுவில் New ஐச் சொடுக்கிய பின் வெற்று விளக்கக்காட்சியை உருவாக்க சொடுக்க வேண்டியவை",
         "options": [
-          "இடது பலகத்தில் Presentation, பிறகு Blank Presentation",
-          "Exit LibreOffice Impress",
-          "Slide மெனுவில் Delete",
+          "Presentation, பிறகு Blank Presentation",
+          "Exit, பிறகு LibreOffice Impress ஐ மூடுதல்",
+          "Slide மெனுவில் Delete Slide",
           "Insert மெனுவில் Audio/Video"
         ],
         "explanation": "இரு இடங்குறிப்புகளுடன் ஒரு ஸ்லைடு தோன்றும்."
@@ -188,9 +188,9 @@
       "en": {
         "q": "A text box in a slide is used to",
         "options": [
-          "delete a slide",
-          "play audio only",
-          "close the presentation",
+          "delete a slide from the file",
+          "play audio files only on slides",
+          "close the presentation window",
           "add text anywhere on the slide"
         ],
         "explanation": "To add it, click the Insert menu, then Text Box, and drag to draw the text box."
@@ -198,10 +198,10 @@
       "ta": {
         "q": "ஸ்லைடில் உரைப்பெட்டி (டெக்ஸ்ட் பாக்ஸ்) பயன்படுவது",
         "options": [
-          "ஸ்லைடை நீக்க",
-          "ஒலியை இயக்க மட்டும்",
-          "விளக்கக்காட்சியை மூட",
-          "ஸ்லைடில் எங்கு வேண்டுமானாலும் உரையைச் சேர்க்க"
+          "ஸ்லைடை கோப்பிலிருந்து நீக்க",
+          "ஸ்லைடில் ஒலிக்கோப்புகளை மட்டும் இயக்க",
+          "விளக்கக்காட்சி சாளரத்தை மூட",
+          "ஸ்லைடில் எங்கும் உரையைச் சேர்க்க"
         ],
         "explanation": "Insert மெனு, பிறகு Text Box ஐச் சொடுக்கி, இழுத்து உரைப்பெட்டியை வரைய வேண்டும்."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "To save a presentation, one clicks the File menu, then",
         "options": [
-          "the Delete option",
-          "the Slide Show tab",
-          "the Save option, types the file name and clicks the Save button",
-          "the Exit option only"
+          "the Delete option and chooses a slide",
+          "the Slide Show tab and starts playing",
+          "the Save option and types the file name",
+          "the Exit option and closes Impress"
         ],
         "explanation": "The Save As dialog box appears."
       },
       "ta": {
         "q": "விளக்கக்காட்சியைச் சேமிக்க File மெனுவைச் சொடுக்கிய பின்",
         "options": [
-          "Delete விருப்பம்",
-          "Slide Show தத்தல்",
-          "Save விருப்பத்தைச் சொடுக்கி, கோப்புப் பெயரைத் தட்டச்சு செய்து, Save பொத்தானைச் சொடுக்க வேண்டும்",
-          "Exit விருப்பம் மட்டும்"
+          "Delete விருப்பத்தைச் சொடுக்கி ஒரு ஸ்லைடைத் தேர்ந்தெடுக்க வேண்டும்",
+          "Slide Show தத்தலைச் சொடுக்கி இயக்கத் தொடங்க வேண்டும்",
+          "Save விருப்பத்தைச் சொடுக்கி கோப்புப் பெயரைத் தட்டச்சு செய்ய வேண்டும்",
+          "Exit விருப்பத்தைச் சொடுக்கி Impress ஐ மூட வேண்டும்"
         ],
         "explanation": "Save As உரையாடல் பெட்டி தோன்றும்."
       }
@@ -363,19 +363,19 @@
         "q": "To open an existing presentation, one clicks the File menu and then",
         "options": [
           "New and then Blank Presentation",
-          "Open, selects the file and clicks the Open button",
-          "Close and then Yes",
-          "Exit LibreOffice Impress"
+          "Open, then selects the file and opens it",
+          "Close and then confirms with Yes",
+          "Exit and closes LibreOffice Impress"
         ],
         "explanation": "A file can also be opened directly from the Recent Documents list."
       },
       "ta": {
         "q": "ஏற்கெனவே உள்ள விளக்கக்காட்சியைத் திறக்க File மெனுவைச் சொடுக்கிய பின்",
         "options": [
-          "New, பிறகு Blank Presentation",
-          "Open ஐச் சொடுக்கி, கோப்பைத் தேர்ந்தெடுத்து Open பொத்தானைச் சொடுக்க வேண்டும்",
-          "Close, பிறகு Yes",
-          "Exit LibreOffice Impress"
+          "New, பிறகு Blank Presentation தேர்ந்தெடுக்க வேண்டும்",
+          "Open ஐச் சொடுக்கி கோப்பைத் தேர்ந்தெடுக்க வேண்டும்",
+          "Close, பிறகு Yes ஐச் சொடுக்க வேண்டும்",
+          "Exit சொடுக்கி LibreOffice Impress ஐ மூட வேண்டும்"
         ],
         "explanation": "அண்மைய ஆவணங்கள் பட்டியலிலிருந்தும் நேரடியாகத் திறக்கலாம்."
       }
@@ -392,9 +392,9 @@
         "q": "To exit LibreOffice Impress, one clicks the File menu and then",
         "options": [
           "Exit LibreOffice Impress",
-          "Save",
-          "New Slide",
-          "Delete"
+          "Save the presentation",
+          "Add a New Slide",
+          "Delete the Slide"
         ],
         "explanation": "To close only the presentation, choose Close from the File menu."
       },
@@ -402,9 +402,9 @@
         "q": "லிப்ரே ஆபீஸ் இம்ப்ரஸிலிருந்து வெளியேற File மெனுவைச் சொடுக்கிய பின்",
         "options": [
           "Exit LibreOffice Impress",
-          "Save",
-          "New Slide",
-          "Delete"
+          "Save the presentation",
+          "Add a New Slide",
+          "Delete the Slide"
         ],
         "explanation": "விளக்கக்காட்சியை மட்டும் மூட File மெனுவில் Close ஐத் தேர்ந்தெடுக்கவும்."
       }

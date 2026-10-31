@@ -75,7 +75,7 @@
           "aristocracy",
           "theocracy",
           "oligarchy",
-          "republic"
+          "direct democracy"
         ],
         "explanation": "An oligarchy is a small group of people having control of a country; North Korea and China are also listed."
       },
@@ -84,8 +84,8 @@
         "options": [
           "உயர்குடி ஆட்சி",
           "சமயகுரு ஆட்சி",
-          "சிலர் ஆட்சி (ஆலிகார்க்கி)",
-          "குடியரசு"
+          "சிலர் ஆட்சி",
+          "நேரடி மக்களாட்சி"
         ],
         "explanation": "ஒரு நாட்டை ஒரு சிறு குழு கட்டுப்படுத்துவது ஆலிகார்க்கி."
       }
@@ -189,9 +189,9 @@
         "q": "In olden times, direct democracy existed in:",
         "options": [
           "the Roman Empire",
-          "the USA",
-          "the UK",
-          "the city-states of ancient Greece"
+          "the Mughal Empire",
+          "the Persian Empire",
+          "the Greek city-states"
         ],
         "explanation": "Democracy began 2,500 years ago in some city-states of ancient Greece."
       },
@@ -199,9 +199,9 @@
         "q": "பண்டைய காலத்தில் நேரடி மக்களாட்சி எங்கு இருந்தது?",
         "options": [
           "ரோமப் பேரரசில்",
-          "அமெரிக்காவில்",
-          "பிரிட்டனில்",
-          "பண்டைய கிரேக்க நகர அரசுகளில்"
+          "முகலாயப் பேரரசில்",
+          "பாரசீகப் பேரரசில்",
+          "கிரேக்க நகர அரசுகளில்"
         ],
         "explanation": "2,500 ஆண்டுகளுக்கு முன் கிரேக்க நகர அரசுகளில் மக்களாட்சி தொடங்கியது."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "The Prime Minister of India is appointed by the:",
         "options": [
-          "Lok Sabha",
-          "Rajya Sabha",
+          "Chief Justice of India",
+          "Chairman of Rajya Sabha",
           "President",
-          "Speaker"
+          "Lok Sabha Speaker"
         ],
         "explanation": "The President appoints the Prime Minister, who enjoys a majority in the Lok Sabha."
       },
       "ta": {
         "q": "இந்தியப் பிரதமரை நியமிப்பவர் யார்?",
         "options": [
-          "மக்களவை",
-          "மாநிலங்களவை",
+          "இந்தியத் தலைமை நீதிபதி",
+          "மாநிலங்களவைத் தலைவர்",
           "குடியரசுத் தலைவர்",
-          "அவைத்தலைவர்"
+          "மக்களவைத் தலைவர்"
         ],
         "explanation": "மக்களவையில் பெரும்பான்மை பெற்றவரைக் குடியரசுத் தலைவர் பிரதமராக நியமிக்கிறார்."
       }
@@ -568,7 +568,7 @@
           "monarchic and republican",
           "parliamentary and presidential",
           "federal and unitary",
-          "direct and indirect (representative)"
+          "direct and indirect"
         ],
         "explanation": "Direct democracy – ancient Greek city-states, Switzerland; indirect – through elected representatives."
       },
@@ -578,7 +578,7 @@
           "முடியாட்சி, குடியரசு",
           "நாடாளுமன்ற, குடியரசுத்தலைவர் முறை",
           "கூட்டாட்சி, ஒற்றையாட்சி",
-          "நேரடி, மறைமுக (பிரதிநிதித்துவ) மக்களாட்சி"
+          "நேரடி, மறைமுக மக்களாட்சி"
         ],
         "explanation": "நேரடி – கிரேக்க நகர அரசுகள், சுவிட்சர்லாந்து; மறைமுக – பிரதிநிதிகள் மூலம்."
       }

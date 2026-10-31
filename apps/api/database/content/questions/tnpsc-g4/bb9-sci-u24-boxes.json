@@ -15,7 +15,7 @@
         "q": "The continuous movement of water on earth is called the",
         "options": [
           "nitrogen cycle",
-          "water (hydrological) cycle",
+          "water cycle",
           "carbon cycle",
           "rock cycle"
         ],
@@ -25,7 +25,7 @@
         "q": "புவியில் நீர் தொடர்ந்து இயங்கும் சுழற்சி",
         "options": [
           "நைட்ரஜன் சுழற்சி",
-          "நீர்ச் சுழற்சி (நீரியல் சுழற்சி)",
+          "நீர்ச் சுழற்சி",
           "கார்பன் சுழற்சி",
           "பாறைச் சுழற்சி"
         ],
@@ -101,20 +101,20 @@
       "en": {
         "q": "Which of the following is a human activity that affects the water cycle on land?",
         "options": [
-          "Photosynthesis",
+          "Photosynthesis in green plants",
           "Urbanisation and deforestation",
-          "Nitrification",
-          "Echolocation"
+          "Nitrification by soil bacteria",
+          "Echolocation used by bats"
         ],
         "explanation": "Dumping plastic waste and polluting water bodies also affect it."
       },
       "ta": {
         "q": "நிலத்தில் நீர்ச் சுழற்சியைப் பாதிக்கும் மனிதச் செயல் எது?",
         "options": [
-          "ஒளிச்சேர்க்கை",
+          "பசுந்தாவரங்களில் ஒளிச்சேர்க்கை",
           "நகரமயமாதலும் காடழிப்பும்",
-          "நைட்ரேட்டாதல்",
-          "எதிரொலி இடமறிதல்"
+          "மண் பாக்டீரியாவின் நைட்ரேட்டாதல்",
+          "வௌவால்களின் எதிரொலி இடமறிதல்"
         ],
         "explanation": "நெகிழிக் கழிவுகளைக் கொட்டுதல், நீர்நிலைகளை மாசுபடுத்துதலும் பாதிக்கின்றன."
       }
@@ -198,10 +198,10 @@
       "ta": {
         "q": "மண்ணிலுள்ள நைட்ரேட் அயனிகளைச் சூடோமோனாஸ் வாயு நைட்ரஜனாக ஒடுக்கும் செயல்",
         "options": [
-          "அம்மோனியாவாதல்",
-          "நைட்ரேட்டாதல்",
-          "நைட்ரஜன் வெளியேற்றம் (டீநைட்ரிஃபிகேஷன்)",
-          "தன்மயமாதல்"
+          "அம்மோனியாவாதல் வினை",
+          "நைட்ரேட்டாதல் வினை",
+          "நைட்ரஜன் வெளியேற்றம்",
+          "தன்மயமாதல் வினை"
         ],
         "explanation": "அம்மோனிய சேர்மங்களை நைட்ரோசோமோனாஸ், நைட்ரோபாக்டர் நைட்ரேட்டுகளாக ஆக்ஸிஜனேற்றுவது நைட்ரேட்டாதல்."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "Which of the following is a combined form of carbon?",
         "options": [
-          "Diamond",
-          "Charcoal",
+          "Diamond crystal",
+          "Wood charcoal",
           "Carbon dioxide",
-          "Graphite"
+          "Pencil graphite"
         ],
         "explanation": "Diamond, graphite and charcoal are elemental forms of carbon."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் கார்பனின் சேர்ந்த வடிவம் எது?",
         "options": [
-          "வைரம்",
-          "கரி",
+          "வைரப் படிகம்",
+          "மரக்கரி",
           "கார்பன் டைஆக்சைடு",
-          "கிராஃபைட்"
+          "பென்சில் கிராஃபைட்"
         ],
         "explanation": "வைரம், கிராஃபைட், கரி ஆகியவை கார்பனின் தனிம வடிவங்கள்."
       }
@@ -275,19 +275,19 @@
       "en": {
         "q": "The human activities that move more carbon into the atmosphere are",
         "options": [
-          "planting trees",
-          "using solar energy",
-          "composting",
-          "burning of fossil fuels and deforestation"
+          "planting new trees in barren land",
+          "using solar energy for electricity",
+          "composting kitchen and farm waste",
+          "burning fossil fuels and deforestation"
         ],
         "explanation": "More CO2 makes the earth warmer, leading to the greenhouse effect and global warming."
       },
       "ta": {
         "q": "வளிமண்டலத்தில் அதிக கார்பனைச் சேர்க்கும் மனிதச் செயல்கள்",
         "options": [
-          "மரம் நடுதல்",
-          "சூரிய ஆற்றலைப் பயன்படுத்துதல்",
-          "மக்கு உரம் தயாரித்தல்",
+          "தரிசு நிலத்தில் புதிய மரங்களை நடுதல்",
+          "மின்சாரத்திற்குச் சூரிய ஆற்றலைப் பயன்படுத்துதல்",
+          "சமையலறை, பண்ணைக் கழிவுகளை மக்கு உரமாக்குதல்",
           "புதைபடிவ எரிபொருள் எரிப்பும் காடழிப்பும்"
         ],
         "explanation": "CO2 அதிகரிப்பு புவியை வெப்பமாக்கி பசுமைக்குடில் விளைவையும் புவி வெப்பமாதலையும் ஏற்படுத்துகிறது."
@@ -304,20 +304,20 @@
       "en": {
         "q": "In Eichhornia (water hyacinth), buoyancy is provided by",
         "options": [
-          "air chambers in the swollen and spongy petiole",
-          "deep roots",
-          "waxy leaves",
-          "spines"
+          "air chambers in the swollen petiole",
+          "deep roots that anchor in the mud",
+          "a thick waxy coating on the leaves",
+          "sharp spines on the stem and leaves"
         ],
         "explanation": "Floating leaves such as lotus have long leaf stalks which let them move up and down with changes in water level."
       },
       "ta": {
         "q": "ஐக்கார்னியாவில் (ஆகாயத்தாமரை) மிதக்கும் தன்மையை அளிப்பது",
         "options": [
-          "வீங்கிய பஞ்சு போன்ற இலைக்காம்பிலுள்ள காற்றறைகள்",
-          "ஆழமான வேர்கள்",
-          "மெழுகு இலைகள்",
-          "முட்கள்"
+          "வீங்கிய இலைக்காம்பிலுள்ள காற்றறைகள்",
+          "சேற்றில் நிலைநிறுத்தும் ஆழமான வேர்கள்",
+          "இலைகளின் மேல் தடித்த மெழுகுப் பூச்சு",
+          "தண்டிலும் இலையிலும் உள்ள கூர்மையான முட்கள்"
         ],
         "explanation": "தாமரை போன்ற மிதக்கும் இலைகளுக்கு நீளமான காம்புகள் நீர்மட்டத்திற்கேற்ப மேலும் கீழும் நகர உதவுகின்றன."
       }
@@ -343,10 +343,10 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் வறண்ட நிலத் தாவரம் எது?",
         "options": [
-          "சப்பாத்திக்கள்ளி (ஒப்பன்ஷியா)",
-          "உல்ஃபியா",
-          "லெம்னா",
-          "ஹைட்ரில்லா"
+          "சப்பாத்திக்கள்ளி தாவரம்",
+          "உல்ஃபியா தாவரம்",
+          "லெம்னா தாவரம்",
+          "ஹைட்ரில்லா தாவரம்"
         ],
         "explanation": "ஒப்பன்ஷியா சதைப்பற்றுள்ள திசுக்களில் நீரைச் சேமிக்கிறது; இலைகள் முட்களாக மாறியுள்ளன."
       }
@@ -362,20 +362,20 @@
       "en": {
         "q": "Xerophytes develop special characteristics mainly to",
         "options": [
-          "increase transpiration",
-          "float in water",
-          "absorb and retain water and reduce transpiration",
-          "attract bats"
+          "increase loss of water by transpiration",
+          "float easily on the surface of water",
+          "retain water and reduce transpiration",
+          "attract bats and birds for pollination"
         ],
         "explanation": "Some xerophytes complete their life cycle within a very short period when sufficient moisture is available."
       },
       "ta": {
         "q": "வறண்ட நிலத் தாவரங்கள் சிறப்புப் பண்புகளைப் பெறுவது முக்கியமாக",
         "options": [
-          "நீராவிப்போக்கை அதிகரிக்க",
-          "நீரில் மிதக்க",
-          "நீரை உறிஞ்சிச் சேமித்து நீராவிப்போக்கைக் குறைக்க",
-          "வௌவால்களைக் கவர"
+          "நீராவிப்போக்கால் நீர் இழப்பை அதிகரிக்க",
+          "நீரின் மேற்பரப்பில் எளிதில் மிதக்க",
+          "நீரைத் தக்கவைத்து நீராவிப்போக்கைக் குறைக்க",
+          "வௌவால்களையும் பறவைகளையும் மகரந்தச்சேர்க்கைக்குக் கவர"
         ],
         "explanation": "போதுமான ஈரப்பதம் கிடைக்கும்போது சில தாவரங்கள் மிகக் குறுகிய காலத்தில் வாழ்க்கைச் சுழற்சியை முடிக்கின்றன."
       }
@@ -391,20 +391,20 @@
       "en": {
         "q": "Which of the following is a feature of mesophytes?",
         "options": [
-          "Absence of roots",
-          "Broad and thin leaves with a waxy cuticle and stomata that close in extreme heat",
-          "Floating leaves with long stalks",
-          "Spiny leaves"
+          "Complete absence of roots in the plant",
+          "Broad, thin leaves with a waxy cuticle",
+          "Floating leaves with very long stalks",
+          "Leaves modified into sharp spines"
         ],
         "explanation": "Mesophytes do not need any extreme adaptations."
       },
       "ta": {
         "q": "இடைநிலைத் தாவரங்களின் பண்பு எது?",
         "options": [
-          "வேர் இல்லாமை",
-          "மெழுகு கியூட்டிகிளுடன் கூடிய அகன்ற, மெல்லிய இலைகள்; கடும் வெப்பத்தில் மூடும் இலைத்துளைகள்",
-          "நீண்ட காம்புடன் மிதக்கும் இலைகள்",
-          "முட்கள் போன்ற இலைகள்"
+          "தாவரத்தில் வேர்கள் முற்றிலும் இல்லாமை",
+          "மெழுகு கியூட்டிகிளுடன் கூடிய அகன்ற மெல்லிய இலைகள்",
+          "மிக நீண்ட காம்புடன் மிதக்கும் இலைகள்",
+          "கூர்மையான முட்களாக மாறிய இலைகள்"
         ],
         "explanation": "இவற்றிற்குத் தீவிரத் தகவமைப்புகள் தேவையில்லை."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "Bats give out high-frequency sounds which are",
         "options": [
-          "infrasonic",
-          "audible loud sounds only",
-          "silent",
-          "ultrasonic and reflected back from the prey, perceived by the ear"
+          "infrasonic, below the range of human hearing",
+          "audible loud sounds heard by everyone",
+          "completely silent vibrations with no echo",
+          "ultrasonic, reflected back from the prey"
         ],
         "explanation": "Bats emit ultrasonic pulses at objects and listen for echoes."
       },
       "ta": {
         "q": "வௌவால்கள் வெளியிடும் உயர் அதிர்வெண் ஒலிகள்",
         "options": [
-          "குற்றொலிகள்",
-          "கேட்கக்கூடிய உரத்த ஒலிகள் மட்டும்",
-          "ஒலியற்றவை",
-          "மீயொலிகள்; இரையிலிருந்து எதிரொலித்துக் காதால் உணரப்படுபவை"
+          "மனிதன் கேட்கும் அளவுக்குக் கீழான குற்றொலிகள்",
+          "அனைவரும் கேட்கும் உரத்த ஒலிகள்",
+          "எதிரொலி இல்லாத முழுமையான ஒலியற்ற அதிர்வுகள்",
+          "மீயொலிகள்; இரையிலிருந்து எதிரொலிப்பவை"
         ],
         "explanation": "வௌவால்கள் பொருள்களின் மீது மீயொலித் துடிப்புகளை வெளியிட்டு எதிரொலியைக் கேட்கின்றன."
       }
@@ -478,19 +478,19 @@
       "en": {
         "q": "Mucus covering the skin of an earthworm",
         "options": [
-          "helps in flying",
-          "produces ultrasonic sounds",
-          "stores water like a cactus",
-          "does not allow soil particles to stick to it"
+          "helps the earthworm to fly in air",
+          "produces ultrasonic sounds in the dark",
+          "stores water like a cactus does",
+          "stops soil particles sticking to it"
         ],
         "explanation": "The moist skin helps in oxygenation of blood."
       },
       "ta": {
         "q": "மண்புழுவின் தோலை மூடியுள்ள சளி",
         "options": [
-          "பறக்க உதவுகிறது",
-          "மீயொலியை உண்டாக்குகிறது",
-          "கள்ளிபோல் நீரைச் சேமிக்கிறது",
+          "காற்றில் பறக்க மண்புழுவுக்கு உதவுகிறது",
+          "இருளில் மீயொலியை உண்டாக்குகிறது",
+          "கள்ளிபோல் உடலில் நீரைச் சேமிக்கிறது",
           "மண் துகள்கள் ஒட்டாமல் தடுக்கிறது"
         ],
         "explanation": "ஈரமான தோல் இரத்தத்திற்கு ஆக்ஸிஜனேற்றம் நடைபெற உதவுகிறது."
@@ -623,20 +623,20 @@
       "en": {
         "q": "Water recycling is",
         "options": [
-          "burning wastewater",
-          "adding fresh water to the sea",
-          "reusing treated wastewater for beneficial purposes",
-          "collecting rainwater only"
+          "burning all wastewater in open furnaces",
+          "adding fresh water directly to the sea",
+          "reusing treated wastewater for useful purposes",
+          "collecting only the rainwater from roofs"
         ],
         "explanation": "Water recycling, apart from rain water harvesting, is a key strategy to conserve water."
       },
       "ta": {
         "q": "நீர் மறுசுழற்சி என்பது",
         "options": [
-          "கழிவுநீரை எரித்தல்",
-          "கடலில் நன்னீரைச் சேர்த்தல்",
-          "சுத்திகரித்த கழிவுநீரைப் பயனுள்ள நோக்கங்களுக்காக மீண்டும் பயன்படுத்துதல்",
-          "மழைநீரை மட்டும் சேகரித்தல்"
+          "கழிவுநீர் முழுவதையும் திறந்த உலைகளில் எரித்தல்",
+          "நன்னீரை நேரடியாகக் கடலில் சேர்த்தல்",
+          "சுத்திகரித்த கழிவுநீரை பயனுள்ள வகையில் மீண்டும் பயன்படுத்துதல்",
+          "கூரைகளில் இருந்து மழைநீரை மட்டும் சேகரித்தல்"
         ],
         "explanation": "மழைநீர் சேகரிப்பிற்கு அடுத்து நீர் மறுசுழற்சி முக்கிய உத்தி."
       }
@@ -652,20 +652,20 @@
       "en": {
         "q": "The mission of IUCN is to",
         "options": [
-          "promote deforestation",
-          "influence, encourage and assist societies to conserve the integrity and diversity of nature and ensure equitable, ecologically sustainable use of resources",
-          "increase pollution",
-          "ban all research"
+          "promote deforestation for timber profit",
+          "help societies conserve nature sustainably",
+          "increase pollution from heavy industries",
+          "ban all research on wildlife species"
         ],
         "explanation": "Its vision is 'A just world that values and conserves nature'."
       },
       "ta": {
         "q": "IUCN இன் பணி",
         "options": [
-          "காடழிப்பை ஊக்குவித்தல்",
-          "இயற்கையின் முழுமை, பன்மையைப் பாதுகாக்கவும், வளப் பயன்பாடு சமத்துவமாகவும் சூழலியல்படி நீடிக்கத்தக்கதாகவும் இருக்கவும் சமூகங்களுக்கு ஊக்கமும் உதவியும் அளித்தல்",
-          "மாசுபாட்டை அதிகரித்தல்",
-          "ஆய்வுகளைத் தடை செய்தல்"
+          "மரவணிக இலாபத்துக்காகக் காடழிப்பை ஊக்குவித்தல்",
+          "இயற்கையைப் பாதுகாக்கச் சமூகங்களுக்கு உதவுதல்",
+          "பெரும் தொழிற்சாலைகளால் மாசுபாட்டை அதிகரித்தல்",
+          "வனவிலங்கு இனங்கள் பற்றிய ஆய்வுகளைத் தடை செய்தல்"
         ],
         "explanation": "இதன் தொலைநோக்கு: 'இயற்கையை மதித்துப் பாதுகாக்கும் நீதியான உலகம்'."
       }
@@ -720,10 +720,10 @@
       "ta": {
         "q": "இந்தியாவின் பல்லுயிர்த் தன்மை மிகுந்த பகுதியாகப் பாடநூல் குறிப்பிடுவது",
         "options": [
-          "தார் பாலைவனம்",
-          "கங்கைச் சமவெளி",
-          "மேற்குத் தொடர்ச்சி மலை",
-          "தக்காண பீடபூமி"
+          "தார் பாலைவனப் பகுதி",
+          "கங்கைச் சமவெளிப் பகுதி",
+          "மேற்குத் தொடர்ச்சி மலைப் பகுதி",
+          "தக்காண பீடபூமிப் பகுதி"
         ],
         "explanation": "இமயமலை, மேற்குத் தொடர்ச்சி மலை, வடகிழக்கு, நிக்கோபார் தீவுகள் ஆகிய நான்கு."
       }

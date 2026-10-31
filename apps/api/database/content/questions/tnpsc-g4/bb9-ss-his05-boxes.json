@@ -43,10 +43,10 @@
       "en": {
         "q": "The Greek city-states were bound together by trade, a common alphabet, similar religious practices and:",
         "options": [
-          "festivals such as the Olympic games",
-          "a common army",
-          "a single king",
-          "one constitution"
+          "festivals like the Olympics",
+          "a common standing army",
+          "a single ruling king",
+          "one written constitution"
         ],
         "explanation": "The Olympic festival is the illustrious example."
       },
@@ -54,9 +54,9 @@
         "q": "கிரேக்க நகர அரசுகள் வணிகம், பொது எழுத்து, சமய வழக்கங்கள் ஆகியவற்றுடன் எதன் மூலம் இணைந்திருந்தன?",
         "options": [
           "ஒலிம்பிக் போன்ற விழாக்கள்",
-          "பொது இராணுவம்",
-          "ஒரே மன்னர்",
-          "ஒரே அரசியலமைப்பு"
+          "பொது நிலையான இராணுவம்",
+          "அனைத்தையும் ஆளும் ஒரே மன்னர்",
+          "ஒரே எழுதப்பட்ட அரசியலமைப்பு"
         ],
         "explanation": "ஒலிம்பிக் விளையாட்டு விழா இதற்குச் சிறந்த எடுத்துக்காட்டு."
       }
@@ -74,7 +74,7 @@
         "options": [
           "Free male citizens",
           "Members of the assembly",
-          "Metics (non-resident traders and craftsmen)",
+          "Metics",
           "Citizens chosen by lot as judges"
         ],
         "explanation": "Slaves, women and metics were excluded."
@@ -84,7 +84,7 @@
         "options": [
           "சுதந்திரக் குடிமக்கள்",
           "சபை உறுப்பினர்கள்",
-          "மெட்டிக்குகள் (வெளிநாட்டு வணிகர், கைவினைஞர்)",
+          "மெட்டிக்குகள்",
           "குலுக்கல் மூலம் தேர்ந்த நீதிபதிகள்"
         ],
         "explanation": "அடிமைகள், பெண்கள், மெட்டிக்குகள் விலக்கப்பட்டனர்."
@@ -111,10 +111,10 @@
       "ta": {
         "q": "சாக்ரடீஸுக்கு மரண தண்டனையாக எதைக் குடிக்கக் கொடுக்கப்பட்டது?",
         "options": [
-          "ஹெம்லாக் எனும் நஞ்சு",
-          "மது",
-          "தேன்",
-          "பால்"
+          "ஹெம்லாக் நஞ்சு",
+          "புளித்த திராட்சை மது",
+          "தூய காட்டுத் தேன்",
+          "புதிய ஆட்டுப் பால்"
         ],
         "explanation": "இளைஞர்களைக் கெடுத்ததாகக் குற்றம்சாட்டப்பட்டு நஞ்சு அருந்தும் தண்டனை பெற்றார்."
       }
@@ -130,9 +130,9 @@
       "en": {
         "q": "The 'equites' who supported Marius were:",
         "options": [
-          "the slaves",
-          "the priests",
-          "the new rich or propertied class below the Senatorial class",
+          "the enslaved workers in mines",
+          "the priests of the temples",
+          "the new propertied rich class",
           "the old landed aristocracy"
         ],
         "explanation": "Equites were the new rich below the rank of the Senatorial class."
@@ -140,10 +140,10 @@
       "ta": {
         "q": "மாரியஸை ஆதரித்த 'ஈக்விட்டுகள்' யார்?",
         "options": [
-          "அடிமைகள்",
-          "குருமார்கள்",
-          "செனட்டர் தகுதிக்குக் கீழ் உள்ள புதுப் பணக்காரர், சொத்துடையோர்",
-          "பழைய நிலப்பிரபுக்கள்"
+          "சுரங்கங்களில் வேலை செய்த அடிமைகள்",
+          "கோயில் பூசைகளை நடத்திய குருமார்கள்",
+          "புதிதாகச் செல்வம் பெற்ற சொத்துடையோர்",
+          "பழைய நிலம் வைத்திருந்த உயர்குடியினர்"
         ],
         "explanation": "ஈக்விட்டுகள் செனட்டர் வகுப்புக்குக் கீழ் உள்ள புதிய செல்வந்த வகுப்பு."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "Why were Christians persecuted by Rome?",
         "options": [
-          "They refused to pay taxes to Greece",
-          "They opposed the Roman senate's laws on trade",
-          "Their refusal to honour the Emperor's image was seen as political treason",
-          "They spread Buddhism"
+          "They refused to pay taxes to the Greek city-states",
+          "They opposed the Roman senate's laws on foreign trade",
+          "Refusal to honour the Emperor's image was seen as treason",
+          "They spread Buddhism across the Roman provinces"
         ],
         "explanation": "Refusal to pay respect to the Emperor's image was viewed as treason."
       },
       "ta": {
         "q": "கிறித்தவர்கள் ரோமால் ஏன் துன்புறுத்தப்பட்டனர்?",
         "options": [
-          "கிரேக்கருக்கு வரி செலுத்த மறுத்தனர்",
-          "செனட் வணிகச் சட்டங்களை எதிர்த்தனர்",
-          "பேரரசரின் உருவத்தை வணங்க மறுத்தது அரசியல் துரோகமாகக் கருதப்பட்டது",
-          "பௌத்தத்தைப் பரப்பினர்"
+          "கிரேக்க நகர அரசுகளுக்குச் செலுத்த வேண்டிய வரியைச் செலுத்த மறுத்தனர்",
+          "ரோமன் செனட்டின் வெளிநாட்டு வணிகச் சட்டங்களை எதிர்த்தனர்",
+          "பேரரசரின் உருவத்தை வணங்க மறுத்தது துரோகமாகக் கருதப்பட்டது",
+          "ரோமானிய மாநிலங்கள் முழுவதும் பௌத்தத்தைப் பரப்பினர்"
         ],
         "explanation": "பேரரசரின் உருவத்தை மதிக்க மறுத்தது அரசியல் துரோகமாகக் கருதப்பட்டது."
       }
@@ -256,10 +256,10 @@
       "ta": {
         "q": "நூலின்படி சங்க இலக்கியம் இந்தியாவின் முதல் ____ இலக்கியம் எனப் போற்றப்படுகிறது.",
         "options": [
-          "சமய",
-          "தத்துவ",
+          "சமயம் சார்ந்த",
+          "தத்துவம் சார்ந்த",
           "சமயச்சார்பற்ற",
-          "காப்பிய"
+          "காப்பியம் சார்ந்த"
         ],
         "explanation": "சங்க இலக்கியம் இந்தியாவின் முதல் சமயச்சார்பற்ற இலக்கியம்."
       }

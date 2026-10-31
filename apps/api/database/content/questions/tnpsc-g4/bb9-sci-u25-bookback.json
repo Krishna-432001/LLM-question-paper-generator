@@ -14,7 +14,7 @@
       "en": {
         "q": "A structured delivery of information is called a",
         "options": [
-          "slide show",
+          "worksheet",
           "page",
           "presentation",
           "WordArt"
@@ -24,9 +24,9 @@
       "ta": {
         "q": "தகவல்களை ஒழுங்கமைத்து வழங்குவது",
         "options": [
-          "ஸ்லைடு ஷோ",
+          "பணித்தாள்",
           "பக்கம்",
-          "விளக்கக்காட்சி (பிரசன்டேஷன்)",
+          "விளக்கக்காட்சி",
           "வேர்ட்ஆர்ட்"
         ],
         "explanation": "விளக்கக்காட்சி என்பது படங்கள், ஒலி, காணொளி ஆகியவற்றுடன் தகவல்களை முறையாகக் காட்டுவது."
@@ -43,10 +43,10 @@
       "en": {
         "q": "Slides displayed together in a sequence form a",
         "options": [
-          "page",
-          "presentation (slide show)",
-          "chart",
-          "message"
+          "blank page",
+          "presentation",
+          "bar chart",
+          "text message"
         ],
         "explanation": "You can create additional slides; displayed in sequence, they form a presentation."
       },
@@ -54,7 +54,7 @@
         "q": "ஸ்லைடுகள் வரிசையாக இணைந்து உருவாக்குவது",
         "options": [
           "பக்கம்",
-          "விளக்கக்காட்சி (ஸ்லைடு ஷோ)",
+          "விளக்கக்காட்சி",
           "விளக்கப்படம்",
           "செய்திகள்"
         ],
@@ -159,20 +159,20 @@
       "en": {
         "q": "A slide in LibreOffice Impress is",
         "options": [
-          "a file folder",
-          "a mouse button",
-          "a printer",
-          "a single page of a presentation that can hold text, pictures and other objects"
+          "a folder that stores files",
+          "a button on the mouse",
+          "a printer for documents",
+          "a single page of a presentation"
         ],
         "explanation": "When you create a blank presentation, a slide appears with two placeholders."
       },
       "ta": {
         "q": "இம்ப்ரஸில் ஸ்லைடு என்பது",
         "options": [
-          "கோப்புக் கோப்புறை",
-          "சுட்டியின் பொத்தான்",
-          "அச்சுப்பொறி",
-          "உரை, படங்கள், பிற பொருள்களைக் கொண்ட விளக்கக்காட்சியின் ஒரு பக்கம்"
+          "கோப்புகளைச் சேமிக்கும் கோப்புறை",
+          "சுட்டியிலுள்ள ஒரு பொத்தான்",
+          "ஆவணங்களை அச்சிடும் அச்சுப்பொறி",
+          "விளக்கக்காட்சியின் ஒரு பக்கம்"
         ],
         "explanation": "வெற்று விளக்கக்காட்சியை உருவாக்கும்போது இரு இடங்குறிப்புகளுடன் ஒரு ஸ்லைடு தோன்றும்."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "To view a slide show, one should click the",
         "options": [
-          "Slide Show menu and then Start from First Slide (or press F5)",
-          "Insert menu and then Image",
-          "Slide menu and then Delete",
-          "File menu and then Exit"
+          "Slide Show menu and then Start from First Slide",
+          "Insert menu and then Image from File",
+          "Slide menu and then Delete Slide",
+          "File menu and then Exit Impress"
         ],
         "explanation": "Viewing a slide show means seeing how the actual presentation looks."
       },
       "ta": {
         "q": "ஸ்லைடு ஷோவைக் காண சொடுக்க வேண்டியது",
         "options": [
-          "Slide Show மெனு, பிறகு Start from First Slide (அல்லது F5)",
-          "Insert மெனு, பிறகு Image",
-          "Slide மெனு, பிறகு Delete",
-          "File மெனு, பிறகு Exit"
+          "Slide Show மெனு, பிறகு Start from First Slide",
+          "Insert மெனு, பிறகு Image from File",
+          "Slide மெனு, பிறகு Delete Slide",
+          "File மெனு, பிறகு Exit Impress"
         ],
         "explanation": "உண்மையான விளக்கக்காட்சி எவ்வாறு தெரியும் என்பதைப் பார்ப்பது ஸ்லைடு ஷோவைக் காணுதல்."
       }

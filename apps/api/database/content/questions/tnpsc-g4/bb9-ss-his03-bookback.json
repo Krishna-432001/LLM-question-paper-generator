@@ -25,9 +25,9 @@
         "q": "சங்க காலத்தில் பயன்படுத்தப்பட்ட எழுத்து முறை எது?",
         "options": [
           "தமிழ்-பிராமி",
-          "தேவநாகரி",
-          "கிரந்தம்",
-          "ஆங்கிலம்"
+          "தேவநாகரி எழுத்து",
+          "கிரந்த எழுத்து",
+          "ஆங்கில எழுத்து"
         ],
         "explanation": "தமிழ் மொழியை எழுத தமிழ்-பிராமி எழுத்து பயன்பட்டது."
       }
@@ -191,7 +191,7 @@
           "chronicles",
           "gazetteers",
           "bullion",
-          "inscriptions (epigraphs)"
+          "inscriptions"
         ],
         "explanation": "Epigraphy is the study of inscriptions."
       },
@@ -201,7 +201,7 @@
           "வரலாற்றுக் குறிப்புகள்",
           "நிலவரைவு நூல்",
           "உலோகக் கட்டிகள்",
-          "கல்வெட்டுகள் (பொறிப்புகள்)"
+          "கல்வெட்டுகள்"
         ],
         "explanation": "கல்வெட்டுகளை ஆராயும் துறை கல்வெட்டியல்."
       }
@@ -217,10 +217,10 @@
       "en": {
         "q": "Systematically digging a site to recover material evidence of past societies is called:",
         "options": [
-          "archaeological excavation",
-          "stratigraphy",
-          "epigraphy",
-          "numismatics"
+          "systematic excavation",
+          "stratigraphic dating",
+          "epigraphic decoding",
+          "numismatic analysis"
         ],
         "explanation": "Archaeological excavation recovers material evidence."
       },
@@ -228,9 +228,9 @@
         "q": "கடந்த கால சமூகங்களை அறியப் பொருள் சான்றுகளைப் பெற ஓர் இடத்தை முறையாகத் தோண்டுதல் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "தொல்லியல் அகழாய்வு",
-          "அடுக்கியல்",
-          "கல்வெட்டியல்",
-          "நாணயவியல்"
+          "அடுக்கியல் காலக்கணிப்பு",
+          "கல்வெட்டுப் படித்தறிதல்",
+          "நாணயவியல் ஆய்வு"
         ],
         "explanation": "தொல்லியல் அகழாய்வு பொருள் சான்றுகளை வெளிக்கொணர்கிறது."
       }
@@ -364,8 +364,8 @@
         "options": [
           "The Cheras ruled the Kaveri delta from Uraiyur.",
           "The Mangulam inscription mentions King Karikalan.",
-          "The terms vanikan and nigama (guild) appear in Tamil-Brahmi inscriptions.",
-          "Salt merchants were called Vanikars."
+          "The terms vanikan and nigama appear in Tamil-Brahmi inscriptions.",
+          "Salt merchants were called Vanikars in the Sangam period."
         ],
         "explanation": "Cholas ruled the Kaveri delta from Uraiyur; Mangulam names Nedunchezhiyan; salt merchants were Umanars."
       },
@@ -374,8 +374,8 @@
         "options": [
           "சேரர் உறையூரைத் தலைநகராகக் கொண்டு காவிரி டெல்டாவை ஆண்டனர்.",
           "மாங்குளம் கல்வெட்டு கரிகாலனைக் குறிக்கிறது.",
-          "'வணிகன்', 'நிகமம்' (வணிகக் குழு) ஆகிய சொற்கள் தமிழ்-பிராமிக் கல்வெட்டுகளில் காணப்படுகின்றன.",
-          "உப்பு வணிகர்கள் வாணிகர் எனப்பட்டனர்."
+          "'வணிகன்', 'நிகமம்' ஆகிய சொற்கள் தமிழ்-பிராமிக் கல்வெட்டுகளில் காணப்படுகின்றன.",
+          "உப்பு வணிகர்கள் சங்க காலத்தில் வாணிகர் எனப்பட்டனர்."
         ],
         "explanation": "உறையூர் சோழர் தலைநகரம்; மாங்குளம் கல்வெட்டு நெடுஞ்செழியனைக் குறிக்கிறது; உப்பு வணிகர் உமணர்."
       }
@@ -431,8 +431,8 @@
         "q": "கால்நடைகளை வளர்த்து நாடோடியாக வாழ்க்கை நடத்துவது?",
         "options": [
           "புனம் சாகுபடி",
-          "மேய்ச்சல் வாழ்க்கை (கால்நடை வளர்ப்பு)",
-          "பண்டமாற்று",
+          "மேய்ச்சல் வாழ்க்கை",
+          "பண்டமாற்று வணிகம்",
           "நகரமயமாதல்"
         ],
         "explanation": "கால்நடைகளை வளர்த்து வாழ்வது மேய்ச்சல் வாழ்க்கை."

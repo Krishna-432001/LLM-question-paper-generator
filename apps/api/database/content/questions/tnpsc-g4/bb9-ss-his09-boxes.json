@@ -217,9 +217,9 @@
       "en": {
         "q": "The resolution for independence in the Congress was moved on 7 June 1776 by:",
         "options": [
-          "Thomas Jefferson",
-          "Thomas Paine",
-          "Benjamin Franklin",
+          "Thomas Jefferson of Virginia",
+          "Thomas Paine of Pennsylvania",
+          "Benjamin Franklin of Pennsylvania",
           "Richard Henry Lee of Virginia"
         ],
         "explanation": "Jefferson drafted the Declaration, adopted on 4 July 1776."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "1776 ஜூன் 7-இல் காங்கிரசில் சுதந்திரத் தீர்மானத்தை முன்மொழிந்தவர் யார்?",
         "options": [
-          "தாமஸ் ஜெபர்சன்",
-          "தாமஸ் பெய்ன்",
-          "பெஞ்சமின் பிராங்கிளின்",
+          "வர்ஜீனியாவின் தாமஸ் ஜெபர்சன்",
+          "பென்சில்வேனியாவின் தாமஸ் பெய்ன்",
+          "பென்சில்வேனியாவின் பெஞ்சமின் பிராங்கிளின்",
           "வர்ஜீனியாவின் ரிச்சர்டு ஹென்றி லீ"
         ],
         "explanation": "ஜெபர்சன் வரைந்த சுதந்திரப் பிரகடனம் ஜூலை 4, 1776-இல் ஏற்கப்பட்டது."
@@ -256,10 +256,10 @@
       "ta": {
         "q": "யார்க்டவுனில் சரணடைந்த கார்ன்வாலிஸ் பின்னர் கிழக்கிந்தியக் கம்பெனி அரசால் எப்பதவிக்கு நியமிக்கப்பட்டார்?",
         "options": [
-          "அயர்லாந்து வைசிராய்",
-          "அரசக் கடற்படைத் தளபதி",
-          "பிரிட்டன் பிரதமர்",
-          "பிரிட்டிஷ் இந்தியாவின் கவர்னர் ஜெனரல்"
+          "அயர்லாந்தின் வைசிராய் பதவி",
+          "அரசக் கடற்படையின் தளபதி பதவி",
+          "பிரிட்டன் நாட்டின் பிரதமர் பதவி",
+          "இந்தியாவின் கவர்னர் ஜெனரல்"
         ],
         "explanation": "தோல்விக்குப் பின்னும் அவர் பிரிட்டிஷ் அரசுகளின் நம்பிக்கையைப் பெற்றிருந்தார்."
       }
@@ -362,20 +362,20 @@
       "en": {
         "q": "The 'tithe' collected by the French clergy from the common people was:",
         "options": [
-          "one-tenth of the annual produce or earnings",
-          "a salt tax",
-          "one-sixth of the produce",
-          "free labour on roads"
+          "one-tenth of annual produce",
+          "a tax on salt and spices",
+          "one-sixth of annual produce",
+          "free labour on royal roads"
         ],
         "explanation": "Taille was a land tax, gabelle a salt tax and corvee free labour for roads."
       },
       "ta": {
         "q": "பிரெஞ்சுக் குருமார் பொதுமக்களிடம் வசூலித்த 'டித்' (tithe) என்பது எது?",
         "options": [
-          "ஆண்டு விளைச்சல்/வருவாயில் பத்தில் ஒரு பங்கு",
-          "உப்பு வரி",
-          "விளைச்சலில் ஆறில் ஒரு பங்கு",
-          "சாலைகளுக்கான இலவச உழைப்பு"
+          "ஆண்டு விளைச்சலில் பத்தில் ஒரு பங்கு",
+          "உப்பு, நறுமணப் பொருள்கள் மீதான வரி",
+          "ஆண்டு விளைச்சலில் ஆறில் ஒரு பங்கு",
+          "அரச சாலைகளுக்கான இலவச உழைப்பு"
         ],
         "explanation": "டெய்ல் – நிலவரி; கபெல் – உப்பு வரி; கோர்வே – சாலைகளுக்கான இலவச உழைப்பு."
       }
@@ -566,19 +566,19 @@
         "q": "The Directory of five members was replaced in France by the:",
         "options": [
           "National Convention",
-          "Consulate with Napoleon as first Consul",
-          "Estates General",
-          "Girondin ministry"
+          "Consulate under Napoleon",
+          "the Estates General",
+          "the Girondin ministry"
         ],
         "explanation": "Napoleon later crowned himself Emperor."
       },
       "ta": {
         "q": "ஐவர் கொண்ட டைரக்டரிக்குப் பதிலாக பிரான்சில் வந்த ஆட்சி எது?",
         "options": [
-          "தேசிய கன்வென்ஷன்",
-          "நெப்போலியன் முதல் தூதுவராக இருந்த கன்சுலேட்",
-          "பிரதிநிதிகள் சபை",
-          "ஜிரோண்டிஸ்ட் அமைச்சரவை"
+          "புரட்சிகர தேசிய கன்வென்ஷன்",
+          "நெப்போலியன் தலைமையிலான கன்சுலேட்",
+          "மூன்று பிரிவு பிரதிநிதிகள் சபை",
+          "ஜிரோண்டிஸ்ட் கட்சி அமைச்சரவை"
         ],
         "explanation": "நெப்போலியன் பின்னர் தம்மைப் பேரரசராக முடிசூட்டிக்கொண்டார்."
       }
