@@ -54,7 +54,7 @@
         "q": "சராசரிக் கடல்மட்டத்திலிருந்து சம உயரமுள்ள இடங்களை இணைக்கும், பழுப்பு நிறத்தில் வரையப்படும் கற்பனைக் கோடுகள்",
         "options": [
           "சம அழுத்தக் கோடுகள்",
-          "சம உயரக் கோடுகள் (Contours)",
+          "சம உயரக் கோடுகள்",
           "சம மழைக் கோடுகள்",
           "வடிவக் கோடுகள்"
         ],
@@ -140,7 +140,7 @@
       "ta": {
         "q": "ஒரு குறிப்பிட்ட திசையிலிருந்து ஒளி விழுந்தால் உயரமான பகுதிகள் ஏற்படுத்தும் நிழல்களைக் காட்டி நிலத்தோற்றத்தை உணர்த்தும் முறை",
         "options": [
-          "குன்று நிழலிடல் (Hill shading)",
+          "குன்று நிழலிடல்",
           "அடுக்கு வண்ணமிடல்",
           "சரிவுக் கோடு வரைதல்",
           "சம உயரக் கோடு வரைதல்"
@@ -275,20 +275,20 @@
       "en": {
         "q": "How is the height of a waterfall found on a contour map?",
         "options": [
-          "By the contour interval alone",
-          "By the difference between the highest and lowest contour values meeting at the same point",
-          "By the number of contours around it",
-          "By the spot height at its top"
+          "By reading the contour interval printed in the margin of the map sheet",
+          "By the difference between the highest and lowest contours meeting at one point",
+          "By counting the number of contours drawn around the waterfall",
+          "By taking the spot height marked at the top of the waterfall"
         ],
         "explanation": "A waterfall is represented by contours meeting at the same point on the hill slope."
       },
       "ta": {
         "q": "சம உயரக் கோட்டு வரைபடத்தில் நீர்வீழ்ச்சியின் உயரத்தை எவ்வாறு அறியலாம்?",
         "options": [
-          "சம உயர இடைவெளியால் மட்டும்",
-          "ஒரே புள்ளியில் சந்திக்கும் மிக உயர்ந்த, மிகத் தாழ்ந்த கோடுகளின் மதிப்பு வேறுபாட்டால்",
-          "அதைச் சுற்றியுள்ள கோடுகளின் எண்ணிக்கையால்",
-          "அதன் உச்சியிலுள்ள புள்ளி உயரத்தால்"
+          "வரைபட ஓரத்தில் அச்சிடப்பட்ட சம உயர இடைவெளியைப் படிப்பதால்",
+          "ஒரே புள்ளியில் சந்திக்கும் உயர்ந்த, தாழ்ந்த கோடுகளின் மதிப்பு வேறுபாட்டால்",
+          "நீர்வீழ்ச்சியைச் சுற்றி வரையப்பட்ட கோடுகளின் எண்ணிக்கையால்",
+          "நீர்வீழ்ச்சியின் உச்சியில் குறிக்கப்பட்ட புள்ளி உயரத்தால்"
         ],
         "explanation": "நீர்வீழ்ச்சி மலைச்சரிவில் ஒரே புள்ளியில் சந்திக்கும் கோடுகளாகக் காட்டப்படுகிறது."
       }
@@ -391,19 +391,19 @@
       "en": {
         "q": "Which diagram shows wind direction and average frequency for a particular station and is also called a star diagram?",
         "options": [
-          "Climograph",
+          "Climograph diagram",
           "Wind rose diagram",
-          "Hythergraph",
-          "Isopleth map"
+          "Hythergraph diagram",
+          "Isopleth line map"
         ],
         "explanation": "The wind rose diagram is vital for constructing airport runways; the runway is generally oriented towards the prevailing wind."
       },
       "ta": {
         "q": "ஒரு நிலையத்தின் காற்றுத் திசையையும் சராசரி அதிர்வெண்ணையும் காட்டும், நட்சத்திர வடிவ (Star) வரைபடம் எனவும் அழைக்கப்படும் வரைபடம்",
         "options": [
-          "காலநிலை வரைபடம் (Climograph)",
+          "காலநிலை வரைபடம்",
           "காற்றுரோஜா வரைபடம்",
-          "வெப்ப-மழை வரைபடம் (Hythergraph)",
+          "வெப்ப-மழை வரைபடம்",
           "சம மதிப்புக் கோட்டு வரைபடம்"
         ],
         "explanation": "விமான ஓடுபாதை அமைக்க காற்றுரோஜா வரைபடம் இன்றியமையாதது; ஓடுபாதை பொதுவாக நிலவும் காற்றின் திசையை நோக்கி அமையும்."
@@ -420,20 +420,20 @@
       "en": {
         "q": "Why is the wind rose diagram vital in airport construction?",
         "options": [
-          "It shows the rainfall at the airport",
-          "It shows the height of the airport",
-          "The runway is generally oriented towards the prevailing wind",
-          "It shows the population around the airport"
+          "It shows the average rainfall at the airport site",
+          "It shows the exact height of the airport above sea level",
+          "It helps orient the runway towards the prevailing wind",
+          "It shows the population living around the airport"
         ],
         "explanation": "It is also an essential inclusion in pilot charts and sailing charts, and architects use it to plan ventilation."
       },
       "ta": {
         "q": "விமான நிலையக் கட்டுமானத்தில் காற்றுரோஜா வரைபடம் ஏன் இன்றியமையாதது?",
         "options": [
-          "அது விமான நிலைய மழையளவைக் காட்டுவதால்",
-          "அது விமான நிலையத்தின் உயரத்தைக் காட்டுவதால்",
-          "ஓடுபாதை பொதுவாக நிலவும் காற்றின் திசையை நோக்கி அமைக்கப்படுவதால்",
-          "அது விமான நிலையச் சுற்றுப்புற மக்கள்தொகையைக் காட்டுவதால்"
+          "அது விமான நிலைய இடத்தின் சராசரி மழையளவைக் காட்டுவதால்",
+          "அது விமான நிலையத்தின் கடல்மட்ட உயரத்தைக் காட்டுவதால்",
+          "அது ஓடுபாதையை நிலவும் காற்றின் திசையில் அமைக்க உதவுவதால்",
+          "அது சுற்றி வாழும் மக்கள்தொகையைக் காட்டுவதால்"
         ],
         "explanation": "இது விமானிகள், கடற்பயண வரைபடங்களிலும் இடம்பெறும்; கட்டடக்கலைஞர்கள் காற்றோட்டத் திட்டமிடலுக்குப் பயன்படுத்துவர்."
       }

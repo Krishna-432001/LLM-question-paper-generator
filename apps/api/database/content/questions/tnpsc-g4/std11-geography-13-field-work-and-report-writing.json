@@ -14,20 +14,20 @@
       "en": {
         "q": "Field work is defined as",
         "options": [
-          "the process of observing and collecting data about the natural and man-made environment",
-          "the study of maps in a classroom",
-          "the preparation of questionnaires only",
-          "the measurement of weather elements only"
+          "the process of observing and collecting data about the environment",
+          "the study of printed maps and atlases by students in a classroom",
+          "the preparation and printing of questionnaires for a survey office",
+          "the measurement of temperature and rainfall at an observatory"
         ],
         "explanation": "In physical geography, field work becomes inevitable for understanding the subject."
       },
       "ta": {
         "q": "களப்பணி (Field work) என்பது",
         "options": [
-          "இயற்கை, செயற்கைச் சூழல் பற்றி அவதானித்துத் தரவுகளைத் திரட்டும் செயல்முறை",
-          "வகுப்பறையில் வரைபடங்களைப் படித்தல்",
-          "வினாத்தாள்களைத் தயாரித்தல் மட்டும்",
-          "வானிலைக் கூறுகளை அளவிடுதல் மட்டும்"
+          "இயற்கை, செயற்கைச் சூழல் பற்றித் தரவுகளை அவதானித்துத் திரட்டுதல்",
+          "வகுப்பறையில் மாணவர்கள் அச்சிட்ட வரைபடங்களையும் அட்லஸையும் படித்தல்",
+          "கணக்கெடுப்பு அலுவலகத்துக்கான வினாத்தாள்களைத் தயாரித்து அச்சிடுதல்",
+          "வானிலை ஆய்வகத்தில் வெப்பநிலையையும் மழையளவையும் அளவிடுதல்"
         ],
         "explanation": "இயற்கைப் புவியியலைப் புரிந்துகொள்ள களப்பணி தவிர்க்க இயலாதது."
       }
@@ -43,20 +43,20 @@
       "en": {
         "q": "Any field work involves which three stages?",
         "options": [
-          "Planning, drawing and printing",
+          "Planning the route, drawing sketches and printing reports",
           "Pre-field work, actual field work and post field work",
-          "Observation, sketching and mapping",
-          "Survey, report and exhibition"
+          "Observation, field sketching and base map preparation",
+          "Survey, report writing and exhibition of results"
         ],
         "explanation": "Pre-field work covers planning, preparation and arrangements."
       },
       "ta": {
         "q": "எந்தவொரு களப்பணியும் எந்த மூன்று நிலைகளைக் கொண்டது?",
         "options": [
-          "திட்டமிடல், வரைதல், அச்சிடல்",
+          "பாதை திட்டமிடல், ஓவியம் வரைதல், அறிக்கை அச்சிடல்",
           "களப்பணிக்கு முன், உண்மையான களப்பணி, களப்பணிக்குப் பின்",
-          "அவதானிப்பு, ஓவியம், வரைபடம் தயாரித்தல்",
-          "அளவை, அறிக்கை, கண்காட்சி"
+          "அவதானிப்பு, களஓவியம், அடிப்படை வரைபடம் தயாரித்தல்",
+          "அளவை, அறிக்கை எழுதுதல், முடிவுகளைக் கண்காட்சியாக வைத்தல்"
         ],
         "explanation": "களப்பணிக்கு முந்தைய நிலை திட்டமிடல், ஆயத்தம், ஏற்பாடுகளை உள்ளடக்கியது."
       }
@@ -72,20 +72,20 @@
       "en": {
         "q": "Which methods are required for field work in human geography?",
         "options": [
-          "Only collecting rock and soil samples",
-          "Only field sketches and photography",
+          "Collecting rock and soil samples from outcrops and pits",
+          "Measuring river discharge and stream velocity at gauging sites",
           "Sample surveys, questionnaires, interviews and statistical techniques",
-          "Only satellite images"
+          "Recording seismic waves with seismographs at observatories"
         ],
         "explanation": "Field work in physical geography involves direct observation, photography, field sketches, maps and satellite images."
       },
       "ta": {
         "q": "மனிதப் புவியியல் களப்பணிக்குத் தேவைப்படும் முறைகள்",
         "options": [
-          "பாறை, மண் மாதிரிகள் சேகரிப்பு மட்டும்",
-          "கள ஓவியங்கள், புகைப்படங்கள் மட்டும்",
+          "பாறைப் பிதுக்கங்கள், குழிகளிலிருந்து பாறை, மண் மாதிரிகள் சேகரித்தல்",
+          "அளவீட்டு மையங்களில் ஆற்றின் ஓட்டத்தையும் வேகத்தையும் அளவிடுதல்",
           "மாதிரி ஆய்வுகள், வினாத்தாள்கள், நேர்காணல்கள், புள்ளியியல் நுட்பங்கள்",
-          "செயற்கைக்கோள் படங்கள் மட்டும்"
+          "நிலநடுக்க ஆய்வகங்களில் அதிர்வலைகளை நிலநடுக்கமானியால் பதிவு செய்தல்"
         ],
         "explanation": "இயற்கைப் புவியியல் களப்பணியில் நேரடி அவதானிப்பு, புகைப்படம், கள ஓவியம், வரைபடம், செயற்கைக்கோள் படங்கள் பயன்படுகின்றன."
       }
@@ -131,9 +131,9 @@
         "q": "Which of the following should NOT be collected from the field during field work, as it is banned by the government?",
         "options": [
           "Plants, animals or microorganisms",
-          "Rock samples",
-          "Soil samples",
-          "Surface water samples"
+          "Small rock samples in sample bags",
+          "Soil samples taken from shallow pits",
+          "Surface water samples in clean bottles"
         ],
         "explanation": "Unique and representative samples of rock, soil, surface water and groundwater may be collected for analysis and exhibition."
       },
@@ -141,9 +141,9 @@
         "q": "களப்பணியின்போது அரசால் தடை செய்யப்பட்டுள்ளதால் சேகரிக்கக் கூடாதவை எவை?",
         "options": [
           "தாவரங்கள், விலங்குகள், நுண்ணுயிர்கள்",
-          "பாறை மாதிரிகள்",
-          "மண் மாதிரிகள்",
-          "மேற்பரப்பு நீர் மாதிரிகள்"
+          "பைகளில் சேகரிக்கும் சிறு பாறை மாதிரிகள்",
+          "ஆழமற்ற குழிகளிலிருந்து எடுத்த மண் மாதிரிகள்",
+          "தூய்மையான புட்டிகளில் மேற்பரப்பு நீர் மாதிரிகள்"
         ],
         "explanation": "பாறை, மண், மேற்பரப்பு நீர், நிலத்தடி நீரின் தனித்துவ, பிரதிநிதித்துவ மாதிரிகளைச் சேகரிக்கலாம்."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "Field reports should be",
         "options": [
-          "long and descriptive without any maps",
-          "short, clear and informative with supportive data, maps, sketches and photographs",
-          "written only as tables",
-          "prepared before the field visit"
+          "long and descriptive, with very few maps or sketches included",
+          "short, clear and informative, with data, maps, sketches and photographs",
+          "written as long tables of figures with very little text",
+          "prepared in advance, before the field visit is even planned"
         ],
         "explanation": "A field report documents the field work and is a reference for future field trips."
       },
       "ta": {
         "q": "களஆய்வு அறிக்கைகள் எவ்வாறு இருக்க வேண்டும்?",
         "options": [
-          "நீளமாகவும் வரைபடங்கள் இன்றியும்",
-          "சுருக்கமாகவும் தெளிவாகவும், ஆதரவான தரவுகள், வரைபடங்கள், ஓவியங்கள், புகைப்படங்களுடன் தகவல் நிறைந்ததாகவும்",
-          "அட்டவணைகளாக மட்டும்",
-          "களப்பயணத்துக்கு முன்பே தயாரிக்கப்பட்டதாக"
+          "நீளமாகவும் விளக்கமாகவும், மிகச் சில வரைபடங்கள், ஓவியங்களுடனும்",
+          "சுருக்கமாகவும் தெளிவாகவும், தரவுகள், வரைபடங்கள், ஓவியங்கள், புகைப்படங்களுடனும்",
+          "எண்களும் குறியீடுகளும் கொண்ட நீண்ட அட்டவணைகளாகக் குறைந்த உரையுடன்",
+          "களப்பயணம் தொடங்குவதற்கு முன்பே முன்கூட்டியே தயாரிக்கப்பட்டதாக"
         ],
         "explanation": "களஆய்வு அறிக்கை களப்பணியின் ஆவணமாகவும் எதிர்காலக் களப்பயணங்களுக்கான குறிப்பாகவும் இருக்கும்."
       }
@@ -247,19 +247,19 @@
         "q": "In a field report, data collected from secondary sources can be presented as",
         "options": [
           "tables, graphs, diagrams or charts",
-          "photographs or field sketches",
-          "a plan or map only",
-          "GNSS tracks only"
+          "photographs or hand-drawn field sketches",
+          "audio recordings of interviews with villagers",
+          "GNSS tracks recorded with a handheld device"
         ],
         "explanation": "Data collected by observation can be presented as photographs or field sketches, and survey data as a plan or map."
       },
       "ta": {
         "q": "களஆய்வு அறிக்கையில் இரண்டாம் நிலை மூலங்களிலிருந்து திரட்டிய தரவுகளை எவ்வாறு வெளிப்படுத்தலாம்?",
         "options": [
-          "அட்டவணைகள், வரைபடங்கள், விளக்கப்படங்கள் அல்லது வரைபடக் குறிப்புகளாக",
-          "புகைப்படங்கள் அல்லது கள ஓவியங்களாக",
-          "திட்டம் அல்லது வரைபடமாக மட்டும்",
-          "GNSS தடங்களாக மட்டும்"
+          "அட்டவணைகள், வரைபடங்கள், விளக்கப்படங்களாக",
+          "புகைப்படங்கள் அல்லது கையால் வரைந்த கள ஓவியங்களாக",
+          "கிராம மக்களுடனான நேர்காணல்களின் ஒலிப்பதிவுகளாக",
+          "கையடக்கக் கருவியில் பதிவான GNSS தடங்களாக"
         ],
         "explanation": "அவதானிப்பு வழிப்பெற்ற தரவுகளைப் புகைப்படம், கள ஓவியமாகவும், ஆய்வுத் தரவுகளை திட்டம் அல்லது வரைபடமாகவும் காட்டலாம்."
       }

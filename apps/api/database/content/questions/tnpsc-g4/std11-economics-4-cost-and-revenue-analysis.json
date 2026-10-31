@@ -104,7 +104,7 @@
           "Sunk cost",
           "Implicit cost",
           "Social cost",
-          "Explicit cost (paid out cost)"
+          "Explicit cost"
         ],
         "explanation": "Explicit cost is also called accounting cost, out of pocket cost or money cost; it includes wages, raw material and rent."
       },
@@ -112,9 +112,9 @@
         "q": "உற்பத்திக் காரணிகளை வாங்குவதற்குப் பிறருக்குச் செலுத்தும் தொகை",
         "options": [
           "மூழ்கிய செலவு",
-          "உள்ளார்ந்த (மறைமுகச்) செலவு",
+          "மறைமுகச் செலவு",
           "சமூகச் செலவு",
-          "வெளிப்படைச் செலவு (செலுத்திய செலவு)"
+          "வெளிப்படைச் செலவு"
         ],
         "explanation": "வெளிப்படைச் செலவு கணக்குச் செலவு, சொந்தப் பணச் செலவு, பணச் செலவு எனவும் அழைக்கப்படும்; ஊதியம், மூலப்பொருள், வாடகை இதில் அடங்கும்."
       }
@@ -140,7 +140,7 @@
       "ta": {
         "q": "நிறுவனம் ஏற்கெனவே சொந்தமாக வைத்துள்ள வளங்களைப் (சொந்த நிலம், கட்டடம், இயந்திரம்) பயன்படுத்தியதற்குக் கணக்கிடப்படும் தொகை",
         "options": [
-          "மறைமுக (கணிப்புச்) செலவு",
+          "மறைமுகச் செலவு",
           "வெளிப்படைச் செலவு",
           "இறுதிநிலைச் செலவு",
           "உண்மைச் செலவு"
@@ -190,7 +190,7 @@
         "options": [
           "Sunk cost",
           "Explicit cost",
-          "Social cost (external cost)",
+          "Social cost",
           "Opportunity cost"
         ],
         "explanation": "Alfred Marshall defined social cost as the efforts and sacrifices undergone by the various members of society in producing a commodity."
@@ -200,7 +200,7 @@
         "options": [
           "மூழ்கிய செலவு",
           "வெளிப்படைச் செலவு",
-          "சமூகச் செலவு (வெளிச் செலவு)",
+          "சமூகச் செலவு",
           "வாய்ப்புச் செலவு"
         ],
         "explanation": "பொருள் உற்பத்தியில் சமூக உறுப்பினர்கள் மேற்கொள்ளும் முயற்சி, தியாகங்களே சமூகச் செலவு என மார்ஷல் வரையறுத்தார்."
@@ -256,7 +256,7 @@
       "ta": {
         "q": "கடந்த காலத்தில் செலவிடப்பட்டு, எதிர்காலத்தில் மீட்க முடியாத, எதிர்கால வணிக முடிவுகளுக்குப் பொருந்தாத செலவு",
         "options": [
-          "மூழ்கிய செலவு (Sunk cost)",
+          "மூழ்கிய செலவு",
           "மிதக்கும் செலவு",
           "மறைமுகச் செலவு",
           "முதன்மைச் செலவு"
@@ -363,9 +363,9 @@
         "q": "The TVC and TC curves have the same shape, but their beginning points are different. Where does the TC curve start?",
         "options": [
           "From the level of TFC on the cost axis",
-          "From the origin",
-          "From the level of AVC",
-          "From the level of MC"
+          "From the origin of the cost and output axes",
+          "From the level of AVC on the cost axis",
+          "From the level of MC on the cost axis"
         ],
         "explanation": "The TVC curve starts from the origin, as no variable cost is incurred at zero output; the TC curve lies above the TFC curve."
       },
@@ -373,9 +373,9 @@
         "q": "TVC, TC வளைகோடுகள் ஒரே வடிவம் உடையவை; ஆனால் தொடக்கப் புள்ளி வேறுபடும். TC வளைகோடு எங்கிருந்து தொடங்கும்?",
         "options": [
           "செலவு அச்சில் TFC அளவிலிருந்து",
-          "ஆதிப்புள்ளியிலிருந்து",
-          "AVC அளவிலிருந்து",
-          "MC அளவிலிருந்து"
+          "செலவு, வெளியீட்டு அச்சுகளின் ஆதிப்புள்ளியிலிருந்து",
+          "செலவு அச்சில் AVC அளவிலிருந்து",
+          "செலவு அச்சில் MC அளவிலிருந்து"
         ],
         "explanation": "வெளியீடு பூஜ்யமாக இருக்கும்போது மாறும் செலவு இல்லை என்பதால் TVC வளைகோடு ஆதிப்புள்ளியிலிருந்து தொடங்குகிறது; TC வளைகோடு TFCக்கு மேலே அமையும்."
       }
@@ -855,20 +855,20 @@
       "en": {
         "q": "Under perfect competition, where the price is uniform and fixed, the relationship between AR and MR is",
         "options": [
-          "AR is greater than MR",
-          "AR is equal to MR, and both are horizontal straight lines",
-          "AR is less than MR",
-          "MR is zero while AR is positive"
+          "AR is greater than MR, and MR lies below AR",
+          "AR equals MR, and both are horizontal lines",
+          "AR is less than MR, and AR lies below MR",
+          "MR is zero while AR remains positive"
         ],
         "explanation": "If a firm can sell additional units only by reducing the price, both AR and MR fall and are different."
       },
       "ta": {
         "q": "நிறைவுப் போட்டியில் விலை ஒரே சீராக நிலையாக இருப்பதால், AR க்கும் MR க்கும் உள்ள தொடர்பு",
         "options": [
-          "AR, MR ஐவிடப் பெரியது",
-          "AR = MR; இரண்டும் கிடைமட்ட நேர்கோடுகள்",
-          "AR, MR ஐவிடச் சிறியது",
-          "AR நேர்மறை; MR பூஜ்யம்"
+          "AR, MR ஐவிடப் பெரியது; MR கீழே அமையும்",
+          "AR = MR; இரண்டும் கிடைமட்டக் கோடுகள்",
+          "AR, MR ஐவிடச் சிறியது; AR கீழே அமையும்",
+          "AR நேர்மறை; ஆனால் MR பூஜ்யம்"
         ],
         "explanation": "கூடுதல் அலகுகளை விலை குறைத்து மட்டுமே விற்க முடிந்தால் AR, MR இரண்டும் குறைந்து வேறுபடும்."
       }

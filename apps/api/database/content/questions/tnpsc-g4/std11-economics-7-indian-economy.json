@@ -141,9 +141,9 @@
         "q": "மக்கள்தொகையின் பண்புகளைப் பற்றிய அறிவியல் ஆய்வு எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "மக்கள்தொகையியல்",
-          "சூழலியல்",
-          "புவியியல்",
-          "மானிடவியல்"
+          "உயிர்ச் சூழலியல்",
+          "இயற்கைப் புவியியல்",
+          "சமூக மானிடவியல்"
         ],
         "explanation": "மக்கள்தொகையின் அளவு, வளர்ச்சி, பிறப்பு–இறப்பு விகிதம், அடர்த்தி, பாலின விகிதம், ஆயுட்காலம், எழுத்தறிவு போன்ற பண்புகளைப் பற்றிய அறிவியல் ஆய்வே மக்கள்தொகையியல்."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "Why is 1951 called the 'Year of Small Divide'?",
         "options": [
-          "The growth rate rose to nearly 2%",
-          "The population crossed one billion",
+          "The population growth rate rose to nearly 2% per year",
+          "The population crossed one billion for the first time",
           "The population growth rate came down from 1.33% to 1.25%",
-          "The population fell because of famines"
+          "The population fell sharply because of repeated famines"
         ],
         "explanation": "In 1951 the growth rate fell from 1.33% to 1.25% — the Year of Small Divide; 1961, with about 2% growth, was the Year of Population Explosion."
       },
       "ta": {
         "q": "1951 'சிறு பிரிவின் ஆண்டு' என அழைக்கப்படுவது ஏன்?",
         "options": [
-          "வளர்ச்சி விகிதம் ஏறத்தாழ 2% ஆக உயர்ந்ததால்",
-          "மக்கள்தொகை நூறு கோடியைக் கடந்ததால்",
+          "மக்கள்தொகை வளர்ச்சி விகிதம் ஆண்டுக்கு ஏறத்தாழ 2% ஆக உயர்ந்ததால்",
+          "இந்தியாவின் மக்கள்தொகை முதன்முறையாக நூறு கோடியைக் கடந்ததால்",
           "மக்கள்தொகை வளர்ச்சி விகிதம் 1.33% இலிருந்து 1.25% ஆகக் குறைந்ததால்",
-          "பஞ்சங்களால் மக்கள்தொகை குறைந்ததால்"
+          "தொடர்ச்சியான பஞ்சங்களால் மக்கள்தொகை பெருமளவு குறைந்ததால்"
         ],
         "explanation": "1951 இல் வளர்ச்சி விகிதம் 1.33% இலிருந்து 1.25% ஆகக் குறைந்ததால் அது சிறு பிரிவின் ஆண்டு; ஏறத்தாழ 2% வளர்ச்சி கண்ட 1961 மக்கள்தொகை வெடிப்பின் ஆண்டு."
       }
@@ -518,7 +518,7 @@
         "q": "இவற்றுள் பொருளாதார உள்கட்டமைப்பு அல்லாத சமூக உள்கட்டமைப்பு எது?",
         "options": [
           "போக்குவரத்து",
-          "நலவாழ்வு (சுகாதாரம்)",
+          "நலவாழ்வு",
           "ஆற்றல்",
           "வங்கிகள், காப்பீடு"
         ],
@@ -536,20 +536,20 @@
       "en": {
         "q": "Air India and Indian Airlines were merged in 2007 to form",
         "options": [
-          "Pawan Hans Ltd.",
+          "Pawan Hans Helicopters Limited",
           "Airports Authority of India",
-          "National Aviation Company of India Ltd. (NACIL)",
-          "Air India Express Ltd."
+          "National Aviation Company of India",
+          "Air India Express Limited"
         ],
         "explanation": "Air India and Indian Airlines merged on 27 August 2007 to form the National Aviation Company of India Ltd. (NACIL)."
       },
       "ta": {
         "q": "2007 இல் ஏர் இந்தியாவும் இந்தியன் ஏர்லைன்ஸும் இணைந்து உருவான நிறுவனம்",
         "options": [
-          "பவன் ஹன்ஸ் லிமிடெட்",
-          "இந்திய விமான நிலைய ஆணையம்",
-          "நேஷனல் ஏவியேஷன் கம்பெனி ஆஃப் இந்தியா லிமிடெட் (NACIL)",
-          "ஏர் இந்தியா எக்ஸ்பிரஸ் லிமிடெட்"
+          "பவன் ஹன்ஸ் ஹெலிகாப்டர்ஸ் லிமிடெட்",
+          "இந்திய விமான நிலையங்கள் ஆணையம்",
+          "நேஷனல் ஏவியேஷன் கம்பெனி ஆஃப் இந்தியா",
+          "ஏர் இந்தியா எக்ஸ்பிரஸ் விமான நிறுவனம்"
         ],
         "explanation": "2007 ஆகஸ்ட் 27 அன்று ஏர் இந்தியாவும் இந்தியன் ஏர்லைன்ஸும் இணைந்து NACIL உருவானது."
       }
@@ -565,9 +565,9 @@
       "en": {
         "q": "The National Harbour Board, set up in 1950, advises governments on the management and development of",
         "options": [
-          "railway zones",
-          "airports",
-          "national highways",
+          "railway zones across the country",
+          "airports and airline routes",
+          "national highways and expressways",
           "ports, particularly minor ports"
         ],
         "explanation": "The National Harbour Board (1950) advises the Central and State Governments on managing and developing ports, especially minor ports."
@@ -575,9 +575,9 @@
       "ta": {
         "q": "1950 இல் அமைக்கப்பட்ட தேசியத் துறைமுக வாரியம் எதன் மேலாண்மை, மேம்பாடு பற்றி அரசுகளுக்கு ஆலோசனை வழங்குகிறது?",
         "options": [
-          "இரயில்வே மண்டலங்கள்",
-          "விமான நிலையங்கள்",
-          "தேசிய நெடுஞ்சாலைகள்",
+          "நாடு முழுவதும் உள்ள இரயில்வே மண்டலங்கள்",
+          "விமான நிலையங்களும் விமானப் பாதைகளும்",
+          "தேசிய நெடுஞ்சாலைகளும் விரைவுச் சாலைகளும்",
           "துறைமுகங்கள், குறிப்பாகச் சிறு துறைமுகங்கள்"
         ],
         "explanation": "1950 இல் அமைக்கப்பட்ட தேசியத் துறைமுக வாரியம் துறைமுகங்கள், குறிப்பாகச் சிறு துறைமுகங்களின் மேலாண்மை, மேம்பாடு பற்றி மத்திய, மாநில அரசுகளுக்கு ஆலோசனை வழங்குகிறது."
@@ -596,7 +596,7 @@
         "options": [
           "Concurrent List",
           "Union List",
-          "State List only",
+          "State List",
           "Residuary powers"
         ],
         "explanation": "Until 1976 education was a state subject; it was then moved to the Concurrent List, shared by the Centre and the States."
@@ -604,9 +604,9 @@
       "ta": {
         "q": "1976 வரை மாநில அரசுகளின் பொறுப்பாக இருந்த கல்வி பின்னர் எந்தப் பட்டியலுக்கு மாற்றப்பட்டது?",
         "options": [
-          "பொதுப் பட்டியல் (Concurrent List)",
+          "பொதுப் பட்டியல்",
           "ஒன்றியப் பட்டியல்",
-          "மாநிலப் பட்டியல் மட்டும்",
+          "மாநிலப் பட்டியல்",
           "எஞ்சிய அதிகாரங்கள்"
         ],
         "explanation": "1976 வரை மாநிலப் பொருளாக இருந்த கல்வி பின்னர் மத்திய, மாநில அரசுகள் இரண்டுக்கும் உரிய பொதுப் பட்டியலுக்கு மாற்றப்பட்டது."
@@ -624,7 +624,7 @@
         "q": "Under which ministry are systems such as Siddha, Ayurveda, Unani, Homeopathy and Yoga now placed?",
         "options": [
           "Ministry of Science and Technology",
-          "AYUSH",
+          "Ministry of AYUSH",
           "Ministry of Culture",
           "Ministry of Rural Development"
         ],
@@ -634,7 +634,7 @@
         "q": "சித்தா, ஆயுர்வேதம், யுனானி, ஹோமியோபதி, யோகா போன்ற மருத்துவ முறைகள் இப்போது எந்த அமைச்சகத்தின் கீழ் உள்ளன?",
         "options": [
           "அறிவியல், தொழில்நுட்ப அமைச்சகம்",
-          "ஆயுஷ் (AYUSH)",
+          "ஆயுஷ் அமைச்சகம்",
           "பண்பாட்டு அமைச்சகம்",
           "ஊரக வளர்ச்சி அமைச்சகம்"
         ],
@@ -681,20 +681,20 @@
       "en": {
         "q": "What was Thiruvalluvar's view on external assistance, according to Kural 739?",
         "options": [
-          "Only agriculture should depend on foreign help",
-          "Every country must seek foreign aid",
-          "External assistance is the basis of a welfare state",
-          "Countries depending on external assistance are not real countries; he favoured self-sufficiency"
+          "The farm sector should depend on foreign help during droughts",
+          "A country should seek foreign aid to grow rich and strong",
+          "External assistance is the foundation of a true welfare state",
+          "A country depending on external assistance is not a real country"
         ],
         "explanation": "Per Kural 739, countries that take external assistance are not countries at all — Thiruvalluvar advocated a self-sufficient economy."
       },
       "ta": {
         "q": "குறள் 739 இன்படி வெளிநாட்டு உதவி பற்றிய திருவள்ளுவரின் கருத்து என்ன?",
         "options": [
-          "வேளாண்மை மட்டுமே வெளி உதவியைச் சார வேண்டும்",
-          "ஒவ்வொரு நாடும் வெளிநாட்டு உதவியை நாட வேண்டும்",
-          "வெளி உதவியே நலஅரசின் அடிப்படை",
-          "வெளி உதவியைச் சார்ந்த நாடு நாடே அல்ல; தற்சார்பையே அவர் வலியுறுத்தினார்"
+          "வறட்சிக் காலத்தில் வேளாண்மை வெளி உதவியைச் சார வேண்டும்",
+          "வளம் பெற நாடு வெளிநாட்டு உதவியை நாட வேண்டும்",
+          "வெளி உதவியே உண்மையான நல அரசின் அடித்தளம் ஆகும்",
+          "வெளி உதவியைச் சார்ந்த நாடு உண்மையான நாடே அல்ல"
         ],
         "explanation": "குறள் 739 இன்படி வெளி உதவியைப் பெறும் நாடுகள் நாடுகளே அல்ல; திருவள்ளுவர் தற்சார்புப் பொருளாதாரத்தை வலியுறுத்தினார்."
       }
@@ -739,20 +739,20 @@
       "en": {
         "q": "What did Gandhi mean by 'bread labour'?",
         "options": [
-          "Working in bakeries",
-          "Manual labour — earning one's bread by the sweat of one's brow",
-          "Free food distribution",
-          "Labour by machines"
+          "Working in bakeries to bake bread",
+          "Manual labour to earn one's daily bread",
+          "Free distribution of food to the poor",
+          "Labour done by machines in factories"
         ],
         "explanation": "Bread labour, or body labour, was Gandhi's term for manual labour, expressing the dignity of earning bread by one's own sweat."
       },
       "ta": {
         "q": "காந்தியடிகள் 'உடல் உழைப்பு' (bread labour) என்பதால் குறித்தது என்ன?",
         "options": [
-          "அடுமனைகளில் வேலை செய்தல்",
-          "நெற்றி வியர்வை நிலத்தில் சிந்த உழைத்து உணவு பெறும் கைஉழைப்பு",
-          "இலவச உணவு வழங்குதல்",
-          "இயந்திரங்களின் உழைப்பு"
+          "அடுமனைகளில் ரொட்டி சுடும் வேலை",
+          "தினசரி உணவுக்காகச் செய்யும் கைஉழைப்பு",
+          "ஏழைகளுக்கு இலவசமாக உணவு வழங்குதல்",
+          "தொழிற்சாலைகளில் இயந்திரங்கள் செய்யும் உழைப்பு"
         ],
         "explanation": "'Bread labour' அல்லது உடல் உழைப்பு என்பது கைஉழைப்பைக் குறிக்கக் காந்தியடிகள் பயன்படுத்திய சொல்; உழைப்பின் மாண்பை அது வலியுறுத்துகிறது."
       }
@@ -768,20 +768,20 @@
       "en": {
         "q": "Gandhi's Doctrine of Trusteeship was meant to",
         "options": [
-          "promote large-scale industrialisation",
-          "hand over all land to the government",
-          "transform the capitalist order of society into an egalitarian one",
-          "abolish village panchayats"
+          "encourage the growth of large factories in cities",
+          "transfer private land to government ownership",
+          "transform the capitalist order into an egalitarian society",
+          "end the system of village panchayats in India"
         ],
         "explanation": "Trusteeship was Gandhi's means of transforming the capitalist social order into an egalitarian one."
       },
       "ta": {
         "q": "காந்தியடிகளின் தர்மகர்த்தா (Trusteeship) கோட்பாட்டின் நோக்கம்",
         "options": [
-          "பெருந்தொழில்மயமாக்கலை ஊக்குவிப்பது",
-          "எல்லா நிலங்களையும் அரசிடம் ஒப்படைப்பது",
-          "முதலாளித்துவச் சமூக அமைப்பைச் சமத்துவச் சமூகமாக மாற்றுவது",
-          "கிராமப் பஞ்சாயத்துகளை ஒழிப்பது"
+          "நகரங்களில் பெரிய தொழிற்சாலைகளை வளர்ப்பது",
+          "தனியார் நிலங்களை அரசு உடைமையாக்குவது",
+          "முதலாளித்துவ அமைப்பைச் சமத்துவச் சமூகமாக மாற்றுவது",
+          "இந்தியாவில் கிராமப் பஞ்சாயத்து முறையை ஒழிப்பது"
         ],
         "explanation": "தர்மகர்த்தா கோட்பாடு முதலாளித்துவச் சமூக அமைப்பைச் சமத்துவச் சமூகமாக மாற்றும் காந்தியடிகளின் வழிமுறை."
       }
@@ -855,20 +855,20 @@
       "en": {
         "q": "In his 1918 paper 'Small Holdings in India and their Remedies', Ambedkar distinguished between",
         "options": [
-          "direct and indirect taxes",
+          "direct taxes and indirect taxes on farmers",
           "consolidation of holdings and enlargement of holdings",
-          "rural and urban credit",
-          "Swaraj and Swadeshi"
+          "rural credit and urban credit for farmers",
+          "Swaraj and Swadeshi in the freedom struggle"
         ],
         "explanation": "In the 1918 paper, citing Adam Smith, Ambedkar distinguished consolidation of holdings from enlargement of holdings."
       },
       "ta": {
         "q": "1918 இல் வெளியிட்ட 'இந்தியாவில் சிறு நிலவுடைமைகளும் அவற்றின் தீர்வுகளும்' கட்டுரையில் அம்பேத்கர் எவற்றை வேறுபடுத்தினார்?",
         "options": [
-          "நேர்முக, மறைமுக வரிகள்",
+          "விவசாயிகள் மீதான நேர்முக, மறைமுக வரிகள்",
           "நிலவுடைமை ஒருங்கிணைப்பு, நிலவுடைமை விரிவாக்கம்",
-          "கிராம, நகரக் கடன்",
-          "சுயராஜ்யம், சுதேசி"
+          "விவசாயிகளுக்கான கிராம, நகரக் கடன்",
+          "விடுதலைப் போராட்டத்தில் சுயராஜ்யம், சுதேசி"
         ],
         "explanation": "1918 கட்டுரையில் ஆடம் ஸ்மித்தை மேற்கோள் காட்டி அம்பேத்கர் நிலவுடைமை ஒருங்கிணைப்பையும் விரிவாக்கத்தையும் வேறுபடுத்தினார்."
       }
@@ -1029,8 +1029,8 @@
       "en": {
         "q": "According to Amartya Sen, famine arises out of",
         "options": [
-          "foreign trade",
-          "a simple shortage of rainfall alone",
+          "growth in foreign trade",
+          "a simple shortage of rainfall",
           "excessive industrialisation",
           "the failure of a system of entitlements"
         ],
@@ -1039,10 +1039,10 @@
       "ta": {
         "q": "அமர்த்தியா சென்னின்படி பஞ்சம் எதனால் ஏற்படுகிறது?",
         "options": [
-          "வெளிநாட்டு வணிகத்தால்",
-          "மழைக் குறைவால் மட்டும்",
+          "வெளிநாட்டு வணிகத்தின் வளர்ச்சியால்",
+          "மழைக் குறைவு என்ற எளிய காரணத்தால்",
           "அளவுக்கு மீறிய தொழில்மயமாக்கலால்",
-          "உரிமை (entitlement) அமைப்பு நிறுவப்படாத தோல்வியால்"
+          "உரிமை அமைப்பு தோல்வியடைந்ததால்"
         ],
         "explanation": "'வறுமையும் பஞ்சங்களும்' (1981) நூலில் பஞ்சம் உணவுப் பற்றாக்குறையால் மட்டுமன்றி உரிமை அமைப்பின் தோல்வியால் ஏற்படுகிறது எனச் சென் வாதிட்டார்."
       }

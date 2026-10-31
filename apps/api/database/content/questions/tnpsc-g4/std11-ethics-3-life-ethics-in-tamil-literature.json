@@ -159,20 +159,20 @@
       "en": {
         "q": "According to the poet Nalvettanar, what is true wealth?",
         "options": [
-          "Gold and jewels",
-          "Removing the sufferings of others",
-          "Lands and cattle",
-          "Fame and power"
+          "Gold and jewels kept in one's house",
+          "Removing the sufferings of other people",
+          "Lands and cattle owned by a family",
+          "Fame and power in the royal court"
         ],
         "explanation": "Another line (Natrinai 210) says that the wealth of the noble is the gentle quality that shrinks at the distress of those who depend on them."
       },
       "ta": {
         "q": "நல்வேட்டனாரின் கருத்துப்படி, உண்மையான செல்வம் எது?",
         "options": [
-          "பொன்னும் மணியும்",
-          "பிறர் துன்பம் தீர்ப்பது",
-          "நிலமும் கால்நடையும்",
-          "புகழும் அதிகாரமும்"
+          "வீட்டில் சேர்த்து வைத்த பொன்னும் மணியும்",
+          "பிறர் துன்பத்தைத் தீர்த்து வைப்பது",
+          "குடும்பத்துக்கு உரிய நிலமும் கால்நடையும்",
+          "அரசவையில் பெறும் புகழும் அதிகாரமும்"
         ],
         "explanation": "சான்றோரின் செல்வம் என்பது, தம்மைச் சேர்ந்தோரின் துன்பத்துக்கு அஞ்சும் மென்மையான பண்பே என நற்றிணை (210) கூறுகிறது."
       }
@@ -217,19 +217,19 @@
       "en": {
         "q": "According to the Purananuru (333), when a household had nothing else to feed a guest, what did it do?",
         "options": [
-          "Asked the guest to cook for himself",
-          "Borrowed a cow from the neighbours",
-          "Sold the roof tiles of the house",
-          "Pounded the seed millet kept for sowing in a mortar and served it"
+          "Asked the guest to go and cook the meal for himself",
+          "Borrowed a cow from the neighbours to milk it for the guest",
+          "Sold the roof tiles of the house to buy rice for the guest",
+          "Pounded the seed millet kept for sowing and served it"
         ],
         "explanation": "The book gives this as an example of how far Sangam Tamils went in welcoming guests; another poem (Puram 327) shows grain borrowed on credit to feed guests."
       },
       "ta": {
         "q": "புறநானூற்றின் (333) படி, விருந்தினருக்கு அளிக்க வேறு உணவில்லாதபோது இல்லத்தார் என்ன செய்தனர்?",
         "options": [
-          "விருந்தினரையே சமைக்கச் சொன்னார்கள்",
-          "அண்டை வீட்டாரிடம் பசுவைக் கடனாகப் பெற்றனர்",
-          "வீட்டின் ஓடுகளை விற்றனர்",
+          "விருந்தினரையே சென்று சமைத்துக்கொள்ளச் சொன்னார்கள்",
+          "பால் பெற அண்டை வீட்டாரிடம் பசுவைக் கடனாகப் பெற்றனர்",
+          "உணவு வாங்க வீட்டின் ஓடுகளை விற்றனர்",
           "விதைத்தினையை உரலில் இட்டு இடித்து உணவளித்தனர்"
         ],
         "explanation": "விருந்தோம்பலில் சங்கத் தமிழர் கொண்டிருந்த ஈடுபாட்டுக்கு இது சான்று; புறம் 327 இல் வரகைக் கடனாகப் பெற்று விருந்தளித்த செய்தி உள்ளது."
@@ -275,20 +275,20 @@
       "en": {
         "q": "Who described a life without hospitality as 'virunthu kandu olikkum thirunthaa vaazhkkai' (the unreformed life that hides on seeing guests)?",
         "options": [
-          "Kapilar",
+          "Mangudi Maruthanar",
           "Perungunrur Kizhar",
-          "Avvaiyar",
-          "Nakkeerar"
+          "Aavoor Moolankizhar",
+          "Perunthalai Chathanar"
         ],
         "explanation": "The poem (Purananuru 266) treats the neglect of hospitality as a fault of character."
       },
       "ta": {
         "q": "'விருந்து கண்டு ஒளிக்கும் திருந்தா வாழ்க்கை' (புறம் 266) எனக் கூறியவர் யார்?",
         "options": [
-          "கபிலர்",
+          "மாங்குடி மருதனார்",
           "பெருங்குன்றூர்க்கிழார்",
-          "ஒளவையார்",
-          "நக்கீரர்"
+          "ஆவூர் மூலங்கிழார்",
+          "பெருந்தலைச் சாத்தனார்"
         ],
         "explanation": "விருந்தோம்பாத வாழ்க்கையைப் பண்பு திருந்தா வாழ்க்கை என இப்பாடல் சுட்டுகிறது."
       }
@@ -306,7 +306,7 @@
         "options": [
           "The tulsi platform",
           "The courtyard well",
-          "The thinnai (raised veranda)",
+          "The thinnai veranda",
           "The roof gable"
         ],
         "explanation": "Welcoming guests with a cheerful face and serving them food is described as the foremost duty of a householder."
@@ -316,7 +316,7 @@
         "options": [
           "துளசி மாடம்",
           "முற்றத்துக் கிணறு",
-          "திண்ணை",
+          "வீட்டுத் திண்ணை",
           "கூரை முகடு"
         ],
         "explanation": "முகம் கோணாது விருந்தினரை வரவேற்று உபசரிப்பது இல்லறத்தாரின் தலையாய கடமையாகக் கூறப்படுகிறது."
@@ -333,8 +333,8 @@
       "en": {
         "q": "Which of the following is NOT one of the women poets of the Sangam age mentioned in the book?",
         "options": [
-          "Nappasalaiyar",
-          "Avvaiyar",
+          "Kakkaipadiniyar",
+          "Velli Veethiyar",
           "Aathimanthiyar",
           "Karaikkal Ammaiyar"
         ],
@@ -343,8 +343,8 @@
       "ta": {
         "q": "நூலில் குறிப்பிடப்படும் சங்ககாலப் பெண்பாற் புலவர்களுள் இடம்பெறாதவர் யார்?",
         "options": [
-          "நப்பசலையார்",
-          "ஒளவையார்",
+          "காக்கைபாடினியார்",
+          "வெள்ளிவீதியார்",
           "ஆதிமந்தியார்",
           "காரைக்கால் அம்மையார்"
         ],
@@ -363,9 +363,9 @@
         "q": "On behalf of which chieftain did the poet Avvaiyar go as an envoy to Thondaiman, showing women's participation in public life?",
         "options": [
           "Athiyaman Neduman Anji",
-          "Pari",
-          "Pegan",
-          "Nalli"
+          "Pari of Parambu hills",
+          "Pegan of Aavinankudi",
+          "Nalli of Kandeeram"
         ],
         "explanation": "The book also notes that Paadini and Viraali were distinguished in dance and song."
       },
@@ -373,9 +373,9 @@
         "q": "பெண்கள் பொதுவாழ்க்கையிலும் பங்கேற்றதற்குச் சான்றாக, ஒளவை எந்தக் குறுநில மன்னனுக்காகத் தொண்டைமானிடம் தூது சென்றார்?",
         "options": [
           "அதியமான் நெடுமான் அஞ்சி",
-          "பாரி",
-          "பேகன்",
-          "நள்ளி"
+          "பறம்பு மலைத் தலைவன் பாரி",
+          "ஆவிநன்குடித் தலைவன் பேகன்",
+          "கண்டீரக் கோப்பெருநள்ளி"
         ],
         "explanation": "பாடினி, விறலி போன்றோர் ஆடல் பாடல் கலைகளில் சிறந்து விளங்கினர் எனவும் நூல் கூறுகிறது."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "What practice of the 'aram-por' (righteous war) of the Tamils is shown by Purananuru 9?",
         "options": [
-          "Both armies exchanged gifts before battle",
-          "Soldiers were forbidden to fight at night",
-          "Cows, Brahmins, women, the sick and the childless were warned beforehand to move to safe places before the war began",
-          "Wounded soldiers were sent home with compensation"
+          "Both armies exchanged gifts and greetings before the battle began each day",
+          "Soldiers were forbidden to fight at night and had to return to camp at sunset",
+          "Cows, Brahmins, women, the sick and the childless were warned to move to safe places before the war",
+          "Wounded soldiers were sent home with compensation from the king's treasury"
         ],
         "explanation": "The poem shows that Tamils kept to aram even in the heat of battle."
       },
       "ta": {
         "q": "புறநானூறு 9 இல் காணப்படும் அறப்போர் முறை எது?",
         "options": [
-          "போருக்கு முன் இருதரப்பும் பரிசுகள் பரிமாறிக்கொண்டது",
-          "இரவில் போர் புரியக்கூடாது எனத் தடை விதித்தது",
-          "பசுக்கள், பார்ப்பனர், பெண்டிர், நோயுற்றோர், மக்கட்பேறு இல்லாதோர் ஆகியோர் பாதுகாப்பான இடங்களுக்குச் செல்லுமாறு போருக்கு முன் அறிவுறுத்தியது",
-          "காயமுற்ற வீரர்களுக்கு இழப்பீடு அளித்து அனுப்பியது"
+          "போருக்கு முன் இருதரப்பும் வாழ்த்துகளையும் பரிசுகளையும் பரிமாறிக்கொண்டு போரைத் தொடங்கியது",
+          "இரவில் போர் புரியக்கூடாது என்றும் மாலையில் முகாம் திரும்ப வேண்டும் என்றும் விதித்தது",
+          "பசுக்கள், பார்ப்பனர், பெண்டிர், நோயுற்றோர், மக்கட்பேறு இல்லாதோர் போருக்கு முன் பாதுகாப்பான இடம் செல்ல அறிவுறுத்தப்பட்டனர்",
+          "காயமுற்ற வீரர்களுக்கு அரசு கருவூலத்திலிருந்து இழப்பீடு அளித்து ஊருக்கு அனுப்பியது"
         ],
         "explanation": "வீரம் செறிந்த போரிலும் அறநெறியைக் காத்தவர் தமிழர் என இப்பாடல் காட்டுகிறது."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "According to the book, which duty of kings for agriculture was stressed by the Purananuru poets (as in Purananuru 18)?",
         "options": [
-          "To distribute free seeds every year",
-          "To levy heavy taxes on farmers",
-          "To create water sources such as reservoirs so that farming and food production could flourish",
-          "To ban cultivation in the hills"
+          "To distribute free seeds to the farmers before each sowing season",
+          "To levy heavy taxes on farmers to fill the royal treasury and army",
+          "To create water sources such as reservoirs for farming to flourish",
+          "To ban cultivation in the hills in order to protect the forests there"
         ],
         "explanation": "The poets advised kings to rule with aram as the first principle."
       },
       "ta": {
         "q": "புறநானூற்றுப் புலவர்கள் (புறம் 18) உழவு தொடர்பாக அரசர்களின் எந்தக் கடமையை வலியுறுத்தினர்?",
         "options": [
-          "ஆண்டுதோறும் இலவச விதை வழங்குதல்",
-          "உழவர்களிடம் மிகுதியாக வரி வசூலித்தல்",
+          "ஒவ்வொரு விதைப்புக் காலத்துக்கு முன்பும் இலவச விதை வழங்குதல்",
+          "அரசுக் கருவூலம் நிரம்ப உழவர்களிடம் மிகுதியாக வரி வசூலித்தல்",
           "உழவு செழித்து உணவு பெருக நீர்நிலைகளை அமைத்துத் தருதல்",
-          "மலைகளில் உழவுக்குத் தடை விதித்தல்"
+          "காடுகளைக் காக்க மலைகளில் உழவுக்குத் தடை விதித்தல்"
         ],
         "explanation": "அரசர்கள் அறநெறியையே முதன்மையாகக் கொண்டு ஆள வேண்டும் எனப் புலவர்கள் அறிவுறுத்தினர்."
       }
@@ -595,9 +595,9 @@
         "q": "Which Sangam poet's Purananuru line 'Yaadhum oore yaavarum kelir' expresses the broad-mindedness of Sangam Tamils who lived for others?",
         "options": [
           "Kaniyan Poongundranar",
-          "Avvaiyar",
-          "Kapilar",
-          "Nakkeerar"
+          "Perungunrur Kizhar",
+          "Aavoor Moolankizhar",
+          "Mangudi Maruthanar"
         ],
         "explanation": "The book says this song has crossed the boundaries of time and place and lives on even today."
       },
@@ -605,9 +605,9 @@
         "q": "'யாதும் ஊரே யாவரும் கேளிர்' என்னும் புறநானூற்றுப் பாடலடியின் ஆசிரியர் யார்?",
         "options": [
           "கணியன் பூங்குன்றனார்",
-          "ஒளவையார்",
-          "கபிலர்",
-          "நக்கீரர்"
+          "பெருங்குன்றூர் கிழார்",
+          "ஆவூர் மூலங்கிழார்",
+          "மாங்குடி மருதனார்"
         ],
         "explanation": "இப்பாடல் கால, நில எல்லைகளைக் கடந்து இன்றும் வாழ்கிறது என நூல் கூறுகிறது."
       }
@@ -710,10 +710,10 @@
       "en": {
         "q": "To what does Valluvar compare the wealth that has come to a person of good character?",
         "options": [
-          "A fruit-bearing tree in the middle of the village, a full village pond and a medicinal tree",
-          "A flooded river, a thorny hedge and a rock",
-          "A temple tower, a palace and a fort",
-          "A mountain, an ocean and a forest"
+          "A fruit tree in the village centre, a full village pond and a medicinal tree",
+          "A river in flood, a thorny hedge around a field and a large rock",
+          "A temple tower in the town, a royal palace and a stone fort",
+          "A tall mountain, a vast ocean and a dense forest"
         ],
         "explanation": "Wealth in the hands of the cultured benefits everybody, whereas the wealth of the cruel harms others, like milk spoiling in an unclean vessel."
       },
@@ -721,9 +721,9 @@
         "q": "பண்புடையவரிடம் சேர்ந்த செல்வத்தை வள்ளுவர் எவற்றுக்கு ஒப்பிடுகிறார்?",
         "options": [
           "ஊரின் நடுவே பழுத்த பயன்மரம், நிறைந்த ஊருணி, மருத்துவ மரம்",
-          "பெருகியோடும் ஆறு, முள்வேலி, பாறை",
-          "கோயில் கோபுரம், அரண்மனை, கோட்டை",
-          "மலை, கடல், காடு"
+          "பெருகியோடும் ஆறு, வயலைச் சுற்றிய முள்வேலி, பெரும்பாறை",
+          "நகரில் உள்ள கோயில் கோபுரம், அரண்மனை, கற்கோட்டை",
+          "உயர்ந்த மலை, பரந்த கடல், அடர்ந்த காடு"
         ],
         "explanation": "பண்புடையோர் செல்வம் அனைவருக்கும் பயன்படும்; கொடியோரின் செல்வம், தூய்மையற்ற பாத்திரத்தில் பால் திரிவதுபோலப் பிறருக்குக் கேடு விளைவிக்கும்."
       }
@@ -884,20 +884,20 @@
       "en": {
         "q": "To what does the Nannool compare the ideal relationship between teacher and student?",
         "options": [
-          "A tree and its shade",
-          "A boat and its oarsman",
-          "Warming oneself by a fire, neither too close nor too far",
-          "A river and its banks"
+          "A tree and the cool shade it gives to those resting below",
+          "A boat and the oarsman who steers it across the river",
+          "Warming oneself at a fire, neither too near nor too far",
+          "A river and the two banks that hold its flow on either side"
         ],
         "explanation": "Such a relationship, the Nannool says, makes the work of learning and teaching flourish."
       },
       "ta": {
         "q": "நன்னூல் ஆசிரியர்-மாணாக்கர் உறவை எதனோடு ஒப்பிடுகிறது?",
         "options": [
-          "மரமும் நிழலும் போல",
-          "படகும் படகோட்டியும் போல",
-          "நெருப்பில் குளிர் காய்வதுபோல, மிக நெருங்காமலும் மிகவிலகாமலும் இருப்பதோடு",
-          "ஆறும் கரைகளும் போல"
+          "வழிப்போக்கர்களுக்கு நிழல் தந்து குளிர்விக்கும் மரத்தைப் போல",
+          "பயணிகளை ஆற்றின் மறுகரைக்குக் கடத்தும் படகோட்டியைப் போல",
+          "நெருப்பில் குளிர் காய்பவர்போல மிக நெருங்காமல், மிக விலகாமல் இருப்பதோடு",
+          "ஆற்று நீரைத் தடுத்து அணைத்து நிற்கும் இரு கரைகளைப் போல"
         ],
         "explanation": "இத்தகைய உறவு முறையே கற்றல்-கற்பித்தல் பணியைச் சிறக்கச் செய்யும் என நன்னூலார் கருதுகிறார்."
       }
@@ -913,19 +913,19 @@
       "en": {
         "q": "According to the Nannool, how is complete knowledge gained?",
         "options": [
-          "Equal thirds from the teacher, books and practice",
-          "Half from the teacher, one-fourth by discussion, and one-fourth by self-study",
-          "Three-fourths from the teacher and one-fourth by discussion",
-          "One-fourth from the teacher, one-fourth by discussion with fellow students, and one-half by explaining it to students and in an assembly of the learned"
+          "Equal thirds from the teacher, from books and from daily practice",
+          "Half from the teacher, one-fourth by discussion with classmates, and one-fourth by self-study",
+          "Three-fourths from the teacher and one-fourth by discussion with classmates",
+          "One-fourth from the teacher, one-fourth from fellow students, and one-half by teaching others and in learned assemblies"
         ],
         "explanation": "The Nannool says one learns completely only when one also teaches and explains to others."
       },
       "ta": {
         "q": "நன்னூலின்படி, முழு அறிவு எவ்வாறு நிறைவடைகிறது?",
         "options": [
-          "ஆசிரியர், நூல், பயிற்சி ஆகியவற்றிடமிருந்து சமமாக மூன்றில் ஒரு பங்கு",
-          "ஆசிரியரிடம் அரைப்பகுதி, உரையாடலில் கால்பகுதி, தனிப்படிப்பில் கால்பகுதி",
-          "ஆசிரியரிடம் முக்கால்பகுதி, உரையாடலில் கால்பகுதி",
+          "ஆசிரியர், நூல், தினசரிப் பயிற்சி ஆகியவற்றிடமிருந்து சமமாக மூன்றில் ஒரு பங்கு",
+          "ஆசிரியரிடம் அரைப்பகுதி, உடன் பயில்வோருடன் உரையாடலில் கால்பகுதி, தனிப்படிப்பில் கால்பகுதி",
+          "ஆசிரியரிடம் முக்கால்பகுதி, உடன் பயில்வோருடன் உரையாடலில் கால்பகுதி என்ற விகிதத்தில்",
           "ஆசிரியரிடம் கால்பகுதி, உடன் பயில்வோருடன் உரையாடுவதில் கால்பகுதி, பிறருக்கும் அவையிலும் விரித்துரைப்பதால் அரைப்பகுதி"
         ],
         "explanation": "பிறருக்கு எடுத்துரைக்கும்போதே கற்றது முழுமையடைகிறது என நன்னூல் கருதுகிறது."
@@ -971,10 +971,10 @@
       "en": {
         "q": "By asking that his daughter be named 'Manimekalai' in memory of the goddess who saved his ancestor from a shipwreck, which trait of Kovalan does the book highlight?",
         "options": [
-          "His compassion towards the old",
-          "Not forgetting a good turn received (gratitude)",
-          "His hospitality",
-          "His skill in the arts"
+          "His compassion towards the old and the poor",
+          "Not forgetting a good turn received",
+          "His hospitality towards visitors",
+          "His skill in music and the arts"
         ],
         "explanation": "Kovalan is also praised for saving an old man from an elephant, for his generosity to his wife, and for consoling the bereaved."
       },
@@ -1058,10 +1058,10 @@
       "en": {
         "q": "According to the Manimekalai, what is 'aram' (virtue)?",
         "options": [
-          "Providing food, clothing and shelter to all living beings",
-          "Performing sacrifices and rituals",
-          "Giving up worldly life",
-          "Winning wars to protect the country"
+          "Providing food, clothing and shelter to living beings",
+          "Performing sacrifices and rituals before the gods",
+          "Giving up worldly life and living as an ascetic",
+          "Winning wars to protect the country from enemies"
         ],
         "explanation": "The book says that giving humanity its basic needs of food, clothing and shelter is aram."
       },
@@ -1069,9 +1069,9 @@
         "q": "மணிமேகலையின்படி 'அறம்' எனப்படுவது எது?",
         "options": [
           "எல்லா உயிர்களுக்கும் உணவு, உடை, உறையுள் வழங்குதல்",
-          "வேள்விகளும் சடங்குகளும் செய்தல்",
-          "உலக வாழ்வைத் துறத்தல்",
-          "நாட்டைக் காக்கப் போரில் வெல்லுதல்"
+          "தெய்வங்களுக்கு வேள்விகளும் சடங்குகளும் செய்தல்",
+          "உலக வாழ்வைத் துறந்து துறவு மேற்கொள்ளுதல்",
+          "பகைவரிடமிருந்து நாட்டைக் காக்கப் போரில் வெல்லுதல்"
         ],
         "explanation": "மனித சமுதாயத்தின் அடிப்படைத் தேவைகளான உணவு, உடை, உறையுள் ஆகியவற்றை வழங்குவதே அறம் என நூல் கூறுகிறது."
       }
@@ -1087,20 +1087,20 @@
       "en": {
         "q": "What is the central idea of the Manimekalai, according to the book?",
         "options": [
-          "Wealth alone ensures happiness",
-          "Hunger is the cause of many crimes, and crimes can be prevented by removing hunger",
-          "Kings must never wage war",
-          "Pilgrimage destroys sin"
+          "Wealth brings lasting happiness to the whole family",
+          "Hunger causes many crimes, which can be prevented by removing hunger",
+          "Kings should avoid war and settle disputes through talks",
+          "A pilgrimage to holy places destroys one's sins"
         ],
         "explanation": "Manimekalai, called 'Kanikaimagal' by the Chola king, rose to a high level of virtue and became a heroine of the epic."
       },
       "ta": {
         "q": "நூலின்படி, மணிமேகலையின் மையப்பொருள் யாது?",
         "options": [
-          "செல்வமே மகிழ்ச்சியை உறுதிசெய்யும்",
-          "பசிப்பிணியே பல குற்றங்களுக்குக் காரணம்; அதைப் போக்கினால் குற்றங்களைத் தடுக்கலாம்",
-          "அரசர்கள் போர் செய்யவே கூடாது",
-          "புனிதப் பயணம் பாவத்தை அழிக்கும்"
+          "செல்வம் குடும்பம் முழுவதற்கும் நிலையான மகிழ்ச்சி தரும்",
+          "பசிப்பிணியே குற்றங்களுக்குக் காரணம்; அதைப் போக்கினால் குற்றம் குறையும்",
+          "அரசர்கள் போரைத் தவிர்த்துப் பேச்சுவார்த்தையால் தீர்க்க வேண்டும்",
+          "புனிதத் தலங்களுக்குச் செல்லும் பயணம் பாவத்தை அழிக்கும்"
         ],
         "explanation": "சோழ மன்னனால் 'கணிகைமகள்' எனக் குறிக்கப்பெற்ற மணிமேகலை ஒழுக்கத்தின் உயர்வால் காப்பியத் தலைவியாக உயர்ந்தாள்."
       }
@@ -1148,7 +1148,7 @@
           "Truthfulness",
           "Hospitality",
           "Friendship",
-          "Impermanence (nilaiyamai)"
+          "Impermanence"
         ],
         "explanation": "Seeing this, Seevakan recalled how his father's kingdom was seized and how he regained it, and gave up the throne, realising that power and wealth are not permanent."
       },
@@ -1175,9 +1175,9 @@
         "q": "Which of the following is among the teachings collected in the epic Valayapathi?",
         "options": [
           "Do not befriend thieves and do not steal",
-          "Worship the gods every day",
-          "Pay taxes to the king",
-          "Always travel by sea"
+          "Worship the gods every morning and evening",
+          "Pay the taxes due to the king on time",
+          "Travel by sea to distant lands for trade"
         ],
         "explanation": "Valayapathi also says that youth, pleasure and wealth are not permanent and that only aram endures."
       },
@@ -1185,9 +1185,9 @@
         "q": "வளையாபதி தொகுத்துக் கூறும் அறங்களுள் ஒன்று எது?",
         "options": [
           "கள்வருடன் நட்புக் கொள்ளாதீர்; களவு கொள்ளாதீர்",
-          "நாள்தோறும் தெய்வங்களை வழிபடுங்கள்",
-          "அரசனுக்கு வரி செலுத்துங்கள்",
-          "எப்போதும் கடல் வழியே பயணம் செய்யுங்கள்"
+          "காலையிலும் மாலையிலும் தெய்வங்களை வழிபடுங்கள்",
+          "அரசனுக்குச் செலுத்த வேண்டிய வரியைக் காலத்தில் செலுத்துங்கள்",
+          "வணிகத்துக்காகக் கடல் வழியே தொலைநாடுகளுக்குப் பயணம் செய்யுங்கள்"
         ],
         "explanation": "இளமையும் இன்பமும் செல்வமும் நிலையானவை அல்ல; அறம் ஒன்றே நிலைத்து நிற்கும் என்பதையும் வளையாபதி காட்டுகிறது."
       }
@@ -1261,9 +1261,9 @@
       "en": {
         "q": "According to the book, what caused the downfall of Ravana, although he had many good qualities, wealth, a kingdom and a loyal kin?",
         "options": [
-          "His neglect of music",
-          "His defeat in a boat race",
-          "His refusal to worship Shiva",
+          "His neglect of music and the fine arts",
+          "His defeat in a boat race against the gods",
+          "His refusal to worship Shiva on Mount Kailash",
           "His immoral act of desiring another man's wife"
         ],
         "explanation": "The book points out that Ravana was skilled in music and a great devotee of Shiva, yet fell because of this act against aram."
@@ -1271,10 +1271,10 @@
       "ta": {
         "q": "நூலின்படி, இராவணன் பல நல்ல குணங்களும் செல்வமும் நாடும் சுற்றமும் உடையவனாக இருந்தும் கெட்டொழியக் காரணம் என்ன?",
         "options": [
-          "இசையைப் புறக்கணித்தது",
-          "படகுப் போட்டியில் தோல்வி",
-          "சிவனை வழிபட மறுத்தது",
-          "பிறன்மனை நயந்த அறமற்ற செயல்"
+          "இசையையும் நுண்கலைகளையும் புறக்கணித்தது",
+          "தேவர்களுடன் நடந்த படகுப் போட்டியில் தோல்வி",
+          "கயிலை மலையில் சிவனை வழிபட மறுத்தது",
+          "பிறன் மனைவியை விரும்பிய அறமற்ற செயல்"
         ],
         "explanation": "இசையில் வல்லவனாகவும் சிறந்த சிவபக்தனாகவும் இருந்த இராவணன் அறமற்ற இச்செயலால் அழிந்தான் என நூல் சுட்டுகிறது."
       }
@@ -1329,10 +1329,10 @@
       "ta": {
         "q": "குறள் 168 'திருச்செற்றுத் தீயுழி உய்த்துவிடும் பாவி' எனக் குறிப்பிடும் தீய பண்பு எது? துரியோதனன் கதை இதை விளக்குகிறது.",
         "options": [
-          "சினம்",
-          "அழுக்காறு (பொறாமை)",
-          "பேராசை",
-          "செருக்கு"
+          "வெகுளி என்னும் சினம்",
+          "அழுக்காறு என்னும் பொறாமை",
+          "பேராசை என்னும் வேட்கை",
+          "செருக்கு என்னும் தன்முனைப்பு"
         ],
         "explanation": "பாண்டவர்களுடன் நாட்டைப் பகிர்ந்துகொள்ள விரும்பாத துரியோதனன், பொறாமையாலும் தீய சூழ்ச்சியாலும் அழிந்தான்."
       }
@@ -1350,7 +1350,7 @@
         "options": [
           "Valour",
           "Charity",
-          "Patience (porumai)",
+          "Patience",
           "Hospitality"
         ],
         "explanation": "Despite many hardships, Dharman held firmly to aram and unity, and the Pandavas finally won; Duryodhana, in contrast, stands for jealousy."

@@ -199,8 +199,8 @@
         "q": "ஜெவன்ஸ் 'காசனின் முதல் நுகர்வு விதி' என அழைத்த விதி எது?",
         "options": [
           "தேவை விதி",
-          "சமநிலை இறுதிநிலைப் பயன்பாட்டு விதி",
-          "பயன்பாடு குறைந்து வரும் விதி (குறைந்துவரும் இறுதிநிலைப் பயன்பாட்டு விதி)",
+          "சம இறுதிநிலைப் பயன்பாட்டு விதி",
+          "குறைந்துவரும் இறுதிநிலைப் பயன்பாட்டு விதி",
           "பதிலீட்டு விதி"
         ],
         "explanation": "காசன் 1854இல் இவ்விதியை முதலில் வகுத்தார்; ஆனால் கார்டினல் பகுப்பாய்வு அடிப்படையில் முழுமைப்படுத்திய பெருமை மார்ஷலுக்கே."
@@ -246,20 +246,20 @@
       "en": {
         "q": "Which of the following is an assumption of the law of diminishing marginal utility?",
         "options": [
-          "The commodity consumed is homogeneous or uniform in weight, quality, taste and colour",
-          "The consumer's taste and income keep changing",
-          "The marginal utility of money keeps changing",
-          "The consumption of units takes place at irregular intervals"
+          "The commodity consumed is homogeneous in weight, quality, taste and colour",
+          "The consumer's taste, fashion and income keep changing over time",
+          "The marginal utility of money keeps changing as income changes",
+          "Units of the commodity are consumed at irregular intervals of time"
         ],
         "explanation": "Other assumptions: the consumer is rational, units are reasonable in size, consumption is continuous, and there is no change in taste, habits, preferences, fashions and income."
       },
       "ta": {
         "q": "குறைந்துவரும் இறுதிநிலைப் பயன்பாட்டு விதியின் எடுகோள்களுள் ஒன்று எது?",
         "options": [
-          "நுகரப்படும் பொருள் எடை, தரம், சுவை, நிறம் ஆகியவற்றில் ஒரே மாதிரியானது",
-          "நுகர்வோரின் ரசனையும் வருமானமும் மாறிக்கொண்டே இருக்கும்",
-          "பணத்தின் இறுதிநிலைப் பயன்பாடு மாறிக்கொண்டே இருக்கும்",
-          "அலகுகளின் நுகர்வு ஒழுங்கற்ற இடைவெளிகளில் நடைபெறும்"
+          "நுகரப்படும் பொருள் எடை, தரம், சுவை, நிறத்தில் ஒரே மாதிரியானது",
+          "நுகர்வோரின் ரசனையும் வருமானமும் காலப்போக்கில் மாறிக்கொண்டே இருக்கும்",
+          "வருமானம் மாறும்போது பணத்தின் இறுதிநிலைப் பயன்பாடும் மாறும்",
+          "அலகுகளின் நுகர்வு ஒழுங்கற்ற கால இடைவெளிகளில் நடைபெறும்"
         ],
         "explanation": "பிற எடுகோள்கள்: நுகர்வோர் பகுத்தறிவுடையவர்; அலகுகள் தக்க அளவுடையவை; நுகர்வு தொடர்ச்சியானது; ரசனை, பழக்கம், வருமானம் மாறாது."
       }
@@ -363,19 +363,19 @@
         "q": "In the 'diamond-water paradox' explained by Adam Smith, why is the price of water low even though it is very much essential?",
         "options": [
           "Water is abundant, so its marginal utility is low",
-          "Water has no utility",
-          "Water is a luxury good",
-          "Water is scarce but not needed"
+          "Water has no utility for consumers, so its price is low",
+          "Water is a luxury good bought by the rich",
+          "Water is scarce but people do not need it much"
         ],
         "explanation": "Diamond is scarce, hence its marginal utility and price are high, even though it is not very much needed."
       },
       "ta": {
         "q": "ஆடம் ஸ்மித் விளக்கிய 'வைரம்–நீர் முரண்பாட்டில்', நீர் மிகவும் அவசியமாயினும் அதன் விலை குறைவாக இருப்பது ஏன்?",
         "options": [
-          "நீர் மிகுதியாக இருப்பதால் அதன் இறுதிநிலைப் பயன்பாடு குறைவு",
-          "நீருக்குப் பயன்பாடே இல்லை",
-          "நீர் ஓர் ஆடம்பரப் பொருள்",
-          "நீர் அரிது; ஆனால் தேவையில்லை"
+          "நீர் மிகுதியாக இருப்பதால் இறுதிநிலைப் பயன்பாடு குறைவு",
+          "நீரால் நுகர்வோருக்கு எந்தப் பயன்பாடும் இல்லை",
+          "நீர் செல்வந்தர்கள் வாங்கும் ஆடம்பரப் பொருள்",
+          "நீர் அரிதாக உள்ளது; ஆனால் மக்களுக்குப் பெரிதும் தேவையில்லை"
         ],
         "explanation": "வைரம் அரிதாக இருப்பதால் அதன் இறுதிநிலைப் பயன்பாடும் விலையும் அதிகம்; ஆனால் அது மிகவும் தேவையானதல்ல."
       }
@@ -595,9 +595,9 @@
         "q": "'Demand in economics means desire backed up by enough money to pay for the good demanded' is the definition of",
         "options": [
           "Stonier and Hague",
-          "J. Harvey",
-          "Marshall",
-          "Samuelson"
+          "Lionel Robbins",
+          "Alfred Marshall",
+          "Paul Samuelson"
         ],
         "explanation": "J. Harvey defined demand as the desire to possess something and the willingness and ability to pay a certain price for it."
       },
@@ -605,9 +605,9 @@
         "q": "'தேவை என்பது பொருளாதாரத்தில், கேட்கும் பொருளுக்குச் செலுத்தப் போதிய பணத்தால் ஆதரிக்கப்படும் விருப்பம்' என்ற வரையறை யாருடையது?",
         "options": [
           "ஸ்டோனியர், ஹேக்",
-          "ஜே. ஹார்வி",
-          "மார்ஷல்",
-          "சாமுவேல்சன்"
+          "லயனல் ராபின்ஸ்",
+          "ஆல்பிரட் மார்ஷல்",
+          "பால் சாமுவேல்சன்"
         ],
         "explanation": "ஜே. ஹார்வி, ஒரு பொருளைப் பெற விரும்பி, குறிப்பிட்ட விலையைச் செலுத்தத் தயாராகவும் திறனுடனும் இருப்பதே தேவை எனக் கூறினார்."
       }
@@ -810,7 +810,7 @@
           "இலவசப் பொருள்",
           "ஆடம்பரப் பொருள்",
           "மூலதனப் பொருள்",
-          "தாழ்நிலைப் பொருள் (இன்ஃபீரியர் குட்)"
+          "தாழ்நிலைப் பொருள்"
         ],
         "explanation": "தாழ்நிலைப் பொருளின் விலை குறைந்தால் ஏழைகள் குறைவாகவே வாங்குவர்; விலை உயர்ந்தால் அதிகம் வாங்குவர்."
       }
@@ -827,9 +827,9 @@
         "q": "Rich people buy certain goods like diamonds because they give social distinction or prestige. Which exception to the law of demand does this represent?",
         "options": [
           "Veblen or demonstration effect",
-          "Giffen paradox",
-          "Speculative effect",
-          "Fear of shortage"
+          "Giffen paradox for inferior goods",
+          "Speculative effect on future prices",
+          "Fear of future shortage of goods"
         ],
         "explanation": "Veblen explained this exceptional demand curve through his doctrine of conspicuous consumption."
       },
@@ -837,9 +837,9 @@
         "q": "வைரம் போன்ற பொருள்களைச் செல்வந்தர்கள் சமூக மதிப்புக்காக வாங்குவது தேவை விதியின் எந்த விதிவிலக்கைக் குறிக்கிறது?",
         "options": [
           "வெப்லன் அல்லது பகட்டுத் தாக்கம்",
-          "கிஃபென் முரண்பாடு",
-          "ஊக விளைவு",
-          "பற்றாக்குறை அச்சம்"
+          "தாழ்நிலைப் பொருள்களுக்கான கிஃபென் முரண்பாடு",
+          "எதிர்கால விலை பற்றிய ஊக விளைவு",
+          "எதிர்காலப் பற்றாக்குறை குறித்த அச்சம்"
         ],
         "explanation": "வெப்லன் தம் 'பகட்டு நுகர்வு' கோட்பாட்டின் மூலம் இவ்விதிவிலக்கான தேவை வளைகோட்டை விளக்கினார்."
       }
@@ -1087,20 +1087,20 @@
       "en": {
         "q": "Demand is generally more elastic in the long run than in the short run, because in the long run",
         "options": [
-          "Incomes fall",
-          "Many substitutes can be discovered or invented",
-          "Prices of all goods are constant",
-          "Consumers' tastes never change"
+          "Incomes of consumers fall sharply",
+          "Many substitutes can be found or invented",
+          "Prices of goods stay at the same level",
+          "Consumers' tastes remain the same"
         ],
         "explanation": "In the short run, bringing out new substitutes is difficult."
       },
       "ta": {
         "q": "தேவை பொதுவாகக் குறுகிய காலத்தைவிட நீண்ட காலத்தில் நெகிழ்ச்சி மிக்கது; ஏனெனில் நீண்ட காலத்தில்",
         "options": [
-          "வருமானம் குறையும்",
-          "பல பதிலிப் பொருள்களைக் கண்டறிய அல்லது கண்டுபிடிக்க முடியும்",
-          "அனைத்துப் பொருள்களின் விலைகளும் மாறாது",
-          "நுகர்வோரின் ரசனை ஒருபோதும் மாறாது"
+          "நுகர்வோரின் வருமானம் குறைந்துவிடும்",
+          "பல பதிலிப் பொருள்களைக் கண்டறிய முடியும்",
+          "பொருள்களின் விலைகள் ஒரே நிலையில் இருக்கும்",
+          "நுகர்வோரின் ரசனை அப்படியே இருக்கும்"
         ],
         "explanation": "குறுகிய காலத்தில் புதிய பதிலிகளை உருவாக்குவது கடினம்."
       }
@@ -1232,20 +1232,20 @@
       "en": {
         "q": "In the ordinal utility approach, utility cannot be measured absolutely, but it can be",
         "options": [
-          "Measured in money",
-          "Measured in utils",
-          "Compared, ranked or ordered by ordinal numbers",
-          "Measured by cardinal numbers"
+          "Measured in terms of money",
+          "Measured in units called utils",
+          "Ranked or ordered by ordinal numbers",
+          "Measured by cardinal numbers 1, 2, 3"
         ],
         "explanation": "Ordinal numbers such as I, II and III are used."
       },
       "ta": {
         "q": "ஆர்டினல் பயன்பாட்டு அணுகுமுறையில் பயன்பாட்டை முழுமையாக அளவிட முடியாது; ஆனால் அதனை",
         "options": [
-          "பணத்தில் அளவிடலாம்",
-          "யூட்டில்களில் அளவிடலாம்",
-          "I, II, III போன்ற வரிசை எண்களால் ஒப்பிடலாம், தரவரிசைப்படுத்தலாம்",
-          "அடிப்படை எண்களால் அளவிடலாம்"
+          "பணத்தின் அடிப்படையில் அளவிடலாம்",
+          "யூட்டில் என்ற அலகுகளில் அளவிடலாம்",
+          "I, II, III போன்ற வரிசை எண்களால் தரவரிசைப்படுத்தலாம்",
+          "1, 2, 3 போன்ற அடிப்படை எண்களால் அளவிடலாம்"
         ],
         "explanation": "I, II, III போன்ற வரிசை எண்கள் பயன்படுத்தப்படுகின்றன."
       }
@@ -1274,7 +1274,7 @@
           "குவிவுத்தன்மை",
           "பகுத்தறிவுடைமை",
           "ஒற்றைப் பித்து",
-          "இடைநிலைத் தொடர்பு (Transitivity)"
+          "இடைநிலைத் தொடர்பு"
         ],
         "explanation": "நுகர்வோர் முரண்படாதவர் எனக் கருதப்படுகிறார்: A > B, B > C எனில் A > C."
       }
@@ -1291,9 +1291,9 @@
         "q": "The Indifference Curve Approach is based on the concept of",
         "options": [
           "Diminishing marginal rate of substitution",
-          "Diminishing marginal utility",
-          "Increasing returns",
-          "Equi-marginal utility"
+          "Diminishing marginal utility of each good",
+          "Increasing returns to scale in production",
+          "Equi-marginal utility of money income"
         ],
         "explanation": "It replaces the cardinal idea of marginal utility with the marginal rate of substitution."
       },
@@ -1301,9 +1301,9 @@
         "q": "சமநோக்கு வளைகோட்டு அணுகுமுறை எந்தக் கருத்தை அடிப்படையாகக் கொண்டது?",
         "options": [
           "குறைந்துவரும் இறுதிநிலைப் பதிலீட்டு வீதம்",
-          "குறைந்துவரும் இறுதிநிலைப் பயன்பாடு",
-          "அதிகரிக்கும் விளைவு",
-          "சம இறுதிநிலைப் பயன்பாடு"
+          "பொருளின் குறைந்துவரும் இறுதிநிலைப் பயன்பாடு",
+          "உற்பத்தியில் அதிகரிக்கும் விளைவு",
+          "பண வருமானத்தின் சம இறுதிநிலைப் பயன்பாடு"
         ],
         "explanation": "இது இறுதிநிலைப் பயன்பாட்டுக் கருத்துக்குப் பதிலாக இறுதிநிலைப் பதிலீட்டு வீதத்தைப் பயன்படுத்துகிறது."
       }
@@ -1330,7 +1330,7 @@
         "q": "ஒரே அளவு நிறைவைத் தரும் இரு பொருள்களின் பல்வேறு சேர்க்கைகளைக் காட்டும் அட்டவணை",
         "options": [
           "தேவை அட்டவணை",
-          "சமநோக்கு அட்டவணை (Indifference schedule)",
+          "சமநோக்கு அட்டவணை",
           "அளிப்பு அட்டவணை",
           "வரவு–செலவு அட்டவணை"
         ],
@@ -1348,19 +1348,19 @@
       "en": {
         "q": "The indifference curve, the locus of all combinations of two commodities that give the same satisfaction, is also called the",
         "options": [
-          "Demand curve",
-          "Budget line",
-          "Iso-utility curve or Equal satisfaction curve",
-          "Isoquant"
+          "Individual demand curve",
+          "Consumer's budget line",
+          "Iso-utility curve",
+          "Production isoquant"
         ],
         "explanation": "An indifference map is a family or set of indifference curves corresponding to different levels of satisfaction."
       },
       "ta": {
         "q": "ஒரே நிறைவைத் தரும் இரு பொருள்களின் அனைத்துச் சேர்க்கைகளின் இடத்தொகுதியான சமநோக்கு வளைகோட்டின் மற்றொரு பெயர்",
         "options": [
-          "தேவை வளைகோடு",
-          "வரவு–செலவுக் கோடு",
-          "சம பயன்பாட்டு வளைகோடு அல்லது சம நிறைவு வளைகோடு",
+          "தனிநபர் தேவை வளைகோடு",
+          "நுகர்வோரின் வரவு–செலவுக் கோடு",
+          "சம பயன்பாட்டு வளைகோடு",
           "சம உற்பத்தி வளைகோடு"
         ],
         "explanation": "சமநோக்கு வரைபடம் என்பது வெவ்வேறு நிறைவு நிலைகளுக்கான சமநோக்கு வளைகோடுகளின் தொகுதி."
@@ -1377,20 +1377,20 @@
       "en": {
         "q": "The maximum amount of Y that a consumer is willing to give up for getting an additional unit of X, while still remaining on the same indifference curve, is the",
         "options": [
-          "Price ratio",
-          "Marginal utility of X",
-          "Marginal cost of X",
-          "Marginal rate of substitution (MRSxy)"
+          "Ratio of the prices of X and Y",
+          "Marginal utility of good X",
+          "Marginal cost of producing X",
+          "Marginal rate of substitution"
         ],
         "explanation": "This definition is attributed to Leftwich."
       },
       "ta": {
         "q": "கூடுதலாக ஓர் அலகு X ஐப் பெற, அதே சமநோக்கு வளைகோட்டில் நீடிக்கும் வகையில் நுகர்வோர் விட்டுக்கொடுக்கத் தயாராக உள்ள Y இன் அதிகபட்ச அளவு",
         "options": [
-          "விலை விகிதம்",
-          "X இன் இறுதிநிலைப் பயன்பாடு",
-          "X இன் இறுதிநிலைச் செலவு",
-          "இறுதிநிலைப் பதிலீட்டு வீதம் (MRSxy)"
+          "X, Y இன் விலைகளின் விகிதம்",
+          "X பொருளின் இறுதிநிலைப் பயன்பாடு",
+          "X ஐ உற்பத்தி செய்யும் இறுதிநிலைச் செலவு",
+          "இறுதிநிலைப் பதிலீட்டு வீதம்"
         ],
         "explanation": "இவ்வரையறை லெஃப்ட்விச்சுடையது எனக் கூறப்படுகிறது."
       }
@@ -1406,7 +1406,7 @@
       "en": {
         "q": "The line joining various combinations of two goods which the consumer can buy at given prices and income is called the",
         "options": [
-          "Budget line (price line)",
+          "Budget line",
           "Indifference curve",
           "Demand curve",
           "Production possibility curve"
@@ -1416,7 +1416,7 @@
       "ta": {
         "q": "கொடுக்கப்பட்ட விலைகளிலும் வருமானத்திலும் நுகர்வோர் வாங்கக்கூடிய இரு பொருள்களின் பல்வேறு சேர்க்கைகளை இணைக்கும் கோடு",
         "options": [
-          "வரவு–செலவுக் கோடு (விலைக்கோடு)",
+          "வரவு–செலவுக் கோடு",
           "சமநோக்கு வளைகோடு",
           "தேவை வளைகோடு",
           "உற்பத்தி வாய்ப்பு வளைகோடு"

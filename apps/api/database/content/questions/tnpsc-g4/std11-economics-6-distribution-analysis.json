@@ -162,7 +162,7 @@
           "The total product of that factor",
           "The marginal productivity of that factor",
           "The average cost of that factor",
-          "The national income"
+          "The national income earned in the economy"
         ],
         "explanation": "In short, each factor is rewarded according to its marginal productivity."
       },
@@ -172,7 +172,7 @@
           "அக்காரணியின் மொத்த உற்பத்தி",
           "அக்காரணியின் இறுதிநிலை உற்பத்தித்திறன்",
           "அக்காரணியின் சராசரிச் செலவு",
-          "தேசிய வருமானம்"
+          "நாட்டில் ஈட்டப்படும் தேசிய வருமானம்"
         ],
         "explanation": "சுருக்கமாக, ஒவ்வொரு காரணியும் அதன் இறுதிநிலை உற்பத்தித்திறனுக்கு ஏற்ப வெகுமதி பெறுகிறது."
       }
@@ -247,9 +247,9 @@
         "q": "In equilibrium, the employer uses a factor up to the point where the price of the factor is equal to its",
         "options": [
           "Marginal revenue product",
-          "Total product",
-          "Average cost",
-          "Total revenue"
+          "Total product of the factor",
+          "Average cost of the factor",
+          "Total revenue of the firm"
         ],
         "explanation": "Beyond that point the marginal revenue product is less than the price of the factor, so the employer would suffer loss."
       },
@@ -257,9 +257,9 @@
         "q": "சமநிலையில், காரணியின் விலை எதற்குச் சமமாகும் புள்ளி வரை முதலாளி அக்காரணியைப் பயன்படுத்துவார்?",
         "options": [
           "அதன் இறுதிநிலை வருவாய் உற்பத்தி",
-          "மொத்த உற்பத்தி",
-          "சராசரிச் செலவு",
-          "மொத்த வருவாய்"
+          "அதன் மொத்த உற்பத்தி அளவு",
+          "அதன் சராசரிச் செலவு அளவு",
+          "அதன் மொத்த வருவாய் அளவு"
         ],
         "explanation": "அப்புள்ளிக்கு மேல் இறுதிநிலை வருவாய் உற்பத்தி காரணியின் விலையைவிடக் குறைவு; எனவே முதலாளிக்கு நட்டம் ஏற்படும்."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "The land in which the cost of production is just equal to the price of its produce, and which therefore yields no rent, is called",
         "options": [
-          "Super-marginal land",
-          "Intra-marginal land",
-          "No-rent land or marginal land",
-          "Fallow land"
+          "Super-marginal land with higher fertility",
+          "Intra-marginal land of better quality",
+          "Marginal land at the edge of cultivation",
+          "Fallow land left uncultivated"
         ],
         "explanation": "The land which yields rent is called intra-marginal land; rent indicates the differential advantage of the superior land over the marginal land."
       },
       "ta": {
         "q": "உற்பத்திச் செலவு விளைபொருளின் விலைக்குச் சரியாகச் சமமாகி, வாடகை தராத நிலம் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "மேல் விளிம்பு நிலம்",
-          "உள் விளிம்பு நிலம்",
-          "வாடகையற்ற நிலம் அல்லது விளிம்பு நிலம்",
-          "தரிசு நிலம்"
+          "அதிக வளமுள்ள மேல் விளிம்பு நிலம்",
+          "சிறந்த தரமுள்ள உள் விளிம்பு நிலம்",
+          "சாகுபடியின் விளிம்பில் உள்ள விளிம்பு நிலம்",
+          "பயிரிடாமல் விடப்பட்ட தரிசு நிலம்"
         ],
         "explanation": "வாடகை தரும் நிலம் உள்-விளிம்பு நிலம் எனப்படும்; வாடகை என்பது விளிம்பு நிலத்தைவிடச் சிறந்த நிலத்துக்குள்ள வேறுபாட்டு நன்மையைக் காட்டுகிறது."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "In Ricardo's theory, the land which yields rent is called",
         "options": [
-          "Barren land",
-          "Marginal land",
-          "No-rent land",
-          "Intra-marginal land"
+          "Barren land left uncultivated by farmers",
+          "Marginal land with the lowest fertility",
+          "No-rent land of the lowest grade",
+          "Intra-marginal land of higher fertility"
         ],
         "explanation": "In the illustration, A and B grade lands are intra-marginal lands and C grade land is no-rent land."
       },
       "ta": {
         "q": "ரிக்கார்டோவின் கோட்பாட்டில் வாடகை தரும் நிலம் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "தரிசு நிலம்",
-          "விளிம்பு நிலம்",
-          "வாடகையற்ற நிலம்",
-          "உள் விளிம்பு நிலம்"
+          "விவசாயிகள் பயிரிடாமல் விட்ட தரிசு நிலம்",
+          "மிகக் குறைந்த வளமுள்ள விளிம்பு நிலம்",
+          "மிகக் குறைந்த தரமுள்ள வாடகையற்ற நிலம்",
+          "அதிக வளமுள்ள உள் விளிம்பு நிலம்"
         ],
         "explanation": "எடுத்துக்காட்டில் A, B தர நிலங்கள் உள்-விளிம்பு நிலங்கள்; C தர நிலம் வாடகையற்ற நிலம்."
       }
@@ -578,7 +578,7 @@
           "உண்மைக் கூலி",
           "அரை வாடகை",
           "பொருளாதார வாடகை",
-          "மாற்று வருவாய் (Transfer earnings)"
+          "மாற்று வருவாய்"
         ],
         "explanation": "நவீன வாடகைக் கோட்பாட்டில் (ஜோன் ராபின்சன், போல்டிங்) வாடகை என்பது இக்குறைந்தபட்சத் தொகைக்கு மேல் உள்ள மிகை."
       }
@@ -826,20 +826,20 @@
       "en": {
         "q": "According to the Marginal Productivity Theory of Wages, under imperfect competition in the labour market, the wage is",
         "options": [
-          "Less than the marginal product of labour, resulting in exploitation of labour",
+          "Less than the marginal product of labour",
           "Equal to the marginal product of labour",
           "More than the marginal product of labour",
-          "Zero"
+          "Equal to twice the marginal product of labour"
         ],
         "explanation": "Under perfect competition in the labour market, wage = marginal product of labour (MPL)."
       },
       "ta": {
         "q": "இறுதிநிலை உற்பத்தித்திறன் கூலிக் கோட்பாட்டின்படி, உழைப்புச் சந்தையில் நிறையற்ற போட்டி நிலவும்போது கூலி",
         "options": [
-          "உழைப்பின் இறுதிநிலை உற்பத்தியைவிடக் குறைவு; உழைப்பு சுரண்டப்படுகிறது",
+          "உழைப்பின் இறுதிநிலை உற்பத்தியைவிடக் குறைவு",
           "உழைப்பின் இறுதிநிலை உற்பத்திக்குச் சமம்",
           "உழைப்பின் இறுதிநிலை உற்பத்தியைவிட அதிகம்",
-          "பூஜ்யம்"
+          "உழைப்பின் இறுதிநிலை உற்பத்தியின் இருமடங்கு"
         ],
         "explanation": "உழைப்புச் சந்தையில் நிறைவுப் போட்டி நிலவினால் கூலி = உழைப்பின் இறுதிநிலை உற்பத்தி (MPL)."
       }
@@ -884,20 +884,20 @@
       "en": {
         "q": "Besides net interest, which of the following is a component of gross interest?",
         "options": [
-          "Wages of labour",
-          "Rent of land",
-          "Insurance against the risk of non-repayment",
-          "Profit of the entrepreneur"
+          "Wages of labour in agriculture",
+          "Rent of agricultural land",
+          "Insurance against risk of non-repayment",
+          "Profit of the entrepreneur in industry"
         ],
         "explanation": "Net interest is only a part of gross interest; it is the payment for the use of capital only, e.g., the interest on government securities."
       },
       "ta": {
         "q": "நிகர வட்டியுடன், மொத்த வட்டியின் ஒரு கூறாக அமைவது எது?",
         "options": [
-          "உழைப்பின் கூலி",
-          "நிலத்தின் வாடகை",
+          "வேளாண் உழைப்பின் கூலி",
+          "வேளாண் நிலத்தின் வாடகை",
           "கடன் திரும்பச் செலுத்தப்படாத இடருக்கான காப்பீடு",
-          "தொழில்முனைவோரின் இலாபம்"
+          "தொழில்துறை தொழில்முனைவோரின் இலாபம்"
         ],
         "explanation": "நிகர வட்டி என்பது மொத்த வட்டியின் ஒரு பகுதி மட்டுமே; அது மூலதனப் பயன்பாட்டுக்கான தொகை; எ.கா. அரசுப் பத்திரங்களின் வட்டி."
       }
@@ -1087,20 +1087,20 @@
       "en": {
         "q": "According to Keynes, interest is the reward for",
         "options": [
-          "Abstaining from present consumption",
-          "Parting with liquidity for a specified period of time",
-          "Taking risks in business",
-          "Postponing present satisfaction"
+          "Abstaining from present consumption of goods",
+          "Parting with liquidity for a specified period",
+          "Taking the risks of running a business",
+          "Postponing present satisfaction of wants"
         ],
         "explanation": "Keynes held that interest is purely a monetary phenomenon because the rate of interest is calculated in terms of money."
       },
       "ta": {
         "q": "கெயின்ஸின்படி வட்டி என்பது எதற்கான வெகுமதி?",
         "options": [
-          "நடப்பு நுகர்வைத் தவிர்ப்பதற்கு",
-          "குறிப்பிட்ட காலத்துக்கு நீர்மைத்தன்மையைப் பிரிந்திருப்பதற்கு",
-          "வணிகத்தில் இடர் ஏற்பதற்கு",
-          "நடப்பு மனநிறைவைத் தள்ளிப்போடுவதற்கு"
+          "நடப்புப் பொருள் நுகர்வைத் தவிர்த்து வைப்பதற்கு",
+          "நீர்மைத்தன்மையை சில காலம் பிரிந்திருப்பதற்கு",
+          "வணிகத்தை நடத்தும் இடரை ஏற்பதற்கு",
+          "நடப்புத் தேவைகளின் மனநிறைவைத் தள்ளிப்போடுவதற்கு"
         ],
         "explanation": "வட்டி விகிதம் பணத்தில் கணக்கிடப்படுவதால் வட்டி முற்றிலும் ஒரு பணவியல் நிகழ்வு என்று கெயின்ஸ் கருதினார்."
       }
@@ -1184,7 +1184,7 @@
       "ta": {
         "q": "விலை மட்டத்தில் திடீர் மாற்றங்களால், அதாவது எதிர்பாராக் காரணிகளால் ஏற்படும் இலாபம்",
         "options": [
-          "எதிர்பாரா இலாபம் (விண்ட்ஃபால்)",
+          "எதிர்பாரா இலாபம்",
           "ஏகபோக இலாபம்",
           "இயல்பு இலாபம்",
           "மொத்த இலாபம்"
@@ -1348,20 +1348,20 @@
       "en": {
         "q": "In Schumpeter's Innovation Theory of Profit, 'innovation' means",
         "options": [
-          "Bearing uncertainty",
-          "Taking risks in business",
+          "Bearing the uncertainty of the market",
+          "Taking the risk of losses in business",
           "Invention put into commercial practice",
-          "Fixing the price of a product"
+          "Fixing the price of a product in the market"
         ],
         "explanation": "According to Schumpeter, profit is the reward for innovation; an innovation may be a new product, a new method of production, a new market, new raw materials or reorganisation of a firm."
       },
       "ta": {
         "q": "ஷும்பீட்டரின் புத்தாக்க இலாபக் கோட்பாட்டில் 'புத்தாக்கம்' (innovation) என்பது",
         "options": [
-          "நிச்சயமற்ற தன்மையைத் தாங்குவது",
-          "வணிகத்தில் இடர் ஏற்பது",
+          "சந்தையின் நிச்சயமற்ற தன்மையைத் தாங்குவது",
+          "வணிகத்தில் ஏற்படும் இழப்பின் இடரை ஏற்பது",
           "கண்டுபிடிப்பை வணிக நடைமுறையில் பயன்படுத்துதல்",
-          "பொருளின் விலையை நிர்ணயிப்பது"
+          "சந்தையில் பொருளின் விலையை நிர்ணயிப்பது"
         ],
         "explanation": "ஷும்பீட்டரின்படி இலாபம் புத்தாக்கத்துக்கான வெகுமதி; புதிய பொருள், புதிய உற்பத்தி முறை, புதிய சந்தை, புதிய மூலப்பொருள், நிறுவன மறுசீரமைப்பு ஆகியவை புத்தாக்கம்."
       }
@@ -1435,20 +1435,20 @@
       "en": {
         "q": "According to Knight, which of the following is an insurable (measurable) risk?",
         "options": [
-          "Competition",
+          "Competition among sellers in the market",
           "Risk of fire, theft and natural disasters",
-          "Changes in market condition",
-          "Changes in public policy"
+          "Changes in market conditions over time",
+          "Changes in public policy of the government"
         ],
         "explanation": "Competition, market condition, technology change and public policy are non-insurable uncertainties that no insurance company can undertake."
       },
       "ta": {
         "q": "நைட்டின்படி பின்வருவனவற்றுள் காப்பீடு செய்யக்கூடிய (அளவிடக்கூடிய) இடர் எது?",
         "options": [
-          "போட்டி",
+          "சந்தையில் விற்போரிடையே நிலவும் போட்டி",
           "தீ, திருட்டு, இயற்கைப் பேரிடர் ஆகியவற்றின் இடர்",
-          "சந்தை நிலையில் மாற்றம்",
-          "பொதுக் கொள்கையில் மாற்றம்"
+          "காலப்போக்கில் சந்தை நிலையில் மாற்றம்",
+          "அரசின் பொதுக் கொள்கையில் மாற்றம்"
         ],
         "explanation": "போட்டி, சந்தை நிலை, தொழில்நுட்ப மாற்றம், பொதுக் கொள்கை ஆகியவை எந்தக் காப்பீட்டு நிறுவனமும் ஏற்காத, காப்பீடு செய்ய இயலாத நிச்சயமின்மைகள்."
       }

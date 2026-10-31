@@ -161,8 +161,8 @@
         "options": [
           "Marco Polo and Ibn Battuta",
           "Vasco da Gama and Christopher Columbus",
-          "Alexander and Ptolemy",
-          "Humboldt and Ritter"
+          "Alexander the Great and Ptolemy",
+          "Alexander von Humboldt and Carl Ritter"
         ],
         "explanation": "Exploration, discovery and conquest through the voyages of Vasco da Gama and Columbus characterised 1400-1800."
       },
@@ -391,20 +391,20 @@
       "en": {
         "q": "Which of the following is NOT one of the five themes of geography?",
         "options": [
-          "Location",
-          "Technology",
-          "Movement",
-          "Place"
+          "Human-environment interaction",
+          "Technology and industry",
+          "Movement of people and ideas",
+          "Region"
         ],
         "explanation": "The five themes are location, place, human-environment interaction, movement and regions."
       },
       "ta": {
         "q": "புவியியலின் ஐந்து கருப்பொருள்களில் ஒன்றல்லாதது எது?",
         "options": [
-          "அமைவிடம்",
-          "தொழில்நுட்பம்",
-          "இயக்கம்",
-          "இடம்"
+          "மனித-சூழல் இடைவினை",
+          "தொழில்நுட்பமும் தொழிலும்",
+          "மக்கள், கருத்துகளின் இயக்கம்",
+          "பிரதேசம்"
         ],
         "explanation": "அமைவிடம், இடம், மனித-சூழல் இடைவினை, இயக்கம், பிரதேசம் ஆகியவையே ஐந்து கருப்பொருள்கள்."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "Construction of an underground metro rail is given as an example of which concept of human-environment interaction?",
         "options": [
-          "Modification",
-          "Dependency",
-          "Adaptation",
-          "Movement"
+          "Modification of environment",
+          "Dependency on environment",
+          "Adaptation to environment",
+          "Movement of people"
         ],
         "explanation": "Building a metro rail underground changes the environment, so it is modification."
       },
       "ta": {
         "q": "நிலத்தடி மெட்ரோ இரயில் கட்டுமானம் மனித-சூழல் இடைவினையின் எந்தக் கருத்துக்கு எடுத்துக்காட்டாகக் கூறப்படுகிறது?",
         "options": [
-          "மாற்றியமைத்தல்",
-          "சார்பு",
-          "தகவமைப்பு",
-          "இயக்கம்"
+          "சூழலை மாற்றியமைத்தல்",
+          "சூழலைச் சார்ந்திருத்தல்",
+          "சூழலுக்கேற்பத் தகவமைத்தல்",
+          "மக்கள் இயக்கம்"
         ],
         "explanation": "நிலத்தடியில் இரயில் அமைப்பது சூழலை மாற்றியமைப்பதாகும்."
       }
@@ -923,9 +923,9 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் உயிர்ப் புவியியலின் ஒரு பிரிவு எது?",
         "options": [
-          "நிலவரைவியல்",
-          "நீரியல்",
-          "காலநிலையியல்",
+          "நிலவரைவியல் படிப்பு",
+          "நீரியல் அறிவியல்",
+          "காலநிலையியல் படிப்பு",
           "விலங்குப் புவியியல்"
         ],
         "explanation": "தாவரப் புவியியல், விலங்குப் புவியியல், சூழலியல் ஆகியவை உயிர்ப் புவியியலின் பிரிவுகள்."
@@ -1087,20 +1087,20 @@
       "en": {
         "q": "Statistical geography is concerned with",
         "options": [
-          "making maps of various scales",
-          "collecting, analysing and presenting geographic data such as census data",
-          "capturing earth features using satellites",
-          "pinpointing the location of a user"
+          "making maps of various scales using survey instruments",
+          "collecting, analysing and presenting data such as census figures",
+          "capturing earth features from space using satellite sensors",
+          "pinpointing the exact location of a user on the ground"
         ],
         "explanation": "Statistical geography handles data with a geographic dimension, such as census data."
       },
       "ta": {
         "q": "புள்ளியியல் புவியியல் எதனோடு தொடர்புடையது?",
         "options": [
-          "பல்வேறு அளவுகளில் வரைபடம் தயாரித்தல்",
-          "மக்கள்தொகைக் கணக்கெடுப்பு போன்ற புவியியல் தரவுகளைச் சேகரித்தல், பகுப்பாய்தல், வெளியிடுதல்",
-          "செயற்கைக்கோள் மூலம் புவிக்கூறுகளைப் பதிவு செய்தல்",
-          "பயனரின் இருப்பிடத்தைத் துல்லியமாகக் கண்டறிதல்"
+          "அளவீட்டுக் கருவிகளால் பல்வேறு அளவுகளில் வரைபடம் தயாரித்தல்",
+          "கணக்கெடுப்பு போன்ற தரவுகளைச் சேகரித்தல், பகுப்பாய்தல், வெளியிடுதல்",
+          "செயற்கைக்கோள் உணரிகளால் புவிக்கூறுகளைப் பதிவு செய்தல்",
+          "தரையிலுள்ள பயனரின் இருப்பிடத்தைத் துல்லியமாகக் கண்டறிதல்"
         ],
         "explanation": "புவியியல் பரிமாணமுள்ள தரவுகளைச் சேகரித்துப் பகுப்பாய்வு செய்வது புள்ளியியல் புவியியல்."
       }
@@ -1174,10 +1174,10 @@
       "en": {
         "q": "Satellite data from Landsat, SPOT and IRS made it possible for geographers to",
         "options": [
-          "view each part of the earth's surface repeatedly at frequent intervals",
-          "measure the exact height of Mount Everest",
-          "draw the imaginary lines of latitude",
-          "forecast earthquakes accurately"
+          "view each part of the earth repeatedly at frequent intervals",
+          "measure the exact heights of Mount Everest and other peaks",
+          "draw the imaginary lines of latitude and longitude on the globe",
+          "forecast earthquakes accurately a month in advance"
         ],
         "explanation": "Repeated satellite coverage reduced the geographers' 'data thirst'."
       },
@@ -1185,9 +1185,9 @@
         "q": "Landsat, SPOT, IRS போன்ற செயற்கைக்கோள் தரவுகள் புவியியலாளர்களுக்கு எதைச் சாத்தியமாக்கின?",
         "options": [
           "புவியின் ஒவ்வொரு பகுதியையும் அடிக்கடி மீண்டும் மீண்டும் காணுதல்",
-          "எவரெஸ்ட் சிகரத்தின் சரியான உயரத்தை அளத்தல்",
-          "அட்சக்கோடுகளை வரைதல்",
-          "நிலநடுக்கங்களைத் துல்லியமாக முன்னறிவித்தல்"
+          "எவரெஸ்ட் உள்ளிட்ட சிகரங்களின் சரியான உயரத்தை அளத்தல்",
+          "புவிப்பந்தில் அட்சக்கோடுகளையும் தீர்க்கக்கோடுகளையும் வரைதல்",
+          "நிலநடுக்கங்களை ஒரு மாதத்துக்கு முன்பே துல்லியமாக முன்னறிவித்தல்"
         ],
         "explanation": "தொடர்ச்சியான செயற்கைக்கோள் தரவுகள் புவியியலாளர்களின் 'தரவுத் தாகத்தை'த் தணித்தன."
       }
@@ -1214,7 +1214,7 @@
         "q": "செயற்கைக்கோள் உணரிகள், வழிகாட்டும் செயற்கைக்கோள்கள், GIS மூலம் புயலின் நகர்வை நேரடியாகத் தருவது",
         "options": [
           "நிலப் பயன்பாட்டு ஆய்வு",
-          "வானிலை உடனறிவிப்பு (Nowcasting)",
+          "வானிலை உடனறிவிப்பு",
           "புவிவெளி பகுப்பாய்வு",
           "சுற்றுச்சூழல் தாக்க மதிப்பீடு"
         ],

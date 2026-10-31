@@ -72,20 +72,20 @@
       "en": {
         "q": "The site of Harappa lies in which district of the old Punjab (now in Pakistan)?",
         "options": [
-          "Sukkur",
-          "Larkana",
-          "Montgomery",
-          "Lahore"
+          "Sukkur district",
+          "Larkana district",
+          "Montgomery district",
+          "Lahore district"
         ],
         "explanation": "Harappa gave the civilisation its other name, the Harappan civilisation."
       },
       "ta": {
         "q": "ஹரப்பா, பழைய பஞ்சாபின் (தற்போது பாகிஸ்தானில் உள்ளது) எந்த மாவட்டத்தில் அமைந்துள்ளது?",
         "options": [
-          "சுக்கூர்",
-          "லர்க்கானா",
-          "மாண்ட்கொமரி",
-          "லாகூர்"
+          "சுக்கூர் மாவட்டம்",
+          "லர்க்கானா மாவட்டம்",
+          "மாண்ட்கொமரி மாவட்டம்",
+          "லாகூர் மாவட்டம்"
         ],
         "explanation": "ஹரப்பாவின் பெயரால் இந்நாகரிகம் ஹரப்பா நாகரிகம் எனவும் அழைக்கப்படுகிறது."
       }
@@ -336,7 +336,7 @@
           "The pillared assembly hall of Mohenjo-daro",
           "The granary of Harappa",
           "The dockyard of Lothal",
-          "The public bath (Great Bath) of Mohenjo-daro"
+          "The public bath of Mohenjo-daro"
         ],
         "explanation": "Water was drained out and fresh water brought in through brick-built channels; the floor was coated with bitumen to prevent seepage."
       },
@@ -363,9 +363,9 @@
         "q": "What was the purpose of the many rooms built along the upper edges of the public bath at Mohenjo-daro?",
         "options": [
           "For changing clothes after bathing",
-          "For storing grain",
-          "For housing guards",
-          "For keeping sacrificial animals"
+          "For storing grain after the harvest",
+          "For housing the guards of the city",
+          "For keeping animals meant for sacrifice"
         ],
         "explanation": "Steps were built on all four sides of the pool, and a facility for steam bath was provided at its south-west corner."
       },
@@ -373,9 +373,9 @@
         "q": "மொகஞ்சதாரோ பொதுக்குளியல் குளத்தின் மேல் ஓரங்களில் இருந்த பல அறைகள் எதற்காக அமைக்கப்பட்டிருந்தன?",
         "options": [
           "குளித்தபின் உடை மாற்றிக்கொள்ள",
-          "தானியங்களைச் சேமிக்க",
-          "காவலர்கள் தங்க",
-          "பலி விலங்குகளை வைக்க"
+          "அறுவடைக்குப் பின் தானியங்களைச் சேமிக்க",
+          "நகரக் காவலர்கள் தங்கியிருக்க",
+          "பலிக்காக விலங்குகளை வைத்திருக்க"
         ],
         "explanation": "குளத்தைச் சுற்றி நான்கு பக்கமும் படிக்கட்டுகள் இருந்தன; தென்மேற்கு மூலையில் நீராவிக் குளியலுக்கான வசதி இருந்தது."
       }
@@ -508,7 +508,7 @@
         "q": "Which animal was used most for land transport by the Indus people?",
         "options": [
           "The horse",
-          "The ox (bullock)",
+          "The ox",
           "The elephant",
           "The donkey"
         ],
@@ -536,20 +536,20 @@
       "en": {
         "q": "What was the mode of trade among the Indus people, according to the book?",
         "options": [
-          "Gold dust",
-          "Silver coins",
-          "Barter (exchange of goods)",
-          "Paper currency"
+          "Payment in gold dust",
+          "Payment in silver coins",
+          "Barter, the exchange of goods",
+          "Payment in paper currency"
         ],
         "explanation": "The Indus people used standardised weights and measures in trade; trade went on overland and by water."
       },
       "ta": {
         "q": "நூலின்படி, சிந்துவெளி மக்களின் வணிகம் எந்த முறையில் நடைபெற்றது?",
         "options": [
-          "தங்கத் துகள்",
-          "வெள்ளி நாணயங்கள்",
-          "பண்டமாற்று முறை",
-          "தாள் பணம்"
+          "தங்கத் துகள் கொடுத்துப் பெறுதல்",
+          "வெள்ளி நாணயம் கொடுத்துப் பெறுதல்",
+          "பண்டங்களை மாற்றிக்கொள்ளும் பண்டமாற்று முறை",
+          "தாள் பணம் கொடுத்துப் பெறுதல்"
         ],
         "explanation": "வணிகத்தில் ஒரே சீரான எடைக்கற்களையும் அளவீடுகளையும் பயன்படுத்தினர்; நிலவழியிலும் நீர்வழியிலும் வணிகம் நடைபெற்றது."
       }
@@ -568,7 +568,7 @@
           "Chennai and Visakhapatnam",
           "Surat and Mumbai",
           "Kochi and Kozhikode",
-          "Bharuch (Broach) and Cambay"
+          "Bharuch and Cambay"
         ],
         "explanation": "Inland trade was carried on through boat transport, and the Indus people also traded with Sumeria, Iraq and other lands."
       },
@@ -740,7 +740,7 @@
         "q": "Which tree appears most prominently among the tree figures on the seals of Harappa and Mohenjo-daro?",
         "options": [
           "Neem",
-          "Peepal (arasu)",
+          "Peepal",
           "Banyan",
           "Mango"
         ],
@@ -826,7 +826,7 @@
       "en": {
         "q": "What kind of script is found engraved on the seals of the Indus civilisation, according to the book?",
         "options": [
-          "Pictographic script (chithira ezhuthukkal)",
+          "Pictographic script",
           "Alphabetic Brahmi script",
           "Cuneiform script",
           "Devanagari script"
@@ -974,7 +974,7 @@
           "Iron",
           "Bronze",
           "Gold",
-          "Lead"
+          "Silver"
         ],
         "explanation": "Combs made of ivory were also found; women wore ornaments such as earrings, bangles, rings, anklets and necklaces."
       },
@@ -984,7 +984,7 @@
           "இரும்பு",
           "வெண்கலம்",
           "தங்கம்",
-          "ஈயம்"
+          "வெள்ளி"
         ],
         "explanation": "தந்தத்தால் செய்யப்பட்ட சீப்புகளும் கிடைத்துள்ளன; காதணி, கைவளையல், மோதிரம், காலில் காப்பு, கழுத்துமணி போன்ற அணிகலன்களையும் அணிந்தனர்."
       }
@@ -1000,20 +1000,20 @@
       "en": {
         "q": "In one of the three methods of disposing of the dead among the Indus people, what was done with the body?",
         "options": [
-          "It was fully burnt and the ashes scattered in the river",
-          "It was floated down the river on a raft",
-          "It was left in the open outside the town for birds and animals, and the remaining bones were later buried in clay urns",
-          "It was placed in a hollow tree trunk"
+          "It was completely burnt on a pyre and the ashes were scattered in the river",
+          "It was placed on a raft and floated down the river towards the sea",
+          "It was left in the open outside the town for birds and animals, and the bones were later buried in urns",
+          "It was placed in a hollow tree trunk and left in the forest"
         ],
         "explanation": "The other two methods were burying the whole body, and burying the remains of a cremated body in urns."
       },
       "ta": {
         "q": "சிந்துவெளி மக்களின் மூன்று வகை இறுதிச் சடங்குகளுள் ஒன்றில், இறந்த உடல் என்ன செய்யப்பட்டது?",
         "options": [
-          "முழுவதும் எரிக்கப்பட்டு சாம்பல் ஆற்றில் கரைக்கப்பட்டது",
-          "ஆற்றில் தெப்பத்தில் மிதக்கவிடப்பட்டது",
-          "ஊருக்குப் புறத்தே திறந்த வெளியில் பறவைகளும் விலங்குகளும் உண்ணும்படி வைக்கப்பட்டு, எஞ்சிய எலும்புகள் மண்தாழிகளில் புதைக்கப்பட்டன",
-          "மரப்பொந்தில் வைக்கப்பட்டது"
+          "குடும்பத்தினரால் சிதையில் முழுமையாக எரிக்கப்பட்டு, சாம்பல் ஆற்றில் கரைக்கப்பட்டது",
+          "தெப்பத்தில் வைத்து ஆற்றில் கடலை நோக்கி மிதக்கவிடப்பட்டது",
+          "ஊருக்கு வெளியே பறவை, விலங்குகள் உண்ணும்படி வைக்கப்பட்டு, எலும்புகள் மண்தாழிகளில் புதைக்கப்பட்டன",
+          "மரப்பொந்தில் வைக்கப்பட்டுக் காட்டில் விடப்பட்டது"
         ],
         "explanation": "மற்ற இரண்டு முறைகள்: முழு உடலையும் புதைத்தல்; எரிந்த உடலின் எஞ்சிய பாகங்களைத் தாழிகளில் வைத்துப் புதைத்தல்."
       }
@@ -1032,7 +1032,7 @@
           "Cunningham",
           "Marshall",
           "Wheeler",
-          "Childe (Shilde)"
+          "Childe"
         ],
         "explanation": "The book concludes from these features that the Indus civilisation was an urban civilisation."
       },

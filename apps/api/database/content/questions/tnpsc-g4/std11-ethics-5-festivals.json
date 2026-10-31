@@ -130,7 +130,7 @@
       "en": {
         "q": "Which deity did the people of the Mullai land worship by dancing the kuravai koothu, in the 'Aaychiyar kuravai'?",
         "options": [
-          "Maayon (Thirumal)",
+          "Maayon",
           "Murugan",
           "Indran",
           "Kotravai"
@@ -140,7 +140,7 @@
       "ta": {
         "q": "முல்லை நில மக்கள் குரவைக் கூத்தாடி எந்தத் தெய்வத்தை வழிபட்டனர்? இதுவே 'ஆய்ச்சியர் குரவை'.",
         "options": [
-          "மாயோன் (திருமால்)",
+          "மாயோன்",
           "முருகன்",
           "இந்திரன்",
           "கொற்றவை"
@@ -452,7 +452,7 @@
           "Indra",
           "The river Kaveri",
           "The cattle",
-          "The Sun (Kathiravan)"
+          "The Sun"
         ],
         "explanation": "All articles used on Pongal day should be new: a new stove made of new bricks, new pots and a new rope; yellow turmeric plants and sugarcane are also offered."
       },
@@ -507,20 +507,20 @@
       "en": {
         "q": "What is the main significance of Kaanum Pongal?",
         "options": [
-          "Worshipping the Sun",
+          "Worshipping the Sun with the first harvest",
           "Forgetting enmity and renewing relationships",
-          "Decorating cattle",
-          "Cleaning the house"
+          "Decorating the cattle with garlands and bells",
+          "Cleaning the house before the festival"
         ],
         "explanation": "People visit relatives and friends, seek the blessings of elders and play traditional games on this day."
       },
       "ta": {
         "q": "காணும் பொங்கல் நாளின் முக்கியத்துவம் என்ன?",
         "options": [
-          "சூரியனை வணங்குதல்",
+          "அறுவடைப் பொருளுடன் சூரியனை வணங்குதல்",
           "பகைமையை மறந்து உறவுகளைப் புதுப்பித்தல்",
-          "கால்நடைகளை அலங்கரித்தல்",
-          "வீட்டைத் தூய்மை செய்தல்"
+          "மணி, மாலைகளால் கால்நடைகளை அலங்கரித்தல்",
+          "பண்டிகைக்கு முன் வீட்டைத் தூய்மை செய்தல்"
         ],
         "explanation": "இந்நாளில் உற்றார், உறவினர், நண்பர்களின் வீடுகளுக்குச் சென்று பெரியவர்களை வணங்கி வாழ்த்துப் பெறுவர்; பாரம்பரிய விளையாட்டுகள் விளையாடுவர்."
       }
@@ -800,7 +800,7 @@
           "Vinayagar",
           "Murugan",
           "Shiva",
-          "Thirumal (Vishnu)"
+          "Thirumal"
         ],
         "explanation": "It is celebrated on the eleventh day of the waxing moon in Margazhi; it is celebrated grandly at the Srirangam Ranganathar temple."
       },
@@ -884,20 +884,20 @@
       "en": {
         "q": "On which day is Deepavali celebrated, according to the book?",
         "options": [
-          "The first day of Thai",
-          "The full-moon day of Karthigai",
-          "The day before the new-moon day in the waning fortnight of Aippasi",
-          "The ninth day of Purattasi"
+          "The first day of the month of Thai",
+          "The full-moon day of the month of Karthigai",
+          "The day before the new-moon day of Aippasi",
+          "The ninth day of the month of Purattasi"
         ],
         "explanation": "'Deepavali' means 'a row of lamps' (deepam + aavali); it is celebrated across India, and in North India as 'Deepa oli thirunaal'."
       },
       "ta": {
         "q": "நூலின்படி தீபாவளி எந்த நாளில் கொண்டாடப்படுகிறது?",
         "options": [
-          "தை முதல் நாள்",
-          "கார்த்திகை முழுநிலவு நாள்",
-          "ஐப்பசி தேய்பிறையில் அமாவாசைக்கு முதல் நாள்",
-          "புரட்டாசி ஒன்பதாம் நாள்"
+          "தை மாதத்தின் முதல் நாள்",
+          "கார்த்திகை மாத முழுநிலவு நாள்",
+          "ஐப்பசி மாத அமாவாசைக்கு முதல் நாள்",
+          "புரட்டாசி மாத ஒன்பதாம் நாள்"
         ],
         "explanation": "தீபாவளி என்றால் 'தீபங்களின் வரிசை' (தீபம் + ஆவளி); இது இந்தியா முழுவதும் கொண்டாடப்படுகிறது."
       }
@@ -1148,7 +1148,7 @@
           "Palm Sunday",
           "Easter",
           "Christmas",
-          "Good Friday (Holy Friday)"
+          "Good Friday"
         ],
         "explanation": "On the third day after Good Friday, Jesus rose to life again; that day is celebrated as 'Holy Sunday' (Easter)."
       },
@@ -1232,20 +1232,20 @@
       "en": {
         "q": "In which kingdom and place was Mahavira, whose birthday is celebrated as Mahavir Jayanthi, born?",
         "options": [
-          "Kapilavastu in Kosala",
-          "Lumbini in Nepal",
+          "Kapilavastu in the kingdom of Kosala",
+          "Lumbini in the kingdom of Nepal",
           "Kundagrama in the kingdom of Vaishali",
-          "Talwandi near Lahore"
+          "Talwandi in the kingdom of the Punjab"
         ],
         "explanation": "The book says that Mahavira was a prince who renounced everything, meditated and attained the highest state; he was an embodiment of love, peace and ahimsa."
       },
       "ta": {
         "q": "மகாவீர் ஜெயந்தி கொண்டாடப்படும் மகாவீரர் எந்த நாட்டில், எந்த இடத்தில் பிறந்தார்?",
         "options": [
-          "கோசலத்தில் கபிலவஸ்து",
-          "நேபாளத்தில் லும்பினி",
+          "கோசல நாட்டில் உள்ள கபிலவஸ்து",
+          "நேபாள நாட்டில் உள்ள லும்பினி",
           "வைசாலி நாட்டில் குண்டாகிராமம்",
-          "லாகூர் அருகே தால்வண்டி"
+          "பஞ்சாப் நாட்டில் உள்ள தால்வண்டி"
         ],
         "explanation": "அரசகுமாரனாகிய மகாவீரர் அனைத்தையும் துறந்து தியானம் செய்து உயர்நிலையை அடைந்தார்; அன்பு, அமைதி, அகிம்சைக்கு இலக்கணமாகத் திகழ்ந்தார்."
       }
@@ -1290,20 +1290,20 @@
       "en": {
         "q": "Where was Buddha born, according to the book, into a royal family?",
         "options": [
-          "Lumbini village near Kapilavastu in Nepal",
+          "Lumbini near Kapilavastu",
           "Bodh Gaya in Bihar",
           "Sarnath in Uttar Pradesh",
-          "Kushinagar"
+          "Kushinagar in Uttar Pradesh"
         ],
         "explanation": "Buddha Purnima falls on the full-moon day of Vaikasi (Visakha); Buddhists believe his birth, enlightenment and parinirvana all happened on this day."
       },
       "ta": {
         "q": "நூலின்படி, புத்தர் அரச குடும்பத்தில் எங்குப் பிறந்தார்?",
         "options": [
-          "நேபாளத்தில் கபிலவஸ்துவிலுள்ள லும்பினி கிராமம்",
-          "பீகாரிலுள்ள புத்த கயா",
+          "கபிலவஸ்துவுக்கு அருகிலுள்ள லும்பினி",
+          "பீகார் மாநிலத்திலுள்ள புத்த கயா",
           "உத்திரப்பிரதேசத்திலுள்ள சாரநாத்",
-          "குசிநகரம்"
+          "உத்திரப்பிரதேசத்திலுள்ள குசிநகரம்"
         ],
         "explanation": "புத்த பூர்ணிமா வைகாசி மாத முழுநிலவு நாளில் கொண்டாடப்படுகிறது; அவரது பிறப்பு, ஞானம், பரிநிர்வாணம் ஆகிய அனைத்தும் இந்நாளில் நிகழ்ந்ததாகப் பௌத்தர் கருதுகின்றனர்."
       }

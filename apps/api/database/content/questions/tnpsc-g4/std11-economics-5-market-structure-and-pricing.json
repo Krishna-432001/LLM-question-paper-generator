@@ -14,10 +14,10 @@
       "en": {
         "q": "In Economics, the term 'market' refers to",
         "options": [
-          "A system of exchange between the buyers and the sellers of a commodity",
-          "Only a place where goods are stored",
-          "Only a place where goods are produced",
-          "The price fixed by the government"
+          "A system of exchange between buyers and sellers of a commodity",
+          "A warehouse where goods are stored for later sale",
+          "A factory where goods are produced and packed",
+          "The price fixed by the government for a commodity"
         ],
         "explanation": "Exchanges may be direct or carried out through correspondence, telephone, online or email."
       },
@@ -25,9 +25,9 @@
         "q": "பொருளியலில் 'சந்தை' (market) என்பது",
         "options": [
           "ஒரு பொருளின் வாங்குவோருக்கும் விற்போருக்கும் இடையிலான பரிமாற்ற அமைப்பு",
-          "பொருள்கள் சேமிக்கப்படும் இடம் மட்டும்",
-          "பொருள்கள் உற்பத்தி செய்யப்படும் இடம் மட்டும்",
-          "அரசு நிர்ணயிக்கும் விலை"
+          "பொருள்கள் விற்பனைக்குச் சேமித்து வைக்கப்படும் கிடங்கு",
+          "பொருள்கள் உற்பத்தி செய்யப்படும் தொழிற்சாலை அல்லது பட்டறை",
+          "அத்தியாவசியப் பொருளுக்கு அரசு நிர்ணயிக்கும் விலை"
         ],
         "explanation": "பரிமாற்றம் நேரடியாகவோ, கடிதம், தொலைபேசி, இணையம், மின்னஞ்சல் வழியாகவோ நடைபெறலாம்."
       }
@@ -160,7 +160,7 @@
         "q": "The entry of the pen-drive driving out the compact disc (CD), which had replaced floppies that once replaced tape cassettes, is an example of which market on the basis of time?",
         "options": [
           "Short period market",
-          "Very long period (secular period) market",
+          "Very long period market",
           "Long period market",
           "Market period"
         ],
@@ -170,7 +170,7 @@
         "q": "பென்-டிரைவ் வந்ததால் சிடி வழக்கொழிந்தது; சிடி நெகிழ்வட்டுகளை மாற்றியது; அவை ஒலிநாடாக்களை மாற்றியிருந்தன. இது காலத்தின் அடிப்படையில் எந்தச் சந்தைக்கு எடுத்துக்காட்டு?",
         "options": [
           "குறுகியகாலச் சந்தை",
-          "மிக நீண்டகால (செக்குலர்) சந்தை",
+          "மிக நீண்டகாலச் சந்தை",
           "நீண்டகாலச் சந்தை",
           "சந்தைக் காலம்"
         ],
@@ -372,10 +372,10 @@
       "ta": {
         "q": "நிறைவுப் போட்டியில் விற்கப்படும், வாங்கப்படும் பொருள் ஒரேவிதமானது; அதாவது அதன் அலகுகள்",
         "options": [
-          "ஒன்றுக்கொன்று முழுமையாகப் பதிலீடு ஆகக்கூடியவை",
-          "முற்றிலும் வேறுபட்டவை",
-          "முத்திரை பெற்றவை; தனித்துவமானவை",
-          "ஒப்பிட இயலாதவை"
+          "ஒன்றுக்கொன்று முழுப் பதிலீடானவை",
+          "முற்றிலும் வேறுபட்ட தன்மையுடையவை",
+          "முத்திரை பெற்ற தனித்துவமானவை",
+          "ஒன்றோடொன்று ஒப்பிட இயலாதவை"
         ],
         "explanation": "எல்லா அலகுகளும் அளவு, வடிவம், நிறம், தரத்தில் ஒரே மாதிரியானவை; எனவே சந்தையில் ஒரே சீரான விலை நிலவுகிறது."
       }
@@ -478,7 +478,7 @@
       "en": {
         "q": "Because of the entry and exit of firms, under perfect competition firms always earn in the long run",
         "options": [
-          "Only normal profit",
+          "Normal profit",
           "Super normal profit",
           "Abnormal loss",
           "Monopoly profit"
@@ -488,7 +488,7 @@
       "ta": {
         "q": "புதிய நிறுவனங்கள் நுழைவதாலும் வெளியேறுவதாலும், நிறைவுப் போட்டியில் நீண்டகாலத்தில் நிறுவனங்கள் எப்போதும் பெறுவது",
         "options": [
-          "இயல்பு இலாபம் மட்டுமே",
+          "இயல்பு இலாபம்",
           "மிகையிலாபம்",
           "அசாதாரண நட்டம்",
           "ஏகபோக இலாபம்"
@@ -507,20 +507,20 @@
       "en": {
         "q": "The condition for the long run equilibrium of a firm under perfect competition is",
         "options": [
-          "Price > AR > MR",
+          "Price > AR > MR = Minimum AC",
           "Price = AR = MR = Minimum AC",
-          "MR > AR > Price",
-          "Price = Maximum AC"
+          "MR > AR > Price = Minimum AC",
+          "Price = AR = MR = Maximum AC"
         ],
         "explanation": "At point E, LMC = MR = AR = LAC; the firm earns only normal profit."
       },
       "ta": {
         "q": "நிறைவுப் போட்டியில் ஒரு நிறுவனத்தின் நீண்டகாலச் சமநிலைக்கான நிபந்தனை",
         "options": [
-          "விலை > AR > MR",
+          "விலை > AR > MR = குறைந்தபட்ச AC",
           "விலை = AR = MR = குறைந்தபட்ச AC",
-          "MR > AR > விலை",
-          "விலை = அதிகபட்ச AC"
+          "MR > AR > விலை = குறைந்தபட்ச AC",
+          "விலை = AR = MR = அதிகபட்ச AC"
         ],
         "explanation": "புள்ளி E இல் LMC = MR = AR = LAC; நிறுவனம் இயல்பு இலாபத்தை மட்டுமே பெறும்."
       }
@@ -548,7 +548,7 @@
         "options": [
           "செங்குத்துக் கோடு",
           "கிடைமட்டக் கோடு",
-          "உறை வளைகோடு (envelope curve)",
+          "உறை வளைகோடு",
           "செவ்வக அதிபரவளையம்"
         ],
         "explanation": "இது தட்டையான U வடிவ வளைகோடு; திட்டமிடல் வளைகோடு எனவும் அழைக்கப்படும்."
@@ -575,9 +575,9 @@
       "ta": {
         "q": "நிறைவுப் போட்டியில் ஒரே சீரான விலை நிலவுவதற்கு, காரணிகளின் முழு இடப்பெயர்ச்சியுடன் சேர்த்துக் கூறப்படும் மற்றொரு பண்பு எது?",
         "options": [
-          "நுழைவுத் தடைகள்",
-          "அரசின் தலையீடு",
-          "பொருள் வேறுபடுத்தல்",
+          "புதிய நிறுவனங்களுக்கான நுழைவுத் தடைகள்",
+          "விலை நிர்ணயத்தில் அரசின் தலையீடு",
+          "பொருளை வேறுபடுத்திக் காட்டுதல்",
           "போக்குவரத்துச் செலவு இல்லாமை"
         ],
         "explanation": "நிறைவுப் போட்டியில் மூலப்பொருள் அளிப்பிலும் விலை நிர்ணயத்திலும் அரசுக் கட்டுப்பாடு இல்லை."
@@ -623,9 +623,9 @@
       "en": {
         "q": "Imperfect competition is a market situation in which there are many sellers, but they sell",
         "options": [
-          "Homogeneous goods",
-          "Heterogeneous (dissimilar) goods",
-          "Only one identical good",
+          "Homogeneous or identical goods",
+          "Heterogeneous or differentiated goods",
+          "A single identical good",
           "Goods at a uniform price fixed by the government"
         ],
         "explanation": "If a seller sells a non-identical good, he can raise the price and earn profits; high profits attract other sellers."
@@ -633,9 +633,9 @@
       "ta": {
         "q": "நிறையற்ற போட்டியில் பல விற்பனையாளர்கள் இருப்பர்; ஆனால் அவர்கள் விற்பது",
         "options": [
-          "ஒரேவிதமான பொருள்கள்",
-          "வேறுபட்ட (ஒத்திராத) பொருள்கள்",
-          "ஒரே ஒரு ஒத்த பொருள்",
+          "ஒரேவிதமான, ஒத்த பொருள்கள்",
+          "வேறுபட்ட, ஒத்திராத பொருள்கள்",
+          "ஒரு தனி ஒத்த பொருள்",
           "அரசு நிர்ணயித்த ஒரே விலையுள்ள பொருள்கள்"
         ],
         "explanation": "ஒத்திராத பொருளை விற்பவர் விலையை உயர்த்தி இலாபம் ஈட்டலாம்; அதிக இலாபம் பிற விற்பனையாளர்களை ஈர்க்கும்."
@@ -1002,7 +1002,7 @@
         "options": [
           "Price leadership",
           "Personal price discrimination",
-          "Dumping (international price discrimination)",
+          "Dumping",
           "Selling cost"
         ],
         "explanation": "Through dumping, a country expands its command over other countries for its product."
@@ -1012,7 +1012,7 @@
         "options": [
           "விலைத் தலைமை",
           "தனிநபர் விலை பாகுபாடு",
-          "கொட்டுதல் (டம்ப்பிங்; பன்னாட்டு விலை பாகுபாடு)",
+          "கொட்டுதல்",
           "விற்பனைச் செலவு"
         ],
         "explanation": "கொட்டுதல் மூலம் ஒரு நாடு தன் பொருளுக்கு பிற நாடுகளின் மீது ஆதிக்கத்தை விரிவாக்குகிறது."
@@ -1087,20 +1087,20 @@
       "en": {
         "q": "Under monopolistic competition, firms compete with each other by incurring",
         "options": [
-          "Transport cost only",
-          "Selling cost (expenditure on sales promotion)",
-          "Raw material cost only",
-          "Fixed cost only"
+          "Transport cost",
+          "Selling cost",
+          "Raw material cost",
+          "Fixed cost"
         ],
         "explanation": "An example of selling cost is advertisement cost."
       },
       "ta": {
         "q": "ஏகபோகப் போட்டியில் நிறுவனங்கள் ஒன்றுடன் ஒன்று போட்டியிடுவது எதற்காகச் செலவிடுவதன் மூலம்?",
         "options": [
-          "போக்குவரத்துச் செலவு மட்டும்",
-          "விற்பனைச் செலவு (விற்பனை ஊக்குவிப்புச் செலவு)",
-          "மூலப்பொருள் செலவு மட்டும்",
-          "நிலையான செலவு மட்டும்"
+          "போக்குவரத்துச் செலவு",
+          "விற்பனைச் செலவு",
+          "மூலப்பொருள் செலவு",
+          "நிலையான செலவு"
         ],
         "explanation": "விளம்பரச் செலவு விற்பனைச் செலவுக்கு ஓர் எடுத்துக்காட்டு."
       }
@@ -1204,7 +1204,7 @@
         "q": "Under monopolistic competition, the difference between the optimum output that can be produced and the actual output produced by the firm is called",
         "options": [
           "Selling cost",
-          "Idle (excess) capacity",
+          "Idle capacity",
           "Normal profit",
           "Marginal cost"
         ],
@@ -1213,10 +1213,10 @@
       "ta": {
         "q": "ஏகபோகப் போட்டியில், உற்பத்தி செய்யக்கூடிய உகந்த வெளியீட்டுக்கும் நிறுவனம் உண்மையில் உற்பத்தி செய்யும் வெளியீட்டுக்கும் உள்ள வேறுபாடு",
         "options": [
-          "விற்பனைச் செலவு",
-          "பயன்படுத்தப்படாத (மிகை) உற்பத்தித் திறன்",
-          "இயல்பு இலாபம்",
-          "இறுதிநிலைச் செலவு"
+          "விளம்பரத்துக்கான விற்பனைச் செலவு",
+          "பயன்படுத்தப்படாத உற்பத்தித் திறன்",
+          "நிறுவனம் பெறும் இயல்பு இலாபம்",
+          "கூடுதல் அலகின் இறுதிநிலைச் செலவு"
         ],
         "explanation": "செயற்கைத் தட்டுப்பாட்டை உருவாக்கி விலையை உயர்த்த, ஏகபோக நிறுவனம் குறைந்தபட்ச சராசரிச் செலவு வெளியீடான உகந்த அளவைவிடக் குறைவாக உற்பத்தி செய்கிறது."
       }
@@ -1300,7 +1300,7 @@
       "ta": {
         "q": "ஒரு பொருளுக்கு அல்லது சேவைக்கு ஒரே ஒரு வாங்குநர் மட்டுமே உள்ள சந்தை அமைப்பு",
         "options": [
-          "ஒற்றை வாங்குநர் சந்தை (மோனோப்சனி)",
+          "ஒற்றை வாங்குநர் சந்தை",
           "ஏகபோகம்",
           "இருவர் ஆதிக்கச் சந்தை",
           "சில்லோர் ஆதிக்கச் சந்தை"
@@ -1330,7 +1330,7 @@
         "q": "ஒரே விதமான அல்லது வேறுபடுத்தப்பட்ட பொருள்களை விற்கும் சில நிறுவனங்கள் மட்டுமே இருக்கும், ஒரு நிறுவனத்தின் செயல் பிறவற்றைப் பாதிக்கும் சந்தை நிலை",
         "options": [
           "ஏகபோகம்",
-          "சில்லோர் ஆதிக்கச் சந்தை (ஆலிகோபோலி)",
+          "சில்லோர் ஆதிக்கச் சந்தை",
           "நிறைவுப் போட்டி",
           "ஒற்றை வாங்குநர் சந்தை"
         ],
@@ -1348,10 +1348,10 @@
       "en": {
         "q": "Which feature of oligopoly implies that the price and quality decisions of a firm depend on those of its rival firms?",
         "options": [
-          "Perfect knowledge",
-          "Free entry and exit",
+          "Perfect knowledge among firms",
+          "Free entry and exit of firms",
           "Interdependence among firms",
-          "Product homogeneity"
+          "Product homogeneity among firms"
         ],
         "explanation": "Other features: few large firms, group behaviour, advertisement cost, nature of product and price rigidity."
       },
@@ -1390,7 +1390,7 @@
           "பயன்படுத்தப்படாத உற்பத்தித் திறன்",
           "விலை பாகுபாடு",
           "கொட்டுதல்",
-          "விலை நிலைத்தன்மை (விலை இறுக்கம்)"
+          "விலை நிலைத்தன்மை"
         ],
         "explanation": "விலை நிலைத்தன்மை என்பது விலைகளை மாற்றுவது கடினம் என்பதைக் குறிக்கிறது."
       }

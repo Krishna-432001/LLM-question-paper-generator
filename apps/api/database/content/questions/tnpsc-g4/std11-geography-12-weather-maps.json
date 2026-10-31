@@ -83,8 +83,8 @@
         "q": "காற்றழுத்தத்தைத் தொடர்ச்சியாகப் பதிவு செய்யும் கருவி",
         "options": [
           "ஈரப்பதப் பதிவுமானி",
-          "உயரமானி (Altimeter)",
-          "காற்றழுத்தப் பதிவுமானி (Barograph)",
+          "உயரமானி",
+          "காற்றழுத்தப் பதிவுமானி",
           "காற்றுவேகமானி"
         ],
         "explanation": "காற்றழுத்தம் மில்லிபாரில் அளக்கப்படுகிறது; உயரமானி கடல்மட்டத்திற்கு மேல் ஒரு உயரத்திலுள்ள காற்றழுத்தத்தை அளக்கிறது."
@@ -140,7 +140,7 @@
       "ta": {
         "q": "மேகமூட்டத்தின் அளவை விவரிக்கப் பயன்படும் அலகு",
         "options": [
-          "ஓக்டா (Okta)",
+          "ஓக்டா",
           "நாட்",
           "பேதம்",
           "மில்லிபார்"
@@ -159,20 +159,20 @@
       "en": {
         "q": "The duration of sunshine in hours per day at a given region is measured using a",
         "options": [
-          "rain gauge",
+          "standard rain gauge",
           "sunshine recorder",
-          "ceilometer",
-          "hygrometer"
+          "cloud-base ceilometer",
+          "wet and dry bulb hygrometer"
         ],
         "explanation": "A ceilometer uses a laser to determine the height of the cloud base."
       },
       "ta": {
         "q": "ஒரு பகுதியில் நாளொன்றுக்குரிய சூரிய ஒளிக்கால அளவை (மணிகளில்) அளக்கப் பயன்படும் கருவி",
         "options": [
-          "மழைமானி",
-          "சூரியஒளிப் பதிவுமானி (Sunshine recorder)",
-          "மேக அடிக்கோட்டு உயரமானி (Ceilometer)",
-          "ஈரப்பத அளவி"
+          "நிலையான மழைமானி",
+          "சூரியஒளிப் பதிவுமானி",
+          "மேக அடிக்கோட்டு உயரமானி",
+          "ஈரடி-உலர்குமிழ் ஈரப்பத அளவி"
         ],
         "explanation": "மேகத்தளத்தின் உயரத்தை லேசர் மூலம் கண்டறியும் கருவி சீலோமீட்டர் (Ceilometer) ஆகும்."
       }
@@ -256,7 +256,7 @@
       "ta": {
         "q": "நூலில் முக்கிய வானிலைச் செயற்கைக்கோள்களில் ஒன்றாகக் குறிப்பிடப்படுவது எது?",
         "options": [
-          "இன்சாட்-3டி (INSAT-3D)",
+          "இன்சாட்-3டி",
           "ஜிசாட்-9",
           "சந்திரயான்-2",
           "மங்கள்யான்"
@@ -336,7 +336,7 @@
           "Indian Space Research Organisation",
           "Survey of India",
           "Geological Survey of India",
-          "Indian Meteorological Department (IMD)"
+          "Indian Meteorological Department"
         ],
         "explanation": "The Indian daily weather map is a political map of India that also includes neighbouring countries, with weather symbols and isobars."
       },
@@ -346,7 +346,7 @@
           "இந்திய விண்வெளி ஆராய்ச்சி நிறுவனம்",
           "இந்திய அளவைத் துறை",
           "இந்திய புவியியல் ஆய்வு நிறுவனம்",
-          "இந்திய வானிலை ஆய்வுத் துறை (IMD)"
+          "இந்திய வானிலை ஆய்வுத் துறை"
         ],
         "explanation": "இந்தியத் தினசரி வானிலை வரைபடம் அண்டை நாடுகளையும் உள்ளடக்கிய அரசியல் வரைபடமாகும்; வானிலைக் குறியீடுகளும் சம அழுத்தக் கோடுகளும் இடம்பெறும்."
       }

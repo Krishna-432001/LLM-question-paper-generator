@@ -306,7 +306,7 @@
         "options": [
           "Mammoth tusks",
           "Dinosaur eggs",
-          "Mesosaurus, a small Permian reptile",
+          "Mesosaurus",
           "Trilobites"
         ],
         "explanation": "Identical rare fossils on different continents suggest the continents were once joined."
@@ -316,7 +316,7 @@
         "options": [
           "மாமூத் தந்தங்கள்",
           "டைனோசர் முட்டைகள்",
-          "மீசோசாரஸ் என்ற சிறிய பெர்மிய ஊர்வன",
+          "மீசோசாரஸ்",
           "டிரைலோபைட்டுகள்"
         ],
         "explanation": "வெவ்வேறு கண்டங்களில் ஒரே மாதிரியான அரிய புதைபடிவங்கள் கிடைப்பது அவை ஒருகாலத்தில் இணைந்திருந்ததைக் காட்டுகிறது."
@@ -333,22 +333,22 @@
       "en": {
         "q": "The geological structure of the Appalachian Mountains matches with that of",
         "options": [
-          "Australia and New Zealand",
-          "Madagascar and India",
-          "Brazil and Argentina",
+          "Australia and New Zealand in Oceania",
+          "Madagascar and India in the Indian Ocean region",
+          "Brazil and Argentina in South America",
           "Morocco and Algeria in North Africa"
         ],
-        "explanation": "The geological structure of Newfoundland matches with Ireland, Scotland and Scandinavia."
+        "explanation": "The textbook (continental drift evidence) says the geological structure of the Appalachian Mountains matches with Morocco and Algeria in North Africa, while that of Newfoundland matches Ireland, Scotland and Scandinavia."
       },
       "ta": {
         "q": "அப்பலேச்சியன் மலைகளின் புவியியல் அமைப்பு எவற்றின் அமைப்புடன் ஒத்திருக்கிறது?",
         "options": [
-          "ஆஸ்திரேலியா, நியூசிலாந்து",
-          "மடகாஸ்கர், இந்தியா",
-          "பிரேசில், அர்ஜெண்டினா",
+          "ஓசியானியாவின் ஆஸ்திரேலியா, நியூசிலாந்து",
+          "இந்தியப் பெருங்கடல் பகுதியின் மடகாஸ்கர், இந்தியா",
+          "தென் அமெரிக்காவின் பிரேசில், அர்ஜெண்டினா",
           "வட ஆப்பிரிக்காவின் மொராக்கோ, அல்ஜீரியா"
         ],
-        "explanation": "நியூஃபவுண்ட்லாந்தின் அமைப்பு அயர்லாந்து, ஸ்காட்லாந்து, ஸ்காண்டிநேவியாவுடன் ஒத்துள்ளது."
+        "explanation": "அப்பலாச்சியன் மலைகளின் புவியியல் அமைப்பு வட ஆப்பிரிக்காவின் மொராக்கோ, அல்ஜீரியாவுடன் ஒத்துப்போகிறது; நியூஃபவுண்ட்லாந்தின் அமைப்பு அயர்லாந்து, ஸ்காட்லாந்து, ஸ்காண்டிநேவியாவுடன் ஒத்துப்போகிறது (பாடநூல்)."
       }
     },
     {
@@ -507,20 +507,20 @@
       "en": {
         "q": "A rift valley formed where a divergent plate boundary runs through a continent is exemplified by the",
         "options": [
-          "Mariana Trench",
+          "Mariana Trench in the Pacific Ocean",
           "African Rift Valley of East Africa",
-          "San Andreas Fault",
-          "Himalayan suture"
+          "San Andreas Fault of California, USA",
+          "Himalayan suture zone in Tibet and India"
         ],
         "explanation": "When a divergent boundary runs through a continent, the continent splits apart and a rift valley forms."
       },
       "ta": {
         "q": "கண்டத்தின் ஊடே விலகு எல்லை செல்வதால் உருவான பிளவு பள்ளத்தாக்குக்கு எடுத்துக்காட்டு",
         "options": [
-          "மரியானா அகழி",
+          "பசிபிக் பெருங்கடலின் ஆழ்ந்த மரியானா அகழி",
           "கிழக்கு ஆப்பிரிக்காவின் ஆப்பிரிக்கப் பிளவுப் பள்ளத்தாக்கு",
-          "சான் ஆண்ட்ரியாஸ் பிளவு",
-          "இமயமலைப் பிணைப்புக் கோடு"
+          "அமெரிக்காவின் கலிபோர்னியாவிலுள்ள சான் ஆண்ட்ரியாஸ் பிளவு",
+          "திபெத், இந்தியாவிலுள்ள இமயமலைப் பிணைப்பு மண்டலம்"
         ],
         "explanation": "கண்டத்தின் ஊடே விலகு எல்லை சென்றால் கண்டம் பிளந்து பிளவுப் பள்ளத்தாக்கு உருவாகும்."
       }
@@ -578,7 +578,7 @@
           "மடிப்பு அச்சுக் கோடு",
           "பிளவுக் கோடு",
           "பிளவுத் தடம்",
-          "இணைப்புக் கோடு (Suture line)"
+          "இணைப்புக் கோடு"
         ],
         "explanation": "இந்தியத் தட்டு யூரேசியத் தட்டுடன் மோதியதால் இமயமலை உருவானது."
       }
@@ -604,7 +604,7 @@
       "ta": {
         "q": "பாறைக்கோளம் உருவாக்கப்படுவதுமில்லை, அழிக்கப்படுவதுமில்லை என்பதால் 'பாதுகாப்பு (செயலற்ற) எல்லை' எனப்படும் தட்டு எல்லை எது?",
         "options": [
-          "பக்கவாட்டு (உருமாறு) எல்லை",
+          "பக்கவாட்டு எல்லை",
           "விலகு எல்லை",
           "குவி எல்லை",
           "அமிழ்வு எல்லை"
@@ -623,20 +623,20 @@
       "en": {
         "q": "The movement of lithospheric plates is caused by",
         "options": [
-          "the gravitational pull of the Moon",
-          "convection cells of molten material heated by the core",
-          "the rotation of the Earth alone",
-          "ocean currents"
+          "the gravitational pull of the Moon and the Sun on the crust",
+          "convection currents of molten material heated by the core",
+          "the daily rotation of the Earth on its axis at the equator",
+          "the steady push of strong ocean currents on the sea floor"
         ],
         "explanation": "Circulating magma pushes or pulls plates, so they move towards, away from or beside one another."
       },
       "ta": {
         "q": "பாறைக்கோளத் தட்டுகள் நகர்வதற்குக் காரணம்",
         "options": [
-          "நிலவின் ஈர்ப்பு விசை",
-          "உட்கருவின் வெப்பத்தால் ஏற்படும் உருகிய பொருட்களின் வெப்பச்சலனச் சுழற்சி",
-          "புவியின் சுழற்சி மட்டுமே",
-          "கடல் நீரோட்டங்கள்"
+          "புவி மேலோட்டின் மீது நிலவும் சூரியனும் செலுத்தும் ஈர்ப்பு விசை",
+          "உட்கருவின் வெப்பத்தால் உருகிய பொருட்களில் ஏற்படும் வெப்பச்சலனச் சுழற்சி",
+          "நடுக்கோட்டுப் பகுதியில் புவி தன் அச்சில் அன்றாடச் சுழல்வது",
+          "கடலடித் தளத்தின் மீது வலிமையான கடல் நீரோட்டங்கள் செலுத்தும் தள்ளுவிசை"
         ],
         "explanation": "சுழலும் மாக்மா தட்டுகளைத் தள்ளுவதாலும் இழுப்பதாலும் அவை அருகே, விலகி, பக்கவாட்டில் நகர்கின்றன."
       }
@@ -664,7 +664,7 @@
         "options": [
           "உச்சி; பக்கம்",
           "கீழ்மடிப்பு; மேல்மடிப்பு",
-          "மேல்மடிப்பு (Anticline); கீழ்மடிப்பு (Syncline)",
+          "மேல்மடிப்பு; கீழ்மடிப்பு",
           "பக்கம்; உச்சி"
         ],
         "explanation": "மடிப்பின் பக்கம் 'லிம்ப்', மேற்பகுதி 'கிரெஸ்ட்'; இரு பக்கங்களுக்கு இடையிலான கோணத்தைப் பிரிக்கும் தளம் அச்சுத் தளம்."
@@ -866,7 +866,7 @@
         "q": "ரைன் பிளவுப் பள்ளத்தாக்கின் இருபுறமும் உள்ள இரு தொகுதி மலைகள் எவை?",
         "options": [
           "விந்திய, சாத்பூரா",
-          "வோஸ்ஜஸ், கருங்காடு (Black Forest)",
+          "வோஸ்ஜஸ், கருங்காடு",
           "ஆல்ப்ஸ், பிரனீஸ்",
           "யூரல், காகசஸ்"
         ],
@@ -896,7 +896,7 @@
         "options": [
           "தொகுதி",
           "முகடு",
-          "தொட்டி (அகழி)",
+          "தொட்டி",
           "படி"
         ],
         "explanation": "இரு இணையான இயல்பான பிளவுகளுக்கு இடையே ஒரு குறுகிய நிலத்தொகுதி கீழிறங்கும்போது பிளவுப் பள்ளத்தாக்கு உருவாகிறது."
@@ -1029,9 +1029,9 @@
       "en": {
         "q": "Earthquake intensity is measured on the",
         "options": [
-          "Kelvin scale",
-          "Richter scale",
-          "Beaufort scale",
+          "Kelvin temperature scale",
+          "Richter magnitude scale",
+          "Beaufort wind scale",
           "modified Mercalli scale"
         ],
         "explanation": "Magnitude is measured on the Richter scale; the seismograph records seismic waves."
@@ -1039,10 +1039,10 @@
       "ta": {
         "q": "நிலநடுக்கத்தின் தீவிரம் (Intensity) எந்த அளவுகோலால் அளக்கப்படுகிறது?",
         "options": [
-          "கெல்வின் அளவுகோல்",
-          "ரிக்டர் அளவுகோல்",
-          "பியூஃபோர்ட் அளவுகோல்",
-          "மாற்றியமைக்கப்பட்ட மெர்காலி அளவுகோல்"
+          "கெல்வின் வெப்ப அளவுகோல்",
+          "ரிக்டர் பருமை அளவுகோல்",
+          "பியூஃபோர்ட் காற்று அளவுகோல்",
+          "திருத்திய மெர்காலி அளவுகோல்"
         ],
         "explanation": "நிலநடுக்கத்தின் அளவு (Magnitude) ரிக்டர் அளவுகோலில் அளக்கப்படுகிறது; அதிர்வுகளைப் பதிவு செய்வது நில அதிர்வுமானி."
       }
@@ -1098,7 +1098,7 @@
         "q": "நீரும் வாயுக்களும் மிகுதியாக உள்ள எரிமலைக் குழம்பு வெளியேறும்போது உருவாகும் எரிமலைப் பாறை",
         "options": [
           "பாசால்ட்",
-          "பியூமிஸ் (பாறைநுரை)",
+          "பியூமிஸ்",
           "கிரானைட்",
           "சலவைக்கல்"
         ],
@@ -1175,7 +1175,7 @@
         "q": "Which Indian sites are named as promising spots for geothermal electricity generation?",
         "options": [
           "Puga valley in Ladakh and Manikaran in Himachal Pradesh",
-          "Barren Island and Narcondam",
+          "Sundarbans in West Bengal and Chilika in Odisha",
           "Koyna and Latur",
           "Kutch and Jaisalmer"
         ],
@@ -1184,10 +1184,10 @@
       "ta": {
         "q": "புவிவெப்ப மின்சாரம் தயாரிக்க ஏற்ற இடங்களாக இந்தியாவில் குறிப்பிடப்படுபவை",
         "options": [
-          "லடாக்கின் புகா பள்ளத்தாக்கு, இமாச்சலப் பிரதேசத்தின் மணிகரன்",
-          "பாரன் தீவு, நார்கொண்டம்",
+          "லடாக் புகா பள்ளத்தாக்கு, இமாச்சலத்தின் மணிகரன்",
+          "மேற்கு வங்கத்தின் சுந்தரவனம், ஒடிசாவின் சிலிகா ஏரி",
           "கோயனா, லாத்தூர்",
-          "கட்ச், ஜெய்சல்மேர்"
+          "குஜராத்தின் கட்ச், இராஜஸ்தானின் ஜெய்சல்மேர்"
         ],
         "explanation": "செயல்படும் எரிமலைகளுக்கு அருகே ஆழத்திலுள்ள நீர் சூடான மாக்மாவால் வெப்பமடைந்து ஊற்றுகளையும் வெந்நீர் ஊற்றுகளையும் உருவாக்குகிறது."
       }
