@@ -392,19 +392,19 @@
         "q": "Which human activities increase the amount of biologically available nitrogen in an ecosystem?",
         "options": [
           "Planting trees and harvesting rainwater",
-          "Burning fossil fuels and using nitrogen-based fertilizers",
-          "Using solar and wind energy",
-          "Drip irrigation and mulching"
+          "Burning fossil fuels and using nitrogen fertilizers",
+          "Using solar and wind energy for power",
+          "Drip irrigation and mulching of the soil"
         ],
         "explanation": "Nitrogen applied to fields enters rivers and seas. It alters biodiversity, changes food webs and destroys habitats."
       },
       "ta": {
         "q": "சூழ்மண்டலத்தில் உயிரினங்கள் பயன்படுத்தக்கூடிய நைட்ரஜனின் அளவை அதிகரிக்கும் மனிதச் செயல்பாடுகள் எவை?",
         "options": [
-          "மரம் நடுதல், மழைநீர் சேகரிப்பு",
-          "புதைபடிவ எரிபொருள்களை எரித்தல், நைட்ரஜன் உரங்களைப் பயன்படுத்துதல்",
-          "சூரிய, காற்று ஆற்றலைப் பயன்படுத்துதல்",
-          "சொட்டு நீர்ப்பாசனம், மூடாக்கு இடுதல்"
+          "மரங்களை நடுதல், மழைநீரைச் சேகரித்தல்",
+          "புதைபடிவ எரிபொருள்களை எரித்தல், நைட்ரஜன் உரமிடுதல்",
+          "மின்சாரத்துக்குச் சூரிய, காற்று ஆற்றலைப் பயன்படுத்துதல்",
+          "சொட்டு நீர்ப்பாசனம் செய்தல், மண்ணுக்கு மூடாக்கு இடுதல்"
         ],
         "explanation": "வயல்களில் இடப்படும் நைட்ரஜன் ஆறுகளிலும் கடல்களிலும் கலக்கிறது. இது பல்லுயிர்த் தன்மையை மாற்றி, உணவு வலையைச் சீர்குலைத்து, வாழிடங்களை அழிக்கிறது."
       }
@@ -694,7 +694,7 @@
           "உருமறைப்பு",
           "குளிர்கால உறக்கம்",
           "இரவில் இயங்குதல்",
-          "எதிரொலி இடமறிதல் (Echolocation)"
+          "எதிரொலி இடமறிதல்"
         ],
         "explanation": "பார்வை வௌவால்களுக்குக் குறுகிய தூர வழிநடத்தலுக்கு மட்டுமே உதவுகிறது. மண்புழுக்கள் அல்ல, வௌவால்களே எதிரொலி இடமறிதலைப் பயன்படுத்துகின்றன."
       }
@@ -739,20 +739,20 @@
       "en": {
         "q": "Why is being active at night (nocturnality) a useful adaptation for bats?",
         "options": [
-          "Bats are blind and cannot see anything in daylight",
-          "Flight in daytime needs a lot of energy, and the black wing membrane may absorb too much heat and cause dehydration",
-          "Insects are found only at night",
-          "Bats cannot produce any sound during the day"
+          "Bats are blind and cannot see anything in the bright daylight",
+          "Daytime flight needs much energy and the black wings may overheat",
+          "Insects hide inside the ground during the entire day",
+          "Bats cannot produce ultrasonic sounds during the daytime"
         ],
         "explanation": "During the day bats rest in caves, trees, hollow logs and rock crevices."
       },
       "ta": {
         "q": "இரவில் இயங்குதல் (Nocturnality) வௌவால்களுக்குப் பயனுள்ள தகவமைப்பாக இருப்பது ஏன்?",
         "options": [
-          "வௌவால்கள் குருடானவை; பகலில் எதையும் பார்க்க இயலாது",
-          "பகலில் பறக்க அதிக ஆற்றல் தேவை; கருப்பு இறக்கைச் சவ்வு அதிக வெப்பத்தை உறிஞ்சி நீரிழப்பை ஏற்படுத்தலாம்",
-          "பூச்சிகள் இரவில் மட்டுமே காணப்படுகின்றன",
-          "பகலில் வௌவால்களால் எந்த ஒலியையும் எழுப்ப இயலாது"
+          "வௌவால்கள் குருடானவை; பிரகாசமான பகலில் எதையும் பார்க்க இயலாது",
+          "பகலில் பறக்க அதிக ஆற்றல் தேவை; கருப்பு இறக்கைகள் அதிகமாகச் சூடாகலாம்",
+          "பூச்சிகள் பகல் முழுவதும் நிலத்துக்குள் ஒளிந்துகொள்கின்றன",
+          "பகலில் வௌவால்களால் மீயொலியை எழுப்ப இயலாது"
         ],
         "explanation": "பகலில் வௌவால்கள் குகைகள், மரங்கள், உள்ளீடற்ற மரக்கட்டைகள், பாறை இடுக்குகளில் ஓய்வெடுக்கின்றன."
       }
@@ -797,20 +797,20 @@
       "en": {
         "q": "Earthworms have no eyes. How do they sense light?",
         "options": [
-          "They cannot sense light at all",
+          "Through their mouth parts near the head",
           "Through a pair of simple eyes on the head",
-          "Through their setae",
-          "Through light-sensitive cells (photoreceptors) in their skin"
+          "Through their bristle-like setae",
+          "Through light-sensitive cells in their skin"
         ],
         "explanation": "Earthworms are photophobic, which means they move away from bright light. They stay in their burrows during the day."
       },
       "ta": {
         "q": "மண்புழுக்களுக்குக் கண்கள் இல்லை. அவை ஒளியை எவ்வாறு உணர்கின்றன?",
         "options": [
-          "அவற்றால் ஒளியை உணரவே இயலாது",
+          "தலைப் பகுதியிலுள்ள வாய்ப் பாகங்கள் மூலம்",
           "தலையில் உள்ள ஓரிணை எளிய கண்கள் மூலம்",
-          "சீட்டாக்கள் மூலம்",
-          "தோலில் உள்ள ஒளி உணர் செல்கள் (Photoreceptors) மூலம்"
+          "அவற்றின் சீட்டா முட்கள் மூலம்",
+          "தோலில் உள்ள ஒளி உணர் செல்கள் மூலம்"
         ],
         "explanation": "மண்புழுக்கள் ஒளி வெறுப்பவை (Photophobic). அதாவது அவை பிரகாசமான ஒளியிலிருந்து விலகிச் செல்கின்றன. பகலில் அவை வளைக்குள்ளேயே இருக்கின்றன."
       }
@@ -855,9 +855,9 @@
       "en": {
         "q": "Earthworms are called the 'Farmer's friend' because they",
         "options": [
-          "Eat the roots of crop plants",
-          "Aerate the soil, help water infiltration and excrete nutrient-rich castings",
-          "Kill all insects in the field",
+          "Eat the roots and tender shoots of crop plants",
+          "Aerate the soil and excrete nutrient-rich castings",
+          "Kill the harmful insects in the crop field",
           "Fix nitrogen from the air in root nodules"
         ],
         "explanation": "The castings are used as vermicompost. Earthworms play a vital role in maintaining soil fertility."
@@ -865,9 +865,9 @@
       "ta": {
         "q": "மண்புழுக்கள் 'உழவனின் நண்பன்' என அழைக்கப்படுவதற்குக் காரணம்",
         "options": [
-          "பயிர்த் தாவரங்களின் வேர்களை உண்பதால்",
-          "மண்ணில் காற்றோட்டம் ஏற்படுத்தி, நீர் ஊடுருவலுக்கு உதவி, சத்துமிக்க புழுக்கட்டிகளை வெளியேற்றுவதால்",
-          "வயலில் உள்ள அனைத்துப் பூச்சிகளையும் கொல்வதால்",
+          "பயிர்த் தாவரங்களின் வேர்களையும் இளந்தளிர்களையும் உண்பதால்",
+          "மண்ணில் காற்றோட்டம் ஏற்படுத்தி, சத்துமிக்க புழுக்கட்டிகளை வெளியேற்றுவதால்",
+          "வயலிலுள்ள தீங்கு தரும் பூச்சிகளைக் கொல்வதால்",
           "வேர்முடிச்சுகளில் காற்றின் நைட்ரஜனை நிலைநிறுத்துவதால்"
         ],
         "explanation": "புழுக்கட்டிகள் மண்புழு உரமாகப் பயன்படுகின்றன. மண் வளத்தைப் பேணுவதில் மண்புழுக்கள் முக்கியப் பங்கு வகிக்கின்றன."
