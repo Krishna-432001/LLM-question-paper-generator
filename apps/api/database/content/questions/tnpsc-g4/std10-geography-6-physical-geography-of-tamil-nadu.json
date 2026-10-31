@@ -217,9 +217,9 @@
       "en": {
         "q": "In Tamil Nadu the Western Ghats extend from the Nilgiris in the north to",
         "options": [
-          "Mahendragiri",
-          "Pothigai hills",
-          "Agasthiyar hills",
+          "Kolli hills near Namakkal",
+          "Javadi hills near Tirupattur",
+          "Shevaroy hills near Yercaud",
           "Marunthuvazh Malai at Swamithope"
         ],
         "explanation": "Its height ranges from 2,000 to 3,000 m and it covers about 2,500 sq km."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "தமிழ்நாட்டில் மேற்குத் தொடர்ச்சி மலை வடக்கே நீலகிரியிலிருந்து தெற்கே எதுவரை நீள்கிறது?",
         "options": [
-          "மகேந்திரகிரி",
-          "பொதிகை மலை",
-          "அகத்தியர் மலை",
+          "நாமக்கல் அருகிலுள்ள கொல்லிமலை",
+          "திருப்பத்தூர் அருகிலுள்ள ஜவ்வாது மலை",
+          "ஏற்காடு அருகிலுள்ள சேர்வராயன் மலை",
           "சாமித்தோப்பு மருந்துவாழ் மலை"
         ],
         "explanation": "உயரம் 2,000 முதல் 3,000 மீ; பரப்பு சுமார் 2,500 சதுர கி.மீ."
@@ -420,20 +420,20 @@
       "en": {
         "q": "The Vaigai river and its tributaries originate in the",
         "options": [
-          "Pothigai hills",
-          "Palani hills",
+          "Pothigai hills near Papanasam",
+          "Palani hills near Kodaikanal",
           "Varusanadu and Andipatti hills",
-          "Anaimalai hills"
+          "Anaimalai hills near Valparai"
         ],
         "explanation": "Megamalai, Kurangani and Suruli and Kumbakarai falls are on these hills; Srivilliputhur Grizzled Squirrel Sanctuary is on their southern slope."
       },
       "ta": {
         "q": "வைகை ஆறும் அதன் துணையாறுகளும் எங்கு உற்பத்தியாகின்றன?",
         "options": [
-          "பொதிகை மலை",
-          "பழனி மலை",
+          "பாபநாசம் அருகிலுள்ள பொதிகை மலை",
+          "கொடைக்கானல் அருகிலுள்ள பழனி மலை",
           "வருசநாடு, ஆண்டிப்பட்டி மலைகள்",
-          "ஆனைமலை"
+          "வால்பாறை அருகிலுள்ள ஆனைமலை"
         ],
         "explanation": "மேகமலை, குரங்கணி, சுருளி, கும்பக்கரை அருவிகள் இம்மலைகளில்; தெற்குச் சரிவில் ஸ்ரீவில்லிபுத்தூர் சாம்பல் நிற அணில் சரணாலயம்."
       }
@@ -797,9 +797,9 @@
       "en": {
         "q": "The wide stretch of the Cauvery near Karur, after the Noyyal and Amaravathi join it, is called",
         "options": [
-          "Coleroon",
-          "Kollidam",
-          "Srirangam",
+          "Coleroon river",
+          "Kollidam branch",
+          "Srirangam island",
           "Agandra Cauvery"
         ],
         "explanation": "The tributaries join at Thirumukkudal, 10 km from Karur; Bhavani joins about 45 km from Mettur."
@@ -826,7 +826,7 @@
       "en": {
         "q": "The riverine island of Srirangam lies between which two branches of the Cauvery?",
         "options": [
-          "Coleroon (Kollidam) and Cauvery",
+          "Coleroon and Cauvery",
           "Bhavani and Cauvery",
           "Noyyal and Amaravathi",
           "Vennar and Vettar"
@@ -884,8 +884,8 @@
       "en": {
         "q": "The Krishnagiri and Sathanur reservoirs are built across the river",
         "options": [
-          "Palar",
-          "Vaigai",
+          "Kosasthalaiyar",
+          "Thamirabarani",
           "Then Pennaiyar",
           "Cauvery"
         ],
@@ -894,8 +894,8 @@
       "ta": {
         "q": "கிருஷ்ணகிரி, சாத்தனூர் நீர்த்தேக்கங்கள் எந்த ஆற்றின் குறுக்கே உள்ளன?",
         "options": [
-          "பாலாறு",
-          "வைகை",
+          "கொசஸ்தலை",
+          "தாமிரபரணி",
           "தென்பெண்ணை",
           "காவிரி"
         ],
@@ -943,7 +943,7 @@
         "q": "The only perennial river of Tamil Nadu is",
         "options": [
           "Thamirabarani",
-          "Cauvery",
+          "Kosasthalaiyar",
           "Vaigai",
           "Palar"
         ],
@@ -953,7 +953,7 @@
         "q": "தமிழ்நாட்டின் ஒரே வற்றாத ஆறு எது?",
         "options": [
           "தாமிரபரணி",
-          "காவிரி",
+          "கொசஸ்தலையாறு",
           "வைகை",
           "பாலாறு"
         ],

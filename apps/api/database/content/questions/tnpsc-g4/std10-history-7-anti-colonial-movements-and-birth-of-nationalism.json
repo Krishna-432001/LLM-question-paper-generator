@@ -4,354 +4,1454 @@
   "breadcrumb": "Std 10 Social Science (English) — History Unit 7: Anti-Colonial Movements and the Birth of Nationalism",
   "questions": [
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 75,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 75,
       "quote": "On 23 June 1757 the Nawab of Bengal Siraj-ud-daulah was defeated by the East India Company at the Battle of Plassey.",
       "answer": "A",
-      "en": {"q": "The Battle of Plassey, in which Siraj-ud-daulah was defeated by the East India Company, was fought on", "options": ["23 June 1757", "23 June 1764", "11 May 1857", "29 March 1857"], "explanation": "The battle was orchestrated by Robert Clive with the clandestine support of Mir Jafar and the Jagat Seths."},
-      "ta": {"q": "சிராஜ்-உத்-தௌலாவை கிழக்கிந்தியக் கம்பெனி தோற்கடித்த பிளாசிப் போர் நடைபெற்ற நாள் எது?", "options": ["23 ஜூன் 1757", "23 ஜூன் 1764", "11 மே 1857", "29 மார்ச் 1857"], "explanation": "மீர் ஜாபர், ஜகத் சேத்துகளின் இரகசிய ஆதரவுடன் ராபர்ட் கிளைவ் இப்போரைத் திட்டமிட்டார்."}
+      "en": {
+        "q": "The Battle of Plassey, in which Siraj-ud-daulah was defeated by the East India Company, was fought on",
+        "options": [
+          "23 June 1757",
+          "23 June 1764",
+          "11 May 1857",
+          "29 March 1857"
+        ],
+        "explanation": "The battle was orchestrated by Robert Clive with the clandestine support of Mir Jafar and the Jagat Seths."
+      },
+      "ta": {
+        "q": "சிராஜ்-உத்-தௌலாவை கிழக்கிந்தியக் கம்பெனி தோற்கடித்த பிளாசிப் போர் நடைபெற்ற நாள் எது?",
+        "options": [
+          "23 ஜூன் 1757",
+          "23 ஜூன் 1764",
+          "11 மே 1857",
+          "29 மார்ச் 1857"
+        ],
+        "explanation": "மீர் ஜாபர், ஜகத் சேத்துகளின் இரகசிய ஆதரவுடன் ராபர்ட் கிளைவ் இப்போரைத் திட்டமிட்டார்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 75,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 75,
       "quote": "Robert Clive, commander-in-chief of the East India Company, who managed to get the clandestine support from Mir Jafar, the uncle of Siraj-ud-daulah and the chief of the Nawab's army.",
       "answer": "B",
-      "en": {"q": "Who gave clandestine support to Robert Clive at the Battle of Plassey?", "options": ["Jagat Seth alone", "Mir Jafar, uncle of Siraj-ud-daulah", "Mir Qasim", "Shuja-ud-daulah"], "explanation": "Mir Jafar, chief of the Nawab's army, became the new Nawab of Bengal after the battle."},
-      "ta": {"q": "பிளாசிப் போரில் ராபர்ட் கிளைவுக்கு இரகசிய ஆதரவு அளித்தவர் யார்?", "options": ["ஜகத் சேத் மட்டும்", "சிராஜ்-உத்-தௌலாவின் மாமன் மீர் ஜாபர்", "மீர் காசிம்", "ஷுஜா-உத்-தௌலா"], "explanation": "நவாபின் படைத்தலைவரான மீர் ஜாபர் போருக்குப் பின் வங்காளத்தின் புதிய நவாப் ஆனார்."}
+      "en": {
+        "q": "Who gave clandestine support to Robert Clive at the Battle of Plassey?",
+        "options": [
+          "Jagat Seth alone",
+          "Mir Jafar, uncle of Siraj-ud-daulah",
+          "Mir Qasim, the son-in-law of Mir Jafar",
+          "Shuja-ud-daulah, the Nawab of Awadh"
+        ],
+        "explanation": "Mir Jafar, chief of the Nawab's army, became the new Nawab of Bengal after the battle."
+      },
+      "ta": {
+        "q": "பிளாசிப் போரில் ராபர்ட் கிளைவுக்கு இரகசிய ஆதரவு அளித்தவர் யார்?",
+        "options": [
+          "ஜகத் சேத் மட்டுமே",
+          "சிராஜ்-உத்-தௌலாவின் மாமன் மீர் ஜாபர்",
+          "மீர் ஜாபரின் மருமகன் மீர் காசிம்",
+          "அவத் பகுதியின் நவாப் ஷுஜா-உத்-தௌலா"
+        ],
+        "explanation": "நவாபின் படைத்தலைவரான மீர் ஜாபர் போருக்குப் பின் வங்காளத்தின் புதிய நவாப் ஆனார்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 75,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 75,
       "quote": "Between 1757 and 1760, the company received ₹ 22.5 million from Mir Jafar, who became the new Nawab of Bengal. The same money was later invested to propel the industrial revolution in Britain.",
       "answer": "C",
-      "en": {"q": "Between 1757 and 1760 the East India Company received from Mir Jafar a sum of", "options": ["₹2.25 million", "₹12.5 million", "₹22.5 million", "₹225 million"], "explanation": "The money was invested to propel the industrial revolution in Britain while India was led to de-industrialisation."},
-      "ta": {"q": "1757–1760 காலத்தில் கிழக்கிந்தியக் கம்பெனி மீர் ஜாபரிடமிருந்து பெற்ற தொகை எவ்வளவு?", "options": ["₹2.25 மில்லியன்", "₹12.5 மில்லியன்", "₹22.5 மில்லியன்", "₹225 மில்லியன்"], "explanation": "இப்பணம் பிரிட்டனின் தொழிற்புரட்சியை முடுக்க முதலீடு செய்யப்பட்டது; இந்தியா தொழில் அழிவுப் பாதைக்குத் தள்ளப்பட்டது."}
+      "en": {
+        "q": "Between 1757 and 1760 the East India Company received from Mir Jafar a sum of",
+        "options": [
+          "₹2.25 million",
+          "₹12.5 million",
+          "₹22.5 million",
+          "₹225 million"
+        ],
+        "explanation": "The money was invested to propel the industrial revolution in Britain while India was led to de-industrialisation."
+      },
+      "ta": {
+        "q": "1757–1760 காலத்தில் கிழக்கிந்தியக் கம்பெனி மீர் ஜாபரிடமிருந்து பெற்ற தொகை எவ்வளவு?",
+        "options": [
+          "₹2.25 மில்லியன்",
+          "₹12.5 மில்லியன்",
+          "₹22.5 மில்லியன்",
+          "₹225 மில்லியன்"
+        ],
+        "explanation": "இப்பணம் பிரிட்டனின் தொழிற்புரட்சியை முடுக்க முதலீடு செய்யப்பட்டது; இந்தியா தொழில் அழிவுப் பாதைக்குத் தள்ளப்பட்டது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 76,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 76,
       "quote": "d. Mass Insurrection – Usually leaderless and spontaneous uprising.",
       "answer": "D",
-      "en": {"q": "Which category of peasant uprising in British India is described as usually leaderless and spontaneous?", "options": ["Restorative rebellion", "Religious movement", "Social banditry", "Mass insurrection"], "explanation": "The nearly hundred peasant uprisings are classified as restorative rebellions, religious movements, social banditry and mass insurrection."},
-      "ta": {"q": "ஆங்கிலேய இந்தியாவில் பொதுவாகத் தலைமையற்ற, தன்னிச்சையான எழுச்சி என விவரிக்கப்படும் விவசாயிகள் எழுச்சி வகை எது?", "options": ["மீட்பு கிளர்ச்சி", "மத இயக்கம்", "சமூகக் கொள்ளை", "மக்கள் எழுச்சி"], "explanation": "சுமார் நூறு விவசாயிகள் எழுச்சிகள் மீட்பு கிளர்ச்சி, மத இயக்கம், சமூகக் கொள்ளை, மக்கள் எழுச்சி என வகைப்படுத்தப்படுகின்றன."}
+      "en": {
+        "q": "Which category of peasant uprising in British India is described as usually leaderless and spontaneous?",
+        "options": [
+          "Restorative rebellion",
+          "Religious movement",
+          "Social banditry",
+          "Mass insurrection"
+        ],
+        "explanation": "The nearly hundred peasant uprisings are classified as restorative rebellions, religious movements, social banditry and mass insurrection."
+      },
+      "ta": {
+        "q": "ஆங்கிலேய இந்தியாவில் பொதுவாகத் தலைமையற்ற, தன்னிச்சையான எழுச்சி என விவரிக்கப்படும் விவசாயிகள் எழுச்சி வகை எது?",
+        "options": [
+          "மீட்பு கிளர்ச்சி",
+          "மத இயக்கம்",
+          "சமூகக் கொள்ளை",
+          "மக்கள் எழுச்சி"
+        ],
+        "explanation": "சுமார் நூறு விவசாயிகள் எழுச்சிகள் மீட்பு கிளர்ச்சி, மத இயக்கம், சமூகக் கொள்ளை, மக்கள் எழுச்சி என வகைப்படுத்தப்படுகின்றன."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 76,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 76,
       "quote": "Farazi movement was launched by Haji Shariatullah in 1818.",
       "answer": "A",
-      "en": {"q": "The Farazi Movement in East Bengal was launched in 1818 by", "options": ["Haji Shariatullah", "Titu Mir", "Dudu Mian", "Noah Mian"], "explanation": "After Shariatullah's death in 1839 the movement was led by his son Dudu Mian and revived in the 1870s by Noah Mian."},
-      "ta": {"q": "கிழக்கு வங்காளத்தில் 1818இல் ஃபராசி இயக்கத்தைத் தொடங்கியவர் யார்?", "options": ["ஹாஜி ஷரியத்துல்லா", "திது மீர்", "துது மியான்", "நோவா மியான்"], "explanation": "1839இல் ஷரியத்துல்லா மறைந்த பின் மகன் துது மியான் வழிநடத்தினார்; 1870களில் நோவா மியான் புத்துயிர் அளித்தார்."}
+      "en": {
+        "q": "The Farazi Movement in East Bengal was launched in 1818 by",
+        "options": [
+          "Haji Shariatullah",
+          "Titu Mir of Barasat",
+          "Dudu Mian of Faridpur",
+          "Noah Mian"
+        ],
+        "explanation": "After Shariatullah's death in 1839 the movement was led by his son Dudu Mian and revived in the 1870s by Noah Mian."
+      },
+      "ta": {
+        "q": "கிழக்கு வங்காளத்தில் 1818இல் ஃபராசி இயக்கத்தைத் தொடங்கியவர் யார்?",
+        "options": [
+          "ஹாஜி ஷரியத்துல்லா",
+          "பாரசாத் திது மீர்",
+          "ஃபரீத்பூர் துது மியான்",
+          "நோவா மியான்"
+        ],
+        "explanation": "1839இல் ஷரியத்துல்லா மறைந்த பின் மகன் துது மியான் வழிநடத்தினார்; 1870களில் நோவா மியான் புத்துயிர் அளித்தார்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 76,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 76,
       "quote": "Dudu Mian laid emphasis on the egalitarian nature of religion and declared that \"Land belongs to God\", and collecting rent or levying taxes on it was therefore against divine law.",
       "answer": "B",
-      "en": {"q": "Who declared that \"Land belongs to God\" and that collecting rent or tax on it was against divine law?", "options": ["Titu Mir", "Dudu Mian", "Sidhu", "Shariatullah"], "explanation": "Dudu Mian mobilised peasants through a network of village organisations and called upon them not to pay tax."},
-      "ta": {"q": "\"நிலம் கடவுளுக்குச் சொந்தம்\" என்றும் அதற்கு வாடகை, வரி வசூலிப்பது தெய்வச் சட்டத்திற்கு எதிரானது என்றும் அறிவித்தவர் யார்?", "options": ["திது மீர்", "துது மியான்", "சித்து", "ஷரியத்துல்லா"], "explanation": "கிராம அமைப்புகள் வழியாக விவசாயிகளைத் திரட்டிய துது மியான் வரி செலுத்த வேண்டாம் என அழைப்பு விடுத்தார்."}
+      "en": {
+        "q": "Who declared that \"Land belongs to God\" and that collecting rent or tax on it was against divine law?",
+        "options": [
+          "Titu Mir",
+          "Dudu Mian",
+          "Sidhu",
+          "Shariatullah"
+        ],
+        "explanation": "Dudu Mian mobilised peasants through a network of village organisations and called upon them not to pay tax."
+      },
+      "ta": {
+        "q": "\"நிலம் கடவுளுக்குச் சொந்தம்\" என்றும் அதற்கு வாடகை, வரி வசூலிப்பது தெய்வச் சட்டத்திற்கு எதிரானது என்றும் அறிவித்தவர் யார்?",
+        "options": [
+          "திது மீர்",
+          "துது மியான்",
+          "சித்து",
+          "ஷரியத்துல்லா"
+        ],
+        "explanation": "கிராம அமைப்புகள் வழியாக விவசாயிகளைத் திரட்டிய துது மியான் வரி செலுத்த வேண்டாம் என அழைப்பு விடுத்தார்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 76,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 76,
       "quote": "The Wahhabi rebellion was an anti-imperial and anti-landlord movement. It originated in and around 1827, in the Barasat region of Bengal. It was led by an Islamic preacher Titu Mir",
       "answer": "C",
-      "en": {"q": "The Wahhabi rebellion (around 1827) in the Barasat region of Bengal was led by", "options": ["Haji Shariatullah", "Dudu Mian", "Titu Mir", "Birsa Munda"], "explanation": "It was an anti-imperial and anti-landlord movement among the Muslim peasantry oppressed under the zamindari system."},
-      "ta": {"q": "வங்காளத்தின் பாரசாத் பகுதியில் (சுமார் 1827) வஹாபிக் கிளர்ச்சியை வழிநடத்தியவர் யார்?", "options": ["ஹாஜி ஷரியத்துல்லா", "துது மியான்", "திது மீர்", "பிர்சா முண்டா"], "explanation": "ஜமீன்தாரி முறையில் ஒடுக்கப்பட்ட முஸ்லிம் விவசாயிகளிடையே எழுந்த ஏகாதிபத்திய, நிலப்பிரபு எதிர்ப்பு இயக்கம்."}
+      "en": {
+        "q": "The Wahhabi rebellion (around 1827) in the Barasat region of Bengal was led by",
+        "options": [
+          "Haji Shariatullah",
+          "Dudu Mian",
+          "Titu Mir",
+          "Birsa Munda"
+        ],
+        "explanation": "It was an anti-imperial and anti-landlord movement among the Muslim peasantry oppressed under the zamindari system."
+      },
+      "ta": {
+        "q": "வங்காளத்தின் பாரசாத் பகுதியில் (சுமார் 1827) வஹாபிக் கிளர்ச்சியை வழிநடத்தியவர் யார்?",
+        "options": [
+          "ஹாஜி ஷரியத்துல்லா",
+          "துது மியான்",
+          "திது மீர்",
+          "பிர்சா முண்டா"
+        ],
+        "explanation": "ஜமீன்தாரி முறையில் ஒடுக்கப்பட்ட முஸ்லிம் விவசாயிகளிடையே எழுந்த ஏகாதிபத்திய, நிலப்பிரபு எதிர்ப்பு இயக்கம்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 76,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 76,
       "quote": "One major tribal revolt, the Kol uprising of 1831-32, took place in Chota Nagpur and Singbhum region of present day Jharkhand and Odisha, under the leadership of Bindrai and Singhrai.",
       "answer": "D",
-      "en": {"q": "The Kol uprising of 1831–32 took place in the region of", "options": ["Rajmahal Hills", "Ranchi", "Barasat", "Chota Nagpur and Singbhum"], "explanation": "The Raja of Chhota Nagpur had leased out revenue collection to moneylenders, whose usury and evictions provoked the Kols."},
-      "ta": {"q": "1831–32 கோல் எழுச்சி நடைபெற்ற பகுதி எது?", "options": ["ராஜ்மகால் மலைகள்", "ராஞ்சி", "பாரசாத்", "சோட்டா நாக்பூர், சிங்பூம்"], "explanation": "சோட்டா நாக்பூர் அரசர் வரி வசூலைக் கந்துவட்டிக்காரர்களுக்குக் குத்தகைக்கு விட்டதால் ஏற்பட்ட கொடுமைகளும் வெளியேற்றங்களும் கோல்களைக் கொதிப்படையச் செய்தன."}
+      "en": {
+        "q": "The Kol uprising of 1831–32 took place in the region of",
+        "options": [
+          "Garo Hills in Meghalaya",
+          "Malabar region of Kerala",
+          "Barasat in West Bengal",
+          "Chota Nagpur and Singbhum"
+        ],
+        "explanation": "The Raja of Chhota Nagpur had leased out revenue collection to moneylenders, whose usury and evictions provoked the Kols."
+      },
+      "ta": {
+        "q": "1831–32 கோல் எழுச்சி நடைபெற்ற பகுதி எது?",
+        "options": [
+          "மேகாலயாவின் காரோ மலைகள்",
+          "கேரளத்தின் மலபார் பகுதி",
+          "மேற்கு வங்கத்தின் பாரசாத்",
+          "சோட்டா நாக்பூர், சிங்பூம்"
+        ],
+        "explanation": "சோட்டா நாக்பூர் அரசர் வரி வசூலைக் கந்துவட்டிக்காரர்களுக்குக் குத்தகைக்கு விட்டதால் ஏற்பட்ட கொடுமைகளும் வெளியேற்றங்களும் கோல்களைக் கொதிப்படையச் செய்தன."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 76,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 76,
       "quote": "under the leadership of Bindrai and Singhrai.",
       "answer": "A",
-      "en": {"q": "The Kol revolt of 1831–32 was led by", "options": ["Bindrai and Singhrai", "Sidhu and Kanu", "Birsa Munda", "Bir Singh"], "explanation": "The Kols spread their message by beating drums with a warning to all outsiders to leave; the British suppressed the rebellion with great violence."},
-      "ta": {"q": "1831–32 கோல் கிளர்ச்சியை வழிநடத்தியவர்கள் யார்?", "options": ["பிந்த்ராய், சிங்ராய்", "சித்து, கானு", "பிர்சா முண்டா", "பீர் சிங்"], "explanation": "வெளியாட்கள் வெளியேற வேண்டும் என முரசு கொட்டி எச்சரித்தனர்; ஆங்கிலேயர் கிளர்ச்சியைக் கடும் வன்முறையால் ஒடுக்கினர்."}
+      "en": {
+        "q": "The Kol revolt of 1831–32 was led by",
+        "options": [
+          "Bindrai and Singhrai",
+          "Sidhu and Kanu Murmu",
+          "Birsa Munda of Ranchi",
+          "Titu Mir and Dudu Mian"
+        ],
+        "explanation": "The Kols spread their message by beating drums with a warning to all outsiders to leave; the British suppressed the rebellion with great violence."
+      },
+      "ta": {
+        "q": "1831–32 கோல் கிளர்ச்சியை வழிநடத்தியவர்கள் யார்?",
+        "options": [
+          "பிந்த்ராய், சிங்ராய்",
+          "சித்து, கானு முர்மு",
+          "ராஞ்சி பிர்சா முண்டா",
+          "திது மீர், துது மியான்"
+        ],
+        "explanation": "வெளியாட்கள் வெளியேற வேண்டும் என முரசு கொட்டி எச்சரித்தனர்; ஆங்கிலேயர் கிளர்ச்சியைக் கடும் வன்முறையால் ஒடுக்கினர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 77,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 77,
       "quote": "In 1855, two Santhal brothers Sidhu and Kanu proclaimed that they had received a divine message from the God, asking them to lead the rebellion.",
       "answer": "B",
-      "en": {"q": "The Santhal Hool (insurrection) of 1855 was led by the brothers", "options": ["Bindrai and Singhrai", "Sidhu and Kanu", "Dudu Mian and Noah Mian", "Titu Mir and Bir Singh"], "explanation": "By July 1855 the Santhals, armed with bows, poisoned arrows and axes, took over Rajmahal and Bhagalpur proclaiming the end of Company rule."},
-      "ta": {"q": "1855 சந்தால் எழுச்சியை (ஹூல்) வழிநடத்திய சகோதரர்கள் யார்?", "options": ["பிந்த்ராய், சிங்ராய்", "சித்து, கானு", "துது மியான், நோவா மியான்", "திது மீர், பீர் சிங்"], "explanation": "ஜூலை 1855க்குள் வில், நச்சு அம்பு, கோடரிகளுடன் சந்தால்கள் ராஜ்மகால், பாகல்பூரைக் கைப்பற்றிக் கம்பெனி ஆட்சி முடிவடையப் போவதாக அறிவித்தனர்."}
+      "en": {
+        "q": "The Santhal Hool (insurrection) of 1855 was led by the brothers",
+        "options": [
+          "Bindrai and Singhrai",
+          "Sidhu and Kanu",
+          "Dudu Mian and Noah Mian",
+          "Titu Mir and Bir Singh"
+        ],
+        "explanation": "By July 1855 the Santhals, armed with bows, poisoned arrows and axes, took over Rajmahal and Bhagalpur proclaiming the end of Company rule."
+      },
+      "ta": {
+        "q": "1855 சந்தால் எழுச்சியை (ஹூல்) வழிநடத்திய சகோதரர்கள் யார்?",
+        "options": [
+          "பிந்த்ராய், சிங்ராய்",
+          "சித்து, கானு",
+          "துது மியான், நோவா மியான்",
+          "திது மீர், பீர் சிங்"
+        ],
+        "explanation": "ஜூலை 1855க்குள் வில், நச்சு அம்பு, கோடரிகளுடன் சந்தால்கள் ராஜ்மகால், பாகல்பூரைக் கைப்பற்றிக் கம்பெனி ஆட்சி முடிவடையப் போவதாக அறிவித்தனர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 77,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 77,
       "quote": "In 1855 an act was passed to regulate the territories occupied by the Santhals. The Act formed the territory into a separate division called Santhal Pargana division.",
       "answer": "C",
-      "en": {"q": "The Act of 1855 formed the territory occupied by the Santhals into a separate division called", "options": ["Chota Nagpur division", "Rajmahal division", "Santhal Pargana division", "Bhagalpur division"], "explanation": "The Santhals had been pushed out of their habitat by the creation of zamins under the Permanent Settlement and trapped in debt to moneylenders."},
-      "ta": {"q": "1855 சட்டம் சந்தால்கள் வாழ்ந்த பகுதியை எந்தப் பெயரில் தனிக் கோட்டமாக அமைத்தது?", "options": ["சோட்டா நாக்பூர் கோட்டம்", "ராஜ்மகால் கோட்டம்", "சந்தால் பர்கானா கோட்டம்", "பாகல்பூர் கோட்டம்"], "explanation": "நிரந்தர நில வருவாய்த் திட்டத்தில் ஜமீன்கள் உருவாக்கப்பட்டதால் வாழிடத்திலிருந்து வெளியேற்றப்பட்ட சந்தால்கள் கந்துவட்டிக் கடனில் சிக்கினர்."}
+      "en": {
+        "q": "The Act of 1855 formed the territory occupied by the Santhals into a separate division called",
+        "options": [
+          "Chota Nagpur division",
+          "Rajmahal division",
+          "Santhal Pargana division",
+          "Bhagalpur division"
+        ],
+        "explanation": "The Santhals had been pushed out of their habitat by the creation of zamins under the Permanent Settlement and trapped in debt to moneylenders."
+      },
+      "ta": {
+        "q": "1855 சட்டம் சந்தால்கள் வாழ்ந்த பகுதியை எந்தப் பெயரில் தனிக் கோட்டமாக அமைத்தது?",
+        "options": [
+          "சோட்டா நாக்பூர் கோட்டம்",
+          "ராஜ்மகால் கோட்டம்",
+          "சந்தால் பர்கானா கோட்டம்",
+          "பாகல்பூர் கோட்டம்"
+        ],
+        "explanation": "நிரந்தர நில வருவாய்த் திட்டத்தில் ஜமீன்கள் உருவாக்கப்பட்டதால் வாழிடத்திலிருந்து வெளியேற்றப்பட்ட சந்தால்கள் கந்துவட்டிக் கடனில் சிக்கினர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 77,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 77,
       "quote": "One of the prominent tribal rebellions of this period occurred in Ranchi, known as Ulugulan rebellion (Great Tumult).",
       "answer": "D",
-      "en": {"q": "The Munda rebellion in Ranchi led by Birsa Munda is known as", "options": ["Santhal Hool", "Kol Uprising", "Farazi Movement", "Ulugulan (Great Tumult)"], "explanation": "The Munda people resisted the alienation of their land, intrusion of moneylenders and the imposition of bethbegari (forced labour)."},
-      "ta": {"q": "பிர்சா முண்டா தலைமையில் ராஞ்சியில் நடந்த முண்டா கிளர்ச்சி எவ்வாறு அறியப்படுகிறது?", "options": ["சந்தால் ஹூல்", "கோல் எழுச்சி", "ஃபராசி இயக்கம்", "உலுகுலான் (பெரும் கொந்தளிப்பு)"], "explanation": "நில அந்நியமாதல், கந்துவட்டிக்காரர் ஊடுருவல், பேத்பேகாரி (கட்டாய உழைப்பு) ஆகியவற்றை முண்டா மக்கள் எதிர்த்தனர்."}
+      "en": {
+        "q": "The Munda rebellion in Ranchi led by Birsa Munda is known as",
+        "options": [
+          "Santhal Hool",
+          "Kol Uprising",
+          "Farazi Movement",
+          "Ulugulan"
+        ],
+        "explanation": "The Munda people resisted the alienation of their land, intrusion of moneylenders and the imposition of bethbegari (forced labour)."
+      },
+      "ta": {
+        "q": "பிர்சா முண்டா தலைமையில் ராஞ்சியில் நடந்த முண்டா கிளர்ச்சி எவ்வாறு அறியப்படுகிறது?",
+        "options": [
+          "சந்தால் ஹூல்",
+          "கோல் எழுச்சி",
+          "ஃபராசி இயக்கம்",
+          "உலுகுலான்"
+        ],
+        "explanation": "நில அந்நியமாதல், கந்துவட்டிக்காரர் ஊடுருவல், பேத்பேகாரி (கட்டாய உழைப்பு) ஆகியவற்றை முண்டா மக்கள் எதிர்த்தனர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 77,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 77,
       "quote": "The Munda people were familiar with the co-operative or collective farming known as Khuntkatti (joint holding) land system.",
       "answer": "A",
-      "en": {"q": "The collective (joint holding) land system of the Munda people was known as", "options": ["Khuntkatti", "Bethbegari", "Zamindari", "Ryotwari"], "explanation": "The Khuntkatti system was eroded by private ownership of land and the intrusion of merchants and moneylenders."},
-      "ta": {"q": "முண்டா மக்களின் கூட்டு (பொது) நில உடைமை முறை எவ்வாறு அழைக்கப்பட்டது?", "options": ["குண்ட்கட்டி", "பேத்பேகாரி", "ஜமீன்தாரி", "ரயத்துவாரி"], "explanation": "தனியார் நில உடைமையும் வணிகர், கந்துவட்டிக்காரர் ஊடுருவலும் குண்ட்கட்டி முறையை அழித்தன."}
+      "en": {
+        "q": "The collective (joint holding) land system of the Munda people was known as",
+        "options": [
+          "Khuntkatti",
+          "Bethbegari",
+          "Zamindari",
+          "Ryotwari"
+        ],
+        "explanation": "The Khuntkatti system was eroded by private ownership of land and the intrusion of merchants and moneylenders."
+      },
+      "ta": {
+        "q": "முண்டா மக்களின் கூட்டு (பொது) நில உடைமை முறை எவ்வாறு அழைக்கப்பட்டது?",
+        "options": [
+          "குண்ட்கட்டி",
+          "பேத்பேகாரி",
+          "ஜமீன்தாரி",
+          "ரயத்துவாரி"
+        ],
+        "explanation": "தனியார் நில உடைமையும் வணிகர், கந்துவட்டிக்காரர் ஊடுருவலும் குண்ட்கட்டி முறையை அழித்தன."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 77,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 77,
       "quote": "Finally the resistance was crushed and Birsa Munda was arrested in February 1900 who later died in jail.",
       "answer": "B",
-      "en": {"q": "Birsa Munda was arrested in", "options": ["December 1889", "February 1900", "1908", "1855"], "explanation": "Birsa had declared himself the messenger of God and promised a Birsaite Raj; violence began on Christmas day 1889."},
-      "ta": {"q": "பிர்சா முண்டா கைது செய்யப்பட்டது எப்போது?", "options": ["டிசம்பர் 1889", "பிப்ரவரி 1900", "1908", "1855"], "explanation": "தன்னைக் கடவுளின் தூதர் என அறிவித்த பிர்சா 'பிர்சாயிட் ராஜ்' அமைப்பதாக உறுதியளித்தார்; 1889 கிறிஸ்துமஸ் நாளில் வன்முறை தொடங்கியது."}
+      "en": {
+        "q": "Birsa Munda was arrested in",
+        "options": [
+          "December 1889",
+          "February 1900",
+          "1908",
+          "1855"
+        ],
+        "explanation": "Birsa had declared himself the messenger of God and promised a Birsaite Raj; violence began on Christmas day 1889."
+      },
+      "ta": {
+        "q": "பிர்சா முண்டா கைது செய்யப்பட்டது எப்போது?",
+        "options": [
+          "டிசம்பர் 1889",
+          "பிப்ரவரி 1900",
+          "1908",
+          "1855"
+        ],
+        "explanation": "தன்னைக் கடவுளின் தூதர் என அறிவித்த பிர்சா 'பிர்சாயிட் ராஜ்' அமைப்பதாக உறுதியளித்தார்; 1889 கிறிஸ்துமஸ் நாளில் வன்முறை தொடங்கியது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 78,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 78,
       "quote": "The Munda rebellion prompted the British to formulate a policy on Tribal land. The Chotanagpur Tenancy Act (1908) restricted the entry of non-tribal people into the tribal land.",
       "answer": "C",
-      "en": {"q": "The Chotanagpur Tenancy Act, restricting the entry of non-tribals into tribal land, was passed in", "options": ["1855", "1900", "1908", "1889"], "explanation": "The Act was passed in the context of the Munda rebellion."},
-      "ta": {"q": "பழங்குடி நிலங்களில் பழங்குடியல்லாதோர் நுழைவதைக் கட்டுப்படுத்திய சோட்டா நாக்பூர் குத்தகைச் சட்டம் இயற்றப்பட்ட ஆண்டு எது?", "options": ["1855", "1900", "1908", "1889"], "explanation": "முண்டா கிளர்ச்சியின் பின்னணியில் இச்சட்டம் இயற்றப்பட்டது."}
+      "en": {
+        "q": "The Chotanagpur Tenancy Act, restricting the entry of non-tribals into tribal land, was passed in",
+        "options": [
+          "1855",
+          "1900",
+          "1908",
+          "1889"
+        ],
+        "explanation": "The Act was passed in the context of the Munda rebellion."
+      },
+      "ta": {
+        "q": "பழங்குடி நிலங்களில் பழங்குடியல்லாதோர் நுழைவதைக் கட்டுப்படுத்திய சோட்டா நாக்பூர் குத்தகைச் சட்டம் இயற்றப்பட்ட ஆண்டு எது?",
+        "options": [
+          "1855",
+          "1900",
+          "1908",
+          "1889"
+        ],
+        "explanation": "முண்டா கிளர்ச்சியின் பின்னணியில் இச்சட்டம் இயற்றப்பட்டது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 78,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 78,
       "quote": "Satara, Sambalpur, parts of the Punjab, Jhansi and Nagpur were annexed by the British through the Doctrine of Lapse.",
       "answer": "D",
-      "en": {"q": "Which of the following territories were annexed by the British through the Doctrine of Lapse?", "options": ["Awadh and Bengal", "Mysore and Hyderabad", "Delhi and Agra", "Satara, Sambalpur, Jhansi and Nagpur"], "explanation": "Under the Doctrine of Lapse, a native state without a male heir 'lapsed' into British India on the ruler's death."},
-      "ta": {"q": "பின்வருவனவற்றுள் வாரிசுரிமை இழப்புக் கொள்கையின் மூலம் ஆங்கிலேயரால் இணைக்கப்பட்ட பகுதிகள் எவை?", "options": ["அவத், வங்காளம்", "மைசூர், ஐதராபாத்", "டெல்லி, ஆக்ரா", "சதாரா, சம்பல்பூர், ஜான்சி, நாக்பூர்"], "explanation": "ஆண் வாரிசு இல்லாத சுதேச அரசு மன்னர் மறைவின்போது ஆங்கிலேய இந்தியாவுடன் 'இணைந்துவிடும்' என்பது வாரிசுரிமை இழப்புக் கொள்கை."}
+      "en": {
+        "q": "Which of the following territories were annexed by the British through the Doctrine of Lapse?",
+        "options": [
+          "Awadh, Bengal, Bihar and Orissa",
+          "Mysore, Hyderabad, Travancore and Cochin",
+          "Delhi, Agra, Meerut and Bareilly",
+          "Satara, Sambalpur, Jhansi and Nagpur"
+        ],
+        "explanation": "Under the Doctrine of Lapse, a native state without a male heir 'lapsed' into British India on the ruler's death."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் வாரிசுரிமை இழப்புக் கொள்கையின் மூலம் ஆங்கிலேயரால் இணைக்கப்பட்ட பகுதிகள் எவை?",
+        "options": [
+          "அவத், வங்காளம், பீகார், ஒரிசா",
+          "மைசூர், ஐதராபாத், திருவிதாங்கூர், கொச்சி",
+          "டெல்லி, ஆக்ரா, மீரட், பரேலி",
+          "சதாரா, சம்பல்பூர், ஜான்சி, நாக்பூர்"
+        ],
+        "explanation": "ஆண் வாரிசு இல்லாத சுதேச அரசு மன்னர் மறைவின்போது ஆங்கிலேய இந்தியாவுடன் 'இணைந்துவிடும்' என்பது வாரிசுரிமை இழப்புக் கொள்கை."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 78,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 78,
       "quote": "Similarly, in 1824, the sepoys at Barrackpur near Calcutta refused to go to Burma by sea, since crossing the sea meant the loss of their caste.",
       "answer": "A",
-      "en": {"q": "In 1824 the sepoys at Barrackpur refused to go by sea to", "options": ["Burma", "Ceylon", "Afghanistan", "Malaya"], "explanation": "Crossing the sea meant the loss of caste; such insensitivity to Indian sentiments was a cause of the 1857 revolt."},
-      "ta": {"q": "1824இல் பாரக்பூர் சிப்பாய்கள் கடல் வழியாக எங்கு செல்ல மறுத்தனர்?", "options": ["பர்மா", "இலங்கை", "ஆப்கானிஸ்தான்", "மலாயா"], "explanation": "கடல் கடப்பது சாதி இழப்பு எனக் கருதப்பட்டது; இந்திய உணர்வுகளை மதிக்காதது 1857 புரட்சிக்கு ஒரு காரணம்."}
+      "en": {
+        "q": "In 1824 the sepoys at Barrackpur refused to go by sea to",
+        "options": [
+          "Burma",
+          "Ceylon",
+          "Afghanistan",
+          "Malaya"
+        ],
+        "explanation": "Crossing the sea meant the loss of caste; such insensitivity to Indian sentiments was a cause of the 1857 revolt."
+      },
+      "ta": {
+        "q": "1824இல் பாரக்பூர் சிப்பாய்கள் கடல் வழியாக எங்கு செல்ல மறுத்தனர்?",
+        "options": [
+          "பர்மா",
+          "இலங்கை",
+          "ஆப்கானிஸ்தான்",
+          "மலாயா"
+        ],
+        "explanation": "கடல் கடப்பது சாதி இழப்பு எனக் கருதப்பட்டது; இந்திய உணர்வுகளை மதிக்காதது 1857 புரட்சிக்கு ஒரு காரணம்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 78,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 78,
       "quote": "On 29 March a sepoy named Mangal Pandey assaulted his European officer. His fellow soldiers refused to arrest him when ordered to do so.",
       "answer": "B",
-      "en": {"q": "Mangal Pandey assaulted his European officer on", "options": ["11 May 1857", "29 March 1857", "23 June 1857", "16 October 1857"], "explanation": "Mangal Pandey was court-martialled and hanged; arson followed in the cantonments of Ambala, Lucknow and Meerut."},
-      "ta": {"q": "மங்கள் பாண்டே தன் ஐரோப்பிய அதிகாரியைத் தாக்கிய நாள் எது?", "options": ["11 மே 1857", "29 மார்ச் 1857", "23 ஜூன் 1857", "16 அக்டோபர் 1857"], "explanation": "மங்கள் பாண்டே இராணுவ விசாரணைக்குப் பின் தூக்கிலிடப்பட்டார்; அம்பாலா, லக்னோ, மீரட் முகாம்களில் தீவைப்புகள் நடந்தன."}
+      "en": {
+        "q": "Mangal Pandey assaulted his European officer on",
+        "options": [
+          "11 May 1857",
+          "29 March 1857",
+          "23 June 1857",
+          "16 October 1857"
+        ],
+        "explanation": "Mangal Pandey was court-martialled and hanged; arson followed in the cantonments of Ambala, Lucknow and Meerut."
+      },
+      "ta": {
+        "q": "மங்கள் பாண்டே தன் ஐரோப்பிய அதிகாரியைத் தாக்கிய நாள் எது?",
+        "options": [
+          "11 மே 1857",
+          "29 மார்ச் 1857",
+          "23 ஜூன் 1857",
+          "16 அக்டோபர் 1857"
+        ],
+        "explanation": "மங்கள் பாண்டே இராணுவ விசாரணைக்குப் பின் தூக்கிலிடப்பட்டார்; அம்பாலா, லக்னோ, மீரட் முகாம்களில் தீவைப்புகள் நடந்தன."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 78,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 78,
       "quote": "On 11 may 1857 a band of sepoys from Meerut marched to the Red Fort in Delhi.",
       "answer": "C",
-      "en": {"q": "The sepoys from Meerut marched to the Red Fort in Delhi on", "options": ["29 March 1857", "10 May 1857", "11 May 1857", "1 June 1857"], "explanation": "They asked the Mughal Emperor Bahadur Shah II to become their leader."},
-      "ta": {"q": "மீரட் சிப்பாய்கள் டெல்லி செங்கோட்டைக்கு அணிவகுத்துச் சென்ற நாள் எது?", "options": ["29 மார்ச் 1857", "10 மே 1857", "11 மே 1857", "1 ஜூன் 1857"], "explanation": "முகலாயப் பேரரசர் இரண்டாம் பகதூர் ஷாவைத் தம் தலைவராக ஏற்குமாறு கேட்டனர்."}
+      "en": {
+        "q": "The sepoys from Meerut marched to the Red Fort in Delhi on",
+        "options": [
+          "29 March 1857",
+          "10 May 1857",
+          "11 May 1857",
+          "1 June 1857"
+        ],
+        "explanation": "They asked the Mughal Emperor Bahadur Shah II to become their leader."
+      },
+      "ta": {
+        "q": "மீரட் சிப்பாய்கள் டெல்லி செங்கோட்டைக்கு அணிவகுத்துச் சென்ற நாள் எது?",
+        "options": [
+          "29 மார்ச் 1857",
+          "10 மே 1857",
+          "11 மே 1857",
+          "1 ஜூன் 1857"
+        ],
+        "explanation": "முகலாயப் பேரரசர் இரண்டாம் பகதூர் ஷாவைத் தம் தலைவராக ஏற்குமாறு கேட்டனர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 80,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 80,
       "quote": "After much hesitation he accepted the offer and was proclaimed as the Shahenshah-e-Hindustan (the Emperor of Hindustan).",
       "answer": "D",
-      "en": {"q": "The title with which Bahadur Shah II was proclaimed by the rebels of 1857 was", "options": ["Badshah-e-Delhi", "Sultan-e-Hind", "Peshwa", "Shahenshah-e-Hindustan"], "explanation": "By the beginning of June 1857 British rule in North India, except Punjab and Bengal, had disappeared."},
-      "ta": {"q": "1857 புரட்சியாளர்கள் இரண்டாம் பகதூர் ஷாவை எந்தப் பட்டத்துடன் அறிவித்தனர்?", "options": ["பாத்ஷா-எ-டெல்லி", "சுல்தான்-எ-ஹிந்த்", "பேஷ்வா", "ஷாஹென்ஷா-எ-ஹிந்துஸ்தான்"], "explanation": "ஜூன் 1857 தொடக்கத்தில் பஞ்சாப், வங்காளம் தவிர வட இந்தியாவில் ஆங்கிலேய ஆட்சி மறைந்திருந்தது."}
+      "en": {
+        "q": "The title with which Bahadur Shah II was proclaimed by the rebels of 1857 was",
+        "options": [
+          "Badshah-e-Delhi",
+          "Sultan-e-Hind",
+          "Nawab-e-Hindustan",
+          "Shahenshah-e-Hindustan"
+        ],
+        "explanation": "By the beginning of June 1857 British rule in North India, except Punjab and Bengal, had disappeared."
+      },
+      "ta": {
+        "q": "1857 புரட்சியாளர்கள் இரண்டாம் பகதூர் ஷாவை எந்தப் பட்டத்துடன் அறிவித்தனர்?",
+        "options": [
+          "பாத்ஷா-எ-டெல்லி",
+          "சுல்தான்-எ-ஹிந்த்",
+          "நவாப்-எ-ஹிந்துஸ்தான்",
+          "ஷாஹென்ஷா-எ-ஹிந்துஸ்தான்"
+        ],
+        "explanation": "ஜூன் 1857 தொடக்கத்தில் பஞ்சாப், வங்காளம் தவிர வட இந்தியாவில் ஆங்கிலேய ஆட்சி மறைந்திருந்தது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 80,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 80,
       "quote": "Nana Sahib, the adopted son of the last Peshwa Baji Rao II, provided leadership in he Kanpur region. He had been denied pension by the Company.",
       "answer": "A",
-      "en": {"q": "Nana Sahib, who led the 1857 revolt in the Kanpur region, was the adopted son of", "options": ["Peshwa Baji Rao II", "Bahadur Shah II", "Raja of Jhansi", "Nawab of Awadh"], "explanation": "Nana Sahib had been denied pension by the Company."},
-      "ta": {"q": "கான்பூர் பகுதியில் 1857 புரட்சிக்குத் தலைமை தாங்கிய நானா சாகிப் யாருடைய வளர்ப்பு மகன்?", "options": ["பேஷ்வா இரண்டாம் பாஜிராவ்", "இரண்டாம் பகதூர் ஷா", "ஜான்சி அரசர்", "அவத் நவாப்"], "explanation": "கம்பெனி நானா சாகிபுக்கு ஓய்வூதியம் மறுத்திருந்தது."}
+      "en": {
+        "q": "Nana Sahib, who led the 1857 revolt in the Kanpur region, was the adopted son of",
+        "options": [
+          "Peshwa Baji Rao II",
+          "Bahadur Shah II",
+          "Raja of Jhansi",
+          "Nawab of Awadh"
+        ],
+        "explanation": "Nana Sahib had been denied pension by the Company."
+      },
+      "ta": {
+        "q": "கான்பூர் பகுதியில் 1857 புரட்சிக்குத் தலைமை தாங்கிய நானா சாகிப் யாருடைய வளர்ப்பு மகன்?",
+        "options": [
+          "பேஷ்வா இரண்டாம் பாஜிராவ்",
+          "இரண்டாம் பகதூர் ஷா",
+          "ஜான்சி அரசர்",
+          "அவத் நவாப்"
+        ],
+        "explanation": "கம்பெனி நானா சாகிபுக்கு ஓய்வூதியம் மறுத்திருந்தது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 80,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 80,
       "quote": "Similarly, Begum Hazrat Mahal in Lucknow and Khan Bahadur in Bareilly took the command of their respective territories",
       "answer": "B",
-      "en": {"q": "Who led the revolt of 1857 at Lucknow?", "options": ["Rani Lakshmi Bai", "Begum Hazrat Mahal", "Khan Bahadur", "Kunwar Singh"], "explanation": "Begum Hazrat Mahal took command at Lucknow and Khan Bahadur at Bareilly."},
-      "ta": {"q": "1857 புரட்சியில் லக்னோவில் தலைமை தாங்கியவர் யார்?", "options": ["ராணி லட்சுமிபாய்", "பேகம் ஹஸ்ரத் மகால்", "கான் பகதூர்", "குன்வர் சிங்"], "explanation": "லக்னோவில் பேகம் ஹஸ்ரத் மகாலும் பரேலியில் கான் பகதூரும் தலைமை ஏற்றனர்."}
+      "en": {
+        "q": "Who led the revolt of 1857 at Lucknow?",
+        "options": [
+          "Rani Lakshmi Bai",
+          "Begum Hazrat Mahal",
+          "Khan Bahadur",
+          "Kunwar Singh"
+        ],
+        "explanation": "Begum Hazrat Mahal took command at Lucknow and Khan Bahadur at Bareilly."
+      },
+      "ta": {
+        "q": "1857 புரட்சியில் லக்னோவில் தலைமை தாங்கியவர் யார்?",
+        "options": [
+          "ராணி லட்சுமிபாய்",
+          "பேகம் ஹஸ்ரத் மகால்",
+          "கான் பகதூர்",
+          "குன்வர் சிங்"
+        ],
+        "explanation": "லக்னோவில் பேகம் ஹஸ்ரத் மகாலும் பரேலியில் கான் பகதூரும் தலைமை ஏற்றனர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 80,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 80,
       "quote": "Khan Bahadur in Bareilly took the command",
       "answer": "C",
-      "en": {"q": "During the revolt of 1857, Khan Bahadur took command at", "options": ["Kanpur", "Lucknow", "Bareilly", "Jhansi"], "explanation": "Leaders like Bahadur Shah, Kunwar Singh, Khan Bahadur and Rani Lakshmi Bai were rebels compelled by the bravery of the sepoys."},
-      "ta": {"q": "1857 புரட்சியின்போது கான் பகதூர் எங்கு தலைமை ஏற்றார்?", "options": ["கான்பூர்", "லக்னோ", "பரேலி", "ஜான்சி"], "explanation": "பகதூர் ஷா, குன்வர் சிங், கான் பகதூர், ராணி லட்சுமிபாய் ஆகியோர் சிப்பாய்களின் வீரத்தால் உந்தப்பட்டுப் புரட்சியில் இணைந்தனர்."}
+      "en": {
+        "q": "During the revolt of 1857, Khan Bahadur took command at",
+        "options": [
+          "Kanpur",
+          "Lucknow",
+          "Bareilly",
+          "Jhansi"
+        ],
+        "explanation": "Leaders like Bahadur Shah, Kunwar Singh, Khan Bahadur and Rani Lakshmi Bai were rebels compelled by the bravery of the sepoys."
+      },
+      "ta": {
+        "q": "1857 புரட்சியின்போது கான் பகதூர் எங்கு தலைமை ஏற்றார்?",
+        "options": [
+          "கான்பூர்",
+          "லக்னோ",
+          "பரேலி",
+          "ஜான்சி"
+        ],
+        "explanation": "பகதூர் ஷா, குன்வர் சிங், கான் பகதூர், ராணி லட்சுமிபாய் ஆகியோர் சிப்பாய்களின் வீரத்தால் உந்தப்பட்டுப் புரட்சியில் இணைந்தனர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 80,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 80,
       "quote": "In her case Dalhousie, the Governor General of Bengal had refused her request to adopt a son as her successor after her husband died and the kingdom was annexed under the Doctrine of Lapse.",
       "answer": "D",
-      "en": {"q": "Which Governor General refused Rani Lakshmi Bai's request to adopt a son as her successor?", "options": ["Canning", "Wellesley", "Bentinck", "Dalhousie"], "explanation": "Jhansi was annexed under the Doctrine of Lapse; the Rani battled the British army until she was defeated."},
-      "ta": {"q": "ராணி லட்சுமிபாயின் வாரிசாக ஒரு மகனைத் தத்தெடுக்கும் கோரிக்கையை மறுத்த ஆளுநர் ஜெனரல் யார்?", "options": ["கானிங்", "வெல்லெஸ்லி", "பெண்டிங்", "டல்ஹௌசி"], "explanation": "வாரிசுரிமை இழப்புக் கொள்கையால் ஜான்சி இணைக்கப்பட்டது; ராணி தோற்கும் வரை ஆங்கிலேயப் படையை எதிர்த்துப் போரிட்டார்."}
+      "en": {
+        "q": "Which Governor General refused Rani Lakshmi Bai's request to adopt a son as her successor?",
+        "options": [
+          "Canning",
+          "Wellesley",
+          "Bentinck",
+          "Dalhousie"
+        ],
+        "explanation": "Jhansi was annexed under the Doctrine of Lapse; the Rani battled the British army until she was defeated."
+      },
+      "ta": {
+        "q": "ராணி லட்சுமிபாயின் வாரிசாக ஒரு மகனைத் தத்தெடுக்கும் கோரிக்கையை மறுத்த ஆளுநர் ஜெனரல் யார்?",
+        "options": [
+          "கானிங்",
+          "வெல்லெஸ்லி",
+          "பெண்டிங்",
+          "டல்ஹௌசி"
+        ],
+        "explanation": "வாரிசுரிமை இழப்புக் கொள்கையால் ஜான்சி இணைக்கப்பட்டது; ராணி தோற்கும் வரை ஆங்கிலேயப் படையை எதிர்த்துப் போரிட்டார்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 81,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 81,
       "quote": "Delhi was captured by the British troops in late 1857. Bahadur Shah was captured and transported to Burma.",
       "answer": "A",
-      "en": {"q": "After the suppression of the 1857 revolt, Bahadur Shah II was transported to", "options": ["Burma", "Andaman", "Ceylon", "Calcutta"], "explanation": "The rebellion failed for lack of a central authority, weapons, organisation and the support of princes and the English-educated middle class."},
-      "ta": {"q": "1857 புரட்சி ஒடுக்கப்பட்ட பின் இரண்டாம் பகதூர் ஷா எங்கு நாடு கடத்தப்பட்டார்?", "options": ["பர்மா", "அந்தமான்", "இலங்கை", "கல்கத்தா"], "explanation": "மைய அதிகாரம், ஆயுதம், அமைப்பு இன்மையும் சுதேச மன்னர்கள், ஆங்கிலம் கற்ற நடுத்தர வர்க்கத்தின் ஆதரவின்மையும் புரட்சி தோல்விக்குக் காரணம்."}
+      "en": {
+        "q": "After the suppression of the 1857 revolt, Bahadur Shah II was transported to",
+        "options": [
+          "Burma",
+          "Andaman",
+          "Ceylon",
+          "Calcutta"
+        ],
+        "explanation": "The rebellion failed for lack of a central authority, weapons, organisation and the support of princes and the English-educated middle class."
+      },
+      "ta": {
+        "q": "1857 புரட்சி ஒடுக்கப்பட்ட பின் இரண்டாம் பகதூர் ஷா எங்கு நாடு கடத்தப்பட்டார்?",
+        "options": [
+          "பர்மா",
+          "அந்தமான்",
+          "இலங்கை",
+          "கல்கத்தா"
+        ],
+        "explanation": "மைய அதிகாரம், ஆயுதம், அமைப்பு இன்மையும் சுதேச மன்னர்கள், ஆங்கிலம் கற்ற நடுத்தர வர்க்கத்தின் ஆதரவின்மையும் புரட்சி தோல்விக்குக் காரணம்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 81,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 81,
       "quote": "The British Parliament adopted the Indian Government Act, in November 1858, and India was pronounced as one of the many crown colonies to be directly governed by the Parliament.",
       "answer": "B",
-      "en": {"q": "India became a crown colony directly governed by the British Parliament under the Act adopted in", "options": ["November 1857", "November 1858", "August 1858", "June 1857"], "explanation": "Responsibility was given to a cabinet member designated as the Secretary of State for India."},
-      "ta": {"q": "பிரிட்டிஷ் நாடாளுமன்றம் நேரடியாக ஆளும் முடியரசுக் காலனியாக இந்தியா அறிவிக்கப்பட்ட சட்டம் இயற்றப்பட்டது எப்போது?", "options": ["நவம்பர் 1857", "நவம்பர் 1858", "ஆகஸ்ட் 1858", "ஜூன் 1857"], "explanation": "இந்திய அரசுச் செயலர் என்னும் அமைச்சரவை உறுப்பினருக்குப் பொறுப்பு வழங்கப்பட்டது."}
+      "en": {
+        "q": "India became a crown colony directly governed by the British Parliament under the Act adopted in",
+        "options": [
+          "November 1857",
+          "November 1858",
+          "August 1858",
+          "June 1857"
+        ],
+        "explanation": "Responsibility was given to a cabinet member designated as the Secretary of State for India."
+      },
+      "ta": {
+        "q": "பிரிட்டிஷ் நாடாளுமன்றம் நேரடியாக ஆளும் முடியரசுக் காலனியாக இந்தியா அறிவிக்கப்பட்ட சட்டம் இயற்றப்பட்டது எப்போது?",
+        "options": [
+          "நவம்பர் 1857",
+          "நவம்பர் 1858",
+          "ஆகஸ்ட் 1858",
+          "ஜூன் 1857"
+        ],
+        "explanation": "இந்திய அரசுச் செயலர் என்னும் அமைச்சரவை உறுப்பினருக்குப் பொறுப்பு வழங்கப்பட்டது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 81,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 81,
       "quote": "For instance, the British turned away from Rajputs, Brahmins and North Indian Muslims and looked towards non-Hindu groups like the Gorkhas, Sikhs,and Pathans.",
       "answer": "C",
-      "en": {"q": "After 1857 the British shifted army recruitment towards communities that remained loyal, such as", "options": ["Rajputs and Brahmins", "North Indian Muslims", "Gorkhas, Sikhs and Pathans", "Bengalis and Marathas"], "explanation": "The British also took control of the artillery and exploited caste, religious and regional differences through 'Divide and Rule'."},
-      "ta": {"q": "1857க்குப் பின் ஆங்கிலேயர் விசுவாசமாக இருந்த எந்த சமூகங்களை நோக்கிப் படை ஆட்சேர்ப்பை மாற்றினர்?", "options": ["ராஜபுத்திரர், பிராமணர்", "வட இந்திய முஸ்லிம்கள்", "கூர்க்கா, சீக்கியர், பதான்கள்", "வங்காளிகள், மராத்தியர்"], "explanation": "பீரங்கிப் படையைத் தம் கட்டுப்பாட்டில் வைத்த ஆங்கிலேயர் சாதி, மத, பிராந்திய வேறுபாடுகளைப் 'பிரித்தாளும்' கொள்கையால் பயன்படுத்தினர்."}
+      "en": {
+        "q": "After 1857 the British shifted army recruitment towards communities that remained loyal, such as",
+        "options": [
+          "Rajputs and Brahmins",
+          "North Indian Muslims",
+          "Gorkhas, Sikhs and Pathans",
+          "Bengalis and Marathas"
+        ],
+        "explanation": "The British also took control of the artillery and exploited caste, religious and regional differences through 'Divide and Rule'."
+      },
+      "ta": {
+        "q": "1857க்குப் பின் ஆங்கிலேயர் விசுவாசமாக இருந்த எந்த சமூகங்களை நோக்கிப் படை ஆட்சேர்ப்பை மாற்றினர்?",
+        "options": [
+          "ராஜபுத்திரர், பிராமணர்",
+          "வட இந்திய முஸ்லிம்கள்",
+          "கூர்க்கா, சீக்கியர், பதான்கள்",
+          "வங்காளிகள், மராத்தியர்"
+        ],
+        "explanation": "பீரங்கிப் படையைத் தம் கட்டுப்பாட்டில் வைத்த ஆங்கிலேயர் சாதி, மத, பிராந்திய வேறுபாடுகளைப் 'பிரித்தாளும்' கொள்கையால் பயன்படுத்தினர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 81,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 81,
       "quote": "The Indigo Revolt began in 1859. The rebellion began as a strike, as the peasants of a village in Bengal's Nadia district refused to grow any more indigo.",
       "answer": "D",
-      "en": {"q": "The Indigo Revolt of 1859 began as a strike by peasants in which district of Bengal?", "options": ["Barasat", "Rajmahal", "Bhagalpur", "Nadia"], "explanation": "Planters forced peasants to grow indigo instead of food crops through cash advances that trapped them in debt."},
-      "ta": {"q": "1859 அவுரிக் கிளர்ச்சி வங்காளத்தின் எந்த மாவட்ட விவசாயிகளின் வேலைநிறுத்தமாகத் தொடங்கியது?", "options": ["பாரசாத்", "ராஜ்மகால்", "பாகல்பூர்", "நாடியா"], "explanation": "உணவுப் பயிர்களுக்குப் பதிலாக அவுரி பயிரிடக் கடன் முன்பணம் தந்து தோட்ட முதலாளிகள் விவசாயிகளைக் கடனில் சிக்க வைத்தனர்."}
+      "en": {
+        "q": "The Indigo Revolt of 1859 began as a strike by peasants in which district of Bengal?",
+        "options": [
+          "Barasat",
+          "Rajmahal",
+          "Bhagalpur",
+          "Nadia"
+        ],
+        "explanation": "Planters forced peasants to grow indigo instead of food crops through cash advances that trapped them in debt."
+      },
+      "ta": {
+        "q": "1859 அவுரிக் கிளர்ச்சி வங்காளத்தின் எந்த மாவட்ட விவசாயிகளின் வேலைநிறுத்தமாகத் தொடங்கியது?",
+        "options": [
+          "பாரசாத்",
+          "ராஜ்மகால்",
+          "பாகல்பூர்",
+          "நாடியா"
+        ],
+        "explanation": "உணவுப் பயிர்களுக்குப் பதிலாக அவுரி பயிரிடக் கடன் முன்பணம் தந்து தோட்ட முதலாளிகள் விவசாயிகளைக் கடனில் சிக்க வைத்தனர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 82,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 82,
       "quote": "The 1860 play Nil Darpan (\"Mirror of the Indigo\") by Dina Bandhu Mitra, did much to draw attention in India and Europe to the plight of the indigo growers.",
       "answer": "A",
-      "en": {"q": "Who drew attention to the sufferings of indigo cultivators through the play 'Nil Darpan' (1860)?", "options": ["Dina Bandhu Mitra", "Romesh Chandra Dutt", "Dadabhai Naoroji", "Birsa Munda"], "explanation": "Hindu and Muslim peasants and women armed with pots and pans took part in the Indigo Revolt."},
-      "ta": {"q": "'நீல் தர்பண்' (1860) நாடகத்தின் மூலம் அவுரி விவசாயிகளின் துயரத்திற்குக் கவனம் ஈர்த்தவர் யார்?", "options": ["தீனபந்து மித்ரா", "ரொமேஷ் சந்திர தத்", "தாதாபாய் நௌரோஜி", "பிர்சா முண்டா"], "explanation": "இந்து, முஸ்லிம் விவசாயிகளும் பானை, சட்டிகளுடன் பெண்களும் அவுரிக் கிளர்ச்சியில் பங்கேற்றனர்."}
+      "en": {
+        "q": "Who drew attention to the sufferings of indigo cultivators through the play 'Nil Darpan' (1860)?",
+        "options": [
+          "Dina Bandhu Mitra",
+          "Romesh Chandra Dutt",
+          "Dadabhai Naoroji",
+          "Birsa Munda"
+        ],
+        "explanation": "Hindu and Muslim peasants and women armed with pots and pans took part in the Indigo Revolt."
+      },
+      "ta": {
+        "q": "'நீல் தர்பண்' (1860) நாடகத்தின் மூலம் அவுரி விவசாயிகளின் துயரத்திற்குக் கவனம் ஈர்த்தவர் யார்?",
+        "options": [
+          "தீனபந்து மித்ரா",
+          "ரொமேஷ் சந்திர தத்",
+          "தாதாபாய் நௌரோஜி",
+          "பிர்சா முண்டா"
+        ],
+        "explanation": "இந்து, முஸ்லிம் விவசாயிகளும் பானை, சட்டிகளுடன் பெண்களும் அவுரிக் கிளர்ச்சியில் பங்கேற்றனர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 82,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 82,
       "quote": "The first recorded incident of rioting against the moneylenders in the Deccan was in May 1875, in Supa a village near Poona.",
       "answer": "B",
-      "en": {"q": "The first recorded incident of the Deccan Riots of 1875 took place at", "options": ["Nadia", "Supa near Poona", "Ahmadnagar", "Satara"], "explanation": "Similar riots were reported from close to 30 villages in Poona and Ahmadnagar."},
-      "ta": {"q": "1875 தக்காணக் கலவரங்களின் முதல் பதிவு செய்யப்பட்ட நிகழ்வு எங்கு நடந்தது?", "options": ["நாடியா", "பூனா அருகே சுபா", "அகமதுநகர்", "சதாரா"], "explanation": "பூனா, அகமதுநகரில் சுமார் 30 கிராமங்களில் இதே போன்ற கலவரங்கள் நடந்தன."}
+      "en": {
+        "q": "The first recorded incident of the Deccan Riots of 1875 took place at",
+        "options": [
+          "Nadia in Bengal",
+          "Supa near Poona",
+          "Ahmadnagar",
+          "Satara in Maharashtra"
+        ],
+        "explanation": "Similar riots were reported from close to 30 villages in Poona and Ahmadnagar."
+      },
+      "ta": {
+        "q": "1875 தக்காணக் கலவரங்களின் முதல் பதிவு செய்யப்பட்ட நிகழ்வு எங்கு நடந்தது?",
+        "options": [
+          "வங்காளத்தின் நாடியா",
+          "பூனா அருகே சுபா",
+          "அகமதுநகர்",
+          "சதாரா"
+        ],
+        "explanation": "பூனா, அகமதுநகரில் சுமார் 30 கிராமங்களில் இதே போன்ற கலவரங்கள் நடந்தன."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 82,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 82,
       "quote": "The rioting was directed mostly at the Gujarat moneylenders.",
       "answer": "C",
-      "en": {"q": "The Deccan Riots of 1875 were directed mostly against", "options": ["British planters", "Zamindars", "Gujarat moneylenders", "Railway contractors"], "explanation": "A new law allowed moneylenders to attach and auction the mortgaged land of defaulters, transferring land to non-cultivators."},
-      "ta": {"q": "1875 தக்காணக் கலவரங்கள் பெரும்பாலும் யாருக்கு எதிராக இருந்தன?", "options": ["ஆங்கிலேயத் தோட்ட முதலாளிகள்", "ஜமீன்தார்கள்", "குஜராத்தி கந்துவட்டிக்காரர்கள்", "இரயில்வே ஒப்பந்ததாரர்கள்"], "explanation": "அடமான நிலத்தை ஏலம் விடக் கந்துவட்டிக்காரர்களுக்குப் புதிய சட்டம் அனுமதித்ததால் நிலம் உழவரல்லாதோருக்கு மாறியது."}
+      "en": {
+        "q": "The Deccan Riots of 1875 were directed mostly against",
+        "options": [
+          "British planters",
+          "Zamindars",
+          "Gujarat moneylenders",
+          "Railway contractors"
+        ],
+        "explanation": "A new law allowed moneylenders to attach and auction the mortgaged land of defaulters, transferring land to non-cultivators."
+      },
+      "ta": {
+        "q": "1875 தக்காணக் கலவரங்கள் பெரும்பாலும் யாருக்கு எதிராக இருந்தன?",
+        "options": [
+          "ஆங்கிலேயத் தோட்ட முதலாளிகள்",
+          "ஜமீன்தார்கள்",
+          "குஜராத்தி கந்துவட்டிக்காரர்கள்",
+          "இரயில்வே ஒப்பந்ததாரர்கள்"
+        ],
+        "explanation": "அடமான நிலத்தை ஏலம் விடக் கந்துவட்டிக்காரர்களுக்குப் புதிய சட்டம் அனுமதித்ததால் நிலம் உழவரல்லாதோருக்கு மாறியது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 82,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 82,
       "quote": "They took the initiative to float political outfits, such as Madras Native Association (1852) East India Association (1866), Madras Mahajana Sabha (1884), Poona Sarvajanik Sabha (1870), The Bombay Presidency Association (1885)",
       "answer": "D",
-      "en": {"q": "The Madras Native Association was founded in", "options": ["1866", "1870", "1884", "1852"], "explanation": "Other early political outfits: East India Association (1866), Poona Sarvajanik Sabha (1870), Madras Mahajana Sabha (1884), Bombay Presidency Association (1885)."},
-      "ta": {"q": "சென்னை சுதேசிகள் சங்கம் (Madras Native Association) நிறுவப்பட்ட ஆண்டு எது?", "options": ["1866", "1870", "1884", "1852"], "explanation": "பிற தொடக்க அரசியல் அமைப்புகள்: கிழக்கிந்தியச் சங்கம் (1866), பூனா சர்வஜனிக் சபை (1870), சென்னை மகாஜன சபை (1884), பம்பாய் மாகாணச் சங்கம் (1885)."}
+      "en": {
+        "q": "The Madras Native Association was founded in",
+        "options": [
+          "1866",
+          "1870",
+          "1884",
+          "1852"
+        ],
+        "explanation": "Other early political outfits: East India Association (1866), Poona Sarvajanik Sabha (1870), Madras Mahajana Sabha (1884), Bombay Presidency Association (1885)."
+      },
+      "ta": {
+        "q": "சென்னை சுதேசிகள் சங்கம் (Madras Native Association) நிறுவப்பட்ட ஆண்டு எது?",
+        "options": [
+          "1866",
+          "1870",
+          "1884",
+          "1852"
+        ],
+        "explanation": "பிற தொடக்க அரசியல் அமைப்புகள்: கிழக்கிந்தியச் சங்கம் (1866), பூனா சர்வஜனிக் சபை (1870), சென்னை மகாஜன சபை (1884), பம்பாய் மாகாணச் சங்கம் (1885)."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 82,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 82,
       "quote": "Madras Mahajana Sabha (1884)",
       "answer": "A",
-      "en": {"q": "The Madras Mahajana Sabha was founded in the year", "options": ["1884", "1852", "1885", "1870"], "explanation": "These outfits were floated by English-educated lawyers, journalists, teachers and doctors with a national outlook."},
-      "ta": {"q": "சென்னை மகாஜன சபை நிறுவப்பட்ட ஆண்டு எது?", "options": ["1884", "1852", "1885", "1870"], "explanation": "ஆங்கிலம் கற்ற வழக்கறிஞர்கள், பத்திரிகையாளர்கள், ஆசிரியர்கள், மருத்துவர்கள் தேசியப் பார்வையுடன் இவ்வமைப்புகளைத் தொடங்கினர்."}
+      "en": {
+        "q": "The Madras Mahajana Sabha was founded in the year",
+        "options": [
+          "1884",
+          "1852",
+          "1885",
+          "1870"
+        ],
+        "explanation": "These outfits were floated by English-educated lawyers, journalists, teachers and doctors with a national outlook."
+      },
+      "ta": {
+        "q": "சென்னை மகாஜன சபை நிறுவப்பட்ட ஆண்டு எது?",
+        "options": [
+          "1884",
+          "1852",
+          "1885",
+          "1870"
+        ],
+        "explanation": "ஆங்கிலம் கற்ற வழக்கறிஞர்கள், பத்திரிகையாளர்கள், ஆசிரியர்கள், மருத்துவர்கள் தேசியப் பார்வையுடன் இவ்வமைப்புகளைத் தொடங்கினர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 82,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 82,
       "quote": "Dadabhai Naoroji, Justice Ranade, and Romesh Chandra Dutt, played a significant role in making this criticism about colonial economy.",
       "answer": "B",
-      "en": {"q": "The economic critique of colonialism was formulated by early nationalists such as", "options": ["Tilak, Lajpat Rai and Bipin Chandra Pal", "Dadabhai Naoroji, Justice Ranade and Romesh Chandra Dutt", "A.O. Hume and W.C. Banerjee", "Annie Besant and Tilak"], "explanation": "They concluded that colonialism was the main obstacle to India's economic development."},
-      "ta": {"q": "காலனியாதிக்கத்தின் பொருளாதார விமர்சனத்தை உருவாக்கிய தொடக்கக் கால தேசியவாதிகள் யார்?", "options": ["திலகர், லஜபதி ராய், பிபின் சந்திர பால்", "தாதாபாய் நௌரோஜி, நீதிபதி ரானடே, ரொமேஷ் சந்திர தத்", "ஏ.ஓ. ஹியூம், டபிள்யூ.சி. பானர்ஜி", "அன்னி பெசன்ட், திலகர்"], "explanation": "இந்தியாவின் பொருளாதார வளர்ச்சிக்குக் காலனியாதிக்கமே முக்கியத் தடை என அவர்கள் முடிவு செய்தனர்."}
+      "en": {
+        "q": "The economic critique of colonialism was formulated by early nationalists such as",
+        "options": [
+          "Tilak, Lajpat Rai and Bipin Chandra Pal",
+          "Dadabhai Naoroji, Ranade and Romesh Chandra Dutt",
+          "A.O. Hume, W.C. Banerjee and Surendranath Banerjea",
+          "Annie Besant, Tilak and Madan Mohan Malaviya"
+        ],
+        "explanation": "They concluded that colonialism was the main obstacle to India's economic development."
+      },
+      "ta": {
+        "q": "காலனியாதிக்கத்தின் பொருளாதார விமர்சனத்தை உருவாக்கிய தொடக்கக் கால தேசியவாதிகள் யார்?",
+        "options": [
+          "திலகர், லஜபதி ராய், பிபின் சந்திர பால்",
+          "தாதாபாய் நௌரோஜி, நீதிபதி ரானடே, ரொமேஷ் சந்திர தத்",
+          "ஏ.ஓ. ஹியூம், டபிள்யூ.சி. பானர்ஜி, சுரேந்திரநாத் பானர்ஜி",
+          "அன்னி பெசன்ட், திலகர், மதன் மோகன் மாளவியா"
+        ],
+        "explanation": "இந்தியாவின் பொருளாதார வளர்ச்சிக்குக் காலனியாதிக்கமே முக்கியத் தடை என அவர்கள் முடிவு செய்தனர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 82,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 82,
       "quote": "Womash Chandra Banarjee was the first President (1885) Indian National Congress.",
       "answer": "C",
-      "en": {"q": "The first President of the Indian National Congress (1885) was", "options": ["A.O. Hume", "Dadabhai Naoroji", "Womesh Chandra Banerjee", "Surendranath Banerjee"], "explanation": "The Congress was the culmination of attempts by educated Indians in the Bombay, Madras and Calcutta presidencies."},
-      "ta": {"q": "இந்திய தேசிய காங்கிரசின் (1885) முதல் தலைவர் யார்?", "options": ["ஏ.ஓ. ஹியூம்", "தாதாபாய் நௌரோஜி", "உமேஷ் சந்திர பானர்ஜி", "சுரேந்திரநாத் பானர்ஜி"], "explanation": "பம்பாய், சென்னை, கல்கத்தா மாகாணங்களின் படித்த இந்தியர்களின் முயற்சிகளின் உச்சமாகக் காங்கிரஸ் உருவானது."}
+      "en": {
+        "q": "The first President of the Indian National Congress (1885) was",
+        "options": [
+          "A.O. Hume",
+          "Dadabhai Naoroji",
+          "Womesh Chandra Banerjee",
+          "Surendranath Banerjee"
+        ],
+        "explanation": "The Congress was the culmination of attempts by educated Indians in the Bombay, Madras and Calcutta presidencies."
+      },
+      "ta": {
+        "q": "இந்திய தேசிய காங்கிரசின் (1885) முதல் தலைவர் யார்?",
+        "options": [
+          "ஏ.ஓ. ஹியூம்",
+          "தாதாபாய் நௌரோஜி",
+          "உமேஷ் சந்திர பானர்ஜி",
+          "சுரேந்திரநாத் பானர்ஜி"
+        ],
+        "explanation": "பம்பாய், சென்னை, கல்கத்தா மாகாணங்களின் படித்த இந்தியர்களின் முயற்சிகளின் உச்சமாகக் காங்கிரஸ் உருவானது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 82,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 82,
       "quote": "The first session of the Indian National Congress was held on 28 December 1885.",
       "answer": "D",
-      "en": {"q": "The first session of the Indian National Congress was held on", "options": ["28 December 1884", "16 October 1905", "28 December 1886", "28 December 1885"], "explanation": "Early techniques included appeals, petitions and delegations to Britain within a constitutional framework."},
-      "ta": {"q": "இந்திய தேசிய காங்கிரசின் முதல் மாநாடு நடைபெற்ற நாள் எது?", "options": ["28 டிசம்பர் 1884", "16 அக்டோபர் 1905", "28 டிசம்பர் 1886", "28 டிசம்பர் 1885"], "explanation": "தொடக்கத்தில் அரசியலமைப்பு வரம்புக்குள் வேண்டுகோள்கள், மனுக்கள், தூதுக்குழுக்கள் ஆகிய முறைகள் பின்பற்றப்பட்டன."}
+      "en": {
+        "q": "The first session of the Indian National Congress was held on",
+        "options": [
+          "28 December 1884",
+          "16 October 1905",
+          "28 December 1886",
+          "28 December 1885"
+        ],
+        "explanation": "Early techniques included appeals, petitions and delegations to Britain within a constitutional framework."
+      },
+      "ta": {
+        "q": "இந்திய தேசிய காங்கிரசின் முதல் மாநாடு நடைபெற்ற நாள் எது?",
+        "options": [
+          "28 டிசம்பர் 1884",
+          "16 அக்டோபர் 1905",
+          "28 டிசம்பர் 1886",
+          "28 டிசம்பர் 1885"
+        ],
+        "explanation": "தொடக்கத்தில் அரசியலமைப்பு வரம்புக்குள் வேண்டுகோள்கள், மனுக்கள், தூதுக்குழுக்கள் ஆகிய முறைகள் பின்பற்றப்பட்டன."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 82,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 82,
       "quote": "A.O. Hume lent his services to facilitate the formation of the Congress.",
       "answer": "A",
-      "en": {"q": "Who lent his services to facilitate the formation of the Indian National Congress in 1885?", "options": ["A.O. Hume", "Lord Curzon", "Annie Besant", "Lord Dufferin"], "explanation": "The Congress was intended to establish an all-India organisation."},
-      "ta": {"q": "1885இல் இந்திய தேசிய காங்கிரஸ் உருவாக உதவியவர் யார்?", "options": ["ஏ.ஓ. ஹியூம்", "கர்சன் பிரபு", "அன்னி பெசன்ட்", "டஃபரின் பிரபு"], "explanation": "அகில இந்திய அமைப்பை உருவாக்குவதே காங்கிரசின் நோக்கம்."}
+      "en": {
+        "q": "Who lent his services to facilitate the formation of the Indian National Congress in 1885?",
+        "options": [
+          "A.O. Hume",
+          "Lord Curzon",
+          "Annie Besant",
+          "Lord Dufferin"
+        ],
+        "explanation": "The Congress was intended to establish an all-India organisation."
+      },
+      "ta": {
+        "q": "1885இல் இந்திய தேசிய காங்கிரஸ் உருவாக உதவியவர் யார்?",
+        "options": [
+          "ஏ.ஓ. ஹியூம்",
+          "கர்சன் பிரபு",
+          "அன்னி பெசன்ட்",
+          "டஃபரின் பிரபு"
+        ],
+        "explanation": "அகில இந்திய அமைப்பை உருவாக்குவதே காங்கிரசின் நோக்கம்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 83,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 83,
       "quote": "The day Bengal was officially partitioned – 16 Oct 1905 – was declared as a day of mourning.",
       "answer": "B",
-      "en": {"q": "When did the Partition of Bengal come into effect?", "options": ["19 June 1905", "16 October 1905", "18 July 1906", "19 August 1907"], "explanation": "The day was observed as a day of mourning; thousands bathed in the Ganga and marched singing Bande Mataram."},
-      "ta": {"q": "வங்கப் பிரிவினை அமலுக்கு வந்த நாள் எது?", "options": ["19 ஜூன் 1905", "16 அக்டோபர் 1905", "18 ஜூலை 1906", "19 ஆகஸ்ட் 1907"], "explanation": "அந்நாள் துக்க நாளாகக் கடைப்பிடிக்கப்பட்டது; ஆயிரக்கணக்கானோர் கங்கையில் நீராடி வந்தே மாதரம் பாடி அணிவகுத்தனர்."}
+      "en": {
+        "q": "When did the Partition of Bengal come into effect?",
+        "options": [
+          "19 June 1905",
+          "16 October 1905",
+          "18 July 1906",
+          "19 August 1907"
+        ],
+        "explanation": "The day was observed as a day of mourning; thousands bathed in the Ganga and marched singing Bande Mataram."
+      },
+      "ta": {
+        "q": "வங்கப் பிரிவினை அமலுக்கு வந்த நாள் எது?",
+        "options": [
+          "19 ஜூன் 1905",
+          "16 அக்டோபர் 1905",
+          "18 ஜூலை 1906",
+          "19 ஆகஸ்ட் 1907"
+        ],
+        "explanation": "அந்நாள் துக்க நாளாகக் கடைப்பிடிக்கப்பட்டது; ஆயிரக்கணக்கானோர் கங்கையில் நீராடி வந்தே மாதரம் பாடி அணிவகுத்தனர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 83,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 83,
       "quote": "By placing Bengal under two administrative units Curzon reduced the Bengali - speaking people to a linguistic minority in a divided Bengal.",
       "answer": "C",
-      "en": {"q": "The Partition of Bengal in 1905 was carried out by", "options": ["Lord Dalhousie", "Lord Minto", "Lord Curzon", "Lord Chelmsford"], "explanation": "The partition was devised to create a Hindu–Muslim divide and weaken the nationalist movement."},
-      "ta": {"q": "1905 வங்கப் பிரிவினையைச் செய்தவர் யார்?", "options": ["டல்ஹௌசி பிரபு", "மிண்டோ பிரபு", "கர்சன் பிரபு", "செம்ஸ்போர்டு பிரபு"], "explanation": "இந்து–முஸ்லிம் பிளவை உருவாக்கித் தேசிய இயக்கத்தை வலுவிழக்கச் செய்யப் பிரிவினை திட்டமிடப்பட்டது."}
+      "en": {
+        "q": "The Partition of Bengal in 1905 was carried out by",
+        "options": [
+          "Lord Dalhousie",
+          "Lord Minto",
+          "Lord Curzon",
+          "Lord Chelmsford"
+        ],
+        "explanation": "The partition was devised to create a Hindu–Muslim divide and weaken the nationalist movement."
+      },
+      "ta": {
+        "q": "1905 வங்கப் பிரிவினையைச் செய்தவர் யார்?",
+        "options": [
+          "டல்ஹௌசி பிரபு",
+          "மிண்டோ பிரபு",
+          "கர்சன் பிரபு",
+          "செம்ஸ்போர்டு பிரபு"
+        ],
+        "explanation": "இந்து–முஸ்லிம் பிளவை உருவாக்கித் தேசிய இயக்கத்தை வலுவிழக்கச் செய்யப் பிரிவினை திட்டமிடப்பட்டது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 83,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 83,
       "quote": "Four major trends can be discerned during the Swadeshi Movement in Bengal. 1. The Moderate Trend 2. Constructive Swadeshi 3. Militant Nationalism 4. Revolutionary terrorism",
       "answer": "D",
-      "en": {"q": "Which of the following was NOT one of the four major trends of the Swadeshi Movement in Bengal (1905–1911)?", "options": ["The Moderate Trend", "Constructive Swadeshi", "Militant Nationalism", "Non-Cooperation"], "explanation": "The four trends were the Moderate Trend, Constructive Swadeshi, Militant Nationalism and Revolutionary terrorism."},
-      "ta": {"q": "வங்காள சுதேசி இயக்கத்தின் (1905–1911) நான்கு முக்கியப் போக்குகளில் இல்லாதது எது?", "options": ["மிதவாதப் போக்கு", "ஆக்கபூர்வ சுதேசி", "தீவிர தேசியவாதம்", "ஒத்துழையாமை"], "explanation": "மிதவாதப் போக்கு, ஆக்கபூர்வ சுதேசி, தீவிர தேசியவாதம், புரட்சிகர பயங்கரவாதம் – நான்கு போக்குகள்."}
+      "en": {
+        "q": "Which of the following was NOT one of the four major trends of the Swadeshi Movement in Bengal (1905–1911)?",
+        "options": [
+          "The Moderate Trend",
+          "Constructive Swadeshi",
+          "Militant Nationalism",
+          "Non-Cooperation"
+        ],
+        "explanation": "The four trends were the Moderate Trend, Constructive Swadeshi, Militant Nationalism and Revolutionary terrorism."
+      },
+      "ta": {
+        "q": "வங்காள சுதேசி இயக்கத்தின் (1905–1911) நான்கு முக்கியப் போக்குகளில் இல்லாதது எது?",
+        "options": [
+          "மிதவாதப் போக்கு",
+          "ஆக்கபூர்வ சுதேசி",
+          "தீவிர தேசியவாதம்",
+          "ஒத்துழையாமை"
+        ],
+        "explanation": "மிதவாதப் போக்கு, ஆக்கபூர்வ சுதேசி, தீவிர தேசியவாதம், புரட்சிகர பயங்கரவாதம் – நான்கு போக்குகள்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "match_the_following", "difficulty": "easy", "bloom": "remember", "page": 84,
+      "topic": "indian-national-movement",
+      "format": "match_the_following",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 84,
       "quote": "Lala Lajpat Rai of Punjab, Bala Gangadhar Tilak of Maharashtra and Bipin Chandra Pal of Bengal were three prominent leaders during the Swadeshi period and were referred to as Lal-Bal-Pal triumvirate.",
       "answer": "A",
-      "en": {"q": "Match the Lal-Bal-Pal leaders with their regions:\na) Lala Lajpat Rai\nb) Bal Gangadhar Tilak\nc) Bipin Chandra Pal\n1. Maharashtra\n2. Bengal\n3. Punjab", "options": ["a-3, b-1, c-2", "a-1, b-3, c-2", "a-2, b-1, c-3", "a-3, b-2, c-1"], "explanation": "Punjab, Bengal and Maharashtra emerged as the hotbeds of militant nationalism during the Swadeshi Movement."},
-      "ta": {"q": "லால்-பால்-பால் தலைவர்களை அவர்களின் பகுதிகளுடன் பொருத்துக:\na) லாலா லஜபதி ராய்\nb) பால கங்காதர திலகர்\nc) பிபின் சந்திர பால்\n1. மகாராஷ்டிரம்\n2. வங்காளம்\n3. பஞ்சாப்", "options": ["a-3, b-1, c-2", "a-1, b-3, c-2", "a-2, b-1, c-3", "a-3, b-2, c-1"], "explanation": "சுதேசி இயக்கக் காலத்தில் பஞ்சாப், வங்காளம், மகாராஷ்டிரம் தீவிர தேசியவாதத்தின் மையங்களாக உருவாயின."}
+      "en": {
+        "q": "Match the Lal-Bal-Pal leaders with their regions:\na) Lala Lajpat Rai\nb) Bal Gangadhar Tilak\nc) Bipin Chandra Pal\n1. Maharashtra\n2. Bengal\n3. Punjab",
+        "options": [
+          "a-3, b-1, c-2",
+          "a-1, b-3, c-2",
+          "a-2, b-1, c-3",
+          "a-3, b-2, c-1"
+        ],
+        "explanation": "Punjab, Bengal and Maharashtra emerged as the hotbeds of militant nationalism during the Swadeshi Movement."
+      },
+      "ta": {
+        "q": "லால்-பால்-பால் தலைவர்களை அவர்களின் பகுதிகளுடன் பொருத்துக:\na) லாலா லஜபதி ராய்\nb) பால கங்காதர திலகர்\nc) பிபின் சந்திர பால்\n1. மகாராஷ்டிரம்\n2. வங்காளம்\n3. பஞ்சாப்",
+        "options": [
+          "a-3, b-1, c-2",
+          "a-1, b-3, c-2",
+          "a-2, b-1, c-3",
+          "a-3, b-2, c-1"
+        ],
+        "explanation": "சுதேசி இயக்கக் காலத்தில் பஞ்சாப், வங்காளம், மகாராஷ்டிரம் தீவிர தேசியவாதத்தின் மையங்களாக உருவாயின."
+      }
     },
     {
-      "topic": "role-of-tamil-nadu-in-the-freedom-struggle", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 84,
+      "topic": "role-of-tamil-nadu-in-the-freedom-struggle",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 84,
       "quote": "In South India Tuticorin became the most important location of Swadeshi activity with the launch of a Swadeshi Steam Navigation company by V.O. Chidambaranar.",
       "answer": "B",
-      "en": {"q": "The Swadeshi Steam Navigation Company at Tuticorin was launched by", "options": ["Subramania Bharati", "V.O. Chidambaranar", "Subramania Siva", "Tilak"], "explanation": "Tuticorin became the most important location of Swadeshi activity in South India."},
-      "ta": {"q": "தூத்துக்குடியில் சுதேசிக் கப்பல் நிறுவனத்தைத் தொடங்கியவர் யார்?", "options": ["சுப்பிரமணிய பாரதி", "வ.உ. சிதம்பரனார்", "சுப்பிரமணிய சிவா", "திலகர்"], "explanation": "தென்னிந்தியாவில் சுதேசிச் செயல்பாட்டின் முக்கிய மையமாகத் தூத்துக்குடி உருவானது."}
+      "en": {
+        "q": "The Swadeshi Steam Navigation Company at Tuticorin was launched by",
+        "options": [
+          "Subramania Bharati",
+          "V.O. Chidambaranar",
+          "Subramania Siva",
+          "Tilak"
+        ],
+        "explanation": "Tuticorin became the most important location of Swadeshi activity in South India."
+      },
+      "ta": {
+        "q": "தூத்துக்குடியில் சுதேசிக் கப்பல் நிறுவனத்தைத் தொடங்கியவர் யார்?",
+        "options": [
+          "சுப்பிரமணிய பாரதி",
+          "வ.உ. சிதம்பரனார்",
+          "சுப்பிரமணிய சிவா",
+          "திலகர்"
+        ],
+        "explanation": "தென்னிந்தியாவில் சுதேசிச் செயல்பாட்டின் முக்கிய மையமாகத் தூத்துக்குடி உருவானது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 84,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 84,
       "quote": "For Tilak Swaraj was the attainment of complete autonomy and total freedom from foreign rule.",
       "answer": "C",
-      "en": {"q": "For Tilak, 'Swaraj' meant", "options": ["dominion status within the Empire", "self-government through petitions", "complete autonomy and total freedom from foreign rule", "provincial autonomy"], "explanation": "Achieving Swaraj was a common goal of the extremist leaders, though they differed on its meaning."},
-      "ta": {"q": "திலகரைப் பொறுத்தவரை 'சுயராஜ்யம்' என்பதன் பொருள் என்ன?", "options": ["பேரரசுக்குள் டொமினியன் அந்தஸ்து", "மனுக்கள் மூலம் சுயாட்சி", "முழு சுயாட்சியும் அந்நிய ஆட்சியிலிருந்து முழு விடுதலையும்", "மாகாண சுயாட்சி"], "explanation": "சுயராஜ்யம் தீவிரவாதத் தலைவர்களின் பொது இலக்காக இருந்தாலும் அதன் பொருளில் அவர்கள் வேறுபட்டனர்."}
+      "en": {
+        "q": "For Tilak, 'Swaraj' meant",
+        "options": [
+          "dominion status within the British Empire",
+          "self-government through petitions to the Crown",
+          "complete autonomy and freedom from foreign rule",
+          "provincial autonomy within British India"
+        ],
+        "explanation": "Achieving Swaraj was a common goal of the extremist leaders, though they differed on its meaning."
+      },
+      "ta": {
+        "q": "திலகரைப் பொறுத்தவரை 'சுயராஜ்யம்' என்பதன் பொருள் என்ன?",
+        "options": [
+          "பிரிட்டிஷ் பேரரசுக்குள் டொமினியன் அந்தஸ்து",
+          "மன்னருக்கு மனுக்கள் அனுப்பிப் பெறும் சுயாட்சி",
+          "முழு சுயாட்சியும் அந்நிய ஆட்சியிலிருந்து விடுதலையும்",
+          "பிரிட்டிஷ் இந்தியாவுக்குள் மாகாண சுயாட்சி"
+        ],
+        "explanation": "சுயராஜ்யம் தீவிரவாதத் தலைவர்களின் பொது இலக்காக இருந்தாலும் அதன் பொருளில் அவர்கள் வேறுபட்டனர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 84,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 84,
       "quote": "The Indian national movement was revived and also radicalised during the Home Rule Movement (1916-1918), led by Lokamanya Tilak and Annie Besant.",
       "answer": "D",
-      "en": {"q": "The Home Rule Movement (1916–1918) was led by", "options": ["Gandhi and Nehru", "Lajpat Rai and Bipin Chandra Pal", "Gokhale and Naoroji", "Tilak and Annie Besant"], "explanation": "The British betrayal of the Indian hope of self-government after World War I led to a fresh call for a mass movement."},
-      "ta": {"q": "தன்னாட்சி இயக்கத்தை (1916–1918) வழிநடத்தியவர்கள் யார்?", "options": ["காந்தி, நேரு", "லஜபதி ராய், பிபின் சந்திர பால்", "கோகலே, நௌரோஜி", "திலகர், அன்னி பெசன்ட்"], "explanation": "முதல் உலகப் போருக்குப் பின் சுயாட்சி என்ற இந்திய நம்பிக்கையை ஆங்கிலேயர் கைவிட்டது புதிய மக்கள் இயக்கத்திற்கு வழிவகுத்தது."}
+      "en": {
+        "q": "The Home Rule Movement (1916–1918) was led by",
+        "options": [
+          "Gandhi and Nehru",
+          "Lajpat Rai and Bipin Chandra Pal",
+          "Gokhale and Naoroji",
+          "Tilak and Annie Besant"
+        ],
+        "explanation": "The British betrayal of the Indian hope of self-government after World War I led to a fresh call for a mass movement."
+      },
+      "ta": {
+        "q": "தன்னாட்சி இயக்கத்தை (1916–1918) வழிநடத்தியவர்கள் யார்?",
+        "options": [
+          "காந்தி, நேரு",
+          "லஜபதி ராய், பிபின் சந்திர பால்",
+          "கோகலே, நௌரோஜி",
+          "திலகர், அன்னி பெசன்ட்"
+        ],
+        "explanation": "முதல் உலகப் போருக்குப் பின் சுயாட்சி என்ற இந்திய நம்பிக்கையை ஆங்கிலேயர் கைவிட்டது புதிய மக்கள் இயக்கத்திற்கு வழிவகுத்தது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 86,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 86,
       "quote": "Who set up the first Home Rule League in April 1916? ... d) Tilak",
       "answer": "A",
-      "en": {"q": "Who set up the first Home Rule League in April 1916?", "options": ["Tilak", "Annie Besant", "Bipin Chandra Pal", "Lala Lajpat Rai"], "explanation": "Tilak and Annie Besant each organised Home Rule Leagues; the movement revived and radicalised the national movement."},
-      "ta": {"q": "ஏப்ரல் 1916இல் முதல் தன்னாட்சிக் கழகத்தை அமைத்தவர் யார்?", "options": ["திலகர்", "அன்னி பெசன்ட்", "பிபின் சந்திர பால்", "லாலா லஜபதி ராய்"], "explanation": "திலகரும் அன்னி பெசன்டும் தனித்தனியே தன்னாட்சிக் கழகங்களை அமைத்தனர்; இயக்கம் தேசிய இயக்கத்தை மீண்டும் எழுச்சி பெறவும் தீவிரமடையவும் செய்தது."}
+      "en": {
+        "q": "Who set up the first Home Rule League in April 1916?",
+        "options": [
+          "Tilak",
+          "Annie Besant",
+          "Bipin Chandra Pal",
+          "Lala Lajpat Rai"
+        ],
+        "explanation": "Tilak and Annie Besant each organised Home Rule Leagues; the movement revived and radicalised the national movement."
+      },
+      "ta": {
+        "q": "ஏப்ரல் 1916இல் முதல் தன்னாட்சிக் கழகத்தை அமைத்தவர் யார்?",
+        "options": [
+          "திலகர்",
+          "அன்னி பெசன்ட்",
+          "பிபின் சந்திர பால்",
+          "லாலா லஜபதி ராய்"
+        ],
+        "explanation": "திலகரும் அன்னி பெசன்டும் தனித்தனியே தன்னாட்சிக் கழகங்களை அமைத்தனர்; இயக்கம் தேசிய இயக்கத்தை மீண்டும் எழுச்சி பெறவும் தீவிரமடையவும் செய்தது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 84,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 84,
       "quote": "To obtain the status of dominion, a political position accorded later to Australia, Canada, South Africa, and New Zealand.",
       "answer": "B",
-      "en": {"q": "One objective of the Home Rule Movement was to obtain for India the status of", "options": ["a republic", "a dominion", "a crown colony", "a protectorate"], "explanation": "Dominion status was later accorded to Australia, Canada, South Africa and New Zealand; the movement used non-violent constitutional methods."},
-      "ta": {"q": "தன்னாட்சி இயக்கத்தின் ஒரு நோக்கம் இந்தியாவுக்கு எந்த அந்தஸ்தைப் பெறுவது?", "options": ["குடியரசு", "டொமினியன்", "முடியரசுக் காலனி", "பாதுகாப்பு நாடு"], "explanation": "ஆஸ்திரேலியா, கனடா, தென்னாப்பிரிக்கா, நியூசிலாந்துக்கு பின்னர் டொமினியன் அந்தஸ்து வழங்கப்பட்டது; இயக்கம் அகிம்சை அரசியலமைப்பு முறைகளைப் பயன்படுத்தியது."}
+      "en": {
+        "q": "One objective of the Home Rule Movement was to obtain for India the status of",
+        "options": [
+          "a republic",
+          "a dominion",
+          "a crown colony",
+          "a protectorate"
+        ],
+        "explanation": "Dominion status was later accorded to Australia, Canada, South Africa and New Zealand; the movement used non-violent constitutional methods."
+      },
+      "ta": {
+        "q": "தன்னாட்சி இயக்கத்தின் ஒரு நோக்கம் இந்தியாவுக்கு எந்த அந்தஸ்தைப் பெறுவது?",
+        "options": [
+          "குடியரசு",
+          "டொமினியன்",
+          "முடியரசுக் காலனி",
+          "பாதுகாப்பு நாடு"
+        ],
+        "explanation": "ஆஸ்திரேலியா, கனடா, தென்னாப்பிரிக்கா, நியூசிலாந்துக்கு பின்னர் டொமினியன் அந்தஸ்து வழங்கப்பட்டது; இயக்கம் அகிம்சை அரசியலமைப்பு முறைகளைப் பயன்படுத்தியது."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 85,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 85,
       "quote": "Under the Lucknow Pact (1916), the Congress and the Muslim League agreed that there should be self-government in India as soon as possible.",
       "answer": "C",
-      "en": {"q": "The Lucknow Pact of 1916 was an agreement between", "options": ["Congress and the British Government", "Tilak and Annie Besant", "the Congress and the Muslim League", "Moderates and Extremists"], "explanation": "Both agreed that there should be self-government in India as soon as possible."},
-      "ta": {"q": "1916 லக்னோ ஒப்பந்தம் யாருக்கிடையே ஏற்பட்டது?", "options": ["காங்கிரஸ், பிரிட்டிஷ் அரசு", "திலகர், அன்னி பெசன்ட்", "காங்கிரஸ், முஸ்லிம் லீக்", "மிதவாதிகள், தீவிரவாதிகள்"], "explanation": "இந்தியாவில் கூடிய விரைவில் சுயாட்சி வேண்டும் என இருவரும் ஒப்புக்கொண்டனர்."}
+      "en": {
+        "q": "The Lucknow Pact of 1916 was an agreement between",
+        "options": [
+          "Congress and the British Government",
+          "Tilak and Annie Besant",
+          "the Congress and the Muslim League",
+          "Moderates and Extremists"
+        ],
+        "explanation": "Both agreed that there should be self-government in India as soon as possible."
+      },
+      "ta": {
+        "q": "1916 லக்னோ ஒப்பந்தம் யாருக்கிடையே ஏற்பட்டது?",
+        "options": [
+          "காங்கிரஸ், பிரிட்டிஷ் அரசு",
+          "திலகர், அன்னி பெசன்ட்",
+          "காங்கிரஸ், முஸ்லிம் லீக்",
+          "மிதவாதிகள், தீவிரவாதிகள்"
+        ],
+        "explanation": "இந்தியாவில் கூடிய விரைவில் சுயாட்சி வேண்டும் என இருவரும் ஒப்புக்கொண்டனர்."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 85,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 85,
       "quote": "In return, the Congress leadership accepted the concept of separate electorate for Muslims.",
       "answer": "D",
-      "en": {"q": "Under the Lucknow Pact (1916), the Congress leadership accepted the concept of", "options": ["dominion status", "Dyarchy", "joint electorates", "separate electorate for Muslims"], "explanation": "The Home Rule Movement and the reunion of moderates and militant nationalists opened fresh talks with the Muslims."},
-      "ta": {"q": "லக்னோ ஒப்பந்தத்தின் (1916) கீழ் காங்கிரஸ் தலைமை எதை ஏற்றுக்கொண்டது?", "options": ["டொமினியன் அந்தஸ்து", "இரட்டை ஆட்சி", "கூட்டுத் தொகுதிகள்", "முஸ்லிம்களுக்குத் தனித் தொகுதி"], "explanation": "தன்னாட்சி இயக்கமும் மிதவாதிகள், தீவிர தேசியவாதிகளின் மறு இணைவும் முஸ்லிம்களுடன் புதிய பேச்சுவார்த்தைக்கு வழிவகுத்தன."}
+      "en": {
+        "q": "Under the Lucknow Pact (1916), the Congress leadership accepted the concept of",
+        "options": [
+          "dominion status within the Empire",
+          "Dyarchy in the provinces",
+          "joint electorates for all communities",
+          "separate electorate for Muslims"
+        ],
+        "explanation": "The Home Rule Movement and the reunion of moderates and militant nationalists opened fresh talks with the Muslims."
+      },
+      "ta": {
+        "q": "லக்னோ ஒப்பந்தத்தின் (1916) கீழ் காங்கிரஸ் தலைமை எதை ஏற்றுக்கொண்டது?",
+        "options": [
+          "பேரரசுக்குள் டொமினியன் அந்தஸ்து",
+          "மாகாணங்களில் இரட்டை ஆட்சி",
+          "அனைத்துச் சமூகங்களுக்கும் கூட்டுத் தொகுதிகள்",
+          "முஸ்லிம்களுக்குத் தனித் தொகுதி"
+        ],
+        "explanation": "தன்னாட்சி இயக்கமும் மிதவாதிகள், தீவிர தேசியவாதிகளின் மறு இணைவும் முஸ்லிம்களுடன் புதிய பேச்சுவார்த்தைக்கு வழிவகுத்தன."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 85,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 85,
       "quote": "In 1919 the British government announced the Montagu-Chelmsford reforms which promised gradual progress of India towards self-government.",
       "answer": "A",
-      "en": {"q": "The Montagu-Chelmsford reforms promising gradual progress towards self-government were announced in", "options": ["1919", "1916", "1909", "1935"], "explanation": "The reforms caused deep disappointment to Indian nationalists."},
-      "ta": {"q": "சுயாட்சி நோக்கிய படிப்படியான முன்னேற்றத்தை உறுதியளித்த மாண்டேகு-செம்ஸ்போர்டு சீர்திருத்தங்கள் அறிவிக்கப்பட்ட ஆண்டு எது?", "options": ["1919", "1916", "1909", "1935"], "explanation": "இச்சீர்திருத்தங்கள் இந்திய தேசியவாதிகளுக்கு ஆழ்ந்த ஏமாற்றத்தை அளித்தன."}
+      "en": {
+        "q": "The Montagu-Chelmsford reforms promising gradual progress towards self-government were announced in",
+        "options": [
+          "1919",
+          "1916",
+          "1909",
+          "1935"
+        ],
+        "explanation": "The reforms caused deep disappointment to Indian nationalists."
+      },
+      "ta": {
+        "q": "சுயாட்சி நோக்கிய படிப்படியான முன்னேற்றத்தை உறுதியளித்த மாண்டேகு-செம்ஸ்போர்டு சீர்திருத்தங்கள் அறிவிக்கப்பட்ட ஆண்டு எது?",
+        "options": [
+          "1919",
+          "1916",
+          "1909",
+          "1935"
+        ],
+        "explanation": "இச்சீர்திருத்தங்கள் இந்திய தேசியவாதிகளுக்கு ஆழ்ந்த ஏமாற்றத்தை அளித்தன."
+      }
     },
     {
-      "topic": "indian-national-movement", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 85,
+      "topic": "indian-national-movement",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 85,
       "quote": "In a further blow the government enacted what was called the Rowlatt Act which provided for arbitrary arrest and strict punishment.",
       "answer": "B",
-      "en": {"q": "Which Act of 1919 provided for arbitrary arrest and strict punishment?", "options": ["Vernacular Press Act", "Rowlatt Act", "Indian Councils Act", "Government of India Act"], "explanation": "The Rowlatt Act came as a further blow after the disappointing Montagu-Chelmsford reforms."},
-      "ta": {"q": "தன்னிச்சையான கைது, கடும் தண்டனைக்கு வழிவகுத்த 1919 சட்டம் எது?", "options": ["தாய்மொழிப் பத்திரிகைச் சட்டம்", "ரௌலட் சட்டம்", "இந்தியக் கவுன்சில் சட்டம்", "இந்திய அரசுச் சட்டம்"], "explanation": "ஏமாற்றமளித்த மாண்டேகு-செம்ஸ்போர்டு சீர்திருத்தங்களுக்குப் பின் ரௌலட் சட்டம் மேலும் ஒரு அடியாக வந்தது."}
+      "en": {
+        "q": "Which Act of 1919 provided for arbitrary arrest and strict punishment?",
+        "options": [
+          "Vernacular Press Act",
+          "Rowlatt Act",
+          "Indian Councils Act",
+          "Government of India Act"
+        ],
+        "explanation": "The Rowlatt Act came as a further blow after the disappointing Montagu-Chelmsford reforms."
+      },
+      "ta": {
+        "q": "தன்னிச்சையான கைது, கடும் தண்டனைக்கு வழிவகுத்த 1919 சட்டம் எது?",
+        "options": [
+          "தாய்மொழிப் பத்திரிகைச் சட்டம்",
+          "ரௌலட் சட்டம்",
+          "இந்தியக் கவுன்சில் சட்டம்",
+          "இந்திய அரசுச் சட்டம்"
+        ],
+        "explanation": "ஏமாற்றமளித்த மாண்டேகு-செம்ஸ்போர்டு சீர்திருத்தங்களுக்குப் பின் ரௌலட் சட்டம் மேலும் ஒரு அடியாக வந்தது."
+      }
     }
   ]
 }

@@ -4,354 +4,1454 @@
   "breadcrumb": "Std 10 Social Science (English) — History Unit 3: World War II",
   "questions": [
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 27,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 27,
       "quote": "World War I was fought from 1914 to 1918 and World War II began in 1939 and ended in 1945.",
       "answer": "A",
-      "en": {"q": "The Second World War was fought during", "options": ["1939–1945", "1914–1918", "1936–1945", "1941–1945"], "explanation": "World War II began in 1939 and ended in 1945; its immediate cause was the aggressive military offensive of a resurgent Germany and a fast developing Japan."},
-      "ta": {"q": "இரண்டாம் உலகப் போர் நடைபெற்ற காலம் எது?", "options": ["1939–1945", "1914–1918", "1936–1945", "1941–1945"], "explanation": "இரண்டாம் உலகப் போர் 1939இல் தொடங்கி 1945இல் முடிந்தது; மீண்டெழுந்த ஜெர்மனியும் வேகமாக வளர்ந்த ஜப்பானும் நடத்திய ஆக்கிரமிப்புத் தாக்குதலே உடனடிக் காரணம்."}
+      "en": {
+        "q": "The Second World War was fought during",
+        "options": [
+          "1939–1945",
+          "1914–1918",
+          "1936–1945",
+          "1941–1945"
+        ],
+        "explanation": "World War II began in 1939 and ended in 1945; its immediate cause was the aggressive military offensive of a resurgent Germany and a fast developing Japan."
+      },
+      "ta": {
+        "q": "இரண்டாம் உலகப் போர் நடைபெற்ற காலம் எது?",
+        "options": [
+          "1939–1945",
+          "1914–1918",
+          "1936–1945",
+          "1941–1945"
+        ],
+        "explanation": "இரண்டாம் உலகப் போர் 1939இல் தொடங்கி 1945இல் முடிந்தது; மீண்டெழுந்த ஜெர்மனியும் வேகமாக வளர்ந்த ஜப்பானும் நடத்திய ஆக்கிரமிப்புத் தாக்குதலே உடனடிக் காரணம்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 27,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 27,
       "quote": "Germany's allies were Italy and Japan in World War II.",
       "answer": "B",
-      "en": {"q": "Germany's allies in the Second World War were", "options": ["Austria-Hungary and Turkey", "Italy and Japan", "Italy and Spain", "Japan and Britain"], "explanation": "In both World Wars the combined forces of Britain, France, Russia and the United States fought against an alliance led by Germany."},
-      "ta": {"q": "இரண்டாம் உலகப் போரில் ஜெர்மனியின் கூட்டாளிகள் யார்?", "options": ["ஆஸ்திரியா-ஹங்கேரி, துருக்கி", "இத்தாலி, ஜப்பான்", "இத்தாலி, ஸ்பெயின்", "ஜப்பான், பிரிட்டன்"], "explanation": "இரு உலகப் போர்களிலும் பிரிட்டன், பிரான்சு, ரஷ்யா, அமெரிக்கா இணைந்த படைகள் ஜெர்மனி தலைமையிலான கூட்டணியை எதிர்த்துப் போரிட்டன."}
+      "en": {
+        "q": "Germany's allies in the Second World War were",
+        "options": [
+          "Austria-Hungary and Turkey",
+          "Italy and Japan",
+          "Italy and Spain",
+          "Japan and Britain"
+        ],
+        "explanation": "In both World Wars the combined forces of Britain, France, Russia and the United States fought against an alliance led by Germany."
+      },
+      "ta": {
+        "q": "இரண்டாம் உலகப் போரில் ஜெர்மனியின் கூட்டாளிகள் யார்?",
+        "options": [
+          "ஆஸ்திரியா-ஹங்கேரி, துருக்கி",
+          "இத்தாலி, ஜப்பான்",
+          "இத்தாலி, ஸ்பெயின்",
+          "ஜப்பான், பிரிட்டன்"
+        ],
+        "explanation": "இரு உலகப் போர்களிலும் பிரிட்டன், பிரான்சு, ரஷ்யா, அமெரிக்கா இணைந்த படைகள் ஜெர்மனி தலைமையிலான கூட்டணியை எதிர்த்துப் போரிட்டன."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 28,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 28,
       "quote": "The Treaty also set up the League of Nations, on the initiative of President Woodrow Wilson of the United States.",
       "answer": "C",
-      "en": {"q": "Who initiated the formation of the League of Nations?", "options": ["Roosevelt", "Chamberlain", "Woodrow Wilson", "Baldwin"], "explanation": "Despite Wilson's initiative, the isolationist mood kept the United States out of the League, which remained an ineffectual body."},
-      "ta": {"q": "நாடுகள் சங்கம் உருவாக முன்முயற்சி எடுத்தவர் யார்?", "options": ["ரூஸ்வெல்ட்", "சேம்பர்லின்", "உட்ரோ வில்சன்", "பால்ட்வின்"], "explanation": "வில்சனின் முயற்சியிருந்தும் தனிமைக் கொள்கையால் அமெரிக்கா சங்கத்தில் சேரவில்லை; சங்கம் பலனற்ற அமைப்பாகவே இருந்தது."}
+      "en": {
+        "q": "Who initiated the formation of the League of Nations?",
+        "options": [
+          "Roosevelt",
+          "Chamberlain",
+          "Woodrow Wilson",
+          "Baldwin"
+        ],
+        "explanation": "Despite Wilson's initiative, the isolationist mood kept the United States out of the League, which remained an ineffectual body."
+      },
+      "ta": {
+        "q": "நாடுகள் சங்கம் உருவாக முன்முயற்சி எடுத்தவர் யார்?",
+        "options": [
+          "ரூஸ்வெல்ட்",
+          "சேம்பர்லின்",
+          "உட்ரோ வில்சன்",
+          "பால்ட்வின்"
+        ],
+        "explanation": "வில்சனின் முயற்சியிருந்தும் தனிமைக் கொள்கையால் அமெரிக்கா சங்கத்தில் சேரவில்லை; சங்கம் பலனற்ற அமைப்பாகவே இருந்தது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 28,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 28,
       "quote": "The problems which many countries faced in the post-World War I decades led to the rise of extreme right wing dictatorships in Italy (Mussolini), Germany (Hitler) and Spain (Franco).",
       "answer": "D",
-      "en": {"q": "The post-World War I dictator of Spain was", "options": ["Mussolini", "Hitler", "Salazar", "Franco"], "explanation": "The three prominent post-war dictators were Mussolini (Italy), Hitler (Germany) and Franco (Spain)."},
-      "ta": {"q": "முதல் உலகப் போருக்குப் பிந்தைய ஸ்பெயினின் சர்வாதிகாரி யார்?", "options": ["முசோலினி", "ஹிட்லர்", "சலாசர்", "பிராங்கோ"], "explanation": "போருக்குப் பிந்தைய மூன்று முக்கிய சர்வாதிகாரிகள் – முசோலினி (இத்தாலி), ஹிட்லர் (ஜெர்மனி), பிராங்கோ (ஸ்பெயின்)."}
+      "en": {
+        "q": "The post-World War I dictator of Spain was",
+        "options": [
+          "Mussolini",
+          "Hitler",
+          "Salazar",
+          "Franco"
+        ],
+        "explanation": "The three prominent post-war dictators were Mussolini (Italy), Hitler (Germany) and Franco (Spain)."
+      },
+      "ta": {
+        "q": "முதல் உலகப் போருக்குப் பிந்தைய ஸ்பெயினின் சர்வாதிகாரி யார்?",
+        "options": [
+          "முசோலினி",
+          "ஹிட்லர்",
+          "சலாசர்",
+          "பிராங்கோ"
+        ],
+        "explanation": "போருக்குப் பிந்தைய மூன்று முக்கிய சர்வாதிகாரிகள் – முசோலினி (இத்தாலி), ஹிட்லர் (ஜெர்மனி), பிராங்கோ (ஸ்பெயின்)."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 28,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 28,
       "quote": "Hitler came to power in 1933 and ruled Germany till 1945.",
       "answer": "A",
-      "en": {"q": "Hitler came to power in Germany in the year", "options": ["1933", "1929", "1936", "1939"], "explanation": "Hitler built his support on the notion of Aryan racial superiority and hatred of the Jews, and ruled from 1933 to 1945."},
-      "ta": {"q": "ஹிட்லர் ஜெர்மனியில் ஆட்சிக்கு வந்த ஆண்டு எது?", "options": ["1933", "1929", "1936", "1939"], "explanation": "ஆரிய இன மேன்மை, யூத வெறுப்பு ஆகியவற்றின் அடிப்படையில் ஆதரவு திரட்டிய ஹிட்லர் 1933 முதல் 1945 வரை ஆட்சி செய்தார்."}
+      "en": {
+        "q": "Hitler came to power in Germany in the year",
+        "options": [
+          "1933",
+          "1929",
+          "1936",
+          "1939"
+        ],
+        "explanation": "Hitler built his support on the notion of Aryan racial superiority and hatred of the Jews, and ruled from 1933 to 1945."
+      },
+      "ta": {
+        "q": "ஹிட்லர் ஜெர்மனியில் ஆட்சிக்கு வந்த ஆண்டு எது?",
+        "options": [
+          "1933",
+          "1929",
+          "1936",
+          "1939"
+        ],
+        "explanation": "ஆரிய இன மேன்மை, யூத வெறுப்பு ஆகியவற்றின் அடிப்படையில் ஆதரவு திரட்டிய ஹிட்லர் 1933 முதல் 1945 வரை ஆட்சி செய்தார்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 28,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 28,
       "quote": "In 1936, before Germany invaded the Rhineland, which was supposed to be a demilitarised zone, Rome - Berlin Axis had come into being. Later, with Japan joining this alliance, it became Rome-Berlin-Tokyo Axis.",
       "answer": "B",
-      "en": {"q": "The Rome–Berlin Axis came into being in the year", "options": ["1933", "1936", "1938", "1940"], "explanation": "Italy's break with Britain and France after the Ethiopian invasion brought Italy and Germany closer; with Japan it became the Rome–Berlin–Tokyo Axis."},
-      "ta": {"q": "ரோம்–பெர்லின் அச்சு உருவான ஆண்டு எது?", "options": ["1933", "1936", "1938", "1940"], "explanation": "எத்தியோப்பியப் படையெடுப்பால் பிரிட்டன், பிரான்சிலிருந்து விலகிய இத்தாலி ஜெர்மனியுடன் நெருங்கியது; ஜப்பான் சேர்ந்தபின் ரோம்–பெர்லின்–டோக்கியோ அச்சு ஆனது."}
+      "en": {
+        "q": "The Rome–Berlin Axis came into being in the year",
+        "options": [
+          "1933",
+          "1936",
+          "1938",
+          "1940"
+        ],
+        "explanation": "Italy's break with Britain and France after the Ethiopian invasion brought Italy and Germany closer; with Japan it became the Rome–Berlin–Tokyo Axis."
+      },
+      "ta": {
+        "q": "ரோம்–பெர்லின் அச்சு உருவான ஆண்டு எது?",
+        "options": [
+          "1933",
+          "1936",
+          "1938",
+          "1940"
+        ],
+        "explanation": "எத்தியோப்பியப் படையெடுப்பால் பிரிட்டன், பிரான்சிலிருந்து விலகிய இத்தாலி ஜெர்மனியுடன் நெருங்கியது; ஜப்பான் சேர்ந்தபின் ரோம்–பெர்லின்–டோக்கியோ அச்சு ஆனது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 28,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 28,
       "quote": "In 1936, before Germany invaded the Rhineland, which was supposed to be a demilitarised zone",
       "answer": "C",
-      "en": {"q": "Which demilitarised zone did Hitler's Germany invade in 1936?", "options": ["Sudetenland", "Alsace-Lorraine", "Rhineland", "Saar"], "explanation": "Hitler re-armed Germany in direct contravention of the Treaty of Versailles and invaded the demilitarised Rhineland in 1936."},
-      "ta": {"q": "1936இல் ஹிட்லரின் ஜெர்மனி ஆக்கிரமித்த இராணுவமற்ற மண்டலம் எது?", "options": ["சுடேட்டன்லாந்து", "அல்சேஸ்-லொரைன்", "ரைன்லாந்து", "சார்"], "explanation": "வெர்சாய்ஸ் உடன்படிக்கையை மீறி ஜெர்மனியை மீண்டும் ஆயுதமயமாக்கிய ஹிட்லர் 1936இல் இராணுவமற்ற ரைன்லாந்தை ஆக்கிரமித்தார்."}
+      "en": {
+        "q": "Which demilitarised zone did Hitler's Germany invade in 1936?",
+        "options": [
+          "Sudetenland",
+          "Alsace-Lorraine",
+          "Rhineland",
+          "Saar"
+        ],
+        "explanation": "Hitler re-armed Germany in direct contravention of the Treaty of Versailles and invaded the demilitarised Rhineland in 1936."
+      },
+      "ta": {
+        "q": "1936இல் ஹிட்லரின் ஜெர்மனி ஆக்கிரமித்த இராணுவமற்ற மண்டலம் எது?",
+        "options": [
+          "சுடேட்டன்லாந்து",
+          "அல்சேஸ்-லொரைன்",
+          "ரைன்லாந்து",
+          "சார்"
+        ],
+        "explanation": "வெர்சாய்ஸ் உடன்படிக்கையை மீறி ஜெர்மனியை மீண்டும் ஆயுதமயமாக்கிய ஹிட்லர் 1936இல் இராணுவமற்ற ரைன்லாந்தை ஆக்கிரமித்தார்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 28,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 28,
       "quote": "In 1938, Hitler invaded Austria and Czechoslovakia. Sudetenland in Czechoslovakia was German speaking, and Hitler's claim was that the German speaking people should be united in to one nation.",
       "answer": "D",
-      "en": {"q": "Sudetenland, the German-speaking region claimed by Hitler, was a part of", "options": ["Austria", "Poland", "Hungary", "Czechoslovakia"], "explanation": "Hitler claimed that German-speaking people should be united in one nation and invaded Austria and Czechoslovakia in 1938."},
-      "ta": {"q": "ஹிட்லர் உரிமை கோரிய ஜெர்மன் மொழி பேசும் சுடேட்டன்லாந்து எந்த நாட்டின் பகுதி?", "options": ["ஆஸ்திரியா", "போலந்து", "ஹங்கேரி", "செக்கோஸ்லோவாக்கியா"], "explanation": "ஜெர்மன் மொழி பேசுவோர் ஒரே நாடாக இணைய வேண்டும் எனக் கூறி ஹிட்லர் 1938இல் ஆஸ்திரியா, செக்கோஸ்லோவாக்கியா மீது படையெடுத்தார்."}
+      "en": {
+        "q": "Sudetenland, the German-speaking region claimed by Hitler, was a part of",
+        "options": [
+          "Austria",
+          "Yugoslavia",
+          "Hungary",
+          "Czechoslovakia"
+        ],
+        "explanation": "Hitler claimed that German-speaking people should be united in one nation and invaded Austria and Czechoslovakia in 1938."
+      },
+      "ta": {
+        "q": "ஹிட்லர் உரிமை கோரிய ஜெர்மன் மொழி பேசும் சுடேட்டன்லாந்து எந்த நாட்டின் பகுதி?",
+        "options": [
+          "ஆஸ்திரியா",
+          "பால்கன் நாடான யூகோஸ்லாவியா",
+          "ஹங்கேரி",
+          "செக்கோஸ்லோவாக்கியா"
+        ],
+        "explanation": "ஜெர்மன் மொழி பேசுவோர் ஒரே நாடாக இணைய வேண்டும் எனக் கூறி ஹிட்லர் 1938இல் ஆஸ்திரியா, செக்கோஸ்லோவாக்கியா மீது படையெடுத்தார்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 28,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 28,
       "quote": "Italy invaded Ethiopia in 1935 and Albania in 1939. Emperor Haile Selassie of Ethiopia appealed to the League of Nations, but got no help.",
       "answer": "A",
-      "en": {"q": "Which Emperor of Ethiopia appealed in vain to the League of Nations against the Italian invasion?", "options": ["Haile Selassie", "Menelik II", "Tewodros", "Yohannes"], "explanation": "Italy invaded Ethiopia in 1935 and Albania in 1939; the League was unable to act."},
-      "ta": {"q": "இத்தாலியப் படையெடுப்புக்கு எதிராக நாடுகள் சங்கத்தில் பயனின்றி முறையிட்ட எத்தியோப்பியப் பேரரசர் யார்?", "options": ["ஹைலே செலாசி", "இரண்டாம் மெனெலிக்", "தியோடோரஸ்", "யோஹன்னஸ்"], "explanation": "இத்தாலி 1935இல் எத்தியோப்பியா மீதும் 1939இல் அல்பேனியா மீதும் படையெடுத்தது; நாடுகள் சங்கத்தால் எதுவும் செய்ய இயலவில்லை."}
+      "en": {
+        "q": "Which Emperor of Ethiopia appealed in vain to the League of Nations against the Italian invasion?",
+        "options": [
+          "Haile Selassie",
+          "Menelik II",
+          "Tewodros",
+          "Yohannes"
+        ],
+        "explanation": "Italy invaded Ethiopia in 1935 and Albania in 1939; the League was unable to act."
+      },
+      "ta": {
+        "q": "இத்தாலியப் படையெடுப்புக்கு எதிராக நாடுகள் சங்கத்தில் பயனின்றி முறையிட்ட எத்தியோப்பியப் பேரரசர் யார்?",
+        "options": [
+          "ஹைலே செலாசி",
+          "இரண்டாம் மெனெலிக்",
+          "தியோடோரஸ்",
+          "யோஹன்னஸ்"
+        ],
+        "explanation": "இத்தாலி 1935இல் எத்தியோப்பியா மீதும் 1939இல் அல்பேனியா மீதும் படையெடுத்தது; நாடுகள் சங்கத்தால் எதுவும் செய்ய இயலவில்லை."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 28,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 28,
       "quote": "In 1931, Japan invaded Manchuria, and in 1937 it invaded China and seized Beijing.",
       "answer": "B",
-      "en": {"q": "Japan invaded Manchuria in the year", "options": ["1929", "1931", "1937", "1941"], "explanation": "China's appeal to the League of Nations over Manchuria (1931) attracted no action; in 1937 Japan invaded China and seized Beijing."},
-      "ta": {"q": "ஜப்பான் மஞ்சூரியா மீது படையெடுத்த ஆண்டு எது?", "options": ["1929", "1931", "1937", "1941"], "explanation": "மஞ்சூரியா (1931) குறித்த சீனாவின் முறையீட்டுக்கு நாடுகள் சங்கம் நடவடிக்கை எடுக்கவில்லை; 1937இல் ஜப்பான் சீனா மீது படையெடுத்து பெய்ஜிங்கைக் கைப்பற்றியது."}
+      "en": {
+        "q": "Japan invaded Manchuria in the year",
+        "options": [
+          "1929",
+          "1931",
+          "1937",
+          "1941"
+        ],
+        "explanation": "China's appeal to the League of Nations over Manchuria (1931) attracted no action; in 1937 Japan invaded China and seized Beijing."
+      },
+      "ta": {
+        "q": "ஜப்பான் மஞ்சூரியா மீது படையெடுத்த ஆண்டு எது?",
+        "options": [
+          "1929",
+          "1931",
+          "1937",
+          "1941"
+        ],
+        "explanation": "மஞ்சூரியா (1931) குறித்த சீனாவின் முறையீட்டுக்கு நாடுகள் சங்கம் நடவடிக்கை எடுக்கவில்லை; 1937இல் ஜப்பான் சீனா மீது படையெடுத்து பெய்ஜிங்கைக் கைப்பற்றியது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 30,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 30,
       "quote": "In 1938, Prime Minister Chamberlain concluded the Munich Pact with Germany, which was a shameful acceptance of Germany's invasion of Czechoslovakia to annex German-speaking Sudetenland.",
       "answer": "C",
-      "en": {"q": "Which British Prime Minister signed the Munich Pact with Germany in 1938?", "options": ["Winston Churchill", "Lloyd George", "Chamberlain", "Stanley Baldwin"], "explanation": "The Munich Pact accepted Germany's annexation of Sudetenland; Hitler broke his assurance and invaded Czechoslovakia in 1939."},
-      "ta": {"q": "1938இல் ஜெர்மனியுடன் முனிச் ஒப்பந்தத்தில் கையெழுத்திட்ட பிரிட்டிஷ் பிரதமர் யார்?", "options": ["வின்ஸ்டன் சர்ச்சில்", "லாய்ட் ஜார்ஜ்", "சேம்பர்லின்", "ஸ்டான்லி பால்ட்வின்"], "explanation": "முனிச் ஒப்பந்தம் சுடேட்டன்லாந்து இணைப்பை ஏற்றுக்கொண்டது; உறுதிமொழியை மீறி ஹிட்லர் 1939இல் செக்கோஸ்லோவாக்கியா மீது படையெடுத்தார்."}
+      "en": {
+        "q": "Which British Prime Minister signed the Munich Pact with Germany in 1938?",
+        "options": [
+          "Winston Churchill",
+          "Lloyd George",
+          "Chamberlain",
+          "Stanley Baldwin"
+        ],
+        "explanation": "The Munich Pact accepted Germany's annexation of Sudetenland; Hitler broke his assurance and invaded Czechoslovakia in 1939."
+      },
+      "ta": {
+        "q": "1938இல் ஜெர்மனியுடன் முனிச் ஒப்பந்தத்தில் கையெழுத்திட்ட பிரிட்டிஷ் பிரதமர் யார்?",
+        "options": [
+          "வின்ஸ்டன் சர்ச்சில்",
+          "லாய்ட் ஜார்ஜ்",
+          "சேம்பர்லின்",
+          "ஸ்டான்லி பால்ட்வின்"
+        ],
+        "explanation": "முனிச் ஒப்பந்தம் சுடேட்டன்லாந்து இணைப்பை ஏற்றுக்கொண்டது; உறுதிமொழியை மீறி ஹிட்லர் 1939இல் செக்கோஸ்லோவாக்கியா மீது படையெடுத்தார்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 30,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 30,
       "quote": "In Britain, Prime Minister Chamberlain resigned in 1940 and Winston Churchill, who had always warned about Hitler and his military ambitions, became Prime Minister.",
       "answer": "D",
-      "en": {"q": "Who became Prime Minister of Britain after Chamberlain resigned in 1940?", "options": ["Lloyd George", "Clement Attlee", "Stanley Baldwin", "Winston Churchill"], "explanation": "Churchill had always warned about Hitler and his military ambitions."},
-      "ta": {"q": "1940இல் சேம்பர்லின் பதவி விலகிய பின் பிரிட்டன் பிரதமரானவர் யார்?", "options": ["லாய்ட் ஜார்ஜ்", "கிளமென்ட் அட்லி", "ஸ்டான்லி பால்ட்வின்", "வின்ஸ்டன் சர்ச்சில்"], "explanation": "ஹிட்லரின் இராணுவ நோக்கங்கள் குறித்து எப்போதும் எச்சரித்து வந்தவர் சர்ச்சில்."}
+      "en": {
+        "q": "Who became Prime Minister of Britain after Chamberlain resigned in 1940?",
+        "options": [
+          "Lloyd George",
+          "Clement Attlee",
+          "Stanley Baldwin",
+          "Winston Churchill"
+        ],
+        "explanation": "Churchill had always warned about Hitler and his military ambitions."
+      },
+      "ta": {
+        "q": "1940இல் சேம்பர்லின் பதவி விலகிய பின் பிரிட்டன் பிரதமரானவர் யார்?",
+        "options": [
+          "லாய்ட் ஜார்ஜ்",
+          "கிளமென்ட் அட்லி",
+          "ஸ்டான்லி பால்ட்வின்",
+          "வின்ஸ்டன் சர்ச்சில்"
+        ],
+        "explanation": "ஹிட்லரின் இராணுவ நோக்கங்கள் குறித்து எப்போதும் எச்சரித்து வந்தவர் சர்ச்சில்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 30,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 30,
       "quote": "Britain and France declared war on Germany in September 1939. In June 1940, Italy joined Germany, and in September 1940, Japan also joined the Axis powers.",
       "answer": "A",
-      "en": {"q": "Britain and France declared war on Germany in", "options": ["September 1939", "June 1940", "September 1940", "December 1941"], "explanation": "The German attack on Poland was the final act that led Britain and France to declare war in September 1939."},
-      "ta": {"q": "பிரிட்டனும் பிரான்சும் ஜெர்மனி மீது போர் அறிவித்தது எப்போது?", "options": ["செப்டம்பர் 1939", "ஜூன் 1940", "செப்டம்பர் 1940", "டிசம்பர் 1941"], "explanation": "போலந்து மீதான ஜெர்மனித் தாக்குதலே பிரிட்டனும் பிரான்சும் செப்டம்பர் 1939இல் போர் அறிவிக்கக் காரணம்."}
+      "en": {
+        "q": "Britain and France declared war on Germany in",
+        "options": [
+          "September 1939",
+          "June 1940",
+          "September 1940",
+          "December 1941"
+        ],
+        "explanation": "The German attack on Poland was the final act that led Britain and France to declare war in September 1939."
+      },
+      "ta": {
+        "q": "பிரிட்டனும் பிரான்சும் ஜெர்மனி மீது போர் அறிவித்தது எப்போது?",
+        "options": [
+          "செப்டம்பர் 1939",
+          "ஜூன் 1940",
+          "செப்டம்பர் 1940",
+          "டிசம்பர் 1941"
+        ],
+        "explanation": "போலந்து மீதான ஜெர்மனித் தாக்குதலே பிரிட்டனும் பிரான்சும் செப்டம்பர் 1939இல் போர் அறிவிக்கக் காரணம்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 30,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 30,
       "quote": "In June 1940, Italy joined Germany, and in September 1940, Japan also joined the Axis powers.",
       "answer": "B",
-      "en": {"q": "Italy joined Germany in the Second World War in", "options": ["September 1939", "June 1940", "September 1940", "June 1941"], "explanation": "Italy joined in June 1940 and Japan joined the Axis powers in September 1940."},
-      "ta": {"q": "இரண்டாம் உலகப் போரில் இத்தாலி ஜெர்மனியுடன் இணைந்தது எப்போது?", "options": ["செப்டம்பர் 1939", "ஜூன் 1940", "செப்டம்பர் 1940", "ஜூன் 1941"], "explanation": "இத்தாலி ஜூன் 1940இலும், ஜப்பான் செப்டம்பர் 1940இலும் அச்சு நாடுகளுடன் இணைந்தன."}
+      "en": {
+        "q": "Italy joined Germany in the Second World War in",
+        "options": [
+          "September 1939",
+          "June 1940",
+          "September 1940",
+          "June 1941"
+        ],
+        "explanation": "Italy joined in June 1940 and Japan joined the Axis powers in September 1940."
+      },
+      "ta": {
+        "q": "இரண்டாம் உலகப் போரில் இத்தாலி ஜெர்மனியுடன் இணைந்தது எப்போது?",
+        "options": [
+          "செப்டம்பர் 1939",
+          "ஜூன் 1940",
+          "செப்டம்பர் 1940",
+          "ஜூன் 1941"
+        ],
+        "explanation": "இத்தாலி ஜூன் 1940இலும், ஜப்பான் செப்டம்பர் 1940இலும் அச்சு நாடுகளுடன் இணைந்தன."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 30,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 30,
       "quote": "The German army followed a tactic of 'lightning strike' (Blitzkrieg) to storm into various countries and overrun them.",
       "answer": "C",
-      "en": {"q": "The German tactic of 'lightning strike' used to overrun countries was called", "options": ["The Blitz", "Lend Lease", "Blitzkrieg", "Fall Blau"], "explanation": "By 1941 all of mainland Europe up to the Russian frontier was under the Axis powers through Blitzkrieg."},
-      "ta": {"q": "நாடுகளை விரைந்து கைப்பற்ற ஜெர்மானியப் படை பயன்படுத்திய 'மின்னல் தாக்குதல்' உத்தி எவ்வாறு அழைக்கப்பட்டது?", "options": ["தி பிளிட்ஸ்", "லெண்ட் லீஸ்", "பிளிட்ஸ்கிரீக்", "ஃபால் பிளாவ்"], "explanation": "பிளிட்ஸ்கிரீக் மூலம் 1941க்குள் ரஷ்ய எல்லை வரையிலான ஐரோப்பிய நிலப்பரப்பு முழுவதும் அச்சு நாடுகளின் கீழ் வந்தது."}
+      "en": {
+        "q": "The German tactic of 'lightning strike' used to overrun countries was called",
+        "options": [
+          "The Blitz",
+          "Lend Lease",
+          "Blitzkrieg",
+          "Fall Blau"
+        ],
+        "explanation": "By 1941 all of mainland Europe up to the Russian frontier was under the Axis powers through Blitzkrieg."
+      },
+      "ta": {
+        "q": "நாடுகளை விரைந்து கைப்பற்ற ஜெர்மானியப் படை பயன்படுத்திய 'மின்னல் தாக்குதல்' உத்தி எவ்வாறு அழைக்கப்பட்டது?",
+        "options": [
+          "தி பிளிட்ஸ்",
+          "லெண்ட் லீஸ்",
+          "பிளிட்ஸ்கிரீக்",
+          "ஃபால் பிளாவ்"
+        ],
+        "explanation": "பிளிட்ஸ்கிரீக் மூலம் 1941க்குள் ரஷ்ய எல்லை வரையிலான ஐரோப்பிய நிலப்பரப்பு முழுவதும் அச்சு நாடுகளின் கீழ் வந்தது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 30,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 30,
       "quote": "Dunkirk – In May 1940 more than 300,000 British and French soldiers were forced back to the beaches in Dunkirk.",
       "answer": "D",
-      "en": {"q": "In May 1940, how many British and French soldiers were forced back to the beaches at Dunkirk?", "options": ["More than 30,000", "More than 100,000", "More than 200,000", "More than 300,000"], "explanation": "Britain would have found it difficult to regroup if so many soldiers had been lost at Dunkirk."},
-      "ta": {"q": "மே 1940இல் டன்கிர்க் கடற்கரைக்குப் பின்வாங்கத் தள்ளப்பட்ட பிரிட்டிஷ், பிரெஞ்சு வீரர்கள் எத்தனை பேர்?", "options": ["30,000க்கு மேல்", "1,00,000க்கு மேல்", "2,00,000க்கு மேல்", "3,00,000க்கு மேல்"], "explanation": "டன்கிர்க்கில் இத்தனை வீரர்களை இழந்திருந்தால் பிரிட்டன் மீண்டும் படை திரட்டுவது கடினமாகியிருக்கும்."}
+      "en": {
+        "q": "In May 1940, how many British and French soldiers were forced back to the beaches at Dunkirk?",
+        "options": [
+          "More than 30,000",
+          "More than 100,000",
+          "More than 200,000",
+          "More than 300,000"
+        ],
+        "explanation": "Britain would have found it difficult to regroup if so many soldiers had been lost at Dunkirk."
+      },
+      "ta": {
+        "q": "மே 1940இல் டன்கிர்க் கடற்கரைக்குப் பின்வாங்கத் தள்ளப்பட்ட பிரிட்டிஷ், பிரெஞ்சு வீரர்கள் எத்தனை பேர்?",
+        "options": [
+          "30,000க்கு மேல்",
+          "1,00,000க்கு மேல்",
+          "2,00,000க்கு மேல்",
+          "3,00,000க்கு மேல்"
+        ],
+        "explanation": "டன்கிர்க்கில் இத்தனை வீரர்களை இழந்திருந்தால் பிரிட்டன் மீண்டும் படை திரட்டுவது கடினமாகியிருக்கும்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 31,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 31,
       "quote": "In September 1940, London was bombed mercilessly, an action known as The Blitz.",
       "answer": "A",
-      "en": {"q": "The merciless German bombing of London in September 1940 is known as", "options": ["The Blitz", "Blitzkrieg", "Operation Blue", "The Battle of Britain"], "explanation": "During the Battle of Britain Hitler tried to force Britain to accept peace by a prolonged air-bombing campaign; the Blitz, the night bombing of London and other cities, went on from September 1940 to May 1941."},
-      "ta": {"q": "செப்டம்பர் 1940இல் லண்டன் மீதான ஜெர்மனியின் இரக்கமற்ற குண்டுவீச்சு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["தி பிளிட்ஸ்", "பிளிட்ஸ்கிரீக்", "ஆபரேஷன் புளூ", "பிரிட்டன் போர்"], "explanation": "பிரிட்டன் போரின்போது நீண்ட வான் குண்டுவீச்சால் பிரிட்டனை அமைதிக்கு இணங்க வைக்க ஹிட்லர் முயன்றார்; லண்டன் மற்றும் பிற நகரங்கள் மீதான இரவு குண்டுவீச்சான 'பிளிட்ஸ்' 1940 செப்டம்பர் முதல் 1941 மே வரை நீடித்தது."}
+      "en": {
+        "q": "The merciless German bombing of London in September 1940 is known as",
+        "options": [
+          "The Blitz",
+          "Blitzkrieg",
+          "Operation Blue",
+          "The Battle of Britain"
+        ],
+        "explanation": "During the Battle of Britain Hitler tried to force Britain to accept peace by a prolonged air-bombing campaign; the Blitz, the night bombing of London and other cities, went on from September 1940 to May 1941."
+      },
+      "ta": {
+        "q": "செப்டம்பர் 1940இல் லண்டன் மீதான ஜெர்மனியின் இரக்கமற்ற குண்டுவீச்சு எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "தி பிளிட்ஸ்",
+          "பிளிட்ஸ்கிரீக்",
+          "ஆபரேஷன் புளூ",
+          "பிரிட்டன் போர்"
+        ],
+        "explanation": "பிரிட்டன் போரின்போது நீண்ட வான் குண்டுவீச்சால் பிரிட்டனை அமைதிக்கு இணங்க வைக்க ஹிட்லர் முயன்றார்; லண்டன் மற்றும் பிற நகரங்கள் மீதான இரவு குண்டுவீச்சான 'பிளிட்ஸ்' 1940 செப்டம்பர் முதல் 1941 மே வரை நீடித்தது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 31,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 31,
       "quote": "This campaign failed because with the aid of a newly developed and top secret device 'radar' for detecting aircraft while still at a distance, the fighter planes of the Royal Air Force were able to inflict severe losses on the German bombers.",
       "answer": "B",
-      "en": {"q": "Which newly developed secret device helped the Royal Air Force detect enemy aircraft from a distance during the Battle of Britain?", "options": ["Sonar", "Radar", "Telescope", "Enigma"], "explanation": "Radar enabled the RAF to inflict severe losses on German bombers; Germany dropped its plan to invade Britain."},
-      "ta": {"q": "பிரிட்டன் போரின்போது எதிரி விமானங்களைத் தொலைவிலேயே கண்டறிய ராயல் விமானப்படைக்கு உதவிய புதிய இரகசியக் கருவி எது?", "options": ["சோனார்", "ரேடார்", "தொலைநோக்கி", "எனிக்மா"], "explanation": "ரேடார் உதவியால் ஜெர்மானிய குண்டுவீச்சு விமானங்களுக்குப் பெரும் இழப்பை ஏற்படுத்திய பின் பிரிட்டன் மீதான படையெடுப்புத் திட்டத்தை ஜெர்மனி கைவிட்டது."}
+      "en": {
+        "q": "Which newly developed secret device helped the Royal Air Force detect enemy aircraft from a distance during the Battle of Britain?",
+        "options": [
+          "Sonar",
+          "Radar",
+          "Telescope",
+          "Enigma"
+        ],
+        "explanation": "Radar enabled the RAF to inflict severe losses on German bombers; Germany dropped its plan to invade Britain."
+      },
+      "ta": {
+        "q": "பிரிட்டன் போரின்போது எதிரி விமானங்களைத் தொலைவிலேயே கண்டறிய ராயல் விமானப்படைக்கு உதவிய புதிய இரகசியக் கருவி எது?",
+        "options": [
+          "சோனார்",
+          "ரேடார்",
+          "தொலைநோக்கி",
+          "எனிக்மா"
+        ],
+        "explanation": "ரேடார் உதவியால் ஜெர்மானிய குண்டுவீச்சு விமானங்களுக்குப் பெரும் இழப்பை ஏற்படுத்திய பின் பிரிட்டன் மீதான படையெடுப்புத் திட்டத்தை ஜெர்மனி கைவிட்டது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 31,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 31,
       "quote": "So he started a programme of \"Lend Lease\" in March 1941. Arms, food, military equipment and other supplies were sent to Britain, disguised as a \"loan\".",
       "answer": "C",
-      "en": {"q": "President Roosevelt started the 'Lend Lease' programme in", "options": ["September 1939", "June 1940", "March 1941", "December 1941"], "explanation": "Arms, food and equipment were sent to Britain as a 'loan' because direct US intervention was not politically feasible."},
-      "ta": {"q": "அதிபர் ரூஸ்வெல்ட் 'லெண்ட் லீஸ்' திட்டத்தைத் தொடங்கியது எப்போது?", "options": ["செப்டம்பர் 1939", "ஜூன் 1940", "மார்ச் 1941", "டிசம்பர் 1941"], "explanation": "நேரடியாகப் போரில் தலையிட அரசியல் ரீதியாக இயலாததால் ஆயுதம், உணவு, உபகரணங்கள் 'கடன்' என்ற பெயரில் பிரிட்டனுக்கு அனுப்பப்பட்டன."}
+      "en": {
+        "q": "President Roosevelt started the 'Lend Lease' programme in",
+        "options": [
+          "September 1939",
+          "June 1940",
+          "March 1941",
+          "December 1941"
+        ],
+        "explanation": "Arms, food and equipment were sent to Britain as a 'loan' because direct US intervention was not politically feasible."
+      },
+      "ta": {
+        "q": "அதிபர் ரூஸ்வெல்ட் 'லெண்ட் லீஸ்' திட்டத்தைத் தொடங்கியது எப்போது?",
+        "options": [
+          "செப்டம்பர் 1939",
+          "ஜூன் 1940",
+          "மார்ச் 1941",
+          "டிசம்பர் 1941"
+        ],
+        "explanation": "நேரடியாகப் போரில் தலையிட அரசியல் ரீதியாக இயலாததால் ஆயுதம், உணவு, உபகரணங்கள் 'கடன்' என்ற பெயரில் பிரிட்டனுக்கு அனுப்பப்பட்டன."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 31,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 31,
       "quote": "Between 1941 and 1945, the total aid under Lend Lease amounted to $46.5 billion.",
       "answer": "D",
-      "en": {"q": "According to the textbook, the total aid given under the Lend Lease programme between 1941 and 1945 amounted to", "options": ["$4.65 billion", "$16.5 billion", "$26.5 billion", "$46.5 billion"], "explanation": "Lend Lease augmented Britain's resources to a great extent."},
-      "ta": {"q": "பாடநூலின்படி 1941–1945 காலத்தில் லெண்ட் லீஸ் திட்டத்தின் கீழ் அளிக்கப்பட்ட மொத்த உதவி எவ்வளவு?", "options": ["$4.65 பில்லியன்", "$16.5 பில்லியன்", "$26.5 பில்லியன்", "$46.5 பில்லியன்"], "explanation": "லெண்ட் லீஸ் பிரிட்டனின் வளங்களைப் பெருமளவு பெருக்கியது."}
+      "en": {
+        "q": "According to the textbook, the total aid given under the Lend Lease programme between 1941 and 1945 amounted to",
+        "options": [
+          "$4.65 billion",
+          "$16.5 billion",
+          "$26.5 billion",
+          "$46.5 billion"
+        ],
+        "explanation": "Lend Lease augmented Britain's resources to a great extent."
+      },
+      "ta": {
+        "q": "பாடநூலின்படி 1941–1945 காலத்தில் லெண்ட் லீஸ் திட்டத்தின் கீழ் அளிக்கப்பட்ட மொத்த உதவி எவ்வளவு?",
+        "options": [
+          "$4.65 பில்லியன்",
+          "$16.5 பில்லியன்",
+          "$26.5 பில்லியன்",
+          "$46.5 பில்லியன்"
+        ],
+        "explanation": "லெண்ட் லீஸ் பிரிட்டனின் வளங்களைப் பெருமளவு பெருக்கியது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 31,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 31,
       "quote": "In June 1941 the German army invaded Russia.",
       "answer": "A",
-      "en": {"q": "The German army invaded Russia in", "options": ["June 1941", "June 1940", "December 1941", "August 1942"], "explanation": "Germany sought land for settling Germans, the destruction of the communist regime and Russia's oil; the Soviet resistance and the Russian winter defeated the German army."},
-      "ta": {"q": "ஜெர்மானியப் படை ரஷ்யா மீது படையெடுத்தது எப்போது?", "options": ["ஜூன் 1941", "ஜூன் 1940", "டிசம்பர் 1941", "ஆகஸ்ட் 1942"], "explanation": "ஜெர்மானியர் குடியேற்ற நிலம், கம்யூனிச ஆட்சி அழிப்பு, ரஷ்யாவின் எண்ணெய் ஆகியவை நோக்கங்கள்; சோவியத் எதிர்ப்பும் ரஷ்யக் குளிர்காலமும் ஜெர்மானியப் படையைத் தோற்கடித்தன."}
+      "en": {
+        "q": "The German army invaded Russia in",
+        "options": [
+          "June 1941",
+          "June 1940",
+          "December 1941",
+          "August 1942"
+        ],
+        "explanation": "Germany sought land for settling Germans, the destruction of the communist regime and Russia's oil; the Soviet resistance and the Russian winter defeated the German army."
+      },
+      "ta": {
+        "q": "ஜெர்மானியப் படை ரஷ்யா மீது படையெடுத்தது எப்போது?",
+        "options": [
+          "ஜூன் 1941",
+          "ஜூன் 1940",
+          "டிசம்பர் 1941",
+          "ஆகஸ்ட் 1942"
+        ],
+        "explanation": "ஜெர்மானியர் குடியேற்ற நிலம், கம்யூனிச ஆட்சி அழிப்பு, ரஷ்யாவின் எண்ணெய் ஆகியவை நோக்கங்கள்; சோவியத் எதிர்ப்பும் ரஷ்யக் குளிர்காலமும் ஜெர்மானியப் படையைத் தோற்கடித்தன."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 31,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 31,
       "quote": "Stretching about 30 miles (50 km) along the banks of the Volga River, Stalingrad was a large industrial city producing armaments and tractors.",
       "answer": "B",
-      "en": {"q": "The city of Stalingrad stretched along the banks of the river", "options": ["Danube", "Volga", "Don", "Dnieper"], "explanation": "Capturing Stalingrad would have cut Soviet transport links with southern Russia and opened the Caucasus oil fields to Germany."},
-      "ta": {"q": "ஸ்டாலின்கிராட் நகரம் எந்த ஆற்றின் கரையில் பரவியிருந்தது?", "options": ["டான்யூப்", "வோல்கா", "டான்", "நீப்பர்"], "explanation": "ஸ்டாலின்கிராட்டைக் கைப்பற்றினால் தென் ரஷ்யாவுடனான சோவியத் போக்குவரத்து துண்டிக்கப்பட்டு காகசஸ் எண்ணெய் வயல்கள் ஜெர்மனிக்குக் கிடைத்திருக்கும்."}
+      "en": {
+        "q": "The city of Stalingrad stretched along the banks of the river",
+        "options": [
+          "Danube",
+          "Volga",
+          "Don",
+          "Dnieper"
+        ],
+        "explanation": "Capturing Stalingrad would have cut Soviet transport links with southern Russia and opened the Caucasus oil fields to Germany."
+      },
+      "ta": {
+        "q": "ஸ்டாலின்கிராட் நகரம் எந்த ஆற்றின் கரையில் பரவியிருந்தது?",
+        "options": [
+          "டான்யூப்",
+          "வோல்கா",
+          "டான்",
+          "நீப்பர்"
+        ],
+        "explanation": "ஸ்டாலின்கிராட்டைக் கைப்பற்றினால் தென் ரஷ்யாவுடனான சோவியத் போக்குவரத்து துண்டிக்கப்பட்டு காகசஸ் எண்ணெய் வயல்கள் ஜெர்மனிக்குக் கிடைத்திருக்கும்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 31,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 31,
       "quote": "German war planners hoped to achieve that end with Fall Blau (\"Operation Blue\"). On June 28, 1942, operations began with significant German victories.",
       "answer": "C",
-      "en": {"q": "The German operation launched in June 1942 to capture Stalingrad was code-named", "options": ["Blitzkrieg", "Operation Barbarossa", "Fall Blau (Operation Blue)", "Operation Overlord"], "explanation": "Russians successfully defended Stalingrad; about 15 million civilians and 10 million soldiers of Russia died in the war."},
-      "ta": {"q": "ஸ்டாலின்கிராட்டைக் கைப்பற்ற ஜூன் 1942இல் ஜெர்மனி தொடங்கிய நடவடிக்கையின் குறியீட்டுப் பெயர் என்ன?", "options": ["பிளிட்ஸ்கிரீக்", "ஆபரேஷன் பார்பரோசா", "ஃபால் பிளாவ் (ஆபரேஷன் புளூ)", "ஆபரேஷன் ஓவர்லார்ட்"], "explanation": "ரஷ்யர்கள் ஸ்டாலின்கிராட்டை வெற்றிகரமாகக் காத்தனர்; போரில் ரஷ்யாவின் சுமார் 15 மில்லியன் பொதுமக்களும் 10 மில்லியன் வீரர்களும் இறந்தனர்."}
+      "en": {
+        "q": "The German operation launched in June 1942 to capture Stalingrad was code-named",
+        "options": [
+          "Blitzkrieg",
+          "Operation Barbarossa",
+          "Fall Blau",
+          "Operation Overlord"
+        ],
+        "explanation": "Russians successfully defended Stalingrad; about 15 million civilians and 10 million soldiers of Russia died in the war."
+      },
+      "ta": {
+        "q": "ஸ்டாலின்கிராட்டைக் கைப்பற்ற ஜூன் 1942இல் ஜெர்மனி தொடங்கிய நடவடிக்கையின் குறியீட்டுப் பெயர் என்ன?",
+        "options": [
+          "பிளிட்ஸ்கிரீக்",
+          "ஆபரேஷன் பார்பரோசா",
+          "ஃபால் பிளாவ்",
+          "ஆபரேஷன் ஓவர்லார்ட்"
+        ],
+        "explanation": "ரஷ்யர்கள் ஸ்டாலின்கிராட்டை வெற்றிகரமாகக் காத்தனர்; போரில் ரஷ்யாவின் சுமார் 15 மில்லியன் பொதுமக்களும் 10 மில்லியன் வீரர்களும் இறந்தனர்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 31,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 31,
       "quote": "Battle of Stalingrad (17 July 1942 to 2 February 1943)",
       "answer": "D",
-      "en": {"q": "The Battle of Stalingrad was fought during", "options": ["June 1941 – December 1941", "May 1940 – October 1940", "January 1942 – June 1942", "17 July 1942 – 2 February 1943"], "explanation": "Over one-tenth of Russia's population died in the war, yet the people remained loyal and defended Stalingrad."},
-      "ta": {"q": "ஸ்டாலின்கிராட் போர் நடைபெற்ற காலம் எது?", "options": ["ஜூன் 1941 – டிசம்பர் 1941", "மே 1940 – அக்டோபர் 1940", "ஜனவரி 1942 – ஜூன் 1942", "17 ஜூலை 1942 – 2 பிப்ரவரி 1943"], "explanation": "போரில் ரஷ்ய மக்கள்தொகையில் பத்தில் ஒரு பங்குக்கு மேல் இறந்தும் மக்கள் விசுவாசமாக இருந்து ஸ்டாலின்கிராட்டைக் காத்தனர்."}
+      "en": {
+        "q": "The Battle of Stalingrad was fought during",
+        "options": [
+          "June 1941 – December 1941",
+          "May 1940 – October 1940",
+          "January 1942 – June 1942",
+          "17 July 1942 – 2 February 1943"
+        ],
+        "explanation": "Over one-tenth of Russia's population died in the war, yet the people remained loyal and defended Stalingrad."
+      },
+      "ta": {
+        "q": "ஸ்டாலின்கிராட் போர் நடைபெற்ற காலம் எது?",
+        "options": [
+          "ஜூன் 1941 – டிசம்பர் 1941",
+          "மே 1940 – அக்டோபர் 1940",
+          "ஜனவரி 1942 – ஜூன் 1942",
+          "17 ஜூலை 1942 – 2 பிப்ரவரி 1943"
+        ],
+        "explanation": "போரில் ரஷ்ய மக்கள்தொகையில் பத்தில் ஒரு பங்குக்கு மேல் இறந்தும் மக்கள் விசுவாசமாக இருந்து ஸ்டாலின்கிராட்டைக் காத்தனர்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 31,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 31,
       "quote": "In the early years of the War, German forces under General Rommel were remarkably successful in occupying North Africa rapidly, leaving the British with only Egypt.",
       "answer": "A",
-      "en": {"q": "The German forces that rapidly occupied North Africa were commanded by", "options": ["General Rommel", "General Montgomery", "General Eisenhower", "General Himmler"], "explanation": "Rommel's forces left the British with only Egypt before the Allied counter-attack at El Alamein."},
-      "ta": {"q": "வட ஆப்பிரிக்காவை விரைவாகக் கைப்பற்றிய ஜெர்மானியப் படைகளுக்குத் தலைமை தாங்கியவர் யார்?", "options": ["தளபதி ரோமல்", "தளபதி மாண்ட்கோமெரி", "தளபதி ஐசனோவர்", "தளபதி ஹிம்லர்"], "explanation": "எல் அலமெய்ன் நேச நாடுகளின் எதிர்த்தாக்குதலுக்கு முன் ரோமலின் படைகள் பிரிட்டனுக்கு எகிப்தை மட்டுமே விட்டுவைத்தன."}
+      "en": {
+        "q": "The German forces that rapidly occupied North Africa were commanded by",
+        "options": [
+          "General Rommel",
+          "General Montgomery",
+          "General Eisenhower",
+          "General Himmler"
+        ],
+        "explanation": "Rommel's forces left the British with only Egypt before the Allied counter-attack at El Alamein."
+      },
+      "ta": {
+        "q": "வட ஆப்பிரிக்காவை விரைவாகக் கைப்பற்றிய ஜெர்மானியப் படைகளுக்குத் தலைமை தாங்கியவர் யார்?",
+        "options": [
+          "தளபதி ரோமல்",
+          "தளபதி மாண்ட்கோமெரி",
+          "தளபதி ஐசனோவர்",
+          "தளபதி ஹிம்லர்"
+        ],
+        "explanation": "எல் அலமெய்ன் நேச நாடுகளின் எதிர்த்தாக்குதலுக்கு முன் ரோமலின் படைகள் பிரிட்டனுக்கு எகிப்தை மட்டுமே விட்டுவைத்தன."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 32,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 32,
       "quote": "The Allied forces under General Montgomery counter-attacked and defeated the German and Italian forces at El Alamein in North Africa.",
       "answer": "B",
-      "en": {"q": "The Allied victory at El Alamein (1942) in North Africa was won under", "options": ["General Rommel", "General Montgomery", "General Eisenhower", "General MacArthur"], "explanation": "The German army was chased out of North Africa, providing the Allies a base to invade Italy."},
-      "ta": {"q": "வட ஆப்பிரிக்காவில் எல் அலமெய்ன் (1942) நேச நாடுகளின் வெற்றி யாருடைய தலைமையில் கிடைத்தது?", "options": ["தளபதி ரோமல்", "தளபதி மாண்ட்கோமெரி", "தளபதி ஐசனோவர்", "தளபதி மெக்ஆர்தர்"], "explanation": "ஜெர்மானியப் படை வட ஆப்பிரிக்காவிலிருந்து விரட்டப்பட்டது; இத்தாலி மீது படையெடுக்க நேச நாடுகளுக்குத் தளம் கிடைத்தது."}
+      "en": {
+        "q": "The Allied victory at El Alamein (1942) in North Africa was won under",
+        "options": [
+          "General Rommel",
+          "General Montgomery",
+          "General Eisenhower",
+          "General MacArthur"
+        ],
+        "explanation": "The German army was chased out of North Africa, providing the Allies a base to invade Italy."
+      },
+      "ta": {
+        "q": "வட ஆப்பிரிக்காவில் எல் அலமெய்ன் (1942) நேச நாடுகளின் வெற்றி யாருடைய தலைமையில் கிடைத்தது?",
+        "options": [
+          "தளபதி ரோமல்",
+          "தளபதி மாண்ட்கோமெரி",
+          "தளபதி ஐசனோவர்",
+          "தளபதி மெக்ஆர்தர்"
+        ],
+        "explanation": "ஜெர்மானியப் படை வட ஆப்பிரிக்காவிலிருந்து விரட்டப்பட்டது; இத்தாலி மீது படையெடுக்க நேச நாடுகளுக்குத் தளம் கிடைத்தது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 32,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 32,
       "quote": "Mussolini was killed in April 1945, by Italian partisans.",
       "answer": "C",
-      "en": {"q": "Mussolini was killed in April 1945 by", "options": ["German soldiers", "Allied forces", "Italian partisans", "Russian army"], "explanation": "Italy had surrendered to the Allies in 1943; the Germans had set Mussolini up in a puppet regime in the north."},
-      "ta": {"q": "ஏப்ரல் 1945இல் முசோலினி யாரால் கொல்லப்பட்டார்?", "options": ["ஜெர்மானிய வீரர்கள்", "நேச நாட்டுப் படைகள்", "இத்தாலியக் கெரில்லாப் போராளிகள்", "ரஷ்யப் படை"], "explanation": "இத்தாலி 1943இல் நேச நாடுகளிடம் சரணடைந்தது; ஜெர்மானியர் வடக்கில் முசோலினியைப் பொம்மை ஆட்சியில் அமர்த்தியிருந்தனர்."}
+      "en": {
+        "q": "Mussolini was killed in April 1945 by",
+        "options": [
+          "German soldiers",
+          "Allied forces",
+          "Italian partisans",
+          "Russian army"
+        ],
+        "explanation": "Italy had surrendered to the Allies in 1943; the Germans had set Mussolini up in a puppet regime in the north."
+      },
+      "ta": {
+        "q": "ஏப்ரல் 1945இல் முசோலினி யாரால் கொல்லப்பட்டார்?",
+        "options": [
+          "ஜெர்மானியப் படை வீரர்கள்",
+          "நேச நாட்டுப் படைகளின் வீரர்கள்",
+          "இத்தாலியக் கெரில்லாப் போராளிகள்",
+          "ரஷ்யப் படையின் வீரர்கள்"
+        ],
+        "explanation": "இத்தாலி 1943இல் நேச நாடுகளிடம் சரணடைந்தது; ஜெர்மானியர் வடக்கில் முசோலினியைப் பொம்மை ஆட்சியில் அமர்த்தியிருந்தனர்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 32,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 32,
       "quote": "The Allied forces under the command of General Eisenhower invaded Normandy in France.",
       "answer": "D",
-      "en": {"q": "The Allied invasion of Normandy in France was commanded by", "options": ["General Montgomery", "General Rommel", "Winston Churchill", "General Eisenhower"], "explanation": "The war in Europe ended in May 1945; Hitler committed suicide in April 1945."},
-      "ta": {"q": "பிரான்சின் நார்மண்டி மீதான நேச நாடுகளின் படையெடுப்புக்குத் தலைமை தாங்கியவர் யார்?", "options": ["தளபதி மாண்ட்கோமெரி", "தளபதி ரோமல்", "வின்ஸ்டன் சர்ச்சில்", "தளபதி ஐசனோவர்"], "explanation": "ஐரோப்பியப் போர் மே 1945இல் முடிந்தது; ஹிட்லர் ஏப்ரல் 1945இல் தற்கொலை செய்துகொண்டார்."}
+      "en": {
+        "q": "The Allied invasion of Normandy in France was commanded by",
+        "options": [
+          "General Montgomery",
+          "General Rommel",
+          "Winston Churchill",
+          "General Eisenhower"
+        ],
+        "explanation": "The war in Europe ended in May 1945; Hitler committed suicide in April 1945."
+      },
+      "ta": {
+        "q": "பிரான்சின் நார்மண்டி மீதான நேச நாடுகளின் படையெடுப்புக்குத் தலைமை தாங்கியவர் யார்?",
+        "options": [
+          "தளபதி மாண்ட்கோமெரி",
+          "தளபதி ரோமல்",
+          "வின்ஸ்டன் சர்ச்சில்",
+          "தளபதி ஐசனோவர்"
+        ],
+        "explanation": "ஐரோப்பியப் போர் மே 1945இல் முடிந்தது; ஹிட்லர் ஏப்ரல் 1945இல் தற்கொலை செய்துகொண்டார்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 32,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
       "quote": "The War continued for nearly another year, and finally ended in May 1945. Hitler committed suicide in April 1945.",
       "answer": "A",
-      "en": {"q": "Hitler committed suicide in", "options": ["April 1945", "May 1945", "August 1945", "September 1945"], "explanation": "From 1944 the Russian army attacked from the East and in 1945 occupied parts of Berlin, so Germany was divided after the War."},
-      "ta": {"q": "ஹிட்லர் தற்கொலை செய்துகொண்டது எப்போது?", "options": ["ஏப்ரல் 1945", "மே 1945", "ஆகஸ்ட் 1945", "செப்டம்பர் 1945"], "explanation": "1944 முதல் கிழக்கிலிருந்து தாக்கிய ரஷ்யப் படை 1945இல் பெர்லினின் பகுதிகளைக் கைப்பற்றியதால் போருக்குப் பின் ஜெர்மனி இரண்டாகப் பிரிக்கப்பட்டது."}
+      "en": {
+        "q": "Hitler committed suicide in",
+        "options": [
+          "April 1945",
+          "May 1945",
+          "August 1945",
+          "September 1945"
+        ],
+        "explanation": "From 1944 the Russian army attacked from the East and in 1945 occupied parts of Berlin, so Germany was divided after the War."
+      },
+      "ta": {
+        "q": "ஹிட்லர் தற்கொலை செய்துகொண்டது எப்போது?",
+        "options": [
+          "ஏப்ரல் 1945",
+          "மே 1945",
+          "ஆகஸ்ட் 1945",
+          "செப்டம்பர் 1945"
+        ],
+        "explanation": "1944 முதல் கிழக்கிலிருந்து தாக்கிய ரஷ்யப் படை 1945இல் பெர்லினின் பகுதிகளைக் கைப்பற்றியதால் போருக்குப் பின் ஜெர்மனி இரண்டாகப் பிரிக்கப்பட்டது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 32,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 32,
       "quote": "In 1937, Japan invaded China, and seized Beijing (Peking, as it was then known) which had traditionally been the capital of China.",
       "answer": "B",
-      "en": {"q": "Japan invaded China and seized Beijing in the year", "options": ["1931", "1937", "1941", "1945"], "explanation": "Nanjing was captured at the end of 1937 and the Japanese army indulged in the biggest slaughter ever known in history there."},
-      "ta": {"q": "ஜப்பான் சீனா மீது படையெடுத்து பெய்ஜிங்கைக் கைப்பற்றிய ஆண்டு எது?", "options": ["1931", "1937", "1941", "1945"], "explanation": "1937 இறுதியில் நான்ஜிங் கைப்பற்றப்பட்டது; அங்கு ஜப்பானியப் படை வரலாற்றில் அறியப்பட்ட மிகப் பெரிய படுகொலையை நிகழ்த்தியது."}
+      "en": {
+        "q": "Japan invaded China and seized Beijing in the year",
+        "options": [
+          "1931",
+          "1937",
+          "1941",
+          "1945"
+        ],
+        "explanation": "Nanjing was captured at the end of 1937 and the Japanese army indulged in the biggest slaughter ever known in history there."
+      },
+      "ta": {
+        "q": "ஜப்பான் சீனா மீது படையெடுத்து பெய்ஜிங்கைக் கைப்பற்றிய ஆண்டு எது?",
+        "options": [
+          "1931",
+          "1937",
+          "1941",
+          "1945"
+        ],
+        "explanation": "1937 இறுதியில் நான்ஜிங் கைப்பற்றப்பட்டது; அங்கு ஜப்பானியப் படை வரலாற்றில் அறியப்பட்ட மிகப் பெரிய படுகொலையை நிகழ்த்தியது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 32,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
       "quote": "On December 1941, Japan attacked American naval installations in Pearl Harbour, Hawaii, without warning.",
       "answer": "C",
-      "en": {"q": "Japan attacked the American naval base at Pearl Harbour, Hawaii, in", "options": ["September 1939", "June 1941", "December 1941", "August 1945"], "explanation": "The attack brought the United States with its enormous resources into the War as part of the Allies."},
-      "ta": {"q": "ஹவாயின் பேர்ல் ஹார்பர் அமெரிக்கக் கடற்படைத் தளத்தை ஜப்பான் தாக்கியது எப்போது?", "options": ["செப்டம்பர் 1939", "ஜூன் 1941", "டிசம்பர் 1941", "ஆகஸ்ட் 1945"], "explanation": "இத்தாக்குதல் பெரும் வளங்களுடைய அமெரிக்காவை நேச நாடுகளுடன் போரில் இணையச் செய்தது."}
+      "en": {
+        "q": "Japan attacked the American naval base at Pearl Harbour, Hawaii, in",
+        "options": [
+          "September 1939",
+          "June 1941",
+          "December 1941",
+          "August 1945"
+        ],
+        "explanation": "The attack brought the United States with its enormous resources into the War as part of the Allies."
+      },
+      "ta": {
+        "q": "ஹவாயின் பேர்ல் ஹார்பர் அமெரிக்கக் கடற்படைத் தளத்தை ஜப்பான் தாக்கியது எப்போது?",
+        "options": [
+          "செப்டம்பர் 1939",
+          "ஜூன் 1941",
+          "டிசம்பர் 1941",
+          "ஆகஸ்ட் 1945"
+        ],
+        "explanation": "இத்தாக்குதல் பெரும் வளங்களுடைய அமெரிக்காவை நேச நாடுகளுடன் போரில் இணையச் செய்தது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 32,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
       "quote": "The US navy defeated the Japanese navy in the Battle of Midway, which turned the tide in favour of the Allies.",
       "answer": "D",
-      "en": {"q": "Where was the Japanese Navy defeated by the US Navy, turning the tide in favour of the Allies?", "options": ["Battle of Guadalcanal", "Battle of Leningrad", "Battle of El Alamein", "Battle of Midway"], "explanation": "The Battle of Guadalcanal in the Solomon Islands (1942) was another crushing defeat for Japan."},
-      "ta": {"q": "நேச நாடுகளுக்குச் சாதகமாகப் போக்கை மாற்றி ஜப்பானியக் கடற்படையை அமெரிக்கக் கடற்படை தோற்கடித்த போர் எது?", "options": ["குவாடல்கனல் போர்", "லெனின்கிராட் போர்", "எல் அலமெய்ன் போர்", "மிட்வே போர்"], "explanation": "சாலமன் தீவுகளில் நடந்த குவாடல்கனல் போர் (1942) ஜப்பானுக்கு மற்றொரு பெரும் தோல்வி."}
+      "en": {
+        "q": "Where was the Japanese Navy defeated by the US Navy, turning the tide in favour of the Allies?",
+        "options": [
+          "Battle of Guadalcanal",
+          "Battle of Leningrad",
+          "Battle of El Alamein",
+          "Battle of Midway"
+        ],
+        "explanation": "The Battle of Guadalcanal in the Solomon Islands (1942) was another crushing defeat for Japan."
+      },
+      "ta": {
+        "q": "நேச நாடுகளுக்குச் சாதகமாகப் போக்கை மாற்றி ஜப்பானியக் கடற்படையை அமெரிக்கக் கடற்படை தோற்கடித்த போர் எது?",
+        "options": [
+          "குவாடல்கனல் போர்",
+          "லெனின்கிராட் போர்",
+          "எல் அலமெய்ன் போர்",
+          "மிட்வே போர்"
+        ],
+        "explanation": "சாலமன் தீவுகளில் நடந்த குவாடல்கனல் போர் (1942) ஜப்பானுக்கு மற்றொரு பெரும் தோல்வி."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 32,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 32,
       "quote": "The Battle of Guadalcanal in the Solomon Islands was a combined offensive involving the army and the navy, and lasted for several months.",
       "answer": "A",
-      "en": {"q": "The Battle of Guadalcanal (1942) was fought in the", "options": ["Solomon Islands", "Philippines", "Hawaii Islands", "Marshall Islands"], "explanation": "After Midway and Guadalcanal the American forces re-took the Philippines; in 1944 British and Indian armies pushed the Japanese back from north-east India."},
-      "ta": {"q": "குவாடல்கனல் போர் (1942) எங்கு நடைபெற்றது?", "options": ["சாலமன் தீவுகள்", "பிலிப்பைன்ஸ்", "ஹவாய் தீவுகள்", "மார்ஷல் தீவுகள்"], "explanation": "மிட்வே, குவாடல்கனல் வெற்றிகளுக்குப் பின் அமெரிக்கா பிலிப்பைன்சை மீட்டது; 1944இல் பிரிட்டிஷ், இந்தியப் படைகள் வடகிழக்கு இந்தியாவிலிருந்து ஜப்பானியரைப் பின்தள்ளின."}
+      "en": {
+        "q": "The Battle of Guadalcanal (1942) was fought in the",
+        "options": [
+          "Solomon Islands",
+          "Philippines",
+          "Hawaii Islands",
+          "Marshall Islands"
+        ],
+        "explanation": "After Midway and Guadalcanal the American forces re-took the Philippines; in 1944 British and Indian armies pushed the Japanese back from north-east India."
+      },
+      "ta": {
+        "q": "குவாடல்கனல் போர் (1942) எங்கு நடைபெற்றது?",
+        "options": [
+          "சாலமன் தீவுகள்",
+          "பிலிப்பைன்ஸ்",
+          "ஹவாய் தீவுகள்",
+          "மார்ஷல் தீவுகள்"
+        ],
+        "explanation": "மிட்வே, குவாடல்கனல் வெற்றிகளுக்குப் பின் அமெரிக்கா பிலிப்பைன்சை மீட்டது; 1944இல் பிரிட்டிஷ், இந்தியப் படைகள் வடகிழக்கு இந்தியாவிலிருந்து ஜப்பானியரைப் பின்தள்ளின."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 33,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
       "quote": "The Japanese generals refused to surrender and finally the US dropped an atomic bomb on Hiroshima. As the Japanese still refused to surrender, another atom bomb was dropped on Nagasaki.",
       "answer": "B",
-      "en": {"q": "The USA dropped its first atomic bomb on", "options": ["Nagasaki", "Hiroshima", "Tokyo", "Kawasaki"], "explanation": "When Japan still refused to surrender after Hiroshima, a second bomb was dropped on Nagasaki in August 1945."},
-      "ta": {"q": "அமெரிக்கா தனது முதல் அணுகுண்டை எங்கு வீசியது?", "options": ["நாகசாகி", "ஹிரோஷிமா", "டோக்கியோ", "கவாசாகி"], "explanation": "ஹிரோஷிமாவுக்குப் பின்னும் ஜப்பான் சரணடைய மறுத்ததால் ஆகஸ்ட் 1945இல் நாகசாகி மீது இரண்டாவது குண்டு வீசப்பட்டது."}
+      "en": {
+        "q": "The USA dropped its first atomic bomb on",
+        "options": [
+          "Nagasaki",
+          "Hiroshima",
+          "Tokyo",
+          "Kawasaki"
+        ],
+        "explanation": "When Japan still refused to surrender after Hiroshima, a second bomb was dropped on Nagasaki in August 1945."
+      },
+      "ta": {
+        "q": "அமெரிக்கா தனது முதல் அணுகுண்டை எங்கு வீசியது?",
+        "options": [
+          "நாகசாகி",
+          "ஹிரோஷிமா",
+          "டோக்கியோ",
+          "கவாசாகி"
+        ],
+        "explanation": "ஹிரோஷிமாவுக்குப் பின்னும் ஜப்பான் சரணடைய மறுத்ததால் ஆகஸ்ட் 1945இல் நாகசாகி மீது இரண்டாவது குண்டு வீசப்பட்டது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 33,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 33,
       "quote": "Japan ultimately announced surrender on 15 August 1945 and formally signed 2 September 1945 bringing an end to World War II.",
       "answer": "C",
-      "en": {"q": "Japan announced its surrender on", "options": ["6 August 1945", "9 August 1945", "15 August 1945", "2 September 1945"], "explanation": "Japan announced surrender on 15 August 1945 and formally signed it on 2 September 1945."},
-      "ta": {"q": "ஜப்பான் சரணடைவதாக அறிவித்த நாள் எது?", "options": ["6 ஆகஸ்ட் 1945", "9 ஆகஸ்ட் 1945", "15 ஆகஸ்ட் 1945", "2 செப்டம்பர் 1945"], "explanation": "15 ஆகஸ்ட் 1945இல் சரணடைவதாக அறிவித்த ஜப்பான் 2 செப்டம்பர் 1945இல் முறைப்படி கையெழுத்திட்டது."}
+      "en": {
+        "q": "Japan announced its surrender on",
+        "options": [
+          "6 August 1945",
+          "9 August 1945",
+          "15 August 1945",
+          "2 September 1945"
+        ],
+        "explanation": "Japan announced surrender on 15 August 1945 and formally signed it on 2 September 1945."
+      },
+      "ta": {
+        "q": "ஜப்பான் சரணடைவதாக அறிவித்த நாள் எது?",
+        "options": [
+          "6 ஆகஸ்ட் 1945",
+          "9 ஆகஸ்ட் 1945",
+          "15 ஆகஸ்ட் 1945",
+          "2 செப்டம்பர் 1945"
+        ],
+        "explanation": "15 ஆகஸ்ட் 1945இல் சரணடைவதாக அறிவித்த ஜப்பான் 2 செப்டம்பர் 1945இல் முறைப்படி கையெழுத்திட்டது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 33,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 33,
       "quote": "formally signed 2 September 1945 bringing an end to World War II.",
       "answer": "D",
-      "en": {"q": "When did the Japanese formally sign their surrender, ending World War II?", "options": ["15 August 1945", "2 October 1945", "12 October 1945", "2 September 1945"], "explanation": "The formal signing on 2 September 1945 brought the Second World War to an end."},
-      "ta": {"q": "இரண்டாம் உலகப் போரை முடிவுக்குக் கொண்டுவந்த ஜப்பானின் முறையான சரணடைவு கையெழுத்தான நாள் எது?", "options": ["15 ஆகஸ்ட் 1945", "2 அக்டோபர் 1945", "12 அக்டோபர் 1945", "2 செப்டம்பர் 1945"], "explanation": "2 செப்டம்பர் 1945 முறையான கையெழுத்துடன் இரண்டாம் உலகப் போர் முடிவுக்கு வந்தது."}
+      "en": {
+        "q": "When did the Japanese formally sign their surrender, ending World War II?",
+        "options": [
+          "15 August 1945",
+          "2 October 1945",
+          "12 October 1945",
+          "2 September 1945"
+        ],
+        "explanation": "The formal signing on 2 September 1945 brought the Second World War to an end."
+      },
+      "ta": {
+        "q": "இரண்டாம் உலகப் போரை முடிவுக்குக் கொண்டுவந்த ஜப்பானின் முறையான சரணடைவு கையெழுத்தான நாள் எது?",
+        "options": [
+          "15 ஆகஸ்ட் 1945",
+          "2 அக்டோபர் 1945",
+          "12 அக்டோபர் 1945",
+          "2 செப்டம்பர் 1945"
+        ],
+        "explanation": "2 செப்டம்பர் 1945 முறையான கையெழுத்துடன் இரண்டாம் உலகப் போர் முடிவுக்கு வந்தது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 33,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
       "quote": "The word 'holocaust' is used to describe the genocide of nearly six million Jews by the Germans during World War II.",
       "answer": "A",
-      "en": {"q": "The 'Holocaust' refers to the genocide of nearly how many Jews by the Germans during World War II?", "options": ["Six million", "Two million", "Ten million", "Sixty thousand"], "explanation": "Hitler played on the anti-Jewish feelings (anti-Semitism) common in Germany and throughout Europe."},
-      "ta": {"q": "'ஹோலோகாஸ்ட்' என்பது இரண்டாம் உலகப் போரில் ஜெர்மானியரால் சுமார் எத்தனை யூதர்கள் இனப்படுகொலை செய்யப்பட்டதைக் குறிக்கிறது?", "options": ["ஆறு மில்லியன்", "இரண்டு மில்லியன்", "பத்து மில்லியன்", "அறுபதாயிரம்"], "explanation": "ஜெர்மனியிலும் ஐரோப்பா முழுவதிலும் பரவியிருந்த யூத எதிர்ப்பு உணர்வை (ஆன்டி-செமிட்டிசம்) ஹிட்லர் பயன்படுத்திக் கொண்டார்."}
+      "en": {
+        "q": "The 'Holocaust' refers to the genocide of nearly how many Jews by the Germans during World War II?",
+        "options": [
+          "Six million",
+          "Two million",
+          "Ten million",
+          "Sixty thousand"
+        ],
+        "explanation": "Hitler played on the anti-Jewish feelings (anti-Semitism) common in Germany and throughout Europe."
+      },
+      "ta": {
+        "q": "'ஹோலோகாஸ்ட்' என்பது இரண்டாம் உலகப் போரில் ஜெர்மானியரால் சுமார் எத்தனை யூதர்கள் இனப்படுகொலை செய்யப்பட்டதைக் குறிக்கிறது?",
+        "options": [
+          "ஆறு மில்லியன்",
+          "இரண்டு மில்லியன்",
+          "பத்து மில்லியன்",
+          "அறுபதாயிரம்"
+        ],
+        "explanation": "ஜெர்மனியிலும் ஐரோப்பா முழுவதிலும் பரவியிருந்த யூத எதிர்ப்பு உணர்வை (ஆன்டி-செமிட்டிசம்) ஹிட்லர் பயன்படுத்திக் கொண்டார்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 33,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 33,
       "quote": "Shakespeare's play, The Merchant of Venice clearly depicts the dislike and distrust of Jews among the people.",
       "answer": "B",
-      "en": {"q": "Which play of Shakespeare depicts the dislike and distrust of Jews among the people?", "options": ["Hamlet", "The Merchant of Venice", "Macbeth", "Othello"], "explanation": "Money-lending was a major business among Jews, which strengthened prejudice against them."},
-      "ta": {"q": "மக்களிடையே யூதர்கள் மீதான வெறுப்பையும் அவநம்பிக்கையையும் சித்தரிக்கும் ஷேக்ஸ்பியரின் நாடகம் எது?", "options": ["ஹாம்லெட்", "வெனிஸ் வணிகன்", "மாக்பெத்", "ஒதெல்லோ"], "explanation": "கடன் கொடுக்கும் தொழில் யூதர்களிடையே பெரும் தொழிலாக இருந்தது அவர்கள் மீதான வெறுப்பை வலுப்படுத்தியது."}
+      "en": {
+        "q": "Which play of Shakespeare depicts the dislike and distrust of Jews among the people?",
+        "options": [
+          "Romeo and Juliet",
+          "The Merchant of Venice",
+          "Julius Caesar",
+          "Othello"
+        ],
+        "explanation": "Money-lending was a major business among Jews, which strengthened prejudice against them."
+      },
+      "ta": {
+        "q": "மக்களிடையே யூதர்கள் மீதான வெறுப்பையும் அவநம்பிக்கையையும் சித்தரிக்கும் ஷேக்ஸ்பியரின் நாடகம் எது?",
+        "options": [
+          "ரோமியோ ஜூலியட்",
+          "வெனிஸ் வணிகன்",
+          "ஜூலியஸ் சீசர்",
+          "ஒதெல்லோ"
+        ],
+        "explanation": "கடன் கொடுக்கும் தொழில் யூதர்களிடையே பெரும் தொழிலாக இருந்தது அவர்கள் மீதான வெறுப்பை வலுப்படுத்தியது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 34,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 34,
       "quote": "A committee constituted under its auspices was chaired by Eleanor Roosevelt wife of late President Franklin Roosevelt.",
       "answer": "C",
-      "en": {"q": "The committee that drafted the Universal Declaration of Human Rights was chaired by", "options": ["Rene Cassin", "Charles Malik", "Eleanor Roosevelt", "John Humphrey"], "explanation": "Members of the Commission included Charles Malik (Lebanon), P.C. Chang (China), John Humphrey (Canada) and Rene Cassin (France)."},
-      "ta": {"q": "உலகளாவிய மனித உரிமைப் பிரகடனத்தை வரைந்த குழுவின் தலைவர் யார்?", "options": ["ரெனே காசின்", "சார்லஸ் மாலிக்", "எலினர் ரூஸ்வெல்ட்", "ஜான் ஹம்ப்ரி"], "explanation": "குழுவில் சார்லஸ் மாலிக் (லெபனான்), பி.சி. சாங் (சீனா), ஜான் ஹம்ப்ரி (கனடா), ரெனே காசின் (பிரான்சு) இடம்பெற்றனர்."}
+      "en": {
+        "q": "The committee that drafted the Universal Declaration of Human Rights was chaired by",
+        "options": [
+          "Rene Cassin",
+          "Charles Malik",
+          "Eleanor Roosevelt",
+          "John Humphrey"
+        ],
+        "explanation": "Members of the Commission included Charles Malik (Lebanon), P.C. Chang (China), John Humphrey (Canada) and Rene Cassin (France)."
+      },
+      "ta": {
+        "q": "உலகளாவிய மனித உரிமைப் பிரகடனத்தை வரைந்த குழுவின் தலைவர் யார்?",
+        "options": [
+          "ரெனே காசின்",
+          "சார்லஸ் மாலிக்",
+          "எலினர் ரூஸ்வெல்ட்",
+          "ஜான் ஹம்ப்ரி"
+        ],
+        "explanation": "குழுவில் சார்லஸ் மாலிக் (லெபனான்), பி.சி. சாங் (சீனா), ஜான் ஹம்ப்ரி (கனடா), ரெனே காசின் (பிரான்சு) இடம்பெற்றனர்."
+      }
     },
     {
-      "topic": "fundamental-rights-and-duties", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 34,
+      "topic": "fundamental-rights-and-duties",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 34,
       "quote": "The Universal Declaration of Human Rights set forth fundamental human rights in 30 articles. The UN adopted this historic Charter on 10 December 1948. This day (10 December) is observed globally as Human Rights Day.",
       "answer": "D",
-      "en": {"q": "The Universal Declaration of Human Rights was adopted by the UN on", "options": ["26 June 1945", "1 January 1942", "24 October 1945", "10 December 1948"], "explanation": "The Declaration has 30 articles; 10 December is observed as Human Rights Day."},
-      "ta": {"q": "உலகளாவிய மனித உரிமைப் பிரகடனத்தை ஐ.நா. ஏற்றுக்கொண்ட நாள் எது?", "options": ["26 ஜூன் 1945", "1 ஜனவரி 1942", "24 அக்டோபர் 1945", "10 டிசம்பர் 1948"], "explanation": "பிரகடனத்தில் 30 பிரிவுகள் உள்ளன; டிசம்பர் 10 மனித உரிமைகள் நாளாகக் கடைப்பிடிக்கப்படுகிறது."}
+      "en": {
+        "q": "The Universal Declaration of Human Rights was adopted by the UN on",
+        "options": [
+          "26 June 1945",
+          "1 January 1942",
+          "24 October 1945",
+          "10 December 1948"
+        ],
+        "explanation": "The Declaration has 30 articles; 10 December is observed as Human Rights Day."
+      },
+      "ta": {
+        "q": "உலகளாவிய மனித உரிமைப் பிரகடனத்தை ஐ.நா. ஏற்றுக்கொண்ட நாள் எது?",
+        "options": [
+          "26 ஜூன் 1945",
+          "1 ஜனவரி 1942",
+          "24 அக்டோபர் 1945",
+          "10 டிசம்பர் 1948"
+        ],
+        "explanation": "பிரகடனத்தில் 30 பிரிவுகள் உள்ளன; டிசம்பர் 10 மனித உரிமைகள் நாளாகக் கடைப்பிடிக்கப்படுகிறது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 34,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 34,
       "quote": "The first initiative for the United Nations came from the United States and Britain in 1941 when they issued a joint declaration known as the Atlantic Charter.",
       "answer": "A",
-      "en": {"q": "The Atlantic Charter of 1941, the first initiative for the United Nations, was a joint declaration of", "options": ["the United States and Britain", "Britain and France", "the United States and Russia", "Britain and Russia"], "explanation": "The Declaration of the United Nations was accepted by the 26 countries fighting the Axis powers on New Year's Day 1942."},
-      "ta": {"q": "ஐக்கிய நாடுகள் சபைக்கான முதல் முயற்சியான 1941 அட்லாண்டிக் சாசனம் எந்த நாடுகளின் கூட்டுப் பிரகடனம்?", "options": ["அமெரிக்கா – பிரிட்டன்", "பிரிட்டன் – பிரான்சு", "அமெரிக்கா – ரஷ்யா", "பிரிட்டன் – ரஷ்யா"], "explanation": "அச்சு நாடுகளை எதிர்த்த 26 நாடுகள் 1942 புத்தாண்டு நாளில் ஐக்கிய நாடுகள் பிரகடனத்தை ஏற்றன."}
+      "en": {
+        "q": "The Atlantic Charter of 1941, the first initiative for the United Nations, was a joint declaration of",
+        "options": [
+          "the United States and Britain",
+          "Britain and France",
+          "the United States and Russia",
+          "Britain and Russia"
+        ],
+        "explanation": "The Declaration of the United Nations was accepted by the 26 countries fighting the Axis powers on New Year's Day 1942."
+      },
+      "ta": {
+        "q": "ஐக்கிய நாடுகள் சபைக்கான முதல் முயற்சியான 1941 அட்லாண்டிக் சாசனம் எந்த நாடுகளின் கூட்டுப் பிரகடனம்?",
+        "options": [
+          "அமெரிக்கா – பிரிட்டன்",
+          "பிரிட்டன் – பிரான்சு",
+          "அமெரிக்கா – ரஷ்யா",
+          "பிரிட்டன் – ரஷ்யா"
+        ],
+        "explanation": "அச்சு நாடுகளை எதிர்த்த 26 நாடுகள் 1942 புத்தாண்டு நாளில் ஐக்கிய நாடுகள் பிரகடனத்தை ஏற்றன."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 34,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 34,
       "quote": "The Charter of the United Nations was signed on June 26, 1945 by 51 nations. India which was not an independent country then also was a signatory to the Charter.",
       "answer": "B",
-      "en": {"q": "The United Nations, whose Charter was signed at San Francisco on June 26, 1945, had how many original member states?", "options": ["26 nations", "51 nations", "193 nations", "29 nations"], "explanation": "Fifty countries signed the Charter on 26 June 1945 and Poland signed later, making 51 original members. India, though not yet independent, was a signatory; the UN now has 193 member states with one vote each."},
-      "ta": {"q": "1945 ஜூன் 26இல் சான் பிரான்சிஸ்கோவில் சாசனம் கையெழுத்தான ஐக்கிய நாடுகள் அவையின் தொடக்க உறுப்பு நாடுகள் எத்தனை?", "options": ["26 நாடுகள்", "51 நாடுகள்", "193 நாடுகள்", "29 நாடுகள்"], "explanation": "1945 ஜூன் 26இல் 50 நாடுகள் சாசனத்தில் கையெழுத்திட்டன; போலந்து பின்னர் கையெழுத்திட்டதால் தொடக்க உறுப்பு நாடுகள் 51. அப்போது சுதந்திரம் பெறாத இந்தியாவும் கையெழுத்திட்டது; தற்போது ஐ.நா.வில் 193 உறுப்பு நாடுகள், ஒவ்வொன்றுக்கும் ஒரு வாக்கு."}
+      "en": {
+        "q": "The United Nations, whose Charter was signed at San Francisco on June 26, 1945, had how many original member states?",
+        "options": [
+          "26 nations",
+          "51 nations",
+          "193 nations",
+          "29 nations"
+        ],
+        "explanation": "Fifty countries signed the Charter on 26 June 1945 and Poland signed later, making 51 original members. India, though not yet independent, was a signatory; the UN now has 193 member states with one vote each."
+      },
+      "ta": {
+        "q": "1945 ஜூன் 26இல் சான் பிரான்சிஸ்கோவில் சாசனம் கையெழுத்தான ஐக்கிய நாடுகள் அவையின் தொடக்க உறுப்பு நாடுகள் எத்தனை?",
+        "options": [
+          "26 நாடுகள்",
+          "51 நாடுகள்",
+          "193 நாடுகள்",
+          "29 நாடுகள்"
+        ],
+        "explanation": "1945 ஜூன் 26இல் 50 நாடுகள் சாசனத்தில் கையெழுத்திட்டன; போலந்து பின்னர் கையெழுத்திட்டதால் தொடக்க உறுப்பு நாடுகள் 51. அப்போது சுதந்திரம் பெறாத இந்தியாவும் கையெழுத்திட்டது; தற்போது ஐ.நா.வில் 193 உறுப்பு நாடுகள், ஒவ்வொன்றுக்கும் ஒரு வாக்கு."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 35,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 35,
       "quote": "The Security Council has fifteen members. Five countries - the United States, Britain, France, Russia and China - are permanent members, and there are ten temporary members who are elected in rotation.",
       "answer": "C",
-      "en": {"q": "The UN Security Council consists of how many members?", "options": ["Five", "Ten", "Fifteen", "Twenty"], "explanation": "Five permanent members (US, Britain, France, Russia, China) with veto power and ten temporary members elected in rotation."},
-      "ta": {"q": "ஐ.நா. பாதுகாப்புச் சபையில் எத்தனை உறுப்பினர்கள்?", "options": ["ஐந்து", "பத்து", "பதினைந்து", "இருபது"], "explanation": "வீட்டோ (மறுப்பு) அதிகாரமுள்ள ஐந்து நிரந்தர உறுப்பினர்கள் (அமெரிக்கா, பிரிட்டன், பிரான்சு, ரஷ்யா, சீனா) மற்றும் சுழற்சி முறையில் தேர்ந்தெடுக்கப்படும் பத்து தற்காலிக உறுப்பினர்கள்."}
+      "en": {
+        "q": "The UN Security Council consists of how many members?",
+        "options": [
+          "Five",
+          "Twelve",
+          "Fifteen",
+          "Twenty"
+        ],
+        "explanation": "Five permanent members (US, Britain, France, Russia, China) with veto power and ten temporary members elected in rotation."
+      },
+      "ta": {
+        "q": "ஐ.நா. பாதுகாப்புச் சபையில் எத்தனை உறுப்பினர்கள்?",
+        "options": [
+          "ஐந்து",
+          "பன்னிரண்டு",
+          "பதினைந்து",
+          "இருபது"
+        ],
+        "explanation": "வீட்டோ (மறுப்பு) அதிகாரமுள்ள ஐந்து நிரந்தர உறுப்பினர்கள் (அமெரிக்கா, பிரிட்டன், பிரான்சு, ரஷ்யா, சீனா) மற்றும் சுழற்சி முறையில் தேர்ந்தெடுக்கப்படும் பத்து தற்காலிக உறுப்பினர்கள்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 35,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 35,
       "quote": "The International Court of Justice, headquartered at The Hague in Holland, is the judicial wing of the United Nations.",
       "answer": "D",
-      "en": {"q": "The International Court of Justice, the judicial wing of the UN, is headquartered at", "options": ["New York", "Geneva", "Washington D.C.", "The Hague"], "explanation": "The UN Secretariat headed by the Secretary General is the executive wing; the Secretary General is elected by the General Assembly on the Security Council's recommendation."},
-      "ta": {"q": "ஐ.நா.வின் நீதித்துறைப் பிரிவான பன்னாட்டு நீதிமன்றத்தின் தலைமையிடம் எங்கு உள்ளது?", "options": ["நியூயார்க்", "ஜெனீவா", "வாஷிங்டன் டி.சி.", "ஹேக்"], "explanation": "பொதுச்செயலாளர் தலைமையிலான செயலகம் நிர்வாகப் பிரிவு; பாதுகாப்புச் சபையின் பரிந்துரையில் பொதுச்சபை பொதுச்செயலாளரைத் தேர்ந்தெடுக்கிறது."}
+      "en": {
+        "q": "The International Court of Justice, the judicial wing of the UN, is headquartered at",
+        "options": [
+          "New York",
+          "Geneva",
+          "Washington D.C.",
+          "The Hague"
+        ],
+        "explanation": "The UN Secretariat headed by the Secretary General is the executive wing; the Secretary General is elected by the General Assembly on the Security Council's recommendation."
+      },
+      "ta": {
+        "q": "ஐ.நா.வின் நீதித்துறைப் பிரிவான பன்னாட்டு நீதிமன்றத்தின் தலைமையிடம் எங்கு உள்ளது?",
+        "options": [
+          "நியூயார்க்",
+          "ஜெனீவா",
+          "வாஷிங்டன் டி.சி.",
+          "ஹேக்"
+        ],
+        "explanation": "பொதுச்செயலாளர் தலைமையிலான செயலகம் நிர்வாகப் பிரிவு; பாதுகாப்புச் சபையின் பரிந்துரையில் பொதுச்சபை பொதுச்செயலாளரைத் தேர்ந்தெடுக்கிறது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 35,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 35,
       "quote": "The Economic and Social Council (ECOSOC), the fifth organ of the United Nations, is responsible for coordinating all the economic and social work of the United Nations.",
       "answer": "A",
-      "en": {"q": "Which organ of the United Nations coordinates all its economic and social work?", "options": ["ECOSOC", "UNESCO", "UNDP", "Security Council"], "explanation": "The regional Economic Commissions, headed by eminent economists like Gunnar Myrdal, are organs of ECOSOC."},
-      "ta": {"q": "ஐ.நா.வின் பொருளாதார, சமூகப் பணிகள் அனைத்தையும் ஒருங்கிணைக்கும் அமைப்பு எது?", "options": ["பொருளாதார மற்றும் சமூக மன்றம் (ECOSOC)", "யுனெஸ்கோ", "UNDP", "பாதுகாப்புச் சபை"], "explanation": "குன்னார் மிர்டால் போன்ற பொருளாதார அறிஞர்கள் தலைமை வகித்த பிராந்தியப் பொருளாதார ஆணையங்கள் ECOSOCஇன் உறுப்புகள்."}
+      "en": {
+        "q": "Which organ of the United Nations coordinates all its economic and social work?",
+        "options": [
+          "ECOSOC",
+          "UNESCO",
+          "UNDP",
+          "Security Council"
+        ],
+        "explanation": "The regional Economic Commissions, headed by eminent economists like Gunnar Myrdal, are organs of ECOSOC."
+      },
+      "ta": {
+        "q": "ஐ.நா.வின் பொருளாதார, சமூகப் பணிகள் அனைத்தையும் ஒருங்கிணைக்கும் அமைப்பு எது?",
+        "options": [
+          "பொருளாதார மற்றும் சமூக மன்றம்",
+          "யுனெஸ்கோ அமைப்பு",
+          "ஐ.நா. வளர்ச்சித் திட்டம்",
+          "ஐ.நா. பாதுகாப்புச் சபை"
+        ],
+        "explanation": "குன்னார் மிர்டால் போன்ற பொருளாதார அறிஞர்கள் தலைமை வகித்த பிராந்தியப் பொருளாதார ஆணையங்கள் ECOSOCஇன் உறுப்புகள்."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 35,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 35,
       "quote": "The World Bank and the International Monetary Fund, referred to as the \"Bretton Woods Twins\", were both established in 1945 after the Bretton Woods Conference in 1944.",
       "answer": "B",
-      "en": {"q": "The 'Bretton Woods Twins' are", "options": ["UNICEF and UNDP", "World Bank and IMF", "IBRD and IDA", "FAO and WHO"], "explanation": "Both were established in 1945 after the Bretton Woods Conference of 1944 and are located in Washington D.C. with the same membership."},
-      "ta": {"q": "'பிரெட்டன் வுட்ஸ் இரட்டையர்கள்' என அழைக்கப்படுபவை எவை?", "options": ["UNICEF, UNDP", "உலக வங்கி, பன்னாட்டு நிதியம்", "IBRD, IDA", "FAO, WHO"], "explanation": "1944 பிரெட்டன் வுட்ஸ் மாநாட்டுக்குப் பின் 1945இல் நிறுவப்பட்ட இவை வாஷிங்டன் டி.சி.யில் அமைந்துள்ளன; உறுப்பினர்கள் ஒன்றே."}
+      "en": {
+        "q": "The 'Bretton Woods Twins' are",
+        "options": [
+          "UNICEF and UNDP",
+          "World Bank and IMF",
+          "IBRD and IDA",
+          "FAO and WHO"
+        ],
+        "explanation": "Both were established in 1945 after the Bretton Woods Conference of 1944 and are located in Washington D.C. with the same membership."
+      },
+      "ta": {
+        "q": "'பிரெட்டன் வுட்ஸ் இரட்டையர்கள்' என அழைக்கப்படுபவை எவை?",
+        "options": [
+          "யுனிசெஃப், ஐ.நா. வளர்ச்சித் திட்டம்",
+          "உலக வங்கி, பன்னாட்டு நிதியம்",
+          "IBRD, சர்வதேச வளர்ச்சிச் சங்கம்",
+          "FAO, உலக சுகாதார அமைப்பு"
+        ],
+        "explanation": "1944 பிரெட்டன் வுட்ஸ் மாநாட்டுக்குப் பின் 1945இல் நிறுவப்பட்ட இவை வாஷிங்டன் டி.சி.யில் அமைந்துள்ளன; உறுப்பினர்கள் ஒன்றே."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 36,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 36,
       "quote": "The International Development Agency (IDA) also lends money to governments for developmental activities. These loans are \"soft\" loans, and are given at very low rates of interest for a period of 50 years.",
       "answer": "C",
-      "en": {"q": "According to the textbook, the 'soft' loans of the International Development Association (IDA) were given for a period of", "options": ["10 years", "25 years", "50 years", "100 years"], "explanation": "IBRD and IDA together form the World Bank. The textbook (which misnames IDA as the 'Agency') gives a 50-year term; IDA credits today usually run about 25–40 years."},
-      "ta": {"q": "பாடநூலின்படி பன்னாட்டு மேம்பாட்டுச் சங்கத்தின் (IDA) 'மென்மையான' கடன்கள் எத்தனை ஆண்டுகளுக்கு வழங்கப்பட்டன?", "options": ["10 ஆண்டுகள்", "25 ஆண்டுகள்", "50 ஆண்டுகள்", "100 ஆண்டுகள்"], "explanation": "IBRDயும் IDAவும் இணைந்து உலக வங்கி. பாடநூல் 50 ஆண்டுக் காலம் என்கிறது; இன்று IDA கடன்கள் பொதுவாக 25–40 ஆண்டுகளுக்கு வழங்கப்படுகின்றன."}
+      "en": {
+        "q": "According to the textbook, the 'soft' loans of the International Development Association (IDA) were given for a period of",
+        "options": [
+          "10 years",
+          "25 years",
+          "50 years",
+          "100 years"
+        ],
+        "explanation": "IBRD and IDA together form the World Bank. The textbook (which misnames IDA as the 'Agency') gives a 50-year term; IDA credits today usually run about 25–40 years."
+      },
+      "ta": {
+        "q": "பாடநூலின்படி பன்னாட்டு மேம்பாட்டுச் சங்கத்தின் (IDA) 'மென்மையான' கடன்கள் எத்தனை ஆண்டுகளுக்கு வழங்கப்பட்டன?",
+        "options": [
+          "10 ஆண்டுகள்",
+          "25 ஆண்டுகள்",
+          "50 ஆண்டுகள்",
+          "100 ஆண்டுகள்"
+        ],
+        "explanation": "IBRDயும் IDAவும் இணைந்து உலக வங்கி. பாடநூல் 50 ஆண்டுக் காலம் என்கிறது; இன்று IDA கடன்கள் பொதுவாக 25–40 ஆண்டுகளுக்கு வழங்கப்படுகின்றன."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 36,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 36,
       "quote": "The International Monetary Fund was primarily the brainchild of Harry Dexter White and John Maynard Keynes, the famous economist.",
       "answer": "D",
-      "en": {"q": "The International Monetary Fund was primarily the brainchild of", "options": ["Gunnar Myrdal and Keynes", "Marshall and Truman", "Adam Smith and Ricardo", "Harry Dexter White and John Maynard Keynes"], "explanation": "The IMF lends to countries facing balance of payments problems but imposes stringent conditions on the borrowers."},
-      "ta": {"q": "பன்னாட்டு நிதியம் (IMF) முதன்மையாக யாருடைய சிந்தனையில் உருவானது?", "options": ["குன்னார் மிர்டால், கீன்ஸ்", "மார்ஷல், ட்ரூமன்", "ஆடம் ஸ்மித், ரிக்கார்டோ", "ஹாரி டெக்ஸ்டர் ஒயிட், ஜான் மேனார்ட் கீன்ஸ்"], "explanation": "செலுத்து நிலைச் சிக்கல் உள்ள நாடுகளுக்கு IMF கடன் அளிக்கிறது; ஆனால் கடன் பெறும் நாடுகளுக்குக் கடும் நிபந்தனைகளை விதிக்கிறது."}
+      "en": {
+        "q": "The International Monetary Fund was primarily the brainchild of",
+        "options": [
+          "Gunnar Myrdal and Joseph Schumpeter",
+          "George Marshall and Harry Truman",
+          "Adam Smith and David Ricardo",
+          "Harry Dexter White and John Maynard Keynes"
+        ],
+        "explanation": "The IMF lends to countries facing balance of payments problems but imposes stringent conditions on the borrowers."
+      },
+      "ta": {
+        "q": "பன்னாட்டு நிதியம் (IMF) முதன்மையாக யாருடைய சிந்தனையில் உருவானது?",
+        "options": [
+          "குன்னார் மிர்டால், ஜோசப் ஷும்பீட்டர்",
+          "ஜார்ஜ் மார்ஷல், ஹாரி ட்ரூமன்",
+          "ஆடம் ஸ்மித், டேவிட் ரிக்கார்டோ",
+          "ஹாரி டெக்ஸ்டர் ஒயிட், ஜான் மேனார்ட் கீன்ஸ்"
+        ],
+        "explanation": "செலுத்து நிலைச் சிக்கல் உள்ள நாடுகளுக்கு IMF கடன் அளிக்கிறது; ஆனால் கடன் பெறும் நாடுகளுக்குக் கடும் நிபந்தனைகளை விதிக்கிறது."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 36,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 36,
       "quote": "It was formally organized in 1945 with 29 member countries. It now has a membership of 189 countries.",
       "answer": "A",
-      "en": {"q": "The IMF was formally organised in 1945 with how many member countries?", "options": ["29", "51", "26", "189"], "explanation": "Twenty-nine countries signed the IMF's Articles in December 1945. The book says it now has 189 members; with Liechtenstein (2024) the IMF has 191."},
-      "ta": {"q": "1945இல் பன்னாட்டு நிதியம் (IMF) எத்தனை உறுப்பு நாடுகளுடன் முறைப்படி அமைக்கப்பட்டது?", "options": ["29", "51", "26", "189"], "explanation": "1945 டிசம்பரில் 29 நாடுகள் IMF உடன்படிக்கையில் கையெழுத்திட்டன. நூல் தற்போது 189 உறுப்பு நாடுகள் என்கிறது; லிக்டன்ஸ்டைன் (2024) சேர்ந்த பின் IMFஇல் 191 நாடுகள் உள்ளன."}
+      "en": {
+        "q": "The IMF was formally organised in 1945 with how many member countries?",
+        "options": [
+          "29",
+          "51",
+          "26",
+          "189"
+        ],
+        "explanation": "Twenty-nine countries signed the IMF's Articles in December 1945. The book says it now has 189 members; with Liechtenstein (2024) the IMF has 191."
+      },
+      "ta": {
+        "q": "1945இல் பன்னாட்டு நிதியம் (IMF) எத்தனை உறுப்பு நாடுகளுடன் முறைப்படி அமைக்கப்பட்டது?",
+        "options": [
+          "29",
+          "51",
+          "26",
+          "189"
+        ],
+        "explanation": "1945 டிசம்பரில் 29 நாடுகள் IMF உடன்படிக்கையில் கையெழுத்திட்டன. நூல் தற்போது 189 உறுப்பு நாடுகள் என்கிறது; லிக்டன்ஸ்டைன் (2024) சேர்ந்த பின் IMFஇல் 191 நாடுகள் உள்ளன."
+      }
     },
     {
-      "topic": "world-history", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 36,
+      "topic": "world-history",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 36,
       "quote": "In 1942, the Report commonly known as the Beveridge Report was published in the United Kingdom which proposed a series of measures which the government should adopt to provide citizens with adequate income, health care, education, housing and employment.",
       "answer": "B",
-      "en": {"q": "The Beveridge Report, which laid the basis of the Welfare State in Britain, was published in", "options": ["1939", "1942", "1945", "1948"], "explanation": "After the War the Labour Party promised to look after the people 'from the cradle to the grave' through the National Health Service and other benefits."},
-      "ta": {"q": "பிரிட்டனில் நலன்புரி அரசுக்கு அடிப்படையாக அமைந்த பெவரிட்ஜ் அறிக்கை வெளியான ஆண்டு எது?", "options": ["1939", "1942", "1945", "1948"], "explanation": "போருக்குப் பின் தொழிற்கட்சி தேசிய சுகாதாரச் சேவை உள்ளிட்டவற்றால் மக்களை 'தொட்டில் முதல் கல்லறை வரை' பேணுவதாக உறுதியளித்தது."}
+      "en": {
+        "q": "The Beveridge Report, which laid the basis of the Welfare State in Britain, was published in",
+        "options": [
+          "1939",
+          "1942",
+          "1945",
+          "1948"
+        ],
+        "explanation": "After the War the Labour Party promised to look after the people 'from the cradle to the grave' through the National Health Service and other benefits."
+      },
+      "ta": {
+        "q": "பிரிட்டனில் நலன்புரி அரசுக்கு அடிப்படையாக அமைந்த பெவரிட்ஜ் அறிக்கை வெளியான ஆண்டு எது?",
+        "options": [
+          "1939",
+          "1942",
+          "1945",
+          "1948"
+        ],
+        "explanation": "போருக்குப் பின் தொழிற்கட்சி தேசிய சுகாதாரச் சேவை உள்ளிட்டவற்றால் மக்களை 'தொட்டில் முதல் கல்லறை வரை' பேணுவதாக உறுதியளித்தது."
+      }
     }
   ]
 }

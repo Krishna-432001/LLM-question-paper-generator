@@ -170,7 +170,7 @@
         "q": "பின்வரும் இரும்பு வகைகளில் மிகக் குறைந்த கார்பன் உடையது எது?",
         "options": [
           "பன்றி இரும்பு",
-          "தேனிரும்பு (செய்பொருள் இரும்பு)",
+          "தேனிரும்பு",
           "வார்ப்பிரும்பு",
           "எஃகு"
         ],
@@ -188,9 +188,9 @@
       "en": {
         "q": "Rust, formed when iron is exposed to moist air, is chemically",
         "options": [
-          "ferric chloride",
-          "magnetic oxide (Fe₃O₄)",
-          "ferrous sulphate",
+          "ferric chloride hexahydrate (FeCl₃·6H₂O)",
+          "black magnetic oxide of iron (Fe₃O₄)",
+          "ferrous sulphate heptahydrate (FeSO₄·7H₂O)",
           "hydrated ferric oxide (Fe₂O₃·xH₂O)"
         ],
         "explanation": "Rust is hydrated ferric oxide, Fe₂O₃·xH₂O, a reddish-brown scale formed on iron by air and moisture."
@@ -198,9 +198,9 @@
       "ta": {
         "q": "ஈரக்காற்றில் இரும்பு வெளிப்படும்போது உருவாகும் துரு வேதியியல்படி",
         "options": [
-          "ஃபெர்ரிக் குளோரைடு",
-          "காந்த ஆக்சைடு (Fe₃O₄)",
-          "ஃபெர்ரஸ் சல்பேட்",
+          "ஃபெர்ரிக் குளோரைடு அறுநீரேற்று (FeCl₃·6H₂O)",
+          "இரும்பின் கருப்புக் காந்த ஆக்சைடு (Fe₃O₄)",
+          "ஃபெர்ரஸ் சல்பேட் ஏழுநீரேற்று (FeSO₄·7H₂O)",
           "நீரேற்றம் பெற்ற ஃபெர்ரிக் ஆக்சைடு (Fe₂O₃·xH₂O)"
         ],
         "explanation": "துரு என்பது நீரேற்றம் பெற்ற ஃபெர்ரிக் ஆக்சைடு (Fe₂O₃·xH₂O); காற்றும் ஈரமும் இரும்பின் மீது உருவாக்கும் செம்பழுப்புப் படலம்."
