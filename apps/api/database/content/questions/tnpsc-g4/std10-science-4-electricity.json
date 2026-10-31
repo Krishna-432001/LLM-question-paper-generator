@@ -4,347 +4,1425 @@
   "breadcrumb": "Std 10 Science (English) — Unit 4: Electricity",
   "questions": [
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 42,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 42,
       "quote": "Electric current is often termed as 'current' and it is represented by the symbol 'I'. It is defined as the rate of flow of charges in a conductor.",
       "answer": "A",
-      "en": {"q": "Electric current is defined as", "options": ["the rate of flow of charges in a conductor", "the rate of change of energy", "the rate of change of power", "the product of charge and time"], "explanation": "I = Q / t."},
-      "ta": {"q": "மின்னோட்டம் என்பதன் வரையறை என்ன?", "options": ["கடத்தியில் மின்னூட்டங்கள் பாயும் வீதம்", "ஆற்றல் மாறும் வீதம்", "திறன் மாறும் வீதம்", "மின்னூட்டம், காலத்தின் பெருக்கற்பலன்"], "explanation": "I = Q / t."}
+      "en": {
+        "q": "Electric current is defined as",
+        "options": [
+          "the rate of flow of charges in a conductor",
+          "the rate of change of energy",
+          "the rate of change of power",
+          "the product of charge and time"
+        ],
+        "explanation": "I = Q / t."
+      },
+      "ta": {
+        "q": "மின்னோட்டம் என்பதன் வரையறை என்ன?",
+        "options": [
+          "கடத்தியில் மின்னூட்டங்கள் பாயும் வீதம்",
+          "ஆற்றல் மாறும் வீதம்",
+          "திறன் மாறும் வீதம்",
+          "மின்னூட்டம், காலத்தின் பெருக்கற்பலன்"
+        ],
+        "explanation": "I = Q / t."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 43,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 43,
       "quote": "The SI unit of electric current is ampere (A). The current flowing through a conductor is said to be one ampere, when a charge of one coulomb flows across any cross-section of a conductor, in one second.",
       "answer": "B",
-      "en": {"q": "One ampere is the current when", "options": ["one joule of work is done per second", "one coulomb of charge flows through a cross-section in one second", "one volt is applied across one ohm for one hour", "one watt of power is used"], "explanation": "1 A = 1 C / 1 s."},
-      "ta": {"q": "ஒரு ஆம்பியர் மின்னோட்டம் எப்போது பாயும்?", "options": ["வினாடிக்கு ஒரு ஜூல் வேலை செய்யப்படும்போது", "ஒரு வினாடியில் ஒரு கூலூம் மின்னூட்டம் குறுக்குவெட்டைக் கடக்கும்போது", "ஒரு மணி நேரம் ஒரு ஓமில் ஒரு வோல்ட் அளிக்கும்போது", "ஒரு வாட் திறன் பயன்படும்போது"], "explanation": "1 A = 1 C / 1 s."}
+      "en": {
+        "q": "One ampere is the current when",
+        "options": [
+          "one joule of work is done per second",
+          "one coulomb of charge flows through a cross-section in one second",
+          "one volt is applied across one ohm for one hour",
+          "one watt of power is used"
+        ],
+        "explanation": "1 A = 1 C / 1 s."
+      },
+      "ta": {
+        "q": "ஒரு ஆம்பியர் மின்னோட்டம் எப்போது பாயும்?",
+        "options": [
+          "வினாடிக்கு ஒரு ஜூல் வேலை செய்யப்படும்போது",
+          "ஒரு வினாடியில் ஒரு கூலூம் மின்னூட்டம் குறுக்குவெட்டைக் கடக்கும்போது",
+          "ஒரு மணி நேரம் ஒரு ஓமில் ஒரு வோல்ட் அளிக்கும்போது",
+          "ஒரு வாட் திறன் பயன்படும்போது"
+        ],
+        "explanation": "1 A = 1 C / 1 s."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 43,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 43,
       "quote": "A charge of 12 coulomb flows through a bulb in 5 second. What is the current through the bulb? ... current I = 12/5 = 2.4 A",
       "answer": "C",
-      "en": {"q": "A charge of 12 C flows through a bulb in 5 s. The current through the bulb is", "options": ["60 A", "0.42 A", "2.4 A", "7 A"], "explanation": "I = Q / t = 12 / 5 = 2.4 A."},
-      "ta": {"q": "ஒரு மின்விளக்கின் வழியே 5 வினாடியில் 12 C மின்னூட்டம் பாய்கிறது. மின்னோட்டம் என்ன?", "options": ["60 A", "0.42 A", "2.4 A", "7 A"], "explanation": "I = Q / t = 12 / 5 = 2.4 A."}
+      "en": {
+        "q": "A charge of 12 C flows through a bulb in 5 s. The current through the bulb is",
+        "options": [
+          "60 A",
+          "0.42 A",
+          "2.4 A",
+          "7 A"
+        ],
+        "explanation": "I = Q / t = 12 / 5 = 2.4 A."
+      },
+      "ta": {
+        "q": "ஒரு மின்விளக்கின் வழியே 5 வினாடியில் 12 C மின்னூட்டம் பாய்கிறது. மின்னோட்டம் என்ன?",
+        "options": [
+          "60 A",
+          "0.42 A",
+          "2.4 A",
+          "7 A"
+        ],
+        "explanation": "I = Q / t = 12 / 5 = 2.4 A."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 43,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 43,
       "quote": "Galvanometer Used to detect the current and its direction.",
       "answer": "D",
-      "en": {"q": "Which instrument is used to detect an electric current and its direction?", "options": ["Voltmeter", "Rheostat", "Ammeter", "Galvanometer"], "explanation": "An ammeter measures current and a voltmeter measures potential difference."},
-      "ta": {"q": "மின்னோட்டத்தையும் அதன் திசையையும் கண்டறியும் கருவி எது?", "options": ["வோல்ட்மீட்டர்", "மின்தடை மாற்றி", "அம்மீட்டர்", "கால்வனோமீட்டர்"], "explanation": "அம்மீட்டர் மின்னோட்டத்தையும் வோல்ட்மீட்டர் மின்னழுத்த வேறுபாட்டையும் அளக்கும்."}
+      "en": {
+        "q": "Which instrument is used to detect an electric current and its direction?",
+        "options": [
+          "Voltmeter",
+          "Rheostat",
+          "Ammeter",
+          "Galvanometer"
+        ],
+        "explanation": "An ammeter measures current and a voltmeter measures potential difference."
+      },
+      "ta": {
+        "q": "மின்னோட்டத்தையும் அதன் திசையையும் கண்டறியும் கருவி எது?",
+        "options": [
+          "வோல்ட்மீட்டர்",
+          "மின்தடை மாற்றி",
+          "அம்மீட்டர்",
+          "கால்வனோமீட்டர்"
+        ],
+        "explanation": "அம்மீட்டர் மின்னோட்டத்தையும் வோல்ட்மீட்டர் மின்னழுத்த வேறுபாட்டையும் அளக்கும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 43,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 43,
       "quote": "Variable resistor or Rheostat Used to select the magnitude of the current through a circuit.",
       "answer": "A",
-      "en": {"q": "A rheostat (variable resistor) is used to", "options": ["select the magnitude of current in a circuit", "measure potential difference", "detect the direction of current", "store charge"], "explanation": "A fixed resistor fixes the magnitude of current."},
-      "ta": {"q": "மின்தடை மாற்றி (ரியோஸ்டாட்) எதற்குப் பயன்படுகிறது?", "options": ["சுற்றில் மின்னோட்ட அளவைத் தேர்ந்தெடுக்க", "மின்னழுத்த வேறுபாட்டை அளக்க", "மின்னோட்டத் திசையைக் கண்டறிய", "மின்னூட்டத்தைச் சேமிக்க"], "explanation": "நிலையான மின்தடை மின்னோட்ட அளவை நிலைப்படுத்தும்."}
+      "en": {
+        "q": "A rheostat (variable resistor) is used to",
+        "options": [
+          "select the magnitude of current in a circuit",
+          "measure potential difference in a circuit",
+          "detect the direction of current in a wire",
+          "store electric charge in a circuit"
+        ],
+        "explanation": "A fixed resistor fixes the magnitude of current."
+      },
+      "ta": {
+        "q": "மின்தடை மாற்றி (ரியோஸ்டாட்) எதற்குப் பயன்படுகிறது?",
+        "options": [
+          "சுற்றில் மின்னோட்ட அளவைத் தேர்ந்தெடுக்க",
+          "சுற்றில் மின்னழுத்த வேறுபாட்டை அளக்க",
+          "கம்பியில் மின்னோட்டத் திசையைக் கண்டறிய",
+          "சுற்றில் மின்னூட்டத்தைச் சேமிக்க"
+        ],
+        "explanation": "நிலையான மின்தடை மின்னோட்ட அளவை நிலைப்படுத்தும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 44,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 44,
       "quote": "By convention, the direction of current is taken as the direction of flow of positive charge (or) opposite to the direction of flow of electrons.",
       "answer": "B",
-      "en": {"q": "By convention, the direction of electric current is taken as", "options": ["the direction of flow of electrons", "opposite to the direction of flow of electrons", "from negative to positive terminal in the circuit", "perpendicular to the wire"], "explanation": "Conventional current flows from the positive to the negative terminal in the external circuit."},
-      "ta": {"q": "மரபுப்படி மின்னோட்டத்தின் திசை எவ்வாறு கொள்ளப்படுகிறது?", "options": ["எலக்ட்ரான்கள் பாயும் திசை", "எலக்ட்ரான்கள் பாயும் திசைக்கு எதிர்த் திசை", "சுற்றில் எதிர் முனையிலிருந்து நேர் முனைக்கு", "கம்பிக்குச் செங்குத்தாக"], "explanation": "மரபு மின்னோட்டம் புறச்சுற்றில் நேர் முனையிலிருந்து எதிர் முனைக்குப் பாயும்."}
+      "en": {
+        "q": "By convention, the direction of electric current is taken as",
+        "options": [
+          "the direction of flow of electrons",
+          "opposite to the direction of flow of electrons",
+          "from negative to positive terminal in the circuit",
+          "perpendicular to the wire"
+        ],
+        "explanation": "Conventional current flows from the positive to the negative terminal in the external circuit."
+      },
+      "ta": {
+        "q": "மரபுப்படி மின்னோட்டத்தின் திசை எவ்வாறு கொள்ளப்படுகிறது?",
+        "options": [
+          "எலக்ட்ரான்கள் பாயும் திசை",
+          "எலக்ட்ரான்கள் பாயும் திசைக்கு எதிர்த் திசை",
+          "சுற்றில் எதிர் முனையிலிருந்து நேர் முனைக்கு",
+          "கம்பிக்குச் செங்குத்தாக"
+        ],
+        "explanation": "மரபு மின்னோட்டம் புறச்சுற்றில் நேர் முனையிலிருந்து எதிர் முனைக்குப் பாயும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 44,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 44,
       "quote": "The electric potential at a point is defined as the amount of work done in moving a unit positive charge from infinity to that point against the electric force.",
       "answer": "C",
-      "en": {"q": "Electric potential at a point is the work done in moving a unit positive charge", "options": ["between any two points", "around a closed circuit", "from infinity to that point against the electric force", "from that point to the battery"], "explanation": "Potential difference is work done per unit charge between two points."},
-      "ta": {"q": "ஒரு புள்ளியில் மின்னழுத்தம் என்பது ஓரலகு நேர் மின்னூட்டத்தை எவ்வாறு நகர்த்தச் செய்யப்படும் வேலை?", "options": ["ஏதேனும் இரு புள்ளிகளுக்கு இடையே", "மூடிய சுற்றைச் சுற்றி", "முடிவிலியிலிருந்து அப்புள்ளிக்கு மின்விசைக்கு எதிராக", "அப்புள்ளியிலிருந்து மின்கலத்திற்கு"], "explanation": "இரு புள்ளிகளுக்கிடையே ஓரலகு மின்னூட்டத்திற்கான வேலை மின்னழுத்த வேறுபாடு."}
+      "en": {
+        "q": "Electric potential at a point is the work done in moving a unit positive charge",
+        "options": [
+          "between any two points in the field",
+          "around a closed loop of a circuit",
+          "from infinity to that point against the field",
+          "from that point to the battery terminal"
+        ],
+        "explanation": "Potential difference is work done per unit charge between two points."
+      },
+      "ta": {
+        "q": "ஒரு புள்ளியில் மின்னழுத்தம் என்பது ஓரலகு நேர் மின்னூட்டத்தை எவ்வாறு நகர்த்தச் செய்யப்படும் வேலை?",
+        "options": [
+          "புலத்திலுள்ள ஏதேனும் இரு புள்ளிகளுக்கு இடையே",
+          "சுற்றின் மூடிய வளையத்தைச் சுற்றி",
+          "முடிவிலியிலிருந்து அப்புள்ளிக்கு மின்புலத்திற்கு எதிராக",
+          "அப்புள்ளியிலிருந்து மின்கல முனைக்கு"
+        ],
+        "explanation": "இரு புள்ளிகளுக்கிடையே ஓரலகு மின்னூட்டத்திற்கான வேலை மின்னழுத்த வேறுபாடு."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 45,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 45,
       "quote": "The work done in moving a charge of 10 C across two points in a circuit is 100 J. What is the potential difference between the points? ... V = 10 volt",
       "answer": "D",
-      "en": {"q": "100 J of work is done in moving a charge of 10 C between two points. The potential difference between them is", "options": ["1000 V", "0.1 V", "110 V", "10 V"], "explanation": "V = W / Q = 100 / 10 = 10 V."},
-      "ta": {"q": "இரு புள்ளிகளுக்கிடையே 10 C மின்னூட்டத்தை நகர்த்த 100 J வேலை செய்யப்படுகிறது. மின்னழுத்த வேறுபாடு என்ன?", "options": ["1000 V", "0.1 V", "110 V", "10 V"], "explanation": "V = W / Q = 100 / 10 = 10 V."}
+      "en": {
+        "q": "100 J of work is done in moving a charge of 10 C between two points. The potential difference between them is",
+        "options": [
+          "1000 V",
+          "0.1 V",
+          "110 V",
+          "10 V"
+        ],
+        "explanation": "V = W / Q = 100 / 10 = 10 V."
+      },
+      "ta": {
+        "q": "இரு புள்ளிகளுக்கிடையே 10 C மின்னூட்டத்தை நகர்த்த 100 J வேலை செய்யப்படுகிறது. மின்னழுத்த வேறுபாடு என்ன?",
+        "options": [
+          "1000 V",
+          "0.1 V",
+          "110 V",
+          "10 V"
+        ],
+        "explanation": "V = W / Q = 100 / 10 = 10 V."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 45,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 45,
       "quote": "A German physicist, Georg Simon Ohm established the relation between the potential difference and current, which is known as Ohm's Law.",
       "answer": "A",
-      "en": {"q": "The relation between potential difference and current was established by the German physicist", "options": ["Georg Simon Ohm", "James Prescott Joule", "Alessandro Volta", "André-Marie Ampère"], "explanation": "Ohm's law: V = IR at constant temperature."},
-      "ta": {"q": "மின்னழுத்த வேறுபாட்டிற்கும் மின்னோட்டத்திற்கும் இடையிலான தொடர்பை நிறுவிய ஜெர்மானிய இயற்பியலாளர் யார்?", "options": ["ஜார்ஜ் சைமன் ஓம்", "ஜேம்ஸ் பிரெஸ்காட் ஜூல்", "அலெசாண்ட்ரோ வோல்டா", "ஆண்ட்ரே-மேரி ஆம்பியர்"], "explanation": "ஓம் விதி: மாறா வெப்பநிலையில் V = IR."}
+      "en": {
+        "q": "The relation between potential difference and current was established by the German physicist",
+        "options": [
+          "Georg Simon Ohm",
+          "James Prescott Joule",
+          "Alessandro Volta",
+          "André-Marie Ampère"
+        ],
+        "explanation": "Ohm's law: V = IR at constant temperature."
+      },
+      "ta": {
+        "q": "மின்னழுத்த வேறுபாட்டிற்கும் மின்னோட்டத்திற்கும் இடையிலான தொடர்பை நிறுவிய ஜெர்மானிய இயற்பியலாளர் யார்?",
+        "options": [
+          "ஜார்ஜ் சைமன் ஓம்",
+          "ஜேம்ஸ் பிரெஸ்காட் ஜூல்",
+          "அலெசாண்ட்ரோ வோல்டா",
+          "ஆண்ட்ரே-மேரி ஆம்பியர்"
+        ],
+        "explanation": "ஓம் விதி: மாறா வெப்பநிலையில் V = IR."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 45,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 45,
       "quote": "According to Ohm's law, at a constant temperature, the steady current 'I' flowing through a conductor is directly proportional to the potential difference 'V' between the two ends of the conductor. ... the graph between V and I is a straight line for a conductor",
       "answer": "B",
-      "en": {"q": "According to Ohm's law, at constant temperature the graph between V and I for a conductor is", "options": ["a parabola", "a straight line", "a circle", "a hyperbola"], "explanation": "Current is directly proportional to potential difference."},
-      "ta": {"q": "ஓம் விதிப்படி மாறா வெப்பநிலையில் ஒரு கடத்திக்கான V–I வரைபடம் எவ்வாறு இருக்கும்?", "options": ["பரவளையம்", "நேர்கோடு", "வட்டம்", "அதிபரவளையம்"], "explanation": "மின்னோட்டம் மின்னழுத்த வேறுபாட்டிற்கு நேர்விகிதத்தில் இருக்கும்."}
+      "en": {
+        "q": "According to Ohm's law, at constant temperature the graph between V and I for a conductor is",
+        "options": [
+          "a parabola",
+          "a straight line",
+          "a circle",
+          "a hyperbola"
+        ],
+        "explanation": "Current is directly proportional to potential difference."
+      },
+      "ta": {
+        "q": "ஓம் விதிப்படி மாறா வெப்பநிலையில் ஒரு கடத்திக்கான V–I வரைபடம் எவ்வாறு இருக்கும்?",
+        "options": [
+          "பரவளையம்",
+          "நேர்கோடு",
+          "வட்டம்",
+          "அதிபரவளையம்"
+        ],
+        "explanation": "மின்னோட்டம் மின்னழுத்த வேறுபாட்டிற்கு நேர்விகிதத்தில் இருக்கும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 45,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 45,
       "quote": "The SI unit of resistance is ohm and it is represented by the symbol Ω.",
       "answer": "C",
-      "en": {"q": "The SI unit of resistance is", "options": ["mho", "ohm metre", "ohm", "joule"], "explanation": "Resistance opposes the flow of charges."},
-      "ta": {"q": "மின்தடையின் SI அலகு எது?", "options": ["மோ", "ஓம் மீட்டர்", "ஓம்", "ஜூல்"], "explanation": "மின்தடை மின்னூட்டங்களின் ஓட்டத்தை எதிர்க்கிறது."}
+      "en": {
+        "q": "The SI unit of resistance is",
+        "options": [
+          "mho",
+          "ohm metre",
+          "ohm",
+          "joule"
+        ],
+        "explanation": "Resistance opposes the flow of charges."
+      },
+      "ta": {
+        "q": "மின்தடையின் SI அலகு எது?",
+        "options": [
+          "மோ",
+          "ஓம் மீட்டர்",
+          "ஓம்",
+          "ஜூல்"
+        ],
+        "explanation": "மின்தடை மின்னூட்டங்களின் ஓட்டத்தை எதிர்க்கிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 46,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 46,
       "quote": "Calculate the resistance of a conductor through which a current of 2 A passes, when the potential difference between its ends is 30 V. ... R = 30/2 = 15 Ω",
       "answer": "D",
-      "en": {"q": "A current of 2 A flows through a conductor when the potential difference across it is 30 V. Its resistance is", "options": ["60 Ω", "32 Ω", "28 Ω", "15 Ω"], "explanation": "R = V / I = 30 / 2 = 15 Ω."},
-      "ta": {"q": "30 V மின்னழுத்த வேறுபாட்டில் ஒரு கடத்தியில் 2 A மின்னோட்டம் பாய்கிறது. அதன் மின்தடை என்ன?", "options": ["60 Ω", "32 Ω", "28 Ω", "15 Ω"], "explanation": "R = V / I = 30 / 2 = 15 Ω."}
+      "en": {
+        "q": "A current of 2 A flows through a conductor when the potential difference across it is 30 V. Its resistance is",
+        "options": [
+          "60 Ω",
+          "32 Ω",
+          "28 Ω",
+          "15 Ω"
+        ],
+        "explanation": "R = V / I = 30 / 2 = 15 Ω."
+      },
+      "ta": {
+        "q": "30 V மின்னழுத்த வேறுபாட்டில் ஒரு கடத்தியில் 2 A மின்னோட்டம் பாய்கிறது. அதன் மின்தடை என்ன?",
+        "options": [
+          "60 Ω",
+          "32 Ω",
+          "28 Ω",
+          "15 Ω"
+        ],
+        "explanation": "R = V / I = 30 / 2 = 15 Ω."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 46,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 46,
       "quote": "the resistance of any conductor 'R' is directly proportional to the length of the conductor 'L' and is inversely proportional to its area of cross section 'A'.",
       "answer": "A",
-      "en": {"q": "The resistance of a conductor is", "options": ["directly proportional to its length and inversely proportional to its area of cross-section", "inversely proportional to its length", "directly proportional to its area of cross-section", "independent of its length"], "explanation": "R = ρL / A."},
-      "ta": {"q": "ஒரு கடத்தியின் மின்தடை", "options": ["நீளத்திற்கு நேர்விகிதம், குறுக்குவெட்டுப் பரப்பிற்கு எதிர்விகிதம்", "நீளத்திற்கு எதிர்விகிதம்", "குறுக்குவெட்டுப் பரப்பிற்கு நேர்விகிதம்", "நீளத்தைச் சாராதது"], "explanation": "R = ρL / A."}
+      "en": {
+        "q": "The resistance of a conductor is",
+        "options": [
+          "directly proportional to its length and inversely to its cross-section area",
+          "inversely proportional to its length and directly to its area",
+          "directly proportional to both length and area of cross-section",
+          "independent of both its length and its area"
+        ],
+        "explanation": "R = ρL / A."
+      },
+      "ta": {
+        "q": "ஒரு கடத்தியின் மின்தடை",
+        "options": [
+          "நீளத்திற்கு நேர்விகிதம், பரப்பிற்கு எதிர்விகிதம்",
+          "நீளத்திற்கு எதிர்விகிதம், பரப்பிற்கு நேர்விகிதம்",
+          "நீளம், பரப்பு இரண்டிற்கும் நேர்விகிதம்",
+          "நீளம், பரப்பு இரண்டையும் சாராதது"
+        ],
+        "explanation": "R = ρL / A."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 46,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 46,
       "quote": "the electrical resistivity of a material is defined as the resistance of a conductor of unit length and unit area of cross section. Its unit is ohm metre.",
       "answer": "B",
-      "en": {"q": "The SI unit of electrical resistivity is", "options": ["ohm", "ohm metre", "mho", "mho metre⁻¹"], "explanation": "Resistivity is the resistance of a conductor of unit length and unit area."},
-      "ta": {"q": "மின்தடை எண்ணின் SI அலகு எது?", "options": ["ஓம்", "ஓம் மீட்டர்", "மோ", "மோ மீட்டர்⁻¹"], "explanation": "ஓரலகு நீளம், ஓரலகு குறுக்குவெட்டுப் பரப்புள்ள கடத்தியின் மின்தடையே மின்தடை எண்."}
+      "en": {
+        "q": "The SI unit of electrical resistivity is",
+        "options": [
+          "ohm",
+          "ohm metre",
+          "mho",
+          "mho metre⁻¹"
+        ],
+        "explanation": "Resistivity is the resistance of a conductor of unit length and unit area."
+      },
+      "ta": {
+        "q": "மின்தடை எண்ணின் SI அலகு எது?",
+        "options": [
+          "ஓம்",
+          "ஓம் மீட்டர்",
+          "மோ",
+          "மோ மீட்டர்⁻¹"
+        ],
+        "explanation": "ஓரலகு நீளம், ஓரலகு குறுக்குவெட்டுப் பரப்புள்ள கடத்தியின் மின்தடையே மின்தடை எண்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 46,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 46,
       "quote": "Nichrome is a conductor with highest resistivity equal to 1.5 × 10^-6 Ω m. Hence, it is used in making heating elements.",
       "answer": "C",
-      "en": {"q": "Nichrome is used in making heating elements because it has", "options": ["very low resistivity", "low melting point", "high resistivity", "high conductivity"], "explanation": "Its resistivity is about 1.5 × 10⁻⁶ Ω m."},
-      "ta": {"q": "நிக்ரோம் வெப்பமூட்டும் கம்பிச்சுருள்களில் பயன்படுத்தப்படுவது ஏன்?", "options": ["மிகக் குறைந்த மின்தடை எண்", "குறைந்த உருகுநிலை", "அதிக மின்தடை எண்", "அதிகக் கடத்துதிறன்"], "explanation": "இதன் மின்தடை எண் ஏறக்குறைய 1.5 × 10⁻⁶ Ω m."}
+      "en": {
+        "q": "Nichrome is used in making heating elements because it has",
+        "options": [
+          "very low resistivity",
+          "low melting point",
+          "high resistivity",
+          "high conductivity"
+        ],
+        "explanation": "Its resistivity is about 1.5 × 10⁻⁶ Ω m."
+      },
+      "ta": {
+        "q": "நிக்ரோம் வெப்பமூட்டும் கம்பிச்சுருள்களில் பயன்படுத்தப்படுவது ஏன்?",
+        "options": [
+          "மிகக் குறைந்த மின்தடை எண்",
+          "குறைந்த உருகுநிலை",
+          "அதிக மின்தடை எண்",
+          "அதிகக் கடத்துதிறன்"
+        ],
+        "explanation": "இதன் மின்தடை எண் ஏறக்குறைய 1.5 × 10⁻⁶ Ω m."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 46,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 46,
       "quote": "The conductance of a material is mathematically defined as the reciprocal of its resistance (R). ... Its unit is ohm–1. It is also represented as 'mho'.",
       "answer": "D",
-      "en": {"q": "The reciprocal of resistance is called conductance. Its unit is", "options": ["ohm metre", "volt", "watt", "mho (ohm⁻¹)"], "explanation": "G = 1 / R."},
-      "ta": {"q": "மின்தடையின் தலைகீழி மின்கடத்துத்திறன் (conductance). அதன் அலகு எது?", "options": ["ஓம் மீட்டர்", "வோல்ட்", "வாட்", "மோ (ஓம்⁻¹)"], "explanation": "G = 1 / R."}
+      "en": {
+        "q": "The reciprocal of resistance is called conductance. Its unit is",
+        "options": [
+          "ohm metre",
+          "volt",
+          "watt",
+          "mho"
+        ],
+        "explanation": "G = 1 / R."
+      },
+      "ta": {
+        "q": "மின்தடையின் தலைகீழி மின்கடத்துத்திறன் (conductance). அதன் அலகு எது?",
+        "options": [
+          "ஓம் மீட்டர்",
+          "வோல்ட்",
+          "வாட்",
+          "மோ"
+        ],
+        "explanation": "G = 1 / R."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 46,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 46,
       "quote": "The reciprocal of electrical resistivity of a material is called its electrical conductivity. ... Its unit is ohm–1 metre–1.",
       "answer": "A",
-      "en": {"q": "The reciprocal of electrical resistivity is", "options": ["electrical conductivity", "resistance", "conductance", "potential difference"], "explanation": "σ = 1 / ρ, unit ohm⁻¹ m⁻¹ (mho m⁻¹)."},
-      "ta": {"q": "மின்தடை எண்ணின் தலைகீழி எது?", "options": ["மின்கடத்து எண்", "மின்தடை", "மின்கடத்துத்திறன்", "மின்னழுத்த வேறுபாடு"], "explanation": "σ = 1 / ρ, அலகு ஓம்⁻¹ மீ⁻¹ (மோ மீ⁻¹)."}
+      "en": {
+        "q": "The reciprocal of electrical resistivity is",
+        "options": [
+          "electrical conductivity",
+          "resistance",
+          "conductance",
+          "potential difference"
+        ],
+        "explanation": "σ = 1 / ρ, unit ohm⁻¹ m⁻¹ (mho m⁻¹)."
+      },
+      "ta": {
+        "q": "மின்தடை எண்ணின் தலைகீழி எது?",
+        "options": [
+          "மின்கடத்து எண்",
+          "மின்தடை",
+          "மின்கடத்துத்திறன்",
+          "மின்னழுத்த வேறுபாடு"
+        ],
+        "explanation": "σ = 1 / ρ, அலகு ஓம்⁻¹ மீ⁻¹ (மோ மீ⁻¹)."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 47,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 47,
       "quote": "Conductivity is more for conductors than for insulators. But, the resistivity is less for conductors than for insulators.",
       "answer": "B",
-      "en": {"q": "Compared with insulators, conductors have", "options": ["higher resistivity and lower conductivity", "lower resistivity and higher conductivity", "equal resistivity", "zero conductivity"], "explanation": "Copper and aluminium are conductors; glass, wood and rubber are insulators."},
-      "ta": {"q": "காப்பான்களுடன் ஒப்பிடுகையில் கடத்திகள் கொண்டிருப்பவை", "options": ["அதிக மின்தடை எண், குறைந்த கடத்து எண்", "குறைந்த மின்தடை எண், அதிகக் கடத்து எண்", "சம மின்தடை எண்", "பூஜ்யக் கடத்து எண்"], "explanation": "தாமிரம், அலுமினியம் கடத்திகள்; கண்ணாடி, மரம், ரப்பர் காப்பான்கள்."}
+      "en": {
+        "q": "Compared with insulators, conductors have",
+        "options": [
+          "higher resistivity and lower conductivity",
+          "lower resistivity and higher conductivity",
+          "equal resistivity",
+          "zero conductivity"
+        ],
+        "explanation": "Copper and aluminium are conductors; glass, wood and rubber are insulators."
+      },
+      "ta": {
+        "q": "காப்பான்களுடன் ஒப்பிடுகையில் கடத்திகள் கொண்டிருப்பவை",
+        "options": [
+          "அதிக மின்தடை எண், குறைந்த கடத்து எண்",
+          "குறைந்த மின்தடை எண், அதிகக் கடத்து எண்",
+          "சம மின்தடை எண்",
+          "பூஜ்யக் கடத்து எண்"
+        ],
+        "explanation": "தாமிரம், அலுமினியம் கடத்திகள்; கண்ணாடி, மரம், ரப்பர் காப்பான்கள்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 47,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 47,
       "quote": "Table 4.2 Resistivity of some materials ... Copper 1.62 × 10–8 ... Nickel 6.84 × 10–8 ... Chromium 12.9 × 10–8",
       "answer": "C",
-      "en": {"q": "According to Table 4.2 of the text, which of these conductors has the lowest resistivity?", "options": ["Chromium", "Nickel", "Copper", "Nichrome"], "explanation": "Copper 1.62 × 10⁻⁸ Ω m is the lowest of those listed."},
-      "ta": {"q": "பாடநூல் அட்டவணை 4.2இன்படி இவற்றுள் மிகக் குறைந்த மின்தடை எண் கொண்ட கடத்தி எது?", "options": ["குரோமியம்", "நிக்கல்", "தாமிரம்", "நிக்ரோம்"], "explanation": "தாமிரம் 1.62 × 10⁻⁸ Ω m மிகக் குறைவு."}
+      "en": {
+        "q": "According to Table 4.2 of the text, which of these conductors has the lowest resistivity?",
+        "options": [
+          "Chromium",
+          "Nickel",
+          "Copper",
+          "Nichrome"
+        ],
+        "explanation": "Copper 1.62 × 10⁻⁸ Ω m is the lowest of those listed."
+      },
+      "ta": {
+        "q": "பாடநூல் அட்டவணை 4.2இன்படி இவற்றுள் மிகக் குறைந்த மின்தடை எண் கொண்ட கடத்தி எது?",
+        "options": [
+          "குரோமியம்",
+          "நிக்கல்",
+          "தாமிரம்",
+          "நிக்ரோம்"
+        ],
+        "explanation": "தாமிரம் 1.62 × 10⁻⁸ Ω m மிகக் குறைவு."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 47,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 47,
       "quote": "The resistance of a wire of length 10 m is 2 ohm. If the area of cross section of the wire is 2 × 10–7 m2 ... Resistivity = 4 × 10–8 Ω m ... Conductance, G = 1/2 = 0.5 mho",
       "answer": "D",
-      "en": {"q": "A wire of length 10 m has a resistance of 2 Ω and cross-sectional area 2 × 10⁻⁷ m². Its resistivity is", "options": ["4 × 10⁻⁷ Ω m", "1 × 10⁻⁸ Ω m", "0.5 Ω m", "4 × 10⁻⁸ Ω m"], "explanation": "ρ = RA / L = 2 × 2 × 10⁻⁷ / 10 = 4 × 10⁻⁸ Ω m."},
-      "ta": {"q": "10 மீ. நீளமும் 2 × 10⁻⁷ மீ² குறுக்குவெட்டுப் பரப்பும் உள்ள கம்பியின் மின்தடை 2 Ω. அதன் மின்தடை எண் என்ன?", "options": ["4 × 10⁻⁷ Ω m", "1 × 10⁻⁸ Ω m", "0.5 Ω m", "4 × 10⁻⁸ Ω m"], "explanation": "ρ = RA / L = 2 × 2 × 10⁻⁷ / 10 = 4 × 10⁻⁸ Ω m."}
+      "en": {
+        "q": "A wire of length 10 m has a resistance of 2 Ω and cross-sectional area 2 × 10⁻⁷ m². Its resistivity is",
+        "options": [
+          "4 × 10⁻⁷ Ω m",
+          "1 × 10⁻⁸ Ω m",
+          "0.5 Ω m",
+          "4 × 10⁻⁸ Ω m"
+        ],
+        "explanation": "ρ = RA / L = 2 × 2 × 10⁻⁷ / 10 = 4 × 10⁻⁸ Ω m."
+      },
+      "ta": {
+        "q": "10 மீ. நீளமும் 2 × 10⁻⁷ மீ² குறுக்குவெட்டுப் பரப்பும் உள்ள கம்பியின் மின்தடை 2 Ω. அதன் மின்தடை எண் என்ன?",
+        "options": [
+          "4 × 10⁻⁷ Ω m",
+          "1 × 10⁻⁸ Ω m",
+          "0.5 Ω m",
+          "4 × 10⁻⁸ Ω m"
+        ],
+        "explanation": "ρ = RA / L = 2 × 2 × 10⁻⁷ / 10 = 4 × 10⁻⁸ Ω m."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 47,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 47,
       "quote": "A series circuit has only one loop through which current can pass. If the circuit is interrupted at any point in the loop, no current can pass through the circuit ... Series circuits are commonly used in devices such as flashlights.",
       "answer": "A",
-      "en": {"q": "In which kind of circuit does a break at any point stop the current in the whole circuit?", "options": ["Series circuit", "Parallel circuit", "Domestic wiring", "Earthing circuit"], "explanation": "A series circuit has only one loop; flashlights use series circuits."},
-      "ta": {"q": "எந்த வகைச் சுற்றில் ஏதேனும் ஒரு இடத்தில் துண்டிப்பு ஏற்பட்டால் சுற்று முழுவதும் மின்னோட்டம் நின்றுவிடும்?", "options": ["தொடர் இணைப்புச் சுற்று", "பக்க இணைப்புச் சுற்று", "வீட்டு மின் இணைப்பு", "புவித்தொடுப்புச் சுற்று"], "explanation": "தொடர் சுற்றுக்கு ஒரே ஒரு வளையம் உண்டு; கைவிளக்குகளில் பயன்படுகிறது."}
+      "en": {
+        "q": "In which kind of circuit does a break at any point stop the current in the whole circuit?",
+        "options": [
+          "Series circuit",
+          "Parallel circuit",
+          "Domestic wiring",
+          "Earthing circuit"
+        ],
+        "explanation": "A series circuit has only one loop; flashlights use series circuits."
+      },
+      "ta": {
+        "q": "எந்த வகைச் சுற்றில் ஏதேனும் ஒரு இடத்தில் துண்டிப்பு ஏற்பட்டால் சுற்று முழுவதும் மின்னோட்டம் நின்றுவிடும்?",
+        "options": [
+          "தொடர் இணைப்புச் சுற்று",
+          "பக்க இணைப்புச் சுற்று",
+          "வீட்டு மின் இணைப்பு",
+          "புவித்தொடுப்புச் சுற்று"
+        ],
+        "explanation": "தொடர் சுற்றுக்கு ஒரே ஒரு வளையம் உண்டு; கைவிளக்குகளில் பயன்படுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 48,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 48,
       "quote": "when a number of resistors are connected in series, their equivalent resistance or effective resistance is equal to the sum of the individual resistances. When 'n' resistors of equal resistance R are connected in series, the equivalent resistance is 'n R'.",
       "answer": "B",
-      "en": {"q": "When n resistors each of resistance R are connected in series, the equivalent resistance is", "options": ["R / n", "n R", "R", "n / R"], "explanation": "In series, Rs = R₁ + R₂ + R₃ + …"},
-      "ta": {"q": "ஒவ்வொன்றும் R மின்தடையுள்ள n மின்தடையாக்கிகள் தொடராக இணைக்கப்பட்டால் தொகுபயன் மின்தடை என்ன?", "options": ["R / n", "n R", "R", "n / R"], "explanation": "தொடர் இணைப்பில் Rs = R₁ + R₂ + R₃ + …"}
+      "en": {
+        "q": "When n resistors each of resistance R are connected in series, the equivalent resistance is",
+        "options": [
+          "R / n",
+          "n R",
+          "R",
+          "n / R"
+        ],
+        "explanation": "In series, Rs = R₁ + R₂ + R₃ + …"
+      },
+      "ta": {
+        "q": "ஒவ்வொன்றும் R மின்தடையுள்ள n மின்தடையாக்கிகள் தொடராக இணைக்கப்பட்டால் தொகுபயன் மின்தடை என்ன?",
+        "options": [
+          "R / n",
+          "n R",
+          "R",
+          "n / R"
+        ],
+        "explanation": "தொடர் இணைப்பில் Rs = R₁ + R₂ + R₃ + …"
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 48,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 48,
       "quote": "Three resistors of resistances 5 ohm, 3 ohm and 2 ohm are connected in series with 10 V battery. ... Rs = 10 Ω ... The current, I = 10/10 = 1A",
       "answer": "C",
-      "en": {"q": "Resistors of 5 Ω, 3 Ω and 2 Ω are connected in series to a 10 V battery. The current in the circuit is", "options": ["10 A", "0.5 A", "1 A", "2 A"], "explanation": "Rs = 10 Ω, so I = 10 / 10 = 1 A."},
-      "ta": {"q": "5 Ω, 3 Ω, 2 Ω மின்தடையாக்கிகள் 10 V மின்கலத்துடன் தொடராக இணைக்கப்பட்டுள்ளன. சுற்றில் மின்னோட்டம் என்ன?", "options": ["10 A", "0.5 A", "1 A", "2 A"], "explanation": "Rs = 10 Ω; I = 10 / 10 = 1 A."}
+      "en": {
+        "q": "Resistors of 5 Ω, 3 Ω and 2 Ω are connected in series to a 10 V battery. The current in the circuit is",
+        "options": [
+          "10 A",
+          "0.5 A",
+          "1 A",
+          "2 A"
+        ],
+        "explanation": "Rs = 10 Ω, so I = 10 / 10 = 1 A."
+      },
+      "ta": {
+        "q": "5 Ω, 3 Ω, 2 Ω மின்தடையாக்கிகள் 10 V மின்கலத்துடன் தொடராக இணைக்கப்பட்டுள்ளன. சுற்றில் மின்னோட்டம் என்ன?",
+        "options": [
+          "10 A",
+          "0.5 A",
+          "1 A",
+          "2 A"
+        ],
+        "explanation": "Rs = 10 Ω; I = 10 / 10 = 1 A."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 49,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 49,
       "quote": "When 'n' resistors of equal resistances R are connected in parallel, the equivalent resistance is R/n. ... The equivalent resistance in a parallel combination is less than the lowest of the individual resistances.",
       "answer": "D",
-      "en": {"q": "The equivalent resistance of resistors connected in parallel is", "options": ["greater than the highest individual resistance", "equal to their sum", "equal to the highest resistance", "less than the lowest individual resistance"], "explanation": "1/Rp = 1/R₁ + 1/R₂ + …; for n equal resistors Rp = R/n."},
-      "ta": {"q": "பக்க இணைப்பில் உள்ள மின்தடையாக்கிகளின் தொகுபயன் மின்தடை", "options": ["மிக அதிகத் தனி மின்தடையை விட அதிகம்", "அவற்றின் கூட்டுத்தொகைக்குச் சமம்", "மிக அதிக மின்தடைக்குச் சமம்", "மிகக் குறைந்த தனி மின்தடையை விடக் குறைவு"], "explanation": "1/Rp = 1/R₁ + 1/R₂ + …; n சம மின்தடைகளுக்கு Rp = R/n."}
+      "en": {
+        "q": "The equivalent resistance of resistors connected in parallel is",
+        "options": [
+          "greater than the highest individual resistance",
+          "equal to their sum",
+          "equal to the highest resistance",
+          "less than the lowest individual resistance"
+        ],
+        "explanation": "1/Rp = 1/R₁ + 1/R₂ + …; for n equal resistors Rp = R/n."
+      },
+      "ta": {
+        "q": "பக்க இணைப்பில் உள்ள மின்தடையாக்கிகளின் தொகுபயன் மின்தடை",
+        "options": [
+          "மிக அதிகத் தனி மின்தடையை விட அதிகம்",
+          "அவற்றின் கூட்டுத்தொகைக்குச் சமம்",
+          "மிக அதிக மின்தடைக்குச் சமம்",
+          "மிகக் குறைந்த தனி மின்தடையை விடக் குறைவு"
+        ],
+        "explanation": "1/Rp = 1/R₁ + 1/R₂ + …; n சம மின்தடைகளுக்கு Rp = R/n."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 48,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 48,
       "quote": "A parallel circuit has two or more loops through which current can pass. If the circuit is disconnected in one of the loops, the current can still pass through the other loop(s). The wiring in a house consists of parallel circuits.",
       "answer": "A",
-      "en": {"q": "The wiring in a house consists of", "options": ["parallel circuits", "series circuits", "a single loop", "open circuits"], "explanation": "Disconnecting one appliance does not affect the others, and each gets equal voltage."},
-      "ta": {"q": "வீட்டு மின் இணைப்பு எந்த வகைச் சுற்றுகளால் ஆனது?", "options": ["பக்க இணைப்புச் சுற்றுகள்", "தொடர் இணைப்புச் சுற்றுகள்", "ஒரே வளையம்", "திறந்த சுற்றுகள்"], "explanation": "ஒரு சாதனத்தைத் துண்டித்தாலும் பிறவை பாதிக்கப்படாது; ஒவ்வொன்றுக்கும் சம மின்னழுத்தம் கிடைக்கும்."}
+      "en": {
+        "q": "The wiring in a house consists of",
+        "options": [
+          "parallel circuits",
+          "series circuits",
+          "a single loop",
+          "open circuits"
+        ],
+        "explanation": "Disconnecting one appliance does not affect the others, and each gets equal voltage."
+      },
+      "ta": {
+        "q": "வீட்டு மின் இணைப்பு எந்த வகைச் சுற்றுகளால் ஆனது?",
+        "options": [
+          "பக்க இணைப்புச் சுற்றுகள்",
+          "தொடர் இணைப்புச் சுற்றுகள்",
+          "ஒரே வளையம்",
+          "திறந்த சுற்றுகள்"
+        ],
+        "explanation": "ஒரு சாதனத்தைத் துண்டித்தாலும் பிறவை பாதிக்கப்படாது; ஒவ்வொன்றுக்கும் சம மின்னழுத்தம் கிடைக்கும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 55,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 55,
       "quote": "Three resistors of 1 Ω, 2 Ω and 4 Ω are connected in parallel in a circuit. If a 1 Ω resistor draws a current of 1 A, find the current through the other two resistors. ... current in the 2 Ω resistor = 0.5 A ... current in the 4 Ω resistor = 0.25 A",
       "answer": "B",
-      "en": {"q": "Resistors of 1 Ω, 2 Ω and 4 Ω are in parallel. If the 1 Ω resistor draws 1 A, the current through the 4 Ω resistor is", "options": ["4 A", "0.25 A", "0.5 A", "1 A"], "explanation": "V = 1 × 1 = 1 V across each, so I = 1/4 = 0.25 A."},
-      "ta": {"q": "1 Ω, 2 Ω, 4 Ω மின்தடையாக்கிகள் பக்க இணைப்பில் உள்ளன. 1 Ω வழியே 1 A பாய்ந்தால் 4 Ω வழியே மின்னோட்டம் என்ன?", "options": ["4 A", "0.25 A", "0.5 A", "1 A"], "explanation": "ஒவ்வொன்றின் குறுக்கேயும் V = 1 × 1 = 1 V; I = 1/4 = 0.25 A."}
+      "en": {
+        "q": "Resistors of 1 Ω, 2 Ω and 4 Ω are in parallel. If the 1 Ω resistor draws 1 A, the current through the 4 Ω resistor is",
+        "options": [
+          "4 A",
+          "0.25 A",
+          "0.5 A",
+          "1 A"
+        ],
+        "explanation": "V = 1 × 1 = 1 V across each, so I = 1/4 = 0.25 A."
+      },
+      "ta": {
+        "q": "1 Ω, 2 Ω, 4 Ω மின்தடையாக்கிகள் பக்க இணைப்பில் உள்ளன. 1 Ω வழியே 1 A பாய்ந்தால் 4 Ω வழியே மின்னோட்டம் என்ன?",
+        "options": [
+          "4 A",
+          "0.25 A",
+          "0.5 A",
+          "1 A"
+        ],
+        "explanation": "ஒவ்வொன்றின் குறுக்கேயும் V = 1 × 1 = 1 V; I = 1/4 = 0.25 A."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 50,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 50,
       "quote": "Equivalent resistance More than the highest resistance. Less than the lowest resistance. ... If one appliance is disconnected, others also do not work. If one appliance is disconnected, others will work independently.",
       "answer": "C",
-      "en": {"q": "Which statement correctly compares series and parallel circuits?", "options": ["In series, appliances work independently", "In parallel, equivalent resistance is more than the highest resistance", "In series, if one appliance is disconnected, others also stop working", "In parallel, current is less than in series"], "explanation": "In parallel the effective resistance is less, so current is more."},
-      "ta": {"q": "தொடர், பக்க இணைப்புச் சுற்றுகளைச் சரியாக ஒப்பிடும் கூற்று எது?", "options": ["தொடர் இணைப்பில் சாதனங்கள் தனித்தனியாக இயங்கும்", "பக்க இணைப்பில் தொகுபயன் மின்தடை மிக அதிக மின்தடையை விட அதிகம்", "தொடர் இணைப்பில் ஒரு சாதனம் துண்டிக்கப்பட்டால் பிறவும் இயங்காது", "பக்க இணைப்பில் மின்னோட்டம் தொடர் இணைப்பை விடக் குறைவு"], "explanation": "பக்க இணைப்பில் தொகுபயன் மின்தடை குறைவு; எனவே மின்னோட்டம் அதிகம்."}
+      "en": {
+        "q": "Which statement correctly compares series and parallel circuits?",
+        "options": [
+          "In series, appliances work independently",
+          "In parallel, equivalent resistance is more than the highest resistance",
+          "In series, if one appliance is disconnected, others also stop working",
+          "In parallel, current is less than in series"
+        ],
+        "explanation": "In parallel the effective resistance is less, so current is more."
+      },
+      "ta": {
+        "q": "தொடர், பக்க இணைப்புச் சுற்றுகளைச் சரியாக ஒப்பிடும் கூற்று எது?",
+        "options": [
+          "தொடர் இணைப்பில் சாதனங்கள் தனித்தனியாக இயங்கும்",
+          "பக்க இணைப்பில் தொகுபயன் மின்தடை மிக அதிக மின்தடையை விட அதிகம்",
+          "தொடர் இணைப்பில் ஒரு சாதனம் துண்டிக்கப்பட்டால் பிறவும் இயங்காது",
+          "பக்க இணைப்பில் மின்னோட்டம் தொடர் இணைப்பை விடக் குறைவு"
+        ],
+        "explanation": "பக்க இணைப்பில் தொகுபயன் மின்தடை குறைவு; எனவே மின்னோட்டம் அதிகம்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 50,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 50,
       "quote": "H = I2 R t This is known as Joule's law of heating.",
       "answer": "D",
-      "en": {"q": "According to Joule's law of heating, the heat produced in a resistor is", "options": ["H = I R t", "H = I R² t", "H = V / I t", "H = I² R t"], "explanation": "Heat is proportional to the square of current, the resistance and the time."},
-      "ta": {"q": "ஜூல் வெப்ப விதிப்படி மின்தடையாக்கியில் உருவாகும் வெப்பம்", "options": ["H = I R t", "H = I R² t", "H = V / I t", "H = I² R t"], "explanation": "வெப்பம் மின்னோட்டத்தின் இருமடி, மின்தடை, காலம் ஆகியவற்றுக்கு நேர்விகிதம்."}
+      "en": {
+        "q": "According to Joule's law of heating, the heat produced in a resistor is",
+        "options": [
+          "H = I R t",
+          "H = I R² t",
+          "H = V / I t",
+          "H = I² R t"
+        ],
+        "explanation": "Heat is proportional to the square of current, the resistance and the time."
+      },
+      "ta": {
+        "q": "ஜூல் வெப்ப விதிப்படி மின்தடையாக்கியில் உருவாகும் வெப்பம்",
+        "options": [
+          "H = I R t",
+          "H = I R² t",
+          "H = V / I t",
+          "H = I² R t"
+        ],
+        "explanation": "வெப்பம் மின்னோட்டத்தின் இருமடி, மின்தடை, காலம் ஆகியவற்றுக்கு நேர்விகிதம்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 50,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 50,
       "quote": "Joule's law of heating states that the heat produced in any resistor is: directly proportional to the square of the current passing through the resistor.",
       "answer": "A",
-      "en": {"q": "If the current through a resistor is doubled, keeping resistance and time the same, the heat produced becomes", "options": ["four times", "double", "half", "unchanged"], "explanation": "H ∝ I², so (2I)² = 4I²."},
-      "ta": {"q": "மின்தடையும் காலமும் மாறாமல் மின்தடையாக்கியின் மின்னோட்டம் இருமடங்கானால் உருவாகும் வெப்பம்", "options": ["நான்கு மடங்காகும்", "இரு மடங்காகும்", "பாதியாகும்", "மாறாது"], "explanation": "H ∝ I²; (2I)² = 4I²."}
+      "en": {
+        "q": "If the current through a resistor is doubled, keeping resistance and time the same, the heat produced becomes",
+        "options": [
+          "four times",
+          "double",
+          "half",
+          "unchanged"
+        ],
+        "explanation": "H ∝ I², so (2I)² = 4I²."
+      },
+      "ta": {
+        "q": "மின்தடையும் காலமும் மாறாமல் மின்தடையாக்கியின் மின்னோட்டம் இருமடங்கானால் உருவாகும் வெப்பம்",
+        "options": [
+          "நான்கு மடங்காகும்",
+          "இரு மடங்காகும்",
+          "பாதியாகும்",
+          "மாறாது"
+        ],
+        "explanation": "H ∝ I²; (2I)² = 4I²."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 50,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 50,
       "quote": "In these appliances Nichrome, which is an alloy of Nickel and Chromium is used as the heating element. Why? Because: (i) it has high resistivity, (ii) it has a high melting point, (iii) it is not easily oxidized.",
       "answer": "B",
-      "en": {"q": "Nichrome, used as the heating element in electric irons and heaters, is an alloy of", "options": ["nickel and copper", "nickel and chromium", "chromium and iron", "copper and zinc"], "explanation": "It has high resistivity, high melting point and does not oxidise easily."},
-      "ta": {"q": "மின் இஸ்திரிப்பெட்டி, வெப்பமூட்டிகளில் பயன்படும் நிக்ரோம் எவற்றின் உலோகக் கலவை?", "options": ["நிக்கல், தாமிரம்", "நிக்கல், குரோமியம்", "குரோமியம், இரும்பு", "தாமிரம், துத்தநாகம்"], "explanation": "அதிக மின்தடை எண், அதிக உருகுநிலை, எளிதில் ஆக்சிஜனேற்றம் அடையாமை இதன் சிறப்பு."}
+      "en": {
+        "q": "Nichrome, used as the heating element in electric irons and heaters, is an alloy of",
+        "options": [
+          "nickel and copper",
+          "nickel and chromium",
+          "chromium and iron",
+          "copper and zinc"
+        ],
+        "explanation": "It has high resistivity, high melting point and does not oxidise easily."
+      },
+      "ta": {
+        "q": "மின் இஸ்திரிப்பெட்டி, வெப்பமூட்டிகளில் பயன்படும் நிக்ரோம் எவற்றின் உலோகக் கலவை?",
+        "options": [
+          "நிக்கல், தாமிரம்",
+          "நிக்கல், குரோமியம்",
+          "குரோமியம், இரும்பு",
+          "தாமிரம், துத்தநாகம்"
+        ],
+        "explanation": "அதிக மின்தடை எண், அதிக உருகுநிலை, எளிதில் ஆக்சிஜனேற்றம் அடையாமை இதன் சிறப்பு."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 51,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 51,
       "quote": "The fuse wire is connected in series, in an electric circuit. When a large current passes through the circuit, the fuse wire melts due to Joule's heating effect ... The fuse wire is made up of a material whose melting point is relatively low.",
       "answer": "C",
-      "en": {"q": "A fuse wire is connected in series in a circuit and is made of a material with", "options": ["high melting point", "very high resistivity like nichrome", "relatively low melting point", "zero resistance"], "explanation": "It melts when a large current flows, protecting appliances."},
-      "ta": {"q": "மின்சுற்றில் தொடராக இணைக்கப்படும் உருகு இழை எத்தகைய பொருளால் ஆனது?", "options": ["அதிக உருகுநிலை", "நிக்ரோம் போன்ற மிக அதிக மின்தடை எண்", "ஒப்பீட்டளவில் குறைந்த உருகுநிலை", "பூஜ்ய மின்தடை"], "explanation": "அதிக மின்னோட்டம் பாயும்போது உருகிச் சாதனங்களைக் காக்கிறது."}
+      "en": {
+        "q": "A fuse wire is connected in series in a circuit and is made of a material with",
+        "options": [
+          "high melting point",
+          "very high resistivity like nichrome",
+          "relatively low melting point",
+          "zero resistance"
+        ],
+        "explanation": "It melts when a large current flows, protecting appliances."
+      },
+      "ta": {
+        "q": "மின்சுற்றில் தொடராக இணைக்கப்படும் உருகு இழை எத்தகைய பொருளால் ஆனது?",
+        "options": [
+          "அதிக உருகுநிலை",
+          "நிக்ரோம் போன்ற மிக அதிக மின்தடை எண்",
+          "ஒப்பீட்டளவில் குறைந்த உருகுநிலை",
+          "பூஜ்ய மின்தடை"
+        ],
+        "explanation": "அதிக மின்னோட்டம் பாயும்போது உருகிச் சாதனங்களைக் காக்கிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 51,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 51,
       "quote": "The filament is made up of a material whose melting point is very high. ... Tungsten is the commonly used material to make the filament in bulbs.",
       "answer": "D",
-      "en": {"q": "The commonly used material for the filament of electric bulbs is", "options": ["Nichrome", "Copper", "Aluminium", "Tungsten"], "explanation": "It has a very high melting point."},
-      "ta": {"q": "மின்விளக்கு இழைக்குப் பொதுவாகப் பயன்படும் பொருள் எது?", "options": ["நிக்ரோம்", "தாமிரம்", "அலுமினியம்", "டங்ஸ்டன்"], "explanation": "இதன் உருகுநிலை மிக அதிகம்."}
+      "en": {
+        "q": "The commonly used material for the filament of electric bulbs is",
+        "options": [
+          "Nichrome",
+          "Copper",
+          "Aluminium",
+          "Tungsten"
+        ],
+        "explanation": "It has a very high melting point."
+      },
+      "ta": {
+        "q": "மின்விளக்கு இழைக்குப் பொதுவாகப் பயன்படும் பொருள் எது?",
+        "options": [
+          "நிக்ரோம்",
+          "தாமிரம்",
+          "அலுமினியம்",
+          "டங்ஸ்டன்"
+        ],
+        "explanation": "இதன் உருகுநிலை மிக அதிகம்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 51,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 51,
       "quote": "An electric heater of resistance 5 Ω is connected to an electric source. If a current of 6 A flows through the heater, then find the amount of heat produced in 5 minutes. ... H = 54000 J",
       "answer": "A",
-      "en": {"q": "A heater of resistance 5 Ω carries a current of 6 A for 5 minutes. The heat produced is", "options": ["54000 J", "900 J", "9000 J", "150 J"], "explanation": "H = I²Rt = 36 × 5 × 300 = 54000 J."},
-      "ta": {"q": "5 Ω மின்தடையுள்ள வெப்பமூட்டியில் 5 நிமிடம் 6 A மின்னோட்டம் பாய்கிறது. உருவாகும் வெப்பம் என்ன?", "options": ["54000 J", "900 J", "9000 J", "150 J"], "explanation": "H = I²Rt = 36 × 5 × 300 = 54000 J."}
+      "en": {
+        "q": "A heater of resistance 5 Ω carries a current of 6 A for 5 minutes. The heat produced is",
+        "options": [
+          "54000 J",
+          "900 J",
+          "9000 J",
+          "150 J"
+        ],
+        "explanation": "H = I²Rt = 36 × 5 × 300 = 54000 J."
+      },
+      "ta": {
+        "q": "5 Ω மின்தடையுள்ள வெப்பமூட்டியில் 5 நிமிடம் 6 A மின்னோட்டம் பாய்கிறது. உருவாகும் வெப்பம் என்ன?",
+        "options": [
+          "54000 J",
+          "900 J",
+          "9000 J",
+          "150 J"
+        ],
+        "explanation": "H = I²Rt = 36 × 5 × 300 = 54000 J."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 51,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 51,
       "quote": "Thus, the electric power is the product of the electric current and the potential difference ... P = V I ... The SI unit of electric power is watt.",
       "answer": "B",
-      "en": {"q": "Electric power is given by", "options": ["P = V / I", "P = V I", "P = I / V", "P = V I t"], "explanation": "Its SI unit is watt; 1 W = 1 V × 1 A."},
-      "ta": {"q": "மின்திறன் எவ்வாறு கணக்கிடப்படுகிறது?", "options": ["P = V / I", "P = V I", "P = I / V", "P = V I t"], "explanation": "அதன் SI அலகு வாட்; 1 W = 1 V × 1 A."}
+      "en": {
+        "q": "Electric power is given by",
+        "options": [
+          "P = V / I",
+          "P = V I",
+          "P = I / V",
+          "P = V I t"
+        ],
+        "explanation": "Its SI unit is watt; 1 W = 1 V × 1 A."
+      },
+      "ta": {
+        "q": "மின்திறன் எவ்வாறு கணக்கிடப்படுகிறது?",
+        "options": [
+          "P = V / I",
+          "P = V I",
+          "P = I / V",
+          "P = V I t"
+        ],
+        "explanation": "அதன் SI அலகு வாட்; 1 W = 1 V × 1 A."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 51,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 51,
       "quote": "The horse power (hp) is a unit in the foot-pound-second (fps) or English system, sometimes used to express the electric power. It is equal to 746 watt.",
       "answer": "C",
-      "en": {"q": "One horse power is equal to", "options": ["1000 W", "736 W", "746 W", "100 W"], "explanation": "Horse power is a unit of the fps (English) system."},
-      "ta": {"q": "ஒரு குதிரைத்திறன் எதற்குச் சமம்?", "options": ["1000 W", "736 W", "746 W", "100 W"], "explanation": "குதிரைத்திறன் fps (ஆங்கில) அமைப்பின் அலகு."}
+      "en": {
+        "q": "One horse power is equal to",
+        "options": [
+          "1000 W",
+          "736 W",
+          "746 W",
+          "100 W"
+        ],
+        "explanation": "Horse power is a unit of the fps (English) system."
+      },
+      "ta": {
+        "q": "ஒரு குதிரைத்திறன் எதற்குச் சமம்?",
+        "options": [
+          "1000 W",
+          "736 W",
+          "746 W",
+          "100 W"
+        ],
+        "explanation": "குதிரைத்திறன் fps (ஆங்கில) அமைப்பின் அலகு."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 51,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 51,
       "quote": "This larger unit is kilowatt hour (kWh). One kilowatt hour is otherwise known as one unit of electrical energy. ... 1 kWh = 1000 watt hour = 1000 × (60 × 60) watt second = 3.6 × 10^6 J",
       "answer": "D",
-      "en": {"q": "One unit (1 kWh) of electrical energy is equal to", "options": ["1000 J", "3.6 × 10³ J", "3.6 × 10⁵ J", "3.6 × 10⁶ J"], "explanation": "1 kWh = 1000 W × 3600 s."},
-      "ta": {"q": "ஒரு அலகு (1 kWh) மின்னாற்றல் எதற்குச் சமம்?", "options": ["1000 J", "3.6 × 10³ J", "3.6 × 10⁵ J", "3.6 × 10⁶ J"], "explanation": "1 kWh = 1000 W × 3600 s."}
+      "en": {
+        "q": "One unit (1 kWh) of electrical energy is equal to",
+        "options": [
+          "1000 J",
+          "3.6 × 10³ J",
+          "3.6 × 10⁵ J",
+          "3.6 × 10⁶ J"
+        ],
+        "explanation": "1 kWh = 1000 W × 3600 s."
+      },
+      "ta": {
+        "q": "ஒரு அலகு (1 kWh) மின்னாற்றல் எதற்குச் சமம்?",
+        "options": [
+          "1000 J",
+          "3.6 × 10³ J",
+          "3.6 × 10⁵ J",
+          "3.6 × 10⁶ J"
+        ],
+        "explanation": "1 kWh = 1000 W × 3600 s."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 51,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 51,
       "quote": "This larger unit is kilowatt hour (kWh). One kilowatt hour is otherwise known as one unit of electrical energy.",
       "answer": "A",
-      "en": {"q": "Kilowatt hour is the unit of", "options": ["electrical energy", "electrical power", "resistivity", "conductivity"], "explanation": "Energy consumed = power × time of usage."},
-      "ta": {"q": "கிலோவாட் மணி எதன் அலகு?", "options": ["மின்னாற்றல்", "மின்திறன்", "மின்தடை எண்", "மின்கடத்து எண்"], "explanation": "பயன்படுத்திய ஆற்றல் = திறன் × பயன்பாட்டுக் காலம்."}
+      "en": {
+        "q": "Kilowatt hour is the unit of",
+        "options": [
+          "electrical energy",
+          "electrical power",
+          "resistivity",
+          "conductivity"
+        ],
+        "explanation": "Energy consumed = power × time of usage."
+      },
+      "ta": {
+        "q": "கிலோவாட் மணி எதன் அலகு?",
+        "options": [
+          "மின்னாற்றல்",
+          "மின்திறன்",
+          "மின்தடை எண்",
+          "மின்கடத்து எண்"
+        ],
+        "explanation": "பயன்படுத்திய ஆற்றல் = திறன் × பயன்பாட்டுக் காலம்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 52,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 52,
       "quote": "In India, domestic circuits are supplied with an alternating current of potential 220/230V and frequency 50 Hz. In countries like USA and UK, domestic circuits are supplied with an alternating current of potential 110/120 V and frequency 60 Hz.",
       "answer": "B",
-      "en": {"q": "In India, domestic circuits are supplied with alternating current of", "options": ["110/120 V and 60 Hz", "220/230 V and 50 Hz", "220/230 V and 60 Hz", "440 V and 50 Hz"], "explanation": "The text gives 110/120 V and 60 Hz for countries like the USA."},
-      "ta": {"q": "இந்தியாவில் வீட்டுச் சுற்றுகளுக்கு வழங்கப்படும் மாறுதிசை மின்னோட்டம்", "options": ["110/120 V, 60 Hz", "220/230 V, 50 Hz", "220/230 V, 60 Hz", "440 V, 50 Hz"], "explanation": "அமெரிக்கா போன்ற நாடுகளுக்கு 110/120 V, 60 Hz எனப் பாடநூல் குறிப்பிடுகிறது."}
+      "en": {
+        "q": "In India, domestic circuits are supplied with alternating current of",
+        "options": [
+          "110/120 V and 60 Hz",
+          "220/230 V and 50 Hz",
+          "220/230 V and 60 Hz",
+          "440 V and 50 Hz"
+        ],
+        "explanation": "The text gives 110/120 V and 60 Hz for countries like the USA."
+      },
+      "ta": {
+        "q": "இந்தியாவில் வீட்டுச் சுற்றுகளுக்கு வழங்கப்படும் மாறுதிசை மின்னோட்டம்",
+        "options": [
+          "110/120 V, 60 Hz",
+          "220/230 V, 50 Hz",
+          "220/230 V, 60 Hz",
+          "440 V, 50 Hz"
+        ],
+        "explanation": "அமெரிக்கா போன்ற நாடுகளுக்கு 110/120 V, 60 Hz எனப் பாடநூல் குறிப்பிடுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 52,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 52,
       "quote": "one circuit is of a 5 A rating, which is used to run the electric appliances with a lower power rating, such as tube lights, bulbs and fans. The other circuit is of a 15 A rating, which is used to run electric appliances with a high power rating, such as air-conditioners, refrigerators, electric iron and heaters.",
       "answer": "C",
-      "en": {"q": "In a domestic circuit, appliances like air-conditioners, refrigerators and electric irons run on a circuit rated at", "options": ["1 A", "5 A", "15 A", "50 A"], "explanation": "The 5 A circuit runs low-power appliances like bulbs and fans."},
-      "ta": {"q": "வீட்டுச் சுற்றில் குளிர்சாதனம், குளிர்பதனப்பெட்டி, மின் இஸ்திரிப்பெட்டி போன்றவை எந்த அளவுச் சுற்றில் இயங்கும்?", "options": ["1 A", "5 A", "15 A", "50 A"], "explanation": "விளக்கு, மின்விசிறி போன்ற குறைந்த திறன் சாதனங்கள் 5 A சுற்றில் இயங்கும்."}
+      "en": {
+        "q": "In a domestic circuit, appliances like air-conditioners, refrigerators and electric irons run on a circuit rated at",
+        "options": [
+          "1 A",
+          "5 A",
+          "15 A",
+          "50 A"
+        ],
+        "explanation": "The 5 A circuit runs low-power appliances like bulbs and fans."
+      },
+      "ta": {
+        "q": "வீட்டுச் சுற்றில் குளிர்சாதனம், குளிர்பதனப்பெட்டி, மின் இஸ்திரிப்பெட்டி போன்றவை எந்த அளவுச் சுற்றில் இயங்கும்?",
+        "options": [
+          "1 A",
+          "5 A",
+          "15 A",
+          "50 A"
+        ],
+        "explanation": "விளக்கு, மின்விசிறி போன்ற குறைந்த திறன் சாதனங்கள் 5 A சுற்றில் இயங்கும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 52,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 52,
       "quote": "An MCB is a switching device, which can be activated automatically as well as manually. It has a spring attached to the switch, which is attracted by an electromagnet when an excess current passes through the circuit.",
       "answer": "D",
-      "en": {"q": "A Miniature Circuit Breaker (MCB) breaks the circuit when excess current flows because", "options": ["its wire melts", "it has no resistance", "it is connected to the earth wire", "an electromagnet attracts a spring attached to its switch"], "explanation": "An MCB can be operated automatically as well as manually."},
-      "ta": {"q": "அதிக மின்னோட்டம் பாயும்போது சிறு மின்சுற்றுத் துண்டிப்பான் (MCB) சுற்றைத் துண்டிப்பது ஏன்?", "options": ["அதன் கம்பி உருகுவதால்", "மின்தடை இல்லாததால்", "புவித்தொடுப்புக் கம்பியுடன் இணைந்திருப்பதால்", "ஒரு மின்காந்தம் அதன் சுவிட்சில் உள்ள சுருள்வில்லைக் கவர்வதால்"], "explanation": "MCB தானாகவும் கைமுறையாகவும் இயக்கப்படலாம்."}
+      "en": {
+        "q": "A Miniature Circuit Breaker (MCB) breaks the circuit when excess current flows because",
+        "options": [
+          "its thin wire melts and breaks the circuit",
+          "it has zero resistance to the current",
+          "it is connected to the earth wire of the house",
+          "an electromagnet pulls a spring-loaded switch"
+        ],
+        "explanation": "An MCB can be operated automatically as well as manually."
+      },
+      "ta": {
+        "q": "அதிக மின்னோட்டம் பாயும்போது சிறு மின்சுற்றுத் துண்டிப்பான் (MCB) சுற்றைத் துண்டிப்பது ஏன்?",
+        "options": [
+          "அதன் மெல்லிய கம்பி உருகிச் சுற்றைத் துண்டிப்பதால்",
+          "அது மின்னோட்டத்திற்குப் பூஜ்ய மின்தடை தருவதால்",
+          "வீட்டின் புவித்தொடுப்புக் கம்பியுடன் இணைந்திருப்பதால்",
+          "மின்காந்தம் சுருள்வில் சுவிட்சை இழுப்பதால்"
+        ],
+        "explanation": "MCB தானாகவும் கைமுறையாகவும் இயக்கப்படலாம்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 53,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 53,
       "quote": "When a live wire comes in contact with a neutral wire, it causes a 'short circuit'. ... Due to a short circuit, the effective resistance in the circuit becomes very small, which leads to the flow of a large current through the wires.",
       "answer": "A",
-      "en": {"q": "A short circuit occurs when", "options": ["the live wire comes in contact with the neutral wire", "the earth wire is removed", "a fuse is replaced", "too few appliances are used"], "explanation": "Resistance becomes very small and a large current flows."},
-      "ta": {"q": "மின் குறுக்குச்சுற்று (short circuit) எப்போது ஏற்படுகிறது?", "options": ["மின்னோட்டக் கம்பி நடுநிலைக் கம்பியைத் தொடும்போது", "புவித்தொடுப்புக் கம்பி அகற்றப்படும்போது", "உருகு இழை மாற்றப்படும்போது", "மிகக் குறைந்த சாதனங்கள் பயன்படும்போது"], "explanation": "மின்தடை மிகக் குறைந்து அதிக மின்னோட்டம் பாய்கிறது."}
+      "en": {
+        "q": "A short circuit occurs when",
+        "options": [
+          "the live wire comes in contact with the neutral wire",
+          "the earth wire is removed from the socket",
+          "a blown fuse is replaced with a new one",
+          "too few appliances are used in the house"
+        ],
+        "explanation": "Resistance becomes very small and a large current flows."
+      },
+      "ta": {
+        "q": "மின் குறுக்குச்சுற்று (short circuit) எப்போது ஏற்படுகிறது?",
+        "options": [
+          "மின்னோட்டக் கம்பி நடுநிலைக் கம்பியைத் தொடும்போது",
+          "புவித்தொடுப்புக் கம்பி இணைப்பிலிருந்து அகற்றப்படும்போது",
+          "எரிந்த உருகு இழை புதியதாக மாற்றப்படும்போது",
+          "வீட்டில் மிகக் குறைந்த சாதனங்கள் பயன்படும்போது"
+        ],
+        "explanation": "மின்தடை மிகக் குறைந்து அதிக மின்னோட்டம் பாய்கிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 53,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 53,
       "quote": "This wire provides a low resistance path to the electric current. The earth wire sends the current from the body of the appliance to the Earth, whenever a live wire accidentally touches the body of the metallic electric appliance.",
       "answer": "B",
-      "en": {"q": "The earth wire in a domestic circuit protects us from electric shock by", "options": ["increasing the voltage", "providing a low-resistance path for current to the Earth", "melting at high current", "storing charge"], "explanation": "It is connected to the metal body of appliances and to an electrode buried in the Earth."},
-      "ta": {"q": "வீட்டுச் சுற்றின் புவித்தொடுப்புக் கம்பி மின் அதிர்ச்சியிலிருந்து எவ்வாறு காக்கிறது?", "options": ["மின்னழுத்தத்தை உயர்த்தி", "புவிக்கு மின்னோட்டம் செல்லக் குறைந்த மின்தடைப் பாதை வழங்கி", "அதிக மின்னோட்டத்தில் உருகி", "மின்னூட்டத்தைச் சேமித்து"], "explanation": "இது சாதனத்தின் உலோக உடலுடனும் மண்ணில் புதைக்கப்பட்ட மின்முனையுடனும் இணைக்கப்படுகிறது."}
+      "en": {
+        "q": "The earth wire in a domestic circuit protects us from electric shock by",
+        "options": [
+          "increasing the voltage of the circuit",
+          "giving current a low-resistance path to the Earth",
+          "melting when a high current flows",
+          "storing the excess charge in itself"
+        ],
+        "explanation": "It is connected to the metal body of appliances and to an electrode buried in the Earth."
+      },
+      "ta": {
+        "q": "வீட்டுச் சுற்றின் புவித்தொடுப்புக் கம்பி மின் அதிர்ச்சியிலிருந்து எவ்வாறு காக்கிறது?",
+        "options": [
+          "சுற்றின் மின்னழுத்தத்தை மிகவும் உயர்த்தி",
+          "புவிக்குச் செல்லக் குறைந்த மின்தடைப் பாதை தந்து",
+          "அதிக மின்னோட்டம் பாயும்போது உருகி உடைந்து",
+          "அதிகப்படியான மின்னூட்டத்தைச் சேமித்து"
+        ],
+        "explanation": "இது சாதனத்தின் உலோக உடலுடனும் மண்ணில் புதைக்கப்பட்ட மின்முனையுடனும் இணைக்கப்படுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 53,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 53,
       "quote": "With the help of the chemical compounds like Gallium Arsenide and Gallium Phosphide, the manufacturer can produce LED bulbs that radiates red, green, yellow and orange colours.",
       "answer": "C",
-      "en": {"q": "Which compounds are used to make LED bulbs that emit red, green, yellow and orange colours?", "options": ["Sodium chloride and potassium chloride", "Copper sulphate and zinc oxide", "Gallium arsenide and gallium phosphide", "Silicon dioxide and carbon"], "explanation": "An LED is a semiconductor device that emits light when current passes."},
-      "ta": {"q": "சிவப்பு, பச்சை, மஞ்சள், ஆரஞ்சு நிறங்களை உமிழும் LED விளக்குகளைத் தயாரிக்கப் பயன்படும் சேர்மங்கள் எவை?", "options": ["சோடியம் குளோரைடு, பொட்டாசியம் குளோரைடு", "காப்பர் சல்பேட், துத்தநாக ஆக்சைடு", "காலியம் ஆர்சனைடு, காலியம் பாஸ்பைடு", "சிலிக்கன் டைஆக்சைடு, கார்பன்"], "explanation": "LED என்பது மின்னோட்டம் பாயும்போது ஒளியை உமிழும் குறைகடத்திச் சாதனம்."}
+      "en": {
+        "q": "Which compounds are used to make LED bulbs that emit red, green, yellow and orange colours?",
+        "options": [
+          "Sodium chloride and potassium chloride",
+          "Copper sulphate and zinc oxide",
+          "Gallium arsenide and gallium phosphide",
+          "Silicon dioxide and carbon"
+        ],
+        "explanation": "An LED is a semiconductor device that emits light when current passes."
+      },
+      "ta": {
+        "q": "சிவப்பு, பச்சை, மஞ்சள், ஆரஞ்சு நிறங்களை உமிழும் LED விளக்குகளைத் தயாரிக்கப் பயன்படும் சேர்மங்கள் எவை?",
+        "options": [
+          "சோடியம் குளோரைடு, பொட்டாசியம் குளோரைடு",
+          "காப்பர் சல்பேட், துத்தநாக ஆக்சைடு",
+          "காலியம் ஆர்சனைடு, காலியம் பாஸ்பைடு",
+          "சிலிக்கன் டைஆக்சைடு, கார்பன்"
+        ],
+        "explanation": "LED என்பது மின்னோட்டம் பாயும்போது ஒளியை உமிழும் குறைகடத்திச் சாதனம்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 53,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 53,
       "quote": "A 'Seven Segment Display' is the display device used to give an output in the form of numbers or text. It is used in digital meters, digital clocks, micro wave ovens, etc. It consists of 7 segments of LEDs in the form of the digit 8.",
       "answer": "D",
-      "en": {"q": "A seven segment display, used in digital clocks and meters, consists of seven LED segments arranged in the form of the digit", "options": ["0", "1", "7", "8"], "explanation": "An extra 8th LED is used to display a dot."},
-      "ta": {"q": "டிஜிட்டல் கடிகாரம், மீட்டர்களில் பயன்படும் ஏழு பகுதித் திரையில் ஏழு LED பகுதிகள் எந்த எண் வடிவில் அமைந்துள்ளன?", "options": ["0", "1", "7", "8"], "explanation": "புள்ளியைக் காட்ட எட்டாவது LED பயன்படுகிறது."}
+      "en": {
+        "q": "A seven segment display, used in digital clocks and meters, consists of seven LED segments arranged in the form of the digit",
+        "options": [
+          "0",
+          "1",
+          "7",
+          "8"
+        ],
+        "explanation": "An extra 8th LED is used to display a dot."
+      },
+      "ta": {
+        "q": "டிஜிட்டல் கடிகாரம், மீட்டர்களில் பயன்படும் ஏழு பகுதித் திரையில் ஏழு LED பகுதிகள் எந்த எண் வடிவில் அமைந்துள்ளன?",
+        "options": [
+          "0",
+          "1",
+          "7",
+          "8"
+        ],
+        "explanation": "புள்ளியைக் காட்ட எட்டாவது LED பயன்படுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 53,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 53,
       "quote": "As there is no filament, there is no loss of energy in the form of heat. It is cooler than the incandescent bulb. ... Mercury and other toxic materials are not required.",
       "answer": "A",
-      "en": {"q": "Which of the following is a merit of an LED bulb?", "options": ["No filament, so no energy loss as heat", "It needs mercury to work", "It works only in red colour", "It uses more power than fluorescent lamps"], "explanation": "LEDs are energy efficient and not harmful to the environment."},
-      "ta": {"q": "LED விளக்கின் சிறப்பு எது?", "options": ["இழை இல்லாததால் வெப்பமாக ஆற்றல் இழப்பு இல்லை", "இயங்கப் பாதரசம் தேவை", "சிவப்பு நிறத்தில் மட்டும் இயங்கும்", "ஒளிர் விளக்குகளை விட அதிகத் திறன் பயன்படுத்தும்"], "explanation": "LED ஆற்றல் சிக்கனமானது; சுற்றுச்சூழலுக்குத் தீங்கற்றது."}
+      "en": {
+        "q": "Which of the following is a merit of an LED bulb?",
+        "options": [
+          "No filament, so no energy loss as heat",
+          "It needs mercury to work",
+          "It works only in red colour",
+          "It uses more power than fluorescent lamps"
+        ],
+        "explanation": "LEDs are energy efficient and not harmful to the environment."
+      },
+      "ta": {
+        "q": "LED விளக்கின் சிறப்பு எது?",
+        "options": [
+          "இழை இல்லாததால் வெப்பமாக ஆற்றல் இழப்பு இல்லை",
+          "இயங்கப் பாதரசம் தேவை",
+          "சிவப்பு நிறத்தில் மட்டும் இயங்கும்",
+          "ஒளிர் விளக்குகளை விட அதிகத் திறன் பயன்படுத்தும்"
+        ],
+        "explanation": "LED ஆற்றல் சிக்கனமானது; சுற்றுச்சூழலுக்குத் தீங்கற்றது."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 54,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 54,
       "quote": "The first LED television screen was developed by James P. Mitchell in 1977. It was a monochromatic display. But, after about three decades, in 2009, SONY introduced the first commercial LED Television.",
       "answer": "B",
-      "en": {"q": "The first LED television screen was developed in 1977 by", "options": ["John Logie Baird", "James P. Mitchell", "Thomas Edison", "Nick Holonyak"], "explanation": "Sony introduced the first commercial LED television in 2009, per the text."},
-      "ta": {"q": "1977இல் முதல் LED தொலைக்காட்சித் திரையை உருவாக்கியவர் யார்?", "options": ["ஜான் லோகி பேர்டு", "ஜேம்ஸ் பி. மிட்செல்", "தாமஸ் எடிசன்", "நிக் ஹோலோன்யாக்"], "explanation": "பாடநூலின்படி 2009இல் சோனி முதல் வணிக LED தொலைக்காட்சியை அறிமுகப்படுத்தியது."}
+      "en": {
+        "q": "The first LED television screen was developed in 1977 by",
+        "options": [
+          "John Logie Baird",
+          "James P. Mitchell",
+          "Thomas Edison",
+          "Nick Holonyak"
+        ],
+        "explanation": "Sony introduced the first commercial LED television in 2009, per the text."
+      },
+      "ta": {
+        "q": "1977இல் முதல் LED தொலைக்காட்சித் திரையை உருவாக்கியவர் யார்?",
+        "options": [
+          "ஜான் லோகி பேர்டு",
+          "ஜேம்ஸ் பி. மிட்செல்",
+          "தாமஸ் எடிசன்",
+          "நிக் ஹோலோன்யாக்"
+        ],
+        "explanation": "பாடநூலின்படி 2009இல் சோனி முதல் வணிக LED தொலைக்காட்சியை அறிமுகப்படுத்தியது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 54,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 54,
       "quote": "LEDs emitting white light are used in monochrome (black and white) TV; Red, Green and Blue (RGB) LEDs are used in colour television.",
       "answer": "C",
-      "en": {"q": "Which LEDs are used in colour LED television?", "options": ["White LEDs only", "Yellow and orange LEDs", "Red, Green and Blue (RGB) LEDs", "Infrared LEDs"], "explanation": "White LEDs are used in monochrome TV; an LED TV is an LCD TV with LED backlight."},
-      "ta": {"q": "வண்ண LED தொலைக்காட்சியில் எந்த LED-கள் பயன்படுகின்றன?", "options": ["வெள்ளை LED மட்டும்", "மஞ்சள், ஆரஞ்சு LED", "சிவப்பு, பச்சை, நீலம் (RGB) LED", "அகச்சிவப்பு LED"], "explanation": "கருப்பு-வெள்ளைத் தொலைக்காட்சியில் வெள்ளை LED; LED தொலைக்காட்சி LED பின்னொளி கொண்ட LCD தொலைக்காட்சி."}
+      "en": {
+        "q": "Which LEDs are used in colour LED television?",
+        "options": [
+          "White and violet LEDs",
+          "Yellow and orange LEDs",
+          "Red, Green and Blue LEDs",
+          "Infrared and UV LEDs"
+        ],
+        "explanation": "White LEDs are used in monochrome TV; an LED TV is an LCD TV with LED backlight."
+      },
+      "ta": {
+        "q": "வண்ண LED தொலைக்காட்சியில் எந்த LED-கள் பயன்படுகின்றன?",
+        "options": [
+          "வெள்ளை, ஊதா LED",
+          "மஞ்சள், ஆரஞ்சு LED",
+          "சிவப்பு, பச்சை, நீல LED",
+          "அகச்சிவப்பு, புற ஊதா LED"
+        ],
+        "explanation": "கருப்பு-வெள்ளைத் தொலைக்காட்சியில் வெள்ளை LED; LED தொலைக்காட்சி LED பின்னொளி கொண்ட LCD தொலைக்காட்சி."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 54,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 54,
       "quote": "Two bulbs are having the ratings as 60 W, 220 V and 40 W, 220 V respectively. Which one has a greater resistance? ... For the same value of V, R is inversely proportional to P. ... the bulb with 40 W, 220 V rating has a greater resistance.",
       "answer": "D",
-      "en": {"q": "Two bulbs are rated 60 W, 220 V and 40 W, 220 V. Which has the greater resistance?", "options": ["60 W bulb", "Both are equal", "Cannot be found", "40 W bulb"], "explanation": "P = V²/R; at the same V, lower power means higher resistance."},
-      "ta": {"q": "இரு மின்விளக்குகள் 60 W, 220 V மற்றும் 40 W, 220 V எனக் குறிக்கப்பட்டுள்ளன. எதன் மின்தடை அதிகம்?", "options": ["60 W விளக்கு", "இரண்டும் சமம்", "கண்டறிய இயலாது", "40 W விளக்கு"], "explanation": "P = V²/R; ஒரே V-இல் குறைந்த திறன் என்றால் அதிக மின்தடை."}
+      "en": {
+        "q": "Two bulbs are rated 60 W, 220 V and 40 W, 220 V. Which has the greater resistance?",
+        "options": [
+          "60 W bulb",
+          "Both are equal",
+          "Cannot be found",
+          "40 W bulb"
+        ],
+        "explanation": "P = V²/R; at the same V, lower power means higher resistance."
+      },
+      "ta": {
+        "q": "இரு மின்விளக்குகள் 60 W, 220 V மற்றும் 40 W, 220 V எனக் குறிக்கப்பட்டுள்ளன. எதன் மின்தடை அதிகம்?",
+        "options": [
+          "60 W விளக்கு",
+          "இரண்டும் சமம்",
+          "கண்டறிய இயலாது",
+          "40 W விளக்கு"
+        ],
+        "explanation": "P = V²/R; ஒரே V-இல் குறைந்த திறன் என்றால் அதிக மின்தடை."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 54,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 54,
       "quote": "Calculate the current and the resistance of a 100 W, 200 V electric bulb in an electric circuit. ... Current, I = 100/200 = 0.5 A ... Resistance, R = V/I = 400 Ω",
       "answer": "A",
-      "en": {"q": "The resistance of a 100 W, 200 V electric bulb is", "options": ["400 Ω", "2 Ω", "200 Ω", "20000 Ω"], "explanation": "I = P/V = 0.5 A, so R = V/I = 200/0.5 = 400 Ω."},
-      "ta": {"q": "100 W, 200 V மின்விளக்கின் மின்தடை என்ன?", "options": ["400 Ω", "2 Ω", "200 Ω", "20000 Ω"], "explanation": "I = P/V = 0.5 A; R = V/I = 200/0.5 = 400 Ω."}
+      "en": {
+        "q": "The resistance of a 100 W, 200 V electric bulb is",
+        "options": [
+          "400 Ω",
+          "2 Ω",
+          "200 Ω",
+          "20000 Ω"
+        ],
+        "explanation": "I = P/V = 0.5 A, so R = V/I = 200/0.5 = 400 Ω."
+      },
+      "ta": {
+        "q": "100 W, 200 V மின்விளக்கின் மின்தடை என்ன?",
+        "options": [
+          "400 Ω",
+          "2 Ω",
+          "200 Ω",
+          "20000 Ω"
+        ],
+        "explanation": "I = P/V = 0.5 A; R = V/I = 200/0.5 = 400 Ω."
+      }
     }
   ]
 }

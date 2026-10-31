@@ -4,319 +4,1309 @@
   "breadcrumb": "Std 10 Science (English) — Unit 21: Health and Diseases",
   "questions": [
     {
-      "topic": "social-justice-and-welfare-schemes", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 301,
+      "topic": "social-justice-and-welfare-schemes",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 301,
       "quote": "The Ministry of Women and Child Development championed the introduction of the Protection of Children from Sexual Offences (POCSO) Act, 2012.",
       "answer": "A",
-      "en": {"q": "The Protection of Children from Sexual Offences (POCSO) Act was enacted in", "options": ["2012", "2005", "2007", "2015"], "explanation": "It provides for special courts for speedy trial of such offences."},
-      "ta": {"q": "பாலியல் குற்றங்களிலிருந்து குழந்தைகளைப் பாதுகாக்கும் (போக்சோ) சட்டம் இயற்றப்பட்ட ஆண்டு எது?", "options": ["2012", "2005", "2007", "2015"], "explanation": "இத்தகைய குற்றங்களின் விரைவு விசாரணைக்குச் சிறப்பு நீதிமன்றங்களை வழங்குகிறது."}
+      "en": {
+        "q": "The Protection of Children from Sexual Offences (POCSO) Act was enacted in",
+        "options": [
+          "2012",
+          "2005",
+          "2007",
+          "2015"
+        ],
+        "explanation": "It provides for special courts for speedy trial of such offences."
+      },
+      "ta": {
+        "q": "பாலியல் குற்றங்களிலிருந்து குழந்தைகளைப் பாதுகாக்கும் (போக்சோ) சட்டம் இயற்றப்பட்ட ஆண்டு எது?",
+        "options": [
+          "2012",
+          "2005",
+          "2007",
+          "2015"
+        ],
+        "explanation": "இத்தகைய குற்றங்களின் விரைவு விசாரணைக்குச் சிறப்பு நீதிமன்றங்களை வழங்குகிறது."
+      }
     },
     {
-      "topic": "social-justice-and-welfare-schemes", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 301,
+      "topic": "social-justice-and-welfare-schemes",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 301,
       "quote": "Objectives of the POCSO Act, 2012 To protect children from the offences of Sexual assault Sexual harassment Pornography To establish Special Courts for speedy trial of such offences.",
       "answer": "B",
-      "en": {"q": "Which of the following is an objective of the POCSO Act, 2012?", "options": ["To ban child labour in factories", "To establish special courts for speedy trial of sexual offences against children", "To provide free education", "To regulate adoption"], "explanation": "It protects children from sexual assault, harassment and pornography."},
-      "ta": {"q": "போக்சோ சட்டம் 2012இன் நோக்கங்களில் ஒன்று எது?", "options": ["தொழிற்சாலைகளில் குழந்தைத் தொழிலாளரைத் தடை செய்தல்", "குழந்தைகளுக்கு எதிரான பாலியல் குற்றங்களை விரைந்து விசாரிக்கச் சிறப்பு நீதிமன்றங்கள் அமைத்தல்", "இலவசக் கல்வி வழங்குதல்", "தத்தெடுப்பை ஒழுங்குபடுத்துதல்"], "explanation": "பாலியல் தாக்குதல், தொந்தரவு, ஆபாசத்திலிருந்து குழந்தைகளைப் பாதுகாக்கிறது."}
+      "en": {
+        "q": "Which of the following is an objective of the POCSO Act, 2012?",
+        "options": [
+          "To ban the employment of children in factories",
+          "To set up special courts for child sexual offences",
+          "To provide free education up to Class 8",
+          "To regulate the adoption of children"
+        ],
+        "explanation": "It protects children from sexual assault, harassment and pornography."
+      },
+      "ta": {
+        "q": "போக்சோ சட்டம் 2012இன் நோக்கங்களில் ஒன்று எது?",
+        "options": [
+          "தொழிற்சாலைகளில் குழந்தைகளை வேலைக்கு அமர்த்துவதைத் தடை செய்தல்",
+          "குழந்தை பாலியல் குற்றங்களுக்குச் சிறப்பு நீதிமன்றம் அமைத்தல்",
+          "எட்டாம் வகுப்பு வரை இலவசக் கல்வி வழங்குதல்",
+          "குழந்தைகளைத் தத்தெடுப்பதை ஒழுங்குபடுத்துதல்"
+        ],
+        "explanation": "பாலியல் தாக்குதல், தொந்தரவு, ஆபாசத்திலிருந்து குழந்தைகளைப் பாதுகாக்கிறது."
+      }
     },
     {
-      "topic": "social-justice-and-welfare-schemes", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 302,
+      "topic": "social-justice-and-welfare-schemes",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 302,
       "quote": "CHILD HELPLINE 1098",
       "answer": "C",
-      "en": {"q": "The Child Helpline number in India is", "options": ["100", "108", "1098", "181"], "explanation": "It provides a social worker who can assist a child with food, shelter and protection."},
-      "ta": {"q": "இந்தியாவில் குழந்தைகள் உதவி எண் எது?", "options": ["100", "108", "1098", "181"], "explanation": "உணவு, உறைவிடம், பாதுகாப்பு வழங்க உதவும் சமூகப் பணியாளரை இது வழங்குகிறது."}
+      "en": {
+        "q": "The Child Helpline number in India is",
+        "options": [
+          "100",
+          "108",
+          "1098",
+          "181"
+        ],
+        "explanation": "It provides a social worker who can assist a child with food, shelter and protection."
+      },
+      "ta": {
+        "q": "இந்தியாவில் குழந்தைகள் உதவி எண் எது?",
+        "options": [
+          "100",
+          "108",
+          "1098",
+          "181"
+        ],
+        "explanation": "உணவு, உறைவிடம், பாதுகாப்பு வழங்க உதவும் சமூகப் பணியாளரை இது வழங்குகிறது."
+      }
     },
     {
-      "topic": "social-justice-and-welfare-schemes", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 302,
+      "topic": "social-justice-and-welfare-schemes",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 302,
       "quote": "The National Commission for Protection of Child Rights (NCPCR) was set up in March 2007 under the Commissions for Protection of Child Rights (CPCR) Act, 2005.",
       "answer": "D",
-      "en": {"q": "The National Commission for Protection of Child Rights (NCPCR) was set up in March 2007 under the CPCR Act of", "options": ["2012", "2000", "2009", "2005"], "explanation": "It protects children of all age groups up to 18 years."},
-      "ta": {"q": "தேசியக் குழந்தை உரிமைகள் பாதுகாப்பு ஆணையம் (NCPCR) மார்ச் 2007இல் எந்த ஆண்டின் CPCR சட்டத்தின் கீழ் அமைக்கப்பட்டது?", "options": ["2012", "2000", "2009", "2005"], "explanation": "இது 18 வயது வரையிலான அனைத்துக் குழந்தைகளையும் பாதுகாக்கிறது."}
+      "en": {
+        "q": "The National Commission for Protection of Child Rights (NCPCR) was set up in March 2007 under the CPCR Act of",
+        "options": [
+          "2012",
+          "2000",
+          "2009",
+          "2005"
+        ],
+        "explanation": "It protects children of all age groups up to 18 years."
+      },
+      "ta": {
+        "q": "தேசியக் குழந்தை உரிமைகள் பாதுகாப்பு ஆணையம் (NCPCR) மார்ச் 2007இல் எந்த ஆண்டின் CPCR சட்டத்தின் கீழ் அமைக்கப்பட்டது?",
+        "options": [
+          "2012",
+          "2000",
+          "2009",
+          "2005"
+        ],
+        "explanation": "இது 18 வயது வரையிலான அனைத்துக் குழந்தைகளையும் பாதுகாக்கிறது."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 302,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 302,
       "quote": "The physical and mental dependency on alcohol, smoking and drugs is called addiction.",
       "answer": "A",
-      "en": {"q": "The physical and mental dependency on alcohol, smoking and drugs is called", "options": ["addiction", "detoxification", "rehabilitation", "tolerance"], "explanation": "Addiction pulls an individual into a vicious cycle of regular abuse."},
-      "ta": {"q": "மது, புகைபிடித்தல், போதைப்பொருள்கள் மீதான உடல், மனச் சார்பு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["அடிமையாதல்", "நச்சுநீக்கம்", "மறுவாழ்வு", "தாங்குதிறன்"], "explanation": "அடிமையாதல் ஒருவரைத் தொடர் தவறான பயன்பாட்டுச் சுழலில் இழுக்கிறது."}
+      "en": {
+        "q": "The physical and mental dependency on alcohol, smoking and drugs is called",
+        "options": [
+          "addiction",
+          "detoxification",
+          "rehabilitation",
+          "tolerance"
+        ],
+        "explanation": "Addiction pulls an individual into a vicious cycle of regular abuse."
+      },
+      "ta": {
+        "q": "மது, புகைபிடித்தல், போதைப்பொருள்கள் மீதான உடல், மனச் சார்பு எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "அடிமையாதல்",
+          "நச்சுநீக்கம்",
+          "மறுவாழ்வு",
+          "தாங்குதிறன்"
+        ],
+        "explanation": "அடிமையாதல் ஒருவரைத் தொடர் தவறான பயன்பாட்டுச் சுழலில் இழுக்கிறது."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 303,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 303,
       "quote": "There are certain drugs called psychotropic drugs which acts on the brain and alter the behaviour, consciousness, power of thinking and perception. They are referred as mood altering drugs.",
       "answer": "B",
-      "en": {"q": "Drugs that act on the brain and alter behaviour, consciousness and perception are called", "options": ["antibiotics", "psychotropic drugs", "vaccines", "antacids"], "explanation": "They are also called mood-altering drugs."},
-      "ta": {"q": "மூளையில் செயல்பட்டு நடத்தை, உணர்வுநிலை, புலனுணர்வை மாற்றும் மருந்துகள் எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["நுண்ணுயிர்க்கொல்லிகள்", "மனநிலை மாற்று மருந்துகள் (சைக்கோட்ரோபிக்)", "தடுப்பூசிகள்", "அமில நீக்கிகள்"], "explanation": "இவை மனநிலை மாற்றும் மருந்துகள் எனவும் அழைக்கப்படும்."}
+      "en": {
+        "q": "Drugs that act on the brain and alter behaviour, consciousness and perception are called",
+        "options": [
+          "antibiotic drugs",
+          "psychotropic drugs",
+          "vaccines for diseases",
+          "antacid tablets"
+        ],
+        "explanation": "They are also called mood-altering drugs."
+      },
+      "ta": {
+        "q": "மூளையில் செயல்பட்டு நடத்தை, உணர்வுநிலை, புலனுணர்வை மாற்றும் மருந்துகள் எவ்வாறு அழைக்கப்படுகின்றன?",
+        "options": [
+          "நுண்ணுயிர்க்கொல்லிகள்",
+          "மனநிலை மாற்று மருந்துகள்",
+          "தடுப்பூசிகள்",
+          "அமில நீக்கிகள்"
+        ],
+        "explanation": "இவை மனநிலை மாற்றும் மருந்துகள் எனவும் அழைக்கப்படும்."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 303,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 303,
       "quote": "International Day against Drug Abuse and Illicit Trafficking - June 26. Narcotic Drugs and Psychotropic Substances Act was introduced in 1985.",
       "answer": "C",
-      "en": {"q": "The International Day against Drug Abuse and Illicit Trafficking is observed on", "options": ["May 31", "December 1", "June 26", "February 4"], "explanation": "The NDPS Act was introduced in India in 1985."},
-      "ta": {"q": "போதைப்பொருள் தவறான பயன்பாடு, சட்டவிரோதக் கடத்தலுக்கு எதிரான பன்னாட்டு நாள் எப்போது கடைப்பிடிக்கப்படுகிறது?", "options": ["மே 31", "டிசம்பர் 1", "ஜூன் 26", "பிப்ரவரி 4"], "explanation": "இந்தியாவில் NDPS சட்டம் 1985இல் அறிமுகமானது."}
+      "en": {
+        "q": "The International Day against Drug Abuse and Illicit Trafficking is observed on",
+        "options": [
+          "May 31",
+          "December 1",
+          "June 26",
+          "February 4"
+        ],
+        "explanation": "The NDPS Act was introduced in India in 1985."
+      },
+      "ta": {
+        "q": "போதைப்பொருள் தவறான பயன்பாடு, சட்டவிரோதக் கடத்தலுக்கு எதிரான பன்னாட்டு நாள் எப்போது கடைப்பிடிக்கப்படுகிறது?",
+        "options": [
+          "மே 31",
+          "டிசம்பர் 1",
+          "ஜூன் 26",
+          "பிப்ரவரி 4"
+        ],
+        "explanation": "இந்தியாவில் NDPS சட்டம் 1985இல் அறிமுகமானது."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 303,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 303,
       "quote": "Narcotic Drugs and Psychotropic Substances Act was introduced in 1985.",
       "answer": "D",
-      "en": {"q": "The Narcotic Drugs and Psychotropic Substances (NDPS) Act was introduced in", "options": ["1975", "1995", "2005", "1985"], "explanation": "June 26 is the International Day against Drug Abuse."},
-      "ta": {"q": "போதை மருந்துகள், மனநிலை மாற்றுப் பொருள்கள் (NDPS) சட்டம் அறிமுகமான ஆண்டு எது?", "options": ["1975", "1995", "2005", "1985"], "explanation": "ஜூன் 26 போதைப்பொருள் எதிர்ப்புப் பன்னாட்டு நாள்."}
+      "en": {
+        "q": "The Narcotic Drugs and Psychotropic Substances (NDPS) Act was introduced in",
+        "options": [
+          "1975",
+          "1995",
+          "2005",
+          "1985"
+        ],
+        "explanation": "June 26 is the International Day against Drug Abuse."
+      },
+      "ta": {
+        "q": "போதை மருந்துகள், மனநிலை மாற்றுப் பொருள்கள் (NDPS) சட்டம் அறிமுகமான ஆண்டு எது?",
+        "options": [
+          "1975",
+          "1995",
+          "2005",
+          "1985"
+        ],
+        "explanation": "ஜூன் 26 போதைப்பொருள் எதிர்ப்புப் பன்னாட்டு நாள்."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 303,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 303,
       "quote": "World Health Organization (WHO) 1984 suggested the use of the term drug dependence in place of drug addiction or drug abuse",
       "answer": "A",
-      "en": {"q": "In 1964 WHO suggested using which term in place of 'drug addiction' and 'drug habituation'?", "options": ["Drug dependence", "Drug tolerance", "Drug therapy", "Drug resistance"], "explanation": "The WHO Expert Committee recommended 'drug dependence' in 1964 to replace both 'drug addiction' and 'drug habituation' (the book gives the year as 1984). Dependence can be physical, mental or psychological."},
-      "ta": {"q": "1964இல் உலக சுகாதார அமைப்பு 'போதை அடிமைத்தனம்', 'போதைப் பழக்கம்' என்பவற்றுக்குப் பதில் எந்தச் சொல்லைப் பயன்படுத்தப் பரிந்துரைத்தது?", "options": ["போதைச் சார்பு", "போதைத் தாங்குதிறன்", "போதைச் சிகிச்சை", "போதை எதிர்ப்பு"], "explanation": "1964இல் WHO வல்லுநர் குழு 'போதை அடிமைத்தனம்', 'போதைப் பழக்கம்' ஆகிய இரண்டுக்கும் பதிலாக 'போதைச் சார்பு' என்ற சொல்லைப் பரிந்துரைத்தது (நூலில் 1984 எனத் தவறாக உள்ளது). சார்பு உடல், மன அல்லது உளவியல் ரீதியாக இருக்கலாம்."}
+      "en": {
+        "q": "In 1964 WHO suggested using which term in place of 'drug addiction' and 'drug habituation'?",
+        "options": [
+          "Drug dependence",
+          "Drug tolerance",
+          "Drug therapy",
+          "Drug resistance"
+        ],
+        "explanation": "The WHO Expert Committee recommended 'drug dependence' in 1964 to replace both 'drug addiction' and 'drug habituation' (the book gives the year as 1984). Dependence can be physical, mental or psychological."
+      },
+      "ta": {
+        "q": "1964இல் உலக சுகாதார அமைப்பு 'போதை அடிமைத்தனம்', 'போதைப் பழக்கம்' என்பவற்றுக்குப் பதில் எந்தச் சொல்லைப் பயன்படுத்தப் பரிந்துரைத்தது?",
+        "options": [
+          "போதைச் சார்பு",
+          "போதைத் தாங்குதிறன்",
+          "போதைச் சிகிச்சை",
+          "போதை எதிர்ப்பு"
+        ],
+        "explanation": "1964இல் WHO வல்லுநர் குழு 'போதை அடிமைத்தனம்', 'போதைப் பழக்கம்' ஆகிய இரண்டுக்கும் பதிலாக 'போதைச் சார்பு' என்ற சொல்லைப் பரிந்துரைத்தது (நூலில் 1984 எனத் தவறாக உள்ளது). சார்பு உடல், மன அல்லது உளவியல் ரீதியாக இருக்கலாம்."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 303,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 303,
       "quote": "Detoxification: The first phase of treatment is detoxification. The drug is stopped gradually and the addict is helped to overcome the withdrawal symptoms.",
       "answer": "B",
-      "en": {"q": "The first phase of drug de-addiction treatment is", "options": ["rehabilitation", "detoxification", "psychotherapy", "family counselling"], "explanation": "The drug is stopped gradually and withdrawal symptoms are managed."},
-      "ta": {"q": "போதை மீட்புச் சிகிச்சையின் முதல் நிலை எது?", "options": ["மறுவாழ்வு", "நச்சுநீக்கம்", "உளச் சிகிச்சை", "குடும்ப ஆலோசனை"], "explanation": "மருந்து படிப்படியாக நிறுத்தப்பட்டு விலகல் அறிகுறிகள் சமாளிக்கப்படுகின்றன."}
+      "en": {
+        "q": "The first phase of drug de-addiction treatment is",
+        "options": [
+          "rehabilitation",
+          "detoxification",
+          "psychotherapy",
+          "family counselling"
+        ],
+        "explanation": "The drug is stopped gradually and withdrawal symptoms are managed."
+      },
+      "ta": {
+        "q": "போதை மீட்புச் சிகிச்சையின் முதல் நிலை எது?",
+        "options": [
+          "மறுவாழ்வு",
+          "நச்சுநீக்கம்",
+          "உளச் சிகிச்சை",
+          "குடும்ப ஆலோசனை"
+        ],
+        "explanation": "மருந்து படிப்படியாக நிறுத்தப்பட்டு விலகல் அறிகுறிகள் சமாளிக்கப்படுகின்றன."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 304,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 304,
       "quote": "Addiction to tobacco is due to 'nicotine' an alkaloid present in it. Nicotine is a stimulant, highly harmful and poisonous substance.",
       "answer": "C",
-      "en": {"q": "Addiction to tobacco is due to the alkaloid", "options": ["caffeine", "morphine", "nicotine", "tannin"], "explanation": "Nicotine is a highly harmful and poisonous stimulant."},
-      "ta": {"q": "புகையிலைக்கு அடிமையாவது எந்த ஆல்கலாய்டால்?", "options": ["காஃபின்", "மார்ஃபின்", "நிக்கோட்டின்", "டானின்"], "explanation": "நிக்கோட்டின் மிகத் தீங்கான, நச்சுத் தூண்டி."}
+      "en": {
+        "q": "Addiction to tobacco is due to the alkaloid",
+        "options": [
+          "caffeine",
+          "morphine",
+          "nicotine",
+          "tannin"
+        ],
+        "explanation": "Nicotine is a highly harmful and poisonous stimulant."
+      },
+      "ta": {
+        "q": "புகையிலைக்கு அடிமையாவது எந்த ஆல்கலாய்டால்?",
+        "options": [
+          "காஃபின்",
+          "மார்ஃபின்",
+          "நிக்கோட்டின்",
+          "டானின்"
+        ],
+        "explanation": "நிக்கோட்டின் மிகத் தீங்கான, நச்சுத் தூண்டி."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 304,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 304,
       "quote": "Tobacco is obtained from the tobacco plant Nicotiana tobaccum and Nicotiana rustica.",
       "answer": "D",
-      "en": {"q": "Commercial tobacco is obtained from the plants", "options": ["Cannabis sativa", "Papaver somniferum", "Erythroxylum coca", "Nicotiana tabacum and Nicotiana rustica"], "explanation": "Dried and cured leaves are used."},
-      "ta": {"q": "வணிகப் புகையிலை எந்தத் தாவரங்களிலிருந்து பெறப்படுகிறது?", "options": ["கஞ்சா சாட்டிவா", "பப்பாவர் சோம்னிஃபெரம்", "எரித்ராக்சைலம் கோகா", "நிக்கோட்டியானா டபாகம், நிக்கோட்டியானா ரஸ்டிகா"], "explanation": "உலர்த்திப் பதப்படுத்திய இலைகள் பயன்படுகின்றன."}
+      "en": {
+        "q": "Commercial tobacco is obtained from the plants",
+        "options": [
+          "Cannabis sativa and C. indica",
+          "Papaver somniferum and P. setigerum",
+          "Erythroxylum coca and E. novogranatense",
+          "Nicotiana tabacum and N. rustica"
+        ],
+        "explanation": "Dried and cured leaves are used."
+      },
+      "ta": {
+        "q": "வணிகப் புகையிலை எந்தத் தாவரங்களிலிருந்து பெறப்படுகிறது?",
+        "options": [
+          "கஞ்சா சாட்டிவா, கஞ்சா இண்டிகா",
+          "பப்பாவர் சோம்னிஃபெரம், பப்பாவர் செட்டிஜெரம்",
+          "எரித்ராக்சைலம் கோகா, எ. நோவோகிரானடென்ஸ்",
+          "நிக்கோட்டியானா டபாகம், நி. ரஸ்டிகா"
+        ],
+        "explanation": "உலர்த்திப் பதப்படுத்திய இலைகள் பயன்படுகின்றன."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 304,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 304,
       "quote": "When powdered tobacco is taken through nose, it is called snuffing.",
       "answer": "A",
-      "en": {"q": "Taking powdered tobacco through the nose is called", "options": ["snuffing", "smoking", "chewing", "inhaling"], "explanation": "Tobacco is used for smoking, chewing and snuffing."},
-      "ta": {"q": "தூள் புகையிலையை மூக்கு வழியே உள்ளிழுப்பது எவ்வாறு அழைக்கப்படுகிறது?", "options": ["மூக்குப்பொடி போடுதல்", "புகைபிடித்தல்", "மெல்லுதல்", "உள்ளிழுத்தல்"], "explanation": "புகையிலை புகைக்கவும் மெல்லவும் மூக்குப்பொடியாகவும் பயன்படுகிறது."}
+      "en": {
+        "q": "Taking powdered tobacco through the nose is called",
+        "options": [
+          "snuffing",
+          "smoking",
+          "chewing",
+          "swallowing"
+        ],
+        "explanation": "Tobacco is used for smoking, chewing and snuffing."
+      },
+      "ta": {
+        "q": "தூள் புகையிலையை மூக்கு வழியே உள்ளிழுப்பது எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "மூக்குப்பொடி போடுதல்",
+          "புகைபிடித்து வெளியிடுதல்",
+          "வாயில் வைத்து மெல்லுதல்",
+          "விழுங்கி உட்கொள்ளுதல்"
+        ],
+        "explanation": "புகையிலை புகைக்கவும் மெல்லவும் மூக்குப்பொடியாகவும் பயன்படுகிறது."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 304,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 304,
       "quote": "Benzopyrene and polycyclic hydrocarbons present in tobacco smoke is carcinogenic causing lung cancer.",
       "answer": "B",
-      "en": {"q": "Which substances in tobacco smoke are carcinogenic and cause lung cancer?", "options": ["Nicotine and caffeine", "Benzopyrene and polycyclic hydrocarbons", "Carbon dioxide and water", "Tannin and curcumin"], "explanation": "Carbon monoxide in smoke reduces oxygen-carrying capacity of blood."},
-      "ta": {"q": "புகையிலைப் புகையில் உள்ள எப்பொருள்கள் புற்றுநோய் உண்டாக்கி நுரையீரல் புற்றுநோயை ஏற்படுத்துகின்றன?", "options": ["நிக்கோட்டின், காஃபின்", "பென்சோபைரீன், பல்வளைய ஹைட்ரோகார்பன்கள்", "கார்பன் டைஆக்சைடு, நீர்", "டானின், குர்குமின்"], "explanation": "புகையிலுள்ள கார்பன் மோனாக்சைடு இரத்தத்தின் ஆக்சிஜன் கடத்தும் திறனைக் குறைக்கிறது."}
+      "en": {
+        "q": "Which substances in tobacco smoke are carcinogenic and cause lung cancer?",
+        "options": [
+          "Nicotine and caffeine alkaloids",
+          "Benzopyrene and polycyclic compounds",
+          "Carbon dioxide and water vapour",
+          "Tannin and curcumin pigments"
+        ],
+        "explanation": "Carbon monoxide in smoke reduces oxygen-carrying capacity of blood."
+      },
+      "ta": {
+        "q": "புகையிலைப் புகையில் உள்ள எப்பொருள்கள் புற்றுநோய் உண்டாக்கி நுரையீரல் புற்றுநோயை ஏற்படுத்துகின்றன?",
+        "options": [
+          "நிக்கோட்டின், காஃபின் ஆல்கலாய்டுகள்",
+          "பென்சோபைரீன், பல்வளைய சேர்மங்கள்",
+          "கார்பன் டைஆக்சைடு, நீர் ஆவி",
+          "டானின், குர்குமின் நிறமிகள்"
+        ],
+        "explanation": "புகையிலுள்ள கார்பன் மோனாக்சைடு இரத்தத்தின் ஆக்சிஜன் கடத்தும் திறனைக் குறைக்கிறது."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 304,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 304,
       "quote": "Carbon monoxide of tobacco smoke binds to haemoglobin of RBC and decreases its oxygen carrying capacity causing hypoxia in body tissues.",
       "answer": "C",
-      "en": {"q": "Smoking causes hypoxia in body tissues because carbon monoxide in tobacco smoke", "options": ["dissolves RBCs", "increases gastric secretion", "binds to haemoglobin and reduces its oxygen-carrying capacity", "dilates blood vessels"], "explanation": "Hypoxia is a deficiency of oxygen in tissues."},
-      "ta": {"q": "புகைபிடித்தல் திசுக்களில் ஆக்சிஜன் பற்றாக்குறையை ஏற்படுத்துவது ஏன்?", "options": ["சிவப்பணுக்களைக் கரைப்பதால்", "இரைப்பைச் சுரப்பை அதிகரிப்பதால்", "கார்பன் மோனாக்சைடு ஹீமோகுளோபினுடன் இணைந்து ஆக்சிஜன் கடத்தும் திறனைக் குறைப்பதால்", "இரத்தக்குழாய்களை விரிவடையச் செய்வதால்"], "explanation": "திசுக்களில் ஆக்சிஜன் குறைவு ஹைப்பாக்சியா."}
+      "en": {
+        "q": "Smoking causes hypoxia in body tissues because carbon monoxide in tobacco smoke",
+        "options": [
+          "dissolves the red blood cells",
+          "increases the gastric secretions",
+          "binds to haemoglobin and blocks oxygen",
+          "dilates the walls of blood vessels"
+        ],
+        "explanation": "Hypoxia is a deficiency of oxygen in tissues."
+      },
+      "ta": {
+        "q": "புகைபிடித்தல் திசுக்களில் ஆக்சிஜன் பற்றாக்குறையை ஏற்படுத்துவது ஏன்?",
+        "options": [
+          "சிவப்பணுக்களைக் கரைத்து அழிப்பதால்",
+          "இரைப்பைச் சுரப்புகளை மிகுதியாக்குவதால்",
+          "ஹீமோகுளோபினுடன் இணைந்து ஆக்சிஜனைத் தடுப்பதால்",
+          "இரத்தக்குழாய்களின் சுவரை விரிவடையச் செய்வதால்"
+        ],
+        "explanation": "திசுக்களில் ஆக்சிஜன் குறைவு ஹைப்பாக்சியா."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 304,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 304,
       "quote": "May 31st is observed as No Tobacco Day (World Anti-Tobacco Day)",
       "answer": "D",
-      "en": {"q": "World No Tobacco Day is observed on", "options": ["June 6", "April 22", "October 2", "May 31"], "explanation": "Cigarette packs carry the warning 'Smoking is injurious to Health'."},
-      "ta": {"q": "உலகப் புகையிலை எதிர்ப்பு நாள் எப்போது கடைப்பிடிக்கப்படுகிறது?", "options": ["ஜூன் 6", "ஏப்ரல் 22", "அக்டோபர் 2", "மே 31"], "explanation": "சிகரெட் பெட்டிகளில் 'புகைபிடித்தல் உடல்நலத்திற்குத் தீங்கானது' என எச்சரிக்கை உள்ளது."}
+      "en": {
+        "q": "World No Tobacco Day is observed on",
+        "options": [
+          "June 6",
+          "April 22",
+          "October 2",
+          "May 31"
+        ],
+        "explanation": "Cigarette packs carry the warning 'Smoking is injurious to Health'."
+      },
+      "ta": {
+        "q": "உலகப் புகையிலை எதிர்ப்பு நாள் எப்போது கடைப்பிடிக்கப்படுகிறது?",
+        "options": [
+          "ஜூன் 6",
+          "ஏப்ரல் 22",
+          "அக்டோபர் 2",
+          "மே 31"
+        ],
+        "explanation": "சிகரெட் பெட்டிகளில் 'புகைபிடித்தல் உடல்நலத்திற்குத் தீங்கானது' என எச்சரிக்கை உள்ளது."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 305,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 305,
       "quote": "Liver damage resulting in fatty liver which leads to cirrhosis and formation of fibrous tissues",
       "answer": "A",
-      "en": {"q": "Excessive consumption of alcohol leads to", "options": ["cirrhosis of liver", "diabetes insipidus", "goitre", "rickets"], "explanation": "Fatty liver leads to cirrhosis and formation of fibrous tissue."},
-      "ta": {"q": "அதிக மது அருந்துதல் எதற்கு வழிவகுக்கும்?", "options": ["கல்லீரல் சுருக்க நோய் (சிரோசிஸ்)", "டயாபடீஸ் இன்சிபிடஸ்", "முன்கழுத்துக் கழலை", "ரிக்கெட்ஸ்"], "explanation": "கொழுப்புக் கல்லீரல் சிரோசிஸுக்கும் நார்த்திசு உருவாக்கத்திற்கும் வழிவகுக்கும்."}
+      "en": {
+        "q": "Excessive consumption of alcohol leads to",
+        "options": [
+          "cirrhosis of liver",
+          "diabetes insipidus",
+          "goitre",
+          "rickets"
+        ],
+        "explanation": "Fatty liver leads to cirrhosis and formation of fibrous tissue."
+      },
+      "ta": {
+        "q": "அதிக மது அருந்துதல் எதற்கு வழிவகுக்கும்?",
+        "options": [
+          "கல்லீரல் சுருக்க நோய்",
+          "டயாபடீஸ் இன்சிபிடஸ்",
+          "முன்கழுத்துக் கழலை",
+          "ரிக்கெட்ஸ்"
+        ],
+        "explanation": "கொழுப்புக் கல்லீரல் சிரோசிஸுக்கும் நார்த்திசு உருவாக்கத்திற்கும் வழிவகுக்கும்."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 305,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 305,
       "quote": "Prolonged use of alcohol depresses the nervous system, by acting as a sedative and analgesic substance.",
       "answer": "B",
-      "en": {"q": "Alcohol immediately affects the", "options": ["eyes", "central nervous system", "liver", "auditory region"], "explanation": "It acts as a sedative and depresses the nervous system."},
-      "ta": {"q": "மது அருந்தியவுடன் உடனடியாக எதைப் பாதிக்கிறது?", "options": ["கண்கள்", "மைய நரம்பு மண்டலம்", "கல்லீரல்", "கேட்டல் பகுதி"], "explanation": "இது மயக்கமூட்டியாகச் செயல்பட்டு நரம்பு மண்டலத்தை மந்தமாக்குகிறது."}
+      "en": {
+        "q": "Alcohol immediately affects the",
+        "options": [
+          "eyes and optic nerves",
+          "central nervous system",
+          "liver and bile ducts",
+          "auditory region of the ear"
+        ],
+        "explanation": "It acts as a sedative and depresses the nervous system."
+      },
+      "ta": {
+        "q": "மது அருந்தியவுடன் உடனடியாக எதைப் பாதிக்கிறது?",
+        "options": [
+          "கண்களும் பார்வை நரம்புகளும்",
+          "மைய நரம்பு மண்டலம்",
+          "கல்லீரலும் பித்தநாளங்களும்",
+          "காதின் கேட்டல் பகுதி"
+        ],
+        "explanation": "இது மயக்கமூட்டியாகச் செயல்பட்டு நரம்பு மண்டலத்தை மந்தமாக்குகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 305,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 305,
       "quote": "Diabetes mellitus is a chronic metabolic disorder. In Greek (Diabetes – running through; mellitus- sweet).",
       "answer": "C",
-      "en": {"q": "In Greek, 'mellitus' in diabetes mellitus means", "options": ["running through", "salty", "sweet", "thirst"], "explanation": "'Diabetes' means 'running through'."},
-      "ta": {"q": "கிரேக்க மொழியில் 'டயாபடீஸ் மெல்லிடஸ்' இல் 'மெல்லிடஸ்' என்பதன் பொருள் என்ன?", "options": ["கடந்து ஓடுதல்", "உப்பு", "இனிப்பு", "தாகம்"], "explanation": "'டயாபடீஸ்' என்றால் 'கடந்து ஓடுதல்'."}
+      "en": {
+        "q": "In Greek, 'mellitus' in diabetes mellitus means",
+        "options": [
+          "running through",
+          "salty",
+          "sweet",
+          "thirst"
+        ],
+        "explanation": "'Diabetes' means 'running through'."
+      },
+      "ta": {
+        "q": "கிரேக்க மொழியில் 'டயாபடீஸ் மெல்லிடஸ்' இல் 'மெல்லிடஸ்' என்பதன் பொருள் என்ன?",
+        "options": [
+          "கடந்து ஓடுதல்",
+          "உப்பு",
+          "இனிப்பு",
+          "தாகம்"
+        ],
+        "explanation": "'டயாபடீஸ்' என்றால் 'கடந்து ஓடுதல்'."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 306,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 306,
       "quote": "IDDM accounts for 10 to 20% of the known diabetics. The condition also occurs in children (juvenile onset diabetes) ... This is caused by the destruction of β-cells of the pancreas.",
       "answer": "D",
-      "en": {"q": "Type-1 (insulin dependent) diabetes mellitus is caused by", "options": ["target cells not responding to insulin", "excess insulin", "deficiency of ADH", "destruction of β-cells of the pancreas"], "explanation": "It accounts for 10–20% of diabetics and often begins in childhood."},
-      "ta": {"q": "வகை-1 (இன்சுலின் சார்ந்த) நீரிழிவு எதனால் ஏற்படுகிறது?", "options": ["இலக்குச் செல்கள் இன்சுலினுக்குத் துலங்காமை", "அதிக இன்சுலின்", "ADH குறைவு", "கணையத்தின் β-செல்கள் அழிதல்"], "explanation": "இது நீரிழிவாளர்களில் 10–20%; பெரும்பாலும் குழந்தைப் பருவத்தில் தொடங்கும்."}
+      "en": {
+        "q": "Type-1 (insulin dependent) diabetes mellitus is caused by",
+        "options": [
+          "target cells not responding to insulin",
+          "excess insulin",
+          "deficiency of ADH",
+          "destruction of β-cells of the pancreas"
+        ],
+        "explanation": "It accounts for 10–20% of diabetics and often begins in childhood."
+      },
+      "ta": {
+        "q": "வகை-1 (இன்சுலின் சார்ந்த) நீரிழிவு எதனால் ஏற்படுகிறது?",
+        "options": [
+          "இலக்குச் செல்கள் இன்சுலினுக்குத் துலங்காமை",
+          "அதிக இன்சுலின்",
+          "ADH குறைவு",
+          "கணையத்தின் β-செல்கள் அழிதல்"
+        ],
+        "explanation": "இது நீரிழிவாளர்களில் 10–20%; பெரும்பாலும் குழந்தைப் பருவத்தில் தொடங்கும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 306,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 306,
       "quote": "Type-2 Non-Insulin Dependent Diabetes Mellitus (NIDDM) This is also called as adult onset diabetes and accounting for 80 to 90% of the diabetic population. ... Insulin production by the pancreas is normal but its action is impaired. The target cells do not respond to insulin.",
       "answer": "A",
-      "en": {"q": "Insulin resistance, where target cells do not respond to insulin, is seen in", "options": ["Type-2 diabetes mellitus", "Type-1 diabetes mellitus", "diabetes insipidus", "obesity only"], "explanation": "Type-2 is adult-onset and accounts for 80–90% of diabetics."},
-      "ta": {"q": "இலக்குச் செல்கள் இன்சுலினுக்குத் துலங்காத இன்சுலின் எதிர்ப்பு எதில் காணப்படுகிறது?", "options": ["வகை-2 நீரிழிவு", "வகை-1 நீரிழிவு", "டயாபடீஸ் இன்சிபிடஸ்", "உடற்பருமன் மட்டும்"], "explanation": "வகை-2 வயதுவந்தோர் நீரிழிவு; நீரிழிவாளர்களில் 80–90%."}
+      "en": {
+        "q": "Insulin resistance, where target cells do not respond to insulin, is seen in",
+        "options": [
+          "Type-2 diabetes mellitus",
+          "Type-1 diabetes mellitus",
+          "diabetes insipidus",
+          "obesity only"
+        ],
+        "explanation": "Type-2 is adult-onset and accounts for 80–90% of diabetics."
+      },
+      "ta": {
+        "q": "இலக்குச் செல்கள் இன்சுலினுக்குத் துலங்காத இன்சுலின் எதிர்ப்பு எதில் காணப்படுகிறது?",
+        "options": [
+          "வகை-2 நீரிழிவு",
+          "வகை-1 நீரிழிவு",
+          "டயாபடீஸ் இன்சிபிடஸ்",
+          "உடற்பருமன் மட்டும்"
+        ],
+        "explanation": "வகை-2 வயதுவந்தோர் நீரிழிவு; நீரிழிவாளர்களில் 80–90%."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 307,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 307,
       "quote": "Age of onset Juvenile onset (< 20 years) Maturity onset (>30 years) Body weight Normal or Underweight Obese ... Treatment Insulin administration is necessary / Can be controlled by diet, exercise and medicine",
       "answer": "B",
-      "en": {"q": "Which statement about Type-2 diabetes mellitus is correct?", "options": ["Insulin administration is always necessary", "It can be controlled by diet, exercise and medicine", "It occurs mainly before 20 years of age", "Patients are usually underweight"], "explanation": "Type-1 requires insulin and usually affects normal or underweight young people."},
-      "ta": {"q": "வகை-2 நீரிழிவு குறித்த சரியான கூற்று எது?", "options": ["இன்சுலின் எப்போதும் அவசியம்", "உணவு, உடற்பயிற்சி, மருந்தால் கட்டுப்படுத்தலாம்", "முக்கியமாக 20 வயதுக்கு முன் ஏற்படும்", "நோயாளிகள் பொதுவாக எடை குறைந்தவர்கள்"], "explanation": "வகை-1க்கு இன்சுலின் அவசியம்; பொதுவாக இயல்பு அல்லது குறைந்த எடையுள்ள இளையோரைப் பாதிக்கும்."}
+      "en": {
+        "q": "Which statement about Type-2 diabetes mellitus is correct?",
+        "options": [
+          "Insulin administration is always necessary",
+          "It can be controlled by diet, exercise and medicine",
+          "It occurs mainly before 20 years of age",
+          "Patients are usually underweight"
+        ],
+        "explanation": "Type-1 requires insulin and usually affects normal or underweight young people."
+      },
+      "ta": {
+        "q": "வகை-2 நீரிழிவு குறித்த சரியான கூற்று எது?",
+        "options": [
+          "இன்சுலின் எப்போதும் அவசியம்",
+          "உணவு, உடற்பயிற்சி, மருந்தால் கட்டுப்படுத்தலாம்",
+          "முக்கியமாக 20 வயதுக்கு முன் ஏற்படும்",
+          "நோயாளிகள் பொதுவாக எடை குறைந்தவர்கள்"
+        ],
+        "explanation": "வகை-1க்கு இன்சுலின் அவசியம்; பொதுவாக இயல்பு அல்லது குறைந்த எடையுள்ள இளையோரைப் பாதிக்கும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 306,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 306,
       "quote": "Excess hunger (Polyphagia) due to loss of glucose in urine.",
       "answer": "C",
-      "en": {"q": "Polyphagia (excess hunger) is a condition seen in", "options": ["obesity", "AIDS", "diabetes mellitus", "diabetes insipidus"], "explanation": "It results from loss of glucose in urine."},
-      "ta": {"q": "பாலிஃபேஜியா (அதிகப் பசி) எந்த நிலையில் காணப்படுகிறது?", "options": ["உடற்பருமன்", "எய்ட்ஸ்", "நீரிழிவு (டயாபடீஸ் மெல்லிடஸ்)", "டயாபடீஸ் இன்சிபிடஸ்"], "explanation": "சிறுநீரில் குளுக்கோஸ் இழப்பால் ஏற்படுகிறது."}
+      "en": {
+        "q": "Polyphagia (excess hunger) is a condition seen in",
+        "options": [
+          "obesity",
+          "AIDS",
+          "diabetes mellitus",
+          "diabetes insipidus"
+        ],
+        "explanation": "It results from loss of glucose in urine."
+      },
+      "ta": {
+        "q": "பாலிஃபேஜியா (அதிகப் பசி) எந்த நிலையில் காணப்படுகிறது?",
+        "options": [
+          "உடற்பருமன்",
+          "எய்ட்ஸ்",
+          "டயாபடீஸ் மெல்லிடஸ்",
+          "டயாபடீஸ் இன்சிபிடஸ்"
+        ],
+        "explanation": "சிறுநீரில் குளுக்கோஸ் இழப்பால் ஏற்படுகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 306,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 306,
       "quote": "According to WHO recommendation, if the fasting blood glucose is greater than 140 mg/dl or the random blood glucose is greater than 200 mg /dl on more than two occasions, diagnosis for confirming diabetes is essential.",
       "answer": "D",
-      "en": {"q": "According to the WHO recommendation in the text, diagnosis for diabetes is essential if random blood glucose exceeds", "options": ["100 mg/dl", "120 mg/dl", "140 mg/dl", "200 mg/dl"], "explanation": "The book gives a fasting threshold of 140 mg/dl on more than two occasions; WHO lowered the fasting cut-off to 126 mg/dl (7.0 mmol/L) in 1999, while the random-glucose cut-off of 200 mg/dl still stands."},
-      "ta": {"q": "பாடநூலில் உள்ள WHO பரிந்துரைப்படி சீரற்ற இரத்தக் குளுக்கோஸ் எதைத் தாண்டினால் நீரிழிவு உறுதிப்படுத்தல் அவசியம்?", "options": ["100 mg/dl", "120 mg/dl", "140 mg/dl", "200 mg/dl"], "explanation": "நூல் உண்ணா நிலை வரம்பை இருமுறைக்கு மேல் 140 mg/dl என்கிறது; WHO 1999இல் உண்ணா நிலை வரம்பை 126 mg/dl (7.0 mmol/L) எனக் குறைத்தது; சீரற்ற குளுக்கோஸ் வரம்பு 200 mg/dl அப்படியே உள்ளது."}
+      "en": {
+        "q": "According to the WHO recommendation in the text, diagnosis for diabetes is essential if random blood glucose exceeds",
+        "options": [
+          "100 mg/dl",
+          "120 mg/dl",
+          "140 mg/dl",
+          "200 mg/dl"
+        ],
+        "explanation": "The book gives a fasting threshold of 140 mg/dl on more than two occasions; WHO lowered the fasting cut-off to 126 mg/dl (7.0 mmol/L) in 1999, while the random-glucose cut-off of 200 mg/dl still stands."
+      },
+      "ta": {
+        "q": "பாடநூலில் உள்ள WHO பரிந்துரைப்படி சீரற்ற இரத்தக் குளுக்கோஸ் எதைத் தாண்டினால் நீரிழிவு உறுதிப்படுத்தல் அவசியம்?",
+        "options": [
+          "100 mg/dl",
+          "120 mg/dl",
+          "140 mg/dl",
+          "200 mg/dl"
+        ],
+        "explanation": "நூல் உண்ணா நிலை வரம்பை இருமுறைக்கு மேல் 140 mg/dl என்கிறது; WHO 1999இல் உண்ணா நிலை வரம்பை 126 mg/dl (7.0 mmol/L) எனக் குறைத்தது; சீரற்ற குளுக்கோஸ் வரம்பு 200 mg/dl அப்படியே உள்ளது."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 307,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 307,
       "quote": "Dietary management: Low carbohydrate and fibre rich diets are more appropriate. ... Refined sugars (sucrose and glucose) should be avoided. Diet comprising whole grains, millets (jowar, bajra, ragi), green leafy vegetables ... should be included",
       "answer": "A",
-      "en": {"q": "Which dietary advice is appropriate for a diabetic person, as per the text?", "options": ["Include millets like ragi, jowar and bajra and avoid refined sugars", "Eat more refined sugar", "Avoid fibre", "Increase saturated fats"], "explanation": "Low-carbohydrate, fibre-rich diets are recommended."},
-      "ta": {"q": "பாடநூலின்படி நீரிழிவாளருக்கு ஏற்ற உணவு அறிவுரை எது?", "options": ["கேழ்வரகு, சோளம், கம்பு போன்ற சிறுதானியங்களைச் சேர்த்து, சுத்திகரித்த சர்க்கரையைத் தவிர்த்தல்", "அதிகச் சுத்திகரித்த சர்க்கரை உண்ணுதல்", "நார்ச்சத்தைத் தவிர்த்தல்", "நிறைவுற்ற கொழுப்பை அதிகரித்தல்"], "explanation": "குறைந்த மாவுச்சத்து, நார்ச்சத்து மிகுந்த உணவு பரிந்துரைக்கப்படுகிறது."}
+      "en": {
+        "q": "Which dietary advice is appropriate for a diabetic person, as per the text?",
+        "options": [
+          "Eat millets like ragi and avoid refined sugar",
+          "Add extra refined sugar to the diet",
+          "Avoid fibre-rich foods like vegetables",
+          "Increase saturated fats in the diet"
+        ],
+        "explanation": "Low-carbohydrate, fibre-rich diets are recommended."
+      },
+      "ta": {
+        "q": "பாடநூலின்படி நீரிழிவாளருக்கு ஏற்ற உணவு அறிவுரை எது?",
+        "options": [
+          "கேழ்வரகு போன்ற சிறுதானியம் உண்டு, சர்க்கரையைத் தவிர்த்தல்",
+          "உணவில் கூடுதல் சுத்திகரித்த சர்க்கரை சேர்த்தல்",
+          "நார்ச்சத்து மிகுந்த காய்கறிகளைத் தவிர்த்தல்",
+          "உணவில் நிறைவுற்ற கொழுப்பை அதிகரித்தல்"
+        ],
+        "explanation": "குறைந்த மாவுச்சத்து, நார்ச்சத்து மிகுந்த உணவு பரிந்துரைக்கப்படுகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 307,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 307,
       "quote": "Body mass index (BMI) is an estimate of body fat and health risk. BMI = Weight (kg) / Height (m)2",
       "answer": "B",
-      "en": {"q": "Body Mass Index (BMI) is calculated as", "options": ["Height (m) / Weight (kg)", "Weight (kg) / Height (m)²", "Weight (kg) × Height (m)", "Height (m)² / Weight (kg)"], "explanation": "BMI estimates body fat and health risk."},
-      "ta": {"q": "உடல் நிறை குறியீடு (BMI) எவ்வாறு கணக்கிடப்படுகிறது?", "options": ["உயரம் (மீ) / எடை (கி.கி.)", "எடை (கி.கி.) / உயரம் (மீ)²", "எடை (கி.கி.) × உயரம் (மீ)", "உயரம் (மீ)² / எடை (கி.கி.)"], "explanation": "BMI உடல் கொழுப்பையும் உடல்நல அபாயத்தையும் மதிப்பிடுகிறது."}
+      "en": {
+        "q": "Body Mass Index (BMI) is calculated as",
+        "options": [
+          "Height (m) / Weight (kg)",
+          "Weight (kg) / Height (m)²",
+          "Weight (kg) × Height (m)",
+          "Height (m)² / Weight (kg)"
+        ],
+        "explanation": "BMI estimates body fat and health risk."
+      },
+      "ta": {
+        "q": "உடல் நிறை குறியீடு (BMI) எவ்வாறு கணக்கிடப்படுகிறது?",
+        "options": [
+          "உயரம் (மீ) / எடை (கி.கி.)",
+          "எடை (கி.கி.) / உயரம் (மீ)²",
+          "எடை (கி.கி.) × உயரம் (மீ)",
+          "உயரம் (மீ)² / எடை (கி.கி.)"
+        ],
+        "explanation": "BMI உடல் கொழுப்பையும் உடல்நல அபாயத்தையும் மதிப்பிடுகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 307,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 307,
       "quote": "Every 7 calories of excess consumption leads to 1 gm fat deposit and increase in body weight. ... An adult weighing 10% more than the standard weight is OVERWEIGHT and 20% more is OBESE.",
       "answer": "C",
-      "en": {"q": "According to the text, an adult weighing 20% more than the standard weight is considered", "options": ["normal", "overweight", "obese", "underweight"], "explanation": "10% more than standard weight is overweight."},
-      "ta": {"q": "பாடநூலின்படி திட்ட எடையை விட 20% அதிக எடையுள்ள வயதுவந்தவர் எவ்வாறு கருதப்படுவார்?", "options": ["இயல்பு", "அதிக எடை", "உடற்பருமன்", "குறைந்த எடை"], "explanation": "திட்ட எடையை விட 10% அதிகம் அதிக எடை."}
+      "en": {
+        "q": "According to the text, an adult weighing 20% more than the standard weight is considered",
+        "options": [
+          "normal",
+          "overweight",
+          "obese",
+          "underweight"
+        ],
+        "explanation": "10% more than standard weight is overweight."
+      },
+      "ta": {
+        "q": "பாடநூலின்படி திட்ட எடையை விட 20% அதிக எடையுள்ள வயதுவந்தவர் எவ்வாறு கருதப்படுவார்?",
+        "options": [
+          "இயல்பு",
+          "அதிக எடை",
+          "உடற்பருமன்",
+          "குறைந்த எடை"
+        ],
+        "explanation": "திட்ட எடையை விட 10% அதிகம் அதிக எடை."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 308,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 308,
       "quote": "Obesity is a positive risk factor in development of hypertension, diabetes, gall bladder disease, coronary heart disease and arthritis.",
       "answer": "D",
-      "en": {"q": "Obesity is a risk factor for all of the following EXCEPT", "options": ["hypertension", "diabetes", "coronary heart disease", "night blindness"], "explanation": "Gall bladder disease and arthritis are other risks."},
-      "ta": {"q": "பின்வருவனவற்றுள் உடற்பருமன் அபாயக் காரணியாக இல்லாதது எது?", "options": ["உயர் இரத்த அழுத்தம்", "நீரிழிவு", "இதயத் தமனி நோய்", "மாலைக்கண் நோய்"], "explanation": "பித்தப்பை நோய், மூட்டுவலி பிற அபாயங்கள்."}
+      "en": {
+        "q": "Obesity is a risk factor for all of the following EXCEPT",
+        "options": [
+          "hypertension",
+          "diabetes",
+          "coronary heart disease",
+          "night blindness"
+        ],
+        "explanation": "Gall bladder disease and arthritis are other risks."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் உடற்பருமன் அபாயக் காரணியாக இல்லாதது எது?",
+        "options": [
+          "உயர் இரத்த அழுத்தம்",
+          "நீரிழிவு",
+          "இதயத் தமனி நோய்",
+          "மாலைக்கண் நோய்"
+        ],
+        "explanation": "பித்தப்பை நோய், மூட்டுவலி பிற அபாயங்கள்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 308,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 308,
       "quote": "Coronary heart disease (CHD) is the most common form and is caused by deposition of cholesterol in the blood vessels. ... It leads to sudden ischemia (deficient blood supply to heart muscle) and myocardial infarction (death of the heart muscle tissue).",
       "answer": "A",
-      "en": {"q": "Coronary heart disease is due to", "options": ["insufficient blood supply to heart muscles due to cholesterol deposition", "Streptococci bacteria", "inflammation of the pericardium", "weakening of heart valves"], "explanation": "Narrowing of arteries leads to ischemia and myocardial infarction."},
-      "ta": {"q": "இதயத் தமனி நோய் எதனால் ஏற்படுகிறது?", "options": ["கொழுப்புப் படிவால் இதயத் தசைகளுக்குப் போதிய இரத்தம் கிடைக்காமை", "ஸ்ட்ரெப்டோகாக்கஸ் பாக்டீரியா", "இதய உறை அழற்சி", "இதய வால்வுகள் வலுவிழத்தல்"], "explanation": "தமனிகள் சுருங்குவதால் இரத்தக் குறைபாடும் மாரடைப்பும் ஏற்படும்."}
+      "en": {
+        "q": "Coronary heart disease is due to",
+        "options": [
+          "cholesterol blocking the heart's blood supply",
+          "infection by Streptococci bacteria",
+          "inflammation of the pericardium sac",
+          "weakening of the heart valves by age"
+        ],
+        "explanation": "Narrowing of arteries leads to ischemia and myocardial infarction."
+      },
+      "ta": {
+        "q": "இதயத் தமனி நோய் எதனால் ஏற்படுகிறது?",
+        "options": [
+          "கொழுப்பு படிந்து இதயத்தின் இரத்த ஓட்டம் தடைபடுதல்",
+          "ஸ்ட்ரெப்டோகாக்கஸ் பாக்டீரியா தொற்று",
+          "இதய உறையில் ஏற்படும் அழற்சி நோய்",
+          "இதய வால்வுகள் வயதால் வலுவிழத்தல்"
+        ],
+        "explanation": "தமனிகள் சுருங்குவதால் இரத்தக் குறைபாடும் மாரடைப்பும் ஏற்படும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 308,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 308,
       "quote": "HDL (High Density Lipoprotein) or \"good\" cholesterol lowers risk of heart disease while LDL (Low Density Lipoprotein) or \"bad\" cholesterol increases risk of heart disease.",
       "answer": "B",
-      "en": {"q": "Which cholesterol is called 'good' cholesterol because it lowers the risk of heart disease?", "options": ["LDL", "HDL", "VLDL", "Triglyceride"], "explanation": "LDL is 'bad' cholesterol that increases risk."},
-      "ta": {"q": "இதய நோய் அபாயத்தைக் குறைப்பதால் 'நல்ல' கொழுப்பு எனப்படுவது எது?", "options": ["LDL", "HDL", "VLDL", "டிரைகிளிசரைடு"], "explanation": "LDL அபாயத்தை அதிகரிக்கும் 'கெட்ட' கொழுப்பு."}
+      "en": {
+        "q": "Which cholesterol is called 'good' cholesterol because it lowers the risk of heart disease?",
+        "options": [
+          "LDL",
+          "HDL",
+          "VLDL",
+          "Triglyceride"
+        ],
+        "explanation": "LDL is 'bad' cholesterol that increases risk."
+      },
+      "ta": {
+        "q": "இதய நோய் அபாயத்தைக் குறைப்பதால் 'நல்ல' கொழுப்பு எனப்படுவது எது?",
+        "options": [
+          "LDL",
+          "HDL",
+          "VLDL",
+          "டிரைகிளிசரைடு"
+        ],
+        "explanation": "LDL அபாயத்தை அதிகரிக்கும் 'கெட்ட' கொழுப்பு."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 308,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 308,
       "quote": "Desirable level for blood cholesterol should be less than 200 mg/dl for Indians.",
       "answer": "C",
-      "en": {"q": "According to the text, the desirable blood cholesterol level for Indians should be less than", "options": ["100 mg/dl", "150 mg/dl", "200 mg/dl", "300 mg/dl"], "explanation": "Risk of CHD rises as cholesterol increases from 200 to 300 mg/dl."},
-      "ta": {"q": "பாடநூலின்படி இந்தியர்களுக்கு விரும்பத்தக்க இரத்தக் கொழுப்பு அளவு எதை விடக் குறைவாக இருக்க வேண்டும்?", "options": ["100 mg/dl", "150 mg/dl", "200 mg/dl", "300 mg/dl"], "explanation": "கொழுப்பு 200 முதல் 300 mg/dl ஆக அதிகரிக்க இதய நோய் அபாயம் உயரும்."}
+      "en": {
+        "q": "According to the text, the desirable blood cholesterol level for Indians should be less than",
+        "options": [
+          "100 mg/dl",
+          "150 mg/dl",
+          "200 mg/dl",
+          "300 mg/dl"
+        ],
+        "explanation": "Risk of CHD rises as cholesterol increases from 200 to 300 mg/dl."
+      },
+      "ta": {
+        "q": "பாடநூலின்படி இந்தியர்களுக்கு விரும்பத்தக்க இரத்தக் கொழுப்பு அளவு எதை விடக் குறைவாக இருக்க வேண்டும்?",
+        "options": [
+          "100 mg/dl",
+          "150 mg/dl",
+          "200 mg/dl",
+          "300 mg/dl"
+        ],
+        "explanation": "கொழுப்பு 200 முதல் 300 mg/dl ஆக அதிகரிக்க இதய நோய் அபாயம் உயரும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 309,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 309,
       "quote": "The cancerous cells migrate to distant parts of the body and affect new tissues. This process is called metastasis.",
       "answer": "D",
-      "en": {"q": "The migration of cancer cells to distant parts of the body is called", "options": ["oncogenesis", "apoptosis", "mitosis", "metastasis"], "explanation": "Common sites are lungs, bones, liver, skin and brain."},
-      "ta": {"q": "புற்றுநோய்ச் செல்கள் உடலின் தொலைதூரப் பகுதிகளுக்குப் பரவுவது எவ்வாறு அழைக்கப்படுகிறது?", "options": ["புற்றுருவாக்கம்", "திட்டமிட்ட செல் இறப்பு", "மைட்டாசிஸ்", "மெட்டாஸ்டாசிஸ் (புற்றுப் பரவல்)"], "explanation": "நுரையீரல், எலும்பு, கல்லீரல், தோல், மூளை பொதுவான இடங்கள்."}
+      "en": {
+        "q": "The migration of cancer cells to distant parts of the body is called",
+        "options": [
+          "oncogenesis",
+          "apoptosis",
+          "mitosis",
+          "metastasis"
+        ],
+        "explanation": "Common sites are lungs, bones, liver, skin and brain."
+      },
+      "ta": {
+        "q": "புற்றுநோய்ச் செல்கள் உடலின் தொலைதூரப் பகுதிகளுக்குப் பரவுவது எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "புற்றுருவாக்கம்",
+          "திட்டமிட்ட செல் இறப்பு",
+          "மைட்டாசிஸ்",
+          "மெட்டாஸ்டாசிஸ்"
+        ],
+        "explanation": "நுரையீரல், எலும்பு, கல்லீரல், தோல், மூளை பொதுவான இடங்கள்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 309,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 309,
       "quote": "Benign tumours or Non malignant tumours: Remain confined in the organ affected and do not spread to other parts of the body. Malignant tumours: Mass of proliferating cells which grow very rapidly invading and damaging the surrounding normal tissues.",
       "answer": "A",
-      "en": {"q": "Metastasis is associated with", "options": ["malignant tumours", "benign tumours", "both benign and malignant tumours", "crown gall tumours"], "explanation": "Benign tumours remain confined to the affected organ."},
-      "ta": {"q": "புற்றுப் பரவல் (மெட்டாஸ்டாசிஸ்) எதனுடன் தொடர்புடையது?", "options": ["தீங்கான கட்டிகள்", "தீங்கற்ற கட்டிகள்", "இரண்டும்", "கிரவுன் கால் கட்டிகள்"], "explanation": "தீங்கற்ற கட்டிகள் பாதிக்கப்பட்ட உறுப்பிலேயே இருக்கும்."}
+      "en": {
+        "q": "Metastasis is associated with",
+        "options": [
+          "malignant tumours",
+          "benign tumours",
+          "both benign and malignant tumours",
+          "crown gall tumours"
+        ],
+        "explanation": "Benign tumours remain confined to the affected organ."
+      },
+      "ta": {
+        "q": "புற்றுப் பரவல் (மெட்டாஸ்டாசிஸ்) எதனுடன் தொடர்புடையது?",
+        "options": [
+          "தீங்கான கட்டிகள்",
+          "தீங்கற்ற கட்டிகள்",
+          "இரண்டும்",
+          "கிரவுன் கால் கட்டிகள்"
+        ],
+        "explanation": "தீங்கற்ற கட்டிகள் பாதிக்கப்பட்ட உறுப்பிலேயே இருக்கும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 309,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 309,
       "quote": "Carcinomas arise from epithelial and glandular tissues. ... About 85% of the tumours are carcinomas. Sarcomas are occur in the connective and muscular tissue.",
       "answer": "B",
-      "en": {"q": "Cancer of the epithelial cells is called", "options": ["leukaemia", "carcinoma", "sarcoma", "lipoma"], "explanation": "About 85% of tumours are carcinomas; sarcomas arise in connective tissue."},
-      "ta": {"q": "எபிதீலியச் செல்களின் புற்றுநோய் எவ்வாறு அழைக்கப்படுகிறது?", "options": ["இரத்தப் புற்றுநோய்", "கார்சினோமா", "சார்கோமா", "லிப்போமா"], "explanation": "கட்டிகளில் ஏறக்குறைய 85% கார்சினோமா; சார்கோமா இணைப்புத் திசுவில் தோன்றும்."}
+      "en": {
+        "q": "Cancer of the epithelial cells is called",
+        "options": [
+          "leukaemia",
+          "carcinoma",
+          "sarcoma",
+          "lipoma"
+        ],
+        "explanation": "About 85% of tumours are carcinomas; sarcomas arise in connective tissue."
+      },
+      "ta": {
+        "q": "எபிதீலியச் செல்களின் புற்றுநோய் எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "இரத்தப் புற்றுநோய்",
+          "கார்சினோமா",
+          "சார்கோமா",
+          "லிப்போமா"
+        ],
+        "explanation": "கட்டிகளில் ஏறக்குறைய 85% கார்சினோமா; சார்கோமா இணைப்புத் திசுவில் தோன்றும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 309,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 309,
       "quote": "Leukaemia are characterized by an increase in the formation of white blood cells in the bone marrow and lymph nodes. Leukaemia are called blood cancers.",
       "answer": "C",
-      "en": {"q": "Blood cancer, characterised by increased formation of white blood cells, is called", "options": ["carcinoma", "sarcoma", "leukaemia", "lymphoma"], "explanation": "It is the most common cancer in children below 15, per the text."},
-      "ta": {"q": "வெள்ளையணு உருவாக்கம் அதிகரிக்கும் இரத்தப் புற்றுநோய் எவ்வாறு அழைக்கப்படுகிறது?", "options": ["கார்சினோமா", "சார்கோமா", "லுக்கேமியா", "லிம்ஃபோமா"], "explanation": "பாடநூலின்படி 15 வயதுக்குட்பட்ட குழந்தைகளில் மிகப் பொதுவான புற்றுநோய்."}
+      "en": {
+        "q": "Blood cancer, characterised by increased formation of white blood cells, is called",
+        "options": [
+          "carcinoma",
+          "sarcoma",
+          "leukaemia",
+          "lymphoma"
+        ],
+        "explanation": "It is the most common cancer in children below 15, per the text."
+      },
+      "ta": {
+        "q": "வெள்ளையணு உருவாக்கம் அதிகரிக்கும் இரத்தப் புற்றுநோய் எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "கார்சினோமா",
+          "சார்கோமா",
+          "லுக்கேமியா",
+          "லிம்ஃபோமா"
+        ],
+        "explanation": "பாடநூலின்படி 15 வயதுக்குட்பட்ட குழந்தைகளில் மிகப் பொதுவான புற்றுநோய்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 309,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 309,
       "quote": "The study of cancer is called Oncology (Oncos- Tumor). ... Cancer causing agents are called carcinogens. ... Cancer causing viruses are called oncogenic viruses.",
       "answer": "D",
-      "en": {"q": "The study of cancer is called", "options": ["cardiology", "nephrology", "neurology", "oncology"], "explanation": "Cancer-causing agents are called carcinogens."},
-      "ta": {"q": "புற்றுநோய் பற்றிய படிப்பு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["இதயவியல்", "சிறுநீரகவியல்", "நரம்பியல்", "புற்றுநோயியல் (ஆன்காலஜி)"], "explanation": "புற்றுநோயை ஏற்படுத்தும் காரணிகள் கார்சினோஜென்கள்."}
+      "en": {
+        "q": "The study of cancer is called",
+        "options": [
+          "cardiology",
+          "nephrology",
+          "neurology",
+          "oncology"
+        ],
+        "explanation": "Cancer-causing agents are called carcinogens."
+      },
+      "ta": {
+        "q": "புற்றுநோய் பற்றிய படிப்பு எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "இதயவியல்",
+          "சிறுநீரகவியல்",
+          "நரம்பியல்",
+          "புற்றுநோயியல்"
+        ],
+        "explanation": "புற்றுநோயை ஏற்படுத்தும் காரணிகள் கார்சினோஜென்கள்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 309,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 309,
       "quote": "Radiation therapy: Tumour cells are irradiated by lethal doses of radiation while protecting the surrounding normal cells. Chemotherapy: It involves administration of anticancerous drugs which prevent cell division",
       "answer": "A",
-      "en": {"q": "Cancer cells are more easily damaged by radiation than normal cells because they are", "options": ["undergoing rapid division", "non-dividing", "different in structure", "mutated only"], "explanation": "Radiation therapy and chemotherapy target rapidly dividing cells."},
-      "ta": {"q": "இயல்புச் செல்களை விடப் புற்றுநோய்ச் செல்கள் கதிர்வீச்சால் எளிதில் பாதிக்கப்படுவது ஏன்?", "options": ["வேகமாகப் பிரிந்துகொண்டிருப்பதால்", "பிரியாததால்", "அமைப்பில் வேறுபட்டதால்", "திடீர் மாற்றம் மட்டுமே பெற்றதால்"], "explanation": "கதிர்வீச்சு, வேதிச் சிகிச்சைகள் வேகமாகப் பிரியும் செல்களை இலக்காகக் கொள்கின்றன."}
+      "en": {
+        "q": "Cancer cells are more easily damaged by radiation than normal cells because they are",
+        "options": [
+          "undergoing rapid division",
+          "non-dividing",
+          "different in structure",
+          "mutated only"
+        ],
+        "explanation": "Radiation therapy and chemotherapy target rapidly dividing cells."
+      },
+      "ta": {
+        "q": "இயல்புச் செல்களை விடப் புற்றுநோய்ச் செல்கள் கதிர்வீச்சால் எளிதில் பாதிக்கப்படுவது ஏன்?",
+        "options": [
+          "வேகமாகப் பிரிந்துகொண்டிருப்பதால்",
+          "பிரியாததால்",
+          "அமைப்பில் வேறுபட்டதால்",
+          "திடீர் மாற்றம் மட்டுமே பெற்றதால்"
+        ],
+        "explanation": "கதிர்வீச்சு, வேதிச் சிகிச்சைகள் வேகமாகப் பிரியும் செல்களை இலக்காகக் கொள்கின்றன."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 309,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 309,
       "quote": "Immunotherapy: Biological response modifiers like interferons are used to activate the immune system and help in destroying the tumors.",
       "answer": "B",
-      "en": {"q": "In cancer immunotherapy, which biological response modifiers are used to activate the immune system?", "options": ["Antibiotics", "Interferons", "Hormones like insulin", "Vitamins"], "explanation": "Other treatments are surgery, radiation therapy and chemotherapy."},
-      "ta": {"q": "புற்றுநோய் நோய்த்தடைச் சிகிச்சையில் நோய்த்தடை மண்டலத்தைச் செயல்படுத்தப் பயன்படும் உயிரியல் துலங்கல் மாற்றிகள் எவை?", "options": ["நுண்ணுயிர்க்கொல்லிகள்", "இன்டர்ஃபெரான்கள்", "இன்சுலின் போன்ற ஹார்மோன்கள்", "வைட்டமின்கள்"], "explanation": "அறுவை, கதிர்வீச்சு, வேதிச் சிகிச்சை பிற சிகிச்சைகள்."}
+      "en": {
+        "q": "In cancer immunotherapy, which biological response modifiers are used to activate the immune system?",
+        "options": [
+          "Antibiotics",
+          "Interferons",
+          "Hormones like insulin",
+          "Vitamins"
+        ],
+        "explanation": "Other treatments are surgery, radiation therapy and chemotherapy."
+      },
+      "ta": {
+        "q": "புற்றுநோய் நோய்த்தடைச் சிகிச்சையில் நோய்த்தடை மண்டலத்தைச் செயல்படுத்தப் பயன்படும் உயிரியல் துலங்கல் மாற்றிகள் எவை?",
+        "options": [
+          "நுண்ணுயிர்க்கொல்லிகள்",
+          "இன்டர்ஃபெரான்கள்",
+          "இன்சுலின் போன்ற ஹார்மோன்கள்",
+          "வைட்டமின்கள்"
+        ],
+        "explanation": "அறுவை, கதிர்வீச்சு, வேதிச் சிகிச்சை பிற சிகிச்சைகள்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 309,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 309,
       "quote": "World Cancer Day - 4th February National Cancer Awareness Day -7th November",
       "answer": "C",
-      "en": {"q": "World Cancer Day is observed on", "options": ["7 November", "1 December", "4 February", "31 May"], "explanation": "National Cancer Awareness Day is 7 November."},
-      "ta": {"q": "உலகப் புற்றுநோய் நாள் எப்போது கடைப்பிடிக்கப்படுகிறது?", "options": ["நவம்பர் 7", "டிசம்பர் 1", "பிப்ரவரி 4", "மே 31"], "explanation": "தேசியப் புற்றுநோய் விழிப்புணர்வு நாள் நவம்பர் 7."}
+      "en": {
+        "q": "World Cancer Day is observed on",
+        "options": [
+          "7 November",
+          "1 December",
+          "4 February",
+          "31 May"
+        ],
+        "explanation": "National Cancer Awareness Day is 7 November."
+      },
+      "ta": {
+        "q": "உலகப் புற்றுநோய் நாள் எப்போது கடைப்பிடிக்கப்படுகிறது?",
+        "options": [
+          "நவம்பர் 7",
+          "டிசம்பர் 1",
+          "பிப்ரவரி 4",
+          "மே 31"
+        ],
+        "explanation": "தேசியப் புற்றுநோய் விழிப்புணர்வு நாள் நவம்பர் 7."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 310,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 310,
       "quote": "AIDS is a severe viral disease and caused by Human Immunodeficiency Virus (HIV). ... They attack the lymphocytes",
       "answer": "D",
-      "en": {"q": "AIDS is caused by", "options": ["a bacterium", "a protozoan", "a fungus", "the Human Immunodeficiency Virus (HIV)"], "explanation": "HIV attacks lymphocytes and weakens the immune system."},
-      "ta": {"q": "எய்ட்ஸ் எதனால் ஏற்படுகிறது?", "options": ["பாக்டீரியா", "முதலுயிரி", "பூஞ்சை", "மனித நோய்த்தடைக் குறைபாட்டு வைரஸ் (HIV)"], "explanation": "HIV லிம்ஃபோசைட்டுகளைத் தாக்கி நோய்த்தடை மண்டலத்தை வலுவிழக்கச் செய்கிறது."}
+      "en": {
+        "q": "AIDS is caused by",
+        "options": [
+          "a disease-causing bacterium",
+          "a parasitic protozoan organism",
+          "a disease-causing fungus",
+          "the Human Immunodeficiency Virus"
+        ],
+        "explanation": "HIV attacks lymphocytes and weakens the immune system."
+      },
+      "ta": {
+        "q": "எய்ட்ஸ் எதனால் ஏற்படுகிறது?",
+        "options": [
+          "நோயை உண்டாக்கும் பாக்டீரியா",
+          "ஒட்டுண்ணியாக வாழும் முதலுயிரி",
+          "நோயை உண்டாக்கும் பூஞ்சை உயிரி",
+          "மனித நோய்த்தடைக் குறைபாட்டு வைரஸ்"
+        ],
+        "explanation": "HIV லிம்ஃபோசைட்டுகளைத் தாக்கி நோய்த்தடை மண்டலத்தை வலுவிழக்கச் செய்கிறது."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 310,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 310,
       "quote": "Dr. Suniti Solomon, pioneered HIV research and treatment in India. She set up the first voluntary testing and counselling centre and an AIDS Research group in Chennai during 80's. Her team was the first to document evidence of HIV infection in India in 1985",
       "answer": "A",
-      "en": {"q": "Who pioneered HIV research in India and whose team first documented HIV infection in India, in Chennai in 1986?", "options": ["Dr. Suniti Solomon", "Dr. Muthulakshmi Reddy", "Dr. V. Shanta", "Dr. M.S. Swaminathan"], "explanation": "Dr. Suniti Solomon's team at Madras Medical College detected India's first HIV cases in 1986 (from samples collected in late 1985); she later set up the first voluntary testing and counselling centre in Chennai."},
-      "ta": {"q": "இந்தியாவில் HIV ஆய்வுக்கு முன்னோடியாக இருந்து, 1986இல் சென்னையில் இந்தியாவின் முதல் HIV தொற்றைப் பதிவுசெய்த குழுவின் தலைவர் யார்?", "options": ["டாக்டர் சுனிதி சாலமன்", "டாக்டர் முத்துலட்சுமி ரெட்டி", "டாக்டர் வி. சாந்தா", "டாக்டர் எம்.எஸ். சுவாமிநாதன்"], "explanation": "டாக்டர் சுனிதி சாலமன் குழு சென்னை மருத்துவக் கல்லூரியில் 1986இல் இந்தியாவின் முதல் HIV தொற்றுகளைக் கண்டறிந்தது (மாதிரிகள் 1985 இறுதியில் சேகரிக்கப்பட்டவை); பின்னர் சென்னையில் முதல் தன்னார்வப் பரிசோதனை, ஆலோசனை மையத்தை அமைத்தார்."}
+      "en": {
+        "q": "Who pioneered HIV research in India and whose team first documented HIV infection in India, in Chennai in 1986?",
+        "options": [
+          "Dr. Suniti Solomon",
+          "Dr. Muthulakshmi Reddy",
+          "Dr. V. Shanta",
+          "Dr. M.S. Swaminathan"
+        ],
+        "explanation": "Dr. Suniti Solomon's team at Madras Medical College detected India's first HIV cases in 1986 (from samples collected in late 1985); she later set up the first voluntary testing and counselling centre in Chennai."
+      },
+      "ta": {
+        "q": "இந்தியாவில் HIV ஆய்வுக்கு முன்னோடியாக இருந்து, 1986இல் சென்னையில் இந்தியாவின் முதல் HIV தொற்றைப் பதிவுசெய்த குழுவின் தலைவர் யார்?",
+        "options": [
+          "டாக்டர் சுனிதி சாலமன்",
+          "டாக்டர் முத்துலட்சுமி ரெட்டி",
+          "டாக்டர் வி. சாந்தா",
+          "டாக்டர் எம்.எஸ். சுவாமிநாதன்"
+        ],
+        "explanation": "டாக்டர் சுனிதி சாலமன் குழு சென்னை மருத்துவக் கல்லூரியில் 1986இல் இந்தியாவின் முதல் HIV தொற்றுகளைக் கண்டறிந்தது (மாதிரிகள் 1985 இறுதியில் சேகரிக்கப்பட்டவை); பின்னர் சென்னையில் முதல் தன்னார்வப் பரிசோதனை, ஆலோசனை மையத்தை அமைத்தார்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 310,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 310,
       "quote": "HIV/AIDS is not transmitted by touch or any physical contact. It spreads through contact of body fluids or blood. HIV is transmitted generally by (i) Sexual contact with infected person (ii) Use of contaminated needles or syringes ... (iii) By transfusion of contaminated / infected blood ... (iv) From infected mother to her child through placenta.",
       "answer": "B",
-      "en": {"q": "Which of the following does NOT transmit HIV?", "options": ["Contaminated needles", "Touch or shaking hands", "Infected blood transfusion", "Infected mother to child through placenta"], "explanation": "HIV spreads only through contact with body fluids or blood."},
-      "ta": {"q": "பின்வருவனவற்றுள் HIVயைப் பரப்பாதது எது?", "options": ["மாசடைந்த ஊசிகள்", "தொடுதல் அல்லது கைகுலுக்குதல்", "தொற்றுள்ள இரத்தம் செலுத்துதல்", "தொப்புள்கொடி வழியே தாயிடமிருந்து குழந்தைக்கு"], "explanation": "HIV உடல் திரவங்கள் அல்லது இரத்தத் தொடர்பால் மட்டுமே பரவும்."}
+      "en": {
+        "q": "Which of the following does NOT transmit HIV?",
+        "options": [
+          "Contaminated needles",
+          "Touch or shaking hands",
+          "Infected blood transfusion",
+          "Infected mother to child through placenta"
+        ],
+        "explanation": "HIV spreads only through contact with body fluids or blood."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் HIVயைப் பரப்பாதது எது?",
+        "options": [
+          "மாசடைந்த ஊசிகள்",
+          "தொடுதல் அல்லது கைகுலுக்குதல்",
+          "தொற்றுள்ள இரத்தம் செலுத்துதல்",
+          "தொப்புள்கொடி வழியே தாயிடமிருந்து குழந்தைக்கு"
+        ],
+        "explanation": "HIV உடல் திரவங்கள் அல்லது இரத்தத் தொடர்பால் மட்டுமே பரவும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 310,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 310,
       "quote": "The presence of HIV virus can be confirmed by Western Blot analysis or Enzyme Linked Immunosorbent Assay (ELISA)",
       "answer": "C",
-      "en": {"q": "The presence of HIV can be confirmed by", "options": ["Widal test", "Mantoux test", "ELISA or Western Blot", "Benedict's test"], "explanation": "Anti-retroviral drugs can prolong the life of the infected person."},
-      "ta": {"q": "HIV இருப்பதை எதன் மூலம் உறுதிப்படுத்தலாம்?", "options": ["வைடால் சோதனை", "மாண்டூ சோதனை", "எலிசா அல்லது வெஸ்டர்ன் பிளாட்", "பெனடிக்ட் சோதனை"], "explanation": "எதிர் ரெட்ரோவைரஸ் மருந்துகள் தொற்றுள்ளவரின் ஆயுளை நீட்டிக்கும்."}
+      "en": {
+        "q": "The presence of HIV can be confirmed by",
+        "options": [
+          "Widal blood test",
+          "Mantoux skin test",
+          "ELISA or Western Blot",
+          "Benedict's urine test"
+        ],
+        "explanation": "Anti-retroviral drugs can prolong the life of the infected person."
+      },
+      "ta": {
+        "q": "HIV இருப்பதை எதன் மூலம் உறுதிப்படுத்தலாம்?",
+        "options": [
+          "வைடால் இரத்தச் சோதனை",
+          "மாண்டூ தோல் சோதனை",
+          "எலிசா அல்லது வெஸ்டர்ன் பிளாட்",
+          "பெனடிக்ட் சிறுநீர்ச் சோதனை"
+        ],
+        "explanation": "எதிர் ரெட்ரோவைரஸ் மருந்துகள் தொற்றுள்ளவரின் ஆயுளை நீட்டிக்கும்."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 311,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 311,
       "quote": "In our country NACO (National AIDS Control Organization) and other NGO'S ... are educating people about AIDS. Every year December 1st is observed as the \"World AIDS Day\".",
       "answer": "D",
-      "en": {"q": "World AIDS Day is observed every year on", "options": ["February 4", "May 31", "June 26", "December 1"], "explanation": "NACO and NGOs educate people about AIDS in India."},
-      "ta": {"q": "உலக எய்ட்ஸ் நாள் ஆண்டுதோறும் எப்போது கடைப்பிடிக்கப்படுகிறது?", "options": ["பிப்ரவரி 4", "மே 31", "ஜூன் 26", "டிசம்பர் 1"], "explanation": "இந்தியாவில் NACO, தன்னார்வ அமைப்புகள் எய்ட்ஸ் குறித்து மக்களுக்குக் கற்பிக்கின்றன."}
+      "en": {
+        "q": "World AIDS Day is observed every year on",
+        "options": [
+          "February 4",
+          "May 31",
+          "June 26",
+          "December 1"
+        ],
+        "explanation": "NACO and NGOs educate people about AIDS in India."
+      },
+      "ta": {
+        "q": "உலக எய்ட்ஸ் நாள் ஆண்டுதோறும் எப்போது கடைப்பிடிக்கப்படுகிறது?",
+        "options": [
+          "பிப்ரவரி 4",
+          "மே 31",
+          "ஜூன் 26",
+          "டிசம்பர் 1"
+        ],
+        "explanation": "இந்தியாவில் NACO, தன்னார்வ அமைப்புகள் எய்ட்ஸ் குறித்து மக்களுக்குக் கற்பிக்கின்றன."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "match_the_following", "difficulty": "medium", "bloom": "remember", "page": 312,
+      "topic": "zoology-human-physiology",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 312,
       "quote": "Sarcoma – Connective tissue; Carcinoma – Stomach cancer; Polydipsia – Excessive thirst; Polyphagia – Excessive hunger",
       "answer": "A",
-      "en": {"q": "Match: (a) Sarcoma (b) Carcinoma (c) Polydipsia (d) Polyphagia — (1) Connective tissue cancer (2) Stomach cancer (3) Excessive thirst (4) Excessive hunger", "options": ["a-1, b-2, c-3, d-4", "a-2, b-1, c-4, d-3", "a-3, b-4, c-1, d-2", "a-4, b-3, c-2, d-1"], "explanation": "Sarcoma arises in connective tissue; carcinomas include stomach cancer."},
-      "ta": {"q": "பொருத்துக: (a) சார்கோமா (b) கார்சினோமா (c) பாலிடிப்சியா (d) பாலிஃபேஜியா — (1) இணைப்புத் திசுப் புற்றுநோய் (2) இரைப்பைப் புற்றுநோய் (3) அதிகத் தாகம் (4) அதிகப் பசி", "options": ["a-1, b-2, c-3, d-4", "a-2, b-1, c-4, d-3", "a-3, b-4, c-1, d-2", "a-4, b-3, c-2, d-1"], "explanation": "சார்கோமா இணைப்புத் திசுவில்; கார்சினோமாவில் இரைப்பைப் புற்றுநோய் அடங்கும்."}
+      "en": {
+        "q": "Match: (a) Sarcoma (b) Carcinoma (c) Polydipsia (d) Polyphagia — (1) Connective tissue cancer (2) Stomach cancer (3) Excessive thirst (4) Excessive hunger",
+        "options": [
+          "a-1, b-2, c-3, d-4",
+          "a-2, b-1, c-4, d-3",
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-2, d-1"
+        ],
+        "explanation": "Sarcoma arises in connective tissue; carcinomas include stomach cancer."
+      },
+      "ta": {
+        "q": "பொருத்துக: (a) சார்கோமா (b) கார்சினோமா (c) பாலிடிப்சியா (d) பாலிஃபேஜியா — (1) இணைப்புத் திசுப் புற்றுநோய் (2) இரைப்பைப் புற்றுநோய் (3) அதிகத் தாகம் (4) அதிகப் பசி",
+        "options": [
+          "a-1, b-2, c-3, d-4",
+          "a-2, b-1, c-4, d-3",
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-2, d-1"
+        ],
+        "explanation": "சார்கோமா இணைப்புத் திசுவில்; கார்சினோமாவில் இரைப்பைப் புற்றுநோய் அடங்கும்."
+      }
     }
   ]
 }

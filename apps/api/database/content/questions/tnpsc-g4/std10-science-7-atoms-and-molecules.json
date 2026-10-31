@@ -4,326 +4,1338 @@
   "breadcrumb": "Std 10 Science (English) — Unit 7: Atoms and Molecules",
   "questions": [
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 91,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 91,
       "quote": "The first scientific theory of the atom was proposed by John Dalton.",
       "answer": "A",
-      "en": {"q": "The first scientific theory of the atom was proposed by", "options": ["John Dalton", "J.J. Thomson", "Niels Bohr", "Democritus"], "explanation": "Some of its postulates were later found incorrect by Thomson, Rutherford, Bohr and Schrödinger."},
-      "ta": {"q": "அணு பற்றிய முதல் அறிவியல் கொள்கையை முன்மொழிந்தவர் யார்?", "options": ["ஜான் டால்டன்", "ஜே.ஜே. தாம்சன்", "நீல்ஸ் போர்", "டெமாக்ரிட்டஸ்"], "explanation": "அதன் சில கருத்துகள் பின்னர் தாம்சன், ரூதர்ஃபோர்டு, போர், ஷ்ரோடிங்கர் ஆய்வுகளால் தவறெனக் கண்டறியப்பட்டன."}
+      "en": {
+        "q": "The first scientific theory of the atom was proposed by",
+        "options": [
+          "John Dalton",
+          "J.J. Thomson",
+          "Niels Bohr",
+          "Democritus"
+        ],
+        "explanation": "Some of its postulates were later found incorrect by Thomson, Rutherford, Bohr and Schrödinger."
+      },
+      "ta": {
+        "q": "அணு பற்றிய முதல் அறிவியல் கொள்கையை முன்மொழிந்தவர் யார்?",
+        "options": [
+          "ஜான் டால்டன்",
+          "ஜே.ஜே. தாம்சன்",
+          "நீல்ஸ் போர்",
+          "டெமாக்ரிட்டஸ்"
+        ],
+        "explanation": "அதன் சில கருத்துகள் பின்னர் தாம்சன், ரூதர்ஃபோர்டு, போர், ஷ்ரோடிங்கர் ஆய்வுகளால் தவறெனக் கண்டறியப்பட்டன."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 91,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 91,
       "quote": "Atoms of the same element may have different atomic mass. (discovery of isotopes 17Cl35, 17Cl37).",
       "answer": "B",
-      "en": {"q": "According to modern atomic theory, the discovery of isotopes showed that", "options": ["atoms are indivisible", "atoms of the same element may have different atomic masses", "atoms of different elements always have different masses", "atoms cannot be transmuted"], "explanation": "E.g. ₁₇Cl³⁵ and ₁₇Cl³⁷."},
-      "ta": {"q": "நவீன அணுக்கொள்கைப்படி ஐசோடோப்புகளின் கண்டுபிடிப்பு எதைக் காட்டியது?", "options": ["அணுக்கள் பிளக்க இயலாதவை", "ஒரே தனிமத்தின் அணுக்கள் வெவ்வேறு அணு நிறை கொண்டிருக்கலாம்", "வெவ்வேறு தனிமங்களின் அணுக்கள் எப்போதும் வெவ்வேறு நிறையுடையவை", "அணுக்களை மாற்ற இயலாது"], "explanation": "எ.கா. ₁₇Cl³⁵, ₁₇Cl³⁷."}
+      "en": {
+        "q": "According to modern atomic theory, the discovery of isotopes showed that",
+        "options": [
+          "atoms are indivisible",
+          "atoms of the same element may have different atomic masses",
+          "atoms of different elements always have different masses",
+          "atoms cannot be transmuted"
+        ],
+        "explanation": "E.g. ₁₇Cl³⁵ and ₁₇Cl³⁷."
+      },
+      "ta": {
+        "q": "நவீன அணுக்கொள்கைப்படி ஐசோடோப்புகளின் கண்டுபிடிப்பு எதைக் காட்டியது?",
+        "options": [
+          "அணுக்கள் பிளக்க இயலாதவை",
+          "ஒரே தனிமத்தின் அணுக்கள் வெவ்வேறு அணு நிறை கொண்டிருக்கலாம்",
+          "வெவ்வேறு தனிமங்களின் அணுக்கள் எப்போதும் வெவ்வேறு நிறையுடையவை",
+          "அணுக்களை மாற்ற இயலாது"
+        ],
+        "explanation": "எ.கா. ₁₇Cl³⁵, ₁₇Cl³⁷."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 91,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 91,
       "quote": "Atoms of different elements may have same atomic masses (discovery of Isobars 18Ar40, 20Ca40).",
       "answer": "C",
-      "en": {"q": "Atoms of different elements having the same mass number but different atomic numbers are called", "options": ["isotopes", "isotones", "isobars", "allotropes"], "explanation": "E.g. ₁₈Ar⁴⁰ and ₂₀Ca⁴⁰."},
-      "ta": {"q": "ஒரே நிறை எண்ணும் வெவ்வேறு அணு எண்களும் கொண்ட வெவ்வேறு தனிமங்களின் அணுக்கள் எவ்வாறு அழைக்கப்படும்?", "options": ["ஐசோடோப்புகள்", "ஐசோடோன்கள்", "ஐசோபார்கள்", "புறவேற்றுமை வடிவங்கள்"], "explanation": "எ.கா. ₁₈Ar⁴⁰, ₂₀Ca⁴⁰."}
+      "en": {
+        "q": "Atoms of different elements having the same mass number but different atomic numbers are called",
+        "options": [
+          "isotopes",
+          "isotones",
+          "isobars",
+          "allotropes"
+        ],
+        "explanation": "E.g. ₁₈Ar⁴⁰ and ₂₀Ca⁴⁰."
+      },
+      "ta": {
+        "q": "ஒரே நிறை எண்ணும் வெவ்வேறு அணு எண்களும் கொண்ட வெவ்வேறு தனிமங்களின் அணுக்கள் எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "ஐசோடோப்புகள்",
+          "ஐசோடோன்கள்",
+          "ஐசோபார்கள்",
+          "புறவேற்றுமை வடிவங்கள்"
+        ],
+        "explanation": "எ.கா. ₁₈Ar⁴⁰, ₂₀Ca⁴⁰."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 102,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 102,
       "quote": "Atoms of different elements having the same number of neutrons, but different atomic number and different mass number are called Isotones (6C13, 7N14).",
       "answer": "D",
-      "en": {"q": "₆C¹³ and ₇N¹⁴ are examples of", "options": ["isotopes", "isobars", "allotropes", "isotones"], "explanation": "Isotones have the same number of neutrons (7 here)."},
-      "ta": {"q": "₆C¹³, ₇N¹⁴ எவற்றுக்கு எடுத்துக்காட்டு?", "options": ["ஐசோடோப்புகள்", "ஐசோபார்கள்", "புறவேற்றுமை வடிவங்கள்", "ஐசோடோன்கள்"], "explanation": "ஐசோடோன்களில் நியூட்ரான் எண்ணிக்கை சமம் (இங்கு 7)."}
+      "en": {
+        "q": "₆C¹³ and ₇N¹⁴ are examples of",
+        "options": [
+          "isotopes",
+          "isobars",
+          "allotropes",
+          "isotones"
+        ],
+        "explanation": "Isotones have the same number of neutrons (7 here)."
+      },
+      "ta": {
+        "q": "₆C¹³, ₇N¹⁴ எவற்றுக்கு எடுத்துக்காட்டு?",
+        "options": [
+          "ஐசோடோப்புகள்",
+          "ஐசோபார்கள்",
+          "புறவேற்றுமை வடிவங்கள்",
+          "ஐசோடோன்கள்"
+        ],
+        "explanation": "ஐசோடோன்களில் நியூட்ரான் எண்ணிக்கை சமம் (இங்கு 7)."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 92,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 92,
       "quote": "Atoms may not always combine in a simple whole number ratio (E.g. Glucose C6H12O6 C:H:O = 6:12:6 or 1:2:1 and Sucrose C12H22O11 C:H:O = 12:22:11).",
       "answer": "A",
-      "en": {"q": "Which compound is given in the text as an example where atoms do not combine in a simple whole number ratio?", "options": ["Sucrose (C₁₂H₂₂O₁₁)", "Water (H₂O)", "Carbon dioxide (CO₂)", "Ammonia (NH₃)"], "explanation": "In sucrose, C:H:O = 12:22:11."},
-      "ta": {"q": "அணுக்கள் எளிய முழு எண் விகிதத்தில் இணையாததற்குப் பாடநூல் தரும் எடுத்துக்காட்டு எது?", "options": ["சுக்ரோஸ் (C₁₂H₂₂O₁₁)", "நீர் (H₂O)", "கார்பன் டைஆக்சைடு (CO₂)", "அம்மோனியா (NH₃)"], "explanation": "சுக்ரோஸில் C:H:O = 12:22:11."}
+      "en": {
+        "q": "Which compound is given in the text as an example where atoms do not combine in a simple whole number ratio?",
+        "options": [
+          "Sucrose (C₁₂H₂₂O₁₁)",
+          "Water (H₂O)",
+          "Carbon dioxide (CO₂)",
+          "Ammonia (NH₃)"
+        ],
+        "explanation": "In sucrose, C:H:O = 12:22:11."
+      },
+      "ta": {
+        "q": "அணுக்கள் எளிய முழு எண் விகிதத்தில் இணையாததற்குப் பாடநூல் தரும் எடுத்துக்காட்டு எது?",
+        "options": [
+          "சுக்ரோஸ் (C₁₂H₂₂O₁₁)",
+          "நீர் (H₂O)",
+          "கார்பன் டைஆக்சைடு (CO₂)",
+          "அம்மோனியா (NH₃)"
+        ],
+        "explanation": "சுக்ரோஸில் C:H:O = 12:22:11."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 92,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 92,
       "quote": "Atomic mass unit is one-twelfth of the mass of a carbon-12 atom; an isotope of carbon, which contains 6 protons and 6 neutrons.",
       "answer": "B",
-      "en": {"q": "One atomic mass unit (amu) is", "options": ["the mass of a C-12 atom", "1/12th of the mass of a C-12 atom", "the mass of a hydrogen atom", "the mass of an O-16 atom"], "explanation": "The symbol 'u' (unified atomic mass) is now used instead of amu."},
-      "ta": {"q": "ஒரு அணுநிறை அலகு (amu) என்பது", "options": ["C-12 அணுவின் நிறை", "C-12 அணுவின் நிறையில் 1/12 பங்கு", "ஹைட்ரஜன் அணுவின் நிறை", "O-16 அணுவின் நிறை"], "explanation": "இப்போது amu க்குப் பதில் 'u' (ஒருங்கிணைந்த அணுநிறை) பயன்படுகிறது."}
+      "en": {
+        "q": "One atomic mass unit (amu) is",
+        "options": [
+          "the mass of a C-12 atom",
+          "1/12th of the mass of a C-12 atom",
+          "the mass of a hydrogen atom",
+          "the mass of an O-16 atom"
+        ],
+        "explanation": "The symbol 'u' (unified atomic mass) is now used instead of amu."
+      },
+      "ta": {
+        "q": "ஒரு அணுநிறை அலகு (amu) என்பது",
+        "options": [
+          "ஒரு C-12 அணுவின் முழு நிறை",
+          "C-12 அணுவின் நிறையில் 1/12 பங்கு",
+          "ஒரு ஹைட்ரஜன் அணுவின் முழு நிறை",
+          "ஒரு O-16 அணுவின் முழு நிறை"
+        ],
+        "explanation": "இப்போது amu க்குப் பதில் 'u' (ஒருங்கிணைந்த அணுநிறை) பயன்படுகிறது."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 92,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 92,
       "quote": "the mass of an atom is mainly contributed by its protons and neutrons and hence the sum of the number of protons and neutrons of an atom is called its mass number.",
       "answer": "C",
-      "en": {"q": "The sum of the number of protons and neutrons of an atom is called its", "options": ["atomic number", "atomicity", "mass number", "valency"], "explanation": "Electrons contribute very little to the mass of an atom."},
-      "ta": {"q": "ஓர் அணுவின் புரோட்டான்கள், நியூட்ரான்களின் எண்ணிக்கையின் கூட்டுத்தொகை எவ்வாறு அழைக்கப்படும்?", "options": ["அணு எண்", "அணுக்கட்டு எண்", "நிறை எண்", "இணைதிறன்"], "explanation": "எலக்ட்ரான்கள் அணுவின் நிறைக்குச் சிறிதளவே பங்களிக்கின்றன."}
+      "en": {
+        "q": "The sum of the number of protons and neutrons of an atom is called its",
+        "options": [
+          "atomic number",
+          "atomicity",
+          "mass number",
+          "valency"
+        ],
+        "explanation": "Electrons contribute very little to the mass of an atom."
+      },
+      "ta": {
+        "q": "ஓர் அணுவின் புரோட்டான்கள், நியூட்ரான்களின் எண்ணிக்கையின் கூட்டுத்தொகை எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "அணு எண்",
+          "அணுக்கட்டு எண்",
+          "நிறை எண்",
+          "இணைதிறன்"
+        ],
+        "explanation": "எலக்ட்ரான்கள் அணுவின் நிறைக்குச் சிறிதளவே பங்களிக்கின்றன."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 92,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 92,
       "quote": "In the beginning, the mass of hydrogen atom was chosen as a standard ... Later hydrogen atom was replaced by oxygen atom as the standard. Now, the stable isotope of carbon (C-12) with atomic mass 12 is used as the standard",
       "answer": "D",
-      "en": {"q": "Which is now used as the standard for measuring the relative atomic mass of elements?", "options": ["Hydrogen-1", "Oxygen-16", "Helium-4", "Carbon-12"], "explanation": "Earlier hydrogen and then oxygen were used as standards."},
-      "ta": {"q": "தனிமங்களின் ஒப்பு அணுநிறையை அளக்க இப்போது தரமாகப் பயன்படுவது எது?", "options": ["ஹைட்ரஜன்-1", "ஆக்சிஜன்-16", "ஹீலியம்-4", "கார்பன்-12"], "explanation": "முன்பு ஹைட்ரஜனும் பின் ஆக்சிஜனும் தரமாகப் பயன்பட்டன."}
+      "en": {
+        "q": "Which is now used as the standard for measuring the relative atomic mass of elements?",
+        "options": [
+          "Hydrogen-1",
+          "Oxygen-16",
+          "Helium-4",
+          "Carbon-12"
+        ],
+        "explanation": "Earlier hydrogen and then oxygen were used as standards."
+      },
+      "ta": {
+        "q": "தனிமங்களின் ஒப்பு அணுநிறையை அளக்க இப்போது தரமாகப் பயன்படுவது எது?",
+        "options": [
+          "ஹைட்ரஜன்-1",
+          "ஆக்சிஜன்-16",
+          "ஹீலியம்-4",
+          "கார்பன்-12"
+        ],
+        "explanation": "முன்பு ஹைட்ரஜனும் பின் ஆக்சிஜனும் தரமாகப் பயன்பட்டன."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 92,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 92,
       "quote": "Relative atomic mass of an element is the ratio between the average mass of its isotopes to 1/12th part of the mass of a carbon-12 atom. It is denoted as Ar. It is otherwise called \"Standard Atomic Weight\".",
       "answer": "A",
-      "en": {"q": "Relative atomic mass is otherwise called", "options": ["Standard Atomic Weight", "Gram Molecular Mass", "Mass Number", "Molar Volume"], "explanation": "It is denoted Ar and, being a ratio, has no unit."},
-      "ta": {"q": "ஒப்பு அணுநிறை வேறு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["திட்ட அணு எடை", "கிராம் மூலக்கூறு நிறை", "நிறை எண்", "மோலார் கனஅளவு"], "explanation": "இது Ar எனக் குறிக்கப்படுகிறது; விகிதம் என்பதால் அலகு இல்லை."}
+      "en": {
+        "q": "Relative atomic mass is otherwise called",
+        "options": [
+          "Standard Atomic Weight",
+          "Gram Molecular Mass",
+          "Mass Number",
+          "Molar Volume"
+        ],
+        "explanation": "It is denoted Ar and, being a ratio, has no unit."
+      },
+      "ta": {
+        "q": "ஒப்பு அணுநிறை வேறு எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "திட்ட அணு எடை",
+          "கிராம் மூலக்கூறு நிறை",
+          "நிறை எண்",
+          "மோலார் கனஅளவு"
+        ],
+        "explanation": "இது Ar எனக் குறிக்கப்படுகிறது; விகிதம் என்பதால் அலகு இல்லை."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 93,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 93,
       "quote": "Relative Atomic Mass is only a ratio, so it has no unit. If the atomic mass of an element is expressed in grams, it is called as Gram Atomic Mass",
       "answer": "B",
-      "en": {"q": "When the atomic mass of an element is expressed in grams, it is called", "options": ["relative atomic mass", "gram atomic mass", "average atomic mass", "molar volume"], "explanation": "E.g. gram atomic mass of carbon = 12 g."},
-      "ta": {"q": "ஒரு தனிமத்தின் அணுநிறை கிராமில் குறிக்கப்படும்போது அது எவ்வாறு அழைக்கப்படும்?", "options": ["ஒப்பு அணுநிறை", "கிராம் அணுநிறை", "சராசரி அணுநிறை", "மோலார் கனஅளவு"], "explanation": "எ.கா. கார்பனின் கிராம் அணுநிறை = 12 கி."}
+      "en": {
+        "q": "When the atomic mass of an element is expressed in grams, it is called",
+        "options": [
+          "relative atomic mass",
+          "gram atomic mass",
+          "average atomic mass",
+          "molar volume"
+        ],
+        "explanation": "E.g. gram atomic mass of carbon = 12 g."
+      },
+      "ta": {
+        "q": "ஒரு தனிமத்தின் அணுநிறை கிராமில் குறிக்கப்படும்போது அது எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "ஒப்பு அணுநிறை",
+          "கிராம் அணுநிறை",
+          "சராசரி அணுநிறை",
+          "மோலார் கனஅளவு"
+        ],
+        "explanation": "எ.கா. கார்பனின் கிராம் அணுநிறை = 12 கி."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 93,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 93,
       "quote": "The natural abundance of C-12 and C-13 are 98.90 % and 1.10 % respectively. ... = 11.868 + 0.143 = 12.011 amu",
       "answer": "C",
-      "en": {"q": "The atomic mass of carbon in the periodic table is 12.011 amu rather than 12 because", "options": ["carbon has no isotopes", "electrons add mass", "it is the weighted average of C-12 and C-13 by natural abundance", "it is measured on the hydrogen scale"], "explanation": "C-12 is 98.90% and C-13 is 1.10% of natural carbon."},
-      "ta": {"q": "ஆவர்த்த அட்டவணையில் கார்பனின் அணுநிறை 12 அல்லாமல் 12.011 amu ஆக இருப்பது ஏன்?", "options": ["கார்பனுக்கு ஐசோடோப்புகள் இல்லை", "எலக்ட்ரான்கள் நிறையைக் கூட்டுகின்றன", "இயற்கைச் செழிப்பின்படி C-12, C-13 இன் எடையிட்ட சராசரி", "ஹைட்ரஜன் அளவுகோலில் அளக்கப்படுகிறது"], "explanation": "இயற்கைக் கார்பனில் C-12 98.90%, C-13 1.10%."}
+      "en": {
+        "q": "The atomic mass of carbon in the periodic table is 12.011 amu rather than 12 because",
+        "options": [
+          "carbon has no naturally occurring isotopes",
+          "the electrons add noticeable extra mass",
+          "it is the weighted average of its isotopes' masses",
+          "it is measured on the old hydrogen scale"
+        ],
+        "explanation": "C-12 is 98.90% and C-13 is 1.10% of natural carbon."
+      },
+      "ta": {
+        "q": "ஆவர்த்த அட்டவணையில் கார்பனின் அணுநிறை 12 அல்லாமல் 12.011 amu ஆக இருப்பது ஏன்?",
+        "options": [
+          "கார்பனுக்கு இயற்கையில் ஐசோடோப்புகள் இல்லை",
+          "எலக்ட்ரான்கள் குறிப்பிடத்தக்க நிறையைக் கூட்டுகின்றன",
+          "இது ஐசோடோப்புகளின் இயற்கைச் செழிப்பின் எடையிட்ட சராசரி",
+          "இது பழைய ஹைட்ரஜன் அளவுகோலில் அளக்கப்படுகிறது"
+        ],
+        "explanation": "இயற்கைக் கார்பனில் C-12 98.90%, C-13 1.10%."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 94,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 94,
       "quote": "Boron naturally occurs as a mixture of boron-10 ... and boron-11 ... The percentage abundance of B-10 is 20 and that of B-11 is 80. ... = 10.8 amu",
       "answer": "D",
-      "en": {"q": "Boron occurs as 20% B-10 and 80% B-11. Its average atomic mass is", "options": ["10.2 amu", "10.5 amu", "11.0 amu", "10.8 amu"], "explanation": "(10 × 0.20) + (11 × 0.80) = 2 + 8.8 = 10.8 amu."},
-      "ta": {"q": "போரான் 20% B-10, 80% B-11 ஆகக் காணப்படுகிறது. அதன் சராசரி அணுநிறை என்ன?", "options": ["10.2 amu", "10.5 amu", "11.0 amu", "10.8 amu"], "explanation": "(10 × 0.20) + (11 × 0.80) = 2 + 8.8 = 10.8 amu."}
+      "en": {
+        "q": "Boron occurs as 20% B-10 and 80% B-11. Its average atomic mass is",
+        "options": [
+          "10.2 amu",
+          "10.5 amu",
+          "11.0 amu",
+          "10.8 amu"
+        ],
+        "explanation": "(10 × 0.20) + (11 × 0.80) = 2 + 8.8 = 10.8 amu."
+      },
+      "ta": {
+        "q": "போரான் 20% B-10, 80% B-11 ஆகக் காணப்படுகிறது. அதன் சராசரி அணுநிறை என்ன?",
+        "options": [
+          "10.2 amu",
+          "10.5 amu",
+          "11.0 amu",
+          "10.8 amu"
+        ],
+        "explanation": "(10 × 0.20) + (11 × 0.80) = 2 + 8.8 = 10.8 amu."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 94,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 94,
       "quote": "Oxygen is the most abundant element in both the Earth's crust and the human body. ... 8O16 15.9949 99.757",
       "answer": "A",
-      "en": {"q": "Which isotope of oxygen is the most abundant in nature, as per Table 7.3?", "options": ["O-16", "O-17", "O-18", "O-15"], "explanation": "O-16 makes up 99.757%; the average atomic mass of oxygen is 15.999 amu."},
-      "ta": {"q": "அட்டவணை 7.3இன்படி இயற்கையில் மிக அதிகமாகக் காணப்படும் ஆக்சிஜன் ஐசோடோப்பு எது?", "options": ["O-16", "O-17", "O-18", "O-15"], "explanation": "O-16 99.757%; ஆக்சிஜனின் சராசரி அணுநிறை 15.999 amu."}
+      "en": {
+        "q": "Which isotope of oxygen is the most abundant in nature, as per Table 7.3?",
+        "options": [
+          "O-16",
+          "O-17",
+          "O-18",
+          "O-15"
+        ],
+        "explanation": "O-16 makes up 99.757%; the average atomic mass of oxygen is 15.999 amu."
+      },
+      "ta": {
+        "q": "அட்டவணை 7.3இன்படி இயற்கையில் மிக அதிகமாகக் காணப்படும் ஆக்சிஜன் ஐசோடோப்பு எது?",
+        "options": [
+          "O-16",
+          "O-17",
+          "O-18",
+          "O-15"
+        ],
+        "explanation": "O-16 99.757%; ஆக்சிஜனின் சராசரி அணுநிறை 15.999 amu."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 94,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 94,
       "quote": "Oxygen is the most abundant element in both the Earth's crust and the human body.",
       "answer": "B",
-      "en": {"q": "The most abundant element in both the Earth's crust and the human body is", "options": ["Carbon", "Oxygen", "Silicon", "Hydrogen"], "explanation": "It exists as a mixture of three stable isotopes."},
-      "ta": {"q": "புவி மேலோட்டிலும் மனித உடலிலும் மிக அதிகமாக உள்ள தனிமம் எது?", "options": ["கார்பன்", "ஆக்சிஜன்", "சிலிக்கன்", "ஹைட்ரஜன்"], "explanation": "இது மூன்று நிலையான ஐசோடோப்புகளின் கலவையாக உள்ளது."}
+      "en": {
+        "q": "The most abundant element in both the Earth's crust and the human body is",
+        "options": [
+          "Carbon",
+          "Oxygen",
+          "Silicon",
+          "Hydrogen"
+        ],
+        "explanation": "It exists as a mixture of three stable isotopes."
+      },
+      "ta": {
+        "q": "புவி மேலோட்டிலும் மனித உடலிலும் மிக அதிகமாக உள்ள தனிமம் எது?",
+        "options": [
+          "கார்பன்",
+          "ஆக்சிஜன்",
+          "சிலிக்கன்",
+          "ஹைட்ரஜன்"
+        ],
+        "explanation": "இது மூன்று நிலையான ஐசோடோப்புகளின் கலவையாக உள்ளது."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 94,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 94,
       "quote": "A molecule is a combination of two or more atoms held together by strong chemical forces of attraction, i.e. chemical bonds.",
       "answer": "C",
-      "en": {"q": "A combination of two or more atoms held together by chemical bonds is called", "options": ["an ion", "an isotope", "a molecule", "a nucleus"], "explanation": "Except noble gases, atoms of most elements are found in combined form."},
-      "ta": {"q": "வேதிப் பிணைப்புகளால் இணைக்கப்பட்ட இரண்டு அல்லது அதற்கு மேற்பட்ட அணுக்களின் சேர்க்கை எவ்வாறு அழைக்கப்படும்?", "options": ["அயனி", "ஐசோடோப்பு", "மூலக்கூறு", "உட்கரு"], "explanation": "மந்த வாயுக்கள் தவிரப் பெரும்பாலான தனிமங்களின் அணுக்கள் இணைந்த நிலையில் காணப்படும்."}
+      "en": {
+        "q": "A combination of two or more atoms held together by chemical bonds is called",
+        "options": [
+          "an ion",
+          "an isotope",
+          "a molecule",
+          "a nucleus"
+        ],
+        "explanation": "Except noble gases, atoms of most elements are found in combined form."
+      },
+      "ta": {
+        "q": "வேதிப் பிணைப்புகளால் இணைக்கப்பட்ட இரண்டு அல்லது அதற்கு மேற்பட்ட அணுக்களின் சேர்க்கை எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "அயனி",
+          "ஐசோடோப்பு",
+          "மூலக்கூறு",
+          "உட்கரு"
+        ],
+        "explanation": "மந்த வாயுக்கள் தவிரப் பெரும்பாலான தனிமங்களின் அணுக்கள் இணைந்த நிலையில் காணப்படும்."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 94,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 94,
       "quote": "The number of atoms present in the molecule is called its 'atomicity'.",
       "answer": "D",
-      "en": {"q": "The number of atoms present in a molecule is called its", "options": ["valency", "mass number", "molar mass", "atomicity"], "explanation": "Molecules may be monoatomic, diatomic, triatomic or polyatomic."},
-      "ta": {"q": "ஒரு மூலக்கூறில் உள்ள அணுக்களின் எண்ணிக்கை எவ்வாறு அழைக்கப்படும்?", "options": ["இணைதிறன்", "நிறை எண்", "மோலார் நிறை", "அணுக்கட்டு எண்"], "explanation": "மூலக்கூறுகள் ஓரணு, ஈரணு, மூவணு, பல்லணு வகைகளாக இருக்கலாம்."}
+      "en": {
+        "q": "The number of atoms present in a molecule is called its",
+        "options": [
+          "valency",
+          "mass number",
+          "molar mass",
+          "atomicity"
+        ],
+        "explanation": "Molecules may be monoatomic, diatomic, triatomic or polyatomic."
+      },
+      "ta": {
+        "q": "ஒரு மூலக்கூறில் உள்ள அணுக்களின் எண்ணிக்கை எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "இணைதிறன்",
+          "நிறை எண்",
+          "மோலார் நிறை",
+          "அணுக்கட்டு எண்"
+        ],
+        "explanation": "மூலக்கூறுகள் ஓரணு, ஈரணு, மூவணு, பல்லணு வகைகளாக இருக்கலாம்."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 95,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 95,
       "quote": "Ozone (O3) contains three oxygen atoms and hence it is called homotriatomic molecule.",
       "answer": "A",
-      "en": {"q": "Ozone (O₃) is classified as a", "options": ["homotriatomic molecule", "heterotriatomic molecule", "homodiatomic molecule", "polyatomic compound"], "explanation": "It contains three atoms of the same element."},
-      "ta": {"q": "ஓசோன் (O₃) எவ்வாறு வகைப்படுத்தப்படுகிறது?", "options": ["ஒத்த மூவணு மூலக்கூறு", "வேறுபட்ட மூவணு மூலக்கூறு", "ஒத்த ஈரணு மூலக்கூறு", "பல்லணுச் சேர்மம்"], "explanation": "இதில் ஒரே தனிமத்தின் மூன்று அணுக்கள் உள்ளன."}
+      "en": {
+        "q": "Ozone (O₃) is classified as a",
+        "options": [
+          "homotriatomic molecule",
+          "heterotriatomic molecule",
+          "homodiatomic molecule",
+          "polyatomic compound"
+        ],
+        "explanation": "It contains three atoms of the same element."
+      },
+      "ta": {
+        "q": "ஓசோன் (O₃) எவ்வாறு வகைப்படுத்தப்படுகிறது?",
+        "options": [
+          "ஒத்த மூவணு மூலக்கூறு",
+          "வேறுபட்ட மூவணு மூலக்கூறு",
+          "ஒத்த ஈரணு மூலக்கூறு",
+          "பல்லணுச் சேர்மம்"
+        ],
+        "explanation": "இதில் ஒரே தனிமத்தின் மூன்று அணுக்கள் உள்ளன."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 95,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 95,
       "quote": "the water molecule contains two hydrogen atoms and one oxygen atom. So its atomicity is three. It is a heterotriatomic molecule.",
       "answer": "B",
-      "en": {"q": "A water molecule (H₂O) is a", "options": ["homodiatomic molecule", "heterotriatomic molecule", "homotriatomic molecule", "heterodiatomic molecule"], "explanation": "It has three atoms of two different elements."},
-      "ta": {"q": "நீர் மூலக்கூறு (H₂O) எவ்வகையைச் சேர்ந்தது?", "options": ["ஒத்த ஈரணு மூலக்கூறு", "வேறுபட்ட மூவணு மூலக்கூறு", "ஒத்த மூவணு மூலக்கூறு", "வேறுபட்ட ஈரணு மூலக்கூறு"], "explanation": "இதில் இரு வெவ்வேறு தனிமங்களின் மூன்று அணுக்கள் உள்ளன."}
+      "en": {
+        "q": "A water molecule (H₂O) is a",
+        "options": [
+          "homodiatomic molecule",
+          "heterotriatomic molecule",
+          "homotriatomic molecule",
+          "heterodiatomic molecule"
+        ],
+        "explanation": "It has three atoms of two different elements."
+      },
+      "ta": {
+        "q": "நீர் மூலக்கூறு (H₂O) எவ்வகையைச் சேர்ந்தது?",
+        "options": [
+          "ஒத்த ஈரணு மூலக்கூறு",
+          "வேறுபட்ட மூவணு மூலக்கூறு",
+          "ஒத்த மூவணு மூலக்கூறு",
+          "வேறுபட்ட ஈரணு மூலக்கூறு"
+        ],
+        "explanation": "இதில் இரு வெவ்வேறு தனிமங்களின் மூன்று அணுக்கள் உள்ளன."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 95,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 95,
       "quote": "Conisder hydrogen chloride. It consists of two atoms, but of different elements, i.e. hydrogen and chlorine. So, its atomicity is two. It is a heterodiatomic molecule.",
       "answer": "C",
-      "en": {"q": "Which of the following is a heterodiatomic molecule?", "options": ["O₂", "N₂", "HCl", "O₃"], "explanation": "HCl has two atoms of different elements."},
-      "ta": {"q": "பின்வருவனவற்றுள் வேறுபட்ட ஈரணு மூலக்கூறு எது?", "options": ["O₂", "N₂", "HCl", "O₃"], "explanation": "HCl இல் வெவ்வேறு தனிமங்களின் இரு அணுக்கள் உள்ளன."}
+      "en": {
+        "q": "Which of the following is a heterodiatomic molecule?",
+        "options": [
+          "Br₂",
+          "Cl₂",
+          "HCl",
+          "O₃"
+        ],
+        "explanation": "HCl has two atoms of different elements."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் வேறுபட்ட ஈரணு மூலக்கூறு எது?",
+        "options": [
+          "Br₂",
+          "Cl₂",
+          "HCl",
+          "O₃"
+        ],
+        "explanation": "HCl இல் வெவ்வேறு தனிமங்களின் இரு அணுக்கள் உள்ளன."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 95,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 95,
       "quote": "Other elements that exist as diatomic molecules are hydrogen (H2), nitrogen (N2) and halogens: fluorine (F2), chlorine (Cl2), bromine (Br2) and iodine (I2).",
       "answer": "D",
-      "en": {"q": "Which of the following does NOT exist as a diatomic molecule?", "options": ["Nitrogen", "Chlorine", "Iodine", "Helium"], "explanation": "Helium is a noble gas and exists as single atoms."},
-      "ta": {"q": "பின்வருவனவற்றுள் ஈரணு மூலக்கூறாக இல்லாதது எது?", "options": ["நைட்ரஜன்", "குளோரின்", "அயோடின்", "ஹீலியம்"], "explanation": "ஹீலியம் மந்த வாயு; தனி அணுக்களாக உள்ளது."}
+      "en": {
+        "q": "Which of the following does NOT exist as a diatomic molecule?",
+        "options": [
+          "Nitrogen",
+          "Chlorine",
+          "Iodine",
+          "Helium"
+        ],
+        "explanation": "Helium is a noble gas and exists as single atoms."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் ஈரணு மூலக்கூறாக இல்லாதது எது?",
+        "options": [
+          "நைட்ரஜன்",
+          "குளோரின்",
+          "அயோடின்",
+          "ஹீலியம்"
+        ],
+        "explanation": "ஹீலியம் மந்த வாயு; தனி அணுக்களாக உள்ளது."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 96,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 96,
       "quote": "The relative molecular mass is obtained by adding together the relative atomic masses of all the atoms present in a molecule. ... Relative molecular mass of sulphuric acid ... = (2 × 1) + (1 × 32) + (4 × 16) = 98",
       "answer": "A",
-      "en": {"q": "The relative molecular mass of sulphuric acid (H₂SO₄) is", "options": ["98", "96", "100", "82"], "explanation": "(2 × 1) + 32 + (4 × 16) = 98."},
-      "ta": {"q": "கந்தக அமிலத்தின் (H₂SO₄) ஒப்பு மூலக்கூறு நிறை என்ன?", "options": ["98", "96", "100", "82"], "explanation": "(2 × 1) + 32 + (4 × 16) = 98."}
+      "en": {
+        "q": "The relative molecular mass of sulphuric acid (H₂SO₄) is",
+        "options": [
+          "98",
+          "96",
+          "100",
+          "82"
+        ],
+        "explanation": "(2 × 1) + 32 + (4 × 16) = 98."
+      },
+      "ta": {
+        "q": "கந்தக அமிலத்தின் (H₂SO₄) ஒப்பு மூலக்கூறு நிறை என்ன?",
+        "options": [
+          "98",
+          "96",
+          "100",
+          "82"
+        ],
+        "explanation": "(2 × 1) + 32 + (4 × 16) = 98."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 96,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 96,
       "quote": "Gram Molecular Mass of water = 18 g Gram Molecular Mass of carbon dioxide = 44 g Gram Molecular Mass of ammonia = 17 g Gram Molecular Mass of HCl = 36.5 g",
       "answer": "B",
-      "en": {"q": "The gram molecular mass of carbon dioxide is", "options": ["28 g", "44 g", "32 g", "18 g"], "explanation": "12 + (2 × 16) = 44 g."},
-      "ta": {"q": "கார்பன் டைஆக்சைடின் கிராம் மூலக்கூறு நிறை என்ன?", "options": ["28 கி", "44 கி", "32 கி", "18 கி"], "explanation": "12 + (2 × 16) = 44 கி."}
+      "en": {
+        "q": "The gram molecular mass of carbon dioxide is",
+        "options": [
+          "28 g",
+          "44 g",
+          "32 g",
+          "18 g"
+        ],
+        "explanation": "12 + (2 × 16) = 44 g."
+      },
+      "ta": {
+        "q": "கார்பன் டைஆக்சைடின் கிராம் மூலக்கூறு நிறை என்ன?",
+        "options": [
+          "28 கி",
+          "44 கி",
+          "32 கி",
+          "18 கி"
+        ],
+        "explanation": "12 + (2 × 16) = 44 கி."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 96,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 96,
       "quote": "An atom is the smallest particle of an element / A molecule is the smallest particle of an element or compound. Atom does not exist in free state except in noble gas / Molecule exists in a free state",
       "answer": "C",
-      "en": {"q": "Which statement correctly distinguishes atoms from molecules?", "options": ["Atoms exist freely; molecules do not", "Atoms are held by chemical bonds", "Molecules exist in a free state; atoms, except noble gases, do not", "Molecules are more reactive than atoms"], "explanation": "Atoms other than noble gases are highly reactive; molecules are less reactive."},
-      "ta": {"q": "அணுக்களையும் மூலக்கூறுகளையும் சரியாக வேறுபடுத்தும் கூற்று எது?", "options": ["அணுக்கள் தனித்து உள்ளன; மூலக்கூறுகள் இல்லை", "அணுக்கள் வேதிப் பிணைப்பால் இணைந்துள்ளன", "மூலக்கூறுகள் தனித்து உள்ளன; மந்த வாயுக்கள் தவிர அணுக்கள் இல்லை", "மூலக்கூறுகள் அணுக்களை விட வினைத்திறன் மிக்கவை"], "explanation": "மந்த வாயுக்கள் தவிர அணுக்கள் மிக வினைத்திறன் மிக்கவை; மூலக்கூறுகள் குறைவு."}
+      "en": {
+        "q": "Which statement correctly distinguishes atoms from molecules?",
+        "options": [
+          "Atoms exist in a free state, but molecules do not",
+          "Atoms are held together by strong chemical bonds",
+          "Molecules exist freely; atoms, except noble gases, do not",
+          "Molecules are far more reactive than atoms"
+        ],
+        "explanation": "Atoms other than noble gases are highly reactive; molecules are less reactive."
+      },
+      "ta": {
+        "q": "அணுக்களையும் மூலக்கூறுகளையும் சரியாக வேறுபடுத்தும் கூற்று எது?",
+        "options": [
+          "அணுக்கள் தனித்து உள்ளன; மூலக்கூறுகள் இல்லை",
+          "அணுக்கள் வேதிப் பிணைப்பால் இணைந்துள்ளன",
+          "மூலக்கூறுகள் தனித்து உள்ளன; மந்த வாயுக்கள் தவிர அணுக்கள் இல்லை",
+          "மூலக்கூறுகள் அணுக்களை விட வினைத்திறன் மிக்கவை"
+        ],
+        "explanation": "மந்த வாயுக்கள் தவிர அணுக்கள் மிக வினைத்திறன் மிக்கவை; மூலக்கூறுகள் குறைவு."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 97,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 97,
       "quote": "The actual number of atoms in 12 g of carbon-12 is determined experimentally. This is called Avogadro's Number (NA), named after an Italian scientist Amedeo Avogadro who proposed its significance.",
       "answer": "D",
-      "en": {"q": "Avogadro's number is the number of atoms present in", "options": ["1 g of hydrogen", "16 g of oxygen atoms divided by 2", "22.4 ml of any gas", "exactly 12 g of carbon-12"], "explanation": "It is named after the Italian scientist Amedeo Avogadro."},
-      "ta": {"q": "அவகாட்ரோ எண் என்பது எதில் உள்ள அணுக்களின் எண்ணிக்கை?", "options": ["1 கி ஹைட்ரஜன்", "16 கி ஆக்சிஜன் அணுக்களில் பாதி", "எந்த வாயுவின் 22.4 மி.லி.", "சரியாக 12 கி கார்பன்-12"], "explanation": "இத்தாலிய அறிவியலாளர் அமேடியோ அவகாட்ரோ பெயரால் அழைக்கப்படுகிறது."}
+      "en": {
+        "q": "Avogadro's number is the number of atoms present in",
+        "options": [
+          "1 g of hydrogen",
+          "16 g of oxygen atoms divided by 2",
+          "22.4 ml of any gas",
+          "exactly 12 g of carbon-12"
+        ],
+        "explanation": "It is named after the Italian scientist Amedeo Avogadro."
+      },
+      "ta": {
+        "q": "அவகாட்ரோ எண் என்பது எதில் உள்ள அணுக்களின் எண்ணிக்கை?",
+        "options": [
+          "1 கி ஹைட்ரஜன்",
+          "16 கி ஆக்சிஜன் அணுக்களில் பாதி",
+          "எந்த வாயுவின் 22.4 மி.லி.",
+          "சரியாக 12 கி கார்பன்-12"
+        ],
+        "explanation": "இத்தாலிய அறிவியலாளர் அமேடியோ அவகாட்ரோ பெயரால் அழைக்கப்படுகிறது."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 97,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 97,
       "quote": "One mole of any gas occupies 22.4 litre or 22400 ml at S.T.P. This volume is called as molar volume.",
       "answer": "A",
-      "en": {"q": "The volume occupied by one mole of any gas at STP (molar volume) is", "options": ["22.4 litre", "2.24 litre", "11.2 litre", "224 litre"], "explanation": "22.4 litre = 22400 ml."},
-      "ta": {"q": "STP-இல் ஒரு மோல் வாயு அடைக்கும் கனஅளவு (மோலார் கனஅளவு) என்ன?", "options": ["22.4 லிட்டர்", "2.24 லிட்டர்", "11.2 லிட்டர்", "224 லிட்டர்"], "explanation": "22.4 லிட்டர் = 22400 மி.லி."}
+      "en": {
+        "q": "The volume occupied by one mole of any gas at STP (molar volume) is",
+        "options": [
+          "22.4 litre",
+          "2.24 litre",
+          "11.2 litre",
+          "224 litre"
+        ],
+        "explanation": "22.4 litre = 22400 ml."
+      },
+      "ta": {
+        "q": "STP-இல் ஒரு மோல் வாயு அடைக்கும் கனஅளவு (மோலார் கனஅளவு) என்ன?",
+        "options": [
+          "22.4 லிட்டர்",
+          "2.24 லிட்டர்",
+          "11.2 லிட்டர்",
+          "224 லிட்டர்"
+        ],
+        "explanation": "22.4 லிட்டர் = 22400 மி.லி."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 97,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 97,
       "quote": "one mole of oxygen molecule contains 6.023 × 10^23 molecules of oxygen and its gram molecular mass is 32 g.",
       "answer": "B",
-      "en": {"q": "The gram molecular mass of the oxygen molecule (O₂) is", "options": ["16 g", "32 g", "18 g", "17 g"], "explanation": "One mole of O₂ contains 6.023 × 10²³ molecules and weighs 32 g."},
-      "ta": {"q": "ஆக்சிஜன் மூலக்கூறின் (O₂) கிராம் மூலக்கூறு நிறை என்ன?", "options": ["16 கி", "32 கி", "18 கி", "17 கி"], "explanation": "ஒரு மோல் O₂ இல் 6.023 × 10²³ மூலக்கூறுகள்; நிறை 32 கி."}
+      "en": {
+        "q": "The gram molecular mass of the oxygen molecule (O₂) is",
+        "options": [
+          "16 g",
+          "32 g",
+          "18 g",
+          "17 g"
+        ],
+        "explanation": "One mole of O₂ contains 6.023 × 10²³ molecules and weighs 32 g."
+      },
+      "ta": {
+        "q": "ஆக்சிஜன் மூலக்கூறின் (O₂) கிராம் மூலக்கூறு நிறை என்ன?",
+        "options": [
+          "16 கி",
+          "32 கி",
+          "18 கி",
+          "17 கி"
+        ],
+        "explanation": "ஒரு மோல் O₂ இல் 6.023 × 10²³ மூலக்கூறுகள்; நிறை 32 கி."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 102,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 102,
       "quote": "Which of the following has the smallest mass? a. 6.023 × 10^23 atoms of He b. 1 atom of He c. 2 g of He d. 1 mole atoms of He",
       "answer": "C",
-      "en": {"q": "Which of the following has the smallest mass?", "options": ["6.023 × 10²³ atoms of He", "2 g of He", "1 atom of He", "1 mole of He atoms"], "explanation": "A single atom weighs far less than a mole or 2 g."},
-      "ta": {"q": "பின்வருவனவற்றுள் மிகக் குறைந்த நிறை கொண்டது எது?", "options": ["6.023 × 10²³ He அணுக்கள்", "2 கி He", "1 He அணு", "1 மோல் He அணுக்கள்"], "explanation": "ஒரு தனி அணு ஒரு மோல் அல்லது 2 கி ஐ விட மிகக் குறைந்த நிறை கொண்டது."}
+      "en": {
+        "q": "Which of the following has the smallest mass?",
+        "options": [
+          "6.023 × 10²³ atoms of He",
+          "2 g of He",
+          "1 atom of He",
+          "1 mole of He atoms"
+        ],
+        "explanation": "A single atom weighs far less than a mole or 2 g."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் மிகக் குறைந்த நிறை கொண்டது எது?",
+        "options": [
+          "6.023 × 10²³ He அணுக்கள்",
+          "2 கி He",
+          "1 He அணு",
+          "1 மோல் He அணுக்கள்"
+        ],
+        "explanation": "ஒரு தனி அணு ஒரு மோல் அல்லது 2 கி ஐ விட மிகக் குறைந்த நிறை கொண்டது."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 100,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 100,
       "quote": "Calculate the number of moles in 46 g of sodium? ... = 46 / 23 = 2 moles of sodium",
       "answer": "D",
-      "en": {"q": "The number of moles in 46 g of sodium (atomic mass 23) is", "options": ["0.5", "1", "23", "2"], "explanation": "Moles = mass / atomic mass = 46 / 23 = 2."},
-      "ta": {"q": "46 கி சோடியத்தில் (அணுநிறை 23) எத்தனை மோல்கள்?", "options": ["0.5", "1", "23", "2"], "explanation": "மோல்கள் = நிறை / அணுநிறை = 46 / 23 = 2."}
+      "en": {
+        "q": "The number of moles in 46 g of sodium (atomic mass 23) is",
+        "options": [
+          "0.5",
+          "1",
+          "23",
+          "2"
+        ],
+        "explanation": "Moles = mass / atomic mass = 46 / 23 = 2."
+      },
+      "ta": {
+        "q": "46 கி சோடியத்தில் (அணுநிறை 23) எத்தனை மோல்கள்?",
+        "options": [
+          "0.5",
+          "1",
+          "23",
+          "2"
+        ],
+        "explanation": "மோல்கள் = நிறை / அணுநிறை = 46 / 23 = 2."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 100,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 100,
       "quote": "5.6 litre of oxygen at S.T.P ... Number of moles of oxygen = 5.6/22.4 = 0.25 mole of oxygen",
       "answer": "A",
-      "en": {"q": "The number of moles in 5.6 litre of oxygen at STP is", "options": ["0.25", "0.5", "4", "2.5"], "explanation": "Moles = 5.6 / 22.4 = 0.25."},
-      "ta": {"q": "STP-இல் 5.6 லிட்டர் ஆக்சிஜனில் எத்தனை மோல்கள்?", "options": ["0.25", "0.5", "4", "2.5"], "explanation": "மோல்கள் = 5.6 / 22.4 = 0.25."}
+      "en": {
+        "q": "The number of moles in 5.6 litre of oxygen at STP is",
+        "options": [
+          "0.25",
+          "0.5",
+          "4",
+          "2.5"
+        ],
+        "explanation": "Moles = 5.6 / 22.4 = 0.25."
+      },
+      "ta": {
+        "q": "STP-இல் 5.6 லிட்டர் ஆக்சிஜனில் எத்தனை மோல்கள்?",
+        "options": [
+          "0.25",
+          "0.5",
+          "4",
+          "2.5"
+        ],
+        "explanation": "மோல்கள் = 5.6 / 22.4 = 0.25."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 100,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 100,
       "quote": "0.3 mole of aluminium (Atomic mass of Al = 27) ... So, mass of Al = 0.3 × 27 = 8.1 g",
       "answer": "B",
-      "en": {"q": "The mass of 0.3 mole of aluminium (atomic mass 27) is", "options": ["90 g", "8.1 g", "2.7 g", "0.81 g"], "explanation": "Mass = moles × atomic mass = 0.3 × 27 = 8.1 g."},
-      "ta": {"q": "0.3 மோல் அலுமினியத்தின் (அணுநிறை 27) நிறை என்ன?", "options": ["90 கி", "8.1 கி", "2.7 கி", "0.81 கி"], "explanation": "நிறை = மோல்கள் × அணுநிறை = 0.3 × 27 = 8.1 கி."}
+      "en": {
+        "q": "The mass of 0.3 mole of aluminium (atomic mass 27) is",
+        "options": [
+          "90 g",
+          "8.1 g",
+          "2.7 g",
+          "0.81 g"
+        ],
+        "explanation": "Mass = moles × atomic mass = 0.3 × 27 = 8.1 g."
+      },
+      "ta": {
+        "q": "0.3 மோல் அலுமினியத்தின் (அணுநிறை 27) நிறை என்ன?",
+        "options": [
+          "90 கி",
+          "8.1 கி",
+          "2.7 கி",
+          "0.81 கி"
+        ],
+        "explanation": "நிறை = மோல்கள் × அணுநிறை = 0.3 × 27 = 8.1 கி."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 102,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 102,
       "quote": "The volume occupied by 4.4 g of CO2 at S.T.P a. 22.4 litre b. 2.24 litre c. 0.24 litre d. 0.1 litre",
       "answer": "C",
-      "en": {"q": "The volume occupied by 4.4 g of CO₂ at STP is", "options": ["22.4 litre", "0.1 litre", "2.24 litre", "0.24 litre"], "explanation": "4.4 g = 0.1 mole; 0.1 × 22.4 = 2.24 litre."},
-      "ta": {"q": "STP-இல் 4.4 கி CO₂ அடைக்கும் கனஅளவு என்ன?", "options": ["22.4 லிட்டர்", "0.1 லிட்டர்", "2.24 லிட்டர்", "0.24 லிட்டர்"], "explanation": "4.4 கி = 0.1 மோல்; 0.1 × 22.4 = 2.24 லிட்டர்."}
+      "en": {
+        "q": "The volume occupied by 4.4 g of CO₂ at STP is",
+        "options": [
+          "22.4 litre",
+          "0.1 litre",
+          "2.24 litre",
+          "0.24 litre"
+        ],
+        "explanation": "4.4 g = 0.1 mole; 0.1 × 22.4 = 2.24 litre."
+      },
+      "ta": {
+        "q": "STP-இல் 4.4 கி CO₂ அடைக்கும் கனஅளவு என்ன?",
+        "options": [
+          "22.4 லிட்டர்",
+          "0.1 லிட்டர்",
+          "2.24 லிட்டர்",
+          "0.24 லிட்டர்"
+        ],
+        "explanation": "4.4 கி = 0.1 மோல்; 0.1 × 22.4 = 2.24 லிட்டர்."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 101,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 101,
       "quote": "Calculate the number of molecules in 11.2 litre of CO2 at S.T.P ... = 0.5 mole ... = 3.011 × 10^23 molecules of CO2",
       "answer": "D",
-      "en": {"q": "The number of molecules in 11.2 litre of CO₂ at STP is", "options": ["6.023 × 10²³", "1.2046 × 10²⁴", "11.2 × 10²³", "3.011 × 10²³"], "explanation": "11.2 / 22.4 = 0.5 mole; 0.5 × 6.023 × 10²³ = 3.011 × 10²³."},
-      "ta": {"q": "STP-இல் 11.2 லிட்டர் CO₂ இல் உள்ள மூலக்கூறுகளின் எண்ணிக்கை என்ன?", "options": ["6.023 × 10²³", "1.2046 × 10²⁴", "11.2 × 10²³", "3.011 × 10²³"], "explanation": "11.2 / 22.4 = 0.5 மோல்; 0.5 × 6.023 × 10²³ = 3.011 × 10²³."}
+      "en": {
+        "q": "The number of molecules in 11.2 litre of CO₂ at STP is",
+        "options": [
+          "6.023 × 10²³",
+          "1.2046 × 10²⁴",
+          "11.2 × 10²³",
+          "3.011 × 10²³"
+        ],
+        "explanation": "11.2 / 22.4 = 0.5 mole; 0.5 × 6.023 × 10²³ = 3.011 × 10²³."
+      },
+      "ta": {
+        "q": "STP-இல் 11.2 லிட்டர் CO₂ இல் உள்ள மூலக்கூறுகளின் எண்ணிக்கை என்ன?",
+        "options": [
+          "6.023 × 10²³",
+          "1.2046 × 10²⁴",
+          "11.2 × 10²³",
+          "3.011 × 10²³"
+        ],
+        "explanation": "11.2 / 22.4 = 0.5 மோல்; 0.5 × 6.023 × 10²³ = 3.011 × 10²³."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 101,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 101,
       "quote": "2) 12.046 × 10^23 of ammonia gas molecules ... = 2 moles ... = 2 × 22.4 = 44.8 litres at S.T.P",
       "answer": "A",
-      "en": {"q": "The volume occupied at STP by 12.046 × 10²³ molecules of ammonia is", "options": ["44.8 litre", "22.4 litre", "11.2 litre", "34 litre"], "explanation": "12.046 × 10²³ / 6.023 × 10²³ = 2 moles; 2 × 22.4 = 44.8 litre."},
-      "ta": {"q": "12.046 × 10²³ அம்மோனியா மூலக்கூறுகள் STP-இல் அடைக்கும் கனஅளவு என்ன?", "options": ["44.8 லிட்டர்", "22.4 லிட்டர்", "11.2 லிட்டர்", "34 லிட்டர்"], "explanation": "12.046 × 10²³ / 6.023 × 10²³ = 2 மோல்கள்; 2 × 22.4 = 44.8 லிட்டர்."}
+      "en": {
+        "q": "The volume occupied at STP by 12.046 × 10²³ molecules of ammonia is",
+        "options": [
+          "44.8 litre",
+          "22.4 litre",
+          "11.2 litre",
+          "34 litre"
+        ],
+        "explanation": "12.046 × 10²³ / 6.023 × 10²³ = 2 moles; 2 × 22.4 = 44.8 litre."
+      },
+      "ta": {
+        "q": "12.046 × 10²³ அம்மோனியா மூலக்கூறுகள் STP-இல் அடைக்கும் கனஅளவு என்ன?",
+        "options": [
+          "44.8 லிட்டர்",
+          "22.4 லிட்டர்",
+          "11.2 லிட்டர்",
+          "34 லிட்டர்"
+        ],
+        "explanation": "12.046 × 10²³ / 6.023 × 10²³ = 2 மோல்கள்; 2 × 22.4 = 44.8 லிட்டர்."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 101,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 101,
       "quote": "14 g nitrogen gas Number of moles = 14 / 28 = 0.5 mole ... = 0.5 × 22.4 = 11.2 litres.",
       "answer": "B",
-      "en": {"q": "The volume occupied by 14 g of nitrogen gas (N₂) at STP is", "options": ["22.4 litre", "11.2 litre", "5.6 litre", "14 litre"], "explanation": "14 / 28 = 0.5 mole; 0.5 × 22.4 = 11.2 litre."},
-      "ta": {"q": "STP-இல் 14 கி நைட்ரஜன் வாயு (N₂) அடைக்கும் கனஅளவு என்ன?", "options": ["22.4 லிட்டர்", "11.2 லிட்டர்", "5.6 லிட்டர்", "14 லிட்டர்"], "explanation": "14 / 28 = 0.5 மோல்; 0.5 × 22.4 = 11.2 லிட்டர்."}
+      "en": {
+        "q": "The volume occupied by 14 g of nitrogen gas (N₂) at STP is",
+        "options": [
+          "22.4 litre",
+          "11.2 litre",
+          "5.6 litre",
+          "14 litre"
+        ],
+        "explanation": "14 / 28 = 0.5 mole; 0.5 × 22.4 = 11.2 litre."
+      },
+      "ta": {
+        "q": "STP-இல் 14 கி நைட்ரஜன் வாயு (N₂) அடைக்கும் கனஅளவு என்ன?",
+        "options": [
+          "22.4 லிட்டர்",
+          "11.2 லிட்டர்",
+          "5.6 லிட்டர்",
+          "14 லிட்டர்"
+        ],
+        "explanation": "14 / 28 = 0.5 மோல்; 0.5 × 22.4 = 11.2 லிட்டர்."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 98,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 98,
       "quote": "Mass % of hydrogen = 2/18 × 100 = 11.11 % Mass % of oxygen = 16/18 × 100 = 88.89 %",
       "answer": "C",
-      "en": {"q": "The mass percentage of oxygen in water (H₂O) is", "options": ["11.11%", "50%", "88.89%", "66.67%"], "explanation": "16 / 18 × 100 = 88.89%."},
-      "ta": {"q": "நீரில் (H₂O) ஆக்சிஜனின் நிறை சதவீதம் என்ன?", "options": ["11.11%", "50%", "88.89%", "66.67%"], "explanation": "16 / 18 × 100 = 88.89%."}
+      "en": {
+        "q": "The mass percentage of oxygen in water (H₂O) is",
+        "options": [
+          "11.11%",
+          "50%",
+          "88.89%",
+          "66.67%"
+        ],
+        "explanation": "16 / 18 × 100 = 88.89%."
+      },
+      "ta": {
+        "q": "நீரில் (H₂O) ஆக்சிஜனின் நிறை சதவீதம் என்ன?",
+        "options": [
+          "11.11%",
+          "50%",
+          "88.89%",
+          "66.67%"
+        ],
+        "explanation": "16 / 18 × 100 = 88.89%."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 98,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 98,
       "quote": "Find the mass percentage composition of methane (CH4). molecular mass of CH4 = 12 + 4 = 16 g Mass % of carbon = 12/16 × 100 = 75 %",
       "answer": "D",
-      "en": {"q": "The mass percentage of carbon in methane (CH₄) is", "options": ["25%", "12%", "80%", "75%"], "explanation": "12 / 16 × 100 = 75%; hydrogen is 25%."},
-      "ta": {"q": "மீத்தேனில் (CH₄) கார்பனின் நிறை சதவீதம் என்ன?", "options": ["25%", "12%", "80%", "75%"], "explanation": "12 / 16 × 100 = 75%; ஹைட்ரஜன் 25%."}
+      "en": {
+        "q": "The mass percentage of carbon in methane (CH₄) is",
+        "options": [
+          "25%",
+          "12%",
+          "80%",
+          "75%"
+        ],
+        "explanation": "12 / 16 × 100 = 75%; hydrogen is 25%."
+      },
+      "ta": {
+        "q": "மீத்தேனில் (CH₄) கார்பனின் நிறை சதவீதம் என்ன?",
+        "options": [
+          "25%",
+          "12%",
+          "80%",
+          "75%"
+        ],
+        "explanation": "12 / 16 × 100 = 75%; ஹைட்ரஜன் 25%."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 102,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 102,
       "quote": "Calculate % of S in H2SO4 ... = 32/98 × 100 = 32.65 %",
       "answer": "A",
-      "en": {"q": "The percentage of sulphur in H₂SO₄ is about", "options": ["32.65%", "65.3%", "2.04%", "16.33%"], "explanation": "32 / 98 × 100 = 32.65%."},
-      "ta": {"q": "H₂SO₄ இல் கந்தகத்தின் சதவீதம் ஏறக்குறைய என்ன?", "options": ["32.65%", "65.3%", "2.04%", "16.33%"], "explanation": "32 / 98 × 100 = 32.65%."}
+      "en": {
+        "q": "The percentage of sulphur in H₂SO₄ is about",
+        "options": [
+          "32.65%",
+          "65.3%",
+          "2.04%",
+          "16.33%"
+        ],
+        "explanation": "32 / 98 × 100 = 32.65%."
+      },
+      "ta": {
+        "q": "H₂SO₄ இல் கந்தகத்தின் சதவீதம் ஏறக்குறைய என்ன?",
+        "options": [
+          "32.65%",
+          "65.3%",
+          "2.04%",
+          "16.33%"
+        ],
+        "explanation": "32 / 98 × 100 = 32.65%."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 98,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 98,
       "quote": "In 1811 Avogadro framed a hypothesis ... The Avogadro's law states that \"equal volumes of all gases under similar conditions of temperature and pressure contain equal number of molecules\"",
       "answer": "B",
-      "en": {"q": "Avogadro framed his hypothesis that equal volumes of all gases under the same temperature and pressure contain equal numbers of molecules in", "options": ["1803", "1811", "1896", "1905"], "explanation": "So 1 litre of hydrogen has the same number of molecules as 1 litre of oxygen."},
-      "ta": {"q": "ஒரே வெப்பநிலை, அழுத்தத்தில் சம கனஅளவுள்ள வாயுக்கள் சம எண்ணிக்கை மூலக்கூறுகளைக் கொண்டிருக்கும் என்ற கருதுகோளை அவகாட்ரோ வகுத்த ஆண்டு எது?", "options": ["1803", "1811", "1896", "1905"], "explanation": "எனவே 1 லிட்டர் ஹைட்ரஜனிலும் 1 லிட்டர் ஆக்சிஜனிலும் சம எண்ணிக்கை மூலக்கூறுகள்."}
+      "en": {
+        "q": "Avogadro framed his hypothesis that equal volumes of all gases under the same temperature and pressure contain equal numbers of molecules in",
+        "options": [
+          "1803",
+          "1811",
+          "1896",
+          "1905"
+        ],
+        "explanation": "So 1 litre of hydrogen has the same number of molecules as 1 litre of oxygen."
+      },
+      "ta": {
+        "q": "ஒரே வெப்பநிலை, அழுத்தத்தில் சம கனஅளவுள்ள வாயுக்கள் சம எண்ணிக்கை மூலக்கூறுகளைக் கொண்டிருக்கும் என்ற கருதுகோளை அவகாட்ரோ வகுத்த ஆண்டு எது?",
+        "options": [
+          "1803",
+          "1811",
+          "1896",
+          "1905"
+        ],
+        "explanation": "எனவே 1 லிட்டர் ஹைட்ரஜனிலும் 1 லிட்டர் ஆக்சிஜனிலும் சம எண்ணிக்கை மூலக்கூறுகள்."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 99,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 99,
       "quote": "i. It explains Gay-Lussac's law. ii. It helps in the determination of atomicity of gases. iii. Molecular formula of gases can be derived using Avogadro's law iv. It determines the relation between molecular mass and vapour density. v. It helps to determine gram molar volume of all gases",
       "answer": "C",
-      "en": {"q": "Which of the following is NOT an application of Avogadro's law listed in the text?", "options": ["It explains Gay-Lussac's law", "It helps determine the atomicity of gases", "It explains radioactive decay", "It gives the relation between molecular mass and vapour density"], "explanation": "It also helps derive molecular formulae and the molar volume of gases."},
-      "ta": {"q": "பாடநூலில் அவகாட்ரோ விதியின் பயன்பாடாகக் குறிப்பிடப்படாதது எது?", "options": ["கே-லூசாக் விதியை விளக்குகிறது", "வாயுக்களின் அணுக்கட்டு எண்ணைக் கண்டறிய உதவுகிறது", "கதிரியக்கச் சிதைவை விளக்குகிறது", "மூலக்கூறு நிறைக்கும் ஆவி அடர்த்திக்கும் தொடர்பைத் தருகிறது"], "explanation": "வாயுக்களின் மூலக்கூறு வாய்பாடு, மோலார் கனஅளவைக் கண்டறியவும் உதவுகிறது."}
+      "en": {
+        "q": "Which of the following is NOT an application of Avogadro's law listed in the text?",
+        "options": [
+          "It explains Gay-Lussac's law",
+          "It helps determine the atomicity of gases",
+          "It explains radioactive decay",
+          "It gives the relation between molecular mass and vapour density"
+        ],
+        "explanation": "It also helps derive molecular formulae and the molar volume of gases."
+      },
+      "ta": {
+        "q": "பாடநூலில் அவகாட்ரோ விதியின் பயன்பாடாகக் குறிப்பிடப்படாதது எது?",
+        "options": [
+          "கே-லூசாக் விதியை விளக்குகிறது",
+          "வாயுக்களின் அணுக்கட்டு எண்ணைக் கண்டறிய உதவுகிறது",
+          "கதிரியக்கச் சிதைவை விளக்குகிறது",
+          "மூலக்கூறு நிறைக்கும் ஆவி அடர்த்திக்கும் தொடர்பைத் தருகிறது"
+        ],
+        "explanation": "வாயுக்களின் மூலக்கூறு வாய்பாடு, மோலார் கனஅளவைக் கண்டறியவும் உதவுகிறது."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 99,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 99,
       "quote": "Vapour density is the ratio of the mass of a certain volume of a gas or vapour, to the mass of an equal volume of hydrogen, measured under the same conditions of temperature and pressure.",
       "answer": "D",
-      "en": {"q": "Vapour density of a gas is the ratio of the mass of a certain volume of the gas to the mass of an equal volume of", "options": ["oxygen", "air", "carbon-12", "hydrogen"], "explanation": "Both are measured under the same temperature and pressure."},
-      "ta": {"q": "ஒரு வாயுவின் ஆவி அடர்த்தி என்பது அதன் குறிப்பிட்ட கனஅளவின் நிறைக்கும் எதன் சம கனஅளவின் நிறைக்கும் உள்ள விகிதம்?", "options": ["ஆக்சிஜன்", "காற்று", "கார்பன்-12", "ஹைட்ரஜன்"], "explanation": "இரண்டும் ஒரே வெப்பநிலை, அழுத்தத்தில் அளக்கப்படுகின்றன."}
+      "en": {
+        "q": "Vapour density of a gas is the ratio of the mass of a certain volume of the gas to the mass of an equal volume of",
+        "options": [
+          "oxygen",
+          "air",
+          "carbon-12",
+          "hydrogen"
+        ],
+        "explanation": "Both are measured under the same temperature and pressure."
+      },
+      "ta": {
+        "q": "ஒரு வாயுவின் ஆவி அடர்த்தி என்பது அதன் குறிப்பிட்ட கனஅளவின் நிறைக்கும் எதன் சம கனஅளவின் நிறைக்கும் உள்ள விகிதம்?",
+        "options": [
+          "ஆக்சிஜன்",
+          "காற்று",
+          "கார்பன்-12",
+          "ஹைட்ரஜன்"
+        ],
+        "explanation": "இரண்டும் ஒரே வெப்பநிலை, அழுத்தத்தில் அளக்கப்படுகின்றன."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 99,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 99,
       "quote": "2 × vapour density = Relative molecular mass of a gas (Or) Relative molecular mass = 2 × Vapour density",
       "answer": "A",
-      "en": {"q": "The relation between relative molecular mass and vapour density of a gas is", "options": ["Relative molecular mass = 2 × vapour density", "Vapour density = 2 × relative molecular mass", "Relative molecular mass = vapour density", "Relative molecular mass = vapour density / 2"], "explanation": "This follows from Avogadro's law since hydrogen is diatomic."},
-      "ta": {"q": "ஒரு வாயுவின் ஒப்பு மூலக்கூறு நிறைக்கும் ஆவி அடர்த்திக்கும் இடையிலான தொடர்பு எது?", "options": ["ஒப்பு மூலக்கூறு நிறை = 2 × ஆவி அடர்த்தி", "ஆவி அடர்த்தி = 2 × ஒப்பு மூலக்கூறு நிறை", "ஒப்பு மூலக்கூறு நிறை = ஆவி அடர்த்தி", "ஒப்பு மூலக்கூறு நிறை = ஆவி அடர்த்தி / 2"], "explanation": "ஹைட்ரஜன் ஈரணு என்பதால் அவகாட்ரோ விதியிலிருந்து இது பெறப்படுகிறது."}
+      "en": {
+        "q": "The relation between relative molecular mass and vapour density of a gas is",
+        "options": [
+          "Relative molecular mass = 2 × vapour density",
+          "Vapour density = 2 × relative molecular mass",
+          "Relative molecular mass = vapour density",
+          "Relative molecular mass = vapour density / 2"
+        ],
+        "explanation": "This follows from Avogadro's law since hydrogen is diatomic."
+      },
+      "ta": {
+        "q": "ஒரு வாயுவின் ஒப்பு மூலக்கூறு நிறைக்கும் ஆவி அடர்த்திக்கும் இடையிலான தொடர்பு எது?",
+        "options": [
+          "ஒப்பு மூலக்கூறு நிறை = 2 × ஆவி அடர்த்தி",
+          "ஆவி அடர்த்தி = 2 × ஒப்பு மூலக்கூறு நிறை",
+          "ஒப்பு மூலக்கூறு நிறை = ஆவி அடர்த்தி",
+          "ஒப்பு மூலக்கூறு நிறை = ஆவி அடர்த்தி / 2"
+        ],
+        "explanation": "ஹைட்ரஜன் ஈரணு என்பதால் அவகாட்ரோ விதியிலிருந்து இது பெறப்படுகிறது."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 101,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 101,
       "quote": "Calculate the number of molecules in 54 gm of H2O? ... = 6.023 × 10^23 × 54 / 18 = 18.069 × 10^23 molecules",
       "answer": "B",
-      "en": {"q": "The number of molecules in 54 g of water is", "options": ["6.023 × 10²³", "18.069 × 10²³", "3 × 10²³", "54 × 10²³"], "explanation": "54 / 18 = 3 moles; 3 × 6.023 × 10²³ = 18.069 × 10²³."},
-      "ta": {"q": "54 கி நீரில் உள்ள மூலக்கூறுகளின் எண்ணிக்கை என்ன?", "options": ["6.023 × 10²³", "18.069 × 10²³", "3 × 10²³", "54 × 10²³"], "explanation": "54 / 18 = 3 மோல்கள்; 3 × 6.023 × 10²³ = 18.069 × 10²³."}
+      "en": {
+        "q": "The number of molecules in 54 g of water is",
+        "options": [
+          "6.023 × 10²³",
+          "18.069 × 10²³",
+          "3 × 10²³",
+          "54 × 10²³"
+        ],
+        "explanation": "54 / 18 = 3 moles; 3 × 6.023 × 10²³ = 18.069 × 10²³."
+      },
+      "ta": {
+        "q": "54 கி நீரில் உள்ள மூலக்கூறுகளின் எண்ணிக்கை என்ன?",
+        "options": [
+          "6.023 × 10²³",
+          "18.069 × 10²³",
+          "3 × 10²³",
+          "54 × 10²³"
+        ],
+        "explanation": "54 / 18 = 3 மோல்கள்; 3 × 6.023 × 10²³ = 18.069 × 10²³."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 101,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 101,
       "quote": "Calculate the number of atoms of oxygen and carbon in 5 moles of CO2. 1 mole of CO2 contains 2 moles of oxygen 5 moles of CO2 contain 10 moles of oxygen ... = 6.023 × 10^24 atoms of Oxygen",
       "answer": "C",
-      "en": {"q": "The number of oxygen atoms in 5 moles of CO₂ is", "options": ["3.011 × 10²⁴", "5 × 10²³", "6.023 × 10²⁴", "1.2046 × 10²⁴"], "explanation": "5 moles of CO₂ contain 10 moles of O; 10 × 6.023 × 10²³ = 6.023 × 10²⁴."},
-      "ta": {"q": "5 மோல் CO₂ இல் உள்ள ஆக்சிஜன் அணுக்களின் எண்ணிக்கை என்ன?", "options": ["3.011 × 10²⁴", "5 × 10²³", "6.023 × 10²⁴", "1.2046 × 10²⁴"], "explanation": "5 மோல் CO₂ இல் 10 மோல் O; 10 × 6.023 × 10²³ = 6.023 × 10²⁴."}
+      "en": {
+        "q": "The number of oxygen atoms in 5 moles of CO₂ is",
+        "options": [
+          "3.011 × 10²⁴",
+          "5 × 10²³",
+          "6.023 × 10²⁴",
+          "1.2046 × 10²⁴"
+        ],
+        "explanation": "5 moles of CO₂ contain 10 moles of O; 10 × 6.023 × 10²³ = 6.023 × 10²⁴."
+      },
+      "ta": {
+        "q": "5 மோல் CO₂ இல் உள்ள ஆக்சிஜன் அணுக்களின் எண்ணிக்கை என்ன?",
+        "options": [
+          "3.011 × 10²⁴",
+          "5 × 10²³",
+          "6.023 × 10²⁴",
+          "1.2046 × 10²⁴"
+        ],
+        "explanation": "5 மோல் CO₂ இல் 10 மோல் O; 10 × 6.023 × 10²³ = 6.023 × 10²⁴."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 103,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 103,
       "quote": "In the nucleus of 20Ca40, there are a. 20 protons and 40 neutrons b. 20 protons and 20 neutrons",
       "answer": "D",
-      "en": {"q": "The nucleus of ₂₀Ca⁴⁰ contains", "options": ["20 protons and 40 neutrons", "40 protons and 20 neutrons", "20 protons and 40 electrons", "20 protons and 20 neutrons"], "explanation": "Neutrons = mass number − atomic number = 40 − 20 = 20."},
-      "ta": {"q": "₂₀Ca⁴⁰ இன் உட்கருவில் உள்ளவை", "options": ["20 புரோட்டான், 40 நியூட்ரான்", "40 புரோட்டான், 20 நியூட்ரான்", "20 புரோட்டான், 40 எலக்ட்ரான்", "20 புரோட்டான், 20 நியூட்ரான்"], "explanation": "நியூட்ரான்கள் = நிறை எண் − அணு எண் = 40 − 20 = 20."}
+      "en": {
+        "q": "The nucleus of ₂₀Ca⁴⁰ contains",
+        "options": [
+          "20 protons and 40 neutrons",
+          "40 protons and 20 neutrons",
+          "20 protons and 40 electrons",
+          "20 protons and 20 neutrons"
+        ],
+        "explanation": "Neutrons = mass number − atomic number = 40 − 20 = 20."
+      },
+      "ta": {
+        "q": "₂₀Ca⁴⁰ இன் உட்கருவில் உள்ளவை",
+        "options": [
+          "20 புரோட்டான், 40 நியூட்ரான்",
+          "40 புரோட்டான், 20 நியூட்ரான்",
+          "20 புரோட்டான், 40 எலக்ட்ரான்",
+          "20 புரோட்டான், 20 நியூட்ரான்"
+        ],
+        "explanation": "நியூட்ரான்கள் = நிறை எண் − அணு எண் = 40 − 20 = 20."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 95,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 95,
       "quote": "Classify the following molecules based on their atomicity ... Phosphorous (P4), Sulphur (S8)",
       "answer": "A",
-      "en": {"q": "The atomicity of phosphorus (P₄) is", "options": ["4", "1", "2", "8"], "explanation": "P₄ has four atoms per molecule, so it is polyatomic; sulphur (S₈) has atomicity 8."},
-      "ta": {"q": "பாஸ்பரஸின் (P₄) அணுக்கட்டு எண் என்ன?", "options": ["4", "1", "2", "8"], "explanation": "P₄ ஒரு மூலக்கூறுக்கு நான்கு அணுக்கள் கொண்ட பல்லணு; கந்தகம் (S₈) அணுக்கட்டு எண் 8."}
+      "en": {
+        "q": "The atomicity of phosphorus (P₄) is",
+        "options": [
+          "4",
+          "1",
+          "2",
+          "8"
+        ],
+        "explanation": "P₄ has four atoms per molecule, so it is polyatomic; sulphur (S₈) has atomicity 8."
+      },
+      "ta": {
+        "q": "பாஸ்பரஸின் (P₄) அணுக்கட்டு எண் என்ன?",
+        "options": [
+          "4",
+          "1",
+          "2",
+          "8"
+        ],
+        "explanation": "P₄ ஒரு மூலக்கூறுக்கு நான்கு அணுக்கள் கொண்ட பல்லணு; கந்தகம் (S₈) அணுக்கட்டு எண் 8."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 92,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 92,
       "quote": "Atoms of one element can be transmuted into atoms of other elements. In other words, atom is no longer indestructible (discovery of artificial transmutation).",
       "answer": "B",
-      "en": {"q": "The discovery of artificial transmutation showed that", "options": ["atoms always combine in simple ratios", "atoms of one element can be changed into atoms of another element", "all atoms of an element are identical", "atoms are indivisible"], "explanation": "This is a postulate of the modern atomic theory."},
-      "ta": {"q": "செயற்கைத் தனிம மாற்றத்தின் கண்டுபிடிப்பு எதைக் காட்டியது?", "options": ["அணுக்கள் எப்போதும் எளிய விகிதத்தில் இணையும்", "ஒரு தனிமத்தின் அணுக்களை வேறு தனிமத்தின் அணுக்களாக மாற்றலாம்", "ஒரு தனிமத்தின் அனைத்து அணுக்களும் ஒத்தவை", "அணுக்கள் பிளக்க இயலாதவை"], "explanation": "இது நவீன அணுக்கொள்கையின் கருத்து."}
+      "en": {
+        "q": "The discovery of artificial transmutation showed that",
+        "options": [
+          "atoms of an element stay unchanged",
+          "an element can be converted into another",
+          "all atoms of an element are identical",
+          "atoms are solid and indivisible"
+        ],
+        "explanation": "This is a postulate of the modern atomic theory."
+      },
+      "ta": {
+        "q": "செயற்கைத் தனிம மாற்றத்தின் கண்டுபிடிப்பு எதைக் காட்டியது?",
+        "options": [
+          "தனிமத்தின் அணுக்கள் மாறாமல் இருக்கும்",
+          "ஒரு தனிமத்தை மற்றொரு தனிமமாக மாற்றலாம்",
+          "ஒரு தனிமத்தின் அணுக்கள் அனைத்தும் ஒத்தவை",
+          "அணுக்கள் திண்மமானவை, பிளக்க இயலாதவை"
+        ],
+        "explanation": "இது நவீன அணுக்கொள்கையின் கருத்து."
+      }
     }
   ]
 }

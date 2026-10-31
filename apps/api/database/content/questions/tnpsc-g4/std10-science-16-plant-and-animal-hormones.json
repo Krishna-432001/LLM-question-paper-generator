@@ -101,20 +101,20 @@
       "en": {
         "q": "Charles Darwin (1880) observed curvature of the coleoptiles of",
         "options": [
-          "Avena (oat)",
-          "maize",
-          "rice",
-          "canary grass (Phalaris canariensis)"
+          "oat plant",
+          "maize plant",
+          "rice plant",
+          "canary grass"
         ],
         "explanation": "He concluded that an 'influence' passed from the tip to the base."
       },
       "ta": {
         "q": "சார்லஸ் டார்வின் (1880) எதன் முளையுறை வளைவைக் கண்டார்?",
         "options": [
-          "அவினா (ஓட்ஸ்)",
-          "மக்காச்சோளம்",
-          "நெல்",
-          "கேனரிப் புல் (ஃபலாரிஸ் கேனரியென்சிஸ்)"
+          "ஓட்ஸ் செடி",
+          "மக்காச்சோளச் செடி",
+          "நெற்பயிர்",
+          "கேனரிப் புல்"
         ],
         "explanation": "நுனியிலிருந்து அடிப்பகுதிக்கு ஒரு 'தாக்கம்' செல்வதாக முடிவு செய்தார்."
       }
@@ -227,10 +227,10 @@
       "ta": {
         "q": "கருவுறுதலின்றி விதையற்ற கனிகள் உருவாவது எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "தண்டு நீளல் (போல்டிங்)",
+          "தண்டு நீளல்",
           "நுனி ஆதிக்கம்",
           "உதிர்தல்",
-          "கருவுறாக் கனியாதல் (பார்த்தினோகார்பி)"
+          "கருவுறாக் கனியாதல்"
         ],
         "explanation": "தர்பூசணி, திராட்சை, எலுமிச்சையில் ஆக்சின்கள் இதைத் தூண்டுகின்றன."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "Cytokinin is found abundantly in",
         "options": [
-          "ripening bananas",
-          "the liquid endosperm of coconut",
-          "root tips only",
-          "dry seeds"
+          "the skin of ripening bananas",
+          "liquid endosperm of coconut",
+          "the dry bark of old trees",
+          "the dry seeds of cereals"
         ],
         "explanation": "It was first isolated from herring fish sperm; zeatin was isolated from Zea mays."
       },
       "ta": {
         "q": "சைட்டோகைனின் மிக அதிகமாக எதில் காணப்படுகிறது?",
         "options": [
-          "பழுக்கும் வாழைப்பழம்",
-          "தேங்காயின் திரவ முளைசூழ்தசை (இளநீர்)",
-          "வேர் நுனிகள் மட்டும்",
-          "உலர்ந்த விதைகள்"
+          "பழுக்கும் வாழைப்பழத் தோலில்",
+          "தேங்காயின் திரவ முளைசூழ்தசை",
+          "பழைய மரங்களின் உலர்ந்த பட்டையில்",
+          "தானியங்களின் உலர்ந்த விதைகளில்"
         ],
         "explanation": "இது முதலில் ஹெர்ரிங் மீன் விந்திலிருந்து பிரிக்கப்பட்டது; சியாட்டின் மக்காச்சோளத்திலிருந்து பிரிக்கப்பட்டது."
       }
@@ -304,8 +304,8 @@
       "en": {
         "q": "The delay of ageing in plants by application of cytokinin is called the",
         "options": [
-          "Went effect",
-          "bolting effect",
+          "Went-Cholodny effect",
+          "Boysen-Jensen effect",
           "Richmond Lang effect",
           "Bakanae effect"
         ],
@@ -314,8 +314,8 @@
       "ta": {
         "q": "சைட்டோகைனின் பயன்பாட்டால் தாவரங்களில் மூப்படைதல் தாமதமாவது எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "வென்ட் விளைவு",
-          "போல்டிங் விளைவு",
+          "வென்ட்-கோலோட்னி விளைவு",
+          "பாய்சன்-ஜென்சன் விளைவு",
           "ரிச்மண்ட் லாங் விளைவு",
           "பகானே விளைவு"
         ],
@@ -402,7 +402,7 @@
         "q": "ஜிப்ரெல்லின் அளிக்கப்பட்ட ரோசெட் தாவரங்களில் திடீர் தண்டு நீளலும் பின் பூத்தலும் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "கருவுறாக் கனியாதல்",
-          "தண்டு நீளல் (போல்டிங்)",
+          "தண்டு நீளல்",
           "உதிர்தல்",
           "நுனி ஆதிக்கம்"
         ],
@@ -605,9 +605,9 @@
         "q": "பழுத்த வாழைப்பழத்துடன் மூடிய பையில் வைத்த பழுக்காத தக்காளிகள் வேகமாகப் பழுப்பது ஏன்?",
         "options": [
           "வாழைப்பழம் எத்திலீனை வெளியிடுவதால்",
-          "கார்பன் டைஆக்சைடால்",
-          "ஆக்சினால்",
-          "அப்சிசிக் அமிலத்தால்"
+          "வாழைப்பழம் கார்பன் டைஆக்சைடை வெளியிடுவதால்",
+          "வாழைப்பழம் ஆக்சினை வெளியிடுவதால்",
+          "வாழைப்பழம் அப்சிசிக் அமிலத்தை வெளியிடுவதால்"
         ],
         "explanation": "எத்திலீன் கனிகள் பழுப்பதை ஊக்குவிக்கிறது."
       }
@@ -1003,7 +1003,7 @@
           "cretinism",
           "myxoedema",
           "simple goitre",
-          "Grave's disease (hyperthyroidism)"
+          "Grave's disease"
         ],
         "explanation": "It is caused by excess secretion of thyroid hormones."
       },
@@ -1013,7 +1013,7 @@
           "கிரிட்டினிசம்",
           "மிக்ஸிடிமா",
           "எளிய முன்கழுத்துக் கழலை",
-          "கிரேவ்ஸ் நோய் (மிகை தைராய்டு)"
+          "கிரேவ்ஸ் நோய்"
         ],
         "explanation": "தைராய்டு ஹார்மோன் மிகைச் சுரப்பால் ஏற்படுகிறது."
       }
@@ -1235,7 +1235,7 @@
           "parathyroid glands",
           "thymus glands",
           "pineal glands",
-          "adrenal (suprarenal) glands"
+          "adrenal glands"
         ],
         "explanation": "Each has an outer cortex and an inner medulla."
       },
@@ -1245,7 +1245,7 @@
           "பாராதைராய்டு சுரப்பிகள்",
           "தைமஸ் சுரப்பிகள்",
           "பீனியல் சுரப்பிகள்",
-          "அட்ரினல் (சிறுநீரக மேற்சுரப்பி)"
+          "அட்ரினல் சுரப்பிகள்"
         ],
         "explanation": "ஒவ்வொன்றிலும் வெளிப்புறப் புறணியும் உட்புற மெடுல்லாவும் உள்ளன."
       }
@@ -1321,7 +1321,7 @@
         "options": [
           "Insulin",
           "Thyroxine",
-          "Adrenaline (epinephrine)",
+          "Adrenaline",
           "Prolactin"
         ],
         "explanation": "Adrenaline is called the 'flight, fright and fight' hormone."
@@ -1331,7 +1331,7 @@
         "options": [
           "இன்சுலின்",
           "தைராக்சின்",
-          "அட்ரினலின் (எபிநெஃப்ரின்)",
+          "அட்ரினலின்",
           "புரோலாக்டின்"
         ],
         "explanation": "அட்ரினலின் 'பறத்தல், பயம், போராட்ட' ஹார்மோன் எனப்படும்."

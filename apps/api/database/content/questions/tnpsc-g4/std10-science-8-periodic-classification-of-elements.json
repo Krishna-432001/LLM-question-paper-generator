@@ -189,9 +189,9 @@
         "q": "Group 16 of the periodic table is known as the",
         "options": [
           "oxygen family or chalcogen family",
-          "nitrogen family",
-          "carbon family",
-          "boron family"
+          "nitrogen family or pnictogen family",
+          "carbon family or crystallogen family",
+          "boron family or icosagen family"
         ],
         "explanation": "Group 15 is the nitrogen family and group 14 the carbon family."
       },
@@ -199,9 +199,9 @@
         "q": "ஆவர்த்த அட்டவணையின் 16ஆம் தொகுதி எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "ஆக்சிஜன் குடும்பம் அல்லது சால்கோஜன் குடும்பம்",
-          "நைட்ரஜன் குடும்பம்",
-          "கார்பன் குடும்பம்",
-          "போரான் குடும்பம்"
+          "நைட்ரஜன் குடும்பம் அல்லது நிக்டோஜன் குடும்பம்",
+          "கார்பன் குடும்பம் அல்லது கிரிஸ்டலோஜன் குடும்பம்",
+          "போரான் குடும்பம் அல்லது இகோசாஜன் குடும்பம்"
         ],
         "explanation": "15ஆம் தொகுதி நைட்ரஜன் குடும்பம்; 14ஆம் தொகுதி கார்பன் குடும்பம்."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "Group 18 elements are unreactive because they",
         "options": [
-          "have one valence electron",
-          "are metals",
-          "are radioactive",
-          "have a stable electronic configuration in their valence shells"
+          "have one electron in the valence shell",
+          "are heavy metals with low melting points",
+          "are radioactive and decay quickly",
+          "have a stable octet in their valence shell"
         ],
         "explanation": "Their outer s and p orbitals are completely filled."
       },
       "ta": {
         "q": "18ஆம் தொகுதித் தனிமங்கள் வினைபுரியாதவை ஏனெனில் அவை",
         "options": [
-          "ஒரு இணைதிறன் எலக்ட்ரான் கொண்டவை",
-          "உலோகங்கள்",
-          "கதிரியக்கம் உடையவை",
-          "இணைதிறன் கூட்டில் நிலையான எலக்ட்ரான் அமைப்பு கொண்டவை"
+          "இணைதிறன் கூட்டில் ஒரு எலக்ட்ரான் கொண்டவை",
+          "குறைந்த உருகுநிலை கொண்ட கன உலோகங்கள்",
+          "கதிரியக்கம் உடையவை, விரைவாகச் சிதைபவை",
+          "நிலையான இணைதிறன் கூட்டு எலக்ட்ரான் அமைப்பு கொண்டவை"
         ],
         "explanation": "அவற்றின் வெளி s, p ஆர்பிட்டால்கள் முழுமையாக நிரம்பியுள்ளன."
       }
@@ -606,7 +606,7 @@
         "options": [
           "அணி",
           "தாது",
-          "கசடு (slag)",
+          "கசடு",
           "மேட்"
         ],
         "explanation": "இளக்கி + தாதுக்கழிவு → கசடு."
@@ -623,9 +623,9 @@
       "en": {
         "q": "The gravity separation (hydraulic) method of ore concentration is based on the difference in",
         "options": [
-          "magnetic properties",
-          "wettability by oil",
-          "solubility",
+          "magnetic properties of the ore",
+          "wettability by oil of the ore",
+          "solubility in water of the ore",
           "densities of the ore and gangue"
         ],
         "explanation": "Oxide ores like haematite are concentrated this way."
@@ -739,9 +739,9 @@
       "en": {
         "q": "According to the text, titanium minerals occur in Tamil Nadu in",
         "options": [
-          "Coimbatore and Salem",
-          "Madurai and Dindigul",
-          "Tiruchi and Coimbatore",
+          "Coimbatore, Salem and Namakkal",
+          "Madurai, Dindigul and Theni",
+          "Tiruchi, Coimbatore and Karur",
           "Kanyakumari, Tirunelveli and Tuticorin"
         ],
         "explanation": "Chromite is in Coimbatore and Salem; tungsten in Madurai and Dindigul."
@@ -749,9 +749,9 @@
       "ta": {
         "q": "பாடநூலின்படி தமிழ்நாட்டில் டைட்டானியம் கனிமங்கள் எங்கு காணப்படுகின்றன?",
         "options": [
-          "கோயம்புத்தூர், சேலம்",
-          "மதுரை, திண்டுக்கல்",
-          "திருச்சி, கோயம்புத்தூர்",
+          "கோயம்புத்தூர், சேலம், நாமக்கல்",
+          "மதுரை, திண்டுக்கல், தேனி",
+          "திருச்சி, கோயம்புத்தூர், கரூர்",
           "கன்னியாகுமரி, திருநெல்வேலி, தூத்துக்குடி"
         ],
         "explanation": "குரோமைட் கோவை, சேலத்திலும் டங்ஸ்டன் மதுரை, திண்டுக்கல்லிலும் உள்ளன."
@@ -913,20 +913,20 @@
       "en": {
         "q": "In Hall's process for aluminium, fluorspar is added to the electrolyte to",
         "options": [
-          "act as the anode",
-          "lower the fusion temperature of the electrolyte",
-          "increase the voltage",
-          "remove oxygen"
+          "act as the anode of the electrolytic cell",
+          "lower the melting point of the electrolyte",
+          "increase the voltage across the electrodes",
+          "remove oxygen from the molten mixture"
         ],
         "explanation": "The electrolyte is pure alumina, molten cryolite and fluorspar."
       },
       "ta": {
         "q": "அலுமினியத்திற்கான ஹால் முறையில் மின்பகுளியில் ஃபுளூர்ஸ்பார் சேர்க்கப்படுவது ஏன்?",
         "options": [
-          "நேர்மின்முனையாகச் செயல்பட",
+          "கலத்தின் நேர்மின்முனையாகச் செயல்பட",
           "மின்பகுளியின் உருகுநிலையைக் குறைக்க",
-          "மின்னழுத்தத்தை உயர்த்த",
-          "ஆக்சிஜனை நீக்க"
+          "மின்முனைகளிடையே மின்னழுத்தத்தை உயர்த்த",
+          "உருகிய கலவையிலிருந்து ஆக்சிஜனை நீக்க"
         ],
         "explanation": "மின்பகுளி: தூய அலுமினா, உருகிய கிரையோலைட், ஃபுளூர்ஸ்பார்."
       }
@@ -971,20 +971,20 @@
       "en": {
         "q": "Nitric acid does not attack aluminium because",
         "options": [
-          "aluminium is a noble metal",
-          "nitric acid is a weak acid",
-          "aluminium is not a metal",
-          "an oxide film formed on its surface renders it passive"
+          "aluminium is a noble metal like gold",
+          "nitric acid is a very weak acid",
+          "aluminium is a non-metal element",
+          "a thin oxide film makes its surface passive"
         ],
         "explanation": "Aluminium does react with HCl and dilute H₂SO₄ to liberate hydrogen."
       },
       "ta": {
         "q": "நைட்ரிக் அமிலம் அலுமினியத்தைத் தாக்காதது ஏன்?",
         "options": [
-          "அலுமினியம் உயர்குடி உலோகம்",
-          "நைட்ரிக் அமிலம் வலிமை குறைந்தது",
-          "அலுமினியம் உலோகமல்ல",
-          "அதன் பரப்பில் உருவாகும் ஆக்சைடு படலம் அதைச் செயலற்றதாக்குகிறது"
+          "அலுமினியம் தங்கம் போன்ற உயர்குடி உலோகம்",
+          "நைட்ரிக் அமிலம் மிக வலிமை குறைந்த அமிலம்",
+          "அலுமினியம் இயல்பில் ஓர் அலோகம்",
+          "மெல்லிய ஆக்சைடு படலம் செயலற்ற நிலையைத் தருகிறது"
         ],
         "explanation": "அலுமினியம் HCl, நீர்த்த H₂SO₄ உடன் வினைபுரிந்து ஹைட்ரஜனை வெளியிடுகிறது."
       }
@@ -1001,9 +1001,9 @@
         "q": "Copper was named 'cuprum' by the Romans because they obtained it from",
         "options": [
           "the Island of Cyprus",
-          "Crete",
-          "Sicily",
-          "Egypt"
+          "the Island of Crete",
+          "the Island of Sicily",
+          "the land of Egypt"
         ],
         "explanation": "Copper is found both in native and combined states."
       },
@@ -1011,9 +1011,9 @@
         "q": "ரோமானியர்கள் தாமிரத்தை 'குப்ரம்' என அழைத்தது ஏன்?",
         "options": [
           "சைப்ரஸ் தீவிலிருந்து பெற்றதால்",
-          "கிரீட்டிலிருந்து பெற்றதால்",
-          "சிசிலியிலிருந்து பெற்றதால்",
-          "எகிப்திலிருந்து பெற்றதால்"
+          "கிரீட் தீவிலிருந்து பெற்றதால்",
+          "சிசிலி தீவிலிருந்து பெற்றதால்",
+          "எகிப்து நாட்டிலிருந்து பெற்றதால்"
         ],
         "explanation": "தாமிரம் தனித்தும் சேர்ந்தும் காணப்படுகிறது."
       }
@@ -1058,20 +1058,20 @@
       "en": {
         "q": "In electrolytic refining of copper, the impurities that settle below the anode are called",
         "options": [
-          "slag",
-          "matte",
+          "furnace slag",
+          "copper matte",
           "anode mud",
-          "flux"
+          "welding flux"
         ],
         "explanation": "Pure copper is deposited at the cathode."
       },
       "ta": {
         "q": "தாமிரத்தின் மின்னாற்பகுப்புத் தூய்மையாக்கலில் நேர்மின்முனையின் கீழ் படியும் மாசுகள் எவ்வாறு அழைக்கப்படுகின்றன?",
         "options": [
-          "கசடு",
-          "மேட்",
+          "உலைக் கசடு",
+          "செம்பு மேட்",
           "நேர்மின்முனைச் சேறு",
-          "இளக்கி"
+          "பற்றவைப்பு இளக்கி"
         ],
         "explanation": "தூய தாமிரம் எதிர்மின்முனையில் படிகிறது."
       }
@@ -1087,9 +1087,9 @@
       "en": {
         "q": "A copper vessel exposed to air and moisture gets a green layer of",
         "options": [
-          "copper oxide",
-          "copper sulphate",
-          "copper chloride",
+          "black copper oxide",
+          "blue copper sulphate",
+          "copper chloride salt",
           "basic copper carbonate"
         ],
         "explanation": "2Cu + O₂ + CO₂ + H₂O → CuCO₃.Cu(OH)₂."
@@ -1097,9 +1097,9 @@
       "ta": {
         "q": "காற்று, ஈரப்பதத்திற்கு உட்படும் தாமிரப் பாத்திரத்தில் படியும் பச்சைப் படலம் எது?",
         "options": [
-          "காப்பர் ஆக்சைடு",
-          "காப்பர் சல்பேட்",
-          "காப்பர் குளோரைடு",
+          "கருப்புக் காப்பர் ஆக்சைடு",
+          "நீலக் காப்பர் சல்பேட்",
+          "காப்பர் குளோரைடு உப்பு",
           "அடிப்படை காப்பர் கார்பனேட்"
         ],
         "explanation": "2Cu + O₂ + CO₂ + H₂O → CuCO₃.Cu(OH)₂."
@@ -1272,7 +1272,7 @@
         "q": "பாதரசமும் மற்றொரு உலோகமும் சேர்ந்த உலோகக் கலவை எவ்வாறு அழைக்கப்படும்?",
         "options": [
           "பற்றாசு",
-          "இரசக்கலவை (அமால்கம்)",
+          "இரசக்கலவை",
           "வெண்கலம்",
           "டியூராலுமின்"
         ],
@@ -1388,7 +1388,7 @@
         "q": "இரும்பின் பரப்பில் துத்தநாக மெல்லிய படலம் பூசும் முறை எவ்வாறு அழைக்கப்படும்?",
         "options": [
           "மின்முலாம் பூசுதல்",
-          "நாகமுலாம் பூசுதல் (கால்வனைசேஷன்)",
+          "நாகமுலாம் பூசுதல்",
           "நேர்மின்முனையாக்கம்",
           "வண்ணம் பூசுதல்"
         ],
@@ -1406,20 +1406,20 @@
       "en": {
         "q": "Which metal is widely used for the anodizing process?",
         "options": [
-          "Iron",
-          "Copper",
-          "Aluminium",
-          "Zinc"
+          "Iron metal",
+          "Copper metal",
+          "Aluminium metal",
+          "Zinc metal"
         ],
         "explanation": "Anodizing makes the surface decorative, durable and corrosion resistant."
       },
       "ta": {
         "q": "நேர்மின்முனையாக்க (அனோடைசிங்) முறைக்குப் பரவலாகப் பயன்படும் உலோகம் எது?",
         "options": [
-          "இரும்பு",
-          "தாமிரம்",
-          "அலுமினியம்",
-          "துத்தநாகம்"
+          "இரும்பு உலோகம்",
+          "தாமிர உலோகம்",
+          "அலுமினிய உலோகம்",
+          "துத்தநாக உலோகம்"
         ],
         "explanation": "இது பரப்பை அழகாகவும், நீடித்ததாகவும், அரிமானத்தைத் தாங்குவதாகவும் ஆக்குகிறது."
       }
@@ -1435,9 +1435,9 @@
       "en": {
         "q": "In cathodic protection, the easily corrodible metal that acts as the anode is called the",
         "options": [
-          "noble metal",
-          "flux",
-          "electrolyte",
+          "noble metal like gold",
+          "welding flux",
+          "liquid electrolyte",
           "sacrificial metal"
         ],
         "explanation": "It corrodes instead of the protected metal."

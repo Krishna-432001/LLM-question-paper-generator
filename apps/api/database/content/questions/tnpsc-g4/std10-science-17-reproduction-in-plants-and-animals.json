@@ -4,347 +4,1425 @@
   "breadcrumb": "Std 10 Science (English) — Unit 17: Reproduction in Plants and Animals",
   "questions": [
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 243,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 243,
       "quote": "There are three types of reproduction in plants namely i) Vegetative ii) Asexual and iii) Sexual reproduction.",
       "answer": "A",
-      "en": {"q": "Which of the following is NOT one of the three types of reproduction in plants listed in the text?", "options": ["Parthenogenesis", "Vegetative", "Asexual", "Sexual"], "explanation": "The three types are vegetative, asexual and sexual reproduction."},
-      "ta": {"q": "பாடநூலில் குறிப்பிடப்பட்ட தாவர இனப்பெருக்கத்தின் மூன்று வகைகளில் இல்லாதது எது?", "options": ["கன்னி இனப்பெருக்கம்", "உடல் இனப்பெருக்கம்", "பாலிலா இனப்பெருக்கம்", "பாலினப்பெருக்கம்"], "explanation": "மூன்று வகைகள்: உடல், பாலிலா, பாலினப்பெருக்கம்."}
+      "en": {
+        "q": "Which of the following is NOT one of the three types of reproduction in plants listed in the text?",
+        "options": [
+          "Parthenogenesis",
+          "Vegetative propagation",
+          "Asexual reproduction",
+          "Sexual reproduction"
+        ],
+        "explanation": "The three types are vegetative, asexual and sexual reproduction."
+      },
+      "ta": {
+        "q": "பாடநூலில் குறிப்பிடப்பட்ட தாவர இனப்பெருக்கத்தின் மூன்று வகைகளில் இல்லாதது எது?",
+        "options": [
+          "கன்னி இனப்பெருக்கம்",
+          "உடல் இனப்பெருக்கம்",
+          "பாலிலா இனப்பெருக்கம்",
+          "பாலினப்பெருக்கம்"
+        ],
+        "explanation": "மூன்று வகைகள்: உடல், பாலிலா, பாலினப்பெருக்கம்."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 244,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 244,
       "quote": "Leaves: In Bryophyllum small plants grow at the leaf notches",
       "answer": "B",
-      "en": {"q": "The plant which propagates with the help of its leaves is", "options": ["Onion", "Bryophyllum", "Ginger", "Neem"], "explanation": "Small plants grow at its leaf notches."},
-      "ta": {"q": "இலைகள் மூலம் இனப்பெருக்கம் செய்யும் தாவரம் எது?", "options": ["வெங்காயம்", "பிரையோஃபில்லம்", "இஞ்சி", "வேம்பு"], "explanation": "இதன் இலை விளிம்புப் பள்ளங்களில் சிறிய தாவரங்கள் வளர்கின்றன."}
+      "en": {
+        "q": "The plant which propagates with the help of its leaves is",
+        "options": [
+          "Onion plant",
+          "Bryophyllum",
+          "Ginger plant",
+          "Neem tree"
+        ],
+        "explanation": "Small plants grow at its leaf notches."
+      },
+      "ta": {
+        "q": "இலைகள் மூலம் இனப்பெருக்கம் செய்யும் தாவரம் எது?",
+        "options": [
+          "வெங்காயச் செடி",
+          "பிரையோஃபில்லம்",
+          "இஞ்சிச் செடி",
+          "வேப்ப மரம்"
+        ],
+        "explanation": "இதன் இலை விளிம்புப் பள்ளங்களில் சிறிய தாவரங்கள் வளர்கின்றன."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 244,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 244,
       "quote": "Root: Tuberous roots (Asparagus and Sweet potato) can be used for vegetative propagation. Bulbils: In some plants the flower buds modified into globose which are called as bulbils. ... e.g. Agave.",
       "answer": "C",
-      "en": {"q": "In Agave, vegetative reproduction takes place through", "options": ["leaf notches", "runners", "bulbils", "tuberous roots"], "explanation": "Bulbils are globose modified flower buds that grow into new plants."},
-      "ta": {"q": "அகேவ் தாவரத்தில் உடல் இனப்பெருக்கம் எதன் மூலம் நிகழ்கிறது?", "options": ["இலை விளிம்புப் பள்ளங்கள்", "ஓடுதண்டுகள்", "பல்பில்கள் (குமிழ் மொட்டுகள்)", "கிழங்கு வேர்கள்"], "explanation": "பல்பில்கள் உருண்டையாக மாறிய மலர் மொட்டுகள்; புதிய தாவரங்களாக வளரும்."}
+      "en": {
+        "q": "In Agave, vegetative reproduction takes place through",
+        "options": [
+          "leaf notches",
+          "runners",
+          "bulbils",
+          "tuberous roots"
+        ],
+        "explanation": "Bulbils are globose modified flower buds that grow into new plants."
+      },
+      "ta": {
+        "q": "அகேவ் தாவரத்தில் உடல் இனப்பெருக்கம் எதன் மூலம் நிகழ்கிறது?",
+        "options": [
+          "இலை விளிம்புப் பள்ளங்கள்",
+          "ஓடுதண்டுகள்",
+          "பல்பில்கள்",
+          "கிழங்கு வேர்கள்"
+        ],
+        "explanation": "பல்பில்கள் உருண்டையாக மாறிய மலர் மொட்டுகள்; புதிய தாவரங்களாக வளரும்."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 244,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 244,
       "quote": "Fragmentation: In filamentous algae, an breaking of the filament into many fragments is called fragmentation. ... e.g. Spirogyra. ... Fission: ... e.g. Amoeba. ... Budding ... e.g. Yeast.",
       "answer": "D",
-      "en": {"q": "Asexual reproduction by budding takes place in", "options": ["Amoeba", "Spirogyra", "Plasmodium", "Yeast"], "explanation": "Amoeba reproduces by fission and Spirogyra by fragmentation."},
-      "ta": {"q": "மொட்டுவிடுதல் மூலம் பாலிலா இனப்பெருக்கம் நிகழ்வது எதில்?", "options": ["அமீபா", "ஸ்பைரோகைரா", "பிளாஸ்மோடியம்", "ஈஸ்ட்"], "explanation": "அமீபா பிளவுறுதலாலும் ஸ்பைரோகைரா துண்டாதலாலும் இனப்பெருக்கம் செய்யும்."}
+      "en": {
+        "q": "Asexual reproduction by budding takes place in",
+        "options": [
+          "Amoeba",
+          "Spirogyra",
+          "Plasmodium",
+          "Yeast"
+        ],
+        "explanation": "Amoeba reproduces by fission and Spirogyra by fragmentation."
+      },
+      "ta": {
+        "q": "மொட்டுவிடுதல் மூலம் பாலிலா இனப்பெருக்கம் நிகழ்வது எதில்?",
+        "options": [
+          "அமீபா",
+          "ஸ்பைரோகைரா",
+          "பிளாஸ்மோடியம்",
+          "ஈஸ்ட்"
+        ],
+        "explanation": "அமீபா பிளவுறுதலாலும் ஸ்பைரோகைரா துண்டாதலாலும் இனப்பெருக்கம் செய்யும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 244,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 244,
       "quote": "Regeneration: The ability of the lost body parts of an individual organism to give rise to whole new organism is called regeneration. It takes place by specialized mass of cells e.g Hydra and Planaria.",
       "answer": "A",
-      "en": {"q": "Planaria reproduces asexually by", "options": ["regeneration", "budding", "spore formation", "fission"], "explanation": "Lost body parts give rise to a whole new organism."},
-      "ta": {"q": "பிளனேரியா எவ்வாறு பாலிலா இனப்பெருக்கம் செய்கிறது?", "options": ["இழப்பு மீட்டல் (மீளுருவாக்கம்)", "மொட்டுவிடுதல்", "வித்து உருவாக்கம்", "பிளவுறுதல்"], "explanation": "இழந்த உடல் பகுதிகள் முழு உயிரியாக வளரும்."}
+      "en": {
+        "q": "Planaria reproduces asexually by",
+        "options": [
+          "regeneration",
+          "budding",
+          "spore formation",
+          "conjugation"
+        ],
+        "explanation": "Lost body parts give rise to a whole new organism."
+      },
+      "ta": {
+        "q": "பிளனேரியா எவ்வாறு பாலிலா இனப்பெருக்கம் செய்கிறது?",
+        "options": [
+          "இழப்பு மீட்டல்",
+          "மொட்டுவிடுதல்",
+          "வித்து உருவாக்கம்",
+          "இணைவுறுதல் (கான்ஜுகேஷன்)"
+        ],
+        "explanation": "இழந்த உடல் பகுதிகள் முழு உயிரியாக வளரும்."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 245,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 245,
       "quote": "Asexual reproduction occurs by spore formation. This is the most common method of asexual reproduction in fungi and bacteria. During spore formation a structure called sporangium develops from the fungal hypha.",
       "answer": "B",
-      "en": {"q": "The most common method of asexual reproduction in fungi such as Rhizopus is", "options": ["budding", "spore formation", "fragmentation", "regeneration"], "explanation": "A sporangium develops from the fungal hypha and releases spores."},
-      "ta": {"q": "ரைசோபஸ் போன்ற பூஞ்சைகளில் மிகப் பொதுவான பாலிலா இனப்பெருக்க முறை எது?", "options": ["மொட்டுவிடுதல்", "வித்து உருவாக்கம்", "துண்டாதல்", "மீளுருவாக்கம்"], "explanation": "பூஞ்சை இழையிலிருந்து வித்தகம் உருவாகி வித்துகளை வெளியிடுகிறது."}
+      "en": {
+        "q": "The most common method of asexual reproduction in fungi such as Rhizopus is",
+        "options": [
+          "budding",
+          "spore formation",
+          "fragmentation",
+          "regeneration"
+        ],
+        "explanation": "A sporangium develops from the fungal hypha and releases spores."
+      },
+      "ta": {
+        "q": "ரைசோபஸ் போன்ற பூஞ்சைகளில் மிகப் பொதுவான பாலிலா இனப்பெருக்க முறை எது?",
+        "options": [
+          "மொட்டுவிடுதல்",
+          "வித்து உருவாக்கம்",
+          "துண்டாதல்",
+          "மீளுருவாக்கம்"
+        ],
+        "explanation": "பூஞ்சை இழையிலிருந்து வித்தகம் உருவாகி வித்துகளை வெளியிடுகிறது."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 245,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 245,
       "quote": "The two outermost whorls calyx and corolla are non–essential or accessory whorls ... The other two whorls androecium and gynoecium are known as the essential whorls",
       "answer": "C",
-      "en": {"q": "The essential parts of a flower are", "options": ["calyx and corolla", "calyx and androecium", "androecium and gynoecium", "corolla and gynoecium"], "explanation": "They take part directly in reproduction."},
-      "ta": {"q": "மலரின் இன்றியமையாத பகுதிகள் எவை?", "options": ["புல்லிவட்டம், அல்லிவட்டம்", "புல்லிவட்டம், மகரந்தத்தாள் வட்டம்", "மகரந்தத்தாள் வட்டம், சூலக வட்டம்", "அல்லிவட்டம், சூலக வட்டம்"], "explanation": "இவை நேரடியாக இனப்பெருக்கத்தில் பங்கேற்கின்றன."}
+      "en": {
+        "q": "The essential parts of a flower are",
+        "options": [
+          "calyx and corolla",
+          "calyx and androecium",
+          "androecium and gynoecium",
+          "corolla and gynoecium"
+        ],
+        "explanation": "They take part directly in reproduction."
+      },
+      "ta": {
+        "q": "மலரின் இன்றியமையாத பகுதிகள் எவை?",
+        "options": [
+          "புல்லிவட்டம், அல்லிவட்டம்",
+          "புல்லிவட்டம், மகரந்தத்தாள் வட்டம்",
+          "மகரந்தத்தாள் வட்டம், சூலக வட்டம்",
+          "அல்லிவட்டம், சூலக வட்டம்"
+        ],
+        "explanation": "இவை நேரடியாக இனப்பெருக்கத்தில் பங்கேற்கின்றன."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 245,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 245,
       "quote": "Each stamen consists of a stalk called the filament and a small bag like structure called anther at the tip. The pollen grains are produced in the anther within the pollen sac.",
       "answer": "D",
-      "en": {"q": "Pollen grains are produced in the", "options": ["filament", "stigma", "ovary", "anther"], "explanation": "Each stamen has a filament and an anther."},
-      "ta": {"q": "மகரந்தத் துகள்கள் எங்கு உருவாகின்றன?", "options": ["மகரந்தக் கம்பி", "சூல்முடி", "சூலகம்", "மகரந்தப்பை"], "explanation": "ஒவ்வொரு மகரந்தத்தாளிலும் கம்பியும் மகரந்தப்பையும் உண்டு."}
+      "en": {
+        "q": "Pollen grains are produced in the",
+        "options": [
+          "filament",
+          "stigma",
+          "ovary",
+          "anther"
+        ],
+        "explanation": "Each stamen has a filament and an anther."
+      },
+      "ta": {
+        "q": "மகரந்தத் துகள்கள் எங்கு உருவாகின்றன?",
+        "options": [
+          "மகரந்தக் கம்பி",
+          "சூல்முடி",
+          "சூலகம்",
+          "மகரந்தப்பை"
+        ],
+        "explanation": "ஒவ்வொரு மகரந்தத்தாளிலும் கம்பியும் மகரந்தப்பையும் உண்டு."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 246,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 246,
       "quote": "The hard-outer layer is known as exine. It has prominent apertures called germpore. The inner thin layer is known as intine. It is a thin and continuous layer made up of cellulose and pectin.",
       "answer": "A",
-      "en": {"q": "The hard outer layer of the pollen grain with germ pores is called", "options": ["exine", "intine", "integument", "nucellus"], "explanation": "The thin inner layer, made of cellulose and pectin, is the intine."},
-      "ta": {"q": "முளைத்துளைகள் கொண்ட மகரந்தத் துகளின் கடின வெளியடுக்கு எவ்வாறு அழைக்கப்படும்?", "options": ["எக்சைன்", "இன்டைன்", "சூலுறை", "நியூசெல்லஸ்"], "explanation": "செல்லுலோஸ், பெக்டினால் ஆன மெல்லிய உள்ளடுக்கு இன்டைன்."}
+      "en": {
+        "q": "The hard outer layer of the pollen grain with germ pores is called",
+        "options": [
+          "exine",
+          "intine",
+          "integument",
+          "nucellus"
+        ],
+        "explanation": "The thin inner layer, made of cellulose and pectin, is the intine."
+      },
+      "ta": {
+        "q": "முளைத்துளைகள் கொண்ட மகரந்தத் துகளின் கடின வெளியடுக்கு எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "எக்சைன்",
+          "இன்டைன்",
+          "சூலுறை",
+          "நியூசெல்லஸ்"
+        ],
+        "explanation": "செல்லுலோஸ், பெக்டினால் ஆன மெல்லிய உள்ளடுக்கு இன்டைன்."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 246,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 246,
       "quote": "Mature pollen grains contain two cells, the vegetative and the generative cell. ... The generative cell divides mitotically to form two male gametes.",
       "answer": "B",
-      "en": {"q": "Male gametes in angiosperms are formed by the division of the", "options": ["vegetative cell", "generative cell", "microspore mother cell", "synergid"], "explanation": "The generative cell divides mitotically to form two male gametes."},
-      "ta": {"q": "மூடுவிதைத் தாவரங்களில் ஆண் கேமீட்டுகள் எதன் பிரிவால் உருவாகின்றன?", "options": ["உடல் செல்", "உருவாக்கும் செல்", "நுண்வித்துத் தாய்ச்செல்", "சினர்ஜிட்"], "explanation": "உருவாக்கும் செல் மைட்டாசிஸ் முறையில் பிரிந்து இரு ஆண் கேமீட்டுகளை உருவாக்குகிறது."}
+      "en": {
+        "q": "Male gametes in angiosperms are formed by the division of the",
+        "options": [
+          "vegetative cell",
+          "generative cell",
+          "microspore mother cell",
+          "synergid"
+        ],
+        "explanation": "The generative cell divides mitotically to form two male gametes."
+      },
+      "ta": {
+        "q": "மூடுவிதைத் தாவரங்களில் ஆண் கேமீட்டுகள் எதன் பிரிவால் உருவாகின்றன?",
+        "options": [
+          "உடல் செல்",
+          "உருவாக்கும் செல்",
+          "நுண்வித்துத் தாய்ச்செல்",
+          "சினர்ஜிட்"
+        ],
+        "explanation": "உருவாக்கும் செல் மைட்டாசிஸ் முறையில் பிரிந்து இரு ஆண் கேமீட்டுகளை உருவாக்குகிறது."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 246,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 246,
       "quote": "The ovule is attached to the ovary wall by a stalk known as funiculus. Chalaza is the basal part.",
       "answer": "C",
-      "en": {"q": "The stalk by which the ovule is attached to the ovary wall is called the", "options": ["pedicel", "chalaza", "funiculus", "style"], "explanation": "The nucellus is enclosed by two integuments leaving the micropyle."},
-      "ta": {"q": "சூலைச் சூலகச் சுவருடன் இணைக்கும் காம்பு எவ்வாறு அழைக்கப்படும்?", "options": ["மலர்க்காம்பு", "சலாசா", "சூல்காம்பு (ஃபுனிகுலஸ்)", "சூல்தண்டு"], "explanation": "நியூசெல்லஸ் இரு சூலுறைகளால் மூடப்பட்டு மைக்ரோபைல் திறப்பு உள்ளது."}
+      "en": {
+        "q": "The stalk by which the ovule is attached to the ovary wall is called the",
+        "options": [
+          "pedicel",
+          "chalaza",
+          "funiculus",
+          "style"
+        ],
+        "explanation": "The nucellus is enclosed by two integuments leaving the micropyle."
+      },
+      "ta": {
+        "q": "சூலைச் சூலகச் சுவருடன் இணைக்கும் காம்பு எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "மலர்க்காம்பு",
+          "சலாசா",
+          "சூல்காம்பு",
+          "சூல்தண்டு"
+        ],
+        "explanation": "நியூசெல்லஸ் இரு சூலுறைகளால் மூடப்பட்டு மைக்ரோபைல் திறப்பு உள்ளது."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 246,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 246,
       "quote": "The embryo sac contains seven cells and the eighth nuclei located within the nucellus. Three cells at the micropylar end form the egg apparatus and the three cells at the chalaza end are the antipodal cells. The remaining two nuclei are called polar nuclei",
       "answer": "D",
-      "en": {"q": "A typical embryo sac at the time of fertilisation is", "options": ["4-celled and 4-nucleate", "8-celled and 8-nucleate", "6-celled and 8-nucleate", "7-celled and 8-nucleate"], "explanation": "Egg apparatus (3), antipodals (3) and a central cell with two polar nuclei."},
-      "ta": {"q": "கருவுறுதலின்போது ஒரு வழக்கமான கருப்பை (எம்ப்ரியோ சாக்) எவ்வாறு இருக்கும்?", "options": ["4 செல், 4 உட்கரு", "8 செல், 8 உட்கரு", "6 செல், 8 உட்கரு", "7 செல், 8 உட்கரு"], "explanation": "முட்டைக் கருவி (3), எதிர்முனைச் செல்கள் (3), இரு துருவ உட்கருக்கள் கொண்ட மையச் செல்."}
+      "en": {
+        "q": "A typical embryo sac at the time of fertilisation is",
+        "options": [
+          "4-celled and 4-nucleate",
+          "8-celled and 8-nucleate",
+          "6-celled and 8-nucleate",
+          "7-celled and 8-nucleate"
+        ],
+        "explanation": "Egg apparatus (3), antipodals (3) and a central cell with two polar nuclei."
+      },
+      "ta": {
+        "q": "கருவுறுதலின்போது ஒரு வழக்கமான கருப்பை (எம்ப்ரியோ சாக்) எவ்வாறு இருக்கும்?",
+        "options": [
+          "4 செல், 4 உட்கரு",
+          "8 செல், 8 உட்கரு",
+          "6 செல், 8 உட்கரு",
+          "7 செல், 8 உட்கரு"
+        ],
+        "explanation": "முட்டைக் கருவி (3), எதிர்முனைச் செல்கள் (3), இரு துருவ உட்கருக்கள் கொண்ட மையச் செல்."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 246,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 246,
       "quote": "The transfer of pollen grains from anther to stigma of a flower is called as pollination",
       "answer": "A",
-      "en": {"q": "The transfer of pollen grains from the anther to the stigma is called", "options": ["pollination", "fertilisation", "germination", "syngamy"], "explanation": "It leads to fertilisation and formation of fruits and seeds."},
-      "ta": {"q": "மகரந்தப்பையிலிருந்து சூல்முடிக்கு மகரந்தத் துகள்கள் செல்வது எவ்வாறு அழைக்கப்படும்?", "options": ["மகரந்தச் சேர்க்கை", "கருவுறுதல்", "முளைத்தல்", "கேமீட் இணைவு"], "explanation": "இது கருவுறுதலுக்கும் கனி, விதை உருவாக்கத்திற்கும் வழிவகுக்கிறது."}
+      "en": {
+        "q": "The transfer of pollen grains from the anther to the stigma is called",
+        "options": [
+          "pollination",
+          "fertilisation",
+          "germination",
+          "syngamy"
+        ],
+        "explanation": "It leads to fertilisation and formation of fruits and seeds."
+      },
+      "ta": {
+        "q": "மகரந்தப்பையிலிருந்து சூல்முடிக்கு மகரந்தத் துகள்கள் செல்வது எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "மகரந்தச் சேர்க்கை",
+          "கருவுறுதல் நிகழ்வு",
+          "விதை முளைத்தல்",
+          "கேமீட் இணைவு"
+        ],
+        "explanation": "இது கருவுறுதலுக்கும் கனி, விதை உருவாக்கத்திற்கும் வழிவகுக்கிறது."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 246,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 246,
       "quote": "Self-pollination is also known as autogamy. The transfer of pollen grains from the anther to the stigma of same flower or another flower borne on the same plant is known as self-pollination. e.g. Hibiscus.",
       "answer": "B",
-      "en": {"q": "Self-pollination is also known as", "options": ["allogamy", "autogamy", "anemophily", "entomophily"], "explanation": "Pollen is transferred within the same flower or another flower on the same plant."},
-      "ta": {"q": "தன் மகரந்தச் சேர்க்கை வேறு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["அல்லோகேமி", "ஆட்டோகேமி", "காற்று மகரந்தச் சேர்க்கை", "பூச்சி மகரந்தச் சேர்க்கை"], "explanation": "அதே மலருக்குள் அல்லது அதே தாவரத்தின் மற்றொரு மலருக்கு மகரந்தம் செல்கிறது."}
+      "en": {
+        "q": "Self-pollination is also known as",
+        "options": [
+          "allogamy",
+          "autogamy",
+          "anemophily",
+          "entomophily"
+        ],
+        "explanation": "Pollen is transferred within the same flower or another flower on the same plant."
+      },
+      "ta": {
+        "q": "தன் மகரந்தச் சேர்க்கை வேறு எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "அல்லோகேமி",
+          "ஆட்டோகேமி",
+          "காற்று மகரந்தச் சேர்க்கை",
+          "பூச்சி மகரந்தச் சேர்க்கை"
+        ],
+        "explanation": "அதே மலருக்குள் அல்லது அதே தாவரத்தின் மற்றொரு மலருக்கு மகரந்தம் செல்கிறது."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 247,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 247,
       "quote": "Disadvantages of self-pollination 1. The seeds are less in numbers. 2. The endosperm is minute. Therefore, the seeds produce weak plants. 3. New varieties of plants cannot be produced",
       "answer": "C",
-      "en": {"q": "Which of the following is a disadvantage of self-pollination?", "options": ["Wastage of pollen", "Dependence on agents", "New varieties cannot be produced", "Pollination may fail due to distance"], "explanation": "The other three are disadvantages of cross-pollination."},
-      "ta": {"q": "தன் மகரந்தச் சேர்க்கையின் குறைபாடு எது?", "options": ["மகரந்த வீணாதல்", "காரணிகளைச் சார்ந்திருத்தல்", "புதிய வகைகள் உருவாகாது", "தொலைவால் மகரந்தச் சேர்க்கை தோல்வியடையலாம்"], "explanation": "மற்ற மூன்றும் அயல் மகரந்தச் சேர்க்கையின் குறைபாடுகள்."}
+      "en": {
+        "q": "Which of the following is a disadvantage of self-pollination?",
+        "options": [
+          "Wastage of pollen",
+          "Dependence on agents",
+          "New varieties cannot be produced",
+          "Pollination may fail due to distance"
+        ],
+        "explanation": "The other three are disadvantages of cross-pollination."
+      },
+      "ta": {
+        "q": "தன் மகரந்தச் சேர்க்கையின் குறைபாடு எது?",
+        "options": [
+          "மகரந்த வீணாதல்",
+          "காரணிகளைச் சார்ந்திருத்தல்",
+          "புதிய வகைகள் உருவாகாது",
+          "தொலைவால் மகரந்தச் சேர்க்கை தோல்வியடையலாம்"
+        ],
+        "explanation": "மற்ற மூன்றும் அயல் மகரந்தச் சேர்க்கையின் குறைபாடுகள்."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 247,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 247,
       "quote": "The pollination with the help of wind is called anemophily. The anemophilous flowers produce enormous amount of pollen grains. The pollen grains are small, smooth, dry and light in weight. ... The stigmas are comparatively large, protruding and sometimes hairy",
       "answer": "D",
-      "en": {"q": "Anemophilous (wind-pollinated) flowers have", "options": ["sessile stigma", "small smooth stigma", "brightly coloured petals", "large, protruding, sometimes hairy (feathery) stigma"], "explanation": "Their pollen is small, smooth, dry and light, as in grasses."},
-      "ta": {"q": "காற்று மகரந்தச் சேர்க்கை மலர்களுக்கு உள்ளது", "options": ["காம்பற்ற சூல்முடி", "சிறிய வழுவழுப்பான சூல்முடி", "பளிச்சிடும் நிற இதழ்கள்", "பெரிய, நீண்ட, சில நேரம் உரோமமுடைய (இறகு போன்ற) சூல்முடி"], "explanation": "புற்களைப் போல் இவற்றின் மகரந்தம் சிறியது, வழுவழுப்பானது, உலர்ந்தது, இலேசானது."}
+      "en": {
+        "q": "Anemophilous (wind-pollinated) flowers have",
+        "options": [
+          "small sessile stigma",
+          "small, smooth, enclosed stigma",
+          "large brightly coloured petals",
+          "large, protruding, feathery stigma"
+        ],
+        "explanation": "Their pollen is small, smooth, dry and light, as in grasses."
+      },
+      "ta": {
+        "q": "காற்று மகரந்தச் சேர்க்கை மலர்களுக்கு உள்ளது",
+        "options": [
+          "சிறிய காம்பற்ற சூல்முடி",
+          "சிறிய, வழுவழுப்பான, மூடிய சூல்முடி",
+          "பெரிய பளிச்சிடும் நிற இதழ்கள்",
+          "பெரிய, நீண்ட, இறகு போன்ற சூல்முடி"
+        ],
+        "explanation": "புற்களைப் போல் இவற்றின் மகரந்தம் சிறியது, வழுவழுப்பானது, உலர்ந்தது, இலேசானது."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 247,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 247,
       "quote": "Pollination with the help of insects like honey bees, flies are called entomophily. To attract insects these flowers are brightly coloured, have smell and nectar. ... Approximately, 80% of the pollination done by the insects is carried by honey bees.",
       "answer": "A",
-      "en": {"q": "Pollination by insects is called", "options": ["entomophily", "anemophily", "hydrophily", "zoophily"], "explanation": "About 80% of insect pollination is carried out by honey bees, per the text."},
-      "ta": {"q": "பூச்சிகளால் நிகழும் மகரந்தச் சேர்க்கை எவ்வாறு அழைக்கப்படுகிறது?", "options": ["பூச்சி மகரந்தச் சேர்க்கை (என்டமோஃபிலி)", "காற்று மகரந்தச் சேர்க்கை", "நீர் மகரந்தச் சேர்க்கை", "விலங்கு மகரந்தச் சேர்க்கை"], "explanation": "பாடநூலின்படி பூச்சி மகரந்தச் சேர்க்கையில் ஏறக்குறைய 80% தேனீக்களால் நிகழ்கிறது."}
+      "en": {
+        "q": "Pollination by insects is called",
+        "options": [
+          "entomophily",
+          "anemophily",
+          "hydrophily",
+          "ornithophily"
+        ],
+        "explanation": "About 80% of insect pollination is carried out by honey bees, per the text."
+      },
+      "ta": {
+        "q": "பூச்சிகளால் நிகழும் மகரந்தச் சேர்க்கை எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "பூச்சி மகரந்தச் சேர்க்கை",
+          "காற்று மகரந்தச் சேர்க்கை",
+          "நீர் மகரந்தச் சேர்க்கை",
+          "பறவை மகரந்தச் சேர்க்கை"
+        ],
+        "explanation": "பாடநூலின்படி பூச்சி மகரந்தச் சேர்க்கையில் ஏறக்குறைய 80% தேனீக்களால் நிகழ்கிறது."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 247,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 247,
       "quote": "The pollination with the help of water is called hydrophily. This takes place in aquatic plants. ... e.g. Hydrilla, Vallisneria.",
       "answer": "B",
-      "en": {"q": "Hydrophily (pollination by water) is seen in", "options": ["grasses", "Vallisneria", "Canna", "silk cotton tree"], "explanation": "Hydrilla is another example."},
-      "ta": {"q": "நீர் மகரந்தச் சேர்க்கை எதில் காணப்படுகிறது?", "options": ["புற்கள்", "வாலிஸ்நீரியா", "கல்வாழை (கேனா)", "இலவம் மரம்"], "explanation": "ஹைட்ரில்லா மற்றொரு எடுத்துக்காட்டு."}
+      "en": {
+        "q": "Hydrophily (pollination by water) is seen in",
+        "options": [
+          "grasses",
+          "Vallisneria",
+          "Canna",
+          "silk cotton tree"
+        ],
+        "explanation": "Hydrilla is another example."
+      },
+      "ta": {
+        "q": "நீர் மகரந்தச் சேர்க்கை எதில் காணப்படுகிறது?",
+        "options": [
+          "புற்கள்",
+          "வாலிஸ்நீரியா",
+          "கல்வாழை (கேனா)",
+          "இலவம் மரம்"
+        ],
+        "explanation": "ஹைட்ரில்லா மற்றொரு எடுத்துக்காட்டு."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 248,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 248,
       "quote": "When pollination takes place with the help of animals, it is called Zoophily. ... e.g. sun bird pollinates flowers of Canna, Gladioli etc., Squirrels pollinate flowers of silk cotton tree.",
       "answer": "C",
-      "en": {"q": "According to the text, the flowers of the silk cotton tree are pollinated by", "options": ["honey bees", "wind", "squirrels", "sun birds"], "explanation": "Sun birds pollinate Canna and Gladioli; this is zoophily."},
-      "ta": {"q": "பாடநூலின்படி இலவம் மர மலர்களில் மகரந்தச் சேர்க்கை செய்பவை எவை?", "options": ["தேனீக்கள்", "காற்று", "அணில்கள்", "தேன்சிட்டுகள்"], "explanation": "தேன்சிட்டுகள் கேனா, கிளாடியோலஸில் மகரந்தச் சேர்க்கை செய்கின்றன; இது விலங்கு மகரந்தச் சேர்க்கை."}
+      "en": {
+        "q": "According to the text, the flowers of the silk cotton tree are pollinated by",
+        "options": [
+          "honey bees",
+          "wind",
+          "squirrels",
+          "sun birds"
+        ],
+        "explanation": "Sun birds pollinate Canna and Gladioli; this is zoophily."
+      },
+      "ta": {
+        "q": "பாடநூலின்படி இலவம் மர மலர்களில் மகரந்தச் சேர்க்கை செய்பவை எவை?",
+        "options": [
+          "தேனீக்கள்",
+          "காற்று",
+          "அணில்கள்",
+          "தேன்சிட்டுகள்"
+        ],
+        "explanation": "தேன்சிட்டுகள் கேனா, கிளாடியோலஸில் மகரந்தச் சேர்க்கை செய்கின்றன; இது விலங்கு மகரந்தச் சேர்க்கை."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 248,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 248,
       "quote": "One sperm fuses with the egg (syngamy) and forms a diploid zygote.",
       "answer": "D",
-      "en": {"q": "Syngamy results in the formation of", "options": ["zoospores", "conidia", "the primary endosperm nucleus", "a zygote"], "explanation": "One male gamete fuses with the egg to form a diploid zygote."},
-      "ta": {"q": "கேமீட் இணைவு (சின்கேமி) எதன் உருவாக்கத்தில் முடிகிறது?", "options": ["இயங்கு வித்துகள்", "கோனிடியா", "முதன்மை முளைசூழ்தசை உட்கரு", "கருமுட்டை (சைகோட்)"], "explanation": "ஒரு ஆண் கேமீட் முட்டையுடன் இணைந்து இருமய சைகோட் உருவாகிறது."}
+      "en": {
+        "q": "Syngamy results in the formation of",
+        "options": [
+          "zoospores",
+          "conidia",
+          "the primary endosperm nucleus",
+          "a zygote"
+        ],
+        "explanation": "One male gamete fuses with the egg to form a diploid zygote."
+      },
+      "ta": {
+        "q": "கேமீட் இணைவு (சின்கேமி) எதன் உருவாக்கத்தில் முடிகிறது?",
+        "options": [
+          "இயங்கு வித்துகள்",
+          "கோனிடியா",
+          "முதன்மை முளைசூழ்தசை உட்கரு",
+          "கருமுட்டை"
+        ],
+        "explanation": "ஒரு ஆண் கேமீட் முட்டையுடன் இணைந்து இருமய சைகோட் உருவாகிறது."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 248,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 248,
       "quote": "The other sperm fuses with the secondary nucleus (Triple fusion) to form the primary endosperm nucleus which is triploid in nature. Since two types of fusion syngamy and triple fusion take place in an embryo sac the process is termed as double fertilization.",
       "answer": "A",
-      "en": {"q": "Triple fusion in angiosperms produces the", "options": ["triploid primary endosperm nucleus", "diploid zygote", "haploid egg", "seed coat"], "explanation": "Syngamy plus triple fusion together form double fertilisation."},
-      "ta": {"q": "மூடுவிதைத் தாவரங்களில் மூவிணைவு உருவாக்குவது எது?", "options": ["மும்மய முதன்மை முளைசூழ்தசை உட்கரு", "இருமய சைகோட்", "ஒருமய முட்டை", "விதையுறை"], "explanation": "கேமீட் இணைவும் மூவிணைவும் சேர்ந்து இரட்டைக் கருவுறுதல் எனப்படும்."}
+      "en": {
+        "q": "Triple fusion in angiosperms produces the",
+        "options": [
+          "triploid primary endosperm nucleus",
+          "diploid zygote of the embryo",
+          "haploid egg cell in the embryo sac",
+          "seed coat of the ovule"
+        ],
+        "explanation": "Syngamy plus triple fusion together form double fertilisation."
+      },
+      "ta": {
+        "q": "மூடுவிதைத் தாவரங்களில் மூவிணைவு உருவாக்குவது எது?",
+        "options": [
+          "மும்மய முதன்மை முளைசூழ்தசை உட்கரு",
+          "கருப்பையில் இருமய சைகோட்",
+          "கருப்பையிலுள்ள ஒருமய முட்டை",
+          "சூலின் உறையாகும் விதையுறை"
+        ],
+        "explanation": "கேமீட் இணைவும் மூவிணைவும் சேர்ந்து இரட்டைக் கருவுறுதல் எனப்படும்."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 248,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 248,
       "quote": "Post fertilization changes: 1. The ovule develops into a seed. 2. The integuments of the ovule develop into the seed coat. 3. The ovary enlarges and develops into a fruit.",
       "answer": "B",
-      "en": {"q": "After fertilisation, the ovary develops into the", "options": ["seed", "fruit", "seed coat", "endosperm"], "explanation": "The ovule becomes the seed and integuments the seed coat."},
-      "ta": {"q": "கருவுறுதலுக்குப் பின் சூலகம் எதுவாக வளர்கிறது?", "options": ["விதை", "கனி", "விதையுறை", "முளைசூழ்தசை"], "explanation": "சூல் விதையாகவும் சூலுறைகள் விதையுறையாகவும் மாறுகின்றன."}
+      "en": {
+        "q": "After fertilisation, the ovary develops into the",
+        "options": [
+          "seed",
+          "fruit",
+          "seed coat",
+          "endosperm"
+        ],
+        "explanation": "The ovule becomes the seed and integuments the seed coat."
+      },
+      "ta": {
+        "q": "கருவுறுதலுக்குப் பின் சூலகம் எதுவாக வளர்கிறது?",
+        "options": [
+          "விதை",
+          "கனி",
+          "விதையுறை",
+          "முளைசூழ்தசை"
+        ],
+        "explanation": "சூல் விதையாகவும் சூலுறைகள் விதையுறையாகவும் மாறுகின்றன."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 248,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 248,
       "quote": "After triple fusion, primary endosperm nucleus develops into an endosperm. Endosperm provides food to the developing embryo.",
       "answer": "C",
-      "en": {"q": "The function of the endosperm is to", "options": ["protect the seed", "attract pollinators", "provide food to the developing embryo", "form the fruit wall"], "explanation": "It develops from the primary endosperm nucleus after triple fusion."},
-      "ta": {"q": "முளைசூழ்தசையின் பணி என்ன?", "options": ["விதையைக் காத்தல்", "மகரந்தச் சேர்க்கையாளர்களைக் கவர்தல்", "வளரும் கருவுக்கு உணவளித்தல்", "கனிச்சுவரை உருவாக்குதல்"], "explanation": "மூவிணைவுக்குப் பின் முதன்மை முளைசூழ்தசை உட்கருவிலிருந்து உருவாகிறது."}
+      "en": {
+        "q": "The function of the endosperm is to",
+        "options": [
+          "protect the seed from drying out",
+          "attract pollinators to the flower",
+          "provide food to the developing embryo",
+          "form the wall of the fruit"
+        ],
+        "explanation": "It develops from the primary endosperm nucleus after triple fusion."
+      },
+      "ta": {
+        "q": "முளைசூழ்தசையின் பணி என்ன?",
+        "options": [
+          "விதையைக் காத்தல்",
+          "மகரந்தச் சேர்க்கையாளர்களைக் கவர்தல்",
+          "வளரும் கருவுக்கு உணவளித்தல்",
+          "கனிச்சுவரை உருவாக்குதல்"
+        ],
+        "explanation": "மூவிணைவுக்குப் பின் முதன்மை முளைசூழ்தசை உட்கருவிலிருந்து உருவாகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 249,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 249,
       "quote": "Accessory sex organs Male: Vas deferens, epididymis, seminal vesicle, prostate gland and penis. Female: Fallopian tubes, uterus, cervix and vagina.",
       "answer": "D",
-      "en": {"q": "Which of the following is a primary reproductive organ, not an accessory sex organ?", "options": ["Vas deferens", "Uterus", "Prostate gland", "Ovary"], "explanation": "Primary reproductive organs are the gonads: testes and ovaries."},
-      "ta": {"q": "பின்வருவனவற்றுள் துணைப் பால் உறுப்பு அல்லாத முதன்மை இனப்பெருக்க உறுப்பு எது?", "options": ["விந்து நாளம்", "கருப்பை", "புராஸ்டேட் சுரப்பி", "அண்டகம்"], "explanation": "முதன்மை இனப்பெருக்க உறுப்புகள் இனச்சுரப்பிகள்: விந்தகம், அண்டகம்."}
+      "en": {
+        "q": "Which of the following is a primary reproductive organ, not an accessory sex organ?",
+        "options": [
+          "Vas deferens",
+          "Uterus",
+          "Prostate gland",
+          "Ovary"
+        ],
+        "explanation": "Primary reproductive organs are the gonads: testes and ovaries."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் துணைப் பால் உறுப்பு அல்லாத முதன்மை இனப்பெருக்க உறுப்பு எது?",
+        "options": [
+          "விந்து நாளம்",
+          "கருப்பை",
+          "புராஸ்டேட் சுரப்பி",
+          "அண்டகம்"
+        ],
+        "explanation": "முதன்மை இனப்பெருக்க உறுப்புகள் இனச்சுரப்பிகள்: விந்தகம், அண்டகம்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 249,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 249,
       "quote": "Testes are the reproductive glands of the male that are oval shaped organs which lie outside the abdominal cavity of a man in a sac like structure called scrotum.",
       "answer": "A",
-      "en": {"q": "Human testes lie outside the abdominal cavity in a pouch called the", "options": ["scrotum", "epididymis", "tunica albuginea", "seminal vesicle"], "explanation": "Each testis is covered by a fibrous layer called tunica albuginea."},
-      "ta": {"q": "மனித விந்தகங்கள் வயிற்றறைக்கு வெளியே எந்தப் பையில் உள்ளன?", "options": ["விந்தகப்பை (ஸ்க்ரோட்டம்)", "எபிடிடிமிஸ்", "டியூனிகா அல்புஜினியா", "விந்துப்பை"], "explanation": "ஒவ்வொரு விந்தகமும் டியூனிகா அல்புஜினியா எனும் நார் அடுக்கால் மூடப்பட்டுள்ளது."}
+      "en": {
+        "q": "Human testes lie outside the abdominal cavity in a pouch called the",
+        "options": [
+          "scrotum",
+          "epididymis",
+          "tunica albuginea",
+          "seminal vesicle"
+        ],
+        "explanation": "Each testis is covered by a fibrous layer called tunica albuginea."
+      },
+      "ta": {
+        "q": "மனித விந்தகங்கள் வயிற்றறைக்கு வெளியே எந்தப் பையில் உள்ளன?",
+        "options": [
+          "விந்தகப்பை",
+          "எபிடிடிமிஸ்",
+          "டியூனிகா அல்புஜினியா",
+          "விந்துப்பை"
+        ],
+        "explanation": "ஒவ்வொரு விந்தகமும் டியூனிகா அல்புஜினியா எனும் நார் அடுக்கால் மூடப்பட்டுள்ளது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 249,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 249,
       "quote": "The Sertoli cells are the supporting cells and provide nutrients to the developing sperms.",
       "answer": "B",
-      "en": {"q": "The large cells that provide nutrition to developing sperms are", "options": ["Leydig cells", "Sertoli cells", "primary germ cells", "spermatogonia"], "explanation": "Leydig cells secrete testosterone."},
-      "ta": {"q": "வளரும் விந்தணுக்களுக்கு ஊட்டமளிக்கும் பெரிய செல்கள் எவை?", "options": ["லேடிக் செல்கள்", "செர்டோலி செல்கள்", "முதன்மை இனச்செல்கள்", "ஸ்பெர்மட்டோகோனியா"], "explanation": "லேடிக் செல்கள் டெஸ்டோஸ்டிரோனைச் சுரக்கின்றன."}
+      "en": {
+        "q": "The large cells that provide nutrition to developing sperms are",
+        "options": [
+          "Leydig cells",
+          "Sertoli cells",
+          "primary germ cells",
+          "spermatogonia"
+        ],
+        "explanation": "Leydig cells secrete testosterone."
+      },
+      "ta": {
+        "q": "வளரும் விந்தணுக்களுக்கு ஊட்டமளிக்கும் பெரிய செல்கள் எவை?",
+        "options": [
+          "லேடிக் செல்கள்",
+          "செர்டோலி செல்கள்",
+          "முதன்மை இனச்செல்கள்",
+          "ஸ்பெர்மட்டோகோனியா"
+        ],
+        "explanation": "லேடிக் செல்கள் டெஸ்டோஸ்டிரோனைச் சுரக்கின்றன."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 249,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 249,
       "quote": "The epithelial cells called the granulosa cells surround each ovum in the ovary together forming the primary follicle. As the egg grows larger, the follicle also enlarges and gets filled with the fluid and is called the Graafian follicle.",
       "answer": "C",
-      "en": {"q": "A mature, fluid-filled ovarian follicle is called the", "options": ["primary follicle", "corpus luteum", "Graafian follicle", "stroma"], "explanation": "Granulosa cells surround each ovum to form the primary follicle."},
-      "ta": {"q": "முதிர்ந்த, திரவம் நிறைந்த அண்டகப் பை (ஃபாலிக்கிள்) எவ்வாறு அழைக்கப்படுகிறது?", "options": ["முதன்மை ஃபாலிக்கிள்", "கார்பஸ் லூட்டியம்", "கிராஃபியன் ஃபாலிக்கிள்", "ஸ்ட்ரோமா"], "explanation": "கிரானுலோசா செல்கள் ஒவ்வொரு அண்டத்தையும் சூழ்ந்து முதன்மை ஃபாலிக்கிளை உருவாக்குகின்றன."}
+      "en": {
+        "q": "A mature, fluid-filled ovarian follicle is called the",
+        "options": [
+          "primary follicle",
+          "corpus luteum",
+          "Graafian follicle",
+          "stroma"
+        ],
+        "explanation": "Granulosa cells surround each ovum to form the primary follicle."
+      },
+      "ta": {
+        "q": "முதிர்ந்த, திரவம் நிறைந்த அண்டகப் பை (ஃபாலிக்கிள்) எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "முதன்மை ஃபாலிக்கிள்",
+          "கார்பஸ் லூட்டியம்",
+          "கிராஃபியன் ஃபாலிக்கிள்",
+          "ஸ்ட்ரோமா"
+        ],
+        "explanation": "கிரானுலோசா செல்கள் ஒவ்வொரு அண்டத்தையும் சூழ்ந்து முதன்மை ஃபாலிக்கிளை உருவாக்குகின்றன."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 250,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 250,
       "quote": "The anterior portion has a cap like structure called acrosome. It contains hyaluronidase an enzyme that helps the sperm to enter the ovum during fertilization.",
       "answer": "D",
-      "en": {"q": "The enzyme present in the acrosome of the sperm is", "options": ["pepsin", "amylase", "lipase", "hyaluronidase"], "explanation": "It helps the sperm enter the ovum during fertilisation."},
-      "ta": {"q": "விந்தணுவின் அக்ரோசோமில் உள்ள நொதி எது?", "options": ["பெப்சின்", "அமைலேஸ்", "லிப்பேஸ்", "ஹயலுரோனிடேஸ்"], "explanation": "இது கருவுறுதலின்போது விந்தணு அண்டத்திற்குள் நுழைய உதவுகிறது."}
+      "en": {
+        "q": "The enzyme present in the acrosome of the sperm is",
+        "options": [
+          "gastric pepsin",
+          "salivary amylase",
+          "pancreatic lipase",
+          "hyaluronidase"
+        ],
+        "explanation": "It helps the sperm enter the ovum during fertilisation."
+      },
+      "ta": {
+        "q": "விந்தணுவின் அக்ரோசோமில் உள்ள நொதி எது?",
+        "options": [
+          "இரைப்பை பெப்சின்",
+          "உமிழ்நீர் அமைலேஸ்",
+          "கணைய லிப்பேஸ்",
+          "ஹயலுரோனிடேஸ்"
+        ],
+        "explanation": "இது கருவுறுதலின்போது விந்தணு அண்டத்திற்குள் நுழைய உதவுகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 250,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 250,
       "quote": "The middle piece contains the mitochondria which provides energy for the movement of tail. It brings about sperm motility which is essential for fertilization.",
       "answer": "A",
-      "en": {"q": "The part of the sperm containing mitochondria that provide energy for tail movement is the", "options": ["middle piece", "head", "acrosome", "neck"], "explanation": "The neck connects the head and middle piece and has centrioles."},
-      "ta": {"q": "வால் இயக்கத்திற்கு ஆற்றல் தரும் மைட்டோகாண்ட்ரியா கொண்ட விந்தணுவின் பகுதி எது?", "options": ["நடுப்பகுதி", "தலை", "அக்ரோசோம்", "கழுத்து"], "explanation": "கழுத்து தலையையும் நடுப்பகுதியையும் இணைக்கிறது; சென்ட்ரியோல்கள் உள்ளன."}
+      "en": {
+        "q": "The part of the sperm containing mitochondria that provide energy for tail movement is the",
+        "options": [
+          "middle piece",
+          "head region",
+          "acrosome cap",
+          "neck region"
+        ],
+        "explanation": "The neck connects the head and middle piece and has centrioles."
+      },
+      "ta": {
+        "q": "வால் இயக்கத்திற்கு ஆற்றல் தரும் மைட்டோகாண்ட்ரியா கொண்ட விந்தணுவின் பகுதி எது?",
+        "options": [
+          "நடுப்பகுதி",
+          "தலை",
+          "அக்ரோசோம்",
+          "கழுத்து"
+        ],
+        "explanation": "கழுத்து தலையையும் நடுப்பகுதியையும் இணைக்கிறது; சென்ட்ரியோல்கள் உள்ளன."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 250,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 250,
       "quote": "The plasma membrane is surrounded by inner thin zona pellucida and an outer thick corona radiata. The corona radiata is formed of follicle cells.",
       "answer": "B",
-      "en": {"q": "The outer thick layer of the human ovum, formed of follicle cells, is the", "options": ["zona pellucida", "corona radiata", "vitelline membrane", "perivitelline space"], "explanation": "The inner thin layer is the zona pellucida."},
-      "ta": {"q": "ஃபாலிக்கிள் செல்களால் ஆன மனித அண்டத்தின் வெளித் தடித்த அடுக்கு எது?", "options": ["சோனா பெல்லூசிடா", "கரோனா ரேடியேட்டா", "விட்டலைன் சவ்வு", "பெரிவிட்டலைன் இடைவெளி"], "explanation": "உள் மெல்லிய அடுக்கு சோனா பெல்லூசிடா."}
+      "en": {
+        "q": "The outer thick layer of the human ovum, formed of follicle cells, is the",
+        "options": [
+          "zona pellucida",
+          "corona radiata",
+          "vitelline membrane",
+          "perivitelline space"
+        ],
+        "explanation": "The inner thin layer is the zona pellucida."
+      },
+      "ta": {
+        "q": "ஃபாலிக்கிள் செல்களால் ஆன மனித அண்டத்தின் வெளித் தடித்த அடுக்கு எது?",
+        "options": [
+          "சோனா பெல்லூசிடா",
+          "கரோனா ரேடியேட்டா",
+          "விட்டலைன் சவ்வு",
+          "பெரிவிட்டலைன் இடைவெளி"
+        ],
+        "explanation": "உள் மெல்லிய அடுக்கு சோனா பெல்லூசிடா."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 251,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 251,
       "quote": "In human females the menstrual cycle starts at the age of 11-13 years which marks the onset of puberty and is called menarche, and ceases around 48-50 years of age and this stage is termed menopause.",
       "answer": "C",
-      "en": {"q": "The cessation of the menstrual cycle around 48–50 years of age is called", "options": ["menarche", "ovulation", "menopause", "parturition"], "explanation": "The onset of menstruation at puberty is menarche."},
-      "ta": {"q": "48–50 வயதில் மாதவிடாய்ச் சுழற்சி நிற்பது எவ்வாறு அழைக்கப்படுகிறது?", "options": ["பூப்பெய்துதல் (மெனார்க்கி)", "அண்டவிடுப்பு", "மாதவிடாய் நிறுத்தம் (மெனோபாஸ்)", "மகப்பேறு"], "explanation": "பருவமடைதலில் மாதவிடாய் தொடங்குவது மெனார்க்கி."}
+      "en": {
+        "q": "The cessation of the menstrual cycle around 48–50 years of age is called",
+        "options": [
+          "menarche",
+          "ovulation",
+          "menopause",
+          "parturition"
+        ],
+        "explanation": "The onset of menstruation at puberty is menarche."
+      },
+      "ta": {
+        "q": "48–50 வயதில் மாதவிடாய்ச் சுழற்சி நிற்பது எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "பூப்பெய்துதல் (மெனார்க்கி)",
+          "அண்டவிடுப்பு",
+          "மாதவிடாய் நிறுத்தம் (மெனோபாஸ்)",
+          "மகப்பேறு"
+        ],
+        "explanation": "பருவமடைதலில் மாதவிடாய் தொடங்குவது மெனார்க்கி."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 251,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 251,
       "quote": "Ovulatory phase 14th day The Graafian follicle ruptures, and releases the ovum(egg) ... LH peak",
       "answer": "D",
-      "en": {"q": "In a 28-day menstrual cycle, ovulation usually takes place on the", "options": ["1st day", "5th day", "28th day", "14th day"], "explanation": "The Graafian follicle ruptures due to the LH peak."},
-      "ta": {"q": "28 நாள் மாதவிடாய்ச் சுழற்சியில் அண்டவிடுப்பு பொதுவாக எந்த நாளில் நிகழும்?", "options": ["1ஆம் நாள்", "5ஆம் நாள்", "28ஆம் நாள்", "14ஆம் நாள்"], "explanation": "LH உச்சத்தால் கிராஃபியன் ஃபாலிக்கிள் வெடிக்கிறது."}
+      "en": {
+        "q": "In a 28-day menstrual cycle, ovulation usually takes place on the",
+        "options": [
+          "1st day",
+          "5th day",
+          "28th day",
+          "14th day"
+        ],
+        "explanation": "The Graafian follicle ruptures due to the LH peak."
+      },
+      "ta": {
+        "q": "28 நாள் மாதவிடாய்ச் சுழற்சியில் அண்டவிடுப்பு பொதுவாக எந்த நாளில் நிகழும்?",
+        "options": [
+          "1ஆம் நாள்",
+          "5ஆம் நாள்",
+          "28ஆம் நாள்",
+          "14ஆம் நாள்"
+        ],
+        "explanation": "LH உச்சத்தால் கிராஃபியன் ஃபாலிக்கிள் வெடிக்கிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 251,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 251,
       "quote": "Luteal 15th–28th day Emptied Graafian follicle develops into corpus luteum ... Corpus luteum produces progesterone and its level increases",
       "answer": "A",
-      "en": {"q": "The luteal phase of the menstrual cycle is also called the secretory phase because the", "options": ["corpus luteum secretes progesterone", "pituitary stops secreting hormones", "uterus sheds its lining", "follicle releases the egg"], "explanation": "The emptied Graafian follicle develops into the corpus luteum."},
-      "ta": {"q": "மாதவிடாய்ச் சுழற்சியின் லூட்டியல் நிலை சுரப்பு நிலை எனவும் அழைக்கப்படுவது ஏன்?", "options": ["கார்பஸ் லூட்டியம் புரோஜெஸ்டிரோனைச் சுரப்பதால்", "பிட்யூட்டரி ஹார்மோன் சுரப்பை நிறுத்துவதால்", "கருப்பை உட்சுவர் உதிர்வதால்", "ஃபாலிக்கிள் அண்டத்தை விடுவிப்பதால்"], "explanation": "காலியான கிராஃபியன் ஃபாலிக்கிள் கார்பஸ் லூட்டியமாக மாறுகிறது."}
+      "en": {
+        "q": "The luteal phase of the menstrual cycle is also called the secretory phase because the",
+        "options": [
+          "corpus luteum secretes progesterone",
+          "pituitary stops secreting hormones",
+          "uterus sheds its lining",
+          "follicle releases the egg"
+        ],
+        "explanation": "The emptied Graafian follicle develops into the corpus luteum."
+      },
+      "ta": {
+        "q": "மாதவிடாய்ச் சுழற்சியின் லூட்டியல் நிலை சுரப்பு நிலை எனவும் அழைக்கப்படுவது ஏன்?",
+        "options": [
+          "கார்பஸ் லூட்டியம் புரோஜெஸ்டிரோனைச் சுரப்பதால்",
+          "பிட்யூட்டரி ஹார்மோன் சுரப்பை நிறுத்துவதால்",
+          "கருப்பை உட்சுவர் உதிர்வதால்",
+          "ஃபாலிக்கிள் அண்டத்தை விடுவிப்பதால்"
+        ],
+        "explanation": "காலியான கிராஃபியன் ஃபாலிக்கிள் கார்பஸ் லூட்டியமாக மாறுகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 252,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 252,
       "quote": "Fertilization in human is internal and occurs in the oviduct of the female genital tract. It takes place usually in the ampulla of the fallopian tube. An oocyte is alive for about 24 hours after it is released from the follicle.",
       "answer": "B",
-      "en": {"q": "In humans, fertilisation usually takes place in the", "options": ["uterus", "ampulla of the fallopian tube", "ovary", "cervix"], "explanation": "Fertilisation is internal and must occur within about 24 hours of ovulation."},
-      "ta": {"q": "மனிதர்களில் கருவுறுதல் பொதுவாக எங்கு நிகழ்கிறது?", "options": ["கருப்பை", "அண்டநாளத்தின் ஆம்புல்லா பகுதி", "அண்டகம்", "கருப்பை வாய்"], "explanation": "கருவுறுதல் உட்புறமானது; அண்டவிடுப்புக்குப் பின் ஏறக்குறைய 24 மணி நேரத்தில் நிகழ வேண்டும்."}
+      "en": {
+        "q": "In humans, fertilisation usually takes place in the",
+        "options": [
+          "fundus of the uterus",
+          "fallopian tube ampulla",
+          "surface of the ovary",
+          "cervix of the uterus"
+        ],
+        "explanation": "Fertilisation is internal and must occur within about 24 hours of ovulation."
+      },
+      "ta": {
+        "q": "மனிதர்களில் கருவுறுதல் பொதுவாக எங்கு நிகழ்கிறது?",
+        "options": [
+          "கருப்பையின் அடிப்பகுதி",
+          "அண்டநாளத்தின் ஆம்புல்லா",
+          "அண்டகத்தின் மேற்பரப்பு",
+          "கருப்பை வாய்ப் பகுதி"
+        ],
+        "explanation": "கருவுறுதல் உட்புறமானது; அண்டவிடுப்புக்குப் பின் ஏறக்குறைய 24 மணி நேரத்தில் நிகழ வேண்டும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 252,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 252,
       "quote": "The process of attachment of the blastocyst to the uterine wall (endometrium) is called implantation. The fertilized egg becomes implanted in about 6 to 7 days after fertilization.",
       "answer": "C",
-      "en": {"q": "The attachment of the blastocyst to the uterine wall (endometrium), about 6–7 days after fertilisation, is called", "options": ["ovulation", "gastrulation", "implantation", "parturition"], "explanation": "The first cleavage occurs about 30 hours after fertilisation."},
-      "ta": {"q": "கருவுறுதலுக்குப் பின் ஏறக்குறைய 6–7 நாள்களில் பிளாஸ்டோசிஸ்ட் கருப்பைச் சுவருடன் ஒட்டிக்கொள்வது எவ்வாறு அழைக்கப்படும்?", "options": ["அண்டவிடுப்பு", "காஸ்ட்ருலேஷன்", "கரு பதிதல் (இம்பிளான்டேஷன்)", "மகப்பேறு"], "explanation": "முதல் பிளவு கருவுறுதலுக்குப் பின் ஏறக்குறைய 30 மணி நேரத்தில் நிகழும்."}
+      "en": {
+        "q": "The attachment of the blastocyst to the uterine wall (endometrium), about 6–7 days after fertilisation, is called",
+        "options": [
+          "ovulation",
+          "gastrulation",
+          "implantation",
+          "parturition"
+        ],
+        "explanation": "The first cleavage occurs about 30 hours after fertilisation."
+      },
+      "ta": {
+        "q": "கருவுறுதலுக்குப் பின் ஏறக்குறைய 6–7 நாள்களில் பிளாஸ்டோசிஸ்ட் கருப்பைச் சுவருடன் ஒட்டிக்கொள்வது எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "அண்டவிடுப்பு",
+          "காஸ்ட்ருலேஷன்",
+          "கரு பதிதல்",
+          "மகப்பேறு"
+        ],
+        "explanation": "முதல் பிளவு கருவுறுதலுக்குப் பின் ஏறக்குறைய 30 மணி நேரத்தில் நிகழும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 252,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 252,
       "quote": "The transformation of blastula into gastrula and the formation of primary germ layers (ectoderm, mesoderm and endoderm) by rearrangement of the cells is called gastrulation.",
       "answer": "D",
-      "en": {"q": "The formation of the three primary germ layers from the blastula is called", "options": ["cleavage", "implantation", "organogenesis", "gastrulation"], "explanation": "The germ layers are ectoderm, mesoderm and endoderm."},
-      "ta": {"q": "பிளாஸ்டுலாவிலிருந்து மூன்று முதன்மைக் கருவடுக்குகள் உருவாவது எவ்வாறு அழைக்கப்படும்?", "options": ["பிளவுறுதல்", "கரு பதிதல்", "உறுப்பாக்கம்", "காஸ்ட்ருலேஷன்"], "explanation": "கருவடுக்குகள்: புறப்படை, இடைப்படை, அகப்படை."}
+      "en": {
+        "q": "The formation of the three primary germ layers from the blastula is called",
+        "options": [
+          "cleavage",
+          "implantation",
+          "organogenesis",
+          "gastrulation"
+        ],
+        "explanation": "The germ layers are ectoderm, mesoderm and endoderm."
+      },
+      "ta": {
+        "q": "பிளாஸ்டுலாவிலிருந்து மூன்று முதன்மைக் கருவடுக்குகள் உருவாவது எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "பிளவுறுதல்",
+          "கரு பதிதல்",
+          "உறுப்பாக்கம்",
+          "காஸ்ட்ருலேஷன்"
+        ],
+        "explanation": "கருவடுக்குகள்: புறப்படை, இடைப்படை, அகப்படை."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 253,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 253,
       "quote": "The placenta is a disc shaped structure attached to the uterine wall and is a temporary association between the developing embryo and maternal tissues. It allows the exchange of food materials, diffusion of oxygen, excretion of nitrogenous wastes and elimination of carbon dioxide.",
       "answer": "A",
-      "en": {"q": "The developing embryo gets its nourishment from the mother through the", "options": ["placenta", "amnion", "yolk", "corpus luteum"], "explanation": "The umbilical cord connects the placenta with the foetus."},
-      "ta": {"q": "வளரும் கரு தாயிடமிருந்து ஊட்டத்தை எதன் வழியாகப் பெறுகிறது?", "options": ["தொப்புள்கொடித் தட்டு (நஞ்சுக்கொடி)", "அம்னியான்", "கருவுணவு (யோக்)", "கார்பஸ் லூட்டியம்"], "explanation": "தொப்புள்கொடி நஞ்சுக்கொடியைக் கருவுடன் இணைக்கிறது."}
+      "en": {
+        "q": "The developing embryo gets its nourishment from the mother through the",
+        "options": [
+          "placenta",
+          "amnion",
+          "yolk",
+          "corpus luteum"
+        ],
+        "explanation": "The umbilical cord connects the placenta with the foetus."
+      },
+      "ta": {
+        "q": "வளரும் கரு தாயிடமிருந்து ஊட்டத்தை எதன் வழியாகப் பெறுகிறது?",
+        "options": [
+          "நஞ்சுக்கொடி",
+          "அம்னியான்",
+          "கருவுணவுப் பை",
+          "கார்பஸ் லூட்டியம்"
+        ],
+        "explanation": "தொப்புள்கொடி நஞ்சுக்கொடியைக் கருவுடன் இணைக்கிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 253,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 253,
       "quote": "Normally gestation period of human last for about 280 days. During pregnancy the uterus expands upto 500 times of its normal size.",
       "answer": "B",
-      "en": {"q": "The normal human gestation period lasts about", "options": ["180 days", "280 days", "365 days", "120 days"], "explanation": "The uterus expands up to 500 times its normal size during pregnancy."},
-      "ta": {"q": "மனிதனின் சாதாரணக் கர்ப்பக் காலம் ஏறக்குறைய எவ்வளவு?", "options": ["180 நாள்கள்", "280 நாள்கள்", "365 நாள்கள்", "120 நாள்கள்"], "explanation": "கர்ப்பகாலத்தில் கருப்பை அதன் இயல்பு அளவில் 500 மடங்கு வரை விரிவடைகிறது."}
+      "en": {
+        "q": "The normal human gestation period lasts about",
+        "options": [
+          "180 days",
+          "280 days",
+          "365 days",
+          "120 days"
+        ],
+        "explanation": "The uterus expands up to 500 times its normal size during pregnancy."
+      },
+      "ta": {
+        "q": "மனிதனின் சாதாரணக் கர்ப்பக் காலம் ஏறக்குறைய எவ்வளவு?",
+        "options": [
+          "180 நாள்கள்",
+          "280 நாள்கள்",
+          "365 நாள்கள்",
+          "120 நாள்கள்"
+        ],
+        "explanation": "கர்ப்பகாலத்தில் கருப்பை அதன் இயல்பு அளவில் 500 மடங்கு வரை விரிவடைகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 253,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 253,
       "quote": "Sometimes ovaries releases two eggs and each is fertilised by a different sperm, resulting in Non-Identical Twins (Fraternal Twins). If single egg is fertilised and then divides into two foetus, Identical Twins develop.",
       "answer": "C",
-      "en": {"q": "Identical twins develop when", "options": ["two eggs are fertilised by two sperms", "two sperms fertilise one egg", "a single fertilised egg divides into two foetuses", "the ovary releases no egg"], "explanation": "Two eggs fertilised by different sperms give fraternal (non-identical) twins."},
-      "ta": {"q": "ஒத்த இரட்டையர் எப்போது உருவாகின்றனர்?", "options": ["இரு அண்டங்கள் இரு விந்தணுக்களால் கருவுறும்போது", "இரு விந்தணுக்கள் ஒரே அண்டத்தைக் கருவுறச் செய்யும்போது", "ஒரே கருவுற்ற அண்டம் இரு கருக்களாகப் பிரியும்போது", "அண்டகம் அண்டத்தை வெளியிடாதபோது"], "explanation": "வெவ்வேறு விந்தணுக்களால் கருவுற்ற இரு அண்டங்கள் ஒத்தமையற்ற இரட்டையரை உருவாக்கும்."}
+      "en": {
+        "q": "Identical twins develop when",
+        "options": [
+          "two eggs are fertilised by two sperms",
+          "two sperms fertilise one egg",
+          "a single fertilised egg divides into two foetuses",
+          "the ovary releases no egg"
+        ],
+        "explanation": "Two eggs fertilised by different sperms give fraternal (non-identical) twins."
+      },
+      "ta": {
+        "q": "ஒத்த இரட்டையர் எப்போது உருவாகின்றனர்?",
+        "options": [
+          "இரு அண்டங்கள் இரு விந்தணுக்களால் கருவுறும்போது",
+          "இரு விந்தணுக்கள் ஒரே அண்டத்தைக் கருவுறச் செய்யும்போது",
+          "ஒரே கருவுற்ற அண்டம் இரு கருக்களாகப் பிரியும்போது",
+          "அண்டகம் அண்டத்தை வெளியிடாதபோது"
+        ],
+        "explanation": "வெவ்வேறு விந்தணுக்களால் கருவுற்ற இரு அண்டங்கள் ஒத்தமையற்ற இரட்டையரை உருவாக்கும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 253,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 253,
       "quote": "The milk produced from the breast during the first 2 to 3 days after child birth is called colostrum. It contains immune substances and provides immunity to the new born",
       "answer": "D",
-      "en": {"q": "The first milk produced during the first 2–3 days after childbirth, which provides immunity to the newborn, is called", "options": ["lactose", "lymph", "plasma", "colostrum"], "explanation": "It contains immune substances."},
-      "ta": {"q": "குழந்தை பிறந்த முதல் 2–3 நாள்களில் சுரக்கும், புதிதாய்ப் பிறந்த குழந்தைக்கு நோய் எதிர்ப்பாற்றல் தரும் பால் எவ்வாறு அழைக்கப்படுகிறது?", "options": ["லாக்டோஸ்", "நிணநீர்", "பிளாஸ்மா", "சீம்பால் (கொலஸ்ட்ரம்)"], "explanation": "இதில் நோய் எதிர்ப்புப் பொருள்கள் உள்ளன."}
+      "en": {
+        "q": "The first milk produced during the first 2–3 days after childbirth, which provides immunity to the newborn, is called",
+        "options": [
+          "lactose",
+          "lymph",
+          "plasma",
+          "colostrum"
+        ],
+        "explanation": "It contains immune substances."
+      },
+      "ta": {
+        "q": "குழந்தை பிறந்த முதல் 2–3 நாள்களில் சுரக்கும், புதிதாய்ப் பிறந்த குழந்தைக்கு நோய் எதிர்ப்பாற்றல் தரும் பால் எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "லாக்டோஸ்",
+          "நிணநீர்",
+          "பிளாஸ்மா",
+          "சீம்பால்"
+        ],
+        "explanation": "இதில் நோய் எதிர்ப்புப் பொருள்கள் உள்ளன."
+      }
     },
     {
-      "topic": "social-justice-and-welfare-schemes", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 254,
+      "topic": "social-justice-and-welfare-schemes",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 254,
       "quote": "India has been one of the first country in the world to launch the nation wide family planning programme in 1952.",
       "answer": "A",
-      "en": {"q": "India launched its nationwide family planning programme in", "options": ["1952", "1947", "1962", "1975"], "explanation": "India was one of the first countries in the world to do so."},
-      "ta": {"q": "இந்தியா நாடு தழுவிய குடும்பநலத் திட்டத்தைத் தொடங்கிய ஆண்டு எது?", "options": ["1952", "1947", "1962", "1975"], "explanation": "உலகில் இதைத் தொடங்கிய முதல் நாடுகளில் இந்தியாவும் ஒன்று."}
+      "en": {
+        "q": "India launched its nationwide family planning programme in",
+        "options": [
+          "1952",
+          "1947",
+          "1962",
+          "1975"
+        ],
+        "explanation": "India was one of the first countries in the world to do so."
+      },
+      "ta": {
+        "q": "இந்தியா நாடு தழுவிய குடும்பநலத் திட்டத்தைத் தொடங்கிய ஆண்டு எது?",
+        "options": [
+          "1952",
+          "1947",
+          "1962",
+          "1975"
+        ],
+        "explanation": "உலகில் இதைத் தொடங்கிய முதல் நாடுகளில் இந்தியாவும் ஒன்று."
+      }
     },
     {
-      "topic": "social-justice-and-welfare-schemes", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 254,
+      "topic": "social-justice-and-welfare-schemes",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 254,
       "quote": "The inverted red triangle is a symbol of family planning in India for family welfare. ... The symbol is displayed along with a slogan Small Family, Happy Family.",
       "answer": "B",
-      "en": {"q": "The symbol of family planning in India is the", "options": ["green circle", "inverted red triangle", "blue cross", "red ribbon"], "explanation": "It is displayed with the slogan 'Small Family, Happy Family'."},
-      "ta": {"q": "இந்தியாவில் குடும்பநலத்தின் சின்னம் எது?", "options": ["பச்சை வட்டம்", "தலைகீழ் சிவப்பு முக்கோணம்", "நீலச் சிலுவை", "சிவப்பு ரிப்பன்"], "explanation": "'சிறிய குடும்பம், மகிழ்ச்சியான குடும்பம்' என்ற முழக்கத்துடன் காட்டப்படுகிறது."}
+      "en": {
+        "q": "The symbol of family planning in India is the",
+        "options": [
+          "green circular disc",
+          "inverted red triangle",
+          "blue medical cross",
+          "red awareness ribbon"
+        ],
+        "explanation": "It is displayed with the slogan 'Small Family, Happy Family'."
+      },
+      "ta": {
+        "q": "இந்தியாவில் குடும்பநலத்தின் சின்னம் எது?",
+        "options": [
+          "பச்சை நிற வட்ட வடிவம்",
+          "தலைகீழ் சிவப்பு முக்கோணம்",
+          "நீல நிற மருத்துவச் சிலுவை",
+          "சிவப்பு விழிப்புணர்வு ரிப்பன்"
+        ],
+        "explanation": "'சிறிய குடும்பம், மகிழ்ச்சியான குடும்பம்' என்ற முழக்கத்துடன் காட்டப்படுகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 254,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 254,
       "quote": "There are two synthetic devices commonly used in India are Lippe's Loop and Copper-T made of copper and plastic ... This reduces the sperm fertilizing capacity and prevents implantation.",
       "answer": "C",
-      "en": {"q": "Which of the following is an intra-uterine contraceptive device (IUCD)?", "options": ["Oral pills", "Diaphragm", "Copper-T", "Tubectomy"], "explanation": "Lippe's Loop is another IUD used in India."},
-      "ta": {"q": "பின்வருவனவற்றுள் கருப்பையக கருத்தடைச் சாதனம் (IUCD) எது?", "options": ["வாய்வழி மாத்திரைகள்", "டயஃப்ரம்", "காப்பர்-T", "டியூபெக்டமி"], "explanation": "லிப்பஸ் லூப் இந்தியாவில் பயன்படும் மற்றொரு IUD."}
+      "en": {
+        "q": "Which of the following is an intra-uterine contraceptive device (IUCD)?",
+        "options": [
+          "Oral pills",
+          "Diaphragm",
+          "Copper-T",
+          "Tubectomy"
+        ],
+        "explanation": "Lippe's Loop is another IUD used in India."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் கருப்பையக கருத்தடைச் சாதனம் (IUCD) எது?",
+        "options": [
+          "வாய்வழி மாத்திரைகள்",
+          "டயஃப்ரம்",
+          "காப்பர்-T",
+          "டியூபெக்டமி"
+        ],
+        "explanation": "லிப்பஸ் லூப் இந்தியாவில் பயன்படும் மற்றொரு IUD."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 254,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 254,
       "quote": "This procedure in males is vasectomy (ligation of vas deferens) and in females it is tubectomy (ligation of fallopian tube). These are methods of permanent birth control.",
       "answer": "D",
-      "en": {"q": "Vasectomy, a permanent method of birth control in males, involves ligation of the", "options": ["fallopian tube", "urethra", "epididymis", "vas deferens"], "explanation": "Tubectomy in females is ligation of the fallopian tube."},
-      "ta": {"q": "ஆண்களுக்கான நிரந்தரக் கருத்தடை முறையான வாசக்டமியில் எது கட்டப்படுகிறது?", "options": ["அண்டநாளம்", "சிறுநீர்வழி", "எபிடிடிமிஸ்", "விந்து நாளம்"], "explanation": "பெண்களுக்கான டியூபெக்டமியில் அண்டநாளம் கட்டப்படுகிறது."}
+      "en": {
+        "q": "Vasectomy, a permanent method of birth control in males, involves ligation of the",
+        "options": [
+          "fallopian tube",
+          "urethra",
+          "epididymis",
+          "vas deferens"
+        ],
+        "explanation": "Tubectomy in females is ligation of the fallopian tube."
+      },
+      "ta": {
+        "q": "ஆண்களுக்கான நிரந்தரக் கருத்தடை முறையான வாசக்டமியில் எது கட்டப்படுகிறது?",
+        "options": [
+          "அண்டநாளம்",
+          "சிறுநீர்வழி",
+          "எபிடிடிமிஸ்",
+          "விந்து நாளம்"
+        ],
+        "explanation": "பெண்களுக்கான டியூபெக்டமியில் அண்டநாளம் கட்டப்படுகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 254,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 254,
       "quote": "Condom: Condom prevents deposition of sperms in the vagina. ... Condom also protect against sexually transmitted diseases (STD) like syphilis, AIDS.",
       "answer": "A",
-      "en": {"q": "Which contraceptive method also protects against sexually transmitted diseases?", "options": ["Condom", "Oral pills", "Copper-T", "Tubectomy"], "explanation": "It is a barrier method that prevents sperms from meeting the ovum."},
-      "ta": {"q": "பால்வினை நோய்களிலிருந்தும் பாதுகாக்கும் கருத்தடை முறை எது?", "options": ["ஆணுறை", "வாய்வழி மாத்திரைகள்", "காப்பர்-T", "டியூபெக்டமி"], "explanation": "இது விந்தணு அண்டத்தைச் சந்திப்பதைத் தடுக்கும் தடுப்பு முறை."}
+      "en": {
+        "q": "Which contraceptive method also protects against sexually transmitted diseases?",
+        "options": [
+          "Condom",
+          "Oral pills",
+          "Copper-T",
+          "Tubectomy"
+        ],
+        "explanation": "It is a barrier method that prevents sperms from meeting the ovum."
+      },
+      "ta": {
+        "q": "பால்வினை நோய்களிலிருந்தும் பாதுகாக்கும் கருத்தடை முறை எது?",
+        "options": [
+          "ஆணுறை",
+          "வாய்வழி மாத்திரைகள்",
+          "காப்பர்-T",
+          "டியூபெக்டமி"
+        ],
+        "explanation": "இது விந்தணு அண்டத்தைச் சந்திப்பதைத் தடுக்கும் தடுப்பு முறை."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 255,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 255,
       "quote": "Cystitis or Bladder infection Bacteria lodged in the urinary bladder thrive and multiply leading to inflammation. It is most common in the age group of 20 to 50.",
       "answer": "B",
-      "en": {"q": "Inflammation of the urinary bladder due to bacteria is called", "options": ["nephritis", "cystitis", "asymptomatic bacteriuria", "meningitis"], "explanation": "It is a type of urinary tract infection."},
-      "ta": {"q": "பாக்டீரியாவால் சிறுநீர்ப்பையில் ஏற்படும் அழற்சி எவ்வாறு அழைக்கப்படுகிறது?", "options": ["நெஃப்ரைட்டிஸ்", "சிஸ்டைட்டிஸ்", "அறிகுறியற்ற பாக்டீரியூரியா", "மூளைக்காய்ச்சல்"], "explanation": "இது சிறுநீர்ப் பாதைத் தொற்றின் ஒரு வகை."}
+      "en": {
+        "q": "Inflammation of the urinary bladder due to bacteria is called",
+        "options": [
+          "nephritis",
+          "cystitis",
+          "asymptomatic bacteriuria",
+          "meningitis"
+        ],
+        "explanation": "It is a type of urinary tract infection."
+      },
+      "ta": {
+        "q": "பாக்டீரியாவால் சிறுநீர்ப்பையில் ஏற்படும் அழற்சி எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "நெஃப்ரைட்டிஸ்",
+          "சிஸ்டைட்டிஸ்",
+          "அறிகுறியற்ற பாக்டீரியூரியா",
+          "மூளைக்காய்ச்சல்"
+        ],
+        "explanation": "இது சிறுநீர்ப் பாதைத் தொற்றின் ஒரு வகை."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 256,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 256,
       "quote": "Every year May 28 is observed as Menstrual Hygiene day to make girls and women aware of maintaining menstrual hygiene",
       "answer": "C",
-      "en": {"q": "World Menstrual Hygiene Day is observed every year on", "options": ["March 8", "April 7", "May 28", "October 15"], "explanation": "It creates awareness about maintaining menstrual hygiene."},
-      "ta": {"q": "உலக மாதவிடாய்ச் சுகாதார நாள் ஆண்டுதோறும் எந்த நாளில் கடைப்பிடிக்கப்படுகிறது?", "options": ["மார்ச் 8", "ஏப்ரல் 7", "மே 28", "அக்டோபர் 15"], "explanation": "மாதவிடாய்ச் சுகாதாரம் குறித்த விழிப்புணர்வை ஏற்படுத்துகிறது."}
+      "en": {
+        "q": "World Menstrual Hygiene Day is observed every year on",
+        "options": [
+          "March 8",
+          "April 7",
+          "May 28",
+          "October 15"
+        ],
+        "explanation": "It creates awareness about maintaining menstrual hygiene."
+      },
+      "ta": {
+        "q": "உலக மாதவிடாய்ச் சுகாதார நாள் ஆண்டுதோறும் எந்த நாளில் கடைப்பிடிக்கப்படுகிறது?",
+        "options": [
+          "மார்ச் 8",
+          "ஏப்ரல் 7",
+          "மே 28",
+          "அக்டோபர் 15"
+        ],
+        "explanation": "மாதவிடாய்ச் சுகாதாரம் குறித்த விழிப்புணர்வை ஏற்படுத்துகிறது."
+      }
     },
     {
-      "topic": "education-and-health-in-tamil-nadu", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 256,
+      "topic": "education-and-health-in-tamil-nadu",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 256,
       "quote": "The menstrual hygiene scheme to provide subsidized sanitary napkins was launched by the Health ministry in 2011. In Tamil Nadu, UNICEF has developed an affordable incinerator that uses firewood to handle sanitary napkin waste at schools",
       "answer": "D",
-      "en": {"q": "According to the text, the menstrual hygiene scheme providing subsidised sanitary napkins was launched by the Health Ministry in", "options": ["2005", "2014", "2008", "2011"], "explanation": "In Tamil Nadu, UNICEF developed an affordable incinerator for napkin waste in schools."},
-      "ta": {"q": "பாடநூலின்படி மானிய விலையில் சானிட்டரி நாப்கின் வழங்கும் மாதவிடாய்ச் சுகாதாரத் திட்டத்தைச் சுகாதார அமைச்சகம் தொடங்கிய ஆண்டு எது?", "options": ["2005", "2014", "2008", "2011"], "explanation": "தமிழ்நாட்டில் பள்ளிகளுக்காக யுனிசெஃப் மலிவான நாப்கின் எரிப்பானை உருவாக்கியது."}
+      "en": {
+        "q": "According to the text, the menstrual hygiene scheme providing subsidised sanitary napkins was launched by the Health Ministry in",
+        "options": [
+          "2005",
+          "2014",
+          "2008",
+          "2011"
+        ],
+        "explanation": "In Tamil Nadu, UNICEF developed an affordable incinerator for napkin waste in schools."
+      },
+      "ta": {
+        "q": "பாடநூலின்படி மானிய விலையில் சானிட்டரி நாப்கின் வழங்கும் மாதவிடாய்ச் சுகாதாரத் திட்டத்தைச் சுகாதார அமைச்சகம் தொடங்கிய ஆண்டு எது?",
+        "options": [
+          "2005",
+          "2014",
+          "2008",
+          "2011"
+        ],
+        "explanation": "தமிழ்நாட்டில் பள்ளிகளுக்காக யுனிசெஃப் மலிவான நாப்கின் எரிப்பானை உருவாக்கியது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "match_the_following", "difficulty": "medium", "bloom": "remember", "page": 257,
+      "topic": "zoology-human-physiology",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 257,
       "quote": "Parturition – Delivery of baby from uterus; Gestation – Duration between pregnancy and birth; Ovulation – Release of egg from Graafian follicle; Implantation – Attachment of zygote to endometrium",
       "answer": "A",
-      "en": {"q": "Match: (a) Parturition (b) Gestation (c) Ovulation (d) Implantation — (1) Delivery of baby from uterus (2) Duration between pregnancy and birth (3) Release of egg from Graafian follicle (4) Attachment of zygote to endometrium", "options": ["a-1, b-2, c-3, d-4", "a-2, b-1, c-4, d-3", "a-3, b-4, c-1, d-2", "a-4, b-3, c-2, d-1"], "explanation": "Each term matches its meaning in order."},
-      "ta": {"q": "பொருத்துக: (a) மகப்பேறு (b) கர்ப்பகாலம் (c) அண்டவிடுப்பு (d) கரு பதிதல் — (1) கருப்பையிலிருந்து குழந்தை வெளியேறுதல் (2) கர்ப்பம் முதல் பிறப்பு வரையிலான காலம் (3) கிராஃபியன் ஃபாலிக்கிளிலிருந்து அண்டம் வெளியேறுதல் (4) சைகோட் கருப்பை உட்சுவருடன் ஒட்டுதல்", "options": ["a-1, b-2, c-3, d-4", "a-2, b-1, c-4, d-3", "a-3, b-4, c-1, d-2", "a-4, b-3, c-2, d-1"], "explanation": "ஒவ்வொரு சொல்லும் வரிசைப்படி அதன் பொருளுடன் பொருந்துகிறது."}
+      "en": {
+        "q": "Match: (a) Parturition (b) Gestation (c) Ovulation (d) Implantation — (1) Delivery of baby from uterus (2) Duration between pregnancy and birth (3) Release of egg from Graafian follicle (4) Attachment of zygote to endometrium",
+        "options": [
+          "a-1, b-2, c-3, d-4",
+          "a-2, b-1, c-4, d-3",
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-2, d-1"
+        ],
+        "explanation": "Each term matches its meaning in order."
+      },
+      "ta": {
+        "q": "பொருத்துக: (a) மகப்பேறு (b) கர்ப்பகாலம் (c) அண்டவிடுப்பு (d) கரு பதிதல் — (1) கருப்பையிலிருந்து குழந்தை வெளியேறுதல் (2) கர்ப்பம் முதல் பிறப்பு வரையிலான காலம் (3) கிராஃபியன் ஃபாலிக்கிளிலிருந்து அண்டம் வெளியேறுதல் (4) சைகோட் கருப்பை உட்சுவருடன் ஒட்டுதல்",
+        "options": [
+          "a-1, b-2, c-3, d-4",
+          "a-2, b-1, c-4, d-3",
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-2, d-1"
+        ],
+        "explanation": "ஒவ்வொரு சொல்லும் வரிசைப்படி அதன் பொருளுடன் பொருந்துகிறது."
+      }
     }
   ]
 }

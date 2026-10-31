@@ -4,256 +4,1048 @@
   "breadcrumb": "Std 10 Science (English) — Unit 3: Thermal Physics",
   "questions": [
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 32,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
       "quote": "Sun is the primary source of thermal energy for all living organisms. Thermal energy is the cause and temperature is the effect.",
       "answer": "A",
-      "en": {"q": "The primary source of thermal energy for all living organisms is", "options": ["the Sun", "fossil fuels", "the Earth's core", "electricity"], "explanation": "Thermal energy is the cause and temperature is the effect."},
-      "ta": {"q": "அனைத்து உயிரினங்களுக்கும் வெப்ப ஆற்றலின் முதன்மை மூலம் எது?", "options": ["சூரியன்", "புதைபடிவ எரிபொருள்கள்", "புவியின் உட்கரு", "மின்சாரம்"], "explanation": "வெப்ப ஆற்றல் காரணம்; வெப்பநிலை விளைவு."}
+      "en": {
+        "q": "The primary source of thermal energy for all living organisms is",
+        "options": [
+          "the Sun",
+          "fossil fuels",
+          "the Earth's core",
+          "electricity"
+        ],
+        "explanation": "Thermal energy is the cause and temperature is the effect."
+      },
+      "ta": {
+        "q": "அனைத்து உயிரினங்களுக்கும் வெப்ப ஆற்றலின் முதன்மை மூலம் எது?",
+        "options": [
+          "சூரியன்",
+          "புதைபடிவ எரிபொருள்கள்",
+          "புவியின் உட்கரு",
+          "மின்சாரம்"
+        ],
+        "explanation": "வெப்ப ஆற்றல் காரணம்; வெப்பநிலை விளைவு."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 32,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 32,
       "quote": "Temperature is defined as the degree of hotness of a body. ... It is a scalar quantity. The SI unit of temperature is kelvin (K).",
       "answer": "B",
-      "en": {"q": "The SI unit of temperature is", "options": ["degree Celsius", "kelvin", "degree Fahrenheit", "joule"], "explanation": "Temperature is the degree of hotness of a body and is a scalar quantity."},
-      "ta": {"q": "வெப்பநிலையின் SI அலகு எது?", "options": ["டிகிரி செல்சியஸ்", "கெல்வின்", "டிகிரி ஃபாரன்ஹீட்", "ஜூல்"], "explanation": "வெப்பநிலை ஒரு பொருளின் வெப்பத்தின் அளவு; அது ஸ்கேலர் அளவு."}
+      "en": {
+        "q": "The SI unit of temperature is",
+        "options": [
+          "degree Celsius",
+          "kelvin",
+          "degree Fahrenheit",
+          "joule"
+        ],
+        "explanation": "Temperature is the degree of hotness of a body and is a scalar quantity."
+      },
+      "ta": {
+        "q": "வெப்பநிலையின் SI அலகு எது?",
+        "options": [
+          "டிகிரி செல்சியஸ்",
+          "கெல்வின்",
+          "டிகிரி ஃபாரன்ஹீட்",
+          "ஜூல்"
+        ],
+        "explanation": "வெப்பநிலை ஒரு பொருளின் வெப்பத்தின் அளவு; அது ஸ்கேலர் அளவு."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 32,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 32,
       "quote": "Further, temperature is the property, which determines the direction of flow of heat.",
       "answer": "C",
-      "en": {"q": "Which property determines the direction of flow of heat between two bodies?", "options": ["Mass", "Volume", "Temperature", "Density"], "explanation": "Heat flows from higher to lower temperature."},
-      "ta": {"q": "இரு பொருள்களுக்கிடையே வெப்பம் பாயும் திசையைத் தீர்மானிக்கும் பண்பு எது?", "options": ["நிறை", "கனஅளவு", "வெப்பநிலை", "அடர்த்தி"], "explanation": "வெப்பம் உயர் வெப்பநிலையிலிருந்து தாழ் வெப்பநிலைக்குப் பாயும்."}
+      "en": {
+        "q": "Which property determines the direction of flow of heat between two bodies?",
+        "options": [
+          "Mass of the body",
+          "Volume of the body",
+          "Temperature of the body",
+          "Density of the body"
+        ],
+        "explanation": "Heat flows from higher to lower temperature."
+      },
+      "ta": {
+        "q": "இரு பொருள்களுக்கிடையே வெப்பம் பாயும் திசையைத் தீர்மானிக்கும் பண்பு எது?",
+        "options": [
+          "பொருளின் நிறை",
+          "பொருளின் கனஅளவு",
+          "பொருளின் வெப்பநிலை",
+          "பொருளின் அடர்த்தி"
+        ],
+        "explanation": "வெப்பம் உயர் வெப்பநிலையிலிருந்து தாழ் வெப்பநிலைக்குப் பாயும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 32,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 32,
       "quote": "Each unit of the thermodynamic scale of temperature is defined as the fraction of 1/273.16th part of the thermodynamic temperature of the triple point of water.",
       "answer": "D",
-      "en": {"q": "One kelvin is defined as what fraction of the thermodynamic temperature of the triple point of water?", "options": ["1/100", "1/273", "1/373.16", "1/273.16"], "explanation": "The kelvin scale is also called the absolute or thermodynamic scale."},
-      "ta": {"q": "ஒரு கெல்வின் நீரின் முப்புள்ளியின் வெப்ப இயக்கவியல் வெப்பநிலையில் எத்தனையாவது பங்கு?", "options": ["1/100", "1/273", "1/373.16", "1/273.16"], "explanation": "கெல்வின் அளவுகோல் தனிச்சுழி அல்லது வெப்ப இயக்கவியல் அளவுகோல் எனப்படும்."}
+      "en": {
+        "q": "One kelvin is defined as what fraction of the thermodynamic temperature of the triple point of water?",
+        "options": [
+          "1/100",
+          "1/273",
+          "1/373.16",
+          "1/273.16"
+        ],
+        "explanation": "The kelvin scale is also called the absolute or thermodynamic scale."
+      },
+      "ta": {
+        "q": "ஒரு கெல்வின் நீரின் முப்புள்ளியின் வெப்ப இயக்கவியல் வெப்பநிலையில் எத்தனையாவது பங்கு?",
+        "options": [
+          "1/100",
+          "1/273",
+          "1/373.16",
+          "1/273.16"
+        ],
+        "explanation": "கெல்வின் அளவுகோல் தனிச்சுழி அல்லது வெப்ப இயக்கவியல் அளவுகோல் எனப்படும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 32,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 32,
       "quote": "A temperature difference of 1°C is equal to that of 1K.",
       "answer": "A",
-      "en": {"q": "A temperature difference of 1°C is equal to a difference of", "options": ["1 K", "273 K", "1.8 K", "33.8 K"], "explanation": "The Celsius and Kelvin scales have the same size of degree."},
-      "ta": {"q": "1°C வெப்பநிலை வேறுபாடு எதற்குச் சமம்?", "options": ["1 K", "273 K", "1.8 K", "33.8 K"], "explanation": "செல்சியஸ், கெல்வின் அளவுகோல்களின் ஓர் அலகின் அளவு சமம்."}
+      "en": {
+        "q": "A temperature difference of 1°C is equal to a difference of",
+        "options": [
+          "1 K",
+          "273 K",
+          "1.8 K",
+          "33.8 K"
+        ],
+        "explanation": "The Celsius and Kelvin scales have the same size of degree."
+      },
+      "ta": {
+        "q": "1°C வெப்பநிலை வேறுபாடு எதற்குச் சமம்?",
+        "options": [
+          "1 K",
+          "273 K",
+          "1.8 K",
+          "33.8 K"
+        ],
+        "explanation": "செல்சியஸ், கெல்வின் அளவுகோல்களின் ஓர் அலகின் அளவு சமம்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 33,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
       "quote": "Celsius and Kelvin: K = C + 273 ... 0 K = –273°C.",
       "answer": "B",
-      "en": {"q": "0 K (absolute zero) is approximately equal to", "options": ["0°C", "−273°C", "273°C", "−100°C"], "explanation": "K = C + 273."},
-      "ta": {"q": "0 K (தனிச்சுழி) ஏறக்குறைய எதற்குச் சமம்?", "options": ["0°C", "−273°C", "273°C", "−100°C"], "explanation": "K = C + 273."}
+      "en": {
+        "q": "0 K (absolute zero) is approximately equal to",
+        "options": [
+          "0°C",
+          "−273°C",
+          "273°C",
+          "−100°C"
+        ],
+        "explanation": "K = C + 273."
+      },
+      "ta": {
+        "q": "0 K (தனிச்சுழி) ஏறக்குறைய எதற்குச் சமம்?",
+        "options": [
+          "0°C",
+          "−273°C",
+          "273°C",
+          "−100°C"
+        ],
+        "explanation": "K = C + 273."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 33,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 33,
       "quote": "Celsius and Kelvin: K = C + 273",
       "answer": "C",
-      "en": {"q": "A temperature of 27°C on the Kelvin scale is", "options": ["246 K", "273 K", "300 K", "327 K"], "explanation": "K = 27 + 273 = 300 K."},
-      "ta": {"q": "27°C வெப்பநிலை கெல்வின் அளவுகோலில் எவ்வளவு?", "options": ["246 K", "273 K", "300 K", "327 K"], "explanation": "K = 27 + 273 = 300 K."}
+      "en": {
+        "q": "A temperature of 27°C on the Kelvin scale is",
+        "options": [
+          "246 K",
+          "273 K",
+          "300 K",
+          "327 K"
+        ],
+        "explanation": "K = 27 + 273 = 300 K."
+      },
+      "ta": {
+        "q": "27°C வெப்பநிலை கெல்வின் அளவுகோலில் எவ்வளவு?",
+        "options": [
+          "246 K",
+          "273 K",
+          "300 K",
+          "327 K"
+        ],
+        "explanation": "K = 27 + 273 = 300 K."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 33,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 33,
       "quote": "Two or more physical systems or bodies are said to be in thermal equilibrium if there is no net flow of thermal energy between the systems. ... If two bodies are said to be in thermal equilibrium, then, they will be at the same temperature.",
       "answer": "D",
-      "en": {"q": "Two bodies are in thermal equilibrium when", "options": ["they have the same mass", "they have the same volume", "heat flows continuously between them", "there is no net flow of thermal energy and they are at the same temperature"], "explanation": "Heat flows from the hot body to the cold one until equilibrium is reached."},
-      "ta": {"q": "இரு பொருள்கள் வெப்பச் சமநிலையில் உள்ளன எனப்படுவது எப்போது?", "options": ["ஒரே நிறை கொண்டிருக்கும்போது", "ஒரே கனஅளவு கொண்டிருக்கும்போது", "வெப்பம் தொடர்ந்து பாயும்போது", "நிகர வெப்பப் பாய்வு இல்லாமல் ஒரே வெப்பநிலையில் இருக்கும்போது"], "explanation": "சமநிலை அடையும் வரை சூடான பொருளிலிருந்து குளிர்ந்ததற்கு வெப்பம் பாயும்."}
+      "en": {
+        "q": "Two bodies are in thermal equilibrium when",
+        "options": [
+          "they have the same mass and shape",
+          "they have the same volume and density",
+          "heat keeps flowing from one to the other",
+          "no net heat flows and they have equal temperature"
+        ],
+        "explanation": "Heat flows from the hot body to the cold one until equilibrium is reached."
+      },
+      "ta": {
+        "q": "இரு பொருள்கள் வெப்பச் சமநிலையில் உள்ளன எனப்படுவது எப்போது?",
+        "options": [
+          "ஒரே நிறையும் ஒரே வடிவமும் இருக்கும்போது",
+          "ஒரே கனஅளவும் ஒரே அடர்த்தியும் இருக்கும்போது",
+          "வெப்பம் ஒன்றிலிருந்து மற்றொன்றுக்குத் தொடர்ந்து பாயும்போது",
+          "நிகர வெப்பப் பாய்வு இல்லாமல் சம வெப்பநிலையில் இருக்கும்போது"
+        ],
+        "explanation": "சமநிலை அடையும் வரை சூடான பொருளிலிருந்து குளிர்ந்ததற்கு வெப்பம் பாயும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 33,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 33,
       "quote": "Heat is a scalar quantity. The SI unit of heat energy absorbed or evolved is joule (J).",
       "answer": "A",
-      "en": {"q": "The SI unit of heat energy is", "options": ["joule", "kelvin", "calorie", "watt"], "explanation": "Heat is a scalar quantity; calorie and kilocalorie are other common units."},
-      "ta": {"q": "வெப்ப ஆற்றலின் SI அலகு எது?", "options": ["ஜூல்", "கெல்வின்", "கலோரி", "வாட்"], "explanation": "வெப்பம் ஒரு ஸ்கேலர் அளவு; கலோரி, கிலோகலோரி பிற பொதுவான அலகுகள்."}
+      "en": {
+        "q": "The SI unit of heat energy is",
+        "options": [
+          "joule",
+          "kelvin",
+          "calorie",
+          "watt"
+        ],
+        "explanation": "Heat is a scalar quantity; calorie and kilocalorie are other common units."
+      },
+      "ta": {
+        "q": "வெப்ப ஆற்றலின் SI அலகு எது?",
+        "options": [
+          "ஜூல்",
+          "கெல்வின்",
+          "கலோரி",
+          "வாட்"
+        ],
+        "explanation": "வெப்பம் ஒரு ஸ்கேலர் அளவு; கலோரி, கிலோகலோரி பிற பொதுவான அலகுகள்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 33,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 33,
       "quote": "The mass of a system is not altered when it is heated or cooled.",
       "answer": "B",
-      "en": {"q": "When a substance is heated or cooled, the change in its mass is", "options": ["positive", "zero", "negative", "doubled"], "explanation": "Mass is not altered by heating or cooling."},
-      "ta": {"q": "ஒரு பொருள் வெப்பப்படுத்தப்படும்போது அல்லது குளிர்விக்கப்படும்போது அதன் நிறையில் ஏற்படும் மாற்றம்", "options": ["நேர்க்குறி", "பூஜ்யம்", "எதிர்க்குறி", "இருமடங்கு"], "explanation": "வெப்பப்படுத்துதல், குளிர்வித்தலால் நிறை மாறாது."}
+      "en": {
+        "q": "When a substance is heated or cooled, the change in its mass is",
+        "options": [
+          "positive",
+          "zero",
+          "negative",
+          "doubled"
+        ],
+        "explanation": "Mass is not altered by heating or cooling."
+      },
+      "ta": {
+        "q": "ஒரு பொருள் வெப்பப்படுத்தப்படும்போது அல்லது குளிர்விக்கப்படும்போது அதன் நிறையில் ஏற்படும் மாற்றம்",
+        "options": [
+          "நேர்க்குறி",
+          "பூஜ்யம்",
+          "எதிர்க்குறி",
+          "இருமடங்கு"
+        ],
+        "explanation": "வெப்பப்படுத்துதல், குளிர்வித்தலால் நிறை மாறாது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 33,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 33,
       "quote": "For any exchange of heat, the heat gained by the cold system is equal to heat lost by the hot system. Heat gained = Heat lost",
       "answer": "C",
-      "en": {"q": "In any exchange of heat between a hot and a cold system,", "options": ["heat lost is greater than heat gained", "heat gained is greater than heat lost", "heat gained by the cold system equals heat lost by the hot system", "no heat is exchanged"], "explanation": "Heat gained = heat lost."},
-      "ta": {"q": "சூடான, குளிர்ந்த அமைப்புகளுக்கிடையே வெப்பப் பரிமாற்றத்தில்", "options": ["இழந்த வெப்பம் பெற்றதை விட அதிகம்", "பெற்ற வெப்பம் இழந்ததை விட அதிகம்", "குளிர்ந்த அமைப்பு பெற்ற வெப்பம் = சூடான அமைப்பு இழந்த வெப்பம்", "வெப்பப் பரிமாற்றம் இல்லை"], "explanation": "பெற்ற வெப்பம் = இழந்த வெப்பம்."}
+      "en": {
+        "q": "In any exchange of heat between a hot and a cold system,",
+        "options": [
+          "heat lost by hot is more than heat gained by cold",
+          "heat gained by cold is more than heat lost by hot",
+          "heat gained by cold equals heat lost by hot",
+          "the heat exchanged is always zero"
+        ],
+        "explanation": "Heat gained = heat lost."
+      },
+      "ta": {
+        "q": "சூடான, குளிர்ந்த அமைப்புகளுக்கிடையே வெப்பப் பரிமாற்றத்தில்",
+        "options": [
+          "சூடானது இழந்த வெப்பம் குளிர்ந்தது பெற்றதை விட அதிகம்",
+          "குளிர்ந்தது பெற்ற வெப்பம் சூடானது இழந்ததை விட அதிகம்",
+          "குளிர்ந்தது பெற்ற வெப்பம் = சூடானது இழந்த வெப்பம்",
+          "அவற்றுக்கிடையே வெப்பப் பரிமாற்றம் நிகழாது"
+        ],
+        "explanation": "பெற்ற வெப்பம் = இழந்த வெப்பம்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 34,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 34,
       "quote": "Calorie: One calorie is defined as the amount of heat energy required to rise the temperature of 1 gram of water through 1°C.",
       "answer": "D",
-      "en": {"q": "One calorie is the heat energy required to raise the temperature of", "options": ["1 kg of water through 1°C", "1 g of water through 100°C", "1 litre of water through 1 K", "1 g of water through 1°C"], "explanation": "One kilocalorie raises 1 kg of water through 1°C."},
-      "ta": {"q": "ஒரு கலோரி என்பது எதன் வெப்பநிலையை உயர்த்தத் தேவையான வெப்ப ஆற்றல்?", "options": ["1 கி.கி. நீரை 1°C", "1 கிராம் நீரை 100°C", "1 லிட்டர் நீரை 1 K", "1 கிராம் நீரை 1°C"], "explanation": "ஒரு கிலோகலோரி 1 கி.கி. நீரை 1°C உயர்த்தும்."}
+      "en": {
+        "q": "One calorie is the heat energy required to raise the temperature of",
+        "options": [
+          "1 kg of water through 1°C",
+          "1 g of water through 100°C",
+          "1 litre of water through 1 K",
+          "1 g of water through 1°C"
+        ],
+        "explanation": "One kilocalorie raises 1 kg of water through 1°C."
+      },
+      "ta": {
+        "q": "ஒரு கலோரி என்பது எதன் வெப்பநிலையை உயர்த்தத் தேவையான வெப்ப ஆற்றல்?",
+        "options": [
+          "1 கி.கி. நீரை 1°C",
+          "1 கிராம் நீரை 100°C",
+          "1 லிட்டர் நீரை 1 K",
+          "1 கிராம் நீரை 1°C"
+        ],
+        "explanation": "ஒரு கிலோகலோரி 1 கி.கி. நீரை 1°C உயர்த்தும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 34,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 34,
       "quote": "When a certain amount of heat energy is given to a substance, it will undergo one or more of the following changes: Temperature of the substance rises. The substance may change its state from solid to liquid or from liquid to gas. The substance will expand when heated.",
       "answer": "A",
-      "en": {"q": "Which of the following is NOT an effect of supplying heat to a substance, as per the text?", "options": ["Its mass increases", "Its temperature rises", "It may change state", "It expands"], "explanation": "Mass does not change on heating."},
-      "ta": {"q": "பாடநூலின்படி ஒரு பொருளுக்கு வெப்பம் அளிப்பதன் விளைவு அல்லாதது எது?", "options": ["நிறை அதிகரிக்கும்", "வெப்பநிலை உயரும்", "நிலை மாறலாம்", "விரிவடையும்"], "explanation": "வெப்பப்படுத்துவதால் நிறை மாறாது."}
+      "en": {
+        "q": "Which of the following is NOT an effect of supplying heat to a substance, as per the text?",
+        "options": [
+          "Its mass increases",
+          "Its temperature rises",
+          "It may change state",
+          "It expands"
+        ],
+        "explanation": "Mass does not change on heating."
+      },
+      "ta": {
+        "q": "பாடநூலின்படி ஒரு பொருளுக்கு வெப்பம் அளிப்பதன் விளைவு அல்லாதது எது?",
+        "options": [
+          "நிறை அதிகரிக்கும்",
+          "வெப்பநிலை உயரும்",
+          "நிலை மாறலாம்",
+          "விரிவடையும்"
+        ],
+        "explanation": "வெப்பப்படுத்துவதால் நிறை மாறாது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 34,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 34,
       "quote": "For a given change in temperature, the extent of expansion is smaller in solids than in liquids and gases. This is due to the rigid nature of solids.",
       "answer": "B",
-      "en": {"q": "For a given change in temperature, expansion is smallest in solids because of", "options": ["their low mass", "their rigid nature", "their high temperature", "their colour"], "explanation": "Gases expand the most."},
-      "ta": {"q": "ஒரே வெப்பநிலை மாற்றத்திற்குத் திண்மங்களில் விரிவு மிகக் குறைவாக இருப்பது எதனால்?", "options": ["குறைந்த நிறை", "அவற்றின் உறுதியான தன்மை", "அதிக வெப்பநிலை", "அவற்றின் நிறம்"], "explanation": "வாயுக்கள் அதிகம் விரிவடையும்."}
+      "en": {
+        "q": "For a given change in temperature, expansion is smallest in solids because of",
+        "options": [
+          "their low mass",
+          "their rigid nature",
+          "their high temperature",
+          "their colour"
+        ],
+        "explanation": "Gases expand the most."
+      },
+      "ta": {
+        "q": "ஒரே வெப்பநிலை மாற்றத்திற்குத் திண்மங்களில் விரிவு மிகக் குறைவாக இருப்பது எதனால்?",
+        "options": [
+          "அவற்றின் குறைந்த நிறை",
+          "அவற்றின் உறுதியான தன்மை",
+          "அவற்றின் அதிக வெப்பநிலை",
+          "அவற்றின் வெளிப்புற நிறம்"
+        ],
+        "explanation": "வாயுக்கள் அதிகம் விரிவடையும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 34,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 34,
       "quote": "The different types of expansion of solid are listed and explained below: 1. Linear expansion 2. Superficial expansion 3. Cubical expansion",
       "answer": "C",
-      "en": {"q": "Which of the following is NOT a type of expansion of solids?", "options": ["Linear expansion", "Superficial expansion", "Apparent expansion", "Cubical expansion"], "explanation": "Apparent expansion is defined for liquids heated in a container."},
-      "ta": {"q": "திண்மங்களின் விரிவு வகை அல்லாதது எது?", "options": ["நீள் விரிவு", "பரப்பு விரிவு", "தோற்ற விரிவு", "பரும விரிவு"], "explanation": "தோற்ற விரிவு கலனில் வெப்பப்படுத்தப்படும் திரவங்களுக்கு வரையறுக்கப்படுகிறது."}
+      "en": {
+        "q": "Which of the following is NOT a type of expansion of solids?",
+        "options": [
+          "Linear expansion",
+          "Superficial expansion",
+          "Apparent expansion",
+          "Cubical expansion"
+        ],
+        "explanation": "Apparent expansion is defined for liquids heated in a container."
+      },
+      "ta": {
+        "q": "திண்மங்களின் விரிவு வகை அல்லாதது எது?",
+        "options": [
+          "நீள் விரிவு",
+          "பரப்பு விரிவு",
+          "தோற்ற விரிவு",
+          "பரும விரிவு"
+        ],
+        "explanation": "தோற்ற விரிவு கலனில் வெப்பப்படுத்தப்படும் திரவங்களுக்கு வரையறுக்கப்படுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 34,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 34,
       "quote": "When a body is heated or cooled, the length of the body changes due to change in its temperature. Then the expansion is said to be linear or longitudinal expansion.",
       "answer": "D",
-      "en": {"q": "A change in the length of a body due to change in temperature is called", "options": ["superficial expansion", "cubical expansion", "apparent expansion", "linear expansion"], "explanation": "It is also called longitudinal expansion."},
-      "ta": {"q": "வெப்பநிலை மாற்றத்தால் ஒரு பொருளின் நீளத்தில் ஏற்படும் மாற்றம் எவ்வாறு அழைக்கப்படும்?", "options": ["பரப்பு விரிவு", "பரும விரிவு", "தோற்ற விரிவு", "நீள் விரிவு"], "explanation": "இது நீளவாக்கு விரிவு எனவும் அழைக்கப்படும்."}
+      "en": {
+        "q": "A change in the length of a body due to change in temperature is called",
+        "options": [
+          "superficial expansion",
+          "cubical expansion",
+          "apparent expansion",
+          "linear expansion"
+        ],
+        "explanation": "It is also called longitudinal expansion."
+      },
+      "ta": {
+        "q": "வெப்பநிலை மாற்றத்தால் ஒரு பொருளின் நீளத்தில் ஏற்படும் மாற்றம் எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "பரப்பு விரிவு",
+          "பரும விரிவு",
+          "தோற்ற விரிவு",
+          "நீள் விரிவு"
+        ],
+        "explanation": "இது நீளவாக்கு விரிவு எனவும் அழைக்கப்படும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 34,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 34,
       "quote": "The SI unit of Coefficient of Linear expansion is K-1. The value of coefficient of linear expansion is different for different materials.",
       "answer": "A",
-      "en": {"q": "The SI unit of the coefficient of linear expansion is", "options": ["K⁻¹", "K", "m K⁻¹", "J K⁻¹"], "explanation": "The coefficients of superficial and cubical expansion are also in K⁻¹."},
-      "ta": {"q": "நீள் விரிவுக் குணகத்தின் SI அலகு எது?", "options": ["K⁻¹", "K", "m K⁻¹", "J K⁻¹"], "explanation": "பரப்பு, பரும விரிவுக் குணகங்களும் K⁻¹ இல்."}
+      "en": {
+        "q": "The SI unit of the coefficient of linear expansion is",
+        "options": [
+          "K⁻¹",
+          "K",
+          "m K⁻¹",
+          "J K⁻¹"
+        ],
+        "explanation": "The coefficients of superficial and cubical expansion are also in K⁻¹."
+      },
+      "ta": {
+        "q": "நீள் விரிவுக் குணகத்தின் SI அலகு எது?",
+        "options": [
+          "K⁻¹",
+          "K",
+          "m K⁻¹",
+          "J K⁻¹"
+        ],
+        "explanation": "பரப்பு, பரும விரிவுக் குணகங்களும் K⁻¹ இல்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 35,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 35,
       "quote": "If there is an increase in the area of a solid object due to heating, then the expansion is called superficial or areal expansion.",
       "answer": "B",
-      "en": {"q": "An increase in the area of a solid object due to heating is called", "options": ["linear expansion", "superficial expansion", "cubical expansion", "real expansion"], "explanation": "It is also called areal expansion."},
-      "ta": {"q": "வெப்பப்படுத்துவதால் திண்மப் பொருளின் பரப்பு அதிகரிப்பது எவ்வாறு அழைக்கப்படும்?", "options": ["நீள் விரிவு", "பரப்பு விரிவு", "பரும விரிவு", "உண்மை விரிவு"], "explanation": "இது பரப்பளவு விரிவு எனவும் அழைக்கப்படும்."}
+      "en": {
+        "q": "An increase in the area of a solid object due to heating is called",
+        "options": [
+          "linear expansion",
+          "superficial expansion",
+          "cubical expansion",
+          "real expansion"
+        ],
+        "explanation": "It is also called areal expansion."
+      },
+      "ta": {
+        "q": "வெப்பப்படுத்துவதால் திண்மப் பொருளின் பரப்பு அதிகரிப்பது எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "நீள் விரிவு",
+          "பரப்பு விரிவு",
+          "பரும விரிவு",
+          "உண்மை விரிவு"
+        ],
+        "explanation": "இது பரப்பளவு விரிவு எனவும் அழைக்கப்படும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 35,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 35,
       "quote": "If there is an increase in the volume of a solid body due to heating, then the expansion is called cubical or volumetric expansion.",
       "answer": "C",
-      "en": {"q": "An increase in the volume of a solid body due to heating is called", "options": ["linear expansion", "areal expansion", "cubical expansion", "apparent expansion"], "explanation": "It is also called volumetric expansion."},
-      "ta": {"q": "வெப்பப்படுத்துவதால் திண்மப் பொருளின் கனஅளவு அதிகரிப்பது எவ்வாறு அழைக்கப்படும்?", "options": ["நீள் விரிவு", "பரப்பு விரிவு", "பரும விரிவு", "தோற்ற விரிவு"], "explanation": "இது கனஅளவு விரிவு எனவும் அழைக்கப்படும்."}
+      "en": {
+        "q": "An increase in the volume of a solid body due to heating is called",
+        "options": [
+          "linear expansion",
+          "areal expansion",
+          "cubical expansion",
+          "apparent expansion"
+        ],
+        "explanation": "It is also called volumetric expansion."
+      },
+      "ta": {
+        "q": "வெப்பப்படுத்துவதால் திண்மப் பொருளின் கனஅளவு அதிகரிப்பது எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "நீள் விரிவு",
+          "பரப்பு விரிவு",
+          "பரும விரிவு",
+          "தோற்ற விரிவு"
+        ],
+        "explanation": "இது கனஅளவு விரிவு எனவும் அழைக்கப்படும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 35,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 35,
       "quote": "Table 3.1 Coefficient of cubical expansion of some materials ... Aluminium 7 × 10–5 ... Brass 6 × 10–5 ... Glass 2.5 × 10–5 ... Water 20.7 × 10–5 ... Mercury 18.2 × 10–5",
       "answer": "D",
-      "en": {"q": "According to Table 3.1 of the text, which material has the highest coefficient of cubical expansion?", "options": ["Aluminium", "Glass", "Mercury", "Water"], "explanation": "Water 20.7 × 10⁻⁵, mercury 18.2 × 10⁻⁵, aluminium 7 × 10⁻⁵, glass 2.5 × 10⁻⁵ K⁻¹."},
-      "ta": {"q": "பாடநூல் அட்டவணை 3.1இன்படி அதிக பரும விரிவுக் குணகம் கொண்ட பொருள் எது?", "options": ["அலுமினியம்", "கண்ணாடி", "பாதரசம்", "நீர்"], "explanation": "நீர் 20.7 × 10⁻⁵, பாதரசம் 18.2 × 10⁻⁵, அலுமினியம் 7 × 10⁻⁵, கண்ணாடி 2.5 × 10⁻⁵ K⁻¹."}
+      "en": {
+        "q": "According to Table 3.1 of the text, which material has the highest coefficient of cubical expansion?",
+        "options": [
+          "Aluminium",
+          "Glass",
+          "Mercury",
+          "Water"
+        ],
+        "explanation": "Water 20.7 × 10⁻⁵, mercury 18.2 × 10⁻⁵, aluminium 7 × 10⁻⁵, glass 2.5 × 10⁻⁵ K⁻¹."
+      },
+      "ta": {
+        "q": "பாடநூல் அட்டவணை 3.1இன்படி அதிக பரும விரிவுக் குணகம் கொண்ட பொருள் எது?",
+        "options": [
+          "அலுமினியம்",
+          "கண்ணாடி",
+          "பாதரசம்",
+          "நீர்"
+        ],
+        "explanation": "நீர் 20.7 × 10⁻⁵, பாதரசம் 18.2 × 10⁻⁵, அலுமினியம் 7 × 10⁻⁵, கண்ணாடி 2.5 × 10⁻⁵ K⁻¹."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 35,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 35,
       "quote": "For a given rise in temperature, a liquid will have more expansion than a solid and a gaseous substance has the highest expansion when compared with the other two.",
       "answer": "A",
-      "en": {"q": "For a given rise in temperature, which state of matter expands the most?", "options": ["Gas", "Liquid", "Solid", "All expand equally"], "explanation": "Liquids expand more than solids, and gases the most."},
-      "ta": {"q": "ஒரே வெப்பநிலை உயர்வுக்கு எந்த நிலைப் பொருள் அதிகம் விரிவடையும்?", "options": ["வாயு", "திரவம்", "திண்மம்", "அனைத்தும் சமமாக"], "explanation": "திரவம் திண்மத்தை விட அதிகமாகவும் வாயு மிக அதிகமாகவும் விரிவடையும்."}
+      "en": {
+        "q": "For a given rise in temperature, which state of matter expands the most?",
+        "options": [
+          "Gas",
+          "Liquid",
+          "Solid",
+          "All expand equally"
+        ],
+        "explanation": "Liquids expand more than solids, and gases the most."
+      },
+      "ta": {
+        "q": "ஒரே வெப்பநிலை உயர்வுக்கு எந்த நிலைப் பொருள் அதிகம் விரிவடையும்?",
+        "options": [
+          "வாயு",
+          "திரவம்",
+          "திண்மம்",
+          "அனைத்தும் சமமாக"
+        ],
+        "explanation": "திரவம் திண்மத்தை விட அதிகமாகவும் வாயு மிக அதிகமாகவும் விரிவடையும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 35,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 35,
       "quote": "The coefficient of cubical expansion of liquid is independent of temperature whereas its value for gases depends on the temperature of gases.",
       "answer": "B",
-      "en": {"q": "Which statement about the coefficient of cubical expansion is correct according to the text?", "options": ["For liquids it depends on temperature", "For liquids it is independent of temperature, while for gases it depends on temperature", "For gases it is independent of temperature", "It is the same for all substances"], "explanation": "The extent of expansion varies from substance to substance."},
-      "ta": {"q": "பாடநூலின்படி பரும விரிவுக் குணகம் குறித்த சரியான கூற்று எது?", "options": ["திரவங்களுக்கு வெப்பநிலையைச் சார்ந்தது", "திரவங்களுக்கு வெப்பநிலையைச் சாராதது; வாயுக்களுக்கு வெப்பநிலையைச் சார்ந்தது", "வாயுக்களுக்கு வெப்பநிலையைச் சாராதது", "அனைத்துப் பொருள்களுக்கும் சமம்"], "explanation": "விரிவின் அளவு பொருளுக்குப் பொருள் மாறுபடும்."}
+      "en": {
+        "q": "Which statement about the coefficient of cubical expansion is correct according to the text?",
+        "options": [
+          "For both liquids and gases it depends on temperature",
+          "For liquids it is independent of temperature; for gases it depends",
+          "For both liquids and gases it is independent of temperature",
+          "It is the same for all solids, liquids and gases"
+        ],
+        "explanation": "The extent of expansion varies from substance to substance."
+      },
+      "ta": {
+        "q": "பாடநூலின்படி பரும விரிவுக் குணகம் குறித்த சரியான கூற்று எது?",
+        "options": [
+          "திரவம், வாயு இரண்டுக்கும் வெப்பநிலையைச் சார்ந்தது",
+          "திரவங்களுக்குச் சாராதது; வாயுக்களுக்குச் சார்ந்தது",
+          "திரவம், வாயு இரண்டுக்கும் வெப்பநிலையைச் சாராதது",
+          "திடம், திரவம், வாயு அனைத்துக்கும் சமம்"
+        ],
+        "explanation": "விரிவின் அளவு பொருளுக்குப் பொருள் மாறுபடும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 36,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 36,
       "quote": "If a liquid is heated directly without using any container, then the expansion that you observe is termed as real expansion of the liquid.",
       "answer": "C",
-      "en": {"q": "The expansion observed when a liquid is heated directly without a container is called", "options": ["apparent expansion", "linear expansion", "real expansion", "superficial expansion"], "explanation": "In practice a container is always used, so we observe apparent expansion."},
-      "ta": {"q": "கலன் இல்லாமல் நேரடியாகத் திரவத்தை வெப்பப்படுத்தும்போது காணப்படும் விரிவு எது?", "options": ["தோற்ற விரிவு", "நீள் விரிவு", "உண்மை விரிவு", "பரப்பு விரிவு"], "explanation": "நடைமுறையில் கலன் பயன்படுவதால் தோற்ற விரிவையே காண்கிறோம்."}
+      "en": {
+        "q": "The expansion observed when a liquid is heated directly without a container is called",
+        "options": [
+          "apparent expansion",
+          "linear expansion",
+          "real expansion",
+          "superficial expansion"
+        ],
+        "explanation": "In practice a container is always used, so we observe apparent expansion."
+      },
+      "ta": {
+        "q": "கலன் இல்லாமல் நேரடியாகத் திரவத்தை வெப்பப்படுத்தும்போது காணப்படும் விரிவு எது?",
+        "options": [
+          "தோற்ற விரிவு",
+          "நீள் விரிவு",
+          "உண்மை விரிவு",
+          "பரப்பு விரிவு"
+        ],
+        "explanation": "நடைமுறையில் கலன் பயன்படுவதால் தோற்ற விரிவையே காண்கிறோம்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 36,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 36,
       "quote": "The real expansion is always more than that of apparent expansion.",
       "answer": "D",
-      "en": {"q": "For a given amount of heat, how does the real expansion of a liquid compare with its apparent expansion?", "options": ["Real expansion is less", "Both are equal", "Real expansion is zero", "Real expansion is always more"], "explanation": "Part of the heat is used in expanding the container."},
-      "ta": {"q": "குறிப்பிட்ட வெப்பத்திற்குத் திரவத்தின் உண்மை விரிவு தோற்ற விரிவுடன் ஒப்பிடுகையில்", "options": ["உண்மை விரிவு குறைவு", "இரண்டும் சமம்", "உண்மை விரிவு பூஜ்யம்", "உண்மை விரிவு எப்போதும் அதிகம்"], "explanation": "வெப்பத்தின் ஒரு பகுதி கலனை விரிவடையச் செய்யப் பயன்படுகிறது."}
+      "en": {
+        "q": "For a given amount of heat, how does the real expansion of a liquid compare with its apparent expansion?",
+        "options": [
+          "Real expansion is less",
+          "Both expansions are equal",
+          "Real expansion is zero",
+          "Real expansion is more"
+        ],
+        "explanation": "Part of the heat is used in expanding the container."
+      },
+      "ta": {
+        "q": "குறிப்பிட்ட வெப்பத்திற்குத் திரவத்தின் உண்மை விரிவு தோற்ற விரிவுடன் ஒப்பிடுகையில்",
+        "options": [
+          "உண்மை விரிவு குறைவாக இருக்கும்",
+          "இரண்டு விரிவுகளும் சமமாக இருக்கும்",
+          "உண்மை விரிவு பூஜ்யமாக இருக்கும்",
+          "உண்மை விரிவு அதிகமாக இருக்கும்"
+        ],
+        "explanation": "வெப்பத்தின் ஒரு பகுதி கலனை விரிவடையச் செய்யப் பயன்படுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 39,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 39,
       "quote": "Level of the liquid L1 = 50 ml ... L2 = 48.5 ml ... L3 = 51.2 ml ... Apparent expansion = L3 − L1 = 1.2ml ... Real expansion = L3 − L2 = 2.7ml",
       "answer": "A",
-      "en": {"q": "A liquid level starts at 50 ml, falls to 48.5 ml on initial heating, then rises to 51.2 ml. The real expansion is", "options": ["2.7 ml", "1.2 ml", "1.5 ml", "3.9 ml"], "explanation": "Real = L3 − L2 = 51.2 − 48.5 = 2.7 ml; apparent = L3 − L1 = 1.2 ml."},
-      "ta": {"q": "ஒரு திரவத்தின் மட்டம் 50 மி.லி.யில் தொடங்கி, முதலில் 48.5 மி.லி.க்குக் குறைந்து, பின் 51.2 மி.லி.க்கு உயர்கிறது. உண்மை விரிவு என்ன?", "options": ["2.7 மி.லி.", "1.2 மி.லி.", "1.5 மி.லி.", "3.9 மி.லி."], "explanation": "உண்மை = L3 − L2 = 2.7 மி.லி.; தோற்றம் = L3 − L1 = 1.2 மி.லி."}
+      "en": {
+        "q": "A liquid level starts at 50 ml, falls to 48.5 ml on initial heating, then rises to 51.2 ml. The real expansion is",
+        "options": [
+          "2.7 ml",
+          "1.2 ml",
+          "1.5 ml",
+          "3.9 ml"
+        ],
+        "explanation": "Real = L3 − L2 = 51.2 − 48.5 = 2.7 ml; apparent = L3 − L1 = 1.2 ml."
+      },
+      "ta": {
+        "q": "ஒரு திரவத்தின் மட்டம் 50 மி.லி.யில் தொடங்கி, முதலில் 48.5 மி.லி.க்குக் குறைந்து, பின் 51.2 மி.லி.க்கு உயர்கிறது. உண்மை விரிவு என்ன?",
+        "options": [
+          "2.7 மி.லி.",
+          "1.2 மி.லி.",
+          "1.5 மி.லி.",
+          "3.9 மி.லி."
+        ],
+        "explanation": "உண்மை = L3 − L2 = 2.7 மி.லி.; தோற்றம் = L3 − L1 = 1.2 மி.லி."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 36,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 36,
       "quote": "When the temperature of a gas is kept constant, the volume of a fixed mass of gas is inversely proportional to its pressure.",
       "answer": "B",
-      "en": {"q": "Boyle's law states that at constant temperature, the volume of a fixed mass of gas is", "options": ["directly proportional to its pressure", "inversely proportional to its pressure", "directly proportional to its temperature", "independent of pressure"], "explanation": "PV = constant."},
-      "ta": {"q": "மாறா வெப்பநிலையில் குறிப்பிட்ட நிறையுள்ள வாயுவின் கனஅளவு குறித்து பாயில் விதி கூறுவது", "options": ["அழுத்தத்திற்கு நேர்விகிதம்", "அழுத்தத்திற்கு எதிர்விகிதம்", "வெப்பநிலைக்கு நேர்விகிதம்", "அழுத்தத்தைச் சாராதது"], "explanation": "PV = மாறிலி."}
+      "en": {
+        "q": "Boyle's law states that at constant temperature, the volume of a fixed mass of gas is",
+        "options": [
+          "directly proportional to its pressure",
+          "inversely proportional to its pressure",
+          "directly proportional to its temperature",
+          "independent of pressure"
+        ],
+        "explanation": "PV = constant."
+      },
+      "ta": {
+        "q": "மாறா வெப்பநிலையில் குறிப்பிட்ட நிறையுள்ள வாயுவின் கனஅளவு குறித்து பாயில் விதி கூறுவது",
+        "options": [
+          "அழுத்தத்திற்கு நேர்விகிதம்",
+          "அழுத்தத்திற்கு எதிர்விகிதம்",
+          "வெப்பநிலைக்கு நேர்விகிதம்",
+          "அழுத்தத்தைச் சாராதது"
+        ],
+        "explanation": "PV = மாறிலி."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 37,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 37,
       "quote": "Charles's law was formulated by a French scientist Jacques Charles. According to this law, When the pressure of gas is kept constant, the volume of a gas is directly proportional to the temperature of the gas.",
       "answer": "C",
-      "en": {"q": "Charles's law, formulated by the French scientist Jacques Charles, states that at constant pressure, the volume of a gas is", "options": ["inversely proportional to temperature", "directly proportional to pressure", "directly proportional to temperature", "directly proportional to the number of molecules"], "explanation": "V/T = constant; it is also called the law of volume."},
-      "ta": {"q": "பிரெஞ்சு அறிவியலாளர் ஜாக் சார்லஸ் வகுத்த சார்லஸ் விதிப்படி மாறா அழுத்தத்தில் வாயுவின் கனஅளவு", "options": ["வெப்பநிலைக்கு எதிர்விகிதம்", "அழுத்தத்திற்கு நேர்விகிதம்", "வெப்பநிலைக்கு நேர்விகிதம்", "மூலக்கூறுகளின் எண்ணிக்கைக்கு நேர்விகிதம்"], "explanation": "V/T = மாறிலி; இது கனஅளவு விதி எனவும் அழைக்கப்படும்."}
+      "en": {
+        "q": "Charles's law, formulated by the French scientist Jacques Charles, states that at constant pressure, the volume of a gas is",
+        "options": [
+          "inversely proportional to temperature",
+          "directly proportional to pressure",
+          "directly proportional to temperature",
+          "directly proportional to the number of molecules"
+        ],
+        "explanation": "V/T = constant; it is also called the law of volume."
+      },
+      "ta": {
+        "q": "பிரெஞ்சு அறிவியலாளர் ஜாக் சார்லஸ் வகுத்த சார்லஸ் விதிப்படி மாறா அழுத்தத்தில் வாயுவின் கனஅளவு",
+        "options": [
+          "வெப்பநிலைக்கு எதிர்விகிதம்",
+          "அழுத்தத்திற்கு நேர்விகிதம்",
+          "வெப்பநிலைக்கு நேர்விகிதம்",
+          "மூலக்கூறுகளின் எண்ணிக்கைக்கு நேர்விகிதம்"
+        ],
+        "explanation": "V/T = மாறிலி; இது கனஅளவு விதி எனவும் அழைக்கப்படும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 37,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 37,
       "quote": "Avogadro's law states that at constant pressure and temperature, the volume of a gas is directly proportional to number of atoms or molecules present in it.",
       "answer": "D",
-      "en": {"q": "The law stating that at constant pressure and temperature, the volume of a gas is directly proportional to the number of atoms or molecules in it is", "options": ["Boyle's law", "Charles's law", "Dalton's law", "Avogadro's law"], "explanation": "V/n = constant."},
-      "ta": {"q": "மாறா அழுத்தம், வெப்பநிலையில் வாயுவின் கனஅளவு அதிலுள்ள அணுக்கள் அல்லது மூலக்கூறுகளின் எண்ணிக்கைக்கு நேர்விகிதம் என்னும் விதி எது?", "options": ["பாயில் விதி", "சார்லஸ் விதி", "டால்டன் விதி", "அவகாட்ரோ விதி"], "explanation": "V/n = மாறிலி."}
+      "en": {
+        "q": "The law stating that at constant pressure and temperature, the volume of a gas is directly proportional to the number of atoms or molecules in it is",
+        "options": [
+          "Boyle's law",
+          "Charles's law",
+          "Dalton's law",
+          "Avogadro's law"
+        ],
+        "explanation": "V/n = constant."
+      },
+      "ta": {
+        "q": "மாறா அழுத்தம், வெப்பநிலையில் வாயுவின் கனஅளவு அதிலுள்ள அணுக்கள் அல்லது மூலக்கூறுகளின் எண்ணிக்கைக்கு நேர்விகிதம் என்னும் விதி எது?",
+        "options": [
+          "பாயில் விதி",
+          "சார்லஸ் விதி",
+          "டால்டன் விதி",
+          "அவகாட்ரோ விதி"
+        ],
+        "explanation": "V/n = மாறிலி."
+      }
     },
     {
-      "topic": "chemistry-elements-and-compounds", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 37,
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 37,
       "quote": "Avogadro's number (NA) is the total number of atoms per mole of the substance. It is equal to 6.023 × 10^23 /mol.",
       "answer": "A",
-      "en": {"q": "The value of Avogadro's number is", "options": ["6.023 × 10²³ per mol", "1.38 × 10⁻²³ per mol", "8.31 × 10²³ per mol", "6.674 × 10⁻¹¹ per mol"], "explanation": "It is the total number of atoms per mole of a substance."},
-      "ta": {"q": "அவகாட்ரோ எண்ணின் மதிப்பு என்ன?", "options": ["6.023 × 10²³ / மோல்", "1.38 × 10⁻²³ / மோல்", "8.31 × 10²³ / மோல்", "6.674 × 10⁻¹¹ / மோல்"], "explanation": "ஒரு மோல் பொருளில் உள்ள மொத்த அணுக்களின் எண்ணிக்கை."}
+      "en": {
+        "q": "The value of Avogadro's number is",
+        "options": [
+          "6.023 × 10²³ per mol",
+          "1.38 × 10⁻²³ per mol",
+          "8.31 × 10²³ per mol",
+          "6.674 × 10⁻¹¹ per mol"
+        ],
+        "explanation": "It is the total number of atoms per mole of a substance."
+      },
+      "ta": {
+        "q": "அவகாட்ரோ எண்ணின் மதிப்பு என்ன?",
+        "options": [
+          "6.023 × 10²³ / மோல்",
+          "1.38 × 10⁻²³ / மோல்",
+          "8.31 × 10²³ / மோல்",
+          "6.674 × 10⁻¹¹ / மோல்"
+        ],
+        "explanation": "ஒரு மோல் பொருளில் உள்ள மொத்த அணுக்களின் எண்ணிக்கை."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 37,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 37,
       "quote": "If the molecules or atoms of a gases interact with each other with a definite amount of intermolecular or inter atomic force of attraction, then the gases are said to be real gases.",
       "answer": "B",
-      "en": {"q": "Gases whose molecules interact with each other with a definite intermolecular force of attraction are called", "options": ["ideal gases", "real gases", "inert gases", "perfect gases"], "explanation": "Ideal gases have no such interaction."},
-      "ta": {"q": "மூலக்கூறுகள் குறிப்பிட்ட மூலக்கூறிடைக் கவர்ச்சி விசையுடன் ஒன்றோடொன்று இடைவினை புரியும் வாயுக்கள் எவ்வாறு அழைக்கப்படும்?", "options": ["நல்லியல்பு வாயுக்கள்", "இயல்பு (உண்மை) வாயுக்கள்", "மந்த வாயுக்கள்", "முழுமை வாயுக்கள்"], "explanation": "நல்லியல்பு வாயுக்களில் இத்தகைய இடைவினை இல்லை."}
+      "en": {
+        "q": "Gases whose molecules interact with each other with a definite intermolecular force of attraction are called",
+        "options": [
+          "ideal gases",
+          "real gases",
+          "inert gases",
+          "perfect gases"
+        ],
+        "explanation": "Ideal gases have no such interaction."
+      },
+      "ta": {
+        "q": "மூலக்கூறுகள் குறிப்பிட்ட மூலக்கூறிடைக் கவர்ச்சி விசையுடன் ஒன்றோடொன்று இடைவினை புரியும் வாயுக்கள் எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "நல்லியல்பு வாயுக்கள்",
+          "உண்மை வாயுக்கள்",
+          "மந்த வாயுக்கள்",
+          "முழுமை வாயுக்கள்"
+        ],
+        "explanation": "நல்லியல்பு வாயுக்களில் இத்தகைய இடைவினை இல்லை."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 37,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 37,
       "quote": "At very high temperature or low pressure, a real gases behaves as an ideal gases because in this condition there is no interatomic or intermolecular force of attraction.",
       "answer": "C",
-      "en": {"q": "A real gas behaves like an ideal gas at", "options": ["low temperature and high pressure", "low temperature and low pressure", "high temperature or low pressure", "high pressure only"], "explanation": "Intermolecular attraction becomes negligible under these conditions."},
-      "ta": {"q": "இயல்பு வாயு எப்போது நல்லியல்பு வாயு போல் நடந்துகொள்ளும்?", "options": ["குறைந்த வெப்பநிலை, அதிக அழுத்தம்", "குறைந்த வெப்பநிலை, குறைந்த அழுத்தம்", "அதிக வெப்பநிலை அல்லது குறைந்த அழுத்தம்", "அதிக அழுத்தம் மட்டும்"], "explanation": "இந்நிலைகளில் மூலக்கூறிடைக் கவர்ச்சி புறக்கணிக்கத்தக்கதாகிறது."}
+      "en": {
+        "q": "A real gas behaves like an ideal gas at",
+        "options": [
+          "low temperature and high pressure",
+          "low temperature and low pressure",
+          "high temperature or low pressure",
+          "high pressure only"
+        ],
+        "explanation": "Intermolecular attraction becomes negligible under these conditions."
+      },
+      "ta": {
+        "q": "இயல்பு வாயு எப்போது நல்லியல்பு வாயு போல் நடந்துகொள்ளும்?",
+        "options": [
+          "குறைந்த வெப்பநிலை, அதிக அழுத்தம்",
+          "குறைந்த வெப்பநிலை, குறைந்த அழுத்தம்",
+          "அதிக வெப்பநிலை அல்லது குறைந்த அழுத்தம்",
+          "அதிக அழுத்தம் மட்டும்"
+        ],
+        "explanation": "இந்நிலைகளில் மூலக்கூறிடைக் கவர்ச்சி புறக்கணிக்கத்தக்கதாகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 37,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 37,
       "quote": "If the atoms or molecules of a gas do not interact with each other, then the gas is said to be an ideal gas or a perfect gas. Actually, in practice, no gas is ideal.",
       "answer": "D",
-      "en": {"q": "Which statement about ideal gases is correct according to the text?", "options": ["Their molecules attract each other strongly", "They do not obey Boyle's law", "Most gases in nature are ideal", "In practice, no gas is ideal"], "explanation": "An ideal gas is one whose molecules do not interact; it obeys Boyle's, Charles's and Avogadro's laws."},
-      "ta": {"q": "பாடநூலின்படி நல்லியல்பு வாயுக்கள் குறித்த சரியான கூற்று எது?", "options": ["மூலக்கூறுகள் ஒன்றையொன்று வலுவாகக் கவரும்", "பாயில் விதிக்குக் கட்டுப்படாது", "இயற்கையில் பெரும்பாலான வாயுக்கள் நல்லியல்பானவை", "நடைமுறையில் எந்த வாயுவும் நல்லியல்பானதல்ல"], "explanation": "மூலக்கூறுகள் இடைவினை புரியாத வாயு நல்லியல்பு வாயு; பாயில், சார்லஸ், அவகாட்ரோ விதிகளுக்குக் கட்டுப்படும்."}
+      "en": {
+        "q": "Which statement about ideal gases is correct according to the text?",
+        "options": [
+          "Their molecules attract each other strongly",
+          "They do not obey Boyle's law",
+          "Most gases in nature are ideal",
+          "In practice, no gas is ideal"
+        ],
+        "explanation": "An ideal gas is one whose molecules do not interact; it obeys Boyle's, Charles's and Avogadro's laws."
+      },
+      "ta": {
+        "q": "பாடநூலின்படி நல்லியல்பு வாயுக்கள் குறித்த சரியான கூற்று எது?",
+        "options": [
+          "மூலக்கூறுகள் ஒன்றையொன்று வலுவாகக் கவரும்",
+          "பாயில் விதிக்குக் கட்டுப்படாது",
+          "இயற்கையில் பெரும்பாலான வாயுக்கள் நல்லியல்பானவை",
+          "நடைமுறையில் எந்த வாயுவும் நல்லியல்பானதல்ல"
+        ],
+        "explanation": "மூலக்கூறுகள் இடைவினை புரியாத வாயு நல்லியல்பு வாயு; பாயில், சார்லஸ், அவகாட்ரோ விதிகளுக்குக் கட்டுப்படும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 38,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 38,
       "quote": "The value of the constant in the above equation is taken to be kB, which is called as Boltzmann constant (1.38 × 10–23 JK–1).",
       "answer": "A",
-      "en": {"q": "The value of the Boltzmann constant (k_B) is", "options": ["1.38 × 10⁻²³ J K⁻¹", "8.31 J mol⁻¹ K⁻¹", "6.023 × 10²³ mol⁻¹", "3.81 × 10⁻²³ J K⁻¹"], "explanation": "R = N_A × k_B."},
-      "ta": {"q": "போல்ட்ஸ்மேன் மாறிலியின் (k_B) மதிப்பு என்ன?", "options": ["1.38 × 10⁻²³ J K⁻¹", "8.31 J mol⁻¹ K⁻¹", "6.023 × 10²³ mol⁻¹", "3.81 × 10⁻²³ J K⁻¹"], "explanation": "R = N_A × k_B."}
+      "en": {
+        "q": "The value of the Boltzmann constant (k_B) is",
+        "options": [
+          "1.38 × 10⁻²³ J K⁻¹",
+          "8.31 J mol⁻¹ K⁻¹",
+          "6.023 × 10²³ mol⁻¹",
+          "3.81 × 10⁻²³ J K⁻¹"
+        ],
+        "explanation": "R = N_A × k_B."
+      },
+      "ta": {
+        "q": "போல்ட்ஸ்மேன் மாறிலியின் (k_B) மதிப்பு என்ன?",
+        "options": [
+          "1.38 × 10⁻²³ J K⁻¹",
+          "8.31 J mol⁻¹ K⁻¹",
+          "6.023 × 10²³ mol⁻¹",
+          "3.81 × 10⁻²³ J K⁻¹"
+        ],
+        "explanation": "R = N_A × k_B."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 38,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 38,
       "quote": "Here, µNAkB = R, which is termed as universal gas constant whose value is 8.31 J mol−1 K−1.",
       "answer": "B",
-      "en": {"q": "The value of the universal gas constant R is", "options": ["3.81 J mol⁻¹ K⁻¹", "8.31 J mol⁻¹ K⁻¹", "8.03 J mol⁻¹ K⁻¹", "1.38 J mol⁻¹ K⁻¹"], "explanation": "It appears in the ideal gas equation PV = RT."},
-      "ta": {"q": "பொது வாயு மாறிலி R-இன் மதிப்பு என்ன?", "options": ["3.81 J mol⁻¹ K⁻¹", "8.31 J mol⁻¹ K⁻¹", "8.03 J mol⁻¹ K⁻¹", "1.38 J mol⁻¹ K⁻¹"], "explanation": "இது நல்லியல்பு வாயுச் சமன்பாடு PV = RT இல் இடம்பெறுகிறது."}
+      "en": {
+        "q": "The value of the universal gas constant R is",
+        "options": [
+          "3.81 J mol⁻¹ K⁻¹",
+          "8.31 J mol⁻¹ K⁻¹",
+          "8.03 J mol⁻¹ K⁻¹",
+          "1.38 J mol⁻¹ K⁻¹"
+        ],
+        "explanation": "It appears in the ideal gas equation PV = RT."
+      },
+      "ta": {
+        "q": "பொது வாயு மாறிலி R-இன் மதிப்பு என்ன?",
+        "options": [
+          "3.81 J mol⁻¹ K⁻¹",
+          "8.31 J mol⁻¹ K⁻¹",
+          "8.03 J mol⁻¹ K⁻¹",
+          "1.38 J mol⁻¹ K⁻¹"
+        ],
+        "explanation": "இது நல்லியல்பு வாயுச் சமன்பாடு PV = RT இல் இடம்பெறுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 38,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 38,
       "quote": "Ideal gas equation is also called as equation of state because it gives the relation between the state variables and it is used to describe the state of any gas.",
       "answer": "C",
-      "en": {"q": "The ideal gas equation PV = RT is also called the", "options": ["law of volume", "combined law of motion", "equation of state", "equation of continuity"], "explanation": "It relates the state variables of a gas."},
-      "ta": {"q": "நல்லியல்பு வாயுச் சமன்பாடு PV = RT வேறு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["கனஅளவு விதி", "இயக்கத்தின் இணைந்த விதி", "நிலைச் சமன்பாடு", "தொடர்ச்சிச் சமன்பாடு"], "explanation": "இது வாயுவின் நிலை மாறிகளைத் தொடர்புபடுத்துகிறது."}
+      "en": {
+        "q": "The ideal gas equation PV = RT is also called the",
+        "options": [
+          "law of volume",
+          "combined law of motion",
+          "equation of state",
+          "equation of continuity"
+        ],
+        "explanation": "It relates the state variables of a gas."
+      },
+      "ta": {
+        "q": "நல்லியல்பு வாயுச் சமன்பாடு PV = RT வேறு எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "கனஅளவு விதி",
+          "இயக்கத்தின் இணைந்த விதி",
+          "நிலைச் சமன்பாடு",
+          "தொடர்ச்சிச் சமன்பாடு"
+        ],
+        "explanation": "இது வாயுவின் நிலை மாறிகளைத் தொடர்புபடுத்துகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 39,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 39,
       "quote": "Keeping the temperature as constant, a gas is compressed four times of its initial pressure. The volume of gas in the container changing from 20cc (V1 cc) to V2 cc. ... V2 = 5 cm3",
       "answer": "D",
-      "en": {"q": "At constant temperature, the pressure of a gas of volume 20 cc is increased four times. Its new volume is", "options": ["80 cc", "16 cc", "10 cc", "5 cc"], "explanation": "By Boyle's law, P₁V₁ = P₂V₂, so V₂ = 20/4 = 5 cc."},
-      "ta": {"q": "மாறா வெப்பநிலையில் 20 க.செ.மீ. கனஅளவுள்ள வாயுவின் அழுத்தம் நான்கு மடங்காக்கப்படுகிறது. புதிய கனஅளவு என்ன?", "options": ["80 க.செ.மீ.", "16 க.செ.மீ.", "10 க.செ.மீ.", "5 க.செ.மீ."], "explanation": "பாயில் விதிப்படி P₁V₁ = P₂V₂; V₂ = 20/4 = 5 க.செ.மீ."}
+      "en": {
+        "q": "At constant temperature, the pressure of a gas of volume 20 cc is increased four times. Its new volume is",
+        "options": [
+          "80 cc",
+          "16 cc",
+          "10 cc",
+          "5 cc"
+        ],
+        "explanation": "By Boyle's law, P₁V₁ = P₂V₂, so V₂ = 20/4 = 5 cc."
+      },
+      "ta": {
+        "q": "மாறா வெப்பநிலையில் 20 க.செ.மீ. கனஅளவுள்ள வாயுவின் அழுத்தம் நான்கு மடங்காக்கப்படுகிறது. புதிய கனஅளவு என்ன?",
+        "options": [
+          "80 க.செ.மீ.",
+          "16 க.செ.மீ.",
+          "10 க.செ.மீ.",
+          "5 க.செ.மீ."
+        ],
+        "explanation": "பாயில் விதிப்படி P₁V₁ = P₂V₂; V₂ = 20/4 = 5 க.செ.மீ."
+      }
     }
   ]
 }

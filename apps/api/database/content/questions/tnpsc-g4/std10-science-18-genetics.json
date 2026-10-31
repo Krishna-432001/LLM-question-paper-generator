@@ -4,340 +4,1396 @@
   "breadcrumb": "Std 10 Science (English) — Unit 18: Genetics",
   "questions": [
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 261,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 261,
       "quote": "The branch of biology that deals with the genes, genetic variation and heredity of living organisms is called genetics.",
       "answer": "A",
-      "en": {"q": "The branch of biology that deals with genes, genetic variation and heredity is called", "options": ["genetics", "ecology", "taxonomy", "physiology"], "explanation": "Heredity is transmission of characters from one generation to the next."},
-      "ta": {"q": "மரபணுக்கள், மரபு வேறுபாடுகள், பாரம்பரியம் பற்றிய உயிரியல் பிரிவு எது?", "options": ["மரபியல்", "சூழலியல்", "வகைப்பாட்டியல்", "உடலியல்"], "explanation": "ஒரு தலைமுறையிலிருந்து அடுத்ததற்குப் பண்புகள் கடத்தப்படுவது பாரம்பரியம்."}
+      "en": {
+        "q": "The branch of biology that deals with genes, genetic variation and heredity is called",
+        "options": [
+          "genetics",
+          "ecology",
+          "taxonomy",
+          "physiology"
+        ],
+        "explanation": "Heredity is transmission of characters from one generation to the next."
+      },
+      "ta": {
+        "q": "மரபணுக்கள், மரபு வேறுபாடுகள், பாரம்பரியம் பற்றிய உயிரியல் பிரிவு எது?",
+        "options": [
+          "மரபியல்",
+          "சூழலியல்",
+          "வகைப்பாட்டியல்",
+          "உடலியல்"
+        ],
+        "explanation": "ஒரு தலைமுறையிலிருந்து அடுத்ததற்குப் பண்புகள் கடத்தப்படுவது பாரம்பரியம்."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 261,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 261,
       "quote": "Gregor Johann Mendel - Father of Genetics. Mendel (1822-1884) was an Austrian monk who discovered the basic principles of heredity through his experiments.",
       "answer": "B",
-      "en": {"q": "Who is known as the Father of Genetics?", "options": ["Hugo de Vries", "Gregor Johann Mendel", "T.H. Morgan", "Charles Darwin"], "explanation": "He was an Austrian monk who experimented on garden pea plants."},
-      "ta": {"q": "மரபியலின் தந்தை என அழைக்கப்படுபவர் யார்?", "options": ["ஹியூகோ டி விரீஸ்", "கிரிகர் ஜோஹன் மெண்டல்", "டி.எச். மார்கன்", "சார்லஸ் டார்வின்"], "explanation": "இவர் தோட்டப் பட்டாணிச் செடியில் சோதனைகள் செய்த ஆஸ்திரியத் துறவி."}
+      "en": {
+        "q": "Who is known as the Father of Genetics?",
+        "options": [
+          "Hugo de Vries",
+          "Gregor Mendel",
+          "T.H. Morgan",
+          "Charles Darwin"
+        ],
+        "explanation": "He was an Austrian monk who experimented on garden pea plants."
+      },
+      "ta": {
+        "q": "மரபியலின் தந்தை என அழைக்கப்படுபவர் யார்?",
+        "options": [
+          "ஹியூகோ டி விரீஸ்",
+          "கிரிகர் மெண்டல்",
+          "டி.எச். மார்கன்",
+          "சார்லஸ் டார்வின்"
+        ],
+        "explanation": "இவர் தோட்டப் பட்டாணிச் செடியில் சோதனைகள் செய்த ஆஸ்திரியத் துறவி."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 262,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 262,
       "quote": "He conducted his experiments in the monastery for about seven years from 1856 to 1863. He had worked on nearly 10000 pea plants of 34 different varieties.",
       "answer": "C",
-      "en": {"q": "Mendel conducted his experiments on pea plants in the monastery for about seven years, from", "options": ["1822 to 1829", "1840 to 1847", "1856 to 1863", "1866 to 1873"], "explanation": "He worked on nearly 10,000 pea plants of 34 varieties."},
-      "ta": {"q": "மெண்டல் துறவிமடத்தில் பட்டாணிச் செடிகளில் ஏறக்குறைய ஏழு ஆண்டுகள் எப்போது சோதனைகள் செய்தார்?", "options": ["1822 முதல் 1829", "1840 முதல் 1847", "1856 முதல் 1863", "1866 முதல் 1873"], "explanation": "34 வகைகளின் ஏறக்குறைய 10,000 பட்டாணிச் செடிகளில் ஆய்வு செய்தார்."}
+      "en": {
+        "q": "Mendel conducted his experiments on pea plants in the monastery for about seven years, from",
+        "options": [
+          "1822 to 1829",
+          "1840 to 1847",
+          "1856 to 1863",
+          "1866 to 1873"
+        ],
+        "explanation": "He worked on nearly 10,000 pea plants of 34 varieties."
+      },
+      "ta": {
+        "q": "மெண்டல் துறவிமடத்தில் பட்டாணிச் செடிகளில் ஏறக்குறைய ஏழு ஆண்டுகள் எப்போது சோதனைகள் செய்தார்?",
+        "options": [
+          "1822 முதல் 1829",
+          "1840 முதல் 1847",
+          "1856 முதல் 1863",
+          "1866 முதல் 1873"
+        ],
+        "explanation": "34 வகைகளின் ஏறக்குறைய 10,000 பட்டாணிச் செடிகளில் ஆய்வு செய்தார்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 262,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 262,
       "quote": "Thus Mendel had chosen 7 pairs of contrasting characters for his study as shown in the table.",
       "answer": "D",
-      "en": {"q": "How many pairs of contrasting characters did Mendel choose for his study of the pea plant?", "options": ["Three", "Five", "Ten", "Seven"], "explanation": "They included stem length, flower position, pod shape, pod colour, seed shape and seed colour."},
-      "ta": {"q": "மெண்டல் பட்டாணிச் செடியின் ஆய்வுக்கு எத்தனை இணை எதிர்ப் பண்புகளைத் தேர்ந்தெடுத்தார்?", "options": ["மூன்று", "ஐந்து", "பத்து", "ஏழு"], "explanation": "தண்டு நீளம், மலர் அமைவிடம், காய் வடிவம், காய் நிறம், விதை வடிவம், விதை நிறம் ஆகியவை அடங்கும்."}
+      "en": {
+        "q": "How many pairs of contrasting characters did Mendel choose for his study of the pea plant?",
+        "options": [
+          "Three",
+          "Five",
+          "Ten",
+          "Seven"
+        ],
+        "explanation": "They included stem length, flower position, pod shape, pod colour, seed shape and seed colour."
+      },
+      "ta": {
+        "q": "மெண்டல் பட்டாணிச் செடியின் ஆய்வுக்கு எத்தனை இணை எதிர்ப் பண்புகளைத் தேர்ந்தெடுத்தார்?",
+        "options": [
+          "மூன்று",
+          "ஐந்து",
+          "பத்து",
+          "ஏழு"
+        ],
+        "explanation": "தண்டு நீளம், மலர் அமைவிடம், காய் வடிவம், காய் நிறம், விதை வடிவம், விதை நிறம் ஆகியவை அடங்கும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 262,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 262,
       "quote": "Flower Position Axillary Terminal ... Pod shape Inflated Constricted Pod colour Green Yellow Seed shape Round Wrinkled Seed colour Yellow Green",
       "answer": "A",
-      "en": {"q": "In Mendel's pea plants, which of the following is a dominant character?", "options": ["Axillary flower position", "Wrinkled seed", "Green seed colour", "Constricted pod"], "explanation": "Terminal flower position, wrinkled seed, green seed and constricted pod are recessive."},
-      "ta": {"q": "மெண்டலின் பட்டாணிச் செடிகளில் ஓங்கு பண்பு எது?", "options": ["இலைக்கோண மலர் அமைவு", "சுருங்கிய விதை", "பச்சை விதை நிறம்", "இடுங்கிய காய்"], "explanation": "நுனி மலர் அமைவு, சுருங்கிய விதை, பச்சை விதை, இடுங்கிய காய் ஆகியவை ஒடுங்கு பண்புகள்."}
+      "en": {
+        "q": "In Mendel's pea plants, which of the following is a dominant character?",
+        "options": [
+          "Axillary flower position",
+          "Wrinkled seed shape",
+          "Green cotyledon colour",
+          "Constricted pod shape"
+        ],
+        "explanation": "Terminal flower position, wrinkled seed, green seed and constricted pod are recessive."
+      },
+      "ta": {
+        "q": "மெண்டலின் பட்டாணிச் செடிகளில் ஓங்கு பண்பு எது?",
+        "options": [
+          "இலைக்கோண மலர் அமைவு",
+          "சுருங்கிய விதை",
+          "பச்சை விதை நிறம்",
+          "இடுங்கிய காய்"
+        ],
+        "explanation": "நுனி மலர் அமைவு, சுருங்கிய விதை, பச்சை விதை, இடுங்கிய காய் ஆகியவை ஒடுங்கு பண்புகள்."
+      }
     },
     {
-      "topic": "botany-plant-kingdom", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 262,
+      "topic": "botany-plant-kingdom",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 262,
       "quote": "It is naturally self-pollinating and so is very easy to raise pure breeding individuals. It has a short life span as it is an annual ... It is easy to cross-pollinate. It has deeply defined contrasting characters. The flowers are bisexual.",
       "answer": "B",
-      "en": {"q": "Which of the following was NOT a reason for Mendel's choice of the pea plant?", "options": ["It is naturally self-pollinating", "It is a perennial tree with a long life span", "It has clear contrasting characters", "Its flowers are bisexual"], "explanation": "The pea is an annual with a short life span, allowing several generations to be followed."},
-      "ta": {"q": "மெண்டல் பட்டாணிச் செடியைத் தேர்ந்தெடுத்ததற்கான காரணம் அல்லாதது எது?", "options": ["இயல்பாகத் தன் மகரந்தச் சேர்க்கை செய்யும்", "நீண்ட வாழ்நாள் கொண்ட பல்லாண்டு மரம்", "தெளிவான எதிர்ப் பண்புகள் உண்டு", "மலர்கள் இருபால்"], "explanation": "பட்டாணி குறுகிய வாழ்நாள் கொண்ட ஓராண்டுத் தாவரம்; பல தலைமுறைகளைப் பின்தொடர இயலும்."}
+      "en": {
+        "q": "Which of the following was NOT a reason for Mendel's choice of the pea plant?",
+        "options": [
+          "It is naturally self-pollinating",
+          "It is a perennial tree with a long life span",
+          "It has clear contrasting characters",
+          "Its flowers are bisexual"
+        ],
+        "explanation": "The pea is an annual with a short life span, allowing several generations to be followed."
+      },
+      "ta": {
+        "q": "மெண்டல் பட்டாணிச் செடியைத் தேர்ந்தெடுத்ததற்கான காரணம் அல்லாதது எது?",
+        "options": [
+          "இயல்பாகத் தன் மகரந்தச் சேர்க்கை செய்யும்",
+          "நீண்ட வாழ்நாள் கொண்ட பல்லாண்டு மரம்",
+          "தெளிவான எதிர்ப் பண்புகள் உண்டு",
+          "மலர்கள் இருபால்"
+        ],
+        "explanation": "பட்டாணி குறுகிய வாழ்நாள் கொண்ட ஓராண்டுத் தாவரம்; பல தலைமுறைகளைப் பின்தொடர இயலும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 262,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 262,
       "quote": "Crosses involving inheritance of only one pair of contrasting characters are called monohybrid crosses.",
       "answer": "C",
-      "en": {"q": "A cross involving inheritance of only one pair of contrasting characters is a", "options": ["dihybrid cross", "test cross", "monohybrid cross", "back cross"], "explanation": "E.g. a cross between a tall and a dwarf plant."},
-      "ta": {"q": "ஒரே ஒரு இணை எதிர்ப் பண்புகளின் பாரம்பரியத்தை உள்ளடக்கிய கலப்பு எது?", "options": ["இரு பண்புக் கலப்பு", "சோதனைக் கலப்பு", "ஒரு பண்புக் கலப்பு", "பின் கலப்பு"], "explanation": "எ.கா. நெட்டைச் செடிக்கும் குட்டைச் செடிக்கும் இடையிலான கலப்பு."}
+      "en": {
+        "q": "A cross involving inheritance of only one pair of contrasting characters is a",
+        "options": [
+          "dihybrid cross",
+          "test cross",
+          "monohybrid cross",
+          "back cross"
+        ],
+        "explanation": "E.g. a cross between a tall and a dwarf plant."
+      },
+      "ta": {
+        "q": "ஒரே ஒரு இணை எதிர்ப் பண்புகளின் பாரம்பரியத்தை உள்ளடக்கிய கலப்பு எது?",
+        "options": [
+          "இரு பண்புக் கலப்பு",
+          "சோதனைக் கலப்பு",
+          "ஒரு பண்புக் கலப்பு",
+          "பின் கலப்பு"
+        ],
+        "explanation": "எ.கா. நெட்டைச் செடிக்கும் குட்டைச் செடிக்கும் இடையிலான கலப்பு."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 262,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 262,
       "quote": "F2 generation: Selfing of the F1 monohybrids resulted in tall and dwarf plants respectively in the ratio of 3:1. The actual number of tall and dwarf plants obtained by Mendel was 787 tall and 277 dwarf.",
       "answer": "D",
-      "en": {"q": "In Mendel's monohybrid cross, the phenotypic ratio of tall to dwarf plants in the F2 generation is", "options": ["1:2:1", "9:3:3:1", "1:1", "3:1"], "explanation": "Mendel actually obtained 787 tall and 277 dwarf plants."},
-      "ta": {"q": "மெண்டலின் ஒரு பண்புக் கலப்பில் F2 தலைமுறையில் நெட்டை:குட்டை புறத்தோற்ற விகிதம் என்ன?", "options": ["1:2:1", "9:3:3:1", "1:1", "3:1"], "explanation": "மெண்டல் உண்மையில் 787 நெட்டை, 277 குட்டைச் செடிகளைப் பெற்றார்."}
+      "en": {
+        "q": "In Mendel's monohybrid cross, the phenotypic ratio of tall to dwarf plants in the F2 generation is",
+        "options": [
+          "1:2:1",
+          "9:3:3:1",
+          "1:1",
+          "3:1"
+        ],
+        "explanation": "Mendel actually obtained 787 tall and 277 dwarf plants."
+      },
+      "ta": {
+        "q": "மெண்டலின் ஒரு பண்புக் கலப்பில் F2 தலைமுறையில் நெட்டை:குட்டை புறத்தோற்ற விகிதம் என்ன?",
+        "options": [
+          "1:2:1",
+          "9:3:3:1",
+          "1:1",
+          "3:1"
+        ],
+        "explanation": "மெண்டல் உண்மையில் 787 நெட்டை, 277 குட்டைச் செடிகளைப் பெற்றார்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 262,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 262,
       "quote": "Tall Homozygous – TT (Pure) – 1 Tall Heterozygous – Tt – 2 Dwarf Homozygous – tt – 1 So the genotypic ratio 1:2:1. A genotype is the genetic constitution of an organism",
       "answer": "A",
-      "en": {"q": "The genotypic ratio in the F2 generation of a monohybrid cross is", "options": ["1:2:1", "3:1", "9:3:3:1", "2:1"], "explanation": "TT : Tt : tt = 1 : 2 : 1."},
-      "ta": {"q": "ஒரு பண்புக் கலப்பின் F2 தலைமுறையில் மரபணுவாக்க விகிதம் என்ன?", "options": ["1:2:1", "3:1", "9:3:3:1", "2:1"], "explanation": "TT : Tt : tt = 1 : 2 : 1."}
+      "en": {
+        "q": "The genotypic ratio in the F2 generation of a monohybrid cross is",
+        "options": [
+          "1:2:1",
+          "3:1",
+          "9:3:3:1",
+          "2:1"
+        ],
+        "explanation": "TT : Tt : tt = 1 : 2 : 1."
+      },
+      "ta": {
+        "q": "ஒரு பண்புக் கலப்பின் F2 தலைமுறையில் மரபணுவாக்க விகிதம் என்ன?",
+        "options": [
+          "1:2:1",
+          "3:1",
+          "9:3:3:1",
+          "2:1"
+        ],
+        "explanation": "TT : Tt : tt = 1 : 2 : 1."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 262,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 262,
       "quote": "External expression of a particular trait is known as phenotype. ... A genotype is the genetic constitution of an organism",
       "answer": "B",
-      "en": {"q": "The physical (external) expression of a gene is called the", "options": ["genotype", "phenotype", "allele", "locus"], "explanation": "Genotype is the genetic constitution of an organism."},
-      "ta": {"q": "ஒரு மரபணுவின் புறவெளிப்பாடு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["மரபணுவாக்கம்", "புறத்தோற்றம்", "அல்லீல்", "இருப்பிடம்"], "explanation": "மரபணுவாக்கம் உயிரினத்தின் மரபு அமைப்பு."}
+      "en": {
+        "q": "The physical (external) expression of a gene is called the",
+        "options": [
+          "genotype",
+          "phenotype",
+          "allele",
+          "locus"
+        ],
+        "explanation": "Genotype is the genetic constitution of an organism."
+      },
+      "ta": {
+        "q": "ஒரு மரபணுவின் புறவெளிப்பாடு எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "மரபணுவாக்கம்",
+          "புறத்தோற்றம்",
+          "அல்லீல்",
+          "இருப்பிடம்"
+        ],
+        "explanation": "மரபணுவாக்கம் உயிரினத்தின் மரபு அமைப்பு."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 263,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 263,
       "quote": "These factors occur in pairs and may be alike as in pure breeding tall plants (TT) and dwarf plants (tt). This is referred to as homozygous. If they are unlike (Tt) they are referred to as heterozygous.",
       "answer": "C",
-      "en": {"q": "When both alleles of a gene pair are identical (TT or tt), the condition is called", "options": ["heterozygous", "hybrid", "homozygous", "recessive"], "explanation": "Unlike alleles (Tt) give the heterozygous condition."},
-      "ta": {"q": "ஒரு மரபணு இணையின் இரு அல்லீல்களும் ஒத்திருக்கும் (TT அல்லது tt) நிலை எவ்வாறு அழைக்கப்படும்?", "options": ["மாற்றுக் கருநிலை (ஹெட்டிரோசைகஸ்)", "கலப்பினம்", "ஒத்த கருநிலை (ஹோமோசைகஸ்)", "ஒடுங்கு நிலை"], "explanation": "வேறுபட்ட அல்லீல்கள் (Tt) மாற்றுக் கருநிலையைத் தரும்."}
+      "en": {
+        "q": "When both alleles of a gene pair are identical (TT or tt), the condition is called",
+        "options": [
+          "heterozygous",
+          "hybrid",
+          "homozygous",
+          "recessive"
+        ],
+        "explanation": "Unlike alleles (Tt) give the heterozygous condition."
+      },
+      "ta": {
+        "q": "ஒரு மரபணு இணையின் இரு அல்லீல்களும் ஒத்திருக்கும் (TT அல்லது tt) நிலை எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "மாற்றுக் கருநிலை (ஹெட்டிரோசைகஸ்)",
+          "கலப்பினம்",
+          "ஒத்த கருநிலை (ஹோமோசைகஸ்)",
+          "ஒடுங்கு நிலை"
+        ],
+        "explanation": "வேறுபட்ட அல்லீல்கள் (Tt) மாற்றுக் கருநிலையைத் தரும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 263,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 263,
       "quote": "Two factors making up a pair of contrasting characters are called alleles. Phenotypic expression of alleles are called allelomorphs.",
       "answer": "D",
-      "en": {"q": "Two factors making up a pair of contrasting characters are called", "options": ["chromatids", "loci", "chromomeres", "alleles"], "explanation": "Their phenotypic expressions are called allelomorphs."},
-      "ta": {"q": "ஒரு இணை எதிர்ப் பண்புகளை உருவாக்கும் இரு காரணிகள் எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["குரோமட்டிடுகள்", "இருப்பிடங்கள்", "குரோமோமியர்கள்", "அல்லீல்கள்"], "explanation": "அவற்றின் புறத்தோற்ற வெளிப்பாடுகள் அல்லீலோமார்ஃப்கள் எனப்படும்."}
+      "en": {
+        "q": "Two factors making up a pair of contrasting characters are called",
+        "options": [
+          "chromatids",
+          "loci",
+          "chromomeres",
+          "alleles"
+        ],
+        "explanation": "Their phenotypic expressions are called allelomorphs."
+      },
+      "ta": {
+        "q": "ஒரு இணை எதிர்ப் பண்புகளை உருவாக்கும் இரு காரணிகள் எவ்வாறு அழைக்கப்படுகின்றன?",
+        "options": [
+          "குரோமட்டிடுகள்",
+          "இருப்பிடங்கள்",
+          "குரோமோமியர்கள்",
+          "அல்லீல்கள்"
+        ],
+        "explanation": "அவற்றின் புறத்தோற்ற வெளிப்பாடுகள் அல்லீலோமார்ஃப்கள் எனப்படும்."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 263,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 263,
       "quote": "Punnett square is a checker board form devised by a British geneticist R.C.Punnett for study of genetics.",
       "answer": "A",
-      "en": {"q": "The checker-board method used to calculate the probability of genotypes in a genetic cross was devised by", "options": ["R.C. Punnett", "Gregor Mendel", "Hugo de Vries", "Waldeyer"], "explanation": "It is called the Punnett square."},
-      "ta": {"q": "மரபியல் கலப்பில் மரபணுவாக்க நிகழ்தகவைக் கணக்கிடும் சதுரங்கப் பலகை முறையை உருவாக்கியவர் யார்?", "options": ["ஆர்.சி. புன்னெட்", "கிரிகர் மெண்டல்", "ஹியூகோ டி விரீஸ்", "வால்டேயர்"], "explanation": "இது புன்னெட் சதுரம் எனப்படும்."}
+      "en": {
+        "q": "The checker-board method used to calculate the probability of genotypes in a genetic cross was devised by",
+        "options": [
+          "R.C. Punnett",
+          "Gregor Mendel",
+          "Hugo de Vries",
+          "Waldeyer"
+        ],
+        "explanation": "It is called the Punnett square."
+      },
+      "ta": {
+        "q": "மரபியல் கலப்பில் மரபணுவாக்க நிகழ்தகவைக் கணக்கிடும் சதுரங்கப் பலகை முறையை உருவாக்கியவர் யார்?",
+        "options": [
+          "ஆர்.சி. புன்னெட்",
+          "கிரிகர் மெண்டல்",
+          "ஹியூகோ டி விரீஸ்",
+          "வால்டேயர்"
+        ],
+        "explanation": "இது புன்னெட் சதுரம் எனப்படும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 264,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 264,
       "quote": "The ratio of each phenotype (or appearance) of seeds in the F2 generation is 9:3:3:1. This is known as the Dihybrid ratio.",
       "answer": "B",
-      "en": {"q": "The F2 phenotypic ratio of a dihybrid cross is", "options": ["3:1", "9:3:3:1", "1:2:1", "1:1:1:1"], "explanation": "Round-yellow 9, round-green 3, wrinkled-yellow 3, wrinkled-green 1."},
-      "ta": {"q": "இரு பண்புக் கலப்பின் F2 புறத்தோற்ற விகிதம் என்ன?", "options": ["3:1", "9:3:3:1", "1:2:1", "1:1:1:1"], "explanation": "உருண்டை-மஞ்சள் 9, உருண்டை-பச்சை 3, சுருங்கிய-மஞ்சள் 3, சுருங்கிய-பச்சை 1."}
+      "en": {
+        "q": "The F2 phenotypic ratio of a dihybrid cross is",
+        "options": [
+          "3:1",
+          "9:3:3:1",
+          "1:2:1",
+          "1:1:1:1"
+        ],
+        "explanation": "Round-yellow 9, round-green 3, wrinkled-yellow 3, wrinkled-green 1."
+      },
+      "ta": {
+        "q": "இரு பண்புக் கலப்பின் F2 புறத்தோற்ற விகிதம் என்ன?",
+        "options": [
+          "3:1",
+          "9:3:3:1",
+          "1:2:1",
+          "1:1:1:1"
+        ],
+        "explanation": "உருண்டை-மஞ்சள் 9, உருண்டை-பச்சை 3, சுருங்கிய-மஞ்சள் 3, சுருங்கிய-பச்சை 1."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 264,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 264,
       "quote": "New Combination: Two new combinations of traits with round green and wrinkled yellow had appeared in the dihybrid cross (F2 generation).",
       "answer": "C",
-      "en": {"q": "Which new combinations of traits appeared in the F2 generation of Mendel's dihybrid cross?", "options": ["Round-yellow and wrinkled-green", "Tall-round and dwarf-wrinkled", "Round-green and wrinkled-yellow", "Only round-yellow"], "explanation": "Round-yellow and wrinkled-green were the parental types."},
-      "ta": {"q": "மெண்டலின் இரு பண்புக் கலப்பின் F2 தலைமுறையில் தோன்றிய புதிய பண்புச் சேர்க்கைகள் எவை?", "options": ["உருண்டை-மஞ்சள், சுருங்கிய-பச்சை", "நெட்டை-உருண்டை, குட்டை-சுருங்கிய", "உருண்டை-பச்சை, சுருங்கிய-மஞ்சள்", "உருண்டை-மஞ்சள் மட்டும்"], "explanation": "உருண்டை-மஞ்சள், சுருங்கிய-பச்சை பெற்றோர் வகைகள்."}
+      "en": {
+        "q": "Which new combinations of traits appeared in the F2 generation of Mendel's dihybrid cross?",
+        "options": [
+          "Round-yellow and wrinkled-green",
+          "Tall-round and dwarf-wrinkled",
+          "Round-green and wrinkled-yellow",
+          "Only round-yellow"
+        ],
+        "explanation": "Round-yellow and wrinkled-green were the parental types."
+      },
+      "ta": {
+        "q": "மெண்டலின் இரு பண்புக் கலப்பின் F2 தலைமுறையில் தோன்றிய புதிய பண்புச் சேர்க்கைகள் எவை?",
+        "options": [
+          "உருண்டை-மஞ்சள், சுருங்கிய-பச்சை",
+          "நெட்டை-உருண்டை, குட்டை-சுருங்கிய",
+          "உருண்டை-பச்சை, சுருங்கிய-மஞ்சள்",
+          "உருண்டை-மஞ்சள் மட்டும்"
+        ],
+        "explanation": "உருண்டை-மஞ்சள், சுருங்கிய-பச்சை பெற்றோர் வகைகள்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 264,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 264,
       "quote": "Law of independent assortment: \"In case of inheritance of two or more pairs of characters simultaneously, the factors or genes of one pair assort out independently of the other pair.\"",
       "answer": "D",
-      "en": {"q": "The 9:3:3:1 ratio in a dihybrid cross is due to", "options": ["segregation only", "crossing over", "recessiveness", "independent assortment"], "explanation": "Genes of one pair assort independently of the other pair."},
-      "ta": {"q": "இரு பண்புக் கலப்பில் 9:3:3:1 விகிதத்திற்குக் காரணம் எது?", "options": ["பிரிதல் மட்டும்", "குறுக்கே கலத்தல்", "ஒடுங்குதன்மை", "தனித்துப் பிரிதல்"], "explanation": "ஒரு இணையின் மரபணுக்கள் மற்ற இணையைச் சாராமல் தனித்துப் பிரிகின்றன."}
+      "en": {
+        "q": "The 9:3:3:1 ratio in a dihybrid cross is due to",
+        "options": [
+          "segregation only",
+          "crossing over",
+          "recessiveness",
+          "independent assortment"
+        ],
+        "explanation": "Genes of one pair assort independently of the other pair."
+      },
+      "ta": {
+        "q": "இரு பண்புக் கலப்பில் 9:3:3:1 விகிதத்திற்குக் காரணம் எது?",
+        "options": [
+          "பிரிதல் மட்டும்",
+          "குறுக்கே கலத்தல்",
+          "ஒடுங்குதன்மை",
+          "தனித்துப் பிரிதல்"
+        ],
+        "explanation": "ஒரு இணையின் மரபணுக்கள் மற்ற இணையைச் சாராமல் தனித்துப் பிரிகின்றன."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 264,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 264,
       "quote": "Law of Segregation or Law of purity of gametes: \"When a pair of contrasting factors are brought together in a F1 hybrid. The two factors of the allelic pair remain together without mixing and when gametes are formed, the two separate out, so that only one enters each gamete.\"",
       "answer": "A",
-      "en": {"q": "The Law of Segregation is also known as the", "options": ["law of purity of gametes", "law of dominance", "law of independent assortment", "law of mutation"], "explanation": "Each gamete receives only one allele of a gene."},
-      "ta": {"q": "பிரிதல் விதி வேறு எவ்வாறு அழைக்கப்படுகிறது?", "options": ["கேமீட்டுகளின் தூய்மை விதி", "ஓங்குதன்மை விதி", "தனித்துப் பிரிதல் விதி", "திடீர் மாற்ற விதி"], "explanation": "ஒவ்வொரு கேமீட்டும் ஒரு மரபணுவின் ஒரு அல்லீலை மட்டும் பெறுகிறது."}
+      "en": {
+        "q": "The Law of Segregation is also known as the",
+        "options": [
+          "law of purity of gametes",
+          "law of dominance",
+          "law of independent assortment",
+          "law of mutation"
+        ],
+        "explanation": "Each gamete receives only one allele of a gene."
+      },
+      "ta": {
+        "q": "பிரிதல் விதி வேறு எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "கேமீட்டுகளின் தூய்மை விதி",
+          "ஓங்குதன்மை விதி",
+          "தனித்துப் பிரிதல் விதி",
+          "திடீர் மாற்ற விதி"
+        ],
+        "explanation": "ஒவ்வொரு கேமீட்டும் ஒரு மரபணுவின் ஒரு அல்லீலை மட்டும் பெறுகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 265,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 265,
       "quote": "The term 'chromosomes' was first coined by Waldeyer in 1888.",
       "answer": "B",
-      "en": {"q": "The term 'chromosome' was first coined in 1888 by", "options": ["Mendel", "Waldeyer", "Morgan", "Punnett"], "explanation": "Chromosomes carry the genetic material."},
-      "ta": {"q": "1888இல் 'குரோமோசோம்' என்ற சொல்லை முதலில் உருவாக்கியவர் யார்?", "options": ["மெண்டல்", "வால்டேயர்", "மார்கன்", "புன்னெட்"], "explanation": "குரோமோசோம்கள் மரபுப் பொருளைக் கொண்டு செல்கின்றன."}
+      "en": {
+        "q": "The term 'chromosome' was first coined in 1888 by",
+        "options": [
+          "Mendel",
+          "Waldeyer",
+          "Morgan",
+          "Punnett"
+        ],
+        "explanation": "Chromosomes carry the genetic material."
+      },
+      "ta": {
+        "q": "1888இல் 'குரோமோசோம்' என்ற சொல்லை முதலில் உருவாக்கியவர் யார்?",
+        "options": [
+          "மெண்டல்",
+          "வால்டேயர்",
+          "மார்கன்",
+          "புன்னெட்"
+        ],
+        "explanation": "குரோமோசோம்கள் மரபுப் பொருளைக் கொண்டு செல்கின்றன."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 265,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 265,
       "quote": "Genes are segments of DNA, which are responsible for the inheritance of a particular phenotypic character. Each gene is present at a specific position on a chromosome called its locus.",
       "answer": "C",
-      "en": {"q": "Segments of DNA responsible for the inheritance of a particular character are called", "options": ["chromatids", "telomeres", "genes", "centromeres"], "explanation": "The specific position of a gene on a chromosome is its locus."},
-      "ta": {"q": "ஒரு குறிப்பிட்ட பண்பின் பாரம்பரியத்திற்குப் பொறுப்பான DNA துண்டுகள் எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["குரோமட்டிடுகள்", "டீலோமியர்கள்", "மரபணுக்கள்", "சென்ட்ரோமியர்கள்"], "explanation": "குரோமோசோமில் மரபணுவின் குறிப்பிட்ட இடம் அதன் இருப்பிடம் (லோகஸ்)."}
+      "en": {
+        "q": "Segments of DNA responsible for the inheritance of a particular character are called",
+        "options": [
+          "chromatids",
+          "telomeres",
+          "genes",
+          "centromeres"
+        ],
+        "explanation": "The specific position of a gene on a chromosome is its locus."
+      },
+      "ta": {
+        "q": "ஒரு குறிப்பிட்ட பண்பின் பாரம்பரியத்திற்குப் பொறுப்பான DNA துண்டுகள் எவ்வாறு அழைக்கப்படுகின்றன?",
+        "options": [
+          "குரோமட்டிடுகள்",
+          "டீலோமியர்கள்",
+          "மரபணுக்கள்",
+          "சென்ட்ரோமியர்கள்"
+        ],
+        "explanation": "குரோமோசோமில் மரபணுவின் குறிப்பிட்ட இடம் அதன் இருப்பிடம் (லோகஸ்)."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 265,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 265,
       "quote": "Primary constriction: The two arms of a chromosome meet at a point called primary constriction or centromere. The centromere is the region where spindle fibres attach to the chromosomes during cell division.",
       "answer": "D",
-      "en": {"q": "The region of the chromosome where spindle fibres attach during cell division is the", "options": ["chromomere", "centrosome", "chromonema", "centromere"], "explanation": "It is also called the primary constriction."},
-      "ta": {"q": "செல் பிரிதலின்போது கதிர் இழைகள் இணையும் குரோமோசோமின் பகுதி எது?", "options": ["குரோமோமியர்", "சென்ட்ரோசோம்", "குரோமோனீமா", "சென்ட்ரோமியர்"], "explanation": "இது முதன்மைச் சுருக்கம் எனவும் அழைக்கப்படும்."}
+      "en": {
+        "q": "The region of the chromosome where spindle fibres attach during cell division is the",
+        "options": [
+          "chromomere",
+          "centrosome",
+          "chromonema",
+          "centromere"
+        ],
+        "explanation": "It is also called the primary constriction."
+      },
+      "ta": {
+        "q": "செல் பிரிதலின்போது கதிர் இழைகள் இணையும் குரோமோசோமின் பகுதி எது?",
+        "options": [
+          "குரோமோமியர்",
+          "சென்ட்ரோசோம்",
+          "குரோமோனீமா",
+          "சென்ட்ரோமியர்"
+        ],
+        "explanation": "இது முதன்மைச் சுருக்கம் எனவும் அழைக்கப்படும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 265,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 265,
       "quote": "Telomere: The end of the chromosome is called telomere. ... Telomeres act as aging clock in every cell. ... As a cell divides every time, they become shorter.",
       "answer": "A",
-      "en": {"q": "The ends of chromosomes, which act as an 'ageing clock' in every cell, are called", "options": ["telomeres", "satellites", "centromeres", "chromomeres"], "explanation": "They become shorter each time a cell divides."},
-      "ta": {"q": "ஒவ்வொரு செல்லிலும் 'முதுமைக் கடிகாரமாக' செயல்படும் குரோமோசோம் முனைகள் எவை?", "options": ["டீலோமியர்கள்", "துணைக்கோள்கள் (சாட்டிலைட்)", "சென்ட்ரோமியர்கள்", "குரோமோமியர்கள்"], "explanation": "செல் பிரியும் ஒவ்வொரு முறையும் இவை குறுகுகின்றன."}
+      "en": {
+        "q": "The ends of chromosomes, which act as an 'ageing clock' in every cell, are called",
+        "options": [
+          "telomeres",
+          "satellites",
+          "centromeres",
+          "chromomeres"
+        ],
+        "explanation": "They become shorter each time a cell divides."
+      },
+      "ta": {
+        "q": "ஒவ்வொரு செல்லிலும் 'முதுமைக் கடிகாரமாக' செயல்படும் குரோமோசோம் முனைகள் எவை?",
+        "options": [
+          "டீலோமியர்கள்",
+          "துணைக்கோள்கள் (சாட்டிலைட்)",
+          "சென்ட்ரோமியர்கள்",
+          "குரோமோமியர்கள்"
+        ],
+        "explanation": "செல் பிரியும் ஒவ்வொரு முறையும் இவை குறுகுகின்றன."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 265,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 265,
       "quote": "Satellite: Some of the chromosomes have an elongated knob-like appendage at one end of the chromosome known as satellite. The chromosomes with satellites are called as the sat-chromosomes.",
       "answer": "B",
-      "en": {"q": "The elongated knob-like appendage at one end of some chromosomes is called a", "options": ["telomere", "satellite", "centromere", "chromonema"], "explanation": "Such chromosomes are called sat-chromosomes."},
-      "ta": {"q": "சில குரோமோசோம்களின் ஒரு முனையில் உள்ள நீண்ட குமிழ் போன்ற இணைப்பு எவ்வாறு அழைக்கப்படும்?", "options": ["டீலோமியர்", "துணைக்கோள் (சாட்டிலைட்)", "சென்ட்ரோமியர்", "குரோமோனீமா"], "explanation": "அத்தகைய குரோமோசோம்கள் சாட்-குரோமோசோம்கள் எனப்படும்."}
+      "en": {
+        "q": "The elongated knob-like appendage at one end of some chromosomes is called a",
+        "options": [
+          "telomere",
+          "satellite",
+          "centromere",
+          "chromonema"
+        ],
+        "explanation": "Such chromosomes are called sat-chromosomes."
+      },
+      "ta": {
+        "q": "சில குரோமோசோம்களின் ஒரு முனையில் உள்ள நீண்ட குமிழ் போன்ற இணைப்பு எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "டீலோமியர்",
+          "துணைக்கோள்",
+          "சென்ட்ரோமியர்",
+          "குரோமோனீமா"
+        ],
+        "explanation": "அத்தகைய குரோமோசோம்கள் சாட்-குரோமோசோம்கள் எனப்படும்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 266,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 266,
       "quote": "Metacentric – The centromere occurs in the centre of the chromosome and form two equal arms. They are V shaped chromosomes",
       "answer": "C",
-      "en": {"q": "The centromere is found at the centre of the ________ chromosome.", "options": ["telocentric", "acrocentric", "metacentric", "submetacentric"], "explanation": "Metacentric chromosomes have two equal arms and are V shaped."},
-      "ta": {"q": "சென்ட்ரோமியர் ________ குரோமோசோமின் மையத்தில் காணப்படுகிறது.", "options": ["நுனிமைய", "அருகுமைய", "மைய (மெட்டாசென்ட்ரிக்)", "துணைமைய"], "explanation": "மைய குரோமோசோம்களில் இரு சம கைகள்; V வடிவம்."}
+      "en": {
+        "q": "The centromere is found at the centre of the ________ chromosome.",
+        "options": [
+          "telocentric",
+          "acrocentric",
+          "metacentric",
+          "submetacentric"
+        ],
+        "explanation": "Metacentric chromosomes have two equal arms and are V shaped."
+      },
+      "ta": {
+        "q": "சென்ட்ரோமியர் ________ குரோமோசோமின் மையத்தில் காணப்படுகிறது.",
+        "options": [
+          "நுனிமைய",
+          "அருகுமைய",
+          "நடுமைய",
+          "துணைமைய"
+        ],
+        "explanation": "மைய குரோமோசோம்களில் இரு சம கைகள்; V வடிவம்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 266,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 266,
       "quote": "Submetacentric – The centromere is found near the centre of the chromosome. Thus forming two unequal arms. They are J shaped or L shaped chromosomes.",
       "answer": "D",
-      "en": {"q": "J-shaped or L-shaped chromosomes with two unequal arms are", "options": ["metacentric", "telocentric", "acrocentric", "submetacentric"], "explanation": "Their centromere is near, but not at, the centre."},
-      "ta": {"q": "இரு சமமற்ற கைகள் கொண்ட J அல்லது L வடிவ குரோமோசோம்கள் எவை?", "options": ["மைய", "நுனிமைய", "அருகுமைய", "துணைமைய"], "explanation": "இவற்றின் சென்ட்ரோமியர் மையத்திற்கு அருகில் உள்ளது; மையத்தில் அல்ல."}
+      "en": {
+        "q": "J-shaped or L-shaped chromosomes with two unequal arms are",
+        "options": [
+          "metacentric",
+          "telocentric",
+          "acrocentric",
+          "submetacentric"
+        ],
+        "explanation": "Their centromere is near, but not at, the centre."
+      },
+      "ta": {
+        "q": "இரு சமமற்ற கைகள் கொண்ட J அல்லது L வடிவ குரோமோசோம்கள் எவை?",
+        "options": [
+          "மைய",
+          "நுனிமைய",
+          "அருகுமைய",
+          "துணைமைய"
+        ],
+        "explanation": "இவற்றின் சென்ட்ரோமியர் மையத்திற்கு அருகில் உள்ளது; மையத்தில் அல்ல."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 266,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 266,
       "quote": "In human, each cell normally contains 23 pairs of chromosomes. Out of which 22 pairs are autosomes and the 23rd pair is the allosome or sex chromosome.",
       "answer": "A",
-      "en": {"q": "The number of chromosomes found in human beings is", "options": ["22 pairs of autosomes and 1 pair of allosomes", "22 autosomes and 1 allosome", "46 autosomes", "46 pairs of autosomes and 1 pair of allosomes"], "explanation": "The 23rd pair is the sex chromosome pair."},
-      "ta": {"q": "மனிதர்களில் காணப்படும் குரோமோசோம்களின் எண்ணிக்கை என்ன?", "options": ["22 இணை உடல் குரோமோசோம்கள், 1 இணை பால் குரோமோசோம்கள்", "22 உடல் குரோமோசோம்கள், 1 பால் குரோமோசோம்", "46 உடல் குரோமோசோம்கள்", "46 இணை உடல் குரோமோசோம்கள், 1 இணை பால் குரோமோசோம்கள்"], "explanation": "23ஆவது இணை பால் குரோமோசோம் இணை."}
+      "en": {
+        "q": "The number of chromosomes found in human beings is",
+        "options": [
+          "22 pairs of autosomes and 1 pair of allosomes",
+          "22 autosomes and 1 allosome",
+          "46 autosomes",
+          "46 pairs of autosomes and 1 pair of allosomes"
+        ],
+        "explanation": "The 23rd pair is the sex chromosome pair."
+      },
+      "ta": {
+        "q": "மனிதர்களில் காணப்படும் குரோமோசோம்களின் எண்ணிக்கை என்ன?",
+        "options": [
+          "22 இணை உடல் குரோமோசோம்கள், 1 இணை பால் குரோமோசோம்கள்",
+          "22 உடல் குரோமோசோம்கள், 1 பால் குரோமோசோம்",
+          "46 உடல் குரோமோசோம்கள்",
+          "46 இணை உடல் குரோமோசோம்கள், 1 இணை பால் குரோமோசோம்கள்"
+        ],
+        "explanation": "23ஆவது இணை பால் குரோமோசோம் இணை."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 266,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 266,
       "quote": "In the body cells of sexually reproducing organisms, the chromosomes generally occur in pairs. This condition is called diploid (2n). The gametes produced by the organisms contain a single set of chromosomes. Hence, the gametes are said to be haploid (n).",
       "answer": "B",
-      "en": {"q": "Gametes contain a single set of chromosomes and are therefore", "options": ["diploid", "haploid", "triploid", "tetraploid"], "explanation": "Body cells are diploid (2n)."},
-      "ta": {"q": "கேமீட்டுகள் ஒரே தொகுதி குரோமோசோம்களைக் கொண்டுள்ளதால் அவை", "options": ["இருமயம்", "ஒருமயம்", "மும்மயம்", "நான்மயம்"], "explanation": "உடல் செல்கள் இருமயம் (2n)."}
+      "en": {
+        "q": "Gametes contain a single set of chromosomes and are therefore",
+        "options": [
+          "diploid",
+          "haploid",
+          "triploid",
+          "tetraploid"
+        ],
+        "explanation": "Body cells are diploid (2n)."
+      },
+      "ta": {
+        "q": "கேமீட்டுகள் ஒரே தொகுதி குரோமோசோம்களைக் கொண்டுள்ளதால் அவை",
+        "options": [
+          "இருமயம்",
+          "ஒருமயம்",
+          "மும்மயம்",
+          "நான்மயம்"
+        ],
+        "explanation": "உடல் செல்கள் இருமயம் (2n)."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 266,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 266,
       "quote": "Idiogram is the diagrammatic representation of karyotype of a species.",
       "answer": "C",
-      "en": {"q": "The diagrammatic representation of the karyotype of a species is called", "options": ["genotype", "pedigree", "idiogram", "Punnett square"], "explanation": "Karyotype is the number, size and shape of chromosomes in a nucleus."},
-      "ta": {"q": "ஒரு சிற்றினத்தின் கேரியோடைப்பின் வரைபட விளக்கம் எவ்வாறு அழைக்கப்படும்?", "options": ["மரபணுவாக்கம்", "வம்சாவளி வரைபடம்", "இடியோகிராம்", "புன்னெட் சதுரம்"], "explanation": "கேரியோடைப் என்பது உட்கருவில் உள்ள குரோமோசோம்களின் எண்ணிக்கை, அளவு, வடிவம்."}
+      "en": {
+        "q": "The diagrammatic representation of the karyotype of a species is called",
+        "options": [
+          "genotype",
+          "pedigree",
+          "idiogram",
+          "Punnett square"
+        ],
+        "explanation": "Karyotype is the number, size and shape of chromosomes in a nucleus."
+      },
+      "ta": {
+        "q": "ஒரு சிற்றினத்தின் கேரியோடைப்பின் வரைபட விளக்கம் எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "மரபணுவாக்கம்",
+          "வம்சாவளி வரைபடம்",
+          "இடியோகிராம்",
+          "புன்னெட் சதுரம்"
+        ],
+        "explanation": "கேரியோடைப் என்பது உட்கருவில் உள்ள குரோமோசோம்களின் எண்ணிக்கை, அளவு, வடிவம்."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 267,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 267,
       "quote": "the double helical structure of James Watson and Francis Crick. They proposed the three-dimensional model of DNA on the basis of X-ray diffraction studies of DNA obtained by Rosalind Franklin and Maurice Wilkins. ... Watson, Crick and Wilkins were awarded Nobel prize for Medicine in 1962.",
       "answer": "D",
-      "en": {"q": "The double helical model of DNA was proposed by", "options": ["Mendel and Morgan", "Chargaff and Franklin", "Hugo de Vries", "James Watson and Francis Crick"], "explanation": "They used X-ray diffraction data of Rosalind Franklin and Maurice Wilkins."},
-      "ta": {"q": "DNA இன் இரட்டைச் சுருள் மாதிரியை முன்மொழிந்தவர்கள் யார்?", "options": ["மெண்டல், மார்கன்", "சார்காஃப், ஃபிராங்க்ளின்", "ஹியூகோ டி விரீஸ்", "ஜேம்ஸ் வாட்சன், பிரான்சிஸ் கிரிக்"], "explanation": "ரோசலிண்ட் ஃபிராங்க்ளின், மாரிஸ் வில்கின்ஸின் எக்ஸ்-கதிர் விளிம்பு விளைவுத் தரவுகளைப் பயன்படுத்தினர்."}
+      "en": {
+        "q": "The double helical model of DNA was proposed by",
+        "options": [
+          "Gregor Mendel and T.H. Morgan",
+          "Erwin Chargaff and Rosalind Franklin",
+          "Hugo de Vries and Karl Correns",
+          "James Watson and Francis Crick"
+        ],
+        "explanation": "They used X-ray diffraction data of Rosalind Franklin and Maurice Wilkins."
+      },
+      "ta": {
+        "q": "DNA இன் இரட்டைச் சுருள் மாதிரியை முன்மொழிந்தவர்கள் யார்?",
+        "options": [
+          "கிரிகர் மெண்டல், டி.எச். மார்கன்",
+          "எர்வின் சார்காஃப், ரோசாலிண்ட் ஃபிராங்க்ளின்",
+          "ஹியூகோ டி விரீஸ், கார்ல் கோரென்ஸ்",
+          "ஜேம்ஸ் வாட்சன், பிரான்சிஸ் கிரிக்"
+        ],
+        "explanation": "ரோசலிண்ட் ஃபிராங்க்ளின், மாரிஸ் வில்கின்ஸின் எக்ஸ்-கதிர் விளிம்பு விளைவுத் தரவுகளைப் பயன்படுத்தினர்."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 267,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 267,
       "quote": "In appreciation of their discoveries on the molecular structure of nucleic acids Watson, Crick and Wilkins were awarded Nobel prize for Medicine in 1962.",
       "answer": "A",
-      "en": {"q": "Watson, Crick and Wilkins received the Nobel Prize for Medicine for the structure of nucleic acids in", "options": ["1962", "1953", "1961", "1968"], "explanation": "Their work established the double helix model of DNA."},
-      "ta": {"q": "நியூக்ளிக் அமில அமைப்புக்காக வாட்சன், கிரிக், வில்கின்ஸ் மருத்துவ நோபல் பரிசு பெற்ற ஆண்டு எது?", "options": ["1962", "1953", "1961", "1968"], "explanation": "இவர்களின் பணி DNA இரட்டைச் சுருள் மாதிரியை நிறுவியது."}
+      "en": {
+        "q": "Watson, Crick and Wilkins received the Nobel Prize for Medicine for the structure of nucleic acids in",
+        "options": [
+          "1962",
+          "1953",
+          "1961",
+          "1968"
+        ],
+        "explanation": "Their work established the double helix model of DNA."
+      },
+      "ta": {
+        "q": "நியூக்ளிக் அமில அமைப்புக்காக வாட்சன், கிரிக், வில்கின்ஸ் மருத்துவ நோபல் பரிசு பெற்ற ஆண்டு எது?",
+        "options": [
+          "1962",
+          "1953",
+          "1961",
+          "1968"
+        ],
+        "explanation": "இவர்களின் பணி DNA இரட்டைச் சுருள் மாதிரியை நிறுவியது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 267,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 267,
       "quote": "There are two types of nitrogenous bases in DNA. They are (a) Purines (Adenine and Guanine) (b) Pyrimidines (Cytosine and Thymine)",
       "answer": "B",
-      "en": {"q": "Which of the following are purines in DNA?", "options": ["Cytosine and thymine", "Adenine and guanine", "Thymine and adenine", "Cytosine and guanine"], "explanation": "Cytosine and thymine are pyrimidines."},
-      "ta": {"q": "DNA இல் உள்ள பியூரின்கள் எவை?", "options": ["சைட்டோசின், தைமின்", "அடினின், குவானின்", "தைமின், அடினின்", "சைட்டோசின், குவானின்"], "explanation": "சைட்டோசின், தைமின் பிரிமிடின்கள்."}
+      "en": {
+        "q": "Which of the following are purines in DNA?",
+        "options": [
+          "Cytosine and thymine",
+          "Adenine and guanine",
+          "Thymine and adenine",
+          "Cytosine and guanine"
+        ],
+        "explanation": "Cytosine and thymine are pyrimidines."
+      },
+      "ta": {
+        "q": "DNA இல் உள்ள பியூரின்கள் எவை?",
+        "options": [
+          "சைட்டோசின், தைமின்",
+          "அடினின், குவானின்",
+          "தைமின், அடினின்",
+          "சைட்டோசின், குவானின்"
+        ],
+        "explanation": "சைட்டோசின், தைமின் பிரிமிடின்கள்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 267,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 267,
       "quote": "Nucleoside = Nitrogen base + Sugar Nucleotide = Nucleoside + Phosphate",
       "answer": "C",
-      "en": {"q": "A nucleotide consists of", "options": ["nitrogen base and sugar only", "sugar and phosphate only", "nitrogen base, sugar and phosphate", "two nitrogen bases"], "explanation": "Nucleoside = base + sugar; nucleotide = nucleoside + phosphate."},
-      "ta": {"q": "ஒரு நியூக்ளியோடைடு எவற்றைக் கொண்டது?", "options": ["நைட்ரஜன் காரம், சர்க்கரை மட்டும்", "சர்க்கரை, பாஸ்பேட் மட்டும்", "நைட்ரஜன் காரம், சர்க்கரை, பாஸ்பேட்", "இரு நைட்ரஜன் காரங்கள்"], "explanation": "நியூக்ளியோசைடு = காரம் + சர்க்கரை; நியூக்ளியோடைடு = நியூக்ளியோசைடு + பாஸ்பேட்."}
+      "en": {
+        "q": "A nucleotide consists of",
+        "options": [
+          "nitrogen base and sugar only",
+          "sugar and phosphate only",
+          "nitrogen base, sugar and phosphate",
+          "two nitrogen bases"
+        ],
+        "explanation": "Nucleoside = base + sugar; nucleotide = nucleoside + phosphate."
+      },
+      "ta": {
+        "q": "ஒரு நியூக்ளியோடைடு எவற்றைக் கொண்டது?",
+        "options": [
+          "நைட்ரஜன் காரம், சர்க்கரை மட்டும்",
+          "சர்க்கரை, பாஸ்பேட் மட்டும்",
+          "நைட்ரஜன் காரம், சர்க்கரை, பாஸ்பேட்",
+          "இரு நைட்ரஜன் காரங்கள்"
+        ],
+        "explanation": "நியூக்ளியோசைடு = காரம் + சர்க்கரை; நியூக்ளியோடைடு = நியூக்ளியோசைடு + பாஸ்பேட்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 267,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 267,
       "quote": "Nitrogenous bases in the centre are linked to sugar-phosphate units which form the backbone of the DNA.",
       "answer": "D",
-      "en": {"q": "The backbone of the DNA molecule is formed by", "options": ["nitrogenous bases", "5-carbon sugar alone", "hydrogen bonds", "sugar-phosphate units"], "explanation": "Nitrogenous bases lie in the centre."},
-      "ta": {"q": "DNA மூலக்கூறின் முதுகெலும்பை உருவாக்குபவை எவை?", "options": ["நைட்ரஜன் காரங்கள்", "5-கார்பன் சர்க்கரை மட்டும்", "ஹைட்ரஜன் பிணைப்புகள்", "சர்க்கரை-பாஸ்பேட் அலகுகள்"], "explanation": "நைட்ரஜன் காரங்கள் மையத்தில் உள்ளன."}
+      "en": {
+        "q": "The backbone of the DNA molecule is formed by",
+        "options": [
+          "nitrogenous bases",
+          "5-carbon sugar alone",
+          "hydrogen bonds",
+          "sugar-phosphate units"
+        ],
+        "explanation": "Nitrogenous bases lie in the centre."
+      },
+      "ta": {
+        "q": "DNA மூலக்கூறின் முதுகெலும்பை உருவாக்குபவை எவை?",
+        "options": [
+          "நைட்ரஜன் காரங்கள்",
+          "5-கார்பன் சர்க்கரை மட்டும்",
+          "ஹைட்ரஜன் பிணைப்புகள்",
+          "சர்க்கரை-பாஸ்பேட் அலகுகள்"
+        ],
+        "explanation": "நைட்ரஜன் காரங்கள் மையத்தில் உள்ளன."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 267,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 267,
       "quote": "Adenine (A) links Thymine (T) with two hydrogen bonds (A = T) Cytosine (C) links Guanine (G) with three hydrogen bonds (C ≡ G)",
       "answer": "A",
-      "en": {"q": "In DNA, cytosine pairs with guanine through", "options": ["three hydrogen bonds", "two hydrogen bonds", "one hydrogen bond", "a phosphodiester bond"], "explanation": "Adenine pairs with thymine through two hydrogen bonds."},
-      "ta": {"q": "DNA இல் சைட்டோசின் குவானினுடன் எவ்வாறு இணைகிறது?", "options": ["மூன்று ஹைட்ரஜன் பிணைப்புகள்", "இரண்டு ஹைட்ரஜன் பிணைப்புகள்", "ஒரு ஹைட்ரஜன் பிணைப்பு", "பாஸ்போடைஎஸ்டர் பிணைப்பு"], "explanation": "அடினின் தைமினுடன் இரண்டு ஹைட்ரஜன் பிணைப்புகளால் இணைகிறது."}
+      "en": {
+        "q": "In DNA, cytosine pairs with guanine through",
+        "options": [
+          "three hydrogen bonds",
+          "two hydrogen bonds",
+          "one hydrogen bond",
+          "a phosphodiester bond"
+        ],
+        "explanation": "Adenine pairs with thymine through two hydrogen bonds."
+      },
+      "ta": {
+        "q": "DNA இல் சைட்டோசின் குவானினுடன் எவ்வாறு இணைகிறது?",
+        "options": [
+          "மூன்று ஹைட்ரஜன் பிணைப்புகள்",
+          "இரண்டு ஹைட்ரஜன் பிணைப்புகள்",
+          "ஒரு ஹைட்ரஜன் பிணைப்பு",
+          "பாஸ்போடைஎஸ்டர் பிணைப்பு"
+        ],
+        "explanation": "அடினின் தைமினுடன் இரண்டு ஹைட்ரஜன் பிணைப்புகளால் இணைகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 267,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 267,
       "quote": "Each turn of the double helix is 34 A° (3.4 nm). There are ten base pairs in a complete turn. The nucleotides in a helix are joined together by phosphodiester bonds.",
       "answer": "B",
-      "en": {"q": "How many base pairs are there in one complete turn of the DNA double helix?", "options": ["Five", "Ten", "Twenty", "Thirty-four"], "explanation": "Each turn is 34 Å (3.4 nm) long."},
-      "ta": {"q": "DNA இரட்டைச் சுருளின் ஒரு முழுச் சுற்றில் எத்தனை கார இணைகள் உள்ளன?", "options": ["ஐந்து", "பத்து", "இருபது", "முப்பத்து நான்கு"], "explanation": "ஒவ்வொரு சுற்றும் 34 Å (3.4 nm) நீளம்."}
+      "en": {
+        "q": "How many base pairs are there in one complete turn of the DNA double helix?",
+        "options": [
+          "Five",
+          "Ten",
+          "Twenty",
+          "Thirty-four"
+        ],
+        "explanation": "Each turn is 34 Å (3.4 nm) long."
+      },
+      "ta": {
+        "q": "DNA இரட்டைச் சுருளின் ஒரு முழுச் சுற்றில் எத்தனை கார இணைகள் உள்ளன?",
+        "options": [
+          "ஐந்து",
+          "பத்து",
+          "இருபது",
+          "முப்பத்து நான்கு"
+        ],
+        "explanation": "ஒவ்வொரு சுற்றும் 34 Å (3.4 nm) நீளம்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 267,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 267,
       "quote": "The nucleotides in a helix are joined together by phosphodiester bonds.",
       "answer": "C",
-      "en": {"q": "The bond which joins the nucleotides in a DNA strand is the", "options": ["hydrogen bond", "peptide bond", "phosphodiester bond", "ionic bond"], "explanation": "Hydrogen bonds join complementary bases across the two strands."},
-      "ta": {"q": "DNA இழையில் நியூக்ளியோடைடுகளை இணைக்கும் பிணைப்பு எது?", "options": ["ஹைட்ரஜன் பிணைப்பு", "பெப்டைடு பிணைப்பு", "பாஸ்போடைஎஸ்டர் பிணைப்பு", "அயனிப் பிணைப்பு"], "explanation": "ஹைட்ரஜன் பிணைப்புகள் இரு இழைகளின் நிரப்புக் காரங்களை இணைக்கின்றன."}
+      "en": {
+        "q": "The bond which joins the nucleotides in a DNA strand is the",
+        "options": [
+          "weak hydrogen bond",
+          "covalent peptide bond",
+          "phosphodiester bond",
+          "strong ionic bond"
+        ],
+        "explanation": "Hydrogen bonds join complementary bases across the two strands."
+      },
+      "ta": {
+        "q": "DNA இழையில் நியூக்ளியோடைடுகளை இணைக்கும் பிணைப்பு எது?",
+        "options": [
+          "பலவீன ஹைட்ரஜன் பிணைப்பு",
+          "கூட்டிணைவுப் பெப்டைடு பிணைப்பு",
+          "பாஸ்போடைஎஸ்டர் பிணைப்பு",
+          "வலிமையான அயனிப் பிணைப்பு"
+        ],
+        "explanation": "ஹைட்ரஜன் பிணைப்புகள் இரு இழைகளின் நிரப்புக் காரங்களை இணைக்கின்றன."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 267,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 267,
       "quote": "Chargaff rule of DNA base pairing Erwin Chargaff states that in DNA, the proportion of adenine is always equal to that of thymine. and the proportion of guanine always equal to that of cytosine.",
       "answer": "D",
-      "en": {"q": "According to Chargaff's rule, in DNA the proportion of adenine is always equal to that of", "options": ["guanine", "cytosine", "uracil", "thymine"], "explanation": "Guanine likewise equals cytosine."},
-      "ta": {"q": "சார்காஃப் விதிப்படி DNA இல் அடினினின் விகிதம் எப்போதும் எதற்குச் சமம்?", "options": ["குவானின்", "சைட்டோசின்", "யூராசில்", "தைமின்"], "explanation": "அதுபோலக் குவானின் சைட்டோசினுக்குச் சமம்."}
+      "en": {
+        "q": "According to Chargaff's rule, in DNA the proportion of adenine is always equal to that of",
+        "options": [
+          "guanine",
+          "cytosine",
+          "uracil",
+          "thymine"
+        ],
+        "explanation": "Guanine likewise equals cytosine."
+      },
+      "ta": {
+        "q": "சார்காஃப் விதிப்படி DNA இல் அடினினின் விகிதம் எப்போதும் எதற்குச் சமம்?",
+        "options": [
+          "குவானின்",
+          "சைட்டோசின்",
+          "யூராசில்",
+          "தைமின்"
+        ],
+        "explanation": "அதுபோலக் குவானின் சைட்டோசினுக்குச் சமம்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 268,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 268,
       "quote": "The enzyme called helicase, bind to the origin of replication site. Helicase separates the two strands of the DNA. The enzyme called topoisomerase separates the double helix above the replication fork and removes the twists",
       "answer": "A",
-      "en": {"q": "During DNA replication, the enzyme that separates the two strands of DNA is", "options": ["helicase", "DNA ligase", "DNA polymerase", "primase"], "explanation": "Topoisomerase removes the twists formed during unwinding."},
-      "ta": {"q": "DNA இரட்டிப்பின்போது DNA இன் இரு இழைகளைப் பிரிக்கும் நொதி எது?", "options": ["ஹெலிகேஸ்", "DNA லைகேஸ்", "DNA பாலிமரேஸ்", "பிரைமேஸ்"], "explanation": "டோபோஐசோமரேஸ் பிரியும்போது ஏற்படும் முறுக்குகளை நீக்குகிறது."}
+      "en": {
+        "q": "During DNA replication, the enzyme that separates the two strands of DNA is",
+        "options": [
+          "helicase",
+          "DNA ligase",
+          "DNA polymerase",
+          "primase"
+        ],
+        "explanation": "Topoisomerase removes the twists formed during unwinding."
+      },
+      "ta": {
+        "q": "DNA இரட்டிப்பின்போது DNA இன் இரு இழைகளைப் பிரிக்கும் நொதி எது?",
+        "options": [
+          "ஹெலிகேஸ்",
+          "DNA லைகேஸ்",
+          "DNA பாலிமரேஸ்",
+          "பிரைமேஸ்"
+        ],
+        "explanation": "டோபோஐசோமரேஸ் பிரியும்போது ஏற்படும் முறுக்குகளை நீக்குகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 268,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 268,
       "quote": "After the formation of RNA primer, the nucleotides are added with the help of an enzyme DNA polymerase and a new complementary strand of DNA is formed from each of the parent strand.",
       "answer": "B",
-      "en": {"q": "New nucleotides are added to form the complementary DNA strand with the help of", "options": ["helicase", "DNA polymerase", "topoisomerase", "DNA ligase"], "explanation": "Synthesis starts after formation of an RNA primer."},
-      "ta": {"q": "புதிய நிரப்பு DNA இழையை உருவாக்க நியூக்ளியோடைடுகள் எதன் உதவியால் சேர்க்கப்படுகின்றன?", "options": ["ஹெலிகேஸ்", "DNA பாலிமரேஸ்", "டோபோஐசோமரேஸ்", "DNA லைகேஸ்"], "explanation": "RNA பிரைமர் உருவான பின் தொகுப்பு தொடங்குகிறது."}
+      "en": {
+        "q": "New nucleotides are added to form the complementary DNA strand with the help of",
+        "options": [
+          "helicase",
+          "DNA polymerase",
+          "topoisomerase",
+          "DNA ligase"
+        ],
+        "explanation": "Synthesis starts after formation of an RNA primer."
+      },
+      "ta": {
+        "q": "புதிய நிரப்பு DNA இழையை உருவாக்க நியூக்ளியோடைடுகள் எதன் உதவியால் சேர்க்கப்படுகின்றன?",
+        "options": [
+          "ஹெலிகேஸ்",
+          "DNA பாலிமரேஸ்",
+          "டோபோஐசோமரேஸ்",
+          "DNA லைகேஸ்"
+        ],
+        "explanation": "RNA பிரைமர் உருவான பின் தொகுப்பு தொடங்குகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 268,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 268,
       "quote": "In the other strand, short segments of DNA are synthesized. This strand is called lagging strand. The short segments of DNA are called Okazaki fragments. The fragments are joined together by the enzyme, DNA ligase.",
       "answer": "C",
-      "en": {"q": "Okazaki fragments on the lagging strand are joined together by", "options": ["helicase", "DNA polymerase", "DNA ligase", "RNA primer"], "explanation": "The leading strand is synthesised continuously."},
-      "ta": {"q": "பின்தங்கும் இழையின் ஒகசாகி துண்டுகளை இணைப்பது எது?", "options": ["ஹெலிகேஸ்", "DNA பாலிமரேஸ்", "DNA லைகேஸ்", "RNA பிரைமர்"], "explanation": "முன்னிலை இழை தொடர்ச்சியாகத் தொகுக்கப்படுகிறது."}
+      "en": {
+        "q": "Okazaki fragments on the lagging strand are joined together by",
+        "options": [
+          "helicase",
+          "DNA polymerase",
+          "DNA ligase",
+          "RNA primer"
+        ],
+        "explanation": "The leading strand is synthesised continuously."
+      },
+      "ta": {
+        "q": "பின்தங்கும் இழையின் ஒகசாகி துண்டுகளை இணைப்பது எது?",
+        "options": [
+          "ஹெலிகேஸ்",
+          "DNA பாலிமரேஸ்",
+          "DNA லைகேஸ்",
+          "RNA பிரைமர்"
+        ],
+        "explanation": "முன்னிலை இழை தொடர்ச்சியாகத் தொகுக்கப்படுகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 269,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 269,
       "quote": "The male gametes or sperms produced are of two types. ... The sperm bearing (22+X) chromosomes and the sperm bearing (22+Y) chromosomes. The human males are called heterogametic. ... The sperm, produced by the father, determines the sex of the child.",
       "answer": "D",
-      "en": {"q": "In humans, the sex of the child is determined by", "options": ["the mother's egg", "both parents equally", "the number of autosomes", "the sperm produced by the father"], "explanation": "Males are heterogametic, producing X-bearing and Y-bearing sperms."},
-      "ta": {"q": "மனிதர்களில் குழந்தையின் பாலினத்தைத் தீர்மானிப்பது எது?", "options": ["தாயின் அண்டம்", "இரு பெற்றோரும் சமமாக", "உடல் குரோமோசோம்களின் எண்ணிக்கை", "தந்தை உருவாக்கும் விந்தணு"], "explanation": "ஆண்கள் X, Y கொண்ட இருவகை விந்தணுக்களை உருவாக்கும் பல்வகைக் கேமீட்டுடையவர்கள்."}
+      "en": {
+        "q": "In humans, the sex of the child is determined by",
+        "options": [
+          "the mother's egg",
+          "both parents equally",
+          "the number of autosomes",
+          "the sperm produced by the father"
+        ],
+        "explanation": "Males are heterogametic, producing X-bearing and Y-bearing sperms."
+      },
+      "ta": {
+        "q": "மனிதர்களில் குழந்தையின் பாலினத்தைத் தீர்மானிப்பது எது?",
+        "options": [
+          "தாயின் அண்டம்",
+          "இரு பெற்றோரும் சமமாக",
+          "உடல் குரோமோசோம்களின் எண்ணிக்கை",
+          "தந்தை உருவாக்கும் விந்தணு"
+        ],
+        "explanation": "ஆண்கள் X, Y கொண்ட இருவகை விந்தணுக்களை உருவாக்கும் பல்வகைக் கேமீட்டுடையவர்கள்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 269,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 269,
       "quote": "Fertilization of the egg (22+X) with a sperm (22+X) will produce a female child (44+XX). while fertilization of the egg (22+X) with a sperm (22+Y) will give rise to a male child (44+XY).",
       "answer": "A",
-      "en": {"q": "Fertilisation of an egg (22+X) by a sperm (22+Y) gives rise to a", "options": ["male child (44+XY)", "female child (44+XX)", "child with Down's syndrome", "triploid zygote"], "explanation": "An X-bearing sperm gives a female child (44+XX)."},
-      "ta": {"q": "அண்டம் (22+X) விந்தணுவால் (22+Y) கருவுறும்போது உருவாவது", "options": ["ஆண் குழந்தை (44+XY)", "பெண் குழந்தை (44+XX)", "டவுன் சிண்ட்ரோம் குழந்தை", "மும்மய சைகோட்"], "explanation": "X கொண்ட விந்தணு பெண் குழந்தையை (44+XX) உருவாக்கும்."}
+      "en": {
+        "q": "Fertilisation of an egg (22+X) by a sperm (22+Y) gives rise to a",
+        "options": [
+          "male child (44+XY)",
+          "female child (44+XX)",
+          "child with Down's syndrome",
+          "triploid zygote"
+        ],
+        "explanation": "An X-bearing sperm gives a female child (44+XX)."
+      },
+      "ta": {
+        "q": "அண்டம் (22+X) விந்தணுவால் (22+Y) கருவுறும்போது உருவாவது",
+        "options": [
+          "ஆண் குழந்தை (44+XY)",
+          "பெண் குழந்தை (44+XX)",
+          "டவுன் சிண்ட்ரோம் குழந்தை",
+          "மும்மய சைகோட்"
+        ],
+        "explanation": "X கொண்ட விந்தணு பெண் குழந்தையை (44+XX) உருவாக்கும்."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 269,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 269,
       "quote": "The term mutation was introduced by Hugo De Vries in 1901 when he observed phenotypic changes in the evening primrose plant, Oenothera lamarckiana.",
       "answer": "B",
-      "en": {"q": "The term 'mutation' was introduced in 1901 by", "options": ["Gregor Mendel", "Hugo de Vries", "Langdon Down", "Waldeyer"], "explanation": "He observed changes in the evening primrose, Oenothera lamarckiana."},
-      "ta": {"q": "1901இல் 'திடீர் மாற்றம்' (மியூட்டேஷன்) என்ற சொல்லை அறிமுகப்படுத்தியவர் யார்?", "options": ["கிரிகர் மெண்டல்", "ஹியூகோ டி விரீஸ்", "லாங்டன் டவுன்", "வால்டேயர்"], "explanation": "மாலை ப்ரிம்ரோஸ் தாவரத்தில் (ஈனோதீரா லாமார்க்கியானா) மாற்றங்களைக் கண்டார்."}
+      "en": {
+        "q": "The term 'mutation' was introduced in 1901 by",
+        "options": [
+          "Gregor Mendel",
+          "Hugo de Vries",
+          "Langdon Down",
+          "Waldeyer"
+        ],
+        "explanation": "He observed changes in the evening primrose, Oenothera lamarckiana."
+      },
+      "ta": {
+        "q": "1901இல் 'திடீர் மாற்றம்' (மியூட்டேஷன்) என்ற சொல்லை அறிமுகப்படுத்தியவர் யார்?",
+        "options": [
+          "கிரிகர் மெண்டல்",
+          "ஹியூகோ டி விரீஸ்",
+          "லாங்டன் டவுன்",
+          "வால்டேயர்"
+        ],
+        "explanation": "மாலை ப்ரிம்ரோஸ் தாவரத்தில் (ஈனோதீரா லாமார்க்கியானா) மாற்றங்களைக் கண்டார்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 269,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 269,
       "quote": "Mutation is an inheritable sudden change in the genetic material (DNA) of an organism.",
       "answer": "C",
-      "en": {"q": "An inheritable sudden change in the genetic material of an organism is called", "options": ["variation", "heredity", "mutation", "replication"], "explanation": "Mutations are chromosomal or gene (point) mutations."},
-      "ta": {"q": "ஓர் உயிரினத்தின் மரபுப் பொருளில் ஏற்படும் பாரம்பரியமாகக் கடத்தப்படும் திடீர் மாற்றம் எவ்வாறு அழைக்கப்படும்?", "options": ["வேறுபாடு", "பாரம்பரியம்", "திடீர் மாற்றம்", "இரட்டிப்பு"], "explanation": "திடீர் மாற்றங்கள் குரோமோசோம் அல்லது மரபணு (புள்ளி) மாற்றங்கள்."}
+      "en": {
+        "q": "An inheritable sudden change in the genetic material of an organism is called",
+        "options": [
+          "variation",
+          "heredity",
+          "mutation",
+          "replication"
+        ],
+        "explanation": "Mutations are chromosomal or gene (point) mutations."
+      },
+      "ta": {
+        "q": "ஓர் உயிரினத்தின் மரபுப் பொருளில் ஏற்படும் பாரம்பரியமாகக் கடத்தப்படும் திடீர் மாற்றம் எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "வேறுபாடு",
+          "பாரம்பரியம்",
+          "திடீர் மாற்றம்",
+          "இரட்டிப்பு"
+        ],
+        "explanation": "திடீர் மாற்றங்கள் குரோமோசோம் அல்லது மரபணு (புள்ளி) மாற்றங்கள்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 269,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 269,
       "quote": "Triploid plants and animals are typically sterile. If it has four haploid sets of chromosomes, the condition is called tetraploidy (4n). Tetraploid plants are advantageous as they often result in increased fruit and flower size.",
       "answer": "D",
-      "en": {"q": "Tetraploid plants are advantageous because they often have", "options": ["fewer chromosomes", "sterile seeds", "no flowers", "larger fruits and flowers"], "explanation": "Triploid plants and animals are typically sterile."},
-      "ta": {"q": "நான்மயத் தாவரங்கள் நன்மை பயப்பவை; ஏனெனில் அவற்றில் பெரும்பாலும்", "options": ["குறைந்த குரோமோசோம்கள்", "மலட்டு விதைகள்", "மலர்கள் இல்லை", "பெரிய கனிகளும் மலர்களும்"], "explanation": "மும்மயத் தாவரங்களும் விலங்குகளும் பொதுவாக மலட்டுத்தன்மை உடையவை."}
+      "en": {
+        "q": "Tetraploid plants are advantageous because they often have",
+        "options": [
+          "fewer chromosomes than normal",
+          "smaller fruits and leaves",
+          "no flowers on the plant",
+          "larger fruits and flowers"
+        ],
+        "explanation": "Triploid plants and animals are typically sterile."
+      },
+      "ta": {
+        "q": "நான்மயத் தாவரங்கள் நன்மை பயப்பவை; ஏனெனில் அவற்றில் பெரும்பாலும்",
+        "options": [
+          "இயல்பை விடக் குறைந்த குரோமோசோம்கள்",
+          "சிறிய கனிகளும் இலைகளும்",
+          "தாவரத்தில் மலர்கள் இல்லை",
+          "பெரிய கனிகளும் மலர்களும்"
+        ],
+        "explanation": "மும்மயத் தாவரங்களும் விலங்குகளும் பொதுவாக மலட்டுத்தன்மை உடையவை."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 270,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 270,
       "quote": "Aneuploidy: It is the loss or gain of one or more chromosomes in a set. It is of three types. Monosomy (2n-1), Trisomy (2n+1) and Nullisomy (2n-2).",
       "answer": "A",
-      "en": {"q": "The loss or gain of one or more chromosomes in a set is called", "options": ["aneuploidy", "euploidy", "tetraploidy", "polyploidy"], "explanation": "Its types are monosomy (2n−1), trisomy (2n+1) and nullisomy (2n−2)."},
-      "ta": {"q": "ஒரு தொகுதியில் ஒன்று அல்லது அதற்கு மேற்பட்ட குரோமோசோம்கள் இழக்கப்படுதல் அல்லது கூடுதல் எவ்வாறு அழைக்கப்படும்?", "options": ["அனூப்ளாய்டி", "யூப்ளாய்டி", "நான்மயம்", "பன்மயம்"], "explanation": "வகைகள்: மோனோசோமி (2n−1), டிரைசோமி (2n+1), நல்லிசோமி (2n−2)."}
+      "en": {
+        "q": "The loss or gain of one or more chromosomes in a set is called",
+        "options": [
+          "aneuploidy",
+          "euploidy",
+          "tetraploidy",
+          "polyploidy"
+        ],
+        "explanation": "Its types are monosomy (2n−1), trisomy (2n+1) and nullisomy (2n−2)."
+      },
+      "ta": {
+        "q": "ஒரு தொகுதியில் ஒன்று அல்லது அதற்கு மேற்பட்ட குரோமோசோம்கள் இழக்கப்படுதல் அல்லது கூடுதல் எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "அனூப்ளாய்டி",
+          "யூப்ளாய்டி",
+          "நான்மயம்",
+          "பன்மயம்"
+        ],
+        "explanation": "வகைகள்: மோனோசோமி (2n−1), டிரைசோமி (2n+1), நல்லிசோமி (2n−2)."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 270,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 270,
       "quote": "This condition was first identified by a doctor named Langdon Down in 1866. It is a genetic condition in which there is an extra copy of chromosome 21 (Trisomy 21).",
       "answer": "B",
-      "en": {"q": "Down's syndrome is caused by", "options": ["monosomy of chromosome 21", "an extra copy of chromosome 21 (trisomy 21)", "loss of the Y chromosome", "a single gene mutation in haemoglobin"], "explanation": "It was first identified by Langdon Down in 1866."},
-      "ta": {"q": "டவுன் சிண்ட்ரோம் எதனால் ஏற்படுகிறது?", "options": ["21ஆவது குரோமோசோம் மோனோசோமி", "21ஆவது குரோமோசோமின் கூடுதல் நகல் (டிரைசோமி 21)", "Y குரோமோசோம் இழப்பு", "ஹீமோகுளோபினில் ஒற்றை மரபணு மாற்றம்"], "explanation": "இதை 1866இல் லாங்டன் டவுன் முதலில் கண்டறிந்தார்."}
+      "en": {
+        "q": "Down's syndrome is caused by",
+        "options": [
+          "monosomy of chromosome 21",
+          "an extra copy of chromosome 21",
+          "loss of the Y chromosome",
+          "a single gene mutation in haemoglobin"
+        ],
+        "explanation": "It was first identified by Langdon Down in 1866."
+      },
+      "ta": {
+        "q": "டவுன் சிண்ட்ரோம் எதனால் ஏற்படுகிறது?",
+        "options": [
+          "21ஆவது குரோமோசோம் மோனோசோமி",
+          "21ஆவது குரோமோசோமின் கூடுதல் நகல்",
+          "Y குரோமோசோம் இழப்பு",
+          "ஹீமோகுளோபினில் ஒற்றை மரபணு மாற்றம்"
+        ],
+        "explanation": "இதை 1866இல் லாங்டன் டவுன் முதலில் கண்டறிந்தார்."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 270,
+      "topic": "zoology-human-physiology",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 270,
       "quote": "Sickle cell anaemia is caused by the mutation of a single gene. Alteration in the gene brings a change in the structure of the protein part of haemoglobin molecule. Due to the change in the protein molecule, the red blood cell (RBC) that carries the haemoglobin is sickle shaped.",
       "answer": "C",
-      "en": {"q": "Sickle cell anaemia is an example of", "options": ["trisomy", "euploidy", "gene (point) mutation", "chromosomal deletion"], "explanation": "A single gene mutation changes the protein part of haemoglobin."},
-      "ta": {"q": "அரிவாள் செல் இரத்தசோகை எதற்கு எடுத்துக்காட்டு?", "options": ["டிரைசோமி", "யூப்ளாய்டி", "மரபணு (புள்ளி) திடீர் மாற்றம்", "குரோமோசோம் நீக்கம்"], "explanation": "ஒற்றை மரபணு மாற்றம் ஹீமோகுளோபினின் புரதப் பகுதியை மாற்றுகிறது."}
+      "en": {
+        "q": "Sickle cell anaemia is an example of",
+        "options": [
+          "trisomy",
+          "euploidy",
+          "gene mutation",
+          "chromosomal deletion"
+        ],
+        "explanation": "A single gene mutation changes the protein part of haemoglobin."
+      },
+      "ta": {
+        "q": "அரிவாள் செல் இரத்தசோகை எதற்கு எடுத்துக்காட்டு?",
+        "options": [
+          "டிரைசோமி",
+          "யூப்ளாய்டி",
+          "மரபணுத் திடீர் மாற்றம்",
+          "குரோமோசோம் நீக்கம்"
+        ],
+        "explanation": "ஒற்றை மரபணு மாற்றம் ஹீமோகுளோபினின் புரதப் பகுதியை மாற்றுகிறது."
+      }
     },
     {
-      "topic": "zoology-human-physiology", "format": "match_the_following", "difficulty": "medium", "bloom": "remember", "page": 272,
+      "topic": "zoology-human-physiology",
+      "format": "match_the_following",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 272,
       "quote": "Autosomes - 22 pair of chromosome; Diploid condition - 2n; Allosome - 23rd pair of chromosome; Down's syndrome - Trisomy 21",
       "answer": "D",
-      "en": {"q": "Match: (a) Autosomes (b) Diploid condition (c) Allosome (d) Down's syndrome — (1) Trisomy 21 (2) 23rd pair of chromosomes (3) 2n (4) 22 pairs of chromosomes", "options": ["a-1, b-2, c-3, d-4", "a-2, b-1, c-4, d-3", "a-3, b-4, c-1, d-2", "a-4, b-3, c-2, d-1"], "explanation": "Autosomes are 22 pairs; diploid is 2n; allosome is the 23rd pair; Down's syndrome is trisomy 21."},
-      "ta": {"q": "பொருத்துக: (a) உடல் குரோமோசோம்கள் (b) இருமய நிலை (c) பால் குரோமோசோம் (d) டவுன் சிண்ட்ரோம் — (1) டிரைசோமி 21 (2) 23ஆவது இணை குரோமோசோம் (3) 2n (4) 22 இணை குரோமோசோம்கள்", "options": ["a-1, b-2, c-3, d-4", "a-2, b-1, c-4, d-3", "a-3, b-4, c-1, d-2", "a-4, b-3, c-2, d-1"], "explanation": "உடல் குரோமோசோம்கள் 22 இணை; இருமயம் 2n; பால் குரோமோசோம் 23ஆவது இணை; டவுன் சிண்ட்ரோம் டிரைசோமி 21."}
+      "en": {
+        "q": "Match: (a) Autosomes (b) Diploid condition (c) Allosome (d) Down's syndrome — (1) Trisomy 21 (2) 23rd pair of chromosomes (3) 2n (4) 22 pairs of chromosomes",
+        "options": [
+          "a-1, b-2, c-3, d-4",
+          "a-2, b-1, c-4, d-3",
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-2, d-1"
+        ],
+        "explanation": "Autosomes are 22 pairs; diploid is 2n; allosome is the 23rd pair; Down's syndrome is trisomy 21."
+      },
+      "ta": {
+        "q": "பொருத்துக: (a) உடல் குரோமோசோம்கள் (b) இருமய நிலை (c) பால் குரோமோசோம் (d) டவுன் சிண்ட்ரோம் — (1) டிரைசோமி 21 (2) 23ஆவது இணை குரோமோசோம் (3) 2n (4) 22 இணை குரோமோசோம்கள்",
+        "options": [
+          "a-1, b-2, c-3, d-4",
+          "a-2, b-1, c-4, d-3",
+          "a-3, b-4, c-1, d-2",
+          "a-4, b-3, c-2, d-1"
+        ],
+        "explanation": "உடல் குரோமோசோம்கள் 22 இணை; இருமயம் 2n; பால் குரோமோசோம் 23ஆவது இணை; டவுன் சிண்ட்ரோம் டிரைசோமி 21."
+      }
     }
   ]
 }

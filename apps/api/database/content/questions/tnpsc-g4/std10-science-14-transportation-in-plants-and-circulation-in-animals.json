@@ -24,7 +24,7 @@
       "ta": {
         "q": "தாவரங்களின் வாஸ்குலார் திசு வழியே பொருள்கள் பெருமளவில் நகர்வது எவ்வாறு அழைக்கப்படும்?",
         "options": [
-          "இடமாற்றம் (டிரான்ஸ்லொகேஷன்)",
+          "இடமாற்றம்",
           "நீராவிப்போக்கு",
           "உள்ளீர்த்தல்",
           "நீர்க்கசிவு"
@@ -43,20 +43,20 @@
       "en": {
         "q": "Which of the following processes requires energy?",
         "options": [
-          "Diffusion",
+          "Simple diffusion",
           "Active transport",
-          "Osmosis",
-          "Imbibition"
+          "Osmosis in cells",
+          "Imbibition in seeds"
         ],
         "explanation": "Active transport moves molecules against the concentration gradient, an 'uphill' task."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் ஆற்றல் தேவைப்படும் செயல்முறை எது?",
         "options": [
-          "விரவல்",
+          "எளிய விரவல்",
           "செயல்மிகு கடத்தல்",
-          "சவ்வூடுபரவல்",
-          "உள்ளீர்த்தல்"
+          "செல்களில் சவ்வூடுபரவல்",
+          "விதைகளில் உள்ளீர்த்தல்"
         ],
         "explanation": "செயல்மிகு கடத்தல் செறிவு வேறுபாட்டுக்கு எதிராக மூலக்கூறுகளை நகர்த்துகிறது."
       }
@@ -130,20 +130,20 @@
       "en": {
         "q": "Root hairs are",
         "options": [
-          "cortical cells",
-          "slender extensions of epidermal cells",
-          "parts of xylem",
-          "multicellular branches"
+          "enlarged cortical cells",
+          "slender epidermal cell extensions",
+          "parts of the xylem tissue",
+          "multicellular root branches"
         ],
         "explanation": "They increase the surface area for absorption of water and minerals."
       },
       "ta": {
         "q": "வேர்த்தூவிகள் என்பவை",
         "options": [
-          "புறணிச் செல்கள்",
-          "புறத்தோல் செல்களின் மெல்லிய நீட்சிகள்",
-          "சைலத்தின் பகுதிகள்",
-          "பலசெல் கிளைகள்"
+          "பெரிய புறணிச் செல்கள்",
+          "புறத்தோல் செல்களின் நீட்சிகள்",
+          "சைலக் குழாய்களின் பகுதிகள்",
+          "பலசெல் வேர்க் கிளைகள்"
         ],
         "explanation": "நீர், கனிம உறிஞ்சுதலுக்கான பரப்பை அதிகரிக்கின்றன."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "The symplastic pathway of water movement involves",
         "options": [
-          "only cell walls",
-          "only intercellular spaces",
-          "xylem vessels only",
-          "plasma membrane, cytoplasm and plasmodesmata"
+          "cell walls and intercellular spaces",
+          "xylem vessels and tracheids",
+          "the cuticle and epidermal wall",
+          "cytoplasm, membranes and plasmodesmata"
         ],
         "explanation": "It is slower than the apoplast pathway."
       },
       "ta": {
         "q": "நீர் நகர்வின் சிம்பிளாஸ்ட் பாதையில் ஈடுபடுபவை எவை?",
         "options": [
-          "செல் சுவர்கள் மட்டும்",
-          "செல் இடைவெளிகள் மட்டும்",
-          "சைலக் குழாய்கள் மட்டும்",
-          "பிளாஸ்மா சவ்வு, சைட்டோபிளாசம், பிளாஸ்மோடெஸ்மாட்டா"
+          "செல் சுவர்கள், செல் இடைவெளிகள்",
+          "சைலக் குழாய்கள், டிராக்கீடுகள்",
+          "கியூட்டிக்கிள், புறத்தோல் சுவர்",
+          "சைட்டோபிளாசம், பிளாஸ்மோடெஸ்மாட்டா"
         ],
         "explanation": "இது அப்போபிளாஸ்ட் பாதையை விட மெதுவானது."
       }
@@ -391,20 +391,20 @@
       "en": {
         "q": "Which statement about transport in plants is correct?",
         "options": [
-          "Phloem transports glucose only upwards",
-          "Xylem movement is bidirectional",
-          "Phloem transports sucrose and its movement is bidirectional",
-          "Xylem transports food"
+          "Phloem carries water and minerals upwards",
+          "Xylem carries sucrose in both directions",
+          "Phloem carries sucrose in both directions",
+          "Xylem transports food to all organs"
         ],
         "explanation": "Xylem movement is always upward."
       },
       "ta": {
         "q": "தாவரக் கடத்தல் குறித்த சரியான கூற்று எது?",
         "options": [
-          "ஃபுளோயம் குளுக்கோஸை மேல்நோக்கி மட்டும் கடத்தும்",
-          "சைலத்தில் இருதிசை நகர்வு",
-          "ஃபுளோயம் சுக்ரோஸைக் கடத்தும்; அதன் நகர்வு இருதிசை",
-          "சைலம் உணவைக் கடத்தும்"
+          "ஃபுளோயம் நீர், கனிமங்களை மேல்நோக்கிக் கடத்தும்",
+          "சைலம் சுக்ரோஸை இருதிசையிலும் கடத்தும்",
+          "ஃபுளோயம் சுக்ரோஸை இருதிசையிலும் கடத்தும்",
+          "சைலம் உணவை அனைத்து உறுப்புகளுக்கும் கடத்தும்"
         ],
         "explanation": "சைலத்தில் நகர்வு எப்போதும் மேல்நோக்கி."
       }
@@ -430,9 +430,9 @@
       "ta": {
         "q": "மூலத்திலிருந்து சேமிப்பிடத்திற்குச் சர்க்கரை இடமாற்றம் எந்தக் கருதுகோளால் விளக்கப்படுகிறது?",
         "options": [
-          "ஒட்டுவிசைக் கொள்கை",
-          "வேரழுத்தக் கொள்கை",
-          "உள்ளீர்த்தல் கொள்கை",
+          "ஒட்டுவிசை, ஒருங்கிணைவுக் கொள்கை",
+          "வேரழுத்த விளக்கக் கொள்கை",
+          "உள்ளீர்த்தல் விசைக் கொள்கை",
           "அழுத்தப் பாய்வுக் கருதுகோள்"
         ],
         "explanation": "சுக்ரோஸ் செயல்மிகு கடத்தலால் ஃபுளோயத்தில் நுழைகிறது; சவ்வூடுபரவலால் நீர் பின்தொடர்கிறது."
@@ -489,7 +489,7 @@
         "q": "வேரழுத்தத்தால் அதிகாலையில் புல் இலைகளிலிருந்து நீர்த்துளிகள் வெளியேறுவது எவ்வாறு அழைக்கப்படும்?",
         "options": [
           "நீராவிப்போக்கு",
-          "நீர்க்கசிவு (கட்டேஷன்)",
+          "நீர்க்கசிவு",
           "உள்ளீர்த்தல்",
           "பிளாஸ்மா சிதைவு"
         ],
@@ -594,20 +594,20 @@
       "en": {
         "q": "Mammalian RBCs lack a nucleus mainly in order to",
         "options": [
-          "live longer",
-          "become biconcave and increase surface area for oxygen binding",
-          "produce antibodies",
-          "clot blood"
+          "live longer in the blood vessels",
+          "become biconcave and carry more oxygen",
+          "produce antibodies against germs",
+          "help the blood to clot quickly"
         ],
         "explanation": "Loss of mitochondria also lets them carry all oxygen to tissues."
       },
       "ta": {
         "q": "பாலூட்டிச் சிவப்பணுக்களில் உட்கரு இல்லாததற்கு முக்கியக் காரணம் என்ன?",
         "options": [
-          "நீண்ட காலம் வாழ",
-          "இருபுறம் குழிந்து ஆக்சிஜன் பிணைப்புக்கான பரப்பை அதிகரிக்க",
-          "எதிர்ப்பொருள்களை உருவாக்க",
-          "இரத்தத்தை உறைய வைக்க"
+          "இரத்தக் குழாய்களில் நீண்ட காலம் வாழ",
+          "இருபுறம் குழிந்து அதிக ஆக்சிஜனைக் கடத்த",
+          "நோய்க்கிருமிகளுக்கு எதிர்ப்பொருள் உருவாக்க",
+          "இரத்தத்தை விரைவாக உறைய வைக்க"
         ],
         "explanation": "மைட்டோகாண்ட்ரியா இல்லாததால் முழு ஆக்சிஜனையும் திசுக்களுக்குக் கொண்டு செல்ல இயலும்."
       }
@@ -855,20 +855,20 @@
       "en": {
         "q": "An open type of circulatory system is found in",
         "options": [
-          "vertebrates",
-          "mammals only",
+          "fishes and amphibians",
+          "mammals and birds",
           "arthropods and molluscs",
-          "birds"
+          "earthworms and leeches"
         ],
         "explanation": "In the closed type, as in vertebrates, blood flows through capillaries."
       },
       "ta": {
         "q": "திறந்த வகை இரத்த ஓட்ட மண்டலம் எவற்றில் காணப்படுகிறது?",
         "options": [
-          "முதுகெலும்பிகள்",
-          "பாலூட்டிகள் மட்டும்",
+          "மீன்கள், இருவாழ்விகள்",
+          "பாலூட்டிகள், பறவைகள்",
           "கணுக்காலிகள், மெல்லுடலிகள்",
-          "பறவைகள்"
+          "மண்புழுக்கள், அட்டைகள்"
         ],
         "explanation": "முதுகெலும்பிகளில் உள்ள மூடிய வகையில் இரத்தம் தந்துகிகள் வழியே செல்லும்."
       }
@@ -923,7 +923,7 @@
       "ta": {
         "q": "மனித இதயத்தின் இருசுவர் பாதுகாப்பு உறை எது?",
         "options": [
-          "இதய உறை (பெரிகார்டியம்)",
+          "இதய உறை",
           "புளூரா",
           "மூளையுறைகள்",
           "பெரிட்டோனியம்"
@@ -1232,9 +1232,9 @@
       "en": {
         "q": "The first heart sound 'LUBB' is produced by the closure of the",
         "options": [
-          "semilunar valves",
-          "aortic valve only",
-          "pulmonary valve only",
+          "semilunar valves of the heart",
+          "coronary and venous valves",
+          "valves in the large veins",
           "tricuspid and bicuspid valves"
         ],
         "explanation": "'DUPP' is produced by the closure of the semilunar valves."
@@ -1242,9 +1242,9 @@
       "ta": {
         "q": "முதல் இதய ஒலி 'லப்' எவற்றின் மூடுதலால் உருவாகிறது?",
         "options": [
-          "அரைச்சந்திர வால்வுகள்",
-          "பெருந்தமனி வால்வு மட்டும்",
-          "நுரையீரல் வால்வு மட்டும்",
+          "இதய அரைச்சந்திர வால்வுகள்",
+          "கரோனரி, சிரை வால்வுகள்",
+          "பெரிய சிரைகளின் வால்வுகள்",
           "மூவிதழ், ஈரிதழ் வால்வுகள்"
         ],
         "explanation": "'டப்' அரைச்சந்திர வால்வுகள் மூடுவதால் உருவாகிறது."
@@ -1290,20 +1290,20 @@
       "en": {
         "q": "The clinical instrument used to measure blood pressure is the",
         "options": [
-          "stethoscope",
+          "binaural stethoscope",
           "sphygmomanometer",
-          "dosimeter",
-          "thermometer"
+          "radiation dosimeter",
+          "clinical thermometer"
         ],
         "explanation": "It measures the pressure of the brachial artery."
       },
       "ta": {
         "q": "இரத்த அழுத்தத்தை அளக்கும் மருத்துவக் கருவி எது?",
         "options": [
-          "இதயத்துடிப்பு மானி (ஸ்டெதஸ்கோப்)",
+          "செவிக்குழாய் ஸ்டெதஸ்கோப்",
           "ஸ்பிக்மோமானோமீட்டர்",
-          "டோசிமீட்டர்",
-          "வெப்பநிலைமானி"
+          "கதிர்வீச்சு டோசிமீட்டர்",
+          "மருத்துவ வெப்பநிலைமானி"
         ],
         "explanation": "இது கைத்தமனியின் அழுத்தத்தை அளக்கிறது."
       }
@@ -1348,20 +1348,20 @@
       "en": {
         "q": "Persons with which blood group are called universal recipients?",
         "options": [
-          "O",
-          "A",
-          "B",
-          "AB"
+          "Group O",
+          "Group A",
+          "Group B",
+          "Group AB"
         ],
         "explanation": "AB has no antibodies in the plasma; O is the universal donor."
       },
       "ta": {
         "q": "எந்த இரத்த வகையினர் பொது இரத்தம் பெறுவோர் எனப்படுகின்றனர்?",
         "options": [
-          "O",
-          "A",
-          "B",
-          "AB"
+          "O வகை",
+          "A வகை",
+          "B வகை",
+          "AB வகை"
         ],
         "explanation": "AB பிளாஸ்மாவில் எதிர்ப்பொருள்கள் இல்லை; O பொது இரத்தக் கொடையாளர்."
       }
@@ -1447,7 +1447,7 @@
         "options": [
           "காற்றுப்பைகள்",
           "நெஃப்ரான்கள்",
-          "லேக்டியல்கள் (பால்நாளங்கள்)",
+          "லேக்டியல்கள்",
           "சைனஸ்கள்"
         ],
         "explanation": "நிணநீர் சிறுகுடலிலிருந்து உறிஞ்சப்பட்ட கொழுப்பை இரத்தத்திற்குக் கொண்டு செல்கிறது."

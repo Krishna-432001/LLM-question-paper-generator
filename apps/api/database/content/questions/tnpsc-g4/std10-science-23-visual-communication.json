@@ -4,158 +4,642 @@
   "breadcrumb": "Std 10 Science (English) — Unit 23: Visual Communication",
   "questions": [
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 330,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 330,
       "quote": "'Scratch' is a software used to create animations, cartoons and games easily.",
       "answer": "A",
-      "en": {"q": "Which software is used to create animations, cartoons and games easily?", "options": ["Scratch", "Paint", "PDF reader", "MS Word"], "explanation": "Scratch is a visual programming language."},
-      "ta": {"q": "அசைவூட்டங்கள், கார்ட்டூன்கள், விளையாட்டுகளை எளிதாக உருவாக்கப் பயன்படும் மென்பொருள் எது?", "options": ["ஸ்கிராச்", "பெயிண்ட்", "PDF ரீடர்", "MS வேர்டு"], "explanation": "ஸ்கிராச் ஒரு காட்சி நிரலாக்க மொழி."}
+      "en": {
+        "q": "Which software is used to create animations, cartoons and games easily?",
+        "options": [
+          "Scratch",
+          "Paint",
+          "PDF reader",
+          "MS Word"
+        ],
+        "explanation": "Scratch is a visual programming language."
+      },
+      "ta": {
+        "q": "அசைவூட்டங்கள், கார்ட்டூன்கள், விளையாட்டுகளை எளிதாக உருவாக்கப் பயன்படும் மென்பொருள் எது?",
+        "options": [
+          "ஸ்கிராச்",
+          "பெயிண்ட்",
+          "PDF ரீடர்",
+          "MS வேர்டு"
+        ],
+        "explanation": "ஸ்கிராச் ஒரு காட்சி நிரலாக்க மொழி."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 331,
       "quote": "It was developed in the Massachusetts Institute of Technology (MIT) Media Lab to make programming easier and more fun to learn.",
       "answer": "B",
-      "en": {"q": "The Scratch programming software was developed at", "options": ["Stanford University", "the MIT Media Lab", "Harvard University", "IIT Madras"], "explanation": "It was made to make programming easier and more fun to learn."},
-      "ta": {"q": "ஸ்கிராச் நிரலாக்க மென்பொருள் எங்கு உருவாக்கப்பட்டது?", "options": ["ஸ்டான்ஃபோர்டு பல்கலைக்கழகம்", "MIT மீடியா ஆய்வகம்", "ஹார்வர்டு பல்கலைக்கழகம்", "IIT சென்னை"], "explanation": "நிரலாக்கத்தை எளிதாகவும் மகிழ்ச்சியாகவும் கற்க இது உருவாக்கப்பட்டது."}
+      "en": {
+        "q": "The Scratch programming software was developed at",
+        "options": [
+          "Stanford University",
+          "the MIT Media Lab",
+          "Harvard University",
+          "IIT Madras"
+        ],
+        "explanation": "It was made to make programming easier and more fun to learn."
+      },
+      "ta": {
+        "q": "ஸ்கிராச் நிரலாக்க மென்பொருள் எங்கு உருவாக்கப்பட்டது?",
+        "options": [
+          "ஸ்டான்ஃபோர்டு பல்கலைக்கழகம்",
+          "MIT மீடியா ஆய்வகம்",
+          "ஹார்வர்டு பல்கலைக்கழகம்",
+          "IIT சென்னை"
+        ],
+        "explanation": "நிரலாக்கத்தை எளிதாகவும் மகிழ்ச்சியாகவும் கற்க இது உருவாக்கப்பட்டது."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 330,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 330,
       "quote": "Scratch is a visual programming language.",
       "answer": "C",
-      "en": {"q": "Scratch is a", "options": ["computer operating system", "web browser", "visual programming language", "antivirus program"], "explanation": "Programs are built by dragging and snapping blocks."},
-      "ta": {"q": "ஸ்கிராச் என்பது", "options": ["கணினி இயக்க அமைப்பு", "இணைய உலாவி", "காட்சி நிரலாக்க மொழி", "வைரஸ் தடுப்பு நிரல்"], "explanation": "தொகுதிகளை இழுத்து இணைப்பதன் மூலம் நிரல்கள் உருவாக்கப்படுகின்றன."}
+      "en": {
+        "q": "Scratch is a",
+        "options": [
+          "computer operating system",
+          "web browser",
+          "visual programming language",
+          "antivirus program"
+        ],
+        "explanation": "Programs are built by dragging and snapping blocks."
+      },
+      "ta": {
+        "q": "ஸ்கிராச் என்பது",
+        "options": [
+          "கணினி இயக்க அமைப்பு",
+          "இணைய உலாவி",
+          "காட்சி நிரலாக்க மொழி",
+          "வைரஸ் தடுப்பு நிரல்"
+        ],
+        "explanation": "தொகுதிகளை இழுத்து இணைப்பதன் மூலம் நிரல்கள் உருவாக்கப்படுகின்றன."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 331,
       "quote": "The Scratch editor has three main parts: They are Stage, Sprite and Script editor.",
       "answer": "D",
-      "en": {"q": "Which of the following is NOT one of the three main parts of the Scratch editor?", "options": ["Stage", "Sprite", "Script editor", "Taskbar"], "explanation": "The three main parts are Stage, Sprite and Script editor."},
-      "ta": {"q": "பின்வருவனவற்றுள் ஸ்கிராச் திருத்தியின் மூன்று முக்கியப் பகுதிகளில் இல்லாதது எது?", "options": ["மேடை (ஸ்டேஜ்)", "உருவம் (ஸ்பிரைட்)", "நிரல் திருத்தி", "பணிப்பட்டை"], "explanation": "மேடை, உருவம், நிரல் திருத்தி ஆகியவையே மூன்று முக்கியப் பகுதிகள்."}
+      "en": {
+        "q": "Which of the following is NOT one of the three main parts of the Scratch editor?",
+        "options": [
+          "Stage",
+          "Sprite",
+          "Script editor",
+          "Taskbar"
+        ],
+        "explanation": "The three main parts are Stage, Sprite and Script editor."
+      },
+      "ta": {
+        "q": "பின்வருவனவற்றுள் ஸ்கிராச் திருத்தியின் மூன்று முக்கியப் பகுதிகளில் இல்லாதது எது?",
+        "options": [
+          "மேடை (ஸ்டேஜ்)",
+          "உருவம் (ஸ்பிரைட்)",
+          "நிரல் திருத்தி",
+          "பணிப்பட்டை"
+        ],
+        "explanation": "மேடை, உருவம், நிரல் திருத்தி ஆகியவையே மூன்று முக்கியப் பகுதிகள்."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 331,
       "quote": "Stage: Stage is the background appearing when we open the scratch window. The background will most often be white.",
       "answer": "A",
-      "en": {"q": "In Scratch, the background that appears when the window is opened is called the", "options": ["Stage", "Sprite", "Costume", "Block palette"], "explanation": "It is usually white, and its colour can be changed."},
-      "ta": {"q": "ஸ்கிராச் சாளரத்தைத் திறக்கும்போது தோன்றும் பின்னணி எவ்வாறு அழைக்கப்படுகிறது?", "options": ["மேடை (ஸ்டேஜ்)", "உருவம் (ஸ்பிரைட்)", "உடை (காஸ்ட்யூம்)", "தொகுதித் தட்டு"], "explanation": "இது பொதுவாக வெண்மையாக இருக்கும்; நிறத்தை மாற்றலாம்."}
+      "en": {
+        "q": "In Scratch, the background that appears when the window is opened is called the",
+        "options": [
+          "Stage",
+          "Sprite",
+          "Costume",
+          "Block palette"
+        ],
+        "explanation": "It is usually white, and its colour can be changed."
+      },
+      "ta": {
+        "q": "ஸ்கிராச் சாளரத்தைத் திறக்கும்போது தோன்றும் பின்னணி எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "மேடை (ஸ்டேஜ்)",
+          "உருவம் (ஸ்பிரைட்)",
+          "உடை (காஸ்ட்யூம்)",
+          "தொகுதித் தட்டு"
+        ],
+        "explanation": "இது பொதுவாக வெண்மையாக இருக்கும்; நிறத்தை மாற்றலாம்."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 331,
       "quote": "Sprite: The characters on the background of a Scratch window are known as Sprite.",
       "answer": "B",
-      "en": {"q": "In Scratch, the characters on the background of the window are known as", "options": ["Stages", "Sprites", "Scripts", "Folders"], "explanation": "The software provides facilities to make alterations in a sprite."},
-      "ta": {"q": "ஸ்கிராச் சாளரப் பின்னணியில் உள்ள கதாபாத்திரங்கள் எவ்வாறு அழைக்கப்படுகின்றன?", "options": ["மேடைகள்", "உருவங்கள் (ஸ்பிரைட்)", "நிரல்கள்", "கோப்புறைகள்"], "explanation": "உருவத்தில் மாற்றங்கள் செய்ய மென்பொருள் வசதி தருகிறது."}
+      "en": {
+        "q": "In Scratch, the characters on the background of the window are known as",
+        "options": [
+          "Stages",
+          "Sprites",
+          "Scripts",
+          "Folders"
+        ],
+        "explanation": "The software provides facilities to make alterations in a sprite."
+      },
+      "ta": {
+        "q": "ஸ்கிராச் சாளரப் பின்னணியில் உள்ள கதாபாத்திரங்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
+        "options": [
+          "மேடைகள்",
+          "ஸ்பிரைட்டுகள்",
+          "நிரல்கள்",
+          "கோப்புறைகள்"
+        ],
+        "explanation": "உருவத்தில் மாற்றங்கள் செய்ய மென்பொருள் வசதி தருகிறது."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 331,
       "quote": "Usually a cat appears as a sprite when the Scratch window is opened.",
       "answer": "C",
-      "en": {"q": "Which character usually appears as the default sprite when the Scratch window is opened?", "options": ["A dog", "A bird", "A cat", "A fish"], "explanation": "Its default sound is a meow."},
-      "ta": {"q": "ஸ்கிராச் சாளரம் திறக்கப்படும்போது பொதுவாக இயல்புநிலை உருவமாகத் தோன்றுவது எது?", "options": ["நாய்", "பறவை", "பூனை", "மீன்"], "explanation": "இதன் இயல்புநிலை ஒலி 'மியாவ்'."}
+      "en": {
+        "q": "Which character usually appears as the default sprite when the Scratch window is opened?",
+        "options": [
+          "A dog",
+          "A bird",
+          "A cat",
+          "A fish"
+        ],
+        "explanation": "Its default sound is a meow."
+      },
+      "ta": {
+        "q": "ஸ்கிராச் சாளரம் திறக்கப்படும்போது பொதுவாக இயல்புநிலை உருவமாகத் தோன்றுவது எது?",
+        "options": [
+          "நாய்",
+          "பறவை",
+          "பூனை",
+          "மீன்"
+        ],
+        "explanation": "இதன் இயல்புநிலை ஒலி 'மியாவ்'."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 331,
       "quote": "Script area: Where you build scripts.",
       "answer": "D",
-      "en": {"q": "In the Scratch script editor, scripts are built in the", "options": ["Block palette", "Stage", "Sprite list", "Script area"], "explanation": "Blocks are dragged into the script area and snapped together."},
-      "ta": {"q": "ஸ்கிராச் நிரல் திருத்தியில் நிரல்கள் எங்கு உருவாக்கப்படுகின்றன?", "options": ["தொகுதித் தட்டு", "மேடை", "உருவப் பட்டியல்", "நிரல் பகுதி"], "explanation": "தொகுதிகள் நிரல் பகுதிக்கு இழுக்கப்பட்டு இணைக்கப்படுகின்றன."}
+      "en": {
+        "q": "In the Scratch script editor, scripts are built in the",
+        "options": [
+          "Block palette",
+          "Stage",
+          "Sprite list",
+          "Script area"
+        ],
+        "explanation": "Blocks are dragged into the script area and snapped together."
+      },
+      "ta": {
+        "q": "ஸ்கிராச் நிரல் திருத்தியில் நிரல்கள் எங்கு உருவாக்கப்படுகின்றன?",
+        "options": [
+          "தொகுதித் தட்டு",
+          "மேடை",
+          "உருவப் பட்டியல்",
+          "நிரல் பகுதி"
+        ],
+        "explanation": "தொகுதிகள் நிரல் பகுதிக்கு இழுக்கப்பட்டு இணைக்கப்படுகின்றன."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 331,
       "quote": "Block menu: Where you choose the category of blocks (programming statements) to use.",
       "answer": "A",
-      "en": {"q": "In Scratch, the category of blocks (programming statements) to use is chosen from the", "options": ["Block menu", "Block palette", "Script area", "Stage"], "explanation": "The individual block is then chosen from the block palette."},
-      "ta": {"q": "ஸ்கிராச்சில் பயன்படுத்த வேண்டிய தொகுதி வகை (நிரல் கூற்றுகள்) எங்கிருந்து தேர்ந்தெடுக்கப்படுகிறது?", "options": ["தொகுதிப் பட்டி", "தொகுதித் தட்டு", "நிரல் பகுதி", "மேடை"], "explanation": "பின்னர் தனித் தொகுதி தொகுதித் தட்டிலிருந்து தேர்ந்தெடுக்கப்படும்."}
+      "en": {
+        "q": "In Scratch, the category of blocks (programming statements) to use is chosen from the",
+        "options": [
+          "Block menu",
+          "Block palette",
+          "Script area",
+          "Stage"
+        ],
+        "explanation": "The individual block is then chosen from the block palette."
+      },
+      "ta": {
+        "q": "ஸ்கிராச்சில் பயன்படுத்த வேண்டிய தொகுதி வகை (நிரல் கூற்றுகள்) எங்கிருந்து தேர்ந்தெடுக்கப்படுகிறது?",
+        "options": [
+          "தொகுதிப் பட்டி",
+          "தொகுதித் தட்டு",
+          "நிரல் பகுதி",
+          "மேடை"
+        ],
+        "explanation": "பின்னர் தனித் தொகுதி தொகுதித் தட்டிலிருந்து தேர்ந்தெடுக்கப்படும்."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 331,
       "quote": "Block palette: Where you choose the block to use.",
       "answer": "B",
-      "en": {"q": "In Scratch, the particular block to use is chosen from the", "options": ["Block menu", "Block palette", "Costumes tab", "Sprite list"], "explanation": "The block menu chooses the category of blocks."},
-      "ta": {"q": "ஸ்கிராச்சில் பயன்படுத்த வேண்டிய குறிப்பிட்ட தொகுதி எங்கிருந்து தேர்ந்தெடுக்கப்படுகிறது?", "options": ["தொகுதிப் பட்டி", "தொகுதித் தட்டு", "உடைகள் தாவல்", "உருவப் பட்டியல்"], "explanation": "தொகுதிப் பட்டி தொகுதி வகையைத் தேர்ந்தெடுக்கிறது."}
+      "en": {
+        "q": "In Scratch, the particular block to use is chosen from the",
+        "options": [
+          "Block menu",
+          "Block palette",
+          "Costumes tab",
+          "Sprite list"
+        ],
+        "explanation": "The block menu chooses the category of blocks."
+      },
+      "ta": {
+        "q": "ஸ்கிராச்சில் பயன்படுத்த வேண்டிய குறிப்பிட்ட தொகுதி எங்கிருந்து தேர்ந்தெடுக்கப்படுகிறது?",
+        "options": [
+          "தொகுதிப் பட்டி",
+          "தொகுதித் தட்டு",
+          "உடைகள் தாவல்",
+          "உருவப் பட்டியல்"
+        ],
+        "explanation": "தொகுதிப் பட்டி தொகுதி வகையைத் தேர்ந்தெடுக்கிறது."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 331,
       "quote": "Script editor / costume editor: Where you edit your programs or your sprite's pictures.",
       "answer": "C",
-      "en": {"q": "In Scratch, a sprite's pictures are edited in the", "options": ["Stage", "sound library", "costume editor", "block menu"], "explanation": "Programs are edited in the script editor."},
-      "ta": {"q": "ஸ்கிராச்சில் உருவத்தின் படங்கள் எங்கு திருத்தப்படுகின்றன?", "options": ["மேடை", "ஒலி நூலகம்", "உடைத் திருத்தி", "தொகுதிப் பட்டி"], "explanation": "நிரல்கள் நிரல் திருத்தியில் திருத்தப்படுகின்றன."}
+      "en": {
+        "q": "In Scratch, a sprite's pictures are edited in the",
+        "options": [
+          "Stage",
+          "sound library",
+          "costume editor",
+          "block menu"
+        ],
+        "explanation": "Programs are edited in the script editor."
+      },
+      "ta": {
+        "q": "ஸ்கிராச்சில் உருவத்தின் படங்கள் எங்கு திருத்தப்படுகின்றன?",
+        "options": [
+          "மேடை",
+          "ஒலி நூலகம்",
+          "உடைத் திருத்தி",
+          "தொகுதிப் பட்டி"
+        ],
+        "explanation": "நிரல்கள் நிரல் திருத்தியில் திருத்தப்படுகின்றன."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 331,
       "quote": "Click the green flag at the top right corner of the stage to run your program.",
       "answer": "D",
-      "en": {"q": "A Scratch program is run by clicking the", "options": ["red stop sign", "space key", "Save option", "green flag at the top right corner of the stage"], "explanation": "Scripts often begin with the 'when green flag clicked' block."},
-      "ta": {"q": "ஸ்கிராச் நிரல் எதைச் சொடுக்குவதன் மூலம் இயக்கப்படுகிறது?", "options": ["சிவப்பு நிறுத்தக் குறி", "இடைவெளி விசை", "சேமி தேர்வு", "மேடையின் மேல் வலது மூலையிலுள்ள பச்சைக் கொடி"], "explanation": "நிரல்கள் பெரும்பாலும் 'பச்சைக் கொடி சொடுக்கப்பட்டதும்' தொகுதியுடன் தொடங்கும்."}
+      "en": {
+        "q": "A Scratch program is run by clicking the",
+        "options": [
+          "red stop sign at the top right of the stage",
+          "space key at the bottom of the keyboard",
+          "Save option in the File menu at the top",
+          "green flag at the top right corner of the stage"
+        ],
+        "explanation": "Scripts often begin with the 'when green flag clicked' block."
+      },
+      "ta": {
+        "q": "ஸ்கிராச் நிரல் எதைச் சொடுக்குவதன் மூலம் இயக்கப்படுகிறது?",
+        "options": [
+          "மேடையின் மேல் வலது மூலையிலுள்ள சிவப்பு நிறுத்தக் குறி",
+          "விசைப்பலகையின் கீழ்ப்பகுதியிலுள்ள இடைவெளி விசை",
+          "மேலேயுள்ள கோப்பு பட்டியலின் சேமி தேர்வு",
+          "மேடையின் மேல் வலது மூலையிலுள்ள பச்சைக் கொடி"
+        ],
+        "explanation": "நிரல்கள் பெரும்பாலும் 'பச்சைக் கொடி சொடுக்கப்பட்டதும்' தொகுதியுடன் தொடங்கும்."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 331,
       "quote": "Click the menu Script → Event, drag a when green flag clicked block to the scripts area.",
       "answer": "A",
-      "en": {"q": "In Scratch, the 'when green flag clicked' block is found under which category?", "options": ["Events", "Motion", "Looks", "Sound"], "explanation": "It is usually the first block of a script."},
-      "ta": {"q": "ஸ்கிராச்சில் 'பச்சைக் கொடி சொடுக்கப்பட்டதும்' தொகுதி எந்த வகையின் கீழ் உள்ளது?", "options": ["நிகழ்வுகள் (Events)", "இயக்கம் (Motion)", "தோற்றம் (Looks)", "ஒலி (Sound)"], "explanation": "இது பொதுவாக நிரலின் முதல் தொகுதி."}
+      "en": {
+        "q": "In Scratch, the 'when green flag clicked' block is found under which category?",
+        "options": [
+          "Events",
+          "Motion",
+          "Looks",
+          "Sound"
+        ],
+        "explanation": "It is usually the first block of a script."
+      },
+      "ta": {
+        "q": "ஸ்கிராச்சில் 'பச்சைக் கொடி சொடுக்கப்பட்டதும்' தொகுதி எந்த வகையின் கீழ் உள்ளது?",
+        "options": [
+          "நிகழ்வுகள் (Events)",
+          "இயக்கம் (Motion)",
+          "தோற்றம் (Looks)",
+          "ஒலி (Sound)"
+        ],
+        "explanation": "இது பொதுவாக நிரலின் முதல் தொகுதி."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 331,
       "quote": "Click the menu Script → Motion menu, drag a goto x: 0 y: 0 block to the scripts area ... Add a move 10 steps block to the bottom of your script",
       "answer": "B",
-      "en": {"q": "The 'go to x: 0 y: 0' and 'move 10 steps' blocks belong to which Scratch category?", "options": ["Looks", "Motion", "Sound", "Events"], "explanation": "Motion blocks move the sprite on the stage."},
-      "ta": {"q": "'go to x: 0 y: 0', 'move 10 steps' தொகுதிகள் ஸ்கிராச்சின் எந்த வகையைச் சேர்ந்தவை?", "options": ["தோற்றம் (Looks)", "இயக்கம் (Motion)", "ஒலி (Sound)", "நிகழ்வுகள் (Events)"], "explanation": "இயக்கத் தொகுதிகள் உருவத்தை மேடையில் நகர்த்துகின்றன."}
+      "en": {
+        "q": "The 'go to x: 0 y: 0' and 'move 10 steps' blocks belong to which Scratch category?",
+        "options": [
+          "Looks",
+          "Motion",
+          "Sound",
+          "Events"
+        ],
+        "explanation": "Motion blocks move the sprite on the stage."
+      },
+      "ta": {
+        "q": "'go to x: 0 y: 0', 'move 10 steps' தொகுதிகள் ஸ்கிராச்சின் எந்த வகையைச் சேர்ந்தவை?",
+        "options": [
+          "தோற்றம் (Looks)",
+          "இயக்கம் (Motion)",
+          "ஒலி (Sound)",
+          "நிகழ்வுகள் (Events)"
+        ],
+        "explanation": "இயக்கத் தொகுதிகள் உருவத்தை மேடையில் நகர்த்துகின்றன."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 332,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 332,
       "quote": "Click Looks in script option. Drag \"say\" to the script area.",
       "answer": "C",
-      "en": {"q": "In Scratch, the 'say' block used to display the word 'Hello' is found under", "options": ["Motion", "Events", "Looks", "Sound"], "explanation": "The 'play sound' block is found under Sound."},
-      "ta": {"q": "ஸ்கிராச்சில் 'Hello' என்ற சொல்லைக் காட்டப் பயன்படும் 'say' தொகுதி எந்த வகையில் உள்ளது?", "options": ["இயக்கம் (Motion)", "நிகழ்வுகள் (Events)", "தோற்றம் (Looks)", "ஒலி (Sound)"], "explanation": "'play sound' தொகுதி ஒலி வகையில் உள்ளது."}
+      "en": {
+        "q": "In Scratch, the 'say' block used to display the word 'Hello' is found under",
+        "options": [
+          "Motion",
+          "Events",
+          "Looks",
+          "Sound"
+        ],
+        "explanation": "The 'play sound' block is found under Sound."
+      },
+      "ta": {
+        "q": "ஸ்கிராச்சில் 'Hello' என்ற சொல்லைக் காட்டப் பயன்படும் 'say' தொகுதி எந்த வகையில் உள்ளது?",
+        "options": [
+          "இயக்கம் (Motion)",
+          "நிகழ்வுகள் (Events)",
+          "தோற்றம் (Looks)",
+          "ஒலி (Sound)"
+        ],
+        "explanation": "'play sound' தொகுதி ஒலி வகையில் உள்ளது."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 331,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 331,
       "quote": "The right pane also contains two additional tabs, Costumes and Sounds.",
       "answer": "D",
-      "en": {"q": "Besides the Scripts tab, the right pane of the Scratch window contains which two additional tabs?", "options": ["File and Edit", "Stage and Sprite", "Motion and Looks", "Costumes and Sounds"], "explanation": "The Stage is at top left and the Sprite List at bottom left."},
-      "ta": {"q": "ஸ்கிராச் சாளரத்தின் வலப் பலகத்தில் நிரல்கள் தாவலுடன் உள்ள கூடுதல் இரு தாவல்கள் எவை?", "options": ["கோப்பு, திருத்து", "மேடை, உருவம்", "இயக்கம், தோற்றம்", "உடைகள், ஒலிகள்"], "explanation": "மேடை மேல் இடதிலும் உருவப் பட்டியல் கீழ் இடதிலும் உள்ளன."}
+      "en": {
+        "q": "Besides the Scripts tab, the right pane of the Scratch window contains which two additional tabs?",
+        "options": [
+          "File and Edit",
+          "Stage and Sprite",
+          "Motion and Looks",
+          "Costumes and Sounds"
+        ],
+        "explanation": "The Stage is at top left and the Sprite List at bottom left."
+      },
+      "ta": {
+        "q": "ஸ்கிராச் சாளரத்தின் வலப் பலகத்தில் நிரல்கள் தாவலுடன் உள்ள கூடுதல் இரு தாவல்கள் எவை?",
+        "options": [
+          "கோப்பு, திருத்து",
+          "மேடை, உருவம்",
+          "இயக்கம், தோற்றம்",
+          "உடைகள், ஒலிகள்"
+        ],
+        "explanation": "மேடை மேல் இடதிலும் உருவப் பட்டியல் கீழ் இடதிலும் உள்ளன."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 330,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 330,
       "quote": "A folder is a storage space that contains multiple files.",
       "answer": "A",
-      "en": {"q": "A storage space in a computer that contains multiple files is called a", "options": ["folder", "sprite", "script", "stage"], "explanation": "Files can be created and saved in folders as per the user's need."},
-      "ta": {"q": "கணினியில் பல கோப்புகளைக் கொண்ட சேமிப்பிடம் எவ்வாறு அழைக்கப்படுகிறது?", "options": ["கோப்புறை", "உருவம்", "நிரல்", "மேடை"], "explanation": "பயனரின் தேவைக்கேற்பக் கோப்புகளை உருவாக்கிக் கோப்புறைகளில் சேமிக்கலாம்."}
+      "en": {
+        "q": "A storage space in a computer that contains multiple files is called a",
+        "options": [
+          "folder",
+          "sprite",
+          "script",
+          "stage"
+        ],
+        "explanation": "Files can be created and saved in folders as per the user's need."
+      },
+      "ta": {
+        "q": "கணினியில் பல கோப்புகளைக் கொண்ட சேமிப்பிடம் எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "கோப்புறை",
+          "உருவம்",
+          "நிரல்",
+          "மேடை"
+        ],
+        "explanation": "பயனரின் தேவைக்கேற்பக் கோப்புகளை உருவாக்கிக் கோப்புறைகளில் சேமிக்கலாம்."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 330,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 330,
       "quote": "The individual book can be considered as a 'file' and the whole set of books in a shelf can be considered as folders.",
       "answer": "B",
-      "en": {"q": "In the library bookshelf analogy in the text, an individual book is compared to a", "options": ["folder", "file", "drive", "program"], "explanation": "The whole set of books in a shelf is compared to a folder."},
-      "ta": {"q": "பாடநூலின் நூலக அலமாரி ஒப்புமையில் தனி ஒரு நூல் எதனுடன் ஒப்பிடப்படுகிறது?", "options": ["கோப்புறை", "கோப்பு", "இயக்ககம்", "நிரல்"], "explanation": "அலமாரியிலுள்ள நூல்களின் தொகுப்பு கோப்புறையுடன் ஒப்பிடப்படுகிறது."}
+      "en": {
+        "q": "In the library bookshelf analogy in the text, an individual book is compared to a",
+        "options": [
+          "folder",
+          "file",
+          "drive",
+          "program"
+        ],
+        "explanation": "The whole set of books in a shelf is compared to a folder."
+      },
+      "ta": {
+        "q": "பாடநூலின் நூலக அலமாரி ஒப்புமையில் தனி ஒரு நூல் எதனுடன் ஒப்பிடப்படுகிறது?",
+        "options": [
+          "கோப்புறை",
+          "கோப்பு",
+          "இயக்ககம்",
+          "நிரல்"
+        ],
+        "explanation": "அலமாரியிலுள்ள நூல்களின் தொகுப்பு கோப்புறையுடன் ஒப்பிடப்படுகிறது."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 330,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 330,
       "quote": "Cinema is a good example for 'Visual Communication Device'.",
       "answer": "C",
-      "en": {"q": "According to the text, a good example of a visual communication device is", "options": ["radio", "telephone", "cinema", "telegraph"], "explanation": "Photos, audio-visuals, drawings and animations explain concepts through pictures."},
-      "ta": {"q": "பாடநூலின்படி காட்சித் தகவல் தொடர்புச் சாதனத்திற்குச் சிறந்த எடுத்துக்காட்டு எது?", "options": ["வானொலி", "தொலைபேசி", "திரைப்படம்", "தந்தி"], "explanation": "புகைப்படங்கள், ஒலி-ஒளிக் காட்சிகள், வரைபடங்கள், அசைவூட்டங்கள் படங்கள் வழியே கருத்துகளை விளக்குகின்றன."}
+      "en": {
+        "q": "According to the text, a good example of a visual communication device is",
+        "options": [
+          "radio",
+          "telephone",
+          "cinema",
+          "telegraph"
+        ],
+        "explanation": "Photos, audio-visuals, drawings and animations explain concepts through pictures."
+      },
+      "ta": {
+        "q": "பாடநூலின்படி காட்சித் தகவல் தொடர்புச் சாதனத்திற்குச் சிறந்த எடுத்துக்காட்டு எது?",
+        "options": [
+          "வானொலி",
+          "தொலைபேசி",
+          "திரைப்படம்",
+          "தந்தி"
+        ],
+        "explanation": "புகைப்படங்கள், ஒலி-ஒளிக் காட்சிகள், வரைபடங்கள், அசைவூட்டங்கள் படங்கள் வழியே கருத்துகளை விளக்குகின்றன."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 330,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 330,
       "quote": "we can collect our notes in 'Notepad' application and draw pictures in 'Paint' application.",
       "answer": "D",
-      "en": {"q": "On a Windows computer, which application is used to draw and edit pictures?", "options": ["Notepad", "Scratch", "Calculator", "Paint"], "explanation": "Notes are typed and saved using Notepad."},
-      "ta": {"q": "விண்டோஸ் கணினியில் படங்களை வரையவும் திருத்தவும் பயன்படும் பயன்பாடு எது?", "options": ["நோட்பேட்", "ஸ்கிராச்", "கணிப்பான்", "பெயிண்ட்"], "explanation": "குறிப்புகள் நோட்பேடில் தட்டச்சு செய்து சேமிக்கப்படுகின்றன."}
+      "en": {
+        "q": "On a Windows computer, which application is used to draw and edit pictures?",
+        "options": [
+          "Notepad",
+          "Scratch",
+          "Calculator",
+          "Paint"
+        ],
+        "explanation": "Notes are typed and saved using Notepad."
+      },
+      "ta": {
+        "q": "விண்டோஸ் கணினியில் படங்களை வரையவும் திருத்தவும் பயன்படும் பயன்பாடு எது?",
+        "options": [
+          "நோட்பேட்",
+          "ஸ்கிராச்",
+          "கணிப்பான்",
+          "பெயிண்ட்"
+        ],
+        "explanation": "குறிப்புகள் நோட்பேடில் தட்டச்சு செய்து சேமிக்கப்படுகின்றன."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "understand", "page": 330,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "understand",
+      "page": 330,
       "quote": "When we right click on the mouse, the popup menu appears on the screen with multiple options. Select 'NEW' option and a secondary menu comes up with another set of options. Select 'Folder' option in the menu.",
       "answer": "A",
-      "en": {"q": "To create a new folder, after right-clicking the mouse one should select", "options": ["New, then Folder", "Open, then File", "Delete, then Folder", "Rename, then New"], "explanation": "Files can then be saved in the newly created folder."},
-      "ta": {"q": "புதிய கோப்புறை உருவாக்கச் சுட்டியை வலச்சொடுக்கிய பின் எதைத் தேர்ந்தெடுக்க வேண்டும்?", "options": ["புதியது, பின் கோப்புறை", "திற, பின் கோப்பு", "நீக்கு, பின் கோப்புறை", "மறுபெயரிடு, பின் புதியது"], "explanation": "பின்னர் புதிய கோப்புறையில் கோப்புகளைச் சேமிக்கலாம்."}
+      "en": {
+        "q": "To create a new folder, after right-clicking the mouse one should select",
+        "options": [
+          "New, then Folder",
+          "Open, then File",
+          "Delete, then Folder",
+          "Rename, then New"
+        ],
+        "explanation": "Files can then be saved in the newly created folder."
+      },
+      "ta": {
+        "q": "புதிய கோப்புறை உருவாக்கச் சுட்டியை வலச்சொடுக்கிய பின் எதைத் தேர்ந்தெடுக்க வேண்டும்?",
+        "options": [
+          "புதியது, பின் கோப்புறை",
+          "திற, பின் கோப்பு",
+          "நீக்கு, பின் கோப்புறை",
+          "மறுபெயரிடு, பின் புதியது"
+        ],
+        "explanation": "பின்னர் புதிய கோப்புறையில் கோப்புகளைச் சேமிக்கலாம்."
+      }
     },
     {
-      "topic": "scientific-knowledge-and-scientific-temper", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 329,
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 329,
       "quote": "The output we get from any application is commonly referred as 'file'.",
       "answer": "B",
-      "en": {"q": "The output we get from any computer application is commonly referred to as a", "options": ["folder", "file", "sprite", "stage"], "explanation": "The application used decides the nature of the file."},
-      "ta": {"q": "எந்தக் கணினிப் பயன்பாட்டிலிருந்தும் கிடைக்கும் வெளியீடு பொதுவாக எவ்வாறு அழைக்கப்படுகிறது?", "options": ["கோப்புறை", "கோப்பு", "உருவம்", "மேடை"], "explanation": "பயன்படுத்தும் பயன்பாடே கோப்பின் தன்மையைத் தீர்மானிக்கிறது."}
+      "en": {
+        "q": "The output we get from any computer application is commonly referred to as a",
+        "options": [
+          "folder",
+          "file",
+          "sprite",
+          "stage"
+        ],
+        "explanation": "The application used decides the nature of the file."
+      },
+      "ta": {
+        "q": "எந்தக் கணினிப் பயன்பாட்டிலிருந்தும் கிடைக்கும் வெளியீடு பொதுவாக எவ்வாறு அழைக்கப்படுகிறது?",
+        "options": [
+          "கோப்புறை",
+          "கோப்பு",
+          "உருவம்",
+          "மேடை"
+        ],
+        "explanation": "பயன்படுத்தும் பயன்பாடே கோப்பின் தன்மையைத் தீர்மானிக்கிறது."
+      }
     }
   ]
 }

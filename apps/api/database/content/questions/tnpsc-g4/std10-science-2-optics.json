@@ -130,20 +130,20 @@
       "en": {
         "q": "Refraction of light takes place because of",
         "options": [
-          "the difference in the velocity of light in different media",
-          "reflection from a mirror",
-          "the absence of a medium",
-          "the colour of the object"
+          "the change in speed of light between media",
+          "reflection of light from a surface",
+          "the absence of any medium in space",
+          "the colour of the object seen"
         ],
         "explanation": "Light is faster in a rarer medium and slower in a denser medium."
       },
       "ta": {
         "q": "ஒளி விலகல் எதனால் நிகழ்கிறது?",
         "options": [
-          "வெவ்வேறு ஊடகங்களில் ஒளியின் திசைவேக வேறுபாடு",
-          "ஆடியிலிருந்து எதிரொளிப்பு",
-          "ஊடகம் இல்லாமை",
-          "பொருளின் நிறம்"
+          "வெவ்வேறு ஊடகங்களில் ஒளியின் வேக மாற்றம்",
+          "பரப்பிலிருந்து ஒளியின் எதிரொளிப்பு",
+          "வெற்றிடத்தில் ஊடகம் இல்லாமை",
+          "பார்க்கும் பொருளின் நிறம்"
         ],
         "explanation": "அடர்குறை ஊடகத்தில் ஒளி வேகமாகவும் அடர்மிகு ஊடகத்தில் மெதுவாகவும் செல்லும்."
       }
@@ -392,7 +392,7 @@
         "q": "The sky appears blue because",
         "options": [
           "red light is scattered the most",
-          "blue light of shorter wavelength is scattered the most",
+          "blue light is scattered the most",
           "the ocean reflects blue light",
           "blue light is absorbed by air"
         ],
@@ -402,7 +402,7 @@
         "q": "வானம் நீலமாகத் தோன்றுவது ஏன்?",
         "options": [
           "சிவப்பு ஒளி அதிகம் சிதறுவதால்",
-          "குறைந்த அலைநீள நீல ஒளி அதிகம் சிதறுவதால்",
+          "நீல ஒளி அதிகம் சிதறுவதால்",
           "கடல் நீல ஒளியை எதிரொளிப்பதால்",
           "காற்று நீல ஒளியை உறிஞ்சுவதால்"
         ],
@@ -420,19 +420,19 @@
       "en": {
         "q": "The Sun appears red at sunrise and sunset because",
         "options": [
-          "the Sun is cooler then",
-          "red light is scattered the most",
-          "light travels a larger distance and blue light is scattered away",
-          "clouds absorb blue light"
+          "the Sun becomes cooler at that time",
+          "red light is scattered the most by air",
+          "blue light is scattered away over a longer path",
+          "clouds absorb the blue light there"
         ],
         "explanation": "Red, being least scattered, reaches us."
       },
       "ta": {
         "q": "சூரிய உதயம், மறைவின்போது சூரியன் சிவப்பாகத் தோன்றுவது ஏன்?",
         "options": [
-          "அப்போது சூரியன் குளிர்வதால்",
-          "சிவப்பு ஒளி அதிகம் சிதறுவதால்",
-          "ஒளி அதிகத் தொலைவு பயணித்து நீல ஒளி சிதறி விடுவதால்",
+          "அப்போது சூரியன் குளிர்ச்சியடைவதால்",
+          "காற்றில் சிவப்பு ஒளி அதிகம் சிதறுவதால்",
+          "நீண்ட பாதையில் நீல ஒளி சிதறி விடுவதால்",
           "மேகங்கள் நீல ஒளியை உறிஞ்சுவதால்"
         ],
         "explanation": "குறைவாகச் சிதறும் சிவப்பு ஒளி நம்மை அடைகிறது."
@@ -565,9 +565,9 @@
       "en": {
         "q": "Which of the following is NOT given in the text as an example of a colloid?",
         "options": [
-          "Milk",
+          "Cow's milk",
           "Ice cream",
-          "Smoke",
+          "Wood smoke",
           "Salt solution"
         ],
         "explanation": "Muddy water is another colloid named in the text."
@@ -575,9 +575,9 @@
       "ta": {
         "q": "பாடநூலில் கூழ்மத்திற்கு எடுத்துக்காட்டாகக் குறிப்பிடப்படாதது எது?",
         "options": [
-          "பால்",
-          "பனிக்கூழ்",
-          "புகை",
+          "பசுவின் பால்",
+          "பனிக்கூழ் உணவு",
+          "அடர்ந்த புகை",
           "உப்புக் கரைசல்"
         ],
         "explanation": "சேற்று நீரும் கூழ்மமாகக் குறிப்பிடப்படுகிறது."
@@ -739,20 +739,20 @@
       "en": {
         "q": "When an object is placed at C (2F) of a convex lens, the image formed is",
         "options": [
-          "virtual and enlarged",
-          "real, inverted and of the same size at the other C",
-          "real and diminished at F",
-          "at infinity"
+          "virtual, erect and enlarged on the same side",
+          "real, inverted and same size at the other C",
+          "real, inverted and diminished at F",
+          "at infinity and highly enlarged"
         ],
         "explanation": "Image forms at the centre of curvature on the other side."
       },
       "ta": {
         "q": "குவி லென்சின் வளைவு மையத்தில் (2F) பொருள் வைக்கப்பட்டால் உருவாகும் பிம்பம்",
         "options": [
-          "மாய, பெரிதான பிம்பம்",
-          "மறுபக்க வளைவு மையத்தில் மெய்யான, தலைகீழான, அதே அளவு பிம்பம்",
-          "F-இல் மெய்யான சிறிய பிம்பம்",
-          "முடிவிலியில்"
+          "மாய, நேரான, பெரிதான பிம்பம் ஒரே பக்கத்தில்",
+          "மறுபக்க C-இல் மெய்யான, தலைகீழான, அதே அளவு பிம்பம்",
+          "F-இல் மெய்யான, தலைகீழான, சிறிய பிம்பம்",
+          "முடிவிலியில் மிகப் பெரிய பிம்பம்"
         ],
         "explanation": "மறுபக்க வளைவு மையத்தில் பிம்பம் உருவாகும்."
       }
@@ -855,20 +855,20 @@
       "en": {
         "q": "For an object at a finite distance, a concave lens always forms an image that is",
         "options": [
-          "real and enlarged",
+          "real, enlarged and beyond 2F",
           "virtual, diminished and between O and F",
-          "real and inverted",
-          "at infinity"
+          "real, inverted and at 2F",
+          "at infinity and highly diminished"
         ],
         "explanation": "A concave lens produces virtual images."
       },
       "ta": {
         "q": "குறிப்பிட்ட தொலைவில் உள்ள பொருளுக்குக் குழி லென்சு எப்போதும் உருவாக்கும் பிம்பம்",
         "options": [
-          "மெய்யான, பெரிதான",
+          "மெய்யான, பெரிதான, 2F-க்கு அப்பால்",
           "O, F இடையே மாய, சிறிய பிம்பம்",
-          "மெய்யான, தலைகீழான",
-          "முடிவிலியில்"
+          "மெய்யான, தலைகீழான, 2F-இல்",
+          "முடிவிலியில் மிகச் சிறிய பிம்பம்"
         ],
         "explanation": "குழி லென்சு மாய பிம்பங்களை உருவாக்கும்."
       }
@@ -1000,20 +1000,20 @@
       "en": {
         "q": "The lens maker's formula relates the focal length of a lens to",
         "options": [
-          "object and image distances",
-          "the height of object and image",
-          "the refractive index of the material and the radii of curvature of its faces",
-          "the power of accommodation"
+          "the object distance and image distance",
+          "the heights of the object and image",
+          "the refractive index and the radii of curvature",
+          "the power of accommodation of the eye"
         ],
         "explanation": "1/f = (µ − 1)(1/R₁ − 1/R₂); it applies to thin lenses."
       },
       "ta": {
         "q": "லென்சு உருவாக்குநர் வாய்ப்பாடு குவியத் தொலைவை எவற்றுடன் தொடர்புபடுத்துகிறது?",
         "options": [
-          "பொருள், பிம்பத் தொலைவுகள்",
-          "பொருள், பிம்ப உயரங்கள்",
-          "பொருளின் ஒளிவிலகல் எண், பரப்புகளின் வளைவு ஆரங்கள்",
-          "ஏற்பமைவுத் திறன்"
+          "பொருள் தொலைவு, பிம்பத் தொலைவு",
+          "பொருள், பிம்பங்களின் உயரங்கள்",
+          "ஒளிவிலகல் எண், வளைவு ஆரங்கள்",
+          "கண்ணின் ஏற்பமைவுத் திறன்"
         ],
         "explanation": "1/f = (µ − 1)(1/R₁ − 1/R₂); மெல்லிய லென்சுகளுக்குப் பொருந்தும்."
       }
@@ -1098,7 +1098,7 @@
         "q": "கேமரா துளை போலக் கண்பாவையில் நுழையும் ஒளியின் அளவைக் கட்டுப்படுத்தும் கண்ணின் பகுதி எது?",
         "options": [
           "விழித்திரை",
-          "கருவிழி (ஐரிஸ்)",
+          "கருவிழி",
           "விழிவெண்படலம்",
           "சிலியரித் தசைகள்"
         ],
@@ -1147,8 +1147,8 @@
         "options": [
           "contract and make the lens thicker",
           "contract and decrease the focal length",
-          "remain unchanged",
-          "relax and make the lens thinner, increasing focal length"
+          "remain in the same state",
+          "relax, making the lens thinner"
         ],
         "explanation": "For nearby objects the muscles contract and the focal length decreases."
       },
@@ -1157,8 +1157,8 @@
         "options": [
           "சுருங்கி லென்சைத் தடிமனாக்கும்",
           "சுருங்கிக் குவியத் தொலைவைக் குறைக்கும்",
-          "மாறாமல் இருக்கும்",
-          "தளர்ந்து லென்சை மெல்லியதாக்கிக் குவியத் தொலைவை அதிகரிக்கும்"
+          "அதே நிலையில் இருக்கும்",
+          "தளர்ந்து லென்சை மெல்லியதாக்கும்"
         ],
         "explanation": "அருகிலுள்ள பொருளுக்குத் தசைகள் சுருங்கிக் குவியத் தொலைவு குறையும்."
       }
@@ -1274,7 +1274,7 @@
           "கிட்டப்பார்வை",
           "பார்வைச் சிதறல்",
           "கண்புரை",
-          "வெள்ளெழுத்து (பிரஸ்பயோபியா)"
+          "வெள்ளெழுத்து"
         ],
         "explanation": "முதுமையால் கண் ஏற்பமைவுத் திறனை இழக்கிறது."
       }

@@ -4,347 +4,1425 @@
   "breadcrumb": "Std 10 Science (English) — Unit 1: Laws of Motion",
   "questions": [
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 2,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 2,
       "quote": "Statics: It deals with the bodies, which are at rest under the action of forces. Dynamics: It is the study of moving bodies under the action of forces.",
       "answer": "A",
-      "en": {"q": "The branch of mechanics that deals with bodies at rest under the action of forces is", "options": ["Statics", "Dynamics", "Kinematics", "Kinetics"], "explanation": "Dynamics studies moving bodies under the action of forces."},
-      "ta": {"q": "விசைகளின் செயல்பாட்டில் ஓய்வு நிலையில் உள்ள பொருள்களைப் பற்றிய இயக்கவியலின் பிரிவு எது?", "options": ["நிலையியல்", "இயக்கவியல் (Dynamics)", "இயக்க விவரியல் (Kinematics)", "இயக்கக் காரணியல் (Kinetics)"], "explanation": "இயங்கும் பொருள்கள் மீதான விசையின் விளைவை இயக்கவியல் (Dynamics) ஆராய்கிறது."}
+      "en": {
+        "q": "The branch of mechanics that deals with bodies at rest under the action of forces is",
+        "options": [
+          "Statics",
+          "Dynamics",
+          "Kinematics",
+          "Kinetics"
+        ],
+        "explanation": "Dynamics studies moving bodies under the action of forces."
+      },
+      "ta": {
+        "q": "விசைகளின் செயல்பாட்டில் ஓய்வு நிலையில் உள்ள பொருள்களைப் பற்றிய இயக்கவியலின் பிரிவு எது?",
+        "options": [
+          "நிலையியல்",
+          "இயக்கவியல் (Dynamics)",
+          "இயக்க விவரியல் (Kinematics)",
+          "இயக்கக் காரணியல் (Kinetics)"
+        ],
+        "explanation": "இயங்கும் பொருள்கள் மீதான விசையின் விளைவை இயக்கவியல் (Dynamics) ஆராய்கிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 2,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 2,
       "quote": "Kinematics: It deals with the motion of bodies without considering the cause of motion. Kinetics: It deals with the motion of bodies considering the cause of motion.",
       "answer": "B",
-      "en": {"q": "The study of motion of bodies without considering the cause of motion is called", "options": ["Kinetics", "Kinematics", "Statics", "Gravitation"], "explanation": "Kinetics considers the cause of motion."},
-      "ta": {"q": "இயக்கத்திற்கான காரணத்தைக் கருதாமல் பொருள்களின் இயக்கத்தை ஆராய்வது எது?", "options": ["இயக்கக் காரணியல் (Kinetics)", "இயக்க விவரியல் (Kinematics)", "நிலையியல்", "ஈர்ப்பியல்"], "explanation": "இயக்கக் காரணியல் இயக்கத்தின் காரணத்தைக் கருதுகிறது."}
+      "en": {
+        "q": "The study of motion of bodies without considering the cause of motion is called",
+        "options": [
+          "Kinetics",
+          "Kinematics",
+          "Statics",
+          "Gravitation"
+        ],
+        "explanation": "Kinetics considers the cause of motion."
+      },
+      "ta": {
+        "q": "இயக்கத்திற்கான காரணத்தைக் கருதாமல் பொருள்களின் இயக்கத்தை ஆராய்வது எது?",
+        "options": [
+          "இயக்கக் காரணியல் (Kinetics)",
+          "இயக்க விவரியல் (Kinematics)",
+          "நிலையியல்",
+          "ஈர்ப்பியல்"
+        ],
+        "explanation": "இயக்கக் காரணியல் இயக்கத்தின் காரணத்தைக் கருதுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 2,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 2,
       "quote": "According to Aristotle a Greek Philosopher and Scientist, the natural state of earthly bodies is 'rest'. ... when two different mass bodies are dropped from a height, the heavier body falls faster than the lighter one.",
       "answer": "C",
-      "en": {"q": "Who held that the natural state of earthly bodies is rest and that a heavier body falls faster than a lighter one?", "options": ["Galileo", "Newton", "Aristotle", "Kepler"], "explanation": "Galileo later showed that in vacuum all bodies fall at the same rate."},
-      "ta": {"q": "புவிப் பொருள்களின் இயல்பு நிலை ஓய்வு என்றும் கனமான பொருள் இலேசானதை விட வேகமாக விழும் என்றும் கூறியவர் யார்?", "options": ["கலிலியோ", "நியூட்டன்", "அரிஸ்டாட்டில்", "கெப்ளர்"], "explanation": "வெற்றிடத்தில் அனைத்துப் பொருள்களும் ஒரே வீதத்தில் விழும் எனக் கலிலியோ காட்டினார்."}
+      "en": {
+        "q": "Who held that the natural state of earthly bodies is rest and that a heavier body falls faster than a lighter one?",
+        "options": [
+          "Galileo",
+          "Newton",
+          "Aristotle",
+          "Kepler"
+        ],
+        "explanation": "Galileo later showed that in vacuum all bodies fall at the same rate."
+      },
+      "ta": {
+        "q": "புவிப் பொருள்களின் இயல்பு நிலை ஓய்வு என்றும் கனமான பொருள் இலேசானதை விட வேகமாக விழும் என்றும் கூறியவர் யார்?",
+        "options": [
+          "கலிலியோ கலிலி",
+          "ஐசக் நியூட்டன்",
+          "அரிஸ்டாட்டில்",
+          "ஜோகன்னஸ் கெப்ளர்"
+        ],
+        "explanation": "வெற்றிடத்தில் அனைத்துப் பொருள்களும் ஒரே வீதத்தில் விழும் எனக் கலிலியோ காட்டினார்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 2,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 2,
       "quote": "When dropped from a height in vacuum, bodies of different size, shape and mass fall at the same rate and reach the ground at the same time.",
       "answer": "D",
-      "en": {"q": "Galileo proposed that when dropped from a height in vacuum, bodies of different mass", "options": ["fall in proportion to their mass", "heavier ones fall faster", "lighter ones fall faster", "fall at the same rate and reach the ground together"], "explanation": "This contradicted Aristotle's view."},
-      "ta": {"q": "வெற்றிடத்தில் உயரத்திலிருந்து விடப்படும் வெவ்வேறு நிறையுள்ள பொருள்கள் குறித்துக் கலிலியோ கூறியது என்ன?", "options": ["நிறைக்கு ஏற்ப விழும்", "கனமானவை வேகமாக விழும்", "இலேசானவை வேகமாக விழும்", "ஒரே வீதத்தில் விழுந்து ஒரே நேரத்தில் தரையை அடையும்"], "explanation": "இது அரிஸ்டாட்டிலின் கருத்துக்கு மாறானது."}
+      "en": {
+        "q": "Galileo proposed that when dropped from a height in vacuum, bodies of different mass",
+        "options": [
+          "fall at rates proportional to their mass",
+          "heavier ones fall faster than lighter ones",
+          "lighter ones fall faster than heavier ones",
+          "fall at the same rate and reach the ground together"
+        ],
+        "explanation": "This contradicted Aristotle's view."
+      },
+      "ta": {
+        "q": "வெற்றிடத்தில் உயரத்திலிருந்து விடப்படும் வெவ்வேறு நிறையுள்ள பொருள்கள் குறித்துக் கலிலியோ கூறியது என்ன?",
+        "options": [
+          "நிறைக்கு நேர்விகிதத்தில் விழும்",
+          "கனமானவை இலேசானவற்றை விட வேகமாக விழும்",
+          "இலேசானவை கனமானவற்றை விட வேகமாக விழும்",
+          "ஒரே வீதத்தில் விழுந்து ஒரே நேரத்தில் தரையை அடையும்"
+        ],
+        "explanation": "இது அரிஸ்டாட்டிலின் கருத்துக்கு மாறானது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 2,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 2,
       "quote": "The inherent property of a body to resist any change in its state of rest or the state of uniform motion, unless it is influenced upon by an external unbalanced force, is known as 'inertia'.",
       "answer": "A",
-      "en": {"q": "The inherent property of a body to resist any change in its state of rest or uniform motion is called", "options": ["Inertia", "Momentum", "Impulse", "Torque"], "explanation": "Leaning forward when a bus brakes suddenly is due to inertia."},
-      "ta": {"q": "ஓய்வு அல்லது சீரான இயக்க நிலையில் ஏற்படும் மாற்றத்தை எதிர்க்கும் பொருளின் இயல்புப் பண்பு எது?", "options": ["நிலைமம்", "உந்தம்", "கணத்தாக்கு", "திருப்பு விசை"], "explanation": "பேருந்து திடீரென நிற்கும்போது முன்னோக்கிச் சாய்வது நிலைமத்தால்."}
+      "en": {
+        "q": "The inherent property of a body to resist any change in its state of rest or uniform motion is called",
+        "options": [
+          "Inertia",
+          "Momentum",
+          "Impulse",
+          "Torque"
+        ],
+        "explanation": "Leaning forward when a bus brakes suddenly is due to inertia."
+      },
+      "ta": {
+        "q": "ஓய்வு அல்லது சீரான இயக்க நிலையில் ஏற்படும் மாற்றத்தை எதிர்க்கும் பொருளின் இயல்புப் பண்பு எது?",
+        "options": [
+          "நிலைமம்",
+          "உந்தம்",
+          "கணத்தாக்கு",
+          "திருப்பு விசை"
+        ],
+        "explanation": "பேருந்து திடீரென நிற்கும்போது முன்னோக்கிச் சாய்வது நிலைமத்தால்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 3,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 3,
       "quote": "When you vigorously shake the branches of a tree, some of the leaves and fruits are detached and they fall down, (Inertia of rest).",
       "answer": "B",
-      "en": {"q": "Fruits falling when the branches of a tree are shaken vigorously is an example of", "options": ["inertia of motion", "inertia of rest", "inertia of direction", "conservation of momentum"], "explanation": "The fruits tend to stay at rest while the branch moves."},
-      "ta": {"q": "மரக்கிளைகளை வேகமாக உலுக்கும்போது பழங்கள் விழுவது எதற்கு எடுத்துக்காட்டு?", "options": ["இயக்க நிலைமம்", "ஓய்வு நிலைமம்", "திசை நிலைமம்", "உந்த அழிவின்மை"], "explanation": "கிளை அசையும்போது பழங்கள் ஓய்வு நிலையிலேயே இருக்க முயல்கின்றன."}
+      "en": {
+        "q": "Fruits falling when the branches of a tree are shaken vigorously is an example of",
+        "options": [
+          "inertia of motion",
+          "inertia of rest",
+          "inertia of direction",
+          "conservation of momentum"
+        ],
+        "explanation": "The fruits tend to stay at rest while the branch moves."
+      },
+      "ta": {
+        "q": "மரக்கிளைகளை வேகமாக உலுக்கும்போது பழங்கள் விழுவது எதற்கு எடுத்துக்காட்டு?",
+        "options": [
+          "இயக்க நிலைமம்",
+          "ஓய்வு நிலைமம்",
+          "திசை நிலைமம்",
+          "உந்த அழிவின்மை"
+        ],
+        "explanation": "கிளை அசையும்போது பழங்கள் ஓய்வு நிலையிலேயே இருக்க முயல்கின்றன."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 3,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 3,
       "quote": "When you make a sharp turn while driving a car, you tend to lean sideways, (Inertia of direction).",
       "answer": "C",
-      "en": {"q": "Leaning sideways when a car makes a sharp turn is due to", "options": ["inertia of rest", "inertia of motion", "inertia of direction", "gravitation"], "explanation": "The body resists the change in direction of motion."},
-      "ta": {"q": "கார் கூர்மையாகத் திரும்பும்போது பக்கவாட்டில் சாய்வது எதனால்?", "options": ["ஓய்வு நிலைமம்", "இயக்க நிலைமம்", "திசை நிலைமம்", "ஈர்ப்பு"], "explanation": "இயக்கத் திசையின் மாற்றத்தை உடல் எதிர்க்கிறது."}
+      "en": {
+        "q": "Leaning sideways when a car makes a sharp turn is due to",
+        "options": [
+          "inertia of rest",
+          "inertia of motion",
+          "inertia of direction",
+          "gravitation"
+        ],
+        "explanation": "The body resists the change in direction of motion."
+      },
+      "ta": {
+        "q": "கார் கூர்மையாகத் திரும்பும்போது பக்கவாட்டில் சாய்வது எதனால்?",
+        "options": [
+          "ஓய்வு நிலைமம்",
+          "இயக்க நிலைமம்",
+          "திசை நிலைமம்",
+          "ஈர்ப்பு"
+        ],
+        "explanation": "இயக்கத் திசையின் மாற்றத்தை உடல் எதிர்க்கிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 3,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 3,
       "quote": "An athlete runs some distance before jumping. Because, this will help him jump longer and higher. (Inertia of motion)",
       "answer": "D",
-      "en": {"q": "An athlete runs some distance before jumping to make use of", "options": ["inertia of rest", "inertia of direction", "impulse", "inertia of motion"], "explanation": "It helps him jump longer and higher."},
-      "ta": {"q": "தடகள வீரர் தாண்டுவதற்கு முன் சிறிது தூரம் ஓடுவது எதைப் பயன்படுத்த?", "options": ["ஓய்வு நிலைமம்", "திசை நிலைமம்", "கணத்தாக்கு", "இயக்க நிலைமம்"], "explanation": "இது நீளமாகவும் உயரமாகவும் தாண்ட உதவுகிறது."}
+      "en": {
+        "q": "An athlete runs some distance before jumping to make use of",
+        "options": [
+          "inertia of rest",
+          "inertia of direction",
+          "impulse",
+          "inertia of motion"
+        ],
+        "explanation": "It helps him jump longer and higher."
+      },
+      "ta": {
+        "q": "தடகள வீரர் தாண்டுவதற்கு முன் சிறிது தூரம் ஓடுவது எதைப் பயன்படுத்த?",
+        "options": [
+          "ஓய்வு நிலைமம்",
+          "திசை நிலைமம்",
+          "கணத்தாக்கு",
+          "இயக்க நிலைமம்"
+        ],
+        "explanation": "இது நீளமாகவும் உயரமாகவும் தாண்ட உதவுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 3,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 3,
       "quote": "The product of mass and velocity of a moving body gives the magnitude of linear momentum. ... Linear momentum is a vector quantity.",
       "answer": "A",
-      "en": {"q": "Linear momentum of a body is the product of its", "options": ["mass and velocity", "mass and acceleration", "force and time", "force and distance"], "explanation": "p = mv; it is a vector quantity."},
-      "ta": {"q": "ஒரு பொருளின் நேர்கோட்டு உந்தம் எவற்றின் பெருக்கற்பலன்?", "options": ["நிறை, திசைவேகம்", "நிறை, முடுக்கம்", "விசை, காலம்", "விசை, தொலைவு"], "explanation": "p = mv; இது ஒரு வெக்டர் அளவு."}
+      "en": {
+        "q": "Linear momentum of a body is the product of its",
+        "options": [
+          "mass and velocity",
+          "mass and acceleration",
+          "force and time",
+          "force and distance"
+        ],
+        "explanation": "p = mv; it is a vector quantity."
+      },
+      "ta": {
+        "q": "ஒரு பொருளின் நேர்கோட்டு உந்தம் எவற்றின் பெருக்கற்பலன்?",
+        "options": [
+          "நிறை, திசைவேகம்",
+          "நிறை, முடுக்கம்",
+          "விசை, காலம்",
+          "விசை, தொலைவு"
+        ],
+        "explanation": "p = mv; இது ஒரு வெக்டர் அளவு."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 3,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 3,
       "quote": "Unit of momentum in SI system is kg m s–1 and in C.G.S system its unit is g cm s-1.",
       "answer": "B",
-      "en": {"q": "The SI unit of linear momentum is", "options": ["kg m s⁻²", "kg m s⁻¹", "N m", "g cm s⁻¹"], "explanation": "Its CGS unit is g cm s⁻¹."},
-      "ta": {"q": "நேர்கோட்டு உந்தத்தின் SI அலகு எது?", "options": ["kg m s⁻²", "kg m s⁻¹", "N m", "g cm s⁻¹"], "explanation": "அதன் CGS அலகு g cm s⁻¹."}
+      "en": {
+        "q": "The SI unit of linear momentum is",
+        "options": [
+          "kg m s⁻²",
+          "kg m s⁻¹",
+          "N m",
+          "g cm s⁻¹"
+        ],
+        "explanation": "Its CGS unit is g cm s⁻¹."
+      },
+      "ta": {
+        "q": "நேர்கோட்டு உந்தத்தின் SI அலகு எது?",
+        "options": [
+          "kg m s⁻²",
+          "kg m s⁻¹",
+          "N m",
+          "g cm s⁻¹"
+        ],
+        "explanation": "அதன் CGS அலகு g cm s⁻¹."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 3,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 3,
       "quote": "This law states that every body continues to be in its state of rest or the state of uniform motion along a straight line unless it is acted upon by some external force. It gives the definition of force as well as inertia.",
       "answer": "C",
-      "en": {"q": "Which of Newton's laws gives the definition of both force and inertia?", "options": ["Second law", "Third law", "First law", "Law of gravitation"], "explanation": "A body continues in rest or uniform motion unless an external force acts."},
-      "ta": {"q": "நியூட்டனின் எந்த விதி விசை, நிலைமம் இரண்டிற்கும் வரையறை தருகிறது?", "options": ["இரண்டாம் விதி", "மூன்றாம் விதி", "முதல் விதி", "ஈர்ப்பியல் விதி"], "explanation": "புறவிசை செயல்படாதவரை பொருள் ஓய்வு அல்லது சீரான இயக்கத்தில் தொடரும்."}
+      "en": {
+        "q": "Which of Newton's laws gives the definition of both force and inertia?",
+        "options": [
+          "Second law",
+          "Third law",
+          "First law",
+          "Law of gravitation"
+        ],
+        "explanation": "A body continues in rest or uniform motion unless an external force acts."
+      },
+      "ta": {
+        "q": "நியூட்டனின் எந்த விதி விசை, நிலைமம் இரண்டிற்கும் வரையறை தருகிறது?",
+        "options": [
+          "இரண்டாம் விதி",
+          "மூன்றாம் விதி",
+          "முதல் விதி",
+          "ஈர்ப்பியல் விதி"
+        ],
+        "explanation": "புறவிசை செயல்படாதவரை பொருள் ஓய்வு அல்லது சீரான இயக்கத்தில் தொடரும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 3,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 3,
       "quote": "Force has both magnitude and direction. So, it is a vector quantity.",
       "answer": "D",
-      "en": {"q": "Force is a vector quantity because it has", "options": ["only magnitude", "only direction", "neither magnitude nor direction", "both magnitude and direction"], "explanation": "Force is a push or pull that can start, stop or change the direction of motion."},
-      "ta": {"q": "விசை ஒரு வெக்டர் அளவு; ஏனெனில் அதற்கு", "options": ["எண்மதிப்பு மட்டும் உண்டு", "திசை மட்டும் உண்டு", "எண்மதிப்பும் திசையும் இல்லை", "எண்மதிப்பும் திசையும் உண்டு"], "explanation": "விசை இயக்கத்தைத் தொடங்கவோ நிறுத்தவோ திசைமாற்றவோ செய்யும் தள்ளல் அல்லது இழுத்தல்."}
+      "en": {
+        "q": "Force is a vector quantity because it has",
+        "options": [
+          "only magnitude",
+          "only direction",
+          "neither magnitude nor direction",
+          "both magnitude and direction"
+        ],
+        "explanation": "Force is a push or pull that can start, stop or change the direction of motion."
+      },
+      "ta": {
+        "q": "விசை ஒரு வெக்டர் அளவு; ஏனெனில் அதற்கு",
+        "options": [
+          "எண்மதிப்பு மட்டும் உண்டு",
+          "திசை மட்டும் உண்டு",
+          "எண்மதிப்பும் திசையும் இல்லை",
+          "எண்மதிப்பும் திசையும் உண்டு"
+        ],
+        "explanation": "விசை இயக்கத்தைத் தொடங்கவோ நிறுத்தவோ திசைமாற்றவோ செய்யும் தள்ளல் அல்லது இழுத்தல்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 3,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 3,
       "quote": "Like parallel forces: Two or more forces of equal or unequal magnitude acting along the same direction, parallel to each other are called like parallel forces.",
       "answer": "A",
-      "en": {"q": "Two or more forces acting in the same direction, parallel to each other, are called", "options": ["like parallel forces", "unlike parallel forces", "a couple", "balanced forces"], "explanation": "Forces acting in opposite directions parallel to each other are unlike parallel forces."},
-      "ta": {"q": "ஒரே திசையில் ஒன்றுக்கொன்று இணையாகச் செயல்படும் இரண்டு அல்லது அதற்கு மேற்பட்ட விசைகள் எவ்வாறு அழைக்கப்படும்?", "options": ["ஒத்த இணை விசைகள்", "மாறுபட்ட இணை விசைகள்", "இரட்டை", "சமநிலை விசைகள்"], "explanation": "எதிர்த் திசைகளில் இணையாகச் செயல்படுபவை மாறுபட்ட இணை விசைகள்."}
+      "en": {
+        "q": "Two or more forces acting in the same direction, parallel to each other, are called",
+        "options": [
+          "like parallel forces",
+          "unlike parallel forces",
+          "a couple",
+          "balanced forces"
+        ],
+        "explanation": "Forces acting in opposite directions parallel to each other are unlike parallel forces."
+      },
+      "ta": {
+        "q": "ஒரே திசையில் ஒன்றுக்கொன்று இணையாகச் செயல்படும் இரண்டு அல்லது அதற்கு மேற்பட்ட விசைகள் எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "ஒத்த இணை விசைகள்",
+          "மாறுபட்ட இணை விசைகள்",
+          "இரட்டை",
+          "சமநிலை விசைகள்"
+        ],
+        "explanation": "எதிர்த் திசைகளில் இணையாகச் செயல்படுபவை மாறுபட்ட இணை விசைகள்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 4,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 4,
       "quote": "A system can be brought to equilibrium by applying another force, which is equal to the resultant force in magnitude, but opposite in direction. Such force is called as 'Equilibrant'.",
       "answer": "B",
-      "en": {"q": "A force equal in magnitude but opposite in direction to the resultant, which brings a system to equilibrium, is called", "options": ["Resultant", "Equilibrant", "Torque", "Couple"], "explanation": "If the resultant of all forces is zero, the forces are balanced."},
-      "ta": {"q": "தொகுபயன் விசைக்குச் சம எண்மதிப்பும் எதிர்த் திசையும் கொண்டு அமைப்பைச் சமநிலைக்குக் கொண்டுவரும் விசை எது?", "options": ["தொகுபயன் விசை", "சமன்செய் விசை", "திருப்பு விசை", "இரட்டை"], "explanation": "அனைத்து விசைகளின் தொகுபயன் பூஜ்யமானால் அவை சமநிலை விசைகள்."}
+      "en": {
+        "q": "A force equal in magnitude but opposite in direction to the resultant, which brings a system to equilibrium, is called",
+        "options": [
+          "Resultant",
+          "Equilibrant",
+          "Torque",
+          "Couple"
+        ],
+        "explanation": "If the resultant of all forces is zero, the forces are balanced."
+      },
+      "ta": {
+        "q": "தொகுபயன் விசைக்குச் சம எண்மதிப்பும் எதிர்த் திசையும் கொண்டு அமைப்பைச் சமநிலைக்குக் கொண்டுவரும் விசை எது?",
+        "options": [
+          "தொகுபயன் விசை",
+          "சமன்செய் விசை",
+          "திருப்பு விசை",
+          "இரட்டை"
+        ],
+        "explanation": "அனைத்து விசைகளின் தொகுபயன் பூஜ்யமானால் அவை சமநிலை விசைகள்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 4,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 4,
       "quote": "The door can be easily opened or closed when you apply the force at a point far away from the fixed edge.",
       "answer": "C",
-      "en": {"q": "A door handle is fixed far from the hinges because", "options": ["it looks better", "it reduces the weight of the door", "the turning effect of force is greater at a larger distance from the axis", "it reduces friction"], "explanation": "Torque = force × perpendicular distance."},
-      "ta": {"q": "கதவின் கைப்பிடி கீல்களிலிருந்து தொலைவில் பொருத்தப்படுவது ஏன்?", "options": ["அழகுக்காக", "கதவின் எடையைக் குறைக்க", "அச்சிலிருந்து தொலைவு அதிகமானால் விசையின் திருப்பு விளைவு அதிகம்", "உராய்வைக் குறைக்க"], "explanation": "திருப்பு விசை = விசை × செங்குத்துத் தொலைவு."}
+      "en": {
+        "q": "A door handle is fixed far from the hinges because",
+        "options": [
+          "it gives the door a better appearance",
+          "it reduces the weight of the door on the hinges",
+          "a larger distance from the axis gives a greater turning effect",
+          "it reduces the friction at the hinges"
+        ],
+        "explanation": "Torque = force × perpendicular distance."
+      },
+      "ta": {
+        "q": "கதவின் கைப்பிடி கீல்களிலிருந்து தொலைவில் பொருத்தப்படுவது ஏன்?",
+        "options": [
+          "கதவு அழகாகத் தோன்றுவதற்காக",
+          "கீல்கள் மீதான கதவின் எடையைக் குறைப்பதற்காக",
+          "அச்சிலிருந்து தொலைவு அதிகமானால் திருப்பு விளைவு அதிகம்",
+          "கீல்களில் ஏற்படும் உராய்வைக் குறைப்பதற்காக"
+        ],
+        "explanation": "திருப்பு விசை = விசை × செங்குத்துத் தொலைவு."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 5,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 5,
       "quote": "The rotating or turning effect of a force about a fixed point or fixed axis is called moment of the force about that point or torque (τ). ... τ = F × d ... Its SI unit is Nm.",
       "answer": "D",
-      "en": {"q": "The SI unit of torque (moment of a force) is", "options": ["N", "kg m s⁻¹", "N s", "N m"], "explanation": "τ = F × d; torque is a vector quantity."},
-      "ta": {"q": "திருப்பு விசையின் (விசையின் திருப்புத்திறன்) SI அலகு எது?", "options": ["N", "kg m s⁻¹", "N s", "N m"], "explanation": "τ = F × d; திருப்பு விசை ஒரு வெக்டர் அளவு."}
+      "en": {
+        "q": "The SI unit of torque (moment of a force) is",
+        "options": [
+          "N",
+          "kg m s⁻¹",
+          "N s",
+          "N m"
+        ],
+        "explanation": "τ = F × d; torque is a vector quantity."
+      },
+      "ta": {
+        "q": "திருப்பு விசையின் (விசையின் திருப்புத்திறன்) SI அலகு எது?",
+        "options": [
+          "N",
+          "kg m s⁻¹",
+          "N s",
+          "N m"
+        ],
+        "explanation": "τ = F × d; திருப்பு விசை ஒரு வெக்டர் அளவு."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 5,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 5,
       "quote": "Couple: Two equal and unlike parallel forces applied simultaneously at two distinct points constitute a couple. ... Examples: Turning a tap, winding or unwinding a screw, spinning of a top, etc.",
       "answer": "A",
-      "en": {"q": "Two equal and unlike parallel forces applied at two distinct points constitute a", "options": ["couple", "resultant", "equilibrant", "like parallel force"], "explanation": "Turning a tap and spinning a top are examples; a couple causes rotation but no translation."},
-      "ta": {"q": "இரு வெவ்வேறு புள்ளிகளில் செயல்படும் சமமான மாறுபட்ட இணை விசைகள் எதை உருவாக்குகின்றன?", "options": ["இரட்டை", "தொகுபயன் விசை", "சமன்செய் விசை", "ஒத்த இணை விசை"], "explanation": "குழாயைத் திருகுதல், பம்பரம் சுழற்றுதல் எடுத்துக்காட்டுகள்; இரட்டை சுழற்சியைத் தரும், இடப்பெயர்ச்சியைத் தராது."}
+      "en": {
+        "q": "Two equal and unlike parallel forces applied at two distinct points constitute a",
+        "options": [
+          "couple",
+          "resultant",
+          "equilibrant",
+          "like parallel force"
+        ],
+        "explanation": "Turning a tap and spinning a top are examples; a couple causes rotation but no translation."
+      },
+      "ta": {
+        "q": "இரு வெவ்வேறு புள்ளிகளில் செயல்படும் சமமான மாறுபட்ட இணை விசைகள் எதை உருவாக்குகின்றன?",
+        "options": [
+          "இரட்டை",
+          "தொகுபயன் விசை",
+          "சமன்செய் விசை",
+          "ஒத்த இணை விசை"
+        ],
+        "explanation": "குழாயைத் திருகுதல், பம்பரம் சுழற்றுதல் எடுத்துக்காட்டுகள்; இரட்டை சுழற்சியைத் தரும், இடப்பெயர்ச்சியைத் தராது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 5,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 5,
       "quote": "The unit of moment of a couple is newton metre (N m) in SI system and dyne cm in CGS system.",
       "answer": "B",
-      "en": {"q": "The CGS unit of moment of a couple is", "options": ["newton metre", "dyne cm", "g cm s⁻¹", "dyne"], "explanation": "In SI the unit is newton metre."},
-      "ta": {"q": "இரட்டையின் திருப்புத்திறனின் CGS அலகு எது?", "options": ["நியூட்டன் மீட்டர்", "டைன் செ.மீ.", "g cm s⁻¹", "டைன்"], "explanation": "SI அலகு நியூட்டன் மீட்டர்."}
+      "en": {
+        "q": "The CGS unit of moment of a couple is",
+        "options": [
+          "newton metre",
+          "dyne cm",
+          "g cm s⁻¹",
+          "dyne"
+        ],
+        "explanation": "In SI the unit is newton metre."
+      },
+      "ta": {
+        "q": "இரட்டையின் திருப்புத்திறனின் CGS அலகு எது?",
+        "options": [
+          "நியூட்டன் மீட்டர்",
+          "டைன் செ.மீ.",
+          "g cm s⁻¹",
+          "டைன்"
+        ],
+        "explanation": "SI அலகு நியூட்டன் மீட்டர்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 5,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 5,
       "quote": "By convention, the direction of moment of a force or couple is taken as positive if the body is rotated in the anti-clockwise direction and negative if it is rotate in the clockwise direction.",
       "answer": "C",
-      "en": {"q": "By convention, the moment of a force is taken as positive when the body rotates", "options": ["clockwise", "in a straight line", "anticlockwise", "about no axis"], "explanation": "Clockwise moments are taken as negative."},
-      "ta": {"q": "மரபுப்படி பொருள் எந்தத் திசையில் சுழன்றால் விசையின் திருப்புத்திறன் நேர்க்குறியாகக் கொள்ளப்படும்?", "options": ["கடிகாரத் திசை", "நேர்கோட்டில்", "கடிகார எதிர்த் திசை", "அச்சின்றி"], "explanation": "கடிகாரத் திசைத் திருப்புத்திறன் எதிர்க்குறி."}
+      "en": {
+        "q": "By convention, the moment of a force is taken as positive when the body rotates",
+        "options": [
+          "clockwise",
+          "in a straight line",
+          "anticlockwise",
+          "about no axis"
+        ],
+        "explanation": "Clockwise moments are taken as negative."
+      },
+      "ta": {
+        "q": "மரபுப்படி பொருள் எந்தத் திசையில் சுழன்றால் விசையின் திருப்புத்திறன் நேர்க்குறியாகக் கொள்ளப்படும்?",
+        "options": [
+          "கடிகாரத் திசையில்",
+          "நேர்கோட்டுப் பாதையில்",
+          "கடிகார எதிர்த் திசையில்",
+          "எந்த அச்சுமின்றி"
+        ],
+        "explanation": "கடிகாரத் திசைத் திருப்புத்திறன் எதிர்க்குறி."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 5,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 5,
       "quote": "A gear is a circular wheel with teeth around its rim. It helps to change the speed of rotation of a wheel by changing the torque and helps to transmit power.",
       "answer": "D",
-      "en": {"q": "A circular wheel with teeth around its rim that changes speed of rotation by changing torque is a", "options": ["seesaw", "steering wheel", "lever", "gear"], "explanation": "Gears also help to transmit power."},
-      "ta": {"q": "விளிம்பில் பற்களைக் கொண்டு திருப்பு விசையை மாற்றிச் சுழற்சி வேகத்தை மாற்றும் வட்டச் சக்கரம் எது?", "options": ["சீசா", "திசைமாற்றி வளையம்", "நெம்புகோல்", "பற்சக்கரம்"], "explanation": "பற்சக்கரங்கள் திறனைக் கடத்தவும் உதவுகின்றன."}
+      "en": {
+        "q": "A circular wheel with teeth around its rim that changes speed of rotation by changing torque is a",
+        "options": [
+          "seesaw",
+          "steering wheel",
+          "lever",
+          "gear"
+        ],
+        "explanation": "Gears also help to transmit power."
+      },
+      "ta": {
+        "q": "விளிம்பில் பற்களைக் கொண்டு திருப்பு விசையை மாற்றிச் சுழற்சி வேகத்தை மாற்றும் வட்டச் சக்கரம் எது?",
+        "options": [
+          "சீசா",
+          "திசைமாற்றி வளையம்",
+          "நெம்புகோல்",
+          "பற்சக்கரம்"
+        ],
+        "explanation": "பற்சக்கரங்கள் திறனைக் கடத்தவும் உதவுகின்றன."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 6,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 6,
       "quote": "at equilibrium, the algebraic sum of the moments of all the individual forces about any point is equal to zero. ... F1 × d1 = F2 × d2",
       "answer": "A",
-      "en": {"q": "According to the principle of moments, a body in equilibrium satisfies", "options": ["F1 × d1 = F2 × d2", "F1 + F2 = 0 always", "F1 × F2 = d1 × d2", "F1 / d1 = F2 / d2"], "explanation": "Sum of clockwise moments equals sum of anticlockwise moments."},
-      "ta": {"q": "திருப்புத்திறன் தத்துவத்தின்படி சமநிலையில் உள்ள பொருள் எதை நிறைவு செய்யும்?", "options": ["F1 × d1 = F2 × d2", "எப்போதும் F1 + F2 = 0", "F1 × F2 = d1 × d2", "F1 / d1 = F2 / d2"], "explanation": "கடிகாரத் திசைத் திருப்புத்திறன்களின் கூடுதல் = எதிர்த் திசைத் திருப்புத்திறன்களின் கூடுதல்."}
+      "en": {
+        "q": "According to the principle of moments, a body in equilibrium satisfies",
+        "options": [
+          "F1 × d1 = F2 × d2",
+          "F1 + F2 = 0 always",
+          "F1 × F2 = d1 × d2",
+          "F1 / d1 = F2 / d2"
+        ],
+        "explanation": "Sum of clockwise moments equals sum of anticlockwise moments."
+      },
+      "ta": {
+        "q": "திருப்புத்திறன் தத்துவத்தின்படி சமநிலையில் உள்ள பொருள் எதை நிறைவு செய்யும்?",
+        "options": [
+          "F1 × d1 = F2 × d2",
+          "எப்போதும் F1 + F2 = 0",
+          "F1 × F2 = d1 × d2",
+          "F1 / d1 = F2 / d2"
+        ],
+        "explanation": "கடிகாரத் திசைத் திருப்புத்திறன்களின் கூடுதல் = எதிர்த் திசைத் திருப்புத்திறன்களின் கூடுதல்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 6,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 6,
       "quote": "This law helps us to measure the amount of force. So, it is also called as 'law of force'.",
       "answer": "B",
-      "en": {"q": "Which law is also called the 'law of force'?", "options": ["Newton's first law", "Newton's second law", "Newton's third law", "Law of conservation of momentum"], "explanation": "It states that force is proportional to the rate of change of momentum."},
-      "ta": {"q": "'விசையின் விதி' என அழைக்கப்படுவது எது?", "options": ["நியூட்டனின் முதல் விதி", "நியூட்டனின் இரண்டாம் விதி", "நியூட்டனின் மூன்றாம் விதி", "உந்த அழிவின்மை விதி"], "explanation": "விசை உந்த மாற்ற வீதத்திற்கு நேர்விகிதத்தில் இருக்கும் என்கிறது."}
+      "en": {
+        "q": "Which law is also called the 'law of force'?",
+        "options": [
+          "Newton's first law",
+          "Newton's second law",
+          "Newton's third law",
+          "Law of conservation of momentum"
+        ],
+        "explanation": "It states that force is proportional to the rate of change of momentum."
+      },
+      "ta": {
+        "q": "'விசையின் விதி' என அழைக்கப்படுவது எது?",
+        "options": [
+          "நியூட்டனின் முதல் விதி",
+          "நியூட்டனின் இரண்டாம் விதி",
+          "நியூட்டனின் மூன்றாம் விதி",
+          "உந்த அழிவின்மை விதி"
+        ],
+        "explanation": "விசை உந்த மாற்ற வீதத்திற்கு நேர்விகிதத்தில் இருக்கும் என்கிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 6,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 6,
       "quote": "Definition of 1 newton (N): The amount of force required for a body of mass 1 kg produces an acceleration of 1 m s–2, 1 N = 1 kgms–2 ... also 1 N = 10^5 dyne.",
       "answer": "C",
-      "en": {"q": "1 newton is equal to", "options": ["10³ dyne", "10⁷ dyne", "10⁵ dyne", "980 dyne"], "explanation": "1 N = 1 kg m s⁻² and 1 dyne = 1 g cm s⁻²."},
-      "ta": {"q": "1 நியூட்டன் எதற்குச் சமம்?", "options": ["10³ டைன்", "10⁷ டைன்", "10⁵ டைன்", "980 டைன்"], "explanation": "1 N = 1 kg m s⁻², 1 டைன் = 1 g cm s⁻²."}
+      "en": {
+        "q": "1 newton is equal to",
+        "options": [
+          "10³ dyne",
+          "10⁷ dyne",
+          "10⁵ dyne",
+          "980 dyne"
+        ],
+        "explanation": "1 N = 1 kg m s⁻² and 1 dyne = 1 g cm s⁻²."
+      },
+      "ta": {
+        "q": "1 நியூட்டன் எதற்குச் சமம்?",
+        "options": [
+          "10³ டைன்",
+          "10⁷ டைன்",
+          "10⁵ டைன்",
+          "980 டைன்"
+        ],
+        "explanation": "1 N = 1 kg m s⁻², 1 டைன் = 1 g cm s⁻²."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 6,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 6,
       "quote": "In a uniform circular motion, even though the speed (magnitude of velocity) remains constant, the direction of the velocity changes at every point on the circular path. So, the acceleration is produced along the radius called as centripetal acceleration.",
       "answer": "D",
-      "en": {"q": "In uniform circular motion the acceleration produced along the radius is called", "options": ["tangential acceleration", "zero acceleration", "acceleration due to gravity", "centripetal acceleration"], "explanation": "The speed is constant but direction of velocity changes at every point."},
-      "ta": {"q": "சீரான வட்ட இயக்கத்தில் ஆரத்தின் வழியே உண்டாகும் முடுக்கம் எவ்வாறு அழைக்கப்படும்?", "options": ["தொடுகோட்டு முடுக்கம்", "பூஜ்ய முடுக்கம்", "புவிஈர்ப்பு முடுக்கம்", "மையநோக்கு முடுக்கம்"], "explanation": "வேகம் மாறாவிட்டாலும் திசைவேகத்தின் திசை ஒவ்வொரு புள்ளியிலும் மாறுகிறது."}
+      "en": {
+        "q": "In uniform circular motion the acceleration produced along the radius is called",
+        "options": [
+          "tangential acceleration",
+          "zero acceleration",
+          "acceleration due to gravity",
+          "centripetal acceleration"
+        ],
+        "explanation": "The speed is constant but direction of velocity changes at every point."
+      },
+      "ta": {
+        "q": "சீரான வட்ட இயக்கத்தில் ஆரத்தின் வழியே உண்டாகும் முடுக்கம் எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "தொடுகோட்டு முடுக்கம்",
+          "பூஜ்ய முடுக்கம்",
+          "புவிஈர்ப்பு முடுக்கம்",
+          "மையநோக்கு முடுக்கம்"
+        ],
+        "explanation": "வேகம் மாறாவிட்டாலும் திசைவேகத்தின் திசை ஒவ்வொரு புள்ளியிலும் மாறுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 7,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 7,
       "quote": "In the SI system of units, gravitational unit of force is kilogram force, represented by kg f. ... 1 kgf = 1 kg × 9.8 ms-2 = 9.8 N",
       "answer": "A",
-      "en": {"q": "1 kilogram force (kgf) is equal to", "options": ["9.8 N", "1 N", "98 N", "0.98 N"], "explanation": "1 gf = 980 dyne in the CGS system."},
-      "ta": {"q": "1 கிலோகிராம் விசை (kgf) எதற்குச் சமம்?", "options": ["9.8 N", "1 N", "98 N", "0.98 N"], "explanation": "CGS அமைப்பில் 1 gf = 980 டைன்."}
+      "en": {
+        "q": "1 kilogram force (kgf) is equal to",
+        "options": [
+          "9.8 N",
+          "1 N",
+          "98 N",
+          "0.98 N"
+        ],
+        "explanation": "1 gf = 980 dyne in the CGS system."
+      },
+      "ta": {
+        "q": "1 கிலோகிராம் விசை (kgf) எதற்குச் சமம்?",
+        "options": [
+          "9.8 N",
+          "1 N",
+          "98 N",
+          "0.98 N"
+        ],
+        "explanation": "CGS அமைப்பில் 1 gf = 980 டைன்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 7,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 7,
       "quote": "A large force acting for a very short interval of time is called as 'Impulsive force'.",
       "answer": "B",
-      "en": {"q": "A large force acting for a very short interval of time is called", "options": ["frictional force", "impulsive force", "centripetal force", "gravitational force"], "explanation": "The product of force and time is impulse."},
-      "ta": {"q": "மிகக் குறைந்த நேரத்தில் செயல்படும் பெரிய விசை எவ்வாறு அழைக்கப்படும்?", "options": ["உராய்வு விசை", "கணத்தாக்கு விசை", "மையநோக்கு விசை", "ஈர்ப்பு விசை"], "explanation": "விசையும் காலமும் பெருக்கினால் கணத்தாக்கு."}
+      "en": {
+        "q": "A large force acting for a very short interval of time is called",
+        "options": [
+          "frictional force",
+          "impulsive force",
+          "centripetal force",
+          "gravitational force"
+        ],
+        "explanation": "The product of force and time is impulse."
+      },
+      "ta": {
+        "q": "மிகக் குறைந்த நேரத்தில் செயல்படும் பெரிய விசை எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "உராய்வு விசை",
+          "கணத்தாக்கு விசை",
+          "மையநோக்கு விசை",
+          "ஈர்ப்பு விசை"
+        ],
+        "explanation": "விசையும் காலமும் பெருக்கினால் கணத்தாக்கு."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 7,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 7,
       "quote": "Impulse, J = F × t ... J = Δp. Impulse is also equal to the magnitude of change in momentum. Its unit is kgms–1 or Ns.",
       "answer": "C",
-      "en": {"q": "Impulse is equal to", "options": ["mass × acceleration", "force × distance", "change in momentum", "mass × velocity²"], "explanation": "J = F × t = Δp; unit N s or kg m s⁻¹."},
-      "ta": {"q": "கணத்தாக்கு எதற்குச் சமம்?", "options": ["நிறை × முடுக்கம்", "விசை × தொலைவு", "உந்த மாற்றம்", "நிறை × திசைவேகம்²"], "explanation": "J = F × t = Δp; அலகு N s அல்லது kg m s⁻¹."}
+      "en": {
+        "q": "Impulse is equal to",
+        "options": [
+          "mass × acceleration",
+          "force × distance",
+          "change in momentum",
+          "mass × velocity²"
+        ],
+        "explanation": "J = F × t = Δp; unit N s or kg m s⁻¹."
+      },
+      "ta": {
+        "q": "கணத்தாக்கு எதற்குச் சமம்?",
+        "options": [
+          "நிறை × முடுக்கம்",
+          "விசை × தொலைவு",
+          "உந்த மாற்றம்",
+          "நிறை × திசைவேகம்²"
+        ],
+        "explanation": "J = F × t = Δp; அலகு N s அல்லது kg m s⁻¹."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 7,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 7,
       "quote": "In cricket, a fielder pulls back his hands while catching the ball. He experiences a smaller force for a longer interval of time to catch the ball, resulting in a lesser impulse on his hands.",
       "answer": "D",
-      "en": {"q": "A cricket fielder pulls back his hands while catching a ball in order to", "options": ["increase the force on his hands", "increase the momentum of the ball", "reduce the time of contact", "experience a smaller force over a longer time"], "explanation": "Shock absorbers in vehicles work on the same idea."},
-      "ta": {"q": "கிரிக்கெட் களத்தடுப்பாளர் பந்தைப் பிடிக்கும்போது கைகளைப் பின்னிழுப்பது ஏன்?", "options": ["கைகளில் விசையை அதிகரிக்க", "பந்தின் உந்தத்தை அதிகரிக்க", "தொடு நேரத்தைக் குறைக்க", "நீண்ட நேரத்தில் குறைந்த விசையை உணர"], "explanation": "வாகனங்களின் அதிர்வுதாங்கிகளும் இதே கருத்தில் செயல்படுகின்றன."}
+      "en": {
+        "q": "A cricket fielder pulls back his hands while catching a ball in order to",
+        "options": [
+          "increase the force on his hands",
+          "increase the momentum of the ball",
+          "reduce the time of contact",
+          "experience a smaller force over a longer time"
+        ],
+        "explanation": "Shock absorbers in vehicles work on the same idea."
+      },
+      "ta": {
+        "q": "கிரிக்கெட் களத்தடுப்பாளர் பந்தைப் பிடிக்கும்போது கைகளைப் பின்னிழுப்பது ஏன்?",
+        "options": [
+          "கைகளில் விசையை அதிகரிக்க",
+          "பந்தின் உந்தத்தை அதிகரிக்க",
+          "தொடு நேரத்தைக் குறைக்க",
+          "நீண்ட நேரத்தில் குறைந்த விசையை உணர"
+        ],
+        "explanation": "வாகனங்களின் அதிர்வுதாங்கிகளும் இதே கருத்தில் செயல்படுகின்றன."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "easy", "bloom": "remember", "page": 7,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 7,
       "quote": "Newton's third law states that 'for every action, there is an equal and opposite reaction. They always act on two different bodies'.",
       "answer": "A",
-      "en": {"q": "'For every action, there is an equal and opposite reaction' is Newton's", "options": ["third law", "first law", "second law", "law of gravitation"], "explanation": "Action and reaction always act on two different bodies."},
-      "ta": {"q": "'ஒவ்வொரு வினைக்கும் சமமான எதிர்வினை உண்டு' என்பது நியூட்டனின் எந்த விதி?", "options": ["மூன்றாம் விதி", "முதல் விதி", "இரண்டாம் விதி", "ஈர்ப்பியல் விதி"], "explanation": "வினையும் எதிர்வினையும் எப்போதும் இரு வெவ்வேறு பொருள்கள் மீது செயல்படும்."}
+      "en": {
+        "q": "'For every action, there is an equal and opposite reaction' is Newton's",
+        "options": [
+          "third law",
+          "first law",
+          "second law",
+          "law of gravitation"
+        ],
+        "explanation": "Action and reaction always act on two different bodies."
+      },
+      "ta": {
+        "q": "'ஒவ்வொரு வினைக்கும் சமமான எதிர்வினை உண்டு' என்பது நியூட்டனின் எந்த விதி?",
+        "options": [
+          "மூன்றாம் விதி",
+          "முதல் விதி",
+          "இரண்டாம் விதி",
+          "ஈர்ப்பியல் விதி"
+        ],
+        "explanation": "வினையும் எதிர்வினையும் எப்போதும் இரு வெவ்வேறு பொருள்கள் மீது செயல்படும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 7,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 7,
       "quote": "When you fire a bullet, the gun recoils backward and the bullet is moving forward (Action) and the gun equalises this forward action by moving backward (Reaction).",
       "answer": "B",
-      "en": {"q": "The recoil of a gun when a bullet is fired is explained by", "options": ["Newton's first law", "Newton's third law", "law of gravitation", "principle of moments"], "explanation": "Birds flying and swimmers pushing water are other examples."},
-      "ta": {"q": "குண்டு சுடப்படும்போது துப்பாக்கி பின்னோக்கி உதைப்பதை விளக்குவது எது?", "options": ["நியூட்டனின் முதல் விதி", "நியூட்டனின் மூன்றாம் விதி", "ஈர்ப்பியல் விதி", "திருப்புத்திறன் தத்துவம்"], "explanation": "பறவை பறத்தல், நீச்சல் பிற எடுத்துக்காட்டுகள்."}
+      "en": {
+        "q": "The recoil of a gun when a bullet is fired is explained by",
+        "options": [
+          "Newton's first law",
+          "Newton's third law",
+          "law of gravitation",
+          "principle of moments"
+        ],
+        "explanation": "Birds flying and swimmers pushing water are other examples."
+      },
+      "ta": {
+        "q": "குண்டு சுடப்படும்போது துப்பாக்கி பின்னோக்கி உதைப்பதை விளக்குவது எது?",
+        "options": [
+          "நியூட்டனின் முதல் விதி",
+          "நியூட்டனின் மூன்றாம் விதி",
+          "ஈர்ப்பியல் விதி",
+          "திருப்புத்திறன் தத்துவம்"
+        ],
+        "explanation": "பறவை பறத்தல், நீச்சல் பிற எடுத்துக்காட்டுகள்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 7,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 7,
       "quote": "There is no change in the linear momentum of a system of bodies as long as no net external force acts on them.",
       "answer": "C",
-      "en": {"q": "The linear momentum of a system of bodies remains unchanged as long as", "options": ["the bodies are at rest", "the bodies collide", "no net external force acts on them", "gravity acts on them"], "explanation": "This is the principle of conservation of linear momentum."},
-      "ta": {"q": "பொருள்களின் அமைப்பின் நேர்கோட்டு உந்தம் எதுவரை மாறாமல் இருக்கும்?", "options": ["பொருள்கள் ஓய்வில் இருக்கும் வரை", "பொருள்கள் மோதும் வரை", "நிகரப் புறவிசை செயல்படாத வரை", "ஈர்ப்பு செயல்படும் வரை"], "explanation": "இது நேர்கோட்டு உந்த அழிவின்மைத் தத்துவம்."}
+      "en": {
+        "q": "The linear momentum of a system of bodies remains unchanged as long as",
+        "options": [
+          "the bodies move at high speed",
+          "a small external force acts on them",
+          "no net external force acts on them",
+          "the Earth's gravity acts on them"
+        ],
+        "explanation": "This is the principle of conservation of linear momentum."
+      },
+      "ta": {
+        "q": "பொருள்களின் அமைப்பின் நேர்கோட்டு உந்தம் எதுவரை மாறாமல் இருக்கும்?",
+        "options": [
+          "பொருள்கள் அதிக வேகத்தில் இயங்கும் வரை",
+          "சிறிய புறவிசை செயல்படும் வரை",
+          "நிகரப் புறவிசை செயல்படாத வரை",
+          "புவியீர்ப்பு விசை செயல்படும் வரை"
+        ],
+        "explanation": "இது நேர்கோட்டு உந்த அழிவின்மைத் தத்துவம்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 8,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 8,
       "quote": "Propulsion of rockets is based on the law of conservation of linear momentum as well as Newton's III law of motion.",
       "answer": "D",
-      "en": {"q": "Rocket propulsion is based on", "options": ["Newton's first law only", "the law of gravitation", "the principle of moments", "conservation of linear momentum and Newton's third law"], "explanation": "Hot gases ejected backward push the rocket forward."},
-      "ta": {"q": "ஏவூர்தி உந்துதல் எதன் அடிப்படையில் அமைந்தது?", "options": ["நியூட்டனின் முதல் விதி மட்டும்", "ஈர்ப்பியல் விதி", "திருப்புத்திறன் தத்துவம்", "நேர்கோட்டு உந்த அழிவின்மை, நியூட்டனின் மூன்றாம் விதி"], "explanation": "பின்னோக்கி வெளியேறும் சூடான வாயு ஏவூர்தியை முன்னோக்கித் தள்ளுகிறது."}
+      "en": {
+        "q": "Rocket propulsion is based on",
+        "options": [
+          "Newton's first law and the principle of inertia",
+          "the law of gravitation and Archimedes' principle",
+          "the principle of moments and Pascal's law",
+          "conservation of linear momentum and Newton's third law"
+        ],
+        "explanation": "Hot gases ejected backward push the rocket forward."
+      },
+      "ta": {
+        "q": "ஏவூர்தி உந்துதல் எதன் அடிப்படையில் அமைந்தது?",
+        "options": [
+          "நியூட்டனின் முதல் விதி, நிலைம விதி",
+          "ஈர்ப்பியல் விதி, ஆர்க்கிமிடீஸ் தத்துவம்",
+          "திருப்புத்திறன் தத்துவம், பாஸ்கல் விதி",
+          "நேர்கோட்டு உந்த அழிவின்மை, மூன்றாம் விதி"
+        ],
+        "explanation": "பின்னோக்கி வெளியேறும் சூடான வாயு ஏவூர்தியை முன்னோக்கித் தள்ளுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 8,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 8,
       "quote": "The mass of the rocket decreases with altitude, which results in the gradual increase in velocity of the rocket. At one stage, it reaches a velocity, which is sufficient to just escape from the gravitational pull of the Earth. This velocity is called escape velocity.",
       "answer": "A",
-      "en": {"q": "The velocity sufficient for a rocket to just escape from Earth's gravitational pull is called", "options": ["escape velocity", "orbital velocity", "terminal velocity", "relative velocity"], "explanation": "The rocket's velocity rises as its mass decreases with the burning of fuel."},
-      "ta": {"q": "புவியின் ஈர்ப்பிலிருந்து தப்பிக்கப் போதுமான ஏவூர்தியின் திசைவேகம் எவ்வாறு அழைக்கப்படும்?", "options": ["விடுபடு திசைவேகம்", "சுற்றுப்பாதைத் திசைவேகம்", "முற்றுத் திசைவேகம்", "சார்புத் திசைவேகம்"], "explanation": "எரிபொருள் எரிய நிறை குறைவதால் ஏவூர்தியின் திசைவேகம் உயர்கிறது."}
+      "en": {
+        "q": "The velocity sufficient for a rocket to just escape from Earth's gravitational pull is called",
+        "options": [
+          "escape velocity",
+          "orbital velocity",
+          "terminal velocity",
+          "relative velocity"
+        ],
+        "explanation": "The rocket's velocity rises as its mass decreases with the burning of fuel."
+      },
+      "ta": {
+        "q": "புவியின் ஈர்ப்பிலிருந்து தப்பிக்கப் போதுமான ஏவூர்தியின் திசைவேகம் எவ்வாறு அழைக்கப்படும்?",
+        "options": [
+          "விடுபடு திசைவேகம்",
+          "சுற்றுப்பாதைத் திசைவேகம்",
+          "முற்றுத் திசைவேகம்",
+          "சார்புத் திசைவேகம்"
+        ],
+        "explanation": "எரிபொருள் எரிய நிறை குறைவதால் ஏவூர்தியின் திசைவேகம் உயர்கிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 8,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 8,
       "quote": "This force is directly proportional to the product of their masses and inversely proportional to the square of the distance between the centers of these masses.",
       "answer": "B",
-      "en": {"q": "According to Newton's universal law of gravitation, the force between two masses is inversely proportional to", "options": ["the product of their masses", "the square of the distance between their centres", "the distance between them", "the medium between them"], "explanation": "F = G m₁m₂ / r²; the force does not depend on the medium."},
-      "ta": {"q": "நியூட்டனின் பொது ஈர்ப்பியல் விதிப்படி இரு நிறைகளுக்கிடையேயான விசை எதற்கு எதிர்விகிதத்தில் இருக்கும்?", "options": ["நிறைகளின் பெருக்கற்பலன்", "மையங்களுக்கு இடையிலான தொலைவின் இருமடி", "இடைத்தொலைவு", "இடையிலுள்ள ஊடகம்"], "explanation": "F = G m₁m₂ / r²; ஊடகத்தைச் சார்ந்ததல்ல."}
+      "en": {
+        "q": "According to Newton's universal law of gravitation, the force between two masses is inversely proportional to",
+        "options": [
+          "the product of their masses",
+          "the square of the distance between them",
+          "the cube of the distance between them",
+          "the nature of the medium between them"
+        ],
+        "explanation": "F = G m₁m₂ / r²; the force does not depend on the medium."
+      },
+      "ta": {
+        "q": "நியூட்டனின் பொது ஈர்ப்பியல் விதிப்படி இரு நிறைகளுக்கிடையேயான விசை எதற்கு எதிர்விகிதத்தில் இருக்கும்?",
+        "options": [
+          "நிறைகளின் பெருக்கற்பலன்",
+          "இடைத்தொலைவின் இருமடி",
+          "இடைத்தொலைவின் மும்மடி",
+          "இடையிலுள்ள ஊடகத்தின் தன்மை"
+        ],
+        "explanation": "F = G m₁m₂ / r²; ஊடகத்தைச் சார்ந்ததல்ல."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 9,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 9,
       "quote": "Where G is the universal gravitational constant. Its value in SI unit is 6.674 × 10–11 Nm2 kg–2.",
       "answer": "C",
-      "en": {"q": "The value of the universal gravitational constant G in SI units is", "options": ["9.8 m s⁻²", "6.674 × 10⁻⁹ N m² kg⁻²", "6.674 × 10⁻¹¹ N m² kg⁻²", "5.972 × 10²⁴ kg"], "explanation": "G is a universal constant."},
-      "ta": {"q": "பொது ஈர்ப்பியல் மாறிலி G-யின் SI மதிப்பு என்ன?", "options": ["9.8 m s⁻²", "6.674 × 10⁻⁹ N m² kg⁻²", "6.674 × 10⁻¹¹ N m² kg⁻²", "5.972 × 10²⁴ kg"], "explanation": "G ஒரு பொது மாறிலி."}
+      "en": {
+        "q": "The value of the universal gravitational constant G in SI units is",
+        "options": [
+          "9.8 m s⁻²",
+          "6.674 × 10⁻⁹ N m² kg⁻²",
+          "6.674 × 10⁻¹¹ N m² kg⁻²",
+          "5.972 × 10²⁴ kg"
+        ],
+        "explanation": "G is a universal constant."
+      },
+      "ta": {
+        "q": "பொது ஈர்ப்பியல் மாறிலி G-யின் SI மதிப்பு என்ன?",
+        "options": [
+          "9.8 m s⁻²",
+          "6.674 × 10⁻⁹ N m² kg⁻²",
+          "6.674 × 10⁻¹¹ N m² kg⁻²",
+          "5.972 × 10²⁴ kg"
+        ],
+        "explanation": "G ஒரு பொது மாறிலி."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 9,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 9,
       "quote": "Mean value of the acceleration due to gravity is taken as 9.8 m s-2 on the surface of the Earth.",
       "answer": "D",
-      "en": {"q": "The mean value of acceleration due to gravity on the Earth's surface is taken as", "options": ["1.625 m s⁻²", "6.4 m s⁻²", "10.8 m s⁻²", "9.8 m s⁻²"], "explanation": "Velocity of a freely falling body changes by 9.8 m s⁻¹ every second."},
-      "ta": {"q": "புவிப் பரப்பில் புவிஈர்ப்பு முடுக்கத்தின் சராசரி மதிப்பு என்ன?", "options": ["1.625 m s⁻²", "6.4 m s⁻²", "10.8 m s⁻²", "9.8 m s⁻²"], "explanation": "தடையின்றி விழும் பொருளின் திசைவேகம் ஒவ்வொரு வினாடியும் 9.8 m s⁻¹ மாறுகிறது."}
+      "en": {
+        "q": "The mean value of acceleration due to gravity on the Earth's surface is taken as",
+        "options": [
+          "1.625 m s⁻²",
+          "6.4 m s⁻²",
+          "10.8 m s⁻²",
+          "9.8 m s⁻²"
+        ],
+        "explanation": "Velocity of a freely falling body changes by 9.8 m s⁻¹ every second."
+      },
+      "ta": {
+        "q": "புவிப் பரப்பில் புவிஈர்ப்பு முடுக்கத்தின் சராசரி மதிப்பு என்ன?",
+        "options": [
+          "1.625 m s⁻²",
+          "6.4 m s⁻²",
+          "10.8 m s⁻²",
+          "9.8 m s⁻²"
+        ],
+        "explanation": "தடையின்றி விழும் பொருளின் திசைவேகம் ஒவ்வொரு வினாடியும் 9.8 m s⁻¹ மாறுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 9,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 9,
       "quote": "Acceleration due to gravity g = GM / R2 ... Mass of the Earth M = g R2 /G",
       "answer": "A",
-      "en": {"q": "The relation between acceleration due to gravity (g) and the gravitational constant (G) is", "options": ["g = GM / R²", "g = GM R²", "g = G / MR²", "g = MR² / G"], "explanation": "M is the mass and R the radius of the Earth."},
-      "ta": {"q": "புவிஈர்ப்பு முடுக்கம் (g), ஈர்ப்பியல் மாறிலி (G) இடையிலான தொடர்பு எது?", "options": ["g = GM / R²", "g = GM R²", "g = G / MR²", "g = MR² / G"], "explanation": "M புவியின் நிறை, R புவியின் ஆரம்."}
+      "en": {
+        "q": "The relation between acceleration due to gravity (g) and the gravitational constant (G) is",
+        "options": [
+          "g = GM / R²",
+          "g = GM R²",
+          "g = G / MR²",
+          "g = MR² / G"
+        ],
+        "explanation": "M is the mass and R the radius of the Earth."
+      },
+      "ta": {
+        "q": "புவிஈர்ப்பு முடுக்கம் (g), ஈர்ப்பியல் மாறிலி (G) இடையிலான தொடர்பு எது?",
+        "options": [
+          "g = GM / R²",
+          "g = GM R²",
+          "g = G / MR²",
+          "g = MR² / G"
+        ],
+        "explanation": "M புவியின் நிறை, R புவியின் ஆரம்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "remember", "page": 9,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "remember",
+      "page": 9,
       "quote": "you can calculate the mass of the Earth as M = 5.972 × 10^24 kg",
       "answer": "B",
-      "en": {"q": "The mass of the Earth calculated using M = gR²/G is about", "options": ["6.674 × 10²⁴ kg", "5.972 × 10²⁴ kg", "6.378 × 10²² kg", "9.8 × 10²⁴ kg"], "explanation": "The radius of the Earth is taken as 6378 km (about 6400 km)."},
-      "ta": {"q": "M = gR²/G மூலம் கணக்கிட்ட புவியின் நிறை ஏறக்குறைய எவ்வளவு?", "options": ["6.674 × 10²⁴ kg", "5.972 × 10²⁴ kg", "6.378 × 10²² kg", "9.8 × 10²⁴ kg"], "explanation": "புவியின் ஆரம் 6378 கி.மீ. (ஏறக்குறைய 6400 கி.மீ.)."}
+      "en": {
+        "q": "The mass of the Earth calculated using M = gR²/G is about",
+        "options": [
+          "6.674 × 10²⁴ kg",
+          "5.972 × 10²⁴ kg",
+          "6.378 × 10²² kg",
+          "9.8 × 10²⁴ kg"
+        ],
+        "explanation": "The radius of the Earth is taken as 6378 km (about 6400 km)."
+      },
+      "ta": {
+        "q": "M = gR²/G மூலம் கணக்கிட்ட புவியின் நிறை ஏறக்குறைய எவ்வளவு?",
+        "options": [
+          "6.674 × 10²⁴ kg",
+          "5.972 × 10²⁴ kg",
+          "6.378 × 10²² kg",
+          "9.8 × 10²⁴ kg"
+        ],
+        "explanation": "புவியின் ஆரம் 6378 கி.மீ. (ஏறக்குறைய 6400 கி.மீ.)."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 10,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 10,
       "quote": "Since, the geometric radius of the Earth is maximum in the equatorial region and minimum in the polar region, the value of g is maximum in the polar region and minimum at the equatorial region.",
       "answer": "C",
-      "en": {"q": "The value of acceleration due to gravity is maximum at", "options": ["the equator", "the centre of the Earth", "the poles", "high altitudes"], "explanation": "Earth's radius is least at the poles; g is zero at the centre of the Earth."},
-      "ta": {"q": "புவிஈர்ப்பு முடுக்கத்தின் மதிப்பு எங்கு அதிகம்?", "options": ["நிலநடுக்கோடு", "புவியின் மையம்", "துருவங்கள்", "உயரமான இடங்கள்"], "explanation": "துருவங்களில் புவியின் ஆரம் குறைவு; புவியின் மையத்தில் g பூஜ்யம்."}
+      "en": {
+        "q": "The value of acceleration due to gravity is maximum at",
+        "options": [
+          "the equator",
+          "the centre of the Earth",
+          "the poles",
+          "high altitudes"
+        ],
+        "explanation": "Earth's radius is least at the poles; g is zero at the centre of the Earth."
+      },
+      "ta": {
+        "q": "புவிஈர்ப்பு முடுக்கத்தின் மதிப்பு எங்கு அதிகம்?",
+        "options": [
+          "நிலநடுக்கோடு",
+          "புவியின் மையம்",
+          "துருவங்கள்",
+          "உயரமான இடங்கள்"
+        ],
+        "explanation": "துருவங்களில் புவியின் ஆரம் குறைவு; புவியின் மையத்தில் g பூஜ்யம்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "remember", "page": 10,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 10,
       "quote": "Value of g is zero at the centre of the Earth.",
       "answer": "D",
-      "en": {"q": "The value of g at the centre of the Earth is", "options": ["9.8 m s⁻²", "maximum", "1.625 m s⁻²", "zero"], "explanation": "g reduces both at higher altitudes and at depths below the surface."},
-      "ta": {"q": "புவியின் மையத்தில் g-யின் மதிப்பு என்ன?", "options": ["9.8 m s⁻²", "பெருமம்", "1.625 m s⁻²", "பூஜ்யம்"], "explanation": "உயரத்திலும் ஆழத்திலும் g குறைகிறது."}
+      "en": {
+        "q": "The value of g at the centre of the Earth is",
+        "options": [
+          "9.8 m s⁻²",
+          "maximum",
+          "1.625 m s⁻²",
+          "zero"
+        ],
+        "explanation": "g reduces both at higher altitudes and at depths below the surface."
+      },
+      "ta": {
+        "q": "புவியின் மையத்தில் g-யின் மதிப்பு என்ன?",
+        "options": [
+          "9.8 m s⁻²",
+          "பெருமம்",
+          "1.625 m s⁻²",
+          "பூஜ்யம்"
+        ],
+        "explanation": "உயரத்திலும் ஆழத்திலும் g குறைகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 10,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 10,
       "quote": "Mass of a body is defined as the quantity of matter contained in the body. Its SI unit is kilogram (kg). ... Weight is a vector quantity. Direction of weight is always towards the centre of the Earth. SI unit of weight is newton (N).",
       "answer": "A",
-      "en": {"q": "Which statement about mass and weight is correct?", "options": ["Mass is measured in kg; weight is a vector measured in newton", "Both are measured in newton", "Mass changes from place to place; weight does not", "Weight is a scalar quantity"], "explanation": "Mass stays the same everywhere; weight depends on g."},
-      "ta": {"q": "நிறை, எடை குறித்த சரியான கூற்று எது?", "options": ["நிறை kg-இல் அளக்கப்படும்; எடை நியூட்டனில் அளக்கப்படும் வெக்டர்", "இரண்டும் நியூட்டனில்", "நிறை இடத்திற்கு இடம் மாறும்; எடை மாறாது", "எடை ஒரு ஸ்கேலர் அளவு"], "explanation": "நிறை எங்கும் மாறாது; எடை g-ஐச் சார்ந்தது."}
+      "en": {
+        "q": "Which statement about mass and weight is correct?",
+        "options": [
+          "Mass is measured in kg; weight is a vector measured in newton",
+          "Both are measured in newton",
+          "Mass changes from place to place; weight does not",
+          "Weight is a scalar quantity"
+        ],
+        "explanation": "Mass stays the same everywhere; weight depends on g."
+      },
+      "ta": {
+        "q": "நிறை, எடை குறித்த சரியான கூற்று எது?",
+        "options": [
+          "நிறை kg-இல்; எடை நியூட்டனில் அளக்கப்படும் வெக்டர்",
+          "நிறை, எடை இரண்டும் நியூட்டனில் அளக்கப்படும்",
+          "நிறை இடத்துக்கு இடம் மாறும்; எடை மாறாது",
+          "எடை ஸ்கேலர் அளவு; அது kg-இல் அளக்கப்படும்"
+        ],
+        "explanation": "நிறை எங்கும் மாறாது; எடை g-ஐச் சார்ந்தது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 10,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 10,
       "quote": "If a person whose mass is 60 kg stands on the surface of Earth, his weight would be 588 N (W = mg = 60 × 9.8). If the same person goes to the surface of the Moon, he would weigh only 97.5 N (W = 60 × 1.625).",
       "answer": "B",
-      "en": {"q": "A person of mass 60 kg on the Moon (g = 1.625 m s⁻²) weighs", "options": ["588 N", "97.5 N", "60 N", "9.8 N"], "explanation": "W = 60 × 1.625 = 97.5 N; his mass stays 60 kg."},
-      "ta": {"q": "60 கி.கி. நிறையுள்ள ஒருவரின் நிலவில் (g = 1.625 m s⁻²) எடை என்ன?", "options": ["588 N", "97.5 N", "60 N", "9.8 N"], "explanation": "W = 60 × 1.625 = 97.5 N; நிறை 60 கி.கி.யாகவே இருக்கும்."}
+      "en": {
+        "q": "A person of mass 60 kg on the Moon (g = 1.625 m s⁻²) weighs",
+        "options": [
+          "588 N",
+          "97.5 N",
+          "60 N",
+          "9.8 N"
+        ],
+        "explanation": "W = 60 × 1.625 = 97.5 N; his mass stays 60 kg."
+      },
+      "ta": {
+        "q": "60 கி.கி. நிறையுள்ள ஒருவரின் நிலவில் (g = 1.625 m s⁻²) எடை என்ன?",
+        "options": [
+          "588 N",
+          "97.5 N",
+          "60 N",
+          "9.8 N"
+        ],
+        "explanation": "W = 60 × 1.625 = 97.5 N; நிறை 60 கி.கி.யாகவே இருக்கும்."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 11,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 11,
       "quote": "Case 1: Lift is moving upward with an acceleration 'a' ... R = m(g+a) R>W Apparent weight is greater than the actual weight.",
       "answer": "C",
-      "en": {"q": "When a lift moves upward with acceleration a, the apparent weight of a person in it is", "options": ["zero", "equal to actual weight", "greater than actual weight", "less than actual weight"], "explanation": "R = m(g + a), so R > W."},
-      "ta": {"q": "மின்தூக்கி a முடுக்கத்துடன் மேல்நோக்கி நகரும்போது அதிலுள்ளவரின் தோற்ற எடை எப்படி இருக்கும்?", "options": ["பூஜ்யம்", "உண்மை எடைக்குச் சமம்", "உண்மை எடையை விட அதிகம்", "உண்மை எடையை விடக் குறைவு"], "explanation": "R = m(g + a), எனவே R > W."}
+      "en": {
+        "q": "When a lift moves upward with acceleration a, the apparent weight of a person in it is",
+        "options": [
+          "zero",
+          "equal to actual weight",
+          "greater than actual weight",
+          "less than actual weight"
+        ],
+        "explanation": "R = m(g + a), so R > W."
+      },
+      "ta": {
+        "q": "மின்தூக்கி a முடுக்கத்துடன் மேல்நோக்கி நகரும்போது அதிலுள்ளவரின் தோற்ற எடை எப்படி இருக்கும்?",
+        "options": [
+          "பூஜ்யம்",
+          "உண்மை எடைக்குச் சமம்",
+          "உண்மை எடையை விட அதிகம்",
+          "உண்மை எடையை விடக் குறைவு"
+        ],
+        "explanation": "R = m(g + a), எனவே R > W."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 11,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 11,
       "quote": "When the person in a lift moves down with an acceleration (a) equal to the acceleration due to gravity (g), i.e., when a = g, this motion is called as 'free fall'. Here, the apparent weight (R = m (g – g) = 0) of the person is zero.",
       "answer": "D",
-      "en": {"q": "In a freely falling lift (a = g), the apparent weight of a person is", "options": ["mg", "m(g + a)", "2mg", "zero"], "explanation": "This is the state of weightlessness."},
-      "ta": {"q": "தடையின்றி விழும் மின்தூக்கியில் (a = g) ஒருவரின் தோற்ற எடை என்ன?", "options": ["mg", "m(g + a)", "2mg", "பூஜ்யம்"], "explanation": "இது எடையின்மை நிலை."}
+      "en": {
+        "q": "In a freely falling lift (a = g), the apparent weight of a person is",
+        "options": [
+          "mg",
+          "m(g + a)",
+          "2mg",
+          "zero"
+        ],
+        "explanation": "This is the state of weightlessness."
+      },
+      "ta": {
+        "q": "தடையின்றி விழும் மின்தூக்கியில் (a = g) ஒருவரின் தோற்ற எடை என்ன?",
+        "options": [
+          "mg",
+          "m(g + a)",
+          "2mg",
+          "பூஜ்யம்"
+        ],
+        "explanation": "இது எடையின்மை நிலை."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 11,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 11,
       "quote": "Astronauts are not floating but falling freely around the earth due to their huge oribital velocity. Since spacestation and astronauts have equal acceleration, they are under free fall condition.",
       "answer": "A",
-      "en": {"q": "Astronauts in an orbiting space station appear weightless because", "options": ["they and the station are falling freely with equal acceleration", "there is no gravity in space", "they have lost their mass", "the station repels Earth's gravity"], "explanation": "It is wrong to think they experience no gravitational force."},
-      "ta": {"q": "சுற்றும் விண்வெளி நிலையத்தில் விண்வெளி வீரர்கள் எடையற்றவர்களாகத் தோன்றுவது ஏன்?", "options": ["அவர்களும் நிலையமும் சம முடுக்கத்துடன் தடையின்றி விழுகின்றனர்", "விண்வெளியில் ஈர்ப்பு இல்லை", "அவர்கள் நிறையை இழந்தனர்", "நிலையம் புவியீர்ப்பை விலக்குகிறது"], "explanation": "அவர்கள் மீது ஈர்ப்பு விசை செயல்படுவதில்லை என்பது தவறு."}
+      "en": {
+        "q": "Astronauts in an orbiting space station appear weightless because",
+        "options": [
+          "they and the station fall freely together",
+          "gravity is absent at that height in orbit",
+          "their mass becomes zero in orbit",
+          "the station cancels the Earth's gravity"
+        ],
+        "explanation": "It is wrong to think they experience no gravitational force."
+      },
+      "ta": {
+        "q": "சுற்றும் விண்வெளி நிலையத்தில் விண்வெளி வீரர்கள் எடையற்றவர்களாகத் தோன்றுவது ஏன்?",
+        "options": [
+          "அவர்களும் நிலையமும் ஒன்றாகத் தடையின்றி விழுகின்றனர்",
+          "அந்த உயரத்தில் புவியீர்ப்பு இல்லை",
+          "சுற்றுப்பாதையில் அவர்களின் நிறை பூஜ்யமாகிறது",
+          "நிலையம் புவியீர்ப்பை ரத்து செய்கிறது"
+        ],
+        "explanation": "அவர்கள் மீது ஈர்ப்பு விசை செயல்படுவதில்லை என்பது தவறு."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "medium", "bloom": "understand", "page": 12,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 12,
       "quote": "Helps to explain germination of roots is due to the property of geotropism which is the property of a root responding to the gravity.",
       "answer": "B",
-      "en": {"q": "The property of a root responding to gravity, explained using the law of gravitation, is called", "options": ["phototropism", "geotropism", "hydrotropism", "chemotropism"], "explanation": "The law also helps discover new stars and planets and predict paths of astronomical bodies."},
-      "ta": {"q": "ஈர்ப்பியல் விதியால் விளக்கப்படும், வேர் புவியீர்ப்புக்குத் துலங்கும் பண்பு எது?", "options": ["ஒளிநாட்டம்", "புவிநாட்டம்", "நீர்நாட்டம்", "வேதிநாட்டம்"], "explanation": "புதிய விண்மீன்கள், கோள்களைக் கண்டறியவும் வான்பொருள்களின் பாதையைக் கணிக்கவும் இவ்விதி உதவுகிறது."}
+      "en": {
+        "q": "The property of a root responding to gravity, explained using the law of gravitation, is called",
+        "options": [
+          "phototropism",
+          "geotropism",
+          "hydrotropism",
+          "chemotropism"
+        ],
+        "explanation": "The law also helps discover new stars and planets and predict paths of astronomical bodies."
+      },
+      "ta": {
+        "q": "ஈர்ப்பியல் விதியால் விளக்கப்படும், வேர் புவியீர்ப்புக்குத் துலங்கும் பண்பு எது?",
+        "options": [
+          "ஒளிநாட்டம்",
+          "புவிநாட்டம்",
+          "நீர்நாட்டம்",
+          "வேதிநாட்டம்"
+        ],
+        "explanation": "புதிய விண்மீன்கள், கோள்களைக் கண்டறியவும் வான்பொருள்களின் பாதையைக் கணிக்கவும் இவ்விதி உதவுகிறது."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 12,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 12,
       "quote": "A door is pushed, at a point whose distance from the hinges is 90 cm, with a force of 40 N. ... moment of the force = 40 × 0.9 = 36 N m.",
       "answer": "C",
-      "en": {"q": "A door is pushed with a force of 40 N at a point 90 cm from the hinges. The moment of the force is", "options": ["3600 N m", "4.5 N m", "36 N m", "360 N m"], "explanation": "M = F × d = 40 × 0.9 = 36 N m."},
-      "ta": {"q": "கீல்களிலிருந்து 90 செ.மீ. தொலைவில் 40 N விசையால் கதவு தள்ளப்படுகிறது. விசையின் திருப்புத்திறன் என்ன?", "options": ["3600 N m", "4.5 N m", "36 N m", "360 N m"], "explanation": "M = F × d = 40 × 0.9 = 36 N m."}
+      "en": {
+        "q": "A door is pushed with a force of 40 N at a point 90 cm from the hinges. The moment of the force is",
+        "options": [
+          "3600 N m",
+          "4.5 N m",
+          "36 N m",
+          "360 N m"
+        ],
+        "explanation": "M = F × d = 40 × 0.9 = 36 N m."
+      },
+      "ta": {
+        "q": "கீல்களிலிருந்து 90 செ.மீ. தொலைவில் 40 N விசையால் கதவு தள்ளப்படுகிறது. விசையின் திருப்புத்திறன் என்ன?",
+        "options": [
+          "3600 N m",
+          "4.5 N m",
+          "36 N m",
+          "360 N m"
+        ],
+        "explanation": "M = F × d = 40 × 0.9 = 36 N m."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 12,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 12,
       "quote": "Calculate the velocity of a moving body of mass 5 kg whose linear momentum is 2.5 kg m s–1. ... V = 2.5 / 5 = 0.5 ms–1",
       "answer": "D",
-      "en": {"q": "A body of mass 5 kg has a linear momentum of 2.5 kg m s⁻¹. Its velocity is", "options": ["12.5 m s⁻¹", "2 m s⁻¹", "5 m s⁻¹", "0.5 m s⁻¹"], "explanation": "v = p / m = 2.5 / 5 = 0.5 m s⁻¹."},
-      "ta": {"q": "5 கி.கி. நிறையுள்ள பொருளின் நேர்கோட்டு உந்தம் 2.5 kg m s⁻¹. அதன் திசைவேகம் என்ன?", "options": ["12.5 m s⁻¹", "2 m s⁻¹", "5 m s⁻¹", "0.5 m s⁻¹"], "explanation": "v = p / m = 2.5 / 5 = 0.5 m s⁻¹."}
+      "en": {
+        "q": "A body of mass 5 kg has a linear momentum of 2.5 kg m s⁻¹. Its velocity is",
+        "options": [
+          "12.5 m s⁻¹",
+          "2 m s⁻¹",
+          "5 m s⁻¹",
+          "0.5 m s⁻¹"
+        ],
+        "explanation": "v = p / m = 2.5 / 5 = 0.5 m s⁻¹."
+      },
+      "ta": {
+        "q": "5 கி.கி. நிறையுள்ள பொருளின் நேர்கோட்டு உந்தம் 2.5 kg m s⁻¹. அதன் திசைவேகம் என்ன?",
+        "options": [
+          "12.5 m s⁻¹",
+          "2 m s⁻¹",
+          "5 m s⁻¹",
+          "0.5 m s⁻¹"
+        ],
+        "explanation": "v = p / m = 2.5 / 5 = 0.5 m s⁻¹."
+      }
     },
     {
-      "topic": "physics-force-motion-and-energy", "format": "mcq4", "difficulty": "hard", "bloom": "understand", "page": 12,
+      "topic": "physics-force-motion-and-energy",
+      "format": "mcq4",
+      "difficulty": "hard",
+      "bloom": "understand",
+      "page": 12,
       "quote": "At what height from the centre of the Earth the acceleration due to gravity will be 1/4th of its value as at the Earth. ... From the centre of the Earth, the object is placed at twice the radius of the earth.",
       "answer": "A",
-      "en": {"q": "At what distance from the centre of the Earth will g become one-fourth of its value at the surface?", "options": ["2R", "4R", "R/2", "16R"], "explanation": "g ∝ 1/r², so g/4 needs r = 2R, i.e. height h = R above the surface."},
-      "ta": {"q": "புவியின் மையத்திலிருந்து எந்தத் தொலைவில் g அதன் பரப்பு மதிப்பின் நான்கில் ஒரு பங்காகும்?", "options": ["2R", "4R", "R/2", "16R"], "explanation": "g ∝ 1/r²; g/4 ஆக r = 2R, அதாவது பரப்பிலிருந்து h = R உயரம்."}
+      "en": {
+        "q": "At what distance from the centre of the Earth will g become one-fourth of its value at the surface?",
+        "options": [
+          "2R",
+          "4R",
+          "R/2",
+          "16R"
+        ],
+        "explanation": "g ∝ 1/r², so g/4 needs r = 2R, i.e. height h = R above the surface."
+      },
+      "ta": {
+        "q": "புவியின் மையத்திலிருந்து எந்தத் தொலைவில் g அதன் பரப்பு மதிப்பின் நான்கில் ஒரு பங்காகும்?",
+        "options": [
+          "2R",
+          "4R",
+          "R/2",
+          "16R"
+        ],
+        "explanation": "g ∝ 1/r²; g/4 ஆக r = 2R, அதாவது பரப்பிலிருந்து h = R உயரம்."
+      }
     }
   ]
 }

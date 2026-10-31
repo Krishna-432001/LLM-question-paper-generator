@@ -162,7 +162,7 @@
           "Uranium and radium",
           "Technetium and promethium",
           "Thorium and polonium",
-          "Carbon and iodine"
+          "Actinium and francium"
         ],
         "explanation": "Technetium has atomic number 43 and promethium 61."
       },
@@ -172,7 +172,7 @@
           "யுரேனியம், ரேடியம்",
           "டெக்னீஷியம், புரோமித்தியம்",
           "தோரியம், பொலோனியம்",
-          "கார்பன், அயோடின்"
+          "ஆக்டினியம், பிரான்சியம்"
         ],
         "explanation": "டெக்னீஷியம் அணு எண் 43, புரோமித்தியம் 61."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "An alpha particle is a",
         "options": [
-          "helium nucleus with two protons and two neutrons",
-          "fast electron",
-          "photon",
-          "neutron"
+          "nucleus of helium",
+          "fast moving electron",
+          "gamma ray photon",
+          "free neutron"
         ],
         "explanation": "Its charge is +2e."
       },
       "ta": {
         "q": "ஆல்ஃபா துகள் என்பது",
         "options": [
-          "இரு புரோட்டான், இரு நியூட்ரான் கொண்ட ஹீலியம் உட்கரு",
+          "ஹீலியம் உட்கரு",
           "வேகமான எலக்ட்ரான்",
-          "ஃபோட்டான்",
-          "நியூட்ரான்"
+          "காமா ஃபோட்டான்",
+          "தனி நியூட்ரான்"
         ],
         "explanation": "இதன் மின்னூட்டம் +2e."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "In beta decay, the daughter nucleus has",
         "options": [
-          "mass number decreased by 4",
-          "atomic number decreased by 2",
-          "the same mass number and atomic number increased by one",
-          "both numbers unchanged"
+          "mass number decreased by 4, atomic number by 2",
+          "atomic number decreased by 2, mass number same",
+          "same mass number, atomic number up by one",
+          "both numbers remain unchanged"
         ],
         "explanation": "E.g. P-32 decays to S-32."
       },
       "ta": {
         "q": "பீட்டா சிதைவில் உருவாகும் சேய் உட்கரு",
         "options": [
-          "நிறை எண் 4 குறைவு",
-          "அணு எண் 2 குறைவு",
+          "நிறை எண் 4, அணு எண் 2 குறையும்",
+          "அணு எண் 2 குறையும், நிறை எண் மாறாது",
           "நிறை எண் மாறாது, அணு எண் ஒன்று அதிகம்",
-          "இரு எண்களும் மாறாது"
+          "இரு எண்களும் மாறாமல் இருக்கும்"
         ],
         "explanation": "எ.கா. P-32 சிதைந்து S-32 ஆகிறது."
       }
@@ -710,10 +710,10 @@
       "en": {
         "q": "Radioactive elements that can be converted into fissionable material are called",
         "options": [
-          "moderators",
-          "coolants",
+          "neutron moderators",
+          "reactor coolants",
           "fertile materials",
-          "control rods"
+          "cadmium control rods"
         ],
         "explanation": "Examples: U-238, Th-232 and Pu-240."
       },
@@ -826,20 +826,20 @@
       "en": {
         "q": "In an atom bomb, the explosion happens when",
         "options": [
-          "a moderator slows down neutrons",
-          "control rods absorb neutrons",
-          "two subcritical pieces are joined to form a supercritical mass",
-          "hydrogen nuclei fuse"
+          "a moderator slows down the neutrons in the core",
+          "control rods absorb the neutrons in the core",
+          "subcritical pieces join to form a supercritical mass",
+          "hydrogen nuclei fuse at very high temperature"
         ],
         "explanation": "It works on an uncontrolled chain reaction."
       },
       "ta": {
         "q": "அணுகுண்டில் வெடிப்பு எப்போது நிகழ்கிறது?",
         "options": [
-          "தணிப்பான் நியூட்ரான்களை மெதுவாக்கும்போது",
-          "கட்டுப்பாட்டுக் கழிகள் நியூட்ரான்களை உறிஞ்சும்போது",
-          "மாறுநிலைக்குக் குறைந்த இரு துண்டுகள் இணைந்து மாறுநிலை மிகு நிறையாகும்போது",
-          "ஹைட்ரஜன் உட்கருக்கள் இணையும்போது"
+          "உள்ளகத்தில் தணிப்பான் நியூட்ரான்களை மெதுவாக்கும்போது",
+          "உள்ளகத்தில் கட்டுப்பாட்டுக் கழிகள் நியூட்ரான்களை உறிஞ்சும்போது",
+          "மாறுநிலைக்குக் குறைந்த துண்டுகள் இணைந்து மாறுநிலை மிகு நிறையாகும்போது",
+          "மிக உயர் வெப்பநிலையில் ஹைட்ரஜன் உட்கருக்கள் இணையும்போது"
         ],
         "explanation": "இது கட்டுப்படுத்தப்படாத தொடர் வினையில் செயல்படுகிறது."
       }
@@ -913,20 +913,20 @@
       "en": {
         "q": "Nuclear fusion is called a thermonuclear reaction because it needs",
         "options": [
-          "room temperature",
-          "temperature of the order of 10⁷ to 10⁹ K",
-          "a moderator",
-          "neutrons to start it"
+          "room temperature and normal pressure",
+          "a temperature of about 10⁷ to 10⁹ K",
+          "a graphite moderator and heavy water",
+          "slow neutrons to start the reaction"
         ],
         "explanation": "High temperature and pressure overcome the repulsion between positively charged nuclei."
       },
       "ta": {
         "q": "அணுக்கரு இணைவு வெப்ப அணுக்கரு வினை எனப்படுவது ஏன்?",
         "options": [
-          "அறை வெப்பநிலை போதும்",
+          "அறை வெப்பநிலையும் இயல்பு அழுத்தமும்",
           "10⁷ முதல் 10⁹ K அளவு வெப்பநிலை தேவை",
-          "தணிப்பான் தேவை",
-          "தொடங்க நியூட்ரான்கள் தேவை"
+          "கிராஃபைட் தணிப்பானும் கனநீரும்",
+          "தொடங்க மெதுவான நியூட்ரான்கள் தேவை"
         ],
         "explanation": "உயர் வெப்பநிலை, அழுத்தம் நேர்மின் உட்கருக்களிடையேயான விலக்கு விசையை வெல்லும்."
       }
@@ -1029,20 +1029,20 @@
       "en": {
         "q": "A hydrogen bomb has an inbuilt atom bomb in order to",
         "options": [
-          "absorb extra neutrons",
-          "create the high temperature and pressure needed for fusion",
-          "slow down neutrons",
-          "cool the hydrogen core"
+          "absorb the extra neutrons released by fusion",
+          "create the heat and pressure needed for fusion",
+          "slow down the neutrons produced by fission",
+          "cool the hydrogen core during the blast"
         ],
         "explanation": "The hydrogen bomb releases far more energy than an atom bomb."
       },
       "ta": {
         "q": "ஹைட்ரஜன் குண்டில் உள்ளமைந்த அணுகுண்டு எதற்காக?",
         "options": [
-          "கூடுதல் நியூட்ரான்களை உறிஞ்ச",
-          "இணைவுக்குத் தேவையான உயர் வெப்பநிலை, அழுத்தத்தை உருவாக்க",
-          "நியூட்ரான்களை மெதுவாக்க",
-          "ஹைட்ரஜன் உள்ளகத்தைக் குளிர்விக்க"
+          "இணைவில் வெளிப்படும் கூடுதல் நியூட்ரான்களை உறிஞ்ச",
+          "இணைவுக்குத் தேவையான வெப்பம், அழுத்தத்தை உருவாக்க",
+          "பிளவில் உருவாகும் நியூட்ரான்களை மெதுவாக்க",
+          "வெடிப்பின்போது ஹைட்ரஜன் உள்ளகத்தைக் குளிர்விக்க"
         ],
         "explanation": "ஹைட்ரஜன் குண்டு அணுகுண்டை விட மிக அதிக ஆற்றலை வெளியிடும்."
       }
@@ -1058,20 +1058,20 @@
       "en": {
         "q": "Which statement correctly compares nuclear fission and fusion?",
         "options": [
-          "Fusion can be performed at room temperature",
-          "Fission needs extremely high temperature",
-          "Fission can be performed at room temperature, while fusion needs extremely high temperature and pressure",
-          "Both emit only light and heat"
+          "Fusion works at room temperature, while fission needs extreme heat and pressure",
+          "Both fission and fusion need extreme heat and pressure",
+          "Fission works at room temperature, while fusion needs extreme heat and pressure",
+          "Both processes need an external source of energy to continue"
         ],
         "explanation": "Fission emits gamma radiation that can cause genetic mutation."
       },
       "ta": {
         "q": "அணுக்கருப் பிளவையும் இணைவையும் சரியாக ஒப்பிடும் கூற்று எது?",
         "options": [
-          "இணைவை அறை வெப்பநிலையில் நிகழ்த்தலாம்",
-          "பிளவுக்கு மிக உயர் வெப்பநிலை தேவை",
-          "பிளவை அறை வெப்பநிலையில் நிகழ்த்தலாம்; இணைவுக்கு மிக உயர் வெப்பநிலை, அழுத்தம் தேவை",
-          "இரண்டும் ஒளி, வெப்பம் மட்டும் வெளியிடும்"
+          "இணைவு அறை வெப்பநிலையில் நிகழும்; பிளவுக்கு மிகு வெப்பம், அழுத்தம் தேவை",
+          "பிளவு, இணைவு இரண்டுக்கும் மிகு வெப்பம், அழுத்தம் தேவை",
+          "பிளவு அறை வெப்பநிலையில் நிகழும்; இணைவுக்கு மிகு வெப்பம், அழுத்தம் தேவை",
+          "இரண்டும் தொடர்ந்து நிகழ வெளி ஆற்றல் தேவை"
         ],
         "explanation": "பிளவில் வெளியாகும் காமா கதிர்வீச்சு மரபணு மாற்றத்தை ஏற்படுத்தலாம்."
       }
@@ -1116,7 +1116,7 @@
       "en": {
         "q": "Which radio isotopes are used in the treatment of skin cancer, as per the text?",
         "options": [
-          "Radio-cobalt (Co-60) and radio-gold (Au-198)",
+          "Radio-cobalt and radio-gold",
           "Radio-iodine and radio-iron",
           "Radio-sodium and radio-carbon",
           "Californium and americium"
@@ -1126,7 +1126,7 @@
       "ta": {
         "q": "பாடநூலின்படி தோல் புற்றுநோய் சிகிச்சையில் பயன்படும் கதிரியக்க ஐசோடோப்புகள் எவை?",
         "options": [
-          "கதிரியக்கக் கோபால்ட் (Co-60), கதிரியக்கத் தங்கம் (Au-198)",
+          "கதிரியக்கக் கோபால்ட், கதிரியக்கத் தங்கம்",
           "கதிரியக்க அயோடின், கதிரியக்க இரும்பு",
           "கதிரியக்கச் சோடியம், கதிரியக்கக் கார்பன்",
           "கலிஃபோர்னியம், அமெரிசியம்"
@@ -1213,9 +1213,9 @@
       "ta": {
         "q": "புதைபடிவங்கள், பழைய ஓவியங்கள், நினைவுச்சின்னங்களின் வயது எதன் மூலம் கண்டறியப்படுகிறது?",
         "options": [
-          "டாப்ளர் விளைவு",
-          "நிறமாலையியல்",
-          "மீயொலி வரைவு",
+          "டாப்ளர் விளைவு அளவீடு",
+          "நிறமாலையியல் பகுப்பாய்வு",
+          "மீயொலி வரைவுப் படம்",
           "கதிரியக்கக் கார்பன் காலக்கணிப்பு"
         ],
         "explanation": "எஞ்சியுள்ள கதிரியக்கக் கார்பனின் அளவு வயதைக் கணிக்க உதவுகிறது."
@@ -1349,9 +1349,9 @@
         "q": "Control rods in a nuclear reactor are mostly made of",
         "options": [
           "boron or cadmium",
-          "graphite",
-          "uranium",
-          "lead"
+          "graphite blocks",
+          "uranium fuel rods",
+          "lead sheets"
         ],
         "explanation": "They absorb neutrons to keep the chain reaction sustained and controlled."
       },
@@ -1359,9 +1359,9 @@
         "q": "அணு உலையின் கட்டுப்பாட்டுக் கழிகள் பெரும்பாலும் எதனால் ஆனவை?",
         "options": [
           "போரான் அல்லது காட்மியம்",
-          "கிராஃபைட்",
-          "யுரேனியம்",
-          "காரீயம்"
+          "கிராஃபைட் தண்டுகள்",
+          "யுரேனியம் எரிபொருள் கழிகள்",
+          "காரீயத் தகடுகள்"
         ],
         "explanation": "நியூட்ரான்களை உறிஞ்சித் தொடர் வினையைக் கட்டுப்படுத்துகின்றன."
       }
