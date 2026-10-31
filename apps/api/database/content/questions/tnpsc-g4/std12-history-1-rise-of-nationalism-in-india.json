@@ -82,10 +82,10 @@
       "ta": {
         "q": "வரி செலுத்தாததால் கையகப்படுத்தப்பட்டு ஏலம் விடப்பட்ட நிலங்கள் எந்தப் புதிய வகுப்பை உருவாக்கின?",
         "options": [
-          "குத்தகை நெசவாளர்கள்",
-          "ஒப்பந்தக் கூலிகள்",
-          "நிலத்தில் வசிக்காத நில உரிமையாளர்கள்",
-          "கிராமத் தலைவர்கள்"
+          "குத்தகை நெசவாளர் குடும்பங்கள்",
+          "ஒப்பந்தக் கூலித் தொழிலாளர்கள்",
+          "நிலத்தில் வசிக்காத நிலக்கிழார்கள்",
+          "கிராமத் தலைமை அதிகாரிகள்"
         ],
         "explanation": "நிலம் விற்பனைப் பொருளானது; நகரங்களில் வாழ்ந்த நில உரிமையாளர்கள் தாம் வாழாத நிலங்களிலிருந்து வருவாயைப் பெற்றனர்."
       }
@@ -130,22 +130,22 @@
       "en": {
         "q": "Why did food scarcity arise in India under British rule, according to the text?",
         "options": [
-          "Farmers were forced to grow industrial and cash crops, so subsistence agriculture suffered",
+          "Farmers were forced to grow cash crops instead of food",
           "The British banned the cultivation of food grains",
           "Indian weavers abandoned farming for handloom work",
-          "Land revenue was collected in kind"
+          "Land revenue was collected in the form of grain"
         ],
-        "explanation": "India became a supplier of raw material for British factories, which pushed out food cultivation."
+        "explanation": "India became a supplier of raw material for British factories, which pushed out food cultivation. Farmers were forced to grow industrial and cash crops, so subsistence agriculture suffered."
       },
       "ta": {
         "q": "பிரிட்டிஷ் ஆட்சியில் இந்தியாவில் உணவுப் பற்றாக்குறை ஏற்படக் காரணம் என்ன?",
         "options": [
-          "விவசாயிகள் தொழிற்பயிர்களையும் பணப்பயிர்களையும் பயிரிடக் கட்டாயப்படுத்தப்பட்டதால் தன்னிறைவு வேளாண்மை பாதிக்கப்பட்டது",
+          "பணப்பயிர்களைப் பயிரிட விவசாயிகள் கட்டாயப்படுத்தப்பட்டனர்",
           "உணவுதானியச் சாகுபடியை பிரிட்டிஷார் தடை செய்தனர்",
           "நெசவாளர்கள் வேளாண்மையைக் கைவிட்டுக் கைத்தறிக்குச் சென்றனர்",
-          "நில வருவாய் பொருளாகவே வசூலிக்கப்பட்டது"
+          "நில வருவாய் தானிய வடிவில் வசூலிக்கப்பட்டது"
         ],
-        "explanation": "இந்தியா பிரிட்டிஷ் தொழிற்சாலைகளுக்கு மூலப்பொருள் வழங்கும் பகுதியாக மாறியதால் உணவுப் பயிர்ச் சாகுபடி குறைந்தது."
+        "explanation": "இந்தியா பிரிட்டிஷ் தொழிற்சாலைகளுக்கு மூலப்பொருள் வழங்கும் பகுதியாக மாறியதால் உணவுப் பயிர்ச் சாகுபடி குறைந்தது. தொழிற்பயிர்கள், பணப்பயிர்கள் பயிரிடக் கட்டாயப்படுத்தப்பட்டதால் தன்னிறைவு வேளாண்மை பாதிக்கப்பட்டது."
       }
     },
     {
@@ -489,9 +489,9 @@
         "q": "1856–57இல் கல்கத்தாவிலிருந்து டிரினிடாட் சென்ற கப்பலில் அதிக விழுக்காடு உயிரிழந்தவர்கள் யார்?",
         "options": [
           "கைக்குழந்தைகள்",
-          "சிறுமியர்",
-          "சிறுவர்",
-          "ஆண்கள்"
+          "சிறுமியர் குழுவினர்",
+          "சிறுவர் குழுவினர்",
+          "ஆண் பயணிகள்"
         ],
         "explanation": "கைக்குழந்தைகளில் 55%, சிறுமியரில் 36%, சிறுவரில் 28%, பெண்களில் 18.5%, ஆண்களில் 12.3% பேர் இறந்தனர்."
       }
@@ -594,22 +594,22 @@
       "en": {
         "q": "Why did the colonial government aid the spread of modern education in India?",
         "options": [
-          "It needed a large number of Indian personnel to administer the colony",
+          "It needed Indian personnel to run the administration",
           "It wanted to empower Indians to rule themselves",
-          "It wished to spread Sanskrit learning",
-          "It aimed to convert Indians to Christianity"
+          "It wished to revive Sanskrit and Persian learning",
+          "It aimed to convert most Indians to Christianity"
         ],
-        "explanation": "Importing so many educated persons from Britain was impossible."
+        "explanation": "Importing so many educated persons from Britain was impossible. The colony needed a large number of Indian personnel to administer it."
       },
       "ta": {
         "q": "இந்தியாவில் நவீனக் கல்வி பரவ காலனி அரசு உதவியது ஏன்?",
         "options": [
-          "காலனியை நிர்வகிக்க இந்தியப் பணியாளர்கள் பெருமளவில் தேவைப்பட்டனர்",
+          "நிர்வாகத்தை நடத்த இந்தியப் பணியாளர்களை உருவாக்க விரும்பியது",
           "இந்தியர்கள் தம்மைத் தாமே ஆள வலிமை அளிக்க விரும்பியது",
-          "சமஸ்கிருதக் கல்வியைப் பரப்ப விரும்பியது",
-          "இந்தியர்களைக் கிறித்தவத்திற்கு மாற்ற விரும்பியது"
+          "சமஸ்கிருத, பாரசீகக் கல்வியை மீட்டெடுக்க விரும்பியது",
+          "பெரும்பாலான இந்தியர்களைக் கிறித்தவத்திற்கு மாற்ற விரும்பியது"
         ],
-        "explanation": "இத்தனை படித்தவர்களை பிரிட்டனிலிருந்து கொண்டுவர இயலாது."
+        "explanation": "இத்தனை படித்தவர்களை பிரிட்டனிலிருந்து கொண்டுவர இயலாது. காலனியை நிர்வகிக்க இந்தியப் பணியாளர்கள் பெருமளவில் தேவைப்பட்டனர்."
       }
     },
     {
@@ -681,22 +681,22 @@
       "en": {
         "q": "Macaulay supported the Anglicists because he wanted to create a class of persons who would be",
         "options": [
-          "loyal soldiers for the Company's army",
-          "fluent in Sanskrit and Persian classics",
+          "loyal and disciplined soldiers for the Company's army",
+          "scholars fluent in the Sanskrit and Persian classics",
           "teachers of vernacular languages in village schools",
-          "Indian in blood and colour but English in taste, opinion, morals and intellect"
+          "Indian in blood but English in taste and opinion"
         ],
-        "explanation": "Such a class was meant to serve the colonial administration."
+        "explanation": "Such a class was meant to serve the colonial administration. Macaulay's full phrase was: Indian in blood and colour but English in taste, opinion, morals and intellect."
       },
       "ta": {
         "q": "மெக்காலே ஆங்கிலவாதிகளை ஆதரித்ததற்கான நோக்கம் எத்தகைய வகுப்பை உருவாக்குவதாகும்?",
         "options": [
-          "கம்பெனிப் படையின் விசுவாசமான வீரர்கள்",
-          "சமஸ்கிருத, பாரசீக நூல்களில் வல்லுநர்கள்",
-          "கிராமப் பள்ளிகளில் வட்டார மொழி கற்பிப்போர்",
-          "இரத்தத்தாலும் நிறத்தாலும் இந்தியராகவும் ரசனை, கருத்து, ஒழுக்கம், அறிவில் ஆங்கிலேயராகவும் இருப்போர்"
+          "கம்பெனிப் படையின் விசுவாசமிக்க ஒழுக்கமான வீரர்கள்",
+          "சமஸ்கிருத, பாரசீகச் செவ்வியல் நூல்களில் வல்ல அறிஞர்கள்",
+          "கிராமப் பள்ளிகளில் வட்டார மொழி கற்பிக்கும் ஆசிரியர்கள்",
+          "இரத்தத்தால் இந்தியராகவும் ரசனை, கருத்தில் ஆங்கிலேயராகவும் இருப்போர்"
         ],
-        "explanation": "இத்தகைய வகுப்பு காலனி நிர்வாகத்திற்குப் பயன்பட வேண்டும் என்பதே நோக்கம்."
+        "explanation": "இத்தகைய வகுப்பு காலனி நிர்வாகத்திற்குப் பயன்பட வேண்டும் என்பதே நோக்கம். மெக்காலேயின் முழு வாக்கியம்: இரத்தத்தாலும் நிறத்தாலும் இந்தியராகவும் ரசனை, கருத்து, ஒழுக்கம், அறிவில் ஆங்கிலேயராகவும் இருப்போர்."
       }
     },
     {
@@ -749,10 +749,10 @@
       "ta": {
         "q": "கருத்துச் சுதந்திரம், பத்திரிகைச் சுதந்திரம் ஆகியவற்றுடன் படித்த இந்தியர்கள் விரும்பிய மூன்றாவது உரிமை எது?",
         "options": [
-          "சொத்துரிமை",
+          "சொத்து வைத்திருக்கும் உரிமை",
           "சங்கம் அமைக்கும் உரிமை",
-          "சமய உரிமை",
-          "கல்வி உரிமை"
+          "சமயத்தைப் பின்பற்றும் உரிமை",
+          "கல்வி கற்கும் உரிமை"
         ],
         "explanation": "இம்மூன்றும் ஐரோப்பியர்கள் போற்றிய இயல்பான உரிமைகள்."
       }
@@ -1116,22 +1116,22 @@
       "en": {
         "q": "After the Charter Act of 1853 let the Company continue its rule, the Madras Native Association agitated for",
         "options": [
-          "the abolition of the zamindari system",
+          "the abolition of the zamindari system and land tax",
           "the creation of an Indian Legislative Council",
-          "the transfer of British territories in India to the direct control of the Crown",
-          "the return of the Mughal emperor"
+          "the transfer of India to direct Crown rule",
+          "the return of the Mughal emperor to the throne of Delhi"
         ],
-        "explanation": "Its second petition to Parliament, signed by fourteen thousand individuals, pleaded for the end of Company rule."
+        "explanation": "Its second petition to Parliament, signed by fourteen thousand individuals, pleaded for the end of Company rule. It asked that the British territories in India be transferred to the direct control of the Crown."
       },
       "ta": {
         "q": "1853 பட்டயச் சட்டம் கம்பெனி ஆட்சியைத் தொடர அனுமதித்ததால் சென்னை சுதேசிகள் சங்கம் எதற்காகப் போராடியது?",
         "options": [
-          "ஜமீன்தாரி முறையை ஒழிப்பதற்காக",
-          "இந்தியச் சட்டமன்றம் அமைப்பதற்காக",
-          "இந்தியாவிலுள்ள பிரிட்டிஷ் பகுதிகளை பிரிட்டிஷ் அரசின் நேரடி ஆட்சிக்கு மாற்றுவதற்காக",
-          "முகலாயப் பேரரசரை மீண்டும் அமர்த்துவதற்காக"
+          "ஜமீன்தாரி முறையையும் நில வரியையும் ஒழிப்பதற்காக",
+          "இந்தியர்களுக்கான தனிச் சட்டமன்றம் அமைப்பதற்காக",
+          "இந்தியாவை பிரிட்டிஷ் அரசின் நேரடி ஆட்சிக்கு மாற்றுவதற்காக",
+          "முகலாயப் பேரரசரை மீண்டும் அரியணையில் அமர்த்துவதற்காக"
         ],
-        "explanation": "பதினான்காயிரம் பேர் கையெழுத்திட்ட அதன் இரண்டாம் மனு கம்பெனி ஆட்சியை முடிவுக்குக் கொண்டுவரக் கோரியது."
+        "explanation": "பதினான்காயிரம் பேர் கையெழுத்திட்ட அதன் இரண்டாம் மனு கம்பெனி ஆட்சியை முடிவுக்குக் கொண்டுவரக் கோரியது. இந்தியாவிலுள்ள பிரிட்டிஷ் பகுதிகளை பிரிட்டிஷ் அரசின் நேரடிக் கட்டுப்பாட்டுக்கு மாற்றக் கோரியது."
       }
     },
     {
@@ -1203,22 +1203,22 @@
       "en": {
         "q": "Which administrative reform was a major early demand of the Indian National Congress?",
         "options": [
-          "Abolition of the Indian Civil Service",
-          "Simultaneous Indian Civil Services examinations in England and India",
-          "Examinations conducted only in Sanskrit",
-          "Raising the age limit to thirty"
+          "Abolition of the Indian Civil Service system",
+          "Holding the ICS examination in both England and India",
+          "Examinations conducted in Sanskrit and Persian",
+          "Raising the maximum age limit to thirty years"
         ],
-        "explanation": "Civil service examinations were held only in Britain, so Indians who could not afford to go to London were shut out."
+        "explanation": "Civil service examinations were held only in Britain, so Indians who could not afford to go to London were shut out. The demand was for simultaneous Indian Civil Services examinations in England and India."
       },
       "ta": {
         "q": "இந்திய தேசிய காங்கிரசின் தொடக்ககாலத்தில் முக்கியமாக முன்வைக்கப்பட்ட நிர்வாகச் சீர்திருத்தக் கோரிக்கை எது?",
         "options": [
-          "இந்தியக் குடிமைப்பணியை ஒழித்தல்",
-          "இந்தியாவிலும் இங்கிலாந்திலும் ஒரே நேரத்தில் இந்தியக் குடிமைப்பணித் தேர்வு நடத்துதல்",
-          "சமஸ்கிருதத்தில் மட்டும் தேர்வு நடத்துதல்",
-          "வயது வரம்பை முப்பதாக உயர்த்துதல்"
+          "இந்தியக் குடிமைப்பணி முறை முழுவதையும் ஒழித்தல்",
+          "இங்கிலாந்திலும் இந்தியாவிலும் ஒரே நேரத்தில் தேர்வு நடத்துதல்",
+          "சமஸ்கிருதம், பாரசீகத்தில் தேர்வு நடத்துதல்",
+          "அதிகபட்ச வயது வரம்பை முப்பதாக உயர்த்துதல்"
         ],
-        "explanation": "தேர்வுகள் பிரிட்டனில் மட்டுமே நடந்ததால் லண்டன் செல்ல இயலாத இந்தியர்களுக்கு உயர்பதவி கிடைக்கவில்லை."
+        "explanation": "தேர்வுகள் பிரிட்டனில் மட்டுமே நடந்ததால் லண்டன் செல்ல இயலாத இந்தியர்களுக்கு உயர்பதவி கிடைக்கவில்லை. இங்கிலாந்திலும் இந்தியாவிலும் ஒரே நேரத்தில் இந்தியக் குடிமைப்பணித் தேர்வு நடத்தக் கோரப்பட்டது."
       }
     },
     {
@@ -1242,10 +1242,10 @@
       "ta": {
         "q": "நிர்வாகத்துறையையும் நீதித்துறையையும் முழுமையாகப் பிரிக்க காங்கிரஸ் கோரியது ஏன்?",
         "options": [
-          "நீதிமன்றங்கள் நில வருவாய் வசூலைத் தாமதப்படுத்தின",
-          "இந்திய நீதிபதிகள் மிகக் குறைவாக இருந்தனர்",
-          "ஆங்கில நீதிபதிகள் இந்திய அரசியல் செயல்பாட்டாளர்களிடம் பாரபட்சம் காட்டினர்",
-          "நீதித்துறை சமஸ்தானங்களின் கட்டுப்பாட்டில் இருந்தது"
+          "நீதிமன்றங்கள் நில வருவாய் வசூலை மிகவும் தாமதப்படுத்தின",
+          "இந்திய நீதிபதிகள் மிகக் குறைந்த எண்ணிக்கையில் இருந்தனர்",
+          "ஆங்கில நீதிபதிகள் இந்திய செயல்பாட்டாளர்களிடம் பாரபட்சம் காட்டினர்",
+          "நீதித்துறை சுதேச சமஸ்தானங்களின் கட்டுப்பாட்டில் இருந்தது"
         ],
         "explanation": "இது காங்கிரசின் அரசியலமைப்பு, பொருளாதார, நிர்வாக, நீதித்துறை நோக்கங்களில் நீதித்துறை சார்ந்த கோரிக்கை."
       }
@@ -1406,22 +1406,22 @@
       "en": {
         "q": "Which of the following formed part of the Home Charges described by Naoroji?",
         "options": [
-          "Pensions to retired British officials and generals",
-          "Salaries of Indian clerks",
-          "Grants to Indian universities",
-          "Subsidies to princely states"
+          "Pensions to retired British officials",
+          "Salaries of Indian clerks in offices",
+          "Grants to Indian universities and colleges",
+          "Subsidies to princely states in India"
         ],
-        "explanation": "The other items were profits to Company shareholders, guaranteed interest to railway investors and interest on loans for war expenses."
+        "explanation": "The other items were profits to Company shareholders, guaranteed interest to railway investors and interest on loans for war expenses. Home Charges included pensions to retired British officials and generals."
       },
       "ta": {
         "q": "நௌரோஜி விளக்கிய இங்கிலாந்துச் செலவினங்களில் (Home Charges) அடங்குவது எது?",
         "options": [
-          "ஓய்வுபெற்ற பிரிட்டிஷ் அதிகாரிகள், தளபதிகளுக்கான ஓய்வூதியம்",
-          "இந்திய எழுத்தர்களின் ஊதியம்",
-          "இந்தியப் பல்கலைக்கழகங்களுக்கான மானியம்",
-          "சமஸ்தானங்களுக்கான உதவித்தொகை"
+          "ஓய்வுபெற்ற பிரிட்டிஷ் அதிகாரிகளுக்கான ஓய்வூதியம்",
+          "அலுவலகங்களிலுள்ள இந்திய எழுத்தர்களின் ஊதியம்",
+          "இந்தியப் பல்கலைக்கழகங்கள், கல்லூரிகளுக்கான மானியம்",
+          "இந்திய சமஸ்தானங்களுக்கான உதவித்தொகை"
         ],
-        "explanation": "கம்பெனி பங்குதாரர்களின் இலாபம், இரயில்வே முதலீட்டாளர்களுக்கு உறுதியளித்த வட்டி, போர்ச் செலவுக்காக வாங்கிய கடனுக்கான வட்டி ஆகியவையும் இதில் அடங்கும்."
+        "explanation": "கம்பெனி பங்குதாரர்களின் இலாபம், இரயில்வே முதலீட்டாளர்களுக்கு உறுதியளித்த வட்டி, போர்ச் செலவுக்காக வாங்கிய கடனுக்கான வட்டி ஆகியவையும் இதில் அடங்கும். ஓய்வுபெற்ற பிரிட்டிஷ் அதிகாரிகள், தளபதிகளுக்கான ஓய்வூதியம் தாய்நாட்டுச் செலவுகளில் அடங்கும்."
       }
     }
   ]

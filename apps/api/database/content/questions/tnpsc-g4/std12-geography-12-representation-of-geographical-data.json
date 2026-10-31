@@ -15,18 +15,18 @@
         "q": "Diagrams that represent statistical data using geometrical figures such as bars, squares, circles and lines are known as",
         "options": [
           "statistical diagrams",
-          "thematic maps",
-          "graticules",
-          "contour maps"
+          "thematic distribution maps",
+          "latitude-longitude graticules",
+          "relief contour maps"
         ],
         "explanation": "They enable us to compare figures at a glance and to analyse data and draw inferences easily."
       },
       "ta": {
         "q": "பட்டைகள், சதுரங்கள், வட்டங்கள், கோடுகள் போன்ற வடிவியல் உருவங்களால் புள்ளிவிவரங்களைக் குறிக்கும் வரைபடங்கள்",
         "options": [
-          "புள்ளியியல் படங்கள் (Statistical diagrams)",
+          "புள்ளியியல் படங்கள்",
           "கருப்பொருள் வரைபடங்கள்",
-          "கிரேட்டிக்யூல்கள்",
+          "அட்ச தீர்க்கக் கோட்டு வலைகள்",
           "சம உயரக்கோட்டு வரைபடங்கள்"
         ],
         "explanation": "அவை புள்ளிவிவரங்களை ஒரே பார்வையில் ஒப்பிடவும், தரவுகளைப் பகுத்தாய்ந்து முடிவுகளை எளிதாகப் பெறவும் உதவுகின்றன."
@@ -72,22 +72,22 @@
       "en": {
         "q": "Line graphs are usually drawn to represent",
         "options": [
-          "relief of an area",
+          "the relief of a region",
           "percentage shares of components",
-          "time series data such as temperature, rainfall, population and birth rates",
-          "wind directions"
+          "changes in temperature over time",
+          "directions of the wind"
         ],
-        "explanation": "A simple line graph represents the successive changes in the value of one variable over a period of time."
+        "explanation": "A simple line graph represents the successive changes in the value of one variable over a period of time. They suit time series data such as temperature, rainfall, population and birth rates."
       },
       "ta": {
         "q": "கோட்டு வரைபடங்கள் பொதுவாக எதைக் குறிக்க வரையப்படுகின்றன?",
         "options": [
           "ஒரு பகுதியின் நிலத்தோற்றத்தை",
           "கூறுகளின் சதவீதப் பங்குகளை",
-          "வெப்பநிலை, மழை, மக்கள்தொகை, பிறப்பு வீதம் போன்ற கால வரிசைத் தரவுகளை",
+          "காலப்போக்கில் வெப்பநிலை மாற்றங்களை",
           "காற்றின் திசைகளை"
         ],
-        "explanation": "எளிய கோட்டு வரைபடம் ஒரு மாறியின் மதிப்பு காலப்போக்கில் அடையும் தொடர் மாற்றங்களைக் காட்டுகிறது."
+        "explanation": "எளிய கோட்டு வரைபடம் ஒரு மாறியின் மதிப்பு காலப்போக்கில் அடையும் தொடர் மாற்றங்களைக் காட்டுகிறது. வெப்பநிலை, மழை, மக்கள்தொகை, பிறப்பு வீதம் போன்ற கால வரிசைத் தரவுகளுக்கு இவை ஏற்றவை."
       }
     },
     {
@@ -160,7 +160,7 @@
         "q": "Which of the following is a rule for drawing a bar diagram?",
         "options": [
           "Bars should have different widths",
-          "The width of all the bars should be similar and the bars placed at equal intervals",
+          "Bars should have equal width and equal spacing",
           "Bars should touch each other at random",
           "Bars should be placed without any order"
         ],
@@ -170,7 +170,7 @@
         "q": "பட்டை வரைபடம் வரைவதற்கான விதிகளில் ஒன்று எது?",
         "options": [
           "பட்டைகள் வெவ்வேறு அகலங்களுடன் இருக்க வேண்டும்",
-          "எல்லாப் பட்டைகளும் ஒரே அகலத்துடனும் சம இடைவெளியுடனும் இருக்க வேண்டும்",
+          "பட்டைகள் சம அகலத்துடனும் சம இடைவெளியுடனும் இருக்க வேண்டும்",
           "பட்டைகள் தற்செயலாக ஒன்றையொன்று தொட வேண்டும்",
           "பட்டைகள் எந்த ஒழுங்குமின்றி அமைக்கப்பட வேண்டும்"
         ],
@@ -200,10 +200,10 @@
         "options": [
           "வட்டப் படம்",
           "எளிய பட்டை வரைபடம்",
-          "பல பட்டை வரைபடம் (Multiple bar diagram)",
+          "பல பட்டை வரைபடம்",
           "பல்கோட்டு வரைபடம்"
         ],
-        "explanation": "எளிய பட்டை வரைபடம் ஒரே ஒரு மாறியின் மொத்த மதிப்பை மட்டும் காட்டுகிறது."
+        "explanation": "எளிய பட்டை வரைபடம் ஒரே ஒரு மாறியின் மொத்த மதிப்பை மட்டும் காட்டுகிறது. இது ஆங்கிலத்தில் Multiple bar diagram எனப்படும்."
       }
     },
     {
@@ -362,22 +362,22 @@
       "en": {
         "q": "Before drawing a simple bar diagram, it is advisable to",
         "options": [
-          "arrange the data set in ascending or descending order",
+          "arrange the data in order of size",
           "convert all values into degrees",
           "divide the range into five categories",
-          "mark negative lands"
+          "mark the unproductive negative lands"
         ],
-        "explanation": "A simple bar diagram consists of bars, each showing the total value of only one variable."
+        "explanation": "A simple bar diagram consists of bars, each showing the total value of only one variable. Arranging the data in ascending or descending order makes the bars easy to draw."
       },
       "ta": {
         "q": "எளிய பட்டை வரைபடம் வரைவதற்கு முன் செய்வது நல்லது",
         "options": [
-          "தரவுத் தொகுப்பை ஏறுவரிசை அல்லது இறங்குவரிசையில் அமைப்பது",
+          "தரவுகளை அளவு வரிசையில் அமைப்பது",
           "அனைத்து மதிப்புகளையும் பாகைகளாக மாற்றுவது",
           "வீச்சை ஐந்து வகைகளாகப் பிரிப்பது",
           "எதிர்மறை நிலங்களைக் குறிப்பது"
         ],
-        "explanation": "எளிய பட்டை வரைபடத்தில் ஒவ்வொரு பட்டையும் ஒரே ஒரு மாறியின் மொத்த மதிப்பைக் காட்டுகிறது."
+        "explanation": "எளிய பட்டை வரைபடத்தில் ஒவ்வொரு பட்டையும் ஒரே ஒரு மாறியின் மொத்த மதிப்பைக் காட்டுகிறது. தரவை ஏறுவரிசை அல்லது இறங்குவரிசையில் அமைத்தால் பட்டைகளை வரைவது எளிது."
       }
     }
   ]

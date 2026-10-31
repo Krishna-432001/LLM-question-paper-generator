@@ -73,21 +73,21 @@
         "q": "Cultural landscapes have been defined by the World Heritage Committee as",
         "options": [
           "regions with a single religion",
-          "areas inhabited only by tribal people",
-          "cultural properties representing the combined works of nature and of man",
+          "areas inhabited by tribal people",
+          "combined works of nature and of man",
           "landscapes untouched by humans"
         ],
-        "explanation": "The Committee identified three categories of cultural landscape."
+        "explanation": "The Committee identified three categories of cultural landscape. They are cultural properties representing the combined works of nature and of man."
       },
       "ta": {
         "q": "உலகப் பாரம்பரியக் குழு 'பண்பாட்டு நிலத்தோற்றங்களை' எவ்வாறு வரையறுத்துள்ளது?",
         "options": [
-          "ஒரே சமயமுடைய பகுதிகள்",
-          "பழங்குடியினர் மட்டுமே வாழும் பகுதிகள்",
-          "இயற்கையும் மனிதனும் இணைந்து உருவாக்கிய பண்பாட்டுச் சொத்துகள்",
+          "ஒரே சமயத்தைப் பின்பற்றும் பகுதிகள்",
+          "பழங்குடியினர் வாழும் பகுதிகள்",
+          "இயற்கையும் மனிதனும் இணைந்து உருவாக்கியவை",
           "மனிதர் தொடாத நிலத்தோற்றங்கள்"
         ],
-        "explanation": "குழு மூன்று வகைப் பண்பாட்டு நிலத்தோற்றங்களை அடையாளம் கண்டுள்ளது."
+        "explanation": "குழு மூன்று வகைப் பண்பாட்டு நிலத்தோற்றங்களை அடையாளம் கண்டுள்ளது. இவை இயற்கையும் மனிதனும் இணைந்து உருவாக்கிய பண்பாட்டுச் சொத்துகள்."
       }
     },
     {
@@ -256,10 +256,10 @@
       "ta": {
         "q": "இந்தியாவின் ஐந்து முக்கிய திராவிட இனக்குழுக்களுள் ஒன்றல்லாதது எது?",
         "options": [
-          "மராத்தியர்",
-          "தமிழர்",
-          "கன்னடர்",
-          "துளு"
+          "மராத்தி மொழி பேசுவோர்",
+          "தமிழ் மொழி பேசுவோர்",
+          "கன்னட மொழி பேசுவோர்",
+          "துளு மொழி பேசுவோர்"
         ],
         "explanation": "பிராகுயி மட்டுமே பிராமி அடிப்படையிலான எழுத்தில் எழுதப்பட்டதாக அறியப்படாத திராவிட மொழி."
       }
@@ -307,7 +307,7 @@
           "Hinduism",
           "Islam",
           "Christianity",
-          "Buddhism"
+          "Zoroastrianism"
         ],
         "explanation": "Islam is the second largest religion; Shia and Sunni are its two main sects."
       },
@@ -317,7 +317,7 @@
           "இந்து சமயம்",
           "இஸ்லாம்",
           "கிறித்தவம்",
-          "பௌத்தம்"
+          "ஜொராஸ்டிரிய சமயம்"
         ],
         "explanation": "இஸ்லாம் இரண்டாவது பெரிய சமயம்; ஷியா, சன்னி என இரு முக்கியப் பிரிவுகள் உள்ளன."
       }
@@ -508,21 +508,21 @@
         "q": "The tribe of tundra cold regions who live in igloos and use sledges is",
         "options": [
           "the Bushmen",
-          "the Eskimos (Inuits)",
+          "the Eskimos",
           "the Masai",
           "the Bedouins"
         ],
-        "explanation": "Eskimos are of the Mongoloid race, and hunting and fishing are their main occupations."
+        "explanation": "Eskimos are of the Mongoloid race, and hunting and fishing are their main occupations. Eskimos are also called Inuits."
       },
       "ta": {
         "q": "இக்லூ எனப்படும் பனி வீடுகளில் வாழ்ந்து சறுக்கு வண்டிகளைப் பயன்படுத்தும் தூந்திரா குளிர்ப் பகுதிப் பழங்குடியினர்",
         "options": [
-          "புஷ்மென்",
-          "எஸ்கிமோக்கள் (இனுவிட்)",
-          "மசாய்",
-          "பெடூயின்கள்"
+          "புஷ்மென் இனத்தவர்",
+          "எஸ்கிமோ இனத்தவர்",
+          "மசாய் இனத்தவர்",
+          "பெடூயின் இனத்தவர்"
         ],
-        "explanation": "எஸ்கிமோக்கள் மங்கோலாய்டு இனத்தவர்; வேட்டையும் மீன்பிடித்தலும் அவர்களின் முக்கியத் தொழில்கள்."
+        "explanation": "எஸ்கிமோக்கள் மங்கோலாய்டு இனத்தவர்; வேட்டையும் மீன்பிடித்தலும் அவர்களின் முக்கியத் தொழில்கள். எஸ்கிமோக்கள் இனுவிட் எனவும் அழைக்கப்படுகின்றனர்."
       }
     },
     {
@@ -575,10 +575,10 @@
       "ta": {
         "q": "நாகாலாந்தின் ஆங்கமி பழங்குடியினர் தங்கள் முக்கிய விழாவாகக் கொண்டாடுவது",
         "options": [
-          "பிஹு",
-          "லோசார்",
-          "லோசூங்",
-          "செக்ரென்யி"
+          "பிஹு திருவிழா",
+          "லோசார் திருவிழா",
+          "லோசூங் திருவிழா",
+          "செக்ரென்யி திருவிழா"
         ],
         "explanation": "லோசார், லோசூங் ஆகியவை சிக்கிமின் பூட்டியா பழங்குடியினரின் முக்கிய விழாக்கள்."
       }
@@ -594,22 +594,22 @@
       "en": {
         "q": "The Sentinelese tribe, hunter-gatherers who do not know agriculture, live on",
         "options": [
-          "North Sentinel Island in the Andaman and Nicobar Islands",
+          "North Sentinel Island",
           "Great Nicobar Island",
-          "Lakshadweep",
+          "Minicoy Island",
           "Barren Island"
         ],
-        "explanation": "The Sentinelese are described as Stone Age people and do not want help from outsiders."
+        "explanation": "The Sentinelese are described as Stone Age people and do not want help from outsiders. North Sentinel Island is in the Andaman and Nicobar Islands."
       },
       "ta": {
         "q": "வேளாண்மையை அறியாத வேட்டையாடி-உணவு சேகரிப்பாளர்களான சென்டினலீஸ் பழங்குடியினர் வாழும் இடம்",
         "options": [
-          "அந்தமான் நிக்கோபாரிலுள்ள வடக்கு சென்டினல் தீவு",
+          "வடக்கு சென்டினல் தீவு",
           "கிரேட் நிக்கோபார் தீவு",
-          "இலட்சத்தீவுகள்",
+          "மினிகாய் தீவு",
           "பாரன் தீவு"
         ],
-        "explanation": "சென்டினலீஸ் மக்கள் கற்காலத்தவராக விவரிக்கப்படுகின்றனர்; வெளியாரின் உதவியை அவர்கள் விரும்புவதில்லை."
+        "explanation": "சென்டினலீஸ் மக்கள் கற்காலத்தவராக விவரிக்கப்படுகின்றனர்; வெளியாரின் உதவியை அவர்கள் விரும்புவதில்லை. வடக்கு சென்டினல் தீவு அந்தமான் நிக்கோபார் தீவுகளில் உள்ளது."
       }
     },
     {
@@ -652,22 +652,22 @@
       "en": {
         "q": "The Todas of the Nilgiris, whose settlements are known as 'Munds', are chiefly occupied in",
         "options": [
-          "catching snakes",
-          "tea cultivation",
-          "milking and grazing large herds of buffaloes",
-          "making honey"
+          "catching and selling snakes",
+          "tea cultivation on estates",
+          "herding and milking buffaloes",
+          "collecting and selling honey"
         ],
-        "explanation": "The Todas live in the Nilgiris, and only about a thousand are left."
+        "explanation": "The Todas live in the Nilgiris, and only about a thousand are left. They mainly milk and graze large herds of buffaloes."
       },
       "ta": {
         "q": "நீலகிரியின் தோடர்களின் குடியிருப்புகள் 'மந்து' (Munds) எனப்படுகின்றன; அவர்களின் முதன்மைத் தொழில்",
         "options": [
-          "பாம்பு பிடித்தல்",
-          "தேயிலைச் சாகுபடி",
-          "எருமைக் கூட்டங்களைக் கறத்தலும் மேய்த்தலும்",
-          "தேன் எடுத்தல்"
+          "பாம்புகளைப் பிடித்து விற்பது",
+          "தோட்டங்களில் தேயிலை சாகுபடி",
+          "எருமைகளை மேய்த்துப் பால் கறப்பது",
+          "தேனை எடுத்து விற்பது"
         ],
-        "explanation": "தோடர்கள் நீலகிரியில் வாழ்கின்றனர்; அவர்களில் ஏறத்தாழ ஆயிரம் பேரே எஞ்சியுள்ளனர்."
+        "explanation": "தோடர்கள் நீலகிரியில் வாழ்கின்றனர்; அவர்களில் ஏறத்தாழ ஆயிரம் பேரே எஞ்சியுள்ளனர். இவர்கள் எருமைக் கூட்டங்களைக் கறத்தலும் மேய்த்தலுமாக உள்ளனர்."
       }
     },
     {
@@ -923,12 +923,12 @@
       "ta": {
         "q": "ஒரு பகுதி அல்லது சமூகக் குழுவுக்கே உரிய, அதே மொழியின் பிற வடிவங்களைப் பேசுவோரால் புரிந்துகொள்ளப்படக்கூடிய மொழி வடிவம்",
         "options": [
-          "கிளைமொழி (Dialect)",
+          "கிளைமொழி",
           "மூலமொழி",
           "மொழிக் குடும்பம்",
           "எழுத்துமுறை"
         ],
-        "explanation": "புவிசார் கிளைமொழி, சமூகக் கிளைமொழி என இரு முக்கிய வகைகள் உள்ளன."
+        "explanation": "புவிசார் கிளைமொழி, சமூகக் கிளைமொழி என இரு முக்கிய வகைகள் உள்ளன. ஆங்கிலத்தில்/விளக்கம்: Dialect."
       }
     },
     {
@@ -971,22 +971,22 @@
       "en": {
         "q": "A nation-state must have",
         "options": [
-          "only a common religion",
-          "only a common language",
-          "a shared national identity, physical borders and a single government",
-          "only a written constitution"
+          "a common religion among all citizens",
+          "a common language among all citizens",
+          "a shared identity, borders and a government",
+          "a written constitution of its own"
         ],
-        "explanation": "The nation is the cultural identity shared by the people; the state is the governing administration."
+        "explanation": "The nation is the cultural identity shared by the people; the state is the governing administration. A nation-state has a shared national identity, physical borders and a single government."
       },
       "ta": {
         "q": "ஒரு தேச-அரசுக்கு (Nation-state) இருக்க வேண்டியவை",
         "options": [
-          "பொது சமயம் மட்டும்",
-          "பொது மொழி மட்டும்",
-          "பகிர்ந்த தேசிய அடையாளம், இயற்பியல் எல்லைகள், ஒரே அரசாங்கம்",
-          "எழுதப்பட்ட அரசியலமைப்பு மட்டும்"
+          "அனைத்து குடிமக்களுக்கும் பொது சமயம்",
+          "அனைத்து குடிமக்களுக்கும் பொது மொழி",
+          "பகிர்ந்த தேசிய அடையாளம், எல்லைகள், ஓர் அரசாங்கம்",
+          "தனக்கென எழுதப்பட்ட அரசியலமைப்பு"
         ],
-        "explanation": "தேசம் என்பது மக்கள் பகிரும் பண்பாட்டு அடையாளம்; அரசு என்பது ஆளும் நிர்வாகம்."
+        "explanation": "தேசம் என்பது மக்கள் பகிரும் பண்பாட்டு அடையாளம்; அரசு என்பது ஆளும் நிர்வாகம். தேசிய அரசுக்குப் பகிர்ந்த தேசிய அடையாளம், இயற்பியல் எல்லைகள், ஒரே அரசாங்கம் ஆகியவை உண்டு."
       }
     },
     {
@@ -1069,11 +1069,11 @@
         "q": "கிழக்கு, மேற்கு ஜெர்மனி எல்லை போல் இப்போது நூல்களில் மட்டுமே உள்ள வரலாற்றுக்கால எல்லைகள்",
         "options": [
           "முன்னோடி எல்லைகள்",
-          "எச்ச எல்லைகள் (Relict)",
+          "எச்ச எல்லைகள்",
           "பின்தொடர் எல்லைகள்",
           "மேலே திணிக்கப்பட்ட எல்லைகள்"
         ],
-        "explanation": "மேலே திணிக்கப்பட்ட எல்லைகள் ஒரே தன்மையுடைய பண்பாட்டுப் பகுதியைப் பிரிக்கின்றன."
+        "explanation": "மேலே திணிக்கப்பட்ட எல்லைகள் ஒரே தன்மையுடைய பண்பாட்டுப் பகுதியைப் பிரிக்கின்றன. ஆங்கிலத்தில்/விளக்கம்: Relict."
       }
     },
     {

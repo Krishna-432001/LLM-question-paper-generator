@@ -24,12 +24,12 @@
       "ta": {
         "q": "வரைபடத் தளக்கோட்டுச் சட்டத்தில் (Map projection) தட்டையான தாளில் வரையப்படும் அட்ச, தீர்க்கக் கோடுகளின் வலையமைப்பு",
         "options": [
-          "கிரேட்டிக்யூல் (Graticule)",
+          "கிரேட்டிக்யூல்",
           "சம உயரக் கோடு",
           "சம மதிப்புக் கோடு",
           "விளக்கக் குறிப்பு"
         ],
-        "explanation": "வரைபடத் தளக்கோட்டுச் சட்டம் புவியின் முப்பரிமாண மேற்பரப்பை இருபரிமாணத் தளத்தில் குறிக்கும் கணிதக் கோவை."
+        "explanation": "வரைபடத் தளக்கோட்டுச் சட்டம் புவியின் முப்பரிமாண மேற்பரப்பை இருபரிமாணத் தளத்தில் குறிக்கும் கணிதக் கோவை. இது ஆங்கிலத்தில் Graticule எனப்படும்."
       }
     },
     {
@@ -420,22 +420,22 @@
       "en": {
         "q": "The polar zenithal equal area projection (Lambert's equal area projection) is used for preparing",
         "options": [
-          "maps of the Tropics",
-          "maps of the equatorial region",
-          "political and distribution maps of polar regions",
-          "topographical sheets"
+          "political maps of the Tropics",
+          "distribution maps of the equatorial belt",
+          "political maps of polar regions",
+          "topographical sheets of plains"
         ],
-        "explanation": "In it the pole is the centre of the projection and parallels are concentric circles."
+        "explanation": "In it the pole is the centre of the projection and parallels are concentric circles. It suits political and distribution maps of polar regions."
       },
       "ta": {
         "q": "துருவத் தளச் சமபரப்புச் சட்டம் (லாம்பர்ட் சமபரப்புச் சட்டம்) எதற்காகப் பயன்படுகிறது?",
         "options": [
-          "அயன மண்டல வரைபடங்கள் தயாரிக்க",
-          "நிலநடுக்கோட்டுப் பகுதி வரைபடங்கள் தயாரிக்க",
-          "துருவப் பகுதிகளின் அரசியல், பரவல் வரைபடங்கள் தயாரிக்க",
-          "தாள்படங்கள் (Topographical sheets) தயாரிக்க"
+          "அயன மண்டல அரசியல் வரைபடங்கள்",
+          "நிலநடுக்கோட்டுப் பகுதி பரவல் வரைபடங்கள்",
+          "துருவப் பகுதிகளின் அரசியல் வரைபடங்கள்",
+          "சமவெளிகளின் தாள்படங்கள்"
         ],
-        "explanation": "இதில் துருவம் சட்டத்தின் மையமாகவும் அட்சக்கோடுகள் ஒருமைய வட்டங்களாகவும் இருக்கும்."
+        "explanation": "இதில் துருவம் சட்டத்தின் மையமாகவும் அட்சக்கோடுகள் ஒருமைய வட்டங்களாகவும் இருக்கும். இது துருவப் பகுதிகளின் அரசியல், பரவல் வரைபடங்களுக்கு ஏற்றது."
       }
     },
     {

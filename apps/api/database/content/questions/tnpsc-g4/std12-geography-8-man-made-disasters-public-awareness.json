@@ -72,20 +72,20 @@
       "en": {
         "q": "Which of the following is cited as a creative way to communicate community-based disaster risk reduction messages?",
         "options": [
-          "Technical journals",
-          "Legal notices",
+          "Specialised technical journals",
+          "Formal legal notices in gazettes",
           "Street theatre and puppet shows",
-          "Closed-door lectures"
+          "Closed-door expert lectures"
         ],
         "explanation": "Community-based DRR is a process within a community and for the community."
       },
       "ta": {
         "q": "சமூக அடிப்படையிலான பேரிடர் அபாயக் குறைப்புச் செய்திகளைத் தெரிவிக்கும் படைப்பாக்க வழியாகக் குறிப்பிடப்படுவது",
         "options": [
-          "தொழில்நுட்ப இதழ்கள்",
-          "சட்ட அறிவிப்புகள்",
+          "சிறப்புத் தொழில்நுட்ப இதழ்கள்",
+          "அரசிதழில் சட்ட அறிவிப்புகள்",
           "வீதி நாடகமும் பொம்மலாட்டமும்",
-          "மூடிய அறைச் சொற்பொழிவுகள்"
+          "மூடிய அறையில் நிபுணர் சொற்பொழிவுகள்"
         ],
         "explanation": "சமூக அடிப்படையிலான பேரிடர் அபாயக் குறைப்பு சமூகத்திற்குள்ளும் சமூகத்திற்காகவும் நடைபெறும் செயல்முறை."
       }
@@ -111,10 +111,10 @@
       "ta": {
         "q": "மனிதர்களால் உண்டாகும் பேரிடர்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
         "options": [
-          "புவிஇயற்பியல் பேரிடர்கள்",
-          "இயற்கைப் பேரிடர்கள்",
-          "நீர்-வானிலைப் பேரிடர்கள்",
-          "மனிதனால் உருவாக்கப்படும் பேரிடர்கள்"
+          "புவிஇயற்பியல் காரணப் பேரிடர்கள்",
+          "இயற்கையால் ஏற்படும் பேரிடர்கள்",
+          "நீர்-வானிலை சார்ந்த பேரிடர்கள்",
+          "மனிதனால் ஏற்படும் பேரிடர்கள்"
         ],
         "explanation": "தீ விபத்து, போக்குவரத்து விபத்து, கட்டட இடிவு, சுரங்க விபத்து, வெடிப்பு, நெரிசல் மிதிபடுதல் ஆகியவை இவற்றுள் அடங்கும்."
       }
@@ -159,22 +159,22 @@
       "en": {
         "q": "If caught in a stampede, where should you keep your hands?",
         "options": [
-          "Hanging by your sides",
-          "Up by your chest, like in a boxing position",
-          "Over your eyes",
-          "Behind your back"
+          "Hanging loosely by your sides",
+          "Raised near your chest like a boxer",
+          "Covering your eyes with both hands",
+          "Folded tightly behind your back"
         ],
-        "explanation": "This makes it easy to move and prevents your ribs from getting crushed by the crowd."
+        "explanation": "This makes it easy to move and prevents your ribs from getting crushed by the crowd. Keep the hands up by the chest, like in a boxing position."
       },
       "ta": {
         "q": "நெரிசலில் சிக்கிக்கொண்டால் கைகளை எங்கு வைத்திருக்க வேண்டும்?",
         "options": [
-          "பக்கவாட்டில் தொங்கவிட்டு",
-          "குத்துச்சண்டை நிலையைப் போல மார்புக்கு அருகில் உயர்த்தி",
-          "கண்களை மூடியபடி",
-          "முதுகுக்குப் பின்னால்"
+          "பக்கவாட்டில் தளர்வாகத் தொங்கவிட்டு",
+          "மார்புக்கு அருகில் குத்துச்சண்டை நிலையில்",
+          "இரு கைகளாலும் கண்களை மூடியபடி",
+          "முதுகுக்குப் பின்னால் இறுக்கமாகக் கட்டியபடி"
         ],
-        "explanation": "இது நகர்வதை எளிதாக்கி, இருபுறக் கூட்டத்தால் விலா எலும்புகள் நசுங்காமல் தடுக்கிறது."
+        "explanation": "இது நகர்வதை எளிதாக்கி, இருபுறக் கூட்டத்தால் விலா எலும்புகள் நசுங்காமல் தடுக்கிறது. கைகளைக் குத்துச்சண்டை நிலையைப் போல மார்புக்கு அருகில் உயர்த்தி வைக்க வேண்டும்."
       }
     },
     {
@@ -188,22 +188,22 @@
       "en": {
         "q": "In the middle of a moving crowd in a stampede, one should",
         "options": [
-          "sit down on the ground",
+          "sit down on the ground to rest",
           "stand still and resist the flow",
-          "keep moving with the crowd and not resist the flow",
+          "go with the flow of the crowd",
           "move towards walls and fences"
         ],
-        "explanation": "Try to move towards the exits but not towards walls or fences where you might be cornered."
+        "explanation": "Try to move towards the exits but not towards walls or fences where you might be cornered. One should keep moving with the crowd and not resist the flow."
       },
       "ta": {
         "q": "நெரிசலில் நகரும் கூட்டத்தின் நடுவில் இருப்பவர் செய்ய வேண்டியது",
         "options": [
-          "தரையில் அமர்ந்துவிடுவது",
+          "தரையில் உட்கார்ந்து ஓய்வெடுப்பது",
           "அசையாமல் நின்று ஓட்டத்தை எதிர்ப்பது",
-          "கூட்டத்துடன் சேர்ந்து நகர்ந்து, ஓட்டத்தை எதிர்க்காமல் இருப்பது",
+          "கூட்டத்தின் ஓட்டத்துடன் சேர்ந்து நகர்வது",
           "சுவர்கள், வேலிகளை நோக்கி நகர்வது"
         ],
-        "explanation": "வெளியேறும் வழிகளை நோக்கி நகர வேண்டும்; சிக்கிக்கொள்ளக்கூடிய சுவர், வேலிகளை நோக்கி அல்ல."
+        "explanation": "வெளியேறும் வழிகளை நோக்கி நகர வேண்டும்; சிக்கிக்கொள்ளக்கூடிய சுவர், வேலிகளை நோக்கி அல்ல. கூட்டத்துடன் சேர்ந்து நகர்ந்து, ஓட்டத்தை எதிர்க்கக் கூடாது."
       }
     },
     {
@@ -217,22 +217,22 @@
       "en": {
         "q": "If you fall in a stampede, you should",
         "options": [
-          "scream loudly for help",
-          "lie flat and spread your arms",
-          "stay still with your face down",
-          "cover your head with your hands and curl up in a fetal position to protect your lungs"
+          "scream loudly and wave your arms for help",
+          "lie flat and spread your arms wide on the ground",
+          "stay still with your face down on the ground",
+          "curl up and protect your head with your hands"
         ],
-        "explanation": "Keep trying to find an opportunity to get up, and grab the hand of anyone who helps."
+        "explanation": "Keep trying to find an opportunity to get up, and grab the hand of anyone who helps. Curling up in a fetal position protects the lungs."
       },
       "ta": {
         "q": "நெரிசலில் கீழே விழுந்தால் செய்ய வேண்டியது",
         "options": [
-          "உதவிக்காக உரக்கக் கத்துதல்",
-          "கைகளை விரித்துத் தட்டையாகப் படுத்தல்",
-          "முகம் கவிழ்ந்து அசையாமல் இருத்தல்",
-          "கைகளால் தலையை மூடி, நுரையீரலைப் பாதுகாக்கக் கருவடிவ நிலையில் சுருண்டு கொள்ளுதல்"
+          "உரக்கக் கத்தி, கைகளை அசைத்து உதவி கேட்டல்",
+          "கைகளை அகலமாக விரித்துத் தரையில் தட்டையாகப் படுத்தல்",
+          "முகம் கவிழ்ந்து தரையில் அசையாமல் கிடத்தல்",
+          "சுருண்டு கொண்டு கைகளால் தலையைப் பாதுகாத்தல்"
         ],
-        "explanation": "எழுவதற்கான வாய்ப்பைத் தொடர்ந்து தேடி, உதவ முன்வருவோரின் கையைப் பற்றிக்கொள்ள வேண்டும்."
+        "explanation": "எழுவதற்கான வாய்ப்பைத் தொடர்ந்து தேடி, உதவ முன்வருவோரின் கையைப் பற்றிக்கொள்ள வேண்டும். கருவடிவ நிலையில் சுருண்டிருப்பது நுரையீரலைப் பாதுகாக்கும்."
       }
     },
     {
@@ -285,10 +285,10 @@
       "ta": {
         "q": "அறையில் தீ விபத்து ஏற்படும்போது தலையை தரையிலிருந்து ஏறத்தாழ எவ்வளவு உயரத்துக்கு மேல் உயர்த்தக் கூடாது?",
         "options": [
-          "3 மீ",
-          "30 செ.மீ",
-          "1 மீ",
-          "2 மீ"
+          "தரையிலிருந்து 3 மீ",
+          "தரையிலிருந்து 30 செ.மீ",
+          "தரையிலிருந்து 1 மீ",
+          "தரையிலிருந்து 2 மீ"
         ],
         "explanation": "இந்த உயரத்துக்கு மேல் கனமான தீங்கு விளைவிக்கும் வாயுக்கள் குவியக்கூடும்."
       }
@@ -372,12 +372,12 @@
       "ta": {
         "q": "தீ விபத்தின்போது ஒருபோதும் செய்யக் கூடாதது எது?",
         "options": [
-          "இயங்கும் மின்சாதனம் எரியும்போது அதன் மீது நீரை ஊற்றுவது",
+          "எரியும் மின்சாதனத்தின் மீது நீரை ஊற்றுவது",
           "பிரதான மின் இணைப்பை நிறுத்துவது",
           "புகைக்குக் கீழே தவழ்ந்து செல்வது",
           "அண்டை வீட்டாருக்குத் தெரிவிப்பது"
         ],
-        "explanation": "மேல்மாடி ஜன்னல்களிலிருந்து குதிக்கவோ, பதற்றமடையவோ, தனியாகத் தீயை அணைக்க முயலவோ கூடாது."
+        "explanation": "மேல்மாடி ஜன்னல்களிலிருந்து குதிக்கவோ, பதற்றமடையவோ, தனியாகத் தீயை அணைக்க முயலவோ கூடாது. இயங்கும் மின்சாதனம் எரியும்போது அதன் மீது நீர் ஊற்றக் கூடாது."
       }
     },
     {
@@ -449,22 +449,22 @@
       "en": {
         "q": "Dust explosions occur when",
         "options": [
-          "steam condenses in a pipe",
-          "a flammable gas mixes with air",
-          "toxic vapours enter a sewage system",
-          "flammable solids in the form of fine powders are intensively mixed with air and ignited"
+          "steam builds up and condenses in a pipe",
+          "a flammable gas mixes with air in a closed room",
+          "toxic vapours enter a closed sewage system",
+          "fine flammable powder mixes with air and ignites"
         ],
-        "explanation": "Gas explosions occur when a flammable gas mixes with air."
+        "explanation": "Gas explosions occur when a flammable gas mixes with air. In dust explosions flammable solids in the form of fine powders are intensively mixed with air and ignited."
       },
       "ta": {
         "q": "தூசு வெடிப்பு (Dust explosion) எப்போது ஏற்படுகிறது?",
         "options": [
-          "குழாயில் நீராவி ஒடுங்கும்போது",
-          "எரியக்கூடிய வாயு காற்றுடன் கலக்கும்போது",
-          "நச்சு ஆவிகள் கழிவுநீர் அமைப்பில் புகும்போது",
-          "எரியக்கூடிய திண்மங்கள் நுண்ணிய தூளாகக் காற்றுடன் செறிவாகக் கலந்து தீப்பற்றும்போது"
+          "மூடிய குழாயில் நீராவி சேர்ந்து ஒடுங்கும்போது",
+          "மூடிய அறையில் எரியக்கூடிய வாயு காற்றுடன் கலக்கும்போது",
+          "நச்சு ஆவிகள் மூடிய கழிவுநீர் அமைப்பில் புகும்போது",
+          "நுண்ணிய எரியக்கூடிய தூள் காற்றுடன் கலந்து தீப்பற்றும்போது"
         ],
-        "explanation": "எரியக்கூடிய வாயு காற்றுடன் கலப்பதால் வாயு வெடிப்பு நிகழ்கிறது."
+        "explanation": "எரியக்கூடிய வாயு காற்றுடன் கலப்பதால் வாயு வெடிப்பு நிகழ்கிறது. தூள் வெடிப்பில் எரியக்கூடிய திண்மங்கள் நுண்ணிய தூளாகக் காற்றுடன் செறிவாகக் கலந்து தீப்பற்றுகின்றன."
       }
     },
     {

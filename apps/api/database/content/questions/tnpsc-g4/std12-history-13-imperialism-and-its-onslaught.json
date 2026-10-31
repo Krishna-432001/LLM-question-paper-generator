@@ -101,22 +101,22 @@
       "en": {
         "q": "America joined the scramble for colonies in 1898 when it defeated Spain and seized",
         "options": [
-          "Hawaii",
-          "Cuba only",
-          "Mexico",
-          "the Philippines"
+          "the island of Jamaica",
+          "the island of Haiti",
+          "the Yucatan peninsula",
+          "the Philippine islands"
         ],
-        "explanation": "In less than twenty years the whole of Central Africa was partitioned among European empires."
+        "explanation": "In less than twenty years the whole of Central Africa was partitioned among European empires. America seized the Philippines from Spain."
       },
       "ta": {
         "q": "1898-இல் ஸ்பெயினைத் தோற்கடித்து அமெரிக்கா கைப்பற்றி காலனிப் போட்டியில் இணைந்த நாடு",
         "options": [
-          "ஹவாய்",
-          "கியூபா மட்டும்",
-          "மெக்சிகோ",
-          "பிலிப்பைன்ஸ்"
+          "ஜமைக்கா தீவு",
+          "ஹைட்டி தீவு",
+          "யுகடான் தீபகற்பம்",
+          "பிலிப்பைன்ஸ் தீவுகள்"
         ],
-        "explanation": "இருபது ஆண்டுகளுக்குள் மத்திய ஆப்பிரிக்கா முழுவதும் ஐரோப்பியப் பேரரசுகளிடையே பிரிக்கப்பட்டது."
+        "explanation": "இருபது ஆண்டுகளுக்குள் மத்திய ஆப்பிரிக்கா முழுவதும் ஐரோப்பியப் பேரரசுகளிடையே பிரிக்கப்பட்டது. அமெரிக்கா ஸ்பெயினிடமிருந்து பிலிப்பைன்ஸைக் கைப்பற்றியது."
       }
     },
     {
@@ -217,22 +217,22 @@
       "en": {
         "q": "What gave European armies the decisive edge in most battles in the colonial conquests of Africa?",
         "options": [
-          "Superior knowledge of the terrain",
-          "Their larger populations",
-          "Support from African rulers",
-          "New weapons such as breech-loading rifles and Gatling machine guns"
+          "Superior knowledge of the African terrain",
+          "Much larger armies on the battlefield",
+          "Support from most African rulers and chiefs",
+          "Breech-loading rifles and machine guns"
         ],
-        "explanation": "The attempts to carve out colonies involved bloody battles in which the indigenous people lost."
+        "explanation": "The attempts to carve out colonies involved bloody battles in which the indigenous people lost. New weapons such as breech-loading rifles and Gatling machine guns gave them the edge."
       },
       "ta": {
         "q": "ஆப்பிரிக்கக் காலனி ஆக்கிரமிப்புப் போர்களில் ஐரோப்பியப் படைகளுக்குத் தீர்மான மேன்மை அளித்தது எது?",
         "options": [
-          "நிலப்பரப்பு குறித்த மேம்பட்ட அறிவு",
-          "அவர்களின் அதிக மக்கள்தொகை",
-          "ஆப்பிரிக்க மன்னர்களின் ஆதரவு",
-          "பின்புறம் ஏற்றும் துப்பாக்கிகள், காட்லிங் இயந்திரத் துப்பாக்கிகள் போன்ற புதிய ஆயுதங்கள்"
+          "ஆப்பிரிக்க நிலப்பரப்பு குறித்த மேம்பட்ட அறிவு",
+          "ஆப்பிரிக்காவில் அவர்களின் பெரிய படைகள்",
+          "பெரும்பாலான ஆப்பிரிக்க மன்னர்களின் ஆதரவு",
+          "பின்புறம் ஏற்றும் துப்பாக்கிகள், இயந்திரத் துப்பாக்கிகள்"
         ],
-        "explanation": "காலனி உருவாக்கப் போர்களில் பழங்குடி மக்கள் தோற்றனர்."
+        "explanation": "காலனி உருவாக்கப் போர்களில் பழங்குடி மக்கள் தோற்றனர். பின்புறம் ஏற்றும் துப்பாக்கிகள், காட்லிங் இயந்திரத் துப்பாக்கிகள் போன்ற புதிய ஆயுதங்கள் அவர்களுக்கு மேலாண்மை அளித்தன."
       }
     },
     {
@@ -333,9 +333,9 @@
       "en": {
         "q": "By the Treaty of Shimonoseki, signed at the end of the Sino-Japanese War of 1894-95, Japan got Formosa, Port Arthur and",
         "options": [
-          "Hong Kong",
-          "Manchuria",
-          "Shantung",
+          "Hong Kong island",
+          "the Manchuria region",
+          "the Shantung peninsula",
           "the Liaotung peninsula"
         ],
         "explanation": "The European powers later forced Japan to give up the Liaotung peninsula."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "1894-95 சீன-ஜப்பானியப் போர் முடிவில் ஷிமோனோசெகி உடன்படிக்கைப்படி ஜப்பான் ஃபார்மோசா, போர்ட் ஆர்தருடன் பெற்ற மற்றொரு பகுதி",
         "options": [
-          "ஹாங்காங்",
-          "மஞ்சூரியா",
-          "ஷாண்டங்",
+          "ஹாங்காங் தீவு",
+          "மஞ்சூரியப் பகுதி",
+          "ஷாண்டங் தீபகற்பம்",
           "லியாவோடங் தீபகற்பம்"
         ],
         "explanation": "பின்னர் ஐரோப்பிய வல்லரசுகள் லியாவோடங்கை விட்டுக்கொடுக்க ஜப்பானை வற்புறுத்தின."
@@ -565,22 +565,22 @@
       "en": {
         "q": "Italy, which maintained neutrality until May 1915, entered the war on the side of the Triple Entente powers because of",
         "options": [
-          "a defensive treaty with Japan",
-          "the German invasion of Italy",
-          "the sinking of the Lusitania",
-          "the promise of Austrian and Turkish territories"
+          "a defensive treaty with Japan in 1915",
+          "the German invasion of northern Italy",
+          "the sinking of the Lusitania by U-boats",
+          "promised gains of Austrian and Turkish lands"
         ],
-        "explanation": "Italy had been a member of the Triple Alliance since 1882."
+        "explanation": "Italy had been a member of the Triple Alliance since 1882. Italy was promised Austrian and Turkish territories."
       },
       "ta": {
         "q": "1915 மே வரை நடுநிலை வகித்த இத்தாலி, மூவர் நட்புறவு நாடுகள் பக்கம் போரில் இணைந்ததற்குக் காரணம்",
         "options": [
-          "ஜப்பானுடன் பாதுகாப்பு உடன்படிக்கை",
-          "இத்தாலிமீது ஜெர்மனி படையெடுத்தது",
-          "லூசிடானியா மூழ்கடிக்கப்பட்டது",
-          "ஆஸ்திரிய, துருக்கியப் பகுதிகள் அளிக்கப்படும் என்ற வாக்குறுதி"
+          "1915இல் ஜப்பானுடன் ஏற்பட்ட பாதுகாப்பு உடன்படிக்கை",
+          "வடக்கு இத்தாலிமீது ஜெர்மனி படையெடுத்தது",
+          "ஜெர்மன் நீர்மூழ்கிகள் லூசிடானியாவை மூழ்கடித்தது",
+          "ஆஸ்திரிய, துருக்கிய நிலங்கள் கிடைக்கும் என்ற வாக்குறுதி"
         ],
-        "explanation": "இத்தாலி 1882 முதல் மூவர் கூட்டணியின் உறுப்பினராக இருந்தது."
+        "explanation": "இத்தாலி 1882 முதல் மூவர் கூட்டணியின் உறுப்பினராக இருந்தது. ஆஸ்திரிய, துருக்கியப் பகுதிகள் அளிக்கப்படும் என்று இத்தாலிக்கு வாக்களிக்கப்பட்டது."
       }
     },
     {
@@ -604,12 +604,12 @@
       "ta": {
         "q": "1917 நவம்பர்-டிசம்பர் காம்ப்ரே போர், பிரிட்டிஷார் எதைப் பெருமளவில் முதன்முறையாகப் பயன்படுத்தியதால் குறிப்பிடத்தக்கது?",
         "options": [
-          "பீரங்கி வண்டிகள் (டாங்கிகள்)",
+          "பீரங்கி வண்டிகள்",
           "நச்சு வாயு",
           "விமானங்கள்",
           "நீர்மூழ்கிக் கப்பல்கள்"
         ],
-        "explanation": "340 டாங்கிகள் திடீரென வெளிப்பட்டதால் ஜெர்மானியர் முற்றிலும் அதிர்ச்சியடைந்தனர்."
+        "explanation": "340 டாங்கிகள் திடீரென வெளிப்பட்டதால் ஜெர்மானியர் முற்றிலும் அதிர்ச்சியடைந்தனர். ஆங்கிலத்தில்/விளக்கம்: டாங்கிகள்."
       }
     },
     {
@@ -623,22 +623,22 @@
       "en": {
         "q": "Britain's answer to Germany's U-boats was the 'Q-ships', which were",
         "options": [
-          "fast submarines",
-          "disguised cargo ships with hidden weapons to lure U-boats",
-          "aircraft carriers",
-          "heavily armoured battleships"
+          "fast hunter submarines of the Royal Navy",
+          "disguised cargo ships with hidden guns",
+          "large aircraft carriers escorting convoys",
+          "armoured Dreadnought battleships"
         ],
-        "explanation": "Britain sent more than 200 steamers, trawlers and cargo vessels in disguised form."
+        "explanation": "Britain sent more than 200 steamers, trawlers and cargo vessels in disguised form. The disguised ships carried hidden weapons to lure U-boats."
       },
       "ta": {
         "q": "ஜெர்மனியின் 'யு-படகு'களுக்கு பிரிட்டனின் பதிலான 'கியூ-கப்பல்கள்' (Q-ships) என்பவை",
         "options": [
-          "விரைவு நீர்மூழ்கிகள்",
-          "நீர்மூழ்கிகளை ஈர்க்க மறைவாக ஆயுதங்கள் வைத்த மாறுவேடச் சரக்குக் கப்பல்கள்",
-          "விமானம் தாங்கிகள்",
-          "கனமான கவசப் போர்க்கப்பல்கள்"
+          "ராயல் கடற்படையின் விரைவு வேட்டை நீர்மூழ்கிகள்",
+          "ஆயுதங்கள் மறைத்த மாறுவேடச் சரக்குக் கப்பல்கள்",
+          "கப்பல் தொகுதிகளைக் காக்கும் பெரிய விமானம் தாங்கிகள்",
+          "கவசமிட்ட டிரெட்நாட் போர்க்கப்பல்கள்"
         ],
-        "explanation": "200-க்கும் மேற்பட்ட நீராவிக் கப்பல்கள், மீன்பிடிக் கலங்கள், சரக்குக் கப்பல்கள் மாறுவேடத்தில் பயன்படுத்தப்பட்டன."
+        "explanation": "200-க்கும் மேற்பட்ட நீராவிக் கப்பல்கள், மீன்பிடிக் கலங்கள், சரக்குக் கப்பல்கள் மாறுவேடத்தில் பயன்படுத்தப்பட்டன. மாறுவேடக் கப்பல்கள் நீர்மூழ்கிகளை ஈர்க்க ஆயுதங்களை மறைத்து வைத்திருந்தன."
       }
     },
     {
@@ -769,7 +769,7 @@
         "q": "Under the Treaty of Versailles, the Saar Valley was to be administered by the League of Nations until 1935, when",
         "options": [
           "it would become independent",
-          "it would automatically go to France",
+          "it would be annexed by France",
           "a plebiscite would decide its future",
           "it would be given to Belgium"
         ],
@@ -778,10 +778,10 @@
       "ta": {
         "q": "வெர்சாய் உடன்படிக்கைப்படி சார் பள்ளத்தாக்கு 1935 வரை நாடுகள் சங்கத்தால் நிர்வகிக்கப்பட்டு, அந்த ஆண்டில்",
         "options": [
-          "சுதந்திர நாடாகும்",
-          "தானாகவே பிரான்சுக்குச் செல்லும்",
-          "அதன் எதிர்காலத்தை மக்கள் கருத்து வாக்கெடுப்பு தீர்மானிக்கும்",
-          "பெல்ஜியத்துக்கு வழங்கப்படும்"
+          "அது ஒரு தனி சுதந்திர நாடாக மாறும்",
+          "அது பிரான்சுடன் இணைக்கப்படும்",
+          "அதன் எதிர்காலம் பொது வாக்கெடுப்பால் முடிவாகும்",
+          "அது பெல்ஜியத்துக்கு வழங்கப்படும்"
         ],
         "explanation": "சார் பள்ளத்தாக்கின் நிலக்கரிச் சுரங்கங்கள் பிரான்சுக்கு வழங்கப்பட்டன."
       }
@@ -836,12 +836,12 @@
       "ta": {
         "q": "லெனினின் மூத்த சகோதரர் 1887-இல் தூக்கிலிடப்படக் காரணம்",
         "options": [
-          "ஜாரின் உயிருக்கு எதிரான முயற்சியில் பங்கேற்றது",
-          "டிசம்பிரிஸ்ட் கலகம்",
-          "இரத்த ஞாயிறு பேரணி",
-          "விவசாயிகள் கிளர்ச்சி"
+          "ஜாரைக் கொல்லும் சதியில் பங்கேற்பு",
+          "டிசம்பிரிஸ்ட் கலகத்தில் பங்கேற்பு",
+          "இரத்த ஞாயிறு பேரணியில் பங்கேற்பு",
+          "விவசாயிகள் கிளர்ச்சியில் பங்கேற்பு"
         ],
-        "explanation": "மார்க்சால் தூண்டப்பட்ட லெனின், மக்கள் செயல்பாடே விடுதலைக்கான வழி என நம்பினார்."
+        "explanation": "மார்க்சால் தூண்டப்பட்ட லெனின், மக்கள் செயல்பாடே விடுதலைக்கான வழி என நம்பினார். அவர் ஜாரின் உயிருக்கு எதிரான முயற்சியில் பங்கேற்றதற்காகத் தூக்கிலிடப்பட்டார்."
       }
     },
     {
@@ -866,11 +866,11 @@
         "q": "ரஷ்ய அரசுக்கு எதிராக இரக்கமற்ற போரை நடத்திய இளம், தீவிர, பிரபுக்கள் அல்லாத அறிவுஜீவிகளை அவர்களின் எதிரிகள் அழைத்த பெயர்",
         "options": [
           "போல்ஷிவிக்குகள்",
-          "நிஹிலிஸ்டுகள் (nihilists)",
+          "நிஹிலிஸ்டுகள்",
           "மென்ஷிவிக்குகள்",
           "டிசம்பிரிஸ்டுகள்"
         ],
-        "explanation": "நிஹிலிசம் அரசு, திருச்சபை, குடும்பம் ஆகியவற்றின் அதிகாரம் அனைத்தையும் நிராகரித்தது."
+        "explanation": "நிஹிலிசம் அரசு, திருச்சபை, குடும்பம் ஆகியவற்றின் அதிகாரம் அனைத்தையும் நிராகரித்தது. ஆங்கிலத்தில்/விளக்கம்: nihilists."
       }
     },
     {
@@ -884,22 +884,22 @@
       "en": {
         "q": "The popular uprising in Petrograd in February 1917 began with a strike by women textile workers around the celebration of",
         "options": [
-          "Bloody Sunday",
-          "May Day",
-          "International Working Women's Day",
-          "Bastille Day"
+          "the Bloody Sunday anniversary",
+          "May Day workers' festival",
+          "International Women's Day",
+          "Bastille Day celebrations"
         ],
-        "explanation": "Masses of women workers demanded 'Bread for workers'; the city's 400,000 workers joined the next day."
+        "explanation": "Masses of women workers demanded 'Bread for workers'; the city's 400,000 workers joined the next day. It was International Working Women's Day."
       },
       "ta": {
         "q": "1917 பிப்ரவரியில் பெட்ரோகிராடில் மக்கள் எழுச்சி, எந்த நாள் கொண்டாட்டத்தை ஒட்டி பெண் நெசவுத் தொழிலாளரின் வேலைநிறுத்தத்துடன் தொடங்கியது?",
         "options": [
-          "இரத்த ஞாயிறு",
-          "மே நாள்",
+          "இரத்த ஞாயிறு ஆண்டுநினைவு நாள்",
+          "மே தினத் தொழிலாளர் விழா",
           "பன்னாட்டு உழைக்கும் பெண்கள் நாள்",
-          "பாஸ்டில் நாள்"
+          "பாஸ்டில் நாள் கொண்டாட்டங்கள்"
         ],
-        "explanation": "பெண் தொழிலாளர் 'தொழிலாளருக்கு ரொட்டி' எனக் கோரினர்; மறுநாள் நகரின் 4,00,000 தொழிலாளர் இணைந்தனர்."
+        "explanation": "பெண் தொழிலாளர் 'தொழிலாளருக்கு ரொட்டி' எனக் கோரினர்; மறுநாள் நகரின் 4,00,000 தொழிலாளர் இணைந்தனர். அது பன்னாட்டு உழைக்கும் பெண்கள் நாள்."
       }
     },
     {
@@ -943,9 +943,9 @@
         "q": "Who prepared the detailed plan for the Bolshevik seizure of power after Lenin persuaded the Central Committee to decide on an immediate revolution?",
         "options": [
           "Leon Trotsky",
-          "Kerensky",
-          "Stalin",
-          "Rasputin"
+          "Alexander Kerensky",
+          "Joseph Stalin",
+          "Grigori Rasputin"
         ],
         "explanation": "On 7 November key government buildings, including the Winter Palace, were seized."
       },
@@ -953,9 +953,9 @@
         "q": "உடனடிப் புரட்சிக்கு லெனின் மத்தியக் குழுவை ஒப்புக்கொள்ள வைத்த பின், போல்ஷிவிக்குகள் அதிகாரம் கைப்பற்ற விரிவான திட்டத்தை வகுத்தவர்",
         "options": [
           "லியோன் ட்ராட்ஸ்கி",
-          "கெரென்ஸ்கி",
-          "ஸ்டாலின்",
-          "ரஸ்புடின்"
+          "அலெக்சாந்தர் கெரென்ஸ்கி",
+          "ஜோசப் ஸ்டாலின்",
+          "கிரிகோரி ரஸ்புடின்"
         ],
         "explanation": "நவம்பர் 7 அன்று குளிர்கால அரண்மனை உள்ளிட்ட முக்கிய அரசுக் கட்டடங்கள் கைப்பற்றப்பட்டன."
       }
@@ -1042,9 +1042,9 @@
           "இலண்டன் பங்குச் சந்தை",
           "லாயிட்ஸ் வங்கி",
           "கிழக்கிந்தியக் கம்பெனி",
-          "இங்கிலாந்து வங்கி (Bank of England)"
+          "இங்கிலாந்து வங்கி"
         ],
-        "explanation": "செலவுக் குறைப்பு, அதிக வரி போன்ற நடவடிக்கைகளாலும் இங்கிலாந்தின் நிலை மேம்படவில்லை."
+        "explanation": "செலவுக் குறைப்பு, அதிக வரி போன்ற நடவடிக்கைகளாலும் இங்கிலாந்தின் நிலை மேம்படவில்லை. ஆங்கிலத்தில்/விளக்கம்: Bank of England."
       }
     },
     {
@@ -1116,22 +1116,22 @@
       "en": {
         "q": "The word 'Fascism' derives from the Latin 'fasces', which was",
         "options": [
-          "a Roman toga",
-          "a legion's banner",
-          "an axe surrounded by a bundle of rods representing the authority of the Roman state",
-          "a Roman coin"
+          "a white Roman senator's toga",
+          "a Roman legion's battle banner",
+          "an axe bound within a bundle of rods",
+          "a Roman silver coin of the Republic"
         ],
-        "explanation": "Fascism is a form of radical authoritarian ultra-nationalism."
+        "explanation": "Fascism is a form of radical authoritarian ultra-nationalism. The axe surrounded by a bundle of rods represented the authority of the Roman state."
       },
       "ta": {
         "q": "'பாசிசம்' (Fascism) என்ற சொல் பெறப்பட்ட இலத்தீன் சொல் 'ஃபாசெஸ்' (fasces) குறிப்பது",
         "options": [
-          "ரோமானிய மேலாடை",
-          "படைப்பிரிவின் கொடி",
-          "ரோமானிய அரசின் அதிகாரத்தைக் குறிக்கும், கழிக் கட்டால் சூழப்பட்ட கோடரி",
-          "ரோமானிய நாணயம்"
+          "ரோமானிய செனட்டரின் வெள்ளை மேலாடை",
+          "ரோமானியப் படைப்பிரிவின் போர்க்கொடி",
+          "கழிக் கட்டுடன் இணைந்த ரோமானியக் கோடரி",
+          "குடியரசுக் கால ரோமானிய வெள்ளி நாணயம்"
         ],
-        "explanation": "பாசிசம் தீவிர எதேச்சாதிகார அதி-தேசியவாதத்தின் ஒரு வடிவம்."
+        "explanation": "பாசிசம் தீவிர எதேச்சாதிகார அதி-தேசியவாதத்தின் ஒரு வடிவம். கழிக் கட்டால் சூழப்பட்ட கோடரி ரோமானிய அரசின் அதிகாரத்தைக் குறித்தது."
       }
     },
     {
@@ -1174,10 +1174,10 @@
       "en": {
         "q": "In Germany in 1923, which event infuriated the workers to organise strikes in protest and gave underground movements an opportunity to thrive?",
         "options": [
-          "The occupation of the Ruhr by the French",
-          "The Treaty of Versailles",
-          "The death of Stresemann",
-          "The Reichstag fire"
+          "The French occupation of the Ruhr",
+          "The signing of the Treaty of Versailles",
+          "The sudden death of Stresemann in office",
+          "The burning of the Reichstag building"
         ],
         "explanation": "One underground movement was in Berlin under Ludendorff and another in Munich under Adolf Hitler."
       },
@@ -1185,9 +1185,9 @@
         "q": "1923-இல் ஜெர்மனியில் தொழிலாளர்களைச் சினமுறச் செய்து வேலைநிறுத்தம் செய்யவைத்து, இரகசிய இயக்கங்கள் வளர வாய்ப்பளித்த நிகழ்வு",
         "options": [
           "பிரான்ஸ் ரூர் பகுதியை ஆக்கிரமித்தது",
-          "வெர்சாய் உடன்படிக்கை",
-          "ஸ்ட்ரேசமானின் மறைவு",
-          "ரைக்ஸ்டாக் தீ"
+          "வெர்சாய் உடன்படிக்கையில் கையெழுத்திட்டது",
+          "பதவியிலிருந்த ஸ்ட்ரேசமானின் திடீர் மறைவு",
+          "ரைக்ஸ்டாக் கட்டடம் தீயிடப்பட்டது"
         ],
         "explanation": "பெர்லினில் லூடெண்டார்ஃப் தலைமையிலும் முனிச்சில் ஹிட்லர் தலைமையிலும் இரகசிய இயக்கங்கள் இருந்தன."
       }

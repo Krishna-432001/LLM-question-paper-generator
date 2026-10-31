@@ -43,19 +43,19 @@
       "en": {
         "q": "Which of the following is an example of quantitative data?",
         "options": [
-          "Language spoken",
-          "Marks obtained in an examination",
-          "Type of tree",
-          "Name of a district"
+          "Language spoken by people",
+          "Marks in an examination",
+          "Type of tree in a forest",
+          "Name of the district"
         ],
         "explanation": "Qualitative data only describes an item, such as the language spoken or the type of tree."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் அளவுசார் (Quantitative) தரவுக்கு எடுத்துக்காட்டு எது?",
         "options": [
-          "பேசப்படும் மொழி",
-          "தேர்வில் பெற்ற மதிப்பெண்கள்",
-          "மரத்தின் வகை",
+          "மக்கள் பேசும் மொழி",
+          "தேர்வில் பெற்ற மதிப்பெண்",
+          "காட்டிலுள்ள மரத்தின் வகை",
           "மாவட்டத்தின் பெயர்"
         ],
         "explanation": "பண்புசார் தரவு ஒரு பொருளைப் பற்றி மட்டும் விவரிக்கும்; எ.கா: பேசும் மொழி, மர வகை."
@@ -276,11 +276,11 @@
         "q": "The value obtained by dividing the sum of values of all items by the number of items is the",
         "options": [
           "median",
-          "mean (arithmetic mean)",
+          "mean",
           "mode",
           "range"
         ],
-        "explanation": "Mean = sum of the values of all items divided by the total number of items."
+        "explanation": "Mean = sum of the values of all items divided by the total number of items. The mean is also called the arithmetic mean."
       },
       "ta": {
         "q": "அனைத்து உறுப்புகளின் மதிப்புகளின் கூடுதலை உறுப்புகளின் எண்ணிக்கையால் வகுத்துப் பெறும் மதிப்பு",
@@ -346,9 +346,9 @@
           "வீச்சு",
           "கூட்டுச் சராசரி",
           "முகடு",
-          "இடைநிலை அளவு (Median)"
+          "இடைநிலை அளவு"
         ],
-        "explanation": "இரட்டை எண்ணிக்கையிலான உறுப்புகள் இருந்தால் நடுவிலுள்ள இரு மதிப்புகளின் சராசரியே இடைநிலை அளவு."
+        "explanation": "இரட்டை எண்ணிக்கையிலான உறுப்புகள் இருந்தால் நடுவிலுள்ள இரு மதிப்புகளின் சராசரியே இடைநிலை அளவு. இது ஆங்கிலத்தில் Median எனப்படும்."
       }
     },
     {
@@ -402,11 +402,11 @@
         "q": "ஒரு தரவுத் தொகுப்பில் மிக அதிக முறை இடம்பெறும் மதிப்பு",
         "options": [
           "இடைநிலை அளவு",
-          "முகடு (Mode)",
+          "முகடு",
           "கூட்டுச் சராசரி",
           "வீச்சு"
         ],
-        "explanation": "தொகுக்கப்பட்ட தொடரில் அதிக அதிர்வெண் உள்ள வகுப்பே முகட்டு வகுப்பு."
+        "explanation": "தொகுக்கப்பட்ட தொடரில் அதிக அதிர்வெண் உள்ள வகுப்பே முகட்டு வகுப்பு. இது ஆங்கிலத்தில் Mode எனப்படும்."
       }
     },
     {

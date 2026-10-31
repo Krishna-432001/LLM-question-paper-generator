@@ -54,11 +54,11 @@
         "q": "உற்பத்தியாளர்களும் அவர்களின் உறவினர் குழுக்களும் பயன்படுத்துவதற்காகப் பொருட்களும் சேவைகளும் உருவாக்கப்படும் பொருளாதாரம்",
         "options": [
           "வணிகப் பொருளாதாரம்",
-          "வாழ்வாதாரப் பொருளாதாரம் (Subsistence)",
+          "வாழ்வாதாரப் பொருளாதாரம்",
           "திட்டமிட்ட பொருளாதாரம்",
           "சந்தைப் பொருளாதாரம்"
         ],
-        "explanation": "வணிகப் பொருளாதாரத்தில் பொருட்கள், சேவைகள் முதன்மையாக விற்பனைக்காக உற்பத்தி செய்யப்படுகின்றன."
+        "explanation": "வணிகப் பொருளாதாரத்தில் பொருட்கள், சேவைகள் முதன்மையாக விற்பனைக்காக உற்பத்தி செய்யப்படுகின்றன. ஆங்கிலத்தில்/விளக்கம்: Subsistence."
       }
     },
     {
@@ -111,10 +111,10 @@
       "ta": {
         "q": "உலகின் மிகப் பழமையான பொருளாதாரச் செயல்பாடு எனக் கருதப்படுவது",
         "options": [
-          "சுரங்கத் தொழில்",
-          "மேய்ச்சல் தொழில்",
+          "சுரங்கம் தோண்டும் தொழில்",
+          "மந்தை மேய்ச்சல் தொழில்",
           "தோட்டப் பயிர் வேளாண்மை",
-          "உணவு சேகரித்தலும் வேட்டையாடுதலும்"
+          "வேட்டையாடுதலும் சேகரித்தலும்"
         ],
         "explanation": "12,000 ஆண்டுகளுக்கு முன்புவரை அனைத்து மனிதர்களும் வேட்டையாடிகளாகவும் உணவு சேகரிப்பவர்களாகவும் வாழ்ந்தனர்."
       }
@@ -170,11 +170,11 @@
         "q": "மக்கள் தங்கள் கால்நடைகளுடன் கோடைகால, குளிர்கால நிலையான மேய்ச்சல் நிலங்களுக்கு இடையே பருவகாலமாக நகர்வது",
         "options": [
           "இடம்பெயர் வேளாண்மை",
-          "பருவகால மேய்ச்சல் இடப்பெயர்வு (Transhumance)",
+          "பருவகால மேய்ச்சல் இடப்பெயர்வு",
           "மேய்ச்சல் நிலமின்றி அலையும் மந்தை மேய்த்தல்",
           "தோட்டப் பயிர் வேளாண்மை"
         ],
-        "explanation": "இமயமலையின் குஜ்ஜார், பகர்வால், காடி, போட்டியா மக்கள் இதைப் பின்பற்றுகின்றனர்."
+        "explanation": "இமயமலையின் குஜ்ஜார், பகர்வால், காடி, போட்டியா மக்கள் இதைப் பின்பற்றுகின்றனர். ஆங்கிலத்தில்/விளக்கம்: Transhumance."
       }
     },
     {
@@ -217,22 +217,22 @@
       "en": {
         "q": "In shifting cultivation, an area is cleared of vegetation and cultivated for a few years and then",
         "options": [
-          "used for mining",
-          "converted into a plantation",
+          "converted into a mining site",
+          "converted into a tea plantation",
           "irrigated for permanent cultivation",
-          "abandoned for a new area until its fertility is naturally restored"
+          "abandoned to let its fertility recover"
         ],
-        "explanation": "It is a traditional farming practised by tribes in hilly and forest regions, especially in tropical Africa."
+        "explanation": "It is a traditional farming practised by tribes in hilly and forest regions, especially in tropical Africa. The land is abandoned for a new area until its fertility is naturally restored."
       },
       "ta": {
         "q": "இடம்பெயர் வேளாண்மையில் ஒரு நிலம் தாவரங்கள் அகற்றப்பட்டுச் சில ஆண்டுகள் பயிரிடப்பட்ட பின்",
         "options": [
-          "சுரங்கத்துக்குப் பயன்படுத்தப்படுகிறது",
-          "தோட்டப்பயிர் நிலமாக மாற்றப்படுகிறது",
+          "சுரங்கத் தளமாக மாற்றப்படுகிறது",
+          "தேயிலைத் தோட்டமாக மாற்றப்படுகிறது",
           "நிரந்தரச் சாகுபடிக்காகப் பாசனம் செய்யப்படுகிறது",
-          "அதன் வளம் இயற்கையாக மீளும் வரை கைவிடப்பட்டு புதிய நிலம் பயன்படுத்தப்படுகிறது"
+          "வளம் மீளும் வரை கைவிடப்படுகிறது"
         ],
-        "explanation": "இது மலை, காட்டுப் பகுதிகளில் பழங்குடியினர் பின்பற்றும் பாரம்பரிய வேளாண்மை; குறிப்பாக வெப்பமண்டல ஆப்பிரிக்காவில்."
+        "explanation": "இது மலை, காட்டுப் பகுதிகளில் பழங்குடியினர் பின்பற்றும் பாரம்பரிய வேளாண்மை; குறிப்பாக வெப்பமண்டல ஆப்பிரிக்காவில். நிலத்தின் வளம் இயற்கையாக மீளும் வரை அது கைவிடப்பட்டு புதிய நிலம் பயன்படுத்தப்படுகிறது."
       }
     },
     {
@@ -316,10 +316,10 @@
         "options": [
           "கலப்பு வேளாண்மை",
           "தீவிர வேளாண்மை",
-          "பரந்த (விரிவு) வேளாண்மை",
+          "பரந்த வேளாண்மை",
           "தோட்டப் பயிர் வேளாண்மை"
         ],
-        "explanation": "நிலஉடைமையின் அளவு மிகப் பெரியதாக உள்ள இடங்களில் இது பின்பற்றப்படுகிறது."
+        "explanation": "நிலஉடைமையின் அளவு மிகப் பெரியதாக உள்ள இடங்களில் இது பின்பற்றப்படுகிறது. இது விரிவு வேளாண்மை எனவும் அழைக்கப்படும்."
       }
     },
     {
@@ -372,10 +372,10 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் தோட்டப் பயிர் அல்லாதது எது?",
         "options": [
-          "சோளம் (மக்காச்சோளம்)",
-          "தேயிலை",
-          "காபி",
-          "கொக்கோ"
+          "மக்காச்சோளப் பயிர்",
+          "தேயிலைப் பயிர்",
+          "காபிப் பயிர்",
+          "கொக்கோப் பயிர்"
         ],
         "explanation": "தோட்டப் பயிர் வேளாண்மைக்குப் பெரும் நிலப்பரப்பு தேவை; அது பெரும்பாலும் வெப்பமண்டல நாடுகளில் காணப்படுகிறது."
       }
@@ -402,11 +402,11 @@
         "q": "மலர்கள், காய்கறிகள், பழங்களின் சிறப்புச் சாகுபடி, 'டிரக் பண்ணை' எனவும் அழைக்கப்படுவது",
         "options": [
           "தோட்டப் பயிர் வேளாண்மை",
-          "தோட்டக்கலை (Horticulture)",
+          "தோட்டக்கலை",
           "பரந்த வேளாண்மை",
           "இடம்பெயர் வேளாண்மை"
         ],
-        "explanation": "இப்பயிர்கள் மலிவான, திறமையான போக்குவரத்தால் சந்தைகளுடன் இணைந்த சிறு பண்ணைகளில் விளைவிக்கப்படுகின்றன."
+        "explanation": "இப்பயிர்கள் மலிவான, திறமையான போக்குவரத்தால் சந்தைகளுடன் இணைந்த சிறு பண்ணைகளில் விளைவிக்கப்படுகின்றன. ஆங்கிலத்தில்/விளக்கம்: Horticulture."
       }
     },
     {
@@ -462,9 +462,9 @@
           "புவியியலின் கோட்பாடுகள்",
           "நாடுகளின் செல்வம்",
           "உயிரினங்களின் தோற்றம்",
-          "தனித்த நாடு (The Isolated State)"
+          "தனித்த நாடு"
         ],
-        "explanation": "இம்மாதிரி தொழில்மயத்துக்கு முன் உருவாக்கப்பட்டது; வரம்புக்குட்பட்ட அனுமானங்களை அடிப்படையாகக் கொண்டது."
+        "explanation": "இம்மாதிரி தொழில்மயத்துக்கு முன் உருவாக்கப்பட்டது; வரம்புக்குட்பட்ட அனுமானங்களை அடிப்படையாகக் கொண்டது. ஆங்கிலத்தில்/விளக்கம்: The Isolated State."
       }
     },
     {
@@ -508,21 +508,21 @@
         "q": "In the Von Thunen model, ranching is located in the outermost ring because",
         "options": [
           "land near the city is cheapest",
-          "animals can be raised far from the city as they are self-transporting",
-          "animals need more water",
-          "ranching needs timber"
+          "animals can walk to market themselves",
+          "animals need more water than crops",
+          "ranching needs large amounts of timber"
         ],
-        "explanation": "Grains last longer than dairy products and are lighter than fuel, so they are located in the third ring."
+        "explanation": "Grains last longer than dairy products and are lighter than fuel, so they are located in the third ring. Animals are self-transporting, so they can be raised far from the city."
       },
       "ta": {
         "q": "வான் தூனன் மாதிரியில் மேய்ச்சல் பண்ணை வெளிவளையத்தில் அமையக் காரணம்",
         "options": [
-          "நகரத்தின் அருகே நிலம் மிக மலிவு என்பது",
-          "விலங்குகள் தாமே நடந்து செல்வதால் நகரத்திலிருந்து தொலைவிலும் வளர்க்க முடிவது",
-          "விலங்குகளுக்கு அதிக நீர் தேவை என்பது",
-          "மேய்ச்சல் பண்ணைக்கு மரம் தேவை என்பது"
+          "நகரத்தின் அருகே நிலம் மிக மலிவு என்பதால்",
+          "விலங்குகள் தாமே நடந்து சந்தைக்குச் செல்வதால்",
+          "பயிர்களை விட விலங்குகளுக்கு அதிக நீர் தேவை என்பதால்",
+          "மேய்ச்சல் பண்ணைக்கு அதிக மரம் தேவை என்பதால்"
         ],
-        "explanation": "தானியங்கள் பால் பொருட்களை விட நீண்ட நாள் தாங்குபவை, எரிபொருளை விட இலேசானவை; எனவே மூன்றாம் வளையத்தில் அமைகின்றன."
+        "explanation": "தானியங்கள் பால் பொருட்களை விட நீண்ட நாள் தாங்குபவை, எரிபொருளை விட இலேசானவை; எனவே மூன்றாம் வளையத்தில் அமைகின்றன. விலங்குகள் தாமே நடந்து செல்வதால் நகரத்திலிருந்து தொலைவிலும் வளர்க்க முடியும்."
       }
     },
     {
@@ -538,20 +538,20 @@
         "options": [
           "Farmers use railways to transport goods",
           "The state has many rivers and mountains",
-          "The land of the State is completely flat with consistent soil quality and climate",
+          "The land of the State is flat with uniform soil",
           "Soil quality varies widely across the state"
         ],
-        "explanation": "Farmers act to maximise profits, and the city is located centrally in a self-sufficient Isolated State."
+        "explanation": "Farmers act to maximise profits, and the city is located centrally in a self-sufficient Isolated State. The land is assumed to be completely flat with consistent soil quality and climate."
       },
       "ta": {
         "q": "வான் தூனன் மாதிரியின் அனுமானங்களில் ஒன்று எது?",
         "options": [
           "விவசாயிகள் இருப்புப்பாதையில் பொருட்களை எடுத்துச் செல்கின்றனர்",
           "நாட்டில் பல ஆறுகளும் மலைகளும் உள்ளன",
-          "நாட்டின் நிலம் முற்றிலும் சமதளம்; மண்ணின் தரமும் காலநிலையும் ஒரே மாதிரி இருக்கும்",
+          "நிலம் சமதளம்; மண்ணின் தரம் ஒரே மாதிரி",
           "மண்ணின் தரம் பரவலாக மாறுபடுகிறது"
         ],
-        "explanation": "விவசாயிகள் இலாபத்தை உயர்த்தவே செயல்படுவர்; நகரம் தன்னிறைவு பெற்ற தனித்த நாட்டின் மையத்தில் அமைந்துள்ளது."
+        "explanation": "விவசாயிகள் இலாபத்தை உயர்த்தவே செயல்படுவர்; நகரம் தன்னிறைவு பெற்ற தனித்த நாட்டின் மையத்தில் அமைந்துள்ளது. நிலம் முற்றிலும் சமதளமாகவும் மண்ணின் தரமும் காலநிலையும் ஒரே மாதிரியாகவும் இருப்பதாகக் கருதப்படுகிறது."
       }
     },
     {
@@ -578,9 +578,9 @@
           "மேற்பரப்புச் சுரங்கம்",
           "திறந்தவெளிச் சுரங்கம்",
           "நிலத்தடிக் குழிச் சுரங்கம்",
-          "இயல்பிட (In-situ) சுரங்கம்"
+          "இயல்பிடச் சுரங்கம்"
         ],
-        "explanation": "ஒரு கரைசல் தாதுப்படிவுக்குள் செலுத்தப்பட்டுத் தாதுவைக் கரைக்க, இரண்டாம் குழாய் அதை வெளியே எடுக்கிறது."
+        "explanation": "ஒரு கரைசல் தாதுப்படிவுக்குள் செலுத்தப்பட்டுத் தாதுவைக் கரைக்க, இரண்டாம் குழாய் அதை வெளியே எடுக்கிறது. இது ஆங்கிலத்தில் In-situ mining எனப்படும்."
       }
     },
     {
@@ -594,22 +594,22 @@
       "en": {
         "q": "Which method of mining involves extracting ore found near the surface layer without tunnelling into the earth?",
         "options": [
-          "Open-pit (opencast) mining",
+          "Open-pit mining",
           "Underground shaft mining",
           "In-situ mining",
           "Drilling for petroleum"
         ],
-        "explanation": "Underground mining digs a network of shafts and tunnels and is more harmful to those working within."
+        "explanation": "Underground mining digs a network of shafts and tunnels and is more harmful to those working within. Also known as: opencast."
       },
       "ta": {
         "q": "நிலத்துக்குள் சுரங்கப்பாதை அமைக்காமல் மேற்பரப்புக்கு அருகிலுள்ள தாதுவை எடுக்கும் சுரங்க முறை",
         "options": [
-          "திறந்தவெளிச் சுரங்கம் (Opencast)",
+          "திறந்தவெளிச் சுரங்கம்",
           "நிலத்தடிக் குழிச் சுரங்கம்",
           "இயல்பிடச் சுரங்கம்",
           "பெட்ரோலியம் துளையிடல்"
         ],
-        "explanation": "நிலத்தடிச் சுரங்கத்தில் குழிகளும் சுரங்கப்பாதைகளும் தோண்டப்படுகின்றன; அது பணியாளர்களுக்கு அதிக ஆபத்தானது."
+        "explanation": "நிலத்தடிச் சுரங்கத்தில் குழிகளும் சுரங்கப்பாதைகளும் தோண்டப்படுகின்றன; அது பணியாளர்களுக்கு அதிக ஆபத்தானது. ஆங்கிலத்தில்/விளக்கம்: Opencast."
       }
     },
     {
@@ -654,20 +654,20 @@
         "options": [
           "government policy",
           "availability of cheap labour",
-          "nearness to raw materials (imported oil through the port)",
+          "nearness to raw materials",
           "nearness to the market"
         ],
-        "explanation": "Availability of raw materials is a primary factor governing industrial location, especially for weight-losing and bulky raw materials."
+        "explanation": "Availability of raw materials is a primary factor governing industrial location, especially for weight-losing and bulky raw materials. The refinery uses imported oil brought through the port."
       },
       "ta": {
         "q": "விசாகப்பட்டினத்தில் எண்ணெய் சுத்திகரிப்பு ஆலை அமைந்திருப்பது எந்தக் காரணத்திற்கு எடுத்துக்காட்டு?",
         "options": [
           "அரசுக் கொள்கை",
           "மலிவான தொழிலாளர் கிடைப்பது",
-          "மூலப்பொருட்களுக்கு அருகாமை (துறைமுகம் வழி இறக்குமதியாகும் எண்ணெய்)",
+          "மூலப்பொருட்களுக்கு அருகாமை",
           "சந்தைக்கு அருகாமை"
         ],
-        "explanation": "எடை குறையும், பருமனான மூலப்பொருட்களுக்கு மூலப்பொருள் கிடைப்பதே தொழில் அமைவிடத்தை முடிவு செய்யும் முதன்மைக் காரணி."
+        "explanation": "எடை குறையும், பருமனான மூலப்பொருட்களுக்கு மூலப்பொருள் கிடைப்பதே தொழில் அமைவிடத்தை முடிவு செய்யும் முதன்மைக் காரணி. இந்த ஆலை துறைமுகம் வழி இறக்குமதியாகும் எண்ணெயைப் பயன்படுத்துகிறது."
       }
     },
     {
@@ -681,20 +681,20 @@
       "en": {
         "q": "Industries like aluminium units are located near",
         "options": [
-          "the market",
-          "coal mines",
-          "ports",
-          "hydroelectric projects"
+          "big city markets",
+          "coal mining areas",
+          "major seaports",
+          "hydroelectric sites"
         ],
         "explanation": "In olden days, when steam ran industries, they were established near coal mines."
       },
       "ta": {
         "q": "அலுமினியத் தொழிற்சாலைகள் போன்றவை எவற்றின் அருகில் அமைகின்றன?",
         "options": [
-          "சந்தை",
-          "நிலக்கரிச் சுரங்கங்கள்",
-          "துறைமுகங்கள்",
-          "நீர்மின் திட்டங்கள்"
+          "பெருநகரச் சந்தைகள்",
+          "நிலக்கரிச் சுரங்கப் பகுதிகள்",
+          "முக்கியத் துறைமுகங்கள்",
+          "நீர்மின் நிலையப் பகுதிகள்"
         ],
         "explanation": "பழங்காலத்தில் நீராவியால் தொழில்கள் இயங்கியதால் அவை நிலக்கரிச் சுரங்கங்களின் அருகில் அமைந்தன."
       }
@@ -721,9 +721,9 @@
         "q": "நூலின்படி, மும்பைக்கு (பம்பாய்) அருகில் பருத்தி ஆடைத் தொழில் வளர்ந்ததற்குக் காரணம்",
         "options": [
           "மலிவான தொழிலாளர் கிடைப்பு",
-          "நிலக்கரி",
-          "பெட்ரோலியம்",
-          "இரும்புத் தாது"
+          "நிலக்கரிச் சுரங்கங்கள் கிடைப்பு",
+          "பெட்ரோலிய எண்ணெய் கிடைப்பு",
+          "இரும்புத் தாது கிடைப்பு"
         ],
         "explanation": "தொழிலாளர்கள் மிகுதியாகக் கிடைக்கும் இடங்களில் தொழில் தொடங்கவே தொழில்முனைவோர் விரும்புவர்."
       }
@@ -810,9 +810,9 @@
           "பாரத் ஹெவி எலெக்ட்ரிக்கல்ஸ் லிமிடெட்",
           "பிலாய் இரும்பு எஃகு ஆலை",
           "துர்காபூர் இரும்பு எஃகு ஆலை",
-          "ஜாம்ஷெட்பூரிலுள்ள டாடா இரும்பு எஃகு நிறுவனம் (TISCO)"
+          "ஜாம்ஷெட்பூர் டாடா இரும்பு எஃகு ஆலை"
         ],
-        "explanation": "பிலாய், துர்காபூர் எஃகு ஆலைகளும் BHEL-உம் பொதுத்துறைத் தொழில்கள்."
+        "explanation": "பிலாய், துர்காபூர் எஃகு ஆலைகளும் BHEL-உம் பொதுத்துறைத் தொழில்கள். ஜாம்ஷெட்பூரிலுள்ள டாடா இரும்பு எஃகு நிறுவனம் (TISCO) தனியார் துறை ஆலை."
       }
     },
     {
@@ -942,7 +942,7 @@
       "en": {
         "q": "For analytical purposes, the World Economic Situation and Prospects (WESP) classifies all countries into which three broad categories?",
         "options": [
-          "Developed countries, countries in transition and less developed countries",
+          "Developed, transition and less developed countries",
           "Primary, secondary and tertiary countries",
           "Industrial, agrarian and mining countries",
           "Northern, southern and eastern countries"

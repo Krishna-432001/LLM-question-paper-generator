@@ -15,9 +15,9 @@
         "q": "A place inhabited more or less permanently, including the buildings in which people live or work and the streets they use, is called a",
         "options": [
           "human settlement",
-          "conurbation",
-          "megalopolis",
-          "nodal point"
+          "urban conurbation",
+          "urban megalopolis",
+          "nodal trading point"
         ],
         "explanation": "A settlement may consist of only a few dwelling units called hamlets or a big cluster of buildings called an urban city."
       },
@@ -25,8 +25,8 @@
         "q": "மக்கள் ஏறத்தாழ நிரந்தரமாக வசிக்கும், அவர்கள் வாழும் அல்லது பயன்படுத்தும் கட்டடங்களையும் தெருக்களையும் உள்ளடக்கிய இடம்",
         "options": [
           "மனிதக் குடியிருப்பு",
-          "தொகுப்பு நகரம் (Conurbation)",
-          "மாபெருநகரம் (Megalopolis)",
+          "தொகுப்பு நகரம்",
+          "மாபெருநகரம்",
           "சந்திப்பு முனை"
         ],
         "explanation": "ஒரு குடியிருப்பு சில வீடுகளைக் கொண்ட சிற்றூராகவோ பெரிய நகரமாகவோ இருக்கலாம்."
@@ -53,10 +53,10 @@
       "ta": {
         "q": "மனிதர்கள் முதலில் தோன்றியதாக மானிடவியலாளர்கள் பெரும்பாலோர் நம்பும் இடம்",
         "options": [
-          "ஆசியாவின் சிந்துவெளி",
-          "கிழக்கு ஆப்பிரிக்காவின் பெரும் பிளவுப் பள்ளத்தாக்கு",
+          "ஆசியாவின் சிந்து ஆற்றுப் பள்ளத்தாக்கு",
+          "கிழக்கு ஆப்பிரிக்கப் பிளவுப் பள்ளத்தாக்கு",
           "யூப்ரட்டீஸ், டைகிரிஸ் பள்ளத்தாக்கு",
-          "எகிப்தின் நைல் பள்ளத்தாக்கு"
+          "எகிப்தின் நைல் ஆற்றுப் பள்ளத்தாக்கு"
         ],
         "explanation": "நைல், கங்கை, யாங்சி ஆற்றுப் பள்ளத்தாக்குகளில் வேளாண்மை சிறப்படைந்து முதல் நகரங்கள் தோன்றின."
       }
@@ -104,9 +104,9 @@
           "are free from snowfall",
           "are sheltered from the sun",
           "are closest to rivers",
-          "receive the most sunshine and are best for agriculture"
+          "receive the most sunshine"
         ],
-        "explanation": "Aspect relates to the direction in which the land faces."
+        "explanation": "Aspect relates to the direction in which the land faces. South-facing slopes receive the most sunshine and are best for agriculture."
       },
       "ta": {
         "q": "வடகோளார்த்தத்தில் ஆல்ப்ஸ் பள்ளத்தாக்குகளில் குடியிருப்புகள் தெற்கு நோக்கிய சரிவுகளில் அமையக் காரணம், அவை",
@@ -114,9 +114,9 @@
           "பனிப்பொழிவே இல்லாதவை என்பதால்",
           "சூரிய ஒளியிலிருந்து பாதுகாப்பு பெற்றவை என்பதால்",
           "ஆறுகளுக்கு மிக அருகிலுள்ளவை என்பதால்",
-          "அதிக சூரிய ஒளி பெற்று வேளாண்மைக்குச் சிறந்தவை என்பதால்"
+          "அதிக சூரிய ஒளி பெறுபவை என்பதால்"
         ],
-        "explanation": "'திசையமைவு' (Aspect) என்பது நிலம் எந்தத் திசையை நோக்கியுள்ளது என்பதைக் குறிக்கும்."
+        "explanation": "'திசையமைவு' (Aspect) என்பது நிலம் எந்தத் திசையை நோக்கியுள்ளது என்பதைக் குறிக்கும். தெற்கு நோக்கிய சரிவுகள் அதிக சூரிய ஒளி பெற்று வேளாண்மைக்குச் சிறந்தவை."
       }
     },
     {
@@ -159,22 +159,22 @@
       "en": {
         "q": "Which of the following is an example from the text of a settlement site chosen for defence on a hill top?",
         "options": [
-          "Ely in Cambridgeshire",
-          "Walled hill-top villages of Italy",
-          "York in England",
-          "Khartoum in Sudan"
+          "Ely in the Cambridgeshire fens",
+          "Hill-top villages of Italy",
+          "York on the River Ouse",
+          "Khartoum on the Nile"
         ],
-        "explanation": "The Maoris of New Zealand built their settlements called 'Pa' on the tops of steep hills to prevent being attacked."
+        "explanation": "The Maoris of New Zealand built their settlements called 'Pa' on the tops of steep hills to prevent being attacked. The walled hill-top villages of Italy are a defence site."
       },
       "ta": {
         "q": "பாதுகாப்புக்காக மலையுச்சியில் அமைந்த குடியிருப்புத் தளத்துக்கு நூலில் கூறப்படும் எடுத்துக்காட்டு எது?",
         "options": [
-          "கேம்பிரிட்ஜ்ஷைரின் எலி",
-          "இத்தாலியின் சுவர்சூழ் மலையுச்சிக் கிராமங்கள்",
-          "இங்கிலாந்தின் யார்க்",
-          "சூடானின் கார்ட்டூம்"
+          "கேம்பிரிட்ஜ்ஷைர் சதுப்பு நிலத்து எலி",
+          "இத்தாலியின் மலையுச்சிக் கிராமங்கள்",
+          "இங்கிலாந்தில் ஊஸ் ஆற்றங்கரை யார்க்",
+          "நைல் ஆற்றங்கரை கார்ட்டூம்"
         ],
-        "explanation": "நியூசிலாந்தின் மவோரிகள் தாக்குதலைத் தவிர்க்க செங்குத்து மலையுச்சிகளில் 'பா' எனும் குடியிருப்புகளை அமைத்தனர்."
+        "explanation": "நியூசிலாந்தின் மவோரிகள் தாக்குதலைத் தவிர்க்க செங்குத்து மலையுச்சிகளில் 'பா' எனும் குடியிருப்புகளை அமைத்தனர். இத்தாலியின் சுவர்சூழ் மலையுச்சிக் கிராமங்கள் பாதுகாப்புக்காகத் தேர்ந்தெடுக்கப்பட்ட இடங்கள்."
       }
     },
     {
@@ -198,10 +198,10 @@
       "ta": {
         "q": "1849இல் ஏற்பட்ட தங்க வேட்டைக்குப் பின் வளர்ந்த புகழ்பெற்ற குடியிருப்பு",
         "options": [
-          "பர்மிங்காம்",
-          "பாரிஸ்",
-          "சான் பிரான்சிஸ்கோ",
-          "எக்செட்டர்"
+          "இங்கிலாந்தின் பர்மிங்காம்",
+          "பிரான்சின் பாரிஸ்",
+          "அமெரிக்காவின் சான் பிரான்சிஸ்கோ",
+          "இங்கிலாந்தின் எக்செட்டர்"
         ],
         "explanation": "தெற்கு வேல்ஸின் நிலக்கரிச் சுரங்கங்களும் கார்ன்வாலின் தகரச் சுரங்கங்களும் குடியிருப்புகள் வேகமாக வளரத் தூண்டின."
       }
@@ -217,9 +217,9 @@
       "en": {
         "q": "The original town of Paris was based on a bridging point at the island of",
         "options": [
-          "Isle of Wight",
-          "Ely in the River Ouse",
-          "Exe in the River Exe",
+          "Isle of Wight in the English Channel",
+          "Ely Island in the River Ouse",
+          "Isle of Sheppey in the Thames estuary",
           "Ile de la Cite in the River Seine"
         ],
         "explanation": "Many towns grew where it was easiest to cross a large river, for example Exeter on the river Exe."
@@ -227,10 +227,10 @@
       "ta": {
         "q": "பாரிஸின் தொடக்க நகரம், பாலமிடும் இடமாக எந்தத் தீவில் அமைந்தது?",
         "options": [
-          "ஐல் ஆஃப் வைட்",
-          "ஔஸ் ஆற்றிலுள்ள எலி",
-          "எக்ஸ் ஆற்றிலுள்ள எக்ஸ்",
-          "சென் ஆற்றின் நடுவிலுள்ள இல் தெ லா சிதே தீவு"
+          "ஆங்கிலக் கால்வாயிலுள்ள ஐல் ஆஃப் வைட்",
+          "ஔஸ் ஆற்றின் நடுவிலுள்ள எலி தீவு",
+          "தேம்ஸ் முகத்துவாரத்திலுள்ள ஷெப்பி தீவு",
+          "சென் ஆற்றிலுள்ள இல் தெ லா சிதே"
         ],
         "explanation": "பெரிய ஆற்றைக் கடக்க எளிதான இடங்களில் பல நகரங்கள் வளர்ந்தன; எ.கா: எக்ஸ் ஆற்றின் எக்செட்டர்."
       }
@@ -305,21 +305,21 @@
         "q": "What is the major difference between rural and urban areas?",
         "options": [
           "Urban areas have lower density of population",
-          "Rural areas have more industries",
-          "Function - rural areas have mainly primary activities, while urban areas are dominated by secondary and tertiary activities",
+          "Rural areas have more large industries",
+          "Function - rural areas mainly have primary activities",
           "Rural people are more mobile in occupations"
         ],
-        "explanation": "Rural areas generally have lower density of population than urban areas."
+        "explanation": "Rural areas generally have lower density of population than urban areas. Rural areas have mainly primary activities, while urban areas are dominated by secondary and tertiary activities."
       },
       "ta": {
         "q": "கிராமப்புறத்துக்கும் நகர்ப்புறத்துக்கும் இடையிலான முக்கிய வேறுபாடு",
         "options": [
           "நகரங்களில் மக்கள் அடர்த்தி குறைவு",
           "கிராமங்களில் தொழிற்சாலைகள் அதிகம்",
-          "செயல்பாடு - கிராமங்களில் முதல்நிலைத் தொழில்கள்; நகரங்களில் இரண்டாம், மூன்றாம் நிலைத் தொழில்கள்",
+          "செயல்பாடு - கிராமங்களில் முதல்நிலைத் தொழில்கள் முதன்மை",
           "கிராம மக்களுக்குத் தொழில் இயக்கம் அதிகம்"
         ],
-        "explanation": "கிராமப்புறங்களில் மக்கள் அடர்த்தி பொதுவாக நகர்ப்புறத்தை விடக் குறைவு."
+        "explanation": "கிராமப்புறங்களில் மக்கள் அடர்த்தி பொதுவாக நகர்ப்புறத்தை விடக் குறைவு. கிராமங்களில் முதல்நிலைத் தொழில்களும், நகரங்களில் இரண்டாம், மூன்றாம் நிலைத் தொழில்களும் முதன்மையாக உள்ளன."
       }
     },
     {
@@ -391,20 +391,20 @@
       "en": {
         "q": "Compact or nucleated rural settlements, with houses built very close to each other, are normally found in",
         "options": [
-          "dry deserts",
+          "arid desert regions",
           "fertile plain regions",
-          "dense forests",
-          "high mountains"
+          "dense forest regions",
+          "high mountain regions"
         ],
         "explanation": "In dispersed settlements, houses are spaced far apart and often interspersed with fields."
       },
       "ta": {
         "q": "வீடுகள் மிக நெருக்கமாகக் கட்டப்பட்ட செறிவுக் குடியிருப்புகள் (Nucleated) பொதுவாகக் காணப்படுவது",
         "options": [
-          "வறண்ட பாலைவனங்களில்",
+          "வறண்ட பாலைவனப் பகுதிகளில்",
           "வளமான சமவெளிப் பகுதிகளில்",
-          "அடர்ந்த காடுகளில்",
-          "உயர்ந்த மலைகளில்"
+          "அடர்ந்த காட்டுப் பகுதிகளில்",
+          "உயர்ந்த மலைப் பகுதிகளில்"
         ],
         "explanation": "சிதறிய குடியிருப்புகளில் வீடுகள் தொலைவில் அமைந்து வயல்களுக்கு இடையே காணப்படும்."
       }
@@ -624,11 +624,11 @@
         "q": "In Burgess's concentric zone model, the heart of the urban community where commercial, social and civic activities are concentrated is",
         "options": [
           "the zone of transition",
-          "the central business district (CBD)",
+          "the central business district",
           "the commuter zone",
           "the zone of better residence"
         ],
-        "explanation": "The heart of the CBD, the downtown core, has office buildings, departmental stores, theatres, hotels, banks and civic government buildings."
+        "explanation": "The heart of the CBD, the downtown core, has office buildings, departmental stores, theatres, hotels, banks and civic government buildings. The central business district is abbreviated CBD."
       },
       "ta": {
         "q": "பர்கெஸின் மாதிரியில் வணிக, சமூக, குடிமை நடவடிக்கைகள் குவிந்துள்ள நகர்ப்புறத்தின் இதயப் பகுதி",
@@ -664,10 +664,10 @@
         "options": [
           "மண்டலம் D - சிறந்த குடியிருப்பு மண்டலம்",
           "மண்டலம் A - மத்திய வணிகப் பகுதி",
-          "மண்டலம் B - மத்திய வணிகப் பகுதிக்கு அடுத்த இடைநிலை மண்டலம்",
+          "மண்டலம் B - மத்திய வணிகப் பகுதிக்கு அடுத்த மண்டலம்",
           "மண்டலம் E - தினசரிப் பயணிகள் மண்டலம்"
         ],
-        "explanation": "இங்கு வணிகச் செயல்பாடுகளும் தொழிற்சாலைகளும் கலந்து பழைய குடியிருப்புகளுக்குள் ஊடுருவுகின்றன."
+        "explanation": "இங்கு வணிகச் செயல்பாடுகளும் தொழிற்சாலைகளும் கலந்து பழைய குடியிருப்புகளுக்குள் ஊடுருவுகின்றன. இது மத்திய வணிகப் பகுதிக்கு அடுத்துள்ள மண்டலம்."
       }
     },
     {
@@ -710,20 +710,20 @@
       "en": {
         "q": "Urbanization is defined as",
         "options": [
-          "the proportion of the total national population living in areas classed as urban",
+          "the share of national population living in urban areas",
           "the absolute number of people living in urban areas",
-          "the shift of industries to villages",
-          "the decline of the population in cities"
+          "the shift of industries from cities to villages",
+          "the decline of the population in large cities"
         ],
         "explanation": "Urban growth refers to the absolute number of people living in areas classed as urban."
       },
       "ta": {
         "q": "நகரமயமாதல் (Urbanization) என்பது",
         "options": [
-          "நாட்டின் மொத்த மக்கள்தொகையில் நகர்ப்புறமாக வகைப்படுத்தப்பட்ட பகுதிகளில் வாழ்வோரின் விகிதம்",
+          "மொத்த மக்கள்தொகையில் நகர்ப்புற மக்களின் விகிதம்",
           "நகர்ப்புறங்களில் வாழ்வோரின் மொத்த எண்ணிக்கை",
-          "தொழில்கள் கிராமங்களுக்கு நகர்வது",
-          "நகரங்களில் மக்கள்தொகை குறைவது"
+          "தொழில்கள் நகரங்களிலிருந்து கிராமங்களுக்கு நகர்வது",
+          "பெரிய நகரங்களில் மக்கள்தொகை குறைந்து வருவது"
         ],
         "explanation": "நகர வளர்ச்சி (Urban growth) என்பது நகர்ப்புறங்களில் வாழ்வோரின் மொத்த எண்ணிக்கையைக் குறிக்கும்."
       }
@@ -780,10 +780,10 @@
         "options": [
           "தொகுப்பு நகரம்",
           "மத்திய வணிகப் பகுதி",
-          "நகர விளிம்புப் பகுதி (Urban fringe)",
+          "நகர விளிம்புப் பகுதி",
           "இடைநிலை மண்டலம்"
         ],
-        "explanation": "இங்கு குழாய் நீர், கழிவுநீர், குப்பை அகற்றல் போன்ற நகரச் சேவைகள் பெரும்பாலும் இருப்பதில்லை."
+        "explanation": "இங்கு குழாய் நீர், கழிவுநீர், குப்பை அகற்றல் போன்ற நகரச் சேவைகள் பெரும்பாலும் இருப்பதில்லை. இது ஆங்கிலத்தில் Urban fringe எனப்படும்."
       }
     },
     {
@@ -810,9 +810,9 @@
           "நகரமயமாதல்",
           "நகர விளிம்புப் பகுதி",
           "மாபெருநகரம்",
-          "நகரப் பரவல் (Urban sprawl)"
+          "நகரப் பரவல்"
         ],
-        "explanation": "இச்செயல்முறை புறநகராக்கம் (Suburbanization) எனப்படுகிறது."
+        "explanation": "இச்செயல்முறை புறநகராக்கம் (Suburbanization) எனப்படுகிறது. இது ஆங்கிலத்தில் Urban sprawl எனப்படும்."
       }
     },
     {
@@ -865,10 +865,10 @@
       "ta": {
         "q": "இந்திய நகரங்களில் இடப்பற்றாக்குறை நிலம், வாடகை விலைகளை உயர்த்தி எதன் தேவையற்ற வளர்ச்சிக்கு முக்கியக் காரணமாகிறது?",
         "options": [
-          "கிராமங்கள்",
+          "கிராமக் குடியிருப்புகள்",
           "குடிசைப் பகுதிகள்",
-          "காடுகள்",
-          "விளைநிலங்கள்"
+          "அடர்ந்த வனப் பகுதிகள்",
+          "வேளாண் விளைநிலங்கள்"
         ],
         "explanation": "இந்திய நகரங்களில் ஆண்டுக்கு ஏறத்தாழ 20 இலட்சம் வீடுகள் பற்றாக்குறை; இதனால் குறைந்த வருமானத்தினர் குடிசைகளிலும் நடைபாதைகளிலும் வாழ்கின்றனர்."
       }

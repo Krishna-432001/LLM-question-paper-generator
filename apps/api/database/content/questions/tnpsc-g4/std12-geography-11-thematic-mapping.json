@@ -140,12 +140,12 @@
       "ta": {
         "q": "புள்ளி வரைபடத்தில் புள்ளிகள் இடப்படாமல் விடப்படும் சதுப்பு நிலம், ஏரி, ஆற்றுப்படுகை போன்ற பயனற்ற நிலங்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
         "options": [
-          "எதிர்மறை நிலங்கள் (Negative lands)",
+          "எதிர்மறை நிலங்கள்",
           "நேர்மறை நிலங்கள்",
           "நடுநிலை நிலங்கள்",
           "எச்ச நிலங்கள்"
         ],
-        "explanation": "மணல், பாறை, காடு நிறைந்த பகுதிகள் பயிர்களுக்கும் குடியிருப்புகளுக்கும் இயல்பாகவே முக்கியமற்றவை."
+        "explanation": "மணல், பாறை, காடு நிறைந்த பகுதிகள் பயிர்களுக்கும் குடியிருப்புகளுக்கும் இயல்பாகவே முக்கியமற்றவை. இவை ஆங்கிலத்தில் Negative lands எனப்படும்."
       }
     },
     {
@@ -230,9 +230,9 @@
           "குன்று நிழல் வரைபடம்",
           "புள்ளி வரைபடம்",
           "கோரோகுரோமேடிக் வரைபடம்",
-          "பரப்புநிழல் (Choropleth) வரைபடம்"
+          "பரப்புநிழல் வரைபடம்"
         ],
-        "explanation": "குறைந்த அடர்த்தி இலேசான நிழலாலும் அதிக அடர்த்தி அடர்ந்த நிழலாலும் காட்டப்படும்."
+        "explanation": "குறைந்த அடர்த்தி இலேசான நிழலாலும் அதிக அடர்த்தி அடர்ந்த நிழலாலும் காட்டப்படும். இது ஆங்கிலத்தில் Choropleth map எனப்படும்."
       }
     },
     {
@@ -246,22 +246,22 @@
       "en": {
         "q": "Choropleth maps are drawn to represent",
         "options": [
-          "densities per unit area within political divisions",
+          "density within political divisions",
           "absolute numbers using dots",
-          "relief using contours",
-          "wind directions"
+          "land relief using contour lines",
+          "wind directions using arrows"
         ],
-        "explanation": "They are used for density of population, literacy, growth rates, sex ratio and percentages."
+        "explanation": "They are used for density of population, literacy, growth rates, sex ratio and percentages. They show densities per unit area within political divisions."
       },
       "ta": {
         "q": "பரப்புநிழல் வரைபடங்கள் எதைக் காட்ட வரையப்படுகின்றன?",
         "options": [
-          "அரசியல் பிரிவுகளுக்குள் ஓர் அலகுப் பரப்பிலுள்ள அடர்த்தியை",
+          "அரசியல் பிரிவுகளின் அடர்த்தியை",
           "புள்ளிகளால் முழு எண்ணிக்கைகளை",
           "சம உயரக் கோடுகளால் நிலத்தோற்றத்தை",
-          "காற்றின் திசைகளை"
+          "அம்புகளால் காற்றின் திசைகளை"
         ],
-        "explanation": "இவை மக்கள் அடர்த்தி, கல்வியறிவு, வளர்ச்சி வீதம், பாலின விகிதம், சதவீதங்களைக் காட்டப் பயன்படுகின்றன."
+        "explanation": "இவை மக்கள் அடர்த்தி, கல்வியறிவு, வளர்ச்சி வீதம், பாலின விகிதம், சதவீதங்களைக் காட்டப் பயன்படுகின்றன. இவை அரசியல் பிரிவுகளுக்குள் ஓர் அலகுப் பரப்பிலுள்ள அடர்த்தியைக் காட்டுகின்றன."
       }
     },
     {
@@ -275,22 +275,22 @@
       "en": {
         "q": "In constructing a choropleth map with five categories, the class interval is determined using the formula",
         "options": [
-          "Maximum value / 5",
-          "Range / 5, where Range = maximum value - minimum value",
+          "Average value / 5",
+          "Range / 5",
           "Total value / 360",
-          "Minimum value x 5"
+          "Lowest value x 5"
         ],
-        "explanation": "The data are grouped into five categories: very high, high, medium, low and very low."
+        "explanation": "The data are grouped into five categories: very high, high, medium, low and very low. Range = maximum value - minimum value."
       },
       "ta": {
         "q": "ஐந்து வகைகளுடன் பரப்புநிழல் வரைபடம் அமைக்கும்போது வகை இடைவெளி எந்தச் சூத்திரத்தால் தீர்மானிக்கப்படுகிறது?",
         "options": [
-          "அதிகபட்ச மதிப்பு ÷ 5",
-          "வீச்சு ÷ 5, இங்கு வீச்சு = அதிகபட்ச மதிப்பு - குறைந்தபட்ச மதிப்பு",
+          "சராசரி மதிப்பு ÷ 5",
+          "வீச்சு ÷ 5",
           "மொத்த மதிப்பு ÷ 360",
-          "குறைந்தபட்ச மதிப்பு x 5"
+          "மிகக் குறைவான மதிப்பு x 5"
         ],
-        "explanation": "தரவுகள் மிக உயர், உயர், நடுத்தர, குறைவு, மிகக் குறைவு என ஐந்து வகைகளாகப் பிரிக்கப்படுகின்றன."
+        "explanation": "தரவுகள் மிக உயர், உயர், நடுத்தர, குறைவு, மிகக் குறைவு என ஐந்து வகைகளாகப் பிரிக்கப்படுகின்றன. வீச்சு = அதிகபட்ச மதிப்பு - குறைந்தபட்ச மதிப்பு."
       }
     },
     {

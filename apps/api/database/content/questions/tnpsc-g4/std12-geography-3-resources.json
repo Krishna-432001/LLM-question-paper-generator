@@ -159,22 +159,22 @@
       "en": {
         "q": "Bauxite is an example of a mineral that occurs as a",
         "options": [
-          "vein",
-          "residual mass of weathered particles",
-          "alluvial deposit",
-          "horizontal bed"
+          "vein in rock fractures",
+          "residual mass of weathered rock",
+          "alluvial deposit in valley floors",
+          "horizontal bed of sediments"
         ],
-        "explanation": "Alluvial deposits of gold, silver and platinum occur in the sands of valley floors and at the foot hills."
+        "explanation": "Alluvial deposits of gold, silver and platinum occur in the sands of valley floors and at the foot hills. Bauxite forms as a residual mass of weathered particles."
       },
       "ta": {
         "q": "பாக்சைட் எவ்வகையில் காணப்படும் கனிமத்திற்கு எடுத்துக்காட்டு?",
         "options": [
-          "நரம்பு",
-          "சிதைந்த துகள்களின் எச்ச நிறை",
-          "வண்டல் படிவு",
-          "கிடைமட்ட அடுக்கு"
+          "பாறை வெடிப்புகளிலுள்ள நரம்பு",
+          "சிதைந்த பாறையின் எச்ச நிறை",
+          "பள்ளத்தாக்குத் தளத்தின் வண்டல் படிவு",
+          "படிவுகளின் கிடைமட்ட அடுக்கு"
         ],
-        "explanation": "தங்கம், வெள்ளி, பிளாட்டினம் ஆகியவை பள்ளத்தாக்குத் தரைகளிலும் அடிவாரத்திலும் வண்டல் படிவுகளாகக் கிடைக்கின்றன."
+        "explanation": "தங்கம், வெள்ளி, பிளாட்டினம் ஆகியவை பள்ளத்தாக்குத் தரைகளிலும் அடிவாரத்திலும் வண்டல் படிவுகளாகக் கிடைக்கின்றன. பாக்சைட் சிதைந்த துகள்களின் எச்ச நிறையாகக் காணப்படுகிறது."
       }
     },
     {
@@ -199,11 +199,11 @@
         "q": "படிவு, சேர்தல், செறிவடைதல் ஆகியவற்றால் உருவாகி நிலக்கரி, பொட்டாஷ் போல கிடைமட்ட அடுக்குகளாகக் காணப்படும் கனிமங்கள் எவ்வாறு காணப்படுகின்றன?",
         "options": [
           "பெருநரம்புகள்",
-          "நரம்புகள்",
-          "படுகைகள் அல்லது அடுக்குகள்",
+          "சிறு நரம்புகள்",
+          "அடுக்குப் படுகைகள்",
           "வண்டல் படிவுகள்"
         ],
-        "explanation": "தங்கம், வெள்ளி, பிளாட்டினம் வண்டல் படிவுகளில் கிடைக்கின்றன."
+        "explanation": "தங்கம், வெள்ளி, பிளாட்டினம் வண்டல் படிவுகளில் கிடைக்கின்றன. படுகைகள் அல்லது அடுக்குகளில் கிடைமட்டமாகக் காணப்படும்."
       }
     },
     {
@@ -336,9 +336,9 @@
           "bauxite",
           "platinum",
           "mica",
-          "pyrite (iron sulphide)"
+          "pyrite"
         ],
-        "explanation": "The purity of gold is expressed in terms of carat."
+        "explanation": "The purity of gold is expressed in terms of carat. Pyrite is iron sulphide."
       },
       "ta": {
         "q": "'போலித் தங்கம்' (Fool's Gold) என்று அழைக்கப்படுவது",
@@ -346,9 +346,9 @@
           "பாக்சைட்",
           "பிளாட்டினம்",
           "மைக்கா",
-          "பைரைட் (இரும்புச் சல்பைடு)"
+          "பைரைட்"
         ],
-        "explanation": "தங்கத்தின் தூய்மை கேரட் என்ற அலகில் குறிக்கப்படுகிறது."
+        "explanation": "தங்கத்தின் தூய்மை கேரட் என்ற அலகில் குறிக்கப்படுகிறது. பைரைட் என்பது இரும்புச் சல்பைடு."
       }
     },
     {
@@ -362,22 +362,22 @@
       "en": {
         "q": "The word 'mica' comes from the Latin word 'micare', meaning",
         "options": [
-          "to shine, flash or glitter",
-          "to split",
-          "to burn",
-          "to melt"
+          "to shine or glitter",
+          "to split into sheets",
+          "to burn like a flame",
+          "to melt into liquid"
         ],
-        "explanation": "Mica has a crystalline layered structure and can be split into very thin sheets."
+        "explanation": "Mica has a crystalline layered structure and can be split into very thin sheets. 'Micare' means to shine, flash or glitter."
       },
       "ta": {
         "q": "'மைக்கா' என்ற சொல் பெறப்பட்ட இலத்தீன் சொல் 'மிகாரே' என்பதன் பொருள்",
         "options": [
           "ஒளிர்தல், மின்னுதல்",
-          "பிளத்தல்",
-          "எரிதல்",
-          "உருகுதல்"
+          "அடுக்குகளாகப் பிளத்தல்",
+          "சுடர்விட்டு எரிதல்",
+          "திரவமாக உருகுதல்"
         ],
-        "explanation": "மைக்கா படிக, அடுக்கு அமைப்புடையது; மிக மெல்லிய தகடுகளாகப் பிளக்கலாம்."
+        "explanation": "மைக்கா படிக, அடுக்கு அமைப்புடையது; மிக மெல்லிய தகடுகளாகப் பிளக்கலாம். 'Micare' என்றால் ஒளிர்தல், மின்னுதல் என்று பொருள்."
       }
     },
     {
@@ -595,7 +595,7 @@
         "q": "Which odorant is added to natural gas so that leaks can be detected easily?",
         "options": [
           "Ethanethiol",
-          "Methane",
+          "Carbon dioxide",
           "Ammonia",
           "Chlorine"
         ],
@@ -605,7 +605,7 @@
         "q": "இயற்கை வாயுக் கசிவை எளிதில் கண்டறிய அதனுடன் சேர்க்கப்படும் மணப்பொருள்",
         "options": [
           "எத்தனீத்தியால்",
-          "மீத்தேன்",
+          "கார்பன் டை ஆக்சைடு",
           "அம்மோனியா",
           "குளோரின்"
         ],
@@ -710,22 +710,22 @@
       "en": {
         "q": "The largest wind farm of India is at",
         "options": [
-          "Muppandal in Kanyakumari district of Tamil Nadu",
+          "Muppandal in Tamil Nadu",
           "Jaisalmer in Rajasthan",
-          "Tirunelveli in Tamil Nadu",
+          "Anantapur in Andhra Pradesh",
           "Kutch in Gujarat"
         ],
-        "explanation": "The Jaisalmer wind park in Rajasthan is the second largest."
+        "explanation": "The Jaisalmer wind park in Rajasthan is the second largest. Muppandal is in Kanyakumari district."
       },
       "ta": {
         "q": "இந்தியாவின் மிகப்பெரிய காற்றாலைப் பண்ணை அமைந்துள்ள இடம்",
         "options": [
-          "தமிழ்நாட்டின் கன்னியாகுமரி மாவட்டத்தில் முப்பந்தல்",
+          "தமிழ்நாட்டின் முப்பந்தல்",
           "இராஜஸ்தானின் ஜெய்சால்மர்",
-          "தமிழ்நாட்டின் திருநெல்வேலி",
+          "ஆந்திராவின் அனந்தபுரம்",
           "குஜராத்தின் கட்ச்"
         ],
-        "explanation": "இராஜஸ்தானின் ஜெய்சால்மர் காற்றாலைப் பூங்கா இரண்டாவது பெரியது."
+        "explanation": "இராஜஸ்தானின் ஜெய்சால்மர் காற்றாலைப் பூங்கா இரண்டாவது பெரியது. முப்பந்தல் கன்னியாகுமரி மாவட்டத்தில் உள்ளது."
       }
     },
     {
@@ -807,9 +807,9 @@
       "ta": {
         "q": "இந்திய புவியியல் ஆய்வு நிறுவனம் அடையாளம் கண்டுள்ள புவிவெப்ப வயல்களில் மிகுந்த வாய்ப்புடையது எங்குள்ளது?",
         "options": [
-          "மகாநதிப் படுகை",
-          "குஜராத்தின் காம்பே",
-          "கோதாவரிப் படுகை",
+          "ஒடிசாவின் மகாநதிப் படுகை",
+          "குஜராத்தின் காம்பே பகுதி",
+          "ஆந்திராவின் கோதாவரிப் படுகை",
           "லடாக்கின் புகா பள்ளத்தாக்கு"
         ],
         "explanation": "இந்தியாவில் 350 புவிவெப்ப இடங்களையும் ஏழு புவிவெப்பப் பகுதிகளையும் GSI அடையாளம் கண்டுள்ளது."
@@ -837,9 +837,9 @@
         "q": "உலகின் மிகப்பெரிய புவிவெப்ப மேம்பாட்டுத் திட்டமான 'தி கெய்சர்ஸ்' அமைந்துள்ள இடம்",
         "options": [
           "அமெரிக்காவின் கலிபோர்னியா",
-          "ஐஸ்லாந்து",
-          "நியூசிலாந்து",
-          "ஜப்பான்"
+          "ஐஸ்லாந்தின் ரெய்க்யவிக்",
+          "நியூசிலாந்தின் வைரகேய்",
+          "ஜப்பானின் ஹொக்கைடோ"
         ],
         "explanation": "புவிவெப்ப ஆற்றல் புவியின் இயற்கை வெப்பத்திலிருந்து பெறப்படுகிறது."
       }

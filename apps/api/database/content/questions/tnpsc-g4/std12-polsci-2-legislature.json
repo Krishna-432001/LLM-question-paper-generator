@@ -188,20 +188,20 @@
       "en": {
         "q": "Which of the following can be done ONLY by the Lok Sabha and not by the Rajya Sabha?",
         "options": [
-          "Electing the President",
+          "Taking part in electing the President of India",
           "Approving the proclamation of an emergency",
-          "Passing a resolution for discontinuing a national emergency",
-          "Passing a Constitution Amendment Bill"
+          "Passing a resolution to end a national emergency",
+          "Passing a Constitution Amendment Bill by special majority"
         ],
         "explanation": "The Rajya Sabha also cannot vote on demands for grants or remove the Council of Ministers through a no-confidence motion; on the other options it has equal powers."
       },
       "ta": {
         "q": "மாநிலங்களவை அல்லாமல் மக்களவை மட்டுமே செய்யக்கூடியது எது?",
         "options": [
-          "குடியரசுத் தலைவரைத் தேர்ந்தெடுத்தல்",
-          "நெருக்கடிநிலைப் பிரகடனத்தை அங்கீகரித்தல்",
-          "தேசிய நெருக்கடிநிலையை முடிவுக்குக் கொண்டுவரும் தீர்மானம் நிறைவேற்றுதல்",
-          "அரசமைப்புத் திருத்த மசோதாவை நிறைவேற்றுதல்"
+          "இந்தியக் குடியரசுத் தலைவர் தேர்தலில் பங்கேற்றல்",
+          "நெருக்கடிநிலைப் பிரகடனத்தை அங்கீகரிக்கும் தீர்மானம்",
+          "தேசிய நெருக்கடிநிலையை முடிக்கத் தீர்மானம் நிறைவேற்றுதல்",
+          "சிறப்புப் பெரும்பான்மையுடன் அரசமைப்புத் திருத்த மசோதா நிறைவேற்றுதல்"
         ],
         "explanation": "மாநிலங்களவை மானியக் கோரிக்கைகள் மீது வாக்களிக்கவோ, நம்பிக்கையில்லாத் தீர்மானத்தால் அமைச்சரவையை நீக்கவோ முடியாது; பிற விஷயங்களில் அதற்குச் சம அதிகாரம் உண்டு."
       }
@@ -421,21 +421,21 @@
         "q": "For a Constitution Amendment Bill, the 'special majority' required in each House means",
         "options": [
           "a simple majority of the members present and voting",
-          "two-thirds of the total membership only",
-          "a majority of the total membership and two-thirds of the members present and voting",
+          "two-thirds of the total membership of the House",
+          "a majority of total membership and two-thirds of those voting",
           "three-fourths of the members present and voting"
         ],
-        "explanation": "Total membership counts all seats, regardless of vacancies or absentees; the special majority is required at the third reading stage."
+        "explanation": "Total membership counts all seats, regardless of vacancies or absentees; the special majority is required at the third reading stage. That is a majority of the total membership and two-thirds of the members present and voting."
       },
       "ta": {
         "q": "அரசமைப்புத் திருத்த மசோதாவுக்கு ஒவ்வோர் அவையிலும் தேவைப்படும் 'சிறப்புப் பெரும்பான்மை' என்பது",
         "options": [
           "வந்திருந்து வாக்களிப்போரின் சாதாரணப் பெரும்பான்மை",
-          "மொத்த உறுப்பினர்களில் மூன்றில் இரண்டு பங்கு மட்டும்",
-          "மொத்த உறுப்பினர்களின் பெரும்பான்மையும், வந்திருந்து வாக்களிப்போரில் மூன்றில் இரண்டு பங்கும்",
+          "அவையின் மொத்த உறுப்பினர்களில் மூன்றில் இரண்டு பங்கு",
+          "மொத்த உறுப்பினர் பெரும்பான்மை, வாக்களிப்போரில் மூன்றில் இரண்டு",
           "வந்திருந்து வாக்களிப்போரில் நான்கில் மூன்று பங்கு"
         ],
-        "explanation": "காலியிடங்கள், வராதோர் எதுவாயினும் மொத்த உறுப்பினர் எண்ணிக்கை கணக்கிடப்படும்; மூன்றாம் வாசிப்பு நிலையில் சிறப்புப் பெரும்பான்மை தேவை."
+        "explanation": "காலியிடங்கள், வராதோர் எதுவாயினும் மொத்த உறுப்பினர் எண்ணிக்கை கணக்கிடப்படும்; மூன்றாம் வாசிப்பு நிலையில் சிறப்புப் பெரும்பான்மை தேவை. அதாவது மொத்த உறுப்பினர்களின் பெரும்பான்மையும், வந்திருந்து வாக்களிப்போரில் மூன்றில் இரண்டு பங்கும்."
       }
     },
     {
@@ -478,22 +478,22 @@
       "en": {
         "q": "When a Constitution Amendment Bill, duly passed, is presented to the President, the President",
         "options": [
-          "must give assent and can neither withhold it nor return the bill",
+          "must give assent and cannot return the bill",
           "may return it once for reconsideration",
-          "may withhold assent indefinitely",
-          "must refer it to the Supreme Court"
+          "may withhold assent for an indefinite period",
+          "must first refer it to the Supreme Court"
         ],
-        "explanation": "After the President's assent, the bill becomes a Constitutional Amendment Act."
+        "explanation": "After the President's assent, the bill becomes a Constitutional Amendment Act. The President can neither withhold assent nor return the bill."
       },
       "ta": {
         "q": "முறையாக நிறைவேறிய அரசமைப்புத் திருத்த மசோதா குடியரசுத் தலைவரிடம் சமர்ப்பிக்கப்படும்போது குடியரசுத் தலைவர்",
         "options": [
-          "ஒப்புதல் அளித்தே ஆக வேண்டும்; நிறுத்திவைக்கவோ திருப்பி அனுப்பவோ முடியாது",
+          "ஒப்புதல் அளித்தே ஆக வேண்டும்; திருப்பி அனுப்ப முடியாது",
           "ஒருமுறை மறுபரிசீலனைக்குத் திருப்பி அனுப்பலாம்",
-          "காலவரையின்றி ஒப்புதலை நிறுத்திவைக்கலாம்",
-          "உச்ச நீதிமன்றத்துக்கு அனுப்ப வேண்டும்"
+          "நீண்டகாலத்துக்கு ஒப்புதலை நிறுத்திவைக்கலாம்",
+          "முதலில் உச்ச நீதிமன்றத்துக்கு அனுப்ப வேண்டும்"
         ],
-        "explanation": "குடியரசுத் தலைவர் ஒப்புதலுக்குப் பின் மசோதா அரசமைப்புத் திருத்தச் சட்டமாகிறது."
+        "explanation": "குடியரசுத் தலைவர் ஒப்புதலுக்குப் பின் மசோதா அரசமைப்புத் திருத்தச் சட்டமாகிறது. குடியரசுத் தலைவர் ஒப்புதலை நிறுத்திவைக்கவோ மசோதாவைத் திருப்பி அனுப்பவோ முடியாது."
       }
     },
     {

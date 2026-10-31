@@ -24,12 +24,12 @@
       "ta": {
         "q": "துல்லியமான திட்டங்களும் வரைபடங்களும் தயாரிக்கத் தேவையான தரவுகளுக்காகப் புவிமேற்பரப்பின் தூரம், கோணம், உயரம், அளவுகளை அளந்து பதிவு செய்யும் அறிவியல்",
         "options": [
-          "அளவையியல் (Surveying)",
+          "அளவையியல்",
           "நிலவரைவியல்",
           "தொலையுணர்வு",
           "ஒளிப்பட அளவையியல்"
         ],
-        "explanation": "அளவையியல் என்பது வரைபடங்கள் வரையப் பயன்படும் அளவீடுகளைக் களத்தில் முறையாக எடுக்கும் செயல்முறை."
+        "explanation": "அளவையியல் என்பது வரைபடங்கள் வரையப் பயன்படும் அளவீடுகளைக் களத்தில் முறையாக எடுக்கும் செயல்முறை. ஆங்கிலத்தில்/விளக்கம்: Surveying."
       }
     },
     {
@@ -130,20 +130,20 @@
       "en": {
         "q": "Which of the following can be measured directly by a prismatic compass?",
         "options": [
-          "Corners of a plot or building and bends of a road",
-          "The height of a tree",
-          "The depth of a well",
-          "The speed of wind"
+          "Corners of a plot and bends of a road",
+          "The height of a standing tree",
+          "The depth of a well in a field",
+          "The speed of the wind at a site"
         ],
         "explanation": "The bends of a meandering canal, if divided into segments, can also be determined by a prismatic compass."
       },
       "ta": {
         "q": "பிரிசம் திசைகாட்டியால் நேரடியாக அளக்கக்கூடியது எது?",
         "options": [
-          "நிலம் அல்லது கட்டடத்தின் மூலைகள், சாலை வளைவுகள்",
-          "மரத்தின் உயரம்",
-          "கிணற்றின் ஆழம்",
-          "காற்றின் வேகம்"
+          "நிலத்தின் மூலைகள், சாலை வளைவுகள்",
+          "நிற்கும் மரத்தின் உயரம்",
+          "வயலிலுள்ள கிணற்றின் ஆழம்",
+          "அந்த இடத்தில் காற்றின் வேகம்"
         ],
         "explanation": "வளைந்து செல்லும் கால்வாயின் வளைவுகளையும் பகுதிகளாகப் பிரித்து அளக்கலாம்."
       }
@@ -160,9 +160,9 @@
         "q": "The prismatic compass is a simple instrument comprising an aluminium ring graduated to 30 minutes held at the top of a",
         "options": [
           "weighted string hanging over a protractor",
-          "broad magnetic needle set in balance on a hard steel pivot",
+          "magnetic needle balanced on a steel pivot",
           "transparent tube with a spirit level",
-          "rotating telescope on a tripod"
+          "rotating telescope mounted on a tripod"
         ],
         "explanation": "On the other side of the circular box there is a sighting vane with a horse hair at the centre."
       },
@@ -170,9 +170,9 @@
         "q": "பிரிசம் திசைகாட்டி என்பது 30 நிமிடங்களாக அளவீடு செய்யப்பட்ட அலுமினிய வளையம் எதன் மேல் பொருத்தப்பட்டுள்ள எளிய கருவி?",
         "options": [
           "கோண அளவியின் மேல் தொங்கும் எடை கட்டிய நூல்",
-          "உறுதியான எஃகுச் சுழலச்சில் சமநிலையில் வைக்கப்பட்ட அகன்ற காந்த ஊசி",
+          "எஃகுச் சுழலச்சில் சமநிலையில் வைக்கப்பட்ட காந்த ஊசி",
           "நீர்மட்டக் குமிழ் கொண்ட தெளிவான குழாய்",
-          "முக்காலியின் மேலுள்ள சுழலும் தொலைநோக்கி"
+          "முக்காலியின் மேல் பொருத்திய சுழலும் தொலைநோக்கி"
         ],
         "explanation": "வட்டப் பெட்டியின் மறுபுறம் நடுவில் குதிரை முடி கொண்ட இலக்குப் பார்வைச் சட்டம் உள்ளது."
       }
