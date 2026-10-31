@@ -14,7 +14,7 @@
       "en": {
         "q": "During ancient times, most of the Kings' courts in India dispensed justice according to",
         "options": [
-          "dharma (righteousness and duty)",
+          "dharma",
           "the Sharia",
           "English common law",
           "the Fatawa-i-Alamgiri"
@@ -24,7 +24,7 @@
       "ta": {
         "q": "பண்டைய காலத்தில் இந்தியாவில் பெரும்பாலான அரசர்களின் நீதிமன்றங்கள் எதன்படி நீதி வழங்கின?",
         "options": [
-          "தர்மம் (நேர்மையும் கடமையும்)",
+          "தர்மம்",
           "ஷரியா",
           "ஆங்கிலப் பொதுச் சட்டம்",
           "ஃபதாவா-இ-ஆலம்கிரி"
@@ -507,7 +507,7 @@
       "en": {
         "q": "A Lok Adalat is presided over by",
         "options": [
-          "the Chief Justice of the High Court",
+          "the Chief Justice of the concerned High Court",
           "a retired judge along with a lawyer and a social worker",
           "the District Collector and the Superintendent of Police",
           "an elected Panchayat president"
@@ -517,10 +517,10 @@
       "ta": {
         "q": "லோக் அதாலத்துக்குத் தலைமை தாங்குபவர்",
         "options": [
-          "உயர் நீதிமன்றத் தலைமை நீதிபதி",
-          "ஒரு வழக்கறிஞர், ஒரு சமூகப் பணியாளருடன் ஓய்வுபெற்ற நீதிபதி",
-          "மாவட்ட ஆட்சியர், காவல் கண்காணிப்பாளர்",
-          "தேர்ந்தெடுக்கப்பட்ட பஞ்சாயத்துத் தலைவர்"
+          "சம்பந்தப்பட்ட உயர் நீதிமன்றத்தின் தலைமை நீதிபதி",
+          "வழக்கறிஞர், சமூகப் பணியாளருடன் ஓய்வுபெற்ற நீதிபதி",
+          "மாவட்ட ஆட்சியரும் காவல் கண்காணிப்பாளரும்",
+          "தேர்ந்தெடுக்கப்பட்ட பஞ்சாயத்துத் தலைவர், உறுப்பினர்"
         ],
         "explanation": "வழக்குகள் வழக்கறிஞர்கள் இல்லாமல் முன்வைக்கப்பட்டு, பரஸ்பர ஒப்புதலுடன் தீர்க்கப்படுகின்றன."
       }

@@ -101,9 +101,9 @@
       "en": {
         "q": "Besides Bengal, Bihar, Orissa and the Varanasi division of U.P., the Permanent Settlement was made in",
         "options": [
-          "Bombay",
-          "Madras",
-          "Punjab",
+          "Bombay Presidency",
+          "Madras Presidency",
+          "the Punjab region",
           "Northern Karnataka"
         ],
         "explanation": "Madras and Bombay came under the Ryotwari system, and Punjab under the Mahalwari system."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "வங்காளம், பீகார், ஒரிசா, உ.பி.யின் வாரணாசிப் பகுதி ஆகியவற்றுடன் நிலையான நிலவரித் திட்டம் நடைமுறைப்படுத்தப்பட்ட மற்றொரு பகுதி",
         "options": [
-          "பம்பாய்",
-          "சென்னை",
-          "பஞ்சாப்",
+          "பம்பாய் மாகாணம்",
+          "சென்னை மாகாணம்",
+          "பஞ்சாப் பகுதி",
           "வட கர்நாடகம்"
         ],
         "explanation": "சென்னை, பம்பாய் ஆகியவை இரயத்துவாரி முறையின் கீழும், பஞ்சாப் மகல்வாரி முறையின் கீழும் இருந்தன."
@@ -130,20 +130,20 @@
       "en": {
         "q": "Under the Permanent Settlement, the zamindars were recognised as",
         "options": [
-          "owners of the land as long as they paid the revenue to the Company regularly",
-          "tenants of the ryots",
-          "salaried officers of the Company",
-          "elected village headmen"
+          "landowners as long as they paid the revenue",
+          "tenants holding land from the ryots",
+          "salaried revenue officers of the Company",
+          "elected headmen of the village councils"
         ],
         "explanation": "The zamindars owned the land and acted as the Government's agents for collecting revenue from the cultivators; the amount they paid was fixed and would not be raised."
       },
       "ta": {
         "q": "நிலையான நிலவரித் திட்டத்தின் கீழ் ஜமீன்தார்கள் எவ்வாறு அங்கீகரிக்கப்பட்டனர்?",
         "options": [
-          "கம்பெனிக்கு வரியை முறையாகச் செலுத்தும் வரை நிலத்தின் உரிமையாளர்களாக",
-          "இரயத்துகளின் குத்தகையாளர்களாக",
-          "கம்பெனியின் ஊதியம் பெறும் அலுவலர்களாக",
-          "தேர்ந்தெடுக்கப்பட்ட கிராமத் தலைவர்களாக"
+          "வரியை முறையாகச் செலுத்தும் வரை நிலத்தின் உரிமையாளர்களாக",
+          "இரயத்துகளின் நிலத்தைக் குத்தகைக்கு எடுத்தவர்களாக",
+          "கம்பெனியின் ஊதியம் பெறும் வருவாய் அலுவலர்களாக",
+          "கிராம சபைகளால் தேர்ந்தெடுக்கப்பட்ட தலைவர்களாக"
         ],
         "explanation": "ஜமீன்தார்கள் நிலத்தின் உரிமையாளர்களாகி, விவசாயிகளிடமிருந்து வரி வசூலிக்கும் அரசின் முகவர்களாகச் செயல்பட்டனர்; அவர்கள் செலுத்த வேண்டிய தொகை நிலையானது, உயர்த்தப்படாது."
       }
@@ -247,9 +247,9 @@
         "q": "The Ryotwari system was introduced by",
         "options": [
           "Thomas Munro and Captain Read",
-          "Lord Cornwallis",
-          "Holt Mackenzie",
-          "Robert Merttins Bird"
+          "Lord Cornwallis, the Governor-General",
+          "Holt Mackenzie, a Bengal official",
+          "Robert Merttins Bird, a revenue officer"
         ],
         "explanation": "Under the Ryotwari system the revenue settlement was made directly between the Government and the ryots."
       },
@@ -257,9 +257,9 @@
         "q": "இரயத்துவாரி முறையை அறிமுகப்படுத்தியவர்கள்",
         "options": [
           "தாமஸ் மன்றோ, கேப்டன் ரீட்",
-          "காரன்வாலிஸ் பிரபு",
-          "ஹோல்ட் மெக்கன்சி",
-          "ராபர்ட் மெர்ட்டின்ஸ் பேர்டு"
+          "ஆளுநர் நாயகம் காரன்வாலிஸ் பிரபு",
+          "வங்காள அலுவலர் ஹோல்ட் மெக்கன்சி",
+          "வருவாய் அலுவலர் ராபர்ட் மெர்ட்டின்ஸ் பேர்டு"
         ],
         "explanation": "இரயத்துவாரி முறையில் வரி ஒப்பந்தம் அரசுக்கும் இரயத்துகளுக்கும் இடையே நேரடியாகச் செய்யப்பட்டது."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "The major areas where the Ryotwari system was introduced included",
         "options": [
-          "Bengal, Bihar and Orissa",
+          "Bengal, Bihar, Orissa and Benares",
           "Madras, Bombay, parts of Assam and Coorg",
-          "Agra and Awadh",
-          "Punjab and Central India"
+          "Agra, Awadh and the North-Western Provinces",
+          "Punjab, Central Provinces and Central India"
         ],
         "explanation": "Bengal, Bihar and Orissa came under the Permanent Settlement; Agra, Awadh and the North-West Province under the Mahalwari system."
       },
       "ta": {
         "q": "இரயத்துவாரி முறை அறிமுகப்படுத்தப்பட்ட முக்கியப் பகுதிகள்",
         "options": [
-          "வங்காளம், பீகார், ஒரிசா",
+          "வங்காளம், பீகார், ஒரிசா, வாரணாசி",
           "சென்னை, பம்பாய், அசாமின் சில பகுதிகள், குடகு",
-          "ஆக்ரா, அவுத்",
-          "பஞ்சாப், மத்திய இந்தியா"
+          "ஆக்ரா, அவுத், வடமேற்கு மாகாணங்கள்",
+          "பஞ்சாப், மத்திய மாகாணங்கள், மத்திய இந்தியா"
         ],
         "explanation": "வங்காளம், பீகார், ஒரிசா ஆகியவை நிலையான நிலவரித் திட்டத்திலும், ஆக்ரா, அவுத், வடமேற்கு மாகாணம் ஆகியவை மகல்வாரி முறையிலும் இருந்தன."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "Under the Ryotwari system, rents were periodically revised, generally after every",
         "options": [
-          "5 years",
-          "year",
+          "5 to 10 years",
+          "1 to 2 years",
           "20 to 30 years",
-          "100 years"
+          "100 to 150 years"
         ],
         "explanation": "Revenue was based on the soil and the nature of the crop and revised every 20 to 30 years, which made the cultivators' position more secure."
       },
       "ta": {
         "q": "இரயத்துவாரி முறையில் வரி பொதுவாக எத்தனை ஆண்டுகளுக்கு ஒருமுறை மறுஆய்வு செய்யப்பட்டது?",
         "options": [
-          "5 ஆண்டுகள்",
-          "ஒவ்வோர் ஆண்டும்",
+          "5 முதல் 10 ஆண்டுகள்",
+          "1 முதல் 2 ஆண்டுகள்",
           "20 முதல் 30 ஆண்டுகள்",
-          "100 ஆண்டுகள்"
+          "100 முதல் 150 ஆண்டுகள்"
         ],
         "explanation": "மண்ணின் தன்மை, பயிரின் வகை அடிப்படையில் நிர்ணயிக்கப்பட்ட வரி 20 முதல் 30 ஆண்டுகளுக்கு ஒருமுறை மறுஆய்வு செய்யப்பட்டதால் விவசாயிகளின் நிலை பாதுகாப்பானது."
       }
@@ -346,7 +346,7 @@
           "அது ஜமீன்தார்கள் செலுத்தும் கப்பம்",
           "அது வாடகை அல்ல, வரி",
           "அது விருப்பக் கொடை",
-          "அது வரி அல்ல, வாடகை (குத்தகை)"
+          "அது வரி அல்ல, வாடகை"
         ],
         "explanation": "ஒப்பந்தம் அரசுக்கும் இரயத்துகளுக்கும் இடையே நேரடியாக இருந்ததால், அரசு தன்னை நில உரிமையாளராகக் கருதி வருவாயை வாடகை என்றது."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "In 1833 Lord William Bentinck suggested radical changes in the Mahalwari system under the guidance of",
         "options": [
-          "Thomas Munro",
-          "Holt Mackenzie",
+          "Thomas Munro of Madras",
+          "Holt Mackenzie of Bengal",
           "Robert Merttins Bird",
-          "Captain Read"
+          "Captain Alexander Read"
         ],
         "explanation": "Bentinck reformed the Mahalwari system in 1833 with the guidance of Robert Merttins Bird."
       },
       "ta": {
         "q": "1833 இல் வில்லியம் பெண்டிங் பிரபு யாருடைய வழிகாட்டுதலில் மகல்வாரி முறையில் பெரும் மாற்றங்களைப் பரிந்துரைத்தார்?",
         "options": [
-          "தாமஸ் மன்றோ",
-          "ஹோல்ட் மெக்கன்சி",
+          "மதராஸின் தாமஸ் மன்றோ",
+          "வங்காளத்தின் ஹோல்ட் மெக்கன்சி",
           "ராபர்ட் மெர்ட்டின்ஸ் பேர்டு",
-          "கேப்டன் ரீட்"
+          "கேப்டன் அலெக்சாண்டர் ரீட்"
         ],
         "explanation": "1833 இல் பெண்டிங் ராபர்ட் மெர்ட்டின்ஸ் பேர்டின் வழிகாட்டுதலில் மகல்வாரி முறையைச் சீரமைத்தார்."
       }
@@ -681,19 +681,19 @@
       "en": {
         "q": "The ryots who gave up indigo cultivation in September 1859, starting the Indigo Revolt, were led by",
         "options": [
-          "Mahatma Gandhi",
-          "Siddhu and Kanhu",
-          "Keshab Chandra Roy",
-          "Digambar Biswas and Bishnu Charan Biswas"
+          "Mahatma Gandhi and Rajendra Prasad",
+          "Siddhu and Kanhu of the Santhals",
+          "Keshab Chandra Roy of Pabna",
+          "Digambar and Bishnu Charan Biswas"
         ],
         "explanation": "The Bengal indigo cultivators' strike, the most militant and widespread peasant uprising, was led by Digambar Biswas and Bishnu Charan Biswas; factories were burnt down and the revolt spread."
       },
       "ta": {
         "q": "1859 செப்டம்பரில் அவுரி சாகுபடியைக் கைவிட்டு அவுரி (இண்டிகோ) கலகத்தைத் தொடங்கிய இரயத்துகளுக்குத் தலைமை தாங்கியவர்கள்",
         "options": [
-          "மகாத்மா காந்தி",
-          "சித்து, கானு",
-          "கேசப் சந்திர ராய்",
+          "மகாத்மா காந்தி, இராஜேந்திர பிரசாத்",
+          "சந்தாலர்களின் சித்து, கானு",
+          "பாப்னாவின் கேசப் சந்திர ராய்",
           "திகம்பர் பிஸ்வாஸ், பிஷ்ணு சரண் பிஸ்வாஸ்"
         ],
         "explanation": "மிகத் தீவிரமான, பரவலான விவசாயிகள் எழுச்சியான வங்காள அவுரி விவசாயிகள் வேலைநிறுத்தத்திற்கு திகம்பர் பிஸ்வாஸ், பிஷ்ணு சரண் பிஸ்வாஸ் தலைமை தாங்கினர்; தொழிற்சாலைகள் எரிக்கப்பட்டுக் கலகம் பரவியது."
@@ -768,20 +768,20 @@
       "en": {
         "q": "After the Indigo Revolt in Bengal, the indigo planters moved on to settle in",
         "options": [
-          "Punjab and Sind",
-          "Madras and Mysore",
+          "Punjab and Sind provinces",
+          "Madras and Mysore states",
           "Bihar and Uttar Pradesh",
-          "Assam and Burma"
+          "Assam and Burma regions"
         ],
         "explanation": "The planters' move to Bihar is why Champaran later saw indigo oppression and Gandhi's Champaran Satyagraha (1917–18)."
       },
       "ta": {
         "q": "வங்காளத்தில் அவுரி கலகத்திற்குப் பின் அவுரித் தோட்ட முதலாளிகள் குடியேறிய பகுதிகள்",
         "options": [
-          "பஞ்சாப், சிந்து",
-          "சென்னை, மைசூர்",
+          "பஞ்சாப், சிந்து மாகாணங்கள்",
+          "சென்னை, மைசூர் பகுதிகள்",
           "பீகார், உத்தரப் பிரதேசம்",
-          "அசாம், பர்மா"
+          "அசாம், பர்மா பகுதிகள்"
         ],
         "explanation": "தோட்ட முதலாளிகள் பீகாருக்குச் சென்றதால்தான் பின்னர் சம்பாரணில் அவுரி அடக்குமுறையும், காந்தியடிகளின் சம்பாரண் சத்தியாகிரகமும் (1917–18) நிகழ்ந்தன."
       }
@@ -855,20 +855,20 @@
       "en": {
         "q": "What was the main form of struggle in the Pabna Revolt?",
         "options": [
-          "Guerrilla warfare in the hills",
-          "Legal resistance, with very little violence",
-          "Burning of indigo factories",
-          "Attacks on railway lines"
+          "Guerrilla warfare in the hills and forests",
+          "Legal resistance with very little violence",
+          "Burning of indigo factories and godowns",
+          "Attacks on railway lines and telegraph wires"
         ],
         "explanation": "Violence occurred only when zamindars tried to force the ryots; in the course of the movement the ryots developed a strong awareness of their legal rights and the ability to form associations."
       },
       "ta": {
         "q": "பாப்னா கலகத்தின் முக்கியப் போராட்ட வடிவம் எது?",
         "options": [
-          "மலைப்பகுதிகளில் கொரில்லாப் போர்",
-          "மிகக் குறைந்த வன்முறையுடன் கூடிய சட்டப்பூர்வ எதிர்ப்பு",
-          "அவுரித் தொழிற்சாலைகளை எரித்தல்",
-          "இருப்புப்பாதைகள் மீதான தாக்குதல்"
+          "மலைகளிலும் காடுகளிலும் நடத்தப்பட்ட கொரில்லாப் போர்",
+          "குறைந்த வன்முறையுடன் சட்டப்பூர்வ எதிர்ப்பு",
+          "அவுரித் தொழிற்சாலைகளையும் கிடங்குகளையும் எரித்தல்",
+          "இருப்புப்பாதைகள், தந்திக் கம்பிகள் மீதான தாக்குதல்"
         ],
         "explanation": "ஜமீன்தார்கள் பலவந்தப்படுத்தியபோது மட்டுமே வன்முறை நிகழ்ந்தது; இயக்கத்தின் போக்கில் இரயத்துகள் தங்கள் சட்ட உரிமைகள் பற்றிய விழிப்புணர்வையும் சங்கங்கள் அமைக்கும் திறனையும் பெற்றனர்."
       }
@@ -1029,20 +1029,20 @@
       "en": {
         "q": "Why did the peasants of Kheda district in Gujarat start a 'no-tax' movement in 1918?",
         "options": [
-          "Hindu landlords called jenmis oppressed them",
+          "Hindu landlords known as jenmis evicted and oppressed them",
           "Indigo cultivation was forced on them under the tinkathia system",
-          "Their lands were grabbed by Marwari moneylenders",
-          "Agriculture failed because of famine, but officials insisted on collecting the full land revenue"
+          "Their lands were seized by Marwari moneylenders in lieu of loans",
+          "Crops failed in a famine, but officials insisted on collecting the full revenue"
         ],
         "explanation": "Gandhi took up the leadership of the Kheda Satyagraha; the response was unprecedented and the government had to come to a settlement with the peasants."
       },
       "ta": {
         "q": "1918 இல் குஜராத்தின் கேடா மாவட்ட விவசாயிகள் 'வரிகொடா' இயக்கத்தைத் தொடங்கக் காரணம் என்ன?",
         "options": [
-          "ஜென்மிகள் எனப்பட்ட இந்து நிலப்பிரபுக்கள் அவர்களை ஒடுக்கினர்",
-          "தின்கதியா முறையில் அவுரி சாகுபடி திணிக்கப்பட்டது",
-          "மார்வாரி கடன் கொடுப்போர் அவர்களின் நிலங்களைப் பறித்தனர்",
-          "பஞ்சத்தால் வேளாண்மை பொய்த்தும், அலுவலர்கள் முழு நிலவரியையும் வசூலிக்க வற்புறுத்தியது"
+          "ஜென்மிகள் எனப்பட்ட இந்து நிலப்பிரபுக்கள் அவர்களை வெளியேற்றி ஒடுக்கினர்",
+          "தின்கதியா முறையில் அவுரி சாகுபடி கட்டாயமாகத் திணிக்கப்பட்டது",
+          "கடனுக்காக மார்வாரி கடன் கொடுப்போர் அவர்களின் நிலங்களைப் பறித்தனர்",
+          "பஞ்சத்தால் பயிர்கள் பொய்த்தும் அலுவலர்கள் முழு நிலவரியையும் வசூலிக்க வற்புறுத்தினர்"
         ],
         "explanation": "கேடா சத்தியாகிரகத்திற்குக் காந்தியடிகள் தலைமை ஏற்றார்; முன்னெப்போதும் இல்லாத ஆதரவு கிடைத்ததால் அரசு விவசாயிகளுடன் உடன்பாட்டுக்கு வர நேர்ந்தது."
       }

@@ -130,20 +130,20 @@
       "en": {
         "q": "According to the textbook, ice skaters glide easily because",
         "options": [
-          "the pressure of the skate lowers the freezing point, so the ice melts underneath",
-          "pressure raises the freezing point of ice",
-          "ice has a very high latent heat",
-          "ice is denser than water"
+          "pressure from the skate melts the ice beneath it",
+          "pressure raises the freezing point and hardens the ice",
+          "ice has a very high latent heat of fusion",
+          "ice is denser than the water below it"
         ],
         "explanation": "When the pressure is removed, the water re-freezes. Increasing pressure raises the boiling point of water, which is why a pressure cooker cooks faster."
       },
       "ta": {
         "q": "பாடநூலின்படி பனிச்சறுக்கு வீரர்கள் எளிதாகச் சறுக்குவதற்குக் காரணம்",
         "options": [
-          "சறுக்குக் காலணியின் அழுத்தம் உறைநிலையைக் குறைப்பதால் அடியிலுள்ள பனி உருகுகிறது",
-          "அழுத்தம் பனியின் உறைநிலையை உயர்த்துகிறது",
-          "பனிக்கு மிக அதிக உள்ளுறை வெப்பம் உள்ளது",
-          "பனி நீரைவிட அடர்த்தியானது"
+          "சறுக்குக் காலணியின் அழுத்தத்தால் அதன் அடியிலுள்ள பனி உருகுகிறது",
+          "அழுத்தம் உறைநிலையை உயர்த்திப் பனியை இறுகச் செய்கிறது",
+          "பனிக்கு மிகஅதிகமான உருகலின் உள்ளுறை வெப்பம் உள்ளது",
+          "பனி அதன் கீழுள்ள நீரைவிட அடர்த்தியானது"
         ],
         "explanation": "அழுத்தம் நீங்கியதும் நீர் மீண்டும் உறைகிறது. அழுத்தம் அதிகரித்தால் நீரின் கொதிநிலை உயர்கிறது; அதனால்தான் அழுத்தச் சமையற்கலன் விரைவாகச் சமைக்கிறது."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "Aquatic life survives in a lake whose surface has frozen in winter because",
         "options": [
-          "ice sinks to the bottom and warms the water above",
-          "ice floats on top and, being a bad conductor of heat, keeps the water below liquid",
-          "water never freezes in lakes",
-          "fish produce enough heat to keep the water warm"
+          "ice sinks to the bottom of the lake and warms the water above it",
+          "ice floats on top and, being a bad conductor, keeps the water below liquid",
+          "lake water is too salty to freeze even in winter",
+          "fish produce enough body heat to keep the whole lake warm"
         ],
         "explanation": "Ice is less dense than water; water is densest (1 g/cc) at 4 °C. Water also expands on freezing, which is why water pipes can burst in very cold places."
       },
       "ta": {
         "q": "குளிர்காலத்தில் மேற்பரப்பு உறைந்த ஏரியில் நீர்வாழ் உயிர்கள் உயிர்வாழக் காரணம்",
         "options": [
-          "பனிக்கட்டி அடியில் மூழ்கி மேலுள்ள நீரைச் சூடாக்குகிறது",
-          "பனிக்கட்டி மேலே மிதந்து, வெப்பத்தின் அரிதிற் கடத்தியாக இருப்பதால் கீழுள்ள நீர் திரவமாகவே இருக்கிறது",
-          "ஏரிகளில் நீர் உறைவதே இல்லை",
-          "மீன்கள் நீரைச் சூடாக வைக்கப் போதுமான வெப்பத்தை உண்டாக்குகின்றன"
+          "பனிக்கட்டி ஏரியின் அடியில் மூழ்கி மேலுள்ள நீரைச் சூடாக்குகிறது",
+          "பனிக்கட்டி மேலே மிதந்து, அரிதிற் கடத்தியாகக் கீழுள்ள நீரைத் திரவமாகவே வைக்கிறது",
+          "ஏரி நீர் மிகுந்த உப்புத்தன்மையால் குளிர்காலத்திலும் உறைவதில்லை",
+          "மீன்கள் உடல் வெப்பத்தால் ஏரி முழுவதையும் சூடாக வைக்கின்றன"
         ],
         "explanation": "பனிக்கட்டி நீரைவிட அடர்த்தி குறைந்தது; 4 °C இல் நீரின் அடர்த்தி அதிகம் (1 g/cc). உறையும்போது நீர் விரிவடைவதால் மிகக் குளிரான இடங்களில் நீர்க் குழாய்கள் வெடிக்கலாம்."
       }
@@ -432,7 +432,7 @@
         "options": [
           "உயிரியல் பெருக்கம்",
           "வெப்ப மாசுபாடு",
-          "ஊட்டமிகைப்பு (Eutrophication)",
+          "ஊட்டமிகைப்பு",
           "உப்புநீக்கம்"
         ],
         "explanation": "வேகமாக வளரும் பாக்டீரியாக்களும் பாசிகளும் கரைந்த ஆக்சிஜனைப் பயன்படுத்தித் தீர்ப்பதால் தாவர, விலங்கு பல்வகைமை குறைகிறது."
@@ -449,20 +449,20 @@
       "en": {
         "q": "Thermal pollution of rivers by cooling water from power plants harms aquatic life mainly because",
         "options": [
-          "it blocks sunlight like an oil spill",
-          "it increases the salinity of the river",
-          "it adds microbeads to the water",
-          "the raised temperature decreases the dissolved oxygen in the water"
+          "it blocks sunlight just as an oil spill does",
+          "it increases the salinity of the river water",
+          "it adds microbeads and plastic waste to the water",
+          "the warmer water holds less dissolved oxygen"
         ],
         "explanation": "Thermal and nuclear power plants use large amounts of water for cooling and discharge it back at a higher temperature."
       },
       "ta": {
         "q": "மின் நிலையங்களின் குளிர்விப்பு நீரால் ஆறுகளில் ஏற்படும் வெப்ப மாசுபாடு நீர்வாழ் உயிர்களைப் பாதிப்பதற்கு முக்கியக் காரணம்",
         "options": [
-          "அது எண்ணெய்க் கசிவு போலச் சூரிய ஒளியைத் தடுக்கிறது",
-          "அது ஆற்றின் உவர்ப்பை அதிகரிக்கிறது",
-          "அது நீரில் நுண்மணிகளைச் சேர்க்கிறது",
-          "உயர்ந்த வெப்பநிலை நீரில் கரைந்துள்ள ஆக்சிஜனைக் குறைக்கிறது"
+          "எண்ணெய்க் கசிவு போலச் சூரிய ஒளியைத் தடுக்கிறது",
+          "ஆற்று நீரின் உவர்ப்புத் தன்மையை அதிகரிக்கிறது",
+          "நீரில் நுண்மணிகளையும் நெகிழிக் கழிவையும் சேர்க்கிறது",
+          "வெப்பமான நீரில் கரைந்துள்ள ஆக்சிஜன் குறைகிறது"
         ],
         "explanation": "அனல், அணு மின் நிலையங்கள் குளிர்விக்க அதிக நீரைப் பயன்படுத்தி உயர்ந்த வெப்பநிலையில் திருப்பி விடுகின்றன."
       }
@@ -479,9 +479,9 @@
         "q": "Air dissolved in water contains approximately what percentage of oxygen?",
         "options": [
           "35.6%",
-          "21%",
-          "78%",
-          "10%"
+          "21.0%",
+          "78.1%",
+          "10.5%"
         ],
         "explanation": "This is higher than oxygen's 21% share in the atmosphere because oxygen is more soluble in water than nitrogen; fish depend on this dissolved oxygen."
       },
@@ -489,9 +489,9 @@
         "q": "நீரில் கரைந்துள்ள காற்றில் ஆக்சிஜனின் சதவீதம் ஏறக்குறைய",
         "options": [
           "35.6%",
-          "21%",
-          "78%",
-          "10%"
+          "21.0%",
+          "78.1%",
+          "10.5%"
         ],
         "explanation": "நைட்ரஜனைவிட ஆக்சிஜன் நீரில் அதிகம் கரைவதால் இது வளிமண்டலத்திலுள்ள 21% ஐவிட அதிகம்; மீன்கள் இந்தக் கரைந்த ஆக்சிஜனையே சார்ந்துள்ளன."
       }

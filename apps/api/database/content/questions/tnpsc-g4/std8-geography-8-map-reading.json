@@ -14,20 +14,20 @@
       "en": {
         "q": "How does a globe differ from a map?",
         "options": [
-          "A globe is a three-dimensional miniature model of the entire earth, while a map is a two-dimensional representation",
-          "A globe shows only a part of the earth, while a map always shows the whole earth",
-          "A globe is drawn on a flat surface, while a map is spherical",
-          "A globe has no scale, while a map always has one"
+          "A globe is a three-dimensional model of the whole earth, while a map is two-dimensional",
+          "A globe shows one region of the earth, while a map shows the whole earth",
+          "A globe is drawn on a flat surface, while a map is spherical in shape",
+          "A globe has no scale of any kind, while a map is drawn with a scale"
         ],
         "explanation": "A map can show either a region or the whole world on a flat surface; the globe is the true representation of the earth."
       },
       "ta": {
         "q": "புவிக்கோளம் (Globe) புவிப்படத்திலிருந்து (Map) எவ்வாறு வேறுபடுகிறது?",
         "options": [
-          "புவிக்கோளம் முழுப் புவியின் முப்பரிமாணச் சிறு மாதிரி; புவிப்படம் இருபரிமாணச் சித்திரிப்பு",
-          "புவிக்கோளம் புவியின் ஒரு பகுதியை மட்டும் காட்டும்; புவிப்படம் எப்போதும் முழுப் புவியைக் காட்டும்",
+          "புவிக்கோளம் முழுப் புவியின் முப்பரிமாண மாதிரி; புவிப்படம் இருபரிமாணச் சித்திரிப்பு",
+          "புவிக்கோளம் புவியின் ஒரு பகுதியைக் காட்டும்; புவிப்படம் முழுப் புவியைக் காட்டும்",
           "புவிக்கோளம் தட்டையான பரப்பில் வரையப்படும்; புவிப்படம் கோள வடிவமானது",
-          "புவிக்கோளத்துக்கு அளவை இல்லை; புவிப்படத்துக்கு எப்போதும் அளவை உண்டு"
+          "புவிக்கோளத்துக்கு எந்த அளவையும் இல்லை; புவிப்படம் அளவையுடன் வரையப்படும்"
         ],
         "explanation": "புவிப்படம் ஒரு பகுதியையோ முழு உலகையோ தட்டையான பரப்பில் காட்டலாம்; புவிக்கோளமே புவியின் உண்மையான சித்திரிப்பு."
       }
@@ -72,20 +72,20 @@
       "en": {
         "q": "Which of the following is NOT one of the basic components of a map listed in the textbook?",
         "options": [
-          "Direction",
-          "Legend or key",
+          "Direction indicator",
+          "Legend or key to symbols",
           "Index of place names",
-          "Source"
+          "Source of the map data"
         ],
         "explanation": "The seven components are title, scale, legend or key, direction, source, map projection and locational information, and conventional signs and symbols."
       },
       "ta": {
         "q": "பாடநூலில் குறிப்பிடப்பட்ட புவிப்படத்தின் அடிப்படைக் கூறுகளில் இல்லாதது எது?",
         "options": [
-          "திசை",
-          "குறிப்பு விளக்கம் (Legend/Key)",
+          "திசையைக் காட்டும் குறி",
+          "குறியீடுகளின் குறிப்பு விளக்கம்",
           "இடப்பெயர்ச் சுட்டகராதி",
-          "மூலம் (Source)"
+          "புவிப்படத் தரவின் மூலம்"
         ],
         "explanation": "தலைப்பு, அளவை, குறிப்பு விளக்கம், திசை, மூலம், புவிப்பட வீழ்ச்சி மற்றும் அமைவிடத் தகவல், மரபுக் குறியீடுகள் ஆகிய ஏழும் அடிப்படைக் கூறுகள்."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "The added advantage of the graphical (bar) scale is that",
         "options": [
-          "it shows ground distance in miles only",
+          "it expresses ground distance in miles, not kilometres",
           "it is written in words, so it needs no calculation",
-          "it stays correct when copies of the map are taken, as the measurement does not change",
-          "it shows the height of landforms"
+          "it stays correct when copies of the map are taken",
+          "it shows the heights of landforms above sea level"
         ],
         "explanation": "The bar is divided into lengths that each stand for a set ground distance, so distances can be read off with string or dividers."
       },
       "ta": {
         "q": "வரைகோட்டு அளவையின் (Bar scale) கூடுதல் நன்மை",
         "options": [
-          "அது தரைத் தொலைவை மைலில் மட்டுமே காட்டும்",
+          "அது தரைத் தொலைவை மைலில் காட்டுகிறது; கிலோமீட்டரில் அல்ல",
           "அது சொற்களில் எழுதப்படுவதால் கணக்கீடு தேவையில்லை",
-          "புவிப்படத்தை நகலெடுக்கும்போதும் அளவீடு மாறாததால் சரியாகவே இருக்கும்",
-          "அது நிலவடிவங்களின் உயரத்தைக் காட்டும்"
+          "புவிப்படத்தை நகலெடுக்கும்போதும் அளவீடு சரியாக இருக்கும்",
+          "அது நிலவடிவங்களின் கடல்மட்ட உயரத்தைக் காட்டும்"
         ],
         "explanation": "கோடு ஒவ்வொன்றும் குறிப்பிட்ட தரைத் தொலைவைக் குறிக்கும் பகுதிகளாகப் பிரிக்கப்படுவதால், நூல் அல்லது கவராயம் கொண்டு தொலைவை அளக்கலாம்."
       }
@@ -346,7 +346,7 @@
           "சமக்கோட்டு நிலவரைபடம்",
           "நிலத்தோற்ற நிலவரைபடம்",
           "கருப்பொருள் நிலவரைபடம்",
-          "காணி நிலவரைபடம் (Cadastral map)"
+          "காணி நிலவரைபடம்"
         ],
         "explanation": "காணி நிலவரைபடங்கள் பொதுவாக அரசால் பராமரிக்கப்படுகின்றன; நகர அளவை, வரிவிதிப்பு, தோட்ட மேலாண்மை, சட்ட ஆவணங்களில் சொத்தை வரையறுத்தல் ஆகியவற்றுக்குப் பயன்படுகின்றன."
       }

@@ -14,20 +14,20 @@
       "en": {
         "q": "Which of the following elements is synthesised in laboratories, according to the textbook?",
         "options": [
-          "Technetium",
-          "Copper",
-          "Gold",
-          "Silver"
+          "the element Technetium",
+          "the element Copper",
+          "the element Gold",
+          "the element Silver"
         ],
         "explanation": "Of the 118 known elements, 92 occur in nature; technetium, promethium, neptunium and plutonium are given as laboratory-made examples."
       },
       "ta": {
         "q": "பாடநூலின்படி பின்வருவனவற்றுள் ஆய்வகங்களில் தொகுக்கப்படும் தனிமம் எது?",
         "options": [
-          "டெக்னீசியம்",
-          "தாமிரம்",
-          "தங்கம்",
-          "வெள்ளி"
+          "டெக்னீசியம் எனும் தனிமம்",
+          "தாமிரம் எனும் தனிமம்",
+          "தங்கம் எனும் தனிமம்",
+          "வெள்ளி எனும் தனிமம்"
         ],
         "explanation": "அறியப்பட்ட 118 தனிமங்களில் 92 இயற்கையில் கிடைக்கின்றன; டெக்னீசியம், புரோமித்தியம், நெப்டியூனியம், புளூட்டோனியம் ஆகியவை ஆய்வகத் தனிமங்களுக்கு எடுத்துக்காட்டுகள்."
       }
@@ -104,7 +104,7 @@
           "Canal-ray tube",
           "Geiger–Müller tube",
           "Vacuum flask",
-          "Cathode Ray Tube (CRT)"
+          "Cathode Ray Tube"
         ],
         "explanation": "The rays, called Crookes' rays or cathode rays, were later identified as streams of electrons."
       },
@@ -114,7 +114,7 @@
           "கால்வாய்க் கதிர்க் குழாய்",
           "கைகர்-முல்லர் குழாய்",
           "வெற்றிடக் குடுவை",
-          "எதிர்மின்முனைக் கதிர்க் குழாய் (CRT)"
+          "எதிர்மின்முனைக் கதிர்க் குழாய்"
         ],
         "explanation": "க்ரூக்ஸ் கதிர்கள் அல்லது எதிர்மின்முனைக் கதிர்கள் எனப்பட்ட இவை பின்னர் எலக்ட்ரான் ஓட்டங்களாக அடையாளம் காணப்பட்டன."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "A proton can be defined as",
         "options": [
-          "a neutral particle in the nucleus",
-          "a hydrogen atom that has gained an electron",
-          "a hydrogen ion (H⁺), formed when one electron is removed from a hydrogen atom",
-          "a helium nucleus"
+          "a neutral particle found inside the nucleus of an atom",
+          "a hydrogen atom that has gained one extra electron",
+          "the hydrogen ion formed by removing the electron of a hydrogen atom",
+          "the nucleus of a helium atom with two neutrons"
         ],
         "explanation": "Positively charged particles obtained with hydrogen gas in a discharge tube were called protons."
       },
       "ta": {
         "q": "புரோட்டானை இவ்வாறு வரையறுக்கலாம்",
         "options": [
-          "உட்கருவிலுள்ள நடுநிலைத் துகள்",
-          "ஒரு எலக்ட்ரானைப் பெற்ற ஹைட்ரஜன் அணு",
-          "ஹைட்ரஜன் அணுவிலிருந்து ஒரு எலக்ட்ரான் நீக்கப்படும்போது உருவாகும் ஹைட்ரஜன் அயனி (H⁺)",
-          "ஹீலியம் உட்கரு"
+          "அணுவின் உட்கருவில் காணப்படும் மின்னூட்டமற்ற நடுநிலைத் துகள்",
+          "கூடுதலாக ஓர் எலக்ட்ரானைப் பெற்ற ஹைட்ரஜன் அணு",
+          "ஹைட்ரஜன் அணுவின் எலக்ட்ரானை நீக்குவதால் உருவாகும் ஹைட்ரஜன் அயனி",
+          "இரு புரோட்டான்களும் இரு நியூட்ரான்களும் கொண்ட ஹீலியம் உட்கரு"
         ],
         "explanation": "மின்னிறக்கக் குழாயில் ஹைட்ரஜன் வாயுவைப் பயன்படுத்தியபோது கிடைத்த நேர்மின்னூட்டத் துகள்கள் புரோட்டான்கள் எனப்பட்டன."
       }
@@ -256,7 +256,7 @@
       "ta": {
         "q": "கண்ணுக்குத் தெரியாத கதிர்வீச்சு படும்போது கண்ணுக்குத் தெரியும் ஒளியை உமிழும் துத்தநாக சல்பைடு போன்ற பொருட்கள்",
         "options": [
-          "உடனொளிர் பொருட்கள் (Fluorescent materials)",
+          "உடனொளிர் பொருட்கள்",
           "காப்பான்கள்",
           "குறைகடத்திகள்",
           "கதிரியக்கப் பொருட்கள்"
@@ -420,20 +420,20 @@
       "en": {
         "q": "Which of the following information IS conveyed by a balanced chemical equation?",
         "options": [
-          "The heat liberated or absorbed",
-          "The speed of the reaction",
-          "The number of molecules or atoms of reactants and products",
-          "The temperature and pressure required"
+          "The heat liberated or absorbed during the reaction",
+          "The speed at which the reaction proceeds",
+          "The number of atoms and molecules involved",
+          "The temperature and pressure required for the reaction"
         ],
         "explanation": "A balanced equation gives the names, symbols, formulae and numbers of reacting and product molecules, but not physical states, heat changes, conditions, concentration or speed."
       },
       "ta": {
         "q": "சமன்செய்த வேதிச் சமன்பாடு தெரிவிக்கும் தகவல் எது?",
         "options": [
-          "வெளிப்படும் அல்லது உறிஞ்சப்படும் வெப்பம்",
-          "வினையின் வேகம்",
-          "வினைபடுபொருட்கள், விளைபொருட்களின் மூலக்கூறுகள் அல்லது அணுக்களின் எண்ணிக்கை",
-          "தேவையான வெப்பநிலையும் அழுத்தமும்"
+          "வினையின்போது வெளிப்படும் அல்லது உறிஞ்சப்படும் வெப்பம்",
+          "வினை நிகழ்வதற்கான வேகமும் காலமும்",
+          "வினையில் பங்கேற்கும் அணுக்கள், மூலக்கூறுகளின் எண்ணிக்கை",
+          "வினைக்குத் தேவையான வெப்பநிலையும் அழுத்தமும்"
         ],
         "explanation": "சமன்செய்த சமன்பாடு பெயர்கள், குறியீடுகள், வாய்பாடுகள், மூலக்கூறுகளின் எண்ணிக்கை ஆகியவற்றைத் தரும்; இயற்பியல் நிலை, வெப்ப மாற்றம், நிபந்தனைகள், செறிவு, வேகம் ஆகியவற்றைத் தராது."
       }
@@ -452,7 +452,7 @@
           "Dalton — the law of multiple proportions",
           "Lavoisier — the law of conservation of mass",
           "Gay-Lussac — the law of gaseous volumes",
-          "Joseph Proust — the law of constant (definite) proportions"
+          "Joseph Proust — the law of constant proportions"
         ],
         "explanation": "A pure compound always contains its elements in a fixed proportion by mass, whatever its source or method of preparation."
       },
@@ -489,9 +489,9 @@
         "q": "லவாய்சியர் கூறிய நிறை அழியா விதி வேறு எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "நிறையின் அழிக்க இயலாமை விதி",
-          "மாறா விகித விதி",
-          "பல்விகித விதி",
-          "வாயுக் கனஅளவு விதி"
+          "மாறா விகிதங்களின் விதி",
+          "பல்வேறு விகிதங்களின் விதி",
+          "வாயுக் கனஅளவுகளின் விதி"
         ],
         "explanation": "ஹேபர் முறையில் N₂ (28 g) + 3H₂ (6 g) → 2NH₃ (34 g): வினைபடுபொருட்களின் மொத்த நிறை விளைபொருட்களின் நிறைக்குச் சமம்."
       }

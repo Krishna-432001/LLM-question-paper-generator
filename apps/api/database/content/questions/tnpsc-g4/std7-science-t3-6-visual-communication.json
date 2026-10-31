@@ -24,7 +24,7 @@
       "ta": {
         "q": "உலகெங்கும் மில்லியன் கணக்கானோர் பயன்படுத்தும் லிப்ரே ஆபீஸ் என்பது ஒரு சிறந்த",
         "options": [
-          "இலவச அலுவலகத் தொகுப்பு (office suite)",
+          "இலவச அலுவலகத் தொகுப்பு",
           "வைரஸ் எதிர்ப்பு நிரல்",
           "இணைய உலாவி",
           "காணொலி விளையாட்டு"
@@ -101,9 +101,9 @@
       "en": {
         "q": "What is the main difference between Cut and Copy?",
         "options": [
-          "Both save the document",
-          "Cut creates a duplicate, while Copy removes the selected data",
-          "Both delete the data permanently",
+          "Both save the document to the disk and then close the document window",
+          "Cut makes a second copy of the data, while Copy deletes the selected data",
+          "Both delete the data permanently from the file and from the clipboard",
           "Cut removes the selected data from its original position, while Copy creates a duplicate"
         ],
         "explanation": "After cutting or copying, the text is pasted at the new place where the insertion point is placed."
@@ -111,10 +111,10 @@
       "ta": {
         "q": "வெட்டுதல் (Cut), நகலெடுத்தல் (Copy) ஆகியவற்றுக்கு இடையிலான முக்கிய வேறுபாடு",
         "options": [
-          "இரண்டும் ஆவணத்தைச் சேமிக்கும்",
+          "இரண்டும் ஆவணத்தைச் சேமித்து மூடும்",
           "வெட்டுதல் நகலை உருவாக்கும்; நகலெடுத்தல் தரவை நீக்கும்",
-          "இரண்டும் தரவை நிரந்தரமாக அழிக்கும்",
-          "வெட்டுதல் தேர்ந்தெடுத்த தரவை அதன் இடத்திலிருந்து நீக்கும்; நகலெடுத்தல் ஒரு நகலை உருவாக்கும்"
+          "இரண்டும் தரவைக் கோப்பிலிருந்து நிரந்தரமாக அழிக்கும்",
+          "வெட்டுதல் தரவை இடத்திலிருந்து நீக்கும்; நகலெடுத்தல் நகலை உருவாக்கும்"
         ],
         "explanation": "வெட்டிய அல்லது நகலெடுத்த உரையைச் செருகு புள்ளி உள்ள புதிய இடத்தில் ஒட்டலாம்."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "To select text with the keyboard, the insertion point is moved to the start of the text and then",
         "options": [
-          "the Esc key is pressed twice",
+          "the Esc key is pressed twice and then released",
           "the Ctrl key is pressed and the Delete key is used",
-          "the Shift key is pressed down and the movement keys are used to highlight the text",
-          "the Tab key is pressed repeatedly"
+          "the Shift key is held down and the arrow keys are used",
+          "the Tab key is pressed repeatedly until the text is marked"
         ],
         "explanation": "With the mouse, the left button is clicked, held down and dragged across the text to be selected."
       },
       "ta": {
         "q": "விசைப்பலகை மூலம் உரையைத் தேர்ந்தெடுக்க, செருகு புள்ளியை உரையின் தொடக்கத்துக்கு நகர்த்திய பின்",
         "options": [
-          "Esc விசையை இருமுறை அழுத்த வேண்டும்",
+          "Esc விசையை இருமுறை அழுத்தி விட்டுவிட வேண்டும்",
           "Ctrl விசையை அழுத்தி Delete விசையைப் பயன்படுத்த வேண்டும்",
-          "Shift விசையை அழுத்திக்கொண்டு நகர்த்தும் விசைகளால் உரையை முன்னிலைப்படுத்த வேண்டும்",
-          "Tab விசையைத் திரும்பத் திரும்ப அழுத்த வேண்டும்"
+          "Shift விசையை அழுத்திக்கொண்டு நகர்த்தும் விசைகளைப் பயன்படுத்த வேண்டும்",
+          "Tab விசையை உரை குறிக்கப்படும் வரை திரும்பத் திரும்ப அழுத்த வேண்டும்"
         ],
         "explanation": "சுட்டியால் தேர்ந்தெடுக்க இடது பொத்தானை அழுத்திப் பிடித்தபடி உரையின் மேல் இழுக்க வேண்டும்."
       }
@@ -230,7 +230,7 @@
           "மையச் சீரமைப்பு",
           "இடச் சீரமைப்பு",
           "வலச் சீரமைப்பு",
-          "இருபுற நேராக்கல் (Justify)"
+          "இருபுறச் சீரமைப்பு"
         ],
         "explanation": "இயல்பாகப் பத்திகள் இடப்புறம் சீரமைக்கப்படும்; வடிவமைப்புக் கருவிப்பட்டை மூலம் நான்கு வகைச் சீரமைப்புகளைத் தேர்ந்தெடுக்கலாம்."
       }

@@ -130,20 +130,20 @@
       "en": {
         "q": "In a beehive, the worker bees",
         "options": [
-          "collect nectar from flowers, nourish the young ones, and repair and protect the hive",
-          "lay all the eggs in the hive",
-          "only mate with the queen",
-          "produce silk"
+          "collect nectar, feed the young and guard the hive",
+          "lay all the eggs and rule over the hive",
+          "mate with the queen to fill the hive",
+          "produce silk threads and weave the hive wall"
         ],
         "explanation": "Bees collect nectar from flowers, convert it into honey and store it in the honey comb."
       },
       "ta": {
         "q": "தேனீக் கூட்டில் வேலைக்காரத் தேனீக்கள் செய்யும் பணி",
         "options": [
-          "பூக்களிலிருந்து தேன் சேகரித்தல், இளம் உயிரிகளுக்கு ஊட்டமளித்தல், கூட்டைப் பழுதுநீக்கிப் பாதுகாத்தல்",
-          "கூட்டிலுள்ள எல்லா முட்டைகளையும் இடுதல்",
-          "ராணித் தேனீயுடன் இணைதல் மட்டும்",
-          "பட்டு உற்பத்தி செய்தல்"
+          "தேன் சேகரித்தல், இளம் உயிரிகளுக்கு ஊட்டமளித்தல், கூட்டைக் காத்தல்",
+          "எல்லா முட்டைகளையும் இட்டுக் கூட்டை ஆளுதல்",
+          "ராணித் தேனீயுடன் இணை சேர்ந்து கூட்டை நிரப்புதல்",
+          "பட்டு இழைகளை உருவாக்கிக் கூட்டுச்சுவர் நெய்தல்"
         ],
         "explanation": "தேனீக்கள் பூக்களிலிருந்து தேனைச் சேகரித்துத் தேன் ஆக்கி, தேன்கூட்டில் சேமிக்கின்றன."
       }
@@ -170,7 +170,7 @@
         "q": "இறைச்சிக்காக வளர்க்கப்படும் கோழிகள் பிராய்லர்கள் எனப்படும்; முட்டையிடும் கோழிகள் அழைக்கப்படுவது",
         "options": [
           "ஆண் வாத்துகள்",
-          "லேயர்கள் (முட்டைக் கோழிகள்)",
+          "லேயர்கள்",
           "சேவல்கள்",
           "வாத்துகள்"
         ],
@@ -256,7 +256,7 @@
       "ta": {
         "q": "கம்பளியைப் பதப்படுத்தும் ஐந்து படிநிலைகளின் சரியான வரிசை எது?",
         "options": [
-          "உரோமம் கத்தரித்தல், தரம் பிரித்தல், கழுவுதல், சீவுதல் (கார்டிங்), நூற்றல்",
+          "உரோமம் கத்தரித்தல், தரம் பிரித்தல், கழுவுதல், சீவுதல், நூற்றல்",
           "கழுவுதல், உரோமம் கத்தரித்தல், நூற்றல், சீவுதல், தரம் பிரித்தல்",
           "தரம் பிரித்தல், உரோமம் கத்தரித்தல், சீவுதல், கழுவுதல், நூற்றல்",
           "சீவுதல், உரோமம் கத்தரித்தல், கழுவுதல், தரம் பிரித்தல், நூற்றல்"
@@ -304,20 +304,20 @@
       "en": {
         "q": "Which of the following is a characteristic feature of wool?",
         "options": [
-          "It is a good conductor of heat",
-          "It wrinkles very easily",
-          "It absorbs moisture and insulates against cold",
-          "It does not absorb any moisture"
+          "It is a good conductor of heat and electricity",
+          "It wrinkles and shrinks very easily",
+          "It absorbs moisture and keeps the body warm",
+          "It repels moisture and feels cool"
         ],
         "explanation": "Because wool is a good insulator, woollen clothes keep the body warm in cold regions."
       },
       "ta": {
         "q": "கம்பளியின் சிறப்புப் பண்பு எது?",
         "options": [
-          "வெப்பத்தை நன்கு கடத்தும்",
-          "மிக எளிதில் சுருக்கமடையும்",
-          "ஈரத்தை உறிஞ்சும்; குளிரிலிருந்து காப்பளிக்கும்",
-          "ஈரத்தை உறிஞ்சாது"
+          "வெப்பத்தையும் மின்சாரத்தையும் நன்கு கடத்தும்",
+          "மிக எளிதில் சுருங்கிச் சுருக்கமடையும்",
+          "ஈரத்தை உறிஞ்சி உடலைக் கதகதப்பாக வைக்கும்",
+          "ஈரத்தை விலக்கி உடலைக் குளிர்ச்சியாக வைக்கும்"
         ],
         "explanation": "கம்பளி நல்ல காப்புப் பொருளாக இருப்பதால் குளிர்ப் பகுதிகளில் உடலைக் கதகதப்பாக வைக்கிறது."
       }
@@ -346,7 +346,7 @@
           "கூடு, முட்டை, முதிர் அந்துப்பூச்சி, புழு",
           "புழு, முட்டை, முதிர் அந்துப்பூச்சி, கூடு",
           "முட்டை, கூடு, புழு, முதிர் அந்துப்பூச்சி",
-          "முட்டை, புழு (கம்பளிப்புழு), கூட்டுப்புழு (கூடு), முதிர் அந்துப்பூச்சி"
+          "முட்டை, புழு, கூட்டுப்புழு, முதிர் அந்துப்பூச்சி"
         ],
         "explanation": "பட்டுப்புழுக்கள் மல்பெரி இலைகளை உண்டு ஏறத்தாழ இரண்டு மாதங்களே வாழ்கின்றன."
       }
@@ -372,10 +372,10 @@
       "ta": {
         "q": "பட்டு உற்பத்தி செய்வதற்காகப் பட்டுப்புழுக்களை வளர்க்கும் முறை",
         "options": [
-          "பட்டுப்புழு வளர்ப்பு (செரிகல்ச்சர்)",
-          "தோட்டக்கலை",
-          "மலர் வளர்ப்பு",
-          "வேளாண்மை"
+          "பட்டுப்புழு வளர்ப்பு",
+          "தோட்டப் பயிர் வளர்ப்பு",
+          "மலர்ச் செடி வளர்ப்பு",
+          "வேளாண் பயிர் வளர்ப்பு"
         ],
         "explanation": "முதிர் பெண் அந்துப்பூச்சி ஏறத்தாழ 500 முட்டைகள் இடும்; அவை ஆறு வாரங்கள் குளிர் சேமிப்பில் வைக்கப்படுகின்றன."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "In the traditional method of making silk, the cocoons are boiled or steamed to",
         "options": [
-          "allow the moths to hatch",
-          "make the silk thread rough",
-          "kill the pupae and loosen the sericin that holds the silk, making it easier to unwind",
-          "dye the silk"
+          "allow the moths to hatch out of the cocoon",
+          "make the silk thread rough and coarse",
+          "kill the pupae and loosen the sericin gum",
+          "dye the silk a bright colour"
         ],
         "explanation": "If the moths were allowed to hatch, the long silk fibres would be broken by the hatching of the moth."
       },
       "ta": {
         "q": "பாரம்பரியப் பட்டு உற்பத்தியில் பட்டுக்கூடுகள் கொதிக்க வைக்கப்படுவது அல்லது ஆவியில் வேகவைக்கப்படுவது",
         "options": [
-          "அந்துப்பூச்சிகளைப் பொரிக்க விட",
-          "பட்டு நூலை சொரசொரப்பாக்க",
-          "கூட்டுப்புழுக்களைக் கொன்று, பட்டை இணைத்துள்ள செரிசினைத் தளர்த்தி இழையை எளிதில் பிரிக்க",
-          "பட்டுக்கு நிறமூட்ட"
+          "அந்துப்பூச்சிகள் கூட்டிலிருந்து பொரிக்கச் செய்ய",
+          "பட்டு நூலைச் சொரசொரப்பாகவும் கடினமாகவும் ஆக்க",
+          "கூட்டுப்புழுக்களைக் கொன்று செரிசினைத் தளர்த்த",
+          "பட்டு இழைக்குப் பளிச்சென்ற நிறமூட்ட"
         ],
         "explanation": "அந்துப்பூச்சிகள் பொரிக்க அனுமதிக்கப்பட்டால் நீண்ட பட்டு இழைகள் அறுந்துவிடும்."
       }
@@ -480,7 +480,7 @@
         "options": [
           "sutures",
           "fishing nets",
-          "parachute cords only",
+          "parachute cords",
           "electric wires"
         ],
         "explanation": "Silk is also used for classical and high fashion clothes, silk sarees, wall hangings, curtains, rugs and carpets."
@@ -488,10 +488,10 @@
       "ta": {
         "q": "பட்டு மருத்துவத்தில் எந்தத் தையல் நூல்களைத் தயாரிக்கவும் பயன்படுகிறது?",
         "options": [
-          "அறுவைச் சிகிச்சைத் தையல் நூல்கள் (sutures)",
-          "மீன்பிடி வலைகள்",
-          "பாராசூட் கயிறுகள் மட்டும்",
-          "மின் கம்பிகள்"
+          "அறுவைத் தையல் நூல்கள்",
+          "மீன்பிடி வலை நூல்கள்",
+          "பாராசூட் கயிறு நூல்கள்",
+          "மின் கம்பி உறை நூல்கள்"
         ],
         "explanation": "பட்டு உயர்தர ஆடைகள், பட்டுச் சேலைகள், சுவர் அலங்காரங்கள், திரைச்சீலைகள், விரிப்புகள், கம்பளங்கள் தயாரிக்கவும் பயன்படுகிறது."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "Workers in the silk industry often suffer from arthritis because they",
         "options": [
-          "eat too much silk",
+          "eat food mixed with silk dust",
           "handle contaminated animal hair",
-          "breathe in carbon dioxide",
-          "stand for a long time reeling the silk into yarn"
+          "breathe in carbon dioxide gas",
+          "stand for long hours reeling silk"
         ],
         "explanation": "Poorly ventilated work places can cause respiratory problems like asthma and bronchitis in these workers."
       },
       "ta": {
         "q": "பட்டுத் தொழிலாளர்களுக்கு மூட்டுவலி (ஆர்த்ரிடிஸ்) ஏற்படுவதற்குக் காரணம், அவர்கள்",
         "options": [
-          "அதிகமாகப் பட்டை உண்பது",
+          "பட்டுத் தூசு கலந்த உணவை உண்பது",
           "மாசடைந்த விலங்கு முடியைக் கையாள்வது",
-          "கார்பன் டைஆக்சைடை சுவாசிப்பது",
-          "பட்டை நூலாகச் சுற்றும்போது நீண்ட நேரம் நிற்பது"
+          "கார்பன் டைஆக்சைடு வாயுவை சுவாசிப்பது",
+          "பட்டு நூற்கும்போது நீண்ட நேரம் நிற்பது"
         ],
         "explanation": "காற்றோட்டம் குறைந்த பணியிடங்களில் ஆஸ்துமா, மூச்சுக்குழாய் அழற்சி போன்ற சுவாசப் பிரச்சனைகளும் ஏற்படலாம்."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "The spread of anthrax is controlled by",
         "options": [
-          "feeding animals only silk",
-          "vaccination of animals and burning or burial of infected animals' carcases",
-          "shearing animals more often",
-          "keeping animals in closed rooms without air"
+          "feeding the animals on silk waste and dry husks",
+          "vaccinating animals and burning or burying infected carcases",
+          "shearing the animals' hair more often and more closely",
+          "keeping animals in closed rooms without fresh air"
         ],
         "explanation": "Penicillin or ciprofloxacin is given as a medicine for the treatment of anthrax; the employer must provide a hygienic, well-ventilated work place."
       },
       "ta": {
         "q": "ஆந்த்ராக்ஸ் பரவுவதைக் கட்டுப்படுத்தும் வழி",
         "options": [
-          "விலங்குகளுக்குப் பட்டை மட்டுமே உணவாக அளித்தல்",
-          "விலங்குகளுக்குத் தடுப்பூசி போடுதல், தொற்றுற்ற விலங்கின் உடல்களை எரித்தல் அல்லது புதைத்தல்",
-          "விலங்குகளிடமிருந்து அடிக்கடி உரோமம் வெட்டுதல்",
-          "விலங்குகளைக் காற்றில்லா மூடிய அறைகளில் வைத்தல்"
+          "விலங்குகளுக்குப் பட்டுக் கழிவையும் உலர் தவிட்டையும் உணவாக அளித்தல்",
+          "விலங்குகளுக்குத் தடுப்பூசி போட்டுத் தொற்றுற்ற உடல்களை எரித்தல் அல்லது புதைத்தல்",
+          "விலங்குகளிடமிருந்து உரோமத்தை அடிக்கடி நெருக்கமாக வெட்டுதல்",
+          "விலங்குகளைக் காற்றோட்டமில்லா மூடிய அறைகளில் வைத்தல்"
         ],
         "explanation": "ஆந்த்ராக்ஸ் சிகிச்சைக்குப் பென்சிலின் அல்லது சிப்ரோஃப்ளாக்சசின் அளிக்கப்படுகிறது; முதலாளி சுகாதாரமான, காற்றோட்டமுள்ள பணியிடத்தை அளிக்க வேண்டும்."
       }
@@ -654,7 +654,7 @@
         "options": [
           "Verghese Kurien",
           "Alexander Fleming",
-          "Kusuma Rajaiah, a Government officer from Andhra Pradesh",
+          "Kusuma Rajaiah",
           "A. P. J. Abdul Kalam"
         ],
         "explanation": "Ahimsa means non-violence."
@@ -664,7 +664,7 @@
         "options": [
           "வர்கீஸ் குரியன்",
           "அலெக்சாண்டர் ஃபிளெமிங்",
-          "ஆந்திரப் பிரதேசத்தைச் சேர்ந்த அரசு அதிகாரி குசுமா ராஜையா",
+          "குசுமா ராஜையா",
           "ஏ. பி. ஜே. அப்துல் கலாம்"
         ],
         "explanation": "அகிம்சை என்றால் வன்முறையின்மை."
@@ -681,20 +681,20 @@
       "en": {
         "q": "Ahimsa silk is called Peace silk because",
         "options": [
-          "it is made from the hair of sheep",
-          "the cocoons are boiled to kill the pupae",
-          "the silk is made without any cocoons",
-          "the silkworms are allowed to hatch and only the vacant cocoons are used, so they are not killed"
+          "it is spun from the soft hair of sheep and goats",
+          "the cocoons are boiled gently to loosen the silk",
+          "the silk is made in factories without cocoons",
+          "the moths emerge first and empty cocoons are used"
         ],
         "explanation": "Traditional methods boil the cocoons, which kills the silkworms; Ahimsa silk is supported by people interested in the welfare of animals."
       },
       "ta": {
         "q": "அகிம்சைப் பட்டு அமைதிப் பட்டு எனப்படுவதற்குக் காரணம்",
         "options": [
-          "செம்மறி ஆட்டு முடியிலிருந்து தயாரிக்கப்படுவதால்",
-          "கூட்டுப்புழுக்களைக் கொல்ல கூடுகள் கொதிக்க வைக்கப்படுவதால்",
-          "கூடுகளே இல்லாமல் பட்டு தயாரிக்கப்படுவதால்",
-          "பட்டுப்புழுக்கள் பொரிக்க விடப்பட்டு, காலிக் கூடுகள் மட்டுமே பயன்படுத்தப்படுவதால் அவை கொல்லப்படுவதில்லை"
+          "செம்மறி ஆடு, வெள்ளாட்டின் மென்மயிரிலிருந்து தயாரிக்கப்படுவதால்",
+          "கூடுகள் மென்மையாகக் கொதிக்க வைக்கப்படுவதால்",
+          "கூடுகளின்றித் தொழிற்சாலையில் பட்டு தயாரிக்கப்படுவதால்",
+          "புழுக்கள் முதலில் வெளிவந்து, காலிக் கூடுகளே பயன்படுவதால்"
         ],
         "explanation": "பாரம்பரிய முறையில் கூடுகளைக் கொதிக்க வைப்பதால் புழுக்கள் இறக்கின்றன; விலங்கு நலனில் அக்கறை உள்ளோர் அகிம்சைப் பட்டை ஆதரிக்கின்றனர்."
       }
@@ -720,7 +720,7 @@
       "ta": {
         "q": "விலங்குகளின் இனப்பெருக்கம், பராமரிப்பு பற்றிய படிப்பு",
         "options": [
-          "கால்நடை வளர்ப்பு (animal husbandry)",
+          "கால்நடை வளர்ப்பு",
           "பட்டுப்புழு வளர்ப்பு",
           "தேனீ வளர்ப்பு",
           "தோட்டக்கலை"
@@ -768,10 +768,10 @@
       "en": {
         "q": "Horse hair is used for",
         "options": [
-          "surgical sutures",
-          "making silk sarees",
-          "bristles in small painting brushes",
-          "preparing paneer"
+          "making surgical sutures",
+          "weaving silk sarees",
+          "bristles of small painting brushes",
+          "preparing paneer from milk"
         ],
         "explanation": "The hair of goat and sheep is used for woollen clothes, shawls, blankets, mufflers and socks."
       },
@@ -780,8 +780,8 @@
         "options": [
           "அறுவைத் தையல் நூல்கள் செய்ய",
           "பட்டுச் சேலைகள் நெய்ய",
-          "சிறிய ஓவியத் தூரிகைகளின் முட்கள் செய்ய",
-          "பனீர் தயாரிக்க"
+          "சிறிய ஓவியத் தூரிகை முட்கள் செய்ய",
+          "பாலிலிருந்து பனீர் தயாரிக்க"
         ],
         "explanation": "வெள்ளாடு, செம்மறி ஆட்டின் முடி கம்பளி ஆடைகள், சால்வைகள், போர்வைகள், மப்ளர், காலுறைகள் தயாரிக்கப் பயன்படுகிறது."
       }

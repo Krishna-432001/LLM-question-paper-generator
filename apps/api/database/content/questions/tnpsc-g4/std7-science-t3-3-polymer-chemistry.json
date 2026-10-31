@@ -24,7 +24,7 @@
       "ta": {
         "q": "பலபடிகள் (பாலிமர்கள்) என்பவை சகப்பிணைப்புகளால் இணைக்கப்பட்ட, திரும்பத் திரும்ப வரும் சிறிய மூலக்கூறுகளாலான நீண்ட சங்கிலிகள். அந்தச் சிறிய மூலக்கூறுகள்",
         "options": [
-          "ஒருபடிகள் (மோனோமர்கள்)",
+          "ஒருபடிகள்",
           "ஐசோடோப்புகள்",
           "உலோகக் கலவைகள்",
           "வினையூக்கிகள்"
@@ -101,20 +101,20 @@
       "en": {
         "q": "The carbohydrate polymer chitin is found in",
         "options": [
-          "cotton fibres",
-          "the cell walls of plants and wood",
-          "human hair and fingernails",
-          "the cell walls of fungi and the exoskeletons of insects, crabs and spiders"
+          "cotton fibres and the seed hairs of plants",
+          "the cell walls of green plants and the trunks of trees",
+          "human hair, fingernails and the horns of animals",
+          "the cell walls of fungi and the exoskeletons of insects"
         ],
         "explanation": "Cellulose is the main component of cotton and plant cell walls; lignin gives structure to plants."
       },
       "ta": {
         "q": "கார்போஹைட்ரேட் பலபடியான கைட்டின் காணப்படும் இடம்",
         "options": [
-          "பருத்தி இழைகள்",
-          "தாவரங்களின் செல் சுவர், மரம்",
-          "மனித முடி, நகங்கள்",
-          "பூஞ்சைகளின் செல் சுவர்கள், பூச்சிகள், நண்டுகள், சிலந்திகளின் புறவன்கூடு"
+          "பருத்தி இழைகளும் தாவர விதை முடிகளும்",
+          "பசுமைத் தாவரங்களின் செல் சுவர்கள், மரத்தண்டுகள்",
+          "மனித முடி, நகங்கள், விலங்குகளின் கொம்புகள்",
+          "பூஞ்சைகளின் செல் சுவர்கள், பூச்சிகளின் புறவன்கூடு"
         ],
         "explanation": "செல்லுலோஸ் பருத்தியின் முக்கியக் கூறு; லிக்னின் தாவரங்களுக்கு வடிவம் அளிக்கிறது."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "Rayon is called a semi-synthetic fibre because it is made from",
         "options": [
-          "glass fibre",
-          "petroleum oil",
-          "silk cocoons",
-          "natural cellulose collected from wood or bamboo pulp"
+          "molten glass drawn into fibres",
+          "petroleum oil and natural gas",
+          "silk cocoons spun by silkworms",
+          "cellulose from wood or bamboo pulp"
         ],
         "explanation": "Rayon was the first artificial silk, produced by scientists in the 19th century."
       },
       "ta": {
         "q": "ரேயான் அரைச் செயற்கை இழை எனப்படுவதற்குக் காரணம், அது தயாரிக்கப்படுவது",
         "options": [
-          "கண்ணாடி இழையிலிருந்து",
-          "பெட்ரோலிய எண்ணெயிலிருந்து",
-          "பட்டுக்கூடுகளிலிருந்து",
-          "மரம் அல்லது மூங்கில் கூழிலிருந்து பெறப்படும் இயற்கை செல்லுலோஸிலிருந்து"
+          "உருக்கிய கண்ணாடியிலிருந்து",
+          "பெட்ரோலிய எண்ணெய், இயற்கை வாயுவிலிருந்து",
+          "பட்டுப்புழுக் கூடுகளிலிருந்து",
+          "மரக்கூழ் அல்லது மூங்கில் கூழிலுள்ள செல்லுலோஸிலிருந்து"
         ],
         "explanation": "ரேயான் 19-ஆம் நூற்றாண்டில் அறிவியலாளர்கள் உருவாக்கிய முதல் செயற்கைப் பட்டு."
       }
@@ -449,10 +449,10 @@
       "en": {
         "q": "One should not wear synthetic clothes while cooking or working in a laboratory because",
         "options": [
-          "synthetic cloth cannot be washed",
-          "synthetic cloth absorbs all chemicals",
-          "cotton cloth burns more slowly than water",
-          "the fabric can melt and stick to the body, causing severe burns"
+          "synthetic cloth cannot be washed after use",
+          "synthetic cloth absorbs chemicals and spreads them",
+          "cotton cloth is costlier than synthetic cloth",
+          "the fabric can melt and stick to the skin"
         ],
         "explanation": "Cotton burns when held in a flame, whereas synthetic polyester melts; this is a disadvantage of synthetic fibres."
       },
@@ -460,9 +460,9 @@
         "q": "சமைக்கும்போதும் ஆய்வகத்தில் பணிபுரியும்போதும் செயற்கை ஆடைகளை அணியக் கூடாது; ஏனெனில்",
         "options": [
           "செயற்கைத் துணியைத் துவைக்க இயலாது",
-          "செயற்கைத் துணி எல்லா வேதிப்பொருள்களையும் உறிஞ்சும்",
-          "பருத்தித் துணி நீரைவிட மெதுவாக எரியும்",
-          "தீயில் பட்டால் துணி உருகி உடலில் ஒட்டிக்கொண்டு கடும் தீக்காயம் ஏற்படுத்தும்"
+          "செயற்கைத் துணி வேதிப்பொருள்களை உறிஞ்சிப் பரப்பும்",
+          "பருத்தித் துணி செயற்கைத் துணியைவிட விலை அதிகம்",
+          "துணி உருகி உடலில் ஒட்டிக்கொள்ளும்"
         ],
         "explanation": "பருத்தி தீயில் எரியும்; பாலியெஸ்டர் போன்ற செயற்கைத் துணி உருகும்; இது செயற்கை இழைகளின் ஒரு குறைபாடு."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "In summer it is better to wear cotton clothing rather than synthetic clothing because synthetic fibres",
         "options": [
-          "absorb very little moisture and do not allow air circulation",
-          "absorb too much moisture",
-          "are not coloured",
-          "are made of natural cellulose"
+          "absorb little moisture and block air flow",
+          "absorb a lot of sweat and stay wet",
+          "cannot be dyed in bright colours",
+          "are made of natural cellulose fibres"
         ],
         "explanation": "This is also why an umbrella is made of nylon or polyester and not of cotton: such cloth does not let water pass through."
       },
       "ta": {
         "q": "கோடையில் செயற்கை ஆடைகளைவிடப் பருத்தி ஆடைகள் சிறந்தவை; ஏனெனில் செயற்கை இழைகள்",
         "options": [
-          "மிகக் குறைவாகவே ஈரத்தை உறிஞ்சுகின்றன; காற்றோட்டத்தை அனுமதிப்பதில்லை",
-          "மிக அதிக ஈரத்தை உறிஞ்சுகின்றன",
-          "நிறமற்றவை",
-          "இயற்கை செல்லுலோஸால் ஆனவை"
+          "ஈரத்தைக் குறைவாக உறிஞ்சிக் காற்றோட்டத்தைத் தடுப்பவை",
+          "வியர்வையை அதிகம் உறிஞ்சி ஈரமாகவே இருப்பவை",
+          "பளிச்சென்ற நிறங்களில் சாயமிட இயலாதவை",
+          "இயற்கை செல்லுலோஸ் இழைகளால் ஆனவை"
         ],
         "explanation": "இதனால்தான் குடைத் துணி பருத்தியால் அல்லாமல் நைலான் அல்லது பாலியெஸ்டரால் ஆனது; அது நீரைக் கடத்துவதில்லை."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "Which of the following is an advantage of synthetic fibres such as polyester?",
         "options": [
-          "They are heat resistant and never catch fire",
-          "They do not wrinkle easily and keep their colour and brightness for a long time",
-          "They are biodegradable",
-          "They absorb a lot of moisture"
+          "They are fireproof and safe near flames",
+          "They do not wrinkle easily and keep their colour",
+          "They are biodegradable and decompose in soil",
+          "They absorb a lot of moisture and dry slowly"
         ],
         "explanation": "Synthetic fibres are also stronger than many natural fibres like silk or wool, durable and affordable."
       },
       "ta": {
         "q": "பாலியெஸ்டர் போன்ற செயற்கை இழைகளின் நன்மை எது?",
         "options": [
-          "வெப்பத்தைத் தாங்கும்; ஒருபோதும் தீப்பற்றாது",
-          "எளிதில் சுருக்கம் அடையா; நீண்ட காலம் நிறமும் பளபளப்பும் மாறாது",
-          "அவை மட்கும் தன்மை கொண்டவை",
-          "அவை அதிக ஈரத்தை உறிஞ்சுகின்றன"
+          "தீப்பிடிக்காதவை; தீயின் அருகில் பாதுகாப்பானவை",
+          "எளிதில் சுருக்கம் அடையாமல் நிறம் மாறாதவை",
+          "மட்கி மண்ணில் கலக்கும் தன்மை உடையவை",
+          "அதிக ஈரத்தை உறிஞ்சி மெதுவாகக் காய்பவை"
         ],
         "explanation": "செயற்கை இழைகள் பட்டு, கம்பளி போன்ற பல இயற்கை இழைகளைவிட வலிமையானவை, நீடித்தவை, விலை குறைவானவை."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Syringes made of polypropylene are an example of the right application of plastic because they",
         "options": [
-          "are cheaper than all metals",
-          "are made of glass",
-          "need not be sterilised and reused, so they eliminate the risk of spreading diseases",
-          "can be burned to produce energy"
+          "are heavier than glass and steel syringes",
+          "are stronger than steel syringes",
+          "are used once, so they do not spread infection",
+          "can be burned to produce useful energy"
         ],
         "explanation": "Plastics are an excellent material when used for the right application, such as syringes and blood bags, but a thin plastic carry bag used for a few minutes is a wrong application."
       },
       "ta": {
         "q": "பாலிப்ரோப்பிலீன் நெகிழியாலான ஊசிகள் நெகிழியின் சரியான பயன்பாடு எனப்படுவதற்குக் காரணம், அவை",
         "options": [
-          "எல்லா உலோகங்களையும்விட விலை குறைவானவை",
-          "கண்ணாடியால் ஆனவை",
-          "கிருமி நீக்கி மீண்டும் பயன்படுத்தத் தேவையில்லை; எனவே நோய் பரவும் அபாயம் இல்லை",
-          "எரித்து ஆற்றல் பெறத் தகுந்தவை"
+          "கண்ணாடி, எஃகு ஊசிகளைவிட எடை மிகுந்தவை",
+          "எஃகு ஊசிகளைவிட வலிமையானவை",
+          "ஒருமுறை பயன்படுத்துவதால் நோய்த்தொற்று பரவாதவை",
+          "எரித்துப் பயனுள்ள ஆற்றல் பெறத் தகுந்தவை"
         ],
         "explanation": "ஊசிகள், இரத்தப் பைகள் போன்றவை நெகிழியின் சரியான பயன்பாடுகள்; சில நிமிடம் பயன்படுத்தி எறியும் மெல்லிய கைப்பை தவறான பயன்பாடு."
       }
@@ -662,10 +662,10 @@
       "ta": {
         "q": "பேக்கலைட் மின்சுவிட்சுகளையும் பாத்திரப் பிடிகளையும் செய்யப் பயன்படுவதற்குக் காரணம், அது",
         "options": [
-          "மட்கும் பொருள்",
+          "எளிதில் மட்கி மண்ணில் கலப்பது",
           "மின்சாரத்தை நன்கு கடத்துவது",
-          "வெப்பத்தையும் மின்சாரத்தையும் மோசமாகக் கடத்துவது",
-          "ஓர் இயற்கை இழை"
+          "வெப்பம், மின்சாரத்தை மோசமாகக் கடத்துவது",
+          "இயற்கையாகக் கிடைக்கும் இழையாக இருப்பது"
         ],
         "explanation": "மெலமைன் தீயை எதிர்த்து வெப்பத்தைத் தாங்கும்; தரை ஓடுகள், தீ எதிர்ப்புத் துணிகளுக்குப் பயன்படுகிறது."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "Why do thermosetting plastics remain hard when heated, while thermoplastics soften?",
         "options": [
-          "They are made of natural cellulose",
-          "Their polymer chains are held only by weak forces of attraction",
-          "They have no polymer chains",
-          "Their polymer chains are held by strong covalent cross-links that do not break on heating"
+          "They are made of natural cellulose fibres",
+          "Their polymer chains are held together by weak attractions",
+          "They contain no polymer chains",
+          "Their polymer chains are cross-linked by strong covalent bonds"
         ],
         "explanation": "In thermoplastics the tangled polymer chains have no cross-links and only weak forces of attraction between them."
       },
       "ta": {
         "q": "வெப்பத்தால் இளகும் நெகிழிகள் மென்மையாகும்போது, வெப்பத்தால் இறுகும் நெகிழிகள் கடினமாகவே இருப்பது ஏன்?",
         "options": [
-          "அவை இயற்கை செல்லுலோஸால் ஆனவை",
-          "அவற்றின் சங்கிலிகள் வலுவற்ற கவர்ச்சி விசைகளால் மட்டுமே பிணைக்கப்பட்டுள்ளன",
-          "அவற்றில் பலபடிச் சங்கிலிகளே இல்லை",
-          "அவற்றின் பலபடிச் சங்கிலிகள் வெப்பத்தால் உடையாத வலிய சகப்பிணைப்புக் குறுக்கிணைப்புகளால் பிணைக்கப்பட்டுள்ளன"
+          "அவை இயற்கை செல்லுலோஸ் இழைகளால் ஆனவை",
+          "அவற்றின் சங்கிலிகள் வலுவற்ற கவர்ச்சி விசைகளால் பிணைக்கப்பட்டுள்ளன",
+          "அவற்றில் பலபடிச் சங்கிலிகள் இல்லை",
+          "அவற்றின் சங்கிலிகள் வலிய சகப்பிணைப்புகளால் குறுக்கிணைக்கப்பட்டுள்ளன"
         ],
         "explanation": "வெப்பத்தால் இளகும் நெகிழிகளில் பின்னிய சங்கிலிகளுக்கிடையே குறுக்கிணைப்பு இல்லை; வலுவற்ற கவர்ச்சி விசை மட்டுமே உண்டு."
       }
@@ -797,10 +797,10 @@
       "en": {
         "q": "Animals in urban areas, particularly cows, often eat polythene bags by accident because the bags",
         "options": [
-          "are brightly coloured",
-          "are made of grass",
-          "taste sweet",
-          "contain leftover food waste that the animals smell"
+          "are brightly coloured and attractive",
+          "are made of dried grass",
+          "are coated with sugar and salt",
+          "hold food scraps that the animals smell"
         ],
         "explanation": "Plastics cannot be digested in the animal's stomach and can reduce the space for food, leading to starvation."
       },
@@ -808,9 +808,9 @@
         "q": "நகரப் பகுதிகளில் மாடுகள் போன்ற விலங்குகள் பாலிதீன் பைகளைத் தவறுதலாக உண்பதற்குக் காரணம், அப்பைகளில்",
         "options": [
           "பளிச்சென்ற நிறம் இருப்பது",
-          "புல் இருப்பது",
-          "இனிப்புச் சுவை இருப்பது",
-          "மீதமுள்ள உணவுக் கழிவுகள் இருப்பதால் அவற்றின் மணத்தை விலங்குகள் நுகர்வது"
+          "உலர்ந்த புல் கலந்திருப்பது",
+          "சர்க்கரை, உப்பு பூசப்பட்டிருப்பது",
+          "உணவு மணம் வீசும் கழிவுகள் ஒட்டியிருப்பது"
         ],
         "explanation": "நெகிழி விலங்கின் வயிற்றில் செரிக்காது; உணவுக்கான இடத்தைக் குறைத்துப் பட்டினிக்கும் இட்டுச்செல்லலாம்."
       }
@@ -827,9 +827,9 @@
         "q": "Microbeads, a kind of microplastic, are found in household products such as",
         "options": [
           "toothpaste, face wash and body scrubs",
-          "milk, curd and butter",
-          "salt, sugar and rice",
-          "cotton, wool and silk"
+          "milk, curd, butter and ghee",
+          "salt, sugar, rice and wheat flour",
+          "cotton, wool, silk and jute"
         ],
         "explanation": "Microbeads are washed down the drains and end up in soil, rivers, lakes and the ocean, where they cause pollution."
       },
@@ -837,9 +837,9 @@
         "q": "நுண் நெகிழி வகையான நுண்மணிகள் (microbeads) காணப்படும் வீட்டுப் பொருள்கள்",
         "options": [
           "பற்பசை, முகம் கழுவும் திரவம், உடல் தேய்ப்பான்",
-          "பால், தயிர், வெண்ணெய்",
-          "உப்பு, சர்க்கரை, அரிசி",
-          "பருத்தி, கம்பளி, பட்டு"
+          "பால், தயிர், வெண்ணெய், நெய்",
+          "உப்பு, சர்க்கரை, அரிசி, கோதுமை மாவு",
+          "பருத்தி, கம்பளி, பட்டு, சணல்"
         ],
         "explanation": "நுண்மணிகள் வடிகால்கள் வழியாக மண், ஆறு, ஏரி, கடலில் சேர்ந்து மாசுபாட்டை ஏற்படுத்துகின்றன."
       }
@@ -856,7 +856,7 @@
         "q": "Dangerous pollutants floating in the ocean stick to microplastics and make them toxic. These pollutants are called",
         "options": [
           "Polymerised Organic Particles",
-          "Persistent Organic Pollutants (POPs)",
+          "Persistent Organic Pollutants",
           "Plastic Oxide Products",
           "Petroleum Oil Powders"
         ],
@@ -866,7 +866,7 @@
         "q": "கடலில் மிதக்கும், நுண் நெகிழித் துண்டுகளில் ஒட்டிக்கொண்டு அவற்றை நச்சாக்கும் ஆபத்தான மாசுகள்",
         "options": [
           "பலபடியாக்கப்பட்ட கரிமத் துகள்கள்",
-          "நிலைத்திருக்கும் கரிம மாசுகள் (POPs)",
+          "நிலைத்திருக்கும் கரிம மாசுகள்",
           "நெகிழி ஆக்சைடு பொருள்கள்",
           "பெட்ரோலிய எண்ணெய்த் தூள்கள்"
         ],
@@ -884,20 +884,20 @@
       "en": {
         "q": "Poly Lactic Acid (PLA), a biodegradable and compostable thermoplastic, is obtained from",
         "options": [
-          "natural rubber",
-          "petroleum oil",
-          "plant starch such as corn, sugarcane and sugar beet pulp",
-          "sand"
+          "natural rubber latex from trees",
+          "petroleum oil and natural gas",
+          "plant starch from corn and sugarcane",
+          "sand and limestone"
         ],
         "explanation": "PLA is useful for making food packaging, garbage bags and disposable tableware."
       },
       "ta": {
         "q": "மட்கும், உரமாக்கத்தக்க வெப்பத்தால் இளகும் நெகிழியான பாலி லாக்டிக் அமிலம் (PLA) பெறப்படுவது",
         "options": [
-          "இயற்கை ரப்பரிலிருந்து",
-          "பெட்ரோலிய எண்ணெயிலிருந்து",
-          "சோளம், கரும்பு, சர்க்கரைக் கிழங்குக் கூழ் போன்ற தாவர மாவுப்பொருளிலிருந்து",
-          "மணலிலிருந்து"
+          "மரங்களிலிருந்து கிடைக்கும் இயற்கை ரப்பர் பாலிலிருந்து",
+          "பெட்ரோலிய எண்ணெய், இயற்கை வாயுவிலிருந்து",
+          "சோளம், கரும்பு போன்றவற்றின் தாவர மாவுப்பொருளிலிருந்து",
+          "மணல், சுண்ணாம்புக் கல்லிலிருந்து"
         ],
         "explanation": "PLA உணவுப் பொதிகள், குப்பைப் பைகள், தூக்கி எறியும் மேசைப் பாத்திரங்கள் செய்யப் பயன்படுகிறது."
       }
@@ -942,18 +942,18 @@
       "en": {
         "q": "According to the 5R principle and the waste pyramid, which is the best way to manage plastic waste?",
         "options": [
-          "Refuse (avoid using plastic products)",
-          "Recycle",
-          "Recover by incineration",
-          "Landfill"
+          "Refuse plastic products",
+          "Recycle plastic waste",
+          "Recover energy by incineration",
+          "Dispose of waste in landfill"
         ],
         "explanation": "The order from the best to the least favourable option is Refuse, Reduce, Reuse, Recycle, Recover and Landfill."
       },
       "ta": {
         "q": "5R கொள்கை, கழிவுப் பிரமிடு ஆகியவற்றின்படி நெகிழிக் கழிவை நிர்வகிக்கும் சிறந்த வழி எது?",
         "options": [
-          "மறுத்தல் (நெகிழிப் பொருள்களைத் தவிர்த்தல்)",
-          "மறுசுழற்சி",
+          "நெகிழிப் பொருள்களை மறுத்தல்",
+          "நெகிழிக் கழிவை மறுசுழற்சி செய்தல்",
           "எரித்து ஆற்றல் பெறுதல்",
           "குப்பை நிரப்பு நிலத்தில் புதைத்தல்"
         ],
@@ -1012,7 +1012,7 @@
         "options": [
           "வெப்பத்தால் இறுகும் பொருள்",
           "மட்காத பொருள்",
-          "மட்கும் பொருள் (biodegradable)",
+          "மட்கும் பொருள்",
           "செயற்கைப் பொருள்"
         ],
         "explanation": "காய்கறித் தோல் போன்ற கரிமக் கழிவுகளை மண்ணிலுள்ள பாக்டீரியா சிதைத்து மட்கு உரமாக்குகின்றன."
@@ -1039,10 +1039,10 @@
       "ta": {
         "q": "நெகிழி உருக்கி மறுசுழற்சி செய்யப்படும் ஒவ்வொரு முறையும் அதன் தரம் குறைவது எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "மறுத்தல்",
-          "மட்கு உரமாக்கல்",
-          "பலபடியாக்கல்",
-          "தரம் குறைந்த மறுசுழற்சி (downcycling)"
+          "நெகிழிப் பொருளை மறுத்தல்",
+          "மட்கு உரமாக்கல் முறை",
+          "பலபடியாக்கல் வினை",
+          "தரம் குறைந்த மறுசுழற்சி"
         ],
         "explanation": "பல வெப்பத்தால் இளகும் நெகிழிகளை மறுசுழற்சி செய்யலாம்; வெப்பத்தால் இறுகும் நெகிழிகளை இயலாது; நெகிழியை என்றென்றும் மறுசுழற்சி செய்ய முடியாது."
       }
@@ -1088,9 +1088,9 @@
         "q": "Degradable plastics, made from petroleum with an additive that makes them break down faster, finally",
         "options": [
           "break down completely into harmless compost",
-          "break into tiny pieces called microplastics that stay in the environment for a very long time",
-          "turn into glass",
-          "turn into natural fibres"
+          "break into tiny pieces called microplastics",
+          "dissolve in water and disappear",
+          "turn into natural rubber again"
         ],
         "explanation": "Compostable plastics, made from renewable resources such as corn and sugarcane, can be broken down completely by microbes."
       },
@@ -1098,9 +1098,9 @@
         "q": "பெட்ரோலியத்திலிருந்து தயாரிக்கப்பட்டுச் சிதைவை விரைவுபடுத்தும் சேர்க்கைப்பொருள் கொண்ட சிதையும் நெகிழிகள் இறுதியில்",
         "options": [
           "தீங்கற்ற மட்கு உரமாக முழுமையாகச் சிதையும்",
-          "நுண் நெகிழிகள் எனப்படும் சிறு துண்டுகளாக உடைந்து நீண்ட காலம் சூழலில் தங்கும்",
-          "கண்ணாடியாக மாறும்",
-          "இயற்கை இழைகளாக மாறும்"
+          "நுண் நெகிழிகள் எனப்படும் சிறு துண்டுகளாக உடையும்",
+          "நீரில் கரைந்து மறைந்துவிடும்",
+          "மீண்டும் இயற்கை ரப்பராக மாறும்"
         ],
         "explanation": "சோளம், கரும்பு போன்ற புதுப்பிக்கத்தக்க வளங்களிலிருந்து தயாரிக்கப்படும் உரமாக்கத்தக்க நெகிழிகளை நுண்ணுயிரிகள் முழுமையாகச் சிதைக்கும்."
       }
@@ -1174,7 +1174,7 @@
       "en": {
         "q": "Glass is prepared by heating which compound until it melts, adding sodium carbonate and then cooling it very fast?",
         "options": [
-          "Silicon dioxide (SiO₂)",
+          "Silicon dioxide",
           "Calcium oxide",
           "Sodium chloride",
           "Carbon dioxide"
@@ -1184,7 +1184,7 @@
       "ta": {
         "q": "எந்தச் சேர்மத்தை உருகும் வரை சூடாக்கி, சோடியம் கார்பனேட் சேர்த்து, மிக விரைவாகக் குளிர்வித்தால் கண்ணாடி கிடைக்கிறது?",
         "options": [
-          "சிலிக்கான் டைஆக்சைடு (SiO₂)",
+          "சிலிக்கான் டைஆக்சைடு",
           "கால்சியம் ஆக்சைடு",
           "சோடியம் குளோரைடு",
           "கார்பன் டைஆக்சைடு"
@@ -1214,7 +1214,7 @@
         "q": "உருகிய சிலிக்காவை மிக விரைவாகக் குளிர்விக்கும்போது அணுக்கள் ஒழுங்கான படிகமாக அடுக்கப்பட நேரம் கிடைப்பதில்லை. அணுக்களின் அமைப்பில் ஒழுங்கு இல்லாத இத்தகைய பொருள்",
         "options": [
           "படிக வடிவானது",
-          "படிகமற்றது (amorphous)",
+          "படிகமற்றது",
           "வெப்பத்தால் இறுகுவது",
           "மட்கும் தன்மை உடையது"
         ],

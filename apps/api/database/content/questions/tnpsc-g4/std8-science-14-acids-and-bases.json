@@ -72,20 +72,20 @@
       "en": {
         "q": "Copper and brass cooking vessels are coated with tin (eyam) because",
         "options": [
-          "tin gives the vessel a golden colour",
-          "tin makes the vessel heat up faster",
-          "organic acids in food would otherwise react with copper and make the food poisonous",
-          "copper reacts with water at any temperature"
+          "tin gives the vessel an attractive golden colour",
+          "tin makes the vessel heat up much faster than copper",
+          "food acids would otherwise react with copper and poison the food",
+          "copper reacts with water even at room temperature"
         ],
         "explanation": "The tin layer isolates the copper from the action of the acids in food and so prevents food poisoning."
       },
       "ta": {
         "q": "செம்பு, பித்தளைச் சமையல் பாத்திரங்களுக்கு ஈயம் (தகரம்) பூசப்படுவதற்குக் காரணம்",
         "options": [
-          "ஈயம் பாத்திரத்துக்குத் தங்க நிறம் தரும்",
-          "ஈயம் பாத்திரத்தை விரைவாகச் சூடாக்கும்",
-          "இல்லாவிட்டால் உணவிலுள்ள கரிம அமிலங்கள் தாமிரத்துடன் வினைபுரிந்து உணவை நச்சாக்கும்",
-          "தாமிரம் எந்த வெப்பநிலையிலும் நீருடன் வினைபுரியும்"
+          "ஈயம் பாத்திரத்துக்கு அழகான தங்க நிறம் தருகிறது",
+          "ஈயம் தாமிரத்தைவிடப் பாத்திரத்தை மிக விரைவாகச் சூடாக்குகிறது",
+          "உணவிலுள்ள அமிலங்கள் தாமிரத்துடன் வினைபுரிந்து உணவை நச்சாக்கும்",
+          "தாமிரம் அறை வெப்பநிலையிலும் நீருடன் வினைபுரியும்"
         ],
         "explanation": "ஈய அடுக்கு உணவிலுள்ள அமிலங்களின் வினையிலிருந்து தாமிரத்தைப் பிரித்து உணவு நச்சாவதைத் தடுக்கிறது."
       }
@@ -131,19 +131,19 @@
         "q": "Which statement about alkalis is correct?",
         "options": [
           "Alkalis are water-soluble bases, so all alkalis are bases but not all bases are alkalis",
-          "All bases are alkalis",
-          "Alkalis are acids that dissolve in water",
-          "Alkalis release hydrogen ions in water"
+          "Every base is an alkali because every base dissolves readily in water",
+          "Alkalis are acids that dissolve in water and turn blue litmus red",
+          "Alkalis release hydrogen ions in water, which makes the solution acidic"
         ],
         "explanation": "Sodium hydroxide, potassium hydroxide and ammonium hydroxide are alkalis; bases release hydroxide (OH⁻) ions in water."
       },
       "ta": {
         "q": "காரங்கள் (Alkalis) பற்றிய சரியான கூற்று எது?",
         "options": [
-          "நீரில் கரையும் உப்புமூலங்களே காரங்கள்; எனவே எல்லாக் காரங்களும் உப்புமூலங்கள், ஆனால் எல்லா உப்புமூலங்களும் காரங்கள் அல்ல",
-          "எல்லா உப்புமூலங்களும் காரங்கள்",
-          "காரங்கள் நீரில் கரையும் அமிலங்கள்",
-          "காரங்கள் நீரில் ஹைட்ரஜன் அயனிகளை வெளியிடுகின்றன"
+          "நீரில் கரையும் உப்புமூலங்களே காரங்கள்; எல்லாக் காரங்களும் உப்புமூலங்கள், எல்லா உப்புமூலங்களும் காரங்கள் அல்ல",
+          "எல்லா உப்புமூலங்களும் நீரில் எளிதில் கரைவதால், எல்லா உப்புமூலங்களுமே காரங்கள் ஆகும் என்று கூறலாம்",
+          "காரங்கள் என்பவை நீரில் கரைந்து நீல லிட்மஸ் தாளைச் சிவப்பாக மாற்றும் அமிலங்கள் என்று அழைக்கப்படுகின்றன",
+          "காரங்கள் நீரில் ஹைட்ரஜன் அயனிகளை வெளியிட்டுக் கரைசலை அமிலத் தன்மை உடையதாக்கும் தன்மை கொண்டவை"
         ],
         "explanation": "சோடியம் ஹைட்ராக்சைடு, பொட்டாசியம் ஹைட்ராக்சைடு, அம்மோனியம் ஹைட்ராக்சைடு ஆகியவை காரங்கள்; உப்புமூலங்கள் நீரில் ஹைட்ராக்சைடு (OH⁻) அயனிகளை வெளியிடுகின்றன."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "Brushing with toothpaste helps prevent tooth decay because toothpaste",
         "options": [
-          "adds calcium hydroxide to the enamel",
-          "contains acids that kill bacteria",
-          "contains weak bases that neutralise the acid formed by bacteria in the mouth",
-          "is neutral and only removes food particles"
+          "adds calcium hydroxide directly to the enamel of the teeth",
+          "contains strong acids that kill the bacteria in the mouth",
+          "contains weak bases that neutralise the acid made by bacteria",
+          "is neutral and removes the food particles stuck on teeth"
         ],
         "explanation": "Bacteria in the mouth decompose food particles stuck between the teeth and produce acid, which causes tooth decay."
       },
       "ta": {
         "q": "பற்பசையால் பல் துலக்குவது பல் சொத்தையைத் தடுப்பதற்குக் காரணம், பற்பசை",
         "options": [
-          "பற்சிப்பிக்குக் கால்சியம் ஹைட்ராக்சைடைச் சேர்க்கிறது",
-          "பாக்டீரியாக்களைக் கொல்லும் அமிலங்களைக் கொண்டுள்ளது",
-          "வாயிலுள்ள பாக்டீரியாக்கள் உண்டாக்கும் அமிலத்தை நடுநிலையாக்கும் வலிமை குறைந்த உப்புமூலங்களைக் கொண்டுள்ளது",
-          "நடுநிலையானது; உணவுத் துகள்களை மட்டும் நீக்குகிறது"
+          "பற்சிப்பியில் நேரடியாகக் கால்சியம் ஹைட்ராக்சைடைச் சேர்க்கிறது",
+          "வாயிலுள்ள பாக்டீரியாக்களைக் கொல்லும் வலிய அமிலங்களைக் கொண்டுள்ளது",
+          "பாக்டீரியா உண்டாக்கும் அமிலத்தை நடுநிலையாக்கும் மென் உப்புமூலங்களைக் கொண்டுள்ளது",
+          "நடுநிலையானது; பற்களில் சிக்கிய உணவுத் துகள்களை நீக்குகிறது"
         ],
         "explanation": "பற்களின் இடுக்குகளில் சிக்கிய உணவுத் துகள்களை வாயிலுள்ள பாக்டீரியாக்கள் சிதைத்து அமிலத்தை உண்டாக்குகின்றன; அதுவே பல் சொத்தைக்குக் காரணம்."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "To neutralise acidic soil, farmers add",
         "options": [
-          "ammonium chloride",
-          "vinegar",
-          "sulphuric acid",
-          "powdered lime, limestone or ashes of burnt wood"
+          "ammonium chloride or ammonium nitrate",
+          "vinegar or diluted lemon juice",
+          "dilute sulphuric acid solution",
+          "powdered lime, limestone or wood ash"
         ],
         "explanation": "Power stations likewise treat acidic sulphur dioxide from burning coal with powdered lime or limestone, and industrial effluents containing acids are neutralised with lime."
       },
       "ta": {
         "q": "அமிலத்தன்மையுள்ள மண்ணை நடுநிலையாக்க உழவர்கள் சேர்ப்பது",
         "options": [
-          "அம்மோனியம் குளோரைடு",
-          "வினிகர்",
-          "கந்தக அமிலம்",
-          "சுண்ணாம்புத் தூள், சுண்ணாம்புக்கல் அல்லது எரிந்த மரச் சாம்பல்"
+          "அம்மோனியம் குளோரைடு அல்லது அம்மோனியம் நைட்ரேட்",
+          "வினிகர் அல்லது நீர்த்த எலுமிச்சைச் சாறு",
+          "நீர்த்த கந்தக அமிலக் கரைசல்",
+          "சுண்ணாம்புத் தூள், சுண்ணாம்புக்கல் அல்லது மரச் சாம்பல்"
         ],
         "explanation": "அதுபோல் நிலக்கரி எரிப்பால் உண்டாகும் அமிலத்தன்மையுள்ள சல்பர் டைஆக்சைடை மின் நிலையங்கள் சுண்ணாம்புத் தூள் அல்லது சுண்ணாம்புக்கல்லால் நடுநிலையாக்குகின்றன; அமிலம் கொண்ட தொழிற்சாலைக் கழிவுகளும் சுண்ணாம்பால் நடுநிலையாக்கப்படுகின்றன."
       }

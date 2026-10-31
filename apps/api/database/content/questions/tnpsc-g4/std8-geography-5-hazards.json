@@ -43,8 +43,8 @@
       "en": {
         "q": "Hazards caused by the combined effect of natural forces and human misdeeds, such as floods worsened by deforestation or storm surges worsened by the destruction of mangroves, are called",
         "options": [
-          "purely natural hazards",
-          "socio-natural (quasi-natural) hazards",
+          "natural hazards",
+          "socio-natural hazards",
           "technological hazards",
           "biological hazards"
         ],
@@ -53,8 +53,8 @@
       "ta": {
         "q": "காடழிப்பால் மோசமாகும் வெள்ளம், சதுப்புநிலக் காடுகள் அழிவால் மோசமாகும் புயல் எழுச்சி போன்று இயற்கை சக்திகளும் மனிதத் தவறுகளும் இணைந்து ஏற்படுத்தும் இடர்கள்",
         "options": [
-          "முழுமையான இயற்கை இடர்கள்",
-          "சமூக-இயற்கை (பகுதி-இயற்கை) இடர்கள்",
+          "இயற்கை இடர்கள்",
+          "சமூக-இயற்கை இடர்கள்",
           "தொழில்நுட்ப இடர்கள்",
           "உயிரியல் இடர்கள்"
         ],
@@ -101,10 +101,10 @@
       "en": {
         "q": "In the seismic zoning map used in the textbook, the Bureau of Indian Standards groups India into",
         "options": [
-          "six zones, Zone I to Zone VI",
-          "five zones, Zone I to Zone V",
-          "three zones, Zone I to Zone III",
-          "four zones, Zone II to Zone V, with no area in Zone I"
+          "six zones, from Zone I to Zone VI",
+          "five zones, from Zone I to Zone V",
+          "three zones, from Zone I to Zone III",
+          "four zones, from Zone II to Zone V"
         ],
         "explanation": "Zone V carries very high risk and Zone II low risk. (This is the older BIS map used in the textbook; the 2025 revision of IS 1893 re-drew the zones.)"
       },
@@ -114,7 +114,7 @@
           "மண்டலம் I முதல் VI வரை ஆறு மண்டலங்கள்",
           "மண்டலம் I முதல் V வரை ஐந்து மண்டலங்கள்",
           "மண்டலம் I முதல் III வரை மூன்று மண்டலங்கள்",
-          "மண்டலம் II முதல் V வரை நான்கு மண்டலங்கள்; மண்டலம் I இல் பகுதி எதுவுமில்லை"
+          "மண்டலம் II முதல் V வரை நான்கு மண்டலங்கள்"
         ],
         "explanation": "மண்டலம் V மிக அதிக அபாயமும், மண்டலம் II குறைந்த அபாயமும் கொண்டவை. (இது பாடநூலில் உள்ள பழைய BIS வரைபடம்; 2025இல் IS 1893 திருத்தத்தில் மண்டலங்கள் மாற்றியமைக்கப்பட்டன.)"
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "The Chernobyl nuclear accident, described as the largest nuclear accident in history, occurred in",
         "options": [
-          "1986, in the then Soviet Union (now Ukraine)",
+          "1986, in the then Soviet Union",
           "1979, in the United States",
-          "2011, in Japan",
-          "1984, in India"
+          "2011, in northern Japan",
+          "1984, in central India"
         ],
         "explanation": "It happened on 26 April 1986; over 3.5 lakh people were evacuated, and in 2016 the Ukrainian part of the exclusion zone was declared a radiological and environmental biosphere reserve."
       },
       "ta": {
         "q": "வரலாற்றின் மிகப்பெரிய அணுவிபத்தாகக் கருதப்படும் செர்னோபில் அணுவிபத்து நிகழ்ந்தது",
         "options": [
-          "1986 இல், அன்றைய சோவியத் ஒன்றியத்தில் (இன்றைய உக்ரைன்)",
-          "1979 இல், அமெரிக்காவில்",
-          "2011 இல், ஜப்பானில்",
-          "1984 இல், இந்தியாவில்"
+          "1986 இல், அன்றைய சோவியத் ஒன்றியத்தில்",
+          "1979 இல், அமெரிக்க ஐக்கிய நாடுகளில்",
+          "2011 இல், வடக்கு ஜப்பானில்",
+          "1984 இல், மத்திய இந்தியாவில்"
         ],
         "explanation": "இது 1986 ஏப்ரல் 26 அன்று நிகழ்ந்தது; 3.5 லட்சத்துக்கும் மேற்பட்டோர் வெளியேற்றப்பட்டனர்; 2016 இல் விலக்கு மண்டலத்தின் உக்ரைன் பகுதி கதிரியக்க, சுற்றுச்சூழல் உயிர்க்கோளக் காப்பகமாக அறிவிக்கப்பட்டது."
       }

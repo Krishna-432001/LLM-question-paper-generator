@@ -43,20 +43,20 @@
       "en": {
         "q": "NASA's Mars Climate Orbiter was lost in September 1999 mainly because",
         "options": [
-          "its solar panels failed in the Martian dust",
-          "one team used the FPS system of units while the other used the MKS system",
-          "it collided with Phobos",
-          "its rocket engine exploded at launch"
+          "its solar panels failed because of Martian dust storms",
+          "one team used FPS units while the other used MKS units",
+          "it collided with Phobos, the Martian moon, on arrival",
+          "its rocket engine exploded a few minutes after launch"
         ],
         "explanation": "The unit mix-up between the spacecraft team and the navigation team caused a loss of about 125 million dollars, showing the need for a uniform system of units."
       },
       "ta": {
         "q": "நாசாவின் செவ்வாய் காலநிலைச் சுற்றுக்கலம் (Mars Climate Orbiter) 1999 செப்டம்பரில் தொலைந்ததற்கு முக்கியக் காரணம்",
         "options": [
-          "செவ்வாய்த் தூசியால் அதன் சூரியத் தகடுகள் செயலிழந்தன",
-          "ஒரு குழு FPS அலகு முறையையும் மற்றொரு குழு MKS அலகு முறையையும் பயன்படுத்தியது",
-          "அது ஃபோபோஸ் நிலவுடன் மோதியது",
-          "ஏவுதலின்போது அதன் ராக்கெட் இயந்திரம் வெடித்தது"
+          "செவ்வாய்த் தூசிப் புயல்களால் அதன் சூரியத் தகடுகள் செயலிழந்தன",
+          "ஒரு குழு FPS அலகுகளையும் மற்றொரு குழு MKS அலகுகளையும் பயன்படுத்தியது",
+          "செவ்வாயின் நிலவான ஃபோபோஸுடன் வந்து சேரும்போது மோதியது",
+          "ஏவிய சில நிமிடங்களில் அதன் ராக்கெட் இயந்திரம் வெடித்தது"
         ],
         "explanation": "விண்கலக் குழுவுக்கும் வழிநடத்தல் குழுவுக்கும் இடையிலான அலகுக் குழப்பம் சுமார் 125 மில்லியன் டாலர் இழப்பை ஏற்படுத்தியது; ஒரே அலகு முறையின் தேவையை இது காட்டுகிறது."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "Greenwich Mean Time (GMT) is the mean solar time at",
         "options": [
-          "the Equator at 0° latitude",
-          "Mirzapur, on 82.5° E longitude",
-          "the International Date Line",
-          "the Royal Observatory, Greenwich, London, on the zero-degree longitude"
+          "the Equator at 0° latitude on the Earth",
+          "Mirzapur in Uttar Pradesh, on 82.5° E longitude",
+          "the International Date Line in the Pacific Ocean",
+          "the Royal Observatory at Greenwich on the zero longitude"
         ],
         "explanation": "Each of the 24 time zones is 15° of longitude wide, and adjacent zones differ by one hour; IST, based on 82.5° E near Mirzapur, is GMT + 5:30 hours."
       },
       "ta": {
         "q": "கிரீன்விச் சராசரி நேரம் (GMT) என்பது எந்த இடத்தின் சராசரி சூரிய நேரம்?",
         "options": [
-          "0° அட்சரேகையில் உள்ள நிலநடுக்கோடு",
-          "82.5° கி. தீர்க்கரேகையில் உள்ள மிர்சாபூர்",
-          "பன்னாட்டுத் தேதிக்கோடு",
-          "லண்டன், கிரீன்விச்சில் சுழிய தீர்க்கரேகையில் உள்ள அரச வானாய்வகம்"
+          "புவியின் 0° அட்சரேகையில் உள்ள நிலநடுக்கோடு",
+          "உத்தரப் பிரதேசத்தின் மிர்சாபூர், 82.5° கி. தீர்க்கரேகையில்",
+          "பசிபிக் பெருங்கடலில் உள்ள பன்னாட்டுத் தேதிக்கோடு",
+          "சுழிய தீர்க்கரேகையில் உள்ள கிரீன்விச் அரச வானாய்வகம்"
         ],
         "explanation": "24 நேர மண்டலங்கள் ஒவ்வொன்றும் 15° தீர்க்க அகலம் கொண்டவை; அடுத்தடுத்த மண்டலங்களுக்கு ஒரு மணி நேர வேறுபாடு; மிர்சாபூர் அருகே 82.5° கி. அடிப்படையிலான IST = GMT + 5:30 மணி."
       }
@@ -372,7 +372,7 @@
       "ta": {
         "q": "ஒரு வில்லாளரின் அம்புகள் அனைத்தும் ஒன்றுக்கொன்று அருகில், ஆனால் இலக்கின் மையத்திலிருந்து விலகி விழுகின்றன. அவர்",
         "options": [
-          "நுட்பமானவர் (precise), ஆனால் துல்லியமற்றவர் (not accurate)",
+          "நுட்பமானவர், ஆனால் துல்லியமற்றவர்",
           "துல்லியமானவர், ஆனால் நுட்பமற்றவர்",
           "நுட்பமும் துல்லியமும் உடையவர்",
           "நுட்பமும் துல்லியமும் அற்றவர்"

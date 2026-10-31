@@ -43,20 +43,20 @@
       "en": {
         "q": "The water cycle is considered a closed system for the Earth because",
         "options": [
-          "water never moves from the oceans to the land",
-          "the total quantity of water in the cycle does not change, though its distribution varies",
+          "water moves from the land to the oceans but not back",
+          "the total quantity of water in the cycle stays the same",
           "the cycle is driven by the Moon rather than the Sun",
-          "water is continuously lost to outer space"
+          "water is steadily lost to outer space every year"
         ],
         "explanation": "The hydrological cycle is a sun-driven process moving water from oceans to atmosphere, atmosphere to land, and land back to the oceans."
       },
       "ta": {
         "q": "நீர்ச் சுழற்சி புவிக்கு ஒரு மூடிய அமைப்பாகக் கருதப்படக் காரணம்",
         "options": [
-          "நீர் ஒருபோதும் கடலிலிருந்து நிலத்துக்கு நகர்வதில்லை",
-          "சுழற்சியில் உள்ள நீரின் மொத்த அளவு மாறுவதில்லை; அதன் பரவல் மட்டுமே மாறுகிறது",
+          "நீர் நிலத்திலிருந்து கடலுக்கு நகர்கிறது; திரும்புவதில்லை",
+          "சுழற்சியிலுள்ள நீரின் மொத்த அளவு ஒரே அளவில் இருக்கிறது",
           "சுழற்சி சூரியனால் அல்ல, நிலவால் இயக்கப்படுகிறது",
-          "நீர் தொடர்ந்து விண்வெளிக்கு இழக்கப்படுகிறது"
+          "ஒவ்வோர் ஆண்டும் நீர் படிப்படியாக விண்வெளிக்கு இழக்கப்படுகிறது"
         ],
         "explanation": "நீரியல் சுழற்சி சூரிய ஆற்றலால் இயங்கி, நீரைக் கடலிலிருந்து வளிமண்டலத்துக்கும், அங்கிருந்து நிலத்துக்கும், மீண்டும் கடலுக்கும் கொண்டுசெல்கிறது."
       }
@@ -101,9 +101,9 @@
       "en": {
         "q": "The total loss of water from the Earth through evaporation from water bodies and transpiration from vegetation is called",
         "options": [
-          "infiltration",
-          "condensation",
-          "percolation",
+          "infiltration into soil",
+          "condensation of vapour",
+          "percolation into rocks",
           "evapotranspiration"
         ],
         "explanation": "In cropped areas it is hard to measure evaporation and transpiration separately, so they are combined."
@@ -114,7 +114,7 @@
           "நீர் ஊடுருவல்",
           "சுருங்குதல்",
           "நீர் உட்கசிதல்",
-          "ஆவியீர்ப்பு (evapotranspiration)"
+          "ஆவியீர்ப்பு"
         ],
         "explanation": "பயிர் நிலங்களில் ஆவியாதலையும் நீராவிப்போக்கையும் தனித்தனியே அளப்பது கடினம் என்பதால் இரண்டும் இணைத்துக் குறிப்பிடப்படுகின்றன."
       }

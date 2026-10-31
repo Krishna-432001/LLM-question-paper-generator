@@ -72,20 +72,20 @@
       "en": {
         "q": "The use of which safety gear has been brought under law because it reduces the severity of injury in accidents?",
         "options": [
-          "Reflective jackets for passengers",
-          "Gloves for all drivers",
-          "Seat belts in four-wheelers and helmets for two-wheelers",
-          "Knee pads for cyclists"
+          "Reflective jackets for all passengers",
+          "Protective gloves for two-wheeler riders",
+          "Seat belts and two-wheeler helmets",
+          "Knee and elbow pads for cyclists"
         ],
         "explanation": "Avoiding seat belts and helmets is a major reason for serious injury, so both are compulsory by law."
       },
       "ta": {
         "q": "விபத்தில் காயத்தின் தீவிரத்தைக் குறைப்பதால் எந்தப் பாதுகாப்புக் கருவிகளின் பயன்பாடு சட்டப்படி கட்டாயமாக்கப்பட்டுள்ளது?",
         "options": [
-          "பயணிகளுக்கு ஒளிரும் மேலாடை",
-          "அனைத்து ஓட்டுநர்களுக்கும் கையுறை",
-          "நான்கு சக்கர வாகனங்களில் இருக்கைப் பட்டை, இரு சக்கர வாகனங்களுக்குத் தலைக்கவசம்",
-          "மிதிவண்டி ஓட்டுவோருக்கு முழங்கால் கவசம்"
+          "பயணிகள் அனைவருக்கும் ஒளிரும் மேலாடை",
+          "இரு சக்கர ஓட்டுநர்களுக்குப் பாதுகாப்புக் கையுறை",
+          "இருக்கைப் பட்டையும் இரு சக்கரத் தலைக்கவசமும்",
+          "மிதிவண்டி ஓட்டுவோருக்கு முழங்கால், முழங்கை கவசம்"
         ],
         "explanation": "இருக்கைப் பட்டையும் தலைக்கவசமும் அணியாதது கடுமையான காயத்திற்கு முக்கியக் காரணம்; எனவே இரண்டும் சட்டப்படி கட்டாயம்."
       }
@@ -130,20 +130,20 @@
       "en": {
         "q": "The free 108 Emergency Response Service provides",
         "options": [
-          "integrated medical (ambulance), police and fire services",
-          "only police help",
-          "only roadside vehicle repair",
-          "only railway enquiry"
+          "integrated medical, police and fire services",
+          "police help during street crimes and thefts",
+          "roadside vehicle repair and towing services",
+          "railway ticket booking and enquiry services"
         ],
         "explanation": "If you find road accident victims, don't panic: call 108 for help and 103 for traffic accidents."
       },
       "ta": {
         "q": "இலவச 108 அவசரச் சேவை வழங்குவது",
         "options": [
-          "ஒருங்கிணைந்த மருத்துவ (ஆம்புலன்ஸ்), காவல், தீயணைப்புச் சேவைகள்",
-          "காவல் உதவி மட்டும்",
-          "சாலையோர வாகனப் பழுதுபார்ப்பு மட்டும்",
-          "இரயில் விசாரணை மட்டும்"
+          "ஒருங்கிணைந்த மருத்துவ, காவல், தீயணைப்புச் சேவைகள்",
+          "தெருக் குற்றங்கள், திருட்டுகளின்போது காவல் உதவி",
+          "சாலையோர வாகனப் பழுதுபார்ப்பு, இழுவைச் சேவைகள்",
+          "இரயில் பயணச்சீட்டு முன்பதிவு, விசாரணைச் சேவைகள்"
         ],
         "explanation": "சாலை விபத்தில் பாதிக்கப்பட்டவர்களைக் கண்டால் பதற்றமின்றி உதவிக்கு 108 ஐயும், போக்குவரத்து விபத்துகளுக்கு 103 ஐயும் அழைக்கவும்."
       }
@@ -362,20 +362,20 @@
       "en": {
         "q": "Under the traffic rules, drivers should not use horns in",
         "options": [
-          "prohibited areas like hospital zones and school zones",
-          "highways",
-          "one-way streets",
-          "parking lots"
+          "hospital zones and school zones",
+          "open highways and expressways",
+          "one-way streets in city centres",
+          "parking lots near shops"
         ],
         "explanation": "Horns must not be used in prohibited areas such as hospital and school zones, and should not be shrill or irritating."
       },
       "ta": {
         "q": "போக்குவரத்து விதிகளின்படி ஓட்டுநர்கள் எங்கு ஒலிப்பான் (horn) பயன்படுத்தக் கூடாது?",
         "options": [
-          "மருத்துவமனை, பள்ளி மண்டலங்கள் போன்ற தடைசெய்யப்பட்ட பகுதிகள்",
-          "நெடுஞ்சாலைகள்",
-          "ஒருவழிச் சாலைகள்",
-          "வாகன நிறுத்துமிடங்கள்"
+          "மருத்துவமனை, பள்ளி மண்டலங்கள்",
+          "நெடுஞ்சாலைகள், விரைவுச் சாலைகள்",
+          "நகர மையங்களிலுள்ள ஒருவழிச் சாலைகள்",
+          "கடைகளருகிலுள்ள வாகன நிறுத்துமிடங்கள்"
         ],
         "explanation": "மருத்துவமனை, பள்ளி மண்டலங்கள் போன்ற தடைசெய்யப்பட்ட பகுதிகளில் ஒலிப்பான் பயன்படுத்தக் கூடாது; அது கூர்மையாகவோ எரிச்சலூட்டுவதாகவோ இருக்கக் கூடாது."
       }
@@ -422,7 +422,7 @@
         "options": [
           "Three",
           "Two",
-          "Only one",
+          "One",
           "None"
         ],
         "explanation": "A pillion is the seat for a passenger behind the rider; only one pillion rider is allowed on a two-wheeler."
@@ -432,7 +432,7 @@
         "options": [
           "மூவர்",
           "இருவர்",
-          "ஒருவர் மட்டும்",
+          "ஒருவர்",
           "யாருமில்லை"
         ],
         "explanation": "இரு சக்கர வாகனத்தில் ஓட்டுநருக்குப் பின்னால் ஒருவர் மட்டுமே பயணிக்க அனுமதி உண்டு."
@@ -518,7 +518,7 @@
         "q": "இரு சக்கர வாகனங்களை எளிதில் தெரியும்படி செய்ய கட்டாயமாக்கப்பட்ட AHO என்பதன் விரிவாக்கம்",
         "options": [
           "அபாய எதிர்ப்புச் செயல்பாடு",
-          "தானியங்கி முகப்பு விளக்கு இயக்கம் (Automatic Headlight On)",
+          "தானியங்கி முகப்பு விளக்கு இயக்கம்",
           "மேம்பட்ட தலைக்கவச வசதி",
           "காற்று, நீரியல் மேலாண்மை"
         ],
@@ -565,9 +565,9 @@
       "en": {
         "q": "Setu Bharatam, launched in 2016 to build bridges for safe travel on National Highways, aimed to make all National Highways free of",
         "options": [
-          "speed breakers",
-          "toll plazas",
-          "potholes",
+          "speed breakers and humps",
+          "toll plazas and toll booths",
+          "potholes and broken roads",
           "railway level crossings"
         ],
         "explanation": "Setu Bharatam aimed to replace railway level crossings on National Highways with bridges by 2019."
@@ -575,10 +575,10 @@
       "ta": {
         "q": "தேசிய நெடுஞ்சாலைகளில் பாதுகாப்பான பயணத்திற்குப் பாலங்கள் கட்ட 2016 இல் தொடங்கப்பட்ட சேது பாரதம் திட்டம் தேசிய நெடுஞ்சாலைகளை எதிலிருந்து விடுவிக்க நோக்கம் கொண்டது?",
         "options": [
-          "வேகத்தடைகள்",
-          "சுங்கச்சாவடிகள்",
-          "சாலைக் குழிகள்",
-          "இரயில்வே கடவுப்பாதைகள்"
+          "வேகத்தடைகளும் மேடுகளும்",
+          "சுங்கச்சாவடிகளும் வரி மையங்களும்",
+          "சாலைக் குழிகளும் உடைந்த சாலைகளும்",
+          "இரயில்வே சாலைக் கடவுப்பாதைகள்"
         ],
         "explanation": "தேசிய நெடுஞ்சாலைகளிலுள்ள இரயில்வே கடவுப்பாதைகளை 2019 க்குள் பாலங்களால் மாற்றுவதே சேது பாரதத்தின் நோக்கம்."
       }
@@ -604,7 +604,7 @@
       "ta": {
         "q": "வாகனத்தின் வேகத்தைக் கண்டறிந்து, முன்னமைத்த வரம்பைத் தாண்டினால் இயந்திரத்திற்குச் செல்லும் காற்றையும் எரிபொருளையும் கட்டுப்படுத்தும் கருவி எது?",
         "options": [
-          "வேகக் கட்டுப்பாட்டுக் கருவி (speed governor)",
+          "வேகக் கட்டுப்பாட்டுக் கருவி",
           "மாறும் செய்திப் பலகை",
           "பூட்டாத தடுப்பு அமைப்பு",
           "அபாயக் குறிகாட்டி"
@@ -662,10 +662,10 @@
       "ta": {
         "q": "இந்தியாவில் தேசியச் சாலைப் பாதுகாப்பு வாரத்தை ஏற்பாடு செய்வது",
         "options": [
-          "இந்திய உச்ச நீதிமன்றம்",
-          "உலக சுகாதார நிறுவனம்",
+          "இந்திய உச்ச நீதிமன்றத்தின் சிறப்புப் பிரிவு",
+          "உலக சுகாதார நிறுவனத்தின் இந்தியப் பிரிவு",
           "இந்தியத் தேசியப் பாதுகாப்பு மன்றம்",
-          "இந்தியத் தேர்தல் ஆணையம்"
+          "இந்தியத் தேர்தல் ஆணையத்தின் அலுவலகம்"
         ],
         "explanation": "தேசியப் பாதுகாப்பு மன்றம், பாதுகாப்பு, சுகாதாரம், சுற்றுச்சூழல் தொடர்பாக மக்களை ஈடுபடுத்த இந்திய அரசு அமைத்த தன்னாட்சி அமைப்பு."
       }
@@ -720,7 +720,7 @@
       "ta": {
         "q": "இந்தியா முழுவதும் சாலைப் பாதுகாப்பையும் அவசர மருத்துவப் பராமரிப்பையும் மேம்படுத்தப் பணியாற்றும் சுதந்திரமான, இலாப நோக்கற்ற, அரசு சாரா அறக்கட்டளை எது?",
         "options": [
-          "சேவ் லைஃப் அறக்கட்டளை (SaveLIFE Foundation)",
+          "சேவ் லைஃப் அறக்கட்டளை",
           "தேசியப் பாதுகாப்பு மன்றம்",
           "இந்தியத் தேசிய நெடுஞ்சாலை ஆணையம்",
           "அம்னெஸ்டி இன்டர்நேஷனல்"

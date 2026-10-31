@@ -101,20 +101,20 @@
       "en": {
         "q": "A person born in India on or after 3 December 2004 is a citizen of India by birth if",
         "options": [
-          "he has lived in India for seven years",
+          "he has lived in India continuously for seven years",
           "he is born anywhere in India, whatever the parents' status",
-          "his father alone is an Indian citizen",
-          "one parent is an Indian citizen and the other is not an illegal migrant at the time of birth"
+          "his paternal grandfather was born in India",
+          "one parent is an Indian citizen and the other is not an illegal migrant"
         ],
         "explanation": "The rule tightened in stages: no condition before 1 July 1987, one Indian parent from 1987, and from 3 December 2004 also that the other parent is not an illegal migrant."
       },
       "ta": {
         "q": "2004 டிசம்பர் 3 அல்லது அதற்குப் பின் இந்தியாவில் பிறந்தவர் பிறப்பால் இந்தியக் குடிமகனாவது",
         "options": [
-          "அவர் இந்தியாவில் ஏழு ஆண்டுகள் வசித்திருந்தால்",
-          "பெற்றோரின் நிலை எதுவாயினும் இந்தியாவில் எங்கு பிறந்தாலும்",
-          "தந்தை மட்டும் இந்தியக் குடிமகனாக இருந்தால்",
-          "பிறக்கும்போது பெற்றோரில் ஒருவர் இந்தியக் குடிமகனாகவும், மற்றவர் சட்டவிரோதக் குடியேறி அல்லாதவராகவும் இருந்தால்"
+          "அவர் இந்தியாவில் தொடர்ந்து ஏழு ஆண்டுகள் வசித்து வந்திருந்தால்",
+          "பெற்றோரின் நிலை எதுவாயினும், அவர் இந்தியாவின் எந்தப் பகுதியில் பிறந்திருந்தாலும்",
+          "பிறக்கும்போது அவரது தாத்தா இந்தியாவில் பிறந்தவராக இருந்தால்",
+          "பெற்றோரில் ஒருவர் குடிமகனாகவும் மற்றவர் சட்டவிரோதக் குடியேறி அல்லாதவராகவும் இருந்தால்"
         ],
         "explanation": "விதி படிப்படியாகக் கடுமையானது: 1987 ஜூலை 1 க்கு முன் நிபந்தனை இல்லை; 1987 முதல் ஒரு பெற்றோர் இந்தியர்; 2004 டிசம்பர் 3 முதல் மற்றப் பெற்றோர் சட்டவிரோதக் குடியேறியாக இருக்கக் கூடாது."
       }
@@ -247,9 +247,9 @@
         "q": "When Pondicherry became part of India, its people became Indian citizens through the Citizenship (Pondicherry) Order, 1962. This is an example of acquiring citizenship by",
         "options": [
           "incorporation of territory",
-          "naturalisation",
-          "registration",
-          "descent"
+          "naturalisation by residence",
+          "registration by application",
+          "descent from Indian parents"
         ],
         "explanation": "When a foreign territory becomes part of India, the Government specifies which of its people become Indian citizens from a notified date."
       },
@@ -257,9 +257,9 @@
         "q": "புதுச்சேரி இந்தியாவின் பகுதியானபோது, குடியுரிமை (புதுச்சேரி) ஆணை, 1962 மூலம் அதன் மக்கள் இந்தியக் குடிமக்களாயினர். இது எந்த வழியில் குடியுரிமை பெறுவதற்கு எடுத்துக்காட்டு?",
         "options": [
           "நிலப்பகுதி இணைப்பு",
-          "இயல்புரிமை",
-          "பதிவு",
-          "வம்சாவளி"
+          "இயல்புரிமைப் பெறுதல்",
+          "பதிவு செய்தல்",
+          "வம்சாவளி வழி வருதல்"
         ],
         "explanation": "ஓர் அயல்நாட்டுப் பகுதி இந்தியாவின் அங்கமாகும்போது, அதன் மக்களில் யார் இந்தியக் குடிமக்களாவர் என்பதை அறிவிக்கப்பட்ட நாளிலிருந்து அரசு குறிப்பிடுகிறது."
       }
@@ -402,7 +402,7 @@
         "q": "ஒரு நாட்டில் நிரந்தரமாக வசிக்கவும் தடையின்றி வேலை செய்யவும் உரிமை பெற்ற அயலவர் எவ்வாறு அழைக்கப்படுகிறார்?",
         "options": [
           "சுற்றுலாப் பயணி",
-          "குடியேறி (immigrant)",
+          "குடியேறி",
           "இயற்கைக் குடிமகன்",
           "இந்திய வம்சாவளியினர்"
         ],
@@ -420,20 +420,20 @@
       "en": {
         "q": "Which of the following rights does the Constitution confer on Indian citizens but not on aliens living in India?",
         "options": [
-          "The right to equality before law",
-          "The right to life",
-          "The right to vote in elections to the Lok Sabha and the State Legislature",
-          "The right to freedom of religion"
+          "The right to equality before the law",
+          "The right to life and personal liberty",
+          "The right to vote in Lok Sabha and State Assembly elections",
+          "The right to freedom of religion and conscience"
         ],
         "explanation": "Citizens alone may vote in Lok Sabha and State elections, hold certain public offices and become members of Parliament or a State Legislature."
       },
       "ta": {
         "q": "இந்தியாவில் வாழும் அயலவர்களுக்கு அல்லாமல் இந்தியக் குடிமக்களுக்கு மட்டும் அரசியலமைப்பு வழங்கும் உரிமை எது?",
         "options": [
-          "சட்டத்தின் முன் சமத்துவ உரிமை",
-          "வாழும் உரிமை",
-          "மக்களவை, மாநிலச் சட்டமன்றத் தேர்தல்களில் வாக்களிக்கும் உரிமை",
-          "சமய சுதந்திர உரிமை"
+          "சட்டத்தின் முன் அனைவரும் சமம் என்ற உரிமை",
+          "உயிர் வாழும் உரிமையும் தனிமனித சுதந்திரமும்",
+          "மக்களவை, சட்டமன்றத் தேர்தல்களில் வாக்களிக்கும் உரிமை",
+          "சமயச் சுதந்திரமும் மனசாட்சிச் சுதந்திரமும்"
         ],
         "explanation": "குடிமக்கள் மட்டுமே மக்களவை, மாநிலத் தேர்தல்களில் வாக்களிக்கவும், சில பொதுப் பதவிகளை வகிக்கவும், நாடாளுமன்ற அல்லது சட்டமன்ற உறுப்பினராகவும் முடியும்."
       }
@@ -452,7 +452,7 @@
           "an immigrant",
           "an Overseas Citizen of India",
           "a Person of Indian Origin",
-          "a Non-Resident Indian (NRI)"
+          "a Non-Resident Indian"
         ],
         "explanation": "An NRI remains an Indian citizen; a PIO or OCI cardholder holds another country's citizenship."
       },
@@ -460,9 +460,9 @@
         "q": "இந்தியாவுக்கு வெளியே வசித்து இந்தியக் கடவுச்சீட்டு வைத்திருக்கும் இந்தியக் குடிமகன் எவ்வாறு அழைக்கப்படுகிறார்?",
         "options": [
           "குடியேறி",
-          "இந்தியாவின் வெளிநாட்டுக் குடிமகன் (OCI)",
-          "இந்திய வம்சாவளியினர் (PIO)",
-          "வெளிநாடு வாழ் இந்தியர் (NRI)"
+          "இந்தியாவின் வெளிநாட்டுக் குடிமகன்",
+          "இந்திய வம்சாவளியினர்",
+          "வெளிநாடு வாழ் இந்தியர்"
         ],
         "explanation": "வெளிநாடு வாழ் இந்தியர் இந்தியக் குடிமகனாகவே இருக்கிறார்; PIO அல்லது OCI அட்டைதாரர் பிற நாட்டுக் குடியுரிமை பெற்றவர்."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Pravasi Bharatiya Divas (Overseas Indians' Day) is observed on 9 January because that day commemorates",
         "options": [
-          "the passing of the Citizenship Act",
-          "the adoption of the Constitution",
-          "the arrival of Mahatma Gandhi in India from South Africa",
-          "Swami Vivekananda's Chicago address"
+          "the passing of the Indian Citizenship Act",
+          "the adoption of the Indian Constitution",
+          "the return of Mahatma Gandhi from South Africa",
+          "Swami Vivekananda's address in Chicago"
         ],
         "explanation": "The day marks the contributions of the overseas Indian community to India's development and recalls Gandhi's return from South Africa in 1915."
       },
       "ta": {
         "q": "பிரவாசி பாரதிய திவஸ் (வெளிநாடு வாழ் இந்தியர் நாள்) ஜனவரி 9 அன்று கொண்டாடப்படுவது எதன் நினைவாக?",
         "options": [
-          "குடியுரிமைச் சட்டம் நிறைவேற்றப்பட்டது",
-          "அரசியலமைப்பு ஏற்றுக்கொள்ளப்பட்டது",
-          "மகாத்மா காந்தி தென்னாப்பிரிக்காவிலிருந்து இந்தியா திரும்பியது",
-          "சுவாமி விவேகானந்தரின் சிகாகோ உரை"
+          "இந்தியக் குடியுரிமைச் சட்டம் நிறைவேற்றப்பட்டது",
+          "இந்திய அரசியலமைப்பு ஏற்றுக்கொள்ளப்பட்டது",
+          "மகாத்மா காந்தி தென்னாப்பிரிக்காவிலிருந்து திரும்பியது",
+          "சுவாமி விவேகானந்தரின் சிகாகோ சொற்பொழிவு"
         ],
         "explanation": "இந்திய வளர்ச்சியில் வெளிநாடு வாழ் இந்தியச் சமூகத்தின் பங்களிப்பைப் போற்றும் இந்நாள், 1915 இல் காந்தியடிகள் தென்னாப்பிரிக்காவிலிருந்து திரும்பியதை நினைவுகூர்கிறது."
       }
@@ -633,10 +633,10 @@
       "ta": {
         "q": "1955 இந்தியக் குடியுரிமைச் சட்டம் எதற்கு வழிவகுக்கிறது?",
         "options": [
-          "மொழிவாரி மாநில மறுசீரமைப்பு",
+          "மொழிவாரி அடிப்படையில் மாநில மறுசீரமைப்பு",
           "இந்தியக் குடியுரிமையைப் பெறுதலும் முடிவுறுத்தலும்",
-          "தீண்டாமை ஒழிப்பு",
-          "குடியரசுத் தலைவர் தேர்தல்"
+          "தீண்டாமை ஒழிப்புப் பற்றிய விதிகள்",
+          "குடியரசுத் தலைவரைத் தேர்ந்தெடுக்கும் முறை"
         ],
         "explanation": "அரசியலமைப்பின் பகுதி II (விதிகள் 5–11) குடியுரிமை பற்றியது; குடியுரிமை எவ்வாறு பெறப்படுகிறது, இழக்கப்படுகிறது என்பதை 1955 குடியுரிமைச் சட்டம் வகுக்கிறது."
       }

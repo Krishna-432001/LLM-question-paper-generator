@@ -15,9 +15,9 @@
         "q": "Therapy with Oral Rehydration Solution (ORS) in 1971 reduced cholera death rates among thousands of refugees from 50% to 3% during the",
         "options": [
           "Bangladesh liberation war",
-          "First World War",
-          "Kargil war",
-          "Korean war"
+          "Second World War in Europe",
+          "Kargil conflict of 1999",
+          "Korean war of 1950"
         ],
         "explanation": "An Indian doctor, Dilip Mahalanabis, managed the shortage of saline bottles and dehydration among the refugees."
       },
@@ -25,9 +25,9 @@
         "q": "1971-இல் வாய்வழி நீரேற்றக் கரைசல் (ORS) சிகிச்சை ஆயிரக்கணக்கான அகதிகளிடையே காலரா இறப்பு விகிதத்தை 50%-லிருந்து 3%-ஆகக் குறைத்தது. அது நிகழ்ந்தது எந்தப் போரின்போது?",
         "options": [
           "வங்காளதேச விடுதலைப் போர்",
-          "முதல் உலகப் போர்",
-          "கார்கில் போர்",
-          "கொரியப் போர்"
+          "ஐரோப்பாவில் நடந்த இரண்டாம் உலகப் போர்",
+          "1999-இன் கார்கில் போர்",
+          "1950-இன் கொரியப் போர்"
         ],
         "explanation": "இந்திய மருத்துவர் திலீப் மகாலனாபிஸ் சலைன் பாட்டில் பற்றாக்குறையையும் அகதிகளின் நீரிழப்பையும் சமாளித்தார்."
       }
@@ -43,20 +43,20 @@
       "en": {
         "q": "Dr. Dilip Mahalanabis found that adding glucose (sugar) to the salt solution helps because then",
         "options": [
-          "the solution becomes sweet for children",
-          "water, sodium and glucose are all absorbed by the body",
-          "the salt is no longer needed",
-          "the water is purified"
+          "the solution tastes sweet and children drink it",
+          "water, sodium and glucose get absorbed together",
+          "the salt is no longer needed in the solution",
+          "the water in the solution gets purified of germs"
         ],
         "explanation": "Without glucose, the intestinal wall cannot absorb water or sodium from a salt solution taken by mouth."
       },
       "ta": {
         "q": "உப்புக் கரைசலில் குளுக்கோஸ் (சர்க்கரை) சேர்த்தால் பயன் ஏற்படுவது ஏன் என டாக்டர் திலீப் மகாலனாபிஸ் கண்டறிந்தார்?",
         "options": [
-          "குழந்தைகளுக்கு இனிப்பாக இருக்கிறது",
-          "நீர், சோடியம், குளுக்கோஸ் ஆகிய மூன்றும் உடலால் உறிஞ்சப்படுகின்றன",
-          "உப்பு தேவையில்லாமல் போகிறது",
-          "நீர் தூய்மையாகிறது"
+          "குழந்தைகள் விரும்பி அருந்தும் இனிப்புச் சுவை கிடைக்கிறது",
+          "நீர், சோடியம், குளுக்கோஸ் மூன்றும் சேர்ந்து உறிஞ்சப்படுகின்றன",
+          "கரைசலில் உப்பு தேவையில்லாமல் போகிறது",
+          "கரைசலிலுள்ள நீர் கிருமிகள் நீங்கித் தூய்மையாகிறது"
         ],
         "explanation": "குளுக்கோஸ் இல்லாவிடில் வாய்வழி உப்புக் கரைசலிலிருந்து குடல் சுவரால் நீரையோ சோடியத்தையோ உறிஞ்ச இயலாது."
       }
@@ -101,10 +101,10 @@
       "en": {
         "q": "In a patient with diarrhoea, death is mainly caused by",
         "options": [
-          "the rise in blood sugar",
-          "the loss of appetite",
-          "the intake of too much water",
-          "dehydration resulting from the infection"
+          "a rise in blood sugar levels",
+          "the loss of appetite and hunger",
+          "drinking too much water",
+          "dehydration caused by the infection"
         ],
         "explanation": "During diarrhoea water is expelled and the body is not able to retain its liquid balance."
       },
@@ -159,20 +159,20 @@
       "en": {
         "q": "In 1928, when Alexander Fleming accidentally discovered penicillin, he was researching",
         "options": [
-          "Plasmodium",
+          "Plasmodium parasites",
           "Staphylococcus bacteria",
-          "polio virus",
-          "yeast"
+          "polio viruses",
+          "yeast fungus"
         ],
         "explanation": "He left the culture dish uncleaned on his laboratory table; on returning he saw a mould with no bacterial growth around it. He named the mould Penicillium notatum."
       },
       "ta": {
         "q": "1928-இல் பென்சிலினை எதிர்பாராமல் கண்டறிந்தபோது அலெக்சாண்டர் ஃபிளெமிங் ஆய்வு செய்துகொண்டிருந்தது",
         "options": [
-          "பிளாஸ்மோடியத்தை",
+          "பிளாஸ்மோடியம் ஒட்டுண்ணிகளை",
           "ஸ்டெஃபிலோகாக்கஸ் பாக்டீரியாவை",
-          "போலியோ வைரஸை",
-          "ஈஸ்டை"
+          "போலியோ வைரஸ்களை",
+          "ஈஸ்ட் பூஞ்சைகளை"
         ],
         "explanation": "சுத்தம் செய்யாமல் விடப்பட்ட வளர்ப்புக் கலனில் பூசணத்தைச் சுற்றி பாக்டீரியா வளராததை அவர் கண்டார்; அப்பூசணத்திற்குப் பென்சிலியம் நொட்டேட்டம் எனப் பெயரிட்டார்."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "Antibiotic resistance is the ability of microorganisms to",
         "options": [
-          "cause the common cold and flu",
-          "produce antibiotics in the human body",
+          "cause the common cold and flu in humans",
+          "produce antibiotics inside the human body",
           "grow only in the presence of antibiotics",
-          "resist the effects of an antibiotic to which they were once sensitive"
+          "resist an antibiotic that once killed them"
         ],
         "explanation": "Overuse of antibiotics makes them less effective, so a larger dose or other more virulent antibiotics may be needed; antibiotics do not work against viruses such as cold and flu."
       },
       "ta": {
         "q": "நுண்ணுயிர்க்கொல்லி எதிர்ப்புத்தன்மை (antibiotic resistance) என்பது நுண்ணுயிரிகளுக்கு உள்ள திறன்",
         "options": [
-          "சளி, காய்ச்சலை உண்டாக்கும் திறன்",
-          "மனித உடலில் நுண்ணுயிர்க்கொல்லிகளை உருவாக்கும் திறன்",
+          "மனிதருக்குச் சளி, காய்ச்சலை உண்டாக்கும் திறன்",
+          "மனித உடலுக்குள் நுண்ணுயிர்க்கொல்லிகளை உருவாக்கும் திறன்",
           "நுண்ணுயிர்க்கொல்லி இருக்கும்போது மட்டுமே வளரும் திறன்",
-          "முன்பு எந்த நுண்ணுயிர்க்கொல்லிக்கு உணர்திறன் உடையவையாக இருந்தனவோ, அதன் விளைவை எதிர்க்கும் திறன்"
+          "முன்பு தம்மைக் கொன்ற நுண்ணுயிர்க்கொல்லியை எதிர்க்கும் திறன்"
         ],
         "explanation": "நுண்ணுயிர்க்கொல்லிகளை அளவுக்கு மீறிப் பயன்படுத்தினால் அவை திறன் இழக்கும்; சளி, காய்ச்சல் போன்ற வைரஸ் நோய்களுக்கு அவை பயன்படா."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "Which of the following is correct about antiseptics and disinfectants?",
         "options": [
-          "Both are used only to relieve pain",
-          "Antiseptics are used only on floors, whereas disinfectants are applied on the skin",
-          "Antiseptics can be applied on living tissues like skin, whereas disinfectants are applied on inanimate objects like floors and laboratory tables",
-          "Both are used only to reduce fever"
+          "Both are used to relieve pain and fever",
+          "Antiseptics are applied on floors, disinfectants on the skin",
+          "Antiseptics are applied on skin, disinfectants on objects such as floors",
+          "Both are used to reduce fever and swelling"
         ],
         "explanation": "Antiseptics are substances applied to the exterior of a body that kill or inhibit microbes."
       },
       "ta": {
         "q": "நுண்ணுயிர் நீக்கிகள் (antiseptics), தொற்று நீக்கிகள் (disinfectants) பற்றிய சரியான கூற்று எது?",
         "options": [
-          "இரண்டும் வலியைப் போக்க மட்டுமே பயன்படுகின்றன",
-          "நுண்ணுயிர் நீக்கிகள் தரைகளில் மட்டுமே; தொற்று நீக்கிகள் தோலில் பயன்படுத்தப்படுகின்றன",
-          "நுண்ணுயிர் நீக்கிகளைத் தோல் போன்ற உயிருள்ள திசுக்களில் பூசலாம்; தொற்று நீக்கிகள் தரை, ஆய்வக மேசை போன்ற உயிரற்ற பொருள்களில் பயன்படுத்தப்படுகின்றன",
-          "இரண்டும் காய்ச்சலைக் குறைக்க மட்டுமே பயன்படுகின்றன"
+          "இரண்டும் வலியையும் காய்ச்சலையும் போக்கப் பயன்படுபவை",
+          "நுண்ணுயிர் நீக்கிகள் தரையிலும் தொற்று நீக்கிகள் தோலிலும் பயன்படுபவை",
+          "நுண்ணுயிர் நீக்கிகள் தோலிலும் தொற்று நீக்கிகள் தரை போன்ற பொருள்களிலும் பயன்படுபவை",
+          "இரண்டும் காய்ச்சலையும் வீக்கத்தையும் குறைக்கப் பயன்படுபவை"
         ],
         "explanation": "நுண்ணுயிர் நீக்கிகள் உடலின் வெளிப்புறத்தில் பூசப்பட்டு நுண்ணுயிரிகளைக் கொல்லும் அல்லது வளர்ச்சியைத் தடுக்கும்."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Common adverse effects of antihistamines are",
         "options": [
-          "bleeding and fainting",
-          "fever and cough",
+          "heavy bleeding and fainting",
+          "high fever and a persistent cough",
           "dryness of the mouth and sleepiness",
-          "loss of hearing"
+          "loss of hearing and vision"
         ],
         "explanation": "Examples of antihistamines given are diphenhydramine and chlorpheniramine."
       },
       "ta": {
         "q": "ஹிஸ்டமின் எதிர்ப்பிகளின் பொதுவான பக்கவிளைவுகள்",
         "options": [
-          "இரத்தப்போக்கு, மயக்கம்",
-          "காய்ச்சல், இருமல்",
-          "வாய் வறட்சி, தூக்கக் கலக்கம்",
-          "கேட்கும் திறன் இழப்பு"
+          "கடும் இரத்தப்போக்கும் மயக்கமும்",
+          "அதிகக் காய்ச்சலும் தொடர் இருமலும்",
+          "வாய் வறட்சியும் தூக்கக் கலக்கமும்",
+          "கேட்கும் திறன், பார்வை இழப்பு"
         ],
         "explanation": "டைஃபென்ஹைட்ரமைன், குளோர்ஃபெனிரமைன் ஆகியவை ஹிஸ்டமின் எதிர்ப்பிகளுக்கு எடுத்துக்காட்டுகள்."
       }
@@ -634,7 +634,7 @@
         "q": "மிகக் குறைந்த தீப்பற்று வெப்பநிலை கொண்டு, சுடரால் எளிதில் தீப்பற்றும் பொருள்கள்",
         "options": [
           "எரியாப் பொருள்கள்",
-          "தீப்பற்றும் பொருள்கள் (inflammable)",
+          "தீப்பற்றும் பொருள்கள்",
           "மட்கும் பொருள்கள்",
           "செயற்கைப் பொருள்கள்"
         ],
@@ -739,20 +739,20 @@
       "en": {
         "q": "A candle flame is always directed upwards because the hot burning vapour is",
         "options": [
-          "denser than the surrounding air",
-          "less dense than the surrounding air and rises by convection",
-          "attracted by the wick",
-          "pushed by the wax"
+          "heavier and denser than the surrounding air",
+          "less dense than the surrounding air, so it rises",
+          "attracted by the burning wick",
+          "pushed upwards by the melted wax"
         ],
         "explanation": "A candle flame is caused by wax vapour burning above the candle."
       },
       "ta": {
         "q": "மெழுகுவர்த்திச் சுடர் எப்போதும் மேல்நோக்கியே இருப்பதற்குக் காரணம், எரியும் சூடான ஆவி",
         "options": [
-          "சுற்றியுள்ள காற்றைவிட அடர்த்தி மிகுந்தது",
-          "சுற்றியுள்ள காற்றைவிட அடர்த்தி குறைந்து வெப்பச்சலனத்தால் மேலெழுவது",
-          "திரியால் கவரப்படுவது",
-          "மெழுகால் தள்ளப்படுவது"
+          "சுற்றியுள்ள காற்றைவிட அடர்த்தி மிகுந்து கனமானது",
+          "சுற்றியுள்ள காற்றைவிட அடர்த்தி குறைந்து மேலெழுவது",
+          "எரியும் திரியால் கவரப்படுவது",
+          "உருகிய மெழுகால் மேல்நோக்கித் தள்ளப்படுவது"
         ],
         "explanation": "மெழுகுவர்த்திக்கு மேலே மெழுகு ஆவி எரிவதால் சுடர் தோன்றுகிறது."
       }
@@ -810,7 +810,7 @@
           "வெப்ப ஏற்புத்திறன்",
           "தீப்பற்று வெப்பநிலை",
           "எரிநிலை",
-          "கலோரி மதிப்பு (எரிவெப்ப மதிப்பு)"
+          "கலோரி மதிப்பு"
         ],
         "explanation": "எரிபொருளின் கலோரி மதிப்பு கிலோஜூல்/கிலோகிராம் (kJ/kg) என்ற அலகில் குறிப்பிடப்படுகிறது."
       }
@@ -885,8 +885,8 @@
         "q": "Which of the following is NOT a characteristic of a good fuel?",
         "options": [
           "It produces a large amount of heat",
-          "It burns at a moderate rate",
-          "It causes pollution and leaves behind undesirable substances",
+          "It burns at a steady, moderate rate",
+          "It causes pollution and leaves residue",
           "It is cheap and readily available"
         ],
         "explanation": "A good fuel is also easy to transport and store."
@@ -895,9 +895,9 @@
         "q": "நல்ல எரிபொருளின் பண்புகளில் பின்வருவனவற்றுள் எது இடம்பெறாது?",
         "options": [
           "அதிக வெப்பத்தைத் தருவது",
-          "மிதமான வேகத்தில் எரிவது",
-          "மாசுபாட்டை ஏற்படுத்துவதும் தேவையற்ற பொருள்களை விட்டுச்செல்வதும்",
-          "மலிவானதும் எளிதில் கிடைப்பதும்"
+          "நிலையான மிதமான வேகத்தில் எரிவது",
+          "மாசுபடுத்தித் தேவையற்றவற்றை விட்டுச்செல்வது",
+          "மலிவாகவும் எளிதில் கிடைப்பதாகவும் இருப்பது"
         ],
         "explanation": "நல்ல எரிபொருளை எளிதில் எடுத்துச் செல்லவும் சேமிக்கவும் இயல வேண்டும்."
       }
@@ -916,7 +916,7 @@
           "fuel, carbon dioxide and light",
           "fuel, water and light",
           "air, water and heat",
-          "fuel, air (oxygen) and heat"
+          "fuel, air and heat"
         ],
         "explanation": "Fire can be controlled by removing any one or more of these conditions."
       },
@@ -926,7 +926,7 @@
           "எரிபொருள், கார்பன் டைஆக்சைடு, ஒளி",
           "எரிபொருள், நீர், ஒளி",
           "காற்று, நீர், வெப்பம்",
-          "எரிபொருள், காற்று (ஆக்சிஜன்), வெப்பம்"
+          "எரிபொருள், காற்று, வெப்பம்"
         ],
         "explanation": "இவற்றில் ஏதேனும் ஒன்றையோ மேற்பட்டவற்றையோ நீக்கினால் தீயைக் கட்டுப்படுத்தலாம்."
       }
@@ -942,20 +942,20 @@
       "en": {
         "q": "A fire extinguisher controls a fire by",
         "options": [
-          "cutting off the supply of air or bringing down the temperature of the fuel, or both",
-          "adding more fuel",
-          "increasing the oxygen supply",
-          "raising the temperature of the fuel"
+          "cutting off the air supply or cooling the fuel, or both",
+          "feeding the fire with more fuel and air",
+          "increasing the supply of oxygen to the flames",
+          "raising the temperature of the burning fuel"
         ],
         "explanation": "Removing any one of the three conditions of the fire triangle puts out the fire."
       },
       "ta": {
         "q": "தீயணைப்பான் தீயைக் கட்டுப்படுத்துவது",
         "options": [
-          "காற்று வழங்கலைத் துண்டித்தல் அல்லது எரிபொருளின் வெப்பநிலையைக் குறைத்தல் அல்லது இரண்டையும் செய்தல் மூலம்",
-          "மேலும் எரிபொருளைச் சேர்ப்பதன் மூலம்",
-          "ஆக்சிஜன் வழங்கலை அதிகரிப்பதன் மூலம்",
-          "எரிபொருளின் வெப்பநிலையை உயர்த்துவதன் மூலம்"
+          "காற்றைத் துண்டித்தோ எரிபொருளைக் குளிர்வித்தோ, அல்லது இரண்டாலும்",
+          "தீ எரியும் இடத்தில் மேலும் எரிபொருளையும் காற்றையும் சேர்த்து",
+          "தீச்சுடருக்கு ஆக்சிஜன் வழங்கலை அதிகப்படுத்தி, காற்றோட்டம் தந்து",
+          "எரியும் எரிபொருளின் வெப்பநிலையை மேலும் உயர்த்தி, சூடேற்றி"
         ],
         "explanation": "தீ முக்கோணத்தின் மூன்று நிபந்தனைகளில் ஒன்றை நீக்கினாலும் தீ அணையும்."
       }
@@ -1000,20 +1000,20 @@
       "en": {
         "q": "A water fire extinguisher should NOT be used on",
         "options": [
-          "wood fires",
-          "paper fires",
-          "oil (liquid) fires and electrical fires",
-          "fabric fires"
+          "wood and charcoal fires",
+          "paper and cardboard fires",
+          "oil and electrical fires",
+          "cloth and fabric fires"
         ],
         "explanation": "Water is suitable for Class A fires, such as wood, paper and fabric, but not for flammable liquids or electrical equipment."
       },
       "ta": {
         "q": "நீர்த் தீயணைப்பானை எவற்றின் மீது பயன்படுத்தக் கூடாது?",
         "options": [
-          "மரத் தீ",
-          "காகிதத் தீ",
-          "எண்ணெய் (திரவ) தீ, மின் தீ",
-          "துணித் தீ"
+          "மரம், கரித் தீ",
+          "காகிதம், அட்டைத் தீ",
+          "எண்ணெய்த் தீ, மின் தீ",
+          "துணி, கம்பளித் தீ"
         ],
         "explanation": "மரம், காகிதம், துணி போன்ற A வகுப்புத் தீக்கு நீர் ஏற்றது; எரியும் திரவங்கள், மின்சாதனங்களுக்கு ஏற்றதல்ல."
       }
