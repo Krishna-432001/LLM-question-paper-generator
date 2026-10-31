@@ -72,10 +72,10 @@
       "en": {
         "q": "OPEC is",
         "options": [
-          "The Organisation of the Petroleum Exporting Countries",
-          "An international shipping company",
-          "An international sports club",
-          "An international insurance company"
+          "The Organisation of Petroleum Exporting Countries",
+          "An international shipping and freight company",
+          "An international sports and games federation",
+          "An international insurance and banking company"
         ],
         "explanation": "OPEC was founded in Baghdad and is headquartered in Vienna; founder members are Iran, Iraq, Kuwait, Saudi Arabia and Venezuela."
       },
@@ -217,9 +217,9 @@
       "en": {
         "q": "Which of the following Indian States shares borders with three countries - Bhutan, China and Myanmar?",
         "options": [
-          "Meghalaya",
-          "Assam",
-          "Mizoram",
+          "Himachal Pradesh",
+          "Uttar Pradesh",
+          "Andhra Pradesh",
           "Arunachal Pradesh"
         ],
         "explanation": "Arunachal Pradesh borders Bhutan, China and Myanmar."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "பூடான், சீனா, மியான்மர் ஆகிய மூன்று நாடுகளுடன் எல்லை பகிரும் இந்திய மாநிலம் எது?",
         "options": [
-          "மேகாலயா",
-          "அசாம்",
-          "மிசோரம்",
+          "இமாச்சலப் பிரதேசம்",
+          "உத்தரப் பிரதேசம்",
+          "ஆந்திரப் பிரதேசம்",
           "அருணாசலப் பிரதேசம்"
         ],
         "explanation": "அருணாசலப் பிரதேசம் பூடான், சீனா, மியான்மருடன் எல்லை கொண்டது."
@@ -478,22 +478,22 @@
       "en": {
         "q": "The Strategic Partnership Agreement (SPA) strengthened Indo-Afghan relations and provides",
         "options": [
-          "A common currency",
-          "Joint control of the Salma Dam",
+          "A shared currency and a joint central bank",
+          "Joint Indo-Afghan control of the Salma Dam",
           "A military alliance between India and Afghanistan",
-          "Assistance to rebuild Afghan infrastructure, institutions, agriculture, water, education and health, with duty-free access to the Indian market"
+          "Help to rebuild Afghan infrastructure and institutions"
         ],
-        "explanation": "India built the Salma Dam in Herat and announced 500 scholarships under this partnership."
+        "explanation": "The SPA also covers help for agriculture, water, education and health, with duty-free access to the Indian market. India built the Salma Dam in Herat and announced 500 scholarships under this partnership."
       },
       "ta": {
         "q": "இந்தோ-ஆப்கான் உறவை வலுப்படுத்திய உத்திசார் கூட்டாண்மை ஒப்பந்தம் (SPA) வழங்குவது",
         "options": [
-          "பொது நாணயம்",
-          "சல்மா அணையின் கூட்டுக் கட்டுப்பாடு",
-          "இந்தியா-ஆப்கானிஸ்தான் இராணுவக் கூட்டணி",
-          "ஆப்கான் உள்கட்டமைப்பு, நிறுவனங்கள், வேளாண்மை, நீர், கல்வி, சுகாதாரம் மறுகட்டமைப்புக்கு உதவி; இந்தியச் சந்தையில் வரியற்ற அனுமதி"
+          "பொது நாணயமும் கூட்டு மத்திய வங்கியும்",
+          "சல்மா அணையின் இந்திய-ஆப்கான் கூட்டுக் கட்டுப்பாடு",
+          "இந்தியா-ஆப்கானிஸ்தான் இடையே இராணுவக் கூட்டணி ஒப்பந்தம்",
+          "ஆப்கான் உள்கட்டமைப்பு, நிறுவனங்களை மறுகட்டமைக்க உதவி"
         ],
-        "explanation": "இந்தியா ஹெராத்தில் சல்மா அணையைக் கட்டி 500 உதவித்தொகைகளை அறிவித்தது."
+        "explanation": "இந்த ஒப்பந்தம் வேளாண்மை, நீர், கல்வி, சுகாதாரத்துக்கான உதவியையும் இந்தியச் சந்தையில் வரியற்ற அனுமதியையும் உள்ளடக்கியது. இந்தியா ஹெராத்தில் சல்மா அணையைக் கட்டி 500 உதவித்தொகைகளை அறிவித்தது."
       }
     },
     {
@@ -507,22 +507,22 @@
       "en": {
         "q": "The Japan India Institute of Manufacturing (JIM) provides Japanese-style manufacturing skills to",
         "options": [
-          "Build bullet trains in Japan",
-          "Train Japanese soldiers",
-          "Train oil engineers for OPEC",
-          "Strengthen India's manufacturing base under 'Make in India' and 'Skill India'"
+          "Build bullet train lines in Japan",
+          "Train Japanese soldiers for defence",
+          "Train oil engineers for OPEC member states",
+          "Strengthen India's manufacturing base and skills"
         ],
-        "explanation": "Japan announced training of 30,000 Indians; the first four JIMs (2017) were in Gujarat, Karnataka, Rajasthan and Tamil Nadu."
+        "explanation": "This supports 'Make in India' and 'Skill India'. Japan announced training of 30,000 Indians; the first four JIMs (2017) were in Gujarat, Karnataka, Rajasthan and Tamil Nadu."
       },
       "ta": {
         "q": "ஜப்பான்-இந்தியா உற்பத்திக் கல்வி நிறுவனம் (JIM) ஜப்பானிய பாணி உற்பத்தித் திறன்களை எதற்காக வழங்குகிறது?",
         "options": [
-          "ஜப்பானில் புல்லட் ரயில் கட்ட",
-          "ஜப்பானிய வீரர்களுக்குப் பயிற்சி",
-          "OPEC எண்ணெய்ப் பொறியாளர் பயிற்சி",
-          "'மேக் இன் இந்தியா', 'ஸ்கில் இந்தியா' திட்டங்களின் கீழ் இந்திய உற்பத்தித் தளத்தை வலுப்படுத்த"
+          "ஜப்பானில் அதிவேக ரயில் பாதைகள் அமைக்க",
+          "ஜப்பானிய வீரர்களுக்குப் பாதுகாப்புப் பயிற்சி",
+          "OPEC உறுப்பு நாடுகளின் எண்ணெய்ப் பொறியாளர் பயிற்சி",
+          "இந்திய உற்பத்தித் தளத்தையும் திறன்களையும் வலுப்படுத்த"
         ],
-        "explanation": "30,000 இந்தியர்களுக்குப் பயிற்சி; 2017இல் முதல் நான்கு JIM குஜராத், கர்நாடகம், இராஜஸ்தான், தமிழ்நாட்டில் தொடங்கின."
+        "explanation": "இது 'மேக் இன் இந்தியா', 'ஸ்கில் இந்தியா' திட்டங்களுக்கு உதவுகிறது. 30,000 இந்தியர்களுக்குப் பயிற்சி; 2017இல் முதல் நான்கு JIM குஜராத், கர்நாடகம், இராஜஸ்தான், தமிழ்நாட்டில் தொடங்கின."
       }
     },
     {
@@ -536,20 +536,20 @@
       "en": {
         "q": "The Chabahar Agreement, signed between India, Afghanistan and Iran, is important because the port gives India",
         "options": [
-          "Access to the Pacific Ocean",
-          "Control over the Suez Canal",
-          "Access to landlocked Afghanistan and Central Asia bypassing Pakistan",
-          "A naval base in Africa"
+          "Direct access to Pacific Ocean trade lanes",
+          "Control over the Suez Canal shipping route",
+          "Access to Afghanistan and Central Asia, bypassing Pakistan",
+          "A permanent naval base on the African coast"
         ],
         "explanation": "Chabahar is seen as a golden gateway to landlocked markets of Afghanistan and Central Asia."
       },
       "ta": {
         "q": "சாபஹார் ஒப்பந்தம் (இந்தியா, ஆப்கானிஸ்தான், ஈரான்) ஏன் முக்கியமானது? இத்துறைமுகம் இந்தியாவுக்கு வழங்குவது",
         "options": [
-          "பசிபிக் பெருங்கடலுக்கான வழி",
-          "சூயஸ் கால்வாய்க் கட்டுப்பாடு",
-          "பாகிஸ்தானைத் தவிர்த்து கடலற்ற ஆப்கானிஸ்தான், மத்திய ஆசியாவுக்கான வழி",
-          "ஆப்பிரிக்காவில் கடற்படைத் தளம்"
+          "பசிபிக் பெருங்கடல் வணிகப் பாதைகளுக்கான நேரடி வழி",
+          "சூயஸ் கால்வாய்க் கப்பல் போக்குவரத்துக் கட்டுப்பாடு",
+          "ஆப்கானிஸ்தான், மத்திய ஆசியாவுக்குப் பாகிஸ்தானைத் தவிர்த்த வழி",
+          "ஆப்பிரிக்கக் கடற்கரையில் நிரந்தரக் கடற்படைத் தளம்"
         ],
         "explanation": "சாபஹார் ஆப்கானிஸ்தான், மத்திய ஆசியச் சந்தைகளுக்கான பொன் வாயில்."
       }
@@ -566,19 +566,19 @@
         "q": "Which country joined Brazil, Russia, India and China in 2010 to make the grouping BRICS?",
         "options": [
           "Indonesia",
-          "Egypt",
+          "Argentina",
           "South Africa",
-          "Iran"
+          "South Korea"
         ],
         "explanation": "The textbook lists Brazil, Russia, India, China and South Africa; BRICS has since expanded (Egypt, Ethiopia, Iran, UAE joined in 2024)."
       },
       "ta": {
         "q": "பிரேசில், ரஷ்யா, இந்தியா, சீனா குழுவில் 2010இல் இணைந்து அதை BRICS ஆக்கிய நாடு எது?",
         "options": [
-          "இந்தோனேசியா",
-          "எகிப்து",
+          "இந்தோனேசியக் குடியரசு",
+          "அர்ஜென்டினக் குடியரசு",
           "தென்னாப்பிரிக்கா",
-          "ஈரான்"
+          "தென்கொரியக் குடியரசு"
         ],
         "explanation": "பாடநூல் பிரேசில், ரஷ்யா, இந்தியா, சீனா, தென்னாப்பிரிக்காவைக் குறிப்பிடுகிறது; பின்னர் எகிப்து, எத்தியோப்பியா, ஈரான், ஐக்கிய அரபு அமீரகம் 2024இல் இணைந்தன."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "India is a member of which of the following formal groupings?",
         "options": [
-          "NATO, SEATO, CENTO and OPEC",
+          "NATO, SEATO, CENTO, OPEC and the OECD",
           "UNO, NAM, SAARC, G20 and the Commonwealth",
-          "Warsaw Pact, NAM and OECD",
-          "OPEC, NATO and ASEAN"
+          "Warsaw Pact, NAM, OECD and the Arab League",
+          "OPEC, NATO, ASEAN and the European Union"
         ],
         "explanation": "India is a member of formal groupings like UNO, NAM, SAARC, G20 and the Commonwealth, and of BRICS."
       },
       "ta": {
         "q": "பின்வரும் முறையான அமைப்புகளுள் இந்தியா உறுப்பினராக உள்ளவை எவை?",
         "options": [
-          "நேட்டோ, சீட்டோ, சென்டோ, OPEC",
+          "நேட்டோ, சீட்டோ, சென்டோ, OPEC, OECD",
           "ஐ.நா., அணிசேரா இயக்கம், சார்க், G20, காமன்வெல்த்",
-          "வார்சா ஒப்பந்தம், அணிசேரா இயக்கம், OECD",
-          "OPEC, நேட்டோ, ஆசியான்"
+          "வார்சா ஒப்பந்தம், அணிசேரா இயக்கம், OECD, அரபு லீக்",
+          "OPEC, நேட்டோ, ஆசியான், ஐரோப்பிய ஒன்றியம்"
         ],
         "explanation": "இந்தியா ஐ.நா., NAM, சார்க், G20, காமன்வெல்த், BRICS ஆகியவற்றில் உறுப்பினர்."
       }
@@ -626,9 +626,9 @@
           "Delhi and Kabul",
           "Mumbai and Muscat",
           "Chennai and Colombo",
-          "Kolkata and Sittwe (Myanmar)"
+          "Kolkata and Sittwe"
         ],
-        "explanation": "It is a road-river-port cargo transport project."
+        "explanation": "Sittwe is a port in Myanmar. It is a road-river-port cargo transport project."
       },
       "ta": {
         "q": "கலடான் பல்வகைப் போக்குவரத்துத் திட்டம் எந்த இரு இடங்களை இணைக்கிறது?",
@@ -636,9 +636,9 @@
           "டெல்லி - காபூல்",
           "மும்பை - மஸ்கட்",
           "சென்னை - கொழும்பு",
-          "கொல்கத்தா - சிட்வே (மியான்மர்)"
+          "கொல்கத்தா - சிட்வே"
         ],
-        "explanation": "இது சாலை-ஆறு-துறைமுகச் சரக்குப் போக்குவரத்துத் திட்டம்."
+        "explanation": "சிட்வே மியான்மரில் உள்ள துறைமுகம். இது சாலை-ஆறு-துறைமுகச் சரக்குப் போக்குவரத்துத் திட்டம்."
       }
     }
   ]

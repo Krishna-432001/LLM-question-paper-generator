@@ -53,12 +53,12 @@
       "ta": {
         "q": "பேரிடரின் விளைவுகளைக் குறைக்கும் நடவடிக்கைகள் ______ எனப்படும்.",
         "options": [
-          "பதில்நடவடிக்கை",
+          "பதில் நடவடிக்கை",
           "முன்தயாரிப்பு",
-          "மீட்பு",
-          "தணிப்பு (தடுப்பு நடவடிக்கை)"
+          "மீட்பு நடவடிக்கை",
+          "தணிப்பு நடவடிக்கை"
         ],
-        "explanation": "அபாயத்தின் விளைவுகளையும் அதனால் பாதிக்கப்படும் நிலையையும் குறைக்கும் அனைத்து நடவடிக்கைகளும் தணிப்பில் அடங்கும்."
+        "explanation": "அபாயத்தின் விளைவுகளையும் அதனால் பாதிக்கப்படும் நிலையையும் குறைக்கும் அனைத்து நடவடிக்கைகளும் தணிப்பில் (தடுப்பு நடவடிக்கை) அடங்கும்."
       }
     },
     {
@@ -72,20 +72,20 @@
       "en": {
         "q": "A sudden movement or trembling of the earth's crust is called a(n) ______.",
         "options": [
-          "Cyclone",
+          "Landslide",
           "Tsunami",
           "Earthquake",
-          "Flood"
+          "Avalanche"
         ],
         "explanation": "The movement of tectonic plates, mass wasting, landslides and surface faults cause earthquakes."
       },
       "ta": {
         "q": "புவி மேலோட்டின் திடீர் இயக்கம் அல்லது நடுக்கம் ______ எனப்படும்.",
         "options": [
-          "புயல்",
+          "நிலச்சரிவு",
           "சுனாமி",
           "நிலநடுக்கம்",
-          "வெள்ளம்"
+          "பனிச்சரிவு"
         ],
         "explanation": "புவித்தட்டுகளின் நகர்வு, நிலச்சரிவு, பிளவு ஆகியவை நிலநடுக்கத்தை ஏற்படுத்துகின்றன."
       }
@@ -198,12 +198,12 @@
       "ta": {
         "q": "பேரிடர் நிகழும்போது மேற்கொள்ளப்படும் கட்டுப்பாட்டு அறை அமைத்தல், எச்சரிக்கை, வெளியேற்றம், மருத்துவ உதவி போன்ற நடவடிக்கைகள் ______ எனப்படும்.",
         "options": [
-          "பதில்நடவடிக்கை (துலங்கல்)",
+          "பதில்நடவடிக்கை",
           "முன்தயாரிப்பு",
           "மறுவாழ்வு",
           "தணிப்பு"
         ],
-        "explanation": "எந்தப் பேரிடருக்குமான முதல் நிலை நடவடிக்கையே இது."
+        "explanation": "எந்தப் பேரிடருக்குமான முதல் நிலை நடவடிக்கையே பதில்நடவடிக்கை (துலங்கல்)."
       }
     },
     {
@@ -228,11 +228,11 @@
         "q": "கடல் தரை திடீரெனப் பெயர்வதால் ஏற்படும் நீர் இடப்பெயர்ச்சி பேரழிவு அலைகளை உருவாக்குகிறது; அவை ______ எனப்படுகின்றன.",
         "options": [
           "வெள்ளம்",
-          "சுனாமி (ஆழிப்பேரலை)",
+          "சுனாமி",
           "புயல்",
           "புயல் எழுச்சி"
         ],
-        "explanation": "'சுனாமி' என்பது ஜப்பானியச் சொல்; 'சு' என்றால் துறைமுகம், 'நாமி' என்றால் அலைகள்."
+        "explanation": "'சுனாமி' (ஆழிப்பேரலை) என்பது ஜப்பானியச் சொல்; 'சு' என்றால் துறைமுகம், 'நாமி' என்றால் அலைகள்."
       }
     },
     {
@@ -287,7 +287,7 @@
         "options": [
           "அழிவை",
           "புறக்கணிப்பை",
-          "பாதுகாப்பைக் காத்தலை",
+          "பாதுகாப்பை",
           "வரி விதிப்பை"
         ],
         "explanation": "ஆபத்துகளின் எதிர்மறை விளைவுகளைக் குறைக்கும் முறையான செயல்முறையே இது."
@@ -362,20 +362,20 @@
       "en": {
         "q": "A hazard becomes a disaster when ______.",
         "options": [
-          "It is predicted in advance",
-          "It causes widespread destruction of property and human lives",
-          "It is prevented by people",
-          "It occurs on the sea only"
+          "It is predicted days in advance by experts",
+          "It causes widespread loss of property and lives",
+          "It is completely prevented by local people",
+          "It occurs only over the open sea and oceans"
         ],
         "explanation": "A hurricane is a hazard; when it destroys buildings and kills people on reaching land it is a disaster."
       },
       "ta": {
         "q": "ஓர் ஆபத்து ______ பேரிடராகிறது.",
         "options": [
-          "முன்கூட்டியே கணிக்கப்படும்போது",
+          "வல்லுநர்களால் நாட்கள் முன்பே கணிக்கப்படும்போது",
           "பரவலான சொத்து, உயிர் அழிவை ஏற்படுத்தும்போது",
-          "மக்களால் தடுக்கப்படும்போது",
-          "கடலில் மட்டும் நிகழும்போது"
+          "உள்ளூர் மக்களால் முழுமையாகத் தடுக்கப்படும்போது",
+          "திறந்த கடலில் மட்டும் நிகழும்போது"
         ],
         "explanation": "சூறாவளி ஆபத்து; கரையில் கட்டடங்களை அழித்து உயிரைப் பறித்தால் அது பேரிடர்."
       }
@@ -420,22 +420,22 @@
       "en": {
         "q": "Which of the following is an effect of floods?",
         "options": [
-          "Formation of volcanoes",
-          "Increase in earthquakes",
-          "Fall in sea level",
-          "Spread of contagious diseases such as cholera and malaria"
+          "Formation of active volcanoes in the area",
+          "A steady increase in earthquakes locally",
+          "Fall in the sea level along the coast",
+          "Spread of diseases like cholera and malaria"
         ],
-        "explanation": "Floods also cause loss of life and property and displacement of people."
+        "explanation": "Floods spread contagious diseases such as cholera and malaria. Floods also cause loss of life and property and displacement of people."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் வெள்ளத்தின் விளைவு எது?",
         "options": [
-          "எரிமலை உருவாதல்",
-          "நிலநடுக்கம் அதிகரித்தல்",
-          "கடல்மட்டம் தாழ்தல்",
-          "காலரா, மலேரியா போன்ற தொற்று நோய்கள் பரவுதல்"
+          "அப்பகுதியில் எரிமலைகள் உருவாதல்",
+          "அப்பகுதியில் நிலநடுக்கங்கள் அதிகரித்தல்",
+          "கடலோரத்தில் கடல்மட்டம் தாழ்தல்",
+          "காலரா, மலேரியா போன்ற நோய்கள் பரவுதல்"
         ],
-        "explanation": "உயிர், உடைமை இழப்பும் மக்கள் இடம்பெயர்தலும் பிற விளைவுகள்."
+        "explanation": "வெள்ளம் காலரா, மலேரியா போன்ற தொற்று நோய்களைப் பரப்பும்; உயிர், உடைமை இழப்பும் மக்கள் இடம்பெயர்தலும் பிற விளைவுகள்."
       }
     },
     {

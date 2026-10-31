@@ -16,7 +16,7 @@
         "options": [
           "Silica and aluminium",
           "Silica and magnesium",
-          "Nickel and ferrous (iron)",
+          "Nickel and ferrous iron",
           "Iron and magnesium"
         ],
         "explanation": "The inner core, composed of nickel and ferrous (Nife), is solid."
@@ -26,7 +26,7 @@
         "options": [
           "சிலிக்கா, அலுமினியம்",
           "சிலிக்கா, மெக்னீசியம்",
-          "நிக்கல், ஃபெர்ரஸ் (இரும்பு)",
+          "நிக்கல், ஃபெர்ரஸ் இரும்பு",
           "இரும்பு, மெக்னீசியம்"
         ],
         "explanation": "நிக்கல், ஃபெர்ரஸ் ஆகியவற்றால் ஆன உட்கருவம் திட நிலையில் உள்ளது."
@@ -507,7 +507,7 @@
       "en": {
         "q": "SIAL is the ______.",
         "options": [
-          "Upper part of the crust, rich in silica and alumina (granite)",
+          "Upper part of the crust, rich in silica and alumina",
           "Upper mantle",
           "Outer core",
           "Lower part of the crust, rich in silica and magnesium"
@@ -517,7 +517,7 @@
       "ta": {
         "q": "சியால் (SIAL) என்பது ______.",
         "options": [
-          "சிலிகா, அலுமினியம் நிறைந்த கிரானைட் பாறையாலான மேலோட்டின் மேற்பகுதி",
+          "சிலிகா, அலுமினியம் நிறைந்த மேலோட்டின் மேற்பகுதி",
           "மேல் கவசம்",
           "வெளிக் கருவம்",
           "சிலிகா, மெக்னீசியம் நிறைந்த மேலோட்டின் கீழ்ப்பகுதி"
@@ -548,10 +548,10 @@
         "options": [
           "சமநிலை நகர்வு",
           "வெளியார்ந்த சிதைவு",
-          "டெக்டானிக் (புவித்தட்டு) நகர்வு",
+          "டெக்டானிக் நகர்வு",
           "உள்ளார்ந்த வெடிப்பு"
         ],
-        "explanation": "தட்டுகளை நகர்த்தும் ஆற்றல் புவியின் உள் வெப்பத்தால் உருவாகிறது."
+        "explanation": "தட்டுகளை நகர்த்தும் ஆற்றல் புவியின் உள் வெப்பத்தால் உருவாகிறது; இது டெக்டானிக் (புவித்தட்டு) நகர்வு."
       }
     },
     {
@@ -663,7 +663,7 @@
         "q": "நிலநடுக்க அதிர்வுகள் தோன்றும் இடம் ______ எனப்படும்.",
         "options": [
           "மேல்மையப்புள்ளி",
-          "நிலநடுக்க மையம் (குவிமையம்)",
+          "நிலநடுக்கக் குவிமையம்",
           "எரிமலைவாய்",
           "எரிமலைப் பள்ளம்"
         ],
@@ -739,20 +739,20 @@
       "en": {
         "q": "Why is the continental crust less dense than the oceanic crust despite being thicker?",
         "options": [
-          "It is made only of basalt",
-          "It lies deeper in the earth",
-          "It is made of both light and dense rock types",
-          "It is liquid"
+          "It is made only of dense basalt rock",
+          "It lies much deeper inside the earth",
+          "It consists of light and dense rock types",
+          "It is a liquid layer of molten rock"
         ],
         "explanation": "The oceanic crust is composed mostly of dense rocks such as basalt."
       },
       "ta": {
         "q": "கண்ட மேலோடு தடிமனாக இருந்தும் கடல் மேலோட்டைவிட அடர்த்தி குறைவாக இருப்பது ஏன்?",
         "options": [
-          "இது பசால்ட்டால் மட்டுமே ஆனது",
-          "இது புவியில் ஆழத்தில் உள்ளது",
+          "இது அடர்த்தியான பசால்ட் பாறையால் மட்டுமே ஆனது",
+          "இது புவியின் உள்ளே மிகவும் ஆழத்தில் அமைந்துள்ளது",
           "இது லேசான, அடர்த்தியான இருவகைப் பாறைகளாலும் ஆனது",
-          "இது திரவ நிலையில் உள்ளது"
+          "இது உருகிய பாறையால் ஆன திரவ அடுக்கு ஆகும்"
         ],
         "explanation": "கடல் மேலோடு பெரும்பாலும் பசால்ட் போன்ற அடர்த்தியான பாறைகளால் ஆனது."
       }
@@ -769,9 +769,9 @@
         "q": "Which statement correctly distinguishes Sial from Sima?",
         "options": [
           "Sial forms ocean floors while Sima forms continents",
-          "Sial (2.7 g/cm3) is lighter than Sima (3.0 g/cm3)",
+          "Sial has a density of 2.7 g/cm3, lighter than Sima",
           "Sial is rich in silica and magnesium",
-          "Sima is granitic"
+          "Sima is granitic in composition"
         ],
         "explanation": "Sial (silica + alumina) forms the continents; denser Sima (silica + magnesium) forms the ocean floors."
       },
@@ -779,9 +779,9 @@
         "q": "சியால், சிமா இடையேயான சரியான வேறுபாடு எது?",
         "options": [
           "சியால் கடல் தளத்தையும் சிமா கண்டங்களையும் உருவாக்குகிறது",
-          "சியால் (2.7 கி/செ.மீ³) சிமாவை (3.0 கி/செ.மீ³) விட லேசானது",
+          "சியாலின் அடர்த்தி 2.7 கி/செ.மீ³; சிமாவை விட லேசானது",
           "சியால் சிலிகா, மெக்னீசியம் நிறைந்தது",
-          "சிமா கிரானைட்டால் ஆனது"
+          "சிமா கிரானைட் தன்மை உடையது"
         ],
         "explanation": "சியால் (சிலிகா, அலுமினியம்) கண்டங்களையும் அடர்த்தியான சிமா (சிலிகா, மெக்னீசியம்) கடல் தளத்தையும் உருவாக்குகின்றன."
       }

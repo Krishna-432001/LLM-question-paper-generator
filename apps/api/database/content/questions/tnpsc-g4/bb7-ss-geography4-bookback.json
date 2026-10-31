@@ -15,9 +15,9 @@
         "q": "Which one of the following is a renewable resource?",
         "options": [
           "Solar energy",
-          "Iron",
-          "Petrol",
-          "Gold"
+          "Iron ore",
+          "Petroleum oil",
+          "Natural gas"
         ],
         "explanation": "A renewable resource can be used repeatedly and replaced naturally; examples are solar, wind and hydropower."
       },
@@ -25,9 +25,9 @@
         "q": "பின்வருவனவற்றுள் புதுப்பிக்கத்தக்க வளம் எது?",
         "options": [
           "சூரிய ஆற்றல்",
-          "இரும்பு",
-          "பெட்ரோல்",
-          "தங்கம்"
+          "இரும்புத் தாது",
+          "பெட்ரோலிய எண்ணெய்",
+          "இயற்கை எரிவாயு"
         ],
         "explanation": "மீண்டும் மீண்டும் பயன்படுத்தவும் இயற்கையாக மீள்உருவாகவும் கூடியது புதுப்பிக்கத்தக்க வளம்; சூரிய, காற்று, நீர்மின் ஆற்றல்கள் எடுத்துக்காட்டுகள்."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "Which metal is used in making electrical batteries and is essential for the production of good quality steel?",
         "options": [
-          "Gold",
+          "Platinum",
           "Manganese",
-          "Copper",
-          "Silver"
+          "Aluminium",
+          "Mercury"
         ],
         "explanation": "South Africa is the world's leading producer of manganese."
       },
       "ta": {
         "q": "மின்கலங்கள் தயாரிக்கப் பயன்படுவதும், தரமான எஃகு தயாரிப்பில் இன்றியமையாததுமான உலோகம் எது?",
         "options": [
-          "தங்கம்",
+          "பிளாட்டினம்",
           "மாங்கனீசு",
-          "தாமிரம்",
-          "வெள்ளி"
+          "அலுமினியம்",
+          "பாதரசம்"
         ],
         "explanation": "உலகில் மாங்கனீசை அதிகம் உற்பத்தி செய்யும் நாடு தென்னாப்பிரிக்கா."
       }
@@ -452,9 +452,9 @@
           "India",
           "Saudi Arabia",
           "China",
-          "Japan"
+          "United States"
         ],
-        "explanation": "Italy and the United States of America are also major utilizers."
+        "explanation": "Japan and Italy are also listed as major utilizers."
       },
       "ta": {
         "q": "உலகில் சூரிய ஆற்றலை அதிகம் பயன்படுத்தும் நாடுகளாகப் பாடத்தில் குறிப்பிடப்படாதது எது?",
@@ -462,9 +462,9 @@
           "இந்தியா",
           "சவுதி அரேபியா",
           "சீனா",
-          "ஜப்பான்"
+          "அமெரிக்க ஐக்கிய நாடுகள்"
         ],
-        "explanation": "இத்தாலி, அமெரிக்க ஐக்கிய நாடுகளும் அதிகம் பயன்படுத்துகின்றன."
+        "explanation": "ஜப்பான், இத்தாலியும் அதிகம் பயன்படுத்தும் நாடுகளாகக் குறிப்பிடப்படுகின்றன."
       }
     },
     {
@@ -507,9 +507,9 @@
       "en": {
         "q": "Duralumin is a hard, light alloy of aluminium with ______.",
         "options": [
-          "Iron and carbon",
-          "Gold and silver",
-          "Zinc only",
+          "Iron and a little carbon",
+          "Gold and silver in small amounts",
+          "Zinc and tin in small amounts",
           "Copper and other elements"
         ],
         "explanation": "By the addition of small quantities of other metals to aluminium, it creates superior alloys."
@@ -517,9 +517,9 @@
       "ta": {
         "q": "துராலுமின் என்பது அலுமினியத்துடன் ______ சேர்ந்த கடினமான, இலேசான உலோகக் கலவை.",
         "options": [
-          "இரும்பு, கார்பன்",
-          "தங்கம், வெள்ளி",
-          "துத்தநாகம் மட்டும்",
+          "இரும்பு, சிறிதளவு கார்பன்",
+          "சிறிதளவு தங்கம், வெள்ளி",
+          "துத்தநாகம், தகரம் மட்டும்",
           "தாமிரம் மற்றும் பிற தனிமங்கள்"
         ],
         "explanation": "அலுமினியத்துடன் சிறிதளவு பிற உலோகங்களைச் சேர்த்துச் சிறந்த கலவைகள் உருவாக்கப்படுகின்றன."
@@ -537,21 +537,21 @@
         "q": "Aluminium has a wide range of uses compared with other metals because it is ______.",
         "options": [
           "A poor conductor of electricity",
-          "Heavy and brittle",
-          "Rare and expensive",
-          "Light in weight, tough, cheaper and highly resistant to corrosion"
+          "Heavy, dense and very brittle",
+          "Rare, scarce and very expensive",
+          "Light, tough, cheap and corrosion-resistant"
         ],
-        "explanation": "It is used in aircraft, ships, automobiles, railway coaches and electrical cables."
+        "explanation": "Aluminium is light in weight, tough, cheaper and highly resistant to corrosion. It is used in aircraft, ships, automobiles, railway coaches and electrical cables."
       },
       "ta": {
         "q": "பிற உலோகங்களைவிட அலுமினியத்திற்குப் பரந்த பயன்பாடுகள் உள்ளதற்குக் காரணம் அது ______.",
         "options": [
-          "மின்சாரத்தைக் கடத்தாதது",
+          "மின்சாரத்தை நன்றாகக் கடத்தாதது",
           "கனமாகவும் உடையக்கூடியதாகவும் இருப்பது",
           "அரிதாகவும் விலை உயர்ந்ததாகவும் இருப்பது",
-          "எடை குறைவாகவும் உறுதியாகவும் மலிவாகவும் அரிப்பை எதிர்ப்பதாகவும் இருப்பது"
+          "இலேசாகவும் உறுதியாகவும் மலிவாகவும் இருப்பது"
         ],
-        "explanation": "இது விமானம், கப்பல், வாகனம், ரயில் பெட்டி, மின்கம்பிகள் தயாரிக்கப் பயன்படுகிறது."
+        "explanation": "அலுமினியம் எடை குறைவானது, உறுதியானது, மலிவானது, அரிப்பை மிகவும் எதிர்ப்பது. இது விமானம், கப்பல், வாகனம், ரயில் பெட்டி, மின்கம்பிகள் தயாரிக்கப் பயன்படுகிறது."
       }
     }
   ]

@@ -72,20 +72,20 @@
       "en": {
         "q": "The longest rivers in North America are ______.",
         "options": [
-          "The Mackenzie river",
-          "The St. Lawrence river",
+          "The Mackenzie and Yukon rivers",
+          "The St. Lawrence and Ohio rivers",
           "The Mississippi and Missouri rivers",
-          "The Colorado river"
+          "The Colorado and Columbia rivers"
         ],
         "explanation": "Together they form the fourth longest river system in the world."
       },
       "ta": {
         "q": "வட அமெரிக்காவின் நீளமான ஆறுகள் ______.",
         "options": [
-          "மெக்கன்சி ஆறு",
-          "செயின்ட் லாரன்ஸ் ஆறு",
+          "மெக்கன்சி, யுகான் ஆறுகள்",
+          "செயின்ட் லாரன்ஸ், ஓஹியோ ஆறுகள்",
           "மிசிசிப்பி, மிசௌரி ஆறுகள்",
-          "கொலராடோ ஆறு"
+          "கொலராடோ, கொலம்பியா ஆறுகள்"
         ],
         "explanation": "இவை இரண்டும் சேர்ந்து உலகின் நான்காவது நீளமான ஆற்று அமைப்பாகின்றன."
       }
@@ -228,9 +228,9 @@
         "q": "ஆண்டிஸ் மலையின் மிக உயர்ந்த சிகரம் அர்ஜென்டினா எல்லையிலுள்ள ______.",
         "options": [
           "அகன்காகுவா சிகரம்",
-          "கோட்டோபாக்சி",
-          "சிம்போராசோ",
-          "மெக்கின்லி"
+          "கோட்டோபாக்சி எரிமலை",
+          "சிம்போராசோ சிகரம்",
+          "மெக்கின்லி சிகரம்"
         ],
         "explanation": "சிலி எல்லைக்கு அருகில் அர்ஜென்டினாவில் உள்ள அகன்காகுவா (6,961 மீ.) ஆண்டிஸின் மற்றும் அமெரிக்கக் கண்டங்களின் மிக உயர்ந்த சிகரம்; இது எரிமலை அன்று."
       }
@@ -333,22 +333,22 @@
       "en": {
         "q": "The United States of America is known as the 'Melting Pot' because ______.",
         "options": [
-          "Hundreds of different cultures meet, blend and create a new culture",
-          "It has extremely hot summers",
-          "It is the largest producer of iron",
-          "It has many volcanoes"
+          "Many cultures meet and blend into a new culture",
+          "It has extremely hot summers in all states",
+          "It is the largest producer of iron in the world",
+          "It has many active volcanoes in every state"
         ],
-        "explanation": "Most people in North America are descendants of settlers from other parts of the world."
+        "explanation": "Hundreds of different cultures meet, blend and create a new culture. Most people in North America are descendants of settlers from other parts of the world."
       },
       "ta": {
         "q": "அமெரிக்க ஐக்கிய நாடு 'உருகும் பாத்திரம்' (Melting Pot) எனப்படக் காரணம் ______.",
         "options": [
-          "நூற்றுக்கணக்கான பண்பாடுகள் சந்தித்துக் கலந்து புதிய பண்பாட்டை உருவாக்குவதால்",
-          "மிகக் கடுமையான கோடை இருப்பதால்",
-          "இரும்பை அதிகம் உற்பத்தி செய்வதால்",
-          "அதிக எரிமலைகள் இருப்பதால்"
+          "பல பண்பாடுகள் கலந்து புதிய பண்பாடு உருவாவதால்",
+          "அனைத்து மாநிலங்களிலும் மிகக் கடுமையான கோடை இருப்பதால்",
+          "உலகிலேயே இரும்பை அதிகம் உற்பத்தி செய்வதால்",
+          "ஒவ்வொரு மாநிலத்திலும் செயல்படும் எரிமலைகள் இருப்பதால்"
         ],
-        "explanation": "வட அமெரிக்க மக்களில் பெரும்பாலோர் பிற பகுதிகளிலிருந்து வந்த குடியேறிகளின் வழித்தோன்றல்கள்."
+        "explanation": "நூற்றுக்கணக்கான பண்பாடுகள் சந்தித்துக் கலந்து புதிய பண்பாட்டை உருவாக்குகின்றன. வட அமெரிக்க மக்களில் பெரும்பாலோர் பிற பகுதிகளிலிருந்து வந்த குடியேறிகளின் வழித்தோன்றல்கள்."
       }
     },
     {
@@ -421,21 +421,21 @@
         "q": "Which statement correctly distinguishes the Rockies from the Appalachians?",
         "options": [
           "The Rockies are old and low while the Appalachians are young and high",
-          "The Rockies are young fold mountains in the west while the Appalachians are old, low and worn down in the east",
-          "Both are young mountains in the west",
+          "The Rockies are young fold mountains in the west; the Appalachians are old and low",
+          "Both are young, high mountains in the west of the continent",
           "The Appalachians are a continuous high chain like the Rockies"
         ],
-        "explanation": "The Appalachian Highlands do not form a continuous chain and have very few peaks above 1,800 m."
+        "explanation": "The Rockies are young fold mountains in the west; the Appalachians in the east are old and worn down. The Appalachian Highlands do not form a continuous chain and have very few peaks above 1,800 m."
       },
       "ta": {
         "q": "ராக்கீஸ், அப்பலேசியன் மலைகளுக்கு இடையேயான சரியான வேறுபாடு எது?",
         "options": [
           "ராக்கீஸ் பழைய தாழ்வான மலைகள்; அப்பலேசியன் இளம் உயர்ந்த மலைகள்",
-          "ராக்கீஸ் மேற்கிலுள்ள இளம் மடிப்பு மலைகள்; அப்பலேசியன் கிழக்கிலுள்ள பழைய, தாழ்வான, தேய்ந்த மலைகள்",
-          "இரண்டும் மேற்கிலுள்ள இளம் மலைகள்",
+          "ராக்கீஸ் மேற்கிலுள்ள இளம் மடிப்பு மலைகள்; அப்பலேசியன் பழைய, தாழ்வான மலைகள்",
+          "இரண்டும் கண்டத்தின் மேற்கிலுள்ள இளம், உயர்ந்த மலைகள்",
           "அப்பலேசியன் ராக்கீஸைப் போல் தொடர்ச்சியான உயர்ந்த தொடர்"
         ],
-        "explanation": "அப்பலேசியன் மலைகள் தொடர்ச்சியான சங்கிலியல்ல; 1,800 மீ.க்கு மேற்பட்ட சிகரங்கள் மிகக் குறைவு."
+        "explanation": "ராக்கீஸ் மேற்கிலுள்ள இளம் மடிப்பு மலைகள்; அப்பலேசியன் கிழக்கிலுள்ள பழைய, தேய்ந்த மலைகள். அப்பலேசியன் மலைகள் தொடர்ச்சியான சங்கிலியல்ல; 1,800 மீ.க்கு மேற்பட்ட சிகரங்கள் மிகக் குறைவு."
       }
     },
     {
@@ -478,22 +478,22 @@
       "en": {
         "q": "Which statement is correct about Tundra and Taiga in North America?",
         "options": [
-          "Tundra has mosses and lichens in the cold north, while Taiga has pine, fir and spruce coniferous forests",
-          "Tundra has pine and fir forests while Taiga has mosses",
-          "Both are hot desert regions",
+          "Tundra has mosses and lichens, while Taiga has pine, fir and spruce forests",
+          "Tundra has pine and fir forests while Taiga has only mosses and lichens",
+          "Both are hot desert regions of the continent",
           "Taiga lies on the northern coast of Canada"
         ],
-        "explanation": "Tundra lies on the northern coast of Canada; Taiga in south central Alaska and north eastern Canada."
+        "explanation": "Tundra has mosses and lichens in the cold north, while Taiga has pine, fir and spruce coniferous forests. Tundra lies on the northern coast of Canada; Taiga in south central Alaska and north eastern Canada."
       },
       "ta": {
         "q": "வட அமெரிக்காவின் டன்ட்ரா, டைகா குறித்த சரியான கூற்று எது?",
         "options": [
-          "டன்ட்ராவில் பாசி, லைக்கன்கள் உள்ளன; டைகாவில் பைன், ஃபிர், ஸ்புரூஸ் ஊசியிலைக் காடுகள் உள்ளன",
-          "டன்ட்ராவில் பைன், ஃபிர் காடுகள்; டைகாவில் பாசி",
-          "இரண்டும் வெப்பப் பாலைவனப் பகுதிகள்",
+          "டன்ட்ராவில் பாசி, லைக்கன்கள்; டைகாவில் பைன், ஃபிர், ஸ்புரூஸ் காடுகள்",
+          "டன்ட்ராவில் பைன், ஃபிர் காடுகள்; டைகாவில் பாசி, லைக்கன்கள் மட்டும்",
+          "இரண்டும் கண்டத்தின் வெப்பப் பாலைவனப் பகுதிகள்",
           "டைகா கனடாவின் வடக்குக் கடற்கரையில் உள்ளது"
         ],
-        "explanation": "டன்ட்ரா கனடாவின் வடக்குக் கடற்கரையிலும், டைகா அலாஸ்காவின் தென்-மத்தியிலும் வடகிழக்குக் கனடாவிலும் உள்ளன."
+        "explanation": "குளிர்ந்த வடக்கில் டன்ட்ராவில் பாசி, லைக்கன்கள்; டைகாவில் பைன், ஃபிர், ஸ்புரூஸ் ஊசியிலைக் காடுகள். டன்ட்ரா கனடாவின் வடக்குக் கடற்கரையிலும், டைகா அலாஸ்காவின் தென்-மத்தியிலும் வடகிழக்குக் கனடாவிலும் உள்ளன."
       }
     },
     {
@@ -652,20 +652,20 @@
       "en": {
         "q": "Which of the following is a densely populated area of North America?",
         "options": [
-          "Northern Canada",
-          "Eastern part of North America and the Great Lakes region",
-          "Rocky Mountain regions",
-          "Alaska"
+          "Northern Canada and the Arctic coast",
+          "Eastern North America and the Great Lakes",
+          "The Rocky Mountain regions of the west",
+          "Alaska and the Yukon territory"
         ],
         "explanation": "Northern Canada, Alaska and the Rocky Mountains are sparsely populated."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் வட அமெரிக்காவின் அடர்த்தியாக மக்கள் வாழும் பகுதி எது?",
         "options": [
-          "வட கனடா",
-          "வட அமெரிக்காவின் கிழக்குப் பகுதியும் பெருங்கடல் ஏரிப் பகுதியும்",
-          "ராக்கி மலைப் பகுதிகள்",
-          "அலாஸ்கா"
+          "வட கனடாவும் ஆர்க்டிக் கடற்கரைப் பகுதியும்",
+          "கிழக்கு வட அமெரிக்காவும் பேரேரிகள் பகுதியும்",
+          "மேற்கிலுள்ள ராக்கி மலைப் பகுதிகள் முழுவதும்",
+          "அலாஸ்காவும் யுகான் பிரதேசமும் சேர்ந்த பகுதி"
         ],
         "explanation": "வட கனடா, அலாஸ்கா, ராக்கி மலைப் பகுதிகள் மக்கள் அடர்த்தி குறைந்தவை."
       }
@@ -681,22 +681,22 @@
       "en": {
         "q": "The physiographic divisions of South America are ______.",
         "options": [
-          "The Andes Mountains, the River Basins (Central Plains) and the Eastern Highlands",
+          "The Andes, the River Basins and the Eastern Highlands",
           "The Rockies, the Great Plains and the Coastal Plain",
-          "The Andes, the Alps and the Himalayas",
-          "The Selvas, the Pampas and the Gran Chaco"
+          "The Andes, the Alps and the Himalayan ranges",
+          "The Selvas, the Pampas and the Gran Chaco plains"
         ],
-        "explanation": "The Eastern Highlands include the Guiana Highlands and the Brazilian Highlands."
+        "explanation": "The River Basins are the Central Plains. The Eastern Highlands include the Guiana Highlands and the Brazilian Highlands."
       },
       "ta": {
         "q": "தென் அமெரிக்காவின் நிலத்தோற்றப் பிரிவுகள் ______.",
         "options": [
-          "ஆண்டிஸ் மலைகள், ஆற்று வடிநிலங்கள் (மத்திய சமவெளி), கிழக்கு உயர்நிலங்கள்",
-          "ராக்கீஸ், பெரும் சமவெளி, கடலோரச் சமவெளி",
-          "ஆண்டிஸ், ஆல்ப்ஸ், இமயமலை",
-          "செல்வாஸ், பாம்பாஸ், கிரான் சாக்கோ"
+          "ஆண்டிஸ் மலைகள், ஆற்று வடிநிலங்கள், கிழக்கு உயர்நிலங்கள்",
+          "ராக்கீஸ் மலைகள், பெரும் சமவெளி, கடலோரச் சமவெளி",
+          "ஆண்டிஸ் மலைகள், ஆல்ப்ஸ், இமயமலைத் தொடர்கள்",
+          "செல்வாஸ், பாம்பாஸ், கிரான் சாக்கோ சமவெளிகள்"
         ],
-        "explanation": "கிழக்கு உயர்நிலங்களில் கயானா, பிரேசில் உயர்நிலங்கள் அடங்கும்."
+        "explanation": "ஆற்று வடிநிலங்கள் என்பவை மத்திய சமவெளி. கிழக்கு உயர்நிலங்களில் கயானா, பிரேசில் உயர்நிலங்கள் அடங்கும்."
       }
     },
     {

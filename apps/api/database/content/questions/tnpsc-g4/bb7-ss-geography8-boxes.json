@@ -43,20 +43,20 @@
       "en": {
         "q": "Which of the following is a man-made (socio-technical) disaster?",
         "options": [
-          "Hailstorm",
-          "Earthquake",
-          "Structural collapse and transportation accidents",
-          "Avalanche"
+          "Hailstorms and severe thunderstorms",
+          "Earthquakes and volcanic eruptions",
+          "Building collapses and transport accidents",
+          "Avalanches and mountain landslides"
         ],
         "explanation": "Earthquakes, tsunamis and volcanic eruptions originate beneath the earth's surface."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் மனிதனால் உருவான (சமூகத் தொழில்நுட்ப) பேரிடர் எது?",
         "options": [
-          "ஆலங்கட்டி மழை",
-          "நிலநடுக்கம்",
+          "ஆலங்கட்டி மழை, கடும் இடிப்புயல்",
+          "நிலநடுக்கம், எரிமலை வெடிப்புகள்",
           "கட்டடச் சரிவு, போக்குவரத்து விபத்துகள்",
-          "பனிச்சரிவு"
+          "பனிச்சரிவு, மலை நிலச்சரிவுகள்"
         ],
         "explanation": "நிலநடுக்கம், சுனாமி, எரிமலை வெடிப்பு ஆகியவை புவிக்கடியில் தோன்றுபவை."
       }
@@ -111,10 +111,10 @@
       "ta": {
         "q": "'சுனாமி' என்ற ஜப்பானியச் சொல்லில் 'சு' என்பது ______; 'நாமி' என்பது அலைகள்.",
         "options": [
-          "மலை",
+          "மலைத்தொடர்",
           "துறைமுகம்",
-          "புயல்",
-          "கடல்"
+          "பெரும்புயல்",
+          "பெருங்கடல்"
         ],
         "explanation": "கடல் தரையை நிலநடுக்கம் உலுக்கும்போது சுனாமி உருவாகிறது."
       }
@@ -198,12 +198,12 @@
       "ta": {
         "q": "கூட்டத்தினர் திடீரெனப் பாய்ந்து செல்வதால் மூச்சுத்திணறல், மிதிபடுதலால் காயமும் உயிரிழப்பும் ஏற்படுவது ______ எனப்படும்.",
         "options": [
-          "சுனாமி",
-          "கூட்ட நெரிசல் (ஸ்டாம்பீடு)",
-          "நிலச்சரிவு",
-          "பனிச்சரிவு"
+          "சுனாமி அலை",
+          "கூட்ட நெரிசல்",
+          "மண் நிலச்சரிவு",
+          "பனிச் சரிவு"
         ],
-        "explanation": "தடுப்புகள், வரிசை ஒழுங்கு, பெருங்கூட்டத்தைத் தவிர்த்தல் மூலம் இதைத் தடுக்கலாம்."
+        "explanation": "தடுப்புகள், வரிசை ஒழுங்கு, பெருங்கூட்டத்தைத் தவிர்த்தல் மூலம் கூட்ட நெரிசலை (ஸ்டாம்பீடு) தடுக்கலாம்."
       }
     },
     {
@@ -246,20 +246,20 @@
       "en": {
         "q": "Which of the following is part of the 'Preparedness' phase of disaster management?",
         "options": [
-          "Replacing destroyed buildings",
-          "Providing temporary housing",
-          "Clearing debris after the event",
-          "Developing warning systems and formulating emergency plans"
+          "Replacing the destroyed buildings with new ones",
+          "Providing temporary housing to the homeless",
+          "Clearing the debris after the event is over",
+          "Setting up warning systems and emergency plans"
         ],
         "explanation": "Rehabilitation includes temporary public utilities and housing."
       },
       "ta": {
         "q": "பேரிடர் மேலாண்மையின் 'முன்தயாரிப்பு' நிலையில் அடங்குவது எது?",
         "options": [
-          "அழிந்த கட்டடங்களை மாற்றுதல்",
-          "தற்காலிக வீடுகளை வழங்குதல்",
-          "நிகழ்வுக்குப்பின் இடிபாடுகளை அகற்றுதல்",
-          "எச்சரிக்கை அமைப்புகளை உருவாக்குதலும் அவசரகாலத் திட்டங்களை வகுத்தலும்"
+          "அழிந்த கட்டடங்களுக்குப் பதிலாகப் புதியவற்றைக் கட்டுதல்",
+          "வீடிழந்தோருக்குத் தற்காலிக வீடுகளை வழங்குதல்",
+          "நிகழ்வு முடிந்தபின் இடிபாடுகளை அகற்றுதல்",
+          "எச்சரிக்கை அமைப்பு, அவசரகாலத் திட்டம் உருவாக்குதல்"
         ],
         "explanation": "தற்காலிகப் பொதுப் பயன்பாடுகளையும் வீடுகளையும் வழங்குவது மறுவாழ்வில் அடங்கும்."
       }
@@ -306,20 +306,20 @@
         "options": [
           "National Institute of Disaster Management",
           "State Disaster Response Force only",
-          "National Disaster Response Force (NDRF)",
+          "National Disaster Response Force",
           "Home Guards"
         ],
-        "explanation": "NIDM is the premier institute for training and capacity development."
+        "explanation": "The National Disaster Response Force (NDRF) is the specialised force. NIDM is the premier institute for training and capacity development."
       },
       "ta": {
         "q": "2005 பேரிடர் மேலாண்மைச் சட்டத்தின்கீழ் பேரிடரில் சிறப்புத் துலங்கலுக்கு அமைக்கப்பட்ட படை ______.",
         "options": [
           "தேசிய பேரிடர் மேலாண்மை நிறுவனம்",
           "மாநிலப் பேரிடர் மீட்புப் படை மட்டும்",
-          "தேசிய பேரிடர் மீட்புப் படை (NDRF)",
+          "தேசிய பேரிடர் மீட்புப் படை",
           "ஊர்க்காவல் படை"
         ],
-        "explanation": "NIDM பயிற்சிக்கும் திறன் மேம்பாட்டிற்குமான முதன்மை நிறுவனம்."
+        "explanation": "தேசிய பேரிடர் மீட்புப் படை (NDRF) சிறப்புப் படை. NIDM பயிற்சிக்கும் திறன் மேம்பாட்டிற்குமான முதன்மை நிறுவனம்."
       }
     },
     {
@@ -333,22 +333,22 @@
       "en": {
         "q": "At the district level, disaster management is the responsibility of the ______.",
         "options": [
-          "District Disaster Management Authority (DDMA)",
+          "District Disaster Management Authority",
           "National Institute of Disaster Management",
           "State Disaster Response Force",
           "Indian Meteorological Department"
         ],
-        "explanation": "The Tamil Nadu SDRF was constituted with 80 police personnel trained in consultation with the NDRF."
+        "explanation": "The District Disaster Management Authority (DDMA) is responsible at district level. The Tamil Nadu SDRF was constituted with 80 police personnel trained in consultation with the NDRF."
       },
       "ta": {
         "q": "மாவட்ட அளவில் பேரிடர் மேலாண்மைக்குப் பொறுப்பான அமைப்பு ______.",
         "options": [
-          "மாவட்டப் பேரிடர் மேலாண்மை ஆணையம் (DDMA)",
+          "மாவட்டப் பேரிடர் மேலாண்மை ஆணையம்",
           "தேசிய பேரிடர் மேலாண்மை நிறுவனம்",
           "மாநிலப் பேரிடர் மீட்புப் படை",
           "இந்திய வானிலைத் துறை"
         ],
-        "explanation": "தமிழ்நாடு மாநிலப் பேரிடர் மீட்புப் படை 80 காவலர்களுடன் NDRF ஆலோசனையுடன் பயிற்சி பெற்றது."
+        "explanation": "மாவட்டப் பேரிடர் மேலாண்மை ஆணையம் (DDMA) மாவட்ட அளவில் பொறுப்பு. தமிழ்நாடு மாநிலப் பேரிடர் மீட்புப் படை 80 காவலர்களுடன் NDRF ஆலோசனையுடன் பயிற்சி பெற்றது."
       }
     },
     {

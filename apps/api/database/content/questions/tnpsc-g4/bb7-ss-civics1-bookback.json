@@ -82,12 +82,12 @@
       "ta": {
         "q": "சாதி, பணம், சமயம் போன்றவற்றின் அடிப்படையில் மனிதனால் உருவாக்கப்பட்ட ஏற்றத்தாழ்வு ______ எனப்படும்.",
         "options": [
-          "செயற்கை (மனிதனால் உருவாக்கப்பட்ட) ஏற்றத்தாழ்வு",
+          "செயற்கை ஏற்றத்தாழ்வு",
           "பொருளாதார ஏற்றத்தாழ்வு",
           "இயற்கை ஏற்றத்தாழ்வு",
           "பாலின ஏற்றத்தாழ்வு"
         ],
-        "explanation": "நிறம், உயரம், திறமை போன்ற இயற்கை ஏற்றத்தாழ்வுகளை மாற்ற இயலாது; செயற்கை ஏற்றத்தாழ்வுகளை நீக்கலாம்."
+        "explanation": "செயற்கை (மனிதனால் உருவாக்கப்பட்ட) ஏற்றத்தாழ்வுகளை நீக்கலாம்; நிறம், உயரம், திறமை போன்ற இயற்கை ஏற்றத்தாழ்வுகளை மாற்ற இயலாது."
       }
     },
     {
@@ -275,20 +275,20 @@
       "en": {
         "q": "Equality means ensuring that individuals or groups are ______.",
         "options": [
-          "Treated differently according to wealth",
-          "Given identical rewards regardless of effort",
-          "Not treated differently or less favourably on the basis of protected characteristics like race, gender or religion",
-          "Made the same in ability and talent"
+          "Treated differently according to wealth or status",
+          "Given identical rewards regardless of their effort",
+          "Not treated differently because of race, gender or religion",
+          "Made exactly the same in ability and talent"
         ],
         "explanation": "Laski: equality does not mean identity of treatment or sameness of reward."
       },
       "ta": {
         "q": "சமத்துவம் என்பது தனிநபர் அல்லது குழுக்களை ______ உறுதி செய்வதாகும்.",
         "options": [
-          "செல்வத்தின் அடிப்படையில் வேறுபடுத்துவதை",
-          "முயற்சியின்றி ஒரே ஊதியம் வழங்குவதை",
-          "இனம், பாலினம், சமயம் போன்ற காரணங்களால் வேறுபடுத்தாமலும் குறைவாக நடத்தாமலும் இருப்பதை",
-          "திறமையில் அனைவரையும் ஒரே மாதிரியாக்குவதை"
+          "செல்வம், பதவியின் அடிப்படையில் வேறுபடுத்துவதை",
+          "முயற்சியைப் பொருட்படுத்தாமல் ஒரே ஊதியம் வழங்குவதை",
+          "இனம், பாலினம், சமயம் காரணமாக வேறுபடுத்தாமல் இருப்பதை",
+          "திறமையில் அனைவரையும் முற்றிலும் ஒரே மாதிரியாக்குவதை"
         ],
         "explanation": "லாஸ்கி: சமத்துவம் என்பது ஒரேமாதிரி நடத்துவதோ ஒரே வெகுமதியோ அன்று."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "Civil equality is ______.",
         "options": [
-          "Equal pay for all workers",
-          "Enjoyment of civil rights by all citizens without discrimination",
-          "Equal marks for all students",
-          "The right to contest elections"
+          "Equal pay for all workers in a factory",
+          "All citizens enjoying civil rights equally",
+          "Equal marks for all students in a class",
+          "The right to contest elections and vote"
         ],
         "explanation": "Equal rights should be available to all, and nobody should be denied the enjoyment of any right."
       },
       "ta": {
         "q": "குடிமையியல் சமத்துவம் என்பது ______.",
         "options": [
-          "அனைத்துத் தொழிலாளர்களுக்கும் சம ஊதியம்",
-          "பாகுபாடின்றி அனைத்துக் குடிமக்களும் குடிமை உரிமைகளை அனுபவிப்பதாகும்",
-          "அனைத்து மாணவர்களுக்கும் சம மதிப்பெண்",
-          "தேர்தலில் போட்டியிடும் உரிமை"
+          "அனைத்துத் தொழிலாளர்களுக்கும் ஒரே அளவு ஊதியம்",
+          "அனைவரும் குடிமை உரிமைகளை சமமாக அனுபவிப்பது",
+          "வகுப்பிலுள்ள அனைத்து மாணவர்களுக்கும் சம மதிப்பெண்",
+          "தேர்தலில் போட்டியிடவும் வாக்களிக்கவும் உரிமை"
         ],
         "explanation": "அனைவருக்கும் சம உரிமை உண்டு; எவருக்கும் எந்த உரிமையும் மறுக்கப்படக் கூடாது."
       }

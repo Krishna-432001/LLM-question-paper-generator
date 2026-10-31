@@ -53,12 +53,12 @@
       "ta": {
         "q": "ஒரு மசோதா பணமசோதாவா இல்லையா என்பதை முடிவுசெய்பவர் யார்?",
         "options": [
-          "மக்களவைத் தலைவர் (சபாநாயகர்)",
+          "மக்களவைத் தலைவர்",
           "நாடாளுமன்ற விவகார அமைச்சர்",
           "குடியரசுத் தலைவர்",
           "தலைமை வழக்கறிஞர்"
         ],
-        "explanation": "ஒரு மசோதா பணமசோதாவா என்பதில் மக்களவைத் தலைவரின் முடிவே இறுதி; பணமசோதா மக்களவையில் மட்டுமே அறிமுகப்படுத்தப்படும்."
+        "explanation": "ஒரு மசோதா பணமசோதாவா என்பதில் மக்களவைத் தலைவரின் (சபாநாயகர்) முடிவே இறுதி; பணமசோதா மக்களவையில் மட்டுமே அறிமுகப்படுத்தப்படும்."
       }
     },
     {
@@ -285,9 +285,9 @@
       "ta": {
         "q": "மாநிலங்களவையின் பதவிவழித் தலைவர் யார்?",
         "options": [
-          "குடியரசுத் தலைவர்",
-          "மக்களவைத் தலைவர்",
-          "பிரதம மந்திரி",
+          "இந்தியக் குடியரசுத் தலைவர்",
+          "மக்களவைச் சபாநாயகர்",
+          "இந்தியப் பிரதம அமைச்சர்",
           "துணைக் குடியரசுத் தலைவர்"
         ],
         "explanation": "துணைக் குடியரசுத் தலைவர் மாநிலங்களவையின் பதவிவழித் தலைவர்; அவை நடவடிக்கைகளை ஒழுங்குபடுத்துகிறார்."
@@ -450,21 +450,21 @@
         "q": "The President of India is elected by an electoral college consisting of",
         "options": [
           "Members of Parliament and nominated members",
-          "All members of Lok Sabha only",
+          "All elected members of the Lok Sabha only",
           "Elected members of the Rajya Sabha and Governors",
-          "Elected members of both Houses of Parliament, State Legislative Assemblies and the assemblies of Delhi and Puducherry"
+          "Elected members of Parliament and State Legislative Assemblies"
         ],
-        "explanation": "Election is by proportional representation with single transferable vote; term five years; eligible for re-election."
+        "explanation": "The college also includes the elected members of the Delhi and Puducherry assemblies. Election is by proportional representation with single transferable vote; term five years; eligible for re-election."
       },
       "ta": {
         "q": "இந்தியக் குடியரசுத் தலைவர் தேர்ந்தெடுக்கப்படும் தேர்வுக்குழுவில் இடம்பெறுவோர்",
         "options": [
-          "நாடாளுமன்ற, நியமன உறுப்பினர்கள்",
-          "மக்களவை உறுப்பினர்கள் மட்டும்",
+          "நாடாளுமன்ற உறுப்பினர்கள், நியமன உறுப்பினர்கள்",
+          "மக்களவையின் அனைத்து உறுப்பினர்கள் மட்டும்",
           "மாநிலங்களவையின் தேர்ந்தெடுக்கப்பட்ட உறுப்பினர்கள், ஆளுநர்கள்",
-          "நாடாளுமன்ற இரு அவைகளின், மாநிலச் சட்டமன்றங்களின், டெல்லி-புதுச்சேரி சட்டமன்றங்களின் தேர்ந்தெடுக்கப்பட்ட உறுப்பினர்கள்"
+          "நாடாளுமன்ற இரு அவைகள், மாநிலச் சட்டமன்றங்களின் தேர்ந்தெடுக்கப்பட்ட உறுப்பினர்கள்"
         ],
-        "explanation": "விகிதாசாரப் பிரதிநிதித்துவ ஒற்றைமாற்று வாக்குமுறை; பதவிக்காலம் ஐந்தாண்டுகள்; மீண்டும் போட்டியிடலாம்."
+        "explanation": "டெல்லி-புதுச்சேரி சட்டமன்றங்களின் தேர்ந்தெடுக்கப்பட்ட உறுப்பினர்களும் இதில் அடங்குவர். விகிதாசாரப் பிரதிநிதித்துவ ஒற்றைமாற்று வாக்குமுறை; பதவிக்காலம் ஐந்தாண்டுகள்; மீண்டும் போட்டியிடலாம்."
       }
     },
     {
@@ -478,9 +478,9 @@
       "en": {
         "q": "Which are the three ranks of ministers at the Union level?",
         "options": [
-          "Chief Ministers, Ministers and Governors",
-          "Senior, Junior and Honorary Ministers",
-          "Cabinet, Shadow and Standing Ministers",
+          "Chief Ministers, State Ministers and Governors",
+          "Senior Ministers, Junior Ministers and Honorary Ministers",
+          "Cabinet Ministers, Shadow Ministers and Standing Ministers",
           "Cabinet Ministers, Ministers of State and Deputy Ministers"
         ],
         "explanation": "Ministers of State do not attend Cabinet meetings unless invited."
@@ -488,10 +488,10 @@
       "ta": {
         "q": "ஒன்றிய அளவிலான அமைச்சர்களின் மூன்று நிலைகள் எவை?",
         "options": [
-          "முதலமைச்சர்கள், அமைச்சர்கள், ஆளுநர்கள்",
-          "மூத்த, இளைய, கௌரவ அமைச்சர்கள்",
-          "கேபினட், நிழல், நிலைக்குழு அமைச்சர்கள்",
-          "அமைச்சரவை (கேபினட்) அமைச்சர்கள், இணை அமைச்சர்கள், துணை அமைச்சர்கள்"
+          "முதலமைச்சர்கள், மாநில அமைச்சர்கள், ஆளுநர்கள்",
+          "மூத்த அமைச்சர்கள், இளைய அமைச்சர்கள், கௌரவ அமைச்சர்கள்",
+          "கேபினட் அமைச்சர்கள், நிழல் அமைச்சர்கள், நிலைக்குழு அமைச்சர்கள்",
+          "கேபினட் அமைச்சர்கள், இணை அமைச்சர்கள், துணை அமைச்சர்கள்"
         ],
         "explanation": "இணை அமைச்சர்கள் அழைக்கப்பட்டால் மட்டுமே கேபினட் கூட்டங்களில் பங்கேற்பர்."
       }
@@ -507,22 +507,22 @@
       "en": {
         "q": "Which of the following is true of the Attorney General of India?",
         "options": [
-          "He is the highest law officer, appointed by the President, and must be qualified to be a Supreme Court judge",
-          "He is appointed by the Chief Justice",
-          "He is elected by Parliament",
-          "He cannot be removed by the President"
+          "He is the highest law officer, appointed by the President",
+          "He is appointed by the Chief Justice of India",
+          "He is elected by both Houses of Parliament",
+          "He cannot be removed by the President before five years"
         ],
-        "explanation": "Article 76: the Attorney General is appointed by the President, may be removed by him at any time or may resign."
+        "explanation": "Article 76: the Attorney General must be qualified to be a Supreme Court judge; he is appointed by the President, may be removed by him at any time or may resign."
       },
       "ta": {
         "q": "இந்தியத் தலைமை வழக்கறிஞர் குறித்துச் சரியானது எது?",
         "options": [
-          "நாட்டின் உயர்ந்த சட்ட அதிகாரி; குடியரசுத் தலைவரால் நியமிக்கப்படுபவர்; உச்சநீதிமன்ற நீதிபதியாகும் தகுதி உடையவர்",
-          "தலைமை நீதிபதியால் நியமிக்கப்படுபவர்",
-          "நாடாளுமன்றத்தால் தேர்ந்தெடுக்கப்படுபவர்",
-          "குடியரசுத் தலைவரால் நீக்கப்பட முடியாதவர்"
+          "உயர்ந்த சட்ட அதிகாரி; குடியரசுத் தலைவரால் நியமிக்கப்படுபவர்",
+          "இந்தியத் தலைமை நீதிபதியால் நியமிக்கப்படுபவர்",
+          "இரு அவைகளாலும் தேர்ந்தெடுக்கப்படுபவர்",
+          "ஐந்தாண்டுக்கு முன் குடியரசுத் தலைவரால் நீக்கப்பட முடியாதவர்"
         ],
-        "explanation": "பிரிவு 76: குடியரசுத் தலைவரால் நியமிக்கப்படுபவர்; எப்போதும் அவரால் நீக்கப்படலாம்; ராஜினாமாவும் செய்யலாம்."
+        "explanation": "பிரிவு 76: உச்சநீதிமன்ற நீதிபதியாகும் தகுதி உடையவர்; குடியரசுத் தலைவரால் நியமிக்கப்படுபவர்; எப்போதும் அவரால் நீக்கப்படலாம்; ராஜினாமாவும் செய்யலாம்."
       }
     },
     {
@@ -536,20 +536,20 @@
       "en": {
         "q": "Which of the following is a qualification for appointment as a Judge of the Supreme Court (Article 124)?",
         "options": [
-          "Being a citizen of India and a High Court judge for at least five years",
-          "Being a Member of Parliament",
-          "Being above 70 years",
-          "Holding a Lok Sabha seat"
+          "A High Court judge for at least five years",
+          "Being a sitting Member of Parliament",
+          "Being above 70 years of age",
+          "Holding a seat in the Lok Sabha"
         ],
         "explanation": "Art. 124(3): citizen of India; High Court judge for five years, or advocate for ten years, or a distinguished jurist in the President's opinion."
       },
       "ta": {
         "q": "உச்சநீதிமன்ற நீதிபதியாக நியமிக்கப்படுவதற்கான தகுதிகளில் ஒன்று எது?",
         "options": [
-          "இந்தியக் குடிமகனாகவும் குறைந்தது ஐந்தாண்டு உயர்நீதிமன்ற நீதிபதியாகவும் இருத்தல்",
-          "நாடாளுமன்ற உறுப்பினராக இருத்தல்",
-          "70 வயதுக்கு மேற்பட்டவராக இருத்தல்",
-          "மக்களவை இடம் வகித்தல்"
+          "குறைந்தது ஐந்தாண்டு உயர்நீதிமன்ற நீதிபதியாக இருத்தல்",
+          "தற்போதைய நாடாளுமன்ற உறுப்பினராக இருத்தல்",
+          "70 வயதுக்கு மேற்பட்ட வயதினராக இருத்தல்",
+          "மக்களவையில் ஓர் இடம் வகித்தல்"
         ],
         "explanation": "பிரிவு 124(3): இந்தியக் குடிமகன்; ஐந்தாண்டு உயர்நீதிமன்ற நீதிபதி அல்லது பத்தாண்டு வழக்கறிஞர் அல்லது சிறந்த சட்ட வல்லுநர்."
       }

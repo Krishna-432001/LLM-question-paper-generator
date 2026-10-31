@@ -130,22 +130,22 @@
       "en": {
         "q": "Which of the following is a 'water' component among the geographical components of tourism?",
         "options": [
-          "Mountains and canyons",
-          "Forests and grasslands",
-          "Towns and villages",
-          "Rivers, lakes, waterfalls, hot springs and geysers"
+          "Mountains, plateaus and canyons",
+          "Forests, grasslands and deserts",
+          "Towns, villages and big cities",
+          "Rivers, lakes, waterfalls and springs"
         ],
-        "explanation": "Landforms include mountains, plateaus, canyons, valleys and caves."
+        "explanation": "Water components include rivers, lakes, waterfalls, hot springs and geysers. Landforms include mountains, plateaus, canyons, valleys and caves."
       },
       "ta": {
         "q": "சுற்றுலாவின் புவியியல் கூறுகளுள் 'நீர்' கூறு எது?",
         "options": [
-          "மலைகள், ஆழ்பள்ளத்தாக்குகள்",
-          "காடுகள், புல்வெளிகள்",
-          "நகரங்கள், கிராமங்கள்",
-          "ஆறுகள், ஏரிகள், அருவிகள், வெந்நீர் ஊற்றுகள், கீசர்கள்"
+          "மலைகள், பீடபூமிகள், ஆழ்பள்ளத்தாக்குகள்",
+          "காடுகள், புல்வெளிகள், பாலைவனங்கள்",
+          "நகரங்கள், கிராமங்கள், பெருநகரங்கள்",
+          "ஆறுகள், ஏரிகள், அருவிகள், ஊற்றுகள்"
         ],
-        "explanation": "நிலத்தோற்றக் கூறில் மலை, பீடபூமி, ஆழ்பள்ளத்தாக்கு, பள்ளத்தாக்கு, குகைகள் அடங்கும்."
+        "explanation": "நீர்க் கூறில் ஆறுகள், ஏரிகள், அருவிகள், வெந்நீர் ஊற்றுகள், கீசர்கள் அடங்கும். நிலத்தோற்றக் கூறில் மலை, பீடபூமி, ஆழ்பள்ளத்தாக்கு, பள்ளத்தாக்கு, குகைகள் அடங்கும்."
       }
     },
     {
@@ -169,12 +169,12 @@
       "ta": {
         "q": "காட்டு விலங்குகளைப் பாதுகாக்க ஒதுக்கப்பட்ட நிலப்பகுதி ______ எனப்படும்.",
         "options": [
-          "மலைவாழிடம்",
-          "வேட்டை இருப்பிடம் (கேம் ரிசர்வ்)",
-          "காயல்",
-          "தோட்டம்"
+          "மலை வாழிடம்",
+          "வேட்டை இருப்பிடம்",
+          "கடலோரக் காயல்",
+          "தேயிலைத் தோட்டம்"
         ],
-        "explanation": "வன உயிரினக் கூறில் பறவைகள், சரணாலயங்கள், உயிரியல் பூங்காக்கள் அடங்கும்."
+        "explanation": "வேட்டை இருப்பிடம் (கேம் ரிசர்வ்); வன உயிரினக் கூறில் பறவைகள், சரணாலயங்கள், உயிரியல் பூங்காக்கள் அடங்கும்."
       }
     },
     {
@@ -247,21 +247,21 @@
         "q": "Which national park of Gujarat is famous for lions?",
         "options": [
           "Ranthambore",
-          "Gir National Park",
+          "Gir Forest",
           "Kaziranga",
-          "Corbett"
+          "Jim Corbett"
         ],
-        "explanation": "The Sundarbans in West Bengal is known for the Bengal tiger."
+        "explanation": "Gir Forest National Park is famous for lions. The Sundarbans in West Bengal is known for the Bengal tiger."
       },
       "ta": {
         "q": "சிங்கங்களுக்குப் புகழ்பெற்ற குஜராத்தின் தேசியப் பூங்கா எது?",
         "options": [
           "ரந்தம்பூர்",
-          "கிர் தேசியப் பூங்கா",
+          "கிர் காடுகள்",
           "காசிரங்கா",
-          "கார்பெட்"
+          "ஜிம் கார்பெட்"
         ],
-        "explanation": "மேற்கு வங்கத்தின் சுந்தரவனம் வங்கப் புலிகளுக்குப் புகழ்பெற்றது."
+        "explanation": "கிர் தேசியப் பூங்கா சிங்கங்களுக்குப் புகழ்பெற்றது. மேற்கு வங்கத்தின் சுந்தரவனம் வங்கப் புலிகளுக்குப் புகழ்பெற்றது."
       }
     },
     {
@@ -449,22 +449,22 @@
       "en": {
         "q": "Vedanthangal Bird Sanctuary is located in ______ district.",
         "options": [
-          "Erode",
-          "Chengalpattu district",
-          "Ariyalur",
+          "Tirunelveli",
+          "Chengalpattu",
+          "Krishnagiri",
           "Sivagangai"
         ],
-        "explanation": "Vellode is in Erode, Karaivetti in Ariyalur and Vettangudi in Sivagangai."
+        "explanation": "Vedanthangal is in Chengalpattu district; Vellode is in Erode, Karaivetti in Ariyalur and Vettangudi in Sivagangai."
       },
       "ta": {
         "q": "வேடந்தாங்கல் பறவைகள் சரணாலயம் ______ பகுதியில் உள்ளது.",
         "options": [
-          "ஈரோடு",
-          "செங்கல்பட்டு மாவட்டம்",
-          "அரியலூர்",
+          "திருநெல்வேலி",
+          "செங்கல்பட்டு",
+          "கிருஷ்ணகிரி",
           "சிவகங்கை"
         ],
-        "explanation": "வெள்ளோடு ஈரோட்டிலும், கரைவெட்டி அரியலூரிலும், வெட்டங்குடி சிவகங்கையிலும் உள்ளன."
+        "explanation": "வேடந்தாங்கல் செங்கல்பட்டு மாவட்டத்தில் உள்ளது; வெள்ளோடு ஈரோட்டிலும், கரைவெட்டி அரியலூரிலும், வெட்டங்குடி சிவகங்கையிலும் உள்ளன."
       }
     },
     {

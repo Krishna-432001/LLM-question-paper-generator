@@ -159,10 +159,10 @@
       "en": {
         "q": "The lesson states that good governance ensures that the money collected is ______.",
         "options": [
-          "Spent only on defence",
-          "Kept in reserve without use",
-          "Utilised in a manner that benefits the citizens of the country",
-          "Returned to taxpayers"
+          "Spent only on defence and security",
+          "Kept in reserve without being used",
+          "Utilised to benefit the citizens of the country",
+          "Returned in full to the taxpayers"
         ],
         "explanation": "Poor governance would have far-reaching ramifications on the entire country with a heavy toll on its economic growth."
       },
@@ -333,22 +333,22 @@
       "en": {
         "q": "What was the Goods and Services Tax particularly designed to do?",
         "options": [
-          "Tax only imports",
-          "Replace the indirect taxes imposed on goods and services by the Centre and the States",
-          "Replace income tax",
-          "Abolish all taxes"
+          "Tax only imported goods at the border",
+          "Replace the indirect taxes of Centre and States",
+          "Replace the income tax of individuals",
+          "Abolish all the taxes in the country"
         ],
-        "explanation": "It is applied on services and goods at a national level with a purpose of achieving overall economic growth."
+        "explanation": "It was designed to replace the indirect taxes imposed on goods and services by the Centre and the States. It is applied on services and goods at a national level with a purpose of achieving overall economic growth."
       },
       "ta": {
         "q": "சரக்கு, சேவை வரி எதற்காக வடிவமைக்கப்பட்டது?",
         "options": [
-          "இறக்குமதிக்கு மட்டும் வரி விதிக்க",
-          "மத்திய, மாநில அரசுகள் விதித்த மறைமுக வரிகளுக்குப் பதிலாக",
-          "வருமான வரிக்குப் பதிலாக",
-          "அனைத்து வரிகளையும் ஒழிக்க"
+          "இறக்குமதிப் பொருள்களுக்கு மட்டும் வரி விதிக்க",
+          "மத்திய, மாநில மறைமுக வரிகளுக்குப் பதிலாக",
+          "தனிநபர்களின் வருமான வரிக்குப் பதிலாக",
+          "நாட்டின் அனைத்து வரிகளையும் ஒழிக்க"
         ],
-        "explanation": "தேசிய அளவில் முழுப் பொருளாதார வளர்ச்சியை அடையும் நோக்கத்துடன் சரக்கு, சேவைகள் மீது இவ்வரி பயன்படுகிறது."
+        "explanation": "மத்திய, மாநில அரசுகள் விதித்த மறைமுக வரிகளுக்குப் பதிலாக இது வடிவமைக்கப்பட்டது. தேசிய அளவில் முழுப் பொருளாதார வளர்ச்சியை அடையும் நோக்கத்துடன் சரக்கு, சேவைகள் மீது இவ்வரி பயன்படுகிறது."
       }
     },
     {
@@ -362,10 +362,10 @@
       "en": {
         "q": "According to the Arthashastra of Kautilya, in ancient times taxes were levied and collected in ______.",
         "options": [
-          "Both cash and kind",
-          "Cash only",
-          "Kind only",
-          "Gold only"
+          "Both in cash and in kind",
+          "Only in the form of cash",
+          "Only as goods in kind",
+          "Only in the form of gold"
         ],
         "explanation": "VAT was introduced first in Haryana in 2003."
       },
@@ -422,20 +422,20 @@
         "options": [
           "CGST",
           "SGST",
-          "IGST (Integrated GST)",
+          "IGST",
           "VAT"
         ],
-        "explanation": "Within a state, the GST is divided equally between the Centre (CGST) and the State (SGST)."
+        "explanation": "IGST (Integrated GST) is levied on inter-state sales. Within a state, the GST is divided equally between the Centre (CGST) and the State (SGST)."
       },
       "ta": {
         "q": "மாநிலங்களுக்கிடையேயான வணிகத்தில் பொருள் விற்பனையின்மீது விதிக்கப்படும் வரி ______.",
         "options": [
           "CGST",
           "SGST",
-          "IGST (ஒருங்கிணைந்த GST)",
+          "IGST",
           "VAT"
         ],
-        "explanation": "ஒரு மாநிலத்திற்குள் GST மத்திய (CGST), மாநில (SGST) அரசுகளிடையே சமமாகப் பகிரப்படுகிறது."
+        "explanation": "மாநிலங்களுக்கிடையேயான விற்பனைக்கு IGST (ஒருங்கிணைந்த GST) விதிக்கப்படுகிறது. ஒரு மாநிலத்திற்குள் GST மத்திய (CGST), மாநில (SGST) அரசுகளிடையே சமமாகப் பகிரப்படுகிறது."
       }
     },
     {
@@ -459,12 +459,12 @@
       "ta": {
         "q": "சாலைகள், பாலங்கள் போன்ற அரசு உருவாக்கிய உள்கட்டமைப்பைப் பயன்படுத்தச் செலுத்தும் வரி ______.",
         "options": [
-          "சுங்க வரி (டோல் வரி)",
+          "சுங்க வரி",
           "சொத்து வரி",
           "கேளிக்கை வரி",
           "அன்பளிப்பு வரி"
         ],
-        "explanation": "வசூலான தொகை அத்திட்டத்தைப் பராமரிக்கப் பயன்படுகிறது."
+        "explanation": "சுங்க வரி (டோல் வரி) வசூலான தொகை அத்திட்டத்தைப் பராமரிக்கப் பயன்படுகிறது."
       }
     },
     {

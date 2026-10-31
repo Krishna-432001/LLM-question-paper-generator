@@ -54,9 +54,9 @@
         "q": "பிரதிகார அரசர்களுள் முதல் தலைசிறந்த அரசர் யார்?",
         "options": [
           "முதலாம் போஜா",
-          "ஜெயபாலர்",
+          "மன்னர் ஜெயபாலர்",
           "முதலாம் நாகபட்டர்",
-          "சந்திரதேவர்"
+          "மன்னர் சந்திரதேவர்"
         ],
         "explanation": "முதலாம் நாகபட்டர் பிரதிகாரர்களின் முதல் தலைசிறந்த அரசர்; சிந்து அரேபியப் படையெடுப்பைத் தடுத்தார்."
       }
@@ -82,10 +82,10 @@
       "ta": {
         "q": "கஜினி என்னும் சிறிய அரசு ______ நாட்டில் அமைந்திருந்தது.",
         "options": [
-          "மங்கோலியா",
+          "மங்கோலியப் பகுதி",
           "ஆப்கானிஸ்தான்",
-          "துருக்கி",
-          "பாரசீகம்"
+          "துருக்கி நாடு",
+          "பாரசீகப் பேரரசு"
         ],
         "explanation": "துருக்கிய ஆளுநர் ஆல்ப்டெஜினின் தலைநகரான கஜினி ஆப்கானிஸ்தானில் இருந்தது."
       }
@@ -160,21 +160,21 @@
         "q": "The city of Ajmer was founded by ______.",
         "options": [
           "Prithiviraj Chauhan",
-          "Simharaji (Chauhan)",
+          "Simharaji",
           "Mahipala I",
           "Nagabhatta I"
         ],
-        "explanation": "The Chauhan dynasty was founded by Simharaji, popularly known as the founder of the city of Ajmer."
+        "explanation": "The Chauhan dynasty was founded by Simharaji (Chauhan), popularly known as the founder of the city of Ajmer."
       },
       "ta": {
         "q": "அஜ்மீர் நகரை நிர்மாணித்தவர் ______.",
         "options": [
           "பிருதிவிராஜ் சௌகான்",
-          "சிம்ஹராஜா (சௌகான்)",
+          "சிம்ஹராஜா",
           "மகிபாலர்",
           "நாகபட்டர்"
         ],
-        "explanation": "சௌகான் வம்சத்தை நிறுவிய சிம்ஹராஜா அஜ்மீர் நகரின் நிறுவனர் என்று அறியப்படுகிறார்."
+        "explanation": "சௌகான் வம்சத்தை நிறுவிய சிம்ஹராஜா (சௌகான்) அஜ்மீர் நகரின் நிறுவனர் என்று அறியப்படுகிறார்."
       }
     },
     {
@@ -188,20 +188,20 @@
       "en": {
         "q": "The Khandarya temple is located in ______.",
         "options": [
-          "Rajasthan",
+          "Uttar Pradesh",
           "Madhya Pradesh",
-          "Odisha",
-          "Gujarat"
+          "Andhra Pradesh",
+          "Maharashtra"
         ],
         "explanation": "The Khandarya (Khajuraho) temple is in Madhya Pradesh, built by the Rajput Chandelas."
       },
       "ta": {
         "q": "காந்தர்யா கோவில் ______ மாநிலத்தில் அமைந்துள்ளது.",
         "options": [
-          "ராஜஸ்தான்",
+          "உத்தரப் பிரதேசம்",
           "மத்தியப் பிரதேசம்",
-          "ஒடிசா",
-          "குஜராத்"
+          "ஆந்திரப் பிரதேசம்",
+          "மகாராஷ்டிரம்"
         ],
         "explanation": "காந்தர்யா (கஜுராகோ) கோவில் மத்தியப் பிரதேசத்தில் உள்ளது."
       }
@@ -246,22 +246,22 @@
       "en": {
         "q": "The word 'Rajput' is derived from which language?",
         "options": [
-          "Sanskrit (Rajputra, scion of royal blood)",
+          "Sanskrit",
           "Latin",
           "Persian",
           "Arabic"
         ],
-        "explanation": "Rajput comes from the Sanskrit Rajputra; the statement that it is Latin is false."
+        "explanation": "Rajput comes from the Sanskrit Rajputra (scion of royal blood); the statement that it is Latin is false."
       },
       "ta": {
         "q": "'ராஜபுத்திரர்' என்ற சொல் எந்த மொழியிலிருந்து வந்தது?",
         "options": [
-          "சமஸ்கிருதம் (ராஜபுத்ர - அரச வழித்தோன்றல்)",
-          "லத்தீன்",
-          "பாரசீகம்",
-          "அரபு"
+          "சமஸ்கிருதம்",
+          "லத்தீன் மொழி",
+          "பாரசீக மொழி",
+          "அரபு மொழி"
         ],
-        "explanation": "ராஜபுத்ர என்பது சமஸ்கிருதச் சொல்; லத்தீன் எனும் கூற்று தவறு."
+        "explanation": "ராஜபுத்ர (அரச வழித்தோன்றல்) என்பது சமஸ்கிருதச் சொல்; லத்தீன் எனும் கூற்று தவறு."
       }
     },
     {
@@ -304,20 +304,20 @@
       "en": {
         "q": "The Dilwara temple at Mount Abu is dedicated to ______.",
         "options": [
-          "Lord Shiva",
-          "Lord Vishnu",
+          "Lord Shiva and Parvati",
+          "Lord Vishnu and Lakshmi",
           "Jain Tirthankaras",
-          "The Sun God"
+          "The Sun God Surya"
         ],
         "explanation": "The Jain temple at Mount Abu has a white marble hall; the statement that it is dedicated to Shiva is false."
       },
       "ta": {
         "q": "அபு குன்றிலுள்ள தில்வாரா கோவில் ______ படைத்தளிக்கப்பட்டது.",
         "options": [
-          "சிவபெருமானுக்கு",
-          "விஷ்ணுவுக்கு",
+          "சிவபெருமான், பார்வதிக்கு",
+          "விஷ்ணு, லட்சுமிக்கு",
           "சமணத் தீர்த்தங்கரர்களுக்கு",
-          "சூரியக் கடவுளுக்கு"
+          "சூரியக் கடவுளான சூரியதேவனுக்கு"
         ],
         "explanation": "அபு குன்றிலுள்ளது சமணக் கோவில்; சிவனுக்குரியது எனும் கூற்று தவறு."
       }
@@ -362,22 +362,22 @@
       "en": {
         "q": "Which statement about the numerals 0 to 9 is correct?",
         "options": [
-          "The Arabs learnt them from India and passed them on to Europe",
-          "Indians learnt them from the Arabs",
-          "The Turks introduced them to India",
-          "Europeans invented them independently"
+          "The Arabs learnt them from India and spread them",
+          "Indians learnt them from the Arabs of Sind",
+          "The Turks introduced them into India later",
+          "Europeans invented them independently of others"
         ],
-        "explanation": "The Arabs learnt the numerals 0-9 from India; the book's statement that Indians learnt them from Arabs is false."
+        "explanation": "The Arabs learnt the numerals 0-9 from India and passed them on to Europe; the book's statement that Indians learnt them from Arabs is false."
       },
       "ta": {
         "q": "0 முதல் 9 வரையிலான எண்கள் குறித்த சரியான கூற்று எது?",
         "options": [
-          "அரேபியர் இந்தியாவிலிருந்து கற்று ஐரோப்பாவிற்குப் பரப்பினர்",
-          "இந்தியர்கள் அரேபியரிடமிருந்து கற்றனர்",
-          "துருக்கியர் இந்தியாவிற்கு அறிமுகப்படுத்தினர்",
-          "ஐரோப்பியர் தாமே கண்டுபிடித்தனர்"
+          "அரேபியர் இந்தியாவிலிருந்து கற்றுப் பரப்பினர்",
+          "இந்தியர்கள் சிந்து அரேபியரிடமிருந்து கற்றனர்",
+          "துருக்கியர் பின்னர் இந்தியாவிற்கு அறிமுகப்படுத்தினர்",
+          "ஐரோப்பியர் பிறரைச் சாராமல் கண்டுபிடித்தனர்"
         ],
-        "explanation": "அரேபியர் 0-9 எண்களை இந்தியாவிலிருந்து கற்றனர்; இந்தியர் அவர்களிடமிருந்து கற்றனர் எனும் கூற்று தவறு."
+        "explanation": "அரேபியர் 0-9 எண்களை இந்தியாவிலிருந்து கற்று ஐரோப்பாவிற்குப் பரப்பினர்; இந்தியர் அவர்களிடமிருந்து கற்றனர் எனும் கூற்று தவறு."
       }
     },
     {

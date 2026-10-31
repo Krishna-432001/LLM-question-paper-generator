@@ -14,10 +14,10 @@
       "en": {
         "q": "The Persian term 'bandagan' refers to ______.",
         "options": [
-          "Slaves purchased for military service",
-          "Provincial governors",
-          "Land grants to officers",
-          "Spies of the Sultan"
+          "Slaves bought for military service",
+          "Provincial governors of the Sultan",
+          "Land grants given to army officers",
+          "Spies employed by the Sultan"
         ],
         "explanation": "Ghori, having no sons, nurtured bandagan, who were posted as governors and later raised to Sultans; 'Mamluk' means slave in Arabic."
       },
@@ -25,9 +25,9 @@
         "q": "பாரசீகச் சொல்லான 'பன்டகன்' என்பது ______ குறிக்கிறது.",
         "options": [
           "இராணுவப் பணிக்காக வாங்கப்பட்ட அடிமைகளை",
-          "மாகாண ஆளுநர்களை",
-          "அதிகாரிகளுக்கான நில மானியங்களை",
-          "சுல்தானின் ஒற்றர்களை"
+          "சுல்தான் நியமித்த மாகாண ஆளுநர்களை",
+          "படை அதிகாரிகளுக்கு வழங்கிய நில மானியங்களை",
+          "சுல்தான் பணியில் அமர்த்திய ஒற்றர்களை"
         ],
         "explanation": "மகன்கள் இல்லாத கோரி பன்டகன்களை வளர்த்தார்; அவர்கள் ஆளுநர்களாகி பின்னர் சுல்தான்களாயினர்; 'மம்லுக்' என்றால் அடிமை."
       }
@@ -83,9 +83,9 @@
         "q": "கிழக்குக் கங்கைச் சமவெளியின் (பீகார், வங்காளம்) வெற்றியை ஐபக் யாரிடம் ஒப்படைத்தார்?",
         "options": [
           "மாலிக்கபூர்",
-          "இல்துமிஷ்",
+          "சுல்தான் இல்துமிஷ்",
           "பக்தியார் கில்ஜி",
-          "ஜுனா கான்"
+          "இளவரசர் ஜுனா கான்"
         ],
         "explanation": "மத்திய, மேற்குச் சமவெளிகளில் ஐபக் நேரடியாகப் போரிட்டார்; கிழக்கை பக்தியார் கில்ஜியிடம் விட்டார்."
       }
@@ -101,20 +101,20 @@
       "en": {
         "q": "The holder of an iqta under Iltutmish was called ______.",
         "options": [
-          "Naib",
+          "Naib-i-mamlakat",
           "Iqtadar or muqti",
-          "Chahalgani",
-          "Bandagan"
+          "Chahalgani amir",
+          "Bandagan slave"
         ],
         "explanation": "The iqtadar collected revenue from his iqta to maintain troops and horses and gave military assistance to the Sultan."
       },
       "ta": {
         "q": "இல்துமிஷ் காலத்தில் இக்தா நிலத்தை வைத்திருப்பவர் ______ எனப்பட்டார்.",
         "options": [
-          "நாயிப்",
-          "இக்தாதார் அல்லது முக்தி",
-          "சகல்கானி",
-          "பன்டகன்"
+          "நாயிப்-இ-மம்லகத்",
+          "இக்தாதார், முக்தி",
+          "சகல்கானி அமீர்",
+          "பன்டகன் அடிமை"
         ],
         "explanation": "இக்தாதார் தம் நிலத்தின் வருவாயிலிருந்து படையைப் பராமரித்து சுல்தானுக்கு இராணுவ உதவி செய்தார்."
       }
@@ -159,9 +159,9 @@
       "en": {
         "q": "The rite of jauhar was performed by the Rajputs of Chittor in 1303 when ______ besieged the fort.",
         "options": [
-          "Babur's army",
-          "Timur's army",
-          "Iltutmish's army",
+          "Babur's Mughal army",
+          "Timur's invading army",
+          "Iltutmish's Delhi army",
           "Ala-ud-din Khalji's army"
         ],
         "explanation": "Under threat of defeat, men died in battle and women burnt themselves on a pyre."
@@ -169,9 +169,9 @@
       "ta": {
         "q": "1303இல் சித்தூர் கோட்டையை முற்றுகையிட்ட ______ படையினரால் ராஜபுத்திரர் ஜௌகர் சடங்கை மேற்கொண்டனர்.",
         "options": [
-          "பாபரின்",
-          "தைமூரின்",
-          "இல்துமிஷின்",
+          "பாபரின் முகலாயப்",
+          "தைமூரின் படையெடுப்புப்",
+          "இல்துமிஷின் டெல்லிப்",
           "அலாவுதீன் கில்ஜியின்"
         ],
         "explanation": "தோல்வி உறுதியானபோது ஆண்கள் போரில் மடிந்தனர், பெண்கள் தீக்குளித்தனர்."
@@ -188,20 +188,20 @@
       "en": {
         "q": "Ala-ud-din Khalji's lieutenant Malik Kafur took the distant city of Madurai during his southern campaign, in ______.",
         "options": [
-          "1303",
-          "1296",
+          "1303-04",
+          "1296-97",
           "1310-11",
-          "1335"
+          "1335-36"
         ],
         "explanation": "The Yadavas, Kakatiyas, Hoysalas and Pandyas accepted Ala-ud-din's suzerainty."
       },
       "ta": {
         "q": "அலாவுதீன் கில்ஜியின் தளபதி மாலிக்கபூர் தன் தென்னகப் படையெடுப்பில் தொலைவிலுள்ள மதுரையைக் கைப்பற்றிய காலம் ______.",
         "options": [
-          "1303",
-          "1296",
+          "1303-04",
+          "1296-97",
           "1310-11",
-          "1335"
+          "1335-36"
         ],
         "explanation": "யாதவர், காகதீயர், ஹொய்சாளர், பாண்டியர் ஆகியோர் அலாவுதீனின் மேலாண்மையை ஏற்றனர்."
       }
@@ -218,21 +218,21 @@
         "q": "Which of the following was an administrative reform of Ala-ud-din Khalji?",
         "options": [
           "Abolition of taxes not recognised by Muslim law",
-          "Fixed prices and state procurement of grain for Delhi and garrison centres",
-          "Transfer of the capital to Devagiri",
-          "Introduction of token copper currency"
+          "Fixed prices and state procurement of grain",
+          "Transfer of the capital from Delhi to Devagiri",
+          "Introduction of a token copper currency"
         ],
-        "explanation": "Ala-ud-din also surveyed agrarian resources, fixed a standard revenue demand and employed spies."
+        "explanation": "Ala-ud-din fixed prices and arranged state procurement of grain for Delhi and the garrison centres. He also surveyed agrarian resources, fixed a standard revenue demand and employed spies."
       },
       "ta": {
         "q": "அலாவுதீன் கில்ஜியின் நிர்வாகச் சீர்திருத்தம் எது?",
         "options": [
           "முஸ்லிம் சட்டம் ஏற்காத வரிகளை நீக்கியது",
-          "டெல்லி, படைத்தளங்களுக்கான தானியங்களின் விலை நிர்ணயம், அரசு கொள்முதல்",
-          "தலைநகரைத் தேவகிரிக்கு மாற்றியது",
-          "செப்புக் குறியீட்டு நாணயம் அறிமுகம்"
+          "தானியங்களின் விலை நிர்ணயம், அரசு கொள்முதல்",
+          "தலைநகரை டெல்லியிலிருந்து தேவகிரிக்கு மாற்றியது",
+          "செப்புக் குறியீட்டு நாணயத்தை அறிமுகம் செய்தது"
         ],
-        "explanation": "அலாவுதீன் வேளாண் வளங்களை அளந்து நிலையான வரி விதித்தார்; ஒற்றர்களையும் நியமித்தார்."
+        "explanation": "அலாவுதீன் டெல்லி, படைத்தளங்களுக்கான தானியங்களின் விலையை நிர்ணயித்து அரசு கொள்முதல் செய்தார்; வேளாண் வளங்களை அளந்து நிலையான வரி விதித்தார்; ஒற்றர்களையும் நியமித்தார்."
       }
     },
     {

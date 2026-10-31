@@ -82,12 +82,12 @@
       "ta": {
         "q": "வாகன ஓட்டி வேண்டுமென்றே சாலை விதிகளைப் புறக்கணிக்கும் மனநிலை ______ எனப்படும்.",
         "options": [
-          "அலட்சிய (பொறுப்பற்ற) ஓட்டுதல்",
+          "அலட்சிய ஓட்டுதல்",
           "கவனச் சிதறல் ஓட்டுதல்",
           "இரவு ஓட்டுதல்",
           "டெயில்கேட்டிங்"
         ],
-        "explanation": "இது ஒரு பெரிய போக்குவரத்து விதிமீறல்."
+        "explanation": "அலட்சிய (பொறுப்பற்ற) ஓட்டுதல் ஒரு பெரிய போக்குவரத்து விதிமீறல்."
       }
     },
     {
@@ -101,20 +101,20 @@
       "en": {
         "q": "Which of the following is mentioned as a cause of road accidents in the lesson?",
         "options": [
-          "Excess road width",
-          "Very few vehicles",
-          "Strict enforcement of rules",
-          "Road expansion being very slow compared with the growth of vehicles"
+          "Roads being excessively wide in cities",
+          "Very few vehicles running on the roads",
+          "Very strict enforcement of all traffic rules",
+          "Road expansion lagging behind the growth of vehicles"
         ],
         "explanation": "Drunken driving, jumping red lights, over-speeding and unmanned railway crossings also cause great damage."
       },
       "ta": {
         "q": "பாடத்தில் சாலை விபத்துக்கான காரணமாகக் குறிப்பிடப்படுவது எது?",
         "options": [
-          "அதிகப்படியான சாலை அகலம்",
-          "மிகக் குறைந்த வாகனங்கள்",
-          "விதிகளைக் கடுமையாகச் செயல்படுத்துதல்",
-          "வாகனங்களின் பெருக்கத்தோடு ஒப்பிடுகையில் சாலை விரிவாக்கம் மிக மெதுவாக இருப்பது"
+          "நகரங்களில் சாலைகள் மிக அகலமாக இருப்பது",
+          "சாலைகளில் மிகக் குறைந்த வாகனங்கள் ஓடுவது",
+          "போக்குவரத்து விதிகளை மிகக் கடுமையாகச் செயல்படுத்துதல்",
+          "வாகனப் பெருக்கத்தை விடச் சாலை விரிவாக்கம் மெதுவாக இருப்பது"
         ],
         "explanation": "குடித்துவிட்டு ஓட்டுதல், சிவப்பு விளக்கைத் தாண்டுதல், அதிவேகம், காவலில்லா ரயில்வே கடவுகள் ஆகியவையும் பேரிழப்பை ஏற்படுத்துகின்றன."
       }
@@ -218,8 +218,8 @@
         "q": "Through which Ministry has the Government of India taken steps to reduce road accidents?",
         "options": [
           "Ministry of Home Affairs",
-          "Ministry of Railways",
-          "Ministry of Education",
+          "Ministry of Housing and Urban Affairs",
+          "Ministry of Health and Family Welfare",
           "Ministry of Road Transport and Highways"
         ],
         "explanation": "Steps include installation of CCTV cameras to record high-speed offences and removal of encroachments."
@@ -228,8 +228,8 @@
         "q": "சாலை விபத்துகளைக் குறைக்க இந்திய அரசு எந்த அமைச்சகத்தின் மூலம் நடவடிக்கை எடுக்கிறது?",
         "options": [
           "உள்துறை அமைச்சகம்",
-          "ரயில்வே அமைச்சகம்",
-          "கல்வி அமைச்சகம்",
+          "வீட்டுவசதி, நகர்ப்புற விவகார அமைச்சகம்",
+          "சுகாதார, குடும்ப நல அமைச்சகம்",
           "சாலைப் போக்குவரத்து, நெடுஞ்சாலைகள் அமைச்சகம்"
         ],
         "explanation": "அதிவேக விதிமீறல்களைப் பதிவு செய்ய CCTV கேமரா, ஆக்கிரமிப்பு அகற்றல் ஆகியவை நடவடிக்கைகள்."

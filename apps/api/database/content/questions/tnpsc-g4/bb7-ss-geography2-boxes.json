@@ -27,9 +27,9 @@
           "வானிலைச் சிதைவு",
           "டெக்டானிக்",
           "சமநிலை இயக்கம்",
-          "சமநிலைப்படுத்துதல் (கிரடேஷன்)"
+          "சமநிலைப்படுத்துதல்"
         ],
-        "explanation": "புறச்செயல் செயல்முறை நிலப்பரப்பை தொடர்ந்து தேய்த்து மீண்டும் உருவாக்குகிறது."
+        "explanation": "இது கிரடேஷன் எனப்படும்; புறச்செயல் செயல்முறை நிலப்பரப்பை தொடர்ந்து தேய்த்து மீண்டும் உருவாக்குகிறது."
       }
     },
     {
@@ -43,20 +43,20 @@
       "en": {
         "q": "The world's highest waterfall, Angel Falls, is in ______.",
         "options": [
-          "Canada",
-          "Zambia",
+          "Argentina",
+          "Zimbabwe",
           "Venezuela",
-          "Brazil"
+          "Colombia"
         ],
         "explanation": "Niagara Falls lies on the Canada-USA border and Victoria Falls on the Zambia-Zimbabwe border."
       },
       "ta": {
         "q": "உலகின் மிக உயரமான அருவியான ஏஞ்சல் அருவி ______ நாட்டில் உள்ளது.",
         "options": [
-          "கனடா",
-          "சாம்பியா",
+          "ஆர்ஜென்டினா",
+          "ஜிம்பாப்வே",
           "வெனிசுலா",
-          "பிரேசில்"
+          "கொலம்பியா"
         ],
         "explanation": "நயாகரா அருவி கனடா-அமெரிக்க எல்லையிலும் விக்டோரியா அருவி சாம்பியா-ஜிம்பாப்வே எல்லையிலும் உள்ளன."
       }
@@ -72,20 +72,20 @@
       "en": {
         "q": "A waterfall is formed when ______.",
         "options": [
-          "A river deposits silt at its mouth",
-          "A meander is cut off",
-          "Soft rocks are removed by erosion leaving a vertical step of hard rock",
-          "A glacier melts"
+          "A river deposits silt and sand at its mouth",
+          "A meander loop is cut off from the river",
+          "Soft rock erodes, leaving a vertical step of hard rock",
+          "A glacier melts and flows into a valley"
         ],
         "explanation": "Falling of river water over a vertical step in the river bed forms a waterfall."
       },
       "ta": {
         "q": "அருவி எப்போது உருவாகிறது?",
         "options": [
-          "ஆறு முகத்துவாரத்தில் வண்டல் படியும்போது",
-          "ஆற்று வளைவு துண்டிக்கப்படும்போது",
-          "மென்பாறைகள் அரிக்கப்பட்டு கடின பாறை செங்குத்துப் படியாக எஞ்சும்போது",
-          "பனியாறு உருகும்போது"
+          "ஆறு முகத்துவாரத்தில் வண்டலும் மணலும் படியும்போது",
+          "ஆற்று வளைவு ஆற்றிலிருந்து துண்டிக்கப்படும்போது",
+          "மென்பாறை அரிந்து கடின பாறை செங்குத்துப் படியாக எஞ்சும்போது",
+          "பனியாறு உருகிப் பள்ளத்தாக்கில் பாயும்போது"
         ],
         "explanation": "ஆற்றுப்படுகையில் செங்குத்துப் படியின் மேல் நீர் விழுவது அருவி."
       }
@@ -130,22 +130,22 @@
       "en": {
         "q": "The term 'meander' is named after a river of ______.",
         "options": [
-          "Italy",
-          "Asia Minor (Turkey)",
-          "Egypt",
-          "India"
+          "Northern Italy",
+          "Asia Minor",
+          "Upper Egypt",
+          "Southern India"
         ],
-        "explanation": "The Meander River flows through numerous curves and turns."
+        "explanation": "The Meander River in Asia Minor (Turkey) flows through numerous curves and turns."
       },
       "ta": {
         "q": "'மீண்டர்' என்ற சொல் ______ பகுதியிலுள்ள ஆற்றின் பெயரிலிருந்து வந்தது.",
         "options": [
-          "இத்தாலி",
-          "ஆசியா மைனர் (துருக்கி)",
-          "எகிப்து",
-          "இந்தியா"
+          "வடக்கு இத்தாலி",
+          "ஆசியா மைனர்",
+          "மேல் எகிப்து",
+          "தென்னிந்தியா"
         ],
-        "explanation": "மீண்டர் ஆறு பல வளைவுகளுடன் பாய்கிறது."
+        "explanation": "ஆசியா மைனரில் (துருக்கி) உள்ள மீண்டர் ஆறு பல வளைவுகளுடன் பாய்கிறது."
       }
     },
     {
@@ -171,10 +171,10 @@
         "options": [
           "டெல்டாக்கள்",
           "குதிரைலாட ஏரிகள்",
-          "கரைமேடுகள் (லெவீஸ்)",
+          "கரைமேடுகள்",
           "ஆற்று வளைவுகள்"
         ],
-        "explanation": "வெள்ளப் படிவு வளமான வெள்ளச் சமவெளியையும் கரைமேடுகளையும் உருவாக்குகிறது."
+        "explanation": "வெள்ளப் படிவு வளமான வெள்ளச் சமவெளியையும் கரைமேடுகளையும் (லெவீஸ்) உருவாக்குகிறது."
       }
     },
     {
@@ -394,9 +394,9 @@
           "Odisha",
           "Kerala",
           "Karnataka",
-          "Tamil Nadu (and Andhra Pradesh border)"
+          "Tamil Nadu"
         ],
-        "explanation": "Chilika lake is in Odisha and Vembanad lake in Kerala (Keralam)."
+        "explanation": "Pulicat lake lies in Tamil Nadu on the Andhra Pradesh border. Chilika lake is in Odisha and Vembanad lake in Kerala (Keralam)."
       },
       "ta": {
         "q": "புகழ்பெற்ற காயலான பழவேற்காடு ஏரி ______ உள்ளது.",
@@ -404,9 +404,9 @@
           "ஒடிசாவில்",
           "கேரளத்தில்",
           "கர்நாடகத்தில்",
-          "தமிழ்நாட்டில் (ஆந்திர எல்லையில்)"
+          "தமிழ்நாட்டில்"
         ],
-        "explanation": "சில்கா ஏரி ஒடிசாவிலும் வேம்பநாடு ஏரி கேரளத்திலும் உள்ளன."
+        "explanation": "பழவேற்காடு ஏரி ஆந்திர எல்லையிலுள்ள தமிழ்நாட்டில் உள்ளது. சில்கா ஏரி ஒடிசாவிலும் வேம்பநாடு ஏரி கேரளத்திலும் உள்ளன."
       }
     }
   ]

@@ -112,11 +112,11 @@
         "q": "தொழில் முனைவோர் ______ எனவும் அழைக்கப்படுகிறார்.",
         "options": [
           "பரிமாற்றம் செய்பவர்",
-          "முகவர்",
-          "அமைப்பாளர் (ஒருங்கிணைப்பவர்)",
+          "வணிக முகவர்",
+          "அமைப்பாளர்",
           "தகவல் தொடர்பாளர்"
         ],
-        "explanation": "நவீன காலத்தில் தொழில் முனைவோர் 'சமூகத்தின் மாற்றத்தை உருவாக்குபவர்' எனப்படுகிறார்."
+        "explanation": "நவீன காலத்தில் தொழில் முனைவோர் 'சமூகத்தின் மாற்றத்தை உருவாக்குபவர்' எனப்படுகிறார்; அவர் அமைப்பாளர் (ஒருங்கிணைப்பவர்) எனவும் அழைக்கப்படுகிறார்."
       }
     },
     {
@@ -362,20 +362,20 @@
       "en": {
         "q": "Which of the following is an example of human capital?",
         "options": [
-          "Investment in education, training and health",
-          "Bank deposits",
-          "Shares and securities",
-          "Machinery and tools"
+          "Investment in education and health",
+          "Money held as bank deposits",
+          "Shares and securities of firms",
+          "Machinery and tools in a factory"
         ],
         "explanation": "Physical capital: machinery, tools, buildings; money capital: bank deposits, shares; human capital: education, training, health."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் மனித மூலதனத்திற்கு எடுத்துக்காட்டு எது?",
         "options": [
-          "கல்வி, பயிற்சி, சுகாதாரத்தில் முதலீடு",
-          "வங்கி வைப்புகள்",
-          "பங்குகள், பத்திரங்கள்",
-          "இயந்திரங்கள், கருவிகள்"
+          "கல்வி, சுகாதாரத்தில் முதலீடு",
+          "வங்கியில் வைத்த வைப்புத் தொகை",
+          "நிறுவனப் பங்குகள், பத்திரங்கள்",
+          "தொழிற்சாலை இயந்திரங்கள், கருவிகள்"
         ],
         "explanation": "பௌதிக மூலதனம்: இயந்திரம், கருவி, கட்டடம்; பண மூலதனம்: வங்கி வைப்பு, பங்குகள்; மனித மூலதனம்: கல்வி, பயிற்சி, சுகாதாரம்."
       }
@@ -449,22 +449,22 @@
       "en": {
         "q": "Which statement about capital as a factor of production is correct?",
         "options": [
-          "It is a passive, man-made factor with the highest mobility",
-          "It is a free gift of nature",
-          "It is an indispensable factor",
-          "It is fixed in supply"
+          "It is a passive, man-made factor",
+          "It is a free gift of nature to man",
+          "It is an indispensable primary factor",
+          "It is fixed in supply for all time"
         ],
-        "explanation": "Capital is productive, lasts long and involves present sacrifice to get future benefits."
+        "explanation": "Capital is a passive, man-made factor with the highest mobility. It is productive, lasts long and involves present sacrifice to get future benefits."
       },
       "ta": {
         "q": "உற்பத்திக் காரணியான மூலதனம் குறித்த சரியான கூற்று எது?",
         "options": [
-          "இது செயலற்ற, மனிதனால் உருவாக்கப்பட்ட, அதிக இயக்கத்தன்மை கொண்ட காரணி",
-          "இது இயற்கையின் இலவசக் கொடை",
-          "இது இன்றியமையாத காரணி",
-          "இதன் அளிப்பு நிலையானது"
+          "இது செயலற்ற, மனிதனால் உருவாக்கப்பட்ட காரணி",
+          "இது இயற்கை மனிதனுக்கு அளித்த இலவசக் கொடை",
+          "இது இன்றியமையாத முதன்மைக் காரணி",
+          "இதன் அளிப்பு எப்போதும் நிலையானது"
         ],
-        "explanation": "மூலதனம் உற்பத்தித் திறன் உடையது, நீடித்து நிற்பது; இன்றைய தியாகத்தின் மூலம் எதிர்காலப் பயன் தருவது."
+        "explanation": "மூலதனம் செயலற்ற, மனிதனால் உருவாக்கப்பட்ட, அதிக இயக்கத்தன்மை கொண்ட காரணி; உற்பத்தித் திறன் உடையது, நீடித்து நிற்பது; இன்றைய தியாகத்தின் மூலம் எதிர்காலப் பயன் தருவது."
       }
     }
   ]

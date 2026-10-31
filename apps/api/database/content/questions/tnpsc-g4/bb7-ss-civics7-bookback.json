@@ -43,20 +43,20 @@
       "en": {
         "q": "Road accidents affect a country's ______.",
         "options": [
-          "Life only",
-          "Improvement only",
-          "Finance only",
-          "Life, improvement (growth) and finance - all of these"
+          "Human life only, not the economy",
+          "Growth only, not lives or finance",
+          "Finance only, not lives or growth",
+          "Life, growth and finance together"
         ],
         "explanation": "Road crashes have a threatening impact on Indian lives, growth and economy."
       },
       "ta": {
         "q": "சாலை விபத்துகள் ஒரு நாட்டின் ______ பாதிக்கின்றன.",
         "options": [
-          "உயிரை மட்டும்",
-          "வளர்ச்சியை மட்டும்",
-          "நிதியை மட்டும்",
-          "உயிர், வளர்ச்சி, நிதி ஆகிய அனைத்தையும்"
+          "உயிரை மட்டும், பொருளாதாரத்தை அல்ல",
+          "வளர்ச்சியை மட்டும், உயிரையும் நிதியையும் அல்ல",
+          "நிதியை மட்டும், உயிரையும் வளர்ச்சியையும் அல்ல",
+          "உயிர், வளர்ச்சி, நிதி மூன்றையும் சேர்த்து"
         ],
         "explanation": "சாலை விபத்துகள் இந்திய உயிர்கள், வளர்ச்சி, பொருளாதாரத்திற்கு அச்சுறுத்தலாக உள்ளன."
       }
@@ -140,12 +140,12 @@
       "ta": {
         "q": "குடும்பத்திற்காகப் பொருளீட்டுபவர் ______ எனப்படுகிறார்.",
         "options": [
-          "குடும்பத்தின் பொருளாதார ஆதாரம் (குடும்பத் தலைவர்)",
-          "பாதசாரி",
-          "பின்இருக்கைப் பயணி",
-          "வழிப்போக்கர்"
+          "குடும்பத்தின் வருவாய் ஆதாரம்",
+          "நடந்து செல்லும் பாதசாரி",
+          "வாகனத்தின் பின்இருக்கைப் பயணி",
+          "சாலையில் செல்லும் வழிப்போக்கர்"
         ],
-        "explanation": "சாலை விபத்துகளால் பல குடும்பங்கள் தம் வருவாய் ஈட்டுபவரை இழக்கின்றன."
+        "explanation": "சாலை விபத்துகளால் பல குடும்பங்கள் தம் வருவாய் ஈட்டுபவரை (குடும்பத் தலைவர்) இழக்கின்றன."
       }
     },
     {
@@ -246,10 +246,10 @@
       "en": {
         "q": "Find the odd one out: car, trucks, tempos, aeroplanes.",
         "options": [
-          "Tempos",
-          "Car",
-          "Trucks",
-          "Aeroplanes"
+          "The tempos",
+          "The car",
+          "The trucks",
+          "The aeroplanes"
         ],
         "explanation": "Cars, trucks and tempos are road vehicles; aeroplanes fly."
       },
@@ -333,20 +333,20 @@
       "en": {
         "q": "The two safety gears for safe driving are ______.",
         "options": [
-          "Gloves and goggles",
-          "Helmet for two-wheelers and seat belt for four-wheelers",
-          "Raincoat and boots",
-          "Horn and mirror"
+          "Gloves for hands and goggles for eyes",
+          "Helmet for two-wheelers and seat belt for cars",
+          "Raincoat for rain and boots for feet",
+          "Horn for alerts and mirror for rear view"
         ],
         "explanation": "Avoiding the use of helmets and seat belts leads to unwanted happenings."
       },
       "ta": {
         "q": "பாதுகாப்பான ஓட்டுதலுக்கான இரு பாதுகாப்புக் கவசங்கள் ______.",
         "options": [
-          "கையுறை, கண்ணாடி",
-          "இருசக்கர வாகனங்களுக்குத் தலைக்கவசம், நான்கு சக்கர வாகனங்களுக்கு இருக்கைப் பட்டை",
-          "மழைக்கோட்டு, காலணி",
-          "ஒலிப்பான், கண்ணாடி"
+          "கைகளுக்குக் கையுறை, கண்களுக்குப் பாதுகாப்புக் கண்ணாடி",
+          "இருசக்கர வாகனத்துக்குத் தலைக்கவசம், காருக்கு இருக்கைப் பட்டை",
+          "மழைக்கு மழைக்கோட்டு, கால்களுக்குப் பாதுகாப்புக் காலணி",
+          "எச்சரிக்கைக்கு ஒலிப்பான், பின்காட்சிக்குக் கண்ணாடி"
         ],
         "explanation": "தலைக்கவசம், இருக்கைப் பட்டை அணியாதது விரும்பத்தகாத நிகழ்வுகளுக்கு வழிவகுக்கும்."
       }
@@ -362,22 +362,22 @@
       "en": {
         "q": "Night driving is unsafe mainly because of ______.",
         "options": [
-          "Heavy rain only",
-          "Uncontrolled sleep, tiredness due to long drives and poor lighting on the road",
-          "Very low speed limits",
-          "Absence of vehicles"
+          "Heavy rainfall during the night only",
+          "Sleepiness, tiredness and poor road lighting",
+          "Very low speed limits on all roads",
+          "Complete absence of other vehicles"
         ],
-        "explanation": "An extra alertness is needed while driving at night."
+        "explanation": "Uncontrolled sleep, tiredness due to long drives and poor lighting on the road make night driving unsafe. An extra alertness is needed while driving at night."
       },
       "ta": {
         "q": "இரவில் வாகனம் ஓட்டுவது பாதுகாப்பற்றதாக இருக்கக் காரணம் ______.",
         "options": [
-          "கனமழை மட்டும்",
-          "கட்டுப்படுத்த இயலாத தூக்கம், நீண்ட பயணக் களைப்பு, சாலையில் போதிய வெளிச்சமின்மை",
-          "மிகக் குறைந்த வேக வரம்பு",
-          "வாகனங்கள் இல்லாமை"
+          "இரவில் பெய்யும் கனமழை மட்டுமே",
+          "தூக்கம், களைப்பு, போதிய வெளிச்சமின்மை",
+          "அனைத்துச் சாலைகளிலும் மிகக் குறைந்த வேக வரம்பு",
+          "மற்ற வாகனங்கள் முற்றிலும் இல்லாமை"
         ],
-        "explanation": "இரவில் கூடுதல் விழிப்புணர்வு தேவை."
+        "explanation": "கட்டுப்படுத்த இயலாத தூக்கம், நீண்ட பயணக் களைப்பு, சாலையில் போதிய வெளிச்சமின்மை ஆகியவை இரவு ஓட்டுதலைப் பாதுகாப்பற்றதாக்குகின்றன. இரவில் கூடுதல் விழிப்புணர்வு தேவை."
       }
     },
     {
@@ -420,20 +420,20 @@
       "en": {
         "q": "Which of the following can promote road safety awareness among the public?",
         "options": [
-          "Digging soil from roads",
-          "Video games simulating racing",
-          "Media such as radio, TV, films and advertisements",
-          "Hoardings placed on roads"
+          "Digging soil from the edges of roads",
+          "Video games that simulate fast racing",
+          "Media such as radio, TV, films and adverts",
+          "Hoardings that block the driver's view at road junctions"
         ],
         "explanation": "Video and computer games that simulate driving should be discouraged as they develop racing habits."
       },
       "ta": {
         "q": "பொதுமக்களிடையே சாலைப் பாதுகாப்பு விழிப்புணர்வை ஏற்படுத்த உதவுவது எது?",
         "options": [
-          "சாலையில் மண் தோண்டுதல்",
-          "பந்தயம் போன்ற வீடியோ விளையாட்டுகள்",
+          "சாலை ஓரங்களில் மண் தோண்டி எடுத்தல்",
+          "வேக பந்தயத்தை ஒத்த வீடியோ விளையாட்டுகள்",
           "வானொலி, தொலைக்காட்சி, திரைப்படம், விளம்பரம் போன்ற ஊடகங்கள்",
-          "சாலைகளில் வைக்கப்படும் விளம்பரப் பலகைகள்"
+          "சந்திப்புகளில் ஓட்டுநரின் பார்வையை மறைக்கும் விளம்பரப் பலகைகள்"
         ],
         "explanation": "வாகனம் ஓட்டுவதைப் போன்ற வீடியோ விளையாட்டுகள் பந்தயப் பழக்கத்தை வளர்ப்பதால் ஊக்குவிக்கக் கூடாது."
       }
@@ -459,12 +459,12 @@
       "ta": {
         "q": "வாகனம் ஓட்டும்போது கட்டாயம் வைத்திருக்க வேண்டிய ஆவணங்களுள் இடம்பெறாதது எது?",
         "options": [
-          "கடவுச்சீட்டு (பாஸ்போர்ட்)",
+          "கடவுச்சீட்டு",
           "ஓட்டுநர் உரிமம்",
           "வாகனப் பதிவுச் சான்று",
           "காப்பீட்டுச் சான்று"
         ],
-        "explanation": "வரிச் சான்று, தகுதிச் சான்று, அனுமதிச் சீட்டு ஆகியவையும் அவசியம்."
+        "explanation": "கடவுச்சீட்டு (பாஸ்போர்ட்) தேவையில்லை; வரிச் சான்று, தகுதிச் சான்று, அனுமதிச் சீட்டு ஆகியவை அவசியம்."
       }
     }
   ]

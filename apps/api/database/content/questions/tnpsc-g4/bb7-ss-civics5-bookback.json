@@ -53,10 +53,10 @@
       "ta": {
         "q": "பாலின சமத்துவம் ______ தொடர்புடைய பிரச்சினை.",
         "options": [
-          "பெண்கள், சிறுமிகளுக்கு மட்டும்",
-          "வளர்ந்த நாடுகளுக்கு மட்டும்",
-          "பெண்கள், ஆண்கள் உள்ளிட்ட அனைத்துச் சமூகங்களுக்கும்",
-          "மூன்றாம் உலக நாடுகளுக்கு மட்டும்"
+          "பெண்கள், சிறுமிகள் அடங்கிய குழுவுக்கு மட்டும்",
+          "வளர்ந்த நாடுகளின் சமூகங்களுக்கு மட்டும்",
+          "ஆண், பெண் அடங்கிய அனைத்துச் சமூகங்களுக்கும்",
+          "மூன்றாம் உலக நாடுகளின் சமூகங்களுக்கு மட்டும்"
         ],
         "explanation": "பெண்கள் மேம்பாடும் பாலின சமத்துவமும் அனைத்து நாடுகளின் நீடித்த வளர்ச்சிக்கும் அவசியம்."
       }
@@ -72,22 +72,22 @@
       "en": {
         "q": "Which strategy will help women become more socially and economically empowered?",
         "options": [
-          "All of these: working together to challenge discrimination, more income sources and improved access to education",
-          "Only more income sources",
-          "Only restricting mobility",
-          "Only early marriage"
+          "Challenging discrimination, earning more and better education",
+          "Only more income sources, without any other change",
+          "Only restricting women's mobility outside the home",
+          "Only arranging early marriage for all girls of the village"
         ],
-        "explanation": "Education increases a woman's earning capabilities and reduces poverty."
+        "explanation": "All of these help: working together to challenge discrimination, more income sources and improved access to education. Education increases a woman's earning capabilities and reduces poverty."
       },
       "ta": {
         "q": "பெண்கள் சமூக, பொருளாதார ரீதியாக மேம்பட உதவும் உத்தி எது?",
         "options": [
-          "பாகுபாட்டை எதிர்க்கக் கூடிச் செயல்படுதல், அதிக வருவாய் வாய்ப்புகள், கல்விக்கான சிறந்த வாய்ப்பு ஆகிய அனைத்தும்",
-          "அதிக வருவாய் வாய்ப்பு மட்டும்",
-          "நடமாட்டத்தைக் கட்டுப்படுத்துதல் மட்டும்",
-          "இளவயதுத் திருமணம் மட்டும்"
+          "பாகுபாட்டை எதிர்த்தல், அதிக வருவாய், சிறந்த கல்வி வாய்ப்பு",
+          "அதிக வருவாய் வாய்ப்பு மட்டும், வேறு மாற்றமின்றி",
+          "பெண்களின் நடமாட்டத்தை வீட்டுக்கு வெளியே கட்டுப்படுத்துதல் மட்டும்",
+          "கிராமப் பெண்கள் அனைவருக்கும் இளவயதுத் திருமணம் மட்டும்"
         ],
-        "explanation": "கல்வி பெண்களின் வருவாய்த் திறனை உயர்த்தி வறுமையைக் குறைக்கிறது."
+        "explanation": "இவை அனைத்தும் உதவும்: பாகுபாட்டை எதிர்க்கக் கூடிச் செயல்படுதல், அதிக வருவாய் வாய்ப்புகள், கல்விக்கான சிறந்த வாய்ப்பு. கல்வி பெண்களின் வருவாய்த் திறனை உயர்த்தி வறுமையைக் குறைக்கிறது."
       }
     },
     {
@@ -101,22 +101,22 @@
       "en": {
         "q": "Why are girls more likely than boys to miss out on secondary education in the developing world?",
         "options": [
-          "Because girls dislike studying",
-          "Because there are no schools for boys",
-          "High fees, expectations to help at home and child marriage restricting their mobility, all together",
+          "Because girls generally dislike studying",
+          "Because there are no secondary schools for boys",
+          "High fees, household chores and child marriage",
           "Because girls get married only after graduation"
         ],
-        "explanation": "Factors for poor female literacy include domestic chores, low enrolment and a high dropout rate."
+        "explanation": "High fees, expectations to help at home and child marriage restricting their mobility all together keep girls out of school. Factors for poor female literacy include domestic chores, low enrolment and a high dropout rate."
       },
       "ta": {
         "q": "வளரும் நாடுகளில் ஆண்களைவிடப் பெண்கள் இடைநிலைக் கல்வியை இழக்கக் காரணம்?",
         "options": [
-          "பெண்கள் படிக்க விரும்பாதது",
-          "ஆண்களுக்குப் பள்ளிகள் இல்லாதது",
-          "அதிகக் கட்டணம், வீட்டு வேலை எதிர்பார்ப்பு, குழந்தைத் திருமணத்தால் நடமாட்டத் தடை ஆகிய அனைத்தும்",
+          "பெண்கள் பொதுவாகப் படிப்பை விரும்பாதது",
+          "ஆண்களுக்கான இடைநிலைப் பள்ளிகள் இல்லாதது",
+          "அதிகக் கட்டணம், வீட்டு வேலை, குழந்தைத் திருமணம்",
           "பட்டப்படிப்புக்குப் பின்னரே பெண்கள் திருமணம் செய்வது"
         ],
-        "explanation": "வீட்டுப் பணி, குறைந்த சேர்க்கை, அதிக இடைநிற்றல் ஆகியவை பெண் கல்வியறிவு குறைவுக்குக் காரணங்கள்."
+        "explanation": "அதிகக் கட்டணம், வீட்டு வேலை எதிர்பார்ப்பு, குழந்தைத் திருமணத்தால் நடமாட்டத் தடை ஆகிய அனைத்தும் சேர்ந்து பெண்களைப் பள்ளியிலிருந்து விலக்குகின்றன. வீட்டுப் பணி, குறைந்த சேர்க்கை, அதிக இடைநிற்றல் ஆகியவை பெண் கல்வியறிவு குறைவுக்குக் காரணங்கள்."
       }
     },
     {

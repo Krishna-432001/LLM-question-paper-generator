@@ -53,12 +53,12 @@
       "ta": {
         "q": "பனியாற்றின் படிவால் உருவாகும் நிலத்தோற்றம் ______.",
         "options": [
-          "அரேட்",
-          "பனியாற்றுப் படிவு (மொரைன்)",
-          "சர்க்",
+          "அரேட் முகடு",
+          "மொரைன் படிவு",
+          "சர்க் பள்ளம்",
           "தார்ன் ஏரி"
         ],
-        "explanation": "பனியாறு சுமந்து வந்த பாறை, மணல், வண்டல் படிந்து மொரைன் உருவாகிறது."
+        "explanation": "பனியாறு சுமந்து வந்த பாறை, மணல், வண்டல் படிந்து பனியாற்றுப் படிவான மொரைன் உருவாகிறது."
       }
     },
     {
@@ -112,11 +112,11 @@
         "q": "அலை அரிப்புடன் தொடர்பில்லாத நிலத்தோற்றம் ______.",
         "options": [
           "கடல் செங்குத்துப் பாறைகள்",
-          "கடற்கரை (பீச்)",
+          "கடற்கரை",
           "கடல் வளைவுகள்",
           "கடல் தூண்கள்"
         ],
-        "explanation": "கடற்கரைகள் அலைகளின் படிவால் உருவாகின்றன; மற்றவை அரிப்பால் உருவாகின்றன."
+        "explanation": "கடற்கரைகள் (பீச்) அலைகளின் படிவால் உருவாகின்றன; மற்றவை அரிப்பால் உருவாகின்றன."
       }
     },
     {
@@ -304,22 +304,22 @@
       "en": {
         "q": "Erosion is the ______.",
         "options": [
-          "Wearing down of the landscape by agents such as water, wind, ice and sea waves",
+          "Wearing away of land by water, wind and ice",
           "Breaking of rocks in place without movement",
-          "Levelling of highlands only",
-          "Building up of land by volcanoes"
+          "Levelling of only the highlands of a region",
+          "Building up of new land by volcanoes alone"
         ],
-        "explanation": "The eroded material is carried away by water, wind etc. and eventually deposited."
+        "explanation": "Erosion is the wearing down of the landscape by agents such as water, wind, ice and sea waves. The eroded material is carried away and eventually deposited."
       },
       "ta": {
         "q": "அரிப்பு என்பது ______.",
         "options": [
-          "நீர், காற்று, பனி, கடலலைகள் போன்ற காரணிகளால் நிலத்தோற்றம் தேய்க்கப்படுதல்",
-          "பாறைகள் இடம்பெயராமல் உடைதல்",
-          "உயர்நிலங்களை மட்டும் சமப்படுத்துதல்",
-          "எரிமலைகளால் நிலம் உயருதல்"
+          "நீர், காற்று, பனியால் நிலம் தேய்க்கப்படுதல்",
+          "பாறைகள் இடம்பெயராமல் அங்கேயே உடைதல்",
+          "உயர்நிலங்களை மட்டுமே சமப்படுத்துதல்",
+          "எரிமலைகளால் மட்டுமே நிலம் உயருதல்"
         ],
-        "explanation": "அரிக்கப்பட்ட பொருள் நீர், காற்று போன்றவற்றால் கொண்டு செல்லப்பட்டுப் படிகிறது."
+        "explanation": "நீர், காற்று, பனி, கடலலைகள் போன்ற காரணிகளால் நிலத்தோற்றம் தேய்க்கப்படுவதே அரிப்பு. அரிக்கப்பட்ட பொருள் கொண்டு செல்லப்பட்டுப் படிகிறது."
       }
     },
     {
@@ -362,20 +362,20 @@
       "en": {
         "q": "An ox-bow lake is formed when ______.",
         "options": [
-          "A glacier melts in a cirque",
-          "Sea waves cut off a bay",
-          "The loop of a meander gets cut off from the river",
-          "Wind deposits sand in a hollow"
+          "A glacier melts and fills a cirque basin",
+          "Sea waves cut off a bay from the ocean",
+          "A meander loop gets cut off from the river",
+          "Wind deposits sand in a desert hollow"
         ],
         "explanation": "Continuous erosion and deposition bring the ends of a meander loop closer until it is cut off, forming a cut-off lake."
       },
       "ta": {
         "q": "குதிரைலாட ஏரி எவ்வாறு உருவாகிறது?",
         "options": [
-          "சர்க்கில் பனி உருகுவதால்",
-          "கடலலைகள் விரிகுடாவைத் துண்டிப்பதால்",
-          "ஆற்று வளைவின் சுழற்சி ஆற்றிலிருந்து துண்டிக்கப்படுவதால்",
-          "காற்று பள்ளத்தில் மணலைப் படிய வைப்பதால்"
+          "சர்க் பள்ளத்தில் பனி உருகி நிரம்புவதால்",
+          "கடலலைகள் விரிகுடாவைக் கடலிலிருந்து துண்டிப்பதால்",
+          "ஆற்று வளைவு ஆற்றிலிருந்து துண்டிக்கப்படுவதால்",
+          "காற்று பாலைவனப் பள்ளத்தில் மணலைப் படியவைப்பதால்"
         ],
         "explanation": "தொடர் அரிப்பு, படிவால் வளைவின் முனைகள் நெருங்கித் துண்டிக்கப்பட்டு ஏரி உருவாகிறது."
       }

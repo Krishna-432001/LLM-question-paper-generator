@@ -15,9 +15,9 @@
         "q": "Which city was built as the new capital of the Cholas by Rajendra I?",
         "options": [
           "Gangaikonda Cholapuram",
-          "Uraiyur",
-          "Thanjavur",
-          "Madurai"
+          "Uraiyur, the old capital",
+          "Thanjavur, the old capital",
+          "Madurai, the Pandya capital"
         ],
         "explanation": "Vijayalaya made Thanjavur his capital; Rajendra I and successors ruled from the newly built Gangaikonda Cholapuram."
       },
@@ -25,9 +25,9 @@
         "q": "முதலாம் இராசேந்திரன் புதிதாக உருவாக்கிய சோழர் தலைநகரம் எது?",
         "options": [
           "கங்கைகொண்ட சோழபுரம்",
-          "உறையூர்",
-          "தஞ்சாவூர்",
-          "மதுரை"
+          "உறையூர் என்ற பழைய தலைநகரம்",
+          "தஞ்சாவூர் என்ற பழைய தலைநகரம்",
+          "மதுரை என்ற பாண்டியத் தலைநகரம்"
         ],
         "explanation": "விஜயாலயன் தஞ்சையைத் தலைநகராக்கினார்; இராசேந்திரனும் அவர் வழியினரும் புதிய தலைநகரான கங்கைகொண்ட சோழபுரத்திலிருந்து ஆண்டனர்."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "The head guild of the ai-nutruvar (disai-ayirattu-ai-nutruvar) functioned from ______.",
         "options": [
-          "Kayal",
+          "Kayal, Tamil Nadu",
           "Ayyavole, Karnataka",
-          "Korkai",
-          "Kanchipuram"
+          "Korkai, Tamil Nadu",
+          "Kanchipuram, Tamil Nadu"
         ],
         "explanation": "The ai-nutruvar guild operated maritime trade covering South-East Asian countries."
       },
       "ta": {
         "q": "ஐநூற்றுவர் (திசையாயிரத்து ஐநூற்றுவர்) வணிகக் குழுவின் தலைமைக் குழு ______ இல் செயல்பட்டது.",
         "options": [
-          "காயல்",
+          "காயல், தமிழ்நாடு",
           "அய்யவோலே, கர்நாடகம்",
-          "கொற்கை",
-          "காஞ்சிபுரம்"
+          "கொற்கை, தமிழ்நாடு",
+          "காஞ்சிபுரம், தமிழ்நாடு"
         ],
         "explanation": "ஐநூற்றுவர் குழு தென்கிழக்காசிய நாடுகளுடனான கடல் வணிகத்தை நடத்தியது."
       }
@@ -275,22 +275,22 @@
       "en": {
         "q": "Marco Polo described the Pandyan Kingdom as ______.",
         "options": [
-          "The richest and most splendid province in the world",
-          "The poorest region of South India",
-          "The centre of Buddhist learning",
-          "The largest naval power in Asia"
+          "The richest and finest province in the world",
+          "The poorest region of all South India",
+          "The main centre of Buddhist learning",
+          "The largest naval power in all Asia"
         ],
-        "explanation": "Marco Polo said that, with Ceylon, it produced most of the gems and pearls of the world."
+        "explanation": "Marco Polo called it the richest and most splendid province in the world; with Ceylon, it produced most of the gems and pearls of the world."
       },
       "ta": {
         "q": "மார்க்கோ போலோ பாண்டிய நாட்டை ______ எனப் புகழ்ந்தார்.",
         "options": [
-          "உலகின் மிகச் செல்வவளமிக்க, மிகச் சிறப்பான மாகாணம்",
-          "தென்னிந்தியாவின் ஏழ்மையான பகுதி",
-          "பௌத்தக் கல்வி மையம்",
-          "ஆசியாவின் மிகப் பெரிய கடற்படை"
+          "உலகின் மிகச் செல்வவளமிக்க, சிறப்பான மாகாணம்",
+          "தென்னிந்தியா முழுவதிலும் ஏழ்மையான பகுதி",
+          "பௌத்தக் கல்விக்கான முதன்மை மையம்",
+          "ஆசியா முழுவதிலும் பெரிய கடற்படை"
         ],
-        "explanation": "இலங்கையுடன் சேர்ந்து உலகின் பெரும்பாலான மணிகளும் முத்துகளும் இங்கு கிடைப்பதாக அவர் கூறினார்."
+        "explanation": "உலகின் மிகச் செல்வவளமிக்க, மிகச் சிறப்பான மாகாணம் என அவர் கூறினார்; இலங்கையுடன் சேர்ந்து உலகின் பெரும்பாலான மணிகளும் முத்துகளும் இங்கு கிடைப்பதாகவும் கூறினார்."
       }
     },
     {
@@ -306,20 +306,20 @@
         "options": [
           "Maravarman Kulasekaran",
           "Jatila Parantaka Nedunjadayan",
-          "Sadaiyavarman (Jatavarman) Sundarapandyan",
+          "Sadaiyavarman Sundarapandyan",
           "Arikesari Maravarman"
         ],
-        "explanation": "Sundarapandyan (1251-1268) brought the entire Tamil Nadu under his rule, up to Nellore."
+        "explanation": "Sadaiyavarman (Jatavarman) Sundarapandyan (1251-1268) brought the entire Tamil Nadu under his rule, up to Nellore."
       },
       "ta": {
         "q": "இரண்டாம் பாண்டியப் பேரரசின் சிறப்புமிக்க அரசரும், கண்ணனூரில் சோமேஸ்வரனைத் தோற்கடித்தவருமானவர் ______.",
         "options": [
           "மாறவர்மன் குலசேகரன்",
           "ஜடில பராந்தக நெடுஞ்சடையன்",
-          "சடையவர்மன் (ஜடாவர்மன்) சுந்தரபாண்டியன்",
+          "சடையவர்மன் சுந்தரபாண்டியன்",
           "அரிகேசரி மாறவர்மன்"
         ],
-        "explanation": "சுந்தரபாண்டியன் (1251-1268) தமிழகம் முழுவதையும் நெல்லூர் வரை தம் ஆட்சியின் கீழ் கொண்டு வந்தார்."
+        "explanation": "சடையவர்மன் (ஜடாவர்மன்) சுந்தரபாண்டியன் (1251-1268) தமிழகம் முழுவதையும் நெல்லூர் வரை தம் ஆட்சியின் கீழ் கொண்டு வந்தார்."
       }
     },
     {

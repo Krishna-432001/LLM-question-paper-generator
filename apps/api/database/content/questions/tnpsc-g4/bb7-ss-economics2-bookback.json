@@ -391,22 +391,22 @@
       "en": {
         "q": "According to Prof. Seligman, a tax is ______.",
         "options": [
-          "A fee paid for a specific service received",
-          "A voluntary donation to the government",
-          "A compulsory contribution from a person to the government to defray expenses incurred in the common interest of all, without reference to special benefits conferred",
-          "A loan given to the government"
+          "A fee paid to the government for a specific service received",
+          "A voluntary donation made to the government for charity",
+          "A compulsory payment to the government without special benefits",
+          "A loan given to the government to be repaid with interest"
         ],
-        "explanation": "Taxes are compulsory payments without expectations of direct return or benefit to the taxpayers."
+        "explanation": "Seligman: a tax is a compulsory contribution from a person to the government to defray expenses incurred in the common interest of all, without reference to special benefits conferred. Taxes are compulsory payments without expectations of direct return."
       },
       "ta": {
         "q": "பேராசிரியர் செலிக்மனின் கூற்றுப்படி வரி என்பது ______.",
         "options": [
-          "பெற்ற குறிப்பிட்ட சேவைக்கான கட்டணம்",
-          "அரசுக்கு அளிக்கும் தன்னார்வ நன்கொடை",
-          "அனைவரின் பொது நலனுக்கான செலவுகளை ஈடுசெய்ய, சிறப்புப் பயன் எதிர்பாராமல் ஒருவர் அரசுக்குச் செலுத்தும் கட்டாயப் பங்களிப்பு",
-          "அரசுக்கு வழங்கும் கடன்"
+          "அரசு வழங்கிய குறிப்பிட்ட சேவைக்காகச் செலுத்தும் கட்டணம்",
+          "தொண்டு நோக்கில் அரசுக்கு அளிக்கும் தன்னார்வ நன்கொடை",
+          "சிறப்புப் பயன் எதிர்பாராமல் அரசுக்குச் செலுத்தும் கட்டாயப் பங்களிப்பு",
+          "வட்டியுடன் திருப்பித் தரப்படும் வகையில் அரசுக்கு வழங்கும் கடன்"
         ],
-        "explanation": "வரிகள் நேரடிப் பயன் எதிர்பார்ப்பின்றிச் செலுத்தும் கட்டாயக் கொடுப்பனவுகள்."
+        "explanation": "செலிக்மன்: அனைவரின் பொது நலனுக்கான செலவுகளை ஈடுசெய்ய, சிறப்புப் பயன் எதிர்பாராமல் ஒருவர் அரசுக்குச் செலுத்தும் கட்டாயப் பங்களிப்பே வரி. வரிகள் நேரடிப் பயன் எதிர்பார்ப்பின்றிச் செலுத்தும் கட்டாயக் கொடுப்பனவுகள்."
       }
     },
     {
@@ -421,9 +421,9 @@
         "q": "Which of the following is NOT mentioned as a social project financed by taxes?",
         "options": [
           "Personal luxury expenses of officials",
-          "Governance",
-          "Education",
-          "Health"
+          "Governance and administration",
+          "Public education services",
+          "Public health services"
         ],
         "explanation": "Taxes also fund infrastructure, transport, housing, security, scientific research and environmental protection."
       },
@@ -431,9 +431,9 @@
         "q": "பின்வருவனவற்றுள் வரிகளால் நிதியளிக்கப்படும் சமூகத் திட்டமாகக் குறிப்பிடப்படாதது எது?",
         "options": [
           "அதிகாரிகளின் தனிப்பட்ட ஆடம்பரச் செலவுகள்",
-          "நிர்வாகம்",
-          "கல்வி",
-          "சுகாதாரம்"
+          "நாட்டின் நிர்வாகமும் ஆட்சிப் பணிகளும்",
+          "பொதுமக்களுக்கான கல்விச் சேவைகள்",
+          "பொதுமக்களுக்கான சுகாதாரச் சேவைகள்"
         ],
         "explanation": "உள்கட்டமைப்பு, போக்குவரத்து, வீட்டுவசதி, பாதுகாப்பு, அறிவியல் ஆராய்ச்சி, சுற்றுச்சூழல் பாதுகாப்பு ஆகியவற்றுக்கும் வரி நிதி பயன்படுகிறது."
       }
@@ -452,9 +452,9 @@
           "Standard Goods and Services Tax",
           "Special Goods and Services Tax",
           "Local Goods and Services Tax",
-          "State Goods and Services Tax (SGST)"
+          "State Goods and Services Tax"
         ],
-        "explanation": "GST was designed to replace the indirect taxes imposed on goods and services by the Central and State governments."
+        "explanation": "The second part is the State Goods and Services Tax (SGST). GST was designed to replace the indirect taxes imposed on goods and services by the Central and State governments."
       },
       "ta": {
         "q": "சரக்கு, சேவை வரி (GST) இரு பகுதிகளைக் கொண்டது: மத்திய சரக்கு, சேவை வரி (CGST) மற்றும் ______.",
@@ -462,9 +462,9 @@
           "நிலையான சரக்கு, சேவை வரி",
           "சிறப்புச் சரக்கு, சேவை வரி",
           "உள்ளூர் சரக்கு, சேவை வரி",
-          "மாநில சரக்கு, சேவை வரி (SGST)"
+          "மாநில சரக்கு, சேவை வரி"
         ],
-        "explanation": "மத்திய, மாநில அரசுகள் விதித்த மறைமுக வரிகளுக்குப் பதிலாக GST கொண்டுவரப்பட்டது."
+        "explanation": "இரண்டாம் பகுதி மாநில சரக்கு, சேவை வரி (SGST). மத்திய, மாநில அரசுகள் விதித்த மறைமுக வரிகளுக்குப் பதிலாக GST கொண்டுவரப்பட்டது."
       }
     },
     {

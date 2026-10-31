@@ -14,20 +14,20 @@
       "en": {
         "q": "In economics, the market for books refers to ______.",
         "options": [
-          "A particular bookshop in a city",
-          "The street where books are printed",
-          "The government book depot",
-          "All the sellers and buyers of books in an economy"
+          "A particular bookshop located in a city",
+          "The street where all books are printed",
+          "The government book depot of the state",
+          "All buyers and sellers of books in an economy"
         ],
         "explanation": "It does not necessarily refer to a geographic location."
       },
       "ta": {
         "q": "பொருளியலில் புத்தகங்களுக்கான சந்தை என்பது ______ குறிக்கிறது.",
         "options": [
-          "ஒரு நகரத்தின் குறிப்பிட்ட புத்தகக் கடையை",
-          "புத்தகம் அச்சிடும் தெருவை",
-          "அரசு புத்தகக் கிடங்கை",
-          "ஒரு பொருளாதாரத்தில் புத்தகங்களை வாங்கி விற்கும் அனைவரையும்"
+          "ஒரு நகரத்தில் உள்ள குறிப்பிட்ட புத்தகக் கடையை",
+          "புத்தகங்கள் அச்சிடப்படும் தெருவை மட்டும்",
+          "அரசு புத்தகக் கிடங்கை மட்டும்",
+          "பொருளாதாரத்தில் புத்தகம் வாங்குவோர், விற்போர் அனைவரையும்"
         ],
         "explanation": "அது புவியியல் இடத்தைக் குறிக்க வேண்டியதில்லை."
       }
@@ -44,19 +44,19 @@
         "q": "Local markets usually sell ______ because transporting them can be expensive.",
         "options": [
           "Perishable goods of daily use",
-          "Gold and jewellery",
-          "Electronic goods",
-          "Machinery"
+          "Gold and expensive jewellery",
+          "Costly electronic goods and gadgets",
+          "Heavy industrial machinery"
         ],
         "explanation": "Regional markets cover a wider area like a district or a cluster of few smaller states."
       },
       "ta": {
         "q": "உள்ளூர்ச் சந்தைகளில் பெரும்பாலும் ______ விற்கப்படுகின்றன; ஏனெனில் அவற்றை எடுத்துச் செல்லச் செலவாகும்.",
         "options": [
-          "அன்றாடப் பயன்பாட்டிற்கான விரைவில் கெடும் பொருள்கள்",
-          "தங்கம், நகைகள்",
-          "மின்னணுப் பொருள்கள்",
-          "இயந்திரங்கள்"
+          "விரைவில் கெடும் அன்றாடப் பொருள்கள்",
+          "தங்கம், விலை உயர்ந்த நகைகள் போன்றவை",
+          "விலை உயர்ந்த மின்னணுப் பொருள்கள்",
+          "கனரக இயந்திரங்கள் போன்றவை"
         ],
         "explanation": "வட்டாரச் சந்தைகள் ஒரு மாவட்டம் அல்லது சில சிறு மாநிலங்களை உள்ளடக்கிய பரந்த பகுதியில் இயங்கும்."
       }
@@ -111,12 +111,12 @@
       "ta": {
         "q": "பணம் உடனடியாகச் செலுத்தப்பட்டு கடன் முறை இல்லாத சந்தை எது?",
         "options": [
-          "உடனடிச் சந்தை (ஸ்பாட்)",
+          "உடனடிச் சந்தை",
           "ஒழுங்குபடுத்தப்பட்ட சந்தை",
           "எதிர்காலச் சந்தை",
           "வட்டாரச் சந்தை"
         ],
-        "explanation": "எதிர்காலச் சந்தையில் பணத்தைப் பின்னர் செலுத்த உறுதியளிக்கப்படுகிறது."
+        "explanation": "உடனடிச் சந்தை (ஸ்பாட் சந்தை) – பணம் உடனே செலுத்தப்படும். எதிர்காலச் சந்தையில் பணத்தைப் பின்னர் செலுத்த உறுதியளிக்கப்படுகிறது."
       }
     },
     {
@@ -130,20 +130,20 @@
       "en": {
         "q": "The term 'monopolistic competition' was given by ______ in 1933.",
         "options": [
-          "Adam Smith",
-          "Alfred Marshall",
-          "Prof. Edward H. Chamberlin",
-          "J.M. Keynes"
+          "Prof. Adam Smith",
+          "Prof. Alfred Marshall",
+          "Prof. Edward Chamberlin",
+          "Prof. John M. Keynes"
         ],
         "explanation": "It is a combination of monopoly and perfect competition."
       },
       "ta": {
         "q": "'ஏகபோகப் போட்டி' என்ற சொல்லை 1933இல் அறிமுகப்படுத்தியவர் ______.",
         "options": [
-          "ஆடம் ஸ்மித்",
-          "ஆல்ஃபிரட் மார்ஷல்",
-          "பேராசிரியர் எட்வர்ட் எச். சேம்பர்லின்",
-          "ஜே.எம். கீன்ஸ்"
+          "பேராசிரியர் ஆடம் ஸ்மித்",
+          "பேராசிரியர் ஆல்ஃபிரட் மார்ஷல்",
+          "பேராசிரியர் எட்வர்ட் சேம்பர்லின்",
+          "பேராசிரியர் ஜே.எம். கீன்ஸ்"
         ],
         "explanation": "இது தனியுரிமை, முழுப் போட்டி ஆகியவற்றின் சேர்க்கை."
       }
@@ -169,12 +169,12 @@
       "ta": {
         "q": "சில விற்பனையாளர்கள் ஒரே வகை அல்லது வேறுபட்ட பொருள்களை விற்கும் சந்தை வடிவம் ______.",
         "options": [
-          "முழுப் போட்டி",
-          "தனியுரிமை",
-          "ஏகபோகப் போட்டி",
-          "சிலர் உரிமை (ஒலிகோபோலி)"
+          "முழுப் போட்டிச் சந்தை",
+          "தனியுரிமைச் சந்தை",
+          "ஏகபோகப் போட்டிச் சந்தை",
+          "சிலர் உரிமைச் சந்தை"
         ],
-        "explanation": "கிரேக்கத்தில் 'ஒலிகோய்' என்றால் சிலர், 'போலி' என்றால் கட்டுப்பாடு."
+        "explanation": "கிரேக்கத்தில் 'ஒலிகோய்' என்றால் சிலர், 'போலி' என்றால் கட்டுப்பாடு; சிலர் உரிமை என்பதே ஒலிகோபோலி."
       }
     },
     {
@@ -246,19 +246,19 @@
       "en": {
         "q": "TRAI and IRDAI are examples of ______.",
         "options": [
-          "Consumer courts",
-          "Regulatory authorities that regulate markets",
-          "Chambers of commerce",
-          "Consumer NGOs"
+          "Consumer protection courts",
+          "Market regulatory authorities",
+          "Chambers of commerce and trade",
+          "Voluntary consumer organisations"
         ],
         "explanation": "TRAI regulates telecom and IRDAI regulates insurance."
       },
       "ta": {
         "q": "TRAI, IRDAI ஆகியவை ______ எடுத்துக்காட்டுகள்.",
         "options": [
-          "நுகர்வோர் நீதிமன்றங்களுக்கு",
-          "சந்தைகளை ஒழுங்குபடுத்தும் ஒழுங்காற்று அமைப்புகளுக்கு",
-          "வணிகக் கூட்டமைப்புகளுக்கு",
+          "நுகர்வோர் பாதுகாப்பு நீதிமன்றங்களுக்கு",
+          "சந்தை ஒழுங்காற்று அமைப்புகளுக்கு",
+          "வணிக, தொழிற் கூட்டமைப்புகளுக்கு",
           "நுகர்வோர் தன்னார்வ அமைப்புகளுக்கு"
         ],
         "explanation": "TRAI தொலைத்தொடர்பையும் IRDAI காப்பீட்டையும் ஒழுங்குபடுத்துகின்றன."

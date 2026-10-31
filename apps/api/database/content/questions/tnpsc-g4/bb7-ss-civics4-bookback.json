@@ -101,20 +101,20 @@
       "en": {
         "q": "Which of the following is mass media?",
         "options": [
-          "Radio only",
-          "Television only",
+          "Radio broadcasts only",
+          "Television channels only",
           "Both radio and television",
-          "Private letters"
+          "Private letters sent by post"
         ],
         "explanation": "Newspapers, radio and TV are collectively termed mass media."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் வெகுஜன ஊடகம் எது?",
         "options": [
-          "வானொலி மட்டும்",
-          "தொலைக்காட்சி மட்டும்",
+          "வானொலி ஒலிபரப்பு மட்டும்",
+          "தொலைக்காட்சி ஒளிபரப்பு மட்டும்",
           "வானொலி, தொலைக்காட்சி இரண்டும்",
-          "தனிப்பட்ட கடிதங்கள்"
+          "அஞ்சல் வழி அனுப்பிய கடிதங்கள்"
         ],
         "explanation": "நாளிதழ், வானொலி, தொலைக்காட்சி ஆகியவை சேர்ந்து வெகுஜன ஊடகம் எனப்படுகின்றன."
       }
@@ -159,10 +159,10 @@
       "en": {
         "q": "______ have made the world smaller and closer.",
         "options": [
-          "Roads",
-          "Mass media",
-          "Trains",
-          "Banks"
+          "Good roads",
+          "The mass media",
+          "Fast trains",
+          "Large banks"
         ],
         "explanation": "Mass media are powerful and important instruments of expression."
       },
@@ -227,12 +227,12 @@
       "ta": {
         "q": "நம் வாழ்வை நெறிப்படுத்தும் மதிப்பீடுகளின் தொகுப்பு ______ எனப்படும்.",
         "options": [
-          "சட்டம்",
-          "நெறிமுறைகள் (அறநெறி)",
-          "வழக்கம்",
-          "ஊடகம்"
+          "அரசுச் சட்டம்",
+          "நெறிமுறைகள்",
+          "பழைய வழக்கம்",
+          "வெகுஜன ஊடகம்"
         ],
-        "explanation": "ஊடகங்கள் பின்பற்ற வேண்டிய ஒழுக்கக் கொள்கைகளின் தொகுப்பே ஊடக நெறிமுறைகள்."
+        "explanation": "ஊடகங்கள் பின்பற்ற வேண்டிய ஒழுக்கக் கொள்கைகளின் தொகுப்பே ஊடக நெறிமுறைகள் (அறநெறி)."
       }
     },
     {
@@ -249,9 +249,9 @@
           "Doordarshan",
           "Vividh Bharati only",
           "Radio Ceylon",
-          "All India Radio (AIR)"
+          "All India Radio"
         ],
-        "explanation": "It has been officially known as Akashvani (voice from the sky) since 1956."
+        "explanation": "All India Radio (AIR) has been officially known as Akashvani (voice from the sky) since 1956."
       },
       "ta": {
         "q": "1936இல் தொடங்கப்பட்ட இந்திய அரசின் வானொலி ஒலிபரப்பு நிறுவனம் ______.",
@@ -259,9 +259,9 @@
           "தூர்தர்ஷன்",
           "விவித் பாரதி மட்டும்",
           "ரேடியோ சிலோன்",
-          "அகில இந்திய வானொலி (AIR)"
+          "அகில இந்திய வானொலி"
         ],
-        "explanation": "1956 முதல் அதிகாரபூர்வமாக ஆகாசவாணி (வானிலிருந்து குரல்) என அழைக்கப்படுகிறது."
+        "explanation": "அகில இந்திய வானொலி (AIR) 1956 முதல் அதிகாரபூர்வமாக ஆகாசவாணி (வானிலிருந்து குரல்) என அழைக்கப்படுகிறது."
       }
     },
     {
@@ -404,9 +404,9 @@
           "மீடியன்",
           "மீடியல்",
           "மீடியேட்டர்",
-          "மீடியம் (ஊடகம்)"
+          "மீடியம்"
         ],
-        "explanation": "ஊடகம் என்பது தகவல் தொடர்புக்கான வழிமுறை."
+        "explanation": "மீடியம் (ஊடகம்) என்பது தகவல் தொடர்புக்கான வழிமுறை."
       }
     },
     {
@@ -451,20 +451,20 @@
         "options": [
           "Publishing sensational news to attract readers",
           "Supporting a single political party",
-          "Providing factual, unbiased and accurate reports and avoiding sensational and distorted news",
-          "Hiding government failures"
+          "Providing factual and unbiased reports of events",
+          "Hiding the failures of the government"
         ],
-        "explanation": "The media should not publish anything which corrupts the public mind and disturbs social peace."
+        "explanation": "The media should provide accurate reports, avoiding sensational and distorted news, and should not publish anything which corrupts the public mind and disturbs social peace."
       },
       "ta": {
         "q": "பாடத்தின்படி ஊடகத்தின் பொறுப்பு எது?",
         "options": [
           "வாசகர்களை ஈர்க்கப் பரபரப்புச் செய்திகளை வெளியிடுவது",
-          "ஒரே அரசியல் கட்சியை ஆதரிப்பது",
-          "உண்மையான, பாரபட்சமற்ற, துல்லியமான செய்திகளை வழங்குவதும் பரபரப்பான, திரிக்கப்பட்ட செய்திகளைத் தவிர்ப்பதும்",
-          "அரசின் குறைகளை மறைப்பது"
+          "ஒரே அரசியல் கட்சியை மட்டும் ஆதரிப்பது",
+          "உண்மையான, பாரபட்சமற்ற செய்திகளை வழங்குவது",
+          "அரசின் குறைகளை மக்களிடமிருந்து மறைப்பது"
         ],
-        "explanation": "பொது மனத்தைக் கெடுக்கும், சமூக அமைதியைக் குலைக்கும் எதையும் ஊடகம் வெளியிடக் கூடாது."
+        "explanation": "ஊடகம் துல்லியமான செய்திகளை வழங்க வேண்டும்; பரபரப்பான, திரிக்கப்பட்ட செய்திகளைத் தவிர்க்க வேண்டும்; பொது மனத்தைக் கெடுக்கும், சமூக அமைதியைக் குலைக்கும் எதையும் வெளியிடக் கூடாது."
       }
     }
   ]

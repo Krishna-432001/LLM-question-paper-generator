@@ -227,10 +227,10 @@
       "ta": {
         "q": "இரண்டாம், மூன்றாம் நிலைத் தொழில்களில் பெரும்பாலானோர் ஈடுபடும் குடியிருப்புகள் ______ குடியிருப்புகள் எனப்படும்.",
         "options": [
-          "சிதறிய",
+          "சிதறிய வடிவக்",
           "நகர்ப்புறக்",
-          "ஊரகக்",
-          "செறிந்த"
+          "கிராமப்புறக்",
+          "செறிந்த வடிவக்"
         ],
         "explanation": "ஊரகக் குடியிருப்புகள் முதன்மைத் தொழில்களில் ஈடுபடுபவை."
       }
@@ -257,9 +257,9 @@
         "q": "ஒரு பெரு நகரின் மிகை மக்கள்தொகையைத் தாங்க ஊரக-நகர விளிம்புக்கு அப்பால் அமைக்கப்பட்ட நகரங்கள் ______ நகரங்கள் எனப்படும்.",
         "options": [
           "துணைக்கோள்",
-          "கல்வி",
-          "இராணுவ",
-          "நிர்வாக"
+          "கல்வி சார்ந்த",
+          "இராணுவ முகாம்",
+          "நிர்வாகத் தலைமை"
         ],
         "explanation": "இந்தியாவில் பெரும்பாலான துணைக்கோள் நகரங்கள் முழுக்க குடியிருப்புப் பகுதிகளாகும்."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Which of the following is a common basis for classifying urban settlements?",
         "options": [
-          "Soil type, rainfall and relief",
-          "Size of population, occupational structure and administration",
-          "Race, religion and language",
-          "Altitude, latitude and longitude"
+          "Soil type, annual rainfall and relief features",
+          "Population size, occupations and administration",
+          "Race, religion and the language spoken",
+          "Altitude, latitude and longitude of the place"
         ],
         "explanation": "The definition of urban area varies from country to country; the common bases are population size, occupational structure and administration."
       },
       "ta": {
         "q": "நகர்ப்புறக் குடியிருப்புகளை வகைப்படுத்தும் பொதுவான அடிப்படை எது?",
         "options": [
-          "மண் வகை, மழை, நிலத்தோற்றம்",
+          "மண் வகை, ஆண்டு மழை, நிலத்தோற்ற அமைப்பு",
           "மக்கள்தொகை அளவு, தொழில் அமைப்பு, நிர்வாகம்",
-          "இனம், சமயம், மொழி",
-          "உயரம், அட்சம், தீர்க்கம்"
+          "மக்களின் இனம், சமயம், பேசும் மொழி",
+          "இடத்தின் உயரம், அட்சம், தீர்க்கம்"
         ],
         "explanation": "நகர்ப்புறத்தின் வரையறை நாட்டுக்கு நாடு மாறும்; பொது அடிப்படைகள் மக்கள்தொகை, தொழில் அமைப்பு, நிர்வாகம்."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "Dispersed settlements are found in the Himalayas because the area is ______.",
         "options": [
-          "A fertile river valley",
-          "A flat delta",
-          "A hilly tract of extreme climate",
-          "A coastal plain"
+          "A fertile river valley with good water",
+          "A flat river delta with fertile soil",
+          "A hilly tract with an extreme climate",
+          "A coastal plain with a mild climate"
         ],
         "explanation": "Dispersed settlements are found in areas of extreme climate, hilly tracts and thick forests, with houses spaced far apart."
       },
       "ta": {
         "q": "இமயமலையில் சிதறிய குடியிருப்புகள் காணப்படுவதற்குக் காரணம் அப்பகுதி ______.",
         "options": [
-          "வளமான ஆற்றுப்பள்ளத்தாக்கு",
-          "தட்டையான கழிமுகம்",
-          "மிகை தட்பவெப்பம் கொண்ட மலைப்பகுதியாக இருப்பதே",
-          "கடற்கரைச் சமவெளி"
+          "நீர்வளம் மிக்க வளமான ஆற்றுப்பள்ளத்தாக்கு",
+          "வளமான மண்ணுடன் தட்டையான கழிமுகம்",
+          "மிகை தட்பவெப்பம் கொண்ட மலைப்பகுதி",
+          "மிதமான தட்பவெப்பம் உள்ள கடற்கரைச் சமவெளி"
         ],
         "explanation": "மிகை தட்பவெப்பம், மலைப்பகுதி, அடர்காடுகளில் வீடுகள் தொலைவில் அமைந்த சிதறிய குடியிருப்புகள் காணப்படுகின்றன."
       }
@@ -664,7 +664,7 @@
         "options": [
           "ஒரு இலட்சத்துக்கு மேல் நகரம்; 5,000க்கு மேல் மாநகரம்",
           "இரண்டும் ஒரு கோடிக்கு மேல்",
-          "5,000க்கு மேல் மக்கள்தொகை உடையது நகரம்; ஒரு இலட்சத்துக்கு மேல் உடையது மாநகரம்",
+          "5,000க்கு மேல் நகரம்; ஒரு இலட்சத்துக்கு மேல் மாநகரம்",
           "நகரம் ஊரகம்; மாநகரம் நகர்ப்புறம்"
         ],
         "explanation": "5000க்கு மேல் மக்கள்தொகை கொண்டது டவுன்; இந்தியாவில் ஒரு இலட்சத்துக்கு மேல் உள்ள நகர்ப்புறம் சிட்டி."

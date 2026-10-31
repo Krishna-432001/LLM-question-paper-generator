@@ -53,7 +53,7 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் ஆளுநரின் அதிகாரங்களில் அடங்காதது எது?",
         "options": [
-          "தூதரக (வெளியுறவு) அதிகாரம்",
+          "தூதரக அதிகாரம்",
           "நீதித்துறை அதிகாரம்",
           "சட்டமியற்றும் அதிகாரம்",
           "நிர்வாக அதிகாரம்"
@@ -275,20 +275,20 @@
       "en": {
         "q": "How are the Members of the Legislative Assembly (MLAs) elected?",
         "options": [
-          "Directly by the people on the basis of adult franchise",
-          "By the Legislative Council",
-          "By the Governor",
-          "By Members of Parliament"
+          "Directly by the people through adult franchise",
+          "By the members of the Legislative Council",
+          "By nomination by the Governor of the State",
+          "By Members of Parliament from the State"
         ],
         "explanation": "The Assembly is the popular house and the real centre of power; its strength is between 60 and 500 and its term is five years."
       },
       "ta": {
         "q": "சட்டமன்ற உறுப்பினர்கள் (MLAக்கள்) எவ்வாறு தேர்ந்தெடுக்கப்படுகின்றனர்?",
         "options": [
-          "வயது வந்தோர் வாக்குரிமை அடிப்படையில் மக்களால் நேரடியாக",
-          "சட்ட மேலவையால்",
-          "ஆளுநரால்",
-          "நாடாளுமன்ற உறுப்பினர்களால்"
+          "மக்களால் நேரடியாக வயது வந்தோர் வாக்குரிமையால்",
+          "சட்ட மேலவை உறுப்பினர்களால் மறைமுகமாக",
+          "மாநில ஆளுநரால் நியமிக்கப்பட்டு",
+          "அந்த மாநில நாடாளுமன்ற உறுப்பினர்களால்"
         ],
         "explanation": "சட்டமன்றம் மக்கள் அவை; உண்மையான அதிகார மையம்; உறுப்பினர் எண்ணிக்கை 60-500; பதவிக்காலம் ஐந்தாண்டு."
       }
@@ -392,7 +392,7 @@
         "q": "Which of the following is a qualification for appointment as Governor (Article 157)?",
         "options": [
           "He must be at least 25 years of age",
-          "He must be a citizen of India and at least 35 years of age",
+          "He must be at least 35 years of age",
           "He must be a Member of Parliament",
           "He must belong to the same State"
         ],
@@ -401,8 +401,8 @@
       "ta": {
         "q": "ஆளுநராக நியமிக்கப்படுவதற்கான தகுதிகளில் ஒன்று எது?",
         "options": [
-          "குறைந்தது 25 வயது",
-          "இந்தியக் குடிமகனாகவும் குறைந்தது 35 வயதுடையவராகவும் இருத்தல்",
+          "குறைந்தது 25 வயதுடையவராக இருத்தல்",
+          "குறைந்தது 35 வயதுடையவராக இருத்தல்",
           "நாடாளுமன்ற உறுப்பினராக இருத்தல்",
           "அதே மாநிலத்தைச் சேர்ந்தவராக இருத்தல்"
         ],
@@ -420,22 +420,22 @@
       "en": {
         "q": "Which High Courts have both original and appellate jurisdiction in civil matters above a prescribed amount, according to the textbook?",
         "options": [
-          "Only the Allahabad High Court",
-          "All High Courts equally",
-          "The Presidency town High Courts - Bombay, Calcutta and Madras",
-          "Only the Delhi High Court"
+          "Only the Allahabad and Patna High Courts",
+          "All the High Courts in India equally",
+          "The Bombay, Calcutta and Madras High Courts",
+          "Only the Delhi and Punjab High Courts"
         ],
-        "explanation": "Other High Courts have original jurisdiction only in admiralty, probate, matrimonial and contempt-of-court matters."
+        "explanation": "These are the Presidency town High Courts. Other High Courts have original jurisdiction only in admiralty, probate, matrimonial and contempt-of-court matters."
       },
       "ta": {
         "q": "பாடநூலின்படி, குறிப்பிட்ட தொகைக்கு மேற்பட்ட சிவில் வழக்குகளில் தொடக்க, மேல்முறையீட்டு அதிகாரங்கள் இரண்டும் உடைய உயர்நீதிமன்றங்கள் எவை?",
         "options": [
-          "அலகாபாத் உயர்நீதிமன்றம் மட்டும்",
-          "அனைத்து உயர்நீதிமன்றங்களும் சமமாக",
-          "மாகாணத் தலைநகர உயர்நீதிமன்றங்கள் - பம்பாய், கல்கத்தா, சென்னை",
-          "டெல்லி உயர்நீதிமன்றம் மட்டும்"
+          "அலகாபாத், பாட்னா உயர்நீதிமன்றங்கள் மட்டும்",
+          "இந்தியாவின் அனைத்து உயர்நீதிமன்றங்களும் சமமாக",
+          "பம்பாய், கல்கத்தா, சென்னை உயர்நீதிமன்றங்கள்",
+          "டெல்லி, பஞ்சாப் உயர்நீதிமன்றங்கள் மட்டும்"
         ],
-        "explanation": "பிற உயர்நீதிமன்றங்களுக்குக் கடல்சார், உயில், திருமணம், நீதிமன்ற அவமதிப்பு வழக்குகளில் மட்டுமே தொடக்க அதிகாரம் உண்டு."
+        "explanation": "இவை மாகாணத் தலைநகர உயர்நீதிமன்றங்கள். பிற உயர்நீதிமன்றங்களுக்குக் கடல்சார், உயில், திருமணம், நீதிமன்ற அவமதிப்பு வழக்குகளில் மட்டுமே தொடக்க அதிகாரம் உண்டு."
       }
     },
     {
@@ -449,22 +449,22 @@
       "en": {
         "q": "Under its appellate jurisdiction, the High Court",
         "options": [
-          "Elects the Governor",
-          "Tries all cases for the first time",
-          "Hears appeals in civil and criminal cases from subordinate courts",
-          "Issues writs only for the Union"
+          "Elects the Governor of the State",
+          "Tries all cases for the very first time",
+          "Hears appeals from subordinate courts",
+          "Issues writs only for the Union Government"
         ],
-        "explanation": "It has no jurisdiction over tribunals established under the laws relating to the Armed Forces."
+        "explanation": "It hears appeals in civil and criminal cases from subordinate courts. It has no jurisdiction over tribunals established under the laws relating to the Armed Forces."
       },
       "ta": {
         "q": "உயர்நீதிமன்றத்தின் மேல்முறையீட்டு அதிகாரத்தின்படி அது",
         "options": [
-          "ஆளுநரைத் தேர்ந்தெடுக்கும்",
+          "மாநில ஆளுநரைத் தேர்ந்தெடுக்கும்",
           "எல்லா வழக்குகளையும் முதன்முறையாக விசாரிக்கும்",
-          "கீழ்நிலை நீதிமன்றங்களின் சிவில், குற்ற வழக்குகளின் மேல்முறையீடுகளை விசாரிக்கும்",
-          "ஒன்றியத்துக்காக மட்டும் ஆணைகள் பிறப்பிக்கும்"
+          "கீழ்நிலை நீதிமன்றங்களின் மேல்முறையீடுகளை விசாரிக்கும்",
+          "ஒன்றிய அரசுக்காக மட்டும் ஆணைகள் பிறப்பிக்கும்"
         ],
-        "explanation": "ஆயுதப்படைச் சட்டங்களின் கீழ் அமைந்த தீர்ப்பாயங்கள் மீது அதற்கு அதிகாரம் இல்லை."
+        "explanation": "கீழ்நிலை நீதிமன்றங்களின் சிவில், குற்ற வழக்குகளின் மேல்முறையீடுகளை விசாரிக்கும். ஆயுதப்படைச் சட்டங்களின் கீழ் அமைந்த தீர்ப்பாயங்கள் மீது அதற்கு அதிகாரம் இல்லை."
       }
     }
   ]
