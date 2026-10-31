@@ -24,10 +24,10 @@
       "ta": {
         "q": "பண்டமாற்றில் உங்களுக்குத் தேவையானதை வைத்திருப்பவர் உங்களிடம் உள்ளதை விரும்பாமல் போகும் சிக்கல் ______ இன்மை எனப்படும்.",
         "options": [
-          "பொது மதிப்பு அளவீடு",
-          "செல்வத்தைச் சேமித்தல்",
+          "பொதுவான மதிப்பு அளவீட்டுக் கருவி",
+          "செல்வத்தைச் சேமித்து வைக்கும் தன்மை",
           "பிரிக்கக்கூடிய தன்மை",
-          "இருதரப்புத் தேவைகளும் ஒத்துப்போதல்"
+          "இருதரப்புத் தேவைகள் ஒத்துப்போதல்"
         ],
         "explanation": "பிற குறைபாடுகள்: பொது மதிப்பு அளவீடு இன்மை, பொருள்களைப் பிரிக்க இயலாமை, சேமிக்கச் சிரமம்."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "Current account deposits are generally opened by ______.",
         "options": [
-          "business firms, traders and public authorities",
-          "pensioners only",
-          "students",
-          "farmers only"
+          "business firms and traders",
+          "retired pensioners only",
+          "school and college students",
+          "small farmers only"
         ],
         "explanation": "Current accounts are repayable on demand and help frequent banking transactions."
       },
       "ta": {
         "q": "நடப்புக் கணக்கு வைப்புகளைப் பொதுவாகத் தொடங்குபவர்கள் ______.",
         "options": [
-          "வணிக நிறுவனங்கள், வியாபாரிகள், பொது அதிகார அமைப்புகள்",
-          "ஓய்வூதியர் மட்டும்",
-          "மாணவர்கள்",
-          "விவசாயிகள் மட்டும்"
+          "வணிக நிறுவனங்களும் வியாபாரிகளும்",
+          "ஓய்வூதியம் பெறுவோர் மட்டும்",
+          "பள்ளி, கல்லூரி மாணவர்கள்",
+          "சிறு விவசாயிகள் மட்டும்"
         ],
         "explanation": "அடிக்கடி வங்கிப் பரிவர்த்தனைகளுக்கு நடப்புக் கணக்குகள் உதவுகின்றன."
       }
@@ -304,19 +304,19 @@
       "en": {
         "q": "Which of the following is a legislative measure in India against black money?",
         "options": [
-          "The Indian Contract Act",
-          "The Sale of Goods Act",
-          "The Indian Post Office Act",
-          "The Prevention of Money Laundering Act, 2002"
+          "The Indian Contract Act, 1872",
+          "The Sale of Goods Act, 1930",
+          "The Indian Post Office Act, 1898",
+          "Prevention of Money Laundering Act, 2002"
         ],
         "explanation": "The Prevention of Corruption Act 1988 and the Benami Transactions Prohibition Act 1988 are others."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் கருப்புப் பணத்திற்கு எதிரான இந்தியச் சட்டம் எது?",
         "options": [
-          "இந்திய ஒப்பந்தச் சட்டம்",
-          "பொருள் விற்பனைச் சட்டம்",
-          "இந்தியத் தபால் அலுவலகச் சட்டம்",
+          "இந்திய ஒப்பந்தச் சட்டம், 1872",
+          "பொருள் விற்பனைச் சட்டம், 1930",
+          "இந்தியத் தபால் அலுவலகச் சட்டம், 1898",
           "பணமோசடித் தடுப்புச் சட்டம், 2002"
         ],
         "explanation": "1988 ஊழல் தடுப்புச் சட்டம், பினாமி பரிவர்த்தனை தடைச் சட்டமும் இவ்வகையே."

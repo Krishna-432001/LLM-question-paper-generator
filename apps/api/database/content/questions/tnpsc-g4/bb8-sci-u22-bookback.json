@@ -43,20 +43,20 @@
       "en": {
         "q": "Deforestation means ______.",
         "options": [
-          "the destruction (clearing) of forests to make the land available for different uses",
-          "looking after plants",
-          "growing plants on barren land",
-          "replanting of destroyed forests"
+          "the destruction of forests to make land available for other uses",
+          "looking after and protecting the plants of a region",
+          "growing plants on barren land to make it fertile",
+          "replanting of the forests that were destroyed"
         ],
         "explanation": "It has resulted in an increase in temperature, deficiency in rainfall and extinction of several species."
       },
       "ta": {
         "q": "காடழிப்பு (டிஃபாரஸ்டேஷன்) என்பது ______.",
         "options": [
-          "நிலத்தைப் பல்வேறு பயன்பாடுகளுக்குப் பெறக் காடுகளை அழிப்பது",
-          "தாவரங்களைப் பராமரிப்பது",
-          "தரிசு நிலத்தில் தாவரங்களை வளர்ப்பது",
-          "அழிக்கப்பட்ட காடுகளை மீண்டும் நடுவது"
+          "நிலத்தைப் பிற பயன்பாட்டுக்குப் பெறக் காடுகளை அழிப்பது",
+          "ஒரு பகுதியின் தாவரங்களைப் பராமரித்துப் பாதுகாப்பது",
+          "தரிசு நிலத்தைச் செழிப்பாக்கத் தாவரங்களை வளர்ப்பது",
+          "அழிக்கப்பட்ட காடுகளை மீண்டும் நட்டு வளர்ப்பது"
         ],
         "explanation": "இதனால் வெப்பநிலை உயர்வு, மழைப்பற்றாக்குறை, பல இனங்கள் அழிதல் ஆகியவை ஏற்பட்டுள்ளன."
       }
@@ -72,20 +72,20 @@
       "en": {
         "q": "In-situ conservation is ______.",
         "options": [
-          "conservation outside the habitat (off site)",
-          "conservation of living resources within their natural habitat (on site)",
-          "conservation in seed banks only",
-          "conservation in zoos only"
+          "conservation of living resources outside their natural habitat",
+          "conservation of living resources in their natural habitat",
+          "conservation in seed banks and gene banks only",
+          "conservation in zoos and aquaria only"
         ],
         "explanation": "It is achieved by protection of natural habitat in protected areas such as national parks, wildlife sanctuaries and biosphere reserves."
       },
       "ta": {
         "q": "உள்வாழிடப் பாதுகாப்பு (இன்சிட்டு) என்பது ______.",
         "options": [
-          "வாழிடத்திற்கு வெளியே பாதுகாப்பது",
-          "உயிரிகளை அவற்றின் இயற்கை வாழிடத்திலேயே பாதுகாப்பது (இடத்திலேயே)",
-          "விதை வங்கிகளில் மட்டும் பாதுகாப்பது",
-          "விலங்குக் காட்சியகங்களில் மட்டும் பாதுகாப்பது"
+          "உயிரிகளை அவற்றின் வாழிடத்திற்கு வெளியே பாதுகாப்பது",
+          "உயிரிகளை அவற்றின் இயற்கை வாழிடத்திலேயே பாதுகாப்பது",
+          "விதை வங்கிகள், மரபணு வங்கிகளில் மட்டும் பாதுகாப்பது",
+          "விலங்குக் காட்சியகங்கள், நீர்வாழ்க் காட்சியகங்களில் மட்டும் பாதுகாப்பது"
         ],
         "explanation": "தேசியப் பூங்காக்கள், வனவிலங்கு/பறவைகள் சரணாலயங்கள், உயிர்க்கோளக் காப்பகங்கள் போன்ற பாதுகாக்கப்பட்ட பகுதிகளில் இது செய்யப்படுகிறது."
       }
@@ -141,7 +141,7 @@
         "q": "WWF என்பதன் விரிவாக்கம் ______.",
         "options": [
           "உலக நீர் மன்றம்",
-          "உலக இயற்கை நிதியம் (World Wide Fund for Nature)",
+          "உலக இயற்கை நிதியம்",
           "உலக ஈரநில நிதியம்",
           "வனவிலங்கு நல கூட்டமைப்பு"
         ],
@@ -364,7 +364,7 @@
         "options": [
           "Bengal tiger",
           "snow leopard",
-          "dodo (or dinosaur)",
+          "dodo",
           "Asiatic lion"
         ],
         "explanation": "Snow leopard, Bengal tiger, Asiatic lion, purple frog and Indian giant squirrel are endangered, not extinct."
@@ -374,7 +374,7 @@
         "options": [
           "வங்கப்புலி",
           "பனிச்சிறுத்தை",
-          "டோடோ (அல்லது டைனோசர்)",
+          "டோடோ",
           "ஆசிய சிங்கம்"
         ],
         "explanation": "பனிச்சிறுத்தை, வங்கப்புலி, ஆசிய சிங்கம், ஊதா நிறத் தவளை, இந்திய ராட்சதஅணில் ஆகியவை அழியும் தருவாயிலுள்ள இனங்கள்; அழிந்தவை அல்ல."
@@ -391,7 +391,7 @@
       "en": {
         "q": "Which of the following is an endangered animal of India?",
         "options": [
-          "Dodo",
+          "Dodo of Mauritius",
           "Lion tailed macaque",
           "House sparrow",
           "Dinosaur"
@@ -431,7 +431,7 @@
         "q": "IUCN என்பதன் விரிவாக்கம் ______.",
         "options": [
           "இந்திய இயற்கைப் பாதுகாப்புச் சங்கம்",
-          "பன்னாட்டு இயற்கைப் பாதுகாப்புச் சங்கம் (International Union for Conservation of Nature)",
+          "பன்னாட்டு இயற்கைப் பாதுகாப்புச் சங்கம்",
           "பன்னாட்டுக் காலநிலை வலைப்பின்னல் சங்கம்",
           "இந்தியத் தூய்மை நாடுகள் சங்கம்"
         ],
@@ -449,20 +449,20 @@
       "en": {
         "q": "A biosphere reserve is a protected area where ______.",
         "options": [
-          "no human activity is allowed",
-          "only one species is preserved",
-          "the human population also forms part of the system",
-          "only birds are protected"
+          "no human activity is allowed at all",
+          "only one rare species is preserved",
+          "humans too form a part of the system",
+          "only birds and mammals are protected"
         ],
         "explanation": "These areas are around 5000 square kilometres, conserve the ecosystem, species and genetic resources and are set up mainly for economic development."
       },
       "ta": {
         "q": "உயிர்க்கோளக் காப்பகம் என்பது ______ பாதுகாக்கப்பட்ட பகுதி.",
         "options": [
-          "எந்த மனித நடவடிக்கையும் அனுமதிக்கப்படாத",
-          "ஒரே ஒரு இனம் மட்டும் பாதுகாக்கப்படும்",
-          "மனித மக்கள்தொகையும் அமைப்பின் ஒரு பகுதியாக உள்ள",
-          "பறவைகள் மட்டும் பாதுகாக்கப்படும்"
+          "மனித நடவடிக்கை முற்றிலும் அனுமதிக்கப்படாத",
+          "ஒரே ஒரு அரிய இனம் மட்டும் பாதுகாக்கப்படும்",
+          "மனிதர்களும் அமைப்பின் ஒரு பகுதியாக உள்ள",
+          "பறவைகளும் பாலூட்டிகளும் மட்டும் பாதுகாக்கப்படும்"
         ],
         "explanation": "இவை சுமார் 5000 சதுர கி.மீ பரப்புடையவை; சூழல் மண்டலம், இனங்கள், மரபு வளங்களைப் பாதுகாக்கின்றன; முக்கியமாகப் பொருளாதார வளர்ச்சிக்காக அமைக்கப்படுகின்றன."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "Tissue culture is a technique of growing plant cells, tissues, organs, seeds or other plant parts ______.",
         "options": [
-          "in zoos",
-          "in open fields without soil",
+          "in zoos under natural conditions",
+          "in open fields with natural sunlight",
           "in a sterile environment on a nutrient medium",
-          "in liquid nitrogen at -196 °C"
+          "in liquid nitrogen at -196 °C for decades"
         ],
         "explanation": "It is an ex-situ conservation method."
       },
       "ta": {
         "q": "திசு வளர்ப்பு என்பது தாவரச் செல்கள், திசுக்கள், உறுப்புகள், விதைகள் அல்லது பிற பாகங்களை ______ வளர்க்கும் நுட்பம்.",
         "options": [
-          "விலங்குக் காட்சியகத்தில்",
-          "மண்ணின்றி வெளி வயலில்",
+          "விலங்குக் காட்சியகத்தில் இயற்கைச் சூழலில்",
+          "இயற்கை சூரிய ஒளியில் திறந்த வெளி வயலில்",
           "ஊட்டச்சத்து ஊடகத்தில் நோய்க்கிருமியற்ற சூழலில்",
-          "-196°C திரவ நைட்ரஜனில்"
+          "பல ஆண்டுகள் -196°C திரவ நைட்ரஜனில்"
         ],
         "explanation": "இது ஓர் வெளியிடப் (எக்ஸ்-சிட்டு) பாதுகாப்பு முறை."
       }
@@ -507,7 +507,7 @@
       "en": {
         "q": "An endangered species is a plant or animal ______.",
         "options": [
-          "that is considered to be at the risk of extinction",
+          "that is at risk of extinction",
           "that has disappeared completely",
           "found only in a particular area",
           "that is very common"
@@ -517,7 +517,7 @@
       "ta": {
         "q": "அழியும் தருவாயிலுள்ள இனம் என்பது ______ தாவரம் அல்லது விலங்கு.",
         "options": [
-          "அழிவின் விளிம்பில் இருப்பதாகக் கருதப்படும்",
+          "அழிவின் விளிம்பில் உள்ள",
           "முற்றிலும் மறைந்துவிட்ட",
           "ஒரு குறிப்பிட்ட பகுதியில் மட்டுமே காணப்படும்",
           "மிகவும் பொதுவான"
@@ -536,10 +536,10 @@
       "en": {
         "q": "Which of the following is an advantage of the Red Data Book?",
         "options": [
-          "It records every microbe on earth",
-          "Its data is complete and up to date",
+          "It records every known microbe on earth",
+          "Its data is complete and always up to date",
           "It is maintained by the Government of India",
-          "It helps to evaluate the population of a particular species and estimate the risk of global extinction"
+          "It helps to assess the extinction risk of a species"
         ],
         "explanation": "A disadvantage: the information is incomplete and many extinct species are not updated; it has no information about microbes."
       },
@@ -549,7 +549,7 @@
           "புவியிலுள்ள ஒவ்வொரு நுண்ணுயிரியையும் பதிவு செய்கிறது",
           "இதன் தரவு முழுமையானது, புதுப்பிக்கப்பட்டது",
           "இதை இந்திய அரசு பராமரிக்கிறது",
-          "ஒரு குறிப்பிட்ட இனத்தின் எண்ணிக்கையை மதிப்பிடவும் உலகளவில் அழியும் அபாயத்தைக் கணிக்கவும் உதவுகிறது"
+          "ஓர் இனம் அழியும் அபாயத்தை மதிப்பிட உதவுகிறது"
         ],
         "explanation": "குறைபாடு: தகவல் முழுமையற்றது; அழிந்த பல இனங்கள் புதுப்பிக்கப்படவில்லை; நுண்ணுயிர்கள் பற்றிய தகவல் இல்லை."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "The People's Biodiversity Register (PBR) is a document which contains ______.",
         "options": [
-          "a list of only extinct species",
-          "comprehensive information on locally available bio-resources of an area or village",
-          "the laws on forest fires",
-          "records of zoo animals"
+          "a list of only the extinct species of India",
+          "information on the bio-resources of a village or area",
+          "the laws on forest fires and grazing",
+          "the daily records of zoo animals"
         ],
         "explanation": "A Biodiversity Management Committee is set up in each local body under the Biological Diversity Act, 2002 to prepare it."
       },
       "ta": {
         "q": "மக்கள் உயிரிப் பன்மைப் பதிவேடு (PBR) என்பது ______ கொண்ட ஆவணம்.",
         "options": [
-          "அழிந்த இனங்களின் பட்டியலை மட்டும்",
-          "ஒரு பகுதி அல்லது கிராமத்தில் கிடைக்கும் உயிரி வளங்கள் பற்றிய விரிவான தகவல்களைக்",
-          "காட்டுத் தீ பற்றிய சட்டங்களை",
-          "விலங்குக் காட்சியக விலங்குகளின் பதிவுகளை"
+          "இந்தியாவில் அழிந்த இனங்களின் பட்டியலை மட்டும்",
+          "ஒரு பகுதி அல்லது கிராமத்தின் உயிரி வளங்கள் பற்றிய தகவல்களைக்",
+          "காட்டுத் தீ, மேய்ச்சல் பற்றிய சட்டங்களை",
+          "விலங்குக் காட்சியக விலங்குகளின் அன்றாடப் பதிவுகளை"
         ],
         "explanation": "உயிரிப் பன்மைச் சட்டம் 2002-ன்படி ஒவ்வொரு உள்ளாட்சி அமைப்பிலும் உயிரிப் பன்மை மேலாண்மைக் குழு இதைத் தயாரிக்கிறது."
       }

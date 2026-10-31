@@ -159,20 +159,20 @@
       "en": {
         "q": "The major components of soil are ______.",
         "options": [
-          "rocks only",
-          "minerals only",
-          "minerals, organic matter, water and air",
-          "water only"
+          "rock fragments and pebbles only",
+          "minerals and metals alone, nothing else",
+          "minerals, organic matter, water, air",
+          "water and dissolved salts only"
         ],
         "explanation": "Soil consists of about 45% minerals, 5% organic matter, 25% water and 25% air."
       },
       "ta": {
         "q": "மண்ணின் முக்கியக் கூறுகள் ______.",
         "options": [
-          "பாறைகள் மட்டும்",
-          "கனிமங்கள் மட்டும்",
+          "பாறைத் துண்டுகளும் கூழாங்கற்களும் மட்டும்",
+          "கனிமங்களும் உலோகங்களும் மட்டும்",
           "கனிமங்கள், கரிமப் பொருள், நீர், காற்று",
-          "நீர் மட்டும்"
+          "நீரும் கரைந்த உப்புகளும் மட்டும்"
         ],
         "explanation": "மண்ணில் ஏறத்தாழ 45% கனிமம், 5% கரிமப்பொருள், 25% நீர், 25% காற்று உள்ளன."
       }
@@ -217,7 +217,7 @@
       "en": {
         "q": "The scientific study of rocks is called ______.",
         "options": [
-          "Geology",
+          "Hydrology",
           "Petrology",
           "Pedology",
           "Seismology"
@@ -227,8 +227,8 @@
       "ta": {
         "q": "பாறைகளைப் பற்றிய அறிவியல் சார்ந்த படிப்பு ______ எனப்படும்.",
         "options": [
-          "புவியியல்",
-          "பாறையியல் (பெட்ராலஜி)",
+          "நீரியல்",
+          "பாறையியல்",
           "மண்ணியல்",
           "நிலநடுக்கவியல்"
         ],
@@ -314,7 +314,7 @@
       "ta": {
         "q": "தாஜ்மகால் கட்டப் பயன்படுத்தப்பட்ட உருமாறிய பாறை ______.",
         "options": [
-          "வெண் பளிங்குப் பாறை (மார்பிள்)",
+          "பளிங்கு",
           "மணற்பாறை",
           "கிரானைட்",
           "பசால்ட்"
@@ -374,7 +374,7 @@
         "options": [
           "மணற்பாறை",
           "கிரானைட்",
-          "களிப்பாறை (ஷேல்)",
+          "களிப்பாறை",
           "பசால்ட்"
         ],
         "explanation": "களிப்பாறை அழுத்தத்தால் (பிராந்திய உருமாற்றம்) பலகைக்கல்லாகிறது; மணற்பாறை குவார்ட்சைட்டாகவும் கிரானைட் நைஸாகவும் மாறும்."
@@ -404,7 +404,7 @@
           "செம்மண்",
           "கரிசல் மண்",
           "வண்டல் மண்",
-          "சரளை (லேட்டரைட்) மண்"
+          "சரளை மண்"
         ],
         "explanation": "செம்மண் உருமாறிய, படிகப் பாறைகளின் வானிலைச் சிதைவால் உருவாகிறது; சுவருதலால் அல்ல."
       }
@@ -422,7 +422,7 @@
         "options": [
           "Silt",
           "Gravel",
-          "M-sand (manufactured sand)",
+          "M-sand",
           "Humus"
         ],
         "explanation": "M-sand is manufactured by crushing rocks."
@@ -432,7 +432,7 @@
         "options": [
           "வண்டல்",
           "கூழாங்கல்",
-          "செயற்கை மணல் (M-sand)",
+          "செயற்கை மணல்",
           "மட்கு"
         ],
         "explanation": "பாறைகளை நொறுக்கி M-sand தயாரிக்கப்படுகிறது."
@@ -626,7 +626,7 @@
           "solidification of molten magma",
           "decay of dead plants and animals",
           "high temperature and pressure on igneous rocks",
-          "precipitation of minerals from water, usually through evaporation"
+          "precipitation of minerals from water"
         ],
         "explanation": "They are found in the beds of reservoirs where chemical-rich solutions evaporate."
       },
@@ -636,7 +636,7 @@
           "உருகிய பாறைக் குழம்பு திண்மமாவதால்",
           "இறந்த தாவர, விலங்குகள் சிதைவதால்",
           "தீப்பாறைகள் மீது அதிக வெப்பம், அழுத்தம் செயல்படுவதால்",
-          "நீரிலிருந்து கனிமங்கள் வீழ்படிவாவதால் (பொதுவாக ஆவியாதலால்)"
+          "நீரிலிருந்து கனிமங்கள் வீழ்படிவாவதால்"
         ],
         "explanation": "நீர்த்தேக்கப் படுகைகளில் இரசாயனக் கரைசல் ஆவியாவதால் இவை காணப்படுகின்றன."
       }
@@ -662,7 +662,7 @@
       "ta": {
         "q": "தீப்பாறைகள் ______ உருவாகின்றன.",
         "options": [
-          "உருகிய பாறைக் குழம்பு (மாக்மா) திண்மமாவதால்",
+          "உருகிய பாறைக் குழம்பு திண்மமாவதால்",
           "காற்று, நீரால் படிவுகள் படிவதால்",
           "வெப்பம், அழுத்தத்தால் பாறைகள் மாறுவதால்",
           "இறந்த உயிரினங்கள் சிதைவதால்"
@@ -684,7 +684,7 @@
           "converting soil into rocks",
           "removing the top layer of soil",
           "increasing the salinity of soil",
-          "protecting the soil from erosion to maintain its fertility"
+          "protecting the soil from erosion"
         ],
         "explanation": "Methods include afforestation, controlled grazing, crop rotation, strip farming, contour ploughing and terrace farming."
       },
@@ -694,7 +694,7 @@
           "மண்ணைப் பாறையாக மாற்றுவது",
           "மண்ணின் மேல் அடுக்கை நீக்குவது",
           "மண்ணின் உவர்தன்மையை அதிகரிப்பது",
-          "மண்ணின் வளத்தைப் பராமரிக்க அரிப்பிலிருந்து அதைக் காப்பது"
+          "மண்ணை அரிப்பிலிருந்து காப்பது"
         ],
         "explanation": "காடு வளர்ப்பு, கட்டுப்படுத்தப்பட்ட மேய்ச்சல், பயிர்ச் சுழற்சி, பட்டைப் பயிரிடல், சம உயர உழவு, படிக்கட்டு விவசாயம் முதலியன முறைகள்."
       }

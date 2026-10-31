@@ -73,7 +73,7 @@
         "q": "Which of the following is an advantage of an electronic spreadsheet?",
         "options": [
           "Calculations must be done manually",
-          "Worksheet data can be viewed in the form of graphs or charts",
+          "Worksheet data can be viewed as graphs or charts",
           "Results are accurate only to whole numbers",
           "A worksheet cannot be saved"
         ],
@@ -83,7 +83,7 @@
         "q": "மின்னணு விரிதாளின் நன்மை எது?",
         "options": [
           "கணக்கீடுகளைக் கையால் செய்ய வேண்டும்",
-          "பணித்தாள் தரவை வரைபடங்கள் அல்லது விளக்கப்படங்களாகக் காணலாம்",
+          "பணித்தாள் தரவை வரைபடமாகக் காணலாம்",
           "முழு எண் வரை மட்டுமே துல்லியம்",
           "பணித்தாளைச் சேமிக்க முடியாது"
         ],
@@ -143,7 +143,7 @@
           "வரம்பு",
           "சார்பு",
           "பணிப்புத்தகம்",
-          "கட்டம் (செல்)"
+          "கட்டம்"
         ],
         "explanation": "நெடுவரிசைகள் எழுத்துகளாலும் கிடைவரிசைகள் எண்களாலும் குறிக்கப்படுகின்றன."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "Cells are merged in order to ______.",
         "options": [
-          "delete the text",
-          "sort the data",
-          "display a long text in a single line",
-          "draw a chart"
+          "delete the text in the cells",
+          "sort the data alphabetically",
+          "display long text across a single line",
+          "draw a chart of the data"
         ],
         "explanation": "Use Format → Merge cells or the right-click menu."
       },
       "ta": {
         "q": "கட்டங்களை ஒன்றிணைப்பது ______.",
         "options": [
-          "உரையை நீக்க",
-          "தரவை வரிசைப்படுத்த",
+          "கட்டங்களிலுள்ள உரையை நீக்க",
+          "தரவை அகர வரிசையில் வரிசைப்படுத்த",
           "நீண்ட உரையை ஒரே வரியில் காட்ட",
-          "சார்ட் வரைய"
+          "தரவுக்கான சார்ட் வரைய"
         ],
         "explanation": "Format → Merge cells அல்லது வலது சொடுக்குப் பட்டியைப் பயன்படுத்தலாம்."
       }
@@ -288,7 +288,7 @@
           "சுருள் அடைப்புக்குள்",
           "சதுர அடைப்புக்குள்",
           "ஹாஷ் குறிகளுக்குள்",
-          "இரட்டை மேற்கோள் குறிகளுக்குள்"
+          "இரட்டை மேற்கோளுக்குள்"
         ],
         "explanation": "ஆம்பர்சாண்ட் (&) உரை மதிப்புகளை இணைக்கிறது."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "Which of the following is a logical operator in Libre Office Calc?",
         "options": [
-          "<>",
-          "AND",
-          "^",
-          "%"
+          "<> operator",
+          "AND operator",
+          "^ operator",
+          "% operator"
         ],
         "explanation": "^ and % are arithmetic operators; <> is a relational operator."
       },
       "ta": {
         "q": "லிப்ரே ஆஃபிஸ் கால்க்கில் தருக்கச் செயலி எது?",
         "options": [
-          "<>",
-          "AND",
-          "^",
-          "%"
+          "<> ஆபரேட்டர்",
+          "AND ஆபரேட்டர்",
+          "^ ஆபரேட்டர்",
+          "% ஆபரேட்டர்"
         ],
         "explanation": "^ , % கணிதச் செயலிகள்; <> தொடர்புச் செயலி."
       }

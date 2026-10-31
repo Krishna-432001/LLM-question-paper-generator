@@ -14,7 +14,7 @@
       "en": {
         "q": "At a red traffic light you must ______.",
         "options": [
-          "stop behind the stop line and wait for the green signal",
+          "stop behind the stop line and wait for green",
           "reply quickly to a friend's text message",
           "attend a phone call",
           "keep going if the path looks clear"
@@ -24,9 +24,9 @@
       "ta": {
         "q": "சிவப்பு விளக்கு எரியும்போது நீங்கள் ______.",
         "options": [
-          "நிறுத்தக் கோட்டிற்குப் பின் நின்று பச்சை விளக்கு வரும்வரை காத்திருக்க வேண்டும்",
-          "நண்பரின் குறுஞ்செய்திக்கு விரைவாகப் பதில் அனுப்பலாம்",
-          "தொலைபேசி அழைப்பை ஏற்கலாம்",
+          "நிறுத்தக் கோட்டிற்குப் பின் நின்று பச்சை விளக்கு வரக் காத்திருக்க",
+          "நண்பரின் குறுஞ்செய்திக்கு உடனே பதில் அனுப்பிக்கொண்டே செல்லலாம்",
+          "வாகனம் ஓட்டியபடியே தொலைபேசி அழைப்பை ஏற்கலாம்",
           "பாதை தெளிவாக இருந்தால் தொடர்ந்து செல்லலாம்"
         ],
         "explanation": "சிவப்பு விளக்கு நிறுத்தக் கோட்டிற்குப் பின் நிற்கக் குறிக்கும்; சிவப்பைத் தாண்டுவது ஆபத்தானதும் சட்டவிரோதமானதும் ஆகும்."
@@ -55,7 +55,7 @@
         "options": [
           "எங்கும்",
           "பேருந்து நிறுத்தம் அருகில் எங்கும்",
-          "வரிக்குதிரைக் கடப்பு (ஜீப்ரா கிராசிங்)",
+          "வரிக்குதிரைக் கடப்பு",
           "சிவப்பு, மஞ்சள் விளக்கு எரியும்போது"
         ],
         "explanation": "சிவப்பு, மஞ்சள் விளக்கில் சாலையைக் கடக்கக் கூடாது; சாலையில் நடப்பதைத் தவிர்க்க வேண்டும்."
@@ -130,20 +130,20 @@
       "en": {
         "q": "Which of the following are causes of road accidents?",
         "options": [
-          "Over speeding, drunken driving and distraction to drivers (all of these)",
-          "Over speeding only",
-          "Drunken driving only",
-          "None of these"
+          "Over speeding, drunken driving and distraction",
+          "Over speeding alone and nothing else",
+          "Drunken driving alone and nothing else",
+          "None of the above causes of accidents"
         ],
         "explanation": "Red light jumping and avoiding safety gears are other causes."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் சாலை விபத்துகளுக்குக் காரணங்கள் எவை?",
         "options": [
-          "அதிவேகம், குடிபோதையில் ஓட்டுதல், ஓட்டுநர் கவனச்சிதறல் (இவை அனைத்தும்)",
-          "அதிவேகம் மட்டும்",
-          "குடிபோதையில் ஓட்டுதல் மட்டும்",
-          "இவற்றில் எதுவுமில்லை"
+          "அதிவேகம், குடிபோதையில் ஓட்டுதல், கவனச்சிதறல்",
+          "அதிவேகம் மட்டுமே, வேறு எதுவுமில்லை",
+          "குடிபோதையில் ஓட்டுதல் மட்டுமே, வேறு எதுவுமில்லை",
+          "மேற்கூறிய எதுவும் காரணமல்ல"
         ],
         "explanation": "சிவப்பு விளக்கைத் தாண்டுதல், பாதுகாப்புச் சாதனங்களைத் தவிர்த்தலும் பிற காரணங்கள்."
       }
@@ -230,7 +230,7 @@
           "Anti Brake Start",
           "Automatic Braking Speed",
           "Annual Base System",
-          "எதிர்-பூட்டுப் பிரேக் அமைப்பு (Anti-locking Brake System)"
+          "எதிர்-பூட்டுப் பிரேக் அமைப்பு"
         ],
         "explanation": "புதிய கார்களிலும் 125 சிசிக்கு மேற்பட்ட இரு சக்கர வாகனங்களிலும் ABS இப்போது கட்டாயம்."
       }
@@ -275,8 +275,8 @@
       "en": {
         "q": "When an ambulance is approaching, a driver should ______.",
         "options": [
-          "give no preference to it",
-          "allow free passage by drawing to the side of the road",
+          "give it no preference over other vehicles",
+          "draw to the side of the road and give way",
           "drive behind it at great speed",
           "stop in front of it"
         ],
@@ -374,7 +374,7 @@
         "options": [
           "எதிர்-பூட்டுப் பிரேக் அமைப்பு",
           "மாறும் செய்திக் குறியீடு",
-          "வேகக் கட்டுப்படுத்தி (ஸ்பீடு கவர்னர்)",
+          "வேகக் கட்டுப்படுத்தி",
           "அபாய ஒளிக்காட்டி"
         ],
         "explanation": "வாகனத்தின் வேகத்தை அறியும் பல உணரிகள் இதில் உள்ளன."
@@ -478,9 +478,9 @@
       "en": {
         "q": "According to the lesson, the main reason for the problem of road accidents is ______.",
         "options": [
-          "the roads only",
-          "the number of traffic signals",
-          "the weather only",
+          "the condition of the roads only",
+          "the large number of traffic signals",
+          "the weather conditions only",
           "our carelessness, not the roads themselves"
         ],
         "explanation": "Our traffic is also a heterogeneous mix of slow and high-speed vehicles."
@@ -536,20 +536,20 @@
       "en": {
         "q": "On a two-wheeler, how many pillion riders are allowed?",
         "options": [
-          "Only one",
-          "Three",
-          "Two",
-          "None"
+          "One pillion rider only",
+          "Three pillion riders",
+          "Two pillion riders",
+          "No pillion riders are allowed"
         ],
         "explanation": "In an emergency, the hazard indicator should be used."
       },
       "ta": {
         "q": "இரு சக்கர வாகனத்தில் பின்னிருக்கையில் எத்தனை பேர் அனுமதிக்கப்படுகின்றனர்?",
         "options": [
-          "ஒருவர் மட்டும்",
-          "மூவர்",
-          "இருவர்",
-          "எவரும் இல்லை"
+          "ஒருவர் மட்டும் (பின்னிருக்கையில்)",
+          "பின்னிருக்கையில் மூன்று பேர்",
+          "பின்னிருக்கையில் இரண்டு பேர்",
+          "பின்னிருக்கையில் எவரும் அனுமதிக்கப்படுவதில்லை"
         ],
         "explanation": "அவசர நிலையில் அபாய ஒளிக்காட்டியைப் பயன்படுத்த வேண்டும்."
       }
@@ -710,19 +710,19 @@
       "en": {
         "q": "Which of the following are the direct consequences of road accidents?",
         "options": [
-          "Fuel savings",
-          "Increase of speed limits",
-          "Reduction of traffic",
-          "Fatality (death), injury and property damage"
+          "Large savings in fuel costs",
+          "An increase of the speed limits",
+          "A reduction of traffic on roads",
+          "Fatality, injury and property damage"
         ],
         "explanation": "Road accidents also bring significant social and economic costs."
       },
       "ta": {
         "q": "சாலை விபத்துகளின் நேரடி விளைவுகள் எவை?",
         "options": [
-          "எரிபொருள் சேமிப்பு",
-          "வேக வரம்பு உயர்வு",
-          "போக்குவரத்துக் குறைவு",
+          "எரிபொருள் செலவில் பெரும் சேமிப்பு",
+          "வேக வரம்புகள் உயர்த்தப்படுதல்",
+          "சாலைகளில் போக்குவரத்துக் குறைவு",
           "இறப்பு, காயம், சொத்துச் சேதம்"
         ],
         "explanation": "சாலை விபத்துகள் குறிப்பிடத்தக்க சமூக, பொருளாதார இழப்புகளையும் ஏற்படுத்துகின்றன."

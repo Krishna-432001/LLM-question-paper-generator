@@ -14,9 +14,9 @@
       "en": {
         "q": "The process in which water moves between the oceans, atmosphere and land is called the ______.",
         "options": [
-          "River Cycle",
-          "Rock Cycle",
-          "Life Cycle",
+          "River Flow Cycle",
+          "Rock Formation Cycle",
+          "Life Cycle of Plants",
           "Hydrological Cycle"
         ],
         "explanation": "It is a global sun-driven, continuous natural process."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "நீர் கடலிலிருந்து வளிமண்டலத்திற்கும், வளிமண்டலத்திலிருந்து நிலத்திற்கும், மீண்டும் கடலுக்கும் செல்லும் முறைக்கு ______ என்று பெயர்.",
         "options": [
-          "ஆற்றின் சுழற்சி",
-          "பாறைச் சுழற்சி",
-          "வாழ்க்கைச் சுழற்சி",
+          "ஆறு பாயும் சுழற்சி",
+          "பாறை உருவாகும் சுழற்சி",
+          "தாவர வாழ்க்கைச் சுழற்சி",
           "நீரியல் சுழற்சி"
         ],
         "explanation": "இது சூரியனால் இயக்கப்படும் தொடர்ச்சியான இயற்கை நிகழ்வு."
@@ -82,10 +82,10 @@
       "ta": {
         "q": "நீர் நீராவியிலிருந்து திரவமாக மாறும் முறைக்கு ______ என்று பெயர்.",
         "options": [
-          "ஆவியாதல்",
-          "நீர் சுருங்குதல் (ஒடுக்கம்)",
+          "நீர் ஆவியாதல்",
+          "நீர் சுருங்குதல்",
           "பதங்கமாதல்",
-          "மழை"
+          "மழைப் பொழிவு"
         ],
         "explanation": "ஒடுக்கம் ஆவியாதலுக்கு எதிரானது; மேகங்கள் உருவாகக் காரணம்."
       }
@@ -143,7 +143,7 @@
           "நீர் ஊடுருவல்",
           "நீர் சுருங்குதல்",
           "பொழிவு",
-          "நீர் உட்கசிந்து வெளியிடுதல் (நீராவிப்போக்கு)"
+          "நீராவிப்போக்கு"
         ],
         "explanation": "வளிமண்டல ஈரப்பதத்தில் ஏறத்தாழ 10% தாவரங்களிலிருந்து கிடைக்கிறது."
       }
@@ -170,7 +170,7 @@
         "q": "குடிப்பதற்கு உகந்த நீரை ______ என்று அழைப்பர்.",
         "options": [
           "நிலத்தடி நீர்",
-          "குடிநீர் (பருகத்தக்க நீர்)",
+          "குடிநீர்",
           "மேற்பரப்பு நீர்",
           "ஆர்ட்டீசியன் நீர்"
         ],
@@ -317,7 +317,7 @@
           "மேகத் துளிகள்",
           "மழை",
           "ஆலங்கட்டி",
-          "அடர்பனி (ஃபாக்)"
+          "அடர்பனி"
         ],
         "explanation": "பாடநூல் கூற்று 'மிஸ்ட் அடர்த்தி அதிகம்' என்பது தவறு; மிஸ்ட் ஃபாக்கைவிட அடர்த்தி குறைவு."
       }
@@ -391,20 +391,20 @@
       "en": {
         "q": "Water boils at 100°C at sea level, but evaporation ______.",
         "options": [
-          "takes place only at 100°C",
-          "starts only above 50°C",
-          "can take place at any temperature, well below the boiling point",
-          "never takes place below 100°C"
+          "takes place only when water reaches 100°C",
+          "starts only when water is above 50°C",
+          "can take place at any temperature below boiling point",
+          "never takes place below 100°C at all"
         ],
         "explanation": "Temperature is the prime element affecting the rate of evaporation."
       },
       "ta": {
         "q": "கடல்மட்டத்தில் நீர் 100°C இல் கொதிக்கிறது; ஆனால் ஆவியாதல் ______.",
         "options": [
-          "100°C இல் மட்டுமே நிகழும்",
-          "50°C க்கு மேல் மட்டுமே தொடங்கும்",
-          "கொதிநிலைக்கு மிகக் குறைவான எந்த வெப்பநிலையிலும் நிகழலாம்",
-          "100°C க்குக் கீழ் ஒருபோதும் நிகழாது"
+          "நீர் 100°C ஐ அடையும்போது மட்டுமே நிகழும்",
+          "நீர் 50°C க்கு மேல் இருக்கும்போது மட்டுமே தொடங்கும்",
+          "கொதிநிலைக்குக் குறைவான எந்த வெப்பநிலையிலும் நிகழலாம்",
+          "100°C க்குக் கீழ் ஒருபோதும் நிகழவே நிகழாது"
         ],
         "explanation": "ஆவியாதல் வீதத்தை நிர்ணயிக்கும் முக்கியக் கூறு வெப்பநிலை."
       }
@@ -433,7 +433,7 @@
           "பனித்துளி",
           "உறைபனி",
           "ஆலங்கட்டி",
-          "மிதமூடுபனி (மிஸ்ட்)"
+          "மிதமூடுபனி"
         ],
         "explanation": "மிஸ்ட் ஃபாக்கைவிட அடர்த்தி குறைவு."
       }
@@ -459,7 +459,7 @@
       "ta": {
         "q": "மண்ணுக்குள் புகுந்து பக்கவாட்டில் செல்லும் நீர் வழிந்தோடல் (துணை மேற்பரப்பு) பொதுவாக ______ எனப்படும்.",
         "options": [
-          "இடைப்பாய்வு (இன்டர்ஃபிளோ)",
+          "இடைப்பாய்வு",
           "மேற்பரப்புப் பாய்வு",
           "நிலப்பரப்புப் பாய்வு",
           "அடிப்பாய்வு"
@@ -478,20 +478,20 @@
       "en": {
         "q": "An aquifer is ______.",
         "options": [
-          "a layer of impermeable igneous rock",
-          "an underground layer of water-bearing permeable rock, rock fractures or unconsolidated materials",
-          "the water table at the surface",
-          "a type of cloud"
+          "a layer of impermeable igneous rock below the soil",
+          "an underground layer of water-bearing permeable rock",
+          "the water table lying at the surface of the soil",
+          "a type of cloud found at high altitudes"
         ],
         "explanation": "Aquifers hold groundwater; runoff replenishes them through percolation."
       },
       "ta": {
         "q": "நீர்கொள்பாறை (அக்விஃபர்) என்பது ______.",
         "options": [
-          "நீர் புகாத தீப்பாறை அடுக்கு",
-          "நீரைக் கொண்டுள்ள, நீர் புகக்கூடிய பாறை, பாறைப் பிளவு அல்லது தளர்வான பொருள்களாலான நிலத்தடி அடுக்கு",
-          "மேற்பரப்பிலுள்ள நிலத்தடி நீர்மட்டம்",
-          "ஒரு வகை மேகம்"
+          "மண்ணுக்குக் கீழுள்ள நீர் புகாத தீப்பாறை அடுக்கு",
+          "நீரைக் கொண்டுள்ள, நீர் புகக்கூடிய பாறையாலான நிலத்தடி அடுக்கு",
+          "மண்ணின் மேற்பரப்பிலுள்ள நிலத்தடி நீர்மட்டம்",
+          "உயரமான இடங்களில் காணப்படும் ஒரு வகை மேகம்"
         ],
         "explanation": "நீர் உட்கசிந்து இவற்றில் சேர்கிறது."
       }
@@ -537,8 +537,8 @@
         "q": "Surface runoff is the portion of rainfall which ______.",
         "options": [
           "percolates down to the water table",
-          "evaporates from the soil",
-          "enters the stream immediately after the rainfall",
+          "evaporates from the soil surface",
+          "enters the stream soon after rain",
           "is absorbed by plant roots"
         ],
         "explanation": "It occurs when rainfall is longer, heavier and exceeds the rate of infiltration."
@@ -547,9 +547,9 @@
         "q": "மேற்பரப்பு வழிந்தோடல் என்பது மழைப்பொழிவின் ______ பகுதி.",
         "options": [
           "நிலத்தடி நீர்மட்டம் வரை கசியும்",
-          "மண்ணிலிருந்து ஆவியாகும்",
-          "மழை பெய்த உடன் ஆற்றில் கலக்கும்",
-          "தாவர வேர்கள் உறிஞ்சும்"
+          "மண்ணின் மேற்பரப்பிலிருந்து ஆவியாகும்",
+          "மழைக்குப் பின் உடனே ஆற்றில் கலக்கும்",
+          "தாவர வேர்களால் உறிஞ்சப்படும்"
         ],
         "explanation": "மழை நீண்டு, கனத்து, ஊடுருவும் வீதத்தைவிட அதிகமாகும்போது இது ஏற்படும்."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "Infiltration of water is low in regions of non-porous soil and rock because ______.",
         "options": [
-          "rainfall is always low",
-          "water cannot soak through the tight, impermeable material",
-          "the water table is at the surface",
-          "evaporation is zero"
+          "the rainfall is always very low in such regions",
+          "water cannot soak through the impermeable material",
+          "the water table always lies at the surface",
+          "evaporation is always zero there"
         ],
         "explanation": "More infiltration occurs in porous soils and rocks."
       },
       "ta": {
         "q": "துளைகளற்ற மண், பாறைப் பகுதிகளில் நீர் ஊடுருவல் குறைவாக இருக்கக் காரணம் ______.",
         "options": [
-          "மழை எப்போதும் குறைவு",
-          "இறுக்கமான, நீர் புகாத பொருள்களுக்குள் நீர் கசிய முடியாது",
-          "நிலத்தடி நீர்மட்டம் மேற்பரப்பில் இருக்கும்",
-          "ஆவியாதல் இல்லை"
+          "அப்பகுதிகளில் மழை எப்போதும் மிகக் குறைவு",
+          "நீர் புகாத பொருள்களுக்குள் நீர் கசிய முடியாது",
+          "நிலத்தடி நீர்மட்டம் எப்போதும் மேற்பரப்பில் இருக்கும்",
+          "அங்கு ஆவியாதல் எப்போதும் இல்லை"
         ],
         "explanation": "துளைகளுள்ள மண், பாறையில் ஊடுருவல் அதிகம்."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "Fresh water is less on the earth mainly because ______.",
         "options": [
-          "fresh water evaporates entirely",
-          "oceans cover only 10% of the earth",
-          "about 97.2% of the earth's water is saline ocean water",
-          "glaciers hold no water"
+          "fresh water evaporates entirely each year",
+          "oceans cover only 10% of the earth's surface",
+          "97.2% of the earth's water is saline ocean water",
+          "glaciers hold no water at all on earth"
         ],
         "explanation": "Only 2.8% is fresh, and much of it is locked in glaciers and icecaps."
       },
       "ta": {
         "q": "புவியில் நன்னீர் குறைவாக இருக்கக் காரணம் ______.",
         "options": [
-          "நன்னீர் முழுவதும் ஆவியாகிவிடுகிறது",
-          "கடல்கள் புவியில் 10% மட்டுமே",
-          "புவியின் நீரில் ஏறத்தாழ 97.2% உவர் கடல்நீராக உள்ளது",
-          "பனியாறுகளில் நீர் இல்லை"
+          "நன்னீர் ஆண்டுதோறும் முழுவதும் ஆவியாகிவிடுகிறது",
+          "கடல்கள் புவியின் மேற்பரப்பில் 10% மட்டுமே",
+          "புவி நீரில் ஏறத்தாழ 97.2% உவர் கடல்நீர்",
+          "பனியாறுகளில் நீர் அறவே இல்லை"
         ],
         "explanation": "2.8% மட்டுமே நன்னீர்; அதிலும் பெரும்பகுதி பனியாறுகளிலும் பனிமுடிகளிலும் உள்ளது."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "Snowfall is common in ______ because of the low temperature.",
         "options": [
-          "equatorial regions",
+          "equatorial rainforest regions",
           "polar and high mountainous regions",
-          "desert regions",
-          "tropical coasts"
+          "hot desert regions of the world",
+          "tropical coastal regions"
         ],
         "explanation": "Water vapour in a cloud is converted directly into snow when temperature is low."
       },
       "ta": {
         "q": "வெப்பநிலை குறைவால் பனிப்பொழிவு பொதுவாகக் காணப்படுவது ______.",
         "options": [
-          "நிலநடுக்கோட்டுப் பகுதிகளில்",
-          "துருவப் பகுதிகள், உயர்ந்த மலைப் பகுதிகளில்",
-          "பாலைவனப் பகுதிகளில்",
-          "வெப்பமண்டலக் கடற்கரைகளில்"
+          "நிலநடுக்கோட்டு மழைக்காடுப் பகுதிகளில்",
+          "துருவப் பகுதிகளிலும் உயர் மலைகளிலும்",
+          "வெப்பமான பாலைவனப் பகுதிகளில்",
+          "வெப்பமண்டலக் கடற்கரைப் பகுதிகளில்"
         ],
         "explanation": "வெப்பநிலை குறையும்போது மேகத்திலுள்ள நீராவி நேரடியாகப் பனியாகிறது."
       }

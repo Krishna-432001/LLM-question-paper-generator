@@ -217,7 +217,7 @@
       "en": {
         "q": "The centres that serve as the ultimate link between ICAR and farmers are the ______.",
         "options": [
-          "Krishi Vigyan Kendras (KVK)",
+          "Krishi Vigyan Kendras",
           "Botanical gardens",
           "Food Corporation of India godowns",
           "Seed banks"
@@ -227,7 +227,7 @@
       "ta": {
         "q": "ICAR-க்கும் விவசாயிகளுக்கும் இடையிலான இறுதி இணைப்பாகச் செயல்படும் மையங்கள் ______.",
         "options": [
-          "கிருஷி விக்யான் கேந்திரங்கள் (KVK)",
+          "கிருஷி விக்யான் கேந்திரங்கள்",
           "தாவரவியல் பூங்காக்கள்",
           "இந்திய உணவுக் கழகக் கிடங்குகள்",
           "விதை வங்கிகள்"
@@ -246,20 +246,20 @@
       "en": {
         "q": "Several popular high yielding varieties of major crops have been developed by the ______.",
         "options": [
-          "Navadanya Seed Bank",
-          "Food Corporation of India",
-          "Krishi Vigyan Kendra",
-          "Indian Agricultural Research Institute (IARI)"
+          "Navadanya Seed Bank network",
+          "Central Warehousing Corporation",
+          "Krishi Vigyan Kendra at district level",
+          "Indian Agricultural Research Institute"
         ],
         "explanation": "IARI, commonly known as the Pusa Institute, was responsible for research leading to the Green Revolution in the 1970s."
       },
       "ta": {
         "q": "முக்கியப் பயிர்களின் பல புகழ்பெற்ற அதிக விளைச்சல் இரகங்களை உருவாக்கியது ______.",
         "options": [
-          "நவதான்யா விதை வங்கி",
-          "இந்திய உணவுக் கழகம்",
-          "கிருஷி விக்யான் கேந்திரம்",
-          "இந்திய வேளாண் ஆராய்ச்சி நிறுவனம் (IARI)"
+          "நவதான்யா விதை வங்கி வலையமைப்பு",
+          "மத்திய கிடங்குக் கழகம்",
+          "மாவட்ட அளவிலான கிருஷி விக்யான் கேந்திரம்",
+          "இந்திய வேளாண் ஆராய்ச்சி நிறுவனம்"
         ],
         "explanation": "பூசா நிறுவனம் எனப்படும் IARI 1970-களில் பசுமைப் புரட்சிக்கு வழிவகுத்த ஆராய்ச்சிக்குப் பொறுப்பாக இருந்தது."
       }
@@ -305,7 +305,7 @@
         "q": "The compound azadirachtin obtained from the seeds of neem serves as a good ______.",
         "options": [
           "bio-fertilizer",
-          "insect repellent (bio-repellent)",
+          "insect repellent",
           "bio-indicator",
           "herbicide"
         ],
@@ -315,7 +315,7 @@
         "q": "வேம்பின் விதைகளிலிருந்து பெறப்படும் அசாடிராக்டின் சேர்மம் ஒரு நல்ல ______.",
         "options": [
           "உயிர் உரம்",
-          "பூச்சி விரட்டி (உயிரி விரட்டி)",
+          "பூச்சி விரட்டி",
           "உயிரி – சுட்டிக்காட்டி",
           "களைக்கொல்லி"
         ],
@@ -333,20 +333,20 @@
       "en": {
         "q": "Ploughing (tilling) is the process of ______.",
         "options": [
-          "placing seeds at equal intervals",
-          "cutting and gathering a crop",
-          "loosening and turning the soil up and down to facilitate the availability of nutrients in the root zone",
-          "supplying water to crops"
+          "placing seeds in the soil at equal intervals",
+          "cutting and gathering the mature crop",
+          "loosening and turning the soil to make nutrients available",
+          "supplying water to the crop at regular intervals"
         ],
         "explanation": "The loosened soil helps in the growth of earthworms and soil microbes."
       },
       "ta": {
         "q": "உழுதல் என்பது ______ செயல்முறை.",
         "options": [
-          "சம இடைவெளியில் விதைகளை இடுவது",
-          "பயிரை வெட்டிச் சேகரிப்பது",
-          "வேர் மண்டலத்தில் ஊட்டச்சத்துகள் கிடைக்க மண்ணைத் தளர்த்தி மேலும் கீழுமாகப் புரட்டுவது",
-          "பயிர்களுக்கு நீர் பாய்ச்சுவது"
+          "சம இடைவெளியில் விதைகளை மண்ணில் இடுவது",
+          "முதிர்ந்த பயிரை வெட்டிச் சேகரிப்பது",
+          "மண்ணைத் தளர்த்தி ஊட்டச்சத்துகள் கிடைக்கச் செய்வது",
+          "பயிர்களுக்கு முறையாக நீர் பாய்ச்சுவது"
         ],
         "explanation": "தளர்த்தப்பட்ட மண் மண்புழுக்கள், மண் நுண்ணுயிரிகள் வளர உதவுகிறது."
       }
@@ -374,7 +374,7 @@
         "options": [
           "உழுதல், சமப்படுத்துதல், எருவிடுதல்",
           "தெளிப்பு, சொட்டு, மேற்பரப்பு",
-          "கையால் விதைத்தல், விதைப்புக் கருவி (சீட் டிரில்), குழி விதைப்பு (டிப்ளிங்)",
+          "கை விதைப்பு, விதைக்கருவி, குழி விதைப்பு",
           "கதிரடித்தல், தூற்றுதல், சேமித்தல்"
         ],
         "explanation": "கையால் விதைப்பது எளிமையான, மலிவான முறை; சீட் டிரில் சம இடைவெளியிலும் சரியான ஆழத்திலும் விதைகளை இடுகிறது."
@@ -420,20 +420,20 @@
       "en": {
         "q": "Each Krishi Vigyan Kendra (KVK) operates a small farm to ______.",
         "options": [
-          "test new technologies such as seed varieties or farming methods at the local level before transferring them to farmers",
-          "store food grains for the PDS",
-          "collect rare plant specimens",
-          "produce panchagavya for sale"
+          "test new technologies locally before giving them to farmers",
+          "store food grains for the public distribution system",
+          "collect rare plant specimens for botanical gardens",
+          "produce panchagavya for sale to the public"
         ],
         "explanation": "KVKs also provide advisory service to farmers about weather and market pricing through radio and mobile phones."
       },
       "ta": {
         "q": "ஒவ்வொரு கிருஷி விக்யான் கேந்திரமும் (KVK) ஒரு சிறு பண்ணையை நடத்துவது ______.",
         "options": [
-          "புதிய விதை இரகங்கள், வேளாண் முறைகளை விவசாயிகளுக்கு வழங்குமுன் உள்ளூர் அளவில் சோதிக்க",
+          "புதிய தொழில்நுட்பங்களை விவசாயிகளுக்கு வழங்குமுன் உள்ளூரில் சோதிக்க",
           "பொது விநியோகத்திற்கு உணவு தானியங்களைச் சேமிக்க",
-          "அரிய தாவர மாதிரிகளைச் சேகரிக்க",
-          "விற்பனைக்குப் பஞ்சகவ்யம் தயாரிக்க"
+          "தாவரவியல் பூங்காவுக்கு அரிய தாவர மாதிரிகளைச் சேகரிக்க",
+          "பொதுமக்களுக்கு விற்பனைக்குப் பஞ்சகவ்யம் தயாரிக்க"
         ],
         "explanation": "KVK-கள் வானிலை, சந்தை விலை குறித்த ஆலோசனைகளையும் வானொலி, கைபேசி மூலம் வழங்குகின்றன."
       }
@@ -450,9 +450,9 @@
         "q": "A bio-indicator is any species or group of species whose function or status reveals ______.",
         "options": [
           "the qualitative status of the environment",
-          "the price of grains",
-          "the yield of a crop",
-          "the number of weeds"
+          "the market price of food grains",
+          "the total yield of a single crop",
+          "the number of weeds in a field"
         ],
         "explanation": "Lichen is a natural bio-indicator of climate change and air pollution effect."
       },
@@ -460,9 +460,9 @@
         "q": "உயிரி – சுட்டிக்காட்டி என்பது தன் செயல்பாடு அல்லது நிலையால் ______ வெளிப்படுத்தும் சிற்றினம் அல்லது சிற்றினக் குழு.",
         "options": [
           "சுற்றுச்சூழலின் தரநிலையை",
-          "தானியங்களின் விலையை",
-          "பயிரின் விளைச்சலை",
-          "களைகளின் எண்ணிக்கையை"
+          "தானியங்களின் சந்தை விலையை",
+          "ஒரு பயிரின் மொத்த விளைச்சலை",
+          "வயலிலுள்ள களைகளின் எண்ணிக்கையை"
         ],
         "explanation": "லைக்கன் காலநிலை மாற்றம், காற்று மாசுபாட்டின் இயற்கை உயிரி – சுட்டிக்காட்டி."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "Weeding is important because weeds ______.",
         "options": [
-          "compete with the crop plants for nutrients, sunlight, water and space, leading to low yield",
-          "improve the yield of crops",
-          "provide nutrients to the crop",
-          "help seed germination"
+          "compete with the crop for nutrients, light, water and space",
+          "help the crop plants to give a much higher yield",
+          "supply extra nutrients to the crop plants",
+          "help the seeds to germinate faster"
         ],
         "explanation": "The removal of weeds is called weeding."
       },
       "ta": {
         "q": "களையெடுத்தல் முக்கியம்; ஏனெனில் களைகள் ______.",
         "options": [
-          "ஊட்டச்சத்து, சூரிய ஒளி, நீர், இடத்திற்காகப் பயிருடன் போட்டியிட்டு விளைச்சலைக் குறைக்கின்றன",
-          "பயிர் விளைச்சலை உயர்த்துகின்றன",
-          "பயிருக்கு ஊட்டச்சத்து அளிக்கின்றன",
-          "விதை முளைப்புக்கு உதவுகின்றன"
+          "ஊட்டச்சத்து, ஒளி, நீருக்காகப் பயிருடன் போட்டியிடுகின்றன",
+          "பயிர்கள் மிக அதிக விளைச்சல் தர உதவுகின்றன",
+          "பயிருக்குக் கூடுதல் ஊட்டச்சத்தும் நீரும் அளிக்கின்றன",
+          "விதை விரைவாக முளைக்க உதவுகின்றன"
         ],
         "explanation": "களைகளை அகற்றுவது களையெடுத்தல் எனப்படும்."
       }
@@ -508,8 +508,8 @@
         "q": "Crop rotation is ______.",
         "options": [
           "planting the same crop repeatedly year after year",
-          "planting a series of different crops in the same field following a defined order",
-          "planting crops only in summer",
+          "planting different crops in the same field in a set order",
+          "planting crops only in the summer season",
           "growing two crops together without any pattern"
         ],
         "explanation": "Mono cropping is the repeated planting of the same crop; mixed cropping is cultivating two or more crops simultaneously without any pattern."
@@ -518,8 +518,8 @@
         "q": "பயிர்ச் சுழற்சி என்பது ______.",
         "options": [
           "ஒரே பயிரை ஆண்டுதோறும் மீண்டும் பயிரிடுவது",
-          "ஒரே வயலில் வெவ்வேறு பயிர்களை வரையறுக்கப்பட்ட வரிசையில் மாற்றி மாற்றிப் பயிரிடுவது",
-          "கோடையில் மட்டும் பயிரிடுவது",
+          "ஒரே வயலில் வெவ்வேறு பயிர்களை ஒரு வரிசைப்படி மாற்றிப் பயிரிடுவது",
+          "கோடைக் காலத்தில் மட்டும் பயிரிடுவது",
           "எந்த வரிசையுமின்றி இரு பயிர்களை ஒன்றாகப் பயிரிடுவது"
         ],
         "explanation": "ஒரே பயிரை மீண்டும் மீண்டும் பயிரிடுவது ஒற்றைப் பயிரிடல்; வரிசையின்றி இரு பயிர்களை ஒரே நேரத்தில் பயிரிடுவது கலப்புப் பயிரிடல்."

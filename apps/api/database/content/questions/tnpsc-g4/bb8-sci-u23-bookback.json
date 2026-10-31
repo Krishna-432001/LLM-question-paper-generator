@@ -131,7 +131,7 @@
         "q": "The COUNT() function ______.",
         "options": [
           "calculates the total of the values",
-          "counts the number of values (cells containing numbers) in a range",
+          "counts the number of values in a range",
           "calculates the average of the values",
           "finds the maximum value"
         ],
@@ -141,7 +141,7 @@
         "q": "COUNT() சார்பு ______.",
         "options": [
           "மதிப்புகளின் கூடுதலைக் கணக்கிடும்",
-          "ஒரு வரம்பிலுள்ள மதிப்புகளின் (எண்கள் உள்ள கட்டங்களின்) எண்ணிக்கையைக் கணக்கிடும்",
+          "மதிப்புகளின் எண்ணிக்கையைக் கணக்கிடும்",
           "மதிப்புகளின் சராசரியைக் கணக்கிடும்",
           "மிகப் பெரிய மதிப்பைக் காணும்"
         ],
@@ -159,20 +159,20 @@
       "en": {
         "q": "The purpose of a chart in Libre Office Calc is to ______.",
         "options": [
-          "visualize the data for easy understanding",
-          "sort the data",
-          "merge cells",
-          "save the worksheet"
+          "visualize data for easy understanding",
+          "sort the data in ascending order",
+          "merge the selected cells into one",
+          "save the worksheet to the disk"
         ],
         "explanation": "To draw a chart, select the data and click Insert → Chart."
       },
       "ta": {
         "q": "லிப்ரே ஆஃபிஸ் கால்க்கில் வரைபடங்களின் (சார்ட்) நோக்கம் ______.",
         "options": [
-          "தரவை எளிதில் புரிந்துகொள்ளக் காட்சிப்படுத்துவது",
-          "தரவை வரிசைப்படுத்துவது",
-          "கட்டங்களை ஒன்றிணைப்பது",
-          "பணித்தாளைச் சேமிப்பது"
+          "தரவை எளிதில் புரியக் காட்சிப்படுத்துவது",
+          "தரவை ஏறுவரிசையில் வரிசைப்படுத்துவது",
+          "தேர்ந்த கட்டங்களை ஒன்றாக இணைப்பது",
+          "பணித்தாளை வட்டில் சேமிப்பது"
         ],
         "explanation": "சார்ட் வரைய தரவைத் தேர்ந்தெடுத்து Insert → Chart என்பதைச் சொடுக்க வேண்டும்."
       }

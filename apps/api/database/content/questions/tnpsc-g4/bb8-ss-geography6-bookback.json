@@ -72,9 +72,9 @@
       "en": {
         "q": "The Amul dairy industry is the best example of the ______ sector.",
         "options": [
-          "joint",
-          "private",
-          "public",
+          "joint stock",
+          "privately owned",
+          "state owned",
           "co-operative"
         ],
         "explanation": "AMUL (Anand Milk Union Limited) is owned and operated by producers."
@@ -333,10 +333,10 @@
       "en": {
         "q": "Industry is a process by which ______.",
         "options": [
-          "raw materials are changed into finished products",
-          "minerals are mined",
-          "crops are harvested",
-          "finished products are exported"
+          "raw materials are made into finished goods",
+          "minerals are mined from the earth",
+          "crops are harvested from the fields",
+          "finished products are exported abroad"
         ],
         "explanation": "Transformation of commodities from one form to another is the essence of the manufacturing industry or secondary economic activity."
       },
@@ -344,9 +344,9 @@
         "q": "தொழிற்சாலை (தொழில்) என்பது ______ செயல்முறை.",
         "options": [
           "மூலப்பொருள்கள் முடிவுப் பொருள்களாக மாற்றப்படும்",
-          "கனிமங்கள் வெட்டப்படும்",
-          "பயிர்கள் அறுவடை செய்யப்படும்",
-          "முடிவுப் பொருள்கள் ஏற்றுமதி செய்யப்படும்"
+          "கனிமங்கள் நிலத்திலிருந்து வெட்டப்படும்",
+          "பயிர்கள் வயல்களிலிருந்து அறுவடை செய்யப்படும்",
+          "முடிவுப் பொருள்கள் வெளிநாடுகளுக்கு ஏற்றுமதி செய்யப்படும்"
         ],
         "explanation": "ஒரு வடிவப் பொருளை மற்றொரு வடிவமாக மாற்றுவதே உற்பத்தித் தொழிலின் சாரம்."
       }
@@ -402,9 +402,9 @@
         "q": "பின்வருவனவற்றுள் முதல்நிலைப் பொருளாதாரச் செயல்பாடு எது?",
         "options": [
           "மீன்பிடித்தலும் சுரங்கத் தொழிலும்",
-          "பள்ளியில் கற்பித்தல்",
-          "வங்கித்துறை",
-          "தொலைக்காட்சி ஒளிபரப்பு"
+          "பள்ளியில் மாணவர்களுக்குக் கற்பித்தல்",
+          "வங்கிகளில் பணப் பரிமாற்றச் சேவை",
+          "தொலைக்காட்சி நிகழ்ச்சி ஒளிபரப்பு"
         ],
         "explanation": "காடு, மேய்ச்சல், வேட்டை, உணவு சேகரிப்பு, மீன்பிடி, வேளாண்மை, சுரங்கம், கல்குவாரி ஆகியவை முதல்நிலைச் செயல்பாடுகள்."
       }
@@ -420,7 +420,7 @@
       "en": {
         "q": "Quinary economic activities refer to ______.",
         "options": [
-          "high level decision-making processes by executives in industries, business, education and government",
+          "high level decision-making by executives in industries, business, education and government",
           "creation and transfer of information, including research and training",
           "processing raw materials into usable products",
           "food gathering and hunting"
@@ -430,7 +430,7 @@
       "ta": {
         "q": "ஐந்தாம் நிலைப் பொருளாதாரச் செயல்பாடுகள் என்பவை ______.",
         "options": [
-          "தொழில், வணிகம், கல்வி, அரசு ஆகியவற்றில் உயர் அலுவலர்கள் மேற்கொள்ளும் உயர்நிலை முடிவெடுக்கும் செயல்முறைகள்",
+          "தொழில், வணிகம், கல்வி, அரசில் உயர் அலுவலர்களின் உயர்நிலை முடிவெடுத்தல்",
           "ஆராய்ச்சி, பயிற்சி உள்ளிட்ட தகவல்களை உருவாக்கிப் பரிமாறுதல்",
           "மூலப்பொருளைப் பயன்படு பொருளாக மாற்றுதல்",
           "உணவு சேகரிப்பு, வேட்டை"
@@ -449,20 +449,20 @@
       "en": {
         "q": "Which of the following is a NON-geographical factor affecting the location of industries?",
         "options": [
-          "Government policies and regulations",
-          "Climate",
-          "Topography",
-          "Raw material"
+          "Government policies and rules",
+          "Climate of the region",
+          "Topography of the land",
+          "Availability of raw material"
         ],
         "explanation": "Non-geographical factors are capital, availability of loans and government policies."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் தொழில்களின் அமைவிடத்தைத் தீர்மானிக்கும் புவியியல் சாராக் காரணி எது?",
         "options": [
-          "அரசின் கொள்கைகளும் விதிமுறைகளும்",
-          "காலநிலை",
-          "நிலத்தோற்றம்",
-          "மூலப்பொருள்"
+          "அரசின் கொள்கைகளும் விதிகளும்",
+          "அப்பகுதியின் காலநிலை",
+          "நிலத்தோற்ற அமைப்பு",
+          "மூலப்பொருள் கிடைக்கும் தன்மை"
         ],
         "explanation": "மூலதனம், கடன் வசதி, அரசுக் கொள்கைகள் ஆகியவை புவியியல் சாராக் காரணிகள்."
       }
@@ -488,10 +488,10 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் பெருந்தொழிலுக்கு எடுத்துக்காட்டு எது?",
         "options": [
-          "கூடை முடைதல்",
-          "பட்டு நெசவு",
-          "மட்பாண்டம் செய்தல்",
-          "எண்ணெய் சுத்திகரிப்பு ஆலைகள்"
+          "மூங்கில் கூடை முடைதல்",
+          "கைத்தறிப் பட்டு நெசவு",
+          "களிமண் மட்பாண்டம் செய்தல்",
+          "எண்ணெய் சுத்திகரிப்பு ஆலை"
         ],
         "explanation": "இரும்பு-எஃகு, சிமெண்ட், ஜவுளித் தொழில்களும் பெருந்தொழில்கள்."
       }

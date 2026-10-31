@@ -24,10 +24,10 @@
       "ta": {
         "q": "இந்தியப் படைகளின் தலைமைத் தளபதி ______.",
         "options": [
-          "பிரதமர்",
+          "இந்தியப் பிரதமர்",
           "குடியரசுத் தலைவர்",
-          "முதலமைச்சர்",
-          "ஆளுநர்"
+          "மாநில முதலமைச்சர்",
+          "மாநில ஆளுநர்"
         ],
         "explanation": "நாட்டின் தலைவரான குடியரசுத் தலைவர் பாதுகாப்பு அமைப்பின் உயர் பதவியை வகிக்கிறார்."
       }
@@ -43,20 +43,20 @@
       "en": {
         "q": "The primary mission of the Indian Army is to ensure ______.",
         "options": [
-          "national security only",
-          "national security, national unity and defence of the nation from external aggression (all of these)",
-          "national unity only",
-          "only humanitarian rescue"
+          "national security of the country, and nothing else",
+          "national security, unity and defence against aggression",
+          "national unity of the country, and nothing else",
+          "only humanitarian rescue during disasters"
         ],
         "explanation": "It also conducts humanitarian rescue operations during natural disasters."
       },
       "ta": {
         "q": "இந்தியத் தரைப்படையின் முதன்மைப் பணி ______.",
         "options": [
-          "தேசியப் பாதுகாப்பு மட்டும்",
-          "தேசியப் பாதுகாப்பு, தேசிய ஒற்றுமை, வெளிநாட்டுப் படையெடுப்பிலிருந்து நாட்டைக் காத்தல் (இவை அனைத்தும்)",
-          "தேசிய ஒற்றுமை மட்டும்",
-          "மனிதாபிமான மீட்புப்பணி மட்டும்"
+          "நாட்டின் தேசியப் பாதுகாப்பு மட்டுமே, வேறு எதுவுமில்லை",
+          "தேசியப் பாதுகாப்பு, ஒற்றுமை, வெளிநாட்டுப் படையெடுப்பிலிருந்து காத்தல்",
+          "நாட்டின் தேசிய ஒற்றுமை மட்டுமே, வேறு எதுவுமில்லை",
+          "பேரிடர்களில் மனிதாபிமான மீட்புப்பணி மட்டுமே"
         ],
         "explanation": "இயற்கைப் பேரிடர்களிலும் மனிதாபிமான மீட்புப்பணிகளை மேற்கொள்கிறது."
       }
@@ -217,7 +217,7 @@
       "en": {
         "q": "The Regimental Centre of the Madras Regiment is at ______ in Tamil Nadu.",
         "options": [
-          "Wellington, Udhagamandalam",
+          "Wellington",
           "Chennai",
           "Madurai",
           "Coimbatore"
@@ -227,7 +227,7 @@
       "ta": {
         "q": "மதராஸ் ரெஜிமெண்டின் படைப்பிரிவு மையம் தமிழ்நாட்டில் ______ இல் அமைந்துள்ளது.",
         "options": [
-          "வெலிங்டன், உதகமண்டலம்",
+          "வெலிங்டன்",
           "சென்னை",
           "மதுரை",
           "கோயம்புத்தூர்"
@@ -334,8 +334,8 @@
         "q": "The word 'Non-Alignment' was coined by ______.",
         "options": [
           "Jawaharlal Nehru",
-          "Tito",
-          "Nasser",
+          "Tito of Yugoslavia",
+          "Nasser of Egypt",
           "V. K. Krishna Menon"
         ],
         "explanation": "Non-alignment is regarded as the most important feature of India's foreign policy."
@@ -344,8 +344,8 @@
         "q": "'அணிசேராமை' என்ற சொல்லை உருவாக்கியவர் ______.",
         "options": [
           "ஜவஹர்லால் நேரு",
-          "டிட்டோ",
-          "நாசர்",
+          "யுகோஸ்லாவியாவின் டிட்டோ",
+          "எகிப்தின் நாசர்",
           "வி.கே. கிருஷ்ண மேனன்"
         ],
         "explanation": "அணிசேராமை இந்திய வெளியுறவுக் கொள்கையின் மிக முக்கியப் பண்பாகக் கருதப்படுகிறது."
@@ -431,7 +431,7 @@
         "q": "கலவரம், கூட்டக் கட்டுப்பாடு, மீட்பு, நிவாரணப் பணிகளைக் கையாளும் விரைவு அதிரடிப் படை (Rapid Action Force) ______ இன் சிறப்புப் பிரிவு.",
         "options": [
           "எல்லைப் பாதுகாப்புப் படையின்",
-          "மத்திய ரிசர்வ் காவல் படையின் (CRPF)",
+          "மத்திய ரிசர்வ் காவல் படையின்",
           "மத்தியத் தொழிலகப் பாதுகாப்புப் படையின்",
           "இந்தோ-திபெத் எல்லைக் காவல் படையின்"
         ],
@@ -478,9 +478,9 @@
       "en": {
         "q": "Bangladesh is ______ of India.",
         "options": [
-          "a state",
-          "an island territory",
-          "a union territory",
+          "a state in north-eastern India",
+          "an island territory of India",
+          "a union territory of India",
           "a neighbouring country to the east"
         ],
         "explanation": "India shares a common land border with Pakistan, Afghanistan, Nepal, China, Bhutan, Bangladesh and Myanmar (Burma)."
@@ -488,9 +488,9 @@
       "ta": {
         "q": "வங்கதேசம் இந்தியாவின் ______.",
         "options": [
-          "ஒரு மாநிலம்",
-          "ஒரு தீவுப் பகுதி",
-          "ஒரு ஒன்றியப் பகுதி",
+          "வடகிழக்கு இந்தியாவிலுள்ள ஒரு மாநிலம்",
+          "இந்தியாவின் ஒரு தீவுப் பகுதி",
+          "இந்தியாவின் ஒரு ஒன்றியப் பகுதி",
           "கிழக்கு அண்டை நாடு"
         ],
         "explanation": "இந்தியா பாகிஸ்தான், ஆப்கானிஸ்தான், நேபாளம், சீனா, பூடான், வங்கதேசம், மியான்மருடன் நிலஎல்லையைப் பகிர்கிறது."
@@ -681,20 +681,20 @@
       "en": {
         "q": "National security is very essential for ______.",
         "options": [
-          "increasing the number of countries",
-          "stopping all trade",
-          "reducing the size of the army",
-          "the political, social and economic development, peace and prosperity of a country"
+          "increasing the number of countries in the world",
+          "stopping all trade with other nations",
+          "reducing the size of the army and navy",
+          "the development, peace and prosperity of a country"
         ],
         "explanation": "India has given higher priority to the defence sector."
       },
       "ta": {
         "q": "தேசியப் பாதுகாப்பு ______ க்கு மிக அவசியம்.",
         "options": [
-          "நாடுகளின் எண்ணிக்கையை அதிகரிக்க",
-          "வணிகம் முழுவதையும் நிறுத்த",
-          "படையின் அளவைக் குறைக்க",
-          "நாட்டின் அரசியல், சமூக, பொருளாதார வளர்ச்சிக்கும் அமைதி, வளத்திற்கும்"
+          "உலகில் நாடுகளின் எண்ணிக்கையை அதிகரிக்க",
+          "பிற நாடுகளுடனான வணிகம் முழுவதையும் நிறுத்த",
+          "படை, கடற்படையின் அளவைக் குறைக்க",
+          "நாட்டின் வளர்ச்சிக்கும் அமைதி, வளத்திற்கும்"
         ],
         "explanation": "இந்திய அரசு பாதுகாப்புத் துறைக்கு உயர் முன்னுரிமை அளித்துள்ளது."
       }
@@ -722,7 +722,7 @@
         "options": [
           "சிறப்புக் காட்டுப் படை",
           "சஷஸ்திர எல்லைப் படை",
-          "சிறப்பு எல்லைப் படை (Special Frontier Force)",
+          "சிறப்பு எல்லைப் படை",
           "பாதுகாப்புப் படைகள் கூட்டமைப்பு"
         ],
         "explanation": "1962இல் உருவாக்கப்பட்ட இது பின்னர் ஆய்வு, பகுப்பாய்வுப் பிரிவின் (RAW) கீழ் வைக்கப்பட்டது."
@@ -740,9 +740,9 @@
         "q": "The mission of the Central Reserve Police Force (CRPF) is to enable the government to maintain ______.",
         "options": [
           "rule of law, public order and internal security",
-          "maritime borders",
-          "aerial warfare",
-          "foreign trade"
+          "security of the maritime borders of India",
+          "readiness for aerial warfare with enemies",
+          "regulation of the foreign trade of India"
         ],
         "explanation": "It preserves national integrity and promotes social harmony by upholding the supremacy of the Constitution."
       },
@@ -750,9 +750,9 @@
         "q": "மத்திய ரிசர்வ் காவல் படையின் (CRPF) நோக்கம் அரசு ______ பேண உதவுவது.",
         "options": [
           "சட்டத்தின் ஆட்சி, பொது ஒழுங்கு, உள்நாட்டுப் பாதுகாப்பைப்",
-          "கடல் எல்லைகளைப்",
-          "வான்வழிப் போரைப்",
-          "வெளிநாட்டு வணிகத்தைப்"
+          "இந்தியாவின் கடல் எல்லைப் பாதுகாப்பைப்",
+          "எதிரிகளுடன் வான்வழிப் போருக்கான தயார்நிலையைப்",
+          "இந்தியாவின் வெளிநாட்டு வணிக ஒழுங்குமுறையைப்"
         ],
         "explanation": "அரசமைப்பின் மேலாண்மையைக் காத்து தேசிய ஒருமைப்பாட்டையும் சமூக நல்லிணக்கத்தையும் வளர்க்கிறது."
       }
@@ -797,9 +797,9 @@
       "en": {
         "q": "Which of the following is a basic principle of India's foreign policy?",
         "options": [
-          "Support for military blocs",
-          "Promotion of colonialism",
-          "Rejection of disarmament",
+          "Support for the formation of military blocs",
+          "Promotion of colonialism and imperialism",
+          "Rejection of world disarmament efforts",
           "Abolition of colonialism, racism and imperialism"
         ],
         "explanation": "Other principles are preservation of national interest, world peace, disarmament, friendly nations and economic development."
@@ -807,10 +807,10 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் இந்திய வெளியுறவுக் கொள்கையின் அடிப்படைக் கோட்பாடு எது?",
         "options": [
-          "இராணுவ அணிகளை ஆதரித்தல்",
-          "காலனியத்தை ஊக்குவித்தல்",
-          "ஆயுதக் குறைப்பை மறுத்தல்",
-          "காலனியம், இனவெறி, ஏகாதிபத்தியம் ஆகியவற்றை ஒழித்தல்"
+          "இராணுவ அணிகள் அமைவதை ஆதரித்தல்",
+          "காலனியம், ஏகாதிபத்தியத்தை ஊக்குவித்தல்",
+          "உலக ஆயுதக் குறைப்பு முயற்சிகளை மறுத்தல்",
+          "காலனியம், இனவெறி, ஏகாதிபத்தியத்தை ஒழித்தல்"
         ],
         "explanation": "தேசிய நலன் காத்தல், உலக அமைதி, ஆயுதக் குறைப்பு, நட்பு நாடுகளை அதிகரித்தல், பொருளாதார வளர்ச்சி பிற கோட்பாடுகள்."
       }

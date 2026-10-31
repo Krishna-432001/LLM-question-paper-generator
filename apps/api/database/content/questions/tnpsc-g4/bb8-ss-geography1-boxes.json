@@ -141,9 +141,9 @@
         "q": "தாஜ்மகால் கட்டப் பயன்பட்ட பளிங்குப் பாறை எந்தப் பாறையிலிருந்து உருமாற்றத்தால் உருவானது?",
         "options": [
           "சுண்ணாம்புப் பாறை",
-          "களிப்பாறை",
-          "கிரானைட்",
-          "பசால்ட்"
+          "ஷேல் களிப்பாறை",
+          "கிரானைட் தீப்பாறை",
+          "பசால்ட் தீப்பாறை"
         ],
         "explanation": "பளிங்கு கட்டுமானம், சிற்பங்கள், அலங்காரப் பொருள்களுக்குப் பயன்படுகிறது."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "Soil is formed from rocks (parent material) through the processes of ______.",
         "options": [
-          "volcanic eruption",
+          "volcanic eruption and lava flow",
           "weathering and natural erosion",
-          "sedimentation only",
-          "metamorphism"
+          "sedimentation and deposition only",
+          "metamorphism of rocks under heat"
         ],
         "explanation": "The vegetative cover later forms humus."
       },
       "ta": {
         "q": "மண் தாய்ப்பாறையிலிருந்து ______ செயல்முறைகளால் உருவாகிறது.",
         "options": [
-          "எரிமலை வெடிப்பு",
+          "எரிமலை வெடிப்பும் எரிமலைக் குழம்புப் பாய்வும்",
           "வானிலைச் சிதைவு, இயற்கை அரிப்பு",
-          "படிதல் மட்டும்",
-          "உருமாற்றம்"
+          "படிதலும் படிவு சேர்தலும் மட்டும்",
+          "வெப்பத்தால் பாறைகள் உருமாறுதல்"
         ],
         "explanation": "பின்னர் தாவரப் போர்வையால் மட்கு உருவாகிறது."
       }

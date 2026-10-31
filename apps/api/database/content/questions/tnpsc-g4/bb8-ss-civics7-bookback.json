@@ -43,9 +43,9 @@
       "en": {
         "q": "The judicial system provides a mechanism for resolving disputes between ______.",
         "options": [
-          "citizens only",
-          "citizens, citizens and the government, and two State governments (all of these)",
-          "two State governments only",
+          "citizens of the country only",
+          "citizens, the government, and two State governments",
+          "two State governments of the Indian Union only",
           "none of these"
         ],
         "explanation": "It also resolves disputes between the Centre and the State governments."
@@ -53,9 +53,9 @@
       "ta": {
         "q": "நீதித்துறை ______ இடையிலான பிணக்குகளைத் தீர்க்கும் வழிமுறையை வழங்குகிறது.",
         "options": [
-          "குடிமக்களுக்கு மட்டும்",
-          "குடிமக்கள், குடிமக்களுக்கும் அரசுக்கும், இரு மாநில அரசுகளுக்கும் (இவை அனைத்தும்)",
-          "இரு மாநில அரசுகளுக்கு மட்டும்",
+          "நாட்டின் குடிமக்களுக்கு மட்டும்",
+          "குடிமக்கள், அரசு, இரு மாநில அரசுகளுக்கும்",
+          "இந்திய ஒன்றியத்தின் இரு மாநில அரசுகளுக்கு மட்டும்",
           "இவற்றில் எதுவுமில்லை"
         ],
         "explanation": "மத்திய, மாநில அரசுகளுக்கிடையிலான பிணக்குகளையும் தீர்க்கிறது."
@@ -162,7 +162,7 @@
           "Two",
           "Three",
           "Four",
-          "One (the Supreme Court)"
+          "One"
         ],
         "explanation": "India has a single unified and integrated judicial system."
       },
@@ -172,7 +172,7 @@
           "இரண்டு",
           "மூன்று",
           "நான்கு",
-          "ஒன்று (உச்சநீதிமன்றம்)"
+          "ஒன்று"
         ],
         "explanation": "இந்தியா ஒற்றை, ஒருங்கிணைந்த நீதித்துறை முறையைக் கொண்டுள்ளது."
       }
@@ -713,7 +713,7 @@
           "Federal Court, Privy Council and High Court",
           "Panchayat Court, Lok Sabha and Rajya Sabha",
           "Family Court, Mobile Court and E-Court only",
-          "Supreme Court, High Courts and District (subordinate) Courts"
+          "Supreme Court, High Courts and District Courts"
         ],
         "explanation": "Subordinate courts consider cases of civil and criminal nature."
       },
@@ -723,7 +723,7 @@
           "கூட்டாட்சி நீதிமன்றம், பிரிவி கவுன்சில், உயர்நீதிமன்றம்",
           "பஞ்சாயத்து நீதிமன்றம், மக்களவை, மாநிலங்களவை",
           "குடும்ப, நடமாடும், மின்-நீதிமன்றங்கள் மட்டும்",
-          "உச்சநீதிமன்றம், உயர்நீதிமன்றங்கள், மாவட்ட (கீழ்நிலை) நீதிமன்றங்கள்"
+          "உச்சநீதிமன்றம், உயர்நீதிமன்றங்கள், மாவட்ட நீதிமன்றங்கள்"
         ],
         "explanation": "கீழ்நிலை நீதிமன்றங்கள் உரிமையியல், குற்றவியல் வழக்குகளை விசாரிக்கின்றன."
       }
@@ -739,7 +739,7 @@
       "en": {
         "q": "The 'Judiciary' or judicial system is ______.",
         "options": [
-          "the system of courts which administers justice in the name of the State",
+          "the system of courts that administers justice",
           "a system of rules imposed by the legislature",
           "the body that makes laws",
           "the head of the executive"
@@ -768,20 +768,20 @@
       "en": {
         "q": "A Lok Adalat, set up to provide speedy justice, is presided over by ______.",
         "options": [
-          "the Chief Justice of India",
-          "a retired judge along with a lawyer and a social worker",
-          "a District Collector",
-          "the Governor"
+          "the Chief Justice of the Supreme Court of India",
+          "a retired judge with a lawyer and a social worker",
+          "the District Collector of the district",
+          "the Governor of the concerned State"
         ],
         "explanation": "Cases are put forward without advocates and solved through mutual consent."
       },
       "ta": {
         "q": "விரைவான நீதி வழங்க அமைக்கப்பட்ட மக்கள் நீதிமன்றத்திற்கு (லோக் அதாலத்) தலைமை வகிப்பவர் ______.",
         "options": [
-          "இந்தியத் தலைமை நீதிபதி",
-          "ஓய்வுபெற்ற நீதிபதி, ஒரு வழக்கறிஞர், ஒரு சமூகப் பணியாளர்",
-          "மாவட்ட ஆட்சியர்",
-          "ஆளுநர்"
+          "இந்திய உச்சநீதிமன்றத் தலைமை நீதிபதி",
+          "ஓய்வுபெற்ற நீதிபதி, வழக்கறிஞர், சமூகப் பணியாளர்",
+          "அந்த மாவட்டத்தின் மாவட்ட ஆட்சியர்",
+          "சம்பந்தப்பட்ட மாநில ஆளுநர்"
         ],
         "explanation": "வழக்கறிஞர்கள் இன்றி வழக்குகள் முன்வைக்கப்பட்டு பரஸ்பர ஒப்புதலால் தீர்க்கப்படுகின்றன."
       }
@@ -797,20 +797,20 @@
       "en": {
         "q": "Mobile courts are of great relief to the rural people because they ______.",
         "options": [
-          "handle only criminal appeals",
-          "replace High Courts",
-          "create awareness about the judicial system, cut costs and render justice at their doorstep",
-          "are held only in cities"
+          "handle only criminal appeals from lower courts",
+          "replace the High Courts of the State",
+          "raise awareness, cut costs and give justice at the doorstep",
+          "are held only in large cities"
         ],
         "explanation": "E-Courts and Tele Law also help people access justice."
       },
       "ta": {
         "q": "நடமாடும் நீதிமன்றங்கள் கிராம மக்களுக்குப் பெரும் நிவாரணம் ஏனெனில் அவை ______.",
         "options": [
-          "குற்றவியல் மேல்முறையீடுகளை மட்டும் கையாள்கின்றன",
-          "உயர்நீதிமன்றங்களை மாற்றுகின்றன",
-          "நீதித்துறை பற்றிய விழிப்புணர்வை ஏற்படுத்தி, செலவைக் குறைத்து, வீட்டு வாசலிலேயே நீதி வழங்குகின்றன",
-          "நகரங்களில் மட்டுமே நடைபெறுகின்றன"
+          "கீழ் நீதிமன்றங்களின் குற்றவியல் மேல்முறையீடுகளை மட்டும் கையாள்கின்றன",
+          "மாநில உயர்நீதிமன்றங்களை மாற்றுகின்றன",
+          "விழிப்புணர்வை ஏற்படுத்தி, செலவைக் குறைத்து, வீட்டு வாசலில் நீதி வழங்குகின்றன",
+          "பெரு நகரங்களில் மட்டுமே நடைபெறுகின்றன"
         ],
         "explanation": "மின்-நீதிமன்றங்களும் தொலைச் சட்ட உதவியும் மக்கள் நீதியை அணுக உதவுகின்றன."
       }

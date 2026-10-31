@@ -27,7 +27,7 @@
           "மக்களியல்",
           "இயற்கையமைப்பியல்",
           "இடவியல்",
-          "புவிப்படவியல் (கார்ட்டோகிராபி)"
+          "புவிப்படவியல்"
         ],
         "explanation": "புவிப்படவியல் என்பது புவிப்படம் தயாரிக்கும் கலையும் அறிவியலும் ஆகும்."
       }
@@ -198,7 +198,7 @@
       "ta": {
         "q": "புவியின் கோள வடிவத்தைச் சமதளப் பரப்பில் வரையும் முறை ______ எனப்படும்.",
         "options": [
-          "புவிப்படத் திட்டம் (வரைபட வீழல்)",
+          "புவிப்படத் திட்டம்",
           "புவிப்பட விளக்கம்",
           "காணி அளவை",
           "புவிப்பட அளவை"
@@ -217,10 +217,10 @@
       "en": {
         "q": "A line that joins points of equal elevation on a map is called a ______.",
         "options": [
-          "isobar",
+          "isobar line",
           "contour line",
-          "isotherm",
-          "meridian"
+          "isotherm line",
+          "meridian line"
         ],
         "explanation": "Isolines join places sharing a common value; isobars join equal pressure and isotherms equal temperature."
       },
@@ -392,8 +392,8 @@
         "q": "Map scale is the ratio between ______.",
         "options": [
           "latitude and longitude",
-          "two maps of the same area",
-          "the actual distance on the ground and the distance shown on the map",
+          "two maps drawn of the same area",
+          "the ground distance and the corresponding map distance",
           "the area of a country and its population"
         ],
         "explanation": "Maps are drawn to scale because cartographers cannot draw them at the same size as the land."
@@ -403,7 +403,7 @@
         "options": [
           "அட்சத்திற்கும் தீர்க்கத்திற்கும்",
           "ஒரே பகுதியின் இரு படங்களுக்கும்",
-          "தரையிலுள்ள உண்மைத் தொலைவுக்கும் படத்தில் காட்டப்படும் தொலைவுக்கும்",
+          "தரையின் உண்மைத் தொலைவுக்கும் படத்தின் தொலைவுக்கும்",
           "நாட்டின் பரப்பிற்கும் மக்கள்தொகைக்கும்"
         ],
         "explanation": "நிலத்தின் அளவிலேயே படம் வரைய இயலாததால் அளவைக்கு ஏற்ப வரையப்படுகிறது."
@@ -421,7 +421,7 @@
         "q": "Which of the following are the intermediate directions on a map?",
         "options": [
           "North-east, north-west, south-east and south-west",
-          "North, south, east and west",
+          "The four cardinal directions north, south, east and west",
           "Latitude and longitude",
           "Zenith and nadir"
         ],
@@ -431,7 +431,7 @@
         "q": "பின்வருவனவற்றுள் புவிப்படத்தின் இடைநிலைத் திசைகள் எவை?",
         "options": [
           "வடகிழக்கு, வடமேற்கு, தென்கிழக்கு, தென்மேற்கு",
-          "வடக்கு, தெற்கு, கிழக்கு, மேற்கு",
+          "நான்கு முக்கிய திசைகளான வடக்கு, தெற்கு, கிழக்கு, மேற்கு",
           "அட்சம், தீர்க்கம்",
           "உச்சி, அடி"
         ],
@@ -449,20 +449,20 @@
       "en": {
         "q": "Cadastral maps are useful for ______.",
         "options": [
-          "showing rainfall distribution",
-          "local administration such as city survey, taxation and defining property in legal documents",
-          "showing mountains and deserts",
-          "navigating ships"
+          "showing the distribution of rainfall over a large region",
+          "local administration such as city survey and taxation",
+          "showing the mountains and deserts of a country",
+          "navigating ships across the oceans"
         ],
         "explanation": "Cadastral surveys were originally used for reliable facts for land valuation and taxation."
       },
       "ta": {
         "q": "காணிப் புவிப்படங்கள் ______ பயன்படுகின்றன.",
         "options": [
-          "மழைப்பரவலைக் காட்ட",
-          "நகர அளவை, வரிவிதிப்பு, சட்ட ஆவணங்களில் சொத்தை வரையறுத்தல் போன்ற உள்ளூர் நிர்வாகத்திற்கு",
-          "மலைகள், பாலைவனங்களைக் காட்ட",
-          "கப்பல்களை வழிநடத்த"
+          "ஒரு பெரிய பகுதி முழுவதும் மழைப்பரவலைக் காட்டுவதற்கு",
+          "நகர அளவை, வரிவிதிப்பு போன்ற உள்ளூர் நிர்வாகத்திற்கு",
+          "நாட்டின் மலைகள், பாலைவனங்களைக் காட்ட",
+          "கடல்களில் கப்பல்களை வழிநடத்த"
         ],
         "explanation": "நில மதிப்பீடு, வரிவிதிப்புக்கு நம்பகத் தகவல் பெறவே இவை தொடக்கத்தில் பயன்பட்டன."
       }
@@ -507,10 +507,10 @@
       "en": {
         "q": "Scales on maps can be represented in which three ways?",
         "options": [
-          "Large, medium and small scale",
-          "Cadastral, relief and thematic scale",
-          "Linear, angular and circular only",
-          "Statement (verbal) scale, representative fraction and graphical (bar) scale"
+          "Large, medium and small scales of maps",
+          "Cadastral, relief and thematic scales of maps",
+          "Linear, angular and circular scales only",
+          "Statement, representative fraction and graphical scales"
         ],
         "explanation": "RF is shown as a fraction such as 1:50,000."
       },
@@ -520,7 +520,7 @@
           "பெரிய, நடுத்தர, சிறிய அளவை",
           "காணி, நிலத்தோற்ற, கருத்து அளவை",
           "நேர்கோட்டு, கோண, வட்ட அளவை மட்டும்",
-          "கூற்று (சொல்) அளவை, பகுதி எண் அளவை (RF), வரைபட (கோல்) அளவை"
+          "கூற்று அளவை, பகுதி எண் அளவை, வரைபட அளவை"
         ],
         "explanation": "RF என்பது 1:50,000 போன்ற பின்னமாகக் காட்டப்படும்."
       }

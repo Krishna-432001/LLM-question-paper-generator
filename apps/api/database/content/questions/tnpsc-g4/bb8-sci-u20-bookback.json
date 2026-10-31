@@ -55,7 +55,7 @@
         "options": [
           "வளரிளம் பருவம்",
           "வளர்ச்சி",
-          "பருவமடைதல் (பியூபர்ட்டி)",
+          "பருவமடைதல்",
           "மாதவிடாய் நிறுத்தம்"
         ],
         "explanation": "சில ஆண்டுகளில் விரைவான உடல், உடலியல், உளவியல் மாற்றங்கள் நிகழ்ந்து பாலியல் முதிர்ச்சி ஏற்படும் காலம் பியூபர்ட்டி."
@@ -142,7 +142,7 @@
         "options": [
           "ஆண்குறி",
           "அண்டச் சுரப்பி",
-          "விந்தகங்கள் (டெஸ்டிஸ்)",
+          "விந்தகங்கள்",
           "கருப்பை"
         ],
         "explanation": "விந்தகங்கள் டெஸ்டோஸ்டிரோனையும் அண்டகங்கள் ஈஸ்ட்ரோஜனையும் வெளியிடுகின்றன."
@@ -191,7 +191,7 @@
           "ACTH",
           "GH",
           "TSH",
-          "LH (luteinizing hormone)"
+          "LH"
         ],
         "explanation": "In males LH is also called Interstitial Cell Stimulating Hormone (ICSH)."
       },
@@ -201,7 +201,7 @@
           "ACTH",
           "GH",
           "TSH",
-          "LH (லூட்டினைசிங் ஹார்மோன்)"
+          "LH"
         ],
         "explanation": "ஆண்களில் LH, இடையீட்டுச் செல் தூண்டும் ஹார்மோன் (ICSH) எனவும் அழைக்கப்படுகிறது."
       }
@@ -307,7 +307,7 @@
           "oxytocin",
           "FSH",
           "estrogen",
-          "prolactin (PRL)"
+          "prolactin"
         ],
         "explanation": "Oxytocin causes expulsion of milk from the breast and contraction of the uterus during child birth."
       },
@@ -317,7 +317,7 @@
           "ஆக்சிடோசின்",
           "FSH",
           "ஈஸ்ட்ரோஜன்",
-          "புரோலாக்டின் (PRL)"
+          "புரோலாக்டின்"
         ],
         "explanation": "ஆக்சிடோசின் மார்பகத்திலிருந்து பாலை வெளியேற்றவும் பிரசவத்தில் கருப்பைத் தசைகளைச் சுருக்கவும் உதவுகிறது."
       }
@@ -333,7 +333,7 @@
       "en": {
         "q": "The fusion of the male and the female gamete forms the ______.",
         "options": [
-          "zygote (fertilized egg)",
+          "zygote",
           "gamete",
           "ovum",
           "embryo sac"
@@ -343,7 +343,7 @@
       "ta": {
         "q": "ஆண், பெண் இனச்செல்கள் இணைவதால் ______ உருவாகிறது.",
         "options": [
-          "கருமுட்டை (சைகோட்)",
+          "கருமுட்டை",
           "இனச்செல்",
           "அண்டம்",
           "கருப்பை"
@@ -375,7 +375,7 @@
           "கர்ப்பம்",
           "மாதவிடாய் நிறுத்தம்",
           "அண்டம் வெளிவருதல்",
-          "மாதவிடாய் தொடக்கம் (மெனார்க்கி)"
+          "மாதவிடாய் தொடக்கம்"
         ],
         "explanation": "இது பெண்ணின் இனப்பெருக்கப் பருவத்தின் தொடக்கத்தைக் குறிக்கிறது."
       }
@@ -507,9 +507,9 @@
       "en": {
         "q": "In women, fertilization takes place in the ______.",
         "options": [
-          "uterus",
-          "ovary",
-          "vagina",
+          "uterine cavity",
+          "ovarian follicle",
+          "vaginal canal",
           "fallopian tube"
         ],
         "explanation": "After ovulation the ovum reaches the fallopian tube and fertilization takes place."
@@ -517,10 +517,10 @@
       "ta": {
         "q": "பெண்களில் கருவுறுதல் ______ இல் நிகழ்கிறது.",
         "options": [
-          "கருப்பை",
-          "அண்டகம்",
-          "யோனி",
-          "அண்டக்குழாய் (ஃபெலோப்பியன் குழாய்)"
+          "கருப்பைக் குழி",
+          "அண்டகப் பாலிக்கிள்",
+          "யோனிக் குழாய்",
+          "அண்டக்குழாய்"
         ],
         "explanation": "அண்டம் வெளிவந்த பின் அண்டக்குழாயை அடைந்து அங்கு கருவுறுகிறது."
       }
@@ -710,10 +710,10 @@
       "en": {
         "q": "Secondary sex characteristics are ______.",
         "options": [
-          "changes in the sex organs themselves",
-          "the hormones of the pituitary",
-          "the physical features which distinguish male from female",
-          "the first menstrual flow"
+          "changes that occur in the sex organs themselves",
+          "the hormones secreted by the pituitary gland",
+          "physical features that distinguish male from female",
+          "the first flow of menstruation in a girl"
         ],
         "explanation": "They are regulated by testosterone (androgen) in males and estrogen in females."
       },
@@ -721,9 +721,9 @@
         "q": "இரண்டாம் நிலைப் பாலினப் பண்புகள் என்பவை ______.",
         "options": [
           "பாலின உறுப்புகளிலேயே ஏற்படும் மாற்றங்கள்",
-          "பிட்யூட்டரியின் ஹார்மோன்கள்",
-          "ஆணையும் பெண்ணையும் வேறுபடுத்தும் உடல் பண்புகள்",
-          "முதல் மாதவிடாய்ப் போக்கு"
+          "பிட்யூட்டரி சுரப்பி சுரக்கும் ஹார்மோன்கள்",
+          "ஆண், பெண்ணை வேறுபடுத்தும் உடல் பண்புகள்",
+          "பெண்ணுக்கு முதன்முதலில் ஏற்படும் மாதவிடாய்ப் போக்கு"
         ],
         "explanation": "இவை ஆண்களில் டெஸ்டோஸ்டிரோனாலும் (ஆண்ட்ரோஜன்) பெண்களில் ஈஸ்ட்ரோஜனாலும் கட்டுப்படுத்தப்படுகின்றன."
       }
@@ -768,7 +768,7 @@
       "en": {
         "q": "Girls should realize that menstruation is ______.",
         "options": [
-          "as natural as regular physiological activities like breathing and eating",
+          "a natural process like breathing and eating",
           "a disease",
           "something to be hidden by avoiding cleanliness",
           "possible only in some girls"
@@ -778,7 +778,7 @@
       "ta": {
         "q": "பெண்கள் மாதவிடாயை ______ என உணர வேண்டும்.",
         "options": [
-          "சுவாசித்தல், உண்ணுதல் போன்ற இயல்பான உடலியல் செயல்களைப் போல இயற்கையானது",
+          "சுவாசித்தல், உண்ணுதல் போல இயற்கையான செயல்",
           "ஒரு நோய்",
           "தூய்மையைத் தவிர்த்து மறைக்க வேண்டியது",
           "சில பெண்களுக்கு மட்டுமே நிகழ்வது"

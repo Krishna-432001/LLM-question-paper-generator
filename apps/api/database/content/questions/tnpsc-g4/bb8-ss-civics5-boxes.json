@@ -43,20 +43,20 @@
       "en": {
         "q": "A solid white line on the road means ______.",
         "options": [
-          "you are not allowed to overtake and must stay within the lane",
-          "you may change lanes freely",
-          "it is a pedestrian crossing",
-          "you may take a U-turn"
+          "you must not overtake and must stay in your lane",
+          "you may change lanes freely whenever you wish",
+          "it marks a pedestrian crossing on the road",
+          "you may take a U-turn at that place"
         ],
         "explanation": "A broken white line allows overtaking or U-turn when it is safe."
       },
       "ta": {
         "q": "சாலையில் தொடர்ச்சியான வெள்ளைக் கோடு ______ எனக் குறிக்கிறது.",
         "options": [
-          "முந்தக் கூடாது; தன் வழித்தடத்திலேயே செல்ல வேண்டும்",
-          "தடம் மாற சுதந்திரம் உண்டு",
-          "அது பாதசாரி கடப்பு",
-          "திரும்பிச் செல்லலாம் (U-திருப்பம்)"
+          "முந்தக் கூடாது; தம் தடத்திலேயே செல்ல வேண்டும்",
+          "தடம் மாற விரும்பும்போதெல்லாம் சுதந்திரமாக மாறலாம்",
+          "அது பாதசாரிகள் சாலையைக் கடக்கும் இடம்",
+          "அங்கே U-திருப்பம் செய்யலாம்"
         ],
         "explanation": "தொடர்பற்ற (உடைந்த) வெள்ளைக் கோடு பாதுகாப்பாக இருந்தால் முந்தவும் U-திருப்பம் எடுக்கவும் அனுமதிக்கிறது."
       }
@@ -72,7 +72,7 @@
       "en": {
         "q": "The main function of cautionary traffic signs is to ______.",
         "options": [
-          "warn the driver to take necessary action to manage the situation",
+          "warn the driver to take the necessary action",
           "give information about fuel and hospitals",
           "fix the speed limit",
           "order the driver to stop immediately"
@@ -82,7 +82,7 @@
       "ta": {
         "q": "எச்சரிக்கைக் குறியீடுகளின் முக்கியப் பணி ______.",
         "options": [
-          "நிலைமையைச் சமாளிக்கத் தேவையான நடவடிக்கை எடுக்குமாறு ஓட்டுநரை எச்சரிப்பது",
+          "தேவையான நடவடிக்கை எடுக்குமாறு ஓட்டுநரை எச்சரிப்பது",
           "எரிபொருள், மருத்துவமனை பற்றிய தகவல் தருவது",
           "வேக வரம்பை நிர்ணயிப்பது",
           "உடனடியாக நிறுத்துமாறு கட்டளையிடுவது"
@@ -160,8 +160,8 @@
         "q": "According to the lesson, National Road Safety Week in India is organised by the ______.",
         "options": [
           "Supreme Court of India",
-          "Election Commission",
-          "Reserve Bank of India",
+          "Indian Council of Medical Research",
+          "Bureau of Indian Standards",
           "National Safety Council of India"
         ],
         "explanation": "It is an autonomous body set up by the Indian government."
@@ -170,8 +170,8 @@
         "q": "பாடத்தின்படி, இந்தியாவில் தேசிய சாலைப் பாதுகாப்பு வாரத்தை ஏற்பாடு செய்வது ______.",
         "options": [
           "இந்திய உச்சநீதிமன்றம்",
-          "தேர்தல் ஆணையம்",
-          "இந்திய ரிசர்வ் வங்கி",
+          "இந்திய மருத்துவ ஆராய்ச்சிக் கழகம்",
+          "இந்தியத் தர நிர்ணய அமைவு",
           "இந்திய தேசிய பாதுகாப்பு கவுன்சில்"
         ],
         "explanation": "இது இந்திய அரசால் அமைக்கப்பட்ட தன்னாட்சி அமைப்பு."

@@ -101,20 +101,20 @@
       "en": {
         "q": "The Governor may promulgate ordinances when the ______.",
         "options": [
-          "Chief Minister resigns",
+          "Chief Minister resigns from the office",
           "Legislative Assembly is not in session",
-          "High Court is closed",
-          "President is abroad"
+          "High Court is closed for summer vacation",
+          "President is abroad on a state visit"
         ],
         "explanation": "Money bills can be introduced only with the Governor's approval."
       },
       "ta": {
         "q": "ஆளுநர் ______ போது அவசரச் சட்டங்களைப் பிறப்பிக்கலாம்.",
         "options": [
-          "முதலமைச்சர் பதவி விலகும்",
+          "முதலமைச்சர் தம் பதவியிலிருந்து விலகும்",
           "சட்டப்பேரவை கூட்டத்தொடர் நடைபெறாத",
-          "உயர்நீதிமன்றம் மூடப்பட்டிருக்கும்",
-          "குடியரசுத் தலைவர் வெளிநாட்டில் இருக்கும்"
+          "கோடை விடுமுறைக்காக உயர்நீதிமன்றம் மூடப்பட்டிருக்கும்",
+          "குடியரசுத் தலைவர் அரசுமுறைப் பயணமாக வெளிநாட்டில் இருக்கும்"
         ],
         "explanation": "நிதி மசோதாக்களை ஆளுநரின் ஒப்புதலுடன் மட்டுமே அறிமுகப்படுத்த முடியும்."
       }
@@ -335,7 +335,7 @@
         "options": [
           "Through orders of the Governor alone",
           "Through bills passed by the High Court",
-          "Through resolutions passed by the council of ministers",
+          "Through resolutions of the council of ministers",
           "Through judgments of the Supreme Court"
         ],
         "explanation": "Acts, in contrast, are bills passed by the majority of the legislature and signed by the Governor."

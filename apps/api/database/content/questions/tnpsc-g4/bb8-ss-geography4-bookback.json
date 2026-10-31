@@ -130,9 +130,9 @@
       "en": {
         "q": "The main reason for the development of urbanisation in the ancient period was ______.",
         "options": [
-          "hunting",
-          "domestication of cattle",
-          "fishing",
+          "hunting of wild animals",
+          "domestication of cattle and sheep",
+          "fishing in rivers and seas",
           "excess production of food grains"
         ],
         "explanation": "River valley agrarian communities of Egypt, Greece and India eventually formed urban centres."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "பண்டைய காலத்தில் நகரமயமாதல் வளர்ச்சிக்கு முக்கியக் காரணம் ______.",
         "options": [
-          "வேட்டையாடுதல்",
-          "கால்நடை வளர்ப்பு",
-          "மீன்பிடித்தல்",
+          "காட்டு விலங்குகளை வேட்டையாடுதல்",
+          "கால்நடைகளைப் பழக்கி வளர்த்தல்",
+          "ஆறு, கடலில் மீன்பிடித்தல்",
           "உணவு தானியங்களின் மிகை உற்பத்தி"
         ],
         "explanation": "எகிப்து, கிரேக்கம், இந்தியாவின் ஆற்றுப் பள்ளத்தாக்கு வேளாண் சமூகங்கள் நகர மையங்களாயின."
@@ -275,9 +275,9 @@
       "en": {
         "q": "In the modern period urban growth was accelerated by the development of ______.",
         "options": [
-          "hunting",
-          "agriculture alone",
-          "nomadic life",
+          "hunting and food gathering",
+          "traditional agriculture alone",
+          "nomadic pastoral life",
           "means of transport and communication"
         ],
         "explanation": "The industrial revolution (late 18th–19th century) also accelerated the growth of towns."
@@ -285,10 +285,10 @@
       "ta": {
         "q": "நவீன காலத்தில் நகர வளர்ச்சியை விரைவுபடுத்தியது ______ வளர்ச்சி.",
         "options": [
-          "வேட்டையின்",
-          "வேளாண்மையின் மட்டும்",
-          "நாடோடி வாழ்க்கையின்",
-          "போக்குவரத்து, தகவல் தொடர்புச் சாதனங்களின்"
+          "வேட்டை, உணவு சேகரிப்பின்",
+          "பாரம்பரிய வேளாண்மையின் மட்டும்",
+          "நாடோடி மேய்ச்சல் வாழ்க்கையின்",
+          "போக்குவரத்து, தகவல் தொடர்பு வசதிகளின்"
         ],
         "explanation": "தொழிற்புரட்சியும் (18ஆம் நூற்றாண்டின் இறுதி – 19ஆம் நூற்றாண்டு) நகர வளர்ச்சியை விரைவுபடுத்தியது."
       }
@@ -373,7 +373,7 @@
         "q": "நகரங்களில் வீட்டு வசதிக்கான இடப் பற்றாக்குறையும் நிலவிலை உயர்வும் ______ உருவாகக் காரணம்.",
         "options": [
           "மலைவாழிடங்கள்",
-          "குடிசைப் பகுதிகள் (சேரிகள்)",
+          "குடிசைப் பகுதிகள்",
           "இராணுவ முகாம்கள்",
           "தோட்டங்கள்"
         ],
@@ -449,20 +449,20 @@
       "en": {
         "q": "Migration is generally defined as ______.",
         "options": [
-          "the permanent or semi-permanent change of residence of an individual or group of people over a significant distance",
-          "the daily movement of workers within a city",
-          "the growth of urban population",
-          "the temporary visit of tourists"
+          "the permanent or semi-permanent change of residence over a long distance",
+          "the daily movement of workers and students within a city",
+          "the growth of the urban population in a country over time",
+          "the temporary visit of tourists to other countries and states"
         ],
         "explanation": "The UN defines it as geographical mobility of population between geographical units, generally involving a permanent change of residence."
       },
       "ta": {
         "q": "இடம்பெயர்தல் என்பது பொதுவாக ______ என வரையறுக்கப்படுகிறது.",
         "options": [
-          "ஒருவர் அல்லது ஒரு குழு குறிப்பிடத்தக்க தொலைவுக்கு நிரந்தரமாக அல்லது பகுதிநிரந்தரமாக வசிப்பிடத்தை மாற்றுதல்",
-          "ஒரு நகருக்குள் தொழிலாளர்களின் அன்றாடப் பயணம்",
-          "நகர்ப்புற மக்கள்தொகை வளர்ச்சி",
-          "சுற்றுலாப் பயணிகளின் தற்காலிக வருகை"
+          "குறிப்பிடத்தக்க தொலைவுக்கு நிரந்தரமாக அல்லது பகுதிநிரந்தரமாக வசிப்பிடத்தை மாற்றுதல்",
+          "ஒரு நகருக்குள் தொழிலாளர், மாணவர்களின் அன்றாடப் பயணம்",
+          "ஒரு நாட்டின் நகர்ப்புற மக்கள்தொகை காலப்போக்கில் வளர்தல்",
+          "பிற மாநிலங்கள், நாடுகளுக்குச் சுற்றுலாப் பயணிகளின் தற்காலிக வருகை"
         ],
         "explanation": "ஐ.நா. இதை நிலப்பகுதிகளுக்கிடையே மக்கள் நகர்வு, பொதுவாக நிரந்தர வசிப்பிட மாற்றம் என்கிறது."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "Which of the following are natural (ecological) causes of migration?",
         "options": [
-          "Marriage and pilgrimage",
-          "Wars and government policies",
+          "Marriage and religious pilgrimage",
+          "Wars and unfavourable government policies",
           "Volcanic eruption, earthquake, flood and drought",
-          "Unemployment and poverty"
+          "Unemployment, poverty and low wages"
         ],
         "explanation": "Availability of water resources and areas free from hazards attract migrants."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் இயற்கை (சூழலியல்) இடம்பெயர்வுக் காரணங்கள் எவை?",
         "options": [
-          "திருமணம், புனிதப் பயணம்",
-          "போர்கள், அரசின் கொள்கைகள்",
+          "திருமணம், சமயப் புனிதப் பயணம்",
+          "போர்கள், சாதகமற்ற அரசின் கொள்கைகள்",
           "எரிமலை வெடிப்பு, நிலநடுக்கம், வெள்ளம், வறட்சி",
-          "வேலையின்மை, வறுமை"
+          "வேலையின்மை, வறுமை, குறைந்த ஊதியம்"
         ],
         "explanation": "நீர்வளம், இடர்கள் இல்லாத பகுதிகள் புலம்பெயர்வோரை ஈர்க்கின்றன."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Urbanisation refers to the process in which there is ______.",
         "options": [
-          "an increase in agricultural land",
-          "a decrease in the number of towns",
-          "a movement of people to forests",
-          "an increase in the proportion of population living in towns and cities"
+          "an increase in the amount of agricultural land",
+          "a decrease in the number of towns and cities",
+          "a movement of people from towns to forests",
+          "a rise in the proportion of people living in towns and cities"
         ],
         "explanation": "It is driven by natural growth, rural to urban migration and reclassification of rural areas."
       },
       "ta": {
         "q": "நகரமயமாதல் என்பது ______ செயல்முறை.",
         "options": [
-          "வேளாண் நிலம் அதிகரிக்கும்",
-          "நகரங்களின் எண்ணிக்கை குறையும்",
-          "மக்கள் காடுகளுக்குச் செல்லும்",
-          "நகரங்களிலும் பேரூர்களிலும் வாழும் மக்கள்தொகையின் விகிதம் அதிகரிக்கும்"
+          "வேளாண் நிலத்தின் பரப்பு அதிகரிக்கும்",
+          "நகரங்கள், பேரூர்களின் எண்ணிக்கை குறையும்",
+          "மக்கள் நகரங்களிலிருந்து காடுகளுக்குச் செல்லும்",
+          "நகரங்களில் வாழும் மக்கள்தொகை விகிதம் அதிகரிக்கும்"
         ],
         "explanation": "இயற்கை வளர்ச்சி, கிராம-நகர இடம்பெயர்வு, கிராமங்கள் நகரங்களாக மறுவகைப்படுத்தப்படுதல் இதற்குக் காரணங்கள்."
       }

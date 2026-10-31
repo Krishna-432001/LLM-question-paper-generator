@@ -217,20 +217,20 @@
       "en": {
         "q": "The most common tree in Australia, which can withstand long periods of drought, is ______.",
         "options": [
-          "Eucalyptus",
-          "Baobab",
-          "Teak",
-          "Pine"
+          "Eucalyptus tree",
+          "Baobab tree",
+          "Teak tree",
+          "Pine tree"
         ],
         "explanation": "Acacia and Melaleuca are other major trees."
       },
       "ta": {
         "q": "நீண்ட வறட்சியைத் தாங்கக்கூடிய, ஆஸ்திரேலியாவில் மிகப் பொதுவான மரம் ______.",
         "options": [
-          "யூகலிப்டஸ்",
-          "பாவோபாப்",
-          "தேக்கு",
-          "பைன்"
+          "யூகலிப்டஸ் மரம்",
+          "பாவோபாப் மரம்",
+          "தேக்கு மரம்",
+          "பைன் மரம்"
         ],
         "explanation": "அகேசியா, மெலலூக்காவும் முக்கிய மரங்கள்."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "The first Indian scientific research station in Antarctica is ______.",
         "options": [
-          "Bharathi",
-          "Maitri",
+          "Bharathi Station",
+          "Maitri Station",
           "Dakshin Gangotri",
-          "McMurdo"
+          "McMurdo Station"
         ],
         "explanation": "It was set up in 1983 by the third Indian expedition."
       },
       "ta": {
         "q": "அண்டார்டிகாவில் இந்தியாவின் முதல் அறிவியல் ஆராய்ச்சி நிலையம் ______.",
         "options": [
-          "பாரதி",
-          "மைத்ரி",
+          "பாரதி நிலையம்",
+          "மைத்ரி நிலையம்",
           "தட்சிண கங்கோத்ரி",
-          "மெக்முர்டோ"
+          "மெக்முர்டோ நிலையம்"
         ],
         "explanation": "மூன்றாவது இந்தியப் பயணக்குழுவால் 1983இல் அமைக்கப்பட்டது."
       }
@@ -430,10 +430,10 @@
       "ta": {
         "q": "ஆப்பிரிக்கா ஏன் 'அன்னைக் கண்டம்' எனப்படுகிறது?",
         "options": [
-          "மிகப் பெரிய கண்டம் என்பதால்",
-          "மிக ஈரமான கண்டம் என்பதால்",
+          "உலகின் மிகப் பெரிய கண்டம் என்பதால்",
+          "உலகின் மிக ஈரமான கண்டம் என்பதால்",
           "உலகில் அதிக நாடுகளைக் கொண்டுள்ளதால்",
-          "புவியின் மிகப் பழமையான மக்கள் வாழிடக் கண்டம் என்பதால்"
+          "புவியின் மிகப் பழமையான மக்கள் வாழ்கண்டம் என்பதால்"
         ],
         "explanation": "ஆதி மனித மூதாதையர் 5 மில்லியன் ஆண்டுகளுக்கு மேலாக ஆப்பிரிக்காவில் வாழ்ந்தனர்."
       }
@@ -507,9 +507,9 @@
       "en": {
         "q": "Antarctica is called the 'white continent' because ______.",
         "options": [
-          "it has white sandy deserts",
-          "it is covered with white marble",
-          "it has a permanent cover of ice, in some places 4,000 m deep",
+          "it has large white sandy deserts all over",
+          "it is covered with thick white marble rocks",
+          "it is covered all over with permanent ice",
           "it receives snowfall only in winter"
         ],
         "explanation": "It is the coldest continent and has no native population."
@@ -519,7 +519,7 @@
         "options": [
           "வெண் மணல் பாலைவனங்கள் உள்ளதால்",
           "வெண் பளிங்கால் மூடப்பட்டுள்ளதால்",
-          "நிரந்தரப் பனிப்போர்வை (சில இடங்களில் 4,000 மீ ஆழம்) உள்ளதால்",
+          "நிரந்தரப் பனிப்போர்வை உள்ளதால்",
           "குளிர்காலத்தில் மட்டுமே பனி பொழிவதால்"
         ],
         "explanation": "இது மிகக் குளிர்ந்த கண்டம்; பூர்வகுடி மக்கள் இல்லை."
@@ -565,20 +565,20 @@
       "en": {
         "q": "Tropical deserts are located on the western margins of continents because ______.",
         "options": [
-          "westerlies bring heavy rain to the west",
-          "trade winds blowing from east to west shed their moisture on the eastern margins and reach the west dry",
-          "ocean currents are warm there",
-          "the sun is vertical there"
+          "westerlies bring heavy rain to the western margins",
+          "trade winds shed their moisture in the east and reach the west dry",
+          "warm ocean currents flow along those coasts",
+          "the sun is vertically overhead all through the year there"
         ],
         "explanation": "Tropical deserts lie between 20° and 30° north and south of the equator."
       },
       "ta": {
         "q": "வெப்பப் பாலைவனங்கள் கண்டங்களின் மேற்கு விளிம்புகளில் அமையக் காரணம் ______.",
         "options": [
-          "மேலைக் காற்றுகள் மேற்கில் அதிக மழை தருவதால்",
-          "கிழக்கிலிருந்து மேற்கு நோக்கி வீசும் வணிகக் காற்றுகள் கிழக்கு விளிம்பில் ஈரத்தை இழந்து மேற்கை வறண்டு அடைவதால்",
-          "அங்கு வெப்பக் கடல் நீரோட்டங்கள் உள்ளதால்",
-          "அங்கு சூரியன் செங்குத்தாக விழுவதால்"
+          "மேலைக் காற்றுகள் மேற்கு விளிம்புகளில் அதிக மழை தருவதால்",
+          "வணிகக் காற்றுகள் கிழக்கில் ஈரத்தை இழந்து மேற்கை வறண்டு அடைவதால்",
+          "அக்கடற்கரைகளில் வெப்பக் கடல் நீரோட்டங்கள் ஓடுவதால்",
+          "அங்கு ஆண்டு முழுவதும் சூரியன் செங்குத்தாகவே விழுவதால்"
         ],
         "explanation": "வெப்பப் பாலைவனங்கள் நிலநடுக்கோட்டுக்கு வடக்கு, தெற்கில் 20°-30° இடையே அமைந்துள்ளன."
       }
@@ -596,7 +596,7 @@
         "options": [
           "the Nile originates in Egypt",
           "the Nile is the shortest river of Africa",
-          "the Nile is the lifeline of Egypt; without it Egypt would have been a desert",
+          "the Nile is the lifeline of Egypt",
           "the Nile drains into the Atlantic Ocean"
         ],
         "explanation": "The Nile flows northward and drains into the Mediterranean Sea."
@@ -606,7 +606,7 @@
         "options": [
           "நைல் எகிப்தில் உற்பத்தியாவதால்",
           "நைல் ஆப்பிரிக்காவின் மிகச் சிறிய ஆறு என்பதால்",
-          "நைல் எகிப்தின் உயிர்நாடி; அது இல்லையேல் எகிப்து பாலைவனமாகியிருக்கும்",
+          "நைல் எகிப்தின் உயிர்நாடியாக உள்ளது",
           "நைல் அட்லாண்டிக் பெருங்கடலில் கலப்பதால்"
         ],
         "explanation": "நைல் வடக்கு நோக்கிப் பாய்ந்து மத்தியதரைக் கடலில் கலக்கிறது."
@@ -625,7 +625,7 @@
         "options": [
           "it has many universities",
           "it is a country with many research institutes",
-          "scientists of any country are free to conduct experiments and collect data there",
+          "scientists of any country may conduct research there",
           "it has a native scientific community"
         ],
         "explanation": "There is no country and no native population in Antarctica."
@@ -635,7 +635,7 @@
         "options": [
           "அங்கு பல பல்கலைக்கழகங்கள் உள்ளதால்",
           "அது பல ஆராய்ச்சி நிறுவனங்களைக் கொண்ட நாடு என்பதால்",
-          "எந்த நாட்டு அறிவியலாளரும் அங்கு சோதனைகள் செய்யவும் தரவு திரட்டவும் சுதந்திரம் உண்டு",
+          "எந்த நாட்டு அறிவியலாளரும் அங்கு ஆராய்ச்சி செய்யலாம்",
           "அங்கு பூர்வகுடி அறிவியலாளர்கள் உள்ளதால்"
         ],
         "explanation": "அண்டார்டிகாவில் நாடும் பூர்வகுடி மக்களும் இல்லை."
@@ -653,9 +653,9 @@
         "q": "Sahel, meaning 'border or margin', is a semi-arid tropical savanna region lying between ______.",
         "options": [
           "the Kalahari and Namib deserts",
-          "the Atlas Mountains and the Mediterranean",
+          "the Atlas Mountains and the Mediterranean Sea coast",
           "the Congo Basin and the Great Lakes",
-          "the Sahara Desert in the north and the Savanna grassland in the south"
+          "the Sahara in the north and the Savanna in the south"
         ],
         "explanation": "It stretches east-west for 4,000 km and marks the transition between fertile tropical regions and the desert."
       },
@@ -665,7 +665,7 @@
           "கலஹாரி, நமீபியப் பாலைவனங்களுக்கு",
           "அட்லஸ் மலைக்கும் மத்தியதரைக் கடலுக்கும்",
           "காங்கோ வடிநிலத்திற்கும் பெரிய ஏரிகளுக்கும்",
-          "வடக்கில் சஹாரா பாலைவனத்திற்கும் தெற்கில் சவானா புல்வெளிக்கும்"
+          "வடக்கில் சஹாராவுக்கும் தெற்கில் சவானாவுக்கும்"
         ],
         "explanation": "இது கிழக்கு-மேற்காக 4,000 கி.மீ. நீண்டுள்ளது."
       }

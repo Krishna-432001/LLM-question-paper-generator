@@ -198,10 +198,10 @@
       "ta": {
         "q": "உலகக் குடியுரிமைக் கருத்தின்படி அனைவருக்கும் உரிமைகளும் ______ பொறுப்புகளும் உண்டு.",
         "options": [
-          "இராணுவ",
-          "சமய",
+          "சமயம் சார்ந்த",
+          "இராணுவம் சார்ந்த",
           "குடியியல்",
-          "வணிக"
+          "வணிகம் சார்ந்த"
         ],
         "explanation": "எங்கு வாழ்ந்தாலும் அனைவரும் உலகளாவிய சமூகத்தின் பகுதி என்பது உலகக் குடியுரிமைக் கருத்து."
       }
@@ -316,7 +316,7 @@
         "options": [
           "நாட்டினத்தை மாற்றலாம்; குடியுரிமையை மாற்ற இயலாது",
           "நாட்டினம், குடியுரிமை இரண்டையும் சுதந்திரமாக மாற்றலாம்",
-          "நாட்டினத்தை (தேசியத்தை) மாற்ற இயலாது; குடியுரிமையை மாற்றலாம்",
+          "நாட்டினத்தை மாற்ற இயலாது; குடியுரிமையை மாற்றலாம்",
           "இரண்டையும் மாற்ற இயலாது"
         ],
         "explanation": "நாட்டினம் பிறப்பால் அமையும் இன, வழிவந்த கருத்து; குடியுரிமையை அரசு சட்ட நடைமுறைகளைப் பூர்த்தி செய்தால் வழங்கும்."
@@ -401,10 +401,10 @@
       "ta": {
         "q": "குடிமக்கள் எந்த இரு வகைகளாகப் பிரிக்கப்படுகின்றனர்?",
         "options": [
-          "ஒற்றை, இரட்டைக் குடிமக்கள்",
-          "அயலவர், குடியேறி",
-          "வசிக்கும், வசிக்காத குடிமக்கள்",
-          "இயற்கைக் குடிமக்கள், இயல்புக் குடியுரிமை பெற்ற குடிமக்கள்"
+          "ஒற்றைக் குடிமக்கள், இரட்டைக் குடிமக்கள்",
+          "அயலவர் குடிமக்கள், குடியேறிய குடிமக்கள்",
+          "வசிக்கும் குடிமக்கள், வசிக்காத குடிமக்கள்",
+          "இயற்கைக் குடிமக்கள், இயல்புரிமைக் குடிமக்கள்"
         ],
         "explanation": "இயற்கைக் குடிமக்கள் பிறப்பால் குடிமக்கள்; இயல்புக் குடியுரிமை பெற்ற குடிமக்கள் குடியுரிமையைப் பெற்றவர்கள்."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "Which of the following rights is enjoyed only by the citizens of India and not by aliens?",
         "options": [
-          "Right to life",
+          "Right to life and personal liberty",
           "Right to equality before law",
-          "Right to vote in Lok Sabha and State Legislature elections",
-          "Right against exploitation"
+          "Right to vote in Lok Sabha elections",
+          "Right against exploitation of labour"
         ],
         "explanation": "Citizens also have the right to hold certain public offices and to become a Member of Parliament or State Legislature."
       },
       "ta": {
         "q": "பின்வரும் உரிமைகளுள் இந்தியக் குடிமக்களுக்கு மட்டும் உரியதும் அயலவர்களுக்கு இல்லாததும் எது?",
         "options": [
-          "வாழ்வுரிமை",
+          "வாழ்வுரிமை, தனிமனித சுதந்திர உரிமை",
           "சட்டத்தின்முன் சமத்துவம்",
-          "மக்களவை, மாநிலச் சட்டமன்றத் தேர்தல்களில் வாக்களிக்கும் உரிமை",
-          "சுரண்டலுக்கு எதிரான உரிமை"
+          "மக்களவைத் தேர்தலில் வாக்களிக்கும் உரிமை",
+          "உழைப்புச் சுரண்டலுக்கு எதிரான உரிமை"
         ],
         "explanation": "குறிப்பிட்ட பொதுப் பதவிகளை வகிக்கவும் நாடாளுமன்ற, மாநிலச் சட்டமன்ற உறுப்பினராகவும் குடிமக்களுக்கு உரிமை உண்டு."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "Which of the following is a quality of a good citizen mentioned in the lesson?",
         "options": [
-          "Avoiding civic duty",
-          "Ignoring diversity",
-          "Loyalty to the Constitution and obeying laws",
-          "Disrespecting local laws"
+          "Avoiding civic duties whenever possible",
+          "Ignoring the diversity of people",
+          "Loyalty to the Constitution and laws",
+          "Disrespecting the local laws and customs"
         ],
         "explanation": "A good citizen contributes to society, performs civic duty and respects diversity."
       },
       "ta": {
         "q": "பாடத்தில் குறிப்பிடப்படும் நல்ல குடிமகனின் பண்பு எது?",
         "options": [
-          "குடிமைக் கடமைகளைத் தவிர்த்தல்",
-          "பன்முகத்தன்மையைப் புறக்கணித்தல்",
+          "இயன்றவரை குடிமைக் கடமைகளைத் தவிர்த்தல்",
+          "மக்களின் பன்முகத்தன்மையைப் புறக்கணித்தல்",
           "அரசமைப்பிற்கு விசுவாசமும் சட்டங்களுக்குக் கீழ்ப்படிதலும்",
-          "உள்ளூர்ச் சட்டங்களை மதிக்காமை"
+          "உள்ளூர்ச் சட்டங்களையும் வழக்கங்களையும் மதிக்காமை"
         ],
         "explanation": "நல்ல குடிமகன் சமூகத்திற்குப் பங்களித்து, குடிமைக் கடமையாற்றி, பன்முகத்தன்மையை மதிக்கிறார்."
       }
@@ -507,9 +507,9 @@
       "en": {
         "q": "The Indian Citizenship Act, 1955 is an Act to provide for ______.",
         "options": [
-          "the acquisition and termination of Indian citizenship",
-          "the fundamental duties of citizens",
-          "the election of the President",
+          "acquisition and termination of Indian citizenship",
+          "the fundamental duties of the citizens of India",
+          "the election of the President and Vice-President",
           "the rights of overseas Indians only"
         ],
         "explanation": "It prescribes five ways of acquiring citizenship."
@@ -517,9 +517,9 @@
       "ta": {
         "q": "1955ஆம் ஆண்டு இந்தியக் குடியுரிமைச் சட்டம் ______ வகை செய்கிறது.",
         "options": [
-          "இந்தியக் குடியுரிமையைப் பெறுவதற்கும் முடிவுறுவதற்கும்",
-          "குடிமக்களின் அடிப்படைக் கடமைகளுக்கு",
-          "குடியரசுத் தலைவர் தேர்தலுக்கு",
+          "இந்தியக் குடியுரிமையைப் பெறுதல், முடிவுறுதல்",
+          "இந்தியக் குடிமக்களின் அடிப்படைக் கடமைகளுக்கு",
+          "குடியரசுத் தலைவர், துணைத் தலைவர் தேர்தலுக்கு",
           "வெளிநாடு வாழ் இந்தியர் உரிமைகளுக்கு மட்டும்"
         ],
         "explanation": "இது குடியுரிமை பெறும் ஐந்து வழிகளை விதிக்கிறது."

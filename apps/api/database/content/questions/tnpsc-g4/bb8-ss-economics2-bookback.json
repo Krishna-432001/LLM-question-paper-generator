@@ -217,8 +217,8 @@
       "en": {
         "q": "The main function of the private sector is to create ______.",
         "options": [
-          "monopolies",
-          "tax revenue",
+          "monopolies over markets",
+          "tax revenue for the government",
           "public welfare schemes",
           "innovation and modernisation"
         ],
@@ -227,8 +227,8 @@
       "ta": {
         "q": "தனியார் துறையின் முதன்மைப் பணி ______ ஐ உருவாக்குவது.",
         "options": [
-          "முற்றுரிமைகளை",
-          "வரி வருவாயை",
+          "சந்தையில் முற்றுரிமைகளை",
+          "அரசுக்கான வரி வருவாயை",
           "பொது நலத் திட்டங்களை",
           "புத்தாக்கத்தையும் நவீனமயத்தையும்"
         ],
@@ -333,20 +333,20 @@
       "en": {
         "q": "Which of the following is an objective of the public sector?",
         "options": [
-          "To maximise private profit",
-          "To promote balanced regional growth and create employment opportunities",
-          "To concentrate wealth in few hands",
-          "To reduce exports"
+          "To maximise private profit for owners",
+          "To promote balanced regional growth and employment",
+          "To concentrate wealth in the hands of a few",
+          "To reduce exports and foreign trade"
         ],
         "explanation": "Other objectives include promoting redistribution of income and wealth and export promotion and import substitution."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் பொதுத்துறையின் நோக்கம் எது?",
         "options": [
-          "தனியார் இலாபத்தை அதிகரித்தல்",
-          "சமச்சீர் பிராந்திய வளர்ச்சியை ஊக்குவித்தல், வேலைவாய்ப்பை உருவாக்குதல்",
-          "செல்வத்தைச் சிலரிடம் குவித்தல்",
-          "ஏற்றுமதியைக் குறைத்தல்"
+          "உரிமையாளர்களுக்குத் தனியார் இலாபத்தை அதிகரித்தல்",
+          "சமச்சீர் பிராந்திய வளர்ச்சியையும் வேலைவாய்ப்பையும் ஊக்குவித்தல்",
+          "செல்வத்தைச் சிலரின் கைகளில் குவித்தல்",
+          "ஏற்றுமதியையும் வெளிநாட்டு வணிகத்தையும் குறைத்தல்"
         ],
         "explanation": "வருவாய், செல்வ மறுபகிர்வு, ஏற்றுமதி ஊக்குவிப்பு, இறக்குமதிக்கு மாற்று ஆகியவையும் நோக்கங்கள்."
       }
@@ -365,7 +365,7 @@
           "Sole proprietorship",
           "Joint Hindu family",
           "Partnership",
-          "Public corporation (e.g. LIC, RBI, FCI)"
+          "Public corporation"
         ],
         "explanation": "The three organs are departmental undertakings, joint sector companies and public corporations."
       },
@@ -375,7 +375,7 @@
           "தனியுரிமை நிறுவனம்",
           "இந்து கூட்டுக் குடும்பம்",
           "கூட்டாண்மை நிறுவனம்",
-          "பொதுக் கழகம் (எ.கா. LIC, ரிசர்வ் வங்கி, இந்திய உணவுக் கழகம்)"
+          "பொதுக் கழகம்"
         ],
         "explanation": "அரசுத் துறைப் பணி, கூட்டுத்துறை நிறுவனங்கள், பொதுக் கழகங்கள் ஆகியவை மூன்று அங்கங்கள்."
       }
@@ -391,20 +391,20 @@
       "en": {
         "q": "Which of the following are indicators that measure socio-economic development?",
         "options": [
-          "Number of banks only",
-          "Black money and tax evasion",
-          "GDP, life expectancy, literacy and employment",
-          "Number of tourists only"
+          "Number of banks in a country only",
+          "Black money and tax evasion levels",
+          "GDP, life expectancy and literacy rate",
+          "Number of foreign tourists only"
         ],
         "explanation": "Socio-economic development is measured with indicators."
       },
       "ta": {
         "q": "சமூகப் பொருளாதார மேம்பாட்டை அளக்கும் குறியீடுகள் எவை?",
         "options": [
-          "வங்கிகளின் எண்ணிக்கை மட்டும்",
-          "கருப்புப் பணம், வரி ஏய்ப்பு",
-          "GDP, ஆயுள் எதிர்பார்ப்பு, கல்வியறிவு, வேலைவாய்ப்பு",
-          "சுற்றுலாப் பயணிகளின் எண்ணிக்கை மட்டும்"
+          "நாட்டிலுள்ள வங்கிகளின் எண்ணிக்கை மட்டும்",
+          "கருப்புப் பணம், வரி ஏய்ப்பு அளவு",
+          "GDP, ஆயுள் எதிர்பார்ப்பு, கல்வியறிவு",
+          "வெளிநாட்டுச் சுற்றுலாப் பயணிகள் எண்ணிக்கை மட்டும்"
         ],
         "explanation": "இக்குறியீடுகளால் சமூகப் பொருளாதார மேம்பாடு அளவிடப்படுகிறது."
       }

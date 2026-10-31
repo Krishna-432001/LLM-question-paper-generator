@@ -72,10 +72,10 @@
       "en": {
         "q": "The earth receives energy from the sun through ______.",
         "options": [
-          "conduction",
-          "ocean currents",
-          "sound waves",
-          "electromagnetic radiation"
+          "conduction through solid matter",
+          "warm ocean currents",
+          "sound waves in air",
+          "electromagnetic waves"
         ],
         "explanation": "The earth and its atmosphere get heated from the sun through insolation."
       },
@@ -85,7 +85,7 @@
           "வெப்பக் கடத்தல்",
           "நீரோட்டங்கள்",
           "ஒலி அலைகள்",
-          "மின்காந்த அலைகள் (கதிர்வீச்சு)"
+          "மின்காந்த அலைகள்"
         ],
         "explanation": "சூரியக்கதிர் வீசல் மூலம் புவியும் வளிமண்டலமும் வெப்பமடைகின்றன."
       }
@@ -114,7 +114,7 @@
           "சமவெப்பக் கோடு",
           "சம சூரிய வெளிச்சக் கோடு",
           "சம காற்றழுத்தக் கோடு",
-          "சம மழையளவுக் கோடு (ஐசோஹைட்ஸ்)"
+          "சம மழையளவுக் கோடு"
         ],
         "explanation": "சமவெப்பக் கோடு சம வெப்பநிலையையும், சம சூரிய வெளிச்சக் கோடு சம சூரிய ஒளியையும், சமபாரக் கோடு சம காற்றழுத்தத்தையும் இணைக்கும்."
       }
@@ -287,7 +287,7 @@
         "options": [
           "அழுத்தமானி, ஈரநிலைமானி",
           "காற்றுத் திசைகாட்டி, காற்றுமானி",
-          "காற்றுமானி (அனிமோமீட்டர்), காற்றுத் திசைகாட்டி",
+          "காற்றுமானி, காற்றுத் திசைகாட்டி",
           "மழைமானி, வெப்பமானி"
         ],
         "explanation": "காற்றுத் திசைகாட்டி (வேன்) திசையைக் காட்டும்; காற்றுமானி வேகத்தை அளக்கும்."
@@ -478,19 +478,19 @@
       "en": {
         "q": "The weight of air above a given area on the earth's surface is called ______.",
         "options": [
-          "humidity",
-          "wind",
-          "insolation",
-          "atmospheric (air) pressure"
+          "relative humidity",
+          "wind speed",
+          "solar insolation",
+          "atmospheric pressure"
         ],
         "explanation": "The standard air pressure at sea level is 1013.25 mb."
       },
       "ta": {
         "q": "புவிப்பரப்பில் குறிப்பிட்ட பகுதியின் மேலுள்ள காற்றின் எடை ______ எனப்படும்.",
         "options": [
-          "ஈரப்பதம்",
-          "காற்று",
-          "வெயிற்காய்வு",
+          "ஒப்பு ஈரப்பதம்",
+          "காற்றின் வேகம்",
+          "சூரிய வெயிற்காய்வு",
           "வளிமண்டலக் காற்றழுத்தம்"
         ],
         "explanation": "கடல்மட்டத்தில் நிலையான காற்றழுத்தம் 1013.25 மில்லிபார்."
@@ -507,20 +507,20 @@
       "en": {
         "q": "Which of the following are planetary (permanent) winds?",
         "options": [
-          "Monsoon winds",
-          "Land and sea breezes",
-          "Trade winds, westerlies and polar easterlies",
-          "Loo and Mistral"
+          "Monsoon winds and cyclones",
+          "Land and sea breezes along coasts",
+          "Trade winds, westerlies, polar easterlies",
+          "Loo, Mistral and Chinook"
         ],
         "explanation": "Monsoons are seasonal winds; land and sea breezes are local winds."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் கோள் (நிரந்தரக்) காற்றுகள் எவை?",
         "options": [
-          "பருவக் காற்றுகள்",
-          "நிலக்காற்று, கடற்காற்று",
-          "வணிகக் காற்று, மேலைக் காற்று, துருவக் கீழைக் காற்று",
-          "லூ, மிஸ்ட்ரல்"
+          "பருவக் காற்றுகள், சூறாவளிகள்",
+          "கடலோரங்களில் வீசும் நிலக்காற்று, கடற்காற்று",
+          "வணிகக் காற்று, மேலைக் காற்று, துருவக் காற்று",
+          "லூ, மிஸ்ட்ரல், சினூக்"
         ],
         "explanation": "பருவக்காற்றுகள் பருவகாலக் காற்றுகள்; நிலக்காற்று, கடற்காற்று உள்ளூர்க் காற்றுகள்."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Why do mountain climbers carry oxygen cylinders while ascending high peaks?",
         "options": [
-          "Wind speed is very low at high altitudes",
-          "With decreasing air pressure, the availability of oxygen decreases at high altitudes",
-          "Humidity is 100 per cent at the summits",
-          "Temperature rises with altitude"
+          "Wind speed is always very low at high altitudes",
+          "Falling air pressure with height reduces the oxygen available",
+          "Humidity is always 100 per cent at the summits",
+          "Temperature rises steadily with increasing altitude"
         ],
         "explanation": "At very high altitudes people can become sick and even die without oxygen."
       },
       "ta": {
         "q": "மலையேறுபவர்கள் உயரமான சிகரங்களில் ஏறும்போது ஏன் ஆக்சிஜன் உருளைகளை எடுத்துச் செல்கின்றனர்?",
         "options": [
-          "உயரத்தில் காற்றின் வேகம் மிகக் குறைவு",
-          "உயரம் கூடக் காற்றழுத்தம் குறைவதால் ஆக்சிஜன் கிடைப்பதும் குறைகிறது",
-          "சிகரங்களில் ஈரப்பதம் 100% ஆக இருக்கும்",
-          "உயரத்துடன் வெப்பநிலை உயரும்"
+          "உயரத்தில் காற்றின் வேகம் எப்போதும் மிகக் குறைவு",
+          "உயரத்தில் காற்றழுத்தம் குறைவதால் ஆக்சிஜன் குறைகிறது",
+          "சிகரங்களில் ஈரப்பதம் எப்போதும் 100% ஆக இருக்கும்",
+          "உயரம் கூடக்கூட வெப்பநிலை சீராக உயரும்"
         ],
         "explanation": "மிக உயரத்தில் ஆக்சிஜன் இன்றி மக்கள் நோயுற்று இறக்கவும் கூடும்."
       }

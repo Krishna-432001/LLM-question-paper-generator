@@ -14,20 +14,20 @@
       "en": {
         "q": "Which metals were used for metallic money?",
         "options": [
-          "Gold only",
-          "Silver only",
-          "Iron only",
-          "Gold, silver and bronze (all of these)"
+          "Gold alone and no other metal",
+          "Silver alone and no other metal",
+          "Iron alone and no other metal",
+          "Gold, silver and bronze"
         ],
         "explanation": "Precious metals, especially gold, silver and bronze, with a standard weight and a seal became the medium of exchange."
       },
       "ta": {
         "q": "உலோகப் பணத்திற்குப் பயன்படுத்தப்பட்ட உலோகங்கள் எவை?",
         "options": [
-          "தங்கம் மட்டும்",
-          "வெள்ளி மட்டும்",
-          "இரும்பு மட்டும்",
-          "தங்கம், வெள்ளி, வெண்கலம் (இவை அனைத்தும்)"
+          "தங்கம் மட்டுமே, வேறு உலோகம் இல்லை",
+          "வெள்ளி மட்டுமே, வேறு உலோகம் இல்லை",
+          "இரும்பு மட்டுமே, வேறு உலோகம் இல்லை",
+          "தங்கம், வெள்ளி, வெண்கலம்"
         ],
         "explanation": "தரமான எடையும் முத்திரையும் கொண்ட தங்கம், வெள்ளி, வெண்கலம் பரிவர்த்தனைச் சாதனமாயின."
       }
@@ -43,20 +43,20 @@
       "en": {
         "q": "The symbol of the Indian rupee was designed by ______.",
         "options": [
-          "Amartya Sen",
-          "Udayakumar of Villupuram district, Tamil Nadu",
-          "Abhijit Banerjee",
-          "Raghuram Rajan"
+          "Dr. Amartya Sen",
+          "Udayakumar of Tamil Nadu",
+          "Dr. Abhijit Banerjee",
+          "Dr. Raghuram Rajan"
         ],
         "explanation": "It was approved by the Government of India on 15 July 2010."
       },
       "ta": {
         "q": "இந்திய ரூபாய் குறியீட்டை வடிவமைத்தவர் ______.",
         "options": [
-          "அமர்த்தியா சென்",
-          "தமிழ்நாட்டின் விழுப்புரம் மாவட்டத்தைச் சேர்ந்த உதயகுமார்",
-          "அபிஜித் பானர்ஜி",
-          "ரகுராம் ராஜன்"
+          "டாக்டர் அமர்த்தியா சென்",
+          "தமிழ்நாட்டைச் சேர்ந்த உதயகுமார்",
+          "டாக்டர் அபிஜித் பானர்ஜி",
+          "டாக்டர் ரகுராம் ராஜன்"
         ],
         "explanation": "இது 2010 ஜூலை 15இல் இந்திய அரசால் ஏற்கப்பட்டது."
       }
@@ -72,9 +72,9 @@
       "en": {
         "q": "The value of money is of ______.",
         "options": [
-          "no types",
+          "no separate types at all",
           "only one type: internal value",
-          "three types",
+          "three types: internal, external and social value",
           "two types: internal value and external value"
         ],
         "explanation": "Internal value is purchasing power over domestic goods and services; external value is over foreign goods and services."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "பணத்தின் மதிப்பு ______.",
         "options": [
-          "வகைகள் இல்லை",
-          "அகமதிப்பு எனும் ஒரே வகை",
-          "மூன்று வகை",
+          "தனித்தனி வகைகளே இல்லை",
+          "அகமதிப்பு என்ற ஒரே ஒரு வகை மட்டும்",
+          "அகமதிப்பு, புறமதிப்பு, சமூகமதிப்பு என மூன்று வகை",
           "அகமதிப்பு, புறமதிப்பு என இரண்டு வகைப்படும்"
         ],
         "explanation": "அகமதிப்பு உள்நாட்டுப் பொருள்கள், சேவைகள் மீதான வாங்கும் சக்தி; புறமதிப்பு வெளிநாட்டுப் பொருள்கள், சேவைகள் மீதானது."
@@ -159,20 +159,20 @@
       "en": {
         "q": "Who are responsible for the accumulation of black money?",
         "options": [
-          "Tax evaders, hoarders and smugglers (all of these)",
-          "Smugglers only",
-          "Tax evaders only",
-          "Bank officers only"
+          "Tax evaders, hoarders, smugglers",
+          "Smugglers alone and nobody else",
+          "Tax evaders alone and nobody else",
+          "Bank officers alone and nobody else"
         ],
         "explanation": "Black money is also accumulated by criminals and other anti-social elements."
       },
       "ta": {
         "q": "கருப்புப் பணம் சேர்வதற்குப் பொறுப்பானவர்கள் யார்?",
         "options": [
-          "வரி ஏய்ப்போர், பதுக்கல்காரர்கள், கடத்தல்காரர்கள் (அனைவரும்)",
-          "கடத்தல்காரர்கள் மட்டும்",
-          "வரி ஏய்ப்போர் மட்டும்",
-          "வங்கி அலுவலர்கள் மட்டும்"
+          "வரி ஏய்ப்போர், பதுக்கல்காரர்கள், கடத்தல்காரர்கள்",
+          "கடத்தல்காரர்கள் மட்டுமே, வேறு எவரும் அல்ல",
+          "வரி ஏய்ப்போர் மட்டுமே, வேறு எவரும் அல்ல",
+          "வங்கி அலுவலர்கள் மட்டுமே, வேறு எவரும் அல்ல"
         ],
         "explanation": "குற்றவாளிகள், சமூகவிரோதிகளும் கருப்புப் பணம் சேர்க்கின்றனர்."
       }
@@ -188,7 +188,7 @@
       "en": {
         "q": "Online Banking is also known as ______.",
         "options": [
-          "Internet banking (net banking)",
+          "Internet banking",
           "Barter banking",
           "Cheque banking",
           "Plastic money"
@@ -198,7 +198,7 @@
       "ta": {
         "q": "இணையவழி வங்கிச் சேவை (Online Banking) ______ எனவும் அழைக்கப்படுகிறது.",
         "options": [
-          "இணைய வங்கிச் சேவை (நெட் பேங்கிங்)",
+          "இணைய வங்கிச் சேவை",
           "பண்டமாற்று வங்கி",
           "காசோலை வங்கி",
           "நெகிழிப் பணம்"
@@ -230,7 +230,7 @@
           "அரசு அச்சிடுவதே",
           "பண்டமாற்றே",
           "வங்கிகள் வைத்திருப்பதே",
-          "பணம் செய்வதே (பணம் செய்யும் பணிகளால் வரையறுக்கப்படுவது)"
+          "பணம் செய்வதே"
         ],
         "explanation": "பணத்தின் பணிகளால் அது வரையறுக்கப்படுகிறது."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "Which nationwide system is used in India to transfer funds electronically from one bank account to another, instead of by cheque or cash?",
         "options": [
-          "Barter exchange",
-          "Treasury transfer",
-          "National Electronic Funds Transfer (NEFT)",
-          "Credit money"
+          "Barter exchange between traders",
+          "Treasury bill auction system",
+          "National Electronic Funds Transfer",
+          "Credit money creation system"
         ],
         "explanation": "NEFT (National Electronic Funds Transfer) is one of the e-banking services."
       },
       "ta": {
         "q": "காசோலை அல்லது பணத்திற்குப் பதிலாக ஒரு வங்கிக் கணக்கிலிருந்து மற்றொன்றுக்கு மின்னணு வழியில் நிதியை அனுப்ப இந்தியாவில் பயன்படும் நாடுதழுவிய முறை எது?",
         "options": [
-          "பண்டமாற்று முறை",
-          "கருவூலப் பரிமாற்றம்",
-          "தேசிய மின்னணு நிதிப் பரிமாற்றம் (NEFT)",
-          "கடன் பணம்"
+          "வணிகர்களுக்கிடையேயான பண்டமாற்று முறை",
+          "கருவூலப் பத்திர ஏல முறை",
+          "தேசிய மின்னணு நிதிப் பரிமாற்றம்",
+          "கடன் பணம் உருவாக்கும் முறை"
         ],
         "explanation": "NEFT என்பது மின்னணு வங்கிச் சேவைகளுள் ஒன்று."
       }
@@ -285,7 +285,7 @@
       "ta": {
         "q": "கடன் அட்டைகளும் பற்று அட்டைகளும் ______ பணம் எனப்படுகின்றன.",
         "options": [
-          "நெகிழி (பிளாஸ்டிக்)",
+          "நெகிழி",
           "உலோகப்",
           "பண்டப்",
           "காகிதப்"
@@ -363,7 +363,7 @@
         "q": "The word 'Money' is derived from the Roman word ______.",
         "options": [
           "Rupya",
-          "Moneta Juno",
+          "Moneta",
           "Tanka",
           "Jittal"
         ],
@@ -373,7 +373,7 @@
         "q": "'மணி' (Money) என்ற சொல் ரோமானியச் சொல் ______ என்பதிலிருந்து பெறப்பட்டது.",
         "options": [
           "ரூப்யா",
-          "மொனெட்டா ஜுனோ",
+          "மொனெட்டா",
           "டங்கா",
           "ஜிட்டல்"
         ],
@@ -507,8 +507,8 @@
       "en": {
         "q": "The barter system is ______.",
         "options": [
-          "exchanging goods for gold coins",
-          "exchanging goods for goods without the use of money",
+          "exchanging goods for gold and silver coins",
+          "exchanging goods for goods without money",
           "buying goods on credit",
           "paying through cheques"
         ],
@@ -517,8 +517,8 @@
       "ta": {
         "q": "பண்டமாற்று முறை என்பது ______.",
         "options": [
-          "பொருளைத் தங்க நாணயத்திற்கு மாற்றுவது",
-          "பணமின்றிப் பொருளுக்குப் பொருளைப் பரிமாறிக்கொள்வது",
+          "பொருளைத் தங்க, வெள்ளி நாணயங்களுக்கு மாற்றுவது",
+          "பணமின்றிப் பொருளைப் பொருளுடன் மாற்றுவது",
           "கடனுக்குப் பொருள் வாங்குவது",
           "காசோலை மூலம் செலுத்துவது"
         ],
@@ -565,20 +565,20 @@
       "en": {
         "q": "Black money is ______.",
         "options": [
-          "money kept in a savings account",
-          "money printed by the central bank",
+          "money kept in a savings account of a bank",
+          "money printed by the central bank of the country",
           "money earned by lawful work and taxed",
-          "income earned in the black market on which income and other taxes have not been paid"
+          "income earned in the black market on which taxes are not paid"
         ],
         "explanation": "It is a form of unaccountable money created for the purpose of tax evasion."
       },
       "ta": {
         "q": "கருப்புப் பணம் என்பது ______.",
         "options": [
-          "சேமிப்புக் கணக்கில் உள்ள பணம்",
+          "வங்கிச் சேமிப்புக் கணக்கில் வைக்கப்பட்டுள்ள பணம்",
           "மத்திய வங்கி அச்சிட்ட பணம்",
           "நேர்மையாக ஈட்டி வரி செலுத்திய பணம்",
-          "கள்ளச்சந்தையில் ஈட்டி வருமான வரி உள்ளிட்ட வரிகள் செலுத்தப்படாத பணம்"
+          "கள்ளச்சந்தையில் ஈட்டி வரி செலுத்தப்படாத வருமானம்"
         ],
         "explanation": "வரி ஏய்ப்பிற்காக உருவாகும் கணக்கில் வராத பணம் இது."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "Which of the following is correct about savings and investments?",
         "options": [
-          "Savings carry very high risk",
-          "Investments are highly liquid with no risk",
-          "Savings carry low or negligible risk and are highly liquid, while investments carry high risk and are less liquid",
-          "Savings and investments carry equal risk"
+          "Savings carry very high risk and are never liquid",
+          "Investments are highly liquid and carry no risk at all",
+          "Savings carry low risk and are liquid; investments carry high risk and are less liquid",
+          "Savings and investments carry exactly equal risk and the same liquidity"
         ],
         "explanation": "Investment is made to provide returns and help in capital formation."
       },
       "ta": {
         "q": "சேமிப்பு, முதலீடு பற்றிய சரியான கூற்று எது?",
         "options": [
-          "சேமிப்பில் இடர் மிக அதிகம்",
-          "முதலீடு எளிதில் பணமாகும், இடரற்றது",
-          "சேமிப்பில் இடர் குறைவு, எளிதில் பணமாக்கலாம்; முதலீட்டில் இடர் அதிகம், பணமாக்குவது குறைவு",
-          "சேமிப்பிலும் முதலீட்டிலும் இடர் சமம்"
+          "சேமிப்பில் இடர் மிக அதிகம், ஒருபோதும் பணமாகாது",
+          "முதலீடு எளிதில் பணமாகும், இடரே இல்லை",
+          "சேமிப்பில் இடர் குறைவு, எளிதில் பணமாகும்; முதலீட்டில் இடர் அதிகம், குறைவாகப் பணமாகும்",
+          "சேமிப்பிலும் முதலீட்டிலும் இடரும் எளிதில் பணமாகும் தன்மையும் முற்றிலும் சமம்"
         ],
         "explanation": "வருவாய் ஈட்டவும் மூலதனத் திரட்டலுக்கு உதவவும் முதலீடு செய்யப்படுகிறது."
       }

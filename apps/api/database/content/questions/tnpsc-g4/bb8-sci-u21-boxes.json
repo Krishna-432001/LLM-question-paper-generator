@@ -101,19 +101,19 @@
       "en": {
         "q": "Levelling of the field helps in ______.",
         "options": [
-          "killing weeds",
-          "storing grains",
-          "harvesting",
-          "uniform distribution of water during irrigation"
+          "killing the weeds present in the field",
+          "storing the harvested grains safely",
+          "harvesting the crop with machines",
+          "even spreading of water during irrigation"
         ],
         "explanation": "It is done with a leveller, a heavy wooden or iron plank."
       },
       "ta": {
         "q": "வயலைச் சமப்படுத்துவது ______ உதவுகிறது.",
         "options": [
-          "களைகளைக் கொல்ல",
-          "தானியங்களைச் சேமிக்க",
-          "அறுவடை செய்ய",
+          "வயலிலுள்ள களைகளைக் கொல்ல",
+          "அறுவடை செய்த தானியங்களைச் சேமிக்க",
+          "இயந்திரங்களால் பயிரை அறுவடை செய்ய",
           "நீர்ப்பாசனத்தின்போது நீர் சீராகப் பரவ"
         ],
         "explanation": "இது கனமான மரத்தாலான அல்லது இரும்புப் பலகையான சமப்படுத்தியால் செய்யப்படுகிறது."
@@ -141,7 +141,7 @@
         "q": "விதைகள் சம இடைவெளியிலும் சரியான ஆழத்திலும் இடப்படுவதை உறுதி செய்யும் முறை எது?",
         "options": [
           "கையால் விதைத்தல்",
-          "விதைப்புக் கருவி (சீட் டிரில்)",
+          "விதைப்புக் கருவி",
           "குழி விதைப்பு",
           "வீசி விதைத்தல்"
         ],
@@ -201,7 +201,7 @@
           "உவர்த்தன்மை",
           "துளைத்தன்மை",
           "அரிப்பு",
-          "வளம் (மண்வளம்)"
+          "வளம்"
         ],
         "explanation": "கரிம எருக்களைத் தொடர்ந்து இடுவது மண்வளத்தைப் பேண உதவுகிறது."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "The oldest and most efficient method of controlling weeds is ______.",
         "options": [
-          "using herbicides",
-          "biological control",
-          "summer tillage",
-          "hand pulling or weeding with a weeding hoe"
+          "spraying chemical herbicides",
+          "biological control using insects",
+          "deep summer ploughing of the field",
+          "hand weeding with a weeding hoe"
         ],
         "explanation": "Herbicides are the chemicals used to kill weeds."
       },
       "ta": {
         "q": "களைகளைக் கட்டுப்படுத்தும் மிகப் பழமையான, திறன்மிக்க முறை ______.",
         "options": [
-          "களைக்கொல்லிகளைப் பயன்படுத்துதல்",
-          "உயிரியல் கட்டுப்பாடு",
-          "கோடை உழவு",
-          "கையால் பிடுங்குதல் அல்லது களைக்கொத்தால் களையெடுத்தல்"
+          "இரசாயனக் களைக்கொல்லி தெளித்தல்",
+          "பூச்சிகளைக் கொண்டு உயிரியல் கட்டுப்பாடு",
+          "கோடையில் வயலை ஆழமாக உழுதல்",
+          "கையால் அல்லது களைக்கொத்தால் களையெடுத்தல்"
         ],
         "explanation": "களைக்கொல்லிகள் களைகளைக் கொல்லும் வேதிப்பொருள்கள்."
       }
@@ -547,9 +547,9 @@
         "q": "பாரம்பரிய விதைகள் பொதுவாக ______ தாவரங்களிலிருந்து உருவாக்கப்படுகின்றன.",
         "options": [
           "மரபணு மாற்றப்பட்ட",
-          "கலப்பினத்",
+          "அதிக விளைச்சல் தரும் கலப்பினத்",
           "திறந்த மகரந்தச்சேர்க்கைத்",
-          "தன்மலட்டுத்"
+          "தன்மலட்டுத் தன்மையுள்ள"
         ],
         "explanation": "பாரம்பரிய விதைகள் இயற்கை (ஆர்கானிக்) விதைகள் எனவும் அழைக்கப்படுகின்றன."
       }
@@ -623,9 +623,9 @@
       "en": {
         "q": "In foliar feeding, plants absorb essential elements through the ______ in their leaves.",
         "options": [
-          "flowers",
-          "roots",
-          "xylem",
+          "flower petals",
+          "root hairs",
+          "xylem vessels",
           "stomata"
         ],
         "explanation": "Total absorption takes place through the epidermis."
@@ -633,10 +633,10 @@
       "ta": {
         "q": "இலைவழி ஊட்டத்தில் தாவரங்கள் இலைகளிலுள்ள ______ வழியாக இன்றியமையாத தனிமங்களை உறிஞ்சுகின்றன.",
         "options": [
-          "மலர்கள்",
-          "வேர்கள்",
-          "சைலம்",
-          "இலைத்துளைகள் (ஸ்டொமேட்டா)"
+          "மலர் இதழ்கள்",
+          "வேர்த்தூவிகள்",
+          "சைலக் குழாய்கள்",
+          "இலைத்துளைகள்"
         ],
         "explanation": "முழு உறிஞ்சுதலும் புறத்தோல் வழியாக நிகழ்கிறது."
       }
@@ -712,7 +712,7 @@
         "options": [
           "winnowing",
           "fumigation",
-          "bio-control (biological control)",
+          "bio-control",
           "foliar feeding"
         ],
         "explanation": "Bio-predators, bio-pesticides, bio-repellents and bio-fertilizers are used for this."
@@ -720,8 +720,8 @@
       "ta": {
         "q": "பூச்சிகள், சிலந்திகள், களைகள், தாவர நோய்களைப் பிற உயிரினங்களைக் கொண்டு கட்டுப்படுத்தும் முறை ______ எனப்படும்.",
         "options": [
-          "தூற்றுதல்",
-          "புகையூட்டல்",
+          "தூற்றிப் பிரித்தல்",
+          "இரசாயனப் புகையூட்டல்",
           "உயிரியல் கட்டுப்பாடு",
           "இலைவழி ஊட்டம்"
         ],
@@ -768,20 +768,20 @@
       "en": {
         "q": "The fungus Trichoderma viride is used as a ______.",
         "options": [
-          "biofertilizer",
+          "nitrogen-fixing biofertilizer",
           "biological pesticide",
-          "bio-indicator",
-          "herbicide"
+          "bio-indicator of pollution",
+          "chemical herbicide"
         ],
         "explanation": "It controls fungal diseases such as wilt, rusting of leaves and root disease."
       },
       "ta": {
         "q": "டிரைக்கோடெர்மா விரிடி எனும் பூஞ்சை ______ பயன்படுகிறது.",
         "options": [
-          "உயிர் உரமாக",
+          "நைட்ரஜனை நிலைநிறுத்தும் உயிர் உரமாக",
           "உயிரிப் பூச்சிக்கொல்லியாக",
-          "உயிரி – சுட்டிக்காட்டியாக",
-          "களைக்கொல்லியாக"
+          "மாசுபாட்டின் உயிரிச் சுட்டியாக",
+          "இரசாயனக் களைக்கொல்லியாக"
         ],
         "explanation": "இது வாடல், இலைத் துரு, வேர் நோய் போன்ற பூஞ்சை நோய்களைக் கட்டுப்படுத்துகிறது."
       }
@@ -797,9 +797,9 @@
       "en": {
         "q": "Anabaena and Nostoc are free living ______ used as bio-fertilizers.",
         "options": [
-          "viruses",
-          "fungi",
-          "protozoa",
+          "plant viruses",
+          "yeast-like fungi",
+          "amoeboid protozoa",
           "cyanobacteria"
         ],
         "explanation": "Rhizobium is a symbiotic nitrogen fixing bacterium."
@@ -807,9 +807,9 @@
       "ta": {
         "q": "அனபீனா, நாஸ்டாக் ஆகியவை உயிர் உரங்களாகப் பயன்படும் தனித்து வாழும் ______.",
         "options": [
-          "வைரஸ்கள்",
-          "பூஞ்சைகள்",
-          "முதலுயிரிகள்",
+          "தாவர வைரஸ்கள்",
+          "ஈஸ்ட் போன்ற பூஞ்சைகள்",
+          "அமீபா போன்ற முதலுயிரிகள்",
           "சயனோபாக்டீரியாக்கள்"
         ],
         "explanation": "ரைசோபியம் கூட்டுயிர் வாழ்க்கை நடத்தும் நைட்ரஜன் நிலைநிறுத்தும் பாக்டீரியா."

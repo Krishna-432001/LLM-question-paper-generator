@@ -190,7 +190,7 @@
         "options": [
           "atmospheric",
           "hydrologic",
-          "geologic (seismic)",
+          "geologic",
           "biological"
         ],
         "explanation": "Earthquakes, tsunamis, landslides and land subsidence are geologic hazards."
@@ -198,10 +198,10 @@
       "ta": {
         "q": "தோற்றத்தின் அடிப்படையில் நிலச்சரிவு ______ இடருக்கு எடுத்துக்காட்டு.",
         "options": [
-          "வளிமண்டல",
-          "நீரியல்",
-          "புவியியல் (நிலஅதிர்வு) சார்ந்த",
-          "உயிரியல்"
+          "வளிமண்டலம் சார்ந்த",
+          "நீரியல் சார்ந்த",
+          "புவியியல் சார்ந்த",
+          "உயிரியல் சார்ந்த"
         ],
         "explanation": "நிலஅதிர்வு, சுனாமி, நிலச்சரிவு, நிலம் அமிழ்தல் ஆகியவை புவியியல் இடர்கள்."
       }
@@ -256,10 +256,10 @@
       "ta": {
         "q": "தீவிரவாதம், வெடிகுண்டு, போர் ஆகியவை ______ இடருக்கு எடுத்துக்காட்டுகள்.",
         "options": [
-          "வளிமண்டல",
-          "மனிதத் தூண்டுதலால் ஏற்படும்",
-          "எரிமலை",
-          "உயிரியல்"
+          "வளிமண்டலம் சார்ந்த",
+          "மனிதனால் உருவாகும்",
+          "எரிமலை சார்ந்த",
+          "உயிரியல் சார்ந்த"
         ],
         "explanation": "போக்குவரத்து விபத்துகள், உள்நாட்டுக் கலகமும் இவ்வகை இடர்களே."
       }
@@ -374,7 +374,7 @@
         "options": [
           "பேரழிவு",
           "வறட்சி",
-          "இடர் (ஹசார்டு)",
+          "இடர்",
           "இடம்பெயர்தல்"
         ],
         "explanation": "'ஹசார்டு' என்ற சொல் பழமையான பிரெஞ்சுச் சொல் 'ஹாசர்ட்' (பகடை விளையாட்டு) என்பதிலிருந்து வந்தது."
@@ -401,7 +401,7 @@
       "ta": {
         "q": "நிகழ்விற்கான காரணங்களின் அடிப்படையில் இடர்கள் ______ எனப் பெரும் பிரிவுகளாகப் பிரிக்கப்படுகின்றன.",
         "options": [
-          "இயற்கை இடர்கள், மனிதச் செயல்களால் ஏற்படும் இடர்கள், சமூக-இயற்கை இடர்கள்",
+          "இயற்கை, மனிதச் செயல், சமூக-இயற்கை இடர்கள்",
           "முதன்மை, இரண்டாம் நிலை, மூன்றாம் நிலை இடர்கள்",
           "வளிமண்டல, எரிமலை, உயிரியல் இடர்கள்",
           "மேற்பரப்பு, நிலத்தடி, துணை மேற்பரப்பு இடர்கள்"
@@ -449,9 +449,9 @@
       "en": {
         "q": "Which of the following is a major flood-prone area of India?",
         "options": [
-          "The Thar desert",
-          "The Gangetic plains and the Brahmaputra valley",
-          "The Western Ghats leeward side",
+          "The Thar desert of Rajasthan",
+          "The Gangetic plains and Brahmaputra valley",
+          "The Western Ghats leeward side in the rain shadow",
           "The Deccan plateau interior"
         ],
         "explanation": "Coastal Andhra Pradesh, Odisha and southern Gujarat are also prone to floods."
@@ -459,7 +459,7 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் இந்தியாவின் முக்கிய வெள்ளப் பாதிப்புப் பகுதி எது?",
         "options": [
-          "தார் பாலைவனம்",
+          "இராஜஸ்தானின் தார் பாலைவனம்",
           "கங்கைச் சமவெளியும் பிரம்மபுத்திரா பள்ளத்தாக்கும்",
           "மேற்குத் தொடர்ச்சி மலையின் மழை மறைவுப் பகுதி",
           "தக்காண பீடபூமியின் உட்பகுதி"
@@ -507,20 +507,20 @@
       "en": {
         "q": "Why should houses not be constructed on steep slopes and at foothill areas?",
         "options": [
-          "Earthquakes never occur there",
-          "Floods never occur there",
-          "Tsunamis are common there",
-          "Landslides, caused by steep slopes and heavy rainfall, may bury them"
+          "Earthquakes and cyclones never occur in such areas",
+          "Floods never occur in such areas",
+          "Tsunamis are common in such areas",
+          "Landslides caused by steep slopes and rain may bury them"
         ],
         "explanation": "Landslides are a rapid downward movement of rock, soil and vegetation under gravity."
       },
       "ta": {
         "q": "செங்குத்துச் சரிவுகளிலும் மலை அடிவாரத்திலும் ஏன் குடியிருப்புகளை அமைக்கக் கூடாது?",
         "options": [
-          "அங்கு நிலஅதிர்வே ஏற்படாது",
-          "அங்கு வெள்ளமே வராது",
-          "அங்கு சுனாமி பொதுவானது",
-          "செங்குத்துச் சரிவும் பெருமழையும் ஏற்படுத்தும் நிலச்சரிவு அவற்றைப் புதைக்கக்கூடும்"
+          "அத்தகைய பகுதிகளில் நிலஅதிர்வும் புயலும் ஏற்படவே ஏற்படாது",
+          "அத்தகைய பகுதிகளில் வெள்ளமே வராது",
+          "அத்தகைய பகுதிகளில் சுனாமி பொதுவானது",
+          "செங்குத்துச் சரிவு, மழையால் ஏற்படும் நிலச்சரிவு அவற்றைப் புதைக்கக்கூடும்"
         ],
         "explanation": "நிலச்சரிவு என்பது புவியீர்ப்பால் பாறை, மண், தாவரங்கள் வேகமாகச் சரிவது."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "A catastrophe is a massive disaster that ______.",
         "options": [
-          "requires significant expenditure of money and a long time for recovery",
-          "needs no outside assistance",
-          "occurs only in the oceans",
-          "affects only a small village"
+          "needs huge money and a long time to recover",
+          "needs no outside assistance for recovery",
+          "occurs only in the deep oceans and seas",
+          "affects only one small village or hamlet"
         ],
         "explanation": "A disaster occurs over a limited time in a defined area causing great damage and needing assistance from others."
       },
       "ta": {
         "q": "பேரழிவு (கேடாஸ்ட்ரோப்) என்பது ______ ஒரு பெரும் பேரிடர்.",
         "options": [
-          "அதிகச் செலவையும் மீள நீண்ட காலத்தையும் தேவைப்படுத்தும்",
-          "வெளி உதவி தேவையற்ற",
-          "கடலில் மட்டும் நிகழும்",
-          "ஒரு சிறு கிராமத்தை மட்டும் பாதிக்கும்"
+          "அதிகப் பணமும் மீள நீண்ட காலமும் தேவைப்படும்",
+          "மீள்வதற்கு வெளி உதவி தேவையற்ற",
+          "ஆழ்கடல்களில் மட்டும் நிகழும்",
+          "ஒரு சிறு கிராமத்தை மட்டுமே பாதிக்கும்"
         ],
         "explanation": "பேரிடர் வரையறுக்கப்பட்ட பகுதியில் குறிப்பிட்ட காலத்தில் நிகழ்ந்து பெரும் சேதத்தை ஏற்படுத்தி பிறர் உதவியை நாட வைக்கும்."
       }
