@@ -54,7 +54,7 @@
         "q": "கிராமங்களில் வாரத்திற்கு ஒருமுறை அல்லது மாதத்திற்கு ஒருமுறை குறிப்பிட்ட இடத்தில் குறிப்பிட்ட நேரத்தில் எல்லாப் பொருள்களும் விற்கப்படும் சந்தை",
         "options": [
           "பேரங்காடி",
-          "சந்தை (சந்தைகூடும் இடம்)",
+          "சந்தை",
           "வணிக வளாகம்",
           "வங்கி"
         ],
@@ -111,9 +111,9 @@
       "ta": {
         "q": "அரிசி மூட்டையைத் துணிகளுடன் மாற்றிக்கொள்வது போல பொருள்களைப் பிற பொருள்களுடன் பரிமாறிக்கொள்ளும் முறை",
         "options": [
-          "வரி முறை",
-          "வங்கி முறை",
-          "கடன் முறை",
+          "வரி வசூல் முறை",
+          "வங்கிச் சேவை முறை",
+          "கடன் வழங்கும் முறை",
           "பண்டமாற்று முறை"
         ],
         "explanation": "பணம் கண்டுபிடிக்கப்படுவதற்கு முன் பழங்காலத்தில் பண்டமாற்று முறை பயன்பட்டது."
@@ -130,10 +130,10 @@
       "en": {
         "q": "A problem of the barter system is that the exchange takes place only when",
         "options": [
-          "the person who has clothes is also willing to buy the rice",
-          "both persons have money",
-          "the goods are of different colours",
-          "the exchange happens in a bank"
+          "the person who has clothes also wants to buy the rice",
+          "both persons have enough money to pay for the goods",
+          "the two goods are of different colours and sizes",
+          "the exchange takes place inside a bank branch"
         ],
         "explanation": "Comparing the differences in the value of commodities was another problem."
       },
@@ -141,9 +141,9 @@
         "q": "பண்டமாற்று முறையிலுள்ள ஒரு சிக்கல், பரிமாற்றம் நடைபெற வேண்டுமெனில்",
         "options": [
           "துணி வைத்திருப்பவரும் அரிசியை வாங்க விரும்ப வேண்டும் என்பதே",
-          "இருவரிடமும் பணம் இருக்க வேண்டும் என்பதே",
-          "பொருள்கள் வெவ்வேறு நிறத்தில் இருக்க வேண்டும் என்பதே",
-          "பரிமாற்றம் வங்கியில் நடைபெற வேண்டும் என்பதே"
+          "இருவரிடமும் பொருள்களுக்குக் கொடுக்கப் போதுமான பணம் இருக்க வேண்டும் என்பதே",
+          "இரு பொருள்களும் வெவ்வேறு நிறத்திலும் அளவிலும் இருக்க வேண்டும் என்பதே",
+          "பரிமாற்றம் வங்கிக் கிளையின் உள்ளே நடைபெற வேண்டும் என்பதே"
         ],
         "explanation": "பொருள்களின் மதிப்பு வேறுபாட்டை ஒப்பிடுவதும் மற்றொரு சிக்கலாக இருந்தது."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "People invented money mainly to solve the problem of",
         "options": [
-          "carrying heavy gold",
-          "comparing the differences in the value of commodities in barter",
-          "paying taxes",
-          "building roads"
+          "carrying heavy gold and silver over long distances",
+          "comparing the value of different commodities in barter",
+          "paying taxes and fines to the royal treasury",
+          "building roads and bridges between the villages"
         ],
         "explanation": "Barter had problems in comparing the value of commodities."
       },
       "ta": {
         "q": "மக்கள் பணத்தைக் கண்டுபிடித்ததன் முக்கியக் காரணம்",
         "options": [
-          "கனமான தங்கத்தைச் சுமப்பது",
-          "பண்டமாற்றில் பொருள்களின் மதிப்பு வேறுபாட்டை ஒப்பிடுவதிலிருந்த சிக்கலைத் தீர்ப்பது",
-          "வரி செலுத்துவது",
-          "சாலைகள் அமைப்பது"
+          "கனமான தங்கத்தையும் வெள்ளியையும் நீண்ட தொலைவுக்குச் சுமப்பது",
+          "பண்டமாற்றில் வெவ்வேறு பொருள்களின் மதிப்பை ஒப்பிடுவதிலிருந்த சிக்கலைத் தீர்ப்பது",
+          "அரசரின் கருவூலத்துக்கு வரியும் அபராதமும் முறையாகச் செலுத்துவது",
+          "கிராமங்களுக்கு இடையே சாலைகளையும் பாலங்களையும் அமைப்பது"
         ],
         "explanation": "பண்டமாற்றில் பொருள்களின் மதிப்பை ஒப்பிடுவது சிக்கலாக இருந்தது."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "Primary activities are concerned with the production of",
         "options": [
-          "raw materials for food stuff and industrial use",
-          "finished goods by machinery",
-          "banking services",
-          "transport services"
+          "raw materials for food and industrial use",
+          "finished goods made by machinery in factories",
+          "banking and insurance services for the public",
+          "transport and communication services for traders"
         ],
         "explanation": "Agriculture, cattle rearing, fishing and mining are primary activities."
       },
       "ta": {
         "q": "முதல்நிலைத் தொழில்கள் எதன் உற்பத்தியுடன் தொடர்புடையவை?",
         "options": [
-          "உணவுப் பொருள்கள், தொழிற்சாலைகளுக்கான மூலப்பொருள்கள்",
-          "இயந்திரங்களால் உருவாகும் முடிவுப் பொருள்கள்",
-          "வங்கிச் சேவைகள்",
-          "போக்குவரத்துச் சேவைகள்"
+          "உணவுப் பொருள்கள், தொழிற்சாலைக்கான மூலப்பொருள்கள்",
+          "தொழிற்சாலைகளில் இயந்திரங்களால் உருவாகும் முடிவுப் பொருள்கள்",
+          "பொதுமக்களுக்கான வங்கி, காப்பீட்டுச் சேவைகள்",
+          "வணிகர்களுக்கான போக்குவரத்து, தகவல் தொடர்புச் சேவைகள்"
         ],
         "explanation": "வேளாண்மை, கால்நடை வளர்ப்பு, மீன்பிடித்தல், சுரங்கத் தொழில் ஆகியவை முதல்நிலைத் தொழில்கள்."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "Farmers get very little money for their produce because",
         "options": [
-          "they sell directly in cities",
-          "they do not grow any crops",
+          "they sell directly to customers in cities",
+          "they grow too few crops to sell in markets",
           "their products are bought and sold by mediators",
-          "their products have no demand"
+          "their products are of very poor quality"
         ],
         "explanation": "Farmers are just producers."
       },
       "ta": {
         "q": "விவசாயிகளுக்குத் தங்கள் விளைபொருள்களுக்கு மிகக் குறைந்த பணமே கிடைக்கக் காரணம்",
         "options": [
-          "அவர்கள் நேரடியாக நகரங்களில் விற்பதே",
-          "அவர்கள் எந்தப் பயிரும் விளைவிக்காததே",
+          "அவர்கள் நகரங்களில் வாடிக்கையாளர்களுக்கு நேரடியாக விற்பதே",
+          "சந்தையில் விற்கப் போதுமான பயிர்களை அவர்கள் விளைவிக்காததே",
           "அவர்களின் பொருள்கள் இடைத்தரகர்களால் வாங்கி விற்கப்படுவதே",
-          "அவர்களின் பொருள்களுக்குத் தேவையே இல்லாததே"
+          "அவர்களின் பொருள்கள் மிகவும் தரம் குறைந்தவையாக இருப்பதே"
         ],
         "explanation": "விவசாயிகள் உற்பத்தியாளர்கள் மட்டுமே."
       }
@@ -343,9 +343,9 @@
       "ta": {
         "q": "காந்தியடிகளின் கூற்றுப்படி, கிராமங்கள் நம் நாட்டின் ______ ஆகும்.",
         "options": [
-          "சுமை",
-          "தலை",
-          "நிழல்",
+          "பெருஞ்சுமை",
+          "தலைப்பகுதி",
+          "நிழற்குடை",
           "முதுகெலும்பு"
         ],
         "explanation": "நகரங்களும் கிராமங்களும் தத்தமக்குரிய வகையில் முக்கியமானவை."
@@ -536,20 +536,20 @@
       "en": {
         "q": "Services such as transport, communication, trade and banking are called",
         "options": [
-          "secondary activities",
-          "primary activities",
+          "secondary or manufacturing activities",
+          "primary or extractive activities",
           "tertiary activities or the service sector",
-          "mineral based industries"
+          "mineral based and metal industries"
         ],
         "explanation": "These services help to fulfil the daily needs of people."
       },
       "ta": {
         "q": "போக்குவரத்து, தகவல் தொடர்பு, வணிகம், வங்கி போன்ற சேவைகள் அழைக்கப்படுவது",
         "options": [
-          "இரண்டாம்நிலைத் தொழில்கள்",
-          "முதல்நிலைத் தொழில்கள்",
+          "இரண்டாம்நிலை அல்லது உற்பத்தித் தொழில்கள்",
+          "முதல்நிலை அல்லது பிரித்தெடுக்கும் தொழில்கள்",
           "மூன்றாம்நிலைத் தொழில்கள் அல்லது சேவைத் துறை",
-          "கனிமம் சார்ந்த தொழில்கள்"
+          "கனிமம், உலோகம் சார்ந்த தொழில்கள்"
         ],
         "explanation": "இச்சேவைகள் மக்களின் அன்றாடத் தேவைகளை நிறைவு செய்ய உதவுகின்றன."
       }
@@ -565,19 +565,19 @@
       "en": {
         "q": "Which of the following is a form of communication service listed in the lesson?",
         "options": [
-          "Procurement of goods",
-          "Roadways and railways",
-          "Waterways and airways",
-          "Post, telephone and information technology"
+          "Procurement of goods for factories",
+          "Roadways, railways and bridges",
+          "Waterways, airways and ports",
+          "Post, telephone and IT services"
         ],
         "explanation": "Roadways, railways, waterways and airways are forms of transport."
       },
       "ta": {
         "q": "பாடத்தில் குறிப்பிடப்பட்ட தகவல் தொடர்புச் சேவைகள் எவை?",
         "options": [
-          "பொருள்களைக் கொள்முதல் செய்தல்",
-          "சாலைவழி, இருப்புப்பாதை",
-          "நீர்வழி, வான்வழி",
+          "தொழிற்சாலைகளுக்குப் பொருள்களைக் கொள்முதல் செய்தல்",
+          "சாலைவழி, இருப்புப்பாதை, பாலங்கள்",
+          "நீர்வழி, வான்வழி, துறைமுகங்கள்",
           "அஞ்சல், தொலைபேசி, தகவல் தொழில்நுட்பம்"
         ],
         "explanation": "சாலை, இரயில், நீர், வான் வழிகள் போக்குவரத்து வடிவங்கள்."

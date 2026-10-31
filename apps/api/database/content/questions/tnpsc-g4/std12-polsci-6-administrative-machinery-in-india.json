@@ -14,22 +14,22 @@
       "en": {
         "q": "Which commission recommended in 1924 that the statutory Public Service Commission contemplated by the Government of India Act, 1919 be set up without delay?",
         "options": [
-          "The Lee Commission (Royal Commission on the Superior Civil Services)",
+          "The Lee Commission",
           "The Simon Commission",
           "The Islington Commission",
           "The Aitchison Commission"
         ],
-        "explanation": "The idea of a body to regulate service matters first appeared in the Government of India's despatch of 5 March 1919."
+        "explanation": "The Lee Commission (Royal Commission on the Superior Civil Services) made this recommendation. The idea of a body to regulate service matters first appeared in the Government of India's despatch of 5 March 1919."
       },
       "ta": {
         "q": "1919 இந்திய அரசுச் சட்டம் எதிர்பார்த்த சட்டப்பூர்வப் பொதுப் பணி ஆணையத்தைத் தாமதமின்றி அமைக்க 1924 இல் பரிந்துரைத்த ஆணையம் எது?",
         "options": [
-          "லீ ஆணையம் (உயர் குடிமைப் பணிகளுக்கான அரச ஆணையம்)",
+          "லீ ஆணையம்",
           "சைமன் ஆணையம்",
           "இஸ்லிங்டன் ஆணையம்",
           "அய்ச்சிசன் ஆணையம்"
         ],
-        "explanation": "பணி விவகாரங்களை ஒழுங்குபடுத்தும் அமைப்பு பற்றிய கருத்து முதன்முதலில் 1919 மார்ச் 5 இந்திய அரசின் அனுப்புகையில் தோன்றியது."
+        "explanation": "லீ ஆணையம் (உயர் குடிமைப் பணிகளுக்கான அரச ஆணையம்) இதைப் பரிந்துரைத்தது. பணி விவகாரங்களை ஒழுங்குபடுத்தும் அமைப்பு பற்றிய கருத்து முதன்முதலில் 1919 மார்ச் 5 இந்திய அரசின் அனுப்புகையில் தோன்றியது."
       }
     },
     {
@@ -217,20 +217,20 @@
       "en": {
         "q": "To remove a member of a State Public Service Commission for misbehaviour, the President must",
         "options": [
-          "obtain an impeachment resolution of Parliament",
-          "obtain a resolution of the State Legislature",
-          "consult the Chief Minister of the state",
-          "refer the matter to the Supreme Court, whose advice after enquiry is binding"
+          "obtain an impeachment resolution passed by both Houses of Parliament",
+          "obtain a resolution passed by the State Legislature",
+          "consult the Chief Minister and act on his advice",
+          "refer the matter to the Supreme Court and act on its binding advice"
         ],
         "explanation": "Pending the President's final order, the Governor can suspend the member; insolvency, outside paid employment and infirmity are other grounds for removal."
       },
       "ta": {
         "q": "தவறான நடத்தைக்காக மாநிலப் பொதுப் பணி ஆணைய உறுப்பினரை நீக்கக் குடியரசுத் தலைவர் செய்ய வேண்டியது",
         "options": [
-          "நாடாளுமன்றப் பதவிநீக்கத் தீர்மானம் பெறுதல்",
-          "மாநிலச் சட்டமன்றத் தீர்மானம் பெறுதல்",
-          "மாநில முதலமைச்சரைக் கலந்தாலோசித்தல்",
-          "உச்ச நீதிமன்றத்துக்கு விசாரணைக்கு அனுப்புதல்; விசாரணைக்குப் பின் அதன் ஆலோசனை கட்டுப்படுத்தும்"
+          "நாடாளுமன்ற இரு அவைகளிலும் பதவிநீக்கத் தீர்மானம் பெறுதல்",
+          "மாநிலச் சட்டமன்றத்தில் தீர்மானம் நிறைவேற்றிப் பெறுதல்",
+          "மாநில முதலமைச்சரைக் கலந்தாலோசித்து அவர் ஆலோசனைப்படி நடத்தல்",
+          "உச்ச நீதிமன்றத்துக்கு அனுப்பி, அதன் கட்டுப்படுத்தும் ஆலோசனைப்படி நடத்தல்"
         ],
         "explanation": "குடியரசுத் தலைவரின் இறுதி ஆணை வரும் வரை ஆளுநர் அந்த உறுப்பினரை இடைநீக்கம் செய்யலாம்; நொடிப்புநிலை, வெளி ஊதியப் பணி, உடல்/மன நலக்குறைவு ஆகியவை பிற நீக்கக் காரணங்கள்."
       }
@@ -720,7 +720,7 @@
       "ta": {
         "q": "இந்திய அரசின் அமைச்சகங்கள், துறைகளில் குரூப் 'B', தொழில்நுட்பமல்லாத குரூப் 'C' பணியிடங்களுக்கு ஆட்சேர்ப்பு செய்வது",
         "options": [
-          "பணியாளர் தேர்வாணையம் (SSC)",
+          "பணியாளர் தேர்வாணையம்",
           "ஒன்றியப் பொதுப் பணி ஆணையம்",
           "மாநிலப் பொதுப் பணி ஆணையங்கள்",
           "பணியாளர், பயிற்சித் துறை"

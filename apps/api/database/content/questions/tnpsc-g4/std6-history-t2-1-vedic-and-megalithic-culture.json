@@ -14,10 +14,10 @@
       "en": {
         "q": "According to the book, the Aryans came to India from Central Asia through the",
         "options": [
-          "Khyber Pass of the Hindu Kush Mountains",
-          "Bolan Pass",
-          "Shipki La Pass",
-          "Nathu La Pass"
+          "Khyber Pass of the Hindu Kush",
+          "Bolan Pass of the Sulaiman Range",
+          "Shipki La Pass of the Himalayas",
+          "Nathu La Pass of the Eastern Himalayas"
         ],
         "explanation": "They came in several waves of migration."
       },
@@ -25,9 +25,9 @@
         "q": "நூலின்படி, ஆரியர்கள் மத்திய ஆசியாவிலிருந்து இந்தியாவிற்குள் வந்த வழி",
         "options": [
           "இந்துகுஷ் மலையின் கைபர் கணவாய்",
-          "போலன் கணவாய்",
-          "சிப்கிலா கணவாய்",
-          "நாதுலா கணவாய்"
+          "சுலைமான் மலைத்தொடரின் போலன் கணவாய்",
+          "இமயமலையின் சிப்கிலா கணவாய்",
+          "கிழக்கு இமயமலையின் நாதுலா கணவாய்"
         ],
         "explanation": "அவர்கள் பல அலைகளாகக் குடிபெயர்ந்து வந்தனர்."
       }
@@ -72,20 +72,20 @@
       "en": {
         "q": "Slash and burn agriculture, practised by the early Aryans, is a method in which",
         "options": [
-          "crops are grown only on river banks with canal irrigation",
-          "the same land is ploughed with iron ploughs year after year",
-          "land is cleared by cutting and burning trees and plants, cultivated for a short time and then abandoned",
-          "only cattle are reared and no crops are grown"
+          "crops are grown on the river banks with canal irrigation every year",
+          "the same land is ploughed with iron ploughs year after year for centuries",
+          "land is cleared by cutting and burning trees, cultivated briefly and then abandoned",
+          "farmers grow crops in pots and terraces built on high mountain slopes"
         ],
         "explanation": "People then move to a new piece of land for cultivation."
       },
       "ta": {
         "q": "ஆரியர்கள் மேற்கொண்ட வெட்டி எரித்து வேளாண்மை (ஸ்லாஷ் அண்ட் பர்ன்) என்பது",
         "options": [
-          "ஆற்றங்கரைகளில் மட்டும் கால்வாய்ப் பாசனத்துடன் பயிரிடுதல்",
-          "ஒரே நிலத்தில் ஆண்டுதோறும் இரும்புக் கலப்பையால் உழுதல்",
-          "மரம், செடிகளை வெட்டி எரித்து நிலத்தைத் தயார் செய்து, சிறிது காலம் பயிரிட்டு, பின்னர் கைவிடும் முறை",
-          "கால்நடைகளை மட்டும் வளர்த்து பயிர் செய்யாமை"
+          "ஆண்டுதோறும் ஆற்றங்கரைகளில் கால்வாய்ப் பாசனத்துடன் பயிரிடுதல்",
+          "பல நூற்றாண்டுகளாக ஒரே நிலத்தில் ஆண்டுதோறும் இரும்புக் கலப்பையால் உழுதல்",
+          "மரம், செடிகளை வெட்டி எரித்து, சிறிது காலம் பயிரிட்டுப் பின் கைவிடும் முறை",
+          "உயர்ந்த மலைச் சரிவுகளில் மொட்டை மாடிகளிலும் தொட்டிகளிலும் பயிரிடுதல்"
         ],
         "explanation": "பின்னர் மக்கள் வேறொரு புதிய நிலத்திற்குச் சென்று பயிரிடுவர்."
       }
@@ -130,7 +130,7 @@
       "en": {
         "q": "In the Rig Vedic times, the Aryan homeland was the Punjab, which was then called",
         "options": [
-          "Sapta Sindhu, the land of seven rivers",
+          "Sapta Sindhu",
           "Brahmavarta",
           "Aryavarta",
           "Dakshinapatha"
@@ -140,7 +140,7 @@
       "ta": {
         "q": "இருக்கு வேதகாலத்தில் ஆரியர்களின் தாயகமான பஞ்சாப் அக்காலத்தில் அழைக்கப்பட்ட பெயர்",
         "options": [
-          "சப்த சிந்து (ஏழு நதிகளின் நிலம்)",
+          "சப்த சிந்து",
           "பிரம்மாவர்த்தம்",
           "ஆரியவர்த்தம்",
           "தட்சிணபதம்"
@@ -190,7 +190,7 @@
         "options": [
           "remembering",
           "writing",
-          "listening (unwritten ones transmitted orally)",
+          "listening",
           "seeing"
         ],
         "explanation": "Shrutis were transmitted orally through generations."
@@ -200,7 +200,7 @@
         "options": [
           "நினைவுகூர்தல்",
           "எழுதுதல்",
-          "கேட்பது (எழுதப்படாமல் வாய்மொழியாகக் கடத்தப்பட்டவை)",
+          "கேட்பது",
           "பார்த்தல்"
         ],
         "explanation": "ஸ்ருதிகள் தலைமுறை தலைமுறையாக வாய்மொழியாகக் கடத்தப்பட்டவை."
@@ -449,10 +449,10 @@
       "en": {
         "q": "Within the early Vedic society, the three divisions were the general public (Vis), the warrior class called Kshatriyas and the priestly class called",
         "options": [
-          "Dasyus",
-          "Vysyas",
-          "Sudras",
-          "Brahmanas"
+          "the Dasyus",
+          "the Vysyas",
+          "the Sudras",
+          "the Brahmanas"
         ],
         "explanation": "A rigid four-fold Varna system, including Vysyas and Sudras, developed only at a later stage."
       },
@@ -507,20 +507,20 @@
       "en": {
         "q": "Which change took place in the status of women in the later Vedic period?",
         "options": [
-          "They gained the right to formal education",
-          "Their status declined; they could no longer perform rituals and polygamy became common",
-          "They began to take part in public affairs",
-          "Widow remarriage was strongly encouraged"
+          "They gained the right to formal education in gurukulas",
+          "Their status declined and they could not perform rituals",
+          "They began to take part in the public assemblies of the tribe",
+          "Widow remarriage was strongly encouraged by the priests"
         ],
         "explanation": "Education was denied to women, and widow remarriage was not encouraged."
       },
       "ta": {
         "q": "பிற்கால வேதகாலத்தில் பெண்களின் நிலையில் ஏற்பட்ட மாற்றம் எது?",
         "options": [
-          "முறையான கல்வி பெறும் உரிமை பெற்றனர்",
-          "அவர்களின் நிலை தாழ்ந்தது; சடங்குகளைச் செய்ய இயலாமல் போனது; பல தார மணம் பரவலானது",
-          "பொது விவகாரங்களில் பங்கேற்கத் தொடங்கினர்",
-          "விதவை மறுமணம் வலுவாக ஊக்குவிக்கப்பட்டது"
+          "குருகுலங்களில் முறையான கல்வி பெறும் உரிமை பெற்றனர்",
+          "அவர்களின் நிலை தாழ்ந்தது; சடங்குகளைச் செய்ய இயலாமல் போனது",
+          "இனக்குழுவின் பொதுச் சபைகளில் பங்கேற்கத் தொடங்கினர்",
+          "புரோகிதர்களால் விதவை மறுமணம் வலுவாக ஊக்குவிக்கப்பட்டது"
         ],
         "explanation": "பெண்களுக்குக் கல்வி மறுக்கப்பட்டது; விதவை மறுமணம் ஊக்குவிக்கப்படவில்லை."
       }
@@ -538,7 +538,7 @@
         "options": [
           "Wheat",
           "Rice",
-          "Yava (barley)",
+          "Barley",
           "Cotton"
         ],
         "explanation": "The Rig Veda does not mention wheat or cotton, although the Indus people cultivated both."
@@ -546,10 +546,10 @@
       "ta": {
         "q": "இருக்கு வேதகால மக்களின் முதன்மைப் பயிர் எது?",
         "options": [
-          "கோதுமை",
-          "நெல்",
-          "யவம் (வாற்கோதுமை)",
-          "பருத்தி"
+          "கோதுமைப் பயிர்",
+          "நெல் பயிர்",
+          "வாற்கோதுமை",
+          "பருத்திப் பயிர்"
         ],
         "explanation": "சிந்துவெளி மக்கள் பயிரிட்ட கோதுமை, பருத்தி ஆகியவை இருக்கு வேதத்தில் குறிப்பிடப்படவில்லை."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "Which of the following is true of the religion of the Rig Vedic people?",
         "options": [
-          "They did not consider the cow sacred",
-          "They built large temples for idol worship",
-          "They prayed only to Vishnu and Rudra",
-          "It was centred on Yajna, and there were no temples or idol worship"
+          "They considered the cow an unclean and unholy animal",
+          "They built large stone temples for idol worship in every village",
+          "They prayed mainly to Vishnu and Rudra, the greatest gods",
+          "It centred on Yajna, with no temples or idol worship"
         ],
         "explanation": "The mode of prayer was recitation of Vedic hymns, and the cow was considered a sacred animal."
       },
       "ta": {
         "q": "இருக்கு வேத மக்களின் சமயத்தைப் பற்றிய சரியான கூற்று எது?",
         "options": [
-          "பசுவைப் புனிதமாகக் கருதவில்லை",
-          "சிலை வழிபாட்டிற்காகப் பெரிய கோவில்களைக் கட்டினர்",
-          "அவர்கள் விஷ்ணுவையும் ருத்ரனையும் மட்டுமே வழிபட்டனர்",
-          "அது யாகத்தை மையமாகக் கொண்டது; கோவில்களும் சிலை வழிபாடும் இல்லை"
+          "பசுவைத் தூய்மையற்ற, புனிதமற்ற விலங்காகக் கருதினர்",
+          "ஒவ்வோர் ஊரிலும் சிலை வழிபாட்டுக்கான பெரிய கற்கோயில்களைக் கட்டினர்",
+          "மிகப் பெரிய தெய்வங்களான விஷ்ணுவையும் ருத்ரனையும் முதன்மையாக வழிபட்டனர்",
+          "யாகத்தை மையமாகக் கொண்டது; கோயில்களும் சிலை வழிபாடும் இல்லை"
         ],
         "explanation": "வேதப் பாடல்களை ஓதுவதே வழிபாட்டு முறை; பசு புனித விலங்காகக் கருதப்பட்டது."
       }
@@ -740,7 +740,7 @@
         "q": "The word 'Gurukula' is a combination of the Sanskrit words",
         "options": [
           "Guru (teacher) and Shishya (student)",
-          "Guru (teacher) and Kula (family or home)",
+          "Guru (teacher) and Kula (home)",
           "Gram (village) and Kula (family)",
           "Veda (knowledge) and Kula (family)"
         ],
@@ -750,7 +750,7 @@
         "q": "'குருகுலம்' என்ற சொல் எந்த இரு சமஸ்கிருதச் சொற்களின் சேர்க்கை?",
         "options": [
           "குரு (ஆசிரியர்), சிஷ்யர் (மாணவர்)",
-          "குரு (ஆசிரியர்), குலம் (குடும்பம் அல்லது இல்லம்)",
+          "குரு (ஆசிரியர்), குலம் (இல்லம்)",
           "கிராமம் (ஊர்), குலம் (குடும்பம்)",
           "வேதம் (அறிவு), குலம் (குடும்பம்)"
         ],
@@ -1203,10 +1203,10 @@
       "en": {
         "q": "A memorial stone raised in remembrance of the honourable death of a hero in a battle is called a",
         "options": [
-          "menhir",
+          "standing menhir",
           "hero stone",
-          "dolmen",
-          "urn"
+          "stone dolmen",
+          "burial urn"
         ],
         "explanation": "Hero stones also remember those who died defending their village from animals or enemies."
       },

@@ -507,20 +507,20 @@
       "en": {
         "q": "Parallax is",
         "options": [
-          "the amount of matter present in an object",
-          "a difference in the apparent position of an object viewed along two different lines of sight",
-          "the force with which the Earth pulls an object",
-          "the time taken by an object to fall"
+          "the amount of matter present in an object, measured in kilograms or grams",
+          "a difference in apparent position of an object when viewed along two lines of sight",
+          "the force with which the Earth pulls an object towards its centre",
+          "the time taken by an object to fall freely from rest to the ground"
         ],
         "explanation": "Parallax error arises when the eye is not placed correctly while reading a scale."
       },
       "ta": {
         "q": "இடமாறு தோற்றம் (Parallax) என்பது",
         "options": [
-          "ஒரு பொருளிலுள்ள பருப்பொருளின் அளவு",
+          "ஒரு பொருளிலுள்ள பருப்பொருளின் அளவு, கிலோகிராம் அல்லது கிராமில் அளக்கப்படுவது",
           "இரு வெவ்வேறு பார்வைக் கோடுகளில் பார்க்கும்போது ஒரு பொருளின் தோற்ற நிலையில் ஏற்படும் வேறுபாடு",
-          "புவி ஒரு பொருளை ஈர்க்கும் விசை",
-          "ஒரு பொருள் கீழே விழ எடுக்கும் நேரம்"
+          "புவி ஒரு பொருளைத் தன் மையத்தை நோக்கிக் கீழ்நோக்கி ஈர்க்கும் விசை",
+          "ஓய்விலிருந்து ஒரு பொருள் தரையில் கட்டின்றி விழ எடுக்கும் நேரம்"
         ],
         "explanation": "அளவுகோலைப் படிக்கும்போது கண்ணின் நிலை சரியில்லையெனில் இடமாறு தோற்றப்பிழை ஏற்படும்."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "To avoid parallax error while reading a scale, your eye should be",
         "options": [
-          "to the right of that point",
-          "to the left of that point",
+          "slightly to the right of that point on the scale",
+          "slightly to the left of that point on the scale",
           "vertically above the point where the measurement is taken",
-          "anywhere according to one's convenience"
+          "at any place that is convenient to the reader"
         ],
         "explanation": "Readings from the left or right positions differ and are erroneous."
       },
       "ta": {
         "q": "அளவுகோலில் அளவை வாசிக்கும்போது இடமாறு தோற்றப்பிழையைத் தவிர்க்க, கண் எங்கே இருக்க வேண்டும்?",
         "options": [
-          "அந்தப் புள்ளியின் வலப்பக்கத்தில்",
-          "அந்தப் புள்ளியின் இடப்பக்கத்தில்",
-          "அளவு எடுக்க வேண்டிய புள்ளிக்கு நேர் மேலே செங்குத்தாக",
-          "ஒருவரின் வசதிக்கேற்ப எங்கு வேண்டுமானாலும்"
+          "அளவுகோலில் அந்தப் புள்ளியின் சற்று வலப்பக்கத்தில்",
+          "அளவுகோலில் அந்தப் புள்ளியின் சற்று இடப்பக்கத்தில்",
+          "அளவு எடுக்கும் புள்ளிக்கு நேர் மேலே செங்குத்தாக",
+          "படிப்பவருக்கு வசதியான எந்த இடத்திலும்"
         ],
         "explanation": "இடப்பக்கம் அல்லது வலப்பக்கத்திலிருந்து படித்தால் அளவீடுகள் மாறுபட்டுப் பிழையாகும்."
       }

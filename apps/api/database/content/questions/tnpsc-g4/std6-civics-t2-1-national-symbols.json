@@ -101,9 +101,9 @@
       "en": {
         "q": "River dolphins catch their prey by",
         "options": [
-          "spinning webs",
-          "their sharp eyesight",
-          "their sense of smell",
+          "spinning silky webs underwater",
+          "their sharp eyesight in muddy water",
+          "their keen sense of smell underwater",
           "using ultrasound waves, like bats"
         ],
         "explanation": "River dolphins have a long snout similar to the Gharial crocodiles and are essentially blind."
@@ -111,10 +111,10 @@
       "ta": {
         "q": "ஆற்று ஓங்கில்கள் (நதி டால்பின்கள்) தங்கள் இரையைப் பிடிக்கப் பயன்படுத்தும் முறை",
         "options": [
-          "வலை பின்னுதல்",
-          "கூர்மையான பார்வை",
-          "நுகரும் திறன்",
-          "வௌவால்களைப் போல ஒலியலைகளைப் (அல்ட்ராசவுண்டு) பயன்படுத்துதல்"
+          "நீருக்குள் பட்டு வலை பின்னுதல்",
+          "தெளிவற்ற நீரிலும் கூர்மையான பார்வை",
+          "நீருக்குள் கூர்மையாக நுகரும் திறன்",
+          "வௌவால்களைப் போல ஒலியலைகளைப் பயன்படுத்துதல்"
         ],
         "explanation": "ஆற்று ஓங்கில்களுக்குக் கரியல் முதலை போன்ற நீண்ட மூக்கு உண்டு; அவை அடிப்படையில் பார்வையற்றவை."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "The river dolphin is a reliable indicator of",
         "options": [
-          "the health of the entire river ecosystem",
-          "the depth of the river",
-          "the speed of the wind",
-          "the age of the river"
+          "the health of the river ecosystem",
+          "the average depth of the river channel",
+          "the speed of the wind over the river",
+          "the age of the river and its valley"
         ],
         "explanation": "The river dolphin is in the endangered list."
       },
       "ta": {
         "q": "ஆற்று ஓங்கில் எதற்கு நம்பகமான குறிகாட்டி?",
         "options": [
-          "முழு ஆற்றுச் சூழல் மண்டலத்தின் நலத்திற்கு",
-          "ஆற்றின் ஆழத்திற்கு",
-          "காற்றின் வேகத்திற்கு",
-          "ஆற்றின் வயதிற்கு"
+          "ஆற்றுச் சூழல் மண்டலத்தின் நலத்திற்கு",
+          "ஆற்றுப் படுகையின் சராசரி ஆழத்திற்கு",
+          "ஆற்றின் மேல் வீசும் காற்றின் வேகத்திற்கு",
+          "ஆறும் அதன் பள்ளத்தாக்கும் தோன்றிய வயதிற்கு"
         ],
         "explanation": "ஆற்று ஓங்கில் அருகிவரும் உயிரினப் பட்டியலில் உள்ளது."
       }
@@ -402,7 +402,7 @@
         "q": "தேசியக் கொடியிலுள்ள அசோகச் சக்கரத்தின் நிறம்",
         "options": [
           "வான நீலம்",
-          "கடல் நீலம் (நேவி புளூ)",
+          "கடல் நீலம்",
           "கருப்பு",
           "பச்சை"
         ],
@@ -449,9 +449,9 @@
       "en": {
         "q": "The first Indian flag hoisted on 15 August 1947 at the Red Fort was woven at",
         "options": [
-          "Erode",
+          "Coimbatore",
           "Madurai",
-          "Tirupur",
+          "Tirunelveli",
           "Gudiyatham"
         ],
         "explanation": "It is now an exhibit at the St. George's Fort Museum, Chennai."
@@ -459,9 +459,9 @@
       "ta": {
         "q": "1947 ஆகஸ்ட் 15 அன்று செங்கோட்டையில் ஏற்றப்பட்ட முதல் இந்தியக் கொடி நெய்யப்பட்ட இடம்",
         "options": [
-          "ஈரோடு",
+          "கோயம்புத்தூர்",
           "மதுரை",
-          "திருப்பூர்",
+          "திருநெல்வேலி",
           "குடியாத்தம்"
         ],
         "explanation": "இக்கொடி தற்போது சென்னை புனித ஜார்ஜ் கோட்டை அருங்காட்சியகத்தில் உள்ளது."
@@ -479,9 +479,9 @@
         "q": "Tirupur Kumaran, honoured with the title 'Kodi Kaatha Kumaran', was born at",
         "options": [
           "Chennimalai in Erode district",
-          "Tirupur town",
-          "Madurai",
-          "Salem"
+          "Avinashi in Tirupur district",
+          "Melur in Madurai district",
+          "Omalur in Salem district"
         ],
         "explanation": "He held on to the tricolour flag even when he died after a police attack."
       },
@@ -489,9 +489,9 @@
         "q": "'கொடி காத்த குமரன்' என்ற பட்டம் பெற்ற திருப்பூர் குமரன் பிறந்த ஊர்",
         "options": [
           "ஈரோடு மாவட்டம் சென்னிமலை",
-          "திருப்பூர் நகரம்",
-          "மதுரை",
-          "சேலம்"
+          "திருப்பூர் மாவட்டம் அவிநாசி",
+          "மதுரை மாவட்டம் மேலூர்",
+          "சேலம் மாவட்டம் ஓமலூர்"
         ],
         "explanation": "காவல்துறைத் தாக்குதலில் உயிர் துறக்கும்போதும் அவர் மூவண்ணக் கொடியைக் கைவிடவில்லை."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "In the National Emblem, only three of the four lions can be seen at a time because",
         "options": [
-          "one lion is smaller than the others",
-          "one lion is hidden in the ground",
-          "the four lions face the north, south, east and west on a circular pedestal",
-          "the fourth lion has been removed"
+          "one lion is much smaller than the other three lions",
+          "one lion is hidden below the ground of the pedestal",
+          "the four lions face the four directions on a circular pedestal",
+          "the fourth lion was removed from the original sculpture"
         ],
         "explanation": "The lower part has an elephant, a horse, a bull and a lion, with the wheel of righteousness between them."
       },
       "ta": {
         "q": "தேசிய இலச்சினையில் நான்கு சிங்கங்களுள் ஒரே நேரத்தில் மூன்றை மட்டுமே காண முடிவதற்குக் காரணம்",
         "options": [
-          "ஒரு சிங்கம் மற்றவற்றைவிடச் சிறியதாக இருப்பதே",
-          "ஒரு சிங்கம் நிலத்தில் மறைந்திருப்பதே",
-          "நான்கு சிங்கங்களும் வட்ட மேடையில் வடக்கு, தெற்கு, கிழக்கு, மேற்கு நோக்கி அமர்ந்திருப்பதே",
-          "நான்காவது சிங்கம் நீக்கப்பட்டதே"
+          "ஒரு சிங்கம் மற்ற மூன்றையும்விடச் சிறியதாக இருப்பதே",
+          "ஒரு சிங்கம் மேடையின் அடியில் மறைந்திருப்பதே",
+          "நான்கு சிங்கங்களும் வட்ட மேடையில் நான்கு திசைகளை நோக்கி அமர்ந்திருப்பதே",
+          "முதல் சிற்பத்திலிருந்து நான்காவது சிங்கம் நீக்கப்பட்டதே"
         ],
         "explanation": "கீழ்ப்பகுதியில் யானை, குதிரை, காளை, சிங்கம் ஆகியவை உள்ளன; அவற்றுக்கிடையே அறச்சக்கரம் உள்ளது."
       }
@@ -595,9 +595,9 @@
         "q": "The National Emblem is found at the top of",
         "options": [
           "government communication, Indian currency and passport",
-          "school textbooks only",
-          "railway tickets only",
-          "postal stamps only"
+          "private company letterheads and shop signboards",
+          "cinema tickets, film posters and advertisement hoardings",
+          "cricket team jerseys, bats and other sports equipment"
         ],
         "explanation": "The emblem was accepted on 26th January 1950."
       },
@@ -605,9 +605,9 @@
         "q": "தேசிய இலச்சினை இடம்பெறுவது",
         "options": [
           "அரசுத் தகவல் தொடர்புகள், இந்திய நாணயத்தாள்கள், கடவுச்சீட்டு ஆகியவற்றின் மேலே",
-          "பள்ளிப் பாடநூல்களில் மட்டும்",
-          "இரயில் பயணச்சீட்டுகளில் மட்டும்",
-          "அஞ்சல் தலைகளில் மட்டும்"
+          "தனியார் நிறுவனக் கடிதத் தலைப்புகள், கடை விளம்பரப் பலகைகள் ஆகியவற்றின் மேலே",
+          "திரையரங்கப் பயணச்சீட்டுகள், திரைப்பட விளம்பரத் தட்டிகள் ஆகியவற்றின் மேலே",
+          "கிரிக்கெட் அணியின் சீருடைகள், மட்டைகள், விளையாட்டுக் கருவிகள் ஆகியவற்றின் மேலே"
         ],
         "explanation": "தேசிய இலச்சினை 1950 ஜனவரி 26 அன்று ஏற்கப்பட்டது."
       }
@@ -827,9 +827,9 @@
         "q": "The symbol of the Indian Rupee was designed in 2010 by",
         "options": [
           "D. Udhayakumar of Tamil Nadu",
-          "Pingali Venkayya",
-          "Meghnad Saha",
-          "Sher Shah Sur"
+          "Pingali Venkayya of Andhra Pradesh",
+          "Meghnad Saha of Bengal",
+          "Sher Shah Sur of Bihar"
         ],
         "explanation": "The currency 'Rupiya' was released by Sher Shah Sur in the sixteenth century."
       },
@@ -837,9 +837,9 @@
         "q": "இந்திய ரூபாயின் குறியீட்டை 2010-இல் வடிவமைத்தவர்",
         "options": [
           "தமிழ்நாட்டைச் சேர்ந்த டி. உதயகுமார்",
-          "பிங்கலி வெங்கய்யா",
-          "மேகநாத் சாஹா",
-          "ஷெர்ஷா சூரி"
+          "ஆந்திரப் பிரதேசத்தைச் சேர்ந்த பிங்கலி வெங்கய்யா",
+          "வங்காளத்தைச் சேர்ந்த மேகநாத் சாஹா",
+          "பிகாரைச் சேர்ந்த ஷெர்ஷா சூரி"
         ],
         "explanation": "'ரூபியா' நாணயத்தை பதினாறாம் நூற்றாண்டில் ஷெர்ஷா சூரி வெளியிட்டார்."
       }
@@ -886,20 +886,20 @@
         "options": [
           "April 14",
           "January 1",
-          "March 22 (March 21 in a leap year)",
+          "March 22",
           "October 2"
         ],
-        "explanation": "The national calendar began with the new calendar of 78 CE."
+        "explanation": "In a leap year the year begins on March 21. The national calendar began with the new calendar of 78 CE."
       },
       "ta": {
         "q": "தேசியக் காலண்டரின் ஆண்டு தொடங்கும் வசந்தகால சம இரவு நாள்",
         "options": [
           "ஏப்ரல் 14",
           "ஜனவரி 1",
-          "மார்ச் 22 (லீப் ஆண்டில் மார்ச் 21)",
+          "மார்ச் 22",
           "அக்டோபர் 2"
         ],
-        "explanation": "தேசியக் காலண்டர் பொ.ஆ. 78-இல் தொடங்கிய புதிய காலண்டரைப் பின்பற்றுகிறது."
+        "explanation": "லீப் ஆண்டில் ஆண்டு மார்ச் 21 அன்று தொடங்கும். தேசியக் காலண்டர் பொ.ஆ. 78-இல் தொடங்கிய புதிய காலண்டரைப் பின்பற்றுகிறது."
       }
     },
     {
@@ -982,7 +982,7 @@
         "q": "குடியரசு தினக் கொண்டாட்டங்கள் ஜனவரி 29 அன்று எந்த நிகழ்ச்சியுடன் நிறைவு பெறுகின்றன?",
         "options": [
           "செங்கோட்டையில் கொடியேற்றம்",
-          "அணிவகுப்பு நிறைவு விழா (பீட்டிங் ரிட்ரீட்)",
+          "அணிவகுப்பு நிறைவு விழா",
           "தர்ம சக்கர பிரவர்த்தனம்",
           "உப்புச் சத்தியாகிரக யாத்திரை"
         ],
@@ -1000,20 +1000,20 @@
       "en": {
         "q": "Every year January 26 is celebrated as Republic Day because on that day in 1950",
         "options": [
-          "the National Anthem was first sung",
-          "India became independent",
-          "the Constitution commenced and India was declared a Republic",
-          "Gandhiji was born"
+          "the National Anthem was composed by Tagore and first sung",
+          "India became independent from British rule after a long struggle",
+          "the Constitution came into force and India became a Republic",
+          "Gandhiji was born in Porbandar in the year 1869"
         ],
         "explanation": "From August 1947 to 26 January 1950, a British monarch was the honorary head of India."
       },
       "ta": {
         "q": "ஒவ்வோர் ஆண்டும் ஜனவரி 26 குடியரசு தினமாகக் கொண்டாடப்படக் காரணம், 1950-இல் அந்நாளில்",
         "options": [
-          "தேசிய கீதம் முதன்முதலில் பாடப்பட்டதே",
-          "இந்தியா சுதந்திரம் பெற்றதே",
-          "அரசமைப்புச் சட்டம் நடைமுறைக்கு வந்து இந்தியா குடியரசு நாடாக அறிவிக்கப்பட்டதே",
-          "காந்தியடிகள் பிறந்ததே"
+          "தேசிய கீதம் தாகூரால் இயற்றப்பட்டு முதன்முதலில் பாடப்பட்டதே",
+          "நீண்ட போராட்டத்துக்குப் பின் இந்தியா பிரிட்டிஷ் ஆட்சியிலிருந்து சுதந்திரம் பெற்றதே",
+          "அரசமைப்புச் சட்டம் நடைமுறைக்கு வந்து இந்தியா குடியரசு ஆனதே",
+          "காந்தியடிகள் 1869இல் போர்பந்தரில் பிறந்ததே"
         ],
         "explanation": "1947 ஆகஸ்ட் முதல் 1950 ஜனவரி 26 வரை பிரிட்டிஷ் மன்னர் இந்தியாவின் கௌரவத் தலைவராக இருந்தார்."
       }

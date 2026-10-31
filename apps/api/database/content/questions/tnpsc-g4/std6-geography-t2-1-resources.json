@@ -111,9 +111,9 @@
       "ta": {
         "q": "ஒரு பொருள் வளமாகக் கருதப்படுமா என்பதைத் தீர்மானிக்கும் இரு காரணிகள் எவை?",
         "options": [
-          "விலையும் இடமும்",
+          "விலையும் அமைவிடமும்",
           "நிறமும் வடிவமும்",
-          "எடையும் அளவும்",
+          "எடையும் பருமனும்",
           "காலமும் தொழில்நுட்பமும்"
         ],
         "explanation": "சூரியத் தகடுகள் கண்டுபிடிக்கப்பட்டதும் (தொழில்நுட்பம்) நிலக்கரி, பெட்ரோல் குறைந்ததும் (காலம்) சூரிய ஆற்றலை வளமாக்கின."
@@ -218,8 +218,8 @@
         "q": "Which of the following is NOT one of the primary activities by which early man collected things?",
         "options": [
           "Forestry",
-          "Hunting",
-          "Fishing",
+          "Hunting animals",
+          "Fishing in rivers",
           "Manufacturing"
         ],
         "explanation": "Primary activities such as hunting, food gathering, fishing and forestry came first; later agriculture and mining."
@@ -230,7 +230,7 @@
           "காடு சார்ந்த தொழில்",
           "வேட்டையாடுதல்",
           "மீன்பிடித்தல்",
-          "உற்பத்தி (தொழிற்சாலைத் தயாரிப்பு)"
+          "தொழிற்சாலை உற்பத்தி"
         ],
         "explanation": "வேட்டை, உணவுச் சேகரிப்பு, மீன்பிடித்தல், காடுசார் தொழில்கள் முதலில் தோன்றின; பின்னர் வேளாண்மையும் சுரங்கத் தொழிலும் தோன்றின."
       }
@@ -277,18 +277,18 @@
         "options": [
           "are not being used and whose quantity is unknown",
           "are being used and whose available quantity is known",
-          "can renew themselves",
-          "are found only in the open ocean"
+          "can renew themselves within a short time",
+          "are found in the deep sea beyond any country's reach"
         ],
         "explanation": "Potential resources are not being used in the present and their quantity and location are not known."
       },
       "ta": {
         "q": "நடப்பு (உண்மை) வளங்கள் என்பவை",
         "options": [
-          "பயன்படுத்தப்படாதவை; அளவு அறியப்படாதவை",
-          "தற்போது பயன்படுத்தப்படுபவை; அவற்றின் கிடைக்கும் அளவு அறியப்பட்டவை",
-          "தாமாகவே புதுப்பித்துக்கொள்பவை",
-          "திறந்த கடலில் மட்டுமே காணப்படுபவை"
+          "இன்னும் பயன்படுத்தப்படாதவை; அளவு அறியப்படாதவை",
+          "தற்போது பயன்படுத்தப்படுபவை; கிடைக்கும் அளவு அறியப்பட்டவை",
+          "தாமாகவே மீண்டும் புதுப்பித்துக்கொள்ளும் தன்மை உடையவை",
+          "எந்த நாட்டின் எல்லைக்கும் எட்டாத ஆழ்கடலில் காணப்படுபவை"
         ],
         "explanation": "உள்ளாற்றல் வளங்கள் தற்போது பயன்படுத்தப்படாதவை; அவற்றின் அளவும் இடமும் அறியப்படாதவை."
       }
@@ -333,19 +333,19 @@
       "en": {
         "q": "Which of the following is a use of marine yeast mentioned in the book?",
         "options": [
-          "Making steel",
-          "Making cement",
-          "Generating electricity directly",
-          "Bio-ethanol and pharmaceutical protein production"
+          "Making steel for railway tracks",
+          "Making cement for construction work",
+          "Generating electricity directly from sunlight",
+          "Bio-ethanol and medicinal protein production"
         ],
         "explanation": "Marine yeast can also be used in baking, brewing and wine."
       },
       "ta": {
         "q": "நூலில் குறிப்பிடப்பட்டுள்ள கடல் ஈஸ்டின் பயன்களுள் ஒன்று எது?",
         "options": [
-          "எஃகு தயாரிப்பு",
-          "சிமெண்ட் தயாரிப்பு",
-          "நேரடியாக மின்சாரம் உற்பத்தி",
+          "இருப்புப்பாதைக்கான எஃகு தயாரிப்பு",
+          "கட்டுமானத்துக்கான சிமெண்ட் தயாரிப்பு",
+          "சூரிய ஒளியிலிருந்து நேரடியாக மின்சாரம் உற்பத்தி",
           "உயிரி எத்தனால், மருந்துப் புரத உற்பத்தி"
         ],
         "explanation": "ரொட்டி சுடுதல், மதுக் காய்ச்சுதல் ஆகியவற்றிலும் கடல் ஈஸ்ட் பயன்படுகிறது."
@@ -362,10 +362,10 @@
       "en": {
         "q": "Why should renewable resources such as air and water still be used wisely?",
         "options": [
-          "Misuse of such resources can also limit their available quantity",
-          "They can never be renewed",
-          "They are found only in specific regions",
-          "They are privately owned"
+          "Misuse of such resources can limit their available quantity",
+          "They stop renewing themselves after some years of use",
+          "They are found in a few specific regions of the world",
+          "They are owned privately by a few rich companies"
         ],
         "explanation": "Renewable resources are those that can be renewed with the passage of time after being consumed."
       },
@@ -373,9 +373,9 @@
         "q": "காற்று, நீர் போன்ற புதுப்பிக்கத்தக்க வளங்களையும் ஏன் கவனமாகப் பயன்படுத்த வேண்டும்?",
         "options": [
           "இவற்றைத் தவறாகப் பயன்படுத்தினால் கிடைக்கும் அளவு குறையக்கூடும் என்பதால்",
-          "இவற்றைப் புதுப்பிக்கவே முடியாது என்பதால்",
-          "இவை குறிப்பிட்ட பகுதிகளில் மட்டுமே உள்ளன என்பதால்",
-          "இவை தனியாருக்குச் சொந்தமானவை என்பதால்"
+          "சில ஆண்டு பயன்பாட்டுக்குப் பின் இவை புதுப்பிக்கப்படுவது நின்றுவிடும் என்பதால்",
+          "இவை உலகின் ஒரு சில குறிப்பிட்ட பகுதிகளில் காணப்படுகின்றன என்பதால்",
+          "இவை ஒரு சில செல்வந்த நிறுவனங்களுக்குச் சொந்தமானவை என்பதால்"
         ],
         "explanation": "புதுப்பிக்கத்தக்க வளங்கள் பயன்படுத்தப்பட்ட பின் காலப்போக்கில் தாமாகப் புதுப்பிக்கப்படுபவை."
       }
@@ -391,20 +391,20 @@
       "en": {
         "q": "Non-renewable resources such as coal and petroleum become exhausted after use because",
         "options": [
-          "they are renewed every year",
+          "they are renewed by nature within a single year",
           "the time they take to replace does not match the life cycle",
-          "they are found everywhere",
-          "they are owned by individuals"
+          "they are found everywhere on the Earth's surface",
+          "they are owned by private individuals and companies"
         ],
         "explanation": "Coal, petroleum, natural gas and other minerals are non-renewable."
       },
       "ta": {
         "q": "நிலக்கரி, பெட்ரோலியம் போன்ற புதுப்பிக்க இயலாத வளங்கள் பயன்படுத்திய பின் தீர்ந்துபோவதற்குக் காரணம்",
         "options": [
-          "அவை ஆண்டுதோறும் புதுப்பிக்கப்படுவதே",
-          "அவை மீண்டும் உருவாகும் காலம் உயிர் வாழ்க்கைச் சுழற்சிக்குப் பொருந்தாமல் இருப்பதே",
-          "அவை எங்கும் காணப்படுவதே",
-          "அவை தனிநபர்களுக்குச் சொந்தமானவை என்பதே"
+          "அவை ஒவ்வோர் ஆண்டும் இயற்கையால் புதுப்பிக்கப்படுவதே",
+          "அவை மீண்டும் உருவாகும் காலம் வாழ்க்கைச் சுழற்சிக்குப் பொருந்தாததே",
+          "அவை புவியின் மேற்பரப்பில் எல்லா இடங்களிலும் காணப்படுவதே",
+          "அவை தனிநபர்களும் நிறுவனங்களும் சொந்தமாக்கிக் கொண்டவை என்பதே"
         ],
         "explanation": "நிலக்கரி, பெட்ரோலியம், இயற்கை எரிவாயு, பிற கனிமங்கள் ஆகியவை புதுப்பிக்க இயலாதவை."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Though human beings are basically natural resources, they are classified separately as human resources because",
         "options": [
-          "they are not useful to society",
-          "they are found in specific regions only",
-          "education, health, knowledge and skill have made them a valuable resource",
-          "they are privately owned"
+          "they are of no use to the society that surrounds them",
+          "they are found in specific regions of the world",
+          "education, health, knowledge and skill make them a valuable resource",
+          "they are owned privately by a few rich families"
         ],
         "explanation": "Doctors, teachers and scientists are examples of human resources."
       },
       "ta": {
         "q": "மனிதர்கள் அடிப்படையில் இயற்கை வளங்களே ஆயினும், அவர்கள் தனியாக மனித வளமாக வகைப்படுத்தப்படக் காரணம்",
         "options": [
-          "அவர்கள் சமுதாயத்திற்குப் பயனற்றவர்கள் என்பதே",
-          "அவர்கள் குறிப்பிட்ட பகுதிகளில் மட்டுமே இருப்பதே",
-          "கல்வி, உடல்நலம், அறிவு, திறன் ஆகியவை அவர்களை மதிப்புமிக்க வளமாக்கியுள்ளதே",
-          "அவர்கள் தனியாருக்குச் சொந்தமானவர்கள் என்பதே"
+          "அவர்கள் தம்மைச் சுற்றியுள்ள சமுதாயத்திற்குப் பயனற்றவர்கள் என்பதே",
+          "அவர்கள் உலகின் குறிப்பிட்ட சில பகுதிகளில் இருப்பதே",
+          "கல்வி, உடல்நலம், அறிவு, திறன் அவர்களை மதிப்புமிக்க வளமாக்குவதே",
+          "அவர்கள் ஒரு சில செல்வந்தக் குடும்பங்களுக்குச் சொந்தமானவர்கள் என்பதே"
         ],
         "explanation": "மருத்துவர்கள், ஆசிரியர்கள், அறிவியலறிஞர்கள் ஆகியோர் மனித வளங்களுக்கு எடுத்துக்காட்டு."
       }
@@ -652,20 +652,20 @@
       "en": {
         "q": "According to Gandhian thought, human beings were to be blamed for the depletion of resources because of",
         "options": [
-          "the movement of the Sun",
-          "scarcity of rainfall",
-          "over exploitation of resources and their unlimited needs",
-          "natural disasters only"
+          "the movement of the Sun across the sky",
+          "scarcity of rainfall in most regions",
+          "over exploitation of resources and unlimited needs",
+          "natural disasters such as floods and cyclones"
         ],
         "explanation": "So, conservation is very important."
       },
       "ta": {
         "q": "காந்தியச் சிந்தனையின்படி, வளங்கள் குறைவதற்கு மனிதர்களே காரணம் என்பதற்கான காரணங்கள்",
         "options": [
-          "சூரியனின் இயக்கம்",
-          "மழைப்பொழிவு குறைவு",
+          "வானில் சூரியன் தினமும் இடம்பெயர்வதன் இயக்கம்",
+          "பெரும்பாலான பகுதிகளில் மழைப்பொழிவு குறைவு",
           "வளங்களை மிகையாகச் சுரண்டுவதும் மனிதரின் எல்லையற்ற தேவைகளும்",
-          "இயற்கைப் பேரிடர்கள் மட்டுமே"
+          "வெள்ளம், புயல் போன்ற இயற்கைப் பேரிடர்கள்"
         ],
         "explanation": "எனவே வளப் பாதுகாப்பு மிகவும் முக்கியம்."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "Resource planning is necessary because resources are",
         "options": [
-          "all renewable",
-          "unlimited and found equally everywhere",
-          "all man-made",
-          "limited and unevenly distributed over the different parts of the world"
+          "renewable and so available in unlimited amounts",
+          "unlimited in amount and found equally in all places",
+          "man-made and produced in factories when needed",
+          "limited and unevenly distributed over the world"
         ],
         "explanation": "It is also essential to protect resources from over exploitation."
       },
       "ta": {
         "q": "வளத் திட்டமிடல் தேவைப்படக் காரணம், வளங்கள்",
         "options": [
-          "அனைத்தும் புதுப்பிக்கத்தக்கவை",
-          "வரம்பற்றவை; எங்கும் சமமாகக் கிடைப்பவை",
-          "அனைத்தும் மனிதனால் உருவாக்கப்பட்டவை",
-          "குறைந்த அளவே உள்ளவை; உலகின் பல பகுதிகளில் சமமின்றிப் பரவியுள்ளவை"
+          "புதுப்பிக்கத்தக்கவை என்பதால் வரம்பற்ற அளவில் கிடைப்பவை",
+          "அளவில் வரம்பற்றவை; எல்லா இடங்களிலும் சமமாகக் கிடைப்பவை",
+          "மனிதனால் உருவாக்கப்பட்டவை; தொழிற்சாலைகளில் தேவைக்கேற்ப உற்பத்தியாகின்றன",
+          "குறைந்த அளவே உள்ளவை; உலகின் பகுதிகளில் சமமின்றிப் பரவியுள்ளவை"
         ],
         "explanation": "வளங்களை அதிகச் சுரண்டலிலிருந்து காப்பதற்கும் திட்டமிடல் அவசியம்."
       }
@@ -768,20 +768,20 @@
       "en": {
         "q": "Which of the following helps sustainable development, according to the book?",
         "options": [
-          "Cutting down natural vegetation",
-          "Using resources without any limit",
-          "Preventing wastage and excess consumption of resources",
-          "Using only non-renewable resources"
+          "Cutting down natural vegetation for farmland",
+          "Using resources without any limit or planning",
+          "Preventing wastage and over-consumption of resources",
+          "Depending on non-renewable resources for all needs"
         ],
         "explanation": "Sustainable development also requires preserving natural vegetation and wild life and using alternative resources."
       },
       "ta": {
         "q": "நூலின்படி, நிலையான வளர்ச்சிக்கு உதவுவது எது?",
         "options": [
-          "இயற்கைத் தாவரங்களை அழித்தல்",
-          "வளங்களை எல்லையின்றிப் பயன்படுத்துதல்",
+          "வேளாண் நிலத்துக்காக இயற்கைத் தாவரங்களை அழித்தல்",
+          "வளங்களை எல்லையும் திட்டமும் இன்றிப் பயன்படுத்துதல்",
           "வளங்களின் வீணாக்கலையும் மிகை நுகர்வையும் தடுத்தல்",
-          "புதுப்பிக்க இயலாத வளங்களை மட்டுமே பயன்படுத்துதல்"
+          "புதுப்பிக்க இயலாத வளங்களைச் சார்ந்திருத்தல்"
         ],
         "explanation": "இயற்கைத் தாவரங்களையும் வனவிலங்குகளையும் பாதுகாத்தல், மாற்று வளங்களைப் பயன்படுத்துதலும் நிலையான வளர்ச்சிக்குத் தேவை."
       }

@@ -72,20 +72,20 @@
       "en": {
         "q": "The statement that an object may seem at rest for one observer and in motion for another shows that",
         "options": [
-          "only living things can be in motion",
-          "rest and motion are absolute",
-          "rest and motion are relative",
-          "motion needs no reference at all"
+          "living things move while non-living things stay at rest",
+          "rest and motion are fixed, absolute states",
+          "rest and motion are relative to the observer",
+          "motion can be described without any reference point"
         ],
         "explanation": "Whether an object is at rest or in motion depends on the observer, so rest and motion are relative."
       },
       "ta": {
         "q": "ஒரு பொருள் ஒருவருக்கு ஓய்வில் உள்ளது போலவும் மற்றொருவருக்கு இயக்கத்தில் உள்ளது போலவும் தோன்றுவது எதை உணர்த்துகிறது?",
         "options": [
-          "உயிருள்ளவை மட்டுமே இயக்கத்தில் இருக்க முடியும்",
-          "ஓய்வும் இயக்கமும் தனித்தனி நிலைத்த நிலைகள்",
-          "ஓய்வும் இயக்கமும் ஒன்றையொன்று சார்ந்தவை (சார்புடையவை)",
-          "இயக்கத்திற்கு எந்தத் தொடர்பு நிலையும் தேவையில்லை"
+          "உயிருள்ளவை இயங்கும்; உயிரற்றவை ஓய்வில் இருக்கும்",
+          "ஓய்வும் இயக்கமும் நிலையான, தனித்த நிலைகள்",
+          "ஓய்வும் இயக்கமும் பார்ப்பவரைச் சார்ந்தவை",
+          "எந்தத் தொடர்பு நிலையும் இல்லாமல் இயக்கத்தை விவரிக்கலாம்"
         ],
         "explanation": "ஓய்வு, இயக்கம் ஆகியவை பார்ப்பவரின் நிலையைப் பொறுத்தவை; எனவே அவை சார்புடையவை."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "The motion of people walking in a crowded street is an example of",
         "options": [
-          "zigzag (irregular) motion",
-          "linear motion",
-          "circular motion",
-          "rotatory motion"
+          "irregular zigzag motion in many directions",
+          "linear motion along a straight line",
+          "circular motion around a fixed point",
+          "rotatory motion about an axis"
         ],
         "explanation": "Zigzag (irregular) motion is the motion of a body in different directions."
       },
       "ta": {
         "q": "நெரிசலான தெருவில் மக்கள் நடந்து செல்லும் இயக்கம் எதற்கு எடுத்துக்காட்டாகும்?",
         "options": [
-          "ஒழுங்கற்ற (குறுக்கும் நெடுக்குமான) இயக்கம்",
-          "நேர்கோட்டு இயக்கம்",
-          "வட்டப்பாதை இயக்கம்",
-          "சுழற்சி இயக்கம்"
+          "ஒழுங்கற்ற, பல திசைகளிலான குறுக்கும் நெடுக்குமான இயக்கம்",
+          "நேர்கோட்டில் செல்லும் நேர்கோட்டு இயக்கம்",
+          "நிலைத்த புள்ளியைச் சுற்றும் வட்டப்பாதை இயக்கம்",
+          "அச்சைப் பற்றிய சுழற்சி இயக்கம்"
         ],
         "explanation": "ஒரு பொருள் பல்வேறு திசைகளில் இயங்குவது ஒழுங்கற்ற இயக்கம் ஆகும்."
       }
@@ -982,7 +982,7 @@
         "q": "நூலின் தகவல் பெட்டியின்படி, நிலத்தில் வாழும் மிக வேகமான விலங்கு எது?",
         "options": [
           "சிங்கம்",
-          "சிறுத்தை (சீட்டா)",
+          "சிறுத்தை",
           "குதிரை",
           "புலி"
         ],
@@ -1232,20 +1232,20 @@
       "en": {
         "q": "Artificial intelligence attempts to create",
         "options": [
-          "robots that cannot be programmed",
-          "machines that never need electricity",
+          "robots that work without any program or instructions",
+          "machines that run without electricity or fuel",
           "computer programs that think like human brains",
-          "instruments to measure time"
+          "instruments to measure time and distance"
         ],
         "explanation": "Artificial intelligence tries to make computer programs think like human brains."
       },
       "ta": {
         "q": "செயற்கை நுண்ணறிவு (Artificial intelligence) எதை உருவாக்க முயல்கிறது?",
         "options": [
-          "நிரலிட முடியாத ரோபோக்களை",
-          "மின்சாரமே தேவைப்படாத எந்திரங்களை",
+          "எந்த நிரலும் அறிவுறுத்தலும் இன்றிச் செயல்படும் ரோபோக்களை",
+          "மின்சாரமோ எரிபொருளோ இன்றி இயங்கும் எந்திரங்களை",
           "மனித மூளையைப் போலச் சிந்திக்கும் கணினி நிரல்களை",
-          "காலத்தை அளக்கும் கருவிகளை"
+          "நேரத்தையும் தொலைவையும் அளக்கும் கருவிகளை"
         ],
         "explanation": "செயற்கை நுண்ணறிவு, மனித மூளையைப் போலச் சிந்திக்கும் கணினி நிரல்களை உருவாக்க முயல்கிறது."
       }

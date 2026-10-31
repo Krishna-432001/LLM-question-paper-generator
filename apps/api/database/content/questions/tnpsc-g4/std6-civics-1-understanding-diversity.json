@@ -73,9 +73,9 @@
         "q": "Why is India known as a sub-continent?",
         "options": [
           "It is surrounded by oceans on all sides",
-          "It is a very small country",
-          "It has all the physical features and weather patterns of a continent",
-          "It has only plains"
+          "It is a small country with very limited physical variety",
+          "It has the physical features and weather patterns of a continent",
+          "It has a uniform landscape of plains and a single climate"
         ],
         "explanation": "The landforms and climate have an underlying influence upon the people living in different parts of the country."
       },
@@ -83,9 +83,9 @@
         "q": "இந்தியா ஏன் துணைக்கண்டம் எனப்படுகிறது?",
         "options": [
           "இது எல்லாப் பக்கங்களிலும் பெருங்கடல்களால் சூழப்பட்டுள்ளது",
-          "இது மிகச் சிறிய நாடு",
-          "ஒரு கண்டத்திலுள்ள அனைத்து நில அமைப்புகளும் வானிலை முறைகளும் இங்கு உள்ளன",
-          "இங்கு சமவெளிகள் மட்டுமே உள்ளன"
+          "இது இயற்கை அமைப்பில் குறைந்த வேறுபாடு உள்ள சிறிய நாடு",
+          "ஒரு கண்டத்திலுள்ள நில அமைப்புகளும் வானிலை முறைகளும் இங்கு உள்ளன",
+          "இது ஒரே நிலத்தோற்றமும் ஒரே காலநிலையும் கொண்ட சமவெளி"
         ],
         "explanation": "நிலத்தோற்றமும் தட்பவெப்பமும் அந்தந்தப் பகுதியில் வாழும் மக்களின் வாழ்க்கையில் செல்வாக்குச் செலுத்துகின்றன."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "The term 'culture' refers to",
         "options": [
-          "only the festivals of a region",
-          "only the language of a people",
-          "only the buildings of a region",
-          "the customs and practices of people, their language, dress code, cuisine, religion, social habits, music, art and architecture"
+          "the political parties, leaders and elections of a region",
+          "the rivers, hills, soils and climate of a people's homeland",
+          "the roads, bridges and public buildings built by a government",
+          "the customs, language, dress, food, religion, music and art of people"
         ],
         "explanation": "The culture of a group of people is reflected in their social behaviour and interactions."
       },
       "ta": {
         "q": "'பண்பாடு' (culture) என்பது",
         "options": [
-          "ஒரு பகுதியின் திருவிழாக்களை மட்டும் குறிக்கும்",
-          "மக்களின் மொழியை மட்டும் குறிக்கும்",
-          "ஒரு பகுதியின் கட்டடங்களை மட்டும் குறிக்கும்",
-          "மக்களின் பழக்கவழக்கங்கள், மொழி, உடை, உணவு, சமயம், சமூகப் பழக்கங்கள், இசை, கலை, கட்டடக்கலை ஆகியவற்றைக் குறிக்கும்"
+          "ஒரு பகுதியின் அரசியல் கட்சிகள், தலைவர்கள், தேர்தல்களைக் குறிக்கும்",
+          "ஒரு மக்களின் தாயகத்திலுள்ள ஆறுகள், மலைகள், மண், காலநிலையைக் குறிக்கும்",
+          "அரசு கட்டிய சாலைகள், பாலங்கள், பொது நிறுவனங்களைக் குறிக்கும்",
+          "மக்களின் பழக்கவழக்கங்கள், மொழி, உடை, உணவு, சமயம், இசை, கலையைக் குறிக்கும்"
         ],
         "explanation": "ஒரு மக்கள் குழுவின் பண்பாடு அவர்களின் சமூக நடத்தையிலும் தொடர்புகளிலும் வெளிப்படுகிறது."
       }
@@ -565,9 +565,9 @@
       "en": {
         "q": "Which of the following is a folk dance of Tamil Nadu?",
         "options": [
-          "Bihu",
+          "Dollu Kunitha",
           "Bhangra",
-          "Garba",
+          "Ghoomar",
           "Karagattam"
         ],
         "explanation": "Oyillattam, Kummi, Therukoothu, Bommalattam, Puliattam, Kolattam and Thappattam are other folk dances of Tamil Nadu."
@@ -575,9 +575,9 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் தமிழ்நாட்டின் நாட்டுப்புற நடனம் எது?",
         "options": [
-          "பிகு",
+          "டொல்லு குனிதா",
           "பாங்க்ரா",
-          "கர்பா",
+          "கூமர்",
           "கரகாட்டம்"
         ],
         "explanation": "ஒயிலாட்டம், கும்மி, தெருக்கூத்து, பொம்மலாட்டம், புலியாட்டம், கோலாட்டம், தப்பாட்டம் ஆகியவை தமிழ்நாட்டின் பிற நாட்டுப்புற நடனங்கள்."
@@ -594,7 +594,7 @@
       "en": {
         "q": "Mohiniyattam is a classical dance of",
         "options": [
-          "Keralam (Kerala)",
+          "Keralam",
           "Tamil Nadu",
           "Manipur",
           "Karnataka"
@@ -623,20 +623,20 @@
       "en": {
         "q": "Which of the following remind us of our great nation and the need to stay united?",
         "options": [
-          "Differences in food habits",
+          "Differences in food habits across regions",
           "The National Flag and the National Anthem",
-          "Differences in dress",
-          "Differences in festivals"
+          "Differences in dress across states",
+          "Differences in festivals across communities"
         ],
         "explanation": "Celebrating Independence Day, Republic Day and Gandhi Jayanthi every year also keeps the spirit of one nation alive."
       },
       "ta": {
         "q": "நம் மாபெரும் நாட்டையும் ஒற்றுமையாக இருக்க வேண்டிய தேவையையும் நினைவூட்டுபவை எவை?",
         "options": [
-          "உணவுப் பழக்கங்களில் உள்ள வேறுபாடுகள்",
+          "பகுதிகளுக்கு இடையிலான உணவுப் பழக்க வேறுபாடுகள்",
           "தேசியக் கொடியும் தேசிய கீதமும்",
-          "உடைகளில் உள்ள வேறுபாடுகள்",
-          "திருவிழாக்களில் உள்ள வேறுபாடுகள்"
+          "மாநிலங்களுக்கு இடையிலான உடை வேறுபாடுகள்",
+          "சமூகங்களுக்கு இடையிலான திருவிழா வேறுபாடுகள்"
         ],
         "explanation": "சுதந்திர நாள், குடியரசு நாள், காந்தி ஜெயந்தி ஆகியவற்றை ஆண்டுதோறும் கொண்டாடுவதும் ஒரே நாடு என்ற உணர்வை உயிர்ப்புடன் வைத்திருக்கிறது."
       }
@@ -681,9 +681,9 @@
       "en": {
         "q": "Which of the following is given as ample evidence to the spirit of unity of India?",
         "options": [
-          "Differences in landforms",
-          "Differences in language",
-          "Differences in religion",
+          "Differences in landforms and climate across regions",
+          "Differences in language and dialects across states",
+          "Differences in religion and faith across communities",
           "The freedom struggle and the drafting of the Constitution"
         ],
         "explanation": "India has a multi-cultural society and evolved as a single nation through common beliefs, customs and cultural practices."
@@ -691,9 +691,9 @@
       "ta": {
         "q": "இந்தியாவின் ஒற்றுமை உணர்வுக்குப் போதிய சான்றாக நூல் குறிப்பிடுவது எது?",
         "options": [
-          "நிலத்தோற்ற வேறுபாடுகள்",
-          "மொழி வேறுபாடுகள்",
-          "சமய வேறுபாடுகள்",
+          "பகுதிகளுக்கு இடையிலான நிலத்தோற்ற, காலநிலை வேறுபாடுகள்",
+          "மாநிலங்களுக்கு இடையிலான மொழி, கிளைமொழி வேறுபாடுகள்",
+          "சமூகங்களுக்கு இடையிலான சமய, நம்பிக்கை வேறுபாடுகள்",
           "விடுதலைப் போராட்டமும் அரசியலமைப்பை உருவாக்கியதும்"
         ],
         "explanation": "இந்தியா பல பண்பாடுகள் கொண்ட சமூகம்; பொதுவான நம்பிக்கைகள், வழக்கங்கள், பண்பாட்டுப் பழக்கங்கள் மூலம் ஒரே நாடாக உருவானது."
@@ -720,7 +720,7 @@
       "ta": {
         "q": "இணக்கத்துடனும் அமைதியுடனும் வாழ்வது",
         "options": [
-          "இணைந்து வாழ்தல் (co-existence)",
+          "இணைந்து வாழ்தல்",
           "ஒன்றையொன்று சார்ந்திருத்தல்",
           "பன்முகத்தன்மை",
           "மொழியியல்"

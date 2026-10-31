@@ -14,7 +14,7 @@
       "en": {
         "q": "Which was the first federal State in the modern world?",
         "options": [
-          "The United States of America",
+          "United States",
           "Canada",
           "Australia",
           "Switzerland"
@@ -24,7 +24,7 @@
       "ta": {
         "q": "நவீன உலகின் முதல் கூட்டாட்சி நாடு எது?",
         "options": [
-          "அமெரிக்க ஐக்கிய நாடுகள்",
+          "அமெரிக்கா",
           "கனடா",
           "ஆஸ்திரேலியா",
           "சுவிட்சர்லாந்து"
@@ -101,19 +101,19 @@
       "en": {
         "q": "How does the 'Territory of India' differ from the 'Union of States'?",
         "options": [
-          "The Territory of India excludes acquired territories",
-          "Both mean exactly the same thing",
-          "The Union of States includes Union Territories, but the Territory of India does not",
-          "The Territory of India includes the states, the Union Territories and any acquired territory, while the Union of States covers only the states"
+          "The Territory of India excludes the Union Territories and acquired territory, and covers only the states",
+          "Both mean the same thing, as each covers the states, the Union Territories and acquired territory",
+          "The Union of States includes the Union Territories, while the Territory of India covers only the states",
+          "The Territory of India includes the states, Union Territories and acquired territory; the Union of States covers only the states"
         ],
         "explanation": "Acquired territories, such as Pondicherry and Daman and Diu before they became Union Territories, are part of the Territory of India."
       },
       "ta": {
         "q": "'இந்திய நிலப்பகுதி' (Territory of India) 'மாநிலங்களின் ஒன்றியத்திலிருந்து' எவ்வாறு வேறுபடுகிறது?",
         "options": [
-          "இந்திய நிலப்பகுதி கையகப்படுத்திய பகுதிகளை உள்ளடக்காது",
-          "இரண்டும் ஒன்றே",
-          "மாநிலங்களின் ஒன்றியம் ஒன்றியப் பகுதிகளை உள்ளடக்கும்; இந்திய நிலப்பகுதி உள்ளடக்காது",
+          "இந்திய நிலப்பகுதி ஒன்றியப் பகுதிகளையும் கையகப்படுத்திய பகுதிகளையும் உள்ளடக்காது; மாநிலங்களை மட்டுமே உள்ளடக்கும்",
+          "இரண்டும் ஒன்றே; இரண்டும் மாநிலங்கள், ஒன்றியப் பகுதிகள், கையகப்படுத்திய பகுதிகளை உள்ளடக்கும்",
+          "மாநிலங்களின் ஒன்றியம் ஒன்றியப் பகுதிகளை உள்ளடக்கும்; இந்திய நிலப்பகுதி மாநிலங்களை மட்டுமே உள்ளடக்கும்",
           "இந்திய நிலப்பகுதி மாநிலங்கள், ஒன்றியப் பகுதிகள், கையகப்படுத்திய பகுதிகளை உள்ளடக்கும்; மாநிலங்களின் ஒன்றியம் மாநிலங்களை மட்டுமே உள்ளடக்கும்"
         ],
         "explanation": "ஒன்றியப் பகுதிகளாவதற்கு முந்தைய புதுச்சேரி, டாமன் டையு போன்ற கையகப்படுத்திய பகுதிகளும் இந்திய நிலப்பகுதியின் பகுதி."
@@ -198,10 +198,10 @@
       "ta": {
         "q": "நாடாளுமன்றச் சட்டங்கள் உலகின் எப்பகுதியிலும் உள்ள இந்தியக் குடிமக்களையும் அவர்களின் சொத்துகளையும் கட்டுப்படுத்துவது",
         "options": [
-          "பொது அதிகார வரம்பு",
-          "எஞ்சிய அதிகார வரம்பு",
+          "மத்திய, மாநிலப் பொது அதிகார வரம்பு",
+          "எஞ்சிய அதிகாரப் பகிர்வு வரம்பு",
           "நிலப்பகுதிக்கு அப்பாற்பட்ட அதிகார வரம்பு",
-          "ஆலோசனை அதிகார வரம்பு"
+          "உச்ச நீதிமன்ற ஆலோசனை அதிகார வரம்பு"
         ],
         "explanation": "மாநிலச் சட்டமன்றங்களுக்குத் தங்கள் நிலப்பகுதிக்கு வெளியே அதிகார வரம்பு இல்லை."
       }
@@ -217,9 +217,9 @@
       "en": {
         "q": "Parliament can make a law on a State List subject in which of the following situations?",
         "options": [
-          "Only after a constitutional amendment",
-          "Whenever a state government is in deficit",
-          "Whenever a Governor recommends it",
+          "Whenever the Lok Sabha passes a resolution by a simple majority",
+          "When a state government runs a deficit for two consecutive years",
+          "When the President of India recommends a common law on that subject",
           "When two or more states request a common law on that subject"
         ],
         "explanation": "Parliament can also legislate on State List subjects during a national emergency, to implement international agreements, under President's Rule, or on a Rajya Sabha resolution under Article 249."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "பின்வரும் சூழல்களில் எதில் நாடாளுமன்றம் மாநிலப் பட்டியல் பொருளில் சட்டமியற்றலாம்?",
         "options": [
-          "அரசமைப்புத் திருத்தத்துக்குப் பின் மட்டும்",
-          "ஒரு மாநில அரசு பற்றாக்குறையில் இருக்கும்போதெல்லாம்",
-          "ஆளுநர் பரிந்துரைக்கும்போதெல்லாம்",
+          "மக்களவை எளிய பெரும்பான்மையால் தீர்மானம் நிறைவேற்றும்போது",
+          "ஒரு மாநில அரசு தொடர்ந்து இரண்டு ஆண்டுகள் பற்றாக்குறையில் இருக்கும்போது",
+          "அப்பொருளில் பொதுச் சட்டம் இயற்றக் குடியரசுத் தலைவர் பரிந்துரைக்கும்போது",
           "இரண்டு அல்லது அதற்கு மேற்பட்ட மாநிலங்கள் அப்பொருளில் பொதுச் சட்டம் கோரும்போது"
         ],
         "explanation": "தேசிய நெருக்கடிநிலை, பன்னாட்டு உடன்படிக்கைகளைச் செயல்படுத்துதல், குடியரசுத் தலைவர் ஆட்சி, பிரிவு 249 இன் கீழ் மாநிலங்களவைத் தீர்மானம் ஆகியவற்றின்போதும் நாடாளுமன்றம் மாநிலப் பட்டியலில் சட்டமியற்றலாம்."

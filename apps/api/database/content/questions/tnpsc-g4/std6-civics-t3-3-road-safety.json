@@ -43,20 +43,20 @@
       "en": {
         "q": "The three types of traffic signs are",
         "options": [
-          "red, amber and green",
+          "red, amber and green coloured signs",
           "mandatory, cautionary and informatory",
-          "circular, square and oval",
-          "stop, go and wait"
+          "circular, square and oval shaped signs",
+          "stop, go and wait instruction signs"
         ],
         "explanation": "The three types of traffic signs are mandatory, cautionary and informatory."
       },
       "ta": {
         "q": "போக்குவரத்துக் குறியீடுகளின் மூன்று வகைகள்",
         "options": [
-          "சிவப்பு, அம்பர், பச்சை",
-          "கட்டாயக் குறியீடுகள், எச்சரிக்கைக் குறியீடுகள், தகவல் குறியீடுகள்",
-          "வட்டம், சதுரம், நீள்வட்டம்",
-          "நில், செல், காத்திரு"
+          "சிவப்பு, அம்பர், பச்சை நிறக் குறியீடுகள்",
+          "கட்டாய, எச்சரிக்கை, தகவல் குறியீடுகள்",
+          "வட்டம், சதுரம், நீள்வட்ட வடிவக் குறியீடுகள்",
+          "நில், செல், காத்திரு என்னும் அறிவுறுத்தல் குறியீடுகள்"
         ],
         "explanation": "போக்குவரத்துக் குறியீடுகள் கட்டாய (Mandatory), எச்சரிக்கை (Cautionary), தகவல் (Informatory) என மூவகைப்படும்."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "While the signal is red, you may turn left",
         "options": [
-          "only if a policeman allows",
-          "always, without looking at other traffic",
-          "never under any condition",
-          "if it is not prohibited by a sign, giving importance to pedestrians and other traffic"
+          "if you speed up so that you cross before the pedestrians",
+          "if you do not look at the other traffic",
+          "if you blow the horn continuously to warn others",
+          "if no sign prohibits it, giving way to pedestrians and other traffic"
         ],
         "explanation": "You may turn left on red if it is not prohibited by a sign, but give importance to pedestrians and other traffic."
       },
       "ta": {
         "q": "சிவப்பு விளக்கு எரியும்போது இடப்புறம் திரும்புவது",
         "options": [
-          "காவலர் அனுமதித்தால் மட்டுமே திரும்பலாம்",
-          "பிற வாகனங்களைப் பார்க்காமல் எப்போதும் திரும்பலாம்",
-          "எந்த நிலையிலும் திரும்பக் கூடாது",
-          "தடைசெய்யும் குறியீடு இல்லையெனில், பாதசாரிகளுக்கும் பிற வாகனங்களுக்கும் முன்னுரிமை அளித்துத் திரும்பலாம்"
+          "பாதசாரிகள் வருவதற்கு முன் கடந்து செல்வதற்காக வேகத்தைக் கூட்டித் திரும்பலாம்",
+          "பிற வாகனங்கள் வருவதைப் பார்க்காமல் வேகமாகத் திரும்பலாம்",
+          "தொடர்ந்து ஒலிப்பானை ஒலித்துச் சுற்றியிருப்போரை எச்சரித்துத் திரும்பலாம்",
+          "தடைக் குறியீடு இல்லையெனில், பாதசாரிகளுக்கும் பிற வாகனங்களுக்கும் வழிவிட்டுத் திரும்பலாம்"
         ],
         "explanation": "தடைக் குறியீடு இல்லையெனில் சிவப்பு விளக்கிலும் இடப்புறம் திரும்பலாம்; ஆனால் பாதசாரிகள், பிற வாகனங்களுக்கு முன்னுரிமை தர வேண்டும்."
       }
@@ -247,9 +247,9 @@
         "q": "A green arrow in a traffic signal means that you can",
         "options": [
           "go in the direction shown by the arrow",
-          "stop and wait",
-          "go in any direction",
-          "reverse your vehicle"
+          "stop and wait for the next signal",
+          "go in any direction you choose",
+          "reverse your vehicle if the road is clear"
         ],
         "explanation": "A green arrow means you can go in the direction shown by the arrow."
       },
@@ -257,9 +257,9 @@
         "q": "போக்குவரத்து சமிக்ஞையில் பச்சை அம்புக்குறி எதைக் குறிக்கிறது?",
         "options": [
           "அம்புக்குறி காட்டும் திசையில் செல்லலாம்",
-          "நின்று காத்திருக்க வேண்டும்",
-          "எந்தத் திசையிலும் செல்லலாம்",
-          "வாகனத்தைப் பின்னோக்கி இயக்கலாம்"
+          "நின்று அடுத்த சமிக்ஞைக்காகக் காத்திருக்க வேண்டும்",
+          "நீங்கள் விரும்பும் எந்தத் திசையிலும் செல்லலாம்",
+          "சாலை காலியாக இருந்தால் வாகனத்தைப் பின்னோக்கி இயக்கலாம்"
         ],
         "explanation": "பச்சை அம்புக்குறி, அது காட்டும் திசையில் செல்லலாம் என்பதைக் குறிக்கிறது."
       }
@@ -333,9 +333,9 @@
       "en": {
         "q": "The striped Belisha beacon light poles on pavements were named after",
         "options": [
-          "the inventor of traffic lights",
-          "a zebra",
-          "Britain's Prime Minister",
+          "the engineer who invented traffic lights",
+          "a town in Britain where it was first installed",
+          "a Prime Minister of Britain in the 1930s",
           "Britain's Minister of Transport, Hore-Belisha"
         ],
         "explanation": "The Belisha beacon poles were named after Britain's Minister of Transport L. Hore-Belisha."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "நடைபாதைகளிலுள்ள கோடிட்ட பெலிஷா பீக்கன் (Belisha beacon) விளக்குக் கம்பங்கள் யாரின் பெயரால் அழைக்கப்படுகின்றன?",
         "options": [
-          "போக்குவரத்து விளக்கைக் கண்டுபிடித்தவர்",
-          "வரிக்குதிரை",
-          "பிரிட்டன் பிரதமர்",
+          "போக்குவரத்து விளக்கைக் கண்டுபிடித்த பொறியாளர்",
+          "இது முதலில் நிறுவப்பட்ட பிரிட்டன் நகரம்",
+          "1930களில் பிரிட்டனின் பிரதமராக இருந்தவர்",
           "பிரிட்டனின் போக்குவரத்து அமைச்சர் ஹோர்-பெலிஷா"
         ],
         "explanation": "பெலிஷா பீக்கன் கம்பங்கள் பிரிட்டனின் போக்குவரத்து அமைச்சர் ஹோர்-பெலிஷாவின் பெயரால் அழைக்கப்படுகின்றன."
@@ -479,9 +479,9 @@
         "q": "Which of the following must a bicycle be fitted with, according to the book?",
         "options": [
           "Bell, brakes, rearview mirror and reflective tapes",
-          "Engine and horn",
-          "Speedometer and fog lamp",
-          "Siren and number plate"
+          "An engine, a horn and a fuel tank",
+          "A speedometer, a fog lamp and a tail pipe",
+          "A siren, a number plate and a flashing beacon"
         ],
         "explanation": "A cycle must be fitted with a bell, brakes, rearview mirror, white-painted front and back mudguards and reflective tapes."
       },
@@ -489,9 +489,9 @@
         "q": "நூலின்படி, மிதிவண்டியில் பொருத்தப்பட்டிருக்க வேண்டியவை எவை?",
         "options": [
           "மணி, பிரேக், பின்பார்வைக் கண்ணாடி, ஒளிப்பிரதிபலிப்பு நாடாக்கள்",
-          "இயந்திரம், ஒலிப்பான் (ஹார்ன்)",
-          "வேகமானி, மூடுபனி விளக்கு",
-          "சைரன், எண் பலகை"
+          "இயந்திரம், ஒலிப்பான், எரிபொருள் தொட்டி",
+          "வேகமானி, மூடுபனி விளக்கு, புகைபோக்கிக் குழாய், மின்கலம்",
+          "சைரன், எண் பலகை, மின்னும் எச்சரிக்கை விளக்கு, எரிபொருள் அளவி"
         ],
         "explanation": "மிதிவண்டியில் மணி, பிரேக், பின்பார்வைக் கண்ணாடி, வெள்ளை வண்ண மட்கார்டுகள், பிரதிபலிப்பு நாடாக்கள் இருக்க வேண்டும்."
       }
@@ -507,9 +507,9 @@
       "en": {
         "q": "While cycling on the road, one should cycle on",
         "options": [
-          "the extreme right side of the road",
-          "the extreme left side of the road or on the service road, if available",
-          "the middle of the road",
+          "the extreme right side of the road, facing traffic",
+          "the extreme left side of the road or the service road",
+          "the middle of the road, between the vehicles",
           "the footpath meant for pedestrians"
         ],
         "explanation": "A cyclist should ride on the extreme left side of the road or use the service road, if available."
@@ -517,10 +517,10 @@
       "ta": {
         "q": "சாலையில் மிதிவண்டி ஓட்டும்போது எங்கு ஓட்ட வேண்டும்?",
         "options": [
-          "சாலையின் தீவிர வலப்புறம்",
-          "சாலையின் தீவிர இடப்புறம் அல்லது இருந்தால் சேவைச் சாலையில்",
-          "சாலையின் நடுவில்",
-          "பாதசாரிகளுக்கான நடைபாதையில்"
+          "சாலையின் தீவிர வலப்புறம், எதிர்வரும் வாகனங்களை நோக்கி",
+          "சாலையின் தீவிர இடப்புறம் அல்லது சேவைச் சாலையில்",
+          "சாலையின் நடுவில், வாகனங்களுக்கு இடையில்",
+          "பாதசாரிகள் நடக்கும் நடைபாதையின் மேல்"
         ],
         "explanation": "மிதிவண்டியைச் சாலையின் தீவிர இடப்புறம் அல்லது கிடைத்தால் சேவைச் சாலையில் ஓட்ட வேண்டும்."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "As a pillion rider or co-passenger, one should",
         "options": [
-          "put a hand outside the vehicle",
-          "talk with the driver to keep him awake",
-          "stand up in the vehicle",
-          "always wear a helmet/seatbelt and not talk with the driver"
+          "put a hand outside the vehicle to signal others",
+          "talk continuously with the driver to keep him awake",
+          "stand up in the vehicle to look at the view",
+          "wear a helmet or seatbelt and not distract the driver"
         ],
         "explanation": "A pillion rider or co-passenger should always wear a helmet/seatbelt and not indulge in talking with the driver."
       },
       "ta": {
         "q": "பின்னிருக்கைப் பயணியாக அல்லது உடன் பயணியாக இருக்கும்போது செய்ய வேண்டியது",
         "options": [
-          "வாகனத்துக்கு வெளியே கையை நீட்டுவது",
-          "ஓட்டுநர் தூங்காமலிருக்க அவருடன் பேசுவது",
-          "வாகனத்துக்குள் எழுந்து நிற்பது",
-          "எப்போதும் தலைக்கவசம்/இருக்கைப் பட்டை அணிந்து, ஓட்டுநருடன் பேசாமல் இருப்பது"
+          "பிறருக்குச் சைகை காட்ட வாகனத்துக்கு வெளியே கையை நீட்டுவது",
+          "ஓட்டுநர் தூங்காமலிருக்க அவருடன் தொடர்ந்து பேசுவது",
+          "காட்சிகளைப் பார்க்க வாகனத்துக்குள் எழுந்து நிற்பது",
+          "தலைக்கவசம்/இருக்கைப் பட்டை அணிந்து, ஓட்டுநரைத் தொந்தரவு செய்யாமல் இருப்பது"
         ],
         "explanation": "பின்னிருக்கைப் பயணி எப்போதும் தலைக்கவசம்/இருக்கைப் பட்டை அணிய வேண்டும்; ஓட்டுநருடன் பேசக் கூடாது."
       }

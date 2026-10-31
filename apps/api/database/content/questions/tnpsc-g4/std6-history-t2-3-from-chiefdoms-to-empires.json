@@ -101,20 +101,20 @@
       "en": {
         "q": "What transformed the janapadas into Mahajanapadas?",
         "options": [
-          "The invasion of Alexander",
-          "The arrival of the Aryans from Central Asia",
-          "The decline of the Indus Valley Civilisation",
-          "The widespread use of iron in the Gangetic plain, which created conditions for larger territorial units"
+          "The invasion of Alexander the Great from Macedonia",
+          "The arrival of the Aryans from Central Asia and their tribes",
+          "The decline of the Indus Valley Civilisation and its cities",
+          "The widespread use of iron in the Gangetic plain"
         ],
         "explanation": "The Mahajanapadas were larger territorial units."
       },
       "ta": {
         "q": "ஜனபதங்கள் மகாஜனபதங்களாக மாறக் காரணமானது எது?",
         "options": [
-          "அலெக்சாந்தரின் படையெடுப்பு",
-          "மத்திய ஆசியாவிலிருந்து ஆரியர்கள் வருகை",
-          "சிந்துவெளி நாகரிகம் வீழ்ச்சியடைந்தது",
-          "கங்கைச் சமவெளியில் இரும்பு பரவலாகப் பயன்படுத்தப்பட்டு, பெரிய நிலப்பரப்பு அலகுகள் உருவாக ஏதுவானது"
+          "மாசிடோனியாவிலிருந்து அலெக்சாந்தரின் படையெடுப்பு",
+          "மத்திய ஆசியாவிலிருந்து ஆரிய இனக்குழுக்கள் வருகை",
+          "சிந்துவெளி நாகரிகமும் அதன் நகரங்களும் வீழ்ச்சியடைந்தது",
+          "கங்கைச் சமவெளியில் இரும்பு பரவலாகப் பயன்படுத்தப்பட்டது"
         ],
         "explanation": "மகாஜனபதங்கள் பெரிய நிலப்பரப்பு அலகுகள்."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "The thick forests of Magadha supplied",
         "options": [
-          "salt and spices",
-          "iron ore and coal",
-          "timber for construction and elephants for the army",
-          "horses and camels"
+          "salt and spices brought from the sea coast",
+          "iron ore and coal dug from the hills",
+          "timber for building and elephants for the army",
+          "swift horses and camels for the cavalry"
         ],
         "explanation": "Abundance of natural resources, especially iron, enabled Magadha to equip itself with iron weapons."
       },
       "ta": {
         "q": "மகதத்தின் அடர்ந்த காடுகள் அளித்தவை",
         "options": [
-          "உப்பும் நறுமணப் பொருள்களும்",
-          "இரும்புத் தாதுவும் நிலக்கரியும்",
+          "கடற்கரையிலிருந்து கொண்டுவரப்பட்ட உப்பும் நறுமணப் பொருள்களும்",
+          "குன்றுகளில் தோண்டிய இரும்புத் தாதுவும் நிலக்கரியும்",
           "கட்டடங்களுக்கான மரமும் படைக்கான யானைகளும்",
-          "குதிரைகளும் ஒட்டகங்களும்"
+          "குதிரைப்படைக்கான வேகமான குதிரைகளும் ஒட்டகங்களும்"
         ],
         "explanation": "இயற்கை வளங்கள், குறிப்பாக இரும்பு, இரும்பு ஆயுதங்களைப் பெற மகதத்திற்கு உதவின."
       }
@@ -449,9 +449,9 @@
       "en": {
         "q": "The word 'Nalanda', a Sanskrit combination of Na + alam + daa, means",
         "options": [
-          "the place of peace",
-          "the abode of monks",
-          "the city of learning",
+          "the quiet place of peace and prayer",
+          "the abode of wandering Buddhist monks",
+          "the great city of learning and art",
           "no stopping of the gift of knowledge"
         ],
         "explanation": "Nalanda was a large Buddhist monastery in ancient Magadha and a UNESCO World Heritage Site."
@@ -459,10 +459,10 @@
       "ta": {
         "q": "'நா + அலம் + தா' என்ற மூன்று சமஸ்கிருதச் சொற்களின் சேர்க்கையான 'நாளந்தா' என்பதன் பொருள்",
         "options": [
-          "அமைதியின் இடம்",
-          "துறவிகளின் உறைவிடம்",
-          "கல்வி நகரம்",
-          "அறிவுப் பரிசை வழங்குவதில் நிறுத்தமே இல்லை"
+          "அமைதியும் வழிபாடும் நிறைந்த இடம்",
+          "அலையும் பௌத்தத் துறவிகளின் உறைவிடம்",
+          "கல்வியும் கலையும் நிறைந்த பெருநகரம்",
+          "அறிவுப் பரிசை வழங்குவதற்கு முடிவே இல்லை"
         ],
         "explanation": "நாளந்தா பண்டைய மகதத்திலிருந்த பெரிய பௌத்த மடம்; இது யுனெஸ்கோ உலகப் பாரம்பரியக் களம்."
       }
@@ -710,7 +710,7 @@
       "en": {
         "q": "After the battle of Kalinga, Ashoka changed from 'Chandasoka' to",
         "options": [
-          "Dhammasoka (Ashoka the righteous)",
+          "Dhammasoka",
           "Devanampiya",
           "Piyadassi the warrior",
           "Amitragatha"
@@ -720,7 +720,7 @@
       "ta": {
         "q": "கலிங்கப் போருக்குப் பின் அசோகர் 'சண்டாசோகர்' என்ற நிலையிலிருந்து மாறி ஆனவர்",
         "options": [
-          "தம்மாசோகர் (நீதிமான் அசோகர்)",
+          "தம்மாசோகர்",
           "தேவனாம்பிரியர்",
           "போர்வீரர் பியதசி",
           "அமித்ரகாதன்"
@@ -797,9 +797,9 @@
       "en": {
         "q": "Besides Sri Lanka, to which regions did Ashoka send missionaries to spread the message of Dhamma?",
         "options": [
-          "Central Africa and Russia",
-          "South America and Australia",
-          "North America and Japan",
+          "Central Africa and northern Russia",
+          "South America and the Australian continent",
+          "North America and the islands of Japan",
           "West Asia, Egypt and Eastern Europe"
         ],
         "explanation": "He sent his son Mahinda and Sanghamitta to Sri Lanka."
@@ -807,9 +807,9 @@
       "ta": {
         "q": "இலங்கையைத் தவிர, அசோகர் தம்மச் செய்தியைப் பரப்ப எந்தப் பகுதிகளுக்கு அறிஞர்களை அனுப்பினார்?",
         "options": [
-          "மத்திய ஆப்பிரிக்கா, ரஷ்யா",
-          "தென் அமெரிக்கா, ஆஸ்திரேலியா",
-          "வட அமெரிக்கா, ஜப்பான்",
+          "மத்திய ஆப்பிரிக்கா, வடக்கு ரஷ்யா",
+          "தென் அமெரிக்கா, ஆஸ்திரேலியக் கண்டம்",
+          "வட அமெரிக்கா, ஜப்பான் தீவுகள்",
           "மேற்கு ஆசியா, எகிப்து, கிழக்கு ஐரோப்பா"
         ],
         "explanation": "அவர் தம் மகன் மகிந்தனையும் மகள் சங்கமித்திரையையும் இலங்கைக்கு அனுப்பினார்."
@@ -828,8 +828,8 @@
         "options": [
           "Dhamma-mahamattas",
           "Mantriparishad",
-          "Nagarikas",
-          "Gramanis"
+          "Nagarikas, the city officers",
+          "Gramanis, the village heads"
         ],
         "explanation": "Ashoka also held the third Buddhist Council at his capital Pataliputra."
       },
@@ -838,8 +838,8 @@
         "options": [
           "தம்ம மகாமாத்திரர்கள்",
           "மந்திரி பரிஷத்",
-          "நாகரிகர்கள்",
-          "கிராமணிகள்"
+          "நகர நிர்வாகிகள் நாகரிகர்கள்",
+          "கிராமத் தலைவர்கள் கிராமணிகள்"
         ],
         "explanation": "அசோகர் தம் தலைநகர் பாடலிபுத்திரத்தில் மூன்றாம் பௌத்த மாநாட்டையும் நடத்தினார்."
       }
@@ -913,9 +913,9 @@
       "en": {
         "q": "The Rock Edicts II and XIII of Ashoka refer to which southern dynasties?",
         "options": [
-          "Hoysalas, Yadavas and Kakatiyas",
-          "Pallavas, Chalukyas and Rashtrakutas",
-          "Satavahanas, Kadambas and Gangas",
+          "Hoysalas, Yadavas, Kakatiyas and Vijayanagara",
+          "Pallavas, Chalukyas, Rashtrakutas and Gangas",
+          "Vakatakas, Kadambas, Gangas and Ikshvakus",
           "Pandyas, Cholas, Keralaputras and Sathyaputras"
         ],
         "explanation": "These edicts show that the Tamil country had contact with the Mauryan Empire."
@@ -923,9 +923,9 @@
       "ta": {
         "q": "அசோகரின் பாறைக் கல்வெட்டுகள் II, XIII ஆகியவை குறிப்பிடும் தென்னக அரச மரபுகள்",
         "options": [
-          "ஹொய்சாளர், யாதவர், காகதீயர்",
-          "பல்லவர், சாளுக்கியர், ராஷ்டிரகூடர்",
-          "சாதவாகனர், கடம்பர், கங்கர்",
+          "ஹொய்சாளர், யாதவர், காகதீயர், விஜயநகரர்",
+          "பல்லவர், சாளுக்கியர், ராஷ்டிரகூடர், கங்கர்",
+          "வாகாடகர், கடம்பர், கங்கர், இக்ஷ்வாகுகள்",
           "பாண்டியர், சோழர், கேரளபுத்திரர், சத்தியபுத்திரர்"
         ],
         "explanation": "இக்கல்வெட்டுகள் தமிழகத்திற்கும் மௌரியப் பேரரசுக்கும் இடையிலான தொடர்பைக் காட்டுகின்றன."
@@ -971,20 +971,20 @@
       "en": {
         "q": "The council of ministers that assisted the Mauryan king was known as",
         "options": [
-          "sabha",
+          "sabha assembly",
           "mantriparishad",
-          "samiti",
-          "gana"
+          "samiti assembly",
+          "gana council"
         ],
         "explanation": "It included a Purohit, a Senapathi, a Maha mantri and the Yuvaraja."
       },
       "ta": {
         "q": "மௌரிய அரசருக்கு உதவிய அமைச்சர் குழு எவ்வாறு அழைக்கப்பட்டது?",
         "options": [
-          "சபா",
+          "சபா மன்றம்",
           "மந்திரி பரிஷத்",
-          "சமிதி",
-          "கணம்"
+          "சமிதி மன்றம்",
+          "கண மன்றம்"
         ],
         "explanation": "அதில் புரோகிதர், சேனாபதி, மகாமந்திரி, இளவரசர் ஆகியோர் இடம்பெற்றனர்."
       }
@@ -1145,20 +1145,20 @@
       "en": {
         "q": "In Mauryan indigenous art, the statues of Yakshas represent deities connected with",
         "options": [
-          "rivers and mountains only",
-          "war and victory",
-          "the sun and the moon",
-          "water, fertility, trees, the forest and wilderness"
+          "rivers, mountains and valleys of the Himalayas",
+          "war, victory and the power of the royal army",
+          "the sun, the moon and the stars of the night sky",
+          "water, fertility, trees and the wilderness"
         ],
         "explanation": "Yakshis were their female counterpart."
       },
       "ta": {
         "q": "மௌரியரின் உள்நாட்டுக் கலையிலுள்ள யக்ஷர் சிலைகள் தொடர்புடைய தெய்வங்கள்",
         "options": [
-          "ஆறுகள், மலைகள் மட்டும்",
-          "போர், வெற்றி",
-          "சூரியன், சந்திரன்",
-          "நீர், செழிப்பு, மரங்கள், காடு, வனம்"
+          "ஆறுகள், மலைகள், இமயப் பள்ளத்தாக்குகள்",
+          "போர், வெற்றி, அரசப் படையின் வலிமை",
+          "சூரியன், சந்திரன், இரவு வானின் விண்மீன்கள்",
+          "நீர், செழிப்பு, மரங்கள், வனம்"
         ],
         "explanation": "யக்ஷிகள் அவர்களின் பெண் இணைகள்."
       }
@@ -1184,10 +1184,10 @@
       "ta": {
         "q": "ஸ்தூபி என்பது அரைக்கோள வடிவ குவிமாடம் போன்ற அமைப்பு; அதன் மையத்தில் வைக்கப்பட்டவை",
         "options": [
-          "புத்தரின் நினைவுச் சின்ன எச்சங்கள்",
-          "அசோகரின் கல்வெட்டுகள்",
-          "அரசரின் அரியணை",
-          "யக்ஷர் சிலைகள்"
+          "புத்தரின் நினைவுச் சின்னங்கள்",
+          "அசோகரின் பாறைக் கல்வெட்டுச் சாசனங்கள்",
+          "அரசர் அமரும் பொன் அரியணை",
+          "யக்ஷர்களின் கல் சிலைகள்"
         ],
         "explanation": "போபாலுக்கு அருகிலுள்ள சாஞ்சி ஸ்தூபி புகழ்பெற்ற எடுத்துக்காட்டு."
       }

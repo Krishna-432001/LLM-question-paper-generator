@@ -131,9 +131,9 @@
         "q": "Pushyamitra Sunga, who established the Sunga dynasty in Magadha, made which city his capital?",
         "options": [
           "Pataliputra",
-          "Ujjain",
-          "Vidisha",
-          "Taxila"
+          "Ujjain city",
+          "Shravasti",
+          "Kaushambi"
         ],
         "explanation": "Pushyamitra made Pataliputra his capital."
       },
@@ -141,9 +141,9 @@
         "q": "மகதத்தில் சுங்க அரச மரபை நிறுவிய புஷ்யமித்ர சுங்கர் எந்த நகரைத் தலைநகராகக் கொண்டார்?",
         "options": [
           "பாடலிபுத்திரம்",
-          "உஜ்ஜைன்",
-          "விதிஷா",
-          "தட்சசீலம்"
+          "உஜ்ஜைன் நகரம்",
+          "ஸ்ராவஸ்தி நகரம்",
+          "கௌசாம்பி நகரம்"
         ],
         "explanation": "புஷ்யமித்ரர் பாடலிபுத்திரத்தைத் தம் தலைநகராகக் கொண்டார்."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "Which language gradually gained ascendancy and became the court language during the Sunga period?",
         "options": [
-          "Tamil",
-          "Pali",
+          "Ardhamagadhi",
+          "Persian",
           "Sanskrit",
-          "Greek"
+          "Aramaic"
         ],
         "explanation": "Under the Sungas, Sanskrit gradually gained ascendancy and became the court language."
       },
       "ta": {
         "q": "சுங்கர் காலத்தில் படிப்படியாக மேலோங்கி அரசவை மொழியாக ஆன மொழி எது?",
         "options": [
-          "தமிழ்",
-          "பாலி",
+          "அர்த்தமாகதி",
+          "பாரசீகம்",
           "சமஸ்கிருதம்",
-          "கிரேக்கம்"
+          "அராமிக்"
         ],
         "explanation": "சுங்கர் காலத்தில் சமஸ்கிருதம் படிப்படியாக மேலோங்கி அரசவை மொழியானது."
       }
@@ -594,7 +594,7 @@
       "en": {
         "q": "We get information about King Kharavela of Kalinga from the",
         "options": [
-          "Hathigumba (Elephant cave) Inscription",
+          "Hathigumba Inscription",
           "Junagadh Inscription",
           "Nasik Eulogy",
           "Mora Inscription"
@@ -604,7 +604,7 @@
       "ta": {
         "q": "கலிங்க அரசர் காரவேலரைப் பற்றி நாம் அறிவது எந்தக் கல்வெட்டிலிருந்து?",
         "options": [
-          "ஹதிகும்பா (யானைக் குகை) கல்வெட்டு",
+          "ஹதிகும்பா கல்வெட்டு",
           "ஜுனாகத் கல்வெட்டு",
           "நாசிக் மெய்க்கீர்த்தி",
           "மோரா கல்வெட்டு"
@@ -664,7 +664,7 @@
         "options": [
           "பண்டமாற்று முறை",
           "முத்திரை குத்தும் முறை",
-          "அச்சு முறை (Die system)",
+          "அச்சு முறை",
           "எடை முறை"
         ],
         "explanation": "இந்தோ-கிரேக்கர்கள் அச்சு முறையில் வடிவமான நாணயங்களை எழுத்துகள், சின்னங்கள், உருவங்களுடன் வெளியிட்டனர்; இந்தியர்கள் இக்கலையை அவர்களிடமிருந்து கற்றனர்."
@@ -913,20 +913,20 @@
       "en": {
         "q": "What happened to the Sakas in India, according to the book?",
         "options": [
-          "They converted all Indians to their own religion",
-          "They returned to Central Asia after a few years",
-          "They remained a separate nomadic group without any change",
-          "They were assimilated into Indian society and adopted Indian names and religious beliefs"
+          "They converted most of the Indian people to their own religion",
+          "They returned to Central Asia after ruling for a few years",
+          "They remained a separate nomadic group, keeping their own customs",
+          "They were assimilated into Indian society, adopting Indian names and beliefs"
         ],
         "explanation": "The Sakas were assimilated into Indian society, adopting Indian names and religious practices."
       },
       "ta": {
         "q": "நூலின்படி, இந்தியாவில் சகர்களுக்கு என்ன நிகழ்ந்தது?",
         "options": [
-          "அனைத்து இந்தியர்களையும் தம் சமயத்துக்கு மாற்றினர்",
-          "சில ஆண்டுகளில் மத்திய ஆசியாவுக்குத் திரும்பிச் சென்றனர்",
-          "எந்த மாற்றமுமின்றித் தனி நாடோடிக் குழுவாகவே இருந்தனர்",
-          "இந்தியச் சமூகத்தில் ஒன்றிணைந்து இந்தியப் பெயர்களையும் சமய நம்பிக்கைகளையும் ஏற்றனர்"
+          "இந்திய மக்களில் பெரும்பாலோரைத் தம் சமயத்துக்கு மாற்றினர்",
+          "சில ஆண்டுகள் ஆட்சி செய்தபின் மத்திய ஆசியாவுக்குத் திரும்பிச் சென்றனர்",
+          "தம் பழக்கவழக்கங்களுடன் தனி நாடோடிக் குழுவாகவே இருந்தனர்",
+          "இந்தியச் சமூகத்தில் ஒன்றிணைந்து இந்தியப் பெயர்களையும் நம்பிக்கைகளையும் ஏற்றனர்"
         ],
         "explanation": "சகர்கள் இந்தியச் சமூகத்தில் கலந்து, இந்தியப் பெயர்களையும் சமய நம்பிக்கைகளையும் பின்பற்றத் தொடங்கினர்."
       }
@@ -972,7 +972,7 @@
         "q": "The Kushana capital was initially at Kabul. Later it was shifted to",
         "options": [
           "Taxila",
-          "Peshawar (Purushpura)",
+          "Peshawar",
           "Mathura",
           "Sirkap"
         ],
@@ -982,7 +982,7 @@
         "q": "குஷாணர்களின் தலைநகரம் தொடக்கத்தில் காபூலாக இருந்தது; பின்னர் எங்கு மாற்றப்பட்டது?",
         "options": [
           "தட்சசீலம்",
-          "பெஷாவர் (புருஷபுரம்)",
+          "பெஷாவர்",
           "மதுரா",
           "சிர்கப்"
         ],
@@ -1116,20 +1116,20 @@
       "en": {
         "q": "Where did Kanishka organise the fourth Buddhist Council to sort out the differences between the various schools of Buddhism?",
         "options": [
-          "Rajagriha",
-          "Pataliputra",
+          "Rajagriha in Magadha",
+          "Pataliputra on the Ganga",
           "Kundalavana near Srinagar",
-          "Vaishali"
+          "Vaishali in Bihar"
         ],
         "explanation": "Kanishka organised the fourth Buddhist Council at Kundalavana near Srinagar."
       },
       "ta": {
         "q": "பௌத்தப் பிரிவுகளுக்கிடையிலான வேறுபாடுகளைத் தீர்க்க, கனிஷ்கர் நான்காம் பௌத்தப் பேரவையை எங்கு கூட்டினார்?",
         "options": [
-          "இராஜகிருகம்",
-          "பாடலிபுத்திரம்",
+          "மகதத்திலுள்ள இராஜகிருகம்",
+          "கங்கைக் கரையிலுள்ள பாடலிபுத்திரம்",
           "ஸ்ரீநகர் அருகிலுள்ள குண்டலவனம்",
-          "வைசாலி"
+          "பீகாரிலுள்ள வைசாலி"
         ],
         "explanation": "கனிஷ்கர் ஸ்ரீநகர் அருகிலுள்ள குண்டலவனத்தில் நான்காம் பௌத்தப் பேரவையைக் கூட்டினார்."
       }

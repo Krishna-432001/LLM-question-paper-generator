@@ -103,7 +103,7 @@
         "options": [
           "Part XX",
           "Part XV",
-          "Part XI",
+          "Part XIV",
           "Part XVIII"
         ],
         "explanation": "They cover national emergency (Article 352), President's Rule in a state (Articles 356 and 365) and financial emergency (Article 360)."
@@ -113,7 +113,7 @@
         "options": [
           "பகுதி XX",
           "பகுதி XV",
-          "பகுதி XI",
+          "பகுதி XIV",
           "பகுதி XVIII"
         ],
         "explanation": "தேசிய நெருக்கடிநிலை (பிரிவு 352), மாநிலத்தில் குடியரசுத் தலைவர் ஆட்சி (பிரிவுகள் 356, 365), நிதி நெருக்கடிநிலை (பிரிவு 360) ஆகியவை இதில் அடங்கும்."
@@ -190,20 +190,20 @@
         "options": [
           "from the President's Secretariat",
           "as the Vice-President, from the Consolidated Fund of India",
-          "as the Chairman of the Rajya Sabha, since the office of Vice-President carries no salary",
-          "only while acting as President"
+          "as the Chairman of the Rajya Sabha",
+          "from the Lok Sabha Secretariat"
         ],
-        "explanation": "While acting as President, he gets the President's emoluments and does not perform the duties of Chairman of the Rajya Sabha; Articles 63 to 70 deal with the Vice-President."
+        "explanation": "The office of Vice-President itself carries no salary, so he is paid as ex officio Chairman of the Rajya Sabha. While acting as President, he gets the President's emoluments and does not perform the duties of Chairman of the Rajya Sabha; Articles 63 to 70 deal with the Vice-President."
       },
       "ta": {
         "q": "இந்தியத் துணைக் குடியரசுத் தலைவர் ஊதியம் பெறுவது",
         "options": [
           "குடியரசுத் தலைவர் செயலகத்திலிருந்து",
-          "துணைக் குடியரசுத் தலைவராக, இந்தியத் திரள்நிதியிலிருந்து",
-          "துணைக் குடியரசுத் தலைவர் பதவிக்கு ஊதியம் இல்லாததால், மாநிலங்களவைத் தலைவராக",
-          "குடியரசுத் தலைவராகச் செயல்படும்போது மட்டும்"
+          "துணைத் தலைவர் என்ற முறையில் இந்தியத் திரள்நிதியிலிருந்து",
+          "மாநிலங்களவைத் தலைவராக",
+          "மக்களவைச் செயலகத்திலிருந்து"
         ],
-        "explanation": "குடியரசுத் தலைவராகச் செயல்படும்போது அவர் குடியரசுத் தலைவரின் ஊதியம் பெறுகிறார், மாநிலங்களவைத் தலைவர் பணிகளைச் செய்வதில்லை; பிரிவுகள் 63 முதல் 70 துணைக் குடியரசுத் தலைவர் பற்றியவை."
+        "explanation": "துணைக் குடியரசுத் தலைவர் பதவிக்கே ஊதியம் இல்லாததால், அவர் மாநிலங்களவைத் தலைவராக ஊதியம் பெறுகிறார். குடியரசுத் தலைவராகச் செயல்படும்போது அவர் குடியரசுத் தலைவரின் ஊதியம் பெறுகிறார், மாநிலங்களவைத் தலைவர் பணிகளைச் செய்வதில்லை; பிரிவுகள் 63 முதல் 70 துணைக் குடியரசுத் தலைவர் பற்றியவை."
       }
     },
     {
@@ -306,17 +306,17 @@
         "options": [
           "a cabinet that meets in secret during war",
           "an informal inner group of the Prime Minister's most trusted ministers",
-          "a group of opposition members who examine issues portfolio-wise, keeping the government alert",
+          "a group of opposition members who examine issues portfolio-wise",
           "the group of civil servants who assist the Cabinet"
         ],
-        "explanation": "An inner group of the Prime Minister's trusted ministers is a 'Kitchen Cabinet'; the shadow cabinet keeps the opposition well informed."
+        "explanation": "An inner group of the Prime Minister's trusted ministers is a 'Kitchen Cabinet'; the shadow cabinet examines issues portfolio-wise and keeps the government alert and the opposition well informed."
       },
       "ta": {
         "q": "இங்கிலாந்தில் 'நிழல் அமைச்சரவை' என்பது",
         "options": [
           "போர்க்காலத்தில் இரகசியமாகக் கூடும் அமைச்சரவை",
           "பிரதமருக்கு மிக நம்பகமான அமைச்சர்களின் முறைசாரா உள்வட்டம்",
-          "துறைவாரியாகப் பிரச்சினைகளை ஆய்வு செய்து அரசை விழிப்புடன் வைக்கும் எதிர்க்கட்சி உறுப்பினர் குழு",
+          "துறைவாரியாகப் பிரச்சினைகளை ஆய்வு செய்யும் எதிர்க்கட்சி உறுப்பினர் குழு",
           "அமைச்சரவைக்கு உதவும் அரசு அலுவலர்கள் குழு"
         ],
         "explanation": "பிரதமரின் நம்பகமான அமைச்சர்களின் உள்வட்டம் 'சமையலறை அமைச்சரவை'; நிழல் அமைச்சரவை எதிர்க்கட்சிக்குத் தகவல் தெரிந்திருக்கச் செய்கிறது."
@@ -478,7 +478,7 @@
       "en": {
         "q": "Which of the following is a discretionary power of the Governor?",
         "options": [
-          "Appointing a Chief Minister when no single party or leader commands a majority",
+          "Appointing a Chief Minister when no party has a majority",
           "Appointing ministers on the Chief Minister's advice",
           "Summoning the Assembly on the Cabinet's advice",
           "Giving assent to a Money Bill recommended by the Cabinet"
@@ -488,7 +488,7 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் ஆளுநரின் விருப்புரிமை அதிகாரம் எது?",
         "options": [
-          "எந்தக் கட்சிக்கும் தலைவருக்கும் பெரும்பான்மை இல்லாதபோது முதலமைச்சரை நியமித்தல்",
+          "எந்தக் கட்சிக்கும் பெரும்பான்மை இல்லாதபோது முதலமைச்சரை நியமித்தல்",
           "முதலமைச்சரின் ஆலோசனைப்படி அமைச்சர்களை நியமித்தல்",
           "அமைச்சரவை ஆலோசனைப்படி சட்டமன்றத்தைக் கூட்டுதல்",
           "அமைச்சரவை பரிந்துரைத்த பண மசோதாவுக்கு ஒப்புதல் அளித்தல்"

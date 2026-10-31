@@ -82,10 +82,10 @@
       "ta": {
         "q": "புவி துருவங்களில் தட்டையாகவும் நடுக்கோட்டுப் பகுதியில் புடைத்தும் உள்ளது. அதன் தனித்தன்மையான வடிவம் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "உருளை",
-          "கோளம்",
-          "புவிவடிவம் (Geoid)",
-          "வட்டம்"
+          "உருளை வடிவம்",
+          "கோள வடிவம்",
+          "புவிவடிவம்",
+          "வட்ட வடிவம்"
         ],
         "explanation": "வேறு எந்த வடிவியல் வடிவத்துடனும் ஒப்பிட முடியாத புவியின் வடிவம் ஜியாய்டு (புவிவடிவம்) எனப்படுகிறது."
       }
@@ -170,7 +170,7 @@
         "q": "புவியின் மேற்பரப்பு, அளவு, சுற்றளவு, அட்சரேகை, தீர்க்கரேகை அடிப்படையிலான இடங்களை விவரிக்கும் 'ஜியோகிராஃபியா' நூலை எழுதியவர்",
         "options": [
           "ஆர்யபட்டர்",
-          "தாலமி (Ptolemy)",
+          "தாலமி",
           "கொலம்பஸ்",
           "மெகல்லன்"
         ],
@@ -432,7 +432,7 @@
         "options": [
           "குளிர் மண்டலம்",
           "மிதவெப்ப மண்டலம்",
-          "வெப்ப மண்டலம் (Torrid Zone)",
+          "வெப்ப மண்டலம்",
           "துருவ மண்டலம்"
         ],
         "explanation": "23½° வடக்கு முதல் 23½° தெற்கு வரை சூரியக் கதிர்கள் செங்குத்தாக விழும் பகுதி வெப்ப மண்டலம்."
@@ -462,7 +462,7 @@
           "நிலநடுக்கோட்டு மண்டலம்",
           "வெப்ப மண்டலம்",
           "குளிர் மண்டலம்",
-          "மிதவெப்ப மண்டலம் (Temperate Zone)"
+          "மிதவெப்ப மண்டலம்"
         ],
         "explanation": "வெப்பமண்டலத்துக்கும் துருவ வட்டங்களுக்கும் இடைப்பட்ட மிதவெப்ப மண்டலத்தில் கதிர்கள் சாய்வாக விழுவதால் மிதமான வெப்பநிலை நிலவும்."
       }
@@ -488,7 +488,7 @@
       "ta": {
         "q": "ஆர்க்டிக் வட்டத்திலிருந்து (66½° வ) வட துருவம் வரை ஆண்டு முழுவதும் வெப்பநிலை மிகக் குறைவாக உள்ள பகுதி எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "குளிர் மண்டலம் (Frigid Zone)",
+          "குளிர் மண்டலம்",
           "வெப்ப மண்டலம்",
           "மிதவெப்ப மண்டலம்",
           "அயன மண்டலம்"
@@ -623,20 +623,20 @@
       "en": {
         "q": "At the International Meridian Conference held in 1884, in which city did all nations agree on choosing the Greenwich Meridian as the international standard meridian?",
         "options": [
-          "London",
+          "London, England",
           "Washington DC",
-          "Paris",
-          "Greenwich"
+          "Paris, France",
+          "Greenwich, UK"
         ],
         "explanation": "All nations agreed at the 1884 International Meridian Conference in Washington DC, U.S.A., to choose the Greenwich Meridian as 0°."
       },
       "ta": {
         "q": "1884-ல் நடைபெற்ற பன்னாட்டுத் தீர்க்கரேகை மாநாட்டில் கிரீன்விச் தீர்க்கரேகையைப் பன்னாட்டு அடிப்படைத் தீர்க்கரேகையாக எல்லா நாடுகளும் ஏற்ற நகரம் எது?",
         "options": [
-          "இலண்டன்",
+          "இலண்டன், இங்கிலாந்து",
           "வாஷிங்டன் டி.சி",
-          "பாரிஸ்",
-          "கிரீன்விச்"
+          "பாரிஸ், பிரான்ஸ்",
+          "கிரீன்விச், இங்கிலாந்து"
         ],
         "explanation": "1884-ல் அமெரிக்காவின் வாஷிங்டன் டி.சி-யில் நடந்த மாநாட்டில் கிரீன்விச் தீர்க்கரேகை 0°-ஆக ஏற்கப்பட்டது."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "Why does the International Date Line run zigzag at certain places?",
         "options": [
-          "To make it longer than the Equator",
-          "To pass through all the islands",
-          "To avoid the Pacific Ocean",
-          "To avoid two places in the same country having different dates"
+          "To make it longer than the Equator and the meridians",
+          "To pass through every island of the Pacific Ocean",
+          "To keep away from the waters of the Pacific Ocean",
+          "To avoid two parts of one country having different dates"
         ],
         "explanation": "A straight line would give two places in the same country different dates, so the line is zigzag in certain places."
       },
       "ta": {
         "q": "பன்னாட்டுத் தேதிக் கோடு சில இடங்களில் வளைந்து வளைந்து செல்வது ஏன்?",
         "options": [
-          "நடுக்கோட்டைவிட நீளமாக இருக்க",
-          "எல்லாத் தீவுகளின் வழியாகவும் செல்ல",
-          "பசிபிக் பெருங்கடலைத் தவிர்க்க",
-          "ஒரே நாட்டின் இரு இடங்களில் வெவ்வேறு தேதிகள் வருவதைத் தவிர்க்க"
+          "நடுக்கோட்டையும் தீர்க்கரேகைகளையும்விட நீளமாக இருக்க",
+          "பசிபிக் பெருங்கடலின் ஒவ்வொரு தீவு வழியாகவும் செல்ல",
+          "பசிபிக் பெருங்கடல் நீர்ப்பரப்பிலிருந்து விலகிச் செல்ல",
+          "ஒரே நாட்டின் இரு பகுதிகளில் வெவ்வேறு தேதிகள் வருவதைத் தவிர்க்க"
         ],
         "explanation": "கோடு நேராக இருந்தால் ஒரே நாட்டிலுள்ள இரு இடங்களில் வெவ்வேறு தேதிகள் இருக்கும்; அக்குழப்பத்தைத் தவிர்க்க அது சில இடங்களில் வளைகிறது."
       }
@@ -710,7 +710,7 @@
       "en": {
         "q": "The grid-like pattern formed by the lines of latitude and longitude on the Earth's surface is known as the",
         "options": [
-          "Earth grid (Geographic grid)",
+          "Earth grid",
           "Date grid",
           "Time grid",
           "Equatorial grid"
@@ -720,7 +720,7 @@
       "ta": {
         "q": "புவி மேற்பரப்பில் அட்சரேகைகளும் தீர்க்கரேகைகளும் இணைந்து உருவாக்கும் கட்ட வடிவம் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "புவிக் கட்டம் (புவியியல் கட்டம்)",
+          "புவிக் கட்டம்",
           "தேதிக் கட்டம்",
           "நேரக் கட்டம்",
           "நடுக்கோட்டுக் கட்டம்"

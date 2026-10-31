@@ -130,7 +130,7 @@
       "en": {
         "q": "Which Article directs the State to strive to minimise inequalities in income and to eliminate inequalities in status, facilities and opportunities among individuals and groups?",
         "options": [
-          "Article 38(2)",
+          "Article 38",
           "Article 39A",
           "Article 41",
           "Article 46"
@@ -140,7 +140,7 @@
       "ta": {
         "q": "வருமான ஏற்றத்தாழ்வுகளைக் குறைக்கவும், தனிநபர்கள், குழுக்களிடையே தகுதி, வசதி, வாய்ப்புகளில் உள்ள ஏற்றத்தாழ்வுகளை நீக்கவும் அரசுக்கு வழிகாட்டும் பிரிவு எது?",
         "options": [
-          "பிரிவு 38(2)",
+          "பிரிவு 38",
           "பிரிவு 39A",
           "பிரிவு 41",
           "பிரிவு 46"
@@ -188,22 +188,22 @@
       "en": {
         "q": "The Governing Council of NITI Aayog consists of",
         "options": [
-          "the Chief Secretaries of all states",
-          "only the Union Cabinet Ministers",
-          "the Chief Ministers of all states and Lieutenant Governors of Union Territories",
-          "the Governors of all states"
+          "the Chief Secretaries and the department secretaries",
+          "the Union Cabinet Ministers and the Planning Secretaries",
+          "the Chief Ministers of all states",
+          "the Governors and administrators of the states"
         ],
-        "explanation": "Under the Planning Commission, states were involved only indirectly through the National Development Council; NITI Aayog aims at cooperative federalism."
+        "explanation": "The Governing Council also includes the Lieutenant Governors of Union Territories. Under the Planning Commission, states were involved only indirectly through the National Development Council; NITI Aayog aims at cooperative federalism."
       },
       "ta": {
         "q": "நிதி ஆயோக்கின் ஆளுகை மன்றத்தில் இடம்பெறுபவர்கள்",
         "options": [
-          "அனைத்து மாநிலத் தலைமைச் செயலர்கள்",
-          "ஒன்றிய அமைச்சரவை அமைச்சர்கள் மட்டும்",
-          "அனைத்து மாநில முதலமைச்சர்களும் ஒன்றியப் பகுதிகளின் துணைநிலை ஆளுநர்களும்",
-          "அனைத்து மாநில ஆளுநர்கள்"
+          "தலைமைச் செயலர்களும் துறைச் செயலர்களும்",
+          "ஒன்றிய அமைச்சரவை அமைச்சர்களும் திட்டச் செயலர்களும்",
+          "அனைத்து மாநில முதலமைச்சர்கள்",
+          "மாநிலங்களின் ஆளுநர்களும் நிர்வாகிகளும்"
         ],
-        "explanation": "திட்டக் குழுவின்கீழ் மாநிலங்கள் தேசிய வளர்ச்சி மன்றம் வழியாக மறைமுகமாகவே பங்கேற்றன; நிதி ஆயோக் கூட்டுறவுக் கூட்டாட்சியை நோக்கமாகக் கொண்டது."
+        "explanation": "ஆளுகை மன்றத்தில் ஒன்றியப் பகுதிகளின் துணைநிலை ஆளுநர்களும் இடம்பெறுவர். திட்டக் குழுவின்கீழ் மாநிலங்கள் தேசிய வளர்ச்சி மன்றம் வழியாக மறைமுகமாகவே பங்கேற்றன; நிதி ஆயோக் கூட்டுறவுக் கூட்டாட்சியை நோக்கமாகக் கொண்டது."
       }
     },
     {
@@ -217,9 +217,9 @@
       "en": {
         "q": "Which of the following is NOT one of the four categories of land reform measures in India?",
         "options": [
-          "Ceilings on land holdings",
-          "Tenancy reforms",
-          "Abolition of intermediaries",
+          "Ceilings on the size of land holdings",
+          "Reforms in tenancy and rent regulation",
+          "Abolition of intermediaries such as zamindars",
           "Nationalisation of all agricultural land"
         ],
         "explanation": "The four categories are tenancy reforms, abolition of intermediaries, ceilings on holdings and consolidation of land holdings; poverty reduction was the main impetus."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் இந்திய நிலச் சீர்திருத்த நடவடிக்கைகளின் நான்கு வகைகளில் இடம்பெறாதது எது?",
         "options": [
-          "நில உடைமை உச்சவரம்பு",
-          "குத்தகைச் சீர்திருத்தம்",
-          "இடைத்தரகர் ஒழிப்பு",
+          "நில உடைமையின் அளவுக்கு உச்சவரம்பு",
+          "குத்தகை, வாடகை முறைகளில் சீர்திருத்தம்",
+          "ஜமீன்தார் போன்ற இடைத்தரகர்களை ஒழித்தல்",
           "அனைத்து வேளாண் நிலங்களையும் நாட்டுடைமையாக்குதல்"
         ],
         "explanation": "குத்தகைச் சீர்திருத்தம், இடைத்தரகர் ஒழிப்பு, நில உச்சவரம்பு, நிலத் தொகுப்பு ஆகியவை நான்கு வகைகள்; வறுமை ஒழிப்பே முதன்மை உந்துதல்."
@@ -362,22 +362,22 @@
       "en": {
         "q": "The pilot project launched in 1960 in seven districts of seven states, a forerunner of the Green Revolution, was the",
         "options": [
-          "Intensive Agricultural District Programme (IADP)",
+          "Intensive Agricultural District Programme",
           "Community Development Programme",
           "Integrated Rural Development Programme",
           "Drought Prone Areas Programme"
         ],
-        "explanation": "The book calls it the 'Intensive Area Development Programme'; it was extended to 144 districts in 1965, and the Green Revolution period (1967–78) raised agricultural production by about 50%."
+        "explanation": "It is also known as IADP. The book calls it the 'Intensive Area Development Programme'; it was extended to 144 districts in 1965, and the Green Revolution period (1967–78) raised agricultural production by about 50%."
       },
       "ta": {
         "q": "பசுமைப் புரட்சிக்கு முன்னோடியாக 1960 இல் ஏழு மாநிலங்களின் ஏழு மாவட்டங்களில் தொடங்கப்பட்ட முன்னோட்டத் திட்டம்",
         "options": [
-          "தீவிர வேளாண் மாவட்டத் திட்டம் (IADP)",
+          "தீவிர வேளாண் மாவட்டத் திட்டம்",
           "சமுதாய வளர்ச்சித் திட்டம்",
           "ஒருங்கிணைந்த ஊரக வளர்ச்சித் திட்டம்",
           "வறட்சிப் பகுதித் திட்டம்"
         ],
-        "explanation": "நூல் இதை 'தீவிர பகுதி வளர்ச்சித் திட்டம்' என்கிறது; 1965 இல் இது 144 மாவட்டங்களுக்கு விரிவாக்கப்பட்டது; பசுமைப் புரட்சிக் காலத்தில் (1967–78) வேளாண் உற்பத்தி சுமார் 50% உயர்ந்தது."
+        "explanation": "இது IADP எனவும் அழைக்கப்படுகிறது. நூல் இதை 'தீவிர பகுதி வளர்ச்சித் திட்டம்' என்கிறது; 1965 இல் இது 144 மாவட்டங்களுக்கு விரிவாக்கப்பட்டது; பசுமைப் புரட்சிக் காலத்தில் (1967–78) வேளாண் உற்பத்தி சுமார் 50% உயர்ந்தது."
       }
     },
     {

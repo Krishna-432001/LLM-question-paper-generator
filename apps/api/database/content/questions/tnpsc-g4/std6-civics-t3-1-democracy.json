@@ -14,10 +14,10 @@
       "en": {
         "q": "According to the lesson, how were kingdoms formed after tribes fought among themselves for land, water and other resources?",
         "options": [
-          "The victorious groups formed kingdoms by uniting the other tribal groups",
-          "The tribes elected a king by voting",
-          "The tribes migrated to other continents",
-          "The British formed kingdoms for them"
+          "The victorious groups united the other tribal groups to form kingdoms",
+          "The tribes held a vote among themselves and elected a king",
+          "The tribes migrated to other continents to build new kingdoms",
+          "The British formed kingdoms for them to govern"
         ],
         "explanation": "Those who emerged victorious formed kingdoms by uniting other tribal groups, and these kingdoms later integrated to form empires."
       },
@@ -25,9 +25,9 @@
         "q": "நிலம், நீர் போன்ற வளங்களுக்காகக் குழுக்கள் தமக்குள் போரிட்டதன் பின், அரசுகள் எவ்வாறு உருவாகின எனப் பாடம் கூறுகிறது?",
         "options": [
           "வெற்றி பெற்றவர்கள் பிற பழங்குடிக் குழுக்களை ஒன்றிணைத்து அரசுகளை உருவாக்கினர்",
-          "பழங்குடிகள் வாக்களித்து அரசரைத் தேர்ந்தெடுத்தனர்",
-          "பழங்குடிகள் பிற கண்டங்களுக்குப் புலம்பெயர்ந்தனர்",
-          "ஆங்கிலேயர் அவர்களுக்காக அரசுகளை உருவாக்கினர்"
+          "பழங்குடிகள் தமக்குள் வாக்களித்து ஓர் அரசரைத் தேர்ந்தெடுத்தனர்",
+          "புதிய அரசுகளை உருவாக்கப் பழங்குடிகள் பிற கண்டங்களுக்குப் புலம்பெயர்ந்தனர்",
+          "ஆங்கிலேயர் அவர்கள் ஆளுவதற்காக அரசுகளை உருவாக்கினர்"
         ],
         "explanation": "வெற்றி பெற்றவர்கள் பிற குழுக்களை ஒன்றிணைத்து அரசுகளை உருவாக்கினர்; அவை பின்னர் ஒன்றிணைந்து பேரரசுகளாயின."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "Which country has had a long history of a successful direct democracy?",
         "options": [
-          "India",
+          "Argentina",
           "Switzerland",
           "The USA",
-          "England"
+          "Germany"
         ],
         "explanation": "Switzerland has had a long history of a successful direct democracy; India, the USA and England have representative democracies."
       },
       "ta": {
         "q": "நீண்ட காலம் வெற்றிகரமாக நேரடி மக்களாட்சியைக் கொண்டுள்ள நாடு எது?",
         "options": [
-          "இந்தியா",
+          "அர்ஜென்டினா",
           "சுவிட்சர்லாந்து",
           "அமெரிக்கா",
-          "இங்கிலாந்து"
+          "ஜெர்மனி"
         ],
         "explanation": "சுவிட்சர்லாந்து நீண்ட காலமாக வெற்றிகரமான நேரடி மக்களாட்சியைக் கொண்டுள்ளது."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "In the democratic way of decision making, the final decisions are taken",
         "options": [
-          "by the Head alone",
-          "after open discussions, only when everyone is convinced",
-          "by the oldest member alone",
-          "without any discussion"
+          "by the Head of the group, without asking others",
+          "after open discussions, when everyone is convinced",
+          "by the oldest member, whatever others feel",
+          "by drawing lots, without any discussion among members"
         ],
         "explanation": "In the democratic way of decision making, all members hold open discussions and take final decisions only when everyone is convinced."
       },
       "ta": {
         "q": "மக்களாட்சி முறையில் முடிவெடுக்கும் வழிமுறையில் இறுதி முடிவுகள் எவ்வாறு எடுக்கப்படுகின்றன?",
         "options": [
-          "தலைவர் மட்டும் முடிவு செய்து",
+          "குழுத் தலைவர் பிறரைக் கேளாமல் முடிவு செய்து",
           "திறந்த கலந்துரையாடலுக்குப் பின், அனைவரும் உடன்படும்போது",
-          "மூத்த உறுப்பினர் மட்டும் முடிவு செய்து",
-          "எந்த விவாதமும் இன்றி"
+          "மூத்த உறுப்பினர் பிறர் கருத்தைப் பொருட்படுத்தாமல் முடிவு செய்து",
+          "உறுப்பினர்களிடையே விவாதமின்றிச் சீட்டு குலுக்கிப் போட்டு"
         ],
         "explanation": "குழுவின் எல்லா உறுப்பினர்களும் திறந்த விவாதம் நடத்தி, அனைவரும் உடன்படும்போது இறுதி முடிவு எடுக்கப்படுகிறது."
       }
@@ -421,9 +421,9 @@
         "q": "Which was the first country to allow women to vote (in 1893)?",
         "options": [
           "The USA",
-          "The UK",
+          "Switzerland",
           "New Zealand",
-          "India"
+          "Argentina"
         ],
         "explanation": "New Zealand was the first country to allow women to vote, in 1893."
       },
@@ -431,9 +431,9 @@
         "q": "பெண்களுக்கு வாக்குரிமை அளித்த முதல் நாடு (1893) எது?",
         "options": [
           "அமெரிக்கா",
-          "ஐக்கிய இராச்சியம்",
+          "சுவிட்சர்லாந்து",
           "நியூசிலாந்து",
-          "இந்தியா"
+          "அர்ஜென்டினா"
         ],
         "explanation": "1893-ல் நியூசிலாந்து பெண்களுக்கு வாக்குரிமை அளித்த முதல் நாடானது."
       }
