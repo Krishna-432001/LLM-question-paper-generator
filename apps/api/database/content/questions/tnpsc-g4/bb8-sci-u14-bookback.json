@@ -43,20 +43,20 @@
       "en": {
         "q": "Aqueous solutions of ______ conduct electricity.",
         "options": [
-          "acids, bases and salts (all of these)",
-          "bases only",
-          "acids only",
-          "salts only"
+          "acids, bases and salts",
+          "acids and bases only",
+          "bases and salts only",
+          "acids and salts only"
         ],
         "explanation": "Acids and bases ionise in water and conduct electricity."
       },
       "ta": {
         "q": "______ இன் நீர்க்கரைசல்கள் மின்சாரத்தைக் கடத்தும்.",
         "options": [
-          "அமிலம், காரம், உப்பு ஆகிய அனைத்தின்",
-          "காரத்தின் மட்டும்",
-          "அமிலத்தின் மட்டும்",
-          "உப்பின் மட்டும்"
+          "அமிலம், காரம், உப்பு – அனைத்தின்",
+          "அமிலம், காரம் ஆகியவற்றின் மட்டும்",
+          "காரம், உப்பு ஆகியவற்றின் மட்டும்",
+          "அமிலம், உப்பு ஆகியவற்றின் மட்டும்"
         ],
         "explanation": "அமிலங்கள், காரங்கள் நீரில் அயனியாவதால் மின்சாரத்தைக் கடத்துகின்றன."
       }
@@ -201,9 +201,9 @@
           "தலைவலி",
           "குளவிக் கொட்டு",
           "பற்சிதைவு",
-          "அமிலத்தன்மை (நெஞ்செரிச்சல்)"
+          "அமிலத்தன்மை"
         ],
-        "explanation": "அமில நீக்கிகள் அலுமினியம், மெக்னீசியம் ஹைட்ராக்சைடு போன்ற மென்காரங்கள்."
+        "explanation": "அமில நீக்கிகள் அலுமினியம், மெக்னீசியம் ஹைட்ராக்சைடு போன்ற மென்காரங்கள். (அமிலத்தன்மை – நெஞ்செரிச்சல்)"
       }
     },
     {
@@ -249,9 +249,9 @@
           "acidic",
           "both acidic and basic",
           "strongly acidic",
-          "basic (a weak base)"
+          "basic"
         ],
-        "explanation": "Tooth paste containing weak bases neutralises the acid formed by bacteria decomposing food particles."
+        "explanation": "Tooth paste containing weak bases neutralises the acid formed by bacteria decomposing food particles. (It is a weak base.)"
       },
       "ta": {
         "q": "பற்பசையால் பல் துலக்குவதன் காரணம் அது ______ தன்மை உடையது.",
@@ -259,9 +259,9 @@
           "அமிலத்தன்மை",
           "அமிலம், காரம் இரண்டும்",
           "வலிமையான அமிலத்தன்மை",
-          "காரத்தன்மை (மென்காரம்)"
+          "காரத்தன்மை"
         ],
-        "explanation": "உணவுத் துகள்களை நுண்ணுயிர்கள் சிதைப்பதால் உண்டாகும் அமிலத்தை மென்காரங்கள் நடுநிலையாக்குகின்றன."
+        "explanation": "உணவுத் துகள்களை நுண்ணுயிர்கள் சிதைப்பதால் உண்டாகும் அமிலத்தை மென்காரங்கள் நடுநிலையாக்குகின்றன. (இது ஒரு மென்காரம்.)"
       }
     },
     {
@@ -275,20 +275,20 @@
       "en": {
         "q": "Benzoic acid is used for ______.",
         "options": [
-          "making washing soaps",
-          "making paints",
+          "making washing soaps and detergents",
+          "making paints for painting walls",
           "preserving food materials like pickles",
-          "neutralising acidity"
+          "neutralising acidity in the stomach"
         ],
         "explanation": "Vinegar (acetic acid) is also used to preserve food."
       },
       "ta": {
         "q": "பென்சாயிக் அமிலம் ______ பயன்படுகிறது.",
         "options": [
-          "சலவை சோப்புகள் தயாரிக்க",
-          "வண்ணப்பூச்சுகள் தயாரிக்க",
+          "சலவை சோப்புகளும் சலவைத்தூளும் தயாரிக்க",
+          "சுவர்களுக்கான வண்ணப்பூச்சுகள் தயாரிக்க",
           "ஊறுகாய் போன்ற உணவுப் பொருள்களைப் பதப்படுத்த",
-          "அமிலத்தன்மையைப் போக்க"
+          "இரைப்பையில் அமிலத்தன்மையைப் போக்க"
         ],
         "explanation": "வினிகரும் (அசிட்டிக் அமிலம்) உணவைப் பதப்படுத்தப் பயன்படுகிறது."
       }
@@ -449,9 +449,9 @@
       "en": {
         "q": "In acidic solution the hibiscus indicator changes to ______.",
         "options": [
-          "colourless",
-          "green",
-          "yellow",
+          "completely colourless",
+          "bright green",
+          "bright yellow",
           "deep pink or deep red"
         ],
         "explanation": "In basic solution it changes to green."
@@ -459,10 +459,10 @@
       "ta": {
         "q": "அமிலக் கரைசலில் செம்பருத்தி காட்டி ______ நிறமாக மாறும்.",
         "options": [
-          "நிறமற்றது",
-          "பச்சை",
-          "மஞ்சள்",
-          "அடர் இளஞ்சிவப்பு அல்லது அடர் சிவப்பு"
+          "முற்றிலும் நிறமற்றது",
+          "பளிச்சிடும் பச்சை",
+          "பளிச்சிடும் மஞ்சள்",
+          "அடர் இளஞ்சிவப்பு/சிவப்பு"
         ],
         "explanation": "காரக் கரைசலில் அது பச்சையாக மாறும்."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Acids and Bases: Which statement is correct?",
         "options": [
-          "All bases are alkalis.",
-          "All alkalis are bases but all bases are not alkalis.",
-          "No base is an alkali.",
-          "All alkalis are acids."
+          "All bases are alkalis and dissolve in water.",
+          "All alkalis are bases, but not all bases are alkalis.",
+          "No base can ever be an alkali at all.",
+          "All alkalis are acids and all acids are alkalis."
         ],
         "explanation": "Alkalis are water-soluble bases, so all alkalis are bases but not all bases are alkalis."
       },
       "ta": {
         "q": "சரியான கூற்று எது?",
         "options": [
-          "எல்லாக் காரங்களும் ஆல்கலிகள்.",
-          "எல்லா ஆல்கலிகளும் காரங்கள்; ஆனால் எல்லாக் காரங்களும் ஆல்கலிகள் அல்ல.",
-          "எந்தக் காரமும் ஆல்கலி அல்ல.",
-          "எல்லா ஆல்கலிகளும் அமிலங்கள்."
+          "எல்லாக் காரங்களும் ஆல்கலிகள்; அவை நீரில் கரையும்.",
+          "எல்லா ஆல்கலிகளும் காரங்கள்; எல்லாக் காரங்களும் ஆல்கலிகள் அல்ல.",
+          "எந்தக் காரமும் ஆல்கலியாக இருக்க முடியாது.",
+          "எல்லா ஆல்கலிகளும் அமிலங்கள்; எல்லா அமிலங்களும் ஆல்கலிகள்."
         ],
         "explanation": "நீரில் கரையும் காரங்களே ஆல்கலிகள்; எனவே எல்லா ஆல்கலிகளும் காரங்கள், ஆனால் எல்லாக் காரங்களும் ஆல்கலிகள் அல்ல."
       }
@@ -568,7 +568,7 @@
           "Phenolphthalein",
           "Hibiscus flower extract",
           "Methyl orange",
-          "Sodium hydroxide"
+          "Sodium hydroxide solution"
         ],
         "explanation": "The statement is true. Phenolphthalein and methyl orange are synthetic indicators."
       },
@@ -597,9 +597,9 @@
           "releases hydroxide ions in water",
           "tastes bitter",
           "turns red litmus blue",
-          "releases hydrogen ions (H⁺) when dissolved in water"
+          "releases hydrogen ions in water"
         ],
-        "explanation": "According to Arrhenius, an acid furnishes H⁺ or H₃O⁺ ions in aqueous solution."
+        "explanation": "According to Arrhenius, an acid furnishes H⁺ or H₃O⁺ ions in aqueous solution. (The hydrogen ion is written H⁺.)"
       },
       "ta": {
         "q": "அமிலம் என்பது நீரில் கரையும்போது ______ பொருள்.",
@@ -607,9 +607,9 @@
           "ஹைட்ராக்சைடு அயனிகளை வெளிவிடும்",
           "கசப்புச் சுவை கொண்ட",
           "சிவப்பு லிட்மஸை நீலமாக்கும்",
-          "ஹைட்ரஜன் அயனிகளை (H⁺) வெளிவிடும்"
+          "ஹைட்ரஜன் அயனிகளை வெளிவிடும்"
         ],
-        "explanation": "அர்ஹீனியஸின்படி அமிலம் நீர்க்கரைசலில் H⁺ அல்லது H₃O⁺ அயனிகளைத் தரும்."
+        "explanation": "அர்ஹீனியஸின்படி அமிலம் நீர்க்கரைசலில் H⁺ அல்லது H₃O⁺ அயனிகளைத் தரும். (ஹைட்ரஜன் அயனி H⁺)"
       }
     },
     {
@@ -623,20 +623,20 @@
       "en": {
         "q": "Which of the following is a similarity between acids and bases?",
         "options": [
-          "Both taste sour",
-          "Both turn blue litmus red",
-          "Both are corrosive and conduct electricity in aqueous solution",
-          "Both are always solids"
+          "Both taste sour like lemon juice",
+          "Both turn blue litmus paper red",
+          "Both are corrosive and conduct electricity",
+          "Both are always solids at room temperature"
         ],
         "explanation": "Both are corrosive, ionise in aqueous solution, conduct electricity and undergo neutralisation."
       },
       "ta": {
         "q": "அமிலங்கள், காரங்களுக்கிடையேயான ஒற்றுமை எது?",
         "options": [
-          "இரண்டும் புளிப்புச் சுவை உடையவை",
-          "இரண்டும் நீல லிட்மஸைச் சிவப்பாக்கும்",
-          "இரண்டும் அரிக்கும் தன்மையுடையவை; நீர்க்கரைசலில் மின்சாரத்தைக் கடத்துபவை",
-          "இரண்டும் எப்போதும் திண்மங்கள்"
+          "இரண்டும் எலுமிச்சை போலப் புளிப்புச் சுவை உடையவை",
+          "இரண்டும் நீல லிட்மஸ் தாளைச் சிவப்பாக்கும்",
+          "இரண்டும் அரிக்கும்; மின்சாரத்தைக் கடத்துபவை",
+          "இரண்டும் அறை வெப்பநிலையில் எப்போதும் திண்மங்களே"
         ],
         "explanation": "இரண்டும் அரிக்கும் தன்மை, நீர்க்கரைசலில் அயனியாதல், மின்கடத்தல், நடுநிலையாக்கல் ஆகிய பண்புகளை உடையவை."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "An indicator is a chemical substance that ______.",
         "options": [
-          "neutralises acids",
-          "shows the acidic or basic nature of a solution by a suitable colour change",
-          "produces hydrogen gas",
-          "conducts electricity"
+          "neutralises the acids present in a solution",
+          "shows the acidic or basic nature by a colour change",
+          "produces hydrogen gas with the solution",
+          "conducts electricity through the solution"
         ],
         "explanation": "Indicators may be natural (litmus, turmeric) or synthetic (phenolphthalein, methyl orange)."
       },
       "ta": {
         "q": "காட்டி என்பது ______ வேதிப்பொருள்.",
         "options": [
-          "அமிலங்களை நடுநிலையாக்கும்",
-          "பொருத்தமான நிற மாற்றத்தால் கரைசலின் அமில/காரத்தன்மையைக் காட்டும்",
-          "ஹைட்ரஜன் வாயுவை உருவாக்கும்",
-          "மின்சாரத்தைக் கடத்தும்"
+          "கரைசலிலுள்ள அமிலங்கள் அனைத்தையும் நடுநிலையாக்கும்",
+          "நிறம் மாறி அமில/காரத்தன்மையைக் காட்டும்",
+          "கரைசலுடன் வினைபுரிந்து ஹைட்ரஜன் வாயுவை உருவாக்கும்",
+          "கரைசலின் வழியே மின்சாரத்தை எளிதாகக் கடத்தும்"
         ],
         "explanation": "காட்டிகள் இயற்கை (லிட்மஸ், மஞ்சள்) அல்லது செயற்கை (பீனாப்தலீன், மெத்தில் ஆரஞ்சு) ஆக இருக்கலாம்."
       }
@@ -710,10 +710,10 @@
       "en": {
         "q": "A neutralisation reaction is a chemical reaction in which ______.",
         "options": [
-          "two acids react to form a gas",
-          "a metal reacts with water",
+          "two acids react together to form a gas",
+          "a metal reacts with water to give hydrogen",
           "an acid and a base react to form salt and water",
-          "two salts form a precipitate"
+          "two salts react to form a precipitate"
         ],
         "explanation": "Example: HCl + NaOH → NaCl + H₂O."
       },
@@ -739,20 +739,20 @@
       "en": {
         "q": "Which of the following is a physical property of bases?",
         "options": [
-          "They turn blue litmus red",
-          "They turn methyl orange red",
-          "They are sour in taste",
-          "They turn red litmus blue and turn phenolphthalein pink"
+          "They turn blue litmus paper red in colour",
+          "They turn methyl orange solution red",
+          "They are sour in taste and corrosive",
+          "They turn red litmus blue; phenolphthalein pink"
         ],
         "explanation": "Bases are bitter, corrosive, mostly solids, soapy in aqueous medium, and conduct electricity in aqueous solution."
       },
       "ta": {
         "q": "காரங்களின் இயற்பியல் பண்பு எது?",
         "options": [
-          "நீல லிட்மஸைச் சிவப்பாக்கும்",
-          "மெத்தில் ஆரஞ்சைச் சிவப்பாக்கும்",
-          "புளிப்புச் சுவை உடையவை",
-          "சிவப்பு லிட்மஸை நீலமாக்கும்; பீனாப்தலீனை இளஞ்சிவப்பாக்கும்"
+          "நீல லிட்மஸ் தாளைச் சிவப்பாக மாற்றும்",
+          "மெத்தில் ஆரஞ்சைச் சிவப்பு நிறமாக மாற்றும்",
+          "புளிப்புச் சுவையும் அரிக்கும் தன்மையும் உடையவை",
+          "சிவப்பு லிட்மஸ் நீலம்; பீனாப்தலீன் இளஞ்சிவப்பு"
         ],
         "explanation": "காரங்கள் கசப்பானவை, அரிப்பவை, பெரும்பாலும் திண்மங்கள்; நீர்க்கரைசலில் வழவழப்பானவை; மின்சாரத்தைக் கடத்தும்."
       }
@@ -797,20 +797,20 @@
       "en": {
         "q": "Tooth decay (caries) is caused when ______.",
         "options": [
-          "bases dissolve the teeth",
-          "toothpaste forms an acid",
-          "bacteria decompose food particles stuck between teeth and form acid",
-          "saliva turns into a base"
+          "strong bases dissolve the enamel of the teeth",
+          "toothpaste forms an acid inside the mouth",
+          "bacteria break down food between teeth to form acid",
+          "saliva turns into a strong base after meals"
         ],
         "explanation": "Brushing with tooth paste containing weak bases neutralises the acid."
       },
       "ta": {
         "q": "பற்சிதைவு ஏற்படக் காரணம் ______.",
         "options": [
-          "காரங்கள் பற்களைக் கரைப்பது",
-          "பற்பசை அமிலத்தை உருவாக்குவது",
-          "பற்களிடையே சிக்கிய உணவுத் துகள்களை நுண்ணுயிர்கள் சிதைத்து அமிலத்தை உருவாக்குவது",
-          "உமிழ்நீர் காரமாக மாறுவது"
+          "வலிமையான காரங்கள் பற்களின் எனாமலைக் கரைப்பது",
+          "பல் துலக்கும்போது பற்பசை அமிலத்தை உருவாக்குவது",
+          "பற்களிடையே உள்ள உணவை நுண்ணுயிர்கள் சிதைத்து அமிலம் உண்டாக்குவது",
+          "உணவுக்குப் பின் உமிழ்நீர் வலிய காரமாக மாறுவது"
         ],
         "explanation": "மென்காரங்கள் உள்ள பற்பசையால் துலக்கினால் அமிலம் நடுநிலையாக்கப்படும்."
       }

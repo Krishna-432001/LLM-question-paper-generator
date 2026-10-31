@@ -72,20 +72,20 @@
       "en": {
         "q": "Most hydrocarbons float on water because they are ______.",
         "options": [
-          "denser than water",
-          "soluble in water",
+          "denser than water and insoluble in it",
+          "soluble in water and heavier than it",
           "less dense than water and insoluble in it",
-          "heavier than air only"
+          "heavier than air only and soluble in oil"
         ],
         "explanation": "Hydrocarbons can be gases (methane, propane), liquids (hexane, benzene) or waxes (paraffin)."
       },
       "ta": {
         "q": "பெரும்பாலான ஹைட்ரோகார்பன்கள் நீரில் மிதக்கக் காரணம் அவை ______.",
         "options": [
-          "நீரைவிட அடர்த்தி மிக்கவை",
-          "நீரில் கரைபவை",
+          "நீரைவிட அடர்த்தி மிக்கவை; நீரில் கரையாதவை",
+          "நீரில் கரைபவை; நீரைவிட அடர்த்தி மிக்கவை",
           "நீரைவிட அடர்த்தி குறைவு; நீரில் கரையாதவை",
-          "காற்றைவிடக் கனமானவை மட்டும்"
+          "காற்றைவிடக் கனமானவை மட்டுமே; எண்ணெயில் கரைபவை"
         ],
         "explanation": "ஹைட்ரோகார்பன்கள் வாயு (மீத்தேன், புரோபேன்), திரவம் (ஹெக்சேன், பென்சீன்), மெழுகு (பாரஃபின்) வடிவிலும் இருக்கும்."
       }
@@ -246,22 +246,22 @@
       "en": {
         "q": "Natural gas liquefied for shipping in large tankers is called ______.",
         "options": [
-          "LNG (Liquefied Natural Gas)",
+          "LNG",
           "LPG",
           "Producer gas",
           "CNG"
         ],
-        "explanation": "CNG is stored at high pressure; LNG is stored in ultra cold liquid form."
+        "explanation": "CNG is stored at high pressure; LNG is stored in ultra cold liquid form. (LNG = Liquefied Natural Gas.)"
       },
       "ta": {
         "q": "பெரிய தாங்கிக் கப்பல்களில் கொண்டு செல்ல திரவமாக்கப்பட்ட இயற்கை வாயு ______ எனப்படும்.",
         "options": [
-          "எல்.என்.ஜி (திரவமாக்கப்பட்ட இயற்கை வாயு)",
+          "எல்.என்.ஜி",
           "எல்.பி.ஜி",
           "உற்பத்தி வாயு",
           "சி.என்.ஜி"
         ],
-        "explanation": "CNG உயர் அழுத்தத்திலும் LNG மிகக் குளிர்ந்த திரவ நிலையிலும் சேமிக்கப்படுகிறது."
+        "explanation": "CNG உயர் அழுத்தத்திலும் LNG மிகக் குளிர்ந்த திரவ நிலையிலும் சேமிக்கப்படுகிறது. (எல்.என்.ஜி – திரவமாக்கப்பட்ட இயற்கை வாயு)"
       }
     },
     {
@@ -459,12 +459,12 @@
       "ta": {
         "q": "மிகக் குறைந்த கார்பன் (25-35%) கொண்ட நிலக்கரி வகை எது?",
         "options": [
-          "பழுப்பு நிலக்கரி (லிக்னைட்)",
+          "பழுப்பு நிலக்கரி",
           "பிட்டுமினஸ்",
           "துணை பிட்டுமினஸ்",
           "ஆந்த்ரசைட்"
         ],
-        "explanation": "ஆந்த்ரசைட்டில் 86-97% கார்பன்."
+        "explanation": "ஆந்த்ரசைட்டில் 86-97% கார்பன். (பழுப்பு நிலக்கரி – லிக்னைட்)"
       }
     },
     {
@@ -652,20 +652,20 @@
       "en": {
         "q": "Which of the following is a gaseous fuel?",
         "options": [
-          "Wood",
+          "Dry wood logs",
           "Producer gas",
-          "Coal",
-          "Alcohol"
+          "Black coal lumps",
+          "Ethyl alcohol"
         ],
         "explanation": "Wood and coal are solid fuels; alcohol is a liquid fuel."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் வாயு எரிபொருள் எது?",
         "options": [
-          "விறகு",
+          "உலர்ந்த விறகு",
           "உற்பத்தி வாயு",
-          "நிலக்கரி",
-          "ஆல்கஹால்"
+          "கறுப்பு நிலக்கரி",
+          "எத்தில் ஆல்கஹால்"
         ],
         "explanation": "விறகு, நிலக்கரி திண்ம எரிபொருள்கள்; ஆல்கஹால் திரவ எரிபொருள்."
       }

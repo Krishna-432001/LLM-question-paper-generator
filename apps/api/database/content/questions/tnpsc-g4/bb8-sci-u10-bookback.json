@@ -43,20 +43,20 @@
       "en": {
         "q": "Burning of a matchstick is a chemical reaction caused by ______.",
         "options": [
-          "electricity",
+          "passing electric current",
           "contact in physical states",
-          "light",
-          "a catalyst"
+          "falling sunlight on it",
+          "the addition of a catalyst"
         ],
         "explanation": "Rubbing the matchstick against the matchbox brings the reactants in contact in their physical states."
       },
       "ta": {
         "q": "தீக்குச்சி எரிதல் ______ ஏற்படும் வேதிவினைக்கு எடுத்துக்காட்டு.",
         "options": [
-          "மின்சாரத்தால்",
+          "மின்னோட்டம் செலுத்துவதால்",
           "இயற்பியல் நிலைகளில் தொடுதலால்",
-          "ஒளியால்",
-          "வினைவேக மாற்றியால்"
+          "தீக்குச்சியில் ஒளி படுவதால்",
+          "வினைவேக மாற்றி சேர்ப்பதால்"
         ],
         "explanation": "தீக்குச்சியைப் பெட்டியில் உரசும்போது வினைபடு பொருள்கள் அவற்றின் இயற்பியல் நிலைகளில் தொடுவதால் வினை நிகழ்கிறது."
       }
@@ -276,9 +276,9 @@
         "q": "Global warming is caused by ______.",
         "options": [
           "carbon dioxide, methane and chlorofluorocarbons",
-          "carbon dioxide only",
-          "methane only",
-          "chlorofluorocarbons only"
+          "carbon dioxide and methane gases only",
+          "methane and chlorofluorocarbons only",
+          "chlorofluorocarbons and carbon dioxide only"
         ],
         "explanation": "Carbon dioxide, methane and CFCs are all responsible."
       },
@@ -286,9 +286,9 @@
         "q": "புவி வெப்பமாதலுக்குக் காரணமானவை ______.",
         "options": [
           "கார்பன் டை ஆக்சைடு, மீத்தேன், குளோரோஃப்ளூரோ கார்பன்கள்",
-          "கார்பன் டை ஆக்சைடு மட்டும்",
-          "மீத்தேன் மட்டும்",
-          "குளோரோஃப்ளூரோ கார்பன்கள் மட்டும்"
+          "கார்பன் டை ஆக்சைடு, மீத்தேன் மட்டும்",
+          "மீத்தேன், குளோரோஃப்ளூரோ கார்பன்கள் மட்டும்",
+          "குளோரோஃப்ளூரோ கார்பன்கள், கார்பன் டை ஆக்சைடு மட்டும்"
         ],
         "explanation": "கார்பன் டை ஆக்சைடு, மீத்தேன், CFC ஆகிய மூன்றும் காரணம்."
       }
@@ -304,7 +304,7 @@
       "en": {
         "q": "Photosynthesis is a chemical reaction that takes place in the presence of ______.",
         "options": [
-          "light (sunlight)",
+          "sunlight",
           "electricity",
           "a catalytic iron",
           "brine"
@@ -314,7 +314,7 @@
       "ta": {
         "q": "ஒளிச்சேர்க்கை ______ முன்னிலையில் நிகழும் வேதிவினை.",
         "options": [
-          "ஒளி (சூரிய ஒளி)",
+          "சூரிய ஒளி",
           "மின்சாரம்",
           "வினைவேக மாற்றி இரும்பு",
           "உப்புநீர்"
@@ -420,22 +420,22 @@
       "en": {
         "q": "The enzyme responsible for browning of vegetables and fruits is ______.",
         "options": [
-          "polyphenol oxidase (tyrosinase)",
-          "amylase",
-          "pepsin",
-          "catalase"
+          "polyphenol oxidase",
+          "pancreatic amylase",
+          "gastric pepsin",
+          "peroxisomal catalase"
         ],
-        "explanation": "It catalyses the reaction of phenolic compounds with oxygen to form melanin."
+        "explanation": "It catalyses the reaction of phenolic compounds with oxygen to form melanin. (Polyphenol oxidase is also called tyrosinase.)"
       },
       "ta": {
         "q": "காய்கறிகள், பழங்கள் பழுப்பாவதற்குக் காரணமான நொதி ______.",
         "options": [
-          "பாலிபீனால் ஆக்சிடேஸ் (டைரோசினேஸ்)",
-          "அமைலேஸ்",
-          "பெப்சின்",
-          "கேட்டலேஸ்"
+          "பாலிபீனால் ஆக்சிடேஸ்",
+          "உமிழ்நீர் அமைலேஸ்",
+          "இரைப்பை பெப்சின்",
+          "பெராக்சிசோம் கேட்டலேஸ்"
         ],
-        "explanation": "இது பீனால் சேர்மங்கள் ஆக்சிஜனுடன் வினைபுரிந்து மெலனின் உருவாக்குவதை வினையூக்குகிறது."
+        "explanation": "இது பீனால் சேர்மங்கள் ஆக்சிஜனுடன் வினைபுரிந்து மெலனின் உருவாக்குவதை வினையூக்குகிறது. (பாலிபீனால் ஆக்சிடேஸ் – டைரோசினேஸ்)"
       }
     },
     {
@@ -478,22 +478,22 @@
       "en": {
         "q": "The decomposition of lead nitrate on heating is a chemical reaction caused by ______.",
         "options": [
-          "heat (thermolysis)",
+          "heat",
           "light",
           "electricity",
           "a catalyst"
         ],
-        "explanation": "Heating lead nitrate gives a reddish brown gas (nitrogen dioxide); this is a thermochemical reaction caused by heat."
+        "explanation": "Heating lead nitrate gives a reddish brown gas (nitrogen dioxide); this is a thermochemical reaction caused by heat. (Decomposition by heat is called thermolysis.)"
       },
       "ta": {
         "q": "லெட் நைட்ரேட் சூடாக்கப்படும்போது சிதைவடைவது ______ ஏற்படும் வேதிவினை.",
         "options": [
-          "வெப்பத்தால் (வெப்பப்பகுப்பு)",
+          "வெப்பத்தால்",
           "ஒளியால்",
           "மின்சாரத்தால்",
           "வினைவேக மாற்றியால்"
         ],
-        "explanation": "லெட் நைட்ரேட்டைச் சூடாக்கும்போது செம்பழுப்பு நிற நைட்ரஜன் டை ஆக்சைடு வெளிப்படுகிறது; இது வெப்பத்தால் நிகழும் வெப்ப வேதிவினை."
+        "explanation": "லெட் நைட்ரேட்டைச் சூடாக்கும்போது செம்பழுப்பு நிற நைட்ரஜன் டை ஆக்சைடு வெளிப்படுகிறது; இது வெப்பத்தால் நிகழும் வெப்ப வேதிவினை. (வெப்பத்தால் சிதைதல் – வெப்பப்பகுப்பு)"
       }
     },
     {
@@ -623,20 +623,20 @@
       "en": {
         "q": "A chemical reaction is a process in which ______.",
         "options": [
-          "a substance only changes its shape",
-          "ice melts to form water",
-          "a substance is only dissolved in water",
-          "one or more reactants undergo a change to form one or more new products"
+          "a substance only changes its shape or size",
+          "ice melts to form liquid water on heating",
+          "a substance is merely dissolved in water",
+          "reactants undergo a change to form new products"
         ],
         "explanation": "Chemical changes are otherwise called chemical reactions."
       },
       "ta": {
         "q": "வேதிவினை என்பது ______ செயல்முறை.",
         "options": [
-          "ஒரு பொருள் வடிவம் மட்டும் மாறும்",
-          "பனிக்கட்டி உருகி நீராகும்",
-          "ஒரு பொருள் நீரில் கரையும்",
-          "ஒன்று அல்லது அதற்கு மேற்பட்ட வினைபடு பொருள்கள் மாறி ஒன்று அல்லது அதற்கு மேற்பட்ட புதிய வினைவிளை பொருள்களை உருவாக்கும்"
+          "ஒரு பொருளின் வடிவம் அல்லது அளவு மட்டும் மாறிவிடும்",
+          "பனிக்கட்டி வெப்பத்தால் உருகித் திரவ நீராக மாறும்",
+          "ஒரு பொருள் நீரில் வெறுமனே கரைந்து கலந்துவிடும்",
+          "வினைபடு பொருள்கள் மாறிப் புதிய வினைவிளை பொருள்களை உருவாக்கும்"
         ],
         "explanation": "வேதி மாற்றங்கள் வேதிவினைகள் எனவும் அழைக்கப்படுகின்றன."
       }
@@ -768,20 +768,20 @@
       "en": {
         "q": "When brine is electrolysed, it is converted into ______.",
         "options": [
-          "oxygen and sodium",
+          "oxygen, nitrogen and sodium metal",
           "chlorine, hydrogen and sodium hydroxide",
-          "ammonia and chlorine",
-          "carbon dioxide and water"
+          "ammonia, chlorine and sulphur dioxide",
+          "carbon dioxide, water and sodium chloride"
         ],
         "explanation": "It is an important reaction to produce chlorine industrially."
       },
       "ta": {
         "q": "உப்புநீர் மின்னாற்பகுக்கப்படும்போது ______ உருவாகிறது.",
         "options": [
-          "ஆக்சிஜன், சோடியம்",
+          "ஆக்சிஜன், நைட்ரஜன், சோடியம் உலோகம்",
           "குளோரின், ஹைட்ரஜன், சோடியம் ஹைட்ராக்சைடு",
-          "அம்மோனியா, குளோரின்",
-          "கார்பன் டை ஆக்சைடு, நீர்"
+          "அம்மோனியா, குளோரின், கந்தக டை ஆக்சைடு",
+          "கார்பன் டை ஆக்சைடு, நீர், சோடியம் குளோரைடு"
         ],
         "explanation": "குளோரினைத் தொழிற்சாலையில் தயாரிக்கும் முக்கிய வினை இது."
       }
@@ -827,21 +827,21 @@
         "q": "The role of a catalyst in a chemical reaction is to ______.",
         "options": [
           "become the final product",
-          "alter (speed up) the rate of the reaction",
-          "stop the reaction",
-          "provide only light"
+          "alter the rate of the reaction",
+          "stop the reaction completely",
+          "provide only light energy"
         ],
-        "explanation": "A catalyst is a substance which alters the speed of a chemical reaction."
+        "explanation": "A catalyst is a substance which alters the speed of a chemical reaction. (Usually it speeds up the reaction.)"
       },
       "ta": {
         "q": "வேதிவினையில் வினைவேக மாற்றியின் பங்கு ______.",
         "options": [
           "இறுதி விளைபொருளாவது",
-          "வினையின் வேகத்தை மாற்றுவது (அதிகரிப்பது)",
-          "வினையை நிறுத்துவது",
+          "வினையின் வேகத்தை மாற்றுவது",
+          "வினையை முற்றிலும் நிறுத்துவது",
           "ஒளியை மட்டும் தருவது"
         ],
-        "explanation": "வினைவேக மாற்றி வேதிவினையின் வேகத்தை மாற்றும் பொருள்."
+        "explanation": "வினைவேக மாற்றி வேதிவினையின் வேகத்தை மாற்றும் பொருள். (பொதுவாக வினையின் வேகத்தை அதிகரிக்கும்)"
       }
     },
     {
@@ -855,22 +855,22 @@
       "en": {
         "q": "Photosynthesis is a chemical reaction because ______.",
         "options": [
-          "it happens only at night",
-          "it only changes the colour of leaves",
-          "it is reversible physical change",
-          "light energy converts carbon dioxide and water into starch (new substances)"
+          "it happens only during the night time",
+          "it only changes the colour of green leaves",
+          "it is a simple reversible physical change",
+          "light converts carbon dioxide and water into starch"
         ],
-        "explanation": "Sunlight induces the reaction between carbon dioxide and water, producing starch."
+        "explanation": "Sunlight induces the reaction between carbon dioxide and water, producing starch. Starch is a new substance."
       },
       "ta": {
         "q": "ஒளிச்சேர்க்கை ஒரு வேதிவினை; ஏனெனில் ______.",
         "options": [
-          "அது இரவில் மட்டும் நிகழும்",
-          "அது இலைகளின் நிறத்தை மட்டும் மாற்றும்",
-          "அது மீளும் இயற்பியல் மாற்றம்",
-          "ஒளி ஆற்றல் கார்பன் டை ஆக்சைடையும் நீரையும் புதிய பொருளான ஸ்டார்ச்சாக மாற்றுகிறது"
+          "அது இரவு நேரத்தில் மட்டுமே நிகழும் செயல் ஆகும்",
+          "அது பச்சை இலைகளின் நிறத்தை மட்டுமே மாற்றும்",
+          "அது எளிதில் மீளக்கூடிய ஒரு இயற்பியல் மாற்றம்",
+          "ஒளி, கார்பன் டை ஆக்சைடையும் நீரையும் ஸ்டார்ச்சாக்குகிறது"
         ],
-        "explanation": "சூரிய ஒளி கார்பன் டை ஆக்சைடு, நீருக்கிடையேயான வினையைத் தூண்டி ஸ்டார்ச் உருவாக்குகிறது."
+        "explanation": "சூரிய ஒளி கார்பன் டை ஆக்சைடு, நீருக்கிடையேயான வினையைத் தூண்டி ஸ்டார்ச் உருவாக்குகிறது. ஸ்டார்ச் ஒரு புதிய பொருள்."
       }
     }
   ]

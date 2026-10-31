@@ -72,20 +72,20 @@
       "en": {
         "q": "A fuse is ______.",
         "options": [
-          "a switch",
-          "a protective device for breaking an electric circuit",
-          "a wire with low resistance",
-          "a source of electricity"
+          "a switch that turns appliances on and off",
+          "a safety device that breaks the circuit",
+          "a thick wire of very low resistance",
+          "a source of electricity such as a cell"
         ],
         "explanation": "A fuse is a strip of low-melting alloy that melts and breaks the circuit when current exceeds a safe limit."
       },
       "ta": {
         "q": "மின் உருகி என்பது ______.",
         "options": [
-          "ஒரு சுவிட்ச்",
-          "மின்சுற்றைத் துண்டிக்கும் ஒரு பாதுகாப்புச் சாதனம்",
-          "குறைந்த மின்தடை கொண்ட கம்பி",
-          "மின் மூலம்"
+          "மின்சாதனங்களை இயக்கும் / நிறுத்தும் சுவிட்ச்",
+          "சுற்றைத் துண்டிக்கும் பாதுகாப்புச் சாதனம்",
+          "மிகக் குறைந்த மின்தடை கொண்ட தடித்த கம்பி",
+          "மின்கலம் போன்ற மின்னாற்றல் மூலம்"
         ],
         "explanation": "மின் உருகி என்பது குறிப்பிட்ட அளவுக்கு மேல் மின்னோட்டம் பாயும்போது உருகிச் சுற்றைத் துண்டிக்கும் சாதனம்."
       }
@@ -159,10 +159,10 @@
       "en": {
         "q": "The device that protects buildings from lightning strike is the ______.",
         "options": [
-          "electroscope",
-          "fuse",
+          "gold-leaf electroscope",
+          "electric fuse wire",
           "lightning arrester",
-          "battery"
+          "dry cell battery"
         ],
         "explanation": "A lightning arrester gives lightning an easy path to the ground."
       },
@@ -304,10 +304,10 @@
       "en": {
         "q": "An electroscope is an instrument used to ______.",
         "options": [
-          "produce lightning",
+          "produce artificial lightning",
           "charge a body by induction",
-          "measure current",
-          "detect the presence of electric charge on a body"
+          "measure the current in a wire",
+          "detect the electric charge on a body"
         ],
         "explanation": "An electroscope detects (and measures) electric charge; it is not used to charge a body."
       },
@@ -335,8 +335,8 @@
         "options": [
           "Water and all solutions are insulators.",
           "Only solids conduct electricity.",
-          "Liquids such as a conducting solution can conduct electricity.",
-          "Liquids never conduct electricity."
+          "Conducting solutions can conduct electricity.",
+          "Liquids never conduct electricity at all."
         ],
         "explanation": "True: Activity 5 shows that liquids (conducting solutions) conduct electricity."
       },
@@ -362,20 +362,20 @@
       "en": {
         "q": "In a parallel circuit, ______.",
         "options": [
-          "the current is the same in all components",
-          "the voltage is divided across the bulbs",
+          "the current is the same in all components and the voltage divides",
+          "the voltage is divided across the bulbs and the current is the same",
           "the voltage is the same across each branch and the current gets divided",
-          "only one path is available"
+          "only one path is available for the current to flow through"
         ],
         "explanation": "In a parallel circuit the voltage is the same across each branch while the current divides."
       },
       "ta": {
         "q": "பக்க இணைப்புச் சுற்றில் ______.",
         "options": [
-          "எல்லாப் பகுதிகளிலும் மின்னோட்டம் சமம்",
-          "பல்புகளுக்கிடையே மின்னழுத்தம் பிரியும்",
+          "எல்லாப் பகுதிகளிலும் மின்னோட்டம் சமம்; மின்னழுத்தம் பிரியும்",
+          "பல்புகளுக்கிடையே மின்னழுத்தம் பிரியும்; மின்னோட்டம் சமம்",
           "ஒவ்வொரு கிளையிலும் மின்னழுத்தம் சமம்; மின்னோட்டம் பிரிந்து செல்லும்",
-          "ஒரே பாதை மட்டுமே உண்டு"
+          "மின்னோட்டம் செல்ல ஒரே பாதை மட்டுமே உண்டு"
         ],
         "explanation": "பக்க இணைப்பில் ஒவ்வொரு கிளையிலும் மின்னழுத்தம் சமம்; மின்னோட்டம் பிரியும்."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "A comb rubbed with dry hair attracts small bits of paper because ______.",
         "options": [
-          "the negatively charged comb attracts the positive charges at the edges of the paper bits",
-          "the comb becomes magnetic",
-          "the paper bits become heavier",
-          "the hair becomes positively charged only"
+          "the negatively charged comb attracts positive charges in the paper bits",
+          "the comb becomes a magnet and attracts the paper bits",
+          "the paper bits become heavier and settle on the comb",
+          "only the hair becomes positively charged and pulls the paper"
         ],
         "explanation": "The comb gains electrons from hair; its negative charge attracts the positive charges in the paper bits."
       },
       "ta": {
         "q": "உலர்ந்த முடியில் தேய்த்த சீப்பு சிறு காகிதத் துண்டுகளைக் கவர்வதற்குக் காரணம் ______.",
         "options": [
-          "எதிர்மின்னூட்டம் பெற்ற சீப்பு காகிதத் துண்டுகளின் ஓரங்களிலுள்ள நேர்மின்னூட்டங்களைக் கவர்வது",
-          "சீப்பு காந்தமாவது",
-          "காகிதத் துண்டுகள் கனமாவது",
-          "முடி மட்டும் நேர்மின்னூட்டம் பெறுவது"
+          "எதிர்மின்னூட்டச் சீப்பு காகிதத் துண்டிலுள்ள நேர்மின்னூட்டங்களைக் கவர்வது",
+          "சீப்பு காந்தமாகிக் காகிதத்தைக் கவர்வது",
+          "காகிதத் துண்டுகள் கனமாகிச் சீப்பில் ஒட்டுவது",
+          "முடி மட்டுமே நேர்மின்னூட்டம் பெற்றுக் காகிதத்தை இழுப்பது"
         ],
         "explanation": "முடியிலிருந்து எலக்ட்ரான்களைப் பெற்ற சீப்பு எதிர்மின்னூட்டம் பெற்று காகிதத் துண்டுகளைக் கவரும்."
       }
@@ -479,19 +479,19 @@
         "q": "When the metal disc of an electroscope is touched with a charged glass rod, the leaves diverge because ______.",
         "options": [
           "the leaves acquire opposite charges",
-          "both leaves acquire similar charges and repel each other",
-          "the leaves become heavier",
-          "the rod becomes neutral"
+          "both leaves get like charges and repel",
+          "the leaves become heavier after touching",
+          "the rod becomes electrically neutral"
         ],
         "explanation": "Charge flows to the leaves through the rod; like charges repel."
       },
       "ta": {
         "q": "நிலைமின்காட்டியின் உலோகத் தட்டை மின்னேற்றம் பெற்ற கண்ணாடிக் கம்பியால் தொடும்போது இலைகள் விரிவதற்குக் காரணம் ______.",
         "options": [
-          "இலைகள் எதிர் மின்னூட்டம் பெறுவது",
-          "இரு இலைகளும் ஒத்த மின்னூட்டம் பெற்று ஒன்றையொன்று விலக்குவது",
-          "இலைகள் கனமாவது",
-          "கம்பி நடுநிலையாவது"
+          "இலைகள் ஒன்றுக்கொன்று எதிர் மின்னூட்டம் பெறுவது",
+          "இரு இலைகளும் ஒத்த மின்னூட்டம் பெற்று விலக்குவது",
+          "இலைகள் கனமாகிக் கீழ்நோக்கி இழுக்கப்படுவது",
+          "கம்பி மின்னூட்டத்தை இழந்து நடுநிலையாவது"
         ],
         "explanation": "மின்னூட்டம் இலைகளுக்குப் பரவுவதால் ஒத்த மின்னூட்டங்கள் விலக்குகின்றன."
       }
@@ -508,9 +508,9 @@
         "q": "The connecting rod and leaves of an electroscope are made of metals so that they ______.",
         "options": [
           "conduct electric charge easily",
-          "absorb heat",
-          "reflect light",
-          "insulate the charge"
+          "absorb heat from the surroundings",
+          "reflect light from the leaves",
+          "insulate the charge from the leaves"
         ],
         "explanation": "Gold and silver are the best conductors; the rod carries charge to the leaves."
       },
@@ -536,20 +536,20 @@
       "en": {
         "q": "One should not use an umbrella while crossing an open field during a thunderstorm because ______.",
         "options": [
-          "it increases the wind",
-          "it reflects sound",
+          "it increases the speed of the wind",
+          "it reflects the sound of thunder",
           "it makes you a target for lightning",
-          "it makes you heavier"
+          "it makes you much heavier to carry"
         ],
         "explanation": "An umbrella makes the person the highest object and a target for lightning."
       },
       "ta": {
         "q": "இடி மின்னலின்போது திறந்த வெளியில் குடை பிடிக்கக் கூடாது; ஏனெனில் ______.",
         "options": [
-          "அது காற்றை அதிகரிக்கும்",
-          "அது ஒலியை எதிரொளிக்கும்",
-          "அது உங்களை மின்னலுக்கான இலக்காக மாற்றும்",
-          "அது உங்களைக் கனமாக்கும்"
+          "அது காற்றின் வேகத்தை அதிகரிக்கும்",
+          "அது இடியின் ஒலியை எதிரொளிக்கும்",
+          "அது உங்களை மின்னலின் இலக்காக்கும்",
+          "அது உங்களை மிகவும் கனமாக்கும்"
         ],
         "explanation": "குடை நம்மை மின்னல் தாக்கும் இலக்காக மாற்றுகிறது."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "When two materials are rubbed together, charges are produced because ______.",
         "options": [
-          "the materials lose mass completely",
-          "new protons are created",
-          "neutrons are lost",
-          "some electrons are transferred from one material to the other"
+          "the materials lose all their mass completely",
+          "new protons are created in both materials",
+          "neutrons are lost from the nuclei of atoms",
+          "some electrons move from one material to the other"
         ],
         "explanation": "Rubbing transfers electrons, leaving both with a net electric charge."
       },
       "ta": {
         "q": "இரு பொருள்களைத் தேய்க்கும்போது மின்னூட்டம் தோன்றக் காரணம் ______.",
         "options": [
-          "பொருள்கள் நிறை முழுவதையும் இழப்பது",
-          "புதிய புரோட்டான்கள் உருவாவது",
-          "நியூட்ரான்கள் இழக்கப்படுவது",
-          "சில எலக்ட்ரான்கள் ஒரு பொருளிலிருந்து மற்றதற்கு இடம்பெயர்வது"
+          "இரு பொருள்களும் தம் நிறை முழுவதையும் இழப்பது",
+          "இரு பொருள்களிலும் புதிய புரோட்டான்கள் உருவாவது",
+          "அணுக்கருக்களிலிருந்து நியூட்ரான்கள் இழக்கப்படுவது",
+          "சில எலக்ட்ரான்கள் ஒரு பொருளிலிருந்து மற்றதற்கு நகர்வது"
         ],
         "explanation": "தேய்க்கும்போது எலக்ட்ரான்கள் மாறுவதால் இரண்டும் நிகர மின்னூட்டம் பெறுகின்றன."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "Earthing is a safety measure in which ______.",
         "options": [
-          "a battery is connected to a bulb",
-          "the neutral wire is removed",
-          "the live wire is cut",
-          "the discharge of electrical energy is transferred directly to the earth through a low-resistance wire"
+          "a battery is connected across a bulb in a circuit",
+          "the neutral wire is removed from the main supply",
+          "the live wire is cut and left open in the circuit",
+          "excess charge is led to the earth through a low-resistance wire"
         ],
         "explanation": "Earthing prevents shock if the insulation inside an appliance fails; the earth wire is connected to the metallic body."
       },
       "ta": {
         "q": "புவித்தொடுப்பு என்பது ______ ஒரு பாதுகாப்பு நடவடிக்கை.",
         "options": [
-          "மின்கலத்தைப் பல்புடன் இணைக்கும்",
-          "நடுநிலைக் கம்பியை நீக்கும்",
-          "மின்கம்பியை வெட்டும்",
-          "குறைந்த மின்தடைக் கம்பி மூலம் மின்னாற்றல் வெளியேற்றத்தை நேரடியாகப் புவிக்குச் செலுத்தும்"
+          "மின்கலத்தைப் பல்புடன் தொடராக இணைத்து எரியச் செய்யும்",
+          "நடுநிலைக் கம்பியை முதன்மை இணைப்பிலிருந்து நீக்கும்",
+          "மின்கம்பியை வெட்டிச் சுற்றைத் திறந்தநிலையில் வைக்கும்",
+          "மிகை மின்னூட்டத்தைக் குறைந்த மின்தடைக் கம்பி வழியே புவிக்குச் செலுத்தும்"
         ],
         "explanation": "சாதனத்தின் உட்காப்பு பழுதானாலும் அதிர்ச்சி ஏற்படாமல் தடுக்க உலோக உடலுடன் புவிக்கம்பி இணைக்கப்படுகிறது."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "Electroplating is the process of ______.",
         "options": [
-          "depositing a layer of one metal over the surface of another metal by passing electric current",
-          "removing a metal layer by heat",
-          "charging a body by induction",
-          "joining two wires"
+          "coating one metal over another by passing electric current",
+          "removing a metal layer from a surface by heat",
+          "charging a body by induction using a rod",
+          "joining two wires together using solder"
         ],
         "explanation": "Electroplating is a common application of the chemical effect of current."
       },
       "ta": {
         "q": "மின்முலாம் பூசுதல் என்பது ______ செயல்முறை.",
         "options": [
-          "மின்னோட்டத்தைச் செலுத்தி ஓர் உலோகத்தின் பரப்பின் மீது மற்றொரு உலோகத்தின் படலத்தைப் படியவைக்கும்",
-          "வெப்பத்தால் உலோகப் படலத்தை நீக்கும்",
-          "தூண்டல் முறையில் மின்னேற்றம் செய்யும்",
-          "இரு கம்பிகளை இணைக்கும்"
+          "மின்னோட்டத்தால் ஓர் உலோகத்தின் மீது வேறு உலோகப் படலம் படியவைக்கும்",
+          "வெப்பத்தால் உலோகத்தின் மேற்படலத்தைத் தனியாகப் பிரித்து நீக்கிவிடும்",
+          "தூண்டல் முறையில் ஒரு பொருளை மின்னேற்றம் செய்யும்",
+          "இரு கம்பிகளை உருக்கிப் பற்றவைத்து இணைக்கும்"
         ],
         "explanation": "மின்முலாம் பூசுதல் மின்னோட்டத்தின் வேதி விளைவின் பொதுப் பயன்பாடாகும்."
       }
@@ -710,20 +710,20 @@
       "en": {
         "q": "Iron is coated with zinc by electroplating in order to ______.",
         "options": [
-          "make it heavier",
+          "make it much heavier to carry",
           "protect it from corrosion and rust",
-          "make it magnetic",
-          "increase its resistance"
+          "make it magnetic for lifting",
+          "increase its electrical resistance"
         ],
         "explanation": "A zinc coating protects iron from corrosion; chromium coatings give a shiny, scratch-resistant finish."
       },
       "ta": {
         "q": "இரும்பின் மீது துத்தநாகம் மின்முலாம் பூசப்படுவது அதனை ______.",
         "options": [
-          "கனமாக்க",
-          "அரிப்பு, துருப்பிடித்தலிலிருந்து பாதுகாக்க",
-          "காந்தமாக்க",
-          "மின்தடையை அதிகரிக்க"
+          "அதன் எடையை மிகவும் அதிகரிக்க",
+          "அரிப்பு, துருவிலிருந்து பாதுகாக்க",
+          "காந்தப் பண்புடையதாக மாற்ற",
+          "அதன் மின்தடையை அதிகரிக்கச் செய்ய"
         ],
         "explanation": "துத்தநாகப் பூச்சு இரும்பை அரிப்பிலிருந்து காக்கிறது; குரோமியம் பளபளப்பையும் கீறல் தடுப்பையும் தரும்."
       }

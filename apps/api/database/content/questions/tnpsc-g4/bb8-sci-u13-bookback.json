@@ -362,22 +362,22 @@
       "en": {
         "q": "Excessive use of chemical fertilizers in agriculture ______.",
         "options": [
-          "improves water quality",
+          "improves the quality of river water",
           "causes eutrophication and water pollution",
-          "increases dissolved oxygen",
-          "has no effect on water bodies"
+          "increases the dissolved oxygen in water",
+          "has no effect on lakes and rivers"
         ],
         "explanation": "The statement is true: fertilizers dissolve in rainwater and flow into rivers and lakes, causing excess nitrates and phosphates."
       },
       "ta": {
         "q": "வேளாண்மையில் இரசாயன உரங்களை அளவுக்கு அதிகமாகப் பயன்படுத்துவது ______.",
         "options": [
-          "நீரின் தரத்தை உயர்த்தும்",
-          "நீர்ப் பெருக்க வளமாக்கலையும் (யூட்ரோஃபிகேஷன்) நீர் மாசுபாட்டையும் ஏற்படுத்தும்",
-          "கரைந்துள்ள ஆக்சிஜனை அதிகரிக்கும்",
-          "நீர்நிலைகளைப் பாதிக்காது"
+          "ஆறு, ஏரி நீரின் தரத்தை நன்கு உயர்த்தும்",
+          "யூட்ரோஃபிகேஷனையும் நீர் மாசுபாட்டையும் ஏற்படுத்தும்",
+          "நீரில் கரைந்துள்ள ஆக்சிஜனை அதிகரிக்கும்",
+          "ஆறு, ஏரி போன்ற நீர்நிலைகளைப் பாதிக்காது"
         ],
-        "explanation": "நூல் கூற்று சரி; உரங்கள் மழைநீருடன் கரைந்து நீர்நிலைகளில் கலந்து நைட்ரேட், பாஸ்பேட் மிகையை உண்டாக்குகின்றன."
+        "explanation": "நூல் கூற்று சரி; உரங்கள் மழைநீருடன் கரைந்து நீர்நிலைகளில் கலந்து நைட்ரேட், பாஸ்பேட் மிகையை உண்டாக்குகின்றன. (யூட்ரோஃபிகேஷன் – நீர்ப் பெருக்க வளமாக்கல்)"
       }
     },
     {
@@ -392,21 +392,21 @@
         "q": "Which statement about the density of water is correct?",
         "options": [
           "The density of water does not change with temperature.",
-          "Water has maximum density (1 g/cc) at 4 °C and less at other temperatures.",
+          "Water has maximum density at 4 °C and less at other temperatures.",
           "Water has minimum density at 4 °C.",
           "Water has maximum density at 0 °C."
         ],
-        "explanation": "Water has its maximum density (1 g/cc) at 4 °C; at other temperatures its density is less."
+        "explanation": "Water has its maximum density (1 g/cc) at 4 °C; at other temperatures its density is less. (The maximum density is 1 g/cc.)"
       },
       "ta": {
         "q": "நீரின் அடர்த்தி பற்றிய சரியான கூற்று எது?",
         "options": [
           "நீரின் அடர்த்தி வெப்பநிலையால் மாறுவதில்லை.",
-          "நீருக்கு 4°C-இல் பெரும அடர்த்தி (1 கி/செ.மீ³); மற்ற வெப்பநிலைகளில் குறைவு.",
-          "நீருக்கு 4°C-இல் சிறும அடர்த்தி.",
-          "நீருக்கு 0°C-இல் பெரும அடர்த்தி."
+          "நீருக்கு 4°C-இல் பெரும அடர்த்தி; மற்ற வெப்பநிலைகளில் குறைவு.",
+          "நீருக்கு 4°C-இல் சிறும அடர்த்தி; பிற வெப்பநிலைகளில் அதிகம்.",
+          "நீருக்கு 0°C-இல் பெரும அடர்த்தி; பிற வெப்பநிலைகளில் குறைவு."
         ],
-        "explanation": "நீர் 4 °C-இல் பெருமஅடர்த்தியை (1 கி/க.செ.மீ) அடையும்; பிற வெப்பநிலைகளில் அடர்த்தி குறைவு."
+        "explanation": "நீர் 4 °C-இல் பெருமஅடர்த்தியை (1 கி/க.செ.மீ) அடையும்; பிற வெப்பநிலைகளில் அடர்த்தி குறைவு. (பெரும அடர்த்தி 1 கி/செ.மீ³)"
       }
     },
     {
@@ -478,9 +478,9 @@
       "en": {
         "q": "Alum is added to water in sedimentation tanks to ______.",
         "options": [
-          "add taste to water",
-          "kill bacteria",
-          "remove dissolved salts",
+          "add a pleasant taste to the drinking water",
+          "kill all the bacteria present in the water",
+          "remove the dissolved salts from the water",
           "speed up the settling of suspended impurities"
         ],
         "explanation": "Potash alum particles combine with suspended impurities and make them settle faster; this is called loading."
@@ -488,10 +488,10 @@
       "ta": {
         "q": "வண்டல் படியும் தொட்டிகளில் நீரில் படிகாரம் சேர்க்கப்படுவதன் நோக்கம் ______.",
         "options": [
-          "நீருக்குச் சுவை சேர்ப்பது",
-          "பாக்டீரியாவைக் கொல்வது",
-          "கரைந்த உப்புகளை நீக்குவது",
-          "மிதக்கும் அசுத்தங்கள் விரைவாகப் படிய உதவுவது"
+          "குடிக்கும் நீருக்கு இனிய சுவை சேர்ப்பது",
+          "நீரிலுள்ள பாக்டீரியாக்கள் அனைத்தையும் கொல்வது",
+          "நீரில் கரைந்துள்ள உப்புகளை நீக்குவது",
+          "அசுத்தங்கள் விரைவாகப் படிய உதவுவது"
         ],
         "explanation": "படிகாரத் துகள்கள் மிதக்கும் அசுத்தங்களுடன் சேர்ந்து அவற்றை விரைவாகப் படியச் செய்கின்றன."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "Water is called the universal solvent because it ______.",
         "options": [
-          "dissolves more substances than any other solvent",
-          "does not dissolve any liquid",
-          "dissolves only gases",
-          "dissolves only salts"
+          "dissolves more substances than other solvents",
+          "does not dissolve any kind of liquid at all",
+          "dissolves only gases such as oxygen",
+          "dissolves only salts and not sugar"
         ],
         "explanation": "It dissolves solids (salt, sugar), liquids (honey, milk) and gases (oxygen, carbon dioxide)."
       },
       "ta": {
         "q": "நீர் அனைத்தையும் கரைக்கும் கரைப்பான் எனப்படுவதற்குக் காரணம் அது ______.",
         "options": [
-          "பிற கரைப்பான்களைவிட அதிகப் பொருள்களைக் கரைப்பது",
-          "எந்தத் திரவத்தையும் கரைக்காதது",
-          "வாயுக்களை மட்டும் கரைப்பது",
-          "உப்புகளை மட்டும் கரைப்பது"
+          "மற்ற கரைப்பான்களைவிட அதிகப் பொருள்களைக் கரைப்பது",
+          "எந்த வகைத் திரவத்தையும் சிறிதும் கரைக்காதது",
+          "ஆக்சிஜன் போன்ற வாயுக்களை மட்டும் கரைப்பது",
+          "உப்புகளை மட்டும் கரைத்துச் சர்க்கரையைக் கரைக்காதது"
         ],
         "explanation": "உப்பு, சர்க்கரை போன்ற திண்மங்களையும், தேன், பால் போன்ற திரவங்களையும், ஆக்சிஜன், கார்பன் டை ஆக்சைடு போன்ற வாயுக்களையும் கரைக்கும்."
       }
@@ -538,7 +538,7 @@
         "options": [
           "ice is heavier than water",
           "ice is a good conductor of heat",
-          "the density of ice is lower than that of water",
+          "ice is less dense than water",
           "ice has a higher freezing point"
         ],
         "explanation": "Ice is lighter than water; the frozen ice covers the lake and the water below remains liquid, helping aquatic life survive."
@@ -623,22 +623,22 @@
       "en": {
         "q": "Hard water is not good for washing because it ______.",
         "options": [
-          "forms scum with soap and spoils the clothes and utensils",
-          "is free of calcium and magnesium",
-          "contains no dissolved salts",
-          "forms plenty of lather"
+          "forms scum with soap and spoils clothes",
+          "is completely free of calcium and magnesium",
+          "contains no dissolved salts at all",
+          "forms plenty of lather with soap"
         ],
         "explanation": "Hardness is due to dissolved salts of calcium and magnesium."
       },
       "ta": {
         "q": "கடின நீர் துவைக்க ஏற்றதல்ல; ஏனெனில் அது ______.",
         "options": [
-          "சோப்புடன் திரளை (ஸ்கம்) உருவாக்கிச் சலவைப்பொருள்களையும் பாத்திரங்களையும் பாதிக்கிறது",
-          "கால்சியம், மெக்னீசியம் இல்லாதது",
-          "கரைந்த உப்புகளைக் கொண்டிருக்கவில்லை",
-          "அதிக நுரையை உருவாக்குகிறது"
+          "சோப்புடன் திரளை உருவாக்கித் துணிகளைப் பாதிக்கிறது",
+          "கால்சியம், மெக்னீசியம் முற்றிலும் இல்லாதது",
+          "கரைந்த உப்புகளை எதுவும் கொண்டிருக்கவில்லை",
+          "சோப்புடன் சேர்ந்து அதிக நுரையை உருவாக்குகிறது"
         ],
-        "explanation": "கால்சியம், மெக்னீசியத்தின் கரைந்த உப்புகளே கடினத்தன்மைக்குக் காரணம்."
+        "explanation": "கால்சியம், மெக்னீசியத்தின் கரைந்த உப்புகளே கடினத்தன்மைக்குக் காரணம். (ஸ்கம் – திரளை)"
       }
     },
     {
@@ -710,22 +710,22 @@
       "en": {
         "q": "The amount of heat energy required by ice to change into water (at 0 °C) is called the latent heat of fusion of ice. Its value is ______.",
         "options": [
-          "80 calories per gram (336 J/g)",
+          "80 calories per gram",
           "540 calories per gram",
           "1 calorie per gram",
           "4.186 calories per gram"
         ],
-        "explanation": "540 cal/g (2268 J/g) is the latent heat of vaporization of steam."
+        "explanation": "540 cal/g (2268 J/g) is the latent heat of vaporization of steam. (80 cal/g = 336 J/g.)"
       },
       "ta": {
         "q": "பனிக்கட்டி நீராக மாறத் தேவையான வெப்ப ஆற்றல் பனிக்கட்டியின் உருகலின் உள்ளுறை வெப்பம் எனப்படும்; அதன் மதிப்பு ______.",
         "options": [
-          "கிராமுக்கு 80 கலோரி (336 J/கி)",
+          "கிராமுக்கு 80 கலோரி",
           "கிராமுக்கு 540 கலோரி",
           "கிராமுக்கு 1 கலோரி",
           "கிராமுக்கு 4.186 கலோரி"
         ],
-        "explanation": "நீராவியின் ஆவியாதல் உள்ளுறை வெப்பம் 540 கலோரி/கி (2268 J/கி)."
+        "explanation": "நீராவியின் ஆவியாதல் உள்ளுறை வெப்பம் 540 கலோரி/கி (2268 J/கி). (80 கலோரி/கி = 336 J/கி)"
       }
     },
     {
@@ -798,9 +798,9 @@
         "q": "Aquatic plants make use of dissolved ______ for photosynthesis.",
         "options": [
           "carbon dioxide",
-          "oxygen",
-          "chlorine",
-          "nitrogen"
+          "free oxygen gas",
+          "chlorine gas",
+          "nitrogen gas"
         ],
         "explanation": "Fish and other aquatic animals depend on dissolved oxygen for respiration."
       },
@@ -808,9 +808,9 @@
         "q": "நீர்வாழ் தாவரங்கள் ஒளிச்சேர்க்கைக்கு நீரில் கரைந்துள்ள ______ ஐப் பயன்படுத்துகின்றன.",
         "options": [
           "கார்பன் டை ஆக்சைடு",
-          "ஆக்சிஜன்",
-          "குளோரின்",
-          "நைட்ரஜன்"
+          "தனி ஆக்சிஜன் வாயு",
+          "குளோரின் வாயு",
+          "நைட்ரஜன் வாயு"
         ],
         "explanation": "மீன் போன்ற நீர்வாழ் விலங்குகள் சுவாசிக்கக் கரைந்துள்ள ஆக்சிஜனைச் சார்ந்துள்ளன."
       }
@@ -856,21 +856,21 @@
         "q": "The latent heat of vaporization of steam is ______.",
         "options": [
           "80 calories per gram",
-          "540 calories per gram (2268 J/g)",
+          "540 calories per gram",
           "1 calorie per gram",
           "100 calories per gram"
         ],
-        "explanation": "The temperature of boiling water does not rise above 100 °C because the supplied heat only changes the state of water."
+        "explanation": "The temperature of boiling water does not rise above 100 °C because the supplied heat only changes the state of water. (540 cal/g = 2268 J/g.)"
       },
       "ta": {
         "q": "நீராவியின் ஆவியாதல் உள்ளுறை வெப்பம் ______.",
         "options": [
           "கிராமுக்கு 80 கலோரி",
-          "கிராமுக்கு 540 கலோரி (2268 J/கி)",
+          "கிராமுக்கு 540 கலோரி",
           "கிராமுக்கு 1 கலோரி",
           "கிராமுக்கு 100 கலோரி"
         ],
-        "explanation": "அளிக்கப்படும் வெப்பம் நிலையை மட்டுமே மாற்றுவதால் கொதிக்கும் நீரின் வெப்பநிலை 100°C-ஐத் தாண்டாது."
+        "explanation": "அளிக்கப்படும் வெப்பம் நிலையை மட்டுமே மாற்றுவதால் கொதிக்கும் நீரின் வெப்பநிலை 100°C-ஐத் தாண்டாது. (540 கலோரி/கி = 2268 J/கி)"
       }
     },
     {

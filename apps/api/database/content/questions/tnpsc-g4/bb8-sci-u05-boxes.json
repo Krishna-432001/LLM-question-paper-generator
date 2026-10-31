@@ -189,19 +189,19 @@
         "q": "During a thunderstorm it is safe to stay inside a car because the car ______.",
         "options": [
           "is a good insulator of sound",
-          "attracts lightning",
-          "acts as a shield against the electric field",
-          "has rubber tyres only"
+          "attracts lightning towards its roof",
+          "shields us from the electric field",
+          "has rubber tyres that insulate it"
         ],
         "explanation": "The car body acts as a shield and protects us from the electric field."
       },
       "ta": {
         "q": "இடி மின்னலின்போது காருக்குள் இருப்பது பாதுகாப்பானது; ஏனெனில் கார் ______.",
         "options": [
-          "ஒலியைத் தடுக்கிறது",
-          "மின்னலைக் கவர்கிறது",
-          "மின்புலத்திலிருந்து காக்கும் கவசமாகச் செயல்படுகிறது",
-          "ரப்பர் டயர் மட்டும் கொண்டது"
+          "ஒலியை நன்கு தடுக்கும் காப்பான்",
+          "மின்னலைத் தன்மேல் கவர்கிறது",
+          "மின்புலத்தை எதிர்க்கும் கவசமாகிறது",
+          "ரப்பர் டயர்களால் மட்டுமே பாதுகாக்கிறது"
         ],
         "explanation": "கார் மின்புலத்திலிருந்து நம்மைக் காக்கும் கவசமாகச் செயல்படுகிறது."
       }
@@ -217,10 +217,10 @@
       "en": {
         "q": "The earth wire of an electric iron is connected to ______.",
         "options": [
-          "the metallic body of the appliance",
-          "the switch only",
+          "the metal body of the appliance",
+          "the switch of the appliance only",
           "the heating coil only",
-          "the plug cover"
+          "the plastic cover of the plug"
         ],
         "explanation": "This avoids accidental shock."
       },
@@ -247,9 +247,9 @@
         "q": "Which fish can give electric shocks of up to about 650 volts?",
         "options": [
           "Electric eel",
-          "Shark",
-          "Whale",
-          "Salmon"
+          "Great white shark",
+          "Blue whale",
+          "Atlantic salmon"
         ],
         "explanation": "The electric eel's organs get discharged when it shocks repeatedly."
       },
@@ -257,9 +257,9 @@
         "q": "ஏறத்தாழ 650 வோல்ட் வரை மின்சார அதிர்ச்சி தரக்கூடிய மீன் எது?",
         "options": [
           "மின்சார விலாங்கு",
-          "சுறா",
-          "திமிங்கிலம்",
-          "சால்மன்"
+          "வெள்ளைச் சுறா",
+          "நீலத் திமிங்கிலம்",
+          "அட்லாண்டிக் சால்மன்"
         ],
         "explanation": "அடிக்கடி அதிர்ச்சி தந்தால் அதன் மின் உறுப்புகள் மின்னிறக்கம் அடைந்துவிடும்."
       }
@@ -276,19 +276,19 @@
         "q": "In a series circuit, ______.",
         "options": [
           "the voltage is the same and the current is divided",
-          "the same current flows through all components and the voltage is divided",
-          "each bulb works even if one fails",
-          "there are many paths"
+          "the same current flows through all components; voltage divides",
+          "each bulb works even if one bulb fails or is removed",
+          "there are many separate paths for the current to flow"
         ],
         "explanation": "In a series circuit V = V1 + V2 + V3."
       },
       "ta": {
         "q": "தொடரிணைப்புச் சுற்றில் ______.",
         "options": [
-          "மின்னழுத்தம் சமம்; மின்னோட்டம் பிரியும்",
+          "எல்லாப் பகுதிகளிலும் மின்னழுத்தம் சமம்; மின்னோட்டம் பிரியும்",
           "எல்லாப் பகுதிகளிலும் மின்னோட்டம் சமம்; மின்னழுத்தம் பிரியும்",
-          "ஒரு பல்பு பழுதானாலும் மற்றவை எரியும்",
-          "பல பாதைகள் உண்டு"
+          "ஒரு பல்பு பழுதானாலும் மற்ற பல்புகள் தொடர்ந்து எரியும்",
+          "மின்னோட்டம் செல்லப் பல தனித்தனிப் பாதைகள் உண்டு"
         ],
         "explanation": "தொடரிணைப்பில் V = V1 + V2 + V3."
       }
@@ -362,10 +362,10 @@
       "en": {
         "q": "Bath taps and bicycle handlebars are given a shiny finish by electroplating them with ______.",
         "options": [
-          "zinc",
-          "chromium",
-          "lead",
-          "tin"
+          "zinc metal",
+          "chromium metal",
+          "lead metal",
+          "tin metal"
         ],
         "explanation": "Chromium is shiny, does not corrode and resists scratches."
       },

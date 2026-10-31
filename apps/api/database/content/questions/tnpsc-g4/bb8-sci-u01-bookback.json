@@ -420,12 +420,12 @@
       "en": {
         "q": "Which of the following is true about 'amount of substance'?",
         "options": [
-          "It gives the hotness of a substance.",
-          "It gives the number of particles (entities) present in a substance.",
-          "It gives the brightness of a source.",
-          "It gives the rate of flow of charge."
+          "It gives the degree of hotness of a substance.",
+          "It gives the number of entities present in a substance.",
+          "It gives the brightness of a light source.",
+          "It gives the rate of flow of electric charge."
         ],
-        "explanation": "The statement is true: amount of substance measures the number of entities in a substance and its unit is mole."
+        "explanation": "The statement is true: amount of substance measures the number of entities in a substance and its unit is mole. The particles are called entities (atoms, molecules, ions)."
       },
       "ta": {
         "q": "'பொருளின் அளவு' பற்றிய சரியான கூற்று எது?",
@@ -886,7 +886,7 @@
         "options": [
           "the degree of hotness of a body",
           "the closeness of measured values",
-          "the flow of electric charges in a particular direction",
+          "the flow of charges in one direction",
           "the angle at the vertex of a cone"
         ],
         "explanation": "The flow of electric charges in a particular direction is electric current."
@@ -896,7 +896,7 @@
         "options": [
           "ஒரு பொருளின் வெப்பத்தின் அளவு",
           "அளவீடுகளின் நெருக்கம்",
-          "குறிப்பிட்ட திசையில் மின்னூட்டங்கள் பாய்வது",
+          "ஒரு திசையில் மின்னூட்டம் பாய்வது",
           "கூம்பின் உச்சியிலுள்ள கோணம்"
         ],
         "explanation": "ஒரு குறிப்பிட்ட திசையில் மின்னூட்டங்கள் பாய்வது மின்னோட்டம் எனப்படும்."
@@ -913,7 +913,7 @@
       "en": {
         "q": "Luminous intensity is the measure of the power of light emitted by a source ______.",
         "options": [
-          "in a particular direction per unit solid angle",
+          "in one direction per unit solid angle",
           "in all directions per unit area",
           "per unit mass",
           "in a unit time through a wire"
@@ -923,7 +923,7 @@
       "ta": {
         "q": "ஒளிச்செறிவு என்பது ஒரு ஒளி மூலம் வெளிவிடும் ஒளியின் திறனை ______ அளப்பதாகும்.",
         "options": [
-          "குறிப்பிட்ட திசையில் ஓரலகு திண்மக்கோணத்தில்",
+          "ஒரு திசையில் ஓரலகு திண்மக்கோணத்தில்",
           "எல்லாத் திசைகளிலும் ஓரலகு பரப்பில்",
           "ஓரலகு நிறைக்கு",
           "கம்பி வழியே ஓரலகு காலத்தில்"

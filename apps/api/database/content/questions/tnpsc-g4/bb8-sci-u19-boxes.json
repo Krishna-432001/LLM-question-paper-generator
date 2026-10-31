@@ -56,9 +56,9 @@
           "சவுக்கிழைகள்",
           "இமைகள்",
           "போலிக்கால்கள்",
-          "சீட்டே (நுண்முட்கள்)"
+          "சீட்டே"
         ],
-        "explanation": "அவை தசைகளுடன் இணைக்கப்பட்டுள்ளன."
+        "explanation": "அவை தசைகளுடன் இணைக்கப்பட்டுள்ளன. (சீட்டே – நுண்முட்கள்)"
       }
     },
     {
@@ -102,11 +102,11 @@
         "q": "The fin that helps a fish in changing its direction is the ______ fin.",
         "options": [
           "pectoral",
-          "caudal (tail)",
+          "caudal",
           "dorsal",
           "pelvic"
         ],
-        "explanation": "Fish have two paired fins and an unpaired fin."
+        "explanation": "Fish have two paired fins and an unpaired fin. (The caudal fin is the tail fin.)"
       },
       "ta": {
         "q": "மீன் திசையை மாற்ற உதவும் துடுப்பு ______ துடுப்பு.",
@@ -130,20 +130,20 @@
       "en": {
         "q": "The joints of a human body can be of ______ types based on movement.",
         "options": [
-          "four",
-          "three - fixed, slightly movable and freely movable",
-          "six only",
-          "two"
+          "four - fixed, hinge, pivot and gliding",
+          "three - fixed, slightly movable, freely movable",
+          "six - all of them freely movable joints",
+          "two - fixed and freely movable only"
         ],
         "explanation": "There are six major types of movable joints."
       },
       "ta": {
         "q": "இயக்கத்தின் அடிப்படையில் மனித உடலின் மூட்டுகள் ______ வகைப்படும்.",
         "options": [
-          "நான்கு",
-          "மூன்று - நிலையான, சிறிது அசையக்கூடிய, தாராளமாக அசையக்கூடிய",
-          "ஆறு மட்டும்",
-          "இரண்டு"
+          "நான்கு - நிலையான, கீல், சுழல், வழுக்கு மூட்டுகள்",
+          "மூன்று - நிலையான, சிறிது அசையும், தாராளமாக அசையும்",
+          "ஆறு - அனைத்தும் தாராளமாக அசையக்கூடியவை",
+          "இரண்டு - நிலையான, தாராளமாக அசையக்கூடிய மட்டும்"
         ],
         "explanation": "தாராளமாக அசையும் மூட்டுகளில் ஆறு முக்கிய வகைகள் உள்ளன."
       }
@@ -160,9 +160,9 @@
         "q": "The shoulder and hip are examples of ______ joints.",
         "options": [
           "ball and socket",
-          "gliding",
-          "pivot",
-          "hinge"
+          "gliding or sliding",
+          "pivot or rotating",
+          "hinge or folding"
         ],
         "explanation": "Ball and socket joints allow the greatest range of movement."
       },
@@ -199,11 +199,11 @@
         "q": "மூட்டுகள் வீங்கி நகரும்போது கடுமையான வலியை உண்டாக்கும் நிலை ______ எனப்படும்.",
         "options": [
           "எலும்புப் புரை நோய்",
-          "மூட்டழற்சி (ஆர்த்ரைடிஸ்)",
+          "மூட்டழற்சி",
           "இரத்தசோகை",
           "ஸ்கர்வி"
         ],
-        "explanation": "மூட்டுகளில் யூரிக் அமிலப் படிகங்கள் படிவதாலும் இது ஏற்படலாம்."
+        "explanation": "மூட்டுகளில் யூரிக் அமிலப் படிகங்கள் படிவதாலும் இது ஏற்படலாம். (மூட்டழற்சி – ஆர்த்ரைடிஸ்)"
       }
     },
     {
@@ -258,10 +258,10 @@
         "options": [
           "புயவெலும்பு",
           "தொடை எலும்பு",
-          "ஸ்டேப்ஸ் (நடுக்காதில்)",
+          "ஸ்டேப்ஸ்",
           "முழங்கால் சில்லு"
         ],
-        "explanation": "தொடை எலும்பு (ஃபீமர்) மிக நீளமான, வலிமையான எலும்பு."
+        "explanation": "தொடை எலும்பு (ஃபீமர்) மிக நீளமான, வலிமையான எலும்பு. (ஸ்டேப்ஸ் நடுக்காதில் உள்ளது.)"
       }
     },
     {
@@ -275,9 +275,9 @@
       "en": {
         "q": "Long bones are found in the ______.",
         "options": [
-          "skull",
-          "spine",
-          "wrist",
+          "skull and face",
+          "spine and back",
+          "wrist and ankle",
           "arms and legs"
         ],
         "explanation": "Flat bones are found in the skull, ribs, shoulder and hips."
@@ -333,20 +333,20 @@
       "en": {
         "q": "The two pairs of lower ribs that are free at the front are called ______ ribs.",
         "options": [
-          "true",
+          "true sternal",
           "free-floating",
-          "fixed",
-          "cervical"
+          "fixed sternal",
+          "cervical neck"
         ],
         "explanation": "Ten pairs of ribs are attached to the breast bone at the front."
       },
       "ta": {
         "q": "முன்பக்கத்தில் இணையாத கீழ்ப்புற இரு இணை விலா எலும்புகள் ______ விலா எலும்புகள் எனப்படும்.",
         "options": [
-          "உண்மை",
+          "உண்மையான மார்பு",
           "தனித்து மிதக்கும்",
-          "நிலையான",
-          "கழுத்து"
+          "நிலையாக இணைந்த",
+          "கழுத்துப் பகுதி"
         ],
         "explanation": "பத்து இணை விலா எலும்புகள் முன்புறம் மார்பெலும்புடன் இணைந்துள்ளன."
       }
@@ -362,22 +362,22 @@
       "en": {
         "q": "The pectoral (shoulder) girdle is formed by the ______.",
         "options": [
-          "radius and ulna",
-          "femur and tibia",
-          "collar bone (clavicle) and shoulder blade (scapula)",
-          "sternum and ribs"
+          "radius and ulna of the forearm",
+          "femur and tibia of the leg",
+          "collar bone and shoulder blade",
+          "sternum and ribs of the chest"
         ],
-        "explanation": "The shoulder blade forms a ball and socket joint with the humerus."
+        "explanation": "The shoulder blade forms a ball and socket joint with the humerus. (The collar bone is the clavicle; the shoulder blade is the scapula.)"
       },
       "ta": {
         "q": "தோள் வளையம் (பெக்டோரல் கிர்டில்) ______ ஆல் உருவாக்கப்படுகிறது.",
         "options": [
           "ரேடியஸ், அல்னா",
           "தொடை எலும்பு, கால் முன்னெலும்பு",
-          "காரை எலும்பு (கிளவிக்கிள்), தோள்பட்டை எலும்பு (ஸ்கேபுலா)",
+          "காரை எலும்பு, தோள்பட்டை எலும்பு",
           "மார்பெலும்பு, விலா எலும்புகள்"
         ],
-        "explanation": "தோள்பட்டை எலும்பு புயவெலும்புடன் பந்துக்கிண்ண மூட்டை உருவாக்குகிறது."
+        "explanation": "தோள்பட்டை எலும்பு புயவெலும்புடன் பந்துக்கிண்ண மூட்டை உருவாக்குகிறது. (காரை எலும்பு – கிளவிக்கிள்; தோள்பட்டை எலும்பு – ஸ்கேபுலா)"
       }
     },
     {
@@ -433,9 +433,9 @@
           "தசைநார்",
           "மூட்டுநீர்மம்",
           "குருத்தெலும்பு",
-          "தசைநாண் (டெண்டன்)"
+          "தசைநாண்"
         ],
-        "explanation": "நரம்பால் தூண்டப்படும்போது தசை சுருங்கிக் குட்டையாகவும் தடிமனாகவும் மாறுகிறது."
+        "explanation": "நரம்பால் தூண்டப்படும்போது தசை சுருங்கிக் குட்டையாகவும் தடிமனாகவும் மாறுகிறது. (தசைநாண் – டெண்டன்)"
       }
     },
     {

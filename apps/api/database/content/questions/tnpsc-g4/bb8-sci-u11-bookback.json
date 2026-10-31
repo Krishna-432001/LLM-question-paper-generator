@@ -43,20 +43,20 @@
       "en": {
         "q": "Aerated water contains dissolved ______.",
         "options": [
-          "air",
+          "atmospheric air",
           "carbon dioxide",
-          "oxygen",
-          "nitrogen"
+          "pure oxygen gas",
+          "nitrogen gas"
         ],
         "explanation": "Aerated (soda) water is carbon dioxide dissolved in water under pressure."
       },
       "ta": {
         "q": "காற்றூட்டப்பட்ட நீரில் கரைந்துள்ள வாயு ______.",
         "options": [
-          "காற்று",
+          "வளிமண்டலக் காற்று",
           "கார்பன் டை ஆக்சைடு",
-          "ஆக்சிஜன்",
-          "நைட்ரஜன்"
+          "தூய ஆக்சிஜன் வாயு",
+          "நைட்ரஜன் வாயு"
         ],
         "explanation": "அழுத்தத்தில் கார்பன் டை ஆக்சைடு நீரில் கரைக்கப்பட்டால் சோடா நீர் கிடைக்கிறது."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "Which of the following is a physical property of oxygen?",
         "options": [
-          "It is a coloured gas lighter than air",
-          "It is a colourless, odourless and tasteless gas denser than air",
-          "It is highly combustible",
-          "It is insoluble in water"
+          "It is a coloured gas that is lighter than air",
+          "It is a colourless, odourless gas denser than air",
+          "It is highly combustible and burns with a flame",
+          "It is completely insoluble in cold water"
         ],
         "explanation": "Oxygen dissolves readily in cold water and is about two times more soluble than nitrogen."
       },
       "ta": {
         "q": "ஆக்சிஜனின் இயற்பியல் பண்பு எது?",
         "options": [
-          "காற்றைவிட இலேசான நிறமுள்ள வாயு",
-          "நிறம், மணம், சுவையற்ற, காற்றைவிடக் கனமான வாயு",
-          "எளிதில் தீப்பற்றும் வாயு",
-          "நீரில் கரையாதது"
+          "காற்றைவிட இலேசான நிறமுள்ள ஒரு வாயு",
+          "நிறம், மணமற்ற, காற்றைவிடக் கனமான வாயு",
+          "எளிதில் தீப்பற்றி எரியும் வாயு",
+          "குளிர்ந்த நீரில் சிறிதும் கரையாத வாயு"
         ],
         "explanation": "ஆக்சிஜன் குளிர்ந்த நீரில் எளிதில் கரையும்; நைட்ரஜனைவிட இரு மடங்கு அதிகம் கரையும்."
       }
@@ -420,10 +420,10 @@
       "en": {
         "q": "Global warming is ______.",
         "options": [
-          "an average increase in the temperature of the atmosphere",
-          "a decrease in atmospheric pressure",
-          "the cooling of the oceans",
-          "the loss of oxygen from the air"
+          "a rise in average atmospheric temperature",
+          "a decrease in atmospheric pressure at sea level",
+          "the cooling of the oceans and polar seas",
+          "the loss of oxygen from the air we breathe"
         ],
         "explanation": "It results from the increase of greenhouse gases like CO₂, N₂O, CH₄ and CFCs."
       },
@@ -431,9 +431,9 @@
         "q": "புவி வெப்பமாதல் என்பது ______.",
         "options": [
           "வளிமண்டலத்தின் சராசரி வெப்பநிலை உயர்வு",
-          "வளிமண்டல அழுத்தக் குறைவு",
-          "கடல்கள் குளிர்வது",
-          "காற்றிலுள்ள ஆக்சிஜன் இழப்பு"
+          "கடல்மட்டத்தில் வளிமண்டல அழுத்தம் குறைவது",
+          "கடல்கள், துருவ நீர்ப்பரப்புகள் குளிர்வது",
+          "நாம் சுவாசிக்கும் காற்றிலுள்ள ஆக்சிஜன் இழப்பு"
         ],
         "explanation": "CO₂, N₂O, CH₄, CFC போன்ற பசுமை இல்ல வாயுக்கள் அதிகரிப்பதால் இது ஏற்படுகிறது."
       }
@@ -459,9 +459,9 @@
       "ta": {
         "q": "உலர் பனிக்கட்டி என்பது ______.",
         "options": [
-          "உறைந்த நீராவி",
-          "திண்ம நைட்ரஜன்",
-          "உறைந்த ஆக்சிஜன்",
+          "உறைந்த நீராவியின் திண்ம வடிவம்",
+          "திண்ம நிலையில் உள்ள நைட்ரஜன்",
+          "உறைந்த நிலையில் உள்ள ஆக்சிஜன்",
           "திண்ம கார்பன் டை ஆக்சைடு"
         ],
         "explanation": "உலர் பனிக்கட்டி பதங்கமாகும்; குளிர்விப்பானாகப் பயன்படுகிறது."

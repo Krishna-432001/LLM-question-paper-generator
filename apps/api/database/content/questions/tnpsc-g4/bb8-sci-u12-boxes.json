@@ -53,12 +53,12 @@
       "ta": {
         "q": "'அணு' என்ற ஆங்கிலச் சொல் (atom) ______ என்ற கிரேக்கச் சொல்லிலிருந்து பெறப்பட்டது; இதன் பொருள் பிளக்க முடியாத மிகச் சிறிய துகள்.",
         "options": [
-          "அடாமாஸ் மட்டும்",
-          "டோமோஸ் மட்டும்",
-          "அடாமோஸ் (atomos)",
+          "அடாமாஸ்",
+          "டோமோஸ்",
+          "அடாமோஸ்",
           "எலக்ட்ரான்"
         ],
-        "explanation": "டெமாக்ரிட்டஸ் இப்பெயரைப் பயன்படுத்தினார்; ஔவையாரும் 'அணுவைத் துளைத்து...' என்று அணுவைக் குறிப்பிட்டுள்ளார்."
+        "explanation": "டெமாக்ரிட்டஸ் இப்பெயரைப் பயன்படுத்தினார்; ஔவையாரும் 'அணுவைத் துளைத்து...' என்று அணுவைக் குறிப்பிட்டுள்ளார். (அடாமோஸ் – atomos)"
       }
     },
     {
@@ -228,9 +228,9 @@
         "q": "கேத்தோடு கதிர் சோதனையில் வாயு ______ அழுத்தத்தில் இருக்கும்போது மட்டுமே அதன் வழியே மின்சாரம் பாய்கிறது.",
         "options": [
           "மிகக் குறைந்த",
-          "மிக அதிக",
-          "வளிமண்டல",
-          "எந்த"
+          "மிக அதிகமான",
+          "வளிமண்டல அளவிலான",
+          "எந்த அளவு"
         ],
         "explanation": "சுமார் 0.001 மி.மீ பாதரச அழுத்தமும் 10,000 வோல்ட் மின்னழுத்தமும் பயன்படுத்தப்படுகின்றன."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "The nature of cathode rays ______.",
         "options": [
-          "depends on the gas in the tube",
-          "is positive",
-          "depends on the anode used",
-          "does not depend on the gas filled in the tube or the cathode used"
+          "depends on the nature of the gas in the tube",
+          "is positive in nature like anode rays",
+          "depends on the metal of the anode used",
+          "does not depend on the gas or the cathode used"
         ],
         "explanation": "In a television tube they are deflected by magnetic fields."
       },
       "ta": {
         "q": "கேத்தோடு கதிர்களின் தன்மை ______.",
         "options": [
-          "குழாயிலுள்ள வாயுவைச் சார்ந்தது",
-          "நேர் மின்னூட்டம் உடையது",
-          "ஆனோடைச் சார்ந்தது",
-          "குழாயிலுள்ள வாயுவையோ பயன்படுத்தும் கேத்தோடையோ சார்ந்ததல்ல"
+          "குழாயிலுள்ள வாயுவின் தன்மையைச் சார்ந்தது",
+          "ஆனோடு கதிர்கள் போல நேர் மின்னூட்டம் உடையது",
+          "பயன்படுத்தும் ஆனோடின் உலோகத்தைச் சார்ந்தது",
+          "வாயுவையோ கேத்தோடையோ சார்ந்ததல்ல"
         ],
         "explanation": "தொலைக்காட்சிக் குழாயில் இவை காந்தப் புலத்தால் விலக்கப்படுகின்றன."
       }
@@ -276,9 +276,9 @@
         "q": "Anode rays are also called ______.",
         "options": [
           "canal rays or positive rays",
-          "X-rays",
-          "cathode rays",
-          "gamma rays"
+          "X-rays or Roentgen rays",
+          "cathode rays or negative rays",
+          "gamma rays or nuclear rays"
         ],
         "explanation": "Goldstein used a perforated cathode and observed a faint red glow behind it."
       },
@@ -286,9 +286,9 @@
         "q": "ஆனோடு கதிர்கள் ______ எனவும் அழைக்கப்படும்.",
         "options": [
           "கால்வாய்க் கதிர்கள் அல்லது நேர் கதிர்கள்",
-          "X-கதிர்கள்",
-          "கேத்தோடு கதிர்கள்",
-          "காமா கதிர்கள்"
+          "X-கதிர்கள் அல்லது ரான்ட்ஜன் கதிர்கள்",
+          "கேத்தோடு கதிர்கள் அல்லது எதிர் கதிர்கள்",
+          "காமா கதிர்கள் அல்லது அணுக்கரு கதிர்கள்"
         ],
         "explanation": "கோல்ட்ஸ்டீன் துளையிடப்பட்ட கேத்தோடைப் பயன்படுத்தி கேத்தோடுக்குப் பின்னால் மங்கலான சிவப்பு ஒளிர்வைக் கண்டார்."
       }
@@ -362,22 +362,22 @@
       "en": {
         "q": "Thomson's atom model is also called the ______ model.",
         "options": [
-          "plum pudding (watermelon)",
+          "plum pudding",
           "nuclear",
           "shell",
           "planetary"
         ],
-        "explanation": "The embedded electrons resembled the seeds of a watermelon; the red mass represented positive charge."
+        "explanation": "The embedded electrons resembled the seeds of a watermelon; the red mass represented positive charge. (It is also called the watermelon model.)"
       },
       "ta": {
         "q": "தாம்சனின் அணு மாதிரி ______ மாதிரி எனவும் அழைக்கப்படும்.",
         "options": [
-          "பிளம் புட்டிங் (தர்பூசணி)",
+          "பிளம் புட்டிங்",
           "உட்கரு",
           "கூடு",
           "கோள்வட்டப்பாதை"
         ],
-        "explanation": "பதிந்துள்ள எலக்ட்ரான்கள் தர்பூசணி விதைகளைப் போலவும் சிவப்புப் பகுதி நேர் மின்னூட்டப் பரவலையும் குறிக்கிறது."
+        "explanation": "பதிந்துள்ள எலக்ட்ரான்கள் தர்பூசணி விதைகளைப் போலவும் சிவப்புப் பகுதி நேர் மின்னூட்டப் பரவலையும் குறிக்கிறது. (தர்பூசணி மாதிரி எனவும் அழைக்கப்படும்.)"
       }
     },
     {
@@ -391,20 +391,20 @@
       "en": {
         "q": "A limitation of Thomson's atom model is that it failed to explain the presence of ______.",
         "options": [
-          "electrons",
-          "protons",
-          "the neutral particle neutron",
-          "positive charge"
+          "free electrons in the atom",
+          "protons present in the atom",
+          "the neutral neutron particle",
+          "positive charge in the atom"
         ],
         "explanation": "It could successfully explain the electrical neutrality of the atom."
       },
       "ta": {
         "q": "தாம்சன் அணு மாதிரியின் குறைபாடு ______ இருப்பதை விளக்க இயலாமை.",
         "options": [
-          "எலக்ட்ரான்கள்",
-          "புரோட்டான்கள்",
+          "அணுவிலுள்ள எலக்ட்ரான்கள்",
+          "அணுவிலுள்ள புரோட்டான்கள்",
           "நடுநிலைத் துகளான நியூட்ரான்",
-          "நேர் மின்னூட்டம்"
+          "அணுவிலுள்ள நேர் மின்னூட்டம்"
         ],
         "explanation": "அணுவின் மின்னூட்ட நடுநிலையை இது வெற்றிகரமாக விளக்கியது."
       }
@@ -652,20 +652,20 @@
       "en": {
         "q": "A chemical formula shows ______.",
         "options": [
-          "only the colour of the compound",
-          "the speed of a reaction",
-          "the heat liberated",
-          "the actual number of atoms of each element in a molecule"
+          "only the colour and state of the compound",
+          "the speed and rate of a chemical reaction",
+          "the heat liberated or absorbed in the reaction",
+          "the number of atoms of each element in a molecule"
         ],
         "explanation": "Calcium chloride is CaCl₂ (valencies interchanged)."
       },
       "ta": {
         "q": "வேதி வாய்பாடு ______ காட்டுகிறது.",
         "options": [
-          "சேர்மத்தின் நிறத்தை மட்டும்",
-          "வினையின் வேகத்தை",
-          "வெளியாகும் வெப்பத்தை",
-          "ஒரு மூலக்கூறிலுள்ள ஒவ்வொரு தனிமத்தின் அணுக்களின் உண்மையான எண்ணிக்கையை"
+          "சேர்மத்தின் நிறத்தையும் நிலையையும் மட்டும்",
+          "வினை நிகழும் வேகத்தையும் வீதத்தையும்",
+          "வினையில் வெளியாகும் அல்லது உறிஞ்சப்படும் வெப்பத்தை",
+          "மூலக்கூறிலுள்ள ஒவ்வொரு தனிமத்தின் அணுக்களின் எண்ணிக்கையை"
         ],
         "explanation": "கால்சியம் குளோரைடின் வாய்பாடு CaCl₂ (இணைதிறன்களை இடமாற்றிப் பெறப்படுவது)."
       }
@@ -778,10 +778,10 @@
       "ta": {
         "q": "மாறா விகித விதி ______ விதி எனவும் அழைக்கப்படும்.",
         "options": [
-          "பல விகித",
-          "வாயு பருமன்",
+          "பல மடங்கு விகித",
+          "வாயுக்களின் பருமன்",
           "நிறை அழியாமை",
-          "வரையறுக்கப்பட்ட விகித"
+          "வரையறுத்த விகித"
         ],
         "explanation": "மாறா விகித விதி வரையறுக்கப்பட்ட விகித விதி எனவும் அழைக்கப்படும்."
       }

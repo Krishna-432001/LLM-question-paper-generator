@@ -159,18 +159,18 @@
       "en": {
         "q": "If the object distance and the image distance from a concave mirror are the same, the object is placed ______.",
         "options": [
-          "at C (centre of curvature)",
-          "at F",
-          "at infinity",
-          "between F and P"
+          "at the centre of curvature C",
+          "at the principal focus F",
+          "at infinity along the axis",
+          "between the focus F and the pole P"
         ],
         "explanation": "When the object is at C, the image is formed at C, real, inverted and of the same size."
       },
       "ta": {
         "q": "பொருளின் தொலைவும் பிம்பத்தின் தொலைவும் சமமாக இருந்தால், பொருள் வைக்கப்பட்டுள்ள இடம் ______.",
         "options": [
-          "C-ல் (வளைவு மையத்தில்)",
-          "F-ல்",
+          "வளைவு மையம் C-ல்",
+          "குவியம் F-ல்",
           "ஈறிலாத் தொலைவில்",
           "F-க்கும் P-க்கும் இடையில்"
         ],
@@ -257,11 +257,11 @@
         "q": "கோளக ஆடியின் வடிவியல் மையம் ______ எனப்படும்.",
         "options": [
           "குவியம்",
-          "ஆடி மையம் (முனை)",
+          "ஆடி மையம்",
           "முதன்மை அச்சு",
           "வளைவு மையம்"
         ],
-        "explanation": "ஆடியின் வடிவியல் மையம் P எனக் குறிக்கப்படும் ஆடி மையம் ஆகும்."
+        "explanation": "ஆடியின் வடிவியல் மையம் P எனக் குறிக்கப்படும் ஆடி மையம் ஆகும். (ஆடி மையம் – முனை)"
       }
     },
     {
@@ -362,22 +362,22 @@
       "en": {
         "q": "If an object is placed between two parallel plane mirrors, the number of images formed is ______.",
         "options": [
-          "two",
-          "zero",
-          "three",
-          "infinite"
+          "only two images",
+          "no images at all",
+          "only three images",
+          "an infinite number"
         ],
         "explanation": "Number of images = 360°/θ - 1; for parallel mirrors the number becomes infinite."
       },
       "ta": {
         "q": "இணையாக உள்ள இரு சமதள ஆடிகளுக்கிடையே ஒரு பொருளை வைத்தால் உருவாகும் பிம்பங்களின் எண்ணிக்கை ______.",
         "options": [
-          "இரண்டு",
-          "சுழி",
-          "மூன்று",
-          "முடிவிலி (எண்ணிலடங்கா)"
+          "இரண்டு பிம்பங்கள்",
+          "பிம்பமே இல்லை",
+          "மூன்று பிம்பங்கள்",
+          "முடிவற்ற எண்ணிக்கை"
         ],
-        "explanation": "இணை ஆடிகளுக்கிடையே பிம்பங்களின் எண்ணிக்கை முடிவில்லாதது."
+        "explanation": "இணை ஆடிகளுக்கிடையே பிம்பங்களின் எண்ணிக்கை முடிவில்லாதது. (முடிவிலி – எண்ணிலடங்கா)"
       }
     },
     {
@@ -536,20 +536,20 @@
       "en": {
         "q": "According to Snell's law, for a given pair of media, sin i / sin r is ______.",
         "options": [
-          "equal to zero",
-          "equal to the focal length",
-          "a constant equal to the refractive index",
-          "always equal to 1"
+          "equal to zero for all pairs of media",
+          "equal to the focal length of the lens",
+          "a constant called the refractive index",
+          "always equal to 1 for every medium"
         ],
         "explanation": "Snell's law: the ratio of the sine of the angle of incidence to the sine of the angle of refraction equals the refractive index (a constant)."
       },
       "ta": {
         "q": "ஸ்நெல் விதிப்படி, ஒரு குறிப்பிட்ட ஊடக இணைக்கு sin i / sin r ______.",
         "options": [
-          "சுழிக்குச் சமம்",
-          "குவிய தொலைவுக்குச் சமம்",
+          "எல்லா ஊடக இணைக்கும் சுழிக்குச் சமம்",
+          "ஆடியின் குவிய தொலைவுக்குச் சமம்",
           "ஒளிவிலகல் எண்ணுக்குச் சமமான மாறிலி",
-          "எப்போதும் 1-க்குச் சமம்"
+          "எல்லா ஊடகத்திற்கும் எப்போதும் 1-க்குச் சமம்"
         ],
         "explanation": "ஸ்நெல் விதி: படுகோணத்தின் சைன் மதிப்பிற்கும் விலகுகோணத்தின் சைன் மதிப்பிற்கும் உள்ள தகவு ஒளிவிலகல் எண் எனும் மாறிலி."
       }

@@ -56,9 +56,9 @@
           "புளூட்டோனியம்",
           "நெப்டூனியம்",
           "யுரேனியம்",
-          "பாதரசம் (மெர்க்குரி)"
+          "பாதரசம்"
         ],
-        "explanation": "புளூட்டோனியம், நெப்டூனியம், யுரேனியம் ஆகியவை கோள்களின் பெயரால் அமைந்தவை; மெர்க்குரி (பாதரசம்) கடவுளின் பெயரால் அமைந்தது."
+        "explanation": "புளூட்டோனியம், நெப்டூனியம், யுரேனியம் ஆகியவை கோள்களின் பெயரால் அமைந்தவை; மெர்க்குரி (பாதரசம்) கடவுளின் பெயரால் அமைந்தது. (பாதரசம் – மெர்க்குரி)"
       }
     },
     {
@@ -101,22 +101,22 @@
       "en": {
         "q": "The non-metal form that has high ductility is ______.",
         "options": [
-          "carbon (carbon fibre)",
+          "carbon",
           "nitrogen",
           "oxygen",
           "chlorine"
         ],
-        "explanation": "Non-metals are generally not ductile, but carbon fibre is highly ductile."
+        "explanation": "Non-metals are generally not ductile, but carbon fibre is highly ductile. (Carbon fibre is the form that is ductile.)"
       },
       "ta": {
         "q": "அதிக நீட்சித்தன்மை கொண்ட அலோகம் ______.",
         "options": [
-          "கார்பன் (கார்பன் இழை)",
+          "கார்பன்",
           "நைட்ரஜன்",
           "ஆக்சிஜன்",
           "குளோரின்"
         ],
-        "explanation": "அலோகங்கள் பொதுவாக நீளும் தன்மையற்றவை; ஆனால் கார்பன் இழை மிக அதிகமாக நீளும்."
+        "explanation": "அலோகங்கள் பொதுவாக நீளும் தன்மையற்றவை; ஆனால் கார்பன் இழை மிக அதிகமாக நீளும். (கார்பன் இழை வடிவம்)"
       }
     },
     {
@@ -159,22 +159,22 @@
       "en": {
         "q": "The non-metal that conducts electric current is ______.",
         "options": [
-          "carbon (graphite)",
+          "carbon",
           "sulphur",
           "oxygen",
           "nitrogen"
         ],
-        "explanation": "Non-metals are generally bad conductors, with graphite (a form of carbon) as an exception."
+        "explanation": "Non-metals are generally bad conductors, with graphite (a form of carbon) as an exception. (The conducting form of carbon is graphite.)"
       },
       "ta": {
         "q": "மின்சாரத்தைக் கடத்தும் அலோகம் ______.",
         "options": [
-          "கார்பன் (கிராஃபைட்)",
+          "கார்பன்",
           "கந்தகம்",
           "ஆக்சிஜன்",
           "நைட்ரஜன்"
         ],
-        "explanation": "அலோகங்கள் பொதுவாக மின்சாரத்தைக் கடத்தாது; கிராஃபைட் (கார்பனின் ஒரு வடிவம்) விதிவிலக்கு."
+        "explanation": "அலோகங்கள் பொதுவாக மின்சாரத்தைக் கடத்தாது; கிராஃபைட் (கார்பனின் ஒரு வடிவம்) விதிவிலக்கு. (கடத்தும் வடிவம் கிராஃபைட்)"
       }
     },
     {
@@ -336,9 +336,9 @@
           "copper",
           "aluminium",
           "sulphur",
-          "silicon (or germanium)"
+          "silicon"
         ],
-        "explanation": "Silicon and germanium act as electrical conductors under specific conditions and are called semiconductors."
+        "explanation": "Silicon and germanium act as electrical conductors under specific conditions and are called semiconductors. (Germanium is another such metalloid.)"
       },
       "ta": {
         "q": "குறைகடத்தியாகப் பயன்படும் உலோகப்போலி ______.",
@@ -346,9 +346,9 @@
           "தாமிரம்",
           "அலுமினியம்",
           "கந்தகம்",
-          "சிலிகான் (அல்லது ஜெர்மானியம்)"
+          "சிலிகான்"
         ],
-        "explanation": "சிலிகான், ஜெர்மானியம் குறிப்பிட்ட நிலைகளில் மின்சாரத்தைக் கடத்துவதால் குறைகடத்திகள் எனப்படுகின்றன."
+        "explanation": "சிலிகான், ஜெர்மானியம் குறிப்பிட்ட நிலைகளில் மின்சாரத்தைக் கடத்துவதால் குறைகடத்திகள் எனப்படுகின்றன. (ஜெர்மானியமும் இத்தகைய உலோகப்போலி)"
       }
     },
     {
@@ -594,20 +594,20 @@
       "en": {
         "q": "Which of the following is a property of metalloids?",
         "options": [
-          "They are very malleable and ductile",
-          "They are gases at room temperature",
-          "They are solids at room temperature and can form alloys with metals",
-          "They are non-conductors always"
+          "They are very malleable and ductile like metals",
+          "They are gases at room temperature and pressure",
+          "They are solids that can form alloys with metals",
+          "They are always non-conductors of electricity"
         ],
         "explanation": "Metalloids' physical properties tend to be metallic but chemical properties non-metallic; silicon is lustrous yet brittle."
       },
       "ta": {
         "q": "உலோகப்போலிகளின் பண்பு எது?",
         "options": [
-          "மிகவும் தகடாகும், நீளும் தன்மையுடையவை",
-          "அறை வெப்பநிலையில் வாயு",
-          "அறை வெப்பநிலையில் திண்மம்; உலோகங்களுடன் கலந்து கலப்புலோகங்களை உருவாக்கும்",
-          "எப்போதும் கடத்தாதவை"
+          "உலோகங்களைப் போலவே மிகவும் தகடாகும், நீளும் தன்மையுடையவை",
+          "அறை வெப்பநிலையிலும் அழுத்தத்திலும் வாயுவாக இருக்கும்",
+          "திண்மம்; உலோகங்களுடன் கலந்து கலப்புலோகம் உருவாக்கும்",
+          "வெப்பத்தையும் மின்சாரத்தையும் எப்போதும் கடத்தாதவை"
         ],
         "explanation": "இவற்றின் இயற்பியல் பண்புகள் உலோகத்தன்மையும் வேதிப் பண்புகள் அலோகத்தன்மையும் கொண்டவை; சிலிகான் பளபளப்பானது ஆனால் நொறுங்கும்."
       }
@@ -623,10 +623,10 @@
       "en": {
         "q": "Alchemy was the process of ______.",
         "options": [
-          "making medicines from plants",
-          "trying to change less valuable metals into gold",
-          "producing electricity from metals",
-          "classifying elements"
+          "making herbal medicines from plants and herbs",
+          "trying to change cheap metals into gold",
+          "producing electricity from different metals",
+          "classifying elements into groups by properties"
         ],
         "explanation": "The men who did this work were called alchemists."
       },
@@ -683,7 +683,7 @@
         "options": [
           "white washing of walls, cleaning in soaps, preparing chalk",
           "drinking, preserving meat, making sweets",
-          "preparing cakes and bread, disinfecting/sterilising drinking water, and manufacture of cement and glass",
+          "making cakes and bread, sterilising water, and making cement and glass",
           "making pencil lead, cutting diamonds, vulcanising rubber"
         ],
         "explanation": "Baking soda: fire extinguisher and baking; bleaching powder: bleaching and sterilising water; quick lime: cement and glass."
@@ -739,20 +739,20 @@
       "en": {
         "q": "Immersion rods for heating liquids are made of metals because metals are ______.",
         "options": [
-          "bad conductors of heat",
+          "bad conductors of both heat and electricity",
           "good conductors of heat and electricity",
-          "very light",
-          "non-lustrous"
+          "very light and brittle in nature",
+          "dull and non-lustrous in appearance"
         ],
         "explanation": "Metals generally conduct heat and electricity well."
       },
       "ta": {
         "q": "திரவங்களைச் சூடாக்கும் மூழ்கு கம்பிகள் உலோகத்தால் செய்யப்படுவதற்குக் காரணம் உலோகங்கள் ______.",
         "options": [
-          "வெப்பத்தை மோசமாகக் கடத்துபவை",
+          "வெப்பத்தையும் மின்சாரத்தையும் மோசமாகக் கடத்துபவை",
           "வெப்பத்தையும் மின்சாரத்தையும் நன்கு கடத்துபவை",
-          "மிக இலேசானவை",
-          "பளபளப்பற்றவை"
+          "மிக இலேசாகவும் எளிதில் உடைவதாகவும் இருப்பவை",
+          "பளபளப்பின்றி மங்கிய தோற்றம் கொண்டவை"
         ],
         "explanation": "உலோகங்கள் பொதுவாக வெப்பத்தையும் மின்சாரத்தையும் நன்கு கடத்தும்."
       }

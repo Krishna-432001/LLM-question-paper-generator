@@ -14,20 +14,20 @@
       "en": {
         "q": "Which of the following is a celestial body?",
         "options": [
-          "Sun, Moon and stars (all of these)",
-          "Sun only",
-          "Moon only",
-          "Stars only"
+          "Sun, Moon and stars all together",
+          "the Sun only, and no other object",
+          "the Moon only, and no other object",
+          "the stars only, and no other object"
         ],
         "explanation": "The stars, planets, Moon, asteroids, comets and the Sun are celestial objects."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் வான்பொருள் எது?",
         "options": [
-          "சூரியன், நிலவு, விண்மீன்கள் (அனைத்தும்)",
-          "சூரியன் மட்டும்",
-          "நிலவு மட்டும்",
-          "விண்மீன்கள் மட்டும்"
+          "சூரியன், நிலவு, விண்மீன்கள் ஆகிய அனைத்தும்",
+          "சூரியன் மட்டுமே, வேறு எதுவுமில்லை",
+          "நிலவு மட்டுமே, வேறு எதுவுமில்லை",
+          "விண்மீன்கள் மட்டுமே, வேறு எதுவுமில்லை"
         ],
         "explanation": "விண்மீன்கள், கோள்கள், நிலவு, சிறுகோள்கள், வால்மீன்கள், சூரியன் ஆகியவை வான்பொருள்கள்."
       }
@@ -259,9 +259,9 @@
           "ஆன்ட்ரோமெடா",
           "சுழல்",
           "சோம்ப்ரெரோ",
-          "பால்வெளி (பால்வழி)"
+          "பால்வெளி"
         ],
-        "explanation": "நம் சூரியன் பால்வெளி எனும் விண்மீன் திரளைச் சேர்ந்தது."
+        "explanation": "நம் சூரியன் பால்வெளி எனும் விண்மீன் திரளைச் சேர்ந்தது. (பால்வெளி – பால்வழி)"
       }
     },
     {
@@ -275,22 +275,22 @@
       "en": {
         "q": "India's first interplanetary mission is ______.",
         "options": [
-          "the Mars Orbiter Mission (Mangalyaan)",
-          "Aryabhata",
-          "Chandrayaan-1",
-          "Chandrayaan-2"
+          "the Mars Orbiter Mission",
+          "the Aryabhata satellite mission",
+          "the Chandrayaan-1 lunar mission",
+          "the Chandrayaan-2 lunar mission"
         ],
-        "explanation": "By launching Mangalyaan, ISRO became the fourth space agency to reach Mars."
+        "explanation": "By launching Mangalyaan, ISRO became the fourth space agency to reach Mars. (The Mars Orbiter Mission is also called Mangalyaan.)"
       },
       "ta": {
         "q": "இந்தியாவின் முதல் கோள்களுக்கிடையேயான பயணம் ______.",
         "options": [
-          "செவ்வாய் சுற்றுக்கலப் பயணம் (மங்கள்யான்)",
-          "ஆர்யபட்டா",
-          "சந்திரயான்-1",
-          "சந்திரயான்-2"
+          "செவ்வாய் சுற்றுக்கலப் பயணம்",
+          "ஆர்யபட்டா செயற்கைக்கோள் திட்டம்",
+          "சந்திரயான்-1 நிலவுப் பயணம்",
+          "சந்திரயான்-2 நிலவுப் பயணம்"
         ],
-        "explanation": "மங்கள்யான் மூலம் செவ்வாயை அடைந்த நான்காவது விண்வெளி நிறுவனமானது இஸ்ரோ."
+        "explanation": "மங்கள்யான் மூலம் செவ்வாயை அடைந்த நான்காவது விண்வெளி நிறுவனமானது இஸ்ரோ. (செவ்வாய் சுற்றுக்கலப் பயணம் – மங்கள்யான்)"
       }
     },
     {
@@ -333,20 +333,20 @@
       "en": {
         "q": "Chandrayaan-1 was launched from ______ with the help of the PSLV rocket.",
         "options": [
-          "Thumba",
+          "Thumba Equatorial Rocket Launching Station",
           "Sathish Dhawan Space Centre, Sriharikota",
-          "Kulasekarapattinam",
-          "Bengaluru"
+          "Kulasekarapattinam Spaceport in Tamil Nadu",
+          "ISRO Satellite Centre, Bengaluru"
         ],
         "explanation": "The statement is true: Chandrayaan-1 was launched from Sriharikota, Andhra Pradesh."
       },
       "ta": {
         "q": "சந்திரயான்-1 PSLV ராக்கெட் மூலம் ______ இலிருந்து ஏவப்பட்டது.",
         "options": [
-          "தும்பா",
-          "ஸ்ரீஹரிகோட்டாவிலுள்ள சதீஷ் தவான் விண்வெளி மையம்",
-          "குலசேகரப்பட்டினம்",
-          "பெங்களூரு"
+          "தும்பா நிலநடுக்கோட்டு ராக்கெட் ஏவுதளம்",
+          "சதீஷ் தவான் விண்வெளி மையம், ஸ்ரீஹரிகோட்டா",
+          "தமிழ்நாட்டிலுள்ள குலசேகரப்பட்டினம் ஏவுதளம்",
+          "பெங்களூருவிலுள்ள இஸ்ரோ செயற்கைக்கோள் மையம்"
         ],
         "explanation": "கூற்று சரி; சந்திரயான்-1 ஆந்திராவின் ஸ்ரீஹரிகோட்டாவிலிருந்து ஏவப்பட்டது."
       }
@@ -393,20 +393,20 @@
         "options": [
           "space probes",
           "satellites",
-          "launch vehicles (rockets)",
+          "launch vehicles",
           "space stations"
         ],
-        "explanation": "PSLV and GSLV are rockets (Polar and Geosynchronous Satellite Launch Vehicles) that carry satellites into orbit; they are not satellites themselves."
+        "explanation": "PSLV and GSLV are rockets (Polar and Geosynchronous Satellite Launch Vehicles) that carry satellites into orbit; they are not satellites themselves. (Rockets are also called launch vehicles.)"
       },
       "ta": {
         "q": "PSLV, GSLV ஆகியவை இந்தியாவின் புகழ்பெற்ற ______.",
         "options": [
           "விண்வெளி ஆய்வுக்கலங்கள்",
           "செயற்கைக்கோள்கள்",
-          "ராக்கெட்டுகள் (ஏவு ஊர்திகள்)",
+          "ராக்கெட்டுகள்",
           "விண்வெளி நிலையங்கள்"
         ],
-        "explanation": "PSLV, GSLV ஆகியவை செயற்கைக்கோள்களை விண்ணில் செலுத்தும் ராக்கெட்டுகள்; அவை செயற்கைக்கோள்கள் அல்ல."
+        "explanation": "PSLV, GSLV ஆகியவை செயற்கைக்கோள்களை விண்ணில் செலுத்தும் ராக்கெட்டுகள்; அவை செயற்கைக்கோள்கள் அல்ல. (ராக்கெட்டுகள் – ஏவு ஊர்திகள்)"
       }
     },
     {
@@ -420,22 +420,22 @@
       "en": {
         "q": "The propellants of rockets may be in the form of ______.",
         "options": [
-          "solids only",
-          "gases only",
-          "liquids only",
-          "solid, liquid or cryogenic (liquefied gas)"
+          "only in the solid form",
+          "only in the gaseous form",
+          "only in the liquid form",
+          "solid, liquid or cryogenic"
         ],
-        "explanation": "Rocket propellants may be solid, liquid or cryogenic."
+        "explanation": "Rocket propellants may be solid, liquid or cryogenic. (Cryogenic propellants are liquefied gases.)"
       },
       "ta": {
         "q": "ராக்கெட்டின் உந்துபொருள்கள் ______ வடிவில் இருக்கலாம்.",
         "options": [
-          "திண்மம் மட்டும்",
-          "வாயு மட்டும்",
-          "திரவம் மட்டும்",
-          "திண்மம், திரவம் அல்லது கிரையோஜெனிக் (திரவமாக்கிய வாயு)"
+          "திண்ம வடிவில் மட்டுமே இருக்க முடியும்",
+          "வாயு வடிவில் மட்டுமே இருக்க முடியும்",
+          "திரவ வடிவில் மட்டுமே இருக்க முடியும்",
+          "திண்மம், திரவம், கிரையோஜெனிக்"
         ],
-        "explanation": "ராக்கெட்டின் உந்துபொருள் திண்ம, திரவ, கிரையோஜெனிக் வகைகளில் இருக்கும்."
+        "explanation": "ராக்கெட்டின் உந்துபொருள் திண்ம, திரவ, கிரையோஜெனிக் வகைகளில் இருக்கும். (கிரையோஜெனிக் – திரவமாக்கிய வாயு)"
       }
     },
     {
@@ -478,20 +478,20 @@
       "en": {
         "q": "Celestial objects are ______.",
         "options": [
-          "only objects on the Earth",
-          "the stars, planets, Moon, asteroids, comets and other objects in the sky",
-          "only man-made satellites",
-          "only the Sun"
+          "only the objects found on the surface of the Earth",
+          "stars, planets, the Moon, comets and other sky objects",
+          "only the man-made satellites orbiting the Earth",
+          "only the Sun and nothing else in the sky"
         ],
         "explanation": "Stars, planets, Moon, asteroids and comets are called celestial objects."
       },
       "ta": {
         "q": "வான்பொருள்கள் என்பவை ______.",
         "options": [
-          "புவியிலுள்ள பொருள்கள் மட்டும்",
-          "விண்மீன்கள், கோள்கள், நிலவு, சிறுகோள்கள், வால்மீன்கள் போன்ற வானிலுள்ள பொருள்கள்",
-          "செயற்கைக்கோள்கள் மட்டும்",
-          "சூரியன் மட்டும்"
+          "புவியின் மேற்பரப்பில் காணப்படும் பொருள்கள் மட்டுமே",
+          "விண்மீன், கோள், நிலவு, வால்மீன் போன்ற வானிலுள்ள பொருள்கள்",
+          "புவியைச் சுற்றிவரும் மனிதன் அனுப்பிய செயற்கைக்கோள்கள் மட்டுமே",
+          "வானிலுள்ள சூரியன் ஒன்றே, வேறு பொருள்கள் இல்லை"
         ],
         "explanation": "விண்மீன், கோள், நிலவு, சிறுகோள், வால்மீன் போன்றவை வான்பொருள்கள்."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "A galaxy is ______.",
         "options": [
-          "a single star with planets",
-          "a group of comets",
-          "the path of the Moon",
-          "a collection of billions of stars held together by mutual attraction"
+          "a single star with its family of planets only",
+          "a large group of comets moving round the Sun",
+          "the path of the Moon around the Earth",
+          "billions of stars held together by mutual attraction"
         ],
         "explanation": "Billions of galaxies form the universe; our Sun belongs to the Milky Way."
       },
       "ta": {
         "q": "விண்மீன் திரள் (கேலக்ஸி) என்பது ______.",
         "options": [
-          "கோள்களுடன் கூடிய ஒரு விண்மீன்",
-          "வால்மீன்களின் குழு",
-          "நிலவின் பாதை",
-          "பல பில்லியன் விண்மீன்கள் பரஸ்பர ஈர்ப்பால் ஒன்றாகப் பிணைந்த தொகுப்பு"
+          "கோள்களுடன் கூடிய ஒரே ஒரு விண்மீன் மட்டும்",
+          "சூரியனைச் சுற்றிவரும் வால்மீன்களின் குழு",
+          "புவியைச் சுற்றும் நிலவின் சுற்றுப்பாதை",
+          "பல பில்லியன் விண்மீன்கள் ஈர்ப்பால் பிணைந்த தொகுப்பு"
         ],
         "explanation": "பல பில்லியன் விண்மீன் திரள்கள் சேர்ந்து அண்டத்தை உருவாக்குகின்றன."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Which of the following was an objective of Chandrayaan-1?",
         "options": [
-          "To land humans on Mars",
-          "To study Jupiter's rings",
+          "To land human astronauts on the surface of Mars",
+          "To study the rings of Jupiter and its moons",
           "To find the possibility of water on the Moon",
-          "To find life on Venus"
+          "To find living organisms on the planet Venus"
         ],
         "explanation": "Objectives: find water, elements, Helium-3, make a 3-D atlas of the Moon and study the evolution of the solar system."
       },
       "ta": {
         "q": "சந்திரயான்-1 திட்டத்தின் நோக்கங்களுள் ஒன்று எது?",
         "options": [
-          "மனிதரைச் செவ்வாயில் இறக்குதல்",
-          "வியாழனின் வளையங்களை ஆராய்தல்",
+          "மனித விண்வெளி வீரர்களைச் செவ்வாயில் இறக்குதல்",
+          "வியாழனின் வளையங்களையும் நிலவுகளையும் ஆராய்தல்",
           "நிலவில் நீர் இருப்பதற்கான வாய்ப்பைக் கண்டறிதல்",
-          "வெள்ளியில் உயிர்களைத் தேடுதல்"
+          "வெள்ளிக் கோளில் உயிரினங்களைத் தேடுதல்"
         ],
         "explanation": "நோக்கங்கள்: நீர், தனிமங்கள், ஹீலியம்-3 ஆகியவற்றைக் கண்டறிதல், நிலவின் முப்பரிமாண வரைபடம், சூரியக் குடும்பப் பரிணாமம்."
       }
@@ -566,7 +566,7 @@
         "q": "Which of the following was an objective of the Mangalyaan mission?",
         "options": [
           "To collect rocks from the Moon",
-          "To study the constituents of the atmosphere of Mars",
+          "To study the atmosphere of Mars",
           "To photograph Jupiter",
           "To search for Helium-3 on the Moon"
         ],

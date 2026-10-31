@@ -82,12 +82,12 @@
       "ta": {
         "q": "நீரின் மேற்பரப்பில் மிதக்கும் மிக நுண்ணிய பாசிகள் ______ எனப்படும்.",
         "options": [
-          "லைக்கன்கள்",
-          "தாவர மிதவை உயிரிகள் (பைட்டோபிளாங்க்டன்)",
-          "புறத்தாவரங்கள் (எபிஃபைட்)",
+          "பாறை லைக்கன்கள்",
+          "தாவர மிதவை உயிரிகள்",
+          "மரத்தின் புறத்தாவரங்கள்",
           "மைக்கோரைசா"
         ],
-        "explanation": "பாசியும் பூஞ்சையும் இணைந்த கூட்டுயிர் வாழ்க்கை லைக்கன் எனப்படும்."
+        "explanation": "பாசியும் பூஞ்சையும் இணைந்த கூட்டுயிர் வாழ்க்கை லைக்கன் எனப்படும். (தாவர மிதவை உயிரிகள் – பைட்டோபிளாங்க்டன்)"
       }
     },
     {
@@ -142,10 +142,10 @@
         "options": [
           "ஒட்டுண்ணி",
           "கூட்டுயிரி",
-          "மக்குண்ணி (சாப்ரோஃபைட்)",
+          "மக்குண்ணி",
           "தற்சார்பு உயிரி"
         ],
-        "explanation": "எ.கா: ரைசோபஸ்."
+        "explanation": "எ.கா: ரைசோபஸ். (மக்குண்ணி – சாப்ரோஃபைட்)"
       }
     },
     {
@@ -160,9 +160,9 @@
         "q": "Vitamin B₂ (riboflavin) is produced by the fungi ______.",
         "options": [
           "Ashbya gossypii and Eremothecium ashbyii",
-          "Penicillium and Aspergillus",
-          "Rhizopus and Agaricus",
-          "Albugo and Pyricularia"
+          "Penicillium notatum and Aspergillus niger",
+          "Rhizopus stolonifer and Agaricus bisporus",
+          "Albugo candida and Pyricularia oryzae"
         ],
         "explanation": "Yeast enzymes invertase and zymase ferment molasses into alcohol."
       },
@@ -170,9 +170,9 @@
         "q": "வைட்டமின் B₂ (ரிபோஃபிளேவின்) ______ பூஞ்சைகளால் தயாரிக்கப்படுகிறது.",
         "options": [
           "ஆஷ்பியா காசிப்பி, எரிமோத்தீசியம் ஆஷ்பியை",
-          "பெனிசிலியம், அஸ்பர்ஜில்லஸ்",
-          "ரைசோபஸ், அகாரிகஸ்",
-          "ஆல்புகோ, பைரிகுலேரியா"
+          "பெனிசிலியம் நொட்டேட்டம், அஸ்பர்ஜில்லஸ் நைகர்",
+          "ரைசோபஸ் ஸ்டோலோனிஃபெர், அகாரிகஸ் பைஸ்போரஸ்",
+          "ஆல்புகோ காண்டிடா, பைரிகுலேரியா ஓரைசே"
         ],
         "explanation": "ஈஸ்ட்டின் இன்வெர்டேஸ், ஸைமேஸ் நொதிகள் சர்க்கரைப் பாகை ஆல்கஹாலாக நொதிக்கச் செய்கின்றன."
       }
@@ -365,9 +365,9 @@
           "anti-malarial",
           "antibiotic",
           "pain-killing",
-          "vermifuge (anti-worm)"
+          "vermifuge"
         ],
-        "explanation": "Marsilea's sporocarp is used as food by some people."
+        "explanation": "Marsilea's sporocarp is used as food by some people. (A vermifuge is an anti-worm drug.)"
       },
       "ta": {
         "q": "டிரையாப்டெரிஸின் தண்டுக்கிழங்கும் இலைக்காம்பும் தரும் மருந்து ______.",
@@ -449,20 +449,20 @@
       "en": {
         "q": "'Angio' in the word 'Angiosperm' means ______.",
         "options": [
-          "naked",
+          "naked or open",
           "box or closed",
-          "flower",
-          "leaf"
+          "flower or bloom",
+          "leaf or frond"
         ],
         "explanation": "'Sperma' means seed."
       },
       "ta": {
         "q": "'ஆஞ்சியோஸ்பெர்ம்' என்ற சொல்லில் 'ஆஞ்சியோ' என்பதன் பொருள் ______.",
         "options": [
-          "திறந்த",
+          "திறந்த அல்லது வெளிப்படை",
           "பெட்டி அல்லது மூடிய",
-          "மலர்",
-          "இலை"
+          "மலர் அல்லது பூ",
+          "இலை அல்லது தழை"
         ],
         "explanation": "'ஸ்பெர்மா' என்றால் விதை."
       }
@@ -546,10 +546,10 @@
       "ta": {
         "q": "இந்தியாவின் மிகப் பெரிய தாவரத் தொகுப்பகம் (ஹெர்பேரியம்) ______ இல் உள்ளது.",
         "options": [
-          "சென்னை",
+          "சென்னை மாநகரம்",
           "கொல்கத்தா",
-          "டெல்லி",
-          "மும்பை"
+          "புது டெல்லி",
+          "மும்பை மாநகரம்"
         ],
         "explanation": "இங்கு 10,00,000-க்கும் மேற்பட்ட மாதிரிகள் உள்ளன."
       }
@@ -565,22 +565,22 @@
       "en": {
         "q": "The International Code of Botanical Nomenclature (ICBN) is now known as ______.",
         "options": [
-          "ICN (International Code of Nomenclature)",
+          "ICN",
           "IUCN",
           "ICMR",
           "ISRO"
         ],
-        "explanation": "It has the rules for binomial nomenclature."
+        "explanation": "It has the rules for binomial nomenclature. (ICN = International Code of Nomenclature.)"
       },
       "ta": {
         "q": "தாவரப் பெயரிடலுக்கான பன்னாட்டு விதித்தொகுப்பு (ICBN) இப்போது ______ என அழைக்கப்படுகிறது.",
         "options": [
-          "ICN (பன்னாட்டுப் பெயரிடல் விதித்தொகுப்பு)",
+          "ICN",
           "IUCN",
           "ICMR",
           "ISRO"
         ],
-        "explanation": "இதில் இருசொற் பெயரிடலுக்கான விதிகள் உள்ளன."
+        "explanation": "இதில் இருசொற் பெயரிடலுக்கான விதிகள் உள்ளன. (ICN – பன்னாட்டுப் பெயரிடல் விதித்தொகுப்பு)"
       }
     },
     {
@@ -604,10 +604,10 @@
       "ta": {
         "q": "குப்பைமேனி (அகலிஃபா இண்டிகா) இலைகளின் அரைவை ______ குணப்படுத்தப் பயன்படுகிறது.",
         "options": [
-          "மஞ்சள் காமாலையை",
+          "மஞ்சள் காமாலை, கல்லீரல் நோயை",
           "தோலில் ஏற்பட்ட தீக்காயங்களை",
-          "இருமல், சளியை",
-          "மூலநோயை"
+          "இருமல், சளி, காசநோயை",
+          "மூலநோய், வயிற்றுப் புண்ணை"
         ],
         "explanation": "இதன் சாற்றை எலுமிச்சைச் சாறுடன் கலந்து படர்தாமரையைக் குணப்படுத்தலாம்."
       }
@@ -623,10 +623,10 @@
       "en": {
         "q": "Aloe vera (Sothu Katrazhai) leaves are used to cure ______.",
         "options": [
-          "jaundice",
+          "jaundice and other liver disorders",
           "piles, skin inflammations and peptic ulcer",
-          "indigestion only",
-          "cough and cold"
+          "indigestion and acidity only",
+          "cough, cold, asthma and tuberculosis"
         ],
         "explanation": "Aloe vera belongs to the family Liliaceae."
       },
@@ -652,9 +652,9 @@
       "en": {
         "q": "The entire plant of Phyllanthus amarus (Keezhanelli) is used to treat ______.",
         "options": [
-          "cough and cold",
-          "burns",
-          "piles",
+          "cough, cold and bronchial asthma",
+          "burns and other skin wounds",
+          "piles, peptic ulcer and fissures",
           "jaundice and other liver disorders"
         ],
         "explanation": "Thoodhuvalai (Solanum trilobatum) cures cough, cold, tuberculosis and bronchial asthma."
@@ -662,10 +662,10 @@
       "ta": {
         "q": "கீழாநெல்லி (ஃபில்லாந்தஸ் அமாரஸ்) முழுத் தாவரமும் ______ குணப்படுத்தப் பயன்படுகிறது.",
         "options": [
-          "இருமல், சளியை",
-          "தீக்காயங்களை",
-          "மூலநோயை",
-          "மஞ்சள் காமாலை, பிற கல்லீரல் கோளாறுகளை"
+          "இருமல், சளி, மூச்சிரைப்பை",
+          "தீக்காயங்கள், தோல் புண்களை",
+          "மூலநோய், வயிற்றுப் புண்ணை",
+          "மஞ்சள் காமாலை, கல்லீரல் கோளாறுகளை"
         ],
         "explanation": "தூதுவளை இருமல், சளி, காசநோய், மூச்சிரைப்பு நோயைக் குணப்படுத்தும்."
       }

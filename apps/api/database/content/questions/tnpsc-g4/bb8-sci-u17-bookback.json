@@ -104,9 +104,9 @@
           "Polyporus",
           "Aspergillus",
           "Penicillium",
-          "Agaricus (button mushroom)"
+          "Agaricus"
         ],
-        "explanation": "Mushrooms contain rich protein and minerals."
+        "explanation": "Mushrooms contain rich protein and minerals. (Agaricus is the button mushroom.)"
       },
       "ta": {
         "q": "மிகவும் பொதுவான உண்ணத்தக்க காளான் ______.",
@@ -114,9 +114,9 @@
           "பாலிபோரஸ்",
           "அஸ்பர்ஜில்லஸ்",
           "பெனிசிலியம்",
-          "அகாரிகஸ் (பட்டன் காளான்)"
+          "அகாரிகஸ்"
         ],
-        "explanation": "காளான்களில் புரதமும் தாதுக்களும் நிறைந்துள்ளன."
+        "explanation": "காளான்களில் புரதமும் தாதுக்களும் நிறைந்துள்ளன. (அகாரிகஸ் – பட்டன் காளான்)"
       }
     },
     {
@@ -228,9 +228,9 @@
         "q": "'டாக்ஸானமி' என்ற சொல் 'டாக்ஸிஸ்', 'நோமோஸ்' என்ற கிரேக்கச் சொற்களிலிருந்து வந்தது; அவற்றின் பொருள் ______.",
         "options": [
           "வரிசைப்படுத்துதல், விதிகள்",
-          "இலை, வேர்",
-          "விதை, மலர்",
-          "பெயர், சிற்றினம்"
+          "இலை, வேர், தண்டு, மலர்",
+          "விதை, மலர், கனி, இலை",
+          "பெயர், சிற்றினம், பேரினம்"
         ],
         "explanation": "இச்சொல்லை முதன்முதலில் அகஸ்டின் பைரமஸ் டி காண்டோல் உருவாக்கினார்."
       }
@@ -423,9 +423,9 @@
           "fused with sepals",
           "united",
           "absent",
-          "many and free (not united)"
+          "many and free"
         ],
-        "explanation": "In Gamopetalae the petals are united."
+        "explanation": "In Gamopetalae the petals are united. (Free means not united.)"
       },
       "ta": {
         "q": "பாலிபெட்டாலே துணை வகுப்பில் அல்லிகள் ______.",
@@ -433,9 +433,9 @@
           "புல்லிகளுடன் இணைந்தவை",
           "இணைந்தவை",
           "இல்லாதவை",
-          "பல; தனித்தவை (இணையாதவை)"
+          "பல; தனித்தவை"
         ],
-        "explanation": "கேமோபெட்டாலேயில் அல்லிகள் இணைந்திருக்கும்."
+        "explanation": "கேமோபெட்டாலேயில் அல்லிகள் இணைந்திருக்கும். (தனித்தவை – இணையாதவை)"
       }
     },
     {
@@ -449,10 +449,10 @@
       "en": {
         "q": "A binomial name consists of ______.",
         "options": [
-          "more than two words",
-          "three words",
-          "a single word",
-          "exactly two words - the genus and the species"
+          "more than two descriptive words",
+          "three words - genus, species and variety",
+          "a single word - the genus name alone",
+          "two words - genus and species"
         ],
         "explanation": "A binomial name has exactly two words: the genus name followed by the species name."
       },
@@ -478,9 +478,9 @@
       "en": {
         "q": "The artificial system of classification classifies plants on the basis of ______.",
         "options": [
-          "all characters",
+          "all the characters of the plant",
           "one or a few morphological characters",
-          "genetic characters only",
+          "genetic characters of the plant only",
           "fossil records"
         ],
         "explanation": "The statement is true. Linnaeus' system is the most famous artificial system; the natural system uses several characters."
@@ -565,9 +565,9 @@
       "en": {
         "q": "Bryophytes are called the 'amphibians of the plant kingdom' because they ______.",
         "options": [
-          "live only in water",
+          "live only in water throughout life",
           "live both on land and in water",
-          "live only on land",
+          "live only on land throughout life",
           "have no spores"
         ],
         "explanation": "The book's statement 'all bryophytes are hydrophytes' is false; water is essential to complete their life cycle."
@@ -710,10 +710,10 @@
       "en": {
         "q": "The naming of an organism with two words - genus name first and species name next - is known as ______.",
         "options": [
-          "taxonomy",
-          "classification",
+          "plant taxonomy",
+          "plant classification",
           "binomial nomenclature",
-          "herbarium"
+          "herbarium method"
         ],
         "explanation": "Example: Mangifera indica for mango."
       },
@@ -768,9 +768,9 @@
       "en": {
         "q": "The seeds of gymnosperms are naked because ______.",
         "options": [
-          "they have no seeds",
-          "the ovary is very large",
-          "they have flowers",
+          "they have no seeds at all in the plant",
+          "the ovary wall is very thin and large",
+          "they have bright flowers and fruits",
           "the ovule is not enclosed by an ovary"
         ],
         "explanation": "Angiosperms are closed seeded plants (ovules enclosed by the ovary)."
@@ -798,7 +798,7 @@
         "q": "Which of the following is an economic importance of fungi?",
         "options": [
           "Agar agar is obtained from fungi",
-          "Penicillin and vitamin B₂ are obtained from fungi",
+          "Penicillin and vitamin B₂ come from fungi",
           "Iodine is obtained from fungi",
           "Peat is obtained from fungi"
         ],
@@ -808,7 +808,7 @@
         "q": "பூஞ்சைகளின் பொருளாதார முக்கியத்துவம் எது?",
         "options": [
           "அகார்-அகார் பூஞ்சைகளிலிருந்து பெறப்படுகிறது",
-          "பெனிசிலின், வைட்டமின் B₂ ஆகியவை பூஞ்சைகளிலிருந்து பெறப்படுகின்றன",
+          "பெனிசிலின், வைட்டமின் B₂ பூஞ்சைகளிலிருந்து கிடைக்கின்றன",
           "அயோடின் பூஞ்சைகளிலிருந்து பெறப்படுகிறது",
           "கரிமக்கட்டி பூஞ்சைகளிலிருந்து பெறப்படுகிறது"
         ],
@@ -826,20 +826,20 @@
       "en": {
         "q": "In the natural system of classification, plants are classified on the basis of ______.",
         "options": [
-          "several morphological and reproductive characters",
-          "a single character",
-          "colour only",
-          "habitat only"
+          "many morphological and reproductive characters",
+          "one single morphological character only",
+          "the colour of the flowers only",
+          "the habitat of the plant only"
         ],
         "explanation": "Bentham and Hooker's classification is an example; it is widely used in herbaria and botanical gardens."
       },
       "ta": {
         "q": "இயற்கை முறை வகைப்பாட்டில் தாவரங்கள் ______ அடிப்படையில் வகைப்படுத்தப்படுகின்றன.",
         "options": [
-          "பல புறப்பண்புகள், இனப்பெருக்கப் பண்புகளின்",
-          "ஒரே ஒரு பண்பின்",
-          "நிறத்தின் மட்டும்",
-          "வாழிடத்தின் மட்டும்"
+          "பல புறப்பண்பு, இனப்பெருக்கப் பண்புகளின்",
+          "ஒரே ஒரு புறப்பண்பின் மட்டும்",
+          "மலர்களின் நிறத்தின் மட்டும்",
+          "தாவரத்தின் வாழிடத்தின் மட்டும்"
         ],
         "explanation": "பென்தாம், ஹூக்கர் வகைப்பாடு ஓர் எடுத்துக்காட்டு; தாவரத் தொகுப்பகங்களிலும் தாவரவியல் பூங்காக்களிலும் பரவலாகப் பயன்படுகிறது."
       }
@@ -855,20 +855,20 @@
       "en": {
         "q": "Which of the following is an economic importance of algae?",
         "options": [
-          "They produce penicillin",
-          "Some blue green algae fix atmospheric nitrogen and increase soil fertility",
-          "They cause tikka disease in groundnut",
-          "They produce ergot"
+          "They produce the antibiotic penicillin and ergot",
+          "Some blue green algae fix nitrogen and enrich the soil",
+          "They cause tikka disease in groundnut plants",
+          "They cause the ergot disease of rye"
         ],
         "explanation": "Examples: Nostoc and Anabaena; Chlorella and Spirulina are used as single cell protein."
       },
       "ta": {
         "q": "பாசிகளின் பொருளாதார முக்கியத்துவம் எது?",
         "options": [
-          "அவை பெனிசிலினை உருவாக்குகின்றன",
-          "சில நீலப்பசும்பாசிகள் வளிமண்டல நைட்ரஜனை நிலைநிறுத்தி மண்வளத்தை அதிகரிக்கின்றன",
-          "அவை நிலக்கடலையில் டிக்கா நோயை உண்டாக்குகின்றன",
-          "அவை எர்காட்டை உருவாக்குகின்றன"
+          "அவை நுண்ணுயிர்க்கொல்லியான பெனிசிலினை உருவாக்குகின்றன",
+          "சில நீலப்பசும்பாசிகள் நைட்ரஜனை நிலைநிறுத்தி மண்ணை வளமாக்குகின்றன",
+          "அவை நிலக்கடலைச் செடிகளில் டிக்கா நோயை உண்டாக்குகின்றன",
+          "அவை கம்பு, கேழ்வரகில் எர்காட் நோயை உண்டாக்குகின்றன"
         ],
         "explanation": "எ.கா: நாஸ்டாக், அனபீனா; குளோரெல்லா, ஸ்பைருலினா ஓரணுப் புரதமாகப் பயன்படுகின்றன."
       }
@@ -886,7 +886,7 @@
         "options": [
           "Algae are heterotrophs; fungi are autotrophs",
           "Algae store glycogen and oil; fungi store starch",
-          "Algae are autotrophs with pigments; fungi are heterotrophs without pigments",
+          "Algae are autotrophs with pigments; fungi are heterotrophs",
           "All algae are eukaryotic; all fungi are prokaryotic"
         ],
         "explanation": "Algae store starch; fungi store glycogen and oil. Some algae (Cyanobacteria) are prokaryotic; all fungi are eukaryotic."
@@ -913,20 +913,20 @@
       "en": {
         "q": "Which of the following is a character of pteridophytes?",
         "options": [
-          "Plant body differentiated into true root, stem and leaves, with vascular tissues",
-          "Gametophyte is the dominant phase",
+          "Plant body has true root, stem and leaves with vascular tissues",
+          "Gametophyte is the dominant and long-lived phase of the plant",
           "Plant body is a thallus without vascular tissues",
-          "They produce naked seeds"
+          "They produce naked seeds on the surface of cones"
         ],
         "explanation": "Sporophytes reproduce by spores formed in the sporangium."
       },
       "ta": {
         "q": "ஸ்டெரிடோஃபைட்டுகளின் பண்பு எது?",
         "options": [
-          "தாவர உடல் உண்மையான வேர், தண்டு, இலைகளாகப் பிரிந்து வாஸ்குலார் திசுக்களுடன் இருக்கும்",
-          "கேமீட்டகத் தலைமுறை ஓங்கு நிலை",
-          "தாவர உடல் வாஸ்குலார் திசுக்களற்ற தாலஸ்",
-          "அவை திறந்த விதைகளை உருவாக்கும்"
+          "உண்மையான வேர், தண்டு, இலைகளும் வாஸ்குலார் திசுக்களும் உடைய உடல்",
+          "கேமீட்டகத் தலைமுறையே நீண்டு வாழும் ஓங்கு நிலையில் இருக்கும்",
+          "தாவர உடல் வாஸ்குலார் திசுக்களற்ற தாலஸ் வடிவில் இருக்கும்",
+          "அவை கூம்புகளின் மேற்பரப்பில் திறந்த விதைகளை உருவாக்கும்"
         ],
         "explanation": "ஸ்போரோஃபைட்டுகள் ஸ்போராஞ்சியத்தில் உருவாகும் வித்துகளால் இனப்பெருக்கம் செய்கின்றன."
       }

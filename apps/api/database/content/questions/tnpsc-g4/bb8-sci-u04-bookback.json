@@ -43,20 +43,20 @@
       "en": {
         "q": "When heat energy is applied to a substance, which of the following can take place?",
         "options": [
-          "Expansion only",
-          "Rise in temperature only",
+          "Expansion and rise in temperature only",
+          "Rise in temperature and change of state only",
           "Expansion, rise in temperature and change of state",
-          "Change of state only"
+          "Expansion and change of state only"
         ],
         "explanation": "Heat causes expansion, increase in temperature and change of state."
       },
       "ta": {
         "q": "ஒரு பொருளுக்கு வெப்ப ஆற்றல் அளிக்கப்படும்போது நிகழக்கூடியவை ______.",
         "options": [
-          "விரிவடைதல் மட்டும்",
-          "வெப்பநிலை உயர்வு மட்டும்",
-          "விரிவடைதல், வெப்பநிலை உயர்வு, நிலைமாற்றம் ஆகிய அனைத்தும்",
-          "நிலைமாற்றம் மட்டும்"
+          "விரிவடைதல், வெப்பநிலை உயர்வு ஆகிய இரண்டும் மட்டும்",
+          "வெப்பநிலை உயர்வு, நிலைமாற்றம் ஆகிய இரண்டும் மட்டும்",
+          "விரிவடைதல், வெப்பநிலை உயர்வு, நிலைமாற்றம் – மூன்றும்",
+          "விரிவடைதல், நிலைமாற்றம் ஆகிய இரண்டும் மட்டும்"
         ],
         "explanation": "வெப்பம் விரிவடைதல், வெப்பநிலை உயர்வு, நிலைமாற்றம் ஆகியவற்றை ஏற்படுத்தும்."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "A calorimeter is a device used to measure ______.",
         "options": [
-          "temperature scales",
-          "the speed of heat",
-          "the amount of heat gained or lost by a substance (heat capacity)",
-          "the amount of electric current"
+          "different temperature scales of thermometers",
+          "the speed at which heat flows through a rod",
+          "the amount of heat gained or lost by a substance",
+          "the amount of electric current in a wire"
         ],
         "explanation": "A calorimeter measures the amount of heat gained or lost by a substance and the heat capacity of liquids."
       },
       "ta": {
         "q": "கலோரிமீட்டர் என்ற சாதனம் ______ ஐ அளக்கப் பயன்படுகிறது.",
         "options": [
-          "வெப்பநிலை அளவீடுகளை",
-          "வெப்பத்தின் வேகத்தை",
-          "ஒரு பொருள் ஏற்கும் அல்லது இழக்கும் வெப்பத்தின் அளவை (வெப்ப ஏற்புத்திறன்)",
-          "மின்னோட்டத்தின் அளவை"
+          "வெப்பநிலை அளவீடுகளின் பல்வேறு முறைகளை",
+          "ஒரு கம்பியில் வெப்பம் கடத்தப்படும் வேகத்தை",
+          "ஒரு பொருள் ஏற்கும் / இழக்கும் வெப்பத்தின் அளவை",
+          "கம்பியில் பாயும் மின்னோட்டத்தின் அளவை"
         ],
         "explanation": "கலோரிமீட்டர் ஒரு பொருள் ஏற்கும் அல்லது இழக்கும் வெப்பத்தின் அளவையும் திரவங்களின் வெப்ப ஏற்புத்திறனையும் அளவிடுகிறது."
       }
@@ -189,9 +189,9 @@
         "q": "The amount of heat required to raise the temperature of 1 kg of a substance by 1 °C is called its ______.",
         "options": [
           "specific heat capacity",
-          "heat capacity",
-          "calorie",
-          "latent heat"
+          "total heat capacity",
+          "calorific value",
+          "latent heat of fusion"
         ],
         "explanation": "That is the definition of specific heat capacity."
       },
@@ -391,9 +391,9 @@
       "en": {
         "q": "In which of the following does heat transfer by convection take place?",
         "options": [
-          "Solids only",
-          "Metals only",
-          "Vacuum only",
+          "Solids and metals",
+          "Solids and vacuum",
+          "Metals and vacuum",
           "Liquids and gases"
         ],
         "explanation": "Convection takes place in liquids and gases; in solids heat flows by conduction."
@@ -420,19 +420,19 @@
       "en": {
         "q": "The heat gained by a substance is given by Q = ______.",
         "options": [
-          "mass × latent heat only",
-          "specific heat capacity ÷ mass",
-          "mass ÷ temperature",
-          "mass × specific heat capacity × rise in temperature"
+          "mass × latent heat of the substance only",
+          "specific heat capacity ÷ (mass × rise in temperature)",
+          "mass ÷ (specific heat capacity × temperature)",
+          "mass × specific heat capacity × temperature rise"
         ],
         "explanation": "Q = m × C × ΔT. The book's statement (product of mass and latent heat) is false."
       },
       "ta": {
         "q": "ஒரு பொருள் ஏற்கும் வெப்பத்தின் அளவு Q = ______.",
         "options": [
-          "நிறை × உள்ளுறை வெப்பம் மட்டும்",
-          "தன் வெப்ப ஏற்புத்திறன் ÷ நிறை",
-          "நிறை ÷ வெப்பநிலை",
+          "நிறை × பொருளின் உள்ளுறை வெப்பம் மட்டுமே",
+          "தன் வெப்ப ஏற்புத்திறன் ÷ (நிறை × வெப்பநிலை உயர்வு)",
+          "நிறை ÷ (தன் வெப்ப ஏற்புத்திறன் × வெப்பநிலை)",
           "நிறை × தன் வெப்ப ஏற்புத்திறன் × வெப்பநிலை உயர்வு"
         ],
         "explanation": "Q = m × C × ΔT; நூலின் கூற்று (நிறை × உள்ளுறை வெப்பம்) தவறு."
@@ -449,10 +449,10 @@
       "en": {
         "q": "In a thermos flask the silvered walls ______.",
         "options": [
-          "radiate the heat to the outside",
-          "reflect the radiated heat back to the liquid inside",
-          "conduct the heat to the outside",
-          "absorb all the heat"
+          "radiate all the heat to the outside air",
+          "reflect radiated heat back into the liquid",
+          "conduct the heat to the outside surface",
+          "absorb all the heat inside"
         ],
         "explanation": "The silvered walls reflect the radiated heat back into the liquid."
       },
@@ -594,20 +594,20 @@
       "en": {
         "q": "Conduction is the process of heat transfer in solids ______.",
         "options": [
-          "by the actual movement of molecules",
-          "only through vacuum",
-          "in the form of electromagnetic waves",
-          "from a region of higher temperature to a region of lower temperature without actual movement of atoms or molecules"
+          "by the actual movement of molecules from hot to cold places",
+          "only through vacuum from the Sun to the Earth",
+          "in the form of electromagnetic waves from a hot body",
+          "from a hotter region to a cooler region without movement of molecules"
         ],
         "explanation": "Conduction transfers heat in solids without the actual movement of atoms."
       },
       "ta": {
         "q": "வெப்பக் கடத்தல் என்பது திடப்பொருளில் ______ வெப்பம் பரவும் முறை.",
         "options": [
-          "மூலக்கூறுகளின் உண்மையான இயக்கத்தால்",
-          "வெற்றிடத்தில் மட்டும்",
-          "மின்காந்த அலைகளாக",
-          "அணுக்கள் அல்லது மூலக்கூறுகள் இடம்பெயராமல் அதிக வெப்பநிலையிலிருந்து குறைந்த வெப்பநிலைப் பகுதிக்கு"
+          "மூலக்கூறுகளின் உண்மையான இயக்கத்தால் வெப்பம் எடுத்துச் செல்லப்பட்டு",
+          "வெற்றிடத்தில் மட்டும் சூரியனிலிருந்து புவிக்கு",
+          "மின்காந்த அலைகளாக வெப்பமான பொருளிலிருந்து",
+          "மூலக்கூறுகள் இடம்பெயராமல் வெப்பமான பகுதியிலிருந்து குளிர்ந்த பகுதிக்கு"
         ],
         "explanation": "கடத்தலில் அணுக்கள் இடம்பெயராமல் அதிக வெப்பநிலைப் பகுதியிலிருந்து குறைந்த வெப்பநிலைப் பகுதிக்கு வெப்பம் பரவுகிறது."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "Convection is the form of heat transfer from places of high temperature to low temperature ______.",
         "options": [
-          "without any movement of molecules",
-          "by the actual movement of molecules of liquids or gases",
-          "through empty space as waves",
-          "through solids only"
+          "without any actual movement of the molecules",
+          "by actual movement of liquid or gas molecules",
+          "through empty space in the form of waves",
+          "through solids by vibrating atoms only"
         ],
         "explanation": "In convection, heat is carried by the actual movement of molecules in liquids and gases."
       },
       "ta": {
         "q": "வெப்பச் சலனம் என்பது அதிக வெப்பநிலைப் பகுதியிலிருந்து குறைந்த வெப்பநிலைப் பகுதிக்கு ______ வெப்பம் பரவும் முறை.",
         "options": [
-          "மூலக்கூறுகள் இடம்பெயராமல்",
-          "திரவ, வாயு மூலக்கூறுகளின் உண்மையான இயக்கத்தால்",
-          "வெற்றிடத்தின் வழியே அலைகளாக",
-          "திடப்பொருளில் மட்டும்"
+          "மூலக்கூறுகள் சிறிதும் இடம்பெயராமல்",
+          "திரவ, வாயு மூலக்கூறுகளின் இயக்கத்தால்",
+          "வெற்றிடத்தின் வழியே மின்காந்த அலைகளாக",
+          "திடப்பொருளின் அணு அதிர்வுகளால் மட்டும்"
         ],
         "explanation": "வெப்பச் சலனத்தில் திரவ, வாயு மூலக்கூறுகளின் இயக்கத்தால் வெப்பம் எடுத்துச் செல்லப்படுகிறது."
       }

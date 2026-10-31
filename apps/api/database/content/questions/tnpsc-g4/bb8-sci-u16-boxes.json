@@ -171,10 +171,10 @@
         "options": [
           "ஒளிச்சேர்க்கை",
           "நொதித்தல்",
-          "வேதிச்சேர்க்கை (கீமோசிந்தசிஸ்)",
+          "வேதிச்சேர்க்கை",
           "அரும்புதல்"
         ],
-        "explanation": "பாக்டீரியா இருமுறை, பலமுறைப் பிளவுறுதல் மூலம் இனப்பெருக்கம் செய்கின்றன."
+        "explanation": "பாக்டீரியா இருமுறை, பலமுறைப் பிளவுறுதல் மூலம் இனப்பெருக்கம் செய்கின்றன. (வேதிச்சேர்க்கை – கீமோசிந்தசிஸ்)"
       }
     },
     {
@@ -217,20 +217,20 @@
       "en": {
         "q": "Algae are known as the 'grass of water' because they ______.",
         "options": [
-          "have roots and flowers",
-          "are rich in chlorophyll and form a thin green film on lakes and ponds",
-          "live only on land",
-          "are parasites"
+          "have true roots, stems and flowers like grass",
+          "are rich in chlorophyll and form a green film on ponds",
+          "live only on dry land and never in water",
+          "are parasites that live on other plants"
         ],
         "explanation": "Algae are autotrophic and produce their own food with chloroplasts."
       },
       "ta": {
         "q": "பாசிகள் 'நீரின் புல்' எனப்படுவதற்குக் காரணம் அவை ______.",
         "options": [
-          "வேர்களும் மலர்களும் கொண்டவை",
-          "பச்சையம் மிகுந்து ஏரி, குளங்களின் மேற்பரப்பில் மெல்லிய பச்சைப் படலமாகத் தோன்றுவது",
-          "நிலத்தில் மட்டும் வாழ்பவை",
-          "ஒட்டுண்ணிகள்"
+          "புல்லைப் போல உண்மை வேர், தண்டு, மலர் கொண்டவை",
+          "பச்சையம் மிகுந்து குளங்களில் பச்சைப் படலமாகத் தோன்றுவது",
+          "வறண்ட நிலத்தில் மட்டுமே வாழ்பவை, நீரில் அல்ல",
+          "பிற தாவரங்களின் மீது வாழும் ஒட்டுண்ணிகள்"
         ],
         "explanation": "பாசிகள் தற்சார்பு ஊட்ட உயிரிகள்; பசுங்கணிகத்தால் உணவு தயாரிக்கின்றன."
       }
@@ -421,19 +421,19 @@
         "q": "Bacillus thuringiensis (Bt) is used in agriculture as a ______.",
         "options": [
           "bio-control agent against insects",
-          "vaccine",
-          "probiotic",
-          "nitrogen fixer"
+          "vaccine against human diseases",
+          "probiotic for the human gut",
+          "nitrogen fixer in root nodules"
         ],
         "explanation": "Trichoderma, a fungus, protects roots and controls plant pathogens."
       },
       "ta": {
         "q": "பேசில்லஸ் துரிஞ்சியென்சிஸ் (Bt) வேளாண்மையில் ______ பயன்படுகிறது.",
         "options": [
-          "பூச்சிகளைக் கட்டுப்படுத்தும் உயிரிக்கட்டுப்பாட்டுக் காரணியாக",
-          "தடுப்பூசியாக",
-          "புரோபயாடிக்காக",
-          "நைட்ரஜன் நிலைநிறுத்தியாக"
+          "பூச்சிகளைக் கட்டுப்படுத்தும் உயிரிக் காரணியாக",
+          "மனித நோய்களுக்கான தடுப்பூசியாக",
+          "மனிதக் குடலுக்கான புரோபயாடிக்காக",
+          "வேர்முண்டுகளில் நைட்ரஜன் நிலைநிறுத்தியாக"
         ],
         "explanation": "டிரைக்கோடெர்மா எனும் பூஞ்சை வேர்களைப் பாதுகாத்து நோய்க்காரணிகளைக் கட்டுப்படுத்துகிறது."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "Bread dough rises because yeast produces ______.",
         "options": [
-          "oxygen",
+          "pure oxygen gas",
           "carbon dioxide",
-          "nitrogen",
-          "methane"
+          "nitrogen gas",
+          "methane gas"
         ],
         "explanation": "Chlorella (green algae) is added to the dough to enrich bread with proteins and vitamins."
       },
       "ta": {
         "q": "ஈஸ்ட் ______ உருவாக்குவதால் ரொட்டி மாவு பொங்குகிறது.",
         "options": [
-          "ஆக்சிஜன்",
+          "தூய ஆக்சிஜன் வாயு",
           "கார்பன் டை ஆக்சைடு",
-          "நைட்ரஜன்",
-          "மீத்தேன்"
+          "நைட்ரஜன் வாயு",
+          "மீத்தேன் வாயு"
         ],
         "explanation": "புரதம், வைட்டமின் நிறைந்த குளோரெல்லா பாசி மாவில் சேர்க்கப்படுகிறது."
       }
@@ -537,21 +537,21 @@
         "q": "Amoebic dysentery is caused by ______.",
         "options": [
           "Mycobacterium tuberculosis",
-          "Entamoeba histolytica (protozoa)",
+          "Entamoeba histolytica",
           "Vibrio cholerae",
           "Aphthovirus"
         ],
-        "explanation": "Proper sanitation and metronidazole antibiotic are the preventive/treatment measures."
+        "explanation": "Proper sanitation and metronidazole antibiotic are the preventive/treatment measures. (Entamoeba histolytica is a protozoan.)"
       },
       "ta": {
         "q": "அமீபிக் சீதபேதியை உண்டாக்குவது ______.",
         "options": [
           "மைக்கோபாக்டீரியம் டியூபர்குளோசிஸ்",
-          "என்டமீபா ஹிஸ்டோலைடிகா (முதலுயிரி)",
+          "என்டமீபா ஹிஸ்டோலைடிகா",
           "விப்ரியோ காலரா",
           "ஆப்தோ வைரஸ்"
         ],
-        "explanation": "முறையான சுகாதாரமும் மெட்ரோனிடசோல் நுண்ணுயிர்க்கொல்லியும் தடுப்பு/சிகிச்சை முறைகள்."
+        "explanation": "முறையான சுகாதாரமும் மெட்ரோனிடசோல் நுண்ணுயிர்க்கொல்லியும் தடுப்பு/சிகிச்சை முறைகள். (என்டமீபா ஹிஸ்டோலைடிகா ஒரு முதலுயிரி.)"
       }
     },
     {
@@ -565,22 +565,22 @@
       "en": {
         "q": "Tuberculosis is caused by ______.",
         "options": [
-          "Mycobacterium tuberculosis (bacteria)",
-          "Influenza (virus)",
-          "Rhabdo virus",
-          "Plasmodium (protozoa)"
+          "Mycobacterium tuberculosis",
+          "Influenza A virus particles",
+          "Rhabdovirus of rabies",
+          "Plasmodium falciparum"
         ],
-        "explanation": "It spreads through air and sputum of an infected person; BCG vaccine prevents it."
+        "explanation": "It spreads through air and sputum of an infected person; BCG vaccine prevents it. (Mycobacterium tuberculosis is a bacterium.)"
       },
       "ta": {
         "q": "காசநோயை உண்டாக்குவது ______.",
         "options": [
-          "மைக்கோபாக்டீரியம் டியூபர்குளோசிஸ் (பாக்டீரியா)",
-          "இன்ஃப்ளூயன்சா (வைரஸ்)",
+          "மைக்கோபாக்டீரியம் டியூபர்குளோசிஸ்",
+          "இன்ஃப்ளூயன்சா ஏ வைரஸ் துகள்கள்",
           "ராப்டோ வைரஸ்",
-          "பிளாஸ்மோடியம் (முதலுயிரி)"
+          "பிளாஸ்மோடியம் ஃபால்சிபாரம்"
         ],
-        "explanation": "இது பாதிக்கப்பட்டவரின் காற்று, கபம் மூலம் பரவுகிறது; BCG தடுப்பூசி தடுக்கிறது."
+        "explanation": "இது பாதிக்கப்பட்டவரின் காற்று, கபம் மூலம் பரவுகிறது; BCG தடுப்பூசி தடுக்கிறது. (இது ஒரு பாக்டீரியா.)"
       }
     },
     {
@@ -623,20 +623,20 @@
       "en": {
         "q": "Gut microbes help us by ______.",
         "options": [
-          "causing diarrhoea",
-          "producing alcohol",
-          "destroying all nutrients",
-          "breaking down toxins and manufacturing some vitamins and essential amino acids"
+          "causing diarrhoea and severe stomach pain in us",
+          "producing alcohol inside the intestine of the body",
+          "destroying all the nutrients present in the food we eat",
+          "breaking down toxins and making vitamins and amino acids"
         ],
         "explanation": "They also form a barrier against invaders."
       },
       "ta": {
         "q": "குடல் நுண்ணுயிரிகள் நமக்கு ______ மூலம் உதவுகின்றன.",
         "options": [
-          "வயிற்றுப்போக்கை உண்டாக்கி",
-          "ஆல்கஹாலை உருவாக்கி",
-          "ஊட்டச்சத்துகள் அனைத்தையும் அழித்து",
-          "நச்சுகளைச் சிதைத்தும் சில வைட்டமின்களையும் இன்றியமையா அமினோ அமிலங்களையும் உருவாக்கியும்"
+          "வயிற்றுப்போக்கையும் வயிற்று வலியையும் உண்டாக்கி",
+          "குடலுக்குள் ஆல்கஹாலை உருவாக்கி வெளியேற்றி",
+          "உணவிலுள்ள ஊட்டச்சத்துகள் அனைத்தையும் அழித்து",
+          "நச்சுகளைச் சிதைத்து வைட்டமின், அமினோ அமிலங்களை உருவாக்கி"
         ],
         "explanation": "அவை அத்துமீறுபவர்களுக்கு எதிரான தடையையும் ஏற்படுத்துகின்றன."
       }

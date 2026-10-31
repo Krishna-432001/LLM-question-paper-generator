@@ -316,10 +316,10 @@
         "options": [
           "பல்படியாக்கம் மட்டும்",
           "கார்பனாக்கம்",
-          "சங்கிலித் தொடராக்கம் (கேட்டனேஷன்)",
+          "சங்கிலித் தொடராக்கம்",
           "பதங்கமாதல்"
         ],
-        "explanation": "இப்பண்பால் ஹைட்ரோகார்பன்கள் அதிக எண்ணிக்கையிலான சிக்கலான மூலக்கூறுகளை உருவாக்குகின்றன."
+        "explanation": "இப்பண்பால் ஹைட்ரோகார்பன்கள் அதிக எண்ணிக்கையிலான சிக்கலான மூலக்கூறுகளை உருவாக்குகின்றன. (சங்கிலித் தொடராக்கம் – கேட்டனேஷன்)"
       }
     },
     {
@@ -343,10 +343,10 @@
       "ta": {
         "q": "இயற்கை எரிவாயுவின் நன்மை எது?",
         "options": [
-          "அதிக சாம்பலை விடுகிறது",
+          "எரியும்போது அதிக சாம்பலை விடுகிறது",
           "குழாய்கள் மூலம் அனுப்ப இயலாது",
           "அதிக மாசுபாட்டை ஏற்படுத்துகிறது",
-          "புகையின்றி எரிவதோடு எச்சம் எதையும் விடுவதில்லை"
+          "புகையின்றி எரிந்து எச்சம் விடாதது"
         ],
         "explanation": "இது அதிக வெப்பத்தைத் தரும்; குழாய்கள் வழியே அனுப்பலாம்; வீடுகளிலும் தொழிற்சாலைகளிலும் நேரடியாகப் பயன்படுத்தலாம்."
       }
@@ -391,20 +391,20 @@
       "en": {
         "q": "Water gas is called syngas because it ______.",
         "options": [
-          "contains only nitrogen",
-          "is made from sewage",
-          "burns without producing heat",
-          "is used to synthesize methanol and simple hydrocarbons"
+          "contains only nitrogen gas and nothing else",
+          "is made from sewage and organic waste",
+          "burns without producing any heat at all",
+          "is used to synthesize methanol and hydrocarbons"
         ],
         "explanation": "Water gas is a mixture of carbon monoxide and hydrogen made by passing steam over incandescent coke at 1000 °C."
       },
       "ta": {
         "q": "நீர் வாயு சின்வாயு (தொகுப்பு வாயு) எனப்படக் காரணம் அது ______.",
         "options": [
-          "நைட்ரஜனை மட்டும் கொண்டது",
-          "கழிவுநீரிலிருந்து தயாராவது",
-          "வெப்பம் தராமல் எரிவது",
-          "மெத்தனால், எளிய ஹைட்ரோகார்பன்களைத் தொகுக்கப் பயன்படுவது"
+          "நைட்ரஜன் வாயுவை மட்டுமே கொண்ட வாயு",
+          "கழிவுநீர், கரிமக் கழிவுகளிலிருந்து தயாராவது",
+          "எரியும்போது சிறிதும் வெப்பம் தராதது",
+          "மெத்தனால், ஹைட்ரோகார்பன்களைத் தொகுக்கப் பயன்படுவது"
         ],
         "explanation": "செந்தணலான கோக் மீது 1000°C-இல் நீராவியைச் செலுத்தி CO, H₂ கலவை பெறப்படுகிறது."
       }
@@ -420,22 +420,22 @@
       "en": {
         "q": "Anthracite is the highest grade coal because it ______.",
         "options": [
-          "has the highest carbon content (86-97%) and heat content, burning longer with more heat and less dust",
-          "contains a lot of water",
-          "has the lowest carbon content",
-          "is brown in colour"
+          "has the highest carbon content and burns with more heat",
+          "contains a lot of water and moisture",
+          "has the lowest carbon content of all coals",
+          "is brown in colour like lignite"
         ],
-        "explanation": "Lignite is the lowest grade coal."
+        "explanation": "Lignite is the lowest grade coal. (Anthracite has 86-97% carbon and burns longer with less dust.)"
       },
       "ta": {
         "q": "ஆந்த்ரசைட் உயர்தர நிலக்கரி எனப்படக் காரணம் அது ______.",
         "options": [
-          "அதிகக் கார்பன் (86-97%), அதிக வெப்ப மதிப்பு கொண்டு நீண்ட நேரம் அதிக வெப்பத்துடனும் குறைந்த தூசுடனும் எரிவது",
-          "அதிக நீர் கொண்டது",
-          "மிகக் குறைந்த கார்பன் கொண்டது",
-          "பழுப்பு நிறமானது"
+          "அதிகக் கார்பனும் அதிக வெப்ப மதிப்பும் கொண்டு அதிக வெப்பத்துடன் எரிவது",
+          "அதிக நீரும் ஈரப்பதமும் கொண்டது",
+          "எல்லா நிலக்கரிகளிலும் மிகக் குறைந்த கார்பன் கொண்டது",
+          "லிக்னைட் போலப் பழுப்பு நிறமானது"
         ],
-        "explanation": "பழுப்பு நிலக்கரி (லிக்னைட்) குறைந்த தர நிலக்கரி."
+        "explanation": "பழுப்பு நிலக்கரி (லிக்னைட்) குறைந்த தர நிலக்கரி. (ஆந்த்ரசைட்டில் 86-97% கார்பன்; நீண்ட நேரம் குறைந்த தூசுடன் எரியும்.)"
       }
     },
     {
@@ -508,9 +508,9 @@
         "q": "Solar energy is a non-depleting energy because the Sun ______.",
         "options": [
           "gives a limited supply of fuel",
-          "emits harmful gases",
+          "emits harmful gases while radiating energy",
           "provides a free and renewable source of energy",
-          "must be burnt like coal"
+          "must be burnt like coal to give energy"
         ],
         "explanation": "Solar energy is the only viable fuel source of non-depleting nature; it is clean."
       },
@@ -518,9 +518,9 @@
         "q": "சூரிய ஆற்றல் தீராத ஆற்றல்; ஏனெனில் சூரியன் ______.",
         "options": [
           "வரையறுக்கப்பட்ட எரிபொருளைத் தருகிறது",
-          "தீங்கு தரும் வாயுக்களை வெளியிடுகிறது",
-          "இலவசமான, புதுப்பிக்கத்தக்க ஆற்றல் மூலத்தை அளிக்கிறது",
-          "நிலக்கரியைப் போல எரிக்கப்பட வேண்டும்"
+          "தீங்கு தரும் வாயுக்களை அதிகம் வெளியிடுகிறது",
+          "இலவச, புதுப்பிக்கத்தக்க ஆற்றலை அளிக்கிறது",
+          "நிலக்கரியைப் போல எரிக்கப்பட்டுப் பயன்படுகிறது"
         ],
         "explanation": "சூரிய ஆற்றல் தீராத தன்மையுடைய ஒரே பயன்படுத்தத்தக்க எரிபொருள் மூலம்; தூய்மையானது."
       }

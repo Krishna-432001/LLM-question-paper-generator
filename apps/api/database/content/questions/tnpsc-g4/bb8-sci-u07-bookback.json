@@ -130,20 +130,20 @@
       "en": {
         "q": "A compass is used for ______.",
         "options": [
-          "plotting magnetic lines only",
-          "navigation only",
-          "generating electricity",
-          "plotting magnetic lines, detecting a magnetic field and navigation"
+          "plotting magnetic lines and detecting a field only",
+          "detecting a magnetic field and navigation only",
+          "generating electricity and measuring current",
+          "plotting field lines, detecting a magnetic field and navigation"
         ],
         "explanation": "A compass needle can plot field lines, detect the field and help navigation."
       },
       "ta": {
         "q": "திசைகாட்டி ______ பயன்படுகிறது.",
         "options": [
-          "காந்த விசைக்கோடுகளை வரைய மட்டும்",
-          "வழிகாட்ட மட்டும்",
-          "மின்சாரம் தயாரிக்க",
-          "காந்த விசைக்கோடுகளை வரைய, காந்தப்புலத்தைக் கண்டறிய, வழிகாட்ட ஆகிய அனைத்திற்கும்"
+          "காந்த விசைக்கோடுகளை வரைய, காந்தப்புலத்தைக் கண்டறிய மட்டும்",
+          "காந்தப்புலத்தைக் கண்டறியவும் வழிகாட்டவும் மட்டும்",
+          "மின்சாரம் தயாரிக்க, மின்னோட்டம் அளக்க",
+          "விசைக்கோடுகள் வரைய, காந்தப்புலம் அறிய, திசை காண – அனைத்திற்கும்"
         ],
         "explanation": "திசைகாட்டி ஊசி விசைக்கோடுகளை வரையவும் காந்தப்புலத்தை அறியவும் திசை காணவும் உதவும்."
       }
@@ -189,21 +189,21 @@
         "q": "A magnet always has ______ magnetic poles.",
         "options": [
           "only one",
-          "two (a north and a south pole)",
-          "three",
-          "four"
+          "exactly two",
+          "exactly three",
+          "exactly four"
         ],
-        "explanation": "Magnetic poles always exist in pairs."
+        "explanation": "Magnetic poles always exist in pairs. (a north pole and a south pole)"
       },
       "ta": {
         "q": "ஒரு காந்தம் எப்போதும் ______ காந்த முனைகளைக் கொண்டிருக்கும்.",
         "options": [
-          "ஒரு",
-          "இரண்டு (வடமுனை, தென்முனை)",
-          "மூன்று",
-          "நான்கு"
+          "ஒரே ஒரு",
+          "சரியாக இரண்டு",
+          "சரியாக மூன்று",
+          "சரியாக நான்கு"
         ],
-        "explanation": "காந்த முனைகள் எப்போதும் இணையாகவே இருக்கும்."
+        "explanation": "காந்த முனைகள் எப்போதும் இணையாகவே இருக்கும். (வடமுனை, தென்முனை)"
       }
     },
     {
@@ -362,20 +362,20 @@
       "en": {
         "q": "The magnetic field is defined as ______.",
         "options": [
-          "the space around a magnet in which its magnetic effect or influence is observed",
-          "the force of attraction at the poles",
-          "the line joining the two poles",
-          "the material of the magnet"
+          "the space around a magnet where its magnetic influence is felt",
+          "the force of attraction at the poles of a magnet",
+          "the imaginary line joining the two poles of a magnet",
+          "the material from which the magnet is made"
         ],
         "explanation": "It is measured in tesla or gauss (1 tesla = 10,000 gauss)."
       },
       "ta": {
         "q": "காந்தப் புலம் என்பது ______.",
         "options": [
-          "ஒரு காந்தத்தைச் சுற்றி அதன் காந்த விளைவு உணரப்படும் வெளி",
-          "முனைகளிலுள்ள கவர்ச்சி விசை",
-          "இரு முனைகளையும் இணைக்கும் கோடு",
-          "காந்தத்தின் பொருள்"
+          "காந்தத்தைச் சுற்றி அதன் விளைவு உணரப்படும் வெளி",
+          "காந்தத்தின் முனைகளிலுள்ள கவர்ச்சி விசையின் அளவு",
+          "காந்தத்தின் இரு முனைகளையும் இணைக்கும் கற்பனைக் கோடு",
+          "காந்தம் செய்யப்பட்டுள்ள பொருளின் வகை"
         ],
         "explanation": "இதன் அலகு டெஸ்லா அல்லது காஸ் (1 டெஸ்லா = 10,000 காஸ்)."
       }
@@ -401,10 +401,10 @@
       "ta": {
         "q": "செயற்கைக் காந்தங்கள் என்பவை ______.",
         "options": [
-          "மணல் படிவுகளில் காணப்படும் காந்தங்கள்",
-          "காந்தத்தன்மையை இழக்காத காந்தங்கள்",
-          "புவிக்குள் உருவாகும் காந்தங்கள்",
-          "ஆய்வகத்திலோ தொழிற்சாலையிலோ மனிதரால் உருவாக்கப்படும் காந்தங்கள்"
+          "ஆற்று மணல் படிவுகளில் இயற்கையாகக் காணப்படும் காந்தங்கள்",
+          "தம் காந்தத்தன்மையை என்றும் இழக்காத காந்தங்கள்",
+          "புவியின் உட்பகுதியில் இயற்கையாக உருவாகும் காந்தங்கள்",
+          "மனிதரால் செயற்கையாக உருவாக்கப்படும் காந்தங்கள்"
         ],
         "explanation": "எடுத்துக்காட்டு: தண்டு, U வடிவ, குதிரை லாட, உருளை, வட்டத் தட்டு, வளைய, மின்காந்தங்கள்."
       }
@@ -420,7 +420,7 @@
       "en": {
         "q": "Which statement about natural and artificial magnets is correct?",
         "options": [
-          "Natural magnets are found in nature with irregular shapes; artificial magnets are man-made in different shapes.",
+          "Natural magnets occur in nature in irregular shapes; artificial magnets are man-made.",
           "Natural magnets are man-made; artificial magnets are found in nature.",
           "Artificial magnets are weaker than natural magnets and have a very limited use.",
           "Both have regular shapes and the same strength."
@@ -449,10 +449,10 @@
       "en": {
         "q": "Why is the Earth said to act as a huge bar magnet?",
         "options": [
-          "Because it attracts all iron objects strongly",
-          "Because its poles are at the equator",
-          "A freely suspended magnetic needle comes to rest along the geographic north-south direction",
-          "Because it has no core"
+          "Because it attracts all iron objects very strongly",
+          "Because both of its poles are at the equator",
+          "A freely suspended magnet rests in the north-south direction",
+          "Because its core is made only of solid rock"
         ],
         "explanation": "A freely suspended needle aligning north-south shows Earth behaves like a huge magnetic dipole."
       },
@@ -460,9 +460,9 @@
         "q": "புவி ஒரு பெரிய தண்டுக்காந்தம் போலச் செயல்படுகிறது என்பதற்குக் காரணம் ______.",
         "options": [
           "அது எல்லா இரும்புப் பொருள்களையும் வலுவாகக் கவர்வது",
-          "அதன் முனைகள் நிலநடுக்கோட்டில் இருப்பது",
-          "தாராளமாகத் தொங்கவிடப்பட்ட காந்த ஊசி புவியியல் வடக்கு-தெற்குத் திசையில் நிற்பது",
-          "அதற்கு உட்கரு இல்லாதது"
+          "அதன் இரு முனைகளும் நிலநடுக்கோட்டில் இருப்பது",
+          "தொங்கவிடப்பட்ட காந்த ஊசி வடக்கு-தெற்காக நிற்பது",
+          "அதன் உட்கரு முழுதும் திடப்பாறையால் ஆனது"
         ],
         "explanation": "காந்த ஊசி வடக்கு-தெற்காக நிற்பது புவி ஒரு காந்த இருமுனை போலச் செயல்படுவதைக் காட்டுகிறது."
       }
@@ -478,9 +478,9 @@
       "en": {
         "q": "Which of the following is a non-magnetic material?",
         "options": [
-          "Nickel",
-          "Iron nail",
-          "Cobalt",
+          "Pure nickel wire",
+          "Large iron nail",
+          "Cobalt metal piece",
           "Plastic cloth hanger"
         ],
         "explanation": "Materials not attracted by a magnet (like plastic, paper, wood, eraser) are non-magnetic."
@@ -488,9 +488,9 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் காந்தத்தன்மையற்ற பொருள் எது?",
         "options": [
-          "நிக்கல்",
-          "இரும்பு ஆணி",
-          "கோபால்ட்",
+          "தூய நிக்கல் கம்பி",
+          "பெரிய இரும்பு ஆணி",
+          "கோபால்ட் உலோகத் துண்டு",
           "பிளாஸ்டிக் துணி மாட்டி"
         ],
         "explanation": "காந்தத்தால் கவரப்படாத பிளாஸ்டிக், காகிதம், மரம், அழிப்பான் போன்றவை காந்தத்தன்மையற்றவை."

@@ -24,7 +24,7 @@
       "ta": {
         "q": "திரவம் செலுத்தும் அழுத்தம் ______ அதிகரிக்கிறது.",
         "options": [
-          "திரவத்தின் அடர்த்தி, திரவ நிரலின் உயரம் ஆகிய இரண்டாலும்",
+          "அடர்த்தி, உயரம் இரண்டாலும்",
           "திரவத்தின் அடர்த்தியால் மட்டும்",
           "திரவ நிரலின் உயரத்தால் மட்டும்",
           "அடர்த்தி, உயரம் ஆகிய இரண்டாலும் அன்று"
@@ -101,9 +101,9 @@
       "en": {
         "q": "Pascal's law is used in ______.",
         "options": [
-          "hydraulic lift only",
-          "pressing heavy bundles only",
-          "brake system only",
+          "hydraulic lift and brake system only",
+          "hydraulic lift and pressing heavy bundles only",
+          "brake system and pressing heavy bundles only",
           "hydraulic lift, brake system and pressing heavy bundles"
         ],
         "explanation": "Hydraulic lifts, automobile brakes and hydraulic presses all work on Pascal's law."
@@ -111,10 +111,10 @@
       "ta": {
         "q": "பாஸ்கல் விதி ______ பயன்படுகிறது.",
         "options": [
-          "நீரியல் உயர்த்தியில் மட்டும்",
-          "அழுத்தப்பட்ட பொதிகளில் மட்டும்",
-          "தடை செலுத்தியில் (பிரேக்) மட்டும்",
-          "நீரியல் உயர்த்தி, தடை செலுத்தி, அழுத்தப்பட்ட பொதி ஆகிய அனைத்திலும்"
+          "நீரியல் உயர்த்தி, தடை செலுத்தியில் மட்டும்",
+          "நீரியல் உயர்த்தி, அழுத்தப்பட்ட பொதிகளில் மட்டும்",
+          "தடை செலுத்தி, அழுத்தப்பட்ட பொதிகளில் மட்டும்",
+          "நீரியல் உயர்த்தி, தடை செலுத்தி, அழுத்தப்பட்ட பொதி – அனைத்திலும்"
         ],
         "explanation": "நீரியல் உயர்த்தி, வாகனத் தடை செலுத்தி, நீரியல் அழுத்தி ஆகிய அனைத்தும் பாஸ்கல் விதிப்படி செயல்படுகின்றன."
       }
@@ -188,9 +188,9 @@
       "en": {
         "q": "The property of ______ of a liquid surface enables water to move upward in plants.",
         "options": [
-          "viscosity",
-          "buoyancy",
-          "friction",
+          "fluid viscosity",
+          "upward buoyancy",
+          "sliding friction",
           "surface tension"
         ],
         "explanation": "Surface tension causes capillary action in the xylem, raising water upward in plants."
@@ -198,9 +198,9 @@
       "ta": {
         "q": "தாவரங்களில் நீர் மேலே ஏறுவதற்குக் காரணம் ______ என்ற திரவப் பண்பே.",
         "options": [
-          "பாகுநிலை",
-          "மிதப்பு",
-          "உராய்வு",
+          "திரவப் பாகுநிலை",
+          "மேல்நோக்கு மிதப்பு",
+          "சறுக்கு உராய்வு",
           "பரப்பு இழுவிசை"
         ],
         "explanation": "பரப்பு இழுவிசையால் நிகழும் நுண்புழை ஏற்றத்தின் மூலம் சைலக் குழாய்களில் நீர் மேலே ஏறுகிறது."
@@ -275,19 +275,19 @@
       "en": {
         "q": "A moving body comes to rest mainly because of ______.",
         "options": [
-          "the opposing frictional force and other resistive forces",
-          "its own weight alone",
-          "buoyant force alone",
-          "atmospheric pressure alone"
+          "opposing friction and other resistive forces",
+          "its own weight acting downward, with no other force",
+          "the upward buoyant force acting alone",
+          "the pressure of the atmosphere acting alone"
         ],
         "explanation": "The book's statement 'due to friction alone' is treated as false: other forces like air resistance also act; friction is not the only reason (see 'friction is the only reason for loss of energy' - false)."
       },
       "ta": {
         "q": "இயங்கும் ஒரு பொருள் ஓய்வுநிலைக்கு வருவதற்கு முக்கியக் காரணம் ______.",
         "options": [
-          "உராய்வு விசையும் பிற தடுக்கும் விசைகளும்",
-          "அதன் எடை மட்டுமே",
-          "மிதப்பு விசை மட்டுமே",
+          "உராய்வும் பிற தடை விசைகளும்",
+          "கீழ்நோக்கிய எடை விசை மட்டுமே",
+          "மேல்நோக்கிய மிதப்பு விசை மட்டுமே",
           "வளிமண்டல அழுத்தம் மட்டுமே"
         ],
         "explanation": "'உராய்வினால் மட்டுமே' என்ற நூல் கூற்று தவறாகக் கருதப்படுகிறது; காற்றுத் தடை போன்ற பிற விசைகளும் செயல்படுகின்றன."
@@ -333,22 +333,22 @@
       "en": {
         "q": "One atmosphere (1 atm) is approximately equal to ______.",
         "options": [
-          "1,00,000 pascal (about 1.01 × 10⁵ N m⁻²)",
+          "1,00,000 pascal",
           "10 pascal",
           "760 pascal",
           "1,000 pascal"
         ],
-        "explanation": "In the SI system 1 atm = 1,00,000 pascal (approximately); the book's statement is true."
+        "explanation": "In the SI system 1 atm = 1,00,000 pascal (approximately); the book's statement is true. 1 atm is about 1.01 × 10⁵ N m⁻²."
       },
       "ta": {
         "q": "ஒரு வளிமண்டல அழுத்தம் (1 atm) ஏறத்தாழ ______ ஆகும்.",
         "options": [
-          "1,00,000 பாஸ்கல் (சுமார் 1.01 × 10⁵ Nm⁻²)",
+          "1,00,000 பாஸ்கல்",
           "10 பாஸ்கல்",
           "760 பாஸ்கல்",
           "1,000 பாஸ்கல்"
         ],
-        "explanation": "SI முறையில் 1 atm = 1,00,000 பாஸ்கல் (தோராயமாக); நூல் கூற்று சரி."
+        "explanation": "SI முறையில் 1 atm = 1,00,000 பாஸ்கல் (தோராயமாக); நூல் கூற்று சரி. 1 atm ≈ 1.01 × 10⁵ Nm⁻²."
       }
     },
     {
@@ -392,9 +392,9 @@
         "q": "Which statement about friction and loss of energy is correct?",
         "options": [
           "Friction is the only reason for loss of energy.",
-          "Friction never causes loss of energy.",
-          "Friction is one of the reasons for loss of energy, not the only one.",
-          "Friction produces no heat."
+          "Friction never causes any loss of energy in a machine.",
+          "Friction is one reason for energy loss, not the only one.",
+          "Friction never produces any heat in moving bodies."
         ],
         "explanation": "Friction wastes energy and produces heat, but it is not the only reason for energy loss."
       },
@@ -403,7 +403,7 @@
         "options": [
           "ஆற்றல் இழப்புக்கு உராய்வு மட்டுமே காரணம்.",
           "உராய்வு ஆற்றல் இழப்பை ஏற்படுத்தாது.",
-          "ஆற்றல் இழப்புக்கு உராய்வும் ஒரு காரணம்; அதுவே ஒரே காரணம் அன்று.",
+          "உராய்வும் ஒரு காரணம்; ஒரே காரணம் அன்று.",
           "உராய்வு வெப்பத்தை உண்டாக்காது."
         ],
         "explanation": "உராய்வு ஆற்றலை வீணாக்கும், வெப்பத்தை உண்டாக்கும்; ஆனால் ஆற்றல் இழப்புக்கு அதுவே ஒரே காரணம் அன்று."
@@ -449,22 +449,22 @@
       "en": {
         "q": "The viscosity of a liquid is the property related to ______.",
         "options": [
-          "the pressure of the liquid",
-          "its upward buoyant force",
-          "the frictional (viscous) force between its layers",
+          "the pressure exerted by the liquid",
+          "its upward buoyant force on objects",
+          "the viscous force between its layers",
           "its surface area contraction"
         ],
-        "explanation": "Viscosity is the frictional force between the layers of a flowing liquid; it does not depend on the liquid's pressure."
+        "explanation": "Viscosity is the frictional force between the layers of a flowing liquid; it does not depend on the liquid's pressure. The frictional force between layers is also called the viscous force."
       },
       "ta": {
         "q": "திரவத்தின் பாகுநிலை என்பது ______ தொடர்புடைய பண்பு.",
         "options": [
-          "திரவத்தின் அழுத்தத்துடன்",
+          "திரவம் செலுத்தும் அழுத்தத்துடன்",
           "அதன் மேல்நோக்கிய மிதப்பு விசையுடன்",
-          "அதன் அடுக்குகளுக்கிடையே ஏற்படும் உராய்வு (பாகு) விசையுடன்",
-          "பரப்பளவுச் சுருக்கத்துடன்"
+          "அதன் அடுக்குகளுக்கிடையேயான பாகு விசையுடன்",
+          "திரவப் பரப்பளவுச் சுருக்கத்துடன்"
         ],
-        "explanation": "பாகுநிலை என்பது பாயும் திரவ அடுக்குகளுக்கிடையே உள்ள உராய்வு விசை; அது திரவ அழுத்தத்தைச் சார்ந்ததன்று."
+        "explanation": "பாகுநிலை என்பது பாயும் திரவ அடுக்குகளுக்கிடையே உள்ள உராய்வு விசை; அது திரவ அழுத்தத்தைச் சார்ந்ததன்று. அடுக்குகளுக்கிடையேயான உராய்வு விசையே பாகு விசை எனப்படும்."
       }
     },
     {
@@ -547,11 +547,11 @@
         "q": "கீழ்நோக்கிய விசை : எடை :: திரவங்களால் தரப்படும் மேல்நோக்கிய விசை : ______",
         "options": [
           "பாகுவிசை",
-          "மிதப்பு விசை (மிதவை விசை)",
+          "மிதப்பு விசை",
           "பரப்பு இழுவிசை",
           "உந்துவிசை"
         ],
-        "explanation": "கீழ்நோக்கிய விசை எடை; திரவம் தரும் மேல்நோக்கிய விசை மிதப்பு விசை."
+        "explanation": "கீழ்நோக்கிய விசை எடை; திரவம் தரும் மேல்நோக்கிய விசை மிதப்பு விசை. (மிதப்பு விசை – மிதவை விசை)"
       }
     },
     {
@@ -652,20 +652,20 @@
       "en": {
         "q": "A nail feels warm when touched immediately after being hammered into a wooden plank because ______.",
         "options": [
-          "friction between the nail and the wood produces heat",
+          "friction between nail and wood produces heat",
           "the wood absorbs heat from the air",
           "atmospheric pressure heats the nail",
-          "the nail gains weight"
+          "the nail gains weight on being hammered"
         ],
         "explanation": "Friction produces heat."
       },
       "ta": {
         "q": "மரப்பலகையில் ஆணியை அடித்த உடனே தொட்டால் அது சூடாக உணரப்படுவதற்குக் காரணம் ______.",
         "options": [
-          "ஆணிக்கும் மரத்திற்கும் இடையிலான உராய்வு வெப்பத்தை உண்டாக்குவது",
+          "ஆணி–மர உராய்வு வெப்பத்தை உண்டாக்குவது",
           "மரம் காற்றிலுள்ள வெப்பத்தை உறிஞ்சுவது",
           "வளிமண்டல அழுத்தம் ஆணியை வெப்பப்படுத்துவது",
-          "ஆணியின் எடை அதிகரிப்பது"
+          "அடிக்கும்போது ஆணியின் எடை அதிகரிப்பது"
         ],
         "explanation": "உராய்வு வெப்பத்தை உண்டாக்கும்."
       }
@@ -681,10 +681,10 @@
       "en": {
         "q": "One atmosphere is defined as the pressure exerted by ______.",
         "options": [
-          "a water column of height 76 cm",
-          "a mercury column of height 7.6 cm",
+          "a water column of height 76 cm in a barometer",
+          "a mercury column of height 7.6 cm in a barometer",
           "a mercury column of height 76 cm in a barometer",
-          "a mercury column of height 760 cm"
+          "a mercury column of height 760 cm in a barometer"
         ],
         "explanation": "1 atm = pressure of a 76 cm mercury column = about 1.01 × 10⁵ N m⁻²."
       },
@@ -739,20 +739,20 @@
       "en": {
         "q": "Surface tension helps a plant by ______.",
         "options": [
-          "raising water upward through xylem vessels by capillary action",
-          "absorbing carbon dioxide",
-          "increasing the friction of roots",
-          "producing food in the leaves"
+          "raising water through xylem by capillary action",
+          "absorbing carbon dioxide through the stomata",
+          "increasing the friction between roots and soil",
+          "producing food in the leaves by photosynthesis"
         ],
         "explanation": "Water rises through narrow xylem vessels by capillary action caused by surface tension."
       },
       "ta": {
         "q": "பரப்பு இழுவிசை தாவரத்திற்கு உதவுவது ______.",
         "options": [
-          "நுண்புழை ஏற்றத்தால் சைலக் குழாய்களின் வழியே நீரை மேலே ஏறச் செய்து",
-          "கார்பன் டை ஆக்சைடை உறிஞ்சி",
-          "வேர்களின் உராய்வை அதிகரித்து",
-          "இலைகளில் உணவு உற்பத்தி செய்து"
+          "நுண்புழை ஏற்றத்தால் சைலத்தில் நீரை மேலேற்றி",
+          "இலைத்துளை வழியே கார்பன் டை ஆக்சைடை உறிஞ்சி",
+          "வேர்களுக்கும் மண்ணுக்குமான உராய்வை அதிகரித்து",
+          "ஒளிச்சேர்க்கையால் இலைகளில் உணவு உற்பத்தி செய்து"
         ],
         "explanation": "பரப்பு இழுவிசையால் ஏற்படும் நுண்புழை ஏற்றத்தால் சைலக் குழாய்களில் நீர் மேலே ஏறுகிறது."
       }
@@ -797,20 +797,20 @@
       "en": {
         "q": "Friction is the force that ______.",
         "options": [
-          "pulls objects towards the Earth",
+          "pulls all objects towards the centre of the Earth",
           "opposes the relative motion of two bodies in contact",
-          "pushes liquids upward",
-          "contracts the surface of a liquid"
+          "pushes liquids upward through narrow tubes",
+          "contracts the free surface of a liquid"
         ],
         "explanation": "Friction arises when two bodies in contact move or tend to move relative to each other and acts opposite to the motion."
       },
       "ta": {
         "q": "உராய்வு என்பது ______ விசையாகும்.",
         "options": [
-          "பொருள்களைப் புவியை நோக்கி இழுக்கும்",
-          "தொடுகையிலுள்ள இரு பொருள்களின் ஒப்புமை இயக்கத்தை எதிர்க்கும்",
-          "திரவங்களை மேல்நோக்கித் தள்ளும்",
-          "திரவப் பரப்பைச் சுருக்கும்"
+          "அனைத்துப் பொருள்களையும் புவியை நோக்கி இழுக்கும்",
+          "தொடுகையிலுள்ள பொருள்களின் இயக்கத்தை எதிர்க்கும்",
+          "திரவங்களை நுண்குழாயில் மேல்நோக்கித் தள்ளும்",
+          "திரவத்தின் மேற்பரப்பைச் சுருக்கும்"
         ],
         "explanation": "ஒன்றோடொன்று தொடுகையிலுள்ள பொருள்கள் இயங்கும்போது அல்லது இயங்க முயலும்போது இயக்கத்திற்கு எதிர்த்திசையில் செயல்படும் விசை உராய்வு."
       }
@@ -857,8 +857,8 @@
         "options": [
           "transmitted only downward",
           "transmitted only upward",
-          "completely lost at the walls",
-          "distributed equally in all directions of the liquid"
+          "completely lost at the container walls",
+          "transmitted equally in all directions"
         ],
         "explanation": "Pascal's law: pressure applied at any point of a confined liquid at rest is transmitted equally in all directions."
       },

@@ -14,22 +14,22 @@
       "en": {
         "q": "The same proportion of carbon and oxygen in carbon dioxide obtained from different sources proves the law of ______.",
         "options": [
-          "definite (constant) proportion",
+          "definite proportion",
           "reciprocal proportion",
           "multiple proportion",
           "conservation of mass"
         ],
-        "explanation": "A pure compound always contains the same elements in the same proportion by mass (Joseph Proust)."
+        "explanation": "A pure compound always contains the same elements in the same proportion by mass (Joseph Proust). (Definite proportion is also called constant proportion.)"
       },
       "ta": {
         "q": "வெவ்வேறு மூலங்களிலிருந்து பெறப்படும் கார்பன் டை ஆக்சைடில் கார்பனும் ஆக்சிஜனும் ஒரே விகிதத்தில் இருப்பது ______ விதியை நிரூபிக்கிறது.",
         "options": [
-          "மாறா (நிலையான) விகித",
+          "மாறா விகித",
           "தலைகீழ் விகித",
           "பல விகித",
           "நிறை அழியாமை"
         ],
-        "explanation": "தூய சேர்மத்தில் தனிமங்கள் எப்போதும் மாறாத நிறை விகிதத்தில் இருக்கும் (ஜோசப் புரூஸ்ட்)."
+        "explanation": "தூய சேர்மத்தில் தனிமங்கள் எப்போதும் மாறாத நிறை விகிதத்தில் இருக்கும் (ஜோசப் புரூஸ்ட்). (மாறா விகிதம் – நிலையான விகிதம்)"
       }
     },
     {
@@ -102,21 +102,21 @@
         "q": "In all atoms of an element, ______.",
         "options": [
           "the atomic and mass numbers are always the same",
-          "the atomic number is the same but the mass number may be different (isotopes)",
+          "the atomic number is the same but the mass number may differ",
           "the mass number is the same but the atomic number is different",
           "both atomic and mass numbers vary"
         ],
-        "explanation": "Atoms of the same element can have different masses (isotopes), a limitation of Dalton's theory; the atomic number (number of protons) is fixed."
+        "explanation": "Atoms of the same element can have different masses (isotopes), a limitation of Dalton's theory; the atomic number (number of protons) is fixed. (Such atoms are called isotopes.)"
       },
       "ta": {
         "q": "ஒரு தனிமத்தின் எல்லா அணுக்களிலும் ______.",
         "options": [
           "அணு எண்ணும் நிறை எண்ணும் எப்போதும் ஒன்றே",
-          "அணு எண் ஒரே அளவு; நிறை எண் வேறுபடலாம் (ஐசோடோப்புகள்)",
+          "அணு எண் ஒரே அளவு; நிறை எண் வேறுபடலாம்",
           "நிறை எண் ஒன்றே; அணு எண் வேறுபடும்",
           "அணு எண், நிறை எண் இரண்டும் மாறும்"
         ],
-        "explanation": "ஒரே தனிமத்தின் அணுக்களுக்கு வெவ்வேறு நிறை இருக்கலாம் (ஐசோடோப்புகள்); அணு எண் (புரோட்டான் எண்ணிக்கை) மாறாதது."
+        "explanation": "ஒரே தனிமத்தின் அணுக்களுக்கு வெவ்வேறு நிறை இருக்கலாம் (ஐசோடோப்புகள்); அணு எண் (புரோட்டான் எண்ணிக்கை) மாறாதது. (இத்தகைய அணுக்கள் ஐசோடோப்புகள்)"
       }
     },
     {
@@ -160,11 +160,11 @@
         "q": "According to Dalton, an element is composed of ______ atoms.",
         "options": [
           "different",
-          "identical (similar)",
+          "identical",
           "charged",
           "only neutral"
         ],
-        "explanation": "Atoms of the same element are identical in size, shape, mass and properties."
+        "explanation": "Atoms of the same element are identical in size, shape, mass and properties. (Identical means similar.)"
       },
       "ta": {
         "q": "டால்டனின்படி ஒரு தனிமம் ______ அணுக்களால் ஆனது.",
@@ -343,10 +343,10 @@
       "ta": {
         "q": "1878-இல் மின்னிறக்கக் குழாயைக் கொண்டு கேத்தோடு கதிர்களைக் கண்டறிந்தவர் ______.",
         "options": [
-          "ஜேம்ஸ் சாட்விக்",
-          "கோல்ட்ஸ்டீன்",
-          "ஜே.ஜே. தாம்சன்",
-          "சர் வில்லியம் குரூக்ஸ்"
+          "சர் ஜேம்ஸ் சாட்விக்",
+          "யூஜின் கோல்ட்ஸ்டீன்",
+          "சர் ஜே.ஜே. தாம்சன்",
+          "வில்லியம் குரூக்ஸ்"
         ],
         "explanation": "இவை குரூக்ஸ் கதிர்கள் எனப்படும்; குழாய் குரூக்ஸ் குழாய் அல்லது கேத்தோடு கதிர் குழாய் (CRT)."
       }
@@ -372,10 +372,10 @@
       "ta": {
         "q": "நிறை அழியாமை விதிப்படி ஒரு வேதி மாற்றத்தில் ______.",
         "options": [
-          "விளைபொருள்களின் நிறை எப்போதும் அதிகம்",
+          "விளைபொருள்களின் மொத்த நிறை எப்போதும் அதிகமாக இருக்கும்",
           "தனிமங்கள் எப்போதும் 1:8 விகிதத்தில் இருக்கும்",
-          "வினைபடு பொருள்களின் நிறை எப்போதும் அதிகம்",
-          "விளைபொருள்களின் மொத்த நிறை வினைபடு பொருள்களின் மொத்த நிறைக்குச் சமம்"
+          "வினைபடு பொருள்களின் மொத்த நிறை எப்போதும் அதிகமாக இருக்கும்",
+          "விளைபொருள்களின் நிறை, வினைபடு பொருள்களின் நிறைக்குச் சமம்"
         ],
         "explanation": "பிரெஞ்சு வேதியியலாளர் லவோஸியர் 1774-இல் கூறினார்; நிறையை ஆக்கவோ அழிக்கவோ முடியாது."
       }
@@ -478,22 +478,22 @@
       "en": {
         "q": "Atoms or groups of atoms that carry a positive or negative charge due to loss or gain of electrons are called ______.",
         "options": [
-          "ions (radicals)",
+          "ions",
           "isotopes",
           "isobars",
           "molecules"
         ],
-        "explanation": "Ions are classified into cations and anions."
+        "explanation": "Ions are classified into cations and anions. (Ions are also called radicals.)"
       },
       "ta": {
         "q": "எலக்ட்ரான்களை இழப்பதாலோ பெறுவதாலோ நேர் அல்லது எதிர் மின்னூட்டம் பெற்ற அணுக்கள் அல்லது அணுக்கூட்டங்கள் ______ எனப்படும்.",
         "options": [
-          "அயனிகள் (ராடிகல்கள்)",
+          "அயனிகள்",
           "ஐசோடோப்புகள்",
           "ஐசோபார்கள்",
           "மூலக்கூறுகள்"
         ],
-        "explanation": "அயனிகள் நேர் அயனி, எதிர் அயனி என வகைப்படும்."
+        "explanation": "அயனிகள் நேர் அயனி, எதிர் அயனி என வகைப்படும். (அயனிகள் – ராடிகல்கள்)"
       }
     },
     {
@@ -507,20 +507,20 @@
       "en": {
         "q": "A chemical equation is ______.",
         "options": [
-          "a picture of an atom",
-          "a list of all elements in a compound",
-          "a short hand representation of a chemical reaction using symbols and formulae",
-          "the law of constant proportions"
+          "a picture of an atom and its electrons",
+          "a complete list of all the elements present in a compound",
+          "a short representation of a reaction using symbols and formulae",
+          "the law of constant proportions in compounds"
         ],
         "explanation": "Every chemical equation has two components: reactants and products."
       },
       "ta": {
         "q": "வேதிச் சமன்பாடு என்பது ______.",
         "options": [
-          "அணுவின் படம்",
+          "அணுவையும் அதன் எலக்ட்ரான்களையும் காட்டும் படம்",
           "ஒரு சேர்மத்திலுள்ள அனைத்துத் தனிமங்களின் பட்டியல்",
-          "குறியீடுகள், வாய்பாடுகளைக் கொண்டு வேதிவினையைச் சுருக்கமாகக் குறிப்பது",
-          "மாறா விகித விதி"
+          "குறியீடு, வாய்பாடுகளால் வினையைச் சுருக்கமாகக் குறிப்பது",
+          "சேர்மங்களில் மாறா விகிதத்தைக் கூறும் விதி"
         ],
         "explanation": "ஒவ்வொரு வேதிச் சமன்பாட்டிலும் வினைபடு பொருள்கள், விளைபொருள்கள் என இரு கூறுகள் உள்ளன."
       }
@@ -710,20 +710,20 @@
       "en": {
         "q": "A light paddle wheel placed in the path of cathode rays rotates because cathode rays ______.",
         "options": [
-          "are massless waves",
-          "are neutral rays",
-          "are made up of material particles having mass and kinetic energy",
-          "are made of protons only"
+          "are massless electromagnetic waves only",
+          "are neutral rays carrying no charge at all",
+          "are material particles with mass and kinetic energy",
+          "are made up of positively charged protons only"
         ],
         "explanation": "Cathode rays consist of material particles with mass and kinetic energy."
       },
       "ta": {
         "q": "கேத்தோடு கதிர்களின் பாதையில் வைக்கப்பட்ட இலேசான துடுப்புச் சக்கரம் சுழல்வதற்குக் காரணம் அக்கதிர்கள் ______.",
         "options": [
-          "நிறையற்ற அலைகள்",
-          "நடுநிலைக் கதிர்கள்",
-          "நிறையும் இயக்க ஆற்றலும் கொண்ட பொருள் துகள்களால் ஆனவை",
-          "புரோட்டான்களால் மட்டும் ஆனவை"
+          "நிறையற்ற மின்காந்த அலைகள் மட்டுமே",
+          "மின்னூட்டமற்ற நடுநிலைக் கதிர்கள்",
+          "நிறையும் இயக்க ஆற்றலும் உடைய துகள்கள்",
+          "நேர்மின்னூட்டப் புரோட்டான்களால் மட்டும் ஆனவை"
         ],
         "explanation": "கேத்தோடு கதிர்கள் நிறையும் இயக்க ஆற்றலும் கொண்ட துகள்களால் ஆனவை."
       }

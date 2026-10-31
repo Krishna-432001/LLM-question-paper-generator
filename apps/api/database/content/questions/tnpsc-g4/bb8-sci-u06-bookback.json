@@ -14,20 +14,20 @@
       "en": {
         "q": "Sound waves travel fastest in ______.",
         "options": [
-          "liquids",
-          "air",
-          "vacuum",
-          "metals (solids)"
+          "liquids such as water",
+          "air and other gases",
+          "vacuum or empty space",
+          "solids such as metals"
         ],
         "explanation": "The speed of sound is greatest in solids, less in liquids and least in gases; sound cannot travel in vacuum."
       },
       "ta": {
         "q": "ஒலி அலைகள் மிக வேகமாகப் பரவுவது ______.",
         "options": [
-          "திரவங்களில்",
-          "காற்றில்",
-          "வெற்றிடத்தில்",
-          "உலோகங்களில் (திடப்பொருள்)"
+          "நீர் போன்ற திரவங்களில்",
+          "காற்று போன்ற வாயுக்களில்",
+          "வெற்றிடமான வெளியில்",
+          "உலோகம் போன்ற திடப்பொருளில்"
         ],
         "explanation": "ஒலியின் வேகம் திடப்பொருளில் அதிகம், திரவத்தில் குறைவு, வாயுவில் மிகக் குறைவு; வெற்றிடத்தில் பரவாது."
       }
@@ -111,12 +111,12 @@
       "ta": {
         "q": "சிதார் என்பது ______ இசைக்கருவி.",
         "options": [
-          "நரம்பு (தந்தி)",
+          "நரம்பு",
           "தாள",
           "காற்று",
           "நாணல்"
         ],
-        "explanation": "வயலின், கிட்டார், சிதார் ஆகியவை நரம்பு (தந்தி) இசைக்கருவிகள்."
+        "explanation": "வயலின், கிட்டார், சிதார் ஆகியவை நரம்பு (தந்தி) இசைக்கருவிகள். (நரம்பு – தந்தி)"
       }
     },
     {
@@ -217,9 +217,9 @@
       "en": {
         "q": "Noise may cause ______.",
         "options": [
-          "irritation only",
-          "stress only",
-          "nervousness only",
+          "irritation and stress only",
+          "stress and nervousness only",
+          "irritation and nervousness only",
           "irritation, stress and nervousness"
         ],
         "explanation": "Noise causes irritation, stress, nervousness and headache."
@@ -227,10 +227,10 @@
       "ta": {
         "q": "இரைச்சலால் ஏற்படக்கூடியவை ______.",
         "options": [
-          "எரிச்சல் மட்டும்",
-          "மன அழுத்தம் மட்டும்",
-          "பதற்றம் மட்டும்",
-          "எரிச்சல், மன அழுத்தம், பதற்றம் ஆகிய அனைத்தும்"
+          "எரிச்சல், மன அழுத்தம் ஆகிய இரண்டும் மட்டும்",
+          "மன அழுத்தம், பதற்றம் ஆகிய இரண்டும் மட்டும்",
+          "எரிச்சல், பதற்றம் ஆகிய இரண்டும் மட்டும்",
+          "எரிச்சல், மன அழுத்தம், பதற்றம் மூன்றும்"
         ],
         "explanation": "இரைச்சல் எரிச்சல், மன அழுத்தம், பதற்றம், தலைவலியை ஏற்படுத்தும்."
       }
@@ -372,10 +372,10 @@
       "ta": {
         "q": "ஒலியின் சுருதி அதிர்வின் ______ ஐச் சார்ந்தது.",
         "options": [
-          "வீச்சு",
+          "பெரும வீச்சு",
           "அதிர்வெண்",
-          "ஊடகம்",
-          "வேகம்"
+          "பரவும் ஊடகம்",
+          "பரவும் வேகம்"
         ],
         "explanation": "அதிர்வெண் அதிகமாக இருந்தால் சுருதியும் அதிகம்."
       }
@@ -565,10 +565,10 @@
       "en": {
         "q": "Which of the following is a health hazard of noise pollution?",
         "options": [
-          "Loss of hearing and lack of concentration",
-          "Increase in hearing ability",
-          "Better sleep",
-          "Lower blood pressure"
+          "Loss of hearing and poor concentration",
+          "Increase in the hearing ability of the ears",
+          "Better and deeper sleep at night",
+          "Lower blood pressure and heart rate"
         ],
         "explanation": "Noise can cause irritation, stress, loss of hearing, heart attack, lack of concentration and high blood pressure."
       },
@@ -623,20 +623,20 @@
       "en": {
         "q": "Amplitude is ______.",
         "options": [
-          "the number of vibrations per second",
-          "the distance between two consecutive compressions",
-          "the time taken for one vibration",
-          "the maximum displacement of a vibrating particle from its mean position"
+          "the number of complete vibrations made per second",
+          "the distance between two consecutive compressions of the wave",
+          "the time taken for one complete vibration of a particle",
+          "the maximum displacement of a particle from its mean position"
         ],
         "explanation": "Amplitude (A) is measured in metres; loudness depends on it."
       },
       "ta": {
         "q": "வீச்சு என்பது ______.",
         "options": [
-          "ஒரு நொடியில் நிகழும் அதிர்வுகளின் எண்ணிக்கை",
-          "அடுத்தடுத்த அழுத்தப் பகுதிகளுக்கிடையேயான தொலைவு",
-          "ஓர் அதிர்வுக்கு ஆகும் நேரம்",
-          "அதிரும் துகள் அதன் சமநிலைப் புள்ளியிலிருந்து அடையும் பெரும இடப்பெயர்ச்சி"
+          "ஒரு நொடியில் நிகழும் முழு அதிர்வுகளின் எண்ணிக்கை",
+          "அலையில் அடுத்தடுத்த இரு அழுத்தப் பகுதிகளுக்கிடையேயான தொலைவு",
+          "ஒரு துகள் ஒரு முழு அதிர்வை முடிக்க ஆகும் நேரம்",
+          "துகள் சமநிலைப் புள்ளியிலிருந்து அடையும் பெரும இடப்பெயர்ச்சி"
         ],
         "explanation": "வீச்சு (A) மீட்டரில் அளக்கப்படுகிறது; உரப்பு வீச்சைச் சார்ந்தது."
       }

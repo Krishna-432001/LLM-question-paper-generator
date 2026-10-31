@@ -14,20 +14,20 @@
       "en": {
         "q": "Electric wires for long-distance transmission are not set very tightly because they ______.",
         "options": [
-          "become heavier at night",
+          "become much heavier during the night",
           "expand during the day and contract at night",
-          "melt in sunlight",
-          "lose electric charge"
+          "melt in the hot sunlight at noon",
+          "lose their electric charge slowly"
         ],
         "explanation": "Tightly set wires would break when they contract on cooling at night."
       },
       "ta": {
         "q": "நீண்ட தூர மின்கம்பிகள் மிகவும் இறுக்கமாக அமைக்கப்படுவதில்லை; ஏனெனில் அவை ______.",
         "options": [
-          "இரவில் எடை கூடுகின்றன",
+          "இரவில் மிகவும் எடை கூடிவிடுகின்றன",
           "பகலில் விரிவடைந்து இரவில் சுருங்குகின்றன",
-          "சூரிய ஒளியில் உருகுகின்றன",
-          "மின்னூட்டத்தை இழக்கின்றன"
+          "நண்பகல் சூரிய ஒளியில் உருகிவிடுகின்றன",
+          "மின்னூட்டத்தை மெல்ல இழந்துவிடுகின்றன"
         ],
         "explanation": "இறுக்கமாக அமைத்தால் இரவில் குளிர்ந்து சுருங்கும்போது அறுந்துவிடும்."
       }
@@ -275,10 +275,10 @@
       "en": {
         "q": "The vacuum between the double walls of a thermos flask prevents heat transfer by ______.",
         "options": [
-          "radiation only",
+          "radiation and dispersion",
           "conduction and convection",
-          "dispersion",
-          "sublimation"
+          "dispersion and sublimation",
+          "sublimation and radiation"
         ],
         "explanation": "Vacuum stops conduction and convection; the silvered walls reflect radiated heat."
       },

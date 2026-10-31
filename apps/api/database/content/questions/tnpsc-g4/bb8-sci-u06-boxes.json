@@ -169,12 +169,12 @@
       "ta": {
         "q": "ஒலி அலையில் குறைந்த அழுத்தப் பகுதி ______ எனப்படும்.",
         "options": [
-          "தளர்ச்சி (நெகிழ்வு)",
+          "தளர்ச்சி",
           "அமுக்கம்",
           "முகடு",
           "வீச்சு"
         ],
-        "explanation": "அதிக அழுத்தப் பகுதி அமுக்கம்; குறைந்த அழுத்தப் பகுதி தளர்ச்சி."
+        "explanation": "அதிக அழுத்தப் பகுதி அமுக்கம்; குறைந்த அழுத்தப் பகுதி தளர்ச்சி. (தளர்ச்சி – நெகிழ்வு)"
       }
     },
     {
@@ -305,11 +305,11 @@
         "q": "Sounds below 20 Hz are called ______.",
         "options": [
           "ultrasonic sounds",
-          "infrasonic (subsonic) sounds",
+          "infrasonic sounds",
           "sonic booms",
           "audible sounds"
         ],
-        "explanation": "Infrasonic sound is used in the earth monitoring system and in the study of the human heart."
+        "explanation": "Infrasonic sound is used in the earth monitoring system and in the study of the human heart. (Infrasonic sounds are also called subsonic sounds.)"
       },
       "ta": {
         "q": "20 Hz-க்குக் குறைவான அதிர்வெண் கொண்ட ஒலிகள் ______ எனப்படும்.",
@@ -333,10 +333,10 @@
       "en": {
         "q": "Which instrument used to train dogs works on ultrasonic sound?",
         "options": [
-          "Sonar",
+          "Sonar system",
           "Galton's whistle",
-          "Tuning fork",
-          "Phonograph"
+          "Steel tuning fork",
+          "Edison's phonograph"
         ],
         "explanation": "Galton's whistle is inaudible to humans but heard by dogs."
       },
@@ -391,7 +391,7 @@
       "en": {
         "q": "Harmonium and mouth organ are examples of ______ instruments.",
         "options": [
-          "wind",
+          "brass",
           "stringed",
           "reed",
           "percussion"
@@ -401,12 +401,12 @@
       "ta": {
         "q": "ஹார்மோனியம், வாய் ஆர்கன் ஆகியவை ______ இசைக்கருவிகளுக்கு எடுத்துக்காட்டு.",
         "options": [
-          "காற்று",
+          "பித்தளை",
           "நரம்பு",
-          "நாணல் (ரீட்)",
+          "நாணல்",
           "தாள"
         ],
-        "explanation": "காற்றை ஊதும்போது நாணல் அதிர்ந்து ஒலி தோன்றுகிறது."
+        "explanation": "காற்றை ஊதும்போது நாணல் அதிர்ந்து ஒலி தோன்றுகிறது. (நாணல் – ரீட்)"
       }
     },
     {
@@ -423,9 +423,9 @@
           "pinna",
           "cochlea",
           "trachea",
-          "larynx (voice box)"
+          "larynx"
         ],
-        "explanation": "Air passing through the slit between the vocal cords makes them vibrate."
+        "explanation": "Air passing through the slit between the vocal cords makes them vibrate. The larynx is also called the voice box."
       },
       "ta": {
         "q": "மனிதரில் ஒலி உருவாகும் இடம் ______.",
@@ -433,9 +433,9 @@
           "செவிமடல்",
           "கோக்லியா",
           "மூச்சுக்குழல்",
-          "குரல்வளை (குரல் பெட்டி)"
+          "குரல்வளை"
         ],
-        "explanation": "குரல் நாண்களுக்கிடையிலான இடைவெளி வழியே காற்று செல்லும்போது அவை அதிர்ந்து ஒலி தோன்றுகிறது."
+        "explanation": "குரல் நாண்களுக்கிடையிலான இடைவெளி வழியே காற்று செல்லும்போது அவை அதிர்ந்து ஒலி தோன்றுகிறது. (குரல்வளை – குரல் பெட்டி)"
       }
     },
     {
@@ -478,20 +478,20 @@
       "en": {
         "q": "The major source of noise pollution is ______.",
         "options": [
-          "rivers",
-          "forests",
+          "flowing rivers",
+          "dense forests",
           "industries",
-          "farms"
+          "paddy farms"
         ],
         "explanation": "Noise pollution is a by-product of industrialisation, urbanisation and modern civilisation."
       },
       "ta": {
         "q": "ஒலி மாசுபாட்டின் முக்கிய மூலம் ______.",
         "options": [
-          "ஆறுகள்",
-          "காடுகள்",
+          "ஓடும் ஆறுகள்",
+          "அடர்ந்த காடுகள்",
           "தொழிற்சாலைகள்",
-          "வயல்கள்"
+          "நெல் வயல்கள்"
         ],
         "explanation": "ஒலி மாசுபாடு தொழில்மயமாக்கல், நகரமயமாக்கலின் துணைவிளைவு."
       }

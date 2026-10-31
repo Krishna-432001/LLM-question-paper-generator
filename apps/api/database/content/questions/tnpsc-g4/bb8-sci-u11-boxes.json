@@ -130,20 +130,20 @@
       "en": {
         "q": "Which metal does NOT react with oxygen even at high temperature?",
         "options": [
-          "Potassium",
-          "Magnesium",
+          "Potassium and sodium",
+          "Magnesium and calcium",
           "Gold and platinum",
-          "Iron"
+          "Iron and copper"
         ],
         "explanation": "Potassium reacts at room temperature; magnesium and calcium on slight heating."
       },
       "ta": {
         "q": "உயர் வெப்பநிலையிலும் ஆக்சிஜனுடன் வினைபுரியாத உலோகங்கள் எவை?",
         "options": [
-          "பொட்டாசியம்",
-          "மெக்னீசியம்",
+          "பொட்டாசியம், சோடியம்",
+          "மெக்னீசியம், கால்சியம்",
           "தங்கம், பிளாட்டினம்",
-          "இரும்பு"
+          "இரும்பு, தாமிரம்"
         ],
         "explanation": "பொட்டாசியம் அறை வெப்பநிலையிலும் மெக்னீசியம், கால்சியம் சிறிது சூடுபடுத்தினாலும் வினைபுரியும்."
       }
@@ -219,18 +219,18 @@
         "options": [
           "making soft drinks",
           "cutting and welding metals",
-          "filling tyres",
-          "refrigeration"
+          "filling air in vehicle tyres",
+          "refrigeration of food items"
         ],
         "explanation": "Oxygen is also used for artificial respiration."
       },
       "ta": {
         "q": "ஆக்சி-அசிட்டிலீன் சிலிண்டர்கள் ______ பயன்படுகின்றன.",
         "options": [
-          "குளிர்பானம் தயாரிக்க",
-          "உலோகங்களை வெட்டவும் பற்றவைக்கவும்",
-          "டயர்களில் நிரப்ப",
-          "குளிர்விக்க"
+          "குளிர்பானங்களில் வாயு ஏற்றித் தயாரிக்க",
+          "உலோகங்களை வெட்டவும் பற்ற வைக்கவும்",
+          "வாகன டயர்களில் காற்று நிரப்ப",
+          "உணவுப்பொருள்களைக் குளிர்விக்க"
         ],
         "explanation": "செயற்கை சுவாசத்திற்கும் ஆக்சிஜன் பயன்படுகிறது."
       }
@@ -343,10 +343,10 @@
       "ta": {
         "q": "வளிமண்டல நைட்ரஜனைப் பயனுள்ள நைட்ரஜன் சேர்மமாக மாற்றும் செயல்முறை ______ எனப்படும்.",
         "options": [
-          "நைட்ரஜன் எரிதல்",
+          "நைட்ரஜன் எரிதல் வினை",
           "நைட்ரஜன் நிலைப்படுத்தல்",
-          "பதங்கமாதல்",
-          "துருப்பிடித்தல்"
+          "நைட்ரஜன் பதங்கமாதல்",
+          "நைட்ரஜன் துருப்பிடித்தல்"
         ],
         "explanation": "மின்னல், பயறு வகைத் தாவரங்கள் மூலம் இயற்கையாக நிகழும்."
       }
@@ -421,9 +421,9 @@
         "q": "Which of the following sources release carbon dioxide?",
         "options": [
           "Respiration, fermentation and volcanoes",
-          "Lightning only",
-          "Photosynthesis only",
-          "Nitrogen fixation"
+          "Lightning and nitrogen fixation only",
+          "Photosynthesis and nitrogen fixation only",
+          "Nitrogen fixation in root nodules"
         ],
         "explanation": "Much naturally occurring CO₂ is emitted from magma through volcanoes."
       },
@@ -605,9 +605,9 @@
         "q": "புவி வெப்பமாதலைத் தடுக்க உதவும் நடவடிக்கை எது?",
         "options": [
           "புதைபடிவ எரிபொருள் பயன்பாட்டை அதிகரித்தல்",
-          "அதிக மரம் நடுதல், புதுப்பிக்கத்தக்க ஆற்றலைப் பயன்படுத்துதல்",
-          "காடழிப்பை அதிகரித்தல்",
-          "CFC-ஐ அதிகம் பயன்படுத்துதல்"
+          "மரம் நடுதல், புதுப்பிக்கத்தக்க ஆற்றலைப் பயன்படுத்துதல்",
+          "காடுகளை அழித்து நிலத்தைத் திறந்தவெளியாக்குதல்",
+          "CFC உள்ள குளிர்சாதனங்களை அதிகம் பயன்படுத்துதல்"
         ],
         "explanation": "CFC பயன்பாட்டைக் கட்டுப்படுத்துதல், வளங்களைக் குறைத்தல், மறுபயன், மறுசுழற்சி செய்தல் ஆகியவையும் உதவும்."
       }
@@ -681,22 +681,22 @@
       "en": {
         "q": "Which fuel is suggested to reduce the causes of acid rain?",
         "options": [
-          "Coal",
-          "Diesel",
-          "Petrol",
-          "Compressed Natural Gas (CNG)"
+          "High-sulphur coal",
+          "High-sulphur diesel",
+          "Leaded petrol fuel",
+          "Compressed Natural Gas"
         ],
-        "explanation": "Using non-conventional energy sources and proper disposal of industrial wastes also help."
+        "explanation": "Using non-conventional energy sources and proper disposal of industrial wastes also help. (CNG = Compressed Natural Gas.)"
       },
       "ta": {
         "q": "அமில மழைக் காரணங்களைக் குறைக்கப் பரிந்துரைக்கப்படும் எரிபொருள் ______.",
         "options": [
-          "நிலக்கரி",
-          "டீசல்",
-          "பெட்ரோல்",
-          "அழுத்தப்பட்ட இயற்கை வாயு (CNG)"
+          "அதிக கந்தகமுள்ள நிலக்கரி",
+          "அதிக கந்தகமுள்ள டீசல்",
+          "காரீயம் கலந்த பெட்ரோல்",
+          "அழுத்தப்பட்ட இயற்கை வாயு"
         ],
-        "explanation": "மரபுசாரா ஆற்றல் மூலங்கள், தொழிற்சாலைக் கழிவுகளைச் சரியாக அகற்றுதல் ஆகியவையும் உதவும்."
+        "explanation": "மரபுசாரா ஆற்றல் மூலங்கள், தொழிற்சாலைக் கழிவுகளைச் சரியாக அகற்றுதல் ஆகியவையும் உதவும். (CNG)"
       }
     },
     {

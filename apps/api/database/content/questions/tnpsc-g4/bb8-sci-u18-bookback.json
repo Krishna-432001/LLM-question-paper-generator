@@ -53,12 +53,12 @@
       "ta": {
         "q": "எந்த வகைச் செல்லாகவும் மாறக்கூடிய சிறப்புச் செல்கள் ______ செல்கள்.",
         "options": [
-          "ஸ்டெம் (தண்டு)",
+          "ஸ்டெம்",
           "இதயம்",
           "நரம்பு",
           "எலும்பு"
         ],
-        "explanation": "ஸ்டெம் செல்கள் பல்வேறு வகைச் செல்களாக வேறுபாடடைய முடியும்."
+        "explanation": "ஸ்டெம் செல்கள் பல்வேறு வகைச் செல்களாக வேறுபாடடைய முடியும். (ஸ்டெம் – தண்டு)"
       }
     },
     {
@@ -85,9 +85,9 @@
           "விரவல்",
           "சவ்வூடுபரவல்",
           "வளர்சிதை மாற்றம்",
-          "சமநிலைப் பேணல் (ஹோமியோஸ்டாசிஸ்)"
+          "சமநிலைப் பேணல்"
         ],
-        "explanation": "ஹோமியோஸ்டாசிஸ் உயிர்வாழத் தேவையான சமநிலையைத் தானாகப் பராமரிக்கும் செயல்."
+        "explanation": "ஹோமியோஸ்டாசிஸ் உயிர்வாழத் தேவையான சமநிலையைத் தானாகப் பராமரிக்கும் செயல். (சமநிலைப் பேணல் – ஹோமியோஸ்டாசிஸ்)"
       }
     },
     {
@@ -141,11 +141,11 @@
         "q": "நுரையீரலுக்குள் காற்று உள்ளே செல்வதும் வெளியே வருவதுமான செயல் ______ எனப்படும்.",
         "options": [
           "உள்ளிழுத்தல் மட்டும்",
-          "சுவாசித்தல் (மூச்சுவிடுதல்)",
+          "சுவாசித்தல்",
           "விரவல்",
           "வெளிவிடுதல் மட்டும்"
         ],
-        "explanation": "உள்ளிழுத்தல் காற்றை உள்ளே எடுப்பது; வெளிவிடுதல் காற்றை வெளியேற்றுவது."
+        "explanation": "உள்ளிழுத்தல் காற்றை உள்ளே எடுப்பது; வெளிவிடுதல் காற்றை வெளியேற்றுவது. (சுவாசித்தல் – மூச்சுவிடுதல்)"
       }
     },
     {
@@ -256,10 +256,10 @@
       "ta": {
         "q": "பல செல் விலங்குகளில் மிகப் பெரிய செல் ______ இன் முட்டை.",
         "options": [
-          "யானை",
-          "கழுகு",
+          "ஆப்பிரிக்க யானை",
+          "வெண்தலைக் கழுகு",
           "தீக்கோழி",
-          "கோழி"
+          "நாட்டுக் கோழி"
         ],
         "explanation": "மிக நீளமான செல் நரம்புச் செல் (90-100 செ.மீ); சிறிய பாக்டீரியா மைக்கோபிளாஸ்மா."
       }
@@ -334,21 +334,21 @@
         "q": "The size of cells is measured in units of ______.",
         "options": [
           "millimetre",
-          "micron (micrometre, µm)",
+          "micron",
           "centimetre",
           "metre"
         ],
-        "explanation": "One micron is 1/1000000 metre."
+        "explanation": "One micron is 1/1000000 metre. (A micron is a micrometre, written µm.)"
       },
       "ta": {
         "q": "செல்களின் அளவு ______ அலகால் அளக்கப்படுகிறது.",
         "options": [
           "மில்லிமீட்டர்",
-          "மைக்ரான் (மைக்ரோமீட்டர், µm)",
+          "மைக்ரான்",
           "சென்டிமீட்டர்",
           "மீட்டர்"
         ],
-        "explanation": "ஒரு மைக்ரான் = 1/10,00,000 மீட்டர்."
+        "explanation": "ஒரு மைக்ரான் = 1/10,00,000 மீட்டர். (மைக்ரான் – மைக்ரோமீட்டர், µm)"
       }
     },
     {
@@ -451,20 +451,20 @@
         "options": [
           "alveolus",
           "bronchus",
-          "larynx (voice box)",
+          "larynx",
           "epiglottis"
         ],
-        "explanation": "The statement is true: the folds of tissue in the larynx vibrate with the passage of air to produce sound."
+        "explanation": "The statement is true: the folds of tissue in the larynx vibrate with the passage of air to produce sound. (The larynx is also called the voice box.)"
       },
       "ta": {
         "q": "தொண்டைக்கும் மூச்சுக்குழலுக்கும் இடையேயுள்ள, ஒலியை உண்டாக்கும் சிறிய காற்றுப்பாதை ______.",
         "options": [
           "காற்றுப்பை",
           "மூச்சுக்கிளைக்குழல்",
-          "குரல்வளை (குரல் பெட்டி)",
+          "குரல்வளை",
           "குரல்வளை மூடி"
         ],
-        "explanation": "கூற்று சரி; குரல்வளையிலுள்ள திசுமடிப்புகள் காற்று செல்லும்போது அதிர்ந்து ஒலியை உண்டாக்குகின்றன."
+        "explanation": "கூற்று சரி; குரல்வளையிலுள்ள திசுமடிப்புகள் காற்று செல்லும்போது அதிர்ந்து ஒலியை உண்டாக்குகின்றன. (குரல்வளை – குரல் பெட்டி)"
       }
     },
     {
@@ -489,9 +489,9 @@
         "q": "விலங்குத் திசுக்களின் நான்கு அடிப்படை வகைகள் ______.",
         "options": [
           "எளிய, சிக்கலான, கடின, மென் திசுக்கள்",
-          "எபிதீலியத் திசு, தசைத் திசு, இணைப்புத் திசு, நரம்புத் திசு",
+          "எபிதீலியம், தசை, இணைப்பு, நரம்புத் திசுக்கள்",
           "வேர், தண்டு, இலை, மலர்த் திசுக்கள்",
-          "தோல், எலும்பு, இரத்தம், கொழுப்பு மட்டும்"
+          "தோல், எலும்பு, இரத்தம், கொழுப்புத் திசுக்கள் மட்டும்"
         ],
         "explanation": "எபிதீலியத் திசு பாதுகாக்கும்; தசைத் திசு இயக்கத்தைத் தரும்; இணைப்புத் திசு பிணைக்கும்; நரம்புத் திசு தூண்டல்களைக் கடத்தும்."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "Alveoli are tiny air sacs of the lungs meant for ______.",
         "options": [
-          "producing sound",
-          "the exchange of oxygen and carbon dioxide",
-          "filtering dust",
-          "pumping blood"
+          "producing sound for speaking and singing",
+          "exchange of oxygen and carbon dioxide",
+          "filtering dust from the inhaled air",
+          "pumping blood to all body parts"
         ],
         "explanation": "Oxygen moves into the blood by simple diffusion; carbon dioxide diffuses from the blood into the alveoli."
       },
       "ta": {
         "q": "நுரையீரலிலுள்ள நுண் காற்றுப்பைகளான நுண்ணறைகள் (அல்வியோலை) ______ உதவுகின்றன.",
         "options": [
-          "ஒலி உண்டாக்க",
-          "ஆக்சிஜன், கார்பன் டை ஆக்சைடு பரிமாற்றத்திற்கு",
-          "தூசியை வடிகட்ட",
-          "இரத்தத்தைச் செலுத்த"
+          "பேசவும் பாடவும் ஒலி உண்டாக்க",
+          "ஆக்சிஜன், CO₂ பரிமாற்றத்திற்கு",
+          "உள்ளிழுக்கும் காற்றின் தூசியை வடிகட்ட",
+          "உடலெங்கும் இரத்தத்தைச் செலுத்த"
         ],
         "explanation": "ஆக்சிஜன் எளிய விரவலால் இரத்தத்தில் கலக்கிறது; கார்பன் டை ஆக்சைடு இரத்தத்திலிருந்து நுண்ணறைகளுக்குப் பரவுகிறது."
       }
@@ -536,22 +536,22 @@
       "en": {
         "q": "The processes by which air enters and leaves the lungs are called ______ respectively.",
         "options": [
-          "inspiration (inhalation) and expiration (exhalation)",
+          "inspiration and expiration",
           "expiration and inspiration",
           "osmosis and diffusion",
           "anabolism and catabolism"
         ],
-        "explanation": "During inspiration the diaphragm is pulled down and the thoracic cavity volume increases."
+        "explanation": "During inspiration the diaphragm is pulled down and the thoracic cavity volume increases. (Inspiration is inhalation; expiration is exhalation.)"
       },
       "ta": {
         "q": "காற்று நுரையீரலுக்குள் செல்வதும் வெளியேறுவதுமான செயல்கள் முறையே ______ எனப்படும்.",
         "options": [
-          "உள்ளிழுத்தல் (உட்சுவாசம்), வெளிவிடுதல் (வெளிச்சுவாசம்)",
+          "உள்ளிழுத்தல், வெளிவிடுதல்",
           "வெளிவிடுதல், உள்ளிழுத்தல்",
           "சவ்வூடுபரவல், விரவல்",
           "ஆக்கமாற்றம், சிதைமாற்றம்"
         ],
-        "explanation": "உள்ளிழுத்தலில் உதரவிதானம் கீழிறங்கி மார்புக்குழியின் பருமன் அதிகரிக்கிறது."
+        "explanation": "உள்ளிழுத்தலில் உதரவிதானம் கீழிறங்கி மார்புக்குழியின் பருமன் அதிகரிக்கிறது. (உள்ளிழுத்தல் – உட்சுவாசம்; வெளிவிடுதல் – வெளிச்சுவாசம்)"
       }
     },
     {
@@ -652,22 +652,22 @@
       "en": {
         "q": "Which statement correctly distinguishes aerobic from anaerobic respiration?",
         "options": [
-          "Aerobic respiration releases much more energy and produces CO₂ and water; anaerobic respiration produces ethanol and CO₂ (yeast) or lactic acid (muscle)",
-          "Anaerobic respiration releases more energy",
-          "Aerobic respiration occurs without oxygen",
-          "Anaerobic respiration is common in all higher plants and animals"
+          "Aerobic respiration releases much more energy than anaerobic respiration",
+          "Anaerobic respiration releases more energy than aerobic respiration",
+          "Aerobic respiration takes place only in the absence of oxygen",
+          "Anaerobic respiration is the common type in all higher plants and animals"
         ],
-        "explanation": "Aerobic respiration releases 19 times more energy; each glucose molecule produces 36 ATPs."
+        "explanation": "Aerobic respiration releases 19 times more energy; each glucose molecule produces 36 ATPs. Aerobic respiration produces CO₂ and water; anaerobic respiration produces ethanol and CO₂ (yeast) or lactic acid (muscle)."
       },
       "ta": {
         "q": "காற்று சுவாசத்தையும் காற்றிலா சுவாசத்தையும் சரியாக வேறுபடுத்தும் கூற்று எது?",
         "options": [
-          "காற்று சுவாசம் அதிக ஆற்றலை வெளியிட்டு CO₂, நீரைத் தரும்; காற்றிலா சுவாசம் எத்தனால், CO₂ (ஈஸ்ட்) அல்லது லாக்டிக் அமிலம் (தசை) ஆகியவற்றைத் தரும்",
-          "காற்றிலா சுவாசம் அதிக ஆற்றலை வெளியிடுகிறது",
-          "காற்று சுவாசம் ஆக்சிஜன் இல்லாமல் நிகழ்கிறது",
-          "காற்றிலா சுவாசம் எல்லா உயர் தாவர, விலங்குகளிலும் உள்ளது"
+          "காற்று சுவாசம் காற்றிலா சுவாசத்தைவிட மிக அதிக ஆற்றலை வெளியிடும்",
+          "காற்றிலா சுவாசம் காற்று சுவாசத்தைவிட அதிக ஆற்றலை வெளியிடுகிறது",
+          "காற்று சுவாசம் ஆக்சிஜன் இல்லாத சூழலில் மட்டுமே நிகழ்கிறது",
+          "காற்றிலா சுவாசமே எல்லா உயர் தாவர, விலங்குகளிலும் பொதுவானது"
         ],
-        "explanation": "காற்று சுவாசம் 19 மடங்கு அதிக ஆற்றலை வெளியிடும்; ஒரு குளுக்கோஸிலிருந்து 36 ATP கிடைக்கும்."
+        "explanation": "காற்று சுவாசம் 19 மடங்கு அதிக ஆற்றலை வெளியிடும்; ஒரு குளுக்கோஸிலிருந்து 36 ATP கிடைக்கும். காற்று சுவாசம் CO₂, நீரைத் தரும்; காற்றிலா சுவாசம் எத்தனால், CO₂ (ஈஸ்ட்) அல்லது லாக்டிக் அமிலம் (தசை) தரும்."
       }
     },
     {
@@ -681,10 +681,10 @@
       "en": {
         "q": "The human eye is compared to a camera because both ______.",
         "options": [
-          "use film to store images",
-          "work without light",
-          "gather, focus and transmit light through a lens to create an image of an object",
-          "have a pupil that never changes"
+          "use photographic film to store the images",
+          "work perfectly well without any light",
+          "gather and focus light through a lens to form an image",
+          "have a pupil whose size never changes at all"
         ],
         "explanation": "In the eye the lens with the cornea refracts light, which converges on the retina to form images."
       },
@@ -692,9 +692,9 @@
         "q": "மனிதக் கண் ஒளிப்படக் கருவிக்கு (கேமரா) ஒப்பிடப்படக் காரணம் இரண்டும் ______.",
         "options": [
           "பிம்பத்தைச் சேமிக்கப் படச்சுருளைப் பயன்படுத்துவது",
-          "ஒளி இல்லாமல் செயல்படுவது",
-          "லென்ஸ் வழியே ஒளியைச் சேகரித்து, குவித்து, செலுத்திப் பொருளின் பிம்பத்தை உருவாக்குவது",
-          "ஒருபோதும் மாறாத கண்மணியைக் கொண்டது"
+          "ஒளியே இல்லாமல் நன்றாகச் செயல்படுவது",
+          "லென்ஸ் வழியே ஒளியைக் குவித்துப் பிம்பத்தை உருவாக்குவது",
+          "ஒருபோதும் அளவு மாறாத கண்மணியைக் கொண்டிருப்பது"
         ],
         "explanation": "கண்ணில் கார்னியாவும் லென்சும் ஒளியை விலகச் செய்து விழித்திரையில் குவித்துப் பிம்பங்களை உருவாக்குகின்றன."
       }
@@ -710,22 +710,22 @@
       "en": {
         "q": "Which of the following help to maintain homeostasis?",
         "options": [
-          "Only the skeleton and muscles",
-          "Only the lungs",
-          "Only the eyes and ears",
-          "Liver, kidney, brain (hypothalamus), autonomic nervous system and endocrine system"
+          "Only the skeleton, the muscles and the joints of the body",
+          "Only the lungs, the windpipe and the diaphragm",
+          "Only the eyes, the ears and the other sense organs",
+          "Liver, kidney, brain, nervous system and endocrine system"
         ],
-        "explanation": "All the processes of integration and co-ordination are mediated by the nervous and hormonal systems."
+        "explanation": "All the processes of integration and co-ordination are mediated by the nervous and hormonal systems. (The brain includes the hypothalamus.)"
       },
       "ta": {
         "q": "சமநிலை பேணலுக்கு (ஹோமியோஸ்டாசிஸ்) உதவுவன எவை?",
         "options": [
-          "எலும்புக்கூடும் தசைகளும் மட்டும்",
-          "நுரையீரல் மட்டும்",
-          "கண்களும் காதுகளும் மட்டும்",
-          "கல்லீரல், சிறுநீரகம், மூளை (ஹைப்போதலாமஸ்), தன்னாட்சி நரம்பு மண்டலம், நாளமில்லாச் சுரப்பி மண்டலம்"
+          "எலும்புக்கூடு, தசைகள், மூட்டுகள், தசைநார்கள் ஆகியவை மட்டும்",
+          "நுரையீரல், மூச்சுக்குழல், உதரவிதானம், விலா எலும்புகள் மட்டும்",
+          "கண்கள், காதுகள், பிற புலன் உறுப்புகள் மட்டும்",
+          "கல்லீரல், சிறுநீரகம், மூளை, நரம்பு, நாளமில்லாச் சுரப்பி மண்டலங்கள்"
         ],
-        "explanation": "ஒருங்கிணைப்பு, ஒருங்கிசைவுச் செயல்களை நரம்பு, ஹார்மோன் மண்டலங்கள் நிகழ்த்துகின்றன."
+        "explanation": "ஒருங்கிணைப்பு, ஒருங்கிசைவுச் செயல்களை நரம்பு, ஹார்மோன் மண்டலங்கள் நிகழ்த்துகின்றன. (மூளையிலுள்ள ஹைப்போதலாமஸ் உட்பட)"
       }
     }
   ]
