@@ -14,20 +14,20 @@
       "en": {
         "q": "A tuning fork struck on a rubber pad produces sound because",
         "options": [
-          "it becomes hot",
-          "it generates electricity",
-          "it vibrates and sets nearby molecules vibrating",
-          "it moves in a circle"
+          "it becomes very hot after the strike",
+          "it generates an electric current inside",
+          "it vibrates and makes nearby molecules vibrate",
+          "it moves in a circular path"
         ],
         "explanation": "Vibrations produce sound; touching the vibrating fork with a finger lets us feel the vibrations."
       },
       "ta": {
         "q": "ரப்பர் பட்டையில் தட்டப்பட்ட ஒலிக்கவை ஒலி உண்டாக்கக் காரணம்",
         "options": [
-          "அது சூடாவது",
-          "அது மின்சாரம் உண்டாக்குவது",
-          "அது அதிர்ந்து அருகிலுள்ள மூலக்கூறுகளை அதிரச் செய்வது",
-          "அது வட்டமாகச் சுற்றுவது"
+          "அது சூடாகி வெப்பத்தை வெளியிடுவது",
+          "அது மின்சாரத்தை உண்டாக்கி வெளியிடுவது",
+          "அது அதிர்ந்து அருகிலுள்ள மூலக்கூறுகளை அதிர்விப்பது",
+          "அது வட்டப் பாதையில் மெதுவாகச் சுற்றி வருவது"
         ],
         "explanation": "அதிர்வுகளே ஒலியை உண்டாக்குகின்றன; அதிரும் கவையை விரலால் தொட்டால் அதிர்வை உணரலாம்."
       }
@@ -83,7 +83,7 @@
         "q": "ஒலி அலையில் துகள்கள் விலகியிருக்கும் குறைந்த அழுத்தப் பகுதிகள்",
         "options": [
           "நெருக்கங்கள்",
-          "விரிவுகள் (அரிதாக்கங்கள்)",
+          "விரிவுகள்",
           "கணுக்கள்",
           "முகடுகள்"
         ],
@@ -189,9 +189,9 @@
         "q": "The unit of intensity of sound, the decibel (dB), is named in honour of",
         "options": [
           "Alexander Graham Bell",
-          "Thomas Edison",
-          "Isaac Newton",
-          "C. V. Raman"
+          "Thomas Alva Edison",
+          "Sir Isaac Newton",
+          "Sir C. V. Raman"
         ],
         "explanation": "Bell, a Scottish-born scientist, invented the telephone."
       },
@@ -199,9 +199,9 @@
         "q": "ஒலியின் செறிவு அலகான டெசிபெல் (dB) யாரின் நினைவாகப் பெயரிடப்பட்டது?",
         "options": [
           "அலெக்சாண்டர் கிரகாம் பெல்",
-          "தாமஸ் எடிசன்",
-          "ஐசக் நியூட்டன்",
-          "சி. வி. ராமன்"
+          "தாமஸ் ஆல்வா எடிசன்",
+          "சர் ஐசக் நியூட்டன்",
+          "சர் சி. வி. ராமன்"
         ],
         "explanation": "தொலைபேசியைக் கண்டறிந்த ஸ்காட்லாந்தில் பிறந்த விஞ்ஞானி பெல் நினைவாக இப்பெயர் வழங்கப்பட்டது."
       }
@@ -258,7 +258,7 @@
         "options": [
           "ஒலிச்சாயல்",
           "உரப்பு",
-          "சுருதி (pitch)",
+          "சுருதி",
           "வேகம்"
         ],
         "explanation": "சுருதி அதிர்வெண்ணைப் பொறுத்தது; அதிக அதிர்வெண் கீச்சொலியை (உயர் சுருதி) தரும்."
@@ -315,7 +315,7 @@
         "q": "எந்த ஊடகத்திலும் ஒலியின் வேகம்",
         "options": [
           "வெப்பநிலை உயர உயரக் குறையும்",
-          "ஊடகத்தின் வெப்பநிலை உயர உயர அதிகரிக்கும்",
+          "வெப்பநிலை உயர உயர அதிகரிக்கும்",
           "ஊடகத்தைச் சார்ந்ததல்ல",
           "அதிர்வெண்ணை அதிகம் சார்ந்தது"
         ],
@@ -391,20 +391,20 @@
       "en": {
         "q": "According to the 'More to Know' note, using ear phones for long hours can",
         "options": [
-          "strengthen the ear drum",
-          "improve hearing",
-          "cause infection in the inner parts of the ear and damage the ear drum",
-          "have no effect"
+          "strengthen the ear drum and the inner ear",
+          "improve hearing in the inner parts of the ear",
+          "infect the inner ear and damage the ear drum",
+          "have no effect on the ear drum or inner ear"
         ],
         "explanation": "Wearing earphones while crossing signals or travelling endangers safety; using them while sleeping is more dangerous."
       },
       "ta": {
         "q": "நீண்ட நேரம் காதொலிக்கருவிகளைப் பயன்படுத்துவதால் ஏற்படுவது",
         "options": [
-          "செவிப்பறை வலுப்பெறுதல்",
-          "கேட்கும் திறன் மேம்படுதல்",
+          "செவிப்பறையையும் உட்செவியையும் வலுப்படுத்துதல்",
+          "காதின் கேட்கும் திறனை மேம்படுத்துதல்",
           "காதின் உட்பகுதியில் தொற்றும் செவிப்பறைச் சேதமும்",
-          "எந்த விளைவும் இல்லை"
+          "செவிப்பறைக்கும் உட்செவிக்கும் எந்த விளைவும் இல்லை"
         ],
         "explanation": "சாலையைக் கடக்கும்போதும் பயணத்தின்போதும் காதொலிக்கருவி அணிவது ஆபத்தானது; தூங்கும்போது இன்னும் ஆபத்தானது."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "Megaphones, horns and musical instruments such as the nadaswaram are designed to",
         "options": [
-          "absorb sound",
-          "send sound in a particular direction by multiple reflections",
-          "convert sound to light",
-          "reduce the speed of sound"
+          "absorb sound completely and reduce echoes",
+          "send sound in one direction by reflections",
+          "convert the sound energy into light energy",
+          "reduce the speed of sound waves in air"
         ],
         "explanation": "A tube followed by a conical opening reflects sound successively to guide most of the sound waves forward towards the audience."
       },
       "ta": {
         "q": "மெகாஃபோன், ஊதுகொம்பு, நாதசுவரம் போன்ற கருவிகள் வடிவமைக்கப்பட்டிருப்பது",
         "options": [
-          "ஒலியை உறிஞ்ச",
-          "பன்முக எதிரொலிப்பால் ஒலியை ஒரு குறிப்பிட்ட திசையில் அனுப்ப",
-          "ஒலியை ஒளியாக மாற்ற",
-          "ஒலியின் வேகத்தைக் குறைக்க"
+          "ஒலியை உறிஞ்சி எதிரொலியைக் குறைக்க",
+          "பன்முக எதிரொலிப்பால் ஒலியை ஒரே திசையில் செலுத்த",
+          "ஒலியை ஒளி ஆற்றலாக மாற்ற",
+          "ஒலியின் வேகத்தைக் குறைத்து நிறுத்த"
         ],
         "explanation": "குழாயைத் தொடர்ந்த கூம்புத் திறப்பு ஒலியைத் தொடர்ந்து எதிரொலித்து முன்னோக்கிச் செலுத்துகிறது."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "To reduce reverberation in an auditorium, the roof and walls are generally covered with",
         "options": [
-          "sound-absorbing materials like fibreboard and draperies",
-          "glass panels",
-          "polished metal sheets",
-          "mirrors"
+          "sound-absorbing fibreboard and draperies",
+          "smooth glass panels and windows",
+          "polished metal sheets and tiles",
+          "hard polished marble and mirrors"
         ],
         "explanation": "The branch of physics that takes these aspects of sound into account while designing auditoria is acoustics."
       },
       "ta": {
         "q": "அரங்கத்தில் எதிர்முழக்கத்தைக் குறைக்கக் கூரையும் சுவர்களும் பொதுவாக மூடப்படுவது",
         "options": [
-          "இழைப்பலகை, திரைச்சீலை போன்ற ஒலிஉறிஞ்சும் பொருட்களால்",
-          "கண்ணாடிப் பலகைகளால்",
+          "ஒலிஉறிஞ்சும் இழைப்பலகை, திரைச்சீலைகளால்",
+          "வழவழப்பான கண்ணாடிப் பலகைகளால்",
           "மெருகேற்றிய உலோகத் தகடுகளால்",
-          "ஆடிகளால்"
+          "வழவழப்பான பளிங்குக் கற்களால்"
         ],
         "explanation": "அரங்குகளை வடிவமைக்கும்போது இவற்றை ஆராயும் இயற்பியல் பிரிவு ஒலியியல் (acoustics)."
       }
@@ -665,7 +665,7 @@
           "மின்ஒலி இதய வரைபடம்",
           "நிறமாலை வரைபடம்",
           "X-கதிர்ப் படம்",
-          "எதிரொலி ஆழ வரைவு (எக்கோகிராம்)"
+          "எக்கோகிராம்"
         ],
         "explanation": "உறுப்புகள், எலும்புகள் ஆகியவற்றிலிருந்து மீயொலி எதிரொலித்து அதன் அலைகள் கணினியில் ஆராயப்படுகின்றன."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "Bats navigate through dark caves and find insects by",
         "options": [
-          "echolocation using ultrasound",
-          "infrared vision",
-          "magnetic sensing",
-          "reverberation"
+          "echolocation by ultrasound",
+          "seeing with infrared radiation",
+          "sensing magnetic field lines",
+          "reverberation of audible sound"
         ],
         "explanation": "Dolphins and whales also emit a rapid series of underwater ultrasonic clicks to locate prey."
       },
       "ta": {
         "q": "வௌவால்கள் இருண்ட குகைகளில் செல்லவும் பூச்சிகளைக் கண்டறியவும் பயன்படுத்தும் முறை",
         "options": [
-          "மீயொலியைப் பயன்படுத்தும் எதிரொலி இடங்காணல்",
-          "அகச்சிவப்புப் பார்வை",
-          "காந்த உணர்வு",
-          "எதிர்முழக்கம்"
+          "மீயொலியால் எதிரொலி இடங்காணல்",
+          "அகச்சிவப்புக் கதிர்ப் பார்வை",
+          "காந்தப் புலத்தை உணர்தல்",
+          "ஒலியின் எதிர்முழக்கம்"
         ],
         "explanation": "டால்பின்கள், திமிங்கலங்களும் நீரினுள் மீயொலிக் கிளிக் ஒலிகளை எழுப்பி இரையைக் கண்டறிகின்றன."
       }
@@ -710,9 +710,9 @@
       "en": {
         "q": "The technique in which ultrasonic waves reflected from various parts of the heart form its image is called",
         "options": [
-          "sonic boom",
-          "ECG",
-          "SONAR",
+          "sonic boom analysis",
+          "electrocardiography",
+          "underwater SONAR",
           "echo cardiography"
         ],
         "explanation": "Ultrasound is also used to break small kidney stones into fine grains, which are flushed out with urine."
@@ -720,10 +720,10 @@
       "ta": {
         "q": "இதயத்தின் பல்வேறு பகுதிகளிலிருந்து எதிரொலிக்கும் மீயொலியால் இதயத்தின் பிம்பம் பெறும் தொழில்நுட்பம்",
         "options": [
-          "சோனிக் பூம்",
-          "ECG",
-          "சோனார்",
-          "மீயொலி இதய வரைவி (எக்கோ கார்டியோகிராபி)"
+          "சோனிக் பூம் அளவீடு",
+          "மின் இதய வரைவு (ECG)",
+          "நீருக்கடி சோனார்",
+          "எக்கோ கார்டியோகிராபி"
         ],
         "explanation": "மீயொலி சிறுநீரகக் கற்களைச் சிறுதுகள்களாக உடைக்கவும் பயன்படும்; அவை சிறுநீருடன் வெளியேறும்."
       }
@@ -884,9 +884,9 @@
       "en": {
         "q": "A sound wave of frequency 22 MHz travels in air at 20 degree C with v = 344 m s^-1. Its wavelength is about",
         "options": [
-          "15.64 mm",
-          "1.5 m",
-          "15.64 cm",
+          "15.64 millimetre",
+          "15.64 metre",
+          "15.64 centimetre",
           "15.64 micrometre"
         ],
         "explanation": "lambda = v / n = 344 / (22 x 10^6) = 15.64 x 10^-6 m = 15.64 micrometre."
@@ -894,9 +894,9 @@
       "ta": {
         "q": "20 °C-ல் காற்றில் 22 MHz அதிர்வெண் கொண்ட ஒலி அலையின் அலைநீளம் (v = 344 மீ வி^-1) ஏறத்தாழ",
         "options": [
-          "15.64 மி.மீ",
-          "1.5 மீ",
-          "15.64 செ.மீ",
+          "15.64 மில்லிமீட்டர்",
+          "15.64 மீட்டர்",
+          "15.64 சென்டிமீட்டர்",
           "15.64 மைக்ரோமீட்டர்"
         ],
         "explanation": "lambda = v / n = 344 / (22 x 10^6) = 15.64 x 10^-6 மீ = 15.64 மைக்ரோமீட்டர்."

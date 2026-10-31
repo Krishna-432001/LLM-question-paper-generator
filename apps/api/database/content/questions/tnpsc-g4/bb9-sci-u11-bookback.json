@@ -43,10 +43,10 @@
       "en": {
         "q": "According to Bohr's model, electrons revolve around the nucleus in",
         "options": [
-          "random paths",
-          "straight lines",
-          "the nucleus itself",
-          "stationary (fixed) circular orbits"
+          "random irregular paths",
+          "straight-line paths",
+          "inside the nucleus itself",
+          "stationary circular orbits"
         ],
         "explanation": "An electron revolving in an orbit neither loses nor gains energy; the book statement is true."
       },
@@ -102,8 +102,8 @@
         "q": "Which statement about the electron is correct?",
         "options": [
           "It has negligible mass and no charge",
-          "It has negligible mass (1/1837 amu) and a charge of -1",
-          "It has a charge of +1",
+          "It has negligible mass and a charge of -1",
+          "It has a charge of +1 and large mass",
           "It has the same mass as a proton"
         ],
         "explanation": "The electron's mass is 1/1837 amu but its charge is -1 (equal in magnitude to a proton's); the book statement (negligible charge) is false."
@@ -112,8 +112,8 @@
         "q": "எலக்ட்ரான் பற்றிய சரியான கூற்று",
         "options": [
           "நிறை மிகச் சிறிது; மின்சுமை இல்லை",
-          "அதன் நிறை மிகச் சிறிது (1/1837 amu); மின்சுமை -1",
-          "மின்சுமை +1",
+          "நிறை மிகச் சிறிது; மின்சுமை -1",
+          "மின்சுமை +1; நிறை பெரிது",
           "புரோட்டானின் நிறைக்குச் சமம்"
         ],
         "explanation": "எலக்ட்ரானின் நிறை மிகச் சிறிது; ஆனால் மின்சுமை -1 (புரோட்டானின் சுமைக்கு எண்மதிப்பில் சமம்); 'மின்சுமை மிகச் சிறிது' என்ற நூலின் கூற்று தவறு."
@@ -392,7 +392,7 @@
         "q": "An atom with 1 proton and mass number 2 has",
         "options": [
           "2 neutrons",
-          "1 neutron (it is deuterium)",
+          "1 neutron",
           "0 neutrons",
           "3 neutrons"
         ],
@@ -402,7 +402,7 @@
         "q": "1 புரோட்டானும் நிறை எண் 2-ம் உடைய அணுவிலுள்ள நியூட்ரான்கள்",
         "options": [
           "2",
-          "1 (இது டியூட்டீரியம்)",
+          "1",
           "0",
           "3"
         ],
@@ -449,7 +449,7 @@
       "en": {
         "q": "In the symbol 0n1 for the neutron, the superscript 1 represents the ______ and the subscript 0 represents the ______.",
         "options": [
-          "mass number; atomic number (charge = 0)",
+          "mass number; atomic number",
           "atomic number; mass",
           "number of electrons; neutrons",
           "electric charge; mass"
@@ -459,7 +459,7 @@
       "ta": {
         "q": "நியூட்ரானின் குறியீடு 0n1-ல் மேலெண் 1 குறிப்பது ______; கீழெண் 0 குறிப்பது ______.",
         "options": [
-          "நிறை எண்; அணு எண் (மின்சுமை 0)",
+          "நிறை எண்; அணு எண்",
           "அணு எண்; நிறை",
           "எலக்ட்ரான்களின் எண்ணிக்கை; நியூட்ரான்கள்",
           "மின்சுமை; நிறை"
@@ -478,20 +478,20 @@
       "en": {
         "q": "Lithium, sodium and potassium have the same",
         "options": [
-          "number of shells",
-          "number of valence electrons (one)",
-          "atomic number",
-          "mass number"
+          "number of electron shells",
+          "number of valence electrons",
+          "atomic number of the atoms",
+          "mass number of the atoms"
         ],
         "explanation": "Elements with the same number of valence electrons show similar properties; Be, Mg and Ca each have two valence electrons."
       },
       "ta": {
         "q": "லித்தியம், சோடியம், பொட்டாசியம் ஆகியவற்றில் ஒரே மாதிரியாக இருப்பது",
         "options": [
-          "கூடுகளின் எண்ணிக்கை",
-          "இணைதிறன் எலக்ட்ரான்களின் எண்ணிக்கை (ஒன்று)",
-          "அணு எண்",
-          "நிறை எண்"
+          "எலக்ட்ரான் கூடுகளின் எண்ணிக்கை",
+          "இணைதிறன் எலக்ட்ரான்களின் எண்ணிக்கை",
+          "அணுக்களின் அணு எண் மதிப்பு",
+          "அணுக்களின் நிறை எண் மதிப்பு"
         ],
         "explanation": "ஒரே எண்ணிக்கை இணைதிறன் எலக்ட்ரான்கள் கொண்ட தனிமங்கள் ஒத்த பண்புகளைக் காட்டும்; Be, Mg, Ca ஆகியவற்றுக்கு இரண்டு."
       }
@@ -594,10 +594,10 @@
       "en": {
         "q": "According to Gay Lussac's law, when gases react together, the volumes of the reacting gases (and gaseous products) bear a",
         "options": [
-          "different ratio at every pressure",
+          "different ratio at every temperature and pressure",
           "simple whole-number ratio at the same temperature and pressure",
-          "ratio equal to their masses",
-          "ratio equal to their densities"
+          "ratio equal to the ratio of their masses",
+          "ratio equal to the ratio of their densities"
         ],
         "explanation": "One volume of hydrogen reacts with one volume of chlorine to give two volumes of hydrogen chloride: ratio 1 : 1 : 2."
       },
@@ -624,19 +624,19 @@
         "q": "According to Bohr's atomic model, an electron can move to a higher or lower energy shell by",
         "options": [
           "absorbing or releasing a fixed amount of energy",
-          "losing a proton",
-          "changing its charge",
-          "gaining a neutron"
+          "losing one proton from the nucleus",
+          "changing its electric charge at will",
+          "gaining a neutron from the nucleus"
         ],
         "explanation": "In the stationary orbit an electron neither loses nor gains energy; the shells are called K, L, M, N or n = 1, 2, 3, 4."
       },
       "ta": {
         "q": "போர் அணு மாதிரிப்படி எலக்ட்ரான் உயர் அல்லது தாழ் ஆற்றல் கூட்டிற்குச் செல்வது",
         "options": [
-          "நிலையான அளவு ஆற்றலை ஏற்பதன் அல்லது வெளியிடுவதன் மூலம்",
-          "புரோட்டானை இழப்பதன் மூலம்",
-          "மின்சுமையை மாற்றுவதன் மூலம்",
-          "நியூட்ரானைப் பெறுவதன் மூலம்"
+          "குறிப்பிட்ட அளவு ஆற்றலை ஏற்பதன் அல்லது வெளியிடுவதன் மூலம்",
+          "உட்கருவிலிருந்து ஒரு புரோட்டானை இழப்பதன் மூலம்",
+          "தன் மின்சுமையைத் தானாக மாற்றிக்கொள்வதன் மூலம்",
+          "உட்கருவிலிருந்து நியூட்ரானைப் பெறுவதன் மூலம்"
         ],
         "explanation": "நிலையான வட்டப்பாதையில் எலக்ட்ரான் ஆற்றலை இழப்பதுமில்லை பெறுவதுமில்லை; கூடுகள் K, L, M, N அல்லது n = 1, 2, 3, 4."
       }

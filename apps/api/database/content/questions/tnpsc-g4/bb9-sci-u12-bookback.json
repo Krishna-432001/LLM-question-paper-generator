@@ -73,7 +73,7 @@
         "q": "In Dobereiner's triads, the atomic mass of the middle element is nearly the ______ of the atomic masses of the 1st and 3rd elements.",
         "options": [
           "sum",
-          "average (arithmetic mean)",
+          "average",
           "difference",
           "product"
         ],
@@ -285,10 +285,10 @@
       "ta": {
         "q": "உலோகக் கலவைகள் என்பவை",
         "options": [
-          "இரண்டு அல்லது அதற்கு மேற்பட்ட உலோகங்களின் கலவைகள்",
-          "தூய அலோகங்கள்",
+          "இரு அல்லது பல உலோகங்களின் கலவைகள்",
+          "தூய அலோகங்களின் கலவைகள் மட்டும்",
           "உலோகங்கள், அலோகங்களின் சேர்மங்கள்",
-          "வாயுக்கள்"
+          "அறைவெப்பநிலையில் உள்ள வாயுக்கள்"
         ],
         "explanation": "உலோகக் கலவை உலோகங்களின் கலவை (அரிதாக அலோகமும் கலக்கப்படும்); 'உலோக, அலோகப் பண்புகள் கொண்டவை' என்ற நூலின் கூற்று தவறு."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "Lanthanides and actinides are kept at the bottom of the periodic table because",
         "options": [
-          "they are very heavy",
-          "they resemble each other but do not resemble the elements of any other group",
-          "they are gases",
-          "they are not elements"
+          "they are much heavier than other elements",
+          "they resemble one another but no other group",
+          "they are all gases at room temperature",
+          "they are not elements at all but compounds"
         ],
         "explanation": "They are the f-block elements, also called inner transition elements."
       },
       "ta": {
         "q": "லாந்தனைடுகளும் ஆக்டினைடுகளும் அட்டவணையின் அடியில் வைக்கப்படக் காரணம்",
         "options": [
-          "அவை மிகக் கனமானவை",
-          "அவை தம்முள் ஒத்தவை; மற்ற தொகுதித் தனிமங்களை ஒத்திருப்பதில்லை",
-          "அவை வாயுக்கள்",
-          "அவை தனிமங்கள் அல்ல"
+          "அவை மற்ற தனிமங்களை விட மிகக் கனமானவை",
+          "அவை தம்முள் ஒத்தவை; வேறு தொகுதியை ஒத்தவை அல்ல",
+          "அவை அனைத்தும் அறைவெப்பநிலையில் வாயுக்கள்",
+          "அவை தனிமங்கள் அல்ல; வெறும் சேர்மங்களே ஆகும்"
         ],
         "explanation": "இவை f-தொகுதித் தனிமங்கள்; உள் இடைநிலைத் தனிமங்கள் எனவும் அழைக்கப்படுகின்றன."
       }
@@ -392,7 +392,7 @@
         "q": "The modern periodic law states that",
         "options": [
           "the properties of elements are periodic functions of their atomic masses",
-          "the chemical and physical properties of the elements are the periodic functions of their atomic numbers",
+          "the properties of elements are periodic functions of their atomic numbers",
           "every eighth element has similar properties",
           "the middle element's mass is the mean of the other two"
         ],
@@ -402,7 +402,7 @@
         "q": "நவீன ஆவர்த்தன விதி கூறுவது",
         "options": [
           "தனிமங்களின் பண்புகள் அணு நிறைகளின் ஆவர்த்தனச் சார்புகள்",
-          "தனிமங்களின் வேதி, இயற்பியல் பண்புகள் அவற்றின் அணு எண்களின் ஆவர்த்தனச் சார்புகள்",
+          "தனிமங்களின் பண்புகள் அவற்றின் அணு எண்களின் ஆவர்த்தனச் சார்புகள்",
           "ஒவ்வோர் எட்டாவது தனிமமும் ஒத்த பண்புகளைப் பெற்றிருக்கும்",
           "நடுத் தனிமத்தின் நிறை மற்ற இரண்டின் சராசரி"
         ],
@@ -459,10 +459,10 @@
       "ta": {
         "q": "நவீன தனிம வரிசை அட்டவணையின் சிறப்பியல்புகளுள் ஒன்று",
         "options": [
-          "தனிமங்கள் அணு நிறையின் ஏறுவரிசையில் உள்ளன",
+          "தனிமங்கள் அணு நிறையின் ஏறுவரிசையில் அமைந்துள்ளன",
           "A, B துணைத் தொகுதிகளுடன் எட்டுத் தொகுதிகள் உள்ளன",
-          "ஐசோடோப்புகள் வெவ்வேறு இடங்களில் உள்ளன",
-          "அணுக்களிலுள்ள கூடுகளின் எண்ணிக்கையின் அடிப்படையில் தனிமங்கள் தொடர்களில் இடப்பட்டுள்ளன"
+          "ஐசோடோப்புகள் வெவ்வேறு இடங்களில் வைக்கப்பட்டுள்ளன",
+          "கூடுகளின் எண்ணிக்கைப்படி தனிமங்கள் தொடர்களில் உள்ளன"
         ],
         "explanation": "எல்லாத் தனிமங்களும் அணு எண்ணின் ஏறுவரிசையில்; 7 தொடர்கள், 18 தொகுதிகள்; துணைத் தொகுதிக் கருத்து நீக்கப்பட்டுள்ளது."
       }

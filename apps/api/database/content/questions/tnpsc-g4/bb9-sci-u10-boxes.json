@@ -218,7 +218,7 @@
         "q": "On heating a mixture of iron filings and sulphur we get a black brittle compound called",
         "options": [
           "iron oxide",
-          "iron(II) sulphide",
+          "iron sulphide",
           "sulphur dioxide",
           "iron chloride"
         ],
@@ -228,7 +228,7 @@
         "q": "இரும்புத் தூளையும் கந்தகத்தையும் கலந்து சூடாக்கும்போது கிடைக்கும் கருப்பு நொறுங்கும் சேர்மம்",
         "options": [
           "இரும்பு ஆக்சைடு",
-          "இரும்பு(II) சல்பைடு",
+          "இரும்பு சல்பைடு",
           "கந்தக டை ஆக்சைடு",
           "இரும்பு குளோரைடு"
         ],
@@ -275,20 +275,20 @@
       "en": {
         "q": "Blood is",
         "options": [
-          "a pure substance",
-          "a mixture of platelets, red and white blood corpuscles and plasma",
-          "an element",
-          "a compound of iron"
+          "a pure chemical substance",
+          "a mixture of cells and plasma",
+          "a single chemical element",
+          "a pure compound of iron alone"
         ],
         "explanation": "Blood is not a pure substance."
       },
       "ta": {
         "q": "இரத்தம் என்பது",
         "options": [
-          "தூய பொருள்",
-          "இரத்தத் தட்டுகள், சிவப்பு, வெள்ளை அணுக்கள், பிளாஸ்மா ஆகியவற்றின் கலவை",
-          "தனிமம்",
-          "இரும்பின் சேர்மம்"
+          "ஒரே கூறு கொண்ட ஒரு தூய பொருள்",
+          "இரத்தச் செல்களும் பிளாஸ்மாவும் கலந்த கலவை",
+          "ஒரே வகை அணுக்கொண்ட ஒரு தனிமம்",
+          "இரும்பால் மட்டுமான ஒரு சேர்மம்"
         ],
         "explanation": "இரத்தம் ஒரு தூய பொருள் அல்ல."
       }
@@ -307,17 +307,17 @@
           "a compound",
           "an element",
           "a pure substance",
-          "a mixture (alloy)"
+          "a mixture"
         ],
         "explanation": "Alloys are mixtures of metals."
       },
       "ta": {
         "q": "ஏறத்தாழ 30% துத்தநாகமும் 70% செம்பும் கொண்ட பித்தளை ஒரு",
         "options": [
-          "சேர்மம்",
-          "தனிமம்",
-          "தூய பொருள்",
-          "கலவை (உலோகக் கலவை)"
+          "ஒரு சேர்மம்",
+          "ஒரு தனிமம்",
+          "ஒரு தூய பொருள்",
+          "ஒரு கலவை"
         ],
         "explanation": "உலோகக் கலவைகள் உலோகங்களின் கலவைகளே."
       }
@@ -403,7 +403,7 @@
         "options": [
           "தூற்றுதல்",
           "சாய்த்து வடித்தல்",
-          "வண்ணப்பிரிகை (குரோமட்டோகிராபி)",
+          "வண்ணப்பிரிகை",
           "சலித்தல்"
         ],
         "explanation": "ஒரே கரைப்பானில் வெவ்வேறு கரைதிறன் கொண்ட கூறுகளை வண்ணப்பிரிகை பிரிக்கும்."
@@ -449,7 +449,7 @@
       "en": {
         "q": "Solvent extraction works on the principle of difference in",
         "options": [
-          "solubility of two immiscible liquids in a suitable solvent",
+          "solubility of two immiscible liquids in a solvent",
           "boiling points of two miscible liquids",
           "magnetic properties",
           "particle size only"
@@ -478,20 +478,20 @@
       "en": {
         "q": "A chalk stick dipped in ink is white from inside when broken because the",
         "options": [
-          "ink does not touch the chalk",
-          "chalk reflects all colour",
-          "ink evaporates fully",
-          "colour is adsorbed on the surface while the solvent is absorbed deeper"
+          "ink does not reach the inside of the chalk stick",
+          "chalk reflects all the colours of the ink",
+          "ink turns white as it dries inside the chalk",
+          "ink colour stays on the surface while the solvent soaks in"
         ],
         "explanation": "The surface retains the colour due to adsorption of coloured molecules; the solvent goes deeper by absorption."
       },
       "ta": {
         "q": "மையில் தோய்த்த சுண்ணக்கட்டியை உடைத்தால் உள்ளே வெண்மையாக இருக்கக் காரணம்",
         "options": [
-          "மை சுண்ணக்கட்டியைத் தொடாதது",
-          "சுண்ணம் எல்லா நிறங்களையும் எதிரொளிப்பது",
-          "மை முழுவதும் ஆவியாவது",
-          "நிறம் மேற்பரப்பில் பரப்புக் கவரப்படுவதும் கரைப்பான் உள்ளே உறிஞ்சப்படுவதும்"
+          "மை சுண்ணக்கட்டியின் உட்பகுதியை அடையாததால்",
+          "சுண்ணக்கட்டி மையின் எல்லா நிறங்களையும் எதிரொளிப்பதால்",
+          "மை சுண்ணக்கட்டிக்குள் உலரும்போது வெண்மையாக மாறுவதால்",
+          "நிறம் மேற்பரப்பில் தங்க, கரைப்பான் உள்ளே ஊடுருவுவதால்"
         ],
         "explanation": "நிறமூலக்கூறுகள் மேற்பரப்பில் பரப்புக் கவரப்படுகின்றன; கரைப்பான் உள்ளே உறிஞ்சப்படுகிறது."
       }
@@ -565,10 +565,10 @@
       "en": {
         "q": "A colloidal solution is a heterogeneous system consisting of a",
         "options": [
-          "solute and solvent only",
-          "solid and solid only",
+          "solute and solvent particles only",
+          "solid and solid phases only",
           "dispersed phase and a dispersion medium",
-          "gas and gas only"
+          "gas and gas phases only"
         ],
         "explanation": "The combination of gas in gas is not possible because gas in gas always forms a true solution."
       },
@@ -595,9 +595,9 @@
         "q": "The Tyndall effect, in which the path of a light beam becomes visible, is shown by",
         "options": [
           "colloidal solutions but not true solutions",
-          "true solutions only",
-          "pure elements only",
-          "no mixture"
+          "true solutions of salt in water only",
+          "pure elements and pure compounds only",
+          "no mixture of any kind at all"
         ],
         "explanation": "The illuminated path is called the Tyndall cone."
       },
@@ -605,9 +605,9 @@
         "q": "ஒளிக்கற்றையின் பாதை தெரியும் டிண்டால் விளைவைக் காட்டுவது",
         "options": [
           "கூழ்மக் கரைசல்கள்; உண்மைக் கரைசல்கள் அல்ல",
-          "உண்மைக் கரைசல்கள் மட்டும்",
-          "தூய தனிமங்கள் மட்டும்",
-          "எந்தக் கலவையும் அல்ல"
+          "உப்பு நீர் போன்ற உண்மைக் கரைசல்கள் மட்டும்",
+          "தூய தனிமங்கள், தூய சேர்மங்கள் மட்டும்",
+          "எந்தவகைக் கலவையும் இதைக் காட்டாது"
         ],
         "explanation": "ஒளிரும் பாதை டிண்டால் கூம்பு எனப்படும்."
       }
@@ -807,10 +807,10 @@
       "ta": {
         "q": "ஈரச் சாலையில் எண்ணெய் சிந்தினால் வண்ணப் படலம் உண்டாகக் காரணம், எண்ணெய்",
         "options": [
-          "வாயுவாக மாறுவது",
-          "நீரில் முழுவதும் கரைவது",
-          "நீரின் அடியில் மூழ்குவது",
-          "நீரின் மேல் மிதந்து மெல்லிய படலமாகப் பரவுவது"
+          "வாயுவாக மாறிக் காற்றில் கலந்து மறைவது",
+          "நீரில் முழுவதும் கரைந்து தெளிவாவது",
+          "நீரின் அடியில் மூழ்கித் தங்கிவிடுவது",
+          "நீர்மேல் மிதந்து மெல்லிய படலமாகப் பரவுவது"
         ],
         "explanation": "எண்ணெய் நீரில் கலவாது; அடர்த்தி குறைவு; எனவே மிதந்து மெல்லிய படலமாகப் பரவுகிறது."
       }

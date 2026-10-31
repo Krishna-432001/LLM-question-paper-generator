@@ -169,7 +169,7 @@
       "ta": {
         "q": "இறந்த கரிமப் பொருள்களில் வாழும் பூஞ்சைகள்",
         "options": [
-          "அழுகுண்ணிகள் (சாப்ரோஃபைட்டுகள்)",
+          "அழுகுண்ணிகள்",
           "தற்சார்பு உயிரிகள்",
           "ஒட்டுண்ணிகள்",
           "கூட்டுயிர்கள்"
@@ -188,20 +188,20 @@
       "en": {
         "q": "In fungi, food material is stored in the form of",
         "options": [
-          "starch",
+          "starch in the cells",
           "glycogen or oil globules",
-          "chlorophyll",
-          "cellulose"
+          "chlorophyll pigment",
+          "cellulose in cell walls"
         ],
         "explanation": "The fungal cell wall is made up of cellulose or chitin."
       },
       "ta": {
         "q": "பூஞ்சைகளில் உணவு சேமிக்கப்படுவது",
         "options": [
-          "ஸ்டார்ச்சாக",
-          "கிளைகோஜன் அல்லது எண்ணெய்த் துளிகளாக",
-          "பச்சையமாக",
-          "செல்லுலோசாக"
+          "செல்களில் ஸ்டார்ச் மணிகளாக",
+          "கிளைகோஜனாக அல்லது எண்ணெய்த் துளியாக",
+          "பச்சைய நிறமிகளாக செல்களில்",
+          "செல் சுவரில் செல்லுலோஸ் இழைகளாக"
         ],
         "explanation": "பூஞ்சையின் செல் சுவர் செல்லுலோஸ் அல்லது கைட்டினால் ஆனது."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "Prions cause",
         "options": [
-          "rashes on the skin",
-          "jaundice",
-          "degeneration of nervous tissue by changing normal proteins",
-          "joint pains"
+          "rashes on the skin surface",
+          "jaundice of the liver",
+          "degeneration of nervous tissue",
+          "joint pains in the knees"
         ],
         "explanation": "Prions are infectious, smaller than viruses and found in neurons."
       },
       "ta": {
         "q": "பிரியான்கள் ஏற்படுத்துவது",
         "options": [
-          "தோல் தடிப்புகளை",
-          "மஞ்சள் காமாலையை",
-          "இயல்பான புரதங்களை மாற்றி நரம்புத் திசுச் சிதைவை",
-          "மூட்டு வலியை"
+          "தோலில் தடிப்புகளை",
+          "கல்லீரலில் மஞ்சள் காமாலையை",
+          "நரம்புத் திசுச் சிதைவை",
+          "முழங்கால் மூட்டு வலியை"
         ],
         "explanation": "பிரியான்கள் தொற்றும் தன்மையுடையவை; வைரஸ்களை விடச் சிறியவை; நியூரான்களில் காணப்படுபவை."
       }
@@ -334,9 +334,9 @@
         "q": "Vaccines stimulate the body to produce",
         "options": [
           "antibodies against the antigen",
-          "antibiotics",
-          "toxins",
-          "vitamins"
+          "antibiotics against bacteria",
+          "toxins inside the blood",
+          "vitamins from the vaccine"
         ],
         "explanation": "The microbes used are killed or attenuated and cannot cause disease."
       },
@@ -344,8 +344,8 @@
         "q": "தடுப்பூசிகள் உடலைத் தூண்டுவது",
         "options": [
           "ஆன்டிஜெனுக்கு எதிரான எதிர்ப்பொருள்களை உருவாக்க",
-          "நுண்ணுயிர்க்கொல்லிகளை உருவாக்க",
-          "நச்சுகளை உருவாக்க",
+          "பாக்டீரியாவுக்கு எதிரான நுண்ணுயிர்க்கொல்லிகளை உருவாக்க",
+          "உடலுக்குள் நச்சுகளை உருவாக்க",
           "வைட்டமின்களை உருவாக்க"
         ],
         "explanation": "பயன்படுத்தப்படும் நுண்ணுயிர்கள் இறந்தவை அல்லது வலுவிழந்தவை; நோயை உண்டாக்குவதில்லை."
@@ -478,10 +478,10 @@
       "en": {
         "q": "Pathogens cause disease mainly by",
         "options": [
-          "photosynthesis",
-          "nitrogen fixation",
+          "photosynthesis in the host",
+          "nitrogen fixation in soil",
           "tissue damage and toxin secretion",
-          "producing antibodies"
+          "producing antibodies in blood"
         ],
         "explanation": "For example, the TB bacterium damages lung cells and the hepatitis virus destroys liver tissue."
       },
@@ -594,9 +594,9 @@
       "en": {
         "q": "Malaria is caused by a",
         "options": [
-          "virus",
-          "bacterium",
-          "fungus",
+          "virus transmitted by mosquitoes",
+          "bacterium living in the blood",
+          "fungus growing on the skin",
           "protozoan parasite, Plasmodium"
         ],
         "explanation": "It spreads through the bite of the female Anopheles mosquito; fever subsides with profuse sweating."
@@ -604,10 +604,10 @@
       "ta": {
         "q": "மலேரியாவை ஏற்படுத்துவது",
         "options": [
-          "வைரஸ்",
-          "பாக்டீரியம்",
-          "பூஞ்சை",
-          "பிளாஸ்மோடியம் எனும் புரோட்டோசோவா ஒட்டுண்ணி"
+          "கொசுக்களால் மட்டுமே பரவும் வைரஸ்",
+          "இரத்தத்தில் வாழும் ஒரு பாக்டீரியம்",
+          "தோலின் மேல் வளரும் ஒரு பூஞ்சை",
+          "பிளாஸ்மோடியம் எனும் புரோட்டோசோவா"
         ],
         "explanation": "பெண் அனோஃபலஸ் கொசுக் கடியால் பரவுகிறது; அதிக வியர்வையுடன் காய்ச்சல் தணியும்."
       }
@@ -662,10 +662,10 @@
       "ta": {
         "q": "டெங்கு வேறு எப்பெயரால் அழைக்கப்படுகிறது?",
         "options": [
-          "கக்குவான் இருமல்",
-          "மஞ்சள் காய்ச்சல்",
-          "யானைக்கால்",
-          "எலும்புமுறிவுக் காய்ச்சல் (பிரேக் போன் ஃபீவர்)"
+          "கக்குவான் இருமல் நோய்",
+          "மஞ்சள் காய்ச்சல் நோய்",
+          "யானைக்கால் நோய்",
+          "எலும்புமுறிவுக் காய்ச்சல்"
         ],
         "explanation": "கடுமையான மூட்டு, தசை வலியால் இப்பெயர்; இரத்தத் தட்டுகள் குறையும்."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "Which herbal drink is given to dengue patients to increase the blood platelet count?",
         "options": [
-          "Triphala",
-          "Aloe juice",
+          "Triphala powder",
+          "Aloe vera juice",
           "Nilavembu Kudineer",
-          "Tulsi tea"
+          "Tulsi leaf tea"
         ],
         "explanation": "Extract of tender papaya leaves is also given (source: AYUSH)."
       },
       "ta": {
         "q": "டெங்கு நோயாளிகளுக்கு இரத்தத் தட்டுகளை அதிகரிக்க அளிக்கப்படும் மூலிகைப் பானம்",
         "options": [
-          "திரிபலா",
-          "கற்றாழைச் சாறு",
+          "திரிபலா சூரணம்",
+          "கற்றாழைச் சாற்றுப் பானம்",
           "நிலவேம்புக் குடிநீர்",
-          "துளசித் தேநீர்"
+          "துளசி இலைத் தேநீர்"
         ],
         "explanation": "இளம் பப்பாளி இலைச் சாறும் அளிக்கப்படுகிறது (ஆதாரம்: ஆயுஷ்)."
       }
@@ -739,9 +739,9 @@
       "en": {
         "q": "Mosquito larvae in stagnant water bodies are controlled by",
         "options": [
-          "adding salt",
-          "adding sugar",
-          "warming the water",
+          "adding salt to the water",
+          "adding sugar to the water",
+          "warming the water slowly",
           "spraying oil on the water"
         ],
         "explanation": "Adult mosquitoes can be killed by spraying insecticides; collection of water in uncovered containers should be avoided."
@@ -797,20 +797,20 @@
       "en": {
         "q": "Which of the following is a preventive measure for swine flu?",
         "options": [
-          "Avoiding close contact with a person suffering from flu and washing hands",
-          "Eating adulterated food",
-          "Sharing needles",
-          "Drinking unboiled water"
+          "Avoiding contact with flu patients and washing hands",
+          "Eating adulterated food from street stalls",
+          "Sharing needles and syringes with others",
+          "Drinking unboiled water from open ponds"
         ],
         "explanation": "Intake of water and fruit juices prevents dehydration; plenty of rest helps the body fight infection."
       },
       "ta": {
         "q": "பன்றிக் காய்ச்சலைத் தடுக்கும் நடவடிக்கை எது?",
         "options": [
-          "காய்ச்சலுள்ளவரோடு நெருங்கிப் பழகுவதைத் தவிர்த்து கை கழுவுதல்",
-          "கலப்பட உணவை உண்ணுதல்",
-          "ஊசிகளைப் பகிர்தல்",
-          "கொதிக்க வைக்காத நீரைக் குடித்தல்"
+          "காய்ச்சல் நோயாளிகளுடன் பழகுவதைத் தவிர்த்துக் கை கழுவுதல்",
+          "தெருவோரக் கடைகளில் கலப்பட உணவை உண்ணுதல்",
+          "பிறருடன் ஊசிகளையும் குழாய்களையும் பகிர்தல்",
+          "குளத்து நீரைக் கொதிக்க வைக்காமல் குடித்தல்"
         ],
         "explanation": "நீரும் பழச்சாறும் நீர்வறட்சியைத் தடுக்கும்; ஓய்வு உடலுக்குத் தொற்றை எதிர்க்க உதவும்."
       }
@@ -857,7 +857,7 @@
         "options": [
           "HBV",
           "H1N1",
-          "HIV (Human Immunodeficiency Virus)",
+          "HIV",
           "HPV"
         ],
         "explanation": "The virus attacks lymphocytes and weakens the body's immunity or self-defence mechanism."
@@ -867,7 +867,7 @@
         "options": [
           "HBV",
           "H1N1",
-          "HIV (மனித நோய் எதிர்ப்புக் குறைவு வைரஸ்)",
+          "HIV",
           "HPV"
         ],
         "explanation": "இவ்வைரஸ் நிணநீர்ச் செல்களைத் தாக்கி உடலின் நோய் எதிர்ப்பாற்றலைக் குறைக்கிறது."
@@ -913,20 +913,20 @@
       "en": {
         "q": "Hepatitis B virus (HBV) damages the",
         "options": [
-          "lungs",
-          "kidney",
-          "brain",
-          "liver cells, causing inflammation and cirrhosis"
+          "lung tissue",
+          "kidney cells",
+          "brain cells",
+          "liver cells"
         ],
         "explanation": "It is transferred from an infected mother to babies and by sexual contact or secretions such as saliva, sweat, tears, breast milk and blood."
       },
       "ta": {
         "q": "ஹெபடைடிஸ் B வைரஸ் (HBV) பாதிப்பது",
         "options": [
-          "நுரையீரலை",
-          "சிறுநீரகத்தை",
-          "மூளையை",
-          "கல்லீரல் செல்களை; அழற்சி, சுருக்கத்தை உண்டாக்கி"
+          "நுரையீரல் செல்களை",
+          "சிறுநீரக செல்களை",
+          "மூளை நரம்பு செல்களை",
+          "கல்லீரல் செல்களை"
         ],
         "explanation": "பாதிக்கப்பட்ட தாயிடமிருந்து குழந்தைக்கும், பாலுறவு, உமிழ்நீர், வியர்வை, கண்ணீர், தாய்ப்பால், இரத்தம் மூலமும் பரவுகிறது."
       }

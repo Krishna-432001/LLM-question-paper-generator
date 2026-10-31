@@ -15,7 +15,7 @@
         "q": "A chemical bond is best defined as",
         "options": [
           "the repulsion between nuclei of two atoms",
-          "the force of attraction between atoms that binds them into a molecule",
+          "the force of attraction that binds atoms in a molecule",
           "the force between two molecules",
           "the energy released by a nucleus"
         ],
@@ -217,9 +217,9 @@
       "en": {
         "q": "How are dots placed around a symbol in a Lewis dot structure?",
         "options": [
-          "All dots on a single side",
-          "Two dots on one side first",
-          "One dot to each of the four sides first, then pairing up",
+          "All the dots placed together on a single side",
+          "Two dots on one side first, then the next side",
+          "One dot on each of four sides first, then pairing",
           "Dots are not placed around the symbol"
         ],
         "explanation": "Dots are first placed singly on each of the four sides and then paired; the exact placement of single dots is immaterial."
@@ -227,10 +227,10 @@
       "ta": {
         "q": "லூயிஸ் புள்ளி அமைப்பில் குறியீட்டைச் சுற்றிப் புள்ளிகள் எவ்வாறு இடப்படுகின்றன?",
         "options": [
-          "அனைத்துப் புள்ளிகளும் ஒரே பக்கத்தில்",
-          "முதலில் ஒரு பக்கத்தில் இரண்டு புள்ளிகள்",
-          "முதலில் நான்கு பக்கங்களிலும் ஒவ்வொரு புள்ளியாக, பின்னர் இணையாக",
-          "புள்ளிகள் இடப்படுவதில்லை"
+          "அனைத்துப் புள்ளிகளையும் ஒரே பக்கத்தில் சேர்த்து இடுவது",
+          "முதலில் ஒரு பக்கத்தில் இரண்டு புள்ளிகள் இடுவது",
+          "முதலில் நான்கு பக்கத்திலும் ஒவ்வொரு புள்ளி, பின் இணையாக",
+          "புள்ளிகள் இடப்படுவதே இல்லை"
         ],
         "explanation": "நான்கு பக்கங்களிலும் தனித்தனியாகப் புள்ளியிட்ட பிறகே இணையாக இடப்படும்; தனிப் புள்ளிகளின் இடம் முக்கியமல்ல."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "Which elements form ionic compounds when they react with non-metals?",
         "options": [
-          "Noble gases",
-          "Halogens with halogens",
-          "Group 14 elements only",
-          "Alkali and alkaline earth metals (Groups 1 and 2)"
+          "Noble gases of Group 18",
+          "Halogens with other halogens",
+          "Carbon-family elements only",
+          "Alkali and alkaline earth metals"
         ],
         "explanation": "Group 1 and 2 metals lose electrons easily and form ionic compounds with non-metals."
       },
       "ta": {
         "q": "அலோகங்களுடன் வினைபுரியும்போது அயனிச் சேர்மங்களை உருவாக்கும் தனிமங்கள்",
         "options": [
-          "மந்த வாயுக்கள்",
+          "தொகுதி 18-இன் மந்த வாயுக்கள்",
           "ஹேலஜன்களுடன் ஹேலஜன்கள்",
           "தொகுதி 14 தனிமங்கள் மட்டும்",
-          "காரலோகங்களும் காரமண் உலோகங்களும் (தொகுதி 1, 2)"
+          "காரலோகங்களும் காரமண் உலோகங்களும்"
         ],
         "explanation": "தொகுதி 1, 2 உலோகங்கள் எளிதில் எலக்ட்ரான்களை இழந்து அலோகங்களுடன் அயனிச் சேர்மங்களை உருவாக்கும்."
       }
@@ -420,10 +420,10 @@
       "en": {
         "q": "Which covalent substances are exceptions with very high melting points?",
         "options": [
-          "Methane and ethane",
-          "Water and ammonia",
+          "Methane and butane gases",
+          "Water and liquid ammonia",
           "Diamond and silicon carbide",
-          "Oxygen and nitrogen"
+          "Oxygen and nitrogen gases"
         ],
         "explanation": "Most covalent compounds have low melting points, except a few like diamond and silicon carbide."
       },
@@ -565,7 +565,7 @@
       "en": {
         "q": "In a coordinate covalent bond A→B, which atom is the donor?",
         "options": [
-          "A, because the arrow points from the donor to the acceptor",
+          "A, because the arrow starts at the donor",
           "B, because it accepts the electron pair",
           "Both A and B",
           "Neither; no pair is shared"
@@ -575,7 +575,7 @@
       "ta": {
         "q": "ஈதல் சகப்பிணைப்பு A→B இல் ஈனி அணு எது?",
         "options": [
-          "A; அம்புக்குறி ஈனியிலிருந்து ஏற்பியை நோக்கிச் செல்லும்",
+          "A; அம்புக்குறி ஈனியிலிருந்து தொடங்கும்",
           "B; அது எலக்ட்ரான் இணையை ஏற்கிறது",
           "A, B இரண்டும்",
           "எதுவும் இல்லை"
@@ -750,7 +750,7 @@
         "q": "நீண்ட நேரம் திறந்து வைக்கப்பட்ட உணவுப் பொருள்கள் ஆக்ஸிஜனேற்றம் அடைந்து கெடுவது",
         "options": [
           "அரிமானம்",
-          "உணவு கெட்டுப்போதல் (ரான்சிடிட்டி)",
+          "உணவு கெட்டுப்போதல்",
           "உலோகங்கள் பழுப்பாதல்",
           "நாகமுலாம் பூசுதல்"
         ],

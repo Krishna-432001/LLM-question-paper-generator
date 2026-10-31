@@ -363,7 +363,7 @@
         "q": "Noble gases are inert because",
         "options": [
           "they have only one valence electron",
-          "their valence shells are completely filled, giving stable configurations",
+          "their valence shells are completely filled",
           "they have seven valence electrons",
           "they form many ionic compounds easily"
         ],
@@ -373,7 +373,7 @@
         "q": "மந்த வாயுக்கள் வினைபுரியாமல் இருப்பதற்குக் காரணம்",
         "options": [
           "ஒரே ஒரு இணைதிறன் எலக்ட்ரான் இருப்பது",
-          "அவற்றின் வெளிக்கூடு முழுமையாக நிரம்பி நிலைத்த அமைப்பைப் பெற்றிருப்பது",
+          "அவற்றின் வெளிக்கூடு முழுமையாக நிரம்பியிருப்பது",
           "ஏழு இணைதிறன் எலக்ட்ரான்கள் இருப்பது",
           "அவை எளிதில் பல அயனிச் சேர்மங்களை உருவாக்குவது"
         ],
@@ -392,9 +392,9 @@
         "q": "Atoms attain a noble gas electronic configuration by",
         "options": [
           "losing, gaining or sharing valence electrons",
-          "gaining neutrons",
-          "losing protons from the nucleus",
-          "absorbing light only"
+          "gaining extra neutrons in the nucleus",
+          "losing protons from their nucleus",
+          "absorbing light energy from the Sun only"
         ],
         "explanation": "Atoms transfer valence electrons (ionic bond) or share them (covalent bond) to get a stable outer shell of eight electrons."
       },
@@ -402,9 +402,9 @@
         "q": "அணுக்கள் மந்த வாயுக்களின் எலக்ட்ரான் அமைப்பை அடைவது",
         "options": [
           "இணைதிறன் எலக்ட்ரான்களை இழந்தோ ஏற்றோ பங்கீடு செய்தோ",
-          "நியூட்ரான்களை ஏற்று",
-          "உட்கருவிலுள்ள புரோட்டான்களை இழந்து",
-          "ஒளியை உறிஞ்சுவதன் மூலம் மட்டும்"
+          "உட்கருவில் கூடுதல் நியூட்ரான்களை ஏற்று",
+          "உட்கருவிலுள்ள புரோட்டான்களை முற்றிலும் இழந்து",
+          "சூரிய ஒளி ஆற்றலை உறிஞ்சுவதன் மூலம் மட்டும்"
         ],
         "explanation": "எலக்ட்ரான்களை மாற்றுவதன் மூலம் (அயனிப்பிணைப்பு) அல்லது பங்கீடு செய்வதன் மூலம் (சகப்பிணைப்பு) எட்டு எலக்ட்ரான் நிலையான அமைப்பை அடைகின்றன."
       }
@@ -565,7 +565,7 @@
       "en": {
         "q": "In the formation of a carbon dioxide (CO2) molecule, carbon shares electrons with each oxygen atom through",
         "options": [
-          "a double bond (two shared pairs)",
+          "a double bond",
           "a single bond",
           "a triple bond",
           "an ionic bond"
@@ -575,7 +575,7 @@
       "ta": {
         "q": "கார்பன் டைஆக்ஸைடு (CO2) மூலக்கூறு உருவாகும்போது கார்பன் ஒவ்வோர் ஆக்ஸிஜன் அணுவுடனும் உருவாக்கும் பிணைப்பு",
         "options": [
-          "இரட்டைப் பிணைப்பு (இரண்டு இணை எலக்ட்ரான் பங்கீடு)",
+          "இரட்டைப் பிணைப்பு",
           "ஒற்றைப் பிணைப்பு",
           "மும்மைப் பிணைப்பு",
           "அயனிப்பிணைப்பு"
@@ -623,20 +623,20 @@
       "en": {
         "q": "Among the listed molecules, which contains a coordinate covalent bond?",
         "options": [
-          "CCl4",
+          "SiCl4",
           "Al2Cl6",
-          "HCl",
-          "KBr"
+          "CH3Cl",
+          "MgCl2"
         ],
         "explanation": "Al2Cl6 (and CO) have a coordinate (dative) bond; CCl4 and HCl are covalent and KBr is ionic."
       },
       "ta": {
         "q": "கொடுக்கப்பட்ட மூலக்கூறுகளில் ஈதல் சகப்பிணைப்பைக் கொண்டது எது?",
         "options": [
-          "CCl4",
+          "SiCl4",
           "Al2Cl6",
-          "HCl",
-          "KBr"
+          "CH3Cl",
+          "MgCl2"
         ],
         "explanation": "Al2Cl6 (மற்றும் CO) ஈதல் சகப்பிணைப்பைக் கொண்டவை; CCl4, HCl சகப்பிணைப்பு; KBr அயனிப்பிணைப்பு."
       }
@@ -720,9 +720,9 @@
       "ta": {
         "q": "ஈதல் சகப்பிணைப்புச் சேர்மங்கள் பற்றிய சரியான கூற்று எது?",
         "options": [
-          "அயனிகள் உள்ளதால் நன்கு கடத்தும்",
-          "எப்போதும் நீரில் கரையும்",
-          "திண்ம நிலையில் மட்டும் கடத்தும்",
+          "அயனிகள் இருப்பதால் மின்சாரத்தை நன்கு கடத்தும்",
+          "எப்போதும் எல்லா நீரிலும் நன்கு கரையும்",
+          "திண்ம நிலையில் மட்டுமே மின்சாரத்தைக் கடத்தும்",
           "அயனிகள் இல்லாததால் மின்சாரத்தை நன்கு கடத்துவதில்லை"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; சகப்பிணைப்புச் சேர்மங்களைப் போலவே இவற்றிலும் மின்னூட்டத் துகள்கள் இல்லை; எனவே கடத்தாது."
@@ -779,9 +779,9 @@
         "q": "அயனிப்பிணைப்பு (மின்னூட்டப் பிணைப்பு) உருவாவது",
         "options": [
           "ஓர் அணுவிலிருந்து மற்றோர் அணுவிற்கு எலக்ட்ரான்கள் பரிமாற்றம் அடைவதால்",
-          "அணுக்களுக்கிடையே எலக்ட்ரான்களைப் பங்கிடுவதால்",
-          "உட்கருக்கள் மேற்பொருந்துவதால்",
-          "ஓர் அணு தனித்த இணையை ஈவதால்"
+          "இரு அணுக்களுக்கிடையே எலக்ட்ரான்களைச் சமமாகப் பங்கிடுவதால்",
+          "இரு அணுக்களின் உட்கருக்கள் ஒன்றோடொன்று மேற்பொருந்துவதால்",
+          "ஓர் அணு தனித்த எலக்ட்ரான் இணையை மற்றோர் அணுவிற்கு ஈவதால்"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; எலக்ட்ரான் பரிமாற்றத்தால் அயனிப்பிணைப்பும், பங்கீட்டால் சகப்பிணைப்பும் உருவாகும்."
       }

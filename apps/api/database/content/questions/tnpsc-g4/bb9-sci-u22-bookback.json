@@ -56,7 +56,7 @@
           "தும்மல்",
           "இருமல்",
           "திவலைத் தொற்று",
-          "கடத்திகள் (வெக்டர்கள்)"
+          "கடத்திகள்"
         ],
         "explanation": "நோய்க்காரணியை ஒருவரிடமிருந்து மற்றொருவருக்குக் கடத்தும் இடைநிலைக் கடத்தி வெக்டர் எனப்படும்."
       }
@@ -72,7 +72,7 @@
       "en": {
         "q": "Diphtheria affects the",
         "options": [
-          "throat (upper respiratory tract)",
+          "throat",
           "blood",
           "lungs",
           "liver"
@@ -82,7 +82,7 @@
       "ta": {
         "q": "தொண்டை அடைப்பான் (டிப்தீரியா) பாதிப்பது",
         "options": [
-          "தொண்டையை (மேல் சுவாசப் பாதை)",
+          "தொண்டையை",
           "இரத்தத்தை",
           "நுரையீரலை",
           "கல்லீரலை"
@@ -133,7 +133,7 @@
           "gut",
           "lymph nodes",
           "liver",
-          "lungs (respiratory tract)"
+          "lungs"
         ],
         "explanation": "Most respiratory tract infections are acquired by inhaling air containing pathogens."
       },
@@ -143,7 +143,7 @@
           "குடலை",
           "நிணநீர்க் கணுக்களை",
           "கல்லீரலை",
-          "நுரையீரலை (சுவாசப் பாதை)"
+          "நுரையீரலை"
         ],
         "explanation": "பெரும்பாலான சுவாசப்பாதைத் தொற்றுகள் நோய்க்காரணி கலந்த காற்றை உள்ளிழுப்பதால் ஏற்படுகின்றன."
       }
@@ -189,9 +189,9 @@
         "q": "The poliomyelitis virus enters the body through the",
         "options": [
           "mouth and nose",
-          "ears",
-          "skin",
-          "eyes"
+          "the ear canals",
+          "the skin surface",
+          "the eyes only"
         ],
         "explanation": "It spreads by droplet infection, sputum, nasal and throat secretions and contaminated water, food and milk."
       },
@@ -199,9 +199,9 @@
         "q": "போலியோ வைரஸ் உடலுக்குள் நுழையும் வழி",
         "options": [
           "வாயும் மூக்கும்",
-          "காதுகள்",
-          "தோல்",
-          "கண்கள்"
+          "காது குழாய்கள்",
+          "தோல் மேற்பரப்பு",
+          "கண்கள் மட்டும்"
         ],
         "explanation": "இது திவலைத் தொற்று, சளி, மூக்கு, தொண்டைச் சுரப்புகள், அசுத்த நீர், உணவு, பால் மூலம் பரவுகிறது."
       }
@@ -420,9 +420,9 @@
       "en": {
         "q": "Non-infectious diseases such as diabetes and cancer",
         "options": [
-          "are caused by pathogens",
-          "spread through water",
-          "spread through air",
+          "are always caused by pathogens",
+          "spread through drinking water",
+          "spread through the air we breathe",
           "do not spread from person to person"
         ],
         "explanation": "They are caused by internal factors such as malfunctioning of organs, genetic causes, hormonal imbalance and immune system defects (the statement is true)."
@@ -430,9 +430,9 @@
       "ta": {
         "q": "நீரிழிவு, புற்றுநோய் போன்ற தொற்றா நோய்கள்",
         "options": [
-          "நோய்க்காரணிகளால் ஏற்படுபவை",
-          "நீரின் மூலம் பரவும்",
-          "காற்றின் மூலம் பரவும்",
+          "நோய்க்காரணிகளால் மட்டுமே ஏற்படுபவை",
+          "குடிநீரின் மூலம் எளிதில் பரவும்",
+          "காற்றின் மூலம் எளிதில் பரவும்",
           "ஒருவரிடமிருந்து மற்றவருக்குப் பரவுவதில்லை"
         ],
         "explanation": "இவை உறுப்புச் செயலிழப்பு, மரபு, ஹார்மோன் சமநிலையின்மை, நோய் எதிர்ப்புக் குறைபாடு போன்ற உட்காரணிகளால் ஏற்படுகின்றன (கூற்று சரி)."
@@ -449,20 +449,20 @@
       "en": {
         "q": "Hepatitis B differs from hepatitis A in that hepatitis B",
         "options": [
-          "is a vector-borne disease",
-          "is caused by HBV, damages liver cells and can cause cirrhosis, and is transmitted by contact with secretions and sexually",
+          "is a vector-borne disease spread by mosquitoes",
+          "is caused by HBV, damages liver cells and causes cirrhosis",
           "is transmitted only through contaminated water",
-          "is caused by a bacterium"
+          "is caused by a bacterium that infects the gut"
         ],
         "explanation": "Hepatitis A is transmitted through contaminated water and food; hepatitis B virus damages liver cells causing acute inflammation and cirrhosis."
       },
       "ta": {
         "q": "ஹெபடைடிஸ் A வை விட ஹெபடைடிஸ் B வேறுபடுவது, ஹெபடைடிஸ் B",
         "options": [
-          "கடத்தி மூலம் பரவும் நோய்",
-          "HBV ஆல் ஏற்பட்டு கல்லீரல் செல்களைச் சிதைத்து கல்லீரல் சுருக்கத்தை உண்டாக்கும்; சுரப்புகள், பாலுறவு மூலம் பரவும்",
-          "அசுத்த நீரால் மட்டும் பரவும்",
-          "பாக்டீரியாவால் ஏற்படுகிறது"
+          "கொசு போன்ற கடத்திகள் மூலம் பரவும் நோய்",
+          "HBV ஆல் ஏற்பட்டு கல்லீரல் செல்களைச் சிதைக்கும்",
+          "அசுத்தமான நீர் மூலம் மட்டுமே பரவும்",
+          "குடலைத் தாக்கும் பாக்டீரியாவால் ஏற்படுகிறது"
         ],
         "explanation": "ஹெபடைடிஸ் A அசுத்த நீர், உணவால் பரவுகிறது; ஹெபடைடிஸ் B கல்லீரல் அழற்சி, சுருக்கத்தை (சிரோசிஸ்) ஏற்படுத்துகிறது."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "A pathogen is",
         "options": [
-          "an antibiotic",
-          "a biofertilizer",
-          "a vaccine",
-          "a biological agent that causes disease to its host"
+          "an antibiotic that kills bacteria",
+          "a biofertilizer used in farming",
+          "a vaccine given to prevent disease",
+          "an agent that causes disease in its host"
         ],
         "explanation": "Examples: bacteria and viruses."
       },
       "ta": {
         "q": "நோய்க்காரணி (நோயூக்கி) என்பது",
         "options": [
-          "நுண்ணுயிர்க்கொல்லி",
-          "உயிரி உரம்",
-          "தடுப்பூசி",
-          "விருந்தோம்பிக்கு நோயை ஏற்படுத்தும் உயிரிக் காரணி"
+          "பாக்டீரியாவைக் கொல்லும் நுண்ணுயிர்க்கொல்லி",
+          "வேளாண்மையில் பயன்படும் உயிரி உரம்",
+          "நோயைத் தடுக்கப் போடும் தடுப்பூசி",
+          "விருந்தோம்பிக்கு நோயை உண்டாக்கும் காரணி"
         ],
         "explanation": "எ.கா: பாக்டீரியா, வைரஸ்."
       }
@@ -537,9 +537,9 @@
         "q": "Viruses that infect bacterial cells are called",
         "options": [
           "bacteriophages",
-          "prions",
-          "virions",
-          "viroids"
+          "prion particles",
+          "virion particles",
+          "viroid particles"
         ],
         "explanation": "An example is the T4 bacteriophage."
       },
@@ -547,9 +547,9 @@
         "q": "பாக்டீரிய செல்களைத் தாக்கும் வைரஸ்கள்",
         "options": [
           "பாக்டீரியோஃபேஜுகள்",
-          "பிரியான்கள்",
-          "வைரியான்கள்",
-          "வைராய்டுகள்"
+          "பிரியான் துகள்கள்",
+          "வைரியான் துகள்கள்",
+          "வைராய்டு துகள்கள்"
         ],
         "explanation": "எ.கா: T4 பாக்டீரியோஃபேஜ்."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "Vaccines are",
         "options": [
-          "preparations of living (weakened) or killed microorganisms or their products used for prevention or treatment of diseases",
-          "antibiotics produced by fungi",
-          "toxic wastes",
-          "vitamins"
+          "preparations of weakened or killed microbes used to prevent disease",
+          "antibiotics produced by fungi to kill bacteria in the body",
+          "toxic wastes released by pathogens into the blood",
+          "vitamins and minerals given as supplements"
         ],
         "explanation": "They stimulate the body to produce antibodies against the antigen."
       },
       "ta": {
         "q": "தடுப்பூசிகள் என்பவை",
         "options": [
-          "நோய்த் தடுப்பு அல்லது சிகிச்சைக்குப் பயன்படும் வலுவிழந்த/இறந்த நுண்ணுயிர்கள் அல்லது அவற்றின் பொருள்களின் தயாரிப்புகள்",
-          "பூஞ்சைகள் உருவாக்கும் நுண்ணுயிர்க்கொல்லிகள்",
-          "நச்சுக் கழிவுகள்",
-          "வைட்டமின்கள்"
+          "நோயைத் தடுக்கப் பயன்படும் வலுவிழந்த அல்லது இறந்த நுண்ணுயிர்த் தயாரிப்புகள்",
+          "பூஞ்சைகள் உருவாக்கும், உடலிலுள்ள பாக்டீரியாவைக் கொல்லும் நுண்ணுயிர்க்கொல்லிகள்",
+          "நோய்க்காரணிகள் இரத்தத்தில் வெளியிடும் நச்சுக் கழிவுகள்",
+          "கூடுதல் உணவாக அளிக்கப்படும் வைட்டமின்களும் தாதுக்களும்"
         ],
         "explanation": "இவை எதிர்ப்பொருள்கள் உருவாகத் தூண்டுகின்றன."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "Prions are infectious particles that",
         "options": [
-          "contain only DNA",
+          "contain only DNA and no protein",
           "contain only protein and no nucleic acid",
-          "contain RNA and DNA",
-          "contain chlorophyll"
+          "contain both RNA and DNA together",
+          "contain chlorophyll like plants"
         ],
         "explanation": "The term prion was coined by Stanley B. Prusiner in 1982; they cause degeneration of nervous tissue."
       },
       "ta": {
         "q": "பிரியான்கள் என்பவை தொற்றும் துகள்கள்; அவை",
         "options": [
-          "DNA மட்டும் உடையவை",
-          "புரதத்தை மட்டுமே கொண்டவை; நியூக்ளிக் அமிலம் இல்லாதவை",
-          "RNA, DNA இரண்டும் உடையவை",
-          "பச்சையம் உடையவை"
+          "DNA மட்டும் உடையவை; புரதம் இல்லாதவை",
+          "புரதம் மட்டுமுடையவை; நியூக்ளிக் அமிலமற்றவை",
+          "RNA, DNA இரண்டும் சேர்ந்து உடையவை",
+          "தாவரங்களைப் போல் பச்சையம் உடையவை"
         ],
         "explanation": "'பிரியான்' என்ற சொல்லை 1982 இல் ஸ்டான்லி பி. ப்ரூசினர் உருவாக்கினார்; நரம்புத் திசுச் சிதைவை ஏற்படுத்தும்."
       }
@@ -624,9 +624,9 @@
         "q": "Which statement distinguishes a virion from a viroid?",
         "options": [
           "A virion is protein-free RNA; a viroid is a virus particle",
-          "Both are bacteria",
-          "A virion is a simple complete virus particle; a viroid is a protein-free pathogenic RNA that infects plants",
-          "A viroid infects animals only"
+          "Both are bacteria living freely in soil and water",
+          "A virion is a complete virus particle; a viroid is a protein-free plant RNA",
+          "A viroid is a bacterium that infects animals only"
         ],
         "explanation": "Viroids are found in plant cells and cause disease in plants."
       },
@@ -634,9 +634,9 @@
         "q": "வைரியானுக்கும் வைராய்டுக்கும் உள்ள வேறுபாட்டைக் கூறும் கூற்று",
         "options": [
           "வைரியான் புரதமற்ற RNA; வைராய்டு வைரஸ் துகள்",
-          "இரண்டும் பாக்டீரியாக்கள்",
-          "வைரியான் எளிய முழு வைரஸ் துகள்; வைராய்டு தாவரங்களைத் தாக்கும் புரதமற்ற நோய்க்காரண RNA",
-          "வைராய்டு விலங்குகளை மட்டும் தாக்கும்"
+          "இரண்டும் மண்ணிலும் நீரிலும் வாழும் பாக்டீரியாக்கள்",
+          "வைரியான் முழு வைரஸ் துகள்; வைராய்டு புரதமற்ற தாவர RNA",
+          "வைராய்டு விலங்குகளை மட்டும் தாக்கும் பாக்டீரியம்"
         ],
         "explanation": "வைராய்டுகள் தாவர செல்களில் நோயை ஏற்படுத்துகின்றன."
       }

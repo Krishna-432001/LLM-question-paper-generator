@@ -53,10 +53,10 @@
       "ta": {
         "q": "கார்பன் அதிக எண்ணிக்கையிலான கரிமச் சேர்மங்களை உருவாக்கக் காரணம்",
         "options": [
-          "படிகத்தன்மை",
-          "புறவேற்றுமை",
+          "படிகமாகும் தன்மை",
+          "புறவேற்றுமைத் தன்மை",
           "சங்கிலித் தொடராக்கம்",
-          "கதிரியக்கம்"
+          "கதிரியக்கத் தன்மை"
         ],
         "explanation": "கார்பன் தன்னுடன் சகப்பிணைப்பால் இணைந்து நீண்ட, கிளைத்த, வளைய அமைப்புகளை உருவாக்குகிறது."
       }
@@ -365,7 +365,7 @@
           "methane and ethane",
           "ethene and ethyne",
           "methanol and methanal",
-          "ethanol (CH3-CH2-OH) and dimethyl ether (CH3-O-CH3)"
+          "ethanol and dimethyl ether"
         ],
         "explanation": "Compound (a) CH3CH2OH is an alcohol; compound (b) CH3OCH3 is an ether; they have different properties."
       },
@@ -375,7 +375,7 @@
           "மீத்தேன், ஈத்தேன்",
           "ஈத்தீன், ஈத்தைன்",
           "மெத்தனால், மெத்தனேல் (ஆல்டிஹைடு)",
-          "எத்தனால் (CH3-CH2-OH), டைமெத்தில் ஈதர் (CH3-O-CH3)"
+          "எத்தனால், டைமெத்தில் ஈதர்"
         ],
         "explanation": "(a) CH3CH2OH ஆல்கஹால்; (b) CH3OCH3 ஈதர்; இவற்றின் பண்புகள் வேறுபடும்."
       }
@@ -391,7 +391,7 @@
       "en": {
         "q": "Carbon forms covalent compounds because it has",
         "options": [
-          "four valence electrons, which it shares to complete its octet",
+          "four valence electrons, which it shares",
           "one valence electron, which it loses",
           "seven valence electrons, which it gains",
           "no valence electrons"
@@ -401,10 +401,10 @@
       "ta": {
         "q": "கார்பன் சகப்பிணைப்புச் சேர்மங்களை உருவாக்கக் காரணம்",
         "options": [
-          "நான்கு இணைதிறன் எலக்ட்ரான்களைப் பங்கிட்டு எண்மத்தை நிறைவு செய்வது",
+          "நான்கு இணைதிறன் எலக்ட்ரான்களைப் பங்கிடுவது",
           "ஒரு இணைதிறன் எலக்ட்ரானை இழப்பது",
           "ஏழு இணைதிறன் எலக்ட்ரான்களை ஏற்பது",
-          "இணைதிறன் எலக்ட்ரான்கள் இல்லாதது"
+          "இணைதிறன் எலக்ட்ரான்கள் எதுவும் இல்லாதது"
         ],
         "explanation": "கார்பன் (2, 4) நியான் அமைப்பைப் பெற நான்கு எலக்ட்ரான்களைப் பங்கிடுகிறது (நான்கு இணைதிறன்)."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "One-time use and throwaway plastics are harmful because",
         "options": [
-          "they decompose within a day",
-          "they stay in the environment for very long, block drains and cause health problems",
-          "they are all easily recycled",
-          "they release oxygen"
+          "they decompose completely within a single day",
+          "they stay long in the environment and block drains",
+          "they are all easily recycled again and again",
+          "they release oxygen into the air we breathe"
         ],
         "explanation": "They cause short- and long-term environmental damage, block drains, pollute water bodies and harm humans, plants and animals."
       },
       "ta": {
         "q": "ஒருமுறை பயன்படுத்தித் தூக்கியெறியப்படும் நெகிழிகள் தீங்கானவை, ஏனெனில்",
         "options": [
-          "அவை ஒரே நாளில் மட்கி விடுகின்றன",
-          "அவை நீண்ட காலம் சுற்றுச்சூழலில் தங்கி, வடிகால்களை அடைத்து, உடல்நலக் கேடு விளைவிக்கின்றன",
-          "அவை அனைத்தும் எளிதில் மறுசுழற்சி ஆகின்றன",
-          "அவை ஆக்ஸிஜனை வெளியிடுகின்றன"
+          "அவை ஒரே நாளுக்குள் முழுமையாக மட்கிப் போய்விடுகின்றன",
+          "அவை நீண்ட காலம் சுற்றுச்சூழலில் தங்கி வடிகால்களை அடைக்கின்றன",
+          "அவை அனைத்தும் மீண்டும் மீண்டும் எளிதில் மறுசுழற்சி ஆகின்றன",
+          "அவை நாம் சுவாசிக்கும் காற்றில் ஆக்ஸிஜனை வெளியிடுகின்றன"
         ],
         "explanation": "இவை குறுகிய, நீண்டகாலச் சூழல் பாதிப்பை உண்டாக்கி, வடிகால்களை அடைத்து, நீர்நிலைகளை மாசுபடுத்தி, உயிரினங்களுக்குத் தீங்கு செய்கின்றன."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "Catenation is",
         "options": [
-          "sharing of four electrons by carbon",
+          "sharing of four electrons by carbon with other atoms",
           "same molecular formula with different structures",
-          "existence of an element in different forms",
-          "binding of an element to itself or other elements through covalent bonds to form open or closed chains"
+          "existence of one element in many different physical forms",
+          "binding of an element to itself through covalent bonds to form chains"
         ],
         "explanation": "Carbon is the most common element showing catenation: it links repeatedly to itself to form linear, branched or ring structures."
       },
       "ta": {
         "q": "சங்கிலித் தொடராக்கம் என்பது",
         "options": [
-          "கார்பன் நான்கு எலக்ட்ரான்களைப் பங்கிடுதல்",
-          "ஒரே மூலக்கூறு வாய்ப்பாடும் வேறு அமைப்பும் இருத்தல்",
-          "ஒரு தனிமம் வெவ்வேறு வடிவங்களில் இருத்தல்",
-          "ஒரு தனிமம் தன்னுடனோ பிற தனிமங்களுடனோ சகப்பிணைப்பால் இணைந்து திறந்த அல்லது மூடிய சங்கிலிகளை உருவாக்குதல்"
+          "கார்பன் பிற அணுக்களுடன் நான்கு எலக்ட்ரான்களைப் பங்கிடுதல்",
+          "ஒரே மூலக்கூறு வாய்ப்பாடும் வேறுபட்ட அமைப்பும் இருத்தல்",
+          "ஒரு தனிமம் பல வெவ்வேறு இயற்பியல் வடிவங்களில் இருத்தல்",
+          "ஒரு தனிமம் சகப்பிணைப்பால் தன்னுடனேயே இணைந்து சங்கிலிகளை உருவாக்குதல்"
         ],
         "explanation": "கார்பன் தன்னுடன் மீண்டும் மீண்டும் இணைந்து நேர், கிளை, வளைய அமைப்புகளை உருவாக்குகிறது."
       }

@@ -228,9 +228,9 @@
         "q": "நீர் ஊடுருவு மண்டலம் (நீர்க்குழல் மண்டலம்) காணப்படுவது",
         "options": [
           "நட்சத்திர மீனில்",
-          "ஹைட்ராவில்",
-          "மண்புழுவில்",
-          "அஸ்காரிஸில்"
+          "நன்னீர் ஹைட்ராவில்",
+          "வயல் மண்புழுவில்",
+          "அஸ்காரிஸ் புழுவில்"
         ],
         "explanation": "திரவம் நிரம்பிய நீர்க்குழல் மண்டலம் முட்தோலிகளின் தனிச்சிறப்பு; குழல் கால்களால் இடப்பெயர்ச்சி."
       }
@@ -259,7 +259,7 @@
           "கைட்டின்",
           "குருத்தெலும்பு",
           "எலும்புகள்",
-          "கூர்முனைகள் (ஸ்பிகூல்கள்)"
+          "ஸ்பிகூல்கள்"
         ],
         "explanation": "கடற்பஞ்சுகளின் உடற்சுவரில் ஸ்பிகூல்கள் உள்ளன."
       }
@@ -304,9 +304,9 @@
       "en": {
         "q": "Skates are",
         "options": [
-          "bony fishes",
-          "jawless fishes",
-          "amphibians",
+          "freshwater bony fishes",
+          "jawless eel-like fishes",
+          "land-living amphibians",
           "cartilaginous fishes"
         ],
         "explanation": "Cartilaginous fishes (sharks, skates) have a skeleton of cartilage; bony fishes (carps, mullets) have a bony skeleton."
@@ -362,9 +362,9 @@
       "en": {
         "q": "Jawless vertebrates belong to the class",
         "options": [
-          "Pisces",
+          "Chondrichthyes",
           "Cyclostomata",
-          "Aves",
+          "Osteichthyes",
           "Mammalia"
         ],
         "explanation": "Cyclostomes (hagfish, lamprey) have a circular mouth not bounded by jaws."
@@ -372,9 +372,9 @@
       "ta": {
         "q": "தாடையற்ற முதுகெலும்பிகள்",
         "options": [
-          "மீன்கள்",
-          "வட்டவாயுடையவை (சைக்ளோஸ்டோமேட்டா)",
-          "பறவைகள்",
+          "குருத்தெலும்பு மீன்கள்",
+          "வட்டவாயுடையவை",
+          "எலும்பு மீன்கள்",
           "பாலூட்டிகள்"
         ],
         "explanation": "ஹேக் மீன், லாம்ப்ரே ஆகியவற்றிற்கு தாடையால் சூழப்படாத வட்ட வடிவ வாய் உண்டு."
@@ -449,10 +449,10 @@
       "en": {
         "q": "Hermaphrodite animals are those that have",
         "options": [
-          "both male and female reproductive organs in a single individual",
-          "only male organs",
-          "only female organs",
-          "no reproductive organs"
+          "both male and female reproductive organs in one body",
+          "only male reproductive organs in one individual",
+          "only female reproductive organs in one individual",
+          "no reproductive organs at all in the body"
         ],
         "explanation": "Examples: liver fluke, tapeworm (flat worms) and earthworm."
       },
@@ -460,9 +460,9 @@
         "q": "இருபாலினி (ஹெர்மாஃப்ரடைட்) விலங்குகள்",
         "options": [
           "ஒரே உயிரியில் ஆண், பெண் இனப்பெருக்க உறுப்புகள் இரண்டும் உள்ளவை",
-          "ஆண் உறுப்புகள் மட்டும் உள்ளவை",
-          "பெண் உறுப்புகள் மட்டும் உள்ளவை",
-          "இனப்பெருக்க உறுப்புகள் இல்லாதவை"
+          "ஒரே உயிரியில் ஆண் இனப்பெருக்க உறுப்புகள் மட்டும் உள்ளவை",
+          "ஒரே உயிரியில் பெண் இனப்பெருக்க உறுப்புகள் மட்டும் உள்ளவை",
+          "உடலில் இனப்பெருக்க உறுப்புகளே இல்லாதவை"
         ],
         "explanation": "எ.கா: கல்லீரல் புழு, நாடாப்புழு, மண்புழு."
       }
@@ -509,7 +509,7 @@
         "options": [
           "Mollusca",
           "Annelida",
-          "Echinodermata (e.g. star fish)",
+          "Echinodermata",
           "Platyhelminthes"
         ],
         "explanation": "The book's statement is false: bipinnaria is the larval stage of echinoderms such as star fish (the larvae stay bilaterally symmetrical while adults are radial)."
@@ -519,7 +519,7 @@
         "options": [
           "மெல்லுடலிகள்",
           "வளைதசைப் புழுக்கள்",
-          "முட்தோலிகள் (எ.கா: நட்சத்திர மீன்)",
+          "முட்தோலிகள்",
           "தட்டைப் புழுக்கள்"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; பைபின்னாரியா நட்சத்திர மீன் போன்ற முட்தோலிகளின் இளம் உயிரி (இளம் உயிரி இருபக்கச் சமச்சீர்; முதிர் உயிரி ஆரச்சமச்சீர்)."
@@ -547,7 +547,7 @@
         "q": "பாலனோகிளாசஸ் (ஏகார்ன் புழு) ஒரு",
         "options": [
           "வடிகட்டி உண்ணும் கடற்பஞ்சு",
-          "குறு இழை (சீலியா) மூலம் உணவு உண்பது",
+          "குறு இழைகள் மூலம் உணவு உண்பது",
           "ஊன் உண்ணும் வேட்டை விலங்கு",
           "இரத்தம் உறிஞ்சுவது"
         ],
@@ -565,7 +565,7 @@
       "en": {
         "q": "How many chambers are there in the heart of a fish?",
         "options": [
-          "Two (an auricle and a ventricle)",
+          "Two",
           "Three",
           "Four",
           "One"
@@ -575,7 +575,7 @@
       "ta": {
         "q": "மீனின் இதயத்தில் உள்ள அறைகளின் எண்ணிக்கை",
         "options": [
-          "இரண்டு (ஓர் ஆரிக்கிள், ஒரு வென்ட்ரிக்கிள்)",
+          "இரண்டு",
           "மூன்று",
           "நான்கு",
           "ஒன்று"
@@ -594,20 +594,20 @@
       "en": {
         "q": "Female mammals possess mammary glands, which",
         "options": [
-          "secrete milk for feeding the young ones",
-          "secrete oil only",
-          "help in flying",
-          "produce eggs"
+          "secrete milk to feed the young",
+          "secrete only oil for the skin",
+          "help the animal in flying",
+          "produce the eggs of the female"
         ],
         "explanation": "Mammals also have hair, sweat and sebaceous glands and four-chambered hearts."
       },
       "ta": {
         "q": "பெண் பாலூட்டிகளில் உள்ள பால் சுரப்பிகள்",
         "options": [
-          "குட்டிகளுக்குப் பாலூட்டப் பால் சுரப்பவை",
-          "எண்ணெயை மட்டும் சுரப்பவை",
-          "பறக்க உதவுபவை",
-          "முட்டைகளை உற்பத்தி செய்பவை"
+          "குட்டிகளுக்கு உணவாகப் பால் சுரப்பவை",
+          "தோலுக்கு எண்ணெயை மட்டும் சுரப்பவை",
+          "விலங்கு பறப்பதற்கு உதவுபவை",
+          "பெண்ணின் முட்டைகளை உற்பத்தி செய்பவை"
         ],
         "explanation": "பாலூட்டிகளுக்கு உரோமம், வியர்வைச் சுரப்பி, நான்கு அறை இதயம் ஆகியவையும் உண்டு."
       }
@@ -653,9 +653,9 @@
         "q": "Taxonomy is the",
         "options": [
           "science of classification",
-          "study of heredity",
-          "study of cells",
-          "study of fossils"
+          "study of heredity and genes",
+          "study of cells and tissues",
+          "study of fossils and rocks"
         ],
         "explanation": "It makes the study of the wide variety of organisms easier."
       },
@@ -683,7 +683,7 @@
         "options": [
           "flame cells",
           "ostia",
-          "cnidoblasts (nematocysts)",
+          "cnidoblasts",
           "nephridia"
         ],
         "explanation": "The tentacles bear stinging cells called cnidoblast or nematocyst."
@@ -693,7 +693,7 @@
         "options": [
           "சுடர் செல்கள்",
           "ஓஸ்டியா",
-          "நிடோபிளாஸ்ட் (நீமடோசிஸ்ட்)",
+          "நிடோபிளாஸ்ட்",
           "நெஃப்ரீடியா"
         ],
         "explanation": "உணர்கொம்புகளில் நிடோபிளாஸ்ட் அல்லது நீமடோசிஸ்ட் எனும் கொட்டும் செல்கள் உள்ளன."
@@ -710,20 +710,20 @@
       "en": {
         "q": "Coelenterates are called diploblastic because their body wall has",
         "options": [
-          "three layers",
+          "three layers, including a mesoderm",
           "two layers, ectoderm and endoderm",
-          "four layers",
-          "one layer"
+          "four layers, including a coelom",
+          "a single layer of ectoderm only"
         ],
         "explanation": "The two layers are separated by the non-cellular mesoglea."
       },
       "ta": {
         "q": "குழியுடலிகள் இருபடை விலங்குகள் (டிப்ளோபிளாஸ்டிக்) எனப்படக் காரணம், அவற்றின் உடற்சுவரில்",
         "options": [
-          "மூன்று அடுக்குகள் உள்ளன",
+          "மீசோடெர்ம் உட்பட மூன்று அடுக்குகள் உள்ளன",
           "எக்டோடெர்ம், எண்டோடெர்ம் எனும் இரு அடுக்குகள் உள்ளன",
-          "நான்கு அடுக்குகள் உள்ளன",
-          "ஓர் அடுக்கு உள்ளது"
+          "உடற்குழி உட்பட நான்கு அடுக்குகள் உள்ளன",
+          "எக்டோடெர்ம் மட்டும் ஓர் அடுக்கு உள்ளது"
         ],
         "explanation": "இரு அடுக்குகளும் செல்லற்ற மீசோகிளியாவால் பிரிக்கப்பட்டுள்ளன."
       }
@@ -739,9 +739,9 @@
       "en": {
         "q": "The respiratory organs of amphibians are",
         "options": [
-          "air sacs",
-          "only gills",
-          "tracheae and book lungs",
+          "air sacs and a diaphragm",
+          "only gills throughout life",
+          "tracheae, spiracles and book lungs",
           "gills, lungs, skin and buccopharynx"
         ],
         "explanation": "Amphibians have a dual adaptation to live in both land and water."
@@ -749,9 +749,9 @@
       "ta": {
         "q": "இருவாழ்விகளின் சுவாச உறுப்புகள்",
         "options": [
-          "காற்றுப்பைகள்",
-          "செவுள்கள் மட்டும்",
-          "டிரக்கியா, புத்தக நுரையீரல்",
+          "காற்றுப்பைகளும் உதரவிதானமும் மட்டும்",
+          "வாழ்நாள் முழுவதும் செவுள்கள் மட்டும்",
+          "டிரக்கியா, சுவாசத் துளைகள், புத்தக நுரையீரல்",
           "செவுள்கள், நுரையீரல், தோல், வாய்-தொண்டைக் குழி"
         ],
         "explanation": "இருவாழ்விகள் நிலத்திலும் நீரிலும் வாழத் தகவமைந்தவை."
@@ -797,20 +797,20 @@
       "en": {
         "q": "Jelly fish and star fish are not true fishes because",
         "options": [
-          "they live on land",
-          "they are invertebrates without a backbone, unlike fishes which are vertebrates",
-          "they are birds",
-          "they are mammals"
+          "they live only on land, unlike fishes",
+          "they are invertebrates without a backbone",
+          "they are birds that live near the sea",
+          "they are mammals that live in the sea"
         ],
         "explanation": "Jelly fish are coelenterates and star fish are echinoderms; true fishes are chordates (class Pisces) with a vertebral column."
       },
       "ta": {
         "q": "ஜெல்லி மீனும் நட்சத்திர மீனும் உண்மையான மீன்கள் அல்ல, ஏனெனில்",
         "options": [
-          "அவை நிலத்தில் வாழ்பவை",
-          "அவை முதுகெலும்பற்ற உயிரிகள்; மீன்கள் முதுகெலும்பிகள்",
-          "அவை பறவைகள்",
-          "அவை பாலூட்டிகள்"
+          "அவை நிலத்தில் மட்டுமே வாழ்பவை",
+          "அவை முதுகெலும்பற்ற உயிரிகள்",
+          "அவை கடலோரம் வாழும் பறவைகள்",
+          "அவை கடலில் வாழும் பாலூட்டிகள்"
         ],
         "explanation": "ஜெல்லி மீன் குழியுடலி; நட்சத்திர மீன் முட்தோலி; உண்மை மீன்கள் முதுகெலும்புள்ள முதுகுநாணிகள்."
       }
@@ -826,19 +826,19 @@
       "en": {
         "q": "Frogs are called amphibians because they",
         "options": [
-          "live only in water",
-          "live only on land",
-          "fly in the air",
-          "live both on land and in water (dual adaptation)"
+          "live only in water throughout life",
+          "live only on land throughout life",
+          "fly in the air like birds",
+          "live both on land and in water"
         ],
         "explanation": "Amphi = both, bios = life; eggs are laid in water and the tadpole transforms into an adult."
       },
       "ta": {
         "q": "தவளைகள் இருவாழ்விகள் எனப்படக் காரணம்",
         "options": [
-          "நீரில் மட்டும் வாழ்பவை",
-          "நிலத்தில் மட்டும் வாழ்பவை",
-          "காற்றில் பறப்பவை",
+          "வாழ்நாள் முழுவதும் நீரில் மட்டும் வாழ்பவை",
+          "வாழ்நாள் முழுவதும் நிலத்தில் மட்டும் வாழ்பவை",
+          "பறவைகளைப் போலக் காற்றில் பறப்பவை",
           "நிலத்திலும் நீரிலும் வாழத் தகவமைந்தவை"
         ],
         "explanation": "Amphi = இரண்டும்; bios = வாழ்வு; முட்டைகள் நீரில் இடப்படுகின்றன."
@@ -855,10 +855,10 @@
       "en": {
         "q": "In birds, the forelimbs and hindlimbs are respectively modified for",
         "options": [
-          "flight; walking, perching or swimming",
-          "swimming; flight",
-          "walking; flight",
-          "burrowing; swimming"
+          "flight; walking, perching, swimming",
+          "swimming; flight and gliding",
+          "walking; flying and gliding",
+          "burrowing; swimming and diving"
         ],
         "explanation": "Forelimbs are modified into wings; hindlimbs are adapted for walking, perching or swimming."
       },
@@ -866,9 +866,9 @@
         "q": "பறவைகளின் முன்னங்கால்களும் பின்னங்கால்களும் முறையே தகவமைந்திருப்பது",
         "options": [
           "பறக்க; நடக்க, அமர அல்லது நீந்த",
-          "நீந்த; பறக்க",
-          "நடக்க; பறக்க",
-          "வளை தோண்ட; நீந்த"
+          "நீந்த; பறக்கவும் சறுக்கவும்",
+          "நடக்க; பறக்கவும் சறுக்கவும்",
+          "வளை தோண்ட; நீந்தவும் மூழ்கவும்"
         ],
         "explanation": "முன்னங்கால்கள் இறக்கைகளாக மாறியுள்ளன; பின்னங்கால்கள் நடக்க, அமர, நீந்த ஏற்றவை."
       }
@@ -884,20 +884,20 @@
       "en": {
         "q": "Which statement about fishes is correct?",
         "options": [
-          "They are warm-blooded",
-          "They have a three-chambered heart",
-          "They have lungs and feathers",
-          "They are poikilothermic aquatic vertebrates with jaws, scales and gills"
+          "They are warm-blooded and give birth to young",
+          "They have a three-chambered heart and lungs",
+          "They have lungs and feathers like birds",
+          "They are cold-blooded aquatic vertebrates with gills"
         ],
         "explanation": "Fishes have a streamlined body with paired and median fins, scales, gill respiration and a two-chambered heart."
       },
       "ta": {
         "q": "மீன்களைப் பற்றிய சரியான கூற்று எது?",
         "options": [
-          "வெப்ப இரத்தப் பிராணிகள்",
-          "மூன்று அறை இதயம் உடையவை",
-          "நுரையீரலும் இறகுகளும் உடையவை",
-          "தாடையுடைய, செதில்களும் செவுள்களும் கொண்ட குளிர் இரத்த நீர்வாழ் முதுகெலும்பிகள்"
+          "வெப்ப இரத்தப் பிராணிகளான குட்டி ஈனும் விலங்குகள்",
+          "மூன்று அறை இதயமும் நுரையீரலும் உடையவை",
+          "நுரையீரலும் இறகுகளும் பறவைகளைப் போல் உடையவை",
+          "செவுள்களுடைய குளிர் இரத்த நீர்வாழ் முதுகெலும்பிகள்"
         ],
         "explanation": "மீன்களின் உடல் நீரோட்ட வடிவம்; துடுப்புகள், செதில்கள், செவுள் சுவாசம், இரு அறை இதயம் உண்டு."
       }

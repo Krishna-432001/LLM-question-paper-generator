@@ -14,19 +14,19 @@
       "en": {
         "q": "The antibiotic penicillin is obtained from",
         "options": [
-          "a plant",
-          "a microorganism (the mould Penicillium notatum)",
-          "an animal",
-          "sunlight"
+          "a green plant",
+          "a microorganism",
+          "a wild animal",
+          "bright sunlight"
         ],
         "explanation": "Alexander Fleming discovered penicillin in 1928 (published 1929) from the mould Penicillium notatum."
       },
       "ta": {
         "q": "பெனிசிலின் எனும் நுண்ணுயிர் எதிரி கிடைப்பது",
         "options": [
-          "தாவரத்திலிருந்து",
-          "நுண்ணுயிரியிலிருந்து (பென்சிலியம் நோட்டேட்டம் பூஞ்சை)",
-          "விலங்கிலிருந்து",
+          "பசுமைத் தாவரத்திலிருந்து",
+          "நுண்ணுயிரியிலிருந்து",
+          "காட்டு விலங்கிலிருந்து",
           "சூரிய ஒளியிலிருந்து"
         ],
         "explanation": "அலெக்சாண்டர் ஃபிளெமிங் 1928 இல் பென்சிலியம் நோட்டேட்டம் பூஞ்சையிலிருந்து பெனிசிலினைக் கண்டறிந்தார் (1929 இல் வெளியிட்டார்)."
@@ -101,20 +101,20 @@
       "en": {
         "q": "The age of a dead animal can be determined using an isotope of",
         "options": [
-          "iodine",
-          "carbon (C-14)",
-          "phosphorus",
-          "oxygen"
+          "iodine-131",
+          "carbon-14",
+          "phosphorus-32",
+          "oxygen-16"
         ],
         "explanation": "Radiocarbon dating uses the C-14 isotope."
       },
       "ta": {
         "q": "இறந்த விலங்கின் வயதைக் கண்டறியப் பயன்படும் ஐசோடோப்பு",
         "options": [
-          "அயோடின்",
-          "கார்பன் (C-14)",
-          "பாஸ்பரஸ்",
-          "ஆக்ஸிஜன்"
+          "அயோடின்-131",
+          "கார்பன்-14",
+          "பாஸ்பரஸ்-32",
+          "ஆக்ஸிஜன்-16"
         ],
         "explanation": "கதிரியக்கக் கார்பன் காலக்கணிப்பில் C-14 ஐசோடோப்பு பயன்படுகிறது."
       }
@@ -140,10 +140,10 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் இயற்கைச் சாயம் இல்லாதது எது?",
         "options": [
-          "பீட்ரூட்",
-          "மஞ்சள்",
+          "பீட்ரூட் கிழங்கு",
+          "மஞ்சள் கிழங்கு",
           "உருளைக்கிழங்கு",
-          "கேரட்"
+          "கேரட் கிழங்கு"
         ],
         "explanation": "பீட்ரூட், கேரட், மஞ்சள் இயற்கை நிறமிகள் கொண்டவை; உருளைக்கிழங்கு அல்ல."
       }
@@ -287,7 +287,7 @@
         "options": [
           "காய்ச்சல் நீக்கிகள்",
           "அமில முறிப்பான்கள்",
-          "வலிநீக்கிகள் (அனால்ஜெசிக்)",
+          "வலிநீக்கிகள்",
           "நுண்ணுயிர் எதிரிகள்"
         ],
         "explanation": "வலி நிவாரணிகள் சுயநினைவை இழக்காமல் வலியைப் போக்கும்."
@@ -449,20 +449,20 @@
       "en": {
         "q": "Radiocarbon dating is a method to determine the age of",
         "options": [
-          "fossil wood or animal using the C-14 isotope",
-          "rocks using uranium only",
-          "stars using light",
-          "water using pH"
+          "fossil wood or animals using C-14",
+          "ancient rocks using uranium only",
+          "distant stars using starlight",
+          "pond water using its pH"
         ],
         "explanation": "It determines the age of fossil wood or animal using C-14."
       },
       "ta": {
         "q": "கதிரியக்கக் கார்பன் காலக்கணிப்பு என்பது",
         "options": [
-          "C-14 ஐசோடோப்பைப் பயன்படுத்தி படிம மரம் அல்லது விலங்கின் வயதைக் கண்டறியும் முறை",
-          "யுரேனியத்தால் மட்டும் பாறையின் வயதைக் கண்டறிதல்",
-          "ஒளியால் விண்மீன்களின் வயதைக் கண்டறிதல்",
-          "pH ஆல் நீரின் வயதைக் கண்டறிதல்"
+          "C-14 மூலம் படிம மரம் அல்லது விலங்கின் வயதைக் கண்டறிதல்",
+          "யுரேனியத்தால் மட்டும் பழைய பாறைகளின் வயதைக் கண்டறிதல்",
+          "ஒளியால் தொலைவிலுள்ள விண்மீன்களின் வயதைக் கண்டறிதல்",
+          "pH ஆல் குளத்து நீரின் வயதைக் கண்டறிதல்"
         ],
         "explanation": "C-14 ஐசோடோப்பால் படிம மரம், விலங்கின் வயது கண்டறியப்படுகிறது."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "Chemical fertilizers are added to crop fields to",
         "options": [
-          "supply essential micro and macro nutrients required for crop growth",
-          "test soil pH",
-          "kill pests",
-          "change the colour of crops"
+          "supply the micro and macro nutrients crops need",
+          "test the pH of the soil every season",
+          "kill the insects and pests in the field",
+          "change the colour of the harvested crops"
         ],
         "explanation": "Examples: ammonium nitrate, calcium phosphate, urea and NPK."
       },
       "ta": {
         "q": "பயிர் வயல்களில் வேதி உரங்கள் சேர்க்கப்படுவதன் நோக்கம்",
         "options": [
-          "பயிர் வளர்ச்சிக்குத் தேவையான நுண், பேரூட்டச்சத்துகளை அளிக்க",
-          "மண்ணின் pH ஐச் சோதிக்க",
-          "பூச்சிகளைக் கொல்ல",
-          "பயிர்களின் நிறத்தை மாற்ற"
+          "பயிருக்குத் தேவையான நுண், பேரூட்டச்சத்துகளை அளிக்க",
+          "ஒவ்வொரு பருவத்திலும் மண்ணின் pH ஐச் சோதிக்க",
+          "வயலிலுள்ள பூச்சிகளையும் புழுக்களையும் கொல்ல",
+          "அறுவடை செய்த பயிர்களின் நிறத்தை மாற்ற"
         ],
         "explanation": "எ.கா: அம்மோனியம் நைட்ரேட், கால்சியம் பாஸ்பேட், யூரியா, NPK."
       }
@@ -547,7 +547,7 @@
         "q": "தடய வேதியியல் தொடர்புடையது",
         "options": [
           "உரம் தயாரிப்புடன்",
-          "குற்ற விசாரணைக்கு அறிவியல் கொள்கைகளைப் பயன்படுத்துதலுடன்",
+          "குற்ற விசாரணையுடன்",
           "மருந்து தயாரிப்புடன்",
           "சாயங்களை ஆராய்வதுடன்"
         ],

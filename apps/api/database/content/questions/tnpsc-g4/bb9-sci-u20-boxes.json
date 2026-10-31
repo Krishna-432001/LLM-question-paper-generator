@@ -24,10 +24,10 @@
       "ta": {
         "q": "உறுப்புகளும் உறுப்பு மண்டலங்களும் முதன்முதலில் தோன்றிய தொகுதி",
         "options": [
-          "துளையுடலிகள்",
-          "குழியுடலிகள்",
+          "துளையுடலிகள் தொகுதி",
+          "குழியுடலிகள் தொகுதி",
           "தட்டைப் புழுக்கள்",
-          "புரோட்டோசோவா"
+          "புரோட்டோசோவா தொகுதி"
         ],
         "explanation": "அவை பாலூட்டிகள் வரை தொடர்கின்றன."
       }
@@ -54,7 +54,7 @@
         "q": "அனைத்து உறுப்பு மண்டலங்களும் ஒருங்கிணைந்து உடலைப் பேணுவது",
         "options": [
           "நோய் நிலையில்",
-          "சமநிலை (ஹோமியோஸ்டாசிஸ்) நிலையில்",
+          "சமநிலை நிலையில்",
           "ஓய்வு நிலையில்",
           "உறக்க நிலையில்"
         ],
@@ -305,9 +305,9 @@
         "q": "In the stomach, the mucus",
         "options": [
           "protects the wall of the stomach",
-          "kills bacteria",
-          "digests proteins",
-          "emulsifies fats"
+          "kills all the bacteria in food",
+          "digests proteins in the food",
+          "emulsifies fats in the food"
         ],
         "explanation": "Hydrochloric acid kills bacteria; pepsin digests proteins."
       },
@@ -459,9 +459,9 @@
       "ta": {
         "q": "குடல் சுரப்பிகள் சுரக்கும் குடல் சாறு",
         "options": [
-          "பித்த நீர்",
-          "கைம்",
-          "கணைய நீர்",
+          "கல்லீரல் பித்த நீர்",
+          "கைம் எனும் உணவுக் கூழ்",
+          "கணையச் செரிமான நீர்",
           "சக்கஸ் என்டெரிகஸ்"
         ],
         "explanation": "இதில் மால்டேஸ், லாக்டேஸ், சுக்ரேஸ், லிப்பேஸ் உள்ளன; இது காரத்தன்மையில் செயல்படும்."
@@ -507,9 +507,9 @@
       "en": {
         "q": "The vestigial (functionless) organ arising from the caecum in humans is the",
         "options": [
-          "duodenum",
-          "colon",
-          "rectum",
+          "upper duodenum",
+          "ascending colon",
+          "terminal rectum",
           "vermiform appendix"
         ],
         "explanation": "The large intestine is about 1.5 m long and has caecum, colon and rectum."
@@ -710,10 +710,10 @@
       "en": {
         "q": "The sac-like structure that stores urine temporarily is the",
         "options": [
-          "ureter",
+          "ureter tube",
           "urinary bladder",
-          "urethra",
-          "kidney"
+          "urethra tube",
+          "kidney organ"
         ],
         "explanation": "The ureters carry urine from the kidneys to the urinary bladder by peristaltic movements."
       },
@@ -739,10 +739,10 @@
       "en": {
         "q": "The bunch of capillaries inside the Bowman's capsule is called the",
         "options": [
-          "nephron",
-          "pyramid",
+          "nephron unit",
+          "renal pyramid",
           "glomerulus",
-          "hilum"
+          "renal hilum"
         ],
         "explanation": "Bowman's capsule and glomerulus together form the renal (Malpighian) corpuscle."
       },
@@ -868,7 +868,7 @@
           "சிறுநீர் கழித்தல்",
           "நீராவிப்போக்கு",
           "குளோமெருலார் வடிகட்டுதல்",
-          "இரத்தக் கழிவு நீக்கம் (ஹீமோடயாலிசிஸ்)"
+          "இரத்தக் கழிவு நீக்கம்"
         ],
         "explanation": "சிறுநீரகங்கள் வடிகட்டும் திறனை இழந்தால் சிறுநீரகச் செயலிழப்பு ஏற்படும்."
       }
@@ -887,7 +887,7 @@
           "William Beaumont",
           "Christiaan Barnard",
           "Alexander Fleming",
-          "Joseph E. Murray and colleagues"
+          "Joseph E. Murray"
         ],
         "explanation": "It was between identical twins, Ronald and Richard Herrick, in Boston, USA."
       },
@@ -897,7 +897,7 @@
           "வில்லியம் பியூமாண்ட்",
           "கிறிஸ்டியன் பர்னார்டு",
           "அலெக்சாண்டர் ஃபிளெமிங்",
-          "ஜோசப் இ. முர்ரே மற்றும் சகாக்கள்"
+          "ஜோசப் இ. முர்ரே"
         ],
         "explanation": "இது ஒரே மாதிரி இரட்டையர்களான ரொனால்டு, ரிச்சர்டு ஹெரிக் இடையே பாஸ்டனில் நடைபெற்றது."
       }
@@ -923,7 +923,7 @@
       "ta": {
         "q": "கேமீட்டுகளை உருவாக்கி பாலின ஹார்மோன்களைச் சுரக்கும் முதன்மை பாலுறுப்புகள்",
         "options": [
-          "இனப்பெருக்கச் சுரப்பிகள் (கோனாட்கள்)",
+          "கோனாட்கள்",
           "பாலின நாளங்கள்",
           "விதைப்பை",
           "துணைச் சுரப்பிகள்"
@@ -1040,7 +1040,7 @@
         "q": "ஆண் இனப்பெருக்க மண்டலத்தின் துணைச் சுரப்பி எது?",
         "options": [
           "சூற்பை",
-          "முன்னிற்குச் சுரப்பி (புரோஸ்டேட்)",
+          "புரோஸ்டேட் சுரப்பி",
           "உமிழ்நீர்ச் சுரப்பி",
           "தைராய்டு"
         ],
@@ -1097,7 +1097,7 @@
       "ta": {
         "q": "கருப்பையின் குறுகிய கீழ்ப்பகுதி, யோனியில் திறப்பது",
         "options": [
-          "கருப்பை வாய் (செர்விக்ஸ்)",
+          "கருப்பை வாய்",
           "அண்டநாளம்",
           "சூற்பை",
           "ஃபிம்ப்ரியே"
@@ -1129,7 +1129,7 @@
           "விந்தணு",
           "இரத்தச் சிவப்பணு",
           "நியூரானின் செல் உடல்",
-          "அண்டம் (கருமுட்டை)"
+          "அண்டம்"
         ],
         "explanation": "அண்டம் உருவாகும் செயல்முறை ஊஜெனசிஸ்."
       }

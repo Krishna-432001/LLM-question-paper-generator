@@ -130,9 +130,9 @@
       "en": {
         "q": "Carbon and its Compounds: Which of the following is an inorganic carbon compound?",
         "options": [
-          "Ethanol",
-          "Cellulose",
-          "Starch",
+          "Ethanoic acid",
+          "Plant cellulose",
+          "Potato starch",
           "Calcium carbonate"
         ],
         "explanation": "Compounds of carbon from non-living matter are inorganic; ethanol, cellulose and starch come from living organisms."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் கனிம கார்பன் சேர்மம் எது?",
         "options": [
-          "எத்தனால்",
-          "செல்லுலோஸ்",
-          "ஸ்டார்ச்",
+          "எத்தனாயிக் அமிலம்",
+          "தாவரச் செல்லுலோஸ்",
+          "உருளைக்கிழங்கு ஸ்டார்ச்",
           "கால்சியம் கார்பனேட்"
         ],
         "explanation": "உயிரற்ற பொருள்களிலிருந்து பெறப்படும் கார்பன் சேர்மங்கள் கனிமச் சேர்மங்கள்; எத்தனால், செல்லுலோஸ், ஸ்டார்ச் உயிரினங்களிலிருந்து பெறப்படுபவை."
@@ -344,7 +344,7 @@
         "q": "கால்சியம் கார்பனேட் தயாரிக்க கார்பன் டைஆக்சைடை செலுத்த வேண்டிய கரைசல்",
         "options": [
           "நீர்",
-          "நீற்றிய சுண்ணாம்புக் கரைசல் (சுண்ணாம்பு நீர்)",
+          "நீற்றிய சுண்ணாம்புக் கரைசல்",
           "சோடியம் குளோரைடு கரைசல்",
           "சல்பியூரிக் அமிலம்"
         ],
@@ -594,20 +594,20 @@
       "en": {
         "q": "Which statement about graphene is correct?",
         "options": [
-          "It is thicker than diamond",
-          "It is a non-conductor of heat",
-          "It is 100 times heavier than steel",
-          "It is the thinnest known material, one atom thick, and 100-300 times stronger than steel"
+          "It is much thicker than a sheet of diamond",
+          "It is a very poor conductor of heat and electricity",
+          "It is 100 times heavier than an equal volume of steel",
+          "It is one atom thick and 100-300 times stronger than steel"
         ],
         "explanation": "Graphene is a honeycomb-shaped hexagonal arrangement in a plane; 1 square metre weighs about 0.77 mg."
       },
       "ta": {
         "q": "கிராஃபீன் பற்றிய சரியான கூற்று எது?",
         "options": [
-          "வைரத்தை விடத் தடிமனானது",
-          "வெப்பத்தைக் கடத்தாது",
-          "எஃகை விட 100 மடங்கு கனமானது",
-          "ஒரு அணு தடிமனுடைய மிக மெல்லிய பொருள்; எஃகை விட 100-300 மடங்கு வலிமையானது"
+          "ஒரு வைரத் துண்டை விட மிகவும் தடிமனான பொருள்",
+          "வெப்பத்தையும் மின்சாரத்தையும் மிகக் குறைவாகக் கடத்தும்",
+          "சம கன அளவு எஃகை விட 100 மடங்கு அதிகக் கனமானது",
+          "ஒரு அணு தடிமனுடையது; எஃகை விட 100-300 மடங்கு வலிமையானது"
         ],
         "explanation": "கிராஃபீன் தேன்கூடு வடிவ அறுகோணத் தளம்; 1 சதுர மீட்டர் எடை ஏறத்தாழ 0.77 மி.கி."
       }
@@ -797,20 +797,20 @@
       "en": {
         "q": "Where is the resin code usually found on a plastic item?",
         "options": [
-          "Inside the plastic",
-          "Only on the lid",
-          "On the bottom or label, as three chasing arrows in a triangle",
-          "On the nozzle"
+          "Printed inside the body of the plastic",
+          "Only on the lid, as a number in a square",
+          "On the bottom, as three chasing arrows in a triangle",
+          "Only on the nozzle, as a green circle"
         ],
         "explanation": "If not found at the bottom, look for the code on the label."
       },
       "ta": {
         "q": "நெகிழிப் பொருளில் ரெசின் குறியீடு பொதுவாக எங்குக் காணப்படும்?",
         "options": [
-          "நெகிழியின் உள்ளே",
-          "மூடியில் மட்டும்",
-          "அடிப்பகுதியில் அல்லது ஒட்டுச்சீட்டில், முக்கோணத்தில் மூன்று சுழல் அம்புகளாக",
-          "வாய்ப்பகுதியில்"
+          "நெகிழியின் உடலுக்குள் மறைவாக அச்சிடப்பட்டு",
+          "மூடியில் மட்டும், சதுரத்தில் ஒரு எண்ணாக",
+          "அடிப்பகுதியில், முக்கோணத்தில் மூன்று சுழல் அம்புகளாக",
+          "வாய்ப்பகுதியில் மட்டும், பச்சை வட்டமாக"
         ],
         "explanation": "அடியில் இல்லையெனில் லேபிளில் தேடலாம்."
       }
@@ -884,7 +884,7 @@
       "en": {
         "q": "Polycarbonate (PC) plastic contains which harmful chemical?",
         "options": [
-          "Bisphenol A (BPA)",
+          "Bisphenol A",
           "Phthalate",
           "Styrene",
           "Dioxin"
@@ -894,7 +894,7 @@
       "ta": {
         "q": "பாலிகார்பனேட் (PC) நெகிழியில் உள்ள தீங்கு விளைவிக்கும் வேதிப்பொருள்",
         "options": [
-          "பிஸ்பீனால் A (BPA)",
+          "பிஸ்பீனால் A",
           "தாலேட்",
           "ஸ்டைரீன்",
           "டையாக்சின்"
@@ -1011,9 +1011,9 @@
         "q": "பாடநூலின்படி ஒரு பசுவின் வயிற்றில் எவ்வளவுக்கு மேற்பட்ட நெகிழி கண்டறியப்பட்டது?",
         "options": [
           "70 கிலோவுக்கு மேல்",
-          "7 கிலோ",
-          "700 கிலோ",
-          "17 கிலோ"
+          "7 கிலோவுக்கு மேல்",
+          "700 கிலோவுக்கு மேல்",
+          "17 கிலோவுக்கு மேல்"
         ],
         "explanation": "உணவு இருக்கும் எனக் கருதி விலங்குகள் நெகிழிப் பைகளை உண்கின்றன."
       }

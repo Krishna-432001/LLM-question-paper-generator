@@ -55,7 +55,7 @@
         "options": [
           "தொடு உணர்வசைவு",
           "ஒளி வளைதல்",
-          "நீர் வளைதல் (ஹைட்ரோடிரோபிசம்)",
+          "நீர் வளைதல்",
           "ஒளி உணர்வசைவு"
         ],
         "explanation": "நீரை நோக்கித் தாவரப் பகுதி வளைவது நீர் வளைதல்."
@@ -85,7 +85,7 @@
           "வெப்ப வளைதல்",
           "வேதி வளைதல்",
           "தொடு உணர்வசைவு",
-          "வெப்ப உணர்வசைவு (தெர்மோநாஸ்டி)"
+          "வெப்ப உணர்வசைவு"
         ],
         "explanation": "எ.கா: வெப்பநிலை உயரும்போது டூலிப் மலர்கள் மலர்கின்றன."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "The shoot system grows upward in response to",
         "options": [
-          "water only",
-          "touch",
-          "light (positive phototropism) and against gravity (negative geotropism)",
-          "chemicals only"
+          "water in the soil only",
+          "touch from other objects",
+          "light and against gravity",
+          "chemicals in the air only"
         ],
         "explanation": "The shoot is positively phototropic and negatively geotropic."
       },
       "ta": {
         "q": "தண்டுத் தொகுப்பு மேல்நோக்கி வளர்வது ______ க்குத் துலங்கலாக.",
         "options": [
-          "நீருக்கு மட்டும்",
-          "தொடுதலுக்கு",
-          "ஒளி (நேர் ஒளி வளைதல்), புவிஈர்ப்புக்கு எதிராக (எதிர் புவி வளைதல்)",
-          "வேதிப்பொருளுக்கு மட்டும்"
+          "மண்ணிலுள்ள நீருக்கு மட்டும்",
+          "பிற பொருள்களின் தொடுதலுக்கு",
+          "ஒளி, புவிஈர்ப்புக்கு எதிராக",
+          "காற்றிலுள்ள வேதிப்பொருளுக்கு மட்டும்"
         ],
         "explanation": "தண்டு ஒளி நாட்டமுடையதும் புவி விலகுவதும் ஆகும்."
       }
@@ -230,7 +230,7 @@
           "ஹீமோகுளோபின்",
           "சாந்தோப்டெரின்",
           "கரோட்டின்",
-          "பச்சையம் (குளோரோஃபில்)"
+          "பச்சையம்"
         ],
         "explanation": "இலைகளிலுள்ள பச்சை நிறமி பச்சையம்."
       }
@@ -286,7 +286,7 @@
         "q": "புவிஈர்ப்புக்குத் தாவரப் பகுதி காட்டும் துலங்கல்",
         "options": [
           "நீர் வளைதல்",
-          "புவி வளைதல் (ஜியோடிரோபிசம்)",
+          "புவி வளைதல்",
           "ஒளி வளைதல்",
           "வெப்ப உணர்வசைவு"
         ],
@@ -374,7 +374,7 @@
         "options": [
           "ஒளி வளைதல்",
           "தொடு வளைதல்",
-          "வேதி வளைதல் (கெமோடிரோபிசம்)",
+          "வேதி வளைதல்",
           "நீர் வளைதல்"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; எ.கா: சூலகமுடியிலுள்ள சர்க்கரைக்கு எதிராக மகரந்தக் குழாய் வளர்தல்."
@@ -449,10 +449,10 @@
       "en": {
         "q": "Photosynthesis is important because it",
         "options": [
-          "releases methane",
-          "releases oxygen to keep the atmosphere in balance",
-          "uses up all the oxygen",
-          "produces only water"
+          "releases methane gas into the air",
+          "releases oxygen into the atmosphere",
+          "uses up all the oxygen in the air",
+          "produces only water and no gas"
         ],
         "explanation": "The statement in the book is true."
       },
@@ -537,9 +537,9 @@
         "q": "Which statement differentiates phototropism from photonasty?",
         "options": [
           "Phototropism is non-directional; photonasty is directional",
-          "Both are the response to gravity",
-          "Phototropism is a directional growth movement towards light; photonasty is a non-directional response to light",
-          "Both occur only in roots"
+          "Both are responses to gravity alone",
+          "Phototropism is directional; photonasty is non-directional",
+          "Both occur only in the roots of plants"
         ],
         "explanation": "Photonasty example: Taraxacum officinale blooms in the morning and closes in the evening; Ipomoea alba opens at night."
       },
@@ -547,9 +547,9 @@
         "q": "ஒளி வளைதலையும் ஒளி உணர்வசைவையும் வேறுபடுத்தும் கூற்று",
         "options": [
           "ஒளி வளைதல் திசையற்றது; ஒளி உணர்வசைவு திசையுடையது",
-          "இரண்டும் புவிஈர்ப்புக்கான துலங்கல்",
-          "ஒளி வளைதல் ஒளியை நோக்கிய திசை வளர்ச்சி இயக்கம்; ஒளி உணர்வசைவு ஒளிக்குத் திசையற்ற துலங்கல்",
-          "இரண்டும் வேரில் மட்டும் நிகழ்கின்றன"
+          "இரண்டும் புவிஈர்ப்புக்கான வளர்ச்சித் துலங்கல்கள்",
+          "ஒளி வளைதல் திசையுடையது; ஒளி உணர்வசைவு திசையற்றது",
+          "இரண்டும் தாவர வேர்களில் மட்டுமே நிகழ்கின்றன"
         ],
         "explanation": "ஒளி உணர்வசைவு: டாராக்ஸகம் காலையில் மலர்ந்து மாலையில் மூடும்; நிசிமலர் (ஐபோமியா ஆல்பா) இரவில் மலரும்."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "Transpiration is the",
         "options": [
-          "absorption of water by roots",
-          "loss of water in the form of water vapour from the aerial parts, mainly leaves, of a plant",
-          "preparation of food by plants",
-          "exchange of air in animals"
+          "absorption of water from the soil by roots",
+          "loss of water vapour from aerial parts of a plant",
+          "preparation of food by plants in leaves",
+          "exchange of air in the lungs of animals"
         ],
         "explanation": "The leaves have tiny pores called stomata through which water evaporates."
       },
       "ta": {
         "q": "நீராவிப்போக்கு என்பது",
         "options": [
-          "வேர்கள் நீரை உறிஞ்சுதல்",
-          "தாவரத்தின் வான்பகுதிகளிலிருந்து, முக்கியமாக இலைகளிலிருந்து நீர் ஆவியாக வெளியேறுதல்",
-          "தாவரங்கள் உணவு தயாரித்தல்",
-          "விலங்குகளில் காற்றுப் பரிமாற்றம்"
+          "மண்ணிலிருந்து வேர்கள் நீரை உறிஞ்சுதல்",
+          "தாவரத்தின் வான்பகுதிகளிலிருந்து நீர் ஆவியாக வெளியேறுதல்",
+          "இலைகளில் தாவரங்கள் உணவு தயாரித்தல்",
+          "விலங்குகளின் நுரையீரலில் காற்றுப் பரிமாற்றம்"
         ],
         "explanation": "இலைகளிலுள்ள இலைத்துளைகள் வழியாக நீர் ஆவியாகிறது."
       }
@@ -663,7 +663,7 @@
         "q": "வளர்ச்சியைச் சார்ந்த, வளர்ச்சியைச் சாராத தாவர இயக்கங்கள் முறையே",
         "options": [
           "உணர்வசைவு இயக்கங்கள், வளைதல் இயக்கங்கள்",
-          "வளைதல் (டிராபிக்) இயக்கங்கள், உணர்வசைவு (நாஸ்டிக்) இயக்கங்கள்",
+          "வளைதல் இயக்கங்கள், உணர்வசைவு இயக்கங்கள்",
           "ஒளிச்சேர்க்கை, நீராவிப்போக்கு",
           "வெப்ப, ஒளி உணர்வசைவு"
         ],
@@ -681,20 +681,20 @@
       "en": {
         "q": "The pneumatophores (roots) of halophytes like Avicennia and Rhizophora are",
         "options": [
-          "positively geotropic",
-          "positively phototropic stems",
-          "negatively geotropic, turning 180 degrees upright for respiration",
-          "negatively hydrotropic only"
+          "positively geotropic, growing downwards into mud",
+          "positively phototropic, growing towards light",
+          "negatively geotropic, growing upright for respiration",
+          "negatively hydrotropic, growing away from water"
         ],
         "explanation": "Some halophytes produce negatively geotropic roots (e.g. Rhizophora) which turn upright for respiration."
       },
       "ta": {
         "q": "அவிசீனியா போன்ற உவர்நிலத் தாவரங்களின் சுவாச வேர்கள் (நியூமட்டோஃபோர்கள்)",
         "options": [
-          "நேர் புவி வளைதல் உடையவை",
-          "நேர் ஒளி வளைதல் உள்ள தண்டுகள்",
-          "எதிர் புவி வளைதல் உடையவை; சுவாசத்திற்காக 180° மேல்நோக்கித் திரும்புபவை",
-          "எதிர் நீர் வளைதல் மட்டும் உடையவை"
+          "நேர் புவி வளைதல் உடையவை; சேற்றில் கீழ்நோக்கி வளர்பவை",
+          "நேர் ஒளி வளைதல் உடையவை; ஒளியை நோக்கி வளர்பவை",
+          "எதிர் புவி வளைதல் உடையவை; சுவாசத்திற்காக மேல்நோக்கி வளர்பவை",
+          "எதிர் நீர் வளைதல் உடையவை; நீரிலிருந்து விலகி வளர்பவை"
         ],
         "explanation": "ரைசோஃபோரா போன்ற உவர்நிலத் தாவரங்களில் எதிர் புவி வளைதல் வேர்கள் சுவாசத்திற்காக மேல்நோக்கித் திரும்புகின்றன."
       }
@@ -740,9 +740,9 @@
         "q": "Chlorophyll is the",
         "options": [
           "red pigment of blood",
-          "a hormone",
-          "green pigment in leaves needed for photosynthesis",
-          "enzyme in saliva"
+          "a hormone of animals",
+          "green pigment of leaves",
+          "an enzyme in saliva"
         ],
         "explanation": "Chlorophyll, water, carbon dioxide and sunlight are the requirements of photosynthesis."
       },
@@ -751,7 +751,7 @@
         "options": [
           "இரத்தத்தின் சிவப்பு நிறமி",
           "ஒரு ஹார்மோன்",
-          "ஒளிச்சேர்க்கைக்குத் தேவையான இலைகளிலுள்ள பச்சை நிறமி",
+          "இலைகளிலுள்ள பச்சை நிறமி",
           "உமிழ்நீரிலுள்ள நொதி"
         ],
         "explanation": "ஒளிச்சேர்க்கைக்குப் பச்சையம், நீர், CO2, சூரிய ஒளி தேவை."
@@ -770,7 +770,7 @@
         "options": [
           "a nastic movement and a tropic movement",
           "both tropic movements",
-          "a tropic (directional) movement and a nastic (non-directional) movement",
+          "a tropic movement and a nastic movement",
           "both nastic movements"
         ],
         "explanation": "Sunflower follows the sun's path (directional response to light); Mimosa folds its leaves on touch (thigmonasty or seismonasty)."
@@ -780,7 +780,7 @@
         "options": [
           "உணர்வசைவு இயக்கமும் வளைதல் இயக்கமும்",
           "இரண்டும் வளைதல் இயக்கங்கள்",
-          "வளைதல் (திசையுடைய) இயக்கமும் உணர்வசைவு (திசையற்ற) இயக்கமும்",
+          "வளைதல் இயக்கமும் உணர்வசைவு இயக்கமும்",
           "இரண்டும் உணர்வசைவு இயக்கங்கள்"
         ],
         "explanation": "சூரியகாந்தி ஒளியை நோக்கித் திசையுடன் இயங்குகிறது; தொட்டாற்சிணுங்கி தொடுதலால் இலையை மூடுகிறது (தொடு உணர்வசைவு)."
@@ -827,7 +827,7 @@
         "q": "To which directional stimulus do roots respond but not shoots?",
         "options": [
           "Light",
-          "Water (hydrotropism)",
+          "Water",
           "Gravity",
           "Touch"
         ],
@@ -837,7 +837,7 @@
         "q": "வேர்கள் மட்டும் துலங்கி தண்டுகள் துலங்காத திசைத் தூண்டல் எது?",
         "options": [
           "ஒளி",
-          "நீர் (நீர் வளைதல்)",
+          "நீர்",
           "புவிஈர்ப்பு",
           "தொடுதல்"
         ],
@@ -884,10 +884,10 @@
       "en": {
         "q": "In the experiment with a leaf covered by black paper, the plant is first kept in the dark for 24 hours to",
         "options": [
-          "remove (de-starch) the starch already present in the leaves",
-          "kill the plant",
-          "increase the starch",
-          "supply carbon dioxide"
+          "remove the starch already present in the leaves",
+          "kill the plant by keeping it dark",
+          "increase the starch stored in leaves",
+          "supply carbon dioxide to the leaves"
         ],
         "explanation": "The experiment shows that sunlight (light) is necessary for photosynthesis; starch is tested with iodine solution, which turns blue-black; the raw materials are water and carbon dioxide."
       },

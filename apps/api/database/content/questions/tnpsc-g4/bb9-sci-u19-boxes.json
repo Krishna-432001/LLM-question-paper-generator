@@ -43,20 +43,20 @@
       "en": {
         "q": "Tropism is a",
         "options": [
-          "unidirectional movement of a plant or its part towards the direction of the stimulus",
-          "non-directional movement",
-          "movement of animals",
-          "movement of water in xylem"
+          "unidirectional movement of a plant part towards the stimulus",
+          "non-directional movement of a plant part in all directions",
+          "movement of animals from one place to another",
+          "upward movement of water in xylem vessels"
         ],
         "explanation": "Tropism is positive if growth is towards the signal and negative if away from it."
       },
       "ta": {
         "q": "வளைதல் இயக்கம் (டிராபிசம்) என்பது",
         "options": [
-          "தூண்டலின் திசையில் தாவரம் அல்லது அதன் பகுதி ஒரு திசையில் இயங்குதல்",
-          "திசையற்ற இயக்கம்",
-          "விலங்குகளின் இயக்கம்",
-          "சைலத்தில் நீர் இயக்கம்"
+          "தூண்டலை நோக்கித் தாவரப் பகுதி ஒரு திசையில் இயங்குதல்",
+          "தாவரப் பகுதி எல்லாத் திசைகளிலும் திசையற்று இயங்குதல்",
+          "விலங்குகள் ஓரிடத்திலிருந்து மற்றோரிடம் இயங்குதல்",
+          "சைலக் குழாய்களில் நீர் மேல்நோக்கி இயங்குதல்"
         ],
         "explanation": "தூண்டலை நோக்கிய வளர்ச்சி நேர் வளைதல்; அதை விட்டு விலகுவது எதிர் வளைதல்."
       }
@@ -140,10 +140,10 @@
       "ta": {
         "q": "ஒரு பக்கம் ஒளித்துளையுடைய பெட்டியில் பட்டாணி நாற்றின் தண்டு ஒளியை நோக்கி வளைவது",
         "options": [
-          "வேரின் எதிர் புவி வளைதல்",
+          "வேரின் எதிர் புவி வளைதலைக் காட்டுகிறது",
           "தண்டின் நேர் ஒளி வளைதலைக் காட்டுகிறது",
-          "ஒளி உணர்வசைவு",
-          "நீர் வளைதல்"
+          "தண்டின் ஒளி உணர்வசைவைக் காட்டுகிறது",
+          "வேரின் நீர் வளைதலைக் காட்டுகிறது"
         ],
         "explanation": "தண்டு நேர் ஒளி நாட்டமுடையது."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "Rhizophora, a halophyte, produces roots that are",
         "options": [
-          "negatively phototropic",
-          "positively geotropic",
-          "negatively geotropic and turn upright for respiration",
-          "hydrotropic only"
+          "negatively phototropic, growing away from light",
+          "positively geotropic, growing down into mud",
+          "negatively geotropic, turning upright for respiration",
+          "hydrotropic only, growing towards water"
         ],
         "explanation": "These roots turn 180 degrees upright for respiration."
       },
       "ta": {
         "q": "உவர்நிலத் தாவரமான ரைசோஃபோரா உருவாக்கும் வேர்கள்",
         "options": [
-          "எதிர் ஒளி வளைதல் உடையவை",
-          "நேர் புவி வளைதல் உடையவை",
-          "எதிர் புவி வளைதல் உடையவை; சுவாசத்திற்காக மேல்நோக்கித் திரும்புபவை",
-          "நீர் வளைதல் மட்டும் உடையவை"
+          "எதிர் ஒளி வளைதல்; ஒளியிலிருந்து விலகி வளர்பவை",
+          "நேர் புவி வளைதல்; சேற்றில் கீழ்நோக்கி வளர்பவை",
+          "எதிர் புவி வளைதல்; சுவாசத்திற்காக மேல்நோக்கி வளர்பவை",
+          "நீர் வளைதல் மட்டும்; நீரை நோக்கி வளர்பவை"
         ],
         "explanation": "இவ்வேர்கள் சுவாசத்திற்காக 180° மேல்நோக்கித் திரும்புகின்றன."
       }
@@ -256,10 +256,10 @@
       "ta": {
         "q": "உணர்வசைவு இயக்கங்களின் பண்பு எது?",
         "options": [
-          "வளர்ச்சியைச் சார்ந்தவை; மீளாதவை",
-          "வளர்ச்சியைச் சாராதவை; தற்காலிகமானவை; மீளக்கூடியவை",
-          "எல்லாத் தாவரங்களிலும் காணப்படுபவை",
-          "ஒரு திசையுடையவை; மெதுவானவை"
+          "வளர்ச்சியைச் சார்ந்தவை; மீளாத நிரந்தரமானவை",
+          "வளர்ச்சியைச் சாராதவை; தற்காலிக, மீளக்கூடியவை",
+          "எல்லாத் தாவரங்களிலும் எல்லா நேரமும் காணப்படுபவை",
+          "ஒரு திசையுடையவை; மிக மெதுவாக நிகழ்பவை"
         ],
         "explanation": "இவை திசையற்றவை, உடனடியானவை, சில சிறப்புத் தாவரங்களில் மட்டுமே காணப்படுபவை."
       }
@@ -288,7 +288,7 @@
           "தொடு உணர்வசைவு",
           "ஒளி உணர்வசைவு",
           "வேதி வளைதல்",
-          "வெப்ப உணர்வசைவுக்கு எடுத்துக்காட்டு"
+          "வெப்ப உணர்வசைவு"
         ],
         "explanation": "வெப்பநிலை மாற்றத்துடன் தொடர்புடைய தாவர இயக்கம் வெப்ப உணர்வசைவு."
       }
@@ -304,10 +304,10 @@
       "en": {
         "q": "Photosynthesis literally means",
         "options": [
-          "breaking down with heat",
-          "water loss",
+          "breaking down with the help of heat",
+          "loss of water from leaves",
           "building up with the help of light",
-          "movement towards light"
+          "movement towards the light"
         ],
         "explanation": "In this process, light energy is converted into chemical energy."
       },
@@ -362,20 +362,20 @@
       "en": {
         "q": "Which of the following is NOT necessary for photosynthesis?",
         "options": [
-          "Chlorophyll",
-          "Water",
+          "Green chlorophyll",
+          "Water from soil",
           "Oxygen from the air",
-          "Sunlight"
+          "Bright sunlight"
         ],
         "explanation": "The four requirements are chlorophyll, water, carbon dioxide and sunlight."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் ஒளிச்சேர்க்கைக்குத் தேவையற்றது எது?",
         "options": [
-          "பச்சையம்",
-          "நீர்",
+          "இலையிலுள்ள பச்சையம்",
+          "மண்ணிலிருந்து நீர்",
           "காற்றிலுள்ள ஆக்ஸிஜன்",
-          "சூரிய ஒளி"
+          "பகல் சூரிய ஒளி"
         ],
         "explanation": "ஒளிச்சேர்க்கைக்குத் தேவையானவை: பச்சையம், நீர், CO2, சூரிய ஒளி."
       }
@@ -420,19 +420,19 @@
       "en": {
         "q": "Which of the following is a reason why transpiration is necessary?",
         "options": [
-          "It produces glucose",
-          "It fixes nitrogen",
-          "It releases oxygen",
-          "It regulates the temperature of the plant"
+          "It produces glucose in the roots",
+          "It fixes nitrogen from the air",
+          "It releases oxygen into the soil",
+          "It regulates the plant's temperature"
         ],
         "explanation": "It also creates a pull in leaf and stem, an absorption force in roots and ensures continuous supply of minerals."
       },
       "ta": {
         "q": "நீராவிப்போக்கு தேவையானதற்கான காரணம் எது?",
         "options": [
-          "குளுக்கோஸை உருவாக்குகிறது",
-          "நைட்ரஜனை நிலைநிறுத்துகிறது",
-          "ஆக்ஸிஜனை வெளியிடுகிறது",
+          "வேர்களில் குளுக்கோஸை உருவாக்குகிறது",
+          "காற்றிலுள்ள நைட்ரஜனை நிலைநிறுத்துகிறது",
+          "மண்ணுக்குள் ஆக்ஸிஜனை வெளியிடுகிறது",
           "தாவரத்தின் வெப்பநிலையை ஒழுங்குபடுத்துகிறது"
         ],
         "explanation": "இலை, தண்டில் இழுவிசையையும் வேரில் உறிஞ்சும் விசையையும் தந்து, கனிமங்கள் தொடர்ந்து கிடைக்க உதவுகிறது."
@@ -507,9 +507,9 @@
       "en": {
         "q": "Lenticels are tiny openings found in the",
         "options": [
-          "root cap",
-          "leaf cuticle",
-          "petals only",
+          "root cap of the main root",
+          "waxy leaf cuticle of leaves",
+          "petals of flowers only",
           "bark of woody stems and twigs"
         ],
         "explanation": "Water lost through them is lenticular transpiration."
@@ -517,9 +517,9 @@
       "ta": {
         "q": "பட்டைத்துளைகள் (லென்டிசெல்கள்) என்பவை சிறு திறப்புகள்; அவை காணப்படுவது",
         "options": [
-          "வேர்மூடியில்",
-          "இலையின் கியூட்டிகிளில்",
-          "இதழ்களில் மட்டும்",
+          "வேரின் வேர்மூடிப் பகுதியில்",
+          "இலையின் மெழுகு கியூட்டிகிளில்",
+          "மலர்களின் இதழ்களில் மட்டும்",
           "மரத்தண்டு, சிறு கிளைகளின் பட்டையில்"
         ],
         "explanation": "இவற்றின் வழியாக நீர் இழப்பது பட்டைத்துளை நீராவிப்போக்கு."

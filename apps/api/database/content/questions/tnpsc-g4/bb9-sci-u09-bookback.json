@@ -17,7 +17,7 @@
           "Ptolemy",
           "Tycho Brahe",
           "Archimedes",
-          "Nicolaus Copernicus"
+          "Copernicus"
         ],
         "explanation": "The Polish astronomer Nicolaus Copernicus proposed the heliocentric model with the Sun at the centre of the solar system."
       },
@@ -27,7 +27,7 @@
           "தாலமி",
           "டைகோ பிராகே",
           "ஆர்க்கிமிடிஸ்",
-          "நிக்கோலஸ் கோப்பர்நிக்கஸ்"
+          "கோப்பர்நிக்கஸ்"
         ],
         "explanation": "போலந்து வானியலாளர் கோப்பர்நிக்கஸ் சூரியனை மையமாகக் கொண்ட கொள்கையை முன்மொழிந்தார்."
       }
@@ -142,7 +142,7 @@
         "options": [
           "நீள்வட்ட விதி",
           "சம பரப்பு விதி",
-          "இசைவு விதி (Law of Harmonies)",
+          "இசைவு விதி",
           "நிலைமை விதி"
         ],
         "explanation": "கோளின் சுற்றுக்காலத்தின் வர்க்கம், சூரியனிலிருந்து அதன் தொலைவின் கனத்திற்கு நேர்தகவு."
@@ -189,9 +189,9 @@
         "q": "The International Space Station (ISS) is a proof of international cooperation because it is",
         "options": [
           "operated by five space agencies of several countries",
-          "built by one country alone",
-          "owned only by NASA",
-          "operated by two countries"
+          "built and operated by one country alone",
+          "owned and run only by the American NASA",
+          "operated jointly by only two countries"
         ],
         "explanation": "NASA (USA), Roskosmos (Russia), ESA (Europe), JAXA (Japan) and CSA (Canada) together with other countries operate it; the statement is true."
       },
@@ -199,9 +199,9 @@
         "q": "பன்னாட்டு விண்வெளி மையம் (ISS) பன்னாட்டு ஒத்துழைப்புக்குச் சான்று; ஏனெனில் அது",
         "options": [
           "பல நாடுகளின் ஐந்து விண்வெளி நிறுவனங்களால் இயக்கப்படுகிறது",
-          "ஒரே நாட்டால் மட்டும் கட்டப்பட்டது",
-          "NASA-வுக்கு மட்டும் சொந்தம்",
-          "இரு நாடுகளால் இயக்கப்படுகிறது"
+          "ஒரே நாட்டால் மட்டும் கட்டப்பட்டு இயக்கப்படுகிறது",
+          "அமெரிக்காவின் NASA-வுக்கு மட்டுமே சொந்தமானது",
+          "இரண்டு நாடுகள் மட்டும் இணைந்து இயக்குகின்றன"
         ],
         "explanation": "NASA, Roskosmos, ESA, JAXA, CSA மற்றும் பிற நாடுகள் இணைந்து இதை இயக்குகின்றன; கூற்று சரி."
       }
@@ -362,20 +362,20 @@
       "en": {
         "q": "The time period of a satellite is the",
         "options": [
-          "time taken to rotate on its axis",
-          "time taken to reach orbit",
-          "time taken to complete one revolution around the Earth",
-          "time of one day"
+          "time taken to rotate once on its own axis",
+          "time taken to reach its orbit from the Earth",
+          "time for one revolution around the Earth",
+          "the time of one full lunar month"
         ],
         "explanation": "Time period T = distance covered / orbital velocity = 2 pi r / v."
       },
       "ta": {
         "q": "ஒரு செயற்கைக்கோளின் சுற்றுக்காலம் என்பது",
         "options": [
-          "தன் அச்சில் சுழல எடுக்கும் நேரம்",
-          "சுற்றுப்பாதையை அடைய எடுக்கும் நேரம்",
+          "தன் அச்சில் ஒரு முறை சுழல எடுக்கும் நேரம்",
+          "புவியிலிருந்து சுற்றுப்பாதையை அடைய எடுக்கும் நேரம்",
           "புவியை ஒரு முறை சுற்றி வர எடுக்கும் நேரம்",
-          "ஒரு நாளின் நேரம்"
+          "ஒரு முழு சந்திர மாதத்தின் நேரம்"
         ],
         "explanation": "சுற்றுக்காலம் T = கடந்த தொலைவு / சுற்றுப்பாதைத் திசைவேகம் = 2πr / v."
       }
@@ -391,7 +391,7 @@
       "en": {
         "q": "A body moving in an orbit around a planet is called a satellite. Its two types are",
         "options": [
-          "natural satellites (moons) and artificial satellites",
+          "natural and artificial satellites",
           "inner and outer satellites",
           "stars and planets",
           "comets and asteroids"
@@ -401,7 +401,7 @@
       "ta": {
         "q": "கோளைச் சுற்றும் பொருள் துணைக்கோள் எனப்படும்; அதன் இரு வகைகள்",
         "options": [
-          "இயற்கைத் துணைக்கோள்கள் (நிலவுகள்), செயற்கைத் துணைக்கோள்கள்",
+          "இயற்கை, செயற்கைத் துணைக்கோள்கள்",
           "உட்புற, வெளிப்புறத் துணைக்கோள்கள்",
           "விண்மீன்கள், கோள்கள்",
           "வால்விண்மீன்கள், சிறுகோள்கள்"
@@ -420,20 +420,20 @@
       "en": {
         "q": "The four inner planets Mercury, Venus, Earth and Mars are also called",
         "options": [
-          "dwarf planets",
+          "small icy dwarf planets",
           "gas giants with rings",
-          "terrestrial or rocky planets without rings",
-          "outer planets"
+          "terrestrial or rocky planets",
+          "outer gaseous planets"
         ],
         "explanation": "They have a surface of solid rock crust; the four outer planets are gas giants and have rings."
       },
       "ta": {
         "q": "புதன், வெள்ளி, பூமி, செவ்வாய் ஆகிய உட்புறக் கோள்கள் இவ்வாறும் அழைக்கப்படுகின்றன",
         "options": [
-          "குறுங்கோள்கள்",
+          "பனிக்கட்டியாலான குறுங்கோள்கள்",
           "வளையங்களுள்ள வாயு அரக்கர்கள்",
-          "வளையங்களற்ற பாறைக் கோள்கள் (நிலக்கோள்கள்)",
-          "வெளிப்புறக் கோள்கள்"
+          "நிலக்கோள்கள் என்னும் பாறைக் கோள்கள்",
+          "வாயுக்களாலான வெளிப்புறக் கோள்கள்"
         ],
         "explanation": "இவற்றின் மேற்பரப்பு திடப் பாறையாலானது; வெளிப்புறக் கோள்கள் வளையங்கள் கொண்ட வாயுக் கோள்கள்."
       }
@@ -451,7 +451,7 @@
         "options": [
           "small rocky objects between Mars and Jupiter",
           "pieces of rock burnt in the atmosphere",
-          "lumps of dust and ice revolving around the Sun in highly elliptical orbits",
+          "lumps of dust and ice orbiting the Sun in elongated orbits",
           "groups of stars"
         ],
         "explanation": "When approaching the Sun a comet vaporizes and forms a head and tail."
@@ -478,20 +478,20 @@
       "en": {
         "q": "Kepler's first law (Law of Ellipses) states that",
         "options": [
-          "all planets revolve around the Sun in elliptical orbits with the Sun at one of the foci",
-          "planets move in circular orbits",
-          "the Sun moves around the Earth",
-          "planets revolve in straight lines"
+          "planets move in elliptical orbits with the Sun at one focus",
+          "planets move around the Sun in perfectly circular orbits",
+          "the Sun and the planets move around the Earth in orbits",
+          "planets revolve around the Sun along straight lines"
         ],
         "explanation": "Second law: equal areas in equal times; third law: T^2 is proportional to R^3."
       },
       "ta": {
         "q": "கெப்ளரின் முதல் விதி (நீள்வட்ட விதி) கூறுவது",
         "options": [
-          "அனைத்துக் கோள்களும் சூரியனை ஒரு குவியமாகக் கொண்ட நீள்வட்டப் பாதைகளில் சுற்றுகின்றன",
-          "கோள்கள் வட்டப் பாதையில் இயங்குகின்றன",
-          "சூரியன் புவியைச் சுற்றுகிறது",
-          "கோள்கள் நேர்கோட்டில் இயங்குகின்றன"
+          "கோள்கள் சூரியனை ஒரு குவியமாகக் கொண்ட நீள்வட்டப் பாதைகளில் சுற்றுகின்றன",
+          "கோள்கள் சூரியனை வட்டப் பாதைகளில் சுற்றி இயங்குகின்றன",
+          "சூரியனும் கோள்களும் புவியைச் சுற்றி இயங்குகின்றன",
+          "கோள்கள் சூரியனை நேர்கோட்டுப் பாதையில் சுற்றுகின்றன"
         ],
         "explanation": "இரண்டாம் விதி: சம நேரத்தில் சம பரப்பு; மூன்றாம் விதி: T^2 ∝ R^3."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "Life is possible on Earth because of its right distance from the Sun, which gives it",
         "options": [
-          "the right temperature, presence of water, suitable atmosphere and a blanket of ozone",
-          "no atmosphere",
-          "extreme heat",
-          "rings and many moons"
+          "the right temperature, water, atmosphere and ozone layer",
+          "a thin atmosphere with no water or oxygen",
+          "extreme heat and no water on the surface",
+          "rings and many moons around the planet"
         ],
         "explanation": "Earth is the only planet in the solar system which supports life."
       },
       "ta": {
         "q": "பூமியில் உயிர் வாழ்க்கை சாத்தியமாகக் காரணம், சூரியனிலிருந்து சரியான தொலைவு இருப்பதால் கிடைப்பவை",
         "options": [
-          "சரியான வெப்பநிலை, நீர், பொருத்தமான வளிமண்டலம், ஓசோன் படலம்",
-          "வளிமண்டலம் இல்லாமை",
-          "மிகுவெப்பம்",
-          "வளையங்களும் பல நிலவுகளும்"
+          "சரியான வெப்பநிலை, நீர், வளிமண்டலம், ஓசோன் படலம்",
+          "மெல்லிய வளிமண்டலமும் நீரின்மையும் ஆக்ஸிஜன் இன்மையும்",
+          "மிகு வெப்பமும் நீரற்ற வறண்ட மேற்பரப்பும்",
+          "கோளைச் சுற்றிய வளையங்களும் பல நிலவுகளும்"
         ],
         "explanation": "சூரியக் குடும்பத்தில் உயிர்கள் வாழும் ஒரே கோள் பூமி."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Some stars appear blue and some red because",
         "options": [
-          "they are at different distances only",
-          "stars appear in different colours depending on their temperature",
-          "they are of different ages only",
-          "of dust in the Earth's atmosphere only"
+          "they are at different distances from the Earth",
+          "of their different surface temperatures",
+          "they are facing different directions in the sky",
+          "of dust in the Earth's atmosphere"
         ],
         "explanation": "Hot stars are white or blue whereas cooler stars are orange or red in colour."
       },
       "ta": {
         "q": "சில விண்மீன்கள் நீலமாகவும் சில சிவப்பாகவும் தோன்றுவதற்குக் காரணம்",
         "options": [
-          "தொலைவு வேறுபாடு மட்டும்",
-          "வெப்பநிலையைப் பொறுத்து விண்மீன்கள் வெவ்வேறு நிறங்களில் தோன்றுவது",
-          "வயது வேறுபாடு மட்டும்",
-          "புவி வளிமண்டலத் தூசு மட்டும்"
+          "விண்மீன்கள் புவியிலிருந்து வெவ்வேறு தொலைவில் உள்ளதால்",
+          "அவற்றின் மேற்பரப்பு வெப்பநிலை வேறுபாட்டால்",
+          "விண்மீன்கள் வானில் வெவ்வேறு திசைகளில் இருப்பதால்",
+          "புவி வளிமண்டலத் தூசால்"
         ],
         "explanation": "சூடான விண்மீன்கள் வெண்மை அல்லது நீலம்; குளிர்ந்தவை ஆரஞ்சு அல்லது சிவப்பு."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "A satellite is maintained in a nearly circular orbit because it is",
         "options": [
-          "pushed continuously by a rocket",
-          "released horizontally with a high velocity at a suitable height and Earth's gravity provides the centripetal force",
-          "attached to a string",
-          "pulled by the Moon"
+          "kept pushed forward continuously by its rocket engines",
+          "launched sideways at high speed, gravity supplying the centripetal force",
+          "attached to the Earth by a long invisible string",
+          "pulled continuously towards the Moon by lunar gravity"
         ],
         "explanation": "The satellite is carried by a rocket to the desired height and released horizontally with a high velocity."
       },
       "ta": {
         "q": "செயற்கைக்கோள் ஏறத்தாழ வட்டப் பாதையில் நிலைத்திருக்கக் காரணம்",
         "options": [
-          "ராக்கெட்டால் தொடர்ந்து தள்ளப்படுவது",
-          "உரிய உயரத்தில் அதிகத் திசைவேகத்துடன் கிடைமட்டமாக விடுவிக்கப்படுவதும், புவியீர்ப்பு மையநோக்கு விசையாகச் செயல்படுவதும்",
-          "கயிற்றால் கட்டப்பட்டிருப்பது",
-          "நிலவால் ஈர்க்கப்படுவது"
+          "ராக்கெட் இயந்திரங்களால் தொடர்ந்து முன்னோக்கித் தள்ளப்படுவது",
+          "அதிக வேகத்தில் கிடைமட்டமாக ஏவப்பட்டு, புவியீர்ப்பே மையநோக்கு விசையாவது",
+          "புவியுடன் கண்ணுக்குத் தெரியாத நீண்ட கயிற்றால் கட்டப்பட்டிருப்பது",
+          "நிலவின் ஈர்ப்பு விசையால் தொடர்ந்து இழுக்கப்படுவது"
         ],
         "explanation": "ராக்கெட் அதை விரும்பிய உயரத்திற்குக் கொண்டு சென்று கிடைமட்டமாகப் பெருவேகத்தில் விடுவிக்கிறது."
       }
@@ -607,7 +607,7 @@
           "கோள்களிடை துணைக்கோள்",
           "துருவச் சுற்றுத் துணைக்கோள்",
           "இயற்கைத் துணைக்கோள்",
-          "புவிநிலைத் துணைக்கோள் (geostationary)"
+          "புவிநிலைத் துணைக்கோள்"
         ],
         "explanation": "ஒரே இடத்திற்கு மேல் எப்போதும் இருப்பதால் இதன் சுற்றுப்பாதை புவிநிலைப் பாதை எனப்படும்."
       }

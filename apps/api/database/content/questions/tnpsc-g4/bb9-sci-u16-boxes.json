@@ -73,9 +73,9 @@
         "q": "The word 'nano' is derived from the Greek word 'Nanos', which represents",
         "options": [
           "a billionth fraction of a unit",
-          "a millionth fraction",
-          "a thousand times",
-          "a tenth"
+          "a millionth fraction of a unit",
+          "a thousand times a unit",
+          "a tenth fraction of a unit"
         ],
         "explanation": "1 nanometre = 1/1,000,000,000 metre."
       },
@@ -170,7 +170,7 @@
         "q": "பாடநூலில் குறிப்பிடப்பட்ட நானோ வேதியியலின் பயன்பாடு எது?",
         "options": [
           "அனைத்து உணவையும் நானோ துகள்களால் மாற்றுதல்",
-          "உலோக நானோ துகள்கள் மிகச் செயல்திறன் மிக்க வினையூக்கிகளாகப் பயன்படுதல்",
+          "உலோக நானோ துகள்கள் மிகு செயல்திறன் மிக்க வினையூக்கிகளாதல்",
           "ஆல்கஹால் தயாரித்தல்",
           "இயந்திரங்களின் ஒரே எரிபொருளாக நானோ துகள்கள்"
         ],
@@ -228,9 +228,9 @@
         "q": "'டிரக்' (drug) என்ற சொல் பிரெஞ்சுச் சொல் 'ட்ரோக்' இலிருந்து வந்தது; அதன் பொருள்",
         "options": [
           "உலர்ந்த மூலிகை",
-          "திரவம்",
-          "நஞ்சு",
-          "மருந்து"
+          "ஒரு திரவப் பொருள்",
+          "ஒரு நஞ்சுப் பொருள்",
+          "ஒரு மருந்துப் பொருள்"
         ],
         "explanation": "நோய்களைக் குணப்படுத்தப் பயன்படும் வேதிப்பொருள்கள் மருந்துகள்."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "Which drug is produced by genetic engineering?",
         "options": [
-          "Aspirin",
-          "Heparin",
+          "Aspirin from willow bark",
+          "Heparin from animal tissue",
           "Human growth hormone",
-          "Morphine"
+          "Morphine from opium poppy"
         ],
         "explanation": "Aspirin and paracetamol are chemically synthesised; heparin is from animals; morphine from plants."
       },
       "ta": {
         "q": "மரபுப் பொறியியலால் உருவாக்கப்படும் மருந்து எது?",
         "options": [
-          "ஆஸ்பிரின்",
-          "ஹெப்பாரின்",
+          "வில்லோ பட்டையிலிருந்து ஆஸ்பிரின்",
+          "விலங்கு திசுவிலிருந்து ஹெப்பாரின்",
           "மனித வளர்ச்சி ஹார்மோன்",
-          "மார்பின்"
+          "ஓபியம் செடியிலிருந்து மார்பின்"
         ],
         "explanation": "ஆஸ்பிரின், பாராசிட்டமால் வேதிச் சேர்க்கையால்; ஹெப்பாரின் விலங்கிலிருந்து; மார்பின் தாவரத்திலிருந்து."
       }
@@ -594,9 +594,9 @@
       "en": {
         "q": "Electrochemistry deals with the relation between",
         "options": [
-          "heat and light",
-          "sound and motion",
-          "mass and volume",
+          "heat energy and light energy",
+          "sound energy and mechanical motion",
+          "mass of matter and its volume",
           "electrical energy and chemical change"
         ],
         "explanation": "It mainly concerns processes between the electrode and the electrolyte solution."
@@ -623,9 +623,9 @@
       "en": {
         "q": "Which two major components make up an electrochemical cell?",
         "options": [
-          "Salt and sugar",
-          "Fuse and switch",
-          "Anode and a lens",
+          "Salt and sugar crystals",
+          "Fuse wire and switch",
+          "Anode and a convex lens",
           "Electrodes and electrolyte"
         ],
         "explanation": "A cell has two electrodes, anode and cathode, in an electrolyte."
@@ -739,9 +739,9 @@
       "en": {
         "q": "The phenomenon in which unstable isotopes lose energy in the form of radiation to become stable is called",
         "options": [
-          "catenation",
-          "electrolysis",
-          "allotropy",
+          "catenation of carbon",
+          "electrolysis of water",
+          "allotropy of carbon",
           "radioactive decay"
         ],
         "explanation": "The isotope which undergoes radioactive decay is called a radioisotope."
@@ -884,20 +884,20 @@
       "en": {
         "q": "Synthetic dyes are sometimes called coal tar dyes because they are prepared from",
         "options": [
-          "aromatic compounds obtained from coal tar",
-          "insects",
-          "plant extracts",
-          "minerals"
+          "aromatic compounds from coal tar",
+          "the bodies of tiny tree insects",
+          "roots, leaves and flowers",
+          "minerals found in rocks"
         ],
         "explanation": "Natural dyes originate from plants, insects, fungi and lichens."
       },
       "ta": {
         "q": "செயற்கைச் சாயங்கள் நிலக்கரித் தார்ச் சாயங்கள் எனப்படக் காரணம், அவை தயாரிக்கப்படுவது",
         "options": [
-          "நிலக்கரித் தாரிலிருந்து பெறப்படும் அரோமேட்டிக் சேர்மங்களிலிருந்து",
-          "பூச்சிகளிலிருந்து",
-          "தாவரச் சாறுகளிலிருந்து",
-          "கனிமங்களிலிருந்து"
+          "நிலக்கரித் தாரிலுள்ள அரோமேட்டிக் சேர்மங்களிலிருந்து",
+          "மரங்களில் வாழும் சிறு பூச்சிகளின் உடல்களிலிருந்து",
+          "தாவரங்களின் வேர், இலை, மலர்ச் சாறுகளிலிருந்து",
+          "பூமியின் பாறைகளிலுள்ள கனிமங்களிலிருந்து"
         ],
         "explanation": "இயற்கைச் சாயங்கள் தாவரங்கள், பூச்சிகள், பூஞ்சைகள், லைக்கன்களிலிருந்து கிடைக்கின்றன."
       }
@@ -923,7 +923,7 @@
       "ta": {
         "q": "இழையில் பற்றிய மார்டன்ட் சாயத்துடன் இணைந்து உருவாகும் கரையாத கூட்டுப்பொருள்",
         "options": [
-          "லேக் (lake)",
+          "லேக்",
           "வாட்",
           "நிறமி நீராவி",
           "தட்டு"
@@ -942,20 +942,20 @@
       "en": {
         "q": "Direct dyes have a high affinity for",
         "options": [
-          "silk only",
-          "wool only",
-          "cotton, rayon and other cellulose fibres",
-          "metals"
+          "natural silk fibres only",
+          "sheep wool fibres only",
+          "cotton and other cellulose fibres",
+          "metal surfaces and alloys"
         ],
         "explanation": "They fix firmly on the fabric, so are applied directly. Example: Congo red."
       },
       "ta": {
         "q": "நேரடிச் சாயங்கள் அதிக ஈர்ப்புடையவை",
         "options": [
-          "பட்டிடம் மட்டும்",
-          "கம்பளியிடம் மட்டும்",
-          "பருத்தி, ரேயான் போன்ற செல்லுலோஸ் இழைகளிடம்",
-          "உலோகங்களிடம்"
+          "இயற்கைப் பட்டு இழைகளிடம் மட்டும்",
+          "ஆட்டுக் கம்பளி இழைகளிடம் மட்டும்",
+          "பருத்தி போன்ற செல்லுலோஸ் இழைகளிடம்",
+          "உலோகப் பரப்புகளிடம் மட்டும்"
         ],
         "explanation": "இவை துணியில் உறுதியாகப் பற்றுவதால் நேரடியாகப் பயன்படுத்தப்படும்; எ.கா: காங்கோ சிவப்பு."
       }
@@ -1013,7 +1013,7 @@
           "உணவு உற்பத்திச் செலவை அதிகரித்தல்",
           "உணவின் தரத்தைக் குறைத்தல்",
           "சாயங்கள் தயாரித்தல்",
-          "பயிர் மகசூலையும் கால்நடை உற்பத்தியையும் அதிகரித்தல்"
+          "பயிர் மகசூலையும் கால்நடையையும் அதிகரித்தல்"
         ],
         "explanation": "உணவின் தரத்தை மேம்படுத்துதல், உற்பத்திச் செலவைக் குறைத்தல் ஆகியவையும் இதன் நோக்கங்கள்."
       }
@@ -1245,7 +1245,7 @@
           "உயிரித் தொழில்நுட்பவியல்",
           "உயிரித் தகவலியல்",
           "உயிர் வேதியியல்",
-          "உயிரி அளவியல் (பயோமெட்ரிக்ஸ்)"
+          "உயிரி அளவியல்"
         ],
         "explanation": "அச்சுகளைத் தரவிலுள்ள மாதிரி விவரங்களோடு ஒப்பிட்டு அடையாளம் உறுதிசெய்யப்படுகிறது."
       }

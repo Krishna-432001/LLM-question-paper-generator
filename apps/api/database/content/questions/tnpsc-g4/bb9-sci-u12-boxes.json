@@ -46,7 +46,7 @@
           "John Newlands",
           "Henry Moseley",
           "Dmitri Mendeleev",
-          "Johann Wolfgang Dobereiner"
+          "Johann Dobereiner"
         ],
         "explanation": "Dobereiner's law of triads: the atomic mass of the middle element is nearly the average of the other two."
       },
@@ -56,7 +56,7 @@
           "ஜான் நியூலாந்து",
           "ஹென்றி மோஸ்லி",
           "டிமிட்ரி மெண்டலீஃப்",
-          "ஜோஹன் வொல்ஃப்காங் டாபர்னீர்"
+          "ஜோஹன் டாபர்னீர்"
         ],
         "explanation": "மும்மை விதி: நடுத் தனிமத்தின் அணு நிறை மற்ற இரண்டின் சராசரிக்குச் சமம்."
       }
@@ -72,10 +72,10 @@
       "en": {
         "q": "A limitation of Dobereiner's law of triads was that",
         "options": [
-          "it classified all the elements",
-          "only three triads could be identified from the elements known then",
-          "it was applicable to all atomic masses",
-          "it used atomic numbers"
+          "it classified every known element successfully",
+          "only three triads could be identified then",
+          "it applied to all atomic masses equally well",
+          "it was based on atomic numbers, not masses"
         ],
         "explanation": "The law was not applicable to elements having very low and very high atomic mass."
       },
@@ -83,7 +83,7 @@
         "q": "டாபர்னீரின் மும்மை விதியின் குறைபாடு",
         "options": [
           "எல்லாத் தனிமங்களையும் வகைப்படுத்தியது",
-          "அன்று அறியப்பட்ட தனிமங்களில் மூன்று மும்மைகளை மட்டுமே கண்டறிய முடிந்தது",
+          "மூன்று மும்மைகளை மட்டுமே கண்டறிய முடிந்தது",
           "எல்லா அணு நிறைகளுக்கும் பொருந்தியது",
           "அணு எண்ணைப் பயன்படுத்தியது"
         ],
@@ -305,9 +305,9 @@
         "q": "Group 16 of the modern periodic table is called the",
         "options": [
           "nitrogen family",
-          "halogens",
+          "halogen family",
           "carbon family",
-          "oxygen family (chalcogens)"
+          "oxygen family"
         ],
         "explanation": "Group 1 - alkali metals; 2 - alkaline earth metals; 3 to 12 - transition metals."
       },
@@ -315,9 +315,9 @@
         "q": "நவீன தனிம வரிசை அட்டவணையில் தொகுதி 16 இவ்வாறு அழைக்கப்படுகிறது",
         "options": [
           "நைட்ரஜன் குடும்பம்",
-          "ஹாலஜன்கள்",
+          "ஹாலஜன் குடும்பம்",
           "கார்பன் குடும்பம்",
-          "ஆக்ஸிஜன் குடும்பம் (சால்கோஜன்கள்)"
+          "ஆக்ஸிஜன் குடும்பம்"
         ],
         "explanation": "தொகுதி 1 - கார உலோகங்கள்; 2 - காரமண் உலோகங்கள்; 3 முதல் 12 - இடைநிலை உலோகங்கள்."
       }
@@ -362,7 +362,7 @@
       "en": {
         "q": "The s-block elements include",
         "options": [
-          "group 1 (alkali metals) and group 2 (alkaline earth metals)",
+          "groups 1 and 2",
           "groups 13 to 18",
           "groups 3 to 12",
           "lanthanides and actinides"
@@ -372,7 +372,7 @@
       "ta": {
         "q": "s-தொகுதித் தனிமங்கள் அடங்குபவை",
         "options": [
-          "தொகுதி 1 (கார உலோகங்கள்), தொகுதி 2 (காரமண் உலோகங்கள்)",
+          "தொகுதிகள் 1 மற்றும் 2",
           "தொகுதிகள் 13 முதல் 18",
           "தொகுதிகள் 3 முதல் 12",
           "லாந்தனைடுகள், ஆக்டினைடுகள்"
@@ -420,10 +420,10 @@
       "en": {
         "q": "The d-block elements (groups 3 to 12) are called transition elements because their properties are",
         "options": [
-          "intermediate between those of s-block and p-block elements",
-          "same as noble gases",
-          "same as alkali metals",
-          "unrelated to other blocks"
+          "intermediate between s-block and p-block elements",
+          "same as those of the noble gases in group 18",
+          "same as those of the alkali metals in group 1",
+          "unrelated to those of the other blocks entirely"
         ],
         "explanation": "They are found in the centre of the periodic table."
       },
@@ -478,20 +478,20 @@
       "en": {
         "q": "In the modern periodic table, all the isotopes of an element are placed",
         "options": [
-          "in different positions",
-          "in one position since they have the same atomic number",
-          "in the last group",
-          "outside the table"
+          "in different positions according to their masses",
+          "in one position, as their atomic number is same",
+          "in the last group, as they are unstable",
+          "outside the table, below the lanthanides"
         ],
         "explanation": "Isotopes have the same atomic number; the nonmetals lie in the upper right corner."
       },
       "ta": {
         "q": "நவீன அட்டவணையில் ஒரு தனிமத்தின் எல்லா ஐசோடோப்புகளும் இடம்பெறுவது",
         "options": [
-          "வெவ்வேறு இடங்களில்",
+          "அணு நிறைக்கேற்ப வெவ்வேறு இடங்களில்",
           "ஒரே அணு எண் என்பதால் ஒரே இடத்தில்",
-          "கடைசித் தொகுதியில்",
-          "அட்டவணைக்கு வெளியே"
+          "நிலையற்றவை என்பதால் கடைசித் தொகுதியில்",
+          "தனியாக அட்டவணைக்கு வெளியே"
         ],
         "explanation": "ஐசோடோப்புகளுக்கு அணு எண் ஒன்றே; அலோகங்கள் மேல் வலது மூலையில் உள்ளன."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "Hydrogen has a unique position in the periodic table because it",
         "options": [
-          "is a noble gas",
-          "is a metal solid",
-          "behaves like both alkali metals (forming H+) and halogens (forming H-)",
-          "has 18 electrons"
+          "is an inert noble gas like helium and neon",
+          "is a hard metallic solid at room temperature",
+          "behaves like both alkali metals and halogens",
+          "has eighteen electrons in its outer shell"
         ],
         "explanation": "Hence the position of hydrogen in the modern periodic table is still under debate."
       },
       "ta": {
         "q": "ஹைட்ரஜன் அட்டவணையில் தனிச்சிறப்பான இடம் பெறக் காரணம், அது",
         "options": [
-          "ஓர் அரிய வாயு என்பது",
-          "திண்ம உலோகம் என்பது",
-          "கார உலோகங்களைப் போல (H+) மட்டுமின்றி ஹாலஜன்களைப் போலவும் (H-) நடந்துகொள்வது",
-          "18 எலக்ட்ரான்களைக் கொண்டது என்பது"
+          "ஹீலியம், நியானைப் போன்ற மந்த வாயு என்பது",
+          "அறை வெப்பநிலையில் கடின உலோகத் திண்மம் என்பது",
+          "கார உலோகங்களைப் போலவும் ஹாலஜன்களைப் போலவும் நடந்துகொள்வது",
+          "வெளிக்கூட்டில் 18 எலக்ட்ரான்களைக் கொண்டது என்பது"
         ],
         "explanation": "எனவே ஹைட்ரஜனின் இடம் இன்னும் விவாதத்திற்குரியது."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "In the modern periodic table, elements are placed in periods based on",
         "options": [
-          "their atomic masses",
-          "their colours",
+          "their relative atomic masses",
+          "their colours and appearance",
           "the number of shells in their atoms",
-          "their densities"
+          "their densities and hardness"
         ],
         "explanation": "There are seven periods and 18 groups."
       },
       "ta": {
         "q": "நவீன அட்டவணையில் தனிமங்கள் தொடர்களில் இடம்பெறுவது",
         "options": [
-          "அணு நிறையின் அடிப்படையில்",
-          "நிறத்தின் அடிப்படையில்",
-          "அணுக்களிலுள்ள கூடுகளின் எண்ணிக்கையின் அடிப்படையில்",
-          "அடர்த்தியின் அடிப்படையில்"
+          "அணுக்களின் நிறையின் அடிப்படையில்",
+          "நிறம், தோற்றத்தின் அடிப்படையில்",
+          "கூடுகளின் எண்ணிக்கையின் அடிப்படையில்",
+          "அடர்த்தி, கடினத்தன்மையின் அடிப்படையில்"
         ],
         "explanation": "7 தொடர்களும் 18 தொகுதிகளும் உள்ளன."
       }

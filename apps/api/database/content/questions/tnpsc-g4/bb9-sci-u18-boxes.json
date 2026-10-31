@@ -43,20 +43,20 @@
       "en": {
         "q": "The stomach is an example of an",
         "options": [
-          "organelle",
-          "single tissue",
-          "organ made of epithelial, gland and muscle tissues",
-          "cell"
+          "cell organelle inside the cytoplasm",
+          "simple tissue of one cell type",
+          "organ made of several different tissues",
+          "single living cell of the body"
         ],
         "explanation": "A tissue is a group of cells; an organ is a collection of tissues."
       },
       "ta": {
         "q": "இரைப்பை என்பது",
         "options": [
-          "செல் நுண்ணுறுப்பு",
-          "ஒரே திசு",
-          "எபிதீலிய, சுரப்பி, தசைத் திசுக்களால் ஆன உறுப்பு",
-          "செல்"
+          "செல்லினுள் உள்ள நுண்ணுறுப்பு",
+          "ஒரே வகைச் செல்கள் கொண்ட திசு",
+          "பல திசுக்களால் ஆன உறுப்பு",
+          "உடலின் ஒரு தனி உயிருள்ள செல்"
         ],
         "explanation": "திசு என்பது செல்களின் தொகுப்பு; உறுப்பு என்பது திசுக்களின் தொகுப்பு."
       }
@@ -72,20 +72,20 @@
       "en": {
         "q": "Which is a characteristic of meristematic cells?",
         "options": [
-          "Thick lignified wall",
-          "Large central vacuole",
+          "Thick lignified wall and no nucleus",
+          "Large central vacuole and thin cytoplasm",
           "Thin wall, dense cytoplasm and large nucleus",
-          "Storage of food materials"
+          "Storage of food materials in cells"
         ],
         "explanation": "They are living, divide by mitosis and do not store food."
       },
       "ta": {
         "q": "ஆக்குத் திசு செல்களின் பண்பு எது?",
         "options": [
-          "தடித்த லிக்னின் சுவர்",
-          "பெரிய மைய வெற்றிடம்",
+          "தடித்த லிக்னின் சுவரும் உட்கரு இன்மையும்",
+          "பெரிய மைய வெற்றிடமும் மெல்லிய சைட்டோபிளாசமும்",
           "மெல்லிய சுவர், அடர்ந்த சைட்டோபிளாசம், பெரிய உட்கரு",
-          "உணவைச் சேமித்தல்"
+          "உணவுப் பொருள்களை செல்லில் சேமித்தல்"
         ],
         "explanation": "இவை உயிருள்ளவை, மைட்டாசிஸால் பிரிபவை, உணவைச் சேமிப்பதில்லை."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "Permanent tissues are those in which",
         "options": [
-          "cells are always dead",
-          "cells divide continuously",
-          "only xylem is present",
-          "growth has stopped completely or for the time being"
+          "cells are always dead and lignified",
+          "cells keep dividing continuously",
+          "only xylem tissue is present",
+          "growth has stopped for good or for a time"
         ],
         "explanation": "They are of two types: simple tissue and complex tissue."
       },
       "ta": {
         "q": "நிலைத் திசுக்கள் என்பவை",
         "options": [
-          "எப்போதும் இறந்த செல்களால் ஆனவை",
-          "தொடர்ந்து பிரிவடைபவை",
-          "சைலம் மட்டும் உள்ளவை",
-          "வளர்ச்சி முழுமையாகவோ தற்காலிகமாகவோ நின்று போனவை"
+          "எப்போதும் இறந்த, லிக்னின் செல்களால் ஆனவை",
+          "செல்கள் தொடர்ந்து பிரிந்துகொண்டே இருப்பவை",
+          "சைலம் திசு மட்டுமே உள்ளவை",
+          "வளர்ச்சி நிரந்தரமாகவோ தற்காலிகமாகவோ நின்றவை"
         ],
         "explanation": "இவை தனி நிலைத் திசு, கூட்டு நிலைத் திசு என இருவகைப்படும்."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "Collenchyma is found",
         "options": [
-          "beneath the epidermis, with unevenly thickened non-lignified walls",
-          "as dead lignified cells",
-          "in the root cap only",
-          "in the xylem only"
+          "beneath the epidermis, with unevenly thickened walls",
+          "as dead cells with lignified walls everywhere",
+          "inside the root cap, as living thin cells only",
+          "inside the xylem as dead vessels only"
         ],
         "explanation": "It provides mechanical support to growing organs."
       },
       "ta": {
         "q": "கோலன்கைமா காணப்படுவது",
         "options": [
-          "புறத்தோலுக்குக் கீழே; சீரற்றுத் தடித்த, லிக்னின் அற்ற சுவருடன்",
-          "லிக்னின் சுவருடைய இறந்த செல்களாக",
-          "வேர்மூடியில் மட்டும்",
-          "சைலத்தில் மட்டும்"
+          "புறத்தோலுக்குக் கீழே; சீரற்றுத் தடித்த சுவருடன்",
+          "எங்கும் லிக்னின் சுவருடைய இறந்த செல்களாக",
+          "வேர்மூடிப் பகுதியில் உள்ள மெல்லிய செல்களாக மட்டும்",
+          "சைலக் குழாய்களுக்குள் இறந்த செல்களாக மட்டும்"
         ],
         "explanation": "இது வளரும் உறுப்புகளுக்கு இயந்திர ஆதாரம் அளிக்கிறது."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "Sclereids are",
         "options": [
-          "long pointed fibres",
-          "living thin-walled cells",
-          "isodiametric cells with lignified walls and prominent pits",
-          "sieve tubes"
+          "long pointed fibres with narrow lumen",
+          "living thin-walled storage cells",
+          "isodiametric cells with lignified walls",
+          "sieve tubes with sieve plates"
         ],
         "explanation": "They are also common in fruits and seeds."
       },
       "ta": {
         "q": "ஸ்கிளிரீடுகள் என்பவை",
         "options": [
-          "நீண்ட கூர்முனை நார்கள்",
-          "உயிருள்ள மெல்லிய சுவர் செல்கள்",
-          "லிக்னின் சுவருடன் சம விட்டமுடைய, தெளிவான குழிகளுடைய செல்கள்",
-          "சல்லடைக் குழாய்கள்"
+          "குறுகிய உட்குழி கொண்ட நீண்ட கூர்முனை நார்கள்",
+          "உயிருள்ள மெல்லிய சுவர் சேமிப்புச் செல்கள்",
+          "லிக்னின் சுவருடன் சம விட்டமுடைய செல்கள்",
+          "சல்லடைத் தட்டுடைய சல்லடைக் குழாய்கள்"
         ],
         "explanation": "பழங்கள், விதைகளிலும் இவை பொதுவாகக் காணப்படுகின்றன."
       }
@@ -362,7 +362,7 @@
       "en": {
         "q": "Xylem conducts",
         "options": [
-          "water and minerals upward from roots to leaves",
+          "water and minerals upward",
           "gases",
           "hormones only",
           "food from leaves to roots"
@@ -372,7 +372,7 @@
       "ta": {
         "q": "சைலம் கடத்துவது",
         "options": [
-          "வேரிலிருந்து இலைகளுக்கு நீரையும் கனிமங்களையும் மேல்நோக்கி",
+          "நீரையும் கனிமங்களையும் மேல்நோக்கி",
           "வாயுக்களை",
           "ஹார்மோன்களை மட்டும்",
           "இலையிலிருந்து வேருக்கு உணவை"
@@ -420,20 +420,20 @@
       "en": {
         "q": "Xylem vessels are",
         "options": [
-          "dead, long tube-like cells with perforated transverse walls",
-          "living cells with sieve plates",
-          "living companion cells",
-          "cells that store starch"
+          "dead, tube-like cells with perforated end walls",
+          "living elongated cells with sieve plates",
+          "living companion cells beside sieve tubes",
+          "cells that store starch in the stem"
         ],
         "explanation": "Their main function is transport of water and mechanical strength."
       },
       "ta": {
         "q": "சைலம் நீர்க்குழாய்கள் என்பவை",
         "options": [
-          "துளையிடப்பட்ட குறுக்குச் சுவர்களுடைய இறந்த நீண்ட குழாய் செல்கள்",
-          "சல்லடைத் தட்டுடைய உயிருள்ள செல்கள்",
-          "உயிருள்ள துணைச் செல்கள்",
-          "ஸ்டார்ச்சைச் சேமிக்கும் செல்கள்"
+          "துளையுடைய முனைச் சுவர்களுள்ள இறந்த குழாய் செல்கள்",
+          "சல்லடைத் தட்டுடைய உயிருள்ள நீண்ட செல்கள்",
+          "சல்லடைக் குழாய் அருகிலுள்ள உயிருள்ள துணைச் செல்கள்",
+          "தண்டில் ஸ்டார்ச்சைச் சேமிக்கும் செல்கள்"
         ],
         "explanation": "இவற்றின் முக்கியப் பணி நீர் கடத்தலும் இயந்திர வலிமையும்."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "The perforated transverse end walls of sieve tubes are called",
         "options": [
-          "annuli",
+          "annular rings",
           "sieve plates",
-          "pits",
-          "lamellae"
+          "simple pits",
+          "thin lamellae"
         ],
         "explanation": "Sieve tubes translocate food from leaves to storage organs."
       },
       "ta": {
         "q": "சல்லடைக் குழாய்களின் துளையுடைய குறுக்கு முனைச் சுவர்கள்",
         "options": [
-          "வளையங்கள்",
+          "வளைய அமைப்புகள்",
           "சல்லடைத் தட்டுகள்",
-          "குழிகள்",
-          "அடுக்குகள்"
+          "எளிய குழிகள்",
+          "மெல்லிய அடுக்குகள்"
         ],
         "explanation": "சல்லடைக் குழாய்கள் இலையிலிருந்து சேமிப்பு உறுப்புகளுக்கு உணவைக் கடத்துகின்றன."
       }
@@ -508,9 +508,9 @@
         "q": "Which phloem element stores food materials and is a living cell with cytoplasm and nucleus?",
         "options": [
           "Phloem parenchyma",
-          "Sieve tube",
-          "Phloem fibre",
-          "Tracheid"
+          "Sieve tube element",
+          "Phloem fibre cell",
+          "Tracheid of xylem"
         ],
         "explanation": "Phloem fibres are lignified sclerenchymatous cells giving mechanical strength."
       },
@@ -518,9 +518,9 @@
         "q": "உணவைச் சேமிக்கும், உயிருள்ள சைட்டோபிளாசமும் உட்கருவும் உள்ள புளோயக் கூறு",
         "options": [
           "புளோயம் பாரன்கைமா",
-          "சல்லடைக் குழாய்",
-          "புளோயம் நார்",
-          "டிரக்கீடு"
+          "சல்லடைக் குழாய் கூறு",
+          "புளோயம் நார்ச் செல்",
+          "சைலக் டிரக்கீடு"
         ],
         "explanation": "புளோயம் நார்கள் லிக்னின் சுவருடைய ஸ்கிளிரன்கைமா செல்கள்; இயந்திர வலிமை தருபவை."
       }
@@ -577,7 +577,7 @@
         "options": [
           "செல்லியல்",
           "வகைப்பாட்டியல்",
-          "திசுவியல் (ஹிஸ்டாலஜி)",
+          "திசுவியல்",
           "கருவியல்"
         ],
         "explanation": "விலங்குத் திசுக்கள் நான்கு வகை: எபிதீலியம், இணைப்பு, தசை, நரம்புத் திசு."
@@ -594,9 +594,9 @@
       "en": {
         "q": "Epithelial cells rest on a",
         "options": [
-          "layer of bone",
-          "layer of fat",
-          "nerve fibre",
+          "thick layer of bone tissue",
+          "thick layer of fat tissue",
+          "bundle of nerve fibres",
           "non-cellular basement membrane"
         ],
         "explanation": "Epithelial tissue generally lacks blood vessels and is nourished by the underlying connective tissue."
@@ -604,9 +604,9 @@
       "ta": {
         "q": "எபிதீலியச் செல்கள் அமைந்திருப்பது",
         "options": [
-          "எலும்பு அடுக்கின் மீது",
-          "கொழுப்பு அடுக்கின் மீது",
-          "நரம்பு இழையின் மீது",
+          "எலும்புத் திசு அடுக்கின் மீது",
+          "கொழுப்புத் திசு அடுக்கின் மீது",
+          "நரம்பு இழைக் கற்றையின் மீது",
           "செல்லற்ற அடிப்படைப் படலத்தின் மீது"
         ],
         "explanation": "எபிதீலியத்தில் பொதுவாக இரத்தக் குழாய்கள் இல்லை; கீழுள்ள இணைப்புத் திசு ஊட்டம் அளிக்கிறது."
@@ -662,10 +662,10 @@
       "ta": {
         "q": "செதில் எபிதீலியம் (தரை எபிதீலியம்) அமைந்திருப்பது",
         "options": [
-          "இரைப்பை, சிறுகுடலில்",
-          "மூச்சுக்குழலில்",
-          "வாய்க்குழி, நுரையீரல் காற்றுப்பைகளின் உட்புறத்தில்",
-          "எலும்புகளில்"
+          "இரைப்பை, சிறுகுடலின் உட்புறத்தில்",
+          "மூச்சுக்குழலின் உட்புறத்தில்",
+          "வாய்க்குழி, நுரையீரல் காற்றுப்பைகளில்",
+          "எலும்புகளின் வெளிப்புறத்தில்"
         ],
         "explanation": "இது இயந்திரக் காயம், உலர்தல், கிருமித் தாக்குதல் ஆகியவற்றிலிருந்து உடலைக் காக்கிறது."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "Cuboidal epithelium is present in",
         "options": [
-          "the skin surface",
-          "the trachea only",
-          "thyroid vesicles, salivary glands and sweat glands",
-          "the heart wall"
+          "the outer surface of the skin",
+          "the lining of the trachea only",
+          "thyroid vesicles and salivary glands",
+          "the heart wall muscle"
         ],
         "explanation": "Its main function is secretion and absorption."
       },
       "ta": {
         "q": "கனசதுர எபிதீலியம் காணப்படுவது",
         "options": [
-          "தோலின் மேற்பரப்பில்",
-          "மூச்சுக்குழலில் மட்டும்",
-          "தைராய்டு பைகள், உமிழ்நீர்ச் சுரப்பிகள், வியர்வைச் சுரப்பிகளில்",
-          "இதயச் சுவரில்"
+          "தோலின் வெளிப்புற மேற்பரப்பில்",
+          "மூச்சுக்குழலின் உட்புறத்தில் மட்டும்",
+          "தைராய்டு பைகள், உமிழ்நீர்ச் சுரப்பிகளில்",
+          "இதயச் சுவரின் தசையில்"
         ],
         "explanation": "இதன் முக்கியப் பணி சுரத்தலும் உறிஞ்சுதலும்."
       }
@@ -710,20 +710,20 @@
       "en": {
         "q": "In columnar epithelium, the nuclei are located",
         "options": [
-          "at the top",
+          "at the free top of the cells",
           "at the base of the pillar-like cells",
-          "outside the cell",
-          "in the centre"
+          "outside the cell membrane",
+          "in the centre of the cell"
         ],
         "explanation": "It lines the stomach, gall bladder, small intestine, colon and oviducts."
       },
       "ta": {
         "q": "தூண் எபிதீலியத்தில் உட்கருக்கள் அமைந்திருப்பது",
         "options": [
-          "மேற்பகுதியில்",
-          "தூண் வடிவச் செல்களின் அடிப்பகுதியில்",
-          "செல்லுக்கு வெளியே",
-          "மையத்தில்"
+          "செல்களின் மேல் முனையில்",
+          "செல்களின் அடிப்பகுதியில்",
+          "செல் சவ்வுக்கு வெளியே",
+          "செல்லின் மையத்தில்"
         ],
         "explanation": "இது இரைப்பை, பித்தப்பை, சிறுகுடல், பெருங்குடல், அண்டக்குழாய்களில் உள்ளது."
       }
@@ -768,9 +768,9 @@
       "en": {
         "q": "Adipose tissue acts as a fat reservoir and also",
         "options": [
-          "a conductor of impulses",
-          "a producer of platelets",
-          "an oxygen carrier",
+          "a rapid conductor of nerve impulses",
+          "a producer of blood platelets",
+          "a carrier of oxygen in blood",
           "a shock absorber and a heat insulator"
         ],
         "explanation": "It is found in subcutaneous tissue and around the heart and kidneys."
@@ -778,10 +778,10 @@
       "ta": {
         "q": "கொழுப்புத் திசு கொழுப்புச் சேமிப்புடன் கூடுதலாக",
         "options": [
-          "தூண்டலைக் கடத்துகிறது",
+          "நரம்புத் தூண்டலை விரைவாகக் கடத்துகிறது",
           "இரத்தத் தட்டுகளை உருவாக்குகிறது",
-          "ஆக்ஸிஜனைக் கடத்துகிறது",
-          "அதிர்ச்சித் தாங்கியாகவும் வெப்பக் காப்பானாகவும் செயல்படுகிறது"
+          "இரத்தத்தில் ஆக்ஸிஜனைக் கடத்துகிறது",
+          "அதிர்ச்சியைத் தாங்கி வெப்பத்தைக் காக்கிறது"
         ],
         "explanation": "இது தோலடித் திசுவிலும் இதயம், சிறுநீரகங்களைச் சுற்றியும் உள்ளது."
       }
@@ -855,19 +855,19 @@
       "en": {
         "q": "Tendons join",
         "options": [
-          "skin to muscles",
+          "the skin to the muscles",
           "skeletal muscles to bones",
-          "bones to bones",
-          "nerves to muscles"
+          "one bone to another bone",
+          "nerves to the muscles"
         ],
         "explanation": "Ligaments join bones to bones and strengthen the joints."
       },
       "ta": {
         "q": "தசைநாண்கள் இணைப்பது",
         "options": [
-          "தோலைத் தசைகளுடன்",
+          "தோலை எலும்புத் தசைகளுடன்",
           "எலும்புத் தசைகளை எலும்புகளுடன்",
-          "எலும்பை எலும்புடன்",
+          "ஓர் எலும்பை மற்றோர் எலும்புடன்",
           "நரம்புகளைத் தசைகளுடன்"
         ],
         "explanation": "தசைநார்கள் எலும்புகளை எலும்புகளுடன் இணைத்து மூட்டுகளை வலுப்படுத்துகின்றன."
@@ -1116,20 +1116,20 @@
       "en": {
         "q": "Which of the following cells last a lifetime and, once dead, are not replaced?",
         "options": [
-          "Skin cells",
-          "Red blood cells",
-          "Gut epithelial cells",
-          "Eye lens cells and nerve cells of the cerebral cortex"
+          "Skin cells of the outer epidermis",
+          "Red blood cells of the blood",
+          "Gut epithelial cells of the intestine",
+          "Eye lens cells and cortex nerve cells"
         ],
         "explanation": "Most muscle cells also last a lifetime."
       },
       "ta": {
         "q": "வாழ்நாள் முழுவதும் நீடித்து, இறந்தால் மாற்றப்படாத செல்கள்",
         "options": [
-          "தோல் செல்கள்",
-          "இரத்தச் சிவப்பணுக்கள்",
-          "குடல் எபிதீலியச் செல்கள்",
-          "கண் லென்ஸ் செல்கள், பெருமூளைப் புறணி நரம்புச் செல்கள்"
+          "தோலின் வெளிப்புறப் புறத்தோல் செல்கள்",
+          "இரத்தத்திலுள்ள இரத்தச் சிவப்பணுக்கள்",
+          "சிறுகுடல் உட்புற எபிதீலியச் செல்கள்",
+          "கண் லென்ஸ் செல்கள், புறணி நரம்புச் செல்கள்"
         ],
         "explanation": "பெரும்பாலான தசைச் செல்களும் வாழ்நாள் முழுவதும் நீடிக்கின்றன."
       }
@@ -1329,10 +1329,10 @@
       "ta": {
         "q": "ஒடுக்கற்பிரிவில் மரபு மறுசேர்க்கை நிகழக் காரணம்",
         "options": [
-          "சைட்டோகைனசிஸ் I",
+          "முதல் பிரிவில் சைட்டோகைனசிஸ் நிகழ்வு",
           "மெட்டாஃபேஸ் I இல் சென்ட்ரோமியர் பிரிதல்",
           "கதிர் இழை உருவாதல் மட்டும்",
-          "ஒத்த குரோமோசோம்களுக்கிடையே கயாஸ்மாக்களில் ஏற்படும் குறுக்கேற்றம்"
+          "கயாஸ்மாக்களில் ஏற்படும் குறுக்கேற்றம்"
         ],
         "explanation": "குரோமாட்டிடுகள் கயாஸ்மாக்களில் உடைந்து துண்டுகள் பரிமாறப்படுகின்றன."
       }

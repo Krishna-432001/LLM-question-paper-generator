@@ -111,10 +111,10 @@
       "ta": {
         "q": "மாதிரி முழுவதும் ஒரே பண்புகளைக் கொண்டிருப்பது",
         "options": [
-          "தூய பொருள்",
-          "கலவை",
-          "கூழ்மம்",
-          "தொங்கல்"
+          "ஒரு தூய பொருள்",
+          "ஒரு கலவைப் பொருள்",
+          "ஒரு கூழ்மக் கரைசல்",
+          "ஒரு தொங்கல் கரைசல்"
         ],
         "explanation": "தூய பொருள் ஒரே வகைத் துகள்களைக் கொண்டிருப்பதால் முழுவதும் ஒரே பண்புகளைக் கொண்டது."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "Which of the following substances sublimes on heating?",
         "options": [
-          "Common salt",
+          "Common table salt",
           "Ammonium chloride",
-          "Sugar",
-          "Sand"
+          "Crystalline sugar",
+          "Dry river sand"
         ],
         "explanation": "Iodine, camphor, naphthalene and ammonium chloride change directly from solid to gas."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் சூடுபடுத்தும்போது பதங்கமாவது",
         "options": [
-          "சாதாரண உப்பு",
+          "சாதாரண சமையல் உப்பு",
           "அம்மோனியம் குளோரைடு",
-          "சர்க்கரை",
-          "மணல்"
+          "படிக வடிவ சர்க்கரை",
+          "உலர்ந்த ஆற்று மணல்"
         ],
         "explanation": "அயோடின், கற்பூரம், நாப்தலீன், அம்மோனியம் குளோரைடு ஆகியவை நேரடியாகத் திண்மத்திலிருந்து வாயுவாக மாறும்."
       }
@@ -304,9 +304,9 @@
       "en": {
         "q": "Alcohol can be separated from water (miscible liquids whose boiling points differ by less than 25 K) by",
         "options": [
-          "filtration",
-          "centrifugation",
-          "decantation",
+          "filtration through paper",
+          "centrifugation at high speed",
+          "decantation after settling",
           "fractional distillation"
         ],
         "explanation": "Fractional distillation is employed for miscible liquids whose boiling points differ by less than 25 K."
@@ -314,9 +314,9 @@
       "ta": {
         "q": "நீரிலிருந்து ஆல்கஹாலைப் பிரித்தெடுக்கப் பயன்படும் முறை",
         "options": [
-          "வடிகட்டல்",
-          "மையவிலக்கம்",
-          "சாய்த்து வடித்தல்",
+          "காகிதத்தால் வடிகட்டல்",
+          "அதிவேக மையவிலக்கம்",
+          "படியவைத்துச் சாய்த்து வடித்தல்",
           "பின்னக் காய்ச்சி வடித்தல்"
         ],
         "explanation": "கொதிநிலை வேறுபாடு 25 K-க்குக் குறைவான கலக்கும் திரவங்களுக்குப் பின்னக் காய்ச்சி வடித்தல் பயன்படுகிறது."
@@ -333,9 +333,9 @@
       "en": {
         "q": "In petroleum refining, the method of separation used to obtain different fractions is",
         "options": [
-          "filtration",
-          "sublimation",
-          "chromatography",
+          "filtration through cloth",
+          "sublimation by heating",
+          "paper chromatography",
           "fractional distillation"
         ],
         "explanation": "Fractional distillation is used in the petrochemical industry to obtain fractions of petroleum and to separate gases from air."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "பெட்ரோலிய சுத்திகரிப்பில் பயன்படுத்தப்படும் பிரித்தெடுக்கும் முறை",
         "options": [
-          "வடிகட்டல்",
-          "பதங்கமாதல்",
-          "வண்ணப்பிரிகை",
+          "துணி வழியாக வடிகட்டல்",
+          "வெப்பப்படுத்திப் பதங்கமாதல்",
+          "தாள் வண்ணப்பிரிகை",
           "பின்னக் காய்ச்சி வடித்தல்"
         ],
         "explanation": "பெட்ரோலியத்தின் பல்வேறு பின்னங்களையும் காற்றிலுள்ள வாயுக்களையும் பிரிக்கப் பின்னக் காய்ச்சி வடித்தல் பயன்படுகிறது."
@@ -362,20 +362,20 @@
       "en": {
         "q": "Chromatography separates the components of a mixture based on their different",
         "options": [
-          "boiling points only",
+          "boiling points of the components",
           "solubilities in the same solvent",
-          "densities only",
-          "magnetic properties"
+          "densities of the components",
+          "magnetic properties of components"
         ],
         "explanation": "The dyes of ink are carried by the solvent and separate because of different solubility and different adsorption by the paper."
       },
       "ta": {
         "q": "வண்ணப்பிரிகை (குரோமட்டோகிராபி) முறை அடிப்படையாகக் கொண்டது",
         "options": [
-          "கொதிநிலைகளை மட்டும்",
-          "ஒரே கரைப்பானில் கூறுகளின் வெவ்வேறு கரைதிறன்",
-          "அடர்த்திகளை மட்டும்",
-          "காந்தப் பண்புகளை"
+          "கூறுகளின் கொதிநிலை வேறுபாடுகளை மட்டும்",
+          "ஒரே கரைப்பானில் கூறுகளின் கரைதிறன் வேறுபாட்டை",
+          "கூறுகளின் அடர்த்தி வேறுபாடுகளை மட்டும்",
+          "கூறுகளின் காந்தப் பண்புகளை மட்டும்"
         ],
         "explanation": "மையிலுள்ள சாயங்கள் வெவ்வேறு கரைதிறனாலும் தாள் வெவ்வேறு அளவு பரப்புக்கவர்வதாலும் பிரிகின்றன."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "Sublimation is the process in which",
         "options": [
-          "a liquid changes into vapour",
-          "a gas changes into a liquid",
-          "a solid dissolves in water",
-          "a solid changes directly into vapour on heating without becoming liquid, and vapours on cooling give the solid back"
+          "a liquid changes into vapour on heating at its boiling point",
+          "a gas changes into a liquid on cooling and compression",
+          "a solid dissolves in water to form a clear solution",
+          "a solid changes directly into vapour on heating, without becoming liquid"
         ],
         "explanation": "Examples: iodine, camphor, ammonium chloride and naphthalene."
       },
       "ta": {
         "q": "பதங்கமாதல் என்பது",
         "options": [
-          "திரவம் ஆவியாதல்",
-          "வாயு திரவமாதல்",
-          "திண்மம் நீரில் கரைதல்",
-          "திண்மம் சூடாக்கப்படும்போது திரவமாகாமல் நேரடியாக ஆவியாகி, குளிர்விக்கும்போது மீண்டும் திண்மமாகும் நிகழ்வு"
+          "திரவம் தன் கொதிநிலையில் சூடாகி ஆவியாகும் நிகழ்வு",
+          "வாயு குளிர்ந்து அழுத்தத்தில் திரவமாகும் நிகழ்வு",
+          "திண்மம் நீரில் கரைந்து தெளிந்த கரைசலாகும் நிகழ்வு",
+          "திண்மம் சூடாக்கப்படும்போது திரவமாகாமல் நேரடியாக ஆவியாகும் நிகழ்வு"
         ],
         "explanation": "எ.கா: அயோடின், கற்பூரம், அம்மோனியம் குளோரைடு, நாப்தலீன்."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "A few drops of Dettol added to water make the mixture turbid (milky) because it forms a",
         "options": [
-          "true solution",
-          "colloid (emulsion) of fine droplets that scatter light",
-          "pure compound",
-          "gas"
+          "true solution of dissolved molecules",
+          "colloid of fine droplets that scatter light",
+          "pure compound with a fixed formula",
+          "gas that escapes into the air"
         ],
         "explanation": "Dettol is immiscible with water; its fine droplets dispersed in water form an emulsion, which scatters light."
       },
       "ta": {
         "q": "சில துளி டெட்டாலை நீரில் கலக்கும்போது கலவை கலங்கலாகத் தோன்றக் காரணம், அது உருவாக்குவது",
         "options": [
-          "உண்மைக் கரைசல்",
-          "ஒளியைச் சிதறடிக்கும் நுண்துளிகள் கொண்ட கூழ்மம் (பால்மம்)",
-          "தூய சேர்மம்",
-          "வாயு"
+          "கரைந்த மூலக்கூறுகள் கொண்ட உண்மைக் கரைசல்",
+          "ஒளியைச் சிதறடிக்கும் நுண்துளிகள் கொண்ட கூழ்மம்",
+          "நிலையான வாய்பாடு கொண்ட தூய சேர்மம்",
+          "காற்றில் கலந்து வெளியேறும் ஒரு வாயு"
         ],
         "explanation": "டெட்டால் நீரில் முழுவதும் கலவாததால் நுண் துளிகளாகப் பரவி பால்மமாகிறது; அது ஒளியைச் சிதறடிக்கிறது."
       }
@@ -508,9 +508,9 @@
         "q": "Lemonade is a mixture of",
         "options": [
           "lemon juice, sugar and water",
-          "sand and iron",
-          "nitrogen and oxygen",
-          "water and oil"
+          "sand, iron and chalk powder",
+          "nitrogen, oxygen and argon",
+          "water, oil and kerosene"
         ],
         "explanation": "Air is a mixture of nitrogen, oxygen, carbon dioxide, water vapour and other gases; soil is a mixture of clay, sand and various salts."
       },
@@ -518,9 +518,9 @@
         "q": "எலுமிச்சை பானம் (லெமனேட்) என்பது கலந்த கலவை",
         "options": [
           "எலுமிச்சைச் சாறு, சர்க்கரை, நீர்",
-          "மணல், இரும்பு",
-          "நைட்ரஜன், ஆக்ஸிஜன்",
-          "நீர், எண்ணெய்"
+          "மணல், இரும்பு, சுண்ணாம்புத் தூள்",
+          "நைட்ரஜன், ஆக்ஸிஜன், ஆர்கான்",
+          "நீர், எண்ணெய், மண்ணெண்ணெய்"
         ],
         "explanation": "காற்று: நைட்ரஜன், ஆக்ஸிஜன், கார்பன் டை ஆக்சைடு, நீராவி; மண்: களிமண், மணல், பல உப்புகள்."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "To separate a mixture of saw dust, naphthalene and iron filings, a suitable first step is to",
         "options": [
-          "add water and filter only",
-          "remove the iron filings with a magnet and then sublime the naphthalene",
-          "use a separating funnel",
-          "use fractional distillation"
+          "dissolve everything in water, then filter only",
+          "separate iron with a magnet, then sublime naphthalene",
+          "shake with oil in a separating funnel only",
+          "heat the whole mixture in fractional distillation"
         ],
         "explanation": "Magnetic separation removes the iron; naphthalene sublimes on heating, leaving saw dust behind."
       },
       "ta": {
         "q": "மரத்தூள், நாப்தலீன், இரும்புத் துகள் கலவையைப் பிரிக்க ஏற்ற வழி",
         "options": [
-          "நீர் சேர்த்து வடிகட்டுதல் மட்டும்",
+          "கலவை முழுவதையும் நீரில் கரைத்து வடிகட்டுதல் மட்டும்",
           "காந்தத்தால் இரும்பை நீக்கி, பின் நாப்தலீனைப் பதங்கமாக்குதல்",
-          "பிரிபுனலைப் பயன்படுத்துதல்",
-          "பின்னக் காய்ச்சி வடித்தல்"
+          "உலர்ந்த கலவையைப் பிரிபுனலில் இட்டுக் குலுக்குதல்",
+          "கலவை முழுவதையும் பின்னக் காய்ச்சி வடித்தல்"
         ],
         "explanation": "காந்தம் இரும்பை நீக்கும்; நாப்தலீன் சூடாக்கும்போது பதங்கமாகி மரத்தூளை விட்டுச் செல்லும்."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "A mixture of common salt, oil and water is best separated by",
         "options": [
-          "filtration only",
-          "separating funnel to remove oil, then evaporation of the salt solution",
-          "magnetic separation",
-          "sublimation"
+          "filtration through filter paper, then drying",
+          "separating funnel for oil, then evaporation of salt solution",
+          "magnetic separation using a strong magnet",
+          "sublimation of the whole mixture by heating"
         ],
         "explanation": "Oil is immiscible and separated by solvent extraction / separating funnel; the remaining salt solution is evaporated (or distilled) to obtain the salt."
       },
       "ta": {
         "q": "உப்பு, எண்ணெய், நீர் கலவையைப் பிரிக்கச் சிறந்த முறை",
         "options": [
-          "வடிகட்டுதல் மட்டும்",
+          "வடிதாளில் வடிகட்டிப் பின் உலர்த்துதல்",
           "பிரிபுனலால் எண்ணெயைப் பிரித்து, உப்புக் கரைசலை ஆவியாக்குதல்",
-          "காந்தப் பிரிப்பு",
-          "பதங்கமாதல்"
+          "வலிமையான காந்தத்தைக் கொண்டு பிரித்தெடுத்தல்",
+          "கலவையை முழுவதும் சூடாக்கிப் பதங்கமாக்குதல்"
         ],
         "explanation": "எண்ணெய் கலக்காது என்பதால் பிரிபுனலால் பிரிக்கலாம்; எஞ்சிய உப்புக் கரைசலை ஆவியாக்கி உப்பைப் பெறலாம்."
       }

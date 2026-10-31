@@ -162,7 +162,7 @@
           "protein",
           "oxygen",
           "salt",
-          "water (moisture)"
+          "water"
         ],
         "explanation": "Drying inhibits the growth of bacteria, yeasts and moulds."
       },
@@ -172,7 +172,7 @@
           "புரதம்",
           "ஆக்ஸிஜன்",
           "உப்பு",
-          "நீர் (ஈரப்பதம்)"
+          "நீர்"
         ],
         "explanation": "உலர்த்துதல் பாக்டீரியா, ஈஸ்ட், பூஞ்சை வளர்ச்சியைத் தடுக்கும்."
       }
@@ -227,10 +227,10 @@
       "ta": {
         "q": "இந்தியாவில் AGMARK முத்திரை சான்றளிப்பது",
         "options": [
-          "மின்சாதனங்களுக்கு",
-          "பழச்சாறு, ஜாம் மட்டும்",
+          "வீட்டு மின்சாதனங்களுக்கு",
+          "பழச்சாறு, ஜாம் பொருள்களுக்கு மட்டும்",
           "வேளாண், கால்நடைப் பொருள்களுக்கு",
-          "மருந்துகளுக்கு"
+          "மருந்துப் பொருள்களுக்கு"
         ],
         "explanation": "AGMARK தானியங்கள், எண்ணெய்கள், பருப்புகள், தேன், வெண்ணெய் போன்றவற்றிற்குச் சான்றளிக்கிறது."
       }
@@ -333,9 +333,9 @@
       "en": {
         "q": "A lack of adequate fats in the diet may result in",
         "options": [
-          "rickets",
-          "scurvy",
-          "goitre",
+          "rickets in children",
+          "scurvy of the gums",
+          "goitre of the neck",
           "low body weight"
         ],
         "explanation": "Fat in the diet provides energy (the statement is true)."
@@ -362,20 +362,20 @@
       "en": {
         "q": "Agricultural and livestock products such as pulses and honey are certified by",
         "options": [
-          "ISI",
-          "AGMARK",
-          "FCI",
-          "FPO"
+          "ISI mark",
+          "AGMARK seal",
+          "FCI stamp",
+          "FPO mark"
         ],
         "explanation": "The book's statement is false: ISI (BIS) certifies industrial products like electrical appliances; AGMARK certifies agricultural products."
       },
       "ta": {
         "q": "பருப்பு, தேன் போன்ற வேளாண், கால்நடைப் பொருள்களுக்குச் சான்றளிப்பது",
         "options": [
-          "ISI",
-          "AGMARK",
-          "FCI",
-          "FPO"
+          "ISI முத்திரை",
+          "AGMARK முத்திரை",
+          "FCI முத்திரை",
+          "FPO முத்திரை"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; ISI (BIS) மின்சாதனம் போன்ற தொழிற்பொருள்களுக்கு; வேளாண் பொருள்களுக்கு AGMARK."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "We should not eat food items beyond the expiry date because they",
         "options": [
-          "become more nutritious",
-          "become sweeter",
-          "may be spoiled or contaminated and harmful to health",
-          "turn into vitamins"
+          "become more nutritious over time",
+          "become sweeter and much tastier",
+          "may be spoiled and harmful to health",
+          "turn into vitamins on storage"
         ],
         "explanation": "Food spoilage is an undesirable change in the normal state of food, making it unfit for consumption."
       },
       "ta": {
         "q": "காலாவதித் தேதிக்குப் பிறகு உணவை உண்ணக்கூடாது, ஏனெனில் அது",
         "options": [
-          "அதிக ஊட்டமுடையதாகும்",
-          "இனிப்பாகும்",
-          "கெட்டுப்போய் அல்லது மாசடைந்து உடலுக்குத் தீங்கு தரக்கூடும்",
-          "வைட்டமினாக மாறும்"
+          "நாளாக நாளாக அதிக ஊட்டமுடையதாகும்",
+          "இனிப்பாகவும் சுவையாகவும் மாறும்",
+          "கெட்டுப்போய்த் தீங்கு தரக்கூடும்",
+          "சேமிப்பில் வைட்டமினாக மாறும்"
         ],
         "explanation": "உணவு கெடுதல் என்பது உணவின் இயல்பு நிலையில் ஏற்படும் விரும்பத்தகாத மாற்றம்."
       }
@@ -565,10 +565,10 @@
       "en": {
         "q": "Calcium deficiency leads to poor skeletal growth because calcium is a constituent of",
         "options": [
-          "thyroid hormones",
+          "the thyroid gland hormones",
           "bones and the enamel of teeth",
-          "haemoglobin",
-          "gastric juice"
+          "red blood cell haemoglobin",
+          "gastric juice in the stomach"
         ],
         "explanation": "It also helps in blood clotting and controls muscle contraction; in adults deficiency causes osteoporosis."
       },
@@ -623,7 +623,7 @@
       "en": {
         "q": "An adulterant is",
         "options": [
-          "any material used for the purpose of adulteration of food",
+          "any material used to adulterate food",
           "a food preservative approved by law",
           "a natural vitamin",
           "a nutrient"
@@ -652,10 +652,10 @@
       "en": {
         "q": "Which of the following is a natural adulterant (naturally occurring toxic substance in food)?",
         "options": [
-          "Prussic acid in the seeds of apple and cherry",
-          "Metallic lead in food colours",
-          "Shellac wax on apples",
-          "Calcium carbide on bananas"
+          "Prussic acid in apple and cherry seeds",
+          "Metallic lead added to food colours",
+          "Shellac wax coated on the apple skin",
+          "Calcium carbide used to ripen bananas"
         ],
         "explanation": "Other natural adulterants: toxic substances in poisonous mushrooms, marine toxins and fish oil poisoning."
       },
@@ -710,20 +710,20 @@
       "en": {
         "q": "Pasteurization of milk involves",
         "options": [
-          "freezing milk below 0 degrees C",
-          "heating milk to 63 degrees C for about 30 minutes and suddenly cooling it to destroy microbes",
-          "adding sugar",
-          "exposing milk to smoke"
+          "freezing milk below 0 degrees C for several days",
+          "heating milk to 63 degrees C for 30 minutes, then cooling quickly",
+          "adding a lot of sugar and boiling for hours",
+          "exposing milk to wood smoke for a long time"
         ],
         "explanation": "Pasteurization is a heat treatment of liquid food products such as milk and beverages."
       },
       "ta": {
         "q": "பாலைப் பாஸ்டர் முறையில் பதப்படுத்துவது",
         "options": [
-          "பாலை 0 °C க்குக் கீழ் உறையவைத்தல்",
-          "பாலை 63 °C இல் சுமார் 30 நிமிடம் சூடாக்கிப் பின் திடீரெனக் குளிர்வித்து நுண்ணுயிர்களை அழித்தல்",
-          "சர்க்கரை சேர்த்தல்",
-          "புகைக்கு உட்படுத்தல்"
+          "பாலை பல நாள்கள் 0 °C க்குக் கீழ் உறையவைத்தல்",
+          "பாலை 63 °C இல் சுமார் 30 நிமிடம் சூடாக்கிப் பின் விரைவாகக் குளிர்வித்தல்",
+          "அதிகச் சர்க்கரை சேர்த்து மணிக்கணக்கில் கொதிக்கவைத்தல்",
+          "பாலை நீண்ட நேரம் மரப்புகைக்கு உட்படுத்தல்"
         ],
         "explanation": "பால், பானங்கள் போன்ற திரவ உணவுகளுக்கான வெப்பப் பதப்படுத்தல் முறை."
       }
@@ -739,20 +739,20 @@
       "en": {
         "q": "Which of the following is a health effect of consuming adulterated food?",
         "options": [
-          "Increased immunity",
-          "Stronger bones",
-          "Diarrhoea, vomiting, allergy and, in severe cases, kidney and liver failure",
-          "Better eyesight"
+          "Increased immunity against diseases",
+          "Stronger bones and healthier teeth",
+          "Diarrhoea, vomiting, allergy and kidney damage",
+          "Better eyesight and night vision"
         ],
         "explanation": "Other effects include fever, nausea, asthma, neurological disorders, immune suppression, colon cancer and birth defects."
       },
       "ta": {
         "q": "கலப்பட உணவை உட்கொள்வதால் ஏற்படும் விளைவு எது?",
         "options": [
-          "நோய் எதிர்ப்பு அதிகரித்தல்",
-          "எலும்பு வலுப்பெறுதல்",
-          "வயிற்றுப்போக்கு, வாந்தி, ஒவ்வாமை, கடுமையான நிலையில் சிறுநீரக, கல்லீரல் செயலிழப்பு",
-          "பார்வை மேம்படுதல்"
+          "நோய்களுக்கு எதிரான நோய் எதிர்ப்பு அதிகரித்தல்",
+          "எலும்பு, பற்கள் மேலும் வலுப்பெறுதல்",
+          "வயிற்றுப்போக்கு, வாந்தி, ஒவ்வாமை, சிறுநீரகப் பாதிப்பு",
+          "பார்வை, இரவுப் பார்வை மேம்படுதல்"
         ],
         "explanation": "காய்ச்சல், குமட்டல், ஆஸ்துமா, நரம்புக் கோளாறு, நோய் எதிர்ப்புக் குறைவு, குடல் புற்றுநோய், பிறவிக் குறைபாடுகளும் ஏற்படலாம்."
       }

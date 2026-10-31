@@ -101,9 +101,9 @@
       "en": {
         "q": "Smooth muscles occur in the",
         "options": [
-          "uterus",
-          "artery",
-          "vein",
+          "uterus wall",
+          "artery wall",
+          "vein wall",
           "all of these"
         ],
         "explanation": "Smooth (involuntary) muscles occur in the walls of internal organs such as blood vessels (arteries and veins) and the uterus."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "மென்தசைகள் காணப்படுவது",
         "options": [
-          "கருப்பையில்",
-          "தமனியில்",
-          "சிரையில்",
+          "கருப்பைச் சுவரில்",
+          "தமனிச் சுவரில்",
+          "சிரைச் சுவரில்",
           "மேற்கண்ட அனைத்திலும்"
         ],
         "explanation": "மென்தசைகள் இரத்தக் குழாய்கள் (தமனி, சிரை), கருப்பை போன்ற உள்ளுறுப்புச் சுவர்களில் உள்ளன."
@@ -275,20 +275,20 @@
       "en": {
         "q": "Ciliated epithelium is found in the",
         "options": [
-          "bones",
-          "trachea (wind-pipe) and bronchioles",
-          "skin",
-          "heart muscle"
+          "long bones of the limbs",
+          "trachea and bronchioles",
+          "the outer skin surface",
+          "the heart muscle wall"
         ],
         "explanation": "It is also seen in kidney tubules and fallopian tubes; cilia move particles or mucus in a specific direction."
       },
       "ta": {
         "q": "குறு இழைகளுடன் கூடிய எபிதீலியம் உடலில் காணப்படுவது",
         "options": [
-          "எலும்புகளில்",
+          "கை, கால்களின் நீண்ட எலும்புகளில்",
           "மூச்சுக்குழல், சிறு மூச்சுக்குழல்களில்",
-          "தோலில்",
-          "இதயத் தசையில்"
+          "வெளிப்புறத் தோல் மேற்பரப்பில்",
+          "இதயத்தின் தசைச் சுவர் பகுதியில்"
         ],
         "explanation": "சிறுநீரகக் குழல்கள், அண்டக் குழாய்களிலும் உள்ளது; குறு இழைகள் துகள்கள், சளியை நகர்த்தும்."
       }
@@ -335,7 +335,7 @@
         "options": [
           "fluid connective tissue",
           "areolar connective tissue",
-          "supportive (skeletal) connective tissue",
+          "supportive connective tissue",
           "dense connective tissue"
         ],
         "explanation": "The book's statement is false: areolar tissue belongs to connective tissue proper; bone and cartilage are supportive connective tissues."
@@ -345,7 +345,7 @@
         "options": [
           "திரவ இணைப்புத் திசுக்கள்",
           "பரவு (ஏரியோலார்) இணைப்புத் திசு",
-          "ஆதார (எலும்புக்கூட்டு) இணைப்புத் திசுக்கள்",
+          "ஆதார இணைப்புத் திசுக்கள்",
           "அடர் இணைப்புத் திசுக்கள்"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; ஏரியோலார் திசு இணைப்புத் திசு வகையைச் சேர்ந்தது; எலும்பும் குருத்தெலும்பும் ஆதார இணைப்புத் திசுக்கள்."
@@ -450,7 +450,7 @@
         "q": "Intercalary meristem is found",
         "options": [
           "in the vascular cambium only",
-          "at the base of leaf or at the base of internodes (e.g. grasses)",
+          "at the base of leaf or of internodes",
           "at the apex of the root only",
           "in the cork cambium only"
         ],
@@ -460,8 +460,8 @@
         "q": "இடைப்பட்ட ஆக்குத் திசு காணப்படும் இடம்",
         "options": [
           "வாஸ்குலக் கேம்பியத்தில் மட்டும்",
-          "இலை அடிப்பகுதி அல்லது கணுவிடைப் பகுதியின் அடிப்பகுதி (எ.கா: புற்கள்)",
-          "வேர் நுனியில் மட்டும்",
+          "இலை அடிப்பகுதி அல்லது கணுவிடை அடிப்பகுதி",
+          "வேர் நுனிப் பகுதியில் மட்டும்",
           "கார்க் கேம்பியத்தில் மட்டும்"
         ],
         "explanation": "இது நிலைத் திசுக்களுக்கிடையே அமைந்து முதன்மை ஆக்குத் திசுவின் பகுதியாகும்."
@@ -480,7 +480,7 @@
         "options": [
           "only one type of cells",
           "only dead cells",
-          "more than one type of cells working together as a unit",
+          "more than one type of cells",
           "only meristematic cells"
         ],
         "explanation": "Examples are xylem and phloem."
@@ -490,7 +490,7 @@
         "options": [
           "ஒரே வகை செல்களால் மட்டும்",
           "இறந்த செல்களால் மட்டும்",
-          "ஒன்றுக்கு மேற்பட்ட வகை செல்கள் ஒரு அலகாகச் செயல்படுவதால்",
+          "ஒன்றுக்கு மேற்பட்ட வகை செல்களால்",
           "ஆக்குத் திசு செல்களால் மட்டும்"
         ],
         "explanation": "எ.கா: சைலம், புளோயம்."
@@ -565,20 +565,20 @@
       "en": {
         "q": "Gametes are produced by meiosis in sexual reproduction because meiosis",
         "options": [
-          "produces identical diploid cells",
-          "doubles the chromosome number",
-          "reduces the chromosome number to haploid so the chromosome number of the species remains constant",
-          "produces only two cells"
+          "produces genetically identical diploid daughter cells",
+          "doubles the chromosome number in every cell",
+          "halves the chromosome number to haploid in gametes",
+          "produces only two cells from the parent cell"
         ],
         "explanation": "Fusion of two haploid gametes restores the diploid number; crossing over also produces genetic variation."
       },
       "ta": {
         "q": "பால்முறை இனப்பெருக்கத்தில் கேமீட்டுகள் ஒடுக்கற்பிரிவால் உருவாக வேண்டும், ஏனெனில் இது",
         "options": [
-          "ஒத்த இருமடிச் செல்களை உருவாக்குகிறது",
-          "குரோமோசோம் எண்ணிக்கையை இரட்டிப்பாக்குகிறது",
-          "குரோமோசோம் எண்ணிக்கையை ஒற்றைமடியாகக் குறைத்து சிற்றினத்தின் குரோமோசோம் எண்ணிக்கையை நிலைநிறுத்துகிறது",
-          "இரண்டு செல்களை மட்டுமே உருவாக்குகிறது"
+          "மரபொத்த இருமடி மகள் செல்களை உருவாக்குகிறது",
+          "குரோமோசோம் எண்ணிக்கையை இரு மடங்காக்குகிறது",
+          "குரோமோசோம் எண்ணிக்கையை ஒற்றைமடியாகக் குறைக்கிறது",
+          "தாய் செல்லிலிருந்து இரண்டு செல்களை மட்டுமே உருவாக்குகிறது"
         ],
         "explanation": "இரு ஒற்றைமடிக் கேமீட்டுகள் இணைந்து இருமடி எண்ணிக்கையை மீட்கின்றன; குறுக்கேற்றம் மரபு மாறுபாட்டையும் தருகிறது."
       }

@@ -14,20 +14,20 @@
       "en": {
         "q": "In the gold foil experiment (interpreted by Rutherford in 1911), gold foil was chosen because",
         "options": [
-          "gold is radioactive",
-          "gold is magnetic",
-          "gold is the most malleable metal and could be made very thin",
-          "gold is the lightest metal"
+          "gold is strongly radioactive in nature",
+          "gold is strongly magnetic in nature",
+          "gold is very malleable and can be made very thin",
+          "gold is the lightest of all the metals"
         ],
         "explanation": "He bombarded the thin gold foil with positively charged alpha particles."
       },
       "ta": {
         "q": "ரூதர்போர்டு 1911-ல் விளக்கிய தங்கத்தகடு சோதனையில் தங்கத் தகடு தேர்ந்தெடுக்கப்படக் காரணம்",
         "options": [
-          "தங்கம் கதிரியக்கம் கொண்டது",
-          "தங்கம் காந்தத்தன்மை உடையது",
-          "தங்கம் மிக அதிகமாகத் தகடாக்கக்கூடிய உலோகம்; மிக மெல்லிய தகடு செய்யலாம்",
-          "தங்கம் மிக இலேசான உலோகம்"
+          "தங்கம் வலிமையான கதிரியக்கம் கொண்ட உலோகம்",
+          "தங்கம் வலிமையான காந்தத்தன்மை உடையது",
+          "தங்கம் தகடாகும் தன்மை மிக்கது; மிக மெல்லிய தகடாகும்",
+          "தங்கம் எல்லா உலோகங்களிலும் மிக இலேசானது"
         ],
         "explanation": "மிக மெல்லிய தங்கத் தகட்டின் மீது நேர்மின்சுமை கொண்ட ஆல்பா துகள்களை அவர் செலுத்தினார்."
       }
@@ -43,20 +43,20 @@
       "en": {
         "q": "In the gold foil experiment, very few alpha particles completely bounced back. This shows that",
         "options": [
-          "the atom is empty everywhere",
+          "the atom is completely empty everywhere",
           "electrons are heavier than alpha particles",
-          "the foil was broken",
-          "the positive charge of the atom is concentrated in a very small nucleus"
+          "the gold foil was torn in many places",
+          "the atom's positive charge is in a tiny nucleus"
         ],
         "explanation": "Most passed straight (empty space), some were slightly deflected, and very few bounced back."
       },
       "ta": {
         "q": "தங்கத்தகடு சோதனையில் மிகச் சில ஆல்பா துகள்கள் முழுமையாகத் திரும்பின. இது காட்டுவது",
         "options": [
-          "அணு எங்கும் வெற்றிடமானது",
-          "எலக்ட்ரான்கள் ஆல்பா துகள்களை விடக் கனமானவை",
-          "தகடு உடைந்துவிட்டது",
-          "அணுவின் நேர்மின்சுமை மிகச்சிறிய உட்கருவில் குவிந்துள்ளது"
+          "தங்கம் வலிமையான கதிரியக்கம் கொண்ட உலோகம்",
+          "தங்கம் வலிமையான காந்தத்தன்மை உடையது",
+          "தங்கம் தகடாகும் தன்மை மிக்கது; மிக மெல்லிய தகடாகும்",
+          "தங்கம் எல்லா உலோகங்களிலும் மிக இலேசானது"
         ],
         "explanation": "பெரும்பாலானவை நேராகச் சென்றன (வெற்றிடம்), சில சிறிது விலகின, மிகச் சில திரும்பின."
       }
@@ -333,10 +333,10 @@
       "en": {
         "q": "The symbol Z for atomic number comes from the German word 'Zahl', meaning",
         "options": [
-          "zone",
-          "zero",
-          "number",
-          "zinc"
+          "a zone",
+          "a zero",
+          "a number",
+          "a zinc"
         ],
         "explanation": "Z can be called Atomzahl or atomic number."
       },
@@ -392,7 +392,7 @@
         "q": "The size of an atom can be measured in",
         "options": [
           "kilometre",
-          "nanometre (1 nm = 10^-9 m)",
+          "nanometre",
           "millimetre",
           "micron-metre only"
         ],
@@ -402,7 +402,7 @@
         "q": "அணுவின் அளவை அளக்கப் பயன்படும் அலகு",
         "options": [
           "கிலோமீட்டர்",
-          "நானோமீட்டர் (1 nm = 10^-9 மீ)",
+          "நானோமீட்டர்",
           "மில்லிமீட்டர்",
           "மைக்ரோமீட்டர் மட்டும்"
         ],

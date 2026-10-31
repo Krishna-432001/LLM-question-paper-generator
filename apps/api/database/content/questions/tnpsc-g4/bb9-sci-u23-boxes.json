@@ -73,8 +73,8 @@
         "q": "Which is an advantage of a green house?",
         "options": [
           "Plants are exposed to uncertain weather",
-          "Water requirement of crops is very less and yield is very high",
-          "More pesticide is needed",
+          "Water need of crops is low and yield is high",
+          "More pesticide is needed for the plants",
           "Disease-prone plants are produced"
         ],
         "explanation": "A green house is the fastest growing sector in agriculture worldwide."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "பசுமைக்குடிலின் நன்மை எது?",
         "options": [
-          "நிலையற்ற வானிலைக்கு ஆளாகும்",
-          "பயிர்களுக்கு நீர்த் தேவை மிகக் குறைவு; விளைச்சல் மிக அதிகம்",
-          "அதிக பூச்சிக்கொல்லி தேவை",
+          "தாவரங்கள் நிலையற்ற வானிலைக்கு ஆளாகும்",
+          "பயிர்களுக்கு நீர்த் தேவை குறைவு; விளைச்சல் அதிகம்",
+          "தாவரங்களுக்கு அதிக பூச்சிக்கொல்லி தேவை",
           "நோய் பாதித்த தாவரங்கள் உருவாகும்"
         ],
         "explanation": "உலகளவில் வேளாண்மையில் வேகமாக வளரும் துறை பசுமைக்குடில்."
@@ -130,20 +130,20 @@
       "en": {
         "q": "Floriculture is the",
         "options": [
-          "production of fruits",
-          "production of vegetables",
-          "cultivation of flowering and ornamental plants",
-          "rearing of earthworms"
+          "production of fruits and nuts",
+          "production of vegetables and pulses",
+          "cultivation of flowering plants",
+          "rearing of earthworms for compost"
         ],
         "explanation": "Examples: geraniums, busy lizzies, chrysanthemum and petunia."
       },
       "ta": {
         "q": "மலர் வளர்ப்பு (ஃப்ளோரிகல்ச்சர்) என்பது",
         "options": [
-          "பழ உற்பத்தி",
-          "காய்கறி உற்பத்தி",
+          "பழங்கள், கொட்டைகள் உற்பத்தி",
+          "காய்கறிகள், பயறுகள் உற்பத்தி",
           "பூக்கும், அழகுத் தாவரங்களைப் பயிரிடுதல்",
-          "மண்புழு வளர்ப்பு"
+          "உரத்திற்காக மண்புழு வளர்ப்பு"
         ],
         "explanation": "எ.கா: ஜெரேனியம், பிசி லிசி, சேவந்தி (கிரிசாந்திமம்), பெட்டூனியா."
       }
@@ -159,9 +159,9 @@
       "en": {
         "q": "Designing and constructing landscapes in homes and public areas to imitate natural scenery is",
         "options": [
-          "olericulture",
-          "pomology",
-          "vermiculture",
+          "vegetable olericulture",
+          "fruit pomology",
+          "earthworm vermiculture",
           "landscape gardening"
         ],
         "explanation": "It is one of the four main classes of horticulture."
@@ -169,9 +169,9 @@
       "ta": {
         "q": "வீடுகள், பொது இடங்களில் இயற்கைக் காட்சியை ஒத்த நிலக்காட்சிகளை வடிவமைப்பது",
         "options": [
-          "காய்கறியியல்",
-          "பழவியல்",
-          "மண்புழு வளர்ப்பு",
+          "காய்கறி வளர்ப்பியல்",
+          "பழ வளர்ப்புத் துறை",
+          "மண்புழு உர வளர்ப்பு",
           "நிலக்காட்சித் தோட்டக்கலை"
         ],
         "explanation": "இது தோட்டக்கலையின் நான்கு பிரிவுகளில் ஒன்று."
@@ -217,20 +217,20 @@
       "en": {
         "q": "Compost is produced by",
         "options": [
-          "chemical synthesis of nitrates",
-          "mining of minerals",
-          "natural decomposition of organic matter by microorganisms under controlled conditions",
-          "burning of crop residues"
+          "chemical synthesis of nitrates in factories",
+          "mining of phosphate minerals from the earth",
+          "natural decomposition of organic matter by microorganisms",
+          "burning of crop residues in the field"
         ],
         "explanation": "It is a soil conditioner and a nutrient-rich fertilizer."
       },
       "ta": {
         "q": "கம்போஸ்ட் (மக்கு உரம்) உருவாவது",
         "options": [
-          "நைட்ரேட்டுகளின் வேதித் தொகுப்பால்",
-          "கனிமங்களை வெட்டியெடுப்பதால்",
-          "கட்டுப்படுத்தப்பட்ட நிலையில் நுண்ணுயிர்களால் கரிமப் பொருள்கள் இயற்கையாகச் சிதைவதால்",
-          "பயிர்க் கழிவுகளை எரிப்பதால்"
+          "தொழிற்சாலைகளில் நைட்ரேட்டுகளின் வேதித் தொகுப்பால்",
+          "பூமியிலிருந்து பாஸ்பேட் கனிமங்களை வெட்டியெடுப்பதால்",
+          "நுண்ணுயிர்களால் கரிமப் பொருள்கள் இயற்கையாகச் சிதைவதால்",
+          "வயலில் பயிர்க் கழிவுகளை எரிப்பதால்"
         ],
         "explanation": "இது மண்ணைச் சீராக்கும், ஊட்டச்சத்துகள் நிறைந்த உரம்."
       }
@@ -246,7 +246,7 @@
       "en": {
         "q": "Which of the following is used as green manure?",
         "options": [
-          "Sunhemp (Crotalaria juncea)",
+          "Sunhemp",
           "Apis indica",
           "Agaricus",
           "Rohu"
@@ -256,7 +256,7 @@
       "ta": {
         "q": "பசுந்தாள் உரமாகப் பயன்படுவது எது?",
         "options": [
-          "சணப்பை (குரோட்டலேரியா ஜன்சியா)",
+          "சணப்பை",
           "ஏபிஸ் இண்டிகா",
           "அகாரிகஸ்",
           "ரோகு மீன்"
@@ -275,10 +275,10 @@
       "en": {
         "q": "Rhizobium forms root nodules on",
         "options": [
-          "cereals only",
-          "fish",
+          "cereal crops only",
+          "the gills of fish",
           "leguminous plants",
-          "mushrooms"
+          "wild mushrooms"
         ],
         "explanation": "The bacteria fix atmospheric nitrogen and convert it to ammonia."
       },
@@ -362,20 +362,20 @@
       "en": {
         "q": "The Tamil Nadu 'Biofertiliser Scheme' aims at",
         "options": [
-          "better management of natural farming and maintaining soil fertility",
-          "increasing use of chemical fertilizers",
-          "fish export",
-          "honey marketing"
+          "better natural farming and maintaining soil fertility",
+          "increasing the use of chemical fertilizers and pesticides",
+          "increasing the export of fish to other countries",
+          "improving the marketing of honey in towns"
         ],
         "explanation": "It helps to boost and maintain soil fertility."
       },
       "ta": {
         "q": "தமிழ்நாட்டின் 'உயிரி உரத் திட்டத்தின்' நோக்கம்",
         "options": [
-          "இயற்கை வேளாண்மையின் சிறந்த மேலாண்மை; மண்வளத்தைப் பேணுதல்",
-          "வேதி உரப் பயன்பாட்டை அதிகரித்தல்",
-          "மீன் ஏற்றுமதி",
-          "தேன் சந்தைப்படுத்தல்"
+          "இயற்கை வேளாண்மையைச் சிறப்பாக்கி மண்வளத்தைப் பேணுதல்",
+          "வேதி உரங்கள், பூச்சிக்கொல்லிகளின் பயன்பாட்டை அதிகரித்தல்",
+          "மீன் ஏற்றுமதியை வேறு நாடுகளுக்கு அதிகரித்தல்",
+          "நகரங்களில் தேன் சந்தைப்படுத்தலை மேம்படுத்துதல்"
         ],
         "explanation": "இது மண் வளத்தை அதிகரிக்கவும் பராமரிக்கவும் உதவுகிறது."
       }
@@ -490,7 +490,7 @@
         "options": [
           "உறையிடுதல், கம்போஸ்ட், ஸ்பான், அறுவடை, குருத்து",
           "ஸ்பான் இடுதல், கம்போஸ்ட், குருத்து, உறை, அறுவடை",
-          "கம்போஸ்ட் தயாரித்தல், ஸ்பான் இடுதல், உறையிடுதல், குருத்து தோன்றுதல், அறுவடை",
+          "கம்போஸ்ட், ஸ்பான் இடுதல், உறையிடுதல், குருத்து, அறுவடை",
           "அறுவடை, குருத்து, உறை, ஸ்பான், கம்போஸ்ட்"
         ],
         "explanation": "மூன்றாம் வாரத்தில் முதல் அறுவடை செய்யலாம்."
@@ -507,20 +507,20 @@
       "en": {
         "q": "In hydroponics, the plants must be mechanically supported from above because the roots",
         "options": [
-          "are absent",
-          "grow in sand",
-          "absorb water and nutrients but do not perform the anchoring function",
-          "are dead"
+          "are completely absent in such soilless plants",
+          "grow only inside beds of sand and gravel",
+          "absorb water and nutrients but cannot anchor the plant",
+          "are dead and cannot absorb any water"
         ],
         "explanation": "The containers are made of glass, metal or plastic."
       },
       "ta": {
         "q": "நீர்வழி வேளாண்மையில் தாவரங்களை மேலிருந்து தாங்க வேண்டிய காரணம், வேர்கள்",
         "options": [
-          "இல்லை",
-          "மணலில் வளர்கின்றன",
-          "நீரையும் ஊட்டங்களையும் உறிஞ்சுகின்றன; பற்றிக்கொள்ளும் பணியைச் செய்வதில்லை",
-          "இறந்தவை"
+          "அத்தகைய மண்ணற்ற தாவரங்களில் முற்றிலும் இல்லை",
+          "மணல், சரளைக் கற்படுக்கையில் மட்டுமே வளர்கின்றன",
+          "நீர், ஊட்டங்களை உறிஞ்சுகின்றன; தாங்கும் பணியைச் செய்வதில்லை",
+          "இறந்தவை; எந்த நீரையும் உறிஞ்ச இயலாதவை"
         ],
         "explanation": "கலன்கள் கண்ணாடி, உலோகம், பிளாஸ்டிக்கால் ஆனவை."
       }
@@ -575,10 +575,10 @@
       "ta": {
         "q": "அக்வாபோனிக்ஸ் என்பது",
         "options": [
-          "ஏரோபோனிக்ஸும் தோட்டக்கலையும்",
-          "மீன் வளர்ப்பும் தேனீ வளர்ப்பும்",
-          "நீர்வாழ் உயிரி வளர்ப்பும் நீர்வழி வேளாண்மையும் இணைந்த முறை",
-          "மண்புழு வளர்ப்பும் மலர் வளர்ப்பும்"
+          "ஏரோபோனிக்ஸும் தோட்டக்கலை வளர்ப்பும்",
+          "மீன் வளர்ப்பும் தேனீக்கள் வளர்ப்பும்",
+          "நீர்வாழ் உயிரி வளர்ப்பும் நீர்வழி வேளாண்மையும்",
+          "மண்புழு உர வளர்ப்பும் மலர் வளர்ப்பும்"
         ],
         "explanation": "நீர்வாழ் உயிரிகளின் கழிவுகள் நைட்ரிஃபையிங் பாக்டீரியாவால் நைட்ரைட், நைட்ரேட்டாக மாற்றப்பட்டுத் தாவரங்களுக்குக் கிடைக்கின்றன."
       }
@@ -681,9 +681,9 @@
       "en": {
         "q": "Which of the following is a concentrate (low in fibre, high in carbohydrates and protein) used in cattle feed?",
         "options": [
-          "Hay",
-          "Straw",
-          "Chaff",
+          "Dry hay grass",
+          "Dry paddy straw",
+          "Rice husk chaff",
           "Cotton seed cake"
         ],
         "explanation": "Hay, straw and chaff are dry fodder (roughage)."
@@ -691,9 +691,9 @@
       "ta": {
         "q": "கால்நடைத் தீவனத்தில் செறிவூட்டும் தீவனமாக (நார் குறைவு, கார்போஹைட்ரேட், புரதம் மிகுந்தது) பயன்படுவது எது?",
         "options": [
-          "வைக்கோல் புல் (ஹே)",
-          "வைக்கோல்",
-          "தவிடு-உமி (சாஃப்)",
+          "காய்ந்த வைக்கோல் புல் துண்டுகள்",
+          "உலர்ந்த நெல் வைக்கோல் துண்டுகள்",
+          "நெல்லின் உமித் தவிடு கழிவு",
           "பருத்திக் கொட்டைப் புண்ணாக்கு"
         ],
         "explanation": "ஹே, வைக்கோல், சாஃப் உலர் தீவனங்கள் (கரடுமுரடான தீவனம்)."
@@ -769,7 +769,7 @@
         "q": "Marine water aquaculture is also known as",
         "options": [
           "pisciculture",
-          "mariculture (sea farming)",
+          "mariculture",
           "polyculture",
           "monoculture"
         ],
@@ -779,7 +779,7 @@
         "q": "கடல்நீர் நீர்வாழ் உயிரி வளர்ப்பின் வேறு பெயர்",
         "options": [
           "மீன் வளர்ப்பு",
-          "மரிகல்ச்சர் (கடல் வேளாண்மை)",
+          "மரிகல்ச்சர்",
           "பல இன வளர்ப்பு",
           "ஒற்றை இன வளர்ப்பு"
         ],
@@ -807,7 +807,7 @@
       "ta": {
         "q": "கடல்நீரில் வளர்க்கப்படும் மீன் எது?",
         "options": [
-          "கொடுவா (சீ பாஸ்)",
+          "கொடுவா",
           "ரோகு",
           "திலேப்பியா",
           "கட்லா"
@@ -855,20 +855,20 @@
       "en": {
         "q": "Integrated fish farming is the culture of fishes along with",
         "options": [
-          "only prawns",
-          "only mushrooms",
-          "only honey bees",
-          "agricultural crops or animal husbandry such as paddy, poultry, cattle, pigs and ducks"
+          "prawns, crabs and other crustaceans alone",
+          "mushrooms grown on straw beds near the pond",
+          "honey bees kept in hive boxes near the pond",
+          "farm crops or livestock such as paddy, poultry and cattle"
         ],
         "explanation": "Extensive culture uses large areas with low stocking density and natural feeding."
       },
       "ta": {
         "q": "ஒருங்கிணைந்த மீன் வளர்ப்பு என்பது மீன்களுடன் சேர்த்து வளர்ப்பது",
         "options": [
-          "இறால் மட்டும்",
-          "காளான் மட்டும்",
-          "தேனீக்கள் மட்டும்",
-          "வேளாண் பயிர்கள் அல்லது நெல், கோழி, மாடு, பன்றி, வாத்து போன்ற கால்நடை வளர்ப்பு"
+          "இறால், நண்டு போன்ற மேலோட்டுயிர்கள் மட்டுமே",
+          "குளத்தருகே வைக்கோல் படுக்கையில் வளர்க்கும் காளான்",
+          "குளத்தருகே பெட்டிகளில் வளர்க்கும் தேனீக்கள்",
+          "வேளாண் பயிர்கள் அல்லது நெல், கோழி, மாடு போன்ற வளர்ப்பு"
         ],
         "explanation": "பரந்த மீன் வளர்ப்பு பெரிய பரப்பில், குறைந்த அடர்த்தியில் இயற்கை உணவுடன் நடைபெறும்."
       }
@@ -913,20 +913,20 @@
       "en": {
         "q": "Fishes are a rich source of",
         "options": [
-          "cellulose only",
-          "starch only",
-          "vitamin C only",
-          "animal proteins, essential amino acids and PUFA"
+          "cellulose and dietary fibre",
+          "starch and sugars from grains",
+          "vitamin C and citric acid",
+          "animal proteins and essential amino acids"
         ],
         "explanation": "They are rich in lysine and methionine and in vitamins A, D and B-complex."
       },
       "ta": {
         "q": "மீன்கள் மிகுதியாகக் கொண்டிருப்பவை",
         "options": [
-          "செல்லுலோஸ் மட்டும்",
-          "ஸ்டார்ச் மட்டும்",
-          "வைட்டமின் C மட்டும்",
-          "விலங்குப் புரதம், இன்றியமையா அமினோ அமிலங்கள், PUFA"
+          "செல்லுலோஸும் உணவு நாரும்",
+          "தானியங்களின் ஸ்டார்ச், சர்க்கரை",
+          "வைட்டமின் C, சிட்ரிக் அமிலம்",
+          "விலங்குப் புரதம், இன்றியமையா அமினோ அமிலங்கள்"
         ],
         "explanation": "லைசின், மெத்தியோனின், வைட்டமின் A, D, B-கூட்டுப் பொருள்கள் நிறைந்தவை."
       }
@@ -942,9 +942,9 @@
       "en": {
         "q": "Which prawn species is cultured in freshwater?",
         "options": [
-          "Penaeus indicus",
-          "Penaeus monodon",
-          "Chanos chanos",
+          "Fenneropenaeus indicus",
+          "Litopenaeus vannamei",
+          "Penaeus semisulcatus",
           "Macrobrachium rosenbergii"
         ],
         "explanation": "Penaeus indicus and Penaeus monodon are marine prawns."
@@ -952,9 +952,9 @@
       "ta": {
         "q": "நன்னீரில் வளர்க்கப்படும் இறால் இனம் எது?",
         "options": [
-          "பெனியஸ் இண்டிகஸ்",
-          "பெனியஸ் மோனோடான்",
-          "சானோஸ் சானோஸ்",
+          "ஃபென்னரோபெனியஸ் இண்டிகஸ்",
+          "லிட்டோபெனியஸ் வன்னாமி",
+          "பெனியஸ் செமிசல்கேட்டஸ்",
           "மேக்ரோபிராகியம் ரோசென்பெர்கி"
         ],
         "explanation": "பெனியஸ் இண்டிகஸ், பெனியஸ் மோனோடான் கடல் இறால்கள்."
@@ -1001,9 +1001,9 @@
         "q": "Vermicompost is similar to farmyard manure in colour and appearance, being",
         "options": [
           "dark brown",
-          "red",
-          "white",
-          "green"
+          "bright red",
+          "pure white",
+          "light green"
         ],
         "explanation": "It is an ideal fertilizer for the soil."
       },
@@ -1011,9 +1011,9 @@
         "q": "மண்புழு உரம் நிறத்திலும் தோற்றத்திலும் தொழுவுரத்தை ஒத்தது; அதன் நிறம்",
         "options": [
           "அடர் பழுப்பு",
-          "சிவப்பு",
-          "வெள்ளை",
-          "பச்சை"
+          "பளிச்சிடும் சிவப்பு",
+          "தூய வெள்ளை",
+          "இளம் பச்சை"
         ],
         "explanation": "இது மண்ணிற்கு ஏற்ற சிறந்த உரம்."
       }
@@ -1060,7 +1060,7 @@
         "options": [
           "Apis florea",
           "Apis dorsata",
-          "Apis adamsoni (African bee)",
+          "Apis adamsoni",
           "Apis indica"
         ],
         "explanation": "Apis dorsata, florea and indica are indigenous."
@@ -1070,7 +1070,7 @@
         "options": [
           "ஏபிஸ் ஃபுளோரியா",
           "ஏபிஸ் டார்சேட்டா",
-          "ஏபிஸ் ஆடம்சோனி (ஆப்பிரிக்கத் தேனீ)",
+          "ஏபிஸ் ஆடம்சோனி",
           "ஏபிஸ் இண்டிகா"
         ],
         "explanation": "டார்சேட்டா, ஃபுளோரியா, இண்டிகா உள்நாட்டு வகைகள்."
@@ -1087,10 +1087,10 @@
       "en": {
         "q": "Honey is formed from nectar in the",
         "options": [
-          "wax glands",
+          "wax glands of the bee",
           "honey sac of the bee",
-          "queen's ovary",
-          "drone's gut"
+          "queen's ovary tissue",
+          "drone's gut lining"
         ],
         "explanation": "Sucrose in the nectar is converted into honey by enzymatic action with an acidic secretion."
       },
@@ -1145,20 +1145,20 @@
       "en": {
         "q": "An average bee makes only about how much honey in its lifetime?",
         "options": [
-          "1 teaspoon",
-          "1 spoonful",
+          "1 full teaspoon",
+          "1 big spoonful",
           "1/12 of a teaspoon",
-          "1 cup"
+          "1 full cup of honey"
         ],
         "explanation": "A bee visits 50 to 100 flowers per collection trip; 1 kg of honey contains 3200 calories."
       },
       "ta": {
         "q": "ஒரு சராசரித் தேனீ தன் வாழ்நாளில் உற்பத்தி செய்யும் தேனின் அளவு",
         "options": [
-          "ஒரு தேக்கரண்டி",
-          "ஒரு கரண்டி",
+          "ஒரு முழுத் தேக்கரண்டி",
+          "ஒரு பெரிய கரண்டி",
           "தேக்கரண்டியின் 1/12 பங்கு",
-          "ஒரு கோப்பை"
+          "ஒரு முழுக் கோப்பை"
         ],
         "explanation": "ஒரு பயணத்தில் 50-100 மலர்களைத் தேனீ நாடும்; 1 கி.கி தேனில் 3200 கலோரிகள் உள்ளன."
       }
@@ -1174,20 +1174,20 @@
       "en": {
         "q": "Vermiculture involves the artificial rearing of",
         "options": [
-          "earthworms to produce compost from organic wastes",
-          "honey bees",
-          "fish",
-          "mushrooms"
+          "earthworms to make compost",
+          "honey bees for honey",
+          "fish in tanks",
+          "mushrooms on beds"
         ],
         "explanation": "Vermicomposting converts bio-wastes into nutrient-rich organic manure using earthworms."
       },
       "ta": {
         "q": "வெர்மிகல்ச்சர் (மண்புழு வளர்ப்பு) என்பது செயற்கையாக வளர்ப்பது",
         "options": [
-          "கரிமக் கழிவுகளிலிருந்து உரம் தயாரிக்க மண்புழுக்களை",
-          "தேனீக்களை",
-          "மீன்களை",
-          "காளான்களை"
+          "உரம் தயாரிக்க மண்புழுக்களை",
+          "தேனுக்காகத் தேனீக்களை",
+          "தொட்டிகளில் மீன்களை",
+          "படுக்கைகளில் காளான்களை"
         ],
         "explanation": "மண்புழு உரம் உயிரிக் கழிவுகளை ஊட்டச்சத்து மிக்க கரிம உரமாக மாற்றுகிறது."
       }

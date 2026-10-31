@@ -72,7 +72,7 @@
       "en": {
         "q": "Acids in plants and animals are organic acids, whereas acids obtained from rocks and minerals are",
         "options": [
-          "inorganic (mineral) acids",
+          "inorganic acids",
           "weak acids",
           "dibasic acids",
           "organic bases"
@@ -189,7 +189,7 @@
         "q": "Based on their sources, acids are classified as",
         "options": [
           "strong and weak acids",
-          "organic acids and inorganic (mineral) acids",
+          "organic and inorganic acids",
           "monobasic and dibasic acids",
           "concentrated and dilute acids"
         ],
@@ -247,7 +247,7 @@
         "q": "Aquaregia is mainly used to",
         "options": [
           "neutralise stomach acid",
-          "dissolve gold and platinum and to clean and refine gold",
+          "dissolve gold and platinum",
           "make soaps",
           "whitewash buildings"
         ],
@@ -257,7 +257,7 @@
         "q": "இராஜ திராவகத்தின் முக்கியப் பயன்",
         "options": [
           "வயிற்றிலுள்ள அமிலத்தை நடுநிலையாக்க",
-          "தங்கம், பிளாட்டினத்தைக் கரைக்கவும், தங்கத்தைத் தூய்மையாக்கவும்",
+          "தங்கம், பிளாட்டினத்தைக் கரைக்க",
           "சோப்பு தயாரிக்க",
           "கட்டடங்களுக்கு வெள்ளையடிக்க"
         ],
@@ -275,20 +275,20 @@
       "en": {
         "q": "Plaster of Paris is used for",
         "options": [
-          "softening hard water",
+          "softening hard water in boilers and pipes",
           "plastering fractured bones and making casts for statues",
-          "making cakes soft and spongy",
-          "bleaching cotton and linen"
+          "making cakes and bread soft and spongy",
+          "bleaching cotton and linen in textile mills"
         ],
         "explanation": "Plaster of Paris (CaSO4.1/2 H2O) is used for plastering bones and making casts for statues."
       },
       "ta": {
         "q": "பாரிஸ் சாந்து (பிளாஸ்டர் ஆஃப் பாரிஸ்) பயன்படுவது",
         "options": [
-          "கடின நீரை மென்மையாக்க",
-          "முறிந்த எலும்புகளுக்குக் கட்டுப்போடவும் சிலைகளின் வார்ப்புகள் செய்யவும்",
-          "கேக்குகளை மென்மையாக்க",
-          "பருத்தி, லினன் துணிகளை வெளுக்க"
+          "கொதிகலன்களில் கடின நீரை மென்மையாக்க",
+          "முறிந்த எலும்புக்குக் கட்டுப்போடவும் சிலை வார்க்கவும்",
+          "கேக், ரொட்டிகளைப் பஞ்சு போல மென்மையாக்க",
+          "ஆலைகளில் பருத்தி, லினன் துணிகளை வெளுக்க"
         ],
         "explanation": "பாரிஸ் சாந்து (CaSO4.½H2O) எலும்புகளுக்குக் கட்டுப்போடவும் சிலை வார்ப்புகள் செய்யவும் பயன்படுகிறது."
       }
@@ -307,7 +307,7 @@
           "A is H2SO4 and B is HCl",
           "A is H3PO4 and B is HNO3",
           "A is H2CO3 and B is HCl",
-          "A is HCl (monobasic) and B is H2SO4 (dibasic)"
+          "A is HCl and B is H2SO4"
         ],
         "explanation": "A monobasic acid such as HCl or HNO3 gives one H+; a dibasic acid such as H2SO4 or H2CO3 gives two."
       },
@@ -317,7 +317,7 @@
           "A - H2SO4; B - HCl",
           "A - H3PO4; B - HNO3",
           "A - H2CO3; B - HCl",
-          "A - HCl (ஒருபடி); B - H2SO4 (இருபடி)"
+          "A - HCl; B - H2SO4"
         ],
         "explanation": "HCl, HNO3 போன்றவை ஒருபடி அமிலங்கள் (ஒரு H+); H2SO4, H2CO3 இருபடி அமிலங்கள் (இரு H+)."
       }
@@ -393,7 +393,7 @@
         "options": [
           "Washing soda",
           "Bleaching powder",
-          "Baking powder (baking soda)",
+          "Baking powder",
           "Plaster of Paris"
         ],
         "explanation": "The book's statement is wrong: washing soda softens hard water; baking powder (baking soda + tartaric acid) is used for cakes and bread."
@@ -403,7 +403,7 @@
         "options": [
           "சலவை சோடா",
           "வெளுப்புத் தூள்",
-          "பேக்கிங் பவுடர் (சமையல் சோடா)",
+          "பேக்கிங் பவுடர்",
           "பாரிஸ் சாந்து"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; சலவை சோடா கடின நீரை மென்மையாக்கும்; கேக், ரொட்டிக்குப் பேக்கிங் பவுடர் (சமையல் சோடா + டார்டாரிக் அமிலம்) பயன்படும்."
@@ -421,7 +421,7 @@
         "q": "Which compound is used in the textile industry for bleaching cotton and linen?",
         "options": [
           "Sodium bicarbonate",
-          "Bleaching powder (calcium oxychloride)",
+          "Bleaching powder",
           "Calcium sulphate hemihydrate",
           "Sodium carbonate"
         ],
@@ -431,7 +431,7 @@
         "q": "ஜவுளித் தொழிலில் பருத்தி, லினன் துணிகளை வெளுக்கப் பயன்படுவது",
         "options": [
           "சோடியம் பை கார்பனேட்",
-          "வெளுப்புத் தூள் (கால்சியம் ஆக்ஸிகுளோரைடு)",
+          "வெளுப்புத் தூள்",
           "கால்சியம் சல்பேட் ஹெமிஹைட்ரேட்",
           "சோடியம் கார்பனேட்"
         ],
@@ -478,7 +478,7 @@
       "en": {
         "q": "Which statement correctly differentiates hydrated and anhydrous salts?",
         "options": [
-          "Hydrated salts contain water of crystallisation (e.g. CuSO4.5H2O); anhydrous salts do not (e.g. CuSO4)",
+          "Hydrated salts contain water of crystallisation; anhydrous salts do not",
           "Hydrated salts contain no water; anhydrous salts contain water of crystallisation",
           "Hydrated salts are generally powders; anhydrous salts are crystals with water",
           "Both contain the same amount of water"
@@ -488,7 +488,7 @@
       "ta": {
         "q": "நீரேறிய, நீரற்ற உப்புகளை வேறுபடுத்தும் சரியான கூற்று எது?",
         "options": [
-          "நீரேறிய உப்பில் படிக நீர் உண்டு (எ.கா: CuSO4.5H2O); நீரற்ற உப்பில் இல்லை (எ.கா: CuSO4)",
+          "நீரேறிய உப்பில் படிக நீர் உண்டு; நீரற்ற உப்பில் இல்லை",
           "நீரேறிய உப்பில் நீர் இல்லை; நீரற்ற உப்பில் படிக நீர் உண்டு",
           "நீரேறிய உப்புகள் பொதுவாகத் தூளாக இருக்கும்; நீரற்றவை நீருடன் படிகங்களாக இருக்கும்",
           "இரண்டிலும் நீரின் அளவு சமம்"
@@ -536,10 +536,10 @@
       "en": {
         "q": "Which of the following is a use of a base?",
         "options": [
-          "Sulphuric acid is used in car batteries",
-          "Tartaric acid is used in baking powder",
-          "Magnesium hydroxide is used as a medicine for stomach disorder",
-          "Oxalic acid is used to bleach wood"
+          "Sulphuric acid is used in lead-acid car batteries",
+          "Tartaric acid is used in baking powder for cakes",
+          "Magnesium hydroxide is used as a medicine for acidity",
+          "Oxalic acid is used to bleach wood and straw"
         ],
         "explanation": "Bases: NaOH for soap, Ca(OH)2 for whitewashing, Mg(OH)2 as an antacid, NH4OH to remove grease stains."
       },
@@ -565,10 +565,10 @@
       "en": {
         "q": "Sulphuric acid is called the King of Chemicals because",
         "options": [
-          "it is found in all fruits",
-          "it is used in the preparation of many other compounds",
-          "it dissolves gold",
-          "it is the strongest base known"
+          "it is found in all the fruits we eat",
+          "it is used to prepare many other compounds",
+          "it dissolves gold and platinum quickly",
+          "it is the strongest base known to chemists"
         ],
         "explanation": "It is used for making many other compounds and in car batteries."
       },
@@ -595,9 +595,9 @@
         "q": "Which of the following metals do not react with sodium hydroxide?",
         "options": [
           "Cu, Ag and Cr",
-          "Zn",
-          "Al and Zn",
-          "Na and K"
+          "Zn, Al and Pb",
+          "Al, Zn and Sn",
+          "Na, K and Zn"
         ],
         "explanation": "The book gives Cu, Ag and Cr as metals that do not react with NaOH, whereas Zn reacts to give sodium zincate and hydrogen."
       },
@@ -605,9 +605,9 @@
         "q": "சோடியம் ஹைட்ராக்சைடுடன் வினைபுரியாத உலோகங்கள் எவை?",
         "options": [
           "Cu, Ag, Cr",
-          "Zn",
-          "Al, Zn",
-          "Na, K"
+          "Zn, Al, Pb",
+          "Al, Zn, Sn",
+          "Na, K, Zn"
         ],
         "explanation": "Cu, Ag, Cr ஆகியவை NaOH உடன் வினைபுரிவதில்லை; Zn வினைபுரிந்து சோடியம் ஜிங்கேட்டையும் H2 ஐயும் தரும்."
       }

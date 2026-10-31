@@ -27,7 +27,7 @@
           "ஒற்றை இன வளர்ப்பு",
           "பட்டுப்புழு வளர்ப்பு",
           "தேனீ வளர்ப்பு",
-          "மீன் வளர்ப்பு (பிசிகல்ச்சர்)"
+          "மீன் வளர்ப்பு"
         ],
         "explanation": "ஏரி, குளம், அணை, ஆறு, நெல் வயல்களில் மீன்களை இனப்பெருக்கம் செய்து வளர்ப்பது மீன் வளர்ப்பு."
       }
@@ -198,10 +198,10 @@
       "ta": {
         "q": "மண்ணின்றி, நீரில் கனிம ஊட்டக் கரைசலில் தாவரங்களை வளர்க்கும் முறை",
         "options": [
-          "நீர்வழி வேளாண்மை (ஹைட்ரோபோனிக்ஸ்)",
-          "பழவியல்",
-          "தோட்டக்கலை",
-          "காய்கறியியல்"
+          "நீர்வழி வேளாண்மை",
+          "பழ வளர்ப்பியல்",
+          "தோட்டக்கலை வளர்ப்பு",
+          "காய்கறி வளர்ப்பியல்"
         ],
         "explanation": "விதையற்ற வெள்ளரி, தக்காளி உற்பத்தியில் இம்முறை வெற்றிகரமாகப் பயன்படுகிறது."
       }
@@ -230,7 +230,7 @@
           "லைக்கன்",
           "ரைசோபியம்",
           "அசட்டோபாக்டர்",
-          "மைக்கோரைசா (பூஞ்சை வேர்)"
+          "மைக்கோரைசா"
         ],
         "explanation": "மைக்கோரைசா பாஸ்பரஸ் உறிஞ்சுதலை அதிகரிக்கும்; எ.கா: சிட்ரஸ், பப்பாளி."
       }
@@ -247,9 +247,9 @@
         "q": "The plant body of a mushroom is the",
         "options": [
           "mycelium",
-          "spawn",
-          "leaf",
-          "root"
+          "mushroom spawn",
+          "green leaf",
+          "main root"
         ],
         "explanation": "Mycelium is a complex of thin filaments called hyphae; spawn is the mushroom seed."
       },
@@ -275,8 +275,8 @@
       "en": {
         "q": "Quinine is obtained from the bark of",
         "options": [
-          "Aloe vera",
-          "Carica papaya",
+          "Aloe barbadensis",
+          "Azadirachta indica",
           "Cinchona officinalis",
           "Ocimum sanctum"
         ],
@@ -285,10 +285,10 @@
       "ta": {
         "q": "குயினைன் மருந்து கிடைப்பது",
         "options": [
-          "கற்றாழையிலிருந்து",
-          "பப்பாளியிலிருந்து",
-          "சின்கோனா அஃபிசினாலிஸ் மரப்பட்டையிலிருந்து",
-          "துளசியிலிருந்து"
+          "கற்றாழைச் செடியின் இலைகளிலிருந்து",
+          "பப்பாளி மரத்தின் காய்களிலிருந்து",
+          "சின்கோனா அஃபிசினாலிஸ் பட்டையிலிருந்து",
+          "துளசிச் செடியின் இலைகளிலிருந்து"
         ],
         "explanation": "சின்கோனா மரப்பட்டையிலிருந்து கிடைக்கும் குயினைன் மலேரியா எதிர்ப்பு மருந்து."
       }
@@ -372,10 +372,10 @@
       "ta": {
         "q": "இறால், முத்துச் சிப்பி, உண்ணும் சிப்பிகள் போன்ற பொருளாதார முக்கியத்துவமுள்ள நீர்வாழ் உயிரிகளை வளர்ப்பது",
         "options": [
-          "மண்புழு வளர்ப்பு",
-          "தேனீ வளர்ப்பு",
-          "மலர் வளர்ப்பு",
-          "நீர்வாழ் உயிரி வளர்ப்பு (அக்வா கல்ச்சர்)"
+          "மண்புழு உர வளர்ப்பு",
+          "தேனீக்கள் வளர்ப்பு",
+          "மலர்ச் செடி வளர்ப்பு",
+          "நீர்வாழ் உயிரி வளர்ப்பு"
         ],
         "explanation": "கட்டுப்படுத்தப்பட்ட சூழலில் மேம்பட்ட தொழில்நுட்பங்களால் இது மேற்கொள்ளப்படுகிறது."
       }
@@ -452,7 +452,7 @@
           "monoculture",
           "mariculture",
           "extensive culture",
-          "polyculture (composite fish culture)"
+          "polyculture"
         ],
         "explanation": "Monoculture is the culture of a single type of fish."
       },
@@ -462,7 +462,7 @@
           "ஒற்றை இன வளர்ப்பு",
           "கடல் நீர் வளர்ப்பு",
           "பரந்த மீன் வளர்ப்பு",
-          "பல இன மீன் வளர்ப்பு (கூட்டு மீன் வளர்ப்பு)"
+          "பல இன மீன் வளர்ப்பு"
         ],
         "explanation": "ஒற்றை இன வளர்ப்பு என்பது ஒரே வகை மீனை மட்டும் வளர்ப்பது."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "Mycorrhiza is a symbiotic association of",
         "options": [
-          "algae with fungi",
-          "fungi with the roots of vascular plants",
-          "bacteria with fish",
-          "ferns with bees"
+          "algae living together with fungi",
+          "fungi with roots of vascular plants",
+          "bacteria with the gills of fish",
+          "ferns living together with bees"
         ],
         "explanation": "The book's statement is false: mycorrhiza is a fungal association, not an alga."
       },
       "ta": {
         "q": "மைக்கோரைசா என்பது",
         "options": [
-          "பாசிகளும் பூஞ்சைகளும் கொள்ளும் தொடர்பு",
-          "பூஞ்சைகள் வாஸ்குலத் தாவர வேர்களுடன் கொள்ளும் கூட்டுயிர் வாழ்க்கை",
-          "பாக்டீரியாவும் மீனும் கொள்ளும் தொடர்பு",
-          "ஃபெர்ன்களும் தேனீக்களும் கொள்ளும் தொடர்பு"
+          "பாசிகளும் பூஞ்சைகளும் இணைந்து வாழும் தொடர்பு",
+          "பூஞ்சைகள் வாஸ்குலத் தாவர வேர்களுடன் கொள்ளும் தொடர்பு",
+          "பாக்டீரியாவும் மீனின் செவுளும் கொள்ளும் தொடர்பு",
+          "ஃபெர்ன்களும் தேனீக்களும் இணைந்து வாழும் தொடர்பு"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; மைக்கோரைசா பூஞ்சை சார்ந்த தொடர்பு; பாசி அல்ல."
       }
@@ -519,7 +519,7 @@
         "options": [
           "கறவை மாடுகள்",
           "இரு பயன்பாட்டுப் பசுக்கள் மட்டும்",
-          "உழை இனங்கள் (டிராஃப்ட் இனங்கள்)",
+          "உழை இனங்கள்",
           "அயல்நாட்டுப் பால் இனங்கள்"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; கறவை மாடுகள் அதிகப் பால் தருபவை; உழை இனங்கள் வேளாண்மை, போக்குவரத்தில் பயன்படுகின்றன."
@@ -549,7 +549,7 @@
           "பாறைத் தேனீ; சிறு தேனீ",
           "இத்தாலியத் தேனீ; ஆப்பிரிக்கத் தேனீ",
           "இந்தியத் தேனீ; இத்தாலியத் தேனீ",
-          "சிறு தேனீ (கொசுத்தேனீ); பாறைத் தேனீ (மலைத்தேனீ)"
+          "சிறு தேனீ; பாறைத் தேனீ"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; ஏபிஸ் டார்சேட்டா பாறைத் (காட்டுத்) தேனீ."
       }
@@ -565,9 +565,9 @@
       "en": {
         "q": "Ongole is a",
         "options": [
-          "exotic dairy breed",
-          "buffalo breed from Europe",
-          "breed of sheep",
+          "exotic dairy breed of cattle",
+          "buffalo breed imported from Europe",
+          "breed of sheep from the hills",
           "dual purpose indigenous breed of cattle"
         ],
         "explanation": "The book's statement is false: dual purpose breeds include Haryana, Ongole, Kankrej and Tharparkar."
@@ -575,9 +575,9 @@
       "ta": {
         "q": "ஓங்கோல் ஒரு",
         "options": [
-          "அயல்நாட்டுப் பால் இனம்",
-          "ஐரோப்பிய எருமை இனம்",
-          "செம்மறியாட்டு இனம்",
+          "அயல்நாட்டுப் பால் மாட்டினம்",
+          "ஐரோப்பாவிலிருந்து வந்த எருமை இனம்",
+          "மலைப்பகுதிச் செம்மறியாட்டு இனம்",
           "உள்நாட்டு இரு பயன்பாட்டு மாட்டினம்"
         ],
         "explanation": "பாடநூல் கூற்று தவறு; இரு பயன்பாட்டு இனங்கள்: ஹரியானா, ஓங்கோல், காங்ரேஜ், தார்பார்க்கர்."
@@ -653,9 +653,9 @@
         "q": "Which statement differentiates exotic from indigenous breeds of dairy cattle?",
         "options": [
           "Exotic breeds are native to India; indigenous breeds are imported",
-          "Exotic breeds have a prominent hump and loose skin",
-          "Exotic breeds (Bos taurus) are imported and selected for long lactation periods; indigenous breeds are native and resistant to diseases",
-          "Indigenous breeds are all draught breeds"
+          "Exotic breeds have a prominent hump and loose skin, indigenous ones do not",
+          "Exotic breeds are imported for long lactation; indigenous breeds are native and hardy",
+          "Indigenous breeds are all draught breeds and give no milk"
         ],
         "explanation": "Indigenous breeds include Sahiwal, Red Sindhi, Deoni and Gir; exotic ones include Jersey, Brown Swiss and Holstein-Friesian."
       },
@@ -663,9 +663,9 @@
         "q": "அயல்நாட்டு, உள்நாட்டுப் பால் மாட்டினங்களை வேறுபடுத்தும் கூற்று",
         "options": [
           "அயல்நாட்டு இனங்கள் இந்தியாவுக்கு உரியவை; உள்நாட்டு இனங்கள் இறக்குமதியானவை",
-          "அயல்நாட்டு இனங்களுக்கு முக்கியத் திமில் உண்டு",
-          "அயல்நாட்டு இனங்கள் (பாஸ் டாரஸ்) இறக்குமதி செய்யப்பட்டு நீண்ட பால் சுரப்புக் காலத்திற்காகத் தேர்ந்தெடுக்கப்பட்டவை; உள்நாட்டு இனங்கள் நோய் எதிர்ப்புடையவை",
-          "உள்நாட்டு இனங்கள் அனைத்தும் உழை இனங்கள்"
+          "அயல்நாட்டு இனங்களுக்கு முக்கியத் திமிலும் தளர்ந்த தோலும் உண்டு; உள்நாட்டு இனங்களுக்கு இல்லை",
+          "அயல்நாட்டு இனங்கள் நீண்ட பால் சுரப்புக்காக இறக்குமதியானவை; உள்நாட்டு இனங்கள் நோய் எதிர்ப்புடையவை",
+          "உள்நாட்டு இனங்கள் அனைத்தும் உழை இனங்கள்; அவை பால் தருவதே இல்லை"
         ],
         "explanation": "உள்நாட்டு இனங்கள்: சாஹிவால், ரெட் சிந்தி, தியோனி, கிர்; அயல்நாட்டு: ஜெர்சி, பிரவுன் சுவிஸ், ஹோல்ஸ்டீன்-ஃப்ரீசியன்."
       }
@@ -713,7 +713,7 @@
           "mono, poly and integrated culture",
           "pomology, floriculture and landscaping",
           "hydroponics, aeroponics and aquaponics",
-          "kitchen gardening, commercial gardening and vegetable forcing"
+          "kitchen gardening, commercial gardening and forcing"
         ],
         "explanation": "Kitchen gardening is small-scale growing at the household; commercial gardening is large-scale production for markets; vegetable forcing grows vegetables in buildings or green houses."
       },
@@ -768,20 +768,20 @@
       "en": {
         "q": "Which is an advantage of vermicompost?",
         "options": [
-          "It kills soil microflora",
-          "It reduces soil fertility",
-          "It contains toxic elements",
-          "It improves water holding capacity, prevents soil erosion and is free from pathogens and toxic elements"
+          "It kills the useful soil microflora and earthworms",
+          "It steadily reduces soil fertility and water retention",
+          "It contains toxic elements and many pathogens",
+          "It improves water holding capacity and prevents soil erosion"
         ],
         "explanation": "It is rich in nutrients, vitamins, enzymes and growth regulators and enhances decomposition of organic matter in soil."
       },
       "ta": {
         "q": "மண்புழு உரத்தின் நன்மை எது?",
         "options": [
-          "மண் நுண்ணுயிர்களைக் கொல்லும்",
-          "மண் வளத்தைக் குறைக்கும்",
-          "நச்சுத் தனிமங்கள் கொண்டது",
-          "நீர் பிடிப்புத் திறனை அதிகரித்து மண் அரிப்பைத் தடுத்து, நோய்க்காரணிகள், நச்சுக்கள் அற்றது"
+          "மண்ணிலுள்ள பயனுள்ள நுண்ணுயிர்களையும் மண்புழுக்களையும் கொல்லும்",
+          "மண் வளத்தையும் நீர் பிடிப்பையும் படிப்படியாகக் குறைக்கும்",
+          "நச்சுத் தனிமங்களையும் நோய்க்காரணிகளையும் கொண்டது",
+          "நீர் பிடிப்புத் திறனை அதிகரித்து மண் அரிப்பைத் தடுக்கும்"
         ],
         "explanation": "ஊட்டச்சத்துகள், வைட்டமின்கள், நொதிகள், வளர்ச்சி ஊக்கிகள் நிறைந்தது."
       }
@@ -826,20 +826,20 @@
       "en": {
         "q": "Which is a medicinal use of honey?",
         "options": [
-          "It has antiseptic and antibacterial property and relieves sore throat",
-          "It causes ulcers",
-          "It decreases haemoglobin",
-          "It lowers appetite"
+          "It is antiseptic and relieves sore throat",
+          "It causes ulcers in the stomach",
+          "It decreases haemoglobin in blood",
+          "It lowers the appetite for all food"
         ],
         "explanation": "Honey also builds haemoglobin, is a remedy for ulcers of tongue, stomach and intestine and enhances digestion and appetite."
       },
       "ta": {
         "q": "தேனின் மருத்துவப் பயன் எது?",
         "options": [
-          "நுண்ணுயிர் எதிர்ப்பு, கிருமிநாசினிப் பண்பு; தொண்டைப்புண்ணைத் தணிக்கும்",
-          "புண்களை உண்டாக்கும்",
-          "ஹீமோகுளோபினைக் குறைக்கும்",
-          "பசியைக் குறைக்கும்"
+          "கிருமிநாசினி; தொண்டைப்புண்ணைத் தணிக்கும்",
+          "வயிற்றில் புண்களை உண்டாக்கும்",
+          "இரத்த ஹீமோகுளோபினைக் குறைக்கும்",
+          "எல்லா உணவின் பசியையும் குறைக்கும்"
         ],
         "explanation": "தேன் ஹீமோகுளோபினை அதிகரித்து, நாக்கு, வயிறு, குடல் புண்களைக் குணப்படுத்தி, செரிமானத்தையும் பசியையும் தூண்டும்."
       }
@@ -855,20 +855,20 @@
       "en": {
         "q": "Which is an importance of hydroponics?",
         "options": [
-          "Conservation of water and nutrients, and use in deserts and Arctic regions",
-          "It wastes water",
-          "It cannot control plant growth",
-          "It needs large amounts of soil"
+          "Saves water and nutrients, usable in deserts",
+          "It wastes a lot of water and nutrients",
+          "It cannot control plant growth at all",
+          "It needs large amounts of fertile soil"
         ],
         "explanation": "Hydroponics gives controlled plant growth."
       },
       "ta": {
         "q": "நீர்வழி வேளாண்மையின் முக்கியத்துவம் எது?",
         "options": [
-          "நீர், ஊட்டச்சத்துகளைச் சேமிப்பது; பாலைவனம், ஆர்க்டிக் பகுதிகளில் பயன்படுவது",
-          "நீரை வீணாக்கும்",
-          "தாவர வளர்ச்சியைக் கட்டுப்படுத்த இயலாது",
-          "அதிக மண் தேவை"
+          "நீர், ஊட்டங்களைச் சேமிக்கும்; பாலைவனத்தில் பயன்படும்",
+          "நீரையும் ஊட்டச்சத்துகளையும் வீணாக்கும்",
+          "தாவர வளர்ச்சியைக் கட்டுப்படுத்தவே இயலாது",
+          "அதிக அளவு வளமான மண் தேவைப்படும்"
         ],
         "explanation": "இதில் தாவர வளர்ச்சியைக் கட்டுப்படுத்தலாம்."
       }
@@ -884,20 +884,20 @@
       "en": {
         "q": "The hexagonal cells of a bee comb are formed from",
         "options": [
-          "propolis only",
-          "wax secreted by the wax glands in the abdomen of worker bees",
-          "royal jelly",
-          "honey"
+          "propolis collected from tree buds only",
+          "wax secreted by the wax glands of worker bees",
+          "royal jelly fed to the queen larvae",
+          "honey dried hard inside the hive"
         ],
         "explanation": "A comb is a vertical sheet of wax with a double layer of hexagonal cells."
       },
       "ta": {
         "q": "தேன்கூட்டின் அறுகோணக் கூடுகள் உருவாகும் பொருள்",
         "options": [
-          "புரோபோலிஸ் மட்டும்",
-          "வேலைக்காரத் தேனீயின் வயிற்றிலுள்ள மெழுகுச் சுரப்பிகள் சுரக்கும் மெழுகு",
-          "ராயல் ஜெல்லி",
-          "தேன்"
+          "மரத்தின் மொட்டுகளிலிருந்து சேகரித்த புரோபோலிஸ் மட்டும்",
+          "வேலைக்காரத் தேனீயின் மெழுகுச் சுரப்பிகள் சுரக்கும் மெழுகு",
+          "ராணி லார்வாவுக்கு ஊட்டும் ராயல் ஜெல்லி",
+          "கூட்டினுள் உலர்ந்து கெட்டியான தேன் பாகு"
         ],
         "explanation": "தேன்கூடு இரு அடுக்கு அறுகோணக் கூடுகளுடைய செங்குத்து மெழுகுத் தகடு."
       }

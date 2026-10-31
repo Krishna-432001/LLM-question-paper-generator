@@ -72,9 +72,9 @@
       "en": {
         "q": "The telescope, which revolutionised astronomy, was invented in 1608 in",
         "options": [
-          "India",
-          "Greece",
-          "Poland",
+          "Mughal India",
+          "ancient Greece",
+          "the Kingdom of Poland",
           "the Netherlands"
         ],
         "explanation": "The invention of the telescope in the Netherlands in 1608 created a revolution in astronomy."
@@ -82,9 +82,9 @@
       "ta": {
         "q": "வானியலில் புரட்சியை உருவாக்கிய தொலைநோக்கி 1608-ல் கண்டறியப்பட்ட நாடு",
         "options": [
-          "இந்தியா",
-          "கிரீஸ்",
-          "போலந்து",
+          "முகலாய இந்தியா",
+          "பண்டைய கிரீஸ்",
+          "போலந்து இராச்சியம்",
           "நெதர்லாந்து"
         ],
         "explanation": "1608-ல் நெதர்லாந்தில் தொலைநோக்கி கண்டறியப்பட்டது."
@@ -130,10 +130,10 @@
       "en": {
         "q": "Depending on their appearance, galaxies are classified as",
         "options": [
-          "round, square or oval",
-          "red, blue or green",
+          "round, square or oval shapes",
+          "red, blue or green in colour",
           "spiral, elliptical or irregular",
-          "hot, warm or cold"
+          "hot, warm or cold in nature"
         ],
         "explanation": "Galaxies occur alone or in pairs but more often in groups, clusters and super clusters."
       },
@@ -304,10 +304,10 @@
       "en": {
         "q": "The Sun's energy comes from",
         "options": [
-          "burning of coal",
-          "nuclear fission of uranium",
+          "burning of coal inside the Sun",
+          "nuclear fission of uranium atoms",
           "nuclear fusion of hydrogen into helium",
-          "chemical reactions"
+          "chemical reactions among its gases"
         ],
         "explanation": "Hydrogen atoms fuse to form helium under enormous pressure; the Sun is a medium sized star more than 4.6 billion years old."
       },
@@ -575,10 +575,10 @@
       "ta": {
         "q": "சூரியனிலிருந்து எட்டாவது கோளும் மிகக் காற்று வீசும் கோளும்",
         "options": [
-          "வியாழன்",
-          "யுரேனஸ்",
-          "சனி",
-          "நெப்டியூன்"
+          "வியாழன் கோள்",
+          "யுரேனஸ் கோள்",
+          "சனிக் கோள்",
+          "நெப்டியூன் கோள்"
         ],
         "explanation": "இதன் நிலவு டிரைட்டன் நெப்டியூன் சுழலும் திசைக்கு எதிர்த்திசையில் இயங்குகிறது."
       }
@@ -635,7 +635,7 @@
         "options": [
           "வால்விண்மீன்",
           "சிறுகோள்",
-          "விண்வீழ்கல் (meteorite)",
+          "விண்வீழ்கல்",
           "துணைக்கோள்"
         ],
         "explanation": "பெரும்பாலான விண்கற்கள் வளிமண்டல உராய்வினால் எரிந்து விடுகின்றன."
@@ -752,7 +752,7 @@
           "எடையற்ற நிறை",
           "மிகையீர்ப்பு",
           "சுழி நிறை",
-          "நுண்ணீர்ப்பு (microgravity)"
+          "நுண்ணீர்ப்பு"
         ],
         "explanation": "'மைக்ரோ' என்றால் மிகச்சிறிய; ஈர்ப்பு மிகக் குறைவாகத் 'தோன்றும்' நிலையே நுண்ணீர்ப்பு."
       }
@@ -778,10 +778,10 @@
       "ta": {
         "q": "புவியின் சுழற்சி அச்சில் அமைந்திருப்பதால் வடக்கு வானில் நிலையாகத் தெரியும் விண்மீன்",
         "options": [
-          "சிரியஸ்",
+          "சிரியஸ் விண்மீன்",
           "துருவ நட்சத்திரம்",
-          "புராக்சிமா",
-          "சூரியன்"
+          "புராக்சிமா விண்மீன்",
+          "நம் சூரியன்"
         ],
         "explanation": "துருவ நட்சத்திரம் தென் அரைக்கோளத்திலிருந்து தெரியாது."
       }
@@ -942,20 +942,20 @@
       "en": {
         "q": "Technology developed for the ISS, the water recovery system and oxygen generation system, has helped",
         "options": [
-          "produce electricity from the Moon",
-          "increase the speed of trains",
-          "reduce earthquakes",
-          "areas with water scarcity gain access to water purification"
+          "generate electricity on the surface of the Moon",
+          "increase the speed of trains and aircraft",
+          "reduce earthquakes in coastal regions",
+          "bring water purification to water-scarce areas"
         ],
         "explanation": "It has saved a village in Iraq from being deserted due to lack of clean water."
       },
       "ta": {
         "q": "ISS-க்காக உருவாக்கப்பட்ட நீர் மீட்பு, ஆக்ஸிஜன் உருவாக்கும் அமைப்புகள் உதவியது",
         "options": [
-          "நிலவிலிருந்து மின்சாரம் தயாரிக்க",
-          "தொடர்வண்டிகளின் வேகத்தை உயர்த்த",
-          "நிலநடுக்கங்களைக் குறைக்க",
-          "நீர்ப்பற்றாக்குறைப் பகுதிகளில் நீர் தூய்மையாக்கும் வசதியைப் பெற"
+          "நிலவின் மேற்பரப்பில் மின்சாரம் தயாரிக்க",
+          "தொடர்வண்டிகள், விமானங்களின் வேகத்தை உயர்த்த",
+          "கடலோரப் பகுதிகளில் நிலநடுக்கங்களைக் குறைக்க",
+          "நீர்ப்பற்றாக்குறைப் பகுதிகளில் நீரைத் தூய்மையாக்க"
         ],
         "explanation": "தூய நீரின்மையால் ஈராக்கிலுள்ள ஒரு கிராமம் கைவிடப்படுவதை இவை தடுத்துள்ளன."
       }
@@ -971,20 +971,20 @@
       "en": {
         "q": "The basic constituent (building block) of the universe is the",
         "options": [
-          "galaxy, a collection of billions of stars",
-          "single star",
-          "planet",
-          "comet"
+          "galaxy, a collection of stars",
+          "single star such as the Sun",
+          "planet such as the Earth",
+          "comet with a long tail"
         ],
         "explanation": "Scientists think that the universe began with the start of a massive explosion called the Big Bang."
       },
       "ta": {
         "q": "அண்டத்தின் அடிப்படைக் கூறு",
         "options": [
-          "கோடிக்கணக்கான விண்மீன்களின் தொகுப்பான விண்மீன் திரள்",
-          "தனி விண்மீன்",
-          "கோள்",
-          "வால்விண்மீன்"
+          "விண்மீன் திரள் எனும் தொகுப்பு",
+          "சூரியன் போன்ற ஒரு தனி விண்மீன்",
+          "புவி போன்ற ஒரு கோள்",
+          "நீண்ட வாலுடைய வால்விண்மீன்"
         ],
         "explanation": "ஒரு மாபெரும் வெடிப்பான பெருவெடிப்பிலிருந்தே அண்டம் தோன்றியிருக்கலாம் என அறிவியலாளர்கள் கருதுகின்றனர்."
       }

@@ -201,7 +201,7 @@
           "இரைப்பை மேல்வாயில்",
           "குரல்வளைத் திறப்பு",
           "ஹைலம்",
-          "இரைப்பைக் கடையம் (பைலோரஸ்)"
+          "இரைப்பைக் கடையம்"
         ],
         "explanation": "கைம் (அரைசெரிவு உணவு) பைலோரஸ் வழியாக மெதுவாகச் சிறுகுடலுக்குச் செல்கிறது."
       }
@@ -315,7 +315,7 @@
         "q": "பெண்ணின் உடலிலுள்ள மிகப்பெரிய செல்",
         "options": [
           "விந்தணு",
-          "அண்டம் (கருமுட்டை)",
+          "அண்டம்",
           "நியூரான்",
           "இரத்தச் சிவப்பணு"
         ],
@@ -391,20 +391,20 @@
       "en": {
         "q": "Glomerular filtrate is formed by the",
         "options": [
-          "filtration of blood through the glomerulus and Bowman's capsule",
-          "action of the ureter",
+          "filtration of blood through the glomerulus",
+          "action of the ureter on urine flow",
           "secretion in the distal tubule only",
-          "reabsorption in the loop of Henle"
+          "reabsorption of water in the loop of Henle"
         ],
         "explanation": "Both essential and non-essential substances in the blood are filtered."
       },
       "ta": {
         "q": "குளோமெருலார் வடிநீர் உருவாவது",
         "options": [
-          "குளோமெருலஸ், போமன் கொள்கலன் வழியாக இரத்தம் வடிகட்டப்படுவதால்",
-          "சிறுநீர்க்குழாயின் செயலால்",
+          "குளோமெருலஸ் வழியாக இரத்தம் வடிகட்டப்படுவதால்",
+          "சிறுநீர்க்குழாயின் செயலால் சிறுநீர் ஓடுவதால்",
           "தூரக் கற்றைக் குழலில் சுரப்பதால் மட்டும்",
-          "ஹென்லே வளைவில் மறுஉறிஞ்சலால்"
+          "ஹென்லே வளைவில் நீர் மறுஉறிஞ்சலால் மட்டும்"
         ],
         "explanation": "இரத்தத்திலுள்ள தேவையான, தேவையற்ற பொருள்கள் இரண்டும் வடிகட்டப்படுகின்றன."
       }
@@ -450,9 +450,9 @@
         "q": "Assimilation differs from absorption in that assimilation is",
         "options": [
           "the passage of digested food into the villi",
-          "the incorporation of absorbed food materials into the tissue cells",
-          "the removal of undigested food",
-          "the intake of food"
+          "the incorporation of absorbed food into the cells",
+          "the removal of undigested food waste",
+          "the intake of food into the mouth"
         ],
         "explanation": "Absorption is the process by which nutrients obtained after digestion are absorbed by villi and circulated by blood and lymph."
       },
@@ -460,9 +460,9 @@
         "q": "உறிஞ்சுதலிலிருந்து தன்மயமாதல் (அசிமிலேஷன்) வேறுபடுவது; தன்மயமாதல் என்பது",
         "options": [
           "செரித்த உணவு வில்லைகளுக்குள் செல்வது",
-          "உறிஞ்சப்பட்ட உணவுப்பொருள்கள் திசு செல்களின் உட்கூறாக இணைவது",
-          "செரிக்காத உணவை வெளியேற்றுவது",
-          "உணவை உட்கொள்வது"
+          "உறிஞ்சிய உணவு செல்களின் உட்கூறாக இணைவது",
+          "செரிக்காத உணவுக் கழிவை வெளியேற்றுவது",
+          "உணவை வாயினுள் உட்கொள்வது"
         ],
         "explanation": "உறிஞ்சுதலில் செரித்த ஊட்டப்பொருள்கள் வில்லைகளால் உறிஞ்சப்பட்டு இரத்தம், நிணநீரால் கொண்டு செல்லப்படுகின்றன."
       }
@@ -480,7 +480,7 @@
         "options": [
           "the digestion of food; the absorption of food",
           "the removal of food; the intake of food",
-          "the intake of food; the removal of undigested food through the anus",
+          "the intake of food; the removal of undigested food",
           "absorption; assimilation"
         ],
         "explanation": "Egestion (defaecation) throws out the undigested or unassimilated food as faecal matter."
@@ -488,9 +488,9 @@
       "ta": {
         "q": "உட்கொள்ளுதல் என்பது ______; மலங்கழித்தல் (எஜெஸ்ஷன்) என்பது ______.",
         "options": [
-          "உணவைச் செரிப்பது; உணவை உறிஞ்சுவது",
+          "உணவைச் செரிப்பது; செரித்த உணவை உறிஞ்சுவது",
           "உணவை வெளியேற்றுவது; உணவை எடுத்துக்கொள்வது",
-          "உணவை எடுத்துக்கொள்வது; செரிக்காத உணவை ஆசனவாய் வழியே வெளியேற்றுவது",
+          "உணவை எடுத்துக்கொள்வது; செரிக்காத உணவை வெளியேற்றுவது",
           "உறிஞ்சுதல்; தன்மயமாதல்"
         ],
         "explanation": "செரிக்காத, தன்மயமாகாத உணவு மலமாக வெளியேற்றப்படுகிறது."
@@ -507,20 +507,20 @@
       "en": {
         "q": "Humans are diphyodont and heterodont, which means they",
         "options": [
-          "have only one set of teeth of one type",
+          "have only one set of teeth of a single type",
           "have no roots in the gums",
           "develop teeth only in the upper jaw",
-          "develop two sets of teeth in a lifetime and have four types of teeth"
+          "develop two sets of teeth and have four types of teeth"
         ],
         "explanation": "Milk teeth (20) are replaced by 32 permanent teeth of four types: incisors, canines, premolars and molars; each tooth has a root fitted in the gum (thecodont)."
       },
       "ta": {
         "q": "மனிதர்கள் இருமுறை பல் முளைப்பவர்கள் (டைபயோடான்ட்), பலவகைப் பற்கள் உடையவர்கள் (ஹெட்டிரோடான்ட்) என்பதன் பொருள்",
         "options": [
-          "ஒரு தொகுதி பற்கள் மட்டும்; ஒரே வகை",
+          "ஒரே ஒரு தொகுதி பற்கள் மட்டும்; ஒரே வகைப் பற்கள்",
           "பற்களுக்கு வேர்கள் இல்லை",
           "மேல்தாடையில் மட்டும் பற்கள்",
-          "வாழ்நாளில் இரு தொகுதி பற்கள் தோன்றுதல்; நான்கு வகைப் பற்கள் உடைமை"
+          "இரு தொகுதி பற்கள் தோன்றுதல்; நான்கு வகைப் பற்கள்"
         ],
         "explanation": "20 பால்பற்கள் 32 நிலையான பற்களாக மாறும்; நான்கு வகை: வெட்டுப்பல், கோரைப்பல், முன்கடைவாய், கடைவாய்ப்பற்கள்."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "The small intestine is designed to absorb digested food by",
         "options": [
-          "its straight wall without folds",
-          "minute finger-like villi containing blood capillaries and lacteals in the ileum",
-          "the secretion of bile only",
-          "the absence of blood vessels"
+          "its smooth straight wall without any folds",
+          "minute finger-like villi containing blood capillaries",
+          "the secretion of bile in the stomach only",
+          "the complete absence of blood vessels"
         ],
         "explanation": "The villi are about 1 mm in length and about 4 million in number."
       },
       "ta": {
         "q": "செரித்த உணவை உறிஞ்ச சிறுகுடல் வடிவமைக்கப்பட்டிருப்பது",
         "options": [
-          "மடிப்புகளற்ற நேரான சுவரால்",
-          "இரத்த நுண்குழல்கள், நிணநீர்க் குழல்கள் கொண்ட விரல் போன்ற நுண் வில்லைகள் இலியத்தில் இருப்பதால்",
-          "பித்த நீரைச் சுரப்பதால் மட்டும்",
-          "இரத்தக் குழல்கள் இல்லாததால்"
+          "எந்த மடிப்புகளுமற்ற நேரான வழவழப்பான சுவரால்",
+          "இரத்த நுண்குழல்களுடைய விரல் போன்ற வில்லைகள் இருப்பதால்",
+          "வயிற்றில் பித்த நீரைச் சுரப்பதால் மட்டும்",
+          "இரத்தக் குழல்கள் முற்றிலும் இல்லாததால்"
         ],
         "explanation": "வில்லைகள் சுமார் 1 மி.மீ நீளமுடையவை; ஏறத்தாழ 40 இலட்சம் உள்ளன."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "We sweat when it gets hot because sweat glands secrete sweat, which on evaporation",
         "options": [
-          "stores water",
-          "increases body temperature",
-          "helps to keep the body at a normal temperature and removes small amounts of wastes",
-          "digests proteins"
+          "stores water in the skin cells",
+          "increases the body temperature",
+          "keeps the body at a normal temperature",
+          "digests proteins in the skin"
         ],
         "explanation": "Sweat contains water with small amounts of ammonia, urea, lactic acid and salts."
       },
       "ta": {
         "q": "வெப்பமாக இருக்கும்போது நாம் வியர்ப்பது, ஏனெனில் வியர்வை ஆவியாகும்போது",
         "options": [
-          "நீரைச் சேமிக்கிறது",
-          "உடல் வெப்பத்தை அதிகரிக்கிறது",
-          "உடலை இயல்பான வெப்பநிலையில் வைத்து சிறிதளவு கழிவுகளையும் நீக்குகிறது",
-          "புரதங்களைச் செரிக்கிறது"
+          "தோல் செல்களில் நீரைச் சேமிக்கிறது",
+          "உடல் வெப்பநிலையை அதிகரிக்கிறது",
+          "உடலை இயல்பான வெப்பநிலையில் வைக்கிறது",
+          "தோலில் புரதங்களைச் செரிக்கிறது"
         ],
         "explanation": "வியர்வையில் நீருடன் சிறிதளவு அம்மோனியா, யூரியா, லாக்டிக் அமிலம், உப்புகள் உள்ளன."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "Which of the following is a vital function of the human kidney?",
         "options": [
-          "Digesting fats",
-          "Producing sperms",
-          "Maintaining the fluid and electrolyte balance of the body",
-          "Producing bile"
+          "Digesting fats and proteins in food",
+          "Producing sperms and hormones",
+          "Maintaining fluid and electrolyte balance",
+          "Producing bile for digestion"
         ],
         "explanation": "Kidneys also regulate the acid-base balance, maintain osmotic pressure and retain glucose and amino acids."
       },
       "ta": {
         "q": "மனிதச் சிறுநீரகத்தின் இன்றியமையாப் பணி எது?",
         "options": [
-          "கொழுப்பைச் செரித்தல்",
-          "விந்தணுக்களை உருவாக்குதல்",
-          "உடலின் நீர், மின்பகு பொருள் சமநிலையைப் பராமரித்தல்",
-          "பித்த நீரைச் சுரத்தல்"
+          "உணவிலுள்ள கொழுப்பையும் புரதத்தையும் செரித்தல்",
+          "விந்தணுக்களையும் ஹார்மோன்களையும் உருவாக்குதல்",
+          "நீர், மின்பகு பொருள் சமநிலையைப் பராமரித்தல்",
+          "செரிமானத்திற்காகப் பித்த நீரைச் சுரத்தல்"
         ],
         "explanation": "அமில-கார சமநிலை, சவ்வூடு அழுத்தம் ஆகியவற்றையும் கட்டுப்படுத்தி குளுக்கோஸ், அமினோ அமிலங்களைத் தக்கவைக்கிறது."
       }
@@ -664,7 +664,7 @@
         "options": [
           "பெரிஸ்டால்சிஸ்",
           "மெல்லுதல்",
-          "சிறுநீர் கழித்தல் (மிக்சுரிஷன்)",
+          "சிறுநீர் கழித்தல்",
           "மலங்கழித்தல்"
         ],
         "explanation": "ஆரோக்கியமான ஒருவர் நாளொன்றுக்கு ஒன்று முதல் இரண்டு லிட்டர் சிறுநீர் வெளியேற்றுகிறார்."
@@ -710,19 +710,19 @@
       "en": {
         "q": "Each nephron consists of",
         "options": [
-          "only the glomerulus",
-          "a renal (Malpighian) corpuscle and a renal tubule",
-          "only the loop of Henle",
-          "the ureter and urethra"
+          "only the glomerular capillaries",
+          "a renal corpuscle and a renal tubule",
+          "only the long loop of Henle",
+          "the ureter and the urethra"
         ],
         "explanation": "The renal corpuscle has a cup-shaped Bowman's capsule with a bunch of capillaries called glomerulus; the tubule has the proximal convoluted tubule, loop of Henle and distal convoluted tubule."
       },
       "ta": {
         "q": "ஒவ்வொரு நெஃப்ரானும் கொண்டிருப்பது",
         "options": [
-          "குளோமெருலஸ் மட்டும்",
-          "சிறுநீரகச் சிறுதுகள் (மால்பீஜியன் துகள்), சிறுநீரகக் குழல்",
-          "ஹென்லே வளைவு மட்டும்",
+          "குளோமெருலஸ் தந்துகிகள் மட்டும்",
+          "சிறுநீரகச் சிறுதுகள், சிறுநீரகக் குழல்",
+          "நீண்ட ஹென்லே வளைவு மட்டும்",
           "சிறுநீர்க்குழாயும் சிறுநீர்ப்புறவழியும்"
         ],
         "explanation": "சிறுநீரகச் சிறுதுகளில் கிண்ண வடிவ போமன் கொள்கலனும் குளோமெருலஸ் நுண்குழல் கொத்தும் உள்ளன; குழலில் அண்மை சுருண்ட குழல், ஹென்லே வளைவு, தூரச் சுருண்ட குழல் உள்ளன."
