@@ -160,9 +160,9 @@
         "q": "Why is the Chalcolithic pottery of northern India called Ochre Coloured Pottery?",
         "options": [
           "It was made from ochre-coloured mud of the Ganga",
-          "It has a red slip that appears ochre and the colour comes off when touched",
-          "It was painted with turmeric",
-          "It was first found at a site called Ochre"
+          "It has a red slip that looks ochre and rubs off on touch",
+          "It was painted over with yellow turmeric paste",
+          "It was first discovered at a village named Ochre"
         ],
         "explanation": "The OCP also has black painted designs and comes as jars, storage jars, bowls and basins."
       },
@@ -170,9 +170,9 @@
         "q": "வட இந்தியச் செம்புக் கற்காலப் பாண்டங்கள் 'காவி நிற மட்பாண்டம்' (OCP) எனப் பெயர் பெறக் காரணம் என்ன?",
         "options": [
           "கங்கையின் காவி நிற மண்ணால் செய்யப்பட்டது",
-          "சிவப்புப் பூச்சு காவி நிறத்தில் தெரிவதும், தொட்டால் அந்நிறம் கையில் ஒட்டுவதும்",
-          "மஞ்சள் கொண்டு வண்ணம் தீட்டப்பட்டது",
-          "'ஓக்ரே' என்ற இடத்தில் முதலில் கிடைத்தது"
+          "சிவப்புப் பூச்சு காவி நிறத்தில் தெரிந்து தொட்டால் ஒட்டுவது",
+          "மஞ்சள் குழம்பைப் பூசி வண்ணம் தீட்டப்பட்டது",
+          "'ஓக்ரே' என்ற கிராமத்தில் முதலில் கண்டுபிடிக்கப்பட்டது"
         ],
         "explanation": "இப்பாண்டங்களில் சிவப்புப் பூச்சு காவி நிறத்தில் தெரியும்; தொட்டால் அந்நிறம் அழியும்."
       }
@@ -247,9 +247,9 @@
         "q": "The Painted Grey Ware culture is correlated with which kingdom known from the Vedic texts?",
         "options": [
           "Kuru-Panchala",
-          "Magadha",
-          "Kalinga",
-          "Gandhara"
+          "Magadha-Anga",
+          "Kalinga-Utkala",
+          "Gandhara-Kamboja"
         ],
         "explanation": "The painted grey ware laid the foundation of the early political formations."
       },
@@ -257,9 +257,9 @@
         "q": "வண்ணம் தீட்டிய சாம்பல் நிற மட்பாண்டப் பண்பாடு வேத நூல்களில் அறியப்படும் எந்த அரசுடன் தொடர்புடையது?",
         "options": [
           "குரு–பாஞ்சாலம்",
-          "மகதம்",
-          "கலிங்கம்",
-          "காந்தாரம்"
+          "மகத–அங்கம்",
+          "கலிங்க–உத்கலம்",
+          "காந்தார–காம்போஜம்"
         ],
         "explanation": "இப்பண்பாடு தொடக்க கால அரசியல் அமைப்புகளுக்கு அடித்தளமிட்டது."
       }
@@ -402,7 +402,7 @@
         "q": "வைகை ஆற்றின் மேற்பகுதியில் கிடைத்த தமிழ்-பிராமி எழுத்துடைய நான்கு நடுகற்கள், சங்க இலக்கியம் கூறும் நடுகல் மரபை எந்தச் சூழலில் உறுதிப்படுத்துகின்றன?",
         "options": [
           "கோயில் திருவிழாக்கள்",
-          "ஆநிரை கவர்தல் (கால்நடைத் தாக்குதல்)",
+          "ஆநிரை கவர்தல்",
           "ஆற்று வெள்ளங்கள்",
           "அரசர் முடிசூட்டு விழாக்கள்"
         ],
@@ -459,10 +459,10 @@
       "ta": {
         "q": "ஆதிச்சநல்லூரில் கிடைத்த பலிக் கருவிகளைக் கண்டு கால்டுவெல் எந்த முடிவுக்கு வந்தார்?",
         "options": [
-          "அது ஓர் அரண்மனை",
-          "அவர்கள் பௌத்தர்கள்",
-          "அவர்கள் உரோமையிலிருந்து வந்த வணிகர்கள்",
-          "அங்கிருந்த மக்கள் வேதச் சமயத்தைப் பின்பற்றியவர்கள் அல்லர்"
+          "அது அரசர் வாழ்ந்த அரண்மனை",
+          "அம்மக்கள் பௌத்த சமயத்தினர்",
+          "அம்மக்கள் உரோமையிலிருந்து வந்த நாடோடி வணிகர்",
+          "அம்மக்கள் வேதச் சமயத்தினர் அல்லர்"
         ],
         "explanation": "பலிக் கருவிகளின் கண்டுபிடிப்பு, அம்மக்கள் வேதச் சமயத்தினர் அல்லர் என்ற முடிவுக்குக் கால்டுவெல்லை இட்டுச் சென்றது."
       }
@@ -518,7 +518,7 @@
         "q": "கொடுமணலில் கிடைத்த எந்த வகை மணிகள் மொகஞ்சதாரோவில் கிடைத்தவற்றை ஒத்தவை?",
         "options": [
           "கண்ணாடி மணிகள்",
-          "சூதுபவளம் (கார்னீலியன்) மணிகள்",
+          "சூதுபவள மணிகள்",
           "தங்க மணிகள்",
           "தந்த மணிகள்"
         ],
@@ -546,10 +546,10 @@
       "ta": {
         "q": "இரத்தினக் கற்களுக்காகப் புகழப்படும் சேர மன்னனுக்குரிய கொடுமணத்தைக் கொடுமணலுடன் ஒப்பிடக் காரணமாகும் சங்க நூல் எது?",
         "options": [
-          "அகநானூறு",
-          "புறநானூறு",
-          "பதிற்றுப்பத்து",
-          "கலித்தொகை"
+          "அகநானூறு நூல்",
+          "புறநானூறு நூல்",
+          "பதிற்றுப்பத்து நூல்",
+          "கலித்தொகை நூல்"
         ],
         "explanation": "கொடுமணலில் உரோமானியக் காசுக் குவியல்கள் கிடைத்துள்ளன; இது இரத்தினக் கற்கள் ஏற்றுமதிக்கு ஈடாகத் தங்கம் வந்ததைக் காட்டுகிறது."
       }
@@ -565,19 +565,19 @@
       "en": {
         "q": "According to recent studies cited in the textbook, the word 'Aryan' refers to",
         "options": [
-          "the Dravidian-speaking farmers",
-          "a blue-eyed white race",
-          "the people of the Indus cities",
-          "the original speakers of Indo-Aryan languages"
+          "the Dravidian-speaking farmers of the south",
+          "a blue-eyed white race of invaders",
+          "the people of the Indus cities and ports",
+          "the early speakers of Indo-Aryan languages"
         ],
         "explanation": "The racial interpretation of the Aryans was developed in the colonial context and was misused by the Nazis."
       },
       "ta": {
         "q": "அண்மைய ஆய்வுகளின்படி 'ஆரியர்' என்ற சொல் குறிப்பது",
         "options": [
-          "திராவிட மொழி பேசிய உழவர்களை",
-          "நீலக் கண்ணுடைய வெள்ளை இனத்தை",
-          "சிந்து நகர மக்களை",
+          "தென்னகத்தில் திராவிட மொழி பேசிய உழவர்களை",
+          "படையெடுத்து வந்த நீலக் கண்ணுடைய வெள்ளை இனத்தை",
+          "சிந்து நகரங்கள், துறைமுகங்களின் மக்களை",
           "இந்தோ-ஆரிய மொழிகளைப் பேசிய தொடக்க மக்களை"
         ],
         "explanation": "ஆரியர் என்பது இனத்தைக் குறிக்காது; அது இந்தோ-ஆரிய மொழிகளைப் பேசிய தொடக்க மக்களையே குறிக்கும்."
@@ -797,20 +797,20 @@
       "en": {
         "q": "Which of the following terms does not occur even once in the Rig Veda?",
         "options": [
-          "Grama",
-          "Jana",
-          "Vis",
-          "Janapada"
+          "Grama (village)",
+          "Jana (tribe)",
+          "Vis (clan)",
+          "Janapada (territory)"
         ],
         "explanation": "The term jana (tribe) occurs 21 times and vis (common people) 170 times."
       },
       "ta": {
         "q": "இருக்கு வேதத்தில் ஒருமுறைகூட இடம்பெறாத சொல் எது?",
         "options": [
-          "கிராமம்",
-          "ஜனம்",
-          "விஸ்",
-          "ஜனபதம்"
+          "கிராமம் (சிற்றூர்)",
+          "ஜனம் (பழங்குடி)",
+          "விஸ் (குலக் குடி)",
+          "ஜனபதம் (நாடு)"
         ],
         "explanation": "'ஜன' (குடி) என்ற சொல் 21 முறையும், 'விஸ்' என்ற சொல் 170 முறையும் வருகிறது; ஜனபதம் ஒருமுறையும் வரவில்லை."
       }
@@ -1058,7 +1058,7 @@
       "en": {
         "q": "In the Later Vedic texts, iron was called",
         "options": [
-          "syamaayas or krishna-ayas, the dark metal",
+          "syamaayas, the dark metal",
           "ayas, the red metal",
           "hiranya, the yellow metal",
           "rajata, the white metal"
@@ -1068,7 +1068,7 @@
       "ta": {
         "q": "பிற்கால வேத நூல்களில் இரும்பு எவ்வாறு அழைக்கப்பட்டது?",
         "options": [
-          "சியாமாயஸ் அல்லது கிருஷ்ண-அயஸ் (கருப்பு உலோகம்)",
+          "சியாமாயஸ் (கருப்பு உலோகம்)",
           "அயஸ் (செந்நிற உலோகம்)",
           "ஹிரண்யம் (மஞ்சள் உலோகம்)",
           "ரஜதம் (வெள்ளை உலோகம்)"
@@ -1097,10 +1097,10 @@
       "ta": {
         "q": "நிலப்பரப்பைக் குறிக்கும் 'ஜனபதம்' என்ற சொல் எந்தக் காலத்திய பிராமணங்களில் காணப்படுகிறது?",
         "options": [
-          "பொ.ஆ.மு. 1500",
+          "ஏறத்தாழ பொ.ஆ.மு. 1500",
           "ஏறத்தாழ பொ.ஆ.மு. 800",
-          "பொ.ஆ.மு. 300",
-          "பொ.ஆ.மு. 100"
+          "ஏறத்தாழ பொ.ஆ.மு. 300",
+          "ஏறத்தாழ பொ.ஆ.மு. 100"
         ],
         "explanation": "வேளாண்மை தீவிரமடைந்து நிலையான வாழ்க்கை ஏற்பட்டதால் நிலப்பகுதி சார்ந்த அமைப்புகள் உருவாயின."
       }
@@ -1203,20 +1203,20 @@
       "en": {
         "q": "According to traditions, after Hastinapur was flooded, the Kuru clan moved to",
         "options": [
-          "Pataliputra",
+          "Pataliputra on the Ganga",
           "Kausambi near Allahabad",
-          "Ujjain",
-          "Taxila"
+          "Ujjain on the Shipra",
+          "Taxila in the north-west"
         ],
         "explanation": "Hastinapur had been the capital of the Kuru-Panchalas."
       },
       "ta": {
         "q": "மரபுச் செய்திகளின்படி அஸ்தினாபுரம் வெள்ளத்தில் மூழ்கிய பின் குரு குலத்தினர் குடிபெயர்ந்த இடம்",
         "options": [
-          "பாடலிபுத்திரம்",
+          "கங்கைக் கரையின் பாடலிபுத்திரம்",
           "அலகாபாத் அருகிலுள்ள கௌசாம்பி",
-          "உஜ்ஜைனி",
-          "தட்சசீலம்"
+          "சிப்ரா ஆற்றங்கரை உஜ்ஜைனி",
+          "வடமேற்கிலுள்ள தட்சசீலம்"
         ],
         "explanation": "குரு–பாஞ்சாலர்களின் தலைநகராக அஸ்தினாபுரம் விளங்கியது."
       }
@@ -1292,18 +1292,18 @@
         "options": [
           "Rathakaras, the chariot makers",
           "Kulalas, the potters",
-          "Weavers",
-          "Boatmen"
+          "Tantuvayas, the weavers",
+          "Kaivartas, the boatmen"
         ],
         "explanation": "Certain craft groups managed to attain higher status in the Later Vedic period."
       },
       "ta": {
         "q": "பிற்கால வேத காலத்தில் பூணூல் அணியும் உரிமை பெற்றிருந்த கைவினைக் குழுவினர் யார்?",
         "options": [
-          "தேர்ச் செய்வோர் (இரதகாரர்கள்)",
-          "குயவர் (குலாலர்)",
-          "நெசவாளர்",
-          "படகோட்டிகள்"
+          "இரதகாரர் (தேர்ச் செய்வோர்)",
+          "குலாலர் (குயவர்)",
+          "தந்துவாயர் (நெசவாளர்)",
+          "கைவர்த்தர் (படகோட்டிகள்)"
         ],
         "explanation": "சில கைவினைக் குழுக்கள் உயர் நிலையை அடைந்தன."
       }
@@ -1358,10 +1358,10 @@
       "ta": {
         "q": "பிற்கால வேத காலத்தில் பண்டமாற்று முறையே இருந்தது; நாணயங்கள் எப்போதுக்குப் பிறகே அறிமுகமாயின?",
         "options": [
-          "பொ.ஆ. 300",
-          "பொ.ஆ.மு. 1500",
+          "ஏறத்தாழ பொ.ஆ. 300",
+          "ஏறத்தாழ பொ.ஆ.மு. 1500",
           "ஏறத்தாழ பொ.ஆ.மு. 600",
-          "பொ.ஆ. 1000"
+          "ஏறத்தாழ பொ.ஆ. 1000"
         ],
         "explanation": "இக்காலத்து நாணயச் சான்றுகள் இல்லை; நாணயங்கள் பொ.ஆ.மு. 600க்குப் பின்னரே அறிமுகமாயின."
       }
@@ -1377,10 +1377,10 @@
       "en": {
         "q": "In the Later Vedic period, which deity became the main deity as Agni and Indra lost their importance?",
         "options": [
-          "Soma",
-          "Varuna",
-          "Ushas",
-          "Prajapati"
+          "Soma, the drink deity",
+          "Varuna, god of waters",
+          "Ushas, the dawn goddess",
+          "Prajapati, the creator"
         ],
         "explanation": "Rudra, identified with Siva, became important and Vishnu was conceived as the protector of people."
       },

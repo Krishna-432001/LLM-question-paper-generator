@@ -169,10 +169,10 @@
       "ta": {
         "q": "தோட்டி உயிரிகளுக்கு (Scavengers) எடுத்துக்காட்டுகளான இணை எது?",
         "options": [
-          "சிங்கம், புலி",
+          "சிங்கம், வங்காளப் புலி",
           "கழுதைப்புலி, கழுகுகள்",
-          "முயல், மான்",
-          "காளான், ஈஸ்ட்"
+          "முயல், புள்ளி மான்",
+          "காளான், பேக்கரி ஈஸ்ட்"
         ],
         "explanation": "மற்ற விலங்குகள் விட்டுச் சென்ற உணவை உண்பவை தோட்டி உயிரிகள்."
       }
@@ -200,7 +200,7 @@
         "options": [
           "உச்ச வேட்டையாடிகள்",
           "ஒட்டுண்ணிகள்",
-          "சிதைவுண்ணிகள் (Detritivores)",
+          "சிதைவுண்ணிகள்",
           "உற்பத்தியாளர்கள்"
         ],
         "explanation": "எறும்பு, கறையான், மண்புழு, கரப்பு வண்டுகள் ஆகியவை சிதைவுண்ணிகள்."
@@ -286,7 +286,7 @@
         "q": "கார்பன் தேக்கங்கள் வளிமண்டலத்திலுள்ள கார்பன் டை ஆக்சைடை அகற்றும் செயல்முறை",
         "options": [
           "சிதைப்பான்களால் கார்பன் நிலைநிறுத்தம்",
-          "கார்பன் பிரித்தெடுத்துச் சேமித்தல் (Carbon sequestration)",
+          "கார்பன் பிரித்தெடுத்துச் சேமித்தல்",
           "கார்பன் வெளியேற்றம்",
           "கார்பன் வணிகம்"
         ],
@@ -316,7 +316,7 @@
         "options": [
           "உயிரினச் சமூகம்",
           "வாழிடம்",
-          "உயிர்ப்பகுதி (Biome)",
+          "உயிர்ப்பகுதி",
           "உயிரினத் தொகை"
         ],
         "explanation": "பயோம் என்பது பெரிய சூழல் மண்டலம்; முதன்மைக் காலநிலை வகைகளின் அடிப்படையில் உலகம் பயோம்களாகப் பிரிக்கப்படுகிறது."
@@ -372,7 +372,7 @@
       "ta": {
         "q": "நடுவில் தீவு இல்லாமல் ஒரு காயலைச் சூழ்ந்த வட்ட வடிவப் பவளப்பாறைகள்",
         "options": [
-          "வளையப் பவளத் தீவுகள் (Atolls)",
+          "வளையப் பவளத் தீவுகள்",
           "விளிம்புப் பாறைகள்",
           "அரண் பாறைகள்",
           "கயாட்கள்"
@@ -391,20 +391,20 @@
       "en": {
         "q": "Sea grasses are similar to land plants and different from algae because they have",
         "options": [
-          "no roots but only fronds",
-          "flowers, roots and specialised cells to transport nutrients",
-          "chlorophyll-free bodies",
-          "spores instead of seeds"
+          "no roots, with leaf-like fronds",
+          "flowers, roots and transport cells",
+          "bodies that contain no chlorophyll",
+          "spores in place of seeds and flowers"
         ],
         "explanation": "There are over 50 species of sea grasses, plants that live in saltwater."
       },
       "ta": {
         "q": "கடற்புற்கள் நிலத்தாவரங்களைப் போலவும் பாசிகளிலிருந்து வேறுபட்டும் இருப்பதற்குக் காரணம், அவற்றுக்கு",
         "options": [
-          "வேர்கள் இல்லை; இலைத்தண்டுகள் மட்டுமே உள்ளன",
-          "பூக்கள், வேர்கள், ஊட்டப்பொருள் கடத்தும் சிறப்புச் செல்கள் உள்ளன",
-          "பச்சையம் இல்லாத உடல் உள்ளது",
-          "விதைகளுக்குப் பதிலாக வித்துகள் உள்ளன"
+          "வேர்கள் இல்லை; இலை போன்ற இலைத்தண்டுகள் உள்ளன",
+          "பூக்கள், வேர்கள், கடத்தும் செல்கள் உள்ளன",
+          "பச்சையம் இல்லாத, உணவு தயாரிக்காத உடல் உள்ளது",
+          "விதைகள், பூக்களுக்குப் பதிலாக வித்துகள் உள்ளன"
         ],
         "explanation": "உப்புநீரில் வாழும் தாவரங்களான கடற்புற்களில் 50க்கும் மேற்பட்ட இனங்கள் உள்ளன."
       }
@@ -536,10 +536,10 @@
       "en": {
         "q": "Why do leaves of temperate deciduous trees turn bright red, yellow and orange in the fall?",
         "options": [
-          "The leaves are attacked by fungi",
+          "The leaves are attacked by fungi and insects",
           "The trees absorb more sunlight in autumn",
-          "The production of chlorophyll in the leaves slows down and eventually stops",
-          "Rainfall decreases to zero"
+          "Chlorophyll production in the leaves slows and stops",
+          "Rainfall increases sharply during autumn"
         ],
         "explanation": "Temperate deciduous forests lie between 30 and 50 degrees north and south and are also known as broad leaved forests."
       },
@@ -565,9 +565,9 @@
       "en": {
         "q": "Tropical grasslands are called 'llanos' in",
         "options": [
-          "South Africa",
-          "Brazil",
-          "Argentina",
+          "South Africa and Botswana",
+          "Brazil and Paraguay",
+          "Argentina and Uruguay",
           "Colombia and Venezuela"
         ],
         "explanation": "Tropical grasslands are called campos in Brazil and savannas in Africa."
@@ -720,7 +720,7 @@
       "ta": {
         "q": "டன்ட்ரா உயிர்ப்பகுதியில் மண்ணின் அடிப்பகுதி நிரந்தரமாக உறைந்து இருப்பது எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "நிரந்தரப் பனிநிலம் (Permafrost)",
+          "நிரந்தரப் பனிநிலம்",
           "லோயஸ்",
           "சரிவுக் குவியல்",
           "டெர்ரா ரோஸ்ஸா"
@@ -827,19 +827,19 @@
         "q": "Which species is considered the most cosmopolitan species in the world?",
         "options": [
           "Killer whale",
-          "Cat",
-          "Dog",
-          "Human being"
+          "Polar bear",
+          "African elephant",
+          "Giant panda"
         ],
         "explanation": "Cosmopolitan species are distributed over most regions of the earth; cats, dogs and human beings are examples."
       },
       "ta": {
         "q": "உலகிலேயே மிகவும் உலகப் பரவல் கொண்ட (Cosmopolitan) இனமாகக் கருதப்படுவது",
         "options": [
-          "கொலைகாரத் திமிங்கிலம் (Killer whale)",
-          "பூனை",
-          "நாய்",
-          "மனிதன்"
+          "கொலைகாரத் திமிங்கிலம்",
+          "துருவப் பனிக்கரடி",
+          "ஆப்பிரிக்க யானை",
+          "ராட்சதப் பாண்டா கரடி"
         ],
         "explanation": "பூமியின் பெரும்பாலான பகுதிகளில் பரவியுள்ள இனங்கள் உலகப் பரவல் இனங்கள்; பூனை, நாய், மனிதன் ஆகியவையும் எடுத்துக்காட்டுகள்."
       }
@@ -1059,19 +1059,19 @@
         "q": "Which plant is cited as an example of an invasive alien species in India that destroys native species?",
         "options": [
           "Lantana camara",
-          "Neem",
-          "Banyan",
-          "Teak"
+          "Azadirachta indica",
+          "Ficus benghalensis",
+          "Tectona grandis"
         ],
         "explanation": "Other major threats are habitat destruction, climate change, pollution and over-exploitation of resources."
       },
       "ta": {
         "q": "இந்தியாவில் தாவரச் சிற்றினங்களை அழிக்கும் ஊடுருவும் அயல் இனத்திற்கு எடுத்துக்காட்டாகக் குறிப்பிடப்படும் தாவரம்",
         "options": [
-          "உண்ணிச்செடி (Lantana camara)",
-          "வேம்பு",
-          "ஆலமரம்",
-          "தேக்கு"
+          "உண்ணிச்செடி",
+          "வேப்ப மரம்",
+          "பெரிய ஆலமரம்",
+          "தேக்கு மரம்"
         ],
         "explanation": "வாழிட அழிவு, காலநிலை மாற்றம், மாசு, வளங்களை மிகை சுரண்டல் ஆகியவை பிற முக்கிய அச்சுறுத்தல்கள்."
       }
@@ -1261,20 +1261,20 @@
       "en": {
         "q": "What is the main difference between a wildlife sanctuary and a national park in India?",
         "options": [
-          "Sanctuaries are owned by private persons",
-          "Sanctuaries are larger than national parks",
-          "National parks allow hunting but sanctuaries do not",
-          "In a sanctuary certain rights of people are allowed, but in a national park no rights, such as grazing, are allowed"
+          "Sanctuaries are owned by private persons, national parks by the state",
+          "Sanctuaries must cover a larger area than national parks",
+          "National parks allow hunting but sanctuaries do not allow it",
+          "Some people's rights are allowed in a sanctuary, not in a national park"
         ],
         "explanation": "In a wildlife sanctuary the Chief Wildlife Warden may regulate, control or prohibit certain activities."
       },
       "ta": {
         "q": "இந்தியாவில் வனவிலங்கு சரணாலயத்துக்கும் தேசியப் பூங்காவுக்கும் இடையிலான முக்கிய வேறுபாடு",
         "options": [
-          "சரணாலயங்கள் தனியாருக்குச் சொந்தமானவை",
-          "சரணாலயங்கள் தேசியப் பூங்காக்களை விடப் பெரியவை",
-          "தேசியப் பூங்காக்களில் வேட்டை அனுமதிக்கப்படும்",
-          "சரணாலயத்தில் மக்களின் சில உரிமைகள் அனுமதிக்கப்படும்; தேசியப் பூங்காவில் மேய்ச்சல் போன்ற எந்த உரிமையும் இல்லை"
+          "சரணாலயங்கள் தனியாருக்குச் சொந்தம்; தேசியப் பூங்காக்கள் அரசுக்குச் சொந்தம்",
+          "சரணாலயங்கள் தேசியப் பூங்காக்களை விடப் பெரிய பரப்பு கொண்டவை",
+          "தேசியப் பூங்காக்களில் வேட்டை அனுமதிக்கப்படும்; சரணாலயங்களில் இல்லை",
+          "சரணாலயத்தில் மக்களின் சில உரிமைகள் அனுமதிக்கப்படும்; தேசியப் பூங்காவில் இல்லை"
         ],
         "explanation": "சரணாலயத்தில் தலைமை வனவிலங்கு காப்பாளர் சில செயல்பாடுகளைக் கட்டுப்படுத்தலாம் அல்லது தடை செய்யலாம்."
       }
@@ -1300,7 +1300,7 @@
       "ta": {
         "q": "உயிர்க்கோளக் காப்பகங்கள் மரபாக எந்த மூன்று தொடர்புடைய மண்டலங்களாக அமைக்கப்படுகின்றன?",
         "options": [
-          "மையப் பகுதி, இடைநிலை (தாங்கல்) மண்டலம், மாறுநிலை மண்டலம்",
+          "மையப் பகுதி, தாங்கல் மண்டலம், மாறுநிலை மண்டலம்",
           "மையப் பகுதி, சுற்றுலா மண்டலம், நகர மண்டலம்",
           "காட்டு மண்டலம், நீர் மண்டலம், புல்வெளி மண்டலம்",
           "முதன்மை, இரண்டாம், மூன்றாம் நிலை மண்டலங்கள்"
@@ -1348,20 +1348,20 @@
       "en": {
         "q": "In 1798, villagers of Vedanthangal near Chennai forced the Collector to issue an order not to harm",
         "options": [
-          "the forest trees",
-          "the village tanks",
-          "the nesting birds of the local wetland",
-          "the temple elephants"
+          "the trees of the nearby forest",
+          "the cattle grazing near the village",
+          "the birds nesting at the tank",
+          "the elephants of the temple"
         ],
         "explanation": "British soldiers had shot some storks in the local wetland; the incident took place long before the concept of biosphere conservation emerged."
       },
       "ta": {
         "q": "1798இல் சென்னைக்கு அருகிலுள்ள வேடந்தாங்கல் கிராம மக்கள், கலெக்டரை எதைத் தீங்கு செய்யக் கூடாது என்று உத்தரவிடச் செய்தனர்?",
         "options": [
-          "காட்டு மரங்களை",
-          "கிராமக் குளங்களை",
-          "உள்ளூர் ஈரநிலத்தில் கூடு கட்டிய பறவைகளை",
-          "கோயில் யானைகளை"
+          "அருகிலுள்ள காட்டு மரங்களை",
+          "கிராமத்தருகே மேயும் கால்நடைகளை",
+          "ஏரியில் கூடு கட்டிய பறவைகளை",
+          "கோயிலிலுள்ள யானைகளை"
         ],
         "explanation": "பிரிட்டிஷ் வீரர்கள் உள்ளூர் ஈரநிலத்தில் நாரைகளைச் சுட்டனர்; இது உயிர்க்கோளப் பாதுகாப்புக் கருத்து தோன்றுவதற்கு முன்பே நிகழ்ந்தது."
       }

@@ -24,10 +24,10 @@
       "ta": {
         "q": "'ஃபிரான்சைஸ்' (வாக்குரிமை) என்ற சொல் ஆங்கிலோ-பிரெஞ்சுச் சொல்லான 'ஃபிராங்க்' என்பதிலிருந்து பெறப்பட்டது; அதன் பொருள்",
         "options": [
-          "சுதந்திரம் (கட்டற்ற)",
-          "வாக்கு",
-          "மக்கள்",
-          "தேர்வு"
+          "சுதந்திரம்",
+          "வாக்களிப்பு",
+          "பொதுமக்கள்",
+          "தேர்ந்தெடுப்பு"
         ],
         "explanation": "பொதுத் தேர்தல்களில் வாக்களிக்கும் உரிமையே வாக்குரிமை."
       }
@@ -130,9 +130,9 @@
       "en": {
         "q": "Under the First Past The Post (FPTP) system, used in India, the winning candidate is the one who",
         "options": [
-          "gains more votes than any other candidate, even without an absolute majority",
+          "gets more votes than any other candidate",
           "gets more than 50% of the valid votes",
-          "tops a party list",
+          "tops the list of the party",
           "wins a second-round run-off"
         ],
         "explanation": "FPTP is the simplest plurality/majority system, using single-member districts and candidate-centred voting; the UK, Canada, India and the USA use it."
@@ -140,10 +140,10 @@
       "ta": {
         "q": "இந்தியாவில் பின்பற்றப்படும் 'முதலில் வருபவர் வெற்றி' (FPTP) முறையில் வெற்றி பெறுபவர்",
         "options": [
-          "முழுப் பெரும்பான்மை இல்லாவிட்டாலும் பிற வேட்பாளர்களை விட அதிக வாக்குகள் பெறுபவர்",
+          "பிற வேட்பாளர்களை விட அதிக வாக்குகள் பெறுபவர்",
           "செல்லுபடியான வாக்குகளில் 50% க்கு மேல் பெறுபவர்",
           "கட்சிப் பட்டியலில் முதலிடத்தில் உள்ளவர்",
-          "இரண்டாம் சுற்றில் வெல்பவர்"
+          "இரண்டாம் சுற்று இறுதிப் போட்டியில் வெல்பவர்"
         ],
         "explanation": "FPTP எளிமையான பன்மை/பெரும்பான்மை முறை; ஒரு உறுப்பினர் தொகுதிகளும் வேட்பாளர் சார்ந்த வாக்களிப்பும் கொண்டது; பிரிட்டன், கனடா, இந்தியா, அமெரிக்கா இதைப் பின்பற்றுகின்றன."
       }
@@ -286,7 +286,7 @@
         "q": "இந்தியாவில் வாக்காளர் அடையாள அட்டை EPIC என அழைக்கப்படுகிறது; அதன் விரிவாக்கம்",
         "options": [
           "Election Polling Identity Certificate",
-          "Electoral Photo Identity Card (வாக்காளர் புகைப்பட அடையாள அட்டை)",
+          "Electoral Photo Identity Card",
           "Electors' Personal Information Card",
           "Electronic Polling Identity Code"
         ],
@@ -362,20 +362,20 @@
       "en": {
         "q": "Under the Model Code of Conduct, once elections are announced, Ministers shall NOT",
         "options": [
-          "lay foundation stones of projects or make promises of public facilities",
-          "address public election meetings",
-          "publish their party's manifesto",
-          "cast their own votes"
+          "lay foundation stones or promise new public facilities",
+          "address public election meetings of their party",
+          "publish their own party's election manifesto",
+          "cast their own votes on polling day"
         ],
         "explanation": "The Code also bars using places of worship for propaganda and using government vehicles, aircraft and officials for elections."
       },
       "ta": {
         "q": "தேர்தல் நடத்தை விதிகளின்படி, தேர்தல் அறிவிக்கப்பட்ட பின் அமைச்சர்கள் செய்யக் கூடாதது",
         "options": [
-          "திட்டங்களுக்கு அடிக்கல் நாட்டுதல் அல்லது பொது வசதிகளுக்கு வாக்குறுதி அளித்தல்",
-          "தேர்தல் பொதுக்கூட்டங்களில் பேசுதல்",
-          "கட்சியின் தேர்தல் அறிக்கையை வெளியிடுதல்",
-          "தங்கள் வாக்கைச் செலுத்துதல்"
+          "அடிக்கல் நாட்டுதல் அல்லது புதிய வசதிகளை வாக்குறுதி அளித்தல்",
+          "தம் கட்சியின் தேர்தல் பொதுக்கூட்டங்களில் பேசுதல்",
+          "தம் கட்சியின் தேர்தல் அறிக்கையை வெளியிடுதல்",
+          "தேர்தல் நாளில் தங்கள் வாக்கைச் செலுத்துதல்"
         ],
         "explanation": "வழிபாட்டுத் தலங்களைப் பரப்புரைக்குப் பயன்படுத்துவதும், அரசு வாகனங்கள், விமானங்கள், அலுவலர்களைத் தேர்தலுக்குப் பயன்படுத்துவதும் தடைசெய்யப்பட்டுள்ளன."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "In July 2013, the Supreme Court struck down Section 8(4) of the Representation of the People Act, which had allowed convicted MPs and MLAs",
         "options": [
-          "three months to file an appeal while continuing in office",
-          "to contest elections from jail",
-          "to be re-nominated by their parties",
-          "to vote in Rajya Sabha elections only"
+          "three months to appeal while staying in office",
+          "to contest further elections while in jail",
+          "to be re-nominated by their parties for the seat",
+          "to vote in Rajya Sabha elections from jail"
         ],
         "explanation": "After the judgment, convicted legislators are disqualified immediately on conviction."
       },
       "ta": {
         "q": "2013 ஜூலையில் உச்ச நீதிமன்றம் ரத்து செய்த மக்கள் பிரதிநிதித்துவச் சட்டப் பிரிவு 8(4), தண்டிக்கப்பட்ட நாடாளுமன்ற, சட்டமன்ற உறுப்பினர்களுக்கு அளித்திருந்தது",
         "options": [
-          "பதவியில் தொடர்ந்தபடியே மேல்முறையீடு செய்ய மூன்று மாத அவகாசம்",
-          "சிறையிலிருந்தே தேர்தலில் போட்டியிடும் உரிமை",
-          "கட்சியால் மீண்டும் நியமிக்கப்படும் உரிமை",
-          "மாநிலங்களவைத் தேர்தலில் மட்டும் வாக்களிக்கும் உரிமை"
+          "பதவியில் இருந்தபடியே மேல்முறையீடு செய்ய மூன்று மாதம்",
+          "சிறையிலிருந்தே மேலும் தேர்தலில் போட்டியிடும் உரிமை",
+          "அதே தொகுதியில் கட்சியால் மீண்டும் நியமிக்கப்படும் உரிமை",
+          "சிறையிலிருந்தே மாநிலங்களவைத் தேர்தலில் வாக்களிக்கும் உரிமை"
         ],
         "explanation": "இத்தீர்ப்புக்குப் பின் தண்டிக்கப்பட்ட சட்டமன்ற உறுப்பினர்கள் தண்டனை பெற்றவுடனே தகுதியிழக்கின்றனர்."
       }
@@ -664,7 +664,7 @@
         "options": [
           "NOTA வாய்ப்பு",
           "மக்களால் நேரடித் தேர்தல்",
-          "வெளிப்படை வாக்குமுறை (open ballot)",
+          "வெளிப்படை வாக்குமுறை",
           "மின்னணு வாக்குப்பதிவு இயந்திரங்கள்"
         ],
         "explanation": "வெளிப்படை வாக்குமுறையில் கட்சி உறுப்பினர் தம் வாக்குச்சீட்டைக் கட்சியின் அங்கீகரிக்கப்பட்ட முகவரிடம் காட்டுகிறார்; இது இரகசிய வாக்குமுறைக்கு எதிரானது."

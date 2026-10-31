@@ -24,10 +24,10 @@
       "ta": {
         "q": "இரண்டாம் புலிகேசியின் ஐஹொளே கல்வெட்டை சமஸ்கிருதத்தில் இயற்றிய அவைப் புலவர் யார்?",
         "options": [
-          "ரவிகீர்த்தி",
-          "பம்பா",
-          "நன்னயா",
-          "தண்டி"
+          "ரவிகீர்த்தி கவிஞர்",
+          "பம்பா கவிஞர்",
+          "நன்னயா கவிஞர்",
+          "தண்டி கவிஞர்"
         ],
         "explanation": "பம்பா கன்னடத்தில் 'விக்ரமார்ஜுன விஜயம்' (பம்பபாரதம்) எழுதினார்; நன்னயா தெலுங்கில் 'மகாபாரதம்' எழுதினார்."
       }
@@ -217,9 +217,9 @@
       "en": {
         "q": "The royal insignia of the Chalukyas was",
         "options": [
-          "the tiger",
-          "the bull",
-          "the fish",
+          "the Bengal tiger",
+          "the sacred bull",
+          "the carp fish",
           "the wild boar"
         ],
         "explanation": "The bull, Siva's mount, was the symbol of the Pallavas."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "சாளுக்கியரின் அரச முத்திரைச் சின்னம்",
         "options": [
-          "புலி",
-          "காளை",
-          "மீன்",
+          "கோடுபோட்ட புலி",
+          "புனிதமான காளை",
+          "இரட்டை மீன்கள்",
           "காட்டுப்பன்றி"
         ],
         "explanation": "சிவனின் வாகனமான காளை பல்லவரின் சின்னம்."
@@ -246,20 +246,20 @@
       "en": {
         "q": "Which of the following is true of the royal women of the Chalukya dynasty of the Jayasimhan I line?",
         "options": [
-          "They were appointed as provincial governors and sometimes issued coins",
-          "They were barred from making endowments",
+          "They governed provinces and sometimes issued coins",
+          "They were barred from making temple endowments",
           "They performed the Vedic sacrifices as priests",
-          "They served only as commanders of the army"
+          "They served mostly as commanders of the army"
         ],
         "explanation": "Pallava queens did not take active part in administration, but they built shrines, installed images and endowed temples."
       },
       "ta": {
         "q": "சாளுக்கிய ஜயசிம்மன் I பரம்பரை அரச மகளிர் குறித்து உண்மையான கூற்று எது?",
         "options": [
-          "மாகாண ஆளுநர்களாக நியமிக்கப்பட்டு சில சமயம் நாணயங்களை வெளியிட்டனர்",
-          "அறக்கொடை வழங்கத் தடை விதிக்கப்பட்டிருந்தனர்",
-          "புரோகிதர்களாக வேள்விகள் நடத்தினர்",
-          "படைத் தளபதிகளாக மட்டுமே பணியாற்றினர்"
+          "மாகாணங்களை ஆண்டு சில சமயம் நாணயங்களை வெளியிட்டனர்",
+          "கோயில் அறக்கொடை வழங்கத் தடை விதிக்கப்பட்டிருந்தனர்",
+          "புரோகிதர்களாக இருந்து வேதவேள்விகள் நடத்தினர்",
+          "பெரும்பாலும் படைத் தளபதிகளாகப் பணியாற்றினர்"
         ],
         "explanation": "பல்லவ அரசிகள் நிர்வாகத்தில் ஈடுபடவில்லை; ஆனால் கோயில்கள் கட்டி, சிலைகள் நிறுவி, கொடைகள் அளித்தனர்."
       }
@@ -391,20 +391,20 @@
       "en": {
         "q": "The Durga temple at Aihole was built on the model of a",
         "options": [
-          "Jain basadi with a square plan",
-          "Buddha chaitya, standing on a semi-circular raised platform",
-          "Pallava rock-cut mandapa",
-          "Mauryan stupa"
+          "Jain basadi with a square pillared plan",
+          "Buddha chaitya on a semi-circular platform",
+          "Pallava rock-cut mandapa with pillars",
+          "Mauryan stupa with a gateway and railing"
         ],
         "explanation": "Another temple dedicated to the same goddess, called Huccimalligudi, is rectangular in shape."
       },
       "ta": {
         "q": "ஐஹொளேயின் துர்க்கை கோயில் எதன் மாதிரியில் கட்டப்பட்டது?",
         "options": [
-          "சதுர வடிவ சமணப் பள்ளி",
-          "அரைவட்ட மேடை மீது நிற்கும் புத்த சைத்தியத்தின் மாதிரி",
-          "பல்லவ குடைவரை மண்டபம்",
-          "மௌரிய தூபி"
+          "தூண்களுடன் கூடிய சதுர வடிவ சமணப் பள்ளி",
+          "அரைவட்ட மேடையிலுள்ள புத்த சைத்தியத்தின் மாதிரி",
+          "தூண்களுடன் கூடிய பல்லவ குடைவரை மண்டபம்",
+          "வாயிலும் வேலியும் உடைய மௌரிய தூபி"
         ],
         "explanation": "அதே தெய்வத்துக்கான மற்றொரு கோயில் ஹுச்சிமல்லிகுடி செவ்வக வடிவானது."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "The Virupaksha temple at Pattadakal was built at the order of Queen Lohamahadevi to commemorate the conquest of which city by her husband Vikramaditya II?",
         "options": [
-          "Kanauj",
-          "Madurai",
-          "Vatapi",
-          "Kanchipuram"
+          "Kanauj, the Harsha capital",
+          "Madurai, the Pandya capital",
+          "Vatapi, the Chalukya capital",
+          "Kanchipuram, the Pallava capital"
         ],
         "explanation": "The architect of the temple was given the title Tribhuvacharya (maker of the three worlds)."
       },
       "ta": {
         "q": "பட்டடக்கல் விரூபாட்சர் கோயில், அரசி லோகமகாதேவியின் ஆணைப்படி அவள் கணவர் இரண்டாம் விக்கிரமாதித்தன் எந்த நகரத்தை வென்றதன் நினைவாகக் கட்டப்பட்டது?",
         "options": [
-          "கன்னோசி",
-          "மதுரை",
-          "வாதாபி",
-          "காஞ்சிபுரம்"
+          "கன்னோசி, ஹர்ஷரின் தலைநகரம்",
+          "மதுரை, பாண்டியரின் தலைநகரம்",
+          "வாதாபி, சாளுக்கியரின் தலைநகரம்",
+          "காஞ்சிபுரம், பல்லவரின் தலைநகரம்"
         ],
         "explanation": "கோயிலை வடிவமைத்த கலைஞருக்கு 'திரிபுவனாசாரி' (மூவுலகையும் படைப்பவர்) பட்டம் வழங்கப்பட்டது."
       }
@@ -971,8 +971,8 @@
       "en": {
         "q": "In the Buddhist caves of Ellora, the Buddha is shown in three postures: meditating (dhyana mudra), preaching (vyakhyana mudra) and",
         "options": [
-          "holding a lotus (padma mudra)",
-          "touching the earth with the index finger of the right hand (bhumi-sparsha mudra)",
+          "holding a lotus bud in the left hand (padma mudra)",
+          "touching the earth with the right hand (bhumi-sparsha mudra)",
           "raising both hands in blessing (abhaya mudra)",
           "reclining on the right side (parinirvana)"
         ],
@@ -981,10 +981,10 @@
       "ta": {
         "q": "எல்லோராவின் பௌத்தக் குகைகளில் புத்தர் தியானம் (தியான முத்திரை), போதனை (வியாக்யான முத்திரை) ஆகியவற்றுடன் எந்த நிலையில் காட்டப்படுகிறார்?",
         "options": [
-          "தாமரை ஏந்திய நிலை",
-          "வலக்கை ஆள்காட்டி விரலால் நிலத்தைத் தொடும் நிலை (பூமிஸ்பர்ச முத்திரை)",
-          "இரு கைகளையும் உயர்த்தி ஆசி வழங்கும் நிலை",
-          "வலப்புறம் சாய்ந்த பரிநிர்வாண நிலை"
+          "இடக்கையில் தாமரை மொட்டு ஏந்திய நிலை (பத்ம முத்திரை)",
+          "வலக்கையால் நிலத்தைத் தொடும் நிலை (பூமிஸ்பர்ச முத்திரை)",
+          "இரு கைகளையும் உயர்த்தி ஆசி வழங்கும் நிலை (அபய முத்திரை)",
+          "வலப்புறம் சாய்ந்த பரிநிர்வாண நிலை (பரிநிர்வாணம்)"
         ],
         "explanation": "எல்லோராவில் 12 பௌத்தக் குகைகள் உள்ளன; ஒவ்வொன்றும் தனித்துவமான கட்டடக்கலை மாதிரி கொண்டது."
       }
@@ -1002,7 +1002,7 @@
         "options": [
           "Cave 12",
           "Cave 6",
-          "Cave 16 (Kailasanatha cave)",
+          "Cave 16",
           "Cave 1"
         ],
         "explanation": "The temple is two-storeyed, and the lower storey has carved life-size elephants that appear to hold up the temple."
@@ -1012,7 +1012,7 @@
         "options": [
           "12ஆம் எண் குகை",
           "6ஆம் எண் குகை",
-          "16ஆம் எண் குகை (கைலாசநாதர் குகை)",
+          "16ஆம் எண் குகை",
           "1ஆம் எண் குகை"
         ],
         "explanation": "இக்கோயில் இரண்டு அடுக்குகளைக் கொண்டது; கீழ் அடுக்கில் கோயிலைத் தாங்குவது போன்ற உயிர்ப்புள்ள யானைச் சிற்பங்கள் உள்ளன."
@@ -1116,20 +1116,20 @@
       "en": {
         "q": "The plaster used by the Ajanta painters on the ridged volcanic rock surface was made of",
         "options": [
-          "gypsum and bitumen",
-          "cow dung and lime only",
-          "vegetable fibres, paddy husk, rock-grit and sand",
-          "clay and ochre"
+          "gypsum, bitumen and powdered white chalk",
+          "cow dung and lime with river silt",
+          "plant fibres, paddy husk, rock-grit and sand",
+          "clay, ochre and crushed red brick"
         ],
         "explanation": "The surface was overlaid with a thin layer of lime, ready to receive the pigment."
       },
       "ta": {
         "q": "அஜந்தா ஓவியர்கள் எரிமலைப் பாறையின் மேற்பரப்பில் பூசிய காரை எவற்றால் ஆனது?",
         "options": [
-          "ஜிப்சமும் நிலக்கீலும்",
-          "சாணமும் சுண்ணாம்பும் மட்டும்",
+          "ஜிப்சம், நிலக்கீல், சுண்ணக்கட்டித் தூள்",
+          "சாணம், சுண்ணாம்பு, ஆற்று வண்டல்",
           "தாவர நார்கள், நெல் உமி, பாறைத் துகள், மணல்",
-          "களிமண்ணும் காவிக்கல்லும்"
+          "களிமண், காவிக்கல், நொறுக்கிய செங்கல்"
         ],
         "explanation": "அதன்மேல் மெல்லிய சுண்ணாம்புப் பூச்சு பூசி நிறமிகளைத் தீட்டினர்."
       }
@@ -1148,7 +1148,7 @@
           "Nandivarman III",
           "Mahendravarman I",
           "Narasimhavarman I",
-          "Rajasimha (CE 700-728)"
+          "Rajasimha"
         ],
         "explanation": "The temple comprises three shrines, the prominent ones being dedicated to Siva and Vishnu."
       },
@@ -1158,7 +1158,7 @@
           "மூன்றாம் நந்திவர்மன்",
           "முதலாம் மகேந்திரவர்மன்",
           "முதலாம் நரசிம்மவர்மன்",
-          "ராஜசிம்மன் (பொ.ஆ. 700–728)"
+          "ராஜசிம்மன்"
         ],
         "explanation": "இக்கோயிலில் மூன்று கருவறைகள் உள்ளன; முதன்மையானவை சிவன், விஷ்ணுவுக்கு உரியவை."
       }
@@ -1261,20 +1261,20 @@
       "en": {
         "q": "Which of the following is one of the three major themes of the Bhakti hymns?",
         "options": [
-          "Praise of Jainism and Buddhism",
-          "Support for the varnashrama system",
-          "Devotion to an impersonal abstract Brahman only",
-          "Protest against the exclusiveness of orthodox Vedic Brahmanism in access to divine grace"
+          "Praise of Jainism and Buddhism as the true faith",
+          "Support for the varnashrama system of the Smritis",
+          "Devotion to an impersonal and abstract Brahman",
+          "Protest against the exclusiveness of Brahmanical orthodoxy"
         ],
         "explanation": "The first theme is devotion to a personal god, and the third is the outright condemnation of Jains and Buddhists as heretics."
       },
       "ta": {
         "q": "பக்திப் பாடல்களின் மூன்று முக்கியக் கருப்பொருள்களில் ஒன்று எது?",
         "options": [
-          "சமணம், பௌத்தத்தைப் புகழ்தல்",
-          "வர்ணாசிரம முறைக்கு ஆதரவு",
-          "உருவற்ற பிரம்மத்தின் மீது மட்டும் பக்தி",
-          "தெய்வ அருளையும் முக்தியையும் அடைவதில் பிராமணர்களின் தனியுரிமைக்கு எதிரான எதிர்ப்பு"
+          "சமணம், பௌத்தத்தை உண்மை நெறியாகப் புகழ்தல்",
+          "ஸ்மிருதிகள் கூறும் வர்ணாசிரம முறைக்கு ஆதரவு",
+          "உருவற்ற, அருவமான பிரம்மத்தின் மீது பக்தி",
+          "பிராமண மரபுவழியின் தனியுரிமைக்கு எதிரான எதிர்ப்பு"
         ],
         "explanation": "முதல் கருப்பொருள் தனிப்பட்ட கடவுள் மீதான பக்தி; மூன்றாவது சமண, பௌத்தரை வெளிப்படையாகக் கண்டித்தல்."
       }
@@ -1348,20 +1348,20 @@
       "en": {
         "q": "Who compiled the hymns of the Saiva saints into an anthology of eleven books towards the end of the tenth century?",
         "options": [
-          "Sekkilar",
-          "Nadamuni",
-          "Nambi Andar Nambi",
-          "Sundarar"
+          "Sekkilar of Kunrathur",
+          "Nadamuni of Kattumannarkoil",
+          "Nambi Andar Nambi of Tirunaraiyur",
+          "Sundarar of Tirunavalur"
         ],
         "explanation": "Sekkilar's Periyapuranam is the twelfth Thirumurai, making the collection the Panniru Tirumurai."
       },
       "ta": {
         "q": "பத்தாம் நூற்றாண்டின் இறுதியில் சைவ அடியார்களின் பாடல்களைப் பதினொரு நூல்களாகத் தொகுத்தவர் யார்?",
         "options": [
-          "சேக்கிழார்",
-          "நாதமுனி",
-          "நம்பியாண்டார் நம்பி",
-          "சுந்தரர்"
+          "குன்றத்தூர் சேக்கிழார்",
+          "காட்டுமன்னார்கோயில் நாதமுனி",
+          "திருநாரையூர் நம்பியாண்டார் நம்பி",
+          "திருநாவலூர் சுந்தரர்"
         ],
         "explanation": "சேக்கிழாரின் பெரியபுராணம் பன்னிரண்டாம் திருமுறை; இதனால் தொகுப்பு பன்னிரு திருமுறை ஆனது."
       }

@@ -43,20 +43,20 @@
       "en": {
         "q": "The word 'climate' is derived from the ancient Greek word 'klima', meaning",
         "options": [
-          "season",
+          "a season of the year",
           "slope or inclination",
-          "wind",
-          "heat"
+          "direction of the wind",
+          "heat from the Sun"
         ],
         "explanation": "The ancient Greeks divided the earth into seven latitudinal regions called 'klimata'."
       },
       "ta": {
         "q": "'காலநிலை' (Climate) என்ற சொல் பெறப்பட்ட பண்டைய கிரேக்கச் சொல் 'க்ளைமா' என்பதன் பொருள்",
         "options": [
-          "பருவம்",
+          "ஆண்டின் பருவம்",
           "சாய்வு அல்லது சரிவு",
-          "காற்று",
-          "வெப்பம்"
+          "காற்றின் திசை",
+          "சூரியனின் வெப்பம்"
         ],
         "explanation": "பண்டைய கிரேக்கர்கள் புவியை 'க்ளைமாட்டா' என்ற ஏழு அட்சப் பிரிவுகளாகப் பிரித்தனர்."
       }
@@ -74,7 +74,7 @@
         "options": [
           "Nitrogen and argon",
           "Carbon monoxide and methane",
-          "Chlorofluorocarbons (CFC) and halons",
+          "Chlorofluorocarbons and halons",
           "Sulphur dioxide and ammonia"
         ],
         "explanation": "CFCs and halons were formerly found in aerosol spray cans and refrigerants."
@@ -84,7 +84,7 @@
         "options": [
           "நைட்ரஜன், ஆர்கான்",
           "கார்பன் மோனாக்சைடு, மீத்தேன்",
-          "குளோரோஃபுளோரோகார்பன் (CFC), ஹாலன்கள்",
+          "குளோரோஃபுளோரோகார்பன், ஹாலன்கள்",
           "கந்தக டை ஆக்சைடு, அம்மோனியா"
         ],
         "explanation": "CFC, ஹாலன் வாயுக்கள் முன்பு தெளிப்பான் குப்பிகளிலும் குளிர்பதனப் பொருட்களிலும் இருந்தன."
@@ -101,20 +101,20 @@
       "en": {
         "q": "The severe ozone depletion called the 'ozone hole' over Antarctica occurs because of",
         "options": [
-          "high summer temperatures over Antarctica",
-          "volcanic eruptions at the South Pole",
-          "nuclear tests on the ice sheet",
-          "polar stratospheric clouds formed by very low winter temperatures, enabling chlorine and bromine reactions"
+          "unusually high summer temperatures over Antarctica",
+          "frequent volcanic eruptions near the South Pole",
+          "nuclear tests carried out on the Antarctic ice sheet",
+          "polar stratospheric clouds formed in the very cold winter"
         ],
         "explanation": "These special atmospheric and chemical conditions exist there and nowhere else on the globe."
       },
       "ta": {
         "q": "அண்டார்டிகா மீது 'ஓசோன் துளை' உருவாகக் காரணம்",
         "options": [
-          "அண்டார்டிகாவில் கோடையில் நிலவும் அதிக வெப்பம்",
-          "தென் துருவத்தில் எரிமலை வெடிப்புகள்",
-          "பனிப்படலத்தில் அணுச் சோதனைகள்",
-          "கடும் குளிர்காலத்தில் உருவாகும் துருவப் படுகைமண்டல மேகங்கள் மீது நிகழும் குளோரின், புரோமின் வினைகள்"
+          "அண்டார்டிகாவில் கோடையில் நிலவும் அசாதாரண அதிக வெப்பம்",
+          "தென் துருவத்துக்கு அருகில் அடிக்கடி நிகழும் எரிமலை வெடிப்புகள்",
+          "அண்டார்டிகா பனிப்படலத்தில் நடத்தப்பட்ட அணுச் சோதனைகள்",
+          "கடும் குளிர்காலத்தில் உருவாகும் துருவப் படுகைமண்டல மேகங்கள்"
         ],
         "explanation": "இத்தகைய சிறப்பு வளிமண்டல, வேதியியல் நிலைகள் உலகில் வேறெங்கும் இல்லை."
       }
@@ -198,10 +198,10 @@
       "ta": {
         "q": "சம வெப்பக் கோடு (Isotherm) என்பது எதை இணைக்கும் கோடு?",
         "options": [
-          "சம மழையளவு உள்ள இடங்களை",
-          "சம காற்றழுத்தம் உள்ள இடங்களை",
+          "சராசரிக் கடல்மட்டத்தில் சம மழையளவு உள்ள இடங்களை",
+          "சராசரிக் கடல்மட்டத்தில் சம காற்றழுத்தம் உள்ள இடங்களை",
           "சராசரிக் கடல்மட்டத்தில் சம வெப்பநிலை உள்ள இடங்களை",
-          "சம மேகமூட்டம் உள்ள இடங்களை"
+          "சராசரிக் கடல்மட்டத்தில் சம மேகமூட்டம் உள்ள இடங்களை"
         ],
         "explanation": "சம அழுத்தக்கோடு சம அழுத்தத்தையும், சம மழைக்கோடு சம மழையையும், சம மேகக்கோடு சம மேகமூட்டத்தையும் இணைக்கும்."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "Why does the northern hemisphere have a higher average temperature than the southern hemisphere, according to the text?",
         "options": [
-          "It has fewer clouds",
-          "It is closer to the Sun",
-          "It has more ocean currents",
-          "It has more land mass, and land heats faster than water"
+          "It has fewer clouds in the atmosphere",
+          "It is nearer to the Sun than the south",
+          "It has stronger warm ocean currents",
+          "It has more land, which heats faster than water"
         ],
         "explanation": "Water takes about 2.5 times more heat energy than land to heat a unit area."
       },
       "ta": {
         "q": "நூலின்படி, வடகோளார்த்தம் தென்கோளார்த்தத்தை விட அதிக சராசரி வெப்பநிலையைக் கொண்டிருப்பதற்குக் காரணம்",
         "options": [
-          "அங்கு மேகங்கள் குறைவு",
-          "அது சூரியனுக்கு அருகில் உள்ளது",
-          "அங்கு கடல் நீரோட்டங்கள் அதிகம்",
-          "அங்கு நிலப்பரப்பு அதிகம்; நிலம் நீரை விட விரைவில் வெப்பமடையும்"
+          "அங்கு வளிமண்டலத்தில் மேகங்கள் குறைவு",
+          "அது தென்கோளார்த்தத்தை விடச் சூரியனுக்கு அருகில் உள்ளது",
+          "அங்கு வெப்பமான கடல் நீரோட்டங்கள் வலிமையானவை",
+          "அங்கு நிலம் அதிகம்; அது நீரை விட விரைவில் வெப்பமடையும்"
         ],
         "explanation": "ஒரு அலகு பரப்பை வெப்பப்படுத்த நீருக்கு நிலத்தை விட ஏறத்தாழ 2.5 மடங்கு வெப்ப ஆற்றல் தேவை."
       }
@@ -256,7 +256,7 @@
       "ta": {
         "q": "உயரம் கூடக்கூட வெப்பநிலை உயரும், சூடான காற்று குளிர்ந்த காற்றின் மேல் இருக்கும் நிலை",
         "options": [
-          "வெப்பநிலைத் தலைகீழாதல் (Inversion)",
+          "வெப்பநிலைத் தலைகீழாதல்",
           "இயல்பான வெப்பச்சரிவு விகிதம்",
           "வெப்பநிலைச் சரிவு",
           "வெப்ப வரவு செலவு"
@@ -392,7 +392,7 @@
         "q": "An urban heat island is formed because the urban area has",
         "options": [
           "more forests than the rural area",
-          "high-rise concrete buildings, metal roads and sparse vegetation",
+          "concrete buildings and sparse vegetation",
           "more water bodies than the rural area",
           "higher altitude than the surroundings"
         ],
@@ -402,7 +402,7 @@
         "q": "நகரப் பகுதியில் வெப்பத் தீவு (Urban heat island) உருவாகக் காரணம், அங்கு",
         "options": [
           "கிராமப் பகுதியை விட அதிகக் காடுகள் இருப்பது",
-          "உயர் கான்கிரீட் கட்டடங்கள், உலோகச் சாலைகள், குறைந்த தாவரப் போர்வை இருப்பது",
+          "கான்கிரீட் கட்டடங்களும் குறைந்த தாவரங்களும் இருப்பது",
           "கிராமப் பகுதியை விட அதிக நீர்நிலைகள் இருப்பது",
           "சுற்றுப்புறத்தை விட அதிக உயரத்தில் இருப்பது"
         ],
@@ -420,7 +420,7 @@
       "en": {
         "q": "Which is the largest contributing source of greenhouse gases, according to the text?",
         "options": [
-          "Deforestation alone",
+          "Clearing of forests for land",
           "Volcanic eruptions",
           "Burning of fossil fuels",
           "Ocean evaporation"
@@ -430,10 +430,10 @@
       "ta": {
         "q": "நூலின்படி, பசுமைக்குடில் வாயுக்களின் மிகப்பெரிய பங்களிப்புக் காரணம்",
         "options": [
-          "காடழிப்பு மட்டும்",
-          "எரிமலை வெடிப்புகள்",
-          "புதைபடிவ எரிபொருட்களை எரித்தல்",
-          "கடல் ஆவியாதல்"
+          "காடுகளை அழித்து நிலமாக்குதல்",
+          "எரிமலை வெடிப்புகளின் வாயுக்கள்",
+          "புதைபடிவ எரிபொருள் எரிப்பு",
+          "கடல்நீர் அதிகம் ஆவியாதல்"
         ],
         "explanation": "தொழிற்சாலைகள், வாகனங்கள், வீடுகளிலிருந்து புதைபடிவ எரிபொருள் எரிப்பதால் கார்பன் டை ஆக்சைடு வெளியாகிறது."
       }
@@ -594,20 +594,20 @@
       "en": {
         "q": "The sub-tropical high pressure belt (25° to 35° N and S) is called the 'Horse latitudes' because",
         "options": [
-          "horses were reportedly thrown into the sea to lighten ships slowed by the calm",
-          "wild horses live in this belt",
-          "horse traders used this route",
-          "winds here blow like galloping horses"
+          "horses were reportedly thrown overboard from becalmed ships",
+          "large herds of wild horses live in this belt",
+          "horse traders used this route for centuries",
+          "winds here blow strongly like galloping horses"
         ],
         "explanation": "Sinking air here forms a high pressure belt that divides into the trade winds and the westerlies."
       },
       "ta": {
         "q": "துணை அயன உயர் அழுத்த மண்டலம் (25°-35° வ, தெ) 'குதிரை அட்சங்கள்' (Horse latitudes) என அழைக்கப்படக் காரணம்",
         "options": [
-          "அமைதியால் மெதுவான கப்பல்களின் எடையைக் குறைக்கக் குதிரைகள் கடலில் வீசப்பட்டதாகக் கூறப்படுவது",
-          "இங்கு காட்டுக் குதிரைகள் வாழ்வது",
-          "குதிரை வணிகர்கள் இவ்வழியைப் பயன்படுத்தியது",
-          "இங்கு காற்று குதிரை ஓட்டம் போல வீசுவது"
+          "அமைதியில் சிக்கிய கப்பல்களிலிருந்து குதிரைகள் வீசப்பட்டதாகக் கூறப்படுவது",
+          "இங்கு காட்டுக் குதிரைகள் பெருங்கூட்டமாக வாழ்ந்து வருவது",
+          "குதிரை வணிகர்கள் பல நூற்றாண்டுகளாக இவ்வழியைப் பயன்படுத்தியது",
+          "இங்கு காற்று குதிரை ஓட்டம் போல வலுவாக வீசிக் கொண்டிருப்பது"
         ],
         "explanation": "இங்கு காற்று இறங்கி உயர் அழுத்த மண்டலம் உருவாகி, வாணிபக் காற்றுகளாகவும் மேலைக் காற்றுகளாகவும் பிரிகிறது."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "The region where both trade wind systems meet is known as the",
         "options": [
-          "Subtropical jet",
-          "Polar front",
-          "Horse latitudes",
-          "Inter Tropical Convergence Zone (ITCZ)"
+          "Subtropical westerly jet stream",
+          "Polar front in the high latitudes",
+          "Horse latitudes of the subtropics",
+          "Inter Tropical Convergence Zone"
         ],
         "explanation": "These pressure belts and wind systems shift about 5 degrees north and south with the apparent movement of the sun."
       },
       "ta": {
         "q": "இரு வாணிபக் காற்று அமைப்புகளும் சந்திக்கும் பகுதி எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "துணை அயன ஜெட் காற்று",
-          "துருவ முகப்பு",
-          "குதிரை அட்சங்கள்",
-          "அயன மண்டல ஒருங்கிணைவுப் பகுதி (ITCZ)"
+          "துணை அயன மேலைக் காற்று ஜெட் ஓட்டம்",
+          "உயர் அட்சங்களிலுள்ள துருவ முகப்பு",
+          "துணை அயன மண்டலத்தின் குதிரை அட்சங்கள்",
+          "அயன மண்டல ஒருங்கிணைவுப் பகுதி"
         ],
         "explanation": "இந்த அழுத்த மண்டலங்களும் காற்றுகளும் சூரியனின் தோற்ற நகர்வுடன் ஏறத்தாழ 5° வடக்கு, தெற்காக நகரும்."
       }
@@ -768,20 +768,20 @@
       "en": {
         "q": "Which place in India receives the first rainfall of the south west monsoon, around mid-May?",
         "options": [
-          "Mawsynram",
-          "Thiruvananthapuram",
+          "Mawsynram in Meghalaya",
+          "Thiruvananthapuram in Kerala",
           "Indira Point in Great Nicobar",
-          "Port Blair"
+          "Port Blair in South Andaman"
         ],
         "explanation": "The Bay of Bengal branch brings orographic rainfall to Sri Lanka and the Andaman and Nicobar Islands."
       },
       "ta": {
         "q": "தென்மேற்குப் பருவமழையின் முதல் மழையை மே மாத நடுவில் இந்தியாவில் பெறும் இடம்",
         "options": [
-          "மௌசின்ராம்",
-          "திருவனந்தபுரம்",
+          "மேகாலயாவின் மௌசின்ராம்",
+          "கேரளாவின் திருவனந்தபுரம்",
           "கிரேட் நிக்கோபாரின் இந்திரா முனை",
-          "போர்ட் பிளேர்"
+          "தெற்கு அந்தமானின் போர்ட் பிளேர்"
         ],
         "explanation": "வங்காள விரிகுடாக் கிளை இலங்கை, அந்தமான் நிக்கோபார் தீவுகளுக்கு மலைத்தடை மழையைத் தருகிறது."
       }
@@ -797,20 +797,20 @@
       "en": {
         "q": "Why does the Coromandel Coast not get enough rainfall during the south west monsoon?",
         "options": [
-          "The Coromandel Coast has no mountains",
+          "The Coromandel Coast has no mountains along it",
           "The Western Ghats block the Bay of Bengal branch",
-          "The wind blows from land to sea",
-          "The Bay of Bengal branch flows parallel to the east coast and the Eastern Ghats"
+          "The monsoon wind blows from land towards the sea",
+          "The Bay of Bengal branch flows parallel to the east coast"
         ],
         "explanation": "The Coromandel Coast and Sri Lanka get rainfall during the north east monsoon."
       },
       "ta": {
         "q": "தென்மேற்குப் பருவமழைக் காலத்தில் கோரமண்டல் கடற்கரைக்குப் போதிய மழை கிடைக்காதது ஏன்?",
         "options": [
-          "கோரமண்டல் கடற்கரையில் மலைகள் இல்லாததால்",
+          "கோரமண்டல் கடற்கரையை ஒட்டி எந்த மலைத்தொடரும் இல்லாததால்",
           "மேற்குத் தொடர்ச்சி மலை வங்காள விரிகுடாக் கிளையைத் தடுப்பதால்",
-          "காற்று நிலத்திலிருந்து கடலுக்கு வீசுவதால்",
-          "வங்காள விரிகுடாக் கிளைக் காற்று கிழக்குக் கடற்கரைக்கும் கிழக்குத் தொடர்ச்சி மலைக்கும் இணையாக வீசுவதால்"
+          "தென்மேற்குப் பருவக்காற்று நிலத்திலிருந்து கடலை நோக்கி வீசுவதால்",
+          "வங்காள விரிகுடாக் கிளை கிழக்குக் கடற்கரைக்கு இணையாக வீசுவதால்"
         ],
         "explanation": "வடகிழக்குப் பருவக்காற்றின்போது கோரமண்டல் கடற்கரையும் இலங்கையும் மழை பெறுகின்றன."
       }
@@ -826,20 +826,20 @@
       "en": {
         "q": "The dry North East Monsoon (Retreating Monsoon) produces rainfall in which coastal regions of South Asia?",
         "options": [
-          "Only the Coromandel Coast of India and Sri Lanka",
-          "The entire west coast of India",
-          "Bangladesh and Myanmar",
-          "Pakistan and Nepal"
+          "The Coromandel Coast of India and Sri Lanka",
+          "The Konkan and Gujarat coast of India",
+          "The coasts of Bangladesh and Myanmar",
+          "The mountain regions of Pakistan and Nepal"
         ],
         "explanation": "During winter the Indian subcontinent becomes colder than the Indian Ocean, so the wind blows from the northeast to the southwest."
       },
       "ta": {
         "q": "வறண்ட வடகிழக்குப் பருவக்காற்று (பின்வாங்கும் பருவக்காற்று) தெற்காசியாவில் எந்தக் கடலோரப் பகுதிகளுக்கு மழை தருகிறது?",
         "options": [
-          "இந்தியாவின் கோரமண்டல் கடற்கரை, இலங்கை மட்டும்",
-          "இந்தியாவின் முழு மேற்குக் கடற்கரை",
-          "வங்காளதேசம், மியான்மர்",
-          "பாகிஸ்தான், நேபாளம்"
+          "இந்தியாவின் கோரமண்டல் கடற்கரை, இலங்கை",
+          "இந்தியாவின் கொங்கண், குஜராத் கடற்கரை",
+          "வங்காளதேசம், மியான்மர் கடற்கரைகள்",
+          "பாகிஸ்தான், நேபாளத்தின் மலைப்பகுதிகள்"
         ],
         "explanation": "குளிர்காலத்தில் இந்தியத் துணைக்கண்டம் இந்தியப் பெருங்கடலை விடக் குளிராவதால் காற்று வடகிழக்கிலிருந்து தென்மேற்காக வீசுகிறது."
       }
@@ -971,20 +971,20 @@
       "en": {
         "q": "The winter rainfall in Punjab and Haryana that assists wheat cultivation is brought by",
         "options": [
-          "the north east monsoon",
-          "western disturbances carried by the subtropical westerly jet stream",
-          "the tropical easterly jet stream",
-          "cyclones from the Bay of Bengal"
+          "the north east monsoon over the plains",
+          "western disturbances from the Mediterranean",
+          "the tropical easterly jet stream in summer",
+          "cyclones from the Bay of Bengal in winter"
         ],
         "explanation": "The wavy structure of the jet stream is represented as 'Rossby waves'. Western disturbances reach north-west India along the subtropical westerly jet stream."
       },
       "ta": {
         "q": "கோதுமை சாகுபடிக்கு உதவும் பஞ்சாப், ஹரியானாவின் குளிர்கால மழையைக் கொண்டு வருவது",
         "options": [
-          "வடகிழக்குப் பருவக்காற்று",
-          "துணை வெப்பமண்டல மேலைக் காற்று ஜெட் ஓட்டம் கொண்டு வரும் மேற்குச் சீர்குலைவுகள்",
-          "வெப்ப மண்டல கிழக்கு ஜெட் ஓட்டம்",
-          "வங்காள விரிகுடாப் புயல்கள்"
+          "சமவெளிகளின் மீது வீசும் வடகிழக்குப் பருவக்காற்று",
+          "மத்தியதரைக் கடலிலிருந்து வரும் மேற்குச் சீர்குலைவுகள்",
+          "கோடையில் வீசும் வெப்பமண்டல கிழக்கு ஜெட் ஓட்டம்",
+          "குளிர்காலத்தில் வங்காள விரிகுடாவிலிருந்து வரும் புயல்கள்"
         ],
         "explanation": "ஜெட் ஓட்டத்தின் அலை போன்ற அமைப்பு 'ராஸ்பி அலைகள்' எனப்படுகிறது. மேற்குச் சீர்குலைவுகள் துணை வெப்பமண்டல மேலைக் காற்று ஜெட் ஓட்டத்தின் வழியே வடமேற்கு இந்தியாவை அடைகின்றன."
       }
@@ -1000,10 +1000,10 @@
       "en": {
         "q": "Relative humidity is the ratio of absolute humidity to",
         "options": [
-          "dew point temperature",
-          "atmospheric pressure",
-          "humidity capacity, expressed as a percentage",
-          "wind speed"
+          "dew point temperature of the air",
+          "atmospheric pressure at the surface",
+          "humidity capacity of the air",
+          "speed of the surface wind"
         ],
         "explanation": "When temperature increases, relative humidity decreases; when absolute humidity increases, relative humidity increases."
       },
@@ -1184,7 +1184,7 @@
       "ta": {
         "q": "மலைத்தடை மழையில், உச்ச மழைக் கோட்டுக்குப் பின் உயரம் கூடும்போது மழை குறையும் நிலை",
         "options": [
-          "மழைத் தலைகீழாதல் (Inversion of rainfall)",
+          "மழைத் தலைகீழாதல்",
           "மழை மறைவுப் பகுதி",
           "மேக வெடிப்பு",
           "வெப்பநிலைத் தலைகீழாதல்"
@@ -1330,7 +1330,7 @@
         "q": "வெப்பமண்டலப் புயலில் மழையின்றி அமைதியாக, அதிக வெப்பநிலையும் மிகக் குறைந்த அழுத்தமும் கொண்ட பகுதி எது?",
         "options": [
           "புயல் சுவர்",
-          "புயலின் கண் (Eye)",
+          "புயலின் கண்",
           "வெளி மழைப் பட்டை",
           "கரை கடக்கும் மண்டலம்"
         ],
@@ -1378,9 +1378,9 @@
         "q": "In cloud seeding for artificial rainfall, particles of which substance are introduced into the cloud from an aeroplane?",
         "options": [
           "Sulphur powder",
-          "Common salt",
-          "Liquid nitrogen",
-          "Dry ice (solid CO2)"
+          "Powdered chalk",
+          "Charcoal dust",
+          "Dry ice pellets"
         ],
         "explanation": "Cloud seeding will not be successful unless the cloud is already saturated with water vapour."
       },
@@ -1388,9 +1388,9 @@
         "q": "செயற்கை மழைக்கான மேக விதைப்பில் வானூர்தியிலிருந்து மேகத்துக்குள் எந்தப் பொருளின் துகள்கள் தூவப்படுகின்றன?",
         "options": [
           "கந்தகத் தூள்",
-          "சமையல் உப்பு",
-          "திரவ நைட்ரஜன்",
-          "உலர் பனிக்கட்டி (திட CO₂)"
+          "சுண்ணக்கட்டித் தூள்",
+          "கரித் துகள்கள்",
+          "உலர் பனிக்கட்டி"
         ],
         "explanation": "மேகம் ஏற்கெனவே நீராவியால் நிரம்பியிருந்தால் மட்டுமே மேக விதைப்பு வெற்றி பெறும்."
       }

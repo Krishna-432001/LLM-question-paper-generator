@@ -246,20 +246,20 @@
       "en": {
         "q": "In the Permanent Settlement, the term 'Settlement' refers to",
         "options": [
-          "The assessment and fixing of the quantum of land revenue to be paid by each zamindar",
-          "The resettlement of peasants on new lands",
-          "The grant of free land to Company servants",
-          "The abolition of land revenue in Bengal"
+          "The fixing of the land revenue to be paid by each zamindar",
+          "The resettlement of peasants on newly cleared lands",
+          "The grant of free land to Company servants and soldiers",
+          "The abolition of land revenue in the province of Bengal"
         ],
         "explanation": "For Bengal, Bihar and Orissa the amount was fixed permanently, and the zamindars pocketed whatever they collected over and above it."
       },
       "ta": {
         "q": "நிலையான நிலவரித் திட்டத்தில் 'செட்டில்மென்ட்' (தீர்வு) என்பது எதைக் குறிக்கிறது?",
         "options": [
-          "ஒவ்வொரு ஜமீன்தாரும் அரசுக்குச் செலுத்த வேண்டிய நிலவரித் தொகையை மதிப்பிட்டு நிர்ணயித்தல்",
-          "உழவர்களைப் புதிய நிலங்களில் குடியமர்த்துதல்",
-          "கம்பெனி ஊழியர்களுக்கு இலவச நிலம் வழங்குதல்",
-          "வங்காளத்தில் நிலவரியை ஒழித்தல்"
+          "ஒவ்வொரு ஜமீன்தாரும் செலுத்த வேண்டிய நிலவரித் தொகையை நிர்ணயித்தல்",
+          "உழவர்களைப் புதிதாகத் திருத்திய நிலங்களில் குடியமர்த்துதல்",
+          "கம்பெனி ஊழியர்கள், படைவீரர்களுக்கு இலவச நிலம் வழங்குதல்",
+          "வங்காள மாகாணத்தின் நிலவரி வசூலையே நிறுத்திவிடுதல்"
         ],
         "explanation": "வங்காளம், பீகார், ஒரிசாவுக்கு இத்தொகை நிரந்தரமாக நிர்ணயிக்கப்பட்டது; நிர்ணயத்துக்கு மேல் வசூலித்ததை ஜமீன்தார்கள் தாமே வைத்துக்கொண்டனர்."
       }
@@ -333,9 +333,9 @@
       "en": {
         "q": "Thomas Munro conceived the idea of the Ryotwari Settlement while serving as collector of which region?",
         "options": [
-          "Thanjavur",
-          "Malabar",
-          "Madurai",
+          "The Thanjavur delta",
+          "The Malabar coast",
+          "The Madurai region",
           "The Ceded Districts"
         ],
         "explanation": "Munro had earlier worked in the Baramahal (Salem district) from 1792 to 1799 and in Kanara."
@@ -343,10 +343,10 @@
       "ta": {
         "q": "தாமஸ் மன்றோ ரயத்துவாரி முறை பற்றிய எண்ணத்தை, எந்தப் பகுதியின் ஆட்சியராகப் பணியாற்றியபோது உருவாக்கினார்?",
         "options": [
-          "தஞ்சாவூர்",
-          "மலபார்",
-          "மதுரை",
-          "ஒப்படைக்கப்பட்ட மாவட்டங்கள் (கடப்பா, கர்னூல், சித்தூர், அனந்தப்பூர்)"
+          "தஞ்சாவூர் டெல்டா பகுதி",
+          "மலபார் கடற்கரைப் பகுதி",
+          "மதுரை மாவட்டப் பகுதி",
+          "ஒப்படைக்கப்பட்ட மாவட்டங்கள்"
         ],
         "explanation": "மன்றோ அதற்கு முன் 1792–1799இல் பாரமகால் (சேலம் மாவட்டம்), கனராவிலும் பணியாற்றினார்."
       }
@@ -518,9 +518,9 @@
         "q": "துணைப்படை ஒப்பந்தப்படி, பிரிட்டிஷ் படையின் பராமரிப்புச் செலவைச் செலுத்த இந்திய ஆட்சியாளர் தவறினால் என்ன நிகழும்?",
         "options": [
           "அவரது பிரிட்டிஷ் ரெசிடென்ட் திரும்பப் பெறப்படுவார்",
-          "அவரது நிலப்பகுதியின் ஒரு பகுதி பறிக்கப்பட்டுப் பிரிட்டிஷாருக்கு ஒப்படைக்கப்படும்",
-          "அடுத்த ஆண்டு இருமடங்கு செலுத்த வேண்டும்",
-          "அவரது பட்டம் சகோதரருக்கு மாற்றப்படும்"
+          "அவரது நிலப்பகுதியின் ஒரு பகுதி பிரிட்டிஷாருக்கு ஒப்படைக்கப்படும்",
+          "அடுத்த ஆண்டு தொகையை இருமடங்கு செலுத்த வேண்டியிருக்கும்",
+          "அவரது பட்டம் அவர் சகோதரருக்கு மாற்றப்படும்"
         ],
         "explanation": "ஆட்சியாளர் தம் சொந்தப் படைகளைக் கலைத்து, பிரிட்டிஷ் படையையும் ரெசிடென்ட்டையும் ஏற்க வேண்டும்."
       }
@@ -576,9 +576,9 @@
         "q": "தலைமை நிர்வாகியின் அலுவலகம் அமைந்திருந்த இடத்தைப் பிரிட்டிஷார் எவ்வாறு அழைத்தனர்?",
         "options": [
           "சுபா",
-          "மாகாணம் (புரோவின்ஸ்)",
+          "மாகாணம்",
           "ரெசிடென்சி",
-          "மாகாணத் தலைநகரம் (ப்ரெசிடென்சி)"
+          "ப்ரெசிடென்சி"
         ],
         "explanation": "மதராஸ், பம்பாய், கல்கத்தா ஆகியவை மூன்று ப்ரெசிடென்சிகள்; பின்னர் நிர்வாகம் கடினமானபோது மத்திய, ஐக்கிய மாகாணங்கள் போன்ற புரோவின்ஸ்கள் உருவாக்கப்பட்டன."
       }
@@ -684,7 +684,7 @@
           "Dalhousie",
           "Cornwallis",
           "Wellesley",
-          "Hastings (Moira)"
+          "Hastings"
         ],
         "explanation": "He also refused to meet Emperor Akbar II unless he waived all authority over the Company's possessions."
       },
@@ -694,7 +694,7 @@
           "டல்ஹௌசி",
           "காரன்வாலிஸ்",
           "வெல்லசுலி",
-          "ஹேஸ்டிங்ஸ் (மொய்ரா)"
+          "ஹேஸ்டிங்ஸ்"
         ],
         "explanation": "கம்பெனியின் பகுதிகள் மீதான அதிகாரங்களைப் பேரரசர் இரண்டாம் அக்பர் கைவிடாதவரை அவரைச் சந்திக்கவும் அவர் மறுத்தார்."
       }
@@ -913,20 +913,20 @@
       "en": {
         "q": "Which principle did Dalhousie agree to, to support private educational effort irrespective of caste or creed?",
         "options": [
-          "English as the sole medium",
-          "Free and compulsory education",
-          "Press censorship",
-          "Grants-in-aid"
+          "Compulsory teaching of Sanskrit",
+          "Free and compulsory primary education",
+          "Censorship of school textbooks",
+          "Grants-in-aid to private schools"
         ],
         "explanation": "Dalhousie also modified Macaulay's policy by encouraging educational institutions in vernaculars."
       },
       "ta": {
         "q": "சாதி, சமய வேறுபாடின்றித் தனியார் முயற்சிகளுக்கு உதவ டல்ஹௌசி ஏற்ற கொள்கை எது?",
         "options": [
-          "ஆங்கிலம் மட்டுமே பயிற்றுமொழி",
-          "இலவச, கட்டாயக் கல்வி",
-          "பத்திரிகைத் தணிக்கை",
-          "உதவித்தொகை வழங்கல் (கிராண்ட்ஸ்-இன்-எய்டு)"
+          "சமஸ்கிருதத்தைக் கட்டாயமாகக் கற்பித்தல்",
+          "இலவச, கட்டாயத் தொடக்கக் கல்வி",
+          "பள்ளிப் பாடநூல்களின் மீதான தணிக்கை",
+          "தனியார் பள்ளிகளுக்கு உதவித்தொகை வழங்கல்"
         ],
         "explanation": "மெக்காலேயின் கொள்கையைத் திருத்தி, வட்டார மொழிகளில் கல்வி நிறுவனங்களையும் டல்ஹௌசி ஊக்குவித்தார்."
       }
@@ -1232,20 +1232,20 @@
       "en": {
         "q": "In his evidence to a Select Committee of the House of Commons in 1840, Charles Trevelyan said that the population of Dacca had fallen from 150,000 to about",
         "options": [
-          "75,000",
-          "1,00,000",
+          "70,000 or 80,000",
+          "1,00,000 or 1,10,000",
           "30,000 or 40,000",
-          "10,000"
+          "10,000 or 20,000"
         ],
         "explanation": "The fine Dacca muslins were no longer made, as the silky cotton once grown in Bengal was hardly ever seen."
       },
       "ta": {
         "q": "1840இல் இங்கிலாந்து காமன்ஸ் சபைத் தேர்வுக்குழுவிடம் சார்லஸ் ட்ரெவலியன் கூறியபடி, டாக்கா நகரின் மக்கள்தொகை 1,50,000இலிருந்து ஏறத்தாழ எவ்வளவாகக் குறைந்தது?",
         "options": [
-          "75,000",
-          "1,00,000",
+          "70,000 அல்லது 80,000",
+          "1,00,000 அல்லது 1,10,000",
           "30,000 அல்லது 40,000",
-          "10,000"
+          "10,000 அல்லது 20,000"
         ],
         "explanation": "வங்காளத்தில் முன்பு விளைந்த மென்பட்டுப் போன்ற பருத்தி மறைந்ததால் நுண்ணிய டாக்கா மஸ்லின் துணிகள் உருவாக்கப்படவில்லை."
       }
@@ -1320,7 +1320,7 @@
         "q": "Which famine, in which one third of the population died of starvation and disease, prompted Dadabhai Naoroji to begin his lifelong investigations into Indian poverty?",
         "options": [
           "The Bengal famine of 1770",
-          "The Orissa (Odisha) famine",
+          "The Orissa famine",
           "The Guntur famine of 1833",
           "The Madras famine of 1876-78"
         ],
@@ -1330,7 +1330,7 @@
         "q": "மக்கள்தொகையில் மூன்றில் ஒரு பங்கினர் பட்டினியாலும் நோயாலும் இறந்து, இந்திய வறுமை குறித்த தாதாபாய் நௌரோஜியின் வாழ்நாள் ஆய்வுகளுக்குத் தூண்டுகோலான பஞ்சம் எது?",
         "options": [
           "1770 வங்காளப் பஞ்சம்",
-          "ஒரிசா (ஒடிசா) பஞ்சம்",
+          "ஒரிசாப் பஞ்சம்",
           "1833 குண்டூர் பஞ்சம்",
           "1876–78 சென்னைப் பஞ்சம்"
         ],
@@ -1416,7 +1416,7 @@
       "ta": {
         "q": "தாதாபாய் நௌரோஜியின் கருத்துப்படி இந்தியச் செல்வம் இங்கிலாந்துக்குக் கடத்தப்பட்ட வடிவம்",
         "options": [
-          "உள்நாட்டுச் செலவுகள் (ஹோம் சார்ஜஸ்)",
+          "உள்நாட்டுச் செலவுகள்",
           "நிலவரி",
           "உப்பு வரி",
           "மகுடத்துக்கான திறை"

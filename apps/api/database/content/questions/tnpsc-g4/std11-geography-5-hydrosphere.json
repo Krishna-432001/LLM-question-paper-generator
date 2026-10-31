@@ -14,20 +14,20 @@
       "en": {
         "q": "The Earth's hydrosphere is described as a closed system because",
         "options": [
-          "the total amount of water on the Earth does not change over time",
-          "no water ever leaves the oceans",
-          "ground water never reaches the surface",
-          "rivers always flow into lakes"
+          "the total water on the Earth stays constant over time",
+          "water escapes from the oceans into space over time",
+          "ground water is lost into the Earth's mantle over time",
+          "rivers add new water to the Earth each year"
         ],
         "explanation": "Water is constantly in motion within the spheres of the Earth, transformed and reused all over the Earth."
       },
       "ta": {
         "q": "புவியின் நீர்க்கோளம் 'மூடிய அமைப்பு' என்று கூறப்படுவதற்குக் காரணம்",
         "options": [
-          "புவியிலுள்ள மொத்த நீரின் அளவு காலப்போக்கில் மாறுவதில்லை",
-          "கடல்களிலிருந்து நீர் ஒருபோதும் வெளியேறுவதில்லை",
-          "நிலத்தடி நீர் ஒருபோதும் மேற்பரப்புக்கு வருவதில்லை",
-          "ஆறுகள் எப்போதும் ஏரிகளில் கலக்கின்றன"
+          "புவியிலுள்ள மொத்த நீரின் அளவு காலப்போக்கில் மாறாமல் இருப்பது",
+          "கடல்நீர் காலப்போக்கில் விண்வெளிக்குள் வெளியேறுவது",
+          "நிலத்தடி நீர் காலப்போக்கில் புவியின் மூடகத்துள் இழக்கப்படுவது",
+          "ஆறுகள் ஒவ்வோர் ஆண்டும் புவிக்குப் புதிய நீரைச் சேர்ப்பது"
         ],
         "explanation": "நீர் புவியின் கோளங்களுக்குள் தொடர்ந்து இயங்கி மாற்றப்பட்டு மறுபயன்பாடு பெறுகிறது."
       }
@@ -82,10 +82,10 @@
       "ta": {
         "q": "புவியின் நன்னீரில் பெரும்பகுதியான 68.6% எங்கு உறைந்து காணப்படுகிறது?",
         "options": [
-          "ஆறுகள், ஏரிகளில்",
-          "நிலத்தடி நீரில்",
+          "ஆறுகள், ஏரிகளின் நீரில்",
+          "நிலத்தடி நீர்ப்படுகைகளில்",
           "பனியாறுகள், பனிமுடிகளில்",
-          "வளிமண்டலத்தில்"
+          "வளிமண்டல நீராவியில்"
         ],
         "explanation": "நன்னீரில் 30.1% நிலத்தடி நீராகவும் 1.5% மேற்பரப்பு நீராகவும் உள்ளது."
       }
@@ -104,7 +104,7 @@
           "Amarkantak in Madhya Pradesh",
           "Gangotri in Uttarakhand",
           "Nasik in Maharashtra",
-          "Talacauvery in Kodagu district of Karnataka"
+          "Talacauvery in Kodagu, Karnataka"
         ],
         "explanation": "The river Ganga has its source from the Gangotri glacier in the Himalayas."
       },
@@ -188,10 +188,10 @@
       "en": {
         "q": "Wular Lake, like Lake Baikal and the Caspian Sea, has been formed by",
         "options": [
-          "glacier action",
-          "wave deposition",
-          "earth movements (tectonic activity)",
-          "meteor impact"
+          "scouring by glacier action",
+          "deposition by sea waves",
+          "tectonic earth movements",
+          "impact of a large meteor"
         ],
         "explanation": "Lagoon lakes are formed by wave deposition; Lonar Lake is believed to be formed by a meteor impact."
       },
@@ -200,7 +200,7 @@
         "options": [
           "பனியாற்றின் செயலால்",
           "அலைகளின் படிவால்",
-          "புவி இயக்கங்களால் (தட்டு இயக்கம்)",
+          "புவித்தட்டு இயக்கங்களால்",
           "விண்கல் மோதலால்"
         ],
         "explanation": "காயல் ஏரிகள் அலைப்படிவால் உருவாகின்றன; லோனார் ஏரி விண்கல் மோதலால் உருவானதாகக் கருதப்படுகிறது."
@@ -247,9 +247,9 @@
         "q": "The Pallikaranai wetland, situated in the southern part of Chennai, is a",
         "options": [
           "fresh water swamp",
-          "salt marsh",
-          "lagoon lake",
-          "coral reef"
+          "salt water marsh",
+          "brackish lagoon lake",
+          "shallow coral reef"
         ],
         "explanation": "A swamp is a wetland with lush trees and vines beside slow-moving rivers; the Rann of Kutch is a salt marsh."
       },
@@ -275,10 +275,10 @@
       "en": {
         "q": "The entry of sea water into a coastal aquifer when excessive water is drawn from it is termed",
         "options": [
-          "upwelling",
+          "coastal upwelling",
           "saltwater intrusion",
-          "downwelling",
-          "salination"
+          "coastal downwelling",
+          "coastal siltation"
         ],
         "explanation": "Excessive pumping of coastal aquifers lets sea water enter them."
       },
@@ -316,7 +316,7 @@
         "options": [
           "பத்து தொடர் ஆண்டுகள்",
           "ஓராண்டு",
-          "இரண்டு தொடர் ஆண்டுகளுக்கு மேல்",
+          "இரண்டு தொடர் ஆண்டுகள்",
           "ஒரு பருவம்"
         ],
         "explanation": "பெரும்பாலான நிரந்தரப் பனிநிலங்கள் உயர் அட்சங்களில் உள்ளன; ஆனால் தாழ் அட்ச உயர்மலைகளிலும் இருக்கலாம்."
@@ -391,20 +391,20 @@
       "en": {
         "q": "The term 'ocean' takes its origin from the Greek word 'Oceaonus', meaning",
         "options": [
-          "a peaceful water body",
-          "an enormous river encircling the earth",
-          "a salty lake",
-          "a deep trench"
+          "a calm and peaceful water body",
+          "a vast river encircling the earth",
+          "a large inland salt lake",
+          "a deep trench in the sea floor"
         ],
         "explanation": "The area of the World Ocean is 361 million sq km; the five oceans are interconnected as one Global Ocean."
       },
       "ta": {
         "q": "'ஓஷன்' (பெருங்கடல்) என்ற சொல் பெறப்பட்ட கிரேக்கச் சொல் 'ஓசியானஸ்' என்பதன் பொருள்",
         "options": [
-          "அமைதியான நீர்ப்பரப்பு",
-          "புவியைச் சுற்றியுள்ள மாபெரும் ஆறு",
-          "உப்பு ஏரி",
-          "ஆழமான அகழி"
+          "அமைதியான பரந்த நீர்ப்பரப்பு",
+          "புவியைச் சுற்றிய மாபெரும் ஆறு",
+          "பெரிய உள்நாட்டு உப்பு ஏரி",
+          "கடலடியிலுள்ள ஆழமான அகழி"
         ],
         "explanation": "உலகப் பெருங்கடலின் பரப்பு 361 மில்லியன் ச.கி.மீ; ஐந்து பெருங்கடல்களும் இணைந்து ஒரே உலகப் பெருங்கடலாக உள்ளன."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "Mean Sea Level (MSL) is the reference point used to measure",
         "options": [
-          "only the length of rivers",
-          "only the depth of ocean trenches",
-          "the height of land features and depth of sea features",
-          "the speed of ocean currents"
+          "the length of rivers and coastlines",
+          "the salinity of sea water and lakes",
+          "heights on land and depths in the sea",
+          "the speed of ocean currents and tides"
         ],
         "explanation": "MSL is the average height of the sea surface for all stages of the tide."
       },
       "ta": {
         "q": "சராசரிக் கடல்மட்டம் (MSL) எதை அளவிடக் குறிப்புப் புள்ளியாகப் பயன்படுகிறது?",
         "options": [
-          "ஆறுகளின் நீளத்தை மட்டும்",
-          "அகழிகளின் ஆழத்தை மட்டும்",
+          "ஆறுகள், கடற்கரைகளின் நீளம், வடிவத்தையும்",
+          "கடல்நீர், ஏரிகளின் உவர்ப்புத்தன்மை, அடர்த்தியையும்",
           "நிலத்தோற்றங்களின் உயரத்தையும் கடல் தோற்றங்களின் ஆழத்தையும்",
-          "கடல் நீரோட்டங்களின் வேகத்தை"
+          "கடல் நீரோட்டங்கள், அலைகளின் வேகம், திசையையும்"
         ],
         "explanation": "அலைகளின் அனைத்து நிலைகளிலும் கடல் மேற்பரப்பின் சராசரி உயரமே சராசரிக் கடல்மட்டம்."
       }
@@ -739,20 +739,20 @@
       "en": {
         "q": "INCOIS uses remotely sensed sea surface temperature to identify",
         "options": [
-          "cyclone tracks",
-          "Potential Fishing Zones for fishermen",
-          "tidal ranges",
-          "ocean salinity"
+          "tracks of tropical cyclones",
+          "Potential Fishing Zones",
+          "ranges of tides along the coast",
+          "salinity of the open ocean"
         ],
         "explanation": "PFZ details are disseminated to fishermen once in every three days in regional languages."
       },
       "ta": {
         "q": "INCOIS தொலையுணரப்பட்ட கடல்மேற்பரப்பு வெப்பநிலையைக் கொண்டு எதைக் கண்டறிகிறது?",
         "options": [
-          "புயல் பாதைகளை",
-          "மீனவர்களுக்கான சாத்தியமான மீன்பிடி மண்டலங்களை",
-          "அலை வீச்சுகளை",
-          "கடல் உவர்ப்புத்தன்மையை"
+          "வெப்பமண்டலப் புயல்களின் பாதைகளை",
+          "சாத்தியமான மீன்பிடி மண்டலங்களை",
+          "கடற்கரை அலை வீச்சுகளை",
+          "திறந்த கடலின் உவர்ப்புத்தன்மையை"
         ],
         "explanation": "PFZ விவரங்கள் ஒவ்வொரு மூன்று நாட்களுக்கும் ஒருமுறை மீனவர்களுக்குப் பிராந்திய மொழிகளில் தெரிவிக்கப்படுகின்றன."
       }
@@ -926,7 +926,7 @@
           "பனியாறு",
           "பவளக் குடியிருப்பு",
           "பிளவுப் பள்ளத்தாக்கு",
-          "வெப்பப் புள்ளி (Hotspot)"
+          "வெப்பப் புள்ளி"
         ],
         "explanation": "மரியானா அகழியின் சேலஞ்சர் ஆழம் (10,994 மீ) பசிபிக்கின் ஆழமான பகுதி."
       }
@@ -981,10 +981,10 @@
       "ta": {
         "q": "கடல் மேற்பரப்பு வெப்பநிலை மிக அதிகமாக (27-30 °C) இருக்கும் இடம்",
         "options": [
-          "சரியாக நிலநடுக்கோட்டில்",
-          "நிலநடுக்கோட்டுக்குச் சில பாகைகள் வடக்கே",
-          "மகரரேகைக்கு அருகில்",
-          "துருவங்களில்"
+          "சரியாக நிலநடுக்கோட்டுக் கோட்டில்",
+          "நிலநடுக்கோட்டுக்குச் சில பாகை வடக்கே",
+          "மகரரேகைக்கு அருகிலுள்ள பகுதியில்",
+          "துருவங்களுக்கு அருகிலுள்ள பகுதியில்"
         ],
         "explanation": "குறைந்தபட்ச வெப்பநிலை துருவங்களுக்கு அருகில் -1.9 °C என்று பதிவாகியுள்ளது."
       }
@@ -1058,20 +1058,20 @@
       "en": {
         "q": "Most of the salts in the ocean are derived from",
         "options": [
-          "weathering and erosion of the earth's crust by rivers",
-          "volcanic vents alone",
-          "melting of polar ice",
-          "rainwater"
+          "weathering of the earth's crust by rivers",
+          "decomposition of dead sea plants and animals",
+          "melting of polar ice into the sea",
+          "rainwater falling on the ocean surface"
         ],
         "explanation": "Some salts are dissolved from rocks and sediments below the sea floor, while others escaped from the crust through volcanic vents."
       },
       "ta": {
         "q": "கடலிலுள்ள உப்புகளில் பெரும்பகுதி எதிலிருந்து பெறப்படுகிறது?",
         "options": [
-          "ஆறுகள் புவியோட்டை அரித்துச் சிதைப்பதிலிருந்து",
-          "எரிமலை வாய்களிலிருந்து மட்டும்",
-          "துருவப் பனி உருகுவதிலிருந்து",
-          "மழைநீரிலிருந்து"
+          "ஆறுகள் புவியோட்டைச் சிதைப்பதிலிருந்து",
+          "இறந்த கடல் உயிரிகள் அழுகுவதிலிருந்து",
+          "துருவப் பனி கடலில் உருகுவதிலிருந்து",
+          "கடல்மேல் பொழியும் மழைநீரிலிருந்து"
         ],
         "explanation": "சில உப்புகள் கடலடிப் பாறைகள், படிவுகளிலிருந்து கரைந்தவை; சில எரிமலை வாய்கள் வழியாக வெளியேறியவை."
       }
@@ -1088,7 +1088,7 @@
         "q": "Why do the marginal areas of the oceans bordering the continents have lower salinity than their interior?",
         "options": [
           "They have higher evaporation",
-          "Rivers add fresh water to the marginal areas",
+          "Rivers bring in fresh water",
           "They receive less rainfall",
           "They are shallower and warmer"
         ],
@@ -1358,8 +1358,8 @@
       "ta": {
         "q": "வளைகுடா நீரோட்டத்தை 1513இல் கண்டறிந்தவர்",
         "options": [
-          "மெகலன்",
-          "கொலம்பஸ்",
+          "ஃபெர்டினாண்ட் மெகலன்",
+          "கிறிஸ்டோபர் கொலம்பஸ்",
           "பொன்ஸ் டி லியோன்",
           "வாஸ்கோடகாமா"
         ],

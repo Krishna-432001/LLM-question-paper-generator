@@ -276,7 +276,7 @@
         "q": "The coins of Samudragupta, a lover of poetry and music, bear the insignia of him playing the",
         "options": [
           "flute",
-          "vina (lute)",
+          "vina",
           "drum",
           "conch"
         ],
@@ -362,20 +362,20 @@
       "en": {
         "q": "Chandragupta II conquered western Malwa and Gujarat by defeating the",
         "options": [
-          "Saka rulers who had reigned there for about four centuries",
-          "Huns led by Toramana",
-          "Kushanas under Kanishka",
-          "Satavahanas under Pulumayi"
+          "Saka rulers who had reigned there for centuries",
+          "Huns led by Toramana and Mihirakula",
+          "Kushanas under Kanishka and Huvishka",
+          "Satavahanas of the Deccan under Pulumayi"
         ],
         "explanation": "After establishing himself in eastern and western India, he defeated northern rulers like the Huns, Kambojas and Kiratas."
       },
       "ta": {
         "q": "இரண்டாம் சந்திரகுப்தர் மேற்கு மாள்வாவையும் குஜராத்தையும் யாரைத் தோற்கடித்துக் கைப்பற்றினார்?",
         "options": [
-          "அங்கு சுமார் நான்கு நூற்றாண்டுகள் ஆண்ட சக அரசர்களை",
-          "தோரமானன் தலைமையிலான ஹூணர்களை",
-          "கனிஷ்கர் தலைமையிலான குஷாணர்களை",
-          "புலுமாயி தலைமையிலான சாதவாகனர்களை"
+          "அங்கு பல நூற்றாண்டுகள் ஆண்ட சக அரசர்களை",
+          "தோரமானன், மிகிரகுலன் தலைமையிலான ஹூணர்களை",
+          "கனிஷ்கர், ஹுவிஷ்கர் தலைமையிலான குஷாணர்களை",
+          "தக்காணத்தின் புலுமாயி தலைமையிலான சாதவாகனர்களை"
         ],
         "explanation": "கிழக்கு, மேற்கு இந்தியாவில் நிலைபெற்ற பின் அவர் வடக்கே ஹூணர், காம்போஜர், கிராதர் ஆகியோரையும் வென்றார்."
       }
@@ -489,9 +489,9 @@
         "q": "சக்ராதித்யர் எனவும் அழைக்கப்பட்டு நாளந்தா பல்கலைக்கழகத்தை நிறுவிய குப்த மன்னர் யார்?",
         "options": [
           "முதலாம் குமாரகுப்தர்",
-          "ஸ்கந்தகுப்தர்",
-          "புதகுப்தர்",
-          "விஷ்ணுகுப்தர்"
+          "ஸ்கந்தகுப்த மன்னர்",
+          "புதகுப்த மன்னர்",
+          "விஷ்ணுகுப்த மன்னர்"
         ],
         "explanation": "அவர் இரண்டாம் சந்திரகுப்தரின் மகனும் வாரிசும் ஆவார்."
       }
@@ -575,10 +575,10 @@
       "ta": {
         "q": "வைசாலி முத்திரைகளில் குறிப்பிடப்படும், அமாத்தியர்களுள் முதன்மையானவராகத் தோன்றும் உயர் அதிகாரி யார்?",
         "options": [
-          "ஆயுக்தகர்",
-          "கிராமிகர்",
-          "தூதகர்",
-          "குமாராமாத்தியர்"
+          "ஆயுக்தக மாகாண அதிகாரி",
+          "கிராமிக கிராமத் தலைவர்",
+          "தூதக அரசதூதர்",
+          "குமாராமாத்திய அதிகாரி"
         ],
         "explanation": "குமாராமாத்தியர் அரசர், இளவரசர், வருவாய்த் துறை அல்லது மாகாணத்துடன் இணைக்கப்பட்டிருந்தனர்; இப்பதவிகள் பரம்பரையானவை."
       }
@@ -739,10 +739,10 @@
       "en": {
         "q": "According to the Narada Smriti, the dyke called 'bardhya' served the purpose of",
         "options": [
-          "irrigation",
+          "irrigation of dry fields",
           "protecting the field from floods",
-          "storing grain",
-          "fencing the crops"
+          "storing grain after harvest",
+          "fencing the crops against cattle"
         ],
         "explanation": "The other kind, the khara, served the purpose of irrigation."
       },
@@ -768,20 +768,20 @@
       "en": {
         "q": "In the Gupta period, the practice of lease-holding reduced the permanent tenants to",
         "options": [
-          "tax-free owners",
+          "tax-free owners of the land",
           "landlords with hereditary rights",
-          "tenants at will, who could be evicted without notice",
-          "salaried officials"
+          "tenants at will, liable to eviction",
+          "salaried officials of the king"
         ],
         "explanation": "The position of the peasantry was undermined and they were reduced to serfs by caste classification and the granting of privileges and lands to others."
       },
       "ta": {
         "q": "குப்தர் காலத்தில் குத்தகை முறை நிலையான குத்தகைதாரர்களை எவ்வாறு மாற்றியது?",
         "options": [
-          "வரி விலக்குள்ள உரிமையாளர்களாக",
+          "வரி விலக்குள்ள நில உரிமையாளர்களாக",
           "பரம்பரை உரிமையுள்ள நிலப்பிரபுக்களாக",
-          "முன்னறிவிப்பின்றி வெளியேற்றப்படக்கூடிய விருப்பக் குத்தகைதாரராக",
-          "சம்பளம் பெறும் அதிகாரிகளாக"
+          "வெளியேற்றப்படக்கூடிய விருப்பக் குத்தகைதாரராக",
+          "அரசின் சம்பளம் பெறும் அதிகாரிகளாக"
         ],
         "explanation": "சாதிப் பிரிவினையும் பிறருக்கு வழங்கப்பட்ட நிலச் சலுகைகளும் உழவர்களை அடிமைநிலைக்குத் தள்ளின."
       }
@@ -913,19 +913,19 @@
       "en": {
         "q": "The Mehrauli Iron Pillar in the Qutb Minar Complex in Delhi, a monument to the craftsmanship of Gupta iron workers, is noted because it",
         "options": [
-          "was erected by the Mauryas",
-          "carries the longest Prakrit edict",
-          "was built entirely of bronze",
-          "has lasted through the centuries without rusting"
+          "was erected by the Mauryas around 250 BCE",
+          "carries a long Prakrit edict of Ashoka",
+          "was cast in a mixture of bronze and copper",
+          "has stood for centuries without rusting"
         ],
         "explanation": "It is a monolith and is identified with Chandragupta II."
       },
       "ta": {
         "q": "டெல்லி குதுப்மினார் வளாகத்திலுள்ள மெஹ்ரௌலி இரும்புத் தூண், குப்தர் கால இரும்புத் தொழிலாளரின் திறனுக்குச் சான்றாகப் புகழ்பெறக் காரணம்",
         "options": [
-          "மௌரியரால் நிறுவப்பட்டது",
-          "மிக நீண்ட பிராகிருதக் கல்வெட்டைக் கொண்டிருப்பது",
-          "முழுவதும் வெண்கலத்தால் ஆனது",
+          "மௌரியரால் கி.மு. 250இல் நிறுவப்பட்டது",
+          "அசோகரின் நீண்ட பிராகிருதக் கல்வெட்டைக் கொண்டிருப்பது",
+          "வெண்கலமும் செம்பும் கலந்து வார்க்கப்பட்டது",
           "பல நூற்றாண்டுகளாகத் துருப்பிடிக்காமல் நிலைத்திருப்பது"
         ],
         "explanation": "இது ஒற்றைக்கல் போன்ற இரும்புத் தூண்; இரண்டாம் சந்திரகுப்தருடன் அடையாளம் காணப்படுகிறது."
@@ -942,10 +942,10 @@
       "en": {
         "q": "In the Gupta economy, the 'sarthavaha' was",
         "options": [
-          "a caravan trader who carried goods to different places",
-          "a wealthy trader settled at one place",
-          "the keeper of royal records",
-          "the chief of a guild's court"
+          "a caravan trader carrying goods to many places",
+          "a wealthy merchant settled in a single city",
+          "the keeper of the royal records and seals",
+          "the chief judge of a merchant guild's court"
         ],
         "explanation": "The sresti was a trader settled at a particular place who enjoyed an eminent position by virtue of his wealth and influence."
       },
@@ -954,8 +954,8 @@
         "options": [
           "பல இடங்களுக்கு சரக்குகளைக் கொண்டுசென்ற கார்வான் வணிகர்",
           "ஓரிடத்தில் நிலைபெற்ற செல்வமிக்க வணிகர்",
-          "அரச ஆவணக் காப்பாளர்",
-          "கில்டு நீதிமன்றத் தலைவர்"
+          "அரச ஆவணங்களையும் முத்திரைகளையும் காப்பவர்",
+          "வணிகக் குழு நீதிமன்றத்தின் தலைமை நீதிபதி"
         ],
         "explanation": "'ஸ்ரேஷ்டி' ஓரிடத்தில் நிலைபெற்று செல்வத்தாலும் செல்வாக்காலும் உயர்நிலை பெற்ற வணிகர்."
       }
@@ -971,20 +971,20 @@
       "en": {
         "q": "According to the Narada and Brihaspati Smritis, a guild had a chief and how many executive officers?",
         "options": [
-          "Eight",
+          "Eight, nine or ten",
           "Two, three or five",
-          "Twelve",
-          "Thirty"
+          "Twelve, fifteen or twenty",
+          "Thirty, forty or fifty"
         ],
         "explanation": "Guild laws were apparently laid down in written documents, and guilds also acted as banks."
       },
       "ta": {
         "q": "நாரதர், பிருகஸ்பதி ஸ்மிருதிகளின்படி ஒரு வணிகக் குழுவுக்கு (கில்டு) ஒரு தலைவரும் எத்தனை நிர்வாக அதிகாரிகளும் இருந்தனர்?",
         "options": [
-          "எட்டு",
+          "எட்டு, ஒன்பது அல்லது பத்து",
           "இரண்டு, மூன்று அல்லது ஐந்து",
-          "பன்னிரண்டு",
-          "முப்பது"
+          "பன்னிரண்டு, பதினைந்து அல்லது இருபது",
+          "முப்பது, நாற்பது அல்லது ஐம்பது"
         ],
         "explanation": "குழுச் சட்டங்கள் எழுத்து வடிவில் இருந்தன; குழுக்கள் வங்கிகளாகவும் செயல்பட்டன."
       }
@@ -1032,7 +1032,7 @@
           "The Gajalakshmi",
           "The erect Buddha",
           "The dancing Siva",
-          "The great Boar (Varaha)"
+          "The great Boar"
         ],
         "explanation": "A good specimen of stone sculpture is the well-known erect Buddha from Sarnath."
       },
@@ -1042,7 +1042,7 @@
           "கஜலட்சுமி",
           "நின்ற நிலைப் புத்தர்",
           "நடனமாடும் சிவன்",
-          "மாபெரும் வராக (பன்றி) உருவம்"
+          "மாபெரும் வராக உருவம்"
         ],
         "explanation": "சாரநாத்தின் நின்ற நிலைப் புத்தர் சிலை கற்சிற்பத்துக்குச் சிறந்த எடுத்துக்காட்டு."
       }
@@ -1059,9 +1059,9 @@
         "q": "A remarkable example of Gupta metal sculpture is the copper image of the Buddha, about eighteen feet high, at",
         "options": [
           "Nalanda in Bihar",
-          "Sarnath",
-          "Ajanta",
-          "Mathura"
+          "Sarnath in Uttar Pradesh",
+          "Ajanta in Maharashtra",
+          "Mathura in Uttar Pradesh"
         ],
         "explanation": "Another example is the Sultanganj Buddha, seven-and-a-half feet in height."
       },
@@ -1069,9 +1069,9 @@
         "q": "குப்தர் காலத்தின் சிறந்த உலோகச் சிற்பமான, சுமார் பதினெட்டு அடி உயரச் செப்புப் புத்தர் சிலை எங்கு உள்ளது?",
         "options": [
           "பீகாரின் நாளந்தா",
-          "சாரநாத்",
-          "அஜந்தா",
-          "மதுரா"
+          "உத்தரப் பிரதேசத்தின் சாரநாத்",
+          "மகாராஷ்டிராவின் அஜந்தா",
+          "உத்தரப் பிரதேசத்தின் மதுரா"
         ],
         "explanation": "சுல்தான்கஞ்ச் புத்தர் சிலை ஏழரை அடி உயரமுடையது."
       }
@@ -1087,20 +1087,20 @@
       "en": {
         "q": "Why are the mural paintings of Ajanta not considered true frescoes?",
         "options": [
-          "They were painted on wood panels",
-          "They were painted after the plaster had set, not while it was damp",
-          "They were painted with oil colours",
-          "They were painted on cloth"
+          "They were painted on seasoned wooden panels",
+          "They were painted on dry plaster, not damp plaster",
+          "They were painted with thick oil colours",
+          "They were painted on stretched cloth canvases"
         ],
         "explanation": "The art of Ajanta and Bagh shows the Madhyadesa School of painting at its best."
       },
       "ta": {
         "q": "அஜந்தா சுவரோவியங்கள் உண்மையான ஃப்ரெஸ்கோ ஓவியங்களாகக் கருதப்படாததற்குக் காரணம்",
         "options": [
-          "மரப் பலகைகளில் வரையப்பட்டவை",
-          "காரை ஈரமாக இருக்கும்போது அல்லாமல் உலர்ந்த பின் வரையப்பட்டவை",
-          "எண்ணெய் வண்ணங்களால் வரையப்பட்டவை",
-          "துணியில் வரையப்பட்டவை"
+          "பதப்படுத்திய மரப் பலகைகளில் வரையப்பட்டவை",
+          "காரை உலர்ந்த பின் வரையப்பட்டவை, ஈரக்காரையில் அல்ல",
+          "அடர்த்தியான எண்ணெய் வண்ணங்களால் வரையப்பட்டவை",
+          "விரிக்கப்பட்ட துணிக் கித்தானில் வரையப்பட்டவை"
         ],
         "explanation": "அஜந்தா, பாக் ஓவியங்கள் மத்தியதேசப் பள்ளி ஓவியக் கலையின் உச்சத்தைக் காட்டுகின்றன."
       }
@@ -1232,20 +1232,20 @@
       "en": {
         "q": "Nalanda, an acclaimed Mahavihara in Magadha, flourished under the patronage of the Gupta Empire and later under",
         "options": [
-          "Kanishka",
-          "Ashoka",
+          "Kanishka of the Kushanas",
+          "Ashoka of the Mauryas",
           "Harsha, the emperor of Kanauj",
-          "Rajaraja Chola"
+          "Rajaraja Chola of Thanjavur"
         ],
         "explanation": "It was a centre of learning from the fifth century CE to c. 1200 CE and is a UNESCO World Heritage Site."
       },
       "ta": {
         "q": "மகதத்திலுள்ள நாளந்தா மகாவிஹாரம் குப்தரின் ஆதரவிலும் பின்னர் யாருடைய ஆதரவிலும் செழித்தது?",
         "options": [
-          "கனிஷ்கர்",
-          "அசோகர்",
+          "குஷாணப் பேரரசர் கனிஷ்கர்",
+          "மௌரியப் பேரரசர் அசோகர்",
           "கன்னோசிப் பேரரசர் ஹர்ஷர்",
-          "இராஜராஜ சோழன்"
+          "தஞ்சையின் இராஜராஜ சோழன்"
         ],
         "explanation": "நாளந்தா பொ.ஆ. 5ஆம் நூற்றாண்டு முதல் ஏறத்தாழ 1200 வரை கல்வி மையமாக விளங்கியது; இது யுனெஸ்கோ உலகப் பாரம்பரியத் தலமாகும்."
       }
@@ -1436,8 +1436,8 @@
         "q": "Which of the following is a feudal feature listed by historian R.S. Sharma?",
         "options": [
           "Rise of a strong merchant guild economy with growing coinage",
-          "Royal grants of land with transfer of fiscal and judicial rights to the beneficiaries",
-          "Payment of officials only in gold coins",
+          "Royal land grants with fiscal and judicial rights passed to the beneficiaries",
+          "Payment of officials mainly in gold coins",
           "A decline in the obligations of the samantas"
         ],
         "explanation": "Other features include an increased incidence of forced labour and a decline in trade and coinage."
@@ -1447,7 +1447,7 @@
         "options": [
           "வலுவான வணிகக் குழுப் பொருளாதாரமும் பெருகும் நாணயப் புழக்கமும்",
           "நிலக்கொடையுடன் வரி, நீதி உரிமைகளும் பெறுநருக்கு மாற்றப்படுதல்",
-          "அதிகாரிகளுக்குப் பொற்காசுகளிலேயே ஊதியம்",
+          "அதிகாரிகளுக்குப் பெரும்பாலும் பொற்காசுகளில் ஊதியம்",
           "சாமந்தர்களின் கடமைகள் குறைதல்"
         ],
         "explanation": "கட்டாய உழைப்பு அதிகரிப்பு, வணிகம்-நாணயப் புழக்கம் வீழ்ச்சி ஆகியவையும் அம்சங்களே."

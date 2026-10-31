@@ -15,9 +15,9 @@
         "q": "The balanced boulder at Mahabalipuram known as Krishna's Butter Ball has the original Tamil name",
         "options": [
           "Vaanirai Kal",
-          "Karunkal",
-          "Kallanai",
-          "Malaikal"
+          "Karunkal Paarai",
+          "Kallanai Kal",
+          "Malaikal Paarai"
         ],
         "explanation": "The rock is 6 m high, 5 m wide and weighs over 250 tons; 'Vaanirai Kal' means 'Stone of the Sky God'."
       },
@@ -130,22 +130,22 @@
       "en": {
         "q": "Chemical weathering of granite creates altered rock substances such as",
         "options": [
-          "kaolinite (china clay)",
+          "kaolinite",
           "marble",
           "anthracite",
           "gypsum"
         ],
-        "explanation": "Chemical weathering is the decomposition of rock."
+        "explanation": "Chemical weathering is the decomposition of rock; kaolinite is also called china clay."
       },
       "ta": {
         "q": "கிரானைட்டின் வேதிச் சிதைவால் உருவாகும் மாற்றமடைந்த பாறைப் பொருள்",
         "options": [
-          "கயோலினைட் (சீனக் களிமண்)",
+          "கயோலினைட்",
           "சலவைக்கல்",
           "ஆந்த்ரசைட்",
           "ஜிப்சம்"
         ],
-        "explanation": "வேதிச் சிதைவு என்பது பாறையின் சிதைவுறுதல் ஆகும்."
+        "explanation": "வேதிச் சிதைவு என்பது பாறையின் சிதைவுறுதல் ஆகும்; கயோலினைட் சீனக் களிமண் எனவும் அழைக்கப்படும்."
       }
     },
     {
@@ -218,19 +218,19 @@
         "q": "What is the most common reason for slumping?",
         "options": [
           "Deposition of sediments at the foot of the slope",
-          "Freezing of water in rock cracks",
-          "Wind deflation on the top of the cliff",
-          "Erosion at the base of the slope reduces the support for overlying sediments"
+          "Freezing of water in cracks of the rock face above",
+          "Wind deflation removing material from the cliff top",
+          "Erosion at the base of the slope removing support above"
         ],
         "explanation": "Slump is the downward rotational slip of a great mass of bed rock from a high cliff."
       },
       "ta": {
         "q": "சரிவு நழுவலுக்கு (Slump) மிகப் பொதுவான காரணம் என்ன?",
         "options": [
-          "சரிவின் அடிப்பகுதியில் படிவுகள் குவிவது",
-          "பாறை விரிசல்களில் நீர் உறைவது",
+          "சரிவின் அடிப்பகுதியில் படிவுகள் குவிந்து சேர்வது",
+          "பாறை விரிசல்களில் நீர் உறைந்து விரிவடைவது",
           "குன்றின் உச்சியில் காற்று வீசி அரிப்பது",
-          "சரிவின் அடிப்பகுதி அரிக்கப்படுவதால் மேலுள்ள படிவுகளுக்கான தாங்குதல் குறைவது"
+          "சரிவின் அடிப்பகுதி அரிக்கப்பட்டு ஆதாரம் குறைவது"
         ],
         "explanation": "உயரமான குன்றிலிருந்து பெரிய பாறைத் திணிவு சுழல் முறையில் கீழே நழுவுவது ஸ்லம்ப் எனப்படும்."
       }
@@ -256,7 +256,7 @@
       "ta": {
         "q": "எரிமலைச் சரிவில் தொடங்கும் சேற்று ஓட்டம் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "லஹார் (Lahar)",
+          "லஹார்",
           "சரிவுக் குவியல்",
           "சரிவு நழுவல்",
           "லோயஸ்"
@@ -275,20 +275,20 @@
       "en": {
         "q": "Which is the deadliest type of debris flow?",
         "options": [
-          "Mudflow",
+          "Wet mudflow",
           "Debris avalanche",
-          "Earth flow",
-          "Soil creep"
+          "Slow earth flow",
+          "Slow soil creep"
         ],
         "explanation": "A debris avalanche is a rapidly churning mass of rock debris, soil, water and air moving down steep slopes."
       },
       "ta": {
         "q": "குப்பை ஓட்டங்களில் மிக அபாயகரமான வகை எது?",
         "options": [
-          "சேற்று ஓட்டம்",
-          "குப்பைப் பனிச்சரிவு (Debris avalanche)",
-          "மண் ஓட்டம்",
-          "மண் ஊர்தல்"
+          "ஈரமான சேற்று ஓட்டம்",
+          "குப்பைப் பனிச்சரிவு",
+          "மெதுவான மண் ஓட்டம்",
+          "மெதுவான மண் ஊர்தல்"
         ],
         "explanation": "குப்பைப் பனிச்சரிவு என்பது பாறைத் துண்டுகள், மண், நீர், காற்று கலந்து செங்குத்துச் சரிவில் வேகமாகச் சுழன்று இறங்கும் திணிவு."
       }
@@ -316,7 +316,7 @@
         "options": [
           "பாறை விழுதல்",
           "சரிவு நழுவல்",
-          "ஊர்தல் (Creep)",
+          "ஊர்தல்",
           "சேற்று ஓட்டம்"
         ],
         "explanation": "ஊர்தலால் மின்கம்பங்கள், வேலிகள், மரங்கள் சாய்ந்து காணப்படும்; தாவரங்கள் இதன் வேகத்தைக் குறைக்கும்."
@@ -363,9 +363,9 @@
         "q": "The breaking of rocks by the physical force of moving water in a river is called",
         "options": [
           "hydraulic action",
-          "corrasion",
-          "corrosion",
-          "attrition"
+          "corrasion by load",
+          "chemical corrosion",
+          "attrition of load"
         ],
         "explanation": "Corrasion is breaking of the bed and banks by fragments carried by the stream; attrition is eroded materials striking each other."
       },
@@ -577,8 +577,8 @@
         "options": [
           "கிளையாறு (Distributary)",
           "சங்கமம் (Confluence)",
-          "துணையாறு",
-          "நீர்ப்பிரிப்புக் கோடு (Water divide)"
+          "துணையாறு (Tributary)",
+          "நீர்ப்பிரிப்பு (Water divide)"
         ],
         "explanation": "இரு ஆறுகள் சேரும் இடம் சங்கமம் எனப்படும்."
       }
@@ -634,7 +634,7 @@
         "q": "'இந்தியாவின் மறைந்த கிராண்ட் கேன்யன்' எனப்படும் கண்டிகோட்டை பள்ளத்தாக்கை உருவாக்கிய ஆறு",
         "options": [
           "காவிரி",
-          "பெண்ணாறு (Pennar)",
+          "பெண்ணாறு",
           "கிருஷ்ணா",
           "கோதாவரி"
         ],
@@ -664,7 +664,7 @@
         "options": [
           "பள்ளக் கால்வாய்கள்",
           "ஆற்று மேடைகள்",
-          "சுழற்குழிகள் (Potholes)",
+          "சுழற்குழிகள்",
           "பின்னிப் பிணைந்த முகடுகள்"
         ],
         "explanation": "சுழற்குழிகள் பொதுவாக மணற்கல், கிரானைட் போன்ற முரட்டுத் துகள் பாறைகளில் உருவாகின்றன."
@@ -691,10 +691,10 @@
       "ta": {
         "q": "ஒன்று அல்லது அதற்கு மேற்பட்ட ஆறுகள் கலக்கும், திறந்த கடலுடன் தடையின்றி இணைந்த, அரை மூடிய உவர்நீர்ப் பகுதி",
         "options": [
-          "ஃபியர்டு",
+          "ஃபியர்டு (Fjord)",
           "கழிமுகம் (Delta)",
           "காயல் (Lagoon)",
-          "ஆற்றின் முகத்துவாரம் (Estuary)"
+          "முகத்துவாரம் (Estuary)"
         ],
         "explanation": "கடல்நீர், நன்னீர் இரண்டின் வரவால் ஊட்டச்சத்து மிகுவதால் முகத்துவாரங்கள் மிக உற்பத்தித்திறன் வாய்ந்த வாழிடங்கள்."
       }
@@ -836,7 +836,7 @@
       "ta": {
         "q": "நிலையான பனிப்பரப்பு தொடங்கும் கற்பனைக் கோடு எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
-          "பனிக்கோடு (Snow line)",
+          "பனிக்கோடு",
           "மரக்கோடு",
           "நீர்ப்பிரிப்புக் கோடு",
           "கடற்கரைக் கோடு"
@@ -942,20 +942,20 @@
       "en": {
         "q": "A hanging valley is formed when",
         "options": [
-          "tributary glaciers cut less deeply than the main glacier and remain at a higher level",
-          "the main glacier melts completely",
-          "a river cuts through a mountain ridge",
-          "two glaciers merge in the middle of a valley"
+          "tributary glaciers cut less deeply than the main glacier",
+          "the main glacier melts away before its tributary glaciers",
+          "a river cuts through a mountain ridge beside the glacier",
+          "two glaciers merge in the middle of a wide valley floor"
         ],
         "explanation": "Tributary valleys appear to hang over the main valley and enter it at some height."
       },
       "ta": {
         "q": "தொங்கு பள்ளத்தாக்கு (Hanging valley) உருவாவது எப்போது?",
         "options": [
-          "துணைப் பனியாறுகள் முதன்மைப் பனியாற்றை விட ஆழமாக அரிக்க இயலாமல் உயர் மட்டத்தில் தங்கும்போது",
-          "முதன்மைப் பனியாறு முழுவதும் உருகும்போது",
-          "ஆறு மலைமுகட்டைக் கடந்து வெட்டும்போது",
-          "இரு பனியாறுகள் பள்ளத்தாக்கின் நடுவில் இணையும்போது"
+          "துணைப் பனியாறுகள் முதன்மைப் பனியாற்றை விட ஆழம் குறைவாக அரிக்கும்போது",
+          "முதன்மைப் பனியாறு துணைப் பனியாறுகளுக்கு முன்பே உருகிவிடும்போது",
+          "ஆறு பனியாற்றின் அருகிலுள்ள மலைமுகட்டைக் கடந்து வெட்டும்போது",
+          "இரு பனியாறுகள் அகன்ற பள்ளத்தாக்கின் நடுவில் இணையும்போது"
         ],
         "explanation": "துணைப் பள்ளத்தாக்குகள் முதன்மைப் பள்ளத்தாக்கின் மேல் தொங்குவது போலத் தோன்றி சில உயரத்தில் அதில் கலக்கின்றன."
       }
@@ -982,7 +982,7 @@
         "q": "அரெட்டின் உச்சி சாய்வாக இருக்கும்போது உருவாகும் கூம்பு வடிவச் சிகரங்களான 'ஹார்ன்'களுக்கு எடுத்துக்காட்டு",
         "options": [
           "மாண்ட் பிளாங்க்",
-          "ஆல்ப்ஸின் மேட்டர்ஹார்ன்",
+          "மேட்டர்ஹார்ன்",
           "கென்யா மலை",
           "புஜி மலை"
         ],
@@ -1116,20 +1116,20 @@
       "en": {
         "q": "The name 'doline', a closed depression draining underground in karst areas, comes from the Slovenian word 'dolina' meaning",
         "options": [
-          "rock",
-          "cave",
+          "rock cleft",
+          "cave passage",
           "valley",
-          "lake"
+          "lake basin"
         ],
         "explanation": "A doline can be cylindrical, conical, bowl or dish shaped, with a diameter from a few metres to hundreds of metres."
       },
       "ta": {
         "q": "கார்ஸ்ட் பகுதிகளில் நிலத்தடியில் வடியும் மூடிய பள்ளமான 'டோலைன்' என்ற பெயர், ஸ்லோவேனிய மொழிச் சொல் 'டோலினா' என்பதன் பொருளிலிருந்து வந்தது; அதன் பொருள்",
         "options": [
-          "பாறை",
-          "குகை",
+          "பாறைப் பிளவு",
+          "குகைப் பாதை",
           "பள்ளத்தாக்கு",
-          "ஏரி"
+          "ஏரிப் படுகை"
         ],
         "explanation": "டோலைன் உருளை, கூம்பு, கிண்ணம் அல்லது தட்டு வடிவில் இருக்கலாம்; விட்டம் சில மீட்டர் முதல் நூற்றுக்கணக்கான மீட்டர் வரை."
       }
@@ -1213,10 +1213,10 @@
       "ta": {
         "q": "காற்று மணல், தூசித் துகள்களை அகற்றி பாலைவனத்தில் பள்ளங்களை உருவாக்குவது",
         "options": [
-          "உராய்தல் (Abrasion)",
+          "பாறை உராய்தல் (Abrasion)",
           "காற்றுத் தூற்றல் (Deflation)",
-          "தேய்வு (Attrition)",
-          "கரைப்பு (Corrosion)"
+          "துகள் தேய்வு (Attrition)",
+          "வேதிக் கரைப்பு (Corrosion)"
         ],
         "explanation": "காற்றுத் தூற்றலால் உருவான பள்ளத்தில் நீர் நிரம்பினால் அது பாலைவனச் சோலை (Oasis) எனப்படும்."
       }
@@ -1348,20 +1348,20 @@
       "en": {
         "q": "In the hydraulic action of waves, rock is broken because",
         "options": [
-          "acids in sea water dissolve the rock",
-          "pebbles are ground against the rock",
-          "compressed air in cracks expands explosively as the waves retreat",
-          "boulders knock together and wear away"
+          "acids in sea water slowly dissolve the rock face",
+          "pebbles carried by waves are ground against the rock",
+          "compressed air in cracks expands as the waves retreat",
+          "boulders knock together and wear each other away"
         ],
         "explanation": "Waves force water and air into cracks; abrasion, corrosion and attrition are the other ways waves erode."
       },
       "ta": {
         "q": "அலைகளின் நீர்ம விசைச் செயலில் பாறை உடைவதற்குக் காரணம்",
         "options": [
-          "கடல்நீரிலுள்ள அமிலங்கள் பாறையைக் கரைப்பது",
-          "கூழாங்கற்கள் பாறையின் மீது உராய்வது",
-          "அலை பின்வாங்கும்போது விரிசல்களில் அழுத்தப்பட்ட காற்று வெடிப்புடன் விரிவடைவது",
-          "பாறைகள் ஒன்றோடொன்று மோதித் தேய்வது"
+          "கடல்நீரிலுள்ள அமிலங்கள் பாறையை மெதுவாகக் கரைப்பது",
+          "அலைகள் கொணர்ந்த கூழாங்கற்கள் பாறையின் மீது உராய்வது",
+          "அலை பின்வாங்கும்போது விரிசல்களிலுள்ள காற்று விரிவடைவது",
+          "பாறைகள் ஒன்றோடொன்று மோதி ஒன்றையொன்று தேய்ப்பது"
         ],
         "explanation": "அலைகள் நீரையும் காற்றையும் விரிசல்களுக்குள் செலுத்துகின்றன; உராய்வு, கரைப்பு, தேய்வு ஆகியவை பிற அரிப்பு முறைகள்."
       }
