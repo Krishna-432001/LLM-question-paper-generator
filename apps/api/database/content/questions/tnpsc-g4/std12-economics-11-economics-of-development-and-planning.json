@@ -141,9 +141,9 @@
         "q": "குடும்ப நுகர்வுத் தேவைக்கு மேல் விவசாயிகளிடம் மிஞ்சி, சந்தையில் விற்கக்கூடிய வேளாண் விளைச்சல்",
         "options": [
           "சந்தைப்படுத்தக்கூடிய உபரி",
-          "மூலதன ஆக்கம்",
-          "மறைமுக வேலையின்மை",
-          "இடையக இருப்பு"
+          "நிகர மூலதன ஆக்கத் தொகை",
+          "மறைமுக வேலையின்மை நிலை",
+          "அரசு வைத்திருக்கும் இடையக இருப்பு"
         ],
         "explanation": "சந்தைப்படுத்தக்கூடிய உபரி என்பது குடும்ப நுகர்வுக்கு மேற்பட்ட விளைச்சல்; அதை விற்பது வாங்கும் சக்தி, வேலைவாய்ப்பு, பிற துறை உற்பத்தியை உயர்த்துகிறது."
       }
@@ -200,7 +200,7 @@
         "options": [
           "இயற்கை வளம்",
           "மக்கள்தொகை வளர்ச்சி",
-          "புத்தாக்கம் (Innovation)",
+          "புத்தாக்கம்",
           "வெளிநாட்டு உதவி"
         ],
         "explanation": "ஜோசப் ஷும்பீட்டர் புத்தாக்கத்தையே பொருளாதார மேம்பாட்டின் காரணமாகக் கண்டார்."
@@ -230,7 +230,7 @@
           "தலைமுறைகளுக்கு இடையிலான சமத்துவம்",
           "குறிப்புத் திட்டமிடல்",
           "சமச்சீர் வளர்ச்சி",
-          "சலுகை முதலாளித்துவம் (Crony capitalism)"
+          "சலுகை முதலாளித்துவம்"
         ],
         "explanation": "சலுகை முதலாளித்துவத்தில் சலுகை பெற்ற குழுக்கள் வளர்ச்சியின் பலனைக் கைப்பற்றுவதால் பெரும்பாலான ஏழைகள் மேம்பாட்டில் பங்கேற்பதில்லை."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "'A country is poor because it is poor' sums up the idea of the",
         "options": [
-          "vicious circle of poverty (Nurkse)",
-          "big push theory",
-          "trickle-down theory",
-          "Malthusian trap only"
+          "vicious circle of poverty",
+          "big push theory of Rosenstein-Rodan",
+          "trickle-down theory of growth",
+          "Harrod-Domar model of growth"
         ],
         "explanation": "Nurkse's vicious circle of poverty: low income → low saving → low investment → low productivity → low income, keeping a country poor."
       },
       "ta": {
         "q": "'ஒரு நாடு ஏழையாக இருப்பதால் ஏழையாக இருக்கிறது' என்ற கூற்று எந்தக் கருத்தைச் சுருக்குகிறது?",
         "options": [
-          "வறுமையின் நச்சுச் சுழல் (நர்க்ஸ்)",
-          "பெரும் உந்து கோட்பாடு",
-          "கசிவுக் கோட்பாடு",
-          "மால்தூசியப் பொறி மட்டும்"
+          "வறுமையின் நச்சுச் சுழல்",
+          "ரோசென்ஸ்டீன்-ரோடனின் பெரும் உந்து கோட்பாடு",
+          "வளர்ச்சியின் கசிவுக் கோட்பாடு",
+          "ஹாரட்-டோமர் வளர்ச்சி மாதிரி"
         ],
         "explanation": "நர்க்ஸின் வறுமையின் நச்சுச் சுழல்: குறைந்த வருமானம் → குறைந்த சேமிப்பு → குறைந்த முதலீடு → குறைந்த உற்பத்தித்திறன் → குறைந்த வருமானம்."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "To break the vicious circle of poverty on the demand side, Nurkse suggested",
         "options": [
-          "reducing investment",
-          "balanced growth — simultaneous investment in many industries",
-          "relying only on agriculture",
-          "imposing higher import duties only"
+          "reducing investment in the capital goods sector",
+          "balanced growth through simultaneous investment",
+          "relying on agriculture for new investment",
+          "imposing higher import duties on consumer goods"
         ],
         "explanation": "Simultaneous investment in many industries makes workers consumers of one another's products, creating mutual demand — Nurkse's balanced growth."
       },
       "ta": {
         "q": "தேவைப் பக்கத்தில் வறுமையின் நச்சுச் சுழலை உடைக்க நர்க்ஸ் பரிந்துரைத்தது",
         "options": [
-          "முதலீட்டைக் குறைத்தல்",
-          "சமச்சீர் வளர்ச்சி — பல தொழில்களில் ஒரேநேர முதலீடு",
-          "வேளாண்மையை மட்டும் சார்ந்திருத்தல்",
-          "இறக்குமதி வரியை மட்டும் உயர்த்துதல்"
+          "மூலதனப் பொருள் துறையில் முதலீட்டைக் குறைத்தல்",
+          "ஒரேநேர முதலீட்டின் வழியே சமச்சீர் வளர்ச்சி",
+          "புதிய முதலீட்டிற்கு வேளாண்மையைச் சார்ந்திருத்தல்",
+          "நுகர்வுப் பொருள்களுக்கு இறக்குமதி வரியை உயர்த்துதல்"
         ],
         "explanation": "பல தொழில்களில் ஒரே நேரத்தில் முதலீடு செய்தால் தொழிலாளர்கள் ஒருவர் பொருளை ஒருவர் நுகர்ந்து பரஸ்பரத் தேவை உருவாகும் — நர்க்ஸின் சமச்சீர் வளர்ச்சி."
       }
@@ -372,10 +372,10 @@
       "ta": {
         "q": "15 ஆண்டு முதலீட்டுத் திட்டமான 'பம்பாய்த் திட்டத்தை' முன்வைத்தவர்கள்",
         "options": [
-          "பம்பாயின் எட்டு முன்னணித் தொழிலதிபர்கள்",
-          "எம்.என். ராய்",
-          "இந்திய தேசிய காங்கிரஸ்",
-          "ஜே.பி. நாராயண்"
+          "பம்பாயின் எட்டுத் தொழிலதிபர்கள்",
+          "மனபேந்திர நாத் ராய் குழுவினர்",
+          "இந்திய தேசிய காங்கிரஸ் செயற்குழு",
+          "ஜெயபிரகாஷ் நாராயண் குழுவினர்"
         ],
         "explanation": "பம்பாயின் எட்டு முன்னணித் தொழிலதிபர்கள் 15 ஆண்டு முதலீட்டுத் திட்டமான பம்பாய்த் திட்டத்தை முன்வைத்தனர்."
       }
@@ -634,7 +634,7 @@
         "q": "பொருளாதாரத்தில் கட்டமைப்பு மாற்றங்களைக் கொண்டுவரும் நீண்டகாலத் திட்டங்கள் வேறு எவ்வாறு அழைக்கப்படுகின்றன?",
         "options": [
           "கட்டுப்பாட்டுத் திட்டங்கள்",
-          "தொலைநோக்குத் திட்டங்கள் (Perspective plans)",
+          "தொலைநோக்குத் திட்டங்கள்",
           "ஆண்டுத் திட்டங்கள்",
           "சுழல் திட்டங்கள்"
         ],
@@ -739,20 +739,20 @@
       "en": {
         "q": "Which of these is a function of NITI Aayog?",
         "options": [
-          "Issuing currency notes",
-          "Restructuring planning into a bottom-up model and fostering cooperative federalism",
+          "Issuing currency notes and coins",
+          "Fostering cooperative federalism",
           "Allocating tax shares under Article 280",
-          "Conducting general elections"
+          "Conducting general elections to Parliament"
         ],
         "explanation": "NITI Aayog's functions include cooperative and competitive federalism, a shared national agenda, bottom-up planning, vision planning, monitoring and evaluation."
       },
       "ta": {
         "q": "கீழ்க்காணுவனவற்றுள் நிதி ஆயோக்கின் பணி எது?",
         "options": [
-          "பணத்தாள் வெளியிடுதல்",
-          "திட்டமிடலைக் கீழிருந்து மேல் மாதிரியாக மறுசீரமைத்து கூட்டுறவுக் கூட்டாட்சியை வளர்த்தல்",
+          "பணத்தாள்களையும் நாணயங்களையும் வெளியிடுதல்",
+          "கூட்டுறவுக் கூட்டாட்சியை வளர்த்தல்",
           "சரத்து 280 இன் கீழ் வரிப் பங்கு ஒதுக்குதல்",
-          "பொதுத் தேர்தல் நடத்துதல்"
+          "நாடாளுமன்றத்துக்குப் பொதுத் தேர்தல் நடத்துதல்"
         ],
         "explanation": "கூட்டுறவு–போட்டிக் கூட்டாட்சி, பகிரப்பட்ட தேசியச் செயல்திட்டம், கீழிருந்து மேல் திட்டமிடல், தொலைநோக்குத் திட்டமிடல், கண்காணிப்பு–மதிப்பீடு ஆகியவை நிதி ஆயோக்கின் பணிகள்."
       }

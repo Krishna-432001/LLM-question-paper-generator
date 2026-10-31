@@ -275,20 +275,20 @@
       "en": {
         "q": "Which statement did Adamson Hoebel make about culture?",
         "options": [
-          "It is only the art and architecture of a people",
-          "It is the sum of behaviour patterns of people acting together, belonging only to that society and not inherited biologically",
-          "It is inherited biologically from parents to children",
-          "It is the same in every society of the world"
+          "It consists only of the art and architecture a people leave behind",
+          "It is the sum of behaviour patterns of a group, not inherited biologically",
+          "It is inherited biologically from parents to children through genes",
+          "It is identical in every society, whatever the region or period"
         ],
         "explanation": "Hoebel holds that culture is the combination of behaviour patterns arising when people act together; it belongs to a particular society and does not come by biological heredity."
       },
       "ta": {
         "q": "ஆடம்சன் ஓபல் பண்பாடு குறித்துக் கூறியது எது?",
         "options": [
-          "ஒரு மக்களின் கலையும் கட்டடக் கலையும் மட்டுமே",
-          "மக்கள் கூடிச் செயற்படும்போது உண்டாகும் நடத்தை முறைகளின் சேர்மம்; அது அந்தந்தச் சமூகத்திற்கே உரியது, உயிரியல் நிலையில் மரபுரிமையாக வராதது",
-          "பெற்றோரிடமிருந்து பிள்ளைகளுக்கு உயிரியல் முறையில் வருவது",
-          "உலகின் எல்லாச் சமூகங்களிலும் ஒரே மாதிரியானது"
+          "ஒரு மக்கள் விட்டுச்செல்லும் கலையும் கட்டடக் கலையும் மட்டுமே",
+          "ஒரு குழுவின் நடத்தை முறைகளின் சேர்மம்; அது உயிரியல் நிலையில் மரபுரிமையாக வராதது",
+          "பெற்றோரிடமிருந்து பிள்ளைகளுக்கு மரபணுக்கள் வழியே உயிரியல் முறையில் வருவது",
+          "எச்சமூகமாயினும் எக்காலமாயினும் ஒரே மாதிரியானது"
         ],
         "explanation": "பண்பாடு என்பது மக்கள் அனைவரும் கூட்டாகச் செயற்படும்போது உண்டாகும் நடத்தை முறைகளின் சேர்மம்; அது அந்தந்தச் சமூகத்திற்கே உரியது; உயிரியல் நிலையில் மரபுரிமையாக வராது என்பது அவர் கருத்து."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "According to the Vazhviyal Kalanjiyam (encyclopaedia), culture consists of",
         "options": [
-          "only the wealth and trade of a society",
-          "only the religious rituals of a society",
-          "behaviour patterns, habits and traditions learned collectively by people generation after generation",
-          "only the laws made by a government"
+          "the wealth and trade accumulated by a society over time",
+          "the climate, soil and mineral resources found in a region",
+          "behaviour patterns, habits and traditions learned by people over generations",
+          "the laws and regulations made by a government for its people"
         ],
         "explanation": "The Vazhviyal Kalanjiyam defines culture as the behaviour, habits and traditions that people learn together and pass on through generations."
       },
       "ta": {
         "q": "வாழ்வியற்களஞ்சியத்தின்படி பண்பாடு என்பது",
         "options": [
-          "ஒரு சமூகத்தின் செல்வமும் வணிகமும் மட்டும்",
-          "ஒரு சமூகத்தின் சமயச் சடங்குகள் மட்டும்",
-          "மக்கள் தலைமுறை தலைமுறையாகக் குழுவாகக் கற்ற நடத்தை முறைகள், பழக்கங்கள், மரபுகளின் சேர்க்கை",
-          "அரசு இயற்றும் சட்டங்கள் மட்டும்"
+          "ஒரு சமூகம் காலப்போக்கில் சேர்த்த செல்வமும் வணிகமும்",
+          "ஒரு பகுதியில் காணப்படும் தட்பவெப்பம், மண், கனிம வளங்கள்",
+          "மக்கள் தலைமுறை தலைமுறையாகக் கற்ற நடத்தை முறைகள், பழக்கங்கள், மரபுகள்",
+          "அரசு தன் மக்களுக்காக இயற்றும் சட்டங்களும் விதிமுறைகளும்"
         ],
         "explanation": "வாழ்வியற்களஞ்சியம், மக்கள் தலைமுறை தலைமுறையாகக் குழுவாகக் கற்ற நடத்தை முறைகளும் பழக்கங்களும் மரபுகளும் சேர்ந்ததே பண்பாடு என்கிறது."
       }
@@ -565,9 +565,9 @@
       "en": {
         "q": "By what other name are the Jain scriptures known?",
         "options": [
-          "Aranyakas",
-          "Pitakas",
-          "Smritis",
+          "Vedic Aranyakas",
+          "the Pali Pitakas",
+          "Dharma Smritis",
           "Agama Siddhantas"
         ],
         "explanation": "Jain texts are also called Agama Siddhantas and are divided into Angas explaining Jain doctrines."
@@ -575,9 +575,9 @@
       "ta": {
         "q": "சமண நூல்கள் வேறு எப்பெயரால் அழைக்கப்படுகின்றன?",
         "options": [
-          "ஆரண்யகங்கள்",
-          "பீடகங்கள்",
-          "ஸ்மிருதிகள்",
+          "வேத ஆரண்யகங்கள்",
+          "பாலி பீடகங்கள்",
+          "தர்ம ஸ்மிருதிகள்",
           "ஆகம சித்தாந்தங்கள்"
         ],
         "explanation": "சமண நூல்கள் ஆகம சித்தாந்தங்கள் என்றும் அழைக்கப்படுகின்றன; அவை அங்கங்களாகப் பகுக்கப்பட்டுள்ளன."
@@ -654,7 +654,7 @@
         "options": [
           "Leaving the dead in the open",
           "Throwing the dead into rivers",
-          "Burying the dead in an urn (thazhi)",
+          "Burying the dead in an urn",
           "Burying the dead in stone tombs shaped like pyramids"
         ],
         "explanation": "The Purananuru mentions burial of the dead in urns, hero-stones, widows removing ornaments, observing widowhood vows and sati."
@@ -749,10 +749,10 @@
       "ta": {
         "q": "Folklore (நாட்டுப்புறவியல்) என்ற சொல்லை உருவாக்கியவர்",
         "options": [
-          "சு. சக்திவேல்",
+          "முனைவர் சு. சக்திவேல்",
           "வில்லியம் ஜான் தாமசு",
-          "ஈ.பி. டெய்லர்",
-          "மாக்ஸ்முல்லர்"
+          "சர் ஈ.பி. டெய்லர்",
+          "பேராசிரியர் மாக்ஸ்முல்லர்"
         ],
         "explanation": "நாட்டுப்புறவியலைக் குறிக்கும் Folklore என்ற சொல்லை வில்லியம் ஜான் தாமசு உருவாக்கினார்."
       }
@@ -797,20 +797,20 @@
       "en": {
         "q": "According to William John Thoms, folklore is",
         "options": [
-          "a branch of grammar",
-          "a modern invention of literature",
-          "a record of royal victories",
-          "a Cultural Survival, the remnant of ancient culture"
+          "a branch of Tamil grammar and prosody",
+          "a modern invention of literature and the press",
+          "a record of royal victories and conquests",
+          "a cultural survival of ancient times"
         ],
         "explanation": "Thoms's view was that folklore is the survival of ancient culture (Cultural Survival)."
       },
       "ta": {
         "q": "வில்லியம் ஜான் தாமசின் கருத்துப்படி நாட்டுப்புறவியல்",
         "options": [
-          "இலக்கணத்தின் ஒரு பிரிவு",
-          "நவீன இலக்கியக் கண்டுபிடிப்பு",
-          "அரசர் வெற்றிகளின் பதிவு",
-          "பழங்காலப் பண்பாட்டின் எச்சம் (Cultural Survival)"
+          "தமிழ் இலக்கண, யாப்பியலின் ஒரு பிரிவு",
+          "இலக்கியம், அச்சுத்துறையின் நவீனக் கண்டுபிடிப்பு",
+          "அரசர்களின் வெற்றிகள், படையெடுப்புகளின் பதிவு",
+          "பழங்காலத்தின் பண்பாட்டு எச்சம்"
         ],
         "explanation": "பழங்காலப் பண்பாட்டின் எச்சமே (Cultural Survival) நாட்டுப்புறவியல் என்பது தாமசின் கருத்து."
       }
@@ -855,20 +855,20 @@
       "en": {
         "q": "What does Tolkappiyar's term 'Pannathi' refer to, according to the book?",
         "options": [
-          "Songs of kings",
-          "Folk songs of common people (Pamarar songs)",
-          "Hymns of the Vedas",
-          "Songs of Jain monks"
+          "Songs in praise of kings and chieftains",
+          "Folk songs of the common people",
+          "Hymns of the Vedas chanted by priests",
+          "Devotional songs of Jain monks"
         ],
         "explanation": "'Pannathi' (pan + nathi) mentioned by Tolkappiyar refers to the songs of common folk, meaning 'one who loves songs'."
       },
       "ta": {
         "q": "தொல்காப்பியர் குறிப்பிடும் 'பண்ணத்தி' என்பது எதனைக் குறிக்கும் என நூல் கூறுகிறது?",
         "options": [
-          "அரசர்களின் பாடல்கள்",
-          "பாமரர் பாடல்களான நாட்டுப்புறப் பாடல்கள்",
-          "வேதப் பாடல்கள்",
-          "சமணத் துறவிகளின் பாடல்கள்"
+          "அரசர்கள், குறுநில மன்னர்களைப் புகழும் பாடல்கள்",
+          "பாமர மக்களின் நாட்டுப்புறப் பாடல்கள்",
+          "புரோகிதர்கள் ஓதும் வேதப் பாடல்கள்",
+          "சமணத் துறவிகளின் பக்திப் பாடல்கள்"
         ],
         "explanation": "தொல்காப்பியர் குறிப்பிடும் பண்ணத்தி பாமரர் பாடல்களைக் குறிக்கும்; பண் + நத்தி என்பது பண்ணை விரும்புவது எனப் பொருள்படும்."
       }
@@ -971,20 +971,20 @@
       "en": {
         "q": "In a ballad (kathaippadal), the part in which the singer salutes the teacher who taught him is called",
         "options": [
-          "Kaappu",
-          "Guru Vanakkam",
-          "Varalaru",
-          "Vaazhi"
+          "Kaappu, the prayer to the family deity",
+          "Guru Vanakkam, the reverence at the start",
+          "Varalaru, the narration of the story",
+          "Vaazhi, the closing blessing song"
         ],
         "explanation": "A ballad has four parts: Kaappu (worship of God), Guru Vanakkam (salute to teacher), Varalaru (the story) and Vaazhi (concluding blessing)."
       },
       "ta": {
         "q": "கதைப்பாடலில் தனக்குப் பாடம் சொன்ன குருவுக்கு வணக்கம் செய்து பாடும் பகுதி",
         "options": [
-          "காப்பு",
-          "குரு வணக்கம்",
-          "வரலாறு",
-          "வாழி"
+          "காப்பு – தெய்வத்தை வேண்டும் பாடல்",
+          "குரு வணக்கம் – தொடக்கத்தில் செய்யும் வணக்கம்",
+          "வரலாறு – கதையைக் கூறும் பகுதி",
+          "வாழி – இறுதியில் பாடும் வாழ்த்து"
         ],
         "explanation": "கதைப்பாடல் காப்பு (வழிபாடு), குரு வணக்கம், வரலாறு, வாழி என நான்கு பகுதிகளைக் கொண்டது."
       }
@@ -1000,20 +1000,20 @@
       "en": {
         "q": "The proverb 'If the sugarcane stays in a bundle, ants can do nothing to it' is spoken before a panchayat begins a case in order to stress",
         "options": [
-          "punishment",
-          "wealth",
+          "harsh punishment for the guilty",
+          "wealth for the village treasury",
           "unity among the disputing parties",
-          "education"
+          "education of the village children"
         ],
         "explanation": "Village elders began a hearing with this proverb so that the brothers in dispute might drop their quarrel and live in unity."
       },
       "ta": {
         "q": "'கரும்பு கட்டோடு இருந்தால், எறும்பால் ஒன்றும் செய்ய முடியாது' என்னும் பழமொழியைப் பஞ்சாயத்தில் வழக்கைத் தொடங்குமுன் சொல்வது எதை வலியுறுத்த?",
         "options": [
-          "தண்டனையை",
-          "செல்வத்தை",
+          "குற்றவாளிக்குக் கடுமையான தண்டனையை",
+          "ஊர்ப் பொது நிதியின் செல்வத்தை",
           "வழக்காடுவோர் ஒற்றுமையாக வாழ வேண்டும் என்பதை",
-          "கல்வியை"
+          "ஊர்ப் பிள்ளைகளின் கல்வியை"
         ],
         "explanation": "அண்ணன், தம்பிகள் மனந்திருந்தி ஒற்றுமையுடன் வாழ்வதற்கு உதவுமாறு பஞ்சாயத்தார் இப்பழமொழியைச் சொல்லித் தொடங்குவர்."
       }
@@ -1174,20 +1174,20 @@
       "en": {
         "q": "What is described as the root (aaniver) of Indian culture?",
         "options": [
-          "Spirituality (aanmigam)",
-          "Trade",
-          "Warfare",
-          "Agriculture"
+          "Spirituality and faith",
+          "Trade and commerce",
+          "Warfare and conquest",
+          "Agriculture and farming"
         ],
         "explanation": "The book calls spirituality the very root of Indian culture; it stresses the unity of all and attaining the divine."
       },
       "ta": {
         "q": "இந்தியப் பண்பாட்டின் ஆணிவேராக விளங்குவது",
         "options": [
-          "ஆன்மிகம்",
-          "வணிகம்",
-          "போர்",
-          "வேளாண்மை"
+          "ஆன்மிகமும் இறைநம்பிக்கையும்",
+          "வணிகமும் வர்த்தகமும்",
+          "போரும் படையெடுப்பும்",
+          "வேளாண்மையும் உழவுத்தொழிலும்"
         ],
         "explanation": "இந்தியப் பண்பாட்டின் ஆணிவேராக ஆன்மிகம் விளங்குகிறது; ஆன்மநேய ஒருமைப்பாட்டையும் இறைத்தன்மை பெறுவதையும் அது வலியுறுத்துகிறது."
       }
@@ -1261,20 +1261,20 @@
       "en": {
         "q": "The line 'Yaathum oore yaavarum kelir' of Kaniyan Poongundranar is cited in the book as an expression of which value?",
         "options": [
-          "Penance",
-          "Non-violence",
-          "Truth",
-          "Brotherhood (sahodaratvam)"
+          "Penance and austerity for salvation",
+          "Non-violence in thought and deed",
+          "Truthfulness in speech and conduct",
+          "Brotherhood towards all people"
         ],
         "explanation": "The book cites Kaniyan Poongundranar's line under Sahodaratvam: all are brothers and sisters, all belong to one race and one family."
       },
       "ta": {
         "q": "கணியன் பூங்குன்றனாரின் 'யாதும் ஊரே யாவரும் கேளிர்' என்பதை நூல் எந்த மதிப்பீட்டுக்குச் சான்றாகக் காட்டுகிறது?",
         "options": [
-          "தவம்",
-          "அகிம்சை",
-          "சத்தியம்",
-          "சகோதரத்துவம்"
+          "முக்திக்காகத் தவமும் துறவறமும் மேற்கொள்ளல்",
+          "எண்ணத்திலும் செயலிலும் அகிம்சை கடைப்பிடித்தல்",
+          "பேச்சிலும் நடத்தையிலும் வாய்மை கடைப்பிடித்தல்",
+          "எல்லோரிடமும் சகோதரத்துவம் பேணுதல்"
         ],
         "explanation": "எல்லாரும் சகோதரரே, எல்லாரும் ஓரினம், ஓர்நிறை என்னும் சகோதரத்துவத்துக்குக் கணியன் பூங்குன்றனாரின் கருத்தும் சான்றாகக் காட்டப்படுகிறது."
       }
@@ -1350,7 +1350,7 @@
         "options": [
           "material; economic",
           "outer; inner",
-          "inner (agavalarchi); outer (puravalarchi)",
+          "inner; outer",
           "political; social"
         ],
         "explanation": "Civilisation is outer growth (puravalarchi) while culture is inner growth (agavalarchi)."
@@ -1387,9 +1387,9 @@
       "ta": {
         "q": "இனம், மொழி, சமயம், உணவு ஆகியவற்றில் வேறுபட்டாலும் இந்தியர் என்ற உணர்வில் ஒற்றுமையாக வாழ்வது எக்கருத்தை வெளிப்படுத்துகிறது?",
         "options": [
-          "இனத் தூய்மை",
-          "ஒரே தன்மை",
-          "தனிமை",
+          "இனத் தூய்மைக் கொள்கை",
+          "ஒரே தன்மை கொண்ட வாழ்வு",
+          "தனிமையில் வாழும் கொள்கை",
           "வேற்றுமையில் ஒற்றுமை"
         ],
         "explanation": "இனம், மொழி, சமயம் முதலிய வேறுபாடுகள் இருந்தும் இந்தியர் என்னும் உணர்வில் ஒற்றுமையாக வாழ்வது 'வேற்றுமையில் ஒற்றுமை' என்பதை வெளிப்படுத்துகிறது."
@@ -1435,10 +1435,10 @@
       "en": {
         "q": "Which Tamil view of life is cited in the book as an example of living in harmony with nature?",
         "options": [
-          "Wealth is the highest good",
+          "Wealth is the highest good in life",
           "Food is medicine and medicine is food",
-          "Fate cannot be changed",
-          "Work is worship"
+          "Fate cannot be changed by human effort",
+          "Work is worship offered to the gods"
         ],
         "explanation": "The book says our ancestors worshipped nature and followed natural food and healing; 'Unave marundhu, marundhe unavu' reflects the Tamil outlook."
       },

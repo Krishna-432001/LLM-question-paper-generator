@@ -14,7 +14,7 @@
       "en": {
         "q": "Trade within the political and geographical boundaries of a nation is called",
         "options": [
-          "internal (home) trade",
+          "internal trade",
           "international trade",
           "entrepôt trade",
           "external trade"
@@ -43,20 +43,20 @@
       "en": {
         "q": "Which feature distinguishes international trade from internal trade?",
         "options": [
-          "Labour and capital move freely",
-          "Different currencies are used and factors do not move easily between countries",
-          "There is only one common currency",
-          "Trade laws are the same everywhere"
+          "Labour and capital move freely across borders",
+          "Different currencies are used and factors move less freely",
+          "A single common currency is used in all countries",
+          "Trade laws are uniform between the two trading countries"
         ],
         "explanation": "International trade involves different currencies, restrictions like tariffs and quotas, and low mobility of labour and capital between nations."
       },
       "ta": {
         "q": "பன்னாட்டு வணிகத்தை உள்நாட்டு வணிகத்திலிருந்து வேறுபடுத்தும் அம்சம் எது?",
         "options": [
-          "உழைப்பும் மூலதனமும் தடையின்றி நகர்கின்றன",
-          "வெவ்வேறு நாணயங்கள் பயன்படுகின்றன; காரணிகள் நாடுகளுக்கிடையே எளிதில் நகர்வதில்லை",
-          "ஒரே பொது நாணயம்",
-          "வணிகச் சட்டங்கள் எங்கும் ஒன்றே"
+          "உழைப்பும் மூலதனமும் எல்லைகளைக் கடந்து தடையின்றி நகர்கின்றன",
+          "வெவ்வேறு நாணயங்கள் பயன்படுகின்றன; காரணிகள் குறைவாகவே நகர்கின்றன",
+          "எல்லா நாடுகளிலும் ஒரே பொது நாணயம் பயன்படுகிறது",
+          "வணிகச் சட்டங்கள் வணிகம் செய்யும் இரு நாடுகளிலும் ஒரே மாதிரியானவை"
         ],
         "explanation": "பன்னாட்டு வணிகத்தில் வெவ்வேறு நாணயங்கள், சுங்கவரி–ஒதுக்கீடு போன்ற கட்டுப்பாடுகள், நாடுகளுக்கிடையே உழைப்பு–மூலதன நகர்வுக் குறைவு உள்ளன."
       }
@@ -101,9 +101,9 @@
       "en": {
         "q": "David Ricardo formulated the Comparative Cost Theory in which book (1817)?",
         "options": [
-          "Principles of Economics",
-          "The Wealth of Nations",
-          "The General Theory",
+          "Principles of Economics, by Alfred Marshall",
+          "The Wealth of Nations, by Adam Smith",
+          "The General Theory of Employment, Interest and Money",
           "Principles of Political Economy and Taxation"
         ],
         "explanation": "Ricardo's 'Principles of Political Economy and Taxation' (1817) set out the comparative cost theory, later refined by J.S. Mill, Marshall and Taussig."
@@ -111,9 +111,9 @@
       "ta": {
         "q": "டேவிட் ரிக்கார்டோ ஒப்பீட்டுச் செலவுக் கோட்பாட்டை எந்த நூலில் (1817) வகுத்தார்?",
         "options": [
-          "பொருளியல் கோட்பாடுகள்",
-          "நாடுகளின் செல்வம்",
-          "பொதுக் கோட்பாடு",
+          "ஆல்ஃபிரட் மார்ஷலின் பொருளியல் கோட்பாடுகள்",
+          "ஆடம் ஸ்மித்தின் நாடுகளின் செல்வம்",
+          "கீன்ஸின் வேலைவாய்ப்பு, வட்டி, பணம் பற்றிய பொதுக் கோட்பாடு",
           "அரசியல் பொருளாதாரம், வரிவிதிப்பின் கோட்பாடுகள்"
         ],
         "explanation": "ரிக்கார்டோவின் 'அரசியல் பொருளாதாரம், வரிவிதிப்பின் கோட்பாடுகள்' (1817) ஒப்பீட்டுச் செலவுக் கோட்பாட்டை முன்வைத்தது; பின்னர் ஜே.எஸ். மில், மார்ஷல், டாசிக் செம்மைப்படுத்தினர்."
@@ -130,20 +130,20 @@
       "en": {
         "q": "According to Ricardo, if a country has an absolute advantage in producing both goods, it should",
         "options": [
-          "specialise in the good in which its advantage is comparatively greater",
-          "produce both goods and not trade",
-          "stop producing both goods",
-          "import both goods"
+          "specialise in the good where its advantage is greater",
+          "produce both goods and avoid foreign trade",
+          "stop producing both goods and rely on aid",
+          "import both goods from its trading partner"
         ],
         "explanation": "Trade rests on comparative cost difference: a country specialises in the good where its advantage is relatively greater, even with absolute advantage in both."
       },
       "ta": {
         "q": "ரிக்கார்டோவின்படி ஒரு நாடு இரண்டு பொருள்களின் உற்பத்தியிலும் முழுமையான நன்மை பெற்றிருந்தால் அது",
         "options": [
-          "ஒப்பீட்டளவில் அதிக நன்மையுள்ள பொருளில் சிறப்புத் தேர்ச்சி பெற வேண்டும்",
-          "இரண்டையும் உற்பத்தி செய்து வணிகம் செய்யக் கூடாது",
-          "இரண்டின் உற்பத்தியையும் நிறுத்த வேண்டும்",
-          "இரண்டையும் இறக்குமதி செய்ய வேண்டும்"
+          "தன் நன்மை ஒப்பீட்டளவில் அதிகமுள்ள பொருளில் சிறப்புத் தேர்ச்சி பெற வேண்டும்",
+          "இரண்டையும் உற்பத்தி செய்து வெளிநாட்டு வணிகத்தைத் தவிர்க்க வேண்டும்",
+          "இரண்டின் உற்பத்தியையும் நிறுத்தி உதவியை நம்பியிருக்க வேண்டும்",
+          "இரண்டையும் வணிகக் கூட்டாளி நாட்டிடமிருந்து இறக்குமதி செய்ய வேண்டும்"
         ],
         "explanation": "வணிகத்தின் அடிப்படை ஒப்பீட்டுச் செலவு வேறுபாடு: இரண்டிலும் முழுமையான நன்மை இருந்தாலும் ஒப்பீட்டளவில் அதிக நன்மையுள்ள பொருளில் நாடு சிறப்புத் தேர்ச்சி பெறும்."
       }
@@ -316,7 +316,7 @@
         "options": [
           "இரட்டைக் காரணி வணிக விகிதம்",
           "வருமான வணிக விகிதம்",
-          "பண்ட வணிக விகிதம் (commodity terms of trade)",
+          "பண்ட வணிக விகிதம்",
           "மொத்தப் பண்டமாற்று வணிக விகிதம்"
         ],
         "explanation": "நிகரப் பண்டமாற்று வணிக விகிதம் (Px/Pm × 100, டாசிக் 1927) வைனரின் 'பண்ட வணிக விகிதம்'; டோரன்ஸ் வருமான வணிக விகிதத்தை (1948) வழங்கினார்."
@@ -362,20 +362,20 @@
       "en": {
         "q": "How does the Balance of Trade differ from the Balance of Payments?",
         "options": [
-          "Balance of Trade covers only exports and imports of goods (visible trade); BoP records all transactions with the world",
-          "Balance of Trade includes services and capital flows; BoP covers only goods",
-          "They are the same",
-          "Balance of Trade covers only gold movements"
+          "BoT covers goods trade only; BoP covers all external transactions",
+          "BoT includes services and capital flows; BoP covers goods only",
+          "They are two names for the same account of a nation's trade",
+          "BoT covers gold and silver movements only; BoP covers goods"
         ],
         "explanation": "BoT covers only visible trade in commodities; BoP is a systematic record of all economic and financial transactions with the rest of the world."
       },
       "ta": {
         "q": "வணிகச் சமநிலை (BoT) செலுத்துநிலைச் சமநிலையிலிருந்து (BoP) எவ்வாறு வேறுபடுகிறது?",
         "options": [
-          "BoT பொருள்களின் ஏற்றுமதி–இறக்குமதியை (காணக்கூடிய வணிகம்) மட்டும் உள்ளடக்கும்; BoP உலகுடனான அனைத்துப் பரிவர்த்தனைகளையும் பதிவு செய்யும்",
-          "BoT சேவைகளையும் மூலதன ஓட்டங்களையும் உள்ளடக்கும்; BoP பொருள்களை மட்டும்",
-          "இரண்டும் ஒன்றே",
-          "BoT தங்க நகர்வை மட்டும் உள்ளடக்கும்"
+          "BoT பொருள் வணிகத்தை மட்டும் கொண்டது; BoP அனைத்து வெளிப் பரிவர்த்தனைகளையும் கொண்டது",
+          "BoT சேவைகள், மூலதன ஓட்டங்களை உள்ளடக்கும்; BoP பொருள்களை மட்டும் உள்ளடக்கும்",
+          "இரண்டும் ஒரு நாட்டின் வணிகக் கணக்கைக் குறிக்கும் இரு பெயர்கள்",
+          "BoT தங்கம், வெள்ளி நகர்வை மட்டும் உள்ளடக்கும்; BoP பொருள்களை உள்ளடக்கும்"
         ],
         "explanation": "BoT பொருள்களின் காணக்கூடிய வணிகத்தை மட்டும் உள்ளடக்கும்; BoP உலகின் பிற பகுதிகளுடனான அனைத்துப் பொருளாதார, நிதிப் பரிவர்த்தனைகளின் முறையான பதிவு."
       }
@@ -432,7 +432,7 @@
         "options": [
           "கட்டமைப்புச் சமநிலைக் குலைவு",
           "சுழற்சிச் சமநிலைக் குலைவு",
-          "நீண்டகால (Secular) சமநிலைக் குலைவு",
+          "நீண்டகாலச் சமநிலைக் குலைவு",
           "தற்காலிகச் சமநிலைக் குலைவு"
         ],
         "explanation": "நீண்டகாலச் சமநிலைக் குலைவு வளர்ச்சியின் தொடக்கக் கட்டத்தில் முதலீடு சேமிப்பை மிஞ்சி, இறக்குமதி ஏற்றுமதியை மிஞ்சும்போது (1951 முதல் இந்தியா) ஏற்படுகிறது."
@@ -462,7 +462,7 @@
           "எங்கல் விளைவு",
           "பெருக்கி விளைவு",
           "வருமான விளைவு",
-          "போலிசெய் விளைவு (Demonstration effect)"
+          "வெளிக்காட்டும் விளைவு"
         ],
         "explanation": "போலிசெய் விளைவு வளரும் நாடுகளில் இறக்குமதி நாட்டத்தை உயர்த்தி, செலுத்துநிலையைப் பாதகமாக்குகிறது."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "How does Foreign Direct Investment (FDI) differ from Foreign Portfolio Investment (FPI)?",
         "options": [
-          "FPI involves management control; FDI does not",
-          "FDI involves control and participation in management; FPI seeks short-term profit without control",
-          "FDI is only in government bonds",
-          "There is no difference"
+          "FPI brings management control; FDI seeks short-term gains",
+          "FDI brings management control; FPI seeks short-term gains",
+          "FDI is mostly made in government bonds and treasury bills",
+          "The two differ mainly in the size of the amount invested"
         ],
         "explanation": "FDI brings management control and long-term stake; FPI — deposits, stocks and bonds — is motivated by short-term gains and is part of the capital account."
       },
       "ta": {
         "q": "அந்நிய நேரடி முதலீடு (FDI) அந்நியப் பங்கு முதலீட்டிலிருந்து (FPI) எவ்வாறு வேறுபடுகிறது?",
         "options": [
-          "FPI மேலாண்மைக் கட்டுப்பாடு கொண்டது; FDI இல்லை",
-          "FDI மேலாண்மையில் கட்டுப்பாடும் பங்கேற்பும் கொண்டது; FPI கட்டுப்பாடின்றிக் குறுகியகால இலாபத்தை நாடுகிறது",
-          "FDI அரசுப் பத்திரங்களில் மட்டும்",
-          "வேறுபாடு இல்லை"
+          "FPI மேலாண்மைக் கட்டுப்பாட்டைத் தரும்; FDI குறுகியகால ஆதாயத்தை நாடும்",
+          "FDI மேலாண்மைக் கட்டுப்பாட்டைத் தரும்; FPI குறுகியகால ஆதாயத்தை நாடும்",
+          "FDI பெரும்பாலும் அரசுப் பத்திரங்கள், கருவூலப் பத்திரங்களில் செய்யப்படுகிறது",
+          "இரண்டும் முதலீட்டுத் தொகையின் அளவில் முக்கியமாக வேறுபடுகின்றன"
         ],
         "explanation": "FDI மேலாண்மைக் கட்டுப்பாட்டையும் நீண்டகாலப் பங்கையும் கொண்டது; வைப்பு, பங்கு, பத்திரங்களில் செய்யப்படும் FPI குறுகியகால ஆதாயத்தை நோக்கியது; அது மூலதனக் கணக்கின் பகுதி."
       }

@@ -72,20 +72,20 @@
       "en": {
         "q": "A key difference between public and private finance is that the government",
         "options": [
-          "aims only at profit",
-          "cannot borrow, while individuals can",
-          "adjusts its income to its expenditure, while individuals adjust expenditure to income",
-          "cannot print currency"
+          "aims mainly at maximising profit, like a private firm",
+          "cannot borrow from the public, while individuals can",
+          "fits income to expenditure; individuals fit expenditure to income",
+          "cannot print currency to meet its own expenditure"
         ],
         "explanation": "Public finance 'decides the cloth according to the need for the coat' — government adjusts income to expenditure; private finance stitches the coat to the cloth available."
       },
       "ta": {
         "q": "பொது நிதிக்கும் தனியார் நிதிக்கும் உள்ள முக்கிய வேறுபாடு: அரசு",
         "options": [
-          "இலாபத்தை மட்டுமே நோக்கமாகக் கொண்டது",
-          "கடன் வாங்க இயலாது; தனிநபர்கள் இயலும்",
-          "செலவுக்கு ஏற்ப வருமானத்தைச் சரிசெய்கிறது; தனிநபர்கள் வருமானத்துக்கு ஏற்பச் செலவைச் சரிசெய்கின்றனர்",
-          "பணம் அச்சிட இயலாது"
+          "தனியார் நிறுவனம் போல இலாபத்தை அதிகரிப்பதையே முதன்மை நோக்கமாகக் கொண்டது",
+          "பொதுமக்களிடம் கடன் வாங்க இயலாது; தனிநபர்கள் இயலும்",
+          "வருமானத்தைச் செலவுக்கு ஏற்ப அமைக்கிறது; தனிநபர்கள் செலவை வருமானத்துக்கு ஏற்ப அமைக்கின்றனர்",
+          "தன் செலவை ஈடுகட்டப் பணம் அச்சிட இயலாது"
         ],
         "explanation": "பொது நிதி 'சட்டையின் தேவைக்கு ஏற்பத் துணியைத் தீர்மானிக்கிறது' — அரசு செலவுக்கேற்ப வருமானத்தைச் சரிசெய்கிறது; தனியார் நிதி கிடைக்கும் துணிக்கேற்பச் சட்டை தைக்கிறது."
       }
@@ -130,20 +130,20 @@
       "en": {
         "q": "'There is no quid pro quo in a tax' means that",
         "options": [
-          "the taxpayer cannot claim any specific benefit in return for the tax",
-          "taxes are voluntary",
-          "taxes are fines for breaking the law",
-          "only the rich pay taxes"
+          "the taxpayer cannot claim a specific benefit in return for the tax",
+          "payment of taxes is a voluntary choice of every citizen",
+          "taxes are fines imposed on citizens for breaking the law",
+          "taxes are paid only by the wealthy citizens of a country"
         ],
         "explanation": "A tax is a compulsory payment with no direct return benefit (no quid pro quo); unlike a fee, which is charged for a specific service."
       },
       "ta": {
         "q": "'வரியில் பதிலுதவி (quid pro quo) இல்லை' என்பதன் பொருள்",
         "options": [
-          "வரி செலுத்துபவர் அதற்கு ஈடாக எந்தக் குறிப்பிட்ட நன்மையையும் கோர இயலாது",
-          "வரிகள் தன்விருப்பமானவை",
-          "வரிகள் சட்டத்தை மீறியதற்கான அபராதம்",
-          "பணக்காரர்கள் மட்டுமே வரி செலுத்துகின்றனர்"
+          "வரி செலுத்துபவர் அதற்கு ஈடாகக் குறிப்பிட்ட நன்மையைக் கோர இயலாது",
+          "வரி செலுத்துவது ஒவ்வொரு குடிமகனின் தன்விருப்பத் தேர்வு",
+          "சட்டத்தை மீறிய குடிமக்களுக்கு விதிக்கப்படும் அபராதமே வரி",
+          "நாட்டின் செல்வந்தர்கள் மட்டுமே வரி செலுத்துகின்றனர்"
         ],
         "explanation": "வரி நேரடிப் பதில் நன்மையில்லாத கட்டாயச் செலுத்தல்; கட்டணம் (fee) குறிப்பிட்ட சேவைக்கு வசூலிக்கப்படுவது."
       }
@@ -160,7 +160,7 @@
         "q": "The charge paid to get a passport or a driving licence is an example of",
         "options": [
           "a direct tax",
-          "a fee (non-tax revenue)",
+          "a fee",
           "an indirect tax",
           "an escheat"
         ],
@@ -170,9 +170,9 @@
         "q": "கடவுச்சீட்டு அல்லது ஓட்டுநர் உரிமம் பெறச் செலுத்தும் தொகை எதற்கு எடுத்துக்காட்டு?",
         "options": [
           "நேரடி வரி",
-          "கட்டணம் (வரியல்லா வருவாய்)",
+          "கட்டணம்",
           "மறைமுக வரி",
-          "உரிமையற்ற சொத்து (Escheat)"
+          "உரிமையற்ற சொத்து"
         ],
         "explanation": "கடவுச்சீட்டு, உரிமம் போன்ற குறிப்பிட்ட சேவைகளுக்கு வசூலிக்கப்படும் கட்டணங்கள் வரியல்லா வருவாய்."
       }
@@ -198,10 +198,10 @@
       "ta": {
         "q": "சட்டப்பூர்வ வாரிசோ உயிலோ இன்றி இறப்பவரின் சொத்தின் மீது அரசுக்கு உள்ள உரிமை",
         "options": [
-          "மூலதன வரி",
-          "மேம்பாட்டு வரி",
-          "உரிமையற்ற சொத்து அரசுக்குச் சேர்தல் (Escheat)",
-          "அபராதம்"
+          "சொத்தின் மீது ஒருமுறை விதிக்கப்படும் மூலதன வரி",
+          "சொத்து மதிப்பு உயர்வு மீதான மேம்பாட்டு வரி",
+          "உரிமையற்ற சொத்து அரசுக்குச் செல்லுதல்",
+          "சட்டமீறலுக்கு விதிக்கப்படும் அபராதத் தொகை"
         ],
         "explanation": "வாரிசோ உயிலோ இன்றி இறப்பவரின் சொத்தை அரசு எடுத்துக்கொள்வது (Escheat) ஒரு வரியல்லா வருவாய்."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "A special charge on residents whose property value rises because the government built a road or park nearby is called",
         "options": [
-          "sin tax",
-          "escheat",
-          "capital levy",
-          "betterment levy (special assessment)"
+          "sin tax on harmful goods",
+          "escheat of heirless property",
+          "capital levy on wealth",
+          "betterment levy"
         ],
         "explanation": "A betterment levy or special assessment is charged on those who gain from public projects, such as a new road raising land values."
       },
       "ta": {
         "q": "அருகில் அரசு சாலை அல்லது பூங்கா அமைத்ததால் சொத்து மதிப்பு உயர்ந்தவர்கள் மீது விதிக்கப்படும் சிறப்புக் கட்டணம்",
         "options": [
-          "தீங்குப்பொருள் வரி (Sin tax)",
-          "உரிமையற்ற சொத்து (Escheat)",
+          "தீங்குப்பொருள் வரி",
+          "உரிமையற்ற சொத்து",
           "மூலதன வரி",
-          "மேம்பாட்டு வரி (சிறப்பு மதிப்பீடு)"
+          "மேம்பாட்டு வரி"
         ],
         "explanation": "புதிய சாலை போன்ற பொதுத் திட்டங்களால் நிலமதிப்பு உயர்ந்து பயன்பெறுவோர் மீது மேம்பாட்டு வரி விதிக்கப்படுகிறது."
       }
@@ -256,7 +256,7 @@
       "ta": {
         "q": "ஆடம் ஸ்மித்தின்படி வரி வசூல் செலவு மிகக் குறைவாக இருக்க வேண்டும் என்று கூறும் வரிவிதிப்பு நெறி",
         "options": [
-          "சிக்கன நெறி (Canon of Economy)",
+          "சிக்கன நெறி",
           "திறன் நெறி",
           "உறுதி நெறி",
           "வசதி நெறி"
@@ -275,20 +275,20 @@
       "en": {
         "q": "Plans and policies on direct taxes in India are recommended by the",
         "options": [
-          "GST Council",
-          "Central Board of Direct Taxes (CBDT)",
+          "Goods and Services Tax Council",
+          "Central Board of Direct Taxes",
           "Reserve Bank of India",
-          "Finance Commission"
+          "Finance Commission of India"
         ],
         "explanation": "The CBDT, under the Ministry of Finance, recommends plans and policies on direct taxes."
       },
       "ta": {
         "q": "இந்தியாவில் நேரடி வரிகள் தொடர்பான திட்டங்களையும் கொள்கைகளையும் பரிந்துரைப்பது",
         "options": [
-          "GST மன்றம்",
-          "மத்திய நேரடி வரிகள் வாரியம் (CBDT)",
+          "பொருள், சேவை வரி மன்றம்",
+          "மத்திய நேரடி வரிகள் வாரியம்",
           "இந்திய ரிசர்வ் வங்கி",
-          "நிதிக் குழு"
+          "இந்திய நிதிக் குழு"
         ],
         "explanation": "நிதி அமைச்சகத்தின் கீழ் உள்ள மத்திய நேரடி வரிகள் வாரியம் நேரடி வரிக் கொள்கைகளைப் பரிந்துரைக்கிறது."
       }
@@ -343,10 +343,10 @@
       "ta": {
         "q": "புகையிலை, மதுபானம் போன்ற உடல்நலத்துக்குத் தீங்கான பொருள்கள் மீது விதிக்கப்படும் மறைமுக வரிகள்",
         "options": [
-          "மேம்பாட்டு வரி",
-          "தலைவரி",
-          "உரிமையற்ற சொத்து",
-          "தீங்குப்பொருள் வரிகள் (Sin taxes)"
+          "மேம்பாட்டு வரிகள்",
+          "தலை வரிகள்",
+          "உரிமையற்ற சொத்துகள்",
+          "தீங்குப்பொருள் வரிகள்"
         ],
         "explanation": "தீங்கான நுகர்வைக் கட்டுப்படுத்தப் புகையிலை, மதுபானம் போன்றவற்றின் மீது விதிக்கப்படும் வரிகள் 'சின் டாக்ஸ்' எனப்படுகின்றன."
       }
@@ -363,9 +363,9 @@
         "q": "Indirect taxes are often called regressive because",
         "options": [
           "rich and poor pay the same tax regardless of income",
-          "the rate rises with income",
-          "they are paid only by the rich",
-          "they cannot be shifted"
+          "the tax rate rises as the income of the payer rises",
+          "they are paid by the rich and not by the poor",
+          "they cannot be shifted to other persons by the payer"
         ],
         "explanation": "Indirect taxes fall equally on rich and poor buying the same goods, so they bear more heavily on the poor — regressive; direct taxes are progressive."
       },
@@ -373,9 +373,9 @@
         "q": "மறைமுக வரிகள் பெரும்பாலும் 'பின்னோக்கு வரிகள்' (regressive) எனப்படுவது ஏன்?",
         "options": [
           "வருமானம் எதுவாயினும் பணக்காரரும் ஏழையும் ஒரே வரி செலுத்துகின்றனர்",
-          "வருமானத்துடன் வீதம் உயர்கிறது",
-          "பணக்காரர்கள் மட்டுமே செலுத்துகின்றனர்",
-          "அவற்றை மாற்ற இயலாது"
+          "செலுத்துபவரின் வருமானம் உயர உயர வரி வீதமும் உயர்கிறது",
+          "பணக்காரர்கள் செலுத்துகின்றனர்; ஏழைகள் செலுத்துவதில்லை",
+          "செலுத்துபவர் அவற்றைப் பிறருக்கு மாற்ற இயலாது"
         ],
         "explanation": "ஒரே பொருளை வாங்கும் பணக்காரரும் ஏழையும் ஒரே மறைமுக வரி செலுத்துவதால் ஏழைகளுக்குச் சுமை அதிகம் — பின்னோக்கு வரி; நேரடி வரிகள் முன்னோக்கு வரிகள்."
       }
@@ -594,19 +594,19 @@
       "en": {
         "q": "A 'vote on account' allows the government to",
         "options": [
-          "withdraw money from the Consolidated Fund for necessary expenses until the full budget is passed",
-          "borrow from the IMF",
-          "skip presenting a budget",
-          "transfer funds to the states without Parliament"
+          "draw money from the Consolidated Fund until the budget is passed",
+          "borrow from the IMF and World Bank to meet its expenses",
+          "skip presenting a budget for the coming financial year",
+          "transfer funds to the states without Parliament's approval"
         ],
         "explanation": "Under Article 116, a vote on account (often in election years) permits essential spending, usually for up to two months, until the budget is passed."
       },
       "ta": {
         "q": "'இடைக்காலச் செலவு ஒப்புதல்' (Vote on account) அரசுக்கு எதை அனுமதிக்கிறது?",
         "options": [
-          "முழு வரவுசெலவு நிறைவேறும் வரை தேவையான செலவுகளுக்குத் திரள் நிதியிலிருந்து பணம் எடுக்க",
-          "IMF இடம் கடன் வாங்க",
-          "வரவுசெலவுத் திட்டம் தாக்கல் செய்யாமல் இருக்க",
+          "பட்ஜெட் நிறைவேறும் வரை திரள் நிதியிலிருந்து பணம் எடுக்க",
+          "செலவுகளுக்காக IMF, உலக வங்கியிடம் கடன் வாங்க",
+          "வரவிருக்கும் நிதியாண்டுக்கான வரவுசெலவுத் திட்டத்தைத் தாக்கல் செய்யாமல் இருக்க",
           "நாடாளுமன்ற ஒப்புதலின்றி மாநிலங்களுக்கு நிதி மாற்ற"
         ],
         "explanation": "சரத்து 116 இன் கீழ் இடைக்காலச் செலவு ஒப்புதல் (பெரும்பாலும் தேர்தல் ஆண்டுகளில்) வரவுசெலவு நிறைவேறும் வரை, பொதுவாக இரண்டு மாதம் வரை, இன்றியமையாச் செலவுகளை அனுமதிக்கிறது."
@@ -634,7 +634,7 @@
         "q": "ஒவ்வொரு செலவினத்தையும் புதியது போலப் புதிதாக மதிப்பிடும் வரவுசெலவுத் திட்டம்",
         "options": [
           "செயல்திறன் வரவுசெலவு",
-          "பூஜ்ய அடிப்படை வரவுசெலவு (Zero Base Budget)",
+          "பூஜ்ய அடிப்படை வரவுசெலவு",
           "துணை வரவுசெலவு",
           "சமநிலை வரவுசெலவு"
         ],
@@ -664,7 +664,7 @@
         "options": [
           "இடைக்காலச் செலவு ஒப்புதல்",
           "பூஜ்ய அடிப்படை வரவுசெலவு",
-          "விளைவு வரவுசெலவு (Outcome Budget)",
+          "விளைவு வரவுசெலவு",
           "துணை வரவுசெலவு"
         ],
         "explanation": "முதலில் அமெரிக்காவில் பயன்படுத்தப்பட்ட செயல்திறன் வரவுசெலவு இந்தியாவில் 'விளைவு வரவுசெலவு' எனப்படுகிறது."
@@ -913,9 +913,9 @@
       "en": {
         "q": "To fight a depression through fiscal policy, the government should",
         "options": [
-          "sell government securities",
-          "cut spending and raise taxes",
-          "raise the bank rate",
+          "sell government securities in the open market",
+          "cut its spending and raise taxation on incomes",
+          "raise the bank rate and the cash reserve ratio",
           "increase its spending and reduce taxation"
         ],
         "explanation": "In depression, more public spending and lower taxes raise aggregate demand; to control inflation, the reverse is done."

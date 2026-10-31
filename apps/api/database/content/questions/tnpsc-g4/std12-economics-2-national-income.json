@@ -200,7 +200,7 @@
         "options": [
           "காரணி வருவாய் முறை",
           "சரக்கிருப்பு முறை",
-          "செலவின (Outlay) முறை",
+          "செலவின முறை",
           "மதிப்புக்கூட்டு முறை"
         ],
         "explanation": "செலவின முறை நுகர்வு, முதலீடு, அரசுச் செலவு, நிகர ஏற்றுமதி ஆகியவற்றைக் கூட்டுகிறது: GNP = C + I + G + (X − M)."
@@ -246,20 +246,20 @@
       "en": {
         "q": "Why is an old-age pension paid by the government NOT included in national income?",
         "options": [
-          "It is a transfer payment, not a payment for current productive services",
-          "It is a capital gain",
-          "It is a windfall gain",
-          "It is an intermediate good"
+          "It is a transfer payment, not pay for current production",
+          "It is a capital gain on the sale of assets",
+          "It is a windfall gain from lotteries or prizes",
+          "It is an intermediate good used in production"
         ],
         "explanation": "Pensions and similar transfer payments are excluded because they are not received for any services in the current year."
       },
       "ta": {
         "q": "அரசு வழங்கும் முதியோர் ஓய்வூதியம் நாட்டு வருமானத்தில் சேர்க்கப்படாதது ஏன்?",
         "options": [
-          "அது நடப்பு உற்பத்திச் சேவைக்கான செலுத்தல் அல்லாத மாற்றுச் செலுத்தல்",
-          "அது மூலதன ஆதாயம்",
-          "அது எதிர்பாரா ஆதாயம்",
-          "அது இடைநிலைப் பொருள்"
+          "அது நடப்பு உற்பத்திக்கான செலுத்தல் அல்லாத மாற்றுச் செலுத்தல்",
+          "அது சொத்து விற்பனையில் கிடைத்த மூலதன ஆதாயம்",
+          "அது லாட்டரி, பரிசு போன்ற எதிர்பாரா ஆதாயம்",
+          "அது உற்பத்தியில் பயன்படும் இடைநிலைப் பொருள்"
         ],
         "explanation": "ஓய்வூதியம் போன்ற மாற்றுச் செலுத்தல்கள் நடப்பாண்டில் எந்தச் சேவைக்கும் பெறப்படாததால் நாட்டு வருமானத்தில் சேர்க்கப்படுவதில்லை."
       }
@@ -286,7 +286,7 @@
         "q": "வருமான முறையில் நாட்டு வருமானத்தைக் கணக்கிடும்போது சேர்க்கப்படாதது எது?",
         "options": [
           "சொந்த வீட்டின் மதிப்பிட்ட வாடகை",
-          "பரிசுச்சீட்டு (லாட்டரி) வெற்றித்தொகை",
+          "பரிசுச்சீட்டு வெற்றித்தொகை",
           "கூலியும் சம்பளமும்",
           "குடும்ப உழைப்பின் மதிப்பிட்ட மதிப்பு"
         ],
@@ -304,20 +304,20 @@
       "en": {
         "q": "Which of these is INCLUDED in national income under the income method?",
         "options": [
-          "Old-age pension",
-          "Sale of second-hand goods",
+          "Old-age pension from the government",
+          "Sale of second-hand goods in the market",
           "Imputed rent of self-occupied houses",
-          "Capital gains on shares"
+          "Capital gains on the sale of shares"
         ],
         "explanation": "Imputed rent for self-occupied houses or offices and imputed value of family labour are included; second-hand sales, transfers and capital gains are not."
       },
       "ta": {
         "q": "வருமான முறையில் நாட்டு வருமானத்தில் சேர்க்கப்படுவது எது?",
         "options": [
-          "முதியோர் ஓய்வூதியம்",
-          "பழைய பொருள்களின் விற்பனை",
+          "அரசு வழங்கும் முதியோர் ஓய்வூதியத் தொகை",
+          "பழைய பொருள்களின் சந்தை விற்பனை",
           "சொந்தக் குடியிருப்பு வீட்டின் மதிப்பிட்ட வாடகை",
-          "பங்குகளின் மூலதன ஆதாயம்"
+          "பங்கு விற்பனையில் கிடைக்கும் மூலதன ஆதாயம்"
         ],
         "explanation": "சொந்த வீடு அல்லது அலுவலகத்தின் மதிப்பிட்ட வாடகையும் குடும்ப உழைப்பின் மதிப்பும் சேர்க்கப்படும்; பழைய பொருள் விற்பனை, மாற்றுச் செலுத்தல், மூலதன ஆதாயம் சேர்க்கப்படாது."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "Why are the domestic services of a housewife excluded from national income, while the same services by paid servants are included?",
         "options": [
-          "Her services are counted as capital gains",
-          "Housewives pay income tax separately",
-          "Domestic work is an illegal activity",
-          "Her love and affection in domestic work cannot be measured in money terms"
+          "Her services are treated as capital gains on household assets",
+          "Housewives pay a separate income tax on domestic services",
+          "Domestic work is an illegal activity under labour law",
+          "Her domestic work, done with love, cannot be measured in money"
         ],
         "explanation": "Unpaid services like a housewife's are excluded because the love and affection behind them cannot be valued in money; paid servants' services are counted."
       },
       "ta": {
         "q": "ஊதியம் பெறும் பணியாளர்களின் அதே சேவைகள் சேர்க்கப்பட்டாலும் இல்லத்தரசியின் வீட்டுப்பணிச் சேவைகள் நாட்டு வருமானத்தில் சேர்க்கப்படாதது ஏன்?",
         "options": [
-          "அவரது சேவைகள் மூலதன ஆதாயமாகக் கணக்கிடப்படுகின்றன",
-          "இல்லத்தரசிகள் தனியாக வருமான வரி செலுத்துகின்றனர்",
-          "வீட்டுப்பணி சட்டவிரோதச் செயல்",
-          "வீட்டுப்பணியில் அவரது அன்பையும் பாசத்தையும் பணமாக அளக்க இயலாது"
+          "அவரது சேவைகள் வீட்டுச் சொத்துகளின் மூலதன ஆதாயமாகக் கருதப்படுகின்றன",
+          "இல்லத்தரசிகள் வீட்டுச் சேவைக்குத் தனி வருமான வரி செலுத்துகின்றனர்",
+          "தொழிலாளர் சட்டப்படி வீட்டுப்பணி சட்டவிரோதச் செயல்",
+          "வீட்டுப்பணி அன்போடு செய்யப்படுவதால் அதைப் பணத்தில் அளக்க இயலாது"
         ],
         "explanation": "இல்லத்தரசியின் சேவைகள் போன்ற ஊதியமில்லாச் சேவைகளுக்குப் பின்னுள்ள அன்பையும் பாசத்தையும் பணமதிப்பில் அளக்க இயலாததால் அவை சேர்க்கப்படுவதில்லை."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "Personal income is never equal to national income mainly because personal income",
         "options": [
-          "includes depreciation",
-          "excludes wages and salaries",
-          "includes transfer payments, which national income excludes",
-          "is calculated after direct taxes"
+          "includes depreciation and capital consumption allowances",
+          "excludes the wages and salaries paid to employees",
+          "includes transfer payments that national income excludes",
+          "is calculated after deducting direct taxes and savings"
         ],
         "explanation": "Personal income = national income − (social security contributions + undistributed corporate profits) + transfer payments."
       },
       "ta": {
         "q": "தனிநபர் வருமானம் ஒருபோதும் நாட்டு வருமானத்துக்குச் சமமாக இருப்பதில்லை; முக்கியக் காரணம் தனிநபர் வருமானம்",
         "options": [
-          "தேய்மானத்தை உள்ளடக்குகிறது",
-          "கூலி, சம்பளங்களை விலக்குகிறது",
+          "தேய்மானம், மூலதனப் பயன்பாட்டுப் படிகளை உள்ளடக்குகிறது",
+          "ஊழியர்களுக்கான கூலி, சம்பளங்களை விலக்குகிறது",
           "நாட்டு வருமானம் விலக்கும் மாற்றுச் செலுத்தல்களை உள்ளடக்குகிறது",
-          "நேரடி வரிகளுக்குப் பின் கணக்கிடப்படுகிறது"
+          "நேரடி வரிகளையும் சேமிப்பையும் கழித்த பின் கணக்கிடப்படுகிறது"
         ],
         "explanation": "தனிநபர் வருமானம் = நாட்டு வருமானம் − (சமூகப் பாதுகாப்புப் பங்களிப்பு + பகிரப்படாத நிறுவன இலாபம்) + மாற்றுச் செலுத்தல்கள்."
       }
@@ -623,20 +623,20 @@
       "en": {
         "q": "In India, the product method of estimating national income is applied to",
         "options": [
-          "banking and insurance",
+          "banking, insurance and real estate",
           "agriculture, mining and manufacturing",
-          "public administration",
-          "domestic services"
+          "public administration and defence",
+          "domestic services and personal care"
         ],
         "explanation": "India applies the product method to agriculture, mining and manufacturing (including handicrafts); the income method covers small enterprises, banking, commerce, professions and public authorities."
       },
       "ta": {
         "q": "இந்தியாவில் நாட்டு வருமானத்தைக் கணக்கிடும் உற்பத்தி முறை எந்தத் துறைகளுக்குப் பயன்படுத்தப்படுகிறது?",
         "options": [
-          "வங்கி, காப்பீடு",
+          "வங்கி, காப்பீடு, நிலச் சொத்துத் துறை",
           "வேளாண்மை, சுரங்கம், உற்பத்தித் தொழில்",
-          "பொது நிர்வாகம்",
-          "வீட்டுச் சேவைகள்"
+          "பொது நிர்வாகம், பாதுகாப்பு",
+          "வீட்டுச் சேவைகள், தனிநபர் பணிகள்"
         ],
         "explanation": "இந்தியா வேளாண்மை, சுரங்கம், உற்பத்தித் தொழில் (கைவினை உட்பட) ஆகியவற்றுக்கு உற்பத்தி முறையையும்; சிறு நிறுவனங்கள், வங்கி, வணிகம், தொழில்முறைகள், பொது அமைப்புகளுக்கு வருமான முறையையும் பயன்படுத்துகிறது."
       }
@@ -692,9 +692,9 @@
         "q": "சமூகக் கணக்கியலில் அஞ்சலகங்கள், இரயில்வே போன்ற பொது நிறுவனங்கள் எந்தத் துறையில் வகைப்படுத்தப்படுகின்றன?",
         "options": [
           "மூலதனத் துறை",
-          "அரசு",
+          "அரசுத் துறை",
           "குடும்பங்கள்",
-          "நிறுவனங்கள் (Firms)"
+          "நிறுவனங்கள்"
         ],
         "explanation": "அஞ்சலகங்களும் இரயில்வேயும் உற்பத்திச் செயல்பாட்டில் ஈடுபடுவதால் அரசுத் துறையிலிருந்து பிரிக்கப்பட்டு 'நிறுவனங்கள்' துறையில் சேர்க்கப்படுகின்றன."
       }

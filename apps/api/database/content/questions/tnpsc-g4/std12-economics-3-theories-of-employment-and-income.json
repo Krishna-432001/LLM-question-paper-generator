@@ -84,7 +84,7 @@
         "options": [
           "சுழற்சி வேலையின்மை",
           "கட்டமைப்பு வேலையின்மை",
-          "உராய்வு வேலையின்மை (Frictional)",
+          "உராய்வு வேலையின்மை",
           "மறைமுக வேலையின்மை"
         ],
         "explanation": "உழைப்பின் நகர்வின்மை, திறன் குறைவு, இயந்திரப் பழுது, மூலப்பொருள் பற்றாக்குறை போன்றவற்றால் புதிய வேலை தேடும் இடைக்காலத்தில் ஏற்படுவது உராய்வு (தற்காலிக) வேலையின்மை."
@@ -159,20 +159,20 @@
       "en": {
         "q": "According to the book, unemployment in developing countries like India is largely",
         "options": [
-          "purely frictional",
+          "frictional, due to delays in job search",
           "structural, due to slow capital formation",
-          "purely cyclical",
-          "voluntary"
+          "cyclical, due to business-cycle downturns",
+          "voluntary, due to workers preferring leisure"
         ],
         "explanation": "In developed countries unemployment is mostly temporary, cyclical or frictional; in developing countries it is largely structural, from slow capital formation."
       },
       "ta": {
         "q": "நூலின்படி இந்தியா போன்ற வளரும் நாடுகளில் வேலையின்மை பெரும்பாலும்",
         "options": [
-          "முற்றிலும் உராய்வு வேலையின்மை",
-          "மெதுவான மூலதன ஆக்கத்தால் ஏற்படும் கட்டமைப்பு வேலையின்மை",
-          "முற்றிலும் சுழற்சி வேலையின்மை",
-          "தன்விருப்ப வேலையின்மை"
+          "வேலை தேடுவதில் ஏற்படும் தாமதத்தால் உராய்வு வேலையின்மை",
+          "மெதுவான மூலதன ஆக்கத்தால் கட்டமைப்பு வேலையின்மை",
+          "வணிகச் சுழற்சி வீழ்ச்சியால் சுழற்சி வேலையின்மை",
+          "ஓய்வை விரும்புவதால் தன்விருப்ப வேலையின்மை"
         ],
         "explanation": "வளர்ந்த நாடுகளில் வேலையின்மை பெரும்பாலும் தற்காலிக, சுழற்சி, உராய்வு வகை; வளரும் நாடுகளில் மெதுவான மூலதன ஆக்கத்தால் பெரும்பாலும் கட்டமைப்பு வகை."
       }
@@ -217,20 +217,20 @@
       "en": {
         "q": "Classical economists assumed that the economy normally operates at",
         "options": [
-          "hyperinflation",
-          "permanent mass unemployment",
-          "a planned, state-controlled level",
-          "full employment, with flexible wages and prices"
+          "hyperinflation with rising prices",
+          "mass unemployment of workers over time",
+          "a planned level set by the State",
+          "full employment with flexible wages"
         ],
         "explanation": "Classical theory assumed long-run full employment without inflation, flexible wages and prices, and laissez-faire competition."
       },
       "ta": {
         "q": "மரபுவழிப் பொருளியலாளர்கள் பொருளாதாரம் பொதுவாக எந்நிலையில் இயங்குவதாகக் கருதினர்?",
         "options": [
-          "மிகை பணவீக்கத்தில்",
-          "நிரந்தரப் பெரும் வேலையின்மையில்",
-          "அரசுக் கட்டுப்பாட்டில் திட்டமிட்ட நிலையில்",
-          "நெகிழ்வான கூலி, விலைகளுடன் முழு வேலைவாய்ப்பு நிலையில்"
+          "மிகை பணவீக்க நிலையில்",
+          "நீண்டகாலப் பெரும் வேலையின்மை நிலையில்",
+          "அரசு நிர்ணயித்த திட்டமிட்ட நிலையில்",
+          "நெகிழ்வான கூலியுடன் முழு வேலைவாய்ப்பு நிலையில்"
         ],
         "explanation": "மரபுவழிக் கோட்பாடு நீண்டகாலத்தில் பணவீக்கமில்லா முழு வேலைவாய்ப்பு, நெகிழ்வான கூலி–விலை, தடையில்லாப் போட்டி ஆகியவற்றைக் கருதியது."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "Which of these is a Keynesian (not classical) view?",
         "options": [
-          "Saving is always a social virtue",
-          "State intervention is needed and saving can be a vice",
-          "Laissez-faire is the best policy",
-          "Supply creates its own demand"
+          "Saving is a social virtue that raises growth",
+          "State intervention is needed; saving can be a vice",
+          "Laissez-faire is the best policy for depressions",
+          "Supply creates its own demand in the economy"
         ],
         "explanation": "Keynesianism stresses short-run equilibrium, state intervention and saving as a possible vice; classicism stresses long-run equilibrium, laissez-faire and saving as a virtue."
       },
       "ta": {
         "q": "கீழ்க்காணுவனவற்றுள் கீன்சியக் (மரபுவழி அல்லாத) கருத்து எது?",
         "options": [
-          "சேமிப்பு எப்போதும் சமூக நற்பண்பு",
-          "அரசுத் தலையீடு தேவை; சேமிப்பு தீமையாகவும் இருக்கலாம்",
-          "தடையில்லாக் கொள்கையே சிறந்தது",
-          "அளிப்பு தன் தேவையைத் தானே உருவாக்குகிறது"
+          "சேமிப்பு வளர்ச்சியை உயர்த்தும் சமூக நற்பண்பு",
+          "அரசுத் தலையீடு தேவை; சேமிப்பு தீமையாகவும் ஆகலாம்",
+          "மந்தநிலைக்குத் தடையில்லாக் கொள்கையே சிறந்தது",
+          "பொருளாதாரத்தில் அளிப்பு தன் தேவையைத் தானே உருவாக்குகிறது"
         ],
         "explanation": "கீன்சியம் குறுகியகாலச் சமநிலை, அரசுத் தலையீடு, சேமிப்பு தீமையாகலாம் என்பதை வலியுறுத்துகிறது; மரபுவழி நீண்டகாலச் சமநிலை, தடையில்லாக் கொள்கை, சேமிப்பு நற்பண்பு என்பதை வலியுறுத்துகிறது."
       }

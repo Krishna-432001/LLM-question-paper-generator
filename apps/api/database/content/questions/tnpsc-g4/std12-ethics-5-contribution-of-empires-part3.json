@@ -102,7 +102,7 @@
         "q": "In the Vijayanagar empire, each mandalam (province) was administered by a governor called",
         "options": [
           "Karnam",
-          "Nayaka",
+          "Subahdar",
           "Ayagar",
           "Mandaleswara"
         ],
@@ -112,7 +112,7 @@
         "q": "விஜயநகரப் பேரரசில் ஒவ்வொரு மண்டலமும் எந்த ஆளுநரின் கீழ் செயல்பட்டது?",
         "options": [
           "கர்ணம்",
-          "நாயக்கர்",
+          "சுபேதார்",
           "ஆயக்காரர்",
           "மண்டலேஸ்வரர்"
         ],
@@ -391,20 +391,20 @@
       "en": {
         "q": "In the Bahmani kingdom, the lands reserved for the Sultan in each province were called",
         "options": [
-          "Iqta",
-          "Khasa-i-Sultani",
-          "Inam",
-          "Khalisa"
+          "Iqta, a type of land holding",
+          "Khasa-i-Sultani, a type of land holding",
+          "Inam, a type of land holding",
+          "Waqf, a type of land holding"
         ],
         "explanation": "Muhammad Gawan surveyed lands and fixed the boundaries of towns and villages; the lands set apart for the Sultan in every province were called Khasa-i-Sultani and yielded revenue to the state."
       },
       "ta": {
         "q": "பாமினி அரசில் ஒவ்வொரு மாநிலத்திலும் சுல்தானுக்கென ஒதுக்கப்பட்ட நிலங்கள் எவ்வாறு அழைக்கப்பட்டன?",
         "options": [
-          "இக்தா",
-          "காசா-இ-சுல்தானி",
-          "இனாம்",
-          "காலிசா"
+          "இக்தா – ஒரு வகை நில உடைமை",
+          "காசா-இ-சுல்தானி – ஒரு வகை நில உடைமை",
+          "இனாம் – ஒரு வகை நில உடைமை",
+          "வக்ஃப் – ஒரு வகை நில உடைமை"
         ],
         "explanation": "முகமது கவான் நிலங்களை அளந்து நகர, கிராம எல்லைகளை வரையறுத்தார்; ஒவ்வொரு மாநிலத்திலும் சுல்தானுக்கென ஒதுக்கப்பட்ட நிலங்கள் காசா-இ-சுல்தானி எனப்பட்டு அரசுக்கு வருவாய் தந்தன."
       }
@@ -538,7 +538,7 @@
         "options": [
           "Faizi",
           "Abul Fazl",
-          "Abdur Rahim (Khan-i-Khanan)",
+          "Abdur Rahim",
           "Badauni"
         ],
         "explanation": "The Baburnama, in Turkish, describes Babur's youth, victories and defeats and Indian society, religion, plants and animals; Abdur Rahim rendered it into Persian, Erskine and Leyden into English and Pavet de Courteille into French."
@@ -548,7 +548,7 @@
         "options": [
           "பைசி",
           "அபுல் பாசல்",
-          "அப்துல் ரஹீம் (கான்-இ-கானான்)",
+          "அப்துல் ரஹீம்",
           "பதாயூனி"
         ],
         "explanation": "பாபரின் இளமை, வெற்றி தோல்விகள், இந்தியச் சமூகம், சமயம், தாவரங்கள், விலங்குகள் பற்றிக் கூறும் பாபர் நாமாவை அப்துல் ரஹீம் பாரசீகத்திலும், எர்ஸ்கின், லெய்டன் ஆங்கிலத்திலும், பாவெட் டி கோர்ட்லி பிரெஞ்சிலும் மொழிபெயர்த்தனர்."
@@ -575,10 +575,10 @@
       "ta": {
         "q": "முகலாய மைய நிருவாகத்தில் 'கான்-இ-சாமன்' எந்தப் பொறுப்பை வகித்தார்?",
         "options": [
-          "சமயத்துறை",
-          "கருவூலம்",
-          "இராணுவம்",
-          "உயர் அரண்மனை அலுவலர்"
+          "சமயத்துறைப் பொறுப்பு",
+          "கருவூலப் பொறுப்பு",
+          "இராணுவப் பொறுப்பு",
+          "அரச இல்லப் பொறுப்பு"
         ],
         "explanation": "'பாதுஷா' எனப்பட்ட முகலாய மன்னருக்கு வகீல் (தலைமை அமைச்சர்), திவானி ஆலா (நிதி), மீர்பக்ஷி (இராணுவம்), சதர்-உஸ்-சுடூர் (சமயம்), கான்-இ-சாமன் (அரண்மனை), தலைமை காஜி (நீதி) ஆகியோர் உதவினர்."
       }
@@ -749,10 +749,10 @@
       "ta": {
         "q": "தாஜ்மஹாலில் வண்ணக் கற்களால் பதிக்கப்பட்ட அழகிய பூ வேலைப்பாடுகள் எவ்வாறு அழைக்கப்படுகின்றன?",
         "options": [
-          "ஃப்ரெஸ்கோ",
+          "ஃப்ரெஸ்கோ ஓவியம்",
           "பியட்ரா டியூரா",
-          "ஜாலி வேலை",
-          "அரபெஸ்க்"
+          "ஜாலி வேலைப்பாடு",
+          "அரபெஸ்க் அலங்காரம்"
         ],
         "explanation": "மும்தாஜ் மஹால் (அர்ஜுமன் பானு பேகம்) நினைவாக ஆக்ரா யமுனைக் கரையில் ஷாஜஹான் கட்டிய தாஜ்மஹாலுக்கு மெக்ரானா வெள்ளைப் பளிங்கு பயன்பட்டது; சாதுல்லாகான் மேற்பார்வையிட்டார்; உஸ்தாத் அகமது லாஹவரி ஒருங்கிணைத்தார்; பூ வேலைப்பாடு பியட்ரா டியூரா."
       }

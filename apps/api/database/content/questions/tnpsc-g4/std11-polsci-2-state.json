@@ -15,8 +15,8 @@
         "q": "Which political thinker first used the term 'State' in his writings?",
         "options": [
           "Niccolò Machiavelli",
-          "Plato",
-          "Aristotle",
+          "Thomas Hobbes",
+          "Jean-Jacques Rousseau",
           "John Locke"
         ],
         "explanation": "The modern term 'state' is derived from the word 'status'."
@@ -25,8 +25,8 @@
         "q": "'அரசு' (State) என்ற சொல்லைத் தமது நூல்களில் முதன்முதலில் பயன்படுத்திய அரசியல் சிந்தனையாளர்",
         "options": [
           "நிக்கோலோ மாக்கியவல்லி",
-          "பிளேட்டோ",
-          "அரிஸ்டாட்டில்",
+          "தாமஸ் ஹாப்ஸ்",
+          "ஜீன்-ஜாக்ஸ் ரூசோ",
           "ஜான் லாக்"
         ],
         "explanation": "நவீனச் சொல்லான 'state' என்பது 'status' என்ற சொல்லிலிருந்து பெறப்பட்டது."
@@ -53,10 +53,10 @@
       "ta": {
         "q": "ஓர் அரசுக்கு நிலையான மக்கள்தொகை, வரையறுக்கப்பட்ட நிலப்பரப்பு, பன்னாட்டு உறவுகளை நடத்தவல்ல அரசாங்கம் தேவை என வகுத்த 1933 உடன்படிக்கை",
         "options": [
-          "ஜெனீவா உடன்படிக்கை",
-          "அரசுகளின் உரிமைகள், கடமைகள் பற்றிய மான்டிவீடியோ உடன்படிக்கை",
+          "போர்க்கைதிகள் பற்றிய ஜெனீவா உடன்படிக்கை",
+          "அரசுகளின் உரிமைகள் பற்றிய மான்டிவீடியோ உடன்படிக்கை",
           "அரசுறவுகள் பற்றிய வியன்னா உடன்படிக்கை",
-          "ஹேக் உடன்படிக்கை"
+          "போர் விதிகள் பற்றிய ஹேக் உடன்படிக்கை"
         ],
         "explanation": "எனவே பிற அரசுகளின் அங்கீகாரம் வெளிப்புறக் கண்ணோட்டத்தில் ஓர் அரசின் சட்டபூர்வத் தன்மைக்கு முக்கியமானது."
       }
@@ -72,20 +72,20 @@
       "en": {
         "q": "Which of the following is NOT one of the four essential elements of the State?",
         "options": [
-          "Territory",
-          "Population",
+          "Fixed territory",
+          "Settled population",
           "An official religion",
-          "Sovereignty"
+          "Sovereign authority"
         ],
         "explanation": "The four essential elements are population, territory, government and sovereignty."
       },
       "ta": {
         "q": "பின்வருவனவற்றில் அரசின் நான்கு இன்றியமையாக் கூறுகளில் இடம்பெறாதது எது?",
         "options": [
-          "நிலப்பரப்பு",
-          "மக்கள்தொகை",
+          "நிலையான நிலப்பரப்பு",
+          "நிலையான மக்கள்தொகை",
           "அதிகாரபூர்வ சமயம்",
-          "இறையாண்மை"
+          "அரசின் இறையாண்மை"
         ],
         "explanation": "மக்கள்தொகை, நிலப்பரப்பு, அரசாங்கம், இறையாண்மை ஆகியவையே நான்கு இன்றியமையாக் கூறுகள்."
       }
@@ -285,10 +285,10 @@
       "ta": {
         "q": "'நிலப்பரப்பு இறையாண்மை, அதாவது தன் எல்லைக்குள் அனைத்தின் மீதும் அரசின் மேலாண்மையும் வெளிக்கட்டுப்பாட்டிலிருந்து முழு விடுதலையும் நவீன அரசு வாழ்வின் அடிப்படைக் கொள்கை' என்று கூறியவர்",
         "options": [
-          "ஜீன் போடின்",
+          "பிரெஞ்சு அறிஞர் ஜீன் போடின்",
           "பேராசிரியர் எலியட்",
-          "ஜான் ஆஸ்டின்",
-          "மாக்கியவல்லி"
+          "ஆங்கில அறிஞர் ஜான் ஆஸ்டின்",
+          "இத்தாலிய அறிஞர் மாக்கியவல்லி"
         ],
         "explanation": "ஓர் அரசின் நிலப்பரப்பில் நிலம், நீர், வான்வெளி அடங்கும்; குறைந்தபட்ச அளவு எதுவும் நிர்ணயிக்கப்படவில்லை."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "The Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act, 1994 prohibits",
         "options": [
-          "all pre-natal medical check-ups",
-          "communicating the sex of the foetus to the pregnant woman or her relatives",
+          "routine pre-natal medical check-ups",
+          "disclosing the sex of the foetus to the family",
           "the registration of births in private hospitals",
-          "abortion under any circumstances"
+          "abortion in cases of medical necessity"
         ],
         "explanation": "The ban is meant to prevent sex-selective practices; in many Western countries disclosing the sex of the foetus is standard procedure."
       },
       "ta": {
         "q": "கருத்தரிப்புக்கு முந்தைய, பிரசவத்துக்கு முந்தைய நோயறி நுட்பங்கள் (PCPNDT) சட்டம், 1994 தடைசெய்வது",
         "options": [
-          "அனைத்துப் பிரசவத்துக்கு முந்தைய மருத்துவப் பரிசோதனைகள்",
-          "கருவின் பாலினத்தைக் கர்ப்பிணிக்கோ அவரது உறவினர்களுக்கோ தெரிவிப்பது",
+          "வழக்கமான பிரசவத்துக்கு முந்தைய மருத்துவப் பரிசோதனைகள்",
+          "கருவின் பாலினத்தைக் குடும்பத்தினருக்குத் தெரிவிப்பது",
           "தனியார் மருத்துவமனைகளில் பிறப்புப் பதிவு",
-          "எந்தச் சூழலிலும் கருக்கலைப்பு"
+          "மருத்துவத் தேவைக்கான கருக்கலைப்பு"
         ],
         "explanation": "பாலினத் தேர்வுப் பழக்கங்களைத் தடுக்கவே இத்தடை; பல மேற்கத்திய நாடுகளில் கருவின் பாலினத்தைத் தெரிவிப்பது வழக்கமான நடைமுறை."
       }

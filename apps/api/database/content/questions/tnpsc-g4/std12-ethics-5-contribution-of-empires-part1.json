@@ -140,10 +140,10 @@
       "ta": {
         "q": "மௌரியர் காலத்தில் உரிமையியல் நீதிமன்றங்கள் 'தர்மஸ்தானியம்' எனப்பட்டன; குற்றவியல் நீதிமன்றங்கள் எவ்வாறு அழைக்கப்பட்டன?",
         "options": [
-          "கண்டக சோதனங்கள்",
-          "தருமாசனம்",
-          "அதிகரணம்",
-          "இராஜசபை"
+          "கண்டக சோதன மன்றங்கள்",
+          "தருமாசன மன்றங்கள்",
+          "அதிகரண மன்றங்கள்",
+          "இராஜசபை மன்றங்கள்"
         ],
         "explanation": "கௌடில்யர் கூறும் மௌரிய நீதிமன்றங்கள்: உரிமையியல் – தர்மஸ்தானியம்; குற்றவியல் – கண்டக சோதனம்; நீதிபதிகள் தர்மாதிகாரிகள்."
       }
@@ -247,9 +247,9 @@
         "q": "The third Buddhist council, convened by Asoka at Pataliputra, was presided over by",
         "options": [
           "Moggaliputta Tissa",
-          "Vasumitra",
-          "Mahakassapa",
-          "Upagupta"
+          "Elder Vasumitra",
+          "Elder Mahakassapa",
+          "Elder Upagupta"
         ],
         "explanation": "Asoka, converted by the monk Upagupta after the Kalinga war, appointed Dharma Mahamatras, held the third council under Moggaliputta Tissa and sent his son Mahendra and daughter Sanghamitra to Sri Lanka."
       },
@@ -257,9 +257,9 @@
         "q": "அசோகர் பாடலிபுத்திரத்தில் கூட்டிய மூன்றாவது பௌத்த சமய மாநாட்டுக்குத் தலைமை தாங்கியவர் யார்?",
         "options": [
           "மொக்கலிபுத்த திசா",
-          "வசுமித்திரர்",
-          "மகாகசபர்",
-          "உபகுப்தர்"
+          "தேரர் வசுமித்திரர்",
+          "தேரர் மகாகசபர்",
+          "தேரர் உபகுப்தர்"
         ],
         "explanation": "கலிங்கப் போருக்குப் பின் உபகுப்தரால் பௌத்தம் தழுவிய அசோகர் தர்மமகாமாத்திரர்களை நியமித்து, மொக்கலிபுத்த திசா தலைமையில் மூன்றாம் மாநாட்டைக் கூட்டி, மகேந்திரனையும் சங்கமித்திரையையும் இலங்கைக்கு அனுப்பினார்."
       }
@@ -372,10 +372,10 @@
       "ta": {
         "q": "சாரநாத் கற்றூணில் ஓடும் நிலையில் உள்ள குதிரை புத்தரின் வாழ்வில் எந்நிகழ்வைக் குறிக்கிறது என நூல் கூறுகிறது?",
         "options": [
-          "ஆசைகளைத் துறந்து சித்தார்த்தர் அரண்மனையை விட்டு வெளியேறியது",
+          "சித்தார்த்தர் அரண்மனையைத் துறந்து வெளியேறியது",
           "மாயாதேவி வெள்ளையானையைக் கனவில் கண்டது",
-          "இளவரசரின் இளமைக்கால ஆசைகள்",
-          "சாக்கியர் சிங்கமான புத்தரின் சாதனைகள்"
+          "இளவரசரின் இளமைக்கால ஆசைகளும் இன்பங்களும்",
+          "சாக்கிய சிங்கமான புத்தரின் ஞானச் சாதனைகள்"
         ],
         "explanation": "யானை – மாயாதேவியின் கனவு; எருது – சித்தார்த்தரின் இளமைக்கால ஆசைகள்; குதிரை – அரண்மனையை விட்டு வெளியேறியது; சிங்கம் – புத்தரின் சாதனைகள்."
       }
@@ -517,10 +517,10 @@
       "ta": {
         "q": "குஷாணர் கால நூல்களுள் நாகார்ஜுனர் எழுதியது எது?",
         "options": [
-          "புத்தசரிதம்",
-          "மத்தியமிக சூத்திரம்",
-          "சௌந்தரநந்தம்",
-          "மகாவிபாஷா"
+          "புத்தசரிதம் என்னும் நூல்",
+          "மத்தியமிக சூத்திரம் என்னும் நூல்",
+          "சௌந்தரநந்தம் என்னும் நூல்",
+          "மகாவிபாஷா என்னும் உரைநூல்"
         ],
         "explanation": "அஸ்வகோஷர் – புத்தசரிதம், சௌந்தரநந்தம்; நாகார்ஜுனர் – மத்தியமிக சூத்திரம்; வசுமித்திரர் – மகாவிபாஷா சரித்திரம்."
       }
@@ -942,20 +942,20 @@
       "en": {
         "q": "Which succession practice of the Chalukya dynasty does the book describe as its peculiarity?",
         "options": [
-          "The younger brother succeeded the elder brother to the throne",
-          "The eldest son always succeeded the father",
-          "The queen ruled after the king",
-          "The ministers elected the king"
+          "A younger brother succeeded the elder to the throne",
+          "The eldest son succeeded the father to the throne",
+          "The queen succeeded the king to the throne",
+          "The ministers elected a new king after the death"
         ],
         "explanation": "Among the Chalukyas kingship was not strictly hereditary from father to eldest son; after an elder brother's death the younger brother ascended the throne."
       },
       "ta": {
         "q": "சாளுக்கிய வம்சத்தின் சிறப்பம்சமாக நூல் குறிப்பிடும் வாரிசு முறை எது?",
         "options": [
-          "அண்ணன் இறந்த பின் தம்பி அரியணை ஏறுதல்",
-          "தந்தைக்குப் பின் மூத்த மகன் எப்போதும் ஆட்சிக்கு வருதல்",
-          "மன்னருக்குப் பின் அரசி ஆளுதல்",
-          "அமைச்சர்கள் மன்னரைத் தேர்ந்தெடுத்தல்"
+          "அண்ணனுக்குப் பின் தம்பி அரியணை ஏறுதல்",
+          "தந்தைக்குப் பின் மூத்த மகன் அரியணை ஏறுதல்",
+          "மன்னருக்குப் பின் அரசி அரியணை ஏறுதல்",
+          "மன்னர் இறந்தபின் அமைச்சர்கள் புதிய மன்னரைத் தேர்ந்தெடுத்தல்"
         ],
         "explanation": "சாளுக்கியரிடம் மன்னர் பதவி பரம்பரைப் பதவியாக இல்லை; அண்ணன் இறந்த பின் தம்பி அரியணையேறும் வழக்கம் இருந்தது."
       }
@@ -1174,7 +1174,7 @@
       "en": {
         "q": "According to the book, the Hoysala capital, which was first at Sosavur, was finally shifted to",
         "options": [
-          "Halebid (Dwarasamudra)",
+          "Halebid",
           "Belur",
           "Somnathpur",
           "Mysore"
@@ -1184,7 +1184,7 @@
       "ta": {
         "q": "நூலின்படி, முதலில் சோசவூரில் இருந்த ஹொய்சாளர் தலைநகரம் இறுதியாக எங்கு மாற்றப்பட்டது?",
         "options": [
-          "ஹளபேடு (துவாரசமுத்திரம்)",
+          "ஹளபேடு",
           "பேலூர்",
           "சோம்நாத்பூர்",
           "மைசூர்"
@@ -1232,20 +1232,20 @@
       "en": {
         "q": "The Hoysala Kesava temple at Somnathpur, a 'Trikutachala' with three shrines, lies about 20 miles from",
         "options": [
-          "Belur",
-          "Halebid",
-          "Srirangapatna",
-          "Bangalore"
+          "Belur in Hassan district",
+          "Halebid in Hassan district",
+          "Srirangapatna in Mandya district",
+          "Bangalore in Bangalore Urban district"
         ],
         "explanation": "The Kesava temple at Somnathpur, 20 miles from Srirangapatna, has three shrines (Trikutachala); the Lakshmi Narasimha temple at Nuggehalli and the Iswara temple at Arasikere are other examples of Hoysala Vesara art."
       },
       "ta": {
         "q": "மூன்று சன்னதிகள் கொண்ட 'திரிகுடசலம்' எனப்படும் சோம்நாத்பூர் கேசவர் கோயில் எந்த இடத்திலிருந்து 20 மைல் தொலைவில் உள்ளது?",
         "options": [
-          "பேலூர்",
-          "ஹளபேடு",
-          "ஸ்ரீரங்கப்பட்டணம்",
-          "பெங்களூரு"
+          "ஹாசன் மாவட்டத்திலுள்ள பேலூர்",
+          "ஹாசன் மாவட்டத்திலுள்ள ஹளபேடு",
+          "மாண்டியா மாவட்டத்திலுள்ள ஸ்ரீரங்கப்பட்டணம்",
+          "கர்நாடகத்தின் தலைநகரான பெங்களூரு"
         ],
         "explanation": "ஸ்ரீரங்கப்பட்டணத்திலிருந்து 20 மைல் தொலைவிலுள்ள சோம்நாத்பூர் கேசவர் கோயில் மூன்று சன்னதி கொண்ட திரிகுடசலம்; நுகுஹள்ளி லட்சுமிநரசிம்மர் கோயில், அரிகேரி ஈஸ்வரர் கோயில் ஆகியவையும் வேசரக் கலைக்கு எடுத்துக்காட்டுகள்."
       }

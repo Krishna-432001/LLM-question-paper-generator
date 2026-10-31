@@ -304,20 +304,20 @@
       "en": {
         "q": "What is the meaning of the word 'Upanishad'?",
         "options": [
-          "Offering sacrifice",
-          "Praising the gods",
-          "Sitting near (the teacher) and listening",
-          "Wandering in the forest"
+          "Offering sacrifice to the gods",
+          "Praising the gods in loud hymns",
+          "Sitting near the teacher and listening",
+          "Wandering in the forest as an ascetic"
         ],
         "explanation": "Upanishad means 'sitting near and listening': a student sits near his teacher with reverence to receive knowledge."
       },
       "ta": {
         "q": "'உபநிடதம்' என்ற சொல்லின் பொருள்",
         "options": [
-          "வேள்வி செய்தல்",
-          "கடவுளைப் புகழ்தல்",
-          "அருகில் அமர்ந்து கேட்டல்",
-          "காட்டில் அலைதல்"
+          "தெய்வங்களுக்கு வேள்வி செய்தல்",
+          "உரத்த பாடல்களால் கடவுளைப் புகழ்தல்",
+          "ஆசிரியர் அருகில் அமர்ந்து கேட்டல்",
+          "துறவியாகக் காட்டில் அலைதல்"
         ],
         "explanation": "பிரம்மச்சாரி மாணவன் குருவின் அருகில் பயபக்தியுடன் அமர்ந்து அறிவு பெற வேண்டும் என்பதையே உபநிடதம் (அருகில் அமர்ந்து கேட்டல்) வலியுறுத்துகிறது."
       }
@@ -333,9 +333,9 @@
       "en": {
         "q": "How many Upanishads are there in all, according to the book?",
         "options": [
-          "10",
-          "18",
-          "64",
+          "118",
+          "128",
+          "112",
           "108"
         ],
         "explanation": "There are 108 Upanishads in all, of which ten (Isa, Kena, Katha, Mundaka, Mandukya, Aitareya, Taittiriya, Prasna, Chandogya and Brihadaranyaka) are considered important."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "நூலின்படி உபநிடதங்களின் மொத்த எண்ணிக்கை",
         "options": [
-          "10",
-          "18",
-          "64",
+          "118",
+          "128",
+          "112",
           "108"
         ],
         "explanation": "உபநிடதங்கள் மொத்தம் 108; அவற்றுள் ஈசோ, கேன, கடோ, முண்டக, மாண்டூக்ய, ஐதரேய, தைத்திரிய, பிரசன, சாந்தோக்கிய, பிருகதாரண்யகம் ஆகிய பத்து முக்கியமானவை."
@@ -508,7 +508,7 @@
         "q": "Which of the following practices did NOT exist in the Early Vedic society?",
         "options": [
           "Monogamous marriage",
-          "Sati (self-immolation of widows)",
+          "Sati, widow burning",
           "Marriage by consent",
           "Education of women"
         ],
@@ -518,7 +518,7 @@
         "q": "முன்வேதகாலச் சமூகத்தில் வழக்கில் இல்லாத நடைமுறை எது?",
         "options": [
           "ஒருதார மணம்",
-          "சதி (உடன்கட்டையேறுதல்)",
+          "உடன்கட்டையேறுதல்",
           "மனமொத்த திருமணம்",
           "பெண்கல்வி"
         ],
@@ -605,9 +605,9 @@
         "q": "முன்வேதகால மக்கள் சோம, சுரா பானங்களைத் தயாரிக்க எந்தப் பகுதியில் வளர்ந்த செடியைப் பயன்படுத்தினர்?",
         "options": [
           "இமயமலையின் முஜாவத் பகுதி",
-          "கங்கைச் சமவெளி",
-          "தக்காண பீடபூமி",
-          "தார் பாலைவனம்"
+          "கங்கை ஆற்றுச் சமவெளிப் பகுதி",
+          "தக்காண பீடபூமியின் வடபகுதி",
+          "ராஜஸ்தானின் தார் பாலைவனம்"
         ],
         "explanation": "இமயமலையில் இருந்த முஜாவத் பகுதியில் வளரும் ஒருவகைச் செடியிலிருந்து சோம, சுரா பானங்களைத் தயாரித்தனர்."
       }
@@ -691,10 +691,10 @@
       "ta": {
         "q": "சொல்லாக்க விளக்கம் (சொற்பிறப்பியல்) பற்றிய வேதாங்கம்",
         "options": [
-          "சந்தம்",
-          "சிட்சை",
-          "கல்பம்",
-          "நிருக்தம்"
+          "சந்தம் என்னும் வேதாங்கம்",
+          "சிட்சை என்னும் வேதாங்கம்",
+          "கல்பம் என்னும் வேதாங்கம்",
+          "நிருக்தம் என்னும் வேதாங்கம்"
         ],
         "explanation": "சிட்சை (ஒலியியல்), கல்பம் (சடங்கியல்), வியாகரணம் (இலக்கணம்), நிருக்தம் (சொல்லாக்க விளக்கம்), ஜோதிடம் (வானநூல்), சந்தம் (சீர்) ஆகியன ஆறு வேதாங்கங்கள்."
       }
@@ -972,7 +972,7 @@
         "q": "Evidence that the Later Vedic people cultivated rice has been found at",
         "options": [
           "Harappa",
-          "Hastinapur (Ashtinapuram)",
+          "Hastinapur",
           "Lothal",
           "Kalibangan"
         ],

@@ -170,7 +170,7 @@
         "q": "பிளேட்டோவின் அரசியலமைப்பு வகைப்பாட்டின்படி உயர்குடியாட்சி முதலில் சீரழிந்து மாறுவது",
         "options": [
           "கொடுங்கோன்மை",
-          "டைமோகிரசி (சொத்துரிமையாட்சி)",
+          "டைமோகிரசி",
           "மக்களாட்சி",
           "பாலிட்டி"
         ],
@@ -200,7 +200,7 @@
         "options": [
           "தொகுத்தறி முறை",
           "போதனை முறை",
-          "இயங்கியல் (வாத) முறை",
+          "இயங்கியல் முறை",
           "ஒப்பீட்டு முறை"
         ],
         "explanation": "போதனை முறையில் ஆசிரியர் அதிகாரத்துடன் கற்பிக்கிறார்; இயங்கியல் முறையில் மாணவர் கேள்வி எழுப்ப, கருத்து படிப்படியாகச் செம்மையாகிறது."
@@ -275,20 +275,20 @@
       "en": {
         "q": "According to Aristotle, what entitles a person to citizenship?",
         "options": [
-          "Mere residence in the State",
-          "Performing the function of taking part in the assembly and in decision-making",
-          "Birth in the State",
-          "Enjoyment of legal rights"
+          "Residence in the territory of the State",
+          "Sharing in the assembly and decision-making",
+          "Birth within the borders of the State",
+          "Enjoyment of legal rights and protections"
         ],
         "explanation": "Aristotle said, 'It is the function which entitles a person to become citizen'."
       },
       "ta": {
         "q": "அரிஸ்டாட்டிலின் கருத்துப்படி ஒருவருக்குக் குடியுரிமை வழங்குவது எது?",
         "options": [
-          "அரசில் வசிப்பது மட்டும்",
-          "மன்றத்திலும் முடிவெடுத்தலிலும் பங்கேற்கும் பணி",
-          "அரசில் பிறப்பது",
-          "சட்ட உரிமைகளை அனுபவிப்பது"
+          "அரசின் நிலப்பரப்பில் வசித்தல்",
+          "மன்றத்திலும் முடிவெடுத்தலிலும் பங்கேற்றல்",
+          "அரசின் எல்லைக்குள் பிறத்தல்",
+          "சட்ட உரிமைகளையும் பாதுகாப்பையும் அனுபவித்தல்"
         ],
         "explanation": "'ஒருவரைக் குடிமகனாக்குவது அவர் ஆற்றும் பணியே' என்றார் அரிஸ்டாட்டில்."
       }
@@ -333,9 +333,9 @@
       "en": {
         "q": "Which of the following is NOT one of the four levels of law identified by Thomas Aquinas in his Summa Theologica?",
         "options": [
-          "Natural law",
-          "Eternal law",
-          "Divine law",
+          "Natural law of reason",
+          "Eternal law of God",
+          "Divine law of scripture",
           "Constitutional law"
         ],
         "explanation": "The four levels are eternal law (the highest), divine law, natural law and human law; reason is the unity underlying them all."
@@ -343,9 +343,9 @@
       "ta": {
         "q": "தாமஸ் அக்வினாஸ் தமது 'சும்மா தியாலஜிகா'வில் கூறிய நான்கு நிலைச் சட்டங்களில் இடம்பெறாதது எது?",
         "options": [
-          "இயற்கைச் சட்டம்",
-          "நிலைபேறான (நித்திய) சட்டம்",
-          "தெய்வீகச் சட்டம்",
+          "பகுத்தறிவு சார்ந்த இயற்கைச் சட்டம்",
+          "இறைவனின் நிலைபேறான சட்டம்",
+          "வேதங்களின் தெய்வீகச் சட்டம்",
           "அரசியலமைப்புச் சட்டம்"
         ],
         "explanation": "நித்தியச் சட்டம் (மிக உயர்ந்தது), தெய்வீகச் சட்டம், இயற்கைச் சட்டம், மனிதச் சட்டம் ஆகியவை நான்கு நிலைகள்; இவை அனைத்தின் அடிப்படை ஒருமை பகுத்தறிவு."
@@ -450,9 +450,9 @@
         "q": "Machiavelli's 'Discourses', completed in 1517, comment on the first ten books of the history written by",
         "options": [
           "Julius Caesar",
-          "Thucydides",
-          "Herodotus",
-          "Titus Livius (Livy)"
+          "Thucydides of Athens",
+          "Herodotus of Halicarnassus",
+          "Titus Livius"
         ],
         "explanation": "George H. Sabine saw no inconsistency between The Prince, which deals with monarchies, and the Discourses, which deal mainly with the expansion of the Roman republic."
       },
@@ -460,9 +460,9 @@
         "q": "1517 இல் நிறைவுற்ற மாக்கியவல்லியின் 'உரைகள்' யாருடைய வரலாற்று நூலின் முதல் பத்துப் புத்தகங்கள் பற்றியது?",
         "options": [
           "ஜூலியஸ் சீசர்",
-          "துசிடிடிஸ்",
-          "ஹெரோடோடஸ்",
-          "டைட்டஸ் லிவியஸ் (லிவி)"
+          "ஏதென்ஸின் துசிடிடிஸ்",
+          "ஹலிகார்னாசஸின் ஹெரோடோடஸ்",
+          "டைட்டஸ் லிவியஸ்"
         ],
         "explanation": "முடியாட்சிகளைப் பற்றிய 'இளவரசன்' நூலுக்கும், ரோமக் குடியரசின் விரிவாக்கத்தைப் பற்றிய 'உரைகள்' நூலுக்கும் முரண் இல்லை என்றார் ஜார்ஜ் எச். சபைன்."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "Because he studied politics on a historical and realistic basis and focused on political behaviour, Machiavelli has been described as a pioneer of",
         "options": [
-          "idealism",
+          "utopian idealism",
           "behaviouralism",
-          "Marxism",
-          "anarchism"
+          "revolutionary Marxism",
+          "philosophical anarchism"
         ],
         "explanation": "He also separated politics from religion and morality, giving politics an autonomous status."
       },
       "ta": {
         "q": "வரலாற்று, நடைமுறை அடிப்படையில் அரசியலைப் படித்து அரசியல் நடத்தையில் கவனம் செலுத்தியதால் மாக்கியவல்லி எதன் முன்னோடி எனப்படுகிறார்?",
         "options": [
-          "கருத்தியல்வாதம்",
+          "கற்பனை இலட்சியவாதம்",
           "நடத்தையியல்வாதம்",
-          "மார்க்சியம்",
-          "அரசின்மைவாதம்"
+          "புரட்சிகர மார்க்சியம்",
+          "தத்துவ அரசின்மைவாதம்"
         ],
         "explanation": "அவர் அரசியலைச் சமயம், அறநெறியிலிருந்து பிரித்து அதற்குத் தன்னாட்சித் தகுதி அளித்தார்."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "In 1629 Thomas Hobbes translated and published which classical work?",
         "options": [
-          "Livy's History of Rome",
-          "Plato's Republic",
-          "Aristotle's Politics",
-          "Thucydides' History of the Peloponnesian War"
+          "Livy's Early History of Rome",
+          "Plato's Republic and Laws",
+          "Aristotle's Politics and Ethics",
+          "Thucydides' Peloponnesian War"
         ],
         "explanation": "Hobbes became interested in history and the fate of nations after touring Europe as tutor to William Cavendish."
       },
       "ta": {
         "q": "1629 இல் தாமஸ் ஹாப்ஸ் மொழிபெயர்த்து வெளியிட்ட செவ்வியல் நூல்",
         "options": [
-          "லிவியின் 'ரோம் வரலாறு'",
-          "பிளேட்டோவின் 'குடியரசு'",
-          "அரிஸ்டாட்டிலின் 'அரசியல்'",
-          "துசிடிடிஸின் 'பெலோபொனேசியப் போர் வரலாறு'"
+          "லிவியின் 'ரோமின் தொடக்க வரலாறு'",
+          "பிளேட்டோவின் 'குடியரசும் சட்டங்களும்'",
+          "அரிஸ்டாட்டிலின் 'அரசியலும் அறநெறியும்'",
+          "துசிடிடிஸின் 'பெலோபொனேசியப் போர்'"
         ],
         "explanation": "வில்லியம் கேவண்டிஷின் ஆசிரியராக ஐரோப்பாவில் பயணம் செய்த பின் ஹாப்ஸுக்கு வரலாற்றிலும் நாடுகளின் விதியிலும் ஆர்வம் ஏற்பட்டது."
       }
@@ -797,20 +797,20 @@
       "en": {
         "q": "According to Rousseau, the 'general will' differs from the 'will of all' because",
         "options": [
-          "the general will belongs to the monarch",
-          "the general will is the will of the majority alone",
-          "the will of all is expressed only through representatives",
-          "the general will considers the common interest, while the will of all includes private interests"
+          "the general will belongs to the monarch and his ministers",
+          "the general will is simply the will of the majority of voters",
+          "the will of all is expressed through elected representatives",
+          "the general will aims at the common good, the will of all at private interests"
         ],
         "explanation": "For Rousseau the general will is sovereign; it is inalienable and indivisible and is the basis of popular sovereignty."
       },
       "ta": {
         "q": "ரூசோவின் கருத்துப்படி 'பொது விருப்பம்' (general will) 'அனைவரின் விருப்பத்திலிருந்து' (will of all) வேறுபடுவது ஏனெனில்",
         "options": [
-          "பொது விருப்பம் மன்னருக்கு உரியது",
-          "பொது விருப்பம் பெரும்பான்மையின் விருப்பம் மட்டுமே",
-          "அனைவரின் விருப்பம் பிரதிநிதிகள் வழியாக மட்டுமே வெளிப்படுகிறது",
-          "பொது விருப்பம் பொது நலனைக் கருதுகிறது; அனைவரின் விருப்பம் தனிநலன்களையும் உள்ளடக்குகிறது"
+          "பொது விருப்பம் மன்னருக்கும் அவரது அமைச்சர்களுக்கும் உரியது",
+          "பொது விருப்பம் என்பது பெரும்பான்மை வாக்காளரின் விருப்பமே",
+          "அனைவரின் விருப்பம் தேர்ந்தெடுக்கப்பட்ட பிரதிநிதிகள் வழியாக வெளிப்படுகிறது",
+          "பொது விருப்பம் பொது நலனை நாடுகிறது; அனைவரின் விருப்பம் தனிநலன்களை நாடுகிறது"
         ],
         "explanation": "ரூசோவுக்குப் பொது விருப்பமே இறைமை; அது பிரிக்கவோ பிறருக்கு மாற்றவோ இயலாதது; மக்கள் இறைமையின் அடிப்படை அதுவே."
       }
@@ -896,7 +896,7 @@
         "options": [
           "ஜெர்மன் கருத்தியல்",
           "கம்யூனிஸ்ட் அறிக்கை",
-          "மூலதனம் (Das Kapital)",
+          "மூலதனம்",
           "கோதா திட்டம் பற்றிய விமர்சனம்"
         ],
         "explanation": "அதன் முதல் தொகுதி (1867) மட்டுமே மார்க்ஸ் வாழ்நாளில் வெளியானது; இரண்டாம், மூன்றாம் தொகுதிகளைப் பிரெடெரிக் ஏங்கெல்ஸ் தொகுத்து 1885, 1894 இல் வெளியிட்டார்."
@@ -942,20 +942,20 @@
       "en": {
         "q": "In Marx's theory of surplus value, surplus value is",
         "options": [
-          "the value created by the worker's extra labour that the capitalist keeps",
-          "the profit a worker earns from overtime",
-          "the tax collected by the state on production",
-          "the interest earned on savings"
+          "value of the worker's extra labour kept by the capitalist",
+          "the extra profit a worker earns from overtime work",
+          "the tax collected by the state on industrial production",
+          "the interest earned on bank savings and deposits"
         ],
         "explanation": "Marx held that labour is the source of economic value and that capitalists pay workers less than the value their labour produces, often only a subsistence wage."
       },
       "ta": {
         "q": "மார்க்ஸின் உபரி மதிப்புக் கோட்பாட்டில் உபரி மதிப்பு என்பது",
         "options": [
-          "தொழிலாளியின் கூடுதல் உழைப்பால் உருவாகி முதலாளி எடுத்துக்கொள்ளும் மதிப்பு",
-          "கூடுதல் நேர வேலையால் தொழிலாளி ஈட்டும் லாபம்",
-          "உற்பத்தி மீது அரசு வசூலிக்கும் வரி",
-          "சேமிப்பின் மீது கிடைக்கும் வட்டி"
+          "தொழிலாளியின் கூடுதல் உழைப்பின் மதிப்பை முதலாளி எடுத்துக்கொள்வது",
+          "கூடுதல் நேர வேலையால் தொழிலாளி ஈட்டும் கூடுதல் லாபம்",
+          "தொழில் உற்பத்தி மீது அரசு வசூலிக்கும் வரி",
+          "வங்கிச் சேமிப்பு, வைப்புகளின் மீது கிடைக்கும் வட்டி"
         ],
         "explanation": "உழைப்பே பொருளாதார மதிப்பின் ஆதாரம்; முதலாளிகள் தொழிலாளர்களுக்கு அவர்களது உழைப்பின் மதிப்பைவிடக் குறைவாக, பெரும்பாலும் வாழ்வாதார ஊதியம் மட்டுமே வழங்குகின்றனர் என்றார் மார்க்ஸ்."
       }

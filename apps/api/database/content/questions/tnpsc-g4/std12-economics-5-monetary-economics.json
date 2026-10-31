@@ -111,9 +111,9 @@
       "ta": {
         "q": "கடன்களைப் பின்னர் பணமாகத் திருப்பிச் செலுத்த முடிவதால் கடன் வாங்குவதையும் கொடுப்பதையும் பணம் எளிதாக்கும்போது அது எதுவாகச் செயல்படுகிறது?",
         "options": [
-          "பகிர்வின் அடிப்படை",
-          "பரிமாற்றக் கருவி",
-          "மதிப்பின் அளவுகோல்",
+          "வருமானப் பகிர்வின் அடிப்படை",
+          "பொருள்களின் பரிமாற்றக் கருவி",
+          "பொருள்களின் மதிப்பு அளவுகோல்",
           "எதிர்காலச் செலுத்துதலின் தரம்"
         ],
         "explanation": "பண்டமாற்றில் கடனைப் பொருளாகவே திருப்ப வேண்டியிருந்தது; இப்போது பணம் எதிர்காலச் செலுத்துதலின் தரமாக (இரண்டாம் நிலைப் பணி) செயல்படுகிறது."
@@ -130,20 +130,20 @@
       "en": {
         "q": "Under the metallic standard, standard coins are 'full-bodied', which means",
         "options": [
-          "their face value equals their intrinsic metal value",
-          "they are made of paper",
-          "their value is fixed by banks",
-          "they cannot be used as legal tender"
+          "their face value equals their metal value",
+          "they are printed on paper by the central bank",
+          "their value is fixed by banks from time to time",
+          "they are not accepted as legal tender in trade"
         ],
         "explanation": "Full-bodied standard coins have a face value equal to the value of the metal in them."
       },
       "ta": {
         "q": "உலோகத் திட்டத்தில் தரநாணயங்கள் 'முழு மதிப்புடையவை' (full-bodied) என்பதன் பொருள்",
         "options": [
-          "அவற்றின் முக மதிப்பு உள்ளார்ந்த உலோக மதிப்புக்குச் சமம்",
-          "அவை காகிதத்தால் ஆனவை",
-          "அவற்றின் மதிப்பை வங்கிகள் நிர்ணயிக்கின்றன",
-          "அவற்றைச் சட்டப்பூர்வச் செலாவணியாகப் பயன்படுத்த இயலாது"
+          "அவற்றின் முக மதிப்பு உலோக மதிப்புக்குச் சமம்",
+          "அவை மைய வங்கி அச்சிட்ட காகிதத்தால் ஆனவை",
+          "அவற்றின் மதிப்பை வங்கிகள் அவ்வப்போது நிர்ணயிக்கின்றன",
+          "அவை வணிகத்தில் சட்டப்பூர்வச் செலாவணியாக ஏற்கப்படுவதில்லை"
         ],
         "explanation": "முழு மதிப்புடைய தரநாணயங்களின் முக மதிப்பு அவற்றிலுள்ள உலோகத்தின் மதிப்புக்குச் சமம்."
       }
@@ -229,8 +229,8 @@
         "options": [
           "மேலாண்மைச் செலாவணி",
           "நெகிழிப் பணம்",
-          "ஆணைப் பணம் (Fiat money)",
-          "மறையாக்கப் பணம் (Crypto currency)"
+          "ஆணைப் பணம்",
+          "மறையாக்கப் பணம்"
         ],
         "explanation": "பிட்காயின் போன்ற மறையாக்கப் பணங்கள் மறையாக்க நுட்பங்களைப் பயன்படுத்துகின்றன; எந்த மைய வங்கியையும் சாராதவை."
       }
@@ -246,10 +246,10 @@
       "en": {
         "q": "In India, coins are issued by",
         "options": [
-          "the Ministry of Finance, Government of India",
-          "the Reserve Bank of India",
-          "the State Bank of India",
-          "NABARD"
+          "the Finance Ministry, Government of India",
+          "the Reserve Bank of India, Mumbai",
+          "the State Bank of India, Mumbai",
+          "the National Bank for Agriculture and Rural Development"
         ],
         "explanation": "Currency notes are issued by the RBI; coins are issued by the Ministry of Finance, Government of India."
       },
@@ -420,10 +420,10 @@
       "en": {
         "q": "In Fisher's equation of exchange MV = PT, 'V' stands for",
         "options": [
-          "volume of bank credit",
-          "volume of trade",
-          "velocity of circulation of money",
-          "value of money"
+          "volume of bank credit created",
+          "volume of trade transactions",
+          "velocity of money circulation",
+          "purchasing value of money"
         ],
         "explanation": "M = quantity of money, V = velocity of money, P = price level, T = volume of transactions."
       },
@@ -478,20 +478,20 @@
       "en": {
         "q": "In Marshall's Cambridge cash-balance equation M = KPY, 'K' represents",
         "options": [
-          "the fraction of real income the public wants to hold as money",
-          "the cash reserve ratio",
-          "the velocity of circulation",
-          "the volume of transactions"
+          "the fraction of income people wish to hold as cash",
+          "the cash reserve ratio fixed by the central bank",
+          "the velocity of circulation of money in a year",
+          "the volume of transactions in the economy"
         ],
         "explanation": "In M = KPY, K is the share of real income people wish to hold in money; Y is real income and P the price level."
       },
       "ta": {
         "q": "மார்ஷலின் கேம்பிரிட்ஜ் ரொக்க இருப்புச் சமன்பாடு M = KPY இல் 'K' என்பது",
         "options": [
-          "மக்கள் பணமாக வைத்திருக்க விரும்பும் உண்மை வருமானத்தின் பகுதி",
-          "ரொக்க இருப்பு விகிதம்",
-          "சுழற்சி வேகம்",
-          "பரிவர்த்தனைகளின் அளவு"
+          "மக்கள் பணமாக வைத்திருக்க விரும்பும் வருமானப் பகுதி",
+          "மைய வங்கி நிர்ணயிக்கும் ரொக்க இருப்பு விகிதம்",
+          "ஓராண்டில் பணத்தின் சுழற்சி வேகம்",
+          "பொருளாதாரத்தில் நடைபெறும் பரிவர்த்தனைகளின் அளவு"
         ],
         "explanation": "M = KPY இல் K என்பது மக்கள் பணமாக வைத்திருக்க விரும்பும் உண்மை வருமானப் பங்கு; Y உண்மை வருமானம், P விலை நிலை."
       }
@@ -739,10 +739,10 @@
       "en": {
         "q": "Which of these is a monetary measure by the central bank to control inflation?",
         "options": [
-          "Increasing government expenditure",
+          "Increasing government expenditure on public works",
           "Selling government securities in the open market",
-          "Reducing the bank rate",
-          "Lowering the Cash Reserve Ratio"
+          "Reducing the bank rate for commercial banks",
+          "Lowering the Cash Reserve Ratio of commercial banks"
         ],
         "explanation": "To curb inflation the central bank raises the bank rate, sells securities, raises CRR, SLR, repo and reverse repo rates, and controls consumer credit."
       },
@@ -797,9 +797,9 @@
       "en": {
         "q": "Stagflation is a combination of",
         "options": [
-          "deflation and high growth",
-          "rapid growth and falling prices",
-          "full employment and stable prices",
+          "deflation, high growth and rising employment",
+          "rapid growth, falling prices and low inflation",
+          "full employment, stable prices and steady growth",
           "stagnant growth, high unemployment and high inflation"
         ],
         "explanation": "Stagflation (stagnation + inflation) combines stagnant growth, high unemployment and high inflation."
@@ -807,9 +807,9 @@
       "ta": {
         "q": "தேக்கப் பணவீக்கம் (Stagflation) என்பது எவற்றின் இணைவு?",
         "options": [
-          "பணவாட்டம், அதிக வளர்ச்சி",
-          "விரைவான வளர்ச்சி, விலை வீழ்ச்சி",
-          "முழு வேலைவாய்ப்பு, நிலையான விலை",
+          "பணவாட்டம், அதிக வளர்ச்சி, உயரும் வேலைவாய்ப்பு",
+          "விரைவான வளர்ச்சி, விலை வீழ்ச்சி, குறைந்த பணவீக்கம்",
+          "முழு வேலைவாய்ப்பு, நிலையான விலை, சீரான வளர்ச்சி",
           "தேங்கிய வளர்ச்சி, அதிக வேலையின்மை, அதிகப் பணவீக்கம்"
         ],
         "explanation": "தேக்கமும் பணவீக்கமும் இணைந்த ஸ்டாக்ஃபிளேஷனில் தேங்கிய வளர்ச்சி, அதிக வேலையின்மை, அதிகப் பணவீக்கம் ஒருசேர இருக்கும்."
@@ -884,10 +884,10 @@
       "en": {
         "q": "According to Keynes, what alone can help an economy come out of depression?",
         "options": [
-          "Cuts in public expenditure",
-          "Higher interest rates",
+          "Cuts in public expenditure on projects",
+          "Higher interest rates on bank loans",
           "Autonomous investment by the government",
-          "Higher indirect taxes"
+          "Higher indirect taxes on consumer goods"
         ],
         "explanation": "Keynes advocated autonomous government investment to pull the economy out of depression."
       },

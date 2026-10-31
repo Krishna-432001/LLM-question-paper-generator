@@ -217,9 +217,9 @@
       "en": {
         "q": "Who described India as the 'Museum of Races' (Inangalin Arungkaatchiyagam)?",
         "options": [
-          "Abercrombie",
-          "A.L. Basham",
-          "Herodotus",
+          "Prof. Abercrombie",
+          "Arthur Llewellyn Basham",
+          "Herodotus of Halicarnassus",
           "Vincent Arthur Smith"
         ],
         "explanation": "Dr. Vincent Arthur Smith called India the museum of many races because people of various races have settled here."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "இந்தியாவை 'இனங்களின் அருங்காட்சியகம்' என்று குறிப்பிட்டவர்",
         "options": [
-          "அபெர் குரோம்பி",
-          "ஏ.எல். பாஷம்",
-          "ஹெரோடோட்டஸ்",
+          "பேராசிரியர் அபெர் குரோம்பி",
+          "ஆர்தர் ல்லெவெலின் பாஷம்",
+          "ஹலிகார்னாசஸின் ஹெரோடோட்டஸ்",
           "வின்சென்ட் ஆர்தர் ஸ்மித்"
         ],
         "explanation": "பல இனங்களைச் சேர்ந்தோர் குடியேறியுள்ளதால் டாக்டர் வின்சென்ட் ஆர்தர் ஸ்மித் இந்தியாவை 'இனங்களின் அருங்காட்சியகம்' என்றார்."
@@ -449,20 +449,20 @@
       "en": {
         "q": "Which of the following religions did NOT originate in India, according to the book?",
         "options": [
-          "Sikhism",
-          "Buddhism",
-          "Jainism",
-          "Christianity"
+          "Sikhism of Punjab",
+          "Buddhism of Bihar",
+          "Jainism of Bihar",
+          "Christianity of Judea"
         ],
         "explanation": "Hinduism, Buddhism, Jainism and Sikhism originated in India; Islam, Christianity and Zoroastrianism (Parsi) came from outside."
       },
       "ta": {
         "q": "நூலின்படி இந்தியாவில் தோன்றாத சமயம் எது?",
         "options": [
-          "சீக்கியம்",
-          "பௌத்தம்",
-          "சமணம்",
-          "கிறித்தவம்"
+          "பஞ்சாபின் சீக்கியம்",
+          "பீகாரின் பௌத்தம்",
+          "பீகாரின் சமணம்",
+          "யூதேயாவின் கிறித்தவம்"
         ],
         "explanation": "இந்து, பௌத்த, சமண, சீக்கிய சமயங்கள் இந்தியாவில் தோன்றியவை; கிறித்தவம் வெளிநாட்டிலிருந்து வந்தது."
       }
@@ -624,7 +624,7 @@
         "q": "The name 'Hindu' (and hence 'India') is derived from the name of which river?",
         "options": [
           "Yamuna",
-          "Sindhu (Indus)",
+          "Sindhu",
           "Ganga",
           "Brahmaputra"
         ],
@@ -942,20 +942,20 @@
       "en": {
         "q": "Which of the following is NOT among the qualities of a classical language (Sevviyal mozhi) listed in the book?",
         "options": [
-          "Being spoken by the largest number of people",
-          "Antiquity",
-          "Uniqueness (originality)",
-          "Richness of grammar"
+          "Being spoken by most people",
+          "Antiquity of its literature",
+          "Uniqueness and originality",
+          "Richness of its grammar"
         ],
         "explanation": "The qualities listed are antiquity, uniqueness, being the mother of languages, richness of words, grammar, thought, art and culture, and being an international language; population size is not one of them."
       },
       "ta": {
         "q": "செவ்வியல் மொழிக்குரிய தன்மைகளாக நூல் குறிப்பிடுபவற்றுள் இடம்பெறாதது",
         "options": [
-          "அதிகமானோர் பேசும் மொழியாக இருத்தல்",
-          "தொன்மை",
-          "தனித்தன்மை",
-          "இலக்கண வளம்"
+          "மிகப் பெரும்பான்மையோர் பேசுதல்",
+          "இலக்கியங்களின் தொன்மைச் சிறப்பு",
+          "தனித்தன்மையும் மூலத்தன்மையும்",
+          "இலக்கணத்தின் செழுமையும் வளமும்"
         ],
         "explanation": "தொன்மை, தனித்தன்மை, மொழிகளின் தாய், சொல், இலக்கண, சிந்தனை, கலை, பண்பாட்டு வளம், பன்னாட்டு மொழியாக விளங்குதல் ஆகியன செவ்வியல் மொழியின் தன்மைகள்."
       }
@@ -1029,9 +1029,9 @@
       "en": {
         "q": "Whose philosophies were translated into Western languages, according to the book?",
         "options": [
-          "Tilak and Gokhale",
-          "Periyar and Ambedkar",
-          "Kabir and Guru Nanak",
+          "Bal Gangadhar Tilak and G.K. Gokhale",
+          "Periyar E.V. Ramasamy and B.R. Ambedkar",
+          "Saint Kabir and Guru Nanak Dev",
           "Raja Ram Mohan Roy and Swami Vivekananda"
         ],
         "explanation": "The philosophies of Raja Ram Mohan Roy and Swami Vivekananda were translated into languages of the West."
@@ -1039,9 +1039,9 @@
       "ta": {
         "q": "நூலின்படி மேலைநாட்டு மொழிகளில் மொழிபெயர்க்கப்பட்ட தத்துவங்கள் யாருடையவை?",
         "options": [
-          "திலகர், கோகலே",
-          "பெரியார், அம்பேத்கர்",
-          "கபீர், குருநானக்",
+          "பால கங்காதர திலகர், கோபாலகிருஷ்ண கோகலே",
+          "பெரியார் ஈ.வெ. இராமசாமி, பி.ஆர். அம்பேத்கர்",
+          "புனிதர் கபீர்தாசர், குருநானக் தேவ்",
           "இராஜாராம் மோகன்ராய், சுவாமி விவேகானந்தர்"
         ],
         "explanation": "இராஜாராம் மோகன்ராய், சுவாமி விவேகானந்தர் ஆகியோரின் தத்துவங்கள் மேலைநாட்டு மொழிகளில் மொழிபெயர்ப்பாயின."
@@ -1116,20 +1116,20 @@
       "en": {
         "q": "Which national festival is celebrated on 14 November, according to the book?",
         "options": [
-          "National Youth Day",
-          "Republic Day",
-          "Birthday of Pandit Jawaharlal Nehru",
-          "Gandhi Jayanthi"
+          "National Youth Day of India",
+          "Republic Day celebrations",
+          "Birthday of Jawaharlal Nehru",
+          "Gandhi Jayanthi festival"
         ],
         "explanation": "The book lists 15 August (Independence Day), 26 January (Republic Day), 2 October (Gandhi's birthday), 14 November (Nehru's birthday) and 12 January (National Youth Day)."
       },
       "ta": {
         "q": "நூலின்படி நவம்பர் 14 அன்று கொண்டாடப்படும் தேசியத் திருவிழா",
         "options": [
-          "தேசிய இளைஞர் தினம்",
-          "குடியரசு தினவிழா",
-          "பண்டித ஜவஹர்லால் நேருவின் பிறந்தநாள் விழா",
-          "காந்தி ஜெயந்தி"
+          "இந்தியத் தேசிய இளைஞர் தினம்",
+          "குடியரசு தினக் கொண்டாட்டம்",
+          "ஜவஹர்லால் நேருவின் பிறந்தநாள்",
+          "காந்தி ஜெயந்தி விழா"
         ],
         "explanation": "ஆகஸ்ட் 15 சுதந்திர தினம், ஜனவரி 26 குடியரசு தினம், அக்டோபர் 2 காந்தி பிறந்தநாள், நவம்பர் 14 நேரு பிறந்தநாள், ஜனவரி 12 தேசிய இளைஞர் தினம் ஆகியன கொண்டாடப்படுகின்றன."
       }
@@ -1174,7 +1174,7 @@
       "en": {
         "q": "Which tree has been accepted by the Government of India as the national tree?",
         "options": [
-          "Banyan (Aalamaram)",
+          "Banyan",
           "Neem",
           "Peepal",
           "Mango"

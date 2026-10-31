@@ -14,9 +14,9 @@
       "en": {
         "q": "Which ideology considered the State a 'necessary evil' whose only functions are law and order and the enforcement of contracts?",
         "options": [
-          "Negative (Classical) Liberalism",
+          "Negative Liberalism",
           "Positive Liberalism",
-          "Marxism",
+          "Revolutionary Marxism",
           "Fabian Socialism"
         ],
         "explanation": "Also called laissez-faire liberalism, it was propounded by John Locke and, economically, by Adam Smith. 'Laissez faire' is French for 'leave alone'."
@@ -24,9 +24,9 @@
       "ta": {
         "q": "சட்டம்-ஒழுங்கு, ஒப்பந்தச் செயலாக்கம் மட்டுமே பணிகளாகக் கொண்ட அரசை 'தவிர்க்கவியலாத தீமை' எனக் கருதிய கொள்கை",
         "options": [
-          "எதிர்மறை (செவ்வியல்) தாராளவாதம்",
+          "எதிர்மறை தாராளவாதம்",
           "நேர்மறை தாராளவாதம்",
-          "மார்க்சியம்",
+          "புரட்சிகர மார்க்சியம்",
           "ஃபேபியன் சமதர்மம்"
         ],
         "explanation": "'தலையிடாக் கொள்கை' தாராளவாதம் எனவும் அழைக்கப்படும் இதை ஜான் லாக்கும் பொருளாதாரத் தளத்தில் ஆடம் ஸ்மித்தும் முன்வைத்தனர். 'லெய்சே ஃபேர்' என்பதன் பிரெஞ்சுப் பொருள் 'விட்டுவிடு'."
@@ -246,20 +246,20 @@
       "en": {
         "q": "Lenin's organisational principle of 'Democratic Centralism' means that",
         "options": [
-          "lower units elect higher units, and decisions of higher units bind the lower units",
-          "every decision is taken by a referendum of all members",
-          "regional units are free to ignore central decisions",
-          "the party leader is elected directly by the people"
+          "lower units elect higher units, whose decisions bind the lower units",
+          "major decisions are taken by a referendum of party members",
+          "regional units may ignore the decisions of the central body",
+          "the party leader is elected directly by the general public"
         ],
         "explanation": "In the party structure, village units elect district units, district units elect State units and State units elect the central unit, while decisions flow downward."
       },
       "ta": {
         "q": "லெனினின் 'ஜனநாயக மத்தியத்துவம்' என்ற அமைப்புக் கொள்கையின் பொருள்",
         "options": [
-          "கீழ்நிலை அலகுகள் மேல்நிலை அலகுகளைத் தேர்ந்தெடுக்கின்றன; மேல்நிலை அலகுகளின் முடிவுகள் கீழ்நிலை அலகுகளைக் கட்டுப்படுத்தும்",
-          "ஒவ்வொரு முடிவும் அனைத்து உறுப்பினர்களின் பொதுவாக்கெடுப்பால் எடுக்கப்படும்",
-          "பிராந்திய அலகுகள் மைய முடிவுகளைப் புறக்கணிக்கலாம்",
-          "கட்சித் தலைவர் மக்களால் நேரடியாகத் தேர்ந்தெடுக்கப்படுவார்"
+          "கீழ்நிலை அலகுகள் மேல்நிலை அலகுகளைத் தேர்ந்தெடுக்கும்; அவற்றின் முடிவுகள் கீழ்நிலையைக் கட்டுப்படுத்தும்",
+          "கட்சியின் முக்கிய முடிவுகள் உறுப்பினர்களின் பொதுவாக்கெடுப்பால் எடுக்கப்படும்",
+          "பிராந்திய அலகுகள் மையக் குழுவின் முடிவுகளைப் புறக்கணிக்க உரிமை உண்டு",
+          "கட்சித் தலைவர் பொதுமக்களால் நேரடியாகத் தேர்ந்தெடுக்கப்படுவார் என்பதே விதி"
         ],
         "explanation": "கிராம அலகுகள் மாவட்ட அலகுகளையும், மாவட்ட அலகுகள் மாநில அலகுகளையும், மாநில அலகுகள் மைய அலகையும் தேர்ந்தெடுக்கின்றன; முடிவுகள் மேலிருந்து கீழே செல்கின்றன."
       }
@@ -430,10 +430,10 @@
       "ta": {
         "q": "'நூறு மலர்கள் மலரட்டும்; நூறு சிந்தனைப் பள்ளிகள் போட்டியிடட்டும்' என்பது 1956 இல் மாவோ நடத்திய இயக்கத்தின் முழக்கம். அது வரவேற்றது",
         "options": [
-          "பழைய பழக்கவழக்கங்களை அழித்தல்",
+          "பழைய பழக்கவழக்கங்களையும் கலாச்சாரத்தையும் அழித்தல்",
           "கிராமப்புறங்களின் விரைவான தொழில்மயமாக்கல்",
-          "பொதுவுடைமைக் கட்சி மீதான சுதந்திரமான கருத்து வெளிப்பாடும் விமர்சனமும்",
-          "பண்ணைகளைக் கூட்டுடைமையாக்கல்"
+          "கட்சி மீதான சுதந்திரக் கருத்தும் விமர்சனமும்",
+          "கிராமப் பண்ணைகளைக் கூட்டுடைமையாக்கும் திட்டம்"
         ],
         "explanation": "விமர்சனம் சீனப் பொதுவுடைமைக் கட்சியையே அச்சுறுத்தத் தொடங்கியதால் இவ்வியக்கம் பின்னர் திசைமாறியது."
       }
@@ -654,7 +654,7 @@
         "options": [
           "soviets",
           "guilds",
-          "phalanges (phalanxes)",
+          "phalanges",
           "communes of Paris"
         ],
         "explanation": "Marx called the ideas of Robert Owen, Saint-Simon and Fourier 'Utopian Socialism', in contrast to his own 'Scientific Socialism'."
@@ -664,7 +664,7 @@
         "options": [
           "சோவியத்துகள்",
           "கில்டுகள்",
-          "ஃபாலன்ஜ்கள் (phalanxes)",
+          "ஃபாலன்ஜ்கள்",
           "பாரிஸ் கம்யூன்கள்"
         ],
         "explanation": "ராபர்ட் ஓவன், செயின்ட்-சைமன், ஃபூரியே ஆகியோரின் கருத்துகளை மார்க்ஸ் 'கற்பனைச் சமதர்மம்' என்றும், தமது கொள்கையை 'அறிவியல் சமதர்மம்' என்றும் குறிப்பிட்டார்."
@@ -682,9 +682,9 @@
         "q": "Fabian Socialism, propagated by the Fabian Society from 1884, takes its name from",
         "options": [
           "a Greek philosopher who opposed private property",
-          "Fabian, an English trade-union leader",
-          "the Latin word for 'gradual'",
-          "Fabius, a Roman general famous for the strategy of waiting and striking hard at the right moment"
+          "Fabian, an English trade-union leader of the 1880s",
+          "the Latin word for 'society of workers and thinkers'",
+          "Fabius, a Roman general famous for his waiting strategy"
         ],
         "explanation": "Sidney Webb, H. G. Wells and George Bernard Shaw were leading Fabians; Jawaharlal Nehru was inspired by Fabian Socialism while in England."
       },
@@ -692,9 +692,9 @@
         "q": "1884 முதல் ஃபேபியன் கழகம் பரப்பிய ஃபேபியன் சமதர்மம் யாருடைய பெயரைப் பெற்றது?",
         "options": [
           "தனிச்சொத்தை எதிர்த்த கிரேக்கத் தத்துவஞானி",
-          "ஆங்கிலத் தொழிற்சங்கத் தலைவர் ஃபேபியன்",
-          "'படிப்படியான' என்ற இலத்தீன் சொல்",
-          "காத்திருந்து சரியான நேரத்தில் கடுமையாகத் தாக்கும் உத்திக்குப் புகழ்பெற்ற ரோமத் தளபதி ஃபேபியஸ்"
+          "1880 களின் ஆங்கிலத் தொழிற்சங்கத் தலைவர் ஃபேபியன்",
+          "'தொழிலாளர், சிந்தனையாளர் கழகம்' எனப் பொருள்படும் இலத்தீன் சொல்",
+          "காத்திருப்பு உத்திக்குப் புகழ்பெற்ற ரோமத் தளபதி ஃபேபியஸ்"
         ],
         "explanation": "சிட்னி வெப், எச். ஜி. வெல்ஸ், ஜார்ஜ் பெர்னார்ட் ஷா ஆகியோர் முன்னணி ஃபேபியர்கள்; இங்கிலாந்தில் இருந்தபோது ஜவஹர்லால் நேரு ஃபேபியன் சமதர்மத்தால் ஈர்க்கப்பட்டார்."
       }
@@ -739,20 +739,20 @@
       "en": {
         "q": "The Indian variety of socialism, adopted in the mid-1950s, is known as",
         "options": [
-          "Guild Socialism",
+          "Guild Socialism of England",
           "Socialistic Pattern of Society",
-          "Syndicalism",
-          "Fabian Socialism"
+          "Revolutionary Syndicalism",
+          "Fabian Socialism of Britain"
         ],
         "explanation": "India adopted a mixed economy with the public sector at the commanding heights. The 42nd Amendment (1976) added the word 'socialist' to the Preamble."
       },
       "ta": {
         "q": "1950 களின் நடுவில் ஏற்கப்பட்ட இந்திய வகைச் சமதர்மம் இவ்வாறு அழைக்கப்படுகிறது",
         "options": [
-          "கில்டு சமதர்மம்",
+          "இங்கிலாந்தின் கில்டு சமதர்மம்",
           "சமதர்ம சமுதாய அமைப்பு முறை",
-          "சிண்டிகலிசம்",
-          "ஃபேபியன் சமதர்மம்"
+          "புரட்சிகர சிண்டிகலிசம்",
+          "பிரிட்டனின் ஃபேபியன் சமதர்மம்"
         ],
         "explanation": "இந்தியா பொதுத்துறைக்குப் பொருளாதாரத்தின் முக்கிய இடங்களை அளித்துக் கலப்புப் பொருளாதாரத்தை ஏற்றது. 42வது திருத்தம் (1976) முகவுரையில் 'சமதர்ம' என்ற சொல்லைச் சேர்த்தது."
       }
@@ -1000,20 +1000,20 @@
       "en": {
         "q": "The Nuremberg Laws of Nazi Germany were enacted to",
         "options": [
-          "set up the Weimar Republic's constitution",
-          "establish the Nazi Party's 25-point programme",
-          "preserve 'Aryan racial purity' by banning marriages with Jews and other groups",
-          "try Nazi leaders for war crimes"
+          "set up the Weimar Republic's democratic constitution",
+          "establish the Nazi Party's 25-point programme of 1920",
+          "preserve 'Aryan racial purity' by banning marriages with Jews",
+          "try Nazi leaders for war crimes at the end of the war"
         ],
         "explanation": "The laws were passed in 1935 (the textbook says 1934). The 25-point programme dates from 1920; the post-war war-crimes trials were also held at Nuremberg."
       },
       "ta": {
         "q": "நாஜி ஜெர்மனியின் நியூரம்பர்க் சட்டங்கள் இயற்றப்பட்டதன் நோக்கம்",
         "options": [
-          "வைமார் குடியரசின் அரசியலமைப்பை உருவாக்குதல்",
-          "நாஜிக் கட்சியின் 25 அம்சத் திட்டத்தை நிறுவுதல்",
-          "யூதர்கள் உள்ளிட்டோருடனான திருமணங்களைத் தடைசெய்து 'ஆரிய இனத் தூய்மை'யைப் பேணுதல்",
-          "நாஜித் தலைவர்களைப் போர்க்குற்றங்களுக்காக விசாரித்தல்"
+          "வைமார் குடியரசின் மக்களாட்சி அரசியலமைப்பை உருவாக்குதல்",
+          "1920 இல் நாஜிக் கட்சியின் 25 அம்சத் திட்டத்தை நிறுவுதல்",
+          "யூதர்களுடனான திருமணங்களைத் தடைசெய்து 'ஆரிய இனத் தூய்மை'யைப் பேணுதல்",
+          "போர் முடிவில் நாஜித் தலைவர்களைப் போர்க்குற்றங்களுக்காக விசாரித்தல்"
         ],
         "explanation": "இச்சட்டங்கள் 1935 இல் இயற்றப்பட்டன (பாடநூல் 1934 என்கிறது). 25 அம்சத் திட்டம் 1920 இல் வெளியானது; போருக்குப் பின்னான போர்க்குற்ற விசாரணைகளும் நியூரம்பர்க்கில் நடந்தன."
       }
