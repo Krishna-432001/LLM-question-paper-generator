@@ -14,10 +14,10 @@
       "en": {
         "q": "A dog keeps its tongue out and breathes hard to cool its body because",
         "options": [
-          "its tongue produces cold",
-          "evaporation of moisture from the tongue removes heat",
-          "the tongue conducts heat to the air",
-          "breathing creates heat"
+          "its tongue produces cold air continuously",
+          "evaporation of moisture from the tongue cools it",
+          "the tongue conducts all the heat to the air",
+          "breathing hard creates extra body heat"
         ],
         "explanation": "Heat energy is needed to turn a liquid into a gas; it is removed from the dog's tongue, cooling the body."
       },
@@ -44,19 +44,19 @@
         "q": "Heat transfer takes place in which of the following ways?",
         "options": [
           "Conduction, convection and radiation",
-          "Convection and expansion",
-          "Conduction and sublimation",
-          "Radiation and condensation"
+          "Convection and thermal expansion",
+          "Conduction and sublimation of solids",
+          "Radiation and condensation of vapour"
         ],
         "explanation": "Heat flows from higher temperature to lower temperature till the temperatures become equal."
       },
       "ta": {
         "q": "வெப்பம் பரவும் முறைகள்",
         "options": [
-          "வெப்பக் கடத்தல், வெப்பச் சலனம், வெப்பக் கதிர்வீச்சு",
-          "சலனம், விரிவு",
-          "கடத்தல், பதங்கமாதல்",
-          "கதிர்வீச்சு, ஒடுங்குதல்"
+          "வெப்பக் கடத்தல், சலனம், கதிர்வீச்சு",
+          "வெப்பச் சலனம், வெப்ப விரிவு, ஆவியாதல்",
+          "வெப்பக் கடத்தல், திடப்பொருள் பதங்கமாதல்",
+          "வெப்பக் கதிர்வீச்சு, ஆவி ஒடுங்குதல்"
         ],
         "explanation": "வெப்பம் இரு பொருட்களின் வெப்பநிலை சமமாகும் வரை உயர் வெப்பநிலையிலிருந்து தாழ் வெப்பநிலைக்குப் பரவுகிறது."
       }
@@ -73,9 +73,9 @@
         "q": "We wear woolen clothes in winter because the air trapped in wool, being a bad conductor of heat,",
         "options": [
           "does not allow our body heat to escape",
-          "produces heat",
-          "conducts heat from outside",
-          "is a good conductor"
+          "produces heat inside the fibres",
+          "conducts heat in from the outside air",
+          "is a very good conductor of heat"
         ],
         "explanation": "Air is a bad conductor, so body heat is not lost."
       },
@@ -159,20 +159,20 @@
       "en": {
         "q": "A hot air balloon rises because",
         "options": [
-          "hot air is heavier than cold air",
-          "the hot air inside is less dense than the cold air outside",
-          "air is absent in it",
-          "heat pushes the balloon"
+          "hot air is heavier than the cold air outside",
+          "hot air inside is less dense than the cold air",
+          "there is no air at all present inside it",
+          "heat pushes the balloon upwards directly"
         ],
         "explanation": "Warm air is less dense than cold air and rises (convection)."
       },
       "ta": {
         "q": "வெப்பக் காற்று பலூன் மேலெழக் காரணம்",
         "options": [
-          "சூடான காற்று குளிர்ந்த காற்றை விடக் கனமானது",
-          "உள்ளே இருக்கும் சூடான காற்றின் அடர்த்தி வெளியிலுள்ள குளிர்ந்த காற்றை விடக் குறைவு",
-          "அதில் காற்று இல்லை",
-          "வெப்பம் பலூனைத் தள்ளுகிறது"
+          "சூடான காற்று வெளியிலுள்ள குளிர்ந்த காற்றை விடக் கனமானது",
+          "உள்ளிருக்கும் சூடான காற்றின் அடர்த்தி குளிர்ந்த காற்றை விடக் குறைவு",
+          "பலூனின் உள்ளே காற்றே சிறிதும் இல்லாமல் இருக்கிறது",
+          "வெப்பமே பலூனை நேரடியாகத் தள்ளி மேலே உயர்த்துகிறது"
         ],
         "explanation": "சூடான காற்று அடர்த்தி குறைந்து மேலெழுகிறது (வெப்பச் சலனம்)."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "The base of cooking utensils is blackened because a black surface",
         "options": [
-          "reflects more heat",
+          "reflects more heat away from the pan",
           "absorbs more heat from the surroundings",
-          "conducts less heat",
-          "emits no heat"
+          "conducts less heat into the food",
+          "emits no heat at all to the air"
         ],
         "explanation": "Black surfaces absorb more heat radiation; the polished surface of an aeroplane reflects most of the Sun's heat radiation."
       },
       "ta": {
         "q": "சமையல் பாத்திரங்களின் அடிப்பகுதி கருப்பாக்கப்படுவதற்குக் காரணம், கருப்புப் பரப்பு",
         "options": [
-          "அதிக வெப்பத்தை எதிரொளிப்பது",
+          "வெப்பத்தை அதிகமாகத் திருப்பி எதிரொளிப்பது",
           "சுற்றுப்புறத்திலிருந்து அதிக வெப்பத்தை உறிஞ்சுவது",
-          "குறைவான வெப்பத்தைக் கடத்துவது",
-          "வெப்பத்தை வெளியிடாதது"
+          "உணவுக்குக் குறைவான வெப்பத்தைக் கடத்துவது",
+          "காற்றுக்கு வெப்பத்தை முற்றிலும் வெளியிடாதது"
         ],
         "explanation": "கருப்புப் பரப்பு அதிகக் கதிர்வீச்சை உறிஞ்சும்; வானூர்தியின் பளபளப்பான பரப்பு சூரிய வெப்பத்தை எதிரொளிக்கும்."
       }
@@ -275,19 +275,19 @@
       "en": {
         "q": "0 K, called absolute zero, is the temperature at which",
         "options": [
-          "water boils",
-          "the molecules of a substance have their lowest possible energy",
-          "ice melts",
-          "all gases liquefy at once"
+          "water boils at normal atmospheric pressure",
+          "the molecules have their lowest possible energy",
+          "ice melts into water at normal pressure",
+          "all gases liquefy at once under pressure"
         ],
         "explanation": "For all gases, the pressure extrapolates to zero at -273.15 degree C, i.e. 0 K."
       },
       "ta": {
         "q": "0 K (தனிச்சுழி) என்பது",
         "options": [
-          "நீர் கொதிக்கும் வெப்பநிலை",
-          "ஒரு பொருளின் மூலக்கூறுகள் மிகக் குறைந்த ஆற்றலைப் பெற்றிருக்கும் வெப்பநிலை",
-          "பனிக்கட்டி உருகும் வெப்பநிலை",
+          "இயல்பு அழுத்தத்தில் நீர் கொதிக்கும் வெப்பநிலை",
+          "மூலக்கூறுகள் மிகக் குறைந்த ஆற்றல் பெற்றிருக்கும் வெப்பநிலை",
+          "இயல்பு அழுத்தத்தில் பனிக்கட்டி உருகும் வெப்பநிலை",
           "எல்லா வாயுக்களும் உடனே திரவமாகும் வெப்பநிலை"
         ],
         "explanation": "எல்லா வாயுக்களுக்கும் அழுத்தம் -273.15 °C-ல் சுழியாகும்; இதுவே 0 K."
@@ -488,12 +488,12 @@
       "ta": {
         "q": "வெப்பத்தை வெளியிட்டு ஆவி திரவமாக மாறும் நிகழ்வு",
         "options": [
-          "குளிர்தல் (ஒடுங்குதல்)",
+          "ஒடுங்குதல்",
           "ஆவியாதல்",
           "உருகுதல்",
           "பதங்கமாதல்"
         ],
-        "explanation": "நீரின் கொதிநிலையும் குளிர்தல் நிலையும் 100 °C."
+        "explanation": "நீரின் கொதிநிலையும் குளிர்தல் நிலையும் 100 °C. இது குளிர்தல் எனவும் அழைக்கப்படும்."
       }
     },
     {
@@ -536,10 +536,10 @@
       "en": {
         "q": "While ice melts at 0 degree C, the heat supplied does not raise the temperature because",
         "options": [
-          "ice has no heat capacity",
-          "it is used up as latent heat of fusion for the change of state",
-          "water cannot be heated",
-          "the thermometer is wrong"
+          "ice has no heat capacity at all at 0 degree C",
+          "it is used as latent heat for the change of state",
+          "water cannot be heated at all at that stage",
+          "the thermometer used is giving wrong readings"
         ],
         "explanation": "Latent heat is heat absorbed or released during a change of state without any change in temperature."
       },
@@ -623,10 +623,10 @@
       "en": {
         "q": "Convection takes place in",
         "options": [
-          "solids only",
+          "solids such as rock only",
           "liquids and gases",
-          "metals only",
-          "vacuum only"
+          "metals such as copper only",
+          "vacuum or empty space only"
         ],
         "explanation": "Conduction takes place in solids; convection in liquids and gases; radiation as electromagnetic waves."
       },

@@ -217,9 +217,9 @@
       "en": {
         "q": "The Brundtland Commission (1987) defined sustainable development as",
         "options": [
-          "rapid industrial growth at any cost",
-          "development that meets the needs of the present without compromising the ability of future generations to meet their own needs",
-          "conservation without any development",
+          "rapid industrial growth at any cost to nature",
+          "meeting present needs without harming future generations",
+          "strict conservation without any development at all",
           "development that focuses only on economic growth"
         ],
         "explanation": "Sustainable development harmonises economic growth, social aspects and environmental protection."
@@ -227,9 +227,9 @@
       "ta": {
         "q": "1987இல் புருந்த்லாந்து ஆணையம் வளம் குன்றா வளர்ச்சிக்குக் கொடுத்த வரையறை",
         "options": [
-          "எந்த விலையிலும் விரைவான தொழில் வளர்ச்சி",
-          "எதிர்காலத் தலைமுறையின் தேவைகளைப் பாதிக்காமல் நிகழ்காலத் தேவைகளை நிறைவு செய்யும் வளர்ச்சி",
-          "வளர்ச்சியின்றிப் பாதுகாப்பு மட்டும்",
+          "இயற்கையைப் பாழாக்கினாலும் விரைவான தொழில் வளர்ச்சி",
+          "நிகழ்காலத் தேவைகளை நிறைவுசெய்து எதிர்காலத்தைக் காக்கும் வளர்ச்சி",
+          "எந்த வளர்ச்சியுமின்றிப் பாதுகாப்பு மட்டுமே செய்தல்",
           "பொருளாதார வளர்ச்சியை மட்டும் கருதும் வளர்ச்சி"
         ],
         "explanation": "பொருளாதார வளர்ச்சி, சமூகம், சுற்றுச்சூழல் பாதுகாப்பு ஆகிய மூன்றையும் இணைப்பது வளம் குன்றா வளர்ச்சி."
@@ -246,20 +246,20 @@
       "en": {
         "q": "A census is",
         "options": [
-          "an official enumeration of population carried out periodically",
-          "a survey of rainfall",
-          "a map of settlements",
-          "a count of animals only"
+          "an official periodic count of the population",
+          "a yearly survey of the rainfall in a region",
+          "a detailed map of all human settlements",
+          "an official count of wild animals only"
         ],
         "explanation": "It records characteristics of the population such as age, sex, literacy and occupation."
       },
       "ta": {
         "q": "மக்கள்தொகைக் கணக்கெடுப்பு (Census) என்பது",
         "options": [
-          "மக்கள்தொகையை அவ்வப்போது அதிகாரப்பூர்வமாக எண்ணுதல்",
-          "மழையளவுக் கணக்கெடுப்பு",
-          "குடியிருப்பு வரைபடம்",
-          "விலங்குகளை மட்டும் எண்ணுதல்"
+          "மக்களை அதிகாரப்பூர்வமாக அவ்வப்போது எண்ணுதல்",
+          "ஒரு பகுதியின் ஆண்டு மழையளவுக் கணக்கெடுப்பு",
+          "எல்லாக் குடியிருப்புகளின் விரிவான வரைபடம்",
+          "காட்டு விலங்குகளை மட்டும் எண்ணுதல்"
         ],
         "explanation": "வயது, பாலினம், கல்வியறிவு, தொழில் போன்ற விவரங்கள் பதிவாகும்."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "Population growth refers to",
         "options": [
-          "a decrease in deaths only",
+          "a decrease in the death rate of people only",
           "the difference between births and migration",
           "the spread of people over the earth's surface",
-          "an increase in the number of people residing in a particular area during a particular period"
+          "an increase in the number of people living in an area"
         ],
         "explanation": "Natural increase is the difference between the birth rate and the death rate."
       },
       "ta": {
         "q": "மக்கள்தொகை வளர்ச்சி என்பது",
         "options": [
-          "இறப்பு குறைவது மட்டும்",
+          "இறப்பு வீதம் மட்டுமே குறைவதால் ஏற்படும் மாற்றம்",
           "பிறப்புக்கும் இடப்பெயர்வுக்குமான வேறுபாடு",
           "புவியில் மக்கள் பரவியிருக்கும் முறை",
-          "குறிப்பிட்ட காலத்தில் ஓரிடத்தில் வாழும் மக்களின் எண்ணிக்கை அதிகரிப்பது"
+          "ஓரிடத்தில் வாழும் மக்களின் எண்ணிக்கை அதிகரிப்பது"
         ],
         "explanation": "பிறப்பு வீதத்திற்கும் இறப்பு வீதத்திற்குமான வேறுபாடு இயற்கை அதிகரிப்பு."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "The quaternary sector is called the 'knowledge economy' because it involves",
         "options": [
-          "raw material extraction",
-          "assembly line production",
-          "research and development and knowledge-based services",
-          "transporting goods"
+          "extraction of raw materials from nature",
+          "assembly line production in big factories",
+          "research, development and knowledge services",
+          "transporting goods by road and rail"
         ],
         "explanation": "Quaternary activities: research and development, consultation, education."
       },
       "ta": {
         "q": "நான்காம் நிலைப் பொருளாதாரம் 'அறிவுசார் பொருளாதாரம்' எனப்படக் காரணம்",
         "options": [
-          "மூலப்பொருள் எடுப்பதால்",
-          "தொழிற்சாலை உற்பத்தியால்",
-          "ஆராய்ச்சி, மேம்பாடு, அறிவுசார் சேவைகள் அதில் அடங்குவதால்",
-          "சரக்குப் போக்குவரத்தால்"
+          "இயற்கையிலிருந்து மூலப்பொருள் எடுப்பதால்",
+          "பெரிய தொழிற்சாலைகளில் உற்பத்தி நடப்பதால்",
+          "ஆராய்ச்சியும் அறிவுசார் சேவைகளும் அடங்குவதால்",
+          "சரக்குகளைச் சாலை, ரயிலில் கொண்டு செல்வதால்"
         ],
         "explanation": "ஆராய்ச்சி, ஆலோசனை, கல்வி போன்றவை நான்காம் நிலைத் தொழில்கள்."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "Population growth has to be controlled mainly because",
         "options": [
-          "it reduces the death rate",
-          "resources are unlimited",
-          "populations never grow",
-          "rapid growth over-exploits resources and upsets the ecosystem"
+          "it greatly reduces the death rate everywhere",
+          "natural resources are completely unlimited",
+          "population never grows beyond fixed limits",
+          "rapid growth overuses resources and harms ecology"
         ],
         "explanation": "Over-population means more people than resources can sustain."
       },
       "ta": {
         "q": "மக்கள்தொகை வளர்ச்சி கட்டுப்படுத்தப்பட வேண்டும்; ஏனெனில்",
         "options": [
-          "இறப்பு வீதம் குறையும்",
-          "வளங்கள் எல்லையற்றவை",
-          "மக்கள்தொகை ஒருபோதும் வளராது",
-          "விரைவான வளர்ச்சி வளங்களை அளவுக்கு மீறிப் பயன்படுத்தி சூழலைச் சீர்குலைக்கிறது"
+          "இறப்பு வீதம் எங்கும் மிகவும் குறைந்துவிடும்",
+          "இயற்கை வளங்கள் முற்றிலும் எல்லையற்றவை",
+          "மக்கள்தொகை ஒரு எல்லைக்கு மேல் ஒருபோதும் வளராது",
+          "விரைவான வளர்ச்சி வளங்களை அழித்துச் சூழலைக் கெடுக்கிறது"
         ],
         "explanation": "வளங்களுக்கு மேல் மக்கள் இருப்பது மிகை மக்கள்தொகை."
       }

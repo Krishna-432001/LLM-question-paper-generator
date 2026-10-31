@@ -159,20 +159,20 @@
       "en": {
         "q": "The e.m.f of a source is one volt if",
         "options": [
-          "one coulomb of charge flows per second",
-          "one joule of work is done to drive one coulomb of charge around the complete circuit",
-          "one ampere flows through one ohm",
-          "one newton acts on one metre"
+          "one coulomb of charge flows past per second",
+          "one joule of work drives one coulomb around the circuit",
+          "one ampere flows through a one ohm resistor",
+          "one newton of force acts on one metre length"
         ],
         "explanation": "e.m.f = W/q; its SI unit is joule per coulomb, i.e. volt."
       },
       "ta": {
         "q": "ஒரு மின்னாற்றல் மூலத்தின் மின்னியக்கு விசை ஒரு வோல்ட் எனப்படுவது",
         "options": [
-          "ஒரு வினாடியில் ஒரு கூலூம் மின்னூட்டம் பாயும்போது",
-          "ஒரு கூலூம் மின்னூட்டத்தைச் சுற்றை முழுமையாகச் சுற்றி வரச் செய்ய ஒரு ஜூல் வேலை செய்யப்படும்போது",
-          "ஒரு ஓம் வழியே ஒரு ஆம்பியர் பாயும்போது",
-          "ஒரு மீட்டரில் ஒரு நியூட்டன் செயல்படும்போது"
+          "ஒரு வினாடியில் ஒரு கூலூம் மின்னூட்டம் ஒரு புள்ளியைக் கடக்கும்போது",
+          "ஒரு கூலூம் மின்னூட்டத்தைச் சுற்றி வரச்செய்ய ஒரு ஜூல் வேலை செய்யும்போது",
+          "ஒரு ஓம் மின்தடையின் வழியே ஒரு ஆம்பியர் மின்னோட்டம் பாயும்போது",
+          "ஒரு மீட்டர் நீளத்தில் ஒரு நியூட்டன் விசை செயல்படும்போது"
         ],
         "explanation": "மின்னியக்கு விசை = W/q; அலகு ஜூல்/கூலூம் = வோல்ட்."
       }
@@ -188,20 +188,20 @@
       "en": {
         "q": "One ohm is the resistance of a component when",
         "options": [
-          "1 joule is lost per second",
-          "1 coulomb is stored in it",
+          "1 joule of energy is lost every second",
+          "1 coulomb of charge is stored inside it",
           "1 volt across it drives a current of 1 ampere",
-          "1 ampere flows for 1 hour"
+          "1 ampere flows through it for exactly 1 hour"
         ],
         "explanation": "R = V/I; 1 ohm = 1 V / 1 A."
       },
       "ta": {
         "q": "ஒரு ஓம் மின்தடை என்பது",
         "options": [
-          "வினாடிக்கு ஒரு ஜூல் இழக்கும் தடை",
-          "ஒரு கூலூம் சேமிக்கப்படும் தடை",
-          "ஒரு வோல்ட் மின்னழுத்த வேறுபாடு ஒரு ஆம்பியர் மின்னோட்டத்தை உண்டாக்கும் தடை",
-          "ஒரு ஆம்பியர் ஒரு மணி நேரம் பாயும் தடை"
+          "வினாடிக்கு ஒரு ஜூல் ஆற்றலை இழக்கும் தடை",
+          "ஒரு கூலூம் மின்னூட்டம் சேமிக்கப்படும் தடை",
+          "ஒரு வோல்ட் மின்னழுத்தம் ஒரு ஆம்பியரை உண்டாக்கும் தடை",
+          "ஒரு ஆம்பியர் ஒரு மணி நேரம் முழுவதும் பாயும் தடை"
         ],
         "explanation": "R = V/I; 1 ஓம் = 1 V / 1 A."
       }
@@ -275,19 +275,19 @@
       "en": {
         "q": "In a parallel circuit",
         "options": [
-          "the current in every branch is the same",
-          "there is only one path for the charge",
-          "the main current is zero",
-          "the potential difference across each branch is the same"
+          "the current through every branch is the same",
+          "there is only a single path for the charge to flow",
+          "the main current in the circuit is zero",
+          "the potential difference is the same in each branch"
         ],
         "explanation": "In a parallel circuit there is more than one path; branch currents add up to the main current and p.d. across the branches is the same."
       },
       "ta": {
         "q": "பக்க இணைப்பு மின்சுற்றில்",
         "options": [
-          "ஒவ்வொரு கிளையிலும் மின்னோட்டம் சமம்",
+          "ஒவ்வொரு கிளையிலும் பாயும் மின்னோட்டம் சமம்",
           "மின்னூட்டம் பாய ஒரே ஒரு பாதைதான் உண்டு",
-          "முதன்மை மின்னோட்டம் சுழி",
+          "முதன்மைச் சுற்றில் பாயும் மின்னோட்டம் சுழி",
           "ஒவ்வொரு கிளையின் குறுக்கும் மின்னழுத்த வேறுபாடு சமம்"
         ],
         "explanation": "கிளை மின்னோட்டங்களின் கூடுதல் முதன்மை மின்னோட்டத்திற்குச் சமம்; கிளைகளின் குறுக்கே மின்னழுத்த வேறுபாடு சமம்."
@@ -362,20 +362,20 @@
       "en": {
         "q": "Heat is produced when current flows through a wire because",
         "options": [
-          "electrons are created in the wire",
-          "electrons suffer resistance and work done against it is converted to heat",
-          "the wire loses its mass",
-          "the current is destroyed"
+          "extra electrons are created inside the wire",
+          "work done against resistance is converted to heat",
+          "the wire loses part of its mass as heat",
+          "the current is destroyed inside the wire"
         ],
         "explanation": "Work has to be done to overcome the resistance, which is converted into heat energy (Joule heating)."
       },
       "ta": {
         "q": "கம்பியில் மின்னோட்டம் பாயும்போது வெப்பம் உண்டாகக் காரணம்",
         "options": [
-          "கம்பியில் எலக்ட்ரான்கள் உருவாவது",
-          "எலக்ட்ரான்கள் தடையை எதிர்கொள்வதால் அதற்கெதிராகச் செய்யப்படும் வேலை வெப்பமாக மாறுவது",
-          "கம்பியின் நிறை குறைவது",
-          "மின்னோட்டம் அழிவது"
+          "கம்பிக்குள் கூடுதல் எலக்ட்ரான்கள் உருவாவது",
+          "தடைக்கெதிராகச் செய்யப்படும் வேலை வெப்பமாக மாறுவது",
+          "கம்பியின் நிறை வெப்பமாக மாறிக் குறைவது",
+          "கம்பிக்குள் மின்னோட்டமே அழிந்துவிடுவது"
         ],
         "explanation": "தடையை வெல்லச் செய்யப்படும் வேலை வெப்ப ஆற்றலாக மாறுகிறது (ஜூல் வெப்பமேறல்)."
       }
@@ -431,7 +431,7 @@
         "q": "நூலின்படி, மனித உடலில் மின்னூட்டத் துகள்களின் இயக்கத்தால் உண்டாகும் மிக மெல்லிய மின்னோட்டங்கள்",
         "options": [
           "மாறு சமிக்ஞைகள்",
-          "நரம்பிணைப்புச் சமிக்ஞைகள் (synaptic signals)",
+          "நரம்பிணைப்புச் சமிக்ஞைகள்",
           "ஜூல் சமிக்ஞைகள்",
           "திருத்தி சமிக்ஞைகள்"
         ],
@@ -479,9 +479,9 @@
         "q": "In the USA the voltage and frequency of the domestic ac supply are",
         "options": [
           "about 110-120 V and 60 Hz",
-          "220 V and 50 Hz",
-          "110 V and 50 Hz",
-          "220 V and 60 Hz"
+          "about 220 V and 50 Hz",
+          "about 110 V and 50 Hz",
+          "about 220 V and 60 Hz"
         ],
         "explanation": "India: 220 V, 50 Hz; USA: nominally 120 V (the book gives 110 V), 60 Hz."
       },
@@ -489,9 +489,9 @@
         "q": "அமெரிக்காவில் வீட்டு உபயோக ac மின்சாரத்தின் மின்னழுத்தமும் அதிர்வெண்ணும்",
         "options": [
           "ஏறத்தாழ 110-120 V, 60 Hz",
-          "220 V, 50 Hz",
-          "110 V, 50 Hz",
-          "220 V, 60 Hz"
+          "ஏறத்தாழ 220 V, 50 Hz",
+          "ஏறத்தாழ 110 V, 50 Hz",
+          "ஏறத்தாழ 220 V, 60 Hz"
         ],
         "explanation": "இந்தியாவில் 220 V, 50 Hz; அமெரிக்காவில் பெயரளவில் 120 V (நூல் 110 V எனத் தருகிறது), 60 Hz."
       }
@@ -520,7 +520,7 @@
           "கால்வனாமீட்டர்",
           "இன்வர்ட்டர்",
           "மின்மாற்றி",
-          "திருத்தி (ரெக்டிஃபையர்)"
+          "திருத்தி"
         ],
         "explanation": "ac-ஐ dc ஆக மாற்றுவது திருத்தி; dc-ஐ ac ஆக மாற்றுவது இன்வர்ட்டர்."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "The resistance of a dry human body is about",
         "options": [
-          "100 ohm",
-          "10 ohm",
-          "1 ohm",
-          "1,00,000 ohm"
+          "about 100 ohm",
+          "about 10 ohm",
+          "about 1 ohm",
+          "about 1,00,000 ohm"
         ],
         "explanation": "A dry body has about 1,00,000 ohm; because of the water in it the resistance falls to a few hundred ohm."
       },
       "ta": {
         "q": "உலர்ந்த மனித உடலின் மின்தடை ஏறத்தாழ",
         "options": [
-          "100 ஓம்",
-          "10 ஓம்",
-          "1 ஓம்",
-          "1,00,000 ஓம்"
+          "ஏறத்தாழ 100 ஓம்",
+          "ஏறத்தாழ 10 ஓம்",
+          "ஏறத்தாழ 1 ஓம்",
+          "ஏறத்தாழ 1,00,000 ஓம்"
         ],
         "explanation": "உலர்ந்த உடலின் மின்தடை ஏறத்தாழ 1,00,000 ஓம்; நீர் இருப்பதால் சில நூறு ஓமாகக் குறைகிறது."
       }
@@ -594,19 +594,19 @@
       "en": {
         "q": "Which precaution is correct when dealing with damaged insulation of a wire?",
         "options": [
-          "Do not touch the bare wire; use safety gloves and stand on an insulating stool",
-          "Touch the bare wire with a wet hand",
-          "Ignore the damage",
-          "Use more devices on that socket"
+          "Do not touch the bare wire; wear safety gloves",
+          "Touch the bare wire firmly with a wet hand",
+          "Ignore the damage and keep using the wire",
+          "Plug more devices into that same socket"
         ],
         "explanation": "Do not touch the bare wire; use safety gloves and stand on an insulating stool or wear rubber slippers."
       },
       "ta": {
         "q": "கம்பியின் மின்காப்பு சேதமடைந்திருக்கும்போது கடைப்பிடிக்க வேண்டிய சரியான பாதுகாப்பு",
         "options": [
-          "வெற்றுக் கம்பியைத் தொடக்கூடாது; பாதுகாப்புக் கையுறை அணிந்து மின்காப்பு முக்காலியில் நிற்க வேண்டும்",
-          "ஈரக்கையால் வெற்றுக் கம்பியைத் தொடுதல்",
-          "சேதத்தைப் புறக்கணித்தல்",
+          "வெற்றுக் கம்பியைத் தொடாமல், பாதுகாப்புக் கையுறை அணிய வேண்டும்",
+          "ஈரக்கையால் வெற்றுக் கம்பியை உறுதியாகத் தொடுதல்",
+          "சேதத்தைப் புறக்கணித்துக் கம்பியைத் தொடர்ந்து பயன்படுத்துதல்",
           "அந்தப் பொருத்தியில் மேலும் சாதனங்களை இணைத்தல்"
         ],
         "explanation": "வெற்றுக் கம்பியைத் தொடக்கூடாது; கையுறை, ரப்பர் காலணி அல்லது மின்காப்பு முக்காலியைப் பயன்படுத்த வேண்டும்."

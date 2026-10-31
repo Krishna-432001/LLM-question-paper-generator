@@ -111,9 +111,9 @@
       "ta": {
         "q": "மின்முலாம் பூசுதல் எதற்கு எடுத்துக்காட்டு?",
         "options": [
-          "வெப்ப விளைவு",
-          "காந்த விளைவு",
-          "பாய்வு விளைவு",
+          "மின்னோட்டத்தின் வெப்ப விளைவு",
+          "மின்னோட்டத்தின் காந்த விளைவு",
+          "மின்னோட்டத்தின் பாய்வு விளைவு",
           "மின்னோட்டத்தின் வேதி விளைவு"
         ],
         "explanation": "மின்முலாம் பூசுதல் மின்னோட்டத்தின் வேதி விளைவால் நிகழ்கிறது."
@@ -188,22 +188,22 @@
       "en": {
         "q": "Which statement about an electrically neutral body is correct?",
         "options": [
-          "It has only positive charges",
-          "It has zero net charge, i.e. equal positive and negative charges",
-          "It has more electrons than protons",
-          "It has no electrons"
+          "It has only positive charges and no negative ones",
+          "It has equal positive and negative charges",
+          "It has far more electrons than protons in it",
+          "It has no electrons in any of its atoms"
         ],
-        "explanation": "Usually there are as many electrons as protons, so the atoms themselves are neutral. The book statement is true."
+        "explanation": "Usually there are as many electrons as protons, so the atoms themselves are neutral. The book statement is true. Its net charge is zero. Its net charge is zero."
       },
       "ta": {
         "q": "மின்னியல் நடுநிலை நிலை குறித்துச் சரியான கூற்று",
         "options": [
-          "நேர் மின்னூட்டம் மட்டும் உண்டு",
-          "நிகர மின்னூட்டம் சுழி; அதாவது நேர், எதிர் மின்னூட்டங்கள் சமம்",
+          "நேர் மின்னூட்டம் மட்டுமே உண்டு, எதிர் இல்லை",
+          "நேர், எதிர் மின்னூட்டங்கள் சமமாக இருக்கும்",
           "புரோட்டான்களை விட எலக்ட்ரான்கள் அதிகம்",
-          "எலக்ட்ரான்கள் இல்லை"
+          "அதன் அணுக்களில் எலக்ட்ரான்களே இல்லை"
         ],
-        "explanation": "அணுக்களில் எலக்ட்ரான்களும் புரோட்டான்களும் சம எண்ணிக்கையில் இருப்பதால் அவை நடுநிலை; நூலின் கூற்று சரி."
+        "explanation": "அணுக்களில் எலக்ட்ரான்களும் புரோட்டான்களும் சம எண்ணிக்கையில் இருப்பதால் அவை நடுநிலை; நூலின் கூற்று சரி. அதன் நிகர மின்னூட்டம் சுழி. அதன் நிகர மின்னூட்டம் சுழி."
       }
     },
     {
@@ -346,7 +346,7 @@
           "நீர்ச்சக்கரம்",
           "குழாய்",
           "குழாய்த் திருகு மட்டும்",
-          "நீரிறைப்பான் (பம்பு)"
+          "நீரிறைப்பான்"
         ],
         "explanation": "பம்பு நீரைத் தள்ளுவதுபோல மின்கலம் மின்னூட்டங்களைத் தள்ளுகிறது."
       }
@@ -391,22 +391,22 @@
       "en": {
         "q": "A bird sitting on a high-voltage power line is safe because",
         "options": [
-          "the line carries no current",
-          "birds are insulators",
-          "there is no potential difference between its two feet, so no current passes through it",
-          "its feathers act as a rectifier"
+          "the power line carries no current at all",
+          "birds are perfect electrical insulators",
+          "no potential difference exists between its two feet",
+          "its feathers act as a rectifier of current"
         ],
-        "explanation": "Both feet are at the same potential, so no current flows through the bird's body."
+        "explanation": "Both feet are at the same potential, so no current flows through the bird's body. So no current passes through the bird. So no current passes through the bird."
       },
       "ta": {
         "q": "உயர் மின்திறன் கம்பியில் அமர்ந்திருக்கும் பறவை பாதுகாப்பாக இருப்பதற்குக் காரணம்",
         "options": [
-          "கம்பியில் மின்னோட்டம் இல்லை",
-          "பறவைகள் மின்கடத்தாப் பொருள்",
-          "அதன் இரு கால்களுக்கு இடையே மின்னழுத்த வேறுபாடு இல்லை; எனவே மின்னோட்டம் பாயாது",
+          "அந்தக் கம்பியில் மின்னோட்டமே சிறிதும் இல்லை",
+          "பறவைகள் முற்றிலும் மின்கடத்தாப் பொருள்கள்",
+          "அதன் இரு கால்களுக்கிடையே மின்னழுத்த வேறுபாடு இல்லை",
           "இறகுகள் திருத்தியாகச் செயல்படுகின்றன"
         ],
-        "explanation": "இரு கால்களும் ஒரே மின்னழுத்தத்தில் இருப்பதால் பறவையின் உடல் வழியே மின்னோட்டம் பாயாது."
+        "explanation": "இரு கால்களும் ஒரே மின்னழுத்தத்தில் இருப்பதால் பறவையின் உடல் வழியே மின்னோட்டம் பாயாது. எனவே பறவையின் வழியே மின்னோட்டம் பாயாது. எனவே பறவையின் வழியே மின்னோட்டம் பாயாது."
       }
     },
     {
@@ -449,20 +449,20 @@
       "en": {
         "q": "The electrostatic force between two charges depends on",
         "options": [
-          "the colour of the charged bodies",
-          "only the mass of the charged bodies",
-          "the magnitude of the charges and the distance between them",
-          "the temperature of the room only"
+          "the colour and shape of the charged bodies",
+          "only the total mass of the two charged bodies",
+          "the size of the charges and distance between them",
+          "only the temperature of the room around them"
         ],
         "explanation": "Electric force depends on the amount of the charges and the separation between them (Coulomb's law); like charges repel, unlike attract."
       },
       "ta": {
         "q": "இரு மின்னூட்டங்களுக்கு இடையிலான நிலைமின்னியல் விசை சார்ந்திருப்பது",
         "options": [
-          "பொருட்களின் நிறம்",
-          "பொருட்களின் நிறை மட்டும்",
+          "பொருள்களின் நிறமும் அவற்றின் வடிவமும்",
+          "மின்னூட்டம் பெற்ற பொருள்களின் நிறை மட்டுமே",
           "மின்னூட்டங்களின் அளவு, அவற்றுக்கிடையிலான தொலைவு",
-          "அறையின் வெப்பநிலை மட்டும்"
+          "அவற்றைச் சுற்றியுள்ள அறையின் வெப்பநிலை மட்டுமே"
         ],
         "explanation": "விசை மின்னூட்டங்களின் அளவையும் இடைத்தொலைவையும் பொறுத்தது (கூலூம் விதி)."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "Electric lines of force are",
         "options": [
-          "imaginary straight or curved paths along which a unit positive charge tends to move",
-          "lines joining equal masses",
-          "paths of electrons in a wire",
-          "real wires carrying current"
+          "imaginary paths that a unit positive charge tends to follow",
+          "imaginary lines joining bodies of equal mass",
+          "the actual paths of electrons inside a wire",
+          "real metallic wires that carry a current"
         ],
         "explanation": "Electric lines of force are imaginary lines along which a unit positive charge tends to move in the electric field."
       },
       "ta": {
         "q": "மின்விசைக் கோடுகள் என்பவை",
         "options": [
-          "ஓரலகு நேர் மின்னூட்டம் நகர முனையும் கற்பனையான நேர் அல்லது வளைவுப் பாதைகள்",
-          "சம நிறைகளை இணைக்கும் கோடுகள்",
-          "கம்பியில் எலக்ட்ரான்களின் பாதை",
-          "மின்னோட்டம் பாயும் உண்மையான கம்பிகள்"
+          "ஓரலகு நேர் மின்னூட்டம் நகர முனையும் கற்பனைப் பாதைகள்",
+          "சம நிறையுள்ள பொருள்களை இணைக்கும் கற்பனைக் கோடுகள்",
+          "கம்பிக்குள் எலக்ட்ரான்கள் செல்லும் உண்மைப் பாதை",
+          "மின்னோட்டம் பாயும் உண்மையான உலோகக் கம்பிகள்"
         ],
         "explanation": "மின்புலத்தில் ஓரலகு நேர் மின்னூட்டம் நகர முனையும் கற்பனைப் பாதைகளே மின்விசைக் கோடுகள்."
       }
@@ -537,7 +537,7 @@
         "q": "Electric current is the",
         "options": [
           "work done per unit charge; unit volt",
-          "rate at which charges flow past a point in a circuit; unit ampere",
+          "rate of flow of charge past a point; unit ampere",
           "opposition to flow of charge; unit ohm",
           "total charge stored in a cell; unit coulomb"
         ],
@@ -547,7 +547,7 @@
         "q": "மின்னோட்டம் என்பது",
         "options": [
           "ஓரலகு மின்னூட்டத்திற்குச் செய்யப்படும் வேலை; அலகு வோல்ட்",
-          "மின்சுற்றில் ஒரு புள்ளி வழியாக மின்னூட்டங்கள் பாயும் வீதம்; அலகு ஆம்பியர்",
+          "ஒரு புள்ளி வழியாக மின்னூட்டம் பாயும் வீதம்; அலகு ஆம்பியர்",
           "மின்னூட்டப் பாய்வின் எதிர்ப்பு; அலகு ஓம்",
           "மின்கலத்தில் சேமிக்கப்பட்ட மின்னூட்டம்; அலகு கூலூம்"
         ],
@@ -607,9 +607,9 @@
           "வோல்ட்மீட்டர்",
           "மின்முலாம் பூசும் தொட்டி",
           "மின்மாற்றி",
-          "மின் துணித்தேய்ப்புப் பெட்டி (அயன் பாக்ஸ்)"
+          "மின் துணித்தேய்ப்புப் பெட்டி"
         ],
-        "explanation": "இஸ்திரிப் பெட்டி, நீர் சூடேற்றி, டோஸ்டர் ஆகியவை வெப்ப விளைவில் செயல்படுகின்றன."
+        "explanation": "இஸ்திரிப் பெட்டி, நீர் சூடேற்றி, டோஸ்டர் ஆகியவை வெப்ப விளைவில் செயல்படுகின்றன. இதை அயன் பாக்ஸ் எனவும் கூறுவர். இதை அயன் பாக்ஸ் எனவும் கூறுவர்."
       }
     },
     {
@@ -623,10 +623,10 @@
       "en": {
         "q": "Home appliances are generally connected in",
         "options": [
-          "series, so each gets the same current",
-          "parallel, so each gets the same potential difference and works independently",
-          "series, so that all stop if one fails",
-          "neither series nor parallel"
+          "series, so each appliance gets the same current",
+          "parallel, so each gets the same voltage and works alone",
+          "series, so that all of them stop if one fails",
+          "neither in series nor in parallel at all"
         ],
         "explanation": "In parallel the potential difference across each branch is the same and there is more than one path for the charge to flow."
       },
@@ -634,7 +634,7 @@
         "q": "வீட்டு உபயோக மின் பொருட்கள் பொதுவாக இணைக்கப்படுவது",
         "options": [
           "தொடரிணைப்பில்; ஒவ்வொன்றிலும் ஒரே மின்னோட்டம் பாயும்",
-          "பக்க இணைப்பில்; ஒவ்வொன்றுக்கும் ஒரே மின்னழுத்த வேறுபாடு கிடைத்துத் தனித்தனியாக இயங்கும்",
+          "பக்க இணைப்பில்; ஒரே மின்னழுத்தம், தனித்து இயங்கும்",
           "தொடரிணைப்பில்; ஒன்று பழுதானால் எல்லாம் நின்றுவிடும்",
           "தொடர், பக்க இணைப்பு இரண்டுமல்ல"
         ],

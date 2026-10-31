@@ -275,20 +275,20 @@
       "en": {
         "q": "Abyssal plains of the Atlantic and Indian Oceans are more extensive than those of the Pacific mainly because",
         "options": [
-          "most of the world's largest rivers empty their sediments into these oceans",
-          "the Pacific has no plains",
-          "the Atlantic is deeper",
-          "they are warmer"
+          "the largest rivers drain their sediments into them",
+          "the Pacific Ocean has no abyssal plains",
+          "the Atlantic is much deeper than the Pacific",
+          "they are warmer than the Pacific Ocean is"
         ],
         "explanation": "E.g. the Amazon, Ganga and Brahmaputra."
       },
       "ta": {
         "q": "பசிபிக்கை விட அட்லாண்டிக், இந்தியப் பெருங்கடல்களில் ஆழ்கடல் சமவெளிகள் பரந்திருக்கக் காரணம்",
         "options": [
-          "உலகின் பெரும்பாலான பெரிய ஆறுகள் தம் படிவுகளை இப்பெருங்கடல்களில் சேர்ப்பதால்",
-          "பசிபிக்கில் சமவெளி இல்லை",
-          "அட்லாண்டிக் ஆழமானது",
-          "இவை வெப்பமானவை"
+          "பெரிய ஆறுகள் தம் படிவுகளை இவற்றில் சேர்ப்பதால்",
+          "பசிபிக் பெருங்கடலில் ஆழ்கடல் சமவெளியே இல்லை",
+          "அட்லாண்டிக் பெருங்கடல் பசிபிக்கை விட மிக ஆழமானது",
+          "இவை பசிபிக் பெருங்கடலை விட வெப்பமானவை"
         ],
         "explanation": "அமேசான், கங்கை, பிரம்மபுத்திரா எடுத்துக்காட்டுகள்."
       }
@@ -305,9 +305,9 @@
         "q": "Most ocean trenches are",
         "options": [
           "V-shaped with steep sides",
-          "flat-topped",
-          "dome-shaped",
-          "U-shaped"
+          "flat-topped like a plateau",
+          "dome-shaped like a hill",
+          "U-shaped with gentle sides"
         ],
         "explanation": "Trenches are sediment-free; the epicentres of great earthquakes are found in them."
       },
@@ -315,9 +315,9 @@
         "q": "பெரும்பாலான ஆழ்கடல் அகழிகள் எந்த வடிவில் உள்ளன?",
         "options": [
           "செங்குத்துப் பக்கங்களுடைய V வடிவம்",
-          "தட்டை உச்சி",
-          "குவிமாடம்",
-          "U வடிவம்"
+          "பீடபூமி போன்ற தட்டை உச்சி",
+          "மலை போன்ற குவிமாட வடிவம்",
+          "சரிவான பக்கங்களுடைய U வடிவம்"
         ],
         "explanation": "அகழிகள் படிவற்றவை; பெரும் புவிஅதிர்ச்சிகளின் மையங்கள் இங்கு உள்ளன."
       }
@@ -420,22 +420,22 @@
       "en": {
         "q": "Wave energy power plants have been installed at",
         "options": [
-          "Chennai and Visakhapatnam",
-          "Kanyakumari and Puducherry",
-          "Mumbai and Goa",
-          "Vizhinjam (Keralam) and the Andaman and Nicobar Islands"
+          "Chennai and Visakhapatnam on the east coast",
+          "Kanyakumari and Puducherry on the south coast",
+          "Mumbai and Goa on the west coast of India",
+          "Vizhinjam and the Andaman and Nicobar Islands"
         ],
         "explanation": "The energy of falling wave water turns hydro turbines. (Kerala is now officially Keralam.)"
       },
       "ta": {
         "q": "அலை ஆற்றல் மின்நிலையங்கள் நிறுவப்பட்டுள்ள இடங்கள்",
         "options": [
-          "சென்னை, விசாகப்பட்டினம்",
-          "கன்னியாகுமரி, புதுச்சேரி",
-          "மும்பை, கோவா",
-          "விழிஞ்சம் (கேரளம்), அந்தமான் நிக்கோபார் தீவுகள்"
+          "சென்னை, விசாகப்பட்டினம் கடற்கரைகள்",
+          "கன்னியாகுமரி, புதுச்சேரி கடற்கரைகள்",
+          "மும்பை, கோவா மேற்குக் கடற்கரைப் பகுதிகள்",
+          "விழிஞ்சம், அந்தமான் நிக்கோபார் தீவுகள்"
         ],
-        "explanation": "விழும் அலைநீரின் ஆற்றல் நீர்ச்சுழலிகளை இயக்குகிறது."
+        "explanation": "விழும் அலைநீரின் ஆற்றல் நீர்ச்சுழலிகளை இயக்குகிறது. விழிஞ்சம் கேரளத்தில் உள்ளது. விழிஞ்சம் கேரளத்தில் உள்ளது."
       }
     },
     {
@@ -507,20 +507,20 @@
       "en": {
         "q": "Ocean currents move",
         "options": [
-          "clockwise in the northern hemisphere and anti-clockwise in the southern hemisphere",
-          "anti-clockwise in the northern hemisphere",
-          "clockwise in both hemispheres",
-          "randomly"
+          "clockwise in the north, anti-clockwise in the south",
+          "anti-clockwise in the northern hemisphere only",
+          "clockwise in both the hemispheres always",
+          "in a random pattern without direction"
         ],
         "explanation": "The movement from high latitudes towards low latitudes is a cold current (e.g. Labrador, Peruvian)."
       },
       "ta": {
         "q": "கடல் நீரோட்டங்கள் சுழலும் திசை",
         "options": [
-          "வடகோளார்த்தத்தில் கடிகாரச் சுற்றுத் திசையிலும், தென்கோளார்த்தத்தில் எதிர்த்திசையிலும்",
-          "வடகோளார்த்தத்தில் எதிர்க்கடிகாரத் திசையில்",
-          "இரு அரைக்கோளங்களிலும் கடிகாரத் திசையில்",
-          "ஒழுங்கற்ற முறையில்"
+          "வடக்கே கடிகாரத் திசையிலும் தெற்கே எதிர்த்திசையிலும்",
+          "வடகோளார்த்தத்தில் மட்டும் எதிர்க்கடிகாரத் திசையில்",
+          "இரு அரைக்கோளங்களிலும் எப்போதும் கடிகாரத் திசையில்",
+          "எந்த ஒழுங்கும் இல்லாமல் தாறுமாறாக"
         ],
         "explanation": "உயர் அட்சத்திலிருந்து தாழ் அட்சம் நோக்கிச் செல்வது குளிர் நீரோட்டம்."
       }
@@ -636,7 +636,7 @@
           "பெரு, அலாஸ்கா நீரோட்டங்கள்",
           "கேனரி, பெங்குவேலா நீரோட்டங்கள்",
           "குரோசியோ, கலிஃபோர்னியா நீரோட்டங்கள்",
-          "வளைகுடா நீரோட்டமும் லாப்ரடார் நீரோட்டமும் சந்திப்பது"
+          "வளைகுடா, லாப்ரடார் நீரோட்டங்கள்"
         ],
         "explanation": "வெப்ப-குளிர் நீரோட்டச் சந்திப்பு மீன்பிடித்தளத்தையும் உருவாக்கும்."
       }
@@ -682,21 +682,21 @@
         "q": "Change in the nature of which current is associated with the formation of El Nino?",
         "options": [
           "Gulf Stream",
-          "Peruvian (Humboldt) current",
+          "Peruvian current",
           "Kuroshio",
           "Canary current"
         ],
-        "explanation": "It is also a cause for the Atacama desert."
+        "explanation": "It is also a cause for the Atacama desert. The Peruvian current is also called the Humboldt current. The Peruvian current is also called the Humboldt current."
       },
       "ta": {
         "q": "எல் நினோ உருவாக்கத்துடன் தொடர்புடைய நீரோட்டம்",
         "options": [
           "வளைகுடா நீரோட்டம்",
-          "பெரு (ஹம்போல்ட்) நீரோட்டம்",
+          "பெரு நீரோட்டம்",
           "குரோசியோ",
           "கேனரி நீரோட்டம்"
         ],
-        "explanation": "இது அட்டகாமா பாலைவனத்திற்கும் காரணம்."
+        "explanation": "இது அட்டகாமா பாலைவனத்திற்கும் காரணம். பெரு நீரோட்டம் ஹம்போல்ட் நீரோட்டம் எனவும் அழைக்கப்படும். பெரு நீரோட்டம் ஹம்போல்ட் நீரோட்டம் எனவும் அழைக்கப்படும்."
       }
     },
     {
@@ -712,20 +712,20 @@
         "options": [
           "Alaska current",
           "Labrador current",
-          "Oyashio (Kurile) current",
+          "Oyashio current",
           "California current"
         ],
-        "explanation": "Kuroshio is a warm current that carries heat to adjacent land and forms rain-giving clouds."
+        "explanation": "Kuroshio is a warm current that carries heat to adjacent land and forms rain-giving clouds. The Oyashio current is also called the Kurile current. The Oyashio current is also called the Kurile current."
       },
       "ta": {
         "q": "ஹோக்கைடோ பகுதியில் குரோசியோவுடன் சந்தித்து மூடுபனியை உருவாக்கும் குளிர் நீரோட்டம்",
         "options": [
           "அலாஸ்கா நீரோட்டம்",
           "லாப்ரடார் நீரோட்டம்",
-          "ஓயாஷியோ (குரைல்) நீரோட்டம்",
+          "ஓயாஷியோ நீரோட்டம்",
           "கலிஃபோர்னியா நீரோட்டம்"
         ],
-        "explanation": "குரோசியோ வெப்ப நீரோட்டம்."
+        "explanation": "குரோசியோ வெப்ப நீரோட்டம். ஓயாஷியோ நீரோட்டம் குரைல் நீரோட்டம் எனவும் அழைக்கப்படும். ஓயாஷியோ நீரோட்டம் குரைல் நீரோட்டம் எனவும் அழைக்கப்படும்."
       }
     },
     {

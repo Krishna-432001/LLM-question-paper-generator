@@ -44,9 +44,9 @@
         "q": "'Drop, Cover and Hold on' is the recommended mock drill for",
         "options": [
           "an earthquake",
-          "a fire",
-          "a riot",
-          "a tsunami"
+          "a house fire",
+          "a street riot",
+          "a tsunami wave"
         ],
         "explanation": "For fire the drill is 'Stop, Drop and Roll'."
       },
@@ -159,20 +159,20 @@
       "en": {
         "q": "Who are a community's first responders during fire, flood or acts of terrorism?",
         "options": [
-          "Police officers, firefighters and emergency medical technicians",
-          "Insurance agents and bankers",
-          "Meteorologists only",
-          "Journalists and lawyers"
+          "Police, firefighters and emergency medical staff",
+          "Insurance agents, bankers and stock brokers",
+          "Meteorologists and weather forecasters only",
+          "Journalists, lawyers and legal assistants"
         ],
-        "explanation": "Mental health professionals and the community's hospitals may also be activated in the early minutes and hours."
+        "explanation": "Mental health professionals and the community's hospitals may also be activated in the early minutes and hours. The emergency medical staff are the technicians."
       },
       "ta": {
         "q": "தீ, வெள்ளம், பயங்கரவாதச் செயல்களின்போது சமூகத்தின் முதன்மை மீட்பாளர்கள்",
         "options": [
-          "காவல்துறையினர், தீயணைப்பு வீரர்கள், அவசர மருத்துவ உதவியாளர்கள்",
-          "காப்பீட்டு முகவர்கள், வங்கியாளர்கள்",
-          "வானிலையாளர்கள் மட்டும்",
-          "செய்தியாளர்கள், வழக்கறிஞர்கள்"
+          "காவலர், தீயணைப்பு வீரர், அவசர மருத்துவப் பணியாளர்",
+          "காப்பீட்டு முகவர்கள், வங்கியாளர்கள், தரகர்கள்",
+          "வானிலை ஆய்வாளர்கள், முன்னறிவிப்பாளர்கள் மட்டுமே",
+          "செய்தியாளர்கள், வழக்கறிஞர்கள், சட்ட உதவியாளர்கள்"
         ],
         "explanation": "மனநல நிபுணர்களும் மருத்துவமனைகளும் ஆரம்ப மணி நேரங்களில் இயக்கப்படலாம்."
       }
@@ -188,10 +188,10 @@
       "en": {
         "q": "According to the textbook, Japan has the densest seismic network, yet Indonesia is said to have more earthquakes overall. The reason is that Indonesia",
         "options": [
-          "has more seismographs than Japan",
-          "has no seismic zone",
-          "is on a stable plate",
-          "is larger than Japan and lies in a very active seismic zone"
+          "already has more seismographs than Japan does",
+          "lies in an area with no seismic zone at all",
+          "is located on a very stable tectonic plate",
+          "is larger than Japan in an active seismic zone"
         ],
         "explanation": "Indonesia is also in a very active seismic zone; per unit area Tonga, Fiji or Indonesia probably have the most earthquakes, as they lie along subduction zones."
       },
@@ -199,11 +199,11 @@
         "q": "பாடநூலின்படி, ஜப்பானில் அடர்த்தியான நில அதிர்வுப் பதிவு வலையமைப்பு இருந்தும் இந்தோனேசியாவில் மொத்தத்தில் அதிக நிலநடுக்கங்கள் நிகழ்வதாகக் கூறப்படுகிறது. காரணம், இந்தோனேசியா",
         "options": [
           "ஜப்பானை விட அதிக நில அதிர்வு அளவிகளைக் கொண்டது",
-          "நில அதிர்வு மண்டலத்தில் இல்லை",
-          "நிலையான தட்டில் உள்ளது",
-          "ஜப்பானை விடப் பெரியது; மிகச் செயல்பாடுள்ள நில அதிர்வு மண்டலத்திலும் உள்ளது"
+          "நில அதிர்வு மண்டலத்தில் சிறிதும் இல்லாதது",
+          "மிகவும் நிலையான புவித்தட்டில் அமைந்துள்ளது",
+          "ஜப்பானை விடப் பெரியது; நில அதிர்வு மண்டலத்தில் உள்ளது"
         ],
-        "explanation": "ஓரலகுப் பரப்பில் டோங்கா, ஃபிஜி, இந்தோனேசியாவில் அதிகம்."
+        "explanation": "ஓரலகுப் பரப்பில் டோங்கா, ஃபிஜி, இந்தோனேசியாவில் அதிகம். அது மிகச் செயல்பாடுள்ள நில அதிர்வு மண்டலத்தில் உள்ளது. அது மிகச் செயல்பாடுள்ள நில அதிர்வு மண்டலத்தில் உள்ளது."
       }
     },
     {
@@ -256,10 +256,10 @@
       "ta": {
         "q": "நூலின்படி ஆழிப்பேரலைக்குப் பின் செய்ய வேண்டியது",
         "options": [
-          "உடனே வீடு திரும்பிச் சொத்தைப் பார்த்தல்",
-          "மின்தூக்கியைப் பயன்படுத்துதல்",
+          "உடனே வீடு திரும்பிச் சொத்துக்களைப் பார்வையிடுதல்",
+          "கட்டடத்திலிருந்து வெளியேற மின்தூக்கியைப் பயன்படுத்துதல்",
           "கட்டடத்தைச் சுற்றி நீர் இருந்தால் உள்ளே செல்லாதிருத்தல்",
-          "வானொலி கேட்பதை நிறுத்துதல்"
+          "வானொலிச் செய்திகளைக் கேட்பதை நிறுத்திவிடுதல்"
         ],
         "explanation": "முதலில் உங்கள் காயங்களுக்கு முதலுதவி; எரிவாயுக் கசிவைச் சோதித்தல்."
       }
@@ -275,22 +275,22 @@
       "en": {
         "q": "What should you do first when you hear a fire alarm or see a fire, according to the textbook?",
         "options": [
-          "Use the lift to go down quickly",
-          "Stay calm, pull the nearest fire alarm or call 112, and leave the building",
-          "Open every door to look for the fire",
-          "Run through smoke standing upright"
+          "Use the lift to go down as quickly as possible",
+          "Stay calm, raise the alarm or call 112 and leave",
+          "Open every door on the floor to look for the fire",
+          "Run through the thick smoke standing upright"
         ],
-        "explanation": "Walk, don't run, to the nearest exit; never use elevators; stay low if there is smoke."
+        "explanation": "Walk, don't run, to the nearest exit; never use elevators; stay low if there is smoke. Pull the nearest fire alarm or call 112. Pull the nearest fire alarm or call 112."
       },
       "ta": {
         "q": "தீ எச்சரிக்கை ஒலிக்கும்போது அல்லது தீயைக் காணும்போது நூலின்படி முதலில் செய்ய வேண்டியது",
         "options": [
-          "மின்தூக்கியில் விரைவாக இறங்குதல்",
-          "அமைதியாக இருந்து அருகிலுள்ள தீ எச்சரிக்கையை இயக்குதல் அல்லது 112ஐ அழைத்துக் கட்டடத்தை விட்டு வெளியேறுதல்",
-          "எல்லாக் கதவுகளையும் திறந்து தீயைத் தேடுதல்",
-          "புகையில் நிமிர்ந்து ஓடுதல்"
+          "மின்தூக்கியில் ஏறிக் கீழ்த்தளத்துக்கு விரைவாக இறங்குதல்",
+          "அமைதியாக எச்சரிக்கை ஒலித்து அல்லது 112ஐ அழைத்து வெளியேறுதல்",
+          "தளத்திலுள்ள எல்லாக் கதவுகளையும் திறந்து தீயைத் தேடுதல்",
+          "அடர்ந்த புகையினூடே நிமிர்ந்து நின்று ஓடுதல்"
         ],
-        "explanation": "நடந்து செல்க; ஓட வேண்டாம்; மின்தூக்கி பயன்படுத்த வேண்டாம்."
+        "explanation": "நடந்து செல்க; ஓட வேண்டாம்; மின்தூக்கி பயன்படுத்த வேண்டாம். அருகிலுள்ள தீ எச்சரிக்கையை இயக்க வேண்டும் அல்லது 112ஐ அழைக்க வேண்டும். அருகிலுள்ள தீ எச்சரிக்கையை இயக்க வேண்டும் அல்லது 112ஐ அழைக்க வேண்டும்."
       }
     }
   ]

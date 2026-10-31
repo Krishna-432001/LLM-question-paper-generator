@@ -53,9 +53,9 @@
       "ta": {
         "q": "செங்குத்து வரிசையில் துளையிடப்பட்ட கலனில் மிகக் கீழ்த்துளையிலிருந்து நீர் அதிக வேகத்தில் பீறிடுவதற்குக் காரணம்",
         "options": [
-          "அடியில் நீர் இலகுவானது",
-          "கீழ்த்துளை பெரியது",
-          "மேலே காற்றழுத்தம் அதிகம்",
+          "அடிப்பகுதியில் நீர் இலகுவானது",
+          "கீழ்த்துளை மற்றவற்றை விடப் பெரியது",
+          "மேல்பகுதியில் காற்றழுத்தம் மிக அதிகம்",
           "ஆழம் அதிகரிக்க திரவ அழுத்தம் அதிகரிக்கும்"
         ],
         "explanation": "ஆழம் அதிகரிக்க அழுத்தம் அதிகரிப்பதால் கீழ்த்துளைகளில் நீர் வேகமாக வெளியேறுகிறது."
@@ -72,20 +72,20 @@
       "en": {
         "q": "Salt water provides more buoyant force than fresh water because",
         "options": [
-          "salt water is lighter than fresh water",
-          "salt water has less volume",
-          "buoyant force depends on the density of the fluid as well as the volume displaced",
-          "fresh water has no density"
+          "salt water is much lighter than fresh water",
+          "salt water has less volume than fresh water",
+          "buoyant force depends on fluid density and volume displaced",
+          "fresh water has no measurable density at all"
         ],
         "explanation": "Buoyant force depends as much on the density of the fluid as on the volume displaced."
       },
       "ta": {
         "q": "நன்னீரை விட உப்பு நீர் அதிக மிதப்பு விசையை அளிக்கக் காரணம்",
         "options": [
-          "உப்பு நீர் நன்னீரை விட இலகுவானது",
-          "உப்பு நீரின் பருமன் குறைவு",
-          "மிதப்பு விசை திரவத்தின் அடர்த்தியையும் இடப்பெயர்த்த பருமனையும் பொறுத்தது",
-          "நன்னீருக்கு அடர்த்தி இல்லை"
+          "உப்பு நீர் நன்னீரை விட மிகவும் இலகுவானது",
+          "உப்பு நீரின் பருமன் நன்னீரை விடக் குறைவு",
+          "மிதப்பு விசை திரவ அடர்த்தியையும் பருமனையும் பொறுத்தது",
+          "நன்னீருக்கு அடர்த்தியே சிறிதும் இல்லை"
         ],
         "explanation": "மிதப்பு விசை திரவத்தின் அடர்த்தி மற்றும் இடப்பெயர்த்த பருமன் இரண்டையும் பொறுத்தது."
       }
@@ -143,9 +143,9 @@
           "10.13 kPa",
           "760 kPa",
           "1013 kPa",
-          "101.3 kPa (கடல்மட்ட அழுத்தம்)"
+          "101.3 kPa"
         ],
-        "explanation": "கடல்மட்ட அழுத்தம் 101.3 kPa; உயரமான இடங்களில் மலையேறுபவர்களுக்கு ஆக்ஸிஜன் உருளைகள் தேவை."
+        "explanation": "கடல்மட்ட அழுத்தம் 101.3 kPa; உயரமான இடங்களில் மலையேறுபவர்களுக்கு ஆக்ஸிஜன் உருளைகள் தேவை. இது கடல்மட்ட அழுத்தம். இது கடல்மட்ட அழுத்தம்."
       }
     },
     {
@@ -285,7 +285,7 @@
       "ta": {
         "q": "பெட்ரோல் நிலையங்களில் வாகன டயர் அழுத்தம் அளவிடப்படும் psi என்பதன் விரிவாக்கம்",
         "options": [
-          "சதுர அங்குலத்திற்கு பவுண்டு (pounds per square inch)",
+          "சதுர அங்குலத்திற்கு பவுண்டு",
           "வினாடிக்கு பாஸ்கல்",
           "நிலையான அங்குலத்திற்கு அழுத்தம்",
           "நிலையான இரும்பின் அழுத்தம்"
@@ -304,20 +304,20 @@
       "en": {
         "q": "Blaise Pascal (1623-1662), after whom Pascal's law is named, was a",
         "options": [
-          "Italian physicist",
-          "Greek mathematician",
+          "Italian astronomer and physicist",
+          "Greek mathematician and philosopher",
           "French mathematician and physicist",
-          "German chemist"
+          "German chemist and pharmacist"
         ],
         "explanation": "Blaise Pascal was a French mathematician and physicist."
       },
       "ta": {
         "q": "பாஸ்கல் விதிக்குப் பெயர்தந்த பிளேஸ் பாஸ்கல் (1623-1662) ஒரு",
         "options": [
-          "இத்தாலிய இயற்பியலாளர்",
-          "கிரேக்கக் கணிதவியலாளர்",
+          "இத்தாலிய வானியலாளரும் இயற்பியலாளரும்",
+          "கிரேக்கக் கணிதவியலாளரும் தத்துவஞானியும்",
           "பிரெஞ்சு கணிதவியலாளரும் இயற்பியலாளரும்",
-          "ஜெர்மானிய வேதியியலாளர்"
+          "ஜெர்மானிய வேதியியலாளரும் மருந்தாளரும்"
         ],
         "explanation": "பிளேஸ் பாஸ்கல் ஒரு பிரெஞ்சுக் கணிதவியலாளரும் இயற்பியலாளரும் ஆவார்."
       }
@@ -594,10 +594,10 @@
       "en": {
         "q": "Which is a law of flotation?",
         "options": [
-          "A floating body displaces fluid twice its weight",
-          "The weight of a floating body equals the weight of the fluid it displaces",
-          "The centre of buoyancy is always above the body",
-          "A floating body has no weight"
+          "A floating body displaces fluid of twice its own weight",
+          "The weight of a floating body equals that of fluid displaced",
+          "The centre of buoyancy always lies above the whole body",
+          "A floating body has no weight at all in water"
         ],
         "explanation": "Law 1: weight of the floating body = weight of fluid displaced. Law 2: the centre of gravity and the centre of buoyancy lie on the same vertical line."
       },

@@ -14,20 +14,20 @@
       "en": {
         "q": "The word 'AMBULANCE' is written in mirrored (laterally inverted) text on the front of ambulances so that",
         "options": [
-          "it can be read correctly in the rear-view mirror of vehicles ahead",
-          "it reflects sunlight",
-          "it reduces air resistance",
-          "it looks beautiful"
+          "it reads correctly in the mirror of vehicles ahead",
+          "it reflects the sunlight back strongly",
+          "it reduces the air resistance of the vehicle",
+          "it looks more beautiful to pedestrians"
         ],
         "explanation": "Mirror writing on the front of an ambulance is read correctly in the rear-view mirrors of the vehicles in front."
       },
       "ta": {
         "q": "ஆம்புலன்ஸ் வாகனத்தின் முன்புறத்தில் 'AMBULANCE' என்ற சொல் கண்ணாடி எழுத்தில் எழுதப்பட்டிருக்கக் காரணம்",
         "options": [
-          "முன்னால் செல்லும் வாகனங்களின் பின்னோக்கு ஆடியில் சரியாகப் படிக்கலாம் என்பதால்",
-          "சூரிய ஒளியை எதிரொளிக்க",
-          "காற்றுத் தடையைக் குறைக்க",
-          "அழகாகத் தெரிவதற்காக"
+          "முன்னால் செல்லும் வாகன ஆடியில் சரியாகப் படிக்கலாம் என்பதால்",
+          "சூரிய ஒளியை நன்றாகத் திருப்பி எதிரொளிப்பதால்",
+          "வாகனத்தின் காற்றுத் தடையைக் குறைப்பதால்",
+          "பாதசாரிகளுக்கு அழகாகத் தெரிவதால்"
         ],
         "explanation": "பின்னோக்கு ஆடியில் பார்க்கும்போது சொல் சரியாகத் தெரியும் வகையில் கண்ணாடி எழுத்தில் எழுதப்படுகிறது."
       }
@@ -44,9 +44,9 @@
         "q": "Lateral inversion is the",
         "options": [
           "up-down inversion in a convex mirror",
-          "bending of light in water",
-          "splitting of white light",
-          "apparent sidewise inversion of left and right in a plane mirror"
+          "bending of light as it enters water",
+          "splitting of white light by a prism",
+          "left-right inversion seen in a plane mirror"
         ],
         "explanation": "The word lateral comes from the Latin latus meaning side; the observed inversion is the result of our perception, mirrors actually reverse 'inside out'."
       },
@@ -54,9 +54,9 @@
         "q": "பக்கவாட்டு இடமாற்றம் (lateral inversion) என்பது",
         "options": [
           "குவியாடியில் மேல்கீழாகத் தோன்றுவது",
-          "நீரில் ஒளி வளைவது",
-          "வெண்ணொளி பிரிவது",
-          "சமதள ஆடியில் இடமும் வலமும் மாறித் தோன்றும் தோற்றம்"
+          "நீருக்குள் நுழையும் ஒளி வளைவது",
+          "முப்பட்டகத்தால் வெண்ணொளி பிரிவது",
+          "சமதள ஆடியில் இடம்-வலம் மாறித் தோன்றுவது"
         ],
         "explanation": "'lateral' என்பது லத்தீன் 'latus' (பக்கம்) என்பதிலிருந்து வந்தது; இது நம் உணர்வால் ஏற்படும் தோற்றம்; ஆடி உண்மையில் உள்புறம்-வெளிப்புறமாக மாற்றுகிறது."
       }
@@ -72,22 +72,22 @@
       "en": {
         "q": "Which statement about images is correct?",
         "options": [
-          "A real image is always erect",
+          "A real image is always erect and magnified",
           "A virtual image can be obtained on a screen",
-          "A real image is inverted and can be obtained on a screen; a virtual image is erect and cannot",
-          "A virtual image is always inverted"
+          "A real image is inverted and can be caught on a screen",
+          "A virtual image is always inverted and real"
         ],
-        "explanation": "Real image: rays actually meet, always inverted, can be produced on a screen. Virtual image: rays appear to meet when produced backwards, always erect, cannot be caught on a screen."
+        "explanation": "Real image: rays actually meet, always inverted, can be produced on a screen. Virtual image: rays appear to meet when produced backwards, always erect, cannot be caught on a screen. A virtual image is erect and cannot be caught on a screen."
       },
       "ta": {
         "q": "பிம்பங்கள் குறித்துச் சரியான கூற்று",
         "options": [
-          "மெய் பிம்பம் எப்போதும் நேரானது",
-          "மாய பிம்பத்தைத் திரையில் பிடிக்கலாம்",
-          "மெய் பிம்பம் தலைகீழானது; திரையில் பிடிக்கலாம். மாய பிம்பம் நேரானது; திரையில் பிடிக்க இயலாது",
-          "மாய பிம்பம் எப்போதும் தலைகீழானது"
+          "மெய் பிம்பம் எப்போதும் நேரானதும் பெரியதும்",
+          "மாய பிம்பத்தை எப்போதும் திரையில் பிடிக்கலாம்",
+          "மெய் பிம்பம் தலைகீழானது; திரையில் பிடிக்கலாம்",
+          "மாய பிம்பம் எப்போதும் தலைகீழானதும் மெய்யானதும்"
         ],
-        "explanation": "மெய் பிம்பத்தில் கதிர்கள் உண்மையில் சந்திக்கும்; அது தலைகீழானது. மாய பிம்பத்தில் கதிர்கள் சந்திப்பது போலத் தோன்றும்; அது நேரானது."
+        "explanation": "மெய் பிம்பத்தில் கதிர்கள் உண்மையில் சந்திக்கும்; அது தலைகீழானது. மாய பிம்பத்தில் கதிர்கள் சந்திப்பது போலத் தோன்றும்; அது நேரானது. மாய பிம்பம் நேரானது; திரையில் பிடிக்க இயலாது."
       }
     },
     {
@@ -132,7 +132,7 @@
         "options": [
           "at infinity",
           "behind the mirror as a diverging beam",
-          "at a point (the principal focus)",
+          "at the principal focus",
           "nowhere"
         ],
         "explanation": "A concave mirror converges parallel rays at its focus, so paper placed there can catch fire."
@@ -142,7 +142,7 @@
         "options": [
           "முடிவிலியில்",
           "ஆடிக்குப் பின்னால் விரிகற்றையாக",
-          "ஒரு புள்ளியில் (முதன்மைக் குவியம்)",
+          "முதன்மைக் குவியத்தில்",
           "எங்கும் இல்லை"
         ],
         "explanation": "குழியாடி இணைக்கதிர்களைக் குவியத்தில் குவிக்கிறது; அங்கு வைக்கப்படும் காகிதம் தீப்பற்றும்."
@@ -159,10 +159,10 @@
       "en": {
         "q": "The image of a star formed by a concave mirror is",
         "options": [
-          "virtual and erect",
-          "real, inverted and highly diminished at the focus",
-          "enlarged and inverted",
-          "formed behind the mirror"
+          "virtual, erect and slightly magnified",
+          "real, inverted and very small at the focus",
+          "real, enlarged and inverted at the focus",
+          "virtual, formed far behind the mirror"
         ],
         "explanation": "For an object at infinity the image is formed at the principal focus F; it is real, inverted and highly diminished. Astronomical telescopes still use concave mirrors."
       },
@@ -256,10 +256,10 @@
       "ta": {
         "q": "குழியாடியின் வளைவு மையத்திற்கு அப்பால் பொருள் இருக்கும்போது பிம்பம் அமையும் இடம்",
         "options": [
-          "F-இல்; மெய், மிகச் சிறியது",
-          "C-க்கு அப்பால்; பெரியது",
-          "F-க்கும் C-க்கும் இடையே; மெய், தலைகீழ், சிறியது",
-          "ஆடிக்குப் பின்னால்"
+          "F-இல்; மெய்யான, மிகச் சிறிய பிம்பம்",
+          "C-க்கு அப்பால்; பெரிதாக்கப்பட்ட பிம்பம்",
+          "F-க்கும் C-க்கும் இடையே; மெய், தலைகீழ், சிறிய பிம்பம்",
+          "ஆடிக்குப் பின்னால்; மாய, நேரான பிம்பம்"
         ],
         "explanation": "நிலை II: பிம்பம் F-க்கும் C-க்கும் இடையே மெய், தலைகீழ், பொருளை விடச் சிறியது."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "A convex mirror is used as a rear-view mirror because it",
         "options": [
-          "forms a real inverted image",
-          "always forms a virtual, erect, small image and gives a wider field of view",
-          "enlarges the image",
-          "has a narrow field of view"
+          "forms a real inverted image of vehicles behind",
+          "forms a virtual, erect, small image with a wide view",
+          "enlarges the image of the vehicles behind",
+          "has a very narrow field of view for the driver"
         ],
         "explanation": "Convex mirror: virtual, erect, diminished image and a much wider field of view than a plane mirror."
       },
       "ta": {
         "q": "குவியாடி பின்னோக்கு ஆடியாகப் பயன்படுவதற்குக் காரணம்",
         "options": [
-          "மெய்யான தலைகீழ் பிம்பத்தைத் தருவது",
-          "எப்போதும் மாய, நேரான, சிறிய பிம்பத்தையும் அகன்ற பார்வைப்புலத்தையும் தருவது",
-          "பிம்பத்தைப் பெரிதாக்குவது",
-          "குறுகிய பார்வைப்புலம் உடையது"
+          "வாகனங்களின் மெய்யான, தலைகீழ் பிம்பத்தைத் தருவது",
+          "மாய, நேரான, சிறிய பிம்பத்துடன் அகன்ற பார்வைப்புலம் தருவது",
+          "பின்னாலுள்ள வாகனங்களின் பிம்பத்தைப் பெரிதாக்குவது",
+          "ஓட்டுநருக்கு மிகக் குறுகிய பார்வைப்புலம் உடையது"
         ],
         "explanation": "குவியாடி மாய, நேரான, சிறிய பிம்பத்தையும் சமதள ஆடியை விட அகன்ற பார்வைப்புலத்தையும் தரும்."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "'Objects in the mirror are closer than they appear' is written on rear-view mirrors because the mirror",
         "options": [
-          "is concave and magnifies objects",
-          "is convex and forms a diminished image, making objects look farther",
-          "has a very small field of view",
-          "is a plane mirror"
+          "is concave and magnifies the objects behind",
+          "is convex and forms a small image, so objects look far",
+          "has a very small field of view for drivers",
+          "is a plane mirror giving true size images"
         ],
         "explanation": "A convex mirror gives a virtual, erect, small-sized image, so vehicles look smaller and hence farther than they really are."
       },
       "ta": {
         "q": "பின்னோக்கு ஆடியில் 'ஆடியில் தெரியும் பொருட்கள் தோன்றுவதை விட அருகில் உள்ளன' என எழுதப்பட்டிருக்கக் காரணம்",
         "options": [
-          "ஆடி குழியாடி; பொருட்களைப் பெரிதாக்குகிறது",
-          "ஆடி குவியாடி; சிறிய பிம்பம் தருவதால் பொருட்கள் தொலைவில் தெரிகின்றன",
-          "அதன் பார்வைப்புலம் மிகக் குறுகியது",
-          "அது சமதள ஆடி"
+          "ஆடி குழியாடி; பின்னாலுள்ள பொருட்களைப் பெரிதாக்குகிறது",
+          "ஆடி குவியாடி; சிறிய பிம்பத்தால் பொருட்கள் தொலைவில் தெரியும்",
+          "ஓட்டுநருக்கு அதன் பார்வைப்புலம் மிகக் குறுகியது",
+          "அது உண்மை அளவு பிம்பம் தரும் சமதள ஆடி"
         ],
         "explanation": "குவியாடி மாய, நேரான, சிறிய பிம்பத்தைத் தருவதால் வாகனங்கள் உண்மையை விடத் தொலைவில் உள்ளது போலத் தோன்றும்."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "Snell's law of refraction states that sin i / sin r is",
         "options": [
-          "constant for light of a given colour and a given pair of media",
-          "zero",
-          "equal to the angle of incidence",
-          "always 1"
+          "constant for a given colour and pair of media",
+          "zero for every pair of media and colour",
+          "numerically equal to the angle of incidence",
+          "always equal to 1 for any two media"
         ],
         "explanation": "This constant is the refractive index of the second medium with respect to the first."
       },
       "ta": {
         "q": "ஸ்நெல் ஒளிவிலகல் விதிப்படி sin i / sin r என்பது",
         "options": [
-          "குறிப்பிட்ட நிறத்து ஒளிக்கும் கொடுக்கப்பட்ட இரு ஊடகங்களுக்கும் மாறிலி",
-          "சுழி",
-          "படுகோணத்திற்குச் சமம்",
-          "எப்போதும் 1"
+          "குறிப்பிட்ட நிறத்துக்கும் இரு ஊடகங்களுக்கும் மாறிலி",
+          "எல்லா ஊடக இணைகளுக்கும் சுழியாகவே இருக்கும்",
+          "எண்ணளவில் படுகோணத்திற்குச் சமமாகும்",
+          "எந்த இரு ஊடகங்களுக்கும் எப்போதும் 1"
         ],
         "explanation": "இம்மாறிலி முதல் ஊடகத்தைப் பொறுத்த இரண்டாம் ஊடகத்தின் ஒளிவிலகல் எண்."
       }
@@ -624,9 +624,9 @@
         "q": "Optical fibres work on the phenomenon of",
         "options": [
           "total internal reflection",
-          "refraction only",
-          "dispersion only",
-          "diffraction"
+          "refraction of light only",
+          "dispersion of light only",
+          "diffraction of light"
         ],
         "explanation": "The core has a higher refractive index than the cladding; the light signal undergoes repeated total internal reflection along the fibre."
       },
@@ -652,22 +652,22 @@
       "en": {
         "q": "Optical fibres are used by physicians to",
         "options": [
-          "look and work inside the body through tiny incisions",
-          "produce X-rays",
-          "measure body temperature",
-          "measure blood pressure"
+          "look inside the body through tiny incisions",
+          "produce X-rays to photograph bones",
+          "measure the body temperature of patients",
+          "measure the blood pressure of patients"
         ],
-        "explanation": "Because of their flexible nature optical fibres enable looking inside the body without a major surgery; they also carry audio and video signals."
+        "explanation": "Because of their flexible nature optical fibres enable looking inside the body without a major surgery; they also carry audio and video signals. They also let doctors work inside the body."
       },
       "ta": {
         "q": "மருத்துவர்கள் ஒளியிழைகளைப் பயன்படுத்துவது",
         "options": [
-          "சிறு துளைகள் வழியே உடலினுள் பார்க்கவும் பணியாற்றவும்",
-          "X-கதிர்களை உண்டாக்க",
-          "உடல் வெப்பநிலையை அளக்க",
-          "இரத்த அழுத்தத்தை அளக்க"
+          "சிறு துளைகள் வழியே உடலினுள் பார்க்க",
+          "X-கதிர்களை உண்டாக்கிப் படமெடுப்பது",
+          "நோயாளிகளின் உடல் வெப்பநிலையை அளக்க",
+          "நோயாளிகளின் இரத்த அழுத்தத்தை அளக்க"
         ],
-        "explanation": "நெகிழும் தன்மையால் அறுவை சிகிச்சையின்றி உடலினுள் பார்க்க ஒளியிழைகள் உதவுகின்றன."
+        "explanation": "நெகிழும் தன்மையால் அறுவை சிகிச்சையின்றி உடலினுள் பார்க்க ஒளியிழைகள் உதவுகின்றன. அவை உடலினுள் பணியாற்றவும் உதவும்."
       }
     },
     {
@@ -713,19 +713,19 @@
           "the angle of incidence is twice the angle of reflection",
           "the reflected ray is always along the normal",
           "the incident ray and the reflected ray lie in different planes",
-          "the angle of incidence equals the angle of reflection, and the incident ray, reflected ray and normal lie in the same plane"
+          "angle of incidence equals angle of reflection, all in one plane"
         ],
-        "explanation": "These laws are applicable to all reflecting surfaces including curved surfaces."
+        "explanation": "These laws are applicable to all reflecting surfaces including curved surfaces. The incident ray, reflected ray and normal lie in the same plane."
       },
       "ta": {
         "q": "எதிரொளிப்பு விதிகளின்படி",
         "options": [
-          "படுகோணம் எதிரொளிப்புக் கோணத்தின் இரு மடங்கு",
+          "படுகோணம் எதிரொளிப்புக் கோணத்தின் இரு மடங்காக இருக்கும்",
           "எதிரொளிப்புக் கதிர் எப்போதும் செங்குத்துக் கோட்டின் வழியே செல்லும்",
           "படுகதிரும் எதிரொளிப்புக் கதிரும் வெவ்வேறு தளங்களில் அமையும்",
-          "படுகோணம் = எதிரொளிப்புக் கோணம்; படுகதிர், எதிரொளிப்புக் கதிர், செங்குத்துக்கோடு ஒரே தளத்தில் அமையும்"
+          "படுகோணம் = எதிரொளிப்புக் கோணம்; எல்லாம் ஒரே தளத்தில் அமையும்"
         ],
-        "explanation": "இவ்விதிகள் வளைவான பரப்புகள் உட்பட எல்லா எதிரொளிக்கும் பரப்புகளுக்கும் பொருந்தும்."
+        "explanation": "இவ்விதிகள் வளைவான பரப்புகள் உட்பட எல்லா எதிரொளிக்கும் பரப்புகளுக்கும் பொருந்தும். படுகதிர், எதிரொளிப்புக் கதிர், செங்குத்துக்கோடு ஒரே தளத்தில் அமையும்."
       }
     },
     {

@@ -25,7 +25,7 @@
         "q": "சிதைந்த பாறைப் பொருளும் அழுகிய கரிமப் பொருளும் கலந்த கலவையில் உள்ள அழுகிய கரிமப்பொருளின் பெயர்",
         "options": [
           "காற்றடி வண்டல்",
-          "மட்குப்பொருள் (Humus)",
+          "மட்குப்பொருள்",
           "பாறைக்குழம்பு",
           "மொரைன்"
         ],
@@ -101,20 +101,20 @@
       "en": {
         "q": "Carbonation is important in the formation of",
         "options": [
-          "deltas",
+          "river deltas on coasts",
           "caves in limestone regions",
-          "sand dunes",
-          "fjords"
+          "sand dunes in deserts",
+          "fjords on glaciated coasts"
         ],
         "explanation": "Water + atmospheric CO2 forms carbonic acid, which reacts with carbonate rocks."
       },
       "ta": {
         "q": "கார்பனேற்றம் எதன் உருவாக்கத்தில் முக்கியமானது?",
         "options": [
-          "டெல்டா",
+          "கடற்கரை டெல்டாக்கள்",
           "சுண்ணாம்புப் பகுதிக் குகைகள்",
-          "மணல் குன்றுகள்",
-          "ஃபியோர்டுகள்"
+          "பாலைவன மணல் குன்றுகள்",
+          "பனிப்பகுதி ஃபியோர்டுகள்"
         ],
         "explanation": "கார்போனிக் அமிலம் சுண்ணாம்புப் பாறையைக் கரைத்துக் குகைகளை உருவாக்கும்."
       }
@@ -130,20 +130,20 @@
       "en": {
         "q": "Which is the most extensive agent of gradation?",
         "options": [
-          "Wind",
-          "Sea waves",
-          "Running water (rivers)",
-          "Glaciers"
+          "Strong desert winds",
+          "Coastal sea waves",
+          "Running river water",
+          "Mountain glaciers"
         ],
         "explanation": "Rivers do the most extensive work of gradation (fluvial landforms)."
       },
       "ta": {
         "q": "சமன்படுத்தலின் காரணிகளுள் மிக விரிவாகப் பணியாற்றுவது எது?",
         "options": [
-          "காற்று",
-          "கடல் அலைகள்",
-          "ஓடும் நீர் (ஆறுகள்)",
-          "பனியாறுகள்"
+          "பாலைவனக் காற்று",
+          "கடற்கரை அலைகள்",
+          "ஆறுகளின் ஓடும் நீர்",
+          "மலைப் பனியாறுகள்"
         ],
         "explanation": "ஆறுகளின் செயல்பாடே மிக விரிவானது."
       }
@@ -218,9 +218,9 @@
         "q": "The highest waterfall in the world is",
         "options": [
           "Angel Falls, Venezuela",
-          "Victoria Falls",
-          "Niagara Falls",
-          "Jog Falls"
+          "Victoria Falls, Zambia",
+          "Niagara Falls, Canada",
+          "Jog Falls, Karnataka"
         ],
         "explanation": "Angel Falls is 979 m high."
       },
@@ -257,7 +257,7 @@
         "q": "அருவி விழும் இடத்தின் அடியில் நீர் அரித்து உண்டாக்கும் பள்ளம்",
         "options": [
           "குழிவுப்பள்ளம்",
-          "நீர்ச்சுழிப் பள்ளம் (Plunge pool)",
+          "நீர்ச்சுழிப் பள்ளம்",
           "சிங்க்ஹோல்",
           "குதிரை லாட ஏரி"
         ],
@@ -404,7 +404,7 @@
           "டெல்டா",
           "ஆற்று வளைவுகள்",
           "வண்டல் விசிறி",
-          "இயற்கை அணைகள் (Levees)"
+          "இயற்கை அணைகள்"
         ],
         "explanation": "தொடர்ச்சியான படிவால் கரைகள் உயர்ந்து இயற்கை அணை உருவாகிறது."
       }
@@ -420,22 +420,22 @@
       "en": {
         "q": "The term 'Karst' comes from the language of",
         "options": [
-          "Italy",
-          "Slovenia (Slavic)",
-          "Greece",
-          "France"
+          "Italian",
+          "Slavic",
+          "Greek",
+          "French"
         ],
-        "explanation": "Karst is a Slavic word for the limestone region of Western Slovenia; the world's largest karst area is the Nullarbor in Australia."
+        "explanation": "Karst is a Slavic word for the limestone region of Western Slovenia; the world's largest karst area is the Nullarbor in Australia. The word comes from the Slavic language of Slovenia."
       },
       "ta": {
         "q": "'கார்ஸ்ட்' என்ற சொல் எந்த மொழியிலிருந்து வந்தது?",
         "options": [
-          "இத்தாலியம்",
-          "ஸ்லாவிய மொழி (ஸ்லோவேனியா)",
-          "கிரேக்கம்",
-          "பிரெஞ்சு"
+          "இத்தாலிய மொழி",
+          "ஸ்லாவிய மொழி",
+          "கிரேக்க மொழி",
+          "பிரெஞ்சு மொழி"
         ],
-        "explanation": "ஸ்லோவேனியாவின் சுண்ணாம்புப் பகுதிக்கு ஸ்லாவிய மொழிச் சொல் 'கார்ஸ்ட்'; உலகின் பெரிய கார்ஸ்ட் பகுதி நல்லார்பர் (ஆஸ்திரேலியா)."
+        "explanation": "ஸ்லோவேனியாவின் சுண்ணாம்புப் பகுதிக்கு ஸ்லாவிய மொழிச் சொல் 'கார்ஸ்ட்'; உலகின் பெரிய கார்ஸ்ட் பகுதி நல்லார்பர் (ஆஸ்திரேலியா). இச்சொல் ஸ்லோவேனியாவின் ஸ்லாவிய மொழியிலிருந்து வந்தது."
       }
     },
     {
@@ -450,9 +450,9 @@
         "q": "'Terra rossa', the red clay soil formed by dissolution of limestone, owes its colour to",
         "options": [
           "iron oxide",
-          "calcite",
-          "gypsum",
-          "humus"
+          "calcium sulphate",
+          "calcium carbonate",
+          "decayed humus"
         ],
         "explanation": "Terra rossa is an Italian term for red soil."
       },
@@ -491,7 +491,7 @@
           "கல் முளை",
           "சிங்க்ஹோல்",
           "உவாலா",
-          "லாப்பீஸ் (Lappies)"
+          "லாப்பீஸ்"
         ],
         "explanation": "சிங்க்ஹோல் புனல் வடிவப் பள்ளம்."
       }
@@ -607,7 +607,7 @@
           "பனிக்கடல்",
           "பனிச்சுவர்",
           "பனி ஏரி",
-          "பனி ஆறு (River of ice)"
+          "பனி ஆறு"
         ],
         "explanation": "பனியாறு மெதுவாக நகரும் பெரும் பனிக்கட்டி."
       }
@@ -662,10 +662,10 @@
       "ta": {
         "q": "பின்வருவனவற்றுள் மொரைன் வகை அல்லாதது எது?",
         "options": [
-          "தரை மொரைன்",
-          "முனை மொரைன்",
+          "தரைப்பகுதி மொரைன்",
+          "முனைப்பகுதி மொரைன்",
           "வெளியேற்ற மொரைன்",
-          "பக்க மொரைன்"
+          "பக்கப்பகுதி மொரைன்"
         ],
         "explanation": "தரை, முனை, பக்க மொரைன்கள் உள்ளன."
       }

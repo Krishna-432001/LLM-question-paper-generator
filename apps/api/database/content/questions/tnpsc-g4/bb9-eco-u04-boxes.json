@@ -130,9 +130,9 @@
       "en": {
         "q": "The textbook states that, in contrast to India as a whole, the number of marginal farmers in Tamil Nadu is",
         "options": [
-          "increasing",
-          "not recorded",
-          "constant",
+          "increasing, as more farmers take up farming",
+          "not recorded in the agricultural census",
+          "constant, remaining at the same level",
           "decreasing, as farmers move to other occupations"
         ],
         "explanation": "The total land area under agriculture is shrinking fast in Tamil Nadu and throughout India."
@@ -140,10 +140,10 @@
       "ta": {
         "q": "இந்தியாவில் குறுவிவசாயிகள் அதிகரிக்கும்போது தமிழ்நாட்டில் அவர்கள் எண்ணிக்கை",
         "options": [
-          "அதிகரிக்கிறது",
-          "பதிவில்லை",
-          "மாறாமல் உள்ளது",
-          "குறைகிறது; விவசாயிகள் பிற தொழில்களுக்குச் செல்கின்றனர்"
+          "அதிகரிக்கிறது; பலர் வேளாண்மைக்கு வருகின்றனர்",
+          "வேளாண் கணக்கெடுப்பில் பதிவில்லை",
+          "மாறாமல் முன்பிருந்த அளவிலேயே உள்ளது",
+          "குறைகிறது; பலர் பிற தொழில்களுக்குச் செல்கின்றனர்"
         ],
         "explanation": "வேளாண் நிலப்பரப்பு தமிழகத்திலும் இந்தியாவிலும் வேகமாகக் குறைந்து வருகிறது."
       }
@@ -162,9 +162,9 @@
           "About 17%",
           "About one tenth",
           "About one half",
-          "About one third (45,44,000 hectares)"
+          "About one third"
         ],
-        "explanation": "About 17% is for non-agricultural use, about the same area (21.25 lakh ha) is forest, 4% is unusable, one tenth barren and 13% other fallow lands."
+        "explanation": "About 17% is for non-agricultural use, about the same area (21.25 lakh ha) is forest, 4% is unusable, one tenth barren and 13% other fallow lands. The area is 45,44,000 hectares."
       },
       "ta": {
         "q": "தமிழ்நாட்டின் மொத்தப் பரப்பில் வேளாண்மைக்குப் பயன்படுவது (நூலின்படி)",
@@ -172,9 +172,9 @@
           "ஏறத்தாழ 17%",
           "ஏறத்தாழ பத்தில் ஒன்று",
           "ஏறத்தாழ பாதி",
-          "ஏறத்தாழ மூன்றில் ஒரு பங்கு (45,44,000 ஹெக்டேர்)"
+          "ஏறத்தாழ மூன்றில் ஒரு பங்கு"
         ],
-        "explanation": "17% வேளாண் சாரா பயன்பாடு; ஏறத்தாழ அதே அளவு காடுகள்."
+        "explanation": "17% வேளாண் சாரா பயன்பாடு; ஏறத்தாழ அதே அளவு காடுகள். பரப்பு 45,44,000 ஹெக்டேர்."
       }
     },
     {
@@ -218,9 +218,9 @@
         "q": "Which statement about water in Tamil Nadu is correct, according to the textbook?",
         "options": [
           "Tamil Nadu depends only on the Southwest monsoon",
-          "There are no perennial rivers; the Northeast monsoon is a major source of water",
-          "Tamil Nadu has many perennial rivers",
-          "Tamil Nadu has no groundwater"
+          "No perennial rivers; Northeast monsoon is a main source",
+          "Tamil Nadu has many large perennial rivers flowing all year",
+          "Tamil Nadu has no groundwater resources at all"
         ],
         "explanation": "When the Southwest monsoon is heavy in the Cauvery catchment in Karnataka, the dams fill and the Cauvery in Tamil Nadu gets water."
       },
@@ -228,9 +228,9 @@
         "q": "நூலின்படி தமிழ்நாட்டின் நீர் பற்றிய சரியான கூற்று",
         "options": [
           "தென்மேற்குப் பருவமழையை மட்டுமே சார்ந்தது",
-          "வற்றாத ஆறுகள் இல்லை; வடகிழக்குப் பருவமழை முக்கிய நீராதாரம்",
-          "பல வற்றாத ஆறுகள் உள்ளன",
-          "நிலத்தடி நீர் இல்லை"
+          "வற்றாத ஆறுகள் இல்லை; வடகிழக்குப் பருவமழையே ஆதாரம்",
+          "ஆண்டு முழுவதும் ஓடும் பல வற்றாத ஆறுகள் உள்ளன",
+          "நிலத்தடி நீர் வளமே முற்றிலும் இல்லை"
         ],
         "explanation": "கர்நாடகத்தில் தென்மேற்குப் பருவமழை மிகுந்தால் காவிரியில் நீர் வரும்."
       }
@@ -275,20 +275,20 @@
       "en": {
         "q": "Which is a hardship caused by over-use of groundwater, according to the textbook?",
         "options": [
-          "Groundwater rises",
-          "Rainfall increases",
-          "Groundwater goes down, resulting in dryness or unusable water",
-          "Soil becomes fertile"
+          "Groundwater level rises sharply every year",
+          "Rainfall increases in the same region",
+          "Groundwater falls, leading to dryness or bad water",
+          "Soil becomes more fertile every year"
         ],
         "explanation": "It is very urgent to regulate the usage of underground water for sustainable farming."
       },
       "ta": {
         "q": "நூலின்படி நிலத்தடி நீரை அளவுக்கு மீறிப் பயன்படுத்துவதால் ஏற்படும் இடர்",
         "options": [
-          "நிலத்தடி நீர் உயர்தல்",
-          "மழை அதிகரித்தல்",
-          "நிலத்தடி நீர் மட்டம் குறைந்து முழு வறட்சி அல்லது பயன்படாத நீராக மாறுதல்",
-          "மண் வளமாதல்"
+          "நிலத்தடி நீர் மட்டம் ஆண்டுதோறும் உயர்தல்",
+          "அப்பகுதியில் மழையளவு மிகுதியாதல்",
+          "நிலத்தடி நீர் குறைந்து வறட்சி அல்லது பயனற்ற நீர் ஆதல்",
+          "மண் ஆண்டுதோறும் மேலும் வளமாதல்"
         ],
         "explanation": "நிலையான வேளாண்மைக்கு நிலத்தடி நீர் பயன்பாட்டை ஒழுங்குபடுத்துவது அவசியம்."
       }
@@ -362,20 +362,20 @@
       "en": {
         "q": "Which of the following is an advantage of micro irrigation?",
         "options": [
-          "It increases water wastage",
-          "Only the required amount of water is supplied, reducing labour expenses and weed growth",
-          "It reduces fertilizer use efficiency",
-          "It needs flooding of fields"
+          "It greatly increases wastage of irrigation water",
+          "Only the needed water is supplied, cutting weeds and labour cost",
+          "It lowers the efficiency of fertilizer use on crops",
+          "It needs complete flooding of the whole field"
         ],
         "explanation": "It increases the ability of water use and productivity of the crop."
       },
       "ta": {
         "q": "நுண்ணீர்ப் பாசனத்தின் நன்மை எது?",
         "options": [
-          "நீர் வீணாதல் அதிகம்",
-          "தேவையான நீர் மட்டும் வழங்கப்படுவதால் களை, ஆள்கூலி குறைவு",
-          "உர உபயோகத் திறன் குறைவு",
-          "வயல்கள் நீரில் மூழ்கவேண்டும்"
+          "பாசன நீர் வீணாவது மிகவும் அதிகரிக்கும்",
+          "தேவையான நீரே வழங்கப்படுவதால் களை, ஆள்கூலி குறைவு",
+          "பயிர்களில் உரப் பயன்பாட்டுத் திறன் குறையும்",
+          "வயல் முழுவதும் நீர் நிறைந்து மூழ்கவேண்டும்"
         ],
         "explanation": "நீர் வழியாக உரமும் வழங்கப்படுவதால் மகசூல் அதிகரிக்கும்."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "Between 1965-66 and 2014-15, the productivity of paddy in Tamil Nadu increased",
         "options": [
-          "by half",
+          "by about one half only",
           "more than three times",
-          "by about 10%",
-          "very little"
+          "by about 10 per cent only",
+          "by a very small margin"
         ],
         "explanation": "Paddy productivity rose from 1,409 kg (1965-66) to 4,429 kg per hectare (2014-15)."
       },
       "ta": {
         "q": "1965-66 முதல் 2014-15 வரை தமிழ்நாட்டில் நெல்லின் உற்பத்தித் திறன்",
         "options": [
-          "பாதியாக உயர்ந்தது",
+          "பாதி அளவு மட்டுமே உயர்ந்தது",
           "மூன்று மடங்குக்கு மேல் உயர்ந்தது",
-          "ஏறத்தாழ 10% உயர்ந்தது",
-          "மிகக் குறைவாக உயர்ந்தது"
+          "ஏறத்தாழ 10% மட்டுமே உயர்ந்தது",
+          "மிகச் சிறிய அளவே உயர்ந்தது"
         ],
         "explanation": "1,409 கி.கி-லிருந்து 4,429 கி.கி ஆக உயர்ந்தது."
       }

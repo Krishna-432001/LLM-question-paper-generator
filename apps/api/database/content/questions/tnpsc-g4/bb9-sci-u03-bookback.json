@@ -43,22 +43,22 @@
       "en": {
         "q": "An empty airtight plastic bottle is pushed down into a bucket of water. The force on its bottom increases because",
         "options": [
-          "more volume of liquid is displaced, more weight of liquid is displaced, and pressure increases with depth",
-          "only the volume of the bottle increases",
-          "the water becomes denser",
-          "the atmospheric pressure increases"
+          "more liquid is displaced and pressure rises with depth",
+          "only the volume of the bottle itself increases",
+          "the water in the bucket becomes much denser",
+          "the atmospheric pressure above it increases"
         ],
-        "explanation": "The deeper the bottle goes, the more liquid is displaced (greater weight displaced) and the pressure rises with depth; the book key is 'all the above'."
+        "explanation": "The deeper the bottle goes, the more liquid is displaced (greater weight displaced) and the pressure rises with depth; the book key is 'all the above'. The displaced volume and weight of liquid both increase. The displaced volume and weight of liquid both increase."
       },
       "ta": {
         "q": "காற்றுப் புகாத காலி பிளாஸ்டிக் பாட்டிலை நீருள்ள வாளியில் கீழ்நோக்கி அழுத்தும்போது அதன் அடிப்பகுதியில் செயல்படும் விசை அதிகரிக்கக் காரணம்",
         "options": [
-          "அதிக பருமனுள்ள நீர் வெளியேற்றப்படுதல், அதிக எடையுள்ள நீர் வெளியேற்றப்படுதல், ஆழம் அதிகரிக்க அழுத்தம் அதிகரித்தல் ஆகிய அனைத்தும்",
-          "பாட்டிலின் பருமன் மட்டும் அதிகரிப்பது",
-          "நீர் அடர்த்தி அதிகமாவது",
-          "வளிமண்டல அழுத்தம் அதிகரிப்பது"
+          "அதிக நீர் வெளியேறும்; ஆழம் அதிகரிக்க அழுத்தமும் அதிகரிக்கும்",
+          "பாட்டிலின் சொந்தப் பருமன் மட்டும் அதிகரிப்பது",
+          "வாளியிலுள்ள நீரின் அடர்த்தி மிகவும் அதிகமாவது",
+          "பாட்டிலின் மேலுள்ள வளிமண்டல அழுத்தம் அதிகரிப்பது"
         ],
-        "explanation": "ஆழம் அதிகரிக்கும்போது அதிக நீர் வெளியேற்றப்படுகிறது; அழுத்தமும் கூடுகிறது. நூலின் விடை 'மேலே கூறிய யாவும்'."
+        "explanation": "ஆழம் அதிகரிக்கும்போது அதிக நீர் வெளியேற்றப்படுகிறது; அழுத்தமும் கூடுகிறது. நூலின் விடை 'மேலே கூறிய யாவும்'. வெளியேறும் நீரின் பருமனும் எடையும் அதிகரிக்கும். வெளியேறும் நீரின் பருமனும் எடையும் அதிகரிக்கும்."
       }
     },
     {
@@ -169,10 +169,10 @@
       "ta": {
         "q": "திரவத்தில் மூழ்கிய பொருளின் மிதப்பு விசையைத் தீர்மானிப்பது",
         "options": [
-          "பொருளின் எடை",
-          "திரவத்தின் நிறம்",
+          "மூழ்கிய பொருளின் சொந்த எடை",
+          "திரவத்தின் நிறமும் தோற்றமும்",
           "இடப்பெயர்த்த திரவத்தின் எடை",
-          "கலனின் வடிவம்"
+          "கலனின் வடிவமும் அளவும்"
         ],
         "explanation": "ஆர்க்கிமிடிஸ் தத்துவப்படி மிதப்பு விசை, இடப்பெயர்த்த திரவத்தின் எடைக்குச் சமம்."
       }
@@ -217,10 +217,10 @@
       "en": {
         "q": "Archimedes' principle",
         "options": [
-          "applies only to liquids",
+          "applies only to liquids and not gases",
           "applies to gases as well as liquids",
-          "applies only in a vacuum",
-          "applies only to solids"
+          "applies only inside a vacuum chamber",
+          "applies only to solid objects in air"
         ],
         "explanation": "Archimedes' principle holds for all fluids, i.e. liquids and gases (e.g. a balloon in air)."
       },
@@ -305,9 +305,9 @@
         "q": "A helium-filled balloon floats in air because",
         "options": [
           "its average density is less than that of air",
-          "air pressure is zero around it",
-          "helium is heavier than air",
-          "it has no mass"
+          "the air pressure is zero all around it",
+          "helium gas is much heavier than air",
+          "it has no mass at all, being empty"
         ],
         "explanation": "Helium is less dense than air, so the buoyant force exceeds the weight of the balloon."
       },
@@ -315,9 +315,9 @@
         "q": "ஹீலியம் நிரப்பப்பட்ட பலூன் காற்றில் மிதப்பதற்குக் காரணம்",
         "options": [
           "அதன் சராசரி அடர்த்தி காற்றை விடக் குறைவு",
-          "அதைச் சுற்றி அழுத்தம் சுழி",
-          "ஹீலியம் காற்றை விடக் கனமானது",
-          "அதற்கு நிறை இல்லை"
+          "அதைச் சுற்றிலும் காற்றழுத்தம் சுழியாகும்",
+          "ஹீலியம் வாயு காற்றை விட மிகக் கனமானது",
+          "அதற்கு நிறையே இல்லை, உள்ளே வெற்றிடம்"
         ],
         "explanation": "ஹீலியத்தின் அடர்த்தி காற்றை விடக் குறைவு; மிதப்பு விசை பலூனின் எடையை விட அதிகம்."
       }
@@ -333,22 +333,22 @@
       "en": {
         "q": "Atmospheric pressure is the",
         "options": [
-          "pressure exerted by the atmospheric gases on the surface of the Earth and its surroundings",
-          "pressure of the sea water",
-          "pressure inside a tyre",
-          "pressure of mercury alone"
+          "pressure of atmospheric gases on the Earth's surface",
+          "pressure exerted by the sea water at depth",
+          "pressure of the air inside a car tyre",
+          "pressure of mercury in a barometer alone"
         ],
-        "explanation": "The pressure exerted by the atmospheric gases on their surroundings and on the surface of the Earth is called atmospheric pressure."
+        "explanation": "The pressure exerted by the atmospheric gases on their surroundings and on the surface of the Earth is called atmospheric pressure. It acts on the surface of the Earth and its surroundings. It acts on the surface of the Earth and its surroundings."
       },
       "ta": {
         "q": "வளிமண்டல அழுத்தம் என்பது",
         "options": [
-          "வளிமண்டல வாயுக்கள் புவிப்பரப்பின் மீதும் சுற்றுப்புறத்தின் மீதும் செலுத்தும் அழுத்தம்",
-          "கடல்நீரின் அழுத்தம்",
-          "டயரினுள் உள்ள அழுத்தம்",
-          "பாதரசத்தின் அழுத்தம் மட்டும்"
+          "வளிமண்டல வாயுக்கள் புவியின் மீது செலுத்தும் அழுத்தம்",
+          "கடலின் ஆழத்தில் நீர் செலுத்தும் அழுத்தம்",
+          "வாகன டயரினுள் உள்ள காற்றின் அழுத்தம்",
+          "பாதரசக் குழாயிலுள்ள பாதரச அழுத்தம் மட்டும்"
         ],
-        "explanation": "வளிமண்டல வாயுக்கள் புவிப்பரப்பின் மீது ஏற்படுத்தும் அழுத்தமே வளிமண்டல அழுத்தம்."
+        "explanation": "வளிமண்டல வாயுக்கள் புவிப்பரப்பின் மீது ஏற்படுத்தும் அழுத்தமே வளிமண்டல அழுத்தம். இது புவிப்பரப்பிலும் சுற்றுப்புறத்திலும் செயல்படும். இது புவிப்பரப்பிலும் சுற்றுப்புறத்திலும் செயல்படும்."
       }
     },
     {
@@ -375,9 +375,9 @@
           "ஆழம் அதிகரிக்க அழுத்தம் குறையும்",
           "திரவத்தில் மூழ்கிய பொருள் இடப்பெயர்த்த திரவத்தின் எடையை இழக்கும்",
           "வளிமண்டல அழுத்தம் 760 மி.மீ பாதரசம்",
-          "அடைபட்ட, அமுக்க இயலாத ஓய்வுநிலைத் திரவத்தின் மீது செலுத்தப்படும் புறஅழுத்தம் எல்லாத் திசைகளிலும் சமமாகப் பரவும்"
+          "அடைபட்ட திரவத்தில் செலுத்தும் புறஅழுத்தம் எல்லாத் திசைகளிலும் சமமாகப் பரவும்"
         ],
-        "explanation": "பாஸ்கல் விதிப்படி திரவத்தின் மீதான அழுத்தம் மாற்றமின்றி எல்லாப் புள்ளிகளுக்கும் சமமாகப் பரவும்."
+        "explanation": "பாஸ்கல் விதிப்படி திரவத்தின் மீதான அழுத்தம் மாற்றமின்றி எல்லாப் புள்ளிகளுக்கும் சமமாகப் பரவும். இத்திரவம் அமுக்க இயலாதது, ஓய்வுநிலையில் உள்ளது. இத்திரவம் அமுக்க இயலாதது, ஓய்வுநிலையில் உள்ளது."
       }
     },
     {
@@ -449,22 +449,22 @@
       "en": {
         "q": "A block of wood weighing 200 g (200 gf) floats on water; its volume is 300 cm^3. The upthrust due to water is",
         "options": [
-          "200 gf (about 1.96 N)",
+          "200 gf",
           "100 gf",
           "500 gf",
           "300 gf"
         ],
-        "explanation": "A floating body displaces water equal to its own weight, so upthrust = weight of the block = 200 gf (about 1.96 N)."
+        "explanation": "A floating body displaces water equal to its own weight, so upthrust = weight of the block = 200 gf (about 1.96 N). 200 gf is about 1.96 N. 200 gf is about 1.96 N."
       },
       "ta": {
         "q": "200 கி எடையுள்ள மரக்கட்டை நீரில் மிதக்கிறது; அதன் பருமன் 300 செ.மீ^3. நீரினால் ஏற்படும் உந்துவிசை",
         "options": [
-          "200 கி எடை (ஏறத்தாழ 1.96 N)",
+          "200 கி எடை",
           "100 கி எடை",
           "500 கி எடை",
           "300 கி எடை"
         ],
-        "explanation": "மிதக்கும் பொருள் தன் எடைக்குச் சமமான நீரை இடப்பெயர்க்கும்; எனவே உந்துவிசை = 200 கி எடை (ஏறத்தாழ 1.96 N)."
+        "explanation": "மிதக்கும் பொருள் தன் எடைக்குச் சமமான நீரை இடப்பெயர்க்கும்; எனவே உந்துவிசை = 200 கி எடை (ஏறத்தாழ 1.96 N). 200 கி எடை என்பது ஏறத்தாழ 1.96 N. 200 கி எடை என்பது ஏறத்தாழ 1.96 N."
       }
     },
     {
@@ -536,20 +536,20 @@
       "en": {
         "q": "A boat with a hole in the bottom eventually sinks because",
         "options": [
-          "water pressure decreases",
-          "the boat becomes lighter",
-          "water enters and the average density of the boat becomes greater than that of water",
-          "the boat's density becomes zero"
+          "the water pressure under the boat decreases",
+          "the boat becomes lighter as water leaks in",
+          "water enters and boat's average density exceeds water's",
+          "the density of the boat becomes exactly zero"
         ],
         "explanation": "As water fills the boat, its average density exceeds that of water and the weight exceeds the maximum buoyant force."
       },
       "ta": {
         "q": "அடியில் துளையுள்ள படகு இறுதியில் மூழ்குவதற்குக் காரணம்",
         "options": [
-          "நீரின் அழுத்தம் குறைவது",
-          "படகு இலகுவாகிவிடுவது",
-          "நீர் புகுந்து படகின் சராசரி அடர்த்தி நீரின் அடர்த்தியை விட அதிகமாவது",
-          "படகின் அடர்த்தி சுழியாவது"
+          "படகைச் சுற்றியுள்ள நீரின் அழுத்தம் குறைவது",
+          "நீர் புகுவதால் படகு இலகுவாகிவிடுவது",
+          "நீர் புகுந்து படகின் அடர்த்தி நீரை விட அதிகமாவது",
+          "படகின் அடர்த்தி முற்றிலும் சுழியாவது"
         ],
         "explanation": "நீர் புகுவதால் படகின் சராசரி அடர்த்தி நீரை விட அதிகமாகி எடை மிதப்பு விசையை மிஞ்சுகிறது."
       }

@@ -362,22 +362,22 @@
       "en": {
         "q": "According to the textbook table (2011), which state has the highest literacy rate among those listed?",
         "options": [
-          "Kerala (94%)",
+          "Kerala",
           "Gujarat",
           "Karnataka",
           "Tamil Nadu"
         ],
-        "explanation": "Kerala 94%, Tamil Nadu 80.09%, Gujarat 78.03%, Karnataka 75.36%."
+        "explanation": "Kerala 94%, Tamil Nadu 80.09%, Gujarat 78.03%, Karnataka 75.36%. Kerala's literacy rate is 94%."
       },
       "ta": {
         "q": "நூலிலுள்ள அட்டவணையின்படி (2011) பட்டியலிடப்பட்ட மாநிலங்களில் அதிகக் கல்வியறிவு பெற்றது",
         "options": [
-          "கேரளம் (94%)",
+          "கேரளம்",
           "குஜராத்",
           "கர்நாடகம்",
           "தமிழ்நாடு"
         ],
-        "explanation": "கேரளம் 94%; தமிழ்நாடு 80.09%; குஜராத் 78.03%; கர்நாடகம் 75.36%."
+        "explanation": "கேரளம் 94%; தமிழ்நாடு 80.09%; குஜராத் 78.03%; கர்நாடகம் 75.36%. கேரளத்தின் கல்வியறிவு விகிதம் 94%."
       }
     },
     {
@@ -391,20 +391,20 @@
       "en": {
         "q": "The Human Development Report of the world is prepared and released by the",
         "options": [
-          "World Bank",
+          "World Bank Group",
           "International Monetary Fund",
           "World Trade Organization",
-          "United Nations Development Programme (UNDP)"
+          "United Nations Development Programme"
         ],
         "explanation": "The HDR website listed is hdr.undp.org."
       },
       "ta": {
         "q": "உலக மனித வளர்ச்சி அறிக்கையைத் தயாரித்து வெளியிடுவது",
         "options": [
-          "உலக வங்கி",
+          "உலக வங்கி நிதிக் குழுமம்",
           "பன்னாட்டு நாணய நிதியம்",
-          "உலக வர்த்தக அமைப்பு",
-          "ஐக்கிய நாடுகள் வளர்ச்சித் திட்டம் (UNDP)"
+          "உலக வர்த்தக அமைப்பு மையம்",
+          "ஐக்கிய நாடுகள் வளர்ச்சித் திட்டம்"
         ],
         "explanation": "UNDP ஆண்டுதோறும் மனித வளர்ச்சி அறிக்கையை வெளியிடுகிறது."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "NNP (total income) is not a satisfactory measure for comparing development of countries mainly because",
         "options": [
-          "it excludes depreciation",
-          "it is always the same for all countries",
-          "it is measured in different units",
-          "countries have different populations, so total income does not show what an average person earns"
+          "it ignores the depreciation of capital goods",
+          "it is identical for every country in the world",
+          "it is measured in different units in each country",
+          "it ignores differences in population size between countries"
         ],
         "explanation": "Hence per capita income (average income) is used for comparison."
       },
       "ta": {
         "q": "நாடுகளின் மேம்பாட்டை ஒப்பிட மொத்த வருமானம் (NNP) போதுமான அளவீடு அன்று; ஏனெனில்",
         "options": [
-          "அது தேய்மானத்தை நீக்கவில்லை",
-          "எல்லா நாடுகளுக்கும் அது ஒன்றே",
-          "அது வெவ்வேறு அலகுகளில் உள்ளது",
-          "நாடுகளின் மக்கள்தொகை வேறுபடுவதால் சராசரி மனிதரின் வருவாயை அது காட்டாது"
+          "அது மூலதனத் தேய்மானத்தை நீக்கவில்லை",
+          "எல்லா நாடுகளுக்கும் அது ஒரே அளவாக உள்ளது",
+          "ஒவ்வொரு நாட்டிலும் அது வெவ்வேறு அலகில் உள்ளது",
+          "நாடுகளின் மக்கள்தொகை வேறுபாட்டை அது காட்டாது"
         ],
         "explanation": "எனவே தனிநபர் (சராசரி) வருமானம் ஒப்பீட்டிற்குப் பயன்படுகிறது."
       }
@@ -548,7 +548,7 @@
         "options": [
           "பொது-தனியார் கூட்டு",
           "தனிநபர் உற்பத்தி விலை",
-          "வாங்கும் திறன் சமநிலை (Purchasing Power Parity)",
+          "வாங்கும் திறன் சமநிலை",
           "தனியார் உற்பத்திக் கொள்கை"
         ],
         "explanation": "HDI - மனிதவள மேம்பாட்டுக் குறியீடு; NNP - நிகர நாட்டு உற்பத்தி; PCI - தனிநபர் வருமானம்."
@@ -565,20 +565,20 @@
       "en": {
         "q": "Solar power is",
         "options": [
-          "the conversion of energy from sunlight into electricity using photovoltaic cells or concentrated solar power",
-          "energy from flowing rivers",
-          "energy from burning coal",
-          "energy from the earth's heat"
+          "the conversion of sunlight into electricity using photovoltaic cells",
+          "electricity generated from the force of flowing river water",
+          "heat energy obtained by burning coal in power plants",
+          "energy drawn from the heat stored inside the earth"
         ],
         "explanation": "Solar panels absorb sunlight as a source of energy to generate electricity."
       },
       "ta": {
         "q": "சூரிய சக்தி என்பது",
         "options": [
-          "ஒளிமின்னழுத்த செல்கள் அல்லது செறிவூட்டப்பட்ட சூரிய ஆற்றல் மூலம் சூரிய ஒளியை மின்சாரமாக மாற்றுவது",
-          "ஆறுகளின் ஓட்டத்திலிருந்து பெறும் ஆற்றல்",
-          "நிலக்கரியை எரித்துப் பெறும் ஆற்றல்",
-          "புவியின் வெப்பத்திலிருந்து பெறும் ஆற்றல்"
+          "ஒளிமின்னழுத்த செல்கள் மூலம் சூரிய ஒளியை மின்சாரமாக மாற்றுவது",
+          "ஆறுகளில் ஓடும் நீரின் விசையால் பெறும் மின்சாரம்",
+          "நிலக்கரியை எரித்து மின்நிலையங்களில் பெறும் ஆற்றல்",
+          "புவியின் உட்பகுதி வெப்பத்திலிருந்து பெறும் ஆற்றல்"
         ],
         "explanation": "சூரியத் தகடுகள் ஒளியை உறிஞ்சி மின்சாரம் தருகின்றன."
       }

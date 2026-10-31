@@ -162,7 +162,7 @@
           "a straight line",
           "a point",
           "a line parallel to the time axis",
-          "a curve (parabola)"
+          "a parabola"
         ],
         "explanation": "With uniform acceleration s = ut + 1/2 at^2, so the displacement-time graph is a curve; the book statement is false."
       },
@@ -172,7 +172,7 @@
           "நேர்கோடு",
           "ஒரு புள்ளி",
           "காலஅச்சுக்கு இணையான கோடு",
-          "வளைவு (பரவளையம்)"
+          "பரவளையம்"
         ],
         "explanation": "சீரான முடுக்கத்தில் s = ut + 1/2 at^2; எனவே இடப்பெயர்ச்சி - காலம் வரைபடம் வளைவு; நூலின் கூற்று தவறு."
       }
@@ -305,7 +305,7 @@
         "q": "Which of the following correctly distinguishes distance from displacement?",
         "options": [
           "Distance is a vector; displacement is a scalar",
-          "Distance is a scalar giving the actual path length; displacement is a vector giving the shortest change in position",
+          "Distance is a scalar path length; displacement is a vector",
           "Both are vectors measured in different units",
           "Distance is the straight line AB; displacement is the path length"
         ],
@@ -314,10 +314,10 @@
       "ta": {
         "q": "தொலைவுக்கும் இடப்பெயர்ச்சிக்கும் உள்ள சரியான வேறுபாடு எது?",
         "options": [
-          "தொலைவு வெக்டர்; இடப்பெயர்ச்சி ஸ்கேலர்",
-          "தொலைவு பாதையின் உண்மையான நீளம் (ஸ்கேலர்); இடப்பெயர்ச்சி நிலையில் ஏற்படும் மாற்றம் (வெக்டர்)",
+          "தொலைவு வெக்டர் அளவு; இடப்பெயர்ச்சி ஸ்கேலர் அளவு",
+          "தொலைவு பாதையின் நீளம், ஸ்கேலர்; இடப்பெயர்ச்சி நிலை மாற்றம், வெக்டர்",
           "இரண்டும் வெவ்வேறு அலகுகளில் அளக்கப்படும் வெக்டர்கள்",
-          "தொலைவு நேர்கோடு AB; இடப்பெயர்ச்சி பாதையின் நீளம்"
+          "தொலைவு நேர்கோடு AB என்பது; இடப்பெயர்ச்சி பாதையின் நீளம் என்பது"
         ],
         "explanation": "தொலைவு: பாதையின் உண்மையான நீளம், ஸ்கேலர். இடப்பெயர்ச்சி: குறிப்பிட்ட திசையில் நிலை மாற்றம், வெக்டர். இரண்டின் அலகும் மீட்டர்."
       }
@@ -420,10 +420,10 @@
       "en": {
         "q": "Uniform circular motion is an accelerated motion because",
         "options": [
-          "the displacement is always zero",
-          "the speed keeps changing",
-          "no force acts on the body",
-          "the direction of velocity changes continuously even though speed is constant"
+          "the displacement is always exactly zero",
+          "the speed keeps on changing continuously",
+          "no force at all acts on the moving body",
+          "the velocity direction keeps changing at constant speed"
         ],
         "explanation": "Acceleration arises from a change in magnitude or direction of velocity; in circular motion the direction changes at every point."
       },
@@ -431,9 +431,9 @@
         "q": "சீரான வட்ட இயக்கம் முடுக்கப்பட்ட இயக்கம் ஆவதற்குக் காரணம்",
         "options": [
           "இடப்பெயர்ச்சி எப்போதும் சுழி என்பதால்",
-          "வேகம் தொடர்ந்து மாறுவதால்",
+          "வேகம் தொடர்ந்து மாறிக்கொண்டே இருப்பதால்",
           "பொருளின் மீது எந்த விசையும் செயல்படாததால்",
-          "வேகம் மாறாவிட்டாலும் திசைவேகத்தின் திசை தொடர்ந்து மாறுவதால்"
+          "வேகம் மாறாமல் திசைவேகத்தின் திசை மாறுவதால்"
         ],
         "explanation": "திசைவேகத்தின் அளவு அல்லது திசை மாறினால் முடுக்கம் உண்டு; வட்டப்பாதையில் திசை ஒவ்வொரு புள்ளியிலும் மாறுகிறது."
       }

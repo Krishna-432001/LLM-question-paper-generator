@@ -104,9 +104,9 @@
           "motor",
           "rheostat",
           "ammeter",
-          "generator (dynamo)"
+          "generator"
         ],
-        "explanation": "An electric generator converts mechanical energy into electrical energy."
+        "explanation": "An electric generator converts mechanical energy into electrical energy. A generator is also called a dynamo."
       },
       "ta": {
         "q": "மின்னோட்டத்தை உருவாக்குவதற்கான ஒரு கருவி",
@@ -114,9 +114,9 @@
           "மோட்டார்",
           "ரியோஸ்டாட்",
           "அம்மீட்டர்",
-          "மின்னியற்றி (டைனமோ)"
+          "மின்னியற்றி"
         ],
-        "explanation": "மின்னியற்றி இயந்திர ஆற்றலை மின்னாற்றலாக மாற்றுகிறது."
+        "explanation": "மின்னியற்றி இயந்திர ஆற்றலை மின்னாற்றலாக மாற்றுகிறது. மின்னியற்றி டைனமோ எனவும் அழைக்கப்படும்."
       }
     },
     {
@@ -246,22 +246,22 @@
       "en": {
         "q": "A transformer cannot step up or step down a direct current because",
         "options": [
-          "DC has a very high frequency",
-          "DC cannot flow in a coil",
-          "a transformer has no secondary coil",
-          "a constant current in the primary produces no change in flux, so no emf is induced in the secondary"
+          "DC has a very high frequency that coils reject",
+          "DC cannot flow through a coil of wire at all",
+          "a transformer has no secondary coil in it at all",
+          "a constant current in the primary produces no change in flux"
         ],
-        "explanation": "A transformer works on electromagnetic induction which needs a changing flux; the book statement 'can step up DC' is false."
+        "explanation": "A transformer works on electromagnetic induction which needs a changing flux; the book statement 'can step up DC' is false. So no emf is induced in the secondary."
       },
       "ta": {
         "q": "மின்மாற்றி நேர்திசை மின்னோட்டத்தை உயர்த்தவோ குறைக்கவோ முடியாது; ஏனெனில்",
         "options": [
-          "DC-யின் அதிர்வெண் மிக அதிகம்",
-          "சுருளில் DC பாயாது",
-          "மின்மாற்றிக்குத் துணைச் சுருள் இல்லை",
-          "முதன்மைச் சுருளில் மாறா மின்னோட்டம் காந்தப் பாய மாற்றத்தை ஏற்படுத்தாது; துணைச் சுருளில் மின்னியக்கு விசை தூண்டப்படாது"
+          "DC-யின் அதிர்வெண் மிகவும் அதிகமாக இருக்கும்",
+          "சுருளின் வழியே DC ஒருபோதும் பாய முடியாது",
+          "மின்மாற்றிக்கு துணைச் சுருளே இல்லை என்பதால்",
+          "முதன்மைச் சுருளில் மாறா மின்னோட்டம் பாய மாற்றம் தராது"
         ],
-        "explanation": "மின்காந்தத் தூண்டலுக்கு மாறும் காந்தப் பாயம் தேவை; 'DC-யை உயர்த்தலாம்' என்ற கூற்று தவறு."
+        "explanation": "மின்காந்தத் தூண்டலுக்கு மாறும் காந்தப் பாயம் தேவை; 'DC-யை உயர்த்தலாம்' என்ற கூற்று தவறு. எனவே துணைச் சுருளில் மின்னியக்கு விசை தூண்டப்படாது."
       }
     },
     {
@@ -304,10 +304,10 @@
       "en": {
         "q": "According to Fleming's left hand rule, when the forefinger, second (middle) finger and thumb of the left hand are mutually perpendicular, the forefinger shows the magnetic field, the middle finger shows the current and the thumb shows the",
         "options": [
-          "direction of induced voltage",
-          "direction of the magnetic pole",
-          "direction of force or motion of the conductor",
-          "direction of the electron flow"
+          "direction of the induced voltage in coil",
+          "direction of the north magnetic pole",
+          "direction of force or motion of conductor",
+          "direction of the electron flow in wire"
         ],
         "explanation": "Left-hand rule: field (forefinger), current (second finger), force/motion (thumb)."
       },
@@ -333,20 +333,20 @@
       "en": {
         "q": "Magnetic flux density is the",
         "options": [
-          "work done in moving a charge",
-          "total number of field lines in a magnet",
-          "force on a unit pole",
-          "number of magnetic field lines crossing unit area kept normal to the field"
+          "work done in moving a unit charge in the field",
+          "total number of field lines coming out of a magnet",
+          "force acting on a unit north pole in the field",
+          "number of field lines crossing unit area normal to field"
         ],
         "explanation": "Magnetic flux density is flux per unit normal area; its unit is Wb m^-2."
       },
       "ta": {
         "q": "காந்தப் பாய அடர்த்தி என்பது",
         "options": [
-          "மின்னூட்டத்தை நகர்த்தச் செய்யப்படும் வேலை",
-          "ஒரு காந்தத்தின் மொத்தப் புலக்கோடுகள்",
-          "ஓரலகு துருவத்தின் மீதான விசை",
-          "புலத்திற்குச் செங்குத்தாக உள்ள ஓரலகு பரப்பைக் கடக்கும் காந்தப் புலக்கோடுகளின் எண்ணிக்கை"
+          "ஓரலகு மின்னூட்டத்தை நகர்த்தச் செய்யப்படும் வேலை",
+          "ஒரு காந்தத்திலிருந்து வரும் மொத்தப் புலக்கோடுகள்",
+          "புலத்தில் ஓரலகு வட துருவத்தின் மீதான விசை",
+          "ஓரலகு செங்குத்துப் பரப்பைக் கடக்கும் புலக்கோடுகளின் எண்ணிக்கை"
         ],
         "explanation": "காந்தப் பாய அடர்த்தி = ஓரலகு செங்குத்துப் பரப்பைக் கடக்கும் பாயம்; அலகு Wb மீ^-2."
       }
@@ -420,20 +420,20 @@
       "en": {
         "q": "Faraday concluded that whenever the magnetic flux linked with a closed circuit changes",
         "options": [
-          "an emf is induced, proportional to the rate of change of flux",
-          "no emf is produced",
-          "the circuit is destroyed",
-          "the flux becomes zero"
+          "an emf is induced, proportional to rate of change of flux",
+          "no emf is produced in the circuit at all",
+          "the circuit itself gets destroyed by heat",
+          "the flux in the circuit becomes zero always"
         ],
         "explanation": "The induced emf varies directly as the rate at which the flux changes; the phenomenon is called electromagnetic induction."
       },
       "ta": {
         "q": "மூடிய சுற்றுடன் தொடர்புடைய காந்தப் பாயம் மாறும்போதெல்லாம் ஃபாரடேயின் முடிவு",
         "options": [
-          "பாய மாற்ற வீதத்திற்கு நேர்தகவில் மின்னியக்கு விசை தூண்டப்படும்",
-          "மின்னியக்கு விசை உருவாகாது",
-          "சுற்று அழிந்துவிடும்",
-          "பாயம் சுழியாகும்"
+          "பாய மாற்ற வீதத்திற்கு நேர்தகவில் மின்னியக்கு விசை தோன்றும்",
+          "சுற்றில் மின்னியக்கு விசை சிறிதும் உருவாகாது",
+          "பாயத்தால் சுற்று முழுவதும் அழிந்துவிடும்",
+          "சுற்றில் பாயம் எப்போதும் சுழியாகிவிடும்"
         ],
         "explanation": "தூண்டப்படும் மின்னியக்கு விசை பாயம் மாறும் வீதத்திற்கு நேர்தகவு; இந்நிகழ்வு மின்காந்தத் தூண்டல்."
       }

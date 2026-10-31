@@ -101,18 +101,18 @@
       "en": {
         "q": "Terrestrial biomes are mainly determined by",
         "options": [
-          "soil colour",
-          "wind speed",
+          "the colour of the soil",
+          "the speed of the wind",
           "temperature and rainfall",
-          "altitude only"
+          "altitude above sea level only"
         ],
         "explanation": "Aquatic biomes are classified as freshwater and marine."
       },
       "ta": {
         "q": "நிலவாழ் பல்லுயிர்த் தொகுதிகள் முதன்மையாக எவற்றால் தீர்மானிக்கப்படுகின்றன?",
         "options": [
-          "மண்ணின் நிறம்",
-          "காற்றின் வேகம்",
+          "மண்ணின் நிறம் மட்டுமே",
+          "காற்றின் வேகம் மட்டுமே",
           "வெப்பநிலையும் மழையும்",
           "உயரம் மட்டும்"
         ],
@@ -287,7 +287,7 @@
         "options": [
           "ஓதப்பொங்கு முகம்",
           "வட்டப் பவளத்திட்டு",
-          "பாலைவனச் சோலை (Oasis)",
+          "பாலைவனச் சோலை",
           "டெல்டா"
         ],
         "explanation": "பாலைவனச் சோலைகளில் பேரீச்சை, அத்தி, சிட்ரஸ் பயிரிடப்படுகின்றன."
@@ -304,9 +304,9 @@
       "en": {
         "q": "Temperate grasslands are usually found",
         "options": [
-          "in the interior of continents and favour wheat cultivation",
-          "near the poles",
-          "in the equatorial region",
+          "in continental interiors, good for wheat",
+          "in the polar regions near the poles",
+          "in the hot equatorial rainforest region",
           "on the western margins of continents"
         ],
         "explanation": "They have large seasonal temperature variations; pastoral industry is the main occupation."
@@ -314,10 +314,10 @@
       "ta": {
         "q": "மிதவெப்பப் புல்வெளிகள் பொதுவாகக் காணப்படுவது",
         "options": [
-          "கண்டங்களின் உட்பகுதியில்; கோதுமை சாகுபடிக்கு ஏற்றவை",
-          "துருவங்களுக்கு அருகில்",
-          "நிலநடுக்கோட்டுப் பகுதியில்",
-          "கண்டங்களின் மேற்கு விளிம்பில்"
+          "கண்டங்களின் உட்பகுதியில்; கோதுமைக்கு ஏற்றவை",
+          "துருவங்களுக்கு அருகிலுள்ள பனிப்பகுதிகளில்",
+          "நிலநடுக்கோட்டுப் பகுதியின் மழைக்காடுகளில்",
+          "கண்டங்களின் மேற்கு விளிம்புப் பகுதியில்"
         ],
         "explanation": "இங்கு மேய்ச்சல் தொழிலும் முதன்மையானது."
       }
@@ -363,9 +363,9 @@
         "q": "In the tundra biome people live in",
         "options": [
           "igloos in winter and tents in summer",
-          "stilt houses",
-          "mud huts all year",
-          "tree houses"
+          "stilt houses built over rivers",
+          "mud huts throughout the whole year",
+          "tree houses high in forests"
         ],
         "explanation": "Tundra regions are also called barren lands; net primary productivity is very low."
       },

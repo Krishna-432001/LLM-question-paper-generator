@@ -14,20 +14,20 @@
       "en": {
         "q": "Economic development refers to",
         "options": [
-          "growth of one sector only",
-          "an increase in population",
-          "the overall growth of all sectors of the economy by adoption of new technologies",
-          "a rise in prices"
+          "growth of a single sector such as industry alone",
+          "a steady increase in the size of population",
+          "the overall growth of all sectors through new technologies",
+          "a continuous rise in the general price level"
         ],
         "explanation": "Development refers to improvement in quality of life such as higher income, better education and health, less poverty and more equal opportunity."
       },
       "ta": {
         "q": "பொருளாதார மேம்பாடு என்பது",
         "options": [
-          "ஒரு துறை மட்டும் வளர்வது",
-          "மக்கள்தொகை உயர்வு",
-          "புதிய தொழில்நுட்பங்களுடன் அனைத்துத் துறைகளும் ஒட்டுமொத்தமாக வளர்வது",
-          "விலை உயர்வு"
+          "ஒரு துறை மட்டும் தனியாக வளர்ச்சி அடைவது",
+          "மக்கள்தொகை எண்ணிக்கை தொடர்ந்து உயர்வது",
+          "புதிய தொழில்நுட்பங்களால் அனைத்துத் துறைகளும் வளர்வது",
+          "பொது விலை மட்டம் தொடர்ந்து உயர்வது"
         ],
         "explanation": "இது மக்களின் வாழ்க்கைத் தரத்தையும் நாட்டின் நிலையையும் உயர்த்தும்."
       }
@@ -72,7 +72,7 @@
       "en": {
         "q": "The final money value of all goods and services produced within a country's geographic boundaries in a year is",
         "options": [
-          "Gross Domestic Product (GDP)",
+          "Gross Domestic Product",
           "Per capita income",
           "Net National Product",
           "Purchasing power parity"
@@ -82,7 +82,7 @@
       "ta": {
         "q": "ஒரு நாட்டின் புவியியல் எல்லைக்குள் ஓராண்டில் உற்பத்தியாகும் அனைத்துப் பொருள், சேவைகளின் இறுதி பணமதிப்பு",
         "options": [
-          "மொத்த உள்நாட்டு உற்பத்தி (GDP)",
+          "மொத்த உள்நாட்டு உற்பத்தி",
           "தனிநபர் வருமானம்",
           "நிகர நாட்டு உற்பத்தி",
           "வாங்கும் திறன் சமநிலை"
@@ -101,20 +101,20 @@
       "en": {
         "q": "Purchasing power parity compares",
         "options": [
-          "the interest rates of two countries",
-          "the population of two countries",
-          "the exports of two countries",
-          "the number of units of a country's currency needed to buy what one US dollar buys in the US"
+          "the interest rates charged in two countries on loans",
+          "the population sizes of two countries compared over time",
+          "the value of exports earned by two countries each year",
+          "the currency units needed to buy what one dollar buys in the US"
         ],
         "explanation": "It helps estimate the exchange rate needed to express accurate purchasing power of two currencies."
       },
       "ta": {
         "q": "வாங்கும் திறன் சமநிலை (PPP) என்பது",
         "options": [
-          "இரு நாடுகளின் வட்டி வீதம்",
-          "இரு நாடுகளின் மக்கள்தொகை",
-          "இரு நாடுகளின் ஏற்றுமதி",
-          "அமெரிக்காவில் ஒரு டாலரால் வாங்கக்கூடியதை வாங்க ஒரு நாட்டு நாணயத்தின் எத்தனை அலகுகள் தேவை என்பது"
+          "இரு நாடுகளின் கடன்களுக்கான வட்டி வீதங்கள்",
+          "இரு நாடுகளின் மக்கள்தொகை அளவுகளின் ஒப்பீடு",
+          "இரு நாடுகள் ஆண்டுதோறும் ஈட்டும் ஏற்றுமதி மதிப்பு",
+          "அமெரிக்காவில் ஒரு டாலர் வாங்குவதை வாங்கத் தேவையான நாணய அலகுகள்"
         ],
         "explanation": "இரு நாணயங்களின் உண்மை வாங்கும் திறனைக் காட்டும் பரிமாற்ற வீதத்தை மதிப்பிட உதவுகிறது."
       }
@@ -159,20 +159,20 @@
       "en": {
         "q": "Economists have realised over time that",
         "options": [
-          "only physical capital matters",
-          "human capital is unimportant",
-          "growth needs no investment",
-          "investment in human capital is as important as investment in physical capital"
+          "only machinery and physical capital matter",
+          "spending on human capital is a waste of resources",
+          "growth can occur without any new investment",
+          "human capital matters as much as physical capital"
         ],
         "explanation": "The Human Development Index (HDI) indicates all-round development of the people in society."
       },
       "ta": {
         "q": "பொருளாதார வல்லுநர்கள் காலப்போக்கில் உணர்ந்தது",
         "options": [
-          "பௌதிக மூலதனமே முக்கியம்",
-          "மனித மூலதனம் முக்கியமன்று",
-          "வளர்ச்சிக்கு முதலீடு தேவையில்லை",
-          "மனித மூலதன முதலீடும் பௌதிக மூலதன முதலீடும் சமமாக முக்கியம்"
+          "இயந்திரங்கள் போன்ற பௌதிக மூலதனமே முக்கியம்",
+          "மனித மூலதனத்தில் முதலிடுவது வீண் செலவு",
+          "புதிய முதலீடு இல்லாமலேயே வளர்ச்சி ஏற்படும்",
+          "மனித மூலதனமும் பௌதிக மூலதனமும் சமமாக முக்கியம்"
         ],
         "explanation": "HDI சமூகத்தின் ஒட்டுமொத்த வளர்ச்சியைக் காட்டுகிறது."
       }
@@ -189,19 +189,19 @@
         "q": "Sustainable economic development means",
         "options": [
           "development at the cost of the environment",
-          "development of industries only",
-          "development without damaging the environment and without compromising the needs of future generations",
-          "no development at all"
+          "rapid development of industries without other sectors",
+          "development that protects the environment and future needs",
+          "stopping all development to protect nature"
         ],
         "explanation": "To achieve real sustainability we need to balance economic, social and environmental sustainability in equal harmony."
       },
       "ta": {
         "q": "நிலையான பொருளாதார மேம்பாடு என்பது",
         "options": [
-          "சூழலைப் பலியிட்டு அடையும் மேம்பாடு",
-          "தொழிற்சாலை மேம்பாடு மட்டும்",
-          "சூழலைச் சேதப்படுத்தாமல், எதிர்காலத் தலைமுறைத் தேவைகளைப் பாதிக்காமல் அடையும் மேம்பாடு",
-          "மேம்பாடே இல்லாமை"
+          "சூழலைப் பலிகொடுத்து விரைந்து அடையும் மேம்பாடு",
+          "பிற துறைகளின்றித் தொழிற்சாலை மேம்பாடு மட்டும்",
+          "சூழலையும் எதிர்காலத் தேவைகளையும் பாதுகாக்கும் மேம்பாடு",
+          "இயற்கையைக் காக்க எல்லா மேம்பாட்டையும் நிறுத்துதல்"
         ],
         "explanation": "பொருளாதார, சமூக, சுற்றுச்சூழல் தன்மைகளைச் சமநிலையில் வைத்திருக்க வேண்டும்."
       }
@@ -287,7 +287,7 @@
         "options": [
           "வனவிலங்குப் பாதுகாப்புச் சட்டம், 1972",
           "வனப் பாதுகாப்புச் சட்டம், 1980",
-          "சுற்றுச்சூழல் (பாதுகாப்பு) சட்டம், 1986",
+          "சுற்றுச்சூழல் பாதுகாப்புச் சட்டம், 1986",
           "உயிரிப் பன்மைச் சட்டம், 2002"
         ],
         "explanation": "வனப் பாதுகாப்புச் சட்டம் காடழிப்பைத் தடுக்கிறது."
@@ -333,20 +333,20 @@
       "en": {
         "q": "Which social programme of Tamil Nadu is cited in the 'Growth Story of Tamil Nadu' passage?",
         "options": [
-          "Universal pension",
+          "Universal pension for all senior citizens",
           "Universal midday meals in primary schools",
-          "Free electricity for all",
-          "Free bus travel only"
+          "Free electricity for all households and farms",
+          "Free bus travel for all passengers only"
         ],
         "explanation": "The passage says Tamil Nadu built extensive social infrastructure and that human capability did not come at the cost of economic growth."
       },
       "ta": {
         "q": "'தமிழ்நாட்டின் வளர்ச்சி' பகுதியில் குறிப்பிடப்பட்ட சமூகநலத் திட்டம்",
         "options": [
-          "அனைவருக்கும் ஓய்வூதியம்",
+          "அனைத்துக் குடிமக்களுக்கும் முதியோர் ஓய்வூதியம்",
           "தொடக்கப்பள்ளிகளில் அனைவருக்கும் மதிய உணவு",
-          "அனைவருக்கும் இலவச மின்சாரம்",
-          "இலவசப் பேருந்துப் பயணம் மட்டும்"
+          "அனைத்து வீடுகளுக்கும் இலவச மின்சாரம்",
+          "அனைவருக்கும் இலவசப் பேருந்துப் பயணம் மட்டும்"
         ],
         "explanation": "மனிதத் திறன் வளர்ச்சி பொருளாதார வளர்ச்சியைப் பாதிக்கவில்லை என அமர்த்தியா சென் குறிப்பிடுகிறார்."
       }

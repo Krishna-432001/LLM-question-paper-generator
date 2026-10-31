@@ -27,7 +27,7 @@
           "சராசரி வேகம்",
           "சராசரித் திசைவேகம்",
           "இடப்பெயர்ச்சி",
-          "கண நேர (உடனடி) வேகம்"
+          "கண நேர வேகம்"
         ],
         "explanation": "வேகமானி ஒரு குறிப்பிட்ட கண நேரத்தில் நிகழும் வேகத்தை அளக்கிறது."
       }
@@ -101,20 +101,20 @@
       "en": {
         "q": "In a vacuum, a stone and a feather dropped from the same height reach the ground at the same time because",
         "options": [
-          "the acceleration of free fall is independent of mass",
-          "air resistance is greater",
-          "the feather is heavier",
-          "the stone is lighter"
+          "free-fall acceleration is independent of mass",
+          "air resistance is greater on the stone",
+          "the feather is heavier than the stone",
+          "the stone is lighter than the feather"
         ],
         "explanation": "In the absence of air, all freely falling objects have the same acceleration g irrespective of mass."
       },
       "ta": {
         "q": "வெற்றிடத்தில் ஒரே உயரத்திலிருந்து விடப்படும் கல்லும் இறகும் ஒரே நேரத்தில் தரையை அடைவதற்குக் காரணம்",
         "options": [
-          "தடையின்றி விழும் பொருளின் முடுக்கம் நிறையைச் சார்ந்ததல்ல",
-          "காற்றுத்தடை அதிகம்",
-          "இறகு கனமானது",
-          "கல் இலகுவானது"
+          "தடையின்றி விழும் முடுக்கம் நிறையைச் சார்ந்ததல்ல",
+          "இறகுக்கு அங்குக் காற்றுத்தடை மிகவும் அதிகம்",
+          "இறகு கல்லை விட மிகவும் கனமானது",
+          "கல் இறகை விட மிகவும் இலகுவானது"
         ],
         "explanation": "காற்று இல்லாதபோது தடையின்றி விழும் அனைத்துப் பொருட்களுக்கும் முடுக்கம் g ஆகும்; அது நிறையைச் சார்ந்ததல்ல."
       }
@@ -130,10 +130,10 @@
       "en": {
         "q": "A stone whirled in a circle on a thread is released. It then moves",
         "options": [
-          "along the radius towards the centre",
-          "along a straight line tangential to the circular path",
-          "along the same circular path",
-          "along the radius away from the centre"
+          "along the radius straight towards the centre",
+          "along a tangent to the circular path",
+          "along the same circular path as before",
+          "along the radius straight away from the centre"
         ],
         "explanation": "On release the stone continues in the direction of motion at that instant, i.e. along the tangent."
       },

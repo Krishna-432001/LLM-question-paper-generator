@@ -130,20 +130,20 @@
       "en": {
         "q": "A map is defined as",
         "options": [
-          "a three-dimensional model of the earth",
-          "the miniature image of the three-dimensional earth's surface on a flat surface",
-          "a photograph taken from a satellite",
-          "a list of place names"
+          "a reduced three-dimensional model of the whole earth",
+          "a reduced picture of the earth's surface on a flat plane",
+          "a single photograph taken from a satellite in orbit",
+          "an alphabetical list of the place names on land"
         ],
         "explanation": "The art of map-making is called cartography; a cartographer measures, analyses and interprets geographical information to create maps."
       },
       "ta": {
         "q": "நிலவரைபடம் என்பது",
         "options": [
-          "புவியின் முப்பரிமாண மாதிரி",
-          "முப்பரிமாணப் புவிப்பரப்பின் சிறுவடிவத்தைத் தட்டையான பரப்பில் வரைந்தது",
-          "செயற்கைக்கோள் புகைப்படம்",
-          "இடப்பெயர்ப் பட்டியல்"
+          "முழுப் புவியின் சிறுவடிவ முப்பரிமாண மாதிரி",
+          "புவிப்பரப்பின் சிறுவடிவத்தைத் தட்டையான பரப்பில் வரைந்தது",
+          "செயற்கைக்கோள் எடுத்த ஒரே ஒரு புகைப்படம்",
+          "நிலத்திலுள்ள இடப்பெயர்களின் அகரவரிசைப் பட்டியல்"
         ],
         "explanation": "நிலவரைபடம் வரையும் கலை நிலவரைபடவியல்."
       }
@@ -159,9 +159,9 @@
       "en": {
         "q": "Which of the following is NOT a component of a map listed in the textbook?",
         "options": [
-          "Title",
-          "Scale",
-          "Legend",
+          "Map title",
+          "Map scale",
+          "Map legend",
           "Population"
         ],
         "explanation": "Components: title, scale, direction, grid system, projection, legend, conventional signs and symbols."
@@ -246,20 +246,20 @@
       "en": {
         "q": "Remote sensing refers to",
         "options": [
-          "the observation and measurement of earthly objects without touching them",
-          "digging boreholes",
-          "drawing maps by hand",
-          "measuring land with a chain"
+          "observing earthly objects without touching them",
+          "digging deep boreholes for water supply",
+          "drawing detailed maps by hand on paper",
+          "measuring land with a chain and tape"
         ],
         "explanation": "'Remote' means far away and 'sensing' means observing or collecting information."
       },
       "ta": {
         "q": "தொலைநுண்ணுணர்வு (Remote sensing) என்பது",
         "options": [
-          "பொருள்களைத் தொடாமல் தொலைவிலிருந்து கண்காணித்து அளவிடுதல்",
-          "ஆழ்துளைக் கிணறு தோண்டல்",
-          "கையால் வரைபடம் வரைதல்",
-          "சங்கிலியால் நிலத்தை அளத்தல்"
+          "பொருள்களைத் தொடாமல் தொலைவிலிருந்து கண்காணித்தல்",
+          "நிலத்தில் ஆழ்துளைக் கிணறுகளைத் தோண்டுதல்",
+          "காகிதத்தில் கையால் விரிவான வரைபடம் வரைதல்",
+          "சங்கிலியாலும் நாடாவாலும் நிலத்தை அளத்தல்"
         ],
         "explanation": "Remote - தொலைவு; Sensing - உணர்தல்."
       }
@@ -304,20 +304,20 @@
       "en": {
         "q": "One advantage of satellite remote sensing over aerial photography is that satellites",
         "options": [
-          "cost much less to build",
-          "need permission for every flight",
-          "produce analogue records only",
-          "collect large amounts of data of the entire area in a short span and are not affected by weather"
+          "cost much less money to build and to launch",
+          "need special permission for every single flight",
+          "produce only analogue records on photographic film",
+          "collect data of large areas quickly and ignore weather"
         ],
         "explanation": "Satellites allow global coverage, repeatability and digital data; but the system is costly."
       },
       "ta": {
         "q": "வான்வழிப் புகைப்படத்தை விடச் செயற்கைக்கோள் தொலைநுண்ணுணர்வின் நன்மை",
         "options": [
-          "அமைப்புச் செலவு மிகக் குறைவு",
-          "ஒவ்வொரு பறப்புக்கும் அனுமதி தேவை",
-          "பிம்பம் (analogue) மட்டுமே கிடைக்கும்",
-          "குறுகிய காலத்தில் பெரும்பரப்புத் தரவுகளைத் தருவதும் வானிலையால் பாதிக்கப்படாததும்"
+          "அமைப்பதற்கும் ஏவுவதற்கும் செலவு மிகக் குறைவு",
+          "ஒவ்வொரு தனிப் பறப்புக்கும் சிறப்பு அனுமதி தேவை",
+          "ஒப்புமைப் படச்சுருளில் மட்டுமே பதிவு கிடைக்கும்",
+          "பெரும்பரப்புத் தரவுகளை விரைவாகத் தந்து வானிலையால் பாதிக்கப்படாதது"
         ],
         "explanation": "செயற்கைக்கோள் தரவுகள் இலக்கமுறையில் இருப்பதால் மென்பொருளில் மேம்படுத்தலாம்."
       }
@@ -333,19 +333,19 @@
       "en": {
         "q": "In normal practice, when giving a location by its grid (latitude and longitude), the",
         "options": [
-          "only longitude is stated",
-          "longitude is stated first",
-          "only latitude is stated",
-          "latitude is stated first and then the longitude"
+          "only the longitude is stated alone",
+          "longitude is always stated first",
+          "only the latitude is stated alone",
+          "latitude is stated first, then longitude"
         ],
         "explanation": "The location of a place can be defined by its latitude and longitude in degrees, minutes and seconds."
       },
       "ta": {
         "q": "இடத்தின் அமைவிடத்தைக் குறிக்கும்போது வழக்கமாக",
         "options": [
-          "தீர்க்கம் மட்டும்",
-          "முதலில் தீர்க்கம் கூறப்படும்",
-          "அட்சம் மட்டும்",
+          "தீர்க்கம் மட்டுமே கூறப்படும்",
+          "எப்போதும் முதலில் தீர்க்கம் கூறப்படும்",
+          "அட்சம் மட்டுமே தனியாகக் கூறப்படும்",
           "முதலில் அட்சமும் பின்னர் தீர்க்கமும் கூறப்படும்"
         ],
         "explanation": "இடங்கள் பாகை, கலை, வினாடிகளில் குறிக்கப்படும்."
@@ -391,12 +391,12 @@
       "en": {
         "q": "Scales can be represented on a map by three methods, namely",
         "options": [
-          "title, legend and grid",
+          "title, legend and grid references",
           "cylindrical, conical and planar",
-          "point, line and area",
-          "statement, representative fraction (R.F.) and linear (graphical) scale"
+          "point, line and area symbols",
+          "statement, fraction and linear scale"
         ],
-        "explanation": "A scale is the ratio between the actual distance on the map and the actual distance on the ground."
+        "explanation": "A scale is the ratio between the actual distance on the map and the actual distance on the ground. The fraction is the representative fraction (R.F.) and the linear scale is graphical. The fraction is the representative fraction (R.F.) and the linear scale is graphical."
       },
       "ta": {
         "q": "நிலவரைபடத்தில் அளவையை மூன்று முறைகளில் குறிக்கலாம்; அவை",
@@ -404,9 +404,9 @@
           "தலைப்பு, குறிப்பு, வலைப்பின்னல்",
           "உருளை, கூம்பு, தளம்",
           "புள்ளி, கோடு, பரப்பு",
-          "சொல்லளவை, பிரதி பின்ன அளவை (R.F.), கோட்டளவை"
+          "சொல்லளவை, பிரதி பின்ன அளவை, கோட்டளவை"
         ],
-        "explanation": "அளவை என்பது வரைபடத் தூரத்திற்கும் தரைத் தூரத்திற்குமான விகிதம்."
+        "explanation": "அளவை என்பது வரைபடத் தூரத்திற்கும் தரைத் தூரத்திற்குமான விகிதம். பிரதி பின்ன அளவை என்பது R.F.; கோட்டளவை என்பது வரைபட அளவை. பிரதி பின்ன அளவை என்பது R.F.; கோட்டளவை என்பது வரைபட அளவை."
       }
     }
   ]

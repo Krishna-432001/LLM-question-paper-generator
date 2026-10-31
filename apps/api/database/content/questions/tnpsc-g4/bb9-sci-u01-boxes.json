@@ -24,10 +24,10 @@
       "ta": {
         "q": "1 லிட்டர் நீரின் நிறை 1 கி.கி; ஆனால் 1 லிட்டர் எண்ணெயின் நிறை அவ்வாறு இல்லை. ஏன்?",
         "options": [
-          "நீருக்கு மட்டுமே நிறை உண்டு",
-          "எண்ணெய்க்கு நிறை இல்லை",
-          "திரவத்தின் நிறை அதன் அடர்த்தியைப் பொறுத்தது",
-          "நிறை பருமனைச் சார்ந்தது அல்ல"
+          "எல்லாத் திரவங்களிலும் நீருக்கு மட்டுமே நிறை உண்டு",
+          "எண்ணெய்க்கு எவ்வித நிறையுமே இல்லை என்பதால்",
+          "திரவத்தின் நிறை அடர்த்தியைப் பொறுத்தது",
+          "திரவத்தின் நிறை அதன் பருமனைச் சார்ந்ததே அல்ல"
         ],
         "explanation": "மற்ற திரவங்களின் நிறை அவற்றின் அடர்த்தியைப் பொறுத்து மாறும்."
       }
@@ -131,21 +131,21 @@
         "q": "One astronomical unit (AU) is the",
         "options": [
           "distance travelled by light in one year",
-          "distance of the nearest star",
-          "radius of the Sun",
-          "mean distance between the centres of the Sun and the Earth"
+          "distance of the nearest star from the Sun",
+          "radius of the entire spherical body of the Sun",
+          "mean distance between the Sun and the Earth"
         ],
-        "explanation": "1 AU = 1.496 × 10^11 m, the mean Sun-Earth distance."
+        "explanation": "1 AU = 1.496 × 10^11 m, the mean Sun-Earth distance. It is measured between the centres of the Sun and the Earth. It is measured between the centres of the Sun and the Earth."
       },
       "ta": {
         "q": "ஒரு வானியல் அலகு (AU) என்பது",
         "options": [
-          "ஒளி ஓராண்டில் கடக்கும் தொலைவு",
-          "மிக அருகிலுள்ள விண்மீனின் தொலைவு",
-          "சூரியனின் ஆரம்",
-          "சூரியனின் மையத்திற்கும் பூமியின் மையத்திற்கும் இடையிலான சராசரித் தொலைவு"
+          "ஒளி ஓர் ஆண்டில் வெற்றிடத்தில் கடக்கும் தொலைவு",
+          "சூரியனிலிருந்து மிக அருகிலுள்ள விண்மீனின் தொலைவு",
+          "சூரியனின் முழுக் கோள வடிவ உடலின் ஆரம்",
+          "சூரியனுக்கும் பூமிக்கும் இடையிலான சராசரித் தொலைவு"
         ],
-        "explanation": "1 AU = 1.496 × 10^11 மீ; இது சூரியன்-பூமி சராசரித் தொலைவு."
+        "explanation": "1 AU = 1.496 × 10^11 மீ; இது சூரியன்-பூமி சராசரித் தொலைவு. இது இரு மையங்களுக்கு இடையிலான தொலைவு. இது இரு மையங்களுக்கு இடையிலான தொலைவு."
       }
     },
     {

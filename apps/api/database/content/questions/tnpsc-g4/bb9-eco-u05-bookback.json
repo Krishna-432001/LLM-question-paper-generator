@@ -72,20 +72,20 @@
       "en": {
         "q": "The poorer sections of the population migrate",
         "options": [
-          "as a survival strategy in response to distressing conditions in rural areas",
-          "as a service",
-          "to improve their living standards",
-          "to gain experience"
+          "as a survival strategy in response to rural distress",
+          "as a service to employers in cities",
+          "to raise their standard of living greatly",
+          "to gain work experience in new places"
         ],
         "explanation": "Migrants from better-off sections migrate to improve their living standards."
       },
       "ta": {
         "q": "ஏழை மக்கள் இடம்பெயர்வது",
         "options": [
-          "கிராமங்களின் நெருக்கடியான சூழலில் உயிர்வாழும் உத்தியாக",
-          "சேவையாக",
-          "வாழ்க்கைத் தரத்தை உயர்த்த",
-          "அனுபவம் பெற"
+          "கிராமங்களின் நெருக்கடியால் உயிர்வாழும் உத்தியாக",
+          "நகர முதலாளிகளுக்குச் செய்யும் சேவையாக",
+          "தம் வாழ்க்கைத் தரத்தை மிகவும் உயர்த்த",
+          "புதிய இடங்களில் பணி அனுபவம் பெற"
         ],
         "explanation": "வசதியான பிரிவினர் வாழ்க்கைத் தரத்தை உயர்த்த இடம்பெயர்கின்றனர்."
       }
@@ -101,20 +101,20 @@
       "en": {
         "q": "In the Census of India, migration is enumerated on which two bases?",
         "options": [
-          "Occupation and education",
-          "Religion and language",
+          "Occupation and level of education",
+          "Religion and mother tongue spoken",
           "Place of birth and place of last residence",
-          "Age and sex"
+          "Age and sex of every household member"
         ],
         "explanation": "A person whose place of birth differs from the place of enumeration is a life-time migrant."
       },
       "ta": {
         "q": "இந்தியக் கணக்கெடுப்பில் இடம்பெயர்தல் எந்த இரு அடிப்படைகளில் கணக்கிடப்படுகிறது?",
         "options": [
-          "தொழில், கல்வி",
-          "மதம், மொழி",
+          "தொழில், கல்வித் தகுதி நிலை",
+          "மதமும் பேசப்படும் தாய்மொழியும்",
           "பிறந்த இடம், கடைசியாக வாழ்ந்த இடம்",
-          "வயது, பாலினம்"
+          "ஒவ்வொருவரின் வயது, பாலினம்"
         ],
         "explanation": "பிறந்த இடம் வேறாக இருந்தால் வாழ்நாள் இடம்பெயர்ந்தவர்."
       }
@@ -171,7 +171,7 @@
         "options": [
           "ஒரே தன்மையான உள் ஓட்டங்களை",
           "ஒரே வகை இடம்பெயர்வோரை",
-          "பல்வகை (heterogeneous) உள் ஓட்டங்களை",
+          "பல்வகை உள் ஓட்டங்களை",
           "செல்வந்தர்களை மட்டும்"
         ],
         "explanation": "கிராம-நகர ஓட்டத்தில் கிராமப்புற ஏழை, பணக்காரர் இருவரும் உள்ளனர்."
@@ -217,10 +217,10 @@
       "en": {
         "q": "Which statement about Tamil Nadu migration is correct?",
         "options": [
-          "Workers from Tamil Nadu are mostly moving to Africa",
-          "In recent times workers from Tamil Nadu have been moving to the Gulf countries, the USA and Australia",
+          "Workers from Tamil Nadu are mostly moving to Africa and Antarctica",
+          "Recently Tamil Nadu workers move to the Gulf, the USA and Australia",
           "Migration is much higher in urban areas than rural areas in Tamil Nadu",
-          "Two out of every ten persons in Tamil Nadu is a migrant"
+          "Two out of every ten persons in Tamil Nadu are migrants today"
         ],
         "explanation": "The textbook says two out of every five persons in Tamil Nadu is a migrant and migration is higher in rural areas."
       },
@@ -228,9 +228,9 @@
         "q": "தமிழ்நாட்டின் இடம்பெயர்தல் பற்றிய சரியான கூற்று",
         "options": [
           "தமிழ்நாட்டுத் தொழிலாளர்கள் பெரும்பாலும் ஆப்பிரிக்காவுக்குச் செல்கின்றனர்",
-          "சமீப காலத்தில் தமிழ்நாட்டுத் தொழிலாளர்கள் வளைகுடா நாடுகள், அமெரிக்கா, ஆஸ்திரேலியாவுக்குச் செல்கின்றனர்",
-          "தமிழ்நாட்டில் நகரங்களில் இடம்பெயர்வு கிராமங்களை விட மிகுதி",
-          "தமிழ்நாட்டில் பத்தில் இருவர் இடம்பெயர்ந்தவர்"
+          "சமீப காலத்தில் வளைகுடா நாடுகள், அமெரிக்கா, ஆஸ்திரேலியாவுக்குச் செல்கின்றனர்",
+          "தமிழ்நாட்டில் கிராமங்களை விட நகரங்களில் இடம்பெயர்வு மிகவும் மிகுதி",
+          "தமிழ்நாட்டில் ஒவ்வொரு பத்துப் பேரில் இருவர் இடம்பெயர்ந்தவர்"
         ],
         "explanation": "தமிழ்நாட்டில் ஐந்தில் இருவர் இடம்பெயர்ந்தவர்; கிராமப்புறத்தில் மிகுதி."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "Migration policies in developing countries like India essentially aim to",
         "options": [
-          "increase rural-urban migration",
-          "reduce the volume of migration and redirect migrant streams away from big metropolitan cities",
-          "stop all migration",
-          "encourage migration only to metros"
+          "increase the volume of rural-urban migration",
+          "reduce migration and redirect streams away from big cities",
+          "stop all migration completely by law",
+          "encourage migration only to big metros"
         ],
         "explanation": "Rural development policies to reduce poverty and insecurity are essential to reduce migration."
       },
       "ta": {
         "q": "இந்தியா போன்ற வளரும் நாடுகளில் இடம்பெயர்வுக் கொள்கைகளின் நோக்கம்",
         "options": [
-          "கிராம-நகர இடம்பெயர்வை அதிகரித்தல்",
-          "இடம்பெயர்வின் அளவைக் குறைத்தல், பெருநகரங்களிலிருந்து ஓட்டங்களைத் திசை திருப்புதல்",
-          "அனைத்து இடம்பெயர்வையும் தடுத்தல்",
-          "பெருநகரங்களுக்கு மட்டும் ஊக்குவித்தல்"
+          "கிராம-நகர இடம்பெயர்வின் அளவை அதிகரித்தல்",
+          "இடம்பெயர்வைக் குறைத்தல்; பெருநகரங்களிலிருந்து திசைதிருப்புதல்",
+          "அனைத்து இடம்பெயர்வையும் சட்டத்தால் முற்றிலும் தடுத்தல்",
+          "பெருநகரங்களுக்கு மட்டுமே இடம்பெயர்வை ஊக்குவித்தல்"
         ],
         "explanation": "கிராமப்புற வளர்ச்சி வறுமையைக் குறைத்து இடம்பெயர்வைக் குறைக்கும்."
       }

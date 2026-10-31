@@ -142,7 +142,7 @@
         "options": [
           "மொரைன்",
           "டிரம்லின்",
-          "சர்க் (Cirque)",
+          "சர்க்",
           "எஸ்கர்"
         ],
         "explanation": "சர்க் அரித்தலால் உருவாவது; மொரைன், டிரம்லின், எஸ்கர் ஆகியவை படியவைத்தலால் உருவாகின்றன."
@@ -172,7 +172,7 @@
           "ஹமாடா",
           "பர்கான்",
           "மணல் சிற்றலைகள்",
-          "காற்றடி வண்டல் (Loess)"
+          "காற்றடி வண்டல்"
         ],
         "explanation": "காற்றடி வண்டல் மிகப்பரந்த பகுதியில் படியும் நுண்ணிய வண்டல் ஆகும்."
       }
@@ -364,8 +364,8 @@
         "options": [
           "the transport of rock debris by running water",
           "the building up of landforms by deposition",
-          "the breaking, disintegration and decomposition of earth-crust materials by exposure to the atmosphere",
-          "the movement of tectonic plates"
+          "the breaking down of rocks by exposure to the atmosphere",
+          "the slow movement of tectonic plates on mantle"
         ],
         "explanation": "Weathering is of three types: physical, chemical and biological."
       },
@@ -373,9 +373,9 @@
         "q": "வானிலைச் சிதைவு என்பது",
         "options": [
           "ஓடும் நீரால் பாறைத்துகள் கடத்தப்படுதல்",
-          "படியவைத்தலால் நிலம் உயர்தல்",
-          "வளிமண்டலத்தில் வெளிப்படுவதால் புவிமேலோட்டுப் பொருள்கள் சிதைந்து அழிதல்",
-          "புவித்தட்டுகள் நகர்தல்"
+          "படியவைத்தலால் நிலத்தோற்றம் உயர்தல்",
+          "வளிமண்டலத் தாக்கத்தால் பாறைகள் சிதைந்து உடைதல்",
+          "மெதுவாகப் புவித்தட்டுகள் நகர்ந்து செல்லுதல்"
         ],
         "explanation": "இயற்கை, வேதியியல், உயிரியல் என மூன்று வகைகள் உண்டு."
       }
@@ -391,18 +391,18 @@
       "en": {
         "q": "Biological weathering occurs due to",
         "options": [
-          "freezing and thawing of rocks",
-          "penetration and expansion of plant roots, earthworms and burrowing animals",
-          "reaction of oxygen with iron in rocks",
-          "action of carbonic acid on limestone"
+          "repeated freezing and thawing of rocks",
+          "growth of plant roots and burrowing of animals",
+          "reaction of oxygen with iron in the rocks",
+          "action of carbonic acid on limestone rocks"
         ],
         "explanation": "Plant roots, earthworms, burrowing animals (rabbits, rats) and some human activities cause biological weathering."
       },
       "ta": {
         "q": "உயிரினச் சிதைவு ஏற்படக் காரணம்",
         "options": [
-          "பாறைகள் உறைந்து உருகுதல்",
-          "தாவர வேர்கள், மண்புழுக்கள், துளையிடும் விலங்குகளின் ஊடுருவலும் விரிவும்",
+          "பாறைகளில் நீர் மீண்டும் உறைந்து உருகுதல்",
+          "தாவர வேர்கள், துளையிடும் விலங்குகளின் ஊடுருவல்",
           "பாறையிலுள்ள இரும்புடன் ஆக்சிஜன் வினைபுரிதல்",
           "சுண்ணாம்புப் பாறையில் கார்போனிக் அமிலத்தின் செயல்"
         ],
@@ -449,10 +449,10 @@
       "en": {
         "q": "Ox-bow lakes are formed when",
         "options": [
-          "a glacier melts in a cirque",
-          "a meander becomes almost a complete circle with a narrow neck and is abandoned",
-          "sea waves cut a headland",
-          "limestone dissolves underground"
+          "a glacier melts in a high mountain cirque",
+          "a river meander with a narrow neck is cut off",
+          "sea waves cut through a rocky headland",
+          "limestone dissolves deep underground"
         ],
         "explanation": "Meanders in the middle course may form near-complete circles; the abandoned loop forms an ox-bow lake."
       },
@@ -479,9 +479,9 @@
         "q": "A sea arch is formed when",
         "options": [
           "waves deposit sand along the shore",
-          "wind erodes soft rock layers",
-          "a glacier carves a valley",
-          "two sea caves approach each other from either side of a headland and unite"
+          "strong wind erodes soft rock layers",
+          "a glacier carves a wide U-shaped valley",
+          "two sea caves on a headland join together"
         ],
         "explanation": "A sea cave forms by prolonged wave attack at a cliff base; two caves on either side of a headland unite to make an arch (e.g. Neil Island)."
       },
@@ -507,20 +507,20 @@
       "en": {
         "q": "Which of the following is a karst area of India named in the textbook?",
         "options": [
-          "Ajanta caves",
+          "Ajanta caves, Aurangabad",
           "Borra caves, Visakhapatnam",
-          "Marina beach",
-          "Sundarbans"
+          "Marina beach, Chennai coast",
+          "Sundarbans, West Bengal"
         ],
         "explanation": "Karst areas in India: Guptadham caves (Bihar), Robert cave and Tapkeshwar (Uttarakhand), Pandav caves Pachmarhi (MP), Kutumsar (Bastar, Chhattisgarh), Borra caves (Andhra Pradesh)."
       },
       "ta": {
         "q": "நூலில் குறிப்பிடப்பட்ட இந்தியாவின் சுண்ணாம்புப் பிரதேசம் எது?",
         "options": [
-          "அஜந்தா குகைகள்",
+          "அஜந்தா குகைகள், ஔரங்காபாத்",
           "போரா குகைகள், விசாகப்பட்டினம்",
-          "மெரினா கடற்கரை",
-          "சுந்தரவனம்"
+          "மெரினா கடற்கரை, சென்னை நகரம்",
+          "சுந்தரவனம், மேற்கு வங்கம்"
         ],
         "explanation": "குப்தாதாம், ராபர்ட் குகை, பாண்டவர் குகைகள் (பச்மாரி), குடும்சர், போரா குகைகள் ஆகியவை கார்ஸ்ட் பகுதிகள்."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "A hanging valley is a valley",
         "options": [
-          "formed by a river meander",
-          "eroded by a tributary glacier that hangs over the main valley",
-          "carved by wind",
-          "formed by wave erosion"
+          "formed by the winding of a river meander",
+          "cut by a tributary glacier above the main valley",
+          "carved by strong desert wind erosion",
+          "formed by sea wave erosion on cliffs"
         ],
         "explanation": "Hanging valleys are cut by tributary glaciers and hang above the main glacial valley."
       },
       "ta": {
         "q": "தொங்கும் பள்ளத்தாக்கு என்பது",
         "options": [
-          "ஆற்று வளைவால் உருவானது",
-          "துணைப் பனியாற்றால் அரிக்கப்பட்டு முதன்மைப் பள்ளத்தாக்கின் மேலே தொங்குவது",
-          "காற்றினால் செதுக்கப்பட்டது",
-          "அலை அரிப்பால் உருவானது"
+          "ஆற்றின் வளைவுகளால் உருவான பள்ளத்தாக்கு",
+          "துணைப் பனியாற்றால் செதுக்கப்பட்டு மேலே தொங்குவது",
+          "பாலைவனக் காற்றினால் செதுக்கப்பட்ட பள்ளம்",
+          "கடலலை அரிப்பால் கடற்கரையில் உருவானது"
         ],
         "explanation": "துணைப் பனியாறு அரிக்கும் பள்ளத்தாக்கு முதன்மைப் பள்ளத்தாக்கின் மேலே தொங்கும்."
       }
@@ -595,19 +595,19 @@
         "q": "Drumlins, deposits of glacial moraines, resemble",
         "options": [
           "giant inverted teaspoons or half-cut eggs",
-          "armchair-like hollows",
-          "knife-like ridges",
-          "crescent shaped dunes"
+          "armchair-like hollows cut in a mountain side",
+          "knife-like ridges between two valleys",
+          "crescent shaped dunes in the desert"
         ],
         "explanation": "Drumlins form 'basket of egg topography'."
       },
       "ta": {
         "q": "பனியாற்றின் படிவுகளான டிரம்லின்கள் எதைப் போன்று தோற்றமளிக்கின்றன?",
         "options": [
-          "கவிழ்த்து வைத்த பெரிய தேக்கரண்டி அல்லது பாதி வெட்டிய முட்டை",
-          "நாற்காலி போன்ற பள்ளம்",
-          "கத்தி போன்ற முகடு",
-          "பிறை வடிவ மணல் குன்று"
+          "கவிழ்த்த தேக்கரண்டி அல்லது பாதி முட்டை",
+          "மலைச்சரிவில் நாற்காலி போன்ற பள்ளம்",
+          "கத்தி போன்ற கூர்மையான முகடு",
+          "பாலைவனத்தில் பிறை வடிவ மணல் குன்று"
         ],
         "explanation": "டிரம்லின் முட்டைக்கூடை போன்ற தோற்றத்தைத் தரும்."
       }
@@ -624,9 +624,9 @@
         "q": "Which of the following is an erosional landform of wind?",
         "options": [
           "Mushroom rock",
-          "Barchan",
-          "Loess",
-          "Sand dune"
+          "Barchan dune",
+          "Loess deposit",
+          "Sand dune ridge"
         ],
         "explanation": "Erosional wind landforms: mushroom rocks, inselbergs, yardangs; depositional: sand dunes, barchans, loess."
       },
@@ -652,22 +652,22 @@
       "en": {
         "q": "Chemical weathering is predominant in hot and humid regions because",
         "options": [
-          "heat and moisture speed up chemical reactions such as oxidation and hydration",
-          "rocks are frozen there",
-          "there is no water in such regions",
-          "glaciers are common there"
+          "heat and moisture speed up chemical reactions",
+          "rocks remain frozen there throughout the year",
+          "there is hardly any water in such regions",
+          "glaciers cover most parts of such regions"
         ],
-        "explanation": "Chemical weathering is high in equatorial, tropical and sub-tropical zones."
+        "explanation": "Chemical weathering is high in equatorial, tropical and sub-tropical zones. They speed up reactions such as oxidation and hydration."
       },
       "ta": {
         "q": "வெப்பமும் ஈரப்பதமும் நிறைந்த மண்டலங்களில் வேதியியல் சிதைவு அதிகமாக இருக்கக் காரணம்",
         "options": [
-          "வெப்பமும் ஈரமும் ஆக்சிஜனேற்றம், நீரேற்றம் போன்ற வேதிவினைகளை விரைவுபடுத்துகின்றன",
-          "பாறைகள் உறைந்துள்ளன",
-          "அங்கு நீர் இல்லை",
-          "பனியாறுகள் மிகுதி"
+          "வெப்பமும் ஈரமும் வேதிவினைகளை விரைவுபடுத்துகின்றன",
+          "அங்குப் பாறைகள் ஆண்டு முழுவதும் உறைந்துள்ளன",
+          "அத்தகைய மண்டலங்களில் நீர் மிகவும் குறைவு",
+          "அப்பகுதிகளில் பனியாறுகள் மிகுதியாக உள்ளன"
         ],
-        "explanation": "நிலநடுக்கோட்டு, அயன, துணை அயன மண்டலங்களில் வேதியியல் சிதைவு மிகுதி."
+        "explanation": "நிலநடுக்கோட்டு, அயன, துணை அயன மண்டலங்களில் வேதியியல் சிதைவு மிகுதி. ஆக்சிஜனேற்றம், நீரேற்றம் போன்ற வேதிவினைகள் விரைகின்றன."
       }
     },
     {
@@ -683,7 +683,7 @@
         "options": [
           "estuaries have no river",
           "estuaries are always dry",
-          "waves keep eroding the deposits at the river mouth",
+          "waves keep eroding the deposits",
           "rivers carry no silt there"
         ],
         "explanation": "In estuaries (e.g. Narmada, Tapti) the waves keep eroding the deposits, so a delta cannot form."
@@ -691,10 +691,10 @@
       "ta": {
         "q": "ஓதப் பொங்கு முகங்களில் வண்டல் படிவுகள் டெல்டாவை விடக் குறைவாக இருக்கக் காரணம்",
         "options": [
-          "அங்கு ஆறு இல்லை",
-          "எப்போதும் வறண்டிருக்கும்",
-          "அலைகள் படிவுகளைத் தொடர்ந்து அரித்துச் செல்கின்றன",
-          "ஆறு வண்டலைக் கொண்டு வருவதில்லை"
+          "ஓதப் பொங்கு முகத்தில் ஆறே இல்லை",
+          "ஓதப் பொங்கு முகம் எப்போதும் வறண்டிருக்கும்",
+          "அலைகள் படிவுகளைத் தொடர்ந்து அரிக்கின்றன",
+          "அங்கு ஆறு வண்டலைக் கொண்டு வருவதில்லை"
         ],
         "explanation": "நர்மதா, தபதி போன்ற ஓதப் பொங்கு முகங்களில் அலைகள் படிவுகளை அரித்துவிடுகின்றன."
       }
@@ -710,20 +710,20 @@
       "en": {
         "q": "Wind can erode rocks from all sides because",
         "options": [
-          "it is heavier than water",
-          "it is always from one direction",
-          "it can blow from different directions carrying sand that abrades the rock",
-          "it does not carry sand"
+          "it is much denser than flowing water",
+          "it always blows from just one direction",
+          "it blows from many directions carrying sand",
+          "it carries no sand or dust at all"
         ],
         "explanation": "Sand-laden winds wear down rock bases to form mushroom rocks."
       },
       "ta": {
         "q": "காற்று பாறைகளை எல்லாத் திசைகளிலும் அரிக்கக் காரணம்",
         "options": [
-          "நீரை விடக் கனமானது",
+          "ஓடும் நீரை விட மிகக் கனமாக இருப்பதால்",
           "எப்போதும் ஒரே திசையில் வீசுவதால்",
-          "பல திசைகளிலிருந்து மணலைச் சுமந்து வீசிப் பாறையைத் தேய்ப்பதால்",
-          "மணலைக் கொண்டு செல்லாது"
+          "பல திசைகளிலிருந்து மணலைச் சுமந்து வீசுவதால்",
+          "மணலையோ தூசையோ சுமந்து செல்லாததால்"
         ],
         "explanation": "மணல் சுமந்த காற்று பாறையின் அடிப்பகுதியைத் தேய்த்துக் காளான் பாறையை உருவாக்கும்."
       }
@@ -750,7 +750,7 @@
         "q": "இயற்கை (இயற்பியல்) சிதைவின் முக்கிய வகை எது?",
         "options": [
           "ஆக்சிஜனேற்றம்",
-          "அடுக்கு உரிதல் (Exfoliation)",
+          "அடுக்கு உரிதல்",
           "கார்பனேற்றம்",
           "நீரேற்றம்"
         ],
@@ -826,10 +826,10 @@
       "en": {
         "q": "Long narrow ridges of sand extending parallel to the prevailing wind are",
         "options": [
-          "transverse dunes",
-          "longitudinal (seif) dunes",
-          "barchans",
-          "loess"
+          "transverse sand dunes",
+          "longitudinal seif dunes",
+          "barchan dunes",
+          "loess deposits"
         ],
         "explanation": "Seifs are longitudinal dunes (Sahara); transverse dunes form from alternate slow and fast winds from the same direction."
       },
@@ -837,7 +837,7 @@
         "q": "காற்று வீசும் திசைக்கு இணையாக நீண்ட குறுகிய மணல் மேடுகள்",
         "options": [
           "குறுக்கு மணற்குன்றுகள்",
-          "நீண்ட மணற்குன்றுகள் (Seif)",
+          "நீண்ட மணற்குன்றுகள்",
           "பர்கான்",
           "காற்றடி வண்டல்"
         ],
@@ -923,7 +923,7 @@
       "ta": {
         "q": "நிரந்தரப் பனி மூடியிருக்கும் பகுதியின் கீழ் எல்லைக்கோடு",
         "options": [
-          "பனிக்கோடு (Snowline)",
+          "பனிக்கோடு",
           "ஃபிர்ன் கோடு",
           "மொரைன்",
           "அரேட்"

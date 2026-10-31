@@ -14,10 +14,10 @@
       "en": {
         "q": "According to the book, in olden days magnets were used in ships to",
         "options": [
-          "identify the direction of the ship in the sea",
-          "measure the speed of the ship",
-          "generate electricity",
-          "measure the depth of water"
+          "find the direction of the ship at sea",
+          "measure the speed of the ship at sea",
+          "generate electricity for ship's lamps",
+          "measure the depth of water below the ship"
         ],
         "explanation": "Captains used magnets (compasses) to identify the direction of the ship; lodestones were used to make compasses."
       },
@@ -45,20 +45,20 @@
         "options": [
           "iron filings",
           "bar magnet",
-          "lodestone (magnetite)",
+          "lodestone",
           "electromagnet"
         ],
-        "explanation": "Lodestone magnetite is the strongest natural magnet; its magnetic property is permanent."
+        "explanation": "Lodestone magnetite is the strongest natural magnet; its magnetic property is permanent. Lodestone is also called magnetite."
       },
       "ta": {
         "q": "வலிமையான இயற்கைக் காந்தம்",
         "options": [
           "இரும்புத் துகள்கள்",
           "கோல் காந்தம்",
-          "லோடுஸ்டோன் (மேக்னடைட்)",
+          "லோடுஸ்டோன்",
           "மின்காந்தம்"
         ],
-        "explanation": "மேக்னடைட்டான லோடுஸ்டோன் வலிமையான இயற்கைக் காந்தம்; அதன் காந்தப் பண்பு நிரந்தரமானது."
+        "explanation": "மேக்னடைட்டான லோடுஸ்டோன் வலிமையான இயற்கைக் காந்தம்; அதன் காந்தப் பண்பு நிரந்தரமானது. லோடுஸ்டோன் மேக்னடைட் எனவும் அழைக்கப்படும்."
       }
     },
     {
@@ -130,22 +130,22 @@
       "en": {
         "q": "Magnetic field can penetrate through",
         "options": [
-          "air only",
-          "metals only",
+          "air and the other gases only",
+          "metals such as iron and steel only",
           "all kinds of materials, not just air",
-          "vacuum only"
+          "vacuum or empty space only, not matter"
         ],
         "explanation": "The book notes that magnetic field can penetrate through all kinds of materials, not just air. (The book says Earth's field shields the 'ozone layer' from solar wind; strictly it shields the atmosphere.)"
       },
       "ta": {
         "q": "காந்தப்புலம் ஊடுருவிச் செல்லக் கூடியது",
         "options": [
-          "காற்றை மட்டும்",
-          "உலோகங்களை மட்டும்",
-          "எல்லா வகைப் பொருட்களையும் (காற்றை மட்டுமல்ல)",
-          "வெற்றிடத்தை மட்டும்"
+          "காற்றையும் வாயுக்களையும் மட்டும்",
+          "இரும்பு போன்ற உலோகங்களை மட்டும்",
+          "எல்லா வகைப் பொருட்களையும்",
+          "வெற்றிடமான வெளியை மட்டும்"
         ],
-        "explanation": "காந்தப்புலம் காற்றை மட்டுமன்றி எல்லாப் பொருட்களையும் ஊடுருவும். (புவிக் காந்தப்புலம் சூரியக் காற்றிலிருந்து 'ஓசோன் படலத்தை' காக்கிறது என நூல் கூறுகிறது; சரியாக, அது வளிமண்டலத்தைக் காக்கிறது.)"
+        "explanation": "காந்தப்புலம் காற்றை மட்டுமன்றி எல்லாப் பொருட்களையும் ஊடுருவும். (புவிக் காந்தப்புலம் சூரியக் காற்றிலிருந்து 'ஓசோன் படலத்தை' காக்கிறது என நூல் கூறுகிறது; சரியாக, அது வளிமண்டலத்தைக் காக்கிறது.) காற்றை மட்டுமல்ல, எல்லாப் பொருட்களையும் ஊடுருவும்."
       }
     },
     {
@@ -304,10 +304,10 @@
       "en": {
         "q": "The magnetic field around a straight current-carrying conductor is always",
         "options": [
-          "zero",
+          "zero at all points around it",
           "perpendicular to the direction of current",
-          "parallel to the current",
-          "directed only north"
+          "parallel to the current direction",
+          "directed only towards the north pole"
         ],
         "explanation": "The magnetic field produced is always perpendicular to the direction of flow of current."
       },
@@ -343,10 +343,10 @@
       "ta": {
         "q": "காந்தப்புலத்தில் புலத் திசையல்லாத திசையில் இயங்கும் மின்னூட்டம் உணரும் விசை",
         "options": [
-          "மையநோக்கு விசை",
+          "வட்ட இயக்க மையநோக்கு விசை",
           "காந்த லோரன்ட்ஸ் விசை",
-          "மிதப்பு விசை",
-          "ஈர்ப்பு விசை"
+          "நீர்மத்தின் மிதப்பு விசை",
+          "புவியின் ஈர்ப்பு விசை"
         ],
         "explanation": "எச். ஏ. லோரன்ட்ஸ் கண்டறிந்த இவ்விசை காந்த லோரன்ட்ஸ் விசை எனப்படும்."
       }
@@ -362,10 +362,10 @@
       "en": {
         "q": "In 1821 Michael Faraday discovered that",
         "options": [
-          "light is an electromagnetic wave",
+          "light is an electromagnetic wave of high speed",
           "magnetic field is produced by a charge at rest",
-          "transformers work on DC",
-          "a current carrying conductor placed in a magnetic field gets deflected"
+          "transformers can work well on direct current",
+          "a current-carrying conductor in a magnetic field is deflected"
         ],
         "explanation": "The field of the magnet and that of the conductor interact and produce a force on the conductor."
       },
@@ -391,20 +391,20 @@
       "en": {
         "q": "Fleming's left hand rule is used to find the direction of the",
         "options": [
-          "induced current in a coil",
+          "induced current in a coil moving in the field",
           "force on a current-carrying conductor in a magnetic field",
-          "electric field of a charge",
-          "magnetic field of a bar magnet"
+          "electric field produced by a point charge",
+          "magnetic field produced by a bar magnet"
         ],
         "explanation": "Left hand rule: force/motion of the conductor; it is applied in electric motors."
       },
       "ta": {
         "q": "ஃபிளெமிங்கின் இடக்கை விதி எதன் திசையைக் காணப் பயன்படுகிறது?",
         "options": [
-          "சுருளில் தூண்டப்பட்ட மின்னோட்டம்",
-          "காந்தப்புலத்தில் மின்னோட்டம் பாயும் கடத்தியின் மீதான விசை",
-          "மின்னூட்டத்தின் மின்புலம்",
-          "கோல் காந்தத்தின் காந்தப்புலம்"
+          "புலத்தில் இயங்கும் சுருளில் தூண்டப்பட்ட மின்னோட்டம்",
+          "காந்தப்புலத்தில் மின்னோட்டக் கடத்தியின் மீதான விசை",
+          "ஒரு புள்ளி மின்னூட்டத்தால் உண்டாகும் மின்புலம்",
+          "கோல் காந்தத்தால் உண்டாகும் காந்தப்புலம்"
         ],
         "explanation": "இடக்கை விதி கடத்தியின் மீதான விசை/இயக்கத் திசையைத் தரும்; மோட்டாரில் பயன்படுகிறது."
       }
@@ -517,10 +517,10 @@
       "ta": {
         "q": "லோடுஸ்டோனின் காந்தப் பண்பு தோன்றக் காரணம்",
         "options": [
-          "நியூட்ரான்கள் இருப்பது",
+          "அதில் நியூட்ரான்கள் இருப்பது",
           "அதிலுள்ள எலக்ட்ரான்களின் இயக்கம்",
-          "புரோட்டான்கள் மட்டும்",
-          "அதன் நிறம்"
+          "புரோட்டான்கள் மட்டுமே இருப்பது",
+          "அதன் அடர் கருப்பு நிறம்"
         ],
         "explanation": "சுற்றும் ஒவ்வோர் எலக்ட்ரானும் மின்னோட்டம் பாயும் வளையம் போன்றது; காந்தப் பொருட்களில் இவை கூடி நிலையான காந்தப்புலம் தோன்றும்."
       }
@@ -565,20 +565,20 @@
       "en": {
         "q": "The device that reverses the current in the coil of a DC motor at every half rotation is the",
         "options": [
-          "slip ring",
+          "slip ring with brushes",
           "split ring commutator",
-          "transformer",
-          "fuse"
+          "step-down transformer",
+          "safety fuse wire unit"
         ],
         "explanation": "The split ring commutator reverses the current each half rotation so that the coil rotates continuously in one direction."
       },
       "ta": {
         "q": "DC மோட்டாரின் சுருளில் ஒவ்வோர் அரைச்சுற்றிலும் மின்னோட்டத்தின் திசையை மாற்றும் கருவி",
         "options": [
-          "நழுவு வளையம்",
+          "நழுவு வளையத் தொகுப்பு",
           "பிளவு வளைய திசைமாற்றி",
-          "மின்மாற்றி",
-          "மின்உருகி"
+          "இறங்குமுக மின்மாற்றி",
+          "பாதுகாப்பு மின்உருகி"
         ],
         "explanation": "பிளவு வளைய திசைமாற்றி ஒவ்வோர் அரைச்சுற்றிலும் மின்னோட்டத்தைத் திருப்பிச் சுருளைத் தொடர்ந்து ஒரே திசையில் சுழலச் செய்கிறது."
       }
@@ -681,20 +681,20 @@
       "en": {
         "q": "Michael Faraday (1791-1867) was a",
         "options": [
-          "Italian astronomer",
-          "Danish physicist",
-          "British scientist who contributed to electromagnetism and electrochemistry",
-          "German mathematician"
+          "Italian astronomer who mapped the planets",
+          "Danish physicist who worked on sound waves",
+          "British scientist of electromagnetism and electrochemistry",
+          "German mathematician who studied number theory"
         ],
         "explanation": "His main discoveries include the principles underlying electromagnetic induction, diamagnetism and electrolysis."
       },
       "ta": {
         "q": "மைக்கேல் ஃபாரடே (1791-1867) ஒரு",
         "options": [
-          "இத்தாலிய வானியலாளர்",
-          "டேனிஷ் இயற்பியலாளர்",
-          "மின்காந்தவியல், மின்வேதியியலுக்குப் பங்களித்த பிரிட்டிஷ் அறிவியலறிஞர்",
-          "ஜெர்மானியக் கணிதவியலாளர்"
+          "கோள்களை வரைபடமாக்கிய இத்தாலிய வானியலாளர்",
+          "ஒலி அலைகளை ஆராய்ந்த டேனிஷ் இயற்பியலாளர்",
+          "மின்காந்தவியல், மின்வேதியியல் துறை பிரிட்டிஷ் அறிவியலறிஞர்",
+          "எண் கோட்பாடு ஆய்ந்த ஜெர்மானியக் கணிதவியலாளர்"
         ],
         "explanation": "மின்காந்தத் தூண்டல், டயாகாந்தவியல், மின்னாற்பகுப்பு ஆகியவை அவரது முக்கியக் கண்டுபிடிப்புகள்."
       }
@@ -750,11 +750,11 @@
         "q": "AC மின்னியற்றியில் சுழலும் செவ்வகச் சுருள் எவ்வாறு அழைக்கப்படுகிறது?",
         "options": [
           "திசைமாற்றி",
-          "ஆர்மேச்சர் (தண்டகம்)",
+          "ஆர்மேச்சர்",
           "முதன்மைச் சுருள்",
           "தூரிகை"
         ],
-        "explanation": "நிலைக்காந்தத்தின் துருவங்களுக்கிடையே சுழலும் செவ்வகச் சுருள் ஆர்மேச்சர் எனப்படும்; அதன் முனைகள் இரு நழுவு வளையங்களுடன் இணைக்கப்பட்டுள்ளன."
+        "explanation": "நிலைக்காந்தத்தின் துருவங்களுக்கிடையே சுழலும் செவ்வகச் சுருள் ஆர்மேச்சர் எனப்படும்; அதன் முனைகள் இரு நழுவு வளையங்களுடன் இணைக்கப்பட்டுள்ளன. ஆர்மேச்சர் என்பது தண்டகம் எனவும் அழைக்கப்படும்."
       }
     },
     {
@@ -913,20 +913,20 @@
       "en": {
         "q": "In a loudspeaker the vibrations are produced by",
         "options": [
-          "a transformer",
-          "an electromagnet moving back and forth in front of a permanent magnet",
-          "a battery",
-          "an ac generator"
+          "a step-up transformer fixed inside the box",
+          "an electromagnet moving to and fro near a permanent magnet",
+          "a battery sending steady direct current",
+          "an ac generator rotating inside the box"
         ],
         "explanation": "Pulses of electricity change the field of the electromagnet, which is attracted and repelled by the permanent magnet; the cone amplifies the vibrations."
       },
       "ta": {
         "q": "ஒலிபெருக்கியில் அதிர்வுகளை உண்டாக்குவது",
         "options": [
-          "மின்மாற்றி",
-          "நிலைக்காந்தத்தின் முன் முன்னும் பின்னும் அதிரும் மின்காந்தம்",
-          "மின்கலம்",
-          "AC மின்னியற்றி"
+          "பெட்டிக்குள் உள்ள ஏற்று மின்மாற்றி",
+          "நிலைக்காந்தம் அருகே அதிரும் மின்காந்தம்",
+          "நிலையான மின்னோட்டம் தரும் மின்கலம்",
+          "பெட்டிக்குள் சுழலும் AC மின்னியற்றி"
         ],
         "explanation": "மின்துடிப்புகள் மின்காந்தத்தின் புலத் திசையை மாற்றுவதால் அது நிலைக்காந்தத்தால் ஈர்க்கவும் விலக்கவும்பட்டு அதிர்கிறது; கூம்பு அவற்றைப் பெருக்குகிறது."
       }
@@ -942,20 +942,20 @@
       "en": {
         "q": "A maglev train floats above the track because",
         "options": [
-          "it has wings",
-          "one set of magnets repels and pushes the train up off the track",
-          "air is blown below it",
-          "it uses jet engines"
+          "it has large wings like an aeroplane",
+          "one set of magnets repels and lifts the train",
+          "air is blown strongly below its wheels",
+          "it uses powerful jet engines like planes"
         ],
         "explanation": "Two sets of magnets are used: one to lift the train and another to move it ahead without friction; there are no moving parts."
       },
       "ta": {
         "q": "மாக்லெவ் தொடர்வண்டி தண்டவாளத்திற்கு மேலே மிதப்பதற்குக் காரணம்",
         "options": [
-          "அதற்குச் சிறகுகள் உள்ளன",
-          "ஒரு தொகுதிக் காந்தங்கள் விலக்கி வண்டியைத் தண்டவாளத்திலிருந்து மேலே தள்ளுவது",
-          "கீழே காற்று ஊதப்படுகிறது",
-          "அது ஜெட் இயந்திரத்தைப் பயன்படுத்துகிறது"
+          "அதற்கு விமானம் போன்ற பெரிய சிறகுகள் உள்ளன",
+          "ஒரு தொகுதிக் காந்தங்கள் விலக்கி வண்டியை மேலே தள்ளுவது",
+          "சக்கரங்களுக்குக் கீழே காற்று வலுவாக ஊதப்படுகிறது",
+          "அது விமானம் போன்ற ஜெட் இயந்திரங்களைப் பயன்படுத்துகிறது"
         ],
         "explanation": "இரண்டு தொகுதிக் காந்தங்களில் ஒன்று வண்டியைத் தூக்கும்; மற்றொன்று உராய்வின்றி முன்னே நகர்த்தும்."
       }

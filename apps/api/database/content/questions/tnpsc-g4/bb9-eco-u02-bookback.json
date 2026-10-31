@@ -53,7 +53,7 @@
       "ta": {
         "q": "இந்திய GDP-யில் துறைகளின் பங்களிப்பு இறங்குவரிசையில்",
         "options": [
-          "மூன்றாம் (சார்பு) துறை, இரண்டாம் துறை, முதன்மைத் துறை",
+          "மூன்றாம் துறை, இரண்டாம் துறை, முதன்மைத் துறை",
           "முதன்மைத் துறை, இரண்டாம் துறை, மூன்றாம் துறை",
           "முதன்மைத் துறை, மூன்றாம் துறை, இரண்டாம் துறை",
           "இரண்டாம் துறை, மூன்றாம் துறை, முதன்மைத் துறை"
@@ -142,7 +142,7 @@
         "options": [
           "உற்பத்தி",
           "கட்டுமானம்",
-          "காடுகள் (வனத்தொழில்)",
+          "வனத்தொழில்",
           "சிறு தொழில்"
         ],
         "explanation": "வனத்தொழில் முதன்மைத் துறையைச் சார்ந்தது."
@@ -275,9 +275,9 @@
       "en": {
         "q": "Which one of banking, railways, insurance and small scale industry is the odd one out?",
         "options": [
-          "Banking",
-          "Railways",
-          "Insurance",
+          "Public sector banking",
+          "Indian Railways network",
+          "Life insurance companies",
           "Small scale industry"
         ],
         "explanation": "Banking, railways and insurance are typical organised-sector employers; small-scale industry is largely unorganised."
@@ -507,20 +507,20 @@
       "en": {
         "q": "Which statement correctly describes the labour force?",
         "options": [
-          "All children below 15 years",
-          "All persons above 60 years",
-          "Only unemployed persons",
-          "The people who work and are capable of working, aged 15-60 years"
+          "All children below the age of 15 years",
+          "All persons above the age of 60 years",
+          "Only those persons who are unemployed",
+          "People aged 15-60 years who can work"
         ],
         "explanation": "Labour force is computed for the 15-60 age group."
       },
       "ta": {
         "q": "உழைப்பாளர் குழு பற்றிய சரியான கூற்று",
         "options": [
-          "15 வயதுக்குக் கீழுள்ள குழந்தைகள்",
-          "60 வயதுக்கு மேற்பட்டோர்",
-          "வேலையற்றோர் மட்டும்",
-          "வேலை செய்பவர்களும் செய்யும் திறனுடையவர்களுமான 15-60 வயதினர்"
+          "15 வயதுக்குக் கீழுள்ள அனைத்துக் குழந்தைகளும்",
+          "60 வயதுக்கு மேற்பட்ட முதியோர் அனைவரும்",
+          "வேலையற்ற நபர்கள் மட்டுமே",
+          "15-60 வயதில் வேலை செய்யும் திறனுடையோர்"
         ],
         "explanation": "உழைப்பாளர் குழு 15-60 வயதினரைக் கொண்டது."
       }
@@ -536,20 +536,20 @@
       "en": {
         "q": "Children (below 15) and persons above 60 are excluded from the workforce because",
         "options": [
-          "the law forbids them to study",
-          "they never work",
-          "they have more income",
-          "they are considered not physically fit to undertake productive occupation"
+          "the law forbids them from ever studying",
+          "they are never willing to work at all",
+          "they earn more income than workers do",
+          "they are considered unfit for productive work"
         ],
         "explanation": "A large share of children and old persons slows progress because a small working force must maintain a larger non-working force."
       },
       "ta": {
         "q": "15 வயதுக்குக் கீழுள்ளோரும் 60 வயதுக்கு மேற்பட்டோரும் உழைப்பாளர் குழுவில் சேர்க்கப்படாததற்குக் காரணம்",
         "options": [
-          "சட்டம் தடுப்பதால்",
-          "அவர்கள் வேலையே செய்வதில்லை என்பதால்",
-          "அவர்களுக்கு அதிக வருவாய் இருப்பதால்",
-          "உற்பத்தித் தொழில் செய்ய உடல் தகுதியற்றவர்களாகக் கருதப்படுவதால்"
+          "அவர்கள் படிக்கச் சட்டம் தடை விதிப்பதால்",
+          "அவர்கள் எப்போதும் வேலை செய்வதே இல்லை என்பதால்",
+          "அவர்கள் மற்றவர்களைவிட அதிக வருவாய் ஈட்டுவதால்",
+          "உற்பத்தி வேலைக்குத் தகுதியற்றவராகக் கருதப்படுவதால்"
         ],
         "explanation": "குறைந்த உழைப்பாளர் குழு அதிக உழைக்காதோரைப் பராமரிக்க வேண்டியிருக்கும்."
       }
@@ -565,22 +565,22 @@
       "en": {
         "q": "The three sectors of an economy are",
         "options": [
-          "public, private and joint",
-          "primary (agriculture), secondary (industrial) and tertiary (service)",
-          "organised, unorganised and informal",
-          "rural, urban and semi-urban"
+          "public, private and joint sectors",
+          "primary, secondary and tertiary sectors",
+          "organised, unorganised and informal sectors",
+          "rural, urban and semi-urban sectors"
         ],
-        "explanation": "Public/private is a classification by ownership; organised/unorganised by working conditions."
+        "explanation": "Public/private is a classification by ownership; organised/unorganised by working conditions. Primary is agriculture, secondary is industry and tertiary is services."
       },
       "ta": {
         "q": "பொருளாதாரத்தின் மூன்று துறைகள்",
         "options": [
           "பொது, தனியார், கூட்டுத் துறைகள்",
-          "முதன்மை (வேளாண்மை), இரண்டாம் (தொழில்), சார்பு (சேவை) துறைகள்",
+          "முதன்மை, இரண்டாம், மூன்றாம் துறைகள்",
           "ஒழுங்கமைக்கப்பட்ட, ஒழுங்கமைக்கப்படாத, முறைசாராத் துறைகள்",
           "கிராம, நகர, அரைநகரத் துறைகள்"
         ],
-        "explanation": "பொது-தனியார் என்பது உரிமை அடிப்படையிலான வகைப்பாடு."
+        "explanation": "பொது-தனியார் என்பது உரிமை அடிப்படையிலான வகைப்பாடு. முதன்மை என்பது வேளாண்மை, இரண்டாம் என்பது தொழில், மூன்றாம் (சார்பு) என்பது சேவை."
       }
     },
     {
@@ -594,20 +594,20 @@
       "en": {
         "q": "According to the textbook, agriculture remains the largest employer in Tamil Nadu despite its falling GDP share because",
         "options": [
-          "there is no industry in the state",
-          "non-agriculture sectors are yet to generate enough employment to shift the labour force",
-          "agriculture has the highest wages",
-          "the government forbids job changes"
+          "there is no industry at all in the state",
+          "non-farm sectors have not created enough jobs",
+          "agriculture pays the highest wages of all",
+          "the government forbids workers to change jobs"
         ],
         "explanation": "Most of the employment growth in Tamil Nadu has been contributed by the unorganised and informal sectors."
       },
       "ta": {
         "q": "பாடநூலின்படி, வேளாண்மையின் உள்நாட்டு உற்பத்திப் பங்கு குறைந்தாலும் தமிழ்நாட்டில் அது அதிக வேலை தரும் துறையாகத் தொடர்வதற்குக் காரணம்",
         "options": [
-          "மாநிலத்தில் தொழில்கள் இல்லை",
-          "வேளாண்மை அல்லாத துறைகள் உழைப்பாளர்கள் மாறப் போதிய வேலையை இன்னும் உருவாக்கவில்லை",
-          "வேளாண்மையில் அதிக ஊதியம்",
-          "வேலை மாறுவதை அரசு தடுக்கிறது"
+          "மாநிலத்தில் எந்தத் தொழிலும் இல்லை",
+          "வேளாண்மை அல்லாத துறைகளில் போதிய வேலையில்லை",
+          "வேளாண்மையில் மிக அதிக ஊதியம் கிடைப்பது",
+          "வேலை மாறுவதை அரசு தடை செய்கிறது"
         ],
         "explanation": "தமிழ்நாட்டில் வேலைவாய்ப்பு வளர்ச்சியின் பெரும்பகுதி முறைசாராத் துறைகளிலிருந்து வந்தது."
       }
@@ -623,10 +623,10 @@
       "en": {
         "q": "Which of the following is a private sector enterprise according to the textbook?",
         "options": [
-          "TVS Motors",
-          "SAIL",
-          "BSNL",
-          "NLC"
+          "TVS Motor Company",
+          "Steel Authority of India",
+          "Bharat Sanchar Nigam Limited",
+          "Neyveli Lignite Corporation"
         ],
         "explanation": "Public sector examples: NLC, SAIL, BSNL; private: TVS Motors, Ashok Leyland, TATA Steel."
       },
@@ -634,9 +634,9 @@
         "q": "நூலின்படி தனியார் துறை நிறுவனம் எது?",
         "options": [
           "டி.வி.எஸ். மோட்டார்ஸ்",
-          "செயில் (SAIL)",
-          "பி.எஸ்.என்.எல்.",
-          "என்.எல்.சி."
+          "இந்திய எஃகு ஆணையம்",
+          "பாரத் சஞ்சார் நிகம் நிறுவனம்",
+          "நெய்வேலி நிலக்கரி நிறுவனம்"
         ],
         "explanation": "பொதுத்துறை: என்.எல்.சி., செயில், பி.எஸ்.என்.எல்.; தனியார்: டி.வி.எஸ்., அசோக் லேலண்ட், டாடா ஸ்டீல்."
       }

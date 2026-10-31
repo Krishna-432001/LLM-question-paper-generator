@@ -72,19 +72,19 @@
       "en": {
         "q": "The refractive index of a medium",
         "options": [
-          "is measured in m s^-1",
-          "is always less than 1",
-          "is measured in degrees",
-          "has no unit because it is the ratio of two similar quantities"
+          "is measured in metres per second units",
+          "is always less than 1 for every medium",
+          "is measured in degrees of angle always",
+          "has no unit, being a ratio of similar quantities"
         ],
         "explanation": "Refractive index is the ratio of the sine of the angle of incidence to the sine of the angle of refraction (or ratio of speeds), so it has no unit."
       },
       "ta": {
         "q": "ஓர் ஊடகத்தின் ஒளிவிலகல் எண்",
         "options": [
-          "மீ வி^-1 அலகில் அளக்கப்படுகிறது",
-          "எப்போதும் 1-ஐ விடக் குறைவு",
-          "டிகிரியில் அளக்கப்படுகிறது",
+          "வினாடிக்கு மீட்டர் அலகில் அளக்கப்படுகிறது",
+          "எல்லா ஊடகங்களிலும் எப்போதும் 1-ஐ விடக் குறைவு",
+          "எப்போதும் டிகிரி அலகில் அளக்கப்படுகிறது",
           "இரு ஒத்த அளவுகளின் விகிதம் என்பதால் அலகு இல்லை"
         ],
         "explanation": "ஒளிவிலகல் எண் என்பது படுகோண, விலகுகோண சைன்களின் (அல்லது வேகங்களின்) விகிதம்; எனவே அதற்கு அலகு இல்லை."
@@ -101,22 +101,22 @@
       "en": {
         "q": "A ray of light passing obliquely from one transparent medium to another of different optical density",
         "options": [
-          "gets deviated (refracted) from its path",
-          "goes undeviated",
-          "is always totally reflected",
-          "stops"
+          "gets deviated from its original path",
+          "goes straight without any deviation",
+          "is always totally reflected at the boundary",
+          "stops at the boundary of the two media"
         ],
-        "explanation": "Oblique passage causes bending (refraction) because the velocity of light changes; the book statement (no deviation) is false. Only a normally incident ray is undeviated."
+        "explanation": "Oblique passage causes bending (refraction) because the velocity of light changes; the book statement (no deviation) is false. Only a normally incident ray is undeviated. This bending is called refraction."
       },
       "ta": {
         "q": "ஓர் ஒளிக்கதிர் ஓர் ஒளி ஊடகத்திலிருந்து வேறு அடர்த்தியுள்ள ஊடகத்திற்குச் சாய்வாகச் செல்லும்போது",
         "options": [
-          "தன் பாதையிலிருந்து விலகலடையும் (ஒளிவிலகல்)",
+          "தன் பாதையிலிருந்து விலகலடையும்",
           "விலகலின்றிச் செல்லும்",
           "எப்போதும் முழுவதும் எதிரொளிக்கப்படும்",
           "நின்றுவிடும்"
         ],
-        "explanation": "ஒளியின் வேகம் மாறுவதால் சாய்வாகச் செல்லும் கதிர் விலகும்; 'விலகலடைவதில்லை' என்ற கூற்று தவறு; செங்குத்துக் கதிர் மட்டுமே விலகாது."
+        "explanation": "ஒளியின் வேகம் மாறுவதால் சாய்வாகச் செல்லும் கதிர் விலகும்; 'விலகலடைவதில்லை' என்ற கூற்று தவறு; செங்குத்துக் கதிர் மட்டுமே விலகாது. இந்த விலகலுக்கு ஒளிவிலகல் என்று பெயர்."
       }
     },
     {
@@ -394,9 +394,9 @@
           "formed at the centre of curvature",
           "formed at the pole",
           "formed behind the mirror",
-          "formed at infinity (no image on a screen)"
+          "formed at infinity"
         ],
-        "explanation": "Case V: no image can be captured on the screen nor any virtual image seen; the rays are parallel, so the image is at infinity."
+        "explanation": "Case V: no image can be captured on the screen nor any virtual image seen; the rays are parallel, so the image is at infinity. No image can be caught on a screen."
       },
       "ta": {
         "q": "குழியாடியின் குவியத்தில் பொருளை வைக்கும்போது பிம்பம்",
@@ -404,9 +404,9 @@
           "வளைவு மையத்தில் உருவாகும்",
           "முனையில் உருவாகும்",
           "ஆடிக்குப் பின்னால் உருவாகும்",
-          "முடிவிலியில் உருவாகும் (திரையில் பிடிக்க இயலாது)"
+          "முடிவிலியில் உருவாகும்"
         ],
-        "explanation": "எதிரொளிக்கும் கதிர்கள் இணையாகச் செல்வதால் பிம்பம் முடிவிலியில்; திரையில் பிடிக்கவும் மாய பிம்பமாகக் காணவும் இயலாது."
+        "explanation": "எதிரொளிக்கும் கதிர்கள் இணையாகச் செல்வதால் பிம்பம் முடிவிலியில்; திரையில் பிடிக்கவும் மாய பிம்பமாகக் காணவும் இயலாது. திரையில் பிம்பத்தைப் பிடிக்க இயலாது."
       }
     },
     {
@@ -420,20 +420,20 @@
       "en": {
         "q": "A ray of light bends when it passes obliquely from one medium to another because",
         "options": [
-          "light is absorbed",
-          "light changes its colour",
-          "the velocity of light changes in the different medium",
-          "light stops"
+          "light is completely absorbed by the medium",
+          "light changes its colour at the boundary",
+          "light's velocity changes in the other medium",
+          "light stops completely at the boundary"
         ],
         "explanation": "The deviation is due to the change in velocity of light; velocity is more in a rarer medium than in a denser medium."
       },
       "ta": {
         "q": "ஒளி ஒரு ஊடகத்திலிருந்து மற்றோர் ஊடகத்திற்குச் சாய்வாகச் செல்லும்போது வளைவதற்குக் காரணம்",
         "options": [
-          "ஒளி உறிஞ்சப்படுவது",
-          "ஒளி நிறம் மாறுவது",
+          "ஒளி ஊடகத்தில் முழுவதும் உறிஞ்சப்படுவது",
+          "ஒளி எல்லையில் தன் நிறம் மாறுவது",
           "வெவ்வேறு ஊடகங்களில் ஒளியின் வேகம் மாறுவது",
-          "ஒளி நின்றுவிடுவது"
+          "ஒளி எல்லையில் முற்றிலும் நின்றுவிடுவது"
         ],
         "explanation": "ஒளியின் வேகம் அடர் குறை ஊடகத்தில் அதிகம், அடர்மிகு ஊடகத்தில் குறைவு; இதனால் கதிர் விலகுகிறது."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "Dentists use a concave mirror to examine teeth because it",
         "options": [
-          "gives a diminished image",
-          "gives an erect, magnified image when held close to the teeth",
-          "gives an inverted diminished image",
-          "has a wide field of view"
+          "gives a small diminished image of the teeth",
+          "gives an erect, magnified image when held near teeth",
+          "gives an inverted diminished image of teeth",
+          "has a very wide field of view of the mouth"
         ],
         "explanation": "A concave mirror held near the object gives an upright magnified image; it also focuses light on a small area."
       },
       "ta": {
         "q": "பல்லை ஆராய பல் மருத்துவர்கள் குழியாடியைப் பயன்படுத்துவதற்குக் காரணம்",
         "options": [
-          "சிறிதாக்கப்பட்ட பிம்பத்தைத் தருவது",
-          "அருகில் பிடிக்கும்போது நேரான, பெரிதாக்கப்பட்ட பிம்பத்தைத் தருவது",
-          "தலைகீழான சிறிய பிம்பத்தைத் தருவது",
-          "பரந்த பார்வைப்புலம் தருவது"
+          "பற்களின் சிறிதாக்கப்பட்ட பிம்பத்தைத் தருவது",
+          "அருகில் பிடித்தால் நேரான, பெரிய பிம்பம் தருவது",
+          "பற்களின் தலைகீழான சிறிய பிம்பத்தைத் தருவது",
+          "வாயின் மிகப் பரந்த பார்வைப்புலம் தருவது"
         ],
         "explanation": "பல்லுக்கு அருகில் வைக்கும்போது குழியாடி நேரான, பெரிதான பிம்பத்தையும் ஒளிக்குவிப்பையும் தருகிறது."
       }
@@ -507,9 +507,9 @@
       "en": {
         "q": "Which of the following uses a convex mirror?",
         "options": [
-          "Dentist's mirror",
-          "Torchlight reflector",
-          "Make-up mirror",
+          "Dentist's examination mirror",
+          "Torchlight reflector mirror",
+          "Shaving or make-up mirror",
           "Rear-view mirror of a vehicle"
         ],
         "explanation": "Rear-view mirrors and mirrors in shopping malls are convex; dentist's, torchlight and make-up mirrors are concave."

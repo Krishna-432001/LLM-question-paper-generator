@@ -114,7 +114,7 @@
           "நீராவிப்போக்கு",
           "பொழிவு",
           "ஆவியாதல்",
-          "சுருங்குதல் (condensation)"
+          "சுருங்குதல்"
         ],
         "explanation": "நீராவி குளிர்ந்து நீராகும் செயல் condensation."
       }
@@ -201,7 +201,7 @@
           "இடைப்பட்ட படை மேகங்கள்",
           "கீற்றுப்படை மேகங்கள்",
           "கார்படை மேகங்கள்",
-          "இடைப்பட்ட திரள் மேகங்கள் (Alto-cumulus)"
+          "இடைப்பட்ட திரள் மேகங்கள்"
         ],
         "explanation": "ஆல்டோ-கியூமுலஸ் மேகங்கள் செம்மறி ஆட்டு மேகங்கள்."
       }
@@ -333,20 +333,20 @@
       "en": {
         "q": "The atmosphere is best defined as",
         "options": [
-          "the layer of water on the Earth",
-          "the blanket of air surrounding the Earth, held by gravitational attraction",
-          "the solid outer layer of the Earth",
-          "the zone where life exists"
+          "the continuous layer of water covering the Earth",
+          "the blanket of air held around the Earth by gravity",
+          "the solid rocky outer layer of the Earth's surface",
+          "the zone of the Earth where all life exists"
         ],
         "explanation": "The atmosphere is a thin layer of gases that surrounds the Earth."
       },
       "ta": {
         "q": "வளிமண்டலம் என்பது",
         "options": [
-          "புவியிலுள்ள நீர்ப்படலம்",
-          "புவியைச் சூழ்ந்துள்ள ஈர்ப்பு விசையால் பிடிக்கப்பட்ட காற்றுப் போர்வை",
-          "புவியின் திடமான மேல் அடுக்கு",
-          "உயிரினங்கள் வாழும் மண்டலம்"
+          "புவியை முழுவதும் மூடியுள்ள நீர்ப்படலம்",
+          "ஈர்ப்பு விசையால் புவியைச் சூழ்ந்துள்ள காற்றுப் போர்வை",
+          "புவியின் மேற்பரப்பிலுள்ள திடமான பாறை அடுக்கு",
+          "புவியில் அனைத்து உயிரினங்களும் வாழும் மண்டலம்"
         ],
         "explanation": "புவியைச் சுற்றியுள்ள வாயுக்களாலான மெல்லிய அடுக்கு வளிமண்டலம்."
       }
@@ -507,20 +507,20 @@
       "en": {
         "q": "Clouds are defined in the textbook as",
         "options": [
-          "a mass of dust in the troposphere",
-          "fog on the ground",
-          "a visible mass of condensed water vapour floating in the air",
-          "a layer of ozone"
+          "a dense mass of dust in the troposphere",
+          "dense fog lying close to the ground",
+          "a visible mass of condensed water vapour",
+          "a thick protective layer of ozone gas"
         ],
         "explanation": "All precipitation occurs from clouds."
       },
       "ta": {
         "q": "மேகம் என்பது",
         "options": [
-          "கீழடுக்கிலுள்ள தூசிப் படலம்",
-          "தரையிலுள்ள மூடுபனி",
-          "காற்றில் மிதக்கும் கண்ணுக்குத் தெரியும் சுருங்கிய நீராவித் திரள்",
-          "ஓசோன் அடுக்கு"
+          "கீழடுக்கிலுள்ள அடர்ந்த தூசிப் படலம்",
+          "தரையை ஒட்டிப் படிந்துள்ள அடர்ந்த மூடுபனி",
+          "கண்ணுக்குத் தெரியும் சுருங்கிய நீராவித் திரள்",
+          "புவியைக் காக்கும் தடித்த ஓசோன் அடுக்கு"
         ],
         "explanation": "அனைத்துப் பொழிவும் மேகங்களிலிருந்தே உருவாகின்றன."
       }
@@ -537,21 +537,21 @@
         "q": "The three types of rainfall are",
         "options": [
           "convectional, monsoon and winter",
-          "convectional, frontal (cyclonic) and orographic",
+          "convectional, frontal and orographic",
           "orographic, drizzle and sleet",
           "frontal, hail and snow"
         ],
-        "explanation": "Based on the mechanism of air rising: convectional, cyclonic/frontal and orographic."
+        "explanation": "Based on the mechanism of air rising: convectional, cyclonic/frontal and orographic. Frontal rainfall is also called cyclonic rainfall."
       },
       "ta": {
         "q": "மழைப்பொழிவின் மூன்று வகைகள்",
         "options": [
           "வெப்பச்சலன, பருவ, குளிர்கால மழை",
-          "வெப்பச்சலன மழை, சூறாவளி (முகவழி) மழை, மலைத்தடை மழை",
+          "வெப்பச்சலன, முகவழி, மலைத்தடை மழை",
           "மலைத்தடை மழை, சாரல், பனிமழை",
           "முகவழி மழை, ஆலங்கட்டி, பனி"
         ],
-        "explanation": "காற்று மேலெழும் முறையைப் பொறுத்து மூன்று வகை மழை."
+        "explanation": "காற்று மேலெழும் முறையைப் பொறுத்து மூன்று வகை மழை. முகவழி மழை சூறாவளி மழை எனவும் அழைக்கப்படும்."
       }
     },
     {
@@ -594,20 +594,20 @@
       "en": {
         "q": "Sleet is a precipitation of",
         "options": [
-          "chunks of ice larger than 2 cm",
+          "hard chunks of ice larger than 2 cm across",
           "opaque ice crystals forming snowflakes",
-          "minute water droplets",
-          "pellets of transparent and translucent ice, a mixture of snow and rain"
+          "minute water droplets falling very slowly",
+          "pellets of translucent ice, a mix of snow and rain"
         ],
         "explanation": "Sleet is a mixture of snow and rain."
       },
       "ta": {
         "q": "பனிமழை (Sleet) என்பது",
         "options": [
-          "2 செ.மீ.க்கு மேற்பட்ட பனிக்கட்டிகள்",
+          "2 செ.மீ.க்கு மேற்பட்ட கடினமான பனிக்கட்டிகள்",
           "பனித்துகள்களாக ஒட்டிய ஒளிபுகாப் படிகங்கள்",
-          "நுண்ணிய நீர்த்துளிகள்",
-          "தெளிவான, ஒளிகசியும் பனிக்கட்டி மணிகள்; பனியும் மழையும் கலந்த பொழிவு"
+          "மெதுவாக விழும் நுண்ணிய நீர்த்துளிகள்",
+          "ஒளிகசியும் பனிக்கட்டி மணிகள்; பனியும் மழையும் கலந்தது"
         ],
         "explanation": "பனியும் மழையும் கலந்தது பனிமழை."
       }
@@ -624,19 +624,19 @@
         "q": "Cyclones are classified into",
         "options": [
           "tropical, temperate and extra-tropical cyclones",
-          "land, sea and mountain cyclones",
-          "active and dormant cyclones",
-          "windward and leeward cyclones"
+          "land, sea, mountain and desert cyclones",
+          "active, dormant and extinct cyclones",
+          "windward, leeward and sideward cyclones"
         ],
         "explanation": "Tropical cyclones, temperate cyclones and extra-tropical cyclones."
       },
       "ta": {
         "q": "சூறாவளிகள் வகைப்படுத்தப்படுவது",
         "options": [
-          "வெப்ப, மிதவெப்ப, வெப்பமண்டலத்திற்கு அப்பாற்பட்ட சூறாவளிகள்",
-          "நில, கடல், மலைச் சூறாவளிகள்",
-          "செயல்படும், உறங்கும் சூறாவளிகள்",
-          "காற்று மோதும், மோதாச் சூறாவளிகள்"
+          "வெப்ப, மிதவெப்ப, புறவெப்பமண்டலச் சூறாவளிகள்",
+          "நில, கடல், மலை, பாலைவனச் சூறாவளிகள்",
+          "செயல்படும், உறங்கும், அழிந்த சூறாவளிகள்",
+          "காற்று மோதும், மோதாத, பக்கச் சூறாவளிகள்"
         ],
         "explanation": "வெப்ப, மிதவெப்ப, கூடுதல் வெப்ப மண்டல வகைகள் உண்டு."
       }
@@ -652,10 +652,10 @@
       "en": {
         "q": "Tropical cyclones cause heavy loss of life and property on the coasts and become weak after reaching land because",
         "options": [
-          "land has more clouds",
-          "land is hotter than sea",
+          "land always has more clouds than sea",
+          "land is always hotter than the sea water",
           "they lose their moisture supply from the ocean",
-          "they get stronger on land"
+          "they grow stronger as they move over land"
         ],
         "explanation": "Tropical cyclones draw energy from warm ocean water; over land this supply is cut off. They bring strong winds, storm surges and floods."
       },
@@ -750,7 +750,7 @@
         "q": "வெப்பச்சலன மழை '4 மணி மழை' எனப்படக் காரணம்",
         "options": [
           "விடியற்காலையில் மட்டும் பெய்வதால்",
-          "நிலநடுக்கோட்டுப் பகுதியில் மாலை வேளையில் தவறாமல் பெய்வதால்",
+          "மாலை வேளையில் தவறாமல் பெய்வதால்",
           "மலைகளில் மட்டும் பெய்வதால்",
           "குளிர்காலத்தில் மட்டும் பெய்வதால்"
         ],
@@ -768,9 +768,9 @@
       "en": {
         "q": "Polar Easterlies are cold and dry because they",
         "options": [
-          "blow only in summer",
-          "originate over warm oceans",
-          "come from the equator",
+          "blow only during the summer season",
+          "originate over the warm tropical oceans",
+          "come from the hot equatorial region",
           "originate in the polar high pressure belt"
         ],
         "explanation": "Polar easterlies blow from the polar high to the sub-polar low pressure belt."
@@ -798,21 +798,21 @@
         "q": "Atmosphere: Which statement is correct?",
         "options": [
           "Weather is the average of climate",
-          "Climate changes hour to hour",
-          "Weather is more or less permanent",
-          "Climate is the average of weather over a long period for a large area"
+          "Climate keeps changing from hour to hour",
+          "Weather remains more or less permanent",
+          "Climate is the long-term average of weather"
         ],
-        "explanation": "Weather is short-term (hourly or daily) over a small area; climate is the long-term average. Study of weather = meteorology; of climate = climatology."
+        "explanation": "Weather is short-term (hourly or daily) over a small area; climate is the long-term average. Study of weather = meteorology; of climate = climatology. Climate is the average of weather over a long period for a large area."
       },
       "ta": {
         "q": "சரியான கூற்று எது?",
         "options": [
           "வானிலை என்பது காலநிலையின் சராசரி",
-          "காலநிலை மணிக்கு மணி மாறும்",
-          "வானிலை ஏறத்தாழ நிலையானது",
-          "காலநிலை என்பது நீண்ட காலத்தில் பெரிய பரப்பின் சராசரி வானிலை"
+          "காலநிலை மணிக்கு மணி மாறிக்கொண்டே இருக்கும்",
+          "வானிலை ஏறத்தாழ எப்போதும் நிலையானதே",
+          "காலநிலை என்பது வானிலையின் நீண்டகாலச் சராசரி"
         ],
-        "explanation": "வானிலை குறுகிய காலம், சிறு பரப்பு; காலநிலை நீண்ட கால சராசரி."
+        "explanation": "வானிலை குறுகிய காலம், சிறு பரப்பு; காலநிலை நீண்ட கால சராசரி. காலநிலை என்பது நீண்ட காலத்தில் பெரிய பரப்பின் சராசரி வானிலை."
       }
     },
     {
@@ -826,10 +826,10 @@
       "en": {
         "q": "During the day, the wind blowing from the ocean to the land (sea breeze) occurs because",
         "options": [
-          "ocean heats faster than land",
-          "land is colder than sea by day",
-          "land heats faster, creating low pressure over land",
-          "there is no pressure difference"
+          "ocean heats up faster than the land does",
+          "land stays colder than the sea by day",
+          "land heats faster, so pressure over land is low",
+          "there is no pressure difference at all"
         ],
         "explanation": "At night the land cools faster; high pressure over land produces a land breeze blowing to the sea."
       },

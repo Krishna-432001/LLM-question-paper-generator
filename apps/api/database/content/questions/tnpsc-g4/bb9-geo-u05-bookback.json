@@ -101,10 +101,10 @@
       "en": {
         "q": "Xerophytic plants are specifically adapted to",
         "options": [
-          "cold temperature",
+          "cold winter temperatures",
           "limited moisture availability",
-          "humid conditions",
-          "waterlogged soils"
+          "humid tropical conditions",
+          "waterlogged marshy soils"
         ],
         "explanation": "Deserts have a special vegetation of xerophytes: drought-resistant thorny scrubs, bushes and palms."
       },
@@ -285,7 +285,7 @@
       "ta": {
         "q": "பாலைவனப் பல்லுயிர்த் தொகுதிகளில் வளரும் தாவரங்கள்",
         "options": [
-          "வறண்டநிலத் தாவரங்கள் (Xerophytes)",
+          "வறண்டநிலத் தாவரங்கள்",
           "இடைநிலைத் தாவரங்கள்",
           "நீர்த்தாவரங்கள்",
           "தொற்றுத் தாவரங்கள்"
@@ -304,20 +304,20 @@
       "en": {
         "q": "The biosphere is best described as",
         "options": [
-          "the layer of gases around the earth",
-          "the solid outer layer of the earth",
-          "the life-supporting layer on the earth's surface that encompasses the lithosphere, hydrosphere and atmosphere",
-          "the water on the earth"
+          "the thick layer of gases around the earth",
+          "the solid rocky outer layer of the earth",
+          "the life-supporting layer covering land, water and air",
+          "all the water found on the earth's surface"
         ],
         "explanation": "The vertical range of the biosphere is approximately 20 km; most life lives within about 1 km above and below mean sea level."
       },
       "ta": {
         "q": "உயிர்க்கோளம் என்பது",
         "options": [
-          "புவியைச் சூழ்ந்த வாயு அடுக்கு",
-          "புவியின் திடமான மேல்அடுக்கு",
-          "நிலக்கோளம், நீர்க்கோளம், வளிக்கோளம் ஆகியவற்றை உள்ளடக்கி உயிரினங்களைத் தாங்கும் அடுக்கு",
-          "புவியிலுள்ள நீர்"
+          "புவியைச் சுற்றிலும் சூழ்ந்துள்ள தடித்த வாயு அடுக்கு",
+          "புவியின் திடமான பாறையால் ஆன மேல்அடுக்கு",
+          "நிலம், நீர், காற்றில் உயிரினங்களைத் தாங்கும் அடுக்கு",
+          "புவியின் மேற்பரப்பிலுள்ள அனைத்து நீரும்"
         ],
         "explanation": "உயிர்க்கோளத்தின் செங்குத்து எல்லை ஏறத்தாழ 20 கி.மீ."
       }
@@ -362,22 +362,22 @@
       "en": {
         "q": "Loss of biodiversity means",
         "options": [
-          "the migration of animals",
-          "an increase of species",
-          "the growth of forests",
-          "the extinction of species (flora and fauna) due to human and natural influences"
+          "the seasonal migration of animals to new lands",
+          "a steady increase in the number of species",
+          "the rapid regrowth of forests across regions",
+          "the extinction of species due to human and natural causes"
         ],
-        "explanation": "The primary cause of today's loss of biodiversity is habitat alteration caused by human activities."
+        "explanation": "The primary cause of today's loss of biodiversity is habitat alteration caused by human activities. The species lost include flora and fauna. The species lost include flora and fauna."
       },
       "ta": {
         "q": "உயிரினப் பன்மை இழப்பு என்பது",
         "options": [
-          "விலங்குகள் இடம்பெயர்தல்",
-          "இனங்கள் பெருகுதல்",
-          "காடுகள் வளர்தல்",
-          "மனித, இயற்கைக் காரணங்களால் தாவர, விலங்கினங்கள் அழிதல்"
+          "விலங்குகள் புதிய நிலங்களுக்கு இடம்பெயர்தல்",
+          "இனங்களின் எண்ணிக்கை தொடர்ந்து பெருகுதல்",
+          "காடுகள் எல்லாப் பகுதிகளிலும் விரைவாக வளர்தல்",
+          "மனித, இயற்கைக் காரணங்களால் உயிரினங்கள் அழிதல்"
         ],
-        "explanation": "வாழிட மாற்றமே தற்போதைய இழப்பின் முதன்மைக் காரணம்."
+        "explanation": "வாழிட மாற்றமே தற்போதைய இழப்பின் முதன்மைக் காரணம். அழியும் இனங்களில் தாவரங்களும் விலங்குகளும் அடங்கும். அழியும் இனங்களில் தாவரங்களும் விலங்குகளும் அடங்கும்."
       }
     },
     {
@@ -449,10 +449,10 @@
       "en": {
         "q": "Decomposers are also called saprotrophs because they",
         "options": [
-          "prepare food by photosynthesis",
-          "live on dead and decaying plants and animals",
-          "hunt herbivores",
-          "feed on living plants"
+          "prepare food by photosynthesis in leaves",
+          "live on dead and decaying organisms",
+          "hunt and kill herbivores for their food",
+          "feed on the living plants and crops"
         ],
         "explanation": "Eg. fungus and mushrooms."
       },

@@ -73,21 +73,21 @@
         "q": "Liquids and gases are generally ______ conductors of heat.",
         "options": [
           "good",
-          "poor (bad)",
+          "poor",
           "excellent",
           "perfect"
         ],
-        "explanation": "Liquids and gases also conduct heat but very slowly; air, a bad conductor, does not allow body heat to escape."
+        "explanation": "Liquids and gases also conduct heat but very slowly; air, a bad conductor, does not allow body heat to escape. Poor is also called bad."
       },
       "ta": {
         "q": "திரவங்களும் வாயுக்களும் பொதுவாக வெப்பத்தின் ______ கடத்திகள்.",
         "options": [
           "நல்ல",
-          "மோசமான (தீய)",
+          "மோசமான",
           "மிகச்சிறந்த",
           "முழுமையான"
         ],
-        "explanation": "திரவங்கள், வாயுக்கள் வெப்பத்தை மிக மெதுவாகவே கடத்துகின்றன; அவை தீய கடத்திகள்."
+        "explanation": "திரவங்கள், வாயுக்கள் வெப்பத்தை மிக மெதுவாகவே கடத்துகின்றன; அவை தீய கடத்திகள். மோசமான என்பது தீய என்றும் அழைக்கப்படும்."
       }
     },
     {
@@ -188,22 +188,22 @@
       "en": {
         "q": "Conduction is the transfer of heat",
         "options": [
-          "by the movement of the fluid itself",
-          "by electromagnetic waves",
-          "in solids from a region of higher temperature to a region of lower temperature without the actual movement of molecules",
-          "through vacuum only"
+          "by the actual movement of the fluid itself",
+          "by electromagnetic waves in all directions",
+          "in solids from hot to cold, the molecules staying in place and passing on energy",
+          "through the vacuum of empty space only"
         ],
         "explanation": "In conduction, vibrating molecules collide with neighbours and pass on energy without moving from their positions."
       },
       "ta": {
         "q": "வெப்பக் கடத்தல் என்பது",
         "options": [
-          "பாய்மம் இயங்குவதால் வெப்பம் பரவுதல்",
-          "மின்காந்த அலைகளால் வெப்பம் பரவுதல்",
-          "திடப்பொருளில் மூலக்கூறுகள் இடம் பெயராமல், அதிக வெப்பநிலைப் பகுதியிலிருந்து குறைந்த வெப்பநிலைப் பகுதிக்கு வெப்பம் பரவுதல்",
-          "வெற்றிடத்தில் மட்டும் வெப்பம் பரவுதல்"
+          "பாய்மமே இடம் பெயர்வதால் வெப்பம் பரவுதல்",
+          "மின்காந்த அலைகளால் எல்லாத் திசைகளிலும் வெப்பம் பரவுதல்",
+          "திடப்பொருளில் மூலக்கூறுகள் இடம் பெயராமல் வெப்பம் பரவுதல்",
+          "வெற்றிடமான வெளியில் மட்டுமே வெப்பம் பரவுதல்"
         ],
-        "explanation": "அதிரும் மூலக்கூறுகள் அண்டை மூலக்கூறுகளுடன் மோதி ஆற்றலைக் கடத்துகின்றன; அவை இடம் பெயர்வதில்லை."
+        "explanation": "அதிரும் மூலக்கூறுகள் அண்டை மூலக்கூறுகளுடன் மோதி ஆற்றலைக் கடத்துகின்றன; அவை இடம் பெயர்வதில்லை. வெப்பம் அதிக வெப்பநிலைப் பகுதியிலிருந்து குறைந்த வெப்பநிலைப் பகுதிக்குப் பரவுகிறது."
       }
     },
     {
@@ -218,21 +218,21 @@
         "q": "Ice is kept in a double-walled container because the",
         "options": [
           "air between the walls is a good conductor",
-          "ice becomes hot there",
-          "air between the walls is a bad conductor and reduces heat transfer",
+          "ice becomes hot inside there",
+          "air between the walls is a bad conductor",
           "double walls produce cold"
         ],
-        "explanation": "Air is a bad conductor of heat; the gap between the double walls reduces conduction of heat from the surroundings to the ice."
+        "explanation": "Air is a bad conductor of heat; the gap between the double walls reduces conduction of heat from the surroundings to the ice. It also reduces heat transfer."
       },
       "ta": {
         "q": "பனிக்கட்டி இரட்டைச் சுவர் கொண்ட கலனில் வைக்கப்படுவதற்குக் காரணம்",
         "options": [
           "சுவர்களுக்கிடையிலுள்ள காற்று நல்ல கடத்தி",
-          "அங்கு பனிக்கட்டி சூடாகிறது",
-          "சுவர்களுக்கிடையிலுள்ள காற்று தீய வெப்பக் கடத்தி; வெப்பப் பரவலைக் குறைக்கிறது",
+          "அந்த இடத்தில் பனிக்கட்டி மிகவும் சூடாகிறது",
+          "சுவர்களுக்கிடையிலுள்ள காற்று தீய வெப்பக் கடத்தி",
           "இரட்டைச் சுவர் குளிரை உண்டாக்குகிறது"
         ],
-        "explanation": "காற்று தீய கடத்தி; இரட்டைச் சுவர்களுக்கிடையிலான காற்று வெளியிலிருந்து பனிக்கட்டிக்கு வெப்பம் செல்வதைக் குறைக்கிறது."
+        "explanation": "காற்று தீய கடத்தி; இரட்டைச் சுவர்களுக்கிடையிலான காற்று வெளியிலிருந்து பனிக்கட்டிக்கு வெப்பம் செல்வதைக் குறைக்கிறது. அது வெப்பப் பரவலைக் குறைக்கிறது."
       }
     },
     {
@@ -246,19 +246,19 @@
       "en": {
         "q": "Water kept in an earthen pot remains cool because",
         "options": [
-          "the earthen pot produces cold",
-          "water seeps through the pores and evaporates, taking latent heat from the water inside",
-          "the pot is a good conductor of heat",
-          "the pot absorbs all heat radiation"
+          "the earthen pot itself produces cold all the time",
+          "water seeps out and evaporates, taking heat from inside water",
+          "the pot is a very good conductor of heat to water",
+          "the pot absorbs all the heat radiation of sunlight"
         ],
         "explanation": "Evaporation needs heat, which is taken from the water in the pot and cools it (like the dog's tongue example)."
       },
       "ta": {
         "q": "மண்பானையில் வைக்கப்பட்ட நீர் குளிர்ச்சியாக இருக்கக் காரணம்",
         "options": [
-          "மண்பானை குளிரை உண்டாக்குவது",
-          "துளைகள் வழியே கசியும் நீர் ஆவியாகும்போது பானையிலுள்ள நீரிலிருந்து வெப்பத்தை எடுத்துக்கொள்வது",
-          "பானை நல்ல வெப்பக் கடத்தி என்பது",
+          "மண்பானையே தானாக எப்போதும் குளிரை உண்டாக்குவது",
+          "துளைகள் வழியே கசியும் நீர் ஆவியாகி வெப்பத்தை எடுத்துக்கொள்வது",
+          "பானை நீருக்கு வெப்பத்தை நன்கு கடத்துவது",
           "பானை எல்லா வெப்பக் கதிர்வீச்சையும் உறிஞ்சுவது"
         ],
         "explanation": "ஆவியாதலுக்கு வெப்பம் தேவை; அது பானையிலுள்ள நீரிலிருந்து பெறப்படுவதால் நீர் குளிர்கிறது."
@@ -304,22 +304,22 @@
       "en": {
         "q": "People prefer white clothes in summer because white or light coloured cloths",
         "options": [
-          "absorb more heat",
-          "emit more heat",
-          "are good conductors of heat",
-          "are good reflectors of heat and keep us cool"
+          "absorb more heat from the sunlight",
+          "emit more heat towards our own body",
+          "are very good conductors of body heat",
+          "are good reflectors of heat"
         ],
-        "explanation": "White or light coloured clothes reflect most of the heat radiation."
+        "explanation": "White or light coloured clothes reflect most of the heat radiation. Reflecting heat keeps us cool."
       },
       "ta": {
         "q": "கோடையில் வெண்ணிற ஆடைகளை விரும்புவதற்குக் காரணம், வெண்ணிற அல்லது வெளிர்நிற ஆடைகள்",
         "options": [
-          "அதிக வெப்பத்தை உறிஞ்சுகின்றன",
-          "அதிக வெப்பத்தை வெளியிடுகின்றன",
-          "வெப்பத்தின் நல்ல கடத்திகள்",
-          "வெப்பத்தை நன்கு எதிரொளிப்பதால் குளிர்ச்சியாக வைக்கின்றன"
+          "சூரிய வெப்பத்தை அதிகம் உறிஞ்சுகின்றன",
+          "உடலை நோக்கி அதிக வெப்பத்தை வெளியிடுகின்றன",
+          "உடல் வெப்பத்தை நன்கு கடத்துகின்றன",
+          "வெப்பத்தை நன்கு எதிரொளிக்கின்றன"
         ],
-        "explanation": "வெண்ணிற ஆடைகள் வெப்பக் கதிர்வீச்சை எதிரொளிக்கின்றன."
+        "explanation": "வெண்ணிற ஆடைகள் வெப்பக் கதிர்வீச்சை எதிரொளிக்கின்றன. வெப்பத்தை எதிரொளிப்பதால் குளிர்ச்சியாக இருக்கும்."
       }
     },
     {
@@ -336,9 +336,9 @@
           "the whole body by 1 K",
           "1 kg of the substance to its boiling point",
           "1 g of water by 100 degree C",
-          "1 kg of the substance by 1 K (or 1 degree C)"
+          "1 kg of the substance by 1 K"
         ],
-        "explanation": "SI unit of specific heat capacity is J kg^-1 K^-1."
+        "explanation": "SI unit of specific heat capacity is J kg^-1 K^-1. A change of 1 K equals a change of 1 degree C."
       },
       "ta": {
         "q": "ஒரு பொருளின் தன் வெப்ப ஏற்புத்திறன் என்பது",
@@ -346,9 +346,9 @@
           "முழுப் பொருளின் வெப்பநிலையை 1 K உயர்த்தத் தேவையான வெப்பம்",
           "1 கி.கி பொருளைக் கொதிநிலைக்குக் கொண்டுவரத் தேவையான வெப்பம்",
           "1 கி நீரை 100 °C உயர்த்தத் தேவையான வெப்பம்",
-          "1 கி.கி பொருளின் வெப்பநிலையை 1 K (அல்லது 1 °C) உயர்த்தத் தேவையான வெப்பம்"
+          "1 கி.கி பொருளின் வெப்பநிலையை 1 K உயர்த்தத் தேவையான வெப்பம்"
         ],
-        "explanation": "தன் வெப்ப ஏற்புத்திறனின் SI அலகு J கி.கி^-1 K^-1."
+        "explanation": "தன் வெப்ப ஏற்புத்திறனின் SI அலகு J கி.கி^-1 K^-1. 1 K மாற்றம் என்பது 1 °C மாற்றத்திற்குச் சமம்."
       }
     },
     {
@@ -363,8 +363,8 @@
         "q": "Thermal (heat) capacity of a body is the heat energy required to",
         "options": [
           "raise 1 kg of the body by 1 degree C",
-          "melt the body",
-          "vaporise the body",
+          "melt the body completely at its melting point",
+          "vaporise the body completely at its boiling point",
           "raise the temperature of the entire body by 1 degree C"
         ],
         "explanation": "Thermal capacity C' = Q / (rise in temperature); its SI unit is J/K."
@@ -392,21 +392,21 @@
         "q": "Specific latent heat is the heat energy absorbed or liberated by",
         "options": [
           "unit mass when its temperature rises by 1 K",
-          "unit mass of a substance during change of state without any change in temperature",
-          "a body when it expands",
-          "the whole body per kelvin"
+          "unit mass of a substance during a change of state",
+          "a whole body when it expands in volume",
+          "the whole body for each kelvin of rise"
         ],
-        "explanation": "L = Q/m; the SI unit is J/kg."
+        "explanation": "L = Q/m; the SI unit is J/kg. The temperature stays constant during the change of state."
       },
       "ta": {
         "q": "தன் உள்ளுறை வெப்பம் என்பது",
         "options": [
           "ஓரலகு நிறைப் பொருளின் வெப்பநிலையை 1 K உயர்த்தத் தேவையான வெப்பம்",
-          "வெப்பநிலை மாறாமல் நிலை மாறும்போது ஓரலகு நிறைப் பொருள் உட்கவரும் அல்லது வெளியிடும் வெப்ப ஆற்றல்",
+          "நிலை மாறும்போது ஓரலகு நிறைப் பொருள் உட்கவரும் வெப்ப ஆற்றல்",
           "பொருள் விரிவடையும்போது உட்கவரும் வெப்பம்",
           "முழுப் பொருளும் ஒரு கெல்வினுக்கு உட்கவரும் வெப்பம்"
         ],
-        "explanation": "L = Q/m; SI அலகு J/கி.கி."
+        "explanation": "L = Q/m; SI அலகு J/கி.கி. நிலை மாறும்போது வெப்பநிலை மாறாது."
       }
     },
     {

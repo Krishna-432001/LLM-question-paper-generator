@@ -43,20 +43,20 @@
       "en": {
         "q": "Which of the following is a component of the man-made environment?",
         "options": [
-          "Lithosphere",
+          "The lithosphere of land",
           "Buildings and industries",
-          "Hydrosphere",
-          "Atmosphere"
+          "The hydrosphere of water",
+          "The atmosphere of air"
         ],
         "explanation": "The natural environment comprises land, air, water and living things; the human environment concerns the individual, family, society, education, religion, economics and politics."
       },
       "ta": {
         "q": "மனிதன் உருவாக்கிய சூழலின் கூறு எது?",
         "options": [
-          "நிலக்கோளம்",
+          "நிலக்கோளம் எனும் நிலம்",
           "கட்டடங்களும் தொழிற்சாலைகளும்",
-          "நீர்க்கோளம்",
-          "வளிக்கோளம்"
+          "நீர்க்கோளமாகிய நீர்நிலைகள்",
+          "வளிக்கோளம் எனும் காற்று"
         ],
         "explanation": "இயற்கைச் சூழலில் நிலம், காற்று, நீர், உயிரினங்கள் அடங்கும்."
       }
@@ -160,18 +160,18 @@
         "q": "World Population Day observance was started in 1989 by the",
         "options": [
           "United Nations Development Programme",
-          "UNESCO",
-          "UNICEF",
+          "UN Educational, Scientific and Cultural Organization",
+          "United Nations Children's Fund",
           "World Health Organization"
         ],
-        "explanation": "It is observed on 11 July."
+        "explanation": "It is observed on 11 July. UNDP started it in 1989; it is observed on 11 July. UNDP started it in 1989; it is observed on 11 July."
       },
       "ta": {
         "q": "உலக மக்கள்தொகை தினக் கொண்டாட்டத்தை 1989இல் தொடங்கிய அமைப்பு",
         "options": [
-          "ஐக்கிய நாடுகள் வளர்ச்சித் திட்டம் (UNDP)",
-          "யுனெஸ்கோ",
-          "யுனிசெஃப்",
+          "ஐக்கிய நாடுகள் வளர்ச்சித் திட்டம்",
+          "ஐ.நா. கல்வி, அறிவியல், பண்பாட்டு அமைப்பு",
+          "ஐக்கிய நாடுகள் குழந்தைகள் நிதியம்",
           "உலக சுகாதார அமைப்பு"
         ],
         "explanation": "இது ஜூலை 11 அன்று கொண்டாடப்படுகிறது."
@@ -188,10 +188,10 @@
       "en": {
         "q": "Which of the following is an economic factor affecting the distribution of population?",
         "options": [
-          "Temperature and rainfall",
-          "Relief and soil",
-          "River valley civilizations",
-          "Employment opportunities and manufacturing industries"
+          "Temperature and rainfall patterns",
+          "Relief and soil fertility of the land",
+          "Ancient river valley civilizations",
+          "Job opportunities and manufacturing industries"
         ],
         "explanation": "Physical: temperature, rainfall, soil, relief; historical: river valley civilizations, war, invasions; economic: education, employment, industries, trade."
       },
@@ -217,20 +217,20 @@
       "en": {
         "q": "According to the textbook, areas with fewer than 10 people per sq km include",
         "options": [
-          "East Asia",
-          "South Asia",
+          "East Asia and coastal China",
+          "South Asia and the Gangetic plain",
           "Western Australia and Northern Russia",
-          "North-West Europe"
+          "North-West Europe and the Netherlands"
         ],
         "explanation": "High density (above 50): East Asia, South Asia, North-West Europe, eastern North America."
       },
       "ta": {
         "q": "நூலின்படி சதுர கி.மீ.க்குப் 10க்கும் குறைவான மக்கள் வாழும் பகுதிகள்",
         "options": [
-          "கிழக்கு ஆசியா",
-          "தெற்கு ஆசியா",
+          "கிழக்கு ஆசியா, கடலோர சீனா",
+          "தெற்கு ஆசியா, கங்கைச் சமவெளி",
           "மேற்கு ஆஸ்திரேலியா, வடக்கு ரஷ்யா",
-          "வடமேற்கு ஐரோப்பா"
+          "வடமேற்கு ஐரோப்பா, நெதர்லாந்து"
         ],
         "explanation": "50க்கு மேல் - கிழக்கு, தெற்கு ஆசியா, வடமேற்கு ஐரோப்பா, கிழக்கு வட அமெரிக்கா."
       }
@@ -246,20 +246,20 @@
       "en": {
         "q": "India announced an official population policy in 1952; it was the first country to do so. Its main objective was to",
         "options": [
-          "increase the birth rate",
-          "stop migration to cities",
-          "encourage emigration",
-          "slow down the rate of population growth through birth control"
+          "increase the birth rate in rural areas",
+          "stop all migration of people to the cities",
+          "encourage people to emigrate abroad in large numbers",
+          "slow population growth through birth control"
         ],
         "explanation": "Over population: more people than resources can sustain; under population: too few people to develop the economic potential fully."
       },
       "ta": {
         "q": "1952இல் இந்தியா அதிகாரப்பூர்வ மக்கள்தொகைக் கொள்கையை அறிவித்த முதல் நாடாகும். இதன் முக்கிய நோக்கம்",
         "options": [
-          "பிறப்பு வீதத்தை உயர்த்துதல்",
-          "நகர இடப்பெயர்வைத் தடுத்தல்",
-          "வெளிநாடு குடிபெயர ஊக்குவித்தல்",
-          "கருத்தடை முறைகள் மூலம் மக்கள்தொகை வளர்ச்சி வீதத்தைக் குறைத்தல்"
+          "கிராமங்களில் பிறப்பு வீதத்தை உயர்த்துதல்",
+          "நகரங்களுக்கான இடப்பெயர்வை முற்றிலும் தடுத்தல்",
+          "மக்களை வெளிநாடு குடிபெயர ஊக்குவித்தல்",
+          "கருத்தடை மூலம் மக்கள்தொகை வளர்ச்சியைக் குறைத்தல்"
         ],
         "explanation": "மிகை மக்கள்தொகை - வளங்களை விட அதிக மக்கள்."
       }
@@ -372,10 +372,10 @@
       "ta": {
         "q": "பல நகரங்கள், பெரிய நகரங்கள், பிற நகர்ப்புறங்கள் இணைந்த பகுதி",
         "options": [
-          "சிற்றூர்",
-          "நகரங்களின் தொகுதி (Conurbation)",
-          "மாநகரம்",
-          "மீப்பெருநகரம்"
+          "சிற்றூர் குடியிருப்பு",
+          "நகரங்களின் தொகுதி",
+          "ஒரே ஒரு மாநகரம்",
+          "மீப்பெருநகரப் பகுதி"
         ],
         "explanation": "தில்லி நகரத் தொகுதி எடுத்துக்காட்டு."
       }
@@ -478,20 +478,20 @@
       "en": {
         "q": "The 1992 Earth Summit concluded that member countries should reduce emissions of",
         "options": [
-          "ozone",
-          "oxygen and nitrogen",
-          "water vapour only",
-          "carbon dioxide, methane and other greenhouse gases"
+          "ozone gas in the stratosphere",
+          "oxygen, nitrogen and argon gases",
+          "water vapour from the oceans only",
+          "carbon dioxide, methane and other such gases"
         ],
         "explanation": "The aim was to reduce gases responsible for global warming."
       },
       "ta": {
         "q": "1992 புவி உச்சி மாநாடு உறுப்பு நாடுகள் குறைக்க வேண்டும் எனத் தீர்மானித்தது",
         "options": [
-          "ஓசோன்",
-          "ஆக்சிஜன், நைட்ரஜன்",
-          "நீராவி மட்டும்",
-          "கார்பன் டை ஆக்சைடு, மீத்தேன் உள்ளிட்ட பசுமை இல்ல வாயுக்களின் வெளியேற்றத்தை"
+          "அடுக்கு மண்டலத்திலுள்ள ஓசோன் வாயுவை",
+          "ஆக்சிஜன், நைட்ரஜன், ஆர்கான் வாயுக்களை",
+          "கடலிலிருந்து எழும் நீராவியை மட்டுமே",
+          "கார்பன் டை ஆக்சைடு, மீத்தேன் போன்ற வாயுக்களை"
         ],
         "explanation": "புவி வெப்பமாதலுக்குக் காரணமான வாயுக்களைக் குறைக்க வேண்டும் என்பதே நோக்கம்."
       }

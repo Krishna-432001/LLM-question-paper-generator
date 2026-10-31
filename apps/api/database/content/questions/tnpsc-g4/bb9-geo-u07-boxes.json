@@ -112,11 +112,11 @@
         "q": "வடக்கு, கிழக்கு, தெற்கு, மேற்கு ஆகிய நான்கு முக்கியத் திசைகள்",
         "options": [
           "வலைப்பின்னல் குறிப்புகள்",
-          "அடிப்படைத் திசைகள் (Cardinal directions)",
+          "அடிப்படைத் திசைகள்",
           "இணைப்பாயங்கள்",
           "கோட்டுச் சட்டங்கள்"
         ],
-        "explanation": "வரைபடத்தில் வடக்கு எப்போதும் வட துருவத்தை நோக்கியிருக்கும்."
+        "explanation": "வரைபடத்தில் வடக்கு எப்போதும் வட துருவத்தை நோக்கியிருக்கும். அடிப்படைத் திசைகள் என்பது Cardinal directions. அடிப்படைத் திசைகள் என்பது Cardinal directions."
       }
     },
     {
@@ -159,10 +159,10 @@
       "en": {
         "q": "The legend of a map is usually placed",
         "options": [
-          "at the top centre",
-          "at the left or right corner at the bottom",
+          "at the top centre of the map",
+          "at the bottom left or right corner",
           "along the left margin only",
-          "outside the map"
+          "far outside the map frame area"
         ],
         "explanation": "Conventional signs and symbols used on a map are explained in the legend."
       },
@@ -275,7 +275,7 @@
       "en": {
         "q": "The United Nations flag depicts a map in which projection?",
         "options": [
-          "Azimuthal (polar) projection",
+          "Azimuthal polar projection",
           "Cylindrical projection",
           "Conical projection",
           "Mercator projection"
@@ -285,10 +285,10 @@
       "ta": {
         "q": "ஐக்கிய நாடுகள் கொடியில் காட்டப்பட்டுள்ள நிலவரைபடக் கோட்டுச் சட்டம்",
         "options": [
-          "திசைக்கோணத் துருவக் கோட்டுச் சட்டம் (Azimuthal polar)",
-          "உருளைக் கோட்டுச் சட்டம்",
-          "கூம்புக் கோட்டுச் சட்டம்",
-          "மெர்கேட்டர்"
+          "திசைக்கோணத் துருவக் கோட்டுச் சட்டம்",
+          "உருளை வடிவக் கோட்டுச் சட்டம்",
+          "கூம்பு வடிவக் கோட்டுச் சட்டம்",
+          "மெர்கேட்டர் கோட்டுச் சட்டம்"
         ],
         "explanation": "கொடியிலுள்ள வரைபடம் 60° தெற்கு வரை உள்ளது."
       }
@@ -365,7 +365,7 @@
           "A topographic contour",
           "A radar echo only",
           "A weather chart",
-          "A stereoscopic (3D) image"
+          "A stereoscopic 3D image"
         ],
         "explanation": "Photographs are taken every 10-30 seconds with slight overlap (about 60% forward and 20-40% lateral)."
       },
@@ -375,7 +375,7 @@
           "சம உயரக்கோட்டுப் படம்",
           "ரேடார் எதிரொலி மட்டும்",
           "வானிலை வரைபடம்",
-          "முப்பரிமாணப் படம் (Stereoscopic)"
+          "முப்பரிமாணப் படம்"
         ],
         "explanation": "முன்புறம் ஏறத்தாழ 60%, பக்கவாட்டில் 20-40% மேற்பொருத்தம் இருக்கும்."
       }
@@ -391,20 +391,20 @@
       "en": {
         "q": "Which is an advantage of aerial photography over satellite remote sensing, according to the textbook?",
         "options": [
-          "Surveying can be planned and executed in a shorter time economically",
-          "It allows global coverage",
-          "It is not affected by weather",
-          "Its information is digital"
+          "Surveys can be planned quickly and cheaply",
+          "It allows global coverage of the planet",
+          "It is not affected by bad weather",
+          "Its information is available in digital form"
         ],
         "explanation": "Aerial photography covers a small area, needs permission, and is affected by bad weather."
       },
       "ta": {
         "q": "நூலின்படி செயற்கைக்கோளை விட வான்வழிப் புகைப்படத்தின் நன்மை",
         "options": [
-          "குறைந்த செலவில், குறுகிய காலத்தில் அளவையைத் திட்டமிட்டு முடிக்கலாம்",
-          "உலகம் முழுவதும் கவர முடியும்",
-          "வானிலையால் பாதிக்கப்படாது",
-          "தகவல் இலக்கமுறையில் இருக்கும்"
+          "குறைந்த செலவில் விரைவாக அளவை செய்யலாம்",
+          "உலகம் முழுவதையும் எளிதில் கவர முடியும்",
+          "மோசமான வானிலையால் பாதிக்கப்படாது",
+          "தகவல் இலக்கமுறை வடிவில் கிடைக்கும்"
         ],
         "explanation": "வான்வழிப் புகைப்படம் சிறு பரப்பையே கொள்ளும்; அனுமதி தேவை."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "In a GNSS, the 'User Segment' refers to the",
         "options": [
-          "network of ground stations",
-          "group of satellites",
-          "receiver that converts satellite signals into location, speed and time data",
-          "antenna on the satellite"
+          "worldwide network of ground control stations",
+          "constellation of satellites orbiting the earth",
+          "receiver that converts satellite signals into position data",
+          "radio antenna fitted on the satellite body"
         ],
         "explanation": "Space segment = satellites; control segment = ground stations."
       },
       "ta": {
         "q": "GNSS-இல் 'பயனர் பிரிவு' (User Segment) என்பது",
         "options": [
-          "தரை நிலையங்களின் வலையமைப்பு",
-          "செயற்கைக்கோள் தொகுதி",
-          "செயற்கைக்கோள் சமிக்ஞைகளை இடம், வேகம், நேரத் தரவாக மாற்றும் ஏற்பி",
-          "செயற்கைக்கோளின் அலைவாங்கி"
+          "தரைக் கட்டுப்பாட்டு நிலையங்களின் வலையமைப்பு",
+          "புவியைச் சுற்றும் செயற்கைக்கோள் தொகுதி",
+          "செயற்கைக்கோள் சமிக்ஞையை இடத்தரவாக மாற்றும் ஏற்பி",
+          "செயற்கைக்கோளில் பொருத்திய ஒலிபரப்பு அலைவாங்கி"
         ],
         "explanation": "விண்வெளிப் பிரிவு - செயற்கைக்கோள்கள்; கட்டுப்பாட்டுப் பிரிவு - தரை நிலையங்கள்."
       }
@@ -508,9 +508,9 @@
         "q": "A GIS is a combination of",
         "options": [
           "satellites and ground stations only",
-          "maps and compasses",
-          "computer hardware, software, geographic data and personnel",
-          "cameras and balloons"
+          "paper maps, globes and magnetic compasses",
+          "computers, software, geographic data and people",
+          "aerial cameras and weather balloons only"
         ],
         "explanation": "In GIS each type of data of an area is stored as a separate 'layer' of the map; Google Maps and Google Earth are examples."
       },
@@ -518,9 +518,9 @@
         "q": "GIS என்பது எவற்றின் கூட்டு?",
         "options": [
           "செயற்கைக்கோள், தரை நிலையங்கள் மட்டும்",
-          "வரைபடமும் திசைகாட்டியும்",
-          "கணினி வன்பொருள், மென்பொருள், புவியியல் தரவு, பணியாளர்கள்",
-          "கேமராவும் பலூனும்"
+          "காகித வரைபடங்களும் காந்தத் திசைகாட்டியும்",
+          "கணினிகள், மென்பொருள், புவியியல் தரவு, மனிதர்கள்",
+          "வான்வழிக் கேமராவும் வானிலை பலூனும்"
         ],
         "explanation": "GISஇல் ஒவ்வொரு வகைத் தரவும் தனி அடுக்காகச் சேமிக்கப்படும்."
       }

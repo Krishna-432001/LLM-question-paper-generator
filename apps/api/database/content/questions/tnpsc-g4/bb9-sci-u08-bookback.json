@@ -285,12 +285,12 @@
       "ta": {
         "q": "ஒலி நீடித்திருக்கக் காரணமான மீண்டும் மீண்டும் நிகழும் எதிரொலிப்பு",
         "options": [
-          "எதிரொலி",
-          "ஒளிவிலகல்",
-          "ஒத்ததிர்வு",
-          "எதிர் முழக்கம் (ரிவர்பரேஷன்)"
+          "எதிரொலி நிகழ்வு",
+          "ஒளிவிலகல் நிகழ்வு",
+          "ஒத்ததிர்வு நிகழ்வு",
+          "எதிர் முழக்கம்"
         ],
-        "explanation": "அரங்கங்களில் அளவுக்கு மீறிய எதிர்முழக்கம் விரும்பத்தகாதது; சுவர்களில் ஒலிஉறிஞ்சும் பொருட்கள் பயன்படுகின்றன."
+        "explanation": "அரங்கங்களில் அளவுக்கு மீறிய எதிர்முழக்கம் விரும்பத்தகாதது; சுவர்களில் ஒலிஉறிஞ்சும் பொருட்கள் பயன்படுகின்றன. எதிர் முழக்கம் என்பது ரிவர்பரேஷன்."
       }
     },
     {
@@ -362,20 +362,20 @@
       "en": {
         "q": "Sound travels faster in iron than in water because",
         "options": [
-          "iron is lighter than water",
-          "the speed of sound is greater in solids than in liquids",
-          "iron is a vacuum",
-          "water absorbs all sound"
+          "iron is much lighter in weight than water",
+          "sound travels faster in solids than in liquids",
+          "iron is mostly a vacuum inside its body",
+          "water absorbs all the sound that enters it"
         ],
         "explanation": "Speed of sound at 25 degree C: iron 5950 m s^-1, distilled water 1498 m s^-1."
       },
       "ta": {
         "q": "இரும்பு, நீர் ஆகியவற்றுள் ஒலி வேகமாகப் பரவுவது இரும்பில்; ஏனெனில்",
         "options": [
-          "இரும்பு நீரை விட இலகுவானது",
-          "திரவங்களை விடத் திடப்பொருளில் ஒலியின் வேகம் அதிகம்",
-          "இரும்பு ஒரு வெற்றிடம்",
-          "நீர் ஒலியை முழுவதும் உறிஞ்சுகிறது"
+          "இரும்பு நீரை விட மிகவும் எடை குறைந்தது",
+          "திரவத்தை விடத் திடப்பொருளில் ஒலி வேகம் அதிகம்",
+          "இரும்பின் உட்பகுதி பெரும்பாலும் வெற்றிடம்",
+          "நீர் தன்னுள் வரும் ஒலியை முழுதும் உறிஞ்சுகிறது"
         ],
         "explanation": "25 °C-ல் இரும்பில் 5950; நன்னீரில் 1498 மீ வி^-1."
       }
@@ -449,20 +449,20 @@
       "en": {
         "q": "The sound produced by a vibrating object reaches our ears because",
         "options": [
-          "the particles of the object travel to the ear",
-          "the vibrating object sets adjacent particles of the medium vibrating one after another, carrying the disturbance forward",
-          "the ear sends a signal to the object",
-          "light carries the sound"
+          "the particles of the object travel all the way to the ear",
+          "the vibrating object makes adjacent particles of the medium vibrate",
+          "the ear sends a signal back to the vibrating object",
+          "visible light waves carry the sound to the ear"
         ],
-        "explanation": "Only the disturbance travels; each particle displaces the adjacent particle and returns to its position."
+        "explanation": "Only the disturbance travels; each particle displaces the adjacent particle and returns to its position. The disturbance is carried forward one particle after another."
       },
       "ta": {
         "q": "அதிரும் பொருள் உண்டாக்கும் ஒலி நம் காதை அடைவது",
         "options": [
-          "பொருளின் துகள்கள் காதிற்கு வருவதால்",
-          "ஊடகத்தின் துகள்கள் ஒன்றையொன்று அதிரச் செய்து பாதிப்பை முன்னோக்கிக் கடத்துவதால்",
-          "காது பொருளுக்குச் சமிக்ஞை அனுப்புவதால்",
-          "ஒளி ஒலியைக் கடத்துவதால்"
+          "பொருளின் துகள்களே காதுவரை பயணித்து வருவதால்",
+          "ஊடகத் துகள்கள் ஒன்றையொன்று அதிரச் செய்து பாதிப்பைக் கடத்துவதால்",
+          "காது அதிரும் பொருளுக்குச் சமிக்ஞை அனுப்புவதால்",
+          "கட்புலனாகும் ஒளி அலைகள் ஒலியைக் கடத்துவதால்"
         ],
         "explanation": "பாதிப்பு மட்டுமே பரவும்; ஒவ்வொரு துகளும் அடுத்த துகளை அதிரச் செய்து தன் இடத்திற்குத் திரும்பும்."
       }
@@ -507,22 +507,22 @@
       "en": {
         "q": "SONAR, used to find the depth of the sea, works by",
         "options": [
-          "measuring water temperature",
-          "using visible light under water",
-          "sending radio waves into the air",
-          "sending ultrasonic waves and detecting the waves reflected from the seabed"
+          "measuring the water temperature at depth",
+          "using visible light beams to see the seabed",
+          "sending radio waves up into the air above",
+          "sending ultrasonic waves and detecting their echo"
         ],
-        "explanation": "The time interval between transmission and reception, with the speed of sound in water, gives the distance: 2d/t = v."
+        "explanation": "The time interval between transmission and reception, with the speed of sound in water, gives the distance: 2d/t = v. The waves are reflected from the seabed."
       },
       "ta": {
         "q": "கடலின் ஆழத்தை அறியப் பயன்படும் சோனார் செயல்படும் விதம்",
         "options": [
-          "நீரின் வெப்பநிலையை அளப்பது",
+          "ஆழத்தில் நீரின் வெப்பநிலையை அளப்பது",
           "நீரினுள் கட்புலனாகும் ஒளியைப் பயன்படுத்துவது",
           "காற்றில் வானொலி அலைகளை அனுப்புவது",
-          "மீயொலி அலைகளை அனுப்பி, கடலடியிலிருந்து எதிரொலித்து வரும் அலைகளை உணர்வது"
+          "மீயொலி அலைகளை அனுப்பி எதிரொலியை உணர்வது"
         ],
-        "explanation": "பரப்பியிலிருந்து அனுப்பப்பட்டு எதிரொலித்து வரும் நேரத்தையும் நீரில் ஒலியின் வேகத்தையும் கொண்டு தொலைவு கணக்கிடப்படுகிறது: 2d/t = v."
+        "explanation": "பரப்பியிலிருந்து அனுப்பப்பட்டு எதிரொலித்து வரும் நேரத்தையும் நீரில் ஒலியின் வேகத்தையும் கொண்டு தொலைவு கணக்கிடப்படுகிறது: 2d/t = v. அலைகள் கடலடியிலிருந்து எதிரொலிக்கின்றன."
       }
     },
     {
@@ -536,10 +536,10 @@
       "en": {
         "q": "Which of the following is an application of ultrasound?",
         "options": [
-          "Breaking small kidney stones into fine grains",
-          "Producing X-rays",
-          "Measuring the speed of light",
-          "Generating electricity"
+          "Breaking kidney stones into fine grains",
+          "Producing X-rays to photograph bones",
+          "Measuring the speed of light in vacuum",
+          "Generating electricity in power stations"
         ],
         "explanation": "Ultrasound is used for cleaning, detecting cracks in metals, echo cardiography and breaking kidney stones."
       },
@@ -547,9 +547,9 @@
         "q": "பின்வருவனவற்றுள் மீயொலியின் பயன்பாடு எது?",
         "options": [
           "சிறுநீரகக் கற்களைச் சிறு துகள்களாக உடைப்பது",
-          "X-கதிர்களை உண்டாக்குவது",
-          "ஒளியின் வேகத்தை அளப்பது",
-          "மின்சாரம் தயாரிப்பது"
+          "X-கதிர்களை உண்டாக்கிப் படமெடுப்பது",
+          "வெற்றிடத்தில் ஒளியின் வேகத்தை அளப்பது",
+          "மின்நிலையங்களில் மின்சாரம் தயாரிப்பது"
         ],
         "explanation": "மீயொலி தூய்மையாக்கல், உலோக விரிசல் கண்டறிதல், இதய வரைவி, சிறுநீரகக் கல் உடைத்தல் ஆகியவற்றில் பயன்படுகிறது."
       }

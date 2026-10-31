@@ -102,7 +102,7 @@
         "q": "One kilogram of rice is measured using a",
         "options": [
           "Vernier caliper",
-          "beam (common) balance",
+          "beam balance",
           "screw gauge",
           "metre scale"
         ],
@@ -536,22 +536,22 @@
       "en": {
         "q": "A standard unit is a",
         "options": [
-          "specific magnitude of a physical quantity adopted by law or convention for comparison",
-          "unit used only in the laboratory",
-          "quantity that cannot be measured",
-          "unit that differs from country to country"
+          "a specific magnitude of a quantity accepted for comparison",
+          "a unit used only inside the school laboratory",
+          "a quantity that can never be measured at all",
+          "a unit that differs widely from country to country"
         ],
-        "explanation": "A unit is a standard quantity with which unknown quantities are compared; it is adopted by law or convention."
+        "explanation": "A unit is a standard quantity with which unknown quantities are compared; it is adopted by law or convention. It is adopted by law or convention. It is adopted by law or convention."
       },
       "ta": {
         "q": "படித்தர அலகு என்பது",
         "options": [
-          "சட்டம் அல்லது மரபின்படி ஒப்பிடுவதற்கு ஏற்கப்பட்ட இயற்பியல் அளவின் குறிப்பிட்ட மதிப்பு",
-          "ஆய்வகத்தில் மட்டும் பயன்படும் அலகு",
-          "அளவிட முடியாத அளவு",
-          "நாட்டுக்கு நாடு மாறுபடும் அலகு"
+          "ஒப்பிடுவதற்கு ஏற்கப்பட்ட இயற்பியல் அளவின் குறிப்பிட்ட மதிப்பு",
+          "பள்ளி ஆய்வகத்தில் மட்டுமே பயன்படுத்தப்படும் ஓர் அலகு",
+          "ஒருபோதும் அளவிட முடியாத ஓர் இயற்பியல் அளவு",
+          "நாட்டுக்கு நாடு பெரிதும் மாறுபடும் ஓர் அலகு"
         ],
-        "explanation": "அலகு என்பது தெரியாத அளவை ஒப்பிடப் பயன்படும் படித்தரமான அளவு; அது சட்டம் அல்லது மரபினால் ஏற்கப்பட்டது."
+        "explanation": "அலகு என்பது தெரியாத அளவை ஒப்பிடப் பயன்படும் படித்தரமான அளவு; அது சட்டம் அல்லது மரபினால் ஏற்கப்பட்டது. இது சட்டம் அல்லது மரபின்படி ஏற்கப்பட்டது. இது சட்டம் அல்லது மரபின்படி ஏற்கப்பட்டது."
       }
     },
     {
@@ -577,7 +577,7 @@
         "options": [
           "முறையான கருவி அலகுகள்",
           "அறிவியல் அலகு குறியீடு",
-          "பன்னாட்டு அலகு முறை (International System of Units)",
+          "பன்னாட்டு அலகு முறை",
           "படித்தர இந்திய முறை"
         ],
         "explanation": "SI என்பது International System of Units; இது 1960-இல் பாரிசில் எடைகள், அளவீடுகள் பொது மாநாட்டால் பரிந்துரைக்கப்பட்டது."
@@ -711,7 +711,7 @@
         "q": "Which of the following is correct about mass and weight?",
         "options": [
           "Mass is a vector and varies from place to place; weight is a scalar",
-          "Mass is a scalar and remains the same everywhere; weight is a vector and varies from place to place",
+          "Mass is a scalar and constant; weight is a vector and varies",
           "Both are fundamental quantities measured in kilogram",
           "Mass is measured by a spring balance and weight by a physical balance"
         ],

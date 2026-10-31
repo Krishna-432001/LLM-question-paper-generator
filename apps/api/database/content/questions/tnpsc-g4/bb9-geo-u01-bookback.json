@@ -219,7 +219,7 @@
         "options": [
           "seismic wave",
           "epicentre",
-          "focus (hypocentre)",
+          "focus",
           "magnitude"
         ],
         "explanation": "The focus (hypocentre) is the point of origin; the epicentre lies directly above it on the surface."
@@ -432,7 +432,7 @@
         "options": [
           "கண்ட நகர்வு மட்டும்",
           "சிதைவுறுதல்",
-          "புவித்தட்டு நகர்வியல் (Plate tectonics)",
+          "புவித்தட்டு நகர்வியல்",
           "சமநிலை"
         ],
         "explanation": "நிலக்கோளம் புவித்தட்டுகளாகப் பிரிந்துள்ளது; அவற்றின் நகர்வு தட்டு இயக்கவியல் (Plate tectonics) எனப்படுகிறது."
@@ -479,9 +479,9 @@
         "q": "Which of the following is NOT a type of seismic wave?",
         "options": [
           "Tidal waves",
-          "P-waves",
-          "S-waves",
-          "L-waves"
+          "Primary P-waves",
+          "Secondary S-waves",
+          "Surface L-waves"
         ],
         "explanation": "Seismic waves are of three types: primary (P), secondary (S) and surface (L) waves."
       },
@@ -537,7 +537,7 @@
         "q": "SIAL (continental crust) floats over SIMA (oceanic crust) because",
         "options": [
           "it is made of nickel and iron",
-          "it is lighter (less dense) than SIMA",
+          "it is less dense than SIMA",
           "it is hotter than SIMA",
           "it is thinner than SIMA"
         ],
@@ -565,20 +565,20 @@
       "en": {
         "q": "Igneous rocks are called Primary or Mother rocks because",
         "options": [
-          "they are the oldest fossils",
-          "all other rocks are formed directly or indirectly from them",
-          "they are formed by deposits of rivers",
-          "they contain minerals only"
+          "they are the oldest fossils found in the crust",
+          "all other rocks are formed from them in some way",
+          "they are formed from sediments laid by rivers",
+          "they consist of minerals and no other material"
         ],
-        "explanation": "All other rocks are directly or indirectly formed from igneous rocks."
+        "explanation": "All other rocks are directly or indirectly formed from igneous rocks. Every other rock forms from them directly or indirectly."
       },
       "ta": {
         "q": "தீப்பாறைகள் முதன்மைப் பாறைகள் அல்லது தாய்ப்பாறைகள் எனப்படுவதற்குக் காரணம்",
         "options": [
-          "இவை மிகப் பழைய படிமங்கள்",
-          "மற்ற பாறைகள் அனைத்தும் நேரடியாகவோ மறைமுகமாகவோ இவற்றிலிருந்து உருவாகின்றன",
-          "இவை ஆறுகளின் படிவுகளால் உருவாகின்றன",
-          "இவை கனிமங்கள் மட்டுமே"
+          "இவை பாறைகளிலுள்ள மிகப் பழைய படிமங்கள்",
+          "பிற பாறைகள் அனைத்தும் இவற்றிலிருந்தே உருவாகின்றன",
+          "இவை ஆறுகள் கொண்டுவரும் வண்டல் படிவுகளால் உருவாகின்றன",
+          "இவை கனிமங்களால் மட்டுமே ஆனவை, வேறு பொருளில்லை"
         ],
         "explanation": "பிற பாறைகள் அனைத்தும் தீப்பாறைகளிலிருந்தே உருவாகின்றன."
       }
@@ -664,10 +664,10 @@
         "options": [
           "பக்கவாட்டில் உரசிச் செல்கின்றன",
           "ஒன்றை நோக்கி ஒன்று நகர்கின்றன",
-          "நகர்வதில்லை",
-          "ஒன்றை விட்டு ஒன்று விலகுகின்றன; பாறைக்குழம்பு மேலெழும்புகிறது"
+          "எந்த இடத்திலும் நகர்வதில்லை",
+          "ஒன்றை விட்டு ஒன்று விலகிச் செல்கின்றன"
         ],
-        "explanation": "விலகும் எல்லையில் தட்டுகள் விலகும் (எ.கா. மத்திய அட்லாண்டிக் முகடு); இணையும் எல்லையில் நெருங்கும்."
+        "explanation": "விலகும் எல்லையில் தட்டுகள் விலகும் (எ.கா. மத்திய அட்லாண்டிக் முகடு); இணையும் எல்லையில் நெருங்கும். பாறைக்குழம்பு மேலெழும்புகிறது."
       }
     },
     {
