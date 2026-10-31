@@ -14,22 +14,22 @@
       "en": {
         "q": "LibreOffice Calc is mainly developed for",
         "options": [
-          "calculation using spreadsheets of rows and columns",
-          "drawing pictures",
-          "creating presentations",
-          "browsing the internet"
+          "calculation using spreadsheets",
+          "drawing and editing pictures",
+          "creating slide presentations",
+          "browsing websites on the internet"
         ],
-        "explanation": "Common uses of electronic spreadsheets include bills, income-tax calculations, invoices, inventory control, financial accounting and analysis of students' results."
+        "explanation": "Common uses of electronic spreadsheets include bills, income-tax calculations, invoices, inventory control, financial accounting and analysis of students' results. Calc uses spreadsheets of rows and columns."
       },
       "ta": {
         "q": "லிப்ரே ஆஃபீஸ் கால்க் முக்கியமாக உருவாக்கப்பட்டது",
         "options": [
-          "நிரைகளும் நெடுவரிசைகளும் கொண்ட விரிதாள்களில் கணக்கிட",
-          "படங்கள் வரைய",
+          "விரிதாள்களில் கணக்கிட",
+          "படங்கள் வரைந்து திருத்த",
           "காட்சியளிப்புகள் உருவாக்க",
           "இணையத்தில் உலவ"
         ],
-        "explanation": "கட்டணங்கள், வருமானவரிக் கணக்கீடு, விலைப்பட்டியல்கள், சரக்குக் கட்டுப்பாடு, நிதிக் கணக்கியல், மாணவர் தேர்ச்சிப் பகுப்பாய்வு ஆகியவை மின்னணு விரிதாள்களின் பொதுவான பயன்கள்."
+        "explanation": "கட்டணங்கள், வருமானவரிக் கணக்கீடு, விலைப்பட்டியல்கள், சரக்குக் கட்டுப்பாடு, நிதிக் கணக்கியல், மாணவர் தேர்ச்சிப் பகுப்பாய்வு ஆகியவை மின்னணு விரிதாள்களின் பொதுவான பயன்கள். கால்க் நிரைகளும் நெடுவரிசைகளும் கொண்ட விரிதாள்களைப் பயன்படுத்துகிறது."
       }
     },
     {
@@ -256,9 +256,9 @@
       "ta": {
         "q": "விரிதாளில் தரவுகளை ஏறுவரிசை அல்லது இறங்குவரிசையில் அமைப்பது",
         "options": [
-          "வரிசைப்படுத்துதல் (Sorting)",
-          "இணைத்தல் (Merging)",
-          "வரைபடமாக்கல்",
+          "வரிசைப்படுத்துதல்",
+          "ஒன்றிணைத்தல்",
+          "வரைபடமாக்குதல்",
           "வடிகட்டுதல்"
         ],
         "explanation": "Data → Sort மூலம் வரிசைப்படுத்தலாம்; Insert → Chart மூலம் சேர்க்கப்படும் வரைபடங்கள் எண் தரவுகளைக் காட்சிப்படுத்த உதவுகின்றன."

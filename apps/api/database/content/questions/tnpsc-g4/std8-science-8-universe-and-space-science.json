@@ -84,10 +84,10 @@
         "options": [
           "எத்தில் ஆல்கஹால்",
           "ஹைட்ரசீன்",
-          "புகையும் நைட்ரிக் அமிலம்",
+          "நைட்ரிக் அமிலம்",
           "திரவ ஹைட்ரஜன்"
         ],
-        "explanation": "ஹைட்ரசீன், எத்தில் ஆல்கஹால், திரவ ஹைட்ரஜன் ஆகியவை திரவ எரிபொருட்கள்; ஆக்சிஜன், ஓசோன், ஹைட்ரஜன் பெராக்சைடு ஆகியவை பிற ஆக்சிஜனேற்றிகள்."
+        "explanation": "ஹைட்ரசீன், எத்தில் ஆல்கஹால், திரவ ஹைட்ரஜன் ஆகியவை திரவ எரிபொருட்கள்; ஆக்சிஜன், ஓசோன், ஹைட்ரஜன் பெராக்சைடு ஆகியவை பிற ஆக்சிஜனேற்றிகள். இது புகையும் நைட்ரிக் அமிலம் ஆகும்."
       }
     },
     {
@@ -140,8 +140,8 @@
       "ta": {
         "q": "கிரையோஜெனிக் உந்துபொருட்களில் எரிபொருள் அல்லது ஆக்சிஜனேற்றி அல்லது இரண்டும்",
         "options": [
-          "மிகக் குறைந்த வெப்பநிலையில் சேமிக்கப்படும் திரவமாக்கப்பட்ட வாயுக்கள்",
-          "ஏற்கெனவே கலந்த திண்மங்கள்",
+          "மிகக் குறைந்த வெப்பநிலையில் சேமிக்கப்படும் திரவ வாயுக்கள்",
+          "ஏற்கெனவே ஒன்றாகக் கலக்கப்பட்ட திண்மங்கள்",
           "மிக உயர் வெப்பநிலையில் சேமிக்கப்படும் வாயுக்கள்",
           "அறை வெப்பநிலையில் சேமிக்கப்படும் தூள்கள்"
         ],
@@ -160,21 +160,21 @@
         "q": "Multistage rockets are used to launch satellites because",
         "options": [
           "multistage rockets need no fuel",
-          "the very high velocity needed cannot be developed by a single rocket, and giving it at the surface would burn the rocket by air friction",
+          "a single rocket cannot develop the very high velocity needed",
           "a single rocket cannot carry a guidance system",
-          "multistage rockets can rise only horizontally"
+          "multistage rockets are launched horizontally"
         ],
-        "explanation": "A rocket first rises vertically through the dense lower atmosphere and is then tilted by its guidance system."
+        "explanation": "A rocket first rises vertically through the dense lower atmosphere and is then tilted by its guidance system. Giving that velocity at the surface would burn the rocket by air friction."
       },
       "ta": {
         "q": "செயற்கைக்கோள்களை ஏவப் பல்நிலை ராக்கெட்டுகள் பயன்படுத்தப்படுவதன் காரணம்",
         "options": [
           "பல்நிலை ராக்கெட்டுகளுக்கு எரிபொருள் தேவையில்லை",
-          "தேவையான மிக அதிக வேகத்தை ஒற்றை ராக்கெட்டால் உருவாக்க இயலாது; புவிப்பரப்பிலேயே அவ்வேகம் தந்தால் காற்று உராய்வால் ராக்கெட் எரிந்துவிடும்",
+          "தேவையான மிக அதிக வேகத்தை ஒற்றை ராக்கெட்டால் உருவாக்க இயலாது",
           "ஒற்றை ராக்கெட்டால் வழிகாட்டும் அமைப்பைச் சுமக்க இயலாது",
-          "பல்நிலை ராக்கெட்டுகள் கிடைமட்டமாக மட்டுமே எழும்"
+          "பல்நிலை ராக்கெட்டுகள் கிடைமட்டமாக ஏவப்படுகின்றன"
         ],
-        "explanation": "ராக்கெட் முதலில் அடர்த்தியான கீழ் வளிமண்டலத்தைக் கடக்கச் செங்குத்தாக எழுந்து, பின் வழிகாட்டும் அமைப்பால் சாய்க்கப்படுகிறது."
+        "explanation": "ராக்கெட் முதலில் அடர்த்தியான கீழ் வளிமண்டலத்தைக் கடக்கச் செங்குத்தாக எழுந்து, பின் வழிகாட்டும் அமைப்பால் சாய்க்கப்படுகிறது. புவிப்பரப்பிலேயே அவ்வேகம் தந்தால் காற்று உராய்வால் ராக்கெட் எரிந்துவிடும்."
       }
     },
     {
@@ -449,22 +449,22 @@
       "en": {
         "q": "We always see only one side of the Moon because",
         "options": [
-          "the Earth blocks the other side",
-          "the Moon does not rotate at all",
-          "the other side has no sunlight",
-          "its period of rotation on its axis equals its period of revolution around the Earth"
+          "the Earth hides the other side from view",
+          "the Moon does not rotate on its axis",
+          "the other side is always in the Sun's shadow",
+          "its rotation period equals its revolution period"
         ],
-        "explanation": "The Moon, the Earth's only natural satellite, is about 3,84,400 km away on average, has a diameter of 3,474 km and has no atmosphere."
+        "explanation": "The Moon, the Earth's only natural satellite, is about 3,84,400 km away on average, has a diameter of 3,474 km and has no atmosphere. Its period of rotation on its axis equals its period of revolution around the Earth."
       },
       "ta": {
         "q": "நிலவின் ஒரு பக்கத்தை மட்டுமே நாம் எப்போதும் காண்பதன் காரணம்",
         "options": [
-          "புவி மறுபக்கத்தை மறைக்கிறது",
-          "நிலவு சுழல்வதே இல்லை",
-          "மறுபக்கத்துக்குச் சூரிய ஒளி கிடைப்பதில்லை",
-          "அது தன் அச்சில் சுழலும் காலமும் புவியைச் சுற்றும் காலமும் சமம்"
+          "புவி மறுபக்கத்தை நம் பார்வையிலிருந்து மறைக்கிறது",
+          "நிலவு தன் அச்சில் சுழலாமல் உள்ளது",
+          "மறுபக்கம் எப்போதும் சூரிய நிழலில் இருக்கிறது",
+          "அச்சில் சுழலும் காலமும் புவியைச் சுற்றும் காலமும் சமம்"
         ],
-        "explanation": "புவியின் ஒரே இயற்கைத் துணைக்கோளான நிலவு சராசரியாக 3,84,400 கி.மீ. தொலைவில் உள்ளது; அதன் விட்டம் 3,474 கி.மீ.; அதற்கு வளிமண்டலம் இல்லை."
+        "explanation": "புவியின் ஒரே இயற்கைத் துணைக்கோளான நிலவு சராசரியாக 3,84,400 கி.மீ. தொலைவில் உள்ளது; அதன் விட்டம் 3,474 கி.மீ.; அதற்கு வளிமண்டலம் இல்லை. நிலவு தன் அச்சில் சுழலும் காலமும் புவியைச் சுற்றும் காலமும் சமம்."
       }
     },
     {
@@ -518,11 +518,11 @@
         "q": "நாசா-இஸ்ரோ கூட்டுச் செயற்கைக்கோளான NISAR இல் 'SAR' என்பதன் விரிவு",
         "options": [
           "Satellite Antenna Receiver",
-          "Synthetic Aperture Radar (செயற்கைத் துளை ரேடார்)",
+          "Synthetic Aperture Radar",
           "Solar Array Regulator",
           "Space Atmospheric Research"
         ],
-        "explanation": "NISAR என்பது NASA-ISRO Synthetic Aperture Radar செயற்கைக்கோள்; செவ்வாய் ஆய்விலும் இணைந்து செயல்பட நாசாவும் இஸ்ரோவும் ஒப்புக்கொண்டன."
+        "explanation": "NISAR என்பது NASA-ISRO Synthetic Aperture Radar செயற்கைக்கோள்; செவ்வாய் ஆய்விலும் இணைந்து செயல்பட நாசாவும் இஸ்ரோவும் ஒப்புக்கொண்டன. SAR என்பது செயற்கைத் துளை ரேடார் ஆகும்."
       }
     },
     {

@@ -74,20 +74,20 @@
         "options": [
           "Gelidium",
           "Laminaria",
-          "Chlorella pyrenoidosa",
+          "Chlorella",
           "Polysiphonia"
         ],
-        "explanation": "Chlorella and Spirulina are also used to produce single-cell protein (SCP)."
+        "explanation": "Chlorella and Spirulina are also used to produce single-cell protein (SCP). The species used is Chlorella pyrenoidosa."
       },
       "ta": {
         "q": "விண்வெளிப் பயணத்தில் கார்பன் டைஆக்சைடை நீக்கவும் மனிதக் கழிவுகளைச் சிதைக்கவும் பயன்படும் பாசி",
         "options": [
           "ஜெலிடியம்",
           "லாமினேரியா",
-          "குளோரெல்லா பைரினாய்டோசா",
+          "குளோரெல்லா",
           "பாலிசைஃபோனியா"
         ],
-        "explanation": "குளோரெல்லாவும் ஸ்பைருலினாவும் ஒருசெல் புரதம் (SCP) தயாரிக்கவும் பயன்படுகின்றன."
+        "explanation": "குளோரெல்லாவும் ஸ்பைருலினாவும் ஒருசெல் புரதம் (SCP) தயாரிக்கவும் பயன்படுகின்றன. பயன்படும் இனம் குளோரெல்லா பைரினாய்டோசா."
       }
     },
     {
@@ -160,21 +160,21 @@
         "q": "Fungi such as Ashbya gossypii are used to produce",
         "options": [
           "vitamin C",
-          "vitamin B2 (riboflavin)",
+          "vitamin B2",
           "vitamin K",
           "vitamin D"
         ],
-        "explanation": "The most common edible (button) mushroom is Agaricus; yeast's enzymes invertase and zymase ferment molasses into alcohol."
+        "explanation": "The most common edible (button) mushroom is Agaricus; yeast's enzymes invertase and zymase ferment molasses into alcohol. Vitamin B2 is also called riboflavin."
       },
       "ta": {
         "q": "ஆஷ்பியா காசிப்பி போன்ற பூஞ்சைகள் தயாரிக்கப் பயன்படுவது",
         "options": [
           "வைட்டமின் C",
-          "வைட்டமின் B2 (ரிபோஃபிளேவின்)",
+          "வைட்டமின் B2",
           "வைட்டமின் K",
           "வைட்டமின் D"
         ],
-        "explanation": "மிகப் பொதுவான உண்ணக்கூடிய (பொத்தான்) காளான் அகாரிகஸ்; ஈஸ்டின் இன்வர்டேஸ், சைமேஸ் நொதிகள் கரும்புச் சக்கையை ஆல்கஹாலாக நொதிக்கச் செய்கின்றன."
+        "explanation": "மிகப் பொதுவான உண்ணக்கூடிய (பொத்தான்) காளான் அகாரிகஸ்; ஈஸ்டின் இன்வர்டேஸ், சைமேஸ் நொதிகள் கரும்புச் சக்கையை ஆல்கஹாலாக நொதிக்கச் செய்கின்றன. வைட்டமின் B2 ரிபோஃபிளேவின் எனவும் அழைக்கப்படும்."
       }
     },
     {
@@ -422,20 +422,20 @@
         "options": [
           "Gaspard Bauhin",
           "Carolus Linnaeus",
-          "Augustin-Pyramus de Candolle",
+          "A. P. de Candolle",
           "George Bentham"
         ],
-        "explanation": "Taxonomy deals with the identification, classification, description and nomenclature of living organisms."
+        "explanation": "Taxonomy deals with the identification, classification, description and nomenclature of living organisms. His full name is Augustin-Pyramus de Candolle."
       },
       "ta": {
         "q": "'taxis' (அமைப்பு), 'nomos' (விதிகள்) என்ற கிரேக்கச் சொற்களிலிருந்து வந்த 'வகைப்பாட்டியல்' (taxonomy) என்ற சொல்லை முதலில் உருவாக்கியவர்",
         "options": [
           "காஸ்பர்டு பாஹின்",
           "கரோலஸ் லின்னேயஸ்",
-          "அகஸ்டின்-பிரமஸ் டி கேண்டோல்",
+          "ஏ. பி. டி கேண்டோல்",
           "ஜார்ஜ் பெந்தம்"
         ],
-        "explanation": "உயிரினங்களை அடையாளம் காணல், வகைப்படுத்தல், விவரித்தல், பெயரிடல் ஆகியவற்றைப் பற்றியது வகைப்பாட்டியல்."
+        "explanation": "உயிரினங்களை அடையாளம் காணல், வகைப்படுத்தல், விவரித்தல், பெயரிடல் ஆகியவற்றைப் பற்றியது வகைப்பாட்டியல். அவரது முழுப்பெயர் அகஸ்டின்-பிரமஸ் டி கேண்டோல்."
       }
     },
     {
@@ -452,9 +452,9 @@
           "Pinax Theatri Botanici",
           "Species Plantarum",
           "Systema Naturae",
-          "Genera Plantarum, in three volumes"
+          "Genera Plantarum"
         ],
-        "explanation": "It is based on morphological and reproductive characters and is widely used in herbaria and botanical gardens; Linnaeus's artificial system appears in Species Plantarum."
+        "explanation": "It is based on morphological and reproductive characters and is widely used in herbaria and botanical gardens; Linnaeus's artificial system appears in Species Plantarum. Genera Plantarum was published in three volumes."
       },
       "ta": {
         "q": "விதைத் தாவரங்களுக்கான பெந்தம்-ஹூக்கரின் இயற்கை வகைப்பாட்டு முறை வெளியிடப்பட்ட நூல்",
@@ -462,9 +462,9 @@
           "பினாக்ஸ் தியேட்ரி பொட்டானிசி",
           "ஸ்பீசிஸ் பிளாண்டாரம்",
           "சிஸ்டமா நேச்சுரே",
-          "ஜெனரா பிளாண்டாரம் — மூன்று தொகுதிகள்"
+          "ஜெனரா பிளாண்டாரம்"
         ],
-        "explanation": "இது புறத்தோற்ற, இனப்பெருக்கப் பண்புகளை அடிப்படையாகக் கொண்டு உலகெங்கும் உலர் தாவரத் தொகுப்பகங்களிலும் தாவரவியல் பூங்காக்களிலும் பரவலாகப் பயன்படுகிறது; லின்னேயஸின் செயற்கை முறை ஸ்பீசிஸ் பிளாண்டாரத்தில் உள்ளது."
+        "explanation": "இது புறத்தோற்ற, இனப்பெருக்கப் பண்புகளை அடிப்படையாகக் கொண்டு உலகெங்கும் உலர் தாவரத் தொகுப்பகங்களிலும் தாவரவியல் பூங்காக்களிலும் பரவலாகப் பயன்படுகிறது; லின்னேயஸின் செயற்கை முறை ஸ்பீசிஸ் பிளாண்டாரத்தில் உள்ளது. ஜெனரா பிளாண்டாரம் மூன்று தொகுதிகளாக வெளியிடப்பட்டது."
       }
     },
     {
@@ -538,20 +538,20 @@
         "options": [
           "flowering stem",
           "naked seed",
-          "closed (box) seed",
+          "closed seed",
           "hidden spore"
         ],
-        "explanation": "In angiosperms the ovules are enclosed in the ovary; gymnosperms are naked-seeded plants."
+        "explanation": "In angiosperms the ovules are enclosed in the ovary; gymnosperms are naked-seeded plants. The seed is enclosed in a box-like fruit."
       },
       "ta": {
         "q": "'Angiosperm' என்ற சொல்லின் கிரேக்கப் பொருள்",
         "options": [
           "மலரும் தண்டு",
           "திறந்த விதை",
-          "மூடிய (பெட்டி) விதை",
+          "மூடிய விதை",
           "மறைந்த வித்து"
         ],
-        "explanation": "மூடிய விதைத் தாவரங்களில் சூல்கள் சூலகத்தால் மூடப்பட்டுள்ளன; திறந்த விதைத் தாவரங்களில் விதைகள் மூடப்படுவதில்லை."
+        "explanation": "மூடிய விதைத் தாவரங்களில் சூல்கள் சூலகத்தால் மூடப்பட்டுள்ளன; திறந்த விதைத் தாவரங்களில் விதைகள் மூடப்படுவதில்லை. விதை பெட்டி போன்ற கனியினுள் மூடப்பட்டுள்ளது."
       }
     }
   ]

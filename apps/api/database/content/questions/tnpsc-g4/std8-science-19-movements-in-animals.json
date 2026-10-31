@@ -74,20 +74,20 @@
         "options": [
           "Pelvic fin",
           "Pectoral fin",
-          "Caudal (tail) fin",
+          "Caudal fin",
           "Dorsal fin"
         ],
-        "explanation": "A fish has a streamlined body to reduce friction, and swims by forming loops alternately on the two sides of its body."
+        "explanation": "A fish has a streamlined body to reduce friction, and swims by forming loops alternately on the two sides of its body. The caudal fin is the tail fin."
       },
       "ta": {
         "q": "பாடநூலின்படி, நீந்தும்போது திசையை மாற்ற உதவும் மீனின் துடுப்பு",
         "options": [
           "இடுப்புத் துடுப்பு",
           "மார்புத் துடுப்பு",
-          "வால் துடுப்பு (Caudal fin)",
+          "வால் துடுப்பு",
           "முதுகுத் துடுப்பு"
         ],
-        "explanation": "உராய்வைக் குறைக்க மீனுக்கு நெறிப்படுத்தப்பட்ட உடல் உள்ளது; உடலின் இருபுறமும் மாறி மாறி வளைவுகளை உருவாக்கி அது நீந்துகிறது."
+        "explanation": "உராய்வைக் குறைக்க மீனுக்கு நெறிப்படுத்தப்பட்ட உடல் உள்ளது; உடலின் இருபுறமும் மாறி மாறி வளைவுகளை உருவாக்கி அது நீந்துகிறது. வால் துடுப்பு என்பது காடல் துடுப்பு ஆகும்."
       }
     },
     {
@@ -130,12 +130,12 @@
       "en": {
         "q": "The joints between the bones of the skull box are examples of",
         "options": [
-          "fixed (immovable) joints",
+          "fixed joints",
           "slightly movable joints",
           "hinge joints",
           "ball and socket joints"
         ],
-        "explanation": "The joints between a rib and the breast bone, or between vertebrae, are slightly movable; freely movable joints allow varying degrees of movement."
+        "explanation": "The joints between a rib and the breast bone, or between vertebrae, are slightly movable; freely movable joints allow varying degrees of movement. Fixed joints are also called immovable joints."
       },
       "ta": {
         "q": "மண்டையோட்டுப் பெட்டியின் எலும்புகளுக்கு இடையிலான மூட்டுகள் எதற்கு எடுத்துக்காட்டு?",
@@ -220,9 +220,9 @@
           "the fusion of skull bones",
           "excess calcium in the bones",
           "too much synovial fluid",
-          "friction of the articular cartilage, lack of synovial fluid, or deposition of uric acid crystals"
+          "friction of the articular cartilage"
         ],
-        "explanation": "Synovial fluid, with the consistency of egg white, reduces friction between the cartilages in a joint; the articular cartilage absorbs shock."
+        "explanation": "Synovial fluid, with the consistency of egg white, reduces friction between the cartilages in a joint; the articular cartilage absorbs shock. Lack of synovial fluid or deposition of uric acid crystals can also cause it."
       },
       "ta": {
         "q": "மூட்டு அழற்சியான மூட்டுவாதம் (ஆர்த்ரைட்டிஸ்) ஏற்படக் காரணமாகலாம்",
@@ -230,9 +230,9 @@
           "மண்டையோட்டு எலும்புகள் இணைதல்",
           "எலும்புகளில் அதிகக் கால்சியம்",
           "அதிகப்படியான சினோவியல் திரவம்",
-          "மூட்டுக் குருத்தெலும்பு உராய்வு, சினோவியல் திரவக் குறைபாடு அல்லது யூரிக் அமிலப் படிகங்கள் படிதல்"
+          "மூட்டுக் குருத்தெலும்பு உராய்வு"
         ],
-        "explanation": "முட்டை வெள்ளைக் கரு போன்ற சினோவியல் திரவம் மூட்டிலுள்ள குருத்தெலும்புகளுக்கிடையே உராய்வைக் குறைக்கிறது; மூட்டுக் குருத்தெலும்பு அதிர்வை உள்வாங்குகிறது."
+        "explanation": "முட்டை வெள்ளைக் கரு போன்ற சினோவியல் திரவம் மூட்டிலுள்ள குருத்தெலும்புகளுக்கிடையே உராய்வைக் குறைக்கிறது; மூட்டுக் குருத்தெலும்பு அதிர்வை உள்வாங்குகிறது. சினோவியல் திரவக் குறைபாடு அல்லது யூரிக் அமிலப் படிகங்கள் படிதலும் இதற்குக் காரணமாகலாம்."
       }
     },
     {
@@ -518,7 +518,7 @@
         "q": "வரியற்ற, ஒரே மைய உட்கரு கொண்ட, தன்னிச்சையற்ற, இரத்தக் குழாய்கள், கருவிழி, மூச்சுக்கிளைக் குழல்களில் காணப்படும் தசைகள்",
         "options": [
           "எலும்புத் தசைகள்",
-          "மென் தசைகள் (Smooth muscles)",
+          "மென் தசைகள்",
           "இதயத் தசைகள்",
           "தன்னிச்சைத் தசைகள்"
         ],

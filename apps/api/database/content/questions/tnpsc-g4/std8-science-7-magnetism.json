@@ -304,22 +304,22 @@
       "en": {
         "q": "Which of the following does NOT cause a magnet to lose its magnetism?",
         "options": [
-          "Hammering it continuously",
+          "Hammering it with an iron hammer",
           "Heating it to a high temperature",
-          "Storing bar magnets in pairs with keepers across their poles",
+          "Storing bar magnets in pairs with keepers",
           "Dropping it repeatedly from a height"
         ],
-        "explanation": "Improper storage, leaving a magnet idle for long and passing a varying current through a coil around it also weaken a magnet."
+        "explanation": "Improper storage, leaving a magnet idle for long and passing a varying current through a coil around it also weaken a magnet. The keepers are placed across the poles of the paired magnets."
       },
       "ta": {
         "q": "பின்வருவனவற்றுள் காந்தம் தன் காந்தத்தன்மையை இழக்கக் காரணமாகாதது எது?",
         "options": [
-          "தொடர்ந்து சுத்தியால் அடித்தல்",
+          "தொடர்ந்து இரும்புச் சுத்தியால் அடித்தல்",
           "உயர் வெப்பநிலைக்குச் சூடாக்குதல்",
-          "சட்டக்காந்தங்களை முனைகளின் குறுக்கே காப்புத்துண்டுகளுடன் இணையாகச் சேமித்தல்",
+          "சட்டக்காந்தங்களை இணையாகக் காப்புத்துண்டுடன் சேமித்தல்",
           "உயரத்திலிருந்து மீண்டும் மீண்டும் கீழே போடுதல்"
         ],
-        "explanation": "முறையற்ற சேமிப்பு, நீண்டகாலம் பயன்படுத்தாமல் வைத்தல், காந்தத்தைச் சுற்றியுள்ள சுருளில் மாறும் மின்னோட்டம் செலுத்துதல் ஆகியவையும் காந்தத்தை வலுவிழக்கச் செய்கின்றன."
+        "explanation": "முறையற்ற சேமிப்பு, நீண்டகாலம் பயன்படுத்தாமல் வைத்தல், காந்தத்தைச் சுற்றியுள்ள சுருளில் மாறும் மின்னோட்டம் செலுத்துதல் ஆகியவையும் காந்தத்தை வலுவிழக்கச் செய்கின்றன. காப்புத்துண்டுகள் இணையான காந்தங்களின் முனைகளின் குறுக்கே வைக்கப்படுகின்றன."
       }
     },
     {
@@ -402,7 +402,7 @@
         "q": "புறா போன்ற விலங்குகள் வழிகண்டறியப் புவிக் காந்தப்புலத்தை உணரும் திறன்",
         "options": [
           "எதிரொலி இடமறிதல்",
-          "காந்த உணர்வு (Magneto-reception)",
+          "காந்த உணர்வு",
           "ஒளிக்கால அளவியல்",
           "வேதி உணர்வு"
         ],

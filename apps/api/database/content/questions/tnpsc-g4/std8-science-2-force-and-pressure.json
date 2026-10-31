@@ -24,7 +24,7 @@
       "ta": {
         "q": "ஒரு பொருளின் பரப்பின் மீது செங்குத்தாகச் செயல்படும் விசை",
         "options": [
-          "உந்துவிசை (Thrust)",
+          "உந்துவிசை",
           "அழுத்தம்",
           "உராய்வு",
           "இழுவிசை"
@@ -101,22 +101,22 @@
       "en": {
         "q": "Heavy goods carriers are provided with more wheels in order to",
         "options": [
-          "reduce the weight of the vehicle",
-          "increase the pressure on the road",
-          "increase the speed of the vehicle",
-          "increase the area of contact and so decrease the pressure on the road"
+          "reduce the weight of the vehicle to save fuel",
+          "reduce the area of contact and increase pressure",
+          "increase the speed to save travel time",
+          "increase the area of contact to reduce pressure on the road"
         ],
-        "explanation": "For the same reason, back-packs have broad straps to reduce pressure on the shoulders."
+        "explanation": "For the same reason, back-packs have broad straps to reduce pressure on the shoulders. A larger area of contact decreases the pressure on the road."
       },
       "ta": {
         "q": "கனரகச் சரக்கு வாகனங்களுக்கு அதிகச் சக்கரங்கள் பொருத்தப்படுவதன் நோக்கம்",
         "options": [
-          "வாகனத்தின் எடையைக் குறைத்தல்",
-          "சாலை மீதான அழுத்தத்தை அதிகரித்தல்",
-          "வாகனத்தின் வேகத்தை அதிகரித்தல்",
+          "வாகனத்தின் எடையைக் குறைத்து எரிபொருளைச் சேமித்தல்",
+          "தொடுபரப்பைக் குறைத்துச் சாலை மீதான அழுத்தத்தை அதிகரித்தல்",
+          "வாகனத்தின் வேகத்தை அதிகரித்துப் பயண நேரத்தைக் குறைத்தல்",
           "தொடுபரப்பை அதிகரித்துச் சாலை மீதான அழுத்தத்தைக் குறைத்தல்"
         ],
-        "explanation": "இதே காரணத்தால் தோள்பைகளில் தோள் மீதான அழுத்தத்தைக் குறைக்க அகலமான வார்கள் தரப்படுகின்றன."
+        "explanation": "இதே காரணத்தால் தோள்பைகளில் தோள் மீதான அழுத்தத்தைக் குறைக்க அகலமான வார்கள் தரப்படுகின்றன. தொடுபரப்பு அதிகரிப்பதால் சாலை மீதான அழுத்தம் குறைகிறது."
       }
     },
     {
@@ -160,7 +160,7 @@
         "q": "A peeled boiled egg placed on the mouth of a flask in which paper has just burnt gets pushed into the flask. This happens because",
         "options": [
           "the heat inside the flask softens and sucks in the egg",
-          "the air pressure inside the flask falls, and the outside atmospheric pressure pushes the egg in",
+          "the lower pressure inside the flask lets the outside air push the egg in",
           "the egg becomes heavier after cooling",
           "the burning paper produces a gas that attracts the egg"
         ],
@@ -170,7 +170,7 @@
         "q": "காகிதம் எரிந்த குடுவையின் வாயில் வைக்கப்பட்ட, தோல் உரித்த வேகவைத்த முட்டை குடுவைக்குள் தள்ளப்படுகிறது. இதற்குக் காரணம்",
         "options": [
           "குடுவையினுள் உள்ள வெப்பம் முட்டையை மென்மையாக்கி உறிஞ்சுகிறது",
-          "குடுவையினுள் காற்றழுத்தம் குறைந்து, வெளிப்புற வளிமண்டல அழுத்தம் முட்டையை உள்ளே தள்ளுகிறது",
+          "குடுவையினுள் அழுத்தம் குறைவதால் வெளிக்காற்று முட்டையை உள்ளே தள்ளுகிறது",
           "குளிர்ந்தபின் முட்டை கனமாகிறது",
           "எரியும் காகிதம் முட்டையைக் கவரும் வாயுவை உண்டாக்குகிறது"
         ],
@@ -286,7 +286,7 @@
         "q": "பாகுநிலையின் CGS அலகு",
         "options": [
           "பாஸ்கல்",
-          "பாய்ஸ் (poise)",
+          "பாய்ஸ்",
           "நியூட்டன் / மீட்டர்",
           "டைன்"
         ],
@@ -336,9 +336,9 @@
           "the electric charge on the surfaces",
           "the magnetic attraction between the surfaces",
           "the air trapped between the surfaces",
-          "irregularities (geometrical dissimilarities) on the surfaces in contact"
+          "irregularities on the surfaces in contact"
         ],
-        "explanation": "Friction always acts opposite to the motion; it opposes motion, causes wear and tear, and produces heat."
+        "explanation": "Friction always acts opposite to the motion; it opposes motion, causes wear and tear, and produces heat. These irregularities are geometrical dissimilarities."
       },
       "ta": {
         "q": "சார்பு இயக்கத்திலுள்ள இரு பரப்புகளுக்கு இடையே உராய்வு தோன்றுவதற்கு முக்கியக் காரணம்",
@@ -346,9 +346,9 @@
           "பரப்புகளிலுள்ள மின்னூட்டம்",
           "பரப்புகளுக்கிடையிலான காந்தக் கவர்ச்சி",
           "பரப்புகளுக்கிடையே சிக்கிய காற்று",
-          "தொடும் பரப்புகளின் ஒழுங்கின்மைகள் (வடிவியல் வேறுபாடுகள்)"
+          "தொடும் பரப்புகளின் ஒழுங்கின்மைகள்"
         ],
-        "explanation": "உராய்வு எப்போதும் இயக்கத்துக்கு எதிர்த்திசையில் செயல்படுகிறது; அது இயக்கத்தைத் தடுக்கிறது, தேய்மானத்தை ஏற்படுத்துகிறது, வெப்பத்தை உண்டாக்குகிறது."
+        "explanation": "உராய்வு எப்போதும் இயக்கத்துக்கு எதிர்த்திசையில் செயல்படுகிறது; அது இயக்கத்தைத் தடுக்கிறது, தேய்மானத்தை ஏற்படுத்துகிறது, வெப்பத்தை உண்டாக்குகிறது. இவை வடிவியல் வேறுபாடுகள் ஆகும்."
       }
     },
     {
@@ -420,22 +420,22 @@
       "en": {
         "q": "Friction is often called a 'necessary evil' because",
         "options": [
-          "it occurs only in liquids",
-          "it can be completely removed with lubricants",
-          "it is essential for activities like walking and braking, but also wastes energy and wears out surfaces",
-          "it always increases the speed of moving bodies"
+          "it occurs in liquids and not in solids",
+          "it can be eliminated by using lubricants",
+          "it helps walking and braking but wastes energy",
+          "it speeds up bodies moving on a surface"
         ],
-        "explanation": "Lubricants such as grease, graphite and castor oil fill the gaps between irregular surfaces and reduce friction."
+        "explanation": "Lubricants such as grease, graphite and castor oil fill the gaps between irregular surfaces and reduce friction. It also wears out surfaces."
       },
       "ta": {
         "q": "உராய்வு 'தவிர்க்க முடியாத தீமை' (necessary evil) என அழைக்கப்படக் காரணம்",
         "options": [
-          "அது திரவங்களில் மட்டுமே தோன்றுகிறது",
-          "உயவுப் பொருட்களால் அதை முழுமையாக நீக்கிவிடலாம்",
-          "நடத்தல், வாகனத்தை நிறுத்துதல் போன்றவற்றுக்கு அது இன்றியமையாதது; ஆனால் ஆற்றலை வீணாக்கிப் பரப்புகளைத் தேய்க்கிறது",
-          "அது இயங்கும் பொருட்களின் வேகத்தை எப்போதும் அதிகரிக்கிறது"
+          "அது திரவங்களில் தோன்றும், திடப்பொருட்களில் தோன்றாது",
+          "உயவுப் பொருட்களால் அதை நீக்கிவிடலாம்",
+          "நடக்கவும் நிற்கவும் உதவினாலும் ஆற்றலை வீணாக்குகிறது",
+          "அது இயங்கும் பொருட்களின் வேகத்தை அதிகரிக்கிறது"
         ],
-        "explanation": "கிரீஸ், கிராஃபைட், ஆமணக்கு எண்ணெய் போன்ற உயவுப் பொருட்கள் ஒழுங்கற்ற பரப்புகளுக்கிடையிலான இடைவெளிகளை நிரப்பி உராய்வைக் குறைக்கின்றன."
+        "explanation": "கிரீஸ், கிராஃபைட், ஆமணக்கு எண்ணெய் போன்ற உயவுப் பொருட்கள் ஒழுங்கற்ற பரப்புகளுக்கிடையிலான இடைவெளிகளை நிரப்பி உராய்வைக் குறைக்கின்றன. அது பரப்புகளைத் தேய்மானம் அடையச் செய்கிறது."
       }
     }
   ]

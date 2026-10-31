@@ -72,20 +72,20 @@
       "en": {
         "q": "Which of the following is NOT a property a medium must have for the propagation of a mechanical wave?",
         "options": [
-          "Elasticity",
-          "Inertia",
-          "High friction among the particles",
-          "Uniform density"
+          "Elasticity of the medium",
+          "Inertia of the particles",
+          "High friction among particles",
+          "Uniform density of the medium"
         ],
         "explanation": "The medium must have minimum friction among its particles. In wave motion only energy is transferred, not the particles."
       },
       "ta": {
         "q": "இயந்திர அலை பரவ ஊடகத்துக்குத் தேவையான பண்புகளில் அல்லாதது எது?",
         "options": [
-          "மீட்சித்தன்மை",
-          "நிலைமம்",
+          "ஊடகத்தின் மீட்சித்தன்மை",
+          "ஊடகத்தின் நிலைமம்",
           "துகள்களுக்கிடையே அதிக உராய்வு",
-          "சீரான அடர்த்தி"
+          "ஊடகத்தின் சீரான அடர்த்தி"
         ],
         "explanation": "ஊடகத் துகள்களுக்கிடையே மிகக் குறைந்த உராய்வே இருக்க வேண்டும். அலை இயக்கத்தில் ஆற்றல் மட்டுமே கடத்தப்படுகிறது; துகள்கள் அல்ல."
       }
@@ -160,21 +160,21 @@
         "q": "In an orchestra, two instruments play a note of the same pitch and loudness, yet we can tell them apart. The characteristic of sound that makes this possible is",
         "options": [
           "amplitude",
-          "quality or timbre",
+          "timbre",
           "frequency",
           "speed"
         ],
-        "explanation": "Loudness depends on amplitude and pitch on frequency; timbre distinguishes sounds that have the same pitch and amplitude."
+        "explanation": "Loudness depends on amplitude and pitch on frequency; timbre distinguishes sounds that have the same pitch and amplitude. Timbre is also called the quality of sound."
       },
       "ta": {
         "q": "இசைக்குழுவில் இரு கருவிகள் ஒரே சுருதியும் ஒரே உரப்பும் கொண்ட ஒலியை எழுப்பினாலும் அவற்றை வேறுபடுத்தி அறிய முடிகிறது. இதற்குக் காரணமான ஒலியின் பண்பு",
         "options": [
           "வீச்சு",
-          "தரம் (Timbre)",
+          "தரம்",
           "அதிர்வெண்",
           "வேகம்"
         ],
-        "explanation": "உரப்பு வீச்சையும், சுருதி அதிர்வெண்ணையும் பொறுத்தது; ஒரே சுருதியும் வீச்சும் கொண்ட ஒலிகளை வேறுபடுத்துவது தரம்."
+        "explanation": "உரப்பு வீச்சையும், சுருதி அதிர்வெண்ணையும் பொறுத்தது; ஒரே சுருதியும் வீச்சும் கொண்ட ஒலிகளை வேறுபடுத்துவது தரம். தரம் என்பது ஒலியின் இனிமை (Timbre) ஆகும்."
       }
     },
     {

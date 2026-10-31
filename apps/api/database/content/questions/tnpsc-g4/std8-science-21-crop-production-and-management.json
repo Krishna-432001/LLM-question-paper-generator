@@ -15,7 +15,7 @@
         "q": "Which of the following is a zaid (summer) crop?",
         "options": [
           "Watermelon",
-          "Wheat",
+          "Chickpea",
           "Paddy",
           "Mustard"
         ],
@@ -25,7 +25,7 @@
         "q": "பின்வருவனவற்றுள் சாயித் (கோடைப்) பயிர் எது?",
         "options": [
           "தர்பூசணி",
-          "கோதுமை",
+          "கொண்டைக்கடலை",
           "நெல்",
           "கடுகு"
         ],
@@ -114,7 +114,7 @@
           "மண்வெட்டி",
           "கலப்பைத் தண்டு",
           "நுகத்தடி",
-          "கொழு (Ploughshare)"
+          "கொழு"
         ],
         "explanation": "கலப்பையின் முக்கியப் பகுதி கலப்பைத் தண்டு எனும் நீண்ட மரக்கட்டை; அதன் மறுமுனை எருதுகளின் கழுத்தில் வைக்கப்படும் நுகத்தடியுடன் இணைக்கப்படுகிறது."
       }
@@ -130,9 +130,9 @@
       "en": {
         "q": "Levelling a ploughed field with a leveller helps mainly in",
         "options": [
-          "uniform distribution of water during irrigation",
+          "even spread of irrigation water",
           "adding nitrogen to the soil",
-          "killing all soil microbes",
+          "killing soil microbes",
           "sowing seeds at equal depth"
         ],
         "explanation": "Ploughing loosens the topsoil, which helps earthworms and soil microbes that add humus; seed drills sow seeds at equal intervals and depth."
@@ -140,9 +140,9 @@
       "ta": {
         "q": "உழுத நிலத்தைச் சமன்படுத்தும் கருவியால் சமன்செய்வது முக்கியமாக உதவுவது",
         "options": [
-          "நீர்ப்பாசனத்தின்போது நீர் சீராகப் பரவ",
+          "நீர்ப்பாசன நீர் சீராகப் பரவ",
           "மண்ணில் நைட்ரஜனைச் சேர்க்க",
-          "எல்லா மண் நுண்ணுயிரிகளையும் கொல்ல",
+          "மண் நுண்ணுயிரிகளைக் கொல்ல",
           "விதைகளைச் சம ஆழத்தில் விதைக்க"
         ],
         "explanation": "உழுதல் மேல்மண்ணைத் தளர்த்தி, மட்கு சேர்க்கும் மண்புழுக்களுக்கும் நுண்ணுயிரிகளுக்கும் உதவுகிறது; விதைப்புக் கருவி (Seed drill) விதைகளைச் சம இடைவெளியிலும் ஆழத்திலும் விதைக்கிறது."
@@ -256,7 +256,7 @@
       "ta": {
         "q": "சேமிப்புக் கிடங்குகளில் தானியங்களைப் பூச்சிகளிலிருந்து காக்க வேதி ஆவிகளைத் தெளிப்பது",
         "options": [
-          "புகையூட்டல் (Fumigation)",
+          "புகையூட்டல்",
           "தூற்றுதல்",
           "போரடித்தல்",
           "இலைவழித் தெளிப்பு"
@@ -275,22 +275,22 @@
       "en": {
         "q": "In crop rotation, leguminous crops are made to follow non-leguminous crops because legumes",
         "options": [
-          "need no water",
-          "add atmospheric nitrogen to the soil for the succeeding crops",
-          "remove all weeds from the field",
-          "grow only in winter"
+          "need little attention",
+          "add nitrogen to the soil",
+          "remove weeds from the field",
+          "grow in winter"
         ],
-        "explanation": "Legumes have Rhizobium bacteria in their root nodules that fix nitrogen; mono cropping is growing the same crop in the same field year after year."
+        "explanation": "Legumes have Rhizobium bacteria in their root nodules that fix nitrogen; mono cropping is growing the same crop in the same field year after year. Legumes add atmospheric nitrogen for the succeeding crops."
       },
       "ta": {
         "q": "பயிர்சுழற்சியில் பருப்புவகை அல்லாத பயிர்களுக்குப் பின் பருப்புவகைப் பயிர்கள் பயிரிடப்படுவதன் காரணம், பருப்புவகைப் பயிர்கள்",
         "options": [
-          "நீர் தேவைப்படாதவை",
-          "அடுத்து வரும் பயிர்களுக்காக வளிமண்டல நைட்ரஜனை மண்ணில் சேர்க்கின்றன",
-          "வயலிலிருந்து எல்லாக் களைகளையும் நீக்குகின்றன",
-          "குளிர்காலத்தில் மட்டுமே வளர்கின்றன"
+          "குறைந்த கவனிப்பே தேவைப்படுபவை",
+          "மண்ணில் நைட்ரஜனைச் சேர்க்கின்றன",
+          "வயலிலிருந்து களைகளை நீக்குகின்றன",
+          "குளிர்காலத்தில் வளர்கின்றன"
         ],
-        "explanation": "பருப்புவகைத் தாவரங்களின் வேர்முடிச்சுகளில் நைட்ரஜனை நிலைநிறுத்தும் ரைசோபியம் பாக்டீரியா உள்ளது; ஒரே வயலில் ஆண்டுதோறும் ஒரே பயிரை வளர்ப்பது ஒற்றைப் பயிர்முறை."
+        "explanation": "பருப்புவகைத் தாவரங்களின் வேர்முடிச்சுகளில் நைட்ரஜனை நிலைநிறுத்தும் ரைசோபியம் பாக்டீரியா உள்ளது; ஒரே வயலில் ஆண்டுதோறும் ஒரே பயிரை வளர்ப்பது ஒற்றைப் பயிர்முறை. பருப்புவகைப் பயிர்கள் வளிமண்டல நைட்ரஜனை மண்ணில் சேர்த்து அடுத்த பயிர்களுக்குப் பயன்படுத்துகின்றன."
       }
     },
     {
@@ -316,7 +316,7 @@
         "options": [
           "விதைப் பந்துகள்",
           "கலப்பின விதைகள்",
-          "பாரம்பரிய விதைகள் (Heirloom seeds)",
+          "பாரம்பரிய விதைகள்",
           "மரபணு மாற்றிய விதைகள்"
         ],
         "explanation": "மரபணு பல்வகைமையைக் காக்க விதை வங்கிகள் நாட்டு விதைகளைச் சேமிக்கின்றன; இதனால் விதை நிறுவனங்களின் கலப்பின விதைகளை உழவர்கள் சார்ந்திருப்பது குறைகிறது."
@@ -402,7 +402,7 @@
         "q": "திரவ உரத்தை நேரடியாக இலைகளில் தெளித்துத் தாவரங்களுக்கு ஊட்டமளிப்பது",
         "options": [
           "அடியுரமிடுதல்",
-          "இலைவழி ஊட்டம் (Foliar feeding)",
+          "இலைவழி ஊட்டம்",
           "சொட்டுநீர் வழி உரமிடுதல்",
           "பசுந்தாள் உரமிடுதல்"
         ],

@@ -111,10 +111,10 @@
       "ta": {
         "q": "'The Adventures of Tom Sawyer' புதினத்தில் டாம் எந்த ஆற்றங்கரையில் அமைந்த செயின்ட் பீட்டர்ஸ்பர்க் நகரில் வளர்கிறான்?",
         "options": [
-          "தேம்ஸ்",
-          "மிசௌரி",
-          "ஹட்சன்",
-          "மிசிசிப்பி"
+          "தேம்ஸ் ஆறு",
+          "மிசௌரி ஆறு",
+          "ஹட்சன் ஆறு",
+          "மிசிசிப்பி ஆறு"
         ],
         "explanation": "டாம் தன் அத்தை பாலியுடன் வாழ்கிறான். மார்க் ட்வைன் வளர்ந்த மிசௌரி மாநில ஹானிபால் நகரமே அவருடைய புதினங்களின் களமாக அமைந்தது."
       }
@@ -161,8 +161,8 @@
         "options": [
           "Kumbakonam",
           "Tiruchirappalli",
-          "Erode",
-          "Madurai"
+          "Thiruvananthapuram",
+          "Tiruvannamalai"
         ],
         "explanation": "Raman did ground-breaking work on light scattering, which earned him the 1930 Nobel Prize for Physics. Erode is the birthplace of Srinivasa Ramanujan."
       },
@@ -171,8 +171,8 @@
         "options": [
           "கும்பகோணம்",
           "திருச்சிராப்பள்ளி",
-          "ஈரோடு",
-          "மதுரை"
+          "திருவனந்தபுரம்",
+          "திருவண்ணாமலை"
         ],
         "explanation": "ஒளிச்சிதறல் குறித்த முன்னோடி ஆய்வுக்காக இராமன் 1930இல் இயற்பியலுக்கான நோபல் பரிசு பெற்றார். ஈரோடு, சீனிவாச இராமானுஜன் பிறந்த ஊர்."
       }
@@ -275,22 +275,22 @@
       "en": {
         "q": "According to C.V. Raman's essay, the principal factor causing soil erosion is",
         "options": [
-          "Strong winds blowing over deserts",
-          "Sudden bursts of excessively heavy rain causing a large run-off",
-          "Earthquakes and landslides",
-          "Freezing of water in rock cracks"
+          "Strong winds blowing over dry deserts",
+          "Sudden, very heavy rain causing a large run-off",
+          "Earthquakes and landslides in the hills",
+          "Freezing of water in cracks of rocks"
         ],
-        "explanation": "Contributory causes are the slope of the land, removal of the protective cover of vegetation and ruts along which water flows with gathering momentum."
+        "explanation": "Contributory causes are the slope of the land, removal of the protective cover of vegetation and ruts along which water flows with gathering momentum. The rain comes in sudden excessively heavy bursts."
       },
       "ta": {
         "q": "சி.வி. இராமனின் கட்டுரையின்படி, மண் அரிப்புக்கு முதன்மைக் காரணம்",
         "options": [
-          "பாலைவனங்களில் வீசும் கடுங்காற்று",
-          "திடீரெனப் பெய்யும் மிகக் கனமழையால் ஏற்படும் பெருமளவு வழிந்தோடல்",
-          "நிலநடுக்கங்களும் நிலச்சரிவுகளும்",
-          "பாறை வெடிப்புகளில் நீர் உறைதல்"
+          "வறண்ட பாலைவனங்களில் வீசும் கடுங்காற்று",
+          "திடீரெனப் பெய்யும் மிகக் கனமழையால் ஏற்படும் வழிந்தோடல்",
+          "மலைகளில் ஏற்படும் நிலநடுக்கங்களும் நிலச்சரிவுகளும்",
+          "பாறைகளின் வெடிப்புகளில் நீர் உறைந்து விரிதல்"
         ],
-        "explanation": "நிலத்தின் சரிவு, இயற்கைத் தாவர மூடாக்கு அகற்றப்படுதல், நீர் வேகமெடுத்துப் பாயும் தடங்கள் ஆகியவை துணைக் காரணங்கள்."
+        "explanation": "நிலத்தின் சரிவு, இயற்கைத் தாவர மூடாக்கு அகற்றப்படுதல், நீர் வேகமெடுத்துப் பாயும் தடங்கள் ஆகியவை துணைக் காரணங்கள். மழை திடீரெனக் கொட்டித் தீர்க்கும் பெருமழையாக இருக்கும்."
       }
     },
     {
@@ -333,22 +333,22 @@
       "en": {
         "q": "According to C.V. Raman, the cheapest form of internal transport in a country is",
         "options": [
-          "Airways",
-          "Railways",
-          "Roadways",
-          "Boats and barges through canals and rivers"
+          "Airways and air cargo",
+          "Railways and goods trains",
+          "Roadways with trucks and buses",
+          "Boats on canals and rivers"
         ],
-        "explanation": "Raman regrets that India hears much about rail and road construction but far too little about developing inland waterways."
+        "explanation": "Raman regrets that India hears much about rail and road construction but far too little about developing inland waterways. The boats include barges that carry goods."
       },
       "ta": {
         "q": "சி.வி. இராமனின் கூற்றுப்படி, ஒரு நாட்டின் மிக மலிவான உள்நாட்டுப் போக்குவரத்து",
         "options": [
-          "வான்வழிப் போக்குவரத்து",
-          "இருப்புப்பாதைப் போக்குவரத்து",
-          "சாலைப் போக்குவரத்து",
-          "கால்வாய்கள், ஆறுகள் வழியான படகுகள் மற்றும் சரக்குப் படகுகள்"
+          "வான்வழி மற்றும் சரக்கு விமானங்கள்",
+          "இருப்புப்பாதை மற்றும் சரக்கு ரயில்கள்",
+          "சாலை மற்றும் சரக்கு லாரிகள்",
+          "கால்வாய், ஆறுகளில் செல்லும் படகுகள்"
         ],
-        "explanation": "இருப்புப்பாதை, சாலை அமைப்பு பற்றி அதிகம் பேசப்படுகிறது; ஆனால் உள்நாட்டு நீர்வழிகளின் வளர்ச்சி பற்றி மிகக் குறைவாகவே பேசப்படுகிறது என இராமன் வருந்துகிறார்."
+        "explanation": "இருப்புப்பாதை, சாலை அமைப்பு பற்றி அதிகம் பேசப்படுகிறது; ஆனால் உள்நாட்டு நீர்வழிகளின் வளர்ச்சி பற்றி மிகக் குறைவாகவே பேசப்படுகிறது என இராமன் வருந்துகிறார். இவற்றில் சரக்குப் படகுகளும் அடங்கும்."
       }
     },
     {
@@ -420,22 +420,22 @@
       "en": {
         "q": "William Temple Hornaday, author of 'Little Cyclone: The Story of a Grizzly Cub', was an American",
         "options": [
-          "President",
-          "astronaut",
-          "zoologist and pioneer of wildlife conservation",
-          "jazz musician"
+          "politician and state governor",
+          "astronaut and space scientist",
+          "zoologist and wildlife conservationist",
+          "jazz musician and band leader"
         ],
-        "explanation": "In the story, Little Cyclone is a brave grizzly cub from Alaska who stands up to bigger bears in a zoological park."
+        "explanation": "In the story, Little Cyclone is a brave grizzly cub from Alaska who stands up to bigger bears in a zoological park. He was a pioneer of wildlife conservation."
       },
       "ta": {
         "q": "'Little Cyclone: The Story of a Grizzly Cub' கதையை எழுதிய வில்லியம் டெம்பிள் ஹார்னடே ஓர் அமெரிக்க",
         "options": [
-          "அதிபர்",
-          "விண்வெளி வீரர்",
-          "விலங்கியலாளர், வனவிலங்குப் பாதுகாப்பு முன்னோடி",
-          "ஜாஸ் இசைக்கலைஞர்"
+          "அரசியல்வாதியும் மாநில ஆளுநரும்",
+          "விண்வெளி வீரரும் விண்வெளி அறிவியலாளரும்",
+          "விலங்கியலாளர், வனவிலங்குப் பாதுகாவலர்",
+          "ஜாஸ் இசைக்கலைஞரும் இசைக்குழுத் தலைவரும்"
         ],
-        "explanation": "கதையில் வரும் 'லிட்டில் சைக்ளோன்' அலாஸ்காவைச் சேர்ந்த துணிச்சலான கிரிஸ்லி கரடிக்குட்டி. விலங்கியல் பூங்காவில் தன்னைவிடப் பெரிய கரடிகளையும் அது எதிர்த்து நிற்கிறது."
+        "explanation": "கதையில் வரும் 'லிட்டில் சைக்ளோன்' அலாஸ்காவைச் சேர்ந்த துணிச்சலான கிரிஸ்லி கரடிக்குட்டி. விலங்கியல் பூங்காவில் தன்னைவிடப் பெரிய கரடிகளையும் அது எதிர்த்து நிற்கிறது. அவர் வனவிலங்குப் பாதுகாப்பின் முன்னோடி."
       }
     },
     {
@@ -710,18 +710,18 @@
       "en": {
         "q": "Why did John Shepherd-Barron reduce the ATM PIN from six digits to four?",
         "options": [
-          "His wife Caroline said she could remember only four figures",
-          "Banks could not print six-digit numbers",
-          "Six-digit PINs were banned by law",
-          "The machine's keypad had only four keys"
+          "His wife Caroline could remember only four digits",
+          "Banks could not print six-digit numbers on cards",
+          "Six-digit PINs were banned by law in Britain",
+          "The machine's small keypad had only four keys"
         ],
         "explanation": "He based the PIN on his old Indian Army number. Because of his wife, four digits became the world standard."
       },
       "ta": {
         "q": "ஜான் ஷெப்பர்ட்-பாரன் ATM இன் தனிநபர் அடையாள எண்ணை (PIN) ஆறு இலக்கத்திலிருந்து நான்கு இலக்கமாகக் குறைத்தது ஏன்?",
         "options": [
-          "நான்கு இலக்கங்களை மட்டுமே நினைவில் வைக்க முடியும் என்று அவருடைய மனைவி கரோலின் கூறியதால்",
-          "வங்கிகளால் ஆறு இலக்க எண்களை அச்சிட முடியாததால்",
+          "மனைவி கரோலினால் நான்கு இலக்கங்களையே நினைவில் வைக்க முடிந்ததால்",
+          "வங்கிகளால் அட்டைகளில் ஆறு இலக்க எண்களை அச்சிட முடியாததால்",
           "ஆறு இலக்க PIN சட்டப்படி தடை செய்யப்பட்டிருந்ததால்",
           "இயந்திரத்தின் விசைப்பலகையில் நான்கு விசைகளே இருந்ததால்"
         ],
