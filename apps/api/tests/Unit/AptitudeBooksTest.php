@@ -84,6 +84,18 @@ final class AptitudeBooksTest extends TestCase
         }
     }
 
+    public function test_no_sum_comes_back_with_only_a_name_or_an_item_changed(): void
+    {
+        foreach (AptitudeBooks::all() as $book) {
+            $sums = array_map(
+                fn (array $q): string => preg_replace('/\p{L}+/u', '', $q['en']['q'])."\u{0}".$this->correct($q),
+                $book->generate(30, 7),
+            );
+
+            $this->assertSame([], array_values(array_unique(array_diff_assoc($sums, array_unique($sums)))), $book->file());
+        }
+    }
+
     public function test_wrong_options_beside_a_whole_number_answer_are_whole_numbers_too(): void
     {
         foreach ($this->everything(15) as $q) {

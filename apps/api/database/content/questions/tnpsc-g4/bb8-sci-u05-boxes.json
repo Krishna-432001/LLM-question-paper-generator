@@ -437,35 +437,6 @@
         ],
         "explanation": "மிகக் குறைந்த உருகுநிலை இருப்பதால் அதிக மின்னோட்டத்தில் விரைவாக உருகுகிறது."
       }
-    },
-    {
-      "topic": "physics-force-motion-and-energy",
-      "format": "mcq4",
-      "difficulty": "medium",
-      "bloom": "remember",
-      "page": 52,
-      "quote": "Before the discovery of electrons, it was considered that electric current is due to the flow of positive charges. Conventional current flows from higher potential to lower potential.",
-      "answer": "A",
-      "en": {
-        "q": "Conventional current flows from ______.",
-        "options": [
-          "higher potential to lower potential",
-          "lower potential to higher potential",
-          "negative terminal to positive terminal only",
-          "earth to cloud only"
-        ],
-        "explanation": "Electrons flow from lower to higher potential, while conventional current is in the opposite direction."
-      },
-      "ta": {
-        "q": "மரபு மின்னோட்டம் ______ பாயும்.",
-        "options": [
-          "அதிக மின்னழுத்தத்திலிருந்து குறைந்த மின்னழுத்தத்திற்கு",
-          "குறைந்த மின்னழுத்தத்திலிருந்து அதிகத்திற்கு",
-          "எதிர் முனையிலிருந்து நேர் முனைக்கு மட்டும்",
-          "புவியிலிருந்து மேகத்திற்கு மட்டும்"
-        ],
-        "explanation": "எலக்ட்ரான்கள் குறைந்த மின்னழுத்தத்திலிருந்து அதிகத்திற்குப் பாயும்; மரபு மின்னோட்டம் அதற்கு எதிர்த்திசை."
-      }
     }
   ]
 }

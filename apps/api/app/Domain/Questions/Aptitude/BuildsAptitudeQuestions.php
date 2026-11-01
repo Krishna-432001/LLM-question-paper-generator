@@ -14,7 +14,8 @@ use Random\Randomizer;
  * numbers drawn do not give a clean one). A draft becomes a question with
  * three wrong options taken from likely mistakes, and the answer sits at a
  * letter fixed by the wording, so the same seed always gives the same file and
- * a larger count only adds questions.
+ * a larger count only adds questions. A draft that repeats an earlier sum with
+ * only a name or an item changed is skipped.
  */
 trait BuildsAptitudeQuestions
 {
@@ -35,7 +36,7 @@ trait BuildsAptitudeQuestions
             for ($tries = 0; count($seen) < $perTemplate && $tries < $perTemplate * 60; $tries++) {
                 $draft = $template($random);
 
-                if ($draft === null || isset($seen[$draft['en_q']])) {
+                if ($draft === null || isset($seen[$this->sum($draft)])) {
                     continue;
                 }
 
@@ -45,12 +46,26 @@ trait BuildsAptitudeQuestions
                     continue;
                 }
 
-                $seen[$draft['en_q']] = true;
+                $seen[$this->sum($draft)] = true;
                 $questions[] = $question;
             }
         }
 
         return $questions;
+    }
+
+    /**
+     * What a draft asks once its words are set aside: its numbers and its
+     * answer. Two drafts that differ only in a name or an item ("Nila" or
+     * "Malar", guavas or pens) are the same sum, so only the first is kept.
+     *
+     * @param  array<string, mixed>  $draft
+     */
+    protected function sum(array $draft): string
+    {
+        $answer = ($draft['text'] ?? false) ? $draft['en_options'][0] : (string) $draft['answer'];
+
+        return preg_replace('/\p{L}+/u', '', $draft['en_q'])."\u{0}".$answer;
     }
 
     /**

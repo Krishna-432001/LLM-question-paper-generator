@@ -66,35 +66,6 @@
       "format": "mcq4",
       "difficulty": "easy",
       "bloom": "remember",
-      "page": 25,
-      "quote": "II.2 The rate of change of velocity is ______.",
-      "answer": "D",
-      "en": {
-        "q": "The rate of change of velocity is ______.",
-        "options": [
-          "speed",
-          "distance",
-          "displacement",
-          "acceleration"
-        ],
-        "explanation": "Acceleration = change in velocity / time."
-      },
-      "ta": {
-        "q": "திசைவேகம் மாறுபடும் வீதம் ______ ஆகும்.",
-        "options": [
-          "வேகம்",
-          "தொலைவு",
-          "இடப்பெயர்ச்சி",
-          "முடுக்கம்"
-        ],
-        "explanation": "முடுக்கம் = திசைவேக மாற்றம் / காலம்."
-      }
-    },
-    {
-      "topic": "physics-force-motion-and-energy",
-      "format": "mcq4",
-      "difficulty": "easy",
-      "bloom": "remember",
       "page": 26,
       "quote": "II.3 If the velocity of an object increases with respect to time, then the object is said to be in ______ acceleration.",
       "answer": "D",
@@ -117,35 +88,6 @@
           "நேர்"
         ],
         "explanation": "திசைவேகம் அதிகரித்தால் நேர் முடுக்கம்; குறைந்தால் எதிர் முடுக்கம்."
-      }
-    },
-    {
-      "topic": "physics-force-motion-and-energy",
-      "format": "mcq4",
-      "difficulty": "easy",
-      "bloom": "remember",
-      "page": 26,
-      "quote": "II.4 The slope of the speed-time graph gives ______.",
-      "answer": "D",
-      "en": {
-        "q": "The slope of a speed–time graph gives the ______.",
-        "options": [
-          "distance",
-          "displacement",
-          "average speed",
-          "acceleration"
-        ],
-        "explanation": "A speed–time graph's gradient represents acceleration."
-      },
-      "ta": {
-        "q": "வேகம்–காலம் வரைபடத்தின் சாய்வு ______ மதிப்பைத் தருகிறது.",
-        "options": [
-          "தொலைவின்",
-          "இடப்பெயர்ச்சியின்",
-          "சராசரி வேகத்தின்",
-          "முடுக்கத்தின்"
-        ],
-        "explanation": "வேகம்–காலம் வரைபடத்தின் சாய்வு முடுக்கத்தைக் குறிக்கும்."
       }
     },
     {
