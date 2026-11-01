@@ -1,0 +1,36 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 7 Science Term-III (English)",
+  "breadcrumb": "Std 7 Science Term-III (English) — Unit 6: Visual Communication — Practice (பயிற்சி வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "remember",
+      "page": 100,
+      "quote": "To change the orientation or paper size, the following steps are used: The Format Page option is clicked.",
+      "answer": "C",
+      "en": {
+        "q": "In LibreOffice Writer, which menu command is used to change the paper format and the page orientation (Portrait or Landscape)?",
+        "options": [
+          "View → Ruler",
+          "Format → Character",
+          "Format → Page",
+          "File → Print"
+        ],
+        "explanation": "Format → Page opens the Page dialog where the paper format, width and height and the Portrait or Landscape orientation are set. Format → Character is for fonts; View → Ruler shows the ruler used for margins."
+      },
+      "ta": {
+        "q": "LibreOffice Writer-இல் தாள் வடிவம், பக்க அமைப்பு (Portrait அல்லது Landscape) ஆகியவற்றை மாற்றப் பயன்படும் பட்டி கட்டளை எது?",
+        "options": [
+          "View → Ruler",
+          "Format → Character",
+          "Format → Page",
+          "File → Print"
+        ],
+        "explanation": "Format → Page கட்டளை தாள் வடிவம், அகலம், உயரம், Portrait அல்லது Landscape அமைப்பை மாற்றும் பக்க உரையாடல் பெட்டியைத் திறக்கும். Format → Character எழுத்துருவுக்கானது; View → Ruler ஓரங்களை மாற்றப் பயன்படும் அளவுகோலைக் காட்டும்."
+      }
+    }
+  ]
+}

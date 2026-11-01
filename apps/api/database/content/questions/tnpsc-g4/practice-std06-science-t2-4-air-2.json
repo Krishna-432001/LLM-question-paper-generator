@@ -1,0 +1,65 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 6 Science Term-II (English)",
+  "breadcrumb": "Std 6 Science Term-II (English) — Unit 4: Air — Practice (பயிற்சி வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "mcq4",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 45,
+      "quote": "Mouse died as there was no oxygen in candle glass jar.",
+      "answer": "A",
+      "en": {
+        "q": "In Priestley's experiment, the mouse placed inside the sealed glass jar (before the mint plant was introduced) died because the jar ______.",
+        "options": [
+          "had no oxygen left in it",
+          "had too much oxygen in it",
+          "had too much nitrogen in it",
+          "had no nitrogen left in it"
+        ],
+        "explanation": "After the candle burned out, the oxygen in the sealed jar was used up, so the mouse died. This showed that oxygen is necessary for the survival of the mouse."
+      },
+      "ta": {
+        "q": "பிரீஸ்ட்லியின் சோதனையில், புதினாச் செடி வைக்கப்படுவதற்கு முன் மூடிய கண்ணாடிக் குடுவையினுள் வைக்கப்பட்ட எலி இறந்ததற்குக் காரணம், குடுவையில் ______.",
+        "options": [
+          "ஆக்சிஜன் எஞ்சவில்லை",
+          "ஆக்சிஜன் மிகுதியாக இருந்தது",
+          "நைட்ரஜன் மிகுதியாக இருந்தது",
+          "நைட்ரஜன் எஞ்சவில்லை"
+        ],
+        "explanation": "மெழுகுவர்த்தி எரிந்து அணைந்த பின் மூடிய குடுவையிலிருந்த ஆக்சிஜன் தீர்ந்துவிட்டதால் எலி இறந்தது. எலி உயிர் வாழ ஆக்சிஜன் அவசியம் என்பது இதனால் தெளிவானது."
+      }
+    },
+    {
+      "topic": "chemistry-elements-and-compounds",
+      "format": "statement_based",
+      "difficulty": "medium",
+      "bloom": "understand",
+      "page": 44,
+      "quote": "Atmosphere extends to more than 800km above the surface of earth. The troposphere ... extends upwards for about 16km.",
+      "answer": "C",
+      "en": {
+        "q": "Statement I: The atmosphere extends to more than 800 km above the surface of the earth.\nStatement II: The troposphere extends upwards for about 16 km above the surface of the earth.\nStatement III: The ionosphere is the layer of the atmosphere closest to the earth.\nWhich of the following is correct?",
+        "options": [
+          "Statements II and III only",
+          "Statements I and III only",
+          "Statements I and II only",
+          "Statements I, II and III"
+        ],
+        "explanation": "The atmosphere extends to more than 800 km and the troposphere, about 16 km. The layer closest to the earth is the troposphere, not the ionosphere, so statement III is false."
+      },
+      "ta": {
+        "q": "கூற்று I: வளிமண்டலம் புவியின் மேற்பரப்பிலிருந்து 800 கி.மீ.க்கு மேலும் விரிந்துள்ளது.\nகூற்று II: அடிவளி மண்டலம் (ட்ரோபோஸ்பியர்) புவியின் மேற்பரப்பிலிருந்து சுமார் 16 கி.மீ. வரை உயர்ந்துள்ளது.\nகூற்று III: அயனி மண்டலம் (அயனோஸ்பியர்) புவிக்கு மிக அருகிலுள்ள வளிமண்டல அடுக்காகும்.\nசரியான விடை எது?",
+        "options": [
+          "கூற்றுகள் II மற்றும் III மட்டும் சரி",
+          "கூற்றுகள் I மற்றும் III மட்டும் சரி",
+          "கூற்றுகள் I மற்றும் II மட்டும் சரி",
+          "கூற்றுகள் I, II, III அனைத்தும் சரி"
+        ],
+        "explanation": "வளிமண்டலம் 800 கி.மீ.க்கு மேல் விரிந்துள்ளது; அடிவளி மண்டலம் சுமார் 16 கி.மீ. வரை உள்ளது. புவிக்கு மிக அருகிலுள்ள அடுக்கு அடிவளிமண்டலமே; அயனி மண்டலம் அன்று, எனவே கூற்று III தவறு."
+      }
+    }
+  ]
+}

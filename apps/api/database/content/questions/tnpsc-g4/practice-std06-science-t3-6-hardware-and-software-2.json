@@ -1,0 +1,65 @@
+{
+  "exam": "TNPSC_G4",
+  "source": "Std 6 Science Term-III (English)",
+  "breadcrumb": "Std 6 Science Term-III (English) — Unit 6: Hardware and Software — Practice (பயிற்சி வினாக்கள்)",
+  "questions": [
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 81,
+      "quote": "The following are the examples of application program: Video player, Audio player, Word processing software, Drawing tools, Editing software",
+      "answer": "C",
+      "en": {
+        "q": "According to the textbook, an audio player is an example of ______.",
+        "options": [
+          "an operating system",
+          "system software",
+          "application software",
+          "hardware"
+        ],
+        "explanation": "The textbook lists video player, audio player, word processing software, drawing tools and editing software as application software, designed for the benefit of the end user."
+      },
+      "ta": {
+        "q": "நூலின்படி, ஒலி இயக்கி (ஆடியோ பிளேயர்) ______ க்கு எடுத்துக்காட்டாகும்.",
+        "options": [
+          "இயக்க முறைமை",
+          "கணினி மென்பொருள் (சிஸ்டம்)",
+          "பயன்பாட்டு மென்பொருள்",
+          "வன்பொருள்"
+        ],
+        "explanation": "காணொளி இயக்கி, ஒலி இயக்கி, சொல் செயலி, வரைதல் கருவிகள், தொகுப்பு மென்பொருள் ஆகியவை பயனரின் நன்மைக்காக வடிவமைக்கப்பட்ட பயன்பாட்டு மென்பொருள்கள் என நூல் குறிப்பிடுகிறது."
+      }
+    },
+    {
+      "topic": "scientific-knowledge-and-scientific-temper",
+      "format": "mcq4",
+      "difficulty": "easy",
+      "bloom": "remember",
+      "page": 80,
+      "quote": "Hardware includes Input and Output devices, Cabinet, Hard Disk, Mother Board, SMPS, CPU, RAM, CD Drive and Graphics Card.",
+      "answer": "A",
+      "en": {
+        "q": "Which of the following is a hardware part of a computer, according to the textbook?",
+        "options": [
+          "Graphics card",
+          "Audio player",
+          "Linux",
+          "Word processing software"
+        ],
+        "explanation": "Hardware is the part of the computer that we can touch and feel; the textbook lists the graphics card among them. Audio player and word processing software are application software, and Linux is an operating system."
+      },
+      "ta": {
+        "q": "நூலின்படி, பின்வருவனவற்றுள் கணினியின் வன்பொருள் பகுதி எது?",
+        "options": [
+          "வரைகலை அட்டை (கிராஃபிக்ஸ் கார்டு)",
+          "ஒலி இயக்கி (ஆடியோ பிளேயர்)",
+          "லினக்ஸ்",
+          "சொல் செயலி மென்பொருள்"
+        ],
+        "explanation": "தொட்டு உணரக்கூடிய கணினிப் பகுதிகள் வன்பொருள்; அவற்றுள் வரைகலை அட்டையும் ஒன்று என நூல் கூறுகிறது. ஒலி இயக்கியும் சொல் செயலியும் பயன்பாட்டு மென்பொருள்; லினக்ஸ் ஓர் இயக்க முறைமை."
+      }
+    }
+  ]
+}
